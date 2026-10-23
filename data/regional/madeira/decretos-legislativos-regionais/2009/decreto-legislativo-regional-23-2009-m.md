@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2009/08/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-493516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2213e4d0e1bf04f69bd2d2678bb404fbb8a42b26e693c0edb47a00b74281a15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ece29522634fe0438e7d0286614985ffccfb8f78b653a991be226eee3b2be0a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Obras Particulares
-- Urbanização
-- Governo Regional
 - Direcção Regional de Estatística
 - Direcção Regional de Informação Geográfica e de Ordenamento do Território
 - Fiscalização
-- Licenciamento
+- Governo Regional
 - Licença de Construção
+- Licenciamento
 - Loteamento Urbano
 - Madeira.região Autónoma
+- Obras Particulares
 - Regime Jurídico
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:901536098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278213:por
+  label: "Dada nova redacção aos arts 1º, 5.º-A, 6º, 7.º, 10º e 10.º-A do DLR 37/2006/M de 18-Ago, alterado e republicado\
+    \ pelo presente diploma, pelo DLR.7/2011/M.16.03.2011.AL-RAM, DR.IS [53] de 16.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2011-278213
+  date: '2011-03-16'
+- type: amended_by
+  target: pt:dre:901536098:por
+  label: Determinada, entre 1 de janeiro e 31 de dezembro de 2025, a majoração em 50 % dos valores máximos de renda por metro
+    quadrado, no arrendamento de habitações pela Região, e em 20 % dos valores mensais, não reembolsáveis, no incentivo ao
+    arrendamento de prédios ou de frações autónomas para residência permanente, ao abrigo, respetivamente, dos artigos 12.º
+    e 27.º do presente diploma pelo(a) Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série
+    I de 2024-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2024-901536098
+  date: '2024-12-30'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:37/2006/M
+  label: "Altera os artigos 1.º, 3.º, 4.º,7.º, 9.º, adita os artigos 1.º-A, 5.º-A e 10.º-A, revoga o artigo 8.º do Decreto\
+    \ Legislativo Regional n.º 37/2006/M, de 18 de Agosto, DR.IS [159], e republica-o em anexo\0\0"
+  source: null
+  date: '2006-08-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
   label: null
@@ -118,16 +139,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/9/1995/01/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/9/1995/01/05/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:11Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +223,9 @@ Objecto
 
 O [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação, na redacção que lhe foi conferida pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro, aplica-se à Região Autónoma da Madeira com as adaptações constantes dos artigos seguintes.
 
-###### Artigo 3.º — Competências da Região Autónoma da Madeira e do Governo Regional
+Artigo 3.º
+
+Competências da Região Autónoma da Madeira e do Governo Regional
 
 1 - As referências feitas ao Estado pelo artigo 7.º consideram-se reportadas à Região Autónoma da Madeira.
 
@@ -174,15 +233,21 @@ O [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 3 - As referências feitas e as atribuições cometidas ao Conselho de Ministros pelo artigo 13.º-A consideram-se reportadas e são exercidas pelo Conselho do Governo Regional.
 
-###### Artigo 4.º — Competências da Direcção Regional de Informação Geográfica e Ordenamento do Território
+Artigo 4.º
+
+Competências da Direcção Regional de Informação Geográfica e Ordenamento do Território
 
 As referências feitas e as atribuições cometidas a comissão de coordenação e desenvolvimento regional, a direcção regional do ambiente e ordenamento do território e ao Instituto Geográfico Português pelos artigos 7.º, 13.º,13.º-A, 13.º-B, 42.º, 50.º, 51.º, 84.º, 85.º, 108.º-A e 120.º consideram-se reportadas e são exercidas pela Direcção Regional de Informação Geográfica e Ordenamento do Território.
 
-###### Artigo 7.º — Competências da Administração Regional Autónoma
+Artigo 7.º
+
+Competências da Administração Regional Autónoma
 
 As referências feitas e as atribuições cometidas à administração central pelos artigos 13.º-A, 37.º, 39.º e 114.º consideram-se reportadas e são exercidas pela administração regional autónoma.
 
-###### Artigo 9.º — Referências à Direcção Regional de Estatística
+Artigo 9.º
+
+Referências à Direcção Regional de Estatística
 
 As referências feitas ao Instituto Nacional de Estatística pelo artigo 126.º consideram-se reportadas à Direcção Regional de Estatística.»
 
@@ -196,13 +261,17 @@ Definições
 
 Para efeito do presente diploma, entendem-se por 'Operações de loteamento' as acções que tenham por objecto ou por efeito a constituição de um ou mais lotes destinados, imediata ou subsequentemente, à edificação urbana e que resultem da divisão de um ou vários prédios ou do seu reparcelamento, com excepção das acções de junção de dois ou mais prédios de que resulte um único prédio.
 
-###### Artigo 5.º-A — Competências conjuntas dos membros do Governo Regional das tutelas nas áreas da administração pública e do equipamento social
+Artigo 5.º-A
+
+Competências conjuntas dos membros do Governo Regional das tutelas nas áreas da administração pública e do equipamento social
 
 1 - As referências feitas e as atribuições cometidas aos membros do Governo pelos artigos 13.º-A e 126.º são reportadas, conjuntamente, aos membros do Governo Regional responsáveis pelas áreas da administração pública e do equipamento social.
 
 2 - O disposto no n.º 2 do artigo 8.º-A e no n.º 1 do artigo 126.º é regulamentado através de portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da administração pública e do equipamento social.
 
-###### Artigo 10.º-A — Participação, acção administrativa especial e declaração de nulidade
+Artigo 10.º-A
+
+Participação, acção administrativa especial e declaração de nulidade
 
 A possibilidade de o órgão que emitiu o acto ou a deliberação declarar as nulidades previstas nas alíneas a), b) e c) do artigo 68.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, caduca no prazo de três anos, caducando também o direito de propor a acção prevista no respectivo n.º 1 do artigo 69.º, se os factos que determinaram a nulidade não forem participados ao Ministério Público nesse prazo, excepto relativamente a monumentos nacionais e respectiva zona de protecção.»
 
@@ -220,11 +289,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 7 de Julho de 2009.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Publique-se.**
+Publique-se.
 
-**Assinado em 3 de Agosto de 2009.**
+Assinado em 3 de Agosto de 2009.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 

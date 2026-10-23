@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/01/013000000/0296202963.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2009-1914431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7461688e780c4494ef65c4b6175383d31ede1218593884b61e311f51307df7a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8d79481a2e75a97f085e6c83355a6c8f300ae911abfe3194f5b776963cdcd82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1713215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667135:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:56Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1/2009/A
+# Declaração de rectificação n.º 1/2009/A
 
 Rectificação ao [Aviso n.º 61-A/2008/A](https://diariodarepublica.pt/dr/detalhe/aviso/61-a-2008-1713215), publicado no Diário da República, 2.ª Série, n.º 252, de 31 de Dezembro - Parte F, referente à abertura de concurso interno de acesso geral para o preenchimento de um lugar de enfermeiro especialista em Saúde Infantil e Pediátrica do Quadro Regional da Ilha Terceira, afecta ao Centro de Saúde de Angra do Heroísmo, onde se lê:
 

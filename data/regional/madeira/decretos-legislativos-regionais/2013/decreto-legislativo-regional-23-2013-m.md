@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2013/07/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2013-497805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 992c7922e74e7e9f135e2f7b075b77145dfe5d9181b702c3c6bb49478bdd2345
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 468a10e83ce55594a9cd80e2a0ad0cd0180e600edc197fca06cc5dea87b2d333
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Administração dos Portos da Região Autónoma da Madeira
-- Empresa
-- Multa
-- Direcção Regional de Portos
 - Administração de Portos
+- Administração dos Portos da Região Autónoma da Madeira
 - Carreira Profissional
+- Contrato de Trabalho
+- Direcção Regional de Portos
+- Empresa
 - Fiscalização
+- Inspecção Regional do Trabalho
 - Instituto da Mobilidade e dos Transportes
 - Instituto do Trabalho Portuário
 - Licenciamento
-- Operador Portuário
 - Madeira.região Autónoma
-- Contrato de Trabalho
+- Multa
+- Operador Portuário
 - Regime Jurídico
-- Inspecção Regional do Trabalho
 - Trabalhador Portuário
 - Trabalho Portuário
 relationships:
@@ -108,16 +108,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2013/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2013/01/14/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:42Z'
   warnings: []
   errors: []
 ---
@@ -150,15 +174,21 @@ São alterados os artigos 1.º, 2.º, 3.º e 4.º do [Decreto Legislativo Region
 
 Na aplicação à Região Autónoma da Madeira do regime jurídico do trabalho portuário, estabelecido pelo [Decreto-Lei n.º 280/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1993-356105), de 13 de agosto, alterado pela [Lei n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), de 14 de janeiro, ter-se-ão em conta as adaptações de caráter orgânico constantes dos artigos seguintes.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 As referências feitas, bem como as competências atribuídas, pelo [Decreto-Lei n.º 280/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1993-356105), de 13 de agosto, alterado pela [Lei n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), de 14 de janeiro, e seus regulamentos ao Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.) consideram-se reportadas e serão exercidas na Região Autónoma da Madeira pela APRAM - Administração dos Portos da Região Autónoma da Madeira, S.A.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 As referências feitas, bem como as competências atribuídas, pelo artigo 16.º do [Decreto-Lei n.º 280/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1993-356105), de 13 de agosto, alterado pela [Lei n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), de 14 de janeiro, ao ministério responsável pela área laboral consideram-se reportadas e serão exercidas na Região pela Inspeção Regional do Trabalho.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 O montante das coimas a que se refere o artigo 19.º do [Decreto-Lei n.º 280/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1993-356105), de 13 de agosto, alterado pela [Lei n.º 3/2013](https://diariodarepublica.pt/dr/detalhe/lei/3-2013-588819), de 14 de janeiro, reverterá para a autoridade portuária em 60% e para Região em 40%.»
 
@@ -172,11 +202,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 19 de junho de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 25 de junho de 2013.**
+Assinado em 25 de junho de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

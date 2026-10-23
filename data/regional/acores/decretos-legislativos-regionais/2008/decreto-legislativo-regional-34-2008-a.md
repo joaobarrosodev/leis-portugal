@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/34/2008/07/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2008-454780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fe126ecabc09bd5e689bf64bebd0c8d88eb4e864e0744545d834f00fa91e133
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50bebe81884a1c0a255f59ea0685d59e75ca2fb7af34a2b89381a9c1621497c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,45 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
+- Administração Regional
 - Aquisição de Bens e Serviços
 - Assembleia Regional
+- Autarquia Local
+- Código dos Contratos Públicos
 - Concurso Público
 - Contra-ordenação
+- Contratação Pública
 - Contrato Administrativo
 - Controlo Estatístico
 - Delegação de Competências
-- Empreitada de Obras Públicas
-- Informática
-- Fiscalização
-- Setor Empresarial do Estado
-- Publicitação
 - Documento Eletrónico
-- Código dos Contratos Públicos
+- Empreitada de Obras Públicas
+- Fiscalização
+- Informática
 - Internet
-- Administração Regional
-- Açores
-- Autarquia Local
-- Contratação Pública
+- Publicitação
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:72970526:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494020:por
+  label: "Introduzidas as seguintes alterações ao presente diploma pelo DLR.15/2009/A.06.08.2009.AL-RAA, DR.IS [151], de 06.08.2009,\
+    \ que o republicou com todas as alterações:- renumerados os arts. 7º, 8º, 10º, 11º, 12º, 13º, 14º, 16º, 17º, 18º, 19º,\
+    \ 20º, 21º, 22º, 23º, 25º, 26º, 27º, 28º, 29º e 30º, respectivamente, como arts. 6º, 10º, 13º, 14º, 15º, 16º, 17º, 18º,\
+    \ 19º, 20º, 21º, 23º, 26º, 27º, 28º, 30º, 37º, 38º, 39º, 40º e 41º; - alterado e renumerado o art. 24º, que passa a art.\
+    \ 29º, assim como é alterada a organização sistemática deste diploma, ao qual aditou a secção III ao cap. I com a epígrafe\
+    \ “Celebração do contrato”, o cap. IV passou a ter como epígrafe “Regime substantivo dos contratos administrativos”, a\
+    \ secção II do cap. IV passou a ter como epígrafe “Contratos administrativos em especial”, aditadas as subsecções I e\
+    \ II à secção II do cap. IV com as epígrafes “Empreitadas de obras públicas” e “Concessões de obras públicas e de serviços\
+    \ públicos, respectivamente, eliminada a secção III do cap. IV, com a epígrafe “Concessões de obras públicas e de serviços\
+    \ públicos”, mantendo o respectivo conteúdo na subsecção II da secção II do mesmo cap.; - revogados os anteriores arts.\
+    \ 6º, 9º e 15º; - e aditados os arts. 7º, 8º, 9º, 11º, 12º, 22º, 24º, 25º, 31º, 32º, 33º, 34º, 35º e 36º.\0º.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2009-494020
+  date: '2009-08-06'
 - type: cites
   target: celex:32004L0017
   label: null
@@ -98,16 +113,22 @@ relationships:
   target: celex:32004L0018
   label: null
   source: http://data.europa.eu/eli/dir/2004/18/oj
+- type: repealed_by
+  target: pt:dre:72970526:por
+  label: Revogado (a partir de 01.01.2016), na redação do DLR 15/2009/A de 06-ago, pelo(a) Decreto Legislativo Regional n.º
+    27/2015/A - Diário da República n.º 253/2015, Série I de 2015-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2015-72970526
+  date: '2015-12-29'
 article_structure:
   article_count: 30
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:50Z'
   warnings: []
   errors: []
 ---
@@ -392,10 +413,10 @@ O presente diploma produz efeitos aquando da entrada em vigor do Decreto-Lei n.�
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de Junho de 2008.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 16 de Julho de 2008.**
+Assinado em Angra do Heroísmo em 16 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

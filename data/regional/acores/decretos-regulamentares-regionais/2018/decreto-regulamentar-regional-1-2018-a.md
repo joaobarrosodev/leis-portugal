@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2018/01/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2018-114472725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fa83211f43ffac7c2c911a09746ba65fa2d7e79fc9f8f97026dca465c1c5df3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9f3d767ec62df0e9a58dd1ef81f4af2f1e57c2787e6e9eca7f551a612be6dfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Economia Digital
-- Região Autónoma
-- Direção Geral de Agricultura e Desenvolvimento Rural
-- Financiamento
-- Empresa
-- Desenvolvimento Regional
-- Competitividade Empresarial
-- Internacionalização Empresarial
-- Apoio ao Investimento
+- Açores
 - Apoio à Exportação
+- Apoio ao Investimento
 - Competitividade da Economia
+- Competitividade Empresarial
 - Desenvolvimento Económico
-- Exportação
-- Produtividade
-- Emprego
-- Programa Operacional
 - Desenvolvimento Local
+- Desenvolvimento Regional
+- Direção Geral de Agricultura e Desenvolvimento Rural
+- Economia Digital
+- Emprego
+- Empresa
+- Exportação
+- Financiamento
+- Internacionalização Empresarial
+- Produtividade
+- Programa Operacional
+- Região Autónoma
 - Serviço Regional
 - Sistema de Incentivos da Região Autónoma dos Açores
-- Açores
 - Sistema de Incentivos de BASE Regional
-- Sistema de Incentivos Regionais
 - Sistema de Incentivos para a Competitividade Empresarial
+- Sistema de Incentivos Regionais
 - Subsistema de Incentivos para a Internacionalização
 relationships:
 - type: cites
@@ -143,16 +143,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/17/2014/09/17/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/17/2014/09/17/a/dre
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56894784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73318691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74454667:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:25Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +213,9 @@ Os artigos 5.º e 11.º do [Decreto Regulamentar Regional n.º 1/2016/A](https:/
 
 5 - Os promotores só podem apresentar uma segunda candidatura depois de concluído o projeto anteriormente aprovado no âmbito do presente Subsistema de Incentivos, do qual façam parte como detentores de capital, salvo situação devidamente justificada.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -239,11 +265,11 @@ O presente diploma entra em vigor a 1 de janeiro de 2018.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 20 de novembro de 2017.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 20 de dezembro de 2017.**
+Assinado em Angra do Heroísmo em 20 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -521,7 +547,7 @@ b) Auxílios à prestação de assistência técnica no setor agrícola, quando 
 
 1 - O apoio a conceder às despesas elegíveis para os projetos a que se refere o artigo 4.º reveste a forma de incentivo não reembolsável, correspondente às taxas mencionadas no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 2 - No caso das empresas existentes à data de apresentação da candidatura e para os projetos a que se referem as alíneas a) e c) do artigo 4.º, pode ser concedido um prémio de realização após a conclusão do projeto de investimento, tendo por base o grau de obtenção de resultados, o qual corresponde à aplicação das seguintes percentagens sobre as despesas elegíveis do projeto, em função dos seguintes indicadores de obtenção de resultados:
 
@@ -733,7 +759,7 @@ O projeto apresentado é avaliado considerando os seguintes fatores:
 
 A pontuação é obtida da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 A2 - Grau de inovação
 
@@ -747,7 +773,7 @@ O projeto é avaliado em função da amplitude da inovação, aferida pelas ativ
 
 A pontuação é obtida da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 A3 - Qualidade dos recursos humanos da empresa
 
@@ -755,7 +781,7 @@ A3 - Qualidade dos recursos humanos da empresa
 
 A pontuação é obtida da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 - Fraca se a empresa não dispõe de recursos humanos qualificados e com experiência relevante;
 
@@ -785,7 +811,7 @@ Relativamente à qualificação dos mercados internacionais, considera-se:
 
 A pontuação é obtida da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 B2 - Mercados de destino
 
@@ -793,7 +819,7 @@ Com o projeto apresentado, a empresa pretende apostar num mercado situado noutra
 
 A pontuação é atribuída da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 C - Impacto na economia
 
@@ -807,7 +833,7 @@ Deve ser aferido se com o projeto a empresa pretende criar mais postos de trabal
 
 A pontuação deste subcritério é obtida do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 C2 - Graus de qualificação do emprego criado
 
@@ -855,7 +881,7 @@ Se contemplar 2 ou 3 objetivos a pontuação será Média.
 
 Se contemplar 4 ou 5 objetivos a pontuação será Muito Forte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 D2 - Atividade do projeto
 
@@ -885,13 +911,13 @@ Se a empresa se enquadrar numa das áreas acima referidas a pontuação será co
 
 Se o projeto se enquadrar em mais de uma área a pontuação será considerada como Muito Forte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 D3 - Nível de enquadramento na RIS3
 
 O critério D3 é medido pelo nível de enquadramento na RIS3 e traduz-se no grau de alinhamento do projeto com a Estratégia de Investigação e Inovação para a Especialização Inteligente da Região Autónoma dos Açores (RIS3 Açores), tem por referência o documento com o mesmo nome e obtém-se pela aplicação da seguinte matriz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 sendo que:
 
@@ -943,7 +969,7 @@ O projeto apresentado é avaliado considerando os seguintes fatores:
 
 A pontuação é obtida da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 A2 - Grau de inovação
 
@@ -959,7 +985,7 @@ Valoriza-se a integração no projeto de:
 
 A pontuação é obtida da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 A3 - Competência e experiência da equipa coordenadora e entidades externas a envolver
 
@@ -975,7 +1001,7 @@ Os promotores do projeto:
 
 A pontuação é obtida da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 B - Impacto do projeto conjunto na competitividade das empresas
 
@@ -997,13 +1023,13 @@ Relativamente à qualificação dos mercados internacionais, considera-se:
 
 A pontuação é obtida da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 B2 - Mercados de destino
 
 O plano de cooperação apresentado prevê atingir os seguintes mercados, pontuados da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 C - Impacto na economia
 
@@ -1015,7 +1041,7 @@ C1 - Criação líquida de emprego na equipa coordenadora e nas empresas partici
 
 A pontuação deste subcritério é obtida do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 C2 - Graus de qualificação do emprego criado na equipa coordenadora e nas empresas participantes resultante do plano de cooperação (Anexo II)
 
@@ -1063,7 +1089,7 @@ Se contemplar 2 ou 3 objetivos a pontuação será Média
 
 Se contemplar 4 ou 5 objetivos a pontuação será Muito Forte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 D2 - Atividades das empresas incluídas no plano de cooperação
 
@@ -1093,13 +1119,13 @@ Se as empresas pertencerem maioritariamente a uma das áreas acima referidas a p
 
 Se as empresas se enquadrarem em mais do que uma das áreas acima referidas a pontuação será considerada como Elevada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 D3 - Nível de enquadramento na RIS3
 
 O critério D3 é medido pelo nível de enquadramento na RIS3 e traduz-se no grau de alinhamento do plano de cooperação com a Estratégia de Investigação e Inovação para a Especialização Inteligente da Região Autónoma dos Açores (RIS3 Açores), tendo por referência o documento com o mesmo nome e obtém-se pela aplicação da seguinte matriz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0022300235.pdf)
 
 sendo que:
 
@@ -1108,3 +1134,5 @@ Grau de alinhamento fraco - projeto enquadrado nas prioridades estratégicas da 
 Grau de alinhamento médio - projeto enquadrado nas prioridades estratégicas e nas tipologias de atuação da RIS3 Açores.
 
 Grau de alinhamento forte - projeto enquadrado nas prioridades estratégicas, nas tipologias de atuação da RIS3 Açores e nos projetos propostos como verdadeiras «bandeiras» da RIS3 Açores ou que responde a debilidades setoriais identificadas no documento da RIS3.
+
+111014325

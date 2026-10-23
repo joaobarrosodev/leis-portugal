@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 140/2007, 1º Suplemento, Série I de 2007-07-23
   number: '140'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4666-(10) a 4666-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14001/0001000011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/794-c/2007/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/794-c-2007-499203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20221fa1769441b5e63dab521c25115bbfdf72369c9ee8421421f006bfc87357
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c08c0a31f9905eabb5e1e5de7cac12c055fb6e90a952a01eae13c8d805d43271
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/222/2006/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/222/2006/03/08/p/dre
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687038:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:58Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +120,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 3.º A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 11 de Julho de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 11 de Julho de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/14001/0001000011.pdf))](https://files.diariodarepublica.pt/1s/2007/07/14001/0001000011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/14001/0001000011.pdf)

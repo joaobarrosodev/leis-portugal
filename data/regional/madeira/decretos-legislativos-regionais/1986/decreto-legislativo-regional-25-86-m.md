@@ -46,36 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1986-222451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 426dd676907f4468b8bb64537e5e3940e334c15b61f60131bc32c27060719eea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d3ab965bd95cee5136cd107083ae3eab8d9fc2730a5487ac184166ec85bf18f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cooperativa de Habitação
+- Financiamento
+- Habitação Social
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:324964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659929:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:07Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +126,9 @@ Aliás, o agravamento dos custos de construção na Região tem de há muito rec
 
 Assim, a Assembleia Regional da Madeira decreta, nos termos da alínea a) do artigo 229.º da Constituição da República, o seguinte:
 
-###### Artigo 1.º O Governo Regional da Madeira promoverá o apoio às cooperativas de habitação e construção na Região Autónoma da Madeira nos termos definidos no presente diploma.
+Artigo 1.º O Governo Regional da Madeira promoverá o apoio às cooperativas de habitação e construção na Região Autónoma da Madeira nos termos definidos no presente diploma.
 
-###### Art. 2.º São condições para que as cooperativas de habitação e construção possam usufruir de apoio nos financiamentos:
+Art. 2.º São condições para que as cooperativas de habitação e construção possam usufruir de apoio nos financiamentos:
 
 a) Os fogos serem construídos na Região Autónoma da Madeira;
 
@@ -116,7 +144,7 @@ f) Fazer prova de que os reembolsos de eventuais empréstimos anteriormente conc
 
 g) Apresentar acta da assembleia geral realizada para o efeito, na qual constem expostos, discutidos e aprovados os critérios para programas habitacionais.
 
-###### Art. 3.º - 1 - O apoio financeiro do Governo Regional às cooperativas de habitação e construção expressar-se-á na atribuição de uma bonificação adicional de juros relativamente aos créditos a contrair por estas junto das entidades competentes.
+Art. 3.º - 1 - O apoio financeiro do Governo Regional às cooperativas de habitação e construção expressar-se-á na atribuição de uma bonificação adicional de juros relativamente aos créditos a contrair por estas junto das entidades competentes.
 
 2 - A bonificação adicional a que alude o número anterior será fixada anualmente por portaria dos Secretários Regionais do Plano e do Equipamento Social, tendo em consideração a conjuntura económica e financeira nacional e regional, as necessidades de habitação e a estrutura dos custos de construção na Região.
 
@@ -124,7 +152,7 @@ g) Apresentar acta da assembleia geral realizada para o efeito, na qual constem 
 
 4 - Considera-se «período de construção» o intervalo de tempo que decorre até à passagem da licença de habitabilidade, passada pela respectiva câmara, o qual não deverá, em princípio, ultrapassar os 30 meses.
 
-###### Art. 4.º A cooperativa beneficiadora do apoio financeiro previsto no presente diploma fica obrigada a praticar os preços de venda aos seus associados pelo respectivo custo, o qual se obterá em conformidade com os seguintes elementos:
+Art. 4.º A cooperativa beneficiadora do apoio financeiro previsto no presente diploma fica obrigada a praticar os preços de venda aos seus associados pelo respectivo custo, o qual se obterá em conformidade com os seguintes elementos:
 
 a) Valor dos terrenos e suas adaptações e infra-estruturas necessárias;
 
@@ -142,31 +170,31 @@ g) Custos de seguros, garantias, taxas e licenças dos fogos até à entrega em 
 
 h) Actualização das taxas de juros legais.
 
-###### Art. 5.º O Governo Regional inscreverá anualmente no Orçamento da Região as verbas necessárias para suportar os encargos resultantes da bonificação prevista no n.º 1 do artigo 3.º
+Art. 5.º O Governo Regional inscreverá anualmente no Orçamento da Região as verbas necessárias para suportar os encargos resultantes da bonificação prevista no n.º 1 do artigo 3.º
 
-###### Art. 6.º O financiamento a que se refere o artigo 2.º será efectuado em relação a terrenos de que a cooperativa seja proprietária ou superficiária e mediante prestação de garantias normalmente exigidas pelas instituições de crédito nas circunstâncias.
+Art. 6.º O financiamento a que se refere o artigo 2.º será efectuado em relação a terrenos de que a cooperativa seja proprietária ou superficiária e mediante prestação de garantias normalmente exigidas pelas instituições de crédito nas circunstâncias.
 
-###### Art. 7.º - 1 - Para que as cooperativas possam usufruir de crédito bonificado é necessário que os fogos ou edificações habitacionais sejam considerados «habitação social», obedecendo aos parâmetros e critérios materiais àquela qualificação inerentes, designadamente quanto aos limites de área bruta de construção e valor por tipo de fogo, definidos nos termos seguintes:
+Art. 7.º - 1 - Para que as cooperativas possam usufruir de crédito bonificado é necessário que os fogos ou edificações habitacionais sejam considerados «habitação social», obedecendo aos parâmetros e critérios materiais àquela qualificação inerentes, designadamente quanto aos limites de área bruta de construção e valor por tipo de fogo, definidos nos termos seguintes:
 
 a) Limites de área bruta de construção:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/23400/30333034.pdf))](https://files.diariodarepublica.pt/1s/1986/10/23400/30333034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/10/23400/30333034.pdf)
 
 b) Os valores máximos de construção por tipo de fogo serão os constantes da legislação nacional, acrescidos da correcção para a Região, a fixar em portaria dos Secretários Regionais do Plano e do Equipamento Social.
 
 2 - É admissível, em situações excepcionais e justificadas caso a caso, uma tolerância aos limites máximos, que nunca poderá exceder 5%.
 
-###### Art. 8.º - 1 - O montante dos empréstimos para financiamento à construção de habitações não poderá exceder o valor das habitações, calculado nos termos do artigo 4.º, com exclusão das parcelas respeitantes ao terreno e à reserva para construção.
+Art. 8.º - 1 - O montante dos empréstimos para financiamento à construção de habitações não poderá exceder o valor das habitações, calculado nos termos do artigo 4.º, com exclusão das parcelas respeitantes ao terreno e à reserva para construção.
 
 2 - O montante dos empréstimos para financiamento da aquisição de habitações não poderá exceder 95% do valor das habitações a que se refere o artigo 7.º
 
-###### Art. 9.º - 1 - Na hipótese de o titular do imóvel pretender aliená-lo, e para efeitos do exercício do direito de preferência legal e estatutariamente previsto, deverá remeter proposta em carta registada com aviso de recepção à direcção da cooperativa, identificando o prédio e sua caracterização material e preço de transacção.
+Art. 9.º - 1 - Na hipótese de o titular do imóvel pretender aliená-lo, e para efeitos do exercício do direito de preferência legal e estatutariamente previsto, deverá remeter proposta em carta registada com aviso de recepção à direcção da cooperativa, identificando o prédio e sua caracterização material e preço de transacção.
 
 2 - O preço de venda será o que resultar do seu custo final de acordo com os valores fixados no artigo 4.º, com as correcções ou actualizações que devam ser introduzidas por via de outros factores, nomeadamente o período de tempo decorrido desde a conclusão da construção e, eventualmente, a depreciação sofrida.
 
 3 - A pedido das cooperativas de habitação, as Secretarias Regionais do Plano e do Equipamento Social emitirão os critérios ou valores que fundamentem o montante do preço referido no número antecedente.
 
-###### Art. 10.º O Governo Regional, autarquias e empresas públicas regionais diligenciarão na adopção de medidas normativas e administrativas para que possam ser facultados as cooperativas de habitação e construção na Região, em termos razoáveis, e dentro dos limites das suas possibilidades e da capacidade daquelas:
+Art. 10.º O Governo Regional, autarquias e empresas públicas regionais diligenciarão na adopção de medidas normativas e administrativas para que possam ser facultados as cooperativas de habitação e construção na Região, em termos razoáveis, e dentro dos limites das suas possibilidades e da capacidade daquelas:
 
 a) Solos aptos para construção de habitações, em direito de superfície ou não;
 
@@ -176,18 +204,18 @@ c) Informação e orientação e apoios nos estudos prévios, anteprojectos e pr
 
 d) Facilidades e co-participações quanto a outro tipo de realizações sócio-culturais inseridas no âmbito de actividades e preocupações das cooperativas de habitação e construção, designadamente existência e funcionamento de creches e jardins-de-infância, lavandarias, campos de jogos, zonas de lazer e convívio, bibliotecas e salas de leitura, meios de abastecimento público, transportes, etc.
 
-###### Art. 11.º O Governo Regional adoptará as medidas julgadas necessárias para uma adequada e harmoniosa cooperação com o Governo da República e instituições de crédito, em ordem a tornar eficiente a colaboração reclamada no domínio administrativo, processual e financeiro, particularmente tendo em vista o conteúdo do artigo 3.º e as necessidades concretas dos candidatos à aquisição de habitação.
+Art. 11.º O Governo Regional adoptará as medidas julgadas necessárias para uma adequada e harmoniosa cooperação com o Governo da República e instituições de crédito, em ordem a tornar eficiente a colaboração reclamada no domínio administrativo, processual e financeiro, particularmente tendo em vista o conteúdo do artigo 3.º e as necessidades concretas dos candidatos à aquisição de habitação.
 
-###### Art. 12.º Em tudo o que não contrarie o presente diploma, aplicar-se-á, com as necessárias adaptações, a legislação sobre as cooperativas de habitação e construção, crédito bonificado à aquisição e construção de habitação e regime de depósito poupança-habitação, designadamente os Decretos-Leis n.os [218/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1982-391836), de 2 de Junho, [264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, [349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 20 de Julho, [31/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1984-659929), de 24 de Janeiro, [76/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1985-324964) de 25 de Março, e [340/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1981-567419), de 11 de Dezembro.
+Art. 12.º Em tudo o que não contrarie o presente diploma, aplicar-se-á, com as necessárias adaptações, a legislação sobre as cooperativas de habitação e construção, crédito bonificado à aquisição e construção de habitação e regime de depósito poupança-habitação, designadamente os Decretos-Leis n.os [218/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1982-391836), de 2 de Junho, [264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, [349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 20 de Julho, [31/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1984-659929), de 24 de Janeiro, [76/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1985-324964) de 25 de Março, e [340/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1981-567419), de 11 de Dezembro.
 
-###### Art. 13.º O presente diploma não comportará quaisquer alterações ao Orçamento aprovado para o corrente ano.
+Art. 13.º O presente diploma não comportará quaisquer alterações ao Orçamento aprovado para o corrente ano.
 
 Aprovado em sessão plenária em 31 de Julho de 1986.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 21 de Agosto de 1986.**
+Assinado em 21 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

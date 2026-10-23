@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2008/05/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2008-449198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8a8f99e41984aec9064a80aad280db70c5f626c0a11f4c3d029f210a99381c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04162b23c967485cf8eab630a4c72d72a3075980b6d52ca184c3b766a0281918
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Batata
-- Multa
+- Comércio
 - Comissão Regional de Aplicação de Coimas em Matéria Económica
 - Contra-ordenação
+- Direção Regional de Agricultura e Desenvolvimento Rural
 - Fiscalização
 - Importação
 - Licenciamento
-- Direção Regional de Agricultura e Desenvolvimento Rural
+- Madeira.região Autónoma
+- Multa
+- Produção Agrícola
 - Produtor
 - Proteção Fitossanitária
-- Madeira.região Autónoma
-- Produção Agrícola
 - Semente
 - TAXA de Prestação de Serviços
-- Comércio
 - Venda
 relationships:
 - type: cites
@@ -93,13 +93,13 @@ relationships:
 article_structure:
   article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:57Z'
   warnings: []
   errors: []
 ---
@@ -402,11 +402,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 2 de Abril de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 12 de Maio de 2008.**
+Assinado em 12 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 

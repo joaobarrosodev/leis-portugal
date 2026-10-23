@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-1984-399976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0162f2c068cba790e9b6ae974cd98ccb961d3c0ecf18a0b47f15bdc1aefab480
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec9b9c9f3cbbe51cdb219a43003a9ba10f57395d12b87e6c724498838c799a36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Cooperativa Agrícola
+- Desenvolvimento Rural
+- Instituto de Apoio Comercial à Agricultura Pecuária e Silvicultura
+relationships:
+- type: cites
+  target: pt:dre:455408:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:17Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +98,9 @@ Tornando-se necessário regulamentar o referido diploma, sem o que o mesmo não 
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pedido de concessão do direito de uso e fruição dos bens que pertenceram aos extintos grémios da lavoura e foram integrados no património do IACAPS, a formular pelas organizações cooperativas do sector agro-silvo-pecuário, será dirigido aos Secretários Regionais da Agricultura e Pescas e do Comércio e Indústria.
+Artigo 1.º O pedido de concessão do direito de uso e fruição dos bens que pertenceram aos extintos grémios da lavoura e foram integrados no património do IACAPS, a formular pelas organizações cooperativas do sector agro-silvo-pecuário, será dirigido aos Secretários Regionais da Agricultura e Pescas e do Comércio e Indústria.
 
-###### Art. 2.º - 1 - Poderão ter acesso ao uso e fruição dos bens dos extintos grémios da lavoura as cooperativas de primeiro grau e de grau superior que exerçam a sua actividade na Região nas áreas da agricultura, pecuária e silvicultura e, cumulativamente, preencham os seguintes requisitos:
+Art. 2.º - 1 - Poderão ter acesso ao uso e fruição dos bens dos extintos grémios da lavoura as cooperativas de primeiro grau e de grau superior que exerçam a sua actividade na Região nas áreas da agricultura, pecuária e silvicultura e, cumulativamente, preencham os seguintes requisitos:
 
 a) Respeitem, no seu funcionamento, os princípios cooperativos;
 
@@ -124,26 +132,26 @@ e) Relatório, balanço e contas respeitantes ao último ano;
 
 f) Outros elementos julgados necessários à melhor análise da situação da organização requerente.
 
-###### Art. 3.º A representatividade do organismo requerente será comprovada na acta da assembleia geral a que se refere a alínea c) do artigo anterior, mediante parecer da câmara municipal do concelho da sua sede e do IRASC.
+Art. 3.º A representatividade do organismo requerente será comprovada na acta da assembleia geral a que se refere a alínea c) do artigo anterior, mediante parecer da câmara municipal do concelho da sua sede e do IRASC.
 
-###### Art. 4.º A área mínima a servir pelos bens sobre que se pretenda estabelecer o direito de uso e fruição será a do concelho onde os mesmos se situem.
+Art. 4.º A área mínima a servir pelos bens sobre que se pretenda estabelecer o direito de uso e fruição será a do concelho onde os mesmos se situem.
 
-###### Art. 5.º O protocolo de concretização da concessão será submetido à prévia aprovação dos Secretários Regionais da Agricultura e Pescas e do Comércio e Indústria, que sobre ele solicitarão parecer ao Secretário Regional das Finanças.
+Art. 5.º O protocolo de concretização da concessão será submetido à prévia aprovação dos Secretários Regionais da Agricultura e Pescas e do Comércio e Indústria, que sobre ele solicitarão parecer ao Secretário Regional das Finanças.
 
-###### Art. 6.º - 1 - A entrega dos bens à organização à qual tenham sido concedidos só se verificará após apuramento, mediante inventário e balanço do estabelecimento do IACAPS a que se encontrarem afectos.
+Art. 6.º - 1 - A entrega dos bens à organização à qual tenham sido concedidos só se verificará após apuramento, mediante inventário e balanço do estabelecimento do IACAPS a que se encontrarem afectos.
 
 2 - O valor dos bens objecto da cessão será determinado na base dos respectivos preços de custo.
 
 3 - No acto da transmissão referida no número anterior serão integralmente satisfeitas pela entidade cessionária os valores correspondentes aos bens por ela recebidos.
 
-###### Art. 7.º O presente diploma entra em vigor na data da sua publicação.
+Art. 7.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de Julho de 1984.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 25 de Setembro de 1984.**
+Assinado em Angra do Heroísmo em 25 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

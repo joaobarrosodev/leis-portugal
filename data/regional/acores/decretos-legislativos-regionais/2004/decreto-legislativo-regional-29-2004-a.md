@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/199a00/56845696.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/2004/08/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2004-479598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d69a89d9ca4b4835d6b0ce415e9c192ae5bb71f0d1753cc69368789d34960691
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 362893dd80834fe433513c8ca727c075e7627fb7adce872cf85d835fe1a9750a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,46 +66,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Assembleia Legislativa Regional
-- Financiamento
 - BEM Móvel
 - BENS Classificados
-- Publicidade
+- Contra-ordenação
+- Equipamento Urbano
+- Exportação
+- Financiamento
+- ILHA de Santa Maria
 - ILHA de são Miguel
+- ILHA do Faial
+- Ilha Graciosa
 - ILHA Terceira
 - Imóvel Classificado
-- Multa
-- Obras Particulares
-- Obras de Conservação e Restauro
-- Contra-ordenação
-- Rede de Estradas
-- Património Cultural
-- Monumento Natural
 - Inventário do Património Cultural
 - Moinho
+- Monumento Natural
+- Multa
+- Obras de Conservação e Restauro
+- Obras Particulares
 - Obras Públicas
 - Palácio de Santana
-- ILHA de Santa Maria
+- Património Cultural
 - Património Histórico
-- Zona de Proteção
+- Património Natural
 - Plano de Pormenor
-- Exportação
-- Equipamento Urbano
 - Projeto
 - Protecção do Património
-- Património Natural
+- Publicidade
+- Rede de Estradas
 - Regime Jurídico
-- Ilha Graciosa
 - Santa CRUZ da Graciosa
-- Açores
-- ILHA do Faial
 - VILA do Porto
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:66426484:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:692226:por
+  label: "Alterado o nº 3 do art. 51º do presente diploma, pelo DLR.8/2005/A.03.05.2005.AL-RAA, DR.IS-A [98] de 20.05.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2005-692226
+  date: '2005-05-03'
+- type: amended_by
+  target: pt:dre:452917:por
+  label: "Aditado o art. 32º-A e republicado o presente diploma, pelo DLR.43/2008/A.08.10.2008.AL-RAA, DR.IS [195] de 08.10.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/43-2008-452917
+  date: '2008-10-08'
+- type: amended_by
+  target: pt:dre:66357210:por
+  label: Alterados, a partir de 29.01.2015, os arts. 2.º, 4.º, 5.º, 7.º, 8.º, 9.º, 11.º, 13.º, 14.º, 15.º e 24.º, aditados
+    os arts. 8.º-A, 8.º-B, 8.º-C, 19.º-A, 19.º-B e 19.º-C (passando os três últimos a constituir a Sec. IV do Cap. II) e revogado
+    o art. 12.º, todos do DRR 24/2000/A de 07-set, mantido em vigor pelo presente diploma, pelo(a) Decreto Regulamentar Regional
+    n.º 2/2015/A - Diário da República n.º 19/2015, Série I de 2015-01-28, nos termos do art. 5.º deste, que procede à republicação
+    do DRR 24/2000/A
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2015-66357210
+  date: '2015-01-28'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -146,16 +167,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19/2000/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19/2000/08/10/p/dre
+- type: cites
+  target: pt:dre:151928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661698:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:578129:por
+  label: "Rectificado pela DECL-RECT.92/2004.30.09.2004.PCM, DR.IS-A [249] de 22.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/92-2004-578129
+  date: '2004-09-30'
+- type: repealed_by
+  target: pt:dre:66426484:por
+  label: Revogado, a partir de 06.03.2015, o presente diploma, com as alterações introduzidas pelos DLR 8/2005/A de 20-mai
+    e 43/2008/A de 08-out, pelo(a) Decreto Legislativo Regional n.º 3/2015/A - Diário da República n.º 24/2015, Série I de
+    2015-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2015-66426484
+  date: '2015-02-04'
 article_structure:
   article_count: 62
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:04Z'
   warnings: []
   errors: []
 ---
@@ -866,10 +1007,10 @@ p) [Decreto Regulamentar Regional n.º 8/97/A](https://diariodarepublica.pt/dr/d
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 16 de Junho de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 16 de Julho de 2004.**
+Assinado em Angra do Heroísmo em 16 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

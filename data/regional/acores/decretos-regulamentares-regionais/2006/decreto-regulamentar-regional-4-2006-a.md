@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/008b00/02660296.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2006/01/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2006-167802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e38cc40e051c88f9bcf1dfa108dae06955a44e6a821a40cef86750dbb35c9c01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e0bf159d61bb9ac13a69eb6669d65bd7b5537085b26d5a8c183bb94387e81c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Criação de Serviços
 - Definição de Competências
 - Direcção Regional da Ciência e Tecnologia
-- Secretaria Regional da Educação e Ciência
 - Direcção Regional da Educação
+- Direcção Regional da Juventude Emprego e Formação Profissional
 - Direcção Regional de Educação Física e Desporto
-- Fundo Regional do Desporto
 - Fundo Regional da Ciência e Tecnologia
+- Fundo Regional do Desporto
+- Fundo Regional do Emprego
+- Gestão de Recursos Humanos
 - Inspecção Regional de Educação
+- Inspecção Regional do Trabalho
 - Integração de Serviços
 - Integração de Trabalhadores
 - Orgânica
 - Quadro de Pessoal
-- Direcção Regional da Juventude Emprego e Formação Profissional
-- Fundo Regional do Emprego
-- Inspecção Regional do Trabalho
-- Gestão de Recursos Humanos
-- Açores
+- Secretaria Regional da Educação e Ciência
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:518232:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353951:por
+  label: "Extinta a Direcção Regional da Juventude, Emprego e Formação Profissional constante do presente diploma, transitando\
+    \ os meios, efectivos, competências, direitos e obrigações, para a direcção Regional da Juventude, no que respeita ao\
+    \ sector da juventude, e para a Direcção Regional do Trabalho e Qualificação Profissional, no que respeita aos sectores\
+    \ do trabalho, emprego e formação profissional; para a dependência desta última Direcção Regional transita a Inspecção\
+    \ Regional do Trabalho, contante também presente diploma, pelo DRR.19/2006/A.23.05.2006.PG-RAA, DR.IS-B [108] de 05.06.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2006-353951
+  date: '2006-05-23'
 - type: cites
   target: eli:http://d
   label: null
@@ -129,16 +139,97 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659766:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:518232:por
+  label: "Revogado pelo DRR.2/2007/A.29.12.2006.PG-RAA, DR.IS [21] de 30.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2007-518232
+  date: '2006-12-29'
 article_structure:
   article_count: 100
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 35
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:18Z'
   warnings: []
   errors: []
 ---
@@ -197,13 +288,13 @@ g) Resolução n.º 55/94, de 7 de Abril.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 26 de Outubro de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 19 de Dezembro de 2005.**
+Assinado em Angra do Heroísmo em 19 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — Orgânica da Secretaria Regional da Educação e Ciência
 
@@ -323,7 +414,9 @@ c) O Fundo Regional da Ciência e Tecnologia.
 
 #### SECÇÃO I — Serviços executivos
 
-##### SUBSECÇÃO I — Divisão de Apoio Técnico-Administrativo
+##### SUBSECÇÃO I
+
+##### Divisão de Apoio Técnico-Administrativo
 
 ###### Artigo 7.º — Natureza e missão
 
@@ -385,7 +478,9 @@ d) Orientar os serviços dependentes da SREC nas suas áreas de competência.
 
 2 - Os directores regionais podem delegar ou subdelegar competências nos dirigentes sob sua dependência hierárquica.
 
-###### Artigo 9.º — Secção de Apoio Administrativo
+###### Artigo 9.º
+
+#### Secção de Apoio Administrativo
 
 1 - Em cada direcção regional funciona uma secção de apoio administrativo (SAA).
 
@@ -521,7 +616,9 @@ d) Divisão de Educação Física (DEF).
 
 3 - A DSP é dirigida por um director de serviços.
 
-###### Artigo 15.º — Divisão da Educação Pré-Escolar e do Ensino Básico
+###### Artigo 15.º
+
+##### Divisão da Educação Pré-Escolar e do Ensino Básico
 
 1 - À DEPEB compete, nomeadamente:
 
@@ -563,7 +660,9 @@ r) Emitir parecer sobre os assuntos a submeter a despacho superior e propor os n
 
 2 - A DEPEB é dirigida por um chefe de divisão.
 
-###### Artigo 16.º — Divisão do Ensino Secundário e Profissional
+###### Artigo 16.º
+
+##### Divisão do Ensino Secundário e Profissional
 
 1 - À DESP compete, nomeadamente:
 
@@ -589,7 +688,9 @@ j) Emitir parecer sobre os assuntos a submeter a despacho superior e propor os n
 
 2 - A DESP é dirigida por um chefe de divisão.
 
-###### Artigo 17.º — Divisão de Avaliação e Inovação
+###### Artigo 17.º
+
+##### Divisão de Avaliação e Inovação
 
 1 - À DAI compete, nomeadamente:
 
@@ -615,7 +716,9 @@ j) Emitir parecer sobre as questões a submeter a despacho superior e propor os 
 
 2 - A DAI é dirigida por um chefe de divisão.
 
-###### Artigo 18.º — Divisão de Educação Física
+###### Artigo 18.º
+
+##### Divisão de Educação Física
 
 1 - A DEF exerce as suas competências relativamente à educação pré-escolar e aos ensinos básico e secundário, competindo-lhe, nomeadamente:
 
@@ -681,7 +784,9 @@ c) Divisão de Formação Profissional (DFP).
 
 3 - A DSRH é dirigida por um director de serviços.
 
-###### Artigo 20.º — Divisão de Gestão do Pessoal Docente
+###### Artigo 20.º
+
+##### Divisão de Gestão do Pessoal Docente
 
 1 - À DGPD compete, nomeadamente:
 
@@ -705,7 +810,9 @@ i) Emitir parecer sobre as questões a submeter a despacho superior e propor os 
 
 2 - A DGPD é dirigida por um chefe de divisão.
 
-###### Artigo 21.º — Divisão de Gestão do Pessoal não Docente
+###### Artigo 21.º
+
+##### Divisão de Gestão do Pessoal não Docente
 
 1 - À DGPND compete, nomeadamente:
 
@@ -727,7 +834,9 @@ h) Emitir parecer sobre as questões a submeter a despacho superior e propor os 
 
 2 - A DGPND é dirigida por um chefe de divisão.
 
-###### Artigo 22.º — Divisão de Formação Profissional
+###### Artigo 22.º
+
+##### Divisão de Formação Profissional
 
 1 - Compete à DFP, nomeadamente:
 
@@ -795,7 +904,9 @@ c) Divisão de Planeamento e Estatística (DPE).
 
 3 - A DSFE é dirigida por um director de serviços.
 
-###### Artigo 25.º — Divisão de Gestão Financeira
+###### Artigo 25.º
+
+##### Divisão de Gestão Financeira
 
 1 - À DGF compete, nomeadamente:
 
@@ -821,7 +932,9 @@ j) Emitir parecer sobre os assuntos a submeter a despacho superior e propor os n
 
 2 - A DGF é dirigida por um chefe de divisão.
 
-###### Artigo 26.º — Divisão de Instalações e Equipamentos Escolares
+###### Artigo 26.º
+
+##### Divisão de Instalações e Equipamentos Escolares
 
 1 - À DIEE compete, nomeadamente:
 
@@ -841,7 +954,9 @@ g) Emitir parecer sobre os assuntos a submeter a despacho superior e propor os n
 
 2 - A DIEE é dirigida por um chefe de divisão.
 
-###### Artigo 27.º — Divisão de Planeamento e Estatística
+###### Artigo 27.º
+
+##### Divisão de Planeamento e Estatística
 
 1 - À DPE compete, nomeadamente:
 
@@ -1055,7 +1170,9 @@ b) Divisão de Informação Juvenil (DIJ).
 
 3 - A DSJ é dirigida por um director de serviços.
 
-###### Artigo 35.º — Divisão de Associativismo e de Programas Juvenis
+###### Artigo 35.º
+
+##### Divisão de Associativismo e de Programas Juvenis
 
 1 - Compete à DAPJ, designadamente:
 
@@ -1075,7 +1192,9 @@ g) Promover o turismo juvenil.
 
 2 - A DAPJ é dirigida por um chefe de divisão.
 
-###### Artigo 36.º — Divisão de Informação Juvenil
+###### Artigo 36.º
+
+##### Divisão de Informação Juvenil
 
 1 - Compete à DIJ, designadamente:
 
@@ -1135,7 +1254,9 @@ c) Divisão da Certificação, Inovação e Auditoria da Formação Profissional
 
 3 - A DSPEFP é dirigida por um director de serviços.
 
-###### Artigo 38.º — Divisão dos Programas para o Emprego
+###### Artigo 38.º
+
+##### Divisão dos Programas para o Emprego
 
 1 - Compete à DPE, nomeadamente:
 
@@ -1159,7 +1280,9 @@ i) Apoiar a criação de actividades geradoras de auto-emprego.
 
 2 - A DPE é dirigida por um chefe de divisão.
 
-###### Artigo 39.º — Divisão dos Incentivos à Formação Profissional
+###### Artigo 39.º
+
+##### Divisão dos Incentivos à Formação Profissional
 
 1 - Compete à DIFP, designadamente:
 
@@ -1183,7 +1306,9 @@ i) Zelar pelo cumprimento das orientações de gestão do Fundo Social Europeu e
 
 2 - A DIFP é dirigida por um chefe de divisão.
 
-###### Artigo 40.º — Divisão da Certificação, Inovação e Auditoria da Formação Profissional
+###### Artigo 40.º
+
+##### Divisão da Certificação, Inovação e Auditoria da Formação Profissional
 
 1 - Compete à DCIAFP, nomeadamente:
 
@@ -1333,7 +1458,9 @@ b) A Secção Técnica das Relações de Trabalho (STRT).
 
 4 - A DST é dirigida por um director de serviços.
 
-###### Artigo 44.º — Divisão das Relações de Trabalho
+###### Artigo 44.º
+
+##### Divisão das Relações de Trabalho
 
 1 - Compete, nomeadamente, à DRT:
 
@@ -1351,7 +1478,9 @@ f) Propor as medidas necessárias e adequadas à antecipação, acompanhamento e
 
 2 - A DRT é dirigida por um chefe de divisão.
 
-###### Artigo 45.º — Secção Técnica das Relações de Trabalho
+###### Artigo 45.º
+
+#### Secção Técnica das Relações de Trabalho
 
 Compete à STRT, designadamente:
 
@@ -1907,7 +2036,9 @@ b) Divisão de Infra-Estruturas e Equipamentos Desportivos (DIED).
 
 3 - A DSDT é dirigida por um director de serviços.
 
-###### Artigo 70.º — Divisão de Promoção de Actividades Físicas e do Desporto Escolar
+###### Artigo 70.º
+
+##### Divisão de Promoção de Actividades Físicas e do Desporto Escolar
 
 1 - Compete à DPAFDE, nomeadamente:
 
@@ -1937,7 +2068,9 @@ l) Promover e acompanhar a execução dos contratos-programa de desenvolvimento 
 
 2 - A DPAFDE é dirigida por um chefe de divisão.
 
-###### Artigo 71.º — Divisão de Infra-Estruturas e Equipamentos Desportivos
+###### Artigo 71.º
+
+##### Divisão de Infra-Estruturas e Equipamentos Desportivos
 
 1 - Compete à DIED, nomeadamente:
 
@@ -1993,7 +2126,9 @@ b) Divisão do Desporto Federado (DDF).
 
 3 - A DSAMAD é dirigida por um director de serviços.
 
-###### Artigo 73.º — Divisão de Formação de Recursos Humanos
+###### Artigo 73.º
+
+##### Divisão de Formação de Recursos Humanos
 
 Compete à DFRH, nomeadamente:
 
@@ -2017,7 +2152,9 @@ i) Proceder à recolha, tratamento e divulgação de indicadores de referência 
 
 j) Promover e acompanhar a execução dos contratos-programa de desenvolvimento desportivo celebrados no âmbito da sua área de intervenção.
 
-###### Artigo 74.º — Divisão do Desporto Federado
+###### Artigo 74.º
+
+##### Divisão do Desporto Federado
 
 1 - Compete à DDF, nomeadamente:
 
@@ -2183,7 +2320,9 @@ k) Elaborar processos, prestar informações e apresentar propostas que se const
 
 l) Organizar e manter actualizado um sistema de informação dos elementos caracterizadores das instalações e material desportivo.
 
-###### Artigo 85.º — Secção de Apoio Administrativo
+###### Artigo 85.º
+
+#### Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo, nomeadamente:
 

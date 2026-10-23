@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1990-564992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ba077da1cb9fcc1234f497dbe1d96d28c8cf4e04fb9bae12386fb7ca291748a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ba993cb5620c550c26b8e9d34acd55b0fa26899eb4a7495c38a98da24d162a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Carreira Médica
+- Estabelecimento Hospitalar
+- Horta
+- Pessoal Técnico Superior
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:658216:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658216:por
+  label: "Substituído o quadro de pessoal do Hospital de Angra do Heroísmo, aprovado pelo DRR 4/86/A, 25-Jan, com as alterações\
+    \ introduzidas pelo presente diploma e pelos DRR 3/87/A, de 21-Jan, 28/87/A, de 12-Set, 28/90/A, de 06-Set, 30/91/A, de\
+    \ 27-Set, 5/92/A, de 01-Fev, e 19/92/A, de 28-Abr, pelo DRR.4/93/A.1993.01.11.GR-RAA, DR.IS-B [49] de 27/Fev/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1993-658216
+  date: '1993-01-11'
+- type: cites
+  target: pt:dre:194801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218554:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:42Z'
   warnings: []
   errors: []
 ---
@@ -90,24 +112,24 @@ Não obstante estar em curso uma alteração global aos quadros de pessoal dos H
 
 Assim, em execução do artigo 31.º do Decreto Regional n.º 32/80/A, de 11 de Dezembro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao quadro de pessoal do Hospital de Angra do Heroísmo, aprovado pelo [Decreto Regulamentar Regional n.º 4/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1986-194801), de 25 de Janeiro, é aditado um lugar, de acordo com o mapa anexo, que faz parte integrante deste diploma.
+Artigo 1.º Ao quadro de pessoal do Hospital de Angra do Heroísmo, aprovado pelo [Decreto Regulamentar Regional n.º 4/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1986-194801), de 25 de Janeiro, é aditado um lugar, de acordo com o mapa anexo, que faz parte integrante deste diploma.
 
-###### Art. 2.º Ao quadro de pessoal do Hospital da Horta, aprovado pelo [Decreto Regulamentar Regional n.º 28/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1986-218554), de 5 de Agosto, são aditados dois lugares, de acordo com o mapa anexo, que faz parte integrante deste diploma.
+Art. 2.º Ao quadro de pessoal do Hospital da Horta, aprovado pelo [Decreto Regulamentar Regional n.º 28/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1986-218554), de 5 de Agosto, são aditados dois lugares, de acordo com o mapa anexo, que faz parte integrante deste diploma.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 17 de Outubro de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 12 de Novembro de 1990.**
+Assinado em Angra do Heroísmo em 12 de Novembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
-## Anexo a que se refere o artigo 1.º
+Anexo a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/27800/49624962.pdf))](https://files.diariodarepublica.pt/1s/1990/12/27800/49624962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/27800/49624962.pdf)
 
-## Anexo a que se refere o artigo 2.º
+Anexo a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/27800/49624962.pdf))](https://files.diariodarepublica.pt/1s/1990/12/27800/49624962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/27800/49624962.pdf)

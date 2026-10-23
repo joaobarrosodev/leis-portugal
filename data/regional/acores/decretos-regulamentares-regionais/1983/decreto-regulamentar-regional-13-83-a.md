@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1983-311817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b602f78aa8ef186b8d28fa01edb422503eda9080fcf86a486ce84746c75d7140
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50451d73b51e12b18a19b639ee8f1d59dfb31fd1866e88f887e55425173c05e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Venda Ambulante
 relationships:
 - type: amended_by
   target: pt:dre:176278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:469786:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176278:por
+  label: "Revogado pelo DLR.38/2012/A.18.09.2012.AL-RAA, DR.IS [181] de 18.09.2012, nos termos do disposto no art. 35º daquele\
+    \ diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/38-2012-176278
+  date: '2012-09-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:52Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +111,11 @@ Não foi também esquecida a coordenação do exercício desta actividade com a 
 
 Assim, e no seguimento do disposto no artigo 20.º do [Decreto Regional n.º 20/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1980-469786), de 27 de Agosto, o Governo Regional, nos termos da alínea b) do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º - 1 - A venda ambulante passa a reger-se pelo presente diploma, pelo [Decreto Regional n.º 20/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1980-469786), de 27 de Agosto, e demais legislação complementar vigente.
+Artigo 1.º - 1 - A venda ambulante passa a reger-se pelo presente diploma, pelo [Decreto Regional n.º 20/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1980-469786), de 27 de Agosto, e demais legislação complementar vigente.
 
 2 - Exceptuam-se do âmbito de aplicação do presente diploma a distribuição domiciliária efectuada por conta de comerciantes com estabelecimento fixo, a venda de lotarias, jornais e outras publicações periódicas.
 
-###### Art. 2.º - 1 - Para efeitos do presente diploma, consideram-se vendedores ambulantes todos os que:
+Art. 2.º - 1 - Para efeitos do presente diploma, consideram-se vendedores ambulantes todos os que:
 
 a) Transportando as mercadorias do seu comércio, por si ou por qualquer meio adequado, as vendam ao público consumidor pelos lugares do seu trânsito;
 
@@ -113,11 +125,11 @@ c) Transportando a sua mercadoria em veículos, neles efectuem a respectiva vend
 
 d) Utilizando veículos automóveis ou reboques, neles confeccionem na via pública ou em locais fixos, determinados pelas câmaras municipais, refeições ligeiras ou outros produtos comestíveis preparados de forma tradicional.
 
-###### Art. 3.º - 1 - Na exposição e venda dos produtos do seu comércio, deverão os vendedores ambulantes utilizar individualmente tabuleiros de dimensões não superiores a 1 m x 1,20 m e colocados à altura mínima de 0,40 m do solo.
+Art. 3.º - 1 - Na exposição e venda dos produtos do seu comércio, deverão os vendedores ambulantes utilizar individualmente tabuleiros de dimensões não superiores a 1 m x 1,20 m e colocados à altura mínima de 0,40 m do solo.
 
 2 - A dispensa de utilização dos tabuleiros referidos no número anterior poderá ser requerida às câmaras municipais, quando os meios por elas postos à disposição dos vendedores, o transporte utilizado ou as características especiais de que se revista a venda ambulante a justifiquem.
 
-###### Art. 4.º - 1 - Os tabuleiros, bancadas, pavilhões, veículos, reboques ou quaisquer outros meios utilizados na venda deverão conter afixada, em local bem visível ao público, a indicação do nome, morada e número do cartão do respectivo vendedor.
+Art. 4.º - 1 - Os tabuleiros, bancadas, pavilhões, veículos, reboques ou quaisquer outros meios utilizados na venda deverão conter afixada, em local bem visível ao público, a indicação do nome, morada e número do cartão do respectivo vendedor.
 
 2 - Os tabuleiros, balcões ou bancadas utilizados para exposição, venda ou arrumação de produtos alimentares deverão ser constituídos de material resistente a traços ou sulcos e facilmente laváveis.
 
@@ -125,11 +137,11 @@ d) Utilizando veículos automóveis ou reboques, neles confeccionem na via públ
 
 4 - No caso de ser concedida a dispensa referida no n.º 2 do artigo anterior, deverão os vendedores usar, em local bem visível, a indicação do nome, morada e número do cartão de vendedor.
 
-###### Art. 5.º - 1 - Os intervenientes no acondicionamento, transporte ou venda de produtos alimentares serão obrigatoriamente portadores de boletim de sanidade, nos termos da legislação em vigor.
+Art. 5.º - 1 - Os intervenientes no acondicionamento, transporte ou venda de produtos alimentares serão obrigatoriamente portadores de boletim de sanidade, nos termos da legislação em vigor.
 
 2 - Sempre que se suscitem dúvidas sobre o estado de sanidade do vendedor ou qualquer dos indivíduos referidos no número anterior, serão estes intimados a apresentar-se à autoridade sanitária competente, para inspecção.
 
-###### Art. 6.º - 1 - No transporte, arrumação, exposição e arrecadação dos produtos é obrigatório separar os alimentos consoante a sua natureza, bem como, de entre cada um deles, os que de algum modo possam ser afectados pela proximidade dos outros.
+Art. 6.º - 1 - No transporte, arrumação, exposição e arrecadação dos produtos é obrigatório separar os alimentos consoante a sua natureza, bem como, de entre cada um deles, os que de algum modo possam ser afectados pela proximidade dos outros.
 
 2 - Quando não estejam expostos para venda, os produtos alimentares devem ser guardados em lugares adequados à preservação do seu estado, e, bem assim, em condições hígio-sanitárias que os protejam de poeiras, contaminações ou contactos que, de qualquer modo, possam afectar a saúde dos consumidores.
 
@@ -137,13 +149,13 @@ d) Utilizando veículos automóveis ou reboques, neles confeccionem na via públ
 
 4 - Na embalagem ou acondicionamento de produtos alimentares só pode ser usado papel ou outro material que ainda não tenha sido utilizado e que não contenha desenhos, pinturas ou dizeres impressos ou escritos na parte interior.
 
-###### Art. 7.º - 1 - Os preços terão de ser praticados em conformidade com a legislação em vigor.
+Art. 7.º - 1 - Os preços terão de ser praticados em conformidade com a legislação em vigor.
 
 2 - É obrigatória a afixação, por forma bem visível para o público, de letreiros, etiquetas ou listas indicando o preço dos produtos, géneros e artigos expostos.
 
-###### Art. 8.º O período de exercício da actividade da venda ambulante será fixado, nos termos da legislação em vigor, sobre o período de abertura dos estabelecimentos comerciais do respectivo ramo.
+Art. 8.º O período de exercício da actividade da venda ambulante será fixado, nos termos da legislação em vigor, sobre o período de abertura dos estabelecimentos comerciais do respectivo ramo.
 
-###### Art. 9.º - 1 - O vendedor ambulante deverá fazer-se acompanhar, para apresentação imediata às entidades competentes para a fiscalização, do cartão de vendedor ambulante devidamente actualizado.
+Art. 9.º - 1 - O vendedor ambulante deverá fazer-se acompanhar, para apresentação imediata às entidades competentes para a fiscalização, do cartão de vendedor ambulante devidamente actualizado.
 
 2 - O vendedor ambulante deverá fazer-se acompanhar, ainda, das facturas ou documentos equivalentes, comprovativos da aquisição dos produtos para venda ao público, contendo os seguintes elementos:
 
@@ -153,11 +165,11 @@ b) O nome ou denominação social e a sede ou domicílio do produtor, grossista,
 
 c) A especificação das mercadorias adquiridas, com indicação das respectivas quantidades, preços e valores ilíquidos, descontos, abatimentos ou bónus concedidos e, ainda, quando for caso disso, das correspondentes marcas, referências e números de série.
 
-###### Art. 10.º A venda ambulante de artigos de artesanato, frutas, produtos hortícolas ou quaisquer outros de fabrico ou produção própria fica sujeita às disposições do presente diploma, com excepção do preceituado no n.º 2 do artigo anterior.
+Art. 10.º A venda ambulante de artigos de artesanato, frutas, produtos hortícolas ou quaisquer outros de fabrico ou produção própria fica sujeita às disposições do presente diploma, com excepção do preceituado no n.º 2 do artigo anterior.
 
-###### Art. 11.º Não são permitidas, como meio de sugestionar aquisições pelo público, falsas descrições ou informações sobre a identidade, origem, natureza, composição, qualidade, propriedade ou utilidade dos produtos expostos à venda.
+Art. 11.º Não são permitidas, como meio de sugestionar aquisições pelo público, falsas descrições ou informações sobre a identidade, origem, natureza, composição, qualidade, propriedade ou utilidade dos produtos expostos à venda.
 
-###### Art. 12.º Ao abrigo deste diploma e legislação complementar, podem as câmaras municipais:
+Art. 12.º Ao abrigo deste diploma e legislação complementar, podem as câmaras municipais:
 
 a) Restringir, condicionar ou proibir a venda ambulante, tendo em atenção os aspectos hígio-sanitários, estéticos e de comodidade para o público;
 
@@ -169,13 +181,13 @@ d) Delimitar locais ou zonas a que terão acesso os veículos ou reboques utiliz
 
 e) Estabelecer zonas e locais especialmente destinados ao comércio ambulante de certas categorias de produtos.
 
-###### Art. 13.º - 1 - Nas localidades dotadas de mercados com instalações próprias só será permitido o exercício da actividade de vendedor ambulante de produtos que se vendam nesses mercados quando neles não existirem lugares vagos para a venda fixa desses produtos.
+Art. 13.º - 1 - Nas localidades dotadas de mercados com instalações próprias só será permitido o exercício da actividade de vendedor ambulante de produtos que se vendam nesses mercados quando neles não existirem lugares vagos para a venda fixa desses produtos.
 
 2 - Havendo lugares vagos nos mercados referidos no número anterior, mas verificando-se em determinadas áreas insuficiente abastecimento do público, poderão as câmaras municipais fixar lugares ou zonas, dentro das mesmas áreas, para o exercício do comércio ambulante limitado no número anterior.
 
 3 - O disposto nos números anteriores não se aplica à venda ambulante de peixe.
 
-###### Art. 14.º - 1 - Compete às câmaras municipais emitir e renovar o cartão para exercício da venda ambulante, o qual será válido apenas para a área dos respectivos municípios e para o período de 1 ano, a contar da data da emissão ou renovação.
+Art. 14.º - 1 - Compete às câmaras municipais emitir e renovar o cartão para exercício da venda ambulante, o qual será válido apenas para a área dos respectivos municípios e para o período de 1 ano, a contar da data da emissão ou renovação.
 
 2 - O cartão de vendedor ambulante será obrigatoriamente o constante do modelo do anexo II deste diploma.
 
@@ -193,21 +205,21 @@ e) Estabelecer zonas e locais especialmente destinados ao comércio ambulante de
 
 9 - O prazo fixado no número anterior é interrompido pela notificação ao requerente para suprir eventuais deficiências do requerimento ou da documentação junta, começando a correr novo prazo a partir da data da recepção na câmara municipal dos elementos pedidos.
 
-###### Art. 15.º - 1 - O cartão de vendedor ambulante será pessoal e intransmissível.
+Art. 15.º - 1 - O cartão de vendedor ambulante será pessoal e intransmissível.
 
 2 - As câmaras municipais deverão organizar um registo dos vendedores ambulantes que se encontrem autorizados a exercer a sua actividade na área do respectivo município, do qual enviarão cópia à Direcção dos Serviços de Fiscalização, e, bem assim, das respectivas actualizações.
 
-###### Art. 16.º - 1 - A prevenção e acção correctiva sobre as infracções às normas constantes do presente diploma, bem como a respectiva regulamentação e legislação conexa, são da competência da Direcção dos Serviços de Fiscalização, da Inspecção do Trabalho, da Polícia de Segurança Pública, da Guarda Fiscal, das autoridades sanitárias e das demais entidades policiais, administrativas e fiscais.
+Art. 16.º - 1 - A prevenção e acção correctiva sobre as infracções às normas constantes do presente diploma, bem como a respectiva regulamentação e legislação conexa, são da competência da Direcção dos Serviços de Fiscalização, da Inspecção do Trabalho, da Polícia de Segurança Pública, da Guarda Fiscal, das autoridades sanitárias e das demais entidades policiais, administrativas e fiscais.
 
 2 - Sempre que, no exercício das funções referidas no número anterior, o agente fiscalizador tome conhecimento de infracções cuja fiscalização seja da competência específica de outra autoridade deverá participar a esta a respectiva ocorrência.
 
-###### Art. 17.º - 1 - Cabe às entidades referidas no artigo anterior exercer uma acção educativa e esclarecedora dos interessados, podendo para a regularização de situações anómalas fixar o prazo não superior a 30 dias, sem prejuízo do disposto em legislação especial.
+Art. 17.º - 1 - Cabe às entidades referidas no artigo anterior exercer uma acção educativa e esclarecedora dos interessados, podendo para a regularização de situações anómalas fixar o prazo não superior a 30 dias, sem prejuízo do disposto em legislação especial.
 
 2 - Considera-se regularizada a situação anómala quando, dentro do prazo fixado pela autoridade fiscalizadora, o interessado se apresente na sede ou posto indicado na intimação com os documentos ou objectivos em conformidade com a norma violada.
 
-###### Art. 18.º As infracções ao disposto neste diploma a que não couber procedimento criminal serão havidas como delitos de mera ordenação social, punidos nos termos gerais.
+Art. 18.º As infracções ao disposto neste diploma a que não couber procedimento criminal serão havidas como delitos de mera ordenação social, punidos nos termos gerais.
 
-###### Art. 19.º É interdito aos vendedores ambulantes:
+Art. 19.º É interdito aos vendedores ambulantes:
 
 a) Impedir ou dificultar por qualquer forma o trânsito nos locais destinados à circulação de veículos e peões;
 
@@ -219,17 +231,17 @@ d) Lançar no solo quaisquer desperdícios, restos, lixo ou outros materiais sus
 
 e) Vender produtos a menos de 100 m de estabelecimentos que comercializem idênticos produtos.
 
-###### Art. 20.º - 1 - Fica proibido o comércio ambulante dos produtos referidos na lista anexa a este diploma, a qual poderá ser alterada por portaria do Secretário Regional do Comércio e Indústria.
+Art. 20.º - 1 - Fica proibido o comércio ambulante dos produtos referidos na lista anexa a este diploma, a qual poderá ser alterada por portaria do Secretário Regional do Comércio e Indústria.
 
 2 - A proibição a que se refere o número anterior não se aplica aos comerciantes de carnes que tenham instalações fixas e estejam devidamente licenciadas, desde que o comércio ambulante seja feito em veículo próprio e com condições sanitárias e seja uma extensão do comércio já autorizado.
 
-###### Art. 21.º - 1 - O Secretário Regional do Comércio e Indústria poderá, por portaria, estabelecer as normas que se mostrem necessárias à execução do disposto neste diploma em matéria da sua competência.
+Art. 21.º - 1 - O Secretário Regional do Comércio e Indústria poderá, por portaria, estabelecer as normas que se mostrem necessárias à execução do disposto neste diploma em matéria da sua competência.
 
 2 - Quando as normas a estabelecer abranjam matéria que caiba igualmente na competência de outras Secretarias, deverá a correspondente portaria ser emitida conjuntamente com esses departamentos.
 
-###### Art. 22.º Compete à Direcção Regional do Comércio e Abastecimento assegurar o expediente e conceder a autorização prévia para o exercício do comércio ambulante, nos termos do artigo 4.º do [Decreto Regional n.º 20/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1980-469786), de 27 de Agosto.
+Art. 22.º Compete à Direcção Regional do Comércio e Abastecimento assegurar o expediente e conceder a autorização prévia para o exercício do comércio ambulante, nos termos do artigo 4.º do [Decreto Regional n.º 20/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1980-469786), de 27 de Agosto.
 
-###### Art. 23.º - 1 - Este diploma entra em vigor 60 dias após a data da publicação.
+Art. 23.º - 1 - Este diploma entra em vigor 60 dias após a data da publicação.
 
 2 - As câmaras municipais deverão elaborar os regulamentos que se contenham no âmbito da competência que lhes é conferida pelo presente no prazo de 90 dias a contar da mesma data.
 
@@ -237,13 +249,13 @@ e) Vender produtos a menos de 100 m de estabelecimentos que comercializem idênt
 
 Aprovado em Conselho em 12 de Novembro de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 23 de Março de 1983.**
+Assinado em Angra do Heroísmo em 23 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 ## ANEXO I — Lista a que se refere o artigo 20.º
 
@@ -283,4 +295,4 @@ Aprovado em Conselho em 12 de Novembro de 1982.
 
 ## ANEXO II — Modelo de cartão de vendedor ambulante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09200/14201423.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09200/14201423.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09200/14201423.pdf)

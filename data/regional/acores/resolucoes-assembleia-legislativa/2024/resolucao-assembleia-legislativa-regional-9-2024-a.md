@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/08/15100/0000400008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/9/2024/08/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/9-2024-874401820
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f868e851bb5d7cda19fd46ad464ecb7d82fd5f2b17a979ca1d49f929f933843
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6c42dc73a1aecb3de956c1f2bc91a4cc226c78af26113cb001a6d4069aff0a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa
 - Orçamento
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15/2022/06/02/a/dre
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/36/2021/11/30/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/36/2021/11/30/a/dre
+- type: cites
+  target: pt:dre:175129349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184306939:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:49Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +107,24 @@ A Assembleia Legislativa da Região Autónoma dos Açores, nos termos dos artigo
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de julho de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-![](https://files.diariodarepublica.pt/images/874401820/874400862.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/874401820/874400862.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/874401820/874400863.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/874401820/874400863.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/874401820/874400864.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/874401820/874400864.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/874401820/874400865.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/874401820/874400865.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/874401820/874400866.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/874401820/874400866.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/874401820/874400867.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/874401820/874400867.png) |
+| --- |
+
+117982328

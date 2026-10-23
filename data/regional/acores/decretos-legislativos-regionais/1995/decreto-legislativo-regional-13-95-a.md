@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/1995/07/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1995-484989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bd70a58ff7a807a856ead79313ac4efbef122f47f55ea9387efe2f495221733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c72e7265d75c8d11d0ba41d16cbcd4319a9ecd5fad1f683041dbd74483a42aa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Contribuições da Segurança Social
-- Reforma Antecipada
+- Instituto de Gestão de Regimes de Segurança Social
 - Prestação de Pré-reforma
 - Prestações da Segurança Social
 - Reforma
+- Reforma Antecipada
 - Regime Geral da Segurança Social
 - Regime Jurídico
-- Instituto de Gestão de Regimes de Segurança Social
 - Segurança Social
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/3/1991/01/24/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/3/1991/01/24/a/dre
+- type: cites
+  target: pt:dre:443683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667887:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:36Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +122,9 @@ Nos termos constitucionais foram ouvidas as associações sindicais.
 
 Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea i) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece as adaptações necessárias à aplicação à Região Autónoma dos Açores do [Decreto-Lei n.º 261/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1991-667887), de 25 de Julho, conforme se prevê no artigo 15.º do mesmo.
+Artigo 1.º O presente diploma estabelece as adaptações necessárias à aplicação à Região Autónoma dos Açores do [Decreto-Lei n.º 261/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1991-667887), de 25 de Julho, conforme se prevê no artigo 15.º do mesmo.
 
-###### Art. 2.º Os artigos 4.º, 12.º e 14.º do decreto-lei citado no artigo anterior passam a conter as seguintes adaptações de carácter orgânico:
+Art. 2.º Os artigos 4.º, 12.º e 14.º do decreto-lei citado no artigo anterior passam a conter as seguintes adaptações de carácter orgânico:
 
 ###### Artigo 4.º — Acordo de pré-reforma
 
@@ -160,10 +172,10 @@ c) ...
 
 Aprovado pela Assembleia Legislativa Regional, na Horta, em 31 de Maio de 1995.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 4 de Julho de 1995.**
+Assinado em Angra do Heroísmo em 4 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

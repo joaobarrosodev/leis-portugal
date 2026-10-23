@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/12800/0000500015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2024/07/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 419667bd307c527ef33d899675efa63af849a5eca7230d6ee51bf28289b8adeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02115fcea225155cd40829ace70ba6f3a2d2539fb649f43a59384014b845b8ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
+- Açores
+- Arrendamento Urbano para Habitação
 - Colocação de Médicos
 - Governo Regional
-- Regulamentação de Atos Legislativos
 - Incentivo Profissional
-- Teletrabalho
+- Médico
+- Regulamentação de Atos Legislativos
 - Serviço Regional de Saúde
-- Açores
 - Subsídio
 - Subsídio de Apoio Social
-- Arrendamento Urbano para Habitação
+- Teletrabalho
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:1/2022/A
+  label: Altera, a partir de 05 de julho de 2024 e com efeitos a 01 de janeiro de 2024, os artigos 1.º, 2.º, 3.º,4.º, 5.º,
+    6.º, 7.º, 8.º e 9.º, adita o artigo 5.º-A e republica o Decreto Regulamentar Regional n.º 1/2022/A, de 21 de janeiro,
+    Diário da República n.º 15/2022, Série I
+  source: null
+  date: '2022-01-21'
 - type: cites
   target: eli:http://data.
   label: null
@@ -117,16 +124,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/8/2022/06/22/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/8/2022/06/22/a/dre
+- type: cites
+  target: pt:dre:128355822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177992988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185043375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203457551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224661319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572443:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:04Z'
   warnings: []
   errors: []
 ---
@@ -143,15 +190,15 @@ Neste contexto, verifica-se a necessidade de aperfeiçoar e aprofundar o regime 
 
 O Programa do XIV Governo Regional dos Açores estabelece, como prioritária, a aposta nos cuidados de saúde, desde logo, através do melhoramento dos estímulos à captação e fixação de profissionais de saúde, particularmente em ilhas sem hospital, ultrapassando os estímulos financeiros e juntando-lhes o apoio à sua própria formação.
 
-Assim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do artigo 24.º do [Decreto Legislativo Regional n.º 28/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-1999-346705), de 31 de julho, que aprova o Estatuto do Serviço Regional de Saúde dos Açores, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[2/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), de 24 de janeiro, [1/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), de 4 de janeiro, [4/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2020-128355822), de 22 de janeiro, e [26/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-203457551), de 16 de novembro, o Governo Regional decreta o seguinte:
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do artigo 24.º do [Decreto Legislativo Regional n.º 28/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-1999-346705), de 31 de julho, que aprova o Estatuto do Serviço Regional de Saúde dos Açores, alterado pelos Decretos Legislativos Regionais n.os[2/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), de 24 de janeiro, [1/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-459947), de 4 de janeiro, [4/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2020-128355822), de 22 de janeiro, e [26/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-203457551), de 16 de novembro, o Governo Regional decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
-O presente diploma procede à terceira alteração ao [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.<sup>os</sup> [8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, e [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, que estabelece o regime de atribuição de incentivos à fixação, aplicável ao pessoal médico, na Região Autónoma dos Açores.
+O presente diploma procede à terceira alteração ao [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.os [8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, e [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, que estabelece o regime de atribuição de incentivos à fixação, aplicável ao pessoal médico, na Região Autónoma dos Açores.
 
 ###### Artigo 2.º — Alteração ao [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro
 
-Os artigos 1.º a 9.º do [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.<sup>os</sup> [8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, e [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, passam a ter a seguinte redação:
+Os artigos 1.º a 9.º do [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.os [8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, e [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, passam a ter a seguinte redação:
 
 "Artigo 1.º
 
@@ -197,7 +244,7 @@ e) [...]
 
 a) Valor despendido no transporte, por via aérea, para o médico e respetivo agregado familiar, para a ilha do novo local de trabalho, incluindo animais de companhia;
 
-b) Transporte de bens, por via marítima, até ao limite de 10 m<sup>3</sup>, para todo o agregado familiar;
+b) Transporte de bens, por via marítima, até ao limite de 10 m3, para todo o agregado familiar;
 
 c) Transporte de um veículo automóvel ligeiro, desde que este se verifique nos 90 dias anteriores ou imediatos ao início de funções;
 
@@ -287,7 +334,7 @@ Os encargos decorrentes da aplicação do presente diploma são suportados pelo 
 
 ###### Artigo 3.º — Aditamento ao [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro
 
-É aditado ao [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.<sup>os</sup> [8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, e [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, o artigo 5.º-A, com a seguinte redação:
+É aditado ao [Decreto Regulamentar Regional n.º 1/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988), de 21 de janeiro, alterado e republicado pelos Decretos Regulamentares Regionais n.os [8/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), de 22 de junho, e [33/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), de 23 de novembro, o artigo 5.º-A, com a seguinte redação:
 
 "Artigo 5.º-A
 
@@ -321,11 +368,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 12 de junho de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 1 de julho de 2024.**
+Assinado em Angra do Heroísmo em 1 de julho de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -383,7 +430,7 @@ b) Acréscimo remuneratório.
 
 a) Valor despendido no transporte, por via aérea, para o médico e respetivo agregado familiar, para a ilha do novo local de trabalho, incluindo animais de companhia;
 
-b) Transporte de bens, por via marítima, até ao limite de 10 m<sup>3</sup>, para todo o agregado familiar;
+b) Transporte de bens, por via marítima, até ao limite de 10 m3, para todo o agregado familiar;
 
 c) Transporte de um veículo automóvel ligeiro, desde que este se verifique nos 90 dias anteriores ou imediatos ao início de funções;
 
@@ -492,3 +539,5 @@ Os encargos decorrentes da aplicação do presente diploma são suportados pelo 
 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 2 - Sem prejuízo do disposto no número anterior, o regime de incentivos previsto no presente diploma só se efetiva após a celebração do contrato de trabalho entre o pessoal médico e os serviços e estabelecimentos de saúde do Serviço Regional de Saúde, ou após o início do processo de mobilidade.
+
+117856795

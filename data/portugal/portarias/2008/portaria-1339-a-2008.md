@@ -22,12 +22,12 @@ publication:
   reference: Diário da República n.º 226/2008, 1º Suplemento, Série I de 2008-11-20
   number: '226'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8222-(6) a 8222-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/11/22601/0000600008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1339-a/2008/11/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1339-a-2008-388827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 128a447b8d459ba66e9ab5067e17a2a82da674b491ce54ffa5abe75b42c7616a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7544436cbf37edc5ad25f5de086035f6ddbfc138a276908a2365ba756bc2adc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direção Geral de Agricultura e Desenvolvimento Rural
-- Doença Vegetal
+- Autoridade Florestal Nacional
 - Definição de Competências
+- Direção Geral de Agricultura e Desenvolvimento Rural
 - Direcção Regional de Agricultura e Pescas
-- Nemátodo
+- Doença Vegetal
+- Embalagem
 - Especificação Técnica
 - Fiscalização
-- Embalagem
+- Nemátodo
 - Normas de Segurança
-- Proteção Fitossanitária
-- Autoridade Florestal Nacional
 - Produto em Madeira
+- Proteção Fitossanitária
 relationships:
 - type: amended_by
   target: pt:dre:669979:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260664:por
+  label: "Alterados os arts. 1º, 2º, 3º e 4º do presente diploma pela PORT.230-B/2009.27.02.2009.MADRP, DR.IS [41-Supl] de\
+    \ 27.02.2009, republicando-a\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-b-2009-260664
+  date: '2009-02-27'
+- type: amended_by
+  target: pt:dre:482391:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º (na redacção da Port 230-B/2009, de 27-Fev, que a republica) e o art. 5º e os\
+    \ anexos I e II e aditado o art. 3º-A ao presente diploma, pela PORT.1460/2009.31.12.2009.MADRP, DR.IS [252] de 31.12.2009,\
+    \ republicando-a\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1460-2009-482391
+  date: '2009-12-31'
 - type: cites
   target: celex:32006D0133
   label: null
@@ -93,16 +106,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/124/2004/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/124/2004/02/06/p/dre
+- type: repealed_by
+  target: pt:dre:669979:por
+  label: "Revogada, a partir de 13.08.2011, pelo DEC LEI.95/2011.08.08.2011.MAMAOT, DR.IS [151] de 08.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2011-669979
+  date: '2011-08-08'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:20Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +205,7 @@ Os tratamentos fitossanitários exigidos na presente portaria, de acordo com a N
 
 2) MB = fumigação com brometo de metilo, conforme as seguintes exigências específicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22601/0000600008.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22601/0000600008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22601/0000600008.pdf)
 
 A temperatura mínima não deverá ser inferior a 10ºC e o tempo mínimo de exposição deverá ser de vinte e quatro horas. A monitorização das concentrações deverá ser executada pelo menos ao fim de duas, quatro e vinte e quatro horas.
 
@@ -195,7 +213,7 @@ A temperatura mínima não deverá ser inferior a 10ºC e o tempo mínimo de exp
 
 1 - É utilizada a seguinte marca a apor no material de embalagem, atestando o tratamento a que foi sujeito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/11/22601/0000600008.pdf))](https://files.diariodarepublica.pt/1s/2008/11/22601/0000600008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22601/0000600008.pdf)
 
 PT - código ISO de Portugal;
 

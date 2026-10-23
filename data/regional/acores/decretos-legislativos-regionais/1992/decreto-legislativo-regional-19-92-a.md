@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/240a00/48704872.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/1992/10/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-1992-221082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87b4f11bab9a59f08214e5ab1d3807e117fa018d8d5b827fc9124064c253d253
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75b6537dbc34f5c7010a456850c392c056c8d0362bffc468bcddba0489cc37c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Concurso
 - Conservatório Regional
-- Formas de Provimento
-- Recrutamento de Pessoal
-- Pessoal não Docente
-- Estabelecimento de Ensino
-- Ensino Básico
-- Quadro de Pessoal
-- Regime Jurídico
-- Mobilidade de Pessoal
-- Açores
 - Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
+- Formas de Provimento
+- Mobilidade de Pessoal
+- Pessoal Dirigente
+- Pessoal não Docente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:339384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187953:por
+  label: "Substituído o quadro de pessoal constante do Anexo I, pelo DRR.4/95/A.1995.01.11.GR-RAA, DR.IS-B [46] de 23/Fev/1995\0\
+    5\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1995-187953
+  date: '1995-01-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -93,16 +99,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/2/1991/01/21/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/2/1991/01/21/a/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:339384:por
+  label: "Revogado pelo DLR.21/2000/A.2000.07.06.ALR-RAA DR.IS-A [183] DE 09/AGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2000-339384
+  date: '2000-07-06'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:12Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +150,7 @@ Considerando a necessidade de, quanto a quadros, provimento, mobilidade e transi
 
 A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea i) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 7.º, 8.º, 21.º e 42.º do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, com as alterações constantes do [Decreto-Lei n.º 191/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1989-620320), de 7 de Junho, adaptado à Região pelo [Decreto Legislativo Regional n.º 4/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898), de 29 de Junho, com as alterações introduzidas pelo [Decreto Legislativo Regional n.º 2/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1991-497189), de 21 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 7.º, 8.º, 21.º e 42.º do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, com as alterações constantes do [Decreto-Lei n.º 191/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1989-620320), de 7 de Junho, adaptado à Região pelo [Decreto Legislativo Regional n.º 4/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898), de 29 de Junho, com as alterações introduzidas pelo [Decreto Legislativo Regional n.º 2/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1991-497189), de 21 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — Dimensionamento dos quadros
 
@@ -183,7 +218,7 @@ c) Operador de sistema.
 
 3 - Dependem hierarquicamente do encarregado de pessoal auxiliar de acção educativa os funcionários da carreira de auxiliar de acção educativa.
 
-###### Art. 2.º A dotação dos lugares da carreira de auxiliar de acção educativa dos quadros dos estabelecimentos de educação pré-escolar e do 1.º ciclo do ensino básico obedece, nomeadamente, às seguintes condições;
+Art. 2.º A dotação dos lugares da carreira de auxiliar de acção educativa dos quadros dos estabelecimentos de educação pré-escolar e do 1.º ciclo do ensino básico obedece, nomeadamente, às seguintes condições;
 
 a) Na educação pré-escolar:
 
@@ -217,15 +252,15 @@ De 456 a 520 alunos, 8 auxiliares de acção educativa;
 
 521 ou mais alunos, 9 auxiliares de acção educativa.
 
-###### Art. 3.º - 1 - A Secretaria Regional de Educação e Cultura, através da Direcção Regional de Administração Escolar, publicará no Jornal Oficial os quadros a que se refere o artigo anterior.
+Art. 3.º - 1 - A Secretaria Regional de Educação e Cultura, através da Direcção Regional de Administração Escolar, publicará no Jornal Oficial os quadros a que se refere o artigo anterior.
 
 2 - Os quadros a que se refere o número anterior serão fixados por despacho conjunto dos Secretários Regionais da Administração Interna, Finanças e Planeamento e Educação e Cultura, ou por despacho do Secretário Regional da Educação e Cultura, sempre que do reajustamento resulte, ou não, aumento global do número de lugares dos quadros.
 
 3 - Para os efeitos do n.º 1 as direcções escolares remeterão à Direcção Regional de Administração Escolar as propostas de reajustamento, sempre que tal lhes seja solicitado.
 
-###### Art. 4.º A alteração dos quadros constantes dos anexos I e II do presente diploma far-se-á por decreto regulamentar regional.
+Art. 4.º A alteração dos quadros constantes dos anexos I e II do presente diploma far-se-á por decreto regulamentar regional.
 
-###### Art. 5.º - 1 - A mobilidade do pessoal não docente pertencente aos quadros dos estabelecimentos de educação pré-escolar e 1.º ciclo do ensino básico poderá efectuar-se por conveniência da Administração e independentemente do acordo do interessado nos seguintes casos:
+Art. 5.º - 1 - A mobilidade do pessoal não docente pertencente aos quadros dos estabelecimentos de educação pré-escolar e 1.º ciclo do ensino básico poderá efectuar-se por conveniência da Administração e independentemente do acordo do interessado nos seguintes casos:
 
 a) Quando, por força do reajustamento da rede escolar, a escola seja suspensa;
 
@@ -241,30 +276,30 @@ b) O funcionário que possua menos tempo de serviço no respectivo estabelecimen
 
 c) O funcionário com menos idade.
 
-###### Art. 6.º Até à regulamentação do concurso de afectação referido no artigo 6.º, n.º 3, do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, a mobilidade do pessoal não docente dentro do mesmo quadro de vinculação efectuar-se-á por distribuição, desde que seja no interesse da Administração e obtida a concordância do interessado.
+Art. 6.º Até à regulamentação do concurso de afectação referido no artigo 6.º, n.º 3, do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, a mobilidade do pessoal não docente dentro do mesmo quadro de vinculação efectuar-se-á por distribuição, desde que seja no interesse da Administração e obtida a concordância do interessado.
 
-###### Art. 7.º As condições de recrutamento, ingresso e acesso do operador de sistema são as constantes do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro.
+Art. 7.º As condições de recrutamento, ingresso e acesso do operador de sistema são as constantes do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro.
 
-###### Art. 8.º - 1 - Os actuais auxiliares de acção educativa que à data da entrada em vigor deste diploma prestem serviço há mais de três anos nas áreas de laboratório, biblioteca, reprografia, material áudio-visual e ligações telefónicas em estabelecimento de ensino poderão transitar, a seu pedido, para a carreira de auxiliar técnico, nos termos da lei geral.
+Art. 8.º - 1 - Os actuais auxiliares de acção educativa que à data da entrada em vigor deste diploma prestem serviço há mais de três anos nas áreas de laboratório, biblioteca, reprografia, material áudio-visual e ligações telefónicas em estabelecimento de ensino poderão transitar, a seu pedido, para a carreira de auxiliar técnico, nos termos da lei geral.
 
 2 - Os ecónomos principais que se encontrem a desempenhar essas funções à data da entrada em vigor do presente diploma poderão transitar, a seu pedido, para a carreira de técnico auxiliar de acção social escolar, nos termos do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
-###### Art. 9.º O presente diploma entra em vigor na data da sua publicação.
+Art. 9.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 11 de Setembro de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 28 de Setembro de 1992.**
+Assinado em Angra do Heroísmo em 28 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO I — Estabelecimentos dos 2.º e 3.º ciclos dos ensinos básicos e secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/240a00/48704872.pdf))](https://files.diariodarepublica.pt/1s/1992/10/240a00/48704872.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/240a00/48704872.pdf)
 
 ## ANEXO II — Conservatórios regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/240a00/48704872.pdf))](https://files.diariodarepublica.pt/1s/1992/10/240a00/48704872.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/240a00/48704872.pdf)

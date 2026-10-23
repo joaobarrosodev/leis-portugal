@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/049a00/14081409.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2003/02/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2003-186121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e5c9cec558f93b2d4ab0cef71ebd59429fce4d4a331c246810b4a85ffff991b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7f64d66bf5c7b876fe25490902754932ae634d5bec8ac6f437848f2b2c0cff9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Dador de Sangue
 - Sangue Humano
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:70025058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:557440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619320:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70025058:por
+  label: Revogado (a partir de 18.08.2015) o DLR 14/89/A de 10-ago DR.IS [183], na redação do presente diploma, pelo(a) Decreto
+    Legislativo Regional n.º 20/2015/A - Diário da República n.º 159/2015, Série I de 2015-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2015-70025058
+  date: '2015-08-17'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:49Z'
   warnings: []
   errors: []
 ---
@@ -114,10 +128,10 @@ Assim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea a) d
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 23 de Janeiro de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 10 de Fevereiro de 2003.**
+Assinado em Angra do Heroísmo em 10 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2012/03/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2012-553926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb90136ef9133e6c139965f5632d333f7b6252af59f55ce2364ee2a09401a98b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc8f38a2b2ca3a6271940467b065e12d2c4190e8cfdab06ac29f97011d7bf763
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Financiamento
 - Investigação Científica e Tecnológica
-- Tecnologia da Informação
 - Mudança Tecnológica
-- TIC
 - Nova Tecnologia
-- Tecnologia
 - Sistema Científico e Tecnológico
-- Açores
+- Tecnologia
+- Tecnologia da Informação
+- TIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/125/1999/04/20/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/125/1999/04/20/p/dre
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:27Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +122,7 @@ Paralelamente, reconhece-se a inclusão no SCTA, naturalmente com respeito pelo 
 
 Outra das áreas em que se legisla é a relativa ao programa de incentivos, agora denominado de PRO-SCIENTIA. Procurou-se criar um quadro completo e transparente, de fácil compreensão para os potenciais beneficiários, sendo que as condições de acesso e as regras gerais de atribuição dos incentivos serão objeto de decreto regulamentar regional próprio.
 
-O novo programa de incentivos prevê a existência de quatro eixos e visa, genericamente, consolidar o potencial científico e tecnológico da Região; estimular a investigação em áreas relevantes para a Região; promover a valorização económica das atividades de I&D; incentivar a criação de sinergias transregionais e internacionais que favoreçam o desenvolvimento da Região e a projetem no espaço europeu de investigação; qualificar os recursos humanos da ciência; promover a cultura científica e tecnológica, contribuir para a disseminação das TIC e assegurar o acesso generalizado à sociedade do conhecimento.
+O novo programa de incentivos prevê a existência de quatro eixos e visa, genericamente, consolidar o potencial científico e tecnológico da Região; estimular a investigação em áreas relevantes para a Região; promover a valorização económica das atividades de I&D incentivar a criação de sinergias transregionais e internacionais que favoreçam o desenvolvimento da Região e a projetem no espaço europeu de investigação; qualificar os recursos humanos da ciência; promover a cultura científica e tecnológica, contribuir para a disseminação das TIC e assegurar o acesso generalizado à sociedade do conhecimento.
 
 O sistema pretende, por último, reforçar a participação das empresas no SCTA, fazendo-as parceiras na realização de atividades de I&D, bem como no apoio à criação de empresas de base tecnológica.
 
@@ -192,7 +196,7 @@ c) Infraestruturas de DC&T.
 
 a) Instituições de ensino superior com sede na Região Autónoma dos Açores, com respeito pelo princípio da autonomia universitária e pelo disposto na legislação em vigor sobre o sistema do ensino superior;
 
-b) Organismos públicos e privados de coordenação, gestão, acolhimento e valorização de C&T;
+b) Organismos públicos e privados de coordenação, gestão, acolhimento e valorização de C&T
 
 c) Parcerias de I&D.
 
@@ -224,9 +228,9 @@ c) Unidades de investigação hospitalares.
 
 2 - Configuram instituições particulares de investigação, designadamente:
 
-a) Fundações que tenham como objeto principal a realização de atividades de I&D ou de ID&I;
+a) Fundações que tenham como objeto principal a realização de atividades de I&D ou de ID&I
 
-b) Associações sem fins lucrativos que tenham como objeto principal a realização de atividades de I&D ou de ID&I;
+b) Associações sem fins lucrativos que tenham como objeto principal a realização de atividades de I&D ou de ID&I
 
 c) Unidades de I&D em contexto empresarial.
 
@@ -246,7 +250,7 @@ a) Centros tecnológicos;
 
 b) Institutos de novas tecnologias;
 
-c) Unidades de acolhimento e valorização de atividades de C&T;
+c) Unidades de acolhimento e valorização de atividades de C&T
 
 d) Unidades de transferência tecnológica.
 
@@ -298,7 +302,7 @@ b) Estimular a investigação em áreas relevantes;
 
 c) Reforçar a participação das empresas no SCTA;
 
-d) Promover a valorização económica das atividades de I&D;
+d) Promover a valorização económica das atividades de I&D
 
 e) Incentivar a criação de sinergias transregionais e internacionais que projetem os Açores no Espaço Europeu de Investigação;
 
@@ -310,9 +314,9 @@ g) Promover a cultura científica e tecnológica e assegurar o acesso generaliza
 
 São objeto de apoio, no âmbito do PRO-SCIENTIA, os seguintes quatro eixos prioritários:
 
-a) Valorizar - valorização em C&T;
+a) Valorizar - valorização em C&T
 
-b) Cooperar - cooperação e criação de parcerias em ID&I;
+b) Cooperar - cooperação e criação de parcerias em ID&I
 
 c) Qualificar - qualificação do capital humano para a sociedade do conhecimento;
 
@@ -336,7 +340,7 @@ e) Reforçar a participação das empresas no SCTA.
 
 O eixo cooperar tem como objetivos:
 
-a) Dinamizar a investigação em consórcio promovida e desenvolvida por empresas e instituições científicas e o lançamento das bases para a generalização e intensificação das relações de índole científica e técnica entre as diferentes instituições de ID&I;
+a) Dinamizar a investigação em consórcio promovida e desenvolvida por empresas e instituições científicas e o lançamento das bases para a generalização e intensificação das relações de índole científica e técnica entre as diferentes instituições de ID&I
 
 b) Apoiar o desenvolvimento de áreas de I&D e ID&I com aplicação no tecido produtivo da Região;
 
@@ -376,10 +380,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 26 de janeiro de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 12 de março de 2012.**
+Assinado em Angra do Heroísmo em 12 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

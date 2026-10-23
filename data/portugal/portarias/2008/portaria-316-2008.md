@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/316/2008/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/316-2008-249544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db4eb37881e07e88757d5a3a4fe54685c4ff071e4bc1bc1556659193b80957b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abfa1b3979ff2d4346ef0b2122bb7537d0655c971a8e147101043f2b3ba501e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,11 @@ relationships:
   target: pt:dre:493731:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493731:por
+  label: "Anexados vários prédios rústicos, pela PORT.901/2009.14.08.2009.MADRP, DR.IS [157] de 14.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/901-2009-493731
+  date: '2009-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -83,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:33Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +126,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 14 de Abril de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/08000/0239502396.pdf))](https://files.diariodarepublica.pt/1s/2008/04/08000/0239502396.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08000/0239502396.pdf)

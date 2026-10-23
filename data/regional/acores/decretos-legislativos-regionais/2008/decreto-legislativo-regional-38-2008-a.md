@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/38/2008/08/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2008-455635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b205d1f088886612033958199350d0aa8feb3ab9b49df2812da180a2b7fc6282
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1341e2bfb91fd5926cbcede751901bdf8218e73c19bf7eb48cfa95e520a01d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Ordenamento do Território
-- Região de Turismo
 - Açores
 - Infraestrutura Turística
+- Ordenamento do Território
+- Região de Turismo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:157563969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612381:por
+  label: "Suspensa, a partir de 12.04.2010, até à alteração do plano, a vigência do n.º 1 do artigo 6.º (relativamente à ilha\
+    \ de São Miguel) e dos n.ºs 3 e 4 (para todo o território da Região Autónoma dos Açores) do mesmo artigo das normas de\
+    \ execução do Plano de Ordenamento Turístico, aprovado no presente diploma, pelo DLR.13/2010/A.07.04.2010.AL-RAA, DR.IS\
+    \ [67] de 07.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2010-612381
+  date: '2010-04-07'
+- type: amended_by
+  target: pt:dre:157563969:por
+  label: Art. 4.º e n.º 2 do art. 6.º do DLR 38/2008/A,DR. IS (154), na sua redação atual incrementa a bolsa de camas prevista
+    no n.º 1 do artigo 6.º do Anexo I do mesmo diploma pelo(a) Resolução n.º 37/2021
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/37-2021-157563969
+  date: '2021-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/316/2007/09/19/p/dre
   label: null
@@ -99,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2007/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2007/08/31/p/dre
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:51Z'
   warnings: []
   errors: []
 ---
@@ -143,11 +181,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de Junho de 2008.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 24 de Julho de 2008.**
+Assinado em Angra do Heroísmo em 24 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -199,7 +237,7 @@ iii) Um equipamento de animação turística.
 
 1 - O quadro seguinte define a capacidade máxima e distribuição de camas por ilha, comparativamente com a situação em Abril de 2005:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 2 - Para além das 15 500 camas, o Plano define uma bolsa de 1551 camas como uma reserva destinada a fazer face a dinâmicas insulares não susceptíveis de serem previstas à distância e ou projectos com especial significado estratégico não comportados pelos limites remanescentes para cada uma das ilhas num determinado momento. A bolsa, alocada indicativamente a cada uma das ilhas, poderá ser usada caso seja considerado pertinente e justificável, ao abrigo do número seguinte.
 
@@ -335,7 +373,7 @@ QUADRO N.º 1
 
 Estrutura do Plano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 A elaboração do POTRAA, fundamentada na necessidade imperiosa de definir as linhas orientadoras de uma actuação preventiva e estratégica, orientadora do planeamento municipal e das intervenções sectoriais da Administração, pretende numa perspectiva supramunicipal, salvaguardar a sustentabilidade ambiental e o ordenamento do território, estruturar o desenvolvimento turístico, assegurar a compatibilização e diversificação de usos e actividades, e ponderar as necessidades e interesses de diversos âmbitos e naturezas, tendo em vista a promoção do desenvolvimento económico e social equilibrado.
 
@@ -457,7 +495,7 @@ As razões e os fundamentos adjacentes às opiniões individuais foram, como ser
 
 Vertentes de análise e apreciação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Em síntese, o cenário A, porque cenário de compromisso entre situações de contraste, consegue garantir, em proporções bastantes e satisfatórias, dois aspectos essenciais e nucleares de qualquer processo de planeamento turístico (de tal forma que, conciliá-los, é, afinal, o aspecto chave de qualquer plano dentro do domínio turístico): sustentabilidade e efeitos económicos, o mesmo é dizer, os máximos efeitos positivos no domínio sócio-económico dentro de um contexto de garantia de sustentabilidade do processo.
 
@@ -469,11 +507,11 @@ Desta, derivarão todas as proposições e propostas tendo em vista cumprir o ca
 
 Processo de cenarização e sua decorrência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 A figura anterior ilustra o modo como os cenários surgiram, num encontro entre a retrospectiva e a prospectiva, capitalizando um conjunto alargado de contributos oriundos de outras fases do processo de planeamento. Ilustra, igualmente, o destaque do cenário de referência e a sua identificação enquanto visão estratégica do Plano, fonte afinal, como a seguir se pretende esquematizar, do que de agora em diante este último encerrará.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Nesta óptica, importa, desde já, retomar o cenário A tendo em vista sublinhar as suas assunções principais, as quais são o travejamento da visão estratégica adoptada. Desta forma, salientam-se:
 
@@ -577,27 +615,27 @@ Diferenças de nível de classificação assumidas explícita ou implicitamente 
 
 Subsistema de regulação e organização do sector
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Subsistema da oferta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Subsistema de distribuição, informação e divulgação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Subsistema dos transportes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Subsistema da procura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Impactes do turismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 A.2 - Objectivos global e complementares para o sector, linhas estratégicas de desenvolvimento e respectivos objectivos específicos
 
@@ -753,7 +791,7 @@ Acresce a esta situação de relativa uniformidade do sistema turístico, o enun
 
 Sistema actual, tendencialmente unidimensional e hierárquico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Assim sendo, pensamos que o conceito que melhor traduz a realidade actual do sistema turístico regional e, por acréscimo, com maior capacidade para evidenciar a realidade do presente, será o de «Centro - Periferia», o qual, na sua essência de tentativa de interpretação de um sistema mundo cada vez mais articulado, repousava em duas ideias chave: desenvolvimento assimétrico e interdependente.
 
@@ -763,7 +801,7 @@ De entre as diversas dimensões possíveis, privilegiou-se as que se reportam à
 
 Quadro estratégico de referência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Estádio de desenvolvimento turístico:
 
@@ -801,7 +839,7 @@ Através do quadro anterior é possível estabelecer cinco níveis no que respei
 
 Posicionamento estratégico das ilhas no domínio do turismo - centralidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Como atrás se referiu a situação da figura anterior (uma hierarquia bem vincada e monodimensional) tem vindo a evoluir nos últimos anos devido a dois factores intimamente correlacionados, por um lado a evolução que se tem registado ao nível do próprio sector turístico no sentido de uma tessitura bastante mais abrangente e complexa e, por outro, nos próprios modos de perspectivar as relações turísticas entre as diversas ilhas (hierarquias multidimensionais), ou seja, nos domínios, do real e do conceptual.
 
@@ -815,7 +853,7 @@ Assim sendo, para capturar esta nova realidade e enquadrá-la dentro de um model
 
 Análise muldimensional - Geometria variável
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Isto quer dizer que o posicionamento estratégico de uma determinada ilha, analisado da forma tradicional (unidimensionalmente) ou para uma determinada janela do espectro turístico pode ser bastante periférico e desfavorável, e para outra janela do espectro turístico ser bastante central. É precisamente esta detecção das dimensões/produtos turísticos que são susceptíveis de maximizar a centralidade de cada uma das ilhas uma das tarefas chave que se impõem tendo em vista estabilizar os respectivos posicionamentos estratégicos mais favoráveis.
 
@@ -823,7 +861,7 @@ Um exemplo claro do que se firmou é o caso da Ilha do Pico, a qual, numa análi
 
 Dimensão/Produto Baleia - Posicionamento estratégico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Esta perspectiva, como já atrás se insinuou, difere claramente da anterior no seu significado estratégico e operacional, já que rasga com determinismos estáticos e afirma a existência de janelas de oportunidade e focos dinâmicos susceptíveis de serem aproveitadas em qualquer parcela do território da Região.
 
@@ -837,45 +875,45 @@ A resposta a esta(s) pergunta(s) implica, em nosso entender, reflectir em torno 
 
 Apostas estratégicas por Ilhas - reforço das centralidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Como forma de sintetizar alguns dos aspectos referidos no quadro anterior e conferir-lhes maior acuidade visual, elaborar-se-á, seguidamente, um conjunto de esquemas, nos quais serão representadas as ligações estabelecidas pelas diversas ilhas no plano do produto considerado com maior significado estratégico para cada uma delas. Importa, contudo, referir que as várias ilhas deverão desenvolver outras dimensões da oferta, razão pela qual outros layers de relações e centralidades existirão, os quais deverão ser igualmente considerados.
 
 Corvo - Produto estratégico «Comunidade»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Faial - Produto estratégico «Náutica de recreio»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Flores - Produto estratégico «Diversidade paisagística»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Graciosa - Produto estratégico «Termalismo»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Pico - Produto estratégico «Baleia»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 São Jorge - Produto estratégico «Queijo»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Santa Maria - Produto estratégico «Praia»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 São Miguel - Produto estratégico «Vulcanismo»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Terceira - Produto estratégico «Património construído».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Importa ainda referir que a estratégia das várias ilhas não poderá ser encarada de uma forma isolada e somente baseada num produto estratégico, devendo, por um lado, desenvolver o ambiente-ilha de forma criadora e localmente tendo em vista fertilizar a oferta com outras apostas para além da que se perfila como estratégica e, desse modo, permitir o aumento da estadia média de cada uma das ilhas e, por outro lado, buscar articulações entre os vários agrupamentos e, mesmo, com a do todo regional, de modo a marcar posição num ambiente-circuito orientado para um turismo mais generalista.
 
@@ -895,7 +933,7 @@ B.1 - Elementos complementares a propósito da estrutura do plano/programa de in
 
 Como já atrás se referiu, o Plano de intervenção terá uma estrutura arborescente, estruturada da forma que a figura seguinte ilustra.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Importa relembrar que os objectivos específicos associados a cada uma das Linhas Estratégicas de Intervenção (LED), foram oportunamente apresentados no Ponto A2, razão porque, para evitar repetições, não o faremos de seguida.
 
@@ -1363,7 +1401,7 @@ QUADRO N.º 2
 
 Domínios de desenvolvimento turístico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Refira-se que as opções supralocais que se traduzem nas disposições do POTRAA não pretendem definir o estatuto dos solos, mas simplesmente apontar a sua aptidão para utilizações turísticas, e regulamentar o modo como essa utilização turística deverá ser realizada.
 
@@ -1409,7 +1447,7 @@ QUADRO N.º 3
 
 Organização do território segundo as unidades de organização territorial decorrentes dos domínios de desenvolvimento turístico:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 O POTRAA considerou, desde logo, os valores naturais classificados e as zonas ecológicas sensíveis, não se esgotando a totalidade das áreas integradas na Reserva Ecológica (RE). Assim sendo, a entrada em vigor da RE não deverá comprometer o modelo de desenvolvimento turístico, embora tenha que ser tomada em consideração na perspectiva da salvaguarda dos valores naturais.
 
@@ -1495,7 +1533,7 @@ Atribuição de valores de aptidão aos terrenos em função da sua exposição
 
 Aptidão dos Terrenos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 QUADRO N.º 2
 
@@ -1503,7 +1541,7 @@ Atribuição de valores de aptidão aos terrenos em função do seu declive
 
 Aptidão dos Terrenos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 A combinação das aptidões dos terrenos em função das suas exposições e dos declives foi efectuada por intermédio da multiplicação dos seus valores, tendo resultado naquilo que se denominou de Aptidão Global. Os resultados possíveis são os que se apresentam seguidamente:
 
@@ -1511,7 +1549,7 @@ QUADRO N.º 3
 
 Níveis possíveis de Aptidão Global dos terrenos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 A existência da carta de Aptidão Global permitiu delimitar genericamente (dentro das zonas «globais» com potencialidade turística) as áreas mais aptas.
 
@@ -1529,7 +1567,7 @@ Foram seleccionadas duas áreas: uma próxima da Praia do Almoxarife e outra pr�
 
 Figura 1 - Espaços Específicos de Vocação Turística recomendados para a Zona da Praia do Almoxarife - Pedro Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 A primeira intersecta uma grande parte do aglomerado da Praia do Almoxarife e a quase totalidade de um Espaço de Vocação Turística já existente, definido pelo PDM.
 
@@ -1543,7 +1581,7 @@ A zona menos condicionada, e por isso escolhida, situa-se a sudoeste do Portinho
 
 Figura 2 - Espaço Específico de Vocação Turística proposto para a ilha do Pico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Analisando a integração desta zona no PDM das Lajes do Pico, para além da área turística destinada ao campo de golfe definida por este plano, verifica-se que está, essencialmente, incluída em Espaço Florestal de Protecção e em Espaço Florestal de Produção. Em ambas as categorias o PDM viabiliza o licenciamento de equipamentos ou unidades de alojamento turístico, desde que, naturalmente, obedeçam a determinados parâmetros.
 
@@ -1555,7 +1593,7 @@ Identificaram-se duas áreas: uma junto a Urzelina, e uma outra entre Urzelina e
 
 Figura 3 - Espaços Específicos de Vocação Turística recomendados para a ilha de São Jorge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 A primeira intersecta parte da área urbana/urbanizável de Urzelina, tem poucos condicionamentos do ponto de vista das exposições solares e dos declives e apresenta características paisagísticas muito interessantes.
 
@@ -1571,7 +1609,7 @@ A zona mais favorável parece situar-se a ocidente de Água de Pau uma vez que p
 
 Figura 4 - Espaço Específico de Vocação Turística proposto para a zona entre Lagoa e Água de Pau
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 O espaço definido encontra-se, no que diz respeito ao PDM de Lagoa (6), classificado maioritariamente como Espaço Agrícola (inserido em RAR), englobando, ainda, uma pequena faixa de Espaço Natural. Qualquer uma das categorias é muito pouco flexível no que respeita à transformação de solos e à sua ocupação, pelo que, caso se pretenda uma ocupação mais densa que unidades de Turismo de habitação e turismo em Espaço Rural terá de ser equacionada a possibilidade de desafectar algumas áreas de RAR que se considerem menos importantes.
 
@@ -1587,7 +1625,7 @@ Identificaram-se 2 potenciais Espaços Específicos de Vocação Turística: um 
 
 Figura 5 - Espaços Específicos de Vocação Turística recomendados para a zona da Costa Leste da ilha da Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Zona do Negrito
 
@@ -1603,7 +1641,7 @@ Nos espaços fora da RAR é possível o licenciamento de empreendimentos ou equi
 
 Figura 6 - Espaço Específico de Vocação Turística proposto para a zona do Negrito
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 C.2.3 - Espaços Rurais e Outros não Diferenciados
 
@@ -1753,7 +1791,7 @@ Em termos do património natural foi feita, para cada ilha, a localização do p
 
 Desta listagem importa destacar os fenómenos vulcanológico-geológicos. Sendo um Arquipélago de origem vulcânica, é natural que sejam comuns e diversas as manifestações de carácter vulcanológico bem como formações geológicas de origem vulcânica. As Fajãs, as Grutas e os Fenómenos Naturais são exemplos deste património.
 
-# Parte do vasto património geológico/vulcanológico açoriano encontra-se classificado, ou em vias de classificação como Monumentos Naturais Regionais, nomeadamente:
+Parte do vasto património geológico/vulcanológico açoriano encontra-se classificado, ou em vias de classificação como Monumentos Naturais Regionais, nomeadamente:
 
 .«Gruta das Torres» na Madalena - Pico;
 
@@ -1859,7 +1897,7 @@ QUADRO N.º 4
 
 Número de camas propostas em 2015, por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
 
 Tendo-se definido os critérios gerais para construir o cenário e a capacidade de carga desejável para a
 
@@ -1985,4 +2023,4 @@ O respeito por estas directrizes deverá ser exigido a todos os empreendimentos 
 
 (7) Nomeadamente os constantes nos Planos de Ordenamento da Orla Costeira, nos Planos de Ordenamento das Bacias Hidrográficas das Lagoas e no Plano Sectorial da Rede Natura 2000.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15400/0541405451.pdf)

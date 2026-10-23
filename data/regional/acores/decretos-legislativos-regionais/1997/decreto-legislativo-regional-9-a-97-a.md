@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 151/1997, 1º Suplemento, Série I-A de 1997-07-03
   number: '151'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3262-(2) a 3262-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/151a01/00020011.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9-a/1997/07/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-a-1997-362145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98c56a1a9e58bacabb9511d903634a5adfbcebf8f6dad75d9692cb0a2803dfae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e852f5b022f4249bd841091c9fd1918007035cf43c307d7c8b81f4b86e8f47f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Despesas Públicas
 - Orçamento Regional
 - Plano Regional
 - Receita Regional
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:416652:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:416652:por
+  label: "Alterados os mapas II, III, IV e V anexos ao presente diploma, pelo DLR.26-A/97/A.1997.12.12.ALR-RAA DR.IS-A [291]Supl\
+    \ de 1997.12.18\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-a-1997-416652
+  date: '1997-12-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/29-a/1996/12/03/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/29-a/1996/12/03/a/dre
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524634:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:56Z'
   warnings: []
   errors: []
 ---
@@ -211,12 +233,12 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro 
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Maio de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
 
-**Assinado em Angra do Heroísmo em 2 de Julho de 1997.**
+Assinado em Angra do Heroísmo em 2 de Julho de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/151a01/00020011.pdf))](https://files.diariodarepublica.pt/1s/1997/07/151a01/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/151a01/00020011.pdf)

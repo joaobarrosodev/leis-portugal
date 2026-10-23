@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/073b00/14761480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/1992/03/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1992-187315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed4c2aa04977737bb5acee6b3f661056a841ded5d8807188d68d5c782d7f1f76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f09b533cd6f6b9a2b2c5c61c0fd86a876f59f8a09eb9dbd75755f5109590520
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Carreira Profissional
 - Formação Profissional
 - Governo Regional
-- Carreira Profissional
 - Monitor
 - Orgânica
 - Pessoal de BAD
@@ -78,7 +79,6 @@ subjects:
 - Reestruturação de Carreiras
 - Remuneração
 - Secretaria Regional da Juventude e Recursos Humanos
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:573749:por
@@ -92,16 +92,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:573749:por
+  label: "Revogado pelo DRR.17/95/A.25.09.1995.GR-RAA, DR.IS-B [222] de 25.09.1995, sem prejuízo do disposto nos n.ºs 2 e\
+    \ 3 do seu artigo 93.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1995-573749
+  date: '1995-09-25'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:01Z'
   warnings: []
   errors: []
 ---
@@ -214,21 +256,21 @@ Os conteúdos funcionais das carreiras de técnico de formação profissional, d
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 8 de Janeiro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 8 de Fevereiro de 1992.**
+Assinado em Angra do Heroísmo em 8 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 Mapa I a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/073b00/14761480.pdf))](https://files.diariodarepublica.pt/1s/1992/03/073b00/14761480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/073b00/14761480.pdf)
 
 Mapa II a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/073b00/14761480.pdf))](https://files.diariodarepublica.pt/1s/1992/03/073b00/14761480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/073b00/14761480.pdf)
 
 Mapa III a que se refere o artigo 5.º
 

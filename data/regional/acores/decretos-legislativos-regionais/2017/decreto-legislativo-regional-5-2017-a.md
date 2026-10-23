@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2017/05/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2017-107014935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9249ce846e5d45a7414b4f6695499bc8332f11b252344560aa4e109e17abfc32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfa557e6110f000aa33447fc1cf4e74208971b405134580a70aed161ed86befb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,45 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
-- Carta Escolar dos Açores
-- Turismo
-- Combate à Violência
-- Educação
-- Artesanato
-- Feader
-- Exploração Pecuária
-- FEDER
 - Ação Social
-- Pesca
+- Açores
+- Artesanato
+- Carta Escolar dos Açores
+- Chave Móvel Digital
+- Combate à Violência
+- Cultura
+- Desporto
+- Direcção Regional da Prevenção e Combate as Dependências
+- Educação
+- Emprego
+- Energia
+- Exploração Agrícola
+- Exploração Pecuária
+- Feader
+- FEDER
+- FSE
+- Fundo Europeu dos Assuntos Marítimos e das Pescas
 - Inclusão Digital
 - Investigação
 - Laboratório de Sanidade Vegetal
 - Laboratório Regional de Engenharia Civil
 - Laboratório Regional de Veterinária
-- FSE
-- Exploração Agrícola
-- Planeamento Regional
-- Energia
-- Pro-scientia
-- Cultura
-- Prorural
-- Qualificação Profissional
-- Emprego
-- Programa Interreg
-- Recursos Naturais
-- Parque Marinho do Arquipélago dos Açores
-- Direcção Regional da Prevenção e Combate as Dependências
+- Modernização Administrativa
 - Observatório Sócio-Habitacional dos Açores
-- Açores
+- Parque Marinho do Arquipélago dos Açores
+- Pesca
+- Planeamento Regional
+- Programa Interreg
+- Programa Operacional Mar 2020
+- Programa Operacional Temático Competitividade e Internacionalização
+- Programa Operacional Temático Sustentabilidade e Eficiência no Uso dos Recursos
+- Prorural
+- Pro-scientia
+- Qualificação Profissional
+- Recursos Naturais
 - Sistema Regional de Leitura Pública
 - Transporte
-- Desporto
-- Chave Móvel Digital
-- Programa Operacional Mar 2020
-- Programa Operacional Temático Sustentabilidade e Eficiência no Uso dos Recursos
-- Programa Operacional Temático Competitividade e Internacionalização
-- Fundo Europeu dos Assuntos Marítimos e das Pescas
+- Turismo
 relationships:
 - type: cites
   target: celex:32005R1083
@@ -129,16 +129,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/73/2014/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/73/2014/05/13/p/dre
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:17Z'
   warnings: []
   errors: []
 ---
@@ -159,11 +163,11 @@ São aprovadas as Orientações de Médio Prazo 2017/2020.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de março de 2017.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 17 de abril de 2017.**
+Assinado em Angra do Heroísmo em 17 de abril de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -197,7 +201,7 @@ Atividade económica e comércio internacionais.
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 As evoluções dos preços evidenciam uma desaceleração no período posterior à crise de 2008, parecendo também fazer parte dos processos económicos referidos nos parágrafos anteriores sobre produção e comércio.
 
@@ -211,7 +215,7 @@ Inflação
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 No âmbito dos mercados financeiros, indicadores monetários e de atividade do sistema bancário apontam no sentido de mudanças mais intensas e significativamente distintas das observadas nos mercados de produção e comércio de bens.
 
@@ -223,7 +227,7 @@ Taxa Interbancária de Londres (LIBOR)
 
 (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 A atividade económica na zona Euro, depois da relativa contenção/contração da procura interna durante o triénio de 2010 a 2012, aproximou-se de um crescimento do produto à taxa média anual de 2 %, retomando um ritmo comparável ao da sua respetiva procura interna.
 
@@ -235,7 +239,7 @@ Já a procura determinada pela formação bruta de capital fixo tem assumido a s
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 ECONOMIA PORTUGUESA
 
@@ -249,7 +253,7 @@ Produto e Componentes da Procura
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Na sequência deste ciclo produtivo e de políticas macroeconómicas associadas, é possível observar algumas alterações significativas na composição da procura agregada.
 
@@ -261,7 +265,7 @@ Produto - ótica da despesa
 
 (% do PIB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 A evolução da balança comercial com o exterior permitiu a passagem de uma necessidade de financiamento da economia, que atingia cerca de 10 % do PIB antes da crise de 2008, para uma capacidade moderada, mas efetivamente positiva, depois de 2012.
 
@@ -271,7 +275,7 @@ Balança externa e capacidade (+)/necessidade (-) de financiamento.
 
 (milhões de euros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 A Dívida das Administrações Públicas tem vindo a estabilizar e registou um primeiro decréscimo de 1,2 p.p. do PIB em 2015.
 
@@ -283,7 +287,7 @@ Financiamento e Dívida
 
 (% do PIB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 1.2 - SITUAÇÃO REGIONAL
 
@@ -315,7 +319,7 @@ Com efeito, a crise que se revelou no setor financeiro e imobiliário no territ�
 
 Na Região, mais recentemente e focando os últimos anos, os dados disponíveis apurados pelo sistema oficial de estatística sinalizam uma recuperação económica e dos níveis de confiança que permitiu que se venha a apresentar taxas de crescimento real do PIB positivas, ainda que com uma expressão menos vincada do que se projeta no futuro para uma recuperação global e sólida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Ao nível do emprego, os dados sobre o mercado de trabalho obtidos através do Inquérito ao Emprego, elucidam a evolução da economia regional durante os últimos anos.
 
@@ -327,13 +331,13 @@ Outra tendência pesada registada no mercado de trabalho prende-se com a crescen
 
 Condição da População Perante o Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE, Inquérito ao Emprego.
 
 Independentemente dos efeitos que as quebras das séries estatísticas podem originar, é evidente que neste período de análise mais alargado que se tem como base de observação, o setor primário de produção económica nos Açores, onde se concentra parte substancial das vantagens competitivas da Região em algumas produções, não terá tido uma oscilação significativa, rondando os 10 a 11 % a afetação do emprego total. Há, outrossim, uma tendência universal e que na Região também se regista e que consiste no crescimento da representação dos setores dos serviços, por contrapartida de menor peso relativo do setor secundário, no caso particular regional com significado no setor da construção civil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 A PRODUÇÃO ECONÓMICA
 
@@ -357,7 +361,7 @@ Estes fatores levaram a um aumento da produtividade, à melhoria na produção e
 
 Dimensão das Explorações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE, Inquérito à Estrutura das Explorações Agrícolas.
 
@@ -365,7 +369,7 @@ Em termos de orientação produtiva, a RAA tem 84 % das suas explorações agrí
 
 Indicadores das Explorações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE, Inquérito à Estrutura das Explorações Agrícolas.
 
@@ -379,7 +383,7 @@ Todavia, a composição da tipologia das produções de laticínios vendidas mos
 
 Produção e Transformação de Leite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: SREA.
 
@@ -391,7 +395,7 @@ Produção de Carne
 
 Ton
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: SREA.
 
@@ -409,7 +413,7 @@ A valorização das diferentes variedades condiciona a sua representatividade no
 
 Pescado Descarregado nos Portos de Pesca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: SREA.
 
@@ -419,7 +423,7 @@ Por exemplo, em 2015 nos Açores o volume pescado representou perto de 6 % do to
 
 Principais Categorias de Espécies Descarregadas, 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE.
 
@@ -429,7 +433,7 @@ A dimensão da frota de pesca açoriana enquadra-se em dimensão e escala para a
 
 Embarcações, 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE.
 
@@ -439,7 +443,7 @@ A sua distribuição por grandes espaços operacionais mostra uma certa afetaç�
 
 Pescadores, 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE.
 
@@ -459,13 +463,13 @@ O status quo externo existente nos nossos dias, uma melhor definição do produt
 
 Procura - Principais Mercados segundo a residência/nacionalidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Entre os hóspedes residentes nos diversos países estrangeiros continuou a verificar-se um padrão de crescimento comparável aos anos anteriores, observando-se evoluções positivas pela maioria dos mercados dos principais países emissores. Apenas o mercado espanhol registou pela primeira vez nos últimos anos, um decréscimo durante 2015, enquanto a diminuição do mercado formado pela agregação de países nórdicos insere-se na trajetória dos últimos anos.
 
 Hóspedes segundo mercados estrangeiros emissores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 A evolução do turismo durante o ano de 2015 voltou a ocorrer em simultâneo com a redução da sazonalidade.
 
@@ -475,7 +479,7 @@ A taxa média anual de ocupação tem vindo a recuperar depois dos anos de reces
 
 Oferta e Procura na Hotelaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: SREA, Estatísticas do Turismo.
 
@@ -487,7 +491,7 @@ A situação regional em matéria de I&D, quando comparado com a média nacional
 
 Indicadores de Investigação e Desenvolvimento (I&D)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE.
 
@@ -505,7 +509,7 @@ Em termos de cobertura de rede em banda larga e os agregados domésticos que tê
 
 Agregados domésticos com ligação à Internet e ligação através de banda larga em casa (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Por outro lado, é também nos Açores, na citada área metropolitana, bem como, na outra região insular onde, proporcionalmente, um maior número de indivíduos utiliza a Internet para diferentes tarefas.
 
@@ -513,7 +517,7 @@ No caso do comércio eletrónico há uma menor dispersão em relação a valores
 
 Indivíduos com idade entre 16 e 74 anos que utilizam Internet e comércio eletrónico (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 O desenvolvimento de uma agenda digital torna-se elemento fundamental para alavancar a dinâmica que já se verifica no espaço regional, de forma a consolidar e banalizar a utilização destes meios, na economia moderna.
 
@@ -523,7 +527,7 @@ Pese embora algum gap ao nível das atividades de I&D na Região, não deixa de 
 
 Indicadores de inovação empresarial em 2012 - 2014
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE.
 
@@ -543,7 +547,7 @@ Este volume de população representa um ligeiro decréscimo de 0,36 % em relaç
 
 Decomposição da Evolução da População
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Os saldos fisiológicos registavam tradicionalmente contributos positivos para o crescimento demográfico, minimizando, ou mesmo compensando, saldo migratórios negativos, sujeitos a variações determinadas por mudanças socioeconómicas ou, então, condicionadas por elementos circunstanciais da conjuntura do momento histórico em concreto.
 
@@ -551,7 +555,7 @@ Todavia, a tendência geral de redução da natalidade de forma progressiva come
 
 Evolução das Componentes dos Saldos Fisiológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Apesar desta tendência de redução da natalidade, esta mantém-se nos Açores a um nível mais elevado do que o da média nacional. Concretamente, em 2015, as taxas brutas de natalidade nos Açores e no Continente foram, respetivamente, de 9,2(por mil) e 8,3(por mil).
 
@@ -559,7 +563,7 @@ Observando a estrutura etária da população, verifica-se uma redução na repr
 
 Estrutura Etária da População
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE.
 
@@ -573,7 +577,7 @@ Matrículas nas Escolas da Região, por Ano de Escolaridade
 
 Ensino Oficial e Particular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: Direção Regional da Educação.
 
@@ -585,7 +589,7 @@ Por sua vez, as matrículas no Programa Oportunidade e no PROFIJ têm registado 
 
 Outras Modalidades de Ensino por ano letivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 A distribuição das matrículas dos alunos segundo os respetivos escalões etários reflete a progressão do ensino em termos de generalização de acesso escolar dos jovens em idade de formação académica formal.
 
@@ -597,7 +601,7 @@ Taxas de Escolarização por Idades e Anos Letivos
 
 Ensino Oficial e Particular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: Direção Regional da Educação.
 
@@ -611,7 +615,7 @@ Taxas de Transição ou de Conclusão
 
 Ensino Oficial e Particular - Currículo Regular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: Direção Regional da Educação.
 
@@ -625,7 +629,7 @@ Distribuição por ilhas
 
 Ensino Oficial - 2014/2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: Direção Regional de Educação.
 
@@ -643,7 +647,7 @@ Este crescimento decorreu da evolução no número de visitantes do estrangeiro,
 
 Visitantes aos Museus, segundo a nacionalidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Os utilizadores das bibliotecas públicas e dos arquivos regionais solicitaram 121 milhares de consultas, que incidiram sobre 128 milhares de documentos durante o ano de 2015.
 
@@ -653,7 +657,7 @@ Bibliotecas e Arquivos Públicos Regionais - 2015
 
 Unid.: N.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: Direção Regional da Cultura.
 
@@ -663,7 +667,7 @@ Já no caso da representação cénica (teatro), o número total de grupos em at
 
 Agremiações e Grupos Culturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: Direção Regional da Cultura.
 
@@ -679,7 +683,7 @@ Também no âmbito de organização associativa, mais concretamente em termos de
 
 Evolução Desportiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: Direção Regional do Desporto.
 
@@ -691,7 +695,7 @@ Considerando esta evolução e, por outro lado, tendo presente que o volume de p
 
 Condição da População Perante o Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE, Inquérito ao Emprego.
 
@@ -703,7 +707,7 @@ O crescimento no setor terciário incorporou a evolução de serviços com cresc
 
 População Ativa Empregada por Setores de Atividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE, Inquérito ao Emprego.
 
@@ -713,7 +717,7 @@ Isto é, reforço e alargamento de profissões com maior exigência, complexidad
 
 População Ativa Empregada, por Profissão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 O emprego médio anual nos Açores no ano de 2015 situou-se nos 106.715 indivíduos, numa proporção entre homens e mulheres, de 54 % e 46 %, respetivamente.
 
@@ -727,7 +731,7 @@ Analisando os dados da população empregada por setor de atividade e a sua dist
 
 Dados Emprego - Ano 2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: INE, Inquérito ao Emprego.
 
@@ -743,7 +747,7 @@ Em relação às demais prestações com oscilações pontuais mantiveram-se em 
 
 Despesas - Prestações dos Regimes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: CGFSS.
 
@@ -753,7 +757,7 @@ Atendendo à relativa estabilidade no volume total de despesas de Ação Social,
 
 Despesas - Ação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: CGFSS.
 
@@ -761,7 +765,7 @@ Ao nível do apoio ao rendimento mínimo das famílias, um dos instrumentos fund
 
 Rendimento Social de Inserção (n.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 As medidas de apoio e suporte social, contam com a colaboração muito próxima e efetiva dos institutos públicos regionais com competência em matéria de solidariedade e segurança social e com a cooperação imprescindível de todas as instituições particulares de solidariedade social (IPSS), Misericórdias e outras entidades e associações de interesse público orientadas para esta temática.
 
@@ -773,7 +777,7 @@ Nos Açores há cerca de 700 valências que servem mais de 29 mil pessoas e cont
 
 Ano 2013
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 . O Sistema Regional de Saúde
 
@@ -789,7 +793,7 @@ Apesar de uma certa política de racionalização do acesso ao sistema, sendo o 
 
 No que se relaciona com a prevenção, pode tomar-se como indicador um volume de mais de 54 mil ações de vacinação da população executadas na rede regional de centros de saúde, abarcando as mais correntes de promoção de saúde pública até as mais específicas de prevenção de eventuais focos de epidemias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: Direção Regional de Saúde.
 
@@ -797,7 +801,7 @@ Ao nível dos recursos humanos observa-se um crescimento do número de profissio
 
 Pessoal de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: Direção Regional de Saúde.
 
@@ -807,7 +811,7 @@ O Instituto Nacional de Estatística (INE) produz um estudo sobre o poder de com
 
 Os últimos dados disponíveis apontam para um crescimento mais alisado do poder de compra médio per capita nos Açores no contexto nacional, após uma evolução muito significativa no primeiro decénio deste século, em que de um valor de pouco mais de 65 %, progrediu-se mais de 20 pontos percentuais para a atualidade. Por outro lado, no ano de 2000, o poder de compra global existente nos Açores não ultrapassava 1,6 % do total do país, percentagem bem inferior ao peso demográfico regional no contexto nacional. Nos anos mais próximos essa relação ultrapassa os 2 %, mais consentâneo com o peso relativo da população açoriana no contexto nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 . O desemprego
 
@@ -819,11 +823,11 @@ Tomando valores médios observados ao longo do ano de 2015, não em termos de ev
 
 Observa-se, porém, ainda neste contexto, uma situação de desemprego na faixa de idades mais nova, verificando-se maior expressão dos desempregados do sexo masculino.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Outra dimensão do desemprego prende-se com o nível de escolaridade dos desempregados. E neste particular os números são muito exemplificativos, cerca de 4/5 do número de desempregados têm níveis de escolaridade muito baixa, apenas até ao ensino básico. De acentuar que a quebra de alguns setores económicos intensivos em mão de obra sem grande qualificação, como será o caso da construção civil, está na origem desta situação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Estes dados simples conduzem à necessidade de prosseguir e intensificar as políticas ativas de emprego, de reconversão profissional em ordem a encontrar equilíbrio entre a oferta e a procura de trabalho, numa nova situação, porventura com dinamismos de setores de produção de bens e de serviços diferenciados da situação anterior.
 
@@ -841,7 +845,7 @@ Alguns dados estatísticos para os últimos anos, na área do transporte coletiv
 
 Tráfego de Passageiros nos Transportes Coletivos Terrestres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: SREA.
 
@@ -855,7 +859,7 @@ Movimento de Passageiros nos Portos Comerciais
 
 Taxas médias de variações anuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 O tráfego de passageiros nos aeroportos durante o ano de 2015 atingiu o volume de 2,2 milhões de embarques mais desembarques, representando um crescimento assinalável à taxa média de 21,3 % em relação ao ano anterior.
 
@@ -865,13 +869,13 @@ Movimento de Passageiros nos Aeroportos, segundo o tipo de tráfego
 
 Passageiros Embarcados + Desembarcados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Ao nível das mercadorias movimentadas pelos portos comerciais dos Açores, durante o ano de 2015, o total de 2 129,9 mil toneladas, representa um acréscimo em relação ao anterior, resultando essencialmente da evolução dos carregamentos/saídas, dando um sinal de recuperação pós os anos mais agudos da crise. Por sua vez, a quantidade de 8,6 mil toneladas movimentadas nos aeroportos, durante o ano de 2015, também representa um crescimento em relação ao ano anterior e apresenta os mesmos traços de evolução no período precedente.
 
 Cargas Movimentadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: SREA.
 
@@ -889,7 +893,7 @@ Na energia já disponível para consumo final, isto é, passando a considerar o 
 
 Balanço Energético - Oferta - 2014
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Os transportes continuam a revelar-se como os maiores utilizadores finais da energia disponível para consumo, atingindo uma quota de 45,6 % que é abastecida em absoluto (100 %) por energia primária de combustíveis fósseis de petróleo.
 
@@ -903,7 +907,7 @@ Balanço Energético - Procura - 2014
 
 Consumo Final de Energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: Direção-Geral de Energia e Geologia.
 
@@ -915,7 +919,7 @@ Desta forma, com um crescimento da procura superior ao da oferta produzida, obse
 
 Eletricidade - Balanço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: EDA.
 
@@ -927,7 +931,7 @@ Consumo de Eletricidade
 
 (Taxa de variação, %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Para a satisfação do acréscimo de procura contribuiu de forma significativa a eletricidade produzida por tecnologia térmica, até porque se registaram mesmo quebras de produção em fontes de energia renovável.
 
@@ -937,7 +941,7 @@ Produção de Eletricidade
 
 (Estrutura %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 . A sustentabilidade dos recursos naturais
 
@@ -949,7 +953,7 @@ Em termos de resíduos sólidos urbanos (RSU) os valores apurados pelo sistema r
 
 As ilhas com maior potencial demográfico são as que naturalmente contribuem com volumes superiores de RSU, embora possam não ser as que por habitante se registe uma maior produção. Com efeito, é na ilha Terceira e no Corvo com, respetivamente 1,67 e 1,65 kg de RSU/habitante/dia que se registam as maiores capitações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Ainda no âmbito dos resíduos urbanos verificou-se um aumento anual da produção declarada, sendo a matéria orgânica a parcela mais relevante, com uma percentagem de 38,4 %, seguindo-se os têxteis (14,7 %) e o plástico 12,9 %.
 
@@ -961,7 +965,7 @@ Destaca-se a necessidade de reforçar a monitorização das massas de água, dim
 
 Análises em Cumprimento dos Valores Paramétricos (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Fonte: ERSARA.
 
@@ -1799,11 +1803,11 @@ Finalmente, embora com um volume de meios financeiros inferior, face à natureza
 
 Investimento Público por Grande Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 No quadro seguinte apresentam-se os programas de investimento público que irão vigorar neste período e respetivas dotações financeiras, cujo conteúdo será apresentado de forma detalhada nos planos anuais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 4.2 - QUADRO GLOBAL DE FINANCIAMENTO
 
@@ -1815,7 +1819,7 @@ De seguida, apresenta-se o quadro com as grandes linhas de orientação para o f
 
 Financiamento Global da Administração Pública Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 É de salientar que, a partir do ano de 2018, as despesas de funcionamento da administração pública regional serão financiadas integralmente por receitas próprias da Região, como se pode verificar pelo rácio apresentado no quadro anterior.
 
@@ -1853,7 +1857,7 @@ O setor do Turismo (P4) aposta fortemente na promoção do destino Açores como 
 
 No que concerne ao Programa relacionado com a temática de Investigação (P5), é de realçar que ao nível das infraestruturas (OBJ C), será implementado o Parque de Ciência e Tecnologia da Ilha Terceira, bem como será dada continuidade aos investimentos previstos para o Parque de Ciência e Tecnologia da Ilha São Miguel, como forma de impulsionar a investigação na Região, bem como o relacionamento de centros de investigação com empresas privadas. Relativamente à questão de qualificação de pessoas (OBJ C), e não esquecendo a temática em causa, é de salientar o apoio a disponibilizar para a formação avançada de recursos altamente qualificados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 B. Objetivo "Reforçar a Qualificação, a Qualidade de Vida e a Igualdade de Oportunidades"
 
@@ -1875,7 +1879,7 @@ De uma forma genérica os Programas que fazem parte do presente Objetivo estão 
 
 Passando ao objetivo A, e focando a questão do Emprego, é de ressalvar que a Educação (P6) prevê, entre outros, o desenvolvimento de cursos que têm como fim a promoção da empregabilidade dos jovens e a sua inserção no mercado de trabalho. No que concerne à Juventude, prevê-se a continuação de programas de promoção do empreendedorismo jovem e de integração dos jovens no mercado de trabalho. Relativamente ao Programa da Solidariedade Social, encontram-se previstos projetos de intervenção social com o intuito de promover a empregabilidade. Ao nível da Cultura, o paralelismo mais evidente a destacar é a relação com o setor do Turismo, constatada pela intervenção a realizar na Rede de infraestruturas culturais, ou mesmo na aposta na temática da Arqueologia, com o desenvolvimento de um Roteiro sobre o Património Subaquático.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 C. Objetivo "Melhorar a Sustentabilidade, a utilização dos Recursos e as Redes do Território"
 
@@ -1901,7 +1905,7 @@ No que diz respeito à temática dos Assuntos do Mar (P13) e de uma forma genér
 
 Ao nível do Programa associado aos Transportes e Obras Públicas (P14) é de ressalvar que os investimentos em infraestruturas terrestres, portuárias e aeroportuárias estão diretamente relacionados com o objetivo A, na medida em que irão proporcionar melhores condições para o desenvolvimento da economia e consequentemente das empresas, potenciando igualmente a criação de emprego, bem como a existência de melhores infraestruturas origina a disponibilização de melhores condições de vida às populações (objetivo B).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 D. Objetivo "Modernizar a Comunicação Institucional, Reforçar a Posição dos Açores no exterior e Aproximar as Comunidades"
 
@@ -1909,7 +1913,7 @@ No que concerne às questões institucionais internas e com o exterior, a relaç
 
 Ao nível dos Programas associados ao presente Objetivo, entende-se que estes relacionam-se com todos os Objetivos definidos para as OMP, ou mais especificamente com todos os Programas de Investimento previstos, tendo em conta que se trata de Programas de carácter transversal a toda a atividade governativa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Coerência Externa das OMP
 
@@ -1941,7 +1945,7 @@ De uma forma pontual, e numa ótica de crescimento inclusivo, constata-se a cone
 
 Por último, é de salientar que os Programas referentes ao Objetivo D, relativos à Informação e Comunicação e Relações Externas, apenas poderão ter enquadramento PO AÇORES 2020, no Eixo 2, referente às Tecnologias de Informação e Comunicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Articulação das Grandes Linhas de Orientação Estratégica com outros Programas Operacionais
 
@@ -1957,7 +1961,7 @@ PO INTERREG V A - MAC
 
 A estrutura do PO INTERREG VA - MAC, em termos da sua organização por eixos prioritários encontra uma relação de coerência com os programas e objetivos definidos nas Grandes Linhas de Orientação Estratégica das OMP. Deste modo, a coerência mais direta e a título exemplificativo é verificada da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 POCI
 
@@ -1989,7 +1993,7 @@ Há ainda a assinalar a participação da Região no Programa INTERREG V A - MAC
 
 A seguir apresenta-se uma sinopse de cada uma das intervenções com apoio comunitário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 O PO Açores 2020 é um programa comparticipado pelos fundos estruturais comunitários FEDER e FSE, para o período de programação 2014-2020, com execução na Região Autónoma dos Açores, tendo sido aprovado pela Comissão Europeia através da Decisão C (2014) 10176, de 18 de dezembro.
 
@@ -2017,7 +2021,7 @@ Por fundo regista-se uma taxa de compromisso da componente FEDER de 42,1 % e da 
 
 PO Açores 2020 - Ponto de situação a 31 de dezembro de 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Para o período de programação 2014-2020, a Região beneficia de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático Competitividade e Internacionalização (POCI), especificamente no Eixo IV - Promoção de transportes sustentáveis e eliminação dos estrangulamentos nas principais redes de infraestruturas, exclusivamente, para as intervenções no sistema portuário da Região Autónoma dos Açores integradas nas prioridades de investimento 7.1 - Apoio ao espaço único europeu de transportes multimodais, mediante o investimento na RTE-T e 7.3 - Desenvolvimento e melhoria de sistemas de transportes ecológicos (incluindo de baixo ruído) e de baixo teor de carbono, incluindo vias navegáveis e transportes marítimos interiores, portos, ligações multimodais e infraestruturas aeroportuárias, a fim de promover a mobilidade regional e local sustentável.
 
@@ -2027,7 +2031,7 @@ Em 2016, no âmbito da requalificação de infraestruturas marítimas nos Açore
 
 Ponto de Situação a 31 de dezembro de 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Para o período de programação 2014-2020, a Região beneficia também de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático Sustentabilidade e Eficiência no Uso de Recursos (PO SEUR), no Eixo Prioritário 3 - Proteger o ambiente e promover a utilização eficiente dos recursos, objetivo específico 1. Valorização dos resíduos, reduzindo a produção e deposição em aterro, aumentando a recolha seletiva e a reciclagem.
 
@@ -2037,7 +2041,7 @@ Atendendo a que o custo total elegível deste projeto é superior a 50 milhões 
 
 A proposta de decisão já foi proferida estando em curso a instrução do processo para envio formal à Comissão Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 O Programa de Desenvolvimento Rural para a Região Autónoma dos Açores 2014-2020 (PRORURAL+), enquadra-se no [Regulamento (UE) n.º 1305/2013](https://data.europa.eu/eli/reg/2013/1305/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro, que estabelece as regras do apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER). O PRORURAL+ reflete a estratégia da Região para a agricultura e para o desenvolvimento rural, pretendendo ser um instrumento financeiro que contribui para o aumento da autossuficiência do setor agroalimentar em 2020, e para a estruturação de canais comerciais que permitam a exportação de produtos especializados para o mercado externo. Este Programa está alinhado com as Prioridades da União em matéria de desenvolvimento rural, nomeadamente:
 
@@ -2065,7 +2069,7 @@ O PRORURAL+ foi aprovado a 13 de fevereiro de 2015, pela Decisão de Execução 
 
 A 31 de dezembro de 2016 a taxa de execução do programa é de cerca de 24 % e a taxa de compromisso de cerca de 45 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Os apoios do Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), são operacionalizados na Região através de um programa operacional de âmbito nacional designado MAR 2020, que tem por objetivo a implementação das medidas de apoio enquadradas no FEAMP no âmbito das seguintes Prioridades da União Europeia:
 
@@ -2091,7 +2095,7 @@ A operacionalização do MAR 2020 foi consideravelmente atrasada pela aprovaçã
 
 Em maio de 2016, e de acordo com as prioridades definidas, iniciou-se a publicação dos regulamentos dos principais regimes de apoio a aplicar na Região. Em 31 de dezembro de 2016 estavam em execução na Região os seguintes regimes de apoio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 No ano de 2016 foi operacionalizado o POSEI-PESCAS para as candidaturas relativas ao período 2014-2016, tendo sido apresentadas 696 candidaturas, das quais 650 foram aprovadas com um valor de apoios candidatados de 13,9 milhões de euros. Em 2016 foram pagos, após a aplicação de rateio, 8,06 milhões de euros relativos ao período 2014-2015. Os apoios relativos ao ano de 2016 serão pagos em 2017, ano em que serão também apresentadas as candidaturas relativas ao ano de 2017, cujos pagamentos serão executados em 2018.
 
@@ -2099,7 +2103,7 @@ Também em 2016 foi publicado o Aviso para a apresentação de candidaturas n.º
 
 Em 2017 continuarão a ser desenvolvidos tarefas e procedimentos de gestão necessários à execução do MAR2020 e entrarão em vigor os regulamentos de novos regimes de apoio a apoiar pelo FEAMP.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 INTERREG V A - MAC (Madeira - Açores - Canárias) 2014-2020
 
@@ -2115,7 +2119,7 @@ A 8 de novembro de 2016 foi realizado o 1.º Comité de Gestão do Programa com 
 
 Ponto de Situação a 31 de dezembro de 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 6.2 - ENCERRAMENTO DO PERÍODO DE PROGRAMAÇÃO 2007-2013
 
@@ -2133,11 +2137,11 @@ A execução global das intervenções comparticipadas (fundo), sintetizada no q
 
 Programas Operacionais e Intervenções Comunitárias 2007-2013
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 A seguir apresenta-se uma sinopse de cada uma das intervenções com apoio comunitário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 O Programa Operacional dos Açores para a Convergência (PROCONVERGENCIA) é um programa operacional comparticipado pelo FEDER, para o período de programação 2007-2013, enquadrado no Objetivo Comunitário Convergência, com execução na Região Autónoma dos Açores, integrado no Quadro de Referência Estratégico Nacional. O seu conteúdo programático e a respetiva dotação financeira de 966,3 milhões de euros de fundo comunitário, estrutura-se em 5 eixos prioritários, incluindo a assistência técnica.
 
@@ -2169,7 +2173,7 @@ A análise dos principais resultados das operações apoiadas pelo PROCONVERGENC
 
 Execução Financeira por eixo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 O Programa Operacional do Fundo Social Europeu, para a Região Autónoma dos Açores - PRO-EMPREGO, é um programa comparticipado pelo FSE, para o período de programação 2007-2013, integrado no Quadro de Referência Estratégico Nacional para Portugal, tendo sido aprovado pela Decisão da Comissão Europeia C (2007) 5325 de 26 de outubro, com uma dotação financeira FSE de (euro) 190.000.000.
 
@@ -2205,13 +2209,13 @@ Relativamente à distribuição da execução do Eixo I, por Ação-Tipo, é o f
 
 Execução Financeira por Eixo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Ao nível da gestão e acompanhamento do Programa, foram efetuadas 130 ações de verificação junto dos beneficiários.
 
 No que respeita a ações de certificação e auditoria, efetuadas quer pelas autoridades nacionais quer comunitárias não se registou qualquer situação de incumprimento merecedora de relevo, estando o valor do erro detetado abaixo do limiar dos 2 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Redes e Equipamentos Estruturantes na Região Autónoma dos Açores
 
@@ -2229,7 +2233,7 @@ Em face da dotação programada em vigor, de 105 milhões de euros de fundo, con
 
 POVT - Eixo III - Execução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 O Programa de Desenvolvimento Rural da Região Autónoma dos Açores (PRORURAL) enquadra-se na política de desenvolvimento rural definida pela União Europeia para o período de programação 2007-2013, sendo financiado pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) no âmbito do [Regulamento (CE) n.º 1698/2005](https://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), de 20 de setembro.
 
@@ -2239,13 +2243,13 @@ A estratégia definida teve subjacente o conjunto de especificidades de natureza
 
 A estratégia regional para o desenvolvimento rural assenta num grande objetivo global e em 5 objetivos estratégicos, 3 correspondentes a áreas temáticas e que abrangem os 4 eixos prioritários definidos pela política comunitária de desenvolvimento rural, e 2 de natureza transversal a toda a estratégia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 No âmbito do PRORURAL, a 31 de dezembro de 2015, e em termos acumulados desde o início da vigência do atual período de programação, a execução financeira das operações aprovadas ascendeu ao montante de 335,55 milhões de euros, a que corresponde uma comparticipação do fundo FEADER de cerca de 286,36 milhões de euros, e uma taxa de execução de 97,24 %. Releva-se a instalação de mais de 200 jovens agricultores na Região contribuindo de forma significativa para o rejuvenescimento do setor, o investimento efetuado ao nível das explorações agrícolas com um investimento pago de mais de 55 milhões de euros, e o investimento efetuado na transformação e comercialização de produtos agrícolas num valor superior a 59 milhões de euros. Salienta-se igualmente o investimento efetuado na manutenção das atividades agrícolas num valor de mais de 71 milhões de euros.
 
 A 29 de dezembro de 2016 foi apresentado à Comissão o relatório de avaliação ex post do programa, avaliação esta que tem como objetivos gerais aferir os resultados e os impactos e respetiva sustentabilidade, e o valor acrescentado da sua implementação no enquadramento da Estratégia de Desenvolvimento Rural da Região, tendo em conta os fatores de sucesso e de insucesso que influenciaram a eficácia e a eficiência do Programa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 O Programa PROPESCAS, cujos procedimentos de encerramento se iniciarão em 2017, apoiou o investimento no âmbito dos projetos cofinanciados pelo Fundo Europeu das Pescas (FEP) visando, numa abordagem sistémica, a criação das condições para a competitividade e sustentabilidade, a longo prazo, do setor pesqueiro regional, tendo em conta a aplicação de regimes de exploração biológica e ecologicamente racionais; a melhor organização do ramo da captura, transformação e comercialização e o reforço da competitividade da atividade produtiva empresarial, com a diversificação, inovação, acréscimo de mais-valias e garantia da qualidade dos produtos da pesca.
 
@@ -2275,11 +2279,11 @@ Foram aprovados no âmbito do PROPESCAS 162 projetos de investimento com uma des
 
 Execução Financeira por Eixo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 Da execução do PROPESCAS, destacam-se os seguintes indicadores de realização:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
 
 O Programa de Cooperação Transnacional Madeira - Açores - Canárias, para o período de programação 2007-2013, foi um programa operacional cofinanciado pelo fundo estrutural FEDER, enquadrado no Objetivo Comunitário da Cooperação Territorial Europeia, aprovado pela Comissão Europeia através da Decisão C (2007) 4243, de 18 de setembro.
 
@@ -2305,4 +2309,4 @@ Globalmente houve lugar à execução de 60 candidaturas, com um montante de des
 
 Dados a 31.12.2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf))](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/05/09500/0238202438.pdf)

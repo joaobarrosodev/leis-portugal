@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/043b00/03230325.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/1996/02/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1996-611316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3860968a12e4bccf7807b06824a7f776e851c20ebf08526901f1adca47efb209
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22d134f057eaf1a2ee8fbedf36de257408222bff846135d981d288aab34797cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Gabinete de Gestão Financeira do Emprego
 - Orgânica
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:633174:por
@@ -87,16 +87,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/41/1992/11/16/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/41/1992/11/16/a/dre
+- type: cites
+  target: pt:dre:166802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633174:por
+  label: "Revogado pelo DRR.27/2003/A.2003.07.28.PG-RAA DR.IS-B [198] de 28/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2003-633174
+  date: '2003-07-28'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:45Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +152,9 @@ a) Serviços Técnicos;
 
 b) Secção Administrativa e de Gestão Financeira.
 
-###### Artigo 7.º — Serviços Técnicos
+Artigo 7.º
+
+Serviços Técnicos
 
 1 - Compete aos Serviços Técnicos:
 
@@ -141,7 +172,9 @@ f) Em geral, elaborar estudos e desenvolver projectos nas áreas que superiormen
 
 2 - Os Serviços Técnicos funcionam na directa dependência do presidente do conselho directivo.
 
-###### Artigo 8.º — Secção Administrativa e de Gestão Financeira
+Artigo 8.º
+
+Secção Administrativa e de Gestão Financeira
 
 1 - Compete à Secção Administrativa e de Gestão Financeira:
 
@@ -177,14 +210,14 @@ O quadro de pessoal constante do mapa anexo ao [Decreto Regulamentar Regional n.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 7 de Dezembro de 1995.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 22 de Janeiro de 1996.**
+Assinado em Angra do Heroísmo em 22 de Janeiro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/043b00/03230325.pdf))](https://files.diariodarepublica.pt/1s/1996/02/043b00/03230325.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/043b00/03230325.pdf)

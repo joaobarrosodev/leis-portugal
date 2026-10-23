@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2007/05/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2007-520817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a664652d844a0b989cf22f9e6b8eb9be391bfe72e8cfa78b6b2480556a005ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65e95fe1a94995652ee947c45afb77ed910366b6ab387f1ed27442df3a9516e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,49 +65,76 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Carreira Profissional
 - Cartão de Identificação
 - Centro de Informação
 - Centro de Informática
-- Formação Profissional
-- Pessoal Dirigente
 - Conselho Administrativo
-- Direcção Regional das Pescas
+- Conselho Consultivo
 - Conselho Regional das Pescas
 - Conselho Regional do Ambiente e do Desenvolvimento Sustentavel
 - Definição de Competências
-- Regime Laboral
-- Gabinete do Centro do MAR
+- Descrição de Funções
+- Direcção Regional das Pescas
 - Direcção Regional de Ordenamento do Território e Recursos Hídricos
 - Direcção Regional do Ambiente
 - Equiparação de Cargos
-- Carreira Profissional
+- Formação Profissional
 - Gabinete de Economia Pesqueira
-- Secretaria Regional do Ambiente e do MAR
+- Gabinete de Estudos e Planeamento
+- Gabinete de Fiscalização da Pesca e Controlo dos Produtos
 - Gabinete de Formação e Certificação
 - Gabinete de Gestão Marinha
-- Inspecção Regional do Ambiente
-- Inspecção Regional das Pescas
-- Gabinete Técnico da Paisagem Protegida de Interesse Regional da Cultura da Vinha da Ilha do Pico
-- Recrutamento de Pessoal
-- Incompatibilidades
-- Gabinete de Fiscalização da Pesca e Controlo dos Produtos
+- Gabinete do Centro do MAR
 - Gabinete Jurídico e Administrativo
-- Conselho Consultivo
-- Gabinete de Estudos e Planeamento
+- Gabinete Técnico da Paisagem Protegida de Interesse Regional da Cultura da Vinha da Ilha do Pico
+- Incompatibilidades
+- Inspecção Regional das Pescas
+- Inspecção Regional do Ambiente
 - Orgânica
-- Descrição de Funções
 - Pessoal de Informática
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regime Laboral
+- Secretaria Regional do Ambiente e do MAR
 - Secretário Regional do Ambiente e do MAR
 - Segredo Profissional
-- Açores
 - Vigilante da Natureza
 relationships:
 - type: amended_by
   target: pt:dre:146209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente técnico, nos termos do art. 4º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Extinta a Direcção Regional das Pescas, prevista no presente diploma, ficando os serviços que integram a sua estrutura\
+    \ na dependência directa do Secretário Regional do Ambiente e do Mar, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252]\
+    \ de 31.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:342079:por
+  label: "Extinta a Direcção Regional do Ordenamento do Território e Recursos Hídricos, prevista na al. vi) da al. c) do art.\
+    \ 4º da orgânica da Secretaria Regional do Ambiente e do Mar, constante do anexo deste diploma, e determinada a transição\
+    \ para a Direcção Regional do Ambiente, no âmbito da mesma Secretaria, dos meios, efectivos, competências (com excepção\
+    \ das matérias referentes ao mar e à gestão do domínio público marítimo), direitos e obrigações que lhe estavam afectos;\
+    \ assim como é determinada a transição, para a recém-criada Direcção Regional dos Assuntos do Mar, das competências das\
+    \ matérias referentes ao mar e à gestão do domínio público marítimo, que se encontravam atribuídas ao Gabinete do Secretário\
+    \ Regional do Ambiente e do Mar, à Direcção Regional ora extinta, e à Direcção Regional do Ambiente pelo DRR.17/2010/A.21.09.2010.PG-RAA,\
+    \ DR.IS [184] de 21.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2010-342079
+  date: '2010-09-21'
 - type: cites
   target: eli:htt
   label: null
@@ -148,16 +175,110 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626577:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693592:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146209:por
+  label: "Revogado pelo DRR.23/2011/A.21.11.2011.PG-RAA, DR.IS [223] de 21.11.2011, sem prejuízo do disposto no n.º 5 do artigo\
+    \ 3.º, \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2011-146209
+  date: '2011-11-21'
 article_structure:
   article_count: 94
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:21Z'
   warnings: []
   errors: []
 ---
@@ -200,11 +321,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 3 de Abril de 2007.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 24 de Abril de 2007.**
+Assinado em Angra do Heroísmo em 24 de Abril de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -772,7 +893,9 @@ c) Emitir parecer sobre todos os assuntos que lhe sejam remetidos pelo seu presi
 
 5 - O conselho consultivo rege-se por regulamento interno, por si elaborado e aprovado, sujeito a homologação do Secretário Regional do Ambiente e do Mar.
 
-###### Artigo 37.º — Divisão de Inspecção Ambiental
+###### Artigo 37.º
+
+##### Divisão de Inspecção Ambiental
 
 1 - À Divisão de Inspecção Ambiental compete:
 
@@ -784,7 +907,9 @@ c) Investigar os crimes previstos nos artigos 278.º, 279.º e 280.º do Código
 
 2 - A Divisão de Inspecção Ambiental é dirigida por um chefe de divisão.
 
-###### Artigo 38.º — Divisão de Apoio Técnico e Administrativo
+###### Artigo 38.º
+
+##### Divisão de Apoio Técnico e Administrativo
 
 1 - À Divisão de Apoio Técnico e Administrativo compete:
 
@@ -892,7 +1017,9 @@ g) Desempenhar outras tarefas de natureza técnica superiormente determinadas.
 
 2 - O Centro de Informática funciona na directa dependência do director do Gabinete de Estudos e Planeamento.
 
-###### Artigo 41.º — Divisão de Infra-Estruturas (DIE)
+###### Artigo 41.º
+
+##### Divisão de Infra-Estruturas (DIE)
 
 1 - À Divisão de Infra-Estruturas compete, designadamente:
 
@@ -1006,7 +1133,9 @@ r) Exercer as demais funções que lhe vierem a ser atribuídas por lei ou por d
 
 3 - O Centro de Informação é dirigido por um chefe de divisão.
 
-##### SUBSECÇÃO IV — Divisão Administrativa e Financeira
+##### SUBSECÇÃO IV
+
+##### Divisão Administrativa e Financeira
 
 ###### Artigo 45.º — Definição e competência
 
@@ -1038,7 +1167,9 @@ b) Secção de Pessoal, Expediente e Arquivo.
 
 4 - A DAF compreenderá, ainda, serviços de apoio administrativo a funcionar junto dos diversos serviços da SRAM, nos termos definidos na presente orgânica, aos quais competem todos os trabalhos de carácter administrativo delegados pelo chefe da Divisão Administrativa e Financeira, bem como outras tarefas de natureza administrativa superiormente determinadas.
 
-###### Artigo 46.º — Secção de Contabilidade, Aprovisionamento e Património
+###### Artigo 46.º
+
+#### Secção de Contabilidade, Aprovisionamento e Património
 
 1 - À Secção de Contabilidade, Aprovisionamento e Património compete, designadamente:
 
@@ -1062,7 +1193,9 @@ i) Desempenhar outras tarefas de natureza administrativa superiormente determina
 
 2 - A Secção de Contabilidade, Aprovisionamento e Património é chefiada por um chefe de secção.
 
-###### Artigo 47.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 47.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 1 - À Secção de Pessoal, Expediente e Arquivo compete, designadamente:
 
@@ -1150,7 +1283,9 @@ q) Desempenhar outras tarefas de natureza técnica superiormente determinadas.
 
 3 - Para a prossecução das suas competências a DSCN compreende a Divisão das Áreas Protegidas (DAP).
 
-###### Artigo 50.º — Divisão de Áreas Protegidas (DAP)
+###### Artigo 50.º
+
+##### Divisão de Áreas Protegidas (DAP)
 
 1 - À DAP compete:
 
@@ -1204,7 +1339,9 @@ o) Desempenhar outras tarefas de natureza técnica superiormente determinadas.
 
 3 - Para a prossecução das suas competências a DSR compreende a Divisão de Resíduos Especiais (DRE).
 
-###### Artigo 52.º — Divisão de Resíduos Especiais (DRE)
+###### Artigo 52.º
+
+##### Divisão de Resíduos Especiais (DRE)
 
 1 - À DRE compete, designadamente:
 
@@ -1362,7 +1499,9 @@ n) Desempenhar outras tarefas de natureza técnica superiormente determinadas.
 
 3 - Para a prossecução das suas competências a DSOT compreende a Divisão de Planeamento e Desenvolvimento Urbanístico (DPDU).
 
-###### Artigo 57.º — Divisão de Planeamento e Desenvolvimento Urbanístico (DPDU)
+###### Artigo 57.º
+
+##### Divisão de Planeamento e Desenvolvimento Urbanístico (DPDU)
 
 1 - À Divisão de Planeamento e Desenvolvimento Urbanístico compete, designadamente:
 
@@ -1454,7 +1593,9 @@ z) Desempenhar outras tarefas de natureza técnica superiormente determinadas.
 
 3 - Para a prossecução das suas competências a DSRH compreende a Divisão de Planeamento do Domínio Hídrico (DPDH).
 
-###### Artigo 59.º — Divisão de Planeamento do Domínio Hídrico (DPDH)
+###### Artigo 59.º
+
+##### Divisão de Planeamento do Domínio Hídrico (DPDH)
 
 1 - À DPDH compete, designadamente:
 
@@ -2024,4 +2165,4 @@ Os funcionários integrados noutras carreiras, desde que desempenhem funções d
 
 ## ANEXO II — Mapa do pessoal da Secretaria Regional do Ambiente e do Mar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09400/33263352.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09400/33263352.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09400/33263352.pdf)

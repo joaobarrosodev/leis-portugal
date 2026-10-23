@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15600/0003500037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28/2021/08/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2021-169491470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d1e6d7ddc46ffabbcf4c6e58c270307cc18c0964520a7d74634f5c5e3965e19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71847f59d8044040c52771ee7d6601bb2b1ff81dd607ee6494abb3a6322166fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Diversificação das Exportações
+- Açores
 - Apoio ao Investimento
-- Projeto de Investimento
+- Diversificação das Exportações
 - Exportação
+- Financiamento
+- Projeto de Investimento
 - Reembolso
 - Sider
 - Sistema de Incentivos da Região Autónoma dos Açores
-- Açores
 - Sistema de Incentivos de BASE Regional
+- Sistema de Incentivos para a Competitividade Empresarial
 - Sistema de Incentivos Regionais
 - Subsídio
-- Sistema de Incentivos para a Competitividade Empresarial
 - Subsistema de Incentivos para o Desenvolvimento Local
+- Turismo
 relationships:
 - type: cites
   target: 'eli:http:'
@@ -122,16 +122,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2015/04/08/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2015/04/08/a/dre
+- type: cites
+  target: pt:dre:106874649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114528125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135286756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158507584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165346916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57205880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57308389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58248463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58273534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66507582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66936947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74895681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74967225:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:46Z'
   warnings: []
   errors: []
 ---
@@ -186,10 +306,12 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de julho de 2021.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 5 de agosto de 2021.**
+Assinado em Angra do Heroísmo em 5 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+114479223

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/33/2010/11/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2010-308746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ca6ec944409a8374ad8cdaa63b1f518cfa3f5f03903d94a2db6bda83285d748
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af82073a7d16e7badb17cf837864b35dceb98fb215845d401ef60a89a9dbe825
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
-- Pessoal Dirigente
+- Açores
 - Administração Pública
-- Promoção Profissional
-- Remuneração
+- Administração Regional
 - Avaliação do Pessoal
 - Funcionário Público
-- Administração Regional
-- Açores
+- Pessoal Dirigente
+- Promoção Profissional
+- Regime do Contrato de Trabalho em Funções Públicas
+- Remuneração
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:72963281:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72963281:por
+  label: Alterados, a partir de 24.12.2015 e com efeitos a 01.01.2015, os arts 4.º, 7.º, 9.º, 17.º, 28.º, 29.º, 30.º, 33.º,
+    34.º, 35.º, 38.º, 39.º, 40.º, 41.º, 42.º, 44.º, 45.º, 46.º, 52.º, 56.º, 58.º, 59.º, 60.º, 62.º, 63.º, 64.º, 65.º, 66.º,
+    68.º, 71.º, 75.º, 76.º, 77.º e 83.º, aditado, a partir e com os efeitos das mesmas datas, o art 35.º-A, e revogado, a
+    partir e com os efeitos das mesmas datas, o n.º 2 do art 18.º, o art 19.º, o n.º 3 do art 24.º, a al c) do n.º 1 do art
+    25.º, o art 26.º, os n.ºs 4, 5 e 6 do art 30.º, o art 31.º, o art 32.º, os n.ºs 2, 3, 4 e 5 do art 36.º, os n.ºs 4 e 5
+    do art 37.º, os n.ºs 2, 3, 4, 5, 7, 8, 9 e 10 do art 38.º e a al a) do n.º 2 e o n.º 6 do art 52.º, todos do DLR 41/2008/A
+    de 27-ago, na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 26/2015/A - Diário da
+    República n.º 250/2015, Série I de 2015-12-23 que procede à republicação do DLR 41/2008/A
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2015-72963281
+  date: '2015-12-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2009/10/14/a/dre
   label: null
@@ -122,16 +134,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667771:por
+  label: null
+  source: null
 article_structure:
-  article_count: 122
+  article_count: 118
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:12Z'
   warnings: []
   errors: []
 ---
@@ -188,11 +304,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 22 de Setembro de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 10 de Novembro de 2010.**
+Assinado em Angra do Heroísmo em 10 de Novembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -274,7 +390,9 @@ a) Pessoal detentor de licenciatura com competência técnica, aptidão e experi
 
 b) De entre quem seja titular de adequado curso específico a que se refere o n.º 1 do artigo 12.º
 
-###### Artigo 3.º-B — Apoio de secretariado
+Artigo 3.º-B
+
+Apoio de secretariado
 
 Os titulares de cargos de direcção superior de 1.º grau podem ser apoiados por um trabalhador que exerça funções de secretariado nos termos do estatuto do pessoal dirigente.»
 
@@ -308,7 +426,9 @@ c) Dentro de cada carreira e ou categoria, quando imprescindível, da área de f
 
 8 - A informação a que se refere este artigo deve igualmente ser remetida ao membro do Governo Regional responsável pela área da Administração Pública.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -328,7 +448,9 @@ c) Dentro de cada carreira e ou categoria, quando imprescindível, da área de f
 
 9 - Na tramitação do procedimento concursal não se aplica o disposto na alínea d) do n.º 1 do artigo 54.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -554,7 +676,9 @@ Os artigos 14.º e 23.º do [Decreto Legislativo Regional n.º 12/2008/A](https:
 
 3 - (Anterior n.º 4.)
 
-###### Artigo 23.º — Dissolução por mera conveniência
+Artigo 23.º
+
+Dissolução por mera conveniência
 
 1 - ...
 

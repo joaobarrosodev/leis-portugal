@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2005/05/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2005-222267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7365e085d7b6f3926cba2a0019cfff4b2d78f922b841ba2aeb4e0b8b7ad3ebd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 818bdb11feb14df7728e13ae66957e5ddfb79f69b6476c0457808d5d5a976b15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Desenvolvimento Regional
-- Mudança Tecnológica
-- Direcção Regional de Apoio à Coesão Económica
+- Açores
 - Apoio ao Investimento
+- Desenvolvimento Regional
+- Direcção Regional de Apoio à Coesão Económica
+- Empresa
+- Mudança Tecnológica
 - Projeto de Investimento
 - Qualificação Profissional
-- Sistema de Incentivos a Modernização Empresarial
 - Sidep
-- Açores
+- Sistema de Incentivos a Modernização Empresarial
 - Sistema de Incentivos a Produtos Turísticos de Vocação Estratégica
 relationships:
 - type: amended_by
   target: pt:dre:636761:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:533410:por
+  label: "Alterados os arts. 3º, 4º, 6º, 7º, 8º, 9º e 17º, os anexos I, II e IV do DRR 5/2001/A de 06-Jun, republicado, na\
+    \ redacção, republicação e renumeração do presente diploma, pelo DRR.6/2006/A.19.12.2005.PG-RAA, DR.IS-B [11] de 16.01.2006\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2006-533410
+  date: '2005-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1996/10/25/p/dre
   label: null
@@ -105,16 +112,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/2001/06/06/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/2001/06/06/a/dre
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636761:por
+  label: "Revogado a partir de 24.07.2007 pelo DLR.19/2007/A.23.07.2007.AL-RAA, DR.IS [140] de 23.07.2007, sem prejuízo do\
+    \ disposto no nº 1 do art. 38º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2007-636761
+  date: '2007-07-23'
 article_structure:
-  article_count: 33
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:02Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +194,9 @@ d) ...
 
 e) 'Habilitação adequada' a condição atribuída aos titulares de grau académico de ensino superior, de carteiras profissionais emitidas ao abrigo do [Decreto-Lei n.º 358/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1984-400813), de 13 de Novembro, de certificados de aptidão profissional obtidos por qualquer das vias estabelecidas no [Decreto-Lei n.º 95/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1992-523412), de 23 de Maio, de certificados de cursos de aprendizagem emitidos nos termos do [Decreto-Lei n.º 205/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1996-226416), de 25 de Outubro, de certificados dos cursos técnico-profissionais no âmbito de ensino não superior, designadamente os ministrados pelas escolas profissionais nos termos do [Decreto-Lei n.º 4/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1998-224851), de 8 de Janeiro, diploma adaptado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 30/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2000-340616), de 11 de Agosto, ou os detentores da necessária credenciação para o exercício da actividade, desde que tais activos exerçam efectivamente funções nos empreendimentos candidatados ao SIDEP.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 São susceptíveis de apoio no âmbito do SIDEP projectos de investimento que se incluam numa das seguintes tipologias:
 
@@ -187,7 +230,9 @@ c) Marinas, portos de recreio, campos de golfe e empreendimentos turísticos que
 
 d) Indústrias que, pela sua natureza, contribuam de forma significativa para a competitividade da economia regional face ao mercado externo, com o objectivo de expandir a base económica de exportação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os promotores de projectos de investimento da tipologia B não comparticipados no âmbito de outros sistemas de incentivos, para além das condições definidas no artigo 7.º do [Decreto Legislativo Regional n.º 26/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2000-339848), de 10 de Agosto, devem:
 
@@ -207,7 +252,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os projectos de investimento inseridos nas tipologias A e B aprovados através dos sistemas de incentivos nacionais devem comprovar a homologação da decisão de aprovação no âmbito dos programas a que foram candidatados.
 
@@ -231,7 +278,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Nos projectos já aprovados em outros sistemas de incentivos, são consideradas como despesas elegíveis as que resultarem das respectivas candidaturas àqueles programas.
 
@@ -269,11 +318,15 @@ n) ...
 
 4 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 As entidades responsáveis pela gestão do SIDEP são a Direcção Regional de Apoio à Coesão Económica, doravante referida como organismo gestor, a comissão de selecção e o Conselho Regional de Incentivos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -293,7 +346,9 @@ f) ...
 
 3 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os promotores de projectos já comparticipados no âmbito de outros sistemas de incentivos devem apresentar fotocópia autenticada da declaração de despesa.
 
@@ -303,7 +358,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Os prémios atribuídos no âmbito do SIDEP podem ser acumulados com incentivos concedidos através de outros sistemas de incentivos nacionais desde que o apoio total não ultrapasse o máximo previsto de ESL, equivalente de subvenção líquida, de 72,8% para as pequenas e médias empresas e de 62% para as grandes empresas.»
 
@@ -359,7 +416,9 @@ Outras unidades de alojamento turístico, desde que prevejam a sua reclassifica�
 
 ...
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 ...
 
@@ -449,7 +508,9 @@ Mais de 75% dos activos com habilitação adequada - B3 = 3%.
 
 No cálculo dos activos com habilitação adequada, os detentores de licenciatura ou diplomados pelo ensino politécnico serão ponderados com o coeficiente 4, os detentores de curso de especialização tecnológica com o coeficiente 3 e os detentores de qualificação profissional de nível III com o coeficiente 2.
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 ...
 
@@ -515,13 +576,13 @@ O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicaç
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de Março de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 22 de Abril de 2005.**
+Assinado em Angra do Heroísmo em 22 de Abril de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO
 
@@ -1085,7 +1146,7 @@ d) Inovação tecnológica, incluindo racionalização energética.
 
 A pontuação deste subcritério será em função do peso relativo dos investimentos prioritários, sobre o total das despesas elegíveis, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)
 
 4.º
 
@@ -1105,7 +1166,7 @@ Subcritério A3
 
 A pontuação do subcritério A3 será atribuída nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)
 
 6.º
 
@@ -1137,7 +1198,7 @@ Subcritério B2
 
 1 - O subcritério B2 será medido pelo indicador VAB sobre o número de postos de trabalho, sendo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)
 
 2 - Para o cálculo deste subcritério serão utilizados os valores do ano cruzeiro indicado no projecto, bem como o número total de postos de trabalho existentes no pós-projecto.
 
@@ -1183,7 +1244,7 @@ Subcritério C2
 
 A pontuação do subcritério C2 será determinada pela percentagem de novos capitais próprios relativamente ao investimento elegível, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)](https://files.diariodarepublica.pt/1s/2005/05/101b00/35433555.pdf)
 
 ## ANEXO IV — Cálculo do incentivo para os projectos da tipologia B
 

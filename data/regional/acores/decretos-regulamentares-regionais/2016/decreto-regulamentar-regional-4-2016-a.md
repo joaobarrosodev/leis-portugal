@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2016/07/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2016-74895681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a5be4b9e0a55c438000a0e869b0931f7f477fe887c17be7289218a5cb701f2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89e1d0102abd1c2479dc0b8a33168b0ac3e8e6466bbae35f5e72b2026b45fea1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Turismo
-- Promoção Turística
-- Desenvolvimento Regional
-- Competitividade Empresarial
-- Apoio ao Investimento
-- Projeto de Investimento
-- Apoio à Exportação
-- Desenvolvimento Económico
-- Exportação
-- Programa Operacional da Região Autónoma dos Açores
-- Pequenas e Médias Empresas
-- Regulamento CE
-- PME
 - Açores
+- Apoio à Exportação
+- Apoio ao Investimento
+- Competitividade Empresarial
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Empresa
+- Exportação
+- Pequenas e Médias Empresas
+- PME
+- Programa Operacional da Região Autónoma dos Açores
+- Projeto de Investimento
+- Promoção Turística
+- Regulamento CE
 - Sistema de Incentivos para a Competitividade Empresarial
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:114528125:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114528125:por
+  label: Alterados, a partir de 01.01.2018, os arts. 5.º, 10.º e 13.º, revogados a al. s) do n.º 1 e os n.ºs 3 e 4 do art.
+    4.º, e republicado o DRR 19/2014/A de 22-set, na versão republicada pelo presente diploma, pelo(a) Decreto Regulamentar
+    Regional n.º 2/2018/A - Diário da República n.º 11/2018, Série I de 2018-01-16 nos termos do art. 5.º e sem prejuízo do
+    disposto no art. 8.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2018-114528125
+  date: '2018-01-16'
 - type: cites
   target: celex:32013R1379
   label: null
@@ -139,16 +147,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2015/04/08/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2015/04/08/a/dre
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57205880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66507582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66936947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74454667:por
+  label: null
+  source: null
 article_structure:
-  article_count: 46
+  article_count: 29
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:22Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +239,9 @@ Os artigos 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º e 13.º
 
 3 - Os projetos que visem ações de promoção turística, a que se refere o n.º 2 do artigo 9.º, estão dispensados de cumprir com a condição de acesso referida no n.º 1 e devem ser suportados por um Plano de Ação devidamente fundamentado, nos termos da estrutura definida no Anexo I ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -229,7 +291,9 @@ s) O salário bruto antes de impostos e as contribuições obrigatórias para a 
 
 5 - Para efeitos da alínea b) do n.º 4 do artigo 6.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, alterado pelos [Decretos Legislativos Regionais n.º 1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), de 8 de janeiro e n.º [9/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), de 18 de maio, os ativos devem ser amortizáveis, exceto terrenos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -259,7 +323,9 @@ x) [...]
 
 2 - Os apoios referidos na alínea b) do número anterior não abrangem os projetos de investimento relacionados com a produção primária de produtos agrícolas, enumerados no Anexo I do Tratado sobre o Funcionamento da União Europeia.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -267,7 +333,9 @@ x) [...]
 
 3 - No âmbito de um projeto de investimento de deslocalização de instalações de unidades empresariais dentro do espaço geográfico da Região, será considerado investimento elegível apenas a diferença entre o valor do investimento a realizar e o valor residual das antigas instalações.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As candidaturas relativas aos projetos mencionados nas alíneas a) e b) do n.º 1 do artigo 5.º são analisadas pela direção regional com competência em matéria de apoio ao investimento, em função de competências delegadas pela Autoridade de Gestão do Programa Operacional dos Açores 2020, no que concerne à apreciação da elegibilidade e do mérito das candidaturas, podendo a direção regional solicitar os pareceres que considerar necessários para uma melhor fundamentação da análise.
 
@@ -281,7 +349,9 @@ x) [...]
 
 6 - Concluída a análise das candidaturas e antes de ser adotada a decisão final, o promotor é ouvido em sede de audiência prévia, sendo concedido um prazo de dez dias úteis para apresentar eventuais alegações contrárias, contado a partir da data de notificação da proposta de decisão.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os incentivos são concedidos mediante despacho do membro do Governo Regional com competência em matéria de competitividade empresarial ou por resolução do Conselho do Governo Regional, de acordo com as competências para autorização de despesas ou, quando resultantes de aprovação de projetos aprovados pelo Programa Operacional dos Açores 2020, pela respetiva autoridade de gestão.
 
@@ -295,7 +365,9 @@ x) [...]
 
 6 - [Anterior n.º 3]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -319,7 +391,9 @@ i) A instalação, ampliação ou beneficiação, de estabelecimentos de alojame
 
 2 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -347,7 +421,9 @@ h) [...]
 
 5 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -363,7 +439,9 @@ h) [...]
 
 7 - Concluída a análise das candidaturas e antes de ser adotada a decisão final, o promotor é ouvido em sede de audiência prévia, sendo concedido um prazo de dez dias úteis para apresentar eventuais alegações contrárias, contado a partir da data de notificação da proposta de decisão.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -375,7 +453,9 @@ h) [...]
 
 5 - [Anterior n.º 2]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -491,7 +571,9 @@ Tenha mais de cinquenta anos.
 
 v) 'Transformação de produtos agrícolas', qualquer operação realizada sobre um produto agrícola de que resulte um produto que continua a ser um produto agrícola, com exceção das atividades realizadas em explorações agrícolas necessárias à preparação de um produto animal ou vegetal para a primeira venda.
 
-###### Artigo 2.º-A — Condições de acesso dos promotores
+Artigo 2.º-A
+
+Condições de acesso dos promotores
 
 Para além das condições gerais de acesso previstas no artigo 4.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, alterado pelos [Decretos Legislativos Regionais n.º 1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), de 8 de janeiro e n.º [9/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), de 18 de maio, os promotores devem cumprir com as seguintes condições de acesso:
 
@@ -503,7 +585,9 @@ c) Não deter nem ter detido capital numa percentagem superior a 50 %, por si ou
 
 d) Não ter encerrado a mesma atividade, ou uma atividade semelhante, no Espaço Económico Europeu nos dois anos que antecedem a data de candidatura ou que, à data de candidatura, tenha planos concretos para encerrar essa atividade no prazo máximo de dois anos após a conclusão da operação, conforme previsto na alínea d) do artigo 13.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), da Comissão, de 16 de junho.
 
-###### Artigo 4.º-A — Critérios de seleção
+Artigo 4.º-A
+
+Critérios de seleção
 
 1 - As candidaturas são analisadas e selecionadas de acordo com os critérios de elegibilidade e os critérios de seleção previstos no Anexo II ao presente diploma, do qual faz parte integrante.
 
@@ -511,7 +595,9 @@ d) Não ter encerrado a mesma atividade, ou uma atividade semelhante, no Espaço
 
 3 - Para efeitos de seleção apenas podem ser considerados os projetos que obtenham uma pontuação final igual ou superior a 3,00.
 
-###### Artigo 4.º-B — Apresentação de candidaturas
+Artigo 4.º-B
+
+Apresentação de candidaturas
 
 1 - A apresentação de candidaturas dos projetos de investimento a que se referem o n.º 1 do artigo 5.º e o n.º 1 do artigo 9.º é feita através de formulário eletrónico no Balcão 2020 (https://www.portugal2020.pt/Balcao2020/).
 
@@ -519,7 +605,9 @@ d) Não ter encerrado a mesma atividade, ou uma atividade semelhante, no Espaço
 
 3 - Para apresentar as candidaturas mencionadas no n.º 1 as entidades promotoras devem previamente efetuar o registo e autenticação no Balcão 2020.
 
-###### Artigo 4.º-C — Condições de alteração do projeto
+Artigo 4.º-C
+
+Condições de alteração do projeto
 
 1 - Estão sujeitas a nova decisão da autoridade que concede o incentivo as alterações aos seguintes elementos dos projetos a que se referem o n.º 1 do artigo 5.º e n.º 1 do artigo 9.º:
 
@@ -535,11 +623,15 @@ e) Montante anualizado do apoio público e a respetiva taxa de cofinanciamento, 
 
 2 - O calendário de realização do projeto pode ser objeto de atualização.
 
-###### Artigo 4.º-D — Reduções, revogações, exclusões e sanções administrativas aplicáveis
+Artigo 4.º-D
+
+Reduções, revogações, exclusões e sanções administrativas aplicáveis
 
 O incumprimento das obrigações da entidade promotora, bem como a inexistência ou a perda de qualquer dos requisitos de concessão do apoio, podem determinar a redução ou revogação do mesmo.
 
-###### Artigo 4.º-E — Modalidades e procedimentos para apresentação, análise e decisão dos pedidos de pagamento
+Artigo 4.º-E
+
+Modalidades e procedimentos para apresentação, análise e decisão dos pedidos de pagamento
 
 1 - Os pagamentos do incentivo podem assumir as modalidades de adiantamento, reembolso e pagamento final.
 
@@ -551,7 +643,9 @@ O incumprimento das obrigações da entidade promotora, bem como a inexistência
 
 5 - Os pagamentos dos incentivos são efetuados por transferência bancária para a conta bancária do promotor indicada no termo de aceitação ou no contrato de concessão de incentivos, no prazo de sessenta dias a contar da data de apresentação do pedido de pagamento.
 
-###### Artigo 4.º-F — Obrigações dos promotores
+Artigo 4.º-F
+
+Obrigações dos promotores
 
 Para além das obrigações previstas na legislação europeia, nacional e no [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, alterado pelos [Decretos Legislativos Regionais n.º 1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), de 8 de janeiro e n.º [9/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), de 18 de maio, os promotores ficam obrigados a:
 
@@ -583,11 +677,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem pr
 
 Aprovado em Conselho do Governo Regional, na Vila do Corvo, em 7 de abril de 2016.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo, em 8 de junho de 2016.**
+Assinado em Angra do Heroísmo, em 8 de junho de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -629,21 +723,21 @@ A2 - autonomia financeira da empresa.
 
 a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/ativo total líquido, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura.
 
 3 - A pontuação do critério C - Contributo do projeto para a consolidação financeira da empresa é determinada pelo indicador novos capitais próprios/investimento elegível (excluindo salários), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
 
 4 - A pontuação do critério D - Contributo do projeto para a competitividade da empresa, é determinada pelo indicador investimento em fatores dinâmicos de competitividade/Investimento elegível, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
 
 5 - A pontuação do critério E - Contributo do projeto para a inovação e diversificação da oferta, mede o grau de inovação do investimento face ao mercado existente, do seguinte modo:
 
@@ -675,7 +769,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
 
 6 - O critério F - Contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do Programa Operacional (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -1267,21 +1361,21 @@ A2 - autonomia financeira da empresa.
 
 a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/ativo total líquido, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura.
 
 3 - A pontuação do critério C - Contributo do projeto para a consolidação financeira da empresa é determinada pelo indicador novos capitais próprios/investimento elegível (excluindo salários), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
 
 4 - A pontuação do critério D - Contributo do projeto para a competitividade da empresa, é determinada pelo indicador investimento em fatores dinâmicos de competitividade/Investimento elegível, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
 
 5 - A pontuação do critério E - Contributo do projeto para a inovação e diversificação da oferta, mede o grau de inovação do investimento face ao mercado existente, do seguinte modo:
 
@@ -1313,7 +1407,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf))](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/12900/0207602093.pdf)
 
 6 - O critério F - Contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do Programa Operacional (PO) e para a estratégia de especialização inteligente do seguinte modo:
 

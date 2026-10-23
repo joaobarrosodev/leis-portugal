@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2011/04/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-277585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c2511ee7ac8432514d1b707145217adc80a5841eeab43999d47aae8feca1425
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4592e789ad1b6545989cc70577e83273e4dc22e7fc39e8f0143a9ec43f3339e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - AVAL do Estado
-- Garantia
+- Conselho do Governo Regional
 - Crédito ao Investimento
 - Empresa Pública Regional
+- Financiamento
 - Fiscalização
-- Projeto de Investimento
-- Conselho do Governo Regional
-- Investimento Público
-- Operações de Crédito
-- Madeira.região Autónoma
-- Regime Jurídico
+- Garantia
 - Investimento Privado
+- Investimento Público
+- Madeira.região Autónoma
+- Operações de Crédito
+- Projeto de Investimento
+- Regime Jurídico
 - Riscos de Crédito
 relationships:
 - type: amended_by
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670489:por
+  label: "Dada nova redacção aos arts. 4º, 5º, 6º e 13º do DLR 24/2002/M de 23-Dez, alterado e republicado pelo presente diploma,\
+    \ pelo DLR.11/2011/M.06.07.2011.AL-RAM, DR.IS [128] de 06.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2011-670489
+  date: '2011-07-06'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Alterados os arts 8.º (na redação do presente diploma) e 13.º (na redação do presente diploma e do DLR 11/2011/M
+    de 06-jul) do DLR 24/2002/M de 23-dez, pelo(a) Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015,
+    Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Alterado, com efeitos desde 01.01.2017, o art. 5.º (na redação do DLR 11/2011/M de 06-jul) do DLR 24/2002/M de 23-dez,
+    na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República
+    n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Alterados, com efeitos desde 01.01.2020, os arts. 13.º (na redação dos DLR 11/2011/M de 06-jul e DLR 17/2015/M de
+    30-dez) e 14.º do DLR 24/2002/M de 23-dez, na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2005/02/18/m/dre
   label: null
@@ -125,16 +152,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/1998/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/1998/02/03/p/dre
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673642:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 29
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:27Z'
   warnings: []
   errors: []
 ---
@@ -173,13 +248,17 @@ São alterados os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.�
 
 3 - Sem prejuízo do disposto nos números anteriores, a Região poderá igualmente avalizar operações de cobertura de risco de taxa de juro destinadas exclusivamente à cobertura dos riscos suportados pelas entidades referidas no número anterior em virtude da realização de operações de crédito garantidas por aval da Região.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O aval será prestado a operações que tenham por finalidade o financiamento de projectos de investimento ou acções enquadráveis na estratégia de desenvolvimento regional, vertida no Plano de Desenvolvimento Económico e Social da Região Autónoma da Madeira, bem como a reestruturação de sectores, de empréstimos e de empresas públicas regionais, o saneamento do sector da saúde e a substituição de empréstimos, nos termos do artigo 6.º deste diploma.
 
 2 - Nas situações previstas no n.º 3 do artigo 4.º do presente diploma, as operações deverão ter por finalidade exclusiva a cobertura dos riscos suportados em virtude da realização das operações de crédito referidas no número anterior.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -211,19 +290,25 @@ h) Cobertura através de operações de derivados dos riscos associados a opera�
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
 2 - Pode ser dispensada a apresentação de contragarantias pelas entidades beneficiárias quando se trate de uma empresa pública ou de uma entidade com o estatuto de utilidade pública.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As operações garantidas terão prazos de utilização não superiores a 5 anos e deverão ser totalmente reembolsados no prazo máximo de 30 anos a contar das datas dos respectivos contratos.
 
 2 - Sendo o aval prestado para garantia das obrigações emergentes das operações de cobertura de risco de taxa de juro previstas no n.º 3 do artigo 4.º do presente diploma, o prazo de vigência de cada uma dessas operações não poderá exceder o prazo de reembolso da operação de crédito subjacente.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O pedido de concessão de aval da Região será dirigido ao secretário regional com a tutela das finanças, pela entidade beneficiária da operação a garantir.
 
@@ -249,7 +334,9 @@ g) [Anterior alínea h).]
 
 5 - O pedido de concessão de aval será tacitamente indeferido ao fim de 180 dias após a sua solicitação, sempre que por motivos imputáveis à entidade requerente não seja possível dar seguimento ao processo.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -263,11 +350,15 @@ d) Capacidade de gestão da entidade beneficiária para fazer face às responsab
 
 2 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 A concessão de aval da Região será autorizada por deliberação do Conselho do Governo Regional na sequência de despacho do secretário regional com a tutela das finanças, o qual será precedido de uma análise fundamentada do respectivo processo, que será instruído com todos os elementos exigíveis nos termos do presente diploma.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O aval da Região será titulado por um certificado de aval, cuja emissão é da competência do secretário regional com a tutela das finanças, que poderá outorgar noutros documentos necessários para tornar efectivo o aval.
 
@@ -277,7 +368,9 @@ A concessão de aval da Região será autorizada por deliberação do Conselho d
 
 4 - A alteração referida no número anterior abrange, designadamente, o prazo, a finalidade do financiamento e as operações de cobertura de risco de taxa de juro associadas às operações de crédito garantidas por aval da Região, desde que cumpram os princípios gerais de rigor e eficiência definidos para a gestão da dívida pública directa e constantes do artigo 2.º da [Lei n.º 7/98](https://diariodarepublica.pt/dr/detalhe/lei/7-1998-223628), de 3 de Fevereiro.
 
-###### Artigo 13.º — Utilização do financiamento
+Artigo 13.º
+
+Utilização do financiamento
 
 1 - A utilização do financiamento avalizado deverá ter início nos 120 dias seguintes à data da emissão do certificado de aval, salvo fixação expressa e devidamente fundamentada de prazo superior no respectivo acto de concessão.
 
@@ -291,7 +384,9 @@ a) Realização de participações financeiras em empresas públicas regionais;
 
 b) Concessão de empréstimos a empresas públicas regionais desde que o produto dos mesmos se destine a uma das finalidades previstas no artigo 5.º e respeitem as condições impostas no artigo 6.º do presente diploma.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, o aval da Região caduca nas seguintes situações:
 
@@ -315,7 +410,9 @@ b) Amortização antecipada do financiamento avalizado, num montante igual ou su
 
 3 - A norma a que se refere o número anterior não é aplicável em situações de reincidência.
 
-###### Artigo 15.º — Obrigações dos beneficiários
+Artigo 15.º
+
+Obrigações dos beneficiários
 
 1 - No prazo máximo de 30 dias após a assinatura do contrato de financiamento, a entidade beneficiária enviará à secretaria regional com a tutela das finanças um exemplar do respectivo contrato, devidamente assinado pelas partes, que deverá incluir o mapa de serviço da dívida definitivo.
 
@@ -329,7 +426,9 @@ b) Amortização antecipada do financiamento avalizado, num montante igual ou su
 
 6 - O secretário regional com a tutela na área das finanças poderá alterar os prazos previstos nos números anteriores.
 
-###### Artigo 16.º — Obrigações dos credores
+Artigo 16.º
+
+Obrigações dos credores
 
 1 - ...
 
@@ -337,7 +436,9 @@ b) Amortização antecipada do financiamento avalizado, num montante igual ou su
 
 3 - ...
 
-###### Artigo 17.º — Fiscalização e acompanhamento
+Artigo 17.º
+
+Fiscalização e acompanhamento
 
 1 - ...
 
@@ -345,7 +446,9 @@ b) Amortização antecipada do financiamento avalizado, num montante igual ou su
 
 3 - Compete à secretaria regional com a tutela das finanças assegurar e fiscalizar o cumprimento dos encargos emergentes dos avales concedidos pela Região.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 Pelo aval da Região prestado será cobrada às entidades beneficiárias uma taxa de aval, cujo valor e condições de aplicação serão fixados por portaria do secretário regional com a tutela das finanças, tendo em linha de conta as condições de mercado e o seu nível de risco.»
 
@@ -373,11 +476,11 @@ O presente diploma produz efeitos no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 3 de Março de 2011.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 21 de Março de 2011.**
+Assinado em 21 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/01700/06720676.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2007/01/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2007-522651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ac73461fea10eb263430e802f4e3e8ce1ecb21547981b4542328692c94cc687
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a7106a6b17352604c44df00015cafdd209382f17c35bdc88a7f46ad71c23b0c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ subjects:
 - Centro de Oncologia dos Açores PROF Doutor JOSÉ Conde
 - Definição de Competências
 - Gestão Administrativa
+- Gestão de Recursos Humanos
 - Gestão do Património
 - Orgânica
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:67072253:por
@@ -113,16 +113,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/12/1991/04/18/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/12/1991/04/18/a/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67072253:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 9/2015/A - Diário da República n.º 80/2015, Série I de 2015-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2015-67072253
+  date: '2015-04-24'
 article_structure:
   article_count: 30
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:19Z'
   warnings: []
   errors: []
 ---
@@ -155,11 +208,11 @@ O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicaç
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 30 de Novembro de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 18 de Dezembro de 2006.**
+Assinado em Angra do Heroísmo em 18 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -489,4 +542,4 @@ O pessoal do quadro de pessoal do COA transita para o quadro anexo ao presente d
 
 ## ANEXO — Quadro de pessoal do Centro de Oncologia dos Açores Prof. Doutor José Conde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01700/06720676.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01700/06720676.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01700/06720676.pdf)

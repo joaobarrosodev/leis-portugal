@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/410/2007/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/410-2007-519635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4f4bf995183fe6e3c524d790b1bf7b6544da2a08ef03849e0057b46307d19b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d62238730e0272c70803a43e5e8325f723fa7cb9b23db5f7096c0743cbd11bef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:24Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +133,4 @@ d) 10% aos demais caçadores, conforme é referido na alínea d) do citado artig
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 20 de Março de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07300/23542355.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07300/23542355.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07300/23542355.pdf)

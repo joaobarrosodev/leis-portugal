@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/1998/07/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1998-423619
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a4fdbe9fa81908e0bce3cf258537e30cb2d023a08c1a3355f1932ea0492c0c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9635d5ad29919fc4396e6c50f90b20a4e9e38b7a420db3343245e7c5ff42db3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
 - Comissão de Fiscalização
 - Conselho de Administração
 - Definição de Competências
 - Estatuto
 - Instituto de Gestão Financeira da Saúde
 - Quadro de Pessoal
-- Açores
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:626396:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626396:por
+  label: "Alterados os nºs. 1, 2 e 3 do art.4º do Estatuto, pelo DRR.22/2002/A.2002.08.02.PG-RAA, DR.IS-B [200] de 30/Ago/2002\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2002-626396
+  date: '2002-08-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1995/07/26/p/dre
   label: null
@@ -106,16 +112,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/8/1993/03/31/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/8/1993/03/31/a/dre
+- type: cites
+  target: pt:dre:167053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:58Z'
   warnings: []
   errors: []
 ---
@@ -138,13 +184,13 @@ O presente diploma entra em vigor na data da sua publicação, retroagindo os se
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 5 de Maio de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 22 de Junho de 1998.**
+Assinado em Angra do Heroísmo em 22 de Junho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — ESTATUTO DO INSTITUTO DE GESTÃO FINANCEIRA DA SAÚDE
 
@@ -346,7 +392,9 @@ e) Elaborar o relatório anual da sua acção fiscalizadora.
 
 Ao funcionamento dos órgãos colegiais do Instituto aplica-se, subsidiariamente, o disposto no Código do Procedimento Administrativo.
 
-###### Artigo 12.º — Secção Administrativa
+###### Artigo 12.º
+
+#### Secção Administrativa
 
 A Secção Administrativa é um órgão de execução de serviços de carácter administrativo relacionados com o funcionamento e objectivos do Instituto, incumbindo-lhe, designadamente:
 

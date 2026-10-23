@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2010/06/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2010-335433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34cb12318f211fc043052d112e81960c854b7969aed667896215c8d19a21c26f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee60e3812f0f42ea055df72c99d08cf98a1f8020e41a360998770b1020055b5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
-- Desenvolvimento Regional
-- Apoio ao Investimento
-- Projeto de Investimento
-- Desenvolvimento Económico
-- Sider
 - Açores
+- Apoio ao Investimento
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Empresa
+- Financiamento
+- Projeto de Investimento
+- Sider
 relationships:
 - type: amended_by
   target: pt:dre:25345896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544419:por
+  label: "Dada nova redação ao art. 10º e ao anexo II do DLR 26/2007/A de 19-Nov, assim como são alteradas as referências\
+    \ feitas naquele diploma, alterado pelo presente, aos arts. do DLR 19/2007/A de 23-Jul (em conformidade com a renumeração\
+    \ introduzida pelos DLR 2/2009/A de 02-Mar, 10/2010/A de 16-Mar e 26/2011/A de 04-Nov), pelo DRR.2/2012/A.25.01.2012.PG-RAA,\
+    \ DR.IS [18] de 25.01.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2012-544419
+  date: '2012-01-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1996/10/25/p/dre
   label: null
@@ -119,16 +127,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/72/2003/01/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/72/2003/01/21/p/dre
+- type: cites
+  target: pt:dre:172736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25345896:por
+  label: Revogado, a partir de 01.07.2014, e sem prejuízo do disposto no art. 25º, o DRR 26/2007/A, de 19-nov, na redação
+    do presente diploma, pelo(a) Decreto Legislativo Regional n.º 12/2014/A - Diário da República n.º 130/2014, Série I de
+    2014-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2014-25345896
+  date: '2014-07-09'
 article_structure:
-  article_count: 17
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:45Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +240,9 @@ h) ...
 
 5 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Compete à direcção regional com competência em matéria de energia emitir parecer, no prazo de 15 dias úteis, sobre a majoração a que se refere a alínea c) do artigo 7.º
 
@@ -189,7 +250,9 @@ h) ...
 
 3 - ...
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - Para efeitos do disposto no n.º 3 do artigo 3.º do presente regulamento, considera-se que os promotores possuem uma situação financeira equilibrada quando apresentam um indicador de autonomia financeira igual ou superior a 15 %, não se aplicando esta condição aos promotores que não tenham contabilidade organizada à data de apresentação da candidatura.
 
@@ -205,7 +268,9 @@ b) [...]
 
 5 - [...]
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - [...]
 
@@ -215,7 +280,7 @@ a) [...]
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/activo total líquido, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11400/0203802043.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11400/0203802043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11400/0203802043.pdf)
 
 c) [...]
 
@@ -247,11 +312,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 5 de Abril de 2010.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 2 de Junho de 2010.**
+Assinado em Angra do Heroísmo em 2 de Junho de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -377,7 +442,7 @@ Aos projectos é atribuída uma pontuação, calculada de acordo com os critéri
 
 As majorações referidas no n.º 2 do artigo 37.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de Julho, são as seguintes:
 
-a) 2 % no caso do projecto incluir parcerias entre empresas ou entre empresas e instituições de I&D;
+a) 2 % no caso do projecto incluir parcerias entre empresas ou entre empresas e instituições de I&D
 
 b) 2 % no caso de projectos piloto demonstradores de soluções tecnologicamente inovadoras;
 
@@ -521,11 +586,11 @@ A2 - autonomia financeira da empresa.
 
 a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11400/0203802043.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11400/0203802043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11400/0203802043.pdf)
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/activo total líquido, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11400/0203802043.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11400/0203802043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11400/0203802043.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) anteriores são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere a alínea d) do n.º 1 do artigo 3.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de Julho, o balanço e a demonstração de resultados intercalares reportados a data posterior mas anterior à data de apresentação da candidatura, desde que legalmente certificados por um técnico oficial de contas ou por um revisor oficial de contas;
 

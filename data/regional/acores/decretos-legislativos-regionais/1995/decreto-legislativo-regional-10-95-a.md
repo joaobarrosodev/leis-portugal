@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/168a00/46894690.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/1995/07/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1995-489489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc8b0f5f108aaf7fc98f5c2081a723238bf688bf1ef346e9cb73ca862b5a7500
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea82ded1d675b6765c342c44aa59ed0a29886371eaa37037a4202e5c9df95cd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aprendizagem Profissional
 - Bolsa de Formação de Aprendizagem
-- Formação Profissional
 - Definição de Competências
-- Secretaria Regional da Educação e Cultura
+- Formação Profissional
 - Jovem Trabalhador
 - Política de Emprego
+- Secretaria Regional da Educação e Cultura
 - Secretaria Regional da Juventude Emprego Comércio Indústria e Energia
 - Secretário Regional da Juventude Emprego Comércio Indústria e Energia
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:479600:por
@@ -89,16 +89,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/405/1991/10/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/405/1991/10/16/p/dre
+- type: cites
+  target: pt:dre:289056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479600:por
+  label: "Revogado pelo DLR.28/2004/A.24.08.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2004-479600
+  date: '2004-08-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:34Z'
   warnings: []
   errors: []
 ---
@@ -117,22 +138,22 @@ Na aplicação do [Decreto-Lei n.º 102/84](https://diariodarepublica.pt/dr/deta
 
 Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea i) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º A aplicação na Região Autónoma dos Açores do regime jurídico de aprendizagem, previsto no [Decreto-Lei n.º 102/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1984-661731), de 29 de Março, com a redacção dada pelo [Decreto-Lei n.º 436/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/436-1988-357329), de 23 de Novembro, terá em conta as adaptações constantes dos artigos seguintes.
+Artigo 1.º A aplicação na Região Autónoma dos Açores do regime jurídico de aprendizagem, previsto no [Decreto-Lei n.º 102/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1984-661731), de 29 de Março, com a redacção dada pelo [Decreto-Lei n.º 436/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/436-1988-357329), de 23 de Novembro, terá em conta as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º - 1 - As competências do Ministério do Emprego e da Segurança Social, incluindo as do Instituto do Emprego e Formação Profissional, são exercidas pela Secretaria Regional da Juventude, Emprego, Comércio, Indústria e Energia.
+Art. 2.º - 1 - As competências do Ministério do Emprego e da Segurança Social, incluindo as do Instituto do Emprego e Formação Profissional, são exercidas pela Secretaria Regional da Juventude, Emprego, Comércio, Indústria e Energia.
 
 2 - As competências do Ministério da Educação são exercidas pela Secretaria Regional da Educação e Cultura.
 
-###### Art. 3.º A formação específica de carácter técnico-profissional e a formação geral a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 102/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1984-661731), de 29 de Março, podem também ser ministradas no Centro de Formação Profissional dos Açores.
+Art. 3.º A formação específica de carácter técnico-profissional e a formação geral a que se refere o n.º 2 do artigo 2.º do [Decreto-Lei n.º 102/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1984-661731), de 29 de Março, podem também ser ministradas no Centro de Formação Profissional dos Açores.
 
-###### Art. 4.º O aprendiz tem direito a uma bolsa de formação, cujo montante é definido por despacho do Secretário Regional da Juventude, Emprego, Comércio, Indústria e Energia.
+Art. 4.º O aprendiz tem direito a uma bolsa de formação, cujo montante é definido por despacho do Secretário Regional da Juventude, Emprego, Comércio, Indústria e Energia.
 
 Aprovado pela Assembleia Legislativa Regional, na Horta, em 31 de Maio de 1995.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 6 de Julho de 1995.**
+Assinado em Angra do Heroísmo em 6 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

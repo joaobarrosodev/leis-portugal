@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1985-179284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53e735f9531fc51f9460678f49402bda470ec9ab93bb472d2f0e850d48ce1953
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 736744b54e1cd663b6338289399ac68064885de6494d44fed4b6bb4f217814cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Proteção do Ambiente
+- Proteção dos Animais
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579574:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:58Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +119,7 @@ Nestes termos:
 
 A Assembleia Regional da Madeira, ao abrigo da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ficam proibidas as formas de captura, de detenção e de abate intencional das seguintes espécies de tartarugas marinhas dentro da subárea 2 da ZEE portuguesa:
+Artigo 1.º Ficam proibidas as formas de captura, de detenção e de abate intencional das seguintes espécies de tartarugas marinhas dentro da subárea 2 da ZEE portuguesa:
 
 a) Da família Cheloniidae:
 
@@ -116,13 +135,13 @@ b) Da família Dermochelidae:
 
 Dermochelys coriacea.
 
-###### Art. 2.º Fica igualmente proibida qualquer forma de comercialização interna ou para o exterior das espécies de tartarugas, vivas ou mortas, incluindo os espécimes embalsamados e quaisquer parcelas e produtos deles obtidos, referidas no artigo anterior.
+Art. 2.º Fica igualmente proibida qualquer forma de comercialização interna ou para o exterior das espécies de tartarugas, vivas ou mortas, incluindo os espécimes embalsamados e quaisquer parcelas e produtos deles obtidos, referidas no artigo anterior.
 
-###### Art. 3.º Constitui excepção ao disposto no artigo 1.º a captura e detenção de exemplares que se destinem exclusivamente a fins científicos.
+Art. 3.º Constitui excepção ao disposto no artigo 1.º a captura e detenção de exemplares que se destinem exclusivamente a fins científicos.
 
-###### Art. 4.º À Secretaria Regional de Economia incumbirá, em colaboração com as autoridades de fiscalização competentes, dar cumprimento ao disposto neste diploma.
+Art. 4.º À Secretaria Regional de Economia incumbirá, em colaboração com as autoridades de fiscalização competentes, dar cumprimento ao disposto neste diploma.
 
-###### Art. 5.º - 1 - A infracção ao disposto no presente diploma constitui contra-ordenação punível com coima de 20000$00 a 80000$00 por cada espécime.
+Art. 5.º - 1 - A infracção ao disposto no presente diploma constitui contra-ordenação punível com coima de 20000$00 a 80000$00 por cada espécime.
 
 2 - Os equipamentos ou objectos utilizados na captura, bem como os espécimes encontrados em seu poder, poderão ser apreendidos quando:
 
@@ -132,16 +151,16 @@ b) Representem um perigo para a comunidade ou para a prática desta contra-orden
 
 c) Tendo sido alienados ou onerados a terceiro e este conhecesse ou devesse razoavelmente conhecer as circunstâncias determinantes da possibilidade da sua apreensão.
 
-###### Art. 6.º - 1 - O montante das coimas aplicadas reverterá para a Região Autónoma da Madeira.
+Art. 6.º - 1 - O montante das coimas aplicadas reverterá para a Região Autónoma da Madeira.
 
 2 - A decisão condenatória proferida em processo por contra-ordenação determinará a transferência para a propriedade da Região dos objectos declarados perdidos a título de sanção acessória.
 
 Aprovado em sessão plenária em 16 de Julho de 1985.
 
-**O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 23 de Agosto de 1985.**
+Assinado em 23 de Agosto de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

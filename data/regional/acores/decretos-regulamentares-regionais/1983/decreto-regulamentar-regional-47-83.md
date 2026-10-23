@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/10/24100/36193620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/47-1983-441692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7aa18a533f1eaf224b9722ed45ddd92e9795e9d333ef8c1524523d98cdb6dcbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df1431c8a809b089202935d4201f77546c8d121c2b4bd749faa130bcc2bca1a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agente da Autoridade
+- Cinema
+- Indústria Cinematográfica
+- Produção Cinematográfica
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:577134:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:577134:por
+  label: "Revogado pelo DLR.36/2004/A.29.09.2004.ALR-RAA, DR.IS-A [247] de 20.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/36-2004-577134
+  date: '2004-09-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:05Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +105,16 @@ Considerando que não existe um efectivo controle das entradas de menores, o qua
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nas sessões cinematográficas exibidas depois das 22 horas é obrigatória a presença de um agente da autoridade policial, a requisitar pelos promotores dos espectáculos, que suportarão os respectivos encargos.
+Artigo 1.º Nas sessões cinematográficas exibidas depois das 22 horas é obrigatória a presença de um agente da autoridade policial, a requisitar pelos promotores dos espectáculos, que suportarão os respectivos encargos.
 
-###### Art. 2.º Poderá ser determinado, por despacho do Secretário Regional da Educação e Cultura, a presença obrigatória de agentes da autoridade, nas condições do artigo 1.º, nos espectáculos em que se exibam filmes pornográficos, de violência ou contendo cenas eventualmente chocantes.
+Art. 2.º Poderá ser determinado, por despacho do Secretário Regional da Educação e Cultura, a presença obrigatória de agentes da autoridade, nas condições do artigo 1.º, nos espectáculos em que se exibam filmes pornográficos, de violência ou contendo cenas eventualmente chocantes.
 
 Aprovado em Conselho em 28 de Julho de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo, em 6 de Outubro de 1983.**
+Assinado em Angra do Heroísmo, em 6 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

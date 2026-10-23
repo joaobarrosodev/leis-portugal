@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 72/2008, 2º Suplemento, Série I de 2008-04-11
   number: '72'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2190-(4) a 2190-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/289-a/2008/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/289-a-2008-209600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e0f69a69b605ea779426662d3992789d0bb636642c6e9e6d7227908e9033e78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0433b8bb1716fa1a39b8b8ed010df755ccf9b130b55a1567915d8fcc12cd1c35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
 - Direcção Regional de Agricultura e Pescas
-- Projeto de Investimento
+- Financiamento
 - IFAP
 - Jovem Agricultor
 - JURO Bonificado
+- Proder
+- Projeto de Investimento
 - Regulamento
 - Regulamento de Aplicação da Acção 1.1.1-modernização e Capacitação das Empresas
 - Subsídio não Reembolsável
@@ -82,6 +82,73 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198295:por
+  label: "Alterados os arts. 4º, 6º, 7º, 10º, 12º e 27º e os anexos II e III, e aditados uma al. l) ao nº 1 do art. 9º e um\
+    \ nº 3 ao art. 22º, todos do Regulamento de Aplicação da Acção nº 1.1.1 \"Modernização e Capacitação das Empresas\", pela\
+    \ PORT.1229-C/2008.27.10.2008.MADRP, DR.IS [208-Supl] de 27.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1229-c-2008-198295
+  date: '2008-10-27'
+- type: amended_by
+  target: pt:dre:444247:por
+  label: "Alterados os arts. 18.º e 27.º (o último na redacção da Port 1229-C/2008 de 27-Out), aditado um nº 3 ao art. 18.º\
+    \ e uma al. c) ao art. 27.º, ambos do Regulamento de Aplicação da Acção n.º 1.1.1 «Modernização e Capacitação das Empresas»,\
+    \ aprovado pelo presente diploma, pela PORT.1553/2008.31.12.2008.MADRP, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1553-2008-444247
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:181390:por
+  label: "Alterado o art. 27º do Regulamento de Aplicação da Acção nº 1.1.1 \"Modernização e Capacitação das Empresas\" aprovado\
+    \ no presente diploma, com as alterações introduzidas pelas Port 1229-C/2008 de 27-Out e 1553/2008 de 31-Dez, pela PORT.165-A/2009.13.02.2009.MADRP,\
+    \ DR.IS [31-Supl] de 13.02.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-a-2009-181390
+  date: '2009-02-13'
+- type: amended_by
+  target: pt:dre:494776:por
+  label: "Alterados, a partir de 19.06.2009, os arts. 7º e 10º (este na redacção da Port 1229-C/2008 de 27-Out), 11º - cujos\
+    \ nºs 3 e 4 produzem efeitos a 12.04.2008 - 12º (na redacção da Port 1229-C/2008 de 27-Out), 18º (na redacção da Port\
+    \ 1553/2008 de 31-Dez) e 27º (na redacção das Port 1129-C/2008 de 27-Out, 1553/2008 de 31-Dez e 165-A/2009 de 13-Fev);\
+    \ revogados, a partir da referida data, a al. a) do nº 1 do art. 4º (com a redacção conferida na Port 1129-C/2008 de 27-Out),\
+    \ e o nº 7 do art. 19º todos do Regulamento aprovado e publicado em anexo ao presente diploma, pela PORT.666/2009.18.06.2009.MADRP,\
+    \ DR.IS [116] de 18.06.2009, que alterou, também a partir de 19.06.2009 e com efeitos a 12.04.2008, o anexo V desta portaria\
+    \ e, aditou, a partir da mesma data, os nºs 3 e 4 ao art. 7º, o nº 5 ao art. 11º e o nº 2 ao art. 27º do referido Regulamento.\0\
+    o.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/666-2009-494776
+  date: '2009-06-18'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 5º, 6º (este último na redacção da Port 1229-C/2008, de 27-Out) , 7º (na redacção das Port 1229-C/2008,\
+    \ de 27-Out e 666/2009, de 18-Jun), 9º, 11º, 12º (este último na redacção das Port 1229-C/2008, de 27-Out e Port 666/2009,\
+    \ de 18-Jun), 13º, 14º, 16º, 25º e o anexo II (este último na redacção da Port 1229-C/2008, de 27-Out) e revogados a al.\
+    \ c) do nº1, a al. c) do nº2 e a al. a) do nº3 do art. 6º, a al. d) do nº1 do art. 7º, os nºs. 3, 4 e 5 do art. 11º, o\
+    \ nº5 do art. 13º, o art. 27º, o nº18 das despesas não elegíveis, componente um, produção, do anexo II e os anexos IV,\
+    \ IV-A e V do Regulamento aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:287828:por
+  label: "Dada nova redacção, a partir de 13.05.2011 e com efeitos a 28.08.2010, ao art. 5º (alterado pela Port 814/2010 de\
+    \ 27-Ago) e ao art. 7º (alterado pelas Port 1229-C/2008 de 27-Out, 666/2009 de 18-Jun e 814/2010 de 27-Ago) do Regulamento\
+    \ de Aplicação da Acção n.º 1.1.1 «Modernização e Capacitação das Empresas» pela PORT.192/2011.12.05.2011.MADRP, DR.IS\
+    \ [92] de 12.05.2011, que o republicou em anexo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-2011-287828
+  date: '2011-05-12'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 7.º ( na redacção das portarias 1229-C/2008, de 27-Out, 666/2009, de 18-Jun, 814/2010, de 27-Ago\
+    \ e 192/2011, de 12-Mai), 20.º, 22.º e 23.º do Regulamento de Aplicação da Acção n.º 1.1.1, «Modernização e Capacitação\
+    \ das Empresas», aprovado pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo II (alterado pelas Port 1129-C/2008 de 27-out e 814/2010 de 27-ago); e revogados, com\
+    \ efeitos a 28.08.2010, os nºs 23 e 26 do quadro «despesas não elegíveis, componente um - produção», do mesmo anexo II\
+    \ do Regulamento de Aplicação da Ação 1.1.1, «Modernização e Capacitação das Empresas» pela PORT.253/2013.07.08.2013.MAMAOT,\
+    \ DR.IS [151] de 07.08.2013\0013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:31975L0268
   label: null
@@ -102,16 +169,23 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: repealed_by
+  target: pt:dre:491192:por
+  label: "Revogada a al. f) do art. 4º (com a redacção constante da Port 1229-C/2008 de 27-Out) do Regulamento de aplicação\
+    \ da acção n.º 1.1.1, «Modernização e capacitação das empresas», aprovado no presente diploma, pela PORT.1162/2009.02.10.2009.MADRP,\
+    \ DR.IS [192] de 02.10.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1162-2009-491192
+  date: '2009-10-02'
 article_structure:
   article_count: 30
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:22Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +232,7 @@ f) Anexo vi, relativo ao cálculo da valia global da operação.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 10 de Abril de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 10 de Abril de 2008.
 
 ## ANEXO
 
@@ -568,7 +642,7 @@ Sectores industriais enquadrados no PRODER
 
 (CAE constantes do Decreto-Lei n.º 381/2007, de 14 de Novembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
 
 ## ANEXO II — Despesas elegíveis e não elegíveis
 
@@ -586,19 +660,19 @@ Os indicadores de custo unitário, por hora e por formando, em matéria de forma
 
 Despesas elegíveis componente um - Produção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
 
 Despesas não elegíveis componente um - Produção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
 
 Despesas elegíveis componente dois - Transformação e comercialização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
 
 Despesas não elegíveis componente dois - Transformação e comercialização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
 
 ## ANEXO III — Critérios de elegibilidade adicionais para os projectos de impacte relevante
 
@@ -620,17 +694,17 @@ c) A candidatura deve prever um crescimento significativo dos Empregos a Tempo C
 
 Componente 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
 
 Componente 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
 
 ## ANEXO V — Limites máximos de apoio
 
 (a que se refere o artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07202/0000400014.pdf)
 
 ## ANEXO VI — Cálculo da valia global da operação
 

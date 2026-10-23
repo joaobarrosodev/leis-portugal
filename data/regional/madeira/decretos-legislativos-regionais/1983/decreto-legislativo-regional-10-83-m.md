@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/08/17500/28372839.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1983-454068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 466f1de1a62e2830a6481f4280d85bbd3fc6d6095d5823190b51dd2a25f5bc5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ba18dd6c3bf78682e1831a7ce41c716422cba662ba4e2f26d5d77d7621c69e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Exploração Florestal
+- Madeira.região Autónoma
+- Proteção do Ambiente
+relationships:
+- type: cites
+  target: pt:dre:505423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DECRETO LEGISLATIVO REGIONAL NUMERO 21/89/M, PUBLICADO NO DIARIO DA REPUBLICA PRIMEIRA SERIE NUMERO\
+    \ 20 DE 01/09/89.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-09-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:46Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +107,7 @@ Nas Regiões Autónomas dos Açores e da Madeira, o corte de arvoredos e a trans
 
 Assim, a Assembleia Regional da Madeira decreta, nos termos do artigo 229.º, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º Dependem de licença da Secretaria Regional da Agricultura e Pescas, concedida através dos Serviços Florestais:
+Artigo 1.º Dependem de licença da Secretaria Regional da Agricultura e Pescas, concedida através dos Serviços Florestais:
 
 a) Os cortes, arranques ou transplantação de árvores florestais ou de plantas vivazes de qualquer natureza que apresentem notável interesse botânico ou paisagístico;
 
@@ -108,7 +121,7 @@ e) A extracção de produtos inertes, de qualquer natureza, dos terrenos inculto
 
 f) As queimadas de matos nos terrenos incultos próximo de matas e nos terrenos arborizados.
 
-###### Art. 2.º - 1 - Os cortes, arranques ou transplantações a que se refere a alínea a) do artigo 1.º só serão permitidos nos casos a seguir indicados e desde que não digam respeito a exemplares de especial valor estético ou de manifesta importância na composição da paisagem, quer pertençam a particulares, quer a entidades públicas:
+Art. 2.º - 1 - Os cortes, arranques ou transplantações a que se refere a alínea a) do artigo 1.º só serão permitidos nos casos a seguir indicados e desde que não digam respeito a exemplares de especial valor estético ou de manifesta importância na composição da paisagem, quer pertençam a particulares, quer a entidades públicas:
 
 a) Em desbastes para tratamento ou melhoramento dos povoamentos existentes, de forma a eliminar os espécimes doentes ou que estejam a prejudicar as boas condições de vegetação;
 
@@ -124,39 +137,39 @@ e) Em cortes de qualquer natureza para substituição da espécie florestal ou t
 
 3 - São dispensadas do pedido a que se refere o número anterior as árvores ou arbustos a abater em desbastes culturais ou em cortes jardinatórios quando possuam diâmetro inferior a 10 cm à altura de 1,30 m acima do solo e também as árvores com 5 anos e arbustos que tenham crescido espontaneamente, desde que tal prática não prejudique a conservação do solo.
 
-###### Art. 3.º - 1 - Nos casos em que sejam de permitir cortes rasos e nos cortes salteados ou em talhadio, o proprietário fica obrigado a realizar as transformações de cultura ou a assegurar a reconstituição dos povoamentos, nos termos da licença concedida pelos Serviços Florestais e no prazo que for estipulado, nunca superior a 4 anos.
+Art. 3.º - 1 - Nos casos em que sejam de permitir cortes rasos e nos cortes salteados ou em talhadio, o proprietário fica obrigado a realizar as transformações de cultura ou a assegurar a reconstituição dos povoamentos, nos termos da licença concedida pelos Serviços Florestais e no prazo que for estipulado, nunca superior a 4 anos.
 
 2 - Findo o prazo estipulado nos termos deste artigo, o proprietário fica obrigado, por si ou por pessoa por ele indicada, a mostrar a propriedade a ser fiscalizada.
 
-###### Art. 4.º - 1 - A transformação dos terrenos incultos ou dos de cultura florestal em terrenos de cultura agrícola ou de pastagem só será permitida desde que se reconheça, por vistoria prévia, que daí não resulta qualquer inconveniente para a conservação do solo, além dos aspectos mencionados na alínea e) do artigo 2.º
+Art. 4.º - 1 - A transformação dos terrenos incultos ou dos de cultura florestal em terrenos de cultura agrícola ou de pastagem só será permitida desde que se reconheça, por vistoria prévia, que daí não resulta qualquer inconveniente para a conservação do solo, além dos aspectos mencionados na alínea e) do artigo 2.º
 
 2 - Sempre que os Serviços Florestais o entendam, depois de concedida a licença, os trabalhos de transformação nunca poderão ser iniciados sem nova vistoria à propriedade, na presença do proprietário, do empresário das máquinas e ou dos operadores que vão realizar esses trabalhos.
 
-###### Art. 5.º As autorizações concedidas de acordo com o disposto nos artigos 3.º e 4.º poderão ser condicionadas à implantação de cortinas de abrigo, de harmonia com as instruções dadas, caso a caso, pelos Serviços Florestais.
+Art. 5.º As autorizações concedidas de acordo com o disposto nos artigos 3.º e 4.º poderão ser condicionadas à implantação de cortinas de abrigo, de harmonia com as instruções dadas, caso a caso, pelos Serviços Florestais.
 
-###### Art. 6.º A licença para extracção de produtos de qualquer natureza dos terrenos incultos ou florestados a que se refere a alínea e) do artigo 1.º, será concedida a requerimento dos proprietários.
+Art. 6.º A licença para extracção de produtos de qualquer natureza dos terrenos incultos ou florestados a que se refere a alínea e) do artigo 1.º, será concedida a requerimento dos proprietários.
 
-###### Art. 7.º As licenças referidas nos artigos 1.º, 3.º, 4.º e 6.º consideram-se concedidas, sem outras condições além das legais, se, no prazo de 30 dias a contar da recepção do requerimento, os serviços não se tiverem pronunciado.
+Art. 7.º As licenças referidas nos artigos 1.º, 3.º, 4.º e 6.º consideram-se concedidas, sem outras condições além das legais, se, no prazo de 30 dias a contar da recepção do requerimento, os serviços não se tiverem pronunciado.
 
-###### Art. 8.º É proibido inutilizar ou danificar, de qualquer modo, as árvores ou arbustos florestais por forma a causar o seu perecimento, a sua evidente depreciação ou a sua exploração extemporânea.
+Art. 8.º É proibido inutilizar ou danificar, de qualquer modo, as árvores ou arbustos florestais por forma a causar o seu perecimento, a sua evidente depreciação ou a sua exploração extemporânea.
 
-###### Art. 9.º Nas propriedades florestais onde se declarem incêndios, os respectivos Serviços Florestais deverão indicar qual o método a adoptar para tratamento e regeneração do arvoredo.
+Art. 9.º Nas propriedades florestais onde se declarem incêndios, os respectivos Serviços Florestais deverão indicar qual o método a adoptar para tratamento e regeneração do arvoredo.
 
-###### Art. 10.º Os materiais, madeiras e lenhas provenientes de qualquer tipo de corte, para circular na via pública, devem ser acompanhados de uma licença passada pelos Serviços Florestais.
+Art. 10.º Os materiais, madeiras e lenhas provenientes de qualquer tipo de corte, para circular na via pública, devem ser acompanhados de uma licença passada pelos Serviços Florestais.
 
-###### Art. 11.º - 1 - Serão punidos com a coima de 1000$00 a 10000$00, por cada rebento de toiça, ramificação de arbustos ou árvores com menos de 10 cm de diâmetro a 1,30 m do solo, os infractores que, em desobediência às presentes prescrições, realizem cortes ou quaisquer práticas que conduzam à morte ou depreciação do arvoredo.
+Art. 11.º - 1 - Serão punidos com a coima de 1000$00 a 10000$00, por cada rebento de toiça, ramificação de arbustos ou árvores com menos de 10 cm de diâmetro a 1,30 m do solo, os infractores que, em desobediência às presentes prescrições, realizem cortes ou quaisquer práticas que conduzam à morte ou depreciação do arvoredo.
 
 2 - Quando tal se não possa constatar por observação directa, presumem-se como tendo menos de 10 cm de diâmetro a 1,30 m do solo as árvores, arbustos e rebentos de toiça cujo diâmetro na base seja inferior a 15 cm.
 
-###### Art. 12.º - 1 - No caso de árvores de maiores dimensões, a coima será fixada entre 10000$00 e 100000$00 por cada árvore cortada, arrancada, destruída ou danificada, sendo as coimas aplicadas em função do tamanho, espécie e valor da árvore afectada.
+Art. 12.º - 1 - No caso de árvores de maiores dimensões, a coima será fixada entre 10000$00 e 100000$00 por cada árvore cortada, arrancada, destruída ou danificada, sendo as coimas aplicadas em função do tamanho, espécie e valor da árvore afectada.
 
 2 - Tratando-se de exemplares raros, seja qual for o seu diâmetro, será aplicável a coima de 50000$00 a 200000$00 por cada um.
 
 3 - Consideram-se como raros não só os exemplares que o sejam pela espécie botânica a que pertençam mas também todos aqueles que se notabilizem pelo porte, pela beleza, pela forma ou por qualquer atributo que os distinga da vulgaridade.
 
-###### Art. 13.º Quando se tratar de matas de recreio, parques ou jardins, ainda que de domínio privado, as coimas serão de 10000$00 a 100000$00 por cada árvore, arbusto ou planta que, independentemente do seu diâmetro, for arrancada ou abatida sem licença ou danificada pela forma referida no artigo 8.º, correspondendo sempre o máximo da coima no caso de exemplares raros ou classificados de interesse público.
+Art. 13.º Quando se tratar de matas de recreio, parques ou jardins, ainda que de domínio privado, as coimas serão de 10000$00 a 100000$00 por cada árvore, arbusto ou planta que, independentemente do seu diâmetro, for arrancada ou abatida sem licença ou danificada pela forma referida no artigo 8.º, correspondendo sempre o máximo da coima no caso de exemplares raros ou classificados de interesse público.
 
-###### Art. 14.º - 1 - No caso de transgressão ao disposto nos artigos 3.º e 4.º, os proprietários dos prédios serão punidos com a coima de 200$00 a 1000$00 por are ou fracção em que a transgressão se tenha verificado, ficando ainda obrigados a suspender imediatamente o trabalho e a cumprir as condições impostas pelos Serviços Florestais para assegurar o revestimento florestal ou a conservação do solo.
+Art. 14.º - 1 - No caso de transgressão ao disposto nos artigos 3.º e 4.º, os proprietários dos prédios serão punidos com a coima de 200$00 a 1000$00 por are ou fracção em que a transgressão se tenha verificado, ficando ainda obrigados a suspender imediatamente o trabalho e a cumprir as condições impostas pelos Serviços Florestais para assegurar o revestimento florestal ou a conservação do solo.
 
 2 - Quando, passados 2 anos a contar da notificação das condições estabelecidas nos termos deste artigo ou passado o prazo das licenças previstas nos artigos 3.º e 4.º do presente diploma, não estiverem cumpridas as condições impostas pelos Serviços Florestais, os proprietários serão punidos com a coima de 500$00 por are ou fracção, a qual se renovará anualmente, até que sejam cumpridas as ditas condições.
 
@@ -164,17 +177,17 @@ e) Em cortes de qualquer natureza para substituição da espécie florestal ou t
 
 4 - As mesmas sanções serão aplicadas no caso de infracção ao disposto na alínea c) do artigo 1.º
 
-###### Art. 15.º Se o proprietário for alheio à respectiva exploração, será a coima imposta a quem efectivamente explorar ou administrar a propriedade, salvo o disposto no n.º 3 do artigo 14.º
+Art. 15.º Se o proprietário for alheio à respectiva exploração, será a coima imposta a quem efectivamente explorar ou administrar a propriedade, salvo o disposto no n.º 3 do artigo 14.º
 
-###### Art. 16.º A contravenção do disposto na alínea d) do artigo 1.º será punida com a coima de 1000$00 a 10000$00.
+Art. 16.º A contravenção do disposto na alínea d) do artigo 1.º será punida com a coima de 1000$00 a 10000$00.
 
-###### Art. 17.º A contravenção do disposto no artigo 10.º será punida com a coima de 1000$00.
+Art. 17.º A contravenção do disposto no artigo 10.º será punida com a coima de 1000$00.
 
-###### Art. 18.º - 1 - Para garantia do pagamento das coimas e mais importâncias que forem devidas, podem ser apreendidos, onde quer que sejam encontrados, a madeira, lenha, carvão ou outros produtos provenientes de cortes ou práticas em transgressão do estabelecido no presente diploma.
+Art. 18.º - 1 - Para garantia do pagamento das coimas e mais importâncias que forem devidas, podem ser apreendidos, onde quer que sejam encontrados, a madeira, lenha, carvão ou outros produtos provenientes de cortes ou práticas em transgressão do estabelecido no presente diploma.
 
 2 - Presumem-se provenientes de cortes ou de práticas em transgressão os produtos que não estejam acompanhados de documento comprovativo de terem sido obtidos em conformidade com a lei, passado pelos Serviços Florestais.
 
-###### Art. 19.º Quando não for possível verificar no próprio local da transgressão quais as árvores e arbustos de que provieram os produtos apreendidos nos termos deste diploma, serão impostas aos detentores desses produtos as coimas seguintes:
+Art. 19.º Quando não for possível verificar no próprio local da transgressão quais as árvores e arbustos de que provieram os produtos apreendidos nos termos deste diploma, serão impostas aos detentores desses produtos as coimas seguintes:
 
 a) 10000$00 por cada metro cúbico de madeira;
 
@@ -182,28 +195,28 @@ b) 2000$00 por cada tonelada de lenha ou fracção;
 
 c) 500$00 por cada quilograma de carvão ou fracção.
 
-###### Art. 20.º - 1 - Quando as transgressões previstas neste diploma e, bem assim, a remoção de quaisquer produtos delas provenientes ocorrerem de noite, as coimas serão aplicadas em dobro.
+Art. 20.º - 1 - Quando as transgressões previstas neste diploma e, bem assim, a remoção de quaisquer produtos delas provenientes ocorrerem de noite, as coimas serão aplicadas em dobro.
 
 2 - Os produtos apreendidos serão restituídos no caso de pagamento voluntário das coimas ou no de absolvição judicial.
 
 3 - Havendo condenação, os Serviços Florestais promoverão a venda dos produtos apreendidos com a devida publicidade, e a importância obtida, deduzidas as respectivas despesas, constituirá receita da Região.
 
-###### Art. 21.º Aos transgressores do disposto na alínea e) do artigo 1.º será aplicada a coima de 5000$00 por metro cúbico de inerte.
+Art. 21.º Aos transgressores do disposto na alínea e) do artigo 1.º será aplicada a coima de 5000$00 por metro cúbico de inerte.
 
-###### Art. 22.º - 1 - Quando os cortes em transgressão ao disposto neste diploma tiverem sido feitos sem conhecimento ou ordem do proprietário ou de quem assume a responsabilidade da exploração da propriedade, serão os autores punidos segundo a lei geral.
+Art. 22.º - 1 - Quando os cortes em transgressão ao disposto neste diploma tiverem sido feitos sem conhecimento ou ordem do proprietário ou de quem assume a responsabilidade da exploração da propriedade, serão os autores punidos segundo a lei geral.
 
 2 - O produto do corte será apreendido e vendido em hasta pública, depositando-se a receita à ordem do tribunal competente, que lhe dará o devido destino.
 
-###### Art. 23.º O disposto neste diploma entende-se sem prejuízo da legislação sobre o Parque Natural da Madeira.
+Art. 23.º O disposto neste diploma entende-se sem prejuízo da legislação sobre o Parque Natural da Madeira.
 
-###### Art. 24.º Este diploma entra em vigor 60 dias após a sua publicação.
+Art. 24.º Este diploma entra em vigor 60 dias após a sua publicação.
 
 Aprovado em sessão plenária em 14 de Junho de 1983.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 8 de Julho de 1983.**
+Assinado em 8 de Julho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

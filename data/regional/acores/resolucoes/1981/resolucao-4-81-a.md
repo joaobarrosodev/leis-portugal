@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1981, 8º Suplemento, Série I de 1981-12-31
   number: '300'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 3414-(202) a 3414-(210)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf
 entry_into_force_dates: []
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-1981-144428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 356cf52adcbd1241f3f1dd0dbedf7f45d1042d13acb90c5dcebce6d1858c2f42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28efc51485295a479f213075f1412481ec217b18c3365f159487dbd929e836e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+relationships:
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:35Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +96,7 @@ A Comissão para os Assuntos Económicos e Financeiros, reunida em Ponta Delgada
 
 Assembleia Regional dos Açores, 17 de Dezembro de 1981. - A Comissão para os Assuntos Económicos e Financeiros: Carlos Manuel Teixeira, presidente - Jorge Castanheira Cruz, relator. - José Rodrigues Ribeiro, secretário. - Cinelândia Congumbreiro e Sousa - Avelino Rodrigues.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
 ## ANEXO I — Nota prévia
 
@@ -102,11 +108,11 @@ Do sector da educação é retirada uma verba de 8000 contos, sendo 6000 contos 
 
 O impacte na estrutura dos programas é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 A impossibilidade verificada na concretização de algumas acções projectadas inicialmente, tais como a construção nos pólos universitários, resulta na não utilização da totalidade da verba orçada inicialmente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 O atraso verificado na elaboração do projecto fez com que o concurso público não tenha sido aberto, o que permite a libertação total da verba adstrita a este projecto.
 
@@ -114,7 +120,7 @@ O atraso verificado na elaboração do projecto fez com que o concurso público 
 
 Neste sector assiste-se a um reforço de 6000 contos destinado ao programa n.º 6 - Defesa e valorização do património cultural, cuja estrutura passa a ser a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 Tal reforço torna-se imprescindível ao prosseguimento das acções de apoio às filarmónicas da Região.
 
@@ -124,7 +130,7 @@ Neste sector da saúde assiste-se a uma pequena redução de 1000 contos verific
 
 Assim temos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 Esta redução torna-se possível visto terem ocorrido alguns atrasos na execução daquele projecto no que concerne à Graciosa.
 
@@ -134,7 +140,7 @@ Deste sector é retirado um montante de 31500 contos, sendo 18000 contos do prog
 
 Tais reduções implicam as seguintes alterações a nível de projectos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 A redução de 8000 contos no projecto n.º 14.4 é consequência do atraso na execução do projecto devido a dificuldades de implementação.
 
@@ -142,11 +148,11 @@ A redução de 8000 contos no projecto n.º 14.5 justifica-se pelo facto de nenh
 
 Relativamente à redução de 2000 contos no projecto n.º 14.6, dificuldades surgidas na aquisição dos terrenos previstos implica a não utilização da verba inicialmente adstrita a este projecto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 As condições climatéricas durante os meses que se passaram durante o corrente ano não causaram os prejuízos nas linhas de água que se esperavam, resultando assim a não utilização da totalidade da verba inicialmente prevista.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 A redução verificada no projecto n.º 16.1 (9800 contos) é consequência do atraso verificado na adjudicação do Estádio Municipal de Ponta Delgada, já que aos primeiros concursos públicos não apareceram firmas interessadas.
 
@@ -158,23 +164,23 @@ Neste sector assiste-se a pequenos ajustamentos a nível de programa, não alter
 
 Assim, a nível de programas e projectos, temos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 O reforço proposto torna-se indispensável para solver compromissos relativamente às obras de construção do armazém da Lagoa do Congro, na ilha de São Miguel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 As anulações propostas devem-se às disponibilidades existentes ao nível dos diversos serviços veterinários da ilha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 O reforço proposto destina-se à instalação dos serviços veterinários da ilha de São Jorge.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 A redução proposta justifica-se pelo atraso na definição da metodologia a seguir para a bonificação de juros no domínio da agro-pecuária.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 A redução justifica-se pelo atraso em algumas acções programadas.
 
@@ -184,7 +190,7 @@ Neste sector verifica-se uma redução de 4000 contos no projecto n.º 29.1 - Im
 
 Com a redução proposta a estrutura do programa é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 A redução proposta baseia-se nas dificuldades encontradas na obtenção de elementos necessários para o plano de ordenamento industrial da ilha Terceira. Por outro lado, após a execução do levantamento topográfico e de uma análise morfológica e hidrológica da zona do núcleo industrial de São Miguel concluiu-se ser necessário redefinir a sua área de implantação.
 
@@ -194,23 +200,23 @@ Neste sector prevê-se a alteração das dotações dos vários programas que o 
 
 Assim temos, ao nível de cada programa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 A anulação proposta no projecto n.º 30.1 baseia-se no facto de a Central Térmica de São Jorge se encontrar ainda em fase de localização e de a Central Térmica do Pico se encontrar na fase de arranque, a qual foi financiada por um empréstimo bancário contraído pela Federação de Municípios da Ilha do Pico.
 
 Relativamente ao projecto n.º 30.2, a anulação verifica-se, uma vez que as obras relativas às linhas de média tensão da Fajã do Ouvidor, em São Jorge, e Terra Alta e Piedade, no Pico, não se iniciaram no corrente ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 No projecto n.º 31.1 a anulação justifica-se dada a circunstância de as solicitações havidas no âmbito deste projecto não terem atingido o volume esperado.
 
 No segundo projecto a anulação proposta é fruto de atrasos nas obras, uma vez que só agora foi possível iniciar o concurso para a respectiva adjudicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 O reforço de 15708 contos destina-se às acções relacionadas com o saneamento económico-financeiro da EIE.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 O reforço proposto (13000 contos) justifica-se pela necessidade de satisfazer encargos provenientes da execução dos contratos em vigor relativamente à ilha de São Miguel.
 
@@ -218,7 +224,7 @@ O reforço proposto (13000 contos) justifica-se pela necessidade de satisfazer e
 
 Neste sector assiste-se a uma redução de 7000 contos, a qual se verifica no projecto n.º 35.2 - Apoio ao investimento turístico. Ao nível do programa temos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 Esta redução é possível uma vez que não se prevê a utilização do total da verba consignada a este projecto, já que o montante dos financiamentos a projectos viáveis da iniciativa privada não correspondeu ao previsto.
 
@@ -228,17 +234,17 @@ Neste sector assiste-se a um esforço nos programas n.os 37 - Estradas regionais
 
 Do nível de cada programa referido registam-se as seguintes alterações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 No projecto n.º 37.1 o reforço de 17500 contos torna-se indispensável, devido ao agravamento dos preços das obras adjudicadas e já em curso no corrente ano.
 
 No caso do projecto n.º 37.2, que prevê um reforço de 20000 contos, os agravamentos dos encargos relativos à conservação da rede viária regional obrigam ao reforço ora proposto, a fim de não comprometer o pagamento de compromissos já assumidos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 As reduções atrás propostas devem-se a atrasos na execução dos respectivos projectos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 O reforço de 62000 contos proposto destina-se à cobertura do défice de exploração da SATA, uma vez que se verificou um decréscimo das receitas em relação ao inicialmente previsto, cuja explicação, em parte, reside na venda de elevado número de passagens a residentes relativamente a não residentes.
 
@@ -248,7 +254,7 @@ O facto de o tarifário para o ano em curso só ter entrado em vigor em Março t
 
 Neste sector prevê-se uma redução de 12000 contos, a ter lugar no seguinte projecto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 A redução em causa baseia-se no facto de as terraplenagens não terem sido executadas, devido à indisponibilidade dos equipamentos solicitados para o efeito.
 
@@ -256,7 +262,7 @@ A redução em causa baseia-se no facto de as terraplenagens não terem sido exe
 
 No sector de investigação assiste-se a uma redução de 2000 contos, a ter lugar no projecto n.º 44.1 - Pesquisa energética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 Tal redução é fruto do atraso encontrado no início do estudo das potencialidades eólicas de Santa Maria.
 
@@ -264,22 +270,22 @@ Tal redução é fruto do atraso encontrado no início do estudo das potencialid
 
 Aqui assiste-se a uma redução de 3000 contos, referente ao projecto n.º 46.1 - Instalações e equipamento para serviços públicos, ficando assim o programa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 A redução é possível uma vez que a execução de algumas obras não decorreu com a celeridade prevista.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 Mapa por sectores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 Mapas por entidades executoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 ## ANEXO II — Resumo da despesa por secretarias regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30008/02020210.pdf)
 
 Presidência do Governo Regional, 10 de Dezembro de 1981. - O Presidente do Governo Regional em exercício, Raul Gomes dos Santos.

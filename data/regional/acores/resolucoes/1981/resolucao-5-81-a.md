@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1981, 12º Suplemento, Série I de 1981-12-31
   number: '300'
   series: I
-  supplement: 12º Suplemento
+  supplement: null
   pages: 3414-(268) a 3414-(401)
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf
 entry_into_force_dates: []
@@ -46,36 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/5-1981-143569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b1ee734e2223db2534287457bd74121a525802b0c80938fb36b79c3adb18d94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9667394f1cffcf83192ececb2db98e09eec132f5948aa3c5ef7ab6beb7bd9ae2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Plano Económico
+relationships:
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678649:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:391871:por
+  label: Rectificada pela DECL.DD3315.1982.05.12.PCM DR.IS [123] DE 31/MAI/1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-391871
+  date: '1982-05-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:35Z'
   warnings: []
   errors: []
 ---
@@ -466,7 +541,7 @@ Despesas directamente imputáveis aos custos genéricos da insularidade
 
 (PMP 1981-1984 - Preços de 1982)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 São estas as despesas directamente resultantes das características de insularidade genericamente atrás apontadas. Pesam, no entanto, ainda sobre o valor global das despesas do plano os custos de insularidade, que são imputáveis por via indirecta e cuja estimativa se torna mais problemática.
 
@@ -486,7 +561,7 @@ O montante das transferências do OGE para o orçamento regional poderá vir a s
 
 Face à ausência dos novos critérios que presidirão à determinação das transferências do OGE para a Região e à indefinição existente quanto ao suporte pelo Estado dos custos de insularidade referidos no artigo 80.º do Estatuto Político Administrativo da Região Autónoma dos Açores, não é possível determinar com precisão o valor total dos empréstimos a contrair possivelmente pela Região no período em análise, para fazer face às necessidades de financiamento, nem o correspondente serviço de dívida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Em conclusão, prevê o Governo Regional que:
 
@@ -608,11 +683,11 @@ Daí um vasto plano de construções escolares para os ensinos preparatório e s
 
 Ensino preparatório:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Ensino secundário:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Por sua vez têm vindo a melhorar e, com o concurso da Universidade dos Açores, a ser preparados novos elementos para os corpos docentes dos ensinos preparatório e secundário.
 
@@ -638,7 +713,7 @@ De 1960 para cá a educação tem vindo a ser utilizada não só para explicar o
 
 Por estudos realizados em Portugal no ano de 1972, sabe-se que os ganhos médios anuais de uma pessoa com educação superior eram 5,3 vezes, 2,6 vezes e 9 vezes mais elevados que os auferidos por, respectivamente, pessoas com instrução primária, ensino secundário e analfabetos. Mas em 1975, comparadas com as de outros países, como Grã-Bretanha, Holanda e Bélgica, as percentagens por graus de ensino da população activa portuguesa, a que é lícito equiparar com vantagem a da Região, eram as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 A este aspecto quantitativo haveria que acrescentar o qualitativo, ou seja, o desfasamento do nosso ensino, nomeadamente o secundário, das necessidades e reais carências da vida activa e do mercado do emprego.
 
@@ -690,7 +765,7 @@ O que vale, isso sim, é lembrar como é grande o peso dos grupos etários mais 
 
 Perante esta situação, que não é brilhante, e de cuja mudança qualitativa depende o futuro da Região, também não têm sido brilhantes os avanços obtidos através do ensino primário supletivo de adultos. No ano lectivo de 1979-1980 foram os seguintes os resultados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Deste total, cerca de 30% tinham menos de 19 anos.
 
@@ -782,7 +857,7 @@ QUADRO I
 
 Investimento no sector da educação. Sua distribuição por programas e escalonamento por anos do PMP 1981-1984
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA n.º 1
 
@@ -802,13 +877,13 @@ QUADRO II
 
 Construção e equipamento de 39 edifícios escolares e 210 salas de aula para o básico primário; aquisição e montagem de 28 salas de aula em pré-fabricados; aquisição de terrenos para construções escolares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 QUADRO III
 
 Acções de que consta o programa das construções escolares para o ensino primário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 O quadro II anterior deu-nos, como vimos, uma individualização maior das acções que constituem o programa n.º 1, nos seus vários projectos.
 
@@ -836,7 +911,7 @@ Investimento no básico preparatório e no secundário, na vigência do PMP 1981
 
 Grau de ensino
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Uma distribuição espacial e melhor explicitação das acções constitutivas do programa, como o escalonamento do investimento previsto por anos do PMP 1981-1984, são-nos facultadas pelo quadro V.
 
@@ -846,7 +921,7 @@ QUADRO V
 
 Distribuição por ilhas do investimento no básico preparatório e no secundário, na vigência do PMP 1981-1984
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 3
 
@@ -868,7 +943,7 @@ QUADRO VI
 
 Principais carências da Universidade dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 O quadro VI permite-nos concluir que foi postergada a construção ou aquisição de moradias para docentes, contando-se adquirir no decurso do PMP 1981-1984 praticamente todos os terrenos necessários à construção de instalações e outros fins universitários.
 
@@ -878,7 +953,7 @@ QUADRO VII
 
 Distribuição do investimento do programa n.º 3 (n.º 3 no PMP 1981-1984)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 4
 
@@ -902,7 +977,7 @@ QUADRO VIII
 
 Distribuição por ilhas do investimento do programa n.º 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 5
 
@@ -928,7 +1003,7 @@ QUADRO IX
 
 Distribuição espacial do investimento do programa n.º 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 2 - CULTURA
 
@@ -1124,7 +1199,7 @@ QUADRO X
 
 Percentagem das dotações iniciais do programa do sector da cultura no PMP 1977-1980 e PMP 1981-1984
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 O investimento ao abrigo deste programa no período de vigência do PMP 1981-1984 terá a seguinte repartição geográfica:
 
@@ -1132,7 +1207,7 @@ QUADRO XI
 
 Distribuição espacial das dotações do programa n.º 6 no decurso do PMP 1981-1984
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 3 - SAÚDE
 
@@ -1188,7 +1263,7 @@ Por ilhas, as acções são as seguintes:
 
 Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 São Miguel
 
@@ -1198,7 +1273,7 @@ Manutenção dos Hospitais de Ponta Delgada e Vila Franca do Campo. Obras nos ho
 
 Nos restantes anos prevê-se a evolução seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Nesta ilha, em 1982 e 1983, o actual hospital será dotado com verbas que garantam a sua manutenção enquanto não se conclui a nova unidade e se adquira equipamento para o seu apetrechamento.
 
@@ -1208,17 +1283,17 @@ Em 1981 prevê-se 20000 contos a serem gastos com o início das obras no bloco C
 
 Nos restantes anos prevê-se a seguinte evolução:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Graciosa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Estas verbas destinam-se a apetrechamento e manutenção do hospital concelhio, futuro centro de saúde, na generalidade mal apetrechado ou com equipamento obsoleto.
 
 São Jorge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Estas verbas são destinadas ao apetrechamento e manutenção dos hospitais, futuros centros de saúde.
 
@@ -1228,7 +1303,7 @@ Em 1981 prevê-se um gasto de 11000 contos para obras de ampliação e manutenç
 
 Nos restantes anos a evolução é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Faial
 
@@ -1236,7 +1311,7 @@ Apenas está previsto para 1981 um gasto de 10000 contos em manutenção e apetr
 
 Flores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 A verba indicada destina-se à manutenção e apetrechamento do Hospital de Santa Cruz e postos de saúde.
 
@@ -1246,7 +1321,7 @@ Centro de Oncologia dos Açores
 
 A recente criação do núcleo e Centro de Oncologia dos Açores obrigou a um investimento inicial de compra de instalações e parte de equipamento. A instalação efectiva foi, no entanto, protelada devido à sua ocupação pela SRAS, após o sismo de Janeiro de 1980.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Dos 5000 contos dotados em 1981, 1000 destinam-se à execução do projecto de ampliação, 1000 à reparação do edifício actual e 3000 à aquisição de material.
 
@@ -1262,11 +1337,11 @@ Por ilhas, as acções são as seguintes:
 
 Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 A necessidade de construção de um centro de saúde em Ponta Delgada, que irá descongestionar o hospital, nomeadamente a nível da consulta externa e meios complementares de diagnóstico, implica um investimento, a meio do período de vigência do PMP 1981-1984, destinado ao arranque da fase inicial de construção. Inclui-se assim uma verba para a construção do novo centro que responda às necessidades da população daquele concelho.
 
@@ -1276,7 +1351,7 @@ Relativamente à construção da Escola de Enfermagem de Ponta Delgada, o edifí
 
 Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Nesta ilha o investimento destina-se a novas unidades ainda em fase de arranque. A Escola de Enfermagem, com capacidade para 100 alunos, poderá ter também o seu início de construção em 1982, prolongando-se pelo resto do quadriénio. Os terminais de saúde a instalar, em polivalentes ou outros edifícios, nas freguesias serão estendidos a toda a ilha ao longo dos 4 anos.
 
@@ -1288,7 +1363,7 @@ Em 1981 a verba é destinada à elaboração dum projecto tipo C3 para o Centro 
 
 Em resumo, prevê-se o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Pico
 
@@ -1296,7 +1371,7 @@ Nesta ilha o investimento principal é no novo hospital de São Roque, cujo proj
 
 Em resumo, as acções e verbas previstas são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Faial
 
@@ -1304,7 +1379,7 @@ Também nesta ilha há que considerar um importante investimento o do novo hospi
 
 Em resumo, prevê-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Flores
 
@@ -1312,7 +1387,7 @@ As verbas deste projecto destinam-se à execução e instalação de terminais d
 
 Assim, a dotação para este tipo de acção foi distribuída pelo quadriénio do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Em último lugar, refira-se o reforço de dotação para execução dos projectos em 1981 da ordem dos 1000 contos.
 
@@ -1328,7 +1403,7 @@ São Miguel
 
 Devido às suas potencialidades urge dotar as termas das Furnas com capacidade de resposta à solicitação que surgirá com a eventual construção do novo hotel das Fumas. Para absorver o impacte inicial dotou-se o projecto com uma verba vultosa em 1981 e 1982, sendo nos anos seguintes atribuídas verbas para a melhoria de rotina de serviços prestados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 De notar ainda que está proposta uma verba para cobrir as despesas com o congresso de termalismo a efectuar em 1982.
 
@@ -1336,13 +1411,13 @@ Graciosa
 
 Nesta ilha propõem-se apenas verbas para manutenção geral:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Faial
 
 Também nesta ilha as verbas atribuídas são para manutenção geral no Varadouro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Aquisição de material de transporte:
 
@@ -1352,7 +1427,7 @@ A parte deste projecto no total do programa de melhoria da rede de serviços é 
 
 A nível não desagregado temos, por anos, as seguintes verbas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Aprovisionamento:
 
@@ -1374,31 +1449,31 @@ Por ilhas, estão previstas as seguintes acções:
 
 São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Nesta ilha o problema põe-se apenas nos lugares mais carecidos (Nordeste e Vila Franca), onde se construirá um pequeno conjunto habitacional para médicos.
 
 Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 A situação no campo habitacional é extremamente grave, pelo que se prevê a construção de um bloco onde se possa alojar cerca de 12/15 médicos, enfermeiros e outros técnicos.
 
 Graciosa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Nesta ilha há necessidade não só de se instalar os médicos como também o grupo de religiosas que mantém o funcionamento do serviço de enfermagem do hospital e que ocupam parte das instalações do edifício necessário à sua ampliação.
 
 São Jorge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Para complementar o bloco habitacional já existente e proceder à criação de um novo apoio à Calheta e ao seu novo hospital.
 
 Pico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 É imprescindível manter o serviço médico em São Roque e apoiar a fixação na Madalena e Lajes.
 
@@ -1514,11 +1589,11 @@ Por ilhas, as acções a empreender no quadriénio são as seguintes:
 
 São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Graciosa
 
@@ -1536,7 +1611,7 @@ Jardim-de-infância de Velas:
 
 Pico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Faial
 
@@ -1560,11 +1635,11 @@ Por ilhas, as acções a empreender são as seguintes:
 
 São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 São Jorge
 
@@ -1604,7 +1679,7 @@ As acções por ilhas são as seguintes:
 
 São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Faial
 
@@ -1622,7 +1697,7 @@ As acções por ilhas são as seguintes:
 
 São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Faial
 
@@ -1660,7 +1735,7 @@ Enfermaria de retaguarda:
 
 São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Está em curso de execução o Lar de Idosos de Ponta Delgada (iniciado em 1980).
 
@@ -1728,7 +1803,7 @@ Respeitante à instalação da enfermaria de retaguarda.
 
 São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Estas acções destinam-se à aquisição de equipamento.
 
@@ -1776,7 +1851,7 @@ Este programa é constituído unicamente por um projecto com o mesmo nome.
 
 A distribuição do programa por ilhas e anos é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Melhoria das condições sociais do funcionalismo regional
 
@@ -2044,7 +2119,7 @@ Desconcentração geográfica e alargamento das áreas formativas
 
 Esta acção visa adequar as instalações existentes e do edifício primitivo do Centro de Formação Profissional dos Açores, de modo a poder dar resposta cabal às necessidades cada vez mais prementes que se colocam no campo da valorização profissional. Paralelamente é contemplada a construção e adaptação de instalações em Angra do Heroísmo e Horta com vista à realização de cursos de formação profissional destinados ao sector terciário e também dirigidos ao uso feminino.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Formação profissional na área da metalomecânica
 
@@ -2096,13 +2171,13 @@ Este projecto procura responder à necessidade de formação de pessoal de enfer
 
 Em resumo, este projecto está dotado com as seguintes verbas, não desagregadas por ilha devido às suas características:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Formação profissional de bombeiros e pessoal da protecção civil
 
 Este projecto procura transmitir conhecimentos sobre a utilização conveniente do material das associações de bombeiros, a serem fornecidos através de cursos de formação para bombeiros. Ligado ainda ao projecto procurar-se-á executar programas de sensibilização e esclarecimento das populações sobre problemas relacionados com a protecção civil e proporcionar acções de formação e treinamento de pessoal a ela ligados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Formação profissional no sector do turismo
 
@@ -2110,7 +2185,7 @@ Este projecto procura dar satisfação às exigências que o sector coloca concr
 
 A dotação financeira afecta ao projecto totaliza 23700 contos, com a seguinte repartição ao longo do quadriénio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Formação profissional no sector da comunicação social
 
@@ -2118,7 +2193,7 @@ O preenchimento de quadros técnicos e profissionais de informação devidamente
 
 Para o efeito o projecto é dotado com uma verba de 4800 contos, distribuídos do seguinte modo pelo quadriénio:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 6 - HABITAÇÃO
 
@@ -2442,7 +2517,7 @@ Esta acção, com uma dotação de 90000 contos, destina-se à intervenção na 
 
 A conclusão do levantamento aerofotogramétrico permitirá promover o estudo e o plano de pormenor, além dos respectivos projectos de habitação. A partir de 1982 serão iniciados os trabalhos de construção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Apoio à autoconstrução:
 
@@ -2450,7 +2525,7 @@ Como forma de revitalizar as zonas rurais mais deprimidas e colmatar as carênci
 
 Este projecto, que visa a construção de 400 fogos, é dotado com uma verba de 155000 contos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Apoio às cooperativas:
 
@@ -2464,7 +2539,7 @@ Acompanhamento ou execução de projectos de urbanização ou de edifícios.
 
 Lançamento - depois de assegurados os financiamentos necessários, o respectivo concurso de obras e a fiscalização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Aquisição ou construção de casa própria
 
@@ -2482,7 +2557,7 @@ Foram contempladas neste projecto as necessidades previstas tanto para o regime 
 
 A este projecto corresponde uma dotação de 185000 contos no quadriénio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 15
 
@@ -2500,15 +2575,15 @@ O programa, dotado de 105000 contos, é caracterizado por três tipos de interve
 
 Preservação de edifícios e monumentos de interesse colectivo, projecto com 34100 contos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Construção de parques de máquinas, projecto com 8900 contos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Concessão de subsídios a entidades particulares de interesse colectivo, projecto contemplado com a verba de 50000 contos, assim distribuída:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Não desagregado (intervenções diversas) em 1984, 12000 contos; total, 12000 contos.
 
@@ -2612,15 +2687,15 @@ Este programa tem uma dotação de 201300 contos.
 
 Apoio às associações humanitárias de bombeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Instalação do Serviço Regional de Protecção Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Apoio às associações de radioamadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Sectores produtivos
 
@@ -2796,7 +2871,7 @@ De igual modo, e para fomentar o desenvolvimento e a expansão de motomecanizaç
 
 Dotação financeira (em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 19
 
@@ -2812,7 +2887,7 @@ Para a prossecução do enunciado no programa formularam-se os seguintes project
 
 Dotação financeira (em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 1
 
@@ -2854,7 +2929,7 @@ Prosseguir os estudos técnicos e trabalhos experimentais no campo da produção
 
 Aumentar progressivamente as áreas de cultivo a nível oficial, incentivando, por outro lado, os particulares na produção, dando-lhes condições mais favoráveis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 2
 
@@ -2882,7 +2957,7 @@ Em todas as ilhas, melhoramento das pastagens degradadas, permitindo níveis de 
 
 Instalação de campos de demonstração e de assistência técnica em zonas típicas de cada ilha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 3
 
@@ -2918,7 +2993,7 @@ Campos de demonstração comparativos em zonas vocacionadas para a cultura dos c
 
 Com estes métodos e acções para conseguir os objectivos apontados, o crédito tem aqui o seu assento perfeito, pelo que se acha justo a sua inclusão, para este fim, no lugar próprio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Execução material: Instalação de campos de ensaios e demonstração - Assistência técnica.
 
@@ -2970,7 +3045,7 @@ Garantia de existência, e em devido tempo, de todos os factores de produção n
 
 De novo serão os terrenos do Campo de Santana a base de toda a experimentação acima referida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 20
 
@@ -2984,7 +3059,7 @@ Torna-se imprescindível uma intensificação da produção hortícola, aproveit
 
 Em conjugação com o exposto anteriormente apresenta-se-nos a apicultura como actividade complementar da horto-fruticultura, visando o aumento da produtividade deste sector.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 1
 
@@ -3004,7 +3079,7 @@ Produção de plantios, nas melhores condições, das fruteiras tradicionais e, 
 
 Criação de 3 centros de produção frutícola nas ilhas mais vocacionadas (São Miguel, Terceira e Faial).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 2
 
@@ -3034,7 +3109,7 @@ Legislação regional para regular as características e delimitações de cada 
 
 Proibição de inclusão de produtos directos nas zonas delimitadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 3
 
@@ -3066,7 +3141,7 @@ Divulgação da técnica apícola por meios áudio-visuais e distribuição de f
 
 Introdução, multiplicação e disseminação de plantas malíferas e povoamento das bermas das rodovias regionais e demais zonas públicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 4
 
@@ -3104,7 +3179,7 @@ Produção e fornecimento de plantios de novas espécies e variedade com maior i
 
 Assistência técnica aos horticultores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 5
 
@@ -3134,7 +3209,7 @@ Prospecção de mercados em vista à determinação das espécies de flores e cu
 
 Concessão de subsídios para túneis e estufas indispensáveis ao cultivo de algumas espécies floríferas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 21
 
@@ -3150,7 +3225,7 @@ A prospecção e diagnose de pragas e doenças, bem como a identificação das i
 
 Os métodos de protecção (avisos, pesticidas, luta biológica e luta integrada) terão de ser constantemente experimentados e aperfeiçoados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 1
 
@@ -3176,7 +3251,7 @@ Inspecção fitossanitária.
 
 Elaboração da legislação, estruturação dos serviços e formação do pessoal técnico (corpo de inspectores) por forma a assegurar a inspecção à importação e exportação, sobretudo à circulação entre a Região, o continente português e da Madeira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Execução material:
 
@@ -3202,7 +3277,7 @@ Distribuição de isco raticida pelas populações.
 
 Detecção de focos que carecem especial tratamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 3
 
@@ -3212,7 +3287,7 @@ A urgência no combate ao pardal, pelos elevados prejuízos que causa, é de gra
 
 Contudo, a dificuldade em encontrar um meio eficaz de combate a esta praga torna ainda mais difícil conseguir os objectivos deste projecto, ou seja, a diminuição de população deste agente agressor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 22
 
@@ -3244,7 +3319,7 @@ Em todas as ilhas, à excepção de São Miguel e do Corvo - subsídios à const
 
 São Miguel - captação de água de nascente e recolha de águas pluviais, e respectivas distribuições, essencialmente nas bacias leiteiras dos Arrifes e da Povoação sem excluir nas obras em curso na bacia de Ponta Garça.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 2
 
@@ -3268,7 +3343,7 @@ Graciosa - Abertura e beneficiação de 3 km de caminhos.
 
 Corvo - Beneficiação de 1 km de caminho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 3
 
@@ -3294,7 +3369,7 @@ Revestimento betuminoso - 92 km;
 
 Construção e bebedouros - 12 km.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 23
 
@@ -3344,11 +3419,11 @@ Por não estarem esclarecidos completamente todos os efeitos decorrentes dos pro
 
 Para o planeamento da rede de alternativas é fundamental a elaboração de um estudo da análise sectorial, formulação técnica (concepção do programa, execução e exploração), custos, viabilidade económica do programa, efeitos do programa sobre o meio ambiente, conclusões e recomendações gerais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Dotação financeira global (em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Nota. - As verbas necessárias, acima indicadas, para a execução do programa de desenvovimento agro-pecuário da ilha do Pico serão em parte suportadas por um emprétimo do Kreditanstalt für Wiederaufbau, cabendo à região o encargo de um terço do montante global do investimento.
 
@@ -3644,11 +3719,11 @@ As brigadas de assistência às máquinas de ordenha, integradas nas campanhas d
 
 Ainda neste campo há que, de novo em conjunto com a Secretaria Regional do Comércio e Indústria, tentar definir e reestruturar as redes de postos de recolha e concentração de leite e promover o seu licenciamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Dotação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 25
 
@@ -3770,11 +3845,11 @@ Em mapa anexo é indicado o diverso material a adquirir.
 
 De notar que a aquisição de diverso material de transporte e equipamento previstos destina-se não a um aumento de parque, mas sim a substituição de material já incapaz ou que o virá a estar ainda dentro do período do PMP.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Melhoramento silvo-pastoril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO
 
@@ -3782,13 +3857,13 @@ Aquisição de maquinaria e equipamento
 
 Principal material de transporte, maquinaria e equipamento a adquirir
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO
 
 Conservação dos recursos cinegéticos, parques e reservas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Medidas e acções:
 
@@ -3804,31 +3879,31 @@ PROJECTO
 
 Fomento florestal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO
 
 Melhoramento silvo-pastoril
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO
 
 Rede viária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO
 
 Conservação dos recursos cinegéticos, parques e reservas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO
 
 Maquinaria e equipamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Dotação financeira
 
@@ -3836,7 +3911,7 @@ PROJECTO
 
 Caminhos de penetração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Nota. - Este projecto terá apoio financeiro por parte das acções comuns da CEE no montantes global de 137000 contos (1982: 47000 contos; 1983: 35000 contos, e 1984: 55000 contos).
 
@@ -3876,11 +3951,11 @@ Concluir e construir os imóveis que se justifiquem.
 
 Dotar esses imóveis de água e electricidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Dotação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 27
 
@@ -3936,7 +4011,7 @@ No planeamento e na realização de cursos de extensão, no âmbito da economia 
 
 Dotação financeira (em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROJECTO 2
 
@@ -4018,13 +4093,13 @@ Realizar ou contribuir para a realização de exposições, de concursos, de fei
 
 Dotação orçamental (em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Dotação financeira (em contos)
 
 Programa de extensão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 8 - PESCAS
 
@@ -4168,7 +4243,7 @@ Com o objectivo de acelerar a necessária aproximação estrutural com a CEE, us
 
 PMP 1981-1984
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 29
 
@@ -4186,7 +4261,7 @@ Com estas estruturas, considerando a importância que desempenha o porto da Hort
 
 Dotação financeira (em contos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 9 - INDÚSTRIA
 
@@ -4210,7 +4285,7 @@ A distribuição espacial dos estabelecimentos industriais revela uma forte conc
 
 Sob o aspecto da evolução do consumo de energia na indústria, a elasticidade da procura de energia calcula-se que tenha sido 0,81, o que constitui uma melhoria do nível de utilização.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Quanto ao emprego no sector, os dados disponíveis permitem concluir da pequena dimensão das empresas.
 
@@ -4218,13 +4293,13 @@ QUADRO I
 
 Número de empresas por número de empregados - dados referentes a 88% das empresas da Região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 QUADRO II
 
 Número de licenças concedidas para novas instalações, postos de trabalho criados e intenção de investimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Política sectorial
 
@@ -4458,7 +4533,7 @@ Objectivos:
 
 Estimular e promover a expansão, diversificação e modernização da indústria regional através de incentivos financeiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Dotação no período de 1981-1982 - 580000 contos.
 
@@ -4578,7 +4653,7 @@ Inovação no artesanato,
 
 e atribuirá troféus aos empresários que mais esforços demonstrarem no progresso das actividades industriais, com base no processamento de recursos naturais da Região.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Dotação no período de 1981-1984 - 90000 contos.
 
@@ -4594,7 +4669,7 @@ Objectivos:
 
 Regularizar o abastecimento de cimento à Região, através da criação de empresas mistas de moagem, armazenagem e distribuição de cimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Dotação no período de 1981-1984 - 72000 contos.
 
@@ -4612,7 +4687,7 @@ Objectivos:
 
 Criação de uma empresa pública para prosseguir a implantação e encarregar-se da gestão dos parques e outros núcleos industriais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Dotação no período de 1981-1984 - 132000 contos.
 
@@ -4664,13 +4739,13 @@ As previsões da evolução dos consumos de energia apontam para um consumo fina
 
 Evolução do consumo final de energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Quanto ao consumo bruto de energia, as previsões estabelecidas para 1984 apontam para 167000 tep, com a estrutura que a seguir se apresenta:
 
 Evolução do consumo bruto de energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Verifica-se assim que no período que nos separa de 1984 se assistirá a um agravamento da nossa dependência energética em virtude de só depois daquele ano se prever o arranque quer da central geotérmica da Ribeira Grande, quer dos aproveitamentos hidroeléctricos que já se encontram em estudo.
 
@@ -4678,7 +4753,7 @@ A satisfação dos consumos da energia deverá assim continuar a processar-se fu
 
 Evolução do consumo de derivados do petróleo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Assistir-se-á, segundo as previsões estabelecidas, a um aumento do peso relativo tanto do gasóleo como do fuel, o que além do mais reflecte a fraca incidência que ainda haverá, em 1984, das energias renováveis na produção de electricidade.
 
@@ -4686,7 +4761,7 @@ No subsector da electricidade as previsões estabelecidas apontam para increment
 
 Evolução do consumo bruto de electricidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Prevêem-se evoluções mais aceleradas nas ilhas menos desenvolvidas, onde se registam as mais baixas capitações de consumo e taxas de cobertura por rede eléctrica.
 
@@ -4694,7 +4769,7 @@ A estrutura da produção de electricidade em 1984 traduz uma diminuição do pe
 
 Estrutura da produção de electricidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Assim, no decurso do período em análise, a produção de electricidade quase duplicará, passando de 115 GWh em 1978 para 220 GWh em 1984, e a ponta acusará um acréscimo de 21 MW, passando de 25 MW em 1978 para 46 MW em 1984.
 
@@ -4958,15 +5033,15 @@ Preconiza-se que o apoio financeiro se processe em termos de subsídio por kilow
 
 Empreendimentos do subsector da electricidade - 1981-1984
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Programa de investimentos no subsector da electricidade - 1981-1984
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Apoio financeiro à EDA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 35
 
@@ -4984,7 +5059,7 @@ Além dos trabalhos de driling implementar-se-á, na medida do possível, o cont
 
 O investimento total previsto para o período estima-se em cerca de 0,6 milhões de contos, segundo o seguinte calendário, relativamente aos 2 projectos em curso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 A execução dos trabalhos previstos durante o corrente ano (a respectiva cronologia deverá ser sujeita em breve a aprovação do Conselho do Governo Regional) faz supor que a dotação inscrita de 136000 contos terá de ser reforçada com mais 44000 contos.
 
@@ -5052,7 +5127,7 @@ Todas estas acções deverão sempre ser complementadas com campanhas de esclare
 
 Racionalização do consumo de energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 As verbas a despender no próximo quadriénio nestas acções elevar-se-ão a 41000 contos, com a distribuição anual que se indica no quadro.
 
@@ -5250,7 +5325,7 @@ Promover a constituição de stocks em zonas carecidas;
 
 Implementar a formação de estruturas comerciais a explorar pela iniciativa privada para cobrir e satisfazer as necessidades de abastecimento regular das populações nas ilhas de Santa Maria, Graciosa, São Jorge, Pico, Flores e Corvo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 As verbas a afectar ao programa de apoio financeiro ao investimento comercial, baseiam-se numa intenção do investimento privado, em 3 campos bem definidos:
 
@@ -5280,11 +5355,11 @@ Estimular as exportações, mediante a atribuição de compensação dos produto
 
 Meios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Resumo dos programas de investimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Circuitos.
 
@@ -5358,11 +5433,11 @@ Finalmente deve salientar-se a intervenção do sector público, que se traduz n
 
 Construção, ampliação, conservação e equipamento de unidades hoteleiras e similares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Participação no capital social de empresas turísticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 40
 
@@ -5380,7 +5455,7 @@ Além disso, os desportos náuticos, para os quais o arquipélago apresenta gran
 
 Por outro lado, o apoio diversificado a investimentos, que concretizem iniciativas nas áreas da hotelaria e seus similares e da animação e nas áreas desportiva, recreativa e cultural, com interesse para o turismo, bem como a preservação de valores etnográficos, revela-se fundamental e, por isso, será desenvolvido.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 PROGRAMA N.º 41
 
@@ -5402,7 +5477,7 @@ Ciente do embricamento do binómio cultural popular/turismo, a entidade turísti
 
 Os Açores dão, ainda hoje, testemunho de usos e costumes de antanho e de ricas tradições, a que os açorianos têm dado continuidade de geração em geração. Há que preservar esta herança, quer pelo seu interesse cultural, quer pela relevância turística que assume.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Infra-estruturas económicas
 
@@ -5548,7 +5623,7 @@ E. R. 1-1.ª para o porto do Faial da Terra, com uma verba orçada em 60000 cont
 
 Achada e saída de Angra, com uma verba orçada em 111000 contos (13,64% do montante global do projecto).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Estas 3 obras representam, só por si, 35% do projecto de construção, no âmbito do PMP 1981-1984.
 
@@ -5798,7 +5873,7 @@ Assim, no âmbito do plano a médio prazo, é lançado um «Programa de apoio ao
 
 Pormenorizando, a nível de projectos teremos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 14 - CIRCUITOS
 
@@ -5854,7 +5929,7 @@ Estruturas de abate convenientes por modernização das existentes e por montage
 
 A rede de infra-estruturas comerciais necessárias à garantia dos abastecimentos nas diversas ilhas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Sectores de apoio
 
@@ -5874,7 +5949,7 @@ Pesquisa energética:
 
 A evolução dos preços do petróleo e a procura de atenuação da dependência externa em energia são factores conducentes à prospecção de novas fontes de energia, nomeadamente solar, eólica e biomassa, a cuja pesquisa este projecto vem dar cobertura. A distribuição temporal da verba afecta ao projecto, 62000 contos, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Investigação no sector da saúde:
 
@@ -5882,7 +5957,7 @@ Este projecto visa definir a orientação do modelo sanitário que se pretende q
 
 Este projecto de actuação global distribui a verba dotada, 3500 contos, ao longo do quadriénio, da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Investigação dos subsectores de silvicultura e pecuária:
 
@@ -5890,7 +5965,7 @@ Todos os trabalhos a desenvolver no âmbito destes subsectores nunca serão de m
 
 Dotação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Investigação no sector das pescas:
 
@@ -5898,13 +5973,13 @@ Promover, através da Universidade dos Açores, o estabelecimento das indispens�
 
 Dotação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Estudos e projectos no sector dos transportes:
 
 Com este projecto pretende-se estudar a viabilidade da implantação de tecnologia nova de forma a proporcionar uma melhoria na rede de transportes. Estudar ainda a possibilidade de apetrechar as zonas carenciadas em matéria de acesso ao transporte, caminhando dessa forma para a elaboração de projectos eficazes e realistas. Com uma dotação financeira de 35500 contos, é a seguinte a sua distribuição ao longo do período do plano:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Estudos e projectos no sector do turismo:
 
@@ -5912,7 +5987,7 @@ No âmbito deste projecto pretende-se elaborar estudos de divulgação e levanta
 
 Dotação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Estudos para modernização da Administração Pública:
 
@@ -5922,7 +5997,7 @@ A Administração Pública, como um dos suportes básico de apoio ao processo de
 
 Dotação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 16 - INFORMAÇÃO
 
@@ -5940,7 +6015,7 @@ Com este projecto propõe-se dar continuidade aos trabalhos já iniciados de for
 
 A par disto procurar-se-á montar um sistema de contabilidade económica para a Região, de modo a retratar os fluxos comerciais com o continente, e demais acções ligadas ao sistema de contas económicas da Região. Para a concretização do projecto é afectada uma verba de 27000 contos, com a seguinte repartição quadrienal:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Comunicação social
 
@@ -5950,7 +6025,7 @@ As acções que se perspectivam levar a cabo nestes domínios abrangerão a RTP,
 
 A repartição financeira do projecto obedece à seguinte estrutura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 No momento da apresentação do plano não se encontram totalmente definidas as soluções técnicas necessárias, quer à cobertura das várias parcelas da Região, quer às opções relativamente a equipamentos e instalações, pelo que se torna impossível fazer uma discriminação espacial do investimento.
 
@@ -5958,7 +6033,7 @@ Vulgarização
 
 O projecto visa levar junto dos agricultores determinados conhecimentos de forma que estes possam actuar com melhor eficácia perante certas situações calamitosas ou então alterar os seus métodos de trabalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 17 - MODERNIZAÇÃO
 
@@ -6186,11 +6261,11 @@ Para prossecução dos mesmos, o programa tem uma dotação de 320100 contos.
 
 Projecto 51.1 - Instalações e equipamento de serviços centrais de administração e das suas delegações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 51.2 - Acções comuns de qualificação de funcionários e agentes da administração regional e local:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 51.3 - Acções específicas de formação profissional nos sectores agrícola, silvícola e pecuário:
 
@@ -6206,7 +6281,7 @@ Projecto 51.1 - Instalações e equipamento de serviços centrais de administra�
 
 51.6 - Mecanização da estatística:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Investimentos intermunicipais
 
@@ -6224,7 +6299,7 @@ QUADRO I
 
 Projectos previstos para execução ou início no quadriénio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Encontrando-se já em fase adiantada a preparação do diploma legal que regulamentará esta medida de política financeira, prevê-se que dele constarão os seguintes princípios:
 
@@ -6240,8 +6315,8 @@ Este programa envolve uma dotação global de 345000 contos distribuídos da seg
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
 
 Programas por sectores, entidades executoras e ilhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf))](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/30012/02680401.pdf)

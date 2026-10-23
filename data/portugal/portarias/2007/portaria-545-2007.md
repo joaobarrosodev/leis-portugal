@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/28972902.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/545/2007/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/545-2007-521074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9884b4b08f41181372a42e74f588588b7f2eea17a318f8bb7a4f46231110c39e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd75fed493ff62eab9e1ef97119e05a5463c13750964ba24703a9ac9f6f89048
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,14 @@ relationships:
   target: pt:dre:571030:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571030:por
+  label: "Adaptados, nos termos do art.3 .º da Lei 67/2013, de 28-ago, os estatutos e restruturado o Instituto da Mobilidade\
+    \ e dos Transportes, I.P., aprovados pela presente Portaria, sucedendo-lhe a Autoridade da Mobilidade e dos Transportes\
+    \ nas suas atribuições em matéria de regulação, de promoção e defesa da concorrência no âmbito dos transportes terrestres,\
+    \ fluviais e marítimos, pelo DEC LEI.11/2014.22.01.2014.MECO, DR.IS [15] de 22.01.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2014-571030
+  date: '2014-01-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/147/2007/04/27/p/dre
   label: null
@@ -82,16 +90,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:520991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69820478:por
+  label: Revogada, a partir de 01.08.2015, pelo(a) Portaria n.º 209/2015 - Diário da República n.º 137/2015, Série I de 2015-07-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/209-2015-69820478
+  date: '2015-07-16'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:18Z'
   warnings: []
   errors: []
 ---

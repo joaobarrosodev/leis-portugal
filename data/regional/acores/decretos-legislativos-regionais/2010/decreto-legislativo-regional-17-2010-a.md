@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2010/04/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-613402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ea7f512b5e1dd0bd442722962f638e2b2a5fc4de60e99cd265a829858ace425
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fbabdef2e8cdee66646c040c5646193e96222f9be4f28f0f4a8a7ac7934607c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
+- Açores
 - Associação de Escolas
 - Associação de PAIS
 - Autonomia Pedagógica
-- Formação Profissional
+- Comissão Executiva
 - Conselho Administrativo
+- Conselho Coordenador
 - Conselho Executivo
 - Conselho Pedagógico
-- Plano de Estudos
 - Definição de Competências
+- Ensino Artístico
+- Estabelecimento de Ensino
+- Formação Profissional
+- Gestão de Recursos Humanos
+- Gratificação
 - Mandato
 - Orçamento
-- Conselho Coordenador
-- Estabelecimento de Ensino
 - Pessoal Docente
+- Plano de Estudos
 - Regime Jurídico
 - Relatório
-- Gratificação
-- Gestão de Recursos Humanos
-- Açores
 - Sistema Educativo
-- Comissão Executiva
 relationships:
 - type: amended_by
   target: pt:dre:72909748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:499551:por
+  label: "Dada nova redação aos arts. 1.º, 3.º (alterado pelo DLR 17/2010/A de 13-abr), 4.º, 23.º, 27.º, 30.º (alterado pelo\
+    \ DLR 17/2010/A de 13-abr), 31.º, 36.º (alterado pelo DLR 17/2010/A de 13-abr), 38.º, 42.º, 43.º, 47.º, 51.º, 54.º, 55.º,\
+    \ 56.º, 57.º, 80.º, 83.º, 88.º (o último alterado pelo DLR 17/2010/A de 13-abr) ao 90.º (este alterado pelo DLR 17/2010/A\
+    \ de 13-abr), 102.º ao 104.º, 130.º, 131.º (os últimos dois alterados pelo DLR 17/2010/A de 13-abr), 139.º (alterado pelos\
+    \ DLR 35/2006/A de 06-set e 17/2010/A de 13-abr) e 142.º; - alterados os arts. 74.º (com a redação conferida pelos DLR\
+    \ 35/2006/A de 06-set e 17/2010/A de 13-abr), 75.º (com a redação conferida pelo DLR 17/2010/A de 13-abr), 63.º (os dois\
+    \ com a redação conferida pelo DLR 17/2010/A de 13-abr), 66.º, 68.º, 70.º e 71.º (os últimos dois com a redação conferida\
+    \ pelo DLR 17/2010/A de 13-abr) e renumera-os, respetivamente como arts. 62.º, 63.º, 68.º, 71.º, 73.º, 75.º e 76.º; -\
+    \ renumerados ainda, mantendo a respetiva redação, os arts. 73.º (alterado pelo DLR 17/2010/A de 13-abr), 76.º, 77.º,\
+    \ 61.º, 62.º, 64.º, 65.º (os últimos três alterados pelo DLR 17/2010/A de 13-abr), 67.º, 69.º e 72.º, que passam a constituir,\
+    \ respetivamente, os arts. 61.º, 64.º, 65.º, 66.º, 67.º, 69.º, 70.º, 72.º, 74.º e 77.º; - atualizadas as referências feitas\
+    \ ao membro do Governo Regional competente em matéria de administração escolar, ao diretor regional competente em matéria\
+    \ de administração escolar e à direção regional competente em matéria de administração escolar, que passam a designar-se,\
+    \ respetivamente, ao membro do Governo Regional competente em matéria de educação, diretor regional competente em matéria\
+    \ de educação e direção regional competente em matéria de educação; - e revogados a al. a) do art. 30.º, a al. j) do art.\
+    \ 36.º, os arts. 117.º ao 128.º, a al. i) do n.º 1 do art. 130.º e o n.º 3 do art. 131.º , todos do regime de criação,\
+    \ autonomia e gestão das unidades orgânicas do sistema educativo regional aprovado pelo DLR 12/2005/A de 16-jun, alterado\
+    \ e republicao pelo presente diploma, pelo DLR.13/2013/A.30.08.2013.ALR-RAA, DR.IS [167] de 30.08.2013, que procedeu à\
+    \ republicação do referido regime com as alterações ora introduzidas\0s\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2013-499551
+  date: '2013-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/249/1992/11/09/p/dre
   label: null
@@ -133,16 +156,144 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/
   label: null
   source: http://data.dre.pt/eli/lei/60/
+- type: cites
+  target: pt:dre:144996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 177
+  article_count: 149
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:08Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +354,9 @@ q) [Anterior alínea m).]
 
 r) [Anterior alínea n).]
 
-###### Artigo 9.º — Princípios gerais dos agrupamentos de escolas
+Artigo 9.º
+
+Princípios gerais dos agrupamentos de escolas
 
 1 - A constituição de agrupamentos de escolas considera, entre outros, critérios relativos à existência de projectos pedagógicos comuns, à construção de percursos escolares integrados, à articulação curricular entre níveis e ciclos educativos, à proximidade geográfica e à reorganização da rede educativa dos ensinos básico e secundário e da educação pré-escolar.
 
@@ -211,7 +364,9 @@ r) [Anterior alínea n).]
 
 3 - ...
 
-###### Artigo 12.º — Comissão executiva instaladora
+Artigo 12.º
+
+Comissão executiva instaladora
 
 1 - ...
 
@@ -225,7 +380,9 @@ b) ...
 
 c) Nomear, nos termos da lei, o coordenador técnico, quando não exista, de entre os assistentes técnicos a exercer funções na unidade orgânica.
 
-###### Artigo 19.º — Autonomia
+Artigo 19.º
+
+Autonomia
 
 1 - ...
 
@@ -233,7 +390,9 @@ c) Nomear, nos termos da lei, o coordenador técnico, quando não exista, de ent
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 30.º — Gestão dos tempos escolares
+Artigo 30.º
+
+Gestão dos tempos escolares
 
 ...
 
@@ -249,7 +408,9 @@ e) (Revogada.)
 
 f) ...
 
-###### Artigo 36.º — Gestão do pessoal não docente
+Artigo 36.º
+
+Gestão do pessoal não docente
 
 ...
 
@@ -273,7 +434,9 @@ i) ...
 
 j) ...
 
-###### Artigo 59.º — Mandato
+Artigo 59.º
+
+Mandato
 
 1 - ...
 
@@ -285,13 +448,17 @@ j) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 62.º — Composição
+Artigo 62.º
+
+Composição
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 64.º — Presidente do conselho executivo
+Artigo 64.º
+
+Presidente do conselho executivo
 
 1 - ...
 
@@ -309,7 +476,9 @@ e) Proceder à avaliação do desempenho do pessoal docente e não docente.
 
 3 - ...
 
-###### Artigo 65.º — Assembleia eleitoral e recrutamento
+Artigo 65.º
+
+Assembleia eleitoral e recrutamento
 
 1 - ...
 
@@ -323,7 +492,9 @@ e) Proceder à avaliação do desempenho do pessoal docente e não docente.
 
 6 - ...
 
-###### Artigo 70.º — Assessoria do conselho executivo
+Artigo 70.º
+
+Assessoria do conselho executivo
 
 1 - ...
 
@@ -331,7 +502,9 @@ e) Proceder à avaliação do desempenho do pessoal docente e não docente.
 
 3 - Nas unidades orgânicas em que funcione integrado um conservatório regional pode ser designado ainda um assessor para o ensino artístico.
 
-###### Artigo 71.º — Regime de exercício de funções
+Artigo 71.º
+
+Regime de exercício de funções
 
 1 - ...
 
@@ -347,11 +520,15 @@ e) Proceder à avaliação do desempenho do pessoal docente e não docente.
 
 7 - ...
 
-###### Artigo 73.º — Definição
+Artigo 73.º
+
+Definição
 
 O conselho pedagógico é o órgão de coordenação, supervisão pedagógica e orientação educativa da unidade orgânica, nomeadamente nos domínios pedagógico-didáctico, da orientação e acompanhamento dos alunos e da formação inicial e contínua do pessoal docente e não docente.
 
-###### Artigo 74.º — Composição
+Artigo 74.º
+
+Composição
 
 1 - ...
 
@@ -379,7 +556,9 @@ g) ...
 
 6 - Nas reuniões em que sejam tratados assuntos que envolvam sigilo, designadamente a provas de exame, avaliação global dos alunos e avaliação do desempenho do pessoal docente, apenas participam os membros docentes.
 
-###### Artigo 75.º — Competências
+Artigo 75.º
+
+Competências
 
 1 - ...
 
@@ -423,7 +602,9 @@ s) ...
 
 3 - ...
 
-###### Artigo 79.º — Composição
+Artigo 79.º
+
+Composição
 
 1 - O conselho administrativo é composto pelo presidente do conselho executivo, que preside, pelo coordenador técnico ou chefe dos serviços de administração escolar e por um dos vice-presidentes do conselho executivo, para o efeito designado pelo seu presidente.
 
@@ -431,15 +612,21 @@ s) ...
 
 3 - O substituto referido no número anterior tem direito a uma gratificação correspondente a 25 % da posição remuneratória 1, nível 14, da categoria de coordenador técnico.
 
-###### Artigo 85.º — Comissão pedagógica para o ensino artístico
+Artigo 85.º
+
+Comissão pedagógica para o ensino artístico
 
 (Revogado.)
 
-###### Artigo 86.º — Competências da comissão pedagógica para o ensino artístico
+Artigo 86.º
+
+Competências da comissão pedagógica para o ensino artístico
 
 (Revogado.)
 
-###### Artigo 88.º — Articulação curricular
+Artigo 88.º
+
+Articulação curricular
 
 1 - A articulação e gestão curricular devem promover a cooperação entre os docentes da unidade orgânica, procurando adequar o currículo às necessidades específicas dos alunos.
 
@@ -451,7 +638,9 @@ s) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 90.º — Conselho de turma
+Artigo 90.º
+
+Conselho de turma
 
 1 - ...
 
@@ -487,7 +676,9 @@ j) ...
 
 7 - ...
 
-###### Artigo 91.º — Professor tutor
+Artigo 91.º
+
+Professor tutor
 
 1 - A unidade orgânica pode prever a existência de professores tutores a quem compete:
 
@@ -507,7 +698,9 @@ c) Promover a articulação das actividades escolares dos alunos com outras tare
 
 6 - (Revogado.)
 
-###### Artigo 96.º — Núcleo de educação especial
+Artigo 96.º
+
+Núcleo de educação especial
 
 1 - ...
 
@@ -531,7 +724,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 106.º — Criação e âmbito
+Artigo 106.º
+
+Criação e âmbito
 
 1 - ...
 
@@ -549,7 +744,9 @@ d) ...
 
 8 - (Revogado.)
 
-###### Artigo 116.º — Representação
+Artigo 116.º
+
+Representação
 
 1 - O direito de participação dos pais na vida da escola processa-se de acordo com o disposto no [Decreto-Lei n.º 372/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1990-564802), de 27 de Novembro, com as alterações introduzidas pelo [Decreto-Lei n.º 80/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1999-144996), de 16 de Março, pela [Lei n.º 29/2006](https://diariodarepublica.pt/dr/detalhe/lei/29-2006-538016), de 4 de Julho, e pela [Lei n.º 40/2007](https://diariodarepublica.pt/dr/detalhe/lei/40-2007-640908), de 24 de Agosto, e concretiza-se através da organização e da colaboração em iniciativas, visando a promoção da melhoria da qualidade e da humanização das escolas, em acções motivadoras de aprendizagens e da assiduidade dos alunos e em projectos de desenvolvimento sócio-educativo.
 
@@ -559,7 +756,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 125.º — Comissão pedagógica
+Artigo 125.º
+
+Comissão pedagógica
 
 1 - ...
 
@@ -581,7 +780,9 @@ e) [Anterior alínea d).]
 
 5 - ...
 
-###### Artigo 130.º — Composição
+Artigo 130.º
+
+Composição
 
 1 - ...
 
@@ -611,7 +812,9 @@ m) ...
 
 2 - ...
 
-###### Artigo 131.º — Funcionamento
+Artigo 131.º
+
+Funcionamento
 
 1 - O Conselho Coordenador reúne pelo menos uma vez por ano escolar e sempre que convocado pelo seu presidente.
 
@@ -619,7 +822,9 @@ m) ...
 
 3 - ...
 
-###### Artigo 139.º — Condições de exercício de funções
+Artigo 139.º
+
+Condições de exercício de funções
 
 1 - Sem prejuízo do disposto no presente diploma, o regulamento interno fixa, para todos os cargos em que não esteja fixada a gratificação, o número de horas de serviço semanal, da respectiva componente não lectiva, a atribuir a cada cargo de coordenação existente na unidade orgânica.
 
@@ -643,7 +848,9 @@ c) ...
 
 8 - O disposto no número anterior aplica-se ainda à gratificação prevista para o cargo de director do centro de formação das associações de escolas.
 
-###### Artigo 143.º — Aplicação de legislação
+Artigo 143.º
+
+Aplicação de legislação
 
 A aplicação à Região Autónoma dos Açores do Regime Jurídico da Formação Contínua de Professores, aprovado pelo [Decreto-Lei n.º 249/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1992-676050), de 9 de Novembro, com as adaptações que lhe foram introduzidas pela [Lei n.º 60/93](https://diariodarepublica.pt/dr/detalhe/lei/60-1993-324485), de 20 de Agosto, e pelos Decretos-Leis n.os [274/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1994-621539), de 28 de Outubro, [207/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1996-179307), de 2 de Novembro, [155/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1999-331178), de 10 de Maio, e [15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), de 19 de Janeiro, faz-se com as seguintes adaptações:
 
@@ -667,11 +874,11 @@ O regime de criação, autonomia e gestão das unidades orgânicas do sistema ed
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de Março de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 30 de Março de 2010.**
+Assinado em Angra do Heroísmo em 30 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

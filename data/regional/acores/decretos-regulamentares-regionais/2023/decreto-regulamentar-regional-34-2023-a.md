@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22900/0008800101.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/34/2023/11/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2023-224797145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7906a0c33404d5812a2d37f1030bbbfd51294f367fbbf5a6276c429227936c1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f95b5ea2e978ff80e29af1549fdf66bfb34ac358e2f1bb770a5a98ab73bf75b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ilha do Corvo
-- Unidade de Saúde da ILHA do Corvo
 - Orgânica
 - Quadro de Pessoal
 - Serviço Regional de Saúde
-- Açores
+- Unidade de Saúde da ILHA do Corvo
 relationships:
 - type: cites
   target: eli:http://da
@@ -113,16 +113,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/20/2010/11/19/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/20/2010/11/19/a/dre
+- type: cites
+  target: pt:dre:128355822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203457551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70064737:por
+  label: null
+  source: null
 article_structure:
-  article_count: 49
+  article_count: 43
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:58Z'
   warnings: []
   errors: []
 ---
@@ -161,11 +209,15 @@ Os artigos 1.º, n.º 4, 9.º, 11.º, n.º 2, 12.º, n.º 1, alínea j), e n.º 
 
 4 - A coordenação, orientação e avaliação do funcionamento da USICorvo compete à direção regional competente em matéria da saúde e à Inspeção Regional de Saúde.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 O conselho de administração é integrado por um presidente e dois vogais, todos com funções executivas, nomeados pelo membro do Governo Regional com competência em matéria de saúde nos termos previstos no presente diploma.
 
-###### Artigo 11.º — Vogais executivos
+Artigo 11.º
+
+Vogais executivos
 
 1 - [...]
 
@@ -175,7 +227,9 @@ O conselho de administração é integrado por um presidente e dois vogais, todo
 
 4 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -211,7 +265,9 @@ m) [...]
 
 4 - Em situação de ausência ou impedimento da maioria dos membros do conselho de administração, pode o membro do Governo Regional com competência em matéria de saúde exercer as competências previstas no n.º 1 ao abrigo de competência tutelar substitutiva.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -225,23 +281,29 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 As receitas e as despesas da USICorvo são classificadas, orçamentadas e contabilizadas segundo o normativo contabilístico em vigor, o SNC-AP.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - A gestão orçamental da USICorvo está sujeita às regras definidas em termos de execução orçamental pelo SNC-AP e pelos princípios orientadores da direção regional competente em matéria da saúde, à qual compete, igualmente, acompanhar a respetiva execução.
 
 2 - Os orçamentos e alterações orçamentais são submetidos a apreciação da direção regional competente em matéria da saúde e aprovados nos termos da legislação em vigor.
 
-## ANEXO — (referido no n.º 2 do artigo 1.º do [Decreto Regulamentar Regional n.º 20/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2010-308713), de 19 de novembro)
+ANEXO
+
+(referido no n.º 2 do artigo 1.º do [Decreto Regulamentar Regional n.º 20/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2010-308713), de 19 de novembro)
 
 [...]
 
-|  |  |  |
-| --- | --- | --- |
 | Número de lugares | Designação dos cargos | Remunerações |
+| --- | --- | --- |
+|  |  |  |
 |  | Pessoal dirigente |  |
 | 1 | Presidente do conselho de administração... | (a) |
 | 2 | Vogal executivo... | (b) |
@@ -267,11 +329,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 26 de outubro de 2023.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 22 de novembro de 2023.**
+Assinado em Angra do Heroísmo em 22 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -759,9 +821,9 @@ O pessoal do quadro de ilha do Corvo, afeto ao Posto de Saúde do Corvo, extinto
 
 Quadro de pessoal dirigente e de chefia
 
-|  |  |  |
-| --- | --- | --- |
 | Número de lugares | Designação dos cargos | Remunerações |
+| --- | --- | --- |
+|  |  |  |
 |  | Pessoal dirigente |  |
 | 1 | Presidente do conselho de administração... | (a) |
 | 2 | Vogal executivo... | (b) |
@@ -776,3 +838,5 @@ Quadro de pessoal dirigente e de chefia
 (c) De acordo com o n.º 5 do artigo 30.º do presente diploma.
 
 (d) De acordo com o [Decreto Regulamentar Regional n.º 11/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2001-644159), de 10 de setembro, alterado pelo [Decreto Regulamentar Regional n.º 6/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), de 6 de abril.
+
+117090339

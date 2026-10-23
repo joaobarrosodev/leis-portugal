@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/29/2025/12/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2025-989749712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c902fbccd5c29c25a888d6f3c14f28bce67829b9f95257a9befbc225210f0cfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13bd8155d6539a76ee6311d9a01fb5b60df80ad358018458811ca71944eb714b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Regulamentação de Atos Legislativos
-- Carreira Profissional
-- Bombeiro
-- Quadro de Pessoal
 - Açores
+- Bombeiro
+- Carreira Profissional
 - Conselho Regional de Bombeiros
+- Proteção Civil
+- Quadro de Pessoal
+- Regulamentação de Atos Legislativos
 - SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/2024/11/29/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/13/2024/11/29/a/dre
+- type: cites
+  target: pt:dre:898378512:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:12Z'
   warnings: []
   errors: []
 ---
@@ -203,11 +207,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem pr
 
 Aprovado em Conselho do Governo Regional, em Vila do Corvo, em 3 de dezembro de 2025.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 17 de dezembro de 2025.**
+Assinado em Angra do Heroísmo em 17 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -220,6 +224,10 @@ Para acederem ao apoio extraordinário anual, previsto no artigo 4.º, devem ser
 | Quadro/carreira | Regras de serviço operacional |
 | --- | --- |
 | Elementos de comando | 1 - O serviço operacional dos elementos de comando dos corpos de bombeiros voluntários consiste no exercício das funções de organização, comando, coordenação e definição estratégica, nomeadamente:a) Organizar o corpo de bombeiros, assegurando a gestão interna de meios humanos e materiais;b) Comandar as operações e atividades, assumindo o comando das operações de socorro e das outras missões do corpo de bombeiros;c) Coordenar as ações internas e externas do corpo de bombeiros, promovendo a articulação entre o corpo de bombeiros e entidades externas;d) Definir estratégias operacionais, objetivos e missões, garantindo a eficácia do planeamento e da ação operacional.2 - Aos elementos de comando compete, igualmente, ministrar e receber instrução.3 - Os elementos de comando estão obrigados a cumprir um mínimo de 200 horas de serviço operacional, por ano, das quais, no mínimo, 160 horas correspondem às atividades previstas no n.º 1 e, no mínimo, 40 horas correspondem à atividade de instrução recebida ou ministrada prevista no n.º 2. |
-| Elementos oficiais bombeiros | 1 - O serviço operacional dos elementos integrados na carreira de oficial bombeiro consiste no exercício das funções de comando, de chefia, bem como nas atividades de estado-maior relativas às seguintes áreas:a) Planeamento, operações e informações;b) Pessoal e instrução;c) Logística e meios especiais;d) Comunicações.2 - Além do serviço previsto no número anterior, o oficial bombeiro efetua serviço operacional nas atividades de socorro, piquete, simulacro e exercício previstas nas alíneas a), b) e c) do n.º 1 das regras de serviço operacional previstas para os bombeiros voluntários.3 - Ao oficial bombeiro compete, igualmente, ministrar e receber instrução.4 - O oficial bombeiro está obrigado a cumprir um mínimo de 200 horas de serviço operacional, por ano, das quais, no mínimo, 160 horas correspondem às atividades previstas nos n.<sup>os</sup>1 e 2 e, no mínimo, 40 horas correspondem à atividade de instrução recebida ou ministrada, prevista no n.º 3. |
+| Elementos oficiais bombeiros | 1 - O serviço operacional dos elementos integrados na carreira de oficial bombeiro consiste no exercício das funções de comando, de chefia, bem como nas atividades de estado-maior relativas às seguintes áreas:a) Planeamento, operações e informações;b) Pessoal e instrução;c) Logística e meios especiais;d) Comunicações.2 - Além do serviço previsto no número anterior, o oficial bombeiro efetua serviço operacional nas atividades de socorro, piquete, simulacro e exercício previstas nas alíneas a), b) e c) do n.º 1 das regras de serviço operacional previstas para os bombeiros voluntários.3 - Ao oficial bombeiro compete, igualmente, ministrar e receber instrução.4 - O oficial bombeiro está obrigado a cumprir um mínimo de 200 horas de serviço operacional, por ano, das quais, no mínimo, 160 horas correspondem às atividades previstas nos n.os1 e 2 e, no mínimo, 40 horas correspondem à atividade de instrução recebida ou ministrada, prevista no n.º 3. |
 | Bombeiro voluntário | 1 - O serviço operacional dos elementos integrados na carreira de bombeiro consiste no exercício das seguintes atividades:a) Socorro: a atividade de carácter de emergência, de socorro às populações, desenvolvida em caso de incêndios, inundações, desabamentos e, de um modo geral, em caso de acidentes, de socorro a náufragos, de buscas subaquáticas e de urgência pré-hospitalar;b) Piquete: a atividade de prontidão integrando forças de prevenção e reserva preparadas para ocorrer a situações de emergência;c) Simulacro ou exercício: a atividade de treino e simulação de ocorrências, com vista a melhorar a proficiência dos bombeiros e avaliar procedimentos e planos;d) Instrução: atividade destinada a manter os níveis de eficácia individual e coletiva do pessoal incluindo adquirir ou ministrar conhecimentos no âmbito da missão do corpo de bombeiros.2 - O bombeiro está obrigado a cumprir um mínimo de 200 horas de serviço operacional, por ano, das quais, no mínimo, 160 horas correspondem às atividades previstas nas alíneas a), b) e c) do n.º 1 e, no mínimo, 40 horas correspondem à atividade de instrução, prevista alínea d) do n.º 1. |
 | Bombeiro especialista | 1 - O serviço operacional dos elementos integrados na carreira de bombeiro especialista consiste no exercício das atividades específicas da sua área funcional, para os quais esteja habilitado, com exclusão dos bombeiros especialistas músicos ou fanfarristas, aos quais está vedado o serviço operacional.2 - O bombeiro especialista está obrigado a cumprir um mínimo de 75 horas de serviço operacional, por ano, das quais, no mínimo, 50 correspondem às atividades previstas nas alíneas a), b) e c) do n.º 1 das regras de serviço operacional previstas para os bombeiros voluntários e, no mínimo, 25 correspondem a instrução, ministrada ou recebida, prevista na alínea d) do n.º 1 das regras de serviço operacional previstas para os bombeiros voluntários. |
+
+119896131
+
+.Tbl2 { min-height:26px; } .Tbl3 { text-align:center; } .Tbl4 { min-height:187px; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl7 { min-height:183px; } .Tbl8 { min-height:171px; } .Tbl9 { text-align:justify; text-align-last:justify; } .Tbl10 { min-height:101px; }

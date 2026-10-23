@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/740/2007/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-2007-639300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ff00635ebd1324a5af821785742694afec98548121dae01062339a7df084f92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1aa37d0b54fd337779d65462fc2ab2da5ca9ee42279393021e4e9e0a84fd340f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/595/1994/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/595/1994/07/13/p/dre
+- type: cites
+  target: pt:dre:300250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:38Z'
   warnings: []
   errors: []
 ---
@@ -140,6 +152,6 @@ d) 20% aos demais caçadores, conforme é referido na alínea d) do citado artig
 
 8.º É revogada a [Portaria n.º 595/94](https://diariodarepublica.pt/dr/detalhe/portaria/595-1994-300250), de 13 de Julho.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 1 de Junho de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 1 de Junho de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11700/39153916.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11700/39153916.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11700/39153916.pdf)

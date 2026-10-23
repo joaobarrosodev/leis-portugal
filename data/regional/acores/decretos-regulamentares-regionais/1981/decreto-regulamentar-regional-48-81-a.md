@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/24500/28212822.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1981-562420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d840448e9e838c06c6b7c90b8880740a31a20d2440cd962848d04d7d8da6cf81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8aab8e4155c5ab5b02cc29ab2ead51fa89b1f2fe76c4d5b46e3907d15e7f7ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ensino Preparatório
+- Ensino Superior
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:223192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:226596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580289:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223192:por
+  label: "Revogado pelo DLR.16/98/A.1998.10.23.ALR-RAA, DR.IS-A [257] de 06/Nov/1998s\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-1998-223192
+  date: '1998-10-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:34Z'
   warnings: []
   errors: []
 ---
@@ -97,46 +126,46 @@ Assim, ao abrigo do n.º 1 do artigo 7.º do [Decreto-Lei n.º 338/79](https://d
 
 O Governo Regional, em execução do artigo 2.º do [Decreto Regional n.º 12/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1981-580289), de 9 de Julho, decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os docentes efectivos dos ensinos preparatório e secundário colocados por nomeação ou transferência e os docentes portadores de habilitação própria, quando colocados pela 1.ª fase ou 2.ª fase de concurso, a que se refere o [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, que tenham de deslocar-se na Região Autónoma dos Açores para os estabelecimentos de ensino das ilhas de Santa Maria, São Jorge, Graciosa, Pico ou Flores e concelho de Nordeste terão direito a passagens para si, seu cônjuge e filhos menores de 18 anos, a ajudas de custo durante trinta dias e ao transporte de bagagens, via marítima, até ao limite de 2 m3 para o próprio e mais 1 m3 por cada familiar.
+Artigo 1.º - 1 - Os docentes efectivos dos ensinos preparatório e secundário colocados por nomeação ou transferência e os docentes portadores de habilitação própria, quando colocados pela 1.ª fase ou 2.ª fase de concurso, a que se refere o [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, que tenham de deslocar-se na Região Autónoma dos Açores para os estabelecimentos de ensino das ilhas de Santa Maria, São Jorge, Graciosa, Pico ou Flores e concelho de Nordeste terão direito a passagens para si, seu cônjuge e filhos menores de 18 anos, a ajudas de custo durante trinta dias e ao transporte de bagagens, via marítima, até ao limite de 2 m3 para o próprio e mais 1 m3 por cada familiar.
 
 2 - Aos docentes colocados pela 3.ª fase de concurso, a que se refere o artigo 7.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), aplicam-se as disposições previstas no número anterior, desde que a respectiva colocação seja enquadrada no que prevê a alínea b) do n.º 1 do artigo 24.º do referido decreto-lei.
 
-###### Art. 2.º Terão igualmente direito ao consignado no artigo anterior, independentemente da ilha onde são colocados, os docentes contratados plurianualmente para efeitos de profissionalização em exercício.
+Art. 2.º Terão igualmente direito ao consignado no artigo anterior, independentemente da ilha onde são colocados, os docentes contratados plurianualmente para efeitos de profissionalização em exercício.
 
-###### Art. 3.º - 1 - Os docentes que, em virtude de colocação ou contrato, tenham de deslocar-se para a Região ou desta para o exterior não têm direito à requisição de passagem e de bagagem, nem ao abono de ajudas de custo.
+Art. 3.º - 1 - Os docentes que, em virtude de colocação ou contrato, tenham de deslocar-se para a Região ou desta para o exterior não têm direito à requisição de passagem e de bagagem, nem ao abono de ajudas de custo.
 
 2 - Exceptuam-se do disposto no número anterior os docentes a quem já tenha sido concedida passagem para a Região e que por força das disposições legais, então em vigor, lhes assista o direito de regresso.
 
-###### Art. 4.º O disposto no artigo anterior não se aplica às situações em que, por necessidades de serviço, seja necessário requisitar pessoal docente fora da Região, ficando contudo a requisição dependente de despacho do Secretário Regional da Educação e Cultura, proferido caso a caso.
+Art. 4.º O disposto no artigo anterior não se aplica às situações em que, por necessidades de serviço, seja necessário requisitar pessoal docente fora da Região, ficando contudo a requisição dependente de despacho do Secretário Regional da Educação e Cultura, proferido caso a caso.
 
-###### Art. 5.º Os encargos resultantes das deslocações contempladas neste diploma serão custeados pela escola em que for feita a colocação ou contrato.
+Art. 5.º Os encargos resultantes das deslocações contempladas neste diploma serão custeados pela escola em que for feita a colocação ou contrato.
 
-###### Art. 6.º A autorização para a requisição de transporte é solicitada à Direcção Regional de Administração Escolar pelo docente, que, para o efeito, indicará as pessoas de família que o acompanharam desde logo e aquelas que o deverão seguir dentro do prazo não superior a sessenta dias.
+Art. 6.º A autorização para a requisição de transporte é solicitada à Direcção Regional de Administração Escolar pelo docente, que, para o efeito, indicará as pessoas de família que o acompanharam desde logo e aquelas que o deverão seguir dentro do prazo não superior a sessenta dias.
 
-###### Art. 7.º - 1 - As disposições do artigo 1.º, acrescidas da ilha do Corvo e concelho da Povoação, são igualmente aplicáveis aos professores do ensino primário e da Telescola cuja colocação seja superior a cento e oitenta dias, sendo os respectivos encargos suportados pelas direcções escolares.
+Art. 7.º - 1 - As disposições do artigo 1.º, acrescidas da ilha do Corvo e concelho da Povoação, são igualmente aplicáveis aos professores do ensino primário e da Telescola cuja colocação seja superior a cento e oitenta dias, sendo os respectivos encargos suportados pelas direcções escolares.
 
 2 - Se a colocação inicialmente for por tempo inferior, mas se por razões supervenientes o professor atingir ou ultrapassar os cento e oitenta dias, terá igualmente direito ao consignado no número anterior.
 
 3 - O lapso de tempo acima indicado poderá ser cumprido em ilhas diferentes, havendo neste caso direito a segunda passagem, mas não a ajudas de custo.
 
-###### Art. 8.º Não envolvem quaisquer encargos para a Secretaria Regional as colocações feitas ao abrigo da alínea h) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
+Art. 8.º Não envolvem quaisquer encargos para a Secretaria Regional as colocações feitas ao abrigo da alínea h) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
-###### Art. 9.º - 1 - Haverá lugar à reposição das ajudas de custo a que se refere o artigo 1.º se o docente solicitar a sua exoneração ou rescisão antes de 31 de Julho do ano lectivo a que a colocação ou contrato respeita.
+Art. 9.º - 1 - Haverá lugar à reposição das ajudas de custo a que se refere o artigo 1.º se o docente solicitar a sua exoneração ou rescisão antes de 31 de Julho do ano lectivo a que a colocação ou contrato respeita.
 
 2 - Igualmente haverá lugar à reposição sempre que o docente no ano a que a colocação diz respeito der 5 ou mais faltas injustificadas ou se ausentar da ilha ou zona por mais de sessenta dias, por atestado médico ou licença por doença.
 
 3 - O disposto na parte final do número anterior poderá não ser aplicado em casos devidamente justificados e fundamentados reconhecidos como tal por despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 10.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários Regionais das Finanças e da Educação e Cultura.
+Art. 10.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários Regionais das Finanças e da Educação e Cultura.
 
-###### Art. 11.º Este diploma entra em vigor na data da sua publicação.
+Art. 11.º Este diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 22 de Julho de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Setembro de 1981.**
+Assinado em Angra do Heroísmo em 11 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

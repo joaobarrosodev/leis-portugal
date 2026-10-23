@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/1994/08/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1994-223063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f78b6fcd5f01862a6cb529b29682ec5ba5ff34eb5b2c5b71cc8d48ad32334e2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40aa72ddf63a6b2c4d078cf4fffedcc65a73c6080db7141ab588fd643bac95fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Educador de Infância
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:31Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +126,7 @@ Assim:
 
 A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea i) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 12.º, 13.º, 14.º, 16.º, 17.º, 18.º, 21.º, 22.º e 23.º do [Decreto Legislativo Regional n.º 23/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1988-373600), de 5 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 4.º, 5.º, 6.º, 7.º, 8.º, 10.º, 12.º, 13.º, 14.º, 16.º, 17.º, 18.º, 21.º, 22.º e 23.º do [Decreto Legislativo Regional n.º 23/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1988-373600), de 5 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Finalidades
 
@@ -238,14 +262,14 @@ b) De acordo com outros critérios definidos pelo conselho escolar.
 
 Os direitos e deveres dos educadores de infância são os previstos no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, com as adaptações constantes do [Decreto Legislativo Regional n.º 17/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-566032), de 6 de Novembro.
 
-###### Art. 2.º O presente diploma entra em vigor na data da sua publicação.
+Art. 2.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 18 de Maio de 1994.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 24 de Junho de 1994.**
+Assinado em Angra do Heroísmo em 24 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

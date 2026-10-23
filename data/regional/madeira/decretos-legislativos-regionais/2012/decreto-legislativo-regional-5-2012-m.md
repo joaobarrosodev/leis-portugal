@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2012/03/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dbeef8def675a4f60a20cf6c45516364a0a306cd2aebfe791d289aed7d72eef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea4e638c9ad14dfcc048f3e9c9da976813a932f12d3bdef986ff28130115af11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Quadro Interdepartamental Regional
-- Reestruturação de Serviços
+- Administração Regional
 - Aquisição de Bens e Serviços
 - Associação de Municípios
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
-- Gestão Financeira
-- Governo Regional
-- Direcção Regional das Pescas
+- Banca
+- Catástrofe
+- Cobrança de Dívidas
+- Conselho do Governo Regional
 - Contenção de Despesas
 - Contrato de Prestação de Serviços
 - Contrato Programa
@@ -86,48 +86,106 @@ subjects:
 - Definição de Competências
 - Derrama
 - Despesas Públicas
-- Vice-presidência do Governo Regional
+- Direcção Regional das Pescas
 - Direcção Regional do Património
-- Secretaria Regional do Plano e Finanças
 - Dívida Pública
 - Empresa Pública Regional
 - Feader
-- Fiscalização
-- Catástrofe
-- Fundo de Gestão para os Programas da Formação Profissional
-- Fundos Autónomos
-- Presidente do Governo Regional
-- Recrutamento de Pessoal
-- Conselho do Governo Regional
-- IHM
-- Indemnização Compensatória
-- Banca
-- Inspecção Regional de Finanças
-- Instituto de Desenvolvimento Regional
 - Finanças Regionais
+- Financiamento
+- Fiscalização
 - FSE
 - Fundo de Gestão dos Programas da DRP
+- Fundo de Gestão para os Programas da Formação Profissional
+- Fundos Autónomos
+- Gestão Financeira
+- Governo Regional
+- IHM
+- Indemnização Compensatória
+- Inspecção Regional de Finanças
+- Instituto de Desenvolvimento Regional
+- IRC
+- Madeira.região Autónoma
 - Oneração de Imóveis
 - Orçamento Regional
 - Piddac
-- IRC
-- Madeira.região Autónoma
+- Presidente do Governo Regional
+- Quadro Interdepartamental Regional
 - Receita
 - Receita Própria
-- Cobrança de Dívidas
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
 - Remuneração
+- Secretaria Regional do Plano e Finanças
 - Secretário Regional do Ambiente e Recursos Naturais
 - Secretário Regional do Plano e Finanças
-- Administração Regional
 - Subsídio
 - Transferência de Verbas
-- Autarquia Local
 - Tributação
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:114866946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400995:por
+  label: "Alterados os arts. 6º, 9º e 11º e substituidos os mapas I a VI, VIII e IX a que se refere o art. 1º, pelo DLR.41-A/2012/M.28.12.2012.AL-RAM,\
+    \ DR.IS [251-Supl] de 28.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/41-a-2012-400995
+  date: '2012-12-28'
+- type: amended_by
+  target: pt:dre:189511:por
+  label: "Alterados os arts. 4º e 6º do DLR 14/2010/M, de 05-ago, na redação do presente diploma, pelo DLR.42/2012/M.31.12.2012.AL-RAM,\
+    \ DR.IS [252] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:498484:por
+  label: "Alterado o artigo 50.º-A (mantido em vigor pelo presente diploma) do DLR 2/2011/M de 10-jan, pelo DLR.28/2013/M.06.08.2013.AL-RAM,\
+    \ DR.IS [150] de 06.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2013-498484
+  date: '2013-08-06'
+- type: amended_by
+  target: pt:dre:55021027:por
+  label: Alterados os arts 4.º e 6.º do DLR 14/2010/M, de 05-ago, na redação do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 5-A/2014/M - Diário da República n.º 140/2014, 1º Suplemento, Série I de 2014-07-23 DR.IS [151], que o republica
+    em anexo.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-a-2014-55021027
+  date: '2014-07-23'
+- type: amended_by
+  target: pt:dre:66012654:por
+  label: Mantida em vigor para a RAM a derrama regional, aprovada pelos arts 3.º a 6.º do DLR 14/2010/M de 05-ago, alterado
+    pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I
+    de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2014-66012654
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Prorrogado o regime da contribuição sobre o setor bancário para a RAM, aprovado pelos arts 17.º, 18.º, 19.º (na redação
+    do presente diploma), 20.º, 21.º, 22.º, 23.º e 24.º do DLR 2/2011/M de 10-jan, pelo(a) Decreto Legislativo Regional n.º
+    17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Prorrogado, com efeitos desde 01.01.2017, o regime da contribuição sobre o setor bancário para a Região Autónoma
+    da Madeira aprovado pelo art. 19.º do DLR 2/2011/M de 10-jan, na redação do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Alterado, com efeitos desde 01.01.2018, o art. 43.º do DLR 28/2006/M de 19-jul, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:114866946:por
+  label: Alterado, com efeitos a 01.01.2018, o art. 7.º do DLR 34/2008/M, de 14-ago, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2018-114866946
+  date: '2018-03-15'
 - type: cites
   target: 'eli:http:'
   label: null
@@ -172,16 +230,215 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2010/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2010/06/16/p/dre
+- type: cites
+  target: pt:dre:146185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693844:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:189511:por
+  label: "Revogado a partir de 31.12.2012 (nos termos do nº 7 do art. 60º e do nº 2 do art. 62º) o art. 37º do presente diploma\
+    \ e extinto o Fundo de Gestão para os Programas da Direção Regional de Pescas criado pelo art. 30º do DLR 45/2008/M, de\
+    \ 31-dez e mantido em vigor pelo mesmo art. 37º, pelo DLR.42/2012/M.31.12.2012.AL-RAM, DR.IS [252] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
 article_structure:
-  article_count: 59
+  article_count: 57
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:37Z'
   warnings: []
   errors: []
 ---
@@ -344,7 +601,7 @@ b) Aceitar, como dação em cumprimento, bens imóveis, bens móveis, valores mo
 
 1 - Sobre a parte do lucro tributável superior a (euro) 1 500 000 sujeito e não isento de imposto sobre o rendimento das pessoas coletivas apurado pelos sujeitos passivos enquadrados no n.º 1 do artigo 20.º da [Lei Orgânica n.º 1/2010](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2010-612643), de 29 de março, que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, incidem as taxas adicionais constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 2 - O quantitativo da parte do lucro tributável que exceda (euro) 1 500 000, quando superior a (euro) 10 000 000, é dividido em duas partes: uma, igual a (euro) 8 500 000, à qual se aplica a taxa de 3 %; outra, igual ao lucro tributável que exceda (euro) 10 000 000, à qual se aplica a taxa de 5 %.
 
@@ -352,7 +609,9 @@ b) Aceitar, como dação em cumprimento, bens imóveis, bens móveis, valores mo
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -366,13 +625,15 @@ c) ...
 
 3 - Às regras de pagamento da derrama regional omissas no presente artigo são aplicáveis as regras de pagamento de imposto sobre o rendimento das pessoas coletivas, com as necessárias adaptações.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
 2 - O valor dos pagamentos adicionais por conta devidos nos termos da alínea a) do n.º 1 do artigo 5.º do presente diploma é igual ao montante resultante da aplicação das taxas previstas na tabela seguinte sobre a parte do lucro tributável superior a (euro) 1 500 000 relativo ao período de tributação anterior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 3 - O quantitativo da parte do lucro tributável que exceda (euro) 1 500 000, quando superior a (euro) 10 000 000, é dividido em duas partes: uma, igual a (euro) 8 500 000, à qual se aplica a taxa de 2,5 %; outra, igual ao lucro tributável que exceda (euro) 10 000 000, à qual se aplica a taxa de 4,5 %.
 
@@ -906,11 +1167,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de março de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 21 de março de 2012.**
+Assinado em 21 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -920,7 +1181,7 @@ Receitas da Região
 
 [artigo 1.º, alínea a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 MAPA II
 
@@ -928,7 +1189,7 @@ Despesas por departamentos regionais e capítulos
 
 [artigo 1.º, alínea a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 MAPA III
 
@@ -936,7 +1197,7 @@ Despesas por classificação funcional
 
 [artigo 1.º, alínea a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 MAPA IV
 
@@ -944,7 +1205,7 @@ Despesas por grandes agrupamentos económicos
 
 [artigo 1.º, alínea a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 MAPA V
 
@@ -954,7 +1215,7 @@ Receita global dos serviços, institutos e fundos autónomos
 
 [artigo 1.º, alínea a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 MAPA VI
 
@@ -964,7 +1225,7 @@ Despesa global dos serviços, institutos e fundos autónomos
 
 [artigo 1.º, alínea a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 MAPA VII
 
@@ -972,7 +1233,7 @@ Despesas dos serviços, institutos e fundos autónomos por classificação funci
 
 [artigo 1.º, alínea a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 MAPA VIII
 
@@ -980,7 +1241,7 @@ Despesas dos serviços, institutos e fundos autónomos por grandes agrupamentos 
 
 [artigo 1.º, alínea a)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 MAPA IX
 
@@ -988,27 +1249,27 @@ Programação plurianual do investimento por programas, medidas e projetos
 
 Vice-Presidência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 Secretaria Regional do Plano e Finanças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 Secretaria Regional do Ambiente e Recursos Naturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 Secretaria Regional da Cultura, Turismo e Transportes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 Secretaria Regional dos Assuntos Sociais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 Secretaria Regional da Educação e Recursos Humanos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 MAPA XI
 
@@ -1016,7 +1277,7 @@ Finanças locais
 
 (artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
 
 MAPA XVII
 
@@ -1024,4 +1285,4 @@ Responsabilidades contratuais plurianuais dos serviços integrados e dos serviç
 
 [artigo 1.º, alínea c)]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06500/0155001621.pdf)

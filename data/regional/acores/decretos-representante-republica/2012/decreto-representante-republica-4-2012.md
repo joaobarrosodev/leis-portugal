@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decrepraa/4/2012/11/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-representante-republica-para-regiao-autonoma-acores/4-2012-191525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39ff66c65bf249f7b525517808bbfe6269a3628c10e73429e15657fa5afd9db6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d5686ca78f8f3481cd3680c77c20ec3480a05c34ab2129df52e5b4985d0d20c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,32 +70,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
+- Açores
 - Competitividade Empresarial
+- Governo Regional
+- Nomeação
 - Secretário Regional da Educação Ciência e Cultura
+- Secretário Regional da Saúde
 - Secretário Regional da Solidariedade Social
 - Secretário Regional dos Recursos Naturais
-- Subsecretário Regional da Presidência para as Relações Externas
-- Nomeação
-- Secretário Regional da Saúde
 - Secretário Regional dos Transportes e Turismo
-- Açores
+- Subsecretário Regional da Presidência para as Relações Externas
 - Vice-presidente do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:25345642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25345642:por
+  label: Exonerada a Secretária Regional da Solidariedade Social, Maria da Piedade Lima Lalanda Gonçalves Mano; o Secretário
+    Regional da Educação, Ciência e Cultura, Luiz Manuel Fagundes Duarte e o Secretário Regional dos Recursos Naturais, Luís
+    Nuno Ponte Neto de Viveiros, nomeados pelo presente diploma, pelo(a) Decreto do Representante da República para a Região
+    Autónoma dos Açores n.º 1/2014 - Diário da República n.º 129/2014, Série I de 2014-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-representante-republica-para-regiao-autonoma-acores/1-2014-25345642
+  date: '2014-07-08'
+- type: corrected_by
+  target: pt:dre:190624:por
+  label: "Retificado - onde se lê «Vice-Presidente do Governo, Emprego e Competitividade Empresarial» deve ler-se «Vice-Presidente\
+    \ do Governo Regional» e «Secretário Regional dos Transportes e Turismo» deve ler-se «Secretário Regional do Turismo e\
+    \ Transportes», pela DECL-RECT.72/2012.03.12.2012.PCM, DR.IS [233] de 03.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/72-2012-190624
+  date: '2012-12-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:17Z'
   warnings: []
   errors: []
 ---
@@ -120,8 +135,8 @@ Secretário Regional dos Recursos Naturais - Eng.º Luís Nuno Ponte Neto de Viv
 
 Subsecretário Regional da Presidência para as Relações Externas - Dr. Rodrigo Vasconcelos de Oliveira.
 
-**Assinado em Angra do Heroísmo, em 2 de novembro de 2012.**
+Assinado em Angra do Heroísmo, em 2 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/8-1979-383048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83828011d37bbf742964abd36655308c0210b33cd287f98d01c9b6c62d76e9c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b011d432b1fad07829baa4f579ba226d8bb442cc2749a75d3d6ec23e38a9a52a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Planeamento Regional
+- Plano Regional
+relationships:
+- type: cites
+  target: pt:dre:447097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468827:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:30Z'
   warnings: []
   errors: []
 ---
@@ -302,12 +317,12 @@ Plano - 1979
 
 Programas por sectores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08000/05580565.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08000/05580565.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08000/05580565.pdf)
 
 26 - Para facilidade de compaginação com o orçamento e de futuro contrôle da execução, indicam-se a seguir os departamentos governamentais encarregados da implementação dos programas previstos.
 
 Programas por depertamentos governamnetais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08000/05580565.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08000/05580565.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08000/05580565.pdf)
 
 Aprovado pela Assembleia Regional dos Açores em 12 de Dezembro de 1978. - O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.

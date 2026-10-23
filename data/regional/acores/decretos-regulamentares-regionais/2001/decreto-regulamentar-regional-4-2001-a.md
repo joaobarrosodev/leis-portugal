@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/131b00/34493457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2001/06/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2001-321891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92eb7e50cdb0d736ea4a9d7d3a7700908f50d2d0a36089060c7b1b271de97e39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c5bafc2585e8b512a5465d5a404958b8a7111efc338843d6aa580a7483911c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Secretaria Regional da Economia
+- Açores
+- Apoio ao Investimento
 - Desenvolvimento Regional
 - Direcção Regional de Turismo
-- Apoio ao Investimento
-- Projeto de Investimento
 - Incentivos ao Desenvolvimento
-- Sider
-- Açores
-- Sidet
 - Infraestrutura Turística
+- Projeto de Investimento
+- Secretaria Regional da Economia
+- Sider
+- Sidet
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:169491470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:634147:por
+  label: "Alterados os arts. 3º, 4º, 5º, 8º, 11º e 12º, pelo DRR.27/2002/A.2002.08.13.PG-RAA DR.IS-B [214] de 16/Set/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2002-634147
+  date: '2002-08-13'
+- type: amended_by
+  target: pt:dre:545184:por
+  label: "Alterados o art. 2º e os nºs 1º, 2º e 4º do anexo I e 2º do anexo III, pelo DRR.22/2003/A.2003.04.30.SRE-RAA DR.IS-B\
+    \ [122] de 27/Mai/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2003-545184
+  date: '2003-04-30'
+- type: amended_by
+  target: pt:dre:527199:por
+  label: "Alterados os arts. 3.&#186;, 4.&#186;, 5.&#186; (todos na redac&#231;&#227;o do DRR 27/2002/A, de 13-Ago), 6.&#186;,\
+    \ 7.&#186;, 8.&#186; (este &#250;ltimo na redac&#231;&#227;o do DRR 27/2002/A, de 13-Ago), 9.&#186;, 10.&#186;, 11.&#186;\
+    \ (este &#250;ltimo na redac&#231;&#227;o do DRR 27/2002/A, de 13-Ago), 14.&#186; e 17.&#186;, alterado o anexo I (este\
+    \ &#250;ltimo na redac&#231;&#227;o do DRR 22/2003/A, de 30-Abr) e aditado um anexo IV ao presente diploma, pelo DRR.27/2004/A.16.06.2004.PG-RAA,\
+    \ DR.IS-B [165] de 15.07.2004 republicando-o em anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2004-527199
+  date: '2004-06-16'
+- type: amended_by
+  target: pt:dre:489539:por
+  label: Alterados os arts. 3º, 4º, 5º, 10º, 11º, 12º, 13º, 15º, 17º e 19º, alterados os anexos I, III e IV, rectificados
+    o nº 1 do art. 16º, o nº 5 do art. 17º, a al. b) do nº 1 do art. 3º, al a) do nº 1 e al. c) do nº 6 do art. 8º, nºs 2
+    e 3 do art. 11º, nºs.1 e 2 do art. 13º, al. e) do nº 1 e al. c) do nº 2 do art. 14º, al. e) do nº 1 e nºs 3 e 4 do art.
+    15º, nº 1 do art. 16º, nº 2 do art. 18º. al. j) do nº 1 do art. 19º, al. b) do nº 4, nº 5 do art. 3º, nº 3 do art. 6º
+    e nºs 2 e 3 do art. 11º, revogadas a al. c) do art. 4º, o nº 9 do art. 5º, o nº 2 do art. 6º e o nº 5 do art. 9º, todos
+    do presente diploma, renumerado e republicado na redacção dos DRR 27/2002/A de 13-Ago, 22/2003/A de 30-Abr e 27/2004/A
+    de 15- Jul, bem como com as alterações ora introduzidas pelo DRR.25/2005/A.16.11.2005.PG-RAA, DR.IS-B [233] de 06.12.2005
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2005-489539
+  date: '2005-11-16'
+- type: amended_by
+  target: pt:dre:158507584:por
+  label: Diferida a obrigação de devolução das prestações vincendas até 30.06.2021 relativas a incentivo reembolsável concedido
+    no âmbito do SIDER - Sistema de Incentivos para o Desenvolvimento Regional dos Açores, Subsistema para o Desenvolvimento
+    do Turismo, regulamentado pelo presente diploma, aplicável por força do n.º 1 do art. 38.º do DLR 19/2007/A de 23-jul,
+    pelo(a) Decreto Legislativo Regional n.º 2/2021/A - Diário da República n.º 41/2021, Série I de 2021-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2021-158507584
+  date: '2021-03-01'
+- type: amended_by
+  target: pt:dre:169491470:por
+  label: Diferida a obrigação de devolução das prestações vincendas, até 30.06.2022, relativas ao incentivo reembolsável concedido
+    no âmbito do SIDER - Sistema de Incentivos para o Desenvolvimento Regional dos Açores, Subsistema para o Desenvolvimento
+    do Turismo pelo(a) Decreto Legislativo Regional n.º 28/2021/A - Diário da República n.º 156/2021, Série I de 2021-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2021-169491470
+  date: '2021-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1996/10/25/p/dre
   label: null
@@ -105,16 +152,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/4/1999/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/4/1999/04/01/p/dre
+- type: cites
+  target: pt:dre:138794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636761:por
+  label: "Revogado a partir de 24.07.2007 pelo DLR.19/2007/A.23.07.2007.AL-RAA, DR.IS [140] de 23.07.2007, sem prejuízo do\
+    \ disposto no nº 1 do art. 38º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2007-636761
+  date: '2007-07-23'
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:27Z'
   warnings: []
   errors: []
 ---
@@ -485,13 +566,13 @@ O presente diploma entra em vigor no primeiro dia útil seguinte ao da sua publi
 
 Aprovado em Conselho do Governo Regional, na Horta, em 22 de Março de 2001.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 15 de Maio de 2001.**
+Assinado em Angra do Heroísmo em 15 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO I — Metodologia para a determinação da pontuação dos projectos a que se refere a alínea a) do n.º 1 do artigo 3.º
 
@@ -531,11 +612,11 @@ A2 = autonomia financeira.
 
 2 - O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34493457.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34493457.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34493457.pdf)
 
 3 - O subcritério A2 será calculado tendo por base a noção de autonomia financeira, resultante do rácio capital próprio/activo líquido, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34493457.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34493457.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34493457.pdf)
 
 4 - Para o cálculo dos subcritérios referidos nos n.os 2 e 3, serão utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data da candidatura ou um balanço intercalar reportado a data posterior, desde que ratificado por um TOC ou por um ROC.
 

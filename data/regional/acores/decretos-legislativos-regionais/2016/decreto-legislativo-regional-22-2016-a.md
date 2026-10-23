@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/20600/0383003837.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2016/10/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2016-75606254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f22eb502075a8afc5ae994987c0acfdc4c5a15916ba4afa0a637c7e412365268
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45867539c64ff40fc3e1548a6bd153916ed4669dd3ab9e26b35d177cf1611db5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Açores
+- Artesanato
 - Certificado de Conformidade
-- Multa
-- Estabelecimento Comercial
-- Indicação Geográfica
-- Denominação de Origem
+- Certificado de Qualidade
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
+- Denominação de Origem
 - Desenvolvimento Regional
-- Artesanato
 - Empresa Pública Regional
+- Estabelecimento Comercial
 - Estabelecimento Industrial
 - Fiscalização
 - Gestor
+- Indicação Geográfica
 - Indústria
-- Simbolo de Identificação
 - Inspecção Regional das Actividades Económicas
-- Certificado de Qualidade
 - Marca Registada
+- Multa
 - Produto Açoriano
+- Produto Alimentar
 - Promoção de Produtos
 - Receita Própria
 - Regime Jurídico
-- Açores
-- Comércio
-- SOCIEDADE PARA O DESENVOLVIMENTO EMPRESARIAL DOS AÇORES EPER
+- Simbolo de Identificação
 - Sistema de Adesão ao Selo da Marca Açores
+- SOCIEDADE PARA O DESENVOLVIMENTO EMPRESARIAL DOS AÇORES EPER
 relationships:
 - type: cites
   target: celex:32000R1760
@@ -185,16 +185,60 @@ relationships:
   target: eli:http://data.europa.eu/e
   label: null
   source: http://data.europa.eu/e
+- type: cites
+  target: pt:dre:177788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69736207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:11Z'
   warnings: []
   errors: []
 ---
@@ -371,7 +415,7 @@ a) Confecionar pratos da gastronomia açoriana tradicional ou contemporânea, in
 
 b) Utilizar ou comercializar produtos com o selo da «Marca Açores», de acordo com seguinte medida de progressão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/20600/0383003837.pdf))](https://files.diariodarepublica.pt/1s/2016/10/20600/0383003837.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/20600/0383003837.pdf)
 
 ### CAPÍTULO IV — Candidaturas
 
@@ -537,11 +581,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 9 de setembro de 2016.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 14 de outubro de 2016.**
+Assinado em Angra do Heroísmo em 14 de outubro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

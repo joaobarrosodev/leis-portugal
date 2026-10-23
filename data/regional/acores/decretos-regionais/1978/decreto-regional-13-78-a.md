@@ -46,36 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1978-329187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c98f626929e4e6eae151bb7d63af4f5cabd2991989d719cd49879bb9653e60a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 869bccc98044a1486d14a2d0ac9e62ece9a64f7532a2d5afcaed4a3bd25bb49e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Comissão Regional de Turismo
+- Extinção de Serviços
+- Horta
+- ILHA de Santa Maria
+- ILHA de são Miguel
+- ILHA do Faial
+- ILHA Terceira
+- Repartição de Turismo
+- Transferência de Competências
+- Transferência de Pessoal
+- Transferência Patrimonial
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:173958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653691:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:52Z'
   warnings: []
   errors: []
 ---
@@ -104,16 +133,16 @@ Uma interpretação dos artigos 229.º da Constituição e 33.º do Estatuto lev
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º Na Região Autónoma dos Açores são extintas as Comissões Regionais de Turismo das ilhas de S. Miguel e Santa Maria, da ilha Terceira e da Horta.
+Artigo 1.º Na Região Autónoma dos Açores são extintas as Comissões Regionais de Turismo das ilhas de S. Miguel e Santa Maria, da ilha Terceira e da Horta.
 
-###### Art. 2.º As atribuições e competência, o pessoal, as receitas e todo o património bem como as responsabilidades das extintas Comissões Regionais de Turismo transitam para o Governo Regional, ficando afectos à Secretaria Regional dos Transportes e Turismo.
+Art. 2.º As atribuições e competência, o pessoal, as receitas e todo o património bem como as responsabilidades das extintas Comissões Regionais de Turismo transitam para o Governo Regional, ficando afectos à Secretaria Regional dos Transportes e Turismo.
 
 Aprovado pela Assembleia Regional dos Açores em 21 de Novembro de 1977.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.
 
-**Assinado em 26 de Julho de 1978.**
+Assinado em 26 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1981-389778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 550914f210a31fe77be9d1663352705792fc6bb46acef35cf43ba0aa0cfab6ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b46bd5e9f7e2ab2f2a287144474cbc0f3ac9875ad96d453d46385f916e73da7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Comissão Regional de Recenseamento
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:36Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +92,9 @@ Nestes termos:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º É criada, na dependência directa da Presidência do Governo, a Comissão Regional dos Recenseamentos (CRR), à qual incumbe exercer as funções de órgão superior de orientação e coordenação dos XII Recenseamento Geral da População e II Recenseamento Geral da Habitação, no âmbito da Região Autónoma dos Açores.
+Artigo 1.º É criada, na dependência directa da Presidência do Governo, a Comissão Regional dos Recenseamentos (CRR), à qual incumbe exercer as funções de órgão superior de orientação e coordenação dos XII Recenseamento Geral da População e II Recenseamento Geral da Habitação, no âmbito da Região Autónoma dos Açores.
 
-###### Art. 2.º A CRR é composta por um representante de cada uma das seguintes entidades:
+Art. 2.º A CRR é composta por um representante de cada uma das seguintes entidades:
 
 a) Secretaria Regional da Administração Pública;
 
@@ -110,9 +112,9 @@ g) Serviço Regional de Estatística;
 
 h) Câmaras municipais.
 
-###### Art. 3.º A presidência da CRR cabe ao Subsecretário Regional do Planeamento e Integração Europeia, devendo os vogais ser nomeados por despacho do titular dos respectivos departamentos, que indicarão, igualmente, um suplente.
+Art. 3.º A presidência da CRR cabe ao Subsecretário Regional do Planeamento e Integração Europeia, devendo os vogais ser nomeados por despacho do titular dos respectivos departamentos, que indicarão, igualmente, um suplente.
 
-###### Art. 4.º A competência da CRR abrange todos os actos ligados aos recenseamentos, cabendo-lhe em especial:
+Art. 4.º A competência da CRR abrange todos os actos ligados aos recenseamentos, cabendo-lhe em especial:
 
 a) Esclarecer os cidadãos acerca dos objectivos dos recenseamentos, designadamente através dos meios de comunicação social;
 
@@ -124,16 +126,16 @@ d) Propor às entidades competentes as medidas necessárias à superação de ob
 
 e) Coordenar a acção do Serviço Regional de Estatística, das câmaras municipais e das juntas de freguesia.
 
-###### Art. 5.º A CRR mantém-se em funções até serem publicados todos os resultados.
+Art. 5.º A CRR mantém-se em funções até serem publicados todos os resultados.
 
-###### Art. 6.º A CRR reúne ordinariamente uma vez por mês até ao termo da fase de execução de trabalhos de campo, trimestralmente até à saída dos resultados e extraordinariamente sempre que razões especiais o justifiquem.
+Art. 6.º A CRR reúne ordinariamente uma vez por mês até ao termo da fase de execução de trabalhos de campo, trimestralmente até à saída dos resultados e extraordinariamente sempre que razões especiais o justifiquem.
 
 Aprovado pelo Governo Regional em 6 de Janeiro de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Janeiro de 1981.**
+Assinado em Angra do Heroísmo em 16 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

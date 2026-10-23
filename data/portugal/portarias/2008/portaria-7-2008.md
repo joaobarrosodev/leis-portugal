@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00200/0000800018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/7/2008/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-2008-386800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29a3c65232ea632f7d0ca20cb715b866786ef5799e63def6b3ed129b30749f19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 092d768f6cced4dce88ccc1608b28af05a0250491060762b8bfc4174c2eba9d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixada
 - Consulado
+- Embaixada
 - Emolumento Consular
 - Ministério dos Negócios Estrangeiros
 relationships:
@@ -80,15 +80,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/2005/761/oj
 article_structure:
-  article_count: 102
+  article_count: 92
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:54Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +109,7 @@ Manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros, o seguint
 
 Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 4 do artigo 6.º do Código do Registo Civil - (euro) 140.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - Pelas convenções antenupciais - (euro) 100.
 
@@ -123,7 +123,7 @@ c) Registo de alteração de regime de bens.
 
 3 - O emolumento previsto no n.º 1 é devido à conservatória onde a convenção antenupcial é celebrada e registada, ainda que o registo de alteração do regime de bens seja lavrado noutra conservatória.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - Pelo processo e registo de casamento - (euro) 100.
 
@@ -147,17 +147,17 @@ h) O assento de casamento ou assento de transcrição de casamento lavrado no es
 
 3 - Os emolumentos previstos nos números anteriores são devidos à conservatória e posto consular organizador do processo de casamento, ainda que um ou mais dos restantes actos previstos no número anterior sejam promovidos ou efectuados noutras conservatórias.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - Pelo processo de alteração do nome - (euro) 200.
 
 2 - O emolumento previsto no número anterior pertence à Conservatória dos Registos Centrais.
 
-###### Artigo 18.º
+Artigo 18.º
 
 Pelos processos de justificação judicial e administrativa, quando requeridos pelos interessados - (euro) 30.
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - Por cada certidão de registo ou de documento - (euro) 16,50.
 
@@ -169,7 +169,7 @@ Pelos processos de justificação judicial e administrativa, quando requeridos p
 
 5 - ...
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - São gratuitos os seguintes actos e processos:
 
@@ -203,7 +203,7 @@ n) O registo previsto no n.º 1 do artigo 1.º do Decreto-Lei n.º 249/77, de 14
 
 3 - Para efeitos do disposto no número anterior, nos actos, processos e procedimentos requeridos por mais de uma pessoa, em que apenas um requerente beneficie da gratuitidade, é devido pelo requerente não beneficiário o pagamento de metade do emolumento previsto para acto, processo e procedimento.
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - Pela requisição de cada bilhete de identidade - (euro) 3.
 
@@ -217,7 +217,7 @@ n) O registo previsto no n.º 1 do artigo 1.º do Decreto-Lei n.º 249/77, de 14
 
 6 - Os emolumentos referidos nos n.os 2, 3 e 4 pertencem ao Instituto dos Registos e do Notariado.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - ...
 
@@ -233,7 +233,7 @@ n) O registo previsto no n.º 1 do artigo 1.º do Decreto-Lei n.º 249/77, de 14
 
 7 - ...
 
-###### Artigo 67.º
+Artigo 67.º
 
 1 - ...
 
@@ -263,7 +263,7 @@ f) Vistos concedidos a descendentes de titulares de autorização de residência
 
 g) Vistos de estada temporária e vistos de residência para actividades de investigação altamente qualificada.
 
-###### Artigo 90.º
+Artigo 90.º
 
 1 - ...
 
@@ -285,7 +285,7 @@ São cobrados os custos de transferência electrónica de fundos relativos a ped
 
 5.º A Portaria n.º 19/2003, de 11 de Janeiro, é republicada em anexo ao presente diploma, dele fazendo parte integrante.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 20 de Dezembro de 2007.**
+O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 20 de Dezembro de 2007.
 
 ## ANEXO — (republicação)
 

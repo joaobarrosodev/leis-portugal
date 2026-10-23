@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21900/0004500106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2024/11/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2024-896297375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 900192a66006c41952aec9d2e060f4be3a174011f2fe73490f5cc17a5b1718ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d458eb0c0a8f6045d2dda6b21fa7261ab1ad43267e6cc9cb26382ccab118f56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Concurso de Acesso
 - Definição de Competências
-- Secretaria Regional das Finanças Planeamento e Administração Pública
 - Orgânica
 - Período Experimental
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Açores
+- Secretaria Regional das Finanças Planeamento e Administração Pública
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência Patrimonial
@@ -123,16 +123,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/22/2008/05/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/22/2008/05/13/p/dre
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200595720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860106954:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:14/2022/A
+  label: Revoga, a partir de 13 de novembro de 2024, nos termos do artigo 7.º do presente diploma, o Decreto Regulamentar
+    Regional n.º 14/2022/A, de 2 de setembro, Diário da República n.º 170/2022, Série I
+  source: null
+  date: '2022-09-02'
 article_structure:
   article_count: 105
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 34
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:02Z'
   warnings: []
   errors: []
 ---
@@ -189,11 +255,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 3 de outubro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo, em 7 de novembro de 2024.**
+Assinado em Angra do Heroísmo, em 7 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -439,7 +505,9 @@ b) A Divisão de Recursos Humanos e Qualidade;
 
 c) O Centro de Documentação e Arquivo.
 
-###### Artigo 6.º — Divisão de Gestão Administrativa e Financeira
+###### Artigo 6.º
+
+##### Divisão de Gestão Administrativa e Financeira
 
 1 - À Divisão de Gestão Administrativa e Financeira, doravante designada por DGAF, compete:
 
@@ -491,7 +559,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DGAF é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 7.º — Divisão de Recursos Humanos e Qualidade
+###### Artigo 7.º
+
+##### Divisão de Recursos Humanos e Qualidade
 
 1 - À Divisão de Recursos Humanos e Qualidade, doravante designada por DRHQ, compete:
 
@@ -605,7 +675,9 @@ b) Núcleo de Suporte a Aplicações de Negócio;
 
 c) Núcleo de Suporte Técnico.
 
-###### Artigo 10.º — Divisão de Recursos Digitais e Comunicação
+###### Artigo 10.º
+
+##### Divisão de Recursos Digitais e Comunicação
 
 1 - À Divisão de Recursos Digitais e Comunicação, doravante designada por DRDC, compete:
 
@@ -701,7 +773,9 @@ a) Divisão de Estudos e Coordenação Patrimonial;
 
 b) Serviço de Gestão Patrimonial.
 
-###### Artigo 14.º — Divisão de Estudos e Coordenação Patrimonial
+###### Artigo 14.º
+
+##### Divisão de Estudos e Coordenação Patrimonial
 
 1 - À Divisão de Estudos e Coordenação Patrimonial, doravante designada por DECP, compete:
 
@@ -869,7 +943,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - O recrutamento para os cargos de chefe de divisão previstos no número anterior é efetuado nos termos do regime geral previsto no Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, podendo, também, ser feito de entre pessoal integrado na carreira técnica superior, proveniente da carreira específica de técnico contabilista, de acordo com o disposto no n.º 2 do artigo 4.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 22.º — Divisão de Tesouraria
+###### Artigo 22.º
+
+##### Divisão de Tesouraria
 
 1 - À Divisão de Tesouraria, doravante designada por DT, compete:
 
@@ -913,7 +989,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - Os serviços de caixa dependem diretamente da DT.
 
-###### Artigo 24.º — Divisão de Crédito Público, Fiscalidade e SPER
+###### Artigo 24.º
+
+##### Divisão de Crédito Público, Fiscalidade e SPER
 
 1 - À Divisão de Crédito Público, Fiscalidade e SPER, doravante designada por DCPFSPER, compete:
 
@@ -939,7 +1017,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DCPFSPER é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 25.º — Secção de Coordenação e Conferência Financeira
+###### Artigo 25.º
+
+#### Secção de Coordenação e Conferência Financeira
 
 1 - À Secção de Coordenação e Conferência Financeira, doravante designada por SCCF, compete:
 
@@ -1081,7 +1161,9 @@ a) Divisão de Sistemas de Incentivos;
 
 b) Divisão de Validação da Despesa, Acompanhamento e Controlo.
 
-###### Artigo 30.º — Divisão de Sistemas de Incentivos
+###### Artigo 30.º
+
+##### Divisão de Sistemas de Incentivos
 
 1 - À Divisão de Sistemas de Incentivos, doravante designada por DSI, compete:
 
@@ -1125,7 +1207,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DSI é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 31.º — Divisão de Validação da Despesa, Acompanhamento e Controlo
+###### Artigo 31.º
+
+##### Divisão de Validação da Despesa, Acompanhamento e Controlo
 
 1 - À Divisão de Validação da Despesa, Acompanhamento e Controlo doravante designada por DVDAC, compete:
 
@@ -1199,7 +1283,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A UAC é coordenada por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do dirigente máximo do serviço, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 33.º — Divisão do Comércio
+###### Artigo 33.º
+
+##### Divisão do Comércio
 
 1 - À Divisão do Comércio, doravante designada por DC, compete:
 
@@ -1231,7 +1317,9 @@ m) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 34.º — Divisão da Indústria e Recursos Geológicos
+###### Artigo 34.º
+
+##### Divisão da Indústria e Recursos Geológicos
 
 1 - À Divisão da Indústria e Recursos Geológicos, doravante designada por DIRG, compete:
 
@@ -1369,7 +1457,9 @@ a) Divisão de Apoio ao Investimento;
 
 b) Divisão de Apoio Financeiro.
 
-###### Artigo 39.º — Divisão de Apoio ao Investimento
+###### Artigo 39.º
+
+##### Divisão de Apoio ao Investimento
 
 1 - À Divisão de Apoio ao Investimento, doravante designada por DAI, compete:
 
@@ -1393,7 +1483,9 @@ i) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAI é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 40.º — Divisão de Apoio Financeiro
+###### Artigo 40.º
+
+##### Divisão de Apoio Financeiro
 
 1 - À Divisão de Apoio Financeiro, doravante designada por DAF, compete:
 
@@ -1455,7 +1547,9 @@ a) Divisão de Acompanhamento e Controlo;
 
 b) Divisão de Planeamento e Avaliação.
 
-###### Artigo 42.º — Divisão de Acompanhamento e Controlo
+###### Artigo 42.º
+
+##### Divisão de Acompanhamento e Controlo
 
 1 - À Divisão de Acompanhamento e Controlo, doravante designada por DAC, compete:
 
@@ -1487,7 +1581,9 @@ m) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 43.º — Divisão de Planeamento e Avaliação
+###### Artigo 43.º
+
+##### Divisão de Planeamento e Avaliação
 
 1 - À Divisão de Planeamento e Avaliação, doravante designada por DPA, compete:
 
@@ -1645,7 +1741,9 @@ b) Centro de Formação da Administração Pública dos Açores;
 
 c) Gabinete de Inovação e Organização Administrativa.
 
-###### Artigo 49.º — Divisão de Gestão de Recursos Humanos e Planeamento Organizacional
+###### Artigo 49.º
+
+##### Divisão de Gestão de Recursos Humanos e Planeamento Organizacional
 
 1 - À Divisão de Gestão de Recursos Humanos e Planeamento Organizacional, doravante designada por DGRHPO, compete:
 
@@ -1757,7 +1855,9 @@ a) A Divisão de Emprego Público e Negociação Coletiva;
 
 b) A Divisão de Apoio Jurídico e dos Assuntos Eleitorais.
 
-###### Artigo 53.º — Divisão de Emprego Público e Negociação Coletiva
+###### Artigo 53.º
+
+##### Divisão de Emprego Público e Negociação Coletiva
 
 1 - À Divisão de Emprego Público e Negociação Coletiva, doravante designada por DEPNC, compete:
 
@@ -1805,7 +1905,9 @@ u) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DEPNC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 54.º — Divisão de Apoio Jurídico e dos Assuntos Eleitorais
+###### Artigo 54.º
+
+##### Divisão de Apoio Jurídico e dos Assuntos Eleitorais
 
 1 - À Divisão de Apoio Jurídico e dos Assuntos Eleitorais, doravante designada por DAJAE, compete:
 
@@ -2063,7 +2165,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 6 - A DSEECR integra a Divisão de Estatísticas das Empresas.
 
-###### Artigo 65.º — Divisão de Estatísticas das Empresas
+###### Artigo 65.º
+
+##### Divisão de Estatísticas das Empresas
 
 1 - A Divisão de Estatísticas das Empresas, doravante designada por DEE, assegura, em colaboração com a Unidade de Planeamento, Difusão e Comunicação, a inventariação e satisfação das necessidades dos utilizadores e, em articulação com o INE, a conceção, o desenvolvimento, a análise, a integração e o controlo de qualidade de informação estatística, na área das empresas, bem como o apoio à sua difusão.
 
@@ -2137,7 +2241,9 @@ h) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 5 - A DSEDS integra a Divisão de Estatísticas Sociais.
 
-###### Artigo 67.º — Divisão de Estatísticas Sociais
+###### Artigo 67.º
+
+##### Divisão de Estatísticas Sociais
 
 1 - A Divisão de Estatísticas Sociais, doravante designada por DES, assegura, em colaboração com a Unidade de Planeamento, Difusão e Comunicação, a inventariação e satisfação das necessidades dos utilizadores e, em articulação com o INE, a conceção, o desenvolvimento, a análise, a integração e o controlo de qualidade de informação estatística, na área das estatísticas sociais, bem como o apoio à sua difusão.
 
@@ -2623,9 +2729,9 @@ O pessoal de tesouraria está integrado em carreiras subsistentes, sendo-lhe apl
 
 Quadro de pessoal dirigente, de chefia e de direção específica da Secretaria Regional das Finanças, Planeamento e Administração Pública
 
-| Número de lugares | Designação do cargo | Remuneração |
+| Número<br>de lugares | Designação do cargo | Remuneração |
 | --- | --- | --- |
-| Serviços Executivos | Serviços Executivos | Serviços Executivos |
+| Serviços Executivos |  |  |
 |  | Direção de Serviços Administrativos e dos Recursos Humanos |  |
 |  | Pessoal dirigente |  |
 | 1 | Diretor dos Serviços de Gestão e Recursos Humanos, cargo de direção intermédia de 1.º grau | (a) |
@@ -2695,11 +2801,11 @@ Quadro de pessoal dirigente, de chefia e de direção específica da Secretaria 
 | 1 | Chefe da Divisão de Estatísticas das Empresas, cargo de direção intermédia de 2.º grau | (a) |
 | 1 | Diretor dos Serviços de Estatísticas Demográficas e Sociais, cargo de direção intermédia de 1.º grau | (a) |
 | 1 | Chefe da Divisão de Estatísticas Sociais, cargo de direção intermédia de 2.º grau | (a) |
-| Serviços de controlo, auditoria e fiscalização | Serviços de controlo, auditoria e fiscalização | Serviços de controlo, auditoria e fiscalização |
+| Serviços de controlo, auditoria e fiscalização |  |  |
 |  | Inspeção Administrativa Regional |  |
 |  | Pessoal dirigente |  |
 | 1 | Inspetor regional, cargo de direção superior de 2.º grau | (a) |
-| Serviços executivos periféricos | Serviços executivos periféricos | Serviços executivos periféricos |
+| Serviços executivos periféricos |  |  |
 |  | Rede Integrada de Apoio ao Empresário |  |
 |  | Outro pessoal de chefia |  |
 | 1 | Coordenador da RIAE da ilha de Santa Maria | (c) |
@@ -2717,3 +2823,5 @@ Quadro de pessoal dirigente, de chefia e de direção específica da Secretaria 
 (b) Remuneração de acordo com o n.º 7 do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
 (c) Remuneração nos termos do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
+
+118325102

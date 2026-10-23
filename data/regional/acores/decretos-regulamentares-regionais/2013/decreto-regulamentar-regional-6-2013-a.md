@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2013/07/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2013-497595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb2570a23907ce3c5f9207497fe34a15cc688bee8962d8ed481d53b10687fe45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 107fec4e07163b1aa57764334b5b08ed15ef17a5408a4683dd96316207bc9f93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Água
 - Águas Públicas
-- Instituto da ÁGUA
-- Recursos Hídricos
+- Bacia Hidrográfica
 - ILHA das Flores
+- Instituto da ÁGUA
 - Lagoa
 - Lagoa.Açores
-- Proteção do Ambiente
-- Bacia Hidrográfica
-- Zona de Proteção
 - Plano de Ordenamento de Albufeiras de Águas Públicas
-- Serviço Público
 - Plano Regional de Ordenamento do Território
+- Proteção do Ambiente
+- Recursos Hídricos
 - Regulamento
+- Serviço Público
 - Servidão Administrativa
-- Açores
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:32000L0060
@@ -90,13 +90,13 @@ relationships:
 article_structure:
   article_count: 28
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:08Z'
   warnings: []
   errors: []
 ---
@@ -151,11 +151,11 @@ O presente diploma e o Plano de Ordenamento das Bacias Hidrográficas das Lagoas
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 21 de maio de 2013.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 14 de junho de 2013.**
+Assinado em Angra do Heroísmo em 14 de junho de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -163,31 +163,31 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Classificação da lagoa Branca - Utilização protegida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
 
 Classificação da lagoa Negra - Utilização protegida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
 
 Classificação da lagoa Comprida - Utilização protegida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
 
 Classificação da lagoa Funda - Utilização protegida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
 
 Classificação da lagoa das Patas - Utilização protegida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
 
 Classificação da lagoa da Lomba - Utilização condicionada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
 
 Classificação da lagoa Rasa - Utilização condicionada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
 
 ## ANEXO II — (a que se refere o artigo 2.º)
 
@@ -635,8 +635,8 @@ O POBHL Flores mantém-se em vigor enquanto se mantiver a indispensabilidade de 
 
 ## ANEXO III — (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf))](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/12900/0393303942.pdf)

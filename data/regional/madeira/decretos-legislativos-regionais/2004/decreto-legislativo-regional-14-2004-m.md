@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2004/07/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2004-526855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5e4bd363c30ddc81cb8714c4861a64b03bff64b6f5ad827901a9ce9e742deb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4ab9b6c83b0d26791dd47ed028abe61b6045f8f77ff0479e62897f610565190
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Arbitragem
 - Centro de Arbitragem
-- Multa
+- Centro de Arbitragem de Conflitos de Consumo
 - Conflito de Consumo
 - Criação de Serviços
 - Definição de Competências
-- Centro de Arbitragem de Conflitos de Consumo
 - Madeira.região Autónoma
+- Multa
 - Proteção do Consumidor
 - Regime de Pessoal
 relationships:
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:72991305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Alterados os arts 3.º e 11.º e revogados (a partir de 01.01.2016) os arts 4.º, 8.º e 9.º do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
   label: null
@@ -100,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:22Z'
   warnings: []
   errors: []
 ---
@@ -236,10 +266,10 @@ O presente diploma entra em vigor no dia seguinte ao da respectiva publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 15 de Junho de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 1 de Julho de 2004.**
+Assinado em 1 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

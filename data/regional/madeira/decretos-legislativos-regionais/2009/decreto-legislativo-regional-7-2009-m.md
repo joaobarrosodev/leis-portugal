@@ -51,18 +51,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2009/03/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2009-605315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7166df08d939a57d9f1ae36a8a7b2aa50136db49727af8c4b62de3928a8eb27a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c046437360cab978a0d37a212e2cc07f81acd7ebafa467cf699a29601b6eb82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,34 +70,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Multimunicipal de Distribuição de ÁGUA e Saneamento Básico em Baixa
+- Abastecimento de Água
 - Água
 - Arbitragem
+- Arm-águas e Resíduos da Madeira
 - Assembleia Geral
-- Gestão de Resíduos
-- Sociedade Anónima
-- Fiscal Único
-- Multa
-- Saneamento Básico
 - Conselho de Administração
 - Constituição de Sociedade
 - Contrato de Concessão
-- Propriedade do Estado
 - Estatuto
+- Fiscal Único
 - Fiscalização
-- Sistema Multimunicipal de Recolha de Resíduos
-- Arm-águas e Resíduos da Madeira
-- Madeira.região Autónoma
-- Propriedade de BENS
+- Gestão de Resíduos
 - Inventário
+- Madeira.região Autónoma
+- Multa
+- Propriedade de BENS
+- Propriedade do Estado
 - Responsabilidade Extracontratual
-- Abastecimento de Água
+- Saneamento Básico
+- Sistema Multimunicipal de Distribuição de ÁGUA e Saneamento Básico em Baixa
+- Sistema Multimunicipal de Recolha de Resíduos
+- Sociedade Anónima
 - Tratamento de ÁGUA
 relationships:
 - type: amended_by
   target: pt:dre:65891078:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:61239006:por
+  label: Dada nova redação ao art. 6.º do presente diploma, assim como aos arts. 5.º e 6.º dos Estatutos constantes do seu
+    anexo I pelo(a) Decreto Legislativo Regional n.º 16/2014/M - Diário da República n.º 235/2014, Série I de 2014-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2014-61239006
+  date: '2014-12-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/2001/0
   label: null
@@ -138,16 +144,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:65891078:por
+  label: Revogado, nos termos do n.º 3 do art. 28.º e sem prejuízo do disposto no n.º 4 do art. 27.º, o presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 17/2014/M - Diário da República n.º 242/2014, Série I de 2014-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2014-65891078
+  date: '2014-12-16'
 article_structure:
   article_count: 47
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:14Z'
   warnings: []
   errors: []
 ---
@@ -378,11 +438,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 10 de Fevereiro de 2009.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 9 de Março de 2009.**
+Assinado em 9 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -784,11 +844,15 @@ Bases da concessão da exploração e gestão do sistema multimunicipal de distr
 
 I - Princípios gerais
 
-###### Base I — Conteúdo
+Base I
+
+Conteúdo
 
 A concessão tem por objecto a exploração e a gestão do sistema multimunicipal de distribuição de água e de saneamento básico da Região Autónoma da Madeira, adiante designado por sistema de distribuição de água e saneamento básico, bem como a concepção e construção das infra-estruturas e equipamentos necessários à sua plena implementação e é concedida em regime de serviço público e de exclusividade.
 
-###### Base II — Objecto da concessão
+Base II
+
+Objecto da concessão
 
 1 - A actividade da concessionária compreende a distribuição de água para consumo público e a recolha de águas pluviais e residuais urbanas dos municípios com os quais tenham sido ou venham a ser celebrados contratos de adesão, doravante designados por municípios aderentes.
 
@@ -796,7 +860,9 @@ A concessão tem por objecto a exploração e a gestão do sistema multimunicipa
 
 3 - A concessionária poderá, desde que para o efeito esteja habilitada e devidamente autorizada pela concedente, exercer actividades acessórias ou complementares das que constituem o objecto da concessão.
 
-###### Base III — Regime da concessão
+Base III
+
+Regime da concessão
 
 1 - A concessionária do serviço público de exploração e gestão do sistema de distribuição de água e saneamento básico obriga-se a assegurar, de forma regular, contínua e eficiente, a distribuição de água e a recolha de águas pluviais e águas residuais urbanas dos municípios aderentes.
 
@@ -808,7 +874,9 @@ A concessão tem por objecto a exploração e a gestão do sistema multimunicipa
 
 5 - A reposição referida no número anterior poderá efectuar-se, consoante opção da concedente, ouvida a concessionária, mediante a revisão das tarifas, de acordo com os critérios mencionados na base xiii, pela prorrogação do prazo da concessão ou por compensação directa à concessionária.
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 1 - A concessão terá uma duração de 30 anos contados da data de celebração do respectivo contrato, nele se incluindo o tempo despendido com a construção de infra-estruturas e aquisição de equipamentos necessários à distribuição de água para consumo público e à recolha de águas pluviais e residuais urbanas.
 
@@ -816,13 +884,17 @@ A concessão tem por objecto a exploração e a gestão do sistema multimunicipa
 
 3 - Para efeitos do número anterior, serão considerados casos de força maior os factos de terceiro por que a concessionária não seja responsável e para os quais não haja contribuído e, bem assim, qualquer outro facto natural ou situação imprevisível ou inevitável cujos efeitos se produzam independentemente da vontade e das circunstâncias pessoais da concessionária, tais como actos de guerra ou subversão, epidemias, ciclones, tremores de terra, fogo, raio, inundações e greves gerais ou sectoriais.
 
-###### Base V — Princípios aplicáveis às relações com os utilizadores
+Base V
+
+Princípios aplicáveis às relações com os utilizadores
 
 A concessionária fica obrigada a assegurar a distribuição de água e a recolha de águas pluviais e residuais urbanas em termos adequados às necessidades dos utilizadores, devendo proceder relativamente aos utilizadores sem discriminações ou diferenças que não resultem apenas da aplicação de critérios ou de condicionalismos legais ou regulamentares ou, ainda, da manifesta diversidade das condições técnicas de exploração.
 
 II - Dos bens e meios afectos à concessão
 
-###### Base VI — Estabelecimento da concessão
+Base VI
+
+Estabelecimento da concessão
 
 1 - Integram o estabelecimento da concessão:
 
@@ -834,7 +906,9 @@ c) Todas as demais obras, máquinas e aparelhagem e respectivos acessórios util
 
 2 - As infra-estruturas consideram-se integradas na concessão, para todos os efeitos legais, desde a aprovação dos projectos de construção.
 
-###### Base VII — Bens e outros meios afectos à concessão
+Base VII
+
+Bens e outros meios afectos à concessão
 
 1 - Consideram-se afectos à concessão, além dos bens que integram o seu estabelecimento, os imóveis adquiridos por via do direito privado ou mediante expropriação para implantação das infra-estruturas.
 
@@ -846,7 +920,9 @@ a) Quaisquer fundos ou reservas consignados à garantia do cumprimento de obriga
 
 b) A totalidade das relações jurídicas estabelecidas pela concessionária, que se encontrem em cada momento conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de financiamento, de empreitada, de locação, de prestação de serviços, de aprovisionamento ou de fornecimento de materiais.
 
-###### Base VIII — Propriedade dos bens afectos à concessão
+Base VIII
+
+Propriedade dos bens afectos à concessão
 
 1 - Enquanto durar a concessão e sem prejuízo do disposto na base seguinte, a concessionária detém a propriedade dos bens afectos à concessão que não pertençam à Região Autónoma da Madeira, aos municípios ou a outras entidades.
 
@@ -868,19 +944,25 @@ b) A totalidade das relações jurídicas estabelecidas pela concessionária, qu
 
 10 - No caso de não exercício do direito de opção, nos termos previstos no número anterior, ou de falta de pagamento à concessionária, até ao termo da concessão, da indemnização prevista no n.º 6, os bens previstos no n.º 1 reverterão para a Região Autónoma da Madeira, nas mesmas condições estabelecidas nos números antecedentes, devendo, nesse caso, a indemnização ser paga pela Região Autónoma da Madeira à concessionária no prazo de 30 dias a contar do termo da concessão.
 
-###### Base IX — Infra-estruturas e equipamentos pertencentes aos municípios ou a associações de municípios
+Base IX
+
+Infra-estruturas e equipamentos pertencentes aos municípios ou a associações de municípios
 
 1 - As infra-estruturas e outros equipamentos relacionados com o objecto da concessão pertencentes aos municípios aderentes ao sistema de distribuição de água e saneamento básico ou a associações de municípios de que todos ou alguns destes façam parte poderão ser pelos mesmos cedidos à concessionária, livres de quaisquer ónus ou encargos, a título gratuito ou oneroso, para exploração da concessão, nos termos a definir aquando da sua adesão ao sistema de distribuição de água e saneamento básico.
 
 2 - Em qualquer caso, tornando-se desnecessária a utilização pela concessionária das infra-estruturas e equipamentos referidos no número anterior estes serão devolvidos aos cedentes nas condições inicialmente acordadas.
 
-###### Base X — Inventário
+Base X
+
+Inventário
 
 1 - A concessionária elaborará e manterá actualizado um inventário do património da concessão, em termos a definir no contrato de concessão.
 
 2 - Este inventário comportará a avaliação da aptidão de cada bem para desempenhar a sua função no sistema de distribuição de água e saneamento básico e das respectivas condições de conservação e funcionamento, a identificação do proprietário de cada bem, quando diferente da concessionária, e a menção dos ónus ou encargos que recaem sobre os bens afectos à concessão.
 
-###### Base XI — Manutenção dos bens e meios afectos à concessão
+Base XI
+
+Manutenção dos bens e meios afectos à concessão
 
 1 - A concessionária obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens e meios afectos à concessão durante o prazo da sua vigência, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço público.
 
@@ -888,7 +970,9 @@ b) A totalidade das relações jurídicas estabelecidas pela concessionária, qu
 
 III - Condições financeiras
 
-###### Base XII — Financiamento
+Base XII
+
+Financiamento
 
 1 - A concessionária adoptará e executará, tanto na construção das infra-estruturas necessárias como na correspondente exploração do serviço concedido, o esquema financeiro constante do estudo económico anexo ao contrato de concessão.
 
@@ -902,7 +986,9 @@ c) As receitas provenientes das tarifas cobradas pela concessionária aos utiliz
 
 d) Quaisquer outras fontes de financiamento, designadamente empréstimos.
 
-###### Base XIII — Critérios para a fixação das tarifas
+Base XIII
+
+Critérios para a fixação das tarifas
 
 1 - As tarifas são fixadas de forma a assegurar a protecção dos interesses dos utilizadores, a gestão eficiente do sistema de distribuição de água e saneamento básico, o equilíbrio económico-financeiro da concessão e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
 
@@ -924,7 +1010,9 @@ g) Assegurar uma adequada remuneração dos capitais próprios da concessionári
 
 h) Assegurar o pagamento de outros encargos obrigatórios.
 
-###### Base XIV — Fixação e revisão das tarifas
+Base XIV
+
+Fixação e revisão das tarifas
 
 1 - O contrato de concessão fixa as tarifas a pagar pelos utilizadores e a forma e periodicidade da sua revisão tendo em atenção os critérios definidos na base anterior.
 
@@ -934,7 +1022,9 @@ h) Assegurar o pagamento de outros encargos obrigatórios.
 
 4 - Incluem-se entre as razões ponderosas previstas no número anterior as decorrentes de alterações de taxas, das comparticipações financeiras previstas para a realização de obras a que a concessionária esteja contratualmente obrigada, bem como os casos em que, por razões de interesse público, incluindo a satisfação de necessidades sociais, seja imposta à concessionária a adopção de preços sociais ou a execução de investimentos sem a necessária contrapartida ou rentabilidade.
 
-###### Base XV — Indemnizações compensatórias
+Base XV
+
+Indemnizações compensatórias
 
 1 - Tendo em conta as missões de interesse público que incumbem à concessionária, o contrato de concessão poderá prever a atribuição de reduções e de isenções de taxas, bem como de subsídios, apoios financeiros e indemnizações compensatórias, nos termos previstos no regime jurídico das empresas encarregues da gestão de serviços de interesse económico geral.
 
@@ -944,17 +1034,23 @@ h) Assegurar o pagamento de outros encargos obrigatórios.
 
 IV - Construção das infra-estruturas
 
-###### Base XVI — Construção das infra-estruturas
+Base XVI
+
+Construção das infra-estruturas
 
 Para efeito das presentes bases, entende-se que a construção das infra-estruturas compreende, além da sua concepção e projecto, a aquisição, por via do direito privado ou de expropriação, dos terrenos necessários à sua implantação e a constituição das servidões necessárias.
 
-###### Base XVII — Integração na concessão de infra-estruturas construídas por terceiros
+Base XVII
+
+Integração na concessão de infra-estruturas construídas por terceiros
 
 1 - Salvo se o contrário resultar dos contratos de adesão, a construção das infra-estruturas necessárias ao desenvolvimento das actividades compreendidas no sistema de distribuição de água e saneamento básico, que se encontrem já em fase de execução, identificadas em anexo ao contrato de concessão, permanece na responsabilidade da Região Autónoma da Madeira ou dos municípios.
 
 2 - Finda a construção, as infra-estruturas referidas no número anterior mantêm-se na propriedade da Região Autónoma da Madeira e dos municípios, sendo, porém, as mesmas cedidas à concessionária para exploração no âmbito do serviço concedido.
 
-###### Base XVIII — Utilização do domínio público
+Base XVIII
+
+Utilização do domínio público
 
 1 - Para efeitos de implantação e exploração das infra-estruturas da concessão, a concessionária terá o direito de utilizar o domínio público da Região Autónoma da Madeira e dos municípios abrangidos pelo sistema de distribuição de água e saneamento básico, neste caso mediante afectação.
 
@@ -962,13 +1058,17 @@ Para efeito das presentes bases, entende-se que a construção das infra-estrutu
 
 3 - No caso de afectação de bens dominiais dos municípios, é aplicável o disposto no Código das Expropriações, correndo por conta da concessionária as compensações a que houver lugar.
 
-###### Base XIX — Servidões e expropriações
+Base XIX
+
+Servidões e expropriações
 
 1 - A concessionária poderá constituir servidões e requerer as expropriações necessárias à implantação e exploração das infra-estruturas.
 
 2 - As servidões e as expropriações resultam da aprovação dos respectivos projectos pela concedente e de declaração de utilidade pública, correndo por conta da concessionária as correspondentes indemnizações a que haja lugar.
 
-###### Base XX — Prazos de construção
+Base XX
+
+Prazos de construção
 
 1 - O contrato de concessão deverá fixar os prazos de conclusão de todas as obras necessárias ao regular funcionamento do sistema de distribuição de água e saneamento básico ainda não implementadas na data da sua celebração.
 
@@ -976,13 +1076,17 @@ Para efeito das presentes bases, entende-se que a construção das infra-estrutu
 
 3 - A concessionária é responsável pelo incumprimento dos prazos a que se refere o n.º 1, salvo na hipótese de ocorrência de motivos de força maior, tal como previsto no n.º 3 da base iv, de motivos imputáveis à concedente ou em situações especialmente previstas no contrato de concessão.
 
-###### Base XXI — Responsabilidade pela concepção, projecto e construção das infra-estruturas
+Base XXI
+
+Responsabilidade pela concepção, projecto e construção das infra-estruturas
 
 1 - Constituem encargos e são da responsabilidade da concessionária a concepção, o projecto e a construção das instalações e a aquisição dos equipamentos necessários, em cada momento, à exploração da concessão.
 
 2 - A concessionária responde perante a concedente por eventuais defeitos de concepção, de projecto, de construção ou dos equipamentos.
 
-###### Base XXII — Aprovação dos projectos de construção
+Base XXII
+
+Aprovação dos projectos de construção
 
 1 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, deverão ser elaborados com respeito da regulamentação vigente e exigem a aprovação prévia da concedente, a menos que estejam incluídos nos planos de investimentos.
 
@@ -990,7 +1094,9 @@ Para efeito das presentes bases, entende-se que a construção das infra-estrutu
 
 V - Exploração da concessão
 
-###### Base XXIII — Poderes da concedente
+Base XXIII
+
+Poderes da concedente
 
 1 - Os poderes conferidos pelas presentes bases à Região Autónoma da Madeira não afectam outros que lhe sejam cometidos pela lei, seja na qualidade de accionista maioritária ou no âmbito do exercício de poderes de tutela relativamente à sociedade concessionária seja enquanto concedente.
 
@@ -1004,13 +1110,17 @@ c) Os orçamentos anuais de exploração, de investimento e financeiros, bem com
 
 3 - O contrato de concessão pode ainda prever outros poderes de fiscalização da concedente, designadamente o poder de apreciar certos actos de gestão da concessionária mediante a respectiva suspensão, autorização ou aprovação.
 
-###### Base XXIV — Exercício dos poderes da concedente e comissão de acompanhamento da concessão
+Base XXIV
+
+Exercício dos poderes da concedente e comissão de acompanhamento da concessão
 
 1 - Os poderes da concedente referidos nas presentes bases ou outros relacionados com o sistema de distribuição de água e saneamento básico que lhe forem conferidos por lei são exercidos pelo membro do Governo Regional que detenha a tutela do sector do ambiente, com a faculdade de delegação em comissão de acompanhamento da concessão.
 
 2 - O membro do Governo Regional que detenha a tutela do sector do ambiente pode, por despacho, designar uma comissão de acompanhamento, na qual poderão estar representados os municípios aderentes ao sistema de distribuição de água e saneamento básico, fixando os respectivos termos de funcionamento.
 
-###### Base XXV — Fiscalização
+Base XXV
+
+Fiscalização
 
 1 - A concedente poderá fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua actividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.
 
@@ -1018,17 +1128,23 @@ c) Os orçamentos anuais de exploração, de investimento e financeiros, bem com
 
 3 - A concessionária enviará todos os anos à concedente, até ao termo do 1.º semestre do ano seguinte a que respeita o exercício considerado, os documentos contabilísticos para o efeito indicados no contrato de concessão, os quais deverão respeitar a apresentação formal que tiver sido definida e estar certificados por auditor aceite pela concedente.
 
-###### Base XXVI — Responsabilidade civil extracontratual
+Base XXVI
+
+Responsabilidade civil extracontratual
 
 A responsabilidade civil extracontratual da concessionária deve ser coberta por seguro, regulado por portaria conjunta dos membros do Governo Regional que detenham a tutela dos sectores das finanças e do ambiente.
 
-###### Base XXVII — Ligação técnica com outros sistemas
+Base XXVII
+
+Ligação técnica com outros sistemas
 
 1 - A concessionária é obrigada a efectuar a ligação entre o sistema de distribuição de água e saneamento básico e os sistemas multimunicipais de abastecimento de água e de saneamento de águas residuais em alta, devendo respeitar as determinações que lhe forem dirigidas em ordem a assegurar tal ligação.
 
 2 - Os encargos com a ligação técnica entre os sistemas referidos no número anterior serão da responsabilidade da concessionária.
 
-###### Base XXVIII — Relação com os utilizadores
+Base XXVIII
+
+Relação com os utilizadores
 
 1 - A concessionária obriga-se, mediante contrato a celebrar com cada um dos utilizadores, a fornecer água e a proceder à recolha de águas residuais urbanas, na medida indispensável à satisfação das respectivas necessidades, com ressalva das situações de força maior, de razões técnicas julgadas atendíveis pela concedente e demais circunstâncias especiais previstas no contrato de concessão e nos contratos de fornecimento e de recolha.
 
@@ -1038,7 +1154,9 @@ A responsabilidade civil extracontratual da concessionária deve ser coberta por
 
 4 - Nos contratos celebrados entre os utilizadores e os municípios aderentes, a concessionária assumirá a posição jurídica do respectivo município, a partir da data da celebração do contrato de concessão.
 
-###### Base XXIX — Regulamentos de exploração e serviço
+Base XXIX
+
+Regulamentos de exploração e serviço
 
 1 - Os regulamentos de exploração e de serviço serão elaborados pela concessionária e submetidos a parecer dos municípios aderentes ao sistema de distribuição de água e saneamento básico, a emitir no prazo de 30 dias.
 
@@ -1048,7 +1166,9 @@ A responsabilidade civil extracontratual da concessionária deve ser coberta por
 
 VI - Sanções
 
-###### Base XXX — Multas contratuais
+Base XXX
+
+Multas contratuais
 
 1 - Pelo incumprimento das obrigações assumidas no âmbito do contrato de concessão poderá a concessionária ser punida com multa de (euro) 5000 a (euro) 250 000, segundo a gravidade do incumprimento, a qual será aferida em função dos riscos para a segurança do sistema de distribuição de água e saneamento básico e para a regularidade da exploração e dos prejuízos resultantes.
 
@@ -1058,11 +1178,15 @@ VI - Sanções
 
 4 - Os limites das multas referidas no n.º 1 são actualizados anualmente de acordo com índice de preços na Região Autónoma da Madeira.
 
-###### Base XXXI — Falta de cumprimento pela concessionária por motivo de força maior
+Base XXXI
+
+Falta de cumprimento pela concessionária por motivo de força maior
 
 A concessionária fica isenta de responsabilidade por falta, deficiência ou atraso na execução do contrato quando se verifique caso de força maior, nos termos da definição constante do n.º 3 da base iv, devidamente comprovado.
 
-###### Base XXXII — Sequestro
+Base XXXII
+
+Sequestro
 
 1 - A concedente poderá intervir na exploração do serviço concedido sempre que se verifique, se afigure iminente ou haja risco sério de uma cessação ou interrupção total ou parcial da exploração do serviço, ou se verifiquem graves deficiências na respectiva organização ou funcionamento, ou no estado geral das instalações e do equipamento susceptíveis de comprometer a regularidade da exploração.
 
@@ -1074,13 +1198,17 @@ A concessionária fica isenta de responsabilidade por falta, deficiência ou atr
 
 VII - Modificação e extinção da concessão
 
-###### Base XXXIII — Trespasse da concessão
+Base XXXIII
+
+Trespasse da concessão
 
 1 - A concessionária não poderá trespassar a concessão, no todo ou em parte, sem prévia autorização da concedente.
 
 2 - No caso de trespasse autorizado, considerar-se-ão transmitidos para a trespassária os direitos e obrigações da trespassante, assumindo ainda a trespassária as obrigações e encargos que eventualmente lhe venham a ser impostos como condição de autorização do trespasse.
 
-###### Base XXXIV — Subconcessão
+Base XXXIV
+
+Subconcessão
 
 1 - A concessionária não pode, salvo havendo consentimento por parte da concedente, subconceder, no todo ou em parte, a concessão.
 
@@ -1088,11 +1216,15 @@ VII - Modificação e extinção da concessão
 
 3 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão.
 
-###### Base XXXV — Modificação da concessão
+Base XXXV
+
+Modificação da concessão
 
 Sem prejuízo do disposto no n.º 3 da base iii, o contrato de concessão apenas pode ser alterado por acordo entre concedente e concessionária.
 
-###### Base XXXVI — Rescisão do contrato
+Base XXXVI
+
+Rescisão do contrato
 
 1 - A concedente poderá dar por finda a concessão, mediante rescisão do contrato, quando tenha ocorrido qualquer dos factos seguintes:
 
@@ -1118,13 +1250,17 @@ h) Violação grave das cláusulas do contrato de concessão.
 
 4 - A rescisão do contrato de concessão será comunicada à concessionária por carta registada com aviso de recepção e produzirá imediatamente os seus efeitos.
 
-###### Base XXXVII — Termo do prazo de concessão
+Base XXXVII
+
+Termo do prazo de concessão
 
 1 - No termo da concessão e sem prejuízo do disposto nas bases viii e Ix, os municípios ou a Região Autónoma da Madeira entrarão na posse dos bens da concessionária afectos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados os representantes da concessionária.
 
 2 - Do auto de vistoria constará obrigatoriamente o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho da sua função no sistema de distribuição de água e saneamento básico.
 
-###### Base XXXVIII — Resgate da concessão
+Base XXXVIII
+
+Resgate da concessão
 
 1 - A concedente poderá resgatar a concessão, retomando a gestão directa do serviço público concedido, sempre que motivos de interesse público o justifiquem e decorrido que seja pelo menos um terço do prazo contratual, e mediante aviso prévio feito à concessionária, por carta registada com aviso de recepção, com, pelo menos, um ano de antecedência.
 
@@ -1138,7 +1274,9 @@ h) Violação grave das cláusulas do contrato de concessão.
 
 VIII - Contencioso
 
-###### Base XXXIX — Arbitragem
+Base XXXIX
+
+Arbitragem
 
 Nos litígios emergentes do contrato de concessão poderá a Região Autónoma da Madeira celebrar convenções de arbitragem.
 
@@ -1148,11 +1286,15 @@ Bases da concessão da exploração e gestão do sistema multimunicipal de recol
 
 I - Princípios gerais
 
-###### Base I — Conteúdo
+Base I
+
+Conteúdo
 
 A concessão tem por objecto a exploração e a gestão do sistema multimunicipal de recolha de resíduos da Região Autónoma da Madeira, adiante designado por sistema de recolha de resíduos, bem como a concepção e construção de infra-estruturas e a aquisição dos equipamentos necessários à sua plena implementação, e é concedida em regime de serviço público e de exclusividade.
 
-###### Base II — Objecto da concessão
+Base II
+
+Objecto da concessão
 
 1 - A actividade da concessionária compreende a recolha e transporte de resíduos na área geográfica dos municípios aderentes ao sistema de recolha de resíduos e abrange apenas os sistemas de recolha em contentores normalizados colocados na via pública, incluindo ecopontos, e de recolha porta a porta, com exclusão dos serviços de limpeza urbana.
 
@@ -1160,7 +1302,9 @@ A concessão tem por objecto a exploração e a gestão do sistema multimunicipa
 
 3 - A concessionária poderá, desde que para o efeito esteja habilitada e devidamente autorizada pela concedente, exercer actividades acessórias ou complementares das que constituem o objecto da concessão.
 
-###### Base III — Regime da concessão
+Base III
+
+Regime da concessão
 
 1 - A concessionária do serviço público de exploração e gestão do sistema de recolha de resíduos obriga-se a assegurar, de forma regular, contínua e eficiente, a recolha e o transporte para as estações de transferência, de triagem ou para a estação de tratamento de resíduos sólidos da Meia Serra dos resíduos gerados nos municípios aderentes ao sistema de recolha de resíduos.
 
@@ -1172,7 +1316,9 @@ A concessão tem por objecto a exploração e a gestão do sistema multimunicipa
 
 5 - A reposição referida no número anterior poderá efectuar-se, consoante opção da concedente, ouvido a concessionária, mediante a revisão das tarifas, de acordo com os critérios mencionados na base xiii, pela prorrogação do prazo da concessão ou por compensação directa à concessionária.
 
-###### Base IV — Prazo
+Base IV
+
+Prazo
 
 1 - A concessão terá uma duração de 30 anos contados da data de celebração do respectivo contrato, nele se incluindo o tempo despendido com a construção de infra-estruturas e aquisição de equipamentos necessários à recolha e transporte de resíduos.
 
@@ -1180,13 +1326,17 @@ A concessão tem por objecto a exploração e a gestão do sistema multimunicipa
 
 3 - Para efeitos do número anterior, serão considerados casos de força maior os factos de terceiro por que a concessionária não seja responsável e para os quais não haja contribuído e, bem assim, qualquer outro facto natural ou situação imprevisível ou inevitável cujos efeitos se produzam independentemente da vontade e das circunstâncias pessoais da concessionária, tais como actos de guerra ou subversão, epidemias, ciclones, tremores de terra, fogo, raio, inundações e greves gerais ou sectoriais.
 
-###### Base V — Princípios aplicáveis às relações com os utilizadores
+Base V
+
+Princípios aplicáveis às relações com os utilizadores
 
 A concessionária é obrigada a assegurar aos utilizadores a recolha dos resíduos gerados nas suas áreas ou instalações, devendo proceder relativamente aos utilizadores sem discriminações ou diferenças que não resultem apenas da aplicação de critérios ou condicionalismos legais ou regulamentares ou, ainda, de manifesta diversidade das condições técnicas de entrega, recolha e transporte e dos correspondentes custos.
 
 II - Dos bens e meios afectos à concessão
 
-###### Base VI — Estabelecimento da concessão
+Base VI
+
+Estabelecimento da concessão
 
 Integram o estabelecimento da concessão:
 
@@ -1194,7 +1344,9 @@ a) A globalidade das infra-estruturas cedidas à concessionária ou por esta adq
 
 b) Todos os equipamentos, máquinas e aparelhagem e respectivos acessórios utilizados pela concessionária para a recolha e transporte dos resíduos e para a manutenção dos equipamentos e gestão do sistema de recolha de resíduos.
 
-###### Base VII — Bens e outros meios afectos à concessão
+Base VII
+
+Bens e outros meios afectos à concessão
 
 1 - Consideram-se afectos à concessão, além dos bens que integram o seu estabelecimento, os imóveis adquiridos por via do direito privado ou mediante expropriação para o desenvolvimento da actividade objecto da concessão.
 
@@ -1206,7 +1358,9 @@ a) Quaisquer fundos ou reservas consignados à garantia do cumprimento de obriga
 
 b) A totalidade das relações jurídicas que se encontrem em cada momento conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de financiamento, de empreitada, de locação, de prestação de serviços, de aprovisionamento ou de fornecimento de materiais.
 
-###### Base VIII — Propriedade dos bens afectos à concessão
+Base VIII
+
+Propriedade dos bens afectos à concessão
 
 1 - Enquanto durar a concessão e sem prejuízo do disposto na base seguinte, a concessionária detém a propriedade dos bens afectos à concessão que não pertençam à Região Autónoma da Madeira, aos municípios ou a outras entidades.
 
@@ -1228,19 +1382,25 @@ b) A totalidade das relações jurídicas que se encontrem em cada momento conex
 
 10 - No caso de não exercício do direito de opção, nos termos previstos no número anterior, ou de falta de pagamento à concessionária, até ao termo da concessão, da indemnização prevista no n.º 6, os bens previstos no n.º 1 reverterão para a Região Autónoma da Madeira, nas mesmas condições estabelecidas nos números antecedentes, devendo, nesse caso, a indemnização ser paga pela Região Autónoma da Madeira à concessionária no prazo de 30 dias a contar do termo da concessão.
 
-###### Base IX — Infra-estruturas e equipamentos pertencentes aos municípios ou a associações de municípios
+Base IX
+
+Infra-estruturas e equipamentos pertencentes aos municípios ou a associações de municípios
 
 1 - As infra-estruturas e outros equipamentos relacionados com a deposição e recolha de resíduos pertencentes aos municípios aderentes ao sistema de recolha de resíduos ou a associações de municípios de que todos ou alguns destes façam parte poderão ser pelos mesmos cedidos à concessionária, a título gratuito ou oneroso, para exploração da concessão, nos termos a definir aquando da sua adesão ao sistema de recolha de resíduos.
 
 2 - Em qualquer caso, tornando-se desnecessária a utilização pela concessionária das infra-estruturas e equipamentos referidos no número anterior, estes serão devolvidos aos municípios cedentes nas condições inicialmente acordadas.
 
-###### Base X — Inventário
+Base X
+
+Inventário
 
 1 - A concessionária elaborará e manterá actualizado um inventário do património da concessão, em termos a definir no contrato de concessão.
 
 2 - Este inventário comportará a avaliação da aptidão de cada bem para desempenhar a sua função no sistema de recolha de resíduos e das respectivas condições de conservação e funcionamento, a identificação do proprietário de cada bem, quando diferente da concessionária, e a menção dos ónus ou encargos que recaem sobre os bens afectos à concessão.
 
-###### Base XI — Manutenção dos bens e meios afectos à concessão
+Base XI
+
+Manutenção dos bens e meios afectos à concessão
 
 1 - A concessionária obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens e meios afectos à concessão durante o prazo da sua vigência, efectuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço público.
 
@@ -1248,7 +1408,9 @@ b) A totalidade das relações jurídicas que se encontrem em cada momento conex
 
 III - Condições financeiras
 
-###### Base XII — Financiamento
+Base XII
+
+Financiamento
 
 1 - A concessionária adoptará e executará, tanto na construção de infra-estruturas e aquisição dos equipamentos necessários como na correspondente exploração do serviço concedido, o esquema financeiro constante do estudo económico anexo ao contrato de concessão.
 
@@ -1262,7 +1424,9 @@ c) As receitas provenientes das taxas cobradas pela concessionária aos utilizad
 
 d) Quaisquer outras fontes de financiamento, designadamente empréstimos.
 
-###### Base XIII — Critérios para a fixação das tarifas
+Base XIII
+
+Critérios para a fixação das tarifas
 
 1 - As tarifas são fixadas de forma a assegurar a protecção dos interesses dos utilizadores, a gestão eficiente do sistema de recolha de resíduos e as condições necessárias para a qualidade do serviço durante e após o termo da concessão.
 
@@ -1292,7 +1456,9 @@ i) Assegurar o pagamento de outros encargos obrigatórios.
 
 5 - Incluem-se entre as razões ponderosas previstas no número anterior as decorrentes de alterações de taxas, das comparticipações financeiras previstas para a realização de obras a que a concessionária esteja contratualmente obrigada, bem como os casos em que, por razões de interesse público, incluindo a satisfação de necessidades sociais, seja imposta à concessionária a adopção de preços sociais ou a execução de investimentos sem a necessária contrapartida ou rentabilidade.
 
-###### Base XIV — Indemnizações compensatórias
+Base XIV
+
+Indemnizações compensatórias
 
 1 - Tendo em conta as missões de interesse público, o contrato de concessão poderá prever a atribuição de reduções e de isenções de taxas, bem como de subsídios, apoios financeiros e indemnizações compensatórias, nos termos previstos no regime jurídico das empresas encarregues da gestão de serviços de interesse económico geral.
 
@@ -1302,11 +1468,15 @@ i) Assegurar o pagamento de outros encargos obrigatórios.
 
 IV - Construção das infra-estruturas
 
-###### Base XV — Construção das infra-estruturas
+Base XV
+
+Construção das infra-estruturas
 
 Para efeito das presentes bases, entende-se que a construção das infra-estruturas compreende, além da sua concepção e projecto, a aquisição, por via do direito privado ou de expropriação, dos terrenos necessários à sua implantação e a constituição das servidões necessárias.
 
-###### Base XVI — Utilização do domínio público
+Base XVI
+
+Utilização do domínio público
 
 1 - Para efeitos de implantação e exploração das infra-estruturas da concessão, a concessionária terá o direito de utilizar o domínio público da Região Autónoma da Madeira e dos municípios abrangidos pelo sistema de recolha de resíduos, neste caso mediante afectação.
 
@@ -1314,13 +1484,17 @@ Para efeito das presentes bases, entende-se que a construção das infra-estrutu
 
 3 - No caso de afectação de bens dominiais dos municípios é aplicável o disposto no Código das Expropriações, correndo por conta da concessionária as compensações a que houver lugar.
 
-###### Base XVII — Servidões e expropriações
+Base XVII
+
+Servidões e expropriações
 
 1 - A concessionária poderá constituir servidões e requerer as expropriações necessárias à implantação e exploração das infra-estruturas.
 
 2 - As servidões e as expropriações resultam da aprovação dos respectivos projectos pela concedente e de declaração de utilidade pública, correndo por conta da concessionária as correspondentes indemnizações a que haja lugar.
 
-###### Base XVIII — Prazos de construção
+Base XVIII
+
+Prazos de construção
 
 1 - Os prazos de conclusão de todas as obras necessárias ao regular funcionamento do sistema de recolha de resíduos serão fixados nos termos previsto no contrato de concessão.
 
@@ -1328,13 +1502,17 @@ Para efeito das presentes bases, entende-se que a construção das infra-estrutu
 
 3 - A concessionária é responsável pelo incumprimento dos prazos a que se refere o n.º 1, salvo na hipótese de ocorrência de motivos de força maior, tal como previsto no n.º 3 da base iv, de motivos imputáveis à concedente ou em situações especialmente previstas no contrato de concessão.
 
-###### Base XIX — Responsabilidade pela concepção, projecto e construção das infra-estruturas
+Base XIX
+
+Responsabilidade pela concepção, projecto e construção das infra-estruturas
 
 1 - Constituem encargos e são da responsabilidade da concessionária a concepção, o projecto e a construção das instalações e a aquisição dos equipamentos necessários, em cada momento, à exploração da concessão.
 
 2 - A concessionária responde perante a concedente por eventuais defeitos de concepção, de projecto, de construção ou dos equipamentos.
 
-###### Base XX — Aprovação dos projectos de construção
+Base XX
+
+Aprovação dos projectos de construção
 
 1 - Os projectos de construção das infra-estruturas, bem como as respectivas alterações, deverão ser elaborados com respeito da regulamentação vigente e exigem a aprovação prévia da concedente, a menos que estejam incluídos nos planos de investimentos.
 
@@ -1342,7 +1520,9 @@ Para efeito das presentes bases, entende-se que a construção das infra-estrutu
 
 V - Exploração da concessão
 
-###### Base XXI — Poderes da concedente
+Base XXI
+
+Poderes da concedente
 
 1 - Os poderes conferidos pelas presentes bases à Região Autónoma da Madeira não afectam outros que lhe sejam cometidos pela lei, seja na qualidade de accionista maioritária ou no âmbito do exercício de poderes de tutela relativamente à sociedade concessionária seja enquanto concedente.
 
@@ -1356,13 +1536,17 @@ c) Os orçamentos anuais de exploração, de investimento e financeiros, bem com
 
 3 - O contrato de concessão pode ainda prever outros poderes de fiscalização da concedente, designadamente o poder de apreciar certos actos de gestão da concessionária mediante a respectiva suspensão, autorização ou aprovação.
 
-###### Base XXII — Exercício dos poderes da concedente e comissão de acompanhamento da concessão
+Base XXII
+
+Exercício dos poderes da concedente e comissão de acompanhamento da concessão
 
 1 - Os poderes da concedente referidos nas presentes bases ou outros relacionados com o sistema de recolha de resíduos que lhe forem conferidos por lei são exercidos pelo departamento do Governo Regional que detenha a tutela do sector do ambiente, com a faculdade de delegação em comissão de acompanhamento da concessão.
 
 2 - O membro do Governo Regional que detenha a tutela do sector do ambiente pode, por despacho, designar uma comissão de acompanhamento, na qual poderão estar representados os municípios aderentes ao sistema de recolha de resíduos, fixando os respectivos termos de funcionamento.
 
-###### Base XXIII — Fiscalização
+Base XXIII
+
+Fiscalização
 
 1 - A concedente poderá fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua actividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.
 
@@ -1370,17 +1554,23 @@ c) Os orçamentos anuais de exploração, de investimento e financeiros, bem com
 
 3 - A concessionária enviará todos os anos à concedente, até ao termo do 1.º semestre do ano seguinte a que respeita o exercício considerado, os documentos contabilísticos para o efeito indicados no contrato de concessão, os quais deverão respeitar a apresentação formal que tiver sido definida e estar certificados por auditor aceite pela concedente.
 
-###### Base XXIV — Responsabilidade civil extracontratual
+Base XXIV
+
+Responsabilidade civil extracontratual
 
 A responsabilidade civil extracontratual da concessionária deve ser coberta por seguro, regulado por portaria conjunta dos membros do Governo Regional que detenham a tutela dos sectores das finanças e do ambiente.
 
-###### Base XXV — Ligação técnica com outros sistemas
+Base XXV
+
+Ligação técnica com outros sistemas
 
 1 - A concessionária é obrigada a efectuar a ligação entre o sistema de recolha de resíduos e o sistema de transferência, triagem, valorização e tratamento de resíduos sólidos da Região Autónoma da Madeira, devendo respeitar as determinações que lhe forem dirigidas em ordem a assegurar tal ligação.
 
 2 - Os encargos com a ligação técnica entre os sistemas referidos no número anterior serão da responsabilidade da concessionária.
 
-###### Base XXVI — Regulamentos de exploração e de serviço
+Base XXVI
+
+Regulamentos de exploração e de serviço
 
 1 - Os regulamentos de exploração e de serviço serão elaborados pela concessionária e submetidos a parecer dos municípios abrangidos pelo sistema de recolha de resíduos, a emitir no prazo de 30 dias.
 
@@ -1392,7 +1582,9 @@ A responsabilidade civil extracontratual da concessionária deve ser coberta por
 
 VI - Sanções
 
-###### Base XXVII — Multas contratuais
+Base XXVII
+
+Multas contratuais
 
 1 - Pelo incumprimento das obrigações assumidas no âmbito do contrato de concessão poderá a concessionária ser punida com multa de (euro) 5000 a (euro) 250 000, segundo a gravidade do incumprimento, a qual será aferida em função dos riscos para a segurança do sistema de recolha de resíduos e para a sanidade pública e dos prejuízos resultantes.
 
@@ -1402,11 +1594,15 @@ VI - Sanções
 
 4 - Os limites das multas referidas no n.º 1 são actualizados anualmente de acordo com os índices de preços na Região Autónoma da Madeira.
 
-###### Base XXVIII — Falta de cumprimento pela concessionária por motivo de força maior
+Base XXVIII
+
+Falta de cumprimento pela concessionária por motivo de força maior
 
 A concessionária fica isenta de responsabilidade por falta, deficiência ou atraso na execução do contrato quando se verifique caso de força maior, nos termos da definição constante do n.º 3 da base iv, devidamente comprovado.
 
-###### Base XXIX — Sequestro
+Base XXIX
+
+Sequestro
 
 1 - A concedente poderá intervir na exploração do serviço concedido sempre que se dê, se afigure iminente ou haja risco sério de uma cessação ou interrupção total ou parcial da exploração do serviço, ou se verifiquem graves deficiências na respectiva organização ou funcionamento, ou no estado geral das instalações e do equipamento susceptíveis de comprometer a regularidade da exploração.
 
@@ -1418,13 +1614,17 @@ A concessionária fica isenta de responsabilidade por falta, deficiência ou atr
 
 VII - Modificação e extinção da concessão
 
-###### Base XXX — Trespasse da concessão
+Base XXX
+
+Trespasse da concessão
 
 1 - A concessionária não poderá trespassar a concessão, no todo ou em parte, sem prévia autorização da concedente.
 
 2 - No caso de trespasse autorizado, considerar-se-ão transmitidos para a trespassária os direitos e obrigações da trespassante, assumindo ainda a trespassária as obrigações e encargos que eventualmente lhe venham a ser impostos como condição de autorização do trespasse.
 
-###### Base XXXI — Subconcessão
+Base XXXI
+
+Subconcessão
 
 1 - A concessionária não pode, salvo havendo consentimento por parte da concedente, subconceder, no todo ou em parte, a concessão.
 
@@ -1432,11 +1632,15 @@ VII - Modificação e extinção da concessão
 
 3 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão.
 
-###### Base XXXII — Modificação da concessão
+Base XXXII
+
+Modificação da concessão
 
 Sem prejuízo do disposto no n.º 3 da base iii, o contrato de concessão apenas pode ser alterado por acordo entre concedente e concessionária.
 
-###### Base XXXIII — Rescisão do contrato
+Base XXXIII
+
+Rescisão do contrato
 
 1 - A concedente poderá dar por finda a concessão, mediante rescisão do contrato, quando tenha ocorrido qualquer dos factos seguintes:
 
@@ -1462,13 +1666,17 @@ h) Violação grave das cláusulas do contrato de concessão.
 
 4 - A rescisão do contrato de concessão será comunicada à concessionária por carta registada com aviso de recepção e produzirá imediatamente os seus efeitos.
 
-###### Base XXXIV — Termo do prazo de concessão
+Base XXXIV
+
+Termo do prazo de concessão
 
 1 - No termo da concessão e sem prejuízo do disposto nas bases viii e ix, os municípios ou a Região Autónoma da Madeira, consoante o aplicável, entrarão na posse dos bens da concessionária afectos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados os representantes da concessionária.
 
 2 - Do auto de vistoria constará obrigatoriamente o inventário dos bens e equipamentos afectos à concessão, assim como a descrição do seu estado de conservação e da respectiva aptidão para o desempenho da sua função no sistema de recolha de resíduos.
 
-###### Base XXXV — Resgate da concessão
+Base XXXV
+
+Resgate da concessão
 
 1 - A concedente poderá resgatar a concessão, retomando a gestão directa do serviço público concedido sempre que motivos de interesse público o justifiquem e decorrido que seja pelo menos um terço do prazo contratual, e mediante aviso prévio feito à concessionária, por carta registada com aviso de recepção, com, pelo menos, um ano de antecedência.
 
@@ -1482,6 +1690,8 @@ h) Violação grave das cláusulas do contrato de concessão.
 
 VII - Contencioso
 
-###### Base XXXVI — Arbitragem
+Base XXXVI
+
+Arbitragem
 
 Nos litígios emergentes do contrato de concessão poderá a Região Autónoma da Madeira celebrar convenções de arbitragem.

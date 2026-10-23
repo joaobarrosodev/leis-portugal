@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/22300/0406304068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2016/11/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2016-75774120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebdba6982564ae91a236b16ebdb3d4e7730bbff676cec6c6dd48d27da41d3e3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddefd3875a3e4102a82a3ab340ea3c06d60fcab649959bdae89b84c03ca8d4f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Governo Regional
-- Direcção Regional das Pescas
-- Secretaria Regional da Agricultura e Florestas
-- Srpcba
+- Açores
 - Criação de Serviços
 - Definição de Competências
 - Delegação de Competências
+- DIREÇÃO REGIONAL DA AGRICULTURA
+- Direção Regional da Solidariedade Social
+- Direção Regional das Obras Públicas e Comunicações
+- Direção Regional do Desenvolvimento Rural
+- DIREÇÃO REGIONAL DO EMPREGO E QUALIFICAÇÃO PROFISSIONAL
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
+- DIREÇÃO REGIONAL DOS TRANSPORTES
 - Direcção Regional da Ciência e Tecnologia
 - Direcção Regional da Cultura
-- Presidência do Governo Regional
 - Direcção Regional da Energia
 - Direcção Regional da Habitação
 - Direcção Regional da Juventude
-- Secretaria Regional da Saúde
+- Direcção Regional da Prevenção e Combate as Dependências
 - Direcção Regional da Saúde
 - Direcção Regional das Comunidades
+- Direcção Regional das Pescas
+- Direcção Regional de Apoio ao Investimento e a Competitividade
+- Direcção Regional de Educação
 - Direcção Regional de Organização e Administração Pública
 - Direcção Regional de Turismo
 - Direcção Regional do Ambiente
@@ -91,60 +96,66 @@ subjects:
 - Direcção Regional dos Assuntos Europeus
 - Direcção Regional dos Recursos Florestais
 - Diretor Regional
-- Direção Regional da Solidariedade Social
 - Empresa Pública Regional
 - Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores
-- Secretaria Geral
+- Gabinete do Secretário Regional Adjunto da Presidência para as Relações Externas
+- Gabinete do Secretário Regional Adjunto da Presidência para os Assuntos Parlamentares
+- Gestão de Recursos Humanos
+- Governo Regional
 - Inspecção Regional do Ambiente
-- Presidente do Governo Regional
-- Secretário Regional da Solidariedade Social
-- Secretaria Regional da Educação e Cultura
 - Inspecção Regional do Turismo
 - Instituto da Segurança Social dos Açores
 - Instituto de Alimentação e Mercados Agrícolas
 - Integração de Serviços
 - Integração de Trabalhadores
 - Laboratório Regional de Engenharia Civil
-- Direcção Regional de Educação
 - Orgânica
+- Presidência do Governo Regional
+- Presidente do Governo Regional
+- Reestruturação de Serviços
+- Secretaria Geral
 - Secretaria Regional
-- Direcção Regional de Apoio ao Investimento e a Competitividade
-- Direcção Regional da Prevenção e Combate as Dependências
+- Secretaria Regional da Agricultura e Florestas
+- Secretaria Regional da Educação e Cultura
+- Secretaria Regional da Energia Ambiente e Turismo
+- Secretaria Regional da Saúde
 - Secretaria Regional da Solidariedade Social
+- SECRETARIA REGIONAL DO MAR CIÊNCIA E TECNOLOGIA
+- Secretaria Regional dos Transportes e Obras Públicas
 - Secretário Regional
+- Secretário Regional Adjunto da Presidência para as Relações Externas
+- SECRETÁRIO REGIONAL ADJUNTO DA PRESIDÊNCIA PARA OS ASSUNTOS PARLAMENTARES
 - Secretário Regional da Agricultura e Florestas
 - Secretário Regional da Educação e Cultura
+- Secretário Regional da Energia Ambiente e Turismo
 - Secretário Regional da Saúde
+- Secretário Regional da Solidariedade Social
+- SECRETÁRIO REGIONAL DO MAR CIÊNCIA E TECNOLOGIA
+- Secretário Regional dos Transportes e Obras Públicas
 - Sede
 - Serviço Regional de Estatística dos Açores
-- Gestão de Recursos Humanos
-- Açores
+- Srpcba
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência Patrimonial
 - Vice-presidência do Governo Emprego e Competitividade Empresarial
 - Vice-presidente do Governo Regional
-- SECRETARIA REGIONAL DO MAR CIÊNCIA E TECNOLOGIA
-- SECRETÁRIO REGIONAL ADJUNTO DA PRESIDÊNCIA PARA OS ASSUNTOS PARLAMENTARES
-- SECRETÁRIO REGIONAL DO MAR CIÊNCIA E TECNOLOGIA
-- DIREÇÃO REGIONAL DA AGRICULTURA
-- DIREÇÃO REGIONAL DOS TRANSPORTES
-- DIREÇÃO REGIONAL DO EMPREGO E QUALIFICAÇÃO PROFISSIONAL
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
-- Direção Regional do Desenvolvimento Rural
-- Secretário Regional dos Transportes e Obras Públicas
-- Secretário Regional da Energia Ambiente e Turismo
-- Secretário Regional Adjunto da Presidência para as Relações Externas
-- Secretaria Regional dos Transportes e Obras Públicas
-- Secretaria Regional da Energia Ambiente e Turismo
-- Gabinete do Secretário Regional Adjunto da Presidência para os Assuntos Parlamentares
-- Gabinete do Secretário Regional Adjunto da Presidência para as Relações Externas
-- Direção Regional das Obras Públicas e Comunicações
 relationships:
 - type: amended_by
   target: pt:dre:150757510:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150757510:por
+  label: Substituída a estrutura orgânica do XII Governo Regional constante no presente diploma, que é revogado, pelo(a) Decreto
+    Regulamentar Regional n.º 28/2020/A - Diário da República n.º 239/2020, Série I de 2020-12-10 nos termos do seu art. 36.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-2020-150757510
+  date: '2020-12-10'
+- type: amended_by
+  target: pt:dre:215980300:por
+  label: Art. 15.º do DRR 9/2016/A, de 21-nov, DR.IS [223] pelo(a) Despacho n.º 1266/2023
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1266-2023-215980300
+  date: '2023-07-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/decleg
   label: null
@@ -185,16 +196,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64/2011/12/22/p/dre
+- type: cites
+  target: pt:dre:145045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58661945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661748:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:23Z'
   warnings: []
   errors: []
 ---
@@ -319,7 +378,7 @@ m) Jornal Oficial.
 
 ###### Artigo 6.º — Substituição do Presidente do Governo Regional
 
-**O Presidente do Governo Regional será substituído, nas suas ausências e impedimentos, pelo Vice-Presidente do Governo Regional ou pelo secretário regional que indicar.**
+O Presidente do Governo Regional será substituído, nas suas ausências e impedimentos, pelo Vice-Presidente do Governo Regional ou pelo secretário regional que indicar.
 
 ###### Artigo 7.º — Competências dos membros do Governo Regional
 
@@ -373,7 +432,7 @@ u) Defesa do consumidor e da concorrência.
 
 ###### Artigo 9.º — Competências do Secretário Regional da Solidariedade Social
 
-**O Secretário Regional da Solidariedade Social exerce a sua competência nas seguintes matérias:**
+O Secretário Regional da Solidariedade Social exerce a sua competência nas seguintes matérias:
 
 a) Combate à pobreza e à exclusão social;
 
@@ -395,7 +454,7 @@ i) Natalidade.
 
 ###### Artigo 10.º — Competências do Secretário Regional da Educação e Cultura
 
-**O Secretário Regional da Educação e Cultura exerce as suas competências nas seguintes matérias:**
+O Secretário Regional da Educação e Cultura exerce as suas competências nas seguintes matérias:
 
 a) Educação;
 
@@ -409,7 +468,7 @@ e) Desporto.
 
 ###### Artigo 11.º — Competências do Secretário Regional do Mar, Ciência e Tecnologia
 
-**O Secretário Regional do Mar, Ciência e Tecnologia exerce as suas competências nas seguintes matérias:**
+O Secretário Regional do Mar, Ciência e Tecnologia exerce as suas competências nas seguintes matérias:
 
 a) Pescas e aquicultura;
 
@@ -429,7 +488,7 @@ h) Desenvolvimento e promoção da sociedade da informação.
 
 ###### Artigo 12.º — Competências do Secretário Regional dos Transportes e Obras Públicas
 
-**O Secretário Regional dos Transportes e Obras Públicas exerce as suas competências nas seguintes matérias:**
+O Secretário Regional dos Transportes e Obras Públicas exerce as suas competências nas seguintes matérias:
 
 a) Transportes;
 
@@ -443,7 +502,7 @@ e) Edifícios e equipamentos públicos.
 
 ###### Artigo 13.º — Competências do Secretário Regional da Saúde
 
-**O Secretário Regional da Saúde exerce as suas competências nas seguintes matérias:**
+O Secretário Regional da Saúde exerce as suas competências nas seguintes matérias:
 
 a) Saúde;
 
@@ -457,7 +516,7 @@ e) Proteção civil e bombeiros.
 
 ###### Artigo 14.º — Competências do Secretário Regional da Energia, Ambiente e Turismo
 
-**O Secretário Regional da Energia, Ambiente e Turismo exerce as suas competências nas seguintes matérias:**
+O Secretário Regional da Energia, Ambiente e Turismo exerce as suas competências nas seguintes matérias:
 
 a) Energia;
 
@@ -475,7 +534,7 @@ g) Turismo.
 
 ###### Artigo 15.º — Competências do Secretário Regional da Agricultura e Florestas
 
-**O Secretário Regional da Agricultura e Florestas exerce as suas competências nas seguintes matérias:**
+O Secretário Regional da Agricultura e Florestas exerce as suas competências nas seguintes matérias:
 
 a) Agricultura e pecuária;
 
@@ -697,10 +756,10 @@ O presente diploma produz efeitos a 4 de novembro de 2016.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 4 de novembro de 2016.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 17 de novembro de 2016.**
+Assinado em Angra do Heroísmo em 17 de novembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

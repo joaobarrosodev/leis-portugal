@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2006/04/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2006-660961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03bd316bd18a9fe670a84897be72e332aabf8ff0e13fc473328db9661fc43a85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c42ac39e66426a621bab98795285f0036df1953337418e6a77b2fb39d8dea237
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina Privada
-- Multa
 - Comissão de Verificação Técnica
 - Comissão Técnica Regional
 - Criação de Serviços
 - Definição de Competências
+- Direcção Regional de Planeamento e Saúde Pública
 - Fiscalização
 - Licenciamento
 - Madeira.região Autónoma
-- Direcção Regional de Planeamento e Saúde Pública
+- Medicina Privada
+- Multa
 - Secretário Regional dos Assuntos Sociais
 relationships:
 - type: cites
@@ -118,16 +118,100 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560265:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684062:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:36Z'
   warnings: []
   errors: []
 ---
@@ -356,7 +440,9 @@ b) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do
 
 Cada unidade privada de saúde deve, obrigatoriamente, dispor de um regulamento interno, o qual é homologado pelo despacho que atribuir a licença de funcionamento.
 
-###### Artigo 19.º — Livro de reclamações
+###### Artigo 19.º
+
+## Livro de reclamações
 
 1 - As unidades privadas de saúde devem possuir livro de reclamações dos utentes nos termos e nas condições previstos no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro.
 
@@ -552,10 +638,10 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 7 de Março de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 6 de Abril de 2006.**
+Assinado em 6 de Abril de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

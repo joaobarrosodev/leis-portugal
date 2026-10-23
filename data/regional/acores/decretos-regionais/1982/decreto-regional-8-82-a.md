@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/06/13400/16761677.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1982-395762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a510f31a3fa666617f3ac56c87072ae37742110d1e9154e5808ef76715158646
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 296ada12ad14136fe06bda8f307abf5fa687507cdb0c8eb788a3cd43d7a0085b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:479598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:479598:por
+  label: "Revogado pelo DLR.29/2004/A.16.07.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2004-479598
+  date: '2004-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:33Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +102,9 @@ Estão nestas condições 4 dragoeiros Dracaena draco L. de grande porte, traduz
 
 Assim, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição da República Portuguesa, a Assembleia Regional dos Açores decreta o seguinte:
 
-###### Artigo 1.º São considerados objectos classificados os 4 exemplares da Dracaena draco L. (dragoeiros) existentes junto à praia de Água de Alto, na ilha de São Miguel, e representados na planta anexa.
+Artigo 1.º São considerados objectos classificados os 4 exemplares da Dracaena draco L. (dragoeiros) existentes junto à praia de Água de Alto, na ilha de São Miguel, e representados na planta anexa.
 
-###### Art. 2.º A identificação de cada exemplar far-se-á através de uma numeração, seguida das características indicadas:
+Art. 2.º A identificação de cada exemplar far-se-á através de uma numeração, seguida das características indicadas:
 
 Altura;
 
@@ -107,32 +114,32 @@ Largura da copa;
 
 Estado vegetativo.
 
-###### Art. 3.º Os 4 exemplares referidos terão como zona de protecção à sua volta uma área correspondente à projecção da sua copa no terreno.
+Art. 3.º Os 4 exemplares referidos terão como zona de protecção à sua volta uma área correspondente à projecção da sua copa no terreno.
 
-###### Art. 4.º Ficam proibidas nas zonas referidas no artigo 3.º do presente diploma quaisquer operações que se relacionem com remoção de terras, depósito de materiais de qualquer natureza ou outras que possam prejudica o estado vegetativo dos 4 exemplares da Dracaena draco L. (dragoeiros) classificados.
+Art. 4.º Ficam proibidas nas zonas referidas no artigo 3.º do presente diploma quaisquer operações que se relacionem com remoção de terras, depósito de materiais de qualquer natureza ou outras que possam prejudica o estado vegetativo dos 4 exemplares da Dracaena draco L. (dragoeiros) classificados.
 
-###### Art. 5.º As contravenções previstas no artigo anterior, sem prejuízo de outras sanções aplicáveis, são punidas:
+Art. 5.º As contravenções previstas no artigo anterior, sem prejuízo de outras sanções aplicáveis, são punidas:
 
 a) Com multa de 500$00 a 10000$00;
 
 b) Com o máximo de multa prevista na alínea anterior e prisão até 1 mês, em caso de reincidência.
 
-###### Art. 6.º Após a publicação do presente decreto deverá ser elaborado um parecer técnico no sentido de preservar e garantir a estabilidade vegetativa dos exemplares referidos.
+Art. 6.º Após a publicação do presente decreto deverá ser elaborado um parecer técnico no sentido de preservar e garantir a estabilidade vegetativa dos exemplares referidos.
 
-###### Art. 7.º Após a aprovação do presente diploma senão definidas as competências de fiscalização do disposto no mesmo.
+Art. 7.º Após a aprovação do presente diploma senão definidas as competências de fiscalização do disposto no mesmo.
 
-###### Art. 8.º As despesas emergentes com a execução do disposto no presente diploma serão suportadas pelas rubricas adequadas da Secretaria Regional do Equipamento Social.
+Art. 8.º As despesas emergentes com a execução do disposto no presente diploma serão suportadas pelas rubricas adequadas da Secretaria Regional do Equipamento Social.
 
-###### Art. 9.º As dúvidas surgidas com a interpretação do presente diploma serão resolvidas por despacho do Secretário Regional do Equipamento Social.
+Art. 9.º As dúvidas surgidas com a interpretação do presente diploma serão resolvidas por despacho do Secretário Regional do Equipamento Social.
 
 Aprovado pela Assembleia Regional dos Açores em 27 de Janeiro de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 21 de Maio de 1982.**
+Assinado em Angra do Heroísmo em 21 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/13400/16761677.pdf))](https://files.diariodarepublica.pt/1s/1982/06/13400/16761677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/13400/16761677.pdf)

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 66/2009, 1º Suplemento, Série I de 2009-04-03
   number: '66'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2128-(31) a 2128-(43)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/353-c/2009/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/353-c-2009-418662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22011026ef3bfd0fb99b8df0df5f0fddbdc6768024066e4a48dad324fbfb9347
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72438de9a3e09e6e65d057fa805a1ce9026b920d43c7a96abc93f91a12230c71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
 - Aicep
-- Financiamento
-- Empresa
-- Modernização Administrativa
-- Mudança Tecnológica
 - Apoio ao Investimento
-- Projeto de Investimento
+- Desenvolvimento Económico
+- Empresa
+- Energia
+- Financiamento
+- IAPMEI
 - Incentivos ao Desenvolvimento
 - Indústria
 - Instituto do Turismo de Portugal
-- Desenvolvimento Económico
+- Modernização Administrativa
+- Mudança Tecnológica
 - Política Económica
-- Energia
 - Produção
+- Projeto de Investimento
+- QREN
 - Regulamento
-- IAPMEI
 relationships:
 - type: amended_by
   target: pt:dre:174870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307645:por
+  label: "Alterados os art.s 5º, 10º, 11º, 13º, 14º, 15º, 18º, 19º e 23º bem como o anexo A do Regulamento do Sistema de Incentivos\
+    \ à Inovação, aprovado pela Port 1464/2007, de 15-Nov, na redacção do presente diploma, pela PORT.1103/2010.25.10.2010.MEID,\
+    \ DR.IS [207] de 25.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1103-2010-307645
+  date: '2010-10-25'
+- type: amended_by
+  target: pt:dre:65891075:por
+  label: Alterados o art 13.º e os anexos B e D do Regulamento do Sistema de Incentivos à Inovação, aprovado pela Port 1464/2007
+    de 15-nov, na redação do presente diploma, pelo(a) Portaria n.º 262/2014 - Diário da República n.º 242/2014, Série I de
+    2014-12-16, nos termos do n.º 2 do art. 1.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-2014-65891075
+  date: '2014-12-16'
 - type: cites
   target: celex:32006R1998
   label: null
@@ -100,16 +114,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1464/2007/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1464/2007/11/15/p/dre
+- type: repealed_by
+  target: pt:dre:174870:por
+  label: "Revogado o carácter transitório das normas abrangidas pelo nº 1 do art. 3º da Port 1103/2010 de 25-out (art. 4º\
+    \ do presente diploma, que alterou a Port 1464/2007 de 15-nov) pela PORT.274/2012.06.09.2012.MEE, DR.IS [173] de 06.09.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-2012-174870
+  date: '2012-09-06'
 article_structure:
-  article_count: 46
+  article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:40Z'
   warnings: []
   errors: []
 ---
@@ -152,15 +173,21 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 7.º, 9.º, 10.º, 11.º, 13.º, 14.º, 15.º
 
 O presente Regulamento define as regras aplicáveis ao Sistema de Incentivos à Inovação, adiante designado por SI Inovação, criado ao abrigo do enquadramento nacional dos sistemas de incentivos ao investimento nas empresas, adiante designado por enquadramento nacional, aprovado pelo Decreto-Lei n.º 287/2007, de 17 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 65/2009, de 20 de Março.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 São abrangidos pelo SI Inovação os projectos de investimento de inovação produtiva promovidos por empresas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O SI Inovação tem como objectivo promover a inovação no tecido empresarial, pela via da produção de novos bens, serviços e processos que suportem a sua progressão na cadeia de valor e o reforço da sua orientação para os mercados internacionais, bem como pela introdução de melhorias tecnológicas, criação de unidades de produção e estímulo ao empreendedorismo qualificado e ao investimento estruturante em novas áreas com potencial crescimento.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -184,7 +211,9 @@ f) Introdução de melhorias tecnológicas com impacte relevante ao nível da pr
 
 5 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - São susceptíveis de apoio no âmbito do SI Inovação os projectos de investimento que incidam nas actividades previstas no n.º 1 do artigo 9.º do enquadramento nacional, sem prejuízo dos avisos de abertura dos concursos para a apresentação de candidaturas poderem restringir as actividades abrangidas em cada concurso.
 
@@ -194,7 +223,9 @@ f) Introdução de melhorias tecnológicas com impacte relevante ao nível da pr
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +239,9 @@ c) Cumprir, quando existam investimentos em formação profissional, todas as re
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -238,7 +271,9 @@ i) Demonstrar, quando integrar acções de formação profissional, que o projec
 
 5 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +291,9 @@ i) Demonstrar, quando integrar acções de formação profissional, que o projec
 
 8 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -272,7 +309,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O incentivo a conceder às despesas elegíveis referidas nos n.os 1, 3 e 4 do artigo 11.º é calculado através da aplicação de uma taxa base máxima de 45 %, a qual poderá ser acrescida das seguintes majorações:
 
@@ -292,7 +331,9 @@ c) ...
 
 8 - (Anterior número 7.)
 
-###### Artigo 15.º — Projectos do Regime Especial e de Interesse Estratégico
+Artigo 15.º
+
+Projectos do Regime Especial e de Interesse Estratégico
 
 1 - ...
 
@@ -302,7 +343,9 @@ c) ...
 
 4 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -310,7 +353,9 @@ c) ...
 
 3 - A apresentação de candidaturas dos projectos referidos no artigo 15.º não está sujeita ao regime de concursos fixado no n.º 1.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -322,7 +367,9 @@ c) ...
 
 5 - Os avisos de abertura são definidos pelos órgãos de gestão competentes, ouvida a comissão de selecção, sendo divulgados através dos seus respectivos sítios na Internet e no portal 'Incentivos QREN'.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Os projectos serão avaliados através do indicador de mérito do projecto (MP), em função de um conjunto de critérios de selecção, e com base em metodologia de cálculo definida no aviso de abertura de concurso, ou no caso dos projectos referidos no artigo 15.º, com base em metodologia específica.
 
@@ -336,7 +383,9 @@ c) ...
 
 6 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 (Actual corpo do artigo.)
 
@@ -362,11 +411,15 @@ j) Quando aplicável, cumprir os normativos em matéria de contratação públic
 
 l) Publicitar os apoios atribuídos nos termos da regulamentação e regras aplicáveis.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 O SI Inovação respeita o Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de Agosto, relativo ao Regulamento Geral de Isenção por Categoria, excepto nos caso de despesas enquadradas ao abrigo do Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), de 15 de Dezembro, relativo aos auxílios de minimis, quando assinalado.
 
-## ANEXO A — [...]
+ANEXO A
+
+[...]
 
 1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo 9.º do presente Regulamento, considera-se que as empresas possuem uma situação económico-financeira equilibrada quando apresentem, um rácio de autonomia financeira não inferior a 0,20, para o caso de grandes empresas, e de 0,15 para o caso de PME.
 
@@ -390,13 +443,15 @@ CP(índice e) - capital próprio da empresa, incluindo novas entradas de capital
 
 5 - ...
 
-## ANEXO B — [...]
+ANEXO B
+
+[...]
 
 1 - A avaliação do desempenho, a que se refere o n.º 4 do artigo 13.º, é efectuada em duas fases:
 
 a) Avaliação do Investimento (fase A) - avaliação a realizar no momento da verificação da conclusão física e financeira do projecto com base na qual é atribuído, a título de prémio de realização do investimento, 35 % da conversão máxima prevista no n.º 4 do artigo 13.º, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf)
 
 Sendo que para atribuição do prémio de realização do investimento (fase A) devem ser observadas as seguintes condições:
 
@@ -408,7 +463,7 @@ iii) P/P' e D'/D devem assumir valores superiores a 0,80.
 
 b) Avaliação das Metas (fase B) - avaliação a realizar no pós-projecto na qual é atribuído, a título de prémio de realização das metas, 65 % da conversão máxima prevista no n.º 4 do artigo 13.º, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf)
 
 Sendo que para atribuição do prémio de realização das metas (fase B) devem ser observadas as seguintes condições:
 
@@ -424,13 +479,17 @@ ii) O MP(índice Real) não poderá apresentar uma pontuação final inferior ao
 
 5 - (Revogado.)
 
-## ANEXO C — Mapa de auxílios regionais
+ANEXO C
+
+Mapa de auxílios regionais
 
 Taxas de Apoio Máximas em ESB
 
 ...
 
-## ANEXO D — [...]
+ANEXO D
+
+[...]
 
 1 - ...
 
@@ -460,7 +519,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 20 de Março de 2009.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.
 
 ## ANEXO — Republicação do Regulamento do Sistema de Incentivos à Inovação, anexo à Portaria n.º 1464/2007, de 15 de Novembro
 
@@ -922,7 +981,7 @@ DE(índice p) - montante da despesa elegível do projecto.
 
 a) Avaliação do Investimento (fase A) - avaliação a realizar no momento da verificação da conclusão física e financeira do projecto com base na qual é atribuído, a título de prémio de realização do investimento, 35 % da conversão máxima prevista no n.º 4 do artigo 13.º, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf)
 
 Sendo que para atribuição do prémio de realização do investimento (fase A) devem ser observadas as seguintes condições:
 
@@ -934,7 +993,7 @@ iii) P/P' e D'/D devem assumir valores superiores a 0,80;
 
 b) Avaliação das Metas (fase B) - avaliação a realizar no pós-projecto na qual é atribuído, a título de prémio de realização das metas, 65 % da conversão máxima prevista no n.º 4 do artigo 13.º, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf)
 
 Sendo que para atribuição do prémio de realização das metas (fase B) devem ser observadas as seguintes condições:
 
@@ -948,7 +1007,7 @@ ii) O MP(índice Real) não poderá apresentar uma pontuação final inferior ao
 
 Taxas de apoio máximas em ESB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06601/0003100043.pdf)
 
 ## ANEXO D — Identificação dos órgãos de gestão
 

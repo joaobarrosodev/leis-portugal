@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2005/07/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2005-237390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1700afb91834ae6d58d7e08a0f2ec4f60262026f7791550e1d15b58ee1b5a043
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a41f2fcbfa8c18033213dc093e03d3dfd7d630f928befe8ab09d0a8d3f88977
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Promoção Turística
-- Divulgação Cultural
-- Pessoa Singular
-- Regime de Apoio
-- Associação
 - Açores
+- Associação
+- Divulgação Cultural
+- Financiamento
+- Pessoa Singular
+- Promoção Turística
+- Regime de Apoio
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/4/1999/01/21/a/dre
@@ -82,16 +82,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/8/1999/03/22/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/8/1999/03/22/a/dre
+- type: cites
+  target: pt:dre:150517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197316:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:11Z'
   warnings: []
   errors: []
 ---
@@ -216,10 +224,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de Junho de 2005.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 29 de Junho de 2005.**
+Assinado em Angra do Heroísmo em 29 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

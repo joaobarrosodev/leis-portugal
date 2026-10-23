@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2013/05/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2013-513587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04a24718dc9a7b4fae5cc063b1d5050c190a7cac9059fdeca5f0f1015cba531a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf1e7c24973cf3e032e4ee2d6ab808718c143750eb69a354808402fe0844e29f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Transitária
-- PSP
+- Açores
 - Alvará
+- Atividade Transitária
 - Autorização de Transporte
 - Certificado de Aptidão Profissional
-- Sociedade Comercial
-- Multa
 - Contra-ordenação
-- Documento de Transporte
 - Cooperativa
+- Documento de Transporte
+- Documentos do Veículo
 - Exame
 - Fiscalização
 - Fundo Regional dos Transportes
-- Licenciamento
-- Licença de Transporte
-- Documentos do Veículo
 - GNR
+- Licença de Transporte
+- Licenciamento
+- Multa
 - Pessoa Coletiva
 - Pessoa Singular
-- Transporte de Mercadorias
+- PSP
 - Receita Própria
 - Receita Regional
 - Regime Jurídico
 - Sanção
-- Açores
+- Sociedade Comercial
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:117612825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117612825:por
+  label: Altera os art. 37.º do DLR 7/2010/A, de 05-mar, na redacção do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 1/2019/A - Diário da República n.º 4/2019, Série I de 2019-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2019-117612825
+  date: '2019-01-07'
 - type: cites
   target: celex:31985D0368
   label: null
@@ -136,13 +142,13 @@ relationships:
 article_structure:
   article_count: 41
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:45Z'
   warnings: []
   errors: []
 ---
@@ -197,11 +203,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de abril de 2013.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 13 de maio de 2013.**
+Assinado em Angra do Heroísmo em 13 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

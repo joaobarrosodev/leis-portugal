@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 147/2008, 1º Suplemento, Série I de 2008-07-31
   number: '147'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5174-(6) a 5174-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14701/0000600009.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/719-b/2008/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/719-b-2008-551191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21aa2f833b5db8e5ddb2b554d373482fe10c12360c98f3d5618c0d0e6bcb342f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 357cde86723ac5dcdbd380262eebb887af1c1eee8cb2235ccf9b0acd0837623f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Publicidade
-- Pesca
 - Apoio ao Investimento
-- Projeto de Investimento
+- Financiamento
+- Intervenção Operacional Pescas
+- Pesca
 - Produto de Aquicultura
 - Programa Comunitário
-- Intervenção Operacional Pescas
+- Projeto de Investimento
+- Publicidade
 - Regulamento
 - Subsídio não Reembolsável
 relationships:
@@ -83,6 +83,31 @@ relationships:
   target: pt:dre:502863:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609337:por
+  label: "Alterado o art. 12º do Regulamento, pela PORT.106/2010.19.02.2010.MADRP, DR.IS [35] de 19.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/106-2010-609337
+  date: '2010-02-19'
+- type: amended_by
+  target: pt:dre:179277:por
+  label: "Alterados os art.s 2º, 3º, 9º, 10º, 11º, 12º (o último na redação da Port 106/2010, de 19-fev) , 13º e 14º e republicado\
+    \ o Regulamento, pela PORT.226/2012.01.08.2012.MAMAOT, DR.IS [148] de 01.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-2012-179277
+  date: '2012-08-01'
+- type: amended_by
+  target: pt:dre:502863:por
+  label: "Alterados os arts 9.º, 11.º e 12.º (este último na redação da Port 106/2010, de 19-fev, e da Port 226/2012, de 01-ago)\
+    \ do Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos Mercados e Campanhas Promocionais,\
+    \ aprovado pela presente Portaria, pela PORT.313/2013.22.10.2013.MAGM, DR.IS [204] de 22.10.2013 \013 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/313-2013-502863
+  date: '2013-10-22'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art 9.º do Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos\
+    \ Mercados e Campanhas Promocionais aprovado pelo presente diploma, na redação das Ports n.ºs 226/2012 de 01-ago e 313/2013\
+    \ de 22-out, pela PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: celex:32006R0510
   label: null
@@ -90,13 +115,13 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:04Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +140,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.
 
 REGULAMENTO DO REGIME DE APOIO AOS INVESTIMENTOS NOS DOMÍNIOS DO DESENVOLVIMENTO DE NOVOS MERCADOS E CAMPANHAS PROMOCIONAIS
 
@@ -315,4 +340,4 @@ Os encargos com o pagamento dos apoios públicos previstos neste diploma são su
 
 A pontuação da apreciação estratégica é obtida através de soma dos pontos obtidos por cada um dos parâmetros da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14701/0000600009.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14701/0000600009.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14701/0000600009.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/073b00/19601972.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2004/03/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2004-210650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99d0e02b5590220ea90ef53541a81876d938653297deed0c44aaeeaac3960c70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9dcf68d8ee27e1daab6c682f8696ac4dcb1743f141c97fab496b0253949aabe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
 - Casa Degradada
 - Comparticipação do Estado
-- Regime Jurídico
+- Financiamento
 - Habitação
-- Açores
+- Regime Jurídico
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:122393535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276801:por
+  label: "Alterado o art. 19º do DRR 1/2003/A, de 06-Fev, na redacção do presente diploma, pelo DRR.10/2011/A.13.04.2011.PG-RAA,\
+    \ DR.IS [73] de 13.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2011-276801
+  date: '2011-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/6/2002/03/11/a/dre
   label: null
@@ -87,16 +93,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/1/2003/02/06/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/1/2003/02/06/a/dre
+- type: cites
+  target: pt:dre:200031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250609:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122393535:por
+  label: Revogado o DRR 1/2003/A de 06-fev, com a redação dada pelo presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 11/2019/A - Diário da República n.º 100/2019, Série I de 2019-05-24, com efeitos nos termos do disposto no art. 31.º
+    deste último diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2019-122393535
+  date: '2019-05-24'
 article_structure:
-  article_count: 76
+  article_count: 72
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:59Z'
   warnings: []
   errors: []
 ---
@@ -123,13 +144,17 @@ a) ...
 
 b) ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - O serviço instrutor proporá o indeferimento liminar do processo sempre que da reverificação formal e da verificação material resulte a ininteligibilidade do pedido ou a violação de algum dos requisitos de elegibilidade das pessoas ou das habitações para efeitos do acesso aos apoios ora regulamentados.
 
 2 - ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -139,7 +164,9 @@ b) ...
 
 4 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - A gestão dos apoios será feita pelo respectivo beneficiário.
 
@@ -149,7 +176,9 @@ b) ...
 
 4 - O contrato referido no número anterior será outorgado pelo representante da entidade que concede o apoio, bem como pelo respectivo beneficiário e pela entidade gestora.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - Sempre que tal se afigure necessário para a consecução dos objectivos constantes do diploma ora regulamentado, poderão os vários departamentos do Governo Regional propor ao departamento competente em matéria de habitação a celebração de protocolos de cooperação e projectos integrados.
 
@@ -165,13 +194,13 @@ O [Decreto Regulamentar Regional n.º 1/2003/A](https://diariodarepublica.pt/dr/
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 9 de Fevereiro de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 3 de Março de 2004.**
+Assinado em Angra do Heroísmo em 3 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — [Decreto Regulamentar Regional n.º 1/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2003-200031)
 

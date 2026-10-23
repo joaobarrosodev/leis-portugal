@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2023/03/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2023-208326768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c9857c2c47dc99c63be972e71f5a531fe219746a83c5904feeebc2814813958
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eaf9a6ef854cd405878376fa444b43c3f3a9282f774f64e173e1426d4da4c181
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Água
 - Águas Públicas
-- Ordenamento do Território
-- Governo Regional
-- Recursos Hídricos
-- Definição de Competências
-- Gestão dos Recursos
-- Página na Internet
-- Proteção do Ambiente
-- Gestão do Ambiente
+- Águas Subterrâneas
 - Bacia Hidrográfica
+- Definição de Competências
+- Gestão do Ambiente
+- Gestão dos Recursos
+- Governo Regional
+- Ordenamento do Território
+- Página na Internet
 - Plano Regional
 - Plano Regional da ÁGUA
+- Plano Regional de Ordenamento do Território
 - Prazo
 - Programa
-- Plano Regional de Ordenamento do Território
 - Prota
-- Águas Subterrâneas
+- Proteção do Ambiente
+- Recursos Hídricos
 - Relatório
-- Açores
 relationships:
 - type: cites
   target: celex:32000L0060
@@ -126,6 +126,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185325081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636186:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0060
   label: null
@@ -133,13 +169,13 @@ relationships:
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:10Z'
   warnings: []
   errors: []
 ---
@@ -296,15 +332,15 @@ b) Objetivos de Resposta.
 
 a) AT1 - Quantidade da Água:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 b) AT2 - Qualidade da Água:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 c) AT3 - Gestão de Riscos e Valorização dos Recursos Hídricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 ###### Artigo 6.º — Objetivos de Resposta
 
@@ -314,31 +350,31 @@ c) AT3 - Gestão de Riscos e Valorização dos Recursos Hídricos:
 
 a) AT1 - Quantidade da Água:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 b) AT2 - Qualidade da Água:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 c) AT3 - Gestão de Riscos e Valorização dos Recursos Hídricos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 d) AT4 - Quadro Institucional e Normativo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 e) AT5 - Regime Económico e Financeiro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 f) AT6 - Informação e Participação do Cidadão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 g) AT7 - Conhecimento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 ###### Artigo 7.º — Conteúdo documental
 
@@ -396,7 +432,9 @@ g) Volume 7 - Consulta pública, que apresenta uma descrição do processo de co
 
 O Resumo Não Técnico de Alteração do PRA constitui um documento de alteração do PRA e inclui um resumo não técnico de todos os volumes referidos no número anterior.
 
-###### Artigo 10.º — Anexo Cartográfico
+###### Artigo 10.º
+
+## Anexo Cartográfico
 
 O Anexo Cartográfico constitui um documento de alteração do PRA onde são atualizadas as 18 peças cartográficas apresentadas no Plano Regional da Água, publicado em 2003, aprovado pelo [Decreto Legislativo Regional n.º 19/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2003-239797), de 23 de abril, organizadas nos seguintes temas, para todas as ilhas da RAA:
 
@@ -440,11 +478,11 @@ A alteração do PRA entra em vigor no dia seguinte ao da sua publicação e vig
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de janeiro de 2023.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 1 de março de 2023.**
+Assinado em Angra do Heroísmo em 1 de março de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -492,7 +530,7 @@ QUADRO 1
 
 Síntese de diagnóstico dos indicadores para a Área Temática 1 - Quantidade da Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 2 - Qualidade da Água
 
@@ -500,7 +538,7 @@ QUADRO 2
 
 Síntese de diagnóstico dos indicadores para a Área Temática 2 - Qualidade da Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 3 - Gestão de Riscos e Valorização dos Recursos Hídricos
 
@@ -508,7 +546,7 @@ QUADRO 3
 
 Síntese de diagnóstico dos indicadores para a Área Temática 3 - Gestão de Riscos e Valorização dos Recursos Hídricos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 4 - Quadro Institucional e Normativo
 
@@ -518,7 +556,7 @@ Síntese de diagnóstico dos indicadores para a Área Temática 4
 
 Quadro Institucional e Normativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 5 - Regime Económico e Financeiro
 
@@ -528,7 +566,7 @@ Síntese de diagnóstico dos indicadores para a Área Temática 5
 
 Regime Económico e Financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 6 - Informação e Participação do Cidadão
 
@@ -536,7 +574,7 @@ QUADRO 6
 
 Síntese de diagnóstico dos indicadores para a Área Temática 6 - Informação e Participação do Cidadão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 7 - Conhecimento
 
@@ -544,7 +582,7 @@ QUADRO 7
 
 Síntese de diagnóstico dos indicadores para a Área Temática 7 - Conhecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 2 - Análise Prospetiva
 
@@ -690,7 +728,7 @@ QUADRO 8
 
 Linhas de Orientação Estratégica definidas por Área Temática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 4.2 - Objetivos
 
@@ -750,7 +788,7 @@ No final da sua vigência, permitindo comparar os resultados obtidos com os dado
 
 Assim, tendo em conta o período de vigência da alteração do PRA (2030), considera-se fundamental a publicação de um relatório de avaliação do desempenho com periodicidade quadrienal, divulgando assim a informação referente à evolução da aplicação do Programa e aos resultados atingidos, de acordo com o cronograma apresentado na figura 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Figura 1 - Calendário para a Avaliação e Acompanhamento da alteração do PRA
 
@@ -762,7 +800,7 @@ Os diversos produtos resultantes do processo de avaliação e acompanhamento (fi
 
 Para além do Relatório de Acompanhamento do PRA, propõe-se a elaboração de um Relatório de Divulgação, com o objetivo de apresentar de forma eminentemente não técnica os aspetos mais importantes do relatório de acompanhamento. Para além destes dois relatórios, será promovida a divulgação da informação online, que ambiciona conseguir uma maior participação da sociedade civil na implementação do Programa, através da apresentação de novos conteúdos e funcionalidades.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Figura 2 - Fases e produtos do processo de avaliação e acompanhamento do PRA
 
@@ -790,7 +828,7 @@ QUADRO 9
 
 Indicadores Ambientais para a Área Temática 1 - Quantidade da Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 2 - Qualidade da Água
 
@@ -798,7 +836,7 @@ QUADRO 10
 
 Indicadores Ambientais para a Área Temática 2 - Qualidade da Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 3 - Gestão de Riscos e Valorização dos Recursos Hídricos
 
@@ -806,7 +844,7 @@ QUADRO 11
 
 Indicadores Ambientais para a Área Temática 3 - Gestão de Riscos e Valorização dos Recursos Hídricos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 4 - Quadro Institucional e Normativo
 
@@ -814,7 +852,7 @@ QUADRO 12
 
 Indicadores Ambientais para a Área Temática 4 - Quadro Institucional e Normativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 5 - Regime Económico e Financeiro
 
@@ -822,7 +860,7 @@ QUADRO 13
 
 Indicadores Ambientais para a Área Temática 5 - Regime Económico e Financeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 6 - Informação e Participação do Cidadão
 
@@ -830,7 +868,7 @@ QUADRO 14
 
 Indicadores Ambientais para a Área Temática 6 - Informação e Participação do Cidadão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 Área Temática 7 - Conhecimento
 
@@ -838,8 +876,10 @@ QUADRO 15
 
 Indicadores Ambientais para a Área Temática 7 - Conhecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf))](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/04800/0000400042.pdf)
 
 (1) Trata-se da nova agenda de ação até 2030, que se baseia nos progressos e lições aprendidas com os 8 Objetivos de Desenvolvimento do Milénio, entre 2000 e 2015. Esta agenda é fruto do trabalho conjunto de governos e cidadãos de todo o mundo que pretende criar um novo modelo global para acabar com a pobreza, promover a prosperidade e o bem-estar de todos, proteger o meio ambiente e combater as alterações climáticas.
 
 (2) Desenvolvimento de estudo(s) para a identificação de problemas de escassez em todas as ilhas e elaboração de um plano de gestão de secas nas ilhas mais afetadas, que permita minimizar os efeitos dos períodos de escassez, definindo medidas de regularização, de repartição e de priorização adequadas e, em simultâneo, consubstancie uma estratégia a longo prazo, preventiva numa perspetiva de adaptação às alterações climáticas. Este(s) estudo(s) deve(m) ser desenvolvido(s) numa perspetiva multissetorial no contexto do uso de recursos hídricos à unidade de ilha (no sentido de promover a gestão integrada da água), e incluir a identificação das origens de água que podem ser estratégicas ao nível da resposta e adaptação às alterações climáticas.
+
+116222075

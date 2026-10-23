@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/09900/07920792.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1978-425529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 165dcb9107893d4e420c6a17eede1bfc34e0ad23e12791d5dbbad4e60c9f2e17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63eb293e04f02857d116dbe508538a47c2b1caf3584223646f71d6e19c620e22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- ACTO Administrativo
+- Chefe de Repartição
+- Contrato
+- Definição de Funções
+- Notário
+- Secretaria Regional da Administração Pública
+- Secretaria Regional da Agricultura e Pescas
+- Serviços de Registo e Notariado
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO ÚNICO PELO DECRETO REGULAMENTAR REGIONAL NUMERO 21/78/A, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE,\
+    \ NUMERO 262, DE 14/11/78. REVOGADO PELO DECRETO REGULAMENTAR REGIONAL NUMERO 29/89/A, PUBLICADO NO DIÁRIO DA REPÚBLICA,\
+    \ I SÉRIE, NUMERO 217, DE 20/9/89.\0E 20/9/89.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:325926:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325926:por
+  label: Alterado o art. único pelo(a) Decreto Regulamentar Regional n.º 21/78/A - Diário da República n.º 262/1978, Série
+    I de 1978-11-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-1978-325926
+  date: '1978-11-14'
+- type: cites
+  target: pt:dre:182405:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:51Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +125,7 @@ Assim, em execução dos Decretos Regionais n.º 1/76, de 7 de Setembro, publica
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. Independentemente da faculdade de recorrer aos notários públicos, são atribuídas funções de notário em actos e contratos em que o Governo Regional for outorgante aos seguintes funcionários:
+Artigo único. Independentemente da faculdade de recorrer aos notários públicos, são atribuídas funções de notário em actos e contratos em que o Governo Regional for outorgante aos seguintes funcionários:
 
 a) Chefe da Repartição dos Serviços Administrativos da Secretaria Regional da Administração Pública;
 
@@ -110,10 +135,10 @@ c) Chefe da Repartição dos Serviços Administrativos da Secretaria Regional da
 
 (Aprovado em Plenário do Governo Regional em 21 de Março de 1978.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em 12 de Abril de 1978.**
+Assinado em 12 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.

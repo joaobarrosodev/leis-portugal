@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01500/0001500055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2025/01/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2025-904232915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb08b74c66fd8fb025b33f9a572558c7988882e3cbdf1de1852eca70c377e376
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7037ee7d0c3f917ce95450b75539a052db2f7dfcfd5fb318a3f1e87d3c93d276
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
+- Bolsa de Emprego Público
 - Comissão de Serviço
 - Concurso
 - Definição de Competências
-- Vice-presidência do Governo Regional
-- Bolsa de Emprego Público
 - Integração de Trabalhadores
 - Orgânica
 - Período Experimental
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Açores
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência de Serviços
 - Transferência Patrimonial
+- Vice-presidência do Governo Regional
 - Vice-presidente do Governo Regional
 relationships:
 - type: cites
@@ -116,16 +116,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/2022/07/20/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/2022/07/20/a/dre
+- type: cites
+  target: pt:dre:129113819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129341449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157996086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186362062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860106954:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:9/2022/A
+  label: Revoga, a partir de 23 de janeiro de 2025, nos termos do artigo 7.º do presente diploma, a orgânica e quadro de pessoal
+    dirigente, de direção específica e de chefia da Vice-Presidência do Governo Regional, aprovada pelo Decreto Regulamentar
+    Regional n.º 9/2022/A, de 20 de julho, Diário da República n.º 139/2022, Série I
+  source: null
+  date: '2022-07-20'
 article_structure:
   article_count: 55
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:13Z'
   warnings: []
   errors: []
 ---
@@ -182,11 +221,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 20 de dezembro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 20 de janeiro de 2025.**
+Assinado em Angra do Heroísmo em 20 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -350,7 +389,9 @@ o) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DSDCI integra a Divisão para a Promoção e Divulgação do Potencial Económico Regional.
 
-###### Artigo 7.º — Divisão para a Promoção e Divulgação do Potencial Económico Regional
+###### Artigo 7.º
+
+##### Divisão para a Promoção e Divulgação do Potencial Económico Regional
 
 1 - À Divisão para a Promoção e Divulgação do Potencial Económico Regional, doravante designada por DPDPER, compete:
 
@@ -388,7 +429,9 @@ p) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DPDPER é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-##### SUBSECÇÃO II — DIVISÃO ADMINISTRATIVA, FINANCEIRA E PATRIMONIAL
+##### SUBSECÇÃO II
+
+##### DIVISÃO ADMINISTRATIVA, FINANCEIRA E PATRIMONIAL
 
 ###### Artigo 8.º — Natureza e missão
 
@@ -450,7 +493,9 @@ a) A Secção de Contabilidade, Pessoal e Expediente;
 
 b) O Serviço de Informática e Telecomunicações.
 
-###### Artigo 10.º — Secção de Contabilidade, Pessoal e Expediente
+###### Artigo 10.º
+
+#### Secção de Contabilidade, Pessoal e Expediente
 
 1 - À Secção de Contabilidade, Pessoal e Expediente, doravante designada por SCPE, compete, nomeadamente:
 
@@ -724,7 +769,9 @@ a) A Divisão Administrativa e dos Assuntos Institucionais;
 
 b) A Divisão dos Assuntos Europeus e Externos.
 
-###### Artigo 18.º — Divisão Administrativa e dos Assuntos Institucionais
+###### Artigo 18.º
+
+##### Divisão Administrativa e dos Assuntos Institucionais
 
 1 - À Divisão Administrativa e dos Assuntos Institucionais, doravante designada de DAAI compete, nomeadamente:
 
@@ -762,7 +809,9 @@ p) Realizar outras tarefas que lhe sejam distribuídas ou cometidas à sua respo
 
 2 - A DAAI é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 19.º — Divisão dos Assuntos Europeus e Externos
+###### Artigo 19.º
+
+##### Divisão dos Assuntos Europeus e Externos
 
 1 - À Divisão dos Assuntos Europeus e Externos, doravante designada de DAEE compete, nomeadamente:
 
@@ -958,7 +1007,9 @@ aa) Assegurar a realização de outras tarefas que, no âmbito da sua área de c
 
 4 - A DSCP integra a Divisão Administrativa e Financeira.
 
-###### Artigo 25.º — Divisão Administrativa e Financeira
+###### Artigo 25.º
+
+##### Divisão Administrativa e Financeira
 
 1 - À Divisão Administrativa e Financeira, doravante designada de DAF, compete, nomeadamente:
 
@@ -1210,7 +1261,9 @@ d) O Núcleo de Desenvolvimento de Software;
 
 e) O Núcleo de Redes e Apoio ao Utilizador.
 
-###### Artigo 32.º — Divisão de Administração de Sistemas e Infraestruturas
+###### Artigo 32.º
+
+##### Divisão de Administração de Sistemas e Infraestruturas
 
 1 - À Divisão de Administração de Sistemas e Infraestruturas, doravante designada de NOC, Network Operations Center, compete, nomeadamente:
 
@@ -1246,7 +1299,9 @@ o) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NOC é dirigido por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 33.º — Divisão de Cibersegurança
+###### Artigo 33.º
+
+##### Divisão de Cibersegurança
 
 1 - À Divisão de Cibersegurança, doravante designada por SOC, Security Operations Center, compete, nomeadamente:
 
@@ -1282,7 +1337,9 @@ o) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O SOC é dirigido por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 34.º — Divisão de Operações da Ilha Terceira
+###### Artigo 34.º
+
+##### Divisão de Operações da Ilha Terceira
 
 1 - Compete à Divisão de Operações da Ilha Terceira, adiante designado de DOIT, nomeadamente:
 
@@ -1412,7 +1469,9 @@ b) A Divisão da Autonomia Digital e Administração Aberta;
 
 c) O Núcleo de Pessoas e Empresas.
 
-###### Artigo 38.º — Divisão de Gestão Integrada de Projetos
+###### Artigo 38.º
+
+##### Divisão de Gestão Integrada de Projetos
 
 1 - À Divisão de Gestão Integrada de Projetos, doravante designada de DGIP, compete, nomeadamente:
 
@@ -1428,7 +1487,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGIP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 39.º — Divisão da Autonomia Digital e Administração Aberta
+###### Artigo 39.º
+
+##### Divisão da Autonomia Digital e Administração Aberta
 
 1 - À Divisão da Autonomia Digital e Administração Aberta, adiante designada de DADAA, compete, nomeadamente:
 
@@ -1476,7 +1537,9 @@ i) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NPE é coordenado por trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do Vice-Presidente, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 41.º — Divisão de Planeamento, Gestão e Qualidade
+###### Artigo 41.º
+
+##### Divisão de Planeamento, Gestão e Qualidade
 
 1 - A Divisão de Planeamento, Gestão e Qualidade, doravante designada de DPGQ, constitui um serviço executivo ao qual compete coordenar e desenvolver as ações conducentes ao Planeamento, Gestão e Qualidade dos serviços da DRCTD.
 
@@ -1637,4 +1700,6 @@ Quadro de pessoal dirigente, de direção específica e de chefia da Vice-Presid
 |  | Cargo de chefia |  |
 | 1 | Coordenador do Gabinete de Acompanhamento do Parque de Ciência e Tecnologia e de Promoção do Desenvolvimento e Inovação da ilha de São Miguel | d) |
 | 1 | Coordenador do Gabinete de Acompanhamento do Parque de Ciência e Tecnologia e de Promoção do Desenvolvimento e Inovação da ilha Terceira | d) |
-| a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.b) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.c) Remuneração nos termos do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.d) Remuneração nos termos do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional. | a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.b) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.c) Remuneração nos termos do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.d) Remuneração nos termos do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional. | a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.b) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.c) Remuneração nos termos do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.d) Remuneração nos termos do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional. |
+| a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.b) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.c) Remuneração nos termos do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.d) Remuneração nos termos do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional. |  |  |
+
+118588013

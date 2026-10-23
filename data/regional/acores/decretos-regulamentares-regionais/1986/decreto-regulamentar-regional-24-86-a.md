@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1986-228233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2861c601997e9bd0e5945cea52a10787839d259004ab5f6df4d8b8cbca52be9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5b4077dad8a9ccbc28590c6fa0af8cd3a8f4983c9b286a3e7c20b83c7c8de4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Queijo
+- Região Demarcada
+relationships:
+- type: cites
+  target: pt:dre:196750:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:35Z'
   warnings: []
   errors: []
 ---
@@ -95,33 +102,33 @@ Por esta razão, impunha-se desde há muito defender os produtores e os consumid
 
 Assim, e considerando que foi permitida, pelo disposto no artigo 1.º do [Decreto Legislativo Regional n.º 8/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1986-196750), de 19 de Março, a criação de regiões demarcadas para queijos, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada a Região Demarcada do Queijo São Jorge, caracterizada por possuir factores humanos e edafo-climáticos responsáveis pelas características específicas do tradicionalmente conhecido queijo São Jorge, que abrange a área correspondente à superfície total da ilha de São Jorge.
+Artigo 1.º - 1 - É criada a Região Demarcada do Queijo São Jorge, caracterizada por possuir factores humanos e edafo-climáticos responsáveis pelas características específicas do tradicionalmente conhecido queijo São Jorge, que abrange a área correspondente à superfície total da ilha de São Jorge.
 
 A ilha de São Jorge pertence ao grupo central do arquipélago dos Açores, situa-se no oceano Atlântico, entre as coordenadas 38º 32' e 38º 46' (latitude norte) e 27º 45' e, 28º 19' (longitude oeste de Greenwich), com uma superfície de 237,6 Km2.
 
 2 - O leite de vaca destinado ao fabiroc do queijo São Jorge só pode ser o produzido na região demarcada a que, se refere o número anterior.
 
-###### Art. 2.º Só poderá aplicar-se a denominação de origem de queijo São Jorge ao queijo produzido na Região Demarcada que satisfaça as condições estabelecidas e constantes no anexo I e que seja devidamente atestado pela entidade certificadora.
+Art. 2.º Só poderá aplicar-se a denominação de origem de queijo São Jorge ao queijo produzido na Região Demarcada que satisfaça as condições estabelecidas e constantes no anexo I e que seja devidamente atestado pela entidade certificadora.
 
-###### Art. 3.º As entidades que considerem reunir condições para obter o estatuto de entidade certificadora do queijo São Jorge deverão dirigir, nos termos do artigo 5.º do [Decreto Legislativo Regional n.º 8/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1986-196750), o seu pedido ao Secretário Regional do Comércio e Indústria, no prazo de 90 dias a partir da data da publicação do presente diploma.
+Art. 3.º As entidades que considerem reunir condições para obter o estatuto de entidade certificadora do queijo São Jorge deverão dirigir, nos termos do artigo 5.º do [Decreto Legislativo Regional n.º 8/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1986-196750), o seu pedido ao Secretário Regional do Comércio e Indústria, no prazo de 90 dias a partir da data da publicação do presente diploma.
 
-###### Art. 4.º Os produtores de queijo São Jorge carecem de autorização da entidade certificadora referida no artigo anterior para usarem a denominação de origem, ficando sujeitos às respectivas acções de controle e demais disposições do seu regulamento técnico.
+Art. 4.º Os produtores de queijo São Jorge carecem de autorização da entidade certificadora referida no artigo anterior para usarem a denominação de origem, ficando sujeitos às respectivas acções de controle e demais disposições do seu regulamento técnico.
 
-###### Art. 5.º Competirá às Secretarias Regionais da Agricultura e Pescas e do Comércio e Indústria, ao nível da Região Demarcada, promover acções que visem a melhoria zootécnica dos bovinos produtores da região e bem assim das condições de produção, transporte e qualidade do leite, como da qualidade e uniformização das características do queijo São Jorge, com o objectivo de aumentar os quantitativos de produtos certificáveis.
+Art. 5.º Competirá às Secretarias Regionais da Agricultura e Pescas e do Comércio e Indústria, ao nível da Região Demarcada, promover acções que visem a melhoria zootécnica dos bovinos produtores da região e bem assim das condições de produção, transporte e qualidade do leite, como da qualidade e uniformização das características do queijo São Jorge, com o objectivo de aumentar os quantitativos de produtos certificáveis.
 
-###### Art. 6.º As acções de controle e disciplina da actividade da entidade certificadora do queijo São Jorge competem às Secretarias Regionais da Agricultura e Pescas e do Comércio e Indústria, através do Instituto Regional de Produtos Agro-Alimentares (IRPA) e Serviço de Fiscalização Económica e Qualidade Alimentar.
+Art. 6.º As acções de controle e disciplina da actividade da entidade certificadora do queijo São Jorge competem às Secretarias Regionais da Agricultura e Pescas e do Comércio e Indústria, através do Instituto Regional de Produtos Agro-Alimentares (IRPA) e Serviço de Fiscalização Económica e Qualidade Alimentar.
 
-###### Art. 7.º Este diploma entra imediatamente em vigor.
+Art. 7.º Este diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional, em São Jorge, em 16 de Maio de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Junho de 1986.**
+Assinado em Angra do Heroísmo em 20 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 ## ANEXO I — Condições a que terá de satisfazer o queijo São Jorge
 

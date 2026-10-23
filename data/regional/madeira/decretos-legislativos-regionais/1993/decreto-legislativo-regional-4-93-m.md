@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 97/1993, 1º Suplemento, Série I-A de 1993-04-26
   number: '97'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2068-(2) a 2068-(61)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/097a01/00020061.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/1993/04/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1993-666711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfee1fad9dfece1231229b7820608d4e35842aa23bb9dd0f36a85ca1ab57410c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c2f2752bb641e4b6f59837ef78bde652236cccb510d7ee6338096d5de674d79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação
+- Autarquia Local
 - Concurso Público
-- Finanças Locais
 - Contrato Programa
-- Saúde
 - Empréstimo
 - Execução do Orçamento
+- Finanças Locais
 - Fundo de Equilibrio Financeiro
 - Fundo de Investimento para o Futebol Profissional
+- Madeira.região Autónoma
 - Orçamento Regional
 - Porto Santo
-- Madeira.região Autónoma
+- Saúde
 - Subsídio
 - Subsídio de Fixação
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:220114:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:305814:por
+  label: "Alterado o artigo 8.º e os mapas I a IX anexos ao presente diploma, pelo DLR.21/93/M.10.12.1993.ALR-RAM, DR.IS-A\
+    \ [287]Supl de 10.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-1993-305814
+  date: '1993-12-10'
 - type: cites
   target: celex:31971L0305
   label: null
@@ -93,16 +99,27 @@ relationships:
   target: celex:31977L0062
   label: null
   source: http://data.europa.eu/eli/dir/1977/62/oj
+- type: corrected_by
+  target: pt:dre:616586:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 133/93, DE 30 DE JULHO, PUBLICADO NO DR.IS-A, 178, SUPL, DE 930731.\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/133-1993-616586
+- type: repealed_by
+  target: pt:dre:220114:por
+  label: "Revogado o art. 7º do presente diploma, pelo DLR.6/2005/M.05.05.2005.AL-RAM, DR.IS-A [105] de 01.06.2005, a partir\
+    \ da sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2005-220114
+  date: '2005-05-05'
 article_structure:
   article_count: 35
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:52Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +174,7 @@ Fica o Governo Regional autorizado, mediante portaria do Secretário Regional da
 
 2 - Enquanto não forem fornecidos pelas competentes repartições de finanças os montantes das reduções ou isenções dos impostos referidos na alínea a) do n.º 1 do artigo 4.º da Lei n.º 1/87, de 6 de Janeiro, fica o Governo Regional autorizado a compensar os municípios da Região, mediante portaria do Secretário Regional das Finanças, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/097a01/00020061.pdf))](https://files.diariodarepublica.pt/1s/1993/04/097a01/00020061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/097a01/00020061.pdf)
 
 ###### Artigo 7.º — Adaptação à Região
 
@@ -405,10 +422,10 @@ Aprovado em sessão plenária em 23 de Março
 
 de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 15 de Abril de 1993.**
+Assinado em 15 de Abril de 1993.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/04/097a01/00020061.pdf))](https://files.diariodarepublica.pt/1s/1993/04/097a01/00020061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/04/097a01/00020061.pdf)

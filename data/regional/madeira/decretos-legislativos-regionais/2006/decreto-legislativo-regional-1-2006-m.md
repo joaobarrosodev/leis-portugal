@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/002a00/00520063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2006/01/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2006-203012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8e029925e531943e0e97511b3608ccb901704881182069aad864dc65c1d1478
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 759b1ec377c5d46fe688a955f877c99344f3e116f713f040e2de9a533070c2b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
-- Estabelecimento Comercial
 - Comércio a Retalho
 - Comércio por Grosso
 - Contra-ordenação
 - Direcção Regional do Comércio Indústria e Energia
 - Embargo
+- Empresa
+- Estabelecimento Comercial
 - Fiscalização
 - Impresso
-- Secretaria Regional do Equipamento Social e Transportes
 - Madeira.região Autónoma
 - Secretaria Regional do Ambiente e dos Recursos Naturais
+- Secretaria Regional do Equipamento Social e Transportes
 - Taxa
 - Vistoria
 relationships:
@@ -125,16 +125,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/2003/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/2003/06/11/p/dre
+- type: cites
+  target: pt:dre:152524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683219:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:258767:por
+  label: "Revogado, a partir de 09.03.2013, pelo DLR.11/2013/M.08.03.2013.AL-RAM, DR.IS [48] de 08.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2013-258767
+  date: '2013-03-08'
 article_structure:
   article_count: 28
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:34Z'
   warnings: []
   errors: []
 ---
@@ -517,13 +570,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de Novembro de 2005.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 15 de Dezembro de 2005.**
+Assinado em 15 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I
 
@@ -561,7 +614,7 @@ CAE a cinco dígitos;
 
 c) Legitimidade para apresentação do pedido:
 
-## Título de propriedade, contrato-promessa ou qualquer outro documento bastante, de que resulte ou possa vir a resultar a legitimidade do requerente para construir o estabelecimento ou conjunto comercial em causa ou, caso estes já existam, para os explorar comercialmente;
+Título de propriedade, contrato-promessa ou qualquer outro documento bastante, de que resulte ou possa vir a resultar a legitimidade do requerente para construir o estabelecimento ou conjunto comercial em causa ou, caso estes já existam, para os explorar comercialmente;
 
 d) Características do estabelecimento de comércio (aplicável aos pedidos de autorização de instalação e de modificação de estabelecimentos de comércio):
 

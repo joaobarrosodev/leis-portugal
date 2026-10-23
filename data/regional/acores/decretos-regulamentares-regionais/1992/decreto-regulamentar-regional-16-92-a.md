@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/075b00/14951496.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/1992/03/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1992-189933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a16c5872ae5bc3e468feb2ca556af7913ef329d16ad9891e7eaae4fe19e3cec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a719621f0fbc1f99e8f44694f07437e603f96810abf783de8edd650b6b322521
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Governo Regional
+- Açores
 - Formas de Provimento
 - Gabinete de Emigração e Apoio às Comunidades Açorianas
-- Recrutamento de Pessoal
+- Governo Regional
 - Orgânica
+- Pessoal Dirigente
 - Pessoal Técnico Superior
 - Pessoal Técnico Superior de Serviço Social
 - Quadro de Pessoal
-- Açores
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:522846:por
@@ -85,16 +85,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522846:por
+  label: "Revogado pelo DRR.14/98/A.1998.04.13.PG-RAA, DR.IS-B [110] de 13/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1998-522846
+  date: '1998-04-13'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:00Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +142,7 @@ O presente diploma visa, por um lado, adequar a orgânica do Gabinete de Emigra�
 
 Assim, e em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, mantido em vigor pelo artigo 15.º do [Decreto Legislativo Regional n.º 36/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-1988-480561), de 28 de Novembro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 9.º, 10.º e 12.º do [Decreto Regulamentar Regional n.º 18/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1989-610763), de 19 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 8.º, 9.º, 10.º e 12.º do [Decreto Regulamentar Regional n.º 18/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1989-610763), de 19 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 8.º — Pessoal dirigente
 
@@ -125,22 +162,22 @@ As condições e regras de ingresso e acesso do pessoal do Gabinete são, para a
 
 2 - O exercício de funções será a tempo parcial, sendo o número de horas fixado por despacho do Presidente do Governo Regional.
 
-###### Art. 2.º O técnico de serviço social do quadro da Delegação de Ponta Delgada transita para a carreira de técnico superior de serviço social, de acordo com as disposições constantes do [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto.
+Art. 2.º O técnico de serviço social do quadro da Delegação de Ponta Delgada transita para a carreira de técnico superior de serviço social, de acordo com as disposições constantes do [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto.
 
-###### Art. 3.º O quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 18/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1989-610763), de 19 de Maio, é substituído pelo quadro anexo ao presente diploma, que dele faz parte integrante.
+Art. 3.º O quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 18/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1989-610763), de 19 de Maio, é substituído pelo quadro anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 20 de Dezembro de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Fevereiro de 1992.**
+Assinado em Angra do Heroísmo em 20 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/075b00/14951496.pdf))](https://files.diariodarepublica.pt/1s/1992/03/075b00/14951496.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/075b00/14951496.pdf)

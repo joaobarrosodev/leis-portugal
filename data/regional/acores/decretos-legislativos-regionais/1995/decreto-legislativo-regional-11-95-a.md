@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/171a00/47584759.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/1995/07/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1995-484983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23e2dd0cf8f8892e922b90d3e28b1afd5f024ebbdb86a040a58e6365c3ec3414
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 176b47426c08ab4d90fdd7952752df045b484ce8d1bb50b7ce673a67d4d27e47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Conselho Consultivo Regional de Juventude
 - Definição de Competências
-- Protecção à Juventude
 - Política de Juventude
-- Açores
+- Protecção à Juventude
 relationships:
 - type: amended_by
   target: pt:dre:549059:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:571473:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:549059:por
+  label: "Revogado pelo DLR.10/99/A.1999.03.17.ALR-RAA, DR.IS-A [81] de 07/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-1999-549059
+  date: '1999-03-17'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:34Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +109,7 @@ O presente diploma procede à alteração da composição do Conselho Consultivo
 
 Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo único. Os artigos 1.º, 2.º e 3.º do [Decreto Legislativo Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1990-571473), de 22 de Maio, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, 2.º e 3.º do [Decreto Legislativo Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1990-571473), de 22 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -174,10 +183,10 @@ v) Um representante das associações inscritas no registo regional das associa�
 
 Aprovado pela Assembleia Legislativa Regional, na Horta, em 31 de Maio de 95.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 5 de Julho de 1995.**
+Assinado em Angra do Heroísmo em 5 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

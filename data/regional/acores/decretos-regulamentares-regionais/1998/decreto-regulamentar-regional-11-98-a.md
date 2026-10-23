@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/103b00/19982027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1998/05/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1998-516879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de7073dec38aa205b0ac24b1fec6485742066e6101e54e1da37bcea65f51d186
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddcca4b89946e7b76c04757b55be2b60f132554b2317445e0404225091ef2982
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Secretaria Regional da Educação e Assuntos Sociais
+- Açores
+- Conselho Regional da Juventude
 - Conselho Regional de Concertação Social
 - Conselho Regional de Saúde
 - Conselho Regional de Segurança Social
@@ -74,26 +74,33 @@ subjects:
 - Definição de Competências
 - Direcção Regional da Cultura
 - Direcção Regional da Educação Física e Desporto
+- Direcção Regional da Juventude Emprego e Formação Profissional
 - Direcção Regional da Solidariedade e Segurança Social
+- Direcção Regional de Educação
 - Direcção Regional de Saúde
 - Fundo Regional de Acção Cultural
 - Gabinete da ZONA Classificada de Angra do Heroísmo
 - Gabinete de Gestão Financeira do Emprego
+- Governo Regional
+- Inspecção Regional das Actividades Culturais
 - Inspecção Regional de Educação
-- Direcção Regional de Educação
+- Inspecção Regional do Trabalho
 - Orgânica
 - Quadro de Pessoal
-- Conselho Regional da Juventude
-- Direcção Regional da Juventude Emprego e Formação Profissional
-- Inspecção Regional das Actividades Culturais
-- Inspecção Regional do Trabalho
+- Secretaria Regional da Educação e Assuntos Sociais
 - Serviço Regional de Conciliação e Arbitragem do Trabalho
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:633174:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:198771:por
+  label: "Determinada a transição do pessoal em funções nos serviços dependentes do secretário Regional dos Assuntos Sociais\
+    \ constantes no quadro anexo, para o quadro de pessoal anexo ao presente diploma pelo DRR.17/2002/A.2002.06.11.PG-RAA,\
+    \ DR.IS-A [157] de 10/Jul/2002)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2002-198771
+  date: '2002-06-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/29-a/1996/12/03/a/dre
   label: null
@@ -130,16 +137,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/8/1993/03/31/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/8/1993/03/31/a/dre
+- type: cites
+  target: pt:dre:178841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:568553:por
+  label: "Revogado o art. 106º pelo DRR.16/2001/A.2001.11.08.PG-RAA DR.IS-B [275] de 27/Nov/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2001-568553
+  date: '2001-11-08'
+- type: repealed_by
+  target: pt:dre:633174:por
+  label: "Revogado pelo DRR.27/2003/A.2003.07.28.PG-RAA DR.IS-B [198] de 28/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2003-633174
+  date: '2003-07-28'
 article_structure:
   article_count: 113
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 53
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:56Z'
   warnings: []
   errors: []
 ---
@@ -186,13 +299,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 10 de Março de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Abril de 1998.**
+Assinado em Angra do Heroísmo em 13 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — ORGÂNICA DA SECRETARIA REGIONAL DA EDUCAÇÃO E ASSUNTOS SOCIAIS
 
@@ -360,7 +473,9 @@ a) A Secção de Pessoal, Expediente e Arquivo (SPEA);
 
 b) A Secção de Contabilidade (SC).
 
-###### Artigo 10.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 10.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 Em relação aos serviços a que presta apoio, compete à SPEA, designadamente:
 
@@ -376,7 +491,9 @@ e) Coordenar e manter o arquivo geral;
 
 f) Proceder ao controlo da assiduidade e pontualidade do pessoal.
 
-###### Artigo 11.º — Secção de Contabilidade
+###### Artigo 11.º
+
+#### Secção de Contabilidade
 
 1 - Compete à SC, designadamente:
 
@@ -444,7 +561,7 @@ Núcleo de Informática (NI);
 
 b) De apoio instrumental:
 
-#### Secção de Apoio Administrativo (SAA);
+Secção de Apoio Administrativo (SAA);
 
 c) Carácter operativo:
 
@@ -490,7 +607,9 @@ c) Divisão de Formação e Inovação (DFI);
 
 d) Divisão da Educação Especial e Extra-Escolar (DE).
 
-###### Artigo 16.º — Divisão da Educação Pré-Escolar e Ensino Básico
+###### Artigo 16.º
+
+##### Divisão da Educação Pré-Escolar e Ensino Básico
 
 À DEPEB compete, nomeadamente:
 
@@ -516,7 +635,9 @@ j) Colaborar em programas que fomentem nos jovens o interesse pela solidariedade
 
 k) Emitir parecer sobre os assuntos a submeter a despacho superior e propor as normativas adequadas.
 
-###### Artigo 17.º — Divisão do Ensino Secundário
+###### Artigo 17.º
+
+##### Divisão do Ensino Secundário
 
 À DES compete, nomeadamente:
 
@@ -538,7 +659,9 @@ h) Promover experiências de aproximação à vida activa destinadas aos jovens 
 
 i) Emitir parecer sobre os assuntos a submeter a despacho superior e propor as normativas adequadas.
 
-###### Artigo 18.º — Divisão de Formação e Inovação
+###### Artigo 18.º
+
+##### Divisão de Formação e Inovação
 
 À DFI compete, nomeadamente:
 
@@ -556,7 +679,9 @@ f) Organizar e manter actualizado um centro de documentação de apoio à DRE;
 
 g) Emitir parecer sobre as questões a submeter a despacho superior e propor as normativas adequadas.
 
-###### Artigo 19.º — Divisão da Educação Especial e Extra-Escolar
+###### Artigo 19.º
+
+##### Divisão da Educação Especial e Extra-Escolar
 
 À DE compete, nomeadamente:
 
@@ -620,7 +745,9 @@ b) Divisão de Gestão do Pessoal não Docente (DGPND);
 
 c) Serviço de Colocações (SC).
 
-###### Artigo 21.º — Divisão de Gestão do Pessoal Docente
+###### Artigo 21.º
+
+##### Divisão de Gestão do Pessoal Docente
 
 À DGPD compete, nomeadamente:
 
@@ -640,7 +767,9 @@ g) Estudar e propor a autorização dos pedidos para a leccionação no ensino p
 
 h) Emitir parecer sobre as questões a submeter a despacho superior e propor as normativas adequadas.
 
-###### Artigo 22.º — Divisão de Gestão do Pessoal não Docente
+###### Artigo 22.º
+
+##### Divisão de Gestão do Pessoal não Docente
 
 À DGPND compete, nomeadamente:
 
@@ -702,7 +831,9 @@ b) Divisão de Infra-Estruturas e Equipamentos Escolares (DIEE);
 
 c) Divisão de Estudos e Programação (DEP).
 
-###### Artigo 25.º — Divisão de Assuntos Financeiros
+###### Artigo 25.º
+
+##### Divisão de Assuntos Financeiros
 
 À DAF compete, nomeadamente:
 
@@ -722,7 +853,9 @@ g) Efectuar o processamento das despesas por conta do plano e dos fundos comunit
 
 h) Emitir parecer sobre os assuntos a submeter a despacho superior e propor as normativas adequadas.
 
-###### Artigo 26.º — Divisão de Infra-Estruturas e Equipamentos Escolares
+###### Artigo 26.º
+
+##### Divisão de Infra-Estruturas e Equipamentos Escolares
 
 À DIEE compete, nomeadamente:
 
@@ -740,7 +873,9 @@ f) Efectuar a aquisição de mobiliário e material didáctico, de acordo com as
 
 g) Emitir parecer sobre os assuntos a submeter a despacho superior e propor as normativas adequadas.
 
-###### Artigo 27.º — Divisão de Estudos e Programação
+###### Artigo 27.º
+
+##### Divisão de Estudos e Programação
 
 À DEP compete, nomeadamente:
 
@@ -758,7 +893,9 @@ f) Propor, acompanhar e avaliar a execução de programas apoiados por fundos co
 
 g) Emitir parecer sobre os assuntos a submeter a despacho superior e propor as normativas adequadas.
 
-###### Artigo 28.º — Secção de Apoio Administrativo
+###### Artigo 28.º
+
+#### Secção de Apoio Administrativo
 
 1 - A SAA é um serviço instrumental para execução dos serviços de carácter administrativo de interesse comum aos serviços centrais da DRE ou de outros que lhe sejam determinados pelo director regional.
 
@@ -884,7 +1021,7 @@ b) De apoio instrumental:
 
 Observatório do Emprego e Formação Profissional (OEFP);
 
-#### Secção de Apoio Administrativo (SAA);
+Secção de Apoio Administrativo (SAA);
 
 c) Carácter operativo:
 
@@ -926,7 +1063,9 @@ a) Divisão do Associativismo e dos Programas para a Juventude (DAPJ);
 
 b) Divisão da Mobilidade e Informação Juvenil (DMIJ).
 
-###### Artigo 35.º — Divisão de Associativismo e de Programas para a Juventude
+###### Artigo 35.º
+
+##### Divisão de Associativismo e de Programas para a Juventude
 
 Compete à DAPJ, designadamente:
 
@@ -940,7 +1079,9 @@ d) Organizar e manter actualizado um registo regional de associações juvenis;
 
 e) Realizar e promover actividades culturais, artísticas, científicas ou educacionais orientadas para a juventude.
 
-###### Artigo 36.º — Divisão da Mobilidade e da Informação Juvenil
+###### Artigo 36.º
+
+##### Divisão da Mobilidade e da Informação Juvenil
 
 1 - Compete à DMIJ, designadamente:
 
@@ -1028,7 +1169,9 @@ e) Participar nos processos de despedimento colectivo, com vista a assegurar a r
 
 f) Propor as medidas necessárias e adequadas à antecipação, acompanhamento e superação de conflitos de trabalho.
 
-###### Artigo 39.º — Secção Técnica das Relações de Trabalho
+###### Artigo 39.º
+
+#### Secção Técnica das Relações de Trabalho
 
 Compete à STRT, nomeadamente:
 
@@ -1178,7 +1321,9 @@ b) Divisão dos Incentivos à Formação Profissional (DIFP);
 
 c) Divisão da Certificação e dos Programas da Formação Profissional (DCPFP).
 
-###### Artigo 44.º — Divisão de Programas para o Emprego
+###### Artigo 44.º
+
+##### Divisão de Programas para o Emprego
 
 Compete, nomeadamente, à DPE:
 
@@ -1200,7 +1345,9 @@ h) Propor a definição de critérios de apreciação e selecção de projectos 
 
 i) Apoiar a criação de actividades de independentes.
 
-###### Artigo 45.º — Divisão dos Incentivos à Formação Profissional
+###### Artigo 45.º
+
+##### Divisão dos Incentivos à Formação Profissional
 
 Compete à DIFP, designadamente:
 
@@ -1222,7 +1369,9 @@ h) Receber e analisar o pedido de pagamento de saldo dos pedidos de financiament
 
 i) Zelar pelo cumprimento das orientações de gestão do Fundo Social Europeu e dos diplomas que a nível regional, nacional ou comunitário definam o acesso e a utilização dos apoios financeiros.
 
-###### Artigo 46.º — Divisão da Certificação e dos Programas da Formação Profissional
+###### Artigo 46.º
+
+##### Divisão da Certificação e dos Programas da Formação Profissional
 
 Compete à DCPFP, nomeadamente:
 
@@ -1244,7 +1393,9 @@ h) Instruir os processos relativos à acreditação das entidades formadoras;
 
 i) Instruir os processos relativos à certificação dos cursos e acções de formação profissional.
 
-###### Artigo 47.º — Secção de Apoio Administrativo
+###### Artigo 47.º
+
+#### Secção de Apoio Administrativo
 
 1 - A SAA é um serviço instrumental para execução dos serviços de carácter administrativo de interesse comum aos serviços centrais da DRJEFP ou de outros que lhe sejam determinados pelo director regional.
 
@@ -1354,7 +1505,9 @@ c) Centro de Oncologia Prof. Doutor José Conde.
 
 3 - Na dependência da DRS funciona o Instituto de Gestão Financeira da Saúde (tutelado pela SREAS), o qual se rege por diploma próprio.
 
-###### Artigo 51.º — Divisão de Apoio Jurídico
+###### Artigo 51.º
+
+##### Divisão de Apoio Jurídico
 
 1 - A DAJ é um órgão de apoio técnico ao qual compete, nomeadamente:
 
@@ -1370,7 +1523,9 @@ e) Dar parecer sobre assuntos de natureza jurídica que, para o efeito, lhe seja
 
 2 - A DAJ depende directamente do director regional da Saúde.
 
-###### Artigo 52.º — Divisão de Planeamento, Estudos e Documentação
+###### Artigo 52.º
+
+##### Divisão de Planeamento, Estudos e Documentação
 
 1 - A DPED é um serviço de apoio técnico ao qual compete, designadamente:
 
@@ -1404,7 +1559,9 @@ a) A Divisão de Promoção da Saúde (DPS);
 
 b) A Divisão de Acompanhamento da Qualidade (DAQ).
 
-###### Artigo 54.º — Divisão de Promoção da Saúde
+###### Artigo 54.º
+
+##### Divisão de Promoção da Saúde
 
 À DPS compete, em especial:
 
@@ -1418,7 +1575,9 @@ d) Superintender no processo de cuidados de saúde pelos serviços, colaborando 
 
 e) Coordenar o acesso a cuidados de saúde no continente ou no estrangeiro, quando estes não puderem ser garantidos na Região.
 
-###### Artigo 55.º — Divisão de Acompanhamento da Qualidade
+###### Artigo 55.º
+
+##### Divisão de Acompanhamento da Qualidade
 
 À DAQ compete, em especial:
 
@@ -1440,7 +1599,9 @@ a) A Divisão de Gestão e Administração de Pessoal (DGAP);
 
 b) A Divisão de Formação Profissional (DFP).
 
-###### Artigo 57.º — Divisão de Gestão e Administração de Pessoal
+###### Artigo 57.º
+
+##### Divisão de Gestão e Administração de Pessoal
 
 À DGAP compete, em especial:
 
@@ -1458,7 +1619,9 @@ f) Dar parecer sobre questões de pessoal que lhe sejam submetidas;
 
 g) Criar e manter permanentemente actualizado um registo do pessoal do sector.
 
-###### Artigo 58.º — Divisão de Formação Profissional
+###### Artigo 58.º
+
+##### Divisão de Formação Profissional
 
 À DFP compete, em especial:
 
@@ -1550,7 +1713,9 @@ b) Instituto de Gestão de Regimes de Segurança Social (IGRSS);
 
 c) Instituto de Acção Social (IAS).
 
-###### Artigo 63.º — Divisão de Organização e Documentação
+###### Artigo 63.º
+
+##### Divisão de Organização e Documentação
 
 Compete à DOD, nomeadamente:
 
@@ -1570,7 +1735,9 @@ g) Proceder à difusão de legislação, ordens de serviço, documentação e de
 
 h) Coordenar a organização do arquivo da DRSSS e assegurar o seu bom funcionamento.
 
-###### Artigo 64.º — Divisão de Pessoal e Assuntos Jurídicos
+###### Artigo 64.º
+
+##### Divisão de Pessoal e Assuntos Jurídicos
 
 Compete à DPAJ, nomeadamente:
 
@@ -1596,7 +1763,9 @@ j) Colaborar na preparação e elaboração de diplomas legais;
 
 k) Intervir em quaisquer sindicâncias, inquéritos ou averiguações, sempre que para tal for solicitada.
 
-###### Artigo 65.º — Divisão de Instalações e Equipamentos
+###### Artigo 65.º
+
+##### Divisão de Instalações e Equipamentos
 
 Compete à DIE, designadamente:
 
@@ -1612,7 +1781,9 @@ e) Emitir parecer sobre os projectos de construção, remodelação e ampliaçã
 
 f) Manter actualizado um registo dos investimentos, de forma a permitir a rápida correcção de eventuais desvios.
 
-###### Artigo 66.º — Divisão de Planeamento e Apoio às Instituições
+###### Artigo 66.º
+
+##### Divisão de Planeamento e Apoio às Instituições
 
 Compete à DPAI, designadamente:
 
@@ -1730,7 +1901,7 @@ Núcleo de Informática (NI);
 
 b) De apoio instrumental:
 
-#### Secção de Apoio Administrativo (SAA);
+Secção de Apoio Administrativo (SAA);
 
 c) De carácter operativo:
 
@@ -1792,7 +1963,9 @@ a) Divisão de Património Arquitectónico (DPA);
 
 b) Divisão de Património Móvel, Artístico e Arqueológico (DPMAA).
 
-###### Artigo 72.º — Divisão de Património Arquitectónico
+###### Artigo 72.º
+
+##### Divisão de Património Arquitectónico
 
 Compete à DPA, designadamente:
 
@@ -1816,7 +1989,9 @@ i) Orientar e coordenar o levantamento do património arquitectónico da Região
 
 j) Inspeccionar o estado de conservação dos imóveis e conjuntos classificados, procedendo em conformidade com o estabelecido na legislação sobre o património.
 
-###### Artigo 73.º — Divisão de Património Móvel, Artístico e Arqueológico
+###### Artigo 73.º
+
+##### Divisão de Património Móvel, Artístico e Arqueológico
 
 Compete à DPMAA, designadamente:
 
@@ -1878,7 +2053,9 @@ a) Divisão de Formação e Animação (DFA);
 
 b) Divisão Editorial e da Leitura (DEL).
 
-###### Artigo 75.º — Divisão de Formação e Animação
+###### Artigo 75.º
+
+##### Divisão de Formação e Animação
 
 Compete à DFA, designadamente:
 
@@ -1896,7 +2073,9 @@ f) Preparar os processos conducentes aos apoios financeiros existentes para as v
 
 g) Acompanhar a aplicação dos apoios concedidos.
 
-###### Artigo 76.º — Divisão Editorial e da Leitura
+###### Artigo 76.º
+
+##### Divisão Editorial e da Leitura
 
 Compete à DEL, designadamente:
 
@@ -1916,7 +2095,9 @@ g) Executar e acompanhar as edições da responsabilidade da DRaC, em qualquer t
 
 h) Preparar e acompanhar a participação da DRaC em feiras e outros eventos culturais.
 
-###### Artigo 77.º — Secção de Apoio Administrativo
+###### Artigo 77.º
+
+#### Secção de Apoio Administrativo
 
 1 - A SAA é um serviço instrumental para execução dos serviços de carácter administrativo de interesse comum aos serviços centrais da DRaC ou de outros que lhe sejam determinados pelo director regional.
 
@@ -1980,7 +2161,7 @@ Núcleo de Informática (NI);
 
 b) De apoio instrumental:
 
-#### Secção de Apoio Administrativo (SAA);
+Secção de Apoio Administrativo (SAA);
 
 c) De carácter operativo:
 
@@ -2026,7 +2207,9 @@ a) A Divisão da Educação Física (DEF);
 
 b) A Divisão de Formação e Desporto Escolar (DFDE);
 
-###### Artigo 82.º — Divisão da Educação Física
+###### Artigo 82.º
+
+##### Divisão da Educação Física
 
 A DEF exerce as suas competências relativamente à educação pré-escolar, ensino básico e secundário, competindo-lhe, nomeadamente:
 
@@ -2040,7 +2223,9 @@ d) Acompanhar o processo de colocação de docentes sem habilitação legal e ga
 
 e) Definir regras relativamente ao desenvolvimento curricular da educação física nos estabelecimentos de ensino.
 
-###### Artigo 83.º — Divisão de Formação e Desporto Escolar
+###### Artigo 83.º
+
+##### Divisão de Formação e Desporto Escolar
 
 A DFDE exerce as suas competências relativamente à formação e desporto escolar, competindo-lhe, nomeadamente:
 
@@ -2094,7 +2279,9 @@ a) Divisão de Recreação e Promoção Desportiva (DRPD);
 
 b) Divisão do Desporto de Rendimento (DDR).
 
-###### Artigo 85.º — Divisão de Recreação e Promoção Desportiva
+###### Artigo 85.º
+
+##### Divisão de Recreação e Promoção Desportiva
 
 Compete à DRPD, nomeadamente:
 
@@ -2108,7 +2295,9 @@ d) Promover e apoiar a prática desportiva de carácter recreativo e de ocupaç�
 
 e) Promover acções de sensibilização que motivem as populações para a prática desportiva.
 
-###### Artigo 86.º — Divisão do Desporto de Rendimento (DDR)
+###### Artigo 86.º
+
+##### Divisão do Desporto de Rendimento (DDR)
 
 Compete à DDR, nomeadamente:
 
@@ -2122,7 +2311,9 @@ d) Apoiar os programas regionais de acesso à alta competição;
 
 e) Apoiar a construção de instalações desportivas não escolares e o respectivo apetrechamento.
 
-###### Artigo 87.º — Secção de Apoio Administrativo
+###### Artigo 87.º
+
+#### Secção de Apoio Administrativo
 
 1 - A SAA é um serviço instrumental para execução dos serviços de carácter administrativo de interesse comum aos serviços centrais da DREFD ou de outros que lhe sejam determinados pelo director regional.
 

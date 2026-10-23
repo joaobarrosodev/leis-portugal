@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/30/2019/11/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2019-126669989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ebc79f2730faae0009899519cdb27d978c6af7d288af3e652d4c3970f60db57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72dd161ac12de080b5ac5bf72a86248528e535c9716485375b0db744b43c599e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
-- Cartografia
-- Ordenamento do Território
-- Governo Regional
-- Poluição Atmosférica
-- Catástrofe
-- Plano Regional de Ordenamento do Território
-- Relatório
-- Alteração Climática
-- Clima
 - Açores
+- Alteração Climática
+- Cartografia
+- Catástrofe
+- Clima
+- Efeito de Estufa
+- Governo Regional
+- Ordenamento do Território
+- Plano Regional de Ordenamento do Território
+- Poluição Atmosférica
 - Programa Regional para as Alterações Climáticas
+- Relatório
 relationships:
 - type: amended_by
   target: pt:dre:223336984:por
@@ -122,16 +122,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/82-d/20
   label: null
   source: http://data.dre.pt/eli/lei/82-d/20
+- type: cites
+  target: pt:dre:108001410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66022084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73399498:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:30Z'
   warnings: []
   errors: []
 ---
@@ -258,11 +298,11 @@ O presente diploma produz efeitos a partir do dia seguinte ao da sua publicaçã
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de setembro de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo, em 30 de outubro de 2019.**
+Assinado em Angra do Heroísmo, em 30 de outubro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1066,19 +1106,19 @@ Nos Açores a tendência de evolução das temperaturas médias diárias é de u
 
 A Figura 1, Figura 2 e Figura 3 descrevem a variabilidade espacial da temperatura e precipitação por ilha nos Açores com base no modelo CIELO (Azevedo, 1996; Azevedo et al., 1998; Azevedo et al.,1999; Azevedo et al.,1999; Santos et tal. 2004; Miranda et al., 2006) para uma grelha regular com uma resolução de 100 por 100 metros. Os dados climáticos usados no processo de simulação correspondem aos «ECMWF ERA-INTERIM», disponibilizados pelo Centro Europeu de Previsão do Estado do Tempo a Médio Prazo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 1 - Temperatura e precipitação do Grupo Central do Arquipélago dos Açores
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 2 - Temperatura e precipitação do Grupo Ocidental do Arquipélago dos Açores
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 3 - Temperatura e precipitação do Grupo Oriental do Arquipélago dos Açores
 
@@ -1104,41 +1144,41 @@ TABELA 1
 
 Anomalia de Temperatura (ºC) para a RAA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo (prac.fc.ul.pt);
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 4 - Anomalia de temperatura (ºC) para o Grupo Ocidental, Central e Oriental (Cenário RCP 4.5 e horizonte temporal 2010-2039)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 5 - Anomalia de temperatura (ºC) para o Grupo Ocidental, Central e Oriental (Cenário RCP 4.5 e horizonte temporal 2020-2069)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 6 - Anomalia de temperatura (ºC) para o Grupo Ocidental, Central e Oriental (Cenário RCP 4.5 e horizonte temporal 2070-2099)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 7 - Anomalia de temperatura (ºC) para o Grupo Ocidental, Central e Oriental (Cenário RCP 8.5 e horizonte temporal 2010-2039)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 8 - Anomalia de temperatura (ºC) para o Grupo Ocidental, Central e Oriental (Cenário RCP 8.5 e horizonte temporal 2040-2069)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 9 - Anomalia de temperatura (ºC) para o Grupo Ocidental, Central e Oriental (Cenário RCP 8.5 e horizonte temporal 2070-2099)
 
@@ -1150,41 +1190,41 @@ TABELA 2
 
 Anomalia da precipitação (%) para a RAA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 10 - Anomalia de precipitação (%) para o Grupo Ocidental, Central e Oriental (Cenário RCP 4.5 e horizonte temporal 2010-2039)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 11 - Anomalia de precipitação (%) para o Grupo Ocidental, Central e Oriental (Cenário RCP 4.5 e horizonte temporal 2040-2069)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 12 - Anomalia de precipitação (%) para o Grupo Ocidental, Central e Oriental (Cenário RCP 4.5 e horizonte temporal 2070-2099)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 13 - Anomalia de precipitação (%) para o Grupo Ocidental, Central e Oriental (Cenário RCP 8.5 e horizonte temporal 2010-2039)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 14 - Anomalia de precipitação (%) para o Grupo Ocidental, Central e Oriental (Cenário RCP 8.5 e horizonte temporal 2040-2069)
 
 Fonte: Relatório do Clima PRAC: Coordenação: Pedro Garrett e Hugo Costa; WebSig: Pedro Garrett e Paulo Vieira; Dados modelo CIELO: Eduardo Brito de Azevedo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 15 - Anomalia de precipitação (%) para o Grupo Ocidental, Central e Oriental (Cenário RCP 8.5 e horizonte temporal 2070-2099)
 
@@ -1220,7 +1260,7 @@ A abordagem setorial exigiu uma compreensão diferenciada das vulnerabilidades i
 
 No contexto das alterações climáticas, a vulnerabilidade é definida como o grau a que o sistema é suscetível ou incapaz de lidar com os efeitos adversos das Alterações Climáticas, incluindo a variabilidade e extremos. É a função do tipo, magnitude e taxa de alteração climática a que o sistema é exposto, à sua sensibilidade e capacidade adaptativa (IPCC, 2007).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 16 - Esquema metodológico para a avaliação das vulnerabilidades - Abordagem Setorial do PRAC-Açores
 
@@ -1242,7 +1282,7 @@ TABELA 3
 
 Escala de vulnerabilidade adotada no PRAC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: equipa técnica
 
@@ -1250,7 +1290,7 @@ Para assegurar uma boa comunicação das incertezas associadas a cada resultado 
 
 Nesta abordagem foi atribuída uma classificação da confiança associada à incerteza, i.e., a cada impacto setorial existe um grau de confiança associado (que será inverso à incerteza). A confiança depende da concordância e evidência, em que a concordância é o grau de coerência entre as várias fontes utilizadas e varia entre baixa, média e alta e a evidência é o grau com que os dados/observações suportam o resultado, variando entre limitada, média e robusta. A confiança de determinado impacto foi classificada em cinco categorias (Figura 17).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 17 - Escala de confiança da vulnerabilidade
 
@@ -1374,7 +1414,7 @@ TABELA 4
 
 Classificação dos Parâmetros do Índice de Vulnerabilidade Costeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Equipa Técnica (2016)
 
@@ -1394,55 +1434,55 @@ Tendo em consideração os parâmetros referidos, cada troço costeiro foi class
 
 Para cada ilha foi atribuído um IVCr, num total de 447 troços, correspondendo a cerca de 868.000 m, variando entre 9 e 25. Para fins de planeamento e gestão a IVCr de cada ilha foi transposta para uma forma mais simplificada de IVC, representadas nas figuras abaixo, usando uma escala que varia entre muito baixa (1) e muito alta (5).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 18 - Índice de Vulnerabilidade Costeira na Ilha de Santa Maria
 
 Fonte: Equipa Técnica (2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 19 - Índice de Vulnerabilidade Costeira na Ilha de São Miguel
 
 Fonte: Equipa Técnica (2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 20 - Índice de Vulnerabilidade Costeira na Ilha Terceira
 
 Fonte: Equipa Técnica (2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 21 - Índice de Vulnerabilidade Costeira na Ilha Graciosa
 
 Fonte: Equipa Técnica (2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 22 - Índice de Vulnerabilidade Costeira na Ilha de São Jorge
 
 Fonte: Equipa Técnica (2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 23 - Índice de Vulnerabilidade Costeira na Ilha do Pico
 
 Fonte: Equipa Técnica (2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 24 - Índice de Vulnerabilidade Costeira na Ilha do Faial
 
 Fonte: Equipa Técnica (2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 25 - Índice de Vulnerabilidade Costeira na Ilha das Flores
 
 Fonte: Equipa Técnica (2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 26 - Índice de Vulnerabilidade Costeira na Ilha do Corvo
 
@@ -1472,7 +1512,7 @@ TABELA 5
 
 Matriz de Vulnerabilidade das diferentes tipologias consideradas no setor OTZC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Adaptado do Relatório setorial de Ordenamento do Território e Zonas Costeiras
 
@@ -1514,7 +1554,7 @@ Os movimentos de vertente registam impactos consideráveis, constituindo-se como
 
 A ilha de São Miguel, a mais populosa da RAA, apresenta parte significativa do seu território exposto a este risco. Destaque-se igualmente o facto de parte significativa das zonas costeiras da generalidade das ilhas do arquipélago se encontrar sob elevado risco de ocorrência de movimentos de vertente. De um modo global, toda a Região apresenta elevado risco de ocorrência destes eventos, o que associado ao seu elevado potencial destrutivo, coloca os movimentos de vertente como uma das principais preocupações no âmbito da segurança de pessoas e bens.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 27 - Áreas de suscetibilidade elevada a movimentos de vertente
 
@@ -1528,13 +1568,13 @@ Na ilha das Flores é no concelho das Lajes das Flores que se localizam as área
 
 Nas restantes ilhas, não existem situações de risco de inundação elevado, o que não significa que o risco seja inexistente, mas antes que o risco de inundação não se encontra no nível mais gravoso da escala em questão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 28 - Áreas com elevado risco de inundação
 
 Fonte: Equipa Técnica, com base no PGRIA (2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 29 - Áreas com elevado risco de cheia
 
@@ -1552,7 +1592,7 @@ Da análise zonas ameaçadas pelo mar na Região (Figura 30) verifica-se que pra
 
 Desta análise espacial resulta claro que na Região existem várias situações de risco e que todas as ilhas estão expostas a várias situações de perigo. Realce-se o facto de nesta abordagem ter sido apenas considerado o risco elevado, pelo que existem outras categorias de risco que, por imperativos metodológicos, não foram observadas e que podem afetar mais territórios, pelo que neste relatório apenas é considerada a escala mais gravosa de risco.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 30 - Zonas ameaçadas pelo mar
 
@@ -1564,7 +1604,7 @@ TABELA 6
 
 Matriz de Vulnerabilidade do setor da Segurança de Pessoas e Bens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Relatório setorial de Segurança de Pessoas e Bens
 
@@ -1608,7 +1648,7 @@ TABELA 7
 
 Matriz de Vulnerabilidade do setor do Turismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: equipa técnica
 
@@ -1662,7 +1702,7 @@ TABELA 8
 
 Matriz de vulnerabilidade do setor da Energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Relatório setorial de Energia
 
@@ -1694,7 +1734,7 @@ TABELA 9
 
 Matriz de vulnerabilidade do setor Ecossistemas e Recursos Naturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Relatório setorial de Ecossistemas e Recursos Naturais
 
@@ -1732,7 +1772,7 @@ TABELA 10
 
 Matriz de vulnerabilidade do setor da Agricultura e Florestas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Relatório setorial de Agricultura e Florestas
 
@@ -1764,7 +1804,7 @@ TABELA 11
 
 Matriz de Vulnerabilidade do setor das Pescas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Relatório setorial das Pescas
 
@@ -1812,7 +1852,7 @@ TABELA 12
 
 Matriz de Vulnerabilidade do setor dos Recursos Hídricos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Relatório setorial dos Recursos Hídricos
 
@@ -1832,7 +1872,7 @@ TABELA 13
 
 Matriz de Vulnerabilidade do setor da Saúde Humana
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Relatório setorial da Saúde
 
@@ -1850,7 +1890,7 @@ As emissões na RAA em 2014 totalizaram 1,72 Mt CO(índice 2)eq., tendo o setor 
 
 Estas emissões representam uma redução de 1,1 % relativamente ao ano anterior continuando uma tendência de redução, após o máximo de 1,88 Mt CO2eq. atingido em 2009. No entanto estes valores estão ainda 62 % acima dos registados em 1990. A Figura 31 ilustra a evolução das emissões na RAA no período entre 1990 e 2014, na qual se pode verificar que as emissões de GEE sem Uso de Solo atingem as 1,72 Mt CO2eq. em 2014, o que representa uma redução de 1,1 % face a 2013 e um aumento de 62 % face a 1990.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 31 - Evolução das Emissões na RAA
 
@@ -1858,7 +1898,7 @@ Fonte: IRERPA
 
 O perfil de emissões por setor mantém-se razoavelmente estável, com o setor energia a representar um pouco mais de 50 % das emissões. O setor agricultura é o que mais cresceu (+74 % desde 1990) e aumentou em consequência o seu peso no total de emissões.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 32 - Perfil de Emissões por Setor na RAA em 1990 e 2014
 
@@ -1868,7 +1908,7 @@ O peso do sequestro do Setor Uso de Solo e Florestas no total das restantes emis
 
 O perfil de emissões por gás de efeito de estufa mantém-se também razoavelmente estável, com o Dióxido de Carbono (CO(índice 2)) a representar cerca de 51 % das emissões e é também o que mais cresceu (+63 % desde 1990), tendo aumentado, em consequência, o seu peso no total de emissões. O gás menos expressivo é o Óxido Nitroso, que representa cerca de 12 % das emissões.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 33 - Perfil de Emissões por Gás de Efeito de Estufa na RAA em 1990 e 2014
 
@@ -1876,7 +1916,7 @@ Fonte: IRERPA
 
 Fazendo a comparação com os totais nacionais, verifica-se que a RAA representa 2,3 % das emissões totais nacionais (2,7 % se excluirmos o setor uso de solo e florestas). O perfil de emissões é, no entanto, bastante distinto, sendo as principais diferenças uma predominância na RAA muito mais marcada do setor agricultura e uma quase ausência do setor processos industriais e uso de produtos. Essas diferenças setoriais têm também expressão no perfil de emissões por gás, isto é, o peso de metano na RAA é substancialmente superior ao total nacional (Figura 34).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 34 - Comparação entre o perfil de emissões na RAA e Total Nacional, em 2014
 
@@ -1890,7 +1930,7 @@ TABELA 14
 
 Setores incluídos nas projeções de emissões para 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 No exercício de elaboração de projeções de emissões para a RAA para 2030, foi primeiro efetuado uma caracterização da situação da RAA no ano de referência e desenvolvidos cenários socioeconómicos setoriais. O ano de referência tomado neste documento foi 2014, ano usado como base para o Inventário Regional de Emissões (IRERPA) para a RAA.
 
@@ -1926,13 +1966,13 @@ TABELA 15
 
 Metas para a RAA no setor da energia e processos industriais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 TABELA 16
 
 Metas para a RAA no setor dos resíduos e águas residuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Com base no exposto acima, foram definidos dois a três cenários possíveis de evolução da RAA por setor para 2030. Os dois a três cenários definidos não se referem a disrupções, mas a dois cenários plausíveis: um onde o desenvolvimento é considerado mais positivo e outro cenário onde as dinâmicas de desenvolvimento são consideradas menos positivas. A ideia por trás desta abordagem é a de que os cenários desenvolvidos não são desenvolvidos como previsões de como a RAA se irá desenvolver, mas sim dois extremos dentro do espaço de plausibilidade de desenvolvimento da RAA. É esperado que o desenvolvimento da RAA se situe algures entre os dois cenários desenvolvidos.
 
@@ -1972,7 +2012,7 @@ De seguida apresentam-se os resultados obtidos com esta abordagem.
 
 A RAA experienciou um crescimento económico de 1995 a 2008 (ver Figura 35). De 2008 a 2011 este crescimento desacelera e de 2011 a 2013 o PIB per capita da RAA decresce em média 1,3 %. Este desaceleramento e decréscimo nos anos 2011-2013 deve-se aos efeitos da crise económica que se verificou em todo o país, embora em certas regiões (nomeadamente no continente, em particular no Algarve, selecionado como case study/benchmark) este efeito da crise se tenha verificado mais cedo (a partir de 2007).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 35 - Evolução do PIB per capita em diferentes regiões nacionais
 
@@ -1980,7 +2020,7 @@ Fonte: INE: Anuários Estatísticos Regionais
 
 Relativamente aos setores que mais contribuem para a riqueza regional (ver Figura 36), estes são o comércio por grosso e a retalho, reparação de veículos automóveis e motociclos, atividades imobiliárias e administração pública e defesa e segurança social obrigatória. A agricultura, produção animal, caça, floresta e pesca representaram 9 % do VAB em 2013 e o turismo (alojamento, restauração e similares) cerca de 6 %. O VAB agrícola da RAA é bastante superior ao de regiões como a Madeira e o Algarve, revelando a importância da agricultura para a RAA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 36 - VAB da RAA em 2013 (total de 3163 milhões de EURO)
 
@@ -1994,13 +2034,13 @@ Durante o período de 2007 a 2013 a intensidade energética tem vindo a melhorar
 
 Os grandes consumos de energia primária são o gasóleo e o fuelóleo. O primeiro usado no setor dos transportes e o segundo na produção de eletricidade e na indústria (Figura 38). Os grandes utilizadores de energia primária são os setores dos transportes e da produção de eletricidade (Tabela 17).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 37 - Consumo de energia final na RAA, agregado e por setor, 2007-2013
 
 Fonte: Balanço Energético Regional, DGEG
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 38 - Consumo de energia final por categoria de energia (à direita) e mix elétrico em 2013 (à esquerda)
 
@@ -2012,7 +2052,7 @@ TABELA 17
 
 Consumo de energia primária na RAA em 2014
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Balaço Energético para a RAA, DGEG
 
@@ -2036,7 +2076,7 @@ TABELA 18
 
 Repartição modal das viagens nos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Plano de Mobilidade Urbana Sustentável (PMUS)
 
@@ -2052,13 +2092,13 @@ As restantes espécies pecuárias têm tido um comportamento inverso, com reduç
 
 Os sistemas de gestão de estrumes e efluentes, não têm sofrido alterações, sendo o sistema dominante, para a generalidade dos animais produzidos em regime extensivo na região, a deposição direta pelos animais na pastagem, como se pode ver na Figura 40.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 39 - Evolução do efetivo pecuário na RAA, entre 1990 e 2014
 
 Fonte: IRERPA, PRAC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 40 - Distribuição do número de animais por tipo de gestão de estrume na RAA
 
@@ -2070,7 +2110,7 @@ A alimentação dos bovinos (prados e culturas forrageiras), representa a maior 
 
 Segundo os dados compilados pelo IRERPA, a área agrícola utilizada teve um aumento de 2,6 %, desde 1990 (ver Figura 41). A área agrícola (excluindo as pastagens e as culturas forrageiras, que aumentaram 90 % desde 1990) tem vindo a reduzir-se, nomeadamente em 56 % do total das culturas permanentes e mais de - 70 % em quase todas as culturas temporárias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 41 - Evolução das Áreas Anuais de Culturas Agrícolas, na RAA
 
@@ -2082,13 +2122,13 @@ Segundo dados do inventário florestal de 2007, a floresta na RAA é composta pe
 
 A Figura 43, baseada nos mapas CORINE entre 1990, 2000 e 2006 (Gomes et al. 2013) e dados do IRERPA para 2014 demonstra que a natureza das alterações na ocupação e/ou uso do solo na RAA foi dominada maioritariamente, pelo aumento das áreas artificiais e florestais fundamentalmente por redução das área agrícolas e áreas naturais, sendo que a maior parte destas ocorreu no período 1990-2000.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 42 - Áreas de ocupação dos povoamentos por espécie dominante (ha)
 
 Fonte: Inventário Florestal, 2007
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 43 - Alteração de uso de solo de 1990 a 2014 na RAA
 
@@ -2096,7 +2136,7 @@ Fonte: IRERPA/PRAC e CORINE
 
 A taxa anualizada de alteração do uso do solo é apresentada na Figura 44. O balanço líquido anual (entre ganhos e perdas de área), mostra que, entre 1990-2014, houve um incremento da área florestal (35 ha/ano), de matos (10 ha/ano) e de zonas urbanas (70 ha/ano), e uma redução das áreas sob ocupação agrícola (40 ha/ano), de pastagens (60 ha/ano) e de zonas húmidas (2 ha/ano).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 44 - Taxa anual de alteração de uso de solo (ha) entre 1990 e 2014, na RAA
 
@@ -2110,7 +2150,7 @@ Os últimos anos até 2014 e os próximos que se seguirão constituem-se como hi
 
 O Governo Regional dos Açores estabeleceu para o arquipélago uma estratégia de gestão de RU baseada nos CPR. Logo que estes estejam a funcionar em pleno, prevê-se que os RU sejam maioritariamente encaminhados para valorização: orgânica, material e energética (Figura 45).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 45 - Circuito de gestão de RU
 
@@ -2122,13 +2162,13 @@ A evolução da produção de RU nos últimos 20 anos sofreu algumas variações
 
 Relativamente aos RI, os seus dados históricos de produção remontam apenas ao ano de 2009, sendo a sua compilação feita a partir do registo de produtores no SRIR (Figura 47). Analisando o gráfico abaixo, observa-se que a tendência de aumento da produção que se verificou entre 2009 e 2012 foi interrompida em 2013, tendo havido novamente um aumento em 2014. Em 2014 produziram-se cerca de 36 000 toneladas de RI.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 46 - Evolução da produção de resíduos urbanos na RAA no período 1996-2014
 
 Fonte: Baseado nos dados do PEPGRA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 47 - Evolução da produção de resíduos industriais na RAA no período 2009-2015
 
@@ -2138,7 +2178,7 @@ Destinos dos resíduos
 
 Tal como já referido, historicamente, os RU produzidos na RAA eram, maioritariamente, depositados em lixeiras. Tendo havido nos últimos anos um enorme esforço por parte das autoridades no sentido de equipar o arquipélago com infraestruturas de tratamento de resíduos, a tendência que se verificava foi invertida, constatando-se desde 2011 uma tendência de redução da deposição de RU no solo e o aumento da sua valorização. Nesta perspetiva a evolução da gestão de RU seguiu uma tendência como a apresentada na Figura 48.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 48 - Evolução do destino dos resíduos urbanos na RAA no período 1996-2015
 
@@ -2164,7 +2204,7 @@ TABELA 19
 
 Evolução da caraterização do indiferenciado na RAA no período 2011-2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Por outro lado, desde 2009 a deposição de lamas em aterro variou bastante, desceu nos primeiros três anos, teve um pico em 2012 e voltou a descer desde então até aos 47 % (Figura 49).
 
@@ -2172,13 +2212,13 @@ Carga orgânica de águas residuais
 
 A carga orgânica das águas residuais domésticas, altamente influenciada pela população residente, tem aumentado ligeiramente desde 1999 na RAA. A Figura 50 apresenta os dados desta evolução constantes do PGRH.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 49 - Evolução da produção e destino de lamas no período 2009-2014
 
 Fonte: Direção Regional de Ambiente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 50 - Evolução da carga orgânica das águas residuais domésticas no período 2009-2014
 
@@ -2188,7 +2228,7 @@ Carga orgânica de águas residuais industriais
 
 A carga orgânica das águas residuais industriais duplicou nas duas décadas que decorreram entre 1990 e 2010 na RAA. Esta variável está diretamente relacionada com a atividade industrial que, no caso da RAA, se traduz sobretudo na produção de leite e carne, setores que aumentaram significativamente a sua produtividade nestas duas décadas. A mesma tendência se continua a verificar até 2014, com exceção do período entre 2012 e 2013. A Figura 51 apresenta os dados desta evolução constantes do PGRH.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 51 - Evolução da carga orgânica das águas residuais industriais no período 2009-2014
 
@@ -2200,13 +2240,13 @@ Fonte: PGRH.
 
 Para a definição das projeções de emissões de GEE para o setor energia foram desenvolvidos três cenários socioeconómicos, apresentados na Figura 52. Estes cenários representam um extremo máximo, mínimo e um desenvolvimento intermédio a nível económico para a RAA para 2030, considerando diferentes taxas de crescimento económico anual tendo por base um crescimento elevado da economia, um prolongamento dos efeitos da crise económica e um crescimento moderado da economia (taxas de 3,4 %, - 1,3 % e 1 % respetivamente). Estes valores não devem ser interpretados como previsões, mas como extremos num espaço dentro do plausível, e onde se espera que o desenvolvimento da RAA se situe algures entre estes extremos. Os valores considerados foram desenvolvidos com base na análise do histórico económico da RAA e de outras regiões.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 52 - Cenários socioeconómicos para o setor da energia
 
 Os três cenários desenvolvidos assumem diferentes níveis de crescimento económico anual do PIB per capita da RAA respetivamente para os cenários CE1, CE4 e CE5. Estes foram combinados com a dinâmica populacional apresentada pelo INE para a RAA, permitindo obter os valores de evolução de PIB (Figura 53).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 53 - PIB (EUR 2011) e PIB/capita da RAA usados como base em cada cenário
 
@@ -2230,27 +2270,27 @@ A Figura 55 apresenta os consumos base de energia nos três cenários. Estes for
 
 No que respeita à procura de energia por edifícios (setores residencial e serviços), a legislação regional é ainda recente (2016) - [DLR n.º 4/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2016-73399498) de fevereiro de 2016, embora com metas já para 2018 para novos edifícios públicos e para 2020 para os restantes novos edifícios, nomeadamente, a obrigatoriedade de os novos edifícios terem necessidades quase nulas em energia. Ainda não existem valores de referência para o que se entende por necessidades quase nulas de energia, no que respeita à componente elétrica (iluminação, entre outros), e da percentagem de eletricidade de origem renovável que se pretende nos edifícios. Consequentemente, não existem também medidas planeadas/programas para explicitamente lidar com a redução de consumos energéticos em novos edifícios para atingir necessidades quase nulas de energia e para satisfação de necessidades energéticas remanescentes por captação local de energias renováveis. Os cenários CE4 e CE5 consideram uma redução no consumo médio de energia de edifícios por área de edifício entre 1,5 e 10 % entre 2020 a 2030(9). O cenário CE1 considera um crescimento do consumo, associado ao crescimento económico verificado neste cenário. De acordo com estes cenários, estima-se que entre 76GWh (CE1) e 26,5GWh (CE5) sejam necessários reduzir com medidas de eficiência energética e/ou satisfeitos através de energias renováveis produzidas o mais próximo dos edifícios quanto possível.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 54 - VAB setorial em sete setores (setor «serviços» inclui alojamento, restauração e similares), nos três cenários socioeconómicos desenvolvidos para a RAA para 2030
 
 A Figura 57 apresenta a distribuição dos consumos de energia por fonte de energia final. Os consumos de energia por fonte de energia final consideram a utilização de pellets para produção de calor (25 % do valor esperado de pellets no CE1 e 45 % do valor esperado de pellets no CE5). Como se pode ver pela figura, em todos os cenários o gasóleo e de eletricidade são as principais fontes de energia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 55 - Procura de energia final na RAA para 2030, por cenário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 56 - Procura de energia final para a RAA em 2030, por setor
 
 Para a eletricidade, considerou-se como ponto de partida o mix elétrico de 2014 e 2015 onde foram adicionados os investimentos previstos pela EDA patentes no Plano Estratégico Plurianual e Orçamento 2016 e a produção elétrica das centrais de valorização energética de resíduos da Terceira e a prevista para S. Miguel. A Figura 58 apresenta o mix elétrico obtido para 2030, onde se estima que 35-43 % da eletricidade produzida tenha origem em fontes de energia renováveis e onde o fuelóleo assegura 52-54 % da produção elétrica. Estes valores não incluem os projetos de produção renovável contemplados no Açores 2020 (nomeadamente, as duas hídricas reversíveis previstas para as ilhas de S. Miguel e Terceira) uma vez que estes projetos ainda não se encontram aprovados e não contempla também o possível incremento em renováveis de produção local decorrentes da implementação do novo regulamento de edifícios ([DLR n.º 4/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2016-73399498), de 2 de fevereiro).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 57 - Procura de energia final para a RAA em 2030, por vetor energético
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 58 - Mix elétrico para os três cenários para 2030
 
@@ -2260,19 +2300,19 @@ TABELA 20
 
 Caracterização da componente elétrica dos cenários em 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 TABELA 21
 
 Caracterização da componente dos transportes nos cenários para 2030
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 2.3.4.2 - Cenários para a Agricultura, Floresta e Outros Usos do Solo
 
 Para a agricultura, florestas e outros usos de solo, foram definidos dois cenários, o CA1 e o CA2, resumidos na Figura 59. O cenário CA1 corresponde a um maior dinamismo do setor, já o cenário CA2 corresponde a um decrescimento e maior estagnação do setor primário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 59 - Definição dos cenários do setor agricultura, floresta e outros usos de solo
 
@@ -2304,7 +2344,7 @@ Para os cenários CA1 e CA2 foi assumida uma manutenção dos efetivos atuais. N
 
 Na Figura 60 é apresentada a projeção do efetivo pecuário para os dois cenários e na Tabela 22 é evidenciado a evolução das principais variáveis, associadas ao setor da pecuária na RAA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 60 - Projeção do efetivo pecuário, até 2030, para os cenários CA1 e CA2
 
@@ -2314,7 +2354,7 @@ Principais variáveis associadas à pecuária para os cenários CA1 e CA2
 
 Valores em 1000 Cabeças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Transversalmente ao setor do leite e da carne, assumiu-se em ambos os cenários:
 
@@ -2324,11 +2364,11 @@ Transversalmente ao setor do leite e da carne, assumiu-se em ambos os cenários:
 
 Considerou-se que para atingir os objetivos do cenário CA1, tanto em termos de produção de leite como de carne, seria necessário alterar o regime alimentar dos bovinos, reforçando a alimentação à base de pastagens de boa qualidade e dos concentrados e consequentemente reduzindo o consumo de pastagens de má qualidade. A distinção entre as duas projeções para o regime alimentar dos bovinos é evidenciada, na Figura 62.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 61 - Regime de estabulação considerado, por tipo de animal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 62 - Regime alimentar dos Bovinos para os cenários CA1 e CA2
 
@@ -2346,7 +2386,7 @@ TABELA 23
 
 Tipo de usos do solo do ano de referência e respetiva variação até 2030, dentro de cada classe de uso, para o cenário CA1 e CA2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Apesar da diferença percentual das projeções para as alterações de uso do solo não ser muito evidente nos dois cenários, as categorias sujeitas à alteração de uso do solo não são as mesmas nos dois cenários, como se pode ver na Figura 63. As principais alterações de usos do solo projetadas são:
 
@@ -2354,7 +2394,7 @@ Apesar da diferença percentual das projeções para as alterações de uso do s
 
 . No cenário CA2, alterações provenientes maioritariamente do abandono agrícola, nomeadamente da alteração do uso de solo de pastagens para matos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 63 - Alteração dos usos do solo de 2014 a 2030 para os cenários CA1 e CA2
 
@@ -2368,7 +2408,7 @@ Considerou-se que não haverá alteração no modo como é realizada a gestão d
 
 Para o setor dos resíduos e águas residuais, foram definidos dois cenários, o CR1 e o CR2, resumidos na Figura 64 estes cenários baseiam-se na evolução populacional máxima e mínima prevista pelo INE para a RAA. Ao cenário CR1 corresponde ainda um aumento da atividade industrial e o não cumprimento da totalidade dos compromissos assumidos pela RAA para o setor. Por outro lado, o cenário CR2 prevê a prossecução de um bom nível de gestão do setor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 64 - Definição dos cenários dos resíduos e águas residuais
 
@@ -2424,7 +2464,7 @@ TABELA 24
 
 Pressupostos assumidos para a evolução da produção de RU entre 2015 e 2030 nos cenários CR1e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 2.3.4.3.4 - Evolução do destino dados aos resíduos urbanos
 
@@ -2438,7 +2478,7 @@ TABELA 25
 
 Pressupostos assumidos para a evolução dos destinos dos RU em 2020 e 2030 nos cenários de CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Relativamente à valorização material, esta aumentará tendencialmente nos dois cenários. Os pressupostos para o seu aumento são os que de seguida constam na Tabela 26.
 
@@ -2446,7 +2486,7 @@ TABELA 26
 
 Pressupostos assumidos para a evolução da valorização material de RU em 2020 e 2030 nos cenários CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 No que respeita à valorização orgânica, foi tido em conta que esta será totalmente operacionalizada através de instalações de compostagem. Sendo a evolução prevista para os dois cenários a que se apresenta na Tabela 27.
 
@@ -2454,7 +2494,7 @@ TABELA 27
 
 Pressupostos assumidos para a evolução da valorização orgânica de RU em 2020 e 2030 nos cenários CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 No que diz respeito à valorização energética, foi considerada a unidade da TERAMB já existente e a unidade da MUSAMI ainda a construir, assumindo-se que esta última estará a operar a partir de 2020 no cenário CR1 e 2017 no cenário CR2. Estes pressupostos encontram-se sumariados na Tabela 28.
 
@@ -2462,7 +2502,7 @@ TABELA 28
 
 Pressupostos assumidos para a evolução da valorização energética de RU em 2020 e 2030 nos cenários de CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 2.3.4.3.5 - Evolução da caraterização física dos resíduos urbanos
 
@@ -2472,7 +2512,7 @@ TABELA 29
 
 Composição física dos resíduos depositados em aterro (cenários CR1 e CR2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 2.3.4.3.6 - Evolução da produção de resíduos industriais
 
@@ -2482,7 +2522,7 @@ TABELA 30
 
 Pressupostos assumidos para a evolução da produção de resíduos industriais entre 2015 e 2030 nos cenários CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 2.3.4.3.7 - Evolução dos destinos dos resíduos industriais
 
@@ -2492,7 +2532,7 @@ TABELA 31
 
 Pressupostos assumidos para a evolução da deposição de RI em aterro entre 2015 e 2030 nos cenários CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 2.3.4.3.8 - Evolução da produção de lamas
 
@@ -2506,13 +2546,13 @@ TABELA 32
 
 Pressupostos assumidos para a evolução da produção de lamas entre 2015 e 2030 nos cenários CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 TABELA 33
 
 Pressupostos assumidos para a evolução da deposição de lamas em aterro no período 2015-2030 nos cenários CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 2.3.4.3.10 - Carga orgânica das águas residuais
 
@@ -2522,7 +2562,7 @@ TABELA 34
 
 Pressupostos assumidos para a evolução da carga orgânica das águas residuais domésticas no período 2015-2030 nos cenários CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 No presente exercício de projeção de emissões estabeleceram-se os pressupostos de seguida representados na Tabela 35 e Tabela 36 para a estimar a evolução da carga orgânica das águas residuais industriais. A projeção da evolução da indústria mais relevante nesta variável é a mesma que foi considerada nos cenários de procura e oferta de energia e nos cenários para a Agricultura, Floresta e Uso do Solo.
 
@@ -2530,13 +2570,13 @@ TABELA 35
 
 Pressupostos assumidos para a evolução da carga orgânica das águas residuais industriais em 2020 nos cenários CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 TABELA 36
 
 Pressupostos assumidos para a evolução da carga orgânica das águas residuais industriais em 2030 nos cenários CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 2.3.4.3.11 - Evolução do tratamento das águas residuais
 
@@ -2546,7 +2586,7 @@ TABELA 37
 
 Pressupostos assumidos para a evolução do tratamento das águas residuais domésticas nos cenários CR1 e CR2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Tal como estabelecido no PGRH, assumiu-se que, no caso das águas residuais industriais, estas são tratadas 100 % em sistemas de tratamento descentralizado (ETAR).
 
@@ -2562,7 +2602,7 @@ TABELA 38
 
 Cenários socioeconómicos setoriais considerados para as projeções Alta e Baixa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 As projeções emissões de GEE estimadas são apresentadas na Figura 65 e Tabela 39. A Projeção Alta representa um aumento na ordem dos 41 % face a 2014 (29 % se não se considerar os usos de solo) e a Projeção Baixa uma redução de 38 % face a 2014 (19 % se não se considerar os usos do solo). O sequestro de carbono gerado pela floresta e outros usos de solo tem um peso entre 29 % e 58 % das projeções de emissões de GEE em 2030 (para o total com usos de solo).
 
@@ -2578,7 +2618,7 @@ A produção de eletricidade (15-18 %(6), os solos agrícolas devido ao uso de f
 
 Nas secções seguintes são apresentados em maior detalhe a origem das emissões de GEE projetadas, setor de mitigação a setor de mitigação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 65 - Projeção de emissões de GEE para a RAA para 2030
 
@@ -2586,11 +2626,11 @@ TABELA 39
 
 Emissões de GEE por setor para o ano de referência e 2030 nas duas projeções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 As emissões de GEE em 2030 são devidas principalmente à energia (gasóleo consumido pelo transporte rodoviário e fuelóleo consumido pela produção de eletricidade) e à agricultura (fermentação entérica de bovinos), como se pode ver pela Figura 66.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 66 - Projeção de emissões de GEE para a RAA para 2030 por setor (sem o setor Usos do solo)
 
@@ -2606,7 +2646,7 @@ TABELA 40
 
 Emissões GEE para a Energia (tCO(índice 2eq))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 67 - Projeções de GEE para a energia
 
@@ -2614,11 +2654,11 @@ A Figura 69 apresenta a projeção do consumo de eletricidade por setor para 203
 
 Desta forma, os setores-chave para a definição de medidas de mitigação são os setores doméstico e serviços, devido ao consumo elétrico, o setor dos transportes, em particular o rodoviário, o setor da agricultura, florestas e pescas devido aos consumos de gasóleo, o setor da indústria devido ao consumo de eletricidade e o setor elétrico devido ao consumo de fuelóleo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 68 - Projeções de GEE para a energia, por setor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 69 - Projeção do consumo de eletricidade por setor na RAA em 2030
 
@@ -2626,7 +2666,7 @@ Fig. 69 - Projeção do consumo de eletricidade por setor na RAA em 2030
 
 As emissões de GEE associadas às projeções Alta e Baixa para a agricultura, floresta e outros usos do solo são visíveis na Figura 70.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 70 - Emissões de GEE para a agricultura para as projeções Alta e Baixa
 
@@ -2638,7 +2678,7 @@ TABELA 41
 
 Emissões GEE para a Agricultura (tCO(índice 2eq))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 A reduzida contribuição, tanto nas projeções Alta e Baixa, das emissões associadas à queima de resíduos agrícolas era expectável devido ao baixo peso das culturas agrícolas (vinhas e pomares) na RAA cujos resíduos são queimados. Já a contribuição, para as emissões totais, da gestão de estrume é baixa pelo facto de a maior parte dos animais estar em regime de pastoreio. Na Figura 71 é demostrado, a título exemplificativo, a influência de dois tipos de regime de estabulamento diferentes (pastoreio e armazenamento por baixo das instalações dos animais superior a 1 mês) nas emissões dos GEE associadas a 1000 vacas leiteiras.
 
@@ -2646,17 +2686,17 @@ Analisando pormenorizadamente as categorias do IPCC que mais contribuem para as 
 
 . Na fermentação entérica, os bovinos são os únicos que apresentam emissões consideráveis, como se pode ver na Figura 72, tanto nas projeções Alta e Baixa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 71 - Emissões de GEE associadas a 1000 vacas leiteiras em regimes de estabulação diferentes - pastoreio (à esquerda) e estabulação (à direita)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 72 - Emissões de GEE associadas à fermentação entérica, nas projeções Alta e Baixa
 
 . Nos solos agrícolas, também referidos neste relatório como gestão de solos agrícolas, as subcategorias com mais peso, em termos de emissões de GEE, são os animais em pastoreio, seguida das emissões indireta e dos fertilizantes minerais (Figura 73).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 73 - Emissões de GEE associadas à gestão dos solos agrícolas nas projeções Alta e Baixa
 
@@ -2668,7 +2708,7 @@ TABELA 42
 
 Emissões GEE para alterações nos Usos do Solo (tCO(índice 2eq))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Desta forma, os setores-chave para a definição de medidas de mitigação são a fermentação entérica, os solos agrícolas e a floresta.
 
@@ -2676,7 +2716,7 @@ Desta forma, os setores-chave para a definição de medidas de mitigação são 
 
 As emissões de GEE do setor dos resíduos e águas residuais associadas às duas projeções (Alta e Baixa) estão expostas na Figura 74.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 74 - Emissões de GEE para o setor dos resíduos e águas residuais, para as Projeções Alta e Baixa
 
@@ -2688,7 +2728,7 @@ TABELA 43
 
 Emissões GEE para o setor dos resíduos (tCO(índice 2eq))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 A diferença entre as emissões globais relativas às duas projeções varia ao longo do horizonte de projeção, sendo de 15 % em 2030.
 
@@ -2696,7 +2736,7 @@ Em ambas as projeções se verifica que as emissões globais de GEE do setor dos
 
 As emissões associadas à deposição de resíduos e à gestão das águas residuais domésticas e industriais são as que tem mais peso. Tal se pode verificar na Figura 75.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 75 - Distribuição das emissões de GEE entre as categorias do setor dos resíduos e águas residuais, para as Projeções Alta e Baixa
 
@@ -2704,11 +2744,11 @@ No caso da deposição de resíduos as emissões distribuem-se entre as emissõe
 
 No que respeita às emissões associadas à gestão das águas residuais elas podem ter origem nas águas residuais domésticas e industriais. A distribuição entre as duas está representada na Figura 77. As emissões relativas às águas residuais industriais aumentam, sobretudo no cenário de Projeção Alta, em resultado do aumento da atividade industrial neste cenário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 76 - Distribuição das emissões de GEE associadas à deposição em aterro, para as Projeções Alta e Baixa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 77 - Distribuição das emissões de GEE associadas à gestão das águas residuais, para as Projeções Alta e Baixa
 
@@ -2726,7 +2766,7 @@ Analisando cada uma das categorias do IPCC do setor dos resíduos e águas resid
 
 A componente de mitigação do PRAC estabelece um conjunto de metas e elenca um conjunto de opções de políticas e medidas que podem contribuir para reduzir as emissões de GEE e aumentar o sequestro de carbono como apresentado na Figura 78. Estas opções de políticas e medidas de baixo carbono permitem alcançar reduções de 342 ktCO(índice 2eq) (- 19 %) na projeção alta em 2030 e de 331 ktCO(índice 2eq) (- 40 %) na projeção baixa para 2030. A Tabela 44 apresenta os valores de redução de emissões obtidos com as políticas e medidas propostas tendo como base os anos de 2014 e 2005. É de referir que sinergias entre as diferentes medidas não foram incluídas nestas estimativas. Um exemplo é o aumento de fontes de energias renováveis na rede elétrica (medidas ITE3, ITE4 e ITE2) que por um lado contribuem para aumentar ainda mais as emissões evitadas associadas à introdução do veículo elétrico (medida TM3) e por outro reduzem o efeito das medidas com objetivo de deslocar os consumos elétricos de períodos de cheia para períodos de vazio (medidas RS1 e ITE2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 78 - Projeções de emissões sem e com usos do solo (direita e esquerda, respetivamente) para 2030 com e sem o programa de mitigação de alterações climáticas
 
@@ -2736,13 +2776,13 @@ TABELA 44
 
 Reduções de emissões de GEE conseguidas com as políticas e medidas propostas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 TABELA 45
 
 Reduções conseguidas com as políticas e medidas propostas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 A RAA possui seis instalações abrangidas pelo CELE e que são reguladas a nível Europeu. As políticas e medidas identificadas incluem estas instalações, mas também os setores não abrangidos pelo CELE.
 
@@ -2810,7 +2850,7 @@ Neste quadro, pese embora o reduzido contributo potencial da Região para o fen�
 
 Para a concretização destes objetivos, foi definida uma arquitetura de atuação estruturada em três Eixos e seis Objetivos (Figura 79) que refletem as dimensões chave de resposta ao problema - mitigação e adaptação - e as dimensões consideradas indispensáveis para o sucesso desta política - conhecimento e participação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 79 - Estruturação da Estratégia Regional para as Alterações Climáticas (ERAC)
 
@@ -2818,7 +2858,7 @@ Fonte: ERAC (2011)
 
 Atendendo às especificidades e às vulnerabilidades das diversas ilhas dos Açores, foram estabelecidos pela ERAC os setores estratégicos prioritários (Figura 80), tendo para cada um destes setores sido estabelecido um grupo de trabalho específico, tendo como referência a estrutura da Administração Regional e o envolvimento de outras entidades com atividade relevante relacionada com cada setor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 80 - Articulação entre os Setores Estratégicos da ERAC e do PRAC
 
@@ -2878,7 +2918,7 @@ A incerteza subjacente à evolução das Alterações Climáticas ao nível glob
 
 Por outro lado, os desafios que as mudanças climáticas comportam para toda a sociedade, nomeadamente no quadro de uma nova economia de baixo carbono, tornam indispensável a capacitação dos cidadãos para a compreensão dos problemas, desafios e oportunidades, mas também para a criação de competências regionais no domínio da mitigação às Alterações Climáticas e do aumento da capacidade adaptativa, o que só poderá ser alcançado com maior conhecimento e informação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 81 - Visão e Objetivos Estratégicos do PRAC
 
@@ -2916,7 +2956,7 @@ TABELA 46
 
 Alinhamento estratégico entre Diretrizes e Estudos Setoriais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Equipa Técnica (2017)
 
@@ -2944,7 +2984,7 @@ TABELA 47
 
 Lista das entidades executoras e envolvidas referidas nas diretrizes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Equipa Técnica (2017)
 
@@ -2952,15 +2992,15 @@ As diretrizes do Programa Regional de Alterações Climáticas dos Açores não 
 
 4.2 - Normas Específicas para a Adaptação às Alterações Climáticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 4.3 - Normas Específicas para a Mitigação das Alterações Climáticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 As medidas de adaptação e mitigação às alterações climáticas estão descritas nos relatórios setoriais, os quais fazem parte integrante do Programa Regional para as Alterações Climáticas. Em seguida apresenta-se a medida de caráter transversal de Comunicação e Gestão do Conhecimento sobre Alterações Climáticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 5 - Plano de Monitorização
 
@@ -2978,7 +3018,7 @@ b) Subsistema de monitorização da abordagem para a redução de emissões e de
 
 c) Subsistema de monitorização da abordagem para a redução de impactos e de adaptação às Alterações Climáticas na Região Autónoma dos Açores e que será suportado por indicadores de realização das medidas de adaptação constantes nas fichas de medidas que integram as Estratégias Setoriais de Adaptação às Alterações Climáticas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fig. 82 - Sistema de Monitorização do PRAC Açores
 
@@ -3008,7 +3048,7 @@ TABELA 48
 
 Indicadores de Monitorização Climática
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: equipa técnica
 
@@ -3020,7 +3060,7 @@ TABELA 49
 
 Indicadores resultantes do IRERPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: equipa técnica
 
@@ -3030,7 +3070,7 @@ TABELA 50
 
 Indicadores de Monitorização das Medidas Setoriais de Adaptação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Equipa Técnica
 
@@ -3040,7 +3080,7 @@ TABELA 51
 
 Indicadores de Monitorização das Medidas Setoriais de Mitigação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf))](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/22900/0000500158.pdf)
 
 Fonte: Equipa Técnica
 
@@ -3166,7 +3206,7 @@ Serrenho, A. C., Warr, B., Sousa, T., Ayres, R., Domingos, T., 2016. Structure a
 
 (5) Climate Change Across the Macaronesian Geographical Region 1850-2100; Thomas e Cropper (2015).
 
-(6) Sítio da internet do Governo Regional dos Açores, consultado a 25 de julho de 2017: http://www.azores.gov.pt/PortalAzoresGov/Templates/Entity.aspx?NRMODE=Published&NRNODEGUID=%7B26D1B637-C0D7-4545-A82E-E991830B2DE9%7D&NRORIGINALURL=%2FPortal%2Fpt%2Fentidades%2Fsram-dre%2F%3Flang%3Dpt&NRCACHEHINT=Guest&lang=pt.
+(6) Sítio da internet do Governo Regional dos Açores, consultado a 25 de julho de 2017: http://www.azores.gov.pt/PortalAzoresGov/Templates/Entity.aspx?NRMODE=Published&NRNODEGUID=%7B26D1B637-C0D7-4545-A82E-E991830B2DE9%7D&NRORIGINALURL=%2FPortal%2Fpt%2Fentidades%2Fsram-dre%2F%3Flang%3Dpt&NRCACHEHINT=Guest⟨=pt.
 
 (7) EDA, Relatório e Contas 2015.
 
@@ -3183,3 +3223,5 @@ Serrenho, A. C., Warr, B., Sousa, T., Ayres, R., Domingos, T., 2016. Structure a
 (13) Os relatórios de monitorização do PRAC que se realizem até 2025 não incluirão estes indicadores.
 
 (14) Entende-se por entidade responsável, a entidade que procederá à recolha da informação necessária para o cálculo do indicador e que a submeterá ao departamento da administração regional autónoma competente em matéria de ambiente.
+
+112719514

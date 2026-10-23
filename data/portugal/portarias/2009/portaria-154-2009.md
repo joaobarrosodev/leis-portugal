@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/02700/0086700867.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/154/2009/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/154-2009-601502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adbd5b67a3d726828c2de8e43d64b391523e6588785198ca5e81873d19b0b9d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16f3af91bec6897f82ef3e367fd33f0422f4bb01da7252a2af3cf0e561d2a3ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Assistência Médica
 - Assistência Medicamentosa
-- Serviço Nacional de Saúde
 - Exame Médico
+- Inseminação Artificial
 - Preço
 - Procriação Medicamente Assistida
 - Reprodução Humana
-- Inseminação Artificial
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:280490:por
@@ -94,16 +94,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/781-a/2007/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/781-a/2007/07/16/p/dre
+- type: cites
+  target: pt:dre:154190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280490:por
+  label: "Revogada, a partir de 09.02.2011, com efeitos a 01.01.2001, pela PORT.67/2011.04.02.2011.MS, DR.IS [25] de 04.02.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/67-2011-280490
+  date: '2011-02-04'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:29Z'
   warnings: []
   errors: []
 ---
@@ -140,4 +162,4 @@ Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado Adjunto 
 
 ## ANEXO — Tabela de preços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02700/0086700867.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02700/0086700867.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02700/0086700867.pdf)

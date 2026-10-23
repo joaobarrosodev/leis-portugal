@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/02100/02370240.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-448925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4a6d0a3d1909825c7222acae7c84b29eef3ec7bbbb1176fa0a62b8adb0c2f7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b07b375268e7dc2b20f42811d0de553f2726328a29583341a91f34b9f560f9ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Conselho Científico
+- Instituto de Geociências e Tecnologia dos Açores
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional do Comércio e Indústria
 relationships:
 - type: amended_by
   target: pt:dre:329437:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:480755:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329437:por
+  label: "Revogado pelo DRR.17/78/A.1978.08.16.GR-RAA, DR.IS [218] de 21/Set/1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1978-329437
+  date: '1978-08-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:50Z'
   warnings: []
   errors: []
 ---
@@ -106,11 +121,11 @@ Orgânica do Instituto de Geociências e Tecnologia dos Açores (IGTA)
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### Artigo 1.º - 1 - É criado na Secretaria Regional do Comércio e Indústria um gabinete técnico denominado Instituto de Geociências e Tecnologia dos Açores, abreviadamente designado como IGTA.
+Artigo 1.º - 1 - É criado na Secretaria Regional do Comércio e Indústria um gabinete técnico denominado Instituto de Geociências e Tecnologia dos Açores, abreviadamente designado como IGTA.
 
 2 - O IGTA depende directamente do respectivo Secretário Regional, podendo este delegar no responsável daquele todas as atribuições que possam conduzir a uma gestão dinâmica dos trabalhos em carteira.
 
-###### Art. 2.º São atribuições do IGTA:
+Art. 2.º São atribuições do IGTA:
 
 a) Prospectar, pesquisar, explorar e administrar os recursos geotérmicos e minerais no arquipélago dos Açores, incluindo os dos fundos submarinos;
 
@@ -124,7 +139,7 @@ e) Apoiar a fiscalização das indústrias locais, desenvolvendo novos processos
 
 f) Apoiar as entidades a quem compete garantir a qualidade dos produtos importados, exportados e circulantes nos Açores.
 
-###### Art. 3.º Na prossecução das atribuições enunciadas no artigo anterior compete especialmente ao IGTA:
+Art. 3.º Na prossecução das atribuições enunciadas no artigo anterior compete especialmente ao IGTA:
 
 a) Elaborar estudos e projectos e realizar obras relacionadas com os recursos naturais, propondo a legislação adequada à sua protecção, desenvolvimento e aproveitamento harmonioso;
 
@@ -148,7 +163,7 @@ j) Exercer quaisquer outras funções que lhe sejam cometidas por lei ou se most
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 4.º - 1 - O Instituto de Geociências e Tecnologia dos Açores compreende os seguintes órgãos:
+Art. 4.º - 1 - O Instituto de Geociências e Tecnologia dos Açores compreende os seguintes órgãos:
 
 a) Director;
 
@@ -158,7 +173,7 @@ b) Conselho Científico.
 
 3 - O Secretário Regional poderá nomear um dos investigadores para substituir o director nas suas ausências, faltas ou impedimentos.
 
-###### Art. 5.º Compete ao director:
+Art. 5.º Compete ao director:
 
 a) Dirigir, orientar e coordenar todas as actividades do Instituto imprimindo-lhes unidade, continuidade e eficácia;
 
@@ -172,9 +187,9 @@ e) Propor e submeter à apreciação do SRCI o regulamento dos departamentos e d
 
 f) A competência atribuída, em geral, aos directores regionais.
 
-###### Art. 6.º O Conselho Científico é um órgão colegial consultivo, constituído pelo director, que presidirá, e pelos responsáveis dos departamentos científicos e técnicos.
+Art. 6.º O Conselho Científico é um órgão colegial consultivo, constituído pelo director, que presidirá, e pelos responsáveis dos departamentos científicos e técnicos.
 
-###### Art. 7.º Compete ao Conselho Científico:
+Art. 7.º Compete ao Conselho Científico:
 
 a) Colaborar no programa de investigações do Instituto;
 
@@ -194,13 +209,13 @@ h) Colaborar na orientação das publicações de carácter técnico e científi
 
 i) Colaborar na elaboração do relatório anual da actividade científica.
 
-###### Art. 8.º O Conselho Científico terá uma reunião ordinária em cada mês e reunirá extraordinariamente sempre que o director ou metade dos responsáveis dos departamentos científicos e técnicos o solicite.
+Art. 8.º O Conselho Científico terá uma reunião ordinária em cada mês e reunirá extraordinariamente sempre que o director ou metade dos responsáveis dos departamentos científicos e técnicos o solicite.
 
-###### Art. 9.º As deliberações do Conselho Científico são tomadas à pluralidade de votos dos membros presentes, tendo o presidente o voto de qualidade.
+Art. 9.º As deliberações do Conselho Científico são tomadas à pluralidade de votos dos membros presentes, tendo o presidente o voto de qualidade.
 
-###### Art. 10.º Das reuniões lavrar-se-á acta em livro especial, numerado e rubricado em todas as folhas pelo presidente, que assinará os termos de abertura e de encerramento.
+Art. 10.º Das reuniões lavrar-se-á acta em livro especial, numerado e rubricado em todas as folhas pelo presidente, que assinará os termos de abertura e de encerramento.
 
-###### Art. 11.º O IGTA compreende os seguintes serviços:
+Art. 11.º O IGTA compreende os seguintes serviços:
 
 a) Direcção de Serviços de Documentação e Computação;
 
@@ -214,9 +229,9 @@ e) Dois laboratórios de química aplicada;
 
 f) Secretaria.
 
-###### Art. 12.º Os departamentos e laboratórios referidos no artigo 11.º terão regulamento próprio proposto pelo director com a colaboração do Conselho Científico e aprovado pelo SRCI.
+Art. 12.º Os departamentos e laboratórios referidos no artigo 11.º terão regulamento próprio proposto pelo director com a colaboração do Conselho Científico e aprovado pelo SRCI.
 
-###### Art. 13.º A Secretaria é o órgão de execução dos serviço de interesse comum a todo o Instituto, competindo-lhe, designadamente:
+Art. 13.º A Secretaria é o órgão de execução dos serviço de interesse comum a todo o Instituto, competindo-lhe, designadamente:
 
 a) Executar os serviços de expediente geral e de arquivo;
 
@@ -226,9 +241,9 @@ c) Assegurar o serviço de economato e contabilidade, bem como a elaboração do
 
 d) Prestar aos restantes serviços do IGTA outro apoio administrativo, em cada caso com a autorização do director.
 
-###### Art. 14.º A Secretaria é chefiada por um secretário.
+Art. 14.º A Secretaria é chefiada por um secretário.
 
-###### Art. 15.º Compete ao secretário:
+Art. 15.º Compete ao secretário:
 
 a) Preparar o expediente para submeter ao despacho do director, informando os assuntos quando se reconheça ser necessário;
 
@@ -240,13 +255,13 @@ d) Certificar mediante despacho do director todos os factos e actos que constem 
 
 e) Manter um ficheiro da legislação de tudo quanto esteja ligado à matéria das atribuições do Instituto.
 
-###### Art. 16.º - 1 - O Instituto poderá ter na sua imediata dependência centros de acção em certas áreas da Região para o desempenho das suas funções.
+Art. 16.º - 1 - O Instituto poderá ter na sua imediata dependência centros de acção em certas áreas da Região para o desempenho das suas funções.
 
 2 - Os centros de acção poderão ter carácter permanente se as actividades naquelas áreas assim o exigirem.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 17.º - 1 - O pessoal do IGTA agrupa-se de acordo com a seguinte classificação:
+Art. 17.º - 1 - O pessoal do IGTA agrupa-se de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -258,7 +273,7 @@ d) Pessoal auxiliar.
 
 2 - O pessoal dirigente e técnico consta do quadro anexo ao presente diploma, dele fazendo parte integrante.
 
-###### Art. 18.º - 1 - O provimento do pessoal compete ao Secretário Regional e será feito por nomeação ou contrato, de harmonia com o estabelecido na lei geral e na legislação regional em vigor, e nos termos seguintes para as categorias indicadas:
+Art. 18.º - 1 - O provimento do pessoal compete ao Secretário Regional e será feito por nomeação ou contrato, de harmonia com o estabelecido na lei geral e na legislação regional em vigor, e nos termos seguintes para as categorias indicadas:
 
 a) Director: por nomeação do SRCI, em comissão de serviço por dois anos, de entre indivíduos de reconhecida competência no domínio das geociências e da tecnologia;
 
@@ -274,28 +289,28 @@ e) Tradutor técnico: por concurso de prestação de provas de entre indivíduos
 
 ### CAPÍTULO IV — Disposições finais, gerais e transitórias
 
-###### Art. 19.º - 1 - O pessoal que, à data da entrada em vigor do presente diploma, se encontre afecto ao Instituto de Geociências e Tecnologia dos Açores será, por despacho conjunto do Secretário Regional da Administração Pública e do Secretário Regional do Comércio e Indústria, publicado no jornal oficial, provido em lugares do novo quadro, independentemente do tempo de serviço prestado e de quaisquer formalidades, mas sem prejuízo das habilitações literárias exigíveis.
+Art. 19.º - 1 - O pessoal que, à data da entrada em vigor do presente diploma, se encontre afecto ao Instituto de Geociências e Tecnologia dos Açores será, por despacho conjunto do Secretário Regional da Administração Pública e do Secretário Regional do Comércio e Indústria, publicado no jornal oficial, provido em lugares do novo quadro, independentemente do tempo de serviço prestado e de quaisquer formalidades, mas sem prejuízo das habilitações literárias exigíveis.
 
 2 - O pessoal integrado na mesma categoria não perde a antiguidade nela obtida anteriormente.
 
 3 - Se, efectuadas as colocações referidas no n.º 1, ficarem a existir vagas, poderão estas ser preenchidas nos mesmos termos, mediante nomeação ou contrato, por pessoal que naquela data preste serviço a qualquer título nas Secretarias Regionais ou noutros serviços públicos, centrais, regionais ou locais.
 
-###### Art. 20.º - 1 - Ficam integrados nos laboratórios de química aplicada a que se refere a alínea e) do artigo 11.º os antigos laboratórios distritais que, presentemente, se encontram na dependência directa do Secretário Regional do Comércio e Indústria.
+Art. 20.º - 1 - Ficam integrados nos laboratórios de química aplicada a que se refere a alínea e) do artigo 11.º os antigos laboratórios distritais que, presentemente, se encontram na dependência directa do Secretário Regional do Comércio e Indústria.
 
 2 - O pessoal dos laboratórios a que se refere o número anterior será colocado nos laboratórios de química aplicada do Instituto, integrando o quadro anexo a este diploma.
 
 Aprovado em Plenário do Governo Regional em 29 de Agosto de 1977.
 
-**O Presidente do Governo Regional, em exercício, Raul Gomes dos Santos.**
+O Presidente do Governo Regional, em exercício, Raul Gomes dos Santos.
 
-**Assinado em Angra do Heroísmo em 2 de Janeiro de 1978.**
+Assinado em Angra do Heroísmo em 2 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.
 
 Quadro a que se refere o artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/01/02100/02370240.pdf))](https://files.diariodarepublica.pt/1s/1978/01/02100/02370240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/01/02100/02370240.pdf)
 
-**O Presidente do Governo Regional, em exercício, Raul Gomes dos Santos.**
+O Presidente do Governo Regional, em exercício, Raul Gomes dos Santos.

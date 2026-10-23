@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2008/06/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8480cb372cb5c11f4f1b9d81b2846f4e75a443334b4c4420d57af12ca12e3582
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f3814d65b0075a7d17c462363a8d4d784a4ef931702831261807020a8061631
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Açores
 - Contra-ordenação
-- Orla Costeira
 - Ilha do Corvo
+- Ordenamento do Território
+- Orla Costeira
 - Plano de Ordenamento da Orla Costeira
 - Regulamento
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:453487:por
@@ -117,16 +117,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/767/1996/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/767/1996/12/30/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
 article_structure:
   article_count: 58
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:29Z'
   warnings: []
   errors: []
 ---
@@ -165,11 +221,11 @@ O POOC Corvo entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Vila do Corvo, em 16 de Maio de 2008.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 9 de Junho de 2008.**
+Assinado em Angra do Heroísmo em 9 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -1313,22 +1369,22 @@ QUADRO N.º 1
 
 Lista de imóveis classificados no concelho da Vila do Corvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf)
 
 QUADRO N.º 2
 
 Área de referência para dimensionamento das instalações de apoio e equipamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf)
 
 ## ANEXO II — (a que se refere o artigo 1.º)
 
 Planta de síntese do Plano de Ordenamento da Orla Costeira da Ilha do Corvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf)
 
 ## ANEXO III — (a que se refere o artigo 1.º)
 
 Planta de condicionantes do Plano de Ordenamento da Orla Costeira da Ilha do Corvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12100/0387203889.pdf)

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/19400/0000800010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2024/10/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2024-890053773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1721578b6c8b1322da5c18d45c2328495a8193b8d5daf63b53acaf04b420ad7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b827b84ddfd798bddb019eb4996f04d63fd6d3a375aa4abd10b7c27bac284c38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Atestado Médico
-- Junta Médica
-- Centro de Saúde
-- Exame Médico
-- Proteção ao Deficiente
-- Incapacidade Física
-- Benefícios Fiscais
 - Açores
+- Atestado Médico
+- Benefícios Fiscais
+- Centro de Saúde
+- Deficiente
+- Exame Médico
+- Incapacidade Física
+- Junta Médica
+- Proteção ao Deficiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/2022/01/03/p/dre
@@ -105,16 +105,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/80/2021/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/80/2021/11/29/p/dre
+- type: cites
+  target: pt:dre:147674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175043504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:837022978:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:despacho-normativo:8/2010
+  label: Revoga, a partir de 6 de novembro de 2024, o Despacho Normativo n.º 8/2010, de 3 de fevereiro, Jornal Oficial dos
+    Açores - 1.ª Série, n.º 18
+  source: null
+  date: '2010-02-03'
+- type: repeals
+  target: pt:numero:portaria:7/2013
+  label: Revoga, a partir de 6 de novembro de 2024, o número II do anexo da Portaria n.º 7/2013, de 29 de janeiro, Jornal
+    Oficial dos Açores - 1.ª Série, n.º 10
+  source: null
+  date: '2013-01-29'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:14Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +171,7 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos te
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto legislativo regional determina a aplicação, à Região Autónoma dos Açores, do [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23 de outubro, alterado pelos Decretos-Leis n.<sup>os</sup>[174/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1997-147674), de 19 de julho, e [291/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2009-491686), de 12 de outubro, pela [Lei n.º 80/2021](https://diariodarepublica.pt/dr/detalhe/lei/80-2021-175043504), de 29 de novembro, e pelos Decretos-Leis n.<sup>os</sup>[1/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2022-176907537), de 3 de janeiro, e [15/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2024-837022978), de 17 de janeiro, que estabelece o regime de avaliação de incapacidade das pessoas com deficiência, para efeitos de acesso às medidas e benefícios previstos na lei, com as adaptações constantes nos artigos seguintes.
+O presente decreto legislativo regional determina a aplicação, à Região Autónoma dos Açores, do [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23 de outubro, alterado pelos Decretos-Leis n.os[174/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1997-147674), de 19 de julho, e [291/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2009-491686), de 12 de outubro, pela [Lei n.º 80/2021](https://diariodarepublica.pt/dr/detalhe/lei/80-2021-175043504), de 29 de novembro, e pelos Decretos-Leis n.os[1/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2022-176907537), de 3 de janeiro, e [15/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2024-837022978), de 17 de janeiro, que estabelece o regime de avaliação de incapacidade das pessoas com deficiência, para efeitos de acesso às medidas e benefícios previstos na lei, com as adaptações constantes nos artigos seguintes.
 
 ###### Artigo 2.º — Composição e competências das juntas médicas
 
@@ -143,7 +183,7 @@ O presente decreto legislativo regional determina a aplicação, à Região Aut�
 
 4 - As unidades de saúde de ilha asseguram o apoio logístico e administrativo necessário ao funcionamento das juntas médicas.
 
-5 - Para os efeitos do disposto nos n.<sup>os</sup>2 e 3, podem as unidades de saúde de ilha proceder à contratação de médicos especialistas, em regime de prestação de serviços, mediante autorização prévia do membro do Governo Regional competente em matéria de saúde.
+5 - Para os efeitos do disposto nos n.os2 e 3, podem as unidades de saúde de ilha proceder à contratação de médicos especialistas, em regime de prestação de serviços, mediante autorização prévia do membro do Governo Regional competente em matéria de saúde.
 
 6 - O valor a pagar a cada médico que, no âmbito do regime de prestação de serviços referido no número anterior, venha a ser contratado para o efeito é determinado por portaria dos membros do Governo Regional com competência em matéria de saúde e de finanças.
 
@@ -191,10 +231,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de setembro de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 3 de outubro de 2024.**
+Assinado em Angra do Heroísmo em 3 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+118188943

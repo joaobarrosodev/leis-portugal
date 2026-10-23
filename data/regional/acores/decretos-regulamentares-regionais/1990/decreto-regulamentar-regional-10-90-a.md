@@ -46,40 +46,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1990-333276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5befbd2fcf788d9618c4341d2ebb1037825f054763fa116be87f2c011d3d822
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fe0a01529e61440dcaa99be6cdcf81cbfcba05d3d26c223cba70e5f509131c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Definição de Competências
+- Governo Regional
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional da Administração Interna
 relationships:
 - type: amended_by
   target: pt:dre:274463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:188358:por
+  label: "Alterados os artigos 34.º, 35.º, 37.º, 39.º, e substituído o quadro de pessoal constante do mapa anexo ao presente\
+    \ diploma, pelo DRR.14/92/A.25.03.1992.GR-RAA, DR.IS-B [71] de 25.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1992-188358
+  date: '1992-02-07'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:546230:por
+  label: Rectificado pela DECL.DD3229.1990.08.21.PCM DR.IS [201]3&#186;Supl de 31/Ago/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-546230
+  date: '1990-08-21'
+- type: corrected_by
+  target: pt:dre:199391:por
+  label: Rectificado pela DECL.DD3170.1990.09.20.PCM DR.IS [226]Supl de 29/Set/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-199391
+  date: '1990-09-20'
+- type: repealed_by
+  target: pt:dre:300058:por
+  label: "Revogado, na parte referente às categorias do pessoal que presta apoio ao Palácio dos Capitães-Generais, pelo DRR.10/93/A.1993.03.30.GR-RAA,\
+    \ DR.IS-B [101] de 30/Abr/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1993-300058
+  date: '1993-03-30'
+- type: repealed_by
+  target: pt:dre:274463:por
+  label: "Revogado, com excepção dos preceitos relativos às categorias do pessoal que presta apoio ao Palácio dos Capitães-Generais,\
+    \ pelo DRR.11/93/A.1993.03.31.GR-RAA, DR.IS-B [107] de 08/Mai/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1993-274463
+  date: '1993-03-31'
 article_structure:
   article_count: 42
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:33Z'
   warnings: []
   errors: []
 ---
@@ -230,7 +304,9 @@ c) Executar o que as leis e os regulamentos expressamente lhe cometerem ou for d
 
 d) Dirigir e superintender o pessoal de apoio ao Palácio dos Capitães-Generais.
 
-###### Artigo 9.º — Secção de Pessoal, Expediente e Arquivo (SPEA)
+###### Artigo 9.º
+
+#### Secção de Pessoal, Expediente e Arquivo (SPEA)
 
 Compete à SPEA:
 
@@ -248,7 +324,9 @@ f) Assegurar o serviço de atendimento do público;
 
 g) Assegurar o expediente respeitante a assuntos de pessoal dos ex-governos civis e Junta Geral.
 
-###### Artigo 10.º — Secção de Contabilidade e Economato (SCE)
+###### Artigo 10.º
+
+#### Secção de Contabilidade e Economato (SCE)
 
 Compete à SCE:
 
@@ -262,7 +340,9 @@ d) Executar o serviço de aprovisionamento;
 
 e) Proceder à manutenção, benefíciação e conservação das instalações e bens duradouros.
 
-###### Artigo 11.º — Secção de ADSE, Passaportes e Licenças (SAPL)
+###### Artigo 11.º
+
+#### Secção de ADSE, Passaportes e Licenças (SAPL)
 
 Compete à SAPL:
 
@@ -392,7 +472,9 @@ a) Divisão da Função Pública (DFP);
 
 b) Divisão de Estruturas e Quadros (DEQ).
 
-###### Artigo 19.º — Divisão da Função Pública (DFP)
+###### Artigo 19.º
+
+##### Divisão da Função Pública (DFP)
 
 Compete à DFP:
 
@@ -406,7 +488,9 @@ d) Dar parecer sobre pedidos de intercomunicabilidade de carreiras, à luz das f
 
 e) Promover, em colaboração com o CID, a compilação e divulgação de informação jurídica no âmbito da função pública.
 
-###### Artigo 20.º — Divisão de Estruturas e Quadros (DEQ)
+###### Artigo 20.º
+
+##### Divisão de Estruturas e Quadros (DEQ)
 
 1 - Compete à DEQ:
 
@@ -442,7 +526,9 @@ a) Divisão de Racionalização e Gestão (DRG);
 
 b) Centro de Formação e Recrutamento da Administração Pública (CEFRAP).
 
-###### Artigo 22.º — Divisão de Racionalização e Gestão (DRG)
+###### Artigo 22.º
+
+##### Divisão de Racionalização e Gestão (DRG)
 
 1 - Compete à DRG:
 
@@ -514,7 +600,9 @@ b) Divisão de Estudos e Cooperação (DEC);
 
 c) Divisão de Apoio ao Ordenamento Municipal do Território (DAOMT).
 
-###### Artigo 27.º — Divisão de Apoio à Gestão Financeira (DAGF)
+###### Artigo 27.º
+
+##### Divisão de Apoio à Gestão Financeira (DAGF)
 
 Compete à DAGF:
 
@@ -530,7 +618,9 @@ e) Acompanhar, nos termos da lei, o processamento das transferências correntes 
 
 f) Propor e colaborar na realização de acções de informação destinadas aos eleitos locais da Região.
 
-###### Artigo 28.º — Divisão de Estudos e Cooperação (DEC)
+###### Artigo 28.º
+
+##### Divisão de Estudos e Cooperação (DEC)
 
 Compete à DEC:
 
@@ -540,7 +630,9 @@ b) Realizar ou colaborar na realização de estudos e trabalhos de natureza sóc
 
 c) Estudar e propor critérios e formas de colaboração e cooperação técnico-financeira entre a administração regional e a administração local e promover ou colaborar no respectivo acompanhamento, avaliação e controlo.
 
-###### Artigo 29.º — Divisão de Apoio ao Ordenamento Municipal do Território (DAOMT)
+###### Artigo 29.º
+
+##### Divisão de Apoio ao Ordenamento Municipal do Território (DAOMT)
 
 Compete à DAOMT:
 
@@ -552,7 +644,9 @@ c) Promover a articulação entre os diversos intervenientes no processo de elab
 
 d) Promover a avaliação dos efeitos e do impacte dos projectos de desenvolvimento no ordenamento municipal do território.
 
-###### Artigo 30.º — Divisão dos Assuntos Jurídicos e Eleitorais (DAJE)
+###### Artigo 30.º
+
+##### Divisão dos Assuntos Jurídicos e Eleitorais (DAJE)
 
 Compete à DAJE:
 
@@ -662,14 +756,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de Dezembro de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 23 de Fevereiro de 1990.**
+Assinado em Angra do Heroísmo em 23 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Mapa a que se refere o artigo 31.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/03/06500/13561365.pdf))](https://files.diariodarepublica.pt/1s/1990/03/06500/13561365.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/03/06500/13561365.pdf)

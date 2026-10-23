@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/426/2009/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/426-2009-604247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01fc081a9e4ce3aed756d6b4d9cdae63f9fc4bdf530c569a16731a5752ca79f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fc308de21ade1fd0e585dc0e87c6147f20a2de2cf838c09ba593bf5df487b50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,28 +71,34 @@ subjects:
 - Batalha
 - Bombarral
 - Caldas da Rainha
-- Vinho
+- Certificado de Qualidade
+- Comércio
 - Comissão Vitivinícola da Região de Lisboa
-- Indicação Geográfica
+- Controlo de Qualidade
 - Denominação de Origem
 - Entidade Certificadora
-- Controlo de Qualidade
 - Etiquetagem
+- Indicação Geográfica
 - Leiria
-- Certificado de Qualidade
+- Marinha Grande
 - Nazaré
 - Óbidos
 - Peniche
 - Pombal
-- Marinha Grande
-- Comércio
 - Produto Vitivinícola
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:25345593:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482612:por
+  label: "Alterados os artigos 1.º e 7.º e o quadro constante do anexo I ao presente diploma, pela PORT.1393/2009.27.11.2009.MADRP,\
+    \ DR.IS [231] de 27.11.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1393-2009-482612
+  date: '2009-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/2004/08/23/p/dre
   label: null
@@ -117,16 +123,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/394/2001/04/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/394/2001/04/16/p/dre
+- type: cites
+  target: pt:dre:281591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491949:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674426:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25345593:por
+  label: "Revogada na redação da Port. 1393/2009, de 27-nov, pela PORT.130/2014.25.06.2014.MAGM, DR.IS [120] de 25.06.2014\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/130-2014-25345593
+  date: '2014-06-25'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:07Z'
   warnings: []
   errors: []
 ---
@@ -295,26 +331,26 @@ Compete à Comissão Vitivinícola da Região de Lisboa as funções de controlo
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 17 de Abril de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 17 de Abril de 2009.
 
 ## ANEXO I
 
 Área geográfica de produção de vinho IG «Lisboa»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf)
 
 Área geográfica de produção da sub-região Estremadura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf)
 
 Área geográfica de produção da sub-região Alta-Estremadura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf)
 
 ## ANEXO II — Castas aptas à produção de vinho com IG «Lisboa», incluindo a sub-região Estremadura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf)
 
 Castas aptas à produção de vinho com IG da sub-região Alta-Estremadura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07900/0241602420.pdf)

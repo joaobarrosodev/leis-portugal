@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/05/085000000/2300823009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-2010-3552887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 457f3b09c1da06eb9a57776e64d396c60a582ee3553e9fa909ab9d9358fe7cd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0acb2767e4fad53d283b2551d500f75c21db0444a07b9c8724358ab9fa1d6cf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:04Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +95,5 @@ No n.º 18,«Método de selecção», onde se lê «Mais tempo de Serviço em Cu
 No n.º 19, «Constituição do júri», em «Vogais efectivos», onde se lê «1.º [...] Enfermeira Graduada» deve ler-se «1.º [...] enfermeira da carreira especial de enfermagem» e onde se lê «2.º Fábio Alexandre do Rego Melo Sousa, Enfermeiro Generalista» deve ler-se «2.º Fábio Alexandre Melo do Rego Sousa, enfermeiro da carreira especial de enfermagem», em «Vogais suplentes», onde se lê «1.º [...] Enfermeira Graduada» deve ler-se «1.º [...] enfermeira da carreira especial de enfermagem» e onde se lê «2.º [...] Enfermeira Graduada» deve ler-se «2.º [...] enfermeira da carreira especial de enfermagem».
 
 15 de Abril de 2010. - O Presidente do Júri, José Teixeira de Freitas.
+
+203185499

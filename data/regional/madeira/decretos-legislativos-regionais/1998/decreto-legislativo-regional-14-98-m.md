@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/1998/07/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1998-425523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2921e82daeb0ee48139b8e56fd18dd405a8fbddc5ff9132d18b67631a83f15b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ead75b8ca33270744bd1f5ee2a6eb67410d4ab0c8b9b8e2c50422014ff616259
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exploração Mineira
-- Multa
 - Contra-ordenação
-- Recursos Geológicos
-- Recursos Minerais
+- Exploração Mineira
 - Fiscalização
 - Licenciamento
-- Proteção do Ambiente
-- Pedreiras
 - Madeira.região Autónoma
+- Multa
+- Pedreiras
+- Proteção do Ambiente
+- Recursos Geológicos
+- Recursos Minerais
 - Recursos Naturais
 - Regulamento das Pedreiras
 relationships:
@@ -87,16 +87,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:574716:por
+  label: "Rectificado pela DECL-RECT.13-A/98.1998.08.25.PCM DR.IS-A [200]2ºSupl de 31/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-a-1998-574716
+  date: '1998-08-25'
 article_structure:
   article_count: 57
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:26Z'
   warnings: []
   errors: []
 ---
@@ -729,12 +750,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 14 de Maio de 1998.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 6 de Julho de 1998.**
+Assinado em 6 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 [(ver minutas no documento original)](https://files.diariodarepublica.pt/1s/1998/07/168a00/35283541.pdf)

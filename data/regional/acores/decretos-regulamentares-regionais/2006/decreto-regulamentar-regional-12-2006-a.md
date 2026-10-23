@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2006/02/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2006-694030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c02074e00c2728928c91ba5d7a5ab72aea71b7c1dee91e7c94dc74cf27f3045f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49a1793a9498a728c5b616d424d934c469019c18dff4335bdcd5c294df1114a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ordenamento do Território
 - Património Histórico
 - Plano de Pormenor
 - Regulamento
-- Açores
 - VILA do Porto
 relationships:
 - type: amended_by
   target: pt:dre:602039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602039:por
+  label: "Determinada a suspensão parcial do Plano Director Municipal de Vila do Porto, ratificado pelo DRR 6/2004/A, de 23-Mar,\
+    \ alterado pelo presente diploma, pelo DRR.2/2009/A.23.02.2009.PG-RAA, DR.IS [37] de 23.02.2009, nos termos do seu art.\
+    \ 4º. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2009-602039
+  date: '2009-02-23'
 - type: cites
   target: eli:http://data.dre.pt
   label: null
@@ -116,16 +123,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:209622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689635:por
+  label: null
+  source: null
 article_structure:
   article_count: 48
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:09Z'
   warnings: []
   errors: []
 ---
@@ -200,13 +251,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 15 de Dezembro de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Janeiro de 2006.**
+Assinado em Angra do Heroísmo em 25 de Janeiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — REGULAMENTO DO PLANO DE PORMENOR DE SALVAGUARDA E VALORIZAÇÃO DA ZONA HISTÓRICA DE VILA DO PORTO
 
@@ -700,8 +751,8 @@ b) O dimensionamento de parcelas destinadas a espaços verdes e equipamentos de 
 
 ## ANEXO II — Planta de implantação
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040b00/15481555.pdf)
+[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040b00/15481555.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040b00/15481555.pdf)
 
 ## ANEXO III — Planta de condicionantes
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040b00/15481555.pdf)
+[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/02/040b00/15481555.pdf)](https://files.diariodarepublica.pt/1s/2006/02/040b00/15481555.pdf)

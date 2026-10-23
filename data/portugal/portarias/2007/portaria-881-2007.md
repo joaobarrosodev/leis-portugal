@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/881/2007/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/881-2007-637271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e13b118c8e2f17f999584d41b77622d39742adffb15d6ac907cccc0b5c7432e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 818bb8a26af02a2ac8492431bbb348c6dc3dd59ce94815c425d8e102be500cd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Lares
+- Apoio Domiciliário
 - Centro de Actividades de Tempos Livres
+- Centro de Actividades Ocupacionais
 - Centro de DIA
 - Comparticipações da Segurança Social
 - Equipamento Social
 - Jardim de Infância
-- Centro de Actividades Ocupacionais
-- Apoio Domiciliário
+- Lares
 - Proteção Social
 - Segurança Social
 relationships:
@@ -85,16 +85,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523181:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:33Z'
   warnings: []
   errors: []
 ---
@@ -157,12 +165,12 @@ Em tudo o que se relaciona com o regime da cooperação, designadamente, no que 
 
 A presente portaria produz efeitos desde 1 de Janeiro de 2007.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 19 de Julho de 2007.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 19 de Julho de 2007.
 
 ## ANEXO I — Comparticipação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15200/0510905111.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15200/0510905111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15200/0510905111.pdf)
 
 ## ANEXO II — Comparticipação financeira respeitante a acordos celebrados ao abrigo do principio da diferenciação positiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15200/0510905111.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15200/0510905111.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15200/0510905111.pdf)

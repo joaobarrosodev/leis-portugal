@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16000/0552005526.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2007/08/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2007-640643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a75f199e5d5182bdcd2311c59d2c496299479c1dcb0449559ceca0e9f423eb01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6884cc2ad14be85f2928573a47e85abdff364a12674c9e47817aa3234e867157
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Definição de Competências
 - Inspecção Regional de Educação
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:146201:por
@@ -94,16 +94,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/29/1998/12/24/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/29/1998/12/24/a/dre
+- type: cites
+  target: pt:dre:188735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146201:por
+  label: "Revogado, a partir de 26.11.2011, pelo DRR.25/2011/A.25.11.2011.PG-RAA, DR.IS [227] de 25.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2011-146201
+  date: '2011-11-25'
 article_structure:
   article_count: 36
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:22Z'
   warnings: []
   errors: []
 ---
@@ -294,7 +323,9 @@ c) O chefe de secção.
 
 2 - Os Núcleos de Inspecção compreendem o corpo de inspectores e dependem directamente do inspector regional.
 
-###### Artigo 14.º — Secção Administrativa
+###### Artigo 14.º
+
+#### Secção Administrativa
 
 A Secção Administrativa é o serviço de gestão e apoio administrativo para a execução dos serviços de expediente geral, contabilidade, economato e administração de pessoal, à qual compete, designadamente:
 
@@ -542,14 +573,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila Nova do Corvo, em 20 de Junho de 2007.
 
-**O Presidente do Governo Regional, em exercício, Sérgio Humberto Rocha de Ávila.**
+O Presidente do Governo Regional, em exercício, Sérgio Humberto Rocha de Ávila.
 
-**Assinado em Angra do Heroísmo em 19 de Julho de 2007.**
+Assinado em Angra do Heroísmo em 19 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
 ## ANEXO — Quadro de pessoal a que se refere o n.º 1 do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16000/0552005526.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16000/0552005526.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16000/0552005526.pdf)

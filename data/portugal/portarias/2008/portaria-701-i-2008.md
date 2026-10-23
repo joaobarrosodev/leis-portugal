@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 145/2008, 1º Suplemento, Série I de 2008-07-29
   number: '145'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5106-(80) a 5106-(81)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14501/0008000081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/701-i/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/701-i-2008-575342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11df204f2a716f13031986b04a00140dc8abfe81a850aacd15d3b091dbfbd2aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c35a56dc8f2e38da43c5400f3542d1f26f533c3208b93880325b9468078abbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Instituto da Construção e do Imobiliário
+- Base de Dados
+- Código dos Contratos Públicos
+- Contratação Pública
 - Contrato Administrativo
 - Empreitada de Obras Públicas
 - Informática
-- Base de Dados
-- Segurança da Informação
-- Página na Internet
-- Código dos Contratos Públicos
+- Instituto da Construção e do Imobiliário
 - Internet
 - Observatório das Obras Públicas
+- Página na Internet
+- Segurança da Informação
 - Sistema de Informação
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:108086621:por
@@ -87,16 +87,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:108086621:por
+  label: Revogada pelo(a) Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31,
+    nos termos do disposto nos seus arts. 12.º e 13.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-b-2017-108086621
+  date: '2017-08-31'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:57Z'
   warnings: []
   errors: []
 ---
@@ -201,4 +211,4 @@ A presente portaria procede à constituição e à definição das regras de fun
 
 2 - Os artigos 4.º e 8.º da presente portaria produzem efeitos logo que se encontrem disponíveis, para os utilizadores, as funcionalidades necessárias ao acesso e realização de pesquisas na base de dados.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 25 de Julho de 2008.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 25 de Julho de 2008.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/520/2009/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/520-2009-608714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 880f2850a36281e3f40d1848568bcc9c26ff48aad10e62411e3a3b33a1bc3fff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 474a9dbf8194ea240c5dacc1d53f3bf956a72e3cbf2be544cda4c621616d7233
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,36 +68,88 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Ajuda Comunitária
-- Financiamento
-- Beneficiário
-- Turismo
-- Desenvolvimento Rural
-- CAÇA
-- Criação de Serviços
-- Feader
-- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
-- Fiscalização
-- Pesca
-- Apoio ao Investimento
-- Pagamento
-- IFAP
-- Investimento
-- Criação de Emprego
-- Exploração Agrícola
-- Desenvolvimento Económico
-- Política Agrícola Comum
 - Agricultor
-- Microempresa
-- Regulamento
 - Agricultura
+- Ajuda Comunitária
+- Apoio ao Investimento
+- Beneficiário
+- CAÇA
+- Criação de Emprego
+- Criação de Serviços
+- Desenvolvimento Económico
+- Desenvolvimento Rural
+- Exploração Agrícola
+- Feader
+- Financiamento
+- Fiscalização
+- IFAP
 - Infraestrutura Turística
+- Investimento
+- Microempresa
+- Pagamento
+- Pesca
+- Política Agrícola Comum
+- Proder
+- Regulamento
+- Regulamento de Aplicação da Medida N.º 3.1 Diversificação da Economia e Criação de Emprego
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493704:por
+  label: "Alterados os arts. 8º e 13º do Regulamento de Aplicação da Medida n.º 3.1, «Diversificação da Economia e Criação\
+    \ de Emprego» e os anexos IV e V, aditado o art. 16-Aº ao Regulamento e revogado o art. 6º do Regulamento aprovado pelo\
+    \ presente diploma, pela PORT.905/2009.14.08.2009.MADRP, DR.IS [157] de 14.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/905-2009-493704
+  date: '2009-08-14'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 4º, 7º, 8º (este último na redacção da Port 905/2009, de 14-Ago), 10º, 11º, 13º (este último\
+    \ na redacção da Port 905/2009, de 14-Ago), 15º, 16º, 16º-A (aditado pela Port 905/2009, de 14-Ago), 17º e 25º e os anexos\
+    \ I, II, III e IV (este último na redacção da Port 905/2009, de 14-Maio), aditado o art. 21º-A e revogadas as als. d)\
+    \ e f) do art. 7º, a al. c) do nº1 do art. 8º, o nº5 do art. 21º, os nºs. 1 e 2 da acção n.º 3.1.2, «Investimentos materiais»,\
+    \ do nº2 do anexo III e os nºs. 1.1) e 2) da acção n.º 3.1.3, «Investimentos materiais», do nº2 do anexo III do Regulamento\
+    \ aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 8.º ( na redacção das portarias 905/2009, de 14-Ago e 814/2010, de 27-Ago ), 21.º, 21.º-A ( aditado\
+    \ pela Port. 814/2010, de 27-Ago ), 23.º e 24.º e os anexos i e iii ( ambos na redacção da Port.814/2010, de 27-Ago )\
+    \ do Regulamento de Aplicação das Acções n.os 3.1.1, «Diversificação de Actividades na Exploração Agrícola», 3.1.2, «Criação\
+    \ e Desenvolvimento de Microempresas», e 3.1.3, «Desenvolvimento de Actividades Turísticas e de Lazer», aprovado pelo\
+    \ presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:552803:por
+  label: "Alterados os arts. 14.º e 15.º ( na redação da Port. 814/2010, de 27-ago ) do Regulamento de Aplicação das Ações\
+    \ n.os 3.1.1, «Diversificação de Atividades na Exploração Agrícola», 3.1.2, «Criação e Desenvolvimento de Microempresas»,\
+    \ e 3.1.3, «Desenvolvimento de Atividades Turísticas e de Lazer», aprovado pelo presente diploma, pela PORT.108/2012.20.04.2012.MAMAOT,\
+    \ DR.IS [79] de 20.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/108-2012-552803
+  date: '2012-04-20'
+- type: amended_by
+  target: pt:dre:260437:por
+  label: "Alterados os arts. 7.º (na redação da Port. 814/2010, de 27-ago), 8.º (na redação das Ports. 905/2009, de 14-ago,\
+    \ 814/2010, de 27-ago e 228/2011, de 09-jun) e 11.º (na redação da Port. 814/2010, de 27-ago) bem como os anexos I rectificado\
+    \ pela Decl-Rect 32-A/2010, de 26-out e III (ambos na redação das Ports. 814/2010, de 27-ago e 228/2011, de 09-jun) do\
+    \ Regulamento de Aplicação das Ações n.os 3.1.1, «Diversificação de Atividades na Exploração Agrícola», 3.1.2, «Criação\
+    \ e Desenvolvimento de Microempresas», e 3.1.3, «Desenvolvimento de Atividades Turísticas e de Lazer», aprovado pela presente\
+    \ portaria, pela PORT.149/2013.15.04.2013.MAMAOT, DR.IS [73] de 15.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-2013-260437
+  date: '2013-04-15'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo III (alterado pelas Port 814/2010 de 27-ago, 228/2011 de 09-jun e 149/2013 de 15-abr)\
+    \ do Regulamento de Aplicação das Ações n.º 3.1.1, «Diversificação de Atividades na Exploração Agrícola», 3.1.2, «Criação\
+    \ e Desenvolvimento de Microempresas», e 3.1.3, «Desenvolvimento de Atividades Turísticas e de Lazer» pela PORT.253/2013.07.08.2013.MAMAOT,\
+    \ DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32000R0104
   label: null
@@ -118,16 +170,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: corrected_by
+  target: pt:dre:297176:por
+  label: "Rectificado o art. 26º da Port 814/2010, de 27-Ago [na redacção que conferiu ao art. 8º e aos anexo I e IV do presente\
+    \ diploma], pela DECL-RECT.32-A/2010.26.10.2010.PCM, DR.IS [208-Supl] de 26.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/32-a-2010-297176
+  date: '2010-10-26'
 article_structure:
   article_count: 28
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:45Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +230,7 @@ e) Anexo V, relativo ao cálculo da valia global da operação.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 11 de Maio de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 11 de Maio de 2009.
 
 ## ANEXO
 
@@ -510,7 +568,7 @@ Acções n.os 3.1.1 e 3.1.2
 
 Transformação e comercialização de produtos agrícolas do anexo i do Tratado que institui a Comunidade Europeia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf)
 
 Acção n.º 3.1.3
 
@@ -524,11 +582,11 @@ Serviços de recreação e lazer; centros de observação da natureza/paisagem, 
 
 Investimentos elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf)
 
 Investimentos não elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf)
 
 ## ANEXO III — Despesas elegíveis e não elegíveis
 
@@ -716,11 +774,11 @@ Investimentos imateriais e outros (associados a investimento material):
 
 Acção n.º 3.1.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf)
 
 Acções n.os 3.1.2 e 3.1.3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09300/0297802987.pdf)
 
 Notas
 

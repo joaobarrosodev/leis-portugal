@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30
   number: '250'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7506-(364) a 7506-(433)
   pdf_url: https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21-a/2005/12/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98b7758f7d66bd8f104d86859ac3e500674c2f25d8eda465465e72cd88a983d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca03979331fd2de163374eb002818f92c4fe027aa30f6e5c2ca853e5c5d48e88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,143 @@ reuse:
 subjects:
 - Alienação de Participação Social
 - Autorização de Despesas
-- Garantia
-- Subsídio de Disponibilidade Permanente
-- Finanças Locais
+- Benefícios Fiscais
 - Contribuições e Impostos
+- Fet-m
+- Finanças Locais
+- Garantia
 - IRS
 - Linha de Crédito
-- Fet-m
+- Madeira.região Autónoma
 - Orçamento
 - Orçamento Regional
 - Popram
-- Madeira.região Autónoma
 - Regime Jurídico
-- Benefícios Fiscais
 - Subsídio
+- Subsídio de Disponibilidade Permanente
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:235920:por
+  label: "Alterados e subtituídos os mapas II a IX anexos pelo DLR.48-A/2006/M.13.12.2006.AL-RAM, DR.IS [242-Supl] de 19.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/48-a-2006-235920
+  date: '2006-12-13'
+- type: amended_by
+  target: pt:dre:262120:por
+  label: "Alterado o art. 2º do DLR 3/2001/M de 22-Fev , com a redacção conferida no presente diploma, pelo DLR.3/2007/M.20.12.2006.AL-RAM,\
+    \ DR.IS [6] de 09.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2007-262120
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:398790:por
+  label: "Alterado o art. 2º do DLR 2/2001/M, de 20-Fev, na redacção do presente diploma, pelo DLR.2-A/2008/M.16.01.2008.AL-RAM,\
+    \ DR.IS [11-Supl] de 16.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-a-2008-398790
+  date: '2008-01-16'
+- type: amended_by
+  target: pt:dre:444240:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DLR.45/2008/M.31.12.2008.AL-RAM,\
+    \ DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/45-2008-444240
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:332705:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DRR.2/2010/M.26.05.2010.PG-RAM,\
+    \ DR.IS [102] de 26.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2010-332705
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:333363:por
+  label: "Alterado o art. 2º do DLR 3/2001/M de 22-Fev, com a redacção constante do presente diploma, pelo DLR.14/2010/M.05.08.2010.AL-RAM,\
+    \ DR.IS [151] de 05.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2010-333363
+  date: '2010-08-05'
+- type: amended_by
+  target: pt:dre:485631:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DLR.2/2011/M.10.01.2011.AL-RAM,\
+    \ DR.IS [6] de 10.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2011-485631
+  date: '2011-01-10'
+- type: amended_by
+  target: pt:dre:145060:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DLR.20/2011/M.26.12.2011.AL-RAM,\
+    \ DR.IS [246] de 26.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2011-145060
+  date: '2011-12-26'
+- type: amended_by
+  target: pt:dre:145067:por
+  label: "Alterada a al. b) do nº 3 do art. 16º ( na redacção do DLR 45/2008/M, de 31-Dez) e aditados (com efeitos reportados\
+    \ a 01.01.2011) ao mesmo os nºs 7 a 9, pelo DLR.22/2011/M.26.12.2011.AL-RAM, DR.IS [246] de 26.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2011-145067
+  date: '2011-12-26'
+- type: amended_by
+  target: pt:dre:189511:por
+  label: "Determinada a manutenção em vigor na Região Autónoma da Madeira das taxas de imposto sobre o rendimento das pessoas\
+    \ coletivas estabelecidas no art. 2º do DLR 2/2001/M, de 20-fev, na redação do presente diploma, pelo DLR.42/2012/M.31.12.2012.AL-RAM,\
+    \ DR.IS [252] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164412:por
+  label: "Mantidas em vigor na RAM as taxas de imposto sobre o rendimento das pessoas singulares estabelecidas no art. 2º\
+    \ do DLR 3/2001/M, de 22-fev, na redação do presente diploma, pelo DLR.31-A/2013/M.31.12.2013.AL-RAM, DR.IS [253-2.º supl]\
+    \ de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/31-a-2013-164412
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:66012654:por
+  label: Mantidas em vigor na RAM as taxas de Imposto sobre o Rendimento das Pessoas Singulares (IRS) estabelecidas no art.
+    2º do DLR 3/2001/M, de 22-fev, alterado pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 18/2014/M - Diário
+    da República n.º 252/2014, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2014-66012654
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Mantidas em vigor as taxas de imposto sobre o rendimento das pessoas coletivas, para vigorar na RAM, estabelecidas
+    no art 2.º (alterado pelo presente diploma e pelos DLR 29-A/2001/M de 20-dez, 30-A/2003/M de 31-dez, 3/2007/M de 09-jan,
+    2-A/2008/M de 16-jan, 45/2008/M de 31-dez, 34/2009/M de 31-dez e 2/2011/M de 10-jan, DRR 2/2010/M de 26-maio, DLR 20/2011/M
+    de 26-dez, DLR 31-A/2013/M de 31-dez e DLR 18/2014/M de 31-dez) do DLR 2/2001/M de 20-fev, pelo(a) Decreto Legislativo
+    Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
+- type: amended_by
+  target: pt:dre:74985443:por
+  label: Alterado o art. 2.º do DLR 3/2001/M de 22-fev, na redação do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 33/2016/M - Diário da República n.º 138/2016, Série I de 2016-07-20 que republica a parte dispositiva do primeiro
+    diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/33-2016-74985443
+  date: '2016-07-20'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Mantidas em vigor, com efeitos desde 01.01.2017, para a Região Autónoma da Madeira as taxas de imposto sobre o rendimento
+    das pessoas coletivas aprovadas pelo art. 2.º do DLR 2/2001/M de 20-fev, na redação do presente diploma, pelo(a) Decreto
+    Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Alterado, com efeitos desde 01.01.2018, o art. 2.º do DLR 2/2001/M de 20-fev, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Alterado, com efeitos desde 01.01.2019, o art. 2.º do DLR 2/2001/M de 20-fev, com a redação dada pelo presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Mantidas em vigor, com efeitos desde 01.01.2020, as taxas do IRC, para vigorar na Região Autónoma da Madeira, estabelecidas
+    no art. 2.º, na redação do presente diploma, do DLR 2/2001/M de 20-fev, pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M
+    - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31 nos termos do seu art. 18.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2
   label: null
@@ -127,16 +244,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/94/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/94/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:157622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692577:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:32Z'
   warnings: []
   errors: []
 ---
@@ -523,21 +720,21 @@ O presente diploma entra em vigor em 1 de Janeiro de 2006.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de Dezembro de 2005.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 23 de Dezembro de 2005.**
+Assinado em 23 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Do MAPA I ao MAPA VIII
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)
+[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)
 
 Do MAPA IX-1 ao MAPA IX-8
 
-[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)
+[[(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)
 
 MAPA XI
 
@@ -545,7 +742,7 @@ Finanças locais
 
 (artigo 2.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)
 
 MAPA XVII
 
@@ -553,4 +750,4 @@ Responsabilidades contratuais plurianuais dos serviços integrados e dos serviç
 
 [artigo 1.º, alínea c)]
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)](https://files.diariodarepublica.pt/1s/2005/12/250a02/03640433.pdf)

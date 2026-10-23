@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10400/35973600.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/652/2007/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/652-2007-638748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b45436c5faeee89bc9d293a442443f3f64d11ee2384a1ffb223ec4321b3c36b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea7fd5b68e008feb9d9439fece5b940e1001f692664e58bdb654d89417e2bd52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638525:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552005:por
+  label: "Revogada, a partir de 29.05.2012, pela PORT.157/2012.22.05.2012.MF, DR.IS [99] de 22.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-2012-552005
+  date: '2012-05-22'
 article_structure:
   article_count: 10
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:02Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +131,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 24 de Maio de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Saúde, António Fernando Correia de Campos.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Saúde, António Fernando Correia de Campos.
 
 ## ANEXO — ESTATUTOS DA ADMINISTRAÇÃO REGIONAL DE SAÚDE DO ALENTEJO, I. P.
 

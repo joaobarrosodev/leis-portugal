@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2011/08/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-669867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9d6b1d35ccf18f274b11942bb8de911941dc9d37f27e789534356d1b37b9a9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc2fbc3c1420ea37c235d15fa1fbc1db991cd25906e81090838f426359319339
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
 - Contenção de Despesas
-- Administração Pública
-- Recrutamento de Pessoal
 - Finanças Regionais
-- Orçamento Regional
 - Madeira.região Autónoma
+- Orçamento Regional
+- Recrutamento de Pessoal
 - Secretário Regional do Plano e Finanças
 - Transferência de Verbas
 relationships:
@@ -81,6 +81,24 @@ relationships:
   target: pt:dre:498484:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553889:por
+  label: "Determinada a manutenção em vigor dos n.os 1, 2, 4 e 5 do art. 49.º e dos nºs 1, 2 e 4 do art. 50.º-A do DLR 2/2011/M,\
+    \ de 10-jan, na redação do presente diploma, pelo DLR.5/2012/M.30.03.2012.AL-RAM, DR.IS [65] de 30.03.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2012-553889
+  date: '2012-03-30'
+- type: amended_by
+  target: pt:dre:189511:por
+  label: "Mantidos em vigor os n.os 1, 2, 4 e 5 do art. 49º e os n.os 1 e 4 do art. 50º-A do DLR 2/2011/M de 10-jan, na redação\
+    \ do presente diploma pelo DLR.42/2012/M.31.12.2012.AL-RAM, DR.IS [252] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:498484:por
+  label: "Alterado o artigo 50.º-A (aditado pelo presente diploma) do DLR 2/2011/M de 10-jan, pelo DLR.28/2013/M.06.08.2013.AL-RAM,\
+    \ DR.IS [150] de 06.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2013-498484
+  date: '2013-08-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/11/2011/07/06/m/dre
   label: null
@@ -121,16 +139,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670489:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:22Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +245,9 @@ Operações activas do Tesouro Público Regional
 
 2 - ...
 
-###### Artigo 26.º — Alterações orçamentais
+Artigo 26.º
+
+Alterações orçamentais
 
 1 - ...
 
@@ -189,7 +257,9 @@ Operações activas do Tesouro Público Regional
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 41.º — Transferências e apoios para entidades de direito privado
+Artigo 41.º
+
+Transferências e apoios para entidades de direito privado
 
 1 - ...
 
@@ -203,7 +273,9 @@ Operações activas do Tesouro Público Regional
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 49.º — Procedimentos concursais e mobilidade
+Artigo 49.º
+
+Procedimentos concursais e mobilidade
 
 1 - ...
 
@@ -223,7 +295,9 @@ b) ...
 
 c) ...
 
-###### Artigo 53.º — Contratos de aquisição de serviços
+Artigo 53.º
+
+Contratos de aquisição de serviços
 
 1 - O disposto no artigo 19.º da lei que aprova o Orçamento do Estado para 2011 é aplicável aos valores pagos por contratos de aquisição de serviços, que venham a celebrar-se ou renovar-se em 2011, com idêntico objecto e a mesma contraparte, celebrados por órgãos, serviços da administração pública regional e demais entidades abrangidas pelo âmbito de aplicação da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, com excepção dos seguintes casos:
 
@@ -271,10 +345,10 @@ Aumentos remuneratórios
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de Julho de 2011.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 1 de Agosto de 2011.**
+Assinado em 1 de Agosto de 2011.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/15000/0415804199.pdf))](https://files.diariodarepublica.pt/1s/2011/08/15000/0415804199.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/15000/0415804199.pdf)

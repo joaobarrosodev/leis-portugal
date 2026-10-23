@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1982-395760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 498283b4f03d7ff9bbdecdb2956e7aeb7603ea1f5e8ac8586dd9e660944d5b66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3305549bbe6255a2d435c84b9df4dcaec03f126ef7691530b05254094c6f1c90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Gabinete Governamental
+- Governo Regional
+- Remuneração
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:33Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +92,17 @@ Tendo sido feita a revisão da legislação regional que estabelece a estrutura 
 
 Assim, a Assembleia Regional dos Açores, nos termos da alínea a) do artigo 229.º da Constituição e da alínea c) do artigo 26.º do Estatuto, decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os elementos dos gabinetes dos membros do Governo Regional que sejam membros das forças armadas, funcionários ou agentes da administração central, regional ou local, de institutos públicos e de empresas públicas exercerão os seus cargos, respectivamente, em comissão de serviço ou em regime de requisição.
+Artigo 1.º - 1 - Os elementos dos gabinetes dos membros do Governo Regional que sejam membros das forças armadas, funcionários ou agentes da administração central, regional ou local, de institutos públicos e de empresas públicas exercerão os seus cargos, respectivamente, em comissão de serviço ou em regime de requisição.
 
 2 - Os elementos dos gabinetes referidos no número anterior terão a faculdade de optar pelas remunerações correspondentes aos cargos de origem.
 
-###### Art. 2.º - 1 - Os elementos dos gabinetes dos membros do Governo Regional, quando exonerados das suas funções por força da exoneração destes, ficam com direito, no mês imediato, ao abono de tantos duodécimos do vencimento mensal correspondente ao cargo exercido quantos os meses, seguidos ou interpolados, durante os quais, desempenharam aquelas funções, até ao limite de 12.
+Art. 2.º - 1 - Os elementos dos gabinetes dos membros do Governo Regional, quando exonerados das suas funções por força da exoneração destes, ficam com direito, no mês imediato, ao abono de tantos duodécimos do vencimento mensal correspondente ao cargo exercido quantos os meses, seguidos ou interpolados, durante os quais, desempenharam aquelas funções, até ao limite de 12.
 
 2 - No caso de a pessoa exonerada das funções referidas no número anterior reocupar cargo público ou privado pelo qual tinha direito à remuneração poderá optar entre o abono mencionado e a remuneração correspondente aos 30 dias seguintes à exoneração.
 
-###### Art. 3.º Os elementos dos gabinetes dos membros do Governo Regional terão direito ao uso de um cartão de identificação e de livre trânsito, a definir por portaria do Governo Regional.
+Art. 3.º Os elementos dos gabinetes dos membros do Governo Regional terão direito ao uso de um cartão de identificação e de livre trânsito, a definir por portaria do Governo Regional.
 
-###### Art. 4.º - 1 - Os vencimentos dos elementos dos gabinetes são os estabelecidos na tabela anexa a este diploma.
+Art. 4.º - 1 - Os vencimentos dos elementos dos gabinetes são os estabelecidos na tabela anexa a este diploma.
 
 2 - Os elementos dos gabinetes não podem beneficiar de quaisquer gratificações ou abonos por trabalho extraordinário.
 
@@ -106,14 +110,14 @@ Assim, a Assembleia Regional dos Açores, nos termos da alínea a) do artigo 229
 
 Aprovado pela Assembleia Regional dos Açores em 25 de Março de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 21 de Maio de 1982.**
+Assinado em Angra do Heroísmo em 21 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Tabela e que se refere o n.º 1 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/06/13400/16781678.pdf))](https://files.diariodarepublica.pt/1s/1982/06/13400/16781678.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/06/13400/16781678.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/12/1995/05/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/12-1995-528405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cceb51e11ebc95e7ce7549a97c05c9d76ee1a5b0c8f6c0bafb7bab2dd26de2e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ee967357eb0e72f44bf3b534aa3e853c3c264af9cefa7f32f971eae90c1d1c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa Regional
 - Base das Lajes
-- EUA
 - Cidadão Nacional
 - Convenção
-- Portugal
 - Emprego
-- Açores
+- EUA
+- Portugal
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:05Z'
   warnings: []
   errors: []
 ---
@@ -98,4 +98,4 @@ Ao abrigo das disposições regimentais e estatutárias, a Assembleia Legislativ
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 30 de Março de 1995.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.

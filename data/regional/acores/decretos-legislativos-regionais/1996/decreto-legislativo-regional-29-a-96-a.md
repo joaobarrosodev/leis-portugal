@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 279/1996, 1º Suplemento, Série I-A de 1996-12-03
   number: '279'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4352-(2) a 4352-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/279a01/00020004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29-a/1996/12/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-1996-524634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 184f02ccb2d2d187cc6f984719a47a60cf0c1d8293c042bd61b67d30e12803ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9436b808fa617b84d15fd839e8d6096e3d2c36efa5d57bc0c42a321841ab1574
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Secretário Regional da Presidência para as Finanças e Planeamento
+- Açores
 - Competência Própria
-- Governo Regional
 - Criação de Serviços
 - Definição de Competências
-- Presidente do Governo Regional
-- Secretário Regional da Educação e Assuntos Sociais
+- Governo Regional
 - Orgânica
 - Presidente
+- Presidente do Governo Regional
+- Região Autónoma
 - Secretário Regional da Agricultura Pescas e Ambiente
 - Secretário Regional da Economia
+- Secretário Regional da Educação e Assuntos Sociais
 - Secretário Regional da Habitação e Equipamentos
-- Açores
+- Secretário Regional da Presidência para as Finanças e Planeamento
 relationships:
 - type: amended_by
   target: pt:dre:291927:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476768:por
+  label: "Alterado o presente diploma, pelo DRR.1-A/98/A.1998.01.26.PG-RAA DR.IS-B [23]Supl de 28/Jan/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-a-1998-476768
+  date: '1998-01-26'
+- type: amended_by
+  target: pt:dre:601988:por
+  label: "Criado o cargo de Subsecretário Regional Adjunto para a Saúde pelo DRR.28-A/98/A.1998.11.25.PG-RAA DR.IS-B [274]Supl\
+    \ de 26/Nov/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-a-1998-601988
+  date: '1998-11-25'
+- type: amended_by
+  target: pt:dre:219718:por
+  label: "Criado o cargo de Secretário Regional do Ambiente e alterada a designação do membro do Governo Regional previsto\
+    \ na al d) do art. 2º pelo DRR.2-A/2000/A.2000.01.24.PG-RAA,DR.IS-B [20]Supl de 25/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-a-2000-219718
+  date: '2000-01-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/1993/01/05/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/1/1993/01/05/a/dre
+- type: cites
+  target: pt:dre:229921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:46Z'
   warnings: []
   errors: []
 ---
@@ -202,11 +227,11 @@ Os secretários regionais possuem a competência própria que a lei lhes atribui
 
 ###### Artigo 6.º
 
-**O Presidente do Governo Regional, salvo sua indicação em contrário, será substituído, nas suas ausências e impedimentos, pelo Secretário Regional da Presidência para as Finanças e Planeamento.**
+O Presidente do Governo Regional, salvo sua indicação em contrário, será substituído, nas suas ausências e impedimentos, pelo Secretário Regional da Presidência para as Finanças e Planeamento.
 
 ###### Artigo 7.º
 
-**O Secretário Regional da Presidência para as Finanças e Planeamento exerce a sua competência nas seguintes matérias:**
+O Secretário Regional da Presidência para as Finanças e Planeamento exerce a sua competência nas seguintes matérias:
 
 a) Finanças e património;
 
@@ -222,7 +247,7 @@ f) Privatizações.
 
 ###### Artigo 8.º
 
-**O Secretário Regional da Educação e Assuntos Sociais exerce a sua competência nas seguintes matérias:**
+O Secretário Regional da Educação e Assuntos Sociais exerce a sua competência nas seguintes matérias:
 
 a) Educação;
 
@@ -244,7 +269,7 @@ i) Formação profissional.
 
 ###### Artigo 9.º
 
-**O Secretário Regional da Economia exerce a sua competência nas seguintes matérias:**
+O Secretário Regional da Economia exerce a sua competência nas seguintes matérias:
 
 a) Comércio;
 
@@ -260,7 +285,7 @@ f) Turismo.
 
 ###### Artigo 10.º
 
-**O Secretário Regional da Agricultura e Ambiente exerce a sua competência nas seguintes matérias:**
+O Secretário Regional da Agricultura e Ambiente exerce a sua competência nas seguintes matérias:
 
 a) Agricultura, silvicultura, pecuária e pescas, incluindo os respectivos sectores de transformação e comercialização;
 
@@ -272,7 +297,7 @@ d) Ordenamento do território e urbanismo.
 
 ###### Artigo 11.º
 
-**O Secretário Regional da Habitação e Equipamentos exerce a sua competência nas seguintes matérias:**
+O Secretário Regional da Habitação e Equipamentos exerce a sua competência nas seguintes matérias:
 
 a) Habitação;
 
@@ -332,10 +357,10 @@ O presente diploma entra em vigor no dia da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 20 de Novembro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
 
-**Assinado em Angra do Heroísmo em 3 de Dezembro de 1996.**
+Assinado em Angra do Heroísmo em 3 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

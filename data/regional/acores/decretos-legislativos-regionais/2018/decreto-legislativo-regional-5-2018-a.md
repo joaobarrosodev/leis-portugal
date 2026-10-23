@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/09100/0206802097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2018/05/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2018-115276180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d9dab50711880d900786157e854af969aff2164dac1ba30a4917f902c9dd4a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca16827c47d5fc72a0777a0ceedb0961c61e2f92714e6cbe1cf4389c4fa5ee14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,32 +68,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Contrato de Seguro
+- Açores
 - Atribuição de Verba
-- Espetáculos e Divertimentos Públicos
-- Multa
-- Proteção dos Animais
+- Autoridade Marítima Nacional
+- Câmara Municipal
 - Contra-ordenação
+- Contrato de Seguro
 - Definição de Competências
 - Delegado
-- Autoridade Marítima Nacional
+- Descrição de Funções
+- Espetáculos e Divertimentos Públicos
+- Estacionamento
 - Fiscalização
+- GNR
 - Liberdade de Reunião
 - Licenciamento
-- GNR
-- Segurança Rodoviária
-- Estacionamento
-- Descrição de Funções
-- Tauromaquia
+- Multa
 - Presidente
+- Proteção dos Animais
+- PSP
 - Receita Pública
-- Câmara Municipal
 - Regime Jurídico
 - Responsabilidade Civil
-- Açores
-- Touro de LIDE
+- Segurança Rodoviária
+- Tauromaquia
 - Tourada
+- Touro de LIDE
 - Tráfego Rodoviário
 relationships:
 - type: cites
@@ -144,16 +144,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/8/2007/04/17/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/8/2007/04/17/a/dre
+- type: cites
+  target: pt:dre:145251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670275:por
+  label: null
+  source: null
 article_structure:
-  article_count: 197
-  section_count: 46
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 146
+  section_count: 39
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:23Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +286,9 @@ Os artigos 6.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º, 48.º, 49.º, 50.º, 
 
 3 - [...].
 
-###### Artigo 42.º — Âmbito de aplicação
+Artigo 42.º
+
+Âmbito de aplicação
 
 1 - [...].
 
@@ -206,7 +296,9 @@ Os artigos 6.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º, 48.º, 49.º, 50.º, 
 
 3 - Sem prejuízo das normas específicas previstas no presente diploma, as touradas à corda e as manifestações taurinas populares a que se refere o número anterior realizadas em recinto particular ou areal, porto ou varadouro ficam também sujeitas ao disposto no presente capítulo.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 [...]:
 
@@ -250,7 +342,9 @@ ii) Categoria F2, englobando os fogos-de-artifício que apresentam um risco baix
 
 iii) Categoria F3, englobando os fogos-de-artifício que apresentam um risco médio, que se destinam a ser utilizados em grandes áreas exteriores abertas e cujo nível sonoro não é prejudicial para a saúde humana.
 
-###### Artigo 44.º — Obrigatoriedade de licenciamento
+Artigo 44.º
+
+Obrigatoriedade de licenciamento
 
 1 - Sem prejuízo do disposto no n.º 2, a realização de manifestações taurinas de caráter popular previstas no presente diploma está sujeita a licenciamento municipal.
 
@@ -264,7 +358,9 @@ b) Ferras com ou sem admissão de público, quando realizadas em tentadeiro do g
 
 4 - (Revogado.)
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - Além das touradas tradicionais constantes da Resolução n.º 38/2017, de 9 de maio, apenas são touradas tradicionais as que forem assim classificadas, por deliberação da assembleia municipal do respetivo concelho.
 
@@ -280,7 +376,9 @@ b) Ferras com ou sem admissão de público, quando realizadas em tentadeiro do g
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - Podem ser declaradas, pelas assembleias municipais, touradas tradicionais as que, através da realização continuada em local fixo, se constituem parte integrante do ciclo anual e festividades das comunidades que as promovem.
 
@@ -300,7 +398,9 @@ c) Deve realizar-se há, pelo menos, quinze anos.
 
 6 - (Revogado.)
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - As câmaras municipais podem conceder licença para a realização de tourada à corda depois do sol posto quando se verifiquem cumulativamente as seguintes condições:
 
@@ -316,7 +416,9 @@ e) (Revogada.)
 
 2 - Após o sol posto não é autorizada a realização de qualquer manifestação taurina objeto do presente diploma, ou que a ela possa ser equiparada, em terreno ou espaço particular, ainda que franqueado ao público em geral.
 
-###### Artigo 48.º — Espera de gado e largada de toiros
+Artigo 48.º
+
+Espera de gado e largada de toiros
 
 1 - Exceto quando esteja integrado num programa de festividades concelhias, o licenciamento de esperas de gado e largadas de toiros reveste caráter excecional e só pode ser concedido para evento a realizar num sábado, domingo ou feriado.
 
@@ -330,7 +432,9 @@ e) (Revogada.)
 
 6 - Para efeitos do disposto no número anterior, considera-se promotor da espera de gado ou largada de toiros o requerente da respetiva licença.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - [...].
 
@@ -342,13 +446,17 @@ e) (Revogada.)
 
 5 - [...].
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - Em cada freguesia e freguesias contíguas, dentro do mesmo concelho, só pode ser autorizada a realização de uma manifestação taurina no mesmo dia.
 
 2 - No caso de pedidos de licenciamento para o mesmo dia numa freguesia ou em freguesias contíguas, do mesmo concelho, dá-se prioridade ao pedido de licenciamento que primeiro tiver sido apresentado junto da câmara municipal, sem prejuízo do disposto no n.º 4 do artigo 45.º
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, nas áreas urbanas de cidades ou vilas não pode ser autorizada a realização de tourada à corda, com exceção das consideradas tradicionais nos termos do presente diploma.
 
@@ -356,7 +464,9 @@ e) (Revogada.)
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - Os moradores dos prédios situados no percurso de realização de tourada à corda não tradicional, delimitado nos termos do artigo 54.º, podem opor-se à sua efetivação, desde que reclamem, por escrito e com a antecedência mínima de sete dias úteis sobre a data da realização da tourada, junto do presidente da câmara municipal, observando as seguintes condições:
 
@@ -372,11 +482,17 @@ b) Na reclamação devem constar, obrigatoriamente, a certidão de residência, 
 
 5 - [...].
 
-#### SECÇÃO II — Condução da tourada
+SECÇÃO II
 
-##### SUBSECÇÃO I — Lide em tourada à corda
+Condução da tourada
 
-###### Artigo 53.º — Número de toiros e duração da lide
+SUBSECÇÃO I
+
+Lide em tourada à corda
+
+Artigo 53.º
+
+Número de toiros e duração da lide
 
 1 - Em cada tourada à corda só podem ser corridos quatro toiros.
 
@@ -386,7 +502,9 @@ b) Na reclamação devem constar, obrigatoriamente, a certidão de residência, 
 
 4 - Sem prejuízo do disposto no número anterior, excetuam-se do disposto no n.º 2 as touradas à corda realizadas nas ilhas Graciosa, São Jorge e Pico, que têm a duração máxima de quatro horas.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - O percurso da tourada à corda não pode exceder 500 metros de extensão, sem prejuízo do disposto no número seguinte e na alínea b) do n.º 1 do artigo 47.º quanto às touradas realizadas depois do sol posto.
 
@@ -402,7 +520,9 @@ b) Na reclamação devem constar, obrigatoriamente, a certidão de residência, 
 
 7 - [...].
 
-###### Artigo 56.º — Sinais de saída e recolha do toiro e difusão sonora
+Artigo 56.º
+
+Sinais de saída e recolha do toiro e difusão sonora
 
 1 - A saída do toiro é assinalada com um foguetão e a sua recolha com dois foguetes ou um foguetão de duas respostas.
 
@@ -414,7 +534,9 @@ a) A atuação ao vivo de uma filarmónica ou banda de música;
 
 b) A difusão de anúncios sobre matéria tauromáquica.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Durante a tourada à corda é proibido, dentro dos limites do respetivo percurso e até 5 metros para além do mais exterior dos riscos a que se refere o n.º 3 do artigo 54.º, o estacionamento e circulação de veículos adaptados à venda de comidas e bebidas.
 
@@ -424,7 +546,9 @@ b) A difusão de anúncios sobre matéria tauromáquica.
 
 4 - Cabe ao promotor do evento, o fornecimento de cancelas e de toda a sinalização rodoviária que se mostre necessária à segurança e facilidade de trânsito nas zonas em que se efetue a tourada, e providenciar quanto à sua instalação, operação e pronta remoção após o término desta.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - Os abrigos e vedações utilizados durante a manifestação taurina não podem apresentar arestas vivas nem quaisquer materiais suscetíveis de provocar danos a pessoas e animais, devendo por isso ser protegidos por madeira ou outro material adequado.
 
@@ -438,7 +562,9 @@ b) A difusão de anúncios sobre matéria tauromáquica.
 
 6 - O promotor da tourada à corda deve comunicar ao delegado municipal, antes do início desta, as situações previstas no n.º 4, para efeitos de fiscalização e certificação.
 
-###### Artigo 59.º — Instrumentos de lide
+Artigo 59.º
+
+Instrumentos de lide
 
 1 - Os participantes na lide não podem utilizar instrumentos suscetíveis de provocar ferimentos no toiro, como aguilhões, podendo, todavia, fazer uso dos instrumentos consagrados como tradicionais, nomeadamente o bordão, a samarra, a blusa ou o pano, a varinha e o guarda-sol.
 
@@ -446,13 +572,19 @@ b) A difusão de anúncios sobre matéria tauromáquica.
 
 3 - É igualmente proibido durante a lide a utilização de outros animais que não as reses a lidar, excetuando-se a eventual utilização de cães do ganadeiro como auxílio na recolha do toiro.
 
-##### SUBSECÇÃO II — Toiro de corda
+SUBSECÇÃO II
 
-###### Artigo 60.º — [...]
+Toiro de corda
+
+Artigo 60.º
+
+[...]
 
 Na tourada à corda só pode ser corrido toiro que mostre possuir um estado de carnes compatível com a lide e que possua, pelo menos, três anos de idade.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - Não pode ser corrido toiro que se encontre estropiado ou com sinais de significativa diminuição física.
 
@@ -472,7 +604,9 @@ c) [Alínea c) do anterior n.º 4.]
 
 d) [Alínea d) do anterior n.º 4.]
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - O toiro escolhido para a lide deve ter obrigatoriamente marcado a fogo ou a azoto líquido os seguintes sinais:
 
@@ -486,7 +620,9 @@ d) Na garupa direita, o ferro do livro genealógico da raça brava ou do registo
 
 2 - (Revogado.)
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - [...]:
 
@@ -520,7 +656,9 @@ e) O delegado municipal;
 
 f) (Revogada.)
 
-###### Artigo 64.º — Embolamento e período de descanso obrigatório
+Artigo 64.º
+
+Embolamento e período de descanso obrigatório
 
 1 - O toiro tem sempre de ser corrido embolado, a couro ou metal, com exceção dos que manifestamente apresentem hastes rombas e que já não suportem ser emboladas com qualquer material apropriado, desde que autorizado pelo médico veterinário assistente da ganadaria.
 
@@ -528,7 +666,9 @@ f) (Revogada.)
 
 3 - Nos oito dias subsequentes ao da corrida, o toiro não pode voltar a ser corrido.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - O documento de identificação do bovino, designadamente o passaporte ou documento semelhante emitido pelo departamento do Governo Regional competente em matéria de identificação e sanidade animal, deve encontrar-se sempre atualizado, de acordo com a legislação em vigor.
 
@@ -538,17 +678,25 @@ f) (Revogada.)
 
 4 - Pode o departamento do Governo Regional competente em matéria de identificação e sanidade animal solicitar, em qualquer altura, mediante notificação, a apresentação dos documentos de identificação dos bovinos de raça brava.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 O boletim de registo das touradas à corda para o toiro corrido à corda a que se refere o n.º 2 do artigo anterior é aprovado por portaria do departamento do Governo Regional competente em matéria de identificação e sanidade animal.
 
-###### Artigo 67.º — Validade da certificação veterinária
+Artigo 67.º
+
+Validade da certificação veterinária
 
 A certificação da capacidade de lide é válida por três dias contados a partir da data do ato clínico, registado no respetivo boletim e rubricado pelo médico veterinário a que se refere o n.º 2 do artigo 65.º
 
-##### SUBSECÇÃO III — Corda e pastores
+SUBSECÇÃO III
 
-###### Artigo 69.º — [...]
+Corda e pastores
+
+Artigo 69.º
+
+[...]
 
 [...]:
 
@@ -556,7 +704,9 @@ a) [...];
 
 b) Espessura - 19 mm ou 3/4 de polegada, podendo, no entanto, variar em função das características físicas dos animais.
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 1 - [...].
 
@@ -568,7 +718,9 @@ a) Embolar e amarrar o toiro;
 
 b) Conduzir o toiro no percurso da tourada, marcando os limites do percurso e executando a pancada ou ato de suster o toiro no limite da corda, durante a lide.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -582,9 +734,13 @@ d) [...].
 
 2 - No traje envergado pelos pastores é permitida a identificação da ganadaria na algibeira da camisola, não sendo admitida publicidade a empresas ou entidades públicas ou privadas.
 
-#### SECÇÃO III — Emissão de licenças e publicidade
+SECÇÃO III
 
-###### Artigo 72.º — [...]
+Emissão de licenças e publicidade
+
+Artigo 72.º
+
+[...]
 
 1 - [...].
 
@@ -612,7 +768,9 @@ e) Informação da Polícia de Segurança Pública sobre a inexistência de impe
 
 8 - (Revogado.)
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - [...].
 
@@ -620,15 +778,21 @@ e) Informação da Polícia de Segurança Pública sobre a inexistência de impe
 
 3 - Ao promotor da tourada à corda incumbe obrigatoriamente o respeito escrupuloso dos termos expressos na respetiva licença, nomeadamente quanto ao estabelecido no artigo 54.º e nos números anteriores.
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - Até vinte e quatro horas antes da sua realização, a tourada à corda é anunciada pelo seu promotor em órgão de comunicação social de expansão local ou, na falta deste, nos locais de estilo habituais, com indicação do dia, da hora, do local de realização da tourada e do percurso alternativo para o trânsito.
 
 2 - Sem prejuízo do disposto no número anterior, a realização de espera de gado ou largada de toiros deve ainda ser publicamente anunciada pelo seu promotor mediante aviso público antes do seu início.
 
-#### SECÇÃO IV — Responsabilidade e fiscalização
+SECÇÃO IV
 
-###### Artigo 76.º — [...]
+Responsabilidade e fiscalização
+
+Artigo 76.º
+
+[...]
 
 1 - Sem prejuízo do disposto no artigo anterior, deve o ganadeiro ou seu representante tomar todas as medidas e precauções necessárias para que não se verifique a rotura da corda ou a fuga de toiro, quer no local da tourada, quer no transporte e condução dos animais.
 
@@ -638,7 +802,9 @@ e) Informação da Polícia de Segurança Pública sobre a inexistência de impe
 
 4 - O ganadeiro é igualmente responsável pelo cumprimento do disposto no presente diploma quanto às características do toiro, às características da corda e ao traje e número dos pastores.
 
-###### Artigo 77.º — Delegados municipais
+Artigo 77.º
+
+Delegados municipais
 
 1 - A câmara municipal nomeia um delegado municipal por cada tourada, por sorteio com garantia de rotatividade, mediante a organização de uma lista de pessoas idóneas, com reconhecida competência na matéria, que estejam disponíveis para exercer as funções de delegado municipal em manifestações taurinas de caráter popular previstas no presente diploma.
 
@@ -652,7 +818,9 @@ e) Informação da Polícia de Segurança Pública sobre a inexistência de impe
 
 6 - A gratificação a que se refere o número anterior é processada e suportada pelo município que a poderá refletir nas taxas a cobrar.
 
-###### Artigo 78.º — Polícia de Segurança Pública, Autoridade Marítima e Guarda Nacional Republicana
+Artigo 78.º
+
+Polícia de Segurança Pública, Autoridade Marítima e Guarda Nacional Republicana
 
 1 - (Anterior corpo do artigo.)
 
@@ -660,9 +828,13 @@ e) Informação da Polícia de Segurança Pública sobre a inexistência de impe
 
 3 - À Guarda Nacional Republicana compete zelar pela observância das disposições legais no âmbito sanitário e de proteção animal.
 
-#### SECÇÃO V — Regime de contraordenações
+SECÇÃO V
 
-###### Artigo 79.º — Normas gerais
+Regime de contraordenações
+
+Artigo 79.º
+
+Normas gerais
 
 1 - A inobservância de qualquer das disposições do regime jurídico a que está sujeita a realização de touradas à corda na Região, para a qual não seja prevista coima específica constitui contraordenação punível com a coima de (euro) 150 (cento e cinquenta euros) a (euro) 1.500 (mil e quinhentos euros).
 
@@ -684,7 +856,9 @@ e) Informação da Polícia de Segurança Pública sobre a inexistência de impe
 
 10 - (Revogado.)
 
-###### Artigo 80.º — Acompanhamento e fiscalização
+Artigo 80.º
+
+Acompanhamento e fiscalização
 
 1 - [...].
 
@@ -704,7 +878,9 @@ Percursos alternativos e reserva de estacionamento
 
 2 - Sem prejuízo do disposto nos n.os 3 e 5 do artigo 54.º, é proibida a marcação, por qualquer modo ou forma, de lugares de estacionamento através da aposição de riscos ou inscrições no pavimento.
 
-###### Artigo 72.º-A — Proibição e cancelamento do licenciamento
+Artigo 72.º-A
+
+Proibição e cancelamento do licenciamento
 
 1 - Não podem ser realizadas manifestações taurinas de caráter popular quando tenha sido decretado luto nacional ou regional.
 
@@ -716,7 +892,9 @@ a) Realizar o evento em qualquer dos cinco dias imediatos à extinção da razã
 
 b) Solicitar a devolução do valor das taxas pagas.
 
-###### Artigo 77.º-A — Funções do delegado municipal
+Artigo 77.º-A
+
+Funções do delegado municipal
 
 1 - O delegado municipal deverá estar presente para a verificação do cumprimento das respetivas disposições legais, pelo menos uma hora antes do início do evento licenciado.
 
@@ -742,11 +920,15 @@ h) Verificar o cumprimento do n.º 1 do artigo 57.º, relativo ao estacionamento
 
 4 - O delegado deve registar no documento de identificação do bovino a conferência da data afixada pelo ganadeiro como sendo a da corrida do toiro para efeitos da contagem do período de descanso imposto pelo n.º 3 do artigo 64.º
 
-###### Artigo 79.º-A — Falta de licença
+Artigo 79.º-A
+
+Falta de licença
 
 O promotor de espetáculo tauromáquico que se realize sem que tenha sido emitida a necessária licença incorre em coima no valor mínimo do triplo da taxa que seria devida pelo licenciamento.
 
-###### Artigo 79.º-B — Estropiamento ou morte da rês
+Artigo 79.º-B
+
+Estropiamento ou morte da rês
 
 1 - Quem durante um espetáculo tauromáquico de forma deliberada cause o estropiamento da rês, para além da eventual responsabilidade civil e criminal, incorre em coima de (euro) 1.000 (mil euros) a (euro) 10.000 (dez mil euros).
 
@@ -758,7 +940,9 @@ O promotor de espetáculo tauromáquico que se realize sem que tenha sido emitid
 
 5 - A negligência e a tentativa são puníveis.
 
-###### Artigo 79.º-C — Intromissão ou lide com instrumento ilícito
+Artigo 79.º-C
+
+Intromissão ou lide com instrumento ilícito
 
 Incorre em coima de (euro) 250 (duzentos e cinquenta euros) a (euro) 2.500 (dois mil e quinhentos euros) quem:
 
@@ -770,11 +954,15 @@ c) Utilize outros animais durante a lide que não as reses a lidar, nos termos p
 
 d) Permita a entrada de animais no percurso da tourada à corda ou no recinto onde se realize um divertimento taurino previsto no presente diploma.
 
-###### Artigo 79.º-D — Falta de seguros
+Artigo 79.º-D
+
+Falta de seguros
 
 A não aquisição de seguro de responsabilidade civil para cobertura de danos emergentes da utilização de foguetes e foguetões e danos causados pelas reses, nos termos do n.º 4 do artigo 72.º, ou a violação das condições da respetiva apólice, constitui contraordenação punível com coima de (euro) 500 (quinhentos euros) a (euro) 2.500 (dois mil e quinhentos euros).
 
-###### Artigo 79.º-E — Estacionamento e circulação
+Artigo 79.º-E
+
+Estacionamento e circulação
 
 1 - Quem, depois de terem sido assinalados os respetivos limites, nos termos do artigo 54.º, estacione no percurso de tourada à corda ou largada de toiros ou espera de gado, ou circule conduzindo veículo motorizado ou velocípede durante a lide, em violação do disposto no n.º 3 do artigo 57.º, incorre em coima de (euro) 50 (cinquenta euros) a (euro) 200 (duzentos euros).
 
@@ -782,7 +970,9 @@ A não aquisição de seguro de responsabilidade civil para cobertura de danos e
 
 3 - Quem em violação do n.º 1 do artigo 57.º mantenha veículo destinado à venda ambulante de comidas e bebidas estacionado dentro dos limites do percurso de tourada à corda ou largada de toiros ou espera de gado, ou durante o divertimento, incluindo os seus intervalos, com ele circule no arraial, incorre em coima de (euro) 100 (cem euros) a (euro) 400 (quatrocentos euros).
 
-###### Artigo 79.º-F — Sanções em touradas à corda e outros divertimentos tauromáquicos
+Artigo 79.º-F
+
+Sanções em touradas à corda e outros divertimentos tauromáquicos
 
 1 - Constitui contraordenação punível com uma coima de (euro) 200 (duzentos euros) a (euro) 2.000 (dois mil euros):
 
@@ -800,7 +990,9 @@ d) A infração ao artigo 64.º
 
 4 - Em caso de reincidência de infração cometida por vendedor ambulante, para além do agravamento da coima prevista no n.º 4 do artigo 79.º, é aplicada, obrigatoriamente, a sanção acessória de interdição do exercício daquela atividade na área do concelho em que se deu a reincidência por um período de trinta dias seguidos.
 
-###### Artigo 79.º-G — Instrução dos processos
+Artigo 79.º-G
+
+Instrução dos processos
 
 1 - São competentes para instrução dos processos de contraordenação as seguintes entidades:
 
@@ -810,7 +1002,9 @@ b) Os competentes serviços municipais quando o auto seja levantado pelo delegad
 
 2 - Do resultado final de todos os processos de contraordenação instaurados por violação deste regime jurídico é dado conhecimento ao agente que elaborou o respetivo auto ou que fez a sua participação.
 
-###### Artigo 79.º-H — Aplicação das coimas
+Artigo 79.º-H
+
+Aplicação das coimas
 
 São competentes para aplicar as coimas previstas no presente regime jurídico:
 
@@ -818,7 +1012,9 @@ a) O membro do Governo Regional competente em matéria de sanidade e bem-estar a
 
 b) O presidente da câmara municipal, quando a instrução do processo tenha cabido aos serviços da autarquia.
 
-###### Artigo 79.º-I — Produto das coimas
+Artigo 79.º-I
+
+Produto das coimas
 
 O produto das coimas resultante de processos de contraordenação instaurados com base no presente regime jurídico constitui receita:
 
@@ -856,11 +1052,11 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de março de 2018.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 24 de abril de 2018.**
+Assinado em Angra do Heroísmo em 24 de abril de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1950,7 +2146,9 @@ Objeto
 
 Constitui objeto do presente diploma a definição do regime específico de exercício da polícia administrativa a cargo da Região Autónoma dos Açores, bem como o licenciamento de jogos que não sejam de fortuna ou azar nem modalidades afins.
 
-###### Artigo 2.º — Competências de polícia administrativa
+Artigo 2.º
+
+Competências de polícia administrativa
 
 1 - Na Região as competências de polícia administrativa são exercidas nos termos da estrutura orgânica do Governo Regional.
 
@@ -1958,7 +2156,9 @@ Constitui objeto do presente diploma a definição do regime específico de exer
 
 3 - [...].
 
-###### Artigo 4.º — Registo de hóspedes
+Artigo 4.º
+
+Registo de hóspedes
 
 1 - [...].
 
@@ -1970,13 +2170,17 @@ Constitui objeto do presente diploma a definição do regime específico de exer
 
 5 - (Revogado.)
 
-###### Artigo 22.º — Regulamentação
+Artigo 22.º
+
+Regulamentação
 
 1 - [...].
 
 2 - O regulamento a que se refere o número anterior é da competência da entidade competente para o licenciamento.
 
-###### Artigo 30.º — Infrações em matéria de condicionamentos
+Artigo 30.º
+
+Infrações em matéria de condicionamentos
 
 1 - [...].
 
@@ -2311,3 +2515,5 @@ São revogados os Decretos Legislativos Regionais n.os [18/96/A](https://diariod
 ###### Artigo 41.º — Entrada em vigor
 
 O presente diploma entra em vigor trinta dias após a sua publicação.
+
+111300222

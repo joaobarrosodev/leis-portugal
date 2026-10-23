@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/28/1996/06/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1996-427644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 795fbca66835b81b64b9b5f0509bf5d651e4b8fe4a0e656bec414a2c25f1221d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35b8094f9911d3ad1ad5080b0d4ed035b944c9c9b748daba9a246d6828aa8690
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Angra do Heroísmo
-- Centro de Estudo Conservação e Restauro dos Açores
-- Direcção Regional dos Assuntos Culturais
-- Carreira Profissional
-- Pessoal Operário
-- Museu
-- Pessoal Técnico Profissional
-- Conservação e Restauro
-- Quadro de Pessoal
 - Açores
+- Angra do Heroísmo
+- Carreira Profissional
+- Centro de Estudo Conservação e Restauro dos Açores
+- Conservação e Restauro
+- Direcção Regional dos Assuntos Culturais
+- Museu
+- Pessoal Operário
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:505412:por
@@ -93,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/43/1992/11/19/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/43/1992/11/19/a/dre
+- type: cites
+  target: pt:dre:371378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584787:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:38Z'
   warnings: []
   errors: []
 ---
@@ -133,16 +149,16 @@ O quadro de pessoal do Centro de Estudo, Conservação e Restauro dos Açores é
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 9 de Maio de 1996.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 4 de Junho de 1996.**
+Assinado em Angra do Heroísmo em 4 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 2.º
 
 Centro de Estudo, Conservação e Restauro dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/06/145b00/16071607.pdf))](https://files.diariodarepublica.pt/1s/1996/06/145b00/16071607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/06/145b00/16071607.pdf)

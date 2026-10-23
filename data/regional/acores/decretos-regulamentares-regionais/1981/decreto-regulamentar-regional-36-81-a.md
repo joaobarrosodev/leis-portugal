@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-1981-577079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3c57d0dbb63bf0139223e3926c360829acc51916d8e4f9f711577fb52202ffb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad778f1a451d537f7e8461c80f9e54d3db8f3bde50c87fce8a8ee015a0d659a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:312398:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312398:por
+  label: "Substituído o mapa de pessoal anexo ao presente diploma, pelo DRR.9/83/A.06.04.1983.GR-RAA, DR.IS [79] de 06.04.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1983-312398
+  date: '1983-04-06'
+- type: cites
+  target: pt:dre:387980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474082:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:29Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +112,9 @@ Deste modo, e porque corre de momento a fase de consolidação da nova estrutura
 
 Assim, e tendo em consideração o Decreto Regulamentar Regional n.º 3/76/A, de 31 de Dezembro, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º Os n.os 1 e 2 do artigo 33.º, o artigo 35.º, o artigo 38.º e os n.os 1 e 2 do artigo 43.º do [Decreto Regulamentar Regional n.º 22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os n.os 1 e 2 do artigo 33.º, o artigo 35.º, o artigo 38.º e os n.os 1 e 2 do artigo 43.º do [Decreto Regulamentar Regional n.º 22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 33.º - 1 - ...
+Art. 33.º - 1 - ...
 
 a) ...
 
@@ -120,19 +138,19 @@ c) ...
 
 d) Secção de Apoio e Coordenação de Serviços Terminais e de Serviço Externo e Fiscalização.
 
-###### Art. 35.º ...
+Art. 35.º ...
 
 a) Repartição da Administração, Contabilidade e Prestações Pecuniárias, que compreende a Secção de Administração, a Secção de Análise, a Secção de Processamentos, a Secção de Apoio e Coordenação de Serviços Terminais e de Serviço Externo e Fiscalização e os Serviços de Contabilidade e Tesouraria;
 
 b) ...
 
-###### Art. 38.º ...
+Art. 38.º ...
 
 a) ...
 
 b) Mecanografia de elementos fixos.
 
-###### Art. 43.º - 1 - ...
+Art. 43.º - 1 - ...
 
 a) ...
 
@@ -160,30 +178,30 @@ e) Secção de Organização de Processos de Abono de Família e Prestações Co
 
 f) Secção de Apoio e Coordenação de Serviços Terminais e de Serviço Externo e Fiscalização.
 
-###### Art. 2.º É aditado ao [Decreto Regulamentar Regional n.º 22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio, o artigo 38.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto Regulamentar Regional n.º 22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio, o artigo 38.º-A, com a seguinte redacção:
 
-###### Art. 38.º-A. A Secção de Apoio e Coordenação de Serviços Terminais e de Serviço Externo e Fiscalização actua nas seguintes áreas:
+Art. 38.º-A. A Secção de Apoio e Coordenação de Serviços Terminais e de Serviço Externo e Fiscalização actua nas seguintes áreas:
 
 a) Acompanhamento e coordenação dos serviços terminais;
 
 b) Informação externa e fiscalização.
 
-###### Art. 3.º Os mapas de pessoal anexos aos Decretos Regulamentares Regionais n.os [22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio, e [21/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1981-387980), de 19 de Março, são substituídos pelo mapa anexo ao presente diploma, na parte que este expressamente contempla.
+Art. 3.º Os mapas de pessoal anexos aos Decretos Regulamentares Regionais n.os [22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio, e [21/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1981-387980), de 19 de Março, são substituídos pelo mapa anexo ao presente diploma, na parte que este expressamente contempla.
 
 Aprovado pelo Governo Regional em 3 de Junho de 1981.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 30 de Junho de 1981.**
+Assinado em Angra do Heroísmo em 30 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro do pessoal a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/07/17300/19651966.pdf))](https://files.diariodarepublica.pt/1s/1981/07/17300/19651966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/07/17300/19651966.pdf)
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22300/0003400098.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2024/11/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2024-896834906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73d4094cd471a8d757c62c5b00b75c6d4f50c7856814aa0b2b4ed43460bda57e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdcafb79633b8e96e204247b891d54bc4c36c616fdfaf0d5f9bc967b7aaf4730
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Orgânica
-- Quadro de Pessoal
 - Açores
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 - Secretaria Regional da Juventude Habitação e Emprego
 relationships:
 - type: cites
@@ -120,16 +120,98 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:123436957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186362062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201616330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216154393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860106954:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:9/2022/A
+  label: Revoga, a partir de 19 de novembro de 2024, a alínea c) do artigo 1.º, a subalínea vi) da alínea b) do n.º 1 do artigo
+    3.º, as normas constantes da subsecção vi, todas do Decreto Regulamentar Regional n.º 9/2022/A, de 20 de julho, bem como
+    as restantes normas que daí constem e que colidam com as competências da Secretaria Regional da Juventude, Habitação e
+    Emprego, atribuídas pelo presente diploma em matéria de habitação
+  source: null
+  date: '2022-07-20'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:18/2022/A
+  label: Revoga, a partir de 19 de novembro de 2024, o Decreto Regulamentar Regional n.º 18/2022/A - Diário da República n.º
+    189/2022, Série I de 2022-09-29
+  source: null
+  date: '2022-09-29'
 article_structure:
   article_count: 107
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 34
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:03Z'
   warnings: []
   errors: []
 ---
@@ -212,11 +294,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 16 de outubro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 13 de novembro de 2024.**
+Assinado em Angra do Heroísmo em 13 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -416,7 +498,9 @@ p) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DSAF integra a Divisão de Recursos Humanos.
 
-###### Artigo 8.º — Divisão de Recursos Humanos
+###### Artigo 8.º
+
+##### Divisão de Recursos Humanos
 
 1 - À Divisão de Recursos Humanos, doravante designada por DRHu, compete:
 
@@ -938,7 +1022,9 @@ a) A Divisão da Criatividade, Inovação e Empreendedorismo;
 
 b) A Divisão da Cidadania, Ocupação e Mobilidade Juvenil.
 
-###### Artigo 29.º — Divisão da Criatividade, Inovação e Empreendedorismo
+###### Artigo 29.º
+
+##### Divisão da Criatividade, Inovação e Empreendedorismo
 
 1 - À Divisão da Criatividade, Inovação e Empreendedorismo, doravante designada por DCIE, compete:
 
@@ -982,7 +1068,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DCIE é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 30.º — Divisão da Cidadania, Ocupação e Mobilidade Juvenil
+###### Artigo 30.º
+
+##### Divisão da Cidadania, Ocupação e Mobilidade Juvenil
 
 1 - À Divisão da Cidadania, Ocupação e Mobilidade Juvenil, doravante designada por DCOMJ, compete:
 
@@ -1194,7 +1282,9 @@ a) A Divisão de Apoios, Arrendamento e Fiscalização;
 
 b) A Divisão de Gestão Financeira.
 
-###### Artigo 36.º — Divisão de Apoios, Arrendamento e Fiscalização
+###### Artigo 36.º
+
+##### Divisão de Apoios, Arrendamento e Fiscalização
 
 1 - À Divisão de Apoios, Arrendamento e Fiscalização, doravante designada por DAAF, compete:
 
@@ -1298,7 +1388,9 @@ f) Promover ações de fiscalização no âmbito da verificação das cláusulas
 
 g) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
 
-###### Artigo 40.º — Divisão de Gestão Financeira
+###### Artigo 40.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira, doravante designada por DGF, compete:
 
@@ -1452,7 +1544,9 @@ u) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DSPGP integra a Divisão de Infraestruturas e Planeamento.
 
-###### Artigo 44.º — Divisão de Infraestruturas e Planeamento
+###### Artigo 44.º
+
+##### Divisão de Infraestruturas e Planeamento
 
 1 - À Divisão de Infraestruturas e Planeamento, doravante designada por DIP, compete:
 
@@ -1534,7 +1628,9 @@ h) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O STGM é dirigido por um chefe de setor, cargo de direção específica de 2.º grau, designado, para o efeito, por despacho do secretário regional, nos termos do disposto no artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 47.º — Divisão Jurídica e de Notariado
+###### Artigo 47.º
+
+##### Divisão Jurídica e de Notariado
 
 1 - À Divisão Jurídica e de Notariado, doravante designada por DJN, compete:
 
@@ -1582,7 +1678,9 @@ t) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - O chefe de divisão da DJN exerce as funções de notário privativo.
 
-###### Artigo 48.º — Divisão de Habitação da Ilha Terceira
+###### Artigo 48.º
+
+##### Divisão de Habitação da Ilha Terceira
 
 1 - À Divisão de Habitação da Ilha Terceira, doravante designada por DHIT, compete:
 
@@ -1908,7 +2006,9 @@ a) A Divisão de Análise e Acompanhamento do Fundo Social Europeu;
 
 b) O Núcleo de Auditoria e Monitorização do Fundo Social Europeu.
 
-###### Artigo 60.º — Divisão de Análise e Acompanhamento do Fundo Social Europeu
+###### Artigo 60.º
+
+##### Divisão de Análise e Acompanhamento do Fundo Social Europeu
 
 1 - À Divisão de Análise e Acompanhamento do Fundo Social Europeu, doravante designada por DAAFSE, compete:
 
@@ -1978,7 +2078,9 @@ a) A Divisão de Programas para o Emprego;
 
 b) O Núcleo de Acompanhamento e Controlo.
 
-###### Artigo 63.º — Divisão de Programas para o Emprego
+###### Artigo 63.º
+
+##### Divisão de Programas para o Emprego
 
 1 - À Divisão de Programas para o Emprego, doravante designada por DPE, compete:
 
@@ -2052,7 +2154,9 @@ o) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - A DST integra a Divisão das Relações do Trabalho e o Núcleo Técnico das Relações de Trabalho.
 
-###### Artigo 66.º — Divisão das Relações do Trabalho
+###### Artigo 66.º
+
+##### Divisão das Relações do Trabalho
 
 1 - À Divisão das Relações do Trabalho, doravante designada por DRT, compete:
 
@@ -2290,7 +2394,9 @@ b) A Divisão de Inspeção e das Contraordenações.
 
 2 - A IRAE dispõe, ainda, de serviços inspetivos desconcentrados nas ilhas da Terceira, Faial e Pico.
 
-###### Artigo 75.º — Divisão da Organização e Planeamento Inspetivo
+###### Artigo 75.º
+
+##### Divisão da Organização e Planeamento Inspetivo
 
 1 - À Divisão da Organização e Planeamento Inspetivo, doravante designado por DOPI, cumpre zelar pelo cumprimento das normas que regem as atividades económicas dos setores alimentar e não alimentar, promover a proteção da saúde pública, assegurar a inspeção dos operadores, garantir a segurança geral dos produtos e serviços e a lealdade das práticas comerciais e promover a leal concorrência e a proteção dos consumidores.
 
@@ -2340,7 +2446,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 5 - Os inspetores indicados na alínea anterior exercem, ainda, as competências que nos termos da lei lhe sejam delegadas ou subdelegadas.
 
-###### Artigo 76.º — Divisão de Inspeção e das Contraordenações
+###### Artigo 76.º
+
+##### Divisão de Inspeção e das Contraordenações
 
 1 - À Divisão de Inspeção e das Contraordenações, doravante designada por DIC, compete:
 
@@ -2484,7 +2592,7 @@ No âmbito das ações inspetivas, a IRAE pode emitir recomendações que tenham
 
 À IRT compete:
 
-a) Controlar e fiscalizar o cumprimento das disposições legais, regulamentares e convencionais respeitantes às relações e condições de trabalho, designadamente as relativas à segurança e saúde no trabalho, de acordo com os princípios vertidos nas Convenções da Organização Internacional do Trabalho - OIT - , designadamente nos seus n.<sup>os</sup>81, 129 e 155;
+a) Controlar e fiscalizar o cumprimento das disposições legais, regulamentares e convencionais respeitantes às relações e condições de trabalho, designadamente as relativas à segurança e saúde no trabalho, de acordo com os princípios vertidos nas Convenções da Organização Internacional do Trabalho - OIT - , designadamente nos seus n.os81, 129 e 155;
 
 b) Proceder à sensibilização, informação e aconselhamento no âmbito das relações e condições de trabalho, bem como no âmbito do bem-estar, segurança e saúde no trabalho, para esclarecimento dos sujeitos intervenientes e das respetivas associações, com vista ao cumprimento das normas aplicáveis;
 
@@ -2708,77 +2816,369 @@ Quadro de pessoal dirigente, de direção específica e de chefia da Secretaria 
 |  | Pessoal dirigente |  |
 | 1 | Diretor de serviços da Direção de Serviços Administrativos e Financeiros, cargo de direção intermédia de 1.º grau | (a) |
 | 1 | Chefe de divisão da Divisão de Recursos Humanos, cargo de direção intermédia de 2.º grau | (a) |
-| 1 | Chefe de divisão do Gabinete de Assuntos Jurídicos, cargo de direção intermédia de 2.º grau | (a) |
-|  | Pessoal de chefia |  |
-| 1 | Coordenador do Núcleo Técnico de Recursos Humanos | (b) |
-|  | Outro pessoal de chefia |  |
-| 1 | Coordenador do Gabinete de Recursos Digitais | (c) |
-| 1 | Coordenador do Gabinete de Comunicação | (c) |
-| 1 | Coordenador do Centro de Artesanato e Design dos Açores | (c) |
-| 1 | Coordenador do Observatório do Emprego e Qualificação Profissional | (c) |
-| 1 | Coordenador do Gabinete de Defesa do Consumidor | (c) |
-|  | Fundo Regional do Emprego |  |
-|  | Pessoal de chefia |  |
-| 1 | Presidente do FRE, equiparado a subdiretor regional, cargo de direção superior de 2.º grau | (a) |
-| 2 | Vogais do FRE, equiparados a chefe de divisão, cargo de direção intermédia de 2.º grau | (a) |
-|  | Direção Regional da Juventude |  |
-|  | Pessoal dirigente |  |
-| 1 | Diretor regional da Direção Regional da Juventude, cargo de direção superior de 1.º grau | (a) |
-| 1 | Diretor de serviços da Direção de Serviços da Juventude, cargo de direção intermédia de 1.º grau | (a) |
-| 1 | Chefe de divisão da Divisão da Criatividade, Inovação e Empreendedorismo, cargo de direção intermédia de 2.º grau | (a) |
-| 1 | Chefe de divisão da Cidadania, Ocupação e Mobilidade Juvenil | (a) |
-|  | Outro pessoal de chefia |  |
-| 1 | Coordenador do Gabinete de Apoio Administrativo e Financeiro da Direção Regional da Juventude | (c) |
-|  | Direção Regional da Habitação |  |
-|  | Pessoal dirigente |  |
-| 1 | Diretor regional da Direção Regional da Habitação, cargo de direção superior de 1.º grau | (a) |
-| 1 | Diretor de serviços da Direção de Serviços de Gestão Social e Financeira, cargo de direção intermédia de 1.º grau | (a) |
-| 1 | Chefe de divisão da Divisão de Apoios, Arrendamento e Fiscalização, cargo de direção intermédia de 2.º grau | (a) |
-| 1 | Chefe de divisão da Divisão de Gestão Financeira, cargo de direção intermédia de 2.º grau | (a) |
-| 1 | Diretor de serviços da Direção de Serviços de Projetos e Gestão Patrimonial, cargo de direção intermédia de 1.º grau | (a) |
-| 1 | Chefe de divisão da Divisão de Infraestruturas e Planeamento, cargo de direção intermédia de 2.º grau | (a) |
-| 1 | Chefe de divisão da Divisão Jurídica e de Notariado, cargo de direção intermédia de 2.º grau | (a) |
-| 1 | Chefe de divisão da Divisão da Habitação da Ilha Terceira, cargo de direção intermédia de 2.º grau | (a) |
-|  | Pessoal de direção específica |  |
-| 1 | Chefe do Setor Técnico de Conservação Patrimonial, cargo de direção específica de 2.º grau | (d) |
-| 1 | Chefe do Setor Técnico de Gestão e Manutenção, cargo de direção específica de 2.º grau | (d) |
-| 1 | Chefe do Setor Técnico de Conservação Patrimonial da Ilha Terceira, cargo de direção específica de 2.º grau | (d) |
-|  | Outro pessoal de chefia |  |
-| 1 | Coordenador do Núcleo de Auditoria e Planeamento | (c) |
-|  | Direção Regional de Qualificação Profissional e Emprego |  |
-|  | Pessoal dirigente |  |
-| 1 | Diretor regional da Direção Regional de Qualificação Profissional e Emprego, cargo de direção superior de 1.º grau | (a) |
-| 1 | Diretor de serviços da Direção de Serviços de Emprego, cargo de direção intermédia de 1.º grau | (a) |
-| 1 | Chefe de divisão do Centro de Qualificação e Emprego, cargo de direção intermédia de 2.º grau | (a) |
-| 1 | Diretor de serviços da Direção de Serviços do Fundo Social Europeu, cargo de direção intermédia de 1.º grau | (a) |
-| 1 | Chefe de divisão da Divisão de Análise e Acompanhamento do Fundo Social Europeu, cargo de direção intermédia de 2.º grau | (a) |
-| 1 | Diretor de serviços da Direção de Serviços da Promoção do Emprego, cargo de direção intermédia de 1.º grau | (a) |
-| 1 | Chefe de divisão da Divisão de Programas para o Emprego, cargo de direção intermédia de 2.º grau | (a) |
-| 1 | Diretor de serviços da Direção de Serviços do Trabalho, cargo de direção intermédia de 1.º grau | (a) |
-| 1 | Chefe de divisão da Divisão das Relações do Trabalho, cargo de direção intermédia de 2.º grau | (a) |
-| 1 | Diretor de serviços da Direção de Serviços da Certificação e Qualificação Profissional, cargo de direção intermédia de 1.º grau | (a) |
-|  | Outro pessoal de chefia |  |
-| 1 | Coordenador do Núcleo Operacional da Terceira | (c) |
-| 1 | Coordenador do Núcleo Operacional do Pico | (c) |
-| 1 | Coordenador do Núcleo Operacional do Faial | (c) |
-| 1 | Coordenador do Núcleo de Auditoria e Monitorização do Fundo Social Europeu | (c) |
-| 1 | Coordenador do Núcleo de Acompanhamento e Controlo | (c) |
-| 1 | Coordenador do Gabinete do Ensino Profissional | (c) |
-| 1 | Coordenador do Gabinete de Apoio Administrativo e Financeiro da Direção Regional de Qualificação Profissional e Emprego | (c) |
-|  | Pessoal de chefia |  |
-| 1 | Coordenador do Núcleo Técnico das Relações de Trabalho | (b) |
-|  | Inspeção Regional das Atividades Económicas |  |
-|  | Pessoal dirigente |  |
-| 1 | Inspetor regional da Inspeção Regional das Atividades Económicas, cargo de direção superior de 2.º grau | (a) e (e) |
-| 1 | Chefe de divisão da Divisão da Organização e Planeamento Inspetivo, cargo de direção intermédia de 2.º grau | (a) e (e) |
-| 1 | Chefe de divisão da Divisão de Inspeção e das Contraordenações, cargo de direção intermédia de 2.º grau | (a) e (e) |
-|  | Inspeção Regional do Trabalho |  |
-|  | Pessoal dirigente |  |
-| 1 | Inspetor regional da Inspeção Regional do Trabalho, cargo de direção superior de 2.º grau | (a) e (e) |
-| 1 | Inspetor delegado do Serviço Inspetivo de Ponta Delgada, cargo de direção intermédia de 2.º grau | (a) e (e) |
-| 1 | Inspetor delegado do Serviço Inspetivo de Angra do Heroísmo, cargo de direção intermédia de 2.º grau | (a) e (e) |
-| 1 | Inspetor delegado do Serviço Inspetivo da Horta cargo de direção intermédia de 2.º grau | (a) e (e) |
-|  | Serviços periféricos |  |
-|  | Pessoal de direção específica |  |
-| 6 | Coordenadores dos Serviços de Ilha de Santa Maria (SISM), da Graciosa (SIG), de São Jorge (SISJ), do Pico (SIP), do Faial (SIFa) e das Flores (SIF), cargos de direção específica de 1.º grau | (d) |
-| (a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.(b) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.(c) Remuneração nos termos do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.(d) Remuneração nos termos da alínea a) do n.º 2 do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.(e) Suplemento remuneratório fixado nos termos Decreto-Lei n.º 112/2001, de 6 de abril, com a adaptação à Região Autónoma dos Açores efetuada pelo Decreto Legislativo Regional n.º 22/2001/A, de 13 de novembro. | (a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.(b) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.(c) Remuneração nos termos do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.(d) Remuneração nos termos da alínea a) do n.º 2 do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.(e) Suplemento remuneratório fixado nos termos Decreto-Lei n.º 112/2001, de 6 de abril, com a adaptação à Região Autónoma dos Açores efetuada pelo Decreto Legislativo Regional n.º 22/2001/A, de 13 de novembro. | (a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.(b) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.(c) Remuneração nos termos do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.(d) Remuneração nos termos da alínea a) do n.º 2 do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.(e) Suplemento remuneratório fixado nos termos Decreto-Lei n.º 112/2001, de 6 de abril, com a adaptação à Região Autónoma dos Açores efetuada pelo Decreto Legislativo Regional n.º 22/2001/A, de 13 de novembro. |
+
+1
+
+Chefe de divisão do Gabinete de Assuntos Jurídicos, cargo de direção intermédia de 2.º grau
+
+(a)
+
+Pessoal de chefia
+
+1
+
+Coordenador do Núcleo Técnico de Recursos Humanos
+
+(b)
+
+Outro pessoal de chefia
+
+1
+
+Coordenador do Gabinete de Recursos Digitais
+
+(c)
+
+1
+
+Coordenador do Gabinete de Comunicação
+
+(c)
+
+1
+
+Coordenador do Centro de Artesanato e Design dos Açores
+
+(c)
+
+1
+
+Coordenador do Observatório do Emprego e Qualificação Profissional
+
+(c)
+
+1
+
+Coordenador do Gabinete de Defesa do Consumidor
+
+(c)
+
+Fundo Regional do Emprego
+
+Pessoal de chefia
+
+1
+
+Presidente do FRE, equiparado a subdiretor regional, cargo de direção superior de 2.º grau
+
+(a)
+
+2
+
+Vogais do FRE, equiparados a chefe de divisão, cargo de direção intermédia de 2.º grau
+
+(a)
+
+Direção Regional da Juventude
+
+Pessoal dirigente
+
+1
+
+Diretor regional da Direção Regional da Juventude, cargo de direção superior de 1.º grau
+
+(a)
+
+1
+
+Diretor de serviços da Direção de Serviços da Juventude, cargo de direção intermédia de 1.º grau
+
+(a)
+
+1
+
+Chefe de divisão da Divisão da Criatividade, Inovação e Empreendedorismo, cargo de direção intermédia de 2.º grau
+
+(a)
+
+1
+
+Chefe de divisão da Cidadania, Ocupação e Mobilidade Juvenil
+
+(a)
+
+Outro pessoal de chefia
+
+1
+
+Coordenador do Gabinete de Apoio Administrativo e Financeiro da Direção Regional da Juventude
+
+(c)
+
+Direção Regional da Habitação
+
+Pessoal dirigente
+
+1
+
+Diretor regional da Direção Regional da Habitação, cargo de direção superior de 1.º grau
+
+(a)
+
+1
+
+Diretor de serviços da Direção de Serviços de Gestão Social e Financeira, cargo de direção intermédia de 1.º grau
+
+(a)
+
+1
+
+Chefe de divisão da Divisão de Apoios, Arrendamento e Fiscalização, cargo de direção intermédia de 2.º grau
+
+(a)
+
+1
+
+Chefe de divisão da Divisão de Gestão Financeira, cargo de direção intermédia de 2.º grau
+
+(a)
+
+1
+
+Diretor de serviços da Direção de Serviços de Projetos e Gestão Patrimonial, cargo de direção intermédia de 1.º grau
+
+(a)
+
+1
+
+Chefe de divisão da Divisão de Infraestruturas e Planeamento, cargo de direção intermédia de 2.º grau
+
+(a)
+
+1
+
+Chefe de divisão da Divisão Jurídica e de Notariado, cargo de direção intermédia de 2.º grau
+
+(a)
+
+1
+
+Chefe de divisão da Divisão da Habitação da Ilha Terceira, cargo de direção intermédia de 2.º grau
+
+(a)
+
+Pessoal de direção específica
+
+1
+
+Chefe do Setor Técnico de Conservação Patrimonial, cargo de direção específica de 2.º grau
+
+(d)
+
+1
+
+Chefe do Setor Técnico de Gestão e Manutenção, cargo de direção específica de 2.º grau
+
+(d)
+
+1
+
+Chefe do Setor Técnico de Conservação Patrimonial da Ilha Terceira, cargo de direção específica de 2.º grau
+
+(d)
+
+Outro pessoal de chefia
+
+1
+
+Coordenador do Núcleo de Auditoria e Planeamento
+
+(c)
+
+Direção Regional de Qualificação Profissional e Emprego
+
+Pessoal dirigente
+
+1
+
+Diretor regional da Direção Regional de Qualificação Profissional e Emprego, cargo de direção superior de 1.º grau
+
+(a)
+
+1
+
+Diretor de serviços da Direção de Serviços de Emprego, cargo de direção intermédia de 1.º grau
+
+(a)
+
+1
+
+Chefe de divisão do Centro de Qualificação e Emprego, cargo de direção intermédia de 2.º grau
+
+(a)
+
+1
+
+Diretor de serviços da Direção de Serviços do Fundo Social Europeu, cargo de direção intermédia de 1.º grau
+
+(a)
+
+1
+
+Chefe de divisão da Divisão de Análise e Acompanhamento do Fundo Social Europeu, cargo de direção intermédia de 2.º grau
+
+(a)
+
+1
+
+Diretor de serviços da Direção de Serviços da Promoção do Emprego, cargo de direção intermédia de 1.º grau
+
+(a)
+
+1
+
+Chefe de divisão da Divisão de Programas para o Emprego, cargo de direção intermédia de 2.º grau
+
+(a)
+
+1
+
+Diretor de serviços da Direção de Serviços do Trabalho, cargo de direção intermédia de 1.º grau
+
+(a)
+
+1
+
+Chefe de divisão da Divisão das Relações do Trabalho, cargo de direção intermédia de 2.º grau
+
+(a)
+
+1
+
+Diretor de serviços da Direção de Serviços da Certificação e Qualificação Profissional, cargo de direção intermédia de 1.º grau
+
+(a)
+
+Outro pessoal de chefia
+
+1
+
+Coordenador do Núcleo Operacional da Terceira
+
+(c)
+
+1
+
+Coordenador do Núcleo Operacional do Pico
+
+(c)
+
+1
+
+Coordenador do Núcleo Operacional do Faial
+
+(c)
+
+1
+
+Coordenador do Núcleo de Auditoria e Monitorização do Fundo Social Europeu
+
+(c)
+
+1
+
+Coordenador do Núcleo de Acompanhamento e Controlo
+
+(c)
+
+1
+
+Coordenador do Gabinete do Ensino Profissional
+
+(c)
+
+1
+
+Coordenador do Gabinete de Apoio Administrativo e Financeiro da Direção Regional de Qualificação Profissional e Emprego
+
+(c)
+
+Pessoal de chefia
+
+1
+
+Coordenador do Núcleo Técnico das Relações de Trabalho
+
+(b)
+
+Inspeção Regional das Atividades Económicas
+
+Pessoal dirigente
+
+1
+
+Inspetor regional da Inspeção Regional das Atividades Económicas, cargo de direção superior de 2.º grau
+
+(a) e (e)
+
+1
+
+Chefe de divisão da Divisão da Organização e Planeamento Inspetivo, cargo de direção intermédia de 2.º grau
+
+(a) e (e)
+
+1
+
+Chefe de divisão da Divisão de Inspeção e das Contraordenações, cargo de direção intermédia de 2.º grau
+
+(a) e (e)
+
+Inspeção Regional do Trabalho
+
+Pessoal dirigente
+
+1
+
+Inspetor regional da Inspeção Regional do Trabalho, cargo de direção superior de 2.º grau
+
+(a) e (e)
+
+1
+
+Inspetor delegado do Serviço Inspetivo de Ponta Delgada, cargo de direção intermédia de 2.º grau
+
+(a) e (e)
+
+1
+
+Inspetor delegado do Serviço Inspetivo de Angra do Heroísmo, cargo de direção intermédia de 2.º grau
+
+(a) e (e)
+
+1
+
+Inspetor delegado do Serviço Inspetivo da Horta cargo de direção intermédia de 2.º grau
+
+(a) e (e)
+
+Serviços periféricos
+
+Pessoal de direção específica
+
+6
+
+Coordenadores dos Serviços de Ilha de Santa Maria (SISM), da Graciosa (SIG), de São Jorge (SISJ), do Pico (SIP), do Faial (SIFa) e das Flores (SIF), cargos de direção específica de 1.º grau
+
+(d)
+
+(a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.
+
+(b) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.
+
+(c) Remuneração nos termos do artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.
+
+(d) Remuneração nos termos da alínea a) do n.º 2 do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, aprovado pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na sua redação em vigor.
+
+(e) Suplemento remuneratório fixado nos termos Decreto-Lei n.º 112/2001, de 6 de abril, com a adaptação à Região Autónoma dos Açores efetuada pelo Decreto Legislativo Regional n.º 22/2001/A, de 13 de novembro.
+
+118347621

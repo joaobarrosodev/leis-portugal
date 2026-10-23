@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/3/1995/03/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/3-1995-172366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de71b64a959c1b88707f95bc0b3a8679a2f17d44c99c09581627fe3a3c608c1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41f2cc261865f46721a316d7fc7f96fee00e3ee740eb53c3ae0f18bb21b67e11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Planeamento Regional
 - Plano Regional
-- Açores
 relationships:
 - type: cites
   target: celex:31977R0355
@@ -103,14 +103,14 @@ relationships:
   source: http://data.europa.eu/eli/dec/1994/526/oj
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:07Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +121,7 @@ A Assembleia Legislativa Regional dos Açores resolve, nos termos da alínea o) 
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 6 de Dezembro de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
 ## ANEXO — Introdução
 
@@ -155,7 +155,7 @@ Em termos globais e numa perspectiva macroeconómica, antecipa-se que em 1995 se
 
 Indicadores (ver nota *) - Variações anuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 (nota *) Perspectives Économiques de l'OCDE (Junho de 1994).
 
@@ -217,7 +217,7 @@ Tomando alguns indicadores simples, observam-se algumas variações negativas em
 
 Indicadores de actividade económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 No mercado de trabalho, a taxa de desemprego apurada no 2.º trimestre de 1994 é de 6,5%, enquanto em período homólogo de 1993 era de cerca de 4,9%. Este agravamento de 1,6 pontos percentuais traduz um aumento de cerca de 1500 indivíduos desocupados involuntariamente.
 
@@ -339,7 +339,7 @@ O investimento previsto neste Plano, o 3.º do presente Plano a Médio Prazo, ev
 
 De facto, tendo em atenção as previsões dos fundos comunitários extra Plano para 1994 e 1995, conjugadas com as dotações inscritas nos respectivos planos anuais, verifica-se que o investimento público previsto realizar em 1995 é substancialmente superior ao previsto para 1994.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 O ano de 1995 poderá considerar-se como o primeiro ano da execução plena do novo QCA. De facto, pese embora o 2.º QCA ter sido aprovado em 1994, foi este ano dedicado, em grande parte, à concretização dos procedimentos técnicos indispensáveis à sua implementação.
 
@@ -375,15 +375,15 @@ O valor global do investimento público inscrito no Plano para 1995 é de 32,6 m
 
 Em termos de estrutura da programação adoptada, o investimento por eixo de desenvolvimento é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 Pela importância que reveste no desenvolvimento da Região, a seguir indicam-se as principais áreas de intervenção, tanto a nível económico como da saúde e educação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
-##### Divisão por eixos de desenvolvimento
+Divisão por eixos de desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 VII - Financiamento
 
@@ -401,21 +401,21 @@ A desagregação espacial é apresentada num quadro-resumo, a nível de programa
 
 Plano - 1995
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 Repartição por entidades executoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 Plano - 1995
 
 Desagregação espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 Desagregado especialmente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 Eixos de desenvolvimento - Programas
 
@@ -423,7 +423,7 @@ Dinamização da actividade económica
 
 Repartição por programa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 1 - Eixos. - Dinamização da actividade económica.
 
@@ -447,7 +447,7 @@ Ao nível do turismo, destaca-se também a execução de uma nova geração de a
 
 3 - Sectores/programas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 PROGRAMA n.º 1
 
@@ -611,7 +611,7 @@ Desenvolvimento dos recursos humanos
 
 Repartição por programa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 1 - Eixo. - Desenvolvimento dos recursos humanos.
 
@@ -631,7 +631,7 @@ Continua no sector da juventude a aposta neste segmento de sociedade, estimuland
 
 3 - Sectores/programas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 PROGRAMA n.º 8
 
@@ -769,7 +769,7 @@ Transportes e energia
 
 Repartição por programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 1 - Eixo. - Transportes e energia.
 
@@ -783,7 +783,7 @@ No sector da energia, prosseguirão as acções tendentes à melhoria do abastec
 
 3 - Sectores/programas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 PROGRAMA n.º 13
 
@@ -933,7 +933,7 @@ Ambiente e qualidade de vida
 
 Repartição por programa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 1 - Eixo. - Ambiente e qualidade de vida.
 
@@ -959,7 +959,7 @@ Paralelamente serão reformuladas as orgânicas relativas ao sistema de protecç
 
 3 - Sectores/programas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 PROGRAMA n.º 18
 
@@ -1181,7 +1181,7 @@ Apoio global
 
 Repartição por programa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 1 - Eixo. - Apoio global.
 
@@ -1201,7 +1201,7 @@ Ao nível da cooperação europeia, promover-se-á a participação de agentes p
 
 3 - Sectores/programas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf))](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/03/070b00/16101625.pdf)
 
 PROGRAMA n.º 28
 

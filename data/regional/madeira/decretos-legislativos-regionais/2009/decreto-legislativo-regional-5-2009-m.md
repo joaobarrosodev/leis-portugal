@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2009/03/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2009-604831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9646a2bcd90b53ff38f79eb21d4d89e4e87dd1b29f3f120d979fe9d4118f91d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f175207d801744b6624d2637a45f495ff473b21f1b2515d989fc4129b6101aaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,19 +69,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Sociedade Anónima
 - Contrato de Concessão
+- Eliminação de Resíduos
 - Empresa Pública Regional
 - Estatuto
-- Valor Ambiente
-- Resíduo
-- Tratamento de Resíduos
-- Política do Ambiente
-- Serviço Público
+- Gestão de Resíduos
 - Madeira.região Autónoma
+- Política do Ambiente
 - Poluição
-- Eliminação de Resíduos
+- Resíduo
+- Serviço Público
+- Sociedade Anónima
+- Tratamento de Resíduos
+- Valor Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:65891078:por
@@ -103,16 +103,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:65891078:por
+  label: Revogado, nos termos do n.º 3 do art. 28.º e sem prejuízo do disposto no n.º 3 do art. 27.º, o DLR 28/2004/M, de
+    24-ago, na redação do presente diploma, pelo(a) Decreto Legislativo Regional n.º 17/2014/M - Diário da República n.º 242/2014,
+    Série I de 2014-12-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2014-65891078
+  date: '2014-12-16'
 article_structure:
-  article_count: 10
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:14Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +184,9 @@ Os artigos 6.º, 7.º, 12.º, 13.º, 18.º e 19.º dos Estatutos da Valor Ambien
 
 3 - Para além da Região Autónoma da Madeira, apenas poderão ser titulares de acções entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, ou os municípios da Região Autónoma da Madeira.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -181,13 +210,17 @@ Os artigos 6.º, 7.º, 12.º, 13.º, 18.º e 19.º dos Estatutos da Valor Ambien
 
 11 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo 18.º, os membros da mesa da assembleia geral, do conselho de administração e o fiscal único são eleitos em assembleia geral por períodos de três anos e podem ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -215,7 +248,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O conselho de administração é composto por um presidente e dois vogais, dos quais um exerce funções executivas, sendo os restantes dois administradores não executivos.
 
@@ -223,7 +258,9 @@ j) ...
 
 3 - (Anterior n.º 5.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Ao conselho de administração compete gerir e representar a sociedade e, sem prejuízo das demais competências que lhe forem conferidas por lei, pelos presentes estatutos e pelas deliberações dos accionistas, cabe-lhe:
 
@@ -275,7 +312,9 @@ As bases iii, v, ix, xviii e xxi, constantes do anexo ii do [Decreto Legislativo
 
 6 - ...
 
-###### Base V — [...]
+Base V
+
+[...]
 
 1 - ...
 
@@ -283,13 +322,17 @@ As bases iii, v, ix, xviii e xxi, constantes do anexo ii do [Decreto Legislativo
 
 3 - ...
 
-###### Base IX — [...]
+Base IX
+
+[...]
 
 1 - Os aterros sanitários ou outras infra-estruturas relacionadas com o tratamento ou recolha de resíduos sólidos pertencentes aos municípios ou a associações de municípios de que todos ou alguns destes façam parte poderão ser pelos mesmos cedidos à concessionária, a título gratuito ou oneroso, para exploração da concessão.
 
 2 - ...
 
-###### Base XVIII — [...]
+Base XVIII
+
+[...]
 
 1 - Os regulamentos de tratamento de resíduos sólidos serão elaborados pela concessionária e submetidos a parecer dos utilizadores, a emitir no prazo de 60 dias.
 
@@ -297,7 +340,9 @@ As bases iii, v, ix, xviii e xxi, constantes do anexo ii do [Decreto Legislativo
 
 3 - ...
 
-###### Base XXI — Concessão de sistemas municipais
+Base XXI
+
+Concessão de sistemas municipais
 
 1 - A concessionária não poderá opor-se à transmissão da posição contratual de um ou mais municípios utilizadores para uma concessionária do respectivo sistema municipal.
 
@@ -309,10 +354,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 10 de Fevereiro de 2009.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 6 de Março de 2009.**
+Assinado em 6 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/08/15200/56905705.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28/2006/08/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2006-538620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 319bd1660373cf2bd8b58c34df9b612ea69c0d59b978451c2deaf9eeda8834a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85474a14cc55b9be28d06e26103cb0929c775a9026d385dc7725668304629bc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Formação de Professores
+- Açores
+- Educação Permanente
 - Estatuto da Carreira Docente
 - Formação Complementar
-- Educação Permanente
-- Açores
+- Formação de Professores
+- Formação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:603770:por
@@ -116,16 +116,199 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
+- type: cites
+  target: pt:dre:157046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693180:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:541780:por
+  label: "Rectificado pela DECL-RECT.63/2006.11.09.2006.PCM, DR.IS [183] de 21.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/63-2006-541780
+  date: '2006-09-11'
+- type: repealed_by
+  target: pt:dre:641102:por
+  label: "Revogado, a partir de 31.08.2007 pelo DLR.21/2007/A.30.08.2007.AL-RAA, DR.IS [167] de 30.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2007-641102
+  date: '2007-08-30'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:2/2000/A
+  label: "Revoga o Decreto Regulamentar Regional n.º 2/2000/A, de 22 de Janeiro DR.IS-B [18]\0\0"
+  source: null
+  date: '2000-01-22'
+- type: repeals
+  target: pt:numero:portaria:75/2000
+  label: "Revoga a Portaria n.º 75/2000, de 28 de Dezembro da SREC-RAA JOA IS [52]\0\0"
+  source: null
+  date: '2000-12-28'
+- type: repeals
+  target: pt:numero:despacho-normativo:40/2001
+  label: "Revoga o Despacho Normativo n.º 40/2001, de 30 de Agosto da SREC-RAA JOA IS [35]\0\0"
+  source: null
+  date: '2001-08-30'
+- type: repeals
+  target: pt:numero:despacho-normativo:28/2002
+  label: "Revoga o Despacho Normativo n.º 28/2002, de 16 de Maio da SREC-RAA JOA IS [20]\0\0"
+  source: null
+  date: '2002-05-16'
+- type: repeals
+  target: pt:numero:despacho-normativo:44/2002
+  label: "Revoga o Despacho Normativo n.º 44/2002, de 19 de Setembro da SREC-RAA JOA IS [38]\0\0"
+  source: null
+  date: '2002-09-19'
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:22/2003/A
+  label: "Revoga o Decreto Legislativo Regional n.º 22/2003/A, de 6 de Maio DR.IS-A [104]\0\0"
+  source: null
+  date: '2003-05-06'
+- type: repeals
+  target: pt:numero:despacho-normativo:28/2003
+  label: "Revoga o Despacho Normativo n.º 28/2003, de 10 de Julho da SRPFR-RAA JOA IS [28]\0\0"
+  source: null
+  date: '2003-07-10'
+- type: repeals
+  target: pt:numero:portaria:37/2004
+  label: "Revoga a Portaria n.º 37/2004, de 20 de Maio da SREC-RAA JOA IS [21]\0\0"
+  source: null
+  date: '2004-05-20'
+- type: repeals
+  target: pt:numero:despacho-normativo:48/2005
+  label: "Revoga o Despacho Normativo n.º 48/2005, de 11 de Agosto da SRECI-RAA, JOA IS [32]\0\0"
+  source: null
+  date: '2005-08-11'
 article_structure:
   article_count: 88
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:24Z'
   warnings: []
   errors: []
 ---
@@ -1114,10 +1297,10 @@ O presente diploma entra em vigor no dia imediato à data da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 30 de Junho de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 21 de Julho de 2006.**
+Assinado em Angra do Heroísmo em 21 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/273/2007/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/273-2007-518443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8957a04267d0a2d0c03f977a9cef385f59bc6d2dfce504e9b107a1ae313589c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b9ed145be040b5bd72c6b57053cfc8a79a3ab467e2a080ed8523ada7b0a8b9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,20 @@ relationships:
   target: pt:dre:492239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455599:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 801/2003, de 13-Ago, alterada pela Port\
+    \ 291/2006, de 22-Mar,pela Port 1117/2006, de 18-Out e pelo presente diploma, pela PORT.859/2008.13.08.2008.MADRP, DR.IS\
+    \ [156] de 13.08.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/859-2008-455599
+  date: '2008-08-13'
+- type: amended_by
+  target: pt:dre:492239:por
+  label: "Renovada, por um período de seis anos, a zona de caça municipal de Pechão, criada pela Port 801/2003, de 13-Ago,\
+    \ alterada pelo presente diploma, bem como a transferência de gestão, por igual período, pela PORT.725/2009.07.07.2009.MADRP,\
+    \ DR.IS [129] de 07.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/725-2009-492239
+  date: '2009-07-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -91,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/801/2003/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/801/2003/08/13/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667716:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:25Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +149,4 @@ Com fundamento no disposto no n.º 2 do artigo 28.º do [Decreto-Lei n.º 202/20
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 22 de Fevereiro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05000/15611562.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05000/15611562.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05000/15611562.pdf)

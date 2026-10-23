@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/088b00/24492451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2003/04/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2003-226061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 029c7adb8d38ec84d8caf728c307488b69d4a8e379f3dc9327d54a2e48d1f726
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: add83f6db23d460ddb74e091d74020a0a41c54fdac9ab4efcae8e0855035705d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ÁREA Escolar
-- Educação Especial
 - Centro de Recursos de Educação Especial
-- Pessoal Dirigente
 - Conselho Administrativo
 - Definição de Competências
+- Educação Especial
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Oficial
 - Integração de Trabalhadores
 - Jardim de Infância
 - Orgânica
+- Pessoal Dirigente
+- Pessoal Docente
 - Pessoal não Docente
 - Ponta Delgada
-- Pessoal Docente
-- Ensino Básico
 - Quadro de Pessoal
-- Açores
-- Educação Pré-escolar
 - Transferência de Pessoal
 relationships:
 - type: amended_by
@@ -130,16 +130,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/40/1992/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/40/1992/01/22/p/dre
+- type: cites
+  target: pt:dre:144019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639913:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:540033:por
+  label: "Revogado pelo DRR.27/2006/A.28.08.2006.SRECI-RAA, DR.IS [177] de 13.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2006-540033
+  date: '2006-08-28'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:43Z'
   warnings: []
   errors: []
 ---
@@ -226,13 +275,13 @@ f) Produzir e adaptar material e ajudas técnicas de estimulação sócio-educat
 
 Aprovado em Conselho do Governo Regional, na Horta, em 21 de Fevereiro de 2003.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 21 de Março de 2003.**
+Assinado em Angra do Heroísmo em 21 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 5.º)
 

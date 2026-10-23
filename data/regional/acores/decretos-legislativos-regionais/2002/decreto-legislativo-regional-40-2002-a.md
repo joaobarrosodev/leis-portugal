@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/296a00/80118011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/40/2002/12/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2002-405294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebea8cf75336be696ec01726ca83101c209f489d987d1272b86065182e4db6bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dd8bb33d7c2d76329670dc91bb3f61ee3e23dbb8e1fa66df9ab9629113c5d04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Dívidas à Segurança Social
-- Instituto de Gestão Financeira da Segurança Social
+- Açores
 - Cobrança de Dívidas
+- Dívidas à Segurança Social
 - Execução por Dívidas
 - Instituto de Gestão de Regimes de Segurança Social
+- Instituto de Gestão Financeira da Segurança Social
 - Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:145589083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145589083:por
+  label: Considerado revogado por esgotamento do objeto ou revogação tácita pelo(a) Decreto Legislativo Regional n.º 27/2020/A
+    - Diário da República n.º 202/2020, Série I de 2020-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2020-145589083
+  date: '2020-10-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/2001/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/42/2001/02/09/p/dre
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:41Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +130,9 @@ O presente diploma aplica à Região Autónoma dos Açores, com as necessárias 
 
 4 - As restantes referências feitas às delegações do Instituto de Gestão Financeira da Segurança Social correspondem, na Região Autónoma dos Açores, aos centros de prestações pecuniárias do Instituto de Gestão de Regimes de Segurança Social.
 
-###### Artigo 3.º — Secção de processo
+###### Artigo 3.º
+
+#### Secção de processo
 
 São criadas, no Instituto de Gestão de Regimes de Segurança Social, secções de processo.
 
@@ -138,10 +150,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Novembro de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 29 de Novembro de 2002.**
+Assinado em Angra do Heroísmo em 29 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

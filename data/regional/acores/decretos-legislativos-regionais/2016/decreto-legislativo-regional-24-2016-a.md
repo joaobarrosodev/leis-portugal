@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21700/0403204038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2016/11/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2016-75715703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e6eb1da93147e39d80120e8dd98c389ff56b2a0149919543176f8ed34d5c633
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc428f25beafd6473b2917369e3b39fc7c9044fe1a50b583cfb50e0671d44d07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento Desportivo
-- Multa
+- Açores
 - Contra-ordenação
 - Definição de Competências
+- Desporto
+- Equipamento Desportivo
 - Fiscalização
 - Fundo Regional do Desporto
-- Seguro
+- Multa
 - Normas de Segurança
 - Regime Jurídico
 - Regulamento Interno
 - Segurança das Instalações
-- Açores
+- Seguro
 - Taxa
-- Desporto
 relationships:
 - type: cites
   target: celex:32005L0036
@@ -126,20 +126,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
+- type: cites
+  target: pt:dre:174571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66702119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667973:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32005L0036
   label: null
   source: null
 article_structure:
   article_count: 37
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:13Z'
   warnings: []
   errors: []
 ---
@@ -232,7 +268,9 @@ O diretor técnico e o técnico de exercício físico devem colaborar mutuamente
 
 ### CAPÍTULO III — Títulos profissionais
 
-###### Artigo 6.º — Título profissional de diretor técnico
+###### Artigo 6.º
+
+## Título profissional de diretor técnico
 
 1 - É obrigatória a obtenção de título profissional válido para o exercício do cargo de diretor técnico.
 
@@ -248,7 +286,9 @@ a) Licenciatura nas áreas do desporto, educação física ou similares, tal com
 
 b) Qualificações profissionais reconhecidas nos termos da [Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/lei/9-2009-604779), de 4 de março, alterada pela [Lei n.º 41/2012](https://diariodarepublica.pt/dr/detalhe/lei/41-2012-174571), de 28 de agosto.
 
-###### Artigo 8.º — Título profissional de técnico de exercício físico
+###### Artigo 8.º
+
+## Título profissional de técnico de exercício físico
 
 1 - Sem prejuízo do disposto no n.º 3, é obrigatória a obtenção de título profissional válido para o exercício do cargo de técnico de exercício físico.
 
@@ -352,7 +392,9 @@ A direção regional e a entidade do Governo da República competentes em matér
 
 3 - O manual de operações deve ser afixado na entrada e nas áreas de prática de atividade física desportiva em local visível para os clientes.
 
-###### Artigo 18.º — Livro de reclamações
+###### Artigo 18.º
+
+## Livro de reclamações
 
 1 - Nas instalações desportivas deve existir um livro de reclamações de acordo com a legislação em vigor.
 
@@ -532,10 +574,10 @@ O presente diploma entra em vigor no prazo de noventa dias a contar da data da s
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 6 de setembro de 2016.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 2 de novembro de 2016.**
+Assinado em Angra do Heroísmo em 2 de novembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

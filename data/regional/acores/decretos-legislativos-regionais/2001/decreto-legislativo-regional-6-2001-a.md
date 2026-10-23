@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2001/03/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2001-353088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f17b3c18984689bb9e4e4753b97a8d1c90a2aacab84fafc2696b7f9f7d4ad5b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 990eddd387f997ee530c26747d65e6d82f27ff85d2887e3955bc032721216274
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Carreira de Pessoal Auxiliar de Contabilidade
 - Carreira de Pessoal Técnico Contabilista
-- Formação Profissional
-- Sistema Retributivo
 - Carreira Profissional
-- Integração de Trabalhadores
 - Descrição de Funções
 - Direcção Regional do Orçamento e Tesouro
+- Formação Profissional
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
 - Política Salarial
 - Promoção Profissional
 - Reestruturação de Carreiras
 - Regime de Pessoal
 - Remuneração
-- Gestão de Recursos Humanos
-- Açores
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:456561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a carreira Geral de Técnico Superior, nos termos do art. 2º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -102,16 +110,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668076:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:31Z'
   warnings: []
   errors: []
 ---
@@ -202,13 +234,13 @@ São revogadas todas as disposições legais e regulamentares que contrariem o p
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Fevereiro de 2001.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 2 de Março de 2001.**
+Assinado em Angra do Heroísmo em 2 de Março de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 MAPA I
 
@@ -248,7 +280,7 @@ Escala indiciária do pessoal técnico contabilista
 
 (artigo 1.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)
 
 MAPA IV
 
@@ -256,7 +288,7 @@ Escala indiciária do pessoal auxiliar de contabilidade
 
 (artigo 1.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)
 
 MAPA V
 
@@ -264,4 +296,4 @@ Transição do pessoal auxiliar de contabilidade
 
 (artigo 5.º, n.º 5)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)](https://files.diariodarepublica.pt/1s/2001/03/068a00/15881591.pdf)

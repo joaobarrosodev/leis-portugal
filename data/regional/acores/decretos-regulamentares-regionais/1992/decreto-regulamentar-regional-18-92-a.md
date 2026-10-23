@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/1992/04/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1992-217715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58a7b6671e64bc5e317ca35e4c3b66651bcd3f0b98f1e196d2f4fd05089009fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ceeebf8e933087dd71436c4c6d2fb6778a8cf46dd9323ad574f0ecd39be1001
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Estabelecimento Hospitalar
 - Horta
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Estabelecimento Hospitalar
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:242018:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:282084:por
+  label: "Alterado o quadro de pessoal pelo DRR.36/92/A.18.08.1992.GR-RAA, DR.IS-B [189] de 18.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-1992-282084
+  date: '1992-08-18'
+- type: amended_by
+  target: pt:dre:571185:por
+  label: "Alterado o quadro de pessoal, pelo DRR.19/96/A.1996.03.19.SRSSS-RAA, DR.IS-B [95] de 22/Abr/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1996-571185
+  date: '1996-03-19'
+- type: amended_by
+  target: pt:dre:144623:por
+  label: "Alterado o quadro de pessoal, pelo DRR 14/97/A.1997.06.04.SREAS-RAA, DR.IS-B [170] de 25/Jul/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1997-144623
+  date: '1997-06-04'
+- type: amended_by
+  target: pt:dre:580632:por
+  label: "Alterado o quadro de pessoal, pelo DRR.20/2000/A.2000.07.27.SREAS-RAA, DR.IS-B [204] de 04/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2000-580632
+  date: '2000-07-27'
+- type: amended_by
+  target: pt:dre:517637:por
+  label: "Alterado o quadro de pessoal do Hospital da Horta aprovado pelo presente diploma, na redacção dos DRR 36/92/A, de\
+    \ 18-Ago, DRR19/96/A, de 22-Abr, 14/97/A, de 25-Jul e 20/2000/A de 04-set, pelo DRR.22/2004/A.08.06.2004.SRAS-RAA, DR.IS-B\
+    \ [153] de 01.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2004-517637
+  date: '2004-06-08'
+- type: amended_by
+  target: pt:dre:626047:por
+  label: "Alterado o quadro de pessoal do Hospital da Horta pelo DRR.33/2004/A de 26-Ago, DR.IS-B [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-2004-626047
+  date: '2004-07-23'
+- type: amended_by
+  target: pt:dre:242018:por
+  label: "Alterado o quadro de pessoal do Hospital da Horta, aprovado pelo presente diploma, alterado pelo DRR 36/92/A, de\
+    \ 18-Ago, pelo DRR 19/96/A, de 19-Mar, pelo DRR 14/97/A, de 04-Jul, pelo DRR 20/2000/A, de 27-Jul, pelo DRR 22/2004/A,\
+    \ de 08-Jun e pelo DRR 33/2004/A, de 26-Ago, pelo DRR.17/2005/A.12.07.2005.PG-RAA, DR.IS-B [151] de 08.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2005-242018
+  date: '2005-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
@@ -88,16 +127,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:01Z'
   warnings: []
   errors: []
 ---
@@ -110,20 +189,20 @@ Simultaneamente, procede-se à adequação dos lugares do quadro de pessoal da �
 
 Assim, em execução do artigo 31.º do Decreto Regional n.º 32/80/A, de 11 de Dezembro, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro de pessoal do Hospital da Horta, aprovado pelo [Decreto Regulamentar Regional n.º 28/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1986-218554), de 5 de Agosto, com as alterações introduzidas pelos Decretos Regulamentares Regionais n.os [28/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1987-495707), de 12 de Setembro, [71/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/71-1988-357700), de 17 de Novembro, [31/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1989-547807), de 20 de Setembro, [35/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1989-549799), de 13 de Novembro, e [28/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1990-556595), de 6 de Setembro, é substituído pelo quadro anexo ao presente diploma, de que faz parte integrante.
+Artigo 1.º O quadro de pessoal do Hospital da Horta, aprovado pelo [Decreto Regulamentar Regional n.º 28/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1986-218554), de 5 de Agosto, com as alterações introduzidas pelos Decretos Regulamentares Regionais n.os [28/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1987-495707), de 12 de Setembro, [71/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/71-1988-357700), de 17 de Novembro, [31/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1989-547807), de 20 de Setembro, [35/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1989-549799), de 13 de Novembro, e [28/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1990-556595), de 6 de Setembro, é substituído pelo quadro anexo ao presente diploma, de que faz parte integrante.
 
-###### Art. 2.º Para efeitos de ingresso na carreira de secretário-recepcionista, considera-se equiparado ao curso de formação profissional previsto na alínea b) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Junho, o 12.º ano, nas áreas C e D.
+Art. 2.º Para efeitos de ingresso na carreira de secretário-recepcionista, considera-se equiparado ao curso de formação profissional previsto na alínea b) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Junho, o 12.º ano, nas áreas C e D.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 26 de Fevereiro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 18 de Março de 1992.**
+Assinado em Angra do Heroísmo em 18 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/094b00/18881893.pdf))](https://files.diariodarepublica.pt/1s/1992/04/094b00/18881893.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/094b00/18881893.pdf)

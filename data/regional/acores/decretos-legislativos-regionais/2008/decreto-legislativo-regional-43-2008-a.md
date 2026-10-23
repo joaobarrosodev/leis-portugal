@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/43/2008/10/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/43-2008-452917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdc4fc857144ceb7427c7ff9fd787dfe4bd88f4b8186b4eb793de9abb4f4e253
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dcb38e443ef864fae542b8e5b184308306fde2f7011abe9bdeeb0a937e3e362
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Património Cultural
-- Obras Municipais
-- Protecção do Património
-- Regime Jurídico
 - Açores
 - Autarquia Local
+- Obras Municipais
+- Ordenamento do Território
+- Património Cultural
+- Protecção do Património
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:66426484:por
@@ -121,16 +121,168 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:151928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661698:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175320:por
+  label: "Revogados, a partir de 31.08.2012, o art. 2º e o anexo II do presente diploma, pelo DLR.35/2012/A.16.08.2012.AL-RAA,\
+    \ DR.IS [158] de 16.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/35-2012-175320
+  date: '2012-08-16'
+- type: repealed_by
+  target: pt:dre:66426484:por
+  label: Revogado, a partir de 06.03.2015, o DLR 29/2004/A de 24-ago, com as alterações introduzidas pelo presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 3/2015/A - Diário da República n.º 24/2015, Série I de 2015-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2015-66426484
+  date: '2015-02-04'
 article_structure:
   article_count: 86
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:55Z'
   warnings: []
   errors: []
 ---
@@ -195,11 +347,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de Setembro de 2008.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 24 de Setembro de 2008.**
+Assinado em Angra do Heroísmo em 24 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

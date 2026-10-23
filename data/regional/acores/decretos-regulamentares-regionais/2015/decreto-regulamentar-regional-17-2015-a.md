@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/19000/0853208533.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2015/09/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2015-70402850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03c44556702ed130571a84a236cc934f59aa7cb360e590c697cb34dee659b053
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97cf68081374a9eccea7f5b40c0c0971fdea78c85df04ce1e4f43e88c96e2bec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Achado no MAR
-- Contra-ordenação
+- Açores
 - Autoridade Marítima Nacional
-- Património Arqueológico
-- Património Cultural
+- Contra-ordenação
 - Fiscalização
 - ILHA das Flores
 - Mergulho
-- Proteção do Ambiente
 - Parque Arqueológico
-- Património Subaquático
+- Património Arqueológico
+- Património Cultural
 - Património Histórico
-- Açores
+- Património Subaquático
+- Proteção do Ambiente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/27/2004/08/24/a/dre
@@ -91,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/24/2008/11/26/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/24/2008/11/26/a/dre
+- type: cites
+  target: pt:dre:440322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666921:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:17Z'
   warnings: []
   errors: []
 ---
@@ -169,12 +181,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 21 de julho de 2015.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 7 de setembro de 2015.**
+Assinado em Angra do Heroísmo em 7 de setembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/19000/0853208533.pdf))](https://files.diariodarepublica.pt/1s/2015/09/19000/0853208533.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/19000/0853208533.pdf)

@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1983-310814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5c2d5b87fc3b005d9721f0c59541b0cb4841b1a00fb2822f0ef4514c6d30738
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 745d41aa61d6f074717a4af318e289ef18c054d8aeb3ad33f7520cabee70c0fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Quadro de Pessoal
+- Secretaria Regional das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:228220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:464427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678255:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:228220:por
+  label: "Revogado o quadro anexo ao presente diploma, pelo DRR.25/86/A.1986.06.20.GR-RAA, DR.IS [156] de 10/Jul/1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-1986-228220
+  date: '1986-06-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:05Z'
   warnings: []
   errors: []
 ---
@@ -94,22 +114,22 @@ Assim, afigurando-se inadiável alargar o quadro do gabinete técnico daquele de
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º, da Constituição, o seguinte:
 
-###### Artigo 1.º Ao quadro de pessoal da Secretaria Regional das Finanças, a que se refere o artigo único do [Decreto Regulamentar Regional n.º 14/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1980-678255), de 19 de Março, o artigo 1.º do [Decreto Regulamentar Regional n.º 26/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1980-472972), de 14 de Junho, e o n.º 2 do artigo 3.º do [Decreto Regulamentar Regional n.º 41/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1980-464427), de 8 de Setembro, são acrescidos os lugares constantes do quadro anexo ao presente diploma.
+Artigo 1.º Ao quadro de pessoal da Secretaria Regional das Finanças, a que se refere o artigo único do [Decreto Regulamentar Regional n.º 14/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1980-678255), de 19 de Março, o artigo 1.º do [Decreto Regulamentar Regional n.º 26/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1980-472972), de 14 de Junho, e o n.º 2 do artigo 3.º do [Decreto Regulamentar Regional n.º 41/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1980-464427), de 8 de Setembro, são acrescidos os lugares constantes do quadro anexo ao presente diploma.
 
-###### Art. 2.º O presente diploma entra em vigor na data da sua publicação.
+Art. 2.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 20 de Dezembro de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 25 de Janeiro de 1983.**
+Assinado em Angra do Heroísmo em 25 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 ## ANEXO — Quadro e vencimento do pessoal a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03700/04680468.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03700/04680468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03700/04680468.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Tomás George Conceição Silva.**
+O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Tomás George Conceição Silva.

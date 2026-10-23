@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/09/16800/0615506156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/976/2008/09/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/976-2008-453477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 887dd80454a70dc74ec06a1453c2b5b544f8c9f156cc6a8d5da549598488cccb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ad10db1030f4423e104bb11fe13ce9d430dbc0027050cdbe252b9d1d512657e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Controlo Sanitário
 - Direção Geral de Agricultura e Desenvolvimento Rural
 - Doença Vegetal
-- Controlo Sanitário
-- Saúde Pública
 - Página na Internet
-- Zona de Proteção
-- Proteção Fitossanitária
 - Produto Agrícola
 - Produto Vitivinícola
-- Vitivinicultor
+- Proteção Fitossanitária
+- Saúde Pública
 - Vinha
+- Vitivinicultor
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:260899:por
@@ -87,16 +87,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/154/2005/09/06/p/dre
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:260899:por
+  label: "Revogada pela PORT.165/2013.26.04.2013.MAMAOT, DR.IS [81] de 26.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-2013-260899
+  date: '2013-04-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:35Z'
   warnings: []
   errors: []
 ---

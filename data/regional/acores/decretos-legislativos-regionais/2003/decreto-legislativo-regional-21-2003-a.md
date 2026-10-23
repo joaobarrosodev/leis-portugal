@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/2003/05/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2003-572605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c02519d1860064e6d6280082f721ef0a482f895432ae3593c80ebec9d6e29044
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cd95faad61cf87f780add54bf5ece2fa9adae4ae317446f894bbc7ff25a1dfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
+- Açores
+- Cobrança de Dívidas
 - Criação de Serviços
 - Dívidas ao Estado
-- Gabinete de Gestão Financeira do Emprego
-- Orgânica
-- Cobrança de Dívidas
 - Fundo Regional do Emprego
-- Açores
+- Gabinete de Gestão Financeira do Emprego
+- Gestão Financeira
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:191142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Transitado para a dependência do Secretário Regional do Trabalho e Solidariedade Social, o Fundo Regional do Emprego,\
+    \ criado pelo presente diploma, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Determinada a transição, para a dependência do Vice-Presidente do Governo Regional dos Açores, do Fundo Regional\
+    \ do Emprego, anteriormente no âmbito da Secretaria Regional do Trabalho e da Solidariedade Social pelo DRR.24/2012/A.27.11.2012.PG-RAA,\
+    \ DR.IS [229] de 27.11.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
+- type: cites
+  target: pt:dre:152337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455925:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:47Z'
   warnings: []
   errors: []
 ---
@@ -230,10 +259,10 @@ d) O [Decreto Regulamentar Regional n.º 38/83/A](https://diariodarepublica.pt/d
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 18 de Março de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 8 de Abril de 2003.**
+Assinado em Angra do Heroísmo em 8 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

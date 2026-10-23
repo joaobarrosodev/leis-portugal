@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/00600/01630169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/52/2007/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/52-2007-262121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9163d3ea4a28a1726b48c27588673dc3b81a4039f0ed92c02cd8a0e68f15fb74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f16fbaba3db07447f6f9d3f25529ad9ad89400a5242161157983ea9b71742b23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Conservação de Documentos
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Secretaria Geral
 relationships:
 - type: cites
@@ -79,16 +79,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1143/2001/09/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1143/2001/09/27/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615054:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:164586283:por
+  label: Revogada, a partir de 02.07.2021, pelo(a) Portaria n.º 118/2021 - Diário da República n.º 107/2021, Série I de 2021-06-02
+    nos termos do art. 2.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/118-2021-164586283
+  date: '2021-06-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:06Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +129,7 @@ Nestes termos, ao abrigo do disposto na alínea a) do n.º 1 do artigo 1.º do [
 
 Em 27 de Outubro de 2006.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva. - Pela Ministra da Cultura, Mário Vieira de Carvalho, Secretário de Estado da Cultura.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva. - Pela Ministra da Cultura, Mário Vieira de Carvalho, Secretário de Estado da Cultura.
 
 REGULAMENTO ARQUIVÍSTICO DA SECRETARIA-GERAL DO MINISTÉRIO DA AGRICULTURA, DO DESENVOLVIMENTO RURAL E DAS PESCAS
 
@@ -233,4 +251,4 @@ Compete ao IAN/TT a inspecção sobre o disposto na presente portaria.
 
 Do ANEXO I ao ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00600/01630169.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00600/01630169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00600/01630169.pdf)

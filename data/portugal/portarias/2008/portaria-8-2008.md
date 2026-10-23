@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/8/2008/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-2008-386794
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46f4f51d031314663185fe302c5f9eeec9e0fcf0649fc1fed7ebd60d984e9073
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1ecdbc58a2bdea2d59b82a83810f76edcdd30490545dd2c77df8562765cd642
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Estatística
+- Banco de Portugal
 - Contabilidade
 - Correio Electrónico
-- Formulário Eletrónico
-- Impresso
-- Banco de Portugal
 - Dados Estatísticos
-- Prestação de Contas
+- Formulário Eletrónico
 - IES
+- Impresso
+- Instituto Nacional de Estatística
+- Prestação de Contas
 relationships:
 - type: amended_by
   target: pt:dre:118562585:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666701:por
+  label: "Mantidos em vigor a folha de rosto e os restantes anexo, pela PORT.64-A/2011.03.02.2011.MFAP, DR.IS [24-Supl] de\
+    \ 03.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/64-a-2011-666701
+  date: '2011-02-03'
+- type: amended_by
+  target: pt:dre:118562585:por
+  label: Mantidos em vigor, para a entrega das declarações relativas aos períodos de 2018 e anteriores, os modelos de impressos
+    ,ora aprovados, bem como os modelos de impressos respeitantes aos Anexos A1, B1, C1, F, G, L a P e T aprovados pelo presente
+    diploma, pelo(a) Portaria n.º 35/2019 - Diário da República n.º 19/2019, Série I de 2019-01-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-2019-118562585
+  date: '2019-01-28'
+- type: amended_by
+  target: pt:dre:176908209:por
+  label: Determinado que para a entrega das declarações dos períodos de 2021 e de 2022, bem como de períodos anteriores e
+    ainda das declarações do período de 2023, quando a entrega deva ocorrer antes de 1 de janeiro de 2024, devem ser utilizados
+    os modelos de impressos Anexo N - IVA e Anexo S - Informação estatística e Anexo T - informação estatística, aprovados
+    pelo presente diploma, pelo(a) Portaria n.º 331-D/2021 - Diário da República n.º 253/2021, 3º Suplemento, Série I de 2021-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-d-2021-176908209
+  date: '2021-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
   label: null
@@ -92,16 +113,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:33Z'
   warnings: []
   errors: []
 ---
@@ -170,6 +203,6 @@ i) Anexo Q - IS - Elementos contabilísticos e fiscais, aprovado por despacho do
 
 4.º As declarações que incluam ficheiros em formato PDF não podem exceder 5 MB.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 14 de Dezembro de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 14 de Dezembro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00200/0006600082.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00200/0006600082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00200/0006600082.pdf)

@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 208/2008, 1º Suplemento, Série I de 2008-10-27
   number: '208'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7566-(2) a 7566-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/20801/0000200002.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1229-a/2008/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1229-a-2008-198293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0824e983f58baa1d3a535b0cc519fdd8051b9fb5dcf736e079b6ab9504fcad8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ee63cb9baef62081854e0cd57317fed2744ddb50ec7f6c0e3ccbbce1d4f9cf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
 - Atividade Agrícola
-- Proder
-- Financiamento
 - Beneficiário
-- Formação Profissional
 - Desenvolvimento Rural
 - Direcção Regional de Agricultura e Pescas
-- Apoio ao Investimento
+- Exploração Agrícola
+- Financiamento
+- Formação Profissional
 - IFAP
 - Jovem Agricultor
-- Exploração Agrícola
 - Pessoa Coletiva
+- Proder
 - Qualificação Profissional
 - Regulamento
 - Sociedade por Quotas
@@ -90,6 +90,13 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287108:por
+  label: "Dada nova redacção ao art. 9º do Regulamento de Aplicação da Acção nº 1.1.3, «Instalação de Jovens Agricultores»,\
+    \ aprovado pela Port 357-A/2008 de 09-Mai, alterado pelo presente diploma, pela PORT.184/2011.05.05.2011.MADRP, DR.IS\
+    \ [87] de 05.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-2011-287108
+  date: '2011-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre
   label: null
@@ -106,16 +113,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/496-a/2008/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/496-a/2008/06/23/p/dre
+- type: cites
+  target: pt:dre:209600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618169:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:41Z'
   warnings: []
   errors: []
 ---
@@ -158,4 +181,4 @@ c) De 1 de Novembro a 31 de Dezembro.
 
 A presente portaria produz efeitos a partir da data de entrada em vigor da [Portaria n.º 357-A/2008](https://diariodarepublica.pt/dr/detalhe/portaria/357-a-2008-618169), de 9 de Maio.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 24 de Outubro de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 24 de Outubro de 2008.

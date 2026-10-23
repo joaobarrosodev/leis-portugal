@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2010/11/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2010-306666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b95620a33df2364627390be31882573facca371fada89a8dc92cefd464e6caa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b566947bc0b7af7fc19cfe0bd7bdff7357a278f3dc1ce22fc251ad48e496d812
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação
-- Garantia
 - Capital Social
 - Contrato de Concessão
-- Ramedm
 - Empreitada de Obras Públicas
-- Rede de Estradas
 - Fiscalização
+- Garantia
+- Madeira.região Autónoma
+- Ramedm
+- Rede de Estradas
+- Serviço Público
 - Tribunal de Contas
 - Viamadeira
-- Serviço Público
-- Madeira.região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2004/01/13/m/dre
@@ -101,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:18Z'
   warnings: []
   errors: []
 ---
@@ -145,11 +165,15 @@ O artigo 8.º e as bases vii, xiii, xiv, xxii, xxvii e xxx, constantes do anexo 
 
 O valor a pagar pela VIAMADEIRA à Região Autónoma da Madeira será satisfeito pelo pagamento dos encargos com a execução das empreitadas de obras públicas relativas à execução das vias rodoviárias constantes do artigo 3.º dos estatutos da VIAMADEIRA, que constituem o anexo i do [Decreto Legislativo Regional n.º 36/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2008-455616), de 14 de Agosto.
 
-###### Base VII — [...]
+Base VII
+
+[...]
 
 As instituições de crédito nacionais ou estrangeiras, financiadoras das actividades da concessão, e com ela relacionadas, nos termos dos contratos de financiamento que estejam identificados no contrato de concessão, constituem, para efeitos da concessão, os bancos financiadores.
 
-###### Base XIII — [...]
+Base XIII
+
+[...]
 
 A concessão terá a duração de 30 anos, contados desde a celebração do contrato de concessão, acrescida do período que decorrer entre a entrada em vigor do decreto legislativo regional que aprova as presentes bases da concessão e a assinatura do contrato.
 
@@ -159,19 +183,25 @@ O contrato de concessão poderá prever soluções específicas para o caso de, 
 
 No caso de se operar a extensão da área da concessão, poderão concedente e concessionária acordar sobre se se mantém o termo da concessão, nos termos definidos nos parágrafos anteriores, ou se, para a parte do objecto que corresponda à extensão, se contarão os 30 anos desde a data da assinatura da alteração ao contrato de concessão.
 
-###### Base XIV — [...]
+Base XIV
+
+[...]
 
 O valor a pagar à Região Autónoma da Madeira é o que constar no contrato de concessão, e será satisfeito unicamente pelo pagamento dos encargos referentes à execução das empreitadas de obras públicas relativas à execução das vias rodoviárias constantes do artigo 3.º dos estatutos da VIAMADEIRA, que constituem o anexo i do [Decreto Legislativo Regional n.º 36/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2008-455616), de 14 de Agosto.
 
 Os encargos relativos à execução das empreitadas referidas no parágrafo anterior terão de perfazer o valor de (euro) 472 600 000, valor esse que será acrescido do que for determinado para a extensão do objecto da concessão entretanto produzida.
 
-###### Base XXII — [...]
+Base XXII
+
+[...]
 
 Qualquer oneração de bens afectos à concessão é proibida, salvo acordo expresso ou tácito dado pela concedente, nos termos estabelecidos no contrato de concessão.
 
 Fica desde já autorizada a oneração de acções representativas do capital social da concessionária, para efeitos de prestação de garantias destinadas à recolha de meios financeiros necessários à execução do contrato.
 
-###### Base XXVII — [...]
+Base XXVII
+
+[...]
 
 A concessionária pode receber, por meio de cessão de posição contratual ou de cessão de posição jurídica da RAMEDM - Estradas da Madeira, S. A., o encargo de executar obra nova, desde que tenha sido respeitado o procedimento pré-contratual legalmente estabelecido pela entidade cedente.
 
@@ -179,7 +209,9 @@ A RAMEDM - Estradas da Madeira, S. A., pode, ainda, desencadear procedimentos pr
 
 A RAMEDM - Estradas da Madeira, S. A., tem de submeter a fiscalização prévia do Tribunal de Contas os contratos de empreitada de obra pública referidos no parágrafo anterior.
 
-###### Base XXX — [...]
+Base XXX
+
+[...]
 
 Para garantir o cumprimento das suas obrigações, a concessionária prestará caução, no montante e com os requisitos de execução incondicional que o contrato de concessão especifique.
 
@@ -197,10 +229,10 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de Novembro de 2010.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 18 de Novembro de 2010.**
+Assinado em 18 de Novembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

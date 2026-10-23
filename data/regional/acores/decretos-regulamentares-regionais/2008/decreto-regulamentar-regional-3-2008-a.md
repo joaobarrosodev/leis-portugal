@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2008/02/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2008-248007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b51d9a6c7aa95a27746dfe4c22af2073e24299ab724d97a8ccfdf02a7fc91e58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca8568796478c9deaf5b6323bcc36a18358ba6b453206fa72e8a9aafbb4dab0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
+- Açores
+- Conselho de Parceiros
 - Contrato Individual de Trabalho
 - Definição de Competências
 - Direção
-- Recrutamento de Pessoal
-- Conselho de Parceiros
+- Fiscal Único
 - Orgânica
 - Presidente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regulamento Interno
 - RIAC
-- Açores
 - Vogal
 relationships:
 - type: cites
@@ -96,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/2004/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/2004/06/22/p/dre
+- type: cites
+  target: pt:dre:272037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: null
 article_structure:
   article_count: 48
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:34Z'
   warnings: []
   errors: []
 ---
@@ -128,11 +144,11 @@ São aprovados a orgânica, o quadro do pessoal que exerce funções de direcç�
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 3 de Janeiro de 2008.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 22 de Janeiro de 2008.**
+Assinado em Angra do Heroísmo em 22 de Janeiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -330,7 +346,7 @@ Em tudo o que não estiver previsto no presente diploma aplica-se o [Decreto Leg
 
 Rede Integrada de Apoio ao Cidadão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03500/0112701135.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03500/0112701135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03500/0112701135.pdf)
 
 ## ANEXO III — REGULAMENTO INTERNO DO PESSOAL EM REGIME DE CONTRATO INDIVIDUAL DE TRABALHO
 

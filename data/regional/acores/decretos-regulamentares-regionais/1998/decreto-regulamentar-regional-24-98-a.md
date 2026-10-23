@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/08/178b00/37643766.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/1998/08/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1998-431206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3dc437164c1433f65d3f1a8b40e9584fb9b2b29492e3700468bef3e109bde097
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb9d90c46dd76cd2660722daf6b7b5bfcd40ad7e2649705893f874e504e154d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional da Agricultura Pescas e Ambiente
+- Açores
 - Carreira Profissional
-- Recrutamento de Pessoal
+- Guarda Florestal
 - Mestre Florestal
 - Orgânica
-- Guarda Florestal
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
-- Açores
+- Secretaria Regional da Agricultura Pescas e Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:146209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223042:por
+  label: "Alterado o art. 2º pelo DRR.26/98/A.1998.10.06.SRAPA-RAA, DR.IS-B [254] de 03/Nov/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-1998-223042
+  date: '1998-10-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/111/1998/04/24/p/dre
   label: null
@@ -96,16 +101,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1269/1993/12/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1269/1993/12/15/p/dre
+- type: cites
+  target: pt:dre:176334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537404:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146209:por
+  label: "Revogado pelo DRR.23/2011/A.21.11.2011.PG-RAA, DR.IS [223] de 21.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2011-146209
+  date: '2011-11-21'
 article_structure:
-  article_count: 12
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:00Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +168,9 @@ Carreira de guarda florestal
 
 A carreira de guarda florestal da Direcção Regional dos Recursos Florestais (DRRF), da Secretaria Regional da Agricultura, Pescas e Ambiente, fica sujeita ao regime específico da carreira de guarda florestal da Direcção-Geral das Florestas (DGF), com as adaptações constantes dos artigos seguintes.
 
-###### Artigo 75-A.º — Competência genérica
+Artigo 75-A.º
+
+Competência genérica
 
 Ao pessoal da carreira de guarda florestal da DRRF, para além da competência genérica atribuída ao pessoal da carreira de guarda florestal da DGF, assegurando na Região todas as acções de polícia florestal, de caça e de pesca nas águas interiores, cabe-lhe, designadamente:
 
@@ -156,7 +188,9 @@ f) Proceder à construção e conservação de caminhos florestais e outras infr
 
 g) Efectuar trabalhos de recuperação de pastagens, sua manutenção e tratamento.
 
-###### Artigo 75-B.º — Estrutura, progressão e escala salarial
+Artigo 75-B.º
+
+Estrutura, progressão e escala salarial
 
 1 - A estrutura da carreira de guarda florestal da DRRF desenvolve-se verticalmente pelas categorias de mestre florestal principal, mestre florestal e guarda florestal, correspondendo-lhe a escala salarial constante do anexo n.º 1 ao [Decreto-Lei n.º 111/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1998-176334), de 24 de Abril.
 
@@ -164,11 +198,15 @@ g) Efectuar trabalhos de recuperação de pastagens, sua manutenção e tratamen
 
 3 - Nos serviços operativos em que esteja afectado pessoal da carreira de guarda florestal em número igual ou superior a cinco poderá ser provido um lugar de mestre florestal coordenador, nos termos definidos no artigo 75.º-D.
 
-###### Artigo 75.º-C — Ingresso e acesso
+Artigo 75.º-C
+
+Ingresso e acesso
 
 O recrutamento para a categoria de guarda florestal faz-se de entre indivíduos habilitados com o 11.º ano de escolaridade ou equivalente e a frequência, com aproveitamento, de estágio, regulamentado pelo [Despacho Normativo n.º 220/93](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/220-1993-325771), de 18 de Novembro, ou por diploma que o substitua, emanado pelo Secretário Regional da Agricultura, Pescas e Ambiente e pelo membro do Governo Regional que tiver a seu cargo a Administração Pública.
 
-###### Artigo 75.º-D — Mestre florestal coordenador
+Artigo 75.º-D
+
+Mestre florestal coordenador
 
 1 - Ao mestre florestal coordenador, para além das funções específicas de polícia enunciadas no artigo 75.º-A, cabe, designadamente, a coordenação, orientação e superintendência da actuação dos guardas e mestres florestais afectos ao respectivo serviço operativo, no respeito pelas orientações da DRRF e do dirigente máximo do serviço.
 
@@ -178,17 +216,23 @@ O recrutamento para a categoria de guarda florestal faz-se de entre indivíduos 
 
 4 - Os mestres florestais coordenadores são remunerados pelo índice correspondente ao escalão imediatamente superior ao que detêm na categoria de origem, salvo se estiverem providos no último escalão, caso em que são remunerados pelo índice 345.
 
-###### Artigo 75.º-E — Domicílio profissional
+Artigo 75.º-E
+
+Domicílio profissional
 
 Para todos os efeitos, considera-se como domicílio profissional do pessoal da carreira de guarda florestal da DRRF a área geográfica correspondente à ilha onde o funcionário exerce as suas funções.
 
-###### Artigo 75.º-F — Patrocínio judiciário
+Artigo 75.º-F
+
+Patrocínio judiciário
 
 1 - O pessoal da carreira de guarda florestal, quando arguido em processo judicial por actos cometidos ou ocorridos no exercício e por causa das suas funções, tem direito a ser assistido por advogado retribuído a expensas da Região, através da DRRF, bem como a transporte e ajudas de custo, quando a localização do tribunal ou das entidades policiais o justifique.
 
 2 - O advogado referido no número anterior é indicado pela DRRF, ouvido o interessado.
 
-###### Artigo 75.º-G — Fardamento
+Artigo 75.º-G
+
+Fardamento
 
 O pessoal da carreira de guarda florestal da DRRF no exercício das suas funções e o pessoal em regime de estágio são obrigados a apresentar-se devidamente fardados, em termos a definir por portaria do Secretário Regional da Agricultura, Pescas e Ambiente.»
 
@@ -216,10 +260,10 @@ O pagamento dos montantes financeiros inerentes à aplicação retroactiva do pr
 
 Aprovado em Conselho do Governo Regional, em Madalena, Pico, em 5 de Junho de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em 17 de Julho de 1998.**
+Assinado em 17 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

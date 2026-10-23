@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/20/2009/11/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/20-2009-482595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df4e32010cd4ba8733de7c39a12aad497b23fa4b51d3a49ca027008cc37dab98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4784d27f53e3e73f17b519d2f09c16a02f41fb1a1839f43ddd2cad1e25df2a0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Comissão de Inquérito
-- Responsabilidade Civil
 - Açores
+- Comissão de Inquérito
+- Embarcação
+- Responsabilidade Civil
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:20Z'
   warnings: []
   errors: []
 ---
@@ -135,4 +135,4 @@ A natureza, conteúdo, âmbito, extensão e forma da relação estabelecida entr
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 29 de Outubro de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.

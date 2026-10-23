@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/04000/0134801350.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/222/2009/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/222-2009-604592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b846d176ca2f5bbd32310fa0b269a02a97994930bcdcf0d1cf18274821d7733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47fd946f8f6e5c01b608d4452adb6162c459827e4621718afc077ca577e8d3c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Sistema de Controlo Interno
-- Centro de Estudos Judiciários
-- Pessoal Dirigente
-- Comissão Paritária
 - Administração Pública
-- SIADAP
-- Publicitação
+- Avaliação do Pessoal
+- Centro de Estudos Judiciários
+- Comissão Paritária
+- Função Pública
+- Funcionário Público
+- Pessoal Dirigente
 - Progressão na Carreira
 - Promoção Profissional
+- Publicitação
 - Reclamação
-- Avaliação do Pessoal
-- Funcionário Público
+- SIADAP
+- Sistema de Controlo Interno
 relationships:
 - type: amended_by
   target: pt:dre:1142816978:por
@@ -97,16 +97,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2007/12/28/p/dre
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1142816978:por
+  label: Revogada, a partir de 1 de julho de 2026, pelo(a) Portaria n.º 282-C/2026/1 - Diário da República n.º 124/2026, Suplemento,
+    Série I de 2026-06-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-c-2026-1142816978
+  date: '2026-06-30'
 article_structure:
   article_count: 15
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:53Z'
   warnings: []
   errors: []
 ---
@@ -215,4 +233,4 @@ A presente portaria pode ser revista decorrido o prazo de dois anos a contar da 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Fevereiro de 2009. - O Ministro da Justiça, Alberto Bernardes Costa, em 20 de Fevereiro de 2009.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Fevereiro de 2009. - O Ministro da Justiça, Alberto Bernardes Costa, em 20 de Fevereiro de 2009.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/1994/07/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1994-291222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d5d96ca0193c7e18a91af7518c5ccdcfe4bb5beee05f92299880a0a7ab459f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25ee127e2ddc595e1b687711319b167d89d29f2741a160b874d7eeec11ee6f94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajudas de Custo
-- Parlamentar
 - Assembleia Legislativa Regional
 - Cargo Público
+- Parlamentar
 - Remuneração
-- Açores
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:419650:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:28Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +103,9 @@ Por outro lado, a experiência colhida ao longo da vigência do [Decreto Legisla
 
 Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e do artigo 31.º e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo 1.º Os artigos 5.º e 6.º do [Decreto Legislativo Regional n.º 10/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1987-419650), de 24 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 5.º e 6.º do [Decreto Legislativo Regional n.º 10/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1987-419650), de 24 de Junho, passam a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - Os deputados à Assembleia Legislativa Regional percebem mensalmente um vencimento correspondente ao dos deputados à Assembleia da República, deduzida a percentagem de 3,5%.
+Art. 5.º - 1 - Os deputados à Assembleia Legislativa Regional percebem mensalmente um vencimento correspondente ao dos deputados à Assembleia da República, deduzida a percentagem de 3,5%.
 
 2 - ...
 
@@ -109,16 +113,16 @@ Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alí
 
 4 - ...
 
-###### Art. 6.º - 1 - O critério de atribuição de ajudas de custo aos deputados à Assembleia Legislativa Regional, nos termos legais em vigor, será fixado por deliberação da Assembleia Legislativa Regional, distinguindo-se a situação dos que residam na ilha onde se realizam as reuniões ou fora dela.
+Art. 6.º - 1 - O critério de atribuição de ajudas de custo aos deputados à Assembleia Legislativa Regional, nos termos legais em vigor, será fixado por deliberação da Assembleia Legislativa Regional, distinguindo-se a situação dos que residam na ilha onde se realizam as reuniões ou fora dela.
 
-###### Art. 2.º O presente diploma entra em vigor na data da sua publicação.
+Art. 2.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 19 de Maio de 1994.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 14 de Junho de 1994.**
+Assinado em Angra do Heroísmo em 14 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

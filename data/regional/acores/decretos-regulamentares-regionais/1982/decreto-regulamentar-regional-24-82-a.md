@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/16500/21632163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1982-394149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 033adb3c6ea32bb0d8fefd48fe5749343ad46e407dd67ca7de5ec1548f72faa5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f10708fc9913200d708ca6a3b8513a1e64b8f818e66004e3b3de1ccb75379746
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Horas Extraordinárias
+- Horta
+- Junta Autónoma do Porto da Horta
+- Junta Autónoma do Porto de Angra do Heroísmo
+- Junta Autónoma do Porto de Ponta Delgada
+- Junta Autónoma dos Portos
+- Ponta Delgada
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:671590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579967:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:671590:por
+  label: "Revogado pelo DLR.24/2011/A.22.08.2011.AL-RAA, DR.IS [160] de 22.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2011-671590
+  date: '2011-08-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:42Z'
   warnings: []
   errors: []
 ---
@@ -97,18 +128,18 @@ Assim, considerando que por força do [Decreto-Lei n.º 326/79](https://diarioda
 
 O Governo Regional dos Açores decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º As disposições do capítulo III do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, não são aplicáveis ao pessoal afecto ao sector de produção das juntas portuárias.
+Artigo 1.º As disposições do capítulo III do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio, não são aplicáveis ao pessoal afecto ao sector de produção das juntas portuárias.
 
-###### Art. 2.º As administrações das Juntas Autónomas dos Portos de Angra do Heroísmo, Horta e Ponta Delgada ficam autorizadas a remunerar o pessoal ali em serviço por trabalho extraordinário, até ao limite de 100% do vencimento base.
+Art. 2.º As administrações das Juntas Autónomas dos Portos de Angra do Heroísmo, Horta e Ponta Delgada ficam autorizadas a remunerar o pessoal ali em serviço por trabalho extraordinário, até ao limite de 100% do vencimento base.
 
-###### Art. 3.º O presente diploma produz efeitos desde 1 de Janeiro de 1982.
+Art. 3.º O presente diploma produz efeitos desde 1 de Janeiro de 1982.
 
 Aprovado em Conselho em 20 de Abril de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 30 de Junho de 1982.**
+Assinado em Angra do Heroísmo em 30 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

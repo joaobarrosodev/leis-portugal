@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/2023/07/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-215798228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f2a665c828b84bb2fd269119d943bcaa42400f4a8505efa2698576f44470d5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 276efa87b82dc4b1cb44f6635da42746adaaec3a7ed6ca46055852d8342ecd14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
-- Ordenamento do Território
-- Saúde Pública
-- Resíduo
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Plano de Gestão de Resíduos
-- Política do Ambiente
 - Açores
 - Eliminação de Resíduos
+- Gestão de Resíduos
+- Ordenamento do Território
+- Plano de Gestão de Resíduos
+- Política do Ambiente
+- Proteção do Ambiente
+- Resíduo
+- Saúde Pública
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: celex:31994L0062
@@ -164,16 +164,76 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/2019
   label: null
   source: http://data.europa.eu/eli/dir/2019
+- type: cites
+  target: pt:dre:146215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150908012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:154820684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169360995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67085605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73986213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74243464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75468668:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:03Z'
   warnings: []
   errors: []
 ---
@@ -226,11 +286,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de junho de 2023.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 7 de julho de 2023.**
+Assinado em Angra do Heroísmo em 7 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -584,15 +644,15 @@ No presente capítulo, são apresentados os documentos que reúnem os objetivos 
 
 Tabela 1: Quadro de Referência Estratégico - Documentos Internacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 2: Quadro de Referência Estratégico - Documentos Nacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 3: Quadro de Referência Estratégico - Documentos Regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Importa ainda salientar a revisão dos referenciais associados ao quadro de financiamento 2014-2020, designadamente os diversos programas operacionais regionais e setoriais, principais linhas de orientação e estratégicas, bem como eixos de financiamento, uma vez que este ciclo está a finalizar-se.
 
@@ -628,7 +688,7 @@ Assim, na tabela seguinte, é apresentada a relação entre cada um destes instr
 
 Tabela 4: Matriz de correlação entre os objetivos do PEPGRA 20+ e o QRE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 4 - Caraterização e diagnóstico
 
@@ -650,17 +710,17 @@ Com a publicação da Portaria n.º 1879/2017, de 19 de dezembro, que define as 
 
 Em 2018, verificou-se um aumento exponencial do número de utilizadores do SRIR, devido à entrada em vigor das e-GAR. Em 2020, estavam inscritos no SRIR 14 322 utilizadores. Na figura 1, apresenta-se a evolução do número de utilizadores do SRIR desde 2014.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Com o aumento do número de utilizadores do SRIR e com a consciencialização ambiental de todos os intervenientes no ciclo da gestão de resíduos, verificou-se um aumento significativo do número de mapas com a informação da produção e encaminhamento dos resíduos submetidos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Os mapas com a informação da produção e encaminhamento dos resíduos são submetidos anualmente pelas diversas entidades inscritas no SRIR, nomeadamente pelos produtores de resíduos, operadores de gestão de resíduos, entidades responsáveis por sistemas de gestão, departamentos e serviços da administração regional autónoma e entidades que operem instalações de qualquer natureza, sujeitas ao regime jurídico de avaliação e licenciamento ambiental.
 
 As e-GARs emitidas diariamente no SRIR permitem o acompanhamento do transporte rodoviário, marítimo e aéreo de resíduos, desde o produtor até ao seu destino final adequado, de forma desmaterializada. Na figura seguinte apresenta-se a evolução do número de e-GARs emitidas na RAA, desde 2018.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Em 2018, ano de implementação, o número de e-GARs emitidas foi de 84 321, das quais 91 % foram validadas e concluídas. As restantes guias foram anuladas, rejeitadas ou não foram concluídas.
 
@@ -690,11 +750,11 @@ De acordo com a alínea c) do n.º 1 do artigo 98.º do [Decreto Legislativo Reg
 
 No final de 2020, estavam licenciados 68 OGR, sendo a sua distribuição por ilha apresentada na figura seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 A evolução do número de operadores por ilha, conforme é possível observar na figura 5, varia de forma inconstante ao longo dos anos e nem sempre de forma positiva, o que decorre da caducidade ou pedido de cessação da atividade pelo titular. Não obstante de atualmente existirem menos OGR licenciados, a qualidade dos serviços prestados tem sido constantemente melhorada e aperfeiçoada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 4.2 - Resíduos urbanos
 
@@ -706,7 +766,7 @@ A partir de 2019, a definição de «resíduo urbano» sofreu algumas alteraçõ
 
 Na figura seguinte é apresentada a evolução da produção anual de resíduos urbanos (RU) desde 2014, na RAA, bem como a capitação diária correspondente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Em 2019, a produção de RU seguiu a tendência de aumento retomada em 2016.
 
@@ -714,11 +774,11 @@ Em 2020, a produção de RU diminuiu, em resultado da situação pandémica (COV
 
 Na figura seguinte é apresentada a evolução da produção de RU por ilha desde 2014.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Quando se analisam os resultados da produção per capita de RU, verificam-se algumas assimetrias por ilha, com a produção anual a variar entre um valor mínimo de 420 kg em São Jorge e um valor máximo de 632 kg em São Miguel, considerando os valores obtidos no ano de 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Apesar da diminuição da produção de RU em 2020, nos últimos anos, o incremento da procura turística na RAA fez com que as medidas de prevenção assumissem um papel fulcral, de forma a evitar aumentos mais significativos de produção de resíduos.
 
@@ -726,7 +786,7 @@ Na RAA, as normas técnicas relativas à caraterização de resíduos urbanos, n
 
 Os dados apresentados na figura seguinte são relativos à caraterização dos resíduos indiferenciados, obtidos em 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 A análise da caraterização física revela que, em 2020, a fração de resíduos recicláveis presentes nos resíduos urbanos indiferenciados, produzidos na RAA, foi de 75,1 %. Os resíduos urbanos biodegradáveis (RUB) continuam a ter um peso expressivo nos RU indiferenciados, tendo representado 47,3 % destes.
 
@@ -734,13 +794,13 @@ No que diz respeito ao encaminhamento, a RAA tem progredido significativamente n
 
 Essa tendência tem-se vindo a acentuar, sobretudo desde 2016, em linha com a estratégia regional plasmada no PEPGRA. A instalação dos CPR e a selagem e requalificação ambiental e paisagística das lixeiras e aterros nas ilhas com menor população foram fundamentais para a mudança de paradigma na gestão dos RU na RAA, tal como se pode verificar na figura seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Os dados mostram uma evolução positiva do tratamento de RU na RAA, embora com contributos distintos das diferentes ilhas, verificando-se que a partir de 2018 há uma estabilização dos dados de valorização versus eliminação, o que demonstra que as ilhas Terceira e São Miguel são determinantes para a alteração do panorama atual.
 
 Na figura seguinte, apresentam-se os valores referentes às operações de tratamento de RU em cada uma das ilhas, em 2020, de forma a se compreender melhor o contributo de cada uma nos resultados obtidos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Em 2020, verificou-se um ligeiro retrocesso nas quantidades de RU encaminhados para eliminação nas ilhas com menor população, devido à situação pandémica ao longo de 2020, tendo sido necessário proceder à eliminação de RU contaminados com o COVID-19, devido à suspensão do Tratamento Mecânico e Biológico (TMB), por questões de segurança e saúde pública.
 
@@ -748,7 +808,7 @@ No entanto, é de salientar que, em 2019, as sete ilhas com menor população (F
 
 Na figura seguinte, apresenta-se a evolução das retomas de resíduos de embalagens, no âmbito do Sistema Integrado de Gestão de Resíduos de Embalagens (SIGRE), no período compreendido entre 2014 e 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 A reciclagem de resíduos de embalagens promovida pelos sistemas de gestão de resíduos urbanos (SGRU) da RAA, através das três entidades gestoras de resíduos de embalagens (NOVO VERDE, SPV e Eletrão), tem vindo a apresentar um crescimento significativo ao longo dos anos, atingindo em 2020 uma capitação média anual de 65,5 kg por habitante.
 
@@ -760,23 +820,23 @@ Com vista ao alcance da referida meta, o PEPGRA impôs objetivos de reutilizaç�
 
 Para a aferição do cumprimento da referida meta, o PEPGRA adotou o «Método de cálculo 2», previsto no anexo i da [Decisão n.º 753/2011/UE](http://data.europa.eu/eli/dec/2011/753/oj?locale=pt) da Comissão, de 18 de novembro, e que consta da figura seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Na figura seguinte, apresenta-se a evolução da taxa de preparação para a reutilização e reciclagem de RU na RAA, comparando com a meta regional estabelecida no PEPGRA para o ano de 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Na figura 15, apresentam-se os dados relativos às taxas de preparação para reutilização e de reciclagem, em cada uma das ilhas da RAA, no ano de 2020, comparando os mesmos com as metas específicas fixadas no PEPGRA para 2020.
 
 Nas ilhas com mais população, esta meta não foi atingida. Já nas ilhas com menos população, a meta foi atingida e até ultrapassada, tendo para isso contribuído o processo minucioso de TMB, que, pelas reduzidas quantidades de produção de RU indiferenciados, permite retirar uma elevada quantidade de resíduos para a valorização material e orgânica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 De acordo com o artigo 238.º do [Decreto Legislativo Regional n.º 29/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2011-146215), de 16 de novembro, os RUB destinados a aterro deveriam ter sido reduzidos, até 31 de julho de 2020, para 35 % da quantidade total, em peso, dos RUB produzidos em 1995. No PEPGRA foi estipulada uma quantidade máxima de 16 216 toneladas de RUB eliminados em aterro na RAA, correspondente a 35 % da quantidade de referência.
 
 Na figura 16, é demonstrada a evolução da deposição de RUB em aterro na RAA, comparando-a com a meta regional fixada no PEPGRA para o ano de 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Até 2015, as quantidades de RUB eliminados em aterro, na RAA, foram sempre superiores ao quantitativo de referência, isto é, à produção estimada do ano de 1995 (46 330 toneladas).
 
@@ -800,13 +860,13 @@ Relativamente aos RH perigosos, pertencentes ao Grupo III e IV, até 2019, a qua
 
 De referir que os Grupos I e II, não perigosos, são incluídos no circuito urbano, pelo que a informação não se encontra incluída no tratamento de informação deste capítulo. No que diz respeito aos RH de saúde animal, estes representam aproximadamente 3 % (em 2020) dos valores apresentados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Ao nível do tratamento desta tipologia de resíduos, a partir de 2016, verificou-se uma mudança significativa, diminuindo substancialmente a sua deposição em aterro. Na figura seguinte apresenta-se a evolução das operações de tratamento dos RH.
 
 De referir que relativamente ao tratamento dos RH, os do Grupo III são reencaminhados para tratamentos por autoclavagem ou por descontaminação com germicida. Após estes tratamentos, os RH do Grupo III são eliminados como resíduos equiparados a urbanos (eliminação e/ou valorização energética na RAA). Os resíduos do Grupo IV são enviados na sua totalidade para incineração fora da RAA, tendo em conta que a incineração realizada na ilha Terceira não garante as temperaturas exigidas pela legislação para a eliminação desta tipologia de resíduos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 O encaminhamento dos RH para valorização energética, na RAA, foi possibilitado com a entrada em funcionamento da CVE na ilha Terceira, conjugada com as operações de autoclavagem e desinfeção química, realizadas por operadores de gestão de resíduos devidamente licenciados.
 
@@ -820,7 +880,7 @@ De referir que os RCD, além de apresentarem quantidades significativas, apresen
 
 Estes materiais encontram-se muitas vezes misturados entre si, o que pode prejudicar a sua adequada gestão. Não obstante, grande parte dos materiais que os constituem podem ser reutilizados ou reciclados, apresentando um grande potencial de valorização. Em algumas situações, estes resíduos podem ainda apresentar contaminação por substâncias perigosas, como é o caso do alcatrão, amianto ou PCB.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 A partir de 2015, verificou-se uma melhoria significativa no reporte de informação à autoridade ambiental no que diz respeito à produção e gestão de RCD, bem como uma melhoria na classificação correta do código LER correspondente, o que resultou numa variação significativa dos dados relativamente ao ano anterior.
 
@@ -828,11 +888,11 @@ Não obstante, apesar das melhorias significativas no que diz respeito à gestã
 
 Na figura seguinte é apresentada a distribuição dos RCD tendo em conta os grupos apresentados no anexo iii para o ano 2020, na RAA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Relativamente às operações de tratamento de RCD produzidos, tal como é evidenciado na figura seguinte, este fluxo apresenta grande potencial de valorização, quer seja através da reutilização das matérias inorgânicas em outras obras, através da britagem ou encaminhamento para valorização material noutros operadores de gestão de resíduos, ou para outras finalidades além da construção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 O artigo 239.º do [Decreto Legislativo Regional n.º 29/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2011-146215), de 16 de novembro, definiu que a RAA deveria ter um aumento mínimo global para 70 %, em peso, relativamente à preparação para a reutilização, a reciclagem e outras formas de valorização material, incluindo operações de enchimento que utilizem resíduos como substituto de outros materiais, resíduos de construção e demolição não perigosos, com exclusão dos materiais naturais definidos na categoria 17 05 04 da LER, até 31 de dezembro de 2020.
 
@@ -840,7 +900,7 @@ Tal como mencionado para a meta de preparação para a reutilização e reciclag
 
 Como se pode verificar na figura seguinte, apesar de ter havido uma diminuição do valor atingido em 2020 relativamente ao ano anterior, o valor absoluto é elevado, demonstrando assim a eficiência da reutilização e reciclagem do setor da construção.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Resíduos industriais
 
@@ -850,17 +910,17 @@ A composição dos RI depende do tipo de indústria produtora e pode incluir mat
 
 Na figura seguinte apresenta-se a evolução da produção ao longo dos últimos anos, deste setor.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Na sequência da situação pandémica, que levou à diminuição da atividade industrial, a produção de RI, em 2020, diminuiu significativamente.
 
 Tal como se pode verificar na figura 24, na RAA, as indústrias transformadoras de laticínios, carne, peixe e outros setores primários são as responsáveis pela maior produção de RI. Segue-se a indústria de produção de eletricidade, do gás e da distribuição e a indústria dos alojamentos, da restauração e similares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 No que diz respeito às operações de tratamento dos RI, tal como se pode verificar através da figura seguinte, os setores produtores desta tipologia de resíduos estão sensibilizados para o devido encaminhamento dos resíduos, permitindo taxas de valorização elevadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Resíduos agrícolas e florestais
 
@@ -870,7 +930,7 @@ Tal como já referenciado no PEPGRA, o grau de conhecimento relativamente à pro
 
 A partir de 2015, conforme é possível observar na figura 26, verificou-se uma melhoria significativa da quantidade e qualidade de informação declarada nos sistemas de reporte, consequência de uma maior sensibilização dos produtores associados à atividade em questão, sendo necessária a sua continuidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tendo em conta a informação disponível, em 2020, cerca de 81 % dos resíduos agrícolas e florestais corresponde a resíduos plásticos, onde se podem enquadrar os rolos agrícolas, sacas de adubos e de ração e tubos de PVC. A restante fração está associada a resíduos biodegradáveis (podas e sobrantes vegetais) e a excedentes fitofarmacêuticos.
 
@@ -878,7 +938,7 @@ Relativamente às operações de tratamento de resíduos agrícolas e florestais
 
 Relativamente à fração biodegradável, na grande maioria das ilhas, esta é valorizada de forma orgânica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Nos quantitativos apresentados anteriormente não estão contabilizadas as biomassas florestais e agrícolas que são valorizadas por compostagem, reutilizadas como matéria-prima para processo de produção e/ou eliminadas por queima na exploração pelo produtor. Estas quantidades não são reportadas à autoridade ambiental uma vez que estas operações estão dispensadas de licenciamento.
 
@@ -904,19 +964,19 @@ Na figura 28, apresenta-se a evolução da produção de fluxos específicos de 
 
 - Outras Embalagens - resíduos de embalagens provenientes de circuitos específicos, como é o caso das embalagens dos produtos fitofarmacêuticos bem como das embalagens de medicamentos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tal como se pode verificar na figura anterior, a produção ao longo dos anos varia de fluxo para fluxo. No caso dos VFV e REEE, tem havido um aumento sucessivo.
 
 Nas figuras seguintes apresentam-se a evolução do encaminhamento para operações de valorização e eliminação e a evolução da produção dos fluxos específicos acima descritos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 A evolução das operações de tratamento tem sido positiva, com percentagens de valorização acima dos 80 %, após 2015.
 
 Verifica-se também um aumento nas quantidades produzidas ao longo dos últimos anos, com um ligeiro decréscimo em 2017, sendo distinto o contributo dos diferentes fluxos para os totais apresentados na figura seguinte, em que os pneus usados representam a maior fração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 4.5 - Análise SWOT
 
@@ -1096,7 +1156,7 @@ Ainda como forma de avaliar o cumprimento do OE.1 foram também definidas como M
 
 Tabela 5: Indicadores do Objetivo Estratégico 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 A contínua melhoria da gestão de resíduos, para que sejam atingidos níveis de sustentabilidade mais elevados, revela ser necessário reforçar os sistemas de recolha e garantir que estes incentivem os produtores a separar na origem, de forma a que sejam obtidas matérias de maior qualidade com vista à sua valorização.
 
@@ -1104,7 +1164,7 @@ Neste âmbito, o OE.2 preconiza medidas que visam contribuir para reduzir a quan
 
 Tabela 6: Indicadores do Objetivo Estratégico 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 De referir que o indicador I.4 apresentado na tabela anterior será determinado de acordo com a metodologia publicada e aprovada pela [Decisão de Execução 2019/1885](http://data.europa.eu/eli/dec/2019/1885/oj?locale=pt), da Comissão, de 6 de novembro, e de acordo com a [Diretiva 2018/850](http://data.europa.eu/eli/dir/2018/850/oj?locale=pt), do Parlamento Europeu e do Conselho, de 30 de maio, relativa à deposição de resíduos em aterro.
 
@@ -1114,11 +1174,11 @@ O OE.3 visa a implementação de medidas que contribuam para a economia circular
 
 Tabela 7: Indicadores do Objetivo Estratégico 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 De referir que o I.8 apresentado na tabela anterior será determinado de acordo com a metodologia publicada e aprovada pela [Diretiva 2018/851](http://data.europa.eu/eli/dir/2018/851/oj?locale=pt), do Parlamento Europeu e do Conselho, de 30 de maio. Assim, o PEPGRA 20+ adota o seguinte método de cálculo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Esta metodologia de cálculo da taxa de preparação para a reutilização e reciclagem é diferente da adotada pelo PEPGRA, uma vez que através do Método 2 anteriormente utilizado considerava-se algumas frações constituintes do fluxo urbano. Para os anos 2025, 2030 e 2035, a metodologia contabiliza todas as tipologias de resíduos urbanos.
 
@@ -1134,7 +1194,7 @@ Foram estabelecidas metas estratégicas específicas por ilha, de forma a refor�
 
 Tabela 8: Meta Estratégica Especifica por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 6 - Medidas estratégicas de gestão de resíduos
 
@@ -1142,13 +1202,13 @@ As Medidas Estratégicas (M) de gestão de resíduos para a RAA, definidas no pr
 
 As medidas definidas foram agrupadas por Áreas Estratégicas (AE), de acordo com o esquema da figura que se apresenta de seguida. A AE.1 visa promover medidas de prevenção de resíduos, quer quanto à sua quantidade, quer quanto à sua perigosidade. A AE.2 contempla medidas direcionadas para os resíduos urbanos e a AE.3 contempla medidas para resíduos não urbanos. A AE.4 pretende definir um conjunto de medidas que promovam a sustentabilidade técnica, económica e financeira da gestão de resíduos urbanos e não urbanos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 De seguida apresenta-se a lista de entidades responsáveis/envolvidas na execução das medidas e respetivas abreviaturas.
 
 Tabela 9: Lista de entidades responsáveis e envolvidas nas medidas estratégicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Para cada uma das Medidas Estratégicas definidas são apresentadas as seguintes informações:
 
@@ -1164,19 +1224,19 @@ Para cada uma das Medidas Estratégicas definidas são apresentadas as seguintes
 
 Tabela 10: Medidas estratégicas de prevenção da produção e da perigosidade de resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 11: Medidas estratégicas para a gestão e circularidade de resíduos urbanos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 12: Medidas estratégicas para a gestão e circularidade de resíduos não urbanos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 13: Medidas estratégicas para a sustentabilidade técnica, económica e financeira da gestão de resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 7 - Monitorização e avaliação
 
@@ -1214,7 +1274,7 @@ c) Em caso de incumprimento ou cumprimento insuficiente e/ou incorreto da execu�
 
 Será realizada uma análise crítica sobre a implementação das medidas estratégicas, nomeadamente na sua tendência de evolução crescente. Estas serão avaliadas recorrendo-se a um esquema de cores que indica o nível de implementação/execução das mesmas, segundo a seguinte legenda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Procedimento de avaliação intercalar
 
@@ -1252,7 +1312,7 @@ De acordo com o disposto na alínea a) do n.º 1 do artigo 3.º do [Decreto Legi
 
 O processo de participação e consulta pública do PEPGRA 20+ e da AAE será efetuado simultaneamente de acordo com o seguinte esquema.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 ANEXOS
 
@@ -1260,55 +1320,55 @@ ANEXOS
 
 Tabela 14: Evolução da produção de RU por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 15: Evolução da população por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 16: Evolução da valorização material por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 17: Evolução da valorização orgânica por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 18: Evolução da valorização energética por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 19: Evolução da eliminação em aterro por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 ## ANEXO II — Resíduos setoriais - Códigos LER
 
 Tabela 20: Códigos LER dos resíduos hospitalares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Tabela 21: Códigos LER dos resíduos agrícolas e florestais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 ## ANEXO III — Resíduos de construção e demolição
 
 Tabela 22: Códigos LER dos resíduos de construção e demolição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 ## ANEXO IV — Entidades gestoras de fluxos específicos
 
 Tabela 23: Entidades Gestoras de Fluxos Específicos de Resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 ## ANEXO V — Dados de fluxos específicos de resíduos
 
 Tabela 24: Produção anual de fluxos específicos de resíduos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 ## ANEXO VI — Análise prospetiva dos resíduos urbanos
 
@@ -1330,14 +1390,16 @@ Tendo em conta o histórico do comportamento da produção de RU na Região, con
 
 Face ao exposto anteriormente, considera-se que a projeção que poderá representar de forma mais aproximada o comportamento da produção de resíduos urbanos para o período de 2021 a 2035 será a que recorre à regressão não linear - logarítmica, que se apresenta de seguida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 No gráfico seguinte é possível verificar o comportamento estimado da valorização material e orgânica, bem como a evolução da eliminação de resíduos urbanos em aterro, tendo em conta a projeção de produção de resíduos urbanos apresentada anteriormente. Estes dados foram usados para definir a meta da taxa de preparação para a reutilização e reciclagem, identificada na tabela 7, e a meta do desvio de resíduos de aterro, identificada na tabela 6.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf))](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/13800/0000300055.pdf)
 
 Com a apresentação deste cenário, é possível verificar que, para atingirmos as respetivas metas, a Região terá de realizar uma mudança significativa no tratamento dos seus resíduos urbanos. Para isso, é fundamental apostar na sensibilização da população, criar mecanismos que otimizem a recolha/entrega seletiva dos resíduos, de forma a maximizar o encaminhamento dos resíduos para reciclagem e criar ferramentas de reutilização.
 
 Para alcançar a meta relacionada com a variável «Valorização Material», será necessário proceder a alterações nos sistemas da ilha de São Miguel e da ilha Terceira, uma vez que nas ilhas com menor população os sistemas já estão otimizados praticamente ao máximo, em termos de valorização dos resíduos urbanos.
 
 A partir de 2027, a Região terá de realizar um esforço maior em termos de quantitativos, uma vez que a metodologia de cálculo passa a incluir apenas os biorresíduos provenientes da recolha seletiva ou separados na origem.
+
+116653296

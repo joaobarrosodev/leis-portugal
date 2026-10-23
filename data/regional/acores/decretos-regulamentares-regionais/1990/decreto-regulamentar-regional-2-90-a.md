@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1990-333553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8088853a8fec7a88f4a91a8ea0c212e052606fbfc77597591b4212e0d3536d63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e951303f68561b60cc8aad10bba6a452b005a951a15ea08c9698699fdfeb171b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+relationships:
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496889:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:37Z'
   warnings: []
   errors: []
 ---
@@ -90,32 +100,32 @@ Acresce a tal facto a necessidade de compatibilizar as contas públicas regionai
 
 Assim, e em execução do disposto nos artigos 18.º e 22.º do [Decreto Regional n.º 3/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1978-447894), de 18 de Janeiro, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º Os códigos e rubricas de classificação económica das receitas e despesas públicas são os que constam dos mapas I e II anexos ao presente diploma, que dele fazem parte integrante.
+Artigo 1.º Os códigos e rubricas de classificação económica das receitas e despesas públicas são os que constam dos mapas I e II anexos ao presente diploma, que dele fazem parte integrante.
 
-###### Art. 2.º Os códigos e rubricas de classificação económica a que se refere o artigo anterior aplicam-se ao orçamento da Região Autónoma dos Açores e aos orçamentos privativos dos fundos e serviços autónomos da administração regional autónoma.
+Art. 2.º Os códigos e rubricas de classificação económica a que se refere o artigo anterior aplicam-se ao orçamento da Região Autónoma dos Açores e aos orçamentos privativos dos fundos e serviços autónomos da administração regional autónoma.
 
-###### Art. 3.º Os códigos e rubricas mencionados nos artigos anteriores serão utilizados na elaboração dos orçamentos para o ano de 1990.
+Art. 3.º Os códigos e rubricas mencionados nos artigos anteriores serão utilizados na elaboração dos orçamentos para o ano de 1990.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 12 de Outubro de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 29 de Dezembro de 1989.**
+Assinado em Angra do Heroísmo em 29 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 MAPA I
 
 Classificação económica das receitas públicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01300/02330236.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01300/02330236.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/01300/02330236.pdf)
 
 MAPA II
 
 Classificação económica das despesas públicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01300/02330236.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01300/02330236.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/01300/02330236.pdf)

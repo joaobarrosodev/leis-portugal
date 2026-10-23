@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/05/12400/19751976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1983-451652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42124f897243bbacbdc1c57fa1680965daa1c7737a5a9f2efb79bcd4750b63cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a783e0ea937030e2f4236c795323a3e9214dbcb3c994cbac56ada80cef241236
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Centro de Prestações Pecuniárias de Segurança Social
+- Descentralização
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:667688:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:474082:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667688:por
+  label: "Revogado pelo DRR.23/2003/A.17.06.2003.PG-RAA, DR.IS-B [157] de 10.07.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2003-667688
+  date: '2003-06-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:56Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +107,9 @@ Verifica-se agora que é indispensável regulamentar, com pormenor, as atribuiç
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º As secções de apoio e coordenação de serviços terminais e de serviço externo e fiscalização dependem directamente do conselho administrativo do centro de prestações pecuniárias de segurança social em que se integram, dispondo os seus funcionários, em exercício de funções, de poderes de autoridade.
+Artigo 1.º As secções de apoio e coordenação de serviços terminais e de serviço externo e fiscalização dependem directamente do conselho administrativo do centro de prestações pecuniárias de segurança social em que se integram, dispondo os seus funcionários, em exercício de funções, de poderes de autoridade.
 
-###### Art. 2.º - 1 - São atribuições específicas das secções de apoio e coordenação de serviços terminais e de serviço externo e fiscalização:
+Art. 2.º - 1 - São atribuições específicas das secções de apoio e coordenação de serviços terminais e de serviço externo e fiscalização:
 
 a) Assegurar a informação externa necessária aos utentes e contribuintes, de forma a garantir o conhecimento por parte destes dos seus direitos e deveres face ao sistema de segurança social;
 
@@ -110,7 +123,7 @@ e) Apoiar e coordenar os serviços terminais, velando pelo cumprimento da legisl
 
 2 - Os centros de prestações pecuniárias de segurança social, para o exercício das atribuições referidas no número anterior, podem solicitar aos serviços competentes da Secretaria Regional do Trabalho e às repartições de finanças, bem como a outros departamentos públicos, a colaboração que tiverem por necessária, prestando-lhes também os elementos que lhes forem solicitados.
 
-###### Art. 3.º No exercício das suas funções e desde que devidamente identificados compete aos funcionários das secções de apoio e coordenação de serviços terminais e de serviço externo e fiscalização:
+Art. 3.º No exercício das suas funções e desde que devidamente identificados compete aos funcionários das secções de apoio e coordenação de serviços terminais e de serviço externo e fiscalização:
 
 a) Visitar e inspeccionar, por iniciativa própria, em cumprimento de determinação superior, a pedido dos interessados ou em resultado de denúncia, os locais sujeitos à sua fiscalização;
 
@@ -124,7 +137,7 @@ e) Proceder à elaboração de documentos, nomeadamente de folhas de ordenados e
 
 f) Propor a aplicação de multas a que, a cada caso, as infracções verificadas possam dar lugar.
 
-###### Art. 4.º - 1 - Incorre em responsabilidade criminal, nos termos da legislação em vigor, aquele que, relativamente aos funcionários em exercício de funções a que se refere o artigo anterior, adopte os seguintes procedimentos:
+Art. 4.º - 1 - Incorre em responsabilidade criminal, nos termos da legislação em vigor, aquele que, relativamente aos funcionários em exercício de funções a que se refere o artigo anterior, adopte os seguintes procedimentos:
 
 a) Se oponha à entrada e ao livre exercício de funções nos locais onde têm de actuar;
 
@@ -136,24 +149,24 @@ d) Não compareça nos serviços do centro de prestações pecuniárias de segur
 
 2 - Os crimes e restantes infracções verificados pelos funcionários referidos no artigo anterior, relativos a normas cuja fiscalização não seja da sua competência, devem ser participados às autoridades respectivas, sendo desse facto dado conhecimento superior.
 
-###### Art. 5.º - 1 - Os funcionários referidos no artigo anterior devem proceder por forma que da sua intervenção não resulte ofensa para as entidades que são objecto da fiscalização.
+Art. 5.º - 1 - Os funcionários referidos no artigo anterior devem proceder por forma que da sua intervenção não resulte ofensa para as entidades que são objecto da fiscalização.
 
 2 - Quando em acção de inspecção a locais de trabalho, deverá o funcionário informar da sua presença a pessoa competente, a não ser que tal aviso, em seu entender, prejudique a eficácia da sua intervenção.
 
 3 - Antes de abandonar o local visitado, deve o funcionário, sempre que possível, comunicar à entidade competente desse local o resultado da sua visita.
 
-###### Art. 6.º - 1 - O pessoal a afectar às secções de apoio e coordenação de serviços terminais e de serviço externo e fiscalização é nomeado por despacho do Secretário Regional dos Assuntos Sociais, sob proposta dos conselhos administrativos dos centros de prestações pecuniárias de segurança social, por períodos de 2 anos renováveis.
+Art. 6.º - 1 - O pessoal a afectar às secções de apoio e coordenação de serviços terminais e de serviço externo e fiscalização é nomeado por despacho do Secretário Regional dos Assuntos Sociais, sob proposta dos conselhos administrativos dos centros de prestações pecuniárias de segurança social, por períodos de 2 anos renováveis.
 
 2 - Aos funcionários das delegações de ilha dos centros de prestações pecuniárias de segurança social, desde que expressamente nomeados nos termos do número anterior, são atribuídos os poderes de autoridade e competências previstos neste diploma.
 
-###### Art. 7.º O pessoal nomeado nos termos do artigo anterior auferirá o vencimento correspondente à letra imediatamente superior à da categoria que ocupa no respectivo quadro.
+Art. 7.º O pessoal nomeado nos termos do artigo anterior auferirá o vencimento correspondente à letra imediatamente superior à da categoria que ocupa no respectivo quadro.
 
 Aprovado em Conselho do Governo Regional em 6 de Abril de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Maio de 1983.**
+Assinado em Angra do Heroísmo em 3 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

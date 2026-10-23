@@ -46,40 +46,116 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1990-557658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4769183ca2498e1d037ff0a4e93d2153e3efb2742cc3999e56201b461c73c89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd68a7a817a431ec4e734d0604a7c6754e985266976543bba2f16bba1a5cdb4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Centro de Gestão Financeira da Segurança Social
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:276829:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676793:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pelo DRR.26/91/A.19.08.1991.GR-RAA, DR.IS-B [189] de 19.08.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-1991-676793
+  date: '1991-08-19'
+- type: amended_by
+  target: pt:dre:402097:por
+  label: "Alterado o art. 10º pelo DRR.6/2000/A.2000.01.24.SREAS-RAA,DR.IS-B [33] de 09/Fev/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2000-402097
+  date: '2000-01-24'
+- type: amended_by
+  target: pt:dre:232355:por
+  label: "Alterado o nº 1 do art. 18º pelo DRR.15/2003/A.2003.03.06.SRAS-RAA DR.IS-B [77] de 01/Abr/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2003-232355
+  date: '2003-03-06'
+- type: amended_by
+  target: pt:dre:168041:por
+  label: "Alterado o art. 10º, na redacção do DRR 6/2000/A, de 09-Fev, pelo DRR.2/2006/A.19.12.2005.PG-RAA, DR.IS-B [7] de\
+    \ 10.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2006-168041
+  date: '2005-12-19'
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Transitada para a dependência do Secretário Regional do Trabalho e Solidariedade Social, o Centro de Gestão Financeira\
+    \ da Segurança Social, cuja orgânica foi aprovada pelo presente diploma, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252]\
+    \ de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666548:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276829:por
+  label: "Revogado, a partir de 01.06.2011, com as alterações que lhe foram introduzidas pelos DLR 6/2000/A de 09-Dez, 15/2003/A\
+    \ de 01-Abr e 2/2006/A de 10-Jan, pelo DRR.7/2011/A.08.04.2011.PG-RAA, DR.IS [70] de 08.04.2011, sem prejuízo do disposto\
+    \ nos nºs 2 e 3 do seu art. 4º; e remetidas para o IGFSSA, IPRA as referências feitas, em lei ou regulamento, ao Centro\
+    \ de Gestão Financeira da Segurança Social.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2011-276829
+  date: '2011-04-08'
 article_structure:
   article_count: 29
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:41Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +294,9 @@ d) Executar tudo o mais que as leis ou regulamentos lhe atribuam ou que decorra 
 
 A Repartição Administrativa compreende a Secção de Pessoal e Expediente e a Secção de Orçamento, Contabilidade e Aprovisionamento.
 
-###### Artigo 14.º — Secção de Pessoal e Expediente
+###### Artigo 14.º
+
+#### Secção de Pessoal e Expediente
 
 Compete à Secção de Pessoal e Expediente:
 
@@ -230,7 +308,9 @@ c) Assegurar adequada circulação de documentos e normas no interior e exterior
 
 d) Prestar apoio dactilográfico a todos os sectores do CGFSS.
 
-###### Artigo 15.º — Secção de Orçamento, Contabilidade e Aprovisionamento
+###### Artigo 15.º
+
+#### Secção de Orçamento, Contabilidade e Aprovisionamento
 
 Compete à Secção de Orçamento, Contabilidade e Aprovisionamento:
 
@@ -248,7 +328,9 @@ f) Elaborar guias;
 
 g) Assegurar a aquisição, conservação, locação e alienação dos bens imóveis ou móveis do CGFSS.
 
-###### Artigo 16.º — Divisão de Gestão Financeira
+###### Artigo 16.º
+
+##### Divisão de Gestão Financeira
 
 Compete à Divisão de Gestão Financeira:
 
@@ -262,7 +344,9 @@ d) Elaborar parecer sobre a evolução financeira do sector;
 
 e) Relacionar-se com as instituições bancárias e Instituto de Gestão Financeira da Segurança Social.
 
-###### Artigo 17.º — Divisão de Orçamento, Conta e Estatística
+###### Artigo 17.º
+
+##### Divisão de Orçamento, Conta e Estatística
 
 Compete à Divisão de Orçamento, Conta e Estatística:
 
@@ -406,14 +490,14 @@ O pessoal além dos quadros que desempenha funções em regime de tempo completo
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 7 de Junho de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 13 de Agosto de 1990.**
+Assinado em Angra do Heroísmo em 13 de Agosto de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 23.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/21400/38063810.pdf))](https://files.diariodarepublica.pt/1s/1990/09/21400/38063810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/21400/38063810.pdf)

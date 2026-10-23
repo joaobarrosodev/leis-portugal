@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03600/0116701168.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/182/2009/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/182-2009-602051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cdb646a9c1bbbd79c43ab3f88b633a624a8dd1b70102ef28cd84833daca3c79c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 006198527069e4bdc10ad1412fc2929121c69117fc38b2cb38b6593b975f1ec7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
 - Governador Civil
 - Governo Civil
+- Modernização Administrativa
 - Prestação de Serviços
 - Taxa
 relationships:
@@ -89,16 +89,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/365/1999/09/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/365/1999/09/17/p/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570109:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:306665:por
+  label: "Revogada pela PORT.1203/2010.30.11.2010.MAI, DR.IS [232] de 30.11.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1203-2010-306665
+  date: '2010-11-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:39Z'
   warnings: []
   errors: []
 ---
@@ -159,8 +180,8 @@ q) Certidões de processos relativos ao direito de reunião;
 
 r) Fotocópias de documentos constantes dos processos referidos nas alíneas anteriores ou do arquivo histórico.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 9 de Fevereiro de 2009.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 9 de Fevereiro de 2009.
 
 ## ANEXO — Tabela de taxas previstas nas alíneas a), c) e d) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 14/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2009-397363), de 14 de Janeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03600/0116701168.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03600/0116701168.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03600/0116701168.pdf)

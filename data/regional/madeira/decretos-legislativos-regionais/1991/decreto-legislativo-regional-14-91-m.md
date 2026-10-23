@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/06/137a00/31613167.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/1991/06/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1991-659282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb4bad9047fa65e0c7e83b001e944986e72d642f51bd361308f376597435dcd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ecbe4df014ffa3d400a32654229c9fa51eb9e86e4c3e8c764addb098653cde7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
 - Artesanato
+- Definição de Competências
 - Instituto do Bordado Tapeçaria e Artesanato da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:286081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631830:por
+  label: "Alterados os artºs 7º, 23º e 28º e as apígrafes do Cap. III e do artº 6º; aditado o nrº 2 ao artº 6º e os arts.\
+    \ 16-A, 16-B e 31-A, revogado o artº 24º e substituído o quadro de pessoal do DLR 14/91/M de 7-Mai, da ALR-RAM, DR.IS-A\
+    \ [137] pelo DRR.20/2001/M.2001.08.30.PG-RAM, DR.IS-B [201] de 2001/AGO/30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2001-631830
+  date: '2001-08-30'
+- type: amended_by
+  target: pt:dre:480297:por
+  label: "Alterados os arts 1º, 4º, 5º, 6º e 7º (os dois últimos na redacção do DRR 20/2001/M de 30-Ago), 8º, 9º, 10º, 11º,\
+    \ 12º, 13º e 14º, eliminados o art 16º e a al e) do art 19º, alterados e renumerados os arts 16º-A, 16º-B (ambos aditados\
+    \ pelo DRR 20/2001/M de 30-Ago),17º e 30º, aditadas as secções VII e VIII (das quais constam, respectivamente, os arts\
+    \ 21º e 22º) ao cap III, renumerados os arts 16º e segs e substituido o quadro de pessoal (na redacção do DRR 20/2001/M,\
+    \ de 30-Ago), todos do presente diploma pelo DLR.25/2004/M.27.07.2004.ALR-RAM, DR.IS-A [196] de 20.08.2004, republicado\
+    \ na íntegra\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-2004-480297
+  date: '2004-07-27'
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Mantido em vigor o diploma orgânico e o quadro de pessoal aprovados pelo presente diploma, alterado e republicado\
+    \ pelos DRR 20/2001/M de 30-Ago e 25/2004/M de 20-Ago, pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B [94] de 16.05.2005,\
+    \ até à entrada em vigor de novo diploma orgânico\0co\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -85,16 +109,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/7/1991/03/15/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/7/1991/03/15/m/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286081:por
+  label: "Revogado pelo DLR.18/2006/M.15.05.2006.AL-RAM, DR.IS-A [103] de 29.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2006-286081
+  date: '2006-05-15'
 article_structure:
   article_count: 31
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:33Z'
   warnings: []
   errors: []
 ---
@@ -469,10 +522,10 @@ Aprovado em sessão plenária de 18 de Abril de 1991.
 
 O Presid[Decreto Legislativo Regional n.º 23/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1990-555021) Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 7 de Maio de 1991.**
+Assinado em 7 de Maio de 1991.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa anexo a que se refere o n.º 2 do artigo 21.º do Decreto Legislativo Regional n.º 14/91/M, de 18 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/06/137a00/31613167.pdf))](https://files.diariodarepublica.pt/1s/1991/06/137a00/31613167.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/06/137a00/31613167.pdf)

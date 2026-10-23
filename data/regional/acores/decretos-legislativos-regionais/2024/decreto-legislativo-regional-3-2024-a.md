@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/12300/0000300094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2024/06/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2024-870085722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15f007939321d89e4b503b3b08d1b676611693f3509ea47fb87b745ac0e0e1a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 559c3027d6459ce6a47611bfc213058423de2246da9590bb0d9d367a9818ded2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Educação
-- Saúde
-- Competitividade da Economia
-- Investimento Público
-- Cultura
-- Emprego
-- Sistema Regional de Planeamento dos Açores
-- Comércio
-- Programa Mar 2030
 - Açores 2030
+- Comércio
+- Competitividade da Economia
+- Cultura
+- Educação
+- Emprego
+- Investimento Público
+- Programa Mar 2030
+- Saúde
+- Sistema Regional de Planeamento dos Açores
+- Turismo
 relationships:
 - type: cites
   target: celex:32013R0228
@@ -84,13 +84,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:12Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +111,11 @@ São aprovadas as Orientações de Médio Prazo 2024-2028.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de maio de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 20 de junho de 2024.**
+Assinado em Angra do Heroísmo em 20 de junho de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -187,7 +187,8 @@ As projeções do FMI apontam para a recuperação da atividade comercial mundia
 
 Gráfico 1. Atividade económica e comércio internacional (taxa de variação anual) (%) | 2008-2028
 
-![](https://files.diariodarepublica.pt/images/870085722/870146115.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146115.png) |
+| --- |
 
 Nota. - Projeções sinalizadas a tracejado.
 
@@ -201,7 +202,8 @@ As economias avançadas apresentam crescimentos dos índices médios de preços 
 
 Gráfico 2. Inflação (taxa de variação anual) (%) | 2008-2025
 
-![](https://files.diariodarepublica.pt/images/870085722/870146116.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146116.png) |
+| --- |
 
 Nota. - Projeções sinalizadas a tracejado.
 
@@ -211,13 +213,15 @@ Nos mercados monetários e financeiros persiste uma forte incerteza sobre a traj
 
 Gráfico 3. Taxas de juro de curto prazo do Banco Central Europeu (EURIBOR a três meses) (%) | 2008-2024
 
-![](https://files.diariodarepublica.pt/images/870085722/870146117.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146117.png) |
+| --- |
 
 Fonte: Banco Central Europeu
 
 Gráfico 4. Taxas de juro de longo prazo da área do euro, dos Estados Unidos e do Reino Unido (%) | 2018-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146118.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146118.png) |
+| --- |
 
 Fonte: Organização para a Cooperação e o Desenvolvimento Económico (OCDE)
 
@@ -231,7 +235,8 @@ De acordo com as projeções de médio prazo do FMI para 2027 e 2028, o crescime
 
 Quadro 1. Projeções dos principais indicadores para a economia portuguesa | 2023-2028
 
-![](https://files.diariodarepublica.pt/images/870085722/870146119.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146119.png) |
+| --- |
 
 Fonte: Banco de Portugal, Boletim Económico (março de 2024); Banco Central Europeu, ECB staff macroeconomic projections for the euro area, dezembro de 2023; Comissão Europeia - Eurostat; FMI, World Economic Outlook Update, janeiro de 2024; CFP - Perspetivas Económicas e Orçamentais 2023-2027 (atualização), setembro de 2023
 
@@ -241,7 +246,8 @@ Analisando o posicionamento de Portugal no contexto da área do euro, as projeç
 
 Gráfico 5. Projeções para a atividade económica (variação real do PIB, %) | 2023-2028
 
-![](https://files.diariodarepublica.pt/images/870085722/870146120.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146120.png) |
+| --- |
 
 Fonte: Banco de Portugal, Boletim Económico (março 2024); FMI, Country Report No. 23/264 Euro Area Policies para 2027-2028
 
@@ -249,19 +255,22 @@ De acordo com os últimos dados disponíveis, relativos às Contas Nacionais do 
 
 Gráfico 6. Produto - Ótica da despesa (%) | 2007-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146121.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146121.png) |
+| --- |
 
 Fonte: INE, Contas Nacionais
 
 Gráfico 7. Produto e componentes da procura (taxa de variação em volume anual) | 2007-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146122.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146122.png) |
+| --- |
 
 Fonte: INE, Contas Nacionais
 
 Gráfico 8. Exportações e importações (taxa de variação em volume anual) | 2007-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146123.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146123.png) |
+| --- |
 
 Fonte: INE, Contas Nacionais
 
@@ -277,7 +286,8 @@ Gráfico 9. Balança externa e capacidade (+)/Necessidade (-) de financiamento (
 
 (%)
 
-![](https://files.diariodarepublica.pt/images/870085722/870146124.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146124.png) |
+| --- |
 
 Fonte: INE, Contas Nacionais
 
@@ -287,7 +297,8 @@ A dívida pública registou um decréscimo de 13,3 p. p., em 2023, situando-se n
 
 Gráfico 10. Financiamento e dívida (%) | 2011-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146125.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146125.png) |
+| --- |
 
 Fonte: Banco de Portugal
 
@@ -295,7 +306,7 @@ Fonte: Banco de Portugal
 
 Síntese e desafios à economia regional
 
-Tendo em conta a conjuntura, as previsões macroeconómicas para a Região Autónoma dos Açores (RAA) estão, naturalmente, condicionadas pela incerteza decorrente da evolução da situação internacional e nacional (<sup>1</sup>).
+Tendo em conta a conjuntura, as previsões macroeconómicas para a Região Autónoma dos Açores (RAA) estão, naturalmente, condicionadas pela incerteza decorrente da evolução da situação internacional e nacional (1).
 
 A economia dos Açores cresceu 6,8 % em 2022, acompanhando a trajetória nacional. Com a normalização da atividade económica em 2022, o ano de 2023 afigurou-se como de desaceleração do crescimento económico, estimando-se uma taxa de crescimento de 2,5 % (Quadro 2).
 
@@ -303,7 +314,8 @@ As trajetórias recentes da atividade económica e dos preços na zona euro refl
 
 Quadro 2. Projeções dos principais indicadores para a economia açoriana | 2022-2028
 
-![](https://files.diariodarepublica.pt/images/870085722/870146126.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146126.png) |
+| --- |
 
 Fonte: Estimativas EY-Parthenon com base nas previsões mais recentes do Banco de Portugal (mar/2024), da Comissão Europeia (fev/2024) e Fundo Monetário Internacional (FMI) (out/2023, para os anos 2027 e 2028), e na evolução histórica através de dados do INE
 
@@ -313,7 +325,8 @@ Tendo em conta o Indicador de Consumo Privado (ICP), que mede as variações do 
 
 Gráfico 11. Indicador da atividade económica e do consumo privado dos Açores (%) | janeiro 2019-janeiro 2024
 
-![](https://files.diariodarepublica.pt/images/870085722/870146127.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146127.png) |
+| --- |
 
 Fonte: SREA
 
@@ -325,7 +338,8 @@ As estimativas apontam para um deflator do PIB de 7,7 % em 2023. À semelhança 
 
 Gráfico 12. Previsão da taxa de inflação dos Açores e de Portugal, medida através do IPC (%) | 2020-2028
 
-![](https://files.diariodarepublica.pt/images/870085722/870146128.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146128.png) |
+| --- |
 
 Fonte: Estimativas EY-Parthenon com base nas previsões do Boletim Económico do BdP (março de 2024) e Comissão Europeia (fevereiro de 2024) e na evolução histórica através de dados do INE, conforme considerações metodológicas
 
@@ -335,15 +349,17 @@ Relativamente à UE, o PIB per capita dos Açores, em 2022, representava 70,6 %,
 
 Após uma significativa queda do PIB real dos Açores e do PIB a preços correntes em 2020, fruto da pandemia, o PIB regional apresentou sinais de recuperação no ano seguinte.
 
-Gráfico 13. Taxa de variação real anual do PIB (%) | 2011-2022 (<sup>2</sup>)
+Gráfico 13. Taxa de variação real anual do PIB (%) | 2011-2022 (2)
 
-![](https://files.diariodarepublica.pt/images/870085722/870146129.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146129.png) |
+| --- |
 
 Fonte: INE, Contas económicas regionais
 
 Quadro 3. PIB a preços de mercado nos Açores (base 2016) (€) | 2012-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146130.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146130.png) |
+| --- |
 
 Fonte: INE, Contas Regionais (base 2016)
 
@@ -357,7 +373,8 @@ Com a recuperação da atividade económica observada em 2021, face a 2020, veri
 
 Gráfico 14. Principais setores em termos de VAB, por ano, nos Açores (%) | 2016-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146131.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146131.png) |
+| --- |
 
 Fonte: INE - Sistema de contas integradas das empresas
 
@@ -365,7 +382,8 @@ A partir de 2017, regista-se um crescimento da população ativa nos Açores, te
 
 Quadro 4. Condição da população perante o trabalho na RAA | 2016-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146132.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146132.png) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego; INE, Contas económicas regionais; INE, Estimativas anuais da população residente
 
@@ -375,13 +393,15 @@ No período de análise, o setor primário nos Açores concentra parte substanci
 
 Quadro 5. População ativa empregada por setores de atividade na RAA | 2021-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146133.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146133.png) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego
 
 Gráfico 15. Repartição setorial do emprego na RAA (%) | 2011-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146134.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146134.png) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego
 
@@ -415,7 +435,8 @@ O Valor de Produção Padrão Total (VPPT) das explorações agrícolas, em 2019
 
 Quadro 6. Dimensão das explorações | 2019
 
-![](https://files.diariodarepublica.pt/images/870085722/870146135.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146135.png) |
+| --- |
 
 Fonte: INE, Estatísticas agrícolas de base e recenseamento agrícola - 2019
 
@@ -425,7 +446,8 @@ Desta forma, obtém-se, em 2019, uma média de 41,1 cabeças de gado por explora
 
 Quadro 7. Indicadores das explorações (n.º) | 2019
 
-![](https://files.diariodarepublica.pt/images/870085722/870146136.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146136.png) |
+| --- |
 
 Fonte: INE, Estatísticas agrícolas de base
 
@@ -439,13 +461,14 @@ Dentro da estrutura tradicional de produção de vinhos açorianos (Quadro 8), o
 
 Quadro 8. Produção de vinhos (hl) | 2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146137.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146137.png) |
+| --- |
 
 Fonte: INE, Estatísticas da produção vegetal
 
 O setor florestal tem assumido um carácter subsidiário e residual no contexto económico da Região, apesar de a floresta açoriana ocupar perto de 75 mil hectares, o que representa 35 % do território insular.
 
-A floresta natural ou seminatural representa cerca de 33 % da área florestal, sendo ocupada por faiais, florestas laurifólias, florestas de ilex, zimbrais e ericais. A restante área florestal corresponde a floresta de produção, que foi plantada em áreas públicas e privadas, compostas por povoamentos de criptoméria, que predominam (60 % do total desta área), mas também de acácia, pinheiro, eucalipto e incenso. Ao nível da produção de madeira, esta está estimada entre sete e oito milhões de m<sup>3</sup> de madeira de criptoméria e 1,2 milhões de m<sup>3</sup> de madeira de eucalipto. Pode-se considerar que a fileira ainda é incipiente, mas perspetiva-se que possa atingir uma dimensão suficiente para a operação de algumas pequenas e médias empresas (PME) orientadas quer para o mercado interno, quer para a exportação, nos domínios da silvicultura (prestação de serviços de natureza florestal), da exploração florestal e da transformação (serrações, carpintarias e marcenarias).
+A floresta natural ou seminatural representa cerca de 33 % da área florestal, sendo ocupada por faiais, florestas laurifólias, florestas de ilex, zimbrais e ericais. A restante área florestal corresponde a floresta de produção, que foi plantada em áreas públicas e privadas, compostas por povoamentos de criptoméria, que predominam (60 % do total desta área), mas também de acácia, pinheiro, eucalipto e incenso. Ao nível da produção de madeira, esta está estimada entre sete e oito milhões de m3 de madeira de criptoméria e 1,2 milhões de m3 de madeira de eucalipto. Pode-se considerar que a fileira ainda é incipiente, mas perspetiva-se que possa atingir uma dimensão suficiente para a operação de algumas pequenas e médias empresas (PME) orientadas quer para o mercado interno, quer para a exportação, nos domínios da silvicultura (prestação de serviços de natureza florestal), da exploração florestal e da transformação (serrações, carpintarias e marcenarias).
 
 Tendo o comércio internacional aumentado, entre 2019 e 2023, na Região (+28,6 % de exportações), observa-se um top cinco de produtos que se destacam pelo elevado valor transacionado. A venda de animais vivos e produtos do reino animal (A) representa 64,8 % do total do volume de exportações da Região, a sua maioria para dentro da UE (Gráfico 16). Em segundo lugar, a exportação de produtos lácteos, ovos, mel e produtos comestíveis de origem animal (B), que representa 34,0 % das exportações, foi, em simultâneo, o que mais cresceu (63,9 %).
 
@@ -453,7 +476,8 @@ Em termos de destino, as exportações ocorrem em maior número para países da 
 
 Gráfico 16. TOP 5 de produtos exportados (€) | 2023 e taxa de variação nos Açores (%) | 2019-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146138.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146138.png) |
+| --- |
 
 A - Animais vivos e produtos do reino animal.
 
@@ -477,7 +501,8 @@ Com igual relevância, em 2023, as 695 toneladas de chicharro capturado represen
 
 Gráfico 17. Pescado descarregado nos portos de pesca | 2010-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146139.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146139.png) |
+| --- |
 
 Fonte: SREA, Estatísticas das pescas
 
@@ -487,7 +512,8 @@ Nos Açores, a frota pode ser dividida essencialmente em dois segmentos: atuneir
 
 Quadro 9. Embarcações | 2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146140.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146140.png) |
+| --- |
 
 Fonte: DGRM, recursos da pesca
 
@@ -503,7 +529,8 @@ Do lado da procura, de acordo com o SREA, desembarcaram na Região, no 2.º seme
 
 Gráfico 18. Movimentos nos aeroportos (n.º de passageiros desembarcados) | 2020-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146141.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146141.png) |
+| --- |
 
 Fonte: SREA, transportes aéreos
 
@@ -511,7 +538,8 @@ No número de dormidas, verifica-se uma maior tendência de concentração em tr
 
 Gráfico 19. Proporção de dormidas entre julho e setembro (%) | 2018, 2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146142.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146142.png) |
+| --- |
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos (alojamento local com dez ou mais camas)
 
@@ -521,7 +549,8 @@ Consequentemente, pode considerar-se que o aumento das taxas reguladas represent
 
 Gráfico 20. Variação de dormidas e de passageiros desembarcados na região dos Açores (%) | 2023-2024 (janeiro)
 
-![](https://files.diariodarepublica.pt/images/870085722/870146143.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146143.png) |
+| --- |
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos (alojamento local com dez ou mais camas; dados provisórios de 2023 e 2024), e SREA, transportes aéreos
 
@@ -529,7 +558,8 @@ Entre 2018 e 2022, os Açores registaram uma taxa de crescimento médio da ofert
 
 Gráfico 21. Capacidade de alojamento e dormidas nos estabelecimentos turísticos (PT=100) | 2018, 2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146144.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146144.png) |
+| --- |
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos (alojamento local com dez ou mais camas)
 
@@ -537,7 +567,8 @@ A taxa total de ocupação de camas apurada em 2022 foi de 44,9 %, mais 10,4 p. 
 
 Quadro 10. Taxa líquida de ocupação de camas na RAA (%) | 2017-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146145.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146145.png) |
+| --- |
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos (alojamento local com dez ou mais camas)
 
@@ -549,7 +580,8 @@ Numa perspetiva de futuro, ainda com elevados níveis de incerteza em torno da e
 
 Gráfico 22. Peso do turismo no VAB e evolução do número de dormidas | 2018-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146146.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146146.png) |
+| --- |
 
 Fonte: INE, Sistema de contas integradas das empresas
 
@@ -557,7 +589,8 @@ Tendo em conta as dormidas nos estabelecimentos de alojamento turístico por loc
 
 Gráfico 23. Dormidas nos estabelecimentos de alojamento turístico por local de residência (n.º) | 2018-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146147.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146147.png) |
+| --- |
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos (alojamento local com dez ou mais camas)
 
@@ -567,7 +600,8 @@ Entre 2018 e 2022, a região dos Açores alcançou uma taxa de crescimento médi
 
 Gráfico 24. Taxa de variação média anual dos proveitos totais (%) nos estabelecimentos de alojamento turístico | 2018-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146148.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146148.png) |
+| --- |
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos (alojamento local com dez ou mais camas)
 
@@ -577,7 +611,8 @@ A situação regional em matéria de investigação e desenvolvimento (I&D), qua
 
 Quadro 11. Indicadores de I&D em 2021/2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146149.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146149.png) |
+| --- |
 
 Fonte: INE
 
@@ -595,7 +630,8 @@ No que concerne aos cabos submarinos de fibra ótica, estes estão a atingir o f
 
 Gráfico 25. Agregados domésticos com ligação à Internet em casa (%) | 2013-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146150.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146150.png) |
+| --- |
 
 Fonte: INE, Inquérito à utilização de TIC pelas famílias
 
@@ -603,7 +639,8 @@ Em 2023, de entre as duas regiões autónomas, os Açores registam o maior núme
 
 Gráfico 26. Proporção de indivíduos com idade entre 16 e 74 anos que utilizam comércio eletrónico para fins privados (%) | 2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146151.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146151.png) |
+| --- |
 
 Fonte: INE, Inquérito à utilização de TIC pelas famílias
 
@@ -613,7 +650,8 @@ O aumento dos níveis de introdução de fatores reais de inovação no tecido e
 
 Quadro 12. Indicadores de inovação empresarial (%) | 2018-2020
 
-![](https://files.diariodarepublica.pt/images/870085722/870146152.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146152.png) |
+| --- |
 
 Fonte: INE/DGEEC, Inquérito comunitário à inovação
 
@@ -633,7 +671,8 @@ Por seu turno, o saldo migratório, ou seja, a diferença entre o número de ent
 
 Gráfico 27. Decomposição da evolução da população nos Açores (n.º) | 2018 e 2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146153.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146153.png) |
+| --- |
 
 Fonte: INE, Nados-vivos, INE, Óbitos, INE, Indicadores demográficos, INE, Projeções da população residente
 
@@ -645,7 +684,8 @@ Se, em 2018, as taxas brutas de natalidade e mortalidade registavam valores cons
 
 Gráfico 28. Evolução das componentes dos saldos fisiológicos no Açores (%) | 2018 e 2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146154.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146154.png) |
+| --- |
 
 Fonte: INE, Indicadores demográficos
 
@@ -657,7 +697,8 @@ O aumento da população idosa confere, atualmente, uma maior pressão sobre a c
 
 Quadro 13. Estrutura etária da população - Proporção do total, nos Açores (%) | 2018-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146155.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146155.png) |
+| --- |
 
 Fonte: Estimativas anuais da população residente
 
@@ -665,7 +706,8 @@ Por fim, importa ter em conta que, segundo as projeções da população residen
 
 Quadro 14. Taxa de variação das da população residente - Cenários (%) | 2024-2028
 
-![](https://files.diariodarepublica.pt/images/870085722/870146156.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146156.png) |
+| --- |
 
 Fonte: INE, Projeções da população residente
 
@@ -675,7 +717,8 @@ A educação é um dos pilares fundamentais de uma sociedade desenvolvida, coesa
 
 Quadro 15. Taxa Bruta de Escolarização RAA (%) | 2014/15 - 2021/22
 
-![](https://files.diariodarepublica.pt/images/870085722/870146157.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146157.png) |
+| --- |
 
 Fonte: INE, Direção-Geral de Estatísticas da Educação e Ciência
 
@@ -683,7 +726,8 @@ A evolução favorável verificada anteriormente também se regista no que diz r
 
 Gráfico 29. Taxa de escolaridade do nível de ensino superior da população residente com idade entre 25 e 64 anos (NUTS II) | 2011 e 2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146158.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146158.png) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego
 
@@ -695,13 +739,15 @@ Os Açores, embora com uma taxa de abandono precoce elevada face aos valores nac
 
 Gráfico 30. Proporção de população inscrita em áreas de C&T no ensino superior (%) |2011/2012 - 2022/2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146159.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146159.png) |
+| --- |
 
 Fonte: INE, Direção-Geral de Estatísticas da Educação e Ciência
 
 Gráfico 31. Taxa de abandono precoce de educação e formação (%) | 2011 e 2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146160.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146160.png) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego
 
@@ -709,7 +755,8 @@ Já no que respeita aos recursos docentes, os Açores apresentam uma evolução 
 
 Quadro 16. Evolução dos quadros docentes do ensino não superior e superior | 2015/2015 - 2021/2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146161.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146161.png) |
+| --- |
 
 Fonte: INE, Direção-Geral de Estatísticas da Educação e Ciência
 
@@ -723,7 +770,8 @@ Em suma, face a 2015, o número total de visitantes dos museus aumentou em médi
 
 Gráfico 32. Visitantes de museus (n.º) | 2015-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146162.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146162.png) |
+| --- |
 
 Fonte: INE, Inquérito aos museus
 
@@ -731,7 +779,8 @@ As despesas dos municípios açorianos em cultura e desporto têm oscilado ao lo
 
 Gráfico 33. Despesas das câmaras municipais em cultura e desporto no total de despesas (%) | 2025-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146163.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146163.png) |
+| --- |
 
 Fonte: INE, Inquérito ao financiamento das atividades culturais, criativas e desportivas pelas câmaras municipais
 
@@ -739,7 +788,8 @@ As despesas em atividades e equipamentos desportivos dos municípios por habitan
 
 Gráfico 34. Despesas em atividades e equipamentos desportivos dos municípios por habitante | 2015-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146164.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146164.png) |
+| --- |
 
 Fonte: INE, Inquérito ao financiamento das atividades culturais, criativas e desportivas pelas câmaras municipais
 
@@ -749,7 +799,8 @@ O número de indivíduos empregados, na RAA, no ano de 2021, situou-se nos 117 1
 
 Gráfico 35. Emprego por ramo de atividade na RAA (milhares de indivíduos) | 2015-2021
 
-![](https://files.diariodarepublica.pt/images/870085722/870146165.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146165.png) |
+| --- |
 
 Fonte: INE, Contas económicas regionais
 
@@ -761,11 +812,14 @@ Quando analisamos o nível de escolaridade da população em termos da sua distr
 
 Quadro 17. Grandes números do emprego na RAA | 2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146166.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146166.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/870085722/870146167.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146167.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/870085722/870146168.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146168.png) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego
 
@@ -777,7 +831,8 @@ Segundo o estudo sobre o poder de compra produzido pelo INE, que caracteriza os 
 
 Gráfico 36. Indicadores do poder de compra na RAA | 2013, 2015, 2017, 2021
 
-![](https://files.diariodarepublica.pt/images/870085722/870146169.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146169.png) |
+| --- |
 
 Fonte: INE, Estudo sobre o poder de compra concelhio
 
@@ -793,7 +848,8 @@ Quanto aos beneficiários destas prestações, regista-se uma quebra do número 
 
 Quadro 18. Valor das prestações sociais e beneficiários de prestações sociais na RAA | 2015-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146170.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146170.png) |
+| --- |
 
 Fonte: INE, Instituto de Informática
 
@@ -801,7 +857,8 @@ Ao nível do apoio ao rendimento mínimo das famílias, o número de beneficiár
 
 Gráfico 37. Valor processado do RSI (€) e beneficiários do RSI por 1 000 habitantes em idade ativa (‰) na RAA | 2019-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146171.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146171.png) |
+| --- |
 
 Fonte: INE, Instituto de Informática
 
@@ -817,7 +874,8 @@ De acordo com os dados das estatísticas do emprego do SREA e do INE, a taxa de 
 
 Quadro 19. População desempregada na região dos Açores (n.º milhares) | 2016-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870146172.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146172.png) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego
 
@@ -825,7 +883,8 @@ Em 2023, estima-se que o número de pessoas empregadas nos Açores tenha crescid
 
 Gráfico 38. Previsão da evolução do mercado de trabalho nos Açores | 2022-2028p
 
-![](https://files.diariodarepublica.pt/images/870085722/870146173.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146173.png) |
+| --- |
 
 Fonte: Estimativas EY-Parthenon com base nas previsões mais recentes do Banco de Portugal (mar/2024), da Comissão Europeia (fev/2024) e FMI (out/2023, para os anos 2027 e 2028), e na evolução histórica através de dados do INE
 
@@ -833,11 +892,13 @@ De acordo com estimativas disponíveis no SREA, tendo em conta os valores médio
 
 Gráfico 39. Estrutura etária e de género do desemprego (milhares de indivíduos) | 2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870146174.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870146174.png) |
+| --- |
 
 Gráfico 40. Estrutura de género do desemprego (milhares de indivíduos) | 2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870156175.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156175.png) |
+| --- |
 
 Fonte: SREA, Inquérito ao emprego
 
@@ -847,11 +908,13 @@ Outra dimensão do desemprego prende-se com o nível de escolaridade dos desempr
 
 Gráfico 41. Nível de instrução dos desempregados (milhares de indivíduos) | 2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870156176.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156176.png) |
+| --- |
 
 Gráfico 42. Estrutura de género da população desempregada com ensino básico (3.º ciclo) | 2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870156177.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156177.png) |
+| --- |
 
 Fonte: SREA, Inquérito ao emprego
 
@@ -871,7 +934,8 @@ A procura dos serviços de saúde por parte da população tem tido uma trajetó
 
 Quadro 20. Consultas nos hospitais e internamentos na região dos Açores | 2015-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870156178.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156178.png) |
+| --- |
 
 Fonte: INE, Inquérito aos hospitais
 
@@ -879,7 +943,8 @@ Ao nível dos recursos humanos, observa-se um crescimento do número de profissi
 
 Quadro 21. Pessoal ao serviço dos hospitais públicos e dos hospitais em parcerias público-privadas | 2015-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870156179.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156179.png) |
+| --- |
 
 Fonte: INE, Inquérito aos hospitais
 
@@ -895,7 +960,8 @@ No que concerne ao transporte terrestre, alguns dados estatísticos para os últ
 
 Quadro 22. Tráfego de passageiros por km nos transportes coletivos terrestres na região dos Açores | 2015-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870156180.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156180.png) |
+| --- |
 
 Fonte: SREA, transportes terrestres
 
@@ -903,7 +969,8 @@ Nos passageiros transportados por via marítima, o tráfego nos portos atingiu, 
 
 Gráfico 43. Número de passageiros embarcados e desembarcados em transportes marítimos de passageiros | 2015-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870156181.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156181.png) |
+| --- |
 
 Fonte: SREA, transportes marítimos
 
@@ -913,7 +980,8 @@ O tráfego territorial tem sido o segmento de mercado que tem acentuado a progre
 
 Gráfico 44. Número de passageiros embarcados e desembarcados em transportes aéreos por tipo de voo | 2015-2023
 
-![](https://files.diariodarepublica.pt/images/870085722/870156182.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156182.png) |
+| --- |
 
 Fonte: SREA, transportes aéreos
 
@@ -931,7 +999,8 @@ O setor não doméstico foi, em 2022, o maior utilizador de energia elétrica pa
 
 Gráfico 45. Consumo de energia elétrica (kWh) na região dos Açores | 2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870156183.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156183.png) |
+| --- |
 
 Fonte: INE - DGEG, Estatísticas do carvão, petróleo, energia elétrica e gás natural
 
@@ -939,7 +1008,8 @@ Entre 2015 e 2021, a eletricidade produzida por tecnologia térmica foi a que ma
 
 Gráfico 46. Produção bruta de energia elétrica (kWh) por tipo de produção | 2015, 2021
 
-![](https://files.diariodarepublica.pt/images/870085722/870156184.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156184.png) |
+| --- |
 
 Fonte: INE - DGEG, Estatísticas do carvão, petróleo, energia elétrica e gás natural
 
@@ -951,7 +1021,8 @@ De acordo com os mesmos dados apresentados pelo relatório anual da SRIR, a prod
 
 Gráfico 47. Evolução da produção de RU na região dos Açores (toneladas) | 2015-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870156185.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156185.png) |
+| --- |
 
 Fonte: Relatório SRIR 2022, Direção Regional do Ambiente
 
@@ -961,7 +1032,8 @@ Em 2022, como observável no Gráfico 48, a RAA valorizou mais de metade dos RU 
 
 Gráfico 48. Evolução das operações de tratamento de RU na região dos Açores | 2015-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870156186.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156186.png) |
+| --- |
 
 Fonte: Relatório SRIR 2022, Direção Regional do Ambiente
 
@@ -973,7 +1045,8 @@ Neste sentido, importa realçar que se registam avanços em termos da qualidade 
 
 Quadro 23. Análises em cumprimento dos valores paramétricos (%) | 2015-2022
 
-![](https://files.diariodarepublica.pt/images/870085722/870156187.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156187.png) |
+| --- |
 
 Fonte: Relatório anual do controlo da qualidade da água para consumo 2023, ERSARA
 
@@ -1009,7 +1082,8 @@ Estas premissas, transversais a todos os domínios de intervenção governativa,
 
 O sistema de programação financeira e material que será executado, enquanto instrumento para a consecução destes objetivos, passa pela sua associação aos setores e domínios de intervenção estratégica que serão objeto das medidas de política adotadas e que, de forma esquemática, se apresenta de seguida:
 
-![](https://files.diariodarepublica.pt/images/870085722/870156188.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156188.png) |
+| --- |
 
 Por uma Região com identidade institucional e cultural
 
@@ -1899,7 +1973,8 @@ Em termos mais restritos, e no que respeita a despesas inscritas exclusivamente 
 
 No quadro seguinte, apresentam-se os programas de investimento público que irão vigorar neste período e respetivas dotações financeiras.
 
-![](https://files.diariodarepublica.pt/images/870085722/870156189.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156189.png) |
+| --- |
 
 4.2 - QUADRO GLOBAL DE FINANCIAMENTO
 
@@ -1911,7 +1986,8 @@ De seguida, apresenta-se o quadro com as grandes linhas de orientação para o f
 
 Financiamento global
 
-![](https://files.diariodarepublica.pt/images/870085722/870156190.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156190.png) |
+| --- |
 
 Nota. - Exclui operações de refinanciamento e operação de transformação de dívida comercial em financeira.
 
@@ -1945,9 +2021,9 @@ Posteriormente, cada uma das quatro categorias de despesa foi associada a vetore
 
 (iv) A despesa de consumo público diretamente ligada a produtos característicos das administrações públicas (Administração Pública, segurança, saúde, educação), cuja alocação é realizada de forma direta aos produtos das Contas Nacionais.
 
-Uma vez que nem toda a despesa é satisfeita de forma direta por fornecedores regionais, os valores associados ao Consumo Final e à Formação Bruta de Capital Fixo foram ponderados tendo por base a existência de importações e o seu impacto nestes indicadores (<sup>4</sup>).
+Uma vez que nem toda a despesa é satisfeita de forma direta por fornecedores regionais, os valores associados ao Consumo Final e à Formação Bruta de Capital Fixo foram ponderados tendo por base a existência de importações e o seu impacto nestes indicadores (4).
 
-Para além da estimativa do impacto no VAB e no emprego regionais, dado diretamente pelo modelo Input-Output, foi também estimado o impacto na receita fiscal da RAA. Tratando-se de uma análise externa ao modelo, a análise do efeito na receita fiscal baseou-se nos impactos obtidos para o VAB, na elasticidade da receita fiscal em relação ao PIB regional e na carga fiscal média dos últimos anos (receita fiscal/PIB) (<sup>5</sup>).
+Para além da estimativa do impacto no VAB e no emprego regionais, dado diretamente pelo modelo Input-Output, foi também estimado o impacto na receita fiscal da RAA. Tratando-se de uma análise externa ao modelo, a análise do efeito na receita fiscal baseou-se nos impactos obtidos para o VAB, na elasticidade da receita fiscal em relação ao PIB regional e na carga fiscal média dos últimos anos (receita fiscal/PIB) (5).
 
 Descrição do investimento previsto por tipologia de despesa
 
@@ -1955,7 +2031,8 @@ A despesa pública média anual prevista nas Orientações de Médio Prazo, entr
 
 Gráfico 49. Repartição da despesa pública planeada por categoria, 2024 e 2028
 
-![](https://files.diariodarepublica.pt/images/870085722/870156191.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156191.png) |
+| --- |
 
 Fonte: Elaboração própria com base na dotação prevista nas Orientações de Médio Prazo 2024-2028
 
@@ -1979,7 +2056,8 @@ A despesa pública média anual planeada deverá representar cerca de 11 % do PI
 
 Quadro 24. Impacto da despesa pública prevista no VAB, emprego e receita fiscal da RAA, entre 2024-2028
 
-![](https://files.diariodarepublica.pt/images/870085722/870156192.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156192.png) |
+| --- |
 
 Fonte: Elaboração própria, com base na dotação prevista no Plano Regional Anual da RAA e os dados do PIB do Cenário Macroeconómico 2024-2028
 
@@ -2003,7 +2081,8 @@ Análise retrospetiva do impacto económico dos Planos Anuais 2021-2023
 
 3 - Estima-se que o impacto económico da despesa executada dos Planos Regionais Anuais de 2021 e 2022 tenha rondado, respetivamente, os 8,1 % e os 6,0 %.
 
-![](https://files.diariodarepublica.pt/images/870085722/870156193.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156193.png) |
+| --- |
 
 4 - Os impactos ex post acima apresentados revelam-se consistentes com os apresentados para a Região na Avaliação do Impacto Macroeconómico do Portugal 2020, onde se inclui o Programa Operacional Açores 2020. Nesta avaliação, foi identificado, através do recurso a modelos de equilíbrio geral, um efeito multiplicador médio de curto prazo no PIB de 0,65 para o período de 2015 a 2023.
 
@@ -2015,7 +2094,8 @@ Atendendo a que a principal tipologia de despesa inserida no Plano de Investimen
 
 Gráfico 50. Repartição do impacto no VAB, por grandes ramos de atividade
 
-![](https://files.diariodarepublica.pt/images/870085722/870156194.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156194.png) |
+| --- |
 
 Fonte: Elaboração própria com base na dotação prevista nas Orientações de Médio Prazo 2024-2028.
 
@@ -2027,7 +2107,8 @@ Relativamente ao consumo público, enquanto segunda maior tipologia de despesa p
 
 Gráfico 51. Repartição do impacto no emprego, por grandes ramos de atividade
 
-![](https://files.diariodarepublica.pt/images/870085722/870156195.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156195.png) |
+| --- |
 
 Fonte: Elaboração própria com base na dotação prevista nas Orientações de Médio Prazo 2024-2028
 
@@ -2041,11 +2122,12 @@ Os impactos na economia regional decorrentes da despesa planeada nas Orientaçõ
 
 Quadro 25. Impacto da despesa pública prevista no VAB, emprego e receita fiscal da RAA entre 2024-2028
 
-![](https://files.diariodarepublica.pt/images/870085722/870156196.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156196.png) |
+| --- |
 
 Fonte: Elaboração própria, com base na dotação prevista no Plano Regional Anual da RAA, Relatório Final da Avaliação do Impacto Macroeconómico do Portugal 2020, incluindo as verbas afetas ao Açores 2020 e Comissão Europeia (modelo RHOMOLO), disponível em https://web.jrc.ec.europa.eu/dashboard/RHOMOLO/index.html
 
-De acordo com as estimativas apresentadas na Avaliação do Impacto Macroeconómico do Portugal 2020 (onde se inclui o Programa Operacional Açores 2020), baseadas no modelo RHOMOLO, o multiplicador de impacto acumulado no VAB a longo prazo (<sup>6</sup>) corresponde a cerca de 2,4, o que significaria um incremento previsto no VAB potencial em 8 400 milhões de euros para o total da despesa prevista nas Orientações de Médio Prazo (<sup>7</sup>).
+De acordo com as estimativas apresentadas na Avaliação do Impacto Macroeconómico do Portugal 2020 (onde se inclui o Programa Operacional Açores 2020), baseadas no modelo RHOMOLO, o multiplicador de impacto acumulado no VAB a longo prazo (6) corresponde a cerca de 2,4, o que significaria um incremento previsto no VAB potencial em 8 400 milhões de euros para o total da despesa prevista nas Orientações de Médio Prazo (7).
 
 Por outro lado, no que toca aos multiplicadores de longo prazo (no PIB potencial), calculados pela Comissão Europeia, para efeitos da despesa pública, apenas abrangem as tipologias de investimento público e consumo público, e consideram um horizonte temporal de 20 anos, pelo que não são diretamente comparáveis, nem aos multiplicadores de curto prazo, nem à estimativa constante da Avaliação do Impacto Macroeconómico do Portugal 2020 referida no parágrafo anterior.
 
@@ -2063,7 +2145,8 @@ A existência de recursos humanos com elevado nível de qualificação e o respe
 
 Quadro 26. Impacto no PIB da RAA (RHOMOLO), por ano após o choque permanente, desvio do percentual do PIB potencial face ao cenário sem choque
 
-![](https://files.diariodarepublica.pt/images/870085722/870156197.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156197.png) |
+| --- |
 
 Fonte: Comissão Europeia (modelo RHOMOLO), disponível em https://web.jrc.ec.europa.eu/dashboard/RHOMOLO/index.html
 
@@ -2157,13 +2240,15 @@ e) Promover a digitalização e a proximidade da Administração Pública nas su
 
 O acesso da RAA aos diversos fundos comunitários é feito, maioritariamente, através de programas:
 
-![](https://files.diariodarepublica.pt/images/870085722/870156198.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156198.png) |
+| --- |
 
 (*) As dotações do POSEI também provêm do FEAGA.
 
 São apresentadas, de seguida, as principais intervenções e dotações de cada um deles:
 
-![](https://files.diariodarepublica.pt/images/870085722/870156199.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156199.png) |
+| --- |
 
 O Açores 2030 é um programa financiado pelos Fundos Europeus Estruturais e de Investimento (FEEI) FEDER e FSE+, para o período de programação 2021-2027, assumindo-se como um importante instrumento de intervenção e financiamento europeu na RAA.
 
@@ -2179,9 +2264,11 @@ Acresce uma dotação, de 10 milhões de euros, designada por assistência técn
 
 Açores 2030: Dotação por prioridade
 
-![](https://files.diariodarepublica.pt/images/870085722/870156200.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156200.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/870085722/870156201.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156201.png) |
+| --- |
 
 Em agosto de 2022, foi aprovado, pela Comissão Europeia, o PEPAC para Portugal no período 2023-2027, que integra as medidas de apoio para se alcançarem os objetivos específicos da UE para a Política Agrícola Comum (PAC) e assenta nas seguintes prioridades:
 
@@ -2213,7 +2300,8 @@ As execuções anuais do orçamento comunitário são sempre iguais ou muito pr�
 
 O financiamento das MAPL pode ser complementado com auxílios estatais nacionais previamente aprovados pela Comissão Europeia, de acordo com os procedimentos previstos na legislação comunitária aplicável. A partir de 2020, os limites daqueles auxílios foram substancialmente aumentados, por forma a evitar a penalização dos rendimentos dos agricultores, decorrente da aplicação de rateios no pagamento das ajudas. Nos períodos 2018-2020 e 2021-2023, foram pagos auxílios estatais complementares no valor médio anual de, respetivamente, 5,5 e 15,3 milhões de euros.
 
-![](https://files.diariodarepublica.pt/images/870085722/870156202.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156202.png) |
+| --- |
 
 O Programa Mar 2030, cofinanciado pelo FEAMPA é um instrumento decisivo na garantia da sustentabilidade e do cumprimento de uma estratégia que promova a competitividade e a resiliência do setor das pescas, da aquicultura e da indústria transformadora, por forma a corresponder às necessidades de abastecimento e segurança alimentar. É, igualmente, determinante no incentivo à inovação, na atratividade de novos profissionais e na capacitação do setor.
 
@@ -2229,7 +2317,8 @@ Acresce uma dotação dedicada à gestão, monitorização e avaliação do prog
 
 A visão do programa no horizonte 2030 é de um setor das pescas cada vez mais competitivo, mais inovador e mais sustentável. Este programa contribui para o alcance dos objetivos específicos e metas, definidos na Estratégia Nacional para o Mar 2021-2030.
 
-![](https://files.diariodarepublica.pt/images/870085722/870156203.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156203.png) |
+| --- |
 
 O Programa de Cooperação Territorial (MAC) consolidou-se, nas últimas décadas, como um dos principais instrumentos para favorecer a inserção regional das regiões ultraperiféricas nos seus espaços geográficos de referência, procurando promover a cooperação regional enquanto impulsionador do desenvolvimento económico sustentável.
 
@@ -2239,7 +2328,8 @@ Este programa, com apoio do Fundo Europeu de Desenvolvimento Regional, a título
 
 Aprovado pela Decisão da Comissão C (2022) 6877, de 21 de setembro de 2022, o programa tem uma dotação global de 169,9 milhões de euros, dos quais cerca de 16,4 milhões de euros destinados à RAA.
 
-![](https://files.diariodarepublica.pt/images/870085722/870156204.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156204.png) |
+| --- |
 
 O Programa Ação Climática e Sustentabilidade, denominado Sustentável 2030, financiado pelo FC, é um programa temático e de âmbito nacional, que se assume como um instrumento fundamental para Portugal enfrentar os desafios da transição energética e climática e atingir a neutralidade carbónica.
 
@@ -2267,22 +2357,27 @@ A dimensão da transição digital enquadra reformas e investimentos significati
 
 O PRR, que registou, em outubro de 2023, avaliação positiva pela Comissão Europeia e pelo Conselho da União Europeia à proposta de reprogramação, inclui 18 investimentos da Região, abrangendo 12 das 21 componentes, num investimento global que ascende a 725,1 milhões de euros, inseridos nas três dimensões mencionadas.
 
-![](https://files.diariodarepublica.pt/images/870085722/870156205.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156205.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/870085722/870156206.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156206.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/870085722/870156207.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870085722/870156207.png) |
+| --- |
 
-(<sup>1</sup>) Assim, em março de 2024, o Banco Central Europeu reviu em baixa as previsões de crescimento do PIB na zona euro, que agora se fixa nos 0,6 %, para 2023, e abaixo de 2 % para os anos subsequentes.
+(1) Assim, em março de 2024, o Banco Central Europeu reviu em baixa as previsões de crescimento do PIB na zona euro, que agora se fixa nos 0,6 %, para 2023, e abaixo de 2 % para os anos subsequentes.
 
-(<sup>2</sup>) Os dados de 2022 são provisórios.
+(2) Os dados de 2022 são provisórios.
 
-(<sup>3</sup>) Os dados de 2022 são provisórios.
+(3) Os dados de 2022 são provisórios.
 
-(<sup>4</sup>) Neste exercício, assumiu-se que apenas 62,4 % da despesa associada à Formação Bruta de Capital Fixo é absorvida por fornecedores regionais, enquanto no Consumo Final este valor se situa nos 71,2 %.
+(4) Neste exercício, assumiu-se que apenas 62,4 % da despesa associada à Formação Bruta de Capital Fixo é absorvida por fornecedores regionais, enquanto no Consumo Final este valor se situa nos 71,2 %.
 
-(<sup>5</sup>) Considerando a amplitude temporal da projeção, optou-se pela análise da elasticidade num período alargado, que permite reduzir o efeito de ruído nas estimativas. As estimativas para o período de 2012 a 2022 (último ano com dados de PIB da RAA) apontam para uma elasticidade em torno de 1,15.
+(5) Considerando a amplitude temporal da projeção, optou-se pela análise da elasticidade num período alargado, que permite reduzir o efeito de ruído nas estimativas. As estimativas para o período de 2012 a 2022 (último ano com dados de PIB da RAA) apontam para uma elasticidade em torno de 1,15.
 
-(<sup>6</sup>) Para efeitos de modelo, o longo prazo corresponde a um período de 50 anos da execução da despesa/investimento, para a tipologia de investimentos em análise.
+(6) Para efeitos de modelo, o longo prazo corresponde a um período de 50 anos da execução da despesa/investimento, para a tipologia de investimentos em análise.
 
-(<sup>7</sup>) Os multiplicadores estimados na referida avaliação referem-se aos apoios do Portugal 2020 nos Açores. Contudo, a tipologia da despesa é semelhante à considerada nas Orientações de Médio Prazo, pelo que se assume que os multiplicadores serão semelhantes.
+(7) Os multiplicadores estimados na referida avaliação referem-se aos apoios do Portugal 2020 nos Açores. Contudo, a tipologia da despesa é semelhante à considerada nas Orientações de Médio Prazo, pelo que se assume que os multiplicadores serão semelhantes.
+
+117820651

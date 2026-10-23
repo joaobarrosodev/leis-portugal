@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/364/2008/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/364-2008-249197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a05bcf09714ea60918ed4e75994ffd84fa9199aa7c66ba1daa6b6ac2a864c1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4baba43ba4c3192dc5d1636221700f47e5433303d699ce56254a98a3661b9526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Escola Náutica Infante Dom Henrique
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/42/2005/02/22/p/dre
@@ -86,16 +86,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:54Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +162,7 @@ Produção de efeitos
 
 A presente portaria produz efeitos a partir do ano lectivo de 2006-2007.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 3 de Maio de 2008.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 3 de Maio de 2008.
 
 ## ANEXO I — Escola Náutica Infante D. Henrique
 
@@ -152,11 +172,11 @@ Licenciatura em Administração e Gestão de Negócios Portuários
 
 Ramo de Portos Comerciais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 Ramo de Marinas e Portos de Recreio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 ## ANEXO II — Escola Náutica Infante D. Henrique
 
@@ -168,7 +188,7 @@ QUADRO N.º 1
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 Ramo de Portos Comerciais
 
@@ -176,31 +196,31 @@ QUADRO N.º 2
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 QUADRO N.º 3
 
 3.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 QUADRO N.º 4
 
 4.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 QUADRO N.º 5
 
 5.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 QUADRO N.º 6
 
 6.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 Ramo de Marinas e Portos de Recreio
 
@@ -208,28 +228,28 @@ QUADRO N.º 7
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 QUADRO N.º 8
 
 3.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 QUADRO N.º 9
 
 4.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 QUADRO N.º 10
 
 5.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
 
 QUADRO N.º 11
 
 6.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09300/0263802642.pdf)

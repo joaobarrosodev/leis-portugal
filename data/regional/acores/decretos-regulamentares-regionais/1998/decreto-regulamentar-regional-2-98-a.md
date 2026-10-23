@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/043b00/07020727.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/1998/02/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1998-209865
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cd3bd4e56c0975706228914d99a03db91ec6e56d7c26e60bee0e52bec731226
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e33e8043cf782d74fbf95e3b52ce72d9525ae6191f109b1bf2b914366740dce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Centro de Prestações Pecuniárias de Segurança Social
 - Horta
+- Instituto de Gestão de Regimes de Segurança Social
 - Orgânica
 - Ponta Delgada
 - Quadro de Pessoal
-- Instituto de Gestão de Regimes de Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:276846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285487:por
+  label: "Alterada a redacção dos arts. 92º, nº 1 do art. 93, 94º, 96º, 97º, 98º e 100º e o quadro do pessoal constante do\
+    \ DRR 9/91/A, de 07-Mar, alterado e republicado pelo presente diploma, pelo DRR.6/2002/A.21.01.2002.PG-RAA, DR.IS-B [37]\
+    \ de 13.02.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2002-285487
+  date: '2002-01-21'
+- type: amended_by
+  target: pt:dre:667688:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 9/91/A de 07-Mar, com as alterações introduzidas pelo presente diploma,\
+    \ pelo DRR.23/2003/A.17.06.2003.PG-RAA, DR.IS-B [157] de 10.07.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2003-667688
+  date: '2003-06-17'
+- type: amended_by
+  target: pt:dre:517233:por
+  label: "Alterados os arts. 25º, al. c) do art. 31º, 33º, nº 3 do art. 36º, 38º, 45º, 46º, al. c) do art. 49º, 51º, nº 3\
+    \ do art. 53º, 55º, 63º, nº 2 do art. 65º, 67º, nº 2 do art. 68º, al. c) do art. 69º, 70º, 71º, nº 3 do art. 74º, 76º,\
+    \ 100º e 102º e substituído o quadro do pessoal aprovado pelo DRR 9/91/A de 07-Mar - com a redacção do presente diploma\
+    \ - pelo DRR.26/2004/A.08.06.2004.SRAS-RAA, DR.IS-B [158] de 07.07.2004, que procede a nova republicação daquele diploma\
+    \ com todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2004-517233
+  date: '2004-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -95,16 +117,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276846:por
+  label: "Revogado, a partir de 01.06.2011, o DRR 9/91/A de 07-Mar, alterado pelo presente diploma, pelo DRR.8/2011/A.12.04.2011.PG-RAA,\
+    \ DR.IS [72] de 12.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2011-276846
+  date: '2011-04-12'
 article_structure:
-  article_count: 170
-  section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 119
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:58Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +235,7 @@ Conselho de administração.
 
 De apoio técnico:
 
-##### Divisão de Regimes, Orçamento e Organização;
+Divisão de Regimes, Orçamento e Organização;
 
 Núcleo de Informática;
 
@@ -151,7 +243,7 @@ De apoio instrumental:
 
 Serviço de Informação e Documentação;
 
-#### Secção de Apoio Administrativo;
+Secção de Apoio Administrativo;
 
 De carácter operativo:
 
@@ -165,7 +257,9 @@ Centro de Prestações Pecuniárias de Ponta Delgada.
 
 3 - A Divisão de Regimes, Orçamento e Organização, o Núcleo de Informática, o Serviço de Informação e Documentação e a Secção de Apoio Administrativo funcionam na dependência directa do presidente do conselho de administração.
 
-###### Artigo 4.º — Composição
+Artigo 4.º
+
+Composição
 
 1 - ...
 
@@ -177,7 +271,9 @@ Centro de Prestações Pecuniárias de Ponta Delgada.
 
 5 - ...
 
-###### Artigo 5.º — Competências
+Artigo 5.º
+
+Competências
 
 Ao conselho de administração compete especialmente:
 
@@ -193,7 +289,9 @@ e) ...
 
 f) ...
 
-###### Artigo 6.º — Competências do presidente do conselho de administração
+Artigo 6.º
+
+Competências do presidente do conselho de administração
 
 1 - Compete ao presidente do conselho de administração:
 
@@ -213,7 +311,9 @@ e) Dirigir os serviços colocados na sua dependência directa.
 
 4 - ...
 
-###### Artigo 7.º — Funcionamento do conselho de administração
+Artigo 7.º
+
+Funcionamento do conselho de administração
 
 1 - O conselho de administração reúne ordinariamente uma vez por mês e extraordinariamente sempre que o seu presidente, por sua iniciativa ou a pedido de dois dos vogais, o convoque.
 
@@ -223,7 +323,9 @@ e) Dirigir os serviços colocados na sua dependência directa.
 
 4 - ...
 
-###### Artigo 9.º — Competências da Divisão de Regimes, Orçamento e Organização
+Artigo 9.º
+
+Competências da Divisão de Regimes, Orçamento e Organização
 
 1 - A Divisão de Regimes, Orçamento e Organização assegura o apoio técnico ao IGRSS, abrangendo, para o efeito, três áreas de competências, em matéria de regimes de segurança social, de orçamento e contabilidade e de organização.
 
@@ -281,7 +383,9 @@ d) Propor e implementar medidas tendentes ao esclarecimento dos beneficiários, 
 
 e) Apoiar tecnicamente o SID, definindo as linhas de concepção geral do serviço.
 
-###### Artigo 10.º — Núcleo de Informática
+Artigo 10.º
+
+Núcleo de Informática
 
 1 - ...
 
@@ -291,11 +395,15 @@ e) Apoiar tecnicamente o SID, definindo as linhas de concepção geral do servi�
 
 4 - O coordenador de informática é remunerado pelo índice 650 da tabela de remunerações da carreira de técnico superior de informática.
 
-###### Artigo 11.º — Secção de Apoio Administrativo
+Artigo 11.º
+
+Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo prestar apoio administrativo geral aos órgãos e serviços centrais do IGRSS, designadamente no que diz respeito ao expediente, pessoal, contabilidade, dactilografia, secretariado e arquivo.
 
-###### Artigo 12.º — Direcção
+Artigo 12.º
+
+Direcção
 
 1 - Os centros são dirigidos por um director, nomeado por despacho do Secretário Regional da Educação e Assuntos Sociais, sob proposta do director regional de Segurança Social, ouvido o presidente do conselho de administração do IGRSS.
 
@@ -305,7 +413,9 @@ a) Nos centros de prestações pecuniárias pelo chefe de divisão que cada dire
 
 b) No Centro Coordenador de Prestações Diferidas pelo coordenador geral que o director designar.
 
-###### Artigo 13.º — Autonomia de gestão
+Artigo 13.º
+
+Autonomia de gestão
 
 1 - Os centros dispõem de autonomia de gestão no que diz respeito ao seu funcionamento corrente.
 
@@ -313,11 +423,15 @@ b) No Centro Coordenador de Prestações Diferidas pelo coordenador geral que o 
 
 3 - As delegações do conselho de administração referentes, nomeadamente, ao deferimento de prestações devem prever a possibilidade de subdelegação.
 
-###### Artigo 15.º — Equiparação dos directores
+Artigo 15.º
+
+Equiparação dos directores
 
 Os directores dos centros são equiparados, para todos os efeitos, a directores de serviços.
 
-###### Artigo 18.º — Serviços do Centro Coordenador de Prestações Diferidas
+Artigo 18.º
+
+Serviços do Centro Coordenador de Prestações Diferidas
 
 O CCPD dispõe dos seguintes serviços:
 
@@ -329,9 +443,11 @@ Coordenação Geral de Prestações Diferidas de Regimes Especiais;
 
 De apoio instrumental:
 
-#### Secção de Apoio Administrativo.
+Secção de Apoio Administrativo.
 
-###### Artigo 19.º — Coordenação Geral de Prestações Diferidas do Regime Geral
+Artigo 19.º
+
+Coordenação Geral de Prestações Diferidas do Regime Geral
 
 1 - A Coordenação Geral de Prestações Diferidas do Regime Geral organiza os processos referentes ao regime geral.
 
@@ -341,15 +457,21 @@ Coordenação de Prestações de Invalidez e Velhice;
 
 Coordenação de Subsídios por Morte e Sobrevivência.
 
-###### Artigo 21.º — Coordenação Geral de Prestações Diferidas de Regimes Especiais
+Artigo 21.º
+
+Coordenação Geral de Prestações Diferidas de Regimes Especiais
 
 A Coordenação Geral de Prestações Diferidas de Regimes Especiais organiza os processos referentes a regimes especiais e efectua o tratamento das questões relativas às convenções e acordos internacionais, integrando, para o efeito, a Coordenação de Regimes Especiais.
 
-###### Artigo 22.º — Coordenação de Regimes Especiais
+Artigo 22.º
+
+Coordenação de Regimes Especiais
 
 A Coordenação de Regimes Especiais tem as competências atribuídas às coordenações previstas no artigo 20.º, no que diz respeito aos processos relativos às prestações dos regimes especiais, bem como o tratamento das questões relativas às convenções e acordos internacionais.
 
-###### Artigo 23.º — Secção de Apoio Administrativo
+Artigo 23.º
+
+Secção de Apoio Administrativo
 
 A Secção de Apoio Administrativo presta apoio administrativo geral ao CCPD, competindo-lhe:
 
@@ -377,15 +499,17 @@ l) ...
 
 m) Receber e tratar os dados estatísticos do sector.
 
-###### Artigo 26.º — Centro de Prestações Pecuniárias de Angra do Heroísmo
+Artigo 26.º
+
+Centro de Prestações Pecuniárias de Angra do Heroísmo
 
 O Centro de Prestações Pecuniárias de Angra do Heroísmo (CPPAH) dispõe dos seguintes serviços:
 
 De carácter operativo:
 
-##### Divisão de Prestações Pecuniárias;
+Divisão de Prestações Pecuniárias;
 
-##### Divisão de Serviços Desconcentrados e Fiscalização;
+Divisão de Serviços Desconcentrados e Fiscalização;
 
 Coordenação de Contencioso;
 
@@ -397,7 +521,9 @@ De apoio instrumental:
 
 Repartição dos Serviços Administrativos e Apoio Social Interno.
 
-###### Artigo 27.º — Divisão de Prestações Pecuniárias
+Artigo 27.º
+
+Divisão de Prestações Pecuniárias
 
 1 - A Divisão de Prestações Pecuniárias organiza os processos necessários ao reconhecimento do direito às prestações de segurança social, elabora indicadores sobre o funcionamento do CPPAH e recebe e trata os dados estatísticos do sector.
 
@@ -407,7 +533,9 @@ Coordenação Geral de Beneficiários e Contribuintes;
 
 Coordenação Geral de Organização de Processos.
 
-###### Artigo 28.º — Coordenação Geral de Beneficiários e Contribuintes
+Artigo 28.º
+
+Coordenação Geral de Beneficiários e Contribuintes
 
 1 - A Coordenação Geral de Beneficiários e Contribuintes procede à identificação dos beneficiários e contribuintes e ao registo de remunerações.
 
@@ -417,7 +545,9 @@ Coordenação de Beneficiários e Contribuintes;
 
 Coordenação de Registo de Salários.
 
-###### Artigo 32.º — Coordenação Geral de Organização de Processos
+Artigo 32.º
+
+Coordenação Geral de Organização de Processos
 
 1 - A Coordenação Geral de Organização de Processos organiza a documentação relativa à atribuição de prestações e processa as mesmas.
 
@@ -427,7 +557,9 @@ Coordenação de Organização de Processos;
 
 Coordenação de Processamento.
 
-###### Artigo 35.º — Divisão de Serviços Desconcentrados e Fiscalização
+Artigo 35.º
+
+Divisão de Serviços Desconcentrados e Fiscalização
 
 1 - A Divisão de Serviços Desconcentrados e Fiscalização controla o cumprimento das obrigações para com o sistema de segurança social.
 
@@ -437,23 +569,29 @@ Coordenação Geral de Serviços Desconcentrados;
 
 Serviço de Fiscalização.
 
-###### Artigo 40.º — Fiscalização
+Artigo 40.º
+
+Fiscalização
 
 1 - ...
 
 2 - Os funcionários em exercício de funções de fiscalização têm os poderes previstos na lei e utilizarão, para o efeito, cartão de identificação.
 
-###### Artigo 41.º — Repartição dos Serviços Administrativos e Apoio Social Interno
+Artigo 41.º
+
+Repartição dos Serviços Administrativos e Apoio Social Interno
 
 1 - A Repartição dos Serviços Administrativos e Apoio Social Interno desenvolve todas as operações administrativas relacionadas com o pessoal, expediente, arquivo e aprovisionamento e coordena os serviços de apoio social internos.
 
 2 - A Repartição dos Serviços Administrativos e Apoio Social Interno compreende os seguintes serviços:
 
-#### Secção de Apoio Administrativo;
+Secção de Apoio Administrativo;
 
 Serviços de Apoio Social Interno.
 
-###### Artigo 42.º — Secção de Apoio Administrativo
+Artigo 42.º
+
+Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo:
 
@@ -485,13 +623,17 @@ n) ...
 
 o) ...
 
-###### Artigo 43.º — Serviços de Apoio Social Interno
+Artigo 43.º
+
+Serviços de Apoio Social Interno
 
 1 - ...
 
 2 - A utilização e funcionamento dos Serviços de Apoio Social Interno serão objecto de um regulamento interno a aprovar pelo Secretário Regional da Educação e Assuntos Sociais.
 
-###### Artigo 44.º — Coordenação de Contabilidade
+Artigo 44.º
+
+Coordenação de Contabilidade
 
 1 - ...
 
@@ -499,13 +641,15 @@ o) ...
 
 3 - Nas situações de falta ou impedimento de tesoureiros, serão os mesmos substituídos nas suas funções por técnicos auxiliares de segurança social destacados, para o efeito, de entre o pessoal da Coordenação de Contabilidade.
 
-###### Artigo 47.º — Centro de Prestações Pecuniárias da Horta
+Artigo 47.º
+
+Centro de Prestações Pecuniárias da Horta
 
 O Centro de Prestações Pecuniárias da Horta (CPPH) dispõe dos seguintes serviços:
 
 De carácter operativo:
 
-##### Divisão de Prestações Pecuniárias e Fiscalização;
+Divisão de Prestações Pecuniárias e Fiscalização;
 
 Coordenação de Contencioso;
 
@@ -519,7 +663,9 @@ De apoio instrumental:
 
 Repartição dos Serviços Administrativos e Apoio Social Interno.
 
-###### Artigo 48.º — Divisão de Prestações Pecuniárias e Fiscalização
+Artigo 48.º
+
+Divisão de Prestações Pecuniárias e Fiscalização
 
 1 - A Divisão de Prestações Pecuniárias e Fiscalização organiza os processos necessários ao reconhecimento do direito às prestações de segurança social e controla o cumprimento das obrigações para com o sistema.
 
@@ -529,7 +675,9 @@ Coordenação Geral de Prestações Pecuniárias;
 
 Coordenação Geral de Serviços Desconcentrados e Fiscalização.
 
-###### Artigo 49.º — Coordenação Geral de Prestações Pecuniárias
+Artigo 49.º
+
+Coordenação Geral de Prestações Pecuniárias
 
 1 - A Coordenação Geral de Prestações Pecuniárias procede à identificação dos beneficiários e contribuintes, ao registo de remunerações e à organização da documentação relativa à atribuição de prestações e respectivo processamento.
 
@@ -541,23 +689,29 @@ Coordenação de Organização de Processos;
 
 Coordenação de Registo de Salários e Processamento.
 
-###### Artigo 58.º — Fiscalização
+Artigo 58.º
+
+Fiscalização
 
 1 - ...
 
 2 - Os funcionários em exercício de funções de fiscalização têm os poderes previstos na lei e utilizarão, para o efeito, cartão de identificação.
 
-###### Artigo 59.º — Repartição dos Serviços Administrativos e Apoio Social Interno
+Artigo 59.º
+
+Repartição dos Serviços Administrativos e Apoio Social Interno
 
 1 - A Repartição dos Serviços Administrativos e Apoio Social Interno desenvolve todas as operações administrativas relacionadas com o pessoal, expediente, arquivo e aprovisionamento e coordena os serviços de apoio social internos.
 
 2 - A Repartição dos Serviços Administrativos e Apoio Social Interno compreende os seguintes serviços:
 
-#### Secção de Apoio Administrativo;
+Secção de Apoio Administrativo;
 
 Serviços de Apoio Social Interno.
 
-###### Artigo 60.º — Secção de Apoio Administrativo
+Artigo 60.º
+
+Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo:
 
@@ -589,13 +743,17 @@ n) ...
 
 o) ...
 
-###### Artigo 61.º — Serviços de Apoio Social Interno
+Artigo 61.º
+
+Serviços de Apoio Social Interno
 
 1 - ...
 
 2 - A utilização e funcionamento dos Serviços de Apoio Social Interno serão objecto de um regulamento interno a aprovar pelo Secretário Regional da Educação e Assuntos Sociais.
 
-###### Artigo 62.º — Coordenação de Contabilidade
+Artigo 62.º
+
+Coordenação de Contabilidade
 
 1 - ...
 
@@ -603,15 +761,17 @@ o) ...
 
 3 - Nas situações de falta ou impedimento do tesoureiro, será o mesmo substituído nas suas funções por um técnico auxiliar de segurança social destacado, para o efeito, de entre o pessoal da Coordenação de Contabilidade.
 
-###### Artigo 65.º — Centro de Prestações Pecuniárias de Ponta Delgada
+Artigo 65.º
+
+Centro de Prestações Pecuniárias de Ponta Delgada
 
 O Centro de Prestações Pecuniárias de Ponta Delgada (CPPPD) dispõe dos seguintes serviços:
 
 De carácter operativo:
 
-##### Divisão de Prestações Pecuniárias;
+Divisão de Prestações Pecuniárias;
 
-##### Divisão de Serviços Desconcentrados e Fiscalização;
+Divisão de Serviços Desconcentrados e Fiscalização;
 
 Coordenação de Contencioso;
 
@@ -623,7 +783,9 @@ De apoio instrumental:
 
 Repartição dos Serviços Administrativos e Apoio Social Interno.
 
-###### Artigo 66.º — Divisão de Prestações Pecuniárias
+Artigo 66.º
+
+Divisão de Prestações Pecuniárias
 
 1 - A Divisão de Prestações Pecuniárias organiza os processos necessários ao reconhecimento do direito às prestações de segurança social, elabora indicadores sobre o funcionamento do CPPPD e recebe e trata os dados estatísticos do sector.
 
@@ -633,7 +795,9 @@ Coordenação Geral de Beneficiários e Contribuintes;
 
 Coordenação Geral de Organização de Processos.
 
-###### Artigo 67.º — Coordenação Geral de Beneficiários e Contribuintes
+Artigo 67.º
+
+Coordenação Geral de Beneficiários e Contribuintes
 
 1 - A Coordenação Geral de Beneficiários e Contribuintes procede à identificação dos beneficiários e contribuintes e ao registo de remunerações.
 
@@ -645,7 +809,9 @@ Coordenação de Registo de Salários I;
 
 Coordenação de Registo de Salários II.
 
-###### Artigo 71.º — Coordenação Geral de Organização de Processos
+Artigo 71.º
+
+Coordenação Geral de Organização de Processos
 
 1 - A Coordenação Geral de Organização de Processos organiza a documentação relativa à atribuição de prestações e processa as mesmas.
 
@@ -655,7 +821,9 @@ Coordenação de Organização de Processos;
 
 Coordenação de Processamento.
 
-###### Artigo 74.º — Divisão de Serviços Desconcentrados e Fiscalização
+Artigo 74.º
+
+Divisão de Serviços Desconcentrados e Fiscalização
 
 1 - A Divisão de Serviços Desconcentrados e Fiscalização controla o cumprimento das obrigações para com o sistema de segurança social.
 
@@ -665,23 +833,29 @@ Coordenação Geral de Serviços Desconcentrados;
 
 Serviço de Fiscalização.
 
-###### Artigo 79.º — Fiscalização
+Artigo 79.º
+
+Fiscalização
 
 1 - ...
 
 2 - Os funcionários em exercício de funções de fiscalização têm os poderes previstos na lei e utilizarão, para o efeito, cartão de identificação.
 
-###### Artigo 80.º — Repartição dos Serviços Administrativos e Apoio Social Interno
+Artigo 80.º
+
+Repartição dos Serviços Administrativos e Apoio Social Interno
 
 1 - A Repartição dos Serviços Administrativos e Apoio Social Interno desenvolve todas as operações administrativas relacionadas com o pessoal, expediente, arquivo e aprovisionamento e coordena os serviços de apoio social internos.
 
 2 - A Repartição dos Serviços Administrativos e Apoio Social Interno compreende os seguintes serviços:
 
-#### Secção de Apoio Administrativo;
+Secção de Apoio Administrativo;
 
 Serviços de Apoio Social Interno.
 
-###### Artigo 81.º — Secção de Apoio Administrativo
+Artigo 81.º
+
+Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo:
 
@@ -713,13 +887,17 @@ n) ...
 
 o) ...
 
-###### Artigo 82.º — Serviços de Apoio Social Interno
+Artigo 82.º
+
+Serviços de Apoio Social Interno
 
 1 - ...
 
 2 - A utilização e funcionamento dos Serviços de Apoio Social Interno serão objecto de um regulamento interno a aprovar pelo Secretário Regional da Educação e Assuntos Sociais.
 
-###### Artigo 85.º — Tesouraria
+Artigo 85.º
+
+Tesouraria
 
 1 - Compete à tesouraria:
 
@@ -733,7 +911,9 @@ d) ...
 
 2 - Nas situações de falta ou impedimento de tesoureiros, serão os mesmos substituídos nas suas funções por técnicos auxiliares de segurança social destacados, para o efeito, de entre o pessoal da Coordenação de Contabilidade.
 
-###### Artigo 92.º — Movimentação de valores
+Artigo 92.º
+
+Movimentação de valores
 
 1 - ...
 
@@ -741,21 +921,29 @@ d) ...
 
 3 - ...
 
-###### Artigo 95.º — Pessoal dirigente
+Artigo 95.º
+
+Pessoal dirigente
 
 1 - O pessoal dirigente é provido de acordo com o disposto no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, aplicado à Região com as adaptações constantes do [Decreto Legislativo Regional n.º 1/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1990-333550), de 15 de Janeiro, respectiva legislação complementar e com o disposto no presente diploma.
 
 2 - O recrutamento dos directores e chefes de divisão poderá ser feito de entre os funcionários integrados na carreira de técnico auxiliar de segurança social, das categorias de coordenador ou coordenador geral, com experiência adequada, ainda que não possuidores de curso superior.
 
-###### Artigo 96.º — Pessoal de informática
+Artigo 96.º
+
+Pessoal de informática
 
 As condições e regras de ingresso e acesso do pessoal de informática são as definidas no [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro.
 
-###### Artigo 97.º — Pessoal de enfermagem
+Artigo 97.º
+
+Pessoal de enfermagem
 
 As condições e regras de ingresso e acesso do pessoal de enfermagem são as definidas no respectivo regime jurídico.
 
-###### Artigo 101.º — Técnico auxiliar de segurança social
+Artigo 101.º
+
+Técnico auxiliar de segurança social
 
 1 - ...
 
@@ -767,7 +955,9 @@ As condições e regras de ingresso e acesso do pessoal de enfermagem são as de
 
 5 - ...
 
-###### Artigo 103.º — Pessoal da coordenação de serviços desconcentrados e fiscalização
+Artigo 103.º
+
+Pessoal da coordenação de serviços desconcentrados e fiscalização
 
 1 - As coordenações de serviços desconcentrados, os serviços de fiscalização e as funções de auditoria e fiscalização das coordenações de ilha funcionam com pessoal da área das prestações pecuniárias, afectado para o efeito por despacho do director regional da Segurança Social, pelo período de um ano, renovável.
 
@@ -775,13 +965,17 @@ As condições e regras de ingresso e acesso do pessoal de enfermagem são as de
 
 3 - Pelo exercício das funções referidas no n.º 1 os funcionários afectados para o efeito têm direito a um suplemento de remuneração correspondente a 25% da respectiva remuneração de base.
 
-###### Artigo 104.º — Coordenadores concelhios
+Artigo 104.º
+
+Coordenadores concelhios
 
 1 - Em cada coordenação concelhia será designado um técnico auxiliar de segurança social, com preferência para a categoria mais elevada, para exercer funções de coordenação, por despacho do director regional da Segurança Social, mediante proposta do presidente do conselho de administração do IGRSS.
 
 2 - ...
 
-###### Artigo 113.º — Regulamentação
+Artigo 113.º
+
+Regulamentação
 
 A fiscalização e a auditoria serão objecto de um regulamento a aprovar por portaria do Secretário Regional da Educação e Assuntos Sociais, que fixará regras de funcionamento e actuação e ainda o número de funcionários a afectar a essas funções.»
 
@@ -827,13 +1021,13 @@ O [Decreto Regulamentar Regional n.º 9/91/A](https://diariodarepublica.pt/dr/de
 
 Aprovado em Conselho Regional, em Angra do Heroísmo, em 24 de Outubro de 1997.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 26 de Janeiro de 1998.**
+Assinado em Angra do Heroísmo em 26 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — [Decreto Regulamentar Regional n.º 9/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1991-458870)
 
@@ -865,7 +1059,7 @@ Conselho de administração.
 
 De apoio técnico:
 
-##### Divisão de Regimes, Orçamento e Organização;
+Divisão de Regimes, Orçamento e Organização;
 
 Núcleo de Informática.
 
@@ -873,7 +1067,7 @@ De apoio instrumental:
 
 Serviço de Informação e Documentação;
 
-#### Secção de Apoio Administrativo.
+Secção de Apoio Administrativo.
 
 De carácter operativo:
 
@@ -953,7 +1147,9 @@ e) Dirigir os serviços colocados na sua dependência directa.
 
 2 - Consideram-se isentos de responsabilidade os membros que não tiverem intervindo na deliberação ou a desaprovaram com declaração na acta da respectiva reunião.
 
-#### SECÇÃO II — Divisão de Regimes, Orçamento e Organização
+#### SECÇÃO II
+
+##### Divisão de Regimes, Orçamento e Organização
 
 ###### Artigo 9.º — Competências da Divisão de Regimes, Orçamento e Organização
 
@@ -1053,9 +1249,13 @@ b) Proceder ao tratamento da informação relativa a convenções internacionais
 
 c) Organizar e manter actualizados ficheiros de legislação, jurisprudência e doutrina sobre matérias de interesse para o IGRSS e efectuar a difusão interna dos diplomas legais e outros elementos.
 
-#### SECÇÃO IV — Secção de Apoio Administrativo
+#### SECÇÃO IV
 
-###### Artigo 12.º — Secção de Apoio Administrativo
+#### Secção de Apoio Administrativo
+
+###### Artigo 12.º
+
+#### Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo prestar apoio administrativo geral aos órgãos e serviços centrais do IGRSS, designadamente no que diz respeito ao expediente, pessoal, contabilidade, dactilografia, secretariado e arquivo.
 
@@ -1119,7 +1319,7 @@ Coordenação Geral de Prestações Diferidas de Regimes Especiais;
 
 De apoio instrumental:
 
-#### Secção de Apoio Administrativo.
+Secção de Apoio Administrativo.
 
 ###### Artigo 19.º — Coordenação Geral de Prestações Diferidas do Regime Geral
 
@@ -1155,7 +1355,9 @@ A Coordenação Geral de Prestações Diferidas de Regimes Especiais organiza os
 
 A Coordenação de Regimes Especiais tem as competências atribuídas às coordenações previstas no artigo 20.º no que diz respeito aos processos relativos às prestações dos regimes especiais, bem como o tratamento das questões relativas às convenções e acordos internacionais.
 
-###### Artigo 23.º — Secção de Apoio Administrativo
+###### Artigo 23.º
+
+#### Secção de Apoio Administrativo
 
 A Secção de Apoio Administrativo presta apoio administrativo geral ao CCPD, competindo-lhe:
 
@@ -1209,9 +1411,9 @@ O Centro de Prestações Pecuniárias de Angra do Heroísmo (CPPAH) dispõe dos 
 
 De carácter operativo:
 
-##### Divisão de Prestações Pecuniárias;
+Divisão de Prestações Pecuniárias;
 
-##### Divisão de Serviços Desconcentrados e Fiscalização;
+Divisão de Serviços Desconcentrados e Fiscalização;
 
 Coordenação de Contencioso;
 
@@ -1223,7 +1425,9 @@ De apoio instrumental:
 
 Repartição dos Serviços Administrativos e Apoio Social Interno.
 
-###### Artigo 26.º — Divisão de Prestações Pecuniárias
+###### Artigo 26.º
+
+##### Divisão de Prestações Pecuniárias
 
 1 - A Divisão de Prestações Pecuniárias organiza os processos necessários ao reconhecimento do direito às prestações de segurança social, elabora indicadores sobre o funcionamento do CPPAH e recebe e trata os dados estatísticos do sector.
 
@@ -1307,7 +1511,9 @@ c) Verificar e controlar a exactidão das informações recebidas dos serviços 
 
 d) Colaborar com os serviços de emprego e formação profissional na organização dos processos e no controlo de atribuição de prestações no desemprego.
 
-###### Artigo 33.º — Divisão de Serviços Desconcentrados e Fiscalização
+###### Artigo 33.º
+
+##### Divisão de Serviços Desconcentrados e Fiscalização
 
 1 - A Divisão de Serviços Desconcentrados e Fiscalização controla o cumprimento das obrigações para com o sistema de segurança social.
 
@@ -1369,11 +1575,13 @@ d) Fazer o levantamento e proceder à identificação dos bens penhoráveis e hi
 
 2 - A Repartição dos Serviços Administrativos e Apoio Social Interno compreende os seguintes serviços:
 
-#### Secção de Apoio Administrativo;
+Secção de Apoio Administrativo;
 
 Serviços de Apoio Social Interno.
 
-###### Artigo 40.º — Secção de Apoio Administrativo
+###### Artigo 40.º
+
+#### Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo:
 
@@ -1495,7 +1703,7 @@ O Centro de Prestações Pecuniárias da Horta (CPPH) dispõe dos seguintes serv
 
 De carácter operativo:
 
-##### Divisão de Prestações Pecuniárias e Fiscalização;
+Divisão de Prestações Pecuniárias e Fiscalização;
 
 Coordenação de Contencioso;
 
@@ -1509,7 +1717,9 @@ De apoio instrumental:
 
 Repartição dos Serviços Administrativos e Apoio Social Interno.
 
-###### Artigo 46.º — Divisão de Prestações Pecuniárias e Fiscalização
+###### Artigo 46.º
+
+##### Divisão de Prestações Pecuniárias e Fiscalização
 
 1 - A Divisão de Prestações Pecuniárias e Fiscalização organiza os processos necessários ao reconhecimento do direito às prestações de segurança social e controla o cumprimento das obrigações para com o sistema.
 
@@ -1633,11 +1843,13 @@ d) Fazer o levantamento e proceder à identificação dos bens penhoráveis e hi
 
 2 - A Repartição dos Serviços Administrativos e Apoio Social Interno compreende os seguintes serviços:
 
-#### Secção de Apoio Administrativo;
+Secção de Apoio Administrativo;
 
 Serviços de Apoio Social Interno.
 
-###### Artigo 57.º — Secção de Apoio Administrativo
+###### Artigo 57.º
+
+#### Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo:
 
@@ -1777,9 +1989,9 @@ O Centro de Prestações Pecuniárias de Ponta Delgada (CPPPD) dispõe dos segui
 
 De carácter operativo:
 
-##### Divisão de Prestações Pecuniárias;
+Divisão de Prestações Pecuniárias;
 
-##### Divisão de Serviços Desconcentrados e Fiscalização;
+Divisão de Serviços Desconcentrados e Fiscalização;
 
 Coordenação de Contencioso;
 
@@ -1791,7 +2003,9 @@ De apoio instrumental:
 
 Repartição dos Serviços Administrativos e Apoio Social Interno.
 
-###### Artigo 64.º — Divisão de Prestações Pecuniárias
+###### Artigo 64.º
+
+##### Divisão de Prestações Pecuniárias
 
 1 - A Divisão de Prestações Pecuniárias organiza os processos necessários ao reconhecimento do direito às prestações de segurança social, elabora indicadores sobre o funcionamento do CPPPD e recebe e trata os dados estatísticos do sector.
 
@@ -1877,7 +2091,9 @@ c) Verificar e controlar a exactidão das informações recebidas dos serviços 
 
 d) Colaborar com os serviços de emprego e formação profissional na organização dos processos e no controlo de atribuição de prestações no desemprego.
 
-###### Artigo 71.º — Divisão de Serviços Desconcentrados e Fiscalização
+###### Artigo 71.º
+
+##### Divisão de Serviços Desconcentrados e Fiscalização
 
 1 - A Divisão de Serviços Desconcentrados e Fiscalização controla o cumprimento das obrigações para com o sistema de segurança social.
 
@@ -1943,11 +2159,13 @@ d) Fazer o levantamento e proceder à identificação dos bens penhoráveis e hi
 
 2 - A Repartição dos Serviços Administrativos e Apoio Social Interno compreende os seguintes serviços:
 
-#### Secção de Apoio Administrativo;
+Secção de Apoio Administrativo;
 
 Serviços de Apoio Social Interno.
 
-###### Artigo 78.º — Secção de Apoio Administrativo
+###### Artigo 78.º
+
+#### Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo:
 

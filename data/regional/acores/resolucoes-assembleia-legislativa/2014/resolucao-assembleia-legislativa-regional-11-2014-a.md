@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/11/2014/04/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/11-2014-25343999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c9abe34442bb96ce2eac30591accb7d123593e43ad7837464a44f62faa10f01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86fb5df2cbb2c66ed716b374b07edf4dee425f8737f2e78ec1ae4fa985c8412f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,41 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pescador
-- Ministério da Defesa Nacional
-- Mar
-- Zona Económica Exclusiva
-- Força Aérea
-- Marinha
-- Fiscalização
-- Pesca
-- Presidente da República
-- Primeiro-ministro
-- Recursos do Mar
-- Oceano Atlântico
-- Assembleia da República
-- Proteção do Ambiente
-- Pescado
+- Açores
 - Artes de Pesca
-- Política do Ambiente
-- Poluição Marinha
-- Quota de Pesca
-- Recomendação
+- Assembleia da República
 - Associação de Defesa do Ambiente
 - Embarcação de Pesca
+- Fiscalização
+- Força Aérea
 - Governo
-- Açores
+- Mar
+- Marinha
+- Ministério da Defesa Nacional
+- Oceano Atlântico
+- Pesca
+- Pescado
+- Pescador
+- Política do Ambiente
+- Poluição Marinha
+- Presidente da República
+- Primeiro-ministro
+- Proteção do Ambiente
+- Quota de Pesca
+- Recomendação
+- Recursos do Mar
+- Zona Económica Exclusiva
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:03Z'
   warnings: []
   errors: []
 ---
@@ -145,4 +145,4 @@ A Assembleia Legislativa da Região Autónoma dos Açores resolve, ainda, dar co
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 13 de março de 2014.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.

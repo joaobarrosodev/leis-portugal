@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/04200/04530456.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1981-391040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ccedb861c6be5a28ffc4608f55fd5de2e1ba0a25b967b510e1fc597327043ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c6ff75a1100fc796b8755b588b76a0619e4a80b187c6275a25714be54e45b7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Arquivo
+- Biblioteca Pública
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:584457:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:564177:por
+  label: "Alterado o artigo 18.º pelo DRR.44/81/A.02.10.1981.GR-RAA, DR.IS [227] de 02.10.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/44-1981-564177
+  date: '1981-10-02'
+- type: amended_by
+  target: pt:dre:417186:por
+  label: "Alterados os artigos 14.º, 15.º, 16.º e 18.º pelo DRR.24/87/A.03.08.1987.GR-RAA, DR.IS [176] de 03.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-1987-417186
+  date: '1987-08-03'
+- type: amended_by
+  target: pt:dre:584785:por
+  label: "Alterados os artigos 14.º, 15.º, 18.º (na redacção do Decreto Regulamentar Regional n.º 24/87/A, de 3 de Agosto\
+    \ ), e os quadros de pessoal reestruturados no presente diploma, pelo DRR.44/92/A.19.11.1992.GR-RAA, DR.IS-B [268] de\
+    \ 19.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/44-1992-584785
+  date: '1992-11-19'
+- type: cites
+  target: pt:dre:277307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584457:por
+  label: "Revogado pelo DRR.36/2000/A.2000.11.10.SREAS-RAA DR.IS-B [282] DE 07/DEZ/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2000-584457
+  date: '2000-11-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:21Z'
   warnings: []
   errors: []
 ---
@@ -96,23 +162,23 @@ Assim, o Governo Regional decreta, nos termos do artigo 299.º, n.º 1, alínea 
 
 ### CAPÍTULO I — Organização e funcionamento
 
-###### Artigo 1.º - 1 - As bibliotecas públicas e arquivos da Região Autónoma dos Açores são serviços dependentes da Secretaria Regional da Educação e Cultura, sob a superintendência da Direcção Regional dos Assuntos Culturais em articulação com as demais direcções regionais.
+Artigo 1.º - 1 - As bibliotecas públicas e arquivos da Região Autónoma dos Açores são serviços dependentes da Secretaria Regional da Educação e Cultura, sob a superintendência da Direcção Regional dos Assuntos Culturais em articulação com as demais direcções regionais.
 
 2 - As disposições do presente diploma aplicam-se às bibliotecas públicas e arquivos de Ponta Delgada, Angra do Heroísmo e Horta.
 
 3 - A organização de outros arquivos e outros serviços de bibliotecas e sua articulação com as instituições indicadas no número anterior serão objecto de regulamentação especial.
 
-###### Art. 2.º - 1 - A organização interna de cada uma das bibliotecas públicas e arquivos será determinada por regulamento aprovado por portaria do Secretário Regional da Educação e Cultura.
+Art. 2.º - 1 - A organização interna de cada uma das bibliotecas públicas e arquivos será determinada por regulamento aprovado por portaria do Secretário Regional da Educação e Cultura.
 
 2 - As bibliotecas públicas e arquivos poderão ter serviços de apoio instrumental nos domínios administrativo, de documentação e de informação em domínios específicos de tratamento das espécies e de apoio à acção cultural.
 
 3 - Por despacho do Secretário Regional da Educação e Cultura poderão funcionar como anexo ou ser colocados na dependência das bibliotecas públicas e arquivos, em termos a definir para cada caso, secções, arquivos especiais, centros de documentação, salas de leitura ou outras instituições afins.
 
-###### Art. 3.º Cada biblioteca pública e arquivo tem como órgãos um director, um conselho de leitura e um conselho consultivo, em termos a fixar no respectivo regulamento.
+Art. 3.º Cada biblioteca pública e arquivo tem como órgãos um director, um conselho de leitura e um conselho consultivo, em termos a fixar no respectivo regulamento.
 
-###### Art. 4.º O director é o responsável técnico e administrativo pelo funcionamento da biblioteca pública e arquivo, cabendo-lhe, designadamente, a orientação das actividades e a direcção do respectivo pessoal.
+Art. 4.º O director é o responsável técnico e administrativo pelo funcionamento da biblioteca pública e arquivo, cabendo-lhe, designadamente, a orientação das actividades e a direcção do respectivo pessoal.
 
-###### Art. 5.º - 1 - O conselho de leitura é composto pelo director, que presidirá, pelo pessoal técnico superior da instituição e por outras personalidades especialmente qualificadas, nomeadas por despacho do Secretário Regional da Educação e Cultura, sob proposta do director regional dos Assuntos Culturais, ouvido o director da biblioteca pública e arquivo.
+Art. 5.º - 1 - O conselho de leitura é composto pelo director, que presidirá, pelo pessoal técnico superior da instituição e por outras personalidades especialmente qualificadas, nomeadas por despacho do Secretário Regional da Educação e Cultura, sob proposta do director regional dos Assuntos Culturais, ouvido o director da biblioteca pública e arquivo.
 
 2 - Ao conselho de leitura cabe dar parecer sobre o plano anual de actividades da biblioteca pública e arquivo, sobre os trabalhos de investigação e sobre as propostas de aquisição de espécies.
 
@@ -120,17 +186,17 @@ Assim, o Governo Regional decreta, nos termos do artigo 299.º, n.º 1, alínea 
 
 4 - A colaboração das personalidades nomeadas nos termos do n.º 1 será remunerada por senha de presença, a fixar por despacho conjunto dos Secretários Regionais da Educação e Cultura e das Finanças.
 
-###### Art. 6.º - 1 - O conselho consultivo tem por função assegurar a articulação entre a biblioteca pública e o arquivo e as instituições culturais e educativas, as autarquias locais e outras entidades, por forma a garantir que os serviços correspondam às necessidades e interesses sentidos pela comunidade e que esta melhor conheça e apoie a missão que àqueles cabe desempenhar.
+Art. 6.º - 1 - O conselho consultivo tem por função assegurar a articulação entre a biblioteca pública e o arquivo e as instituições culturais e educativas, as autarquias locais e outras entidades, por forma a garantir que os serviços correspondam às necessidades e interesses sentidos pela comunidade e que esta melhor conheça e apoie a missão que àqueles cabe desempenhar.
 
 2 - O conselho consultivo é composto pelo director, que presidirá, por representantes de instituições locais indicadas no regulamento de cada uma das bibliotecas públicas e arquivos e por personalidades representativas da vida cultural e social da respectiva área, nomeadas por despacho do Secretário Regional da Educação e Cultura, considerando-se a colaboração prestada, para todos os efeitos, como exercício das suas funções nos organismos ou instituições a que pertençam.
 
 3 - O conselho consultivo reunirá, pelo menos, uma vez em cada ano para apreciar o relatório de actividades do ano anterior e o plano de actividades para o ano seguinte e sempre que convocado pelo director para se pronunciar sobre assuntos previamente indicados.
 
-###### Art. 7.º - 1 - Os directores das bibliotecas públicas e arquivos da Região são delegados da Direcção Regional dos Assuntos Culturais para os efeitos previstos no artigo 2.º do [Decreto-Lei n.º 46350](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46350-1965-294971), de 22 de Maio de 1965, relativamente às áreas a definir nos respectivos regulamentos ou por portaria do Secretário Regional da Educação e Cultura.
+Art. 7.º - 1 - Os directores das bibliotecas públicas e arquivos da Região são delegados da Direcção Regional dos Assuntos Culturais para os efeitos previstos no artigo 2.º do [Decreto-Lei n.º 46350](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46350-1965-294971), de 22 de Maio de 1965, relativamente às áreas a definir nos respectivos regulamentos ou por portaria do Secretário Regional da Educação e Cultura.
 
 2 - Aos representantes da Secretaria Regional da Educação e Cultura, incluindo, nos termos do número anterior, os directores das bibliotecas e arquivos, será em qualquer altura obrigatoriamente facultado pelos respectivos proprietários ou possuidores o exame das espécies e núcleos inventariados e das que se presumam terem valor para inventariação, aplicando-se o disposto no artigo 6.º do [Decreto Regional n.º 13/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1979-377540), de 16 de Agosto.
 
-###### Art. 8.º - 1 - A aquisição de espécies para as bibliotecas públicas e arquivos, para além do que resulte das disposições legais relativas à incorporação de documentos nos arquivos distritais e ao depósito legal e obrigatório de publicações, decorrerá:
+Art. 8.º - 1 - A aquisição de espécies para as bibliotecas públicas e arquivos, para além do que resulte das disposições legais relativas à incorporação de documentos nos arquivos distritais e ao depósito legal e obrigatório de publicações, decorrerá:
 
 a) De compra pelas respectivas dotações orçamentais;
 
@@ -144,9 +210,9 @@ d) De depósito de espécies que pertençam ao Património do Estado ou da Regi�
 
 3 - Quaisquer indivíduos e entidades oficiais ou particulares podem depositar nas bibliotecas públicas e arquivos espécies de que sejam proprietários nas condições estabelecidas nos respectivos regulamentos e desde que o conselho de leitura o considere conveniente.
 
-###### Art. 9.º O Secretário Regional da Educação e Cultura, sob proposta da Direcção Regional dos Assuntos Culturais, poderá autorizar a saída de espécies da biblioteca ou arquivo, ouvido o respectivo director, para exposições temporárias, para trabalhos de investigação de duração limitada ou para cessão a outro serviço público, desde que estejam garantidas as condições de segurança e conservação das mesmas.
+Art. 9.º O Secretário Regional da Educação e Cultura, sob proposta da Direcção Regional dos Assuntos Culturais, poderá autorizar a saída de espécies da biblioteca ou arquivo, ouvido o respectivo director, para exposições temporárias, para trabalhos de investigação de duração limitada ou para cessão a outro serviço público, desde que estejam garantidas as condições de segurança e conservação das mesmas.
 
-###### Art. 10.º - 1 - As horas de abertura e encerramento das salas de leitura das bibliotecas e arquivos e de outros serviços de atendimento do público serão fixadas por despacho do Secretário Regional da Educação e Cultura, sob proposta da Direcção Regional dos Assuntos Culturais, ouvidos os directores e os conselhos consultivos.
+Art. 10.º - 1 - As horas de abertura e encerramento das salas de leitura das bibliotecas e arquivos e de outros serviços de atendimento do público serão fixadas por despacho do Secretário Regional da Educação e Cultura, sob proposta da Direcção Regional dos Assuntos Culturais, ouvidos os directores e os conselhos consultivos.
 
 2 - As bibliotecas públicas e arquivos estarão abertos ao público em todos os dias úteis, incluindo os sábados, encerrando normalmente aos domingos e feriados.
 
@@ -154,35 +220,35 @@ d) De depósito de espécies que pertençam ao Património do Estado ou da Regi�
 
 4 - O período diário de abertura ao público poderá incluir durante todo o ano ou apenas em parte destes períodos de serviço nocturno, bem como períodos contínuos de abertura superiores aos horários dos funcionários, organizando-se para o efeito os horários destes de forma diversificada ou por turnos, sem prejuízo dos períodos de descanso diários e semanais impostos por lei, por forma que do funcionamento normal da instituição não resulte correntemente necessidade de prestação de trabalho extraordinário.
 
-###### Art. 11.º Os directores das bibliotecas públicas e arquivos elaborarão um relatório anual das actividades do seu estabelecimento que, depois de apreciado pelo conselho consultivo, será apresentado ao Secretário Regional da Educação e Cultura através da Direcção Regional dos Assuntos Culturais.
+Art. 11.º Os directores das bibliotecas públicas e arquivos elaborarão um relatório anual das actividades do seu estabelecimento que, depois de apreciado pelo conselho consultivo, será apresentado ao Secretário Regional da Educação e Cultura através da Direcção Regional dos Assuntos Culturais.
 
-###### Art. 12.º - 1 - A Direcção Regional dos Assuntos Culturais exercerá, relativamente às bibliotecas públicas e arquivos da Região, as competências enunciadas no artigo 1.º do [Decreto-Lei n.º 46350](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46350-1965-294971), de 22 de Maio de 1965, com as devidas adaptações.
+Art. 12.º - 1 - A Direcção Regional dos Assuntos Culturais exercerá, relativamente às bibliotecas públicas e arquivos da Região, as competências enunciadas no artigo 1.º do [Decreto-Lei n.º 46350](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46350-1965-294971), de 22 de Maio de 1965, com as devidas adaptações.
 
 2 - Para o efeito poderão ser designados ou destacados, por despacho do Secretário Regional da Educação e Cultura, em missões de inspecção os directores ou elementos do pessoal técnico superior das bibliotecas públicas e arquivos da Região ou ser requisitados técnicos competentes à Secretaria de Estado da Cultura.
 
-###### Art. 13.º As bibliotecas públicas e arquivos poderão estabelecer convénios e planos anuais de colaboração com a Universidade dos Açores, por forma que os alunos desta realizem estágios e desenvolvam trabalhos de investigação, sob a direcção do seu pessoal técnico em estreita colaboração e com a orientação dos respectivos professores.
+Art. 13.º As bibliotecas públicas e arquivos poderão estabelecer convénios e planos anuais de colaboração com a Universidade dos Açores, por forma que os alunos desta realizem estágios e desenvolvam trabalhos de investigação, sob a direcção do seu pessoal técnico em estreita colaboração e com a orientação dos respectivos professores.
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 14.º - 1 - As bibliotecas públicas e arquivos a que se refere o n.º 2 do artigo 1.º passam a dispor dos quadros de pessoal constantes do mapa anexo, aplicando-se às respectivas carreiras as normas constantes dos Decretos-Leis n.os [280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, e [245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho, em tudo o que não seja especialmente regulado no presente diploma.
+Art. 14.º - 1 - As bibliotecas públicas e arquivos a que se refere o n.º 2 do artigo 1.º passam a dispor dos quadros de pessoal constantes do mapa anexo, aplicando-se às respectivas carreiras as normas constantes dos Decretos-Leis n.os [280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, e [245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho, em tudo o que não seja especialmente regulado no presente diploma.
 
 2 - Dentro de cada carreira os quadros a que se refere o número anterior constituem um quadro único para efeitos de ingresso, transferência e promoção.
 
 3 - Aos auxiliares técnicos de conservação e restauro aplica-se o preceituado no n.º 4 do artigo 22.º do [Decreto Regulamentar Regional n.º 54/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/54-1980-458231), de 18 de Novembro.
 
-###### Art. 15.º - 1 - Os directores das bibliotecas públicas e arquivos de Angra do Heroísmo, Ponta Delgada e Horta são equiparados, para os efeitos do [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), a directores de serviço e a chefes de divisão.
+Art. 15.º - 1 - Os directores das bibliotecas públicas e arquivos de Angra do Heroísmo, Ponta Delgada e Horta são equiparados, para os efeitos do [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), a directores de serviço e a chefes de divisão.
 
 2 - Os directores das bibliotecas públicas e arquivos serão nomeados por despacho do Secretário Regional da Educação e Cultura, sob proposta do director regional dos Assuntos Culturais, de entre o pessoal técnico superior de biblioteca, arquivo e documentação ou, em casos devidamente fundamentados, de entre outras pessoas especialmente qualificadas para o exercício da função, nos termos do artigo 2.º do [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232).
 
-###### Art. 16.º Aplica-se aos contínuos e serventes das bibliotecas públicas e arquivos o disposto no artigo 17.º do decreto regulamentar regional relativo aos museus.
+Art. 16.º Aplica-se aos contínuos e serventes das bibliotecas públicas e arquivos o disposto no artigo 17.º do decreto regulamentar regional relativo aos museus.
 
-###### Art. 17.º - 1 - Até que seja regulamentada a matéria de informação de serviço prevista no artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Julho, o serviço de todo o pessoal previsto no presente diploma será classificado anualmente, por escrito, como Muito bom, Bom, Suficiente ou Deficiente pelo director, tomando em conta as propostas escritas e justificadas dos chefes ou responsáveis dos respectivos sectores de actividade, sendo o serviço destes últimos classificado directamente pelo director da mesma forma escrita e justificada.
+Art. 17.º - 1 - Até que seja regulamentada a matéria de informação de serviço prevista no artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Julho, o serviço de todo o pessoal previsto no presente diploma será classificado anualmente, por escrito, como Muito bom, Bom, Suficiente ou Deficiente pelo director, tomando em conta as propostas escritas e justificadas dos chefes ou responsáveis dos respectivos sectores de actividade, sendo o serviço destes últimos classificado directamente pelo director da mesma forma escrita e justificada.
 
 2 - Da classificação será sempre dado conhecimento ao funcionário, cabendo recurso para o Secretário Regional da Educação e Cultura, dentro dos quinze dias seguintes ao da notificação.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 18.º - 1 - A transição do pessoal que actualmente presta serviço nas bibliotecas públicas e arquivos referidos no artigo 1.º, qualquer que seja o seu vínculo, para os lugares dos quadros estabelecidos no presente diploma far-se-á na categoria ou classe em que o funcionário se encontre, mediante listas nominativas aprovadas pelos Secretários Regionais da Administração Pública e da Educação e Cultura e publicadas no Jornal Oficial, com base nas quais terá lugar o respectivo processo de provimento.
+Art. 18.º - 1 - A transição do pessoal que actualmente presta serviço nas bibliotecas públicas e arquivos referidos no artigo 1.º, qualquer que seja o seu vínculo, para os lugares dos quadros estabelecidos no presente diploma far-se-á na categoria ou classe em que o funcionário se encontre, mediante listas nominativas aprovadas pelos Secretários Regionais da Administração Pública e da Educação e Cultura e publicadas no Jornal Oficial, com base nas quais terá lugar o respectivo processo de provimento.
 
 2 - O pessoal integrado em carreiras horizontais transitará para as novas categorias de acordo com o tempo de serviço na respectiva categoria ou carreira.
 
@@ -194,30 +260,30 @@ d) De depósito de espécies que pertençam ao Património do Estado ou da Regi�
 
 6 - O pessoal abrangido pelos n.os 1, 3 e 4 deste artigo poderá ser provido em categoria imediatamente superior à resultante da aplicação daqueles preceitos desde que reúna as habilitações legalmente exigidas e o tempo de serviço na categoria, nos termos previstos no artigo 6.º do [Decreto Regulamentar Regional n.º 27/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1977-277307), com a redacção que lhe foi dada pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824).
 
-###### Art. 19.º O pessoal eventual ou assalariado que, a qualquer título, preste serviço nas bibliotecas públicas e arquivos à data da publicação do presente diploma e que não possua as habilitações exigidas pela lei passa à situação de servente contratado, podendo vir a ingressar nos quadros quando adquirir as referidas habilitações.
+Art. 19.º O pessoal eventual ou assalariado que, a qualquer título, preste serviço nas bibliotecas públicas e arquivos à data da publicação do presente diploma e que não possua as habilitações exigidas pela lei passa à situação de servente contratado, podendo vir a ingressar nos quadros quando adquirir as referidas habilitações.
 
-###### Art. 20.º - 1 - Quando, por força das normas de transição consignadas nos artigos anteriores, sejam integrados e reclassificados em determinada categoria ou carreira maior número de funcionários que o previsto no respectivo quadro, ficarão na situação de supranumerários os que tenham transitado de categoria anterior mais baixa e, nesta qualidade, os que; sucessivamente, tenham menos tempo na categoria, menos tempo de serviço ao Estado e os mais novos.
+Art. 20.º - 1 - Quando, por força das normas de transição consignadas nos artigos anteriores, sejam integrados e reclassificados em determinada categoria ou carreira maior número de funcionários que o previsto no respectivo quadro, ficarão na situação de supranumerários os que tenham transitado de categoria anterior mais baixa e, nesta qualidade, os que; sucessivamente, tenham menos tempo na categoria, menos tempo de serviço ao Estado e os mais novos.
 
 2 - Aos funcionários em situação de supranumerários, quando não lhes seja distribuído trabalho correspondente à respectiva categoria, poderão ser atribuídas tarefas correspondentes a outras categorias dentro do grupo de pessoal técnico-profissional e administrativo ou do grupo de pessoal operário e auxiliar, conforme as conveniências do serviço.
 
 3 - Os funcionários na situação de supranumerários ocuparão automaticamente a primeira vaga que se der na respectiva categoria, não podendo ser postas a concurso vagas dentro do mesmo grupo de pessoal enquanto o número total de funcionários providos dentro do grupo for igual ou superior ao previsto no respectivo quadro.
 
-###### Art. 21.º - 1 - O presente diploma produz efeitos, nomeadamente quanto a vencimento e contagem de tempo de serviço, a partir de 1 de Setembro de 1979 relativamente ao pessoal cujas carreiras sejam revalorizadas por força deste diploma e não tenham sido abrangidas pelo disposto no [Decreto Regulamentar Regional n.º 26/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1979-367605).
+Art. 21.º - 1 - O presente diploma produz efeitos, nomeadamente quanto a vencimento e contagem de tempo de serviço, a partir de 1 de Setembro de 1979 relativamente ao pessoal cujas carreiras sejam revalorizadas por força deste diploma e não tenham sido abrangidas pelo disposto no [Decreto Regulamentar Regional n.º 26/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1979-367605).
 
 2 - Os efeitos referidos no número anterior referem-se apenas à categoria ou classe para a qual o funcionário transite nos termos dos n.os 1 a 4 do artigo 18.º
 
 3 - Os funcionários providos nos termos do n.º 6 do mesmo artigo terão direito à contagem de tempo de serviço e ao vencimento na categoria que lhe corresponderia pela aplicação dos n.os 1 a 4 daquele artigo a partir de 1 de Setembro de 1979, só produzindo efeitos a nova categoria a partir da data da respectiva tomada de posse.
 
-###### Art. 22.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou deste e do Secretário Regional da Administração Pública, consoante a sua natureza.
+Art. 22.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou deste e do Secretário Regional da Administração Pública, consoante a sua natureza.
 
 Aprovado pelo Governo Regional em 19 de Dezembro de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 27 de Janeiro de 1981.**
+Assinado em Angra do Heroísmo em 27 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04200/04530456.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04200/04530456.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04200/04530456.pdf)

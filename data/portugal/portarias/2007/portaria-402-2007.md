@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/402/2007/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/402-2007-519979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb2dce19bb4a6cf6f1ee14507a9912725c057c6ca3c07abfbb136e505d94cf7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10624edadeb67454941705a12080bd3af08352262d0d58560afbf4d076ad63ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ambulância
-- INEM
 - Administração Regional de Saúde
-- Direcção Geral de Viação
-- Licenciamento
+- Ambulância
 - Cuidados Médicos
+- Direcção Geral de Viação
+- INEM
+- Licenciamento
 - Regulamento
 - Transporte de Doentes
 - Tripulação
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:572590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572590:por
+  label: "Alterado o nº 3.6 do Regulamento do Transporte de Doentes aprovado pela Port 1147/2001, de 28-set, na redacção do\
+    \ presente diploma, pela PORT.142-A/2012.15.05.2012.MAI, DR.IS [94-Supl] de 15.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-a-2012-572590
+  date: '2012-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/1992/03/28/p/dre
   label: null
@@ -92,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1301-a/2002/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1301-a/2002/09/28/p/dre
+- type: cites
+  target: pt:dre:187932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614364:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:20Z'
   warnings: []
   errors: []
 ---
@@ -150,19 +168,19 @@ QUADRO N.º 2
 
 Equipamento de imobilização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07000/22352235.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07000/22352235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07000/22352235.pdf)
 
 QUADRO N.º 6
 
 Equipamento cardiovascular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07000/22352235.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07000/22352235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07000/22352235.pdf)
 
 QUADRO N.º 10
 
 Equipamento de telecomunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07000/22352235.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07000/22352235.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07000/22352235.pdf)
 
 Em 28 de Fevereiro de 2007.
 

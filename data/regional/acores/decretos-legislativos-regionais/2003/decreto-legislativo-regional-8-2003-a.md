@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2003/03/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2003-214713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f876214c869114f7d7c97ec923f5d5326624c573f1176b1f65210da2e6e5ffd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4504dd5cdc5ba55ffcae678d0ee70d5fa9c87bdb56b79a66681b238a27b3b02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,35 +67,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alienação de Fogos
 - Financiamento
-- Renovação Urbana
-- Ilha de São Jorge
-- Ilha do Pico
 - Habitação
-- Sismo
-- Açores
+- Ilha de São Jorge
 - ILHA do Faial
+- Ilha do Pico
+- Renovação Urbana
+- Sismo
 - ZONA Sinistrada
 relationships:
 - type: amended_by
   target: pt:dre:517445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517445:por
+  label: "Alterados os arts. 16º e 17º do DLR 15-A/98/A de 25-Set e inseridas as seguintes epígrafes àquele diploma (com a\
+    \ redacção do presente): Capítulo I - Princípios gerais; Artigo 1.º - Objecto; [...] Capítulo II - Tipologia dos apoios;\
+    \ Artigo 3.º - Apoios; Artigo 4.º - Determinação da classe de apoio; Artigo 5.º - Bonificação de juros; Artigo 6.º - Aquisição\
+    \ ou construção excepcional de habitação; Artigo 8.º - Área e tipologia das habitações; Artigo 9.º - Deduções aos montantes\
+    \ comparticipados; [...] Capítulo III - Processo de candidatura; Secção I - Regime geral; Artigo 11.º - Avaliação; Artigo\
+    \ 12.º - Projecto; Artigo 13.º - Candidatura; Artigo 14.º - Comunicação da decisão; Secção II - Arrendatários e comodatários;\
+    \ [...] Capítulo IV - Obrigações dos beneficiários; Artigo 15.º - Afectação da habitação; Artigo 18.º - Reembolso da comparticipação\
+    \ e da bonificação; Artigo 19.º - Registo do ónus; Capítulo V - Disposições finais; Artigo 20.º - Apoio técnico; Artigo\
+    \ 21.º - Falsas declarações; Artigo 22.º - Regulamentação, pelo DLR.23/2004/A.08.06.2004.ALR-RAA, DR.IS-A [151] de 29.06.2004\0\
+    004\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/23-2004-517445
+  date: '2004-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15-a/1998/09/25/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/15-a/1998/09/25/a/dre
+- type: cites
+  target: pt:dre:173493:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:56Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +138,7 @@ Os artigos 16.º, 17.º e 18.º do [Decreto Legislativo Regional n.º 15-A/98/A]
 
 As habitações que hajam sido objecto de qualquer apoio no âmbito do presente diploma não podem ser alienadas antes de decorrido o prazo de oito anos da conclusão das obras ou da celebração da escritura de aquisição que deste regime resultem.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - Aquele que beneficiar dos apoios previstos neste diploma e que, no decurso do prazo fixado no artigo anterior, pretender alienar a habitação apoiada deverá requerer à Região Autónoma dos Açores o levantamento do ónus de inalienabilidade, mediante o reembolso dos valores da comparticipação a fundo perdido, bem como das bonificações concedidas.
 
@@ -134,7 +152,7 @@ c) ...
 
 3 - ...
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - Sem prejuízo do disposto na alínea b) do n.º 1 do artigo 15.º, a utilização das habitações para outro fim que não o de habitação permanente do beneficiário dos apoios, ou dos arrendatários e comodatários que nela residiam à data da ocorrência do sismo de 9 de Julho de 1998, bem como a sua desocupação por período superior a seis meses, implica o reembolso à Região da comparticipação concedida e das respectivas bonificações, quando houver lugar às mesmas, salvo se entretanto tiver decorrido o prazo de inalienabilidade fixado.
 
@@ -156,10 +174,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Janeiro de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 12 de Fevereiro de 2003.**
+Assinado em Angra do Heroísmo em 12 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

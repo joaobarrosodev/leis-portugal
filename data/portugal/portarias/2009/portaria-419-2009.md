@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07500/0231302314.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/419/2009/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-2009-603899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98badd64f3316024c05909045b05a7b5db71749bfac2f0f302df7d627f464eb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36b19d26fd4618cffc824b622e19e9e42baab039c8db64f180a04f44957e5d2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
+- Combustível
+- Estatuto
+- Fiscalização
 - Petróleo
 - Produto Petrolífero
-- Estatuto
-- Combustível
-- Fiscalização
 - Segurança das Instalações
 relationships:
 - type: amended_by
@@ -106,16 +106,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1416-a/2006/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1416-a/2006/12/19/p/dre
+- type: cites
+  target: pt:dre:235919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628828:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66528824:por
+  label: Revogada a partir de 2015-03-18 a Port 1211/2003, de 16-out, na redação do presente diploma pelo(a) Lei n.º 15/2015
+    - Diário da República n.º 32/2015, Série I de 2015-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2015-66528824
+  date: '2015-02-16'
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:04Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +184,9 @@ b) Estabelecer as condições para o seu reconhecimento;
 
 c) Regulamentar o exercício da respectiva actividade.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para o exercício da actividade como EIC, a entidade requerente está sujeita a reconhecimento, nos termos deste Estatuto.
 
@@ -162,7 +198,9 @@ c) Regulamentar o exercício da respectiva actividade.
 
 5 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O reconhecimento das EIC é da competência do director-geral de Energia e Geologia, devendo o respectivo despacho ser publicitado no sítio da Internet da DGEG.
 
@@ -196,7 +234,9 @@ g) Documento em que o requerente declare sob compromisso de honra que se encontr
 
 9 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -228,4 +268,4 @@ Suspensão e cancelamento do reconhecimento
 
 Em 9 de Março de 2009.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita.

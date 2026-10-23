@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/276/2009/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/276-2009-605345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e9ae436e9cae5a7f856610ef837997b9f31d8a0913056c8c13b6e4aaccf1399
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f25c80f14fc62c1a73e18040e172d5e27341c30352ca1ea3a50882d5d357c93d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,55 +66,79 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACES
+- Administração Regional de Saúde de Lisboa e VALE do TEJO
+- Agrupamento de Centros de Saúde da Grande Lisboa I - Lisboa Norte
 - Agrupamento de Centros de Saúde da Grande Lisboa II - Lisboa Oriental
+- Agrupamento de Centros de Saúde da Grande Lisboa III - Lisboa Central
+- Agrupamento de Centros de Saúde da Grande Lisboa IV - Oeiras
 - Agrupamento de Centros de Saúde da Grande Lisboa IX - Algueirão - RIO de Mouro
 - Agrupamento de Centros de Saúde da Grande Lisboa V - Odivelas
 - Agrupamento de Centros de Saúde da Grande Lisboa VI - Loures
-- Agrupamento de Centros de Saúde da Grande Lisboa VIII - Sintra - Mafra
-- Agrupamento de Centros de Saúde da Grande Lisboa XI - Cascais
-- Agrupamento de Centros de Saúde da Lezíria II
-- Agrupamento de Centros de Saúde da Península de Setúbal II - Seixal - Sesimbra
-- Agrupamento de Centros de Saúde da Península de Setúbal IV - Setúbal - Palmela
-- Agrupamento de Centros de Saúde do Oeste II - Oeste SUL
-- Administração Regional de Saúde de Lisboa e VALE do TEJO
-- Agrupamento de Centros de Saúde da Grande Lisboa I - Lisboa Norte
-- Agrupamento de Centros de Saúde da Grande Lisboa III - Lisboa Central
-- Agrupamento de Centros de Saúde da Grande Lisboa IV - Oeiras
 - Agrupamento de Centros de Saúde da Grande Lisboa VII - Amadora
+- Agrupamento de Centros de Saúde da Grande Lisboa VIII - Sintra - Mafra
 - Agrupamento de Centros de Saúde da Grande Lisboa X - Cacém - Queluz
+- Agrupamento de Centros de Saúde da Grande Lisboa XI - Cascais
 - Agrupamento de Centros de Saúde da Grande Lisboa XII - VILA Franca de XIRA
 - Agrupamento de Centros de Saúde da Lezíria I - Ribatejo
+- Agrupamento de Centros de Saúde da Lezíria II
 - Agrupamento de Centros de Saúde da Península de Setúbal I - Almada
+- Agrupamento de Centros de Saúde da Península de Setúbal II - Seixal - Sesimbra
 - Agrupamento de Centros de Saúde da Península de Setúbal III - ARCO Ribeirinho
+- Agrupamento de Centros de Saúde da Península de Setúbal IV - Setúbal - Palmela
 - Agrupamento de Centros de Saúde do Médio TEJO I - Serra de AIRE
 - Agrupamento de Centros de Saúde do Médio TEJO II - Zêzere
 - Agrupamento de Centros de Saúde do Oeste I - Oeste Norte
+- Agrupamento de Centros de Saúde do Oeste II - Oeste SUL
 - ÁREA Geográfica
-- Serviço Nacional de Saúde
 - Centro de Saúde
 - Quadro de Pessoal
 - Recursos Humanos
-- ACES
+- Serviço Nacional de Saúde
 - Utente
 relationships:
 - type: amended_by
   target: pt:dre:603767:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544432:por
+  label: "Transferidas para o Instituto de Oftalmologia do Dr. Gama Pinto (cuja orgânica e atribuições constam do Dec Lei\
+    \ 360/93 de 14-Out), as competências relativas ao serviço de especialidade de Oftalmologia, que integra a Unidade de Recursos\
+    \ Assistenciais Partilhados (URAP) - designado usualmente como Centro Oftalmológico de Lisboa - do Agrupamento de Centros\
+    \ de Saúde da Grande Lisboa III-Lisboa Central, criado pelo presente diploma (cujo regulamento interno foi publicado pela\
+    \ Deliberação 1083/2011 de 02-Mai) pela PORT.20/2012.23.01.2012.MF, DR.IS [16] de 23.01.2012, que determinou a sucessão\
+    \ pelo Instituto na universalidade dos direitos e obrigações detidos pelo referido ACES, na parte relativa ao COL.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-2012-544432
+  date: '2012-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28/2008/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/28/2008/02/22/p/dre
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:608702:por
+  label: "Rectificada pela DECL-RECT.31/2009.15.05.2009.PCM, DR.IS [94] de 15.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/31-2009-608702
+  date: '2009-05-15'
+- type: repealed_by
+  target: pt:dre:603767:por
+  label: "Revogada pela PORT.394-B/2012.29.11.2012.PCM, DR.IS [231-Supl] de 29.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-b-2012-603767
+  date: '2012-11-29'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:11Z'
   warnings: []
   errors: []
 ---
@@ -165,92 +189,92 @@ A presente portaria produz efeitos a 1 de Março de 2009.
 
 Em 19 de Fevereiro de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
 
 ## ANEXO I — Agrupamento de Centros de Saúde da Grande Lisboa I - Lisboa Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO II — Agrupamento de Centros de Saúde da Grande Lisboa II - Lisboa Oriental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO III — Agrupamento de Centros de Saúde da Grande Lisboa III - Lisboa Central
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO IV — Agrupamento de Centros de Saúde da Grande Lisboa IV - Oeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO V — Agrupamento de Centros de Saúde da Grande Lisboa V - Odivelas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO VI — Agrupamento de Centros de Saúde da Grande Lisboa VI - Loures
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO VII — Agrupamento de Centros de Saúde da Grande Lisboa VII - Amadora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO VIII — Agrupamento de Centros de Saúde da Grande Lisboa VIII - Sintra-Mafra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO IX — Agrupamento de Centros de Saúde da Grande Lisboa IX - Algueirão-Rio de Mouro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO X — Agrupamento de Centros de Saúde da Grande Lisboa X - Cacém-Queluz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XI — Agrupamento de Centros de Saúde da Grande Lisboa XI - Cascais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XII — Agrupamento de Centros de Saúde da Grande Lisboa XII - Vila Franca de Xira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XIII — Agrupamento de Centros de Saúde da Península de Setúbal I - Almada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XIV — Agrupamento de Centros de Saúde da Península de Setúbal II - Seixal-Sesimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XV — Agrupamento de Centros de Saúde da Península de Setúbal III - Arco Ribeirinho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XVI — Agrupamento de Centros de Saúde da Península de Setúbal IV - Setúbal-Palmela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XVII — Agrupamento de Centros de Saúde do Oeste I - Oeste Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XVIII — Agrupamento de Centros de Saúde do Oeste II - Oeste Sul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XIX — Agrupamento de Centros de Saúde do Médio Tejo I - Serra d'Aire
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XX — Agrupamento de Centros de Saúde do Médio Tejo II - Zêzere
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XXI — Agrupamento de Centros de Saúde da Lezíria I - Ribatejo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
 
 ## ANEXO XXII — Agrupamento de Centros de Saúde da Lezíria II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0172801737.pdf)

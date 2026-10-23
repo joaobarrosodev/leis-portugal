@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/803/2007/07/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/803-2007-636751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96cb7f2a17bc1963119ba2a048c3b342512c0bada2bca8698fca4dc6a222ca94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f2eedd2a2a5aaff8f525a9e883a58724a2a4d8168ced3f65b286be7555ed55f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/693/1998/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/693/1998/09/03/p/dre
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591742:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:02Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +122,6 @@ Nestes termos, ao abrigo do disposto no artigo 3.º da [Portaria n.º 247/2005](
 
 Manda o Governo, pelo Secretário de Estado da Educação, que ao elenco de cursos reconhecidos como habilitação para a docência nos grupos e subgrupos do ensino vocacional da música constante do quadro ii anexo à [Portaria n.º 693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), publicada no Diário da República, 1.A série-B, n.º 203, de 3 de Setembro de 1998, na redacção conferida pelas Portarias n.os 431/2005, publicada no Diário da República, 1.A série-B, n.º 75, de 18 de Abril de 2005, 435/2005 e 436/2005, ambas publicadas no Diário da República, 1.A série-B, n.º 78, de 21 de Abril de 2005, 451/2005 e 452/2005, ambas publicadas no Diário da República, 1.A série-B, n.º 83, de 29 de Abril de 2005, 463/2005, publicada no Diário da República, 1.A série-B, n.º 85, de 3 de Maio de 2005, e 469/2005, publicada no Diário da República, 1.A série-B, n.º 87, de 5 de Maio de 2005, sejam aditados os cursos constantes do quadro i anexo à presente portaria e que dela faz parte integrante.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 9 de Julho de 2007.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 9 de Julho de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/14100/0471704728.pdf))](https://files.diariodarepublica.pt/1s/2007/07/14100/0471704728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/14100/0471704728.pdf)

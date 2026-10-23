@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-1978-425331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f477372c9951596d35e6c16e0b363ebc21fbb6d54125d20527730f4dff45dfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18a1dbcce08f3e68d5857baf743b50a840a9fc321c2b972d47ad0f5538d130af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Pública
+- Administração Regional
+- Plano de Investimentos
 relationships: []
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:27Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +100,7 @@ Em termos de volume de investimento previsto, o PIAPRA/78 representa, relativame
 
 Investimentos na Região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf)
 
 Se o PIAPRA/77 foi e está sendo um instrumento válido de racionalização e transparência do investimento proposto e de cuja execução é responsável o Governo Regional, espera-se que mais o seja ainda o PIAPRA/78, na medida em que engloba e perspectiva a totalidade do investimento da Administração Pública nos Açores, dando-se por esta forma um passo mais no caminho da regionalização.
 
@@ -198,15 +202,15 @@ A consecução dos objectivos do Plano envolve, a par dos investimentos, a adop�
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf)
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf)
 
 QUADRO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf)
 
 Nota explicativa
 
@@ -256,7 +260,7 @@ Nesta primeira experiência de codificação e não obstante a simplicidade do s
 
 QUADRO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf))](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/04/08400/06570715.pdf)
 
 Em sua sessão de 13 de Dezembro de 1977, a Assembleia Regional dos Açores deliberou aprovar o Plano de Investimentos da Administração Pública, nos termos em que lhe fora apresentado.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/33/2004/08/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2004-625024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b6412b8b730f153a6d1d20c84c6a84dc2acab0c39b37da1902e7771521ee03c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ed4d7dbaadca0173493ba13467597dd6f4aaab4bce0c8feb7e82d4476f7f211
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Tesouraria
-- Estatuto
-- Sistema Retributivo
+- Açores
 - Carreira Profissional
-- Recrutamento de Pessoal
-- Integração de Trabalhadores
 - Direcção Regional do Orçamento e Tesouro
-- Tesouraria
+- Estatuto
+- Integração de Trabalhadores
+- Pessoal de Tesouraria
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 - Remuneração
-- Açores
+- Sistema Retributivo
+- Tesouraria
 relationships:
 - type: amended_by
   target: pt:dre:164454929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Estabelecidas as incumbências das Tesourarias da Região Autónoma dos Açores a que se refere o art. 2.º do presente
+    diploma pelo(a) Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03, nos
+    termos do art. 46.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Estabelecidas as incumbências das Tesourarias da Região Autónoma dos Açores a que se refere o art. 2.º do presente
+    diploma, pelo(a) Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08 nos
+    termos do seu art. 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
+- type: amended_by
+  target: pt:dre:164454929:por
+  label: Estabelecidas, as incumbências das Tesourarias da Região Autónoma dos Açores a que se refere o art. 2.º do DLR 33/2004/A
+    de 25-ago DR.IS-A [200] pelo(a) Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento,
+    Série I de 2021-05-31, nos termos do seu art. 81.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2021-164454929
+  date: '2021-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/16/1998/05/15/a/dre
   label: null
@@ -95,16 +116,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/32/1991/10/01/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/32/1991/10/01/a/dre
+- type: cites
+  target: pt:dre:294152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522376:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:05Z'
   warnings: []
   errors: []
 ---
@@ -275,13 +312,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Junho de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 12 de Julho de 2004.**
+Assinado em Angra do Heroísmo em 12 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 MAPA I
 
@@ -289,7 +326,7 @@ Escala indiciária da carreira do pessoal técnico tesoureiro
 
 (artigo 3.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)
 
 MAPA II
 
@@ -297,10 +334,10 @@ Escala indiciária da carreira do pessoal técnico exactor
 
 (artigo 3.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)
 
 MAPA III
 
 Vagas da carreira de pessoal de tesouraria
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)

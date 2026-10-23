@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/127/2008/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-2008-248054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23ae76c0c08e3e3a5d1ed350bbae5deb12c805b34de5a4ad58e38d2994da4e2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65cac6b6d026c846138b007739e5b5d05e9189d276457d7ce03e159d621f92d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
-- Pesca
-- Peixe
-- Pesca Fluvial
-- RIO Mondego
 - Coimbra
+- Peixe
+- Pesca
+- Pesca Fluvial
+- Proteção dos Animais
+- RIO Mondego
 relationships:
 - type: amended_by
   target: pt:dre:108107541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70485723:por
+  label: Revogada a partir 06.01.2016 pelo(a) Decreto-Lei n.º 222/2015 - Diário da República n.º 197/2015, Série I de 2015-10-08,
+    nos termos do art. 62.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-2015-70485723
+  date: '2015-10-08'
+- type: repealed_by
+  target: pt:dre:108107541:por
+  label: Revogada pelo(a) Decreto-Lei n.º 112/2017 - Diário da República n.º 172/2017, Série I de 2017-09-06, nos termos do
+    art. 84.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-2017-108107541
+  date: '2017-09-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:56Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2023/03/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-210875031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06490e15c672c71302ff371c0c3550ee51ce4c4dac75ee881eca0d7b1338d90c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98de7c586d4415483c228020e92355ecaabe8cb78d9735d3fc84ada58df45605
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,69 +66,69 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
+- Administração Pública
+- Administração Regional
 - Admissão de Pessoal
-- BENS Imóveis
 - Aquisição de Bens e Serviços
+- Arrendamento Urbano não Habitacional
 - Atribuição de Verba
 - Autorização de Despesas
-- Pessoal Dirigente
+- BENS Imóveis
 - Conselho Regional
-- Gestão Financeira
-- Governo Regional
 - Conta de Gerência
+- Contabilidade Pública
+- Contratação Pública
 - Contrato
 - Contrato Administrativo
-- Arrendamento Urbano não Habitacional
+- Contribuições e Impostos
 - Controlo Orçamental
 - Delegação de Competências
 - Despesas de Representação
 - Despesas Públicas
-- Regulamentação de Atos Legislativos
-- Secretaria Regional das Finanças Planeamento e Administração Pública
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
 - Dívida Pública
 - Dotação Orçamental
 - Duodécimo
 - Empreitada de Obras Públicas
-- Administração Pública
 - Execução do Orçamento
-- Subvenção Pública
 - Fundo de Maneio
-- Presidente do Governo Regional
-- Pagamento
-- Contribuições e Impostos
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Governo Regional
 - Informação Económica e Financeira
-- Tribunal de Contas
-- Veículo
 - Locação Financeira
 - Membros do Governo
-- Veículo Elétrico
-- Sistema de Normalização Contabilística
 - Operações de Tesouraria
 - Orçamento Regional
+- Pagamento
 - Página na Internet
-- Proteção do Ambiente
-- Tesouraria
+- Pessoal Dirigente
 - Política Salarial
 - Prazo
+- Presidente do Governo Regional
 - Prestação de Contas
 - Programa Orçamental
+- Proteção do Ambiente
 - Receita Pública
 - Regime Fiscal
+- Regulamentação de Atos Legislativos
 - Remuneração
 - Responsabilidade Administrativa
 - Responsabilidade Financeira
+- Secretaria Regional das Finanças Planeamento e Administração Pública
 - Secretário Regional
-- Sector Público Administrativo
-- Administração Regional
-- Gestão de Recursos Humanos
-- Açores
-- Contabilidade Pública
-- Serviço Regional de Protecção Civil dos Açores
-- Subsídio
-- Veículo Hibrido
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
 - Sector Empresarial Regional
-- Contratação Pública
+- Sector Público Administrativo
+- Serviço Regional de Protecção Civil dos Açores
+- Sistema de Normalização Contabilística
+- Subsídio
+- Subvenção Pública
+- Tesouraria
+- Tribunal de Contas
+- Veículo
+- Veículo Elétrico
+- Veículo Hibrido
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/86/2021/10/19/p/dre
@@ -146,16 +146,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:173035672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180310525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205758501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:50Z'
   warnings: []
   errors: []
 ---
@@ -432,10 +452,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 4 de março de 2023.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 20 de março de 2023.**
+Assinado em Angra do Heroísmo em 20 de março de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+116290926

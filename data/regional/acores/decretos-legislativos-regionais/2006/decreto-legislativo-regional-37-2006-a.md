@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/37/2006/10/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-546003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9805824de6b889b318be2d8efc8181441ca33df377b458dac0517c8007d00c7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e353142ffaf0ee497584cbba725d43a18daaa592eb5ca156704f3747e8ae472
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
 - Casa Degradada
 - Comparticipação do Estado
-- Renovação Urbana
+- Financiamento
+- Habitação
 - Habitação Social
 - ILHA das Flores
+- ILHA de Santa Maria
 - Ilha de São Jorge
 - Ilha do Corvo
-- ILHA de Santa Maria
-- Política de Habitação
-- Habitação
 - Ilha Graciosa
-- Açores
+- Política de Habitação
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:122393535:por
@@ -104,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/8/1998/04/13/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/8/1998/04/13/a/dre
+- type: cites
+  target: pt:dre:167055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435394:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122393535:por
+  label: Revogado o DLR 6/2002/A de 11-mar, com a redação dada pelo presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 11/2019/A - Diário da República n.º 100/2019, Série I de 2019-05-24, que manteve, contudo em vigor, as normas referentes
+    ao ónus da inalienabilidade, às obrigações e sanções constantes daquele diploma, para os contratos celebrados ao abrigo
+    do mesmo, nos termos do disposto no n.º 2 do art. 29.º e do art. 31.º do DLR 11/2019/A.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2019-122393535
+  date: '2019-05-24'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:27Z'
   warnings: []
   errors: []
 ---
@@ -188,10 +216,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado, por unanimidade, pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 27 de Setembro de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 12 de Outubro de 2006.**
+Assinado em Angra do Heroísmo em 12 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/929/2007/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/929-2007-636914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75817568110a7ed895a70d0c769ae908769133b17e3ccc4219a416e930966d57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a55a345db8f421443cc2b328504d3c93153233096c6a802cef27f5827c9b553b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,14 @@ relationships:
   target: pt:dre:489251:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489251:por
+  label: "Renovadas, por um período de seis anos, e com efeitos a partir de 19.09.2009, a concessão da zona de caça e respectiva\
+    \ transferência de gestão atribuídas pela Port 1010/2003 de 18-Set, com as alterações constantes do presente diploma,\
+    \ e anexados vários prédios rústicos à mesma zona de caça, pela PORT.1007/2009.08.09.2009.MADRP, DR.IS [174] de 08.09.2009\0\
+    09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1007-2009-489251
+  date: '2009-09-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -86,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1010/2003/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1010/2003/09/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496960:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:50Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +140,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 25 de Julho de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15600/0529905299.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15600/0529905299.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15600/0529905299.pdf)

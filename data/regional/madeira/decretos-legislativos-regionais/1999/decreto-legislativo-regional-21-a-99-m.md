@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 197/1999, 2º Suplemento, Série I-A de 1999-08-24
   number: '197'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5718-(4) a 5718-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/08/197a02/00040013.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21-a/1999/08/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-1999-219166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96e6e4a9643b6bcc37abd0590a0aaaacea838e1ad4f840d62ef5e9ada9fd1c07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a08e2c1c66cdedb06acef4d2183a86ee70a9d057feb6ed841ff538d7965ad14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,53 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aumento de Capital
-- SCUT
-- Sociedade Anónima
 - Contrato de Concessão
 - Estatuto
 - Machico
-- Serviço Público
 - Madeira.região Autónoma
 - Ribeira Brava
+- SCUT
+- Serviço Público
+- Sociedade Anónima
 - Vialitoral
 relationships:
 - type: amended_by
   target: pt:dre:73766218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:629169:por
+  label: "Alterado o nº 1 do art. 3º dos Estatutos da VIALITORAL constantes do anexo I pelo DLR.15/2007/M.07.11.2007.AL-RAM,\
+    \ DR.IS [214] de 07.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2007-629169
+  date: '2007-11-07'
+- type: amended_by
+  target: pt:dre:73766218:por
+  label: Alteradas as bases I, X, XIV, XV, XVI, XVII, XVIII, XXI, XXII e XXX e aditadas as bases XXII-A e XXII-B às Bases
+    da concessão da exploração, conservação e manutenção em regime de serviço público de exclusividade e de portagem sem cobrança
+    aos utilizadores (SCUT) do troço rodoviário da VR1, compreendido entre Ribeira Brava e Machico, aprovadas em anexo presente
+    diploma pelo(a) Decreto Legislativo Regional n.º 10/2016/M - Diário da República n.º 44/2016, Série I de 2016-03-03, que
+    as republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2016-73766218
+  date: '2016-03-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:42Z'
   warnings: []
   errors: []
 ---
@@ -150,11 +169,11 @@ O presente diploma constitui título bastante para a instrução e prática de q
 
 Aprovado em Sessão Plenária da Assembleia Legislativa Regional da Madeira em 28 de Julho de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 16 de Agosto de 1999.**
+Assinado em 16 de Agosto de 1999.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — ESTATUTOS DA VIALITORAL, CONCESSÕES RODOVIÁRIAS DA MADEIRA, S. A.
 
@@ -310,7 +329,9 @@ Nos termos e para os efeitos das alíneas c) e d) dos artigos 19.º e 277.º do 
 
 ### CAPÍTULO I — Objecto, tipo e prazo da Concessão
 
-###### Base I — Definições
+Base I
+
+Definições
 
 1 - Nas presentes Bases, sempre que iniciados por maiúscula, e salvo se do contexto claramente resultar sentido diferente, os termos abaixo indicados terão o significado que a seguir lhes é apontado:
 
@@ -348,13 +369,17 @@ q) «Vias Concessionadas» - conjunto dos Lanços que constituem o objecto da Co
 
 r) «Vias Rodoviárias Concorrentes» - vias rodoviárias cuja entrada em serviço afecte de modo significativo as evoluções normais registadas no tráfego para cada Lanço das Vias Concessionadas, com exclusão expressa das vias de acesso às Vias Concessionadas.
 
-###### Base II — Objecto e tipo
+Base II
+
+Objecto e tipo
 
 1 - A concessão é de serviço público e tem por objecto o exclusivo da manutenção e da exploração, em regime de portagem, sem cobrança aos utilizadores (SCUT), do troço rodoviário da ER 101 compreendido entre a Ribeira Brava e Machico.
 
 2 - Os limites físicos da Concessão são definidos em relação às Vias Concessionadas que a integram pelos perfis transversais extremos das mesmas, em conformidade com os traçados definitivos constantes dos projectos oficialmente aprovados.
 
-###### Base III — Bens da Concessão
+Base III
+
+Bens da Concessão
 
 1 - As Vias Concessionadas pertencem ao domínio público do Concedente, encontrando-se subtraídas ao comércio jurídico privado e não podendo como tal ser, por qualquer forma, cedidas, alienadas, oneradas ou objecto de arresto, penhora ou qualquer providência cautelar.
 
@@ -378,7 +403,9 @@ d) As relações jurídicas que se encontrem, a cada momento, relacionadas com a
 
 7 - A Concessionária também não poderá por qualquer forma ceder, alienar ou onerar quaisquer bens referidos na alínea a) do n.º 2 e no n.º 3, os quais, encontrando-se subtraídos do comércio jurídico privado, não podem igualmente ser objecto de alienação ou oneração nem de arresto, penhora ou qualquer providência cautelar.
 
-###### Base IV — Alienação, substituição e ou oneração de bens móveis
+Base IV
+
+Alienação, substituição e ou oneração de bens móveis
 
 1 - Os bens móveis a que se refere a alínea b) do n.º 2 da base anterior poderão ser substituídos, alienados e ou onerados pela Concessionária, com as limitações resultantes dos números seguintes.
 
@@ -386,7 +413,9 @@ d) As relações jurídicas que se encontrem, a cada momento, relacionadas com a
 
 3 - Ao longo dos últimos cinco anos de duração da Concessão os negócios jurídicos referidos no n.º 2 da presente base deverão ser comunicados pela Concessionária à Concedente com a antecedência mínima de 30 dias, podendo esta opor-se, fundamentadamente e de acordo com critérios de razoabilidade, à sua concretização nos 10 dias seguintes à recepção daquela comunicação.
 
-###### Base V — Oneração, alienação e trespasse da Concessão
+Base V
+
+Oneração, alienação e trespasse da Concessão
 
 1 - Sem prejuízo do disposto no número seguinte, a Concessionária não poderá alienar ou por qualquer modo onerar, no todo ou em parte, a Concessão, ou realizar negócio jurídico que vise atingir idênticos resultados.
 
@@ -394,7 +423,9 @@ d) As relações jurídicas que se encontrem, a cada momento, relacionadas com a
 
 3 - Serão nulos quaisquer actos praticados em violação do disposto nesta base.
 
-###### Base VI — Prazo da Concessão
+Base VI
+
+Prazo da Concessão
 
 1 - A Concessão terá um prazo de duração de 25 anos, contados desde a data da assinatura do Contrato de Concessão, considerando-se o prazo da Concessão automaticamente expirado às 24 horas do 25.º aniversário daquela data.
 
@@ -404,29 +435,41 @@ d) As relações jurídicas que se encontrem, a cada momento, relacionadas com a
 
 ### CAPÍTULO II — Sociedade Concessionária
 
-###### Base VII — Objecto social
+Base VII
+
+Objecto social
 
 A Concessionária terá como objecto social o exercício das actividades integradas na Concessão e manterá, ao longo de todo o período de duração da Concessão, a sede na Região Autónoma da Madeira e a forma de sociedade anónima.
 
-###### Base VIII — Estatutos
+Base VIII
+
+Estatutos
 
 Qualquer alteração aos estatutos deverá ser objecto de autorização prévia por parte do Concedente, sob pena de nulidade.
 
-###### Base IX — Obtenção de licenças
+Base IX
+
+Obtenção de licenças
 
 Compete à Concessionária requerer todas as licenças, autorizações e aprovações necessárias ao exercício das actividades integradas na Concessão, bem como preencher os demais requisitos complementares para o mesmo fim, devendo o Concedente prestar à Concessionária toda a assistência que razoavelmente lhe possa ser exigida.
 
-###### Base X — Regime fiscal
+Base X
+
+Regime fiscal
 
 A Concessionária ficará sujeita, nos termos e condições da legislação aplicável, ao regime fiscal em vigor.
 
 ### CAPÍTULO III — Financiamento
 
-###### Base XI — Responsabilidades da Concessionária
+Base XI
+
+Responsabilidades da Concessionária
 
 A Concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento das actividades que integram o objecto da Concessão.
 
-###### Base XII — Contratos de financiamento
+Base XII
+
+Contratos de financiamento
 
 1 - Com vista à obtenção dos fundos necessários ao desenvolvimento das actividades objecto da Concessão e à realização dos pagamentos referidos na base XV a Concessionária obriga-se a contrair os Contratos de Financiamento nos termos que forem fixados pelo Contrato de Concessão.
 
@@ -434,11 +477,15 @@ A Concessionária é responsável pela obtenção do financiamento necessário a
 
 ### CAPÍTULO IV — Transferências dos Lanços
 
-###### Base XIII — Lanços Construídos
+Base XIII
+
+Lanços Construídos
 
 Os Lanços Construídos transferem-se para a Concessionária às 24 horas do dia 31 de Dezembro de 1999, tornando-se a respectiva exploração e conservação sua responsabilidade exclusiva a partir de então.
 
-###### Base XIV — Lanços em Construção
+Base XIV
+
+Lanços em Construção
 
 1 - Os Lanços em Construção serão transferidos para a Concessionária nos termos fixados no Contrato de Concessão.
 
@@ -446,59 +493,79 @@ Os Lanços Construídos transferem-se para a Concessionária às 24 horas do dia
 
 3 - A partir das 24 horas do dia em que se encontrar transferida para a Concessionária a integralidade dos Lanços em Construção, a Concessionária terá direito a receber do Concedente um pagamento referente a Portagem SCUT, nos termos estipulados no Contrato de Concessão.
 
-###### Base XV — Pagamento dos Lanços
+Base XV
+
+Pagamento dos Lanços
 
 A Concessionária pagará ao Concedente, pela transferência da totalidade dos Lanços, um montante global de 50000000000$00 nos termos estipulados no Contrato de Concessão.
 
 ### CAPÍTULO V — Exploração e manutenção das Vias Concessionadas
 
-###### Base XVI — Exploração das Vias Concessionadas
+Base XVI
+
+Exploração das Vias Concessionadas
 
 1 - A Concessionária é responsável pela exploração das Vias Concessionadas, em condições de operacionalidade e segurança.
 
 2 - A Concessionária tem o direito a receber as importâncias relativas às Portagens SCUT devidas em função dos volumes de tráfego registados e as demais importâncias previstas no Contrato de Concessão e, bem assim, quaisquer outros rendimentos obtidos no âmbito da Concessão.
 
-###### Base XVII — Manutenção das Vias Concessionadas
+Base XVII
+
+Manutenção das Vias Concessionadas
 
 1 - É da responsabilidade da Concessionária a manutenção das Vias Concessionadas em bom estado de conservação e boas condições de utilização, operacionalidade e segurança, bem como a realização de todos os trabalhos necessários para que as mesmas satisfaçam cabal e permanentemente o fim a que se destinam.
 
 2 - Constitui ainda responsabilidade da Concessionária a conservação e manutenção dos sistemas de contagem e classificação de tráfego, incluindo o respectivo centro de controlo, e ainda os sistemas de iluminação, de sinalização e de segurança.
 
-###### Base XVIII — Equipamento de contagem e classificação de tráfego
+Base XVIII
+
+Equipamento de contagem e classificação de tráfego
 
 1 - A Concessionária tem a obrigação de instalar em cada um dos Lanços que integram as Vias Concessionadas, equipamento de contagem e classificação de tráfego que permita, em tempo real, assegurar ao Concedente o controlo efectivo do número e tipo de veículos que passam nas Vias Concessionadas, os quais constituem a base do cálculo da remuneração à Concessionária, nos termos do Contrato de Concessão.
 
 2 - A localização dos sistemas de contagem deverá permitir a contagem e classificação para efeitos do cálculo do encargo para o Concedente com o sistema de Portagens SCUT em todos os Lanços que constituem a Concessão.
 
-###### Base XIX — Classificação de veículos
+Base XIX
+
+Classificação de veículos
 
 Para efeitos de determinação do valor das Portagens SCUT, nos termos do Contrato de Concessão, deverão prever-se apenas duas classes: veículos ligeiros e veículos pesados.
 
-###### Base XX — Obrigações e direitos dos utilizadores e dos proprietários confinantes das Vias Concessionadas
+Base XX
+
+Obrigações e direitos dos utilizadores e dos proprietários confinantes das Vias Concessionadas
 
 1 - As obrigações dos utilizadores e os direitos e obrigações dos proprietários confinantes com as Vias Concessionadas, em relação ao seu policiamento, serão as que constam das disposições legais ou regulamentares aplicáveis.
 
 2 - Os utentes têm o direito de serem informados previamente pela Concessionária sobre a realização de obras programadas que afectem as normais condições de circulação nas Vias Concessionadas, designadamente as que reduzam o número de vias em serviço ou as que obriguem a desvios de faixa de rodagem.
 
-###### Base XXI — Manutenção e disciplina de tráfego
+Base XXI
+
+Manutenção e disciplina de tráfego
 
 1 - A circulação pelas Vias Concessionadas obedecerá ao determinado no Código da Estrada e mais disposições legais ou regulamentares aplicáveis.
 
 2 - A Concessionária será obrigada, salvo caso de força maior devidamente verificado, a assegurar permanentemente, em boas condições de segurança e comodidade, a circulação nas Vias Concessionadas.
 
-###### Base XXII — Assistência aos utentes
+Base XXII
+
+Assistência aos utentes
 
 A Concessionária é obrigada a assegurar a assistência aos utentes das Vias Concessionadas, nela se incluindo a vigilância das condições de circulação, nomeadamente no que respeita à sua fiscalização e à prevenção do acidente.
 
 ### CAPÍTULO VI — Pagamentos a efectuar pelo Concedente
 
-###### Base XXIII — Pagamentos durante o Período Inicial da Concessão
+Base XXIII
+
+Pagamentos durante o Período Inicial da Concessão
 
 1 - Sem prejuízo do disposto no número seguinte, durante o Período Inicial da Concessão, a Concessionária não receberá qualquer montante do Concedente, pela prestação dos serviços concessionados.
 
 2 - Caso o final do Período Inicial da Concessão ocorra em data posterior a 31 de Dezembro de 2001, o Concedente deverá pagar à Concessionária os montantes que lhe seriam devidos se não se tivesse verificado qualquer atraso na abertura ao tráfego dos Lanços que integram as Vias Concessionadas, de acordo com o que for estabelecido pelos termos do Contrato de Concessão.
 
-###### Base XXIV — Pagamentos após o Período Inicial da Concessão
+Base XXIV
+
+Pagamentos após o Período Inicial da Concessão
 
 1 - A partir das 24 horas do dia em que abrir ao tráfego o último dos Lanços que integram as Vias Concessionadas, a Concessionária terá direito a receber do Concedente um pagamento referente a Portagem SCUT calculado com base no que for estipulado no Contrato de Concessão.
 
@@ -510,7 +577,9 @@ A Concessionária é obrigada a assegurar a assistência aos utentes das Vias Co
 
 ### CAPÍTULO VII — Fiscalização e garantia do cumprimento das obrigações da Concessionária
 
-###### Base XXV — Fiscalização do cumprimento do Contrato de Concessão
+Base XXV
+
+Fiscalização do cumprimento do Contrato de Concessão
 
 1 - Os poderes de fiscalização do cumprimento das obrigações da Concessionária serão os emergentes do Contrato da Concessão e serão exercidos pela Secretaria Regional do Equipamento Social e do Ambiente, através da Direcção Regional de Estradas.
 
@@ -518,33 +587,45 @@ A Concessionária é obrigada a assegurar a assistência aos utentes das Vias Co
 
 3 - As determinações que vierem a ser emitidas no âmbito dos poderes de fiscalização, serão imediatamente aplicáveis e vincularão a Concessionária, sem prejuízo do posterior recurso ao Processo de Arbitragem.
 
-###### Base XXVI — Garantias de cumprimento
+Base XXVI
+
+Garantias de cumprimento
 
 O cumprimento cabal e atempado das obrigações da Concessionária será garantido, através de caução estabelecida nos montantes e com as condições de execução pelo Concedente nos termos que forem estipulados pelo Contrato de Concessão, devendo manter-se em pleno vigor e eficácia ao longo de todo o período de duração da Concessão.
 
-###### Base XXVII — Cobertura por seguros
+Base XXVII
+
+Cobertura por seguros
 
 A Concessionária deverá assegurar a existência e manutenção em vigor das apólices de seguro necessárias para garantir uma efectiva e integral cobertura dos riscos inerentes ao desenvolvimento das actividades integradas na Concessão, nos termos que forem fixados pelo Contrato de Concessão.
 
 ### CAPÍTULO VIII — Responsabilidade extracontratual perante terceiros
 
-###### Base XXVIII — Responsabilidade pela culpa e pelo risco
+Base XXVIII
+
+Responsabilidade pela culpa e pelo risco
 
 A Concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados a terceiros no exercício das actividades que constituem o objecto da Concessão, pela culpa ou pelo risco, não sendo assumido pelo Concedente qualquer tipo de responsabilidade neste âmbito.
 
-###### Base XXIX — Responsabilidade por prejuízos causados por entidades contratadas
+Base XXIX
+
+Responsabilidade por prejuízos causados por entidades contratadas
 
 A Concessionária responderá ainda nos termos gerais da relação comitente-comissário, pelos prejuízos causados a terceiros pelas entidades por si contratadas para o desenvolvimento das actividades integradas na Concessão.
 
 ### CAPÍTULO IX — Incumprimento e cumprimento defeituoso
 
-###### Base XXX — Incumprimento
+Base XXX
+
+Incumprimento
 
 Sem prejuízo das situações de incumprimento que poderão dar origem a sequestro ou rescisão da Concessão nos termos referidos nas bases XXXIII e XXXIV, o incumprimento pela Concessionária dos deveres e obrigações que emergirem do Contrato da Concessão ou das determinações do Concedente emitidas no âmbito da lei ou do referido contrato originará a aplicação de multas contratuais pelo Concedente, cujo montante variará entre um mínimo de 1000000$00 e um máximo de 100000000$00, conforme a gravidade das infracções cometidas.
 
 2 - As multas impostas pelo Concedente serão imediatamente exigíveis, nos termos fixados na comunicação para o efeito remetida pelo Concedente à Concessionária, a qual produzirá os seus efeitos independentemente de qualquer outra formalidade.
 
-###### Base XXXI — Força maior
+Base XXXI
+
+Força maior
 
 1 - Consideram-se eventos de força maior os eventos imprevisíveis e irresistíveis, exteriores às Partes, que tenham um impacte directo negativo sobre a Concessão.
 
@@ -552,13 +633,17 @@ Sem prejuízo das situações de incumprimento que poderão dar origem a sequest
 
 ### CAPÍTULO X — Extinção e suspensão da Concessão
 
-###### Base XXXII — Resgate
+Base XXXII
+
+Resgate
 
 1 - Nos últimos cinco anos de duração da Concessão, o Concedente poderá resgatar a Concessão sempre que motivos de interesse público o justifiquem, mediante notificação remetida à Concessionária com a antecedência mínima de um ano.
 
 2 - Em caso de resgate, a Concessionária terá direito à prestação pelo Concedente, a título de indemnização e em cada ano, desde a data do resgate até ao termo do prazo da Concessão, de uma quantia nos termos que forem fixados pelo Contrato de Concessão.
 
-###### Base XXXIII — Sequestro
+Base XXXIII
+
+Sequestro
 
 1 - Em caso de incumprimento grave, pela Concessionária, das obrigações emergentes do Contrato de Concessão, o Concedente poderá, mediante sequestro, tomar a seu cargo a realização das actividades integradas na Concessão, nos termos que forem estipulados no Contrato de Concessão.
 
@@ -566,11 +651,15 @@ Sem prejuízo das situações de incumprimento que poderão dar origem a sequest
 
 3 - Logo que cessem as razões que motivaram o sequestro, a Concessionária será notificada para retomar a Concessão, no prazo que razoavelmente lhe for fixado.
 
-###### Base XXXIV — Rescisão imputável à Concessionária
+Base XXXIV
+
+Rescisão imputável à Concessionária
 
 O Concedente poderá pôr fim à Concessão através da rescisão do Contrato de Concessão em casos de violação grave, contínua e não sanada ou não sanável das obrigações da Concessionária, nos termos que forem fixados pelo Contrato de Concessão.
 
-###### Base XXXV — Termo da Concessão imputável ao Concedente
+Base XXXV
+
+Termo da Concessão imputável ao Concedente
 
 1 - Caso venha a verificar-se o Termo da Concessão por acto unilateral do Concedente ou por motivo a ele exclusivamente imputável, este será responsável pelo pagamento da totalidade do passivo consubstanciado nos Contratos de Financiamento.
 
@@ -580,11 +669,15 @@ O Concedente poderá pôr fim à Concessão através da rescisão do Contrato de
 
 ### CAPÍTULO XI — Condição financeira da Concessionária
 
-###### Base XXXVI — Caso Base
+Base XXXVI
+
+Caso Base
 
 O Caso Base representará a equação financeira com base na qual será efectuada a reposição do equilíbrio financeiro da Concessão, nos termos da Base seguinte.
 
-###### Base XXXVII — Equilíbrio financeiro
+Base XXXVII
+
+Equilíbrio financeiro
 
 1 - A Concessionária terá direito à reposição do equilíbrio financeiro da Concessão nos termos gerais de direito administrativo e nomeadamente nos seguintes casos:
 
@@ -602,7 +695,9 @@ e) Alterações legislativas que tenham impacte significativo sobre as receitas 
 
 ### CAPÍTULO XII — Resolução de diferendos
 
-###### Base XXXVIII — Resolução de diferendos
+Base XXXVIII
+
+Resolução de diferendos
 
 1 - Os eventuais conflitos que possam surgir entre as Partes em matéria de aplicação, interpretação ou integração das regras por que se rege a Concessão serão resolvidas de acordo com o Processo de Arbitragem, nos termos que forem fixados no Contrato de Concessão.
 

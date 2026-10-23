@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09600/10261026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1982-606690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64a7a3f1f2277aa85e5b8298a5df4d1df29dc8896310deab1a0b4e2307d0478f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65c90aae72cc63c608490e3cff69c4a3f59ac7d2351fbfa83a5fc6e7bd1b6080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Colocação de Professores
+- Mobilidade de Pessoal
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:454343:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454343:por
+  label: "Revogado pelo DLR.25/83/A.1983.08.06.ARA, DR.IS [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-1983-454343
+  date: '1983-08-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:31Z'
   warnings: []
   errors: []
 ---
@@ -95,26 +112,26 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição Portuguesa, o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a permuta de um lugar para outro aos professores efectivos do ensino primário que o requeiram e reúnam as condições exigidas para a admissão ao concurso do quadro geral até 3 anos antes da idade limite para a aposentação.
+Artigo 1.º - 1 - É autorizada a permuta de um lugar para outro aos professores efectivos do ensino primário que o requeiram e reúnam as condições exigidas para a admissão ao concurso do quadro geral até 3 anos antes da idade limite para a aposentação.
 
 2 - A cada professor apenas poderão ser permitidas 2 permutas.
 
 3 - Os professores que pretendam permutar devem requerer separadamente.
 
-###### Art. 2.º Não é autorizada a permuta aos professores efectivos que não se encontrem em exercício na sua escola, nomeadamente os colocados ao abrigo do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
+Art. 2.º Não é autorizada a permuta aos professores efectivos que não se encontrem em exercício na sua escola, nomeadamente os colocados ao abrigo do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
-###### Art. 3.º Os professores cujo despacho de permuta seja publicado depois de 31 de Agosto só entrarão em exercício, no lugar em que foram providos, no início do ano escolar seguinte, devendo considerar-se até lá em comissão de serviço no lugar a que pertenciam.
+Art. 3.º Os professores cujo despacho de permuta seja publicado depois de 31 de Agosto só entrarão em exercício, no lugar em que foram providos, no início do ano escolar seguinte, devendo considerar-se até lá em comissão de serviço no lugar a que pertenciam.
 
-###### Art. 4.º As dúvidas e casos omissos relativos à execução do presente diploma serão resolvidos pelo Governo Regional, através de despacho do Secretário Regional da Educação e Cultura.
+Art. 4.º As dúvidas e casos omissos relativos à execução do presente diploma serão resolvidos pelo Governo Regional, através de despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Assembleia Regional dos Açores em 22 de Março de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 14 de Abril de 1982.**
+Assinado em Angra do Heroísmo em 14 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

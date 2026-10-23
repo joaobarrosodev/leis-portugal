@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 62/2009, 1º Suplemento, Série I de 2009-03-30
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1946-(5) a 1946-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/06201/0000500023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/331-b/2009/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-b-2009-622372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44efbc32ffb5584f6e2ac73280b4e3edc51bcc4fce8c16be3e03918f54a0744d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46e03924b59ffd7bc963efef959ff4b9fffe17b1631dfb559eb02660c9854fd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agente de Execução
 - Câmara dos Solicitadores
-- Sistema Judicial
-- Registo Informático de Execuções
-- Informática
+- Depósito Público
+- Execução de Sentença
+- Execução por Dívidas
 - Formulário Eletrónico
 - Impresso
-- Oficial de Justiça
-- Ministério da Justiça
-- Pagamento
-- Venda em Hasta Pública
+- Informática
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Execução de Sentença
+- Ministério da Justiça
 - Notificação
+- Oficial de Justiça
+- Pagamento
 - Página na Internet
-- Sistema de Informação
-- Depósito Público
-- Reembolso
-- Execução por Dívidas
-- Remuneração
 - Processo de Execução
-- Agente de Execução
+- Reembolso
+- Registo Informático de Execuções
+- Remuneração
+- Sistema de Informação
+- Sistema Judicial
 - Venda
+- Venda em Hasta Pública
 relationships:
 - type: amended_by
   target: pt:dre:499505:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309070:por
+  label: "Alterados os arts. 1º, 15º, 18º, 21º e 27º, bem como alterada a secção II do capítulo II, que passa a denominar-se\
+    \ «Dever de informar e dever de inserção ou verificação de dados no sistema informático» e inicia-se com o artigo 10.º\
+    \ e termina com o artigo 10.º-B e aditados os arts. 10º-A, 10º-B, 15º-A e 46º-A ao presente diploma, pela PORT.1148/2010.04.11.2010.MJ,\
+    \ DR.IS [214] de 04.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1148-2010-309070
+  date: '2010-11-04'
+- type: amended_by
+  target: pt:dre:287671:por
+  label: "Dada nova redacção ao art. 21º (alterado pela Port 1148/2010 de 04-Nov) e aditados os arts. 3º-A e 31º-A, assim\
+    \ como o nº 6.3 ao anexo I pela PORT.201/2011.20.05.2011.MJ, DR.IS [98] de 20.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-2011-287671
+  date: '2011-05-20'
+- type: amended_by
+  target: pt:dre:145037:por
+  label: "Alterados os art.s 1º (na redacção da Port 1148/2010, de 04-Nov) e 47º e aditados os art.s 2º-A, 26º-A, 26º-B e\
+    \ 26º-C bem como uma secção v ao capítulo iii - denominada «Movimentação das contas-clientes», que se inicia com o art.\
+    \ 26º-A e termina com o art. 26º-C, pela PORT.308/2011.21.12.2011.MJ, DR.IS [243] de 21.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/308-2011-145037
+  date: '2011-12-21'
+- type: amended_by
+  target: pt:dre:497862:por
+  label: "Dada nova redação, a partir de 01.09.2013, aos arts. 12º, 13º, 14º, 15º (alterado pela Port 1148/2010 de 04-nov),\
+    \ 16º, 17º, 18º (alterado pela Port 1148/2010 de 04-nov), 19º, 21º (alterado pelas Port 1148/2010 de 04-nov e 201/2011\
+    \ de 20-mai), 22º, 24º e 31º-A, assim como são alterados, a partir daquela data, os anexos I a III, e revogados, também\
+    \ a partir da mesma data, o nº 2 do art. 11º, os arts. 15º-A e 20º, o nº 3 do art. 21º, o nº 4 do art. 24º e o art. 23º\
+    \ todos do presente diploma, pela PORT.225/2013.10.07.2013.MJ, DR.IS [131] de 10.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/225-2013-497862
+  date: '2013-07-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2003/09/10/p/dre
   label: null
@@ -121,16 +151,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/985-a/2003/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/985-a/2003/09/15/p/dre
+- type: cites
+  target: pt:dre:181206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652972:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:494183:por
+  label: "Rectificada pela DECL-RECT.38/2009.29.05.2009.PCM, DR.IS [104] de 29.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/38-2009-494183
+  date: '2009-05-29'
+- type: repealed_by
+  target: pt:dre:499505:por
+  label: "Revogada, a partir de 01.09.2013, pela PORT.282/2013.29.08.2013.MJ, DR.IS [166] de 29.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-2013-499505
+  date: '2013-08-29'
 article_structure:
   article_count: 53
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:31Z'
   warnings: []
   errors: []
 ---
@@ -849,17 +917,17 @@ c) [Portaria n.º 512/2006](https://diariodarepublica.pt/dr/detalhe/portaria/512
 
 A presente portaria entra em vigor no dia 31 de Março de 2009.
 
-**O Ministro da Justiça, Alberto Bernardes Costa, em 27 de Março de 2009.**
+O Ministro da Justiça, Alberto Bernardes Costa, em 27 de Março de 2009.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/06201/0000500023.pdf))](https://files.diariodarepublica.pt/1s/2009/03/06201/0000500023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/06201/0000500023.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 20.º)
 
 1 - As taxas que permitem definir o valor da remuneração adicional do agente de execução destinada a premiar a eficácia da recuperação ou garantia de créditos na execução nos termos da alínea a) do n.º 1 do artigo 20.º, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/06201/0000500023.pdf))](https://files.diariodarepublica.pt/1s/2009/03/06201/0000500023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/06201/0000500023.pdf)
 
 2 - O valor recuperado, quando superior a 20 UC, é dividido em duas partes:
 
@@ -917,4 +985,4 @@ Dirigir-se ao [tribunal] no sentido de se defender, opondo-se a esta execução.
 
 ## ANEXO IV — (a que se refere o n.º 2 do artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/06201/0000500023.pdf))](https://files.diariodarepublica.pt/1s/2009/03/06201/0000500023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/06201/0000500023.pdf)

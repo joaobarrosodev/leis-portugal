@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1987-666533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97f80bc040b2b014797807934d619d2bbe981b0591a3496d70d99f6c09b328d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0919d6f2a3f5882df1592bdfe365707ac37d618f8516f365078b1b24d26d50b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Reestruturação de Carreiras
+- Tesoureiro
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570323:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:57Z'
   warnings: []
   errors: []
 ---
@@ -95,18 +118,18 @@ Considerando, ainda, que o [Decreto Regulamentar Regional n.º 2/81/A](https://d
 
 O Governo Regional, usando da competência que lhe confere a alínea b) do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º A carreira de tesoureiro constante dos quadros de pessoal anexos aos Decretos Regulamentares Regionais n.º 52/80/A, 53/80/A e 56/80/A, respectivamente de 10 de Novembro, 11 de Novembro e 20 de Novembro, passa a desenvolver-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem as letras H, I ou J, respectivamente, fazendo parte integrante dos respectivos quadros.
+Artigo 1.º A carreira de tesoureiro constante dos quadros de pessoal anexos aos Decretos Regulamentares Regionais n.º 52/80/A, 53/80/A e 56/80/A, respectivamente de 10 de Novembro, 11 de Novembro e 20 de Novembro, passa a desenvolver-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem as letras H, I ou J, respectivamente, fazendo parte integrante dos respectivos quadros.
 
-###### Art. 2.º - 1 - A transição do pessoal abrangido pelo presente diploma far-se-á na categoria ou classe em que o funcionário ou agente actualmente se encontra, sendo-lhe devida a remuneração correspondente às novas letras de vencimento, com efeitos retroactivos à data em que se verificou o provimento na categoria.
+Art. 2.º - 1 - A transição do pessoal abrangido pelo presente diploma far-se-á na categoria ou classe em que o funcionário ou agente actualmente se encontra, sendo-lhe devida a remuneração correspondente às novas letras de vencimento, com efeitos retroactivos à data em que se verificou o provimento na categoria.
 
 2 - Para efeitos da parte final do número anterior só se tomarão em consideração os provimentos efectuados a partir de 1 de Novembro de 1980.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 3 de Fevereiro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 5 de Março de 1987.**
+Assinado em Angra do Heroísmo em 5 de Março de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.

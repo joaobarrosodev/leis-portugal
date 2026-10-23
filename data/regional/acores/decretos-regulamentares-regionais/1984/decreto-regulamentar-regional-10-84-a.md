@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03400/04550460.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1984-660517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27cd6c8fab2736867328ed1da387bd71ba90c895de0cd5c41f105c585793d274
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f627e615ce134b6214f6049ebb91dbf3a0b8ee89b73c232bd8f28bab9a713f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Proteção Civil
+- Quadro de Pessoal
+- Serviço Regional de Protecção Civil dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:499004:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:388990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568702:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499004:por
+  label: "Revogado pelo DRR.33/87/A.24.11.1987.GR-RAA, DR.IS [271] de 24.11.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1987-499004
+  date: '1987-11-24'
 article_structure:
   article_count: 28
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:09Z'
   warnings: []
   errors: []
 ---
@@ -427,18 +449,18 @@ Para a realização de tarefas específicas que melhor possam ser desempenhadas 
 
 Aprovado em Conselho do Governo Regional em 24 de Novembro de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 27 de Janeiro de 1984.**
+Assinado em Angra do Heroísmo em 27 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro a que se refere o n.º 1 do artigo 20.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/03400/04550460.pdf))](https://files.diariodarepublica.pt/1s/1984/02/03400/04550460.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/03400/04550460.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1999/03/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1999-158046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fd997757c938cfbcc25c29fcc81e649b6e717064182d312bf7e35f982dea0f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5404f8aacc9bd1764955648441002e24c9a2e71d3f340db5369a0d2c3f7b2a9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
+- Administração Regional
+- Câmara Municipal
 - Casa Degradada
+- Financiamento
+- Habitação
+- Junta de Freguesia
 - Obras de Conservação e Restauro
 - Renovação Urbana
-- Junta de Freguesia
-- Câmara Municipal
-- Habitação
-- Administração Regional
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:250609:por
@@ -88,16 +88,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/6/1995/04/28/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/6/1995/04/28/a/dre
+- type: cites
+  target: pt:dre:223179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431793:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:250609:por
+  label: "Revogado pelo DLR.6/2002/A.2002.02.18.ALR-RAA DR.IS-A [59] de 11/Mar/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2002-250609
+  date: '2002-02-18'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:12Z'
   warnings: []
   errors: []
 ---
@@ -182,10 +195,10 @@ O presente diploma produz efeitos a partir da entrada em vigor do orçamento do 
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Janeiro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 22 de Fevereiro de 1999.**
+Assinado em Angra do Heroísmo em 22 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

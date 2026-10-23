@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/277a00/70437046.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/25/1994/11/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1994-548627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 738e4fe85596fa541d4d09529e30a7ca3acd7a099ad8f6e47cf67bae25846154
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 115948a21207e193d84d0a7a0bf823092d95ef5be4e9e37024c68875c3f6555b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agricultor
+- Agricultura
 - Comissão de Gestão
 - Criação de Serviços
 - Definição de Competências
+- Exploração Agrícola
 - Exploração Pecuária
 - Extinção de Serviços
 - Fundo Açoriano de Seguro Pecuário
 - Fundo Açoriano de Seguros Agrícolas
-- Exploração Agrícola
-- Agricultor
+- Pecuária
 - Produção Agrícola
 - Regime Jurídico
-- Pecuária
-- Agricultura
 - Seguro Agrícola
 - Seguro de Reses
-- Açores
 - Transferência de Competências
 relationships:
 - type: amended_by
@@ -95,16 +95,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/20/1992/10/21/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/20/1992/10/21/a/dre
+- type: cites
+  target: pt:dre:221360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680632:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:625025:por
+  label: "Revogado o presente diploma e extinto o Fundo Açoriano de Seguros Agrícolas por ele criado pelo DLR.32/2004/A.09.07.2004.ALR-RAA,\
+    \ DR.IS-A [200] de 25.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/32-2004-625025
+  date: '2004-07-09'
 article_structure:
   article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:30Z'
   warnings: []
   errors: []
 ---
@@ -311,10 +329,10 @@ O presente diploma entra em vigor à data da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 29 de Setembro de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 3 de Novembro de 1994.**
+Assinado em Angra do Heroísmo em 3 de Novembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

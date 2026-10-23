@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1989-547807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2022dee6db2915b5768c5c9b952dd3cd06c4c66ab66158f3c41350c59bfbf5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f9516114e59f789f4b5ecb4e652f86840feebe1db9414cc2cff46d1762e34a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Estabelecimento Hospitalar
+- Horta
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:217715:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217715:por
+  label: "Substituído o quadro de pessoal, aprovado pelo DRR 28/86/A, de 05-Ago, com as alterações introduzidas pelo presente\
+    \ diploma e pelos DRR 28/87/A, de 12-Set, 71/88/A, de 17-Nov, 35/89/A, de 13-Nov, e 28/90/A, de 06-Set, pelo DRR.18/92/A.1992.03.18.GR-RAA,\
+    \ DR.IS-B [94] de 22/Abr/1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-1992-217715
+  date: '1992-03-18'
+- type: cites
+  target: pt:dre:210614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495707:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:30Z'
   warnings: []
   errors: []
 ---
@@ -92,24 +119,24 @@ Constata-se, mais uma vez, que aquele quadro carece de ser alterado na parte ref
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro de pessoal do Hospital da Horta, aprovado pelo [Decreto Regulamentar Regional n.º 28/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1986-218554), de 5 de Agosto, com as alterações que lhe foram introduzidas pelos Decretos Regulamentares Regionais n.os [38/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/38-1986-210614), [28/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1987-495707) e [71/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/71-1988-357700), de 19 de Dezembro, 12 de Setembro e 17 de Novembro, respectivamente, é alterado da seguinte forma:
+Artigo 1.º O quadro de pessoal do Hospital da Horta, aprovado pelo [Decreto Regulamentar Regional n.º 28/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1986-218554), de 5 de Agosto, com as alterações que lhe foram introduzidas pelos Decretos Regulamentares Regionais n.os [38/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/38-1986-210614), [28/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1987-495707) e [71/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/71-1988-357700), de 19 de Dezembro, 12 de Setembro e 17 de Novembro, respectivamente, é alterado da seguinte forma:
 
 a) São extintos o lugar de imuno-hemoterapia, da carreira médica hospitalar, e o lugar de mecânico electricista, da carreira de pessoal operário;
 
 b) São criados um lugar de assistente e um de chefe de serviço, na área de oftalmologia, e um de assistente de hematologia clínica, todos referentes à carreira médica hospitalar, assim como um lugar de pintor, da carreira de pessoal operário.
 
-###### Art. 2.º É aprovado o mapa anexo ao presente diploma, que passa a fazer parte integrante do quadro de pessoal do Hospital da Horta.
+Art. 2.º É aprovado o mapa anexo ao presente diploma, que passa a fazer parte integrante do quadro de pessoal do Hospital da Horta.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 26 de Julho de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 21 de Agosto de 1989.**
+Assinado em Angra do Heroísmo em 21 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Mapa a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/21700/42054205.pdf))](https://files.diariodarepublica.pt/1s/1989/09/21700/42054205.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/21700/42054205.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2009/04/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2009-603770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23fd5b7666d4ca943514fd2ddc3c9d64c24a78a20dfa362f2d9855b33e6bc2aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46a110e920dfead46419ce92a8fd8f2a6182a3083d23d88365a4f2cc722c6e42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- Formação Profissional
-- Colocação de Professores
-- Educador de Infância
-- Estatuto
-- Pessoal Docente
-- Ensino Básico
-- Horário de Trabalho
-- Remuneração
-- Avaliação do Pessoal
 - Açores
+- Avaliação do Pessoal
+- Colocação de Professores
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Estatuto
+- Formação Profissional
+- Horário de Trabalho
+- Pessoal Docente
+- Remuneração
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:106861729:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492723:por
+  label: "Alterados os arts. 4º [na revogação que efectuou ao art. 14º do DLR 21/2007/A de 30-Ago] e 6º [entrada em vigor]\
+    \ do presente diploma, pelo DLR.11/2009/A.21.07.2009.AL-RAA, DR.IS [139] de 21.07.2009, que o republicou com as alterações\
+    \ decorrentes deste último diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2009-492723
+  date: '2009-07-21'
 - type: cites
   target: eli:http://data.dre.pt/eli
   label: null
@@ -123,16 +130,172 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/4/2005/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/4/2005/01/17/p/dre
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
 article_structure:
-  article_count: 315
-  section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:04Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +354,9 @@ b) ...
 
 14 - ...
 
-###### Artigo 8.º — Ingresso e reposicionamento na carreira
+Artigo 8.º
+
+Ingresso e reposicionamento na carreira
 
 1 - ...
 
@@ -215,7 +380,9 @@ Os artigos 1.º, 23.º, 31.º, 46.º, 47.º, 63.º, 68.º, 69.º, 70.º, 71.º, 
 
 3 - ...
 
-###### Artigo 23.º — Formação especializada
+Artigo 23.º
+
+Formação especializada
 
 1 - ...
 
@@ -223,7 +390,9 @@ Os artigos 1.º, 23.º, 31.º, 46.º, 47.º, 63.º, 68.º, 69.º, 70.º, 71.º, 
 
 3 - A regulamentação dos perfis de formação para o exercício dos cargos, actividades e funções no âmbito do sistema educativo regional, bem como a acreditação dos cursos de formação especializada, pode ser fixada por despacho do membro do Governo Regional competente em matéria de educação ouvidas, no que se refere à regulamentação dos perfis de formação, as organizações sindicais representativas do pessoal docente.
 
-###### Artigo 31.º — Relevância dos créditos obtidos na formação contínua
+Artigo 31.º
+
+Relevância dos créditos obtidos na formação contínua
 
 1 - ...
 
@@ -233,7 +402,9 @@ Os artigos 1.º, 23.º, 31.º, 46.º, 47.º, 63.º, 68.º, 69.º, 70.º, 71.º, 
 
 4 - Sempre que o número de créditos adquiridos pelo docente num determinado escalão exceda, no equivalente a pelo menos uma unidade de crédito, o necessário para a progressão na carreira ser-lhe-á creditada, na formação realizada no escalão seguinte, uma unidade de crédito adicional.
 
-###### Artigo 46.º — Nomeação provisória
+Artigo 46.º
+
+Nomeação provisória
 
 1 - ...
 
@@ -245,7 +416,9 @@ b) ...
 
 3 - O período probatório do docente que haja anteriormente exercido funções docentes em regime de contrato no mesmo nível de ensino e grupo de recrutamento, por tempo correspondente a, pelo menos, um ano escolar, ou em qualquer nível de ensino e grupo de recrutamento durante, pelo menos, três anos escolares, com horário completo e menção qualitativa igual ou superior a Bom, considera-se suprido para efeitos de conversão da nomeação provisória em nomeação definitiva.
 
-###### Artigo 47.º — Período probatório
+Artigo 47.º
+
+Período probatório
 
 1 - ...
 
@@ -263,7 +436,9 @@ b) ...
 
 8 - ...
 
-###### Artigo 63.º — Exercício de funções não docentes
+Artigo 63.º
+
+Exercício de funções não docentes
 
 1 - ...
 
@@ -279,7 +454,9 @@ b) ...
 
 7 - (Anterior n.º 4.)
 
-###### Artigo 68.º — Âmbito e periodicidade
+Artigo 68.º
+
+Âmbito e periodicidade
 
 1 - ...
 
@@ -311,7 +488,9 @@ c) Escalões 6.º, 7.º e 8.º - em cada triénio.
 
 8 - Para efeitos de progressão na carreira é considerada a avaliação do desempenho relativa ao período de duração do escalão, até 31 de Agosto do ano escolar anterior àquele em que o docente complete o tempo de serviço necessário a tal progressão na carreira.
 
-###### Artigo 69.º — Intervenientes no processo de avaliação
+Artigo 69.º
+
+Intervenientes no processo de avaliação
 
 1 - ...
 
@@ -349,7 +528,9 @@ b) ...
 
 11 - Na designação dos docentes a quem sejam delegadas as funções de avaliador deve ser dada preferência a quem detenha formação em supervisão pedagógica, formação especializada em avaliação do desempenho ou currículo relevante na formação inicial de professores.
 
-###### Artigo 70.º — Comissão coordenadora da avaliação
+Artigo 70.º
+
+Comissão coordenadora da avaliação
 
 1 - Em cada unidade orgânica do sistema educativo funciona uma comissão coordenadora da avaliação composta por um presidente e quatro vogais, eleitos, nos termos do número seguinte, entre os docentes com nomeação definitiva no quadro da unidade orgânica com, pelo menos, cinco anos de serviço.
 
@@ -373,7 +554,9 @@ d) ...
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 71.º — Processo de avaliação
+Artigo 71.º
+
+Processo de avaliação
 
 1 - Sem prejuízo da calendarização específica que deva ser adoptada nos processos de avaliação dos docentes do quadro que cessem funções no final do ano escolar, ou que reúnam os requisitos de tempo de serviço docente para progressão na carreira e dos docentes contratados, aos quais deve ser dada prioridade, o processo de avaliação do desempenho compreende as seguintes fases sequenciais:
 
@@ -401,7 +584,9 @@ g) O presidente do conselho executivo procede à homologação da classificaçã
 
 6 - O processo de avaliação do desempenho deve estar concluído, no que se refere ao segundo período avaliativo, no mês em que o docente complete o tempo de serviço necessário à progressão na carreira, sendo esse o mês de referência para a conclusão do processo de avaliação relativo ao primeiro período avaliativo.
 
-###### Artigo 72.º — Itens de classificação
+Artigo 72.º
+
+Itens de classificação
 
 1 - ...
 
@@ -471,7 +656,9 @@ f) ...
 
 12 - Nas situações em que o número dos docentes a avaliar por período de avaliação seja, num determinado departamento, igual ou superior a 20, ou quando nenhum dos avaliadores pertença ao grupo de recrutamento do avaliado, deve o coordenador, ouvido o conselho executivo, relativamente aos docentes que considere necessário, delegar as suas funções de avaliador num docente do quadro de nomeação definitiva da unidade orgânica, aplicando-se-lhe o disposto nos n.os 9 e 10 do artigo 69.º
 
-###### Artigo 73.º — Formulário de avaliação
+Artigo 73.º
+
+Formulário de avaliação
 
 1 - O processo de avaliação implica a utilização de formulário de avaliação normalizado, no qual se incluirá a definição de cada um dos factores que integram as componentes de competências e atitudes pessoais do docente, bem como a descrição do comportamento profissional que lhe corresponde.
 
@@ -479,13 +666,17 @@ f) ...
 
 3 - O formulário de avaliação preenchido com a auto-avaliação do docente é parte integrante do relatório de auto-avaliação a que se refere o artigo seguinte.
 
-###### Artigo 74.º — Relatório de auto-avaliação
+Artigo 74.º
+
+Relatório de auto-avaliação
 
 1 - O relatório de auto-avaliação deve versar as evidências que possam concorrer para melhor esclarecimento dos critérios constantes dos n.os 1 e 2 do artigo anterior.
 
 2 - O relatório de auto-avaliação pode ser acompanhado dos documentos probatórios e de coadjuvação da análise que o docente considere relevantes.
 
-###### Artigo 76.º — Sistema de classificação
+Artigo 76.º
+
+Sistema de classificação
 
 1 - ...
 
@@ -507,7 +698,9 @@ e) ...
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 78.º — Efeitos da avaliação
+Artigo 78.º
+
+Efeitos da avaliação
 
 1 - A atribuição da menção qualitativa de Excelente durante dois períodos consecutivos de avaliação do desempenho permite a redução de dois anos no tempo de serviço docente exigido para efeitos de progressão para o escalão seguinte da carreira.
 
@@ -529,7 +722,9 @@ b) ...
 
 8 - ...
 
-###### Artigo 79.º — Garantias do processo de avaliação
+Artigo 79.º
+
+Garantias do processo de avaliação
 
 1 - ...
 
@@ -539,7 +734,9 @@ b) ...
 
 4 - Nos casos em que, no âmbito do processo de avaliação intercalar, seja atribuída menção igual ou superior a Bom considera-se suprida, para efeitos de progressão na carreira, a avaliação anteriormente obtida.
 
-###### Artigo 80.º — Aquisição de outras habilitações por docentes profissionalizados
+Artigo 80.º
+
+Aquisição de outras habilitações por docentes profissionalizados
 
 1 - ...
 
@@ -571,7 +768,9 @@ f) ...
 
 g) ...
 
-###### Artigo 81.º — Progressão por aquisição de outras habilitações
+Artigo 81.º
+
+Progressão por aquisição de outras habilitações
 
 1 - A aquisição de licenciatura em domínio directamente relacionado com a docência por docentes profissionalizados integrados na carreira determina a mudança para escalão correspondente àquele em que o docente se encontraria se tivesse ingressado na carreira com esse grau, no qual o docente cumprirá no mínimo um ano de serviço completo com a menção qualitativa mínima de Bom.
 
@@ -581,13 +780,17 @@ g) ...
 
 4 - A bonificação referida no n.º 2 determina a permanência mínima de um ano de serviço completo no escalão em que o docente for posicionado, sendo deduzida das bonificações previstas no artigo anterior quanto à aquisição de mestrados ou doutoramentos por docentes dos quadros de nomeação definitiva detentores de licenciatura.
 
-###### Artigo 83.º — Exercício de outras funções educativas
+Artigo 83.º
+
+Exercício de outras funções educativas
 
 1 - ...
 
 2 - Ao docente qualificado para o exercício de outras funções educativas, obtidas beneficiando de qualquer tipo de apoio público, que recuse, nos termos do artigo anterior, o desempenho efectivo das mesmas funções é atribuída, no primeiro momento de avaliação do desempenho subsequente à recusa, a menção qualitativa de Regular, nos termos e para os efeitos do disposto nos artigos 66.º e seguintes do presente Estatuto.
 
-###### Artigo 85.º — Índices remuneratórios
+Artigo 85.º
+
+Índices remuneratórios
 
 1 - A carreira docente é remunerada de acordo com as escalas indiciárias constantes do anexo i do presente Estatuto, do qual faz parte integrante.
 
@@ -597,7 +800,9 @@ g) ...
 
 4 - ...
 
-###### Artigo 86.º — Remuneração de outras funções educativas
+Artigo 86.º
+
+Remuneração de outras funções educativas
 
 1 - ...
 
@@ -607,7 +812,9 @@ g) ...
 
 4 - ...
 
-###### Artigo 87.º — Cálculo da remuneração horária
+Artigo 87.º
+
+Cálculo da remuneração horária
 
 1 - ...
 
@@ -615,7 +822,9 @@ g) ...
 
 3 - A remuneração devida aos formadores, portadores de certificado de formadores, para a leccionação das disciplinas das componentes de formação técnica ou profissional é calculada através da fórmula (Rb x 14)/(36 x N), sendo Rb a remuneração base mensal fixada para docente licenciado profissionalizado, 36 as semanas que compõem um ano lectivo e N o horário da componente lectiva do nível ou grau de ensino a ministrar.
 
-###### Artigo 89.º — Prémios de desempenho
+Artigo 89.º
+
+Prémios de desempenho
 
 1 - O docente do quadro em efectividade de serviço docente tem direito a um prémio pecuniário de desempenho, por cada quatro períodos avaliativos consecutivos de serviço efectivamente prestado com avaliação de desempenho de Excelente, de montante equivalente ao de quatro vezes o valor mensal da retribuição a que tenha direito.
 
@@ -629,7 +838,9 @@ g) ...
 
 6 - ...
 
-###### Artigo 104.º — Requisição
+Artigo 104.º
+
+Requisição
 
 1 - ...
 
@@ -657,7 +868,9 @@ i) ...
 
 4 - ...
 
-###### Artigo 112.º — Distribuição de serviço de apoio educativo e substituição
+Artigo 112.º
+
+Distribuição de serviço de apoio educativo e substituição
 
 1 - ...
 
@@ -669,7 +882,9 @@ i) ...
 
 5 - ...
 
-###### Artigo 117.º — Duração semanal
+Artigo 117.º
+
+Duração semanal
 
 1 - ...
 
@@ -681,7 +896,9 @@ i) ...
 
 5 - A duração semanal global do serviço prestado a nível do estabelecimento, registado no horário do docente, com excepção do tempo destinado a reuniões, é igual ao número de horas da componente lectiva em início de carreira concretamente aplicável ao nível e ciclo de ensino que o docente lecciona, acrescida de uma hora na educação pré-escolar e 1.º ciclo do ensino básico, e de quatro segmentos de quarenta e cinco minutos, dois dos quais destinados obrigatoriamente a actividades com alunos, nos restantes casos.
 
-###### Artigo 118.º — Componente lectiva
+Artigo 118.º
+
+Componente lectiva
 
 1 - ...
 
@@ -699,7 +916,9 @@ b) ...
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 120.º — Aula de substituição
+Artigo 120.º
+
+Aula de substituição
 
 1 - ...
 
@@ -719,7 +938,9 @@ c) [Anterior alínea d).]
 
 d) [Anterior alínea c).]
 
-###### Artigo 121.º — Componente não lectiva
+Artigo 121.º
+
+Componente não lectiva
 
 1 - ...
 
@@ -741,7 +962,9 @@ d) ...
 
 e) ...
 
-###### Artigo 123.º — Serviço docente extraordinário
+Artigo 123.º
+
+Serviço docente extraordinário
 
 1 - ...
 
@@ -755,7 +978,9 @@ e) ...
 
 6 - É vedado distribuir serviço docente extraordinário aos docentes que se encontrem ao abrigo do estatuto do trabalhador-estudante e de apoio a filhos deficientes, aos que beneficiem de redução da componente lectiva nos termos do artigo seguinte e ainda àqueles que beneficiem de dispensa da componente lectiva nos termos dos artigos 127.º e seguintes, salvo nos casos em que tal se manifeste necessário para completar o horário semanal do docente em função da carga horária da disciplina que ministra e na situação prevista na alínea d) do n.º 5 do artigo 120.º do presente Estatuto.
 
-###### Artigo 125.º — Docentes com horário acrescido
+Artigo 125.º
+
+Docentes com horário acrescido
 
 1 - ...
 
@@ -763,7 +988,9 @@ e) ...
 
 3 - ...
 
-###### Artigo 128.º — Condições e procedimento para dispensa
+Artigo 128.º
+
+Condições e procedimento para dispensa
 
 1 - ...
 
@@ -787,7 +1014,9 @@ d) ...
 
 7 - ...
 
-###### Artigo 147.º — Faltas justificadas
+Artigo 147.º
+
+Faltas justificadas
 
 1 - ...
 
@@ -803,11 +1032,15 @@ d) ...
 
 7 - O incumprimento do disposto no número anterior determina que as faltas dadas não relevem como serviço efectivo para efeitos de avaliação do desempenho.
 
-###### Artigo 189.º — Princípio geral
+Artigo 189.º
+
+Princípio geral
 
 Ao pessoal docente é aplicável o Estatuto Disciplinar dos Trabalhadores que exercem funções públicas, com as adaptações que a seguir se prevêem.
 
-###### Artigo 193.º — Aplicação das penas
+Artigo 193.º
+
+Aplicação das penas
 
 1 - ...
 
@@ -815,7 +1048,9 @@ Ao pessoal docente é aplicável o Estatuto Disciplinar dos Trabalhadores que ex
 
 3 - (Revogado.)
 
-###### Artigo 224.º — Modalidades de acções de formação contínua
+Artigo 224.º
+
+Modalidades de acções de formação contínua
 
 1 - ...
 
@@ -843,7 +1078,9 @@ i) Boas práticas formativas.
 
 4 - Podem ainda ser equiparadas a formação contínua creditada, por despacho fundamentado do membro do Governo Regional competente em matéria de educação, e eventos formativos que pela sua relevância científico-pedagógica contribuam para a qualidade da educação e do ensino do sistema educativo regional.
 
-###### Artigo 232.º — Entidades formadoras
+Artigo 232.º
+
+Entidades formadoras
 
 1 - ...
 
@@ -863,7 +1100,9 @@ e) [Anterior alínea d).]
 
 4 - ...
 
-###### Artigo 237.º — Requisitos
+Artigo 237.º
+
+Requisitos
 
 1 - ...
 
@@ -889,7 +1128,9 @@ b) ...
 
 4 - O estatuto de formador a que se referem os números anteriores é concedido, por um período de seis anos, renovável e para uma determinada área de formação, a qual deve constar explicitamente do respectivo processo e do documento autorizador.
 
-###### Artigo 245.º — Efeitos da formação contínua
+Artigo 245.º
+
+Efeitos da formação contínua
 
 1 - ...
 
@@ -901,7 +1142,9 @@ b) ...
 
 5 - Aos docentes que se encontrem integrados no topo da carreira não é exigida formação contínua que corresponda a um número mínimo de créditos mas, por período avaliativo, a frequência de formação contínua com aproveitamento.
 
-###### Artigo 247.º — Contagem do tempo de serviço
+Artigo 247.º
+
+Contagem do tempo de serviço
 
 1 - ...
 
@@ -913,13 +1156,17 @@ b) ...
 
 5 - ...
 
-## ANEXO II — Índices remuneratórios da carreira docente
+ANEXO II
+
+Índices remuneratórios da carreira docente
 
 (a que se refere o artigo 85.º do Estatuto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07600/0232402387.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07600/0232402387.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07600/0232402387.pdf)
 
-###### Artigo 3.º — Regime transitório da avaliação do desempenho
+Artigo 3.º
+
+Regime transitório da avaliação do desempenho
 
 1 - A partir de 1 de Setembro de 2009, a avaliação do desempenho de todos os docentes que, por força dos artigos 6.º e 7.º do [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto, permaneçam num determinado escalão um período inferior a quatro anos é feita no final do mesmo e reporta-se a toda a actividade exercida durante esse período.
 
@@ -955,7 +1202,9 @@ d) O docente não participou, por motivos injustificados, em formação contínu
 
 9 - Sem prejuízo do disposto nos números anteriores, os docentes que o pretendam poderão concluir o processo de avaliação do desempenho relativo ao ano escolar de 2008-2009, realizado nos termos do Estatuto da Carreira Docente, aprovado pelo [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto.
 
-###### Artigo 4.º — Revogação e repristinação de normas
+Artigo 4.º
+
+Revogação e repristinação de normas
 
 1 - É revogado o artigo 9.º do [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto.
 
@@ -969,37 +1218,49 @@ d) O docente não participou, por motivos injustificados, em formação contínu
 
 6 - Com a revogação do anexo i do Estatuto da Carreira Docente da Região Autónoma dos Açores, aprovado pelo [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto, o anexo iii passa a designar-se anexo ii.
 
-###### Artigo 5.º — Republicação
+Artigo 5.º
+
+Republicação
 
 O [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto, e o Estatuto da Carreira Docente, são republicados em anexo, com as alterações do presente diploma.
 
-###### Artigo 6.º — Entrada em vigor
+Artigo 6.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do ano escolar de 2008-2009.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de Fevereiro de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 2 de Abril de 2009.**
+Assinado em Angra do Heroísmo em 2 de Abril de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-## ANEXO — Republicação do [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto
+ANEXO
+
+Republicação do [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de Agosto
 
 Estatuto da Carreira Docente na Região Autónoma dos Açores
 
-###### Artigo 1.º — Aprovação
+Artigo 1.º
+
+Aprovação
 
 É aprovado o Estatuto do Pessoal Docente da Educação Pré-Escolar e dos Ensinos Básico e Secundário, doravante designado por Estatuto, anexo ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 2.º — Incentivos à estabilidade
+Artigo 2.º
+
+Incentivos à estabilidade
 
 Os docentes que beneficiam de qualquer dos incentivos à fixação concedidos ao abrigo do [Decreto Regulamentar Regional n.º 2/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2000-435867), de 22 de Janeiro, mantêm inalterados os respectivos abonos até ao termo dos prazos que legalmente estavam fixados.
 
-###### Artigo 3.º — Quadros de zona pedagógica
+Artigo 3.º
+
+Quadros de zona pedagógica
 
 1 - Sem prejuízo do disposto no Estatuto aprovado pelo presente diploma quanto ao quadro de docentes de Educação Moral e Religiosa, todas as vagas existentes nos quadros de zona pedagógica extinguem-se quando vagarem.
 
@@ -1007,7 +1268,9 @@ Os docentes que beneficiam de qualquer dos incentivos à fixação concedidos ao
 
 3 - Os docentes que permanecerem nos quadros de zona pedagógica continuam obrigados ao cumprimento do disposto no artigo 20.º do Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário, aprovado pelo [Decreto Legislativo Regional n.º 27/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2003-683641), de 9 de Junho.
 
-###### Artigo 4.º — Grupos de recrutamento
+Artigo 4.º
+
+Grupos de recrutamento
 
 1 - Sem prejuízo do disposto no número seguinte, enquanto outros não forem fixados, nos termos do Estatuto aprovado pelo presente diploma, os grupos de recrutamento a utilizar pela administração regional autónoma são os estabelecidos no [Decreto-Lei n.º 27/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2006-684601), de 10 de Fevereiro.
 
@@ -1023,7 +1286,9 @@ c) Praticar um horário lectivo de vinte e cinco horas semanais e continuar a au
 
 4 - A não apresentação de requerimento é considerada como opção por um horário lectivo de vinte e duas horas semanais.
 
-###### Artigo 5.º — Profissionalização em serviço
+Artigo 5.º
+
+Profissionalização em serviço
 
 1 - A profissionalização em serviço dos docentes que esteja a decorrer à data da entrada em vigor do presente diploma e dos que se encontrem abrangidos pelo artigo 6.º do [Decreto Legislativo Regional n.º 1/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2002-584860), de 4 de Janeiro, decorre até à sua conclusão nos termos previstos no referido diploma.
 
@@ -1031,7 +1296,9 @@ c) Praticar um horário lectivo de vinte e cinco horas semanais e continuar a au
 
 3 - A nomeação provisória dos docentes em situação de pré-carreira, nos termos do artigo 6.º do [Decreto-Lei n.º 312/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1999-426691), de 10 de Agosto, converte-se em nomeação definitiva no 1.º dia do ano escolar subsequente à conclusão da profissionalização.
 
-###### Artigo 6.º — Transição na carreira docente
+Artigo 6.º
+
+Transição na carreira docente
 
 1 - O disposto nos números seguintes e no artigo 7.º apenas se aplica nas situações em que se verifique um posicionamento na carreira docente diferente daquele que resultou da aplicação do [Decreto-Lei n.º 15/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2007-522638), de 19 de Janeiro, tendo como referência o posicionamento do docente à data de entrada em vigor daquele diploma.
 
@@ -1065,7 +1332,9 @@ b) São integrados na nova estrutura de carreira no 5.º escalão após perfazer
 
 14 - A transição para a nova carreira e escalão efectua-se sem quaisquer formalidades, para além da elaboração pela unidade orgânica de uma lista nominativa de transição, a afixar em local apropriado que possibilite a sua consulta pelos interessados.
 
-###### Artigo 7.º — Duração da carreira
+Artigo 7.º
+
+Duração da carreira
 
 1 - Aos docentes licenciados que à data de entrada em vigor do presente diploma se encontrem posicionados nos 4.º, 5.º e 6.º escalões da carreira docente aprovada pelo [Decreto-Lei n.º 312/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1999-426691), de 10 de Agosto, o tempo de permanência em cada um dos escalões, a que se refere o n.º 4 do artigo 62.º do Estatuto anexo ao presente diploma, é encurtado de um ano em cada escalão, iniciando-se a redução pelo mais baixo, de forma que o somatório do número de anos necessários para atingir o escalão mais alto não exceda os 35 anos de serviço classificado de Bom ou superior.
 
@@ -1073,7 +1342,9 @@ b) São integrados na nova estrutura de carreira no 5.º escalão após perfazer
 
 3 - Para os docentes bacharéis que à data de entrada em vigor do presente diploma se encontrem providos em lugar dos quadros de nomeação definitiva, o tempo de permanência em cada um dos escalões, a que se refere o n.º 4 do artigo 62.º do Estatuto anexo ao presente diploma, é encurtado de um ano em cada escalão, iniciando-se a redução pelo mais baixo, de forma que o somatório do número de anos necessários para atingir o escalão mais alto não exceda os 40 anos de serviço classificado de Bom ou superior.
 
-###### Artigo 8.º — Ingresso e reposicionamento na carreira
+Artigo 8.º
+
+Ingresso e reposicionamento na carreira
 
 1 - Os docentes que forem providos na carreira, em regime de nomeação provisória ou definitiva, durante o período de aplicação do artigo 6.º, são remunerados por índice igual ao dos docentes abrangidos pelo mesmo artigo com igual tempo de serviço docente e qualificação profissional, aplicando-se as regras de reposicionamento salarial ali previstas.
 
@@ -1083,11 +1354,15 @@ b) São integrados na nova estrutura de carreira no 5.º escalão após perfazer
 
 4 - O disposto no número anterior aplica-se ainda aos docentes profissionalizados que venham a ingressar na carreira até 1 de Setembro de 2008.
 
-###### Artigo 9.º — Regime transitório de avaliação do desempenho
+Artigo 9.º
+
+Regime transitório de avaliação do desempenho
 
 (Revogado.)
 
-###### Artigo 10.º — Regime especial de reposicionamento salarial
+Artigo 10.º
+
+Regime especial de reposicionamento salarial
 
 1 - Os docentes abrangidos pelas disposições de transição da carreira docente contidas no artigo 6.º do presente diploma são reposicionados na nova estrutura salarial e no escalão correspondente da aplicação sucessiva das regras de progressão constantes no [Decreto-Lei n.º 312/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1999-426691), de 10 de Agosto, e do regime de transição previsto no mesmo artigo, desde que preenchidos, cumulativamente, os seguintes requisitos:
 
@@ -1099,17 +1374,23 @@ c) Tenham obtido, relativamente ao documento mencionado na alínea a), a mençã
 
 2 - O regime especial de reposicionamento salarial fixado no presente artigo aplica-se igualmente aos docentes a que refere o n.º 3 do artigo anterior, desde que tenham obtido menção qualitativa mínima de Satisfaz na avaliação ali referida.
 
-###### Artigo 11.º — Contratos administrativos
+Artigo 11.º
+
+Contratos administrativos
 
 1 - Os contratos administrativos celebrados ao abrigo do artigo 33.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, mantêm-se em vigor até ao seu termo, não sendo susceptíveis de renovação para além do termo do presente ano escolar.
 
 2 - São igualmente mantidos até ao seu termo todos os contratos, de qualquer natureza, com formadores externos, não sendo os mesmos susceptíveis de renovação, excepto nos termos fixados pelo Estatuto aprovado pelo presente diploma.
 
-###### Artigo 12.º — Prémio de desempenho
+Artigo 12.º
+
+Prémio de desempenho
 
 A contagem do tempo de serviço para atribuição do primeiro prémio de desempenho é feita a partir do início do ano escolar subsequente à entrada em vigor do presente diploma.
 
-###### Artigo 13.º — Redução da componente lectiva
+Artigo 13.º
+
+Redução da componente lectiva
 
 1 - Os docentes que à data de entrada em vigor do presente diploma beneficiam de redução da componente lectiva ao abrigo do disposto no artigo 79.º do Estatuto anexo ao [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, mantêm a redução que ora beneficiam até que, nos termos do artigo 124.º do Estatuto aprovado pelo presente diploma, lhes caiba maior redução.
 
@@ -1117,11 +1398,15 @@ A contagem do tempo de serviço para atribuição do primeiro prémio de desempe
 
 3 - O disposto no n.º 2 do artigo 124.º do Estatuto anexo ao presente diploma não se aplica aos docentes da educação pré-escolar e do 1.º ciclo do ensino básico que sejam abrangidos pelo regime transitório de aposentação previsto na alínea b) do n.º 7 do artigo 5.º do [Decreto-Lei n.º 229/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), de 29 de Dezembro.
 
-###### Artigo 14.º — Contagem do tempo de serviço
+Artigo 14.º
+
+Contagem do tempo de serviço
 
 (Revogado.)
 
-###### Artigo 15.º — Norma revogatória
+Artigo 15.º
+
+Norma revogatória
 
 1 - São revogados os seguintes diplomas:
 
@@ -1173,17 +1458,25 @@ c) O n.º 10 da Resolução n.º 260/87, de 1 de Setembro;
 
 d) O n.º 3 do artigo 17.º e os artigos 35.º, 36.º, 56.º, 57.º, 66.º, 96.º, 97.º e 109.º do Regulamento anexo à [Portaria n.º 35/2006](https://diariodarepublica.pt/dr/detalhe/portaria/35-2006-203786), de 4 de Maio.
 
-###### Artigo 16.º — Produção de efeitos
+Artigo 16.º
+
+Produção de efeitos
 
 1 - O presente diploma entra em vigor no dia imediato à data da sua publicação.
 
 2 - O regime de avaliação do desempenho do pessoal docente, incluindo as grelhas normalizadas, é revisto até ao termo do quarto ano escolar posterior à sua primeira aplicação.
 
-## ANEXO — Estatuto do Pessoal Docente da Educação Pré-Escolar e dos Ensinos Básico e Secundário
+ANEXO
 
-### CAPÍTULO I — Princípios gerais
+Estatuto do Pessoal Docente da Educação Pré-Escolar e dos Ensinos Básico e Secundário
 
-###### Artigo 1.º — Âmbito de aplicação
+CAPÍTULO I
+
+Princípios gerais
+
+Artigo 1.º
+
+Âmbito de aplicação
 
 1 - O presente Estatuto aplica-se aos docentes, qualquer que seja o nível, o ciclo, o grupo ou a especialidade, que prestam serviço no sistema educativo regional em estabelecimentos de educação ou de ensino directamente dependentes da administração regional autónoma.
 
@@ -1191,17 +1484,23 @@ d) O n.º 3 do artigo 17.º e os artigos 35.º, 36.º, 56.º, 57.º, 66.º, 96.�
 
 3 - O disposto no presente Estatuto aplica-se, ainda, com as necessárias adaptações, em tudo o que não colida com lei especial, com o Código do Trabalho e seus regulamentos ou com os instrumentos reguladores do trabalho, aplicáveis aos docentes em exercício efectivo de funções em estabelecimentos ou instituições de ensino do sector particular, cooperativo e solidário.
 
-###### Artigo 2.º — Pessoal docente
+Artigo 2.º
+
+Pessoal docente
 
 1 - Para efeitos de aplicação do presente Estatuto, considera-se pessoal docente aquele que é portador de qualificação profissional, certificada nos termos legalmente fixados, para o desempenho de funções de educação ou de ensino com carácter permanente, sequencial e sistemático.
 
 2 - Considera-se ainda pessoal docente, nos termos do disposto no n.º 7 do artigo 34.º da Lei de Bases do Sistema Educativo, os docentes do ensino básico e do ensino secundário portadores das habilitações científicas requeridas para o acesso à profissionalização no ensino ou que, nos termos legais, tenham sido dispensados da profissionalização em serviço prevista no presente Estatuto.
 
-###### Artigo 3.º — Princípios fundamentais
+Artigo 3.º
+
+Princípios fundamentais
 
 A actividade do pessoal docente desenvolve-se de acordo com os princípios fundamentais consagrados na Constituição da República Portuguesa e no quadro dos princípios gerais e específicos constantes dos artigos 2.º e 3.º da Lei de Bases do Sistema Educativo e no presente Estatuto.
 
-###### Artigo 4.º — Grupos de recrutamento
+Artigo 4.º
+
+Grupos de recrutamento
 
 1 - Para efeitos de selecção e recrutamento e de desempenho profissional, o pessoal docente da educação pré-escolar e dos ensinos básico e secundário insere-se em grupos de recrutamento.
 
@@ -1209,11 +1508,17 @@ A actividade do pessoal docente desenvolve-se de acordo com os princípios funda
 
 3 - Os grupos de recrutamento são os definidos nos diplomas que fixam as estruturas curriculares.
 
-### CAPÍTULO II — Direitos e deveres profissionais
+CAPÍTULO II
 
-#### SECÇÃO I — Direitos
+Direitos e deveres profissionais
 
-###### Artigo 5.º — Direitos profissionais
+SECÇÃO I
+
+Direitos
+
+Artigo 5.º
+
+Direitos profissionais
 
 1 - São garantidos ao pessoal docente os direitos estabelecidos para os funcionários e agentes da administração regional autónoma em geral, bem como os direitos profissionais decorrentes do presente Estatuto.
 
@@ -1239,7 +1544,9 @@ i) Direito à estabilidade profissional e de emprego;
 
 j) Direito à não discriminação.
 
-###### Artigo 6.º — Direito de participação no processo educativo
+Artigo 6.º
+
+Direito de participação no processo educativo
 
 1 - O direito de participação exerce-se no âmbito do sistema educativo regional, da escola, da aula e da relação entre a escola e a comunidade que ela serve.
 
@@ -1257,7 +1564,9 @@ e) O direito de eleger e ser eleito para órgãos colegiais ou singulares das un
 
 3 - O direito de participação pode ainda ser exercido, através das organizações profissionais e sindicais do pessoal docente, em órgãos que, no âmbito regional ou local, assegurem a interligação do sistema educativo à comunidade.
 
-###### Artigo 7.º — Direito à formação e informação para o exercício da função educativa
+Artigo 7.º
+
+Direito à formação e informação para o exercício da função educativa
 
 1 - O direito à formação e informação para o exercício da função educativa é garantido:
 
@@ -1267,11 +1576,15 @@ b) Pelo apoio à autoformação dos docentes, de acordo com os respectivos plano
 
 2 - Para efeitos do disposto no número anterior, o direito à formação e informação para o exercício da função educativa pode também visar objectivos de reconversão profissional, bem como de mobilidade e progressão na carreira.
 
-###### Artigo 8.º — Direito ao apoio técnico, material e documental
+Artigo 8.º
+
+Direito ao apoio técnico, material e documental
 
 O direito ao apoio técnico, material e documental exerce-se sobre os recursos necessários à formação e informação do pessoal docente, bem como ao exercício da actividade educativa.
 
-###### Artigo 9.º — Direito à higiene, saúde e segurança na actividade profissional
+Artigo 9.º
+
+Direito à higiene, saúde e segurança na actividade profissional
 
 1 - O direito à higiene, saúde e segurança na actividade profissional compreende:
 
@@ -1289,21 +1602,29 @@ c) A prevenção e tratamento das doenças profissionais que venham a ser adquir
 
 5 - O director regional competente em matéria de administração educativa pode, sempre que assim entender, submeter a apreciação do caso ao parecer de dois médicos especialistas, um dos quais indicado pelo docente.
 
-###### Artigo 10.º — Acidentes na actividade escolar
+Artigo 10.º
+
+Acidentes na actividade escolar
 
 O disposto no artigo anterior aplica-se à qualificação de acidentes ocorridos na actividade escolar como acidentes em serviço e à avaliação das suas consequências.
 
-###### Artigo 11.º — Direito à consideração e à colaboração da comunidade educativa
+Artigo 11.º
+
+Direito à consideração e à colaboração da comunidade educativa
 
 1 - O direito à consideração exerce-se no plano da relação com os alunos, as suas famílias e os demais membros da comunidade educativa e exprime-se no reconhecimento da autoridade de que o docente se encontra investido no exercício das suas funções.
 
 2 - O direito à colaboração das famílias e dos demais membros da comunidade educativa compreende o direito a receber o seu apoio e cooperação activa, no quadro da partilha entre todos da responsabilidade pelo desenvolvimento e pelos resultados da aprendizagem dos alunos.
 
-###### Artigo 12.º — Direito à negociação colectiva
+Artigo 12.º
+
+Direito à negociação colectiva
 
 É reconhecido ao pessoal docente o direito à negociação colectiva, nos termos legalmente previstos.
 
-###### Artigo 13.º — Direito à dignificação da profissão docente
+Artigo 13.º
+
+Direito à dignificação da profissão docente
 
 O direito à dignificação da profissão docente visa:
 
@@ -1313,17 +1634,25 @@ b) Uma remuneração compatível com as qualificações profissionais e importâ
 
 c) O reconhecimento da especificidade e relevância social da profissão docente.
 
-###### Artigo 14.º — Direito à estabilidade profissional e de emprego
+Artigo 14.º
+
+Direito à estabilidade profissional e de emprego
 
 O direito à estabilidade profissional e de emprego é salvaguardado pelo acesso aos quadros mediante concurso destinado a suprir as necessidades permanentes e não permanentes das escolas.
 
-###### Artigo 15.º — Direito à não discriminação
+Artigo 15.º
+
+Direito à não discriminação
 
 O direito à não discriminação é salvaguardado pela preservação da protecção de dados pessoais e profissionais susceptíveis de promover qualquer forma de abuso e discriminação no trabalho.
 
-#### SECÇÃO II — Deveres
+SECÇÃO II
 
-###### Artigo 16.º — Deveres profissionais
+Deveres
+
+Artigo 16.º
+
+Deveres profissionais
 
 1 - O pessoal docente está obrigado ao cumprimento dos deveres estabelecidos para os funcionários e agentes da administração regional autónoma em geral e dos deveres profissionais decorrentes do presente Estatuto.
 
@@ -1353,7 +1682,9 @@ l) Participar em todas as dimensões da organização e da vida escolar, contrib
 
 m) Pugnar pela dignidade profissional e pelo estrito cumprimento do conteúdo funcional da profissão.
 
-###### Artigo 17.º — Deveres para com os alunos
+Artigo 17.º
+
+Deveres para com os alunos
 
 Constituem deveres específicos dos docentes relativamente aos seus alunos:
 
@@ -1377,7 +1708,9 @@ i) Colaborar na prevenção e detecção de situações de risco social, se nece
 
 j) Respeitar a natureza confidencial da informação relativa aos alunos e respectivas famílias.
 
-###### Artigo 18.º — Deveres para com a escola e os outros docentes
+Artigo 18.º
+
+Deveres para com a escola e os outros docentes
 
 Constituem deveres específicos dos docentes para com a escola e outros docentes:
 
@@ -1397,7 +1730,9 @@ g) Cooperar com os outros docentes na avaliação do seu desempenho;
 
 h) Defender e promover o bem-estar de todos os docentes, protegendo-os de quaisquer situações de violência física ou psicológica, se necessário solicitando a intervenção de pessoas e entidades alheias à instituição escolar.
 
-###### Artigo 19.º — Deveres para com os pais e encarregados de educação
+Artigo 19.º
+
+Deveres para com os pais e encarregados de educação
 
 Constituem deveres específicos dos docentes para com os pais e encarregados de educação dos alunos:
 
@@ -1411,23 +1746,35 @@ d) Facultar regularmente aos pais ou encarregados de educação a informação s
 
 e) Participar activamente em acções específicas de formação ou informação para os pais ou encarregados de educação que contribuam para a sua participação na escola e para que possam prestar um apoio mais adequado aos alunos.
 
-### CAPÍTULO III — Formação
+CAPÍTULO III
 
-#### SECÇÃO I — Dispositivo e modalidades de formação
+Formação
 
-###### Artigo 20.º — Formação do pessoal docente
+SECÇÃO I
+
+Dispositivo e modalidades de formação
+
+Artigo 20.º
+
+Formação do pessoal docente
 
 A formação do pessoal docente desenvolve-se de acordo com os princípios gerais constantes da Lei de Bases do Sistema Educativo, cabendo ao departamento da administração regional autónoma competente em matéria de educação o respectivo planeamento, coordenação e avaliação global.
 
-###### Artigo 21.º — Modalidades da formação
+Artigo 21.º
+
+Modalidades da formação
 
 1 - A formação do pessoal docente compreende a formação inicial, a formação especializada e a formação contínua, previstas, respectivamente, nos artigos 34.º, 36.º e 38.º da Lei de Bases do Sistema Educativo.
 
 2 - Sempre que o docente não disponha de licenciatura adequada, a formação especializada prevista no número anterior, quando confira aquele grau, reveste a natureza de formação complementar.
 
-#### SECÇÃO II — Formação inicial e especializada
+SECÇÃO II
 
-###### Artigo 22.º — Formação inicial
+Formação inicial e especializada
+
+Artigo 22.º
+
+Formação inicial
 
 1 - A formação inicial dos educadores de infância e dos professores dos ensinos básico e secundário é a que confere qualificação profissional para a docência no respectivo nível de educação ou de ensino.
 
@@ -1435,7 +1782,9 @@ A formação do pessoal docente desenvolve-se de acordo com os princípios gerai
 
 3 - Nos termos do artigo 195.º e seguintes do presente Estatuto, a administração regional autónoma coopera com os estabelecimentos de ensino superior que ministram formação inicial, através da criação de condições para a realização de estágios pedagógicos nos estabelecimentos de educação e ensino dela dependentes.
 
-###### Artigo 23.º — Formação especializada
+Artigo 23.º
+
+Formação especializada
 
 1 - A formação especializada visa a qualificação dos docentes para o desempenho de funções ou actividades educativas especializadas e é ministrada nas instituições de formação a que se refere o n.º 2 do artigo 36.º da Lei de Bases do Sistema Educativo.
 
@@ -1443,9 +1792,13 @@ A formação do pessoal docente desenvolve-se de acordo com os princípios gerai
 
 3 - A regulamentação dos perfis de formação para o exercício dos cargos, actividades e funções no âmbito do sistema educativo regional, bem como a acreditação dos custos de formação especializada pode ser fixada por despacho do membro do Governo Regional competente em matéria da educação ouvidas, no que se refere à regulamentação dos perfis de formação, as organizações sindicais representativas do pessoal docente.
 
-#### SECÇÃO III — Formação contínua e complementar
+SECÇÃO III
 
-###### Artigo 24.º — Formação contínua
+Formação contínua e complementar
+
+Artigo 24.º
+
+Formação contínua
 
 1 - A formação contínua destina-se a assegurar a actualização, o aperfeiçoamento, a reconversão e o apoio à actividade profissional do pessoal docente, visando ainda objectivos de progressão na carreira.
 
@@ -1457,7 +1810,9 @@ A formação do pessoal docente desenvolve-se de acordo com os princípios gerai
 
 5 - Sem prejuízo do disposto nos artigos seguintes, a organização, funcionamento e certificação da formação contínua do pessoal docente rege-se pelo disposto nos artigos 220.º a 245.º do presente Estatuto.
 
-###### Artigo 25.º — Realização de acções de formação
+Artigo 25.º
+
+Realização de acções de formação
 
 1 - Sem prejuízo do disposto nos números seguintes, cabe a cada unidade orgânica proceder, isoladamente ou em colaboração com o centro de formação de associação de escolas a que pertença e outras entidades formadoras acreditadas, ao levantamento das necessidades de formação contínua do seu pessoal docente.
 
@@ -1467,7 +1822,9 @@ A formação do pessoal docente desenvolve-se de acordo com os princípios gerai
 
 4 - Com o objectivo de maximizar a oferta aos docentes de alternativas de formação, as unidades orgânicas pertencentes à mesma associação de escolas coordenam as interrupções lectivas.
 
-###### Artigo 26.º — Acesso às acções de formação
+Artigo 26.º
+
+Acesso às acções de formação
 
 1 - Sem prejuízo do disposto no presente Estatuto e nas prioridades fixadas por cada unidade orgânica ou pelo departamento da administração regional autónoma competente em matéria de educação, cabe ao docente a escolha da acção ou das acções mais adequadas às suas necessidades individuais de formação.
 
@@ -1485,7 +1842,9 @@ c) Estar assegurada a substituição do serviço lectivo.
 
 5 - Para efeitos do disposto no número anterior, as ilhas do Faial e do Pico e as ilhas das Flores e do Corvo são consideradas como uma única ilha.
 
-###### Artigo 27.º — Acesso a simpósios, conferências e outras acções
+Artigo 27.º
+
+Acesso a simpósios, conferências e outras acções
 
 1 - Compete ao conselho executivo autorizar a dispensa para a participação de docentes em congressos, conferências, simpósios, cursos, seminários ou outras realizações, conexas ou não com a formação do docente, que se realizem em período que colida com a actividade lectiva do docente, desde que:
 
@@ -1497,7 +1856,9 @@ b) Esteja assegurada a substituição do docente sem recurso a serviço extraord
 
 3 - Quando as acções se realizem fora do território nacional, a deslocação carece de autorização nos termos para tal regulamentados.
 
-###### Artigo 28.º — Pedidos de dispensa de serviço
+Artigo 28.º
+
+Pedidos de dispensa de serviço
 
 1 - Os pedidos de dispensa de serviço para participação em eventos nos termos do n.º 3 do artigo 26.º e do artigo 27.º do presente Estatuto devem ser entregues ao conselho executivo da unidade orgânica com, pelo menos, 10 dias de antecedência em relação à data do início da dispensa pretendida.
 
@@ -1509,7 +1870,9 @@ b) Esteja assegurada a substituição do docente sem recurso a serviço extraord
 
 5 - O não cumprimento pelo interessado dos prazos estabelecidos nos números anteriores implica o indeferimento liminar dos pedidos.
 
-###### Artigo 29.º — Comprovação da participação
+Artigo 29.º
+
+Comprovação da participação
 
 1 - Realizadas as actividades de formação, o docente deve apresentar, junto do órgão que autorizou a dispensa, a declaração de presença emitida pela entidade promotora, a qual é integrada no seu processo individual.
 
@@ -1517,7 +1880,9 @@ b) Esteja assegurada a substituição do docente sem recurso a serviço extraord
 
 3 - A inobservância do disposto no n.º 1 do presente artigo determina que os dias de dispensa de serviço docente concedidos sejam considerados como faltas injustificadas.
 
-###### Artigo 30.º — Participação como formador ou prelector
+Artigo 30.º
+
+Participação como formador ou prelector
 
 1 - A autorização de dispensa de serviço para participação como formador ou prelector em acções de formação é da competência do conselho executivo da unidade orgânica onde o docente presta serviço, estando condicionada ao cumprimento, cumulativo, das seguintes condições:
 
@@ -1529,7 +1894,9 @@ b) Estejam reunidas condições para substituir as aulas a que o docente deva fa
 
 3 - À participação, ainda que como conferencista, prelector ou convidado, em congressos, conferências, simpósios, cursos, seminários ou outras realizações similares, quando não creditadas, aplica-se o disposto no artigo 27.º do presente Estatuto.
 
-###### Artigo 31.º — Relevância dos créditos obtidos na formação contínua
+Artigo 31.º
+
+Relevância dos créditos obtidos na formação contínua
 
 1 - O número de unidades de crédito de formação contínua considerado como requisito mínimo de progressão na carreira é igual ao número de anos que o professor é obrigado a permanecer em cada escalão.
 
@@ -1539,7 +1906,9 @@ b) Estejam reunidas condições para substituir as aulas a que o docente deva fa
 
 4 - Sempre que o número de créditos adquiridos pelo docente num determinado escalão exceda, no equivalente a pelo menos uma unidade de crédito, o necessário para a progressão na carreira ser-lhe-á creditada, na formação realizada no escalão seguinte, uma unidade de crédito adicional.
 
-###### Artigo 32.º — Formação para funções específicas
+Artigo 32.º
+
+Formação para funções específicas
 
 1 - As acções de formação em que os docentes devam participar por força do exercício das funções de orientador de estágio na profissionalização em serviço ou nas licenciaturas em ensino e programas similares não relevam para os limites estabelecidos no presente Estatuto.
 
@@ -1547,7 +1916,9 @@ b) Estejam reunidas condições para substituir as aulas a que o docente deva fa
 
 3 - As referidas acções são tanto quanto possível organizadas durante os períodos de interrupção lectiva, minimizando a interferência com a actividade lectiva dos docentes, devendo, em todo o caso, ser garantida a substituição do docente, de forma a não acarretar prejuízo para os alunos.
 
-###### Artigo 33.º — Apoio para formação complementar
+Artigo 33.º
+
+Apoio para formação complementar
 
 1 - Sem prejuízo do disposto no número seguinte, podem beneficiar do pagamento das propinas devidas a instituições do ensino superior público pela frequência de cursos relevantes para a respectiva carreira os docentes que satisfaçam, cumulativamente, as seguintes condições:
 
@@ -1565,7 +1936,9 @@ b) Confiram pelo menos o grau de licenciado, ou situação equiparada, e habilit
 
 4 - Os docentes que pretendam beneficiar do disposto no presente artigo devem solicitar à direcção regional competente em matéria de administração educativa, antes de terminado o prazo de matrícula no curso a que se reporta a propina, uma credencial confirmando a elegibilidade.
 
-###### Artigo 34.º — Desistência dos cursos
+Artigo 34.º
+
+Desistência dos cursos
 
 1 - Os docentes beneficiários do apoio complementar a que se refere o artigo anterior que pretendam desistir dos cursos devem participar tal decisão ao director regional competente em matéria de administração educativa.
 
@@ -1573,9 +1946,13 @@ b) Confiram pelo menos o grau de licenciado, ou situação equiparada, e habilit
 
 3 - O formando que desista de um curso fica impossibilitado de se candidatar a novo apoio.
 
-### CAPÍTULO IV — Recrutamento e selecção do pessoal docente
+CAPÍTULO IV
 
-###### Artigo 35.º — Princípios gerais
+Recrutamento e selecção do pessoal docente
+
+Artigo 35.º
+
+Princípios gerais
 
 1 - O concurso é o processo obrigatório de recrutamento e selecção de pessoal docente para nomeação em lugar do quadro e para afectação e contratação.
 
@@ -1591,7 +1968,9 @@ a) N é o quociente, arredondado por excesso à milésima mais próxima, da divi
 
 b) n é o quociente, arredondado por excesso à milésima mais próxima, da divisão por 365 do número de dias de serviço docente oficial ou equiparado, prestado com a menção qualitativa mínima de Regular, anteriormente à obtenção de qualificação profissional para a docência e até ao termo do ano escolar imediatamente anterior à data de cálculo.
 
-###### Artigo 36.º — Natureza do concurso
+Artigo 36.º
+
+Natureza do concurso
 
 1 - O concurso de pessoal docente reveste a natureza de:
 
@@ -1607,13 +1986,17 @@ d) Contratação.
 
 3 - O disposto no número anterior é aplicável ao recrutamento e à selecção do pessoal docente para a educação extra-escolar, quando esta funcione na dependência directa das unidades orgânicas do sistema educativo regional.
 
-###### Artigo 37.º — Concursos de provimento e de afectação
+Artigo 37.º
+
+Concursos de provimento e de afectação
 
 1 - Os concursos interno e externo de provimento visam o preenchimento de lugares em quadros de escola.
 
 2 - O concurso interno de afectação visa a colocação, por um ano escolar, de docentes dos quadros de escola em estabelecimento de educação ou ensino pertencente a uma unidade orgânica diferente daquela em que o docente está provido.
 
-###### Artigo 38.º — Concursos interno e externo
+Artigo 38.º
+
+Concursos interno e externo
 
 1 - O concurso interno de provimento é aberto a pessoal docente pertencente aos quadros dependentes de qualquer das administrações educativas nacionais.
 
@@ -1625,7 +2008,9 @@ d) Contratação.
 
 5 - Os opositores ao concurso interno, externo e a oferta de emprego podem concorrer simultaneamente a todos os grupos de recrutamento para os quais possuam habilitação para a docência.
 
-###### Artigo 39.º — Requisitos gerais e específicos
+Artigo 39.º
+
+Requisitos gerais e específicos
 
 1 - São requisitos gerais de admissão ao concurso:
 
@@ -1653,7 +2038,9 @@ e) Possuir a robustez física, o perfil psíquico e as características de perso
 
 8 - Estão dispensados da realização da prova a que se referem os números anteriores os candidatos que comprovem ter pelo menos cinco anos de serviço prestado em estabelecimento de educação ou ensino, de qualquer grau ou nível, da rede pública portuguesa.
 
-###### Artigo 40.º — Docentes de Educação Moral e Religiosa
+Artigo 40.º
+
+Docentes de Educação Moral e Religiosa
 
 1 - Aos docentes das disciplinas de Educação Moral e Religiosa de qualquer confissão legalmente reconhecida, para além dos requisitos atrás fixados, é exigida a apresentação de uma declaração de admissibilidade, passada pela entidade religiosa que para tal tiver competência nos Açores.
 
@@ -1665,7 +2052,9 @@ a) Tratando-se de docente contratado ou de nomeação provisória, o respectivo 
 
 b) Tratando-se de docente de nomeação definitiva nos quadros do sistema educativo regional, o docente é reconvertido para a leccionação de outra disciplina ou área disciplinar para a qual tenha habilitação profissional ou, não tendo habilitação para outra disciplina, é sujeito a processo de reconversão ou reclassificação profissional, nos termos dos artigos 133.º e seguintes do presente Estatuto.
 
-###### Artigo 41.º — Verificação dos requisitos físicos e psíquicos
+Artigo 41.º
+
+Verificação dos requisitos físicos e psíquicos
 
 1 - A verificação dos requisitos físicos e psíquicos necessários ao exercício da função docente, da inexistência de alcoolismo e de dependência de drogas ilícitas, nos termos do artigo 39.º, é realizada por médicos credenciados pela direcção regional competente em matéria de administração educativa ou, na ausência destes, pela autoridade sanitária competente em função do local de residência.
 
@@ -1673,15 +2062,21 @@ b) Tratando-se de docente de nomeação definitiva nos quadros do sistema educat
 
 3 - A decisão proferida ao abrigo do disposto no número anterior é susceptível de recurso, sem efeito suspensivo, para a junta médica da direcção regional competente em matéria de administração educativa, no prazo de 10 dias úteis, suportando o recorrente os correspondentes encargos, nos termos gerais de direito.
 
-### CAPÍTULO V — Quadros
+CAPÍTULO V
 
-###### Artigo 42.º — Quadros de pessoal docente
+Quadros
+
+Artigo 42.º
+
+Quadros de pessoal docente
 
 1 - Sem prejuízo do disposto no número seguinte, os quadros de pessoal docente do sistema educativo regional estruturam-se em quadros de unidade orgânica do sistema educativo regional, adiante designados por quadros de escola.
 
 2 - Exclusivamente para o ensino da disciplina de Educação Moral e Religiosa Católica existe um quadro de âmbito regional, cabendo ao bispo de Angra a distribuição dos docentes pelas escolas, em função das necessidades que lhe sejam comunicadas pela direcção regional competente em matéria de administração educativa.
 
-###### Artigo 43.º — Quadros de escola
+Artigo 43.º
+
+Quadros de escola
 
 1 - Os quadros de escola destinam-se a satisfazer as necessidades permanentes dos estabelecimentos de educação ou de ensino integrados em cada unidade orgânica do sistema educativo.
 
@@ -1689,7 +2084,9 @@ b) Tratando-se de docente de nomeação definitiva nos quadros do sistema educat
 
 3 - Quando da portaria a que se refere o número anterior resulte um aumento global do número de lugares dos quadros no sistema educativo regional, a portaria é emitida conjuntamente pelos membros do Governo Regional competentes em matéria de finanças e de educação.
 
-###### Artigo 44.º — Ajustamento dos quadros
+Artigo 44.º
+
+Ajustamento dos quadros
 
 1 - A revisão dos quadros de pessoal docente subordina-se aos seguintes princípios orientadores:
 
@@ -1703,9 +2100,13 @@ d) Na dotação dos quadros para o ensino artístico ter-se-á em conta o númer
 
 2 - O recurso sistemático a docentes contratados por períodos superiores a três anos constitui indicador de necessidade de proceder à revisão prevista no número anterior.
 
-### CAPÍTULO VI — Vinculação
+CAPÍTULO VI
 
-###### Artigo 45.º — Formas de vinculação
+Vinculação
+
+Artigo 45.º
+
+Formas de vinculação
 
 1 - A relação jurídica de emprego do pessoal docente reveste, em geral, a forma de nomeação.
 
@@ -1713,7 +2114,9 @@ d) Na dotação dos quadros para o ensino artístico ter-se-á em conta o númer
 
 3 - A vinculação do pessoal docente pode ainda revestir a forma de contrato de trabalho na modalidade prevista no artigo 50.º do presente Estatuto.
 
-###### Artigo 46.º — Nomeação provisória
+Artigo 46.º
+
+Nomeação provisória
 
 1 - O primeiro provimento em lugar dos quadros faz-se sempre por nomeação provisória.
 
@@ -1725,7 +2128,9 @@ b) Esteja profissionalizado para a docência nos termos legalmente fixados.
 
 3 - O período probatório do docente que haja anteriormente exercido funções docentes em regime de contrato no mesmo nível de ensino e grupo de recrutamento, por tempo correspondente a, pelo menos, um ano escolar, ou em qualquer nível de ensino e grupo de recrutamento durante, pelo menos, três anos escolares, com horário completo e menção qualitativa igual ou superior a Bom, considera-se suprido para efeitos de conversão da nomeação provisória em nomeação definitiva.
 
-###### Artigo 47.º — Período probatório
+Artigo 47.º
+
+Período probatório
 
 1 - O período probatório destina-se a verificar a adequação do docente ao perfil de desempenho profissional exigível, tem a duração de um ano escolar e é cumprido no estabelecimento de educação ou de ensino onde aquele exerce a sua actividade docente.
 
@@ -1743,7 +2148,9 @@ b) Esteja profissionalizado para a docência nos termos legalmente fixados.
 
 8 - A componente não lectiva de estabelecimento do docente em período probatório fica adstrita, quando necessário, à frequência de acções de formação, assistência a aulas de outros docentes ou à realização de trabalhos de grupo que forem indicados pelo professor orientador do período probatório.
 
-###### Artigo 48.º — Interrupção do período probatório
+Artigo 48.º
+
+Interrupção do período probatório
 
 1 - O período probatório do docente que se encontre em situação de licença por maternidade ou paternidade, faltas resultantes de acidente em serviço ou doença profissional, ou por isolamento profiláctico, é suspenso enquanto durar o impedimento, sem prejuízo da manutenção dos direitos e regalias inerentes à continuidade do vínculo laboral.
 
@@ -1751,7 +2158,9 @@ b) Esteja profissionalizado para a docência nos termos legalmente fixados.
 
 3 - Sem prejuízo da leccionação de um mínimo de 90 dias de aulas, o período probatório termina com a atribuição da primeira avaliação de desempenho, feita nos termos do presente Estatuto, sendo o docente nomeado definitivamente no dia 1 de Setembro imediato.
 
-###### Artigo 49.º — Professor orientador do período probatório
+Artigo 49.º
+
+Professor orientador do período probatório
 
 1 - Durante o período probatório, o docente é acompanhado e apoiado, nos planos pedagógico e científico, por um professor do quadro de nomeação definitiva da respectiva unidade orgânica, preferencialmente do grupo de recrutamento ou área disciplinar respectiva ou afim, e com avaliação de desempenho igual ou superior a Bom no ano imediatamente anterior, a designar pelo presidente do conselho executivo.
 
@@ -1767,7 +2176,9 @@ d) Elaborar relatório circunstanciado da actividade desenvolvida e participar n
 
 3 - O professor orientador do período probatório tem direito a perceber uma gratificação mensal equivalente a 15 % do índice 100 da escala indiciária da carreira docente, a abonar em cada mês de efectiva orientação.
 
-###### Artigo 50.º — Contrato a termo resolutivo
+Artigo 50.º
+
+Contrato a termo resolutivo
 
 1 - É assegurado em regime de contrato de trabalho a termo resolutivo:
 
@@ -1783,7 +2194,9 @@ b) O exercício transitório de funções docentes com vista à satisfação de 
 
 5 - Em situações excepcionais, e depois de esgotados todos os candidatos detentores de habilitação para a docência e cumprido o disposto no artigo seguinte, podem ser contratados neste regime candidatos possuidores de curso de licenciatura em área científica relevante para a disciplina ou área disciplinar a ministrar, que não sejam detentores das qualificações pedagógicas requeridas para a docência.
 
-###### Artigo 51.º — Necessidades remanescentes
+Artigo 51.º
+
+Necessidades remanescentes
 
 1 - Depois de esgotados os candidatos opositores ao recrutamento para contratação centralizada, as unidades orgânicas podem contratar a termo resolutivo indivíduos que cumpram os requisitos gerais para a docência fixados pelo presente Estatuto e sejam titulares de curso que confira formação científica adequada, mesmo que sem habilitação legal para o grupo a que se candidatam.
 
@@ -1813,9 +2226,13 @@ d) Idade.
 
 7 - Aos contratados nos termos do presente artigo, colocados em regime de substituição temporária ou horário incompleto, que denunciem o contrato para aceitarem colocação no âmbito da sua habilitação, em horário completo ou mais favorável ou que ocorra até final do ano escolar não é aplicada a penalidade por desistência do lugar previsto no Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário.
 
-### CAPÍTULO VII — Natureza e estrutura da carreira docente
+CAPÍTULO VII
 
-###### Artigo 52.º — Natureza e estrutura da carreira docente
+Natureza e estrutura da carreira docente
+
+Artigo 52.º
+
+Natureza e estrutura da carreira docente
 
 1 - O pessoal docente da educação pré-escolar e dos ensinos básico e secundário constitui, nos termos da lei geral, um corpo especial, que enquadra o conjunto de profissionais detentores de qualificação profissional para o desempenho de funções de educação ou de ensino com carácter permanente, sequencial e sistemático.
 
@@ -1823,7 +2240,9 @@ d) Idade.
 
 3 - A carreira desenvolve-se por escalões a que correspondem índices remuneratórios diferenciados.
 
-###### Artigo 53.º — Perfil geral de desempenho
+Artigo 53.º
+
+Perfil geral de desempenho
 
 1 - O perfil geral de desempenho do educador de infância e dos professores dos ensinos básico e secundário enuncia referenciais comuns à actividade dos docentes de todos os níveis de ensino, evidenciando exigências para a organização dos projectos da respectiva formação e para o reconhecimento de habilitações profissionais docentes.
 
@@ -1831,7 +2250,9 @@ d) Idade.
 
 3 - Para efeitos de avaliação do desempenho, são ainda relevantes os perfis específicos de desempenho profissional que estejam aprovados para os docentes de cada nível de docência e cada grupo disciplinar, os direitos e deveres estabelecidos no presente Estatuto e o cumprimento do regulamento interno e demais normativos legais e dos regulamentos fixados na unidade orgânica onde o docente presta serviço.
 
-###### Artigo 54.º — Dimensões funcionais do perfil geral de desempenho
+Artigo 54.º
+
+Dimensões funcionais do perfil geral de desempenho
 
 O perfil geral de desempenho do educador de infância e dos professores dos ensinos básico e secundário desenvolve-se nas seguintes dimensões de desempenho profissional:
 
@@ -1843,7 +2264,9 @@ c) Participação na vida da escola e na relação com a comunidade;
 
 d) Desenvolvimento profissional ao longo da vida.
 
-###### Artigo 55.º — Dimensão social e ética da acção docente
+Artigo 55.º
+
+Dimensão social e ética da acção docente
 
 1 - O docente promove aprendizagens curriculares, fundamentando a sua prática profissional num saber específico resultante da produção e uso de diversos saberes integrados em função das acções concretas da mesma prática, social e eticamente situada.
 
@@ -1863,7 +2286,9 @@ f) Manifesta capacidade relacional e de comunicação, bem como equilíbrio emoc
 
 g) Assume a dimensão cívica e formativa das suas funções, com as inerentes exigências éticas e deontológicas que lhe estão associadas.
 
-###### Artigo 56.º — Dimensão de desenvolvimento do ensino e da aprendizagem
+Artigo 56.º
+
+Dimensão de desenvolvimento do ensino e da aprendizagem
 
 1 - O docente promove aprendizagens no âmbito de um currículo, no quadro de uma relação pedagógica de qualidade, integrando, com critérios de rigor científico e metodológico, conhecimentos das áreas que o fundamentam.
 
@@ -1889,7 +2314,9 @@ i) Incentiva a construção participada de regras de convivência democrática e
 
 j) Utiliza a avaliação, nas suas diferentes modalidades e áreas de aplicação, como elemento regulador e promotor da qualidade do ensino, da aprendizagem e da sua própria formação.
 
-###### Artigo 57.º — Dimensão de participação na escola e de relação com a comunidade
+Artigo 57.º
+
+Dimensão de participação na escola e de relação com a comunidade
 
 1 - O docente exerce a sua actividade profissional de uma forma integrada, no âmbito das diferentes dimensões da escola como instituição educativa e no contexto da comunidade em que esta se insere.
 
@@ -1909,7 +2336,9 @@ f) Valoriza a escola enquanto pólo de desenvolvimento social e cultural, cooper
 
 g) Coopera na elaboração e realização de estudos e de projectos de intervenção integrados na escola e no seu contexto.
 
-###### Artigo 58.º — Dimensão de desenvolvimento profissional ao longo da vida
+Artigo 58.º
+
+Dimensão de desenvolvimento profissional ao longo da vida
 
 1 - O docente incorpora a sua formação como elemento constitutivo da prática profissional, construindo-a a partir das necessidades e realizações que consciencializa, mediante a análise problematizada da sua prática pedagógica, a reflexão fundamentada sobre a construção da profissão e o recurso à investigação, em cooperação com outros profissionais.
 
@@ -1925,7 +2354,9 @@ d) Desenvolve competências pessoais, sociais e profissionais, numa perspectiva 
 
 e) Participa em projectos de investigação relacionados com o ensino, a aprendizagem e o desenvolvimento dos alunos.
 
-###### Artigo 59.º — Conteúdo funcional
+Artigo 59.º
+
+Conteúdo funcional
 
 1 - As funções do pessoal docente são exercidas com responsabilidade profissional e autonomia técnica e científica, sem prejuízo do número seguinte.
 
@@ -2001,7 +2432,9 @@ h) Participação no processo de avaliação do desempenho do pessoal docente e 
 
 i) Participação nos processos de auto-avaliação e hetero-avaliação das unidades orgânicas e do sistema educativo regional.
 
-###### Artigo 60.º — Funções específicas dos professores de apoio educativo
+Artigo 60.º
+
+Funções específicas dos professores de apoio educativo
 
 1 - Para além das funções genéricas constantes do artigo anterior, compete especificamente aos professores de apoio educativo, designadamente:
 
@@ -2019,7 +2452,9 @@ e) Executar as demais tarefas de natureza técnico-pedagógica de que sejam incu
 
 3 - No exercício das suas funções, os professores de apoio educativo podem, por decisão do conselho executivo da unidade orgânica, ser deslocados, a todo o tempo, para qualquer dos estabelecimentos de educação e ensino nela integrados.
 
-###### Artigo 61.º — Ingresso
+Artigo 61.º
+
+Ingresso
 
 1 - O ingresso na carreira docente faz-se mediante concurso destinado ao provimento de lugar do quadro, de entre candidatos que satisfaçam os requisitos de admissão fixados nos termos dos artigos 39.º e 40.º do presente Estatuto.
 
@@ -2029,7 +2464,9 @@ e) Executar as demais tarefas de natureza técnico-pedagógica de que sejam incu
 
 4 - O disposto no número anterior é também aplicável aos docentes que satisfaçam os requisitos fixados no artigo 248.º do presente Estatuto.
 
-###### Artigo 62.º — Progressão
+Artigo 62.º
+
+Progressão
 
 1 - A progressão na carreira docente consiste na mudança de escalão.
 
@@ -2049,7 +2486,9 @@ c) Escalões 6.º e 7.º - seis anos.
 
 6 - Até ao fim do mês de Setembro de cada ano é afixada, nos serviços administrativos de cada unidade orgânica do sistema educativo regional, a listagem dos docentes que no ano escolar anterior mudaram de escalão.
 
-###### Artigo 63.º — Exercício de funções não docentes
+Artigo 63.º
+
+Exercício de funções não docentes
 
 1 - Não são considerados na contagem do tempo de serviço docente efectivo, para efeitos de progressão na carreira docente e de posicionamento em concurso, os períodos referentes a requisição, destacamento e comissão de serviço para o exercício de funções não docentes, desde que não revistam natureza técnico-pedagógica.
 
@@ -2065,7 +2504,9 @@ c) Escalões 6.º e 7.º - seis anos.
 
 7 - O disposto nos números anteriores não prejudica a aplicação de legislação própria que salvaguarde o direito de progressão na carreira de origem pelo exercício de determinados cargos ou funções.
 
-###### Artigo 64.º — Licenças e perda de antiguidade
+Artigo 64.º
+
+Licenças e perda de antiguidade
 
 Não são considerados na contagem de tempo de serviço docente efectivo, para efeitos de progressão na carreira docente, os períodos referentes a:
 
@@ -2079,15 +2520,21 @@ d) Licença sem vencimento de longa duração;
 
 e) Perda de antiguidade.
 
-###### Artigo 65.º — Intercomunicabilidade com carreiras do regime geral
+Artigo 65.º
+
+Intercomunicabilidade com carreiras do regime geral
 
 1 - Os docentes detentores do grau de bacharel ou do grau de licenciado podem ser opositores ao concurso para lugares de categorias de acesso, respectivamente da carreira técnica e da carreira técnica superior, nos termos da lei geral.
 
 2 - Para efeitos do disposto no número anterior, podem ser criados lugares das carreiras técnica e técnica superior de educação nos quadros não docentes das unidades orgânicas do sistema educativo.
 
-### CAPÍTULO VIII — Avaliação do desempenho
+CAPÍTULO VIII
 
-###### Artigo 66.º — Caracterização e objectivos
+Avaliação do desempenho
+
+Artigo 66.º
+
+Caracterização e objectivos
 
 1 - A avaliação do desempenho do pessoal docente desenvolve-se de acordo com os princípios consagrados no artigo 39.º da Lei de Bases do Sistema Educativo, incidindo sobre a actividade desenvolvida, individualmente ou em grupo, na instituição educativa, no plano da educação e do ensino e da prestação de outros serviços à comunidade e tendo em conta as qualificações profissionais, pedagógicas e científicas do docente.
 
@@ -2113,7 +2560,9 @@ h) Promover a excelência e a qualidade dos serviços prestados à comunidade.
 
 4 - Os docentes que exerçam cargos ou funções que não envolvam a prestação efectiva de serviço lectivo, e cujo enquadramento normativo ou estatuto salvaguarde o direito de progressão na carreira de origem, são dispensados da avaliação de desempenho a que se refere o presente Estatuto, considerando-se avaliados com a menção qualitativa mínima que for exigida para efeitos de progressão na carreira docente, relativamente ao período de exercício naqueles cargos ou funções.
 
-###### Artigo 67.º — Relevância
+Artigo 67.º
+
+Relevância
 
 A avaliação do desempenho é obrigatoriamente considerada para efeitos de:
 
@@ -2123,7 +2572,9 @@ b) Concessão de prémios de desempenho por mérito excepcional;
 
 c) Conversão da nomeação provisória em nomeação definitiva no termo do período probatório.
 
-###### Artigo 68.º — Âmbito e periodicidade
+Artigo 68.º
+
+Âmbito e periodicidade
 
 1 - A avaliação concretiza-se através da aferição dos padrões de qualidade do desempenho profissional e das condições de desenvolvimento das competências, nas seguintes dimensões:
 
@@ -2155,7 +2606,9 @@ c) Escalões 6.º, 7.º e 8.º - em cada triénio.
 
 8 - Para efeitos de progressão na carreira é considerada a avaliação do desempenho relativa ao período de duração do escalão, até 31 de Agosto do ano escolar anterior àquele em que o docente complete o tempo de serviço necessário a tal progressão na carreira.
 
-###### Artigo 69.º — Intervenientes no processo de avaliação
+Artigo 69.º
+
+Intervenientes no processo de avaliação
 
 1 - Intervêm no processo de avaliação do desempenho:
 
@@ -2193,7 +2646,9 @@ b) Coordenar e controlar o processo de avaliação de acordo com os princípios 
 
 11 - Na designação dos docentes a quem sejam delegadas as funções de avaliador deve ser dada preferência a quem detenha formação em supervisão pedagógica, formação especializada em avaliação do desempenho ou currículo relevante na formação inicial de professores.
 
-###### Artigo 70.º — Comissão coordenadora da avaliação
+Artigo 70.º
+
+Comissão coordenadora da avaliação
 
 1 - Em cada unidade orgânica do sistema educativo funciona uma comissão coordenadora da avaliação composta por um presidente e quatro vogais, eleitos, nos termos do número seguinte, entre os docentes com nomeação definitiva no quadro da unidade orgânica com, pelo menos, cinco anos de serviço.
 
@@ -2217,7 +2672,9 @@ d) Atribuir a classificação final de desempenho.
 
 7 - A comissão delibera por maioria e sempre na presença de todos os seus membros.
 
-###### Artigo 71.º — Processo de avaliação
+Artigo 71.º
+
+Processo de avaliação
 
 1 - Sem prejuízo da calendarização específica que deva ser adoptada nos processos de avaliação dos docentes do quadro que cessem funções no final do ano escolar, ou que reúnam os requisitos de tempo de serviço docente para progressão na carreira e dos docentes contratados, aos quais deve ser dada prioridade, o processo de avaliação do desempenho compreende as seguintes fases sequenciais:
 
@@ -2245,7 +2702,9 @@ g) O presidente do conselho executivo procede à homologação da classificaçã
 
 6 - O processo de avaliação do desempenho deve estar concluído, no que se refere ao segundo período avaliativo, no mês em que o docente complete o tempo de serviço necessário à progressão na carreira, sendo esse o mês de referência para a conclusão do processo de avaliação relativo ao primeiro período avaliativo.
 
-###### Artigo 72.º — Itens de classificação
+Artigo 72.º
+
+Itens de classificação
 
 1 - A avaliação efectuada pelo coordenador do departamento curricular pondera o envolvimento e a qualidade científico-pedagógica do docente, com base na apreciação dos seguintes parâmetros classificativos:
 
@@ -2315,7 +2774,9 @@ f) Planificação das aulas e outros instrumentos de avaliação utilizados com 
 
 12 - Nas situações em que o número dos docentes a avaliar por período de avaliação seja, num determinado departamento, igual ou superior a 20, ou quando nenhum dos avaliadores pertença ao grupo de recrutamento do avaliado, deve o coordenador, ouvido o conselho executivo, relativamente aos docentes que considere necessário, delegar as suas funções de avaliador num docente do quadro de nomeação definitiva da unidade orgânica, aplicando-se-lhe o disposto nos n.os 9 e 10 do artigo 69.º
 
-###### Artigo 73.º — Formulário de avaliação
+Artigo 73.º
+
+Formulário de avaliação
 
 1 - O processo de avaliação implica a utilização de formulário de avaliação normalizado, no qual se incluirá a definição de cada um dos factores que integram as componentes de competências e atitudes pessoais do docente, bem como a descrição do comportamento profissional que lhes corresponde.
 
@@ -2323,19 +2784,25 @@ f) Planificação das aulas e outros instrumentos de avaliação utilizados com 
 
 3 - O formulário de avaliação preenchido com a auto-avaliação do docente é parte integrante do relatório de auto-avaliação a que se refere o artigo seguinte.
 
-###### Artigo 74.º — Relatório de auto-avaliação
+Artigo 74.º
+
+Relatório de auto-avaliação
 
 1 - O relatório de auto-avaliação deve versar as evidências que possam concorrer para melhor esclarecimento dos critérios constantes dos n.os 1 e 2 do artigo anterior.
 
 2 - O relatório de auto-avaliação pode ser acompanhado dos documentos probatórios e de coadjuvação da análise que o docente considere relevantes.
 
-###### Artigo 75.º — Formação contínua
+Artigo 75.º
+
+Formação contínua
 
 1 - No processo de avaliação é ainda considerada a frequência de acções de formação contínua que incidam sobre conteúdos de natureza científica ou didáctica com estreita ligação à matéria curricular que lecciona, bem como as relacionadas com as necessidades de funcionamento da escola definidas no respectivo projecto educativo ou plano de actividades.
 
 2 - As acções de formação realizadas em contexto de sala de aula e aquelas que visem o aprofundamento da componente científica dos conteúdos a ministrar na área científica que o docente lecciona devem ser particularmente valorizadas.
 
-###### Artigo 76.º — Sistema de classificação
+Artigo 76.º
+
+Sistema de classificação
 
 1 - O resultado final da avaliação do docente corresponde ao somatório das pontuações obtidas em cada um dos itens de avaliação, normalizado para uma escala de avaliação de 0 a 10, arredondada por excesso à décima mais próxima, e comporta as seguintes menções qualitativas:
 
@@ -2363,7 +2830,9 @@ b) O docente tenha problemas persistentes e injustificados na manutenção da di
 
 c) Tenha sido provado que o comportamento ético e profissional do docente é incompatível com o perfil traçado no presente Estatuto.
 
-###### Artigo 77.º — Reclamação e recurso
+Artigo 77.º
+
+Reclamação e recurso
 
 1 - Homologada a avaliação, esta é imediatamente dada a conhecer ao avaliado, através da assinatura presencial do documento de avaliação ou, caso o docente não se encontre na escola e não seja viável o seu contacto, através do envio por correio registado com aviso de recepção de cópia da grelha de avaliação correspondente e da menção qualitativa atribuída.
 
@@ -2373,7 +2842,9 @@ c) Tenha sido provado que o comportamento ético e profissional do docente é in
 
 4 - O recurso não pode fundamentar-se na comparação entre resultados de avaliações, do próprio ou de outros.
 
-###### Artigo 78.º — Efeitos da avaliação
+Artigo 78.º
+
+Efeitos da avaliação
 
 1 - A atribuição da menção qualitativa de Excelente durante dois períodos consecutivos de avaliação do desempenho permite a redução de dois anos no tempo de serviço docente exigido para efeitos de progressão para o escalão seguinte da carreira.
 
@@ -2395,7 +2866,9 @@ b) Fundamento para a não renovação do contrato de trabalho.
 
 8 - A atribuição ao docente provido em lugar do quadro de duas menções qualitativas consecutivas ou de três interpoladas de Insuficiente determina a cessação de distribuição de serviço lectivo e a transição, no 1.º dia do ano escolar imediato, do mesmo para a carreira técnica ou técnica superior, nos termos da lei geral, em lugar a aditar automaticamente ao quadro regional de ilha e a extinguir quando vagar.
 
-###### Artigo 79.º — Garantias do processo de avaliação
+Artigo 79.º
+
+Garantias do processo de avaliação
 
 1 - O processo de avaliação tem carácter confidencial, ficando todos os intervenientes no processo obrigados ao dever de sigilo.
 
@@ -2405,9 +2878,13 @@ b) Fundamento para a não renovação do contrato de trabalho.
 
 4 - Nos casos em que, no âmbito do processo de avaliação intercalar, seja atribuída menção igual ou superior a Bom considera-se suprida, para efeitos de progressão na carreira, a avaliação anteriormente obtida.
 
-### CAPÍTULO IX — Aquisição de outras habilitações e capacitações
+CAPÍTULO IX
 
-###### Artigo 80.º — Aquisição de outras habilitações por docentes profissionalizados
+Aquisição de outras habilitações e capacitações
+
+Artigo 80.º
+
+Aquisição de outras habilitações por docentes profissionalizados
 
 1 - A aquisição por docentes profissionalizados com licenciatura cuja duração curricular tenha sido igual ou superior a quatro anos lectivos, integrados na carreira, do grau de mestre em Ciências da Educação ou em domínio directamente relacionado com o respectivo grupo de docência determina, para efeitos de progressão na carreira, a bonificação de dois anos no tempo de serviço do docente com avaliação de desempenho de Bom, sem prejuízo da permanência mínima de um ano de serviço completo no escalão seguinte àquele em que se encontra.
 
@@ -2439,7 +2916,9 @@ f) Cópia da dissertação;
 
 g) Outros elementos que permitam a caracterização do grau e a determinação do seu enquadramento científico.
 
-###### Artigo 81.º — Progressão por aquisição de outras habilitações
+Artigo 81.º
+
+Progressão por aquisição de outras habilitações
 
 1 - A aquisição de licenciatura em domínio directamente relacionado com a docência por docentes profissionalizados integrados na carreira, determina a mudança para escalão correspondente àquele em que o docente se encontraria se tivesse ingressado na carreira com esse grau, no qual o docente cumprirá no mínimo um ano de serviço completo com a menção qualitativa mínima de Bom.
 
@@ -2449,7 +2928,9 @@ g) Outros elementos que permitam a caracterização do grau e a determinação d
 
 4 - A bonificação referida no n.º 2 determina a permanência mínima de um ano de serviço completo no escalão em que o docente for posicionado, sendo deduzida das bonificações previstas no artigo anterior quanto à aquisição de mestrados ou doutoramentos por docentes dos quadros de nomeação definitiva detentores de licenciatura.
 
-###### Artigo 82.º — Qualificação para o exercício de outras funções educativas
+Artigo 82.º
+
+Qualificação para o exercício de outras funções educativas
 
 1 - A qualificação para o exercício de outras funções educativas, nos termos do disposto no artigo 36.º da Lei de Bases do Sistema Educativo, por docentes profissionalizados integrados na carreira adquire-se pela frequência com aproveitamento de cursos de licenciatura, de cursos de estudos superiores especializados e de cursos especializados em escolas superiores, realizados em instituições de formação para o efeito competentes, nas seguintes áreas:
 
@@ -2473,21 +2954,29 @@ h) Comunicação Educacional e Gestão da Informação.
 
 3 - A aquisição de licenciatura ou diploma de estudos superiores especializados em domínio que vise a qualificação para o exercício de outras funções educativas, nos termos do disposto no n.º 1, por docentes profissionalizados integrados na carreira determina a mudança para o escalão correspondente àquele em que o docente se encontraria se tivesse ingressado na carreira com o grau de licenciado, no qual o docente cumprirá o mínimo de um ano de serviço completo.
 
-###### Artigo 83.º — Exercício de outras funções educativas
+Artigo 83.º
+
+Exercício de outras funções educativas
 
 1 - O docente que se encontre qualificado para o exercício de outras funções educativas, nos termos do artigo anterior, é obrigado ao desempenho efectivo destas mesmas funções quando para tal tenha sido eleito ou designado, salvo nos casos em que, por despacho do director regional competente em matéria de administração educativa, sejam reconhecidos motivos atendíveis e fundamentados que o incapacitem para aquele exercício.
 
 2 - Ao docente qualificado para o exercício de outras funções educativas obtidas, beneficiando de qualquer tipo de apoio público, que recuse, nos termos do artigo anterior, o desempenho efectivo das mesmas funções é atribuída, no primeiro momento de avaliação de desempenho subsequente à recusa, a menção qualitativa de Regular, nos termos e para os efeitos do disposto nos artigos 66.º e seguintes do presente Estatuto.
 
-###### Artigo 84.º — Concessão da bonificação
+Artigo 84.º
+
+Concessão da bonificação
 
 1 - A atribuição das bonificações previstas nos artigos anteriores depende de requerimento dos interessados dirigido ao director regional competente em matéria de administração educativa, acompanhado de documento comprovativo da conclusão do curso ou grau.
 
 2 - As bonificações produzem efeitos no 1.º dia útil do mês seguinte ao da apresentação do requerimento referido no número anterior.
 
-### CAPÍTULO X — Regime remuneratório
+CAPÍTULO X
 
-###### Artigo 85.º — Índices remuneratórios
+Regime remuneratório
+
+Artigo 85.º
+
+Índices remuneratórios
 
 1 - A carreira docente é remunerada de acordo com as escalas indiciárias constantes do anexo i do presente Estatuto, do qual faz parte integrante.
 
@@ -2497,7 +2986,9 @@ h) Comunicação Educacional e Gestão da Informação.
 
 4 - O valor a que corresponde o índice 100 das escalas indiciárias e índices referidos nos números anteriores é o que estiver fixado para os docentes directamente dependentes da administração central.
 
-###### Artigo 86.º — Remuneração de outras funções educativas
+Artigo 86.º
+
+Remuneração de outras funções educativas
 
 1 - O exercício efectivo de outras funções educativas para as quais o docente se encontre qualificado determina o abono de remuneração superior à que pelo docente é auferida no escalão da carreira onde se encontra.
 
@@ -2507,7 +2998,9 @@ h) Comunicação Educacional e Gestão da Informação.
 
 4 - Beneficiam ainda de uma gratificação, fixada em 15 % do índice 100 da escala indiciária da carreira dos educadores de infância e dos professores dos ensinos básico e secundário os docentes a quem esteja atribuído serviço de atendimento directo no ensino recorrente mediatizado.
 
-###### Artigo 87.º — Cálculo da remuneração horária
+Artigo 87.º
+
+Cálculo da remuneração horária
 
 1 - A remuneração horária normal é calculada através da fórmula (Rb x 12)/(52 x N), sendo Rb a remuneração mensal fixada para o respectivo escalão e N o número de horas correspondente a trinta e cinco horas semanais.
 
@@ -2515,7 +3008,9 @@ h) Comunicação Educacional e Gestão da Informação.
 
 3 - A remuneração devida aos formadores, portadores de certificado de formadores, para a leccionação das disciplinas das componentes de formação técnica ou profissional é calculada através da fórmula (Rb x 14)/(36 x N), sendo Rb a remuneração base mensal fixada para docente licenciado profissionalizado, 36 as semanas que compõem um ano lectivo e N o horário da componente lectiva do nível ou grau de ensino a ministrar.
 
-###### Artigo 88.º — Remuneração por trabalho extraordinário
+Artigo 88.º
+
+Remuneração por trabalho extraordinário
 
 1 - As horas de serviço docente extraordinário são compensadas por um acréscimo na retribuição do serviço docente lectivo, de acordo com as seguintes percentagens:
 
@@ -2525,7 +3020,9 @@ b) 50 % para as horas subsequentes de trabalho extraordinário diurno.
 
 2 - A retribuição do trabalho nocturno prestado para além da componente lectiva semanal do docente é calculada através da multiplicação do valor da hora extraordinária diurna de serviço docente pelo coeficiente 1,25.
 
-###### Artigo 89.º — Prémios de desempenho
+Artigo 89.º
+
+Prémios de desempenho
 
 1 - O docente do quadro em efectividade de serviço docente tem direito a um prémio pecuniário de desempenho, por cada quatro períodos avaliativos consecutivos de serviço efectivamente prestado com avaliação de desempenho de Excelente, de montante equivalente ao de quatro vezes o valor mensal da retribuição a que tenha direito.
 
@@ -2539,9 +3036,13 @@ b) 50 % para as horas subsequentes de trabalho extraordinário diurno.
 
 6 - Excepto quando o docente tenha optado pela redução prevista nos n.os 1 e 2 do artigo 78.º do presente Estatuto, a concessão do prémio e da progressão extraordinária é promovida oficiosamente pelo conselho executivo da unidade orgânica onde o docente preste serviço nos 30 dias após o termo do período de atribuição da avaliação.
 
-### CAPÍTULO XI — Incentivos à estabilidade
+CAPÍTULO XI
 
-###### Artigo 90.º — Natureza e âmbito de aplicação dos incentivos
+Incentivos à estabilidade
+
+Artigo 90.º
+
+Natureza e âmbito de aplicação dos incentivos
 
 1 - Verificada a existência continuada de carência de pessoal docente devidamente habilitado, por resolução do Conselho do Governo Regional é determinada a aplicação de incentivos à estabilidade.
 
@@ -2559,7 +3060,9 @@ c) Acesso prioritário à formação;
 
 d) Compensação de tempo de serviço.
 
-###### Artigo 91.º — Subsídio de fixação
+Artigo 91.º
+
+Subsídio de fixação
 
 1 - A atribuição do subsídio de fixação faz-se por módulos de três anos, de acordo com o disposto no número seguinte.
 
@@ -2567,7 +3070,9 @@ d) Compensação de tempo de serviço.
 
 3 - Nos anos referentes ao primeiro módulo, o subsídio corresponde a 45 %, sendo de 35 % para o segundo módulo e de 25 % para o terceiro módulo e seguintes.
 
-###### Artigo 92.º — Bonificação de juros bancários
+Artigo 92.º
+
+Bonificação de juros bancários
 
 1 - São concedidas bonificações nos juros bancários em empréstimos para aquisição e ou beneficiação de casa própria, que constitua a residência permanente do docente, quando a mesma se localize na área do território educativo de influência da escola, excepto para as escolas situadas em cidades, para as quais o limite é o concelho.
 
@@ -2581,15 +3086,21 @@ d) Compensação de tempo de serviço.
 
 6 - O disposto no número anterior deve constar do registo do imóvel.
 
-###### Artigo 93.º — Prioridade na formação
+Artigo 93.º
+
+Prioridade na formação
 
 Em caso de igualdade para o acesso à formação, preferem os docentes abrangidos pelo regime de incentivos à estabilidade.
 
-###### Artigo 94.º — Compensação de tempo de serviço
+Artigo 94.º
+
+Compensação de tempo de serviço
 
 Para além do subsídio de fixação, os docentes que durante três anos escolares consecutivos não concorram ao concurso interno, mantendo-se no mesmo quadro de escola, beneficiam de uma bonificação de dois valores, a somar à respectiva graduação profissional, para valer só para a primeira candidatura a esse concurso após o termo do período referido.
 
-###### Artigo 95.º — Cumprimento
+Artigo 95.º
+
+Cumprimento
 
 1 - Para aceder aos incentivos previstos no presente Estatuto, o docente deve declarar no formulário de concurso, em local apropriado, que opta por permanecer na escola onde obtiver colocação durante três anos.
 
@@ -2599,11 +3110,17 @@ Para além do subsídio de fixação, os docentes que durante três anos escolar
 
 4 - A não devolução implica a cobrança coerciva nos termos legalmente estabelecidos para as execuções fiscais.
 
-### CAPÍTULO XII — Mobilidade e distribuição de serviço
+CAPÍTULO XII
 
-#### SECÇÃO I — Mobilidade
+Mobilidade e distribuição de serviço
 
-###### Artigo 96.º — Formas de mobilidade
+SECÇÃO I
+
+Mobilidade
+
+Artigo 96.º
+
+Formas de mobilidade
 
 1 - São instrumentos de mobilidade dos docentes:
 
@@ -2625,13 +3142,17 @@ f) A comissão de serviço.
 
 4 - Por iniciativa da administração educativa pode ocorrer a transferência do docente em lugar vago de outra unidade orgânica do sistema educativo, dentro do perímetro do concelho onde o docente habitualmente presta funções, podendo efectuar-se fora desse concelho desde que haja o consentimento expresso do docente ou não implique uma deslocação com uma distância superior à que pudesse ocorrer no mesmo concelho.
 
-###### Artigo 97.º — Concurso
+Artigo 97.º
+
+Concurso
 
 1 - O concurso visa o preenchimento das vagas existentes nos quadros de escola, constituindo ainda o instrumento de mudança dos docentes de um para outro quadro, entre níveis ou graus de ensino e entre grupos de recrutamento.
 
 2 - O concurso é também a forma de recrutamento e selecção para o exercício transitório de funções docentes em regime de contrato a termo resolutivo, nos termos do artigo 50.º do presente Estatuto.
 
-###### Artigo 98.º — Permuta
+Artigo 98.º
+
+Permuta
 
 1 - A permuta consiste na troca de docentes pertencentes aos mesmos nível e grau de ensino e ao mesmo grupo de docência.
 
@@ -2655,13 +3176,17 @@ c) Ter em qualquer dos últimos três anos escolares beneficiado de dispensa do 
 
 d) Encontrar-se em condições de reunir no prazo previsível de cinco anos as condições legalmente necessárias para aposentação.
 
-###### Artigo 99.º — Limite da permuta
+Artigo 99.º
+
+Limite da permuta
 
 1 - A permuta só pode ser autorizada duas vezes por cada docente dos quadros de nomeação definitiva ao longo do desenvolvimento da respectiva carreira, e desde que entre as duas autorizações medeie o prazo mínimo de quatro anos escolares.
 
 2 - Os docentes cuja permuta for autorizada ficam obrigados a permanecer no lugar para que permutarem pelo período mínimo de quatro anos escolares.
 
-###### Artigo 100.º — Requerimento de permuta
+Artigo 100.º
+
+Requerimento de permuta
 
 1 - O requerimento de permuta deve ser endereçado ao director regional competente em matéria de administração educativa, até 10 dias úteis após a publicação no Jornal Oficial do aviso de publicitação das listas de colocações definitivas resultantes do concurso interno.
 
@@ -2677,17 +3202,23 @@ d) Declaração, sob compromisso de honra, de não se candidatarem a mobilidade 
 
 3 - O despacho sobre o pedido de permuta é proferido pelo director regional competente em matéria de administração educativa até 10 dias úteis após a recepção do pedido.
 
-###### Artigo 101.º — Desistência da permuta
+Artigo 101.º
+
+Desistência da permuta
 
 1 - Até cinco dias úteis após a comunicação do deferimento, pode qualquer dos permutantes comunicar, por declaração endereçada ao director regional competente em matéria de administração educativa, através de remessa postal, contra aviso de recepção, a desistência da permuta.
 
 2 - A desistência de um dos permutantes determina a anulação da permuta.
 
-###### Artigo 102.º — Efeitos da permuta
+Artigo 102.º
+
+Efeitos da permuta
 
 Decorrido o prazo a que alude o número anterior, a permuta considera-se efectiva, sendo os respectivos despachos de nomeação publicados no Jornal Oficial, produzindo efeitos a partir do início do ano escolar subsequente.
 
-###### Artigo 103.º — Deslocação de docentes contratados
+Artigo 103.º
+
+Deslocação de docentes contratados
 
 1 - O disposto nos artigos anteriores aplica-se, com as necessárias adaptações, à deslocação para outra escola de docentes contratados.
 
@@ -2709,7 +3240,9 @@ b) Estarem ambos os interessados colocados em horário completo para todo o ano 
 
 8 - As escolas onde são celebrados os contratos processam as devidas remunerações.
 
-###### Artigo 104.º — Requisição
+Artigo 104.º
+
+Requisição
 
 1 - A requisição de docentes visa assegurar o exercício transitório de funções nos serviços e organismos centrais do departamento da administração regional autónoma competente em matéria de educação.
 
@@ -2737,7 +3270,9 @@ i) O exercício de funções em gabinete de membro do Governo Regional ou situa�
 
 4 - A entidade requisitante deve explicitar no seu pedido a natureza das funções a exercer pelo docente.
 
-###### Artigo 105.º — Destacamento
+Artigo 105.º
+
+Destacamento
 
 O destacamento de docentes é admitido apenas para o exercício:
 
@@ -2745,7 +3280,9 @@ a) De funções docentes na educação extra-escolar, quando na dependência dir
 
 b) De funções docentes no ensino de português no estrangeiro ou no ensino de língua e cultura portuguesas em universidades estrangeiras, quando as mesmas se insiram em projectos de cooperação estabelecidos com o Governo Regional dos Açores.
 
-###### Artigo 106.º — Duração da requisição e do destacamento
+Artigo 106.º
+
+Duração da requisição e do destacamento
 
 1 - Os docentes podem ser requisitados ou destacados por um ano escolar, eventualmente prorrogável por igual período.
 
@@ -2755,11 +3292,15 @@ b) De funções docentes no ensino de português no estrangeiro ou no ensino de 
 
 4 - Os docentes abrangidos pelo disposto no número anterior são nomeados num lugar do quadro de origem, o qual é extinto quando vagar, sendo-lhe aplicável o disposto no artigo 111.º do presente Estatuto.
 
-###### Artigo 107.º — Comissão de serviço
+Artigo 107.º
+
+Comissão de serviço
 
 A comissão de serviço destina-se ao exercício de funções nos conselhos executivos das unidades orgânicas, de cargos dirigentes na Administração Pública ou de outras para as quais a lei exija especificamente aquela forma de provimento.
 
-###### Artigo 108.º — Autorização
+Artigo 108.º
+
+Autorização
 
 1 - A autorização do destacamento, da requisição e da comissão de serviço de docentes é concedida por despacho do director regional competente em matéria de administração educativa, após parecer fundamentado do conselho executivo da unidade orgânica a cujo quadro pertencem.
 
@@ -2771,7 +3312,9 @@ A comissão de serviço destina-se ao exercício de funções nos conselhos exec
 
 5 - O disposto no presente artigo não é aplicável em caso de nomeação para cargo dirigente ou equiparado na Administração Pública, situação que se rege pela lei geral.
 
-###### Artigo 109.º — Transição entre níveis de ensino e grupos de recrutamento
+Artigo 109.º
+
+Transição entre níveis de ensino e grupos de recrutamento
 
 1 - Os docentes podem transitar, por concurso, entre os diversos níveis ou graus de ensino previstos neste Estatuto e entre os grupos de recrutamento.
 
@@ -2781,9 +3324,13 @@ A comissão de serviço destina-se ao exercício de funções nos conselhos exec
 
 4 - A mudança de nível, grau ou grupo de recrutamento não implica por si alterações na carreira, contando-se para todos os efeitos o tempo de serviço nela já prestado ou a ele equiparado.
 
-#### SECÇÃO II — Distribuição de serviço
+SECÇÃO II
 
-###### Artigo 110.º — Distribuição do serviço docente
+Distribuição de serviço
+
+Artigo 110.º
+
+Distribuição do serviço docente
 
 1 - Sem prejuízo do disposto no artigo seguinte, a distribuição de serviço, incluindo a atribuição de turmas, é da competência do conselho executivo da unidade orgânica onde o docente preste serviço, no respeito pelo que sobre esta matéria for estabelecido pelo conselho pedagógico, tendo como princípios orientadores:
 
@@ -2801,7 +3348,9 @@ b) Pessoa que com o docente viva em economia comum, qualquer que seja o grau de 
 
 4 - Nas situações em que a unidade orgânica não disponha da totalidade do pessoal docente necessário para assegurar actividades lectivas normais para todos os seus alunos, a distribuição de serviço terá em conta prioritariamente os alunos do ensino secundário, nomeadamente os dos anos de escolaridade mais avançados.
 
-###### Artigo 111.º — Transição entre estabelecimentos de ensino
+Artigo 111.º
+
+Transição entre estabelecimentos de ensino
 
 1 - Quando a distribuição do serviço docente implique a deslocação do docente para estabelecimento diferente da sede da unidade orgânica, o conselho executivo procede à distribuição do pessoal docente procurando, quando possível, conciliar as necessidades de pessoal de cada estabelecimento com os interesses dos docentes.
 
@@ -2831,7 +3380,9 @@ d) Docente com menos idade.
 
 6 - Os docentes pertencentes aos quadros de escola que sejam distribuídos nos termos do presente artigo mantêm-se no estabelecimento onde lhe foi atribuído serviço até que ocorra nova distribuição, por sua iniciativa ou em resultado de nesse estabelecimento existirem docentes em excesso, situação em que se aplica o regime de distribuição previsto no artigo anterior.
 
-###### Artigo 112.º — Distribuição de serviço de apoio educativo e substituição
+Artigo 112.º
+
+Distribuição de serviço de apoio educativo e substituição
 
 1 - Compete ao conselho executivo, no respeito pelo projecto educativo da escola e pelos princípios que nesta matéria tenham sido aprovados pelo conselho pedagógico, distribuir as tarefas de apoio educativo e substituição pelos docentes, procurando em todos os casos o maior benefício para os alunos e a optimização da gestão dos recursos docentes.
 
@@ -2843,7 +3394,9 @@ d) Docente com menos idade.
 
 5 - A acumulação de funções docentes no 1.º ciclo do ensino básico só pode ser autorizada uma vez esgotado o mecanismo estabelecido nos números anteriores.
 
-###### Artigo 113.º — Apoio a actividades específicas
+Artigo 113.º
+
+Apoio a actividades específicas
 
 1 - Os professores de apoio a actividades específicas integram-se, sem qualquer distinção, no departamento curricular em que se insira a área científico-pedagógica que apoiam.
 
@@ -2865,27 +3418,39 @@ b) Os docentes apenas podem ficar adstritos ao estabelecimento escolar sede da u
 
 5 - Quando esteja previsto no plano educativo da escola, podem os professores de apoio a actividades específicas exercer tarefas de animação pedagógica.
 
-### CAPÍTULO XIII — Exercício de funções docentes por outros funcionários
+CAPÍTULO XIII
 
-###### Artigo 114.º — Exercício a tempo inteiro de funções docentes
+Exercício de funções docentes por outros funcionários
+
+Artigo 114.º
+
+Exercício a tempo inteiro de funções docentes
 
 1 - O exercício a tempo inteiro em estabelecimentos de educação ou de ensino públicos das funções docentes previstas no n.º 1 do artigo 50.º do presente Estatuto pode ser assegurado por outros funcionários públicos, desde que preencham os requisitos habilitacionais exigidos por aquele artigo.
 
 2 - As funções docentes referidas no número anterior são exercidas em regime de destacamento ou requisição, consoante o funcionário faça ou não parte do quadro de escola.
 
-###### Artigo 115.º — Acumulação de funções
+Artigo 115.º
+
+Acumulação de funções
 
 1 - A acumulação de cargo ou lugar da Administração Pública com o exercício de funções docentes em estabelecimentos de educação ou de ensino públicos, ao abrigo do disposto no artigo 12.º do [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, só é permitida nas situações previstas no n.º 1 do artigo 50.º do presente Estatuto.
 
 2 - Os funcionários públicos que exerçam funções técnicas no âmbito da educação podem cumprir parte do seu horário de trabalho semanal em funções docentes, complementarmente à sua actividade profissional principal.
 
-### CAPÍTULO XIV — Condições de trabalho
+CAPÍTULO XIV
 
-###### Artigo 116.º — Regime geral
+Condições de trabalho
+
+Artigo 116.º
+
+Regime geral
 
 O pessoal docente rege-se em matéria de duração de trabalho, férias, faltas e licenças pelas disposições constantes dos artigos seguintes.
 
-###### Artigo 117.º — Duração semanal
+Artigo 117.º
+
+Duração semanal
 
 1 - O pessoal docente em exercício de funções é obrigado à prestação de trinta e cinco horas semanais de serviço.
 
@@ -2897,7 +3462,9 @@ O pessoal docente rege-se em matéria de duração de trabalho, férias, faltas 
 
 5 - A duração semanal global do serviço prestado a nível do estabelecimento, registado no horário do docente, com excepção do tempo destinado a reuniões, é igual ao número de horas da componente lectiva em início de carreira concretamente aplicável ao nível e ciclo de ensino que o docente lecciona, acrescida de uma hora na educação pré-escolar e 1.º ciclo do ensino básico, e de quatro segmentos de quarenta e cinco minutos, dois dos quais destinados obrigatoriamente a actividades com alunos, nos restantes casos.
 
-###### Artigo 118.º — Componente lectiva
+Artigo 118.º
+
+Componente lectiva
 
 1 - Para além das aulas ministradas aos alunos das turmas atribuídas ao docente, a componente lectiva integra o seguinte:
 
@@ -2915,7 +3482,9 @@ b) As aulas de substituição resultantes da necessidade de suprir as ausências
 
 6 - Cada aula pode ser constituída por um tempo lectivo de duração não inferior a quarenta e cinco minutos, ou por dois tempos que, no seu conjunto, não ultrapassem cento e dez minutos.
 
-###### Artigo 119.º — Organização da componente lectiva
+Artigo 119.º
+
+Organização da componente lectiva
 
 1 - Na organização da componente lectiva é tido em conta o máximo de turmas e de níveis curriculares a atribuir a cada docente, de molde a, considerados os correspondentes programas, assegurar-lhe o necessário equilíbrio global, garantindo um elevado nível de qualidade ao ensino.
 
@@ -2927,7 +3496,9 @@ b) As aulas de substituição resultantes da necessidade de suprir as ausências
 
 5 - Excepto nos casos em que a lei disponha diferentemente, a componente lectiva tem precedência sobre qualquer outro serviço oficial, sendo vedada a convocação de reuniões ou distribuição de tarefas de qualquer natureza que impliquem a não realização de aulas.
 
-###### Artigo 120.º — Aula de substituição
+Artigo 120.º
+
+Aula de substituição
 
 1 - Considera-se aula de substituição o exercício da actividade docente que, envolvendo a globalidade da turma, se traduza no desenvolvimento de matéria curricular, leccionada por docente legalmente habilitado para a leccionação da disciplina, de presença obrigatória para os alunos.
 
@@ -2947,7 +3518,9 @@ c) Docentes com horário lectivo completo sem redução da componente lectiva ao
 
 d) Docentes com horário completo e redução da componente lectiva ao abrigo do artigo 124.º do presente Estatuto, preferindo o mais jovem.
 
-###### Artigo 121.º — Componente não lectiva
+Artigo 121.º
+
+Componente não lectiva
 
 1 - A componente não lectiva do pessoal docente abrange a realização de trabalho a nível individual e a prestação de trabalho a nível do estabelecimento de educação ou de ensino.
 
@@ -2969,7 +3542,9 @@ d) Permitir a realização de actividades educativas que se mostrem necessárias
 
 e) Permitir a substituição de outros docentes da mesma unidade orgânica, em actividade destinada a suprir a sua ausência imprevista e de duração não superior a 5 dias lectivos na educação pré-escolar e no 1.º ciclo do ensino básico ou a 10 dias lectivos nos restantes casos.
 
-###### Artigo 122.º — Actividades educativas de substituição
+Artigo 122.º
+
+Actividades educativas de substituição
 
 1 - Quando não estejam reunidas as condições necessárias à leccionação das aulas de substituição a que se referem os artigos anteriores, devem ser organizadas actividades de enriquecimento e complemento curricular que possibilitem a plena ocupação educativa dos alunos.
 
@@ -2995,7 +3570,9 @@ g) Actividades oficinais, musicais e teatrais.
 
 5 - Para professores com horário completo e redução da componente lectiva ao abrigo do artigo 124.º do Estatuto, a componente não lectiva a nível do estabelecimento inclui a parte correspondente à redução da componente lectiva em função da idade e do tempo de serviço, 50 % das quais, até ao máximo de dois tempos semanais, podem ser usadas em actividades de acompanhamento dos alunos em caso de ausência do professor.
 
-###### Artigo 123.º — Serviço docente extraordinário
+Artigo 123.º
+
+Serviço docente extraordinário
 
 1 - Considera-se serviço docente extraordinário aquele que, por determinação do conselho executivo, for prestado para além do serviço docente registado no horário semanal do docente ou da componente lectiva a cujo cumprimento o docente está obrigado.
 
@@ -3009,7 +3586,9 @@ g) Actividades oficinais, musicais e teatrais.
 
 6 - É vedado distribuir serviço docente extraordinário aos docentes que se encontrem ao abrigo do estatuto do trabalhador-estudante e de apoio a filhos deficientes, aos que beneficiem de redução da componente lectiva nos termos do artigo seguinte e ainda àqueles que beneficiem de dispensa da componente lectiva nos termos dos artigos 127.º e seguintes, salvo nos casos em que tal se manifeste necessário para completar o horário semanal do docente em função da carga horária da disciplina que ministra, e na situação prevista na alínea d) do n.º 5 do artigo 120.º do presente Estatuto.
 
-###### Artigo 124.º — Redução da componente lectiva
+Artigo 124.º
+
+Redução da componente lectiva
 
 1 - A componente lectiva de trabalho semanal a que estão obrigados os docentes dos 2.º e 3.º ciclos do ensino básico e do ensino secundário é sucessivamente reduzida, nos termos seguintes:
 
@@ -3027,7 +3606,9 @@ c) De mais quatro horas logo que os docentes atinjam 60 anos de idade e 25 de se
 
 5 - Os docentes a que se refere o n.º 2, quando em gozo da dispensa da componente lectiva, ficam obrigados à prestação de trinta e cinco horas semanais de trabalho a nível do estabelecimento de educação ou ensino, nos termos do artigo 121.º do presente Estatuto, não lhes podendo, sem a sua anuência, ser atribuído o serviço de substituição a que se refere a alínea e) do n.º 5 daquele artigo.
 
-###### Artigo 125.º — Docentes com horário acrescido
+Artigo 125.º
+
+Docentes com horário acrescido
 
 1 - Os docentes que beneficiem da redução ou dispensa da componente lectiva prevista no artigo anterior podem optar por manter a componente lectiva prevista no artigo 118.º do presente Estatuto.
 
@@ -3035,7 +3616,9 @@ c) De mais quatro horas logo que os docentes atinjam 60 anos de idade e 25 de se
 
 3 - O regime de horário acrescido é solicitado até 15 de Maio do ano escolar anterior, podendo apenas ser concedido quando a unidade orgânica disponha de horas lectivas que não possam ser atribuídas a docentes do respectivo quadro.
 
-###### Artigo 126.º — Exercício de outras funções
+Artigo 126.º
+
+Exercício de outras funções
 
 1 - O exercício de funções em órgãos de administração e gestão dos estabelecimentos de educação ou de ensino dá lugar, para além da remuneração prevista nos termos do artigo 86.º do presente Estatuto, a uma redução da componente lectiva, nos termos que estejam fixados no diploma que estabelece o regime jurídico de criação, autonomia e gestão das unidades orgânicas do sistema educativo regional.
 
@@ -3043,7 +3626,9 @@ c) De mais quatro horas logo que os docentes atinjam 60 anos de idade e 25 de se
 
 3 - Ao número de horas de redução da componente lectiva a que os docentes dos 2.º e 3.º ciclos do ensino básico e do ensino secundário tenham direito pelo exercício de funções pedagógicas são sucessivamente subtraídas as horas correspondentes à redução da componente lectiva semanal de que os mesmos beneficiem em função da sua idade e tempo de serviço.
 
-###### Artigo 127.º — Dispensa da componente lectiva
+Artigo 127.º
+
+Dispensa da componente lectiva
 
 1 - O docente, provido definitivamente em lugar dos quadros, incapacitado ou diminuído para o cumprimento integral da componente lectiva pode ser, por decisão da junta médica, total ou parcialmente dispensado, nos termos dos artigos seguintes, desde que verificadas cumulativamente as seguintes condições:
 
@@ -3075,7 +3660,9 @@ b) A situação clínica do docente não seja impeditiva do desempenho de tarefa
 
 9 - O docente que for considerado pela junta médica incapaz para o exercício de funções docentes mas apto para o desempenho de outras é submetido a um processo de reclassificação ou reconversão profissional, por iniciativa própria ou do conselho executivo da unidade orgânica a que pertence, nos termos da lei geral sobre a matéria, com as especialidades constantes dos artigos seguintes.
 
-###### Artigo 128.º — Condições e procedimento para dispensa
+Artigo 128.º
+
+Condições e procedimento para dispensa
 
 1 - Verificadas, cumulativamente, as condições previstas no n.º 1 do artigo anterior, os docentes providos definitivamente em lugares dos quadros podem ser total ou parcialmente dispensados do cumprimento da componente lectiva, por decisão de junta médica, homologada pelo director regional competente em matéria de administração educativa.
 
@@ -3099,13 +3686,17 @@ d) Indicação da capacidade do docente para o desempenho de outras tarefas ao n
 
 7 - Quando a dispensa do cumprimento da componente lectiva seja parcial, o número de horas semanais a realizar nas novas funções é calculado, com arredondamento por defeito, tomando como base um horário completo de trinta e cinco horas semanais, tendo em conta as reduções em função da idade e tempo de serviço, na proporção da componente lectiva que lhe vier a ser atribuída.
 
-###### Artigo 129.º — Comunicação e recurso
+Artigo 129.º
+
+Comunicação e recurso
 
 1 - A decisão da junta médica a que se refere o artigo anterior é enviada com a devida fundamentação à direcção regional competente em matéria de administração educativa, a fim de o processo ser homologado, no prazo máximo de 10 dias, e comunicada ao conselho executivo da unidade orgânica onde o docente preste serviço.
 
 2 - Da decisão da junta médica ou do despacho de homologação cabe recurso para o membro do Governo Regional competente em matéria de educação, a interpor no prazo de 30 dias a contar do respectivo conhecimento, cabendo àquele membro do Governo Regional reapreciar o processo com o eventual apoio do médico assistente do docente.
 
-###### Artigo 130.º — Funções a desempenhar
+Artigo 130.º
+
+Funções a desempenhar
 
 1 - O docente dispensado, total ou parcialmente, do cumprimento da componente lectiva exercerá funções compatíveis com a sua habilitação profissional, na unidade orgânica a que pertence, em termos a determinar pelo respectivo conselho executivo.
 
@@ -3113,19 +3704,25 @@ d) Indicação da capacidade do docente para o desempenho de outras tarefas ao n
 
 3 - Dos processos deve constar a proposta das funções a desempenhar elaborada pelo conselho executivo, devendo a junta médica confirmar, na decisão, a adequação das tarefas a desempenhar face à situação de saúde do docente.
 
-###### Artigo 131.º — Determinação do horário e tempo de serviço
+Artigo 131.º
+
+Determinação do horário e tempo de serviço
 
 1 - A dispensa do cumprimento total da componente lectiva não prejudica a obrigação da prestação de trinta e cinco horas semanais de serviço.
 
 2 - O tempo de serviço prestado nos termos previstos no presente artigo é considerado, para todos os efeitos, como tempo de serviço docente efectivo.
 
-###### Artigo 132.º — Incapacidade para o exercício de funções
+Artigo 132.º
+
+Incapacidade para o exercício de funções
 
 1 - Não se verificando as condições exigidas no n.º 1 do artigo 127.º do presente Estatuto, ou prolongando-se a doença ou incapacidade para além do prazo legalmente fixado, o docente é mandado apresentar à junta médica, para efeitos de declaração da incapacidade para o exercício de funções docentes.
 
 2 - Os docentes declarados incapazes para o exercício de funções docentes podem ainda exercer as tarefas constantes do artigo 121.º do presente Estatuto, em conformidade com a decisão da junta médica.
 
-###### Artigo 133.º — Processo de reclassificação e reconversão profissional
+Artigo 133.º
+
+Processo de reclassificação e reconversão profissional
 
 1 - No procedimento de reclassificação ou reconversão profissionais ter-se-á em consideração:
 
@@ -3151,23 +3748,33 @@ c) A falta de aptidão para o lugar da nova carreira ou categoria.
 
 5 - O docente que tenha sido reclassificado integra, na nova carreira, o quadro regional de ilha respectivo, em lugar a aditar automaticamente e a extinguir quando vagar.
 
-###### Artigo 134.º — Reconversão e reclassificação
+Artigo 134.º
+
+Reconversão e reclassificação
 
 A reconversão ou a reclassificação profissional fazem-se para as carreiras técnica ou técnica superior, consoante o docente seja ou não possuidor de uma licenciatura, e para a categoria mais baixa que contenha escalão a que corresponda remuneração igual ou imediatamente superior à que o docente detém.
 
-###### Artigo 135.º — Serviço docente nocturno
+Artigo 135.º
+
+Serviço docente nocturno
 
 1 - Considera-se serviço docente nocturno o que estiver fixado na lei geral da função pública.
 
 2 - Para efeitos de cumprimento da componente lectiva, as horas de serviço docente nocturno são bonificadas com o factor 1,5, arredondado por defeito.
 
-###### Artigo 136.º — Tempo parcial
+Artigo 136.º
+
+Tempo parcial
 
 Sem prejuízo do disposto no artigo 124.º do presente Estatuto, o pessoal docente dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pode exercer funções em regime de tempo parcial, nos termos previstos para os funcionários e agentes da administração regional autónoma em geral.
 
-### CAPÍTULO XV — Férias, faltas e licenças
+CAPÍTULO XV
 
-###### Artigo 137.º — Regime geral
+Férias, faltas e licenças
+
+Artigo 137.º
+
+Regime geral
 
 1 - Ao pessoal docente aplica-se a legislação em vigor para os funcionários e agentes da administração regional autónoma em matéria de férias, faltas e licenças, com as adaptações constantes das secções seguintes.
 
@@ -3179,9 +3786,13 @@ b) «Dirigente e dirigente máximo» o presidente do conselho executivo da unida
 
 3 - As autorizações previstas na legislação geral sobre a matéria regulada no presente capítulo podem ser concedidas desde que salvaguardada a possibilidade de substituição dos docentes.
 
-#### SECÇÃO I — Férias
+SECÇÃO I
 
-###### Artigo 138.º — Direito a férias
+Férias
+
+Artigo 138.º
+
+Direito a férias
 
 1 - O pessoal docente tem direito em cada ano ao período de férias estabelecido na lei geral.
 
@@ -3189,7 +3800,9 @@ b) «Dirigente e dirigente máximo» o presidente do conselho executivo da unida
 
 3 - Para efeitos do disposto no número anterior, considera-se como mês completo de serviço o período de duração superior a 15 dias.
 
-###### Artigo 139.º — Período de férias
+Artigo 139.º
+
+Período de férias
 
 1 - As férias do pessoal docente em exercício de funções são gozadas entre o termo de um ano lectivo e o início do ano lectivo seguinte, ou nos períodos de interrupção lectiva do Natal, Carnaval e Páscoa.
 
@@ -3199,33 +3812,47 @@ b) «Dirigente e dirigente máximo» o presidente do conselho executivo da unida
 
 4 - Não se verificando acordo, as férias são marcadas pelo órgão de administração e gestão da unidade orgânica, nos termos previstos no n.º 1.
 
-###### Artigo 140.º — Acumulação de férias
+Artigo 140.º
+
+Acumulação de férias
 
 As férias respeitantes a determinado ano podem, por conveniência de serviço ou por interesse do docente, ser gozadas no ano civil imediato, em acumulação com as vencidas neste, até ao limite de 40 dias úteis, salvaguardados os interesses do estabelecimento de educação ou de ensino e mediante acordo do respectivo conselho executivo.
 
-###### Artigo 141.º — Interrupção do gozo de férias
+Artigo 141.º
+
+Interrupção do gozo de férias
 
 Durante o gozo do período de férias o pessoal docente não deve ser convocado para a realização de quaisquer tarefas.
 
-#### SECÇÃO II — Interrupção da actividade docente e faltas
+SECÇÃO II
 
-###### Artigo 142.º — Interrupção da actividade
+Interrupção da actividade docente e faltas
+
+Artigo 142.º
+
+Interrupção da actividade
 
 O pessoal docente usufrui nas épocas do Natal, do Carnaval, da Páscoa e do Verão de períodos de interrupção da actividade docente, tendo em conta os interesses e recursos disponíveis dos estabelecimentos de educação ou de ensino.
 
-###### Artigo 143.º — Comparência na escola
+Artigo 143.º
+
+Comparência na escola
 
 1 - Durante os períodos de interrupção da actividade docente, os docentes podem ser convocados pelo conselho executivo da unidade orgânica para o cumprimento de tarefas de natureza pedagógica necessárias ao bom funcionamento da escola, bem como para a participação em acções de formação.
 
 2 - O cumprimento das tarefas previstas no número anterior deve ser assegurado através da elaboração, pelo conselho executivo da unidade orgânica, de um plano de distribuição de serviço que, sem prejuízo dos interesses da escola, permita a todos os docentes beneficiar de forma equitativa de períodos de interrupção da actividade docente.
 
-###### Artigo 144.º — Duração dos períodos de interrupção
+Artigo 144.º
+
+Duração dos períodos de interrupção
 
 1 - Os períodos de interrupção da actividade docente referidos nesta secção não podem exceder, no cômputo global, 30 dias por ano escolar.
 
 2 - Cada período de interrupção da actividade docente não pode ser superior a 10 dias seguidos ou interpolados.
 
-###### Artigo 145.º — Faltas
+Artigo 145.º
+
+Faltas
 
 1 - Falta é a ausência do docente durante a totalidade ou parte do período diário de presença obrigatória no estabelecimento de educação ou de ensino ou em local a que se deva deslocar em exercício de funções.
 
@@ -3239,7 +3866,9 @@ a) O docente tenha apresentado ao conselho executivo da unidade orgânica o plan
 
 b) Esteja assegurada a substituição do docente.
 
-###### Artigo 146.º — Faltas a exames e reuniões
+Artigo 146.º
+
+Faltas a exames e reuniões
 
 1 - É considerada falta a um dia:
 
@@ -3251,7 +3880,9 @@ b) A ausência do docente a reuniões de avaliação de alunos.
 
 3 - As faltas a serviço de exames, bem como a reuniões que visem a avaliação sumativa de alunos, apenas podem ser justificadas por casamento, por maternidade, por nascimento, por falecimento de familiar, por doença, por doença prolongada por acidente em serviço, por isolamento profiláctico e para cumprimento de obrigações legais.
 
-###### Artigo 147.º — Faltas e ausências justificadas
+Artigo 147.º
+
+Faltas e ausências justificadas
 
 1 - Para efeitos do presente Estatuto, as faltas dadas ao abrigo do estatuto do trabalhador-estudante previstas na lei geral denominam-se «faltas para prestação de provas em estabelecimentos de ensino».
 
@@ -3267,27 +3898,37 @@ b) A ausência do docente a reuniões de avaliação de alunos.
 
 7 - O incumprimento do disposto no número anterior determina que as faltas dadas não relevem como serviço efectivo para efeitos de avaliação do desempenho.
 
-###### Artigo 148.º — Rastreio das condições de saúde
+Artigo 148.º
+
+Rastreio das condições de saúde
 
 Para verificação das condições de saúde e de trabalho do pessoal docente realizar-se-ão acções periódicas de rastreio, da competência de médicos credenciados pela direcção regional competente em matéria de administração educativa, aprovadas anualmente pela unidade orgânica.
 
-###### Artigo 149.º — Justificação e verificação domiciliária da doença
+Artigo 149.º
+
+Justificação e verificação domiciliária da doença
 
 1 - O certificado de incapacidade temporária para efeitos de comprovação da doença, nos termos previstos na lei geral, é passado por médicos credenciados pela direcção regional competente em matéria de administração educativa ou, na impossibilidade justificada de a eles recorrer, nos termos do regime geral.
 
 2 - A verificação domiciliária da doença compete aos médicos referidos no número anterior ou ainda à autoridade sanitária competente em razão do lugar.
 
-###### Artigo 150.º — Regresso ao serviço no decurso do ano escolar
+Artigo 150.º
+
+Regresso ao serviço no decurso do ano escolar
 
 O docente que, tendo passado à situação de licença sem vencimento de longa duração na sequência de doença, regresse ao serviço no decurso do ano escolar permanecerá no quadro a que pertence, cabendo ao conselho executivo da unidade orgânica determinar as funções a exercer no âmbito do serviço docente.
 
-###### Artigo 151.º — Junta médica
+Artigo 151.º
+
+Junta médica
 
 1 - Sem prejuízo das competências reconhecidas por lei às juntas médicas especializadas, a referência à junta médica prevista na lei geral e no presente Estatuto considera-se feita à junta médica da direcção regional competente em matéria de administração educativa.
 
 2 - Há ainda lugar a intervenção da junta médica da direcção regional competente em matéria de administração educativa e sempre que a actuação do docente indicie, em matéria de faltas, um comportamento fraudulento.
 
-###### Artigo 152.º — Faltas por conta do período de férias
+Artigo 152.º
+
+Faltas por conta do período de férias
 
 1 - Sem prejuízo do disposto nos números seguintes, o docente pode faltar, por conta do período de férias, um dia útil por mês, até ao limite de cinco por cada ano escolar.
 
@@ -3303,9 +3944,13 @@ O docente que, tendo passado à situação de licença sem vencimento de longa d
 
 7 - As faltas previstas no presente artigo, quando dadas por docentes em período probatório, apenas podem ser descontadas no próprio ano.
 
-#### SECÇÃO III — Licenças
+SECÇÃO III
 
-###### Artigo 153.º — Licença sem vencimento até 90 dias
+Licenças
+
+Artigo 153.º
+
+Licença sem vencimento até 90 dias
 
 1 - O docente provido definitivamente num lugar dos quadros com, pelo menos, três anos de serviço docente efectivo pode requerer em cada ano civil licença sem vencimento até 90 dias, a gozar seguidamente.
 
@@ -3315,13 +3960,17 @@ O docente que, tendo passado à situação de licença sem vencimento de longa d
 
 4 - O docente a quem a licença tenha sido concedida só pode regressar ao serviço após o gozo integral daquela.
 
-###### Artigo 154.º — Licença sem vencimento por um ano
+Artigo 154.º
+
+Licença sem vencimento por um ano
 
 1 - O gozo de licença sem vencimento por um ano pelo pessoal docente é obrigatoriamente coincidente com o início e o termo do ano escolar.
 
 2 - O período de tempo de licença é contado para efeitos de aposentação, sobrevivência e fruição dos benefícios de assistência na doença de que seja beneficiário se o docente mantiver os correspondentes descontos com base na remuneração auferida à data da sua concessão.
 
-###### Artigo 155.º — Licença sem vencimento de longa duração
+Artigo 155.º
+
+Licença sem vencimento de longa duração
 
 1 - O docente provido definitivamente num lugar dos quadros com, pelo menos, cinco anos de serviço docente efectivo pode requerer licença sem vencimento de longa duração.
 
@@ -3335,9 +3984,13 @@ O docente que, tendo passado à situação de licença sem vencimento de longa d
 
 6 - No caso de o docente não obter colocação por concurso em lugar do quadro, mantém-se na situação de licença sem vencimento de longa duração, com os direitos previstos nos números anteriores.
 
-### CAPÍTULO XVI — Licença sabática
+CAPÍTULO XVI
 
-###### Artigo 156.º — Licença sabática
+Licença sabática
+
+Artigo 156.º
+
+Licença sabática
 
 1 - Ao docente provido definitivamente num lugar dos quadros, com menção qualitativa de Bom ou superior e, pelo menos, oito anos de tempo de serviço ininterrupto no exercício de funções docentes em escolas da Região Autónoma dos Açores pode ser concedida licença sabática nos termos fixados nos artigos seguintes.
 
@@ -3347,7 +4000,9 @@ O docente que, tendo passado à situação de licença sem vencimento de longa d
 
 4 - A licença sabática só pode ser iniciada até três anos escolares antes do momento em que se preveja que o docente reúna os requisitos necessários para requerer a aposentação.
 
-###### Artigo 157.º — Objectivos da licença sabática
+Artigo 157.º
+
+Objectivos da licença sabática
 
 1 - A licença sabática é concedida para realização de trabalhos de investigação aplicada inseridos em projectos de autoformação ou noutros projectos que integrem as seguintes modalidades:
 
@@ -3365,7 +4020,9 @@ a) Esteja inserido em áreas de estudo com implicações directas no exercício 
 
 b) Seja exequível no período de tempo a que a licença respeita.
 
-###### Artigo 158.º — Duração e efeitos da licença sabática
+Artigo 158.º
+
+Duração e efeitos da licença sabática
 
 1 - A licença sabática tem a duração de um ano escolar e conta para todos os efeitos legais como tempo de serviço docente efectivo.
 
@@ -3379,7 +4036,9 @@ b) Seja exequível no período de tempo a que a licença respeita.
 
 6 - As remunerações dos docentes aos quais for concedida a licença sabática são suportadas por dotação específica do orçamento afecto à direcção regional competente em matéria de educação.
 
-###### Artigo 159.º — Concessão da licença sabática
+Artigo 159.º
+
+Concessão da licença sabática
 
 1 - São concedidas duas licenças sabáticas em cada ano escolar, podendo este número ser aumentado, por despacho do membro do Governo Regional competente em matéria de educação, tendo em conta o número de docentes que reúnam condições de elegibilidade para requererem a licença sabática, bem como as disponibilidades e as necessidades do sistema educativo.
 
@@ -3415,7 +4074,9 @@ b) Parecer do orientador ou do especialista da respectiva área científica em q
 
 c) Curriculum vitae do orientador ou do especialista, indicando a categoria profissional e os graus académicos de que é titular, com menção da respectiva área científica e experiência anterior.
 
-###### Artigo 160.º — Indeferimento liminar
+Artigo 160.º
+
+Indeferimento liminar
 
 São indeferidas liminarmente:
 
@@ -3425,7 +4086,9 @@ b) As candidaturas extemporâneas;
 
 c) As candidaturas não acompanhadas dos documentos referidos no artigo anterior.
 
-###### Artigo 161.º — Júri de apreciação das candidaturas a licença sabática
+Artigo 161.º
+
+Júri de apreciação das candidaturas a licença sabática
 
 1 - Os pedidos de licença sabática são apreciados por um júri constituído por três elementos a nomear pelo director regional competente em matéria de administração educativa.
 
@@ -3439,7 +4102,9 @@ c) Exequibilidade do projecto dentro do período de licença.
 
 3 - O número de anos de exercício efectivo de funções docentes é considerado para efeitos de desempate.
 
-###### Artigo 162.º — Tramitação das candidaturas a licença sabática
+Artigo 162.º
+
+Tramitação das candidaturas a licença sabática
 
 1 - As licenças sabáticas são autorizadas pelo director regional competente em matéria de administração educativa, no prazo máximo de 90 dias após a data limite para apresentação dos requerimentos, com base em proposta do júri referido no número anterior e fundamentadas nos resultados da apreciação prevista.
 
@@ -3447,7 +4112,9 @@ c) Exequibilidade do projecto dentro do período de licença.
 
 3 - O director regional competente em matéria de administração educativa promove a publicação no Jornal Oficial da lista dos docentes aos quais foi concedida licença sabática.
 
-###### Artigo 163.º — Relatório da licença sabática
+Artigo 163.º
+
+Relatório da licença sabática
 
 1 - Terminada a licença sabática, o docente fica obrigado a no prazo máximo de 180 dias, apresentar ao director regional competente em matéria de administração educativa relatório dos resultados do projecto de formação pessoal desenvolvido, o qual deve ser submetido a parecer e passa a constar do processo individual do docente.
 
@@ -3457,9 +4124,13 @@ c) Exequibilidade do projecto dentro do período de licença.
 
 4 - O relatório final é apreciado pelo júri referido no artigo 161.º do presente Estatuto, que procede, sempre que possível, à sua divulgação, designadamente através de meios electrónicos.
 
-### CAPÍTULO XVII — Equiparação a bolseiro
+CAPÍTULO XVII
 
-###### Artigo 164.º — Condições da equiparação a bolseiro
+Equiparação a bolseiro
+
+Artigo 164.º
+
+Condições da equiparação a bolseiro
 
 1 - Aos docentes da educação pré-escolar e dos ensinos básico e secundário, incluindo as suas modalidades de ensino artístico e educação especial, providos definitivamente num lugar dos quadros pode ser concedida a equiparação a bolseiro no País ou no estrangeiro, nos termos do disposto nos artigos seguintes.
 
@@ -3469,13 +4140,17 @@ c) Exequibilidade do projecto dentro do período de licença.
 
 4 - O docente que tiver beneficiado do estatuto de equiparado a bolseiro é obrigado a cumprir no sistema educativo regional um número mínimo de anos correspondente a 50 % do período de equiparação.
 
-###### Artigo 165.º — Contingentação anual
+Artigo 165.º
+
+Contingentação anual
 
 1 - O número máximo de vagas anuais para a concessão do estatuto de equiparação a bolseiro é de três.
 
 2 - Esgotadas as vagas referidas nos números anteriores, por despacho do membro do Governo Regional competente em matéria de educação, pode ainda ser concedida em cada ano escolar uma vaga extraordinária destinada a um docente que pretenda realizar estudos ou projectos de excepcional interesse em domínio relevante da educação e ensino, como tal reconhecidos por uma instituição de ensino superior.
 
-###### Artigo 166.º — Requisitos e cessação
+Artigo 166.º
+
+Requisitos e cessação
 
 1 - São requisitos cumulativos da concessão de equiparação a bolseiro os seguintes:
 
@@ -3489,7 +4164,9 @@ d) Não estar a cumprir no quadro a que pertença o módulo de três anos de ser
 
 2 - A equiparação a bolseiro cessa automaticamente no termo do ano escolar sempre que o docente, no decurso do mesmo, deixe de satisfazer quaisquer das condições previstas no número anterior ou obtenha colocação em diferente quadro de escola beneficiando de prioridade que envolva o cumprimento de um módulo mínimo de tempo de permanência.
 
-###### Artigo 167.º — Objectivos da equiparação
+Artigo 167.º
+
+Objectivos da equiparação
 
 1 - Podem requerer a equiparação a bolseiro os docentes que se encontrem em qualquer das seguintes situações:
 
@@ -3511,13 +4188,17 @@ e) Frequência de curso de pós-graduação que não possa ocorrer em horário p
 
 f) Frequência de curso de formação especializada que não possa ocorrer em horário pós-laboral.
 
-###### Artigo 168.º — Bolseiros de outras instituições
+Artigo 168.º
+
+Bolseiros de outras instituições
 
 1 - Pode ser concedida a equiparação aos bolseiros de outras instituições, devendo proceder-se à redução da remuneração do docente até ao montante permitido, sempre que tal seja determinado pelas normas reguladoras da atribuição da bolsa.
 
 2 - Pode ser ainda concedida a equiparação a bolseiro sem vencimento aos bolseiros de outras instituições que não possam apresentar as respectivas candidaturas nos prazos previstos no presente Estatuto.
 
-###### Artigo 169.º — Prazo de concessão e efeitos
+Artigo 169.º
+
+Prazo de concessão e efeitos
 
 1 - Sem prejuízo do disposto nos números seguintes, a equiparação a bolseiro é concedida pelo prazo máximo de um ano escolar, excepto se a situação que a justifica, nos termos do artigo 167.º, ultrapassar aquele limite, caso em que terá a duração de dois anos escolares.
 
@@ -3527,21 +4208,29 @@ f) Frequência de curso de formação especializada que não possa ocorrer em ho
 
 4 - Quando o equiparado a bolseiro não puder concretizar o seu projecto por motivos supervenientes que não lhe sejam imputáveis, pode requerer a cessação da equiparação a bolseiro antes do termo do prazo previsto no presente artigo.
 
-###### Artigo 170.º — Exclusividade
+Artigo 170.º
+
+Exclusividade
 
 Durante o período de equiparação a bolseiro não é permitido o exercício de quaisquer funções públicas ou privadas remuneradas, excepto, e quando de carácter esporádico, para realização de conferências, palestras e acções de formação de duração total não superior a trinta horas por ano escolar.
 
-###### Artigo 171.º — Equiparação a bolseiro em regime de tempo parcial
+Artigo 171.º
+
+Equiparação a bolseiro em regime de tempo parcial
 
 1 - Pode ser concedida a equiparação a bolseiro em regime de tempo parcial, até ao limite de 50 % da componente lectiva e com a duração máxima de um ano escolar.
 
 2 - Os equiparados a bolseiro abrangidos pelo número anterior não podem beneficiar de redução da componente lectiva de qualquer natureza nem prestar serviço extraordinário.
 
-###### Artigo 172.º — Equiparação a bolseiro sem vencimento
+Artigo 172.º
+
+Equiparação a bolseiro sem vencimento
 
 Sem prejuízo do disposto no n.º 2 do artigo 168.º, pode ser concedida equiparação a bolseiro sem vencimento, a solicitação dos interessados, em qualquer das situações previstas no artigo 167.º, desde que observados os requisitos e cumpridos os restantes formalismos previstos no presente Estatuto.
 
-###### Artigo 173.º — Procedimento
+Artigo 173.º
+
+Procedimento
 
 1 - O requerimento a solicitar a concessão de equiparação a bolseiro é dirigido ao director regional competente em matéria de administração educativa até 15 de Maio do ano lectivo anterior, dele devendo constar:
 
@@ -3579,7 +4268,9 @@ c) Parecer do orientador, em caso de mestrado e doutoramento.
 
 6 - No caso de concessão de equiparação a bolseiro por anos sucessivos, o exercício do direito fica apenas condicionado à apresentação de requerimento e relatório do trabalho desenvolvido, dentro do prazo previsto no n.º 1 deste artigo.
 
-###### Artigo 174.º — Tramitação
+Artigo 174.º
+
+Tramitação
 
 1 - Após análise processual, o director regional competente em matéria de administração educativa, até 15 de Junho, profere despacho fundamentado de indeferimento liminar da candidatura no caso de:
 
@@ -3595,7 +4286,9 @@ d) Falta de verificação de qualquer outra situação que prejudique o desenvol
 
 3 - Da decisão da reclamação cabe recurso hierárquico facultativo, a interpor, no prazo de 30 dias, para o membro do Governo Regional competente em matéria de educação.
 
-###### Artigo 175.º — Avaliação da candidatura e autorização
+Artigo 175.º
+
+Avaliação da candidatura e autorização
 
 1 - Recebido o processo, a direcção regional competente em matéria de administração educativa procede à análise do pedido, gradua e ordena os candidatos, através de uma avaliação da candidatura que concluirá com a elaboração de um parecer fundamentado e a atribuição de uma classificação.
 
@@ -3611,19 +4304,27 @@ b) Adequação da proposta ao grau de ensino onde o docente lecciona.
 
 5 - O director regional competente em matéria de administração educativa manda publicar no Jornal Oficial a lista dos candidatos aos quais foi concedida a equiparação a bolseiro.
 
-###### Artigo 176.º — Relatório final
+Artigo 176.º
+
+Relatório final
 
 1 - Após o termo do período de equiparação a bolseiro, o docente é obrigado a remeter à direcção regional competente em matéria de administração educativa, dentro do prazo de 60 dias, um relatório final da sua actividade.
 
 2 - A não apresentação injustificada do relatório implica a reposição pelo docente das importâncias que tiver recebido.
 
-###### Artigo 177.º — Remuneração dos docentes equiparados a bolseiro
+Artigo 177.º
+
+Remuneração dos docentes equiparados a bolseiro
 
 As remunerações dos docentes que beneficiam da equiparação a bolseiro nos termos deste Estatuto são suportadas por dotação orçamental específica a inscrever no orçamento afecto à direcção regional competente em matéria de administração educativa.
 
-### CAPÍTULO XVIII — Serviço docente em regime de acumulação
+CAPÍTULO XVIII
 
-###### Artigo 178.º — Acumulações
+Serviço docente em regime de acumulação
+
+Artigo 178.º
+
+Acumulações
 
 1 - É permitida a acumulação do exercício de funções docentes em estabelecimentos de educação ou de ensino públicos com actividades de carácter ocasional que possam ser consideradas como complemento da actividade docente.
 
@@ -3631,7 +4332,9 @@ As remunerações dos docentes que beneficiam da equiparação a bolseiro nos te
 
 3 - É vedada a acumulação do exercício de funções aos docentes que se encontrem total ou parcialmente dispensados do cumprimento integral da componente lectiva por motivos de saúde, nos termos do disposto nos artigos 127.º e seguintes do presente Estatuto.
 
-###### Artigo 179.º — Autorização
+Artigo 179.º
+
+Autorização
 
 1 - O exercício em acumulação de quaisquer funções ou actividades públicas e privadas carece de autorização prévia do director regional competente em matéria de administração educativa, ressalvado o disposto no número seguinte.
 
@@ -3653,7 +4356,9 @@ g) A elaboração de provas de exame ou outras provas de avaliação externa do 
 
 h) As actividades a que se refere o artigo 30.º do presente Estatuto.
 
-###### Artigo 180.º — Condições de acumulação
+Artigo 180.º
+
+Condições de acumulação
 
 1 - A autorização de acumulação de funções a que se refere o presente Estatuto só pode ser concedida verificadas cumulativamente as seguintes condições:
 
@@ -3683,7 +4388,9 @@ d) Para acções de formação profissional ou o exercício da actividade de for
 
 5 - O limite global de horas lectivas a que se referem os números anteriores é sucessivamente reduzido, no caso dos professores dos 2.º e 3.º ciclos do ensino básico e do ensino secundário, na proporção da redução da componente lectiva de que estes docentes beneficiem ao abrigo do artigo 124.º do presente Estatuto, arredondada à unidade.
 
-###### Artigo 181.º — Impedimentos
+Artigo 181.º
+
+Impedimentos
 
 1 - Consideram-se impossibilitados de acumulação de funções os docentes que se encontrem numa das seguintes situações:
 
@@ -3707,7 +4414,9 @@ i) Na titularidade de cargos de direcção executiva, sem prejuízo do disposto 
 
 2 - A actividade de formador em regime de acumulação dos titulares de cargos de direcção executiva, pode, a título excepcional, ser autorizada pelo director regional competente em matéria de educação, quando, comprovadamente, não existam na área geográfica da influência da entidade formadora formadores que possam ser recrutados para o efeito.
 
-###### Artigo 182.º — Incompatibilidades
+Artigo 182.º
+
+Incompatibilidades
 
 1 - É incompatível a acumulação da actividade docente com as seguintes funções:
 
@@ -3717,7 +4426,9 @@ b) Exercício de qualquer outra actividade comercial, empresarial ou a prestaç�
 
 2 - É vedado o desenvolvimento a qualquer título de actividades de promoção de manuais escolares e de outros recursos didáctico-pedagógicos dentro do recinto dos estabelecimentos de ensino.
 
-###### Artigo 183.º — Processo de autorização
+Artigo 183.º
+
+Processo de autorização
 
 1 - O requerimento para acumulação de funções é apresentado pelo interessado no estabelecimento de educação ou de ensino onde exerce a sua actividade principal e dele devem constar:
 
@@ -3741,45 +4452,65 @@ b) Declaração, sob compromisso de honra, da cessação imediata da actividade 
 
 4 - A recusa de autorização carece de fundamentação nos termos legais.
 
-###### Artigo 184.º — Validade da acumulação
+Artigo 184.º
+
+Validade da acumulação
 
 A autorização de acumulação de funções concedida no âmbito do presente Estatuto é válida até ao final do ano escolar a que respeita e enquanto se mantiverem os pressupostos e as condições que a permitiram, não podendo justificar, em qualquer circunstância, o incumprimento das obrigações funcionais inerentes ao exercício da actividade principal acumulada.
 
-###### Artigo 185.º — Exercício de outras funções
+Artigo 185.º
+
+Exercício de outras funções
 
 Ao exercício de funções em qualquer serviço ou organismo da administração central, regional ou local, designadamente ao abrigo dos instrumentos de mobilidade previstos nos artigos 104.º e 107.º do presente Estatuto é aplicável a lei geral em matéria de acumulação de funções por funcionários da administração regional autónoma.
 
-###### Artigo 186.º — Acumulação de outras funções com serviço docente
+Artigo 186.º
+
+Acumulação de outras funções com serviço docente
 
 Quando um funcionário ou agente da administração central, regional ou local não pertencente à carreira docente seja autorizado, nos termos gerais da função pública, a acumular com funções docentes, a duração da actividade docente em conjunto com a restante, não pode ultrapassar o limite de cinquenta horas semanais.
 
-###### Artigo 187.º — Relevância disciplinar
+Artigo 187.º
+
+Relevância disciplinar
 
 A violação, ainda que meramente culposa ou negligente, do disposto no presente Estatuto considera-se infracção disciplinar para efeitos de aplicação do disposto no Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local.
 
-###### Artigo 188.º — Regime remuneratório em acumulação
+Artigo 188.º
+
+Regime remuneratório em acumulação
 
 1 - O regime remuneratório a atribuir aos docentes que se encontrem em situação de acumulação na mesma unidade orgânica ou entre unidades orgânicas do sistema educativo directamente dependentes da administração regional autónoma é calculado com base no horário semanal atribuído ao docente, que é proporcional ao horário completo.
 
 2 - Os docentes a que se refere o número anterior não auferem vencimento sempre que faltem, nem a acumulação releva, de harmonia com a lei, para o cálculo dos subsídios a que o docente tenha direito.
 
-### CAPÍTULO XIX — Regime disciplinar
+CAPÍTULO XIX
 
-###### Artigo 189.º — Princípio geral
+Regime disciplinar
+
+Artigo 189.º
+
+Princípio geral
 
 Ao pessoal docente é aplicável o Estatuto Disciplinar dos trabalhadores que exercem funções públicas, com as adaptações que a seguir se prevêem.
 
-###### Artigo 190.º — Responsabilidade disciplinar
+Artigo 190.º
+
+Responsabilidade disciplinar
 
 1 - Os docentes são disciplinarmente responsáveis perante o presidente do conselho executivo da unidade orgânica onde prestam funções.
 
 2 - Os membros do conselho executivo são disciplinarmente responsáveis perante o director regional competente em matéria de administração educativa.
 
-###### Artigo 191.º — Infracção disciplinar
+Artigo 191.º
+
+Infracção disciplinar
 
 Constitui infracção disciplinar a violação, ainda que meramente culposa, de algum dos deveres gerais ou profissionais que incumbem ao pessoal docente.
 
-###### Artigo 192.º — Processo disciplinar
+Artigo 192.º
+
+Processo disciplinar
 
 1 - A instauração de processo disciplinar é da competência do conselho executivo da unidade orgânica.
 
@@ -3793,7 +4524,9 @@ Constitui infracção disciplinar a violação, ainda que meramente culposa, de 
 
 6 - O prazo máximo de suspensão preventiva previsto no Estatuto Disciplinar pode ser prorrogado pelo membro do Governo Regional competente em matéria de educação, até ao final do ano escolar, sob proposta da entidade competente para instaurar o processo disciplinar e com os fundamentos previstos na lei.
 
-###### Artigo 193.º — Aplicação das penas
+Artigo 193.º
+
+Aplicação das penas
 
 1 - A aplicação da pena de repreensão escrita é da competência do conselho executivo da unidade orgânica.
 
@@ -3801,21 +4534,29 @@ Constitui infracção disciplinar a violação, ainda que meramente culposa, de 
 
 3 - (Revogado.)
 
-###### Artigo 194.º — Aplicação de penas aos contratados
+Artigo 194.º
+
+Aplicação de penas aos contratados
 
 1 - A aplicação de pena disciplinar de suspensão a docentes não pertencentes aos quadros determina a não renovação do contrato, podendo implicar a imediata cessação do contrato se o período de afastamento da função docente for igual ou superior ao período durante o qual, no âmbito desse contrato, exerceu funções.
 
 2 - A aplicação de penas disciplinares expulsivas a docentes não pertencentes aos quadros determina a incompatibilidade para o exercício de funções docentes nos estabelecimentos de educação ou de ensino públicos.
 
-### CAPÍTULO XX — Realização de estágios pedagógicos
+CAPÍTULO XX
 
-###### Artigo 195.º — Participação da escola no processo formativo
+Realização de estágios pedagógicos
+
+Artigo 195.º
+
+Participação da escola no processo formativo
 
 1 - A unidade orgânica que assuma o papel de escola cooperante, através do conselho executivo e do conselho pedagógico, acompanha todo o processo formativo dos alunos estagiários do ensino superior que sejam colocados em núcleos de estágio nela em funcionamento.
 
 2 - O regulamento interno da unidade orgânica pode estabelecer a constituição, pelo conselho pedagógico, de entre os seus membros, de uma comissão especializada de formação destinada, nomeadamente, ao acompanhamento da realização de estágios pedagógicos, a qual integra, por inerência, os orientadores cooperantes.
 
-###### Artigo 196.º — Realização de estágios integrados
+Artigo 196.º
+
+Realização de estágios integrados
 
 1 - Nas unidades orgânicas dependentes da administração regional autónoma, a realização de estágio pedagógico para obtenção da habilitação profissional para a docência depende de protocolo a celebrar entre o departamento da administração regional autónoma competente em matéria de educação e a instituição de ensino superior que ministra o curso.
 
@@ -3823,13 +4564,17 @@ Constitui infracção disciplinar a violação, ainda que meramente culposa, de 
 
 3 - Sem prejuízo do estabelecido no presente Estatuto e na legislação que regulamenta os cursos, compete à instituição de ensino superior, no respeito pelo que legalmente estiver fixado, a definição do modelo de estágio, sua duração e forma de avaliação.
 
-###### Artigo 197.º — Núcleos de estágio
+Artigo 197.º
+
+Núcleos de estágio
 
 1 - Os estágios são realizados em núcleos de estágio, coordenados por um orientador cooperante, podendo cada núcleo receber até três alunos estagiários.
 
 2 - Quando se trate de licenciaturas do tipo bidisciplinar, os núcleos de estágio a que se refere o número anterior são coordenados por dois orientadores cooperantes.
 
-###### Artigo 198.º — Designação do orientador cooperante
+Artigo 198.º
+
+Designação do orientador cooperante
 
 1 - O orientador cooperante é designado pelo presidente do conselho executivo, ouvidos os departamentos curriculares ou grupos disciplinares, tendo em conta o perfil definido pela instituição de ensino superior, de entre os docentes que prestem serviço na unidade orgânica com nomeação definitiva, no grupo de recrutamento no qual o aluno vai estagiar.
 
@@ -3837,7 +4582,9 @@ Constitui infracção disciplinar a violação, ainda que meramente culposa, de 
 
 3 - Nas licenciaturas bidisciplinares, cada um dos orientadores cooperantes é designado nos termos dos números anteriores.
 
-###### Artigo 199.º — Competências do orientador cooperante
+Artigo 199.º
+
+Competências do orientador cooperante
 
 Compete ao orientador cooperante:
 
@@ -3851,7 +4598,9 @@ d) Manter um acompanhamento constante da actividade do aluno estagiário, inform
 
 e) Elaborar e remeter à instituição de ensino superior responsável pela formação os relatórios, nos termos fixados por ela, contendo uma apreciação fundamentada do desempenho pelo aluno estagiário da função docente, nomeadamente nos domínios pedagógico e didáctico.
 
-###### Artigo 200.º — Gratificação e horário do orientador cooperante
+Artigo 200.º
+
+Gratificação e horário do orientador cooperante
 
 1 - Por cada aluno estagiário a seu cargo, o professor orientador cooperante recebe uma gratificação correspondente a 15 % do índice 100 da tabela remuneratória da carreira docente.
 
@@ -3861,11 +4610,15 @@ e) Elaborar e remeter à instituição de ensino superior responsável pela form
 
 4 - No âmbito da educação pré-escolar e do 1.º ciclo do ensino básico, nos casos em que o estágio seja realizado em regime que implique a sua repartição por mais de um ano escolar ou a sua realização em grupo, a gratificação prevista no n.º 1 é apenas devida uma vez por cada grupo de alunos, qualquer que seja o seu número.
 
-###### Artigo 201.º — Selecção dos alunos estagiários
+Artigo 201.º
+
+Selecção dos alunos estagiários
 
 Sem prejuízo do disposto no n.º 3 do artigo seguinte, compete à instituição de ensino superior seleccionar os alunos candidatos a estágio e proceder à sua distribuição pelos núcleos existentes.
 
-###### Artigo 202.º — Estatuto do aluno estagiário
+Artigo 202.º
+
+Estatuto do aluno estagiário
 
 1 - A permanência na escola dos alunos estagiários rege-se pelo que esteja estabelecido nos regulamentos da instituição de ensino superior e no regulamento interno da escola onde estagiam.
 
@@ -3887,7 +4640,9 @@ d) Quando se encontrem nas situações previstas nas alíneas b) e c), tal resul
 
 6 - Os alunos estagiários, mesmo quando não sejam bolseiros, podem adquirir refeições nas escolas onde estagiem ao preço fixado para os alunos que beneficiem do escalão menos favorável do apoio social escolar.
 
-###### Artigo 203.º — Actividade docente supervisionada
+Artigo 203.º
+
+Actividade docente supervisionada
 
 1 - O aluno estagiário participa, em regime de actividade docente supervisionada, sob a responsabilidade do orientador, em todas as tarefas que a este estejam atribuídas, referentes às turmas onde leccione, ou noutras, que o orientador possa colaborar e participar.
 
@@ -3905,15 +4660,21 @@ e) O aluno estagiário participa, sob supervisão directa do professor orientado
 
 f) O aluno estagiário participa, sem direito a voto, em todas as reuniões, formais ou informais, em que sejam tratadas matérias do foro disciplinar ou de avaliação referentes aos alunos da turma ou turmas a que esteja afecto.
 
-###### Artigo 204.º — Repetência e suas consequências
+Artigo 204.º
+
+Repetência e suas consequências
 
 1 - Nas escolas da rede pública, um aluno estagiário apenas pode repetir o estágio uma vez.
 
 2 - A exclusão por faltas e a desistência do aluno estagiário são consideradas como não aproveitamento, contando como tal para todos os efeitos, incluindo o limite estabelecido no número anterior.
 
-### CAPÍTULO XXI — Profissionalização em exercício
+CAPÍTULO XXI
 
-###### Artigo 205.º — Objecto e condições
+Profissionalização em exercício
+
+Artigo 205.º
+
+Objecto e condições
 
 1 - A profissionalização em exercício visa, nos termos do artigo 65.º da Lei de Bases do Sistema Educativo, assegurar aos docentes devidamente habilitados em exercício efectivo de funções educativas ou que, por necessidade do sistema, venham a ingressar nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, formação profissional equivalente à ministrada nas instituições de formação inicial, para os respectivos níveis de ensino.
 
@@ -3923,13 +4684,17 @@ f) O aluno estagiário participa, sem direito a voto, em todas as reuniões, for
 
 4 - Sem prejuízo do disposto nos artigos seguintes, a duração do processo de profissionalização em exercício, as suas componentes de formação, o regime de faltas, a avaliação e a certificação são os que estão fixados pelo [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), de 11 de Outubro.
 
-###### Artigo 206.º — Participação da escola no processo formativo
+Artigo 206.º
+
+Participação da escola no processo formativo
 
 1 - A unidade orgânica, através do conselho executivo e do conselho pedagógico, acompanha todo o processo formativo dos docentes que nela prestem serviço.
 
 2 - O regulamento interno da unidade orgânica pode estabelecer a constituição pelo conselho pedagógico, de entre os seus membros, de uma comissão especializada de formação destinada, entre outros aspectos, ao acompanhamento do processo de profissionalização em serviço.
 
-###### Artigo 207.º — Acesso à profissionalização em exercício
+Artigo 207.º
+
+Acesso à profissionalização em exercício
 
 1 - Para acesso à profissionalização em exercício, os docentes de nomeação provisória são ordenados, pela direcção regional competente em matéria de administração educativa, por grupo de recrutamento, de acordo com a sua graduação académica, computada nos mesmos termos que estiverem fixados para o concurso de ingresso aos lugares dos quadros de escola, de acordo com as seguintes prioridades:
 
@@ -3941,11 +4706,15 @@ b) Outros docentes de nomeação provisória nos quadros.
 
 3 - Os docentes são chamados para realizar a profissionalização em serviço por ordem decrescente de graduação na respectiva lista.
 
-###### Artigo 208.º — Oferta de profissionalização
+Artigo 208.º
+
+Oferta de profissionalização
 
 Em função das necessidades formativas do sistema educativo e da oferta formativa das instituições de ensino superior, antes do início de cada ano escolar, o director regional competente em matéria de administração educativa fixa, para cada grupo de recrutamento, o número de docentes a admitir à profissionalização.
 
-###### Artigo 209.º — Recusa ou interrupção de profissionalização
+Artigo 209.º
+
+Recusa ou interrupção de profissionalização
 
 1 - O docente que, nos termos do disposto nos artigos anteriores, seja chamado ou esteja em profissionalização apenas a pode recusar ou interromper quando se encontre numa das seguintes situações:
 
@@ -3955,11 +4724,15 @@ b) Esteja legalmente impedido por motivo de doença prolongada, nos termos do ar
 
 2 - O docente que não se encontre numa das condições previstas no número anterior e recuse realizar ou prosseguir a profissionalização é, à data do termo do ano escolar em que o facto ocorra, automaticamente exonerado do lugar do quadro em que se encontre provido, não relevando o ano em causa para o cumprimento do prazo fixado no artigo 217.º do presente Estatuto.
 
-###### Artigo 210.º — Componente lectiva
+Artigo 210.º
+
+Componente lectiva
 
 O docente em profissionalização beneficia da redução de seis horas semanais na componente lectiva a que estiver legalmente obrigado, devendo a atribuição de serviço docente e de horário satisfazer os requisitos que legalmente, ou por exigência da instituição de ensino superior, sejam considerados necessários para a realização das diversas componentes da profissionalização em serviço.
 
-###### Artigo 211.º — Formação em ciências da educação
+Artigo 211.º
+
+Formação em ciências da educação
 
 1 - A administração regional autónoma, através da direcção regional competente em matéria de administração educativa, contrata com as instituições de ensino superior legalmente habilitadas, para ministrar a formação em ciências da educação, a realização dos cursos necessários à profissionalização dos docentes dos seus quadros.
 
@@ -3971,7 +4744,9 @@ b) As despesas de transporte, alojamento e ajudas de custo devidas aos docentes 
 
 3 - Aos docentes em profissionalização compete o pagamento das propinas que eventualmente lhes sejam aplicáveis pelas instituições de ensino superior.
 
-###### Artigo 212.º — Projecto de formação e acção pedagógica
+Artigo 212.º
+
+Projecto de formação e acção pedagógica
 
 1 - Sempre que o processo de profissionalização envolva componentes de formação e acção pedagógica a realizar no âmbito da unidade orgânica, compete ao conselho pedagógico:
 
@@ -3981,7 +4756,9 @@ b) Designar, de entre os docentes que prestem serviço na escola com nomeação 
 
 2 - O professor com funções de orientação a que se refere a alínea b) do número anterior é designado por professor orientador.
 
-###### Artigo 213.º — Professor orientador
+Artigo 213.º
+
+Professor orientador
 
 1 - Compete ao professor orientador:
 
@@ -4003,7 +4780,9 @@ e) No termo do processo formativo, elaborar e remeter à instituição de ensino
 
 5 - O exercício das funções de professor orientador confere direito a uma redução de duas horas na componente lectiva semanal do seu horário por cada docente em profissionalização a acompanhar.
 
-###### Artigo 214.º — Repetição dos anos de formação
+Artigo 214.º
+
+Repetição dos anos de formação
 
 1 - O docente em profissionalização pode não ter aproveitamento apenas uma vez em cada um dos anos de formação.
 
@@ -4013,13 +4792,17 @@ e) No termo do processo formativo, elaborar e remeter à instituição de ensino
 
 4 - Quando durante o ano lectivo se verifique a exclusão por faltas, a desistência ou se conclua pelo não aproveitamento do docente em profissionalização, este deixa de imediato de beneficiar da redução da componente lectiva para profissionalização, devendo o conselho executivo atribuir-lhe serviço docente até completar o horário a que legalmente esteja obrigado.
 
-###### Artigo 215.º — Atribuição da classificação profissional
+Artigo 215.º
+
+Atribuição da classificação profissional
 
 1 - Terminada com sucesso a profissionalização em serviço, o director regional competente em matéria de administração educativa homologa a classificação profissional do docente em profissionalização.
 
 2 - A classificação profissional é publicada no Jornal Oficial, produzindo efeitos a 1 de Setembro do ano em que o docente em profissionalização conclua o processo de profissionalização.
 
-###### Artigo 216.º — Equivalência a componentes da profissionalização
+Artigo 216.º
+
+Equivalência a componentes da profissionalização
 
 1 - Os docentes que possuam um curso de qualificação em Ciências da Educação, ou outro que preencha os requisitos legalmente fixados para a componente de Ciências da Educação, realizado em instituição de ensino superior legalmente reconhecida, são dispensados da componente de ciências da educação.
 
@@ -4029,7 +4812,9 @@ e) No termo do processo formativo, elaborar e remeter à instituição de ensino
 
 4 - A classificação profissional é homologada e publicada nos termos do estabelecido no artigo anterior.
 
-###### Artigo 217.º — Dispensa da profissionalização
+Artigo 217.º
+
+Dispensa da profissionalização
 
 1 - Consideram-se dispensados da profissionalização em exercício os docentes de nomeação provisória dos quadros de escola da Região Autónoma dos Açores, com pelo menos três anos de serviço nessa situação, que satisfaçam uma das seguintes condições:
 
@@ -4049,13 +4834,17 @@ c) Tenham, pelo menos, 15 anos de bom e efectivo serviço prestado como docente 
 
 6 - Os docentes que sejam exonerados nos termos dos n.os 2 e 3 do artigo 214.º do presente Estatuto, não podem beneficiar do regime estabelecido nos números anteriores.
 
-###### Artigo 218.º — Profissionalização de docentes do ensino privado
+Artigo 218.º
+
+Profissionalização de docentes do ensino privado
 
 1 - Através de protocolo firmado entre o departamento da administração regional autónoma competente em matéria de educação e a entidade da qual dependa um estabelecimento de ensino particular, cooperativo ou solidário situado na Região Autónoma dos Açores, podem os seus docentes ser admitidos a profissionalização, nos mesmos termos dos docentes dos quadros do ensino oficial.
 
 2 - Os custos com a profissionalização dos docentes a que se refere o número anterior são suportados pela entidade da qual dependa o estabelecimento.
 
-###### Artigo 219.º — Círculos de profissionalização
+Artigo 219.º
+
+Círculos de profissionalização
 
 1 - As escolas de uma mesma ilha ou ilhas próximas podem associar-se com o objectivo de partilhar recursos e optimizar o processo de profissionalização em serviço dos seus docentes.
 
@@ -4063,11 +4852,17 @@ c) Tenham, pelo menos, 15 anos de bom e efectivo serviço prestado como docente 
 
 3 - Quando o disposto no número anterior não seja viável, pode ser autorizada pelo director regional competente em matéria de administração educativa, obtida concordância da instituição de ensino superior responsável pela profissionalização, a realização da componente de formação e acção pedagógica sob a orientação de um professor de outra unidade orgânica.
 
-### CAPÍTULO XXII — Organização e certificação da formação contínua dos docentes
+CAPÍTULO XXII
 
-#### SECÇÃO I — Princípios gerais
+Organização e certificação da formação contínua dos docentes
 
-###### Artigo 220.º — Objectivos
+SECÇÃO I
+
+Princípios gerais
+
+Artigo 220.º
+
+Objectivos
 
 A formação contínua tem como objectivos fundamentais:
 
@@ -4083,7 +4878,9 @@ e) O estímulo aos processos de mudança ao nível das escolas e dos território
 
 f) O apoio a programas de reconversão profissional, de mobilidade profissional e de complemento de habilitações.
 
-###### Artigo 221.º — Princípios da formação contínua
+Artigo 221.º
+
+Princípios da formação contínua
 
 A formação contínua assenta nos seguintes princípios:
 
@@ -4105,7 +4902,9 @@ h) Valorização da comunidade educativa;
 
 i) Associativismo docente, nas vertentes pedagógica, científica e profissional.
 
-###### Artigo 222.º — Efeitos
+Artigo 222.º
+
+Efeitos
 
 1 - As acções de formação contínua relevam para efeitos de apreciação curricular, só relevando para progressão na carreira docente quando satisfaçam cumulativamente as seguintes condições:
 
@@ -4119,9 +4918,13 @@ d) Sejam ministradas por formadores devidamente acreditados e enquadrados por um
 
 2 - Para efeitos de progressão na carreira docente, as acções de formação só relevam quando, à data da sua realização, os formandos se encontrem já inseridos nesta carreira.
 
-#### SECÇÃO II — Áreas e modalidades das acções de formação contínua
+SECÇÃO II
 
-###### Artigo 223.º — Áreas de formação
+Áreas e modalidades das acções de formação contínua
+
+Artigo 223.º
+
+Áreas de formação
 
 As acções de formação contínua incidem, nomeadamente, sobre:
 
@@ -4133,7 +4936,9 @@ c) Prática e investigação pedagógica e didáctica nos diferentes domínios d
 
 d) Formação pessoal, deontológica e sócio-cultural.
 
-###### Artigo 224.º — Modalidades de acções de formação contínua
+Artigo 224.º
+
+Modalidades de acções de formação contínua
 
 1 - As acções de formação contínua revestem as seguintes modalidades:
 
@@ -4161,27 +4966,37 @@ i) Boas práticas formativas.
 
 4 - Podem ainda ser equiparadas a formação contínua creditada, por despacho fundamentado do membro do Governo Regional competente em matéria da educação, eventos formativos que pela sua relevância científico-pedagógica contribuam para a qualidade da educação e do ensino do sistema educativo regional.
 
-###### Artigo 225.º — Organização das acções de formação
+Artigo 225.º
+
+Organização das acções de formação
 
 1 - As acções de formação contínua previstas no artigo anterior, à excepção da modalidade de seminário, têm uma duração mínima de quinze horas.
 
 2 - As acções referidas no número anterior podem ser organizadas por qualquer das entidades formadoras acreditadas nos termos do presente Estatuto.
 
-###### Artigo 226.º — Comunicação e divulgação
+Artigo 226.º
+
+Comunicação e divulgação
 
 1 - A realização de acções de formação contínua e a fixação da respectiva data são previamente comunicadas pela entidade formadora ao departamento da administração regional autónoma competente em matéria de educação.
 
 2 - Na divulgação de acções de formação contínua devem ser referidas as condições de frequência e de avaliação dos formandos, bem como os créditos a atribuir.
 
-#### SECÇÃO III — Avaliação, certificação e creditação
+SECÇÃO III
 
-###### Artigo 227.º — Avaliação das acções de formação
+Avaliação, certificação e creditação
+
+Artigo 227.º
+
+Avaliação das acções de formação
 
 1 - As acções de formação contínua são avaliadas pelo formando e pelo formador ou entidade formadora de modo a permitir a análise da sua adequação aos objectivos previamente definidos e da sua utilidade na formação contínua do docente.
 
 2 - A entidade formadora deve criar instrumentos de avaliação, proceder ao tratamento dos dados recolhidos e promover a divulgação dos respectivos resultados.
 
-###### Artigo 228.º — Avaliação dos formandos
+Artigo 228.º
+
+Avaliação dos formandos
 
 1 - As acções de formação contínua devem assegurar a avaliação individual do aproveitamento do formando.
 
@@ -4191,7 +5006,9 @@ i) Boas práticas formativas.
 
 4 - Do resultado da avaliação realizada nos termos dos números anteriores cabe recurso para o órgão científico-pedagógico da entidade formadora.
 
-###### Artigo 229.º — Avaliação nas modalidades de estágio e projecto
+Artigo 229.º
+
+Avaliação nas modalidades de estágio e projecto
 
 1 - Os estágios compreendidos na formação contínua de professores pressupõem o acompanhamento por um formador do estabelecimento ou do centro onde os mesmos se realizam, no qual se registe a avaliação do desempenho do professor durante o estágio, em relatório a elaborar para o efeito.
 
@@ -4199,7 +5016,9 @@ i) Boas práticas formativas.
 
 3 - A entidade formadora deve avaliar a participação dos professores na concepção, desenvolvimento e realização dos projectos.
 
-###### Artigo 230.º — Certificação das acções de formação
+Artigo 230.º
+
+Certificação das acções de formação
 
 1 - As entidades formadoras emitem certificados das acções de formação contínua que ministram, desde que se encontrem satisfeitas as condições de frequência e de aproveitamento previamente definidas e divulgadas.
 
@@ -4211,15 +5030,21 @@ i) Boas práticas formativas.
 
 5 - Quando a acção de formação revista as modalidades de estágio ou de projecto, o certificado deve referir ainda o local onde os mesmos se realizaram.
 
-###### Artigo 231.º — Créditos de formação
+Artigo 231.º
+
+Créditos de formação
 
 1 - Às acções de formação contínua são atribuídos créditos para efeitos de progressão na carreira docente, de acordo com o número de horas da acção, dividido pelo coeficiente 25.
 
 2 - O quociente resultante da divisão prevista no número anterior é contabilizado até às décimas.
 
-#### SECÇÃO IV — Oferta de formação
+SECÇÃO IV
 
-###### Artigo 232.º — Entidades formadoras
+Oferta de formação
+
+Artigo 232.º
+
+Entidades formadoras
 
 1 - São entidades formadoras:
 
@@ -4239,17 +5064,25 @@ e) Empresas de formação devidamente acreditadas, cuja intervenção seja consi
 
 4 - Podem ser criados centros de formação de natureza mista envolvendo entidades formadoras públicas e não públicas.
 
-###### Artigo 233.º — Instituições de ensino superior
+Artigo 233.º
+
+Instituições de ensino superior
 
 As instituições de ensino superior legalmente constituídas podem realizar acções de formação contínua, por iniciativa própria, ou mediante a celebração de protocolos, contratos-programa e contratos de formação, nos termos previstos no presente Estatuto.
 
-###### Artigo 234.º — Participação das instituições de ensino superior
+Artigo 234.º
+
+Participação das instituições de ensino superior
 
 Mediante adequada contratualização, os centros de formação de associação de escolas e, no âmbito da sua actuação supletiva, os serviços da administração educativa, podem adquirir consultadoria científica e metodológica a instituições de ensino superior.
 
-#### SECÇÃO V — Processos de acreditação e estatuto do formador
+SECÇÃO V
 
-###### Artigo 235.º — Acreditação das entidades formadoras
+Processos de acreditação e estatuto do formador
+
+Artigo 235.º
+
+Acreditação das entidades formadoras
 
 1 - Sem prejuízo do disposto no número seguinte, as entidades que, nos termos e para os efeitos do presente Estatuto, pretendam realizar acções de formação contínua devem sujeitar-se a um processo de acreditação.
 
@@ -4275,7 +5108,9 @@ d) Destinatários das acções de formação a realizar.
 
 6 - O prazo para decisão sobre o pedido de acreditação das entidades formadoras é de 60 dias, findo o qual se presume o deferimento tácito.
 
-###### Artigo 236.º — Acreditação de acções de formação
+Artigo 236.º
+
+Acreditação de acções de formação
 
 1 - A acreditação de acções de formação é requerida ao departamento da administração regional autónoma competente em matéria de educação, devendo a entidade requerente indicar os seguintes elementos, referentes às acções a acreditar:
 
@@ -4297,7 +5132,9 @@ g) Forma de avaliação da acção e dos formandos.
 
 3 - O prazo para decisão sobre o pedido de acreditação das acções de formação é de 30 dias, findo o qual se presume o deferimento tácito.
 
-###### Artigo 237.º — Requisitos
+Artigo 237.º
+
+Requisitos
 
 1 - Consideram-se formadores acreditados, no âmbito das áreas de formação previstas no artigo 223.º, os indivíduos que possuam uma das seguintes habilitações:
 
@@ -4323,7 +5160,9 @@ b) Curso de formação de formadores com duração superior a cento e vinte hora
 
 4 - O estatuto de formador a que se referem os números anteriores é concedido, por um período de seis anos, renovável e para uma determinada área de formação, a qual deve constar explicitamente do respectivo processo e do documento autorizador.
 
-###### Artigo 238.º — Estatuto do formador de centro de formação
+Artigo 238.º
+
+Estatuto do formador de centro de formação
 
 1 - Aos formadores dos centros de formação das associações de escolas é atribuída a remuneração devida pelas acções de formação que orientem.
 
@@ -4331,9 +5170,13 @@ b) Curso de formação de formadores com duração superior a cento e vinte hora
 
 3 - Para a realização das acções de formação, os formadores devem solicitar a autorização prévia da instituição a que se encontram vinculados.
 
-#### SECÇÃO VI — Administração da formação contínua e apoio à sua realização
+SECÇÃO VI
 
-###### Artigo 239.º — Orientação da formação contínua de professores
+Administração da formação contínua e apoio à sua realização
+
+Artigo 239.º
+
+Orientação da formação contínua de professores
 
 1 - Cabe ao departamento da administração regional autónoma competente em matéria de educação orientar globalmente a formação contínua do pessoal docente através:
 
@@ -4347,7 +5190,9 @@ c) Da coordenação, administração e avaliação do sistema de formação cont
 
 3 - Até 90 dias após o termo de cada triénio e após o termo de cada programa de formação que tenha sido criado nos termos do presente Estatuto, o departamento da administração regional autónoma competente em matéria de educação apresenta um relatório circunstanciado da sua execução e resultados ao conselho coordenador do sistema educativo.
 
-###### Artigo 240.º — Intervenção da administração educativa
+Artigo 240.º
+
+Intervenção da administração educativa
 
 1 - No âmbito da gestão administrativa do processo de formação contínua, cabe ao departamento da administração regional autónoma competente em matéria de educação:
 
@@ -4361,7 +5206,9 @@ d) Promover a cooperação interinstitucional de modo a adequar a oferta à proc
 
 2 - Cabe aos serviços de tutela inspectiva da educação, o controlo e a inspecção das actividades de formação contínua previstas no presente Estatuto.
 
-###### Artigo 241.º — Irregularidades
+Artigo 241.º
+
+Irregularidades
 
 1 - Detectada a ocorrência de irregularidades nos processos de formação em curso, os formandos ou formadores, os conselhos executivos das unidades orgânicas ou os serviços da administração educativa comunicam a ocorrência aos serviços de tutela inspectiva da educação, entidade que procede à averiguação dos factos, dando-lhe o encaminhamento que legalmente caiba face ao ocorrido.
 
@@ -4371,13 +5218,17 @@ d) Promover a cooperação interinstitucional de modo a adequar a oferta à proc
 
 4 - O não cumprimento pelos centros ou pelos formadores neles integrados dos deveres a que estão sujeitos dá lugar, conforme a sua gravidade, à suspensão temporária da acreditação ou ao seu cancelamento definitivo, sem prejuízo da efectivação da responsabilidade disciplinar, civil ou criminal que ao caso couber.
 
-###### Artigo 242.º — Encargos com as acções de formação contínua
+Artigo 242.º
+
+Encargos com as acções de formação contínua
 
 1 - Os encargos com as acções de formação contínua promovidas integralmente pelos centros de formação de associação de escolas podem ser suportados por estes ou comparticipados pelos professores, de acordo com a natureza obrigatória ou facultativa das acções e por decisão dos conselhos executivos das unidades orgânicas associadas.
 
 2 - Os encargos com as acções de formação promovidas por outras entidades formadoras são assegurados pelos professores, pela entidade formadora, ou por ambos, de acordo com a decisão da entidade formadora ou em resultado do previamente acordado entre as entidades envolvidas.
 
-###### Artigo 243.º — Apoio às acções de formação
+Artigo 243.º
+
+Apoio às acções de formação
 
 1 - A fim de viabilizar a execução de acções de formação contínua, são celebrados contratos-programa com os centros de formação de associação de escolas para apoio às referidas acções.
 
@@ -4391,7 +5242,9 @@ d) Promover a cooperação interinstitucional de modo a adequar a oferta à proc
 
 6 - Sem prejuízo do disposto nos números anteriores, devem ser preferencialmente apoiadas as acções inseridas em programas regionais de formação que se considerem prioritários.
 
-###### Artigo 244.º — Apoio indirecto à formação
+Artigo 244.º
+
+Apoio indirecto à formação
 
 1 - O departamento da administração regional autónoma competente em matéria de educação pode apoiar com recursos humanos as instituições públicas de ensino superior que procedam a formação de professores.
 
@@ -4399,7 +5252,9 @@ d) Promover a cooperação interinstitucional de modo a adequar a oferta à proc
 
 3 - As instituições apoiadas devem divulgar os apoios recebidos, bem como fixar preços de formação que tenham em conta o apoio que lhes foi concedido.
 
-###### Artigo 245.º — Efeitos da formação contínua
+Artigo 245.º
+
+Efeitos da formação contínua
 
 1 - A formação contínua realizada pelo docente, na qualidade de formador ou de formando, é obrigatoriamente considerada na avaliação do seu desempenho.
 
@@ -4411,13 +5266,19 @@ d) Promover a cooperação interinstitucional de modo a adequar a oferta à proc
 
 5 - Aos docentes que se encontrem integrados no topo da carreira não é exigida formação contínua que corresponda a um número mínimo de créditos mas, por período avaliativo, a frequência de formação contínua com aproveitamento.
 
-### CAPÍTULO XXIII — Disposições finais
+CAPÍTULO XXIII
 
-###### Artigo 246.º — Aposentação
+Disposições finais
+
+Artigo 246.º
+
+Aposentação
 
 São aplicáveis ao pessoal docente os Estatutos da Aposentação e das Pensões de Sobrevivência dos Funcionários e Agentes da Administração Pública, nos mesmos termos que estiverem fixados para os docentes dependentes da administração central.
 
-###### Artigo 247.º — Contagem do tempo de serviço
+Artigo 247.º
+
+Contagem do tempo de serviço
 
 1 - Sem prejuízo do disposto nos números seguintes, a contagem do tempo de serviço do pessoal docente, incluindo o prestado em regime de tempo parcial, considerado para efeitos de antiguidade, obedece às regras aplicáveis aos funcionários e agentes da administração regional autónoma.
 
@@ -4429,7 +5290,9 @@ São aplicáveis ao pessoal docente os Estatutos da Aposentação e das Pensões
 
 5 - Para os efeitos do número anterior, é também considerado o tempo de serviço docente prestado em escolas da rede pública de outros sistemas educativos, desde que devidamente certificado pela entidade consular portuguesa relevante.
 
-###### Artigo 248.º — Docentes do ensino superior, particular, cooperativo e solidário
+Artigo 248.º
+
+Docentes do ensino superior, particular, cooperativo e solidário
 
 1 - O ingresso na carreira dos docentes oriundos do ensino superior, particular, cooperativo e solidário efectua-se, com respeito pelas regras gerais constantes do presente Estatuto, para o escalão que lhes competiria caso tivessem ingressado na rede pública nos correspondentes níveis determinados pela respectiva habilitação.
 
@@ -4437,34 +5300,48 @@ São aplicáveis ao pessoal docente os Estatutos da Aposentação e das Pensões
 
 3 - O período probatório realizado no ensino particular, cooperativo e solidário de qualquer nível e no ensino superior é válido para efeitos de provimento definitivo na carreira docente quando a instituição onde ele se realize esteja para tal acreditada pelo director regional competente em matéria de administração educativa.
 
-###### Artigo 249.º — Compensação de itinerância
+Artigo 249.º
+
+Compensação de itinerância
 
 Quando, comprovadamente, o exercício das funções implique itinerância e o docente não esteja abrangido pelo disposto no n.º 5 do artigo 96.º do [Decreto Legislativo Regional n.º 12/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2005-227009), de 16 de Junho, na redacção que lhe foi dada pelo [Decreto Legislativo Regional n.º 35/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2006-539978), de 6 de Setembro, é abonado de ajudas de custo e subsídio de transporte nos termos da lei geral.
 
-###### Artigo 250.º — Docentes profissionalizados com bacharelato
+Artigo 250.º
+
+Docentes profissionalizados com bacharelato
 
 As disposições constantes do presente Estatuto, bem como os efeitos delas decorrentes, previstas para os docentes portadores de habilitação profissional com licenciatura, são igualmente aplicáveis a docentes profissionalizados integrados na carreira com o grau de bacharel ou equivalente, bem como aos docentes dispensados da profissionalização.
 
-###### Artigo 251.º — Formulários de registo
+Artigo 251.º
+
+Formulários de registo
 
 1 - Para cada docente é criado um registo biográfico em suporte adequado, o qual é mantido permanentemente actualizado pelos serviços administrativos da unidade orgânica do sistema educativo onde o docente preste serviço, sendo disponibilizado, com reserva dos direitos de privacidade, aos serviços da direcção regional competente em matéria de administração educativa e aos serviços responsáveis pela manutenção do cadastro central dos funcionários e agentes da administração regional autónoma.
 
 2 - O formulário a que se refere o número anterior é aprovado pelo director regional competente em matéria de administração educativa, no respeito pelas normas legalmente aplicáveis e pelas orientações emanadas do departamento da administração regional autónoma competente em matéria de Administração Pública legalmente aplicáveis.
 
-###### Artigo 252.º — Docentes em outros serviços
+Artigo 252.º
+
+Docentes em outros serviços
 
 A avaliação do desempenho dos docentes que prestem serviço nos serviços de saúde e de apoio social dependentes da administração regional autónoma dos Açores rege-se pelo disposto no presente Estatuto, podendo, quando o considerem necessário, recorrer ao apoio da unidade orgânica que, para o nível de educação ou ensino em causa, sirva a área onde estejam situados os serviços.
 
-###### Artigo 253.º — Correspondência orgânica
+Artigo 253.º
+
+Correspondência orgânica
 
 As competências atribuídas pela lei aos Ministros das Finanças, da Educação e da Saúde em matéria de gestão do pessoal docente são exercidas na Região Autónoma dos Açores pelos membros do Governo Regional competentes em matéria de finanças, educação e saúde.
 
-## ANEXO I — Índices remuneratórios da carreira docente
+ANEXO I
+
+Índices remuneratórios da carreira docente
 
 (a que se refere o artigo 85.º do Estatuto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07600/0232402387.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07600/0232402387.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07600/0232402387.pdf)
 
-## ANEXO II — (lista a que se refere o n.º 3 do artigo 128.º)
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07600/0232402387.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07600/0232402387.pdf)
+(lista a que se refere o n.º 3 do artigo 128.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07600/0232402387.pdf)

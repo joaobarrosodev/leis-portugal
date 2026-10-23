@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/119b00/23282333.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2000/05/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2000-300047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d772c67372f180a2af753376891632c7cf538a9ce2c654855975e4226b9b68a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0c15fbf1e5e682dddd23d0e712794d042d7e7d307f392f1f75ed600bb558f20
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Apoio Técnico
 - Financiamento
-- Publicidade
-- Imóvel Classificado
-- Obras de Conservação e Restauro
 - Fiscalização
 - Gabinete da ZONA Classificada de Angra do Heroísmo
-- Zona de Proteção
+- Imóvel Classificado
+- Obras de Conservação e Restauro
 - Protecção do Património
+- Publicidade
 - Relatório
 - Sanção
-- Açores
 - Subsídio não Reembolsável
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:70867667:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218504:por
+  label: "Até que entre em vigor o diploma a que se refere o n.º 2 do art. 31.º do DLR.15/2004/A.12.03.2004.ALR-RAA, DR.IS-A\
+    \ [82] de 06.04.2004 é mantido em vigor o presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2004-218504
+  date: '2004-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/22/1999/07/31/a/dre
   label: null
@@ -101,16 +107,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/4/1996/02/13/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/4/1996/02/13/a/dre
+- type: cites
+  target: pt:dre:346706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663281:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70867667:por
+  label: Revogado, a partir de 31.10.2015, pelo(a) Decreto Regulamentar Regional n.º 25/2015/A - Diário da República n.º 213/2015,
+    Série I de 2015-10-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2015-70867667
+  date: '2015-10-30'
 article_structure:
   article_count: 29
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:13Z'
   warnings: []
   errors: []
 ---
@@ -389,10 +421,10 @@ Para os efeitos do presente diploma, considera-se que um imóvel está em estrit
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 15 de Março de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 14 de Abril de 2000.**
+Assinado em Angra do Heroísmo em 14 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

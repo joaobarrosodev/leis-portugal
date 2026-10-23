@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2012/03/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2012-553896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3bcf3128a5c746d6ca9eb03097c2a8efcd2a7b65227c039d5c4a836c061c470
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab65e05786ba7edac6bb078b6ebb2f9eb1e0270a4ebd9383e2f5c468213ced79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Câmara Municipal
 - Espetáculos e Divertimentos Públicos
 - Fiscalização
 - Licenciamento
 - Tauromaquia
-- Câmara Municipal
-- Açores
-- Touro de LIDE
 - Tourada
+- Touro de LIDE
 relationships:
 - type: amended_by
   target: pt:dre:115276180:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115276180:por
+  label: Alterados os arts. 6.º, 42.º, 43.º, 44.º, 45.º, 46.º, 47.º, 48.º, 49.º, 50.º, 51.º, 52.º, 53.º, 54.º, 56.º, 57.º,
+    58.º, 59.º, 60.º, 61.º, 62.º, 63.º, 64.º, 65.º, 66.º, 67.º, 69.º, 70.º, 71.º, 72.º, 73.º, 74.º, 76.º, 77.º, 78.º, 79.º
+    e 80.º; aditados os arts. 57.º-A, 72.º-A, 77.º-A, 79.º-A, 79.º-B, 79.º-C, 79.º-D, 79.º-E, 79.º-F, 79.º-G, 79.º-H e 79.º-I;
+    e revogados o n.º 2 do art. 6.º, as als. e), f), l) e m) do art. 43.º, o n.º 4 do art. 44.º, o n.º 2 do art. 45.º, os
+    n.ºs 5 e 6 do art. 46.º, a al. e) do n.º 1 do art. 47.º, o n.º 3 do art. 49.º, os n.ºs 2 e 3 do art. 52.º, o art. 55.º,
+    o n.º 2 do art. 62.º, a al. f) do n.º 8 do art. 63.º, o n.º 3 do art. 65.º, o art. 68.º, o n.º 8 do art. 72.º, e os n.ºs
+    9 e 10 do art. 79.º do DLR 37/2008/A de 05-ago, na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 5/2018/A - Diário da República n.º 91/2018, Série I de 2018-05-11, que o republicou no anexo I, na redação
+    atual.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2018-115276180
+  date: '2018-05-11'
 - type: cites
   target: celex:32004R0852
   label: null
@@ -92,15 +105,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/37/2008/08/05/a/dre
 article_structure:
-  article_count: 133
+  article_count: 129
   section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:29Z'
   warnings: []
   errors: []
 ---
@@ -149,11 +162,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de fevereiro de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 12 de março de 2012.**
+Assinado em Angra do Heroísmo em 12 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1079,7 +1092,9 @@ Objeto
 
 Constitui objeto do presente diploma a definição do regime específico de exercício da polícia administrativa a cargo da Região Autónoma dos Açores, bem como o licenciamento de jogos que não sejam de fortuna ou azar nem modalidades afins.
 
-###### Artigo 2.º — Competências de polícia administrativa
+Artigo 2.º
+
+Competências de polícia administrativa
 
 1 - Na Região as competências de polícia administrativa são exercidas nos termos da estrutura orgânica do Governo Regional.
 
@@ -1087,7 +1102,9 @@ Constitui objeto do presente diploma a definição do regime específico de exer
 
 3 - ...
 
-###### Artigo 4.º — Registo de hóspedes
+Artigo 4.º
+
+Registo de hóspedes
 
 1 - ...
 
@@ -1099,13 +1116,17 @@ Constitui objeto do presente diploma a definição do regime específico de exer
 
 5 - (Revogado.)
 
-###### Artigo 22.º — Regulamentação
+Artigo 22.º
+
+Regulamentação
 
 1 - ...
 
 2 - O regulamento a que se refere o número anterior é da competência da entidade competente para o licenciamento.
 
-###### Artigo 30.º — Infrações em matéria de condicionamentos
+Artigo 30.º
+
+Infrações em matéria de condicionamentos
 
 1 - ...
 

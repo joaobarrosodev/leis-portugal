@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2012/02/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2012-542981
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f74e1d934d742a5c6866a746971c4ab9a29caa43733c358ff4cbc564e7d558c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f5494ef12b117162dc936eae05784e36f2e9791a216efd80fd6f12a5348bbb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ordenamento do Território
 - Plano Director Municipal
 - Ponta Delgada
 - Regulamento
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:114771734:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25676927:por
+  label: "Alterada a área da suspensão do Plano Diretor Municipal de Ponta Delgada, conforme os limites representados nas\
+    \ plantas identificadas como anexos I, II e III, ratificado pelo DRR 16/2007/A, de 13-ago, na redação presente diploma,\
+    \ pelo DRR.8/2014/A.23.06.2014.PG-RAA, DR.IS [118] de 23.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2014-25676927
+  date: '2014-06-23'
+- type: amended_by
+  target: pt:dre:114771734:por
+  label: Suspenso, no referente à àrea assinalada nas plantas pertencentes aos Anexos I e II, o Plano Diretor Municipal de
+    Ponta Delgada, ratificado pelo DRR 16/2007/A de 13-ago, com a redação dada pelo presente diploma, pelo(a) Decreto Regulamentar
+    Regional n.º 4/2018/A - Diário da República n.º 41/2018, Série I de 2018-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2018-114771734
+  date: '2018-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/2011/01/06/p/dre
   label: null
@@ -103,16 +117,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869781:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:07Z'
   warnings: []
   errors: []
 ---
@@ -175,16 +221,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de janeiro de 2012.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 9 de fevereiro de 2012.**
+Assinado em Angra do Heroísmo em 9 de fevereiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03600/0082100823.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03600/0082100823.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03600/0082100823.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03600/0082100823.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03600/0082100823.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03600/0082100823.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03600/0082100823.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03600/0082100823.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03600/0082100823.pdf)

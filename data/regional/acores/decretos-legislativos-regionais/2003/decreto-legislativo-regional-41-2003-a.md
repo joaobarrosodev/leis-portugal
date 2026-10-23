@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/41/2003/11/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2003-468405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2c082b723e7c4663587b601d0daf35f208fff51dc023660a913a5fcd6abe1c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62a813e0467eb9eeed9fe2309e1f4cf64ef838db5010de569071e53030170478
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Estatuto
-- Política de Saúde
-- Instituto de Gestão Financeira da Saúde
-- Saudaçor
-- Integração de Trabalhadores
-- Serviço Regional de Saúde
 - Açores
+- Estatuto
+- Instituto de Gestão Financeira da Saúde
+- Integração de Trabalhadores
+- Política de Saúde
+- Reestruturação de Serviços
+- Saudaçor
+- Serviço Regional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:126207403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522648:por
+  label: "Alterado o art. 5º do DLR 28/99/A de 31-Jul, com a redacção do presente diploma, pelo DLR.2/2007/A.18.12.2006.AL-RAA,\
+    \ DR.IS [17] de 24.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2007-522648
+  date: '2006-12-18'
+- type: amended_by
+  target: pt:dre:126207403:por
+  label: Determinada a partir de 23.12.2019, a extinção da SAUDAÇOR - Sociedade Gestora de Recursos e Equipamentos da Saúde
+    dos Açores, S. A., e revogado o DLR 41/2003/A, de 06-nov DR.IS-A [257], com exceção dos Estatutos aprovados em anexo áquele
+    diploma, que se mantêm em vigor até à data de conclusão do processo de extinção, pelo(a) Decreto Legislativo Regional
+    n.º 25/2019/A - Diário da República n.º 220/2019, Série I de 2019-11-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-2019-126207403
+  date: '2019-11-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
   label: null
@@ -108,16 +122,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/22/1998/07/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/22/1998/07/15/a/dre
+- type: cites
+  target: pt:dre:141225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 47
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:54Z'
   warnings: []
   errors: []
 ---
@@ -334,13 +380,13 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 19 de Setembro de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 17 de Outubro de 2003.**
+Assinado em Angra do Heroísmo em 17 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — ESTATUTOS DA SAUDAÇOR - SOCIEDADE GESTORA DE RECURSOS E EQUIPAMENTOS DA SAÚDE DOS AÇORES, S. A.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2007/07/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc3d27c401a07b894ba3f906d9fd83bd31e82df135d90feeae2f071abb36bc96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 484e1670b3252116143273a7c1ed15c95009011f3e0d88e3a2875dd090adfd68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,48 +65,144 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Investigação Científica e Tecnológica
-- Transporte Marítimo
+- Açores
+- Apoio ao Investimento
+- Comércio
 - Comparticipação
 - Contrato
+- Desenvolvimento Económico
+- Desenvolvimento Local
 - Desenvolvimento Regional
 - Energia Renovável
 - Equipamento Social
-- Estabelecimento de Restauração
-- Fiscalização
-- Apoio ao Investimento
-- Indústria
-- Desenvolvimento Económico
-- Urbanismo
 - Estabelecimento de Ensino
-- Desenvolvimento Local
+- Estabelecimento de Restauração
+- Financiamento
+- Fiscalização
+- Indústria
+- Infraestrutura Turística
+- Investigação Científica e Tecnológica
 - Sider
-- Açores
 - Subsídio
 - Subsídio não Reembolsável
-- Comércio
-- Infraestrutura Turística
+- Transporte Marítimo
+- Turismo
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:169491470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604643:por
+  label: "Alterados os art.s 3º e 4º e aditados os art.s 9º-A e 14º-A, pelo DLR.2/2009/A.02.03.2009.AL-RAA, DR.IS [42] de\
+    \ 02.03.2009, que o republica\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2009-604643
+  date: '2009-03-02'
+- type: amended_by
+  target: pt:dre:611938:por
+  label: "Alterados os arts. 3.º, 4.º (ambos na redacção do DLR 2/2009/A, de 02-Mar), 5.º, 7.º, 19.º, 24.º, 29.º e 34.º do\
+    \ presente diploma, pelo DLR.10/2010/A.16.03.2010.AL-RAA, DR.IS [52] de 16.03.2010, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2010-611938
+  date: '2010-03-16'
+- type: amended_by
+  target: pt:dre:146559:por
+  label: "Alterados os arts. 3.º (na redacção do DLR 2/2009/A, de 02-Mar e do DLR 10/2010/A, de 16-Mar), 5.º (na redacção\
+    \ do DLR 10/2010/A, de 16-Mar), 6.º, 8.º, 9.º, 12.º, 14.º, 15.º, 16.º, 17.º, 19.º (na redacção do DLR 10/2010/A, de 16-Mar),\
+    \ 20.º, 21.º, 22.º, 23.º, 24.º(na redacção do DLR 10/2010/A, de 16-Mar), 26.º, 27.º, 28.º, 29.º(na redacção do DLR 10/2010/A,\
+    \ de 16-Mar), 31.º, 32.º, 33.º, 34.º(na redacção do DLR 10/2010/A, de 16-Mar), 36.º, 37.º e 38.º e revogadas as als g)\
+    \ e h) do n.º 1 do art. 26.º, pelo DLR.26/2011/A.04.11.2011.AL-RAA, DR.IS [212] de 04.11.2011, que o republica e renumera\
+    \ em anexo \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2011-146559
+  date: '2011-11-04'
+- type: amended_by
+  target: pt:dre:544588:por
+  label: "Dada nova redação ao art. 15º (alterado pelo DLR 26/2011/A de 04-Nov) pelo DLR.3/2012/A.13.01.2012.AL-RAA, DR.IS\
+    \ [10] de 13.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2012-544588
+  date: '2012-01-13'
+- type: amended_by
+  target: pt:dre:260390:por
+  label: "Suspensa, durante o ano de 2013, a obrigação de reembolso de incentivo, prevista no nº 3 do art. 22º, no nº 3 do\
+    \ art. 27º e no nº 4 do art. 32º; e dada nova redação ao art. 40º pelo DLR.2/2013/A.22.04.2013.AL-RAA, DR.IS [78] de 22.04.2013\0\
+    3\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2013-260390
+  date: '2013-04-22'
+- type: amended_by
+  target: pt:dre:570685:por
+  label: "Suspensa, durante o ano de 2014, a obrigação de reembolso de incentivo (nos termos definidos no nº 2 do art. 39.º\
+    \ do DLR 2/2014/A), prevista no nº 3 do art. 22.º, nº 3 do art. 27.º e n.º 4 do art. 32.º (todos alterados pelos DLR 26/2011/A\
+    \ de 04-nov) e dada nova redação ao art. 40.º (alterado pelo DLR 2/2013/A de 22-abr) do presente diploma, republicado\
+    \ pelo citado DLR 26/2011/A, pelo DLR.2/2014/A.29.01.2014.AL-RAA, DR.IS [20] de 29.01.2014\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2014-570685
+  date: '2014-01-29'
+- type: amended_by
+  target: pt:dre:66041469:por
+  label: Suspensa, durante o ano de 2015 (nos termos do disposto no n.º 2 do art. 35.º do DLR 1/2015/A) a obrigação de reembolso
+    de incentivo prevista no n.º 3 do art. 22.º, no n.º 3 do art. 27.º e no n.º 4 do art. 32.º do presente diploma; e dada
+    nova redação ao art. 40.º do presente diploma (alterado pelo DLR 2/2013/A de 22-abr e pelo DLR 2/2014/A de 29-jan) pelo(a)
+    Decreto Legislativo Regional n.º 1/2015/A - Diário da República n.º 4/2015, Série I de 2015-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2015-66041469
+  date: '2015-01-07'
+- type: amended_by
+  target: pt:dre:73070297:por
+  label: Suspensa, durante o ano de 2016, nos termos do disposto no art. 36.º do DLR 1/2016/A de 08-jan, a obrigação de reembolso
+    de incentivo prevista no n.º 3 do art. 22.º, no n.º 3 do art. 27.º e no n.º 4 do art 32.º do presente diploma; e alterados
+    os arts. 15.º (com a redação dada pelo DLR 26/2011/A de 04-nov e pelo DLR 3/2012/A de 13-jan) e 40.º (com a redação dada
+    pelo DLR 2/2013/A de 22-abr, pelo DLR 2/2014/A de 29-jan e pelo DLR 1/2015/A de 07-jan), ambos do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2016-73070297
+  date: '2016-01-08'
+- type: amended_by
+  target: pt:dre:106874649:por
+  label: Suspenso, durante o ano de 2017, a obrigação de reembolso de incentivo prevista no n.º 3 do art. 22.º, no n.º 3 do
+    art. 27.º e no n.º 4 do art 32.º do DLR 19/2007/A de 23-jul DR.IS [140] pelo(a) Decreto Legislativo Regional n.º 3/2017/A
+    - Diário da República n.º 74/2017, Série I de 2017-04-13, nos termos do disposto no art. 41.º do presente diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2017-106874649
+  date: '2017-04-13'
+- type: amended_by
+  target: pt:dre:135056056:por
+  label: Suspensa a partir de 11.03.2020, a devolução das prestações do incentivo reembolsável, previsto no n.º 3 do art.
+    27.º e n.º 4 do art. 32.º do presente diploma, pelo(a) Decreto Legislativo Regional n.º 12/2020/A - Diário da República
+    n.º 108/2020, Série I de 2020-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2020-135056056
+  date: '2020-06-03'
+- type: amended_by
+  target: pt:dre:158507584:por
+  label: Diferida a obrigação de devolução das prestações vincendas até 30.06.2021 relativas a incentivo reembolsável concedido
+    no âmbito do SIDER - Sistema de Incentivos para o Desenvolvimento Regional dos Açores, Subsistema de Apoio ao Desenvolvimento
+    do Turismo, criado pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 2/2021/A - Diário da República n.º
+    41/2021, Série I de 2021-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2021-158507584
+  date: '2021-03-01'
+- type: amended_by
+  target: pt:dre:169491470:por
+  label: Diferida a obrigação de devolução das prestações vincendas, até 30.06.2022, relativas ao incentivo reembolsável concedido
+    no âmbito do SIDER - Sistema de Incentivos para o Desenvolvimento Regional dos Açores, Subsistema de Apoio ao Desenvolvimento
+    do Turismo pelo(a) Decreto Legislativo Regional n.º 28/2021/A - Diário da República n.º 156/2021, Série I de 2021-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2021-169491470
+  date: '2021-08-12'
 - type: cites
   target: celex:32006R1998
   label: null
   source: http://data.europa.eu/eli/reg/2006/1998/oj
+- type: repealed_by
+  target: pt:dre:25345896:por
+  label: Revogado, a partir de 01.07.2014, o presente diploma, na redação dos DLR n.ºs 2/2009/A, de 02- mar, 10/2010/A, de
+    16-mar e 26/2011/A, de 04-nov, pelo(a) Decreto Legislativo Regional n.º 12/2014/A - Diário da República n.º 130/2014,
+    Série I de 2014-07-09, sem prejuízo do disposto no seu art. 25º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2014-25345896
+  date: '2014-07-09'
 article_structure:
   article_count: 41
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:38Z'
   warnings: []
   errors: []
 ---
@@ -743,10 +839,10 @@ O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicaç
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 13 de Junho de 2007.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 5 de Julho de 2007.**
+Assinado em Angra do Heroísmo em 5 de Julho de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

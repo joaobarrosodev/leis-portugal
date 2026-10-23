@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/1994/01/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1994-497795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94fb6755d8a2b8865f07a16308cfd5d253ec652f418457a2ce495842de621cf8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a19febbc08bf7c19295c7ce117215b8bef7a7b1706b9434fe91ef031a4283cea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/52/1991/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/52/1991/01/25/p/dre
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508452:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:30Z'
   warnings: []
   errors: []
 ---
@@ -116,10 +124,10 @@ O disposto no [Decreto-Lei n.º 52/91](https://diariodarepublica.pt/dr/detalhe/d
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Dezembro de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 14 de Janeiro de 1994.**
+Assinado em Angra do Heroísmo em 14 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 294/1998, 1º Suplemento, Série I-A de 1998-12-22
   number: '294'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7098-(2) a 7098-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/12/294a01/00020012.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26-a/1998/12/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-a-1998-645077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26ec125b1ca21c47b9411db4e52eded98e5d308a1f975cf7839490ac9293efe3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f930b91ce7050204a4147fc7f4350753fae37cb6677bb28d56dd402b8541696
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Alteração Orçamental
 - Autorização de Despesas
-- Governo Regional
 - Escola de Hotelaria e Turismo
 - Escola Profissional
-- Orçamento Regional
+- Governo Regional
 - Madeira.região Autónoma
+- Orçamento Regional
 relationships:
 - type: amended_by
   target: pt:dre:654684:por
@@ -98,16 +98,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:654684:por
+  label: "Rectificado pela DECL-RECT.10-B/99.1999.03.31.PCM,DR.IS-A [76]4ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-b-1999-654684
+  date: '1999-03-31'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:31Z'
   warnings: []
   errors: []
 ---
@@ -160,12 +185,12 @@ Este diploma produz efeitos desde 1 de Novembro de 1998.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 9 de Dezembro de 1998.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 21 de Dezembro de 1998.**
+Assinado em 21 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 [(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/1998/12/294a01/00020012.pdf)

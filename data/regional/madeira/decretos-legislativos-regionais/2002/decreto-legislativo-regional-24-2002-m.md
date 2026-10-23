@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2002/12/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2002-405300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dd30a609e70a5641e5239f700179ea38f44d043800f39998fbb551ae64e0298
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14c8e7a97ddea97ab743726da29c8b3910c7eb3d523aa74290a32d6a76363977
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AVAL do Estado
-- Garantia
 - Fiscalização
+- Garantia
 - Madeira.região Autónoma
 - Regime Jurídico
 relationships:
@@ -75,6 +75,76 @@ relationships:
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673642:por
+  label: "Alterados os arts. 5.º e 6.º, pelo DLR.18/2003/M.2003.07.08.ALR-RAM DR.IS-A [169]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2003-673642
+  date: '2003-07-08'
+- type: amended_by
+  target: pt:dre:604588:por
+  label: "Alterados os arts. 6.º, 14.º e 16.º do presente diploma, com as alterações introduzidas pelo DLR 18/2003/M, de 24-Jul,\
+    \ pelo DLR.1/2005/M.31.01.2005.ALR-RAM, DR.IS-A [35] de 18.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2005-604588
+  date: '2005-01-31'
+- type: amended_by
+  target: pt:dre:481501:por
+  label: "Alterados os arts. 6º e 13º do presente diploma e republicado com a redacção dos DLR 18/2003/M de 24-Jul e 1/2005/M\
+    \ de 18-Fev, bem como com as alterações ora introduzidas pelo DLR.19/2005/M.14.11.2005.AL-RAM, DR.IS-A [226] de 24.11.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2005-481501
+  date: '2005-11-14'
+- type: amended_by
+  target: pt:dre:398790:por
+  label: "Alterados os art.s 5º (na redacção do DLR 18/2003/M, de 08-Jul) e 8º pelo DLR.2-A/2008/M.16.01.2008.AL-RAM, DR.IS\
+    \ [11-Supl] de 16.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-a-2008-398790
+  date: '2008-01-16'
+- type: amended_by
+  target: pt:dre:444240:por
+  label: "Alterados os arts. 5.º (na redacção dos DLR 18/2003/M de 24-Jul e 2-A/2008/M de 16-Jan), 6º (na redacção dos DLR\
+    \ 18/2003/M de 24-Jul, 1/2005/M de 18-Fev e 19/2005/M de 24-Nov) e 12º, todos do presente diploma, pelo DLR.45/2008/M.31.12.2008.AL-RAM,\
+    \ DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/45-2008-444240
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:277585:por
+  label: "Dada nova redacção aos arts. 4º, 5º (alterado pelos DLR 18/2003/M de 24-Jul, 2-A/2008/M de 16-Jan e 45/2008/M de\
+    \ 31-Dez), 6º (alterado pelos DLR 18/2003/M de 24-Jul, 1/2005/M de 18-Fev, 19/2005/M de 24-Nov e 45/2008/M de 31-Dez),\
+    \ 7º, 8º (alterado pelo DLR 2-A/2008/M de 16-Jan), 9º, 10º, 11º, 12º (alterado pelo DLR 45/2008/M de 31-Dez), 13º (alterado\
+    \ pelo DLR 19/2005/M de 24-Nov), 14º (alterado pelo DLR 1/2005/M de 18-Fev), 15º, 16º (alterado pelo DLR 1/2005/M de 18-Fev),\
+    \ 17º e 19º; aditado art. 19º-A pelo DLR.8/2011/M.01.04.2011.AL-RAM, DR.IS [65] de 01.04.2011, que o republicou com todas\
+    \ as alterações, com a necessária renumeração e demais correcções materiais.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2011-277585
+  date: '2011-04-01'
+- type: amended_by
+  target: pt:dre:670489:por
+  label: "Dada nova redacção aos arts. 4º (alterado pelo DLR 8/2011/M de 01-Abr), 5º (alterado pelos DLR 18/2003/M de 08-Jul,\
+    \ 2-A/2008/M de 16-Jan, 45/2008/M de 31-Dez e 8/2011/M de 01-Abr), 6º (alterado pelos DLR 18/2003/M de 08-Jul, 1/2005/M\
+    \ de 18-.Fev, 19/2005/M de 24-Nov, 45/2008/M de 31-Dez e 8/2011/M de 01-Abr) e 13º (alterado pelos DLR 19/2005/M de 24-Nov\
+    \ e 8/2011/M de 01-Abr) pelo DLR.11/2011/M.06.07.2011.AL-RAM, DR.IS [128] de 06.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2011-670489
+  date: '2011-07-06'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Alterados os arts 8.º (na redação do DLR 8/2011/M de 01-abr que procedeu à respetiva republicação) e 13.º (na redação
+    dos DLR 8/2011/M de 01-Abr e 11/2011/M de 06-jul) do presente diploma, pelo(a) Decreto Legislativo Regional n.º 17/2015/M
+    - Diário da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Alterado, com efeitos desde 01.01.2017, o art. 5.º (na redação do DLR 11/2011/M de 06-jul) do presente diploma, na
+    versão republicada pelo DLR 8/2011/M de 01-abr, pelo(a) Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República
+    n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Alterados, com efeitos desde 01.01.2020, os arts. 13.º (na redação dos DLR 11/2011/M de 06-jul e DLR 17/2015/M de
+    30-dez) e 14.º do presente diploma, na versão republicada pelo DLR 8/2011/M de 01-abr, pelo(a) Decreto Legislativo Regional
+    n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
   label: null
@@ -87,16 +157,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:08Z'
   warnings: []
   errors: []
 ---
@@ -311,10 +397,10 @@ O presente diploma entra em vigor a partir de 1 de Janeiro de 2003, aplicando-se
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 13 de Novembro de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 3 de Dezembro de 2002.**
+Assinado em 3 de Dezembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

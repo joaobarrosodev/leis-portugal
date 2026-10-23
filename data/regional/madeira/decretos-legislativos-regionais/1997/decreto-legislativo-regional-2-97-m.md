@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/1997/03/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1997-517259
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 900c094ae1a8f60299c27189b91eed62f0a81e641acf0aef7823259c55540c59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da09c1931c3f24027beb805dea7d547c326cf9141922996ba21ad4fa6c7004ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/43/1996/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/43/1996/09/03/p/dre
+- type: cites
+  target: pt:dre:241232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:18Z'
   warnings: []
   errors: []
 ---
@@ -430,10 +458,10 @@ O presente diploma entra em vigor na mesma data da entrada em vigor da Lei do Or
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira de 6 de Fevereiro de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, João Cunha e Silva.**
+O Presidente da Assembleia Legislativa Regional, em exercício, João Cunha e Silva.
 
-**Assinado em 25 de Fevereiro de 1997.**
+Assinado em 25 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

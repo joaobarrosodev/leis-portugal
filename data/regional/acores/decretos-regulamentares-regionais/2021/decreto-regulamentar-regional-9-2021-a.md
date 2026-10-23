@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2021/06/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2021-165346916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2a456b4a678184fe77ff60aedfe039caf546bbf2e60b01f76bba83712f97114
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c801330398a434f33b9fa69c94cae65e7e24e710c56f54bf9190267c1a9fab61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Financiamento
-- Empresa
-- Turismo
-- Regulamentação de Atos Legislativos
-- Diversificação das Exportações
-- Projeto de Investimento
-- Pagamento
-- Apoio à Exportação
-- Investimento
-- Prazo
-- Exportação
-- Sistema de Incentivos da Região Autónoma dos Açores
 - Açores
+- Apoio à Exportação
+- Diversificação das Exportações
+- Empreendedorismo
+- Empresa
+- Exportação
+- Financiamento
+- Investimento
+- Pagamento
+- Prazo
+- Projeto de Investimento
+- Regulamentação de Atos Legislativos
+- Sistema de Incentivos da Região Autónoma dos Açores
 - Sistema de Incentivos de BASE Regional
+- Sistema de Incentivos para a Competitividade Empresarial
 - Sistema de Incentivos Regionais
 - Subsídio não Reembolsável
 - Taxa
-- Sistema de Incentivos para a Competitividade Empresarial
+- Turismo
 relationships:
+- type: amended_by
+  target: pt:dre:174824639:por
+  label: Alterado o art. 13.º e revogado o n.º 3 do art. 11.º do DRR 19/2014/A de 22-set, com a versão republicada pelo presente
+    diploma, pelo(a) Decreto Regulamentar Regional n.º 30/2021/A - Diário da República n.º 228/2021, Série I de 2021-11-24,
+    que o republicou no anexo I, com as alterações introduzidas.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-2021-174824639
+  date: '2021-11-24'
 - type: cites
   target: celex:32013R1379
   label: null
@@ -138,16 +145,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/3/2015/02/13/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/3/2015/02/13/a/dre
+- type: cites
+  target: pt:dre:114440373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114528125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117821874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140346289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158507584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57205880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58248463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66507582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66936947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74454667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74895681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74925436:por
+  label: null
+  source: null
 article_structure:
   article_count: 54
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:47Z'
   warnings: []
   errors: []
 ---
@@ -238,11 +337,11 @@ O presente diploma entra em vigor no primeiro dia útil seguinte ao da sua publi
 
 Aprovado em Conselho do Governo, em Ponta Delgada, em 14 de abril de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 9 de junho de 2021.**
+Assinado em Angra do Heroísmo em 9 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -794,21 +893,21 @@ A2 - autonomia financeira da empresa.
 
 a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/ativo total líquido, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura.
 
 3 - A pontuação do critério C - Contributo do projeto para a consolidação financeira da empresa é determinada pelo indicador novos capitais próprios/investimento elegível (excluindo salários), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
 
 4 - A pontuação do critério D - Contributo do projeto para a competitividade da empresa é determinada pelo indicador investimento em fatores dinâmicos de competitividade/investimento elegível, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
 
 5 - A pontuação do critério E - Contributo do projeto para a inovação e diversificação da oferta mede o grau de inovação do investimento face ao mercado existente do seguinte modo:
 
@@ -840,7 +939,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
 
 6 - O critério F - Contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do Programa Operacional (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -1346,7 +1445,7 @@ C - contributo do projeto para a sustentabilidade económica, ambiental e social
 
 2 - O critério A - Contributo do projeto para a consolidação financeira da empresa é determinado pelo indicador novos capitais próprios/investimento elegível (excluindo salários), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
 
 3 - O critério B - Contributo do projeto para a inovação e diversificação da oferta, mede o grau de inovação do investimento face ao mercado existente, do seguinte modo:
 
@@ -1378,7 +1477,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
 
 4 - O critério C - Contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do Programa Operacional dos Açores 2020 (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -1472,4 +1571,6 @@ e) Coerência elevada: projeto dirigido a público específico (jovens e potenci
 
 4 - O critério C - Grau de abrangência do projeto - medido pela abrangência territorial e a capacidade de aglutinar empreendedores, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11700/0001400048.pdf)
+
+114309366

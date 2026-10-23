@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19600/20932094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1979-378682
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21539edadc7e11c853195febb3248675aac3ce59db6a65a2573c56e2153c1518
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf880e64102ab9c6a60c3665c1e6bedc8420798bbe043e6abc854e41101dc218
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Câmara Municipal
+- Construção Civil
+- Direcção Regional da Habitação Urbanismo e Ambiente
+- Licenciamento de Obras
+- Normas de Construção
+- Prédio Rústico
+- Prédio Urbano
 relationships:
 - type: amended_by
   target: pt:dre:300222:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:300222:por
+  label: "Revogado pelo DLR.11/2000/A.02.05.2000.ALR-RAA, DR.IS-A [116] de 19.05.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2000-300222
+  date: '2000-05-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:58Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +109,11 @@ Deste modo, julga-se pertinente estudar linhas de acção que nos conduzam ao re
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Nos projectos de edifícios passa a ser obrigatória a indicação dos materiais de construção e de decoração a aplicar nos exteriores.
+Artigo 1.º - 1 - Nos projectos de edifícios passa a ser obrigatória a indicação dos materiais de construção e de decoração a aplicar nos exteriores.
 
 2 - Tal indicação será tratada na referida memória descritiva sob o título «Acabamentos exteriores», seguindo-se depois a descrição dos materiais.
 
-###### Art. 2.º - 1 - Da descrição dos materiais fará parte, se for caso disso, a aplicação da pedra da região e do respectivo acabamento, que será claramente identificado nos alçados.
+Art. 2.º - 1 - Da descrição dos materiais fará parte, se for caso disso, a aplicação da pedra da região e do respectivo acabamento, que será claramente identificado nos alçados.
 
 2 - Poderá ser exigida a aplicação de pedra da região (cantaria) em edifícios a construir ou a alterar sempre que algum dos seus pontos se localize a uma distância inferior ou igual a 100 m de outro qualquer ponto pertencente a um edifício classificado como monumento nacional ou regional de interesse público ou mesmo valor concelhio.
 
@@ -108,11 +121,11 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do
 
 4 - As câmaras municipais não poderão licenciar projectos de construção ou de alteração de edifícios existentes nas condições descritas nos n.os 2 e 3 sem despacho prévio dos Secretários Regionais do Equipamento Social e Educação e Cultura e ouvidos os pareceres da Direcção Regional da Habitação, Urbanismo e Ambiente e da Direcção Regional dos Assuntos Culturais, que serão emitidos no prazo de quarenta e cinco dias.
 
-###### Art. 3.º - 1 - As paredes exteriores das construções deverão ser, em geral, rebocadas e pintadas.
+Art. 3.º - 1 - As paredes exteriores das construções deverão ser, em geral, rebocadas e pintadas.
 
 2 - A aplicação de azulejo nas fachadas exteriores ou de qualquer outro tipo de material vidrado ou polido carece de autorização da Direcção Regional da Habitação, Urbanismo e Ambiente.
 
-###### Art. 4.º - 1 - As caixilharias, portas e janelas exteriores deverão, em princípio, ser de madeira para pintar ou envernizar.
+Art. 4.º - 1 - As caixilharias, portas e janelas exteriores deverão, em princípio, ser de madeira para pintar ou envernizar.
 
 2 - As caixilharias em janelas de madeira deverão ser de preferência pintadas de branco ou envernizadas à cor natural.
 
@@ -122,11 +135,11 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do
 
 5 - A aplicação de alumínio ou outro qualquer tipo de material que não seja madeira pintada ou envernizada poderá não ser autorizada desde que da sua aplicação resultem inconvenientes de ordem estética para um adequado enquadramento no local ou se a sua aplicação se verificar em zonas abrangidas pelas disposições expressas nos n.os 2 e 3 do artigo 2.º
 
-###### Art. 5.º - 1 - Os vidros a empregar serão transparentes, excepto nos sítios em que se não justifiquem, como casas de banho ou portas exteriores.
+Art. 5.º - 1 - Os vidros a empregar serão transparentes, excepto nos sítios em que se não justifiquem, como casas de banho ou portas exteriores.
 
 2 - À excepção dos utilizados para instalações sanitárias e balneários e nas zonas industriais, portuárias ou aeroportuárias, a aplicação de vidros não completamente lisos ou transparentes carece de autorização da câmara municipal do concelho onde se localiza a construção.
 
-###### Art. 6.º - 1 - As coberturas, em regra, serão em telha de argila.
+Art. 6.º - 1 - As coberturas, em regra, serão em telha de argila.
 
 2 - Não será, em princípio, permitida a aplicação de placas de fibrocimento ou de qualquer outro material, seja ele metálico, plástico ou de cartão asfáltico, no revestimento da cobertura dos edifícios, respectivos alpendres e anexos.
 
@@ -136,15 +149,15 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do
 
 5 - Em edifícios que pela sua natureza arquitectónica, caracterizada por grandes áreas cobertas com vãos sem apoios intermédios, bem como nos situados em localidades cujas condições climatéricas o aconselhem, poderá considerar-se admissível a aplicação de fibrocimento ou de qualquer outro tipo de material, desde que devidamente autorizado pela câmara municipal do concelho onde se localiza a construção.
 
-###### Art. 7.º - 1 - Fica sujeita a aprovação camarária, nos termos da lei em vigor, a aplicação nos muros e fachadas dos edifícios de qualquer cor que não seja o branco.
+Art. 7.º - 1 - Fica sujeita a aprovação camarária, nos termos da lei em vigor, a aplicação nos muros e fachadas dos edifícios de qualquer cor que não seja o branco.
 
 2 - As cores a empregar nos muros e nos edifícios serão indicadas esquematicamente segundo as suas bases e nos tons claro, médio e escuro ou descritos convenientemente com indicação do fabrico e número do respectivo catálogo em vigor.
 
 3 - No prazo de quarenta e cinco dias após a entrada em vigor do presente diploma, as câmaras municipais da Região deverão submeter à aprovação da Direcção Regional de Habitação, Urbanismo e Ambiente um esquema de cores a aplicar nas construções existentes, a remodelar, a ampliar e a construir nos respectivos concelhos.
 
-###### Art. 8.º As obras de remodelação ou ampliação dos edifícios existentes deverão respeitar a traça primitiva da construção, no tocante aos materiais e cores a empregar, bem como no que respeita à concepção geral e volumétrica do conjunto, seus elementos construtivos e ornamentais.
+Art. 8.º As obras de remodelação ou ampliação dos edifícios existentes deverão respeitar a traça primitiva da construção, no tocante aos materiais e cores a empregar, bem como no que respeita à concepção geral e volumétrica do conjunto, seus elementos construtivos e ornamentais.
 
-###### Art. 9.º - 1 - As contravenções ao disposto nos números anteriores, sem prejuízo de outras sanções previstas na lei, são punidas com multa de 500$00 a 10000$00.
+Art. 9.º - 1 - As contravenções ao disposto nos números anteriores, sem prejuízo de outras sanções previstas na lei, são punidas com multa de 500$00 a 10000$00.
 
 2 - Para além da multa prevista no número anterior, o infractor é obrigado a demolir as obras ou trabalhos efectuados, quando não venham a ser autorizados, recompondo em qualquer dos casos as zonas afectadas, segundo as instruções técnicas emanadas das câmaras municipais.
 
@@ -152,10 +165,10 @@ A Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do
 
 Aprovado pela Assembleia Regional dos Açores em 8 de Junho de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 26 de Julho de 1979.**
+Assinado em Angra do Heroísmo em 26 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

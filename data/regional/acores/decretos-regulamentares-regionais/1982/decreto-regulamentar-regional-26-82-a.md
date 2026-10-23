@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/16500/21642166.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1982-394153
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c93e54d296d049fbe7c072333e2fd01fda330273a32700c8ca2530de68f66c77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c741aceedf70381ebb3350309c5ff40055732a6ee522f0a8961b4b5dedb5efa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção de Serviços de Emigração
+- Emigração
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:610763:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:448715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474082:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:610763:por
+  label: "Revogado pelo DRR.18/89/A.19.05.1989.GR-RAA, DR.IS [115] de 19.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-1989-610763
+  date: '1989-05-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:44Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +117,7 @@ O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção de Serviços de Emigração (DSE) é o órgão de execução, coordenação, estudo e apoio técnico relativamente ao sector da emigração, ao qual incumbe, designadamente:
+Artigo 1.º A Direcção de Serviços de Emigração (DSE) é o órgão de execução, coordenação, estudo e apoio técnico relativamente ao sector da emigração, ao qual incumbe, designadamente:
 
 a) Contribuir para a definição das medidas de política, objectivos e prioridades de acção do sector;
 
@@ -126,7 +143,7 @@ l) Assegurar a execução orçamental do sector e do respectivo plano e proceder
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 2.º - 1 - Para o desempenho das suas atribuições, a DSE dispõe de serviços centrais e de serviços externos.
+Art. 2.º - 1 - Para o desempenho das suas atribuições, a DSE dispõe de serviços centrais e de serviços externos.
 
 2 - São serviços externos:
 
@@ -136,7 +153,7 @@ b) A delegação da DSE na Horta.
 
 #### SECÇÃO I — Serviços centrais
 
-###### Art. 3.º Aos serviços centrais da DSE, funcionando na dependência directa e sob a chefia do director de serviços, compete, em especial:
+Art. 3.º Aos serviços centrais da DSE, funcionando na dependência directa e sob a chefia do director de serviços, compete, em especial:
 
 1) Na área de apoio técnico:
 
@@ -168,17 +185,17 @@ c) Assegurar, quando tal se justifique, o apoio directo ao emigrante em questõe
 
 #### SECÇÃO II — Delegações
 
-###### Art. 4.º As delegações exercerão as competências que estão atribuídas aos serviços centrais da DSE na área de acção interna, bem como todas as que lhe forem expressamente cometidas pelo director de serviços.
+Art. 4.º As delegações exercerão as competências que estão atribuídas aos serviços centrais da DSE na área de acção interna, bem como todas as que lhe forem expressamente cometidas pelo director de serviços.
 
-###### Art. 5.º A delegação da DSE em Ponta Delgada exercerá a sua actividade nas ilhas de São Miguel e Santa Maria e a delegação da DSE na Horta exercê-la-á nas ilhas do Pico, Faial, Flores e Corvo.
+Art. 5.º A delegação da DSE em Ponta Delgada exercerá a sua actividade nas ilhas de São Miguel e Santa Maria e a delegação da DSE na Horta exercê-la-á nas ilhas do Pico, Faial, Flores e Corvo.
 
-###### Art. 6.º As delegações são chefiadas por um elemento do pessoal do respectivo quadro - coordenador -, nomeado em comissão de serviço pelo período de 2 anos, renovável, por despacho do Secretário Regional dos Assuntos Sociais.
+Art. 6.º As delegações são chefiadas por um elemento do pessoal do respectivo quadro - coordenador -, nomeado em comissão de serviço pelo período de 2 anos, renovável, por despacho do Secretário Regional dos Assuntos Sociais.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 7.º O pessoal que integra o quadro da presente estrutura orgânica é o constante do mapa anexo a este diploma.
+Art. 7.º O pessoal que integra o quadro da presente estrutura orgânica é o constante do mapa anexo a este diploma.
 
-###### Art. 8.º O pessoal do quadro é agrupado de acordo com a seguinte classificação:
+Art. 8.º O pessoal do quadro é agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -190,36 +207,36 @@ d) Pessoal técnico-profissional e administrativo;
 
 e) Pessoal auxiliar.
 
-###### Art. 9.º As condições e regras de organização dos quadros e de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários e agentes da DSE são, para as respectivas categorias, as estabelecidas no Decreto Regulamentar n.º 25/81/A, de 15 de Abril, e na legislação regional e geral complementar.
+Art. 9.º As condições e regras de organização dos quadros e de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários e agentes da DSE são, para as respectivas categorias, as estabelecidas no Decreto Regulamentar n.º 25/81/A, de 15 de Abril, e na legislação regional e geral complementar.
 
-###### Art. 10.º - 1 - A carreira de técnico auxiliar de emigração desenvolve-se pelas categorias de 2.ª classe, 1 ª classe e de principal, a que correspondem, respectivamente, as letras M, L e J.
+Art. 10.º - 1 - A carreira de técnico auxiliar de emigração desenvolve-se pelas categorias de 2.ª classe, 1 ª classe e de principal, a que correspondem, respectivamente, as letras M, L e J.
 
 2 - O ingresso é condicionado à habilitação mínima do curso geral do ensino secundário ou equiparado e à sujeição a concurso público de prestação de provas, a regulamentar por portaria conjunta das Secretarias Regionais dos Assuntos Sociais, da Administração Pública e da Educação e Cultura.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 11.º Quando as necessidades de serviço o exijam, poderá recorrer-se, por despacho do Secretário Regional, às seguintes situações especiais:
+Art. 11.º Quando as necessidades de serviço o exijam, poderá recorrer-se, por despacho do Secretário Regional, às seguintes situações especiais:
 
 a) Destacamento: não ocupando o funcionário lugar no quadro, sendo pago pelo organismo ou serviço de origem e não podendo o lugar de que é titular ser preenchido por qualquer forma;
 
 b) Requisição: não ocupando o funcionário lugar no quadro, sendo pago pela Secretaria Regional e mantendo a titularidade do lugar de origem, que poderá ser provido interinamente.
 
-###### Art. 12.º - 1 - As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho conjunto dos Secretários Regionais da Administração Pública e dos Assuntos Sociais.
+Art. 12.º - 1 - As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho conjunto dos Secretários Regionais da Administração Pública e dos Assuntos Sociais.
 
 2 - Para a execução deste diploma poderão ser aprovados, pelo Secretário Regional, regulamentos internos, sob proposta do respectivo director de serviços.
 
-###### Art. 13.º O presente diploma revoga os artigos 14.º 15.º e 16.º do [Decreto Regulamentar Regional n.º 5/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1978-448715), de 3 de Fevereiro, bem como o quadro de pessoal respeitante à DSE anexo àquele diploma.
+Art. 13.º O presente diploma revoga os artigos 14.º 15.º e 16.º do [Decreto Regulamentar Regional n.º 5/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1978-448715), de 3 de Fevereiro, bem como o quadro de pessoal respeitante à DSE anexo àquele diploma.
 
 Aprovado em Conselho do Governo Regional em 7 de Abril de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 30 de Junho de 1982.**
+Assinado em Angra do Heroísmo em 30 de Junho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro de pessoal a que se refere o artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/16500/21642166.pdf))](https://files.diariodarepublica.pt/1s/1982/07/16500/21642166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/16500/21642166.pdf)

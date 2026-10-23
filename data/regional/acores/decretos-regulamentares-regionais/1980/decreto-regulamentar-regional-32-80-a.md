@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18200/21162116.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1980-470454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 852e777d80298518c5a6604ddaa56a23e330969964a59146a290cc45cb3a5754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdb0b25947a5ed1e1b876e1f7ad7fe06c4df928e108ccc8c4f133d57afdfb473
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Quadro de Pessoal
+- Secretaria Regional do Equipamento Social
 relationships:
 - type: amended_by
   target: pt:dre:433413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:295801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473964:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:576352:por
+  label: "Revogado pelo DRR.41/81/A.1981.08.12.GR-RAA, DR.IS [184]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/41-1981-576352
+  date: '1981-08-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:09Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +116,16 @@ Assim:
 
 O Governo Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo único. Ao quadro do pessoal a que se referem o artigo 32.º do [Decreto Regulamentar Regional n.º 8/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1978-295801), de 5 de Maio, e os artigos 1.º dos Decretos Regulamentares Regionais n.os [6/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1979-383627) e [7/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1979-383631), de 2 de Março, alterados pelo [Decreto Regulamentar Regional n.º 23/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1980-473964), de 19 de Maio, são acrescidos os lugares constantes do quadro anexo ao presente diploma.
+Artigo único. Ao quadro do pessoal a que se referem o artigo 32.º do [Decreto Regulamentar Regional n.º 8/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1978-295801), de 5 de Maio, e os artigos 1.º dos Decretos Regulamentares Regionais n.os [6/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1979-383627) e [7/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1979-383631), de 2 de Março, alterados pelo [Decreto Regulamentar Regional n.º 23/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1980-473964), de 19 de Maio, são acrescidos os lugares constantes do quadro anexo ao presente diploma.
 
 Aprovado pelo Governo Regional em 6 de Junho de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 14 de Julho de 1980.**
+Assinado em Angra do Heroísmo em 14 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/18200/21162116.pdf))](https://files.diariodarepublica.pt/1s/1980/08/18200/21162116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18200/21162116.pdf)

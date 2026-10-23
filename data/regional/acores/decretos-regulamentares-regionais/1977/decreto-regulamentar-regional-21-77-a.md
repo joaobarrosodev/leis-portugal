@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1977-250066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f631d61e607023b6c91ac5c1467d2585a364092e8d38acaf65fb887da2bf22d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5db4638cd64b12a1eb4701b54275f14c1c111b4acf41e13f5e91959ebbf2ad9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Criação de Serviços
+- Horta
+- Museu
+relationships:
+- type: cites
+  target: pt:dre:362693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673810:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:39Z'
   warnings: []
   errors: []
 ---
@@ -97,44 +113,44 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado na cidade da Horta um museu em que serão recolhidos, conservados e expostos objectos de valor artístico, histórico, etnográfico e científico.
+Artigo 1.º É criado na cidade da Horta um museu em que serão recolhidos, conservados e expostos objectos de valor artístico, histórico, etnográfico e científico.
 
-###### Art. 2.º Serão incorporados neste museu todos os objectos nas condições previstas no artigo anterior que se encontrem em mosteiros ou conventos das ilhas que formavam o ex-distrito da Horta, desde que esses mosteiros ou conventos não tenham sido oficialmente restituídos à Igreja ou adquiridos por particulares.
+Art. 2.º Serão incorporados neste museu todos os objectos nas condições previstas no artigo anterior que se encontrem em mosteiros ou conventos das ilhas que formavam o ex-distrito da Horta, desde que esses mosteiros ou conventos não tenham sido oficialmente restituídos à Igreja ou adquiridos por particulares.
 
-###### Art. 3.º As entidades oficiais e particulares poderão depositar no museu os objectos que pelo respectivo director forem considerados dignos de exposição.
+Art. 3.º As entidades oficiais e particulares poderão depositar no museu os objectos que pelo respectivo director forem considerados dignos de exposição.
 
-###### Art. 4.º Compete à Secretaria Regional da Educação e Cultura, ouvido o director, aceitar as doações ou legados de objectos ou imóveis destinados ao museu.
+Art. 4.º Compete à Secretaria Regional da Educação e Cultura, ouvido o director, aceitar as doações ou legados de objectos ou imóveis destinados ao museu.
 
-###### Art. 5.º - 1. Os encargos com todas as despesas de instalação e funcionamento serão pagos pelas dotações que a Secretaria Regional da Educação e Cultura inscrecer no orçamento privativo deste estabelecimento.
+Art. 5.º - 1. Os encargos com todas as despesas de instalação e funcionamento serão pagos pelas dotações que a Secretaria Regional da Educação e Cultura inscrecer no orçamento privativo deste estabelecimento.
 
 2. Os encargos com o pessoal serão satisfeitos pela Secretaria Regional da Educação e Cultura enquanto o Estado não inscrever na rubrica própria dos seus orçamentos, nos termos do [Decreto-Lei n.º 173/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1973-673810), de 16 de Abril, a dotação necessária para o efeito.
 
-###### Art. 6.º - 1. O museu tem o quadro de pessoal anexo a este diploma.
+Art. 6.º - 1. O museu tem o quadro de pessoal anexo a este diploma.
 
 2. O provimento de todos os lugares do quadro é da competência do Secretário Regional da Educação e Cultura.
 
-###### Art. 7.º - 1. O lugar de director será provido, mediante concurso documental, em indivíduo diplomado, com a requerida especialização, de harmonia com a legislação que regula o provimento dos cargos técnicos dos museus do Estado.
+Art. 7.º - 1. O lugar de director será provido, mediante concurso documental, em indivíduo diplomado, com a requerida especialização, de harmonia com a legislação que regula o provimento dos cargos técnicos dos museus do Estado.
 
 2. Os respectivos processos de concurso serão, todavia, remetidos à Direcção-Geral do Património Cultural para efeitos de parecer, porquanto não existem actualmente nos quadros da Secretaria Regional da Educação e Cultura inspectores de belas-artes, a quem competiria a sua apreciação e classificação.
 
 3. A fim de se poderem regular situações anteriormente criadas, o primeiro provimento deste lugar será da livre escolha do Secretário Regional da Educação e Cultura.
 
-###### Art. 8.º O técnico auxiliar de 1.ª e o escriturário-dactilógrafo serão recrutados de harmonia com as disposições da lei geral e o guarda e o servente serão contratados mediante proposta do director.
+Art. 8.º O técnico auxiliar de 1.ª e o escriturário-dactilógrafo serão recrutados de harmonia com as disposições da lei geral e o guarda e o servente serão contratados mediante proposta do director.
 
-###### Art. 9.º Competirá ao director do museu propor à Secretaria Regional da Educação e Cultura a classificação dos monumentos, imóveis de interesse público e valores paisagísticos situados na ilha do Faial, bem como a inventariação ou classificação de móveis com valor artístico, histórico, etnográfico, numismático ou científico que se encontrem na referida ilha, nos termos dos artigos 2.º e seguintes do Decreto-Lei n.º 20985, de 7 de Março de 1932, do n.º 5.º do § 1.º do artigo 21.º do [Decreto-Lei n.º 26611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26611-1936-362693), de 19 de Maio de 1936, e do artigo 1.º do [Decreto-Lei n.º 38906](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38906-1952-671600), de 10 de Setembro de 1957.
+Art. 9.º Competirá ao director do museu propor à Secretaria Regional da Educação e Cultura a classificação dos monumentos, imóveis de interesse público e valores paisagísticos situados na ilha do Faial, bem como a inventariação ou classificação de móveis com valor artístico, histórico, etnográfico, numismático ou científico que se encontrem na referida ilha, nos termos dos artigos 2.º e seguintes do Decreto-Lei n.º 20985, de 7 de Março de 1932, do n.º 5.º do § 1.º do artigo 21.º do [Decreto-Lei n.º 26611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26611-1936-362693), de 19 de Maio de 1936, e do artigo 1.º do [Decreto-Lei n.º 38906](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38906-1952-671600), de 10 de Setembro de 1957.
 
 Aprovado em Plenário do Governo Regional em 11 de Maio de 1977.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada em 6 de Junho de 1977.**
+Assinado em Ponta Delgada em 6 de Junho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 Quadro a que se refere o presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14200/15231524.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14200/15231524.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14200/15231524.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral**
+O Presidente do Governo Regional, João Bosco Mota Amaral

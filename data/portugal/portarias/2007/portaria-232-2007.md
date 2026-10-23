@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/04500/14511452.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/232/2007/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/232-2007-519022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6beeb78857b4e49804557612ae375dbd0e3fd74df9e7fa94e6ab971edc90fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65832a9f1928459e72b14e81f82f4baec51bb62b7f82a983a46a653ad62a88f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Diploma
 - Ensino Profissional
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
 - type: cites
@@ -110,16 +110,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/797/2006/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/797/2006/08/10/p/dre
+- type: cites
+  target: pt:dre:177388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652894:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:130350399:por
+  label: Revogada pelo(a) Portaria n.º 76/2020 - Diário da República n.º 55/2020, Série I de 2020-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-2020-130350399
+  date: '2020-03-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:08Z'
   warnings: []
   errors: []
 ---
@@ -162,10 +219,10 @@ b) As restantes portarias mencionadas no n.º 5.º
 
 8.º A presente portaria produz efeitos a partir do ano lectivo de 2006-2007.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 9 de Fevereiro de 2007.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 9 de Fevereiro de 2007.
 
 ## ANEXO — Curso profissional de artes do espectáculo - Interpretação
 
 Plano de estudos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/04500/14511452.pdf))](https://files.diariodarepublica.pt/1s/2007/03/04500/14511452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/04500/14511452.pdf)

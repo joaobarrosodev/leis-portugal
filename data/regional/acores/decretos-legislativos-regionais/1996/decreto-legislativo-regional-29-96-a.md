@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/1996/11/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1996-166672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16fe7242ff3560a0ba2f9266009d054b55298bea55a37cc719f4502634a5acb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 584d8aade2c3440893b4386f68179b3e463546a9672cac4499e5d187d05d469a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Arbitragem
 - Conflito de Trabalho
 - Direito do Trabalho
 - Estatuto
 - Serviço Regional de Conciliação e Arbitragem do Trabalho
-- Açores
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:374669:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:46Z'
   warnings: []
   errors: []
 ---
@@ -111,13 +115,13 @@ Os artigos 19.º, 29.º e 30.º do Estatuto do Serviço Regional de Conciliaçã
 
 2 - O presidente deve opor-se aos acordos de conciliação que entenda violarem a lei, mediante despacho devidamente fundamentado.
 
-###### Artigo 29.º
+Artigo 29.º
 
 1 - A falta de comparência de qualquer dos interessados à diligência de conciliação faz recair sobre o faltoso a obrigação de pagar à parte que compareceu, se esta o reclamar, as despesas de transporte, perdas de remuneração e outras que comprove ter suportado.
 
 2 - Considera-se faltosa a parte que não comparecer ou cujo representante não se apresente munido de poderes suficentes para conciliar, excepto se esse firmar acordo que venha a ser ratificado pelo representado nos cinco dias úteis posteriores à notificação para o efeito.
 
-###### Artigo 30.º
+Artigo 30.º
 
 1 - ...
 
@@ -131,10 +135,10 @@ São revogados os artigos 31.º e 38.º do Estatuto do Serviço Regional de Conc
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 5 de Setembro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 21 de Outubro de 1996.**
+Assinado em Angra do Heroísmo em 21 de Outubro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

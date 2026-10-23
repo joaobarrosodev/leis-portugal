@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/9-1979-383055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72bb0edc711e1ec8853decab6ebec604caf4043ee95c5d57c363bab524083d69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b711576f147aee50d38049d487ea78068c7c1732a421e2be686d3118ea45706b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orçamento Regional
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:32Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +90,12 @@ Orçamento da Região Autónoma dos Açores para 1979
 
 Resumo da receita por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08000/05660566.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08000/05660566.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08000/05660566.pdf)
 
 Resumo da despesa por Secretarias Regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/04/08000/05660566.pdf))](https://files.diariodarepublica.pt/1s/1979/04/08000/05660566.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/04/08000/05660566.pdf)
 
 Aprovada pela Assembleia Regional dos Açores, na Horta, em 12 de Dezembro de 1978.
 
-**O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/16500/13851387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1978-297432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13e7d4c1dda8a234d465d39782b81ae8b5cd89a0a3fb664c18409c6523ce5c18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c4122b82942e49363d6fd66526d74ac7ffad4c9a11aa9751ad7411234633c3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Definição de Competências
+- Drepa
+- Orgânica
+- Presidência do Governo Regional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:151531:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:325916:por
+  label: "Alterado o quadro do pessoal a que se refere o n.º 2 do artigo 7.º, pelo DRR.23/78/A.20.11.1978.GR-RAA, DR.IS [267]\
+    \ de 20.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-1978-325916
+  date: '1978-11-20'
+- type: amended_by
+  target: pt:dre:469785:por
+  label: "Alterado o quadro de pessoal a que se refere o n.º 2 do artigo 7.º, pelo DRR.40/80/A.27.08.1980.GR-RAA, DR.IS [197]\
+    \ de 27.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/40-1980-469785
+  date: '1980-08-27'
+- type: cites
+  target: pt:dre:232889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525225:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:329673:por
+  label: Rectificado pela DECL.DD7504.12.09.1978.PCM, DR.IS [210] de 12.09.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-329673
+  date: '1978-09-12'
+- type: repealed_by
+  target: pt:dre:151531:por
+  label: "Revogado pelo DRR.10/85/A.20.05.1985.GR-RAA, DR.IS [115] de 20.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1985-151531
+  date: '1985-05-20'
 article_structure:
-  article_count: 1
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:45Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +152,17 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-### CAPÍTULO I — SECÇÃO I
+### CAPÍTULO I
+
+#### SECÇÃO I
 
 Natureza e estrutura
 
-###### Artigo 1.º - 1 - O Departamento Regional de Estudos e Planeamento dos Açores (DREPA) é o órgão técnico da administração regional autónoma responsável pela realização de estudos de índole sócio-económica, e pela preparação e elaboração do Plano, designadamente pela compatibilização dos planos sectoriais, bem como pelo acompanhamento da execução daquele, estabelecendo a articulação com o Departamento Central de Planeamento.
+Artigo 1.º - 1 - O Departamento Regional de Estudos e Planeamento dos Açores (DREPA) é o órgão técnico da administração regional autónoma responsável pela realização de estudos de índole sócio-económica, e pela preparação e elaboração do Plano, designadamente pela compatibilização dos planos sectoriais, bem como pelo acompanhamento da execução daquele, estabelecendo a articulação com o Departamento Central de Planeamento.
 
 2 - O Departamento Regional de Estudos e Planeamento dos Açores (DREPA) é uma direcção regional da Presidência do Governo e tem a sua sede e instalações na cidade de Angra do Heroísmo.
 
-###### Art. 2.º O Departamento Regional de Estudos e Planeamento dos Açores (DREPA) é dirigido por um director regional e compreende os seguintes serviços:
+Art. 2.º O Departamento Regional de Estudos e Planeamento dos Açores (DREPA) é dirigido por um director regional e compreende os seguintes serviços:
 
 a) Direcção de Serviços Técnicos;
 
@@ -120,7 +170,7 @@ b) Secção dos Serviços Administrativos.
 
 #### SECÇÃO II — Direcção de Serviços Técnicos
 
-###### Art. 3.º À Direcção de Serviços Técnicos compete, designadamente:
+Art. 3.º À Direcção de Serviços Técnicos compete, designadamente:
 
 a) Estudar as perspectivas do desenvolvimento económico-social da Região e elaborar previsões quantitativas, globais, sectoriais e sub-regionais que permitam a formulação do Plano, assim como a fixação das metas do desenvolvimento;
 
@@ -142,7 +192,7 @@ i) Elaborar e avaliar projectos de investimentos;
 
 j) Recolher e conservar todos os estudos, relatórios, projectos e outros documentos relacionados com a análise e desenvolvimento sócio-económico da Região, facultando a sua consulta e promovendo a sua divulgação, quando esta for considerada útil.
 
-###### Art. 4.º - 1 - A Direcção de Serviços Técnicos compreende os seguintes sectores:
+Art. 4.º - 1 - A Direcção de Serviços Técnicos compreende os seguintes sectores:
 
 a) Sector de Estudos;
 
@@ -154,7 +204,7 @@ d) Sector de Biblioteca, Arquivo Documental e Publicações.
 
 2 - A organização, as atribuições e o funcionamento dos sectores referidos nas alíneas a), b) e c) do número anterior serão estabelecidos por despacho do Presidente do Governo Regional, sob proposta do director do Departamento Regional de Estudos e Planeamento dos Açores (DREPA), enquanto não for publicado diploma regulamentar sobre o assunto.
 
-###### Art. 5.º Compete, especialmente, ao Sector de Biblioteca, Arquivo Documental e Publicações:
+Art. 5.º Compete, especialmente, ao Sector de Biblioteca, Arquivo Documental e Publicações:
 
 a) Classificar, catalogar, guardar, conservar e arquivar toda a bibliografia e demais documentação técnica do Departamento;
 
@@ -166,9 +216,11 @@ d) Promover a execução editorial dos documentos previamente aprovados e autori
 
 e) Organizar e manter actualizado um ficheiro das designações e endereços dos vários departamentos do Governo Central, das entidades públicas da Região, dos sindicatos e outras entidades, quer públicas quer privadas, de interesse político, social, económico e cultural.
 
-#### SECÇÃO III — Secção dos Serviços Administrativos
+#### SECÇÃO III
 
-###### Art. 6.º Compete à Secção dos Serviços Administrativos:
+#### Secção dos Serviços Administrativos
+
+Art. 6.º Compete à Secção dos Serviços Administrativos:
 
 a) Executar o serviço de expediente geral, de reprodução de documentos e de arquivo;
 
@@ -182,7 +234,7 @@ e) Assegurar o serviço de economato e de contabilidade, bem como a elaboração
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 7.º - 1 - O pessoal do Departamento Regional de Estudos e Planeamento dos Açores (DREPA) será agrupado de acordo com a seguinte classificação:
+Art. 7.º - 1 - O pessoal do Departamento Regional de Estudos e Planeamento dos Açores (DREPA) será agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -196,7 +248,7 @@ e) Pessoal auxiliar.
 
 2 - O pessoal do DREPA é o constante do quadro anexo ao presente diploma, competindo ao respectivo director propor ao Presidente do Governo Regional a sua colocação de harmonia com as necessidades, a conveniência dos serviços e a aptidão dos funcionários.
 
-###### Art. 8.º As condições de ingresso, acesso e carreira profissional do pessoal do quadro do DREPA são, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar, e, até lá, regular-se-ão pela legislação regional e geral, e nos termos seguintes para as categorias indicadas:
+Art. 8.º As condições de ingresso, acesso e carreira profissional do pessoal do quadro do DREPA são, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar, e, até lá, regular-se-ão pela legislação regional e geral, e nos termos seguintes para as categorias indicadas:
 
 a) Tradutor-correspondente-intérprete, de entre tradutores-correspondentes com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -206,28 +258,28 @@ c) Catalogador de 1.ª classe, de entre catalogadores de 2.ª classe com, pelo m
 
 d) Catalogador de 2.ª classe, por concurso documental, de entre indivíduos habilitados com o curso geral dos liceus ou equiparado.
 
-###### Art. 9.º Sob proposta do director do DREPA, poderá ser contratado, por um período não superior a um ano, pessoal para além dos quadros, sempre que necessidades eventuais ou extraordinárias dos serviços não possam ser satisfeitas pelo pessoal do quadro.
+Art. 9.º Sob proposta do director do DREPA, poderá ser contratado, por um período não superior a um ano, pessoal para além dos quadros, sempre que necessidades eventuais ou extraordinárias dos serviços não possam ser satisfeitas pelo pessoal do quadro.
 
 ### CAPÍTULO III — Disposições gerais e transitórias
 
-###### Art. 10.º - 1 - Com vista à boa execução das atribuições do DREPA, os seus funcionários poderão ser transitoriamente destacados para prestar serviço em organismos dependentes de qualquer departamento regional e, inversamente, os funcionários desses organismos poderão ser destacados para o DREPA em idênticas condições.
+Art. 10.º - 1 - Com vista à boa execução das atribuições do DREPA, os seus funcionários poderão ser transitoriamente destacados para prestar serviço em organismos dependentes de qualquer departamento regional e, inversamente, os funcionários desses organismos poderão ser destacados para o DREPA em idênticas condições.
 
 2 - Os destacamentos previstos no número anterior dependem de autorização do Presidente do Governo Regional, com prévio acordo entre o director do DREPA e os dirigentes dos serviços interessados, em que se fixe o programa e a duração dos trabalhos a efectuar.
 
-###### Art. 11.º O director do DREPA poderá propor ao Presidente do Governo Regional a celebração de contratos para a realização de estudos, inquéritos ou outros trabalhos de carácter eventual que não possam ser realizados pelo pessoal do Departamento.
+Art. 11.º O director do DREPA poderá propor ao Presidente do Governo Regional a celebração de contratos para a realização de estudos, inquéritos ou outros trabalhos de carácter eventual que não possam ser realizados pelo pessoal do Departamento.
 
 Aprovado em Plenário do Governo Regional em 29 de Maio de 1978.
 
 Presidência do Governo Regional, 29 de Maio de 1978. - O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 15 de Junho de 1978.**
+Assinado em Angra do Heroísmo em 15 de Junho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/16500/13851387.pdf))](https://files.diariodarepublica.pt/1s/1978/07/16500/13851387.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16500/13851387.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

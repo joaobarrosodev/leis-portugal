@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/1996/04/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1996-571185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56a7784bad06eb09d141341cb7e3883caaef19842ee77b88a26f3b71f7807868
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d746052415f8b5b202405dffccfa55a9c5dc9668ce56380bb8749214fef592fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,87 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
+- Centro de Saúde
+- Estabelecimento Hospitalar
 - Horta
 - ILHA das Flores
-- Centro de Saúde
 - Ponta Delgada
 - Quadro de Pessoal
-- Estabelecimento Hospitalar
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:667163:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144623:por
+  label: "Alterado o quadro de pessoal do Hospital da Horta na redacção constante do presente diploma pelo DRR 14/97/A.1997.06.04.SREAS-RAA,\
+    \ DR.IS-B [170] de 25/Jul/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1997-144623
+  date: '1997-06-04'
+- type: amended_by
+  target: pt:dre:405712:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 17/96/A de 26-Mar, na redacção do presente diploma, pelo DRR.3/2000/A.2000.01.04.SREAS-RAA\
+    \ DR.IS-B [23] de 28/Jan/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2000-405712
+  date: '2000-01-04'
+- type: amended_by
+  target: pt:dre:406104:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 17/96/A, de 26-Mar, na redacção do presente diploma, pelo DRR.5/2000/A.17.01.2000.SREAS-RAA,\
+    \ DR.IS-B [29] de 04.02.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2000-406104
+  date: '2000-01-17'
+- type: amended_by
+  target: pt:dre:582030:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 4/93/A de 27-Fev DR.IS-B [49] (alterado pelo presente diploma e pelo\
+    \ DRR 13/97/A de 02-Jun DR.IS-B [126]), pelo DRR.22/2000/A.2000.07.27.SREAS-RAA, DR.IS-B [206] de 06/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2000-582030
+  date: '2000-07-27'
+- type: amended_by
+  target: pt:dre:580988:por
+  label: "Alterado o quadro de pessoal do Hospital do Divino Espírito Santo de Ponta Delgada, aprovado pelo Decreto Regulamentar\
+    \ Regional n.º 17/96/A, de 26 de Março, DR.IS-B [73] com as alterações introduzidas pelo presente diploma e pelos Decretos\
+    \ Regulamentares Regionais n.os 3/2000/A, de 28 de Janeiro, e 5/2000/A, de 4 de Fevereiro, pelo DRR.3/2004/A.21.01.2004.PG-RAA,\
+    \ DR.IS-B [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2004-580988
+  date: '2004-01-21'
+- type: amended_by
+  target: pt:dre:505668:por
+  label: "Alterado o quadro de pessoal do Hospital de Santo Espírito de Angra do Heroísmo, aprovado pelo DRR 4/93/A, de 27-Fev,\
+    \ alterado pelo presente diploma, pelo DRR.29/2004/A.08.06.2004.PG-RAA, DR.IS-B [170] de 21.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-2004-505668
+  date: '2004-06-08'
+- type: amended_by
+  target: pt:dre:517637:por
+  label: "Alterado o quadro de pessoal, aprovado pelo DRR 17/96/A, de 26-Mar, na redacção do presente diploma, pelo DRR.22/2004/A.08.06.2004.SRAS-RAA,\
+    \ DR.IS-B [153] de 01.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2004-517637
+  date: '2004-06-08'
+- type: amended_by
+  target: pt:dre:525609:por
+  label: "Alterado o quadro de pessoal do Hospital Santo Espírito de Angra do Heroísmo, aprovado pelo DRR 4/93/A, de 27-Fev,\
+    \ na redacção do presente diploma, pelo DRR.28/2004/A.28.06.2004.PG-RAA, DR.IS-B [169] de 20.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-2004-525609
+  date: '2004-06-28'
+- type: amended_by
+  target: pt:dre:625181:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 17/96/A de 26-Nov, com a redacção do presente diploma, pelo DRR.31/2004/A.16.07.2004.PG-RAA,\
+    \ DR.IS-B [200] de 25.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2004-625181
+  date: '2004-07-16'
+- type: amended_by
+  target: pt:dre:603270:por
+  label: "Alterado o quadro de pessoal do Hospital do Divino Espírito Santo aprovado pelo DRR 17/96/A de 26-Mar, com a redacção\
+    \ dada pelo presente diploma, pelo DRR.4/2005/A.24.01.2005.PG-RAA, DR.IS-B [33] de 16.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2005-603270
+  date: '2005-01-24'
+- type: amended_by
+  target: pt:dre:242018:por
+  label: "Alterado o quadro de pessoal do Hospital da Horta, aprovado pelo DRR 18/92/A, de 22-Abr, alterado pelo presente\
+    \ diploma, pelo DRR.17/2005/A.12.07.2005.PG-RAA, DR.IS-B [151] de 08.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2005-242018
+  date: '2005-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
@@ -98,16 +166,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/4/1993/02/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/4/1993/02/27/a/dre
+- type: cites
+  target: pt:dre:166802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662335:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:35Z'
   warnings: []
   errors: []
 ---
@@ -146,12 +250,12 @@ O quadro de pessoal do Centro de Saúde de Santa Cruz das Flores, aprovado pelo 
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de Fevereiro de 1996.
 
-**O Presidente do Governo Regional, em exercício, Adolfo Ribeiro Lima.**
+O Presidente do Governo Regional, em exercício, Adolfo Ribeiro Lima.
 
-**Assinado em Angra do Heroísmo em 19 de Março de 1996.**
+Assinado em Angra do Heroísmo em 19 de Março de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/095b00/09340937.pdf))](https://files.diariodarepublica.pt/1s/1996/04/095b00/09340937.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/095b00/09340937.pdf)

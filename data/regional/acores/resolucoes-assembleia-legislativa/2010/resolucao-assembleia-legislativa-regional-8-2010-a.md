@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/8/2010/06/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/8-2010-335464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71f1088c7b1ea30380083fa7e2c0182559c4ba64175b653c66f3c969390d768e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63b4934e57775f1c273ec4398e31fd25f927912722c94d1f0cf4285caccff9da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Governo Regional
-- Ensino Profissional
-- Projeto de Investimento
-- Programa
-- Jovem Empresário
-- Recomendação
 - Açores
+- Empreendedorismo
+- Ensino Profissional
+- Governo Regional
+- Jovem Empresário
+- Programa
+- Projeto de Investimento
+- Recomendação
 - Sistema de Ensino
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:29Z'
   warnings: []
   errors: []
 ---
@@ -131,4 +131,4 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos reg
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de Maio de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.

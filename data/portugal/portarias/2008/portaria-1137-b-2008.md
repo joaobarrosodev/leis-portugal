@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 196/2008, 1º Suplemento, Série I de 2008-10-09
   number: '196'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7214-(7) a 7214-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1137-b/2008/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1137-b-2008-220950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f68bea8997d588ec69c991c112c56031dc0ac9e59ff931c2f76e9a48fc2b509
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e94d27ee857c09a67b2ce4efe7a406c5d9b3650d6ae53a8c367859939820ac77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Proteção da Floresta
+- Aproveitamento Agrícola
+- Exploração Florestal
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Exploração Florestal
+- Proder
+- Proteção da Floresta
 - Regulamento
 - Regulamento de Aplicação da Acção N.º 2.3.2.-ordenamento e Recuperação de Póvoamentos
-- Aproveitamento Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601535:por
+  label: "Aditados os n.ºs. 4, 5 e 6 ao art. 11º do Regulamento aprovado pelo presente diploma, pela PORT.147/2009.06.02.2009.MADRP,\
+    \ DR.IS [26] de 06.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-2009-601535
+  date: '2009-02-06'
+- type: amended_by
+  target: pt:dre:249855:por
+  label: "Alteradas as al.s b), d), e), h), i) e t) do art. 4º, subal. ii) da al. a) do nº 1 do art. 5º, al. d) do ar. 6º,\
+    \ al. d) do art. 10º, al. e) do nº 1 e al. b) do nº 2 do art. 13.º, nº 1 do art. 17º, nºs 1, 2, 4 e 5 do art. 18º, al.s\
+    \ b) e c) do nº 1 do art. 21º, nºs 1, 3, 4 e 6 do art. 22º, epígrafe e nºos 2, 3 e 5 do art. 24º, art. 27º e al. a) do\
+    \ nº 1 e nº 2 do art. 29º do Regulamento bem como o proémio do nº 1.2, nº 1.6, al. a) do nº 1.7 e al. a) do nº 2.1 do\
+    \ anexo iii do Regulamento e revogada a al. c) do nº 2 do art. 13º e nº 8 do art. 22º do Regulamento, pela PORT.739-B/2009.09.07.2009.MADRP,\
+    \ DR.IS [131-Supl] de 09.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/739-b-2009-249855
+  date: '2009-07-09'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 10º, 13º ( ambos na redacção da Port 739-B/2009, de 09-Jul), 14º (rectificado pela Decl Rect\
+    \ 72/2008, de 05-Dez), 15º, 16º, 17º (na redacção da Port 739-B/2009, de 09-Jul) e 19º e os anexos III, VI, IX e X e revogados\
+    \ a al. b) do art. 9º, a al. a) do nº1 do art. 10º, o art. 29º, a al. d) do nº1.1 do anexo III e o nº2 do anexo IX do\
+    \ Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 4.º ( na redacção da Port. 739-B/2009, de 09-Jul ), 8.º, 10.º ( na redacção da Port. 739-B/2009,\
+    \ de 09-Jul e da Port. 814/2010, de 27-Ago ), 24.º e 27.º (ambos na redacção da Port. 739-B/2009, de 09-Jul ) e 28.º e\
+    \ os anexos iii ( na redacção da Port. 739-B/2009, de 09-Jul e da Port. 814/2010, de 27-Ago ) e ix ( na redacção da Port.\
+    \ 814/2010, de 27-Ago ) e revogado o segundo parágrafo da nota do anexo viii do Regulamento de Aplicação da Acção n.º\
+    \ 2.3.2, «Ordenamento e Recuperação de Povoamentos», aprovado pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:552790:por
+  label: "Determinado que, durante a campanha agrícola que se iniciou em 01.10.2011 e termina em 30.09. 2012, sejam considerados\
+    \ casos de força maior, não conduzindo a aplicação de quaisquer sanções, o incumprimento das densidades previstas nos\
+    \ planos de gestão florestal (PGF), das operações de florestação ou de reflorestação, realizadas no âmbito da Ação n.º\
+    \ 2.3.2 «Ordenamento e recuperação de povoamentos», cujo Regulamento de Aplicação foi aprovado pel presente diploma, pela\
+    \ PORT.104/2012.17.04.2012.MAMAOT, DR.IS [76] de 17.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/104-2012-552790
+  date: '2012-04-17'
 - type: cites
   target: celex:32003R1782
   label: null
@@ -92,16 +135,36 @@ relationships:
   target: celex:32006R1975
   label: null
   source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: corrected_by
+  target: pt:dre:440499:por
+  label: "Rectificado o Regulamento aprovado pelo presente diploma pela DECL-RECT.72/2008.05.12.2008.PCM, DR.IS [236] de 05.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/72-2008-440499
+  date: '2008-12-05'
+- type: corrected_by
+  target: pt:dre:297176:por
+  label: "Rectificado o art. 18º da Port 814/2010, de 27-Ago [na redacção que conferiu ao nº1 do art. 13º do presente diploma],\
+    \ pela DECL-RECT.32-A/2010.26.10.2010.PCM, DR.IS [208-Supl] de 26.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/32-a-2010-297176
+  date: '2010-10-26'
+- type: repealed_by
+  target: pt:dre:498497:por
+  label: "Revogado, com efeitos a 28.08.2010, o n.º 2.4 do ponto «Despesas não elegíveis» do anexo III (alterado pelas Port\
+    \ 739-B/2009 de 09-jul, 814/2010 de 27-ago e 228/2011 de 09-jun) do Regulamento de Aplicação da Ação n.º 2.3.2, «Ordenamento\
+    \ e Recuperação de Povoamentos» pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013, nos termos do disposto\
+    \ no seu art. 20º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 article_structure:
   article_count: 32
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:07Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +223,7 @@ j) Anexo X, relativo aos níveis dos critérios a considerar para hierarquizaç�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 7 de Outubro de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 7 de Outubro de 2008.
 
 ## ANEXO
 
@@ -554,7 +617,7 @@ b) As respectivas operações não estejam concluídas, antes da data da aprova�
 
 [a que se refere a alínea q) do artigo 4.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
 
 ## ANEXO II
 
@@ -562,7 +625,7 @@ Espécies elegíveis na reflorestação e florestação e período de atribuiç�
 
 [a que se refere a alínea b) do n.º 2 e o n.º 3 do artigo 5.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
 
 ## ANEXO III — Despesas elegíveis e não elegíveis
 
@@ -710,7 +773,7 @@ b) Manter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobili
 
 [a que se refere a alínea a) do n.º 2 do artigo 13.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
 
 ## ANEXO VI — Nível dos apoios
 
@@ -718,17 +781,17 @@ b) Manter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobili
 
 Subacção n.º 2.3.2.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
 
 Subacção n.º 2.3.2.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
 
 ## ANEXO VII — Prémio à manutenção
 
 (a que se refere o n.º 2 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
 
 Nota. - Em povoamentos mistos constituídos por espécies folhosas e resinosas atribui-se o prémio de manutenção definido para as espécies que representam, pelo menos, 50 % da área ou da densidade do povoamento.
 
@@ -736,7 +799,7 @@ Nota. - Em povoamentos mistos constituídos por espécies folhosas e resinosas a
 
 (a que se refere o n.º 2 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
 
 Factor de majoração do prémio por perda de rendimento
 
@@ -770,4 +833,4 @@ c) Para instalação de sistemas agro-florestais, independentemente do benefici�
 
 (a que se refere o n.º 2 do artigo 15.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0000700017.pdf)

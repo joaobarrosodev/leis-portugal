@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/392/2009/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/392-2009-603951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcadfdc42b5553f726d9bc735f41b7f0d9c898100dcc674a9f2457ace5c0613c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 898036a8289b94360322c08d2add51d6b0b896144eef8393da86fab3743fd79a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:333492:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333492:por
+  label: "Anexados vários terrenos cinegéticos à zona de caça atribuída pela Port 269/2003, de 24-Mar, alterada pelo presente\
+    \ diploma, pela PORT.647/2010.09.08.2010.MADRP, DR.IS [153] de 09.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-2010-333492
+  date: '2010-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/269/2003/03/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/269/2003/03/24/p/dre
+- type: cites
+  target: pt:dre:231525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:55Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +128,4 @@ Cumpridos os preceitos legais, com fundamento no disposto no artigo 21.º, em co
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 3 de Abril de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07000/0219302194.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07000/0219302194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07000/0219302194.pdf)

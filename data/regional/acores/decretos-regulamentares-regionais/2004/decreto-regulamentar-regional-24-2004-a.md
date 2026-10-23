@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/153b00/40334038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/2004/07/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2004-517643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed0df1da1324f6395adac72e52c379f28c227fc464f7d943452708d38d5a3eaf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d52266f10530a8295648200e3e7b4aa2d56e9c83da35e94d5febd1ea9fb0e0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Proteção dos Animais
-- Contra-ordenação
-- Fiscalização
-- Proteção do Ambiente
-- Diversidade Biológica
-- Zona de Proteção
-- Proteção Fitossanitária
-- Sanção
 - Açores
+- Contra-ordenação
+- Diversidade Biológica
+- Fiscalização
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
+- Proteção Fitossanitária
 - Rede Natura 2000
+- Sanção
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: amended_by
@@ -103,16 +103,21 @@ relationships:
   target: celex:31997L0062
   label: null
   source: http://data.europa.eu/eli/dir/1997/62/oj
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:53Z'
   warnings: []
   errors: []
 ---
@@ -167,13 +172,13 @@ As referências feitas às competências no Decreto-Lei n.º 140/99, de 24 de Ab
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 4 de Maio de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 8 de Junho de 2004.**
+Assinado em Angra do Heroísmo em 8 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — [(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2004/07/153b00/40334038.pdf)
 

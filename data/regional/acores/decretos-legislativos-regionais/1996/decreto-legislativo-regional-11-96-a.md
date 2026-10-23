@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/1996/06/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1996-435394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 637510e0d336786f00068e5bd483403ce0c8d45d3607e4dec0dd7006f4552969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b4b499e43d16a9dff765874bce5b95eebe21fff992dd29a53e0368d860bc228
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Financiamento
 - Governo Regional
-- Política de Habitação
 - Habitação
-- Açores
+- Política de Habitação
 relationships:
 - type: amended_by
   target: pt:dre:552336:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249997:por
+  label: "Alterados os arts. 3.º e 24.º do DLR 14/95/A de 14-Jul da ALR-RAA DR.IS-A [193] 22/Ago/1995 na redacção do presente\
+    \ diploma e do DLR 8/98/A de 11-Mar, DR.IS-A [86] 13/Abr/1998, pelo DLR.5/2002/A.2002.02.28.ALR-RAA [57] DE 08/MAR/2002\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2002-249997
+  date: '2002-02-28'
+- type: amended_by
+  target: pt:dre:546003:por
+  label: "Alterado o art. 3.º do DLR 14/95/A, de 22-Ago, na redacção do presente diploma, pelo DLR.37/2006/A.12.10.2006.AL-RAA,\
+    \ DR.IS [210] de 31.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/37-2006-546003
+  date: '2006-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/1995/08/22/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/14/1995/08/22/a/dre
+- type: cites
+  target: pt:dre:431793:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552336:por
+  label: "Revogado o artigo 24.º do capítulo VI do Decreto Legislativo Regional n.º 14/95/A, de 22 de Agosto, na redacção\
+    \ do presente diploma, pelo DLR.59/2006/A.21.11.2006.AL-RAA, DR.IS [249] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/59-2006-552336
+  date: '2006-11-21'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:40Z'
   warnings: []
   errors: []
 ---
@@ -178,10 +201,10 @@ O presente diploma reporta os seus efeitos à data da publicação do [Decreto L
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 11 de Abril de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 15 de Maio de 1996.**
+Assinado em Angra do Heroísmo em 15 de Maio de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

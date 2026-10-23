@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 66/2009, 2º Suplemento, Série I de 2009-04-03
   number: '66'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2128-(48) a 2128-(49)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/06602/0004800049.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/353-e/2009/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/353-e-2009-418659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 473fe352e3b0c5765640377926fe47ef315ab3488681262fd18478973a664f07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa95e287b90b2e716920f2944e2fa8e53f2fc030e752b2d45709820cf4e5d358
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
-- Combustível de Substituição
-- Produto Petrolífero
 - Combustível
+- Combustível de Substituição
+- Energia não Poluente
 - Gasóleo
 - Isenção Fiscal
 - Preço de Venda
 - Produção
+- Produto Petrolífero
 - Produtor
 relationships:
 - type: amended_by
   target: pt:dre:617110:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:617110:por
+  label: "Alterada a fórmula B constante no nº1 do art. 1º e o anexo do presente diploma, pela PORT.69/2010.04.02.2010.MEID,\
+    \ DR.IS [14] de 04.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/69-2010-617110
+  date: '2010-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/49/2009/02/26/p/dre
   label: null
@@ -92,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1554-a/2007/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1554-a/2007/12/07/p/dre
+- type: cites
+  target: pt:dre:604599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667699:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:41Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +158,7 @@ B = index gasóleo + isenção ISP - desconto logístico + 10/(percentagem da ob
 
 C = index mix óleos + index frete + index metanol + custos variáveis prod. + outros custos prod.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06602/0004800049.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06602/0004800049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06602/0004800049.pdf)
 
 onde:
 
@@ -186,10 +204,10 @@ em que os termos «index mix óleos», «index frete», «index metanol» e «cu
 
 3 - As vendas mensais, por produtor, de volumes de biocombustíveis que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP) não podem exceder a décima parte do respectivo volume anual previsto nos números anteriores para efeitos de incorporação no gasóleo rodoviário.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 3 de Abril de 2009.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 3 de Abril de 2009.
 
 ## ANEXO — (a que se refere o n.º 2 do artigo 2.º)
 
 Limites máximos, por produtor, de venda de volumes de biocombustível que beneficiem do regime de isenção de imposto sobre os produtos petrolíferos e energéticos (ISP).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06602/0004800049.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06602/0004800049.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06602/0004800049.pdf)

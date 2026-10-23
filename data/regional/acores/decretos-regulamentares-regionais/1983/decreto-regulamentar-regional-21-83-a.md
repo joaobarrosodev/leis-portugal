@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1983-451001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da291073462ce46895d027347f226be932c503c993c1cdae0d6ad5ce88ba84b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba047f355ce169c66140b450b9d2f4978abd55e72ca2546ec4cc5d8c4f1a7a8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Conselho de Administração
+- Estabelecimento Hospitalar
+- Pessoal de Enfermagem
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:252027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:55Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +112,16 @@ O exercício de funções no conselho de gerência é remunerado, no caso do mé
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. - 1 - O enfermeiro, membro do conselho de gerência dos Hospitais de Angra do Heroísmo, Horta e Ponta Delgada, tem o vencimento correspondente ao cargo de enfermeiro-director, referido na tabela anexa ao [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
+Artigo único. - 1 - O enfermeiro, membro do conselho de gerência dos Hospitais de Angra do Heroísmo, Horta e Ponta Delgada, tem o vencimento correspondente ao cargo de enfermeiro-director, referido na tabela anexa ao [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
 
 2 - O membro do conselho de gerência que nos Hospitais de Angra do Heroísmo, Horta e Ponta Delgada tome posse do respectivo lugar na falta do administrador do hospital aufere o vencimento correspondente ao de director de serviços.
 
 Aprovado em Conselho, em 8 de Março de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 12 de Abril de 1983.**
+Assinado em Angra do Heroísmo em 12 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

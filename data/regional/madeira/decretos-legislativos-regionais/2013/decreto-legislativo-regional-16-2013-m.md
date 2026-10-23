@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2013/05/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2013-261137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5dbab24f72b13437141691584d5c97c4c0423c439412db3556960c7ff43dc77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c74043a53d38f22eac280493dadc1a65962e6c325a80a6b95f1268090f411ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,57 +66,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
+- Agência Regional de Energia e Ambiente
 - Agência Regional para o Desenvolvimento da Investigação Tecnologia e Inovação
-- Investigador
-- Financiamento
-- Formação Profissional
-- Investigação Científica e Tecnológica
+- Avaliação das Instituições
+- Base de Dados
+- Bolsa de Estudos
 - Centro Tecnológico
 - Comissão de Acompanhamento
 - Comissão de Análise
-- Gestão Financeira
+- Confidencialidade
 - Conselho Científico
 - Conselho Fiscal
 - Contrato de Financiamento
 - Criação de Serviços
 - Definição de Competências
-- Mudança Tecnológica
 - Direção
 - Divulgação Cultural
 - Empresa Privada
+- Estabelecimento de Ensino
+- Financiamento
+- Formação Profissional
 - Fundo Regional de Ciência Tecnologia e Investigação
 - Gestão do Património
-- Base de Dados
+- Gestão Financeira
 - Instituição de Investigação
-- Avaliação das Instituições
+- Investigação Científica e Tecnológica
+- Investigador
+- Laboratório do Estado
 - Laboratório Regional de Engenharia Civil
 - Literatura Científica
-- Agência Regional de Energia e Ambiente
-- Srditi
-- Laboratório do Estado
+- Madeira.região Autónoma
+- Mudança Tecnológica
 - Núcleo de Investigação Científica
 - Organismo do Estado
 - Política de Investigação e Desenvolvimento
-- Sistema de Informação
-- Estabelecimento de Ensino
-- Qualificação Profissional
-- Madeira.região Autónoma
 - Projecto de Investigação
-- Confidencialidade
+- Qualificação Profissional
 - Regime Jurídico
-- Bolsa de Estudos
+- Sistema de Informação
+- Srditi
 - Universidade da Madeira
 relationships: []
 article_structure:
   article_count: 74
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:41Z'
   warnings: []
   errors: []
 ---
@@ -229,7 +229,7 @@ Disposições comuns
 
 1 - O SRDITI é constituído por:
 
-a) Unidades científicas de I&D;
+a) Unidades científicas de I&D
 
 b) Unidades tecnológicas de ID&I.
 
@@ -255,9 +255,9 @@ Unidades Científicas de I&D
 
 2 - As unidades científicas de I&D que integram o SRDITI distribuem-se pelas seguintes espécies:
 
-a) Laboratórios regionais de I&D;
+a) Laboratórios regionais de I&D
 
-b) Outras instituições públicas de I&D;
+b) Outras instituições públicas de I&D
 
 c) Instituições privadas de I&D.
 
@@ -585,7 +585,7 @@ c) Centros de incubação;
 
 d) Escolas tecnológicas;
 
-e) Núcleos empresariais de IDT&I;
+e) Núcleos empresariais de IDT&I
 
 f) Parques e polos tecnológicos.
 
@@ -827,10 +827,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 17 de abril de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 3 de maio de 2013.**
+Assinado em 3 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

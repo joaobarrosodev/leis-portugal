@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/27982799.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/499/2007/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/499-2007-521203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24d5d3305275ed4fe1a8cabd5ed6171b9bea751d787b22423b210a41dc6194ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de8751712b1402d699306b9c761c23bd2bfe3e26030a2494d856c12378072183
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,36 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Nacional de Estatística
-- Política Fiscal
-- Instituto dos Registos e do Notariado
-- Direcção Geral dos Impostos
 - Banco de Portugal
 - Dados Estatísticos
-- Documento Eletrónico
-- Página na Internet
 - Direcção Geral das Contribuições e Impostos
+- Direcção Geral dos Impostos
+- Documento Eletrónico
 - IES
+- Instituto dos Registos e do Notariado
+- Instituto Nacional de Estatística
+- Página na Internet
+- Política Fiscal
 - Registo Comercial
 relationships:
 - type: amended_by
   target: pt:dre:246371:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:246371:por
+  label: "Alterados os art.s 2º e 5º e aditado um art. 5º-A pela PORT.245/2008.27.03.2008.PCM, DR.IS [61] de 27.03.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/245-2008-246371
+  date: '2008-03-27'
 - type: cites
   target: celex:32002R1606
   label: null
   source: http://data.europa.eu/eli/reg/2002/1606/oj
+- type: repealed_by
+  target: pt:dre:70748594:por
+  label: Revogada pelo(a) Portaria n.º 370/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/370-2015-70748594
+  date: '2015-10-20'
+- type: repealed_by
+  target: pt:dre:118406929:por
+  label: Revogada, a partir de 25.01.2019, pelo(a) Portaria n.º 31/2019 - Diário da República n.º 17/2019, Série I de 2019-01-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/31-2019-118406929
+  date: '2019-01-24'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:59Z'
   warnings: []
   errors: []
 ---
@@ -184,4 +200,4 @@ f) Efectuar o pagamento do registo da prestação de contas, no prazo de cinco d
 
 Em 3 de Abril de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira. - Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira. - Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça.

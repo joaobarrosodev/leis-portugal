@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2003/07/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2003-673642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 301a8685d7ce883345509df8f3560b1863f56d9a4103d02fe676e3bdb82c40f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cd95b0d8370ca48b797df4cd3b8e99b09c6b21c38fcd85c2126db0bf4993172
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,42 @@ relationships:
   target: pt:dre:670489:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604588:por
+  label: "Alterados os arts. 6.º, 14.º e 16.º do DLR 24/2002/M, de 23-Dez, com as alterações introduzidas pelo presente diploma,\
+    \ pelo DLR.1/2005/M.31.01.2005.ALR-RAM, DR.IS-A [35] de 18.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2005-604588
+  date: '2005-01-31'
+- type: amended_by
+  target: pt:dre:481501:por
+  label: "Alterados os arts. 6º e 13º do DLR 24/2002/M de 23-Dez, e republicado com a redacção do presente diploma, bem como\
+    \ das alterações ora introduzidas pelo DLR.19/2005/M.14.11.2005.AL-RAM, DR.IS-A [226] de 24.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2005-481501
+  date: '2005-11-14'
+- type: amended_by
+  target: pt:dre:398790:por
+  label: "Alterado o art. 5º do DLR 24/2002/M, de 23-Dez, na redacção do presente diploma, pelo DLR.2-A/2008/M.16.01.2008.AL-RAM,\
+    \ DR.IS [11-Supl] de 16.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-a-2008-398790
+  date: '2008-01-16'
+- type: amended_by
+  target: pt:dre:444240:por
+  label: "Alterados os arts. 5.º, 6º do DLR 24/2002/M de 23-Dez, na redação do presente diploma, pelo DLR.45/2008/M.31.12.2008.AL-RAM,\
+    \ DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/45-2008-444240
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:277585:por
+  label: "Dada nova redacção aos arts. 5º e 6º do DLR 24/2002/M de 23-Dez, alterado pelo presente diploma, pelo DLR.8/2011/M.01.04.2011.AL-RAM,\
+    \ DR.IS [65] de 01.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2011-277585
+  date: '2011-04-01'
+- type: amended_by
+  target: pt:dre:670489:por
+  label: "Dada nova redacção aos arts. 5º e 6º do DLR 24/2002/M de 23-Dez, alterado pelo presente diploma, pelo DLR.11/2011/M.06.07.2011.AL-RAM,\
+    \ DR.IS [128] de 06.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2011-670489
+  date: '2011-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24/2002/12/23/m/dre
   label: null
@@ -92,16 +128,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:13Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +180,9 @@ Finalidade das operações
 
 O aval será prestado a operações de crédito que tenham por finalidade a elaboração e execução de projectos de investimento ou acções enquadráveis na estratégia de desenvolvimento regional, vertida no Plano de Desenvolvimento Económico e Social da Região Autónoma da Madeira, bem como a reestruturação de sectores.
 
-###### Artigo 6.º — Condições para a autorização
+Artigo 6.º
+
+Condições para a autorização
 
 1 - ...
 
@@ -154,10 +208,10 @@ d) Financiamento de operações de reestruturação de sectores económicos trad
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 26 de Junho de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, Miguel José Luís de Sousa.**
+O Presidente da Assembleia Legislativa Regional, em exercício, Miguel José Luís de Sousa.
 
-**Assinado em 8 de Julho de 2003.**
+Assinado em 8 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

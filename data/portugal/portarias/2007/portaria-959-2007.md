@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16000/0550705510.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/959/2007/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/959-2007-640636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cf9a6a02d174791603a6b528d7447bf864aab1c252bba6f38eb6f1a7120993a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2de4d65e5f627c5c86b95bb64835e17330ff94ec2c90d4dea5bff3f3d71ac1c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Educação
+- Agência Nacional para a Qualificação
 - Definição de Competências
 - Estatuto
+- Ministério da Educação
 - Ministério do Trabalho e da Solidariedade Social
-- Agência Nacional para a Qualificação
 relationships:
 - type: amended_by
   target: pt:dre:175539:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:309296:por
+  label: "Alterado, a partir de 07.11.2010, o art. 2º dos Estatutos da Agência Nacional para a Qualificação, I. P., aprovados\
+    \ pelo presente diploma, pela PORT.1125/2010.02.11.2010.MFAP, DR.IS [212] de 02.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1125-2010-309296
+  date: '2010-11-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/276-c/2007/07/31/p/dre
   label: null
@@ -83,16 +89,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:569550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175539:por
+  label: "Revogado o presente diploma, na redação da Port 1125/2010, de 02-nov, pela PORT.294/2012.28.09.2012.MF, DR.IS [189]\
+    \ de 28.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-2012-175539
+  date: '2012-09-28'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:00Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +139,7 @@ São aprovados, em anexo à presente portaria e da qual fazem parte integrante, 
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Julho de 2007. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 31 de Julho de 2007. - A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 31 de Julho de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Julho de 2007. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 31 de Julho de 2007. - A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 31 de Julho de 2007.
 
 ## ANEXO — ESTATUTOS DA AGÊNCIA NACIONAL PARA A QUALIFICAÇÃO, I. P.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/473/2008/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/473-2008-449912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 953044302d3d975a2b2369b512900c7703be735865c536d6cf02afe723cb78bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d78a1496dc8948320e10fa2259d239fc399be421f136fc05ee4b3b90abd0741c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:334953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334953:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, pela PORT.428/2010.29.06.2010.MADRP,\
+    \ DR.IS [124] de 29.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/428-2010-334953
+  date: '2010-06-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -95,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/347/2002/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/347/2002/04/02/p/dre
+- type: cites
+  target: pt:dre:300454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483620:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:32Z'
   warnings: []
   errors: []
 ---
@@ -135,4 +161,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 3 de Junho de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11800/0362003621.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11800/0362003621.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11800/0362003621.pdf)

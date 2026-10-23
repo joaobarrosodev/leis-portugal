@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/41/1996/10/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1996-232973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 068fddfd951152394b188b43928f9b716bf5af04fe47f64061ed77731a2f5f5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8701d60993bacd0821d289f42515fd42b042cc7ac6cc1c2f87d35821433a6d1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aposentação
-- Quadro de Pessoal
-- Instituto de Gestão de Regimes de Segurança Social
-- Administração Regional
-- Gestão de Recursos Humanos
 - Açores
+- Administração Regional
+- Aposentação
+- Gestão de Recursos Humanos
+- Instituto de Gestão de Regimes de Segurança Social
+- Quadro de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
@@ -88,16 +88,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre
+- type: cites
+  target: pt:dre:166802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458870:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:42Z'
   warnings: []
   errors: []
 ---
@@ -120,18 +140,18 @@ A extinção de lugares, resultante das alterações introduzidas pelo presente 
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 7 de Agosto de 1996.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 16 de Setembro de 1996.**
+Assinado em Angra do Heroísmo em 16 de Setembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO I — Alterações aos quadros de pessoal anexos ao [Decreto Regulamentar Regional n.º 9/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1991-458870), de 7 de Março
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/233b00/35223524.pdf))](https://files.diariodarepublica.pt/1s/1996/10/233b00/35223524.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/233b00/35223524.pdf)
 
 ## ANEXO II — Alterações aos quadros de pessoal anexos ao [Decreto Regulamentar Regional n.º 13/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1993-268058), de 24 de Junho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/233b00/35223524.pdf))](https://files.diariodarepublica.pt/1s/1996/10/233b00/35223524.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/233b00/35223524.pdf)

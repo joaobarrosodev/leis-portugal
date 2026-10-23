@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/14700/0491604916.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/830/2007/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/830-2007-636386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f796932357729c16234aa5db87c782b23e4ad928202f73c6a5e6bda6c595ecca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0979f295670fa39ededf90b8ba45c0c48c195dd065cec8c51de0aa4cd1743c03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
-- Instituto Nacional de Estatística
 - Catástrofe
+- Instituto Nacional de Estatística
 - Proteção do Ambiente
 - Qualidade do Ambiente
 - Substância Perigosa
 - Taxa
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:56890482:por
@@ -95,16 +95,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/254/2007/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/254/2007/07/12/p/dre
+- type: repealed_by
+  target: pt:dre:56890482:por
+  label: Revogado o n.º 10 pelo(a) Portaria n.º 186/2014 - Diário da República n.º 178/2014, Série I de 2014-09-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-2014-56890482
+  date: '2014-09-16'
+- type: repealed_by
+  target: pt:dre:116432995:por
+  label: Revogada pelo(a) Portaria n.º 266/2018 - Diário da República n.º 181/2018, Série I de 2018-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-2018-116432995
+  date: '2018-09-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:15Z'
   warnings: []
   errors: []
 ---
@@ -179,4 +189,4 @@ c) Emissão de declaração bianual de validação da qualificação de verifica
 
 15.º A presente portaria produz efeitos desde a data de entrada em vigor do Decreto-Lei n.º 254/2007, de 12 de Julho.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 13 de Julho de 2007.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 13 de Julho de 2007.

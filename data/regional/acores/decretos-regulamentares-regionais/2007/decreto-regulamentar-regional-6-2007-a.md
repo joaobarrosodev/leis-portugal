@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2007/02/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2007-518199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd28ef3fc8330b9ced069890223e94825ef1c1290fa0ed7098fa92475e7beb10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b968519e5f2f53afd6a69160c767e976e609ba208815b495062f5f388051cbf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Director Municipal
-- Carta da Reserva Agrícola Regional
-- Santa CRUZ da Graciosa
 - Açores
+- Carta da Reserva Agrícola Regional
+- Plano Director Municipal
+- Santa CRUZ da Graciosa
 relationships:
 - type: amended_by
   target: pt:dre:221691583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:31944954:por
+  label: Alterado o Regulamento anexo ao DRR 6/2007/A de 8-fev, DR.IS [28] pelo(a) Aviso n.º 28/2013
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/28-2013-31944954
+  date: '2013-03-20'
+- type: amended_by
+  target: pt:dre:221691583:por
+  label: Determinada, a partir de 16.09.2023, a suspensão parcial do Plano Diretor Municipal pelo(a) Decreto Regulamentar
+    Regional n.º 26/2023/A - Diário da República n.º 180/2023, Série I de 2023-09-15, nos termos do n.º 1 do art. 4.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2023-221691583
+  date: '2023-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -114,16 +125,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1/1992/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1/1992/01/02/p/dre
+- type: cites
+  target: pt:dre:210468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584639:por
+  label: null
+  source: null
 article_structure:
   article_count: 46
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:27Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +227,7 @@ Ao procedimento de ratificação cabe verificar a conformidade com as disposiç�
 
 Assim, por se registarem divergências nas plantas do Plano com a Carta da Reserva Agrícola Regional para a Região Autónoma dos Açores, aprovada pela [Portaria n.º 1/92](https://diariodarepublica.pt/dr/detalhe/portaria/1-1992-567019), de 2 de Janeiro, e para garantir a conformidade com esta legislação, o presente diploma determina exclusões de ratificação em algumas áreas na planta de ordenamento e esclarece que usos se consideram atribuídos a essas áreas nessa mesma planta, bem como interpreta que representação da Reserva Agrícola Regional é que se considera identificada na planta de condicionantes.
 
-# Parte dessas exclusões de ratificação são referentes a áreas associadas na planta de ordenamento à Reserva Agrícola Regional, mas que não correspondem a terrenos afectos a essa mesma Reserva, as quais se encontram demarcadas nas figuras dos anexos n.os 5, 6, 7 e 8 do presente diploma.
+Parte dessas exclusões de ratificação são referentes a áreas associadas na planta de ordenamento à Reserva Agrícola Regional, mas que não correspondem a terrenos afectos a essa mesma Reserva, as quais se encontram demarcadas nas figuras dos anexos n.os 5, 6, 7 e 8 do presente diploma.
 
 Nas situações das figuras do anexo n.º 5, as áreas que não correspondem a terrenos afectos à Reserva Agrícola Regional são consideradas na planta de ordenamento como pertencentes à categoria de espaços agrícolas não incluídos na Reserva Agrícola Regional, da classe de espaços agrícolas. Este uso foi atribuído a partir da Carta de Potencialidades Agrárias - Vocação de Solos, elemento que acompanha o Plano e que serviu de base à demarcação daquela categoria de espaços na planta de ordenamento.
 
@@ -330,11 +409,11 @@ O Plano Director Municipal de Santa Cruz da Graciosa entra em vigor no dia segui
 
 Aprovado em Conselho do Governo Regional, em Vila Nova do Corvo, em 4 de Outubro de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 12 de Janeiro de 2007.**
+Assinado em Angra do Heroísmo em 12 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -1224,4 +1303,4 @@ Nos termos da lei, deve ser comunicada à Direcção Regional da Cultura, no pra
 
 Do ANEXO N.º 2 ao ANEXO N.º 9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/02800/10041021.pdf))](https://files.diariodarepublica.pt/1s/2007/02/02800/10041021.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/02800/10041021.pdf)

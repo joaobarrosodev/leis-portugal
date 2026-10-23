@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2008/07/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2008-455886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a30db31af1a0e91e74e7bc92b9cefdb22681419f10eeef85de8e09d073d5d5ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 441a7a2e918ffe3b2b101f3ab8d24a329c9699bee2fe4567d0be80a816136e10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,48 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Associação de Estudantes
 - Associação Juvenil
 - Bolsa de Formação
-- Turismo
-- Multa
-- Juventude
 - Comissão de Acompanhamento
 - Conselho Consultivo Regional de Juventude
 - Conselho de Juventude dos Açores
-- Governo Regional
 - Conselho Municipal
 - Consumidor
 - Contrato de Financiamento
 - Contrato Programa
 - Criação de Serviços
+- Cultura
 - Definição de Competências
-- Estabelecimento Hoteleiro
-- Política de Saúde
-- Fiscalização
-- Tempos Livres
-- Jovem
-- Informação
-- Sociedade da Informação
+- Desporto
 - Dirigente Associativo Juvenil
+- Estabelecimento Hoteleiro
+- Fiscalização
+- Governo Regional
+- Informação
+- Inserção Social
+- Jovem
+- Juventude
+- Multa
 - OTL
 - Parque de Campismo
-- Plano Municipal de Juventude
-- Política de Habitação
 - Plano Geral de Juventude dos Açores
+- Plano Municipal de Juventude
+- Política de Educação
+- Política de Emprego
+- Política de Habitação
+- Política de Juventude
+- Política de Saúde
+- Política Social
+- Proteção do Consumidor
+- Protecção à Juventude
 - REDE de Intalações Juvenis dos Açores
 - Registo Açoriano de Associações de Juventude
-- Política de Educação
-- Política Social
-- Cultura
-- Inserção Social
-- Política de Emprego
-- Protecção à Juventude
-- Proteção do Consumidor
-- Política de Juventude
 - Residência de Estudantes
-- Açores
-- Desporto
+- Sociedade da Informação
+- Tempos Livres
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:216846233:por
@@ -128,16 +128,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/1999/06/26/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/1999/06/26/a/dre
+- type: cites
+  target: pt:dre:275462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571473:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684814:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216846233:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 30/2023/A - Diário da República n.º 154/2023, Série I de 2023-08-09,
+    nos termos do art. 93.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-2023-216846233
+  date: '2023-08-09'
 article_structure:
   article_count: 119
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:47Z'
   warnings: []
   errors: []
 ---
@@ -1684,10 +1710,10 @@ f) Despacho Normativo n.º 75/2000, de 13 de Abril.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de Maio de 2008.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 25 de Junho de 2008.**
+Assinado em Angra do Heroísmo em 25 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

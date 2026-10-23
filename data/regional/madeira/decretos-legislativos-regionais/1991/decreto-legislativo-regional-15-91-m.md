@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/1991/06/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1991-647735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 906a775661c42924568d40bbd54b60a33e2e851e3343104b53ca84cfac7d7a47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd8cb5fe9b11d0db5c72ff9db9196f91d3b27e5332fe413d677953a433dd77d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
 - Atividade Industrial
-- Financiamento
 - Contrato de Concessão
 - Definição de Competências
 - Desenvolvimento Industrial
+- Financiamento
 - Fiscalização
-- Apoio ao Investimento
-- Projeto de Investimento
 - Indústria
 - Madeira.região Autónoma
+- Projeto de Investimento
 - Subsídio não Reembolsável
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:35Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +133,7 @@ A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a
 
 ##### Divisão n.º 2;
 
-##### Divisão n.º 3.
+Divisão n.º 3.
 
 ###### Artigo 2.º — Condições de acesso
 
@@ -343,8 +347,8 @@ O período de vigência deste diploma será o do Programa Operacional Plurifundo
 
 Aprovado em sessão plenária em 18 de Abril de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 7 de Maio de 1991.**
+Assinado em 7 de Maio de 1991.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14200/0462304624.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2008/07/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2008-454484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5695a9746318d2f416e32833ec3d0b668705d2f2ef454bd644441de174483d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 659c470b9e1d3da21bba3f1288ad9037d81afdaef6304f44d97d60ef80a73931
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aeroporto
+- ÁREA NON Aedificandi
 - Fiscalização
 - Ilha de São Jorge
 - Medidas Preventivas
-- Zona de Proteção
 - Política de Solos
-- Açores
-- ÁREA NON Aedificandi
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:145589083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145589083:por
+  label: Considerado revogado em razão de caducidade pelo(a) Decreto Legislativo Regional n.º 27/2020/A - Diário da República
+    n.º 202/2020, Série I de 2020-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2020-145589083
+  date: '2020-10-16'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:48Z'
   warnings: []
   errors: []
 ---
@@ -154,14 +164,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 1 de Julho de 2008.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 15 de Julho de 2008.**
+Assinado em Angra do Heroísmo em 15 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
 ## ANEXO I — Planta a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14200/0462304624.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14200/0462304624.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14200/0462304624.pdf)

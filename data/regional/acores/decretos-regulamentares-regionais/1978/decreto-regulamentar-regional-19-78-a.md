@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24000/21992202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1978-328179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca7f0c934c892faa50bc3d14076eaac1dce8e6cffc248a00876a467cdb9c8372
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4eb06ed2caa80b7e65c461c74f517b641ad2fcce303301b33bac54b894fc168
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Definição de Competências
+- Formas de Provimento
+- Governo Regional
+- Orgânica
+- Pessoal de Gabinete
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Secretaria Regional do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:221698:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274199:por
+  label: "Substituído o quadro do pessoal, pelo DRR.26/78/A.1978.12.22.GR-RAA, DR.IS [299]2ºSupl de 30/Dez/1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-1978-274199
+  date: '1978-12-22'
+- type: cites
+  target: pt:dre:139944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299068:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439441:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 42/83/A - Diário da República n.º 206/1983, Série I de 1983-09-07,
+    na parte em que contrarie o disposto neste diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/42-1983-439441
+  date: '1983-09-07'
+- type: repealed_by
+  target: pt:dre:401498:por
+  label: "Revogado o Cap. V, pelo DRR.44/84/A.1984.12.06.GR-RAA, DR.IS [282]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/44-1984-401498
+  date: '1984-12-06'
+- type: repealed_by
+  target: pt:dre:221698:por
+  label: "Revogado pelo DRR.35/86/A.1986.09.30.GR-RAA, DR.IS [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/35-1986-221698
+  date: '1986-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:46Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +136,7 @@ O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da 
 
 ### CAPÍTULO I — Atribuições e órgãos da Secretaria Regional
 
-###### Artigo 1.º A Secretaria Regional do Trabalho tem como atribuições:
+Artigo 1.º A Secretaria Regional do Trabalho tem como atribuições:
 
 a) Promover a melhoria e aperfeiçoamento das condições de trabalho;
 
@@ -122,7 +160,7 @@ j) Cooperar com a Secretaria Regional dos Assuntos Sociais na orientação e apo
 
 l) Promover, em colaboração com a Secretaria Regional da Educação e Cultura, acções de orientação escolar e profissional.
 
-###### Art. 2.º Para o desempenho das suas atribuições, a Secretaria Regional do Trabalho dispõe, para além do Gabinete do Secretário Regional, dos seguintes órgãos:
+Art. 2.º Para o desempenho das suas atribuições, a Secretaria Regional do Trabalho dispõe, para além do Gabinete do Secretário Regional, dos seguintes órgãos:
 
 Direcção Regional do Trabalho;
 
@@ -130,11 +168,11 @@ Direcção Regional do Emprego e Formação Profissional;
 
 Gabinete de Higiene e Segurança do Trabalho;
 
-#### Secção de Serviços Administrativos.
+Secção de Serviços Administrativos.
 
 ### CAPÍTULO II — Competência do Secretário Regional
 
-###### Art. 3.º No âmbito da Região Autónoma dos Açores, compete ao Secretário Regional do Trabalho:
+Art. 3.º No âmbito da Região Autónoma dos Açores, compete ao Secretário Regional do Trabalho:
 
 a) Propor e fazer executar na Região as políticas de trabalho, emprego e formação profissional;
 
@@ -144,13 +182,13 @@ c) Superintender e coordenar toda a acção da Secretaria Regional.
 
 ### CAPÍTULO III — Gabinete do Secretário Regional
 
-###### Art. 4.º O Gabinete do Secretário Regional do Trabalho tem a composição, funções e atribuições previstas na legislação regional em vigor.
+Art. 4.º O Gabinete do Secretário Regional do Trabalho tem a composição, funções e atribuições previstas na legislação regional em vigor.
 
-###### Art. 5.º O Secretário Regional poderá destacar da Secção dos Serviços Administrativos até dois funcionários para prestarem apoio ao Gabinete.
+Art. 5.º O Secretário Regional poderá destacar da Secção dos Serviços Administrativos até dois funcionários para prestarem apoio ao Gabinete.
 
 ### CAPÍTULO IV — Direcção Regional do Trabalho
 
-###### Art. 6.º À Direcção Regional do Trabalho compete:
+Art. 6.º À Direcção Regional do Trabalho compete:
 
 a) Coordenar e superintender na actuação dos serviços que a integrarem;
 
@@ -172,9 +210,9 @@ i) Assegurar a organização, actualização e manutenção de um arquivo-fichei
 
 j) Elaborar pareceres e prestar apoio técnico, sob assuntos da sua competência, a outros serviços e entidades interessadas.
 
-###### Art. 7.º A Direcção Regional do Trabalho é dirigida por um director regional.
+Art. 7.º A Direcção Regional do Trabalho é dirigida por um director regional.
 
-###### Art. 8.º - 1 - Para o desempenho das suas funções a Direcção Regional do Trabalho dispõe dos seguintes serviços:
+Art. 8.º - 1 - Para o desempenho das suas funções a Direcção Regional do Trabalho dispõe dos seguintes serviços:
 
 Delegação de Ponta Delgada;
 
@@ -190,7 +228,7 @@ b) Ilhas Terceira, S. Jorge e Graciosa;
 
 c) Ilhas do Faial, Pico, Flores e Corvo.
 
-###### Art. 9.º Às delegações compete:
+Art. 9.º Às delegações compete:
 
 a) Organizar e apreciar os processos de regulamentação colectiva de trabalho não convencional;
 
@@ -200,11 +238,11 @@ c) Participar nas tentativas de resolução dos conflitos colectivos de trabalho
 
 d) Organizar e manter actualizado um arquivo-ficheiro dos conflitos de trabalho, bem como de todos os instrumentos de regulamentação colectiva de trabalho.
 
-###### Art. 10.º Cada delegação é dirigida por um delegado.
+Art. 10.º Cada delegação é dirigida por um delegado.
 
 ### CAPÍTULO V — Direcção Regional do Emprego e Formação Profissional
 
-###### Art. 11.º À Direcção Regional do Emprego e Formação Profissional compete:
+Art. 11.º À Direcção Regional do Emprego e Formação Profissional compete:
 
 a) Coordenar e superintender na actuação dos serviços que a integrarem;
 
@@ -232,9 +270,9 @@ m) Actuar junto dos departamentos públicos e do sector privado com vista a uma 
 
 n) Elaborar pareceres e prestar apoio técnico sobre assuntos da sua competência aos serviços e entidades que deles careçam.
 
-###### Art. 12.º A Direcção Regional do Emprego e Formação Profissional é dirigida por um director regional.
+Art. 12.º A Direcção Regional do Emprego e Formação Profissional é dirigida por um director regional.
 
-###### Art. 13.º - 1 - Para o desempenho das suas funções, a Direcção Regional do Emprego e Formação Profissional dispõe dos seguintes serviços:
+Art. 13.º - 1 - Para o desempenho das suas funções, a Direcção Regional do Emprego e Formação Profissional dispõe dos seguintes serviços:
 
 a) Centro de Emprego de Ponta Delgada;
 
@@ -252,7 +290,7 @@ Ilhas Terceira, S. Jorge e Graciosa;
 
 Ilhas do Faial, Pico, Flores e Corvo.
 
-###### Art. 14.º Aos centros de emprego compete:
+Art. 14.º Aos centros de emprego compete:
 
 a) Recolher, analisar e promover a apreciação das informações respeitantes à situação de perspectivas de emprego;
 
@@ -268,9 +306,9 @@ f) Colaborar na aplicação, gestão e administração do sistema de protecção
 
 g) Cooperar com os serviços da Secretaria Regional dos Assuntos Sociais na orientação e apoio aos candidatos à emigração e aos trabalhadores emigrantes.
 
-###### Art. 15.º Cada centro de emprego é dirigido por um chefe de centro.
+Art. 15.º Cada centro de emprego é dirigido por um chefe de centro.
 
-###### Art. 16.º Ao Centro de Formação Profissional dos Açores compete:
+Art. 16.º Ao Centro de Formação Profissional dos Açores compete:
 
 a) Levar a efeito acções de formação, aperfeiçoamento ou reciclagem e de reabilitação profissional e criar as condições indispensáveis à sua realização;
 
@@ -282,13 +320,13 @@ d) Colaborar no desenvolvimento da formação profissional nos próprios locais 
 
 e) Colaborar com empresas e outras entidades que levem a efeito acções de formação profissional consideradas económica e socialmente úteis.
 
-###### Art. 17.º O Centro de Formação Profissional dos Açores é dirigido por um director, coadjuvado por um adjunto.
+Art. 17.º O Centro de Formação Profissional dos Açores é dirigido por um director, coadjuvado por um adjunto.
 
 ### CAPÍTULO VI — Gabinete de Higiene e Segurança do Trabalho
 
-###### Art. 18.º O Gabinete de Higiene e Segurança do Trabalho destina-se à difusão dos princípios e técnicas da prevenção de acidentes de trabalho e doenças profissionais.
+Art. 18.º O Gabinete de Higiene e Segurança do Trabalho destina-se à difusão dos princípios e técnicas da prevenção de acidentes de trabalho e doenças profissionais.
 
-###### Art. 19.º Ao Gabinete de Higiene e Segurança do Trabalho compete:
+Art. 19.º Ao Gabinete de Higiene e Segurança do Trabalho compete:
 
 a) Estudar e planear acções que interessem ao desenvolvimento dos princípios e técnicas de higiene e segurança do trabalho;
 
@@ -306,13 +344,15 @@ g) Apoiar a actividade das comissões de segurança e dos encarregados de segura
 
 h) Recolher, elaborar e divulgar toda a documentação no domínio da sua especialidade.
 
-###### Art. 20.º Para o desempenho das suas atribuições, o Gabinete de Higiene e Segurança do Trabalho articulará a sua actuação com os serviços competentes das Secretarias Regionais dos Assuntos Sociais e do Comércio e Indústria, nos termos que vierem a ser definidos por despacho conjunto.
+Art. 20.º Para o desempenho das suas atribuições, o Gabinete de Higiene e Segurança do Trabalho articulará a sua actuação com os serviços competentes das Secretarias Regionais dos Assuntos Sociais e do Comércio e Indústria, nos termos que vierem a ser definidos por despacho conjunto.
 
-###### Art. 21.º O Gabinete de Higiene e Segurança do Trabalho é dirigido por um técnico principal ou de 1.ª classe.
+Art. 21.º O Gabinete de Higiene e Segurança do Trabalho é dirigido por um técnico principal ou de 1.ª classe.
 
-### CAPÍTULO VII — Secção dos Serviços Administrativos
+### CAPÍTULO VII
 
-###### Art. 22.º A Secção dos Serviços Administrativos é um órgão de apoio técnico-administrativo, ao qual compete:
+#### Secção dos Serviços Administrativos
+
+Art. 22.º A Secção dos Serviços Administrativos é um órgão de apoio técnico-administrativo, ao qual compete:
 
 a) A execução do expediente geral da Secretaria Regional do Trabalho, registo e arquivo do mesmo;
 
@@ -322,11 +362,11 @@ c) Assegurar o serviço de economato e contabilidade;
 
 d) Elaborar e executar o orçamento.
 
-###### Art. 23.º A Secção dos Serviços Administrativos é dirigida por um chefe de secção.
+Art. 23.º A Secção dos Serviços Administrativos é dirigida por um chefe de secção.
 
 ### CAPÍTULO VIII — Pessoal
 
-###### Art. 24.º - 1 - O pessoal da Secretaria Regional do Trabalho será agrupado de acordo com a seguinte classificação:
+Art. 24.º - 1 - O pessoal da Secretaria Regional do Trabalho será agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -342,38 +382,38 @@ d) Pessoal auxiliar.
 
 4 - O Secretário Regional pode autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços, nas condições que forem fixadas com acordo do Secretário Regional da Administração Pública.
 
-###### Art. 25.º O pessoal da Secretaria Regional do Trabalho constitui um quadro único, competindo ao Secretário Regional a colocação do pessoal de harmonia com as necessidades, a conveniência dos serviços e as aptidões dos funcionários.
+Art. 25.º O pessoal da Secretaria Regional do Trabalho constitui um quadro único, competindo ao Secretário Regional a colocação do pessoal de harmonia com as necessidades, a conveniência dos serviços e as aptidões dos funcionários.
 
-###### Art. 26.º As condições de ingresso, acesso e carreira profissional do pessoal do quadro da Secretaria Regional do Trabalho serão para as respectivas categorias as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar e, até lá, regular-se-ão pela legislação regional e geral.
+Art. 26.º As condições de ingresso, acesso e carreira profissional do pessoal do quadro da Secretaria Regional do Trabalho serão para as respectivas categorias as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar e, até lá, regular-se-ão pela legislação regional e geral.
 
-###### Art. 27.º - 1 - Os lugares de delegado da Direcção Regional do Trabalho são providos em comissão de serviço por tempo indeterminado.
+Art. 27.º - 1 - Os lugares de delegado da Direcção Regional do Trabalho são providos em comissão de serviço por tempo indeterminado.
 
 2 - Os delegados são escolhidos pelo Secretário Regional, sob proposta do director regional do Trabalho, de entre técnicos da Secretaria Regional licenciados com curso superior adequado ao exercício daquelas funções.
 
-###### Art. 28.º Na impossibilidade de provimento dos lugares de delegado, nos termos do n.º 2 do artigo anterior, o Secretário Regional do Trabalho escolherá os respectivos titulares de entre os indivíduos habililitados com licenciatura e experiência profissional adequadas ao exercício das correspondentes funções, independentemente de pertencerem aos quadros da Secretaria Regional do Trabalho.
+Art. 28.º Na impossibilidade de provimento dos lugares de delegado, nos termos do n.º 2 do artigo anterior, o Secretário Regional do Trabalho escolherá os respectivos titulares de entre os indivíduos habililitados com licenciatura e experiência profissional adequadas ao exercício das correspondentes funções, independentemente de pertencerem aos quadros da Secretaria Regional do Trabalho.
 
 ### CAPÍTULO IX — Disposições gerais e transitórias
 
-###### Art. 29.º - 1 - O quadro de pessoal da Direcção Regional do Emprego e Formação Profissional será oportunamente estabelecido por decreto regulamentar regional.
+Art. 29.º - 1 - O quadro de pessoal da Direcção Regional do Emprego e Formação Profissional será oportunamente estabelecido por decreto regulamentar regional.
 
 2 - Até à entrada em vigor do diploma referido no número anterior os serviços da Direcção Regional funcionarão com o pessoal dos centros permanentes de emprego e do Centro de Formação Profissional n.º 18, extintos pelo [Decreto-Lei n.º 243/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1978-299068), de 19 de Agosto.
 
-###### Art. 30.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Secretário Regional do Trabalho, com o acordo do Secretário Regional da Administração Pública, quando estiver em causa matéria da competência desta Secretaria Regional.
+Art. 30.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Secretário Regional do Trabalho, com o acordo do Secretário Regional da Administração Pública, quando estiver em causa matéria da competência desta Secretaria Regional.
 
-###### Art. 31.º Fica revogado o [Decreto Regulamentar Regional n.º 13/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1977-139944), de 16 de Abril.
+Art. 31.º Fica revogado o [Decreto Regulamentar Regional n.º 13/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1977-139944), de 16 de Abril.
 
 Aprovado no Plenário do Governo Regional em 8 de Setembro de 1978.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em 28 de Setembro de 1978.**
+Assinado em 28 de Setembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 Quadro e vencimentos do pessoal a que se refere o artigo 24.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/24000/21992202.pdf))](https://files.diariodarepublica.pt/1s/1978/10/24000/21992202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24000/21992202.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

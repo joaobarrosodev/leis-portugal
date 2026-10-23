@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2013/05/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2013-513591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c546e4b7688aed2122aaf3e903f01ef0f63a22b6d5a5d576ecad5c8e6503749
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae6646f499a2837f70aaf45dafc7ac515d474b35c60934f1c80454d10d19fd57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,62 +65,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Empreendedorismo
-- Proteção Civil
-- Turismo
-- Transporte Marítimo
-- Juventude
-- Transporte Terrestre
-- Zona Económica Exclusiva
+- Açores
+- Administração Regional
+- Agricultura
+- Apoio ao Investimento
+- Aquicultura
+- Competitividade Empresarial
+- Criação de Emprego
+- Cultura
 - Curso de Especialização Tecnológica
-- Transporte Aéreo
-- Governo Regional
-- Transporte Rodoviário
-- Educação
-- Saúde
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
-- Renovação Urbana
-- Competitividade Empresarial
-- Sociedade de Reabilitação Urbana
-- Feader
+- Desporto
+- Educação
+- Empreendedorismo
+- Energia
 - Estagiar
+- Feader
 - FEDER
 - Feoga
+- FSE
 - Fundo de Coesão
-- Pesca
-- Apoio ao Investimento
-- Universidade dos Açores
+- Governo Regional
+- Habitação
+- IFOP
 - Igualdade de Oportunidades
 - Indústria
-- Saudaçor
-- IFOP
-- FSE
-- Criação de Emprego
+- Inserção Social
+- Juventude
 - Obras Públicas
-- Aquicultura
-- Proteção do Ambiente
+- Pecuária
+- Pesca
 - Planeamento Regional
-- Tecnologia
-- Desenvolvimento Económico
-- Energia
-- Sistema Científico e Tecnológico
-- Cultura
 - Programa de Integração de Activos
 - Programa Formativo de Inserção de Jovens
 - Programa Integrado de Incentivos ao Emprego
-- Inserção Social
 - Prosa
-- Habitação
-- Pecuária
-- Agricultura
-- Administração Regional
-- Açores
+- Proteção Civil
+- Proteção do Ambiente
+- QREN
+- Renovação Urbana
+- Saudaçor
+- Saúde
+- Sistema Científico e Tecnológico
 - Sistema Regional de Planeamento dos Açores
+- Sociedade de Reabilitação Urbana
+- Tecnologia
 - Termalismo
+- Transporte Aéreo
+- Transporte Marítimo
 - Transporte Público
-- Desporto
+- Transporte Rodoviário
+- Transporte Terrestre
+- Turismo
+- Universidade dos Açores
+- Zona Económica Exclusiva
 relationships:
 - type: cites
   target: celex:32004R0725
@@ -133,13 +133,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:45Z'
   warnings: []
   errors: []
 ---
@@ -160,11 +160,11 @@ São aprovadas as Orientações de Médio Prazo 2013/2016.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de março de 2013.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 19 de abril de 2013.**
+Assinado em Angra do Heroísmo em 19 de abril de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -196,7 +196,7 @@ Atividade Económica e Comércio Internacionais
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Verificando-se tendências de crescimento mais fraco do consumo, particularmente nas economias avançadas que se encontram endividadas (casos dos EUA e países da área do euro), a par da continuação da procura interna ainda significativa nas economias emergentes, os desequilíbrios externos entre grandes regiões da economia mundial tenderão a reduzir-se em termos globais, apesar de fatores aparentemente contraditórios entre efeitos de volume e de valor das trocas comerciais a nível internacional.
 
@@ -204,7 +204,7 @@ Comércio Internacional - Volume e Termos de troca
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Num contexto económico com expetativas de moderação de crescimento e com subutilização de capacidade produtiva é compreensível uma diminuição da inflação na generalidade dos países, sendo que, entre os países emergentes o nível de pressão sobre os preços continuará a fazer-se sentir de forma relativamente mais intensa. Pressões decorrentes de processos de industrialização nas economias emergentes e de fatores de oferta pelos países exportadores de petróleo contribuem para o preço da energia permanecer em níveis consideráveis.
 
@@ -212,7 +212,7 @@ Inflação
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 A desaceleração da economia na área do euro encontra-se influenciada por abrandamento da procura interna, efeitos da crise das dívidas soberanas, repercussões da desalavancagem do sector bancário na economia real e, ainda, por impacte das medidas de consolidação orçamental postas em prática na generalidade dos países.
 
@@ -222,7 +222,7 @@ Com reduções na procura agregada interna (consumos público e privado e invest
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 A ECONOMIA PORTUGUESA
 
@@ -236,7 +236,7 @@ Produto e Componentes da Procura
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 As perspetivas para o cenário macroeconómico apontam no sentido do desenvolvimento do desempenho descrito anteriormente, que está associado a forte redução dos consumos público e privado, bem como do investimento, só parcialmente compensadas pelo contributo positivo da procura externa, para outro desempenho com o produto efetivo a aproximar-se do produto potencial, nomeadamente pela difusão dos efeitos positivos dos saldos externos à procura interna e, também, por efeitos de políticas consistentes de incentivo ao crescimento.
 
@@ -246,13 +246,13 @@ Balança Externa e Necessidades de Financiamento
 
 (percentagem do PIB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Conta das Administrações Públicas - Principais Agregados em % do PIB
 
 (conceito PDE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Notas: PDE= Procedimento dos Défices Excessivos; Receita Fiscal e Contributiva corresponde à soma dos impostos e das contribuições sociais efetivas recebidos pelas Administrações Públicas.
 
@@ -264,7 +264,7 @@ Principais agregados da Conta das Administrações Públicas
 
 (percentagem do PIB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 1.2. SITUAÇÃO REGIONAL
 
@@ -290,7 +290,7 @@ O efeito recessivo das medidas adotadas afasta o país, no seu conjunto, do proc
 
 PIB per capita, PPC, UE27=100
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Os 3.701 milhões de euros de produto interno bruto que o sistema oficial de estatística apura para os Açores em 2011, ainda como resultado preliminar, representam um valor de 15,1 mil euros por residente, que compara com os 16,1 mil euros apurados para o conjunto do país, ou seja, 94% da média nacional, quando este valor relativo era apenas de 81% em meados da anterior década.
 
@@ -298,7 +298,7 @@ Produto Interno Bruto (Base 2006)
 
 a preços de mercado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 P = Resultados preliminares.
 
@@ -312,7 +312,7 @@ O início de milénio foi marcado por um crescimento robusto do produto interno,
 
 Mais recentemente, é evidente um ajustamento da economia regional face à crise que afeta o país, em que num primeiro momento a dinâmica e a sustentabilidade do emprego implicou quebras na produtividade, mas em que as empresas sustentam ainda o volume de emprego (2009) e, já em 2010 e 2011, numa segunda fase, esse ajustamento é feito já pela libertação de força de trabalho, originando por isso uma melhoria da produtividade, mas com custos sociais derivados do desemprego.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 . Visão prospetiva para a geração de riqueza
 
@@ -328,7 +328,7 @@ Também nesta perspetiva se infere a necessidade de formulação de políticas a
 
 Estrutura do Valor Acrescentado Bruto nos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 De assinalar ainda neste contexto um fenómeno inédito na série conhecida dos valores da produção interna, que se traduziu, segundo os dados apurados em 2011, numa variação negativa do índice de preços do PIB.
 
@@ -346,7 +346,7 @@ O sector agroflorestal, incluindo a indústria transformadora associada (complex
 
 Produção Agropecuária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 As infraestruturas de apoio à atividade agrícola, com destaque para os caminhos agrícolas e rurais, o abastecimento de água, o fornecimento de energia e as operações ligadas ao emparcelamento, constituem um fator determinante de competitividade. Nos últimos anos, alavancado pelos fundos estruturais, consagraram-se recursos financeiros importantes aos investimentos neste domínio. A predominância do regime de pastoreio extensivo da produção bovina e as características do território determinam a necessidade de uma distribuição alargada das infraestruturas.
 
@@ -356,7 +356,7 @@ A população agrícola familiar distingue-se no contexto português pela sua re
 
 Indicadores Laborais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: INE, Recenseamento Agrícola 2009.
 
@@ -370,7 +370,7 @@ Com uma média de descargas nas lotas regionais, provenientes da pesca marítima
 
 Pescado Descarregado nos Portos de Pesca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: SREA.
 
@@ -378,7 +378,7 @@ A frota regional divide-se entre a pequena pesca costeira, ou pesca artesanal, q
 
 Embarcações, 2011
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: SREA.
 
@@ -398,7 +398,7 @@ Procura - Principais Mercados
 
 Hóspedes (milhares) e estadias (dormidas/hóspede), segundo a residência / nacionalidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: SREA, Estatísticas do Turismo e DREPA.
 
@@ -408,7 +408,7 @@ A utilização das unidades hoteleiras é ainda relativamente reduzida, para uma
 
 Oferta e Procura Turísticas na Hotelaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: INE, Contas Regionais (base 2006)
 
@@ -424,7 +424,7 @@ O investimento realizado nos Açores nos últimos anos começa a aproximar-se do
 
 Despesa de I&D em % do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: Eurostat.
 
@@ -450,7 +450,7 @@ O tecido empresarial dos Açores é predominantemente constituído por empresas 
 
 Indicadores Empresas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: Anuário estatístico da RAA, 2010 (SREA); Contas Económicas 1999-2009; Empresas em Portugal, 2010 (INE); Evolução do Setor Empresarial em Portugal 2004-2010 (INE)
 
@@ -472,7 +472,7 @@ As capacidades científicas e tecnológicas são determinantes na dinamização 
 
 Criação de Conhecimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: Anuário Estatístico da RAA, 2010 (SREA).
 
@@ -500,7 +500,7 @@ A população residente nos Açores, de acordo com os resultados definitivos dos
 
 População Residente - Dados Censitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: INE, SREA.
 
@@ -508,7 +508,7 @@ Através da análise comparada de alguns indicadores demográficos, verifica-se 
 
 Indicadores Demográficos (Permilagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: INE, SREA, DREPA.
 
@@ -518,7 +518,7 @@ A estrutura etária da população evidencia a tendência já verificada anterio
 
 Estrutura Etária na RAA Segundo o Sexo, 2011-2001
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Na última década, a população dos 0 aos 29 anos apresenta um decréscimo de 13%, enquanto a população dos 30 aos 69 se vê aumentada, com uma taxa de crescimento de cerca de 17%. Inclusive, verifica-se um aumento de 7% da população com mais de 70 anos.
 
@@ -526,7 +526,7 @@ Do quadro abaixo, retira-se que a população aumentou no grupo etário dos 25-6
 
 População por grandes Grupos Etários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: INE.
 
@@ -552,7 +552,7 @@ Sinaliza-se de forma clara como desfavorável, porque inferior à dinâmica obse
 
 Indicadores Sobre o Nível de Escolaridade (%) - Censos 2001/2011
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Nos últimos anos, o investimento público no sector da educação tem sido intenso. A intervenção pública, promovida pelo Governo Regional dos Açores e pelas autarquias locais, em separado e em algumas situações em parceria, utilizando os designados contratos ARAAL, tem sido desenvolvida em todos os níveis do sistema público de ensino. Inclusivamente, no caso do ensino superior, cuja tutela é da responsabilidade do Governo da República, perante a evidência de uma restrição orçamental para avançar com as intervenções necessárias e desde há muito prometidas, nos 3 polos universitários, o Governo Regional proporcionou a possibilidade de alocação de fundos estruturais consignados aos agentes regionais, para promover as obras e os melhoramentos necessários e urgentes.
 
@@ -576,7 +576,7 @@ Destacando as principais componentes da oferta de formação que se desenvolvera
 
 PRO-EMPREGO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Mas para além das ações de formação propriamente ditas, desenvolvem-se ações não formativas, como planos de estágio, ações de sensibilização e de informação da inserção das mulheres, formação avançada de suporte a projetos de empreendedorismo de base tecnológica, investigação em meio empresarial com uma projeção de mais de 8 mil participantes nestes projetos específicos.
 
@@ -600,7 +600,7 @@ Residentes nos Açores com Atividade Económica,
 
 Segundo Situação na Profissão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Em termos prospetivos é evidente a necessidade de estabilização no mercado de trabalho, sustendo-se os efeitos da atual crise e inclusivamente retomar o ritmo de crescimento da criação líquida de postos de trabalho, suficiente para manter um nível tolerável de desocupação involuntária dos ativos, através de um mix de políticas que combinem o estímulo ao investimento empresarial, com adaptação, formação e ajustamento das competências oferecidas neste mercado.
 
@@ -616,7 +616,7 @@ Perante a situação do mercado de trabalho, têm sido diversas formas de apoio 
 
 Despesas - Prestações dos Regimes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: CGFSS.
 
@@ -626,13 +626,13 @@ Em termos gerais, esta evolução foi observável nas diversas componentes da a�
 
 Despesas - Ação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Ao nível do apoio ao rendimento mínimo das famílias, um dos instrumentos fundamentais na prevenção da exclusão social e da pobreza, tem-se mantido, apesar da situação geral, um certo equilíbrio do número de famílias abrangidas por este apoio, que tem rondado nos anos mais próximos entre as 5,5 e as 6,5 mil famílias, que dá um número de beneficiários num intervalo entre os 19 e os 20 mil indivíduos, ou seja, cerca de 8% do universo da população residente do arquipélago.
 
 Rendimento Social de Inserção (nº)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 . Sistema regional de saúde
 
@@ -650,7 +650,7 @@ Em termos gerais, verifica-se uma tendência crescente para o volume de consulta
 
 Sistema Regional de Saúde - Indicadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Em termos da envolvente ao sector, não serão despiciendas as implicações que tem o progressivo envelhecimento da população e a correspondente pressão sobre a oferta de cuidados de saúde e também a evolução técnica e tecnológica dos instrumentos e meios de apoio, com uma sofisticação e eficácia crescentes, mas com uma contrapartida de necessidade de volumes financeiros crescentes para o acompanhamento e aplicação desses meios.
 
@@ -664,7 +664,7 @@ Com os últimos dados disponíveis do país, reportados a 2009, são apresentado
 
 Evolução do Poder de Compra Concelhio nos Açores (média nacional=100)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Ainda que estes valores do estudo não possam ser apropriados como qualquer outra variável a que corresponda um conceito bem concreto e delimitado, p.e. rendimento e consumo das famílias, não deixa de ser um indicador relevante e que mostra um progresso significativo registado na Região, atendendo que a média nacional não é estática, evoluindo também no sentido positivo.
 
@@ -684,7 +684,7 @@ E esta faceta é tão mais preocupante, quanto existe uma componente dos desempr
 
 Desempregados por Grandes Escalões Etários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: Recenseamento da População.
 
@@ -692,7 +692,7 @@ Fonte: Recenseamento da População.
 
 Principal Meio de Vida dos Desempregados - 2011
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 As políticas ativas de emprego, de reconversão profissional, mas acima de tudo a retoma do crescimento económico são as saídas para a estabilização do mercado de trabalho. Porém, face à conjuntura que se vive o adiamento das previsões sobre a inversão de ciclo económico, revela-se a necessidade de monitorização muito estreita do fenómeno do desemprego e a implementação de medidas mitigadoras dos efeitos perversos, que a continuidade no tempo desta situação pode gerar na família, em particular, na sociedade, em geral.
 
@@ -706,7 +706,7 @@ As mais de duas dezenas de milhares de atletas federados e os mais de 400 clubes
 
 Evolução Desportiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Ao nível da oferta cultural, destacando a Rede Regional de Museus apurou-se em 2011 um número significativo de visitantes, mais de 76 mil entradas. Em relação ao ano anterior, este número de visitantes representa um decréscimo de cerca de 5%, mas, mesmo assim, foi significativamente maior que o número observado em 2009.
 
@@ -714,7 +714,7 @@ Nestes termos, registou-se uma certa flutuação nos números totais de entradas
 
 Visitantes aos Museus, Segundo a nacionalidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Quanto à modalidade de entrada verifica-se, que as visitas pagas representaram cerca de metade do total, sendo realizadas na sua maioria pelo regime de acesso normal, mas abrangendo algumas formas mais particulares como as de grupos ou de reformados.
 
@@ -724,7 +724,7 @@ Bibliotecas e Arquivos Públicos Regionais
 
 Utilizadores e documentos consultados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: DRC.
 
@@ -732,7 +732,7 @@ De realçar ainda que as diversas expressões e atividades culturais, desde as a
 
 Agremiações e Grupos Culturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: DRC
 
@@ -768,13 +768,13 @@ Nos transportes coletivos terrestres verificou-se uma redução maior em percurs
 
 Tráfego de Passageiros nos Transportes Coletivos Terrestres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: SREA.
 
 Movimento de Passageiros nos Portos Comerciais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: SREA.
 
@@ -784,13 +784,13 @@ Crescimento de Movimentos de Passageiros nos Aeroportos
 
 Taxa média anual em %
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 O volume de cargas movimentadas nas infraestruturas dos portos comerciais e nos aeródromos/aeroportos, apesar do decréscimo do produto interno, demonstrou alguma resiliência neste contexto de abrandamento económico, pelo menos no período anual completo, para o qual se dispõe de informação e dados. Em 2011, apurou-se um total de 2,85 milhões de toneladas movimentadas, o que representa um acréscimo positivo de 1,1% em relação ao ano anterior, comum a evolução bem positiva nos carregamentos, tendo os descarregamentos registado um decréscimo absoluto.
 
 Cargas Movimentadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: SREA.
 
@@ -828,7 +828,7 @@ Em termos de intensidade energética da produção económica, em 2010, nos Aço
 
 Oferta de Energia Primária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Em termos de utilização final dos recursos energéticos, são os transportes os grandes consumidores de energia, com destaque para os rodoviários com 28% do total, os restantes segmentos do sistema de transporte, o marítimo e o aéreo, no seu conjunto afetam cerca de 8% da energia consumida, o sector eletroprodutor consome cerca de 76,7 mil tep de energia, cerca de 19% do total, as famílias com cerca de 13% e os restantes consumidores com valores relativamente próximos. A base económica regional, agricultura, pesca e agroindústrias associadas, no seu conjunto significam no total 15% do consumo final.
 
@@ -836,11 +836,11 @@ Em termos de utilização final dos recursos energéticos, são os transportes o
 
 Consumo Final de Energia - 2010 (unid: tep)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 No caso particular da produção de energia elétrica, durante o ano de 2011, o volume de 840,0 Gwh gerados pelo sistema eletroprodutor regional representou um decréscimo de 1,1% em relação ao ano anterior. Os dados disponíveis para 2012 confirmam uma tendência de decréscimo da produção, por via do abrandamento da atividade económica e de poupanças do sector doméstico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Fonte: EDA
 
@@ -1440,7 +1440,7 @@ Finalmente, embora com um volume de meios financeiros bem mais modesto, face à 
 
 Investimento Público Por Grande Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Os Grandes Objetivos de Desenvolvimento integram um conjunto integrado de políticas sectoriais a prosseguir no período, que por sua vez se concretizam em programação material de obras, de construção/aquisição de equipamentos e outras intervenções com carácter imaterial, que no seu conjunto se organizam no sistema de planeamento regional em Programas, estruturados em projetos e ações.
 
@@ -1448,7 +1448,7 @@ No quadro seguinte apresentam-se os programas de investimento público que irão
 
 Orientações de Médio Prazo 2013-2016 - Projeção Anual do Investimento Público por Objetivo/Programa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 4.2 QUADRO GLOBAL DE FINANCIAMENTO
 
@@ -1460,7 +1460,7 @@ De seguida, apresenta-se o quadro com as grandes linhas de orientação para o f
 
 Financiamento Global da Administração Pública Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 É de salientar que, a partir do ano de 2014, as despesas de funcionamento da administração pública regional serão financiadas integralmente por receitas próprias da Região, como se pode verificar pelo rácio apresentado no quadro anterior.
 
@@ -1486,7 +1486,7 @@ Ao nível da sustentabilidade do crescimento mantém-se e aprofunda-se o núcleo
 
 A elaboração dos programas operacionais da Região com cofinanciamento comunitário serão preparados e negociados durante o ano de 2013 e conterão as novas linhas de orientação da política de investimento público regional, numa perspetiva de coerência com os grandes desígnios e as agendas europeias para a coesão económica, social e territorial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Impacte Macroeconómico
 
@@ -1512,11 +1512,11 @@ O financiamento comunitário para a Região para o período de 2007-2013 ultrapa
 
 Programas Operacionais 2007-2013
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 A seguir apresenta-se uma sinopse das intervenções regionais de programação da política europeia de coesão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 O Programa Operacional dos Açores para a Convergência é um programa comparticipado pelo fundo estrutural FEDER, para o período de programação 2007-2013, enquadrado no Objetivo Comunitário Convergência, com execução na Região Autónoma dos Açores, integrado no Quadro de Referência Estratégico Português (QREN), com uma dotação de 966,3 milhões de euros de fundo comunitário, a que corresponde uma despesa pública global de 1,2 mil milhões de euros.
 
@@ -1540,7 +1540,7 @@ A execução financeira (despesa efetivamente paga) das operações aprovadas as
 
 No âmbito do Quadro de Referência Estratégica Nacional (QREN), componente FEDER, reportado a 30 de setembro de 2012, o PROCONVERGENCIA apresentava a segunda maior taxa de execução financeira com 60,3%, sendo a média do QREN / FEDER de 48,4%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Este programa operacional assenta numa grande finalidade estratégica que consiste na colocação da intervenção FSE ao serviço de um novo ciclo de desenvolvimento e de políticas públicas para a RAA no qual a qualificação das pessoas, o papel do conhecimento, a inovação na valorização dos recursos endógenos regionais e a disseminação de uma cultura de empreendimento e de iniciativa assumem um estatuto de prioridade máxima. A perceção dos desafios que tal mudança coloca à coesão social e territorial dos Açores conduz coerentemente à valorização da problemática do desenvolvimento social, incluindo neste domínio uma nova importância ao combate à iliteracia.
 
@@ -1552,7 +1552,7 @@ Em estreita relação com a finalidade estratégica acima mencionada, o PO organ
 
 . Modernização do tecido produtivo e apoio ao empreendedorismo;
 
-. Empregabilidade e empreendedorismo com base em I&D;
+. Empregabilidade e empreendedorismo com base em I&D
 
 . Competitividade regional na sociedade da informação e do conhecimento;
 
@@ -1578,7 +1578,7 @@ Acresce referir que em todas as Ilhas do Arquipélago, foi prevista a realizaç�
 
 A 15 de janeiro de 2013, o Pro-Emprego, está com uma taxa de compromisso de 103,9%, à qual corresponde um montante aprovado FSE, de 197,37 milhões de euros, pelo que é expectável uma taxa de absorção de 100%, da respetiva dotação financeira, até ao final do Período de Programação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 REDES E EQUIPAMENTOS ESTRUTURANTES NA REGIÃO AUTÓNOMA DOS AÇORES
 
@@ -1612,7 +1612,7 @@ A taxa de compromisso do eixo específico para a RAA está plenamente atingida.
 
 No que respeita à execução, o montante da despesa pública validada a 31 de dezembro de 2012 foi de 59 milhões de euros, ao qual corresponde o montante de cofinanciamento de Fundo de Coesão de 50,2 milhões de euros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Para o fortalecimento dos territórios rurais da Região, muito contribuiu o programa de desenvolvimento rural para o período 2007-2013, na sua vertente económica, social e ambiental. Revelou-se um fator dinamizador na componente de investimento, diversificação das economias rurais e fixação das populações nestas mesmas zonas.
 
@@ -1638,7 +1638,7 @@ O PRORURAL, com uma dotação de 345.113.604 euros de despesa pública, atualmen
 
 Este dinamismo acentua-se especialmente nas medidas que apoiam a instalação de jovens agricultores, modernização das explorações agrícolas, melhoria do valor económico das florestas, transformação, infraestruturas de apoio à atividade agrícola e medidas ambientais, em que as taxas de compromisso se situam nos 100%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 O Programa PROPESCAS assenta no apoio ao investimento no âmbito dos projetos cofinanciados pelo Fundo Europeu das Pescas visando, numa abordagem sistémica, a criação das condições para a competitividade e sustentabilidade, a longo prazo, do sector pesqueiro regional, tendo em conta a aplicação de regimes de exploração biológica e ecologicamente racionais; a melhor organização do ramo da captura, transformação e comercialização e o reforço da competitividade da atividade produtiva empresarial, com a diversificação, inovação, acréscimo de mais-valias e garantia da qualidade dos produtos da pesca..
 
@@ -1670,7 +1670,7 @@ Em termos financeiros o PROPESCAS apresenta um envelope de despesa pública de 4
 
 Neste programa já foram apresentadas candidaturas com um montante de despesa pública de 42 milhões de euros, tendo sido aprovados 26 milhões de euros de apoios e efetuados pagamentos no valor de 18 milhões de euros. Estima-se que até final do período de programação se encontrem esgotadas a totalidade das verbas afetas ao PROPESCAS.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 O Programa de Cooperação Transnacional Açores - Madeira - Canárias, para o período de programação 2007-2013, é um programa operacional cofinanciado pelo fundo estrutural FEDER, enquadrado no Objetivo Comunitário da Cooperação Territorial Europeia, aprovado pela Comissão Europeia através da Decisão C (2007) 4243, de 18 de setembro de 2007.
 
@@ -1684,7 +1684,7 @@ As Regiões Autónomas dos Açores e da Madeira, neste conjunto, têm disponíve
 
 A repartição do FEDER por Eixo Prioritário do Programa, para a Região Autónoma dos Açores, estrutura-se da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Em termos de aprovações de projetos, foram lançadas até à data, 3 convocatórias, que deram os seguintes resultados:
 
@@ -1698,7 +1698,7 @@ Assim, até à data, foram aprovadas 54 candidaturas, com um montante de despesa
 
 Dados a 31.12.2012
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 Para o próximo período de programação 2014-2020, a Comissão pretende atribuir um papel importante ao Objetivo da Cooperação Territorial Europeia, no seu contributo para o objetivo da coesão territorial, conforme consagrado no novo Tratado. Assim, a Cooperação Territorial Europeia assente como um dos objetivos da Política de Coesão, deve ser considerada como um meio eficaz de definição de ações políticas conjuntas e intercâmbios entre intervenientes nacionais, regionais e locais dos diferentes Estados membros. Cada vez mais, consideram que é urgente tomar medidas conjuntas ao nível territorial mais adequado, que assume muitas vezes um cariz mais transnacional e transfronteiriço.
 
@@ -1706,7 +1706,7 @@ Na fase atual, entre os diversos assuntos decorrentes do início de um novo per�
 
 6.2 - Próximo Período de Programação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf))](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/05/10100/0307103114.pdf)
 
 A nível nacional ter-se-á de preparar o designado documento de natureza estratégica o "Acordo de Parceria", o qual contém as grandes linhas de orientação da política de coesão para o país, bem como as dotações dos programas operacionais que preenchem o envelope financeiro para o país. Em paralelo, os programas operacionais deverão igualmente ser apresentados na mesma data.
 

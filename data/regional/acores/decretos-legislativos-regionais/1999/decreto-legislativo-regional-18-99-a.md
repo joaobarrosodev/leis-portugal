@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/118a00/27412749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/1999/05/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1999-321677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a15ebc931d009481455a1b0c9f9b312ccb08038506a80ca604417b5dc97bb9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2860c798579016431c6b1622fd976aec6c8006ffeb504c9df5342bff68fbe517
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ÁREA Escolar
-- Educação Especial
 - Conselho Pedagógico
 - Definição de Competências
 - Direcção Escolar
-- Ensino Oficial
-- Gestão Escolar
-- Estabelecimento de Ensino
-- Ensino Básico
-- Regulamento Interno
-- Açores
+- Educação Especial
 - Educação Pré-escolar
+- Ensino Básico
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Gestão Escolar
+- Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:539978:por
@@ -104,16 +104,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/1993/03/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/1993/03/04/a/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626433:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:227009:por
+  label: "Revogado pelo DLR.12/2005/A.20.05.2005.AL-RAA, DR.IS-A [114] de 16.06.2005, sem prejuízo da sua aplicação transitória\
+    \ estabelecida nos termos do art. 141º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2005-227009
+  date: '2005-05-20'
 article_structure:
-  article_count: 43
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:06Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +194,9 @@ c) Nas áreas escolares que o deliberem nos termos do número seguinte.
 
 3 - O processo de transição previsto no número anterior deverá estar concluído até ao termo do ano escolar de 2004-2005.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -176,7 +208,9 @@ a) ...
 
 b) Assegurar a entrada em funcionamento dos órgãos previstos nas alíneas a) e b) do artigo 7.º do regime em anexo ao presente diploma até 30 de Junho do presente ano lectivo de 1998-1999.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Para efeitos de aplicação do regime em anexo ao presente diploma, consideram-se agrupamentos de escolas:
 
@@ -192,7 +226,9 @@ b) Resultem da fusão de uma área escolar com a escola dos 2.º e 3.º ciclos d
 
 c) A proposta de constituição seja aprovada por todos os órgãos de administração e gestão da área escolar e da escola dos 2.º e 3.º ciclos do ensino básico envolvidos.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A criação de novas escolas do ensino oficial faz-se por decreto regulamentar regional.
 
@@ -210,7 +246,9 @@ b) Assegurar o processo eleitoral e a instalação dos órgãos previstos no reg
 
 c) Nomear, de entre os funcionários administrativos a exercer funções na escola, aquele que, nos termos do artigo 29.º, integrará o conselho administrativo, enquanto não tiver tomado posse o chefe dos Serviços de Administração Escolar.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Ao director regional da Educação cabe, em articulação com os órgãos de administração e gestão das escolas e áreas escolares, a adopção das providências necessárias à instalação dos órgãos previstos no presente diploma.»
 
@@ -234,7 +272,9 @@ c) ...
 
 3 - As escolas que disponham de órgãos de administração e gestão constituídos de acordo com o disposto no presente diploma gozam do regime de autonomia definido no [Decreto-Lei n.º 43/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1989-610688), de 3 de Fevereiro, adaptado à Região pelo [Decreto Legislativo Regional n.º 1/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1998-222633), de 24 de Janeiro, acrescido, no plano do desenvolvimento organizacional, de competências nos domínios da organização interna da escola, da regulamentação do seu funcionamento e da gestão e formação dos seus recursos humanos.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +290,9 @@ c) ...
 
 7 - Nas escolas em que funcione o ensino artístico, pelo menos um dos membros será docente daquela modalidade de ensino.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +334,9 @@ o) Apreciar as recomendações e pareceres que sobre a escola ou qualquer aspect
 
 6 - Quando a assembleia delibere rejeitar a proposta de qualquer dos documentos previstos nas alíneas b), c), d) e f) do n.º 1, são aqueles devolvidos ao conselho executivo ou ao director, com a devida fundamentação, que reiniciará o processo de aprovação.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -306,7 +350,9 @@ o) Apreciar as recomendações e pareceres que sobre a escola ou qualquer aspect
 
 6 - Sem prejuízo do que vier a ser estabelecido no regulamento interno, na ausência de lista candidata de pessoal docente e ou não docente, os representantes na assembleia serão eleitos em assembleias eleitorais distintas, convocadas para o efeito.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -346,7 +392,9 @@ n) Apreciar as recomendações e pareceres que sobre a escola ou qualquer aspect
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -370,7 +418,9 @@ b) ...
 
 9 - Os educadores de infância e os professores do 1.º ciclo do ensino básico pertencentes aos quadros de zona pedagógica poderão ser candidatos, desde que obedeçam aos requisitos dos números anteriores.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -388,7 +438,9 @@ b) ...
 
 8 - Quando a escusa seja aceite, no prazo máximo de cinco dias úteis após o conhecimento do facto, será repetida a tramitação prevista no n.º 5 do presente artigo.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -404,13 +456,17 @@ c) ...
 
 4 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
 2 - Os critérios para a constituição e dotação das assessorias referidas no número anterior são definidos por despacho do Secretário Regional que tutela a área da educação, de acordo com a população escolar e o tipo de regime de funcionamento da escola.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -440,7 +496,9 @@ e) O presidente da comissão pedagógica do ensino artístico previsto no n.º 2
 
 9 - O regulamento interno poderá determinar a inclusão no conselho pedagógico de outros membros, até ao máximo de 20% do número de elementos que resultar da aplicação dos números anteriores.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Ao conselho pedagógico compete:
 
@@ -482,7 +540,9 @@ r) Exercer as demais competências que lhe forem atribuídas por lei e pelo regu
 
 3 - Quando, após o procedimento previsto no número anterior, persistam objecções à aprovação, deve a proposta, acompanhada de parecer fundamentado do conselho pedagógico, ser submetida à assembleia.
 
-###### Artigo 32.º — Núcleos escolares
+Artigo 32.º
+
+Núcleos escolares
 
 1 - Cada estabelecimento da educação pré-escolar e ou do 1.º ciclo do ensino básico em que existam quatro ou mais lugares docentes constitui um núcleo escolar.
 
@@ -494,7 +554,9 @@ r) Exercer as demais competências que lhe forem atribuídas por lei e pelo regu
 
 5 - Nos estabelecimentos a que não pertence o coordenador de núcleo haverá um encarregado de estabelecimento, eleito de entre o pessoal docente por um ano escolar.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O conselho de núcleo é formado por todos os docentes em exercício de funções no núcleo e exerce as suas competências no âmbito do que estiver definido pelos respectivos órgãos de administração e gestão, competindo-lhe, nomeadamente:
 
@@ -528,7 +590,9 @@ f) Exercer as demais competências que lhe forem atribuídas pelo conselho execu
 
 3 - Ao encarregado de estabelecimento competem a gestão diária do estabelecimento e as demais competências que lhe forem atribuídas pelo coordenador de núcleo e fixadas no regulamento interno.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Na educação pré-escolar e no 1.º ciclo do ensino básico, a articulação curricular é assegurada pelo respectivo conselho de núcleo.
 
@@ -542,7 +606,9 @@ f) Exercer as demais competências que lhe forem atribuídas pelo conselho execu
 
 6 - O limite máximo estabelecido no número anterior é elevado para 12, caso na escola funcionem, conjuntamente, os ensinos básico e secundário.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -552,7 +618,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -568,7 +636,9 @@ d) As equipas multidisciplinares de apoio sócio-educativo.
 
 3 - Por portaria do Secretário Regional que tutela a área da educação, será fixada a constituição e regulamentado o funcionamento dos serviços especializados de apoio educativo.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -578,13 +648,17 @@ d) As equipas multidisciplinares de apoio sócio-educativo.
 
 4 - Os resultados dos processos eleitorais para a assembleia e para o conselho executivo ou director são homologados pelo director regional da Educação.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
 2 - Os níveis de competência e de responsabilidade a atribuir em cada fase do processo de desenvolvimento da autonomia são objecto de negociação prévia entre a escola e a Secretaria Regional que tutela a área da educação, podendo conduzir à celebração de um contrato de autonomia, nos termos dos artigos seguintes.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Por contrato de autonomia entende-se o acordo celebrado entre a escola, a Secretaria Regional que tutela a área da educação e, eventualmente, outros parceiros interessados, através do qual se definem objectivos e se fixam as condições que viabilizam o desenvolvimento do projecto educativo apresentado pelos órgãos de administração e gestão de uma escola ou de um agrupamento de escolas.
 
@@ -616,7 +690,9 @@ a) ...
 
 b) ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 Na Direcção Regional da Educação será constituída uma comissão para proceder à análise global do mérito das propostas e da existência de condições para a sua concretização, com base nos seguintes critérios:
 
@@ -632,7 +708,9 @@ e) ...
 
 f) ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -642,27 +720,37 @@ f) ...
 
 4 - A matriz dos contratos de autonomia é aprovada por despacho do Secretário Regional que tutela a área da educação.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - O desenvolvimento do processo de contratualização da autonomia é coordenado, acompanhado e avaliado pela Direcção Regional da Educação.
 
 2 - ...
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - A realização de acções de formação que visem a qualificação de docentes para o exercício das funções previstas no presente diploma assume carácter prioritário, em termos a definir por despacho do Secretário Regional que tutela a área da educação.
 
 2 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 O regime de exercício de funções nos órgãos e nas estruturas previstos no presente diploma é estabelecido por decreto regulamentar regional, sem prejuízo do disposto no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 Por despacho do Secretário Regional que tutela a área da educação, será criada uma comissão de acompanhamento da implementação do novo regime de autonomia e gestão, contemplando a representação dos diferentes parceiros sociais com intervenção nesta área, e que procederá à avaliação anual dos resultados da aplicação deste diploma.
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - Nos casos em que não seja possível realizar as operações conducentes à eleição da direcção executiva da escola, a mesma é assegurada por uma comissão provisória constituída, nos termos dos n.os 5 e seguintes do artigo 20.º, homologada pelo director Regional da Educação, pelo período de um ano.
 
@@ -808,10 +896,10 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 21 de Abril de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 7 de Maio de 1999.**
+Assinado em Angra do Heroísmo em 7 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

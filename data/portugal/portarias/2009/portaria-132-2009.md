@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/132/2009/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/132-2009-601735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50c1e3d9230149416a8e9c96217b82975e6b735b21318f17d4c455feb5624712
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e8b58de21825bef41c131f2178cb8bfd24387f2662347d0077430efa1534113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Assistência Médica
-- Consulta Médica
-- Internamento Hospitalar
 - Acompanhamento Familiar
-- Serviço Nacional de Saúde
+- Apoio Domiciliário
+- Assistência Médica
 - Centro de Saúde
+- Consulta Médica
+- Cuidados Médicos
+- Estabelecimento Hospitalar
+- Internamento Hospitalar
 - Meios Complementares de Diagnóstico
 - Preço
 - Prestação de Serviços
-- Cuidados Médicos
-- Apoio Domiciliário
 - Regime Ambulatório
 - Regulamento
-- Estabelecimento Hospitalar
+- Serviço Nacional de Saúde
 - Serviços de Urgência
 - Subsistemas de Saúde
 - Tabela de Cuidados de Saúde
@@ -87,6 +87,34 @@ relationships:
   target: pt:dre:107669157:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:242066:por
+  label: "Dada nova redacção ao nº 2º [introduzindo a revogação da Port 567/2006 de 12-Jun, com a redacção introduzida pelas\
+    \ Port 110-A/2007 de 23-Jan, e 781-A/2007 de 16-Jul] e alterados os anexos II e III do presente diploma pela PORT.839-A/2009.31.07.2009.MS,\
+    \ DR.IS [147-Supl] de 31.07.2009, que republicou os citados anexos\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-a-2009-242066
+  date: '2009-07-31'
+- type: amended_by
+  target: pt:dre:544379:por
+  label: "Dada nova redação aos arts. 3º e 15º do Regulamento das Tabelas de Preços das Instituições e Serviços Integrados\
+    \ no Serviço Nacional de Saúde pela PORT.19/2012.20.01.2012.MS, DR.IS [15] de 20.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19-2012-544379
+  date: '2012-01-20'
+- type: amended_by
+  target: pt:dre:570684:por
+  label: Mantida em vigor exclusivamente para efeitos do cálculo de índice de case mix e de doentes equivalentes no âmbito
+    dos contratos de gestão em regime de Parceria Público Privada, o presente diploma, alterado e republicada pela Portaria
+    n.º 839-A/2009, de 31-jul e pela Port 19/2012 de 20-jan, pela PORT.20/2014.29.01.2014.MS, DR.IS [20] de 29.01.2014, sem
+    prejuízo do cumprimento integral das regras dos referidos contratos, nomeadamente em matéria de codificação.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20-2014-570684
+  date: '2014-01-29'
+- type: amended_by
+  target: pt:dre:107669157:por
+  label: Mantida em vigor a presente portaria na versão republicada pela Port 839-A/2009 de 31-jul pelo(a) Portaria n.º 207/2017
+    - Diário da República n.º 132/2017, Série I de 2017-07-11, nos termos e para os efeitos previstos no n.º 3 do seu art.
+    4
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-2017-107669157
+  date: '2017-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -95,16 +123,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/110-a/2007/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/110-a/2007/01/23/p/dre
+- type: cites
+  target: pt:dre:154190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:260901:por
+  label: "Revogada, a partir de 29.04.2013, a Port 132/2009, de 30 de janeiro DR.IS [21], com as alterações introduzidas pelas\
+    \ Port 839-A/2009 de 31-jul e 19/2012 de 20-jan, pela PORT.163/2013.24.04.2013.MS, DR.IS [80] de 24.04.2013, que a manteve,\
+    \ contudo, em vigor (com a redação da referida Port 839-A/2009 de 31-jul), nos termos do disposto no nº 3 do art. 3º daquele\
+    \ diploma, exclusivamente para efeitos do cálculo de índice de case mix e de doentes equivalentes no âmbito dos contratos\
+    \ de gestão em regime de Parceria Público Privada,sem prejuízo do cumprimento integral das regras dos referidos contratos,\
+    \ nomeadamente em matéria de codificação. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/163-2013-260901
+  date: '2013-04-24'
 article_structure:
-  article_count: 20
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:36Z'
   warnings: []
   errors: []
 ---
@@ -193,9 +239,13 @@ t) «Tempo de internamento» - total de dias utilizados por todos os doentes int
 
 u) «Utilização de telemedicina na consulta externa (teleconsulta)» - utilização de comunicações interactivas, audiovisuais e de dados em consulta médica, com a presença do doente, a qual utiliza estes meios para obter parecer à distância de, pelo menos, outro médico e com registo obrigatório no equipamento e no processo clínico do doente.
 
-#### Secção II — Internamento
+Secção II
 
-###### Artigo 4.º — Preço no internamento
+Internamento
+
+Artigo 4.º
+
+Preço no internamento
 
 1 - O preço das prestações de saúde realizadas em internamento é calculado nos termos da presente portaria mediante o sistema de classificação de doentes em GDH ou de acordo com a diária de internamento.
 
@@ -205,7 +255,9 @@ a) Episódio de internamento em fase não aguda de doença (nos termos do artigo
 
 b) Nos critérios específicos de cálculo de preço, quando previsto no artigo 9.º
 
-###### Artigo 5.º — Facturação de episódios classificados em GDH
+Artigo 5.º
+
+Facturação de episódios classificados em GDH
 
 1 - Os preços a aplicar aos episódios agudos de doença classificados em GDH são os constantes na tabela nacional de grupos de diagnósticos homogéneos, anexo ii, devendo observar-se na sua aplicação o disposto nos números seguintes.
 
@@ -223,7 +275,9 @@ e) Nas situações em que o doente tenha alta do S. O. do serviço de urgência 
 
 3 - O preço a facturar, nos episódios normais de internamento classificados em GDH, é o constante na coluna E da tabela.
 
-###### Artigo 6.º — Episódios excepcionais de internamento
+Artigo 6.º
+
+Episódios excepcionais de internamento
 
 1 - Os episódios excepcionais de internamento classificam-se em:
 
@@ -239,7 +293,9 @@ b) Episódios de evolução prolongada cujo tempo de internamento é igual ou su
 
 5 - Os episódios de evolução prolongada devem ser facturados de acordo com o preço do GDH e ainda, por cada dia de internamento a contar do limiar máximo, pelo valor da diária prevista no n.º 1 do artigo 11.º
 
-###### Artigo 7.º — Transferência de doentes
+Artigo 7.º
+
+Transferência de doentes
 
 1 - As prestações de saúde realizadas a doentes transferidos para outros hospitais devem ser facturadas de acordo com os critérios constantes dos números seguintes.
 
@@ -257,7 +313,9 @@ b) Episódios de evolução prolongada cujo tempo de internamento é igual ou su
 
 8 - Os terceiros legal ou contratualmente responsáveis pelo pagamento dos cuidados prestados podem pedir a transferência do doente para unidade de saúde fora do Serviço Nacional de Saúde, mediante o pagamento do preço do GDH em que o doente foi classificado, nos termos previstos no presente artigo.
 
-###### Artigo 8.º — Reinternamento
+Artigo 8.º
+
+Reinternamento
 
 1 - Nas situações de reinternamento do doente no mesmo hospital, num período de setenta e duas horas a contar da data da alta, só há lugar ao pagamento do GDH do último internamento.
 
@@ -271,7 +329,9 @@ c) As situações em que o doente foi transferido para realização de exame que
 
 3 - Nos casos cuja data de admissão ocorra até 60 dias após um episódio de internamento anterior em serviço ou departamento de psiquiatria e saúde mental, deverão ser facturados pelos valores da diária do n.º 1 do artigo 10.º
 
-###### Artigo 9.º — Critérios específicos de cálculo de preço
+Artigo 9.º
+
+Critérios específicos de cálculo de preço
 
 1 - Nos doentes traqueostomizados, nos GDH previstos na tabela iii do anexo ii, sempre que submetidos a ventilação mecânica por noventa e seis horas ou mais, a que corresponde o código de procedimento da CID-9-MC 96.72 - ventilação mecânica contínua por noventa e seis ou mais horas consecutivas, os preços a aplicar serão os o do GDH 483 - oxigenação por membrana extra-corporal, traqueostomia com ventilação mecânica (maior que) noventa e seis horas ou traqueostomia com outro diagnóstico principal, excepto da face, boca ou pescoço.
 
@@ -303,7 +363,9 @@ c) As situações em que o doente foi transferido para realização de exame que
 
 15 - Os serviços, departamentos ou hospitais de psiquiatria e saúde mental que ainda não classificam os episódios de internamento de doentes em fase aguda em GDH devem facturá-los por diária ao valor de 136 (euro).
 
-###### Artigo 10.º — Internamento de doentes em fase não aguda
+Artigo 10.º
+
+Internamento de doentes em fase não aguda
 
 1 - Os episódios de doentes internados em serviços, departamentos ou hospitais de psiquiatria e saúde mental devem ser facturados por diária, ao valor de 85 (euro).
 
@@ -319,7 +381,9 @@ c) As situações em que o doente foi transferido para realização de exame que
 
 7 - No caso de doentes crónicos ventilados permanentemente, a facturação da assistência prestada é efectuada por diária, desde a admissão do doente, ao valor de 294 (euro). Apenas são considerados os episódios de internamento de doentes crónicos que necessitem de ventilação permanente [com registo de um dos códigos da CID 9 MC 96.72 - ventilação mecânica contínua por noventa e seis ou mais horas consecutivas ou 93.90 - pressão respiratória positiva contínua (CPAP)], e que apresentem um tempo de internamento superior a 126 dias.
 
-###### Artigo 11.º — Outras diárias
+Artigo 11.º
+
+Outras diárias
 
 1 - Os episódios de internamento ocorridos em centros de saúde são facturados, por diária, no valor de 85 (euro). A diária inclui toda a assistência prestada.
 
@@ -331,7 +395,9 @@ a) Doente - 79 (euro);
 
 b) Acompanhante - 39 (euro).
 
-###### Artigo 12.º — Quartos particulares e medicina privada
+Artigo 12.º
+
+Quartos particulares e medicina privada
 
 1 - Todos os utentes do Serviço Nacional de Saúde podem optar pelo internamento em quarto particular, individual ou semiprivado, desde que a instituição ou serviço prestador tenha esse tipo de serviço adicional.
 
@@ -353,9 +419,13 @@ b) Os valores das diárias de internamento, nos termos do n.º 2 do artigo 4.º
 
 6 - A diária de acompanhante em quarto particular, incluindo alojamento e pequeno-almoço, é de 75 (euro).
 
-#### Secção III — Ambulatório
+Secção III
 
-###### Artigo 13.º — Cirurgia de ambulatório e outros episódios de ambulatório
+Ambulatório
+
+Artigo 13.º
+
+Cirurgia de ambulatório e outros episódios de ambulatório
 
 1 - São objecto de facturação os episódios com permanência do doente inferior a vinte e quatro horas e com admissão programada, que apresentem preço para ambulatório, na coluna G da tabela nacional de grupos de diagnósticos homogéneos (GDH), anexo ii.
 
@@ -373,13 +443,17 @@ c) A cada sessão, no mesmo dia, e com o mesmo objectivo terapêutico ou de diag
 
 5 - Quando o doente tiver sido internado por complicações, nas vinte e quatro horas posteriores à alta, não há lugar ao pagamento do episódio decorrido em regime de ambulatório, facturando-se apenas um GDH correspondente aos diagnósticos e procedimentos efectuados no episódio de internamento.
 
-###### Artigo 14.º — Hospital de dia
+Artigo 14.º
+
+Hospital de dia
 
 1 - Os cuidados de saúde prestados em hospital de dia são facturados de acordo com os valores constantes das tabelas do anexo iii, excepto para os procedimentos que integram o anexo ii, que dão lugar a facturação por GDH nos termos dos n.os 1 e 2 do artigo anterior.
 
 2 - Aos valores dos números anteriores acresce o valor do transporte nos termos previstos no anexo iii.
 
-###### Artigo 15.º — Consulta externa
+Artigo 15.º
+
+Consulta externa
 
 1 - O valor a facturar pelas consultas é o seguinte:
 
@@ -395,7 +469,9 @@ b) Hospitais psiquiátricos, departamentos, serviços ou unidades de psiquiatria
 
 4 - A estes preços acrescem os valores dos meios auxiliares de diagnóstico e terapêutica, incluindo pequenas cirurgias e outros actos discriminados no anexo iii.
 
-###### Artigo 16.º — Urgência
+Artigo 16.º
+
+Urgência
 
 1 - O preço do episódio de urgência para os hospitais do SNS é de:
 
@@ -415,13 +491,17 @@ c) Serviço de urgência básica - 51 (euro).
 
 6 - Aos valores dos números anteriores acresce o valor do transporte nos termos previstos no anexo iii.
 
-###### Artigo 17.º — Serviço domiciliário
+Artigo 17.º
+
+Serviço domiciliário
 
 1 - O preço do serviço domiciliário é de 42 (euro).
 
 2 - A este preço acrescem os valores dos meios auxiliares de diagnóstico e terapêutica, incluindo pequenas cirurgias e outros actos discriminados no anexo iii.
 
-###### Artigo 18.º — Interrupção da gravidez
+Artigo 18.º
+
+Interrupção da gravidez
 
 1 - A interrupção da gravidez, até às 10 semanas de gestação realizada em ambulatório, é facturada de acordo com os actos previstos no anexo iii.
 
@@ -435,7 +515,9 @@ c) Serviço de urgência básica - 51 (euro).
 
 6 - Caso a interrupção da gravidez até às 10 semanas, por qualquer das vias, dê lugar ao internamento da mulher, a facturação do episódio de interrupção da gravidez processa-se por GDH, de acordo com as regras estabelecidas nos artigos 5.º e 6.º desta portaria. Nestes casos, o hospital deverá proceder à anulação dos códigos de interrupção da gravidez até às 10 semanas de gestação (35200 ou 35205), não havendo lugar à facturação de quaisquer consultas, actos, procedimentos ou medicamentos registados no âmbito do mesmo episódio de interrupção da gravidez que originou o internamento.
 
-###### Artigo 19.º — Insuficiência renal crónica
+Artigo 19.º
+
+Insuficiência renal crónica
 
 1 - Os tratamentos de doentes insuficientes renais crónicos, integrados em programa de ambulatório programado na unidade de diálise do hospital, nas modalidades de hemodiálise convencional e técnicas afins e diálise peritoneal, serão facturados de acordo com os actos previstos na tabela do anexo iii a esta portaria
 
@@ -447,9 +529,13 @@ c) Serviço de urgência básica - 51 (euro).
 
 5 - O início do tratamento de cada doente, para efeitos de facturação, conta-se a partir do dia da sua admissão e o termo no dia em que, por qualquer razão, o doente abandonar a terapêutica de substituição da função renal por hemodiálise ou for transferido, com carácter definitivo, para outra unidade.
 
-#### Secção IV — Disposições finais
+Secção IV
 
-###### Artigo 20.º — Periodicidade da facturação
+Disposições finais
+
+Artigo 20.º
+
+Periodicidade da facturação
 
 1 - A facturação das prestações de saúde realizadas a doentes internados deve ser efectuada após a data da alta.
 
@@ -457,4 +543,4 @@ c) Serviço de urgência básica - 51 (euro).
 
 3 - A facturação das prestações de saúde realizadas a doentes em regime ambulatório deve ser efectuada após a realização dos cuidados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/02100/0066000758.pdf))](https://files.diariodarepublica.pt/1s/2009/01/02100/0066000758.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/02100/0066000758.pdf)

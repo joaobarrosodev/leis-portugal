@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/608/2007/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/608-2007-520776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4f02a564470e0218364d55d180403966c011186fd9032ff0b0fc7e5b593fbe2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28be45461e643fe36b86d6c25e15726bf98e86cd9fa84fe5f8c1174752ba31e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:640922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640922:por
+  label: "Transferida para Maria Luísa Lourenço de Sousa Carvalho Seabra, a zona de caça turística do Pego do Lobo, concessionada\
+    \ pela Portaria 722-H8/92, de 15 de Julho, alterada pelo presente diploma, pela PORT.978/2007.24.08.2007.MADRP, DR.IS\
+    \ [163] de 24.08.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/978-2007-640922
+  date: '2007-08-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/285/2001/03/29/p/dre
   label: null
@@ -82,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/2006/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/2006/08/04/p/dre
+- type: cites
+  target: pt:dre:345146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538657:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:44Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +125,6 @@ Com fundamento na alínea h) do artigo 13.º do Regulamento do Plano de Ordename
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que sejam excluídos da presente zona vários prédios rústicos, com a área de 91 ha, sitos na freguesia de São Vicente de Pigeiro, no município de Évora, ficando a mesma com a área de 794 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Abril de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Abril de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09700/33793380.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09700/33793380.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09700/33793380.pdf)

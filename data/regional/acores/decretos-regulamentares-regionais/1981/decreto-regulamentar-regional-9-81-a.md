@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1981-389671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79b646deaa313dfb1393ebc7f46414c710d396612d8e40507af55c172746887d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee3e2a27ce5771b031bbe31f8fee3fa1a5db703f80d1fe7319690911db3e2ed9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Administração Local
+- Recrutamento de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:457443:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:36Z'
   warnings: []
   errors: []
 ---
@@ -94,34 +101,34 @@ Torna-se, porém, necessária a sua publicação desde já, pelo que:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º O [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, aplica-se à Região Autónoma dos Açores, com as adaptações constantes dos artigos seguintes.
+Artigo 1.º O [Decreto Regulamentar n.º 68/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1980-457443), de 4 de Novembro, aplica-se à Região Autónoma dos Açores, com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º As competências das comissões de coordenação regional e as do seu presidente são exercidas, respectivamente, pela Direcção Regional da Administração Local, da Secretaria Regional da Administração Pública, e pelo seu director regional.
+Art. 2.º As competências das comissões de coordenação regional e as do seu presidente são exercidas, respectivamente, pela Direcção Regional da Administração Local, da Secretaria Regional da Administração Pública, e pelo seu director regional.
 
-###### Art. 3.º As matérias dos concursos do pessoal a que se refere o artigo 2.º daquele decreto regulamentar poderão ser objecto de portaria ou portarias do Secretário Regional da Administração Pública, no que respeita à Região.
+Art. 3.º As matérias dos concursos do pessoal a que se refere o artigo 2.º daquele decreto regulamentar poderão ser objecto de portaria ou portarias do Secretário Regional da Administração Pública, no que respeita à Região.
 
-###### Art. 4.º As provas a que se refere o n.º 2 do artigo 23.º realizar-se-ão entre três a cinco meses após a data da publicação da lista definitiva.
+Art. 4.º As provas a que se refere o n.º 2 do artigo 23.º realizar-se-ão entre três a cinco meses após a data da publicação da lista definitiva.
 
-###### Art. 5.º Quando ficar deserto na Região algum concurso de provimento de lugar do quadro geral administrativo, o Secretário Regional da Administração Pública poderá comunicar ao Ministro da Administração Interna a necessidade para a Região da abertura de um novo concurso de habilitação.
+Art. 5.º Quando ficar deserto na Região algum concurso de provimento de lugar do quadro geral administrativo, o Secretário Regional da Administração Pública poderá comunicar ao Ministro da Administração Interna a necessidade para a Região da abertura de um novo concurso de habilitação.
 
-###### Art. 6.º As provas dos concursos de habilitação para o quadro gera] administrativo realizadas na Região serão acompanhadas por comissão ou comissões de que farão parte, além de um chefe de secretaria do quadro geral administrativo, dirigentes, técnicos superiores ou técnicos da Secretaria Regional da Administração Pública designados pelo Ministro da Administração Interna, ouvido o Secretário Regional da Administração Pública.
+Art. 6.º As provas dos concursos de habilitação para o quadro gera] administrativo realizadas na Região serão acompanhadas por comissão ou comissões de que farão parte, além de um chefe de secretaria do quadro geral administrativo, dirigentes, técnicos superiores ou técnicos da Secretaria Regional da Administração Pública designados pelo Ministro da Administração Interna, ouvido o Secretário Regional da Administração Pública.
 
-###### Art. 7.º O prazo a que se refere o n.º 2 do artigo 44.º será de quinze dias, no caso de concursos de provimento para as vagas que ocorram na Região.
+Art. 7.º O prazo a que se refere o n.º 2 do artigo 44.º será de quinze dias, no caso de concursos de provimento para as vagas que ocorram na Região.
 
-###### Art. 8.º O subsídio a que se refere o artigo 52.º será fixado por despacho conjunto dos Secretários Regionais das Finanças e da Administração Pública.
+Art. 8.º O subsídio a que se refere o artigo 52.º será fixado por despacho conjunto dos Secretários Regionais das Finanças e da Administração Pública.
 
-###### Art. 9.º A requisição a que se refere o artigo 55.º também poderá ser feita aos serviços e organismos da Administração Regional Autónoma.
+Art. 9.º A requisição a que se refere o artigo 55.º também poderá ser feita aos serviços e organismos da Administração Regional Autónoma.
 
-###### Art. 10.º O parecer a que se refere a alínea b) do n.º 1 do artigo 57.º será, na Região, emitido pela Direcção Regional da Administração Local.
+Art. 10.º O parecer a que se refere a alínea b) do n.º 1 do artigo 57.º será, na Região, emitido pela Direcção Regional da Administração Local.
 
-###### Art. 11.º As dúvidas resultantes da aplicação deste decreto regulamentar regional serão resolvidas por despacho do Secretário Regional da Administração Pública.
+Art. 11.º As dúvidas resultantes da aplicação deste decreto regulamentar regional serão resolvidas por despacho do Secretário Regional da Administração Pública.
 
 Aprovado pelo Governo Regional em 19 de Dezembro de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Janeiro de 1981.**
+Assinado em Angra do Heroísmo em 16 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

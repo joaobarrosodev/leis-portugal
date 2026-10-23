@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/9-1982-378301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83a7252ae857c0a9a23a4e89a888e6d925a1e1b957449960f16f91391ca5f468
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7798b2f3cabde5e287a399061763db92d113c5ed85b75fa2c20b61d0465fbd77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Plano Económico
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:40Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +88,7 @@ A Assembleia Regional dos Açores resolve, nos termos dos artigos 229.º, n.º 1
 
 Aprovada pela Assembleia Regional dos Açores em 23 de Setembro de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
 2.ª revisão do Plano Regional para 1982
 
@@ -100,7 +102,7 @@ O aumento proposto na dotação global do Plano totaliza 491000 contos destinado
 
 Neste sector prevê-se um reforço de 159000 contos, assim distribuídos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
 
 Fundamentação:
 
@@ -122,7 +124,7 @@ No programa n.º 4, o reforço proposto deve-se igualmente ao aumento dos custos
 
 Neste sector propõe-se um reforço de 110000 contos referente ao programa n.º 7 - Construção de novas unidades:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
 
 Fundamentação:
 
@@ -132,7 +134,7 @@ O reforço proposto destina-se a solver os custos adicionais, relativamente prog
 
 Neste sector prevê-se um reforço de 24000 contos, assim distribuídos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
 
 Fundamentação:
 
@@ -144,7 +146,7 @@ No respeitante ao programa n.º 16, o reforço proposto deve-se ao maior número
 
 Neste sector prevê-se um reforço de 200000 contos, com incidência nos programas n.os 42 - Estradas regionais, 43 - Calamidades e estragos e 46 - Apoio ao transporte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
 
 Fundamentação:
 
@@ -158,10 +160,10 @@ Prevê-se também um reforço no projecto n.º 46.1, necessário à cobertura do
 
 Neste sector é proposto uma redução de 2000 contos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
 
 Fundamentação:
 
 A redução ora proposta é consequência no atraso na implementação de algumas acções no âmbito da recolha e tratamento de algumas informações de carácter estatístico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf))](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/25400/36893694.pdf)

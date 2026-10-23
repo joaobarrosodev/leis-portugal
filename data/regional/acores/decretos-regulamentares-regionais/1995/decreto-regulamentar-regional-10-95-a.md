@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/1995/05/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1995-513986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4d2ffb0050e71fdb7e1f7959026352f50ae0294dbcc897acfb017e83fee798a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5702bf8ff83c4d5720a7d1bf3f4494501b5559054d049f96ea34f32734058570
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
+- Açores
 - Definição de Competências
-- Secretaria Regional das Finanças Planeamento e Administração Pública
+- Governo Regional
 - Orgânica
 - Quadro de Pessoal
-- Açores
+- Secretaria Regional das Finanças Planeamento e Administração Pública
 - Subcoordenador
 relationships:
 - type: amended_by
@@ -86,16 +86,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/17/1992/04/22/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/17/1992/04/22/a/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573481:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218368:por
+  label: "Rectificado pela DECL-RECT.123/95.1995.09.27.PCM, DR.IS-B [227]2ºSupl de 30/Set/1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/123-1995-218368
+  date: '1995-09-27'
+- type: repealed_by
+  target: pt:dre:522376:por
+  label: "Revogado pelo DRR.16/98/A.1998.04.13.GR-RAA, DR.IS-B [112] de 15/Mai/1998 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1998-522376
+  date: '1998-04-13'
 article_structure:
-  article_count: 12
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 11
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:25Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +142,7 @@ Considerando a necessidade de esclarecer e corrigir determinadas normas relativa
 
 Assim, em execução do artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 20.º, 21.º, 22.º, 23.º, 36.º, n.os 2 e 4, 55.º, 58.º, n.º 1, e 64.º, n.º 3, do [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio, passam a dispor da seguinte redacção:
+Artigo 1.º Os artigos 20.º, 21.º, 22.º, 23.º, 36.º, n.os 2 e 4, 55.º, 58.º, n.º 1, e 64.º, n.º 3, do [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio, passam a dispor da seguinte redacção:
 
 ###### Artigo 20.º — Direcção de Serviços do Património (DSP)
 
@@ -138,7 +172,9 @@ c) Sector de Inventário e Gestão Patrimonial de Imóveis (SIGPI);
 
 d) Sector de Móveis e Semoventes (SMS).
 
-###### Artigo 21.º — Divisão de Inspecção e Gestão Patrimonial (DIGP)
+###### Artigo 21.º
+
+##### Divisão de Inspecção e Gestão Patrimonial (DIGP)
 
 São competências da DIGP:
 
@@ -226,7 +262,7 @@ f) Subdirector de gestão patrimonial-de entre peritos de gestão patrimonial de
 
 3 - Os actuais chefes de secção das delegações do SAPL da Horta e Ponta Delgada, que vêm assegurando a respectiva gestão, transitam para a categoria de subcoordenador, escalão 1, índice 350.
 
-###### Art. 2.º São aditados ao [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio, os artigos 23.º-A, 50.º-A e 52.º-A, os quais dispõem da seguinte redacção:
+Art. 2.º São aditados ao [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio, os artigos 23.º-A, 50.º-A e 52.º-A, os quais dispõem da seguinte redacção:
 
 ###### Artigo 23.º-A — Sector de Móveis e Semoventes (SMS)
 
@@ -252,28 +288,28 @@ c) Assegurar a prática dos actos relacionados com a constituição, modificaç�
 
 2 - O acesso na carreira faz-se por progressão, segundo módulos de três anos de serviço.
 
-###### Art. 3.º É revogado o artigo 6.º do [Decreto Regulamentar Regional n.º 16/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1990-571215), de 2 de Maio.
+Art. 3.º É revogado o artigo 6.º do [Decreto Regulamentar Regional n.º 16/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1990-571215), de 2 de Maio.
 
-###### Art. 4.º Nos mapas I e IV, a que se refere o artigo 48.º do [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio, são integradas as alterações constantes dos mapas I e IV do presente diploma, de que fazem parte integrante.
+Art. 4.º Nos mapas I e IV, a que se refere o artigo 48.º do [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio, são integradas as alterações constantes dos mapas I e IV do presente diploma, de que fazem parte integrante.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 8 de Fevereiro de 1995.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 2 de Março de 1995.**
+Assinado em Angra do Heroísmo em 2 de Março de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ANEXOS
 
 Mapa I a que se refere o artigo 48.º do [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf))](https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf)
 
 Mapa IV
 
 Carreira técnica de património
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf))](https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf)

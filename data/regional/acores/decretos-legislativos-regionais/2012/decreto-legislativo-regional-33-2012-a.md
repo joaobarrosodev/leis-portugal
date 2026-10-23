@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/33/2012/07/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-179516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc8eff30064fb575d239bb99037f896efe21fb883d22bf51cb0fba7b0e0854c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8215823d62f4dc3b628950d75dc42c4957a2f6e80cbff45010470c6a10993e84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Desenvolvimento Rural
-- Contra-ordenação
-- Instituto Regional do Ordenamento Agrário
-- Regime Jurídico
+- Açores
 - Agricultura
-- Reserva Agrícola
-- Reserva Agrícola Regional
 - Aproveitamento Agrícola
 - Carta da Reserva Agrícola Regional
-- Açores
+- Contra-ordenação
+- Desenvolvimento Rural
+- Instituto Regional do Ordenamento Agrário
+- Multa
+- Regime Jurídico
+- Reserva Agrícola
+- Reserva Agrícola Regional
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:123770990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123770990:por
+  label: Alterados, a partir de 06.09.2019, os arts. 5.º, 8.º, 9.º, 14.º e 15.º e republicado o DLR 32/2008/A, de 28-jul,
+    na versão alterada e republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 20/2019/A - Diário da
+    República n.º 150/2019, Série I de 2019-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2019-123770990
+  date: '2019-08-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/2010/08/12/a/dre
   label: null
@@ -99,16 +106,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/26/1991/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/26/1991/08/23/p/dre
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
 article_structure:
-  article_count: 38
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:35Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +172,9 @@ São alterados os artigos 3.º a 9.º, 11.º e 14.º a 18.º do [Decreto Legisla
 
 8 - Para efeitos do disposto no número anterior, as entidades responsáveis pela elaboração dos planos devem enviar à entidade gestora da RAR um exemplar do plano, em formato digital georreferenciado, com a delimitação da RAR e bem como a identificação das desafetações preconizadas pelo mesmo.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Os solos da RAR devem ser exclusivamente afetos à agricultura, sendo proibidas todas as ações que diminuam ou destruam as suas potencialidades agrícolas, ou que se traduzam na sua utilização para fins não agrícolas, designadamente:
 
@@ -163,7 +188,9 @@ d)...
 
 e)...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -191,7 +218,9 @@ a) «Agricultor» a pessoa singular, cujo rendimento bruto proveniente da ativid
 
 b) «Exploração agrícola» a unidade técnico-económica de produção, submetida a uma gestão única, com uma localização determinada, constituída por um ou mais blocos de terras, que integra, além das atividades agrícolas, as outras atividades produtivas diretamente relacionadas com a atividade agrícola e que utilizem terras ou outros recursos da exploração.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As habitações construídas ao abrigo da alínea b) do n.º 1 do artigo anterior são inalienáveis no prazo de 10 anos a contar da emissão do alvará de utilização, exceto nos casos em que a venda desta seja feita com a totalidade da exploração agrícola e o adquirente preencha os requisitos exigidos ao vendedor.
 
@@ -201,7 +230,9 @@ b) «Exploração agrícola» a unidade técnico-económica de produção, subme
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -221,31 +252,41 @@ e) Contrato de arrendamento rural e declaração do proprietário a autorizar as
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Cabe à entidade gestora da RAR confirmar as exceções previstas nas alíneas a) a d) do n.º 1 do artigo 5.º
 
 2 - As exceções previstas nas alíneas e) a g) do n.º 1 do artigo 5.º são confirmadas mediante despacho conjunto dos membros do Governo Regional com competência em matéria agrícola e da área respetiva.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os despachos decorrentes das situações previstas nas alíneas a) a d) do n.º 1 do artigo 5.º constituem meras confirmações das exceções.
 
 2 - Os despachos decorrentes das situações previstas nas alíneas e) a g) do n.º 1 do artigo 5.º constituem autorizações de desafetação da RAR.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
 2 - A emissão dos certificados a que se refere o número anterior compete à entidade gestora da RAR, devendo o respetivo requerimento ser instruído com os elementos constantes das alíneas a) a c) do n.º 1 do artigo 7.º e planta cadastral ou equivalente, à escala de 1/2000, contendo as indicações de pormenor, nomeadamente os limites do prédio ou prédios.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A fiscalização do disposto no presente diploma compete, em especial, aos municípios, aos serviços de ilha do departamento do Governo Regional com competência em matéria agrícola e à entidade gestora da RAR.
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - A instrução dos processos pelas contraordenações previstas neste diploma é da competência da entidade gestora da RAR.
 
@@ -253,11 +294,15 @@ e) Contrato de arrendamento rural e declaração do proprietário a autorizar as
 
 3 - O produto das coimas aplicadas reverte integralmente para a entidade gestora da RAR ou em 50 % para o município respetivo, no caso de este ter iniciado o procedimento.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Independentemente do processo de contraordenação e da aplicação das coimas, a entidade gestora da RAR deverá do mesmo dar conhecimento ao respetivo município para que seja ordenada a cessação imediata das ações desenvolvidas em violação do disposto no presente diploma.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A entidade gestora da RAR pode, após a audição dos interessados, independentemente de aplicação das coimas, determinar aos responsáveis pelas ações violadoras do regime da RAR que procedam à reposição da situação anterior à infração, fixando o prazo e os termos que devem ser observados.
 
@@ -267,7 +312,9 @@ Independentemente do processo de contraordenação e da aplicação das coimas, 
 
 4 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -297,11 +344,11 @@ O presente decreto legislativo regional entra em vigor 10 dias após a data da s
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de junho de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 28 de junho de 2012.**
+Assinado em Angra do Heroísmo em 28 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

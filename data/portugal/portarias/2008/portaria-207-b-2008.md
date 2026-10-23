@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 40/2008, 1º Suplemento, Série I de 2008-02-26
   number: '40'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1300-(12) a 1300-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/04001/0001200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/207-b/2008/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/207-b-2008-583663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 507a358c645fdb5982009350845f81aff0b384fda73690b14426b2e2889ace3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f54510a1de1f23c740240aef1c9decc65136690f284f34e800f5e0a59f76e737
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Comunicações Eletrónicas
 - Instituto das Comunicações de Portugal
-- Televisão Digital Terrestre
 - Prestação de Serviços
 - Taxa
 - Televisão
+- Televisão Digital Terrestre
 relationships:
 - type: amended_by
   target: pt:dre:198753:por
@@ -85,16 +85,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2004/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2004/02/10/p/dre
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581061:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:246572:por
+  label: "Rectificada pela DECL-RECT.15/2008.18.03.2008.PCM, DR.IS [55] de 18.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-2008-246572
+  date: '2008-03-18'
+- type: repealed_by
+  target: pt:dre:198753:por
+  label: "Revogada, a partir de 01.01.2009, pela PORT.1473-B/2008.17.12.2008.MOPTC, DR.IS [243]Supl de 17.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1473-b-2008-198753
+  date: '2008-12-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:52Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +143,4 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 4.º As taxas a que aludem os números anteriores são liquidadas anualmente em Janeiro de cada ano civil.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 25 de Fevereiro de 2008.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 25 de Fevereiro de 2008.

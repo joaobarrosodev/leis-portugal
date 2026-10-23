@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2011/08/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2011-669553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c7de8da6389aaf72f13753524521237c0a8f6cac456e6cb3f68546db2a3d6d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 024194678bab85389e3caf6e2406bad3efadce33239f4975639ab372d9b632f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
-- Ensino Básico
-- Avaliação de Conhecimentos
 - Açores
+- Avaliação de Conhecimentos
+- Ensino Básico
+- Plano de Estudos
 - Sistema Educativo
 relationships:
 - type: cites
@@ -96,16 +96,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1/2002/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1/2002/01/03/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:52Z'
   warnings: []
   errors: []
 ---
@@ -160,11 +188,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Velas, São Jorge, em 23 de Maio de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 21 de Julho de 2011.**
+Assinado em Angra do Heroísmo em 21 de Julho de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -218,7 +246,7 @@ No que diz respeito às competências-chave, embora todas elas sejam de natureza
 
 Os temas transversais, na sua representação transcurricular, oferecem os ingredientes de conteúdo - relacionados com problemáticas específicas da realidade regional - necessários ao desenvolvimento das competências-chave:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 1 - Competências-chave
 
@@ -500,7 +528,7 @@ Assim sendo, o CREB representa essa realidade ao nível do sistema educativo dos
 
 À luz destes pressupostos, todas as áreas curriculares contribuem para a abordagem à açorianidade numa perspectiva de EDS, desde a educação pré-escolar (11) até ao final da educação básica. Os contributos que a seguir se apresentam para cada área curricular são de carácter global e indicativo, integrando aquilo que se considera essencial, sem prejuízo da desejável autonomia e criatividade das escolas e professores na procura de outras alternativas válidas (12):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 5 - Orientações metodológicas
 
@@ -610,7 +638,7 @@ A abordagem das competências-chave na educação pré-escolar desenvolve-se de 
 
 Contributos da educação pré-escolar para o desenvolvimento das competências-chave
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Abordagem aos temas transversais
 
@@ -628,7 +656,7 @@ Neste sentido, as estratégias de abordagem à temática surgem referenciadas do
 
 Acrescente-se que os temas aqui apresentados não esgotam as temáticas que podem ser trabalhadas, nem as estratégias de intervenção a abordar em cada uma delas, bem como a possibilidade de as encadear no âmbito de projectos mais vastos. Não havendo um programa para a educação pré-escolar, não há conteúdos definidos para esta área no plano macro curricular, cabendo ao educador um papel fundamental na escolha daqueles que considera mais pertinentes, tendo em conta os interesses das crianças e valorizando, como se indica nas Orientações Curriculares, os processos de aprender que incluem a capacidade de observar, o desejo de experimentar, a curiosidade de saber e a atitude crítica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 9 - Operacionalização do CREB nos 1.º, 2.º e 3.º ciclos nas diferentes áreas curriculares
 
@@ -656,15 +684,15 @@ A aula de Português deve, para além disto, desenvolver processos de compreens�
 
 Contributos da área para o desenvolvimento das competências-chave
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Competências-chave e a sua relação com as competências específicas da área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Abordagem aos temas transversais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 9.2 - Línguas estrangeiras
 
@@ -690,15 +718,15 @@ Tal como as restantes áreas, também esta deverá «fomentar uma dinâmica inte
 
 Contributos da área para o desenvolvimento das competências-chave
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Competências-chave e a sua relação com as competências específicas da área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Abordagem aos temas transversais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 9.3 - Matemática
 
@@ -718,15 +746,15 @@ A dimensão estética e cultural desta ciência mostra-nos que a matemática, co
 
 Competências-chave e contributos da área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Competências-chave e a sua relação com as competências específicas da área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Abordagem aos temas transversais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 9.4 - Ciências humanas e sociais
 
@@ -748,15 +776,15 @@ Em última análise, no contexto deste referencial, pretende-se que esta área c
 
 Contributos da área para o desenvolvimento das competências-chave
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Articulação entre as competências-chave e as competências específicas da área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Abordagem aos temas transversais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 9.5 - Ciências Físicas e Naturais
 
@@ -774,15 +802,15 @@ Os temas desta área são abordados ao longo dos três ciclos de um modo gradual
 
 Competências-chave e contributos da área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Competências-chave e a sua relação com as competências específicas da área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Abordagem aos temas transversais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 9.6 - Educação Artística e Tecnológica
 
@@ -804,23 +832,23 @@ Assim, o lugar da educação artística e tecnológica no CREB pauta-se pela tra
 
 Contributos da área para o desenvolvimento das competências-chave
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Competências-chave e a sua relação com as competências específicas da educação artística
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Competências-chave e a sua relação com as competências específicas da educação tecnológica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Abordagem aos temas transversais - Educação artística
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Abordagem aos temas transversais - Educação tecnológica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 9.7 - Educação Física
 
@@ -838,15 +866,15 @@ Neste sentido, poderão ser consideradas, no currículo regional, as subáreas d
 
 Contributos da área para o desenvolvimento das competências-chave
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Competências-chave e a sua relação com as competências específicas da área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Abordagem aos temas transversais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 9.8 - Formação Pessoal e Social
 
@@ -870,15 +898,15 @@ Cumulativamente, enquanto espaço de debate, a área de Formação Pessoal e Soc
 
 Contributos da área para o desenvolvimento das competências-chave
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Competências-chave e a sua relação com as competências específicas da área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Abordagem aos temas transversais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf))](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/14700/0409404140.pdf)
 
 Notas
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/268b00/53425344.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/42/1992/11/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1992-584786
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2455a3d1da3962d933b8dfad4bb43adfb18b38a3628de1c34bae45804cab5735
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62ed52f1728732abdc14da91f78faeba0ee1374c50d83359968ba54d81b93138
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Equivalência de Habilitações Literárias
-- Recrutamento de Pessoal
+- Inspecção Regional de Bombeiros
 - Orgânica
 - Quadro de Pessoal
-- Açores
-- Inspecção Regional de Bombeiros
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:645762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496708:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:580648:por
+  label: "Rectificado o mapa anexo ao presente diploma pela DECL-RECT.15/93.30.01.1993.PCM, DR.IS-B [25]2ºSupl de 30.01.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-1993-580648
+  date: '1993-01-30'
+- type: repealed_by
+  target: pt:dre:645762:por
+  label: "Revogado pelo DRR.24/2003/A.2003.07.14.SRHE-RAA, DR.IS-B [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2003-645762
+  date: '2003-07-14'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:10Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +124,7 @@ Considerando, ainda, que a entrada em vigor de novos regulamentos sobre seguran�
 
 Em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º O n.º 2 do artigo 2.º, em matéria de segurança contra incêndios, a alínea a) do n.º 2 do artigo 4.º, o artigo 5.º, o n.º 2 do artigo 6.º, o artigo 12.º e o n.º 2 do artigo 14.º do [Decreto Regulamentar Regional n.º 32/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1987-496708), de 19 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º O n.º 2 do artigo 2.º, em matéria de segurança contra incêndios, a alínea a) do n.º 2 do artigo 4.º, o artigo 5.º, o n.º 2 do artigo 6.º, o artigo 12.º e o n.º 2 do artigo 14.º do [Decreto Regulamentar Regional n.º 32/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1987-496708), de 19 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 2.º — Atribuições
 
@@ -137,7 +160,7 @@ O lugar de inspector-adjunto é equiparado a director de serviços.
 
 2 - O recrutamento para ingresso na carreira técnico-profissional de inspecção far-se-á de entre indivíduos habilitados com o 11.º ano de escolaridade e o estágio de um ano, a regulamentar por despacho do Secretário Regional da Administração Interna, ou o 12.º ano de escolaridade e experiência profissional na área, não inferior a três anos.
 
-###### Art. 2.º Ao capítulo II do [Decreto Regulamentar Regional n.º 32/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1987-496708), de 19 de Novembro, são aditadas as secções IV, V e VI, com a seguinte redacção:
+Art. 2.º Ao capítulo II do [Decreto Regulamentar Regional n.º 32/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1987-496708), de 19 de Novembro, são aditadas as secções IV, V e VI, com a seguinte redacção:
 
 #### SECÇÃO IV — Do Centro de Formação Profissional
 
@@ -177,7 +200,7 @@ e) Propor e executar um plano geral de manutenção de viaturas e equipamentos.
 
 O Centro de Inspecção e Coordenação Operacional é dirigido por um coordenador, directamente dependente do inspector-adjunto e numerado pelo Secretário Regional da Administração Interna.
 
-###### Art. 3.º Ao capítulo III do [Decreto Regulamentar Regional n.º 32/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1987-496708), de 19 de Novembro, são aditados os artigos 12.º-A, 12.º-B, 14.º-A e 14.º-B, com a seguinte redacção:
+Art. 3.º Ao capítulo III do [Decreto Regulamentar Regional n.º 32/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1987-496708), de 19 de Novembro, são aditados os artigos 12.º-A, 12.º-B, 14.º-A e 14.º-B, com a seguinte redacção:
 
 ###### Artigo 12.º-A — Coordenadores
 
@@ -201,22 +224,22 @@ Para efeito de ingresso na carreira de técnico auxiliar de formação, consider
 
 Para efeito de ingresso na carreira de técnico auxiliar de relações públicas, considera-se equiparado ao curso de formação profissional, previsto na alínea b) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, o 11.º ano de escolaridade, área D, Administração Pública.
 
-###### Art. 4.º O segundo-oficial administrativo do Serviço Regional de Protecção Civil dos Açores, que presta serviço na área de apoio à IRBA desde 1984, é integrado em lugar da categoria de técnico-adjunto de inspecção de 1.ª classe do quadro de pessoal da IRBA.
+Art. 4.º O segundo-oficial administrativo do Serviço Regional de Protecção Civil dos Açores, que presta serviço na área de apoio à IRBA desde 1984, é integrado em lugar da categoria de técnico-adjunto de inspecção de 1.ª classe do quadro de pessoal da IRBA.
 
-###### Art. 5.º O quadro de pessoal a que se refere o n.º 1 do artigo 11.º do [Decreto Regulamentar Regional n.º 32/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1987-496708), de 19 de Novembro, é substituído nos termos do quadro anexo ao presente diploma, do qual faz parte integrante.
+Art. 5.º O quadro de pessoal a que se refere o n.º 1 do artigo 11.º do [Decreto Regulamentar Regional n.º 32/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1987-496708), de 19 de Novembro, é substituído nos termos do quadro anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 6.º O presente diploma entra em vigor na data da sua publicação.
+Art. 6.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 17 de Setembro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Outubro de 1992.**
+Assinado em Angra do Heroísmo em 20 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/268b00/53425344.pdf))](https://files.diariodarepublica.pt/1s/1992/11/268b00/53425344.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/268b00/53425344.pdf)

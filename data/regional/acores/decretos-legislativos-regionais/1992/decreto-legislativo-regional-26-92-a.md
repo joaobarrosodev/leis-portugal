@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/248a00/49754975.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/1992/10/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1992-220560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76be29797cfec8b7aa883025d6b593f9f99dc5524a79c3e27657f312b17781fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c8356fa079d6a9119f78172147cdb0bb158ea48d4338af665ba0cb92fa2d2c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
-- Proteção do Ambiente
-- Espécie Protegida
-- Regime Jurídico
 - Açores
+- CAÇA
+- Espécie Protegida
+- Proteção do Ambiente
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:553893:por
@@ -83,16 +83,21 @@ relationships:
   target: celex:31991L0244
   label: null
   source: http://data.europa.eu/eli/dir/1991/244/oj
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:15Z'
   warnings: []
   errors: []
 ---
@@ -109,9 +114,9 @@ Por outro lado, existe um lapso manifesto na remissão que é feita no n.º 2 do
 
 Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 32.º e da alínea i) do artigo 33.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º É eliminada da lista das espécies cinegéticas constante do n.º 1 do artigo 17.º do Decreto Legislativo Regional n.º 11/92/A, de 15 de Abril, a espécie pombo-torcaz (Columba palumbus H.).
+Artigo 1.º É eliminada da lista das espécies cinegéticas constante do n.º 1 do artigo 17.º do Decreto Legislativo Regional n.º 11/92/A, de 15 de Abril, a espécie pombo-torcaz (Columba palumbus H.).
 
-###### Art. 2.º O artigo 47.º do Decreto Legislativo Regional n.º 11/92/A, de 15 de Abril, passa a ter a seguinte redacção:
+Art. 2.º O artigo 47.º do Decreto Legislativo Regional n.º 11/92/A, de 15 de Abril, passa a ter a seguinte redacção:
 
 ###### Artigo 47.º — Delegação de competências
 
@@ -123,10 +128,10 @@ Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alí
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 10 de Setembro de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 30 de Setembro de 1992.**
+Assinado em Angra do Heroísmo em 30 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

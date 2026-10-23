@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15500/0553205544.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/30/2008/08/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2008-455668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6598d2b21c65e8ba0e382e14e7cc05ce3b45e3e4865e58f6513b8db49647c992
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 604800b6fbcf3d1a9ecaaab5ff0eb5bf6b86e26f560375f52ba984c7872ff288
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Actividade Marítimo-Turística
 - Animação Ambiental
 - Animação Sócio-cultural
-- Empresa
-- Turismo
-- Promoção Turística
 - Contra-ordenação
 - Direcção Regional de Turismo
 - Direcção Regional dos Transportes Terrestres
+- Empresa
 - Estabelecimento de Restauração
 - Fiscalização
-- Polícia Florestal
+- Infraestrutura Turística
 - Licenciamento
-- Actividade Marítimo-Turística
 - Madeira.região Autónoma
+- Polícia Florestal
+- Promoção Turística
 - Regime Jurídico
 - Seguro Obrigatório de Responsabilidade Civil
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:106874600:por
@@ -112,16 +112,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:106874600:por
+  label: Revogado o presente diploma, pelo(a) Decreto Legislativo Regional n.º 10/2017/M - Diário da República n.º 73/2017,
+    Série I de 2017-04-12, com os efeitos previstos no seu art. 9.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2017-106874600
+  date: '2017-04-12'
 article_structure:
   article_count: 57
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:02Z'
   warnings: []
   errors: []
 ---
@@ -512,7 +542,9 @@ Sem prejuízo do disposto no artigo 21.º, a transmissão da propriedade e a ces
 
 5 - O motorista do veículo deve ser portador do documento a que se refere a alínea h) do artigo 32.º do presente diploma, que exibirá a qualquer entidade competente que o solicite.
 
-###### Artigo 28.º — Livro de reclamações
+###### Artigo 28.º
+
+## Livro de reclamações
 
 1 - As empresas de animação turística devem possuir em todos os seus estabelecimentos um livro de reclamações destinado aos clientes nos termos e nas condições previstas no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro, alterado pelo [Decreto-Lei n.º 371/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), de 6 de Novembro.
 
@@ -840,11 +872,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de Julho de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 31 de Julho de 2008.**
+Assinado em 31 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 

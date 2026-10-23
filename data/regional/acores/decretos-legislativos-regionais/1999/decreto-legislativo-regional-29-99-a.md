@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/07/177a00/49524965.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/1999/07/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1999-346709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b77d83c2448908cf46e6502537889f5e76443ca1b1a3e139fca0db4b72228dec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acc64fae46c672d2d259494db2e23a3ab792f8ee5d6b46dae44b91a524e60ce1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Unesco
+- Açores
 - Definição de Competências
 - Embargo
-- Património Cultural
 - Gabinete da ZONA Classificada de Angra do Heroísmo
 - Interesse Público
+- Património Cultural
 - Sanção
-- Açores
+- Unesco
 relationships:
 - type: amended_by
   target: pt:dre:218504:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692987:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:218504:por
+  label: "Revogado pelo DLR.15/2004/A.12.03.2004.ALR-RAA, DR.IS-A [82] de 06.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2004-218504
+  date: '2004-03-12'
 article_structure:
-  article_count: 147
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:11Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +137,7 @@ Os artigos 1.º, 2.º, 4.º, 5.º, 6.º, 10.º, 12.º, 14.º, 16.º, 17.º, 18.�
 
 A zona central da cidade de Angra do Heroísmo é classificada como conjunto de interesse público, com o título de monumento regional.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - A zona classificada da cidade de Angra do Heroísmo é delimitada da seguinte forma:
 
@@ -148,7 +165,7 @@ Dos Portões de São Pedro segue uma linha recta até ao mar, que delimita a par
 
 2 - Os limites definidos no número anterior encontram-se desenhados no anexo I a este diploma.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - ...
 
@@ -168,13 +185,13 @@ e) Os níveis dos pavimentos;
 
 f) A relação entre espaços construídos e não construídos, jardins, arvoredos, logradouros, praças e arruamentos calcetados.
 
-###### Artigo 5.º
+Artigo 5.º
 
 1 - Nenhuns trabalhos de construção civil ou de obras públicas poderão ser executados na zona classificada da cidade de Angra do Heroísmo sem despacho favorável do membro do Governo responsável pela cultura.
 
 2 - A proibição do número anterior aplicar-se-á independentemente da existência ou não de licenciamento prévio camarário ou qualquer tipo de pronúncia de outras entidades.
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - A zona classificada e a sua área especial de protecção serão objecto de um plano de salvaguarda e valorização, que dará corpo às normas contidas no presente diploma, não podendo nelas ser executadas quaisquer obras que contrariem o que naquele plano esteja estabelecido.
 
@@ -186,7 +203,7 @@ f) A relação entre espaços construídos e não construídos, jardins, arvored
 
 5 - Observando a tramitação referida no n.º 3, o plano de salvaguarda e valorização será objecto de revisões quinquenais, não podendo, em caso algum, ser alterado nos períodos intercalares.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - ...
 
@@ -194,7 +211,7 @@ f) A relação entre espaços construídos e não construídos, jardins, arvored
 
 3 - A execução de obras nas condições descritas no número anterior só poderá ser autorizada pelo membro do Governo responsável pela cultura desde que tal possibilidade conste do plano de salvaguarda e valorização.
 
-###### Artigo 12.º
+Artigo 12.º
 
 1 - O aproveitamento do vão do telhado para compartimento de habitação poderá ser autorizado nos termos do Regulamento Geral das Edificações Urbanas e na condição de o seu arejamento e iluminação se fazer através da inclusão, na cobertura, de águas-furtadas ou de janelas de tecto com as dimensões usuais.
 
@@ -202,7 +219,7 @@ f) A relação entre espaços construídos e não construídos, jardins, arvored
 
 3 - A inclusão de águas-furtadas em coberturas onde não existiam anteriormente só poderá ser autorizada desde que tal possibilidade conste do plano de salvaguarda e valorização.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Na reconstrução de edifícios parcial ou totalmente danificados deverão respeitar-se as características estruturais, arquitectónicas e formais do imóvel original.
 
@@ -210,7 +227,7 @@ f) A relação entre espaços construídos e não construídos, jardins, arvored
 
 3 - O plano de salvaguarda e valorização pode estabelecer, para áreas bem definidas ou para determinados imóveis, regras que excepcionem o previsto nos números anteriores.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
@@ -222,7 +239,7 @@ f) A relação entre espaços construídos e não construídos, jardins, arvored
 
 5 - A abertura de novos vãos ou a alteração dos existentes só pode ser autorizada quando tal esteja previsto no plano de salvaguarda e valorização.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - ...
 
@@ -232,13 +249,13 @@ f) A relação entre espaços construídos e não construídos, jardins, arvored
 
 4 - Na construção de novos edifícios poderá ser aplicada a imitação de cantaria com as características usuais na forma, dimensão e cor para o emolduramento dos vãos, pilastras, socos, cornijas e demais elementos ornamentais, desde que da sua aplicação não advenham inconvenientes de ordem estética para a zona e sejam pintadas em cores tradicionais.
 
-###### Artigo 18.º
+Artigo 18.º
 
 1 - As paredes exteriores dos edifícios serão rebocadas com argamassa, à qual se dará um acabamento perfeitamente liso, desempenado e não areado.
 
 2 - ...
 
-###### Artigo 22.º
+Artigo 22.º
 
 1 - As caixilharias deverão ser sempre executadas em madeira.
 
@@ -250,19 +267,19 @@ f) A relação entre espaços construídos e não construídos, jardins, arvored
 
 5 - Nos rés-do-chão comerciais, e atento o disposto no n.º 1, as caixilharias das portas, janelas ou montras poderão obedecer a um desenho mais simplificado, mantendo contudo uma ligação plástica e estética com as restantes caixilharias do edifício.
 
-###### Artigo 23.º
+Artigo 23.º
 
 1 - ...
 
 2 - No caso de construção de edifícios novos localizados entre edifícios antigos, será exigido que os vãos e vitrinas dos estabelecimentos comerciais tenham as dimensões usuais definidas no n.º 3 do artigo 16.º
 
-###### Artigo 24.º
+Artigo 24.º
 
 1 - ...
 
 2 - No caso de construção de novos edifícios, as sacadas não poderão possuir uma saliência relativamente ao plano da fachada superior a 0,45 m e serão sempre dispostas nas fachadas por forma a conferirem aos edifícios a harmonia e o equilíbrio que caracterizam as construções tradicionais existentes, não podendo ser colocadas acima do piso mais alto das preexistentes nas fachadas do troço do arruamento correspondente ao lado do quarteirão onde se situa o edifício.
 
-###### Artigo 25.º
+Artigo 25.º
 
 1 - As guardas de madeira e ferro - forjado ou fundido - das sacadas antigas deverão ser preservadas e pintadas nas cores tradicionais.
 
@@ -272,33 +289,33 @@ f) A relação entre espaços construídos e não construídos, jardins, arvored
 
 4 - ...
 
-###### Artigo 27.º
+Artigo 27.º
 
 É proibida a aplicação de ferro ou alumínio nas caixilharias dos vãos dos imóveis.
 
-###### Artigo 28.º
+Artigo 28.º
 
 É proibida a inclusão de estores de qualquer tipo de material nos vãos dos imóveis existentes ou a construir na zona classificada.
 
-###### Artigo 29.º
+Artigo 29.º
 
 Sem prejuízo do disposto no artigo 19.º, são proibidos os revestimentos das fachadas e empenas dos imóveis com azulejos, cerâmicas de qualquer tipo, mármores, rebocos rugosos, metais de qualquer tipo, vidros, materiais sintéticos e plásticos, fibrocimento e todos os materiais polidos e brilhantes.
 
-###### Artigo 30.º
+Artigo 30.º
 
 É proibida a aplicação nos vãos de vidros espelhados, foscos, rugosos ou martelados, bem como de todos aqueles que, pela sua cor ou configuração, possam manifestamente prejudicar a harmonia do imóvel ou zona envolvente.
 
-###### Artigo 31.º
+Artigo 31.º
 
 As regras para aplicação de anúncios e toldos de qualquer tipo, a sua configuração e respectivas dimensões, material e cor, bem como a sua colocação e forma de fixação, serão as estabelecidas no plano de salvaguarda e valorização.
 
-###### Artigo 35.º
+Artigo 35.º
 
 1 - ...
 
 2 - As chaminés a construir de novo devem obedecer no desenho e forma a requisitos técnicos a fixar no plano de salvaguarda e valorização.
 
-###### Artigo 39.º
+Artigo 39.º
 
 1 - O GZCAH, no prazo de 60 dias contados da recepção do respectivo requerimento, apresentará ao membro do Governo responsável pela cultura o seu parecer, acompanhado dos estudos e pareceres técnicos necessários.
 
@@ -310,7 +327,7 @@ As regras para aplicação de anúncios e toldos de qualquer tipo, a sua configu
 
 5 - ...
 
-###### Artigo 41.º
+Artigo 41.º
 
 1 - A realização de quaisquer obras por parte de pessoas, singulares ou colectivas, que não tenham sido precedidas de despacho favorável do membro do Governo responsável pela cultura será punida com coima de 100000$00 a 10000000$00, no caso de pessoa singular, ou de 500000$00 até 50000000$00, no caso de pessoa colectiva.
 
@@ -318,13 +335,13 @@ As regras para aplicação de anúncios e toldos de qualquer tipo, a sua configu
 
 3 - A tentativa e a negligência são sempre puníveis.
 
-###### Artigo 42.º
+Artigo 42.º
 
 1 - Independentemente da aplicação das coimas referidas no artigo anterior, o membro do Governo responsável pela cultura estabelecerá ainda um prazo para a execução das necessárias obras de correcção, de acordo com o estabelecido neste diploma.
 
 2 - ...
 
-###### Artigo 43.º
+Artigo 43.º
 
 1 - As obras efectuadas contra o disposto no presente diploma são embargáveis pela Administração, nos termos da lei.
 
@@ -334,7 +351,7 @@ As regras para aplicação de anúncios e toldos de qualquer tipo, a sua configu
 
 4 - As quantias relativas às despesas a que se referem os n.os 2 e 3, quando não pagas voluntariamente no prazo de 20 dias a contar da notificação para o efeito, são cobradas nos termos legalmente estabelecidos para a cobrança coerciva de dívidas à Região.
 
-###### Artigo 44.º
+Artigo 44.º
 
 1 - O Governo Regional, em conjunto com a respectiva Câmara Municipal, tomará as medidas que possam constituir incentivos à recuperação, manutenção e valorização da zona classificada de Angra do Heroísmo.
 
@@ -364,7 +381,7 @@ São aditados ao [Decreto Legislativo Regional n.º 15/84/A](https://diariodarep
 
 5 - A área especial de protecção é uma área de servidão administrativa, não podendo aí ser autorizadas pela Câmara Municipal ou por outras entidades quaisquer obras de demolição, instalação, construção, reconstrução, criação ou transformação, sem despacho prévio favorável do membro do Governo responsável pela cultura.
 
-###### Artigo 6.º-A
+Artigo 6.º-A
 
 O plano de salvaguarda e valorização da zona classificada conterá, para os quarteirões e arruamentos, os planos de alinhamentos, de canalizações da rede de águas, esgotos, energia eléctrica e telecomunicações e as seguintes indicações:
 
@@ -386,7 +403,7 @@ h) As normas específicas de conservação, protecção e valorização ambienta
 
 i) As normas específicas de conservação, protecção e valorização ambiental dos espaços públicos, parques e jardins.
 
-###### Artigo 6.º-B
+Artigo 6.º-B
 
 Os planos referidos no artigo anterior indicarão, designadamente:
 
@@ -410,11 +427,11 @@ i) Os alinhamentos e os perfis dos edifícios sobre a rua e sobre os logradouros
 
 j) A largura, profundidade e altura admissíveis nas construções por cada parcela de zona urbana.
 
-###### Artigo 31.º-A
+Artigo 31.º-A
 
 Os dispositivos de ar condicionado deverão obrigatoriamente ser resolvidos em soluções dissimuladas e sempre que colocados nas fachadas por meio de grelhas em madeira pintada ou quaisquer outras que acautelem a estética e a unidade arquitectónica dos imóveis.
 
-###### Artigo 31.º-B
+Artigo 31.º-B
 
 1 - É proibida a colocação de antenas parabólicas nos telhados e fachadas dos imóveis.
 
@@ -422,19 +439,19 @@ Os dispositivos de ar condicionado deverão obrigatoriamente ser resolvidos em s
 
 3 - O plano de salvaguarda e valorização poderá prever, para autorização, a colocação de antenas parabólicas e outras coisas acessórias em locais não visíveis do espaço público.
 
-###### Artigo 42.º-A
+Artigo 42.º-A
 
 A competência para determinar a instauração dos processos de contra-ordenação, para designar o seu instrutor e para aplicar as coimas previstas no artigo anterior pertence ao membro do Governo responsável pela cultura.
 
-###### Artigo 45.º-A
+Artigo 45.º-A
 
 Após a aprovação e publicação dos instrumentos de planeamento necessários à gestão da zona classificada de Angra do Heroísmo e da sua área de protecção, deixam de se aplicar, no seu interior, as restrições previstas para salvaguarda da Reserva Agrícola Regional.
 
-###### Artigo 45.º-B
+Artigo 45.º-B
 
 Os troços das vias classificadas como estrada regional e seus ramais situados no interior da zona classificada e respectiva área de protecção, com excepção daqueles que lhe servem de limite, são reclassificados como vias municipais.
 
-###### Artigo 45.º-C
+Artigo 45.º-C
 
 1 - O plano de salvaguarda e valorização da zona classificada de Angra do Heroísmo e respectiva área de protecção será aprovado até 18 meses após a entrada em vigor do presente diploma.
 
@@ -454,157 +471,163 @@ São revogados os n.os 3 do artigo 8.º, 4 do artigo 15.º, 5 do artigo 17.º, 3
 
 São inseridas no [Decreto Legislativo Regional n.º 15/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1984-654687), de 13 de Abril, com as alterações introduzidas por este diploma, as seguintes epígrafes:
 
-### Capítulo I - «Delimitação»;
+Capítulo I - «Delimitação»;
 
-###### Artigo 1.º - «Classificação»;
+Artigo 1.º - «Classificação»;
 
-###### Artigo 2.º - «Delimitação»;
+Artigo 2.º - «Delimitação»;
 
-###### Artigo 3.º - «Área de protecção»;
+Artigo 3.º - «Área de protecção»;
 
-###### Artigo 4.º - «Remissão»;
+Artigo 4.º - «Remissão»;
 
-### Capítulo II - «Princípios gerais»;
+Capítulo II - «Princípios gerais»;
 
-###### Artigo 5.º - «Do aspecto característico e correcção de anomalias»;
+Artigo 5.º - «Do aspecto característico e correcção de anomalias»;
 
-###### Artigo 6.º - «Despacho favorável»;
+Artigo 6.º - «Despacho favorável»;
 
-###### Artigo 7.º - «Instrumentos de planeamento e ordenamento»;
+Artigo 7.º - «Instrumentos de planeamento e ordenamento»;
 
-###### Artigo 8.º - «Conteúdo do plano de salvaguarda e valorização»;
+Artigo 8.º - «Conteúdo do plano de salvaguarda e valorização»;
 
-###### Artigo 9.º - «Previsão»;
+Artigo 9.º - «Previsão»;
 
-###### Artigo 10.º - «Alinhamentos sobre as ruas»;
+Artigo 10.º - «Alinhamentos sobre as ruas»;
 
-###### Artigo 11.º - «Alinhamentos sobre os logradouros»;
+Artigo 11.º - «Alinhamentos sobre os logradouros»;
 
-###### Artigo 12.º - «Pavimentos»;
+Artigo 12.º - «Pavimentos»;
 
-### Capítulo III - «Das edificações em conjunto»;
+Capítulo III - «Das edificações em conjunto»;
 
-###### Artigo 13.º - «Imóveis existentes»;
+Artigo 13.º - «Imóveis existentes»;
 
-###### Artigo 14.º - «Obras de ampliação»;
+Artigo 14.º - «Obras de ampliação»;
 
-###### Artigo 15.º - «Vão do telhado e águas-furtadas»;
+Artigo 15.º - «Vão do telhado e águas-furtadas»;
 
-###### Artigo 16.º - «Andares recuados»;
+Artigo 16.º - «Andares recuados»;
 
-###### Artigo 17.º - «Edifícios parcial ou totalmente danificados»;
+Artigo 17.º - «Edifícios parcial ou totalmente danificados»;
 
-### Capítulo IV - «Fachadas»;
+Capítulo IV - «Fachadas»;
 
-###### Artigo 18.º - «Construções anteriores ao século XX»;
+Artigo 18.º - «Construções anteriores ao século XX»;
 
-###### Artigo 19.º - «Ritmo das aberturas nas fachadas»;
+Artigo 19.º - «Ritmo das aberturas nas fachadas»;
 
-###### Artigo 20.º - «Emolduramentos e cantarias»;
+Artigo 20.º - «Emolduramentos e cantarias»;
 
-###### Artigo 21.º - «Rebocos e tintas»;
+Artigo 21.º - «Rebocos e tintas»;
 
-###### Artigo 22.º - «Azulejos antigos»;
+Artigo 22.º - «Azulejos antigos»;
 
-###### Artigo 23.º - «Cornijas»;
+Artigo 23.º - «Cornijas»;
 
-###### Artigo 24.º - «Platibandas»;
+Artigo 24.º - «Platibandas»;
 
-###### Artigo 25.º - «Caixilharias»;
+Artigo 25.º - «Caixilharias»;
 
-###### Artigo 26.º - «Obras de renovação, transformação, restauro ou reparação»;
+Artigo 26.º - «Obras de renovação, transformação, restauro ou reparação»;
 
-###### Artigo 27.º - «Sacadas»;
+Artigo 27.º - «Sacadas»;
 
-###### Artigo 28.º - «Guardas»;
+Artigo 28.º - «Guardas»;
 
-###### Artigo 29.º - «Algerozes»;
+Artigo 29.º - «Algerozes»;
 
-###### Artigo 30.º - «Ferro ou alumínio»;
+Artigo 30.º - «Ferro ou alumínio»;
 
-###### Artigo 31.º - «Estores»;
+Artigo 31.º - «Estores»;
 
-###### Artigo 32.º - «Revestimento das fachadas e empenas»;
+Artigo 32.º - «Revestimento das fachadas e empenas»;
 
-###### Artigo 33.º - «Vidros espelhados, foscos, rugosos ou martelados»;
+Artigo 33.º - «Vidros espelhados, foscos, rugosos ou martelados»;
 
-###### Artigo 34.º - «Anúncios e toldos»;
+Artigo 34.º - «Anúncios e toldos»;
 
-###### Artigo 35.º - «Dispositivos de ar condicionado»;
+Artigo 35.º - «Dispositivos de ar condicionado»;
 
-###### Artigo 36.º - «Antenas parabólicas e outras coisas acessórias»;
+Artigo 36.º - «Antenas parabólicas e outras coisas acessórias»;
 
-### Capítulo V - «Telhados»;
+Capítulo V - «Telhados»;
 
-###### Artigo 37.º - «Telhados»;
+Artigo 37.º - «Telhados»;
 
-###### Artigo 38.º - «Revestimento»;
+Artigo 38.º - «Revestimento»;
 
-###### Artigo 39.º - «Beirados»;
+Artigo 39.º - «Beirados»;
 
-###### Artigo 40.º - «Chaminés»;
+Artigo 40.º - «Chaminés»;
 
-###### Artigo 41.º - «Coberturas»;
+Artigo 41.º - «Coberturas»;
 
-### Capítulo VI - «Gabinete da Zona Classificada de Angra do Heroísmo»;
+Capítulo VI - «Gabinete da Zona Classificada de Angra do Heroísmo»;
 
-###### Artigo 42.º - «Composição»;
+Artigo 42.º - «Composição»;
 
-###### Artigo 43.º - «Competências do corpo técnico»;
+Artigo 43.º - «Competências do corpo técnico»;
 
-###### Artigo 44.º - «Procedimento e prazos de apreciação»;
+Artigo 44.º - «Procedimento e prazos de apreciação»;
 
-### Capítulo VII - «Sanções»;
+Capítulo VII - «Sanções»;
 
-###### Artigo 45.º - «Coimas»;
+Artigo 45.º - «Coimas»;
 
-###### Artigo 46.º - «Sanção acessória»;
+Artigo 46.º - «Sanção acessória»;
 
-###### Artigo 47.º - «Competência»;
+Artigo 47.º - «Competência»;
 
-###### Artigo 48.º - «Embargo de obras;
+Artigo 48.º - «Embargo de obras;
 
-### Capítulo VIII - «Disposições finais e transitórias»;
+Capítulo VIII - «Disposições finais e transitórias»;
 
-###### Artigo 49.º - «Incentivos»;
+Artigo 49.º - «Incentivos»;
 
-###### Artigo 50.º - «Reserva Agrícola Regional»;
+Artigo 50.º - «Reserva Agrícola Regional»;
 
-###### Artigo 51.º - «Reclassificação»;
+Artigo 51.º - «Reclassificação»;
 
-###### Artigo 52.º - «Aprovação do plano de salvaguarda e valorização»;
+Artigo 52.º - «Aprovação do plano de salvaguarda e valorização»;
 
-###### Artigo 53.º - «Entrada em vigor».
+Artigo 53.º - «Entrada em vigor».
 
-###### Artigo 7.º
+Artigo 7.º
 
 O [Decreto Legislativo Regional n.º 15/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1984-654687), de 13 de Abril, com as alterações introduzidas por este diploma, é devidamente renumerado e republicado em anexo com as necessárias correcções materiais.
 
-###### Artigo 8.º
+Artigo 8.º
 
 O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Junho de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 9 de Julho de 1999.**
+Assinado em Angra do Heroísmo em 9 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
-## ANEXO A QUE SE REFERE O ARTIGO 7.º
+ANEXO A QUE SE REFERE O ARTIGO 7.º
 
 Classificação da zona central da cidade de Angra do Heroísmo
 
-### CAPÍTULO I — Delimitação
+CAPÍTULO I
 
-###### Artigo 1.º — Classificação
+Delimitação
+
+Artigo 1.º
+
+Classificação
 
 A zona central da cidade de Angra do Heroísmo é classificada como conjunto de interesse público, com o título de monumento regional.
 
-###### Artigo 2.º — Delimitação
+Artigo 2.º
+
+Delimitação
 
 1 - A zona classificada da cidade de Angra do Heroísmo é delimitada da seguinte forma:
 
@@ -632,7 +655,9 @@ Dos Portões de São Pedro segue uma linha recta até ao mar, que delimita a par
 
 2 - Os limites definidos no número anterior encontram-se desenhados no anexo I a este diploma.
 
-###### Artigo 3.º — Área de protecção
+Artigo 3.º
+
+Área de protecção
 
 1 - Para além dos limites definidos no artigo anterior é estabelecida uma área especial de protecção, conforme é fixada no texto e na planta, que constituem os anexos II e III a este diploma e que dele fazem parte integrante.
 
@@ -644,13 +669,19 @@ Dos Portões de São Pedro segue uma linha recta até ao mar, que delimita a par
 
 5 - A área especial de protecção é uma área de servidão administrativa, não podendo aí ser autorizadas pela Câmara Municipal ou por outras entidades quaisquer obras de demolição, instalação, construção, reconstrução, criação ou transformação, sem despacho prévio favorável do membro do Governo responsável pela cultura.
 
-###### Artigo 4.º — Remissão
+Artigo 4.º
+
+Remissão
 
 As medidas previstas no presente diploma entendem-se sem prejuízo de outras destinadas à protecção do património natural ou cultural.
 
-### CAPÍTULO II — Princípios gerais
+CAPÍTULO II
 
-###### Artigo 5.º — Aspecto característico e correcção de anomalias
+Princípios gerais
+
+Artigo 5.º
+
+Aspecto característico e correcção de anomalias
 
 1 - A zona classificada da cidade de Angra do Heroísmo deverá conservar o seu aspecto característico, pelo que nenhumas obras de construção, reconstrução, modificação ou demolição poderão ser efectuadas, se delas resultar alteração significativa do referido aspecto.
 
@@ -670,13 +701,17 @@ e) Os níveis dos pavimentos;
 
 f) A relação entre espaços construídos e não construídos, jardins, arvoredos, logradouros, praças e arruamentos calcetados.
 
-###### Artigo 6.º — Despacho favorável
+Artigo 6.º
+
+Despacho favorável
 
 1 - Nenhuns trabalhos de construção civil ou de obras públicas poderão ser executados na zona classificada da cidade de Angra do Heroísmo sem despacho favorável do membro do Governo responsável pela cultura.
 
 2 - A proibição do número anterior aplicar-se-á independentemente da existência ou não de licenciamento prévio camarário ou qualquer tipo de pronúncia de outras entidades.
 
-###### Artigo 7.º — Instrumentos de planeamento e ordenamento
+Artigo 7.º
+
+Instrumentos de planeamento e ordenamento
 
 1 - A zona classificada e a sua área especial de protecção serão objecto de um plano de salvaguarda e valorização que dará corpo às normas contidas no presente diploma, não podendo nelas ser executadas quaisquer obras que contrariem o que naquele plano esteja estabelecido.
 
@@ -688,7 +723,9 @@ f) A relação entre espaços construídos e não construídos, jardins, arvored
 
 5 - Observando a tramitação referida no n.º 3, o plano de salvaguarda e valorização será objecto de revisões quinquenais, não podendo, em caso algum, ser alterado nos períodos intercalares.
 
-###### Artigo 8.º — Conteúdo do plano de salvaguarda e valorização
+Artigo 8.º
+
+Conteúdo do plano de salvaguarda e valorização
 
 O plano de salvaguarda e valorização da zona classificada conterá, para os quarteirões e arruamentos, os planos de alinhamentos, de canalizações da rede de águas, esgotos, energia eléctrica e telecomunicações e as seguintes indicações:
 
@@ -710,7 +747,9 @@ h) As normas específicas de conservação, protecção e valorização ambienta
 
 i) As normas específicas de conservação, protecção e valorização ambiental dos espaços públicos, parques e jardins.
 
-###### Artigo 9.º — Previsão
+Artigo 9.º
+
+Previsão
 
 Os planos referidos no artigo anterior indicarão, designadamente:
 
@@ -734,17 +773,23 @@ i) Os alinhamentos e os perfis dos edifícios sobre a rua e sobre os logradouros
 
 j) A largura, profundidade e altura admissíveis nas construções por cada parcela de zona urbana.
 
-###### Artigo 10.º — Alinhamentos sobre as ruas
+Artigo 10.º
+
+Alinhamentos sobre as ruas
 
 Os alinhamentos dos edifícios e muros sobre as ruas e os respectivos níveis e alturas serão mantidos tal como existem, sem prejuízo do disposto nos artigos 5.º, n.º 2, e 13.º, n.º 2.
 
-###### Artigo 11.º — Alinhamentos sobre os logradouros
+Artigo 11.º
+
+Alinhamentos sobre os logradouros
 
 1 - Os alinhamentos dos edifícios sobre os logradouros e os respectivos níveis e alturas serão mantidos.
 
 2 - Os muros divisórios entre propriedades e os tanques ou chafarizes existentes nos logradouros deverão ser preservados.
 
-###### Artigo 12.º — Pavimentos
+Artigo 12.º
+
+Pavimentos
 
 1 - Na zona classificada o pavimento das ruas e passeios será em paralelepípedos de basalto.
 
@@ -752,9 +797,13 @@ Os alinhamentos dos edifícios e muros sobre as ruas e os respectivos níveis e 
 
 3 - As passagens de peões ou outros sinais de trânsito serão executados em calcário, ficando proibida a aplicação de tintas nos pavimentos.
 
-### CAPÍTULO III — Das edificações em conjunto
+CAPÍTULO III
 
-###### Artigo 13.º — Imóveis existentes
+Das edificações em conjunto
+
+Artigo 13.º
+
+Imóveis existentes
 
 1 - Serão respeitadas as características arquitectónicas e históricas dos imóveis existentes, nomeadamente a sua implantação, a sua altura, o seu volume e a configuração da sua cobertura.
 
@@ -762,7 +811,9 @@ Os alinhamentos dos edifícios e muros sobre as ruas e os respectivos níveis e 
 
 3 - A execução de obras nas condições descritas no número anterior só poderá ser autorizada pelo membro do Governo responsável pela cultura desde que tal possibilidade conste do plano de salvaguarda e valorização.
 
-###### Artigo 14.º — Obras de ampliação
+Artigo 14.º
+
+Obras de ampliação
 
 1 - Não serão permitidas obras de ampliação de edifícios existentes ou obras de construção de novos edifícios que ultrapassem 15 m de profundidade, medidos a partir da fachada anterior.
 
@@ -770,7 +821,9 @@ Os alinhamentos dos edifícios e muros sobre as ruas e os respectivos níveis e 
 
 3 - Em nenhum caso será, contudo, permitida nas obras descritas no n.º 2 deste artigo uma cércea superior a três pisos, com exclusão da cave.
 
-###### Artigo 15.º — Vão do telhado e águas-furtadas
+Artigo 15.º
+
+Vão do telhado e águas-furtadas
 
 1 - O aproveitamento do vão do telhado para compartimento de habitação poderá ser autorizado nos termos do Regulamento Geral das Edificações Urbanas e na condição de o seu arejamento e iluminação se fazer através da inclusão, na cobertura, de águas-furtadas ou de janelas de tecto com as dimensões usuais.
 
@@ -778,11 +831,15 @@ Os alinhamentos dos edifícios e muros sobre as ruas e os respectivos níveis e 
 
 3 - A inclusão de águas-furtadas em coberturas onde não existiam anteriormente só poderá ser autorizada desde que tal possibilidade conste do plano de salvaguarda e valorização.
 
-###### Artigo 16.º — Andares recuados
+Artigo 16.º
+
+Andares recuados
 
 Não será autorizada a construção de andares recuados com vãos de acesso a terraços.
 
-###### Artigo 17.º — Edifícios parcial ou totalmente danificados
+Artigo 17.º
+
+Edifícios parcial ou totalmente danificados
 
 1 - Na reconstrução de edifícios parcial ou totalmente danificados deverão respeitar-se as características estruturais, arquitectónicas e formais do imóvel original.
 
@@ -790,9 +847,13 @@ Não será autorizada a construção de andares recuados com vãos de acesso a t
 
 3 - O plano de salvaguarda e valorização pode estabelecer, para áreas bem definidas ou para determinados imóveis, regras que excepcionem o previsto nos números anteriores.
 
-### CAPÍTULO IV — Fachadas
+CAPÍTULO IV
 
-###### Artigo 18.º — Construções anteriores ao século XX
+Fachadas
+
+Artigo 18.º
+
+Construções anteriores ao século XX
 
 1 - Deverão ser mantidas as fachadas de todas as construções anteriores ao século XX.
 
@@ -800,7 +861,9 @@ Não será autorizada a construção de andares recuados com vãos de acesso a t
 
 3 - Sempre que se tenham irremediavelmente danificado os materiais originais das fachadas dos edifícios antigos, poder-se-ão utilizar materiais modernos na reparação ou restauro das mesmas, desde que da sua aplicação não resulte qualquer tipo de aviltamento das características formais e estéticas dessas fachadas.
 
-###### Artigo 19.º — Ritmo das aberturas nas fachadas
+Artigo 19.º
+
+Ritmo das aberturas nas fachadas
 
 1 - Nos edifícios anteriores ao século XX dever-se-á manter inalterado o ritmo das aberturas nas fachadas e as suas características e dimensões, bem como a relação existente entre cheios e vazios.
 
@@ -812,7 +875,9 @@ Não será autorizada a construção de andares recuados com vãos de acesso a t
 
 5 - A abertura de novos vãos ou a alteração dos existentes só pode ser autorizada quando tal esteja previsto no plano de salvaguarda e valorização.
 
-###### Artigo 20.º — Emolduramentos e cantarias
+Artigo 20.º
+
+Emolduramentos e cantarias
 
 1 - As aberturas exteriores deverão ser emolduradas por cantaria de pedra da Região, com as dimensões usuais, por forma a ficarem devidamente demarcadas do reboco do edifício no relevo e na cor.
 
@@ -822,27 +887,37 @@ Não será autorizada a construção de andares recuados com vãos de acesso a t
 
 4 - Na construção de novos edifícios poderá ser aplicada a imitação de cantaria com as características usuais na forma, dimensão e cor para o emolduramento dos vãos, pilastras, socos, cornijas e demais elementos ornamentais, desde que da sua aplicação não advenham inconvenientes de ordem estética para a zona e sejam pintadas em cores tradicionais.
 
-###### Artigo 21.º — Rebocos e tintas
+Artigo 21.º
+
+Rebocos e tintas
 
 1 - As paredes exteriores dos edifícios serão rebocadas com argamassa, à qual se dará um acabamento perfeitamente liso, desempenado e não arcado.
 
 2 - Não será autorizada a aplicação de tintas texturadas ou brilhantes nos rebocos ou cantarias dos edifícios.
 
-###### Artigo 22.º — Azulejos antigos
+Artigo 22.º
+
+Azulejos antigos
 
 Os azulejos antigos que revestem as paredes exteriores de alguns edifícios deverão ser mantidos e restaurados.
 
-###### Artigo 23.º — Cornijas
+Artigo 23.º
+
+Cornijas
 
 1 - As cornijas dos imóveis deverão ser de cantaria ou, na sua ausência, de material moldável que a imite e deverão possuir sempre um perfil que respeite as características tradicionais deste tipo de remate.
 
 2 - Em edifícios com características arquitectónicas mais modestas poderá dispensar-se a construção de cornijas.
 
-###### Artigo 24.º — Platibandas
+Artigo 24.º
+
+Platibandas
 
 As platibandas existentes em alguns imóveis anteriores ao século XX deverão ser mantidas.
 
-###### Artigo 25.º — Caixilharias
+Artigo 25.º
+
+Caixilharias
 
 1 - As caixilharias deverão ser sempre executadas em madeira.
 
@@ -854,19 +929,25 @@ As platibandas existentes em alguns imóveis anteriores ao século XX deverão s
 
 5 - Nos rés-do-chão comerciais, e atento o disposto no n.º 1, as caixilharias das portas, janelas ou montras poderão obedecer a um desenho mais simplificado, mantendo contudo uma ligação plástica e estética com as restantes caixilharias do edifício.
 
-###### Artigo 26.º — Obras de renovação, transformação, restauro ou reparação
+Artigo 26.º
+
+Obras de renovação, transformação, restauro ou reparação
 
 1 - Nas obras de renovação, transformação, restauro ou reparação de edifícios anteriores ao século XX, sempre que se considere indispensável para uma conveniente recuperação das suas características arquitectónicas originais, deverão ser repostos, nas suas dimensões e configuração primitivas, os vãos das fachadas principais que tenham sido objecto de alterações introduzidas posteriormente à data de conclusão das obras de raiz.
 
 2 - No caso de construção de edifícios novos localizados entre edifícios antigos, será exigido que os vãos e vitrinas dos estabelecimentos comerciais tenham as dimensões usuais definidas no n.º 3 do artigo 19.º
 
-###### Artigo 27.º — Sacadas
+Artigo 27.º
+
+Sacadas
 
 1 - As sacadas de pedra existentes nos imóveis anteriores ao século XX deverão ser mantidas sem alterações.
 
 2 - No caso de construção de novos edifícios, as sacadas não poderão possuir uma saliência relativamente ao plano da fachada superior a 0,45 m e serão sempre dispostas nas fachadas por forma a conferirem aos edifícios a harmonia e o equilíbrio que caracterizam as construções tradicionais existentes, não podendo ser colocadas acima do piso mais alto das preexistentes nas fachadas do troço do arruamento correspondente ao lado do quarteirão onde se situa o edifício.
 
-###### Artigo 28.º — Guardas
+Artigo 28.º
+
+Guardas
 
 1 - As guardas de madeira e ferro - forjado ou fundido - das sacadas antigas deverão ser preservadas e pintadas nas cores tradicionais.
 
@@ -876,35 +957,51 @@ As platibandas existentes em alguns imóveis anteriores ao século XX deverão s
 
 4 - Será proibida a inclusão de qualquer tipo de gradeamento nos vãos de edifícios existentes ou de novos edifícios que prejudique o equilíbrio do imóvel ou da zona.
 
-###### Artigo 29.º — Algerozes
+Artigo 29.º
+
+Algerozes
 
 Os algerozes antigos existentes em alguns imóveis e os respectivos suportes em ferro forjado, bem como os beirados executados em madeira, deverão ser preservados.
 
-###### Artigo 30.º — Ferro ou alumínio
+Artigo 30.º
+
+Ferro ou alumínio
 
 É proibida a aplicação de ferro ou alumínio nas caixilharias dos vãos dos imóveis.
 
-###### Artigo 31.º — Estores
+Artigo 31.º
+
+Estores
 
 É proibida a inclusão de estores de qualquer tipo de material nos vãos dos imóveis existentes ou a construir na zona classificada.
 
-###### Artigo 32.º — Revestimento das fachadas e empenas
+Artigo 32.º
+
+Revestimento das fachadas e empenas
 
 Sem prejuízo do disposto no artigo 22.º, são proibidos os revestimentos de fachadas e empenas dos imóveis com azulejos, cerâmicas de qualquer tipo, mármores, rebocos rugosos, metais de qualquer tipo, vidros, materiais sintéticos e plásticos, fibrocimento e todos os materiais polidos e brilhantes.
 
-###### Artigo 33.º — Vidros espelhados, foscos, rugosos ou martelados
+Artigo 33.º
+
+Vidros espelhados, foscos, rugosos ou martelados
 
 É proibida a aplicação nos vãos de vidros espelhados, foscos, rugosos ou martelados, bem como de todos aqueles que, pela sua cor ou configuração, possam manifestamente prejudicar a harmonia do imóvel ou zona envolvente.
 
-###### Artigo 34.º — Anúncios e toldos
+Artigo 34.º
+
+Anúncios e toldos
 
 As regras para aplicação de anúncios e toldos de qualquer tipo, a sua configuração e respectivas dimensões, material e cor, bem como a sua colocação e forma de fixação, serão as estabelecidas no plano de salvaguarda e valorização.
 
-###### Artigo 35.º — Dispositivos de ar condicionado
+Artigo 35.º
+
+Dispositivos de ar condicionado
 
 Os dispositivos de ar condicionado deverão obrigatoriamente ser resolvidos em soluções dissimuladas e sempre que colocados nas fachadas por meio de grelhas em madeira pintada ou quaisquer outras que acautelem a estética e a unidade arquitectónica dos imóveis.
 
-###### Artigo 36.º — Antenas parabólicas e outras coisas acessórias
+Artigo 36.º
+
+Antenas parabólicas e outras coisas acessórias
 
 1 - É proibida a colocação de antenas parabólicas nos telhados e fachadas dos imóveis.
 
@@ -912,9 +1009,13 @@ Os dispositivos de ar condicionado deverão obrigatoriamente ser resolvidos em s
 
 3 - O plano de salvaguarda e valorização poderá prever, para autorização, a colocação de antenas parabólicas e outras coisas acessórias em locais não visíveis do espaço público.
 
-### CAPÍTULO V — Telhados
+CAPÍTULO V
 
-###### Artigo 37.º — Telhados
+Telhados
+
+Artigo 37.º
+
+Telhados
 
 1 - A configuração, a textura e a cor dos telhados deverão ser mantidas.
 
@@ -922,35 +1023,49 @@ Os dispositivos de ar condicionado deverão obrigatoriamente ser resolvidos em s
 
 3 - Em caso de construção de novos edifícios, os telhados devem respeitar a escala, forma, pendente e orientação da maioria dos telhados da zona e, especialmente, dos telhados dos edifícios vizinhos.
 
-###### Artigo 38.º — Revestimento
+Artigo 38.º
+
+Revestimento
 
 Os telhados serão revestidos com telha de argila com formato e cor idênticos aos da vulgarmente designada «telha regional».
 
-###### Artigo 39.º — Beirados
+Artigo 39.º
+
+Beirados
 
 1 - Os beirados serão sempre executados com simples ou dupla fiada de telha do tipo designado no artigo 38.º, assente com argamassa.
 
 2 - A pintura da face inferior dos beirados deverá ser sempre da cor de óxido de ferro, sendo as argamassas de assentamento pintadas de branco.
 
-###### Artigo 40.º — Chaminés
+Artigo 40.º
+
+Chaminés
 
 1 - As chaminés antigas existentes devem ser consolidadas e preservadas.
 
 2 - As chaminés a construir de novo devem obedecer no desenho e forma a requisitos técnicos a fixar no plano de salvaguarda e valorização.
 
-###### Artigo 41.º — Coberturas
+Artigo 41.º
+
+Coberturas
 
 É proibida a construção de coberturas em laje de nível em betão armado, desde que da sua aplicação advenha qualquer espécie de prejuízo do equilíbrio arquitectónico para o imóvel e para o conjunto de imóveis vizinhos.
 
-### CAPÍTULO VI — Gabinete da Zona Classificada de Angra do Heroísmo
+CAPÍTULO VI
 
-###### Artigo 42.º — Composição
+Gabinete da Zona Classificada de Angra do Heroísmo
+
+Artigo 42.º
+
+Composição
 
 1 - Na dependência do Secretário Regional da Educação e Cultura funcionará um gabinete designado Gabinete da Zona Classificada de Angra do Heroísmo (GZCAH), composto por um representante da Secretaria Regional da Educação e Cultura, um da Secretaria Regional do Equipamento Social e Ambiente e outro da Câmara Municipal de Angra do Heroísmo.
 
 2 - O GZCAH será assessorado por um corpo técnico a funcionar na Secretaria Regional da Educação e Cultura, que incluirá pelo menos um jurista, um licenciado em História e um arquitecto.
 
-###### Artigo 43.º — Competências do corpo técnico
+Artigo 43.º
+
+Competências do corpo técnico
 
 Compete ao corpo técnico do GZCAH:
 
@@ -960,7 +1075,9 @@ b) Elaborar pareceres sobre todo e qualquer projecto de obras a efectuar na refe
 
 c) Acompanhar e fiscalizar a execução das obras.
 
-###### Artigo 44.º — Procedimento e prazos de apreciação
+Artigo 44.º
+
+Procedimento e prazos de apreciação
 
 1 - O GZCAH, no prazo de 60 dias contados da recepção do respectivo requerimento, apresentará ao membro do Governo responsável pela cultura o seu parecer, acompanhado dos estudos e pareceres técnicos necessários.
 
@@ -972,9 +1089,13 @@ c) Acompanhar e fiscalizar a execução das obras.
 
 5 - Consideram-se deferidos os projectos que, decorridos os prazos fixados nos números anteriores, não tenham sido objecto de despacho.
 
-### CAPÍTULO VII — Sanções
+CAPÍTULO VII
 
-###### Artigo 45.º — Coimas
+Sanções
+
+Artigo 45.º
+
+Coimas
 
 1 - A realização de quaisquer obras por parte de pessoas, singulares ou colectivas, que não tenham sido precedidas de despacho favorável do membro do Governo responsável pela cultura será punida com coima de 100000$00 a 10000000$00, no caso de pessoa singular, ou de 500000$00 até 50000000$00, no caso de pessoa colectiva.
 
@@ -982,17 +1103,23 @@ c) Acompanhar e fiscalizar a execução das obras.
 
 3 - A tentativa e a negligência são sempre puníveis.
 
-###### Artigo 46.º — Sanção acessória
+Artigo 46.º
+
+Sanção acessória
 
 1 - Independentemente da aplicação das coimas referidas no artigo anterior, o membro do Governo responsável pela cultura estabelecerá ainda um prazo para a execução das necessárias obras de correcção, de acordo com o estabelecido neste diploma.
 
 2 - À não execução culposa das obras no prazo previsto no número anterior aplicar-se-á a sanção prevista no n.º 2 do artigo 45.º
 
-###### Artigo 47.º — Competência
+Artigo 47.º
+
+Competência
 
 A competência para determinar a instauração dos processos de contra-ordenação, para designar o seu instrutor e para aplicar as coimas previstas no artigo anterior pertence ao membro do Governo responsável pela cultura.
 
-###### Artigo 48.º — Embargo de obras
+Artigo 48.º
+
+Embargo de obras
 
 1 - As obras efectuadas contra o disposto no' presente diploma são embargáveis pela Administração, nos termos da lei.
 
@@ -1002,9 +1129,13 @@ A competência para determinar a instauração dos processos de contra-ordenaç�
 
 4 - As quantias relativas às despesas a que se referem os n.os 2 e 3, quando não pagas voluntariamente no prazo de 20 dias a contar da notificação para o efeito, são cobradas nos termos legalmente estabelecidos para a cobrança coerciva de dívidas à Região.
 
-### CAPÍTULO VIII — Disposições finais e transitórias
+CAPÍTULO VIII
 
-###### Artigo 49.º — Incentivos
+Disposições finais e transitórias
+
+Artigo 49.º
+
+Incentivos
 
 1 - O Governo Regional, em conjunto com a respectiva Câmara Municipal, tomará as medidas que possam constituir incentivos à recuperação, manutenção e valorização da zona classificada de Angra do Heroísmo.
 
@@ -1018,27 +1149,35 @@ c) Atribuição de comparticipações para fachadas, coberturas e correcção de
 
 d) Estudo, promoção e valorização da zona classificada.
 
-###### Artigo 50.º — Reserva Agrícola Regional
+Artigo 50.º
+
+Reserva Agrícola Regional
 
 Após a aprovação e publicação dos instrumentos de planeamento necessários à gestão da zona classificada de Angra do Heroísmo e da sua área de protecção deixam de se aplicar, no seu interior, as restrições previstas para salvaguarda da Reserva Agrícola Regional.
 
-###### Artigo 51.º — Reclassificação
+Artigo 51.º
+
+Reclassificação
 
 Os troços das vias classificadas como estrada regional e seus ramais situados no interior da zona classificada e respectiva área de protecção, com excepção daqueles que lhe servem de limite, são reclassificados como vias municipais.
 
-###### Artigo 52.º — Aprovação do plano de salvaguarda e valorização
+Artigo 52.º
+
+Aprovação do plano de salvaguarda e valorização
 
 1 - O plano de salvaguarda e valorização da zona classificada de Angra do Heroísmo e respectiva área de protecção será aprovado até 18 meses após a entrada em vigor do presente diploma.
 
 2 - Até à aprovação do plano referido no número anterior não podem ser autorizadas quaisquer das excepções previstas nos artigos 13.º, 15.º, 17.º e 19.º do presente diploma.
 
-###### Artigo 53.º — Entrada em vigor
+Artigo 53.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor 30 dias após a sua publicação.
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177a00/49524965.pdf)
+[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177a00/49524965.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177a00/49524965.pdf)
 
-## ANEXO II A QUE SE REFERE O N.º 1 DO ARTIGO 3.º
+ANEXO II A QUE SE REFERE O N.º 1 DO ARTIGO 3.º
 
 Limites da área de protecção:
 
@@ -1056,4 +1195,4 @@ A norte, por uma linha imaginária situada a norte da ER 1, de 1.ª classe, para
 
 Inflecte para sul, segundo o eixo desse mesmo arruamento, até ao Terreiro de São Mateus, envolvendo, por tardoz, o muro e o fontanário nele existente, o Império e terminando na linha de costa.
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177a00/49524965.pdf)
+[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1999/07/177a00/49524965.pdf)](https://files.diariodarepublica.pt/1s/1999/07/177a00/49524965.pdf)

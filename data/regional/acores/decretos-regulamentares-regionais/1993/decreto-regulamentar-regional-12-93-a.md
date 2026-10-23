@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/115b00/27092709.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/1993/05/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1993-281815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: deb4a30d041f676c9f4f91553c2aeb013ed96d20251b507e9e0b0016ef46ebc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b60a3bb212e2df8b23125350699bd29a226743fa595c357ffedfab6aae9317cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Delegação Escolar
 - Direcção Escolar
 - Nomeação
 - Orgânica
-- Açores
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:636073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:15Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +114,7 @@ Consequentemente, torna-se necessário rever os actuais critérios de nomeação
 
 Assim, em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. É alterado o n.º 1 do artigo 14.º do [Decreto Regulamentar Regional n.º 32/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1986-221992), de 12 de Setembro, que passa a ter a seguinte redacção:
+Artigo único. É alterado o n.º 1 do artigo 14.º do [Decreto Regulamentar Regional n.º 32/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1986-221992), de 12 de Setembro, que passa a ter a seguinte redacção:
 
 ###### Artigo 14.º
 
@@ -117,10 +130,10 @@ d) Funcionários integrados no quadro da Secretaria Regional da Educação e Cul
 
 Aprovado em Conselho do Governo Regional, em Velas de São Jorge, em 10 de Março de 1993.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 22 de Abril de 1993.**
+Assinado em Angra do Heroísmo em 22 de Abril de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

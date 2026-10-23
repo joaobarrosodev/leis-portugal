@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1983-455430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 939a40040042fbb8ba9a00710cadd343cd9d033e0b2b2a73ae3f5483b8f5e21e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dbadea302ad557d225ac36424a7e565755f119bf5321133a865da1ff225127d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diário da República
+- Diploma Legal
+- Formulário dos Diplomas
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:184002943:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600140:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:184002943:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 11/2022/M - Diário da República n.º 102/2022, Série I de 2022-05-26,
+    aplicando-se transitoriamente o nele disposto até à entrada em vigor do diploma referido no n.º 1 do artigo 7.º do Decreto
+    Legislativo Regional n.º 11/2022/M
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2022-184002943
+  date: '2022-05-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:47Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +135,7 @@ Nestes termos:
 
 A Assembleia Regional da Madeira, ao abrigo da alínea a) do artigo 229.º da Constituição da República e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta para valer como lei o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Disposições gerais sobre o formulário dos diplomas)
 
@@ -116,7 +143,7 @@ A Assembleia Regional da Madeira, ao abrigo da alínea a) do artigo 229.º da Co
 
 2 - Quando no processo de elaboração tiver participado, a título consultivo ou deliberativo, por força da Constituição ou da lei, outro ou outros órgãos da República ou das regiões autónomas, além do órgão da aprovação final, far-se-á referência a esse facto.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Formulário dos diplomas)
 
@@ -138,7 +165,7 @@ Manda o Governo Regional da Madeira, pelo ... (indicar o membro do Governo), faz
 
 (Indicação do departamento governamental.)
 
-**Assinada em ...**
+Assinada em ...
 
 (Assinatura do membro ou membros do Governo Regional.)
 
@@ -150,7 +177,7 @@ O Governo Regional, pelo ... (indicar o membro do Governo), determina (ou esclar
 
 (Indicação do departamento governamental.)
 
-**Assinado em ...**
+Assinado em ...
 
 (Assinatura do membro ou membros do Governo Regional.)
 
@@ -162,7 +189,7 @@ O Conselho do Governo, reunido em Plenário em ... (data), resolveu:
 
 Presidência do Governo Regional.
 
-**O Presidente do Governo Regional, (Assinatura.)**
+O Presidente do Governo Regional, (Assinatura.)
 
 5) O Governo Regional pode ainda emitir alvarás, os quais conterão:
 
@@ -170,17 +197,17 @@ Faço saber, como ... (indicar a categoria do membro do Governo), o seguinte:
 
 (Segue-se o texto.)
 
-**Assinado em ...**
+Assinado em ...
 
 (Assinatura do membro do Governo Regional.)
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Início da vigência)
 
 Sem prejuízo do disposto no artigo 2.º do [Decreto-Lei n.º 3/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1983-540470), de 11 de Janeiro, quanto aos diplomas emanados do Governo Regional a publicar no Diário da República, os demais diplomas e actos a publicar exclusivamente no Jornal Oficial da Região Autónoma da Madeira entrarão em vigor na data da sua publicação.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Publicação no «Jornal Oficial da Região Autónoma da Madeira»)
 
@@ -188,13 +215,13 @@ Sem prejuízo do disposto no artigo 2.º do [Decreto-Lei n.º 3/83](https://diar
 
 2 - Os alvarás do Governo Regional, a que se faz alusão no n.º 5) do artigo 2.º do presente diploma, serão publicados na 2.ª série quando a sua publicidade seja reclamada pelo interesse público.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Identificação e rectificação dos diplomas)
 
 O regime de identificação e rectificação dos diplomas é o que se acha estabelecido nos artigos 6.º e 7.º da [Portaria n.º 208/82](https://diariodarepublica.pt/dr/detalhe/portaria/208-1982-600140), publicada no Jornal Oficial da Região Autónoma da Madeira, 1.ª série, n.º 36, em 31 de Dezembro de 1982.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Entrada em vigor)
 
@@ -202,8 +229,8 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária em 7 de Junho de 1983.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 22 de Junho de 1983.**
+Assinado em 22 de Junho de 1983.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

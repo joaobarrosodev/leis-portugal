@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1980-470861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b83b91624099a5e9304d98af4499fe745f125298961810018fefc177c108462c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d80524311314bcd91aa04a46cb645be15991305a291ebe4b8bf8738ad89234c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Regulamento de Transportes em Automóveis
+- Transporte Público
+relationships:
+- type: cites
+  target: pt:dre:447883:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:08Z'
   warnings: []
   errors: []
 ---
@@ -89,14 +96,14 @@ Ora, é cada vez mais frequente a utilização também na Região de autocarros 
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
 
-###### Artigo único. Na Região Autónoma dos Açores, e em prejuízo do disposto no [Decreto Regional n.º 4/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/4-1978-447883), de 27 de Fevereiro, os lugares cativos referidos no § 1.º do artigo 162.º do Regulamento de Transportes em Automóveis, na redacção introduzida pelo Decreto-Lei n.º 59/71, de 2 de Março, são de existência obrigatória em todos veículos automóveis com plataforma utilizados no transporte colectivo de passageiros, qualquer que seja o tipo de carreiras a que se encontrem adstritos.
+Artigo único. Na Região Autónoma dos Açores, e em prejuízo do disposto no [Decreto Regional n.º 4/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/4-1978-447883), de 27 de Fevereiro, os lugares cativos referidos no § 1.º do artigo 162.º do Regulamento de Transportes em Automóveis, na redacção introduzida pelo Decreto-Lei n.º 59/71, de 2 de Março, são de existência obrigatória em todos veículos automóveis com plataforma utilizados no transporte colectivo de passageiros, qualquer que seja o tipo de carreiras a que se encontrem adstritos.
 
 Aprovado pela Assembleia Regional dos Açores em 20 de Junho de 1980.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 21 de Julho de 1980.**
+Assinado em Angra do Heroísmo em 21 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

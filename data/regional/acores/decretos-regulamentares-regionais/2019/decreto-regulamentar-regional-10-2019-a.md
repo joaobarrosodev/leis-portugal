@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2019/11/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2019-125902660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b93d9fea528e186a737c4258064cf44c6d2c2daeb9562aec8e8cc7d8f8f3ed9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1b8ac786b8880bbd577ba0c84f5a73fee6369a2ebff7819bb096b1309962754
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Carácter Cultural
-- Financiamento
-- Comparticipação
-- Governo Regional
-- Contrato
-- Regulamentação de Atos Legislativos
-- Divulgação Cultural
-- Fiscalização
-- Incentivo Profissional
-- Associação Cultural
-- Página na Internet
-- Cultura
-- Bolsa de Estudos
 - Açores
+- Associação Cultural
+- Bolsa de Estudos
+- Comparticipação
+- Contrato
+- Cultura
+- Divulgação Cultural
+- Financiamento
+- Fiscalização
+- Governo Regional
+- Incentivo Profissional
+- Instituição de Carácter Cultural
+- Página na Internet
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:901147129:por
@@ -101,16 +101,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/1/2015/01/28/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/1/2015/01/28/a/dre
+- type: cites
+  target: pt:dre:25345668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66357209:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:901147129:por
+  label: Revogado, a partir de 25 de dezembro de 2024, o Decreto Regulamentar Regional n.º 1/2015/A, de 28 de janeiro, na
+    redação do presente diploma, pelo(a) Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série
+    I de 2024-12-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2024-901147129
+  date: '2024-12-24'
 article_structure:
-  article_count: 31
+  article_count: 30
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:27Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +194,9 @@ b) [...];
 
 c) [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Para efeitos do disposto no n.º 2 do artigo 13.º do RJAAC, as comissões de apreciação são compostas por três elementos externos à direção regional com competência em matéria de cultura e por um elemento desta, sem direito a voto e que desempenha as funções de relator.
 
@@ -201,11 +226,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 27 de setembro de 2019.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo, em 22 de outubro de 2019.**
+Assinado em Angra do Heroísmo, em 22 de outubro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -651,45 +676,45 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Projetos culturais com interesse relevante para a preservação, valorização, promoção e divulgação cultural da Região Autónoma dos Açores
 
-(a que se refere o artigo 8.º)
+(a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
 
 Formulário de candidatura
 
 Aquisição de instrumentos musicais e respetivo material consumível, aquisição de fardamento, aquisição e recuperação de trajes e de repertório por coletividades destinados à realização de projetos culturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
 
 Formulário de candidatura
 
 Edição de obras culturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
 
 Formulário de candidatura
 
 Bolsas para criação artística
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
 
 ## ANEXO II — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea a) do artigo 2.º do RJAAC
 
-(a que se refere o n.º 5 do artigo 11.º)
+(a que se refere o n.º 5 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
 
 ## ANEXO III — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea c) do artigo 2.º do RJAAC
 
-(a que se refere o n.º 6 do artigo 11.º)
+(a que se refere o n.º 6 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
 
 ## ANEXO IV — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea d) do artigo 2.º do RJAAC
 
-(a que se refere o n.º 7 do artigo 11.º)
+(a que se refere o n.º 7 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21500/0000500043.pdf)
 
 ## ANEXO V — Modelo de requerimento para concessão de Bolsa de Estudo e Formação
 
@@ -792,3 +817,5 @@ c) Indicação do nome do(s) agrupamento(s) que estreou(estrearam) as peças;
 d) Partitura e partes instrumentais das três peças (entregues na totalidade ou separadamente, com os restantes documentos referidos nas alíneas anteriores) em suporte digital (CD).
 
 Desenvolvimento de projeto de criação e composição para bandas filarmónicas e respetiva apresentação em concerto público, tendo em conta os efetivos instrumentais dos agrupamentos locais, resultando em obras inéditas e/ou arranjos instrumentais específicos para a renovação de repertório, destinado à apresentação pública. A duração mínima das obra(s) deverá ser de vinte minutos (peça única) ou quarenta minutos (conjunto de peças). O projeto conclui-se com a apresentação de partitura, partes instrumentais por naipes/solos e em suporte digital (CD), entregando um exemplar na direção regional com competência em matéria de cultura e uma gravação amadora integral das obras.
+
+112692144

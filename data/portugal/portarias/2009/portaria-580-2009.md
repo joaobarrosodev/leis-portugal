@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/580/2009/06/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/580-2009-494270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecd00c7b8d9eba4a223d601dfbc9474f70a70384c8a67b23a379ccbf2728e9da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62055d7d1cf70d6bd41af5c19151fbfe12dbb919115a63e9c2ac873f54389e7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACTO Constitutivo
 - Aljezur
+- Associação
 - Bombarral
-- Modernização Administrativa
 - Cantanhede
 - Cartório Notarial de Competência Especializada
-- Serviços de Registo e Notariado
+- Castelo Branco
 - Conservatória do Registo Comercial
 - Definição de Competências
 - Matosinhos
+- Modernização Administrativa
 - Moimenta da Beira
 - Murça
-- ACTO Constitutivo
-- Castelo Branco
+- Porto
 - Regime Especial de Constituição Imediata de Associações
-- Associação
 - Serpa
 - Sertã
-- Porto
+- Serviços de Registo e Notariado
 - Trofa
 - VILA FLOR
 - Viseu
@@ -91,16 +91,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/40/2007/08/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/40/2007/08/24/p/dre
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:05Z'
   warnings: []
   errors: []
 ---

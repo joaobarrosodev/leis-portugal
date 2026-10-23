@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/310/2008/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/310-2008-249541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76566dd9e56ded0e9bb01a579b2dd14c384bee5de5cb9b0b282752616aedb36d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f234be64ad42c125f8ca1081761a87420135a3fc47e8346cc5ea90718344825a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,28 @@ reuse:
 subjects:
 - Amortização
 - Aquisição de Imóveis
+- Crédito
 - Crédito à Habitação
 - Crédito Bonificado
+- Habitação
 - Jovem
 - JURO Bonificado
 - Juros
-- Crédito
-- Habitação
 - TAXA de JURO
 relationships:
 - type: amended_by
   target: pt:dre:632448:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Determinada a cessação dos benefícios fiscais provenientes do regime de crédito à habitação bonificado para os agregados\
+    \ cujo rendimento se enquadre nas classes III e IV da tabela I, assim como é determinado o decréscimo anual, que é antecipado\
+    \ em 50%, em termos a fixar até 15.01.2013, da comparticipação para as classes I e II da mesma tabela da Port 1177/2000\
+    \ de 15-dez, alterada e republicada pelo presente diploma, pela LEI.66-B/2012.31.12.2012.AR, DR.IS [252-Supl] de 31.12.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1-a/2000/01/22/p/dre
   label: null
@@ -121,16 +130,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/827-a/2007/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/827-a/2007/07/31/p/dre
+- type: cites
+  target: pt:dre:197488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667938:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:449913:por
+  label: "Rectificada pela DECL-RECT.34/2008.20.06.2008.PCM, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/34-2008-449913
+  date: '2008-06-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:31Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +217,7 @@ TABELA II
 
 Regime de bonificação e condições de acesso a que se referem os n.os 5 e 10
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf))](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
 
 2.º É alterado o n.º 8.º da [Portaria n.º 1177/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1177-2000-585054), de 15 de Dezembro, na redacção dada pelas Portarias n.os [1433-D/2006](https://diariodarepublica.pt/dr/detalhe/portaria/1433-d-2006-197488), de 29 de Dezembro, e [827-A/2007](https://diariodarepublica.pt/dr/detalhe/portaria/827-a-2007-569678), de 31 de Julho, que passa a ter a seguinte redacção:
 
@@ -239,7 +297,7 @@ d) Os mutuários que permaneçam no sistema de amortização por prestações co
 
 Em 17 de Abril de 2008.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.
 
 ## ANEXO — Republicação da [Portaria n.º 1177/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1177-2000-585054), de 15 de Dezembro
 
@@ -411,11 +469,11 @@ d) Para os mutuários que permaneçam no sistema de amortização por prestaçõ
 
 ## ANEXO — Declaração de composição de agregado familiar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf))](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
 
 Declaro que a composição do meu agregado familiar é a discriminada no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf))](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
 
 Caso inclua na presente declaração um descendente meu, com menos de 1 ano de idade, comprometo-me a fazer prova, perante a instituição de crédito mutuante, do seu número de identificação fiscal até dois meses antes do início de uma nova anuidade, sob pena de o mesmo não ser incluído no agregado familiar nessa anuidade.
 
@@ -427,19 +485,19 @@ TABELA I
 
 Valores máximos previstos no n.º 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf))](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
 
 TABELA II
 
 Regime de bonificação e condições de acesso a que se referem os n.os 5.º e 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf))](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
 
 TABELA III
 
 Rendimentos anuais brutos corrigidos dos agregados familiares consoante a sua dimensão, a que se referem os n.os 6.º e 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf))](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/08000/0238302388.pdf)
 
 TABELA IV
 

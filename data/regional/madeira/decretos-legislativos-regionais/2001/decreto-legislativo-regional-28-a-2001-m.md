@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 263/2001, 2º Suplemento, Série I-A de 2001-11-13
   number: '263'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7214-(6) a 7214-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28-a/2001/11/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-a-2001-466431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56b7b37219da524033ca6798c32290dd15f4758a64e5c3c544e5f9346684f20a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6824ae2a415750e6eab0468b85039fc8bd303d62fb6212198280ecdd2db0a62e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,87 @@ reuse:
 subjects:
 - Aquisição de Bens e Serviços
 - Associação de Municípios
-- Financiamento
-- Governo Regional
+- Autarquia Local
+- Contabilidade Pública
 - Crédito Bonificado
 - Despesas Públicas
 - Dívida Pública
+- Empresa Municipal
 - FEDER
+- Financiamento
+- Governo Regional
+- Instituto de Gestão de Fundos Comunitários
 - Linha de Crédito
+- Madeira.região Autónoma
 - Orçamento Regional
 - QCA III
-- Madeira.região Autónoma
-- Instituto de Gestão de Fundos Comunitários
 - Secretário Regional do Plano e Finanças
-- Contabilidade Pública
-- Empresa Municipal
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:72991305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:376218:por
+  label: "Mantido em vigor o disposto no art. 5º do DLR 4-A/2001/M, de 03-Abr, na redacção do art. 3º do presente diploma,\
+    \ pelo DLR.21-A/2005/M.23.12.2005.AL-RAM, DR.IS-A [250-2ºSupl] de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-a-2005-376218
+  date: '2005-12-23'
+- type: amended_by
+  target: pt:dre:262120:por
+  label: "Mantido em vigor o disposto no art. 5º do DLR 4-A/2001/M de 03-Abr, com a redacção conferida no presente diploma,\
+    \ pelo DLR.3/2007/M.20.12.2006.AL-RAM, DR.IS [6] de 09.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2007-262120
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:398790:por
+  label: "Mantido em vigor o disposto no art. 5º do DLR 4-A/2001/M, de 03-Abr, na redacção dada pelo art. 3º do presente diploma,\
+    \ pelo DLR.2-A/2008/M.16.01.2008.AL-RAM, DR.IS [11-Supl] de 16.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-a-2008-398790
+  date: '2008-01-16'
+- type: amended_by
+  target: pt:dre:444240:por
+  label: "Mantido em vigor o disposto no artigo 5.º do Decreto Legislativo Regional n.º 4-A/2001/M, de 3 de Abril, com as\
+    \ alterações introduzidas pelo artigo 3.º do presente diploma, pelo DLR.45/2008/M.31.12.2008.AL-RAM, DR.IS [252] de 31.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/45-2008-444240
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:482388:por
+  label: "Mantido em vigor o disposto no art. 5º do DLR 4-A/2001/M de 03-Abr, com as alterações introduzidas pelo presente\
+    \ diploma, pelo DLR.34/2009/M.31.12.2009.AL-RAM, DR.IS [252] de 31.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/34-2009-482388
+  date: '2009-12-31'
+- type: amended_by
+  target: pt:dre:485631:por
+  label: "Mantido em vigor o disposto no art. 5º do DLR 4-A/2001/M, de 03-Abr, na redacção dada pelo art. 3º do presente diploma,\
+    \ pelo DLR.2/2011/M.10.01.2011.AL-RAM, DR.IS [6] de 10.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2011-485631
+  date: '2011-01-10'
+- type: amended_by
+  target: pt:dre:553889:por
+  label: "Mantido em vigor o disposto no art. 5º do DLR 4-A/2001/M, de 03-abr, na redação do presente diploma, pelo DLR.5/2012/M.30.03.2012.AL-RAM,\
+    \ DR.IS [65] de 30.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2012-553889
+  date: '2012-03-30'
+- type: amended_by
+  target: pt:dre:189511:por
+  label: "Mantido em vigor o disposto no art. 5º do DLR 4-A/2001/M, de 03-abr, na redacção do art. 3º do presente diploma,\
+    \ pelo DLR.42/2012/M.31.12.2012.AL-RAM, DR.IS [252] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:66012654:por
+  label: Mantido em vigor o disposto no art. 5º do DLR 4-A/2001/M de 03-abr, alterado pelo presente diploma, pelo(a) Decreto
+    Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2014-66012654
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Mantido em vigor o disposto no art. 5º do DLR 4-A/2001/M de 03-abr (na redação dada pelo art 3.º do presente diploma),
+    pelo(a) Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/4-a/2001/04/03/m/dre
   label: null
@@ -116,16 +177,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:59Z'
   warnings: []
   errors: []
 ---
@@ -212,13 +301,13 @@ Este diploma produz efeitos desde 8 de Novembro de 2001.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 8 de Novembro de 2001.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, Miguel José Luís de Sousa.**
+O Presidente da Assembleia Legislativa Regional, em exercício, Miguel José Luís de Sousa.
 
-**Assinado em 13 de Novembro de 2001.**
+Assinado em 13 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA I
 
@@ -226,7 +315,7 @@ Receitas da Região
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 4-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2001-592760), de 3 de Abril)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA II
 
@@ -234,7 +323,7 @@ Despesas por departamentos regionais e capítulos
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 4-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2001-592760), de 3 de Abril)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA III
 
@@ -242,7 +331,7 @@ Despesas por classificação funcional
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 4-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2001-592760), de 3 de Abril)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA IV
 
@@ -250,7 +339,7 @@ Despesas por grandes agrupamentos económicos
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 4-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2001-592760), de 3 de Abril)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA V
 
@@ -258,7 +347,7 @@ Receita global dos serviços, institutos e fundos autónomos
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 4-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2001-592760), de 3 de Abril)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA VI
 
@@ -266,7 +355,7 @@ Despesa global dos serviços, institutos e fundos autónomos
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 4-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2001-592760), de 3 de Abril)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA VII
 
@@ -274,7 +363,7 @@ Despesas dos serviços, institutos e fundos autónomos por classificação funci
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 4-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2001-592760), de 3 de Abril)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA VIII
 
@@ -282,7 +371,7 @@ Despesas dos serviços, institutos e fundos autónomos por grandes agrupamentos 
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 4-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2001-592760), de 3 de Abril)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA IX
 
@@ -292,46 +381,46 @@ MAPA IX - 3
 
 Vice-Presidência do Governo
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA IX - 4
 
 Secretaria Regional dos Recursos Humanos
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA IX - 5
 
 Secretaria Regional do Turismo e Cultura
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA IX - 6
 
 Secretaria Regional do Equipamento Social e Transportes
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA IX - 7
 
 Secretaria Regional dos Assuntos Sociais
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA IX - 8
 
 Secretaria Regional da Educação
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA IX - 9
 
 Secretaria Regional do Plano e Finanças
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
 
 MAPA IX - 10
 
 Secretaria Regional do Ambiente e dos Recursos Naturais
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)
+[[[[[[[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)](https://files.diariodarepublica.pt/1s/2001/11/263a02/00060031.pdf)

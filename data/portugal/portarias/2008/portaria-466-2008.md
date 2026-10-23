@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11800/0361703617.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/466/2008/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/466-2008-449908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a882cde3b6309a4e590d19dafba68c7a71728b2056a79c9a2504336c345f6a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4057f3055fb9d80b9dedf9e3654db2518c7da416dcc53a828fa14c02c942d92a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:334592:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334592:por
+  label: "Extinta a transferência de gestão da zona de caça e revogada a presente portaria, a partir de 13.07.2010, pela PORT.473/2010.08.07.2010.MADRP,\
+    \ DR.IS [131] de 08.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/473-2010-334592
+  date: '2010-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -87,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/799/2001/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/799/2001/07/25/p/dre
+- type: cites
+  target: pt:dre:371847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:29Z'
   warnings: []
   errors: []
 ---
@@ -139,4 +157,4 @@ d) 20 % aos demais caçadores, conforme é referido na alínea d) do citado arti
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 3 de Junho de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11800/0361703617.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11800/0361703617.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11800/0361703617.pdf)

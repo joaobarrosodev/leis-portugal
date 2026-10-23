@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/346/2009/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-2009-603249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f8b87a3b8a2863716769e46b989ce642fe596c8e87295f487eb9c9c8f8db23b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fde5fe01cf4757c6557799e37c23e92bd73bae27862574003569879553fbebd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
+- Agricultura
 - Ajuda Comunitária
-- Financiamento
-- Desenvolvimento Rural
-- Controlo de Qualidade
-- Indústria Agro-alimentar
-- IFAP
 - Certificado de Qualidade
+- Controlo de Qualidade
+- Desenvolvimento Rural
 - Exploração Agrícola
+- Financiamento
+- IFAP
+- Indústria Agro-alimentar
+- Proder
 - Regulamento CE
 - Regulamento de Aplicação da Acção Nº 1.4.2- Informação e Promoção de Produtos de Qualidade
-- Agricultura
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:670056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 7º, 11º, 12º, 13º, 14º, 15º, 18º, 19º e 21º e o anexo II e revogados as als. b) e c) do art.\
+    \ 6º do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 7.º, 19.º e 21.º ( os três na redacção da Port. 814/2010, de 27-Ago ) e 22.º e o anexo ii ( na\
+    \ redacção da Port. 814/2010, de 27-Ago ) do Regulamento de Aplicação da Acção n.º 1.4.2, «Informação e Promoção de Produtos\
+    \ de Qualidade», aprovado pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -112,13 +125,13 @@ relationships:
 article_structure:
   article_count: 25
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:37Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +172,7 @@ c) Anexo iii, relativo ao cálculo da valia do plano de acção.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Março de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Março de 2009.
 
 ## ANEXO
 
@@ -443,7 +456,7 @@ c) Regime normal - o IVA não é elegível.
 
 (a que se refere o n.º 2 do artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06600/0212102125.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06600/0212102125.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06600/0212102125.pdf)
 
 ## ANEXO III — Cálculo da Valia do Plano de Acção (VPA)
 

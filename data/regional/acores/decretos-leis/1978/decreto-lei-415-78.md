@@ -4,8 +4,8 @@ id: pt:dre:325168:por
 title: Decreto-Lei n.º 415/78
 short_title: null
 summary: Reestrutura os serviços de apoio ao Gabinete do Ministro da República para os Açores e à sua residência oficial
-jurisdiction: regional
-territory: acores
+jurisdiction: portugal
+territory: null
 document_type: decreto-lei
 document_type_label: Decreto-Lei
 issuing_authority:
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29100/26982699.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1978-325168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36615552674c965625904e7f3b573bf593fadbf214c60a7a885aa403fe251d69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6a8ffe2794725663a08fb255870475a7efbcae390f07b6a0a4b229c595793f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Gabinete Governamental
+- Governo Regional
+- Ministro da República
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382643:por
+  label: Alterado o n.º 1 do art. 4.º pelo(a) Decreto-Lei n.º 100/79 - Diário da República n.º 94/1979, Série I de 1979-04-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1979-382643
+  date: '1979-04-23'
+- type: amended_by
+  target: pt:dre:470592:por
+  label: "Substituido o quadro anexo pelo DEC LEI.305/80.1980.08.18.PCM, DR.IS [189]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1980-470592
+  date: '1980-08-18'
+- type: cites
+  target: pt:dre:161144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407302:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:23Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +128,9 @@ Considerando a necessidade de dotar o Gabinete do Ministro da República com mei
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado um quadro único de pessoal que apoiará os serviços do Gabinete do Ministro da República para os Açores e executará o serviço auxiliar de manutenção da sua residência oficial, cuja composição consta do quadro anexo.
+Artigo 1.º É criado um quadro único de pessoal que apoiará os serviços do Gabinete do Ministro da República para os Açores e executará o serviço auxiliar de manutenção da sua residência oficial, cuja composição consta do quadro anexo.
 
-###### Art. 2.º - 1 - O pessoal necessário ao preenchimento do quadro a que se refere o número anterior será recrutado por nomeação ou contrato de pessoal de qualquer serviço, mediante despacho do Ministro da República, depois de obtida a concordância do membro do Governo que superintende nesse serviço, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República.
+Art. 2.º - 1 - O pessoal necessário ao preenchimento do quadro a que se refere o número anterior será recrutado por nomeação ou contrato de pessoal de qualquer serviço, mediante despacho do Ministro da República, depois de obtida a concordância do membro do Governo que superintende nesse serviço, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e publicação no Diário da República.
 
 2 - As funções correspondentes aos lugares do referido quadro poderão também ser desempenhadas por pessoal requisitado a qualquer serviço pelo Ministro da República.
 
@@ -106,15 +138,15 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Os vencimentos do pessoal a que se referem os n.os 1 e 2, a partir do momento em que se apresente ou seja admitido ao serviço, serão pagos pelo orçamento do Gabinete do Ministro da República.
 
-###### Art. 3.º - 1 - Sempre que se verifique acumulação de serviço e sem prejuízo do disposto no artigo anterior, o Ministro da República pode contratar além do quadro ou admitir a título eventual pessoal com as qualificações necessárias às funções a desempenhar, desde que não seja excedido o número de lugares do quadro anexo.
+Art. 3.º - 1 - Sempre que se verifique acumulação de serviço e sem prejuízo do disposto no artigo anterior, o Ministro da República pode contratar além do quadro ou admitir a título eventual pessoal com as qualificações necessárias às funções a desempenhar, desde que não seja excedido o número de lugares do quadro anexo.
 
 2 - A admissão desse pessoal será feita por despacho que fixará a respectiva remuneração, devendo esta ser igual à estabelecida para os funcionários do quadro de idêntica categoria.
 
-###### Art. 4.º - 1 - O pessoal actualmente provido nos lugares dos quadros a que se referem os artigos 1.º e 2.º do [Decreto-Lei n.º 811/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/811-1976-407302), de 9 de Novembro, transita para o novo quadro a partir da entrada em vigor do presente decreto-lei.
+Art. 4.º - 1 - O pessoal actualmente provido nos lugares dos quadros a que se referem os artigos 1.º e 2.º do [Decreto-Lei n.º 811/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/811-1976-407302), de 9 de Novembro, transita para o novo quadro a partir da entrada em vigor do presente decreto-lei.
 
 2 - Os lugares ainda não providos sê-lo-ão à medida que o Ministro da República o julgar necessário.
 
-###### Art. 5.º - 1 - Os elementos do Gabinete do Ministro da República para os Açores, quando exonerados das suas funções por força da exoneração deste, desde que não tenham qualquer emprego público ou privado, ou dele tenham tido necessidade de se desvincular a título definitivo ao assumir funções no gabinete ministerial, poderão ingressar no quadro geral de adidos nas condições fixadas no número seguinte.
+Art. 5.º - 1 - Os elementos do Gabinete do Ministro da República para os Açores, quando exonerados das suas funções por força da exoneração deste, desde que não tenham qualquer emprego público ou privado, ou dele tenham tido necessidade de se desvincular a título definitivo ao assumir funções no gabinete ministerial, poderão ingressar no quadro geral de adidos nas condições fixadas no número seguinte.
 
 2 - O ingresso referido no número anterior depende:
 
@@ -132,16 +164,16 @@ c) As funções anteriormente exercidas.
 
 4 - A integração no quadro geral de adidos far-se-á por despacho ministerial, que poderá tomar a forma de lista nominativa, o qual será publicado no Diário da República independentemente de quaisquer outras formalidades, salvo o visto do Tribunal de Contas.
 
-###### Art. 6.º São revogados os Decretos-Leis n.os [811/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/811-1976-407302), de 9 de Novembro, e [258/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1977-250016), de 20 de Junho.
+Art. 6.º São revogados os Decretos-Leis n.os [811/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/811-1976-407302), de 9 de Novembro, e [258/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1977-250016), de 20 de Junho.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - Henrique Afonso da Silva Horta - José da Silva Lopes.
 
-**Promulgado em 29 de Novembro de 1978.**
+Promulgado em 29 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29100/26982699.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29100/26982699.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29100/26982699.pdf)
 
-**O Primeiro-Ministro, Alfredo Jorge Nobre da Costa. - O Ministro da República para os Açores, Henrique Afonso da Silva Horta. - O Ministro das Finanças e do Plano, José da Silva Lopes.**
+O Primeiro-Ministro, Alfredo Jorge Nobre da Costa. - O Ministro da República para os Açores, Henrique Afonso da Silva Horta. - O Ministro das Finanças e do Plano, José da Silva Lopes.

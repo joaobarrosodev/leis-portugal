@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1979-366409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3461fd5662926eaa0e7333cdf1d9e8ab8a6c74bf00beb17d3f47743dcbc8545f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3caa4b8bc99daacf24bac97583d685b5cc0aa4e596cbbe558d066156c547f75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Ajudas de Custo
+- Deslocação em Serviço
+relationships:
+- type: cites
+  target: pt:dre:262807:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:58Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +105,16 @@ Nestes termos, com vista ao bom funcionamento da Administração da Região [al�
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º As tabelas de ajudas de custo fixadas nos termos do artigo 1.º do [Decreto-Lei n.º 48729](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48729-1968-262807), de 4 de Dezembro de 1968, poderão ser alteradas para os funcionários e agentes da Administração Regional Autónoma e da Administração Autárquica, nos Açores, no que respeita às deslocações dentro da Região, por portaria conjunta dos Secretários Regionais das Finanças e da Administração Pública, mediante prévia deliberação do Governo Regional.
+Artigo 1.º As tabelas de ajudas de custo fixadas nos termos do artigo 1.º do [Decreto-Lei n.º 48729](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48729-1968-262807), de 4 de Dezembro de 1968, poderão ser alteradas para os funcionários e agentes da Administração Regional Autónoma e da Administração Autárquica, nos Açores, no que respeita às deslocações dentro da Região, por portaria conjunta dos Secretários Regionais das Finanças e da Administração Pública, mediante prévia deliberação do Governo Regional.
 
-###### Art. 2.º O presente diploma entra em vigor na data da sua publicação.
+Art. 2.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pelo Governo Regional em 10 de Outubro de 1979.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 22 de Novembro de 1979.**
+Assinado em Angra do Heroísmo em 22 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

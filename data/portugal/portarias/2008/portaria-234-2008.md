@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/234/2008/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-2008-247033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd72b6abb5cdbc0632dea9fa3834cbf6eb7fa70f091d08a30fb19d555af248ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c432e52ec18745f1f1dc61ccbb1423c7d8a3af8fdbad7aa8a88ad86b0c02d35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,38 @@ reuse:
 subjects:
 - Ficheiro Informático
 - Instituto dos Registos e do Notariado
-- Regulamento
-- Registo Comercial
 - Matrícula
+- Registo Comercial
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:116130016:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396947:por
+  label: "Alterados os arts. 8.º e 10.º do Regulamento do Registo Comercial aprovado pela Port 657-A/2006, de 29-Jun, na redacção\
+    \ do presente diploma, pela PORT.4/2009.02.01.2009.MJ, DR.IS [1] de 02.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/4-2009-396947
+  date: '2009-01-02'
+- type: amended_by
+  target: pt:dre:491444:por
+  label: "Alterados, a partir de 29.10.2009, os arts. 8º e 10º do Regulamento do Registo Comercial, aprovado pela Port 657-A/2006,\
+    \ de 29-Jun, na redacção do presente diploma, pela PORT.1256/2009.14.10.2009.MJ, DR.IS [199] de 14.10.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1256-2009-491444
+  date: '2009-10-14'
+- type: amended_by
+  target: pt:dre:116130016:por
+  label: Alterado a partir de 01.10.2018 o art. 8.º do Regulamento do Registo Comercial, aprovado pela Port 657-A/2006, de
+    29-jun, na redação do presente diploma pelo(a) Portaria n.º 233/2018 - Diário da República n.º 160/2018, Série I de 2018-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/233-2018-116130016
+  date: '2018-08-21'
+- type: amended_by
+  target: pt:dre:121131617:por
+  label: Alterados a partir de 01.07.2019 os arts. 8.º e 10.º do Regulamento do Registo Comercial, aprovado pela Port 657-A/2006,
+    de 29-jun na redação do presente diploma, pelo(a) Portaria n.º 80/2019 - Diário da República n.º 54/2019, Série I de 2019-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-2019-121131617
+  date: '2019-03-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/76-a/2006/03/29/p/dre
   label: null
@@ -88,16 +112,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/657-a/2006/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/657-a/2006/06/29/p/dre
+- type: cites
+  target: pt:dre:235919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620286:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:02Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +180,9 @@ f) Outros elementos identificadores da entidade sujeita a registo cuja menção 
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O extracto da inscrição deve ainda conter as seguintes menções especiais:
 

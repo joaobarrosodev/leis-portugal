@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1979-377543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab3bc5ea85464ece0504dd13717af96e71fee918c1b7f26f3f7a65f6fcf3c5ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bf5d57b68cc3f132d74b40994ed8aa144259a967bc9d5c20166c5f54090fd64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- Criação de Serviços
+- Orgânica
+- Ponta Delgada
+- Secretaria Regional do Comércio e Indústria
+- Serviço Regional do Açúcar e do Álcool
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:58Z'
   warnings: []
   errors: []
 ---
@@ -171,10 +177,10 @@ Os laboratórios do SRA são, para todos os efeitos, considerados oficiais, tend
 
 Aprovado pela Assembleia Regional dos Açores em 7 de Junho de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 20 de Julho de 1979.**
+Assinado em Angra do Heroísmo em 20 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

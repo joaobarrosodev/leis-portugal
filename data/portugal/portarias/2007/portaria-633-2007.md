@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10400/35353536.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/633/2007/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-2007-638735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c37360d214d965092c1c5a9e3ff4134360a1f510ede0b95e061671df7f3ed3ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 200305dc4c5895d0ee81bcf9eb6d4f86882911188a16e4ea9e407eb0049b3ce4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638527:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1134835837:por
+  label: Revogada, a partir de 1 de julho de 2026, pelo(a) Portaria n.º 271/2026/1 - Diário da República n.º 118/2026, Série
+    I de 2026-06-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-2026-1134835837
+  date: '2026-06-22'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:54Z'
   warnings: []
   errors: []
 ---
@@ -204,4 +218,4 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 24 de Maio de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.

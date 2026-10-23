@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/2004/08/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2004-480292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7590e20add52b7f74851746a96c25085b93ef52046a42e4462f5669f3291a10d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43bc4cbeca7c59ebf367384dbad0c5713a2ee0fff118295fba5d76beb7a5beb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Criação de Serviços
 - Definição de Competências
 - Direcção Regional de Segurança Social
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Segurança Social
 - Transferência de Competências
@@ -80,6 +80,25 @@ relationships:
   target: pt:dre:191100:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:357767:por
+  label: "Aditado o artigo 4.º-A, pelo DLR.23/2006/M.14.06.2006.AL-RAM, DR.IS-A [122] de 27.06.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/23-2006-357767
+  date: '2006-06-14'
+- type: amended_by
+  target: pt:dre:629167:por
+  label: "Alterado o art. 6º da orgânica do Centro de Segurança Social da Madeira, constante do presente diploma, pelo DLR.16/2007/M.07.11.2007.AL-RAM,\
+    \ DR.IS [214] de 07.11.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2007-629167
+  date: '2007-11-07'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente operacional, nos termos do art. 7º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/28/1992/10/01/m/dre
   label: null
@@ -120,16 +139,111 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32/2002/12/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2002/12/20/p/dre
+- type: cites
+  target: pt:dre:167377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191100:por
+  label: "Revogado, nos termos do n.º 2 do art. 3.º, pelo DLR.34/2012/M.16.11.2012.AL-RAM, DR.IS [222] de 16.11.2012, sucedendo\
+    \ o ISSM, IP-RAM, em todas as atribuições, direitos, obrigações e posição jurídica contratual ou processual do Centro\
+    \ de Segurança Social da Madeira. \0. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/34-2012-191100
+  date: '2012-11-16'
 article_structure:
   article_count: 56
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 27
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:26Z'
   warnings: []
   errors: []
 ---
@@ -188,13 +302,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 14 de Julho de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa Regional, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 4 de Agosto de 2004.**
+Assinado em 4 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — REGIME E ORGÂNICA DO CENTRO DE SEGURANÇA SOCIAL DA MADEIRA
 
@@ -522,7 +636,9 @@ d) Participar na elaboração de pareceres necessários à pronúncia da Região
 
 3 - O gabinete jurídico é dirigido por um director de serviços, cujo cargo é de direcção intermédia de 1.º grau.
 
-#### SECÇÃO V — Secção de processo executivo
+#### SECÇÃO V
+
+#### Secção de processo executivo
 
 ###### Artigo 15.º — Competências
 

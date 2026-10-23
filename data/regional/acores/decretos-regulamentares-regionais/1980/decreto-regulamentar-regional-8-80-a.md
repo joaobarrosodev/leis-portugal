@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1980-678775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0322d5b2fa6ea0121e3a7d00646170f6b2cab6b6644be8de508924c19739305
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9456f05a681be621502ac1bec5b2b31019985e7ed566eb92133588cf0b33de0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agricultura
+- Instituto de Apoio Comercial à Agricultura Pecuária e Silvicultura
+- Orgânica
+- Quadro de Pessoal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:232974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570482:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pelo DRR.1/81/A.06.01.1981.GR-RAA, DR.IS [4] de 06.01.1981\0\
+    1\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-1981-570482
+  date: '1981-01-06'
+- type: amended_by
+  target: pt:dre:213596:por
+  label: "Alterado o art. 21º do capítulo IV , aditados os art.s 23º, 24º e 25º ao capítulo IV e renumerados os art.s 23º\
+    \ e 24º do capítulo V- que passam a 26º e 27º, respectivamente -, pelo DRR.9/89/A.27.03.1989.GR-RAA, DR.IS [71-Supl] de\
+    \ 27.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1989-213596
+  date: '1989-03-27'
+- type: amended_by
+  target: pt:dre:232974:por
+  label: "Alterados os art.s 4º e 8º e os cap. IV e V (ambos na redacção do DRR 9/89/A, de 27-Mar) e aditado um cap. VI -\
+    \ constituído pelos art.s 30º e 31º -, pelo DRR.44/96/A.08.10.1996.SRAPA-RAA, DR.IS-B [233] de 08.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/44-1996-232974
+  date: '1996-10-08'
+- type: cites
+  target: pt:dre:383039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:19Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +210,7 @@ f) Praticar todos os actos urgentes da competência da direcção, submetendo-os
 
 ###### Artigo 8.º — (Substituição do presidente)
 
-**O presidente da direcção será substituído, em caso de ausência ou impedimento, pelo vogal por ele designado ou, no caso de impossibilidade da designação, pelo mais velho.**
+O presidente da direcção será substituído, em caso de ausência ou impedimento, pelo vogal por ele designado ou, no caso de impossibilidade da designação, pelo mais velho.
 
 #### SECÇÃO II — Conselho coordenador
 
@@ -337,14 +370,14 @@ As dúvidas que se suscitarem na aplicação do presente diploma serão resolvid
 
 Aprovado pelo Governo Regional em 10 de Janeiro de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 4 de Fevereiro de 1980.**
+Assinado em Angra do Heroísmo em 4 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 Quadro do pessoal do Instituto de Apoio Comercial à Agricultura, Pecuária e Silvicultura (IACAPS)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/05400/02960299.pdf))](https://files.diariodarepublica.pt/1s/1980/03/05400/02960299.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/05400/02960299.pdf)

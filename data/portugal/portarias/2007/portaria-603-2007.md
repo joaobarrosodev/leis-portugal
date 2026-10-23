@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/603/2007/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/603-2007-520779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1c85a36eed7aba7d7e06a71f464e4d36263e864357f0e6580c1434df49ae710
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74de6df257f18cbb2071f49bbbf05876c84c2bd51f3dbb934e21a2ac6a3af4fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1094/2004/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1094/2004/09/01/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622602:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:41Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +126,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º A presente anexação só produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Abril de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Abril de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09700/33773377.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09700/33773377.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09700/33773377.pdf)

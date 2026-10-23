@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/27/2006/07/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f77b2adcc8a981701bf1e7ea61162e49b441d9e113c21bab49b66fc891167feb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e98071f0c8a2c46081115f7ac44ecbf4bcf6440ef441dbb0463231157e3671c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Administração Regional
 - Comissão de Serviço
-- Governo Regional
 - Definição de Competências
 - Diretor Regional
 - Estatuto
+- Governo Regional
 - Madeira.região Autónoma
+- Pessoal Dirigente
 - Remuneração
-- Administração Regional
 - Subdirector Regional
 relationships:
 - type: amended_by
   target: pt:dre:147533140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74878702:por
+  label: Alterados os arts. 3.º, 3.º-A, 4.º-A, 5.º, 9.º e 10.º, aditados os arts. 3.º-B, 5.º-A, 5.º-B, 10.º-A e 11.º-A, e
+    revogados os arts. 4.º e 7.º do DLR 5/2004/M de 22-abr, na versão republicada pelo presente Decreto, pelo(a) Decreto Legislativo
+    Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06 que procedeu à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2016-74878702
+  date: '2016-07-06'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:5/2004/M
+  label: "Dá nova redacção aos artigos 2.º, 3.º e 5.º, adita os artigos 3.º-A e 4.º-A e revoga o n.º 2 do artigo 4.º do Decreto\
+    \ Legislativo Regional n.º 5/2004/M, de 22 de Abril, DR.IS-A [95], que republica em anexo com as alterações introduzidas.\0\
+    \0"
+  source: null
+  date: '2004-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/204/1998/07/11/p/dre
   label: null
@@ -122,16 +136,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:223253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:41Z'
   warnings: []
   errors: []
 ---
@@ -166,13 +220,17 @@ Cargos dirigentes
 
 2 - A referência feita aos órgãos e serviços de apoio à Assembleia da República, constante da alínea a) do n.º 5 do artigo 1.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, considera-se feita aos órgãos e serviços de apoio à Assembleia Legislativa da Região Autónoma da Madeira.
 
-###### Artigo 3.º — Competências do pessoal dirigente
+Artigo 3.º
+
+Competências do pessoal dirigente
 
 1 - Os titulares dos cargos de direcção superior do 1.º grau possuem as competências previstas no artigo 7.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com excepção da constante da alínea f) do n.º 1 do artigo 7.º
 
 2 - Os titulares dos cargos de direcção intermédia possuem as competências previstas no artigo 8.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com excepção da competência relativa à autorização para o exercício de funções a tempo parcial, da competência para injustificar faltas, conceder licenças e autorizar o regresso à actividade, bem como a competência para autorizar o abono do vencimento de exercício perdido por motivo de doença, previstas no anexo II da mencionada lei.
 
-###### Artigo 5.º — Provimento
+Artigo 5.º
+
+Provimento
 
 1 - O provimento nos cargos de direcção superior da administração regional autónoma da Madeira é feito de acordo com o previsto na [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com as seguintes adaptações:
 
@@ -206,7 +264,9 @@ Requisitos e condições gerais de recrutamento dos cargos de direcção interm�
 
 6 - Na situação referida no número anterior, a comissão de serviço mantém-se até ao termo do respectivo procedimento de selecção.
 
-###### Artigo 4.º-A — Procedimento de selecção dos cargos de direcção intermédia
+Artigo 4.º-A
+
+Procedimento de selecção dos cargos de direcção intermédia
 
 1 - O procedimento de selecção dos cargos de direcção intermédia é publicitado em órgão de imprensa de expansão nacional e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, com a indicação, nomeadamente, dos requisitos formais de provimento, do perfil exigido, da composição do júri e dos métodos de selecção aplicáveis, entre os quais pode ser escolhida a entrevista pública.
 
@@ -258,11 +318,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de Junho de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 3 de Julho de 2006.**
+Assinado em 3 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -368,7 +428,7 @@ O acesso na carreira a que se refere o n.º 2 do artigo 29.º da [Lei n.º 2/200
 
 ###### Artigo 8.º — Substituição do secretário-geral da Presidência do Governo Regional
 
-**O secretário-geral da Presidência do Governo Regional será substituído, nas suas faltas ou impedimentos, nos termos estabelecidos pelo Presidente do Governo Regional.**
+O secretário-geral da Presidência do Governo Regional será substituído, nas suas faltas ou impedimentos, nos termos estabelecidos pelo Presidente do Governo Regional.
 
 ###### Artigo 9.º — Opção de remuneração
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/05700/0138901389.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/15/2018/03/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/15-2018-114896644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bd77013ba3cfeb587fbfc3c3bd2a425fb22012bd55bebe5f8e5bcd20eee5fa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89a8b5887db45891a30ff79a074d16f139362971fae2bb8d1cbba8c276e8e53a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Base das Lajes
-- ILHA Terceira
 - Comissão Especializada Permanente de Assuntos Parlamentares Ambiente e Trabalho
 - Governo Regional
-- Recomendação
+- ILHA Terceira
 - Poluição
+- Recomendação
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:36Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +119,7 @@ Um representante do Governo Regional;
 
 Um Representante do Laboratório Nacional de Engenharia Civil;
 
-**O Presidente da Câmara Municipal da Praia da Vitória;**
+O Presidente da Câmara Municipal da Praia da Vitória;
 
 Um professor da Universidade dos Açores, do campus da ilha Terceira, doutorado em Ciências do Ambiente, ramo Poluição, com reconhecido trabalho científico e cívico, a indicar pela Comissão;
 
@@ -129,4 +129,6 @@ Um técnico de ambiente, com reconhecido mérito e experiência específica na m
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 23 de fevereiro de 2018.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+111202301

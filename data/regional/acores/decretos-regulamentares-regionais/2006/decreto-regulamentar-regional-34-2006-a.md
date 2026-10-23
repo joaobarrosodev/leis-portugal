@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/34/2006/12/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2006-545610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19d60e593d1fd1418a420a6a1e87fb5bd4e4e23160afa59a42e1d7d2e6c4c61b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec015bbc32ac53d83b7cb244c7f078b6b360805aeb11ecb9e99e5d803ed7a72b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
+- ÁREA NON Aedificandi
 - ILHA Terceira
 - Ordenamento do Território
 - Plano Director Municipal
 - Política de Solos
-- Açores
-- ÁREA NON Aedificandi
 relationships:
 - type: amended_by
   target: pt:dre:191114:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:438436:por
+  label: "Suspenso parcialmente o PDM de Angra do Heroísmo ratificado e publicado pelo DRR 38/2004/A de 11-Nov, com as alterações\
+    \ constantes do presente diploma, pelo DRR.22/2008/A.22.10.2008.PG-RAA, DR.IS [205] de 22.10.2008, na área identificada\
+    \ em planta anexa a este último diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2008-438436
+  date: '2008-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
   label: null
@@ -101,16 +108,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:642002:por
+  label: "Revogada, na área assinalada na planta anexa, a suspensão parcial do PDM de Angra do Heroísmo, ratificado parcialmente\
+    \ pelo DRR 38/2004/A de 11-Nov, e decretada pelo presente diploma, (incorrectamente mencionado no texto como DRR 33/2006/A\
+    \ de 13-Dez), pelo DRR.19/2007/A.16.10.2007.GR-RAA, DR.IS [199] de 16.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2007-642002
+  date: '2007-10-16'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:17Z'
   warnings: []
   errors: []
 ---
@@ -143,10 +181,10 @@ Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 30 de Outubr
 
 Pelo Presidente do Governo Regional, o Vice-Presidente, Sérgio Humberto Rocha de Ávila.
 
-**Assinado em Angra do Heroísmo em 21 de Novembro de 2006.**
+Assinado em Angra do Heroísmo em 21 de Novembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/23800/83548355.pdf))](https://files.diariodarepublica.pt/1s/2006/12/23800/83548355.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/23800/83548355.pdf)

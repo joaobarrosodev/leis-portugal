@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/38/2003/11/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2003-468650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a7be9747d1deda5e5a07152980589f62dbea6b0b07fc01481be5831075c43d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfed22300795abb72aa70c58928599f3ddebcf0c55bc5c96bab7242a789ba687
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acidente de Trabalho
-- Higiene do Trabalho
-- Definição de Competências
-- Segurança no Trabalho
-- Observatório do Emprego e Formação Profissional
-- Estatística
-- Condições de Higiene e Segurança no Trabalho
-- Saúde no Trabalho
 - Açores
+- Condições de Higiene e Segurança no Trabalho
+- Definição de Competências
+- Estatística
+- Higiene do Trabalho
+- Observatório do Emprego e Formação Profissional
+- Saúde no Trabalho
+- Segurança no Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/362/1993/10/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/362/1993/10/15/p/dre
+- type: cites
+  target: pt:dre:668521:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:53Z'
   warnings: []
   errors: []
 ---
@@ -136,10 +140,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 16 de Setembro de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 17 de Outubro de 2003.**
+Assinado em Angra do Heroísmo em 17 de Outubro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

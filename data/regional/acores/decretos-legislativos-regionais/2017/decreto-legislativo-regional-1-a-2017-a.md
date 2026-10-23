@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 26/2017, 1º Suplemento, Série I de 2017-02-06
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 678-(2) a 678-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1-a/2017/02/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2017-106404757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82202d3e8724954efeab9813464fb8588e3f60454b15605312aea79fa80f24a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d1a72b11a28fbc109a32fdefd96f299e5bc58ea20a0fa9ab73cfcf13592b138
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Água
 - Águas Públicas
 - Definição de Competências
-- Proteção do Ambiente
-- Planeamento
-- Gestão do Ambiente
 - Domínio Público Hídrico
-- Açores
+- Gestão do Ambiente
+- Planeamento
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:122059241:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:121987032:por
+  label: Aprovada a primeira alteração ao Plano de Ordenamento da Bacia Hidrográfica da Lagoa das Sete Cidades (POBHLSC) pelo(a)
+    Decreto Regulamentar Regional n.º 4/2019/A - Diário da República n.º 67/2019, Série I de 2019-04-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2019-121987032
+  date: '2019-04-04'
+- type: amended_by
+  target: pt:dre:122059241:por
+  label: Aprovada a primeira alteração ao Plano de Ordenamento da Bacia Hidrográfica da Lagoa das Furnas (POBHLF) e republicado
+    o respetivo regulamento pelo(a) Decreto Regulamentar Regional n.º 5/2019/A - Diário da República n.º 71/2019, Série I
+    de 2019-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2019-122059241
+  date: '2019-04-10'
 - type: cites
   target: celex:32000L0060
   label: null
@@ -126,6 +139,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75701996:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0060
   label: null
@@ -133,13 +190,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:16Z'
   warnings: []
   errors: []
 ---
@@ -384,11 +441,11 @@ O PGRH-Açores 2016-2021 entra em vigor no dia seguinte ao da sua publicação e
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de janeiro de 2017.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo, em 3 de fevereiro de 2017.**
+Assinado em Angra do Heroísmo, em 3 de fevereiro de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -400,7 +457,7 @@ O Plano de Gestão da Região Hidrográfica dos Açores 2016-2021 (PGRH-Açores 
 
 O PGRH-Açores 2016-2021 assenta na relação entre a identificação de pressões, a avaliação do estado das massas de água e a elaboração de programas de medidas que permitam mitigar o impacte das pressões, apresentando como pilar dessa relação o cumprimento dos objetivos ambientais consignados na [Diretiva n.º 2000/60/CE](http://data.europa.eu/eli/dir/2000/60/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de outubro (Diretiva Quadro da Água), a nível comunitário, e pela Lei da Água no contexto do direito interno português (Figura 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 Figura 1 - Pontos focais do PGRHA
 
@@ -422,7 +479,7 @@ vi) Da informação - os instrumentos de planeamento de águas constituem um mei
 
 A Região Hidrográfica dos Açores abrange todo o Arquipélago dos Açores, localizado no Oceano Atlântico Norte, ocupando uma zona intermédia, com características climáticas subtropicais. A superfície terrestre do Arquipélago dos Açores totaliza 2 322 km2, representando 2,6 % do espaço nacional (88 967 km2). Contudo, as nove ilhas exibem uma acentuada desigualdade territorial, variando entre os 744,6 km2 (São Miguel) e os 17,1 km2 (Corvo). Cinco têm dimensões intermédias, Pico (444,8 km2), Terceira (400,3 km2), São Jorge (243,7 km2), Faial (173,1 km2) e Flores (141,0 km2), enquanto que Santa Maria (96,9 km2) e Graciosa (60,7 km2) têm a menor representatividade. As três maiores ilhas (São Miguel, Pico e Terceira) correspondem a quase 70 % da superfície terrestre total do arquipélago (Figura 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 Figura 2 - Representação da Região Hidrográfica dos Açores (RH-9)
 
@@ -434,7 +491,7 @@ TABELA I
 
 Número de massas de água presentes na Região Hidrográfica dos Açores, por tipologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 No contexto da DQA importa igualmente caracterizar as zonas protegidas associadas a massas de água. Neste âmbito, e no que respeita à proteção de recursos e conservação da natureza, são identificadas (e caracterizadas com maior pormenor no Relatório Técnico PGRH-Açores 2016-2021) diversas zonas protegidas maioritariamente integradas nos Parques Naturais de ilha: 22 Zonas de Especial Conservação (ZEC); 15 Zonas de Proteção Especial (ZPE); 48 Áreas Protegidas de Gestão de Habitats ou Espécies (APGHE); 30 Áreas Protegidas de Gestão de Recursos (APGR); 7 Zonas Vulneráveis (ZV); 192 Zonas de proteção de água para consumo humano (CCH); 34 Reservas Integrais das Lapas (RIL); 52 Zonas Balneares (ZB).
 
@@ -446,7 +503,7 @@ TABELA II
 
 Síntese das pressões sobre as massas de água da Região Hidrográfica dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 Foram formulados três cenários de desenvolvimento para os setores com maior potencial de pressão sobre as massas de água na RAA, nomeadamente: urbano, turismo, indústria, agropecuária, agroflorestal e energia, no período em que os mesmos são passíveis de influenciar os objetivos ambientais das massas de água para o presente ciclo de planeamento. Os três cenários considerados foram os seguintes:
 
@@ -464,13 +521,13 @@ TABELA III
 
 Objetivos Estratégicos do PGRHA 2016-2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 TABELA IV
 
 Objetivos Ambientais do PGRHA 2016-2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 Na Tabela V, sintetiza-se a perspetiva de evolução do cumprimento dos objetivos ambientais (ou seja, o «Bom Estado» das massas de água) por ilha.
 
@@ -478,7 +535,7 @@ TABELA V
 
 Síntese dos objetivos ambientais da Região Hidrográfica dos Açores, por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 Tendo em consideração o estado das massas de água, as pressões identificadas, os cenários obtidos e as medidas previstas para este ciclo de planeamento, verifica-se que 16 das 63 massas de água superficiais da Região Hidrográfica dos Açores não atingem o objetivo ambiental em 2015. Assim, foram definidos como objetivos ambientais que, destas, 11 irão atingir o estado «bom» em 2021 e as restantes 5 em 2027. Relativamente às massas de água subterrâneas, 3 das 54 massas de água que não cumprem o objetivo ambiental em 2015 atingi-lo-ão em 2027 (Tabela VI).
 
@@ -486,7 +543,7 @@ TABELA VI
 
 Síntese dos objetivos ambientais da Região Hidrográfica dos Açores, por massa de água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 Legenda: Zona de Especial Conservação (ZEC); Zona de Proteção Especial (ZPE); Área Protegida de Gestão de Habitats ou Espécies (GHE); Área Protegida de Gestão de Recursos (GR); Zonas Vulneráveis (ZV); Zonas de proteção de água para consumo humano (CCH); Zonas designadas para a proteção de espécies aquáticas de interesse económico (ZPEAIE); Zona Balnear (ZB).
 
@@ -548,7 +605,7 @@ TABELA VII
 
 Síntese do Programa de Medidas do PGRH-Açores 2016-2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 Legenda
 
@@ -564,19 +621,19 @@ TABELA VIII
 
 Número de medidas por tipologia de massa de água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 TABELA IX
 
 Cronograma de execução financeira do PGRH-Açores 2016-2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 TABELA X
 
 Cronograma de execução financeira do PGRH-Açores 2016-2021, por entidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf))](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/02601/0000200020.pdf)
 
 As Fichas de Massa de Água podem ser consultadas em maior detalhe no Relatório Técnico PGRH-Açores 2016-2021. Nestas, são sistematizadas por ilha e por massa de água os principais elementos e dados para gestão da massa de água (localização, zonas protegidas, pressões significativas, monitorização, estado atual, evolução do estado e objetivos ambientais e medidas associadas).
 

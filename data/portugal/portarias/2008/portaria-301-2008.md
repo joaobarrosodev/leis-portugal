@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/301/2008/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/301-2008-249870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53df5c5fd25d78aa7971e1ee86dbf7b541a68f60d6de229790a5ff407d40e5c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58dd301ad8f7eaf750d32879d63dfe738ce0ce9288e7bf0ea1a72d8ae0f8717d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Unidade de Saúde Familiar
 - Administração Regional de Saúde
 - Incentivo Profissional
 - Pessoal Administrativo
 - Pessoal de Enfermagem
-- Prémio de Produtividade
 - Prémio de Desempenho
+- Prémio de Produtividade
 - Remuneração
+- Unidade de Saúde Familiar
 relationships:
 - type: amended_by
   target: pt:dre:423885:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:423885:por
+  label: "Dada nova redação aos arts. 2º, 3º, 4º, 5º, 7º e 11º, assim como aos anexos I, II, III e IV, e revogado o art. 10º\
+    \ pela PORT.377-A/2013.30.12.2013.MF, DR.IS [252-4ºSupl] de 30.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/377-a-2013-423885
+  date: '2013-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/298/2007/08/22/p/dre
   label: null
@@ -88,16 +94,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640665:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107709510:por
+  label: Revogado o presente diploma, na redação da Port 377-A/2013 de 30-dez, pelo(a) Portaria n.º 212/2017 - Diário da República
+    n.º 138/2017, Série I de 2017-07-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/212-2017-107709510
+  date: '2017-07-19'
 article_structure:
   article_count: 12
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:27Z'
   warnings: []
   errors: []
 ---
@@ -226,13 +246,13 @@ A presente portaria é revista no prazo de dois anos, devendo ser recolhidos os 
 
 A presente portaria produz efeitos a partir do dia 1 de Janeiro de 2008, salvo no que respeita aos incentivos financeiros.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 4 de Abril de 2008. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 10 de Abril de 2008.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 4 de Abril de 2008. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 10 de Abril de 2008.
 
 ## ANEXO I — [a que se refere a alínea a) do n.º 2 do artigo 2.º]
 
 Indicadores comuns a todas as USF
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 3.º e o n.º 3 do artigo 4.º)
 
@@ -240,7 +260,7 @@ Métrica de avaliação das metas contratualizadas e critérios de atribuição 
 
 1 - Tabela para avaliação das metas contratualizadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 2 - Critérios para atribuição dos incentivos financeiros:
 
@@ -248,35 +268,35 @@ a) População alvo e indicadores de desempenho a verificar:
 
 i) Mulheres em planeamento familiar, tendo como população alvo as mulheres entre os 15 e os 49 anos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 ii) Vigilância de uma gravidez, tendo como população alvo as mulheres que terminaram a gravidez:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 iii) Vigilância de criança no 1.º ano, tendo como população-alvo as crianças até aos 12 meses:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 iv) Vigilância de criança no 2.º ano, tendo como população alvo as crianças entre os 12 e os 23 meses:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 v) Vigilância de diabético, tendo como população alvo os diabéticos vigiados na USF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 vi) Vigilância de hipertenso, tendo como população alvo os hipertensos vigiados na USF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 b) O valor dos incentivos é atribuído na sua totalidade nos casos em que se verifique o seguinte cumprimento das metas nos 17 indicadores de desempenho:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 c) O valor dos incentivos é atribuído a 50 %, nos casos em que se verifique o seguinte cumprimento das metas nos 17 indicadores de desempenho:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 4.º)
 
@@ -284,20 +304,20 @@ Métrica de avaliação das metas contratualizadas e critérios de atribuição 
 
 1 - Tabela para avaliação das metas contratualizadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 2 - Critérios para atribuição dos incentivos institucionais:
 
 a) O valor dos incentivos é atribuído na totalidade, nos casos em que se verifique cumulativamente o compromisso nas quatro classes de indicadores, conforme a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 b) O valor dos incentivos é atribuído a 50 % nos casos em que se verifique cumulativamente o compromisso nas quatro classes de indicadores, conforme a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 2 do artigo 8.º)
 
 Valor dos incentivos institucionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07700/0227802281.pdf)

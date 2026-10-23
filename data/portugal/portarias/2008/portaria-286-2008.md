@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07200/0218402189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/286/2008/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-2008-249835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7d27fb2e50b08b2dc891e1436e9e7309c3531ebd4154a6438976a428f8aaea6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f8f8997dea492d8bcdd1e991050b80669870102e4adc4bc1c6d20f7619bb342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Administração Local
 - Comissão de Acompanhamento
 - Direção Geral das Autarquias Locais
-- Publicitação
-- Programa Estágios Profissionais na Administração Local
 - Estágio de Formação
-- Administração Local
+- Financiamento
+- Programa Estágios Profissionais na Administração Local
+- Publicitação
 relationships:
 - type: amended_by
   target: pt:dre:335457:por
@@ -91,16 +91,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/268/1997/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/268/1997/04/18/p/dre
+- type: cites
+  target: pt:dre:286079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:335457:por
+  label: "Revogada, a partir de 16.06.2010, pelo DEC LEI.65/2010.11.06.2010.PCM, DR.IS [112] de 11.06.2010, e sem prejuízo\
+    \ do disposto no art. 14.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-2010-335457
+  date: '2010-06-11'
 article_structure:
-  article_count: 30
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:21Z'
   warnings: []
   errors: []
 ---
@@ -133,11 +155,15 @@ Lançamento e publicitação dos estágios
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 5.º — Estrutura
+Artigo 5.º
+
+Estrutura
 
 A componente formativa do estágio prevista no artigo 8.º do [Decreto-Lei n.º 326/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1999-434420), de 18 de Agosto, tem a duração mínima de sessenta horas, podendo ser ministrada em contexto de trabalho pelo tutor, funcionário de entidade da administração local ou entidade externa contratada para o efeito, e incidirá sobre matérias relacionadas com o desenvolvimento das competências exigidas ao estagiário, nos termos do plano de estágio.
 
-###### Artigo 6.º — Orientação
+Artigo 6.º
+
+Orientação
 
 1 - ...
 
@@ -159,7 +185,9 @@ d) Elaborar relatórios quadrimestrais de acompanhamento, devendo o relatório r
 
 6 - (Eliminado.)
 
-###### Artigo 8.º — Frequência do estágio
+Artigo 8.º
+
+Frequência do estágio
 
 1 - Cada indivíduo apenas pode frequentar uma edição do PEPAL, no âmbito da mesma área funcional ou nível.
 
@@ -167,7 +195,9 @@ d) Elaborar relatórios quadrimestrais de acompanhamento, devendo o relatório r
 
 3 - ...
 
-###### Artigo 11.º — Cessação antecipada
+Artigo 11.º
+
+Cessação antecipada
 
 1 - ...
 
@@ -175,11 +205,15 @@ d) Elaborar relatórios quadrimestrais de acompanhamento, devendo o relatório r
 
 3 - A cessação antecipada por iniciativa do estagiário deve ser fundamentada em motivo relevante, designadamente a celebração de contrato de trabalho, a qual deve ser comunicada à DGAL e à entidade onde o mesmo decorre, produzindo efeitos à data do requerido.
 
-###### Artigo 13.º — Avaliação do estágio
+Artigo 13.º
+
+Avaliação do estágio
 
 Os estagiários procedem à avaliação do estágio decorridos seis meses da sua frequência e no seu termo e da mesma dão conhecimento à Direcção-Geral das Autarquias Locais.
 
-###### Artigo 14.º — Avaliação final dos estagiários
+Artigo 14.º
+
+Avaliação final dos estagiários
 
 1 - No final do estágio, os estagiários são avaliados de acordo com as componentes da avaliação previstas em ficha de avaliação de modelo a disponibilizar pela Direcção-Geral das Autarquias Locais.
 
@@ -203,7 +237,9 @@ Os estagiários procedem à avaliação do estágio decorridos seis meses da sua
 
 11 - ...
 
-###### Artigo 17.º — Financiamento
+Artigo 17.º
+
+Financiamento
 
 1 - Cada edição do Programa é financiada, relativamente a cada estagiário, pela entidade onde decorra o respectivo estágio.
 
@@ -235,7 +271,7 @@ A Portaria n.º 1211/2006, de 13 de Novembro, é republicada em anexo com as alt
 
 Em 13 de Março de 2008.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita.
 
 ## ANEXO — Portaria n.º 1211/2006, de 13 de Novembro
 

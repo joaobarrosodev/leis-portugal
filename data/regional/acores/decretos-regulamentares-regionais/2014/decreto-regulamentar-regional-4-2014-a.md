@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2014/02/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2014-572455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f6a6e71c15b6f606ed5d6e83a87332b66771b1841debd8c803fb6bbdd87dfe4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 691b7487bd87dab3df46a430069412debbf521731c48def92d561da549ddf739
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Regional
 - Aquisição de Bens e Serviços
+- Arrendamento Urbano não Habitacional
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Gestão Financeira
-- Governo Regional
+- Conselho do Governo Regional
 - Conta de Gerência
-- Arrendamento Urbano não Habitacional
 - Contrato de Locação Financeira
 - Controlo Financeiro
 - Definição de Competências
 - Delegação de Competências
 - Despesas Públicas
+- Direcção Regional do Orçamento e Tesouro
 - Diretor Regional
 - Dotação Orçamental
 - Duodécimo
 - Empreitada de Obras Públicas
 - Empresa Pública Regional
 - Execução do Orçamento
-- Setor Empresarial do Estado
 - Fundo de Maneio
-- Presidente do Governo Regional
+- Gestão Financeira
 - Gestão Orçamental
-- Conselho do Governo Regional
-- Pagamento
-- Veículo
+- Governo Regional
 - Membros do Governo
 - Operações de Tesouraria
 - Orçamento Regional
-- Direcção Regional do Orçamento e Tesouro
-- Administração Regional
-- Açores
+- Pagamento
+- Presidente do Governo Regional
+- Setor Empresarial do Estado
 - Subsídio
+- Veículo
 - Vice-presidente do Governo Regional
 relationships:
 - type: cites
@@ -116,16 +116,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:14Z'
   warnings: []
   errors: []
 ---
@@ -324,10 +344,10 @@ O presente diploma produz efeitos desde 1 de janeiro de 2014.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 29 de janeiro de 2014.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 3 de fevereiro de 2014.**
+Assinado em Angra do Heroísmo em 3 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

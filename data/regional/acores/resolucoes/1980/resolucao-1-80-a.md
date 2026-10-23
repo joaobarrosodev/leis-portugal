@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-1980-692614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fe29f0e437e549eb91c7d2b1006867d6d0f17d4ecb362a6c144d78f273bf944
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ce7f822a25651ec3b2a05aa7db5fab81ff306999b4b3ae4baeb11956e937516
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Plano Regional
+relationships:
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:32Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +198,7 @@ Angra do Heroísmo, 18 de Dezembro de 1979. - A Comissão Permanente para os Ass
 
 ## ANEXO II — Resumo da despesa por Secretarias Regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf))](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
 
 Presidência do Governo Regional, 5 de Dezembro de 1979. - O Presidente do Governo Regional, João Bosco Mota Amaral.
 
@@ -214,7 +220,7 @@ Nestes termos, mantendo inalteradas as grandes opções oportunamente aprovadas 
 
 Estes ajustamentos vão permitir que se atinja um mais elevado grau de execução em sectores fundamentais da Administração Regional ao mesmo tempo que se estabelece uma transição mais perfeita com o Plano já aprovado para 1980.
 
-**O Secretário Regional Adjunto da Presidência, José Correia da Cunha.**
+O Secretário Regional Adjunto da Presidência, José Correia da Cunha.
 
 Educação
 
@@ -626,7 +632,7 @@ Construções hoteleiras e similares
 
 Propõe-se um reforço de 1750 contos, verba destinada a fazer face às seguintes alterações dos projectos que constituem este programa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf))](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
 
 Verba inicial - 64650 contos.
 
@@ -690,7 +696,7 @@ Apoio ao transporte terrestre
 
 Propõe-se um reforço de 8600 contos, verba destinada a fazer face às seguintes alterações dos projectos componentes deste programa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf))](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
 
 O reforço do projecto «Apoio, subsídios e estudos» é motivado pelas seguintes razões:
 
@@ -756,7 +762,7 @@ Aeroportos
 
 Uma vez que se prevê levar a cabo alguns trabalhos que não foi possível realizar no ano passado, propõe-se um reforço de 69400 contos contemplando os seguintes projectos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf))](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
 
 Verba inicial - 86900 contos.
 
@@ -806,7 +812,7 @@ Estudos
 
 Propõe-se a reformulação do programa, no que respeita à SRTT, com o reforço de 2000 contos, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf))](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
 
 O primeiro projecto passa a contemplar estudos e projectos sobre áreas com aptidão para o turismo e o segundo elimina os estudos de viabilidade do novo hotel da Terceira e de uma zona de reserva natural para incluir o estudo de um hotel em Ponta Delgada.
 
@@ -868,4 +874,4 @@ Plano 1979
 
 Proposta de alteração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf))](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/02700/00990112.pdf)

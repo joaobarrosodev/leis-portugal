@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 123/2021, 1º Suplemento, Série I de 2021-06-28
   number: '123'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 16-(2) a 16-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/12301/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10-a/2021/06/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-a-2021-165865626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0ac2204d312b03b71845c580cd4494e3d54e724fc4ad1dc7eaff9820f5389f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00368d1c1d999b072c41fe1e39f0a51d5972b3695ded97232829eef37f312894
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,62 +65,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- BENS Imóveis
+- Açores
+- Administração Regional
 - Aquisição de Bens e Serviços
-- Região Autónoma
+- Arrendamento Urbano não Habitacional
 - Atribuição de Verba
 - Autonomia Financeira
-- Financiamento
 - BEM Móvel
+- Benefícios Fiscais
+- BENS Imóveis
 - Cativação de Verba
-- Imposto Municipal sobre Imóveis
-- Gestão Financeira
-- Governo Regional
+- Conselho do Governo Regional
+- Contabilidade Pública
 - Contenção de Despesas
-- Arrendamento Urbano não Habitacional
 - Contrato de Locação Financeira
+- Contribuições e Impostos
 - Controlo Orçamental
+- Créditos do Estado
 - Definição de Competências
 - Despesas Públicas
-- Regulamentação de Atos Legislativos
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
 - Dotação Orçamental
 - Empreiteiro de Obras Públicas
 - Empresa Pública Regional
 - Execução do Orçamento
-- Subvenção Pública
+- Finanças Regionais
+- Financiamento
 - Fiscalização
 - Fundo de Maneio
 - Fundos Autónomos
-- Presidente do Governo Regional
-- Créditos do Estado
-- Recrutamento de Pessoal
+- Gestão de Créditos
+- Gestão Financeira
 - Gestão Orçamental
-- Conselho do Governo Regional
-- Pagamento
+- Governo Regional
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
-- Contribuições e Impostos
+- Imposto Municipal sobre Imóveis
 - Investimento
-- Finanças Regionais
-- Veículo
-- Sistema de Normalização Contabilística
+- IRC
+- Normalização
 - Obras Públicas
 - Operações de Tesouraria
 - Orçamento
 - Orçamento Regional
-- Tesouraria
+- Pagamento
 - Prazo
-- IRC
+- Presidente do Governo Regional
 - Prestação de Contas
+- Recrutamento de Pessoal
+- Região Autónoma
 - Regime Fiscal
-- Benefícios Fiscais
-- Administração Regional
-- Açores
-- Contabilidade Pública
-- Subsídio
-- Gestão de Créditos
-- Normalização
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
+- Regulamentação de Atos Legislativos
 - Sector Empresarial Regional
+- Sistema de Normalização Contabilística
+- Subsídio
+- Subvenção Pública
+- Tesouraria
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15-a/2021/05/31/a/dre
@@ -138,16 +138,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:164454929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67541746:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:40Z'
   warnings: []
   errors: []
 ---
@@ -390,10 +410,12 @@ O presente diploma produz efeitos a 1 de janeiro de 2021.
 
 Aprovado em Conselho do Governo, em Ponta Delgada, em 9 de junho de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 25 de junho de 2021.**
+Assinado em Angra do Heroísmo em 25 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+114354061

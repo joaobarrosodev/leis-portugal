@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/12/295b00/91749175.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/1999/12/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1999-661752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67d491dc6a564e1412a377f3758936d45a05e3bfb4468c2dac36c3c9d4d5ec09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a38b6dc998ddd5b4029bbb44554e7917083054e934ffee15f2a6182f705edcba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Financiamento
-- Turismo
 - Promoção Turística
 - Sistema de Incentivos da Região Autónoma dos Açores
-- Açores
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:233746:por
@@ -88,16 +88,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/1999/04/12/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/1999/04/12/a/dre
+- type: cites
+  target: pt:dre:187693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543367:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:339848:por
+  label: "Revogado, sem prejuízo do disposto nos nºs 1 e 4 do art. 22º do mesmo diploma, pelo DLR.26/2000/A.2000.07.10.ALR-RAA,\
+    \ DR.IS-A [184] de 10/aGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2000-339848
+  date: '2000-07-10'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:08Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +138,9 @@ Critérios de apreciação e selecção de candidaturas
 
 2 - O prémio a atribuir a cada projecto tem por base a pontuação calculada em função dos critérios e ponderações constantes do quadro V anexo ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 11.º — Cálculo do incentivo
+Artigo 11.º
+
+Cálculo do incentivo
 
 1 - O incentivo a conceder pelo SIRAPE assume a forma de subvenção a fundo perdido, sendo o respectivo montante determinado pela aplicação sobre o valor do investimento do projecto, considerado elegível nos termos deste diploma, de uma percentagem correspondente à pontuação obtida para o prémio, calculado de acordo com o disposto no n.º 2 do artigo anterior.
 
@@ -128,7 +148,9 @@ Critérios de apreciação e selecção de candidaturas
 
 3 - A elegibilidade das despesas com a aquisição dos edifícios a que se refere o número anterior será reconhecida, tendo em conta qualquer dos factores acima referidos, por despacho do Secretário Regional da Economia.
 
-###### Artigo 18.º — Pagamentos
+Artigo 18.º
+
+Pagamentos
 
 1 - Os pagamentos, no caso do SIRAPA, são efectuados contra a entrega de documentos originais justificativos da realização do investimento, que, após a validação, serão devolvidos aos apresentantes.
 
@@ -146,10 +168,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 22 de Outubro de 1999.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 19 de Novembro de 1999.**
+Assinado em Angra do Heroísmo em 19 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

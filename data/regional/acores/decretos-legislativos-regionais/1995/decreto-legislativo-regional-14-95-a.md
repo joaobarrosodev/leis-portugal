@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/1995/08/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1995-431793
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0f0153402589518ba8ae33fde46f47a9feb4aa59de6fa3858d006c33c4013ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ae4746288c552a5d63631acda35c3bd476542a802b6e0bb0f4af552bded1741
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,79 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Financiamento
 - Governo Regional
-- Realojamento
 - Habitação Social
-- Açores
+- Realojamento
 relationships:
 - type: amended_by
   target: pt:dre:481970:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:167055:por
+  label: "Alterados os arts. 3º, 19º, 24º e 31º e aditado o 31º-A ao presente diploma, pelo DLR.8/98/A.1998.03.11.ALR-RAA\
+    \ DR.IS-A [86] de 13/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-1998-167055
+  date: '1998-03-11'
+- type: amended_by
+  target: pt:dre:249997:por
+  label: "Alterados os arts. 3.º e 24.º na redacção do DLR 11/96/A de 15-Mai, DR.IS-A [39] 18/Jun/1996 e do DLR 8/98/A de\
+    \ 11-Mar, DR.IS-A [86] 13/Abr/1998, pelo DLR.5/2002/A.2002.02.28.ALR-RAA [57] DE 08/MAR/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2002-249997
+  date: '2002-02-28'
+- type: amended_by
+  target: pt:dre:546003:por
+  label: "Alterado o art. 3.º do presente diploma, na redacção dos DLR 11/96/A, de 08-Jun, 8/98/A, de 13-Abr e 5/2002/A, de\
+    \ 08-Mar, pelo DLR.37/2006/A.12.10.2006.AL-RAA, DR.IS [210] de 31.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/37-2006-546003
+  date: '2006-10-12'
+- type: cites
+  target: pt:dre:573371:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:586864:por
+  label: "Rectificado pela DECL-RECT.15-A/2002.2002.03.28.PCM, DR.IS-A [75]Supl de 30/Mar/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-a-2002-586864
+  date: '2002-03-28'
+- type: repealed_by
+  target: pt:dre:250609:por
+  label: "Revogados os arts. 7º a 11º pelo DLR.6/2002/A.2002.02.18.ALR-RAA DR.IS-A [59] e e demais disposições que contrariem\
+    \ o disposto naquele diploma\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2002-250609
+  date: '2002-02-18'
+- type: repealed_by
+  target: pt:dre:240381:por
+  label: "Revogados os caps. II e IV, com excepção das disposições que prevêem apoios às autarquias para construção de habitação\
+    \ social destinada a realojamento, pelo DLR.21/2005/A.18.07.2005.AL-RAA, DR.IS-A [148] de 03.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2005-240381
+  date: '2005-07-18'
+- type: repealed_by
+  target: pt:dre:552336:por
+  label: "Revogados os capítulos V (artigos 18.º a 22.º) e VI (artigos 23.º a 27.º) e os artigos 31.º e 31.º-A do capítulo\
+    \ VIII, na redacção dos Decretos Legislativos Regionais n.ºs 11/96/A, de 18 de Junho, 8/98/A, de 13 de Abril e 5/2002/A,\
+    \ de 8 de Março, pelo DLR.59/2006/A.21.11.2006.AL-RAA, DR.IS [249] de 29.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/59-2006-552336
+  date: '2006-11-21'
+- type: repealed_by
+  target: pt:dre:481970:por
+  label: "Revogado o capítulo vii (constituído pelos art.s 28º a 30º), mantendo-se em vigor os apoios que tenham sido atribuídos\
+    \ ao abrigo do presente diploma com todos os direitos e obrigações nele previstos, pelo DLR.23/2009/A.16.12.2009.AL-RAA,\
+    \ DR.IS [242] de 16.12.2009, a partir da data de entrada em vigor estabelecida no seu art. 48º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/23-2009-481970
+  date: '2009-12-16'
 article_structure:
   article_count: 34
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:36Z'
   warnings: []
   errors: []
 ---
@@ -225,7 +278,7 @@ b) Através de candidatura individual, destinando-se exclusivamente a construç�
 
 c) Através dos municípios, devendo o projecto tipo de habitação destinar-se exclusivamente à construção de habitação social para realojamento, cujos requisitos são os definidos na lei, com as especificidades previstas no presente diploma.
 
-### CAPITULO III
+CAPITULO III
 
 Comparticipação na recuperação de habitação degradada
 
@@ -607,10 +660,10 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional, na Horta, em 1 de Junho de 1995.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 14 de Julho de 1995.**
+Assinado em Angra do Heroísmo em 14 de Julho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

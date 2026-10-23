@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/09/215a00/49074908.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/1993/09/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1993-661570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd1b075091217f2188d008c346e96c080fbb7efb9667683e9aba318bff8229d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98d9921bcbee498a43a3f9c2a0a3484e1b8b288d770fd53eb3bac69838c22b8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,41 @@ subjects:
 - Conselho Desportivo Regional
 - Criação de Serviços
 - Definição de Competências
-- Madeira.região Autónoma
 - Desporto
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:450617:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:450617:por
+  label: "Extinto o Conselho Desportivo Regional e revogado o presente diploma pelo DLR.22/2002/M.2002.10.29.ALR-RAM DR.IS-A\
+    \ [269] de 21/Nov/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2002-450617
+  date: '2002-10-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:51Z'
   warnings: []
   errors: []
 ---
@@ -201,10 +215,10 @@ O apoio técnico, logístico e material necessário ao funcionamento do CDR ser�
 
 Aprovado em sessão plenária de 23 de Julho de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 6 de Agosto de 1993.**
+Assinado em 6 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

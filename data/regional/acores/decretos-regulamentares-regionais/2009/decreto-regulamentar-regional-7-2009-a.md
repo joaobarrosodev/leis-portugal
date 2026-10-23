@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2009/06/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2009-494229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb41521fa7fa744a852b995933ac26d33cefe7ad0af34e662358a8233651c0f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4db8521cb5b0d70269b91152700d8e9801a3491b6579fe23e5c5a239580d36ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Bacia Hidrográfica
+- Ilha do Pico
+- Lajes do Pico
 - Ordenamento do Território
-- Recursos Hídricos
 - Parque Natural da Ilha do Pico
 - Plano de Ordenamento das Bacias Hidrográficas das Lagoas do Caiado do Capitão do PAUL do Peixinho e da Rosada
-- Lajes do Pico
-- Ilha do Pico
-- Proteção do Ambiente
-- Bacia Hidrográfica
-- Zona de Proteção
 - Política de Solos
+- Proteção do Ambiente
+- Recursos Hídricos
+- Rede Natura 2000
 - Regulamento
 - são Roque do PICO
-- Açores
-- Rede Natura 2000
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:32000L0060
@@ -88,13 +88,13 @@ relationships:
 article_structure:
   article_count: 37
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:41Z'
   warnings: []
   errors: []
 ---
@@ -147,11 +147,11 @@ O POBHLP entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Madalena, Pico, em 6 de Maio de 2009.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Maio de 2009.**
+Assinado em Angra do Heroísmo em 25 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -159,33 +159,33 @@ O Representante da República para a Região Autónoma dos Açores, José Antón
 
 Classificação da lagoa do Caiado - Zona de protecção e zona reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
 
 Classificação da lagoa do Capitão - Zona de protecção e zona reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
 
 Classificação da lagoa do Paul - Zona de protecção e zona reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
 
 Classificação da lagoa do Peixinho
 
 Zona de protecção e zona reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
 
 Classificação da lagoa da Rosada
 
 Zona de protecção e zona reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
 
 ## ANEXO II — (a que se refere o n.º 4 do artigo 1.º)
 
 Índices de utilização das actividades secundárias das lagoas do Caiado, do Capitão, do Paul, do Peixinho e da Rosada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
 
 ## ANEXO III — (a que se refere o artigo 2.º)
 
@@ -711,10 +711,10 @@ As utilizações dos recursos hídricos sujeitas a título de utilização são 
 
 Plantas de síntese do Plano de Ordenamento das Bacias Hidrográficas das Lagoas do Caiado, do Capitão, do Paul, do Peixinho e da Rosada, ilha do Pico, Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
 
 ## ANEXO V — (a que se refere o artigo 2.º)
 
 Plantas de condicionantes do Plano de Ordenamento das Bacias Hidrográficas das Lagoas do Caiado, do Capitão, do Paul, do Peixinho e da Rosada, ilha do Pico, Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351903531.pdf)

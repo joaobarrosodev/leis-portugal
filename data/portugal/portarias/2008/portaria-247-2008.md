@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/06100/0177001772.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/247/2008/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/247-2008-246369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbfcef68de391f8d3b8ab7c956d9ebdb84d9eea3f36942ed90f1fe201d157dde
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f04e1cb8e48264dee2bd64f6cf889d85e3478e7f1501575a5de411fba76832a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Serviços de Segurança
 - Empresa de Segurança
+- Equipamento de Veículo
 - Inspecção de Veículos
 - Licenciamento
-- Veículo
-- Equipamento de Veículo
 - Prestação de Serviços
+- PSP
 - Segurança Privada
+- Serviços de Segurança
 - Transporte de Valores
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:499243:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493040:por
+  label: "Alterados os arts. 2º, 5º e 8º pela PORT.840/2009.03.08.2009.MAI, DR.IS [148] de 03.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/840-2009-493040
+  date: '2009-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/35/2004/02/21/p/dre
   label: null
@@ -90,16 +95,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/25/1999/01/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/25/1999/01/16/p/dre
+- type: cites
+  target: pt:dre:193789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569761:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499243:por
+  label: "Revogado, a partir de 01.09.2013, o presente diploma, na redação da Port 840/2009 de 03-ago, pela PORT.273/2013.20.08.2013.MAI,\
+    \ DR.IS [159] de 20.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/273-2013-499243
+  date: '2013-08-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:07Z'
   warnings: []
   errors: []
 ---
@@ -246,4 +265,4 @@ As entidades de segurança privada, detentoras de alvará ou licença, previstas
 
 É revogada a [Portaria n.º 25/99](https://diariodarepublica.pt/dr/detalhe/portaria/25-1999-193789), de 16 de Janeiro.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 14 de Março de 2008.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 14 de Março de 2008.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/07/15300/20272028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1984-385428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cfc0e4a09324bed0c3c5594ec49cb05551ddaca52f83040610c853a9bef4df0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b9723275eee5d064318b09f8d9d98acda82ea27b8218a2d58f662bea2dd2f9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Desporto
+- Estatuto do Coordenador Regional de Modalidade
 relationships:
 - type: amended_by
   target: pt:dre:633174:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:633174:por
+  label: "Revogado pelo DRR.27/2003/A.2003.07.28.PG-RAA DR.IS-B [198] de 28/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2003-633174
+  date: '2003-07-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:14Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +107,7 @@ Considerando que se torna necessário coordenar sectorialmente o desporto region
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É condição necessária para o desempenho do cargo de coordenador regional de modalidade satisfazer um dos seguintes requisitos:
+Artigo 1.º - 1 - É condição necessária para o desempenho do cargo de coordenador regional de modalidade satisfazer um dos seguintes requisitos:
 
 a) Ser licenciado em Educação Física;
 
@@ -125,7 +133,7 @@ b) Em regime de prestação de serviço, sendo gratificado pelo Fundo Regional d
 
 4 - A coordenação regional é exercida nas modalidades consideradas prioritárias - andebol, atletismo, basquetebol, futebol, judo, vela e voleibol - e ainda naquelas que justificam a existência de plano de desenvolvimento de âmbito regional, dependendo hierarquicamente da Divisão de Desportos.
 
-###### Art. 2.º - 1 - No âmbito do desporto federado e em colaboração com as respectivas associações desportivas de ilha, compete-lhe:
+Art. 2.º - 1 - No âmbito do desporto federado e em colaboração com as respectivas associações desportivas de ilha, compete-lhe:
 
 a) Coordenar, por todos os meios ao seu alcance, as actividades do sector federado com a política global definida na orientação da Direcção Regional de Educação Física e Desportos;
 
@@ -161,14 +169,14 @@ b) Participar na elaboração do plano e programa de desenvolvimento e expansão
 
 c) Apoiar as acções de formação do plano de desenvolvimento da modalidade de acordo com a orientação da Direcção Regional de Educação Física e Desportos.
 
-###### Art. 3.º Todas as despesas de deslocação e estada previstas no presente estatuto serão suportadas pelas verbas do Fundo Regional de Fomento do Desporto.
+Art. 3.º Todas as despesas de deslocação e estada previstas no presente estatuto serão suportadas pelas verbas do Fundo Regional de Fomento do Desporto.
 
 Aprovado em Conselho do Governo Regional em 4 de Abril de 1984.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 12 de Junho de 1984.**
+Assinado em Angra do Heroísmo em 12 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

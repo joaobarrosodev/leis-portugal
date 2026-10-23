@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2007/11/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2007-628487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6374db5a5d8438c6e937561466d30cebb4dab2bbff62beb12bb95b5fb6060503
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09de4e6396056d746bf00e6e51e1b6ba95acc6ce43599e50e1c6893e133d0889
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
 - Ajuda Comunitária
-- Financiamento
 - Comissão de Acompanhamento
-- Gestão Financeira
-- Governo Regional
 - Definição de Competências
 - Feader
+- Financiamento
+- Gestão Financeira
+- Governo Regional
 - Instituto de Desenvolvimento Regional
-- Instituto Financeiro para o Desenvolvimento Regional
-- Programa Operacional de Valorização do Potencial Económico e Coesão Territorial
-- Programa Operacional
-- Programa Operacional de Valorização do Potencial Humano e Coesão Social
-- Madeira.região Autónoma
 - Instituto de Gestão de Fundos Comunitários
+- Instituto Financeiro para o Desenvolvimento Regional
+- Madeira.região Autónoma
+- Programa Operacional
+- Programa Operacional de Valorização do Potencial Económico e Coesão Territorial
+- Programa Operacional de Valorização do Potencial Humano e Coesão Social
+- QREN
 - Secretário Regional do Plano e Finanças
 relationships:
 - type: cites
@@ -90,13 +90,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:52Z'
   warnings: []
   errors: []
 ---
@@ -279,10 +279,10 @@ Enquanto não for publicado o estatuto do Instituto de Desenvolvimento Regional 
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 24 de Outubro de 2007.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 20 de Novembro de 2007.**
+Assinado em 20 de Novembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

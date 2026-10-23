@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/44/1996/10/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1996-232974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 854e85d508516e8afe15a2696c6a516ce64ff3eb87654c333ede36f4a691987d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efd9c8994a463aed5e54dcafa1a991439770a6b24a14ee1708eec61363b80a4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono para Falhas
+- Açores
 - Instituto de Apoio Comercial à Agricultura Pecuária e Silvicultura
 - Orgânica
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:623000:por
@@ -79,16 +79,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/19/1993/10/12/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/19/1993/10/12/a/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678775:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:623000:por
+  label: "Rectificado pela DECL-RECT.16-U/96.1996.12.31.PCM DR.IS-B [302]5ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-u-1996-623000
+  date: '1996-12-31'
 article_structure:
-  article_count: 18
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:43Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +158,9 @@ Os artigos 4.º e 8.º do [Decreto Regulamentar Regional n.º 8/80/A](https://di
 
 [...]
 
-###### Artigo 4.º — Composição
+Artigo 4.º
+
+Composição
 
 1 - A direcção é composta por um presidente e dois vogais, nomeados por despacho conjunto do Presidente do Governo Regional e do Secretário Regional da Agricultura e Pescas.
 
@@ -125,9 +168,11 @@ Os artigos 4.º e 8.º do [Decreto Regulamentar Regional n.º 8/80/A](https://di
 
 3 - Os vogais são remunerados por gratificação, nos termos do n.º 5 do artigo 22.º do presente diploma.
 
-###### Artigo 8.º — Substituição do presidente
+Artigo 8.º
 
-**O presidente da direcção será substituído, em caso de ausência ou impedimento, pelo vogal por ele designado.»**
+Substituição do presidente
+
+O presidente da direcção será substituído, em caso de ausência ou impedimento, pelo vogal por ele designado.»
 
 ###### Artigo 2.º
 
@@ -137,7 +182,9 @@ Os capítulos IV e V do [Decreto Regulamentar Regional n.º 8/80/A](https://diar
 
 Pessoal
 
-###### Artigo 21.º — Quadro de pessoal
+Artigo 21.º
+
+Quadro de pessoal
 
 O IACAPS dispõe do pessoal que consta do mapa anexo ao presente diploma e que dele faz parte integrante, encontrando-se agrupado de acordo com a seguinte classificação:
 
@@ -153,11 +200,15 @@ e) Pessoal administrativo;
 
 f) Pessoal auxiliar.
 
-###### Artigo 22.º — Condições de ingresso e acesso
+Artigo 22.º
+
+Condições de ingresso e acesso
 
 As condições e regras de ingresso e acesso dos funcionários do IACAPS são, para as respectivas categorias, as previstas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e as previstas no presente diploma e na legislação regional e geral complementar.
 
-###### Artigo 23.º — Pessoal dirigente e de direcção
+Artigo 23.º
+
+Pessoal dirigente e de direcção
 
 1 - Os cargos de vogais da direcção são exercidos por indivíduos de reconhecida competência técnica, vinculados ou não à função pública, em regime de comissão de serviço.
 
@@ -165,21 +216,31 @@ As condições e regras de ingresso e acesso dos funcionários do IACAPS são, p
 
 3 - O presidente e os vogais da direcção têm direito a transporte e ajudas de custo fixadas em legislação própria para os vencimentos superiores ao valor do índice 405, tendo aqueles membros ainda direito, quando não forem funcionários ou trabalhadores das cooperativas, a senhas de presença, a fixar por despacho dos secretários regionais referidos no número anterior.
 
-###### Artigo 24.º — Membros dos conselhos coordenador e consultivo
+Artigo 24.º
+
+Membros dos conselhos coordenador e consultivo
 
 Os membros dos conselhos coordenador e consultivo têm direito a transporte e ajudas de custo e senhas de presença, nos termos do disposto no n.º 3 do artigo anterior.
 
-###### Artigo 25.º — Pessoal a tempo parcial
+Artigo 25.º
+
+Pessoal a tempo parcial
 
 Os cargos de fiel de armazém e de fiel auxiliar de armazém podem ser exercidos a tempo parcial.
 
-###### Artigo 26.º — Abono para falhas
+Artigo 26.º
+
+Abono para falhas
 
 Os funcionários, a designar por despacho do presidente da direcção do IACAPS, que exercem funções de tesouraria nas delegações e núcleos do IACAPS têm direito à atribuição do abono para falhas, nos termos do [Decreto Legislativo Regional n.º 7/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1989-619963), de 20 de Julho.
 
-### CAPÍTULO V — Gestão financeira
+CAPÍTULO V
 
-###### Artigo 27.º — Receitas
+Gestão financeira
+
+Artigo 27.º
+
+Receitas
 
 1 - Constituem receitas do IACAPS:
 
@@ -195,7 +256,9 @@ e) Os empréstimos contraídos.
 
 2 - A cobrança coerciva de dívidas provenientes de receitas do IACAPS, cuja obrigação de pagamento seja estabelecida por lei ou haja sido reconhecida por despacho do Secretário Regional da Agricultura e Pescas, faz-se pelo processo de execuções fiscais, através dos serviços de justiça tributária e nos termos do código de processo respectivo.
 
-###### Artigo 28.º — Despesas
+Artigo 28.º
+
+Despesas
 
 1 - Constituem despesas do IACAPS:
 
@@ -207,7 +270,9 @@ b) As aquisições de mercadorias, bem como todos os encargos inerentes, relacio
 
 3 - A direcção do IACAPS poderá manter, em tesouraria, as importâncias indispensáveis ao pagamento de despesas que devam ser satisfeitas, tendo em vista a satisfação de compromissos decorrentes da sua actividade específica.
 
-###### Artigo 29.º — Resolução de dúvidas
+Artigo 29.º
+
+Resolução de dúvidas
 
 As dúvidas que se suscitarem da aplicação do presente diploma serão resolvidas por despacho do Secretário Regional da Agricultura e Pescas.»
 
@@ -219,7 +284,9 @@ Ao [Decreto Regulamentar Regional n.º 8/80/A](https://diariodarepublica.pt/dr/d
 
 Disposições finais e transitórias
 
-###### Artigo 30.º — Integração no quadro
+Artigo 30.º
+
+Integração no quadro
 
 1 - O pessoal que vem desempenhando funções no IACAPS, em regime de tempo completo, há mais de três anos, ininterruptamente, sujeito à disciplina, hierarquia e horário do respectivo serviço, pode ser integrado directamente em lugares do quadro, em categorias correspondentes às funções que efectivamente cumpre, nos termos do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
 
@@ -229,7 +296,9 @@ Disposições finais e transitórias
 
 4 - O pessoal que, nos termos do n.º 1 do presente artigo, vem desempenhando funções na sede, em Ponta Delgada, ilha de São Miguel, na área administrativa, é integrado na categoria de terceiro-oficial.
 
-###### Artigo 31.º — Transição e reclassificação de pessoal
+Artigo 31.º
+
+Transição e reclassificação de pessoal
 
 1 - O pessoal actualmente provido em lugares do quadro aprovado pelo [Decreto Regulamentar Regional n.º 9/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1989-213596), de 27 de Março, com as alterações constantes do [Decreto Regulamentar Regional n.º 9/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1986-196246), de 26 de Fevereiro, transita para lugares do quadro anexo ao presente diploma para a mesma categoria e carreira.
 
@@ -249,14 +318,14 @@ São revogados os Decretos Regulamentares Regionais n.os [1/81/A](https://diario
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 24 de Julho de 1996.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 16 de Setembro de 1996.**
+Assinado em Angra do Heroísmo em 16 de Setembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Instituto de Apoio Comercial à Agricultura, Pecuária e Silvicultura - IACAPS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/233b00/35253527.pdf))](https://files.diariodarepublica.pt/1s/1996/10/233b00/35253527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/233b00/35253527.pdf)

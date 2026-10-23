@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 74/1986, 2º Suplemento, Série I de 1986-03-31
   number: '74'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 748-(25) a 748-(26)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/03/07402/00250026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-b-1986-301797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 660b6e4a214dc4fe2681d81ce9af5f392132922dd07bc084c2b430b0a1c76e1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f5669d2fcf3cd80836c5a333d603be31a548e12e151006ae6842da5a3318d4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ensino Preparatório
+- Ensino Secundário
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:636073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405368:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:44Z'
   warnings: []
   errors: []
 ---
@@ -97,30 +114,30 @@ Usando da competência conferida pela alínea b) do n.º 1 do artigo 7.º do [De
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os quadros de pessoal docente das escolas preparatórias e secundárias da Região Autónoma dos Açores são os constantes dos mapas I e II anexos ao presente diploma.
+Artigo 1.º Os quadros de pessoal docente das escolas preparatórias e secundárias da Região Autónoma dos Açores são os constantes dos mapas I e II anexos ao presente diploma.
 
-###### Art. 2.º O provimento do pessoal docente a que se refere o artigo anterior far-se-á nos termos do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro, respeitando as regras de competência das entidades regionais.
+Art. 2.º O provimento do pessoal docente a que se refere o artigo anterior far-se-á nos termos do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro, respeitando as regras de competência das entidades regionais.
 
-###### Art. 3.º Os docentes que vierem a obter provimento nos lugares constantes do mapa I a que se refere o artigo 1.º em grupos ou subgrupos do curso unificado do ensino secundário transitarão para iguais grupos ou subgrupos da escola secundária que eventualmente venha a ser criada no concelho onde se situe a escola preparatória.
+Art. 3.º Os docentes que vierem a obter provimento nos lugares constantes do mapa I a que se refere o artigo 1.º em grupos ou subgrupos do curso unificado do ensino secundário transitarão para iguais grupos ou subgrupos da escola secundária que eventualmente venha a ser criada no concelho onde se situe a escola preparatória.
 
-###### Art. 4.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura, consoante a sua natureza.
+Art. 4.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura, consoante a sua natureza.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 20 de Fevereiro de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 31 de Março de 1986.**
+Assinado em Angra do Heroísmo em 31 de Março de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/07402/00250026.pdf))](https://files.diariodarepublica.pt/1s/1986/03/07402/00250026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/07402/00250026.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/03/07402/00250026.pdf))](https://files.diariodarepublica.pt/1s/1986/03/07402/00250026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/03/07402/00250026.pdf)

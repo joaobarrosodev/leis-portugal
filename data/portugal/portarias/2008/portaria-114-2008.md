@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/02600/0092800933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/114/2008/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/114-2008-248237
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddcf1b078194c93a27b153ac0818a54d164987cf609cc2344771566b621eca75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 384aa903d895fd3a4f896ea9bacf5dc4b73a35527df2e0346ae4b791cd518e37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,89 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Judicial
-- Processo Penal
+- Assinatura Digital
 - Certidão
 - Certificação Electrónica
 - Código do Processo Civil
+- Custas Judiciais
 - Documentação
-- Informática
+- Documento Eletrónico
 - Formulário Eletrónico
-- Oficial de Justiça
 - Gestão Processual
+- Informática
+- Instituto das Tecnologias de Informação na Justiça
+- Internet
 - Juiz
 - Justiça
 - Magistrado do Ministério Público
-- Documento Eletrónico
-- Instituto das Tecnologias de Informação na Justiça
-- Notificação
-- Página na Internet
-- Internet
-- Sistema de Informação
-- Processo Judicial
-- Assinatura Digital
-- Regime Jurídico
 - Ministério Público
+- Notificação
+- Oficial de Justiça
+- Página na Internet
+- Processo Judicial
+- Processo Penal
+- Regime Jurídico
 - Secretaria Judicial
 - Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
+- Sistema de Informação
 - Solicitador
-- Custas Judiciais
+- Tribunal
 - Tribunal Administrativo
 - Tribunal Fiscal
-- Tribunal
 relationships:
 - type: amended_by
   target: pt:dre:499513:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449919:por
+  label: "Alterados os art.s 1º, 2.º, 7º, 11º, 17º, 23º e 28º, aditado um art. 14º-A e revogados o nº 2 do art. 7º e o nº\
+    \ 4 do art. 28º pela PORT.457/2008.20.06.2008.MJ, DR.IS [118] de 20.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/457-2008-449919
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:444233:por
+  label: "Alterados os arts. 1.º(na redacção da Port 457/2008 de 20-Jun), 3.º, 4.º e 5.º, aditados os arts 14.º-B, 14.º-C,\
+    \ 21.º-A, 21.º-B e 21.º-C, introduzido um novo capítulo v, denominado «Notificações», que abrange os artigos 21.º-A a\
+    \ 21.º-C, renumerados os capítulos seguintes, revogado o art. 9.º, todos do presente diploma, republicado com a redacção\
+    \ actual pela PORT.1538/2008.30.12.2008.MJ, DR.IS [251] de 30.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1538-2008-444233
+  date: '2008-12-30'
+- type: amended_by
+  target: pt:dre:333331:por
+  label: "Dada nova redacção ao art. 6º da Port 1538/2008 de 30-Dez (que alterou e republicou o presente diploma) pela PORT.458-B/2009.04.05.2009.MJ,\
+    \ DR.IS [85-Supl] de 04.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-b-2009-333331
+  date: '2009-05-04'
+- type: amended_by
+  target: pt:dre:488507:por
+  label: "Alterada a redacção do art. 6.º da Port 1538/2008, de 30-Dez, que alterou e republicou o presente diploma, pela\
+    \ PORT.975/2009.01.09.2009.MJ, DR.IS [169] de 01.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/975-2009-488507
+  date: '2009-09-01'
+- type: amended_by
+  target: pt:dre:452529:por
+  label: "Dada nova redacção ao art. 6º da Port 1538/2008 de 30-Dez, que alterou e republicou o presente diploma, pela PORT.65-A/2010.29.01.2010.MJ,\
+    \ DR.IS [20-Supl] de 29.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/65-a-2010-452529
+  date: '2010-01-29'
+- type: amended_by
+  target: pt:dre:679777:por
+  label: "Alterados, a partir de 12.04.2010, os arts. 1º (com a redacção constante das Port 457/2008 de 20-Jun e 1538/2008\
+    \ de 30-Dez), 2º (com a redacção constante da Port 457/2008 de 20-Jun), 3º (com a redacção constante da Port 1538/2008\
+    \ de 30-Dez), 15º e 19º, aditados, a partir da mesma data, os arts. 25º-A, 25º-B, 25º-C e 25º-D, compreendidos num novo\
+    \ cap. IX, denominado “Disposições específicas aplicáveis aos processos de competência dos tribunais ou juízos de execução\
+    \ das penas”, e renumerados os caps. seguintes em conformidade, tudo pela PORT.195-A/2010.08.04.2010.MJ, DR.IS [68-Supl]\
+    \ de 08.04.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/195-a-2010-679777
+  date: '2010-04-08'
+- type: amended_by
+  target: pt:dre:334586:por
+  label: "Alterados os arts. 2.º (na redacção das Ports 457/2008 de 20-Jun e 195-A/2010 de 08-Abr) 4.º (na redacção da Port\
+    \ 1538/2008 de 30-Dez) e 23.º (na redacção da Port 457/2008 de 20-Jun), todos do presente diploma, pela PORT.471/2010.08.07.2010.MJ,\
+    \ DR.IS [131] de 08.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/471-2010-334586
+  date: '2010-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/2006/06/08/p/dre
   label: null
@@ -120,16 +169,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/642/2004/06/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/642/2004/06/16/p/dre
+- type: cites
+  target: pt:dre:273203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551199:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499513:por
+  label: "Revogada, a partir de 01.09.2013, pela PORT.280/2013.26.08.2013.MJ, DR.IS [163] de 26.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/280-2013-499513
+  date: '2013-08-26'
 article_structure:
   article_count: 30
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:09Z'
   warnings: []
   errors: []
 ---

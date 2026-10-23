@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/11/227a00/67396739.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2005/11/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2005-481730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f02da207b769ea4c574889c2c0bbe6cdd0df8da6273e0817ce8ef2435bc4ccb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3873a33031a419a84efce9c1b656d8c0ef69ee9724f5541183def52b6e9c7f79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,21 @@ reuse:
 subjects:
 - Capital Social
 - Empresa Pública Regional
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Serviço Regional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:178530:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449933:por
+  label: "Alterado o art. 2º do regime e orgânica do Serviço Regional de Saúde, aprovado pelo DLR 9/2003/M, de 27-Mai, na\
+    \ redacção do presente diploma, republicado no anexo I, pelo DLR.23/2008/M.23.06.2008.AL-RAM, DR.IS [119] de 23.06.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/23-2008-449933
+  date: '2008-06-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/9/2003/05/27/m/dre
   label: null
@@ -92,16 +99,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178530:por
+  label: Revogado pelo DLR.12/2012/M.02.07.2012.AL-RAM, DR.IS [126] de 02.07.2012
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2012-178530
+  date: '2012-07-02'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:32Z'
   warnings: []
   errors: []
 ---
@@ -150,10 +178,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 25 de Outubro de 2005.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 14 de Novembro de 2005.**
+Assinado em 14 de Novembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

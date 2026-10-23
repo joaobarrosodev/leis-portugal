@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00200/0008200087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/9/2008/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-2008-386795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba4960a4e9512ff932132d48e4afef26839a0e25b36a7ff75dc90a6d94157c1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97ffb4e935ccb98bb3304939c6ef9580a831a5aebc9bbe7707048cc629373334
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,25 +76,25 @@ subjects:
 - Centro Nacional de Pensões
 - Complemento por Dependência
 - Complemento Social de Pensão
+- Doença Profissional
 - IAS
+- Incapacidade Física
+- Incapacidade Permanente
 - Invalidez
-- Trabalhador Rural
-- Reforma Antecipada
 - Pensão de Aposentação
 - Pensão de Invalidez
+- Pensão de Reforma
 - Pensão de Sobrevivência
 - Pensão de Velhice
-- Pensão de Reforma
-- Doença Profissional
+- Pensão Extraordinária
 - Pensão por Morte
 - Pensão Social
 - Pensão Unificada
 - Prestações da Segurança Social
-- Incapacidade Física
-- Pensão Extraordinária
+- Reforma Antecipada
 - Remuneração
 - Segurança Social
-- Incapacidade Permanente
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:443953:por
@@ -140,16 +140,81 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1357-a/2006/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1357-a/2006/11/30/p/dre
+- type: cites
+  target: pt:dre:163242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692186:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443953:por
+  label: "Revogada, a partir de 29.12.2008, pela PORT.1514/2008.24.12.2008.MFAP, DR.IS [248] de 24.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1514-2008-443953
+  date: '2008-12-24'
 article_structure:
   article_count: 27
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:08Z'
   warnings: []
   errors: []
 ---
@@ -248,7 +313,7 @@ c) 1,65 % para as pensões de montante superior a (euro) 2444,46, sem prejuízo 
 
 2 - Aos pensionistas de invalidez e de velhice do regime geral com carreira contributiva relevante para a taxa de formação da pensão igual ou superior a 15 anos são garantidos os valores mínimos de pensão constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00200/0008200087.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00200/0008200087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00200/0008200087.pdf)
 
 3 - Os valores mínimos fixados nos n.os 1 e 2 deste artigo:
 
@@ -384,12 +449,12 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 2008.
 
 Em 17 de Dezembro de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.
 
 ## ANEXO I — Indexação ao IAS das pensões e de outras prestações sociais a que se refere o n.º 4 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00200/0008200087.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00200/0008200087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00200/0008200087.pdf)
 
 ## ANEXO II — Coeficientes de actualização de pensões para efeitos de cúmulo a que se refere o artigo 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00200/0008200087.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00200/0008200087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00200/0008200087.pdf)

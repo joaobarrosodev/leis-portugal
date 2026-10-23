@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2010/02/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2010-609621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c684ac26cf700e98f09c9a43148a31ada36f66478ed3bbcfcae34d12718e24c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18d1e4076258c6b40db8c248b078e58fd09708f8919f381843a5ac82e60efc9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regime do Contrato de Trabalho em Funções Públicas
+- Açores
 - Complemento Regional de Pensão
-- Remuneração Complementar Regional
 - Pensionista
 - Proteção Social
+- Regime do Contrato de Trabalho em Funções Públicas
 - Regime Jurídico
+- Remuneração Complementar Regional
 - Segurança Social
-- Trabalhador do Serviço Doméstico
-- Açores
 - Trabalhador com Contrato de Trabalho em Funções Públicas
+- Trabalhador do Serviço Doméstico
 relationships:
 - type: amended_by
   target: pt:dre:73070297:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670538:por
+  label: "Declarada, com força obrigatória geral, a ilegalidade (por violação do disposto no nº 2 do art. 127º do Estatuto\
+    \ Político-Administrativo da Região Autónoma dos Açores) dos nºs 1 e 2 do art. 7º do DLR 26/2008/A, de 24-Jul, republicado\
+    \ pelo presente diploma, pelo AC.265/2011.27.06.2011.TCS, DR.IS [121] de 27.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/265-2011-670538
+  date: '2011-06-27'
+- type: amended_by
+  target: pt:dre:544588:por
+  label: "Aumentado em 3,5% o montante da remuneração complementar regional para o ano de 2012; e dada nova redação às als.\
+    \ a) e b) do nº 2 do art. 11º do DLR 8/2002/A de 10-Abr, alterado e republicado pelo presente diploma, pelo DLR.3/2012/A.13.01.2012.AL-RAA,\
+    \ DR.IS [10] de 13.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2012-544588
+  date: '2012-01-13'
+- type: amended_by
+  target: pt:dre:570685:por
+  label: "Aumentado em 2% o valor do complemento regional de pensão, fixando em € 728 o apoio atribuído anualmente aos beneficiários\
+    \ do 1.º escalão; dada nova redação aos arts. 9.º, 10.º, 11.º e 13.º; e aditado um anexo ao DLR 8/2002/A de 10-abr, alterado\
+    \ e republicado pelo presente diploma, pelo DLR.2/2014/A.29.01.2014.AL-RAA, DR.IS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2014-570685
+  date: '2014-01-29'
+- type: amended_by
+  target: pt:dre:59077887:por
+  label: Dada nova redação aos arts. 10.º - a nova redação do nº 2 deste art. produz efeitos a partir de 01.10.2014, e 11.º
+    ambos do DLR 8/2002/A de 10-abr, alterado e republicado pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º
+    22/2014/A - Diário da República n.º 230/2014, Série I de 2014-11-27, que procedeu novamente à sua republicação com todas
+    as alterações.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2014-59077887
+  date: '2014-11-27'
+- type: amended_by
+  target: pt:dre:66880175:por
+  label: Alterados os arts. 10.º e 11.º do DLR 8/2002/A de 10-abr, na redação do presente diploma pelo(a) Decreto Legislativo
+    Regional n.º 8/2015/A - Diário da República n.º 62/2015, Série I de 2015-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2015-66880175
+  date: '2015-03-30'
+- type: amended_by
+  target: pt:dre:73070297:por
+  label: Alterado o n.º 2 do art. 10.º do DLR 8/2002/A, de 10-abr, com a redação dada pelo presente diploma, pelo(a) Decreto
+    Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2016-73070297
+  date: '2016-01-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2000/01/12/a/dre
   label: null
@@ -113,16 +154,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/32/1995/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/32/1995/01/13/p/dre
+- type: cites
+  target: pt:dre:146939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629104:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 19
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:13Z'
   warnings: []
   errors: []
 ---
@@ -157,11 +230,15 @@ Os artigos 2.º, n.º 1, 10.º, 11.º, n.os 2 e 4, 12.º e 13.º, n.º 1, do [De
 
 3 - ...
 
-###### Artigo 10.º — Beneficiários
+Artigo 10.º
+
+Beneficiários
 
 Beneficiam da remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional e local da Região Autónoma dos Açores e cuja remuneração seja igual ou inferior a (euro) 1304.
 
-###### Artigo 11.º — Montante
+Artigo 11.º
+
+Montante
 
 1 - ...
 
@@ -193,11 +270,15 @@ l) 25 % para aqueles cuja remuneração esteja compreendida entre (euro) 1216 e 
 
 4 - Os montantes a que se referem as alíneas do n.º 2 do presente artigo e do artigo anterior serão actualizados anualmente em percentagem idêntica à que vier a ser fixada na tabela remuneratória única para o aumento dos trabalhadores que exercem funções públicas, sendo objecto de publicação na resolução a que se refere o artigo 13.º do presente diploma.
 
-###### Artigo 12.º — Aplicação do montante relativo ao acréscimo regional à retribuição mínima mensal garantida
+Artigo 12.º
+
+Aplicação do montante relativo ao acréscimo regional à retribuição mínima mensal garantida
 
 Qualquer trabalhador que tenha direito à remuneração complementar e que em resultado da aplicação das regras referidas no artigo anterior aufira uma remuneração global inferior ao resultante do montante referido no artigo 3.º passa a perceber um montante pecuniário a este idêntico.
 
-###### Artigo 13.º — Actualização de montantes
+Artigo 13.º
+
+Actualização de montantes
 
 1 - Os montantes do complemento regional de pensão e da remuneração complementar regional a que se referem, respectivamente, o n.º 1 do artigo 6.º e o n.º 1 do artigo 11.º do presente diploma são fixados e actualizados anualmente mediante resolução do Conselho do Governo, com efeitos a partir de 1 de Janeiro de cada ano, tendo em conta, designadamente, os valores previstos para a inflação, não podendo, no entanto, aquelas actualizações ser inferiores ao aumento percentual que vier a ser fixado para tabela remuneratória única dos trabalhadores que exercem funções públicas.
 
@@ -217,11 +298,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de Janeiro de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 5 de Fevereiro de 2010.**
+Assinado em Angra do Heroísmo em 5 de Fevereiro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

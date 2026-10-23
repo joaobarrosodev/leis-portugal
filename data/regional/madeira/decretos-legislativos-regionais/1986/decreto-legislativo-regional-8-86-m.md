@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 134/1986, 1º Suplemento, Série I de 1986-06-14
   number: '134'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1406-(10) a 1406-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13401/00100012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1986-569901
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f6ac8eda2580e0e52e6961e43993a0a2a38e0137f252d5580b818e06e884260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d02e36cb2e3c5468a500bc15cd96de2595c23e93b6cc51282251db5b8d290de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:612467:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615007:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612467:por
+  label: "Revogado pelo DLR.6/89/M.30.12.1988.ARM, DR.IS [41] de 18.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-1989-612467
+  date: '1988-12-30'
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:10Z'
   warnings: []
   errors: []
 ---
@@ -246,10 +274,10 @@ Após a entrada em vigor dos diplomas referidos no n.º 4 do artigo 4.º deste d
 
 Aprovado em sessão plenária em 29 de Abril de 1986.
 
-**O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 26 de Maio de 1986.**
+Assinado em 26 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

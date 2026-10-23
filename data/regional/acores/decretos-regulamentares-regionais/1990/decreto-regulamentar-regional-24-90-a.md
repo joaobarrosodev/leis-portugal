@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/17500/31433143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1990-573286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df6eb3c68b6b1d3e113797836ad60835bfb8611ea518f3ccf8d9552e390f9137
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00aa12bfced08498e7aa47f899ec453a7e6caef9bc02aefd71ef2fe533b9c5a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Molusco
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:553893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:275983:por
+  label: "Prorrogadada, até 31.07.1993, a vigência do Decreto Regulamentar Regional 23/89/A, de 26 de Julho, alterada no presente\
+    \ diploma, pelo DRR.32-A/92/A.31.07.1992.GR-RAA, DR.IS-B [175]2ºSupl de 31.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-a-1992-275983
+  date: '1992-07-31'
+- type: cites
+  target: pt:dre:373630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610965:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:38Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +126,9 @@ Atendendo, porém, à situação da população das lapas nas ilhas do grupo oci
 
 Assim, ao abrigo do disposto no artigo 85.º-A do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de Julho, alterado pelo [Decreto Regulamentar n.º 3/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), de 28 de Janeiro, e em execução dos artigos 3.º e 5.º, n.º 1, do [Decreto Legislativo Regional n.º 27/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-1984-373630), de 1 de Setembro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º E prorrogada até 31 de Julho de 1991 a vigência do [Decreto Regulamentar Regional n.º 23/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-430195), de 26 de Julho, passando o artigo 1.º a ter a seguinte redacção:
+Artigo 1.º E prorrogada até 31 de Julho de 1991 a vigência do [Decreto Regulamentar Regional n.º 23/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-430195), de 26 de Julho, passando o artigo 1.º a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - É proibida a apanha dos moluscos univalves, vulgarmente conhecidos por lapas, em todas as ilhas da Região Autónoma dos Açores, qualquer que seja o fim a que se destinem, assim como a sua comercialização sob qualquer forma.
+Artigo 1.º - 1 - É proibida a apanha dos moluscos univalves, vulgarmente conhecidos por lapas, em todas as ilhas da Região Autónoma dos Açores, qualquer que seja o fim a que se destinem, assim como a sua comercialização sob qualquer forma.
 
 2 - Exceptua-se do disposto no número anterior:
 
@@ -106,16 +136,16 @@ a) A apanha de lapas nas ilhas do grupo ocidental sem fins comerciais;
 
 b) A apanha para fins científicos, que ficará dependente de autorização a conceder pelo Secretário Regional da Agricultura e Pescas.
 
-###### Art. 2.º É revogado o artigo 4.º do [Decreto Regulamentar Regional n.º 23/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-430195), de 26 de Julho.
+Art. 2.º É revogado o artigo 4.º do [Decreto Regulamentar Regional n.º 23/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-430195), de 26 de Julho.
 
-###### Art. 3.º O presente diploma entra em vigor no dia 1 de Agosto de 1990 e caduca a 31 de Julho do próximo ano.
+Art. 3.º O presente diploma entra em vigor no dia 1 de Agosto de 1990 e caduca a 31 de Julho do próximo ano.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 4 de Julho de 1990.
 
-**O Presidente do Governo Regional, em exercício, Carlos Henrique da Costa Neves.**
+O Presidente do Governo Regional, em exercício, Carlos Henrique da Costa Neves.
 
-**Assinado em Angra do Heroísmo em 18 de Julho de 1990.**
+Assinado em Angra do Heroísmo em 18 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

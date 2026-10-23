@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/02/04600/07650766.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1990-332933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1f2ff25bed9f3793f5d6e67d936f46e951cf412aae71588d93f7387a30b68f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81e23c821b0c423ef43bc7c48c77702348191d7c9d494c684e096d7ed0184979
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Carreira Médica
+- Estabelecimento Hospitalar
+- Médico
+- Ponta Delgada
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:545978:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:495707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662335:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545978:por
+  label: "Revogado pelo DRR.17/96/A.27.02.1996.SRSSS-RAA, DR.IS-B [73] de 26.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1996-545978
+  date: '1996-02-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:42Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +115,18 @@ Pretendendo-se agora recrutar pessoal médico daquela especialidade, tornar-se n
 
 Assim, em execução do artigo 31.º do Decreto Regional n.º 32/80/A, de 11 de Dezembro, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo único. Ao quadro de pessoal do Hospital de Ponta Delgada, aprovado pelo [Decreto Regulamentar Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1987-662335), de 24 de Março, com as alterações que lhe foram introduzidas pelos Decretos Regulamentares Regionais n.os [28/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1987-495707) e [35/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1989-549799), de 12 de Setembro e 13 de Novembro, respectivamente, é aditado um lugar da carreira médica hospitalar, de acordo com o mapa anexo ao presente diploma, do qual faz parte integrante.
+Artigo único. Ao quadro de pessoal do Hospital de Ponta Delgada, aprovado pelo [Decreto Regulamentar Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1987-662335), de 24 de Março, com as alterações que lhe foram introduzidas pelos Decretos Regulamentares Regionais n.os [28/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1987-495707) e [35/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1989-549799), de 12 de Setembro e 13 de Novembro, respectivamente, é aditado um lugar da carreira médica hospitalar, de acordo com o mapa anexo ao presente diploma, do qual faz parte integrante.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de Dezembro de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 6 de Fevereiro de 1990.**
+Assinado em Angra do Heroísmo em 6 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Mapa a que se refere o artigo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04600/07650766.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04600/07650766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04600/07650766.pdf)

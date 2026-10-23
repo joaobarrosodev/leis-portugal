@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/204/2009/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/204-2009-602030
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34881e3202597e50f15ec3e02f2ca6f8aa88a6bfa3023fdcf78a4e54b9d6d60f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6b8f52e05c30fd082ba3f9c0408919ed316530d924ee0dc64a150fdd4c4e73c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cabeleireiro
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
 - Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
 - Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
@@ -79,16 +79,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:46Z'
   warnings: []
   errors: []
 ---

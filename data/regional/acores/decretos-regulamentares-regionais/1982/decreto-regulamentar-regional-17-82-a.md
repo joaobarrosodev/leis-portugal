@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1982-607325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d4ad19e1b73a7ac7f44f32e0b49e4e8a0e0a1d1c511d4473a4e9a1d2e904c89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10da5f659c5c344d13842a00b94a62785f580d825806b37eaad90bc54db06837
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Escola de Enfermagem
+- Ponta Delgada
 relationships:
 - type: amended_by
   target: pt:dre:420218:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420218:por
+  label: "Substituído o quadro de pessoal pelo DRR.20/87/A.19.06.1987.GR-RAA, DR.IS [158] de 13.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1987-420218
+  date: '1987-06-19'
+- type: cites
+  target: pt:dre:388990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691848:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:39Z'
   warnings: []
   errors: []
 ---
@@ -90,24 +114,24 @@ Em execução do disposto no n.º 1 do artigo 2.º do [Decreto Regulamentar Regi
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o quadro de pessoal da Escola de Enfermagem de Ponta Delgada anexo ao presente diploma, que substitui os quadros da mesma Escola, aprovados pelas Portarias n.os [596/72](https://diariodarepublica.pt/dr/detalhe/portaria/596-1972-691848) e [597/72](https://diariodarepublica.pt/dr/detalhe/portaria/597-1972-691845), de 10 de Outubro.
+Artigo 1.º É aprovado o quadro de pessoal da Escola de Enfermagem de Ponta Delgada anexo ao presente diploma, que substitui os quadros da mesma Escola, aprovados pelas Portarias n.os [596/72](https://diariodarepublica.pt/dr/detalhe/portaria/596-1972-691848) e [597/72](https://diariodarepublica.pt/dr/detalhe/portaria/597-1972-691845), de 10 de Outubro.
 
-###### Art. 2.º Exceptua-se do artigo anterior o sector de enfermeiros docentes, cuja situação será objecto de revisão posterior, em conformidade com o [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
+Art. 2.º Exceptua-se do artigo anterior o sector de enfermeiros docentes, cuja situação será objecto de revisão posterior, em conformidade com o [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
 
-###### Art. 3.º A colocação do pessoal do serviço nos lugares do presente quadro será feita mediante lista nominativa, aprovada por despacho dos Secretários Regionais dos Assuntos Sociais e da Administração Pública, independentemente de quaisquer formalidades, salvo a respectiva publicação.
+Art. 3.º A colocação do pessoal do serviço nos lugares do presente quadro será feita mediante lista nominativa, aprovada por despacho dos Secretários Regionais dos Assuntos Sociais e da Administração Pública, independentemente de quaisquer formalidades, salvo a respectiva publicação.
 
 Aprovado em Conselho do Governo Regional em 25 de Fevereiro de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 22 de Março de 1982.**
+Assinado em Angra do Heroísmo em 22 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Tomás George Conceição Silva.**
+O Ministro da República, Tomás George Conceição Silva.
 
 Quadro de pessoal da Escola de Enfermagem de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/08600/08890890.pdf))](https://files.diariodarepublica.pt/1s/1982/04/08600/08890890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/08600/08890890.pdf)
 
 Nota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 500$00 mensais para falhas.

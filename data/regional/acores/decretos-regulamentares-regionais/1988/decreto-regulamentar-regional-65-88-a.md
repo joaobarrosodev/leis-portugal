@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/25000/43864386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/65-1988-358561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bcafd0f93b1aa53d8a85456ef1f03640d8818aadace799a9e10e9043759797b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3efc42c7ac88e449db23c47d177f2976c74017c36e827436d82740fc5c7e1d8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ilha do Pico
+- Medidas Preventivas
 relationships:
 - type: amended_by
   target: pt:dre:479598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:373241:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479598:por
+  label: "Revogado pelo DLR.29/2004/A.16.07.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2004-479598
+  date: '2004-07-16'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:17Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +102,9 @@ O elevado interesse da intervenção da Secretaria Regional da Educação e Cult
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição e da alínea c) do artigo 56.º do Estatuto da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, n.º 1, e 4.º do [Decreto Regulamentar Regional n.º 29/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1988-373241), de 12 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, n.º 1, e 4.º do [Decreto Regulamentar Regional n.º 29/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1988-373241), de 12 de Julho, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Durante o prazo de dois anos fica dependente de autorização da Secretaria Regional do Equipamento Social (SRES), ouvidos os serviços competentes da Secretaria Regional dos Transportes e Turismo (SRTT), da Secretaria Regional da Agricultura e Pescas (SRAP), da Secretaria Regional da Educação e Cultura (SREC) e da respectiva câmara municipal, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
+Artigo 1.º - 1 - Durante o prazo de dois anos fica dependente de autorização da Secretaria Regional do Equipamento Social (SRES), ouvidos os serviços competentes da Secretaria Regional dos Transportes e Turismo (SRTT), da Secretaria Regional da Agricultura e Pescas (SRAP), da Secretaria Regional da Educação e Cultura (SREC) e da respectiva câmara municipal, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
 
 a) ...
 
@@ -118,18 +130,18 @@ l) ...
 
 2 - ...
 
-###### Art. 4.º - 1 - No prazo de um ano a contar da publicação do presente diploma deverá ser elaborado por empresa da especialidade, a contratar para o efeito, o estudo da definição da área delimitada na planta anexa, bem como o respectivo projecto de ordenamento.
+Art. 4.º - 1 - No prazo de um ano a contar da publicação do presente diploma deverá ser elaborado por empresa da especialidade, a contratar para o efeito, o estudo da definição da área delimitada na planta anexa, bem como o respectivo projecto de ordenamento.
 
 2 - A supervisão e acompanhamento do estudo referido no número anterior ficará a cargo de um grupo de trabalho constituído por um representante da SRES, que presidirá, da SREC, da SRTT, da SRAP e das Câmaras Municipais da Madalena e de São Roque do Pico.
 
-###### Art. 2.º O presente diploma entra em vigor na data da sua publicação.
+Art. 2.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 6 de Setembro de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Outubro de 1988.**
+Assinado em Angra do Heroísmo em 11 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

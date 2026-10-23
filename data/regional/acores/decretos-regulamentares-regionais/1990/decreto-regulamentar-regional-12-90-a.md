@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06600/13871398.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1990-333294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98cc13458df72d0732725e1dfb3b31df22b1ebe4f11b5ec04f104f3ed327801d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75b6f0a53a627b875ffba3861aaf5ade6b34f19830b0feb3aadc7fedcb4a6d29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Estabelecimento Hospitalar
+- Gestão Hospitalar
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:522648:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298220:por
+  label: "Alterado o artigo 30.º pelo DRR.8/94/A.23.07.1994.GR-RAA, DR.IS-B [169] de 23.07.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1994-298220
+  date: '1994-07-23'
+- type: amended_by
+  target: pt:dre:515028:por
+  label: "Alterados os art 24º, 28º e 30º, na redacção do DRR 8/94/A de 21-Fev e aditado o art 31º-A, pelo DRR 4/97/A.1997.02.19.SREAS-RAA,\
+    \ DR.IS-B [59] de 11/Mar/1997\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1997-515028
+  date: '1997-02-19'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522648:por
+  label: "Revogado pelo DLR.2/2007/A.18.12.2006.AL-RAA, DR.IS [17] de 24.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2007-522648
+  date: '2006-12-18'
 article_structure:
-  article_count: 63
+  article_count: 64
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:35Z'
   warnings: []
   errors: []
 ---
@@ -486,7 +538,9 @@ f) Colaborar com o director clínico do hospital e com os restantes órgãos ou 
 
 g) Colaborar com o director clínico na compatibilização dos planos de acção dos serviços de acção médica.
 
-##### SUBSECÇÃO III — Artigo 32.º
+##### SUBSECÇÃO III
+
+###### Artigo 32.º
 
 Reuniões conjuntas dos órgãos de direcção técnica
 
@@ -928,10 +982,10 @@ Em tudo quanto não se encontre regulado neste diploma aplica-se o Estatuto Hosp
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 4 de Janeiro de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Fevereiro de 1990.**
+Assinado em Angra do Heroísmo em 16 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

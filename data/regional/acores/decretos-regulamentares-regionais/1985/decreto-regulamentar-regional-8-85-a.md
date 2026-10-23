@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1985-151567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1dfd49e71f15535df31600a93aa81b1eb2630204f9f5ead8362b12a16bea3f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f37dccb716a23d74267ef20adc008f417bb1e9031175d7ab4fdde9824d0ace3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Conselho de Administração
+- Estabelecimento Hospitalar
+- Horta
+- Ponta Delgada
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:252027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451001:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:27Z'
   warnings: []
   errors: []
 ---
@@ -90,14 +105,14 @@ No entanto nada refere no que concerne à remuneração a atribuir ao técnico d
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. O técnico dos serviços de instalação e equipamento ou quem na sua falta o substitua no conselho de gerência aufere o vencimento correspondente a director de serviços.
+Artigo único. O técnico dos serviços de instalação e equipamento ou quem na sua falta o substitua no conselho de gerência aufere o vencimento correspondente a director de serviços.
 
 Aprovado em Conselho do Governo Regional em 25 de Março de 1985.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Maio de 1985.**
+Assinado em Angra do Heroísmo em 3 de Maio de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/04/076b00/30293031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2005/04/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2005-548427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5bef7d33945d7fb17e3eedf8e28f1d4df1f91496bc8bfacc95685a92428676a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7b9e15b8f5cfb007f6c74b83ec2438e4b1536da75cd48ff372ffd841cf67739
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Bolsa de Estudos
+- Ensino Médico
+- Ensino Superior
+- Estudante
+- Licenciatura
 - Medicina
 - Médico
-- Ensino Médico
-- Estudante
 - Recrutamento de Pessoal
-- Licenciatura
 - Regulamento
-- Ensino Superior
-- Bolsa de Estudos
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:673446:por
@@ -89,16 +89,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/58/1998/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/58/1998/02/06/p/dre
+- type: cites
+  target: pt:dre:230360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:673446:por
+  label: "Revogado pelo DLR.15/2011/A.30.05.2011.AL-RAA, DR.IS [104] de 30.05.2011, sem prejuízo do disposto no art. 18º\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2011-673446
+  date: '2011-05-30'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:01Z'
   warnings: []
   errors: []
 ---
@@ -133,13 +147,13 @@ Os bolseiros que, à data de entrada em vigor do presente diploma, beneficiem de
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de Março de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 4 de Abril de 2005.**
+Assinado em Angra do Heroísmo em 4 de Abril de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 REGULAMENTO DO REGIME DE CONCESSÃO DE BOLSA DE ESTUDOS PARA A FREQUÊNCIA DO CURSO DE LICENCIATURA EM MEDICINA.
 

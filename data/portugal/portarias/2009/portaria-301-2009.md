@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/05800/0185801860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/301/2009/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/301-2009-605504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 273bc052b87dfc94cde0c6e06756c1360dc8ddea57bcfe6c7d381ddfeae5f98c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f86ec4bd58808df457cdadff34d68f5e4d43f92c964c0946ba933c47d92d5991
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cheque
-- Direção Geral da Saúde
-- Consulta Médica
-- Estomatologia
-- Política de Saúde
-- Pagamento
-- Programa Nacional de Promoção da Saúde ORAL
-- Odontologia
-- Página na Internet
-- Medicina Dentária
-- Cuidados Médicos
-- Saúde ORAL
 - Autarquia Local
+- Cheque
+- Consulta Médica
+- Cuidados Médicos
+- Direção Geral da Saúde
+- Estomatologia
+- Medicina Dentária
+- Odontologia
+- Pagamento
+- Página na Internet
+- Política de Saúde
+- Programa Nacional de Promoção da Saúde ORAL
+- Saúde ORAL
 - Utente
 relationships:
 - type: amended_by
   target: pt:dre:229915934:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3293331:por
+  label: Alargado aos utentes infectados com o vírus do VIH/SIDA o Programa Nacional de Promoção da Saúde Oral pelo(a) Despacho
+    n.º 16159/2010 - Diário da República n.º 208/2010, Série II de 2010-10-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/16159-2010-3293331
+  date: '2010-10-26'
+- type: amended_by
+  target: pt:dre:163851447:por
+  label: Alargado, a todas as crianças com idade de 4 anos e a todos os jovens com idades compreendidas entre os 7 e os 18
+    anos, independentemente da escola ou instituição que frequentem, o Programa Nacional de Promoção de Saúde Oral pelo(a)
+    Despacho n.º 5201/2021 - Diário da República n.º 100/2021, Série II de 2021-05-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/5201-2021-163851447
+  date: '2021-05-24'
+- type: cites
+  target: pt:dre:3484128:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229915934:por
+  label: Revogada a partir de 13.12. 2023 pelo(a) Portaria n.º 430/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12,
+    nos termos do artigo 22.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/430-2023-229915934
+  date: '2023-12-12'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:21Z'
   warnings: []
   errors: []
 ---

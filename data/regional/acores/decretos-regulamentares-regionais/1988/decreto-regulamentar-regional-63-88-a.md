@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/63-1988-354480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e116e64611bacbcc87862890bef5509760d5dc843007516a1a72852323cebd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f5d215192affe9b126008a7ff2f0654cf499ba01f0e11a6a251375d6abe455b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- CAÇA
+- Carta de Caçador
 relationships:
 - type: amended_by
   target: pt:dre:333542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:660527:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333542:por
+  label: "Revogado pelo DLR.3/90/A.18.01.1990.ALR-RAA, DR.IS [15] de 18.01.1990, com efeito à data da entrada em vigor da\
+    \ regulamentação prevista no seu art. 38.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1990-333542
+  date: '1990-01-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:16Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +107,14 @@ Considerando que, nos termos do artigo 59.º do [Decreto Legislativo Regional n.
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. Para efeito da concessão da carta de caçador, os funcionários ou agentes da Assembleia Regional e do Governo Regional, dos institutos públicos regionais, das autarquias locais da Região e dos serviços do Estado na Região, ainda que o sejam a título precário, em regime de requisição ou comissão de serviço, estão dispensados da apresentação de certidão de registo criminal, que será substituída por declaração do teor da certidão de registo criminal arquivada no processo individual respectivo, subscrita pelo dirigente do serviço encarregue da conservação e actualização daquele processo.
+Artigo único. Para efeito da concessão da carta de caçador, os funcionários ou agentes da Assembleia Regional e do Governo Regional, dos institutos públicos regionais, das autarquias locais da Região e dos serviços do Estado na Região, ainda que o sejam a título precário, em regime de requisição ou comissão de serviço, estão dispensados da apresentação de certidão de registo criminal, que será substituída por declaração do teor da certidão de registo criminal arquivada no processo individual respectivo, subscrita pelo dirigente do serviço encarregue da conservação e actualização daquele processo.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 19 de Julho de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Outubro de 1988.**
+Assinado em Angra do Heroísmo em 3 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

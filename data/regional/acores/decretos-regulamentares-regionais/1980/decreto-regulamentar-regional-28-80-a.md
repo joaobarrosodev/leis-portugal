@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1980-473169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12827dc306f849991c229cd6ca58b8fb19e307ec250ee744001e350036152211
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 076aab548da9497ea40acbfd8e641254cf631eeb52461ad9b119f49971c57a3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Financiamento
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:542440:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365964:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:542440:por
+  label: "Revogado, nos termos do art. 72º, pelo DLR.7/2012/A.01.03.2012.AL-RAA, DR.IS [44] de 01.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2012-542440
+  date: '2012-03-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:09Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +106,17 @@ Em execução do [Decreto Regional n.º 28/79/A](https://diariodarepublica.pt/dr
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os incentivos à indústria turística criados pelo [Decreto Regional n.º 28/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/28-1979-365963), de 20 de Dezembro, serão suportados por conta das verbas inscritas no programa de apoio à indústria turística e destinar-se-ão:
+Artigo 1.º Os incentivos à indústria turística criados pelo [Decreto Regional n.º 28/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/28-1979-365963), de 20 de Dezembro, serão suportados por conta das verbas inscritas no programa de apoio à indústria turística e destinar-se-ão:
 
 a) À concessão de empréstimos para a construção, ampliação ou adaptação de edifícios ou parte deles e seu apetrechamento, com destino a estabelecimentos hoteleiros e similares, bem como a meios complementares de alojamento turístico;
 
 b) À concessão de empréstimos para realização de outros empreendimentos considerados de interesse para o turismo.
 
-###### Art. 2.º - 1 - Os estabelecimentos a que se refere a alínea a) do artigo 1.º deverão possuir prévia declaração de interesse para o turismo.
+Art. 2.º - 1 - Os estabelecimentos a que se refere a alínea a) do artigo 1.º deverão possuir prévia declaração de interesse para o turismo.
 
 2 - Se, porém, correr concomitantemente o processo de declaração de ou sem interesse para o turismo, os elementos demonstrativos desse processo serão aproveitados para o processo de obtenção do apoio a que se refere este diploma.
 
-###### Art. 3.º O requerimento do pedido de apoio financeiro, a dirigir ao Secretário Regional dos Transportes e Turismo, deverá conter, obrigatoriamente, as seguintes especificações:
+Art. 3.º O requerimento do pedido de apoio financeiro, a dirigir ao Secretário Regional dos Transportes e Turismo, deverá conter, obrigatoriamente, as seguintes especificações:
 
 a) Firma ou denominação social do requerente, seu domicílio ou sede;
 
@@ -114,7 +130,7 @@ e) Indicação das garantias oferecidas, com declaração de anuência, quanto �
 
 f) Indicação de todos os documentos que o acompanharem.
 
-###### Art. 4.º - 1 - A Direcção Regional de Turismo, em caso de faltarem elementos que deviam dar entrada com o requerimento inicial, fixará ao interessado um prazo razoável para suprir a deficiência verificada.
+Art. 4.º - 1 - A Direcção Regional de Turismo, em caso de faltarem elementos que deviam dar entrada com o requerimento inicial, fixará ao interessado um prazo razoável para suprir a deficiência verificada.
 
 2 - A Direcção Regional de Turismo poderá ainda solicitar ao requerente outros elementos com vista a uma apreciação mais criteriosa, assinalando para o efeito um prazo razoável.
 
@@ -122,34 +138,34 @@ f) Indicação de todos os documentos que o acompanharem.
 
 4 - Caberá dessa decisão recurso hierárquico, nos termos gerais de direito.
 
-###### Art. 5.º Se não ocorrerem motivos que determinem o arquivo do processo, o director regional de Turismo fá-lo-á presente, com informação sua, ao Secretário Regional.
+Art. 5.º Se não ocorrerem motivos que determinem o arquivo do processo, o director regional de Turismo fá-lo-á presente, com informação sua, ao Secretário Regional.
 
-###### Art. 6.º - 1 - O Secretário Regional dos Transportes e Turismo submeterá o processo a parecer do membro do Governo que tiver a seu cargo o Departamento de Planeamento, posto o que elaborará a sua informação com vista à decisão do Conselho.
+Art. 6.º - 1 - O Secretário Regional dos Transportes e Turismo submeterá o processo a parecer do membro do Governo que tiver a seu cargo o Departamento de Planeamento, posto o que elaborará a sua informação com vista à decisão do Conselho.
 
 2 - O parecer do responsável pelo Departamento de Planeamento, que se destina à apreciação da inserção das medidas financeiras propostas ao plano regional, considera-se dado se no prazo de trinta dias, a contar da emissão do seu pedido, não tiver sido recebida qualquer comunicação.
 
-###### Art. 7.º - 1 - Para efeitos de reembolso, a concessão do empréstimo a que se referem os artigos anteriores ficará dependente da prestação de garantia idónea.
+Art. 7.º - 1 - Para efeitos de reembolso, a concessão do empréstimo a que se referem os artigos anteriores ficará dependente da prestação de garantia idónea.
 
 2 - A garantia poderá ser prestada por qualquer das formas admitidas em direito.
 
 3 - Só poderão, porém, ser aceites segundas hipotecas quando a primeira tiver sido constituída a favor do Governo Regional ou de qualquer estabelecimento de crédito do Estado.
 
-###### Art. 8.º - 1 - O reembolso iniciar-se-á dentro dos primeiros dois anos, contados a partir da data da concessão do empréstimo, e escalonar-se-á em prestações não superiores a um ano.
+Art. 8.º - 1 - O reembolso iniciar-se-á dentro dos primeiros dois anos, contados a partir da data da concessão do empréstimo, e escalonar-se-á em prestações não superiores a um ano.
 
 2 - No caso de prorrogação do prazo, de harmonia com o disposto no n.º 4 do artigo 3.º do [Decreto Regulamentar Regional n.º 28/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1979-365964), de 20 de Dezembro, será feito novo escalonamento das prestações do reembolso em dívida.
 
-###### Art. 9.º - 1 - Durante o período em que o empréstimo não estiver completamente reembolsado a Secretaria Regional dos Transportes e Turismo, pela Direcção Regional de Turismo, procederá à supervisão da execução do empreendimento, a qual incluirá as inspecções que forem julgadas necessárias.
+Art. 9.º - 1 - Durante o período em que o empréstimo não estiver completamente reembolsado a Secretaria Regional dos Transportes e Turismo, pela Direcção Regional de Turismo, procederá à supervisão da execução do empreendimento, a qual incluirá as inspecções que forem julgadas necessárias.
 
 2 - Depois da entrada em funcionamento do empreendimento para o qual se concedeu o apoio, a supervisão referida no número anterior abrangerá os resultados económicos e financeiros, até ao completo reembolso.
 
-###### Art. 10.º As dúvidas que a interpretação e aplicação deste diploma suscitarem serão resolvidas por despacho do Secretário Regional dos Transportes e Turismo.
+Art. 10.º As dúvidas que a interpretação e aplicação deste diploma suscitarem serão resolvidas por despacho do Secretário Regional dos Transportes e Turismo.
 
 Aprovado pelo Governo Regional em 29 de Abril de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Junho de 1980.**
+Assinado em Angra do Heroísmo em 11 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

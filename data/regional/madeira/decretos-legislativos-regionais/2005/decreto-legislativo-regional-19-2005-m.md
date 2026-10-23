@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2005/11/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2005-481501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 519edd25fe09ab63dd2b2206f3e7e4e6b1775c445bdc5c45965203241b2de51b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1f3a748da62fd7c9e6bd3788b4f8584f7f2a941d956815ab5d97b34a7d044b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - AVAL do Estado
-- Fiscalização
 - Conselho do Governo Regional
-- Plano de Desenvolvimento Económico e Social
+- Fiscalização
+- Madeira.região Autónoma
 - Operações de Crédito
+- Plano de Desenvolvimento Económico e Social
 - Prazo
 - Privilégio Creditório
-- Madeira.região Autónoma
 - Regime Jurídico
 - Taxa
 relationships:
@@ -81,6 +81,24 @@ relationships:
   target: pt:dre:670489:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444240:por
+  label: "Alterado o art. 6º do DLR 24/2002/M de 23-Dez, na redação do presente diploma, pelo DLR.45/2008/M.31.12.2008.AL-RAM,\
+    \ DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/45-2008-444240
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:277585:por
+  label: "Dada nova redacção aos arts. 6º e 13º do DLR 24/2002/M de 23-Dez, alterado pelo presente diploma, pelo DLR.8/2011/M.01.04.2011.AL-RAM,\
+    \ DR.IS [65] de 01.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2011-277585
+  date: '2011-04-01'
+- type: amended_by
+  target: pt:dre:670489:por
+  label: "Dada nova redacção aos arts. 6º e 13º do DLR 24/2002/M de 23-Dez, alterado pelo presente diploma, pelo DLR.11/2011/M.06.07.2011.AL-RAM,\
+    \ DR.IS [128] de 06.07.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2011-670489
+  date: '2011-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2005/02/18/m/dre
   label: null
@@ -105,16 +123,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673642:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:31Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +213,9 @@ f) Operações de substituição de empréstimos não avalizados contraídos por
 
 3 - Apenas nos casos previstos nas alíneas c) e d) do número anterior, a garantia prestada pela Região poderá ser concedida para garantir operações tendentes a mero reforço de tesouraria da entidade beneficiária.
 
-###### Artigo 13.º — Utilização do crédito
+Artigo 13.º
+
+Utilização do crédito
 
 1 - ...
 
@@ -181,13 +229,13 @@ O [Decreto Legislativo Regional n.º 24/2002/M](https://diariodarepublica.pt/dr/
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de Outubro de 2005.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 14 de Novembro de 2005.**
+Assinado em 14 de Novembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/275a00/74547457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/37/2002/11/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2002-438728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 297caa8aad51e85e2f0cb18a86d901abbb233b457d6d588e4df84ddadea4270b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b098e39b6d512a594a08ce5ca039e98312ffb1a1ddf183320eaf47b8984ad01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Conselho Regional da ÁGUA
 - Orgânica
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:332688:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227670:por
+  label: "Alterados os arts, 2º, 4º e 10º pelo DLR.11/2005/A.19.05.2005.AL-RAA, DR.IS-A [112] de 14.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2005-227670
+  date: '2005-05-19'
 - type: cites
   target: celex:32000L0060
   label: null
   source: http://data.europa.eu/eli/dir/2000/60/oj
+- type: repealed_by
+  target: pt:dre:332688:por
+  label: "Revogado, a partir de 01.06.2010, pelo DLR.19/2010/A.25.05.2010.AL-RAA, DR.IS [101] de 25.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2010-332688
+  date: '2010-05-25'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:41Z'
   warnings: []
   errors: []
 ---
@@ -275,10 +285,10 @@ São revogadas as Resoluções n.os 180/99, de 16 de Dezembro, e 35/2000, de 2 d
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Outubro de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 11 de Novembro de 2002.**
+Assinado em Angra do Heroísmo em 11 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

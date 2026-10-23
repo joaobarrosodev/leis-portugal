@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/1995/10/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1995-664908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1d7f06a59b6859aa100b587dcb265fcb747593f51ab9352393c09863c019cc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 647dcac31d14aeb3103d67bef54948d4982c17cbc7c471d137d0634aca8b7e61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sistema Retributivo
+- Açores
 - Reestruturação de Carreiras
 - Remuneração
 - Secretaria Regional da Saúde e Segurança Social
-- Açores
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/23/1991/04/19/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/23/1991/04/19/p/dre
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592750:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:28Z'
   warnings: []
   errors: []
 ---
@@ -100,26 +112,26 @@ Por outro lado, importa, igualmente, proceder à fixação dos desenvolvimentos 
 
 Assim, e atentas as disposições do [Decreto-Lei n.º 276/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1978-329860), de 6 de Setembro, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Às carreiras e categorias existentes nos serviços de saúde dependentes da Secretaria Regional da Saúde e Segurança Social e não previstas no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, ou em legislação própria e ou complementar aplica-se a estrutura das renumerações base das carreiras e categorias de igual designação, constante dos anexos I, II e III do [Decreto Regulamentar n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1991-592750), de 19 de Abril.
+Artigo 1.º Às carreiras e categorias existentes nos serviços de saúde dependentes da Secretaria Regional da Saúde e Segurança Social e não previstas no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, ou em legislação própria e ou complementar aplica-se a estrutura das renumerações base das carreiras e categorias de igual designação, constante dos anexos I, II e III do [Decreto Regulamentar n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1991-592750), de 19 de Abril.
 
-###### Art. 2.º A estrutura das remunerações base das categorias de encarregado de estação termal, guarda de estação termal e maquinista de estação termal é a constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+Art. 2.º A estrutura das remunerações base das categorias de encarregado de estação termal, guarda de estação termal e maquinista de estação termal é a constante do mapa anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 3.º - 1 - A transição e integração na nova estrutura salarial das carreiras e categorias abrangidas pelo presente diploma faz-se de acordo com o previsto no [Decreto Regulamentar n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1991-592750), de 19 de Abril.
+Art. 3.º - 1 - A transição e integração na nova estrutura salarial das carreiras e categorias abrangidas pelo presente diploma faz-se de acordo com o previsto no [Decreto Regulamentar n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1991-592750), de 19 de Abril.
 
 2 - Em tudo o que não estiver especialmente regulado no [Decreto Regulamentar n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1991-592750), de 19 de Abril, e no presente diploma aplicam-se as disposições do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
-###### Art. 4.º O presente diploma produz efeitos desde 1 de Outubro de 1989.
+Art. 4.º O presente diploma produz efeitos desde 1 de Outubro de 1989.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 23 de Agosto de 1995.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 13 de Setembro de 1995.**
+Assinado em Angra do Heroísmo em 13 de Setembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/10/233b00/62146215.pdf))](https://files.diariodarepublica.pt/1s/1995/10/233b00/62146215.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/10/233b00/62146215.pdf)

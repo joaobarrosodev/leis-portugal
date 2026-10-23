@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/187/2007/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/187-2007-517658
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7eef6114ec53e7c503a9a851b1bd13d956f3e9dd52363716b4a258e40085f157
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e154960047e22c79377633dd72e7d84a626ad1d8284858ef9e82c0c85cc598de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
 - Definição de Competências
+- Gestão de Resíduos
 - Instituto Regulador de Águas e Resíduos
 - Plano Estratégico dos Resíduos Sólidos Urbanos
 - Política do Ambiente
@@ -120,16 +120,28 @@ relationships:
   target: celex:32006L0012
   label: null
   source: http://data.europa.eu/eli/dir/2006/12/oj
+- type: repealed_by
+  target: pt:dre:494002:por
+  label: "Revogado o nº 6.81 do Plano Estratégico para os Resíduos Sólidos Urbanos (PERSU II) pela PORT.851/2009.07.08.2009.MAOTDR,\
+    \ DR.IS [152] de 07.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/851-2009-494002
+  date: '2009-08-07'
+- type: repealed_by
+  target: pt:dre:56928479:por
+  label: Revogada a presente Portaria, pelo(a) Portaria n.º 187-A/2014 - Diário da República n.º 179/2014, 1º Suplemento,
+    Série I de 2014-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/187-a-2014-56928479
+  date: '2014-09-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:45Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +172,7 @@ A elaboração do PERSU II, instrumento que consubstancia a revisão das estrat�
 
 De acordo com o disposto no artigo 15.º do Decreto-Lei n.º 178/2006, de 5 de Setembro, o PERSU II estabelece as prioridades a observar no domínio dos RSU, as metas a atingir e acções a implementar e as regras orientadoras da disciplina a definir pelos planos multimunicipais, intermunicipais e municipais de acção.
 
-# Parte das orientações estratégicas definidas no PERSU II emanam do Plano de Intervenção de Resíduos Sólidos Urbanos e Equiparados (PIRSUE), aprovado pelo despacho n.º 454/2006 (2.ª série), de 9 de Janeiro, para fazer face ao atraso no cumprimento das metas europeias de reciclagem e valorização, no âmbito do qual foram diagnosticados os principais problemas inerentes à gestão dos RSU e identificados eixos de intervenção, medidas e acções a concretizar pelos diversos agentes do sector, com destaque para os sistemas plurimunicipais de gestão de RSU.
+Parte das orientações estratégicas definidas no PERSU II emanam do Plano de Intervenção de Resíduos Sólidos Urbanos e Equiparados (PIRSUE), aprovado pelo despacho n.º 454/2006 (2.ª série), de 9 de Janeiro, para fazer face ao atraso no cumprimento das metas europeias de reciclagem e valorização, no âmbito do qual foram diagnosticados os principais problemas inerentes à gestão dos RSU e identificados eixos de intervenção, medidas e acções a concretizar pelos diversos agentes do sector, com destaque para os sistemas plurimunicipais de gestão de RSU.
 
 O contributo dos planos de acção preparados no âmbito do PIRSUE, as directrizes comunitárias para a gestão de resíduos, os estudos de base incidindo sobre aspectos específicos como os impactes das tecnologias de tratamento de resíduos ao nível das emissões de gases com efeito de estufa, o sistema tarifário vigente e os custos associados aos diferentes modelos de gestão de RSU, bem como a realização de sessões de debate entre especialistas do sector, permitiram ao Instituto dos Resíduos (INR) elaborar uma sólida proposta de plano estratégico.
 
@@ -204,7 +216,7 @@ Manda o Governo, pelo Ministro do Ambiente, do Ordenamento do Território e do D
 
 4.º O PERSU II será reavaliado em 2010, tendo em vista a adopção de medidas de correcção caso se verifique essa necessidade, sem prejuízo de alterações que venham a ser determinadas pela aprovação do Plano Nacional de Gestão de Resíduos previsto no artigo 14.º do Decreto-Lei n.º 178/2006, de 5 de Setembro.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 28 de Dezembro de 2006.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 28 de Dezembro de 2006.
 
 PERSU II - PLANO ESTRATÉGICO PARA OS RESÍDUOS SÓLIDOS URBANOS (2007-2016)
 
@@ -330,7 +342,7 @@ PERSU II - PLANO ESTRATÉGICO PARA OS RESÍDUOS SÓLIDOS URBANOS (2007-2016)
 
 . Não se verificou a preconizada redução no ritmo de crescimento global da produção de RSU, apesar do mesmo se encontrar neste momento abaixo dos 3% ao ano previstos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 4 - Enquadramento estratégico, legislativo, científico e tecnológico
 
@@ -366,7 +378,7 @@ iii. Elaboração ou revisão de legislação referente a resíduos, incluindo a
 
 4.5 - Quer no decurso do que foi definido no 6.º Programa de Acção em Matéria de Ambiente, quer da legislação comunitária e de outros documentos enquadradores, a nível nacional ou comunitário, existem seis referências quadro relevantes pelos quais se deve reger a estratégia de gestão de RSU e onde se inscreve a presente revisão do PERSU - duas estratégias temáticas comunitárias de âmbito abrangente; uma estratégia e um plano de intervenção nacionais; e um documento de referência de enquadramento geral, ao nível da gestão de fundos comunitários (QREN).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 A) Estratégia Temática de Prevenção e Reciclagem de Resíduos
 
@@ -420,7 +432,7 @@ C) Estratégia Temática para a Protecção dos Solos
 
 4.16 - Tendo em linha de conta o carácter transversal da presente Estratégia, com fortes componentes em áreas tão variadas como as da Agricultura, Segurança Alimentar, Planeamento e Desenvolvimento Rural, Indústria Extractiva, balizou-se a sua intersecção com as matérias da competência específica no domínio dos Resíduos, através da Lista Europeia de Resíduos a qual, no sub-capítulo código 17 05, identifica os seguintes casos em que solos são resíduos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 4.17 - Nesta Estratégia é realçada a necessidade de estabelecimento de uma estratégia comum para a protecção e uso sustentável do solo, que interligue assuntos associados ao solo noutras políticas sectoriais e que previna as suas 8 ameaças identificadas (erosão, declínio da matéria orgânica, contaminação, salinização, perda de biodiversidade, selagem, derrocadas e inundações), mitigue os seus efeitos e recupere os solos que se encontram degradados a um nível de funcionalidade ambiental, económica, social e cultural, consistente com os seus usos actuais e futuros.
 
@@ -480,7 +492,7 @@ QUADRO 4.1
 
 Sistematização das Medidas de Acção definidas para cada Eixo de Intervenção do PIRSUE (Despacho n.º 454/2006 (II Série), de 9 de Janeiro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 4.29 - A hierarquia das opções de gestão de resíduos determina a prioridade que deve ser dada às respectivas operações, sendo que, de entre estas prioridades, a valorização energética precede hierarquicamente a deposição em aterro.
 
@@ -516,7 +528,7 @@ F) Quadro de Referência Estratégico Nacional (QREN)
 
 4.37 - No QREN, bem como em todos os PO, são definidas as prioridades estratégicas nacionais e as orientações para a prossecução dessas prioridades.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 4.38 - A estruturação operacional do QREN prevê a sistematização através da criação de três PO temáticos, dirigidos à concretização das seguintes prioridades:
 
@@ -530,7 +542,7 @@ iii. Valorização territorial - inclui a realização de infra-estruturas, rede
 
 Os PO de âmbito regional relativos às Regiões Autónomas dos Açores e da Madeira serão estruturados de acordo com as prioridades definidas pelos respectivos Governos Regionais, sem prejuízo da coerência estratégica global do QREN.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 4.40 - Com a aprovação das versões finais do QREN e dos PO e a sua apresentação à Comissão Europeia (CE), é previsível que se possa iniciar a sua execução em Janeiro de 2007.
 
@@ -624,13 +636,13 @@ Por sua vez, tendo, estes fluxos, associados objectivos de reciclagem e valoriza
 
 4.56 - Apresenta-se, de forma resumida, um conjunto de estudos de referência com reflexos não apenas na política de RSU mas também noutras, como a da energia, com alcance ainda em matérias transversais como sejam as inerentes aos compromissos do Protocolo de Quioto, nomeadamente: o «Impacto das opções e oportunidades de gestão de resíduos na mitigação de Gases com Efeito de Estufa em Portugal», a «Avaliação do Potencial de Produção e Utilização de CDR em Portugal Continental» bem como um estudo sobre a sustentabilidade económica e financeira do tratamento e destino final dos RSU, a «Análise comparativa de custos e soluções de tratamento e destino final de RSU».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 A) «Impacto das Opções e Oportunidades de Gestão de Resíduos na Mitigação de Gases com Efeito de Estufa em Portugal» - E.Value
 
 4.57 - O impacto das opções e oportunidades de gestão de resíduos na mitigação de GEE em Portugal encontra-se resumido na Figura 4.1 representando a matriz de impactos (in) directos na forma de emissões específicas associadas a i) gestão e tratamento de resíduos e ii) utilização de resíduos valorizados em actividades económicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 4.58 - Em termos de balanço líquido o estudo revela que a reciclagem é a componente com maior potencial de redução indirecta de emissões (0,41 t CO(índice 2)eq/t(índice reciclada)). Estima-se ainda que a produção de energia por via da incineração contribua para uma redução indirecta de 0,18 tCO(índice 2)eq /t(índice incinerada). A substituição de fertilizantes apresenta um potencial de redução de 0,02 tCO(índice 2)eq/t(índice valorizada).
 
@@ -680,13 +692,13 @@ QUADRO 4.2
 
 RSU disponível para produção de CDR vs Mercado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 QUADRO 4.3
 
 Utilização de CDR a partir de RSU: Infra-estruturas e capacidades de consumo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 4.62 - No que respeita às oportunidades e constrangimentos de mercado para a valorização dos resíduos destacam-se:
 
@@ -710,7 +722,7 @@ C) «Análise Comparativa de Custos de Soluções de Tratamento e Destino Final 
 
 4.63 - No âmbito do estudo técnico para a sustentabilidade económica e financeira do tratamento de resíduos sólidos urbanos, «Análise comparativa de custos de soluções de tratamento e destino final de RSU» - realizado pela Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa para o Instituto dos Resíduos, em Junho 2004, efectuou-se uma análise comparativa de custos de soluções de tratamento e destino final deste tipo de resíduos para 5 cenários diferentes. (ver Figuras 4.2 a 4.6).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 4.64 - As conclusões do estudo estão resumidas no Quadro 4.4, no qual são apresentados os custos globais dos cenários previstos.
 
@@ -718,7 +730,7 @@ QUADRO 4.4
 
 Custos totais por cenário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 4.3.2. - Documentos de Referência sobre as Melhores Técnicas Disponíveis (BREF)
 
@@ -772,15 +784,15 @@ ii. Documento de Referência sobre as Melhores Técnicas Disponíveis para a Inc
 
 5.1 - Em 2005, a produção de RSU em Portugal Continental atingiu 4,5 milhões de toneladas, ou seja, cerca de 1,24 kg por habitante e por dia, com base nos dados provisórios do Sistema de Gestão da Informação sobre Resíduos (SGIR).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 5.2 - Na Figura 5.2 apresenta-se a evolução da produção de RSU em Portugal Continental entre 1995 e 2005 e a evolução da capitação diária no mesmo período. Verifica-se uma tendência de crescimento da produção de resíduos, bem como da capitação diária, com excepção dos anos de 2001 e de 2004, em que houve um ligeiro decréscimo, de 7% e de 1%, respectivamente, em relação ao ano anterior.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 5.3 - A Figura 5.3 evidencia a intensidade da relação entre a produção de RSU e o PIB em Portugal Continental (1995 - 2005), tendo-se verificado um crescimento dessa intensidade no período considerado, apesar dos ligeiros decréscimos em 1998, 2001 e 2004. Estes resultados evidenciam que a produção de resíduos está fortemente relacionada com o consumo e com o crescimento económico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 5.4 - Relativamente ao destino final dos RSU (Figura 5.4), verifica-se que, em 10 anos, este deixou de ser maioritariamente a deposição em lixeiras (73% em 1995) para passar a ser a deposição em aterro (63% em 2005).
 
@@ -788,7 +800,7 @@ Destaca-se, deste modo, um aspecto muito importante da implementação do PERSU 
 
 Verifica-se, ainda, a implementação da incineração com recuperação de energia, que em 2005, constitui o destino final de 21% dos resíduos produzidos e o ligeiro aumento da recolha selectiva, contribuindo para o cumprimento dos objectivos da Directiva Embalagens neste ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 5.2. - Sistemas de gestão de RSU
 
@@ -808,7 +820,7 @@ Verifica-se, ainda, a implementação da incineração com recuperação de ener
 
 5.7 - É importante salientar o esforço realizado de transição do modelo de gestão anterior, baseado na gestão municipal directa e que se traduzia em 257 entidades gestoras, para a nova situação com um número de sistemas inferior ao existente à data da publicação do PERSU I.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 5.8 - No âmbito da ENRRUBDA (abordada no Capítulo 4.1) preconizou-se o agrupamento dos Sistemas com vista ao tratamento de Resíduos Urbanos Biodegradáveis (RUB) no Continente. A divisão territorial então definida foi entretanto alvo de alguns ajustamentos, apresentando em Dezembro de 2005 a configuração para 16 agrupamentos apresentada na Figura 5.7.
 
@@ -820,11 +832,11 @@ Este aspecto será objecto de uma análise sumária no Capítulo - Sistemas Tari
 
 5.10 - Na Figura 5.8 apresenta-se a evolução do número de lixeiras em Portugal Continental, desde 1996 até à sua erradicação, preconizada no PERSU I e que se concretizou em 2002, tendo-se verificado a sua total desactivação em Janeiro de 2002.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 5.11 - A par da erradicação das lixeiras, assistiu-se, nestes últimos anos, a um aumento nas infra-estruturas de gestão de resíduos, nomeadamente, aterros sanitários, estações de transferência e centrais de triagem (Figura 5.9).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 5.12 - Relativamente aos aterros sanitários, infra-estruturas construídas para erradicação das lixeiras, actualmente, a sua vida útil encontra-se muito reduzida, o que é evidenciado no Quadro 5.1.
 
@@ -832,17 +844,17 @@ QUADRO 5.1
 
 Ponto de situação da vida útil dos aterros e por Sistema no final de 2004
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 5.13 - Na Figura 5.10 apresenta-se a evolução do número total de ecopontos instalados entre 2000 e 2005, podendo constatar-se um incremento superior a 100%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 5.14 - Na Figura 5.11 se apresenta o número desses equipamentos por sistema, em 2005, bem como o número de habitantes por ecoponto.
 
 5.15 - Da análise destas figuras constata-se o crescimento do número de equipamentos de deposição selectiva instalados, bem como o facto da maior parte dos Sistemas já apresentarem um grau de cobertura inferior a 500 habitantes por ecoponto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 5.16 - Apesar de constituir um bom indicador da qualidade do serviço prestado - a recolha selectiva de materiais recicláveis, neste caso - a informação relativa ao número de habitantes por ecoponto deverá ser complementada para efeitos de avaliação de desempenho de um Sistema com outro tipo de informação, designadamente, a distância aos ecopontos mais próximos e a frequência de recolha. Assim se explica, sem prejuízo de outros factores relevantes como por exemplo o comportamento dos cidadãos, que alguns Sistemas com graus de cobertura menores apresentem níveis de desempenho na recolha selectiva superiores aos de outros, servidos por redes de ecopontos mais densas. Assim, não devendo descurar-se a densificação da rede, deve dar-se igual enfoque a aspectos não menos importantes como a sua optimização e a sensibilização dos cidadãos.
 
@@ -918,7 +930,7 @@ ii. A sucessiva redução da quantidade e perigosidade dos resíduos gerados.
 
 6.1 - Como resultado do enquadramento efectuado nos capítulos anteriores, podem eleger-se como linhas orientadoras estratégicas essenciais do presente Plano:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.2 - Para concretização das referidas linhas orientadoras estratégicas preconizam-se cinco Eixos de Actuação que devem estruturar e consubstanciar a estratégia do PERSU II, no período de 2007 a 2016:
 
@@ -948,7 +960,7 @@ ii. A sucessiva redução da quantidade e perigosidade dos resíduos gerados.
 
 6.6 - Para atingir o grande objectivo de prevenção dos resíduos, é essencial proceder à definição e implementação sustentada de determinados mecanismos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.7 - Promoção da Política Integrada do Produto (ver nota 5) (PIP), na vertente do ecodesign, ou na aplicação de instrumentos de carácter voluntário, como a implementação de sistemas de gestão ambiental, ou a adesão ao rótulo ecológico para determinados tipos de produtos ou serviços, para o que é determinante a atribuição de incentivos financeiros directos.
 
@@ -958,7 +970,7 @@ No entanto, esta promoção tem de ser seguida, pelo menos no domínio do ecodes
 
 6.8 - A estratégia da PIP baseia-se nas três etapas do processo de decisão que condicionam o impacte ambiental do ciclo de vida dos produtos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.9 - Reforço do investimento em Investigação e Desenvolvimento (I&D), nomeadamente no capítulo do ecodesign de produtos, mas também ao nível das MTD aplicáveis no domínio quer da fabricação dos produtos/bens de consumo quer das operações de gestão de resíduos, mais concretamente, de RSU.
 
@@ -968,13 +980,13 @@ No entanto, esta promoção tem de ser seguida, pelo menos no domínio do ecodes
 
 6.12 - Reforço das medidas políticas em matéria de substâncias químicas, cuja base central assenta no sistema REACH (Registration, Evaluation and Authorisation of Chemicals), à luz das medidas em preparação na CE, e que permitirão um maior controlo sobre a utilização de substâncias perigosas, incluindo as que se transformam em resíduos, promovendo, ao mesmo tempo, a substituição das substâncias perigosas, na medida do viável, o que proporcionará uma diminuição da produção de resíduos perigosos (nas fases de produção e pós-consumo).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.13 - Promoção do eco-consumo e de outras medidas de carácter individual dos cidadãos, por recurso quer à verificação do cumprimento da legislação quer a medidas de sensibilização/informação dos consumidores de forma a alterar efectivamente os padrões de consumo e de actuação dos cidadãos, a nível nacional.
 
 6.14 - Devem ser equacionadas diversas soluções com vista à promoção do eco-consumo,
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.15 - Esta concertação implica uma articulação e ajustamento de estratégias com outros Planos Estratégicos Sectoriais, como o Plano Estratégico Sectorial de Gestão dos Resíduos Industriais (PESGRI), no âmbito do Plano Nacional de Resíduos (previsto no Decreto-Lei n.º 178/2006, de 5 de Setembro), e a promoção de Acordos de Base Voluntária com os diversos agentes económicos, de modo a garantir a eficácia das medidas sem introdução de efeitos de distorção no mercado.
 
@@ -984,7 +996,7 @@ No entanto, esta promoção tem de ser seguida, pelo menos no domínio do ecodes
 
 6.18 - Para prossecução dos mecanismos para a redução da produção de resíduos anteriormente referidos preconizam-se as seguintes linhas de actuação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.19 - A) Responsabilização dos produtores, o que constitui uma vertente importante para a aplicação dos instrumentos voluntários, e um dos elementos fundamentais para a estratégia de reciclagem. De notar, contudo, que a responsabilização dos produtores para ser efectiva carece igualmente da aplicação de instrumentos legais e, em última instância, económicos.
 
@@ -1016,7 +1028,7 @@ Esta gestão deverá abarcar tanto a SPV como os Sistemas, ou, se for o caso, um
 
 6.29 - Em qualquer dos casos, e tendo em conta sobretudo o factor económico, a gestão deste tipo de resíduos deve envolver um sistema de entrega (e não de recolha), que poderá abarcar pontos para entrega dos resíduos, tais como os que se especificam seguidamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.30 - Adicionalmente, o sistema de entrega deverá estar suportado por uma metodologia de identificação clara dos resíduos urbanos perigosos.
 
@@ -1028,7 +1040,7 @@ QUADRO 6.1
 
 Instrumentos e respectivas Acções e Medidas para a Prevenção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.3. - EIXO II - Sensibilização/mobilização dos cidadãos
 
@@ -1042,7 +1054,7 @@ ii. sensibilização/mobilização dos cidadãos/agentes económicos.
 
 6.34 - Para o efeito consideram-se as seguintes linhas de actuação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.35 - A) Sensibilização dos cidadãos consumidores e agentes económicos, componente particularmente importante das bases estratégicas do PERSU II, pela mudança "dos objectos" da comunicação, no sentido do acesso a informação mais completa e integrada que permita uma escolha esclarecida e em consciência, com reflexos assumidos individual e colectivamente sobre os tarifários a pagar para a sustentabilidade dos Sistemas de Gestão de RSU (portanto a nível económico, social e ambiental).
 
@@ -1104,7 +1116,7 @@ ii - A extensão territorial, esta com impacte sobretudo nas operações de reco
 
 6.50 - Discriminam-se, em seguida, algumas linhas de actuação que deverão ser tidas em conta para a concretização desta vertente da estratégia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.51 - A) Realização de um estudo que permita esclarecer, de modo claro e comparado, as valias obtidas com a reconfiguração dos Sistemas de RSU tal como hoje são conhecidos, explicitando claramente as vantagens e desvantagens da situação actual e dos cenários alternativos propostos;
 
@@ -1128,7 +1140,7 @@ III. Procura do equilíbrio adequado entre a concentração de empresas, como fo
 
 6.55 - Deverão ser tidas em conta as seguintes linhas de actuação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.56 - A) Aposta em tarifários sustentáveis que permitam a instalação de novas infra-estruturas de tratamento, valorização e eliminação de resíduos, a sua renovação, operação/exploração e manutenção de modo próprio, sustentando-se nos tarifários praticados, aspecto tanto mais importante quanto é decrescente (e tendencial para zero em períodos futuros) a taxa de financiamento comunitário.
 
@@ -1148,7 +1160,7 @@ III. Procura do equilíbrio adequado entre a concentração de empresas, como fo
 
 6.63 - Em particular, nesta vertente, devem considerar-se as seguintes linhas de actuação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.64 - A) Elaboração de Planos de Acção por Sistema de gestão dos RSU, devidamente justificados, em termos de custos e resultados a obter nos diferentes horizontes temporais, reflectindo as melhores opções para atingir os objectivos e as metas definidos a nível nacional.
 
@@ -1184,7 +1196,7 @@ III. Procura do equilíbrio adequado entre a concentração de empresas, como fo
 
 6.79 - Para tal, devem ser tidas em conta as seguintes linhas de actuação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.80 - A) Estabelecimento de um novo procedimento metodológico para a amostragem e caracterização dos RSU, fracções indiferenciada e provenientes da recolha selectiva, a adoptar por todos os Sistemas e com recurso a algumas caracterizações a peso seco, de modo a garantir a fiabilidade da comparação de valores de produção e de qualidade dos RSU.
 
@@ -1274,7 +1286,7 @@ Refere ainda este diploma que tais operações devem ser realizadas sem pôr em 
 
 6.118 - Devem considerar-se as seguintes linhas de actuação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.119 - A) Aposta na intensificação da recolha selectiva multimaterial, com maximização dos quantitativos desviados da recolha indiferenciada, o que pressupõe um forte estímulo à separação dos diversos componentes dos resíduos na origem, por parte dos cidadãos através de informação mais ampla e ajustada sobre a gestão de resíduos e a importância do desvio de materiais para minimização de custos de tratamento e deposição, com redução efectiva nos tarifários pagos.
 
@@ -1296,7 +1308,7 @@ Refere ainda este diploma que tais operações devem ser realizadas sem pôr em 
 
 6.126 - As linhas de actuação a considerar deverão centrar-se nas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.127 - A) Realização de estudos, em articulação com as entidades competentes (e.g. LNEC - Laboratório Nacional de Engenharia Civil - para os materiais reciclados, Universidades e Estação Agronómica Nacional para o caso do composto) com o objectivo de definir critérios de qualidade/especificações técnicas amplamente reconhecidos e ajustados, que permitam o bom escoamento dos produtos reciclados e do composto, através de uma política de preços ajustada em termos de qualidade/preço, e que permitam a ampla confiança dos agentes e dos cidadãos enquanto consumidores, assim como a correcta regulação dos mercados;
 
@@ -1342,7 +1354,7 @@ Refere ainda este diploma que tais operações devem ser realizadas sem pôr em 
 
 6.139 - Devem, para tal, ser consideradas as linhas de actuação seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.140 - A) Ganhos de eficiência da gestão dos RSU pela abertura ao mercado da exploração de infra-estruturas de gestão dos RSU, através de concessões, ou contratos de prestação de serviços, embora neste caso persista a necessidade de manter suficientemente claros os factores mais determinantes para a formação dos custos, obviamente assumindo-se a remuneração da gestão e dos ganhos de eficiência e de sustentabilidade evidenciados, os quais devem constituir critérios a destacar culturalmente como meritórios.
 
@@ -1388,7 +1400,7 @@ Refere ainda este diploma que tais operações devem ser realizadas sem pôr em 
 
 6.159 - Este Sistema (Sistema Integrado de registo Electrónico de Resíduos) deverá permitir, por um lado, a disponibilização de informação tratada, em tempo útil, e, por outro lado, permitirá a base adequada para suporte da tomada de decisão, a par de um acentuado aumento da produtividade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.160 - Um factor fundamental será a sustentação de uma ou mais BD, estreitamente articuladas entre si e com o SIRER, complementares nas suas funcionalidades, directamente acedida(s) pelos Sistemas para efeito de alimentação e utilização.
 
@@ -1400,7 +1412,7 @@ Refere ainda este diploma que tais operações devem ser realizadas sem pôr em 
 
 6.164 - Nestas BD, directamente alimentadas pelos Sistemas, estes colocarão on-line os aspectos fundamentais de gestão incluídos nos seus relatórios anuais, para efeitos de gestão e de tomada de decisão quando são arquivados apenas na base impressa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 6.6. - EIXO V - qualificação e optimização da intervenção das entidades públicas no âmbito da gestão de RSU
 
@@ -1466,23 +1478,23 @@ QUADRO 7.1
 
 Produção e recolha de RSU em Portugal Continental, em 2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 QUADRO 7.2
 
 Produção e gestão de RSU em Portugal Continental, em 2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 QUADRO 7.3
 
 Gestão de RSU na UE, em 2005
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.2 - O gráfico da Figura 7.1 permite ainda comparar a situação actual com os objectivos preconizados no PERSU I.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.3 - A estratégia de gestão de RSU em Portugal está determinantemente condicionada pelo cumprimento de objectivos comunitários (estabelecidos para os anos 2009, 2011 e 2016), designadamente, os emanados das vulgarmente denominadas Directiva Aterro e Directiva Embalagens, transpostas para o ordenamento jurídico nacional, tal como referido no Quadro 7.4, e cujas perspectivas de cumprimento serão analisadas nos pontos seguintes.
 
@@ -1490,7 +1502,7 @@ QUADRO 7.4
 
 Objectivos Macro de Gestão de RSU em Portugal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.1.2 - Cenário de objectivação para resíduos de embalagens
 
@@ -1512,19 +1524,19 @@ QUADRO 7.5
 
 Resíduos de Embalagem Retomados para Reciclagem por Sistema em 2005 (t/ano)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 QUADRO 7.6
 
 Objectivos de reciclagem de RE nos Sistemas - (t/ano)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.9 - Para o período após 2011 e até ao final do horizonte deste do PERSU II, 2016, considerou-se um aumento aproximado de 25% das quantidades de RE conduzidos para reciclagem.
 
 7.10 - Em face do exposto, apresenta-se na figura seguinte um resumo da avaliação do cumprimento das metas e objectivos constantes da legislação referente à Directiva "Embalagens".
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.1.3 - Cenário de objectivação para papel/cartão não embalagem
 
@@ -1536,7 +1548,7 @@ QUADRO 7.7
 
 Objectivos de reciclagem de Papel/cartão (t/ano)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.13 - Este vínculo dos Sistemas ao cumprimento de objectivos para o papel/cartão não embalagem afigura-se de grande importância, quer pelo contributo para a promoção da reciclagem quer pelo consequente desvio de aterro deste componente biodegradável dos RSU, em respeito pelas orientações constantes da Directiva "Aterros".
 
@@ -1558,7 +1570,7 @@ QUADRO 7.8
 
 Quantitativos de RUB admissíveis em aterro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.19 - No âmbito da elaboração da ENRRUBDA foram estimadas as capacidades de tratamento de RUB necessárias, de modo a dar cumprimento às metas comunitárias/nacionais. Dada a elaboração do PERSU II partir de bases diferentes das estabelecidas no âmbito da ENRRUBDA, cabe neste ponto, realizar as mesmas estimativas, mas tendo em consideração as bases utilizadas no âmbito deste Plano, bem como atendendo às capacidades das instalações de valorização orgânica agora previstas.
 
@@ -1604,13 +1616,13 @@ QUADRO 7.9
 
 Produção de RSU e metas de desvio de RUB em Portugal (incluindo RAA e RAM)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 QUADRO 7.10
 
 Gestão de RUB - Cenário Moderado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.32 - Como se pode verificar pela análise do quadro anterior, com a concretização do cenário estratégico moderado, o país estará em condições de garantir o cumprimento dos objectivos de desvio de RUB de aterro em 2009.
 
@@ -1618,7 +1630,7 @@ QUADRO 7.11
 
 Gestão de RUB - Cenário Optimista
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.33 - Tal como salientado anteriormente, este cenário será assumido no quadro de uma situação conjuntural favorável, à luz da avaliação a realizar em 2010 (4º trimestre), prevendo um reforço do desvio de RUB de aterro, tendente a praticamente anular essa prática até 2016. Para tal desiderato concorre a expansão de unidades de valorização orgânica já existentes, de novas unidades a construir e também pelo reforço da valorização de CDR.
 
@@ -1634,7 +1646,7 @@ Gestão de RUB - Cenário Optimista
 
 7.39 - Da conjugação dos objectivos e metas preconizadas nos pontos anteriores, apresenta-se nas figuras seguintes um resumo da avaliação do cumprimento das metas e objectivos constantes da legislação referente à Directiva "Aterros".
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.1.6 - Cenários de objectivação global
 
@@ -1658,15 +1670,15 @@ QUADRO 7.12
 
 Pressupostos para cálculo de sub-produtos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.42 - Considerando os objectivos preconizados, apresenta-se na figura seguinte uma aproximação dos cenários Moderado e Optimista com a evolução temporal ao longo do horizonte do Plano, sobre o ponto de vista do encaminhamento directo dos RSU (perspectiva "Entradas").
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.43 - Em seguida apresenta-se um balanço dos sub-produtos gerados nos dois cenários (perspectiva "Saídas").
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.2 - Afectação dos Sistemas às metas e objectivos nacionais
 
@@ -1682,7 +1694,7 @@ QUADRO 7.13
 
 Recolha selectiva de RSU (2005) - Capitação em função da tipologia de Sistemas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.48 - Assim sendo, a distribuição do esforço dos Sistemas para o alcance dos objectivos nacionais deverá ter em conta uma capitação de recolha selectiva, em termos médios nacionais e no horizonte do cumprimento da Directiva "Embalagens", em 2011, um valor da ordem dos 50 kg/hab.ano.
 
@@ -1774,7 +1786,7 @@ QUADRO 7.14
 
 Investimento Global Acumulado (M(euro))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.77 - Como se verifica é esperado um reforço de investimento significativo que no caso do Cenário Optimista corresponderá à duplicação dos valores investidos no sector até ao presente momento.
 
@@ -1784,13 +1796,13 @@ QUADRO 7.15
 
 Investimento Adicional por período e por operação de Gestão RSU (M(euro))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.79 - Da análise das estimativas de acréscimo de investimento, verifica-se que mais de 50% dos montantes globais, 880 M(euro) no Cenário Moderado e 1.055 M(euro) no Cenário Optimista, estarão associados à promoção da valorização orgânica, cerca de 16% a 19% à expansão dos sistemas de recolha selectiva, entre 11% a 14%, segundo os cenários, à ampliação das Unidades de valorização energética existentes para CDR, e ainda um valor residual para aterros sanitários que permitirão assegurar um destino adequado para os RSU durante todo o período de análise.
 
 7.80 - Em termos de fontes de financiamento, apresenta-se na figura seguinte uma estimativa das fontes de financiamento dos novos investimentos até 2013, assumindo um determinado quadro de disponibilidades de fundos do QREN. Para este efeito consideraram-se apenas os investimentos a efectuar pelos SMM e SMI, não se contabilizando portanto, os 260M(euro) necessários à execução das novas instalações de Valorização Energética de lamas e CDR por co-incineração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 B) Custos de Exploração Anuais
 
@@ -1800,7 +1812,7 @@ QUADRO 7.16
 
 Custos Anuais com o tratamento e valorização de resíduos (M(euro)/ano)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.82 - Não obstante a expectativa de incremento significativo dos custos com a actividade de tratamento e valorização de RSU em Portugal, num futuro próximo, a estratégia agora delineada teve como base de princípio, a manutenção da coerência e concertação entre os três pilares do desenvolvimento sustentável. Nas opções inscritas neste plano procurou-se não por em causa o cumprimento das metas ambientais do País e comunitárias, com uma maximização dos benefícios ambientais e sociais a elas associados e com repercussões quer nas gerações presentes bem como nas futuras, recorrendo aos recursos económicos e financeiros estritamente indispensáveis à boa execução da referida estratégia.
 
@@ -1858,7 +1870,7 @@ QUADRO 8.1
 
 Cruzamento dos intervenientes em cada um dos eixos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 9 - Articulação com o QREN e Plano de Investimentos
 
@@ -2008,7 +2020,7 @@ QUADRO 9.1
 
 RSU - Estimativa de Investimentos potencialmente elegíveis no âmbito do QREN 2007 a 2013 (tendo em conta a ordem de prioridades definida anteriormente)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 9.23 - De referir ainda a possibilidade de poderem vir a ser incluídos no conjunto dos investimentos potencialmente elegíveis no âmbito do QREN os relativos unidades de tratamento de lamas de ETAR com recurso a CDR como combustível principal, cujos projectos, actualmente em fase de estudos, estão a ser promovidos pela Reciclamas e EGF. Considera-se que tais projectos poderão contribuir de forma importante para ultrapassar a limitação nacional actual de capacidade de valorização de CdR, bem como para minimizar a deposição destes resíduos em aterro. O investimento previsto é da ordem de 260 M(euro), sendo que a parcela a financiar no domínio de intervenção "infra-estruturas de valorização de RSU" poderá corresponder a apenas parte deste montante.
 
@@ -2070,7 +2082,7 @@ Directiva "Embalagens".
 
 Nesse caso teriam de ser adoptadas medidas adicionais que se traduzam no reforço da recolha selectiva e do TMB, e que se exemplificam na figura seguinte, relativa ao cumprimento das metas de reciclagem e valorização de resíduos de embalagens.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 7.84 - A avaliação prevista para o 4.º trimestre de 2010 suportará, entre outros aspectos, uma decisão no tocante à estratégia de desvio de aterro (cenário moderado versus optimista). No âmbito desta avaliação serão analisadas as condicionantes de natureza legal, ambiental, social e económica prevalecentes, levando em linha de conta quer a evolução da política de redução de produção de resíduos, quer com as políticas de promoção de utilização de CDR/CSR, de escoamento de composto, de reciclagem de materiais secundários, bem como de sustentabilidade económica-financeira do sector.
 
@@ -2084,7 +2096,7 @@ QUADRO 10.1
 
 Calendarização da metodologia de implementação do PERSU II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 Bibliografia
 
@@ -2418,13 +2430,13 @@ QUADRO I.1
 
 Metas e acções/medidas propostas no PERSU I para a base estratégica da Prevenção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.3 - Esta meta de redução dos RSU admite todas as acções que possam contribuir para aquele desígnio, nomeadamente através do esforço de reutilização de bens, da opção esclarecida por produtos com menor incorporação de materiais (por exemplo recargas), de um entrosamento com o esforço de reciclagem no que respeita à opção de desvio de materiais-alvo para a deposição/recolha selectiva e o circuito de valorização material (reciclagem).
 
 I.4 - A avaliação extensiva do inquérito enviado aos sistemas evidencia que a maioria deles interpreta como acções medidas do âmbito da Prevenção, a implementação de acções de sensibilização ambiental, capazes de suportar novos comportamentos ambientais no que respeita à gestão de RSU (Figura I.1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.5 - Mas a base estratégica da Prevenção passa, essencialmente, e tendo por base os fluxos de materiais e de energia, e, como ferramentas, a ACV dos produtos e o rótulo ecológico (podendo considerar-se, neste caso, o rótulo ecológico comunitário - REC), pela concertação dos domínios da investigação aplicada (I&D) e da Indústria, através da concepção, produção e comercialização de novos bens, geradores de menores impactes ambientais ao longo do seu ciclo de vida, e, em particular, quando se tornam resíduos.
 
@@ -2470,7 +2482,7 @@ QUADRO I.2
 
 Metas e acções/medidas propostas no PERSU I para a base estratégica do Tratamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.16 - Relativamente à base estratégica do Tratamento, importa relevar os seguintes aspectos:
 
@@ -2498,7 +2510,7 @@ QUADRO I.3
 
 Síntese da avaliação das metas para a base estratégica do Tratamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.3 - Educação
 
@@ -2512,7 +2524,7 @@ QUADRO I.4
 
 Metas e acções/medidas propostas no PERSU I para a base estratégica da Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.21 - Não foi possível, no âmbito da monitorização da implementação do PERSU I, realizar um estudo aprofundado sobre a incorporação de formação no âmbito da gestão de resíduos nos programas escolares e dos seus efeitos nas populações-alvo.
 
@@ -2532,7 +2544,7 @@ I.27 - Como é possível observar na Figura I.2, a grande maioria dos sistemas t
 
 Em alguns casos, estes programas são implementados apenas pelas Câmaras Municipais, sem o envolvimento do sistema.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.28 - Relativamente às metas a curto prazo (2000), estabelecidas no PERSU I, verifica-se que não foi elaborado, aprovado e implementado um Programa de educação para a gestão dos RSU, sendo que as acções de educação têm sido desenvolvidas sem qualquer articulação a nível nacional e por iniciativa individual das escolas (ou professores), das Câmaras Municipais, dos sistemas e das sociedades gestoras.
 
@@ -2550,7 +2562,7 @@ QUADRO I.5
 
 Metas e acções/medidas propostas no PERSU I para a base estratégica da Reciclagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.33 - A avaliação desta importante base estratégica foi realizada tendo por base:
 
@@ -2582,7 +2594,7 @@ QUADRO I.6
 
 Quantificação do esforço de reciclagem de cada sistema em 2003
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.37 - Quanto ao esforço global dos sistemas para o cumprimento das metas é possível verificar, a partir da informação constante do Quadro I.7 que:
 
@@ -2594,7 +2606,7 @@ QUADRO I.7
 
 Retomas de RE de origem urbana nos sistemas aderentes à SPV, nos anos de 2000 e de 2005 e comparação com os objectivos de reciclagem de RE (totais e por material), em toneladas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.38 - Quanto às Estações de Compostagem e de Valorização de RUB, apresenta-se no Quadro I.8 uma síntese das unidades de compostagem em funcionamento no ano de 2003, enquanto no Quadro I.9 apresenta-se a previsão para 2004, de acordo com a ENRRUBDA.
 
@@ -2604,13 +2616,13 @@ QUADRO I.8
 
 Unidades de compostagem em funcionamento em 2003
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 QUADRO I.9
 
 Unidades de valorização orgânica de RSU em funcionamento (previsão para 2004)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.40 - No entanto, verifica-se que as instalações cujo início de laboração previsto era 2004 ainda se encontram em fase de testes (recepção provisória), nomeadamente a Lipor (desde Outubro de 2004), a VALORSUL (desde Fevereiro de 2005) e a unidade da Região Autónoma da Madeira (desde Junho de 2004).
 
@@ -2630,7 +2642,7 @@ QUADRO I.10
 
 Síntese da avaliação das metas para a base estratégica da Reciclagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.5 - Gestão e exploração
 
@@ -2642,7 +2654,7 @@ QUADRO I.11
 
 Metas e acções/medidas propostas no PERSU I para a base estratégica da Gestão e Exploração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.47 - Relativamente às metas definidas nesta base estratégica, verifica-se que:
 
@@ -2684,13 +2696,13 @@ QUADRO I.12
 
 Metas e acções/medidas propostas no PERSU I para a base estratégica da Monitorização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.55 - A Figura I.3 apresenta a súmula da informação fornecida pelos sistemas no que respeita à monitorização ambiental das infra-estruturas de gestão de RSU.
 
 I.56 - A análise da Figura I.3 parece sugerir um grau relativamente elevado de cumprimento, embora seja importante que os resultados destes programas de monitorização sejam tornados disponíveis, quer para o INR (através de relatórios, como acontece já com alguns sistemas), quer para o público em geral, em especial a comunidade envolvente das infra-estruturas de tratamento de RSU, obrigando os sistemas a um elevado nível de desempenho e protecção ambiental e de saúde pública.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 I.57 - Relativamente às metas estabelecidas no PERSU I para esta base estratégica, para 2000 e 2005, verifica-se que não foi elaborado, aprovado e implementado um Programa de Monitorização dos RSU a nível nacional, com a definição de uma rede de monitorização da gestão dos RSU a nível nacional, regional e local.
 
@@ -2764,7 +2776,7 @@ QUADRO II.1
 
 Tamanho da amostra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 II.11 - Recolha da amostra e registo de informação
 
@@ -2814,7 +2826,7 @@ QUADRO II.2
 
 Catálogo da triagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/10451118.pdf)
 
 II.14 - Contaminação e teor de humidade
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/11/22700/0506005078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/2011/11/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2011-146201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c669742a3fa8cf81602a5e19a9b5cc46819afb4a6520d189dfb5db0944646e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3477453e03833487b138f5cac810b9d579959244bc27918d43ac7fcfa0a99e94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajuda Judicial
+- Carreira Profissional
 - Cartão de Identificação
-- Pessoal Dirigente
 - Conselho Açoriano para o Desporto de ALTO Rendimento
 - Conselho Administrativo
 - Conselho Coordenador do Sistema Educativo
 - Conselho Regional do Desporto Escolar
 - Definição de Competências
+- Descrição de Funções
 - Direcção Regional da Educação e Formação
 - Direcção Regional do Desporto
-- Carreira Profissional
 - Fundo Regional do Desporto
-- Quadro Regional de ILHA
 - Incompatibilidades
 - Inspecção Regional de Educação
 - Inspector Regional
 - Integração de Trabalhadores
 - Orgânica
-- Descrição de Funções
 - Pessoal de Inspecção
+- Pessoal Dirigente
+- Quadro Regional de ILHA
 - Remuneração
 - Secretaria Regional da Educação e Formação
 - Secretário Regional da Educação e Formação
 - Segredo Profissional
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:497839:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Determinada a transição, para a dependência do Secretário Regional da Educação, Ciência e Cultura, da Inspeção Regional\
+    \ de Educação, anteriormente no âmbito da Secretaria Regional da Educação e Formação, cujas atribuições e competências\
+    \ constam do presente diploma; assim como determina que passe a designar-se por Direcção Regional da Educação, a Direcção\
+    \ Regional da Educação e Formação, prevista neste diploma, pelo DRR.24/2012/A.27.11.2012.PG-RAA, DR.IS [229] de 27.11.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/14/2009/02/10/p/dre
   label: null
@@ -115,16 +124,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/25/2008/12/31/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/25/2008/12/31/a/dre
+- type: cites
+  target: pt:dre:342079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640643:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:145047:por
+  label: "Rectificada a data da assinatura pela DECL-RECT.36/2011.22.12.2011.PCM, DR.IS [244] de 22.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/36-2011-145047
+  date: '2011-12-22'
+- type: corrected_by
+  target: pt:dre:544435:por
+  label: "Retificado e republicado o anexo II, pela DECL-RECT.1/2012.24.01.2012.PCM, DR.IS [17] de 24.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/1-2012-544435
+  date: '2012-01-24'
+- type: repealed_by
+  target: pt:dre:497839:por
+  label: "Revogado, a partir de 18.07.2013, o presente diploma, retificado pelas Decl-Ret 36/2011 de 22-dez e 1/2012 de 24-jan,\
+    \ pelo DRR.8/2013/A.17.07.2013.PG-RAA, DR.IS [136] de 17.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2013-497839
+  date: '2013-07-17'
 article_structure:
   article_count: 78
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:53Z'
   warnings: []
   errors: []
 ---
@@ -161,11 +206,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de Setembro de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 11 de Agosto de 2011.**
+Assinado em Angra do Heroísmo em 11 de Agosto de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -273,7 +318,9 @@ Os órgãos e serviços funcionam em estreita cooperação e interligação func
 
 #### SECÇÃO I — Serviços executivos
 
-##### SUBSECÇÃO I — Divisão de Apoio Técnico-Administrativo
+##### SUBSECÇÃO I
+
+##### Divisão de Apoio Técnico-Administrativo
 
 ###### Artigo 9.º — Natureza e missão
 
@@ -325,7 +372,9 @@ r) Coordenar e dirigir as secções que integram a Divisão.
 
 6 - Para além das funções gerais de coordenação do funcionamento da Divisão, compete ao chefe de divisão, cargo de direcção intermédia de 2.º grau, certificar os actos que integram processos existentes na DATA e exercer as funções notariais previstas na lei.
 
-###### Artigo 10.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 10.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 1 - Compete à Secção de Pessoal, Expediente e Arquivo, nomeadamente:
 
@@ -349,7 +398,9 @@ i) Assegurar a abertura e encerramento das instalações.
 
 2 - A Secção de Pessoal, Expediente e Arquivo é dirigida por um coordenador técnico.
 
-###### Artigo 11.º — Secção de Contabilidade
+###### Artigo 11.º
+
+#### Secção de Contabilidade
 
 1 - Compete à Secção de Contabilidade, designadamente:
 
@@ -379,7 +430,9 @@ l) Coordenar o trabalho do pessoal que lhe é afecto.
 
 2 - A Secção de Contabilidade é dirigida por um coor-denador técnico.
 
-##### SUBSECÇÃO II — Divisão de Documentação e Estatística
+##### SUBSECÇÃO II
+
+##### Divisão de Documentação e Estatística
 
 ###### Artigo 12.º — Natureza e missão
 
@@ -605,7 +658,9 @@ b) Divisão de Desenvolvimento Curricular (DDC).
 
 3 - A DSIDC é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 20.º — Divisão de Avaliação e Inovação
+###### Artigo 20.º
+
+##### Divisão de Avaliação e Inovação
 
 1 - À DAI compete, nomeadamente:
 
@@ -635,7 +690,9 @@ l) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 2 - A DAI é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 21.º — Divisão de Desenvolvimento Curricular
+###### Artigo 21.º
+
+##### Divisão de Desenvolvimento Curricular
 
 1 - À DDC compete, nomeadamente:
 
@@ -725,7 +782,9 @@ b) Divisão de Formação Profissional (DFP).
 
 4 - A DSRH é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 23.º — Divisão de Gestão de Recursos Humanos
+###### Artigo 23.º
+
+##### Divisão de Gestão de Recursos Humanos
 
 1 - À DGRH compete, nomeadamente:
 
@@ -749,7 +808,9 @@ i) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 2 - A DGRH é dirigida por um chefe divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 24.º — Divisão de Formação Profissional
+###### Artigo 24.º
+
+##### Divisão de Formação Profissional
 
 1 - Compete à DFP, nomeadamente:
 
@@ -815,7 +876,9 @@ b) Divisão de Instalações e Equipamento Escolares (DIEE).
 
 3 - A DSFE é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 27.º — Divisão de Planeamento e Gestão Financeira
+###### Artigo 27.º
+
+##### Divisão de Planeamento e Gestão Financeira
 
 1 - À DPGF compete, nomeadamente:
 
@@ -851,7 +914,9 @@ o) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 2 - A DPGF é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 28.º — Divisão de Instalações e Equipamento Escolares
+###### Artigo 28.º
+
+##### Divisão de Instalações e Equipamento Escolares
 
 1 - À DIEE compete, nomeadamente:
 
@@ -967,7 +1032,9 @@ b) A Divisão do Desporto Federado (DDF).
 
 3 - A DSDD é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 33.º — Divisão de Formação e Promoção Desportiva
+###### Artigo 33.º
+
+##### Divisão de Formação e Promoção Desportiva
 
 1 - Compete à DFPD, nomeadamente:
 
@@ -995,7 +1062,9 @@ k) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 2 - A DFPD é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 34.º — Divisão do Desporto Federado
+###### Artigo 34.º
+
+##### Divisão do Desporto Federado
 
 1 - Compete à DDF, nomeadamente:
 
@@ -1053,7 +1122,9 @@ n) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 3 - A DSAFIGR é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 36.º — Divisão da Actividade Física e Gestão
+###### Artigo 36.º
+
+##### Divisão da Actividade Física e Gestão
 
 1 - Compete à DAFG, nomeadamente:
 
@@ -1221,7 +1292,9 @@ g) Aprovar a conta de gerência e remetê-la para julgamento da Secção Regiona
 
 h) Propor as linhas de orientação administrativas a que deve obedecer a organização e funcionamento de cada coordenação e dos seus serviços.
 
-###### Artigo 44.º — Secção de Apoio Administrativo
+###### Artigo 44.º
+
+#### Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo dos SD, nomeadamente:
 
@@ -1575,4 +1648,4 @@ Além da sujeição aos deveres gerais inerentes ao exercício da função públ
 
 ## ANEXO II — Quadro do pessoal dirigente, de direcção específica e de chefia da Secretaria Regional da Educação e Formação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/22700/0506005078.pdf))](https://files.diariodarepublica.pt/1s/2011/11/22700/0506005078.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/22700/0506005078.pdf)

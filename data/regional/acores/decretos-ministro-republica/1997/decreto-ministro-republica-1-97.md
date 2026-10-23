@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decminrepraa/1/1997/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-ministro-republica-para-regiao-autonoma-acores/1-1997-302082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86f51e62d4804499850427769b16937805792475a1baa4b6e064b678cd1974b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0ede30362877f86a098ca17b208efb9d93bc850f0f79d3522359b17719f4a98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Exoneração
 - Governo Regional
 - Secretário Regional da Agricultura e Pescas
@@ -74,18 +75,17 @@ subjects:
 - Secretário Regional da Saúde e Segurança Social
 - Secretário Regional das Finanças Planeamento e Administração Pública
 - Secretário Regional do Turismo e Ambiente
-- Açores
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:36Z'
   warnings: []
   errors: []
 ---
@@ -94,14 +94,14 @@ validation:
 
 de 9 de Janeiro
 
-**O Ministro da República para a Região Autónoma dos Açores decreta, nos termos do n.º 4 do artigo 233.º da Constituição da República Portuguesa e da alínea d) do artigo 65.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:**
+O Ministro da República para a Região Autónoma dos Açores decreta, nos termos do n.º 4 do artigo 233.º da Constituição da República Portuguesa e da alínea d) do artigo 65.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
 São exonerados, sob proposta do Presidente do Governo Regional, o Dr. Roberto de Sousa Rocha Amaral, Secretário Regional da Presidência para as Finanças, Planeamento e Administração Pública, o Prof. Doutor Engenheiro Duarte José Botelho da Ponte, Secretário Regional da Juventude, Emprego, Comércio, Indústria e Energia, o Prof. Doutor José Gabriel do Álamo Meneses, Secretário Regional da Educação e Cultura, Carlos Manuel Martins do Vale César, Secretário Regional da Saúde e Segurança Social, o Prof. Doutor Fernando Rosa Rodrigues Lopes, Secretário Regional da Agricultura e Pescas, Carlos Manuel Martins do Vale César, Secretário Regional do Turismo e Ambiente, e o Dr. José António Vieira da Silva Contente, Secretário Regional da Habitação, Obras Públicas, Transportes e Comunicações.
 
 O presente diploma entra em vigor na data da sua assinatura.
 
-**Assinado em 3 de Dezembro de 1996.**
+Assinado em 3 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

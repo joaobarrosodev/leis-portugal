@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07700/0240902410.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/422/2009/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-2009-603774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96a42f11cf0284b211e4d0d429642729bff2f2206d769634e7be08ca233cd481
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75372696bbe5b4893fdc727602701c4944e1e23ff16800a88d5a02a33ae1aa90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
+- Combustível
 - Definição de Competências
 - Delegação de Competências
-- Petróleo
-- Produto Petrolífero
 - Estatuto
-- Combustível
 - Fiscalização
-- Seguro
 - Habilitações Literárias
 - Licenciamento
+- Petróleo
 - Posto de Abastecimento de Combustíveis
+- Produto Petrolífero
 - Responsabilidade Civil
 - Responsabilidade Criminal
 - Segurança das Instalações
+- Seguro
 relationships:
 - type: amended_by
   target: pt:dre:66528824:por
@@ -102,16 +102,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1188/2003/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1188/2003/10/10/p/dre
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66528824:por
+  label: Revogada a partir de 2015-03-18 pelo(a) Lei n.º 15/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2015-66528824
+  date: '2015-02-16'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:05Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +155,7 @@ Manda o Governo, pelo Ministro da Economia e da Inovação, o seguinte:
 
 É aprovado o estatuto dos responsáveis técnicos pelo projecto e pela exploração de instalações de armazenamento de produtos de petróleo e de postos de abastecimento de combustíveis, em anexo à presente portaria, da qual faz parte integrante.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 8 de Abril de 2009.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 8 de Abril de 2009.
 
 ## ANEXO
 

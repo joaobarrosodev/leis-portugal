@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2002/05/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2002-363307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 586b26540db44f799c583c608d0dffa3258b75852cddf7057739182c67572d1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50ca3778afda61e1c411cb8bc9d5f3ddc93668cca66155ffd1eb124c843453c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional da Habitação e Equipamentos
+- Açores
 - Orgânica
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Açores
+- Secretaria Regional da Habitação e Equipamentos
 relationships:
 - type: amended_by
   target: pt:dre:280199:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197553:por
+  label: "Alterado o quadro de pessoal na redacção do DRR 11/2002/A, de 22-Mar e os arts. 7.º, 8.º e 9.º da Orgância da Secretaria\
+    \ Regional da Habitação e Equipamentos aprovada pelo presente diploma, pelo DRR.10/2003/A.2003.01.25.PG-RAA DR.IS-B [39]\
+    \ DE 15/FEV/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2003-197553
+  date: '2003-01-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/1998/07/16/p/dre
   label: null
@@ -93,16 +100,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/12/1998/05/06/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/12/1998/05/06/a/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683040:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:517631:por
+  label: "Revogado, sem prejuízo do n.º 3 do art. 8.º do presente diploma, o art. 71.º do orgânica da SRHE e alterado o quadro\
+    \ de pessoal aprovados pelo DRR 12/98/A, de 06-Mai, ambos na redacção do presente diploma, pelo DRR.21/2004/A.08.06.2004.SRHE-RAA,\
+    \ DR.IS-B [153] de 01.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2004-517631
+  date: '2004-06-08'
+- type: repealed_by
+  target: pt:dre:280199:por
+  label: "Revogado o DRR 12/98/A, de 06-Maio, na redacção do presente diploma, pelo DRR.4/2011/A.31.01.2011.PG-RAA, DR.IS\
+    \ [21] de 31.01.2011, na parte que se refere à orgânica e ao quadro do pessoal dirigente, de direcção específica e de\
+    \ chefia por ele aprovados e sem prejuízo do disposto no seu artigo 7º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2011-280199
+  date: '2011-01-31'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:29Z'
   warnings: []
   errors: []
 ---
@@ -153,13 +190,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 28 de Fevereiro de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 22 de Março de 2002.**
+Assinado em Angra do Heroísmo em 22 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — MAPA I
 

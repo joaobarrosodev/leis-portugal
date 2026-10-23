@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/30/1991/09/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1991-292926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 405d68c1feed94a25b37e1df06664776473126453618f1d588240f9a78a007a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cffe11d373b94bca1236d0032dec4476f25481ec31a660bd38dabd281fd14032
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
+- Estabelecimento Hospitalar
 - Horta
 - Pessoal de Informática
 - Ponta Delgada
 - Quadro de Pessoal
-- Estabelecimento Hospitalar
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:658216:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658216:por
+  label: "Substituído o quadro de pessoal do Hospital de Angra do Heroísmo, aprovado pelo DRR 4/86/A, 25-Jan, com as alterações\
+    \ introduzidas presente diploma e pelos DRR 3/87/A, de 21-Jan, 28/87/A, de 12-Set, 28/90/A, de 06-Set, 35/90/A, de 03-Dez,\
+    \ 5/92/A, de 01-Fev, e 19/92/A, de 28-Abr, pelo DRR.4/93/A.1993.01.11.GR-RAA, DR.IS-B [49] de 27/Fev/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1993-658216
+  date: '1993-01-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:52Z'
   warnings: []
   errors: []
 ---
@@ -108,34 +127,34 @@ A exemplo do que já se vinha passando, todas as categorias da carreira manter-s
 
 Assim, em execução do disposto na alínea b) do artigo 56.º do Estatuto de Autonomia, no artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, e no [Decreto Legislativo Regional n.º 36/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-1988-480561), de 28 de Novembro, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Em cumprimento do estipulado no artigo 2.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, os quadros de pessoal dos Hospitais de Ponta Delgada, Angra do Heroísmo e Horta, em relação ao pessoal de informática, passam a ser os constantes dos quadros anexos I, II e III, respectivamente, que fazem parte integrante deste diploma.
+Artigo 1.º Em cumprimento do estipulado no artigo 2.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, os quadros de pessoal dos Hospitais de Ponta Delgada, Angra do Heroísmo e Horta, em relação ao pessoal de informática, passam a ser os constantes dos quadros anexos I, II e III, respectivamente, que fazem parte integrante deste diploma.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte à sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Velas, São Jorge, em 19 de Julho de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Agosto de 1991.**
+Assinado em Angra do Heroísmo em 20 de Agosto de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO I — Mapa a que se refere o artigo 1.º
 
 Hospital de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/223b00/50685069.pdf))](https://files.diariodarepublica.pt/1s/1991/09/223b00/50685069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/223b00/50685069.pdf)
 
 ## ANEXO II — Mapa a que se refere o artigo 1.º
 
 Hospital de Angra do Heroísmo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/223b00/50685069.pdf))](https://files.diariodarepublica.pt/1s/1991/09/223b00/50685069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/223b00/50685069.pdf)
 
 ## ANEXO III — Mapa a que se refere o artigo 1.º
 
 Hospital da Horta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/09/223b00/50685069.pdf))](https://files.diariodarepublica.pt/1s/1991/09/223b00/50685069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/09/223b00/50685069.pdf)

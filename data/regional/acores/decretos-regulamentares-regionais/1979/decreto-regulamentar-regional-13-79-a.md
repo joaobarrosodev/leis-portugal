@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1979-382608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45fb84788a1db6096cc4436a11190a555b183036a691a109dfcfbc8895a82a6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6bed6d46a2319e5118c59e54bac069e15490ed1ab0e70de2711afd9ed9349f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Bandeira
+- Hino
 relationships:
 - type: amended_by
   target: pt:dre:153353:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:153353:por
+  label: "Alterdo o art. 3º pelo DRR.15/2002/A.2002.05.07.PG-RAA, DR.IS-B [125]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2002-153353
+  date: '2002-05-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:54Z'
   warnings: []
   errors: []
 ---
@@ -92,30 +100,30 @@ Estão em curso trabalhos para se obter uma versão aperfeiçoada do desenho do 
 
 Nestes termos, o Governo da Região Autónoma dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada a versão oficial da bandeira dos Açores, constante da figura anexa, que faz parte integrante do presente diploma.
+Artigo 1.º É aprovada a versão oficial da bandeira dos Açores, constante da figura anexa, que faz parte integrante do presente diploma.
 
-###### Art. 2.º - 1 - Nos edifícios públicos e em cerimónias oficiais a bandeira será sempre hasteada com a Bandeira Nacional.
+Art. 2.º - 1 - Nos edifícios públicos e em cerimónias oficiais a bandeira será sempre hasteada com a Bandeira Nacional.
 
 2 - Havendo dois mastros, a Bandeira Nacional ocupará o da direita e a dos Açores o da esquerda; havendo três mastros, a Bandeira Nacional ocupará o do centro e a dos Açores o da direita; havendo mais de três mastros, a Bandeira Nacional ocupará o primeiro da direita e a dos Açores o seguinte.
 
-###### Art. 3.º - 1 - A bandeira será hasteada nos domingos e dias feriados.
+Art. 3.º - 1 - A bandeira será hasteada nos domingos e dias feriados.
 
 2 - A bandeira será hasteada desde manhã ao pôr do Sol, excepto nos dias feriados de gala, em que se manterá até à meia-noite, nos edifícios que forem iluminados.
 
-###### Art. 4.º A bandeira não deverá ter mais de metade nem menos de um quarto da altura do mastro.
+Art. 4.º A bandeira não deverá ter mais de metade nem menos de um quarto da altura do mastro.
 
-###### Art. 5.º É aprovada a versão oficial da música do hino dos Açores, cuja melodia se publica em anexo e faz parte integrante do presente diploma.
+Art. 5.º É aprovada a versão oficial da música do hino dos Açores, cuja melodia se publica em anexo e faz parte integrante do presente diploma.
 
-###### Art. 6.º Este diploma produz efeitos a partir da data da publicação do Decreto Regional n.º 4/79-A.
+Art. 6.º Este diploma produz efeitos a partir da data da publicação do Decreto Regional n.º 4/79-A.
 
 Aprovado pelo Governo Regional em 4 de Abril de 1979.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 10 de Abril de 1979.**
+Assinado em Angra do Heroísmo em 10 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/11400/09810982.pdf))](https://files.diariodarepublica.pt/1s/1979/05/11400/09810982.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/11400/09810982.pdf)

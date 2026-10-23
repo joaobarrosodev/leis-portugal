@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/30/2010/11/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2010-308736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec1dd064f3e69bc4646bc8051faaad18eebbb6b16a26b68256f7c7118bbfe16c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97236d6e296d3aa72956ce90b25ae40f39b421fab034e974246f6a1796b74380
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Efeito de Estufa
-- Crime
-- Multa
+- Açores
+- Avaliação de Impacte Ambiental
 - Comissão de Análise
 - Conselho Regional do Ambiente e do Desenvolvimento Sustentavel
 - Contra-ordenação
+- Crime
 - Definição de Competências
-- Poluição Atmosférica
-- Segurança no Trabalho
+- Efeito de Estufa
 - Fiscalização
 - Fundo Regional para o Ambiente dos Açores
-- Avaliação de Impacte Ambiental
 - Licenciamento
-- Proteção do Ambiente
+- Multa
 - Plano de Emergência
+- Poluição
+- Poluição Atmosférica
 - Poluição da água
 - Poluição Marinha
+- Poluição Sonora
 - Poluição Transfronteiriça
+- Proteção do Ambiente
 - Qualidade de VIDA
 - Qualidade do Ambiente
 - Regime Jurídico
-- Poluição
-- Poluição Sonora
 - Sanção
-- Açores
+- Segurança no Trabalho
 - Substância Perigosa
 - Taxa
 relationships:
@@ -149,16 +149,22 @@ relationships:
   target: eli:http://data.europa.eu/eli/dir/1996
   label: null
   source: http://data.europa.eu/eli/dir/1996
+- type: repealed_by
+  target: pt:dre:926750282:por
+  label: Revogado, a partir de 01 de agosto de 2025, pelo(a) Decreto Legislativo Regional n.º 20/2025/A - Diário da República
+    n.º 144/2025, Série I de 2025-07-29, nos termos do seu artigo 115.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2025-926750282
+  date: '2025-07-29'
 article_structure:
   article_count: 136
-  section_count: 45
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 41
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:12Z'
   warnings: []
   errors: []
 ---
@@ -2117,13 +2123,17 @@ c) A disponibilização de informação sistematizada de apoio a investidores pa
 
 3 - A autoridade ambiental funciona como repositório de informação técnica relativa aos mecanismos de flexibilidade do Protocolo de Quioto e dos mecanismos semelhantes que sejam aplicáveis e daqueles que a eles estejam associados.
 
-##### SUBSECÇÃO II — Título de emissão de gases com efeito de estufa
+##### SUBSECÇÃO II
+
+## Título de emissão de gases com efeito de estufa
 
 ###### Artigo 96.º — Obrigatoriedade de título de emissão de gases com efeito de estufa
 
 Os operadores de instalações que desenvolvam actividade constante do anexo v de que resulte a emissão de gases com efeito de estufa devem possuir título de emissão de gases com efeito de estufa, emitido pela autoridade ambiental.
 
-###### Artigo 97.º — Título de emissão de gases com efeito de estufa
+###### Artigo 97.º
+
+## Título de emissão de gases com efeito de estufa
 
 O operador do estabelecimento apresenta, no âmbito do licenciamento ambiental, a informação relativa à emissão de gases com efeito de estufa, que inclui os elementos definidos na alínea d) do n.º 1 do artigo 58.º do presente diploma.
 
@@ -2689,11 +2699,11 @@ O presente diploma entra em vigor no 1.º dia útil do mês seguinte ao da sua p
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de Setembro de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 28 de Outubro de 2010.**
+Assinado em Angra do Heroísmo em 28 de Outubro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -2701,13 +2711,13 @@ O Representante da República para a Região Autónoma dos Açores, José Antón
 
 Projectos abrangidos pela obrigação de sujeição a avaliação de impacte ambiental independentemente das suas dimensões ou localização, a que se referem as alíneas a) e b) do n.º 1 do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf))](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
 
 ## ANEXO II
 
 Projectos não incluídos no anexo i abrangidos pela obrigação de sujeição a avaliação de impacte ambiental em função das suas dimensões e localização, a que se refere a alínea c) do n.º 1 do artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf))](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
 
 ## ANEXO III
 
@@ -2877,13 +2887,13 @@ Disposições técnicas relativas às substâncias perigosas
 
 6 - Para os efeitos do presente diploma, entende-se por «líquido» qualquer substância não definida como gás e que não se encontre no estado sólido à temperatura de 20ºC e à pressão normal de 101,3 kPa.
 
-# Parte 1
+Parte 1
 
 Substâncias designadas
 
 No caso de uma substância ou grupo de substâncias enumerados na parte 1 serem igualmente abrangidos por uma categoria da parte 2, devem ser consideradas as quantidades de limiar estabelecidas na parte 1.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf))](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
 
 Notas
 
@@ -2937,7 +2947,7 @@ Factores internacionais de toxicidade equivalente
 
 ITEF - International Toxic Equivalent Factors (ITEF) para os congéneres de preocupação (NATO/CCMS)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf))](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
 
 (1) Um teor de azoto de 15,75 % em massa resultante do nitrato de amónio corresponde a 45 % de nitrato de amónio.
 
@@ -2947,11 +2957,11 @@ ITEF - International Toxic Equivalent Factors (ITEF) para os congéneres de preo
 
 (4) Um teor de azoto de 28 % em massa resultante do nitrato de amónio corresponde a 80 % de nitrato de amónio.
 
-# Parte 2
+Parte 2
 
 Categorias de substâncias e preparações não designadas especificamente na parte 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf))](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
 
 Notas
 
@@ -2977,21 +2987,21 @@ Incluem-se nesta definição os artigos pirotécnicos que, para efeitos do prese
 
 As matérias e os objectos da classe 1 são classificados em qualquer das divisões 1.1 a 1.6, de acordo com o sistema de classificação RPE. As referidas divisões são as seguintes:
 
-##### Divisão 1.1: «Matérias e objectos que apresentem um risco de explosão em massa (explosão em massa é uma explosão que afecta de um modo praticamente instantâneo quase toda a carga)»;
+Divisão 1.1: «Matérias e objectos que apresentem um risco de explosão em massa (explosão em massa é uma explosão que afecta de um modo praticamente instantâneo quase toda a carga)»;
 
-##### Divisão 1.2: «Matérias e objectos que apresentem um risco de projecções sem risco de explosão em massa»;
+Divisão 1.2: «Matérias e objectos que apresentem um risco de projecções sem risco de explosão em massa»;
 
-##### Divisão 1.3: «Matérias e objectos que apresentem um risco de incêndio com um risco ligeiro de sopro ou de projecções, ou ambos, mas sem risco de explosão em massa:
+Divisão 1.3: «Matérias e objectos que apresentem um risco de incêndio com um risco ligeiro de sopro ou de projecções, ou ambos, mas sem risco de explosão em massa:
 
 a) Cuja combustão dá lugar a uma radiação térmica considerável; ou
 
 b) Que ardem de forma sucessiva, com efeitos mínimos de sopro ou de projecções, ou ambos.»;
 
-##### Divisão 1.4: «Matérias e objectos que apenas apresentam um perigo mínimo no caso de ignição ou de iniciação durante o transporte. Os efeitos são essencialmente limitados ao próprio volume e normalmente não dão lugar à projecção de fragmentos apreciáveis ou a apreciável distância. Um incêndio exterior não deve provocar a explosão praticamente instantânea da quase totalidade do conteúdo do volume»;
+Divisão 1.4: «Matérias e objectos que apenas apresentam um perigo mínimo no caso de ignição ou de iniciação durante o transporte. Os efeitos são essencialmente limitados ao próprio volume e normalmente não dão lugar à projecção de fragmentos apreciáveis ou a apreciável distância. Um incêndio exterior não deve provocar a explosão praticamente instantânea da quase totalidade do conteúdo do volume»;
 
-##### Divisão 1.5: «Matérias muito pouco sensíveis que apresentem um risco de explosão em massa, mas cuja sensibilidade é tal que, em condições normais de transporte, não haverá senão uma fraca probabilidade de iniciação ou de passagem da combustão à detonação. Como prescrição mínima, não devem explodir durante o ensaio ao fogo exterior»;
+Divisão 1.5: «Matérias muito pouco sensíveis que apresentem um risco de explosão em massa, mas cuja sensibilidade é tal que, em condições normais de transporte, não haverá senão uma fraca probabilidade de iniciação ou de passagem da combustão à detonação. Como prescrição mínima, não devem explodir durante o ensaio ao fogo exterior»;
 
-##### Divisão 1.6: «Objectos extremamente pouco sensíveis que não apresentem um risco de explosão em massa. Esses objectos só contêm matérias detonantes extremamente pouco sensíveis e apresentam uma probabilidade negligenciável de iniciação ou de propagação acidentais. O risco é limitado à explosão de um único objecto».
+Divisão 1.6: «Objectos extremamente pouco sensíveis que não apresentem um risco de explosão em massa. Esses objectos só contêm matérias detonantes extremamente pouco sensíveis e apresentam uma probabilidade negligenciável de iniciação ou de propagação acidentais. O risco é limitado à explosão de um único objecto».
 
 Incluem-se igualmente nesta definição as substâncias ou preparações pirotécnicas contidas em objectos. No que se refere a objectos que contenham substâncias ou preparações explosivas ou pirotécnicas, se a quantidade da substância ou preparação contida no objecto for conhecida, essa quantidade será considerada para efeitos do presente diploma. Se a quantidade não for conhecida, todo o objecto será tratado como explosivo para efeitos do presente diploma.
 
@@ -3045,7 +3055,7 @@ Estabelecimentos sujeitos a licença de emissão de gases com efeito de estufa, 
 
 Os limiares a seguir mencionados referem-se, de um modo geral, às capacidades de produção. Se o mesmo operador exercer várias actividades da mesma rubrica na mesma instalação ou no mesmo sítio, as capacidades dessas actividades devem ser adicionadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf))](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
 
 ## ANEXO VI — Categorias de actividades referidas no artigo 18.º
 
@@ -3055,7 +3065,7 @@ Notas técnicas
 
 2 - No caso de o operador desenvolver várias actividades da mesma rubrica no mesmo estabelecimento e no mesmo local, procede-se à soma das capacidades das referidas actividades, que se compara com o limiar de capacidade aplicável à actividade constante do mesmo anexo, de acordo com o Documento de Orientação para a Implementação do PRTR Europeu.
 
-# Parte 1
+Parte 1
 
 Categorias de actividades
 
@@ -3225,11 +3235,11 @@ d) Instalações para a produção de carbono (carvão sinterizado) ou electrogr
 
 e) Estaleiros de construção naval e instalações para pintura ou decapagem de navios, com capacidade para navios de 100 m ou mais de comprimento.
 
-# Parte 2
+Parte 2
 
 Poluentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf))](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/11/22100/0511805183.pdf)
 
 ## ANEXO VII — Lista indicativa das principais substâncias poluentes a considerar para a fixação dos valores limite de emissão, prevista no n.º 3 do artigo 69.º
 
@@ -3457,7 +3467,7 @@ c) Da produção de todas as informações relacionadas com cada fonte de emiss�
 
 ## ANEXO XII — Operações de eliminação e de valorização de resíduos
 
-# Parte A - Operações de eliminação de resíduos
+Parte A - Operações de eliminação de resíduos
 
 D1 - Deposição sobre o solo ou no seu interior (por exemplo, aterro sanitário, etc.).
 
@@ -3489,7 +3499,7 @@ D14 - Reembalagem anterior a uma das operações enumeradas de D1 a D13.
 
 D15 - Armazenagem enquanto se aguarda a execução de uma das operações enumeradas de D1 a D14 (com exclusão do armazenamento temporário, antes da recolha, no local onde esta é efectuada).
 
-# Parte B - Operações de valorização de resíduos
+Parte B - Operações de valorização de resíduos
 
 R1 - Utilização principal como combustível ou outros meios de produção de energia.
 

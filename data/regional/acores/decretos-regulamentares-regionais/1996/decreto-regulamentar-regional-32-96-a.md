@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/161b00/19511954.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/32/1996/07/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1996-414659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c35498fec43ed754c38394bf0591d3005815ae076349a25f6478905eb6c0da1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f68aa97c08e1ad481f45fab234068ef613b478142781eb50633f7b0fbd44095c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Imóvel Classificado
-- Obras de Conservação e Restauro
+- Açores
+- ÁREA NON Aedificandi
+- Câmara Municipal
 - Direcção Regional dos Assuntos Culturais
-- Património Cultural
+- Financiamento
 - Fiscalização
+- Imóvel Classificado
 - Licenciamento
+- Material de Construção
 - Moinho
 - Normas de Construção
-- Proteção do Ambiente
+- Obras de Conservação e Restauro
+- Património Cultural
 - Património Histórico
-- Zona de Proteção
+- Proteção do Ambiente
 - Protecção do Património
-- Câmara Municipal
-- Material de Construção
 - Secretário Regional da Educação e Cultura
-- Açores
 - Subsídio
-- ÁREA NON Aedificandi
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:479598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312987:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479598:por
+  label: "Revogado pelo DLR.29/2004/A.16.07.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2004-479598
+  date: '2004-07-16'
 article_structure:
   article_count: 19
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:40Z'
   warnings: []
   errors: []
 ---
@@ -288,10 +297,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 21 de Maio de 1996.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 19 de Junho de 1996.**
+Assinado em Angra do Heroísmo em 19 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

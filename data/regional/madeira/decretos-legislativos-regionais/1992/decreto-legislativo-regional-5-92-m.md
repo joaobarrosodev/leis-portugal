@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1992/03/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1992-176773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 487c7fcf793fac6ff54a1b9e118a00424a64eb479d1750b48ab2c893fcc0d9e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ffac191f2aa8aa16de08df1f191fa57fad702c1254bf2b6b5c4e6f2cc0eaad3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:219119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611495:por
+  label: "Revogada a subal. 2.ª da al. e) do n.º 1 do art. 2.º, pelo DLR.3/2010/M.19.03.2010.AL-RAM, DR.IS [55] de 19.03.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2010-611495
+  date: '2010-03-19'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:46Z'
   warnings: []
   errors: []
 ---
@@ -174,10 +204,10 @@ O presente diploma entra em vigor na mesma data da entrada em vigor do [Decreto-
 
 Aprovado em sessão plenária de 11 de Fevereiro de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 4 de Março de 1992.**
+Assinado em 4 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

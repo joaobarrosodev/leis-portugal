@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2009/10/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2009-482859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acc08e4c6c3c1caeb30552cd9bafa3a0d58ba1425864d103d77c6b7cbd6112b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cc08d70472455d8a477177fcffe07ba135b7a906c24f8974b505b24fc7ac0c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
+- Açores
+- Águas Residuais
 - Contra-ordenação
-- Saúde Pública
 - ETAR
+- Fertilizante
 - Fiscalização
 - Licenciamento
 - Proteção do Ambiente
-- Águas Residuais
-- Fertilizante
-- Tratamento de Resíduos
 - Regime Jurídico
 - Sanção
+- Saúde Pública
 - Sector Industrial
-- Açores
-- Abastecimento de Água
+- Tratamento de Resíduos
 - Utente
 - ZONA Sensivel
 relationships:
@@ -109,13 +109,13 @@ relationships:
 article_structure:
   article_count: 66
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:59Z'
   warnings: []
   errors: []
 ---
@@ -1108,11 +1108,11 @@ São revogados o Decreto Legislativo Regional n.º 16/2005/A, de 20 de Julho, e 
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de Setembro de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 29 de Setembro de 2009.**
+Assinado em Angra do Heroísmo em 29 de Setembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -1122,19 +1122,19 @@ QUADRO N.º 1
 
 Requisitos para as descargas das estações de tratamento de águas residuais urbanas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
 
 QUADRO N.º 2
 
 Requisitos para as descargas das estações de tratamento de águas residuais urbanas em zonas sensíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
 
 QUADRO N.º 3
 
 Número máximo de amostras não conformes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
 
 ## ANEXO II
 
@@ -1144,31 +1144,31 @@ QUADRO N.º 1
 
 Valores limite de concentração de metais pesados nos solos receptores de lamas de depuração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
 
 QUADRO N.º 2
 
 Valores limite de concentração de metais pesados nas lamas de depuração destinadas a utilização agronómica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
 
 QUADRO N.º 3
 
 Valores limite para as quantidades anuais de metais pesados que podem ser introduzidas nos solos cultivados (média de 10 anos)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
 
 QUADRO N.º 4
 
 Valores limite de concentração de compostos orgânicos nas lamas de depuração destinadas a utilização agronómica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
 
 QUADRO N.º 5
 
 Valores limite de concentração de dioxinas nas lamas de depuração destinadas a utilização agronómica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
 
 ## ANEXO III — Frequência das análises das lamas destinadas à agricultura e dos solos, parâmetros a analisar, métodos de amostragem e de análise e normas de referência a seguir
 
@@ -1272,8 +1272,8 @@ c) O limite de detecção para cada metal não deve exceder 10 % do respectivo v
 
 3.1 - Análise das lamas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
 
 3.2 - Análise dos solos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf))](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/20200/0787207890.pdf)

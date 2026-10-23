@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/01/01600/0000800032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2020/01/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2020-128415688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60ccffef449f7167a82c42e4261d919cd58012122332c314f6f53dbece8a4b8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed5478bd752f31b06cb51565937a4423845a9d2552f4d20fbbc8255e6be61381
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Conselho Regional de Saúde
 - Definição de Competências
-- Secretaria Regional da Saúde
+- Direcção Regional da Prevenção e Combate as Dependências
 - Direcção Regional da Saúde
+- Inspecção Regional da Saúde
 - Orgânica
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Direcção Regional da Prevenção e Combate as Dependências
-- Inspecção Regional da Saúde
+- Secretaria Regional da Saúde
 - Secretário Regional
-- Açores
 - SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
 relationships:
 - type: amended_by
@@ -111,16 +111,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/2016/11/21/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/2016/11/21/a/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75774120:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:166512677:por
+  label: Revogado, a partir de 07.07.2021, o presente diploma pelo(a) Decreto Regulamentar Regional n.º 15/2021/A - Diário
+    da República n.º 129/2021, Série I de 2021-07-06, nos termos do disposto no seu art. 6.º, e que determinou, nos termos
+    do seu art. 5.º, a transferência dos direitos e as obrigações de que eram titulares ou beneficiários os serviços objeto
+    do presente diploma para os serviços que ora passam a integrar, em razão da matéria, as respetivas competências, bem como
+    a transferência dos arquivos, acervos documentais, programas informáticos, bases de dados e outros suportes digitais que
+    lhes digam respeito, no prazo de 90 dias a partir da entrada em vigor daquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2021-166512677
+  date: '2021-07-06'
 article_structure:
   article_count: 50
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:30Z'
   warnings: []
   errors: []
 ---
@@ -151,11 +189,11 @@ O presente diploma produz efeitos a 23 de dezembro de 2019.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de dezembro de 2019.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 16 de janeiro de 2020.**
+Assinado em Angra do Heroísmo em 16 de janeiro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -237,7 +275,9 @@ O Conselho Regional de Saúde é um órgão de consulta sobre a política de sa�
 
 #### SECÇÃO II — Serviços executivos
 
-##### SUBSECÇÃO I — Divisão Administrativa, Financeira e Patrimonial
+##### SUBSECÇÃO I
+
+##### Divisão Administrativa, Financeira e Patrimonial
 
 ###### Artigo 7.º — Natureza e competências
 
@@ -293,7 +333,9 @@ a) A Secção de Pessoal, Expediente e Arquivo;
 
 b) A Secção de Contabilidade.
 
-###### Artigo 8.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 8.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 1 - Compete à Secção de Pessoal, Expediente e Arquivo, nomeadamente:
 
@@ -315,7 +357,9 @@ h) Executar as demais tarefas que lhe sejam superiormente determinadas.
 
 2 - A Secção de Pessoal, Expediente e Arquivo é dirigida por um coordenador técnico.
 
-###### Artigo 9.º — Secção de Contabilidade
+###### Artigo 9.º
+
+#### Secção de Contabilidade
 
 1 - Compete à Secção de Contabilidade, designadamente:
 
@@ -465,7 +509,9 @@ e) Direção de Serviços de Tecnologias e Sistemas de Informação, Infraestrut
 
 f) O Serviço de Apoio ao Doente Deslocado.
 
-###### Artigo 15.º — Divisão de Planeamento e Qualidade em Saúde
+###### Artigo 15.º
+
+##### Divisão de Planeamento e Qualidade em Saúde
 
 1 - A Divisão de Planeamento e Qualidade em Saúde, abreviadamente designada por DPQS, é o serviço de natureza executiva, ao qual compete, nomeadamente:
 
@@ -529,7 +575,9 @@ cc) Executar as demais tarefas que lhe sejam superiormente determinadas.
 
 2 - A DPQS é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 16.º — Divisão de Apoio Jurídico e Recursos Humanos
+###### Artigo 16.º
+
+##### Divisão de Apoio Jurídico e Recursos Humanos
 
 1 - A Divisão de Apoio Jurídico e de Recursos Humanos, abreviadamente designada por DAJRH, é um serviço de apoio técnico-jurídico, que atua nos domínios da gestão de recursos humanos, formação e concessão de incentivos, à qual compete, designadamente:
 
@@ -603,7 +651,9 @@ b) Divisão de Apoio às Farmácias e Medicamento.
 
 3 - A DSPCS é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 18.º — Divisão de Apoio à Prestação de Cuidados de Saúde e Licenciamentos
+###### Artigo 18.º
+
+##### Divisão de Apoio à Prestação de Cuidados de Saúde e Licenciamentos
 
 1 - À Divisão de Apoio à Prestação de Cuidados de Saúde e Licenciamentos, abreviadamente designada por DAPCSL, compete, nomeadamente:
 
@@ -685,7 +735,9 @@ f) Reclamar o auxílio de autoridades policiais e administrativas quando o julgu
 
 5 - A DAPCSL é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 19.º — Divisão de Apoio às Farmácias e Medicamento
+###### Artigo 19.º
+
+##### Divisão de Apoio às Farmácias e Medicamento
 
 1 - À Divisão de Apoio às Farmácias e Medicamento, abreviadamente designada por DAFM, compete, nomeadamente:
 
@@ -729,7 +781,9 @@ b) Divisão de Gestão Financeira.
 
 3 - A DSGFC é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 21.º — Divisão de Contratualização
+###### Artigo 21.º
+
+##### Divisão de Contratualização
 
 1 - À Divisão de Contratualização, abreviadamente designada por DC, compete, nomeadamente:
 
@@ -767,7 +821,9 @@ p) Executar as demais tarefas que lhe sejam superiormente determinadas.
 
 2 - A DC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 22.º — Divisão de Gestão Financeira
+###### Artigo 22.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira, abreviadamente designada por DGF, compete, nomeadamente:
 
@@ -829,7 +885,9 @@ c) Divisão de Instalações e Equipamentos de Saúde.
 
 3 - A DSTSIIA é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 24.º — Divisão de Tecnologias e Sistemas de Informação
+###### Artigo 24.º
+
+##### Divisão de Tecnologias e Sistemas de Informação
 
 1 - À Divisão de Tecnologias e Sistemas de Informação, abreviadamente designada por DTSI, compete, nomeadamente:
 
@@ -883,7 +941,9 @@ x) Executar as demais tarefas que lhe sejam superiormente determinadas.
 
 2 - A DTSI é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 25.º — Divisão de Aprovisionamento
+###### Artigo 25.º
+
+##### Divisão de Aprovisionamento
 
 1 - À Divisão de Aprovisionamento, abreviadamente designada por DA, compete, nomeadamente:
 
@@ -901,7 +961,9 @@ f) Executar as demais tarefas que lhe sejam superiormente determinadas.
 
 2 - A DA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 26.º — Divisão de Instalações e Equipamentos de Saúde
+###### Artigo 26.º
+
+##### Divisão de Instalações e Equipamentos de Saúde
 
 1 - À Divisão de Instalações e Equipamentos de Saúde, abreviadamente designada por DIES, compete, nomeadamente:
 
@@ -1031,7 +1093,9 @@ a) Divisão de Informação, Comunicação, Planeamento e Prevenção;
 
 b) Divisão de Intervenção Comunitária, Tratamento e Reabilitação.
 
-###### Artigo 32.º — Divisão de Informação, Comunicação, Planeamento e Prevenção
+###### Artigo 32.º
+
+##### Divisão de Informação, Comunicação, Planeamento e Prevenção
 
 1 - A Divisão de Informação, Comunicação, Planeamento e Prevenção, abreviadamente designada por DICPP, é o serviço de natureza executiva, ao qual compete, nomeadamente:
 
@@ -1055,7 +1119,9 @@ i) Executar as demais tarefas que lhe sejam superiormente determinadas.
 
 2 - A DICPP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 33.º — Divisão de Intervenção Comunitária, Tratamento e Reabilitação
+###### Artigo 33.º
+
+##### Divisão de Intervenção Comunitária, Tratamento e Reabilitação
 
 1 - A Divisão de Intervenção Comunitária, Tratamento e Reabilitação, abreviadamente designada por DICTR, é o serviço de natureza executiva ao qual compete, nomeadamente:
 
@@ -1225,4 +1291,6 @@ O pessoal afeto à SRS constará de lista nominativa a publicar na BEP-Açores.
 
 Quadro de pessoal dirigente e de chefia da Secretaria Regional da Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/01/01600/0000800032.pdf))](https://files.diariodarepublica.pt/1s/2020/01/01600/0000800032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/01/01600/0000800032.pdf)
+
+112933524

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/2002/08/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2002-626577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1a7e20f3f57a0768afe22fa7420bd11e55a00734bd13cd66252b5e2acb7df69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ce015310de6dd1a30b15c3e4fd186ecc1a6d2e94370610e50d8459b69d76c0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Autonomia Administrativa
-- Pessoal Dirigente
-- Definição de Competências
 - Carreira Profissional
+- Definição de Competências
+- Estágio de Formação
 - Fiscalização
-- Pesca
 - Inspecção Regional das Pescas
-- Recrutamento de Pessoal
-- Remuneração Acessória
 - Integração de Trabalhadores
 - Livre Trânsito
 - Orgânica
+- Pesca
 - Pessoal de Inspecção
-- Estágio de Formação
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Remuneração
+- Remuneração Acessória
 - Secretaria Regional da Agricultura e Pescas
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:146209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517379:por
+  label: "Alterado o quadro de pessoal constante do anexo I do DRR 11/2000/A, de 29-Mar, na redacção do presente diploma,\
+    \ pelo DRR.25/2004/A.08.06.2004.PG-RAA, DR.IS-B [157] de 06.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2004-517379
+  date: '2004-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
   label: null
@@ -109,16 +115,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146209:por
+  label: "Revogado pelo DRR.23/2011/A.21.11.2011.PG-RAA, DR.IS [223] de 21.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2011-146209
+  date: '2011-11-21'
 article_structure:
-  article_count: 44
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 34
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:33Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +196,9 @@ h) ...
 
 i) ...
 
-###### Artigo 13.º — Quadro de pessoal
+Artigo 13.º
+
+Quadro de pessoal
 
 1 - A IRP dispõe, para o desempenho das suas competências, do quadro de pessoal constante do anexo I ao presente diploma, que dele faz parte integrante.
 
@@ -189,7 +222,9 @@ h) Pessoal administrativo;
 
 i) Pessoal auxiliar.
 
-###### Artigo 15.º — Pessoal das carreiras de inspecção de pesca
+Artigo 15.º
+
+Pessoal das carreiras de inspecção de pesca
 
 1 - Integram as carreiras de regime especial de inspecção de pesca:
 
@@ -201,7 +236,9 @@ c) A carreira de inspector-adjunto de pesca.
 
 2 - A estrutura das carreiras de inspecção de pesca bem como as respectivas condições de ingresso e acesso regem-se pelo disposto no [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, adaptado à Região nos termos do [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de Novembro.
 
-###### Artigo 19.º — Conteúdos funcionais
+Artigo 19.º
+
+Conteúdos funcionais
 
 1 - Compete ao pessoal da carreira de inspector superior de pesca:
 
@@ -243,7 +280,9 @@ d) Colaborar com os inspectores superiores de pesca e inspectores técnicos de p
 
 e) Levantar autos de notícia por infracções detectadas nas suas áreas de intervenção.
 
-###### Artigo 20.º — Estágios
+Artigo 20.º
+
+Estágios
 
 1 - A IRP promoverá a organização de estágios de formação profissional de ingresso nas carreiras de inspecção de pesca, podendo fazê-lo em colaboração com outras entidades.
 
@@ -259,17 +298,23 @@ e) Levantar autos de notícia por infracções detectadas nas suas áreas de int
 
 7 - Os regulamentos dos estágios de ingresso nas carreiras de inspecção de pesca são aprovados por portaria conjunta do Secretário Regional da Agricultura e Pescas e do Secretário Regional Adjunto da Presidência.
 
-###### Artigo 22.º — Remunerações
+Artigo 22.º
+
+Remunerações
 
 As estruturas indiciárias e escalas salariais das carreiras de inspecção de pesca são as que constam do mapa I anexo ao [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril.
 
-###### Artigo 23.º — Suplemento de função inspectiva
+Artigo 23.º
+
+Suplemento de função inspectiva
 
 1 - O inspector regional das Pescas, o pessoal dirigente e o pessoal das carreiras de inspecção de pesca, em exercício de funções na IRP, têm direito, nos termos do artigo 12.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, a um suplemento remuneratório, correspondente a 22,5% da respectiva remuneração base.
 
 2 - O suplemento de função inspectiva a que se refere o número anterior é abonado em 12 mensalidades e releva para efeitos de aposentação, sendo considerado no cálculo da pensão pela forma prevista na alínea b) do artigo 47.º do Estatuto da Aposentação.
 
-###### Artigo 25.º — Identificação e livre-trânsito
+Artigo 25.º
+
+Identificação e livre-trânsito
 
 1 - O inspector regional das Pescas e o pessoal das carreiras de inspecção de pesca gozam do direito de uso de cartão de identidade e livre-trânsito de modelo a aprovar por portaria do Secretário Regional da Agricultura e Pescas.
 
@@ -277,7 +322,9 @@ As estruturas indiciárias e escalas salariais das carreiras de inspecção de p
 
 3 - O cartão de identidade e livre-trânsito do dirigente referido no n.º 1 é assinado pelo Secretário Regional da Agricultura e Pescas, sendo os restantes assinados pelo inspector regional das Pescas.
 
-###### Artigo 28.º — Transição de pessoal
+Artigo 28.º
+
+Transição de pessoal
 
 1 - A transição dos funcionários integrados nos grupos de pessoal da carreira técnica superior e da carreira técnica de inspecção do quadro da IRP para as carreiras de inspecção faz-se conforme a tabela constante do anexo II ao presente diploma, que dele faz parte integrante, e obedece às regras previstas nos artigos 15.º e 16.º, ambos do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril.
 
@@ -285,7 +332,9 @@ As estruturas indiciárias e escalas salariais das carreiras de inspecção de p
 
 3 - Os funcionários de outras carreiras que não reúnam os requisitos legais exigidos, desde que desempenhem funções inspectivas e detenham formação profissional, no âmbito das competências da IRP, podem transitar para a carreira de inspector-adjunto de pesca.
 
-###### Artigo 30.º — Integração nas carreiras de inspecção de pesca
+Artigo 30.º
+
+Integração nas carreiras de inspecção de pesca
 
 Os funcionários integrados noutras carreiras, desde que desempenhem funções de natureza inspectiva e que reúnam os requisitos legais exigidos nos termos do n.º 2 do artigo 16.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, podem ser integrados nas carreiras de inspecção de pesca.»
 
@@ -303,7 +352,9 @@ Recrutamento excepcional
 
 Os funcionários de outras carreiras, excepcionalmente, em casos devidamente fundamentados, podem ser recrutados, mediante concurso interno, para lugares de acesso, desde que possuam as habilitações adequadas e a experiência profissional de duração não inferior à normalmente exigida para acesso à categoria das carreiras de inspecção de pesca.
 
-###### Artigo 19.º — Intercomunicabilidade entre as carreiras de inspecção de pesca
+Artigo 19.º
+
+Intercomunicabilidade entre as carreiras de inspecção de pesca
 
 1 - Os inspectores técnicos especialistas de pesca com três anos de serviço na categoria e os inspectores técnicos especialistas principais de pesca, em ambos os casos com a habilitação mínima de curso superior que não confira o grau de licenciatura, podem candidatar-se à categoria de inspector principal da carreira de inspector superior de pesca, desde que, em alternativa:
 
@@ -337,23 +388,25 @@ c) Tenham obtido qualificações reconhecidas no âmbito dos sistemas educativo 
 
 Aprovado em Conselho do Governo Regional, na Horta, em 19 de Abril de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Junho de 2002.**
+Assinado em Angra do Heroísmo em 25 de Junho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO I — Mapa a que se refere o n.º 1 do artigo 13.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)
 
 ## ANEXO II — Mapa de transição a que se refere o n.º 1 do artigo 28.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 
@@ -537,7 +590,9 @@ e) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pelo seu pres
 
 5 - O regulamento interno do CC está sujeito a homologação do Secretário Regional da Agricultura e Pescas.
 
-###### Artigo 11.º — Divisão de Fiscalização da Pesca e da Qualidade dos Produtos
+###### Artigo 11.º
+
+##### Divisão de Fiscalização da Pesca e da Qualidade dos Produtos
 
 1 - À DFPQP, no âmbito das acções de fiscalização e controlo da pesca, compete:
 
@@ -575,7 +630,9 @@ f) Levantar autos de notícia pelas infracções verificadas no exercício da su
 
 3 - A DFPQP compete ainda disponibilizar a informação estatística relativa ao controlo da pesca e da qualidade dos produtos, assegurando os adequados sistemas de segurança e confidencialidade dos dados.
 
-###### Artigo 12.º — Divisão de Apoio Jurídico e Administrativo
+###### Artigo 12.º
+
+##### Divisão de Apoio Jurídico e Administrativo
 
 1 - A DAJA é o serviço ao qual compete:
 
@@ -805,8 +862,8 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 ## ANEXO I — Mapa a que se refere o n.º 1 do artigo 13.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)
 
 ## ANEXO II — Mapa de transição a que se refere o n.º 1 do artigo 26.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)](https://files.diariodarepublica.pt/1s/2002/08/201b00/62256235.pdf)

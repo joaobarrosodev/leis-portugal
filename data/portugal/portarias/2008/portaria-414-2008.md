@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/414/2008/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/414-2008-449676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70e8c7a7fe8ceb49ac91ba5050bd9f17f064952e98ad0e37405643874f34bf52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb65448f399cf124c6e6b4e6e491f7dd152c282d81e765fde91790b1a3a3265e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Aprendizagem Profissional
+- Avaliação de Conhecimentos
 - Certificação Profissional
 - Diploma
+- Ensino Artístico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
-- Exame
 - Ensino Secundário
-- Avaliação de Conhecimentos
+- Exame
 - Regulamento
 - Sistema Educativo
 relationships:
@@ -113,16 +113,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/780/2006/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/780/2006/08/09/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641762:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430060:por
+  label: "Revogada a Port 550-B/2004, de 21-maio, na redacção do presente diploma, pela PORT.243-A/2012.13.08.2012.MECI, DR.IS\
+    \ [156-Supl] de 13.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-a-2012-430060
+  date: '2012-08-13'
 article_structure:
-  article_count: 12
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:12Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +205,9 @@ c) A Língua Estrangeira I, como disciplina facultativa, a que se refere a alín
 
 8 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -195,11 +231,15 @@ e) ...
 
 6 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 As modalidades de avaliação são as referidas no artigo 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, com as alterações introduzidas pelos Decretos-Leis n.os24/2006, de 6 de Fevereiro, e 4/2008, de 7 de Janeiro.
 
-###### Artigo 20.º — Avaliação sumativa integrada no processo de ensino-aprendizagem
+Artigo 20.º
+
+Avaliação sumativa integrada no processo de ensino-aprendizagem
 
 1 - A avaliação sumativa integrada no processo de ensino-aprendizagem é formalizada em reuniões do conselho de turma, no final dos 1.º, 2.º e 3.º períodos lectivos, tendo, no final do 3.º período, as seguintes finalidades:
 
@@ -217,7 +257,9 @@ c) Decisão, conforme os casos, sobre a progressão nas disciplinas ou transiç�
 
 5 - Compete ao director de turma coordenar o processo de tomada de decisões relativas a esta forma de avaliação sumativa e garantir tanto a sua natureza globalizante como o respeito pelos critérios de avaliação referidos no n.º 1 do artigo 13.º
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - São definidos no anexo i o tipo e a duração das provas de equivalência à frequência.
 
@@ -259,11 +301,15 @@ e) Não tendo estado matriculados no ensino público ou no ensino particular e c
 
 15 - ...
 
-###### Artigo 27.º — Candidatos com necessidades educativas especiais de carácter permanente
+Artigo 27.º
+
+Candidatos com necessidades educativas especiais de carácter permanente
 
 Os candidatos com necessidades educativas especiais de carácter permanente, devidamente comprovadas, quando realizam provas de equivalência à frequência podem beneficiar de condições especiais de avaliação, ao abrigo da legislação em vigor sobre necessidades educativas especiais.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - A classificação final das disciplinas é obtida da seguinte forma:
 
@@ -275,7 +321,9 @@ b) ...
 
 3 - A classificação final em qualquer disciplina pode também obter-se pelo recurso à realização exclusiva de provas de equivalência à frequência, nos termos definidos no presente diploma, sendo a classificação final, em caso de aprovação, a obtida na prova.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -309,7 +357,9 @@ f) ...
 
 10 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -345,7 +395,9 @@ f) ...
 
 17 - ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -371,4 +423,4 @@ O disposto nos n.os 3.2, 20.6 e 20.7 do Regulamento dos Exames do Ensino Secund�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 27 de Maio de 2008.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 27 de Maio de 2008.

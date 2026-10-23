@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/03100/0087000875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2015/02/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2015-66507582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 126a3d5eff6921ac35445396694db88db0681d1267ddda35a757b64d7370f04d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3739002d10ac9c16425eb3966849c9a22df33f1e160b4fe89dbe30708018a98f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,67 +65,85 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Administração Financeira da Região Autónoma dos Açores
-- Empreendedorismo
+- Administração Regional
 - Aquisição de Bens e Serviços
-- Região Autónoma
+- Arrendamento Urbano não Habitacional
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Financiamento
-- Empresa
-- Gestão Financeira
-- Governo Regional
+- Auxílio de Minimis
+- Competitividade Empresarial
+- Conselho do Governo Regional
 - Conta de Gerência
-- Arrendamento Urbano não Habitacional
 - Controlo Financeiro
 - Definição de Competências
 - Delegação de Competências
-- Renovação Urbana
 - Despesas Públicas
+- Direcção Regional do Orçamento e Tesouro
 - Direcção Regional do Planeamento e Fundos Estruturais
 - Diretor Regional
 - Diversificação das Exportações
 - Dotação Orçamental
 - Duodécimo
 - Empreende Jovem
-- Competitividade Empresarial
+- Empreendedorismo
+- Empresa
 - Empresa Regional
 - Execução do Orçamento
-- Auxílio de Minimis
+- Exportação
+- Financiamento
 - Fiscalização
 - Fundo de Maneio
-- Presidente do Governo Regional
+- Gestão Financeira
 - Gestão Orçamental
-- Conselho do Governo Regional
+- Governo Regional
 - Investimento
-- Veículo
+- Jovem Empresário
 - Locação Financeira
 - Operações de Tesouraria
 - Orçamento
 - Orçamento Regional
-- Direcção Regional do Orçamento e Tesouro
 - Plano de Investimentos
-- Urbanismo
-- Exportação
+- Presidente do Governo Regional
 - Qualificação Profissional
-- Jovem Empresário
+- Região Autónoma
+- Renovação Urbana
 - Responsabilidade Tributária
-- Administração Regional
 - Sistema de Incentivos da Região Autónoma dos Açores
-- Açores
+- Sistema de Incentivos para a Competitividade Empresarial
 - Sistema de Incentivos Regionais
 - Subsídio
 - Subsídio não Reembolsável
+- Subsistema de Incentivos para o Desenvolvimento Local
+- Urbanismo
+- Veículo
 - Veículo do Estado
 - Vice-presidente do Governo Regional
-- Sistema de Incentivos para a Competitividade Empresarial
-- Subsistema de Incentivos para o Desenvolvimento Local
 relationships:
 - type: amended_by
   target: pt:dre:114440373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74895681:por
+  label: Alterado o art. 12.º do DRR 19/2014/A de 22-set, na redação dada pelo presente diploma, pelo(a) Decreto Regulamentar
+    Regional n.º 4/2016/A - Diário da República n.º 129/2016, Série I de 2016-07-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2016-74895681
+  date: '2016-07-07'
+- type: amended_by
+  target: pt:dre:74925436:por
+  label: Alterado o art. 3.º do DRR 21/2014/A de 10-out, que é republicado, na redação do presente diploma, pelo(a) Decreto
+    Regulamentar Regional n.º 6/2016/A - Diário da República n.º 133/2016, Série I de 2016-07-13 nos termos do seu art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2016-74925436
+  date: '2016-07-13'
+- type: amended_by
+  target: pt:dre:74967225:por
+  label: Alterado o art. 8.º do DRR 20/2014/A de 23-set, com a redação dada pelo presente diploma, pelo(a) Decreto Regulamentar
+    Regional n.º 7/2016/A - Diário da República n.º 137/2016, Série I de 2016-07-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2016-74967225
+  date: '2016-07-19'
 - type: cites
   target: eli:http://data.dre
   label: null
@@ -166,16 +184,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56894783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56894784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56941587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57205880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57308389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58248463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041469:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114440373:por
+  label: Revogado o DRR 18/2014/A, de 19-set, na redação do presente diploma pelo(a) Decreto Legislativo Regional n.º 1/2018/A
+    - Diário da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:19Z'
   warnings: []
   errors: []
 ---
@@ -428,7 +500,9 @@ b) Serviços - divisões 37, 38, 39, 62, 72, 75, 78, 79, com exceção da subcla
 
 4 - [...].
 
-###### Artigo 8.º — Concessão dos incentivos
+Artigo 8.º
+
+Concessão dos incentivos
 
 1 - Os incentivos são concedidos mediante despacho do membro do Governo Regional com competência em matéria de competitividade empresarial ou por resolução do Conselho do Governo Regional, de acordo com as respetivas competências em matéria de autorização de despesas ou, quando resultantes de aprovação de projetos aprovados pelo Programa Operacional dos Açores 2020, pela respetiva autoridade de gestão.
 
@@ -456,10 +530,10 @@ O presente diploma produz efeitos desde 1 de janeiro de 2015.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 14 de janeiro de 2015.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 28 de janeiro de 2015.**
+Assinado em Angra do Heroísmo em 28 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

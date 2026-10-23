@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1979-364723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ca3a9fb11715c604967f1a1c032a61c8562fa2c128bd27358d1ed16a24416ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ba5fb6a816243c1539a317c6e6884711ade5ad580aa4fb087e88224f3fdcd6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Administração Local
+- Autarquia Local
+- Finanças Locais
+- Governo Regional
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:432798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:56Z'
   warnings: []
   errors: []
 ---
@@ -94,23 +112,23 @@ Assim:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º A verba a transferir para as autarquias locais, por força da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), é inscrita no orçamento da Secretaria Regional da Administração Pública, à qual compete processar os respectivos pagamentos, de acordo com o disposto nos artigos seguintes.
+Artigo 1.º A verba a transferir para as autarquias locais, por força da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), é inscrita no orçamento da Secretaria Regional da Administração Pública, à qual compete processar os respectivos pagamentos, de acordo com o disposto nos artigos seguintes.
 
-###### Art. 2.º Os montantes devidos no ano de 1979 constam do quadro anexo ao presente diploma.
+Art. 2.º Os montantes devidos no ano de 1979 constam do quadro anexo ao presente diploma.
 
-###### Art. 3.º Aos montantes constantes do quadro anexo serão deduzidos os processamentos efectuados no corrente ano pelo Governo Regional como antecipações, no que respeita às cols. 1 e 4, ou contra autos de medição, quando à col. 3.
+Art. 3.º Aos montantes constantes do quadro anexo serão deduzidos os processamentos efectuados no corrente ano pelo Governo Regional como antecipações, no que respeita às cols. 1 e 4, ou contra autos de medição, quando à col. 3.
 
-###### Art. 4.º As verbas devidas aos municípios por força da alínea b) do n.º 1 do artigo 8.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho (OGE), constantes da col. 1 do quadro anexo, serão transferidas da forma seguinte:
+Art. 4.º As verbas devidas aos municípios por força da alínea b) do n.º 1 do artigo 8.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho (OGE), constantes da col. 1 do quadro anexo, serão transferidas da forma seguinte:
 
 a) O primeiro processamento corresponderá a 9/12 do montante global anual, deduzido da parcela já transferida, para despesas correntes, nos termos do artigo 3.º;
 
 b) Os restantes duodécimos serão processados mensalmente, nos quinze dias subsequentes à sua entrada nos cofres da Região.
 
-###### Art. 5.º As verbas devidas aos municípios por força da alínea c) do n.º 1 do artigo 8.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho (OGE), constam das cols. 2, 3 e 4 do quadro anexo ao presente diploma.
+Art. 5.º As verbas devidas aos municípios por força da alínea c) do n.º 1 do artigo 8.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho (OGE), constam das cols. 2, 3 e 4 do quadro anexo ao presente diploma.
 
-###### Art. 6.º As verbas constantes da col. 4 do quadro anexo correspondem à participação das autarquias locais da Região no Fundo de Equilíbrio Financeiro, nos termos da alínea c) do artigo 5.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), deduzida em cada município dos montantes devidos em 1979 por compromissos anteriores a 31 de Dezembro de 1978 pelo Governo da República - constantes da col. 2 - e pelo Governo Regional - inscritas na col. 3 -, e não prejudicam o disposto no n.º 4 do artigo 8.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho (OGE).
+Art. 6.º As verbas constantes da col. 4 do quadro anexo correspondem à participação das autarquias locais da Região no Fundo de Equilíbrio Financeiro, nos termos da alínea c) do artigo 5.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), deduzida em cada município dos montantes devidos em 1979 por compromissos anteriores a 31 de Dezembro de 1978 pelo Governo da República - constantes da col. 2 - e pelo Governo Regional - inscritas na col. 3 -, e não prejudicam o disposto no n.º 4 do artigo 8.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho (OGE).
 
-###### Art. 7.º - 1 - As verbas inscritas na col. 4 do quadro anexo serão transferidas da forma seguinte:
+Art. 7.º - 1 - As verbas inscritas na col. 4 do quadro anexo serão transferidas da forma seguinte:
 
 a) O primeiro processamento corresponderá a 9/12 do montante global anual, deduzido dos adiantamentos já processados, para despesas de capital, nos termos do artigo 3.º;
 
@@ -118,22 +136,22 @@ b) Os restantes duodécimos serão processados mensalmente, nos dias subsequente
 
 2 - As verbas referidas nas cols. 2 e 3 do quadro anexo serão transferidas pela Secretaria Regional da Administração Pública, mediante comunicação da Secretaria Regional responsável pela comparticipação, quando se trate da col. 3, e pela Secretaria Regional do Equipamento Social, nos casos da col. 2.
 
-###### Art. 8.º No prazo de trinta dias a contar da publicação do presente diploma os municípios deverão transferir para o Governo Regional o produto da cobrança do imposto de comércio e indústria, de acordo com o disposto no n.º 7 do artigo 8.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho (OGE).
+Art. 8.º No prazo de trinta dias a contar da publicação do presente diploma os municípios deverão transferir para o Governo Regional o produto da cobrança do imposto de comércio e indústria, de acordo com o disposto no n.º 7 do artigo 8.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho (OGE).
 
-###### Art. 9.º Por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e do Equipamento Social será definido o tipo de documentos de justificação a que se refere o n.º 2 do artigo 7.º e publicadas as instruções necessárias à execução do presente diploma.
+Art. 9.º Por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e do Equipamento Social será definido o tipo de documentos de justificação a que se refere o n.º 2 do artigo 7.º e publicadas as instruções necessárias à execução do presente diploma.
 
 Aprovado pelo Governo Regional em 5 de Setembro de 1979.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 8 de Outubro de 1979.**
+Assinado em Angra do Heroísmo em 8 de Outubro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 QUADRO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/10/24500/27332734.pdf))](https://files.diariodarepublica.pt/1s/1979/10/24500/27332734.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/10/24500/27332734.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/09300/0297302975.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/511/2009/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/511-2009-608717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21d8fd1ba1f42141b897621d84ef8bb10801374b25f532714affea9362bcd44a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cb04eead7ec9bc9a5e1a960c839391f489d5e58f4e15b658a1e11380e98b185
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono Complementar a Crianças e Jovens Deficientes
-- Subsídio Familiar a Crianças e Jovens
-- Proteção à Infância
-- Proteção ao Deficiente
 - Prestações da Segurança Social
 - Prestações Familiares
+- Proteção à Infância
+- Proteção ao Deficiente
 - Regime Geral da Segurança Social
 - Subsídio de Funeral
+- Subsídio Familiar a Crianças e Jovens
 - Subsídio por Assistência de Terceira Pessoa
 relationships:
 - type: amended_by
@@ -104,16 +104,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/341/1999/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/341/1999/08/25/p/dre
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652702:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:309315:por
+  label: "Revogadas as als. a) e b) do art 2.º e os arts 3.º e 4.º, pela PORT.1113/2010.28.10.2010.MFAP, DR.IS [210] de 28.10.2010\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1113-2010-309315
+  date: '2010-10-28'
+- type: repealed_by
+  target: pt:dre:74661192:por
+  label: Revogadas, com efeitos a partir de 01.04.2016, as als. a) e c) do n.º 1 e o n.º 2 do art. 5.º pelo(a) Portaria n.º
+    161/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/161-2016-74661192
+  date: '2016-06-09'
+- type: repealed_by
+  target: pt:dre:106428272:por
+  label: Revogada, a partir de 14.02.2017, com efeitos a partir de 01.01.2017, pelo(a) Portaria n.º 62/2017 - Diário da República
+    n.º 29/2017, Série I de 2017-02-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2017-106428272
+  date: '2017-02-09'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:42Z'
   warnings: []
   errors: []
 ---
@@ -264,4 +310,4 @@ São revogadas as Portarias n.os 346/2008, de 2 de Maio, e 425/2008, de 16 de Ju
 
 Em 30 de Abril de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.

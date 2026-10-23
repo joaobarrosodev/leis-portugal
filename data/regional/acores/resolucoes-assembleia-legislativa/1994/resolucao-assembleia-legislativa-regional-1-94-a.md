@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/1/1994/01/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/1-1994-496122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac4f984e5022873cd9fb5964ffbff04132ea22261b37a3a6fba5d2c7ea2c0fc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b31ab8936abb113bdfb2b9f5126559b41b15300ee86a9b1023323eba8fef31a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Regional
 - Açores
+- Plano Regional
 relationships:
 - type: cites
   target: celex:31989R4042
@@ -87,13 +87,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:00Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +104,7 @@ A Assembleia Legislativa Regional dos Açores resolve, nos termos da alínea o) 
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Dezembro de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
 Introdução
 
@@ -134,7 +134,7 @@ Em termos globais e numa perspectiva macroeconómica, no mundo industrializado r
 
 Indicadores - Variações anuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Envolvente nacional
 
@@ -146,7 +146,7 @@ Do lado da oferta, os sectores produtivos tiveram alguns problemas, traduzidos e
 
 PIB - 1992-1991
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 No mercado de trabalho, ter-se-á apurado um nível de desocupação involuntária de cerca de 4,1% da mão-de-obra. É um valor reduzido, quando comparado com a realidade europeia.
 
@@ -194,7 +194,7 @@ Indicadores de actividade económica
 
 Taxas de variação homólogas (1.º semestre de 1993)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Conforme detectado já em meados de 1992, verifica-se alguma repercussão da envolvente externa no ambiente económico regional, nomeadamente ao nível do turismo, como se pode constatar pela variação negativa do número de dormidas na hotelaria e também no número de passageiros movimentados nos aeroportos. Por outro lado, o progressivo encerramento do ciclo das grandes obras públicas tem vindo a desacelerar o crescimento do sector; aliás, no 1.º semestre do ano, a quantidade de cimento vendido teve uma variação negativa, quando comparada com período homólogo do ano anterior. A nível global do consumo privado, não havendo informação directa, poder-se-á, porém, referir que a quantidade de gasolina vendida nos primeiros seis meses de 1993 é superior em cerca de 1 milhão de litros à registada em período idêntico de 1992. Por outro lado, o número de viaturas descarregadas no porto de Ponta Delgada foi praticamente idêntico ao do 1.º semestre de 1992, havendo uma pequena variação positiva de cerca de 1%.
 
@@ -286,7 +286,7 @@ Existe um acréscimo de 10150 milhões de escudos em relação ao previsto no PM
 
 Por eixos de desenvolvimento, a repartição do investimento para 1994 é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 VII - Recursos financeiros
 
@@ -302,7 +302,7 @@ O Plano para 1994 está contido em 29 programas, que englobam cerca de 250 acç�
 
 Plano para 1994
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Eixo I - Dinamização da actividade económica
 
@@ -314,7 +314,7 @@ Para 1994, prevê-se uma dotação global para os cinco programas que constituem
 
 As acções com maior impacte financeiro em 1994 situam-se ao nível dos sistemas de incentivos à indústria, com uma dotação de 2050000 contos; dos sistemas de incentivos ao turismo, com 1954000 contos; da promoção e da animação do turismo, com 600000 contos; do apoio às explorações pecuárias, com uma dotação de 859000 contos; da frota pesqueira regional, com uma verba de 714000 contos; da estrutura de matadouros regionais, com 610000 contos; do saneamento financeiro de empresas, no domínio do sector agrícola, com 410000 contos, e da atribuição de subsídios e apoios às organizações de produtores, às conserveiras regionais e à primeira venda de pescado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Programa n.º 1 - Agricultura
 
@@ -402,13 +402,13 @@ O tipo de intervenção consistirá basicamente na construção, beneficiação 
 
 São cinco os programas afectos a este eixo, cobrindo sectores como a educação, emprego e formação profissional, saúde e juventude. As acções com maior impacte financeiro em 1994 são a continuação da construção do Hospital do Divino Espírito Santo, com 3840000 contos, a construção da Escola Secundária da Madalena, com uma dotação de 300000 contos, a construção do edifício de ciências humanas da Universidade dos Açores, o apoio à habitação para jovens, a construção do centro de saúde em São Roque do Pico, com 418000 contos. O pagamento da contrapartida regional de acções de formação profissional ascenderá aos 300000 contos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Plano para 1994 - Desenvolvimento dos recursos humanos
 
 Repartição por programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Programa n.º 8 - Construções Escolares
 
@@ -538,7 +538,7 @@ A política energética para o próximo quadriénio terá como objectivo princip
 
 São cinco os programas afectos a este eixo, cobrindo aqueles vectores estratégicos e correspondentes a infra-estruturas de carácter eminentemente horizontal. Em termos financeiros, para 1994, relevam o porto de pescas da Praia da Vitória (1108000 contos), o porto da Horta (500000 contos), a 2.ª circular a Ponta Delgada (450000 contos) e a variante PDL/Lagoa (600000 contos). Na intervenção no domínio da energia, sobressai, pelo impacte financeiro, o subsídio de exploração concedido à EDA, E. P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Plano para 1994 - Transportes e energia
 
@@ -608,13 +608,13 @@ A natureza dispersa do território exige uma formulação correcta da política 
 
 São vários os subeixos de actuação, desde a defesa e preservação do ambiente e dos recursos naturais até à habitação, passando pela cultura, desporto, segurança social e protecção civil. É neste eixo de desenvolvimento que se regista um maior número de programas (10) e consequentemente o maior número de acções, cerca de 85. Em termos financeiros, à excepção do apoio à construção e aquisição de habitação própria, que tem uma dotação de 1360000 contos, as restantes intervenções têm uma menor expressão financeira, destacando-se, ainda no âmbito da habitação, a recuperação do parque habitacional e alojamento (300000 contos) e o sistema de apoio SAFIN (200000 contos). No âmbito do desporto sobressai o parque desportivo de Ponta Delgada, sendo o Convento de São Francisco a maior obra no domínio da cultura (346400 contos). O Lar de Idosos de Augusto César F. Cabido é a acção da segurança social com maior expressão financeira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Plano para 1994 - Ambiente e qualidade de vida
 
 Repartição por programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Programa n.º 18 - Ambiente
 
@@ -822,13 +822,13 @@ São dois os programas para este eixo, cobrindo áreas de intervenção como a g
 
 Em termos de impacte financeiro, as acções mais relevantes são naturalmente as que derivam do apoio e cooperação com as autarquias locais. Assim, a cooperação financeira directa e indirecta com os municípios e com as freguesias e a respectiva cooperação técnica são as quatro acções com maiores dotações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Plano para 1994 - apoio global
 
 Repartição por programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf))](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/020b00/03820398.pdf)
 
 Programa n.º 28 - Administração Regional e Local
 

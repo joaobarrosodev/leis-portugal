@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2009/07/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2009-492731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81c4e39e21a6ca5c1dcb3159f1045b2973b2ede575a09dc03600b1b43fff0bd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cd1ed12fe9144b9983ba9653ef5cecb836b15b9709be585c7ef538f95f5e2c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
+- Açores
 - Contrato
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
+- Garantia
 - Obras Públicas
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:72970526:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544588:por
+  label: "Dada nova redação aos arts. 3º e 5º pelo DLR.3/2012/A.13.01.2012.AL-RAA, DR.IS [10] de 13.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2012-544588
+  date: '2012-01-13'
+- type: amended_by
+  target: pt:dre:260390:por
+  label: "Dada nova redação ao art. 5º (com as alterações constantes do DLR 3/2012/A de 13-jan) pelo DLR.2/2013/A.22.04.2013.AL-RAA,\
+    \ DR.IS [78] de 22.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2013-260390
+  date: '2013-04-22'
+- type: amended_by
+  target: pt:dre:570685:por
+  label: "Dada nova redação ao art. 5.º (alterado pelos DLR 3/2012/A de 13-jan e 2/2013/A de 22-abr) pelo DLR.2/2014/A.29.01.2014.AL-RAA,\
+    \ DR.IS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2014-570685
+  date: '2014-01-29'
+- type: amended_by
+  target: pt:dre:66041469:por
+  label: Dada nova redação ao art. 5.º (alterado pelos DLR 3/2012/A de 13-jan, 2/2013/A de 22-abr e 2/2014/A de 29-jan) pelo(a)
+    Decreto Legislativo Regional n.º 1/2015/A - Diário da República n.º 4/2015, Série I de 2015-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2015-66041469
+  date: '2015-01-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
   label: null
@@ -84,16 +107,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/34/2008/07/28/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/34/2008/07/28/a/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454780:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:72970526:por
+  label: Revogado (a partir de 01.01.2016) pelo(a) Decreto Legislativo Regional n.º 27/2015/A - Diário da República n.º 253/2015,
+    Série I de 2015-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2015-72970526
+  date: '2015-12-29'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:57Z'
   warnings: []
   errors: []
 ---
@@ -152,10 +189,10 @@ O presente diploma produz efeitos no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de Julho de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 20 de Julho de 2009.**
+Assinado em Angra do Heroísmo em 20 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 36/1998, 1º Suplemento, Série I-B de 1998-02-12
   number: '36'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 568-(2) a 568-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/02/036b01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1-b/1998/02/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-b-1998-485243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e07fc493b33ae03b12f93fe20f662c7dc025c2063424c0887d40d2eec6ec289
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f26758bce53201963efe68bb566415a43042a507ae0bcc93d6111f84395a5eb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
 - Aquisição de Imóveis
-- Região Autónoma
 - Despesas Públicas
 - Dotação Orçamental
 - Duodécimo
@@ -76,12 +76,17 @@ subjects:
 - Fundo de Maneio
 - Orçamento da Segurança Social
 - Orçamento Regional
-- Açores
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:486499:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:486499:por
+  label: "Alterada a redacção do art. 19º pelo DRR.20/98/A.1998.06.08.PG-RAA, DR.IS-B [154] de 07/Jul/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1998-486499
+  date: '1998-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
   label: null
@@ -98,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/7/1997/05/24/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/7/1997/05/24/a/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:56Z'
   warnings: []
   errors: []
 ---
@@ -300,7 +329,7 @@ c) Os directores regionais e os órgãos máximos dos serviços com autonomia ad
 
 ###### Artigo 21.º — Regulamentação
 
-**O Secretário Regional da Presidência para as Finanças e Planeamento emitirá os regulamentos que se mostrem necessários à execução do presente diploma.**
+O Secretário Regional da Presidência para as Finanças e Planeamento emitirá os regulamentos que se mostrem necessários à execução do presente diploma.
 
 ###### Artigo 22.º — Produção de efeitos
 
@@ -308,10 +337,10 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1998.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 8 de Janeiro de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 2 de Fevereiro de 1998.**
+Assinado em Angra do Heroísmo em 2 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

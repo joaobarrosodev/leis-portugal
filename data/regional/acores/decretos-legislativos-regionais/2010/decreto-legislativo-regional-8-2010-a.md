@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2010/03/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2010-610404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec89967e0eb1a35d2d8ea8b1593f830488ea3225e5805191878893062cfa21b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 257d75a97e861b5e6fc66f810f74b614e8d3274a12de24c6903d9d8ab9514d80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,43 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Abastecimento de Água
+- Açores
 - Autonomia Administrativa
 - Autonomia Financeira
-- Gestão de Resíduos
-- Gestão Financeira
 - Conselho Administrativo
+- Conselho de Parceiros
 - Conselho Fiscal
 - Contra-ordenação
 - Criação de Serviços
 - Empresa Pública Regional
 - Fiscalização
-- Pagamento
-- Conselho de Parceiros
-- Orgânica
 - Gestão de Recursos Humanos
-- Açores
-- Abastecimento de Água
+- Gestão de Resíduos
+- Gestão Financeira
+- Orgânica
+- Pagamento
+- Reestruturação de Serviços
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:75774120:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:75774120:por
+  label: Determinada, com efeitos a 04.11.2016, a transição para a dependência do Secretário Regional da Energia, Ambiente
+    e Turismo da Entidade Reguladora dos Serviços de Água e Resíduos dos Açores (ERSARA), anteriormente no âmbito do Secretário
+    Regional dos Recursos Naturais, cujas atribuições e competências constam no presente diploma, pelo(a) Decreto Regulamentar
+    Regional n.º 9/2016/A - Diário da República n.º 223/2016, Série I de 2016-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2016-75774120
+  date: '2016-11-21'
 - type: cites
   target: celex:31998L0083
   label: null
   source: http://data.europa.eu/eli/dir/1998/83/oj
+- type: repealed_by
+  target: pt:dre:146215:por
+  label: "Revogado, a partir de 30.12.2011, o DLR 20/2007/A, de 23-Ago, na redacção do presente diploma, pelo DLR.29/2011/A.16.11.2011.AL-RAA,\
+    \ DR.IS [220] de 16.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2011-146215
+  date: '2011-11-16'
 article_structure:
   article_count: 41
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:14Z'
   warnings: []
   errors: []
 ---
@@ -702,10 +716,10 @@ O presente decreto diploma entra em vigor no 1.º dia do mês imediato ao da sua
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de Janeiro de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 11 de Fevereiro de 2010.**
+Assinado em Angra do Heroísmo em 11 de Fevereiro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

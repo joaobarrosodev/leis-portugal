@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/100a00/19932002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/1992/04/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1992-498570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71f876518a14d3e6dbaa7da25854f497db789f307db11adc4ec0a0aec9edbe51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8371a132525f855f3823785a81cb839e2ee6da15623ff64fc3d392923e611efb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,20 +78,45 @@ relationships:
   target: pt:dre:420784:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADOS UM NOVO NUM 8 AO ART 56 E UM NOVO NUM 2 AO ART 57 PELO DLR 2/95/M DE 02-FEV DR.IS-A [45] DE 22/FEV/1995.\0\
+    V/1995."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-02-22'
+- type: amended_by
+  target: pt:dre:620365:por
+  label: "Aditado um nº 9 ao art 56º e um nº 3 ao art 57º, pelo DLR 1/96/M.1996.01.19.ALR-RAM, DR.IS-A [36] de 1996.02.12\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-1996-620365
+  date: '1996-02-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:470792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:420784:por
+  label: "Revogado pelo DLR.7/2000/M.2000.02.14.ALR-RAM DR.IS-A [51] de 01/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2000-420784
+  date: '2000-02-14'
 article_structure:
   article_count: 71
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:42Z'
   warnings: []
   errors: []
 ---
@@ -712,10 +737,10 @@ O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária em 13 de Março de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 7 de Abril de 1992.**
+Assinado em 7 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

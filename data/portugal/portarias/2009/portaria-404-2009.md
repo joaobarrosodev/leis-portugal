@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/404/2009/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/404-2009-603922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e80697692c29457485c2cccb9b2050be75aec3037e4db6fe0f0ee1987c490fdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28139417ce1f18867c110beb1163ef8ed0bdcfebbac7b5dc903a1379db54bdf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:344243:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344243:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 155/2004, de 13-Fev, alterada pela presente\
+    \ portaria, pela PORT.858/2010.07.09.2010.MADRP, DR.IS [174] de 07.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/858-2010-344243
+  date: '2010-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/155/2004/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/155/2004/02/13/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578337:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:59Z'
   warnings: []
   errors: []
 ---
@@ -118,4 +136,4 @@ A zona de caça associativa da Ribeira da Gafa (processo n.º 3573-AFN) passa a 
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 3 de Abril de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07200/0222502225.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07200/0222502225.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07200/0222502225.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2007/01/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2007-262158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de1c1ded98d9c61c99526cff9dabeb8ca465f3ad1ebf3f74ae6f0bd566b30339
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be513aa88ca7463353638df0a7f7b653e473a951ea1cf113fb496488baaab9cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Comparticipação do Estado
-- Lei de Bases
-- Organização Desportiva
-- Madeira.região Autónoma
-- Regime Jurídico
 - Desporto
+- Financiamento
+- Lei de Bases
+- Madeira.região Autónoma
+- Organização Desportiva
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:58986482:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455661:por
+  label: "Alterado o artigo 63.º do presente diploma, que dá nova redacção ao artigo 3.º do DLR 12/2005/M de 26 de Julho,\
+    \ pelo DLR.29/2008/M.12.08.2008.AL-RAM, DR.IS [155] de 12.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2008-455661
+  date: '2008-08-12'
+- type: amended_by
+  target: pt:dre:58986482:por
+  label: Alterado o art. 56.º do presente diploma, pelo(a) Decreto Legislativo Regional n.º 14/2014/M - Diário da República
+    n.º 226/2014, Série I de 2014-11-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2014-58986482
+  date: '2014-11-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/67/1997/04/03/p/dre
   label: null
@@ -103,16 +115,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/2004/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2004/07/21/p/dre
+- type: cites
+  target: pt:dre:240044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 68
+  article_count: 66
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:53Z'
   warnings: []
   errors: []
 ---
@@ -631,7 +679,9 @@ f) ...
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -647,7 +697,9 @@ d) As entidades não desportivas que promovam actividade desportiva.
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -687,10 +739,10 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de Novembro de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 18 de Dezembro de 2006.**
+Assinado em 18 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

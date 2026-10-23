@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 233/2008, 1º Suplemento, Série I de 2008-12-02
   number: '233'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8616-(2) a 8616-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/23301/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1384-a/2008/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1384-a-2008-341804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c791b5932293b9444bcb611a3b9cc44d3df8fa2b3a920ede1b6105995a7a34a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a6ce1d01b7538734cc85e7bd8cd18d72bf25a6f0395dbb170aa163aebe98402
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Campanha Vinícola
-- Vinho
 - Apoio ao Investimento
+- Campanha Vinícola
+- Financiamento
 - Pagamento
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:484140:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522987:por
+  label: "Alterado o art. 11.º da Port 1144/2008, de 10-Out, na redacção do presente diploma, pela PORT.495-A/2010.13.07.2010.MADRP,\
+    \ DR.IS [134-Supl] de 13.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/495-a-2010-522987
+  date: '2010-07-13'
+- type: amended_by
+  target: pt:dre:342165:por
+  label: "Alterado o art. 11º da Port 1144/2008, de 10-Out, na redacção do presente diploma, republicada pela Port 495-A/2010,\
+    \ de 13-Jul, pela PORT.987/2010.28.09.2010.MADRP, DR.IS [189] de 28.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/987-2010-342165
+  date: '2010-09-28'
+- type: amended_by
+  target: pt:dre:668537:por
+  label: "Alterado o art. 11º da Port 1144/2008, de 10-Out, pela PORT.281/2011.17.10.2011.MAMAOT, DR.IS [199] de 17.10.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2011-668537
+  date: '2011-10-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/83/1997/04/09/p/dre
   label: null
@@ -87,16 +105,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1144/2008/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1144/2008/10/10/p/dre
+- type: cites
+  target: pt:dre:452752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468802:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:484140:por
+  label: "Revogada a Port 1144/2008 de 10-out, na redação do presente diploma, pela PORT.357/2013.10.12.2013.MAGM, DR.IS [239]\
+    \ de 10.12.2013, sem prejuízo do disposto no n.º 1 do art. 21.º desta\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-2013-484140
+  date: '2013-12-10'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:35Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2015/06/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2015-67590382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab8b6322e0ff99e9c8ee1a0b5be00a8c7e0c59e368fb96c228aacb4dedb9d34b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63c33698b50f21ce66212d1bfe5a4b6e27ef1cfa5928b36ad391066a7566bad6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Política de Cooperação
+- Açores
+- Administração Regional
+- Agricultura
+- Apoio ao Investimento
+- Aquicultura
 - Desenvolvimento Regional
 - Desenvolvimento Social
-- Política Energética
-- Apoio ao Investimento
 - Investimento Público
-- Aquicultura
+- Pecuária
+- Política Agrícola
+- Política de Cooperação
+- Política de Educação
+- Política de Emprego
+- Política de Juventude
 - Política do Ambiente
 - Política Económica
-- Política de Educação
+- Política Energética
 - Política Social
-- Política de Emprego
-- Política Agrícola
-- Política de Juventude
-- Pecuária
-- Agricultura
-- Administração Regional
-- Açores
+- Turismo
 relationships:
 - type: cites
   target: celex:31992R2080
@@ -130,16 +130,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/12/2014/07/24/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/12/2014/07/24/a/dre
+- type: cites
+  target: pt:dre:145273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669284:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:01Z'
   warnings: []
   errors: []
 ---
@@ -160,11 +256,11 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de abril de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 26 de maio de 2015.**
+Assinado em Angra do Heroísmo em 26 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -194,23 +290,23 @@ O objetivo «Aumentar a Coesão Territorial e a Sustentabilidade», dotado com 1
 
 Para «Afirmar a Identidade Regional e Promover a Cooperação Externa», está consagrada uma dotação de cerca de 1,7 milhões de euros, representando 0,2 % do valor global.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 INVESTIMENTO PÚBLICO 2015 - Desagregação por Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Na sequência da alteração orgânica do XI Governo Regional dos Açores, explicitada no [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), de 24 de julho, o Plano de 2015 reflete essa nova estrutura, transitando os programas, projetos e ações dos departamentos do Governo Regional objeto de alteração para os correspondentes novos departamentos.
 
 INVESTIMENTO PÚBLICO 2015 - Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 QUADRO GLOBAL DE FINANCIAMENTO DA ADMINISTRAÇÃO PÚBLICA REGIONAL
 
 O investimento público, para o ano 2015, ascenderá a 725,2 milhões de euros, apresentando-se de seguida o seu quadro de financiamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Esta política orçamental está enquadrada no âmbito de financiamento global previsto na Lei de Finanças das Regiões Autónomas, baseando-se na prossecução do seu integral cumprimento por parte do Governo da República e no pressuposto de uma correta afetação ao orçamento regional de todas as receitas fiscais efetivamente geradas na Região.
 
@@ -230,7 +326,7 @@ Programa 1 - Competitividade, Emprego e Gestão Pública
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -416,7 +512,7 @@ Programa 2 - Agricultura, Florestas e Desenvolvimento Rural
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -574,7 +670,7 @@ Programa 3 - Pescas e Aquicultura
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -694,7 +790,7 @@ Programa 4 - Desenvolvimento do Turismo
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -764,7 +860,7 @@ Programa 5 - Educação, Ciência e Cultura
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -880,7 +976,7 @@ Implementação da matrícula eletrónica.
 
 5.7.1 Valorizar em Ciência
 
-Apoio à gestão, funcionamento e reequipamento científico de instituições de I&D; Apoio ao desenvolvimento de infraestruturas tecnológicas; Apoio à implementação de projetos de ID&I no SCTA e empresas; Criação, funcionamento e reequipamento de infraestruturas de divulgação científica (DC&T)/ Centros de Ciência.
+Apoio à gestão, funcionamento e reequipamento científico de instituições de I&D Apoio ao desenvolvimento de infraestruturas tecnológicas; Apoio à implementação de projetos de ID&I no SCTA e empresas; Criação, funcionamento e reequipamento de infraestruturas de divulgação científica (DC&T)/ Centros de Ciência.
 
 5.7.2 Cooperação e Criação de Parcerias em I&D
 
@@ -1058,7 +1154,7 @@ Programa 6 - Desenvolvimento do Sistema de Saúde
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -1210,7 +1306,7 @@ Programa 7 - Solidariedade Social
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -1414,7 +1510,7 @@ Programa 8 - Habitação e Renovação Urbana
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -1474,7 +1570,7 @@ Programa 9 - Desporto e Juventude
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -1636,7 +1732,7 @@ Programa 10 - Transportes, Energia e Infraestruturas Tecnológicas
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -1970,7 +2066,7 @@ Programa 11 - Prevenção de Riscos e Proteção Civil
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -2064,7 +2160,7 @@ Programa 12 - Ambiente e Ordenamento
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -2272,7 +2368,7 @@ Programa 13 - Informação e Comunicação
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -2298,7 +2394,7 @@ Programa 14 - Comunidades e Cooperação Externa
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Programação Material
 
@@ -2374,22 +2470,22 @@ Investimento Público 2015
 
 Desagregação por Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Investimento Público 2015
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Investimento Público 2015
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
 
 Investimento Público 2015
 
 Desagregação Espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf))](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/06/12200/0443204477.pdf)

@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/68-1988-357676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 639101805a505faba5cc16726bc7bda9d84e71be8159375d6b786bb8c851c12e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76ba30d6efd725165ea023b8639383adbfdf39ee0fabc3bc4e0d9f5669e96599
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Empresa Pública Regional
+- Estatuto
+- Fábrica de Tabaco Micaelense
+relationships:
+- type: cites
+  target: pt:dre:471144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573347:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
+  article_count: 46
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:17Z'
   warnings: []
   errors: []
 ---
@@ -89,21 +101,21 @@ Assim:
 
 Em execução do disposto no artigo 2.º do [Decreto-Lei n.º 315/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1980-471144), de 20 de Agosto, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o novo Estatuto da Fábrica de Tabaco Micaelense, Empresa Pública Regional, abreviadamente designada por FTM - E. P., anexo ao presente diploma e do qual faz parte integrante.
+Artigo 1.º É aprovado o novo Estatuto da Fábrica de Tabaco Micaelense, Empresa Pública Regional, abreviadamente designada por FTM - E. P., anexo ao presente diploma e do qual faz parte integrante.
 
-###### Art. 2.º É revogado o Estatuto aprovado pelo [Decreto Regulamentar Regional n.º 29/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1981-573347), de 5 de Maio.
+Art. 2.º É revogado o Estatuto aprovado pelo [Decreto Regulamentar Regional n.º 29/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1981-573347), de 5 de Maio.
 
-###### Art. 3.º O presente diploma entra em vigor na data da sua publicação.
+Art. 3.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Agosto de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 28 de Outubro de 1988.**
+Assinado em Angra do Heroísmo em 28 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Estatuto da Fábrica de Tabaco Micaelense, Empresa Pública Regional
 

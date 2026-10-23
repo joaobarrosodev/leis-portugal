@@ -46,36 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1986-229090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7362d84757fa5ae8692d9a3d629c4f450d48fbf1be501b1eb35042354d223cab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: afd096ec48be411206b88e2a8b2d347148cc0755eee9f69fb8e8a7c9c7725a7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Empresa de Electricidade dos Açores
+- Energia Elétrica
+- Estatuto
+relationships:
+- type: cites
+  target: pt:dre:369580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:31Z'
   warnings: []
   errors: []
 ---
@@ -88,21 +112,21 @@ Tendo em conta a revisão operada no [Decreto-Lei n.º 260/76](https://diariodar
 
 O Governo Regional, em execução do disposto no artigo 13.º do [Decreto Regional n.º 16/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857), de 21 de Agosto, e nos termos da alínea b) do artigo 44.º do Estatuto Político-Administrativo e da alínea b) do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º É aprovado o novo Estatuto da Empresa de Electricidade dos Açores (EDA), E. P., o qual faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o novo Estatuto da Empresa de Electricidade dos Açores (EDA), E. P., o qual faz parte integrante do presente diploma.
 
-###### Art. 2.º É revogado o [Decreto Regulamentar Regional n.º 34/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1981-579746), de 18 de Julho, em tudo o que contrariar o disposto neste decreto.
+Art. 2.º É revogado o [Decreto Regulamentar Regional n.º 34/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1981-579746), de 18 de Julho, em tudo o que contrariar o disposto neste decreto.
 
-###### Art. 3.º O presente diploma entra em vigor na data da sua publicação.
+Art. 3.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 18 de Dezembro de 1985.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Maio de 1986.**
+Assinado em Angra do Heroísmo em 20 de Maio de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Estatuto da Empresa de Electricidade dos Açores (EDA), E. P.
 
@@ -110,7 +134,7 @@ Estatuto da Empresa de Electricidade dos Açores (EDA), E. P.
 
 #### SECÇÃO I — Da natureza, sede e regime
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Denominação e natureza)
 
@@ -118,13 +142,13 @@ Estatuto da Empresa de Electricidade dos Açores (EDA), E. P.
 
 2 - A capacidade jurídica da EDA abrange todos os direitos e obrigações necessários à prossecução do seu efeito, tal como definido neste Estatuto.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Sede)
 
 A EDA tem a sua sede na cidade de Ponta Delgada e exerce a sua actividade em todo o território da Região Autónoma dos Açores, podendo dispor, para o efeito, de delegações com capacidade técnica e administrativa necessária à eficiente gestão do sector em cada ilha do arquipélago.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Regime jurídico)
 
@@ -132,19 +156,19 @@ A EDA rege-se pelo presente Estatuto, pela legislação aplicável às empresas 
 
 #### SECÇÃO II — Do objecto
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Objectivo principal)
 
 A EDA tem por objectivo principal o estabelecimento e exploração do serviço público de produção, transporte e distribuição de energia eléctrica na Região Autónoma dos Açores, de harmonia com as grandes linhas de desenvolvimento económico e social definidas no Plano Regional.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Objectivo acessório)
 
 A EDA poderá ainda praticar todos os actos e contratos de gestão privada que entenda necessários ou convenientes à execução ou desenvolvimento do seu objecto principial e exercer outras actividades comerciais e industriais, nomeadamente complementares ou relacionadas com aquele objecto.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Âmbito do serviço confiado à empresa)
 
@@ -158,13 +182,13 @@ b) A exploração dos aproveitamentos hidráulicos de fins múltiplos e de centr
 
 #### SECÇÃO III — Do capital estatutário
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Capital estatuário)
 
 O capital estatutário da EDA é de 1592005141$90, conforme consta do Despacho Normativo n.º 44 dos Secretários Regionais das Finanças e do Comércio e Indústria, datado de 21 de Março de 1984.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Modificação do capital estatutário)
 
@@ -174,19 +198,19 @@ O capital estatutário da EDA é de 1592005141$90, conforme consta do Despacho N
 
 #### SECÇÃO IV — Do património
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Constituição do património)
 
 O património da EDA é constituído por todos os bens e direitos já pertencentes à Empresa e, bem assim, por todos aqueles que venha a adquirir para ou no exercício da sua actividade.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Cadastro)
 
 A EDA deve manter em dia o cadastro, quer dos bens que constituem o seu património, quer dos bens do Estado e da Região que estejam afectos às suas actividades.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Receitas)
 
@@ -204,13 +228,13 @@ e) O produto de doações, heranças ou legados que lhe sejam destinados;
 
 f) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, lhe devam pertencer.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Empréstimos)
 
 A EDA pode, nos termos da legislação aplicável, contrair empréstimos a curto, médio e longo prazos, em moeda nacional ou estrangeira, bem como emitir obrigações.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Responsabilidade por dívidas)
 
@@ -220,7 +244,7 @@ Pelas dívidas da EDA responde exclusivamente o seu património privativo.
 
 #### SECÇÃO I — Disposições gerais
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Órgãos da Empresa)
 
@@ -234,13 +258,13 @@ b) A comissão de fiscalização.
 
 3 - Por despacho conjunto dos Secretários Regionais das Finanças e do Comércio e Indústria, as funções da comissão de fiscalização poderão ser confiadas a uma sociedade de revisores de contas.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Descentralização operacional)
 
 A organização geral da EDA assegurará a descentralização operacional, quer no plano funcional, quer no plano geográfico, dentro dos princípios estabelecidos no artigo 11.º do [Decreto Regional n.º 16/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857), de 21 de Agosto.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Responsabilidade civil e criminal)
 
@@ -252,7 +276,7 @@ A organização geral da EDA assegurará a descentralização operacional, quer 
 
 #### SECÇÃO II — Conselho de administração
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Composição e nomeação)
 
@@ -264,7 +288,7 @@ A organização geral da EDA assegurará a descentralização operacional, quer 
 
 4 - Na falta ou impedimento do presidente, as suas funções serão exercidas pelo vogal escolhido pelo conselho.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Competência do conselho de administração)
 
@@ -306,7 +330,7 @@ p) Constituir mandatários com os poderes que julgar convenientes.
 
 4 - A comissão executiva referida no número anterior laborará em regime de tempo inteiro, será presidida pelo presidente do conselho de administração e constituída por um máximo de três membros, competindo a sua nomeação e exoneração ao Conselho do Governo Regional, sob proposta do Secretário Regional do Comércio e Indústria.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Competência do presidente)
 
@@ -328,7 +352,7 @@ e) Desempenhar as funções cometidas no n.º 3 do artigo anterior à comissão 
 
 4 - A confirmação do veto implica a ineficácia da deliberação.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Reuniões)
 
@@ -348,7 +372,7 @@ d) Compareçam à reunião.
 
 4 - Os membros de ambos os órgãos consideram-se sempre regularmente convocados para as reuniões ordinárias que se realizem em dias e horas previamente fixados.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Deliberações)
 
@@ -358,7 +382,7 @@ d) Compareçam à reunião.
 
 3 - De todas as reuniões serão lavradas actas.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Delegação de poderes)
 
@@ -368,7 +392,7 @@ d) Compareçam à reunião.
 
 3 - As delegações de que trata o presente artigo serão comunicadas ao Secretário Regional do Comércio e Indústria.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Formas de obrigação da Empresa)
 
@@ -380,7 +404,7 @@ b) Pela assinatura de um administrador que, para tanto, haja recebido delegaçã
 
 c) Pela assinatura de procuradores legalmente constituídos.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Exercício da gestão)
 
@@ -390,7 +414,7 @@ c) Pela assinatura de procuradores legalmente constituídos.
 
 #### SECÇÃO III — Comissão de fiscalização
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Composição e nomeação)
 
@@ -400,7 +424,7 @@ c) Pela assinatura de procuradores legalmente constituídos.
 
 3 - As funções de membros da comissão de fiscalização são acumuláveis com o exercício de outras funções profissionais, sem prejuízo das incompatibilidades previstas na lei.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Competência da comissão de fiscalização)
 
@@ -422,7 +446,7 @@ e) Pronunciar-se sobre qualquer assunto de interesse para a Empresa.
 
 4 - O presidente da comissão de fiscalização, por sua iniciativa ou a pedido do presidente do conselho de administração, poderá assistir às reuniões do conselho de administração e da comissão executiva ou nelas fazer-se representar por outro membro da comissão.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Reuniões)
 
@@ -432,7 +456,7 @@ e) Pronunciar-se sobre qualquer assunto de interesse para a Empresa.
 
 3 - Sempre que este Estatuto ou o conselho de administração não estabeleçam prazos mais dilatados, os pareceres da comissão serão emitidos nos cinco dias subsequentes ao da recepção dos correspondentes pedidos.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Deliberações)
 
@@ -440,7 +464,7 @@ e) Pronunciar-se sobre qualquer assunto de interesse para a Empresa.
 
 ### CAPÍTULO III — Intervenção do Governo Regional
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Submissão ao Plano Regional)
 
@@ -448,13 +472,13 @@ e) Pronunciar-se sobre qualquer assunto de interesse para a Empresa.
 
 2 - O Governo Regional garantirá as condições necessárias ao equilíbrio económico-financeiro da EDA, em termos que lhe permitam alcançar os seus objectivos e viabilizar a sua expansão.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Contratos-programa)
 
 No quadro das orientações gerais do Plano Regional de Desenvolvimento e durante o período da sua vigência, a Região e a EDA assumirão compromissos recíprocos através da celebração, entre si, de contratos-programa, nos termos da legislação em vigor.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Tutela económica e financeira)
 
@@ -500,7 +524,7 @@ Os demais actos que, nos termos da legislação aplicável, necessitem de autori
 
 ### CAPÍTULO IV — Da gestão patrimonial e financeira
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Disposição e administração de bens)
 
@@ -508,7 +532,7 @@ Os demais actos que, nos termos da legislação aplicável, necessitem de autori
 
 2 - A Empresa administra ainda os bens do domínio do Estado e da Região Autónoma dos Açores que estejam ou venham a estar afectos às actividades a seu cargo, mantendo actualizado o respectivo cadastro.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Autonomia financeira)
 
@@ -516,7 +540,7 @@ Os demais actos que, nos termos da legislação aplicável, necessitem de autori
 
 2 - O disposto na segunda parte do número anterior não impede a concessão, por parte da Região ou de outras entidades, de comparticipações ou subsídios destinados ao fomento da electrificação ou a obras ou instalações cuja finalidade não seja de interesse exclusivo para o sector eléctrico.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Princípios de gestão)
 
@@ -538,7 +562,7 @@ g) Compatibilidade da estrutura financeira com a rentabilidade da exploração �
 
 h) Adopção de uma gestão previsional por objectivos, assente na descentralização e delegação de responsabilidades e adaptada à dimensão da Empresa.
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Instrumentos de gestão previsional e de controle de gestão)
 
@@ -552,7 +576,7 @@ c) Relatórios de controle orçamental adaptados às características da Empresa
 
 2 - Os Secretários Regionais das Finanças e do Comércio e Indústria fixarão as regras a observar para a apresentação dos documentos referidos no número anterior.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Planos de actividade e financeiros plurianuais)
 
@@ -560,7 +584,7 @@ c) Relatórios de controle orçamental adaptados às características da Empresa
 
 2 - Os planos financeiros plurianuais incluirão o programa de investimentos e respectivas fontes de financiamento e, para um período bienal, a conta de exploração, o balanço, o plano financeiro e o balanço cambial previsionais, constituindo, em relação ao primeiro ano, uma síntese do orçamento anual, sendo apresentados nos prazos previstos no n.º 2 do artigo seguinte.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Plano de actividade e orçamento anual)
 
@@ -570,13 +594,13 @@ c) Relatórios de controle orçamental adaptados às características da Empresa
 
 3 - A Empresa preparará, até 31 de Agosto de cada ano, uma primeira versão de elementos básicos dos seus orçamentos de exploração, investimento, financeiro e cambial, a fim de poderem ser considerados no processo de elaboração do Plano e de este poder, por sua vez, ter influência na fixação dos projectos definitivos dos orçamentos de exploração e de investimento.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Normas contabilísticas)
 
 A contabilidade será organizada por forma a garantir a maior eficácia na consecução dos objectivos da Empresa e em conformidade com as exigências da sua exploração, devendo possibilitar a fiscalização permanente da arrecadação das receitas e da regularidade das despesas, bem como a determinação dos eventuais desvios entre as verbas orçamentadas e as correspondentes realidades, os quais deverão ser cabalmente justificados aquando da apresentação das contas de exercício.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Provisões, reservas e fundos)
 
@@ -598,7 +622,7 @@ d) Fundo para fins sociais.
 
 5 - O fundo para fins sociais, fixado em percentagem dos resultados, destina-se a financiar benefícios sociais ou o fornecimento de serviços colectivos aos trabalhadores da Empresa e será utilizado com audição prévia das suas estruturas representativas.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Distribuição de lucros)
 
@@ -606,13 +630,13 @@ d) Fundo para fins sociais.
 
 2 - Havendo prejuízo, será o mesmo suportado pela reserva geral, na medida da sua capacidade, e o remanescente, se o houver, levado a conta nova.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Prestação de contas)
 
 Serão elaborados, com referência a 31 de Dezembro de cada ano, um relatório do conselho de administração dando conta da forma como foram atingidos os objectivos da Empresa e avaliando a eficiência desta nos vários aspectos da sua actuação e, bem assim, os documentos de prestação de contas exigidos pelo plano fiscal de contabilidade e demais legislação aplicável.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Especialidade de alguns actos)
 
@@ -620,7 +644,7 @@ Serão elaborados, com referência a 31 de Dezembro de cada ano, um relatório d
 
 2 - Os contratos de arrendamento cuja celebração se mostre necessária à actividade da Empresa estão isentos de todas as formalidades exigidas para o arrendamento de imóveis nos termos dos destinados ao serviço da Região.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Arquivo)
 
@@ -632,7 +656,7 @@ Serão elaborados, com referência a 31 de Dezembro de cada ano, um relatório d
 
 ### CAPÍTULO V — Do pessoal
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Regime de pessoal)
 
@@ -644,7 +668,7 @@ b) Pelos instrumentos de regulamentação colectiva de trabalho que forem aplic�
 
 c) Pelas demais normas que integram o competente Estatuto.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Regime de previdência do pessoal)
 
@@ -652,7 +676,7 @@ c) Pelas demais normas que integram o competente Estatuto.
 
 2 - A EDA promoverá a harmonização dos regimes de previdência social dos trabalhadores que nela ingressarem, salvaguardando os direitos e regalias adquiridos.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Comissão de serviço e acumulações)
 
@@ -668,13 +692,13 @@ c) Pelas demais normas que integram o competente Estatuto.
 
 ### CAPÍTULO VI — Do regime fiscal
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Regime fiscal da Empresa)
 
 Enquanto não for definido um regime fiscal próprio, a EDA fica sujeita ao regime estabelecido na lei para as empresas concessionárias de produção, transporte e distribuição de energia eléctrica.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Regime fiscal do pessoal)
 
@@ -682,7 +706,7 @@ O pessoal da EDA sujeita-se, quanto às respectivas remunerações, à tributaç
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Preenchimento de cargos vagos dos órgãos da Empresa)
 
@@ -694,7 +718,7 @@ O pessoal da EDA sujeita-se, quanto às respectivas remunerações, à tributaç
 
 4 - O exercício do mandato em qualquer dos órgãos da Empresa não depende de prestação de caução.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Local das reuniões)
 
@@ -702,19 +726,19 @@ O pessoal da EDA sujeita-se, quanto às respectivas remunerações, à tributaç
 
 2 - O conselho de administração porá à disposição da comissão de fiscalização dos conselhos regionais, quando existam, e dos órgãos representativos da estrutura dos trabalhadores os meios de apoio indispensáveis ao desempenho das respectivas funções.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Trabalhadores membros dos órgãos da Empresa)
 
 Os membros dos órgãos da Empresa que tenham a qualidade de trabalhadores da mesma manterão os seus lugares nos respectivos quadros, com os direitos e regalias a eles inerentes.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Regalias sociais)
 
 Os membros do conselho de administração e da comissão de fiscalização terão direito às regalias sociais asseguradas aos trabalhadores da Empresa e que, pela sua natureza, sejam compatíveis com o exercício do cargo.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Integração no regime de previdência)
 
@@ -722,13 +746,13 @@ Os membros do conselho de administração e da comissão de fiscalização terã
 
 2 - Os encargos com pensões de aposentação, sobrevivência, assistência na doença, abono de família ou quaisquer outras regalias que, anteriormente à transferência dos trabalhadores para a EDA, correspondessem à comparticipação da entidade patronal passarão a constituir encargo da Empresa.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Diferendos)
 
 Os diferendos entre os órgãos da Empresa serão decididos pelo Governo Regional, através dos Secretários Regionais competentes em razão da matéria.
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Normas de funcionamento)
 

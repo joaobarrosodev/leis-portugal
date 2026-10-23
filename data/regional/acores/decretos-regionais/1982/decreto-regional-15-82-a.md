@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15600/20522053.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/15-1982-394569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ced6ed90c92a7021727d8d26597a29dfbba92df6efb0e52e2c05f769f3ce14a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 837b5b0118efd574aee00570612946572df24f9350b14edd8f4ab52c6da39719
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ilha do Pico
+- Proteção do Ambiente
+- Reserva Natural
 relationships:
 - type: amended_by
   target: pt:dre:456524:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456524:por
+  label: "Revogado o presente diploma e reclassificada e integrada no Parque Natural da Ilha do Pico, a Reserva Natural da\
+    \ Montanha da Ilha do Pico pelo DLR.20/2008/A.09.07.2008.AL-RAA, DR.IS [131] de 09.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2008-456524
+  date: '2008-07-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:24Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +116,11 @@ Tendo entretanto sido publicada nova legislação relativa à conservação da N
 
 Assim, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição da República, a Assembleia Regional dos Açores decreta o seguinte:
 
-###### Artigo 1.º É criada a Reserva Natural da Montanha da Ilha do Pico.
+Artigo 1.º É criada a Reserva Natural da Montanha da Ilha do Pico.
 
-###### Art. 2.º Os limites da Reserva vêm indicados na planta anexa ao presente diploma, que dele faz parte integrante.
+Art. 2.º Os limites da Reserva vêm indicados na planta anexa ao presente diploma, que dele faz parte integrante.
 
-###### Art. 3.º - 1 - A Reserva Natural da Montanha da Ilha do Pico é administrada por uma comissão administrativa presidida pelo representante da Secretaria Regional do Equipamento Social, nomeado por esta, e de que fazem parte representantes designados pelas seguintes entidades:
+Art. 3.º - 1 - A Reserva Natural da Montanha da Ilha do Pico é administrada por uma comissão administrativa presidida pelo representante da Secretaria Regional do Equipamento Social, nomeado por esta, e de que fazem parte representantes designados pelas seguintes entidades:
 
 Secretaria Regional da Agricultura e Pescas;
 
@@ -110,7 +132,7 @@ Câmaras Municipais de São Roque, Lajes e Madalena do Pico.
 
 3 - Com o plano director será aprovado um regulamento que definirá os órgãos e o modo de funcionamento definitivos da Reserva.
 
-###### Art. 4.º Ficam dependentes de autorização da Secretaria Regional do Equipamento Social a realização dos seguintes trabalhos que visam apenas o serviço da Reserva Natural:
+Art. 4.º Ficam dependentes de autorização da Secretaria Regional do Equipamento Social a realização dos seguintes trabalhos que visam apenas o serviço da Reserva Natural:
 
 a) Construção de edifícios;
 
@@ -118,7 +140,7 @@ b) Abertura de caminhos de interesse para a gestão da Reserva ou para o seu usu
 
 c) A reintrodução de espécies da flora indígena, de acordo com o plano director.
 
-###### Art. 5.º Ficam proibidas na Reserva Natural as seguintes actividades:
+Art. 5.º Ficam proibidas na Reserva Natural as seguintes actividades:
 
 a) A caça;
 
@@ -130,7 +152,7 @@ d) A prática de campismo fora dos locais para esse fim expressamente indicados;
 
 e) A realização de quaisquer actividades que perturbem o equilíbrio natural ou as condições de calma e silêncio da Reserva.
 
-###### Art. 6.º As contravenções previstas no artigo 5.º, sem prejuízo de outras sanções aplicáveis, são punidas:
+Art. 6.º As contravenções previstas no artigo 5.º, sem prejuízo de outras sanções aplicáveis, são punidas:
 
 a) Com multa de 500$00 a 10000$00, as previstas nas alíneas a), b), c) e e);
 
@@ -138,22 +160,22 @@ b) Com multa de 500$00 a 1000$00, as previstas na alínea d);
 
 c) Com o máximo das multas previstas nas alíneas anteriores, respectivamente, e prisão até um mês, em caso de reincidência.
 
-###### Art. 7.º As despesas emergentes da execução do disposto no presente diploma serão suportadas pelas rubricas adequadas da Secretaria Regional do Equipamento Social.
+Art. 7.º As despesas emergentes da execução do disposto no presente diploma serão suportadas pelas rubricas adequadas da Secretaria Regional do Equipamento Social.
 
-###### Art. 8.º Serão aprovados por decreto regulamentar regional os sinais indicativos de protecção, permissões e condicionamentos previstos neste diploma para os quais não existam já modelos previamente estabelecidos.
+Art. 8.º Serão aprovados por decreto regulamentar regional os sinais indicativos de protecção, permissões e condicionamentos previstos neste diploma para os quais não existam já modelos previamente estabelecidos.
 
-###### Art. 9.º São nulas e sem efeito as licenças municipais ou outras passadas com violação das disposições do presente diploma.
+Art. 9.º São nulas e sem efeito as licenças municipais ou outras passadas com violação das disposições do presente diploma.
 
-###### Art. 10.º As dúvidas surgidas com a interpretação do presente diploma serão resolvidas por despacho do Secretário Regional do Equipamento Social.
+Art. 10.º As dúvidas surgidas com a interpretação do presente diploma serão resolvidas por despacho do Secretário Regional do Equipamento Social.
 
 Aprovado pela Assembleia Regional dos Açores em 27 de Janeiro de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 12 de Maio de 1982.**
+Assinado em Angra do Heroísmo em 12 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/15600/20522053.pdf))](https://files.diariodarepublica.pt/1s/1982/07/15600/20522053.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/15600/20522053.pdf)

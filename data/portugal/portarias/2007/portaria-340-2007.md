@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06400/19491950.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/340/2007/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/340-2007-520385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 253a02458d295497991afbe219176a01d58f7a92edcbce44335f5fa54b63eed1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d90e5593a2894ee81444d479ce9a17dd343a4f08d327cdecfce8e65534edcfb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério da Administração Interna
-- Definição de Competências
 - Autoridade Nacional de Segurança Rodoviária
+- Definição de Competências
+- Ministério da Administração Interna
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:306617:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602063:por
+  label: "Alterado o art. 4º e revogada a al. j) do nº 2 do art. 3º, pela PORT.162/2009.13.02.2009.MFAP, DR.IS [31] de 13.02.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-2009-602063
+  date: '2009-02-13'
+- type: amended_by
+  target: pt:dre:306617:por
+  label: "Alterado o art. 2º, pelo DEC LEI.138/2010.28.12.2010.MOPTC, DR.IS [250] de 28.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-2010-306617
+  date: '2010-12-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/77/2007/03/29/p/dre
   label: null
@@ -83,16 +94,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:520462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:494031:por
+  label: "Rectificada pela DECL-RECT.22-B/2007.30.03.2007.PCM, DR.IS [64]2ºSupl de 30.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/22-b-2007-494031
+  date: '2007-03-30'
+- type: repealed_by
+  target: pt:dre:107014815:por
+  label: Revogada, a partir de 01.06.2017, pelo(a) Portaria n.º 163/2017 - Diário da República n.º 94/2017, Série I de 2017-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/163-2017-107014815
+  date: '2017-05-16'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:57Z'
   warnings: []
   errors: []
 ---
@@ -211,4 +240,4 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 29 de Março de 2007.
 
-**O Ministro de Estado e da Administração Interna, António Luís Santos Costa. - Pelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento.**
+O Ministro de Estado e da Administração Interna, António Luís Santos Costa. - Pelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento.

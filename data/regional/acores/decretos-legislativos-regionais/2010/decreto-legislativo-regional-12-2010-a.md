@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2010/03/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2010-612624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 683d4315f60e6c9adc4a681cba23410a105271fdedc0807805a3e3656cf29749
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31449155781244db2db445eb980f78ffdec70fffc3c6b8fcd51253bad405c97c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Câmara Municipal
 - Espetáculos e Divertimentos Públicos
 - Fiscalização
 - Licenciamento
-- Tauromaquia
-- Câmara Municipal
-- Regime Jurídico
 - Livro Genealógico
-- Açores
-- Touro de LIDE
+- Regime Jurídico
+- Tauromaquia
 - Tourada
+- Touro de LIDE
 relationships:
 - type: amended_by
   target: pt:dre:553896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145251:por
+  label: "Alterados os arts. 45º e 46º do DLR 37/2008/A, de 05-Ago, na redacção do presente diploma, pelo DLR.34/2011/A.06.12.2011.AL-RAA,\
+    \ DR.IS [233] de 06.12.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/34-2011-145251
+  date: '2011-12-06'
+- type: amended_by
+  target: pt:dre:553896:por
+  label: "Alterado o art. 45º do DLR 37/2008/A, de 05-ago, na redação do presente diploma, pelo DLR.13/2012/A.28.03.2012.AL-RAA,\
+    \ DR.IS [63] de 28.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2012-553896
+  date: '2012-03-28'
 - type: cites
   target: celex:32004R0852
   label: null
@@ -94,15 +106,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/37/2008/08/05/a/dre
 article_structure:
-  article_count: 142
+  article_count: 129
   section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:06Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +167,9 @@ l) «Vacada em cerrado» a manifestação de carácter popular, caracterizada pe
 
 m) «Bezerrada» a manifestação de carácter popular, caracterizada pela existência de bezerros ou bezerras da raça brava, definidos nos termos da alínea a), embolados ou não, à corda ou à solta em áreas devidamente tapadas para o efeito, destinando-se principalmente ao divertimento de crianças.
 
-###### Artigo 45.º — Tourada tradicional, não tradicional e particular
+Artigo 45.º
+
+Tourada tradicional, não tradicional e particular
 
 1 - ...
 
@@ -169,7 +183,9 @@ m) «Bezerrada» a manifestação de carácter popular, caracterizada pela exist
 
 6 - ...
 
-###### Artigo 46.º — Critérios distintivos das touradas tradicionais e não tradicionais
+Artigo 46.º
+
+Critérios distintivos das touradas tradicionais e não tradicionais
 
 1 - ...
 
@@ -191,7 +207,9 @@ f) (Eliminada.)
 
 4 - ...
 
-###### Artigo 49.º — Período de realização e horário
+Artigo 49.º
+
+Período de realização e horário
 
 1 - ...
 
@@ -203,17 +221,23 @@ f) (Eliminada.)
 
 5 - ...
 
-###### Artigo 50.º — Número de touradas por freguesia
+Artigo 50.º
+
+Número de touradas por freguesia
 
 1 - Em cada freguesia e freguesias contíguas, dentro do mesmo concelho, só pode ser autorizada a realização de uma manifestação taurina no mesmo dia.
 
 2 - No caso de pedidos de licenciamento para o mesmo dia numa freguesia ou em freguesias contíguas, dentro do mesmo concelho, dá-se prioridade ao pedido de licenciamento que primeiro tiver sido apresentado junto da câmara municipal, sem prejuízo do disposto no n.º 2 do artigo 45.º
 
-###### Artigo 55.º — Duração da lide
+Artigo 55.º
+
+Duração da lide
 
 A duração da lide de cada touro tem um mínimo de quinze minutos e um máximo de trinta minutos, exceptuando-se os casos não imputáveis ao ganadeiro.
 
-###### Artigo 62.º — Ferras e marcações obrigatórias
+Artigo 62.º
+
+Ferras e marcações obrigatórias
 
 1 - O touro escolhido para a lide deve ter obrigatoriamente marcado a fogo os seguintes sinais:
 
@@ -225,7 +249,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 63.º — Acto de enjaulamento, gaiolas e termo da tourada
+Artigo 63.º
+
+Acto de enjaulamento, gaiolas e termo da tourada
 
 1 - ...
 
@@ -243,7 +269,9 @@ c) ...
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 72.º — Competência e procedimento
+Artigo 72.º
+
+Competência e procedimento
 
 1 - ...
 
@@ -267,7 +295,9 @@ c) Documento emitido pela entidade competente, comprovativo de que o gado a afec
 
 8 - ...
 
-###### Artigo 77.º — Delegado municipal
+Artigo 77.º
+
+Delegado municipal
 
 1 - A câmara municipal nomeia um delegado municipal por cada tourada, por sorteio com garantia de rotatividade, mediante a organização prévia de uma lista de pessoas idóneas, com reconhecida competência na matéria.
 
@@ -291,11 +321,11 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de Fevereiro de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 19 de Março de 2010.**
+Assinado em Angra do Heroísmo em 19 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -1215,7 +1245,9 @@ Objecto
 
 Constitui objecto do presente diploma a definição do regime específico de exercício da polícia administrativa a cargo da Região Autónoma dos Açores, bem como o licenciamento de jogos que não sejam de fortuna ou azar nem modalidades afins.
 
-###### Artigo 2.º — Competências de polícia administrativa
+Artigo 2.º
+
+Competências de polícia administrativa
 
 1 - Na Região as competências de polícia administrativa são exercidas nos termos da estrutura orgânica do Governo Regional.
 
@@ -1223,7 +1255,9 @@ Constitui objecto do presente diploma a definição do regime específico de exe
 
 3 - ...
 
-###### Artigo 4.º — Registo de hóspedes
+Artigo 4.º
+
+Registo de hóspedes
 
 1 - ...
 
@@ -1235,13 +1269,17 @@ Constitui objecto do presente diploma a definição do regime específico de exe
 
 5 - (Revogado.)
 
-###### Artigo 22.º — Regulamentação
+Artigo 22.º
+
+Regulamentação
 
 1 - ...
 
 2 - O regulamento a que se refere o número anterior é da competência da entidade competente para o licenciamento.
 
-###### Artigo 30.º — Infracções em matéria de condicionamentos
+Artigo 30.º
+
+Infracções em matéria de condicionamentos
 
 1 - ...
 
@@ -1275,147 +1313,147 @@ Município de Angra do Heroísmo
 
 Freguesia dos Altares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia das Cinco Ribeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia da Conceição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia das Doze Ribeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia da Feteira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia do Porto Judeu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia do Posto Santo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia do Raminho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia da Ribeirinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia de Santa Bárbara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia de Santa Luzia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia de São Bartolomeu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia de São Bento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia de São Mateus
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia de São Pedro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia de São Sebastião
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia da Serreta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia da Terra-Chã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Município da Praia da Vitória
 
 Freguesia da Agualva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia dos Biscoitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia do Cabo da Praia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia da Fonte do Bastardo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia das Fontinhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia das Lajes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia do Porto Martins
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia das Quatro Ribeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia de Santa Cruz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia de São Brás
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia da Vila Nova
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Município de Santa Cruz da Graciosa
 
 Freguesia do Guadalupe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia da Luz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia da Praia (São Mateus)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Freguesia de Santa Cruz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Município das Velas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 Município da Calheta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf))](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/06200/0102601050.pdf)
 
 ## ANEXO II — Republicação do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março
 

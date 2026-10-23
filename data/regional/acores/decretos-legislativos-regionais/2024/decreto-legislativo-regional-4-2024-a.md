@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/13200/0000700241.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2024/07/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2024-871466269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddab90382084897fc3236655d93f619269e9d7dada541b24c67864c38fe80248
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac886855b8ca80f2b9a32eb08f92e022d2328c70181e51a0d324fba43a1c9d63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Regional
 - Planeamento Regional
 - Plano Regional
-- Administração Regional
-- Açores
 relationships:
 - type: cites
   target: celex:31992R2080
@@ -122,16 +122,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/40/2002/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/40/2002/01/10/p/dre
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224797144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70835506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70867667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75712975:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:16Z'
   warnings: []
   errors: []
 ---
@@ -152,11 +212,11 @@ A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de maio de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 4 de julho de 2024.**
+Assinado em Angra do Heroísmo em 4 de julho de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -316,7 +376,7 @@ Atualidade
 
 Ligeiro aumento populacional e aumento do índice de envelhecimento
 
-Em 2022, segundo as estimativas de população do Instituto Nacional de Estatística (INE), residiam na RAA 239 942 habitantes (2,3 % da população nacional), sendo a densidade populacional de 103,3 habitantes por km<sup>2</sup>, valor inferior à média nacional (113,5 habitantes por km<sup>2</sup>).
+Em 2022, segundo as estimativas de população do Instituto Nacional de Estatística (INE), residiam na RAA 239 942 habitantes (2,3 % da população nacional), sendo a densidade populacional de 103,3 habitantes por km2, valor inferior à média nacional (113,5 habitantes por km2).
 
 Após um período intercensitário marcado por uma tendência de contração demográfica, em 2022, a Região conseguiu sustentar um ligeiro aumento da população residente, em linha com o verificado no território nacional. O índice de envelhecimento da população residente (117,2), ainda que em crescimento, continua inferior ao padrão nacional (185,6).
 
@@ -328,9 +388,11 @@ Os concelhos das Lajes do Pico, Lajes das Flores e Calheta diferenciam-se no cen
 
 Quadro 1. Açores no contexto interno: os grandes números no domínio da demografia
 
-![](https://dre.pt/application/file/871490779)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490779) |
+| --- |
 
-![](https://dre.pt/application/file/871490780)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490780) |
+| --- |
 
 Fonte: INE, Estimativas da População Residente.
 
@@ -338,9 +400,11 @@ Os Açores partilham com a generalidade do território nacional a tendência de 
 
 Quadro 2. Açores no contexto interno: nível de escolaridade mais elevado completo da população residente
 
-![](https://dre.pt/application/file/871490781)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490781) |
+| --- |
 
-![](https://dre.pt/application/file/871490782)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490782) |
+| --- |
 
 Nota: “% do total” refere-se ao peso da população residente com determinado nível de escolaridade mais elevado completo face à população residente total para a respetiva geografia; ensino pós-secundário não incluído (representa cerca de 1 % do total).
 
@@ -350,7 +414,8 @@ Não obstante estes avanços, indissociáveis da melhoria da qualidade de vida e
 
 Quadro 3. Taxa de escolaridade da população residente por nível de ensino
 
-![](https://dre.pt/application/file/871490783)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490783) |
+| --- |
 
 Nota: a taxa de escolaridade do nível de ensino básico refere-se à população residente com idade entre 20 e 64 anos; o divisor da taxa de escolaridade do nível de ensino secundário refere-se à população residente com idade entre 20 e 64 anos; o divisor da taxa de escolaridade do nível de ensino secundário refere-se à população residente com idade entre 25 e 64 anos.
 
@@ -360,9 +425,11 @@ Fruto do aumento sustentado da esperança de vida e da quebra das taxas de natal
 
 Quadro 4. Estrutura etária da população residente
 
-![](https://dre.pt/application/file/871490784)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490784) |
+| --- |
 
-![](https://dre.pt/application/file/871490785)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490785) |
+| --- |
 
 Fonte: INE, Estimativas de População Residente.
 
@@ -370,7 +437,8 @@ A análise de decomposição da evolução da população residente nos Açores,
 
 Gráfico 1. Decomposição do crescimento populacional - Taxa de crescimento migratório e natural (%) | 2011-2022
 
-![](https://dre.pt/application/file/871490786)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490786) |
+| --- |
 
 Fonte: INE, Estimativas de População Residente e Indicadores demográficos.
 
@@ -382,7 +450,8 @@ A RAA partilha ambas as tendências, sendo de salientar o processo de convergên
 
 Gráfico 2. Evolução do PIB a preços correntes e do PIB per capita (PT=100) nos Açores | 2011-2022
 
-![](https://dre.pt/application/file/871490787)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490787) |
+| --- |
 
 Nota: Po = dado provisório.
 
@@ -392,7 +461,8 @@ Segundo o Quadro 5, a dinâmica empresarial na última década, medida pela taxa
 
 Quadro 5. Açores no contexto das regiões nacionais: os grandes números no domínio da economia
 
-![](https://dre.pt/application/file/871490788)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490788) |
+| --- |
 
 (1) Taxa média de variação anual.
 
@@ -402,9 +472,11 @@ A análise da distribuição e dinâmica do tecido empresarial e do rendimento c
 
 Quadro 6. Grandes números da situação empresarial na RAA
 
-![](https://dre.pt/application/file/871490789)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490789) |
+| --- |
 
-![](https://dre.pt/application/file/871490790)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490790) |
+| --- |
 
 Fonte: INE, Estimativas Anuais da População Residente e Sistema de contas integradas das empresas.
 
@@ -414,7 +486,8 @@ Nos dois anos seguintes, com evidentes sinais de recuperação da generalidade d
 
 Gráfico 3. Decomposição em fatores do PIB per capita a preços correntes das regiões portuguesas (NUTS II) | 2010, 2019 e 2022
 
-![](https://dre.pt/application/file/871490791)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490791) |
+| --- |
 
 Fonte: INE, Contas económicas regionais.
 
@@ -422,11 +495,13 @@ A evolução do perfil produtivo da Região ao longo da última década evidenci
 
 Gráfico 4. Especialização produtiva da RAA com base no VAB | 2011, 2022
 
-![](https://dre.pt/application/file/871490792)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490792) |
+| --- |
 
 Nota: O gráfico apresenta Indicadores de Especialização. Se o indicador tem um valor do QL superior a 1, o território em análise é especializado no setor (peso do VAB no setor naquele território é mais elevado do que o peso do VAB daquele setor no total do VAB do país). A dimensão das bolhas corresponde ao peso do VAB da atividade no total do VAB em 2022. Serviços públicos inclui eletricidade, gás, vapor, água quente e fria e ar frio. Foi utilizada uma agregação de setores com relação entre si, com as seguintes correspondências:
 
-![](https://dre.pt/application/file/871490793)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490793) |
+| --- |
 
 Fonte: INE, Sistema de Contas Integradas das Empresas.
 
@@ -434,13 +509,15 @@ O perfil produtivo reflete-se na estrutura de emprego regional (Gráfico 5), ond
 
 Gráfico 5. Pessoal ao serviço dos estabelecimentos por setor de atividade na RAA | 2011, 2021
 
-![](https://dre.pt/application/file/871490794)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490794) |
+| --- |
 
 Fonte: INE, Sistema de Contas Integradas das Empresas.
 
 Nota: Foi utilizada uma agregação de setores com relação entre si, com as seguintes correspondências:
 
-![](https://dre.pt/application/file/871490795)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490795) |
+| --- |
 
 Os Açores, à semelhança das restantes regiões portuguesas, observaram uma forte contração da taxa de natalidade de novas empresas em 2020 (Gráfico 6), registando valores inferiores aos verificados desde 2011. Em 2022, seguindo a tendência das restantes regiões NUTS II, a Região verifica uma forte recuperação do dinamismo empresarial, tendo visto a sua taxa de natalidade aumentar face ao ano de 2021 (em 4,2 p.p.), registando, nestes dois anos, o maior aumento da taxa de natalidade das empresas de entre as regiões NUTS II.
 
@@ -448,7 +525,8 @@ No que respeita à resiliência do tecido empresarial, o quadro da Região mant�
 
 Gráfico 6. Taxa de natalidade das empresas (NUTS II) | 2011-2022
 
-![](https://dre.pt/application/file/871490796)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490796) |
+| --- |
 
 Nota: A taxa de natalidade das empresas corresponde ao quociente entre o número de novas empresas num determinado período e o número de empresas existentes no período anterior.
 
@@ -456,7 +534,8 @@ Fonte: INE, Demografia das Empresas.
 
 Gráfico 7. Taxa de sobrevivência de empresas nascidas dois anos antes (NUTS II) | 2011-2022
 
-![](https://dre.pt/application/file/871490797)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490797) |
+| --- |
 
 Fonte: INE, Demografia das Empresas.
 
@@ -466,25 +545,28 @@ Em 2022, verificou-se uma recuperação da intensidade exportadora da Região, c
 
 Gráfico 8. Intensidade exportadora (NUTS II) | 2011, 2022
 
-![](https://dre.pt/application/file/871490798)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490798) |
+| --- |
 
 Nota: A intensidade exportadora corresponde ao quociente entre o valor da exportação de bens e o PIB.
 
 Fonte: INE, Estatísticas do comércio internacional de bens.
 
-Num quadro em que existe ainda muita margem de progresso em termos da exportações e internacionalização da economia regional, a tendência geral é de recuperação do valor das exportações de bens da Região. No entanto, apesar da variação positiva em 2022 (+27 % face ao ano anterior), em 2023, observou-se uma variação de -10 % no valor das exportações face a 2022<sup>1</sup>. O saldo da balança comercial açoriana permanece negativo em 2023, com um défice superior ao registado em 2022, ano em que atingiu os valores mais baixos da última década (Gráficos 9 e 10).
+Num quadro em que existe ainda muita margem de progresso em termos da exportações e internacionalização da economia regional, a tendência geral é de recuperação do valor das exportações de bens da Região. No entanto, apesar da variação positiva em 2022 (+27 % face ao ano anterior), em 2023, observou-se uma variação de -10 % no valor das exportações face a 20221. O saldo da balança comercial açoriana permanece negativo em 2023, com um défice superior ao registado em 2022, ano em que atingiu os valores mais baixos da última década (Gráficos 9 e 10).
 
-<sup>1</sup> A redução no valor das exportações ocorrida entre 2022 e 2023 não decorre de nenhuma alteração significativa na atividade económica da Região, ficando a dever-se apenas aos movimentos de fornecimento de combustíveis à navegação marítima e aérea, que apresentam, de forma recorrente, um comportamento aleatório.
+1 A redução no valor das exportações ocorrida entre 2022 e 2023 não decorre de nenhuma alteração significativa na atividade económica da Região, ficando a dever-se apenas aos movimentos de fornecimento de combustíveis à navegação marítima e aérea, que apresentam, de forma recorrente, um comportamento aleatório.
 
 Gráfico 9. Importações de bens (2011=100) (NUTS II) | 2011-2023
 
-![](https://dre.pt/application/file/871490799)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490799) |
+| --- |
 
 Fonte. INE, Estatísticas do comércio internacional de bens.
 
 Gráfico 10. Exportações de bens (2011=100) (NUTS II) | 2011-2023
 
-![](https://dre.pt/application/file/871490800)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490800) |
+| --- |
 
 Fonte: INE, Estatísticas do comércio internacional de bens.
 
@@ -494,7 +576,8 @@ Os níveis de qualificação estão ligados, em parte, ao desenvolvimento dos te
 
 Gráfico 11. Taxa de abandono precoce de educação e formação (NUTS II) | 2011, 2023
 
-![](https://dre.pt/application/file/871490801)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490801) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego;
 
@@ -504,7 +587,8 @@ Os baixos níveis de qualificação da população ativa enquadram e ajudam igua
 
 Gráfico 12. Taxa de escolaridade do nível de ensino superior da população residente com idade entre 25 e 64 anos (NUTS II) | 2011, 2023
 
-![](https://dre.pt/application/file/871490802)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490802) |
+| --- |
 
 Fonte: INE, Inquérito ao emprego.
 
@@ -514,7 +598,8 @@ Assim sendo, importa olhar para a população que se encontra inscrita em cursos
 
 Gráfico 13. Proporção de população inscrita em áreas de C&T no ensino superior (NUTS II) | 2011/2012, 2022/ 2023
 
-![](https://dre.pt/application/file/871490803)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490803) |
+| --- |
 
 Fonte: INE, Direção-Geral de Estatísticas da Educação e Ciência.
 
@@ -546,13 +631,15 @@ Numa perspetiva otimista, as trajetórias recentes da atividade económica e dos
 
 Gráfico 14. Crescimento do PIB a preços constantes na RAA e no conjunto do país | 2022-2025
 
-![](https://dre.pt/application/file/871490804)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490804) |
+| --- |
 
 Fonte: Estimativas EY-Parthenon com base nas previsões do Boletim Económico do BdP (março de 2024) e Comissão Europeia (fevereiro de 2024) e na evolução histórica através de dados do INE, conforme considerações metodológicas.
 
 Gráfico 15. Indicador da atividade económica e do consumo privado dos Açores | janeiro 2019-janeiro 2024
 
-![](https://dre.pt/application/file/871490805)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490805) |
+| --- |
 
 Fonte: SREA.
 
@@ -564,7 +651,8 @@ As estimativas apontam para um deflator do PIB de 7,7 % em 2023. À semelhança 
 
 Gráfico 16. Previsão da taxa de inflação (média dos últimos 12 meses) dos Açores e de Portugal até 2025, medida através do IPC | janeiro 2020-dezembro 2025
 
-![](https://dre.pt/application/file/871490806)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490806) |
+| --- |
 
 Fonte: Estimativas EY-Parthenon com base nas previsões do Boletim Económico do BdP (março de 2024) e Comissão Europeia (fevereiro de 2024) e na evolução histórica através de dados do INE, conforme considerações metodológicas.
 
@@ -574,7 +662,8 @@ A expetativa de uma evolução favorável do emprego e da produtividade num cont
 
 Gráfico 17. Previsão da evolução do mercado de trabalho nos Açores | 2022-2025
 
-![](https://dre.pt/application/file/871490807)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490807) |
+| --- |
 
 Notas: e - estimativa; p - previsional.
 
@@ -588,7 +677,8 @@ Da análise dos cenários para a evolução demográfica na Região, destaca-se 
 
 Quadro 7. Projeções da população residente
 
-![](https://dre.pt/application/file/871490808)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490808) |
+| --- |
 
 Fonte: INE, Projeções da população residente e Estimativas Anuais da População Residente.
 
@@ -612,7 +702,8 @@ Em relação às contas públicas, as projeções da dívida pública para 2023,
 
 Quadro 8. Principais indicadores para a economia portuguesa
 
-![](https://dre.pt/application/file/871490809)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490809) |
+| --- |
 
 Notas: e - estimativa; IHPC.
 
@@ -624,7 +715,8 @@ Numa perspetiva de futuro, ainda com elevados níveis de incerteza em torno da e
 
 Gráfico 18. Peso do turismo no VAB e evolução do número de dormidas (2018=100) | 2018-2022
 
-![](https://dre.pt/application/file/871490810)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490810) |
+| --- |
 
 Fonte: INE, Sistema de contas integradas das empresas; SREA.
 
@@ -632,7 +724,8 @@ Refira-se que, entre 2018 e 2022, a taxa de crescimento médio da oferta de aloj
 
 Gráfico 19. Capacidade de alojamento e dormidas nos estabelecimentos turísticos (PT=100) | 2018, 2022
 
-![](https://dre.pt/application/file/871490811)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490811) |
+| --- |
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos.
 
@@ -644,7 +737,8 @@ Entre 2020 e 2022, assistiu-se a uma recuperação dos proveitos totais nos esta
 
 Gráfico 20. Proveitos totais (€) nos estabelecimentos de alojamento turístico | 2018-2022
 
-![](https://dre.pt/application/file/871490812)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490812) |
+| --- |
 
 Fonte: INE, Inquérito à permanência de hóspedes na hotelaria e outros alojamentos.
 
@@ -664,7 +758,8 @@ Por sua vez, a inflação, medida pelos preços no consumidor, deverá continuar
 
 Quadro 9. Principais indicadores de variação para a economia mundial
 
-![](https://dre.pt/application/file/871490813)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490813) |
+| --- |
 
 Notas: e - estimativa; p - projeções.
 
@@ -682,7 +777,8 @@ Aliás, no âmbito do Acordo de Parceria Estratégica 2023/2028, celebrado sob a
 
 Também a execução do PRR, a decorrer até 2026, se revela um desafio relevante, assumindo-se como uma das principais prioridades e ambições no que respeita ao bom aproveitamento dos recursos financeiros disponíveis.
 
-![](https://dre.pt/application/file/871490814)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490814) |
+| --- |
 
 No Plano Regional Anual para o ano de 2024, assume particular relevância e premência a execução dos investimentos do PRR a realizar na Região.
 
@@ -690,7 +786,8 @@ Esta premência e esta relevância referem-se tanto aos 11 investimentos inicial
 
 Quadro 10. Investimentos do PRR-Açores
 
-![](https://dre.pt/application/file/871490815)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490815) |
+| --- |
 
 A estes, acresce a possibilidade de as entidades regionais se candidatarem, no âmbito de avisos nacionais, ao PRR de Portugal, sendo que, a 31 de dezembro de 2023, tinham sido submetidas 1 813 candidaturas, de famílias, empresas, autarquias, instituições do sistema científico e tecnológico da RAA e Universidade dos Açores. Destas, 534 já se encontravam aprovadas e a elas corresponde um investimento aprovado, também à data de referência de 31 de dezembro de 2023, da ordem dos 42,4 milhões de euros.
 
@@ -698,23 +795,26 @@ A 31 de dezembro de 2023, a execução financeira dos 11 investimentos iniciais 
 
 Quadro 11. Execução financeira dos investimentos do PRR-Açores
 
-![](https://dre.pt/application/file/871490816)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490816) |
+| --- |
 
-<sup>1</sup> Adiantamento de 13 % transferido da EMRP para o beneficiário intermediário e deste para os beneficiários finais/Conta da RAA
+1 Adiantamento de 13 % transferido da EMRP para o beneficiário intermediário e deste para os beneficiários finais/Conta da RAA
 
-<sup>2</sup> Pagamentos efetuados pelo beneficiário intermediário à RAA, a título de reembolso de despesa efetuada pelos beneficiários finais. Despesa elegível, sem IVA, deduzida proporcionalmente do montante do adiantamento. O IVA é suportado pelo orçamento regional.
+2 Pagamentos efetuados pelo beneficiário intermediário à RAA, a título de reembolso de despesa efetuada pelos beneficiários finais. Despesa elegível, sem IVA, deduzida proporcionalmente do montante do adiantamento. O IVA é suportado pelo orçamento regional.
 
 A execução material destes mesmos investimentos, medida pelo cumprimento dos marcos e metas contratualizados, a 31 de dezembro de 2023, encontra-se expressa na tabela seguinte.
 
 Quadro 12. Execução material dos investimentos do PRR-Açores
 
-![](https://dre.pt/application/file/871490817)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490817) |
+| --- |
 
 Entre os principais resultados alcançados, refira-se, a título exemplificativo, a aquisição de 395 equipamentos médico-hospitalares; a construção de 24 novas habitações sociais ou a reabilitação de outras 41 (com outras 100 em fase de reabilitação); o lançamento do projeto Novos Idosos, que já abrange mais de 271 idosos; a criação de 588 novas vagas em creches (com 6 890 crianças com creche gratuita); ou a aquisição de mais de 22 000 equipamentos para a educação digital.
 
 A importância do PRR levou a que, aquando da criação da Plataforma de Fundos Europeus (fundoseuropeus.azores.gov.pt), disponibilizada em acesso público no final do 1.º trimestre de 2023, começasse, precisamente, com informação detalhada sobre o PRR-Açores, sem prejuízo de, paulatinamente, esta plataforma, reivindicada pela sociedade civil e necessária à administração regional, passe a acolher, num único ponto, informação sobre outros programas da UE disponíveis para a Região, nomeadamente o Açores 2030, o Eixo E do PEPAC (Desenvolvimento Rural na RAA), o MAR 2030, na parte relativa ao plano de compensação de sobrecustos da ultraperiferia, o MAC 2021-2027 e outros programas do Portugal 2030, aos quais a RAA tem acesso, como seja o Programa Temático para a Ação Climática e Sustentabilidade (Sustentável 2030).
 
-![](https://dre.pt/application/file/871490818)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490818) |
+| --- |
 
 O Açores 2030 é um programa financiado pelos Fundos Europeus Estruturais e de Investimento (FEEI), Fundo Europeu de Desenvolvimento Regional (FEDER) e Fundo Social Europeu Mais (FSE+), para o período de programação 2021-2027, assumindo-se como um importante instrumento de intervenção e financiamento europeu na RAA.
 
@@ -724,15 +824,18 @@ Com uma dotação total de 1 140 milhões de euros, o programa contém um conjun
 
 Quadro 13. Dotação por prioridade do Açores 2030
 
-![](https://dre.pt/application/file/871490819)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490819) |
+| --- |
 
 Acresce uma dotação de 10 milhões de euros, designada por assistência técnica, destinada à gestão, monitorização e avaliação do programa.
 
 Tendo iniciado a sua operacionalização em 2023, o programa registava já execução no final do ano, por via de uma operação aprovada no âmbito da concessão dos serviços de transporte aéreo regular na Região, que representou cerca de 58,1 milhões de euros de fundo aprovado, dos quais aproximadamente 45,6 milhões já executados. Os pagamentos atingiram os 39,9 milhões de euros no final de 2023.
 
-![](https://dre.pt/application/file/871490820)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490820) |
+| --- |
 
-![](https://dre.pt/application/file/871490821)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490821) |
+| --- |
 
 Em agosto de 2022, foi aprovado, pela Comissão Europeia, o PEPAC para Portugal no período 2023-2027, que integra as medidas de apoio para se alcançarem os objetivos específicos da UE para a Política Agrícola Comum (PAC) e assenta nas seguintes prioridades:
 
@@ -750,7 +853,8 @@ O Eixo E do PEPAC integra as intervenções de desenvolvimento rural da RAA e be
 
 Com referência ao final do ano de 2023, registava-se já a aprovação de 6 798 operações, às quais se encontra associado um valor de fundo aprovado de 10,8 milhões de euros, dos quais 10,7 milhões já executados. O volume de pagamentos igualou o fundo executado.
 
-![](https://dre.pt/application/file/871490822)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490822) |
+| --- |
 
 POSEI
 
@@ -764,7 +868,8 @@ O orçamento anual do subprograma do POSEI para a RAA proveniente do orçamento 
 
 O financiamento das MAPL pode ser complementado com auxílios estatais nacionais previamente aprovados pela Comissão Europeia. A partir de 2020, os limites daqueles auxílios foram substancialmente aumentados, por forma a evitar a penalização dos rendimentos dos agricultores, decorrente da aplicação de rateios no pagamento das ajudas. Nos períodos 2018-2020 e 2021-2023, foram pagos auxílios estatais complementares no valor médio anual de, respetivamente, 5,5 e 15,3 milhões de euros.
 
-![](https://dre.pt/application/file/871490823)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490823) |
+| --- |
 
 O Programa MAR 2030, cofinanciado pelo Fundo Europeu dos Assuntos Marítimos, das Pescas e Aquicultura (FEAMPA), é um instrumento decisivo na garantia da sustentabilidade e do cumprimento de uma estratégia que promova a competitividade e a resiliência do setor das pescas, da aquicultura e da indústria transformadora, por forma a corresponder às necessidades de abastecimento e segurança alimentar. É, igualmente, determinante no incentivo à inovação, na atratividade de novos profissionais e na capacitação dos profissionais do setor.
 
@@ -780,7 +885,8 @@ Acresce uma dotação dedicada à gestão, monitorização e avaliação do prog
 
 A visão do programa no horizonte 2030 é de um setor das pescas cada vez mais competitivo, mais inovador e mais sustentável. Este programa contribui para o alcance dos objetivos específicos e metas, definidos na Estratégia Nacional para o Mar 2021-2030.
 
-![](https://dre.pt/application/file/871490824)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490824) |
+| --- |
 
 No âmbito da cooperação territorial, a RAA é, no período de programação 2021-2027, beneficiária do programa de cooperação Interreg VI-D Madeira-Açores-Canárias (MAC).
 
@@ -788,7 +894,8 @@ Este programa, com apoio do FEDER, a título de Cooperação Territorial Europei
 
 Aprovado pela Decisão da Comissão C (2022) 6877, de 21 de setembro de 2022, o programa tem uma dotação global de 169,9 milhões de euros, dos quais cerca de 16,4 milhões de euros destinados à RAA.
 
-![](https://dre.pt/application/file/871490825)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490825) |
+| --- |
 
 O Programa Ação Climática e Sustentabilidade, denominado Sustentável 2030, financiado pelo Fundo de Coesão (FC), apoiará o desenvolvimento do sistema de mobilidade regional, reforçando a sua integração, intermodalidade e sustentabilidade.
 
@@ -806,7 +913,8 @@ Fazendo a desagregação por fundo, regista-se uma taxa de compromisso FEDER de 
 
 Quadro 14. Açores 2020, ponto de situação a 31-12-2023
 
-![](https://dre.pt/application/file/871490826)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490826) |
+| --- |
 
 O PRORURAL+ foi, até 31 de dezembro de 2023, alterado nove vezes com os objetivos de reforçar a sua capacidade de resposta às necessidades dos setores que beneficia e de potenciar o seu contributo para um crescimento sustentável das atividades agroflorestais e para a dinamização económica e social do espaço rural.
 
@@ -814,7 +922,8 @@ Sublinha-se a aprovação, por Decisão de Execução da Comissão Europeia de 2
 
 Quadro 15. PRORURAL+, ponto de situação a 31-12-2023
 
-![](https://dre.pt/application/file/871490827)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490827) |
+| --- |
 
 No âmbito do PO MAR 2020, comparticipado pelo Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), para o período de programação 2014-2020, foram, até 31 de dezembro de 2023, aprovadas 5 129 candidaturas, correspondendo a um custo total elegível de 90,3 milhões de euros e a um financiamento comunitário de 72,2 milhões de euros.
 
@@ -822,7 +931,8 @@ A execução financeira à mesma data atingiu os 86,2 milhões de euros, o que c
 
 Quadro 16. Projetos dos Açores no Mar 2020, ponto de situação a 31-12-2023
 
-![](https://dre.pt/application/file/871490828)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490828) |
+| --- |
 
 O programa de cooperação territorial MAC 2014-2020 contou com um orçamento inicial de 130 milhões de euros, dos quais 11,6 milhões de euros destinados a beneficiários da RAA, orçamento este que seria reforçado, em 2017, para os 149 milhões de euros.
 
@@ -830,37 +940,43 @@ Em 2021, o Comité de Acompanhamento deste programa aprovou dois projetos inscri
 
 Quadro 17. Projetos dos Açores no MAC 2014-2020, ponto de situação a 31-12-2023
 
-![](https://dre.pt/application/file/871490829)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490829) |
+| --- |
 
 Uma parte significativa do financiamento do FC de que RAA beneficiou no período de programação 2014-2020 esteve integrado no COMPETE 2020 (Programa Operacional Temático Competitividade e Internacionalização), especificamente no Eixo IV - Promoção de transportes sustentáveis e eliminação dos estrangulamentos nas principais redes de infraestruturas, e utilizado, exclusivamente, para intervenções no sistema portuário da RAA.
 
 Quadro 18. Projetos dos Açores no COMPETE 2020, ponto de situação a 31-12-2023
 
-![](https://dre.pt/application/file/871490830)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490830) |
+| --- |
 
 Também no âmbito do FC, a RAA, através da MUSAMI, beneficiou de um financiamento integrado no POSEUR (Programa Operacional Temático Sustentabilidade e Eficiência no Uso de Recursos), no Eixo Prioritário 3 - Proteger o ambiente e promover a utilização eficiente dos recursos, objetivo específico 1. Valorização dos resíduos, reduzindo a produção e deposição em aterro, aumentando a recolha seletiva e a reciclagem.
 
 Quadro 19. Projetos dos Açores no POSEUR, ponto de situação a 31-12-2023
 
-![](https://dre.pt/application/file/871490831)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490831) |
+| --- |
 
 A RAA foi ainda beneficiária de um financiamento do FC, integrado no POISE (Programa Operacional Temático de Inclusão Social e Emprego, especificamente no Eixo II - Iniciativa de Emprego Jovem).
 
 Quadro 20. Projetos dos Açores no POISE, ponto de situação a 31-12-2023
 
-![](https://dre.pt/application/file/871490832)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490832) |
+| --- |
 
 Em suma, nos diferentes programas operacionais referidos, com acesso por parte de beneficiários finais da RAA, tanto por via do período de programação 2014-2020, como através do novo quadro cuja operacionalização agora se inicia, o volume de compromissos de financiamento comunitário assumido no conjunto das operações aprovadas e contratualizadas, à data de 31 de dezembro de 2023, representava perto de 2 054 milhões de euros.
 
 Gráfico 21. Fundo comunitário aprovado por Programa a 31-12-2023
 
-![](https://dre.pt/application/file/871490833)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490833) |
+| --- |
 
 No final do 2023, o volume de fundos comunitários pagos a beneficiários finais com candidaturas aprovadas nos diversos programas, tanto do período de programação 2014-2020 como do atual, atingia o montante de 1 840 milhões de euros.
 
 Gráfico 22. Fundo comunitário pago, por fundo, a 31-12-2023
 
-![](https://dre.pt/application/file/871490834)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490834) |
+| --- |
 
 III. Orientações de médio prazo e políticas setoriais do Plano de 2024
 
@@ -1518,19 +1634,23 @@ As políticas setoriais e domínios de intervenção do objetivo "Por uma Regiã
 
 Repartição do investimento público por objetivos de desenvolvimento
 
-![](https://dre.pt/application/file/871490835)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490835) |
+| --- |
 
 Investimento público 2024 - Desagregação por objetivo
 
-![](https://dre.pt/application/file/871490836)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490836) |
+| --- |
 
 Investimento público 2024 - Desagregação por entidade executora
 
-![](https://dre.pt/application/file/871490837)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490837) |
+| --- |
 
 Investimento público 2024 - Desagregação por entidade proponente
 
-![](https://dre.pt/application/file/871490838)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490838) |
+| --- |
 
 Investimento público 2024 - Quadro global de financiamento da Administração Pública
 
@@ -1542,7 +1662,8 @@ As transferências do OE, da UE e de outros fundos, asseguram a cobertura financ
 
 O Plano Regional Anual para o ano de 2024 prevê uma dotação de 760,6 milhões de euros, de investimento direto do Governo Regional.
 
-![](https://dre.pt/application/file/871490839)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490839) |
+| --- |
 
 Nota: Não inclui operações de refinanciamento nem a operação de transformação da dívida comercial em dívida financeira.
 
@@ -1556,7 +1677,8 @@ Programa 1 - Coesão e Representação
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490840)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490840) |
+| --- |
 
 Programação material
 
@@ -1608,7 +1730,8 @@ Programa 2 - Relações externas, ciência e comunicações
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490841)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490841) |
+| --- |
 
 Programação material
 
@@ -1756,7 +1879,8 @@ Programa 3 - Finanças, planeamento e competitividade
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490842)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490842) |
+| --- |
 
 Programação material
 
@@ -1896,7 +2020,8 @@ Programa 4 - Diáspora e Media
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490843)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490843) |
+| --- |
 
 Programação material
 
@@ -1968,7 +2093,8 @@ Programa 5 - Educação e dinâmica cultural e desporto
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490844)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490844) |
+| --- |
 
 Programação material
 
@@ -2066,7 +2192,7 @@ Realização de estágio e concerto do projeto Lira Açoriana
 
 5.8.10 (A0333) - Prémios culturais
 
-Atribuição de prémios culturais no âmbito das Resoluções do Conselho do Governo Regional n.<sup>os</sup>12/2014, de 24 de janeiro - Prémio de Humanidades Daniel de Sá; 145/2015, de 16 de setembro - Prémio de Fotografia Christiano Júnior; 13/2014, de 24 de janeiro - Prémio de Pintura António Dacosta; 144/2015, de 16 de setembro - Prémio de Escultura Canto da Maia; e 143/2015, de 16 de setembro - Prémio de Cinema e Audiovisual Ayres d’Aguiar.
+Atribuição de prémios culturais no âmbito das Resoluções do Conselho do Governo Regional n.os12/2014, de 24 de janeiro - Prémio de Humanidades Daniel de Sá; 145/2015, de 16 de setembro - Prémio de Fotografia Christiano Júnior; 13/2014, de 24 de janeiro - Prémio de Pintura António Dacosta; 144/2015, de 16 de setembro - Prémio de Escultura Canto da Maia; e 143/2015, de 16 de setembro - Prémio de Cinema e Audiovisual Ayres d’Aguiar.
 
 5.9.1 (A0309) - Aquisição e restauro de bens de valor cultural
 
@@ -2216,7 +2342,8 @@ Programa 6 - Promoção da saúde e economia social
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490845)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490845) |
+| --- |
 
 Programação material
 
@@ -2680,7 +2807,8 @@ Programa 7 - Economia rural e alimentação
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490846)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490846) |
+| --- |
 
 Programação material
 
@@ -2976,7 +3104,8 @@ Programa 8 - Economia do mar
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490847)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490847) |
+| --- |
 
 Programação material
 
@@ -3176,9 +3305,11 @@ Programa 9 - Desenvolvimento turístico, mobilidade e infraestruturas
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490848)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490848) |
+| --- |
 
-![](https://dre.pt/application/file/871490849)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490849) |
+| --- |
 
 Programação material
 
@@ -4054,7 +4185,8 @@ Programa 10 - Juventude, habitação e empregabilidade
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490850)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490850) |
+| --- |
 
 Programação material
 
@@ -4158,7 +4290,8 @@ Programa 11 - Sustentabilidade, ação climática e gestão de riscos
 
 Programação financeira
 
-![](https://dre.pt/application/file/871490851)
+| ![A imagem não se encontra disponível.](https://dre.pt/application/file/871490851) |
+| --- |
 
 Programação material
 
@@ -4486,16 +4619,16 @@ Desagregação por objetivo
 
 | Objetivo/Programa/Projeto/Ação | Investimento | Plano | Outros fundos |
 | --- | --- | --- | --- |
-| Por uma Região com identidade institucional e cultural | 22 165 315 | 22 142 315 | 23 000 |
-| 1 - Coesão e representação | 1 000 000 | 1 000 000 | 0 |
+| **Por uma Região com identidade institucional****e****cultural** | **22 165 315** | **22 142 315** | **23 000** |
+| **1 - Coesão****e****representação** | **1 000 000** | **1 000 000** | **0** |
 | 1.1.1(A0004) - Relações com entidades governamentais externas e com outras entidades | 730 000 | 730 000 | 0 |
 | 1.1.2(A0002) - Plataforma eletrónica de comunicação com o cidadão | 130 000 | 130 000 | 0 |
 | 1.1.3(A0005) - Jornal Oficial, estudos e bases de dados jurídicos | 80 000 | 80 000 | 0 |
 | 1.1.4(A1491) - Gestão de imóveis da Presidência do Governo Regional | 60 000 | 60 000 | 0 |
-| 4 - Diáspora e media | 1 069 729 | 1 069 729 | 0 |
+| **4 - Diáspora****e****media** | **1 069 729** | **1 069 729** | **0** |
 | 4.1.1(A0003) - Programa de apoio à comunicação social | 719 729 | 719 729 | 0 |
 | 4.1.2(A0001) - Financiamento de obrigações específicas do serviço público de notícias e de televisão | 350 000 | 350 000 | 0 |
-| 5 - Educação, dinâmica cultural e desporto | 20 095 586 | 20 072 586 | 23 000 |
+| **5 - Educação, dinâmica cultural****e****desporto** | **20 095 586** | **20 072 586** | **23 000** |
 | 5.8.1(A0332) - Escolas de formação | 160 000 | 160 000 | 0 |
 | 5.8.2(A0331) - Edição de obras de relevância cultural | 34 000 | 34 000 | 0 |
 | 5.8.3(A0335) - Rede de leitura pública | 20 000 | 20 000 | 0 |
@@ -4542,8 +4675,8 @@ Desagregação por objetivo
 | 5.14.2(A0524) - Formação técnica | 5 684 | 5 684 | 0 |
 | 5.14.3(A0525) - Modernização | 21 018 | 21 018 | 0 |
 | 5.14.4(A1383) - Projetos europeus | 46 000 | 23 000 | 23 000 |
-| Por uma Região solidária e capaz de vencer os desafios societais | 242 030 295 | 176 813 129 | 65 217 166 |
-| 3 - Finanças, planeamento e competitividade | 10 554 922 | 10 554 922 | 0 |
+| **Por uma Região solidária****e****capaz de vencer os desafios societais** | **242 030 295** | **176 813 129** | **65 217 166** |
+| **3 - Finanças, planeamento****e****competitividade** | **10 554 922** | **10 554 922** | **0** |
 | 3.3.1(A0467) - Modernização e reforma da administração pública regional | 222 540 | 222 540 | 0 |
 | 3.3.2(A0468) - Sistema Integrado de Gestão da Administração Regional dos Açores e promoção da qualidade | 170 000 | 170 000 | 0 |
 | 3.3.3(A0465) - Desmaterialização de processos | 1 755 082 | 1 755 082 | 0 |
@@ -4557,7 +4690,7 @@ Desagregação por objetivo
 | 3.3.12(A0466) - Ética e integridade pública | 50 000 | 50 000 | 0 |
 | 3.5.4(A0474) - Orçamento Participativo da Região Autónoma dos Açores | 1 500 000 | 1 500 000 | 0 |
 | 3.5.5(A0473) - Orçamento Participativo da Administração Pública Regional | 60 000 | 60 000 | 0 |
-| 5 - Educação, dinâmica cultural e desporto | 33 871 749 | 33 871 749 | 0 |
+| **5 - Educação, dinâmica cultural****e****desporto** | **33 871 749** | **33 871 749** | **0** |
 | 5.1.1(A0826) - Beneficiação e reabilitação de instalações escolares, propriedade da RAA | 745 118 | 745 118 | 0 |
 | 5.1.2(A0867) - Construção, reparação e remodelação do parque escolar do 1.º ciclo (DLR n.º 32/2002/A, de 8 de agosto) | 5 000 | 5 000 | 0 |
 | 5.2.1(A0869) - Aquisição de equipamentos para a educação pré-escolar e os ensinos básico e secundário | 282 717 | 282 717 | 0 |
@@ -4572,7 +4705,7 @@ Desagregação por objetivo
 | 5.6.2(A0954) - Prémio de mérito de ingresso no ensino superior | 750 000 | 750 000 | 0 |
 | 5.6.3(A0999) - Programas ocupacionais | 896 268 | 896 268 | 0 |
 | 5.7.1(A0785) - Desporto e saúde | 206 661 | 206 661 | 0 |
-| 6 - Promoção da saúde e economia social | 112 752 525 | 112 752 525 | 0 |
+| **6 - Promoção da saúde****e****economia social** | **112 752 525** | **112 752 525** | **0** |
 | 6.1.1(A0530) - Hospital de Santo Espírito da Ilha Terceira, EPER | 12 222 786 | 12 222 786 | 0 |
 | 6.2.1(A0479) - Equipamentos para unidades de saúde de ilha e Centro de Oncologia dos Açores | 8 306 014 | 8 306 014 | 0 |
 | 6.2.2(A0478) - Conservação e modernização de edifícios | 62 276 | 62 276 | 0 |
@@ -4687,7 +4820,7 @@ Desagregação por objetivo
 | 6.13.16(A1351) - Estratégia Regional de Combate à Pobreza e Exclusão Social | 350 000 | 350 000 | 0 |
 | 6.13.17(A1352) - Estratégia Regional para a Inclusão da Pessoa com Deficiência nos Açores | 400 000 | 400 000 | 0 |
 | 6.13.18(A1200) - Formação especializada para técnicos intervenientes na área social | 100 000 | 100 000 | 0 |
-| 10 - Juventude, habitação e empregabilidade | 84 851 099 | 19 633 933 | 65 217 166 |
+| **10 - Juventude, habitação****e****empregabilidade** | **84 851 099** | **19 633 933** | **65 217 166** |
 | 10.1.1(A1518) - Participação e associativismo | 461 000 | 461 000 | 0 |
 | 10.1.2(A1519) - Integração socioprofissional e empreendedorismo | 755 000 | 755 000 | 0 |
 | 10.1.3(A1520) - Retenção de talento jovem | 665 240 | 665 240 | 0 |
@@ -4703,8 +4836,8 @@ Desagregação por objetivo
 | 10.4.2(A1043) - Promoção de ações de informação junto dos consumidores | 20 000 | 20 000 | 0 |
 | 10.5.1(A1386) - Transição digital e energética | 100 000 | 100 000 | 0 |
 | 10.5.2(A1387) - Projetos e ações de divulgação | 50 000 | 50 000 | 0 |
-| Por uma Região resiliente, próspera e competitiva | 250 988 958 | 250 988 958 | 0 |
-| 2 - Relações externas, ciência e comunicações | 19 908 432 | 19 908 432 | 0 |
+| **Por uma Região resiliente, próspera****e****competitiva** | **250 988 958** | **250 988 958** | **0** |
+| **2 - Relações externas, ciência****e****comunicações** | **19 908 432** | **19 908 432** | **0** |
 | 2.3.1(A1531) - Infraestruturas e sistemas de informação | 2 993 186 | 2 993 186 | 0 |
 | 2.3.2(A0065) - Redes de dados e de comunicações | 466 734 | 466 734 | 0 |
 | 2.3.3(A1371) - Mobile.Gov | 2 029 431 | 2 029 431 | 0 |
@@ -4726,7 +4859,7 @@ Desagregação por objetivo
 | 2.10.3(A1502) - Desenvolvimento tripolar/multipolar da Universidade dos Açores | 950 000 | 950 000 | 0 |
 | 2.11.1(A1503) - Estratégia regional para a captação de investimento externo | 485 000 | 485 000 | 0 |
 | 2.11.2(A1504) - Projetos e iniciativas exploratórias para atração de investimento | 390 000 | 390 000 | 0 |
-| 3 - Finanças, planeamento e competitividade | 74 721 068 | 74 721 068 | 0 |
+| **3 - Finanças, planeamento****e****competitividade** | **74 721 068** | **74 721 068** | **0** |
 | 3.1.1(A0455) - Medidas de apoio à iniciativa empresarial | 40 000 000 | 40 000 000 | 0 |
 | 3.1.2(A1398) - Medida de apoio à digitalização das empresas | 1 740 000 | 1 740 000 | 0 |
 | 3.1.3(A1254) - Medidas de combate à inflação | 500 000 | 500 000 | 0 |
@@ -4747,7 +4880,7 @@ Desagregação por objetivo
 | 3.5.7(A0469) - Coesão regional | 2 750 000 | 2 750 000 | 0 |
 | 3.5.8(A1248) - Linhas de apoio ao financiamento empresarial | 430 000 | 430 000 | 0 |
 | 3.5.9(A0472) - Novo regime de administração financeira | 1 000 000 | 1 000 000 | 0 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 155 355 458 | 155 355 458 | 0 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **155 355 458** | **155 355 458** | **0** |
 | 9.1.1(A0189) - Eficiência MAIS | 25 000 | 25 000 | 0 |
 | 9.1.2(A0190) - Produção e armazenamento de energia limpa | 32 726 004 | 32 726 004 | 0 |
 | 9.2.1(A0230) - Combustíveis, eletricidade e ascensores | 1 500 000 | 1 500 000 | 0 |
@@ -4916,13 +5049,13 @@ Desagregação por objetivo
 | 9.41.1(A1071) - Projeto de ampliação das termas do Carapacho, na Graciosa | 2 500 | 2 500 | 0 |
 | 9.42.1(A1227) - Melhoria dos sistemas informáticos da SRTMI | 100 000 | 100 000 | 0 |
 | 9.43.1(A1225) - Laboratório de Experimentação da Administração Pública dos Açores | 400 000 | 400 000 | 0 |
-| 10 - Juventude, habitação e empregabilidade | 1 004 000 | 1 004 000 | 0 |
+| **10 - Juventude, habitação****e****empregabilidade** | **1 004 000** | **1 004 000** | **0** |
 | 10.3.1(A0629) - Competitividade, inovação e qualificação do artesanato | 67 000 | 67 000 | 0 |
 | 10.3.2(A0626) - Artesanato criativo e empreendedor | 95 000 | 95 000 | 0 |
 | 10.3.3(A0630) - Sistema de Incentivos ao Desenvolvimento do Artesanato | 302 000 | 302 000 | 0 |
 | 10.3.4(A0631) - Promoção, comercialização e internacionalização do artesanato | 540 000 | 540 000 | 0 |
-| Por uma Região sustentável e coesa territorialmente | 400 607 841 | 301 456 988 | 99 150 853 |
-| 1 - Coesão e representação | 9 521 812 | 9 521 812 | 0 |
+| **Por uma Região sustentável****e****coesa territorialmente** | **400 607 841** | **301 456 988** | **99 150 853** |
+| **1 - Coesão****e****representação** | **9 521 812** | **9 521 812** | **0** |
 | 1.2.1(A0417) - Cooperação técnica com os municípios | 42 162 | 42 162 | 0 |
 | 1.2.2(A0416) - Cooperação financeira com os municípios | 5 609 111 | 5 609 111 | 0 |
 | 1.3.1(A0415) - Cooperação técnica com as freguesias | 27 000 | 27 000 | 0 |
@@ -4930,7 +5063,7 @@ Desagregação por objetivo
 | 1.3.3(A0413) - Colaboração técnica e financeira com a Associação de Freguesias dos Açores (ANAFRE Açores) | 55 000 | 55 000 | 0 |
 | 1.3.4(A1400) - Fundo para o Desenvolvimento para as Freguesias | 2 000 000 | 2 000 000 | 0 |
 | 1.4.1(A0452) - Apoio à recuperação dos efeitos da intempérie Lorenzo em infraestruturas e equipamentos municipais | 550 517 | 550 517 | 0 |
-| 7 - Economia rural e alimentação | 121 017 670 | 67 471 900 | 53 545 770 |
+| **7 - Economia rural****e****alimentação** | **121 017 670** | **67 471 900** | **53 545 770** |
 | 7.1.1(A0275) - Inovação e qualificação das explorações agrícolas | 8 666 667 | 1 300 000 | 7 366 667 |
 | 7.1.2(A0276) - Medidas de apoio às produções locais | 13 493 253 | 13 493 253 | 0 |
 | 7.1.3(A0293) - Reestruturação financeira das explorações agrícolas e reposição do seu potencial produtivo | 700 000 | 700 000 | 0 |
@@ -5002,7 +5135,7 @@ Desagregação por objetivo
 | 7.3.12(A0268) - Melhoramento das infraestruturas do Matadouro de São Miguel | 607 000 | 5 000 | 602 000 |
 | 7.3.13(A1295) - Caminho Florestal do Rochão do Junco - Flores | 50 000 | 50 000 | 0 |
 | 7.4.1(A1511) - Ordenamento e gestão do território | 100 000 | 100 000 | 0 |
-| 8 - Economia do mar | 44 175 110 | 44 175 110 | 0 |
+| **8 - Economia do mar** | **44 175 110** | **44 175 110** | **0** |
 | 8.1.1(A0141) - Controlo e inspeção | 125 000 | 125 000 | 0 |
 | 8.1.2(A0139) - Plano de Ação do Sistema Nacional de Controlo das Pescas: capacidade inspetiva, formação e sensibilização | 15 000 | 15 000 | 0 |
 | 8.1.3(A0143) - Plano de Ação do Sistema de Controlo das Pescas: acompanhamento, vigilância e gestão eletrónica | 450 000 | 450 000 | 0 |
@@ -5051,7 +5184,7 @@ Desagregação por objetivo
 | 8.9.5(A1231) - Projeto ABACO | 10 000 | 10 000 | 0 |
 | 8.9.6(A1232) - Proteção e estabilização costeira da falésia dos Fenais e Ventosa, Graciosa | 7 243 | 7 243 | 0 |
 | 8.9.7(A0583) - Avaliação, revisão e alteração de instrumentos de gestão territorial | 167 254 | 167 254 | 0 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 164 743 625 | 119 138 542 | 45 605 083 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **164 743 625** | **119 138 542** | **45 605 083** |
 | 9.5.1(A0218) - Promoção sustentável do destino Açores | 186 696 | 186 696 | 0 |
 | 9.5.2(A0217) - Incentivos à promoção do destino Açores | 13 693 611 | 8 548 064 | 5 145 547 |
 | 9.5.3(A0216) - Eventos desportivos de promoção do destino | 1 234 500 | 1 234 500 | 0 |
@@ -5101,13 +5234,13 @@ Desagregação por objetivo
 | 9.20.2(A1321) - Passe social de transportes públicos coletivos | 1 515 036 | 1 515 036 | 0 |
 | 9.20.3(A1403) - Apoio à descarbonização da frota de táxis | 200 000 | 200 000 | 0 |
 | 9.20.4(A1517) - Portal do Condutor | 100 000 | 100 000 | 0 |
-| 10 - Juventude, habitação e empregabilidade | 29 350 176 | 29 350 176 | 0 |
+| **10 - Juventude, habitação****e****empregabilidade** | **29 350 176** | **29 350 176** | **0** |
 | 10.6.1(A1523) - Promoção de habitação | 17 609 749 | 17 609 749 | 0 |
 | 10.6.2(A1524) - Arrendamento acessível | 6 007 839 | 6 007 839 | 0 |
 | 10.6.3(A1525) - Reabilitação urbana | 4 747 937 | 4 747 937 | 0 |
 | 10.6.4(A1526) - Autoconstrução | 500 246 | 500 246 | 0 |
 | 10.6.5(A1527) - Conservação de instalações e equipamentos públicos | 484 405 | 484 405 | 0 |
-| 11 - Sustentabilidade, ação climática e gestão de riscos | 31 799 448 | 31 799 448 | 0 |
+| **11 - Sustentabilidade, ação climática****e****gestão de riscos** | **31 799 448** | **31 799 448** | **0** |
 | 11.1.1(A0597) - Vigilância ambiental | 1 136 673 | 1 136 673 | 0 |
 | 11.1.2(A0584) - Cidadania ambiental ativa | 413 064 | 413 064 | 0 |
 | 11.1.3(A0585) - ECO-Freguesia | 1 597 229 | 1 597 229 | 0 |
@@ -5185,8 +5318,8 @@ Desagregação por objetivo
 | 11.9.7(A0574) - Implementação de sistemas de alerta de cheia em bacias de risco na RAA para minimização de riscos naturais | 40 000 | 40 000 | 0 |
 | 11.9.8(A0572) - Elaboração de cartografia de risco para a mitigação e adaptação às alterações climáticas | 770 666 | 770 666 | 0 |
 | 11.9.9(A1530) - Valorização da paisagem | 30 000 | 30 000 | 0 |
-| Por uma Região prestigiada na Europa e no mundo | 9 212 901 | 9 212 901 | 0 |
-| 2 - Relações externas, ciência e comunicações | 5 611 165 | 5 611 165 | 0 |
+| **Por uma Região prestigiada na Europa****e****no mundo** | **9 212 901** | **9 212 901** | **0** |
+| **2 - Relações externas, ciência****e****comunicações** | **5 611 165** | **5 611 165** | **0** |
 | 2.1.1(A0009) - Centralidade atlântica | 47 000 | 47 000 | 0 |
 | 2.1.2(A0010) - Formação e mobilidade regional e internacional | 90 500 | 90 500 | 0 |
 | 2.1.3(A1184) - ATLANTE | 100 000 | 100 000 | 0 |
@@ -5201,7 +5334,7 @@ Desagregação por objetivo
 | 2.6.5(A0357) - Promover a angariação de novos fluxos turísticos e campanhas promocionais | 150 000 | 150 000 | 0 |
 | 2.6.6(A1190) - Aquisição de estação meteorológica automática | 850 630 | 850 630 | 0 |
 | 2.7.1(A0418) - Relações com entidades externas, outras entidades e associações | 250 000 | 250 000 | 0 |
-| 4 - Diáspora e media | 2 316 736 | 2 316 736 | 0 |
+| **4 - Diáspora****e****media** | **2 316 736** | **2 316 736** | **0** |
 | 4.2.1(A0419) - Projetos/candidaturas para a inclusão de emigrados | 938 | 938 | 0 |
 | 4.2.2(A0420) - Protocolos de cooperação | 91 601 | 91 601 | 0 |
 | 4.3.1(A0424) - Apoios para a promoção da açorianidade na RAA e no mundo | 32 452 | 32 452 | 0 |
@@ -5216,7 +5349,7 @@ Desagregação por objetivo
 | 4.5.1(A1364) - Implementação da Estratégia dos Açores para o Espaço | 829 664 | 829 664 | 0 |
 | 4.5.2(A1362) - SATSDIFACTION | 38 400 | 38 400 | 0 |
 | 4.5.3(A1363) - Participação da Região na Rede Atlântica de Estações Geodinâmicas e Espaciais | 908 672 | 908 672 | 0 |
-| 7 - Economia rural e alimentação | 1 285 000 | 1 285 000 | 0 |
+| **7 - Economia rural****e****alimentação** | **1 285 000** | **1 285 000** | **0** |
 | 7.5.1(A1512) - Gestão e promoção da Marca Açores | 1 285 000 | 1 285 000 | 0 |
 | Total geral | 925 005 310 | 760 614 291 | 164 391 019 |
 
@@ -5245,8 +5378,8 @@ Desagregação por entidade executora
 
 | Entidade Executora/Programa/Projeto/Ação | Investimento | Plano | Outros fundos |
 | --- | --- | --- | --- |
-| Presidência do Governo Regional | 10 521 812 | 10 521 812 | 0 |
-| 1 - Coesão e representação | 10 521 812 | 10 521 812 | 0 |
+| **Presidência do Governo Regional** | **10 521 812** | **10 521 812** | **0** |
+| **1 - Coesão****e****representação** | **10 521 812** | **10 521 812** | **0** |
 | 1.1.1(A0004) - Relações com entidades governamentais externas e com outras entidades | 730 000 | 730 000 | 0 |
 | 1.1.2(A0002) - Plataforma eletrónica de comunicação com o cidadão | 130 000 | 130 000 | 0 |
 | 1.1.3(A0005) - Jornal Oficial, estudos e bases de dados jurídicos | 80 000 | 80 000 | 0 |
@@ -5258,8 +5391,8 @@ Desagregação por entidade executora
 | 1.3.3(A0413) - Colaboração técnica e financeira com a Associação de Freguesias dos Açores (ANAFRE Açores) | 55 000 | 55 000 | 0 |
 | 1.3.4(A1400) - Fundo para o Desenvolvimento para as Freguesias | 2 000 000 | 2 000 000 | 0 |
 | 1.4.1(A0452) - Apoio à recuperação dos efeitos da intempérie Lorenzo em infraestruturas e equipamentos municipais | 550 517 | 550 517 | 0 |
-| Vice-Presidência do Governo Regional | 25 519 597 | 25 519 597 | 0 |
-| 2 - Relações externas, ciência e comunicações | 25 519 597 | 25 519 597 | 0 |
+| **Vice-Presidência do Governo Regional** | **25 519 597** | **25 519 597** | **0** |
+| **2 - Relações externas, ciência****e****comunicações** | **25 519 597** | **25 519 597** | **0** |
 | 2.1.1(A0009) - Centralidade atlântica | 47 000 | 47 000 | 0 |
 | 2.1.2(A0010) - Formação e mobilidade regional e internacional | 90 500 | 90 500 | 0 |
 | 2.1.3(A1184) - ATLANTE | 100 000 | 100 000 | 0 |
@@ -5295,8 +5428,8 @@ Desagregação por entidade executora
 | 2.10.3(A1502) - Desenvolvimento tripolar/multipolar da Universidade dos Açores | 950 000 | 950 000 | 0 |
 | 2.11.1(A1503) - Estratégia regional para a captação de investimento externo | 485 000 | 485 000 | 0 |
 | 2.11.2(A1504) - Projetos e iniciativas exploratórias para atração de investimento | 390 000 | 390 000 | 0 |
-| Secretaria Regional das Finanças, Planeamento e Administração Pública | 85 275 990 | 85 275 990 | 0 |
-| 3 - Finanças, planeamento e competitividade | 85 275 990 | 85 275 990 | 0 |
+| **Secretaria Regional das Finanças, Planeamento****e****Administração Pública** | **85 275 990** | **85 275 990** | **0** |
+| **3 - Finanças, planeamento****e****competitividade** | **85 275 990** | **85 275 990** | **0** |
 | 3.1.1(A0455) - Medidas de apoio à iniciativa empresarial | 40 000 000 | 40 000 000 | 0 |
 | 3.1.2(A1398) - Medida de apoio à digitalização das empresas | 1 740 000 | 1 740 000 | 0 |
 | 3.1.3(A1254) - Medidas de combate à inflação | 500 000 | 500 000 | 0 |
@@ -5330,8 +5463,8 @@ Desagregação por entidade executora
 | 3.5.7(A0469) - Coesão regional | 2 750 000 | 2 750 000 | 0 |
 | 3.5.8(A1248) - Linhas de apoio ao financiamento empresarial | 430 000 | 430 000 | 0 |
 | 3.5.9(A0472) - Novo regime de administração financeira | 1 000 000 | 1 000 000 | 0 |
-| Secretaria Regional dos Assuntos Parlamentares e Comunidades | 3 386 465 | 3 386 465 | 0 |
-| 4 - Diáspora e media | 3 386 465 | 3 386 465 | 0 |
+| **Secretaria Regional dos Assuntos Parlamentares****e****Comunidades** | **3 386 465** | **3 386 465** | **0** |
+| **4 - Diáspora****e****media** | **3 386 465** | **3 386 465** | **0** |
 | 4.1.1(A0003) - Programa de Apoio à Comunicação Social | 719 729 | 719 729 | 0 |
 | 4.1.2(A0001) - Financiamento de obrigações específicas do serviço público de notícias e de televisão | 350 000 | 350 000 | 0 |
 | 4.2.1(A0419) - Projetos/candidaturas para a inclusão de emigrados | 938 | 938 | 0 |
@@ -5348,8 +5481,8 @@ Desagregação por entidade executora
 | 4.5.1(A1364) - Implementação da Estratégia dos Açores para o Espaço | 829 664 | 829 664 | 0 |
 | 4.5.2(A1362) - SATSDIFACTION | 38 400 | 38 400 | 0 |
 | 4.5.3(A1363) - Participação da Região na Rede Atlântica de Estações Geodinâmicas e Espaciais | 908 672 | 908 672 | 0 |
-| Secretaria Regional da Educação, Cultura e Desporto | 53 967 335 | 53 944 335 | 23 000 |
-| 5 - Educação, dinâmica cultural e desporto | 53 967 335 | 53 944 335 | 23 000 |
+| **Secretaria Regional da Educação, Cultura****e****Desporto** | **53 967 335** | **53 944 335** | **23 000** |
+| **5 - Educação, dinâmica cultural****e****desporto** | **53 967 335** | **53 944 335** | **23 000** |
 | 5.1.1(A0826) - Beneficiação e reabilitação de instalações escolares, propriedade da RAA | 745 118 | 745 118 | 0 |
 | 5.1.2(A0867) - Construção, reparação e remodelação do parque escolar do 1.º ciclo (DLR n.º 32/2002/A, de 8 de agosto) | 5 000 | 5 000 | 0 |
 | 5.2.1(A0869) - Aquisição de equipamentos para a educação pré-escolar e os ensinos básico e secundário | 282 717 | 282 717 | 0 |
@@ -5410,8 +5543,8 @@ Desagregação por entidade executora
 | 5.14.2(A0524) - Formação técnica | 5 684 | 5 684 | 0 |
 | 5.14.3(A0525) - Modernização | 21 018 | 21 018 | 0 |
 | 5.14.4(A1383) - Projetos europeus | 46 000 | 23 000 | 23 000 |
-| Secretaria Regional da Saúde e Segurança Social | 112 752 525 | 112 752 525 | 0 |
-| 6 - Promoção da saúde e economia social | 112 752 525 | 112 752 525 | 0 |
+| **Secretaria Regional da Saúde****e****Segurança Social** | **112 752 525** | **112 752 525** | **0** |
+| **6 - Promoção da saúde****e****economia social** | **112 752 525** | **112 752 525** | **0** |
 | 6.1.1(A0530) - Hospital de Santo Espírito da Ilha Terceira, EPER | 12 222 786 | 12 222 786 | 0 |
 | 6.2.1(A0479) - Equipamentos para unidades de saúde de ilha e Centro de Oncologia dos Açores | 8 306 014 | 8 306 014 | 0 |
 | 6.2.2(A0478) - Conservação e modernização de edifícios | 62 276 | 62 276 | 0 |
@@ -5526,8 +5659,8 @@ Desagregação por entidade executora
 | 6.13.16(A1351) - Estratégia Regional de Combate à Pobreza e Exclusão Social | 350 000 | 350 000 | 0 |
 | 6.13.17(A1352) - ERIPDA | 400 000 | 400 000 | 0 |
 | 6.13.18(A1200) - Formação especializada para técnicos intervenientes na área social | 100 000 | 100 000 | 0 |
-| Secretaria Regional da Agricultura e Alimentação | 122 302 670 | 68 756 900 | 53 545 770 |
-| 7 - Economia rural e alimentação | 122 302 670 | 68 756 900 | 53 545 770 |
+| **Secretaria Regional da Agricultura****e****Alimentação** | **122 302 670** | **68 756 900** | **53 545 770** |
+| **7 - Economia rural****e****alimentação** | **122 302 670** | **68 756 900** | **53 545 770** |
 | 7.1.1(A0275) - Inovação e qualificação das explorações agrícolas | 8 666 667 | 1 300 000 | 7 366 667 |
 | 7.1.2(A0276) - Medidas de apoio às produções locais | 13 493 253 | 13 493 253 | 0 |
 | 7.1.3(A0293) - Reestruturação financeira das explorações agrícolas e reposição do seu potencial produtivo | 700 000 | 700 000 | 0 |
@@ -5600,8 +5733,8 @@ Desagregação por entidade executora
 | 7.3.13(A1295) - Caminho Florestal do Rochão do Junco - Flores | 50 000 | 50 000 | 0 |
 | 7.4.1(A1511) - Ordenamento e gestão do território | 100 000 | 100 000 | 0 |
 | 7.5.1(A1512) - Gestão e promoção da Marca Açores | 1 285 000 | 1 285 000 | 0 |
-| Secretaria Regional do Mar e das Pescas | 44 175 110 | 44 175 110 | 0 |
-| 8 - Economia do mar | 44 175 110 | 44 175 110 | 0 |
+| **Secretaria Regional do Mar****e****das Pescas** | **44 175 110** | **44 175 110** | **0** |
+| **8 - Economia do mar** | **44 175 110** | **44 175 110** | **0** |
 | 8.1.1(A0141) - Controlo e inspeção | 125 000 | 125 000 | 0 |
 | 8.1.2(A0139) - Plano de Ação do Sistema Nacional de Controlo das Pescas: capacidade inspetiva, formação e sensibilização | 15 000 | 15 000 | 0 |
 | 8.1.3(A0143) - Plano de Ação do Sistema de Controlo das Pescas: acompanhamento, vigilância e gestão eletrónica | 450 000 | 450 000 | 0 |
@@ -5650,8 +5783,8 @@ Desagregação por entidade executora
 | 8.9.5(A1231) - Projeto ABACO | 10 000 | 10 000 | 0 |
 | 8.9.6(A1232) - Proteção e estabilização costeira da falésia dos Fenais e Ventosa, Graciosa | 7 243 | 7 243 | 0 |
 | 8.9.7(A0583) - Avaliação, revisão e alteração de instrumentos de gestão territorial | 167 254 | 167 254 | 0 |
-| Secretaria Regional do Turismo, Mobilidade e Infraestruturas | 320 099 083 | 274 494 000 | 45 605 083 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 320 099 083 | 274 494 000 | 45 605 083 |
+| **Secretaria Regional do Turismo, Mobilidade****e****Infraestruturas** | **320 099 083** | **274 494 000** | **45 605 083** |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **320 099 083** | **274 494 000** | **45 605 083** |
 | 9.1.1(A0189) - Eficiência MAIS | 25 000 | 25 000 | 0 |
 | 9.1.2(A0190) - Produção e armazenamento de energia limpa | 32 726 004 | 32 726 004 | 0 |
 | 9.2.1(A0230) - Combustíveis, eletricidade e ascensores | 1 500 000 | 1 500 000 | 0 |
@@ -5869,8 +6002,8 @@ Desagregação por entidade executora
 | 9.41.1(A1071) - Projeto de ampliação das termas do Carapacho, na Graciosa | 2 500 | 2 500 | 0 |
 | 9.42.1(A1227) - Melhoria dos sistemas informáticos da SRTMI | 100 000 | 100 000 | 0 |
 | 9.43.1(A1225) - Laboratório de Experimentação da Administração Pública dos Açores | 400 000 | 400 000 | 0 |
-| Secretaria Regional da Juventude, Habitação e Emprego | 115 205 275 | 49 988 109 | 65 217 166 |
-| 10 - Juventude, habitação e empregabilidade | 115 205 275 | 49 988 109 | 65 217 166 |
+| **Secretaria Regional da Juventude, Habitação****e****Emprego** | **115 205 275** | **49 988 109** | **65 217 166** |
+| **10 - Juventude, habitação****e****empregabilidade** | **115 205 275** | **49 988 109** | **65 217 166** |
 | 10.1.1(A1518) - Participação e associativismo | 461 000 | 461 000 | 0 |
 | 10.1.2(A1519) - Integração socioprofissional e empreendedorismo | 755 000 | 755 000 | 0 |
 | 10.1.3(A1520) - Retenção de talento jovem | 665 240 | 665 240 | 0 |
@@ -5895,8 +6028,8 @@ Desagregação por entidade executora
 | 10.6.3(A1525) - Reabilitação urbana | 4 747 937 | 4 747 937 | 0 |
 | 10.6.4(A1526) - Autoconstrução | 500 246 | 500 246 | 0 |
 | 10.6.5(A1527) - Conservação de instalações e equipamentos públicos | 484 405 | 484 405 | 0 |
-| Secretaria Regional do Ambiente e Ação Climática | 31 799 448 | 31 799 448 | 0 |
-| 11 - Sustentabilidade, ação climática e gestão de riscos | 31 799 448 | 31 799 448 | 0 |
+| **Secretaria Regional do Ambiente****e****Ação Climática** | **31 799 448** | **31 799 448** | **0** |
+| **11 - Sustentabilidade, ação climática****e****gestão de riscos** | **31 799 448** | **31 799 448** | **0** |
 | 11.1.1(A0597) - Vigilância ambiental | 1 136 673 | 1 136 673 | 0 |
 | 11.1.2(A0584) - Cidadania ambiental ativa | 413 064 | 413 064 | 0 |
 | 11.1.3(A0585) - ECO-Freguesia | 1 597 229 | 1 597 229 | 0 |
@@ -6001,8 +6134,8 @@ Desagregação por entidade proponente
 
 | Entidade Proponente/Programa/Ação | Investimento | Plano | Outros fundos |
 | --- | --- | --- | --- |
-| Presidência do Governo Regional | 10 521 812 | 10 521 812 | 0 |
-| 1 - Coesão e representação | 10 521 812 | 10 521 812 | 0 |
+| **Presidência do Governo Regional** | **10 521 812** | **10 521 812** | **0** |
+| **1 - Coesão****e****representação** | **10 521 812** | **10 521 812** | **0** |
 | 1.1.1(A0004) - Relações com entidades governamentais externas e com outras entidades | 730 000 | 730 000 | 0 |
 | 1.1.2(A0002) - Plataforma eletrónica de comunicação com o cidadão | 130 000 | 130 000 | 0 |
 | 1.1.3(A0005) - Jornal Oficial, estudos e bases de dados jurídicos | 80 000 | 80 000 | 0 |
@@ -6014,8 +6147,8 @@ Desagregação por entidade proponente
 | 1.3.3(A0413) - Colaboração técnica e financeira com a Associação de Freguesias dos Açores (ANAFRE Açores) | 55 000 | 55 000 | 0 |
 | 1.3.4(A1400) - Fundo para o Desenvolvimento para as Freguesias | 2 000 000 | 2 000 000 | 0 |
 | 1.4.1(A0452) - Apoio à recuperação dos efeitos da intempérie Lorenzo em infraestruturas e equipamentos municipais | 550 517 | 550 517 | 0 |
-| Vice-Presidência do Governo Regional | 26 339 597 | 26 339 597 | 0 |
-| 2 - Relações externas, ciência e comunicações | 25 519 597 | 25 519 597 | 0 |
+| **Vice-Presidência do Governo Regional** | **26 339 597** | **26 339 597** | **0** |
+| **2 - Relações externas, ciência****e****comunicações** | **25 519 597** | **25 519 597** | **0** |
 | 2.1.1(A0009) - Centralidade atlântica | 47 000 | 47 000 | 0 |
 | 2.1.2(A0010) - Formação e mobilidade regional e internacional | 90 500 | 90 500 | 0 |
 | 2.1.3(A1184) - ATLANTE | 100 000 | 100 000 | 0 |
@@ -6051,11 +6184,11 @@ Desagregação por entidade proponente
 | 2.10.3(A1502) - Desenvolvimento tripolar/multipolar da Universidade dos Açores | 950 000 | 950 000 | 0 |
 | 2.11.1(A1503) - Estratégia regional para a captação de investimento externo | 485 000 | 485 000 | 0 |
 | 2.11.2(A1504) - Projetos e iniciativas exploratórias para atração de investimento | 390 000 | 390 000 | 0 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 820 000 | 820 000 | 0 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **820 000** | **820 000** | **0** |
 | 9.33.1(A0086) - Parque de Ciência e Tecnologia de São Miguel | 320 000 | 320 000 | 0 |
 | 9.33.2(A1437) - 2.ª fase da construção do TERINOV | 500 000 | 500 000 | 0 |
-| Secretaria Regional das Finanças, Planeamento e Administração Pública | 85 676 490 | 85 676 490 | 0 |
-| 3 - Finanças, planeamento e competitividade | 85 275 990 | 85 275 990 | 0 |
+| **Secretaria Regional das Finanças, Planeamento****e****Administração Pública** | **85 676 490** | **85 676 490** | **0** |
+| **3 - Finanças, planeamento****e****competitividade** | **85 275 990** | **85 275 990** | **0** |
 | 3.1.1(A0455) - Medidas de apoio à iniciativa empresarial | 40 000 000 | 40 000 000 | 0 |
 | 3.1.2(A1398) - Medida de apoio à digitalização das empresas | 1 740 000 | 1 740 000 | 0 |
 | 3.1.3(A1254) - Medidas de combate à inflação | 500 000 | 500 000 | 0 |
@@ -6089,11 +6222,11 @@ Desagregação por entidade proponente
 | 3.5.7(A0469) - Coesão regional | 2 750 000 | 2 750 000 | 0 |
 | 3.5.8(A1248) - Linhas de apoio ao financiamento empresarial | 430 000 | 430 000 | 0 |
 | 3.5.9(A0472) - Novo regime de administração financeira | 1 000 000 | 1 000 000 | 0 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 400 500 | 400 500 | 0 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **400 500** | **400 500** | **0** |
 | 9.40.1(A1045) - Empreitada de requalificação das Eiras do Maranhão, ilha do Corvo | 500 | 500 | 0 |
 | 9.43.1(A1225) - Laboratório de Experimentação da Administração Pública dos Açores | 400 000 | 400 000 | 0 |
-| Secretaria Regional dos Assuntos Parlamentares e Comunidades | 3 386 465 | 3 386 465 | 0 |
-| 4 - Diáspora e media | 3 386 465 | 3 386 465 | 0 |
+| **Secretaria Regional dos Assuntos Parlamentares****e****Comunidades** | **3 386 465** | **3 386 465** | **0** |
+| **4 - Diáspora****e****media** | **3 386 465** | **3 386 465** | **0** |
 | 4.1.1(A0003) - Programa de apoio à comunicação social | 719 729 | 719 729 | 0 |
 | 4.1.2(A0001) - Financiamento de obrigações específicas do serviço público de notícias e de televisão | 350 000 | 350 000 | 0 |
 | 4.2.1(A0419) - Projetos/candidaturas para a inclusão de emigrados | 938 | 938 | 0 |
@@ -6110,8 +6243,8 @@ Desagregação por entidade proponente
 | 4.5.1(A1364) - Implementação da Estratégia dos Açores para o Espaço | 829 664 | 829 664 | 0 |
 | 4.5.2(A1362) - SATSDIFACTION | 38 400 | 38 400 | 0 |
 | 4.5.3(A1363) - Participação da Região na Rede Atlântica de Estações Geodinâmicas e Espaciais | 908 672 | 908 672 | 0 |
-| Secretaria Regional da Educação, Cultura e Desporto | 66 720 829 | 66 697 829 | 23 000 |
-| 5 - Educação, dinâmica cultural e desporto | 53 967 335 | 53 944 335 | 23 000 |
+| **Secretaria Regional da Educação, Cultura****e****Desporto** | **66 720 829** | **66 697 829** | **23 000** |
+| **5 - Educação, dinâmica cultural****e****desporto** | **53 967 335** | **53 944 335** | **23 000** |
 | 5.1.1(A0826) - Beneficiação e reabilitação de instalações escolares, propriedade da RAA | 745 118 | 745 118 | 0 |
 | 5.1.2(A0867) - Construção, reparação e remodelação do parque escolar do 1.º ciclo (DLR n.º 32/2002/A, de 8 de Agosto) | 5 000 | 5 000 | 0 |
 | 5.2.1(A0869) - Aquisição de equipamentos para a educação pré-escolar e os ensinos básico e secundário | 282 717 | 282 717 | 0 |
@@ -6172,7 +6305,7 @@ Desagregação por entidade proponente
 | 5.14.2(A0524) - Formação técnica | 5 684 | 5 684 | 0 |
 | 5.14.3(A0525) - Modernização | 21 018 | 21 018 | 0 |
 | 5.14.4(A1383) - Projetos Europeus | 46 000 | 23 000 | 23 000 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 12 753 494 | 12 753 494 | 0 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **12 753 494** | **12 753 494** | **0** |
 | 9.25.1(A0097) - Reparação da EBI da Horta | 50 000 | 50 000 | 0 |
 | 9.25.2(A0105) - Requalificação das instalações para os 2.º e 3.º ciclos da EBI de Rabo de Peixe | 1 000 000 | 1 000 000 | 0 |
 | 9.25.3(A0093) - Construção de novas instalações para a EBI de Arrifes | 6 000 000 | 6 000 000 | 0 |
@@ -6206,8 +6339,8 @@ Desagregação por entidade proponente
 | 9.34.7(A1456) - EcoMuseu do Corvo - projetos da Casa da Memória e da Casa dos Teares | 75 000 | 75 000 | 0 |
 | 9.34.8(A1457) - Casa Etnográfica do Corvo - Equipamentos | 20 000 | 20 000 | 0 |
 | 9.34.9(A1459) - Projeto de requalificação da torre do Aeroporto de Santa Maria | 25 000 | 25 000 | 0 |
-| Secretaria Regional da Saúde e Segurança Social | 118 134 944 | 118 134 944 | 0 |
-| 6 - Promoção da saúde e economia social | 112 752 525 | 112 752 525 | 0 |
+| **Secretaria Regional da Saúde****e****Segurança Social** | **118 134 944** | **118 134 944** | **0** |
+| **6 - Promoção da saúde****e****economia social** | **112 752 525** | **112 752 525** | **0** |
 | 6.1.1(A0530) - Hospital de Santo Espírito da Ilha Terceira, EPER | 12 222 786 | 12 222 786 | 0 |
 | 6.2.1(A0479) - Equipamentos para unidades de saúde de ilha e Centro de Oncologia dos Açores | 8 306 014 | 8 306 014 | 0 |
 | 6.2.2(A0478) - Conservação e modernização de edifícios | 62 276 | 62 276 | 0 |
@@ -6322,7 +6455,7 @@ Desagregação por entidade proponente
 | 6.13.16(A1351) - Estratégia Regional de Combate à Pobreza e Exclusão Social | 350 000 | 350 000 | 0 |
 | 6.13.17(A1352) - Estratégia Regional para a Inclusão da Pessoa com Deficiência nos Açores | 400 000 | 400 000 | 0 |
 | 6.13.18(A1200) - Formação especializada para técnicos intervenientes na área social | 100 000 | 100 000 | 0 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 5 382 419 | 5 382 419 | 0 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **5 382 419** | **5 382 419** | **0** |
 | 9.28.1(A0129) - Intervenções no Hospital da Horta | 2 000 000 | 2 000 000 | 0 |
 | 9.28.2(A0126) - Empreitada de modernização e remodelação do hospital de Ponta Delgada | 500 000 | 500 000 | 0 |
 | 9.28.3(A0124) - Construção do Laboratório SEEMBO | 100 000 | 100 000 | 0 |
@@ -6344,8 +6477,8 @@ Desagregação por entidade proponente
 | 9.29.11(A1428) - Instalações de apoio específico à USISM | 50 000 | 50 000 | 0 |
 | 9.29.12(A1429) - Intervenção no SADD | 30 000 | 30 000 | 0 |
 | 9.29.13(A1430) - Ampliação no Centro de Saúde da Graciosa | 30 000 | 30 000 | 0 |
-| Secretaria Regional da Agricultura e Alimentação | 122 836 023 | 69 290 253 | 53 545 770 |
-| 7 - Economia rural e alimentação | 122 302 670 | 68 756 900 | 53 545 770 |
+| **Secretaria Regional da Agricultura****e****Alimentação** | **122 836 023** | **69 290 253** | **53 545 770** |
+| **7 - Economia rural****e****alimentação** | **122 302 670** | **68 756 900** | **53 545 770** |
 | 7.1.1(A0275) - Inovação e qualificação das explorações agrícolas | 8 666 667 | 1 300 000 | 7 366 667 |
 | 7.1.2(A0276) - Medidas de apoio às produções locais | 13 493 253 | 13 493 253 | 0 |
 | 7.1.3(A0293) - Reestruturação financeira das explorações agrícolas e reposição do seu potencial produtivo | 700 000 | 700 000 | 0 |
@@ -6418,10 +6551,10 @@ Desagregação por entidade proponente
 | 7.3.13(A1295) - Caminho Florestal do Rochão do Junco - Flores | 50 000 | 50 000 | 0 |
 | 7.4.1(A1511) - Ordenamento e gestão do território | 100 000 | 100 000 | 0 |
 | 7.5.1(A1512) - Gestão e promoção da "Marca Açores" | 1 285 000 | 1 285 000 | 0 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 533 353 | 533 353 | 0 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **533 353** | **533 353** | **0** |
 | 9.30.1(A0085) - Infraestruturas públicas de apoio ao setor produtivo | 533 353 | 533 353 | 0 |
-| Secretaria Regional do Mar e das Pescas | 50 393 171 | 50 393 171 | 0 |
-| 8 - Economia do mar | 44 175 110 | 44 175 110 | 0 |
+| **Secretaria Regional do Mar****e****das Pescas** | **50 393 171** | **50 393 171** | **0** |
+| **8 - Economia do mar** | **44 175 110** | **44 175 110** | **0** |
 | 8.1.1(A0141) - Controlo e inspeção | 125 000 | 125 000 | 0 |
 | 8.1.2(A0139) - Plano de Ação do Sistema Nacional de Controlo das Pescas: capacidade inspetiva, formação e sensibilização | 15 000 | 15 000 | 0 |
 | 8.1.3(A0143) - Plano de Ação do Sistema de Controlo das Pescas: acompanhamento, vigilância e gestão eletrónica | 450 000 | 450 000 | 0 |
@@ -6469,7 +6602,7 @@ Desagregação por entidade proponente
 | 8.9.5(A1231) - Projeto ABACO | 10 000 | 10 000 | 0 |
 | 8.9.6(A1232) - Proteção e estabilização costeira da falésia dos Fenais e Ventosa, Graciosa | 7 243 | 7 243 | 0 |
 | 8.9.7(A0583) - Avaliação, revisão e alteração de instrumentos de gestão territorial | 167 254 | 167 254 | 0 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 6 218 061 | 6 218 061 | 0 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **6 218 061** | **6 218 061** | **0** |
 | 9.18.2(A1040) - SRMP - Intempérie Lorenzo - Recuperação de infraestruturas de proteção marítima | 252 716 | 252 716 | 0 |
 | 9.31.1(A0121) - Melhoria das condições operacionais do porto de pesca das Poças | 100 000 | 100 000 | 0 |
 | 9.31.2(A1062) - Construção de infraestruturas de apoio à pesca em São Mateus, na Terceira | 100 000 | 100 000 | 0 |
@@ -6496,8 +6629,8 @@ Desagregação por entidade proponente
 | 9.32.16(A1434) - Proteção da orla costeira dos Mosteiros | 30 000 | 30 000 | 0 |
 | 9.32.17(A1435) - Reforço da proteção da zona costeira do Reduto da Patrulha e do Castelo de São Sebastião | 20 000 | 20 000 | 0 |
 | 9.32.18(A1436) - Proteção e requalificação da zona costeira na baía de Santa Cruz da Lagoa | 30 000 | 30 000 | 0 |
-| Secretaria Regional do Turismo, Mobilidade e Infraestruturas | 288 368 871 | 242 763 788 | 45 605 083 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 288 368 871 | 242 763 788 | 45 605 083 |
+| **Secretaria Regional do Turismo, Mobilidade****e****Infraestruturas** | **288 368 871** | **242 763 788** | **45 605 083** |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **288 368 871** | **242 763 788** | **45 605 083** |
 | 9.1.1(A0189) - Eficiência MAIS | 25 000 | 25 000 | 0 |
 | 9.1.2(A0190) - Produção e armazenamento de energia limpa | 32 726 004 | 32 726 004 | 0 |
 | 9.2.1(A0230) - Combustíveis, eletricidade e ascensores | 1 500 000 | 1 500 000 | 0 |
@@ -6615,8 +6748,8 @@ Desagregação por entidade proponente
 | 9.24.1(A0060) - Saúde e segurança no trabalho | 110 000 | 110 000 | 0 |
 | 9.41.1(A1071) - Projeto de ampliação das termas do Carapacho, na Graciosa | 2 500 | 2 500 | 0 |
 | 9.42.1(A1227) - Melhoria dos sistemas informáticos da SRTMI | 100 000 | 100 000 | 0 |
-| Secretaria Regional da Juventude, Habitação e Emprego | 118 205 275 | 52 988 109 | 65 217 166 |
-| 10 - Juventude, habitação e empregabilidade | 115 205 275 | 49 988 109 | 65 217 166 |
+| **Secretaria Regional da Juventude, Habitação****e****Emprego** | **118 205 275** | **52 988 109** | **65 217 166** |
+| **10 - Juventude, habitação****e****empregabilidade** | **115 205 275** | **49 988 109** | **65 217 166** |
 | 10.1.1(A1518) - Participação e associativismo | 461 000 | 461 000 | 0 |
 | 10.1.2(A1519) - Integração socioprofissional e empreendedorismo | 755 000 | 755 000 | 0 |
 | 10.1.3(A1520) - Retenção de talento jovem | 665 240 | 665 240 | 0 |
@@ -6641,10 +6774,10 @@ Desagregação por entidade proponente
 | 10.6.3(A1525) - Reabilitação urbana | 4 747 937 | 4 747 937 | 0 |
 | 10.6.4(A1526) - Autoconstrução | 500 246 | 500 246 | 0 |
 | 10.6.5(A1527) - Conservação de Instalações e Equipamentos Públicos | 484 405 | 484 405 | 0 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 3 000 000 | 3 000 000 | 0 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **3 000 000** | **3 000 000** | **0** |
 | 9.39.1(A0106) - Reabilitação da Escola Profissional de Capelas e criação do Centro de Qualificação dos Açores | 3 000 000 | 3 000 000 | 0 |
-| Secretaria Regional do Ambiente e Ação Climática | 34 421 833 | 34 421 833 | 0 |
-| 11 - Sustentabilidade, ação climática e gestão de riscos | 31 799 448 | 31 799 448 | 0 |
+| **Secretaria Regional do Ambiente****e****Ação Climática** | **34 421 833** | **34 421 833** | **0** |
+| **11 - Sustentabilidade, ação climática****e****gestão de riscos** | **31 799 448** | **31 799 448** | **0** |
 | 11.1.1(A0597) - Vigilância ambiental | 1 136 673 | 1 136 673 | 0 |
 | 11.1.2(A0584) - Cidadania ambiental ativa | 413 064 | 413 064 | 0 |
 | 11.1.3(A0585) - ECO-Freguesia | 1 597 229 | 1 597 229 | 0 |
@@ -6722,7 +6855,7 @@ Desagregação por entidade proponente
 | 11.9.7(A0574) - Implementação de sistemas de alerta de cheia em bacias de risco na RAA para minimização de riscos naturais | 40 000 | 40 000 | 0 |
 | 11.9.8(A0572) - Elaboração de cartografia de risco para a mitigação e adaptação às alterações climáticas | 770 666 | 770 666 | 0 |
 | 11.9.9(A1530) - Valorização da paisagem | 30 000 | 30 000 | 0 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 2 622 385 | 2 622 385 | 0 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **2 622 385** | **2 622 385** | **0** |
 | 9.18.3(A0056) - SRAAC - Intervenção no complexo de infraestruturas de Porto Pim | 1 044 023 | 1 044 023 | 0 |
 | 9.35.1(A0079) - Reinstalação de edifícios afetos à SRAAC | 253 362 | 253 362 | 0 |
 | 9.35.2(A0078) - Requalificação de áreas protegidas | 100 000 | 100 000 | 0 |
@@ -6745,12 +6878,12 @@ Desagregação espacial
 
 | Objetivo/Programa/Projeto | SMA | SMG | TER | GRA | SJO | PIC | FAI | FLO | COR | NDE | RAA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Por uma Região com identidade institucional e cultural | 760 215 | 8 976 463 | 6 330 723 | 283 542 | 652 543 | 1 180 919 | 1 539 151 | 320 132 | 138 430 | 1 983 197 | 22 165 315 |
-| 1 - Coesão e representação | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 000 000 | 1 000 000 |
+| **Por uma Região com identidade institucional****e****cultural** | **760 215** | **8 976 463** | **6 330 723** | **283 542** | **652 543** | **1 180 919** | **1 539 151** | **320 132** | **138 430** | **1 983 197** | **22 165 315** |
+| **1 - Coesão****e****representação** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | **1 000 000** | **1 000 000** |
 | 1.1 Coordenação da atividade governativa | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 000 000 | 1 000 000 |
-| 4 - Diáspora e media | 33 730 | 485 467 | 51 836 | 0 | 17 418 | 52 938 | 38 344 | 0 | 0 | 389 996 | 1 069 729 |
+| **4 - Diáspora****e****media** | **33 730** | **485 467** | **51 836** | **0** | **17 418** | **52 938** | **38 344** | **0** | **0** | **389 996** | **1 069 729** |
 | 4.1 Apoio aos media | 33 730 | 485 467 | 51 836 | 0 | 17 418 | 52 938 | 38 344 | 0 | 0 | 389 996 | 1 069 729 |
-| 5 - Educação, dinâmica cultural e desporto | 726 485 | 8 490 996 | 6 278 887 | 283 542 | 635 125 | 1 127 981 | 1 500 807 | 320 132 | 138 430 | 593 201 | 20 095 586 |
+| **5 - Educação, dinâmica cultural****e****desporto** | **726 485** | **8 490 996** | **6 278 887** | **283 542** | **635 125** | **1 127 981** | **1 500 807** | **320 132** | **138 430** | **593 201** | **20 095 586** |
 | 5.8 Dinamização de atividades culturais | 83 000 | 2 006 040 | 916 500 | 56 167 | 89 000 | 264 650 | 163 000 | 159 090 | 35 000 | 266 000 | 4 038 447 |
 | 5.9 Defesa e valorização do património arquitetónico e cultural | 198 000 | 1 121 303 | 1 242 410 | 8 000 | 165 000 | 214 000 | 52 500 | 27 000 | 22 000 | 192 760 | 3 242 973 |
 | 5.10 Desporto, crianças e jovens | 122 675 | 2 272 337 | 1 552 000 | 40 575 | 66 725 | 325 400 | 334 375 | 48 418 | 4 175 | 28 300 | 4 794 980 |
@@ -6758,11 +6891,11 @@ Desagregação espacial
 | 5.12 Atividade física | 1 550 | 94 800 | 54 150 | 6 500 | 12 000 | 7 200 | 7 215 | 1 000 | 0 | 31 109 | 215 524 |
 | 5.13 Instalações desportivas | 33 400 | 950 298 | 629 850 | 5 000 | 140 500 | 44 431 | 365 100 | 11 000 | 75 255 | 0 | 2 254 834 |
 | 5.14 Iniciativas transversais às diferentes áreas do desporto | 2 860 | 23 500 | 21 000 | 2 300 | 1 900 | 2 300 | 3 002 | 2 300 | 2 000 | 75 032 | 136 194 |
-| Por uma Região solidária e capaz de vencer os desafios societais | 7 072 972 | 102 679 562 | 64 419 177 | 4 316 280 | 10 569 047 | 12 953 771 | 15 158 989 | 4 423 600 | 1 691 106 | 18 745 791 | 242 030 295 |
-| 3 - Finanças, planeamento e competitividade | 61 060 | 710 460 | 493 384 | 131 737 | 184 827 | 277 975 | 167 989 | 55 511 | 38 887 | 8 433 092 | 10 554 922 |
+| **Por uma Região solidária****e****capaz de vencer os desafios societais** | **7 072 972** | **102 679 562** | **64 419 177** | **4 316 280** | **10 569 047** | **12 953 771** | **15 158 989** | **4 423 600** | **1 691 106** | **18 745 791** | **242 030 295** |
+| **3 - Finanças, planeamento****e****competitividade** | **61 060** | **710 460** | **493 384** | **131 737** | **184 827** | **277 975** | **167 989** | **55 511** | **38 887** | **8 433 092** | **10 554 922** |
 | 3.3 Modernização e reestruturação da Administração pública regional | 21 060 | 260 460 | 248 384 | 33 737 | 39 827 | 193 975 | 41 989 | 20 511 | 1 887 | 8 133 092 | 8 994 922 |
 | 3.5 Planeamento e finanças | 40 000 | 450 000 | 245 000 | 98 000 | 145 000 | 84 000 | 126 000 | 35 000 | 37 000 | 300 000 | 1 560 000 |
-| 5 - Educação, dinâmica cultural e desporto | 417 272 | 15 267 141 | 13 139 138 | 474 180 | 969 665 | 1 381 279 | 1 736 033 | 432 677 | 54 364 | 0 | 33 871 749 |
+| **5 - Educação, dinâmica cultural****e****desporto** | **417 272** | **15 267 141** | **13 139 138** | **474 180** | **969 665** | **1 381 279** | **1 736 033** | **432 677** | **54 364** | **0** | **33 871 749** |
 | 5.1 Construções escolares | 2 000 | 111 113 | 584 643 | 3 000 | 13 070 | 20 455 | 10 857 | 3 480 | 1 500 | 0 | 750 118 |
 | 5.2 Equipamentos escolares | 3 450 | 120 120 | 139 844 | 7 588 | 8 100 | 9 600 | 8 650 | 8 665 | 1 700 | 0 | 307 717 |
 | 5.3 Apoio social | 232 443 | 7 286 493 | 6 832 552 | 307 292 | 572 734 | 840 522 | 1 012 414 | 284 108 | 11 727 | 0 | 17 380 285 |
@@ -6770,7 +6903,7 @@ Desagregação espacial
 | 5.5 Escolas digitais | 162 524 | 4 522 809 | 2 813 715 | 108 219 | 222 892 | 384 157 | 434 751 | 107 048 | 23 724 | 0 | 8 779 839 |
 | 5.6 Projetos pedagógicos | 6 072 | 541 942 | 1 621 366 | 15 000 | 3 355 | 64 394 | 54 000 | 13 000 | 3 000 | 0 | 2 322 129 |
 | 5.7 Atividade física desportiva | 10 783 | 39 014 | 97 668 | 11 081 | 4 514 | 22 151 | 10 361 | 9 376 | 1 713 | 0 | 206 661 |
-| 6 - Promoção da saúde e economia social | 3 255 758 | 49 943 821 | 31 418 677 | 2 028 778 | 3 605 100 | 5 431 862 | 4 933 089 | 2 252 097 | 757 518 | 9 125 825 | 112 752 525 |
+| **6 - Promoção da saúde****e****economia social** | **3 255 758** | **49 943 821** | **31 418 677** | **2 028 778** | **3 605 100** | **5 431 862** | **4 933 089** | **2 252 097** | **757 518** | **9 125 825** | **112 752 525** |
 | 6.1 Parcerias público-privadas | 0 | 0 | 12 222 786 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 12 222 786 |
 | 6.2 Apetrechamento e modernização | 424 910 | 28 359 954 | 2 656 960 | 424 900 | 73 200 | 76 621 | 1 001 000 | 451 900 | 0 | 716 005 | 34 185 450 |
 | 6.3 Apoios e acordos | 0 | 1 400 | 131 150 | 0 | 0 | 0 | 250 | 0 | 0 | 227 200 | 360 000 |
@@ -6784,13 +6917,13 @@ Desagregação espacial
 | 6.11 Apoio aos públicos com necessidades especiais | 700 000 | 2 180 000 | 200 000 | 0 | 0 | 400 000 | 480 000 | 400 000 | 0 | 600 000 | 4 960 000 |
 | 6.12 Apoio a idosos | 0 | 1 010 000 | 320 000 | 465 517 | 20 000 | 1 540 000 | 310 000 | 0 | 0 | 700 000 | 4 365 517 |
 | 6.13 Igualdade de oportunidades, inclusão social e combate à pobreza | 1 815 988 | 10 123 862 | 4 801 382 | 836 196 | 2 205 575 | 2 820 401 | 1 535 509 | 1 123 387 | 649 313 | 2 575 000 | 28 486 613 |
-| 10 - Juventude, habitação e empregabilidade | 3 338 882 | 36 758 140 | 19 367 978 | 1 681 585 | 5 809 455 | 5 862 655 | 8 321 878 | 1 683 315 | 840 337 | 1 186 874 | 84 851 099 |
+| **10 - Juventude, habitação****e****empregabilidade** | **3 338 882** | **36 758 140** | **19 367 978** | **1 681 585** | **5 809 455** | **5 862 655** | **8 321 878** | **1 683 315** | **840 337** | **1 186 874** | **84 851 099** |
 | 10.1 Juventude | 57 050 | 844 750 | 444 950 | 40 670 | 66 250 | 84 450 | 82 300 | 42 400 | 19 880 | 893 540 | 2 576 240 |
 | 10.2 Qualificação profissional e emprego | 3 281 832 | 35 913 390 | 18 923 028 | 1 640 915 | 5 743 205 | 5 778 205 | 8 239 578 | 1 640 915 | 820 457 | 0 | 81 981 525 |
 | 10.4 Apoio ao consumidor | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 143 334 | 143 334 |
 | 10.5 Transição digital, energética e ações de promoção | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 150 000 | 150 000 |
-| Por uma Região resiliente, próspera e competitiva | 7 120 964 | 118 241 583 | 24 724 945 | 4 499 970 | 6 688 755 | 12 854 700 | 15 247 838 | 2 434 368 | 1 141 498 | 58 034 337 | 250 988 958 |
-| 2 - Relações externas, ciência e comunicações | 3 000 | 3 933 000 | 2 102 000 | 81 500 | 81 500 | 84 500 | 1 060 000 | 81 500 | 81 500 | 12 399 932 | 19 908 432 |
+| **Por uma Região resiliente, próspera****e****competitiva** | **7 120 964** | **118 241 583** | **24 724 945** | **4 499 970** | **6 688 755** | **12 854 700** | **15 247 838** | **2 434 368** | **1 141 498** | **58 034 337** | **250 988 958** |
+| **2 - Relações externas, ciência****e****comunicações** | **3 000** | **3 933 000** | **2 102 000** | **81 500** | **81 500** | **84 500** | **1 060 000** | **81 500** | **81 500** | **12 399 932** | **19 908 432** |
 | 2.3 Sistemas de informação e infraestruturas de suporte | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 489 351 | 5 489 351 |
 | 2.4 Cibersegurança e segurança da informação | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 580 199 | 580 199 |
 | 2.5 Transição digital | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5 830 882 | 5 830 882 |
@@ -6798,13 +6931,13 @@ Desagregação espacial
 | 2.9 Alavancar o desenvolvimento regional com base na RIS3, em projetos europeus de I&I e em fundos comunitários | 0 | 880 000 | 431 000 | 0 | 0 | 0 | 204 000 | 0 | 0 | 130 000 | 1 645 000 |
 | 2.10 Reforçar a formação avançada e incentivar o desenvolvimento tripolar e digital da Universidade dos Açores | 0 | 768 000 | 566 000 | 0 | 0 | 0 | 501 000 | 0 | 0 | 0 | 1 835 000 |
 | 2.11 Fomentar o desenvolvimento regional através da cooperação económica e do investimento externo | 0 | 235 000 | 80 000 | 80 000 | 80 000 | 80 000 | 80 000 | 80 000 | 80 000 | 80 000 | 875 000 |
-| 3 - Finanças, planeamento e competitividade | 1 154 500 | 29 213 500 | 13 124 000 | 1 573 500 | 1 478 500 | 5 615 500 | 3 307 500 | 1 298 500 | 153 287 | 17 802 281 | 74 721 068 |
+| **3 - Finanças, planeamento****e****competitividade** | **1 154 500** | **29 213 500** | **13 124 000** | **1 573 500** | **1 478 500** | **5 615 500** | **3 307 500** | **1 298 500** | **153 287** | **17 802 281** | **74 721 068** |
 | 3.1 Competitividade empresarial | 970 000 | 25 940 000 | 12 550 000 | 700 000 | 1 442 500 | 5 537 500 | 3 237 500 | 420 000 | 142 500 | 16 200 000 | 67 140 000 |
 | 3.2 Comércio e Indústria | 30 000 | 200 000 | 110 000 | 20 000 | 30 000 | 65 000 | 60 000 | 25 000 | 10 000 | 100 000 | 650 000 |
 | 3.3 Modernização e reestruturação da administração pública regional | 4 500 | 37 000 | 14 000 | 3 500 | 6 000 | 13 000 | 10 000 | 3 500 | 787 | 24 931 | 117 218 |
 | 3.4 Estatística | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 47 350 | 47 350 |
 | 3.5 Planeamento e finanças | 150 000 | 3 036 500 | 450 000 | 850 000 | 0 | 0 | 0 | 850 000 | 0 | 1 430 000 | 6 766 500 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 5 918 464 | 84 888 083 | 9 338 945 | 2 822 470 | 5 096 255 | 7 123 200 | 10 862 338 | 1 038 368 | 899 711 | 27 367 624 | 155 355 458 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **5 918 464** | **84 888 083** | **9 338 945** | **2 822 470** | **5 096 255** | **7 123 200** | **10 862 338** | **1 038 368** | **899 711** | **27 367 624** | **155 355 458** |
 | 9.1 Eficiência energética e energias renováveis | 291 705 | 7 187 012 | 2 872 379 | 220 638 | 451 565 | 748 658 | 773 497 | 184 753 | 20 797 | 20 000 000 | 32 751 004 |
 | 9.2 Serviços energéticos | 36 604 | 901 828 | 360 427 | 27 685 | 56 662 | 93 942 | 97 058 | 23 183 | 2 611 | 0 | 1 600 000 |
 | 9.3 Mobilidade elétrica | 25 165 | 620 006 | 247 794 | 19 034 | 38 955 | 64 585 | 66 728 | 15 939 | 1 794 | 0 | 1 100 000 |
@@ -6838,19 +6971,19 @@ Desagregação espacial
 | 9.41 Infraestruturas de apoio às empresas turísticas | 0 | 0 | 0 | 2 500 | 0 | 0 | 0 | 0 | 0 | 0 | 2 500 |
 | 9.42 Melhoria dos sistemas da SRTMI | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 000 | 100 000 |
 | 9.43 Laboratório de Experimentação da Administração Pública dos Açores | 0 | 0 | 400 000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 400 000 |
-| 10 - Juventude, habitação e empregabilidade | 45 000 | 207 000 | 160 000 | 22 500 | 32 500 | 31 500 | 18 000 | 16 000 | 7 000 | 464 500 | 1 004 000 |
+| **10 - Juventude, habitação****e****empregabilidade** | **45 000** | **207 000** | **160 000** | **22 500** | **32 500** | **31 500** | **18 000** | **16 000** | **7 000** | **464 500** | **1 004 000** |
 | 10.3 Apoio ao desenvolvimento das empresas artesanais | 45 000 | 207 000 | 160 000 | 22 500 | 32 500 | 31 500 | 18 000 | 16 000 | 7 000 | 464 500 | 1 004 000 |
-| Por uma Região sustentável e coesa territorialmente | 16 407 919 | 121 520 226 | 57 480 932 | 12 619 570 | 25 233 037 | 43 530 970 | 47 085 103 | 30 959 002 | 6 061 112 | 39 709 970 | 400 607 841 |
-| 1 - Coesão e representação | 725 465 | 3 096 497 | 1 415 542 | 336 191 | 884 713 | 1 105 892 | 575 063 | 442 357 | 265 413 | 674 679 | 9 521 812 |
+| **Por uma Região sustentável****e****coesa territorialmente** | **16 407 919** | **121 520 226** | **57 480 932** | **12 619 570** | **25 233 037** | **43 530 970** | **47 085 103** | **30 959 002** | **6 061 112** | **39 709 970** | **400 607 841** |
+| **1 - Coesão****e****representação** | **725 465** | **3 096 497** | **1 415 542** | **336 191** | **884 713** | **1 105 892** | **575 063** | **442 357** | **265 413** | **674 679** | **9 521 812** |
 | 1.2 Cooperação com os municípios | 459 947 | 1 963 189 | 897 458 | 213 146 | 560 911 | 701 139 | 364 592 | 280 456 | 168 273 | 42 162 | 5 651 273 |
 | 1.3 Cooperação com as freguesias | 265 518 | 1 133 308 | 518 084 | 123 045 | 323 802 | 404 753 | 210 471 | 161 901 | 97 140 | 82 000 | 3 320 022 |
 | 1.4 Recuperação dos efeitos da intempérie Lorenzo - Infraestruturas e equipamentos municipais | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 550 517 | 550 517 |
-| 7 - Economia rural e alimentação | 4 257 433 | 41 462 837 | 23 406 010 | 3 447 985 | 10 543 422 | 14 528 746 | 6 840 307 | 3 575 258 | 1 041 414 | 11 914 258 | 121 017 670 |
+| **7 - Economia rural****e****alimentação** | **4 257 433** | **41 462 837** | **23 406 010** | **3 447 985** | **10 543 422** | **14 528 746** | **6 840 307** | **3 575 258** | **1 041 414** | **11 914 258** | **121 017 670** |
 | 7.1 Investigação, inovação, capacitação e competitividade | 2 706 985 | 16 465 208 | 10 893 478 | 1 659 775 | 4 133 561 | 6 384 413 | 3 316 433 | 1 896 182 | 698 878 | 4 258 655 | 52 413 568 |
 | 7.2 Desenvolvimento sustentável, biodiversidade e alterações climáticas | 1 448 382 | 19 343 311 | 10 817 096 | 1 504 176 | 3 489 675 | 6 140 291 | 3 022 865 | 1 474 603 | 234 820 | 1 769 084 | 49 244 303 |
 | 7.3 Infraestruturas públicas de apoio ao setor produtivo | 102 066 | 5 654 318 | 1 695 436 | 284 034 | 2 920 186 | 2 004 042 | 501 009 | 204 473 | 107 716 | 5 786 519 | 19 259 799 |
 | 7.4 Ordenamento e gestão do território | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 100 000 | 100 000 |
-| 8 - Economia do mar | 467 131 | 3 013 598 | 1 210 189 | 265 619 | 433 847 | 391 541 | 30 053 366 | 356 652 | 63 647 | 7 919 520 | 44 175 110 |
+| **8 - Economia do mar** | **467 131** | **3 013 598** | **1 210 189** | **265 619** | **433 847** | **391 541** | **30 053 366** | **356 652** | **63 647** | **7 919 520** | **44 175 110** |
 | 8.1 Controlo, inspeção e gestão | 0 | 0 | 0 | 0 | 0 | 0 | 29 233 222 | 0 | 0 | 1 385 018 | 30 618 240 |
 | 8.2 Infraestruturas de apoio às pescas | 394 920 | 2 315 259 | 811 133 | 209 613 | 241 180 | 303 499 | 452 360 | 300 196 | 41 491 | 145 480 | 5 215 131 |
 | 8.3 Frota e recursos humanos | 32 423 | 479 118 | 251 750 | 29 372 | 58 677 | 27 569 | 21 077 | 20 017 | 2 085 | 1 245 711 | 2 167 799 |
@@ -6860,7 +6993,7 @@ Desagregação espacial
 | 8.7 Escola do Mar dos Açores | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 665 500 | 665 500 |
 | 8.8 Gestão e licenciamento marítimo | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 71 000 | 71 000 |
 | 8.9 Gestão e requalificação da orla costeira | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 693 047 | 693 047 |
-| 9 - Desenvolvimento turístico, mobilidade e infraestruturas | 9 115 889 | 48 729 460 | 21 482 021 | 6 596 106 | 10 699 607 | 22 052 530 | 7 614 797 | 25 107 749 | 4 325 946 | 9 019 520 | 164 743 625 |
+| **9 - Desenvolvimento turístico, mobilidade****e****infraestruturas** | **9 115 889** | **48 729 460** | **21 482 021** | **6 596 106** | **10 699 607** | **22 052 530** | **7 614 797** | **25 107 749** | **4 325 946** | **9 019 520** | **164 743 625** |
 | 9.5 Promoção e desenvolvimento turístico | 211 064 | 10 766 263 | 1 832 290 | 72 240 | 275 435 | 809 326 | 853 000 | 273 889 | 21 300 | 0 | 15 114 807 |
 | 9.6 Sustentabilidade do destino turístico | 31 620 | 1 021 805 | 82 470 | 19 775 | 8 639 | 25 375 | 26 754 | 8 590 | 670 | 15 000 | 1 240 698 |
 | 9.7 Qualificação do destino | 74 781 | 1 751 014 | 312 622 | 171 568 | 39 653 | 117 439 | 146 919 | 47 909 | 14 680 | 115 000 | 2 791 585 |
@@ -6871,9 +7004,9 @@ Desagregação espacial
 | 9.12 Coesão territorial - Transportes | 943 000 | 4 025 000 | 1 840 000 | 437 000 | 1 150 000 | 1 437 500 | 747 500 | 575 000 | 345 000 | 0 | 11 500 000 |
 | 9.13 Recuperação dos efeitos da intempérie Lorenzo - Infraestruturas portuárias e de mercadorias | 500 000 | 0 | 0 | 0 | 0 | 6 872 116 | 0 | 19 248 451 | 0 | 4 760 040 | 31 380 607 |
 | 9.20 Transporte terrestre e segurança rodoviária | 368 174 | 1 377 482 | 629 706 | 149 555 | 393 567 | 491 958 | 255 818 | 196 783 | 72 618 | 300 000 | 4 235 661 |
-| 10 - Juventude, habitação e empregabilidade | 480 843 | 17 839 810 | 6 196 754 | 855 041 | 1 482 130 | 1 329 087 | 593 115 | 526 774 | 46 622 | 0 | 29 350 176 |
+| **10 - Juventude, habitação****e****empregabilidade** | **480 843** | **17 839 810** | **6 196 754** | **855 041** | **1 482 130** | **1 329 087** | **593 115** | **526 774** | **46 622** | **0** | **29 350 176** |
 | 10.6 Habitação | 480 843 | 17 839 810 | 6 196 754 | 855 041 | 1 482 130 | 1 329 087 | 593 115 | 526 774 | 46 622 | 0 | 29 350 176 |
-| 11 - Sustentabilidade, ação climática e gestão de riscos | 1 361 158 | 7 378 024 | 3 770 416 | 1 118 628 | 1 189 318 | 4 123 174 | 1 408 455 | 950 212 | 318 070 | 10 181 993 | 31 799 448 |
+| **11 - Sustentabilidade, ação climática****e****gestão de riscos** | **1 361 158** | **7 378 024** | **3 770 416** | **1 118 628** | **1 189 318** | **4 123 174** | **1 408 455** | **950 212** | **318 070** | **10 181 993** | **31 799 448** |
 | 11.1 Planeamento, inspeção e promoção ambiental | 456 464 | 2 169 030 | 812 429 | 178 194 | 413 667 | 716 104 | 622 884 | 329 833 | 80 100 | 2 868 442 | 8 647 147 |
 | 11.2 Qualidade ambiental e alterações climáticas | 194 211 | 46 388 | 20 762 | 0 | 0 | 10 000 | 54 713 | 0 | 0 | 2 143 166 | 2 469 240 |
 | 11.3 Conservação da natureza e biodiversidade | 28 250 | 0 | 0 | 0 | 0 | 2 047 485 | 0 | 0 | 0 | 1 720 835 | 3 796 570 |
@@ -6883,17 +7016,19 @@ Desagregação espacial
 | 11.7 Protocolos e apoios | 497 607 | 3 248 702 | 1 812 954 | 483 607 | 547 607 | 1 068 405 | 556 404 | 478 607 | 137 607 | 10 000 | 8 841 500 |
 | 11.8 Formação | 22 000 | 103 000 | 66 000 | 32 000 | 38 000 | 40 000 | 33 000 | 17 000 | 9 000 | 0 | 360 000 |
 | 11.9 Gestão de riscos, cartografia e cadastro | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 346 621 | 2 346 621 |
-| Por uma Região prestigiada na Europa e no mundo | 810 322 | 449 750 | 4 956 230 | 48 830 | 128 500 | 160 625 | 83 525 | 267 970 | 38 550 | 2 268 599 | 9 212 901 |
-| 2 - Relações externas, ciência e comunicações | 0 | 0 | 4 750 630 | 0 | 0 | 0 | 0 | 0 | 0 | 860 535 | 5 611 165 |
+| **Por uma Região prestigiada na Europa****e****no mundo** | **810 322** | **449 750** | **4 956 230** | **48 830** | **128 500** | **160 625** | **83 525** | **267 970** | **38 550** | **2 268 599** | **9 212 901** |
+| **2 - Relações externas, ciência****e****comunicações** | **0** | **0** | **4 750 630** | **0** | **0** | **0** | **0** | **0** | **0** | **860 535** | **5 611 165** |
 | 2.1 Relações com o Atlântico e territórios de interesse estratégico para os Açores | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 287 500 | 287 500 |
 | 2.2 Os Açores no Espaço europeu | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 323 035 | 323 035 |
 | 2.6 Aeroporto das Lajes | 0 | 0 | 4 750 630 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4 750 630 |
 | 2.7 Cooperação institucional | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 250 000 | 250 000 |
-| 4 - Diáspora e media | 704 952 | 0 | 0 | 0 | 0 | 0 | 0 | 203 720 | 0 | 1 408 064 | 2 316 736 |
+| **4 - Diáspora****e****media** | **704 952** | **0** | **0** | **0** | **0** | **0** | **0** | **203 720** | **0** | **1 408 064** | **2 316 736** |
 | 4.2 Emigrado e regressado | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 92 539 | 92 539 |
 | 4.3 Identidade cultural e açorianidade | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 365 683 | 365 683 |
 | 4.4 Imigrado e interculturalidade | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 81 778 | 81 778 |
 | 4.5 Iniciativas, projetos e infraestruturas de base tecnológica | 704 952 | 0 | 0 | 0 | 0 | 0 | 0 | 203 720 | 0 | 868 064 | 1 776 736 |
-| 7 - Economia rural e alimentação | 105 370 | 449 750 | 205 600 | 48 830 | 128 500 | 160 625 | 83 525 | 64 250 | 38 550 | 0 | 1 285 000 |
+| **7 - Economia rural****e****alimentação** | **105 370** | **449 750** | **205 600** | **48 830** | **128 500** | **160 625** | **83 525** | **64 250** | **38 550** | **0** | **1 285 000** |
 | 7.5 Gestão e promoção da Marca Açores | 105 370 | 449 750 | 205 600 | 48 830 | 128 500 | 160 625 | 83 525 | 64 250 | 38 550 | 0 | 1 285 000 |
 | Total geral | 32 172 392 | 351 867 584 | 157 912 007 | 21 768 192 | 43 271 882 | 70 680 985 | 79 114 606 | 38 405 072 | 9 070 696 | 120 741 894 | 925 005 310 |
+
+117871496

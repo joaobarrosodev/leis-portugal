@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/244/2008/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-2008-246852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f0fcebd7e756396a9aecce4a7c8213ea960b95ac1a80da301cdfd76f3aec778
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87c81abcac33d342ba6e5192f18e316d8cec2c2f69edf1a82da59a7f01a37dfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,13 +79,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:06Z'
   warnings: []
   errors: []
 ---
@@ -124,11 +124,11 @@ Manda o Governo, pelo Ministro da Economia e da Inovação, o seguinte:
 
 5.º A presente portaria entra em vigor no dia a seguir à sua publicação.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 7 de Março de 2008.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 7 de Março de 2008.
 
 ## ANEXO I — Serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf)
 
 ## ANEXO II — Publicações, trabalhos gráficos, fotocópias e compilação de legislação
 
@@ -178,18 +178,18 @@ Suporte em papel...70/unidade
 
 ## ANEXO III — Salas de formação e auditório
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf)
 
 ## ANEXO IV — Ensaios laboratoriais
 
 Laboratório de Microbiologia - LM (1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf)
 
 Laboratório de Físico-Química - LFQ (1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf)
 
 Laboratório de Bebidas e Produtos Vitivinícolas - LBPV (1) (2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf))](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/05900/0166001666.pdf)

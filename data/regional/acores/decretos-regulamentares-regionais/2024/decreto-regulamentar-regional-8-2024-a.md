@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2024/07/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2024-870598144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f717a4a62e338fb7b4fe088dab697eb524b3bcea24f3470b3faac4f31f80f9ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d616211a7d22dccf835a6c8dacb5503076b72f99bd03506138c6861f08b40ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Pública
+- Administração Regional
 - Aquisição de Bens e Serviços
+- Contabilidade Pública
 - Controlo Orçamental
 - Despesas Públicas
-- Regulamentação de Atos Legislativos
 - Empresa Pública Regional
-- Administração Pública
 - Execução do Orçamento
-- Tribunal de Contas
-- Sistema de Normalização Contabilística
 - Orçamento Regional
-- Administração Regional
-- Açores
-- Contabilidade Pública
+- Regulamentação de Atos Legislativos
+- Sistema de Normalização Contabilística
+- Tribunal de Contas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/86/2021/10/19/p/dre
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:173035672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210875031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869798290:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:04Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +211,7 @@ c) Os PLC, estritamente necessários, relativos a despesas de investimento.
 
 4 - Excetuam-se do disposto no número anterior, desde que previamente autorizadas pelo membro do Governo Regional com competência na área das finanças, as despesas com deslocações de trabalhadores, as despesas consideradas imprevistas e inadiáveis, as despesas certas ou permanentes necessárias ao normal funcionamento dos serviços, os encargos plurianuais legalmente assumidos, bem como as despesas correspondentes a verbas afetas a programas do Plano.
 
-5 - Os prazos-limite para as operações referidas nos n.<sup>os</sup>3 e 4 são os seguintes:
+5 - Os prazos-limite para as operações referidas nos n.os3 e 4 são os seguintes:
 
 a) A entrada de PAPs, requisições e outros elementos de levantamento de fundos dos cofres da Região Autónoma dos Açores nos Serviços de Caixa da Região Autónoma dos Açores verifica-se até 20 de dezembro de 2024, salvo situações excecionais, devidamente fundamentadas;
 
@@ -381,10 +401,12 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 26 de junho de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 28 de junho de 2024.**
+Assinado em Angra do Heroísmo em 28 de junho de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+117851886

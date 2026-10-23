@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/031b00/07420744.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/1992/02/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1992-152496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3904182e77d1a4bdb18a46eec9d7a374e23d1ce08a5ebaf240e3b6fdafb19064
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82409ac139333b25091d4d50810fbe6eb47a634e938760e82d5b81a1943a4f59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Instituto de Acção Social
 - Pessoal Técnico de Serviço Social
 - Pessoal Técnico Superior de Serviço Social
 - Quadro de Pessoal
-- Instituto de Acção Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:411855:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216323:por
+  label: "Substituído o quadro de pessoal do Instituto de Acção Social, na redacção do presente diploma pelo DRR.28/98/A.1998.11.03.PG-RAA\
+    \ DR.IS-B [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-1998-216323
+  date: '1998-11-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:411855:por
+  label: "Revogado pelo DRR.10/2000/A.2000.02.18.PG-RAA,DR.IS-B [62] de 14/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2000-411855
+  date: '2000-02-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:13Z'
   warnings: []
   errors: []
 ---
@@ -104,18 +127,18 @@ Procede-se, por isso, à alteração dos quadros do Instituto de Acção Social,
 
 Assim, em conformidade com o disposto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, conjugado com o n.º 1 do artigo 30.º do [Decreto Legislativo Regional n.º 11/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1987-419795), de 26 de Junho, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. Os lugares de técnico de serviço social dos quadros de pessoal do Instituto de Acção Social, constantes do anexo ao [Decreto Regulamentar Regional n.º 23/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1990-573284), de 31 de Julho, são convertidos em lugares de técnico superior de serviço social, conforme mapa anexo ao presente diploma, do qual faz parte integrante.
+Artigo único. Os lugares de técnico de serviço social dos quadros de pessoal do Instituto de Acção Social, constantes do anexo ao [Decreto Regulamentar Regional n.º 23/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1990-573284), de 31 de Julho, são convertidos em lugares de técnico superior de serviço social, conforme mapa anexo ao presente diploma, do qual faz parte integrante.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 20 de Dezembro de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 17 de Janeiro de 1992.**
+Assinado em Angra do Heroísmo em 17 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/031b00/07420744.pdf))](https://files.diariodarepublica.pt/1s/1992/02/031b00/07420744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/031b00/07420744.pdf)

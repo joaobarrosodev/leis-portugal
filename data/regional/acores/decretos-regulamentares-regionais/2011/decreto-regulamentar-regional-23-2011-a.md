@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/11/22300/0497705006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2011/11/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2011-146209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be816c0361f98a14bc4699aaf3ec100bf925e0bc59766fdcc0462fdb2d8e29ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64798e5a6086e4b37a97054d5ceb4f4721647a5e6c8fc25f8ba301ed04b4cb4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Definição de Competências
-- Secretaria Regional do Ambiente e do MAR
-- Orgânica
-- Quadro de Pessoal
 - Açores
+- Definição de Competências
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria Regional do Ambiente e do MAR
 relationships:
 - type: amended_by
   target: pt:dre:166658190:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Determinada a transição, para a dependência do Secretário Regional dos Recursos Naturais, da Inspeção Regional do\
+    \ Ambiente e da Inspeção Regional das Pescas, anteriormente na dependência da Secretaria Regional do Ambiente e do Mar,\
+    \ assim como a transição, para a Direção Regional das Pescas, dos serviços até agora dependentes do Subsecretário Regional\
+    \ das Pescas, no âmbito da referida Secretaria Regional, cujas atribuições e competências constam do presente diploma,\
+    \ pelo DRR.24/2012/A.27.11.2012.PG-RAA, DR.IS [229] de 27.11.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
 - type: cites
   target: celex:32000R1543
   label: null
@@ -85,16 +94,27 @@ relationships:
   target: celex:32007L0002
   label: null
   source: http://data.europa.eu/eli/dir/2007/2/oj
+- type: repealed_by
+  target: pt:dre:498536:por
+  label: "Revogado, a partir de 03.08.2013, pelo DRR.11/2013/A.02.08.2013.PG-RAA, DR.IS [148] de 02.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2013-498536
+  date: '2013-08-02'
+- type: repealed_by
+  target: pt:dre:166658190:por
+  label: Revogados os arts. 27.º a 36.º da Subsecção II da Secção II do Capítulo III do Anexo I ao presente diploma pelo(a)
+    Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2021-166658190
+  date: '2021-07-08'
 article_structure:
   article_count: 88
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 34
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:56Z'
   warnings: []
   errors: []
 ---
@@ -187,11 +207,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de Setembro de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 3 de Novembro de 2011.**
+Assinado em Angra do Heroísmo em 3 de Novembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -391,7 +411,9 @@ c) Divisão de Tecnologias de Informação e Comunicação (DTIC).
 
 d) Centro de Informação (Biblioteca, Arquivo e Documentação) (CI).
 
-###### Artigo 11.º — Divisão de Infra-Estruturas
+###### Artigo 11.º
+
+##### Divisão de Infra-Estruturas
 
 1 - À DI compete, designadamente:
 
@@ -407,7 +429,9 @@ e) Desempenhar outras funções de natureza técnico-jurídica que lhe sejam sup
 
 2 - A DI é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 12.º — Divisão Administrativa e Financeira
+###### Artigo 12.º
+
+##### Divisão Administrativa e Financeira
 
 1 - À DAF compete, designadamente:
 
@@ -445,7 +469,9 @@ c) Secção de Apoio Administrativo (SAA), a que se refere o artigo 48.º
 
 3 - A DAF é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 13.º — Secção de Contabilidade, Aprovisionamento e Património
+###### Artigo 13.º
+
+#### Secção de Contabilidade, Aprovisionamento e Património
 
 1 - À SCAP compete, designadamente:
 
@@ -467,7 +493,9 @@ h) Desempenhar outras tarefas de natureza administrativa superiormente determina
 
 2 - A SCAP é chefiada por um coordenador técnico.
 
-###### Artigo 14.º — Secção de Pessoal
+###### Artigo 14.º
+
+#### Secção de Pessoal
 
 1 - À SP compete, designadamente:
 
@@ -485,7 +513,9 @@ f) Desempenhar outras tarefas de natureza administrativa superiormente determina
 
 2 - A SP é chefiada por um coordenador técnico.
 
-###### Artigo 15.º — Divisão de Tecnologias de Informação e Comunicação
+###### Artigo 15.º
+
+##### Divisão de Tecnologias de Informação e Comunicação
 
 1 - A DTIC constitui um serviço de apoio técnico na área da informática e das comunicações.
 
@@ -851,7 +881,9 @@ j) Desempenhar outras funções de natureza técnica e administrativa em matéri
 
 5 - A AHA é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 26.º — Divisão de Monitorização e Prevenção de Riscos Hidrológicos
+###### Artigo 26.º
+
+##### Divisão de Monitorização e Prevenção de Riscos Hidrológicos
 
 1 - À DMPRH compete, designadamente:
 
@@ -925,7 +957,9 @@ c) Direcção de Serviços de Estratégia e Energias Renováveis (DSEER).
 
 2 - No âmbito das suas competências, a DRE será apoiada pelos serviços periféricos da SRAM.
 
-###### Artigo 30.º — Divisão de Apoio Técnico-Administrativo
+###### Artigo 30.º
+
+##### Divisão de Apoio Técnico-Administrativo
 
 1 - À DATA compete, designadamente:
 
@@ -1011,7 +1045,9 @@ b) Divisão de Combustíveis (DC).
 
 3 - A DSLE é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau
 
-###### Artigo 32.º — Divisão de Energia Eléctrica
+###### Artigo 32.º
+
+##### Divisão de Energia Eléctrica
 
 1 - Compete à DEE:
 
@@ -1033,7 +1069,9 @@ h) Executar outras funções que lhe sejam superiormente cometidas.
 
 2 - A DEE funciona na directa dependência e é dirigida directamente pelo director de serviços de Licenciamentos Energéticos.
 
-###### Artigo 33.º — Divisão de Combustíveis
+###### Artigo 33.º
+
+##### Divisão de Combustíveis
 
 1 - Compete à DC:
 
@@ -1081,7 +1119,9 @@ b) Divisão de Energias Renováveis (DER).
 
 3 - A DSEER é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 35.º — Divisão de Eficiência e Certificação Energética
+###### Artigo 35.º
+
+##### Divisão de Eficiência e Certificação Energética
 
 1 - Compete à DECE:
 
@@ -1099,7 +1139,9 @@ f) Executar outras funções que lhe sejam superiormente cometidas.
 
 2 - A DECE funciona na directa dependência e é dirigida directamente pelo director de serviços de Estratégia e Energias Renováveis.
 
-###### Artigo 36.º — Divisão de Energias Renováveis
+###### Artigo 36.º
+
+##### Divisão de Energias Renováveis
 
 1 - Compete à DER:
 
@@ -1239,7 +1281,9 @@ w) Desempenhar outras tarefas de natureza técnica determinadas superiormente.
 
 4 - A DSAM é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 41.º — Divisão do Domínio Público Marítimo
+###### Artigo 41.º
+
+##### Divisão do Domínio Público Marítimo
 
 1 - À DDPM compete, designadamente:
 
@@ -1485,7 +1529,9 @@ i) Elaborar estudos de situação e perspectivas, bem como propostas de medidas 
 
 6 - O GAM funciona na directa dependência e é dirigido directamente pelo director do Gabinete de Gestão Pesqueira.
 
-###### Artigo 48.º — Secção de Apoio Administrativo
+###### Artigo 48.º
+
+#### Secção de Apoio Administrativo
 
 1 - À SAA compete apoiar o SeRPA em matéria de documentação, recursos humanos e patrimoniais, designadamente.
 
@@ -1803,7 +1849,9 @@ n) Executar outras tarefas de natureza técnica e técnico-jurídica que sejam s
 
 4 - O GFAJ funciona na directa dependência do inspector regional.
 
-###### Artigo 60.º — Secção de Apoio Administrativo
+###### Artigo 60.º
+
+#### Secção de Apoio Administrativo
 
 1 - À SAA compete apoiar os serviços da IRP em matéria de documentação, recursos humanos, financeiros e patrimoniais, designadamente:
 
@@ -1913,7 +1961,9 @@ j) Exercer as demais funções que lhe sejam atribuídas por lei.
 
 3 - Nas suas ausências ou impedimentos, o inspector regional do Ambiente é substituído pelo chefe da Divisão de Inspecção da Energia ou por inspector superior designado para o efeito.
 
-###### Artigo 65.º — Divisão de Inspecção do Ambiente
+###### Artigo 65.º
+
+##### Divisão de Inspecção do Ambiente
 
 1 - À DIAmb compete, designadamente:
 
@@ -1937,7 +1987,9 @@ i) Executar quaisquer outras tarefas que lhe sejam superiormente atribuídas.
 
 2 - A DIAmb é directamente dirigida pelo inspector regional do Ambiente.
 
-###### Artigo 66.º — Divisão de Inspecção da Energia
+###### Artigo 66.º
+
+##### Divisão de Inspecção da Energia
 
 1 - À DIE compete a realização da acção inspectiva nas áreas da energia eléctrica, dos elevadores e outros dispositivos electromecânicos legalmente sujeitos a inspecção e dos combustíveis.
 
@@ -1969,7 +2021,9 @@ f) As acções de fiscalização previstas nos números anteriores exercem-se no
 
 4 - A DIE é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 67.º — Secção de Apoio Administrativo
+###### Artigo 67.º
+
+#### Secção de Apoio Administrativo
 
 1 - À Secção de Apoio Administrativo (SAA) compete:
 
@@ -2255,4 +2309,4 @@ Os regimes de vinculação, de carreiras e remunerações dos trabalhadores da S
 
 ## ANEXO II — Quadro de pessoal dirigente, dos cargos de direcção específica e cargos de chefia da Secretaria Regional do Ambiente e do Mar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/22300/0497705006.pdf))](https://files.diariodarepublica.pt/1s/2011/11/22300/0497705006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/22300/0497705006.pdf)

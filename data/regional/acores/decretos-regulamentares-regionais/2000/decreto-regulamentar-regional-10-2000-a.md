@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2000/03/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2000-411855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a7f5631bc9662e0adbc050f7a74282111789b62f5eb51d08d65ea2ad4abccf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0e4c6acd4baea314f845341dc2cd8317f27d71821c5788f597c5a776ab1a680
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Definição de Competências
+- Instituto de Acção Social
 - Instituto Público
 - Integração de Trabalhadores
 - Orgânica
 - Quadro de Pessoal
 - Reclassificação de Pessoal
-- Instituto de Acção Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:276846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344876:por
+  label: "Alterado o art. 5º pelo DRR.3/2001/A.2001.04.17.PG-RAA,DR.IS-B [111] de 14/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2001-344876
+  date: '2001-04-17'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente técnico, nos termos do art. 4º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    8\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Transitada para a dependência do Secretário Regional do Trabalho e Solidariedade Social, o Instituto de Acção Social,\
+    \ cuja orgânica foi aprovada pelo presente diploma, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/1995/07/26/p/dre
   label: null
@@ -106,16 +125,63 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:152496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276846:por
+  label: "Revogado, a partir de 01.06.2011, com as alterações introduzidas pelo DRR 3/2001/A de 14-Mai, pelo DRR.8/2011/A.12.04.2011.PG-RAA,\
+    \ DR.IS [72] de 12.04.2011, sem prejuízo do disposto nos nºs 2 e 3 do seu art. 4º, e remetidas para o Instituto de Desenvolvimento\
+    \ Social dos Açores, IPRA (IDSA, IPRA) as referências feitas em lei ou regulamento ao Instituto de Acção Social.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2011-276846
+  date: '2011-04-12'
 article_structure:
-  article_count: 30
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 31
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:12Z'
   warnings: []
   errors: []
 ---
@@ -244,7 +310,9 @@ e) Promover a articulação do IAS com outras entidades e serviços no processo 
 
 2 - A Repartição Administrativa compreende a Secção de Orçamento e Contabilidade e a Secção de Pessoal e Documentação.
 
-###### Artigo 11.º — Secção de Orçamento e Contabilidade
+###### Artigo 11.º
+
+#### Secção de Orçamento e Contabilidade
 
 Compete à Secção de Orçamento e Contabilidade:
 
@@ -262,7 +330,9 @@ f) Organizar e remeter ao Centro de Gestão Financeira da Segurança Social e ao
 
 g) Elaborar as estatísticas decorrentes da contabilidade efectuada.
 
-###### Artigo 12.º — Secção de Pessoal e Documentação
+###### Artigo 12.º
+
+#### Secção de Pessoal e Documentação
 
 Compete à Secção de Pessoal e Documentação:
 
@@ -284,9 +354,11 @@ h) Seleccionar e tratar as informações veiculadas pelos órgãos de comunicaç
 
 i) Proceder à difusão de legislação, ordens de serviço, documentação e demais informação relacionada com a segurança social.
 
-#### SECÇÃO III — Artigo 13.º
+#### SECÇÃO III
 
-##### Divisão de Planeamento e Apoio às Instituições
+###### Artigo 13.º
+
+Divisão de Planeamento e Apoio às Instituições
 
 Compete à Divisão de Planeamento e Apoio às Instituições:
 
@@ -502,13 +574,13 @@ São revogados os Decretos Regulamentares Regionais n.os [23/90/A](https://diari
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 2 de Dezembro de 1999.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 18 de Fevereiro de 2000.**
+Assinado em Angra do Heroísmo em 18 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — Mapa a que se refere o artigo 23.º
 

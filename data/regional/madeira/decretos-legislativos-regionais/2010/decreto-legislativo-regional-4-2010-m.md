@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2010/04/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2010-613422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc98c5eaa1b977479fb41b22d3d4ec4ad4def44f5c5fe31caf7b9796786c09fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f60ea0fb058004bdd6196fe7ecec3bc8d7e749ea42d4f91a54a244bff2efdc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ subjects:
 - Aeroporto
 - Aeroporto de Santa Catarina
 - ANAM
-- Direcção Regional de Aeroportos
-- Secretaria Regional do Turismo e Transportes
-- Integração de Trabalhadores
-- Obras Públicas
-- Madeira.região Autónoma
-- Regime de Pessoal
 - Contrato de Trabalho
+- Direcção Regional de Aeroportos
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Obras Públicas
+- Regime de Pessoal
+- Secretaria Regional do Turismo e Transportes
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/453/1991/12/11/p/dre
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:217922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:19Z'
   warnings: []
   errors: []
 ---
@@ -152,10 +168,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 9 de Fevereiro de 2010.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 9 de Abril de 2010.**
+Assinado em 9 de Abril de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

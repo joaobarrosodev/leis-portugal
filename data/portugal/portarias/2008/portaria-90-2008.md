@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/01800/0073300734.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/90/2008/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-2008-248560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c947493b11d5e443d427796cb965004ff40425a96a80a62bf4336f8bb9c8bf8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3f2b3690f3304b4bd96b89c81f00a0b8be14192da1216419acdae0e3e0eea09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Dador de Sangue
+- Financiamento
 - Instituto Português de Sangue
 - Prorrogação de Prazo
 - Regulamento
@@ -80,16 +80,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/186/2006/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/186/2006/09/12/p/dre
+- type: cites
+  target: pt:dre:540026:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499214:por
+  label: "Revogada, a partir de 01.09.2013, a Port 720/2007, de 11-jun, na redação da presente Portaria, pela PORT.258/2013.13.08.2013.MS,\
+    \ DR.IS [155] de 13.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/258-2013-499214
+  date: '2013-08-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:08Z'
   warnings: []
   errors: []
 ---
@@ -116,4 +126,4 @@ Número único. - O n.º 2 da Portaria n.º 720/2007, de 11 de Junho, passa a te
 
 «2 - As candidaturas relativas a projectos e acções a executar nos anos de 2007 e 2008 devem ser apresentadas, respectivamente, no prazo de 60 dias seguidos, a contar da data de entrada em vigor da presente portaria e até 10 de Fevereiro de 2008.»
 
-**A Secretária de Estado Adjunta e da Saúde, Carmen Madalena da Costa Gomes e Cunha Pignatelli, em 10 de Janeiro de 2008.**
+A Secretária de Estado Adjunta e da Saúde, Carmen Madalena da Costa Gomes e Cunha Pignatelli, em 10 de Janeiro de 2008.

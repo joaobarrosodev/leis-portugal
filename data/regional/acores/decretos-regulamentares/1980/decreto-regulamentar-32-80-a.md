@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/28500/41334136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o nome do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/32-1980-459875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2260a79ade19309c7d6c71d4b261063896e8bc34e6f514d8c30060cb2ad21cbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61b121c10f7316cc524ab5e757f2bdde1232a797c97c75c82cf6086b5318adf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Saúde
+- Serviço Regional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:346705:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:346705:por
+  label: "Revogado pelo DLR.28/99/A.1999.07.09.ALR-RAA DR.IS-A [177] DE 31/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-1999-346705
+  date: '1999-07-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:34Z'
   warnings: []
   errors: []
 ---
@@ -129,15 +137,15 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n
 
 ## TÍTULO I — Disposições gerais
 
-###### Artigo 1.º O Serviço Regional de Saúde é universal e geral.
+Artigo 1.º O Serviço Regional de Saúde é universal e geral.
 
-###### Art. 2.º O Serviço Regional de Saúde procurará assegurar a cada cidadão o direito à protecção e promoção da saúde, independentemente da sua condição económica e social.
+Art. 2.º O Serviço Regional de Saúde procurará assegurar a cada cidadão o direito à protecção e promoção da saúde, independentemente da sua condição económica e social.
 
-###### Art. 3.º O acesso aos cuidados de saúde é gratuito, sem prejuízo da existência de taxas moderadoras, a fixar em função da natureza dos serviços prestados.
+Art. 3.º O acesso aos cuidados de saúde é gratuito, sem prejuízo da existência de taxas moderadoras, a fixar em função da natureza dos serviços prestados.
 
-###### Art. 4.º O Serviço Regional de Saúde abrangerá as actividades de promoção da saúde, prevenção e tratamento da doença e reabilitação.
+Art. 4.º O Serviço Regional de Saúde abrangerá as actividades de promoção da saúde, prevenção e tratamento da doença e reabilitação.
 
-###### Art. 5.º - 1 - O Serviço Regional de Saúde englobará o conjunto das entidades públicas e privadas cuja finalidade seja a prestação de cuidados de saúde à população.
+Art. 5.º - 1 - O Serviço Regional de Saúde englobará o conjunto das entidades públicas e privadas cuja finalidade seja a prestação de cuidados de saúde à população.
 
 2 - O sector convencionado e o sector livre do Serviço Regional de Saúde serão objecto de diploma regulamentar ou especial, conforme os casos.
 
@@ -145,13 +153,13 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n
 
 ## TÍTULO II — Dos utentes
 
-###### Art. 6.º Os cuidados médicos assegurados aos utentes do Serviço Regional de Saúde inspirar-se-ão em princípios humanísticos, como o do respeito pela dignidade do doente, a preservação da intimidade da sua vida privada e a salvaguarda da liberdade de escolha do médico, bem como, sempre que possível, do estabelecimento prestador de cuidados.
+Art. 6.º Os cuidados médicos assegurados aos utentes do Serviço Regional de Saúde inspirar-se-ão em princípios humanísticos, como o do respeito pela dignidade do doente, a preservação da intimidade da sua vida privada e a salvaguarda da liberdade de escolha do médico, bem como, sempre que possível, do estabelecimento prestador de cuidados.
 
-###### Art. 7.º Será sempre garantida a independência dos médicos na orientação dos cuidados e na orientação da terapêutica.
+Art. 7.º Será sempre garantida a independência dos médicos na orientação dos cuidados e na orientação da terapêutica.
 
 ## TÍTULO III — Dos cuidados da saúde
 
-###### Art. 8.º Aos utentes do Serviço Regional de Saúde serão assegurados, em termos a regulamentar, os seguintes tipos de cuidados:
+Art. 8.º Aos utentes do Serviço Regional de Saúde serão assegurados, em termos a regulamentar, os seguintes tipos de cuidados:
 
 a) Cuidados de promoção, preservação e vigilância da saúde;
 
@@ -175,7 +183,7 @@ j) Comparticipação em próteses, ortóteses e outros aparelhos complementares 
 
 l) Serviço de apoio social.
 
-###### Art. 9.º Para a obtenção dos direitos referidos no artigo anterior, os utentes poderão optar:
+Art. 9.º Para a obtenção dos direitos referidos no artigo anterior, os utentes poderão optar:
 
 a) Pelos estabelecimentos e serviços regionais;
 
@@ -183,7 +191,7 @@ b) Pelas entidades de direito público ou privado, singulares ou colectivas, que
 
 c) Por outras entidades não abrangidas nas alíneas anteriores, sendo a diferença dos custos, quando exista, suportada pelo utente.
 
-###### Art. 10.º - 1 - Os cuidados de saúde enunciados no artigo 8.º compreendem cuidados primários e cuidados diferenciados.
+Art. 10.º - 1 - Os cuidados de saúde enunciados no artigo 8.º compreendem cuidados primários e cuidados diferenciados.
 
 2 - Compreendem-se nos cuidados primários:
 
@@ -209,21 +217,21 @@ c) Consultas externas de especialidade.
 
 5 - A prestação de cuidados de urgência na doença e no acidente previstos no n.º 4 entendem-se sem prejuízo do direito de regresso em relação às entidades seguradoras ou outras, no caso responsáveis.
 
-###### Art. 11.º O acesso aos cuidados diferenciados está condicionado à prévia observação e decisão dos serviços de cuidados primários, salvo nos casos de urgência.
+Art. 11.º O acesso aos cuidados diferenciados está condicionado à prévia observação e decisão dos serviços de cuidados primários, salvo nos casos de urgência.
 
 ## TÍTULO IV — Da orgânica e funcionamento
 
 ### CAPÍTULO I — Organização geral
 
-###### Art. 12.º - 1 - O Serviço Regional de Saúde compreende a Direcção Regional de Saúde, o Conselho Regional de Saúde, órgãos sub-regionais, serviços e estabelecimentos sub-regionais e locais.
+Art. 12.º - 1 - O Serviço Regional de Saúde compreende a Direcção Regional de Saúde, o Conselho Regional de Saúde, órgãos sub-regionais, serviços e estabelecimentos sub-regionais e locais.
 
 2 - O Serviço Regional de Saúde será apoiado por estabelecimentos e actividades de ensino que visem a formação e aperfeiçoamento dos profissionais de saúde.
 
-###### Art. 13.º Aos órgãos do Serviço Regional de Saúde compete, no seu conjunto, assegurar a distribuição racional, a hierarquia técnica e o funcionamento coordenado dos serviços, definir a complementaridade de valências e promover a descentralização decisória.
+Art. 13.º Aos órgãos do Serviço Regional de Saúde compete, no seu conjunto, assegurar a distribuição racional, a hierarquia técnica e o funcionamento coordenado dos serviços, definir a complementaridade de valências e promover a descentralização decisória.
 
 ### CAPÍTULO II — Direcção Regional de Saúde
 
-###### Art. 14.º À Direcção Regional de Saúde cabem, especialmente, as seguintes atribuições:
+Art. 14.º À Direcção Regional de Saúde cabem, especialmente, as seguintes atribuições:
 
 a) Estudo e proposta da política de saúde;
 
@@ -239,7 +247,7 @@ f) Formação e investigação no campo da saúde;
 
 g) Elaboração de normas sobre a celebração de convénios com entidades não integradas no Serviço Regional de Saúde.
 
-###### Art. 15.º São serviços da Direcção Regional de Saúde:
+Art. 15.º São serviços da Direcção Regional de Saúde:
 
 a) O Departamento de Apoio Técnico;
 
@@ -247,7 +255,7 @@ b) O Departamento de Acção Médica;
 
 c) O Departamento de Administração.
 
-###### Art. 16.º O Departamento de Apoio Técnico actua nas seguintes áreas:
+Art. 16.º O Departamento de Apoio Técnico actua nas seguintes áreas:
 
 a) Planeamento;
 
@@ -257,7 +265,7 @@ c) Documentação e informação técnica;
 
 d) Planeamento familiar.
 
-###### Art. 17.º O Departamento de Acção Médica actua nas seguintes áreas:
+Art. 17.º O Departamento de Acção Médica actua nas seguintes áreas:
 
 a) Cuidados primários;
 
@@ -269,7 +277,7 @@ d) Assuntos farmacêuticos;
 
 e) Engenharia sanitária.
 
-###### Art. 18.º O Departamento de Administração actua nas seguintes áreas:
+Art. 18.º O Departamento de Administração actua nas seguintes áreas:
 
 a) Gestão financeira;
 
@@ -279,7 +287,7 @@ c) Instalações e equipamento;
 
 d) Aprovisionamento.
 
-###### Art. 19.º - 1 - Junto da Direcção Regional de Saúde existirá, como órgão consultivo, o Conselho Regional de Saúde.
+Art. 19.º - 1 - Junto da Direcção Regional de Saúde existirá, como órgão consultivo, o Conselho Regional de Saúde.
 
 2 - O Conselho Regional de Saúde será ouvido em matéria de planeamento e definição da política de saúde.
 
@@ -303,66 +311,66 @@ h) Dois representantes dos utentes, a designar pela Assembleia Regional.
 
 ### CAPÍTULO III — Órgãos sub-regionais
 
-###### Art. 20.º - 1 - São órgãos sub-regionais do Serviço Regional de Saúde as comissões coordenadoras dos Serviços de Saúde de Ponta Delgada, Angra do Heroísmo e Horta, que exercem acções de coordenação, designadamente em matéria de programação, acompanhamento e avaliação de actividades dos estabelecimentos de saúde, respectivamente nas ilhas de S. Miguel e de Santa Maria, da Terceira, Graciosa e de S. Jorge, do Faial, Pico, das Flores e do Corvo.
+Art. 20.º - 1 - São órgãos sub-regionais do Serviço Regional de Saúde as comissões coordenadoras dos Serviços de Saúde de Ponta Delgada, Angra do Heroísmo e Horta, que exercem acções de coordenação, designadamente em matéria de programação, acompanhamento e avaliação de actividades dos estabelecimentos de saúde, respectivamente nas ilhas de S. Miguel e de Santa Maria, da Terceira, Graciosa e de S. Jorge, do Faial, Pico, das Flores e do Corvo.
 
 2 - As comissões coordenadoras dos serviços de saúde funcionam na dependência directa da Direcção Regional de Saúde e são constituídas por representantes dos centros de cuidados primários, dos centros de cuidados diferenciados e das escolas de enfermagem, designados pelo director regional de Saúde, que nomeará o respectivo coordenador.
 
 ### CAPÍTULO IV — Serviços e estabelecimentos sub-regionais
 
-###### Art. 21.º - 1 - São serviços e estabelecimentos sub-regionais de saúde os centros de cuidados diferenciados (Hospitais de Ponta Delgada, Angra do Heroísmo e Horta), as escolas de enfermagem e os centros de saúde-hospital a nível de ilha (hospital de ilha).
+Art. 21.º - 1 - São serviços e estabelecimentos sub-regionais de saúde os centros de cuidados diferenciados (Hospitais de Ponta Delgada, Angra do Heroísmo e Horta), as escolas de enfermagem e os centros de saúde-hospital a nível de ilha (hospital de ilha).
 
 2 - Os serviços e estabelecimentos sub-regionais de saúde dependem da Direcção Regional de Saúde e são dotados de autonomia administrativa e financeira.
 
-###### Art. 22.º Os centros de cuidados diferenciados de Ponta Delgada, Angra do Heroísmo e da Horta constituirão o Centro Hospitalar Regional e funcionarão de forma complementar, definindo-se, por resolução do Governo Regional, as especialidades que deverão existir em cada um.
+Art. 22.º Os centros de cuidados diferenciados de Ponta Delgada, Angra do Heroísmo e da Horta constituirão o Centro Hospitalar Regional e funcionarão de forma complementar, definindo-se, por resolução do Governo Regional, as especialidades que deverão existir em cada um.
 
-###### Art. 23.º Compete às escolas de enfermagem o ensino e formação permanente do pessoal de enfermagem.
+Art. 23.º Compete às escolas de enfermagem o ensino e formação permanente do pessoal de enfermagem.
 
-###### Art. 24.º Compete ao centro de saúde-hospital a prestação dos cuidados primários e de alguns diferenciados, na respectiva área de influência, a definir por resolução do Governo Regional.
+Art. 24.º Compete ao centro de saúde-hospital a prestação dos cuidados primários e de alguns diferenciados, na respectiva área de influência, a definir por resolução do Governo Regional.
 
 ### CAPÍTULO V — Serviços e estabelecimentos locais
 
-###### Art. 25.º - 1 - São serviços e estabelecimentos locais de saúde os centros de saúde.
+Art. 25.º - 1 - São serviços e estabelecimentos locais de saúde os centros de saúde.
 
 2 - Os centros de saúde dependem da Direcção Regional de Saúde e são dotados de autonomia administrativa e financeira.
 
-###### Art. 26.º Compete aos centros de saúde a prestação dos cuidados primários na respectiva área de actuação.
+Art. 26.º Compete aos centros de saúde a prestação dos cuidados primários na respectiva área de actuação.
 
-###### Art. 27.º Podem ainda ser criados postos de saúde a nível de freguesia ou de agrupamento de freguesias como extensões dos centros de saúde.
+Art. 27.º Podem ainda ser criados postos de saúde a nível de freguesia ou de agrupamento de freguesias como extensões dos centros de saúde.
 
 ## TÍTULO V — Do pessoal
 
-###### Art. 28.º - 1 - A capacidade para o exercício de funções no Serviço Regional de Saúde, bem como o respectivo regime, rege-se pela lei geral.
+Art. 28.º - 1 - A capacidade para o exercício de funções no Serviço Regional de Saúde, bem como o respectivo regime, rege-se pela lei geral.
 
 2 - O pessoal do Serviço Regional de Saúde terá o regime jurídico e a formação técnica idênticos aos do pessoal do Serviço Nacional de Saúde.
 
 3 - Será facultado o ingresso do pessoal do Serviço Regional de Saúde nos quadros de pessoal do Serviço Nacional de Saúde e vice-versa, sem prejuízo dos direitos ou regalias adquiridos, nomeadamente em matéria de antiguidade e categoria profissional.
 
-###### Art. 29.º - 1 - O pessoal do Serviço Regional de Saúde terá remunerações e regalias idênticas às estabelecidas para o pessoal do Serviço Nacional de Saúde.
+Art. 29.º - 1 - O pessoal do Serviço Regional de Saúde terá remunerações e regalias idênticas às estabelecidas para o pessoal do Serviço Nacional de Saúde.
 
 2 - Poderá, no entanto, o Governo Regional estabelecer incentivos suplementares, de modo a fixar pessoal nas ilhas mais carecidas de assistência médica e paramédica.
 
 ## TÍTULO VI — Do financiamento
 
-###### Art. 30.º Do orçamento regional constará uma dotação autónoma destinada ao Serviço Regional de Saúde.
+Art. 30.º Do orçamento regional constará uma dotação autónoma destinada ao Serviço Regional de Saúde.
 
 ## TÍTULO VII — Disposições transitórias e finais
 
-###### Art. 31.º - 1 - O exercício do direito e o acesso às prestações de cuidados de saúde, o modo e o regime de funcionamento dos órgãos e serviços, bem como a regulamentação do estatuto do pessoal, constarão de diplomas regulamentares do Governo Regional.
+Art. 31.º - 1 - O exercício do direito e o acesso às prestações de cuidados de saúde, o modo e o regime de funcionamento dos órgãos e serviços, bem como a regulamentação do estatuto do pessoal, constarão de diplomas regulamentares do Governo Regional.
 
 2 - Os diplomas referidos no número anterior estabelecerão ainda as formas e o momento da integração dos órgãos e serviços existentes à data da sua publicação na estrutura agora instituída.
 
-###### Art. 32.º Entre os órgãos regionais do Serviço Regional de Saúde e o Serviço Regional de Protecção Civil existirão formas de cooperação a definir por portaria conjunta dos Secretários Regionais da Administração Pública e dos Assuntos Sociais.
+Art. 32.º Entre os órgãos regionais do Serviço Regional de Saúde e o Serviço Regional de Protecção Civil existirão formas de cooperação a definir por portaria conjunta dos Secretários Regionais da Administração Pública e dos Assuntos Sociais.
 
-###### Art. 33.º Entre os órgãos regionais de saúde e os organismos regionais de segurança social estabelecer-se-ão formas de coordenação de actividades em todos os sectores em que haja interligação da saúde com a segurança social.
+Art. 33.º Entre os órgãos regionais de saúde e os organismos regionais de segurança social estabelecer-se-ão formas de coordenação de actividades em todos os sectores em que haja interligação da saúde com a segurança social.
 
-###### Art. 34.º O Governo Regional elaborará, no prazo de seis meses a contar da data da publicação do presente diploma, a regulamentação necessária à sua execução.
+Art. 34.º O Governo Regional elaborará, no prazo de seis meses a contar da data da publicação do presente diploma, a regulamentação necessária à sua execução.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 31 de Julho de 1980.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 14 de Novembro de 1980.**
+Assinado em Angra do Heroísmo em 14 de Novembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

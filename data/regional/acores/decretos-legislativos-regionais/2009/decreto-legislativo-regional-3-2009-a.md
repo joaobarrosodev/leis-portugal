@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/04600/0154601557.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2009/03/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2009-604800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7717ca39edd1d3b52e966d770354b3a512c08aa4e18782eb4168d7f10b6c941c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05f58688b95ec0ef5fbb2fb47c6864a43632ee87f8830b6f98b986443d626961
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Parlamentar
-- Financiamento
-- Despesas de Representação
-- Grupo Parlamentar
-- Assembleia Legislativa
-- Orgânica
 - Açores
+- Assembleia Legislativa
+- Despesas de Representação
+- Financiamento
+- Grupo Parlamentar
+- Orgânica
+- Parlamentar
 relationships:
 - type: amended_by
   target: pt:dre:175129349:por
@@ -102,16 +102,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalr/3/2003/03/21/a/dre
   label: null
   source: http://data.dre.pt/eli/resolalr/3/2003/03/21/a/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552289:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175129349:por
+  label: Revogado, a partir de 01.12.2021, pelo(a) Decreto Legislativo Regional n.º 36/2021/A - Diário da República n.º 232/2021,
+    Série I de 2021-11-30, nos termos do seu art. 50.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/36-2021-175129349
+  date: '2021-11-30'
 article_structure:
-  article_count: 68
+  article_count: 65
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:02Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +178,9 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos da 
 
 3 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Os grupos e representações parlamentares dispõem de gabinetes constituídos por pessoal da sua livre escolha e nomeação, nos seguintes termos:
 
@@ -168,7 +200,9 @@ e) Grupo parlamentar com mais de 28 deputados, dois adjuntos, um secretário e q
 
 4 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +222,9 @@ Apoio logístico
 
 3 - A distribuição, por cada grupo e representação parlamentar, do montante fixado pela mesa é feita proporcionalmente em função do número de deputados.
 
-###### Artigo 38.º-A — Jornadas parlamentares
+Artigo 38.º-A
+
+Jornadas parlamentares
 
 1 - Os grupos parlamentares podem reunir em cada uma das ilhas da Região, nos termos definidos no Regimento da Assembleia Legislativa.
 
@@ -208,11 +244,11 @@ O presente diploma entra em vigor no dia seguinte à sua publicação e produz e
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 29 de Janeiro de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 20 de Fevereiro de 2009.**
+Assinado em Angra do Heroísmo em 20 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -272,7 +308,7 @@ c) O conselho administrativo.
 
 ###### Artigo 8.º — Delegação de competências
 
-**O Presidente da Assembleia Legislativa pode delegar, num dos membros da mesa ou no secretário-geral, os poderes administrativos e financeiros que lhe são conferidos no presente diploma.**
+O Presidente da Assembleia Legislativa pode delegar, num dos membros da mesa ou no secretário-geral, os poderes administrativos e financeiros que lhe são conferidos no presente diploma.
 
 ###### Artigo 9.º — Gabinete do presidente
 
@@ -980,4 +1016,4 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2007.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 55.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/04600/0154601557.pdf))](https://files.diariodarepublica.pt/1s/2009/03/04600/0154601557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/04600/0154601557.pdf)

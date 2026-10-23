@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/30/2000/09/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2000-558055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7317d7d5f507c908ad0ec79aaa6fdcc5c9cafad7d68f34f2cce32fc3edad7cb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd0a49f0d2cca49ac788f266444f6e14821e6fc446b8fca42e838413eacb60e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Horta
 - Ordenamento do Território
 - Plano Director Municipal
-- Horta
 - Política de Solos
 - Regulamento
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:221691581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:31104622:por
+  label: "Rectificado pela DECL.42/2000.30.11.2000.PG-RAA, JOA-IS [50] de 14.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/42-2000-31104622
+  date: '2000-11-30'
+- type: amended_by
+  target: pt:dre:197554:por
+  label: "Determinada a suspensão na área de intervenção das medidas preventivas e pelo seu tempo de vigência, 2 anos, o Plano\
+    \ Director Municipal da Horta ratificado pelo presente diploma, pelo DRR.8/2003/A.2003.01.16.PG-RAA DR.IS-B [39] DE 15/FEV/2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2003-197554
+  date: '2003-01-16'
+- type: amended_by
+  target: pt:dre:545622:por
+  label: "Ratificado o Plano de Pormenor da Zona Industrial de Santa Bárbara pelo DRR.35/2006/A.21.11.2006.PG-RAA, DR.IS [239]\
+    \ de 14.12.2006, ficando alterado o Plano Director Municipal da Horta, ratificado no presente diploma, como seguidamente\
+    \ se indica: alterados os nºs 1 e 2 do art. 8º e o art. 18º e revogadas a zona não edificável e a zona de protecção condicionada\
+    \ estabelecidas no nº 2 do art. 33º, todos do regulamento do presente Plano, bem como são alteradas as plantas de condicionamento\
+    \ e de ordenamento do mesmo Plano \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/35-2006-545622
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:456202:por
+  label: "Suspenso parcialmente o Plano Director Municipal da Horta, pelo DRR.12/2008/A.25.06.2008.PG-RAA, DR.IS [121] de\
+    \ 25.06.2008, incidindo a suspensão sobre o disposto na al.a) do nº 12 do art. 7º do Regulamento do citado PDM, aplicado\
+    \ à área delimitada na planta anexa \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2008-456202
+  date: '2008-06-25'
+- type: amended_by
+  target: pt:dre:438448:por
+  label: "Suspenso parcialmente o Plano Director Municipal da Horta, ratificado pelo presente diploma, com alterações ratificadas\
+    \ pelo DRR 35/2006/a de 21-Nov, pelo DRR.21/2008/A.21.10.2008.PG-RAA, DR.IS [204] de 21.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2008-438448
+  date: '2008-10-21'
+- type: amended_by
+  target: pt:dre:221691581:por
+  label: Determinada, a partir de 16.09.2023, a suspensão parcial do Plano Diretor Municipal da Horta, ratificado pelo presente
+    diploma, pelo(a) Decreto Regulamentar Regional n.º 24/2023/A - Diário da República n.º 180/2023, Série I de 2023-09-15,
+    nos termos do n.º 1 do art. 4.º deste.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2023-221691581
+  date: '2023-09-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -116,16 +157,204 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692830:por
+  label: null
+  source: null
 article_structure:
   article_count: 41
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:18Z'
   warnings: []
   errors: []
 ---
@@ -192,13 +421,13 @@ São excluídos da ratificação o n.º 12 do artigo 11.º e o n.º 5 do artigo 
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Julho de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 29 de Agosto de 2000.**
+Assinado em Angra do Heroísmo em 29 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DA HORTA
 
@@ -236,17 +465,17 @@ a) Domínio biofísico;
 
 b) Domínio físico-económico, que contém:
 
-### Capítulo 1 - Sistema produtivo
+Capítulo 1 - Sistema produtivo
 
-### Capítulo 2 - Infra-estruturas;
+Capítulo 2 - Infra-estruturas;
 
 c) Domínio físico-social, que contém:
 
-### Capítulo 1 - População;
+Capítulo 1 - População;
 
-### Capítulo 2 - Caracterização urbana;
+Capítulo 2 - Caracterização urbana;
 
-### Capítulo 3 - Equipamentos colectivos.
+Capítulo 3 - Equipamentos colectivos.
 
 ###### Artigo 3.º — Objectivos
 

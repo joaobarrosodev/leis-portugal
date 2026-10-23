@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/1999/11/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1999-639913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e573a9f965da03061df207522846235b25e87288caddb11bd8734258bf6ab2f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4f3c0a5bc516fd81e3293f1cfaeada6476392538e95b274a7fbc1566a9538fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
-- Educação Especial
 - Centro de Recursos de Educação Especial
+- Contrato de Trabalho
 - Definição de Competências
+- Educação Especial
+- Educação Pré-escolar
+- Ensino Básico
 - Escola de Educação Especial
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Docente
 - Pessoal não Docente
 - Ponta Delgada
-- Pessoal Docente
-- Ensino Básico
 - Quadro de Pessoal
-- Contrato de Trabalho
-- Açores
-- Educação Pré-escolar
 - Transferência de Pessoal
 relationships:
 - type: amended_by
@@ -126,16 +126,109 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/1993/03/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/1993/03/04/a/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:657252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:585187:por
+  label: "Rectificado pela DECL-RECT.5-D/2000.2000.02.24.PCM DR.IS-B [50]3º Supl de 29/Fev/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-d-2000-585187
+  date: '2000-02-24'
+- type: repealed_by
+  target: pt:dre:637469:por
+  label: "Revogados os arts. 3º e 22º, pelo DRR.26/2002/A.2002.08.13.PG-RAA, DR.IS-B [210] de 11/Set/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2002-637469
+  date: '2002-08-13'
+- type: repealed_by
+  target: pt:dre:226061:por
+  label: "Revogado, no que respeita no Centro de Recursos de Educação Especial de Ponta Delgada, pelo DRR.20/2003/A.2003.03.21.PG-RAA\
+    \ DR.IS-B [88] DE 14/ABR/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2003-226061
+  date: '2003-03-21'
+- type: repealed_by
+  target: pt:dre:278498:por
+  label: "Revogado pelo DRR.19/2004/A.14.05.2004.PG-RAA, DR.IS-B [135] de 09.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2004-278498
+  date: '2004-05-14'
 article_structure:
-  article_count: 24
+  article_count: 25
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:07Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +297,9 @@ i) Organizar e executar programas de pré-profissionalização e formação prof
 
 ### CAPÍTULO III — Centros de recursos de educação especial
 
-#### SECÇÃO I — Artigo 4.º
+#### SECÇÃO I
+
+###### Artigo 4.º
 
 Âmbito
 
@@ -446,26 +541,26 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, Madalena, Pico, em 15 de Setembro de 1999.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 27 de Outubro de 1999.**
+Assinado em Angra do Heroísmo em 27 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 17.º)
 
 Centro de Recursos de Ponta Delgada
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 17.º)
 
 Centro de Recursos de Angra do Heroísmo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)
 
 ## ANEXO III — (a que se refere o n.º 1 do artigo 22.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84588463.pdf)

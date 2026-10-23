@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/215/2009/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/215-2009-602006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc330d785a3d0d8e43beab82b87cccf86250c8b53939553fcdadb944436b93a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6293bc4958385e2d45820c317cea8cfdcb36dfe7cd3d6df0ea2521946c966e5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alijó
+- Bragança
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
-- Regime Laboral
+- Indústria Alimentar
 - Mondim de Basto
 - Murça
-- Vila Real
-- Condições de Higiene e Segurança no Trabalho
+- Porto
+- Regime Laboral
 - Regulamento de Extensão
-- Indústria Alimentar
 - Relações de Trabalho
 - Retalhista
 - Ribeira de PENA
 - Sabrosa
-- Bragança
-- Porto
 - Viana do Castelo
 - VILA Pouca de Aguiar
+- Vila Real
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/218/1997/08/20/p/dre
@@ -96,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+- type: cites
+  target: pt:dre:195799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:50Z'
   warnings: []
   errors: []
 ---

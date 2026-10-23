@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2008/07/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2008-455887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a27f319767597024598c3c9727a7e4d7924d92f1a3959f4f544ef9ef1aabfa49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4edad6754a9817160d0477ac60be073b630145e0af51e10d96bfe3c7f0f4b995
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
 - Centro de Estudo Conservação e Restauro dos Açores
+- Direcção Regional de Cultura
+- Financiamento
+- Fiscalização
 - Imóvel Classificado
 - Obras de Conservação e Restauro
 - Património Cultural
-- Fiscalização
-- Direcção Regional de Cultura
 - Protecção do Património
 - Reembolso
 - Relatório
-- Açores
 - Subsídio
 relationships:
 - type: cites
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/29/1991/09/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/29/1991/09/27/a/dre
+- type: cites
+  target: pt:dre:292925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678651:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 26
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:31Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +158,9 @@ Imóveis classificados
 
 4 - (Actual n.º 3.)
 
-###### Artigo 5.º — Conjuntos classificados
+Artigo 5.º
+
+Conjuntos classificados
 
 1 - (Actual formulação.)
 
@@ -150,11 +176,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 20 de Maio de 2008.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Junho de 2008.**
+Assinado em Angra do Heroísmo em 25 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/994/2007/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/994-2007-640970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7db165163039138687e07f8892a0754d359b9846aeed38e6a043d3854f40a6ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cd5fc131584086789beca391825e17f8479b9a5649f94c3134f34e7b0c754c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
-- Diploma
 - Curso Profissional
+- Diploma
 - Ensino Secundário
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/24/2006/02/06/p/dre
@@ -98,16 +98,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/797/2006/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/797/2006/08/10/p/dre
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652894:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:11Z'
   warnings: []
   errors: []
 ---
@@ -144,13 +172,13 @@ Manda o Governo, pelo Secretário de Estado da Educação, o seguinte:
 
 6.º A presente portaria produz efeitos a partir da data da sua assinatura.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 27 de Julho de 2007.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 27 de Julho de 2007.
 
 ## ANEXO I — Curso profissional de técnico de organização de eventos
 
 Plano de estudos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16500/0583205834.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16500/0583205834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16500/0583205834.pdf)
 
 ## ANEXO II — Curso profissional de técnico de organização de eventos
 

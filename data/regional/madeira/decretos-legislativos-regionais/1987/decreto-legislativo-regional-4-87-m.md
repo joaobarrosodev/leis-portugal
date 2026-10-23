@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1987-666532
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d1c3533f982d47b38a107021813aa416c065cb75f6b25c6dcc213cde556ef48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b05288e8d8383c857deb4fa5c9d1131336163a62f19fe2f7358bf0f3392de473
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Areias
+- Extracção de Inertes
+- Madeira.região Autónoma
+- Orla Costeira
+- Proteção do Ambiente
+relationships:
+- type: cites
+  target: pt:dre:326303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662098:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:12Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +110,20 @@ Nestes termos:
 
 A Assembleia Regional da Madeira, ao abrigo da alínea a) do artigo 229.º da Constituição, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º É supensa a aplicação do artigo 1.º do [Decreto Legislativo Regional n.º 3/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1984-662098), de 14 de Março, com as alterações constantes do [Decreto Legislativo Regional n.º 4/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1985-326303), de 12 de Março.
+Artigo 1.º É supensa a aplicação do artigo 1.º do [Decreto Legislativo Regional n.º 3/84/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1984-662098), de 14 de Março, com as alterações constantes do [Decreto Legislativo Regional n.º 4/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1985-326303), de 12 de Março.
 
-###### Art. 2.º Enquanto se mantiver tal suspensão, as autoridades marítimas, portuárias, policiais e câmaras municipais deverão comunicar às Secretarias Regionais da Economia e do Plano as situações de extracção de inertes que possam pôr em risco o meio físico do leito do mar, tal como é definido no artigo 2.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro.
+Art. 2.º Enquanto se mantiver tal suspensão, as autoridades marítimas, portuárias, policiais e câmaras municipais deverão comunicar às Secretarias Regionais da Economia e do Plano as situações de extracção de inertes que possam pôr em risco o meio físico do leito do mar, tal como é definido no artigo 2.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro.
 
-###### Art. 3.º As referidas Secretarias Regionais da Economia e do Plano, sempre que sejam denunciadas irregularidades, podem ordenar a suspensão das extracções que estejam a ser feitas.
+Art. 3.º As referidas Secretarias Regionais da Economia e do Plano, sempre que sejam denunciadas irregularidades, podem ordenar a suspensão das extracções que estejam a ser feitas.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária em 12 de Fevereiro de 1987.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 27 de Fevereiro de 1987.**
+Assinado em 27 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

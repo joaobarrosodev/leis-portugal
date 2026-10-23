@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10400/35413543.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/636/2007/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/636-2007-638742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 925934292e3bd890cddefcc4d6293211a320499786bccdb032b37a1431541a70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d06931fcabd8bb08f4bd731c6ccf61612f88b1caf2a5d965dd4a26d81c846403
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,6 +72,20 @@ relationships:
   target: pt:dre:259250:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343887:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º e 4.º (este último rectificado pela Decl Rect 65/2007, de 05-Jul) e aditado o art.\
+    \ 10.º aos Estatutos aprovados pelo presente diploma, pela PORT.826/2010.31.08.2010.MFAP, DR.IS [169] de 31.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-2010-343887
+  date: '2010-08-31'
+- type: amended_by
+  target: pt:dre:622306:por
+  label: "Determinado que fique sob a superintendência e tutela conjunta dos Ministros da Economia e do Emprego e da Solidariedade\
+    \ e Segurança Social, o Instituto de Gestão do Fundo Social Europeu, I.P, (IGFSE, I.P.), no âmbito do extinto Ministério\
+    \ do Trabalho e da Solidariedade Social, cujos Estatutos foram aprovados pelo presente diploma, alterados pela Port 826/2010\
+    \ de 31-Ago, pelo DEC LEI.86-A/2011.12.07.2011.PCM, DR.IS [132-Supl] de 12.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-a-2011-622306
+  date: '2011-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/2007/05/29/p/dre
   label: null
@@ -80,16 +94,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638541:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:635795:por
+  label: "Rectificada pela DECL-RECT.65/2007.05.07.2007.PCM, DR.IS [128] de 05.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/65-2007-635795
+  date: '2007-07-05'
+- type: repealed_by
+  target: pt:dre:259250:por
+  label: "Revogado o presente diploma, na redação da Port 826/2010, de 31-ago, pela PORT.86/2013.28.02.2013.MF, DR.IS [42]\
+    \ de 28.02.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-2013-259250
+  date: '2013-02-28'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:55Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +151,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 24 de Maio de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DE GESTÃO DO FUNDO SOCIAL EUROPEU, I. P.
 

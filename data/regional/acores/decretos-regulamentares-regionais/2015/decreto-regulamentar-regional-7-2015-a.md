@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2015/04/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2015-67030785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ddc962b0623459d1ae988575e916d57ce72ee8a918783c01fd72642c69abdc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ca4f89a2bb0a8b1fa0d1fcfe6fc51e7df72141149d8951b8842cce061e0e513
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Ordenamento do Território
-- Plano Director Municipal
 - Plano de Pormenor
+- Plano Director Municipal
 - Regulamento
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.
@@ -115,13 +115,13 @@ relationships:
 article_structure:
   article_count: 96
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:21Z'
   warnings: []
   errors: []
 ---
@@ -160,11 +160,11 @@ O Plano de Pormenor de Salvaguarda de Angra do Heroísmo entra em vigor no dia s
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de fevereiro de 2015.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 23 de março de 2015.**
+Assinado em Angra do Heroísmo em 23 de março de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1568,24 +1568,24 @@ Informação indicativa acerca do enquadramento jurídico dos instrumentos de ge
 
 ## ANEXO II — (a que se refere o artigo 78.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf)
 
 ## ANEXO III — (a que refere o artigo 57.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 43.º do Regulamento)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf)
 
 ## ANEXO B — Planta de implantação
 
 (a que se refere o artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf)
 
 ## ANEXO C — Planta de condicionantes
 
 (a que se refere o artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf))](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/04/07600/0196701990.pdf)

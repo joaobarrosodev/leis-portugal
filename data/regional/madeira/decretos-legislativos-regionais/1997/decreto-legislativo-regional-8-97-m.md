@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/156a00/33503361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/1997/07/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1997-154620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a282cd0d32db462283f250cb7f78b014b6f1bbb41d106010834ae951f997f697
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 851a0fbccd257e7585dccad4583ab38e618662b4b4a29f70dd087506a3aaa0e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Formação Profissional
 - Escola de Hotelaria e Turismo
-- Orgânica
+- Formação Profissional
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:345313:por
@@ -88,16 +88,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354342:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:437843:por
+  label: "Rectificado pela DECL-RECT.17-A/97.1997.10.21.PCM DR.IS-A [253]3ºSupl de 1997.10.31\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-a-1997-437843
+  date: '1997-10-21'
+- type: repealed_by
+  target: pt:dre:241444:por
+  label: "Revogado pelo DLR.23/98/M.1998.08.28.ALR-RAM, DR.IS-A [216] de 18/Set/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/23-1998-241444
+  date: '1998-08-28'
 article_structure:
   article_count: 28
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:24Z'
   warnings: []
   errors: []
 ---
@@ -360,7 +398,9 @@ b) Secção de Contabilidade e Tesouraria (SCT);
 
 c) Secção de Economato (SE).
 
-###### Artigo 12.º — Secção de Administração Geral, Pessoal e Secretariado da Escola
+###### Artigo 12.º
+
+#### Secção de Administração Geral, Pessoal e Secretariado da Escola
 
 À SAGPSE compete:
 
@@ -380,7 +420,9 @@ g) Assegurar todas as tarefas de âmbito administrativo inerentes aos formadores
 
 h) Assegurar o apoio adequado ao funcionamento das aulas.
 
-###### Artigo 13.º — Secção de Contabilidade e Tesouraria
+###### Artigo 13.º
+
+#### Secção de Contabilidade e Tesouraria
 
 À SCT compete:
 
@@ -396,7 +438,9 @@ e) Prestar as necessárias informações inerentes à execução orçamental;
 
 f) Elaborar a conta anual de gerência.
 
-###### Artigo 14.º — Secção de Economato
+###### Artigo 14.º
+
+#### Secção de Economato
 
 À SE compete:
 
@@ -552,12 +596,12 @@ b) Todas as disposições referentes à EHTM constantes do [Decreto Regulamentar
 
 Aprovado em sessão plenária de 21 de Maio de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.
 
-**Assinado em 20 de Junho de 1997.**
+Assinado em 20 de Junho de 1997.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 QUADRO DE PESSOAL DA ESCOLA DE HOTELARIA E TURISMO DA MADEIRA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/156a00/33503361.pdf))](https://files.diariodarepublica.pt/1s/1997/07/156a00/33503361.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/156a00/33503361.pdf)

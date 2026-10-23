@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/03800/0117201173.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/201/2008/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/201-2008-247474
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 357c5a10b9304c0dd0a746e5b17ab6b21ec4ec68736150b86688ebe52e14e90e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7014fcde390bc2ec7c79a1af5333693f49c94dadb454e62997b0c24d30d779cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- EDP
 - Direção Geral de Energia e Geologia
+- EDP
 - Produção de Energia Elétrica
 - Taxa
 relationships:
@@ -79,16 +79,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/363/2007/11/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/363/2007/11/02/p/dre
+- type: cites
+  target: pt:dre:629412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:308757:por
+  label: "Revogada, a partir de 09.12.2010, pela PORT.1185/2010.17.11.2010.MEID, DR.IS [223] de 17.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1185-2010-308757
+  date: '2010-11-17'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:51Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +126,4 @@ b) Taxa de reinspecção: (euro) 150.
 
 4.º Às taxas previstas no n.º 1.º acresce o IVA à taxa de 12 %, no caso das instalações cujas fontes de energia sejam totalmente renováveis, ou à taxa normal, nos restantes casos.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 31 de Janeiro de 2008.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 31 de Janeiro de 2008.

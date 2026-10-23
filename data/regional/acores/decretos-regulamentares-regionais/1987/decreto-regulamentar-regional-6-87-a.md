@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/03/07000/12151216.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1987-666488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57fd2a120d6f406e887a5b4205715ece72eac126a932c56390b1011a81f37ec1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2efd416687186aa4df64f340e8670ba6b86929f5c06f276ed04b9c138e02754
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Secretaria Regional do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:333154:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221698:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333154:por
+  label: "Revogado o DRR 35/86/A, de 30-Set, alterado pelo presente diploma, pelo DRR.14/90/A.03.04.1990.GR-RAA, DR.IS [78]\
+    \ de 03.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1990-333154
+  date: '1990-04-03'
 article_structure:
-  article_count: 5
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:56Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +106,7 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 15.º, 24.º, 25.º e 32.º do [Decreto Regulamentar Regional n.º 35/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1986-221698), de 30 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 15.º, 24.º, 25.º e 32.º do [Decreto Regulamentar Regional n.º 35/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1986-221698), de 30 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 15.º — Competências
 
@@ -113,7 +126,9 @@ f) Recolher e tratar os dados relativos ao movimento de autos de notícia, autos
 
 g) ...
 
-###### Artigo 24.º — Divisão de Promoção do Emprego
+###### Artigo 24.º
+
+##### Divisão de Promoção do Emprego
 
 São competências da Divisão de Promoção do Emprego:
 
@@ -131,7 +146,9 @@ f) Promover o lançamento de iniciativas locais de emprego;
 
 g) Quaisquer outras que superiormente lhe sejam cometidas.
 
-###### Artigo 25.º — Divisão de Estudos e Formação
+###### Artigo 25.º
+
+##### Divisão de Estudos e Formação
 
 ...
 
@@ -169,18 +186,18 @@ f) ...
 
 g) ...
 
-###### Art. 2.º O quadro de pessoal a que se refere o artigo 36.º é alterado nos termos do quadro anexo ao presente diploma.
+Art. 2.º O quadro de pessoal a que se refere o artigo 36.º é alterado nos termos do quadro anexo ao presente diploma.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 22 de Janeiro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 26 de Fevereiro de 1987.**
+Assinado em Angra do Heroísmo em 26 de Fevereiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 Quadro de pessoal a que se refere o artigo 36.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/03/07000/12151216.pdf))](https://files.diariodarepublica.pt/1s/1987/03/07000/12151216.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/03/07000/12151216.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/04800/0154501545.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/4/2019/03/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/4-2019-120690685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b17f30d45e190fc3cd73b8fe0d87070ea67eb790782db5ea13f2a16383c254df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4969b7e36901ded23e0d90d41b47afa6d864e41b4cd4f406f1b21e7ff197536a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Governo Regional
-- Empresa Pública Regional
-- Setor Empresarial do Estado
-- Página na Internet
-- Sistema de Informação
-- Recomendação
 - Açores
+- Empresa Pública Regional
+- Governo Regional
+- Página na Internet
+- Recomendação
+- Setor Empresarial do Estado
+- Sistema de Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolalraa/9/2015/03/19/a/dre
   label: null
   source: http://data.dre.pt/eli/resolalraa/9/2015/03/19/a/dre
+- type: cites
+  target: pt:dre:66803387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:51Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +117,6 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos te
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de fevereiro de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+112098244

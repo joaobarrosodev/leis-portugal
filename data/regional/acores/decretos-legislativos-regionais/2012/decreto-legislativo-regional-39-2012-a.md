@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/39/2012/09/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2012-176069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1395641f8c5bcb5d0d901a1c78005913ffb031f240608b8a68f370ff46142d5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38432df8eee11a6a835df6c2f70b60964ae9f98e47976815e2c4e6ba9dcc3141
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- ÁREA de Paisagem Protegida da BAIA da MAIA
 - ÁREA de Paisagem Protegida da BAIA de são Lourenço
-- Parque Natural da Ilha de Santa Maria
+- ÁREA de Paisagem Protegida da BAIA do Barreiro da Faneca
 - Centro de Interpretação Ambiental
-- Ordenamento do Território
+- Conselho Consultivo
 - Definição de Competências
 - Diretor
-- Património Arqueológico
-- Monumento Natural
-- Universidade dos Açores
 - Gestão dos Recursos
-- Conselho Consultivo
-- Rede Regional de Áreas Protegidas
-- ÁREA de Paisagem Protegida da BAIA da MAIA
-- ÁREA de Paisagem Protegida da BAIA do Barreiro da Faneca
 - ILHA de Santa Maria
+- Monumento Natural
+- Ordenamento do Território
+- Parque Natural da Ilha de Santa Maria
+- Património Arqueológico
+- Património Natural
+- Proteção do Ambiente
+- Protecção do Património
+- Rede Regional de Áreas Protegidas
+- Reserva Natural
 - Reserva Natural da BAIA da MAIA
+- Reserva Natural da BAIA da Praia
 - Reserva Natural da BAIA de são Lourenço
 - Reserva Natural do Ilheu da VILA
 - Reserva Natural dos Ilheus das Formigas
 - Reserva Natural Regional do Figueiral e Praínha
-- Proteção do Ambiente
+- Universidade dos Açores
 - Zona de Proteção
-- Protecção do Património
-- Património Natural
-- Reserva Natural
-- Reserva Natural da BAIA da Praia
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/21/1993/06/21/p/dre
@@ -134,16 +134,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
+- type: cites
+  target: pt:dre:209651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693664:por
+  label: null
+  source: null
 article_structure:
-  article_count: 79
+  article_count: 49
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:38Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +264,9 @@ f) ...
 
 9 - A Reserva Natural dos Ilhéus das Formigas integra no seu âmbito os objetivos e limites territoriais inerentes à classificação como Área Marinha Protegida OSPAR n.º O-PT020001 - Banco das Formigas e Recife Dollabarat.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -244,7 +298,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -298,7 +354,9 @@ i) ...
 
 6 - (Revogado.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -352,7 +410,9 @@ n) ...
 
 5 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -408,7 +468,9 @@ n) A realização de ações de gestão das comunidades de predadores terrestres
 
 7 - (Revogado.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -462,7 +524,9 @@ n) A realização de ações de gestão das comunidades de predadores terrestres
 
 6 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -514,7 +578,9 @@ l) Alteração à morfologia do solo por escavações ou aterros, pela modifica�
 
 4 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -526,7 +592,9 @@ l) Alteração à morfologia do solo por escavações ou aterros, pela modifica�
 
 5 - O Governo Regional estabelecerá um sistema de apoio à reabilitação da paisagem tradicional da cultura da vinha nas áreas de paisagem protegida da Baía de São Lourenço e da Baía da Maia.
 
-###### Artigo 18.º — Área de paisagem protegida do Barreiro da Faneca
+Artigo 18.º
+
+Área de paisagem protegida do Barreiro da Faneca
 
 1 - ...
 
@@ -570,7 +638,9 @@ j) ...
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -602,7 +672,9 @@ d) A abertura de novas vias de comunicação e acesso, incluindo os trilhos pedo
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -634,7 +706,9 @@ d) A abertura de novas vias de comunicação e acesso, incluindo os trilhos pedo
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -648,7 +722,9 @@ b) Promover a gestão efetiva visando o uso sustentável dos recursos, nomeadame
 
 c) ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -692,7 +768,9 @@ f) A prática de atividades desportivas motorizadas que sejam suscetíveis de pr
 
 7 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -732,7 +810,9 @@ f) A prática de atividades desportivas motorizadas que sejam suscetíveis de pr
 
 7 - (Revogado.)
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -772,13 +852,17 @@ e) A prática de atividades desportivas motorizadas que sejam suscetíveis de pr
 
 8 - (Revogado.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O Parque Natural da Ilha de Santa Maria é dotado de um serviço executivo do departamento do Governo Regional com competência em matéria de ambiente, cuja missão é garantir a gestão do mesmo, de acordo com os objetivos que presidem à classificação das categorias de áreas protegidas que o integram e de acordo com a estratégia definida para a conservação da natureza e preservação da biodiversidade, desenvolvimento sustentável e qualidade de vida.
 
 2 - A missão e objetivos de gestão do Parque Natural da Ilha de Santa Maria observam os princípios constantes da Convenção Europeia da Paisagem, aprovada para ratificação pelo [Decreto n.º 4/2005](https://diariodarepublica.pt/dr/detalhe/decreto/4-2005-596314), de 14 de fevereiro, nomeadamente as estatuídas nos capítulos i e ii e no artigo 12.º do capítulo iv e da Convenção sobre a Diversidade Biológica, aprovada para ratificação pelo [Decreto n.º 21/93](https://diariodarepublica.pt/dr/detalhe/decreto/21-1993-268421), de 21 de junho.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -792,7 +876,9 @@ e) A prática de atividades desportivas motorizadas que sejam suscetíveis de pr
 
 6 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -806,7 +892,9 @@ b) ...
 
 4 - (Revogado.)
 
-###### Artigo 28.º — Diretor
+Artigo 28.º
+
+Diretor
 
 1 - O diretor é nomeado e livremente exonerado, por despacho do membro do Governo Regional com competência em matéria de ambiente.
 
@@ -840,7 +928,9 @@ b) ...
 
 16 - (Revogado.)
 
-###### Artigo 29.º — Competências do diretor
+Artigo 29.º
+
+Competências do diretor
 
 1 - Compete ao diretor:
 
@@ -878,7 +968,9 @@ o) Exercer as demais funções que nele forem delegadas, nomeadamente as compet�
 
 4 - (Revogado.)
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - O conselho consultivo é o órgão de natureza consultiva do Parque Natural da Ilha de Santa Maria e é constituído pelas entidades seguintes:
 
@@ -918,7 +1010,9 @@ p) Um representante da Universidade dos Açores.
 
 4 - Nas deliberações do conselho consultivo, o seu presidente exerce voto de qualidade.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 Compete ao conselho consultivo:
 
@@ -932,7 +1026,9 @@ d) Apreciar as propostas do diretor quanto à elaboração periódica de relató
 
 e) Dar parecer sobre qualquer assunto com interesse para o Parque Natural da Ilha de Santa Maria.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O Parque Natural da Ilha de Santa Maria é obrigatoriamente dotado de um plano de ação de área protegida, aprovado por portaria do membro do Governo Regional com competência em matéria de ambiente, ouvido o conselho consultivo do Parque Natural da Ilha de Santa Maria.
 
@@ -942,7 +1038,9 @@ e) Dar parecer sobre qualquer assunto com interesse para o Parque Natural da Ilh
 
 4 - O plano de ação de área protegida estabelece medidas específicas para cada uma das áreas protegidas incluídas no Parque Natural da Ilha de Santa Maria e tem uma vigência mínima de quatro anos, podendo ser revisto a todo o tempo, ouvido o conselho consultivo do Parque Natural da Ilha de Santa Maria.
 
-###### Artigo 33.º — Plano de ação de área protegida
+Artigo 33.º
+
+Plano de ação de área protegida
 
 1 - O conteúdo material do plano de ação de área protegida referido no artigo anterior prossegue, obrigatoriamente, os objetivos de gestão específicos de cada uma das categorias de áreas protegidas referidas no capítulo ii e observa o estatuído no n.º 2 do artigo 25.º
 
@@ -966,15 +1064,21 @@ b) ...
 
 9 - (Revogado.)
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 O plano de ação de área protegida do Parque Natural da Ilha de Santa Maria deve ser aprovado no prazo de dois anos a contar da data de entrada em vigor do presente diploma.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 (Revogado.)
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 Nota prévia
 
@@ -1044,13 +1148,17 @@ Este pelo meridiano 25º00,382'W.
 
 5 - [...]
 
-## ANEXO II — Cartas
+ANEXO II
+
+Cartas
 
 (a que se refere o n.º 1 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/18200/0528205310.pdf))](https://files.diariodarepublica.pt/1s/2012/09/18200/0528205310.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/18200/0528205310.pdf)
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 Nota prévia
 
@@ -1136,11 +1244,15 @@ b) Atividades de caráter técnico e científico;
 
 c) Atividades de lazer.
 
-###### Artigo 24.º-B — Atividades interditas
+Artigo 24.º-B
+
+Atividades interditas
 
 Nas áreas referidas no artigo anterior, é proibida a recolha de qualquer material geológico, biológico ou paleontológico, com exceção das situações previstas no artigo seguinte.
 
-###### Artigo 24.º-C — Atividades condicionadas
+Artigo 24.º-C
+
+Atividades condicionadas
 
 1 - Sem prejuízo do disposto no n.º 1 do artigo 24.º-A, depende de autorização do departamento da administração regional autónoma com competência em matéria de ambiente a prática dos atos e atividades seguintes:
 
@@ -1166,7 +1278,9 @@ c) Recolha de material biológico, geológico e paleontológico existente nas á
 
 9 - A autorização a que se refere o n.º 1 não dispensa quaisquer outros condicionalismos exigidos por lei, nem prejudica as competências legalmente atribuídas a outras entidades.
 
-###### Artigo 24.º-D — Registos
+Artigo 24.º-D
+
+Registos
 
 1 - Todo o material biológico, geológico, paleontológico ou de outra natureza recolhido nas jazidas fósseis de Santa Maria nos termos do artigo anterior fica sujeito ao seguinte registo:
 
@@ -1192,7 +1306,9 @@ i) Demais informações que o coletor considere relevantes.
 
 3 - O responsável pelo exemplar deverá manter um registo atualizado das metodologias que aplicar sobre o mesmo, de forma a criar um historial do estudo efetuado.
 
-###### Artigo 24.º-E — Entrega de exemplares
+Artigo 24.º-E
+
+Entrega de exemplares
 
 1 - Após a realização dos estudos necessários, aplicados a cada exemplar, deverão os mesmos ser entregues ao Centro de Interpretação Ambiental Dalberto Pombo, fazendo-se acompanhar dos elementos constantes do n.º 1 do artigo anterior, assim como de um relatório com os seguintes elementos:
 
@@ -1204,7 +1320,9 @@ c) Artigos científicos publicados, caso se aplique.
 
 2 - No caso dos exemplares cujo estudo implique a destruição dos mesmos, apenas serão entregues ao Centro de Interpretação Ambiental Dalberto Pombo os registos documentais nos termos definidos no número anterior.
 
-###### Artigo 24.º-F — Atualização das coleções do Centro de Interpretação Ambiental Dalberto Pombo
+Artigo 24.º-F
+
+Atualização das coleções do Centro de Interpretação Ambiental Dalberto Pombo
 
 A Universidade dos Açores depositará no Centro de Interpretação Ambiental Dalberto Pombo uma coleção de referência representativa dos fósseis de Santa Maria, mantendo-a atualizada, bem como todas as publicações científicas resultantes dos estudos científicos efetuados sobre as jazidas fósseis de Santa Maria.»
 
@@ -1222,11 +1340,11 @@ O [Decreto Legislativo Regional n.º 47/2008/A](https://diariodarepublica.pt/dr/
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de junho de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 31 de julho de 2012.**
+Assinado em Angra do Heroísmo em 31 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -2434,7 +2552,7 @@ Secções interiores
 
 (a que se refere o n.º 1 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/18200/0528205310.pdf))](https://files.diariodarepublica.pt/1s/2012/09/18200/0528205310.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/18200/0528205310.pdf)
 
 ## ANEXO III — Limites das Categorias do Parque Natural da Ilha de Santa Maria
 

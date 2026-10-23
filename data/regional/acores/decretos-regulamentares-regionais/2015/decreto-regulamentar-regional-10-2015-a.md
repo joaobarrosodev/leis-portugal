@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/09100/0243402440.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2015/05/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2015-67191203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4fb52ae60b10c9ac0ed00038fdaef32c33ae023ef81cc31eb89ec9607f54183
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74fe6876d9cdb516f4dd83e155c2731156ce6a10bc041382f16382dbacc0da4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - CAE
-- Projeto de Investimento
 - Investimento
 - Pessoa Coletiva
+- Projeto de Investimento
 - Urbanismo
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:114440373:por
@@ -109,16 +109,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2015/04/08/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2015/04/08/a/dre
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56941587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66507582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66936947:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:114440373:por
+  label: Revogado o DRR 18/2014/A, de 19-set, na redação do presente diploma pelo(a) Decreto Legislativo Regional n.º 1/2018/A
+    - Diário da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
 article_structure:
-  article_count: 31
+  article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:16Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +195,9 @@ c) [...]
 
 3 - Para efeitos da alínea a) do n.º 1 considera-se devoluto o espaço que se encontre desocupado à data de entrada da candidatura.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -199,7 +235,9 @@ v) [...]
 
 2 - Os projetos das alíneas b) e c) do n.º 1 deverão ser executados de acordo com uma calendarização, a aprovar pela entidade gestora a que se refere o n.º 1 do artigo 5.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -209,7 +247,9 @@ a) Fase de pré-candidatura, obrigatoriamente promovida por, pelo menos, um dos 
 
 b) [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Na fase de pré-candidatura é apresentado um Programa de Urbanismo Sustentável Integrado para uma área delimitada, no qual é realizada uma caracterização da área urbana delimitada, é elaborado um diagnóstico e uma análise SWOT, são definidas as medidas e ações e indicados os projetos a desenvolver, bem como o respetivo cronograma de execução, salientando a importância dos mesmos para o cumprimento dos objetivos e metas a atingir.
 
@@ -217,11 +257,15 @@ b) [...]
 
 3 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 A seleção dos projetos a que se referem as alíneas b) e c) do n.º 1 do artigo 2.º baseia-se na coerência entre o proposto na pré-candidatura e o efetivamente apresentado na candidatura e pressupõe que seja mantida a percentagem mínima de adesão empresarial a que se refere o n.º 3 do artigo 6.º, podendo ser introduzidas alterações na candidatura relativamente ao proposto na pré-candidatura desde que as mesmas sejam aceites pela entidade gestora a que se refere o n.º 1 do artigo 5.º
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 [...]
 
@@ -247,13 +291,17 @@ j) [...]
 
 k) [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
 2 - O pagamento só é devido a partir do momento em que, pelo menos, 40 % do número de projetos das empresas tiverem sido executados.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -273,11 +321,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de março de 2015.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 21 de abril de 2015.**
+Assinado em Angra do Heroísmo em 21 de abril de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -307,7 +355,9 @@ B = 0,30B1 + 0,70B2
 
 6 - [...]
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - [...]
 

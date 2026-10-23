@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/5/1997/07/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/5-1997-144612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 891385a4ccca2f33e515df72bdaa94b868509297b1193d3661557fca40b5b443
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43f143b36ab636e68ba033563df0a68e5af090e9ce6fa50804c3deba906e96d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Assembleia Regional
-- Estatuto Político-administrativo da Região Autónoma dos Açores
-- Estatuto
-- Comissão
-- Revisão Constitucional
 - Açores
+- Assembleia Regional
+- Comissão
+- Estatuto
+- Estatuto Político-administrativo da Região Autónoma dos Açores
+- Região Autónoma
+- Revisão Constitucional
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:15Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +102,4 @@ C) A comissão especial referida na alínea A) será constituída por 11 deputad
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Maio de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.

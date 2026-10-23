@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/884/2007/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/884-2007-637427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbaad2d105cd5748a6d8d2e534a0477134da31e4b5f4cd9a36908545f4ce61f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 299a053ff85c3a799651442d15e08d9e8b54c95ddf9c7e154a4e64b856ea6c5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Alvará
 - Certificado de Conformidade
-- Imprensa Nacional-Casa da Moeda
+- Comércio de Armas
 - Fiscalização
+- Imprensa Nacional-Casa da Moeda
 - Licenciamento
 - Preço
+- PSP
 - Uso e porte de arma
-- Comércio de Armas
 relationships:
+- type: amended_by
+  target: pt:dre:66012652:por
+  label: Dada nova redação ao Anexo II pelo(a) Portaria n.º 286/2014 - Diário da República n.º 252/2014, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-2014-66012652
+  date: '2014-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/42/2006/08/25/p/dre
   label: null
@@ -89,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/931/2006/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/931/2006/09/08/p/dre
+- type: cites
+  target: pt:dre:540040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:33Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +164,7 @@ A INCM assegura os produtos e serviços necessários para a criação, execuçã
 
 Os preços unitários de cada uma das licenças, alvarás, certificados e outras autorizações, previstos na [Portaria n.º 931/2006](https://diariodarepublica.pt/dr/detalhe/portaria/931-2006-540040), de 8 de Setembro, bem como as respectivas condições de produção, personalização e remessa, são os previstos no anexo ii, que faz, para todos os efeitos legais, parte integrante da presente portaria.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 24 de Julho de 2007.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 24 de Julho de 2007.
 
 ## ANEXO I — Níveis de serviço
 
@@ -425,7 +442,7 @@ Certificados - (euro) 10,14;
 
 Cartas PIN - (euro) 3,80;
 
-# Livro de registo de munições e livro de disparos efectuados com arma de colecção - (euro) 16,60;
+Livro de registo de munições e livro de disparos efectuados com arma de colecção - (euro) 16,60;
 
 Cartão europeu de arma de fogo - (euro) 30,60.
 

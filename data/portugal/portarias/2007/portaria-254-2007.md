@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/254/2007/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/254-2007-519253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22fdfb85b367bb045ceeb004fa9481f27dee7508fb31697762602884fe4137ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f793f02e78289d514fe160168aa58d9a76fc18920283e486d19e12bcfbe8a9bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Habilitações Literárias
-- Ensino Secundário
-- Política de Educação
-- Pessoal Docente
 - Ensino Básico
+- Ensino Secundário
+- Habilitações Literárias
+- Pessoal Docente
+- Política de Educação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/194/1999/06/07/p/dre
@@ -111,16 +111,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/157/2005/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/157/2005/02/08/p/dre
+- type: cites
+  target: pt:dre:197317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:16Z'
   warnings: []
   errors: []
 ---
@@ -175,4 +247,4 @@ MAPA ANEXO
 
 Cursos reconhecidos como habilitação própria para a docência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/04900/15101512.pdf))](https://files.diariodarepublica.pt/1s/2007/03/04900/15101512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/04900/15101512.pdf)

@@ -27,9 +27,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -50,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2011/08/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2011-671454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26015522cf1179f0ff76144c7d1ebbff41c640092242c65e99c3f251a88e9a54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 860793e3512e6edcb7afd4c54c5d916352850b0465c44032d17d7772a9c6a21b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,7 +67,6 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
@@ -78,16 +75,23 @@ subjects:
 - Fiscalização
 - Inspecção de Veículos
 - Licenciamento
-- Veículo
-- Segurança Rodoviária
+- Madeira.região Autónoma
+- Multa
 - Normas de Segurança
 - Pessoal de Inspecção
-- Madeira.região Autónoma
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:496765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:496765:por
+  label: "Alterados os arts. 2º, 6º e 7º pelo DLR.19/2013/M.17.06.2013.AL-RAM, DR.IS [114] de 17.06.2013, que o republica\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2013-496765
+  date: '2013-06-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/254/1992/11/20/p/dre
   label: null
@@ -124,16 +128,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/66/1996/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/66/1996/03/01/p/dre
+- type: cites
+  target: pt:dre:287123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683199:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:24Z'
   warnings: []
   errors: []
 ---
@@ -234,10 +274,10 @@ O presente diploma produz efeitos a partir de 26 de Julho de 2011.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 19 de Julho de 2011.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 3 de Agosto de 2011.**
+Assinado em 3 de Agosto de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

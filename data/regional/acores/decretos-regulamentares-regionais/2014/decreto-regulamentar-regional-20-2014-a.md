@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/18300/0505005054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2014/09/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2014-57308389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1760ae74d0dff124a5d9ea285c040b66a0c370324d5d43ba9478a4a3dc6e0ea3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd7a14d514042a5eea328454b39f295695785ed735cca17ce4daeb66693a2386
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,40 +65,108 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Governo Regional
+- Açores
 - Contrato
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Diversificação das Exportações
-- Projeto de Investimento
-- Desenvolvimento Económico
 - Exportação
+- Financiamento
+- Governo Regional
+- Projeto de Investimento
 - Regulamento CE
 - Sistema de Incentivos da Região Autónoma dos Açores
-- Açores
 - Sistema de Incentivos de BASE Regional
-- Sistema de Incentivos Regionais
 - Sistema de Incentivos para a Competitividade Empresarial
+- Sistema de Incentivos Regionais
 - Subsistema de Incentivos para o Desenvolvimento Local
 relationships:
 - type: amended_by
   target: pt:dre:213761241:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66507582:por
+  label: Alterada a al. b) do n.º 1 do art. 2.º e o n.º 1 do art. 8.º pelo(a) Decreto Regulamentar Regional n.º 3/2015/A -
+    Diário da República n.º 31/2015, Série I de 2015-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2015-66507582
+  date: '2015-02-13'
+- type: amended_by
+  target: pt:dre:66936947:por
+  label: Alterado o art. 7.º (retificado pela Decl Ret 45/2014, de 13-out) e aditado o art.º 7.º-A pelo(a) Decreto Regulamentar
+    Regional n.º 6/2015/A - Diário da República n.º 68/2015, Série I de 2015-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2015-66936947
+  date: '2015-04-08'
+- type: amended_by
+  target: pt:dre:74967225:por
+  label: Alterados os arts. 4.º, 5.º, 6.º, 7.º (retificado pela Decl-Rect 45/2014 de 13-out e com a redação dada pelo DRR
+    6/2015/A de 08-abr) e 8.º (com a redação dada pelo DRR 3/2015/A de 13-fev), e aditados os arts. 1.º-A, 3.º-A, 5.º-A, 8.º-A,
+    8.º-B, 8.º-C e 8.º-D e um anexo ao presente diploma pelo(a) Decreto Regulamentar Regional n.º 7/2016/A - Diário da República
+    n.º 137/2016, Série I de 2016-07-19, que o republicou, com a redação atual.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2016-74967225
+  date: '2016-07-19'
+- type: amended_by
+  target: pt:dre:114528125:por
+  label: Alterados, a partir de 01.01.2018, os arts. 2.º e 4.º, revogados as als. w) do n.º 1 e y) do n.º 2 e o n.º 5 do art.
+    5.º, e republicado o presente diploma, na versão republicada pelo DRR 7/2016/A de 19-jul, pelo(a) Decreto Regulamentar
+    Regional n.º 2/2018/A - Diário da República n.º 11/2018, Série I de 2018-01-16 nos termos do art. 5.º e sem prejuízo do
+    disposto no art. 8.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2018-114528125
+  date: '2018-01-16'
+- type: amended_by
+  target: pt:dre:135056056:por
+  label: Suspensa a partir de 11.03.2020, a devolução das prestações do incentivo reembolsável do Subsistema de Incentivos
+    para o Desenvolvimento Local, a que se refere o n.º 3 do art. 7.º do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2020-135056056
+  date: '2020-06-03'
+- type: amended_by
+  target: pt:dre:135286756:por
+  label: Alterados os arts. 2.º, 3.º, 3.º-A, 4.º, 5.º, 6.º, 7.º, 8.º-C e 8.º-D e aditado um número ao anexo ao presente diploma,
+    pelo(a) Decreto Regulamentar Regional n.º 12/2020/A - Diário da República n.º 110/2020, Série I de 2020-06-05 nos termos
+    do seu art. 4.º e republica o mesmo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2020-135286756
+  date: '2020-06-05'
+- type: amended_by
+  target: pt:dre:158507584:por
+  label: Diferida a obrigação de devolução das prestações vincendas até 30.06.2021 relativas a incentivo reembolsável concedido
+    no âmbito do Competir+, Subsistema de Incentivos para o Desenvolvimento Local, regulamentado pelo presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 2/2021/A - Diário da República n.º 41/2021, Série I de 2021-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2021-158507584
+  date: '2021-03-01'
+- type: amended_by
+  target: pt:dre:169491470:por
+  label: Diferida a obrigação de devolução das prestações vincendas, até 30.06.2022, relativas ao incentivo reembolsável concedido
+    no âmbito do Competir+, Subsistema de Incentivos para o Desenvolvimento Local pelo(a) Decreto Legislativo Regional n.º
+    28/2021/A - Diário da República n.º 156/2021, Série I de 2021-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2021-169491470
+  date: '2021-08-12'
 - type: cites
   target: celex:32014R0651
   label: null
   source: http://data.europa.eu/eli/reg/2014/651/oj
+- type: corrected_by
+  target: pt:dre:58273534:por
+  label: Retificada a subal. ii) da al. b) do n.º 4 do art. 7.º pelo(a) Declaração de Retificação n.º 45/2014 - Diário da
+    República n.º 197/2014, Série I de 2014-10-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/45-2014-58273534
+  date: '2014-10-13'
+- type: repealed_by
+  target: pt:dre:213761241:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31,
+    sem prejuízo do art. 26.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2023-213761241
+  date: '2023-05-31'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:12Z'
   warnings: []
   errors: []
 ---
@@ -373,10 +441,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 22 de julho de 2014.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 1 de setembro de 2014.**
+Assinado em Angra do Heroísmo em 1 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

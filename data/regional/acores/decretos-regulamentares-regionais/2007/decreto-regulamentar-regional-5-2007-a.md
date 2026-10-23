@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/02600/09680969.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2007/02/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2007-518184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 089427d4ca3037caa2cad8e3dfc386a89f8d8216f0dfa3f47d121c2ef7f0fa59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 545054a71ed61847a86da1dd9850dfd3a82bc16ddef047c2e41106658ec56c9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Ilha do Pico
-- Proteção do Ambiente
-- Zona de Proteção
-- Política de Solos
-- Protecção do Património
-- Património Natural
 - Açores
+- Ilha do Pico
+- Ordenamento do Território
+- Património Natural
+- Política de Solos
+- Proteção do Ambiente
+- Protecção do Património
 - Vinha
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:132431980:por
@@ -96,16 +96,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/24/2003/05/12/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/24/2003/05/12/a/dre
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146206:por
+  label: "Revogado pelo DRR.24/2011/A.23.11.2011.PG-RAA, DR.IS [225] de 23.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2011-146206
+  date: '2011-11-23'
+- type: repealed_by
+  target: pt:dre:132431980:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-132431980
+  date: '2020-04-24'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:27Z'
   warnings: []
   errors: []
 ---
@@ -138,12 +164,12 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 5 de Janeiro de 2007.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 17 de Janeiro de 2007.**
+Assinado em Angra do Heroísmo em 17 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/02600/09680969.pdf))](https://files.diariodarepublica.pt/1s/2007/02/02600/09680969.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/02600/09680969.pdf)

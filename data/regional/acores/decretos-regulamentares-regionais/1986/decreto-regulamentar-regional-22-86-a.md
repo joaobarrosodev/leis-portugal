@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/07/15300/16171622.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1986-228244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6d518fb7f480df3bfde970c4c2af50f44cd508cfbb5e10a266c57ca373b4ab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cd842fb9280711870fd58d722ca6aae9eafd5287bb1b3ed61ffcb572bfba70e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Inspecção Administrativa Regional
+- Orgânica
+- Secretaria Regional da Administração
 relationships:
 - type: amended_by
   target: pt:dre:197555:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:421191:por
+  label: "Alterados os artigos 17.º e 24.º do presente diploma pelo DRR.11/87/A.06.05.1987.GR-RAA, DR.IS [103] de 06.05.1987\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1987-421191
+  date: '1987-05-06'
+- type: amended_by
+  target: pt:dre:612251:por
+  label: "Substituído o quadro de pessoal, aprovado no presente diploma, pelo DRR.6/89/A.27.02.1989.GR-RAA, DR.IS [48] de\
+    \ 27.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1989-612251
+  date: '1989-02-27'
+- type: cites
+  target: pt:dre:182242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576540:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:616422:por
+  label: "Revogado pelo DRR.11/91/A.11.04.1991.GR-RAA, DR.IS-B [84] de 11.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1991-616422
+  date: '1991-04-11'
 article_structure:
   article_count: 26
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:35Z'
   warnings: []
   errors: []
 ---
@@ -377,18 +406,18 @@ Aos actuais funcionários e agentes a prestar serviço na IAR, respectivamente e
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 2 de Maio de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Junho de 1986.**
+Assinado em Angra do Heroísmo em 20 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 ## ANEXO — Mapa a que se refere o n.º 1 do artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/07/15300/16171622.pdf))](https://files.diariodarepublica.pt/1s/1986/07/15300/16171622.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/15300/16171622.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

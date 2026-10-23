@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2002/07/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2002-188487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0aa3bb3661e2136d8a09e98e041d8108c91df37896ef61cf31d18b40115f08e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e23bbfa400fd664ff3f86e7cb01c5781b549cb4d508719854d5f17ae75ed1f94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Ensino Básico
+- Estabelecimento de Ensino
 - ILHA de são Miguel
 - Integração de Trabalhadores
 - Ponta Delgada
-- Estabelecimento de Ensino
-- Ensino Básico
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115-a/1998/05/04/p/dre
@@ -88,16 +88,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/10/1998/05/02/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/10/1998/05/02/a/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659914:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:32Z'
   warnings: []
   errors: []
 ---
@@ -144,19 +164,19 @@ São revogadas as disposições referentes à Escola Preparatória de Capelas co
 
 Aprovado em Conselho do Governo Regional, na Horta, em 13 de Maio de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 17 de Junho de 2002.**
+Assinado em Angra do Heroísmo em 17 de Junho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Presidente da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 MAPA I
 
 (a que se refere o artigo 3.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54525454.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54525454.pdf)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54525454.pdf)
 
 MAPA II
 
@@ -164,4 +184,4 @@ MAPA II
 
 Escola Básica Integrada de Capelas
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54525454.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54525454.pdf)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54525454.pdf)

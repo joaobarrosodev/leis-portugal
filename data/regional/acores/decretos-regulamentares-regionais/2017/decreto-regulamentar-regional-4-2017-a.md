@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11000/0282302828.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2017/06/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2017-107487178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94ea83f77098762347a8de3359d2f8fe6e430661dbc98546442b41131f2e3244
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e231f682d533982dcdf97de2749b04b22ccb9812c84c838f60380f1e25e5fe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,55 +66,55 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Administração Financeira da Região Autónoma dos Açores
+- Administração Regional
 - Aquisição de Bens e Serviços
+- Arrendamento Urbano não Habitacional
 - Atribuição de Verba
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Gestão Financeira
-- Governo Regional
+- Conselho do Governo Regional
+- Contabilidade Pública
 - Contenção de Despesas
-- Arrendamento Urbano não Habitacional
 - Contrato de Locação Financeira
+- Contribuições e Impostos
 - Controlo Financeiro
 - Definição de Competências
 - Delegação de Competências
 - Despesas Públicas
+- Direcção Regional do Orçamento e Tesouro
 - Diretor Regional
 - Dívidas ao Estado
 - Dotação Orçamental
 - Empreitada de Obras Públicas
 - Empresa Pública Regional
 - Equipamento de Escritório
+- Equipamento Informático
+- Estabelecimento de Ensino
 - Execução do Orçamento
-- Subvenção Pública
 - Fiscalização
 - Fundo de Maneio
-- Presidente do Governo Regional
+- Gestão Financeira
 - Gestão Orçamental
-- Conselho do Governo Regional
-- Subsecretário Regional
-- Contribuições e Impostos
-- Veículo
+- Governo Regional
 - Membros do Governo
 - Obras Públicas
-- Equipamento Informático
 - Operações de Tesouraria
 - Orçamento Regional
-- Direcção Regional do Orçamento e Tesouro
 - Prazo
-- Estabelecimento de Ensino
+- Presidente do Governo Regional
 - Prestação de Contas
-- Secretário Regional
-- Serviço Regional de Saúde
-- Administração Regional
-- Açores
-- Contabilidade Pública
-- Subsídio
-- Tributação
-- Sector Empresarial Regional
 - Regime da Administração Financeira do Estado
+- Secretário Regional
+- Sector Empresarial Regional
+- Serviço Regional de Saúde
+- Subsecretário Regional
+- Subsídio
+- Subvenção Pública
+- Tributação
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
@@ -136,16 +136,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:106874649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:24Z'
   warnings: []
   errors: []
 ---
@@ -384,10 +408,10 @@ O presente diploma produz efeitos desde 1 de janeiro de 2017.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 3 de maio de 2017.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 29 de maio de 2017.**
+Assinado em Angra do Heroísmo em 29 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

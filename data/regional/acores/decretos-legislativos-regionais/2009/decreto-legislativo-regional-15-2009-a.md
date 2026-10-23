@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2009/08/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2009-494020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dcd30c7d5f3009bf406e66db9f58c30064e2e7a627fc2be6513749b991a4f22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa8bdc3c8701079526f45baf913ef0c3cfb13c8e9f5dd3815dcb9b0e28456441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Adjudicação de Obras Públicas
+- Administração Regional
 - Ajuste Direto
 - Aquisição de Bens e Serviços
 - Assembleia Regional
+- Autarquia Local
+- Código dos Contratos Públicos
 - Concurso Público
 - Contra-ordenação
+- Contratação Pública
 - Contrato Administrativo
+- Documento Eletrónico
 - Empreitada de Obras Públicas
 - Expropriação
-- Informática
 - Fiscalização
-- Setor Empresarial do Estado
-- Publicitação
-- Documento Eletrónico
-- Notificação
-- Código dos Contratos Públicos
+- Informática
 - Internet
+- Notificação
+- Publicitação
 - Servidão Administrativa
-- Administração Regional
-- Açores
-- Autarquia Local
-- Contratação Pública
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:72970526:por
@@ -106,16 +106,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/34/2008/07/28/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/34/2008/07/28/a/dre
+- type: repealed_by
+  target: pt:dre:72970526:por
+  label: Revogado (a partir de 01.01.2016) o DLR 34/2008/A de 28-jul DR.IS [144], na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 27/2015/A - Diário da República n.º 253/2015, Série I de 2015-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2015-72970526
+  date: '2015-12-29'
 article_structure:
-  article_count: 61
+  article_count: 48
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:57Z'
   warnings: []
   errors: []
 ---
@@ -194,15 +200,21 @@ b) Tenha sido adoptado o procedimento de concurso público urgente;
 
 c) Se trate da celebração de contrato ao abrigo de acordo quadro cujos termos abranjam todos os seus aspectos ou que tenha sido celebrado apenas com uma entidade.
 
-###### Artigo 8.º — Outorga do contrato
+Artigo 8.º
+
+Outorga do contrato
 
 O disposto na alínea a) do n.º 1 do artigo 104.º do Código dos Contratos Públicos também não é aplicável quando tenha sido adoptado o ajuste directo ao abrigo do disposto na alínea b) do n.º 1 do artigo 27.º daquele Código.
 
-###### Artigo 9.º — Ajuste directo para aquisição de serviços
+Artigo 9.º
+
+Ajuste directo para aquisição de serviços
 
 Não é aplicável ao ajuste directo para a formação de contratos de aquisição de serviços o disposto no n.º 4 do artigo 20.º e no n.º 4 do artigo 27.º do Código dos Contratos Públicos.
 
-###### Artigo 11.º — Regime simplificado
+Artigo 11.º
+
+Regime simplificado
 
 1 - No caso de se tratar de ajuste directo para a formação de um contrato de empreitada de obras públicas, cujo preço contratual não seja superior a (euro) 25 000, ou de um contrato de aquisição ou locação de bens móveis ou de aquisição de serviços, cujo preço contratual não seja superior a (euro) 15 000, a adjudicação pode ser feita pelo órgão competente para a decisão de contratar, directamente sobre uma factura ou documento equivalente apresentado pela entidade convidada.
 
@@ -210,13 +222,17 @@ Não é aplicável ao ajuste directo para a formação de contratos de aquisiç�
 
 3 - O regime simplificado de ajuste directo está dispensado de quaisquer outras formalidades previstas no Código dos Contratos Públicos e no presente diploma, incluindo as relativas à celebração de contrato e à publicitação prevista no artigo 127.º daquele Código.
 
-###### Artigo 12.º — Preço e prazos no regime simplificado
+Artigo 12.º
+
+Preço e prazos no regime simplificado
 
 1 - Nos contratos de empreitada de obras públicas, celebrados na sequência do regime simplificado previsto no artigo anterior, o preço contratual não é passível de revisão e o prazo de vigência, incluindo eventuais prorrogações, não pode ser superior a um ano a contar da decisão de adjudicação, sem prejuízo da existência de obrigações acessórias que tenham sido estabelecidas inequivocamente em favor da entidade adjudicante, tais como as de sigilo ou de garantia.
 
 2 - Nos contratos de aquisição ou locação de bens móveis ou de aquisição de serviços, celebrados na sequência do regime simplificado previsto no artigo anterior, o preço contratual não é passível de revisão e o prazo de vigência não pode ser superior a um ano a contar da decisão de adjudicação nem pode ser prorrogado, sem prejuízo da existência de obrigações acessórias que tenham sido estabelecidas inequivocamente em favor da entidade adjudicante, tais como as de sigilo ou de garantia.
 
-###### Artigo 22.º — Elementos de solução da obra
+Artigo 22.º
+
+Elementos de solução da obra
 
 1 - Sem prejuízo do disposto nos n.os 2 a 7, na parte final da alínea a) e nas alíneas b) a d) do n.º 8 e no n.º 9 do artigo 43.º do Código dos Contratos Públicos, o caderno de encargos do procedimento de formação de contratos de empreitada de obras públicas deve ser integrado por um projecto de execução.
 
@@ -226,7 +242,9 @@ Não é aplicável ao ajuste directo para a formação de contratos de aquisiç�
 
 4 - Quando o projecto de execução tenha sido dispensado nos termos do número anterior, o caderno de encargos deve ser acompanhado dos elementos necessários à compreensão e execução da obra.
 
-###### Artigo 24.º — Posse e constituição de servidões
+Artigo 24.º
+
+Posse e constituição de servidões
 
 1 - Antes da celebração do contrato, o dono da obra deve estar na posse dos prédios a adquirir ou a expropriar necessários ao início da execução da obra.
 
@@ -236,15 +254,21 @@ Não é aplicável ao ajuste directo para a formação de contratos de aquisiç�
 
 4 - Sem prejuízo do disposto no n.º 1, a posse e a constituição de servidões que não estejam concretizadas até à celebração do contrato devem sê-lo de forma a não determinar a suspensão da obra e a não prejudicar o normal desenvolvimento do plano de trabalhos.
 
-###### Artigo 25.º — Consignação total e parcial
+Artigo 25.º
+
+Consignação total e parcial
 
 Sem prejuízo do disposto nas alíneas b) e c) do n.º 1 e no n.º 2 do artigo 358.º do Código dos Contratos Públicos, o dono da obra só pode proceder a consignações parciais quando, antes da celebração do contrato, não esteja na posse da totalidade dos prédios necessários à execução da obra.
 
-###### Artigo 31.º — Regime transitório relativo à prática de actos
+Artigo 31.º
+
+Regime transitório relativo à prática de actos
 
 Até à disponibilização da plataforma electrónica a que alude o artigo 5.º do presente diploma, as entidades adjudicantes referidas no n.º 2 do mesmo artigo podem determinar, no programa do procedimento ou no convite, que todos os actos que, nos termos do Código dos Contratos Públicos, devam ser praticados em plataforma electrónica podem ser praticados através do envio pelo correio, correio electrónico ou telecópia.
 
-###### Artigo 32.º — Apresentação de propostas, candidaturas e soluções em suporte papel
+Artigo 32.º
+
+Apresentação de propostas, candidaturas e soluções em suporte papel
 
 1 - Até à disponibilização da plataforma electrónica a que alude o artigo 5.º do presente diploma, as entidades adjudicantes referidas no n.º 2 do mesmo artigo podem fixar, no programa do procedimento ou no convite, que as propostas, candidaturas ou soluções são obrigatoriamente apresentadas em suporte papel.
 
@@ -256,7 +280,9 @@ Até à disponibilização da plataforma electrónica a que alude o artigo 5.º 
 
 5 - A recepção dos invólucros deve ser registada, anotando-se a data e a hora em que os mesmos são recebidos e, no caso de entrega directa, a identidade das pessoas que a efectuaram, sendo entregue a estas um recibo comprovativo dessa entrega.
 
-###### Artigo 33.º — Fornecimento das peças do procedimento
+Artigo 33.º
+
+Fornecimento das peças do procedimento
 
 1 - Quando, nos termos do disposto no artigo anterior, os documentos que constituem a proposta ou a candidatura devam ser apresentados em suporte papel, os interessados podem solicitar, em tempo útil, que lhes sejam fornecidas pela entidade adjudicante cópias das peças do procedimento, mediante o seu prévio pagamento, ao preço do seu custo de reprodução, as quais lhes devem ser entregues ou enviadas, em suporte papel ou em ficheiro informático, no prazo máximo de três dias a contar da data de recepção do pedido.
 
@@ -264,7 +290,9 @@ Até à disponibilização da plataforma electrónica a que alude o artigo 5.º 
 
 3 - Quando não seja cumprido o disposto no n.º 1, o prazo fixado para a apresentação das propostas ou das candidaturas deve ser prorrogado, a pedido dos interessados, por período equivalente, no mínimo, ao do atraso verificado.
 
-###### Artigo 34.º — Acto público
+Artigo 34.º
+
+Acto público
 
 1 - Quando os documentos que constituem a proposta ou a candidatura devam ser apresentados em suporte papel, todos os procedimentos de formação de contratos públicos, excepto o ajuste directo, integram um acto público que tem lugar no dia útil imediatamente subsequente ao termo do prazo fixado para a apresentação das propostas ou das candidaturas.
 
@@ -276,7 +304,9 @@ Até à disponibilização da plataforma electrónica a que alude o artigo 5.º 
 
 5 - Os concorrentes ou os candidatos, bem como os seus representantes, podem, durante a sessão do acto público, examinar os documentos apresentados no prazo fixado pelo júri e reclamar da lista de concorrentes, nos termos do disposto no artigo seguinte.
 
-###### Artigo 35.º — Formalidades do acto público
+Artigo 35.º
+
+Formalidades do acto público
 
 1 - O presidente do júri inicia o acto público identificando o procedimento através de referência ao respectivo anúncio.
 
@@ -296,7 +326,9 @@ Até à disponibilização da plataforma electrónica a que alude o artigo 5.º 
 
 9 - Cumprido o disposto nos números anteriores, o presidente do júri encerra o acto público, do qual é elaborada acta que deve ser sempre assinada pelo secretário e pelo presidente do júri.
 
-###### Artigo 36.º — Comunicações e notificações
+Artigo 36.º
+
+Comunicações e notificações
 
 1 - Quando os documentos que constituem a proposta ou a candidatura devam ser apresentados em suporte papel, as notificações previstas no Código dos Contratos Públicos podem ser efectuadas através de correio ou de telecópia.
 
@@ -334,11 +366,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de Junho de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 28 de Julho de 2009.**
+Assinado em Angra do Heroísmo em 28 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

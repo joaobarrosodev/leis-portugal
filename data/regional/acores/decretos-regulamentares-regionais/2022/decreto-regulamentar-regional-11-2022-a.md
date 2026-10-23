@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14300/0001600019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2022/07/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-186663186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2df687e27f68f5ce83702893e2f05be8b02d6fe284071046daaf44f5fb41588
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a7d5ad3d6c4767d16eeb6ef9ed3e91640a1890fc1ba1cfc9f8a1964451029bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
+- Açores
 - Educação Especial
-- Recrutamento de Pessoal
+- Educação Pré-escolar
+- Ensino Artístico
+- Ensino Básico
 - Ensino Secundário
+- Estabelecimento de Ensino
 - Orgânica
 - Pessoal não Docente
-- Estabelecimento de Ensino
-- Ensino Básico
 - Quadro de Pessoal
-- Açores
+- Recrutamento de Pessoal
 - Sistema Educativo
-- Educação Pré-escolar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/11/2006/03/21/a/dre
@@ -103,16 +103,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2009/06/05/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2009/06/05/a/dre
+- type: cites
+  target: pt:dre:178832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669860:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:47Z'
   warnings: []
   errors: []
 ---
@@ -223,10 +247,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em Conselho do Governo Regional, na Horta, em 7 de julho de 2022.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 20 de julho de 2022.**
+Assinado em Angra do Heroísmo em 20 de julho de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+115537286

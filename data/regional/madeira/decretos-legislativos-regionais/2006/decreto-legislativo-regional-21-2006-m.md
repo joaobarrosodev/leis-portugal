@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/2006/06/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7990017986704830cf23b9b5b78f65958b034858dc27ffc3c7f320c809acd566
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0159527ce222cbd93e031b3331919b12b465c792622dc5d2b525b7db8c961b9d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,25 +72,71 @@ subjects:
 - Autonomia Pedagógica
 - Conselho Executivo
 - Definição de Competências
+- Educação dos Adultos
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Oficial
+- Estabelecimento de Ensino
 - Fundo Escolar
 - Gestão Escolar
 - Incompatibilidades
-- Educação dos Adultos
 - Jardim de Infância
-- Orientador Pedagógico
-- Pessoal não Docente
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Ensino Básico
 - Madeira.região Autónoma
+- Orientador Pedagógico
+- Pessoal Docente
+- Pessoal não Docente
 - Regime Jurídico
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:216188326:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Suspenso, durante o ano de 2017, o fundo escolar previsto nos arts. 31.º, 32.º, 33.º e 34.º do DLR 4/2000/M de 31-jan,
+    na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República
+    n.º 250/2016, 1º Suplemento, Série I de 2016-12-30 nas escolas referidas no n.º 2 do seu art. 41.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Suspenso, durante o ano de 2018, o fundo escolar previsto nos arts. 31.º, 32.º, 33.º e 34.º do DLR 4/2000/M de 31-jan,
+    na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º
+    6/2018, Série I de 2018-01-09 nas escolas referidas no n.º 2 do seu art. 38.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Suspensos, durante o ano de 2019, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos arts. 31.º a 34.º do DLR 4/2000/M de 31-jan, na versão republicada
+    pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I
+    de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Suspenso, durante o ano de 2020, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos arts. 31.º, 32.º, 33.º e 34.º do DLR 4/2000/M de 31-jan, na versão
+    republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020,
+    1º Suplemento, Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
+- type: amended_by
+  target: pt:dre:152639812:por
+  label: Suspensos, durante o ano de 2021, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos arts. 31.º, 32.º, 33.º e 34.º do DLR 4/2000/M de 31-jan, na versão
+    republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020,
+    Série I de 2020-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2020-152639812
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:205450899:por
+  label: Suspensos, durante o ano de 2023, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos arts. 31.º, 32.º, 33.º e 34.º do DLR 4/2000/M de 31-jan, na versão
+    republicada pelo presente diploma pelo(a) Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022,
+    Série I de 2022-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2022-205450899
+  date: '2022-12-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
@@ -131,16 +177,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 112
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 70
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:38Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +331,9 @@ b) ...
 
 c) Plano anual de escola - o documento elaborado e aprovado pelos órgãos de administração e gestão da escola que define, em função do projecto educativo, os objectivos, as formas de organização e de programação das actividades e que procede à identificação dos recursos envolvidos.
 
-###### Artigo 5.º — Direcção, administração e gestão das escolas
+Artigo 5.º
+
+Direcção, administração e gestão das escolas
 
 1 - ...
 
@@ -203,13 +347,21 @@ c) ...
 
 d) ...
 
-### CAPÍTULO II — Órgãos de direcção, administração e gestão
+CAPÍTULO II
 
-#### SECÇÃO I — Órgão de direcção
+Órgãos de direcção, administração e gestão
 
-##### SUBSECÇÃO I — Do conselho da comunidade educativa
+SECÇÃO I
 
-###### Artigo 6.º — Conselho da comunidade educativa
+Órgão de direcção
+
+SUBSECÇÃO I
+
+Do conselho da comunidade educativa
+
+Artigo 6.º
+
+Conselho da comunidade educativa
 
 1 - O conselho da comunidade educativa é o órgão de direcção responsável pela definição da política educativa de escola previsto no n.º 4 do artigo 48.º da Lei de Bases do Sistema Educativo e cuja actuação se norteia pelo respeito dos princípios consagrados na Constituição da República Portuguesa, naquela Lei de Bases e no Estatuto Político-Administrativo da Região Autónoma da Madeira.
 
@@ -217,7 +369,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 7.º — Composição
+Artigo 7.º
+
+Composição
 
 1 - ...
 
@@ -235,7 +389,9 @@ b) Nos estabelecimentos de ensino onde não esteja em pleno funcionamento a asso
 
 6 - O presidente do conselho executivo ou o director e o presidente do conselho pedagógico participam nas reuniões sem direito a voto.
 
-###### Artigo 8.º — Competências
+Artigo 8.º
+
+Competências
 
 1 - ...
 
@@ -269,11 +425,15 @@ n) [Anterior alínea l).]
 
 3 - Para o desempenho das suas funções é atribuída ao presidente do conselho da comunidade educativa uma redução na sua componente lectiva de duas horas semanais.
 
-###### Artigo 9.º — Reunião do conselho da comunidade educativa
+Artigo 9.º
+
+Reunião do conselho da comunidade educativa
 
 O conselho da comunidade educativa reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa ou a requerimento de um terço dos seus membros em efectividade de funções ou por solicitação do conselho executivo.
 
-###### Artigo 10.º — Eleição e ou designação dos representantes
+Artigo 10.º
+
+Eleição e ou designação dos representantes
 
 1 - ...
 
@@ -285,7 +445,9 @@ O conselho da comunidade educativa reúne ordinariamente uma vez por trimestre e
 
 5 - Caso não surjam listas à eleição para o conselho da comunidade educativa, os representantes do pessoal docente e não docente são designados pelos corpos representativos do pessoal dos quadros da escola ou, na sua ausência, de entre o pessoal em exercício efectivo de funções.
 
-###### Artigo 11.º — Processo eleitoral
+Artigo 11.º
+
+Processo eleitoral
 
 1 - ...
 
@@ -297,7 +459,9 @@ O conselho da comunidade educativa reúne ordinariamente uma vez por trimestre e
 
 5 - Sempre que nas escolas referidas no n.º 3, por aplicação do método referido no número anterior, não resultar apurado um docente da educação pré-escolar ou do 1.º ciclo do ensino básico, o último mandato é atribuído ao primeiro candidato da lista mais votada que preencha tal requisito.
 
-###### Artigo 12.º — Mandato
+Artigo 12.º
+
+Mandato
 
 1 - ...
 
@@ -307,11 +471,17 @@ O conselho da comunidade educativa reúne ordinariamente uma vez por trimestre e
 
 4 - A ausência ou falta dos membros eleitos a duas reuniões consecutivas ou três interpoladas do conselho da comunidade educativa determina a cessação do mandato.
 
-#### SECÇÃO II — Órgãos de administração e gestão
+SECÇÃO II
 
-##### SUBSECÇÃO I — Do órgão de gestão
+Órgãos de administração e gestão
 
-###### Artigo 13.º — Conselho executivo ou director
+SUBSECÇÃO I
+
+Do órgão de gestão
+
+Artigo 13.º
+
+Conselho executivo ou director
 
 1 - O conselho executivo é o órgão de gestão das escolas nas áreas pedagógica, cultural, administrativa e financeira e é assegurado por um órgão colegial ou por um director, de acordo com a política educativa de escola definida pelo conselho da comunidade educativa.
 
@@ -319,7 +489,9 @@ O conselho da comunidade educativa reúne ordinariamente uma vez por trimestre e
 
 3 - Os membros do conselho executivo, o director e os adjuntos ficam dispensados na totalidade da componente lectiva, podendo leccionar uma turma mediante opção, sem que daqui resulte acréscimo remuneratório.
 
-###### Artigo 14.º — Composição
+Artigo 14.º
+
+Composição
 
 1 - O conselho executivo, enquanto órgão colegial, é constituído por um presidente e dois vice-presidentes.
 
@@ -329,7 +501,9 @@ O conselho da comunidade educativa reúne ordinariamente uma vez por trimestre e
 
 4 - Nos estabelecimentos com 1000 ou com 800 alunos e ensino secundário e no caso da escola ter optado por um director, este é apoiado no exercício das suas funções por quatro adjuntos.
 
-###### Artigo 15.º — Competências
+Artigo 15.º
+
+Competências
 
 1 - Compete ao conselho executivo, ouvido o conselho pedagógico:
 
@@ -365,7 +539,9 @@ m) [Anterior alínea l).]
 
 3 - O regimento interno do conselho executivo fixa as funções e competências a atribuir a cada um dos seus membros.
 
-###### Artigo 16.º — Presidente do conselho executivo e director
+Artigo 16.º
+
+Presidente do conselho executivo e director
 
 1 - Compete em especial ao presidente do conselho executivo ou director, nos termos da legislação em vigor:
 
@@ -385,7 +561,9 @@ f) ...
 
 3 - Nas suas faltas e impedimentos, o presidente do conselho executivo ou o director são substituídos, respectivamente, pelo vice-presidente ou adjunto por si indicado.
 
-###### Artigo 17.º — Recrutamento
+Artigo 17.º
+
+Recrutamento
 
 1 - Os membros do conselho executivo ou o director são eleitos em assembleia eleitoral, a constituir para o efeito, integrada pela totalidade do pessoal docente e não docente em exercício efectivo de funções na escola, por representantes dos alunos no ensino secundário, bem como por representantes dos pais e encarregados de educação.
 
@@ -413,7 +591,9 @@ a) Nos 2.º e 3.º ciclos do ensino básico e secundário, os cargos nas comiss�
 
 b) Na educação e no 1.º ciclo do ensino básico, o cargo de director nos termos do [Decreto Legislativo Regional n.º 25/94/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1994-585421), de 19 de Setembro, do despacho n.º 40/75, de 18 de Outubro, e da [Portaria n.º 110/2002](https://diariodarepublica.pt/dr/detalhe/portaria/110-2002-276468), de 14 de Agosto.
 
-###### Artigo 18.º — Eleição
+Artigo 18.º
+
+Eleição
 
 1 - Os candidatos constituem-se em lista e apresentam um programa de acção.
 
@@ -423,23 +603,33 @@ b) Na educação e no 1.º ciclo do ensino básico, o cargo de director nos term
 
 4 - Nos casos em que não seja possível realizar as operações conducentes à eleição do conselho executivo/director da escola, nomeadamente por ausência de candidatos, a mesma é assegurada por uma comissão provisória, constituída por três docentes profissionalizados, nomeada pelo Secretário Regional de Educação pelo período de um ano.
 
-###### Artigo 19.º — Homologação e recurso
+Artigo 19.º
+
+Homologação e recurso
 
 1 - O conselho da comunidade educativa, após confirmação da regularidade do processo eleitoral, procede à homologação dos respectivos resultados, nomeando e dando posse aos membros do conselho executivo ou director nos 30 dias subsequentes à eleição.
 
 2 - Do acto de homologação cabe recurso hierárquico, de mera legalidade, com efeito suspensivo, a interpor no prazo máximo de cinco dias úteis para o Secretário Regional de Educação.
 
-### CAPÍTULO III — Das creches e estabelecimentos de educação pré-escolar e das escolas do 1.º ciclo do ensino básico
+CAPÍTULO III
 
-###### Artigo 57.º — Funcionamento dos órgãos
+Das creches e estabelecimentos de educação pré-escolar e das escolas do 1.º ciclo do ensino básico
+
+Artigo 57.º
+
+Funcionamento dos órgãos
 
 Em tudo aquilo que não estiver previsto neste diploma para o funcionamento dos órgãos de direcção, administração e gestão e estruturas de gestão intermédia, aplica-se o disposto no regulamento interno e, supletivamente, o Código do Procedimento Administrativo.
 
-###### Artigo 59.º — Incompatibilidades
+Artigo 59.º
+
+Incompatibilidades
 
 É incompatível o desempenho cumulativo de funções como membro do conselho executivo ou director e do conselho da comunidade educativa, sem prejuízo da participação por inerência nos órgãos.
 
-###### Artigo 61.º — Comissão executiva instaladora
+Artigo 61.º
+
+Comissão executiva instaladora
 
 1 - As escolas básicas e integradas e os estabelecimentos dos 2.º e 3.º ciclos do ensino básico e secundário em fase de instalação serão geridos por uma comissão executiva instaladora constituída por três ou cinco elementos, consoante o número de alunos, nos termos do artigo 14.º, designados por despacho do Secretário Regional de Educação.
 
@@ -487,9 +677,13 @@ c) No final do ano escolar, quando assim for deliberado por unanimidade dos memb
 
 5 - Nos casos referidos nos n.os 3 e 4 do presente artigo, o substituto terá direito à redução da componente lectiva e ao suplemento remuneratório previsto para o substituído.
 
-##### SUBSECÇÃO II — Do conselho pedagógico
+SUBSECÇÃO II
 
-###### Artigo 22.º — Composição
+Do conselho pedagógico
+
+Artigo 22.º
+
+Composição
 
 1 - ...
 
@@ -505,7 +699,9 @@ d) ...
 
 3 - O presidente do conselho executivo ou o director e o presidente do conselho da comunidade educativa são membros do conselho pedagógico sem direito a voto.
 
-###### Artigo 23.º — Competências
+Artigo 23.º
+
+Competências
 
 Ao conselho pedagógico compete:
 
@@ -541,13 +737,19 @@ p) [Anterior alínea o).]
 
 q) [Anterior alínea p).]
 
-###### Artigo 24.º — Funcionamento
+Artigo 24.º
+
+Funcionamento
 
 O conselho pedagógico reúne ordinariamente uma vez por mês e extraordinariamente sempre que seja convocado pelo respectivo presidente, por sua iniciativa, a requerimento de um terço dos seus membros em efectividade de funções ou sempre que um pedido de parecer do conselho da comunidade educativa ou do conselho executivo o justifique.
 
-##### SUBSECÇÃO III — Do conselho administrativo
+SUBSECÇÃO III
 
-###### Artigo 27.º — Composição
+Do conselho administrativo
+
+Artigo 27.º
+
+Composição
 
 1 - O conselho administrativo é composto pelo presidente do conselho executivo ou pelo director, pelo chefe de departamento ou por quem as suas vezes fizer e por um dos vice-presidentes do conselho executivo ou um dos adjuntos do director, para o efeito designado por este.
 
@@ -555,9 +757,13 @@ O conselho pedagógico reúne ordinariamente uma vez por mês e extraordinariame
 
 3 - O presidente do conselho executivo ou director pode, nos termos da lei, delegar num dos vice-presidentes ou adjuntos a competência para presidir ao conselho administrativo.
 
-#### SECÇÃO III — Do fundo escolar
+SECÇÃO III
 
-###### Artigo 32.º — Objectivos do fundo escolar
+Do fundo escolar
+
+Artigo 32.º
+
+Objectivos do fundo escolar
 
 1 - ...
 
@@ -579,7 +785,9 @@ g) [Anterior alínea f).]
 
 3 - (Eliminado.)
 
-###### Artigo 33.º — Receitas do fundo escolar
+Artigo 33.º
+
+Receitas do fundo escolar
 
 Constituem receitas do fundo escolar as seguintes verbas:
 
@@ -597,7 +805,9 @@ f) ...
 
 g) ...
 
-###### Artigo 34.º — Gestão do fundo escolar
+Artigo 34.º
+
+Gestão do fundo escolar
 
 1 - ...
 
@@ -613,9 +823,13 @@ g) ...
 
 7 - Sem prejuízo do disposto no presente diploma, ao funcionamento dos fundos escolares aplicam-se as normas que regulam os fundos autónomos dependentes da administração regional.
 
-#### SECÇÃO IV — Das estruturas de gestão intermédia
+SECÇÃO IV
 
-###### Artigo 35.º — Âmbito
+Das estruturas de gestão intermédia
+
+Artigo 35.º
+
+Âmbito
 
 1 - Com vista ao desenvolvimento do projecto educativo da escola, são fixadas no regulamento interno as estruturas que colaboram com o conselho pedagógico e com o conselho executivo ou o director, no sentido de assegurar o acompanhamento eficaz do percurso escolar dos alunos na perspectiva da promoção da qualidade educativa.
 
@@ -627,7 +841,9 @@ b) ...
 
 c) ...
 
-###### Artigo 36.º — Estruturas de gestão intermédia de cariz pedagógico e técnico-pedagógico
+Artigo 36.º
+
+Estruturas de gestão intermédia de cariz pedagógico e técnico-pedagógico
 
 1 - ...
 
@@ -635,7 +851,9 @@ c) ...
 
 3 - Compete ao conselho executivo ou ao director, de acordo com os critérios previamente fixados pelo conselho pedagógico, a gestão daquele crédito, podendo criar estruturas de gestão intermédia em função do respectivo projecto educativo, sem prejuízo das estruturas de cariz pedagógico referidas nos artigos seguintes.
 
-###### Artigo 37.º — Departamento curricular
+Artigo 37.º
+
+Departamento curricular
 
 1 - Nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário a articulação curricular é assegurada por departamentos curriculares de acordo com o mapa I em anexo ao presente diploma e que dele faz parte integrante, o qual deverá ser alterado caso se verifique a situação prevista no n.º 2.
 
@@ -643,13 +861,17 @@ c) ...
 
 3 - ...
 
-###### Artigo 39.º — Coordenador do departamento curricular
+Artigo 39.º
+
+Coordenador do departamento curricular
 
 1 - O coordenador do departamento curricular é um professor profissionalizado, eleito de entre os delegados de disciplina, considerando a sua competência pedagógica e científica, ou, no caso do n.º 5 do artigo 41.º, de entre os professores da disciplina.
 
 2 - O mandato do coordenador do departamento curricular tem a duração de quatro anos, podendo cessar com os fundamentos referidos no artigo 20.º, n.º 2, mediante requerimento dirigido ao conselho executivo ou ao director.
 
-###### Artigo 40.º — Competências do coordenador
+Artigo 40.º
+
+Competências do coordenador
 
 ...
 
@@ -665,7 +887,9 @@ e) ...
 
 f) ...
 
-###### Artigo 41.º — Delegado de disciplina
+Artigo 41.º
+
+Delegado de disciplina
 
 1 - ...
 
@@ -677,7 +901,9 @@ f) ...
 
 5 - ...
 
-###### Artigo 42.º — Organização das actividades pedagógicas
+Artigo 42.º
+
+Organização das actividades pedagógicas
 
 1 - ...
 
@@ -691,7 +917,9 @@ c) (Eliminada.)
 
 3 - ...
 
-###### Artigo 43.º — Competências do director de turma
+Artigo 43.º
+
+Competências do director de turma
 
 Compete ao director de turma:
 
@@ -711,7 +939,9 @@ g) ...
 
 h) ...
 
-###### Artigo 45.º — Coordenação de ciclo
+Artigo 45.º
+
+Coordenação de ciclo
 
 1 - A coordenação pedagógica de cada ciclo tem por finalidade a articulação das actividades das turmas, sendo assegurada por conselhos de directores de turma nos 2.º e 3.º ciclos do ensino básico e ensino secundário.
 
@@ -719,33 +949,49 @@ h) ...
 
 3 - Para coordenar o plano de trabalho referido no n.º 1, o conselho executivo designa um coordenador de ciclo de entre os docentes profissionalizados.
 
-###### Artigo 47.º — Orientadores de estágio pedagógico
+Artigo 47.º
+
+Orientadores de estágio pedagógico
 
 O orientador de estágio é nomeado pelo conselho executivo ou director sob proposta do conselho pedagógico.
 
-###### Artigo 49.º — Coordenador de curso do ensino recorrente
+Artigo 49.º
+
+Coordenador de curso do ensino recorrente
 
 O coordenador de curso do ensino recorrente é o elemento do conselho executivo designado para o efeito.
 
-###### Artigo 52.º — Creches e estabelecimentos de educação pré-escolar e das escolas do 1.º ciclo do ensino básico
+Artigo 52.º
+
+Creches e estabelecimentos de educação pré-escolar e das escolas do 1.º ciclo do ensino básico
 
 Até à conclusão do reordenamento da rede de creches, estabelecimentos de educação pré-escolar e das escolas do 1.º ciclo do ensino básico da Região Autónoma da Madeira, o regime de administração e gestão aplicável é o constante da legislação em vigor.
 
-### CAPÍTULO IV — Dos incentivos pecuniários e prestação de serviço extraordinário e de acumulação
+CAPÍTULO IV
 
-###### Artigo 53.º — Incentivos pecuniários
+Dos incentivos pecuniários e prestação de serviço extraordinário e de acumulação
+
+Artigo 53.º
+
+Incentivos pecuniários
 
 1 - Aos membros do conselho executivo ou director e adjuntos é atribuído um suplemento remuneratório, cujo montante consta do mapa II, em anexo ao presente diploma, que dele faz parte integrante.
 
 2 - Aos orientadores pedagógicos previstos no artigo 47.º são atribuídos os incentivos pecuniários previstos no [Decreto Legislativo Regional n.º 26/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1998-191110), de 18 de Dezembro.
 
-###### Artigo 54.º — Serviço extraordinário e de acumulação
+Artigo 54.º
+
+Serviço extraordinário e de acumulação
 
 É vedada a prestação de serviço extraordinário e ou de acumulação de funções aos membros do conselho executivo ou ao director e adjuntos e aos orientadores pedagógicos.
 
-### CAPÍTULO V — Disposições comuns
+CAPÍTULO V
 
-###### Artigo 56.º — Processo eleitoral
+Disposições comuns
+
+Artigo 56.º
+
+Processo eleitoral
 
 1 - Sem prejuízo do disposto no presente diploma, as disposições referentes aos processos eleitorais para os órgãos de administração e gestão e, quando for caso disso, para as estruturas de gestão intermédia constam do regulamento interno.
 
@@ -755,7 +1001,9 @@ Até à conclusão do reordenamento da rede de creches, estabelecimentos de educ
 
 4 - Os resultados dos processos eleitorais para o conselho executivo ou director são homologados pelo conselho da comunidade educativa.
 
-###### Artigo 58.º — Inelegibilidades e impedimentos
+Artigo 58.º
+
+Inelegibilidades e impedimentos
 
 1 - O pessoal docente e não docente a quem tenha sido aplicada pena disciplinar superior a repreensão escrita não pode ser eleito, designado ou recrutado para os órgãos e estruturas previstos no presente diploma nos dois, três ou cinco anos posteriores ao termo do cumprimento da sanção, consoante lhe tenha sido aplicada, respectivamente, pena de multa, suspensão ou inactividade.
 
@@ -763,9 +1011,13 @@ Até à conclusão do reordenamento da rede de creches, estabelecimentos de educ
 
 3 - Os alunos a quem tenha sido aplicada a sanção disciplinar igual ou superior à da exclusiva competência do conselho executivo não podem ser eleitos ou designados para os órgãos e estruturas do presente diploma nos dois anos seguintes ao termo do cumprimento da sanção.
 
-### CAPÍTULO VI — Disposições finais
+CAPÍTULO VI
 
-###### Artigo 62.º — Comissão de avaliação
+Disposições finais
+
+Artigo 62.º
+
+Comissão de avaliação
 
 Por despacho do Secretário Regional de Educação será criada uma comissão à qual competirá proceder à avaliação dos resultados da aplicação do presente regime de autonomia, administração e gestão das escolas.»
 
@@ -787,11 +1039,11 @@ Os mapas constantes dos anexos II e III do [Decreto Legislativo Regional n.º 4/
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de Maio de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 7 de Junho de 2006.**
+Assinado em 7 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -799,13 +1051,13 @@ MAPA I
 
 (a que faz referência o n.º 1 do artigo 37.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf))](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf)
 
 MAPA II
 
 (a que fazem referência os n.os 1 do artigo 53.º e 5 do artigo 61.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf))](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf)
 
 ## ANEXO
 
@@ -1553,8 +1805,8 @@ O presente diploma prevalece sobre todas as normas gerais e especiais que o cont
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf))](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf))](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/118a00/43884409.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/09/21400/36003607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1987-495677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 330805e858a7ad40404da7b03c9b0163327cbc981855913ea74c0f0c648d13db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab42e0c48d135df82d603442b85bd95ef980124117cb258c4316301cd3b3b32b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Serviço Regional de Estatística dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:522376:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:285878:por
+  label: "Aditado o art. 29.º-A ao presente diploma, pelo DRR.13/88/A.16.03.1988.GR-RAA, DR.IS [63] de 16.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1988-285878
+  date: '1988-03-16'
+- type: amended_by
+  target: pt:dre:287861:por
+  label: "Alterado o quadro de pessoal, pelo DRR.28/92/A.1992.05.20.GR-RAA, DR.IS-B [154] de 07/Jul/1992 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-1992-287861
+  date: '1992-05-20'
+- type: amended_by
+  target: pt:dre:596523:por
+  label: "Alterado o quadro de pessoal, pelo DRR.2/96/A.1996.01.08.GR-RAA, DR.IS-B [34] de 09/Fev/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1996-596523
+  date: '1996-01-08'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522376:por
+  label: "Revogado pelo DRR.16/98/A.1998.04.13.GR-RAA, DR.IS-B [112] de 15/Mai/1998 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1998-522376
+  date: '1998-04-13'
 article_structure:
   article_count: 31
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:52Z'
   warnings: []
   errors: []
 ---
@@ -361,7 +412,9 @@ m) Manter contacto com os serviços congéneres, tanto no sector público como p
 
 2 - O Centro de Informação e Documentação é dirigido por um chefe de divisão.
 
-##### SUBSECÇÃO IV — Secção Administrativa
+##### SUBSECÇÃO IV
+
+#### Secção Administrativa
 
 ###### Artigo 14.º — Competência
 
@@ -391,7 +444,9 @@ b) Divisão de Estatísticas Financeiras, Industriais e dos Serviços;
 
 c) Divisão de Estatísticas Agrícolas.
 
-##### SUBSECÇÃO I — Divisão de Estatísticas Demográficas e Sociais
+##### SUBSECÇÃO I
+
+##### Divisão de Estatísticas Demográficas e Sociais
 
 ###### Artigo 17.º — Competência
 
@@ -405,7 +460,9 @@ c) Assegurar o registo de dados em suporte informático e proceder às respectiv
 
 d) Colaborar com o INE na concepção das operações estatísticas de âmbito nacional e apoiar a sua execução, nomeadamente através da distribuição, recolha e crítica dos instrumentos de notação, e participar no tratamento da informação que diga respeito ao sector demográfico-social.
 
-##### SUBSECÇÃO II — Divisão de Estatísticas Financeiras, Industrias e dos Serviços
+##### SUBSECÇÃO II
+
+##### Divisão de Estatísticas Financeiras, Industrias e dos Serviços
 
 ###### Artigo 18.º — Competência
 
@@ -419,7 +476,9 @@ c) Assegurar o registo de dados em suporte informático e proceder às respectiv
 
 d) Colaborar com o INE na concepção das operações estatísticas de âmbito nacional e apoiar a sua execução, nomeadamente através da distribuição, recolha e crítica dos instrumentos de notação e participar no tratamento da informação nos domínios das finanças, das indústrias, da construção, obras públicas e abastecimento de água e dos serviços.
 
-##### SUBSECÇÃO III — Divisão de Estatísticas Agrícolas
+##### SUBSECÇÃO III
+
+##### Divisão de Estatísticas Agrícolas
 
 ###### Artigo 19.º — Competência
 
@@ -547,14 +606,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 2 de Junho de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 25 de Agosto de 1987.**
+Assinado em Angra do Heroísmo em 25 de Agosto de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.
 
 Quadro a que se refere o n.º 1 do artigo 24.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/09/21400/36003607.pdf))](https://files.diariodarepublica.pt/1s/1987/09/21400/36003607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/09/21400/36003607.pdf)

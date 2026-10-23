@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/12/28500/37623763.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1984-401360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bf437c8b38496cd4d974af7cbe4e5f6ef7eaba52683f394c6b991641945b60f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddbabddadf065a66c5b165e711d78cad5c886f07b8c3039c6e754d38de6c72de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Comissão Regional de Conciliação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:633174:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:299068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633174:por
+  label: "Revogado pelo DRR.27/2003/A.2003.07.28.PG-RAA DR.IS-B [198] de 28/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2003-633174
+  date: '2003-07-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:20Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +118,15 @@ O presente diploma visa definir o modo como será assegurada a realização das 
 
 Assim, em execução do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º No âmbito de cada instrumento de regulamentação de trabalho aplicável na Região Autónoma dos Açores serão constituídas comissões regionais de conciliação (CRC), destinadas a solucionar as questões emergentes das relações individuais de trabalho que resultem da aplicação daqueles instrumentos.
+Artigo 1.º No âmbito de cada instrumento de regulamentação de trabalho aplicável na Região Autónoma dos Açores serão constituídas comissões regionais de conciliação (CRC), destinadas a solucionar as questões emergentes das relações individuais de trabalho que resultem da aplicação daqueles instrumentos.
 
-###### Art. 2.º - 1 - Constituem atribuições das CRC realizar a tentativa prévia de conciliação nas questões emergentes de relações individuais de trabalho, nos termos e para os fins previstos na lei.
+Art. 2.º - 1 - Constituem atribuições das CRC realizar a tentativa prévia de conciliação nas questões emergentes de relações individuais de trabalho, nos termos e para os fins previstos na lei.
 
 2 - Sem prejuízo do disposto no presente diploma, as atribuições, competências e funcionamento das CRC subordinar-se-ão à legislação aplicável.
 
-###### Art. 3.º Compete à Secretaria Regional do Trabalho coordenar e superintender no funcionamento das CRC, as quais funcionarão junto da Direcção Regional do Trabalho.
+Art. 3.º Compete à Secretaria Regional do Trabalho coordenar e superintender no funcionamento das CRC, as quais funcionarão junto da Direcção Regional do Trabalho.
 
-###### Art. 4.º - 1 - No âmbito das CRC haverá um fundo comum com o objectivo de fazer face às despesas com a instalação e funcionamento daquelas.
+Art. 4.º - 1 - No âmbito das CRC haverá um fundo comum com o objectivo de fazer face às despesas com a instalação e funcionamento daquelas.
 
 2 - O fundo comum das CRC é constituído pelas seguintes receitas:
 
@@ -114,7 +138,7 @@ c) As dotações inscritas no orçamento da Secretaria Regional do Trabalho.
 
 3 - O fundo comum será gerido pela Direcção Regional do Trabalho.
 
-###### Art. 5.º - 1 - As CRC são constituídas por 3 membros, dos quais um será o presidente, nomeado pelo Secretário Regional do Trabalho, sob proposta do director regional do Trabalho, e os restantes designados pelas partes signatárias da convenção colectiva ou pelos sindicatos e associações patronais ou empresas competentes.
+Art. 5.º - 1 - As CRC são constituídas por 3 membros, dos quais um será o presidente, nomeado pelo Secretário Regional do Trabalho, sob proposta do director regional do Trabalho, e os restantes designados pelas partes signatárias da convenção colectiva ou pelos sindicatos e associações patronais ou empresas competentes.
 
 2 - Os sindicatos, associações patronais e empresas interessadas indicarão às delegações da Direcção Regional do Trabalho, até 15 dias após a publicação do respectivo instrumento de regulamentação colectiva de trabalho, a identificação dos seus vogais às CRC.
 
@@ -124,7 +148,7 @@ c) As dotações inscritas no orçamento da Secretaria Regional do Trabalho.
 
 5 - Para efeito do disposto no número anterior, a Direcção Regional do Trabalho informará o presidente, no prazo de 3 dias, do número e data do ofício que remeteu aqueles documentos.
 
-###### Art. 6.º - 1 - Os presidentes serão escolhidos de entre indivíduos com experiência profissional no domínio das questões de trabalho, de preferência licenciados em Direito.
+Art. 6.º - 1 - Os presidentes serão escolhidos de entre indivíduos com experiência profissional no domínio das questões de trabalho, de preferência licenciados em Direito.
 
 2 - Sempre que o volume de serviço o permitir, cada presidente será nomeado para várias comissões.
 
@@ -132,7 +156,7 @@ c) As dotações inscritas no orçamento da Secretaria Regional do Trabalho.
 
 4 - Nas suas faltas ou impedimentos, os presidentes das CRC serão substituídos por quem for designado, transitoriamente, para o efeito pelo Secretário Regional do Trabalho, sob proposta do director regional do Trabalho.
 
-###### Art. 7.º - 1 - Os presidentes serão nomeados em comissão de serviço, nos termos do [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril, aplicando-se, porém, o disposto no n.º 3 do artigo 4.º no que se refere à duração e revogação da comissão.
+Art. 7.º - 1 - Os presidentes serão nomeados em comissão de serviço, nos termos do [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril, aplicando-se, porém, o disposto no n.º 3 do artigo 4.º no que se refere à duração e revogação da comissão.
 
 2 - Quando a nomeação recair em funcionários da Secretaria Regional do Trabalho, estes exercerão a presidência das CRC em regime de acumulação com as funções que exerçam.
 
@@ -140,15 +164,15 @@ c) As dotações inscritas no orçamento da Secretaria Regional do Trabalho.
 
 4 - Sem prejuízo do disposto no n.º 3 do artigo anterior, o exercício das funções de presidente das CRC não é incompatível com o exercício de outras funções públicas ou privadas.
 
-###### Art. 8.º - 1 - Para coadjuvar o presidente, em regime de acumulação com as funções que exerça, poderá ser designado um funcionário pela Secretaria Regional do Trabalho, sob proposta do director regional do Trabalho.
+Art. 8.º - 1 - Para coadjuvar o presidente, em regime de acumulação com as funções que exerça, poderá ser designado um funcionário pela Secretaria Regional do Trabalho, sob proposta do director regional do Trabalho.
 
 2 - Os funcionários referidos no número anterior auferirão uma gratificação de montante igual a 50% da do presidente.
 
-###### Art. 9.º - 1 - As gratificações referidas nos artigos anteriores poderão ser actualizadas por portaria das Secretarias Regionais das Finanças, da Administração Pública e do Trabalho.
+Art. 9.º - 1 - As gratificações referidas nos artigos anteriores poderão ser actualizadas por portaria das Secretarias Regionais das Finanças, da Administração Pública e do Trabalho.
 
 2 - Os funcionários que tinham direito a gratificações e cujas remunerações, em virtude do disposto nos artigos 7.º e 8.º, sejam inferiores ao total que auferiam terão direito à respectiva diferença, enquanto a mesma não for anulada por mudança de posição na escala de vencimentos.
 
-###### Art. 10.º - 1 - Juntamente com os vogais efectivos serão designados suplentes, para os substituírem nas suas faltas e impedimentos, em número suficiente para garantir a efectividade da representação.
+Art. 10.º - 1 - Juntamente com os vogais efectivos serão designados suplentes, para os substituírem nas suas faltas e impedimentos, em número suficiente para garantir a efectividade da representação.
 
 2 - Compete aos vogais efectivos, sempre que estejam impedidos ou não lhes seja possível comparecer às diligências para que foram convocados, providenciar quanto à sua substituição pelos respectivos suplentes.
 
@@ -158,20 +182,20 @@ c) As dotações inscritas no orçamento da Secretaria Regional do Trabalho.
 
 5 - Não sendo feita a substituição indicada no número anterior, aplicar-se-á o disposto no n.º 3 do artigo 5.º
 
-###### Art. 11.º - 1 - Verificando-se a falta de um dos vogais, a tentativa de conciliação poderá ter igualmente lugar se as partes prescindirem da presença do vogal faltoso e a isso não se opuser o presidente, devendo tais factos constar da respectiva acta.
+Art. 11.º - 1 - Verificando-se a falta de um dos vogais, a tentativa de conciliação poderá ter igualmente lugar se as partes prescindirem da presença do vogal faltoso e a isso não se opuser o presidente, devendo tais factos constar da respectiva acta.
 
 2 - Se for marcada nova reunião, a falta de qualquer vogal não constituirá motivo de adiamento, pelo que a tentativa de conciliação será realizada pelo presidente ou por este e o vogal presente.
 
-###### Art. 12.º O apoio administrativo das CRC será prestado pela Secção dos Serviços Administrativos da Secretaria Regional do Trabalho.
+Art. 12.º O apoio administrativo das CRC será prestado pela Secção dos Serviços Administrativos da Secretaria Regional do Trabalho.
 
-###### Art. 13.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional do Trabalho.
+Art. 13.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional do Trabalho.
 
 Aprovado em Conselho do Governo Regional de 27 de Setembro de 1984.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 13 de Novembro de 1984.**
+Assinado em Angra do Heroísmo em 13 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

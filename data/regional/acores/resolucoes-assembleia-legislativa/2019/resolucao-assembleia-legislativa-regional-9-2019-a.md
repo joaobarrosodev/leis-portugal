@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/10700/0287502875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/9/2019/06/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/9-2019-122500809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 453e0d5abe90ae8e32b260ad44e7e8e37243f73ed9426e2b3537b7cab9934f01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c251252f8a156b1a09cfabba8d6f877c87d09f0e83e7e6827c4d1c3c065cc946
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Gestão de Resíduos
 - Governo Regional
 - Proteção do Ambiente
-- Tratamento de Resíduos
 - Recomendação
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: celex:32008L0098
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/29/2011/11/16/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/29/2011/11/16/a/dre
+- type: cites
+  target: pt:dre:146215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75468668:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:54Z'
   warnings: []
   errors: []
 ---
@@ -152,4 +164,6 @@ d) Cotonetes cujo componente estrutural principal seja plástico.
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 7 de maio de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+112336092

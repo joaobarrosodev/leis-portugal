@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/14100/0394303948.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2014/07/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2014-55021042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0820c8061c350d5d9a2637776ee31658c9a8f34760fb84cb4866df4d30791647
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c666fa76c6444babed25acddc540d7a1d848a3065b0eae0c8a5422b07da4549
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
 - Embarcação
 - Financiamento
-- Mamífero Marinho
 - Governo Regional
-- Património Cultural
+- Mamífero Marinho
 - Património Baleeiro Regional
+- Património Cultural
 - Política do Ambiente
-- Açores
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/1998/08/04/a/dre
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/24/2000/09/07/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/24/2000/09/07/a/dre
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581667:por
+  label: null
+  source: null
 article_structure:
-  article_count: 35
+  article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:48Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +144,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 
 
 O presente diploma define e caracteriza o património baleeiro regional e estabelece medidas e apoios destinados à respetiva inventariação, recuperação, preservação e utilização.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...].
 
@@ -158,17 +172,23 @@ b) Lanchas da baleia - ER do tipo 4.
 
 4 - [Anterior n.º 2].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 A classificação dos bens considerados como património baleeiro será efetuada pela direção regional com competência em matéria de cultura, mediante parecer da comissão prevista no artigo 12.º.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A direção regional com competência em matéria de cultura manterá um cadastro de todos os bens classificados como património baleeiro regional.
 
 2 - [...].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -184,11 +204,15 @@ e) Fomentar atividades educacionais, formativas, desportivas, de turismo e lazer
 
 f) Apoiar a aquisição de equipamentos de segurança à navegação exigidos por lei.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Os bens classificados como património baleeiro e como tal incluídos no cadastro referido no artigo 4.º podem também ser classificados como património cultural da Região, nos termos do regime jurídico de proteção e valorização do património cultural móvel e imóvel, ficando também sujeitos à respetiva disciplina.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -196,7 +220,9 @@ Os bens classificados como património baleeiro e como tal incluídos no cadastr
 
 3 - [...].
 
-###### Artigo 9.º — Regatas de botes baleeiros
+Artigo 9.º
+
+Regatas de botes baleeiros
 
 1 - As regatas realizadas com botes baleeiros podem ser alvo da concessão de apoio que, de entre outras, pode revestir a forma de comparticipação financeira.
 
@@ -204,7 +230,9 @@ Os bens classificados como património baleeiro e como tal incluídos no cadastr
 
 3 - As entidades que promovam regatas com botes baleeiros objeto de candidatura ao apoio previsto no presente artigo devem remeter à direção regional com competência em matéria de cultura o regulamento específico das mesmas para efeitos de homologação.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - As embarcações baleeiras que sejam propriedade da Região podem ser cedidas às autarquias e a outras entidades sem fins lucrativos, mediante protocolo a celebrar com o departamento governamental com competência em matéria de cultura.
 
@@ -220,13 +248,17 @@ c) [...].
 
 4 - Tendo em vista a divulgação e rentabilização do património baleeiro, os cessionários podem utilizar embarcações classificadas como património baleeiro para utilização turística, sendo possível fazê-lo diretamente quando o seu estatuto jurídico-económico o permita ou por contrato com empresas marítimo-turísticas, destinando-se as respetivas receitas a custear as obrigações estabelecidas nas alíneas a), b) e c) do n.º 2 do presente artigo.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O apoio financeiro destinado à preservação e recuperação do património baleeiro regional e à construção de novos botes baleeiros será inscrito anualmente no Plano da Região pelo departamento governamental com competência em matéria de cultura.
 
 2 - O membro do Governo Regional com competência em matéria de cultura fixará por portaria o período de candidatura durante o qual os proprietários ou possuidores de bens classificados, nos termos do artigo 3.º, podem solicitar os respetivos apoios, bem como as regras a seguir na sua concessão.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Por despacho do membro do Governo Regional com competência em matéria de cultura será nomeada, pelo período de três anos, uma comissão consultiva para avaliação das candidaturas e apoios para os efeitos mencionados no artigo 3.º, com a seguinte composição:
 
@@ -242,19 +274,25 @@ d) [...].
 
 3 - À comissão, para além da competência referida nos números anteriores, incumbe a coordenação da utilização do património baleeiro, designadamente, em áreas como as regatas, ações educativas e de divulgação.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
 2 - A avaliação das candidaturas a bolseiro será feita pela comissão referida no n.º 1 do artigo 12.º.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - As entidades detentoras de embarcações propriedade da Região Autónoma dos Açores ficam obrigadas, no prazo de noventa dias após a entrada em vigor do presente diploma, a celebrar com o departamento governamental com competência em matéria de cultura os protocolos referidos no artigo 10.º.
 
 2 - [...].
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 A transferência e a alienação, dentro e para o exterior da Região, de bens classificados ou suscetíveis de classificação como património baleeiro regem-se pelas normas do regime jurídico de proteção e valorização do património cultural móvel e imóvel, e demais legislação aplicável.»
 
@@ -272,11 +310,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 3 de junho de 2014.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 11 de julho de 2014.**
+Assinado em Angra do Heroísmo em 11 de julho de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

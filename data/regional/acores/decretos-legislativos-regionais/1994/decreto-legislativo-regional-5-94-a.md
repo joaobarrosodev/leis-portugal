@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 53/1994, 1º Suplemento, Série I-A de 1994-03-04
   number: '53'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1080-(2) a 1080-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/053a01/00020004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1994/03/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1994-192823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3efb9e661b0ed8435cce09901e66ee9289abf40848ac47c38f9d584cb55a2944
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a900aa767171cdcf6b542ec3578826d68dda0de2a5dc95f2172746a1e64f72e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Colocação de Professores
 - Concurso
+- Educação Pré-escolar
 - Educador de Infância
+- Ensino Básico
 - Estabelecimento de Ensino
 - Pessoal Docente
-- Ensino Básico
 - Quadro de Pessoal
-- Açores
-- Educação Pré-escolar
 - ZONA Pedagógica
 relationships:
 - type: amended_by
   target: pt:dre:683641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:288040:por
+  label: "Alterados os art 5º, 6º, 14º e 15º pelo DLR.1-A/97/A.1997.02.20.ALR-RAA, DR.IS-A [49]Supl de 27/Fev/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-1997-288040
+  date: '1997-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/206/1993/06/14/p/dre
   label: null
@@ -101,16 +106,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/9/1992/03/20/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/9/1992/03/20/a/dre
+- type: cites
+  target: pt:dre:150510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:259057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683641:por
+  label: "Revogado pelo DLR.27/2003/A.2003.05.22.ALR-RAA DR.IS-A [133] de 09/Jun/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2003-683641
+  date: '2003-05-22'
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:30Z'
   warnings: []
   errors: []
 ---
@@ -127,9 +181,9 @@ Nesta sequência, e atentas as especificidades próprias da Região Autónoma do
 
 Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo 1.º Na aplicação do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, à Região Autónoma dos Açores ter-se-á em conta o disposto no artigo seguinte.
+Artigo 1.º Na aplicação do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, à Região Autónoma dos Açores ter-se-á em conta o disposto no artigo seguinte.
 
-###### Art. 2.º Os artigos 1.º, 3.º, 5.º, 6.º, 7.º, 10.º, 11.º, 12.º, 13.º, 15.º, 16.º, 17.º, 18.º, 19.º e 20.º do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, entendem-se com a seguinte redacção:
+Art. 2.º Os artigos 1.º, 3.º, 5.º, 6.º, 7.º, 10.º, 11.º, 12.º, 13.º, 15.º, 16.º, 17.º, 18.º, 19.º e 20.º do [Decreto-Lei n.º 384/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1993-676429), de 18 de Novembro, entendem-se com a seguinte redacção:
 
 ###### Artigo 1.º — Âmbito
 
@@ -277,10 +331,10 @@ O presente diploma entra em vigor no dia imediato à sua publicação, reportand
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Janeiro de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 1 de Março de 1994.**
+Assinado em Angra do Heroísmo em 1 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

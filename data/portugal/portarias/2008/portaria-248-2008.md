@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/248/2008/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/248-2008-246370
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30b6972d3f509c7203ab7eebaf4cb79bd92a96a152d5dcea4e0f2b5ef0e13085
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93ed54d8da476af2287354f0b97cc19647aa700a3d0c356bbcba9c146b6c51ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Arrendamento Urbano para Habitação
 - Habitação
 - Renda Limite
 - Subsídio de Renda de CASA
-- Arrendamento Urbano para Habitação
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:177451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667147:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:07Z'
   warnings: []
   errors: []
 ---
@@ -107,44 +119,44 @@ Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Re
 
 Dimensão do agregado familiar: 1 pessoa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
 
 Dimensão do agregado familiar: 2 pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
 
 Dimensão do agregado familiar: 3 pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
 
 Dimensão do agregado familiar: 4 pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
 
 Dimensão do agregado familiar: 5 pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
 
 Dimensão do agregado familiar: 6 pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
 
 Dimensão do agregado familiar: 7 pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
 
 Dimensão do agregado familiar: 8 pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
 
 Dimensão do agregado familiar: 9 pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
 
 Dimensão do agregado familiar: 10 pessoas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
 
 ## ANEXO II — Tabela de rendas limite para 2008
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0177701779.pdf)

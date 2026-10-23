@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/04700/0157501578.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/250/2009/03/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/250-2009-604804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3554c60e95eaed7f22ec5eb67a5a4b1a3187cbf7cf2d1c8881ec4a33fffe3ede
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a011ebb6cf2f71a80138e31e7e3c2e29368802c622faafd9a8ca80980b2504fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Despedimento
 - Desemprego
+- Despedimento
+- Formação Profissional
 - Política de Emprego
 - Regulamento
 - Reinserção Profissional
@@ -85,16 +85,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/300/2008/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/300/2008/04/17/p/dre
+- type: repealed_by
+  target: pt:dre:611327:por
+  label: "Revogada, a partir de 26.03.2010, pela PORT.179/2010.25.03.2010.MTSSO, DR.IS [59] de 25.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/179-2010-611327
+  date: '2010-03-25'
 article_structure:
   article_count: 18
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:03Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +182,7 @@ Vigência
 
 A presente portaria entra em vigor no dia seguinte à data da sua publicação, sem prejuízo do disposto no n.º 2 do artigo 4.º da Portaria n.º 300/2008, de 17 de Abril.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 19 de Fevereiro de 2009.**
+O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 19 de Fevereiro de 2009.
 
 ## ANEXO — «Regulamento para desenvolvimento das intervenções previstas no âmbito de candidaturas ao Fundo Europeu de Ajustamento à Globalização
 

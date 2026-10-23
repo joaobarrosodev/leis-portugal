@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1989-615215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63facbb330bd231eef7e48772ab79b32cd500a276dbf7ecfa412a22db220d01b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf4499e75980f5f9280d9efb536bbb177ac327299ba799494d1d48a041d47adb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Freguesias
+- Madeira.região Autónoma
+- Santana
+relationships:
+- type: cites
+  target: pt:dre:220110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391832:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:17Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +97,9 @@ Criação da freguesia da Ilha
 
 A Assembleia Regional da Madeira decreta, nos termos da alínea g) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada, no concelho de Santana, a freguesia da Ilha.
+Artigo 1.º É criada, no concelho de Santana, a freguesia da Ilha.
 
-###### Art. 2.º Os limites da nova freguesia, conforme representação cartográfica anexa, são:
+Art. 2.º Os limites da nova freguesia, conforme representação cartográfica anexa, são:
 
 A norte - ribeira de São Jorge até à foz da ribeira da Furna;
 
@@ -98,7 +109,7 @@ A sul - limite sul da freguesia de São Jorge até ao marco de concelho, conflu�
 
 A poente - ribeira Grande e inflexão da sua nascente para o marco de confluência dos três concelhos já mencionados.
 
-###### Art. 3.º - 1- A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho, com as modificações constantes do artigo 7.º do [Decreto Legislativo Regional n.º 16/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1986-220110), de 1 de Setembro.
+Art. 3.º - 1- A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho, com as modificações constantes do artigo 7.º do [Decreto Legislativo Regional n.º 16/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1986-220110), de 1 de Setembro.
 
 2 - Para os efeitos do disposto no número anterior, a Assembleia Municipal de Santana designará uma comissão constituída por:
 
@@ -108,18 +119,18 @@ b) Dois membros da Junta de Freguesia de São Jorge;
 
 c) Três membros da Assembleia Municipal de Santana.
 
-###### Art. 4.º A comissão instaladora escolhe o seu presidente e exercerá funções até à constituição da Junta de Freguesia da Ilha.
+Art. 4.º A comissão instaladora escolhe o seu presidente e exercerá funções até à constituição da Junta de Freguesia da Ilha.
 
-###### Art. 5.º O presente decreto legislativo regional entra em vigor cinco dias após a sua publicação.
+Art. 5.º O presente decreto legislativo regional entra em vigor cinco dias após a sua publicação.
 
 Aprovado em sessão plenária em 28 de Fevereiro de 1989.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 21 de Março de 1989.**
+Assinado em 21 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08800/16611662.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08800/16611662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08800/16611662.pdf)

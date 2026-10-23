@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 71/1989, 1º Suplemento, Série I de 1989-03-27
   number: '71'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1308-(2) a 1308-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/03/07101/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1989-213596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e357313faf950c0af8c3c1b7e1fc212c8a024305e4c13ecb0c8c22fd8468e5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5360223144358737dbc5a900008313c64be159dbef046ef1b3ee2f530c9bd3d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Agricultura
+- Instituto de Apoio Comercial à Agricultura Pecuária e Silvicultura
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:232974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626008:por
+  label: "Alterado o quadro de pessoal pelo DRR.8/96/A.1996.01.23.GR-RAA DR.IS-B [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1996-626008
+  date: '1996-01-23'
+- type: amended_by
+  target: pt:dre:232974:por
+  label: "Alterados os cap. IV e V do DRR 8/80/A, de 05-Mar, na redacção do presente diploma, pelo DRR.44/96/A.08.10.1996.SRAPA-RAA,\
+    \ DR.IS-B [233] de 08.10.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/44-1996-232974
+  date: '1996-10-08'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678775:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:232974:por
+  label: "Revogado, a partir de 09.10.1996, pelo DRR.44/96/A.08.10.1996.SRAPA-RAA, DR.IS-B [233] de 08.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/44-1996-232974
+  date: '1996-10-08'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:32Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +127,7 @@ Assim:
 
 O Governo Regional decreta, nos termos do artigo 229.º, alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 21.º do capítulo IV do [Decreto Regulamentar Regional n.º 8/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1980-678775), de 5 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 21.º do capítulo IV do [Decreto Regulamentar Regional n.º 8/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1980-678775), de 5 de Março, passa a ter a seguinte redacção:
 
 ###### Artigo 21.º — Pessoal
 
@@ -103,7 +135,7 @@ O Governo Regional decreta, nos termos do artigo 229.º, alínea b), da Constitu
 
 2 - As condições e regras de ingresso e de acesso dos funcionários serão, para as respectivas categorias, as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e as previstas neste diploma e na legislação regional e geral complementar.
 
-###### Art. 2.º Ao capítulo IV daquele diploma são aditados os seguintes artigos:
+Art. 2.º Ao capítulo IV daquele diploma são aditados os seguintes artigos:
 
 ###### Artigo 23.º — Pessoal auxiliar
 
@@ -121,20 +153,20 @@ Os funcionários que exerçam funções de tesouraria terão direito a abono par
 
 O pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário do IACAPS, conte mais de três anos de serviço ininterrupto e foi admitido com observância dos requisitos habilitacionais pode ser integrado, directamente, em lugares do quadro, em categoria correspondente às funções que actualmente desempenha.
 
-###### Art. 3.º Os artigos 23.º e 24.º do capítulo V, relativo a receitas, passam a 26.º e 27.º, respectivamente.
+Art. 3.º Os artigos 23.º e 24.º do capítulo V, relativo a receitas, passam a 26.º e 27.º, respectivamente.
 
-###### Art. 4.º O quadro de pessoal aprovado pelo [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482), de 6 de Janeiro, é substituído pelo quadro constante do mapa anexo.
+Art. 4.º O quadro de pessoal aprovado pelo [Decreto Regulamentar Regional n.º 1/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1981-570482), de 6 de Janeiro, é substituído pelo quadro constante do mapa anexo.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 8 de Fevereiro de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 10 de Março de 1989.**
+Assinado em Angra do Heroísmo em 10 de Março de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/03/07101/00020003.pdf))](https://files.diariodarepublica.pt/1s/1989/03/07101/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/03/07101/00020003.pdf)

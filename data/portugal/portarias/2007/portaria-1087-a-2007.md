@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 171/2007, 1º Suplemento, Série I de 2007-09-05
   number: '171'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6320-(2) a 6320-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/09/17101/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1087-a/2007/09/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1087-a-2007-406172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb236de0c52e606bbb7df09dc57e5037bfb64616867a94bcebe605df1dea6bb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f9d24ee1346a998f24cfe6016c909071b56299003bd5093959107ce6f1c011f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
-- Unidade de Missão para os Cuidados Continuados Integrados
-- Serviço Nacional de Saúde
-- Preço
 - Cuidados Médicos
+- Preço
+- Rede
+- Serviço Nacional de Saúde
+- Unidade de Missão para os Cuidados Continuados Integrados
 relationships:
 - type: amended_by
   target: pt:dre:158238387:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248003:por
+  label: "Alterados os n.ºs 5º e 10º e aditado o Anexo III ao presente diploma, pela PORT.189/2008.19.02.2008.MFAP, DR.IS\
+    \ [35] de 19.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/189-2008-248003
+  date: '2008-02-19'
+- type: amended_by
+  target: pt:dre:335685:por
+  label: "Determinada a suspensão, durante o ano de 2010, do n.º 6.º do prsente diploma e fixados os preços, a praticar no\
+    \ ano de 2010, dos cuidados de saúde e de apoio social que constam dos anexos ii e iii do presente diploma, na redacção\
+    \ dada pela Port 189/2008, de 19 de Fev, pela PORT.326/2010.16.06.2010.MFAP, DR.IS [115] de 16.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/326-2010-335685
+  date: '2010-06-16'
+- type: amended_by
+  target: pt:dre:258290:por
+  label: "Determinada a suspensão, durante o ano de 2012, da aplicação do disposto no nº 6, pela PORT.41/2013.01.02.2013.MF,\
+    \ DR.IS [23] de 01.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/41-2013-258290
+  date: '2013-02-01'
+- type: amended_by
+  target: pt:dre:483937:por
+  label: "Determinada a suspensão, durante o ano de 2013, da aplicação do disposto no nº 6, do presente diploma, pela PORT.360/2013.16.12.2013.MF,\
+    \ DR.IS [243] de 16.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/360-2013-483937
+  date: '2013-12-16'
+- type: amended_by
+  target: pt:dre:67541740:por
+  label: Suspenso durante o ano de 2014 o n.º 6 do presente diploma pelo(a) Portaria n.º 184/2015 - Diário da República n.º
+    120/2015, Série I de 2015-06-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-2015-67541740
+  date: '2015-06-23'
+- type: amended_by
+  target: pt:dre:70133809:por
+  label: Determinada a suspensão durante o ano de 2015 do n.º 6 pelo(a) Portaria n.º 262/2015 - Diário da República n.º 168/2015,
+    Série I de 2015-08-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-2015-70133809
+  date: '2015-08-28'
+- type: amended_by
+  target: pt:dre:70331693:por
+  label: Alterados o n.º 10.º e o anexo III (ambos a redação da Port 189/2008 de 19-fev) da presente portaria, pelo(a) Portaria
+    n.º 289-A/2015 - Diário da República n.º 182/2015, 1º Suplemento, Série I de 2015-09-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/289-a-2015-70331693
+  date: '2015-09-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/101/2006/06/06/p/dre
   label: null
@@ -113,16 +156,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/994/2006/09/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/994/2006/09/19/p/dre
+- type: cites
+  target: pt:dre:186279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672459:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:628862:por
+  label: "Rectificada pela DECL-RECT.101/2007.29.10.2007.PCM, DR.IS [208] de 29.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/101-2007-628862
+  date: '2007-10-29'
+- type: repealed_by
+  target: pt:dre:56720777:por
+  label: Revogados, a partir de 01.10.2014, os n.ºs 2, 3 e 14 e o Anexo I pelo(a) Portaria n.º 174/2014 - Diário da República
+    n.º 174/2014, Série I de 2014-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/174-2014-56720777
+  date: '2014-09-10'
+- type: repealed_by
+  target: pt:dre:158238387:por
+  label: Revogada pelo(a) Portaria n.º 45/2021 - Diário da República n.º 38/2021, Série I de 2021-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-2021-158238387
+  date: '2021-02-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:08Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +270,7 @@ Ao abrigo dos artigos 37.º e 46.º do [Decreto-Lei n.º 101/2006](https://diari
 
 16.º É revogada a [Portaria n.º 994/2006](https://diariodarepublica.pt/dr/detalhe/portaria/994-2006-541638), de 6 de Setembro.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Agosto de 2007. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 31 de Agosto de 2007. - Pelo Ministro da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 29 de Agosto de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Agosto de 2007. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 31 de Agosto de 2007. - Pelo Ministro da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 29 de Agosto de 2007.
 
 ## ANEXO I — Condições genéricas de instalação e funcionamento das tipologias das unidades de internamento
 
@@ -401,4 +496,4 @@ j) Referência à existência de guia de acolhimento do utente.
 
 ## ANEXO II — Tabela de preços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/09/17101/0000200005.pdf))](https://files.diariodarepublica.pt/1s/2007/09/17101/0000200005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/09/17101/0000200005.pdf)

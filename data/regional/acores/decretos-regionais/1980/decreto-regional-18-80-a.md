@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19200/23102312.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/18-1980-470859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85deb6c5735de728819fbddb8f65de5930f2346f5de3e0e543805bcb07f042a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e134fb8e7e5a7c8130dcbf0189454a192ad04156da7ec12ea4e9902b0bcf2d7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Arrendamento Rural
+- Baldio
 relationships:
 - type: amended_by
   target: pt:dre:454479:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:569097:por
+  label: "Alterados os arts. 6º, 7º, 8º, 16º, 17º e 18º e revogados os arts. 12º e 21º pelo DRG.20/81/A.1981.10.31.ARA, DR.IS\
+    \ [192]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/20-1981-569097
+  date: '1981-10-31'
+- type: amended_by
+  target: pt:dre:193801:por
+  label: "Aditado o art. 14.º-A pelo DLR.7/86/A.1986.01.20.ARA DR.IS [46] DE 25/FEV/1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1986-193801
+  date: '1986-01-20'
+- type: amended_by
+  target: pt:dre:675645:por
+  label: "Aditados os nºs 3 e 4 ao art. 6º e o art. 15º-B pelo DLR.19/97/A.1997.10.10.ALR-RAA, DR.IS-A [255] de 1997.11.04\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-1997-675645
+  date: '1997-10-10'
+- type: cites
+  target: pt:dre:252016:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454479:por
+  label: "Revogado a partir de 23.08.2008 pelo DLR.28/2008/A.24.07.2008.AL-RAA, DR.IS [142] de 24.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2008-454479
+  date: '2008-07-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:08Z'
   warnings: []
   errors: []
 ---
@@ -244,10 +273,10 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Regional dos Açores em 25 de Junho de 1980.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em 29 de Julho de 1980.**
+Assinado em 29 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

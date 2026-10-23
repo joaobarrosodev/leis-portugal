@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/1996/06/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1996-435051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5730b6c963cbf02bb99ed7db90199ae428014d6333aaa4ab043ce32a62107de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79bac667991102f92c32fea12e868f406e5a368cddd62a6794be4fad32718d99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Promoção Turística
-- Desenvolvimento Regional
+- Açores
 - Apoio ao Investimento
 - Desenvolvimento Económico
-- Açores
-- Sitraa
+- Desenvolvimento Regional
 - Infraestrutura Turística
+- Promoção Turística
+- Sitraa
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:233746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:523833:por
+  label: "Alterados os arts. 3º e 4º pelo DLR.6/2000/A.2000.03.24.ALR-RAA,DR.IS-A [91] de 17/Abr/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2000-523833
+  date: '2000-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/178/1994/06/28/p/dre
   label: null
@@ -103,16 +108,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/469/1994/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/469/1994/07/04/p/dre
+- type: cites
+  target: pt:dre:158580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497829:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:339848:por
+  label: "Revogado, sem prejuízo do disposto nos nºs 1 e 4 do art. 22º do mesmo diploma, pelo DLR.26/2000/A.2000.07.10.ALR-RAA,\
+    \ DR.IS-A [184] de 10/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2000-339848
+  date: '2000-07-10'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:48Z'
   warnings: []
   errors: []
 ---
@@ -347,10 +386,10 @@ Este diploma entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 11 de Abril de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 14 de Maio de 1996.**
+Assinado em Angra do Heroísmo em 14 de Maio de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/145a00/37753779.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/1999/06/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-1999-390249
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87f23a420165a4c4c80b37f4698eff776d689c9123736a5a61c024d925b5317f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9f66cff1fc8a1e9976ec6e02ef527ec5306ee305384a19e2ef710f18273f060
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alvará
-- Farmácia
 - Concurso Público
-- Secretaria Regional da Educação e Assuntos Sociais
 - Curso de Farmácia
 - Direcção Regional de Saúde
 - Farmacêutico
-- Medicamento
+- Farmácia
 - Licenciatura
+- Medicamento
 - Posto de Abastecimento de Combustíveis
-- Açores
+- Secretaria Regional da Educação e Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:279445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:346708:por
+  label: "Alterada a al. c) do nº 1 do art. 4.º pela DLR.25/99/A.1999.07.09.ALR-RAA DR.IS-A [177] DE 31/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-1999-346708
+  date: '1999-07-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/36/1998/01/26/p/dre
   label: null
@@ -89,16 +94,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/806/1997/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/806/1997/09/04/p/dre
+- type: cites
+  target: pt:dre:222786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283370:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643371:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279445:por
+  label: "Revogado, a partir de 01.04.2011, o presente diploma, alterado pelo DLR 25/99/A, de 31-Jul, pelo DLR.6/2011/A.10.03.2011.AL-RAA,\
+    \ DR.IS [49] de 10.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2011-279445
+  date: '2011-03-10'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:07Z'
   warnings: []
   errors: []
 ---
@@ -353,10 +388,10 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 20 de Maio de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 7 de Junho de 1999.**
+Assinado em Angra do Heroísmo em 7 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

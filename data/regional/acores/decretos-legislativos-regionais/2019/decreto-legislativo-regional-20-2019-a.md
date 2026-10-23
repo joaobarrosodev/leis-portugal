@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/08/15000/0004100049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2019/08/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2019-123770990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e089ece70e51eea8b8aaed117e75c590ca5b623da8bb4ba58551e227e6ea1ebc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbd59d74c3be66eedba264c3ce610c99d13a78deda279af28be4208958cd0579
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Desenvolvimento Rural
-- Contra-ordenação
-- Instituto Regional do Ordenamento Agrário
-- Regime Jurídico
+- Açores
 - Agricultura
-- Reserva Agrícola
-- Reserva Agrícola Regional
 - Aproveitamento Agrícola
 - Carta da Reserva Agrícola Regional
-- Açores
+- Contra-ordenação
+- Desenvolvimento Rural
+- Instituto Regional do Ordenamento Agrário
+- Multa
+- Regime Jurídico
+- Reserva Agrícola
+- Reserva Agrícola Regional
 - Taxa
 relationships:
 - type: cites
@@ -91,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1/1992/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1/1992/01/02/p/dre
+- type: cites
+  target: pt:dre:179516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:27Z'
   warnings: []
   errors: []
 ---
@@ -161,25 +173,33 @@ i) [Anterior alínea g)].
 
 6 - O Governo Regional promoverá a regulamentação necessária ao estabelecimento dos limites e condições a observar para a viabilização das utilizações referidas no n.º 1 do presente artigo.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Cabe à entidade gestora da RAR confirmar as exceções previstas nas alíneas a) a c) do n.º 1 do artigo 5.º
 
 2 - As exceções previstas nas alíneas d) a i) do n.º 1 do artigo 5.º carecem de parecer favorável dos membros do Governo Regional com competência na matéria respetiva.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os despachos decorrentes das situações previstas nas alíneas a) a e) do n.º 1 do artigo 5.º constituem meras confirmações das exceções.
 
 2 - Os despachos decorrentes das situações previstas nas alíneas f) a i) do n.º 1 do artigo 5.º constituem autorizações de desafetação da RAR.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A fiscalização do disposto no presente diploma compete, em especial, aos municípios, aos serviços de ilha do departamento do Governo Regional com competência em matéria de agricultura, à Inspeção Regional do Ambiente e à entidade gestora da RAR.
 
 2 - [...].
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...].
 
@@ -201,11 +221,11 @@ O presente decreto legislativo regional entra em vigor 30 dias após a data da s
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 4 de julho de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 22 de julho de 2019.**
+Assinado em Angra do Heroísmo em 22 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -398,3 +418,5 @@ Os solos integrados na RAR são obrigatoriamente identificados em todos os instr
 ###### Artigo 20.º — Entrada em vigor
 
 O presente diploma entra em vigor 30 dias após a data da sua publicação.
+
+112465263

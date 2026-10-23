@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/10/246a00/59845987.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/32/2000/10/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2000-531446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08d5c62da706b9f63381a91209e071a3dfbe793e948ad16eb005419b88300461
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10b4d41b73d4412eb5a36e53df001a41d880ac1d8719ab6c61a18c8ba8b92ab6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Património Cultural
+- Açores
 - Fiscalização
 - Ilha de São Jorge
 - Medidas Preventivas
+- Multa
+- Património Cultural
 - Proteção do Ambiente
 - Zona de Proteção
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:277642:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:424728:por
+  label: "Prorrogado por mais um ano, a partir de 25 de Outubro de 2002, o prazo de vigência das medidas cautelares estabelecidads\
+    \ no presente diploma, pelo DLR.34/2002/A.2002.10.16.ALR-RAA, DR.IS-A [155]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/34-2002-424728
+  date: '2002-10-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/75/1991/02/14/p/dre
   label: null
@@ -87,16 +93,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
+- type: cites
+  target: pt:dre:448681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661496:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:277642:por
+  label: "Revogado pelo DLR.10/2011/A.28.03.2011.AL-RAA, DR.IS [61] de 28.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2011-277642
+  date: '2011-03-28'
 article_structure:
-  article_count: 10
+  article_count: 11
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:21Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +154,9 @@ Considerando a necessidade de na revitalização das fajãs de São Jorge serem 
 
 Assim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º da [Lei n.º 61/98](https://diariodarepublica.pt/dr/detalhe/lei/61-1998-448681), de 27 de Agosto (Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Objecto
 
@@ -239,10 +268,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 12 de Setembro de 2000.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 3 de Outubro de 2000.**
+Assinado em Angra do Heroísmo em 3 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

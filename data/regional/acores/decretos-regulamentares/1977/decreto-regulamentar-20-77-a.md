@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/06/14100/15111516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-1977-250380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7d8f16c7aa3e3dad42ffc416da3a74390f3c17e2ab3bed0b0f5cc67500c4f21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a0894182952ab093c17d844baf42a1bbd3b659ce5266ec6c710ddb9da709f1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Governo Regional
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:287413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329806:por
+  label: "Alterado o Cap. II, o art. 14º e o quadro de pessoal a que se refere o art. 10º pelo DRR.16/78/A.1978.08.08.GR-RAA,\
+    \ DR.IS [212] de 14/Set/1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1978-329806
+  date: '1978-08-08'
+- type: cites
+  target: pt:dre:480771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492689:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:377537:por
+  label: "Revogado, com excepção da al. c) do nº 1 do art. 5º e o art. 9º, na redacção do DRR 16/78/A de 08-Ago, do GR-RAA,\
+    \ DR.IS [212] de 14/Set/1978 pelo DRR.18/79/A.1979.07.20.GR-RAA\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-1979-377537
+  date: '1979-07-20'
+- type: repealed_by
+  target: pt:dre:287413:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 12/88/A - Diário da República n.º 59/1988, Série I de 1988-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1988-287413
+  date: '1988-03-11'
 article_structure:
   article_count: 25
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:33Z'
   warnings: []
   errors: []
 ---
@@ -192,9 +222,11 @@ a) Serviço de Expediente, Arquivo, Contabilidade e Pessoal, com as seguintes se
 
 b) Serviço de Contencioso e Apoio Jurídico:
 
-#### Secção do Jornal Oficial.
+Secção do Jornal Oficial.
 
-#### SECÇÃO II — Secção de Estudos de Expediente e Arquivo
+#### SECÇÃO II
+
+#### Secção de Estudos de Expediente e Arquivo
 
 ###### Artigo 6.º — (Competência)
 
@@ -224,7 +256,9 @@ l) Colaborar na organização dos arquivos dos Gabinetes dos membros do Governo 
 
 m) Assegurar o serviço de arquivo da Secretaria-Geral.
 
-#### SECÇÃO III — Secção de Relações Públicas
+#### SECÇÃO III
+
+#### Secção de Relações Públicas
 
 ###### Artigo 7.º — (Competência)
 
@@ -240,7 +274,9 @@ d) Estabelecer permanente ligação com o gabinete de Imprensa dos Açores;
 
 e) Organizar e manter actualizado um ficheiro com os nomes e moradas dos membros do Governo Regional, adjuntos, directores regionais, bem como de outros funcionários da Região.
 
-#### SECÇÃO IV — Secção de Contabilidade e Pessoal
+#### SECÇÃO IV
+
+#### Secção de Contabilidade e Pessoal
 
 ###### Artigo 8.º — (Competência)
 
@@ -434,18 +470,18 @@ As dúvidas e casos omissos resultantes da aplicação do presente diploma serã
 
 Aprovado em plenário do Governo Regional em 4 de Abril de 1977.
 
-**O Presidente do Governo Regional, João Bosco Soares Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Soares Mota Amaral.
 
-**Assinado em Ponta Delgada em 19 de Maio de 1977.**
+Assinado em Ponta Delgada em 19 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 ## ANEXO — Quadro do pessoal a que se refere o artigo 10.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/14100/15111516.pdf))](https://files.diariodarepublica.pt/1s/1977/06/14100/15111516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/06/14100/15111516.pdf)
 
 Nota. - As secções são dirigidas por funcionários com a categoria mínima de terceiro-oficial. A chefia da Secção do Jornal Oficial caberá a um técnico, sob orientação do técnico que dirige os Serviços Jurídicos.
 
-**O Presidente do Governo Regional, João Bosco Soares Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Soares Mota Amaral.

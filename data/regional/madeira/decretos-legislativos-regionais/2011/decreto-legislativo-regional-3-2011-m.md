@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2011/02/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2011-279826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a9d2c7411a0fa23452b15bb9c757076e06c85bfd6507e97c6e1a996b2cd1954
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75c3673ca5148ed89775c88a06c0716c8ae2b1c02937d287da030bd5480b019e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Legislativa Regional
-- Governo Regional
 - Conselho Económico e Social Regional
-- Diretor Regional
-- Plano de Desenvolvimento Económico e Social
-- Planeamento
 - Desenvolvimento Económico
+- Diretor Regional
+- Governo Regional
 - Madeira.região Autónoma
+- Planeamento
+- Plano de Desenvolvimento Económico e Social
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/2003/08/23/m/dre
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/43/1991/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/43/1991/07/27/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:24Z'
   warnings: []
   errors: []
 ---
@@ -151,13 +171,17 @@ c) ...
 
 d) A apresentação da programação financeira dos projectos de investimento promovidos pelos serviços do Governo Regional, incluindo os organismos dotados de autonomia administrativa e financeira, com agregação por programa, por medida e por concelho.
 
-###### Artigo 7.º — Acompanhamento da execução dos planos
+Artigo 7.º
+
+Acompanhamento da execução dos planos
 
 1 - O acompanhamento da execução dos planos tem expressão nos respectivos relatórios de execução.
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -167,7 +191,9 @@ d) A apresentação da programação financeira dos projectos de investimento pr
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Compete à ALRAM:
 
@@ -185,7 +211,9 @@ b) ...
 
 c) Assegurar a elaboração e aprovar os relatórios de execução dos planos.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A entidade com competência na área do planeamento é um serviço de carácter operativo ao qual incumbe a preparação, a elaboração e o acompanhamento dos planos, incluindo a elaboração dos respectivos relatórios de execução, podendo igualmente promover a realização de estudos de natureza sócio-económica.
 
@@ -197,15 +225,21 @@ c) Assegurar a elaboração e aprovar os relatórios de execução dos planos.
 
 5 - ...
 
-###### Artigo 13.º — Apresentação dos planos
+Artigo 13.º
+
+Apresentação dos planos
 
 O Governo Regional apresenta à ALRAM, conjuntamente com a proposta do Orçamento da Região de cada ano, a proposta do plano ou planos que lhe competir elaborar.
 
-###### Artigo 14.º — Aprovação pela ALRAM
+Artigo 14.º
+
+Aprovação pela ALRAM
 
 A ALRAM aprecia e delibera sobre a aprovação das propostas dos planos que lhe forem apresentadas pelo Governo Regional.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Sem prejuízo do disposto no número seguinte, as propostas de alteração ao plano anual em vigor são submetidas, pelo Governo Regional, à ALRAM, para apreciação e aprovação.
 
@@ -213,7 +247,9 @@ A ALRAM aprecia e delibera sobre a aprovação das propostas dos planos que lhe 
 
 3 - O Conselho Económico e Social da Região Autónoma da Madeira deve emitir o seu parecer às propostas de alteração ao plano anual que sejam submetidas à apreciação e aprovação pela ALRAM, no prazo máximo de 20 dias a contar da data de recepção das respectivas propostas.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Os relatórios de execução dos planos anuais devem ser apresentados à ALRAM e ao Conselho Económico e Social da Região Autónoma da Madeira até ao final do 3.º trimestre seguinte ao período a que respeitam.»
 
@@ -227,11 +263,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de Janeiro de 2011.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 11 de Fevereiro de 2011.**
+Assinado em 11 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 

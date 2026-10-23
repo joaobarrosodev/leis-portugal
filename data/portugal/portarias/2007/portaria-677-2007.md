@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/677/2007/06/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/677-2007-638169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1616d4f2c22a69d490aa995b53fcce6ea29d74073e3d0400124f5155f0a8522
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8153fec3eca6d6721b29d97947a481283be45c8aaa093c20a446eea15a4e7704
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/520/1994/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/520/1994/07/08/p/dre
+- type: cites
+  target: pt:dre:290636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:14Z'
   warnings: []
   errors: []
 ---
@@ -115,4 +127,4 @@ Cumpridos os preceitos legais, com fundamento no disposto no n.º 4 do artigo 9.
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 16 de Maio de 2007. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 17 de Maio de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/10800/36993700.pdf))](https://files.diariodarepublica.pt/1s/2007/06/10800/36993700.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/10800/36993700.pdf)

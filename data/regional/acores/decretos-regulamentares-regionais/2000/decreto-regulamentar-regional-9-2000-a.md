@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2000/03/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-411850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd89efb8cc44b41d790bcd6727d37ea7519e68e48cfb4f192bc55d70492a957a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de468386b4a3888f9800f487e4ae9084205201a957e198519096269973ec6135
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aquisição de Bens e Serviços
 - Aquisição de Imóveis
 - Delegação de Competências
@@ -74,7 +75,6 @@ subjects:
 - Execução do Orçamento
 - Fundo de Maneio
 - Orçamento Regional
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:522256:por
@@ -96,16 +96,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/7/1997/05/24/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/7/1997/05/24/a/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:22Z'
   warnings: []
   errors: []
 ---
@@ -274,7 +302,7 @@ Nos 30 dias subsequentes ao final do período a que respeitam, o relatório da e
 
 ###### Artigo 19.º — Regulamentação
 
-**O Secretário Regional da Presidência para as Finanças e Planeamento emitirá os regulamentos que se mostrem necessários a execução do presente diploma.**
+O Secretário Regional da Presidência para as Finanças e Planeamento emitirá os regulamentos que se mostrem necessários a execução do presente diploma.
 
 ###### Artigo 20.º — Produção de efeitos
 
@@ -282,10 +310,10 @@ O presente diploma produz efeitos desde 1 de Janeiro de 2000.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 25 de Janeiro de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 18 de Fevereiro de 2000.**
+Assinado em Angra do Heroísmo em 18 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

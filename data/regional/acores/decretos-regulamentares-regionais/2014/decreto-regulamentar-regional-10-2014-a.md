@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/13400/0386103865.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2014/07/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2014-55020994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcc108344d42a29d4b4347a422ce150915ff7c3847a94138d909e30c10c5ee0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeb3f59211aaa0fa58ff384d21ced06749585df010892654068ce30710db17a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,6 +66,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Apoio Administrativo
 - Apoio Técnico
 - Arquivística
@@ -73,13 +74,12 @@ subjects:
 - Comissão Coordenadora
 - Criação de Serviços
 - Definição de Competências
-- Presidência do Governo Regional
 - Património Cultural
-- Secretaria Geral
 - Património Histórico
+- Presidência do Governo Regional
 - Protecção do Património
 - Regime Jurídico
-- Açores
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10/2007/04/20/a/dre
@@ -97,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/7/2008/04/30/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/7/2008/04/30/a/dre
+- type: cites
+  target: pt:dre:249514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:09Z'
   warnings: []
   errors: []
 ---
@@ -177,11 +193,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 13 de maio de 2014.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo, em 20 de junho de 2014.**
+Assinado em Angra do Heroísmo, em 20 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

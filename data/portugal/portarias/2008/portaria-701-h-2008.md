@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 145/2008, 1º Suplemento, Série I de 2008-07-29
   number: '145'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5106-(37) a 5106-(80)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/701-h/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/701-h-2008-575341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb45c3837f81eebbe8988a8c1fa24bcd0e8f41cc7c199beb296900d943e3cca7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f9c142a03c89ec046e052a9b58c03faa85a107476a2fa6ca6b24899ccee1c87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Adjudicação de Obras Públicas
 - Aeroporto
+- Águas Residuais
 - Assistência Técnica
 - Caderno de Encargos
 - Classificação de Obras
-- Energia Elétrica
-- Estrada
+- Código dos Contratos Públicos
+- Contratação Pública
 - Contrato Administrativo
 - Empreitada de Obras Públicas
+- Energia Elétrica
 - Equipamento
-- Resíduo
+- Estrada
 - Obras Públicas
-- Águas Residuais
 - Ponte
-- Código dos Contratos Públicos
+- Portos
+- Prédio Urbano
 - Projeto
 - Rede Ferroviária
-- Portos
-- Abastecimento de Água
-- Prédio Urbano
-- Contratação Pública
+- Resíduo
 relationships:
 - type: amended_by
   target: pt:dre:216770690:por
@@ -101,16 +101,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/75/2006/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/75/2006/03/27/p/dre
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216770690:por
+  label: Revogada, a partir de 06.09.2023, pelo(a) Portaria n.º 255/2023 - Diário da República n.º 152/2023, Série I de 2023-08-07
+    nos termos dos arts. 3.º e 4.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/255-2023-216770690
+  date: '2023-08-07'
 article_structure:
   article_count: 178
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:57Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +197,7 @@ Sem prejuízo do disposto no n.º 3 do artigo seguinte, com a entrada em vigor d
 
 3 - Até ao termo do prazo referido no número anterior, aplica-se, para efeitos do disposto no n.º 7 do artigo 43.º do CCP, a portaria de 7 de Fevereiro de 1972, publicada no Diário do Governo, 2.ª série, n.º 35 (suplemento), de 11 de Fevereiro de 1972, e respectivas alterações.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 28 de Julho de 2008.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 28 de Julho de 2008.
 
 ## ANEXO I — (a que se refere o n.º 1 do artigo 1.º da presente portaria)
 
@@ -457,7 +471,7 @@ f) Obrigatoriedade de pesquisa de soluções que garantam uma contenção de cus
 
 Para efeitos de planeamento, o peso relativo de cada fase de projecto poderá traduzir-se pelas seguintes percentagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf)
 
 ###### Artigo 13.º — Alteração do peso das fases de projecto
 
@@ -3431,14 +3445,14 @@ d) Participação nos ensaios de recepção e aprovação dos resultados dos mes
 
 (a que se refere os n.º 2 do artigo 1.º da Portaria e o n.º 1 do artigo 11.º do Anexo I)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf)
 
 1) As instalações e equipamentos eléctricos em edifícios podem incluir no todo ou em parte:
 
 - Produção, transformação e distribuição de energia eléctrica, sistemas de qualidade de energia (tensão, factor de potência, harmónicos, eficiência e outros), iluminação, tomadas e outras alimentações eléctricas, sistemas de controlo e de segurança (eléctrica, intrusão, acessos, vigilância, incêndio e outros), sistemas de informações e comunicações (sinalização, intercomunicação, som, vídeo, relógios e outros).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf)
 
 X - Categoria a considerar nos projectos de obras de remodelação, ampliação e reabilitação que interfiram com vias em exploração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14501/0003700080.pdf)

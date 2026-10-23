@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03100/03860388.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1984-660535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bd1fe1fd344d903b55298484bb6de6ed775e8a0ff82b5a9e6d66def7ed1ddc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52f7cf571213227a943fa0993f4b1bf42f9864bec727a9032d5e534f26689e48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Bombeiro
+- Conselho Regional de Bombeiros
+- Inspecção Regional de Bombeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:496708:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:561599:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:496708:por
+  label: "Revogado pelo DRR.32/87/A.1987.11.19.GR-RAA DR.IS [267]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-1987-496708
+  date: '1987-11-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:21Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +108,13 @@ Face ao aparecimento de novas associações de bombeiros na Região Autónoma do
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Funciona na SRAP a Inspecção Regional de Bombeiros, adiante designada IRB, destinada a garantir o apoio e a superintendência nas associações humanitárias e nos corpos de bombeiros e a assegurar a sua articulação, em caso de emergência, com o Serviço Regional de Protecção Civil dos Açores (SRPCA).
+Artigo 1.º - 1 - Funciona na SRAP a Inspecção Regional de Bombeiros, adiante designada IRB, destinada a garantir o apoio e a superintendência nas associações humanitárias e nos corpos de bombeiros e a assegurar a sua articulação, em caso de emergência, com o Serviço Regional de Protecção Civil dos Açores (SRPCA).
 
 2 - A IRB depende do Secretário Regional da Administração Pública e será chefiada pelo presidente do SRPCA, o qual, para o efeito, exercerá cumulativamente as funções de inspector regional de Bombeiros.
 
 3 - No desempenho das suas funções o inspector regional será coadjuvado por um adjunto.
 
-###### Art. 2.º - 1 - À IRB compete em especial:
+Art. 2.º - 1 - À IRB compete em especial:
 
 a) Contribuir para a definição da política a desenvolver no sector, nomeadamente na elaboração dos programas de apoio às associações de bombeiros e aos serviços de incêndios que venham a fazer parte dos planos a médio prazo e anual da SRAP e na coordenação da execução daqueles programas;
 
@@ -124,7 +138,7 @@ j) Pronunciar-se sobre todos os assuntos que digam directamente respeito aos cor
 
 2 - Determinadas competências da IRB poderão ser executadas por equipas de projecto ou grupos de trabalho, de acordo com o preceituado no artigo 27.º do [Decreto Regulamentar Regional n.º 45/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1981-561599), de 7 de Outubro.
 
-###### Art. 3.º Compete ao inspector regional de Bombeiros:
+Art. 3.º Compete ao inspector regional de Bombeiros:
 
 1 - Em matéria de organização e funcionamento dos corpos de bombeiros:
 
@@ -200,7 +214,7 @@ f) Elaborar, na parte respeitante às condições técnicas, os cadernos de enca
 
 7 - Para efeitos da alínea a) do n.º 4 deste artigo, o inspector regional de Bombeiros pode fazer depender a nomeação de prévia prestação de provas e da realização de estagio num corpo de bombeiros adequado para o efeito.
 
-###### Art. 4.º - 1 - Junto da IRB funciona o Conselho Regional de Bombeiros (CRB), órgão de natureza consultiva ao qual compete:
+Art. 4.º - 1 - Junto da IRB funciona o Conselho Regional de Bombeiros (CRB), órgão de natureza consultiva ao qual compete:
 
 a) Participar, no âmbito do sector, na elaboração dos programas de apoio aos corpos de bombeiros a incluir no orçamento e no plano da SRAP;
 
@@ -236,26 +250,26 @@ b) Um representante de cada corporação de bombeiros ou serviço de incêndios 
 
 6 - O CRB elaborará o seu regulamento, o qual será aprovado por despacho do Secretário Regional da Administração Pública.
 
-###### Art. 5.º - 1 - O pessoal da IRB é o constante do quadro anexo a este diploma, que dele faz parte integrante.
+Art. 5.º - 1 - O pessoal da IRB é o constante do quadro anexo a este diploma, que dele faz parte integrante.
 
 2 - O Secretário Regional da Administração Pública poderá afectar temporariamente à IRB pessoal dos diversos departamentos da SRAP, de harmonia com as necessidades e a conveniência do serviço e com as aptidões dos funcionários.
 
-###### Art. 6.º - 1 - O cargo de inspector regional de Bombeiros será desempenhado, por inerência, pelo presidente do SRPCA.
+Art. 6.º - 1 - O cargo de inspector regional de Bombeiros será desempenhado, por inerência, pelo presidente do SRPCA.
 
 2 - O lugar de adjunto do inspector regional de Bombeiros é provido, por comissão de serviço de 2 anos, renovável, de entre os funcionários ou agentes com experiência profissional adequada às funções.
 
-###### Art. 7.º Fica revogado o artigo 15.º do [Decreto Regulamentar Regional n.º 45/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1981-561599), de 7 de Outubro.
+Art. 7.º Fica revogado o artigo 15.º do [Decreto Regulamentar Regional n.º 45/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1981-561599), de 7 de Outubro.
 
 Aprovado em Conselho do Governo Regional em 9 de Novembro de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 12 de Janeiro de 1984.**
+Assinado em Angra do Heroísmo em 12 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro a que se refere o n.º 1 do artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/02/03100/03860388.pdf))](https://files.diariodarepublica.pt/1s/1984/02/03100/03860388.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/02/03100/03860388.pdf)

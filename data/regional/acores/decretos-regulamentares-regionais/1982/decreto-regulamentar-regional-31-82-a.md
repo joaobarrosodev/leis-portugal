@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1982-397899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a756f64b67dbb1a4c0c729759e0de07a67829facef04e6c4885881f5c6d70174
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f230d40314b85f0f5130d2a6aa7b8f06e5ddae4156107cc3af2f54e678f19933
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- CASA do POVO
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:552992:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:45Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +96,9 @@ Para a adequada aplicação daquele diploma na Região torna-se necessária a su
 
 Assim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aplicado às Casas do Povo existentes na Região Autónoma dos Açores o disposto no [Decreto-Lei n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1982-552992), de 11 de Janeiro, com as adaptações constantes do artigo seguinte.
+Artigo 1.º É aplicado às Casas do Povo existentes na Região Autónoma dos Açores o disposto no [Decreto-Lei n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1982-552992), de 11 de Janeiro, com as adaptações constantes do artigo seguinte.
 
-###### Art. 2.º Ao texto dos artigos 1.º, n.º 2, 3.º, n.º 1, 10.º, n.º 2, 12.º, n.os 5 e 6, 15.º, n.º 4, 16.º, n.os 1, alínea c), 2 e 4, 17.º, n.os 1 e 2, 19.º, 20.º, n.º 1, 22.º, 23.º, 26.º e 32.º são introduzidas as seguintes adaptações:
+Art. 2.º Ao texto dos artigos 1.º, n.º 2, 3.º, n.º 1, 10.º, n.º 2, 12.º, n.os 5 e 6, 15.º, n.º 4, 16.º, n.os 1, alínea c), 2 e 4, 17.º, n.os 1 e 2, 19.º, 20.º, n.º 1, 22.º, 23.º, 26.º e 32.º são introduzidas as seguintes adaptações:
 
 ###### ARTIGO 1.º
 
@@ -179,10 +186,10 @@ As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despac
 
 Aprovado em Conselho do Governo de 2 de Junho de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Julho de 1982.**
+Assinado em Angra do Heroísmo em 20 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

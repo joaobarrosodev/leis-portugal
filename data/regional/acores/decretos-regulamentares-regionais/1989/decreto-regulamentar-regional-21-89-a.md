@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1989-619713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 238c2c3f9f4af852ce675be236a0a26c95e5515d334921b793a1827f0481204f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5b8aaa28af3907796deb8ad0e7baaec110ac4a71a9311a247e54cae7d4eb2e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Gabinete de Execução do Programa Agro-pecuário do PICO
+- Orgânica
+- Secretaria Regional da Agricultura e Pescas
+relationships:
+- type: cites
+  target: pt:dre:193576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401284:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:25Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +108,9 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 2.º, 4.º e 5.º do [Decreto Regulamentar Regional n.º 42/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284), de 23 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 2.º, 4.º e 5.º do [Decreto Regulamentar Regional n.º 42/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284), de 23 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - São atribuições do GEPAP:
+Art. 2.º - 1 - São atribuições do GEPAP:
 
 a) Executar o PDAPIP;
 
@@ -118,7 +134,7 @@ j) Promover o estudo e a adopção de medidas legislativas e regulamentares nece
 
 2 - As medidas regulamentares referidas na alínea j) do número anterior serão aprovadas por portaria do Secretário Regional da Agricultura e Pescas.
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 a) ...
 
@@ -138,7 +154,7 @@ h) ...
 
 2 - ...
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 a) ...
 
@@ -150,20 +166,20 @@ c) Um representante das associações de agricultores da ilha do Pico.
 
 3 - O conselho reúne com a periodicidade que o seu presidente considere necessária, desde que estejam presentes, pelo menos, o presidente e um vogal, e delibera por maioria.
 
-###### Art. 2.º São revogadas:
+Art. 2.º São revogadas:
 
 a) As alíneas d) e j) do artigo 6.º do [Decreto Regulamentar Regional n.º 42/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284), de 23 de Novembro;
 
 b) A [Portaria n.º 65/86](https://diariodarepublica.pt/dr/detalhe/portaria/65-1986-193576), de 2 de Agosto, com efeito à data da entrada em vigor do diploma referido no n.º 2 do artigo 2.º do [Decreto Regulamentar Regional n.º 42/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284), de 23 de Novembro, com a redacção que lhe é dada pelo presente diploma.
 
-###### Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 5 de Abril de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 13 de Junho de 1989.**
+Assinado em Angra do Heroísmo em 13 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

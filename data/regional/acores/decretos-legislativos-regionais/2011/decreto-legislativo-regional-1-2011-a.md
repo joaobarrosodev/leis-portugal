@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2011/01/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2011-485601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ac1c66d0cb53c475e4e3726ffc8df544bf05304bf8bd1d420b7faf931dad7d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fe5cac938ab08fda01223b9b726f60fd936668d142acab36262fc1e86a0bf65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
 - Planeamento Regional
-- Desenvolvimento Económico
 - Plano Regional
-- Açores
 relationships:
 - type: cites
   target: celex:32002L0091
@@ -87,13 +87,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:15Z'
   warnings: []
   errors: []
 ---
@@ -114,11 +114,11 @@ A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 25 de Novembro de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Lisboa em 20 de Dezembro de 2010.**
+Assinado em Lisboa em 20 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -144,7 +144,7 @@ Evolução da Economia Mundial
 
 Taxa de Variação, em percentagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 A queda absoluta de produção foi significativamente condicionada pela redução no volume de comércio internacional de bens e serviços, na sequência da desaceleração iniciada em fase anterior nas economias avançadas. Já em 2007 o ritmo de crescimento das importações das economias avançadas não acompanhou o ritmo da produção económica mundial, situando-se, respectivamente, às taxas médias anuais de 4,7 % e 5,2 %.
 
@@ -168,7 +168,7 @@ Evolução da Economia Portuguesa
 
 Cenário Macroeconómico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Para este tipo de moderação geral contribuíram as diversas componentes da procura, exceptuando apenas a de exportações, particularmente para os mercados externos actualmente mais representativos. Mesmo a componente de investimento (FBCF), que se caracteriza por volatilidades maiores, registou uma quebra efectiva menor que a inicialmente projectada. A componente de consumo público assumiu a sua função própria de incentivo a condições estabilizadoras, tendo registado um acréscimo à taxa média anual de 3,0 %.
 
@@ -192,7 +192,7 @@ A variação global combina variações positivas, quer da componente natural (s
 
 Decomposição da Evolução Demográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 A distribuição da população segundo os grandes grupos etários situa-se no âmbito de tendências de anos anteriores.
 
@@ -202,7 +202,7 @@ Já no grupo etário dos 0-14 anos evidencia-se a redução mais regular e progr
 
 Estrutura Etária da População
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 2 - Aspectos Macroeconómicos
 
@@ -214,7 +214,7 @@ A esta evolução correspondeu uma quota de participação no âmbito da economi
 
 Produto Interno Bruto - a Preços de Mercado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Analisando a evolução da riqueza através de componentes de crescimento, verifica-se que os dados apontam para uma alteração significativa durante o ano de 2008.
 
@@ -222,7 +222,7 @@ De facto, a desaceleração da produção face ao volume de população activa e
 
 Crescimento do PIB/Hab. e Componentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 A desaceleração económica ter-se-á repercutido de forma mais intensa em actividades produtoras de bens mercantis e transaccionáveis do que em serviços.
 
@@ -230,7 +230,7 @@ Efectivamente, e observando o quadro sobre o Valor Acrescentado Bruto por ramos 
 
 VAB por Ramos de Actividades Económicas, (A6)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Mercado de Emprego
 
@@ -242,7 +242,7 @@ Apesar da evolução positiva na capacidade de oferta líquida de emprego regist
 
 Condição da População Perante o Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Em termos da população inactiva continuaram a verificar-se as tendências anteriores, particularmente através da redução na componente classificada como doméstica e do aumento na de reformados.
 
@@ -250,7 +250,7 @@ Na componente residual e classificada de "Outra" encontra-se como parte represen
 
 População Inactiva - %
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 O sector terciário tem revelado capacidade de gerar oferta de emprego líquida, não só como efeito significativo de serviços públicos, mas também através de diversos serviços comerciais.
 
@@ -260,7 +260,7 @@ O sector primário registou um decréscimo no último ano, mas integrando-se num
 
 População Activa Empregada por Sectores de Actividade - %
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 O alargamento da população activa no sector terciário incorpora um processo de envolvimento de empregos em profissões mais exigentes em competências e habilitações.
 
@@ -268,7 +268,7 @@ Complementarmente, profissões de trabalhadores não qualificados, de operadores
 
 População Activa Empregada, por Profissão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Observando a distribuição da população activa empregada segundo a situação na profissão, evidencia-se o predomínio e uma certa tendência ao reforço na categoria por conta de outrem.
 
@@ -276,7 +276,7 @@ Já dentro desta categoria sobressai a subcategoria de trabalhadores sem termo.
 
 População Activa Empregada, por Situação na Profissão - %
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Preços no Consumidor
 
@@ -286,7 +286,7 @@ Efectivamente observando a evolução intra-anual, através das taxas de variaç
 
 Evolução de Preços no Consumidor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 De qualquer forma, a evolução geral ao longo do ano de 2009 foi reveladora de uma tendência integrável num processo de desaceleração de preços.
 
@@ -302,7 +302,7 @@ Por exemplo, a evolução do número de licenças de obras atingiu o crescimento
 
 Indicadores Simples de Conjuntura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 III - Prioridades e Políticas Sectoriais
 
@@ -950,17 +950,17 @@ Para Qualificar a Gestão Pública e a Cooperação, englobando as áreas da Adm
 
 Repartição do Investimento Público por Grandes Objectivos de Desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Investimento Público 2011
 
 Desagregação por Objectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Quadro Global de Financiamento da Administração Pública Regional
 
@@ -968,7 +968,7 @@ O valor de investimento público no ano 2011 ascenderá a 801,3 milhões de euro
 
 Apresenta-se de seguida o quadro de financiamento global para o ano de 2011.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Este elevado nível de investimento público, que se projecta para o ano de 2011, será efectuado num quadro de consolidação orçamental.
 
@@ -1146,7 +1146,7 @@ Programa 1 - Desenvolvimento das Infra-Estruturas Educacionais e do Sistema Educ
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -1282,7 +1282,7 @@ Programa 2 - Qualificação Profissional e Defesa do Consumidor
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -1324,7 +1324,7 @@ Programa 3 - Juventude
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -1394,7 +1394,7 @@ Programa 4 - Património e Actividades Culturais
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -1542,7 +1542,7 @@ Programa 5 - Desenvolvimento Desportivo
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -1640,7 +1640,7 @@ Programa 6 - Informação e Comunicação
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -1678,7 +1678,7 @@ Programa 7 - Aumento da Competitividade dos Sectores Agrícola e Florestal
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -1824,7 +1824,7 @@ Programa 8 - Valorização do Mundo Rural
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -1864,7 +1864,7 @@ Programa 9 - Modernização das Infra-Estruturas e da Actividade da Pesca
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -1984,7 +1984,7 @@ Programa 10 - Desenvolvimento do Turismo
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -2058,7 +2058,7 @@ Programa 11 - Fomento da Competitividade
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -2156,7 +2156,7 @@ Programa 12 - Ciência, Tecnologia, Sistemas de Informação e Comunicações
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -2246,7 +2246,7 @@ Programa 13 - Desenvolvimento do Sistema de Solidariedade Social
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -2424,7 +2424,7 @@ Programa 14 - Habitação
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -2540,7 +2540,7 @@ Programa 15 - Desenvolvimento de Infra-Estruturas e do Sistema de Saúde
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -2644,7 +2644,7 @@ Programa 16 - Ordenamento do Território, Qualidade Ambiental e Energia
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -2878,7 +2878,7 @@ Programa 17 - Protecção Civil
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -2994,7 +2994,7 @@ Programa 18 - Rede Viária Regional, Transportes Terrestres e Equipamentos Colec
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -3220,7 +3220,7 @@ Programa 19 - Consolidação e Modernização dos Transportes Marítimos
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -3298,7 +3298,7 @@ Programa 20 - Desenvolvimento dos Transportes Aéreos
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -3368,7 +3368,7 @@ Programa 21 - Administração Pública, Planeamento e Finanças
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -3470,7 +3470,7 @@ Programa 22 - Cooperação Externa e Migrações
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Programação Material
 
@@ -3576,11 +3576,11 @@ Em termos financeiros os valores disponíveis de financiamento comunitário para
 
 Programas Operacionais 2007-2013
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 A seguir apresenta-se uma sinopse das intervenções regionais de programação da política europeia de coesão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 O Programa Operacional dos Açores para a Convergência é um programa comparticipado pelo fundo estrutural FEDER, adoptado pela Decisão da Comissão C (2007) 4625, de 5 de Outubro de 2007, CCI 2007 PT 161 PO 006 e abrange um leque diversificado de sectores e de beneficiários finais das comparticipações comunitárias.
 
@@ -3608,11 +3608,11 @@ Execução Financeira por Eixo
 
 31 de Agosto de 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 No âmbito do Quadro de Referência Estratégica Nacional (QREN), componente FEDER, reportado a 30 de Junho de 2010, o PROCONVERGENCIA lidera com uma taxa de execução financeira de 25,8 %, sendo a média do QREN/FEDER de 12,1 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Este programa operacional assenta numa grande finalidade estratégica que consiste na colocação da intervenção FSE ao serviço de um novo ciclo de desenvolvimento e de políticas públicas para a RAA no qual a qualificação das pessoas, o papel do conhecimento, a inovação na valorização dos recursos endógenos regionais e a disseminação de uma cultura de empreendimento e de iniciativa assumem um estatuto de prioridade máxima. A percepção dos desafios que tal mudança coloca à coesão social e territorial dos Açores conduz coerentemente à valorização da problemática do desenvolvimento social, incluindo neste domínio uma nova importância ao combate à iliteracia.
 
@@ -3624,7 +3624,7 @@ Consolidação das condições de empregabilidade no sector privado;
 
 Modernização do tecido produtivo e apoio ao empreendedorismo;
 
-Empregabilidade e empreendedorismo com base em I&D;
+Empregabilidade e empreendedorismo com base em I&D
 
 Competitividade regional na sociedade da informação e do conhecimento;
 
@@ -3692,7 +3692,7 @@ Os projectos aprovados previam a execução de 3.798 Acções de formação, rep
 
 Acresce referir que em todas as Ilhas do Arquipélago, foi prevista a realização de formação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 A aplicação do Fundo de Coesão na Região Autónoma dos Açores no período de programação 2007-2013 estrutura-se e combina duas grandes linhas de orientação: corresponder às áreas de intervenção definidas para este fundo comunitário e, principalmente, financiar projectos relevantes e complementares da intervenção operacional comparticipada pelo fundo estrutural FEDER, designadamente nos eixos prioritários relativos às redes de infra-estruturas de acessibilidades e à valorização e qualificação do sistema ambiental.
 
@@ -3716,7 +3716,7 @@ Eixo IV - Redes e equipamentos estruturantes das RAA
 
 Ponto de situação a 31 de Agosto de 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 O Programa de Desenvolvimento Rural da Região Autónoma dos Açores (PRORURAL), enquadra-se no período de programação 2007-2013 da política da União Europeia de desenvolvimento rural, sendo comparticipado pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER).
 
@@ -3796,7 +3796,7 @@ Até esta data registaram-se aprovações no valor de 132 997 405,26 (euro) e pa
 
 N.º de Pedidos de Apoio e Montantes Aprovados no âmbito do PRORURAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 O Programa PROPESCAS assenta no apoio ao investimento no âmbito dos projectos co-financiados pelo Fundo Europeu das Pescas visando, numa abordagem sistémica, a criação das condições para a competitividade e sustentabilidade, a longo prazo, do sector pesqueiro regional, tendo em conta a aplicação de regimes de exploração biológica e ecologicamente racionais; a melhor organização do ramo da captura, transformação e comercialização e o reforço da competitividade da actividade produtiva empresarial, com a diversificação, inovação, acréscimo de mais-valias e garantia da qualidade dos produtos da pesca.
 
@@ -3826,7 +3826,7 @@ Eixo Prioritário 5 - Assistência Técnica
 
 A inclusão deste eixo é justificada pela necessidade de garantir as condições necessárias à implementação e funcionamento do sistema e estrutura de gestão, acompanhamento, avaliação, controlo e divulgação do PROPESCAS, visando o sucesso da estratégia de desenvolvimento definida para o sector.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 O Programa de Cooperação Transnacional Açores - Madeira - Canárias, para o período de programação 2007-2013, constitui uma aposta na cooperação como elemento de valor para o desenvolvimento integrado das regiões envolvidas e destas com os países terceiros circunvizinhos.
 
@@ -3872,7 +3872,7 @@ A repartição do FEDER, para a Região Autónoma dos Açores, estrutura-se da s
 
 PCT-MAC - Repartição por Eixo Prioritário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Em termos de aprovações de projectos, procedeu-se ao lançamento de 2 convocatórias, que deram origem à aprovação de 55 projectos com participação de parceiros açorianos.
 
@@ -3884,22 +3884,22 @@ Apresenta-se de seguida o ponto de situação actualizado a 31 de Agosto de 2010
 
 PCT-MAC - Ponto de situação a 31 de Agosto de 2010
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Investimento Público 2011
 
 Desagregação por Objectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
 
 Desagregação Espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf))](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/01/00300/0001400097.pdf)

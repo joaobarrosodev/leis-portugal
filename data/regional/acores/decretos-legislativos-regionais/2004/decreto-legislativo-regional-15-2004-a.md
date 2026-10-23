@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/04/082a00/21692179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2004/04/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2004-218504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da821809688fef924b121dee6be3a98ea90ac88b9fa395f6f04370704d266a08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad36105eb302287d5f0951e17814d875395a80c55d31f282968c18778b74174a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Angra do Heroísmo
-- Publicidade
-- Imóvel Classificado
-- Multa
-- Estrada
-- Obras de Conservação e Restauro
-- Renovação Urbana
-- Património Cultural
-- Gabinete da ZONA Classificada de Angra do Heroísmo
-- Interesse Público
-- Património Mundial
-- Zona de Proteção
-- Protecção do Património
-- Câmara Municipal
-- Administração Regional
 - Açores
+- Administração Regional
+- Angra do Heroísmo
+- Câmara Municipal
+- Estrada
+- Gabinete da ZONA Classificada de Angra do Heroísmo
+- Imóvel Classificado
+- Interesse Público
+- Multa
+- Obras de Conservação e Restauro
+- Património Cultural
+- Património Mundial
+- Protecção do Património
+- Publicidade
+- Renovação Urbana
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:66426484:por
@@ -107,16 +107,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692987:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66426484:por
+  label: Revogado, a partir de 06.03.2015, pelo(a) Decreto Legislativo Regional n.º 3/2015/A - Diário da República n.º 24/2015,
+    Série I de 2015-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2015-66426484
+  date: '2015-02-04'
 article_structure:
   article_count: 35
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:59Z'
   warnings: []
   errors: []
 ---
@@ -661,13 +699,13 @@ c) O Despacho Normativo n.º 83/2000, de 18 de Maio.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 12 de Fevereiro de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 12 de Março de 2004.**
+Assinado em Angra do Heroísmo em 12 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — (planta a que se refere o n.º 2 do artigo 3.º)
 

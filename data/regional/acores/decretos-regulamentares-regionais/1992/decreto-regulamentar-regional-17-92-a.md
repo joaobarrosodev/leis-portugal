@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/1992/04/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1992-217712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03c92a993eda2c9c426250b3b85c05f571e963707e8429793e66a85f1acf3ab1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8b234b69f5bd55337b6800f3251db8c82be007565bbc242db7493fa8585ade4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Regional do Tesouro
-- Sistema Retributivo
+- Açores
 - Carreira Profissional
+- Direcção Regional do Tesouro
 - Gestão do Património
 - Pessoal Técnico
 - Reestruturação de Carreiras
 - Remuneração
 - Secretaria Regional das Finanças e Planeamento
-- Açores
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:513986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:01Z'
   warnings: []
   errors: []
 ---
@@ -140,22 +144,22 @@ O presente diploma entra em vigor na data da sua publicação, produzindo, poré
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 26 de Fevereiro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 17 de Março de 1992.**
+Assinado em Angra do Heroísmo em 17 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 MAPA I
 
 Carreira técnica do património
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/094b00/18871888.pdf))](https://files.diariodarepublica.pt/1s/1992/04/094b00/18871888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/094b00/18871888.pdf)
 
 MAPA II
 
 Transição dos funcionários da carreira da Direcção de Serviços do Património da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/04/094b00/18871888.pdf))](https://files.diariodarepublica.pt/1s/1992/04/094b00/18871888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/04/094b00/18871888.pdf)

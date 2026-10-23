@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/10400/19111911.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1987-421051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c0f239afc9fb7f2207ca177d399881fd11f4727934b5fc5fca31d6b4ecc47e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 002344bfac389067d545a8017dd1720e059517ea27999f5af8732528419094cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Alvará
+- Atestado Médico
+- Controlo Sanitário
+- Direcção Regional de Saúde
+- Licença de Habitação
+- Licenciamento de Obras
+- Obras Particulares
+- TAXA de Prestação de Serviços
+- Trasladação de Cadáver
+- Vacinação
+- Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:472170:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353542:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218292:por
+  label: Rectificado pela DECL.DD3042.1987.05.26.PCM, DR.IS [124]-2ºSupl de 30/Mai/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-218292
+  date: '1987-05-26'
+- type: corrected_by
+  target: pt:dre:449759:por
+  label: Rectificado [procedendo à tabela anexa referida no art. 1º] pela DECL.DD4397.20.07.1987.PCM, DR.IS [174-Supl] de
+    31.07.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-449759
+  date: '1987-07-20'
+- type: repealed_by
+  target: pt:dre:472170:por
+  label: "Revogado pelo DRR.18/98/A.1998.05.18.SREAS-RAA, DR.IS-B [133] de 09/Jun/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-1998-472170
+  date: '1998-05-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:47Z'
   warnings: []
   errors: []
 ---
@@ -94,24 +146,24 @@ Tal aplicação tem-se feito, no entanto, com base em critérios e em valores d�
 
 Assim, com o objectivo de assegurar o bom funcionamento dos serviços, conforme dispõe a segunda parte da alínea b) do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º As taxas a cobrar pelos serviços dependentes da Direcção Regional de Saúde por motivos sanitários são as constantes da tabela anexa.
+Artigo 1.º As taxas a cobrar pelos serviços dependentes da Direcção Regional de Saúde por motivos sanitários são as constantes da tabela anexa.
 
-###### Art. 2.º O produto das taxas a que se refere a tabela anexa ao presente diploma constitui, na totalidade, receita da Região Autónoma dos Açores.
+Art. 2.º O produto das taxas a que se refere a tabela anexa ao presente diploma constitui, na totalidade, receita da Região Autónoma dos Açores.
 
-###### Art. 3.º As taxas que forem fixadas englobam emolumentos anteriormente previstos, os quais, por essa razão, deixarão de se cobrar, excepto quando for expressamente determinado o contrário.
+Art. 3.º As taxas que forem fixadas englobam emolumentos anteriormente previstos, os quais, por essa razão, deixarão de se cobrar, excepto quando for expressamente determinado o contrário.
 
-###### Art. 4.º - 1 - As câmaras municipais só poderão passar licenças para obras, habitações ou ocupações de prédios nos casos em que seja devida taxa sanitária mediante apresentação de documentos comprovativos do pagamento dessa taxa.
+Art. 4.º - 1 - As câmaras municipais só poderão passar licenças para obras, habitações ou ocupações de prédios nos casos em que seja devida taxa sanitária mediante apresentação de documentos comprovativos do pagamento dessa taxa.
 
 2 - Dos actos administrativos referidos no número anterior constará expressamente a menção do pagamento das taxas sanitárias.
 
-###### Art. 5.º O presente diploma anula a aplicação na Região de toda a legislação sobre a matéria em causa.
+Art. 5.º O presente diploma anula a aplicação na Região de toda a legislação sobre a matéria em causa.
 
-###### Art. 6.º O presente diploma entra em vigor a partir da data da sua publicação.
+Art. 6.º O presente diploma entra em vigor a partir da data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 18 de Fevereiro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 27 de Março de 1987.**
+Assinado em Angra do Heroísmo em 27 de Março de 1987.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

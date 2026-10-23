@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1982-600099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f2979e7842e3ad145166fed399de519012c4325c10f255be867370bbf546c0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ac7d62359e7e266598e7677f11df10e222855f7ef49f708ef79299bdd2cab81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Criação de Lugares
+- Direcção Regional dos Assuntos Culturais
+- Quadro de Pessoal
+- Secretaria Regional da Educação e Cultura
+relationships:
+- type: cites
+  target: pt:dre:394727:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:41Z'
   warnings: []
   errors: []
 ---
@@ -88,24 +97,24 @@ O aumento das atribuições das direcções regionais tem-se reflectido nos serv
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O quadro de pessoal da Direcção Regional dos Assuntos Culturais, aprovado pelo [Decreto Regulamentar Regional n.º 27/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1981-394727), de 29 de Abril, passa a ser o constante do quadro anexo ao presente diploma.
+Artigo 1.º - 1 - O quadro de pessoal da Direcção Regional dos Assuntos Culturais, aprovado pelo [Decreto Regulamentar Regional n.º 27/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1981-394727), de 29 de Abril, passa a ser o constante do quadro anexo ao presente diploma.
 
 2 - São acrescidos ao quadro de pessoal da Repartição dos Serviços Administrativos, aprovado pelo decreto regulamentar regional referido no n.º 1 do presente artigo, 2 lugares de primeiro-oficial, com a remuneração correspondente à letra J.
 
-###### Art. 2.º O presente diploma entra em vigor na data da sua aprovação.
+Art. 2.º O presente diploma entra em vigor na data da sua aprovação.
 
 Aprovado em Conselho em 22 de Dezembro de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 26 de Janeiro de 1982.**
+Assinado em Angra do Heroísmo em 26 de Janeiro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro a que se refere o n.º 1 do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/04100/03660366.pdf))](https://files.diariodarepublica.pt/1s/1982/02/04100/03660366.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/02/04100/03660366.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1985-325501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c48da1f89837cd29b89da2d99db4cb843f3f43dfe6356758b267baf344624f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30dee201fa3abbf1be2d4d31f510001f92c9209ee3167579140a2035868af286
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comércio
+- Convenção
+- Espécie Protegida
+- Madeira.região Autónoma
+- Parque Natural da Madeira
+- Proteção do Ambiente
+- Washington
+relationships:
+- type: cites
+  target: pt:dre:385434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472556:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:01Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +106,16 @@ Para efeitos da aplicação da referida Convenção e do [Decreto-Lei n.º 219/8
 
 Assim, a Assembleia Regional da Madeira decreta, nos termos da alínea b) do artigo 229.º da Constituição da República Portuguesa e do n.º 3 do artigo 3.º do [Decreto-Lei n.º 219/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1984-385434), de 4 de Julho, o seguinte:
 
-###### Artigo 1.º Para efeitos da aplicação da Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção e do [Decreto-Lei n.º 219/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1984-385434), de 4 de Julho, na Região Autónoma da Madeira, o Parque Natural da Madeira é designado a Autoridade Administrativa Regional.
+Artigo 1.º Para efeitos da aplicação da Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçadas de Extinção e do [Decreto-Lei n.º 219/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1984-385434), de 4 de Julho, na Região Autónoma da Madeira, o Parque Natural da Madeira é designado a Autoridade Administrativa Regional.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 12 de Fevereiro de 1985.
 
-**O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 1 de Março de 1985.**
+Assinado em 1 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

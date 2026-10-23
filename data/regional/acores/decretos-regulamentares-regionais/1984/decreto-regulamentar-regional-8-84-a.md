@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/02/03000/03800380.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1984-660506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0658f7a75c913ebb0c82f3a5b53e740b172f7926af5c40d134130986dacaac06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 119c4d606231cb16e9a1d434d3e180d265d906c10813a074023a7ee70bb5fc21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Governo Regional
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:539010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:182405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649695:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:539010:por
+  label: "Revogado pelo DRR.20/2001/A.2001.11.27.PG-RAA,DR.IS-B (292)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2001-539010
+  date: '2001-11-27'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:21Z'
   warnings: []
   errors: []
 ---
@@ -100,27 +144,27 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição e da segunda parte da alínea b) do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º Salvo o disposto em lei especial, nos serviços dependentes da Presidência do Governo e das secretarias regionais serão cobradas as taxas constantes da tabela anexa.
+Artigo 1.º Salvo o disposto em lei especial, nos serviços dependentes da Presidência do Governo e das secretarias regionais serão cobradas as taxas constantes da tabela anexa.
 
-###### Art. 2.º Ficam isentos de taxa os atestados de pobreza ou indigência, os que se destinem a instruir processos para a concessão de abono de família e quaisquer outros que estejam isentos de imposto do selo.
+Art. 2.º Ficam isentos de taxa os atestados de pobreza ou indigência, os que se destinem a instruir processos para a concessão de abono de família e quaisquer outros que estejam isentos de imposto do selo.
 
-###### Art. 3.º O produto das taxas a que se refere a tabela anexa ao presente diploma constitui, na totalidade, receita da Região Autónoma dos Açores.
+Art. 3.º O produto das taxas a que se refere a tabela anexa ao presente diploma constitui, na totalidade, receita da Região Autónoma dos Açores.
 
-###### Art. 4.º O presente diploma entra em vigor em 1 de Janeiro de 1984.
+Art. 4.º O presente diploma entra em vigor em 1 de Janeiro de 1984.
 
 Aprovado em Conselho do Governo Regional em 20 de Dezembro de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Janeiro de 1984.**
+Assinado em Angra do Heroísmo em 20 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Tabela a que se refere o artigo 1.º do Decreto Regulamentar Regional n.º 8/84/A
 
-###### Artigo 1.º Taxas a cobrar pela prestação dos seguintes serviços:
+Artigo 1.º Taxas a cobrar pela prestação dos seguintes serviços:
 
 1) Afixação de editais relativos a pretensões que não sejam de interesse público - cada edital ... 360$00
 
@@ -164,6 +208,6 @@ b) Sendo fotocopiada só numa das faces ... 25$00
 
 13) Termos de entrega de documentos juntos a processos cuja restituição haja sido autorizada ... 120$00
 
-###### Art. 2.º Fornecimento, a pedido dos interessados, de documentos necessários à substituição dos que tenham sido extraviados ou estejam em mau estado - cada documento 60$00.
+Art. 2.º Fornecimento, a pedido dos interessados, de documentos necessários à substituição dos que tenham sido extraviados ou estejam em mau estado - cada documento 60$00.
 
-###### Art. 3.º Outras prestações de serviços ao público, quando não haja taxa especialmente prevista - a fixar pelo Governo Regional, mediante proposta do Secretário Regional das Finanças.
+Art. 3.º Outras prestações de serviços ao público, quando não haja taxa especialmente prevista - a fixar pelo Governo Regional, mediante proposta do Secretário Regional das Finanças.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/1993/10/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1993-666755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f839b61883287a0e2a22782ed859443f793900c74dbe34d8ff808d4e419feac7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fba034ca86d36414a43bac4463cb4b48acdf04cb8f6b1051fa9108abf2fc8fe7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Centro de Saúde
 - Nordeste
 - Pessoal de Enfermagem
 - Pessoal Técnico
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/33/1991/10/01/a/dre
@@ -84,16 +84,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/1992/02/05/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/1992/02/05/a/dre
+- type: cites
+  target: pt:dre:151075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:17Z'
   warnings: []
   errors: []
 ---
@@ -108,18 +128,18 @@ Por outro lado, importa ainda criar um lugar de técnico de diagnóstico e terap
 
 Assim, em execução do artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. O quadro de pessoal do Centro de Saúde do Nordeste, aprovado pelo [Decreto Regulamentar Regional n.º 46/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/46-1988-354160), de 18 de Outubro, com as alterações introduzidas pelos Decretos Regulamentares Regionais n.os [33/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1991-294155), de 1 de Outubro, [6/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1992-151075), de 5 de Fevereiro, e [35/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1992-283311), de 12 de Agosto, é alterado, de acordo com o quadro anexo ao presente diploma, do qual faz parte integrante.
+Artigo único. O quadro de pessoal do Centro de Saúde do Nordeste, aprovado pelo [Decreto Regulamentar Regional n.º 46/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/46-1988-354160), de 18 de Outubro, com as alterações introduzidas pelos Decretos Regulamentares Regionais n.os [33/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1991-294155), de 1 de Outubro, [6/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1992-151075), de 5 de Fevereiro, e [35/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1992-283311), de 12 de Agosto, é alterado, de acordo com o quadro anexo ao presente diploma, do qual faz parte integrante.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 8 de Setembro de 1993.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 29 de Setembro de 1993.**
+Assinado em Angra do Heroísmo em 29 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Centro de Saúde do Nordeste
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/249b00/60336034.pdf))](https://files.diariodarepublica.pt/1s/1993/10/249b00/60336034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/10/249b00/60336034.pdf)

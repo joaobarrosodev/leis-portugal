@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/04/08300/14651479.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,120 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1987-666126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0934be50665799d86fff98a18c9bf3843c82393d3a894657711488ccde1d98a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8581745e20202443be019c99164f7b989eb9d2b3575769e80d5a4b338c2e1afa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Regional da Energia
+- Direcção Regional da Indústria
+- Direcção Regional do Comércio
+- Orgânica
+- Secretaria Regional do Comércio e Indústria
 relationships:
 - type: amended_by
   target: pt:dre:332726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420228:por
+  label: "Dada nova redacção aos arts. 62º e 66º pelo DRR.18/87/A.11.07.1987.GR-RAA, DR.IS [157] de 11.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-1987-420228
+  date: '1987-07-11'
+- type: amended_by
+  target: pt:dre:285169:por
+  label: "Aditado o art. 66.º-A ao presente diploma, pelo DRR.17/88/A.19.04.1988.GR-RAA, DR.IS [91] de 19.04.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1988-285169
+  date: '1988-04-19'
+- type: amended_by
+  target: pt:dre:332726:por
+  label: Determinada a extinção da Central Leiteira de São Miguel (CLSM) e revogado o presente diploma, pelo(a) Decreto Regulamentar
+    Regional n.º 9/90/A - Diário da República n.º 57/1990, Série I de 1990-03-09, sem prejuízo do disposto no n.º 3 do art.
+    58.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1990-332726
+  date: '1990-03-09'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218167:por
+  label: Rectificado pela DECL.DD3031.1987.05.19.PCM, DR.IS [124]2ºSupl de 30/Mai/1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-218167
+  date: '1987-05-19'
+- type: repealed_by
+  target: pt:dre:356730:por
+  label: "Revogados a al. b) do art. 21.º e o art. 26.º do presente diploma pelo DRR.74/88/A.06.12.1988.GR-RAA, DR.IS [281]\
+    \ de 06.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/74-1988-356730
+  date: '1988-12-06'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DRR 9/90/A DE 07-FEV DR.IS [57] DE 09/MAR/1990, SEM PREJUIZO DO DISPOSTO NO NUM 3 DO ART 58 DO REFERIDO\
+    \ DIPLOMA.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1990-03-09'
 article_structure:
   article_count: 69
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:46Z'
   warnings: []
   errors: []
 ---
@@ -253,7 +333,9 @@ a) Contabilidade e Património (SCP);
 
 b) Expediente e Pessoal (SEP).
 
-###### Artigo 10.º — Secção de Contabilidade e Património
+###### Artigo 10.º
+
+#### Secção de Contabilidade e Património
 
 À SCP compete, em especial:
 
@@ -265,7 +347,9 @@ c) Assegurar o apetrechamento e fornecimento dos bens necessários para os servi
 
 d) Organizar os processos de liquidação de despesas previstas no orçamento.
 
-###### Artigo 11.º — Secção de Expediente e Pessoal
+###### Artigo 11.º
+
+#### Secção de Expediente e Pessoal
 
 À SEP compete, em especial:
 
@@ -329,7 +413,9 @@ a) Divisão do Comércio Interno (DCI);
 
 b) Divisão do Comércio Externo (DCE).
 
-###### Artigo 16.º — Divisão do Comércio Interno
+###### Artigo 16.º
+
+##### Divisão do Comércio Interno
 
 À DCI compete, em especial:
 
@@ -347,7 +433,9 @@ f) Efectuar estudos e acções que superiormente lhe sejam determinados;
 
 g) Realizar as demais incumbências da área específica das funções que lhe sejam superiormente determinadas.
 
-###### Artigo 17.º — Divisão do Comércio Externo
+###### Artigo 17.º
+
+##### Divisão do Comércio Externo
 
 À DCE compete em especial:
 
@@ -457,7 +545,9 @@ a) Divisão de Fomento e Licenciamento Industrial (DFLI);
 
 b) Divisão de Qualidade e Metrologia (DQM).
 
-###### Artigo 24.º — Divisão de Fomento e Licenciamento Industrial
+###### Artigo 24.º
+
+##### Divisão de Fomento e Licenciamento Industrial
 
 À DFLI compete, em especial:
 
@@ -475,7 +565,9 @@ f) Organizar e promover as acções de fomento adequadas ao sector, integrando-a
 
 g) Efectuar as demais tarefas que superiormente lhe forem cometidas nas áreas da sua actuação.
 
-###### Artigo 25.º — Divisão de Qualidade e Metrologia
+###### Artigo 25.º
+
+##### Divisão de Qualidade e Metrologia
 
 À DQM compete, em especial:
 
@@ -529,7 +621,9 @@ a) Divisão de Energia e Combustíveis (DEC);
 
 b) Divisão de Electricidade (DE).
 
-##### SUBSECÇÃO I — Divisão de Energia e Combustíveis
+##### SUBSECÇÃO I
+
+##### Divisão de Energia e Combustíveis
 
 ###### Artigo 29.º — Competências
 
@@ -553,7 +647,9 @@ h) Pronunciar-se sobre a política de abastecimento de combustíveis à Região;
 
 i) Executar e prosseguir as acções e medidas que por lei, regulamento ou determinação superior lhe sejam cometidas na área específica das suas funções.
 
-##### SUBSECÇÃO II — Divisão de Electricidade
+##### SUBSECÇÃO II
+
+##### Divisão de Electricidade
 
 ###### Artigo 30.º — Competências
 
@@ -935,7 +1031,7 @@ A integração na SRCI e serviços dela dependentes do pessoal que transita do S
 
 ###### Artigo 67.º — Definições várias
 
-**O Secretário Regional do Comércio e Indústria definirá, por despacho, a estrutura, as atribuições, a competência e o funcionamento dos serviços de categoria inferior a divisão.**
+O Secretário Regional do Comércio e Indústria definirá, por despacho, a estrutura, as atribuições, a competência e o funcionamento dos serviços de categoria inferior a divisão.
 
 ###### Artigo 68.º — Resolução de dúvidas
 
@@ -947,14 +1043,14 @@ As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas po
 
 Aprovado em Conselho do Governo Regional, na Horta, em 22 de Janeiro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 18 de Março de 1987.**
+Assinado em Angra do Heroísmo em 18 de Março de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.
 
 ## ANEXO I — Mapa de pessoal a que se refere o n.º 1 do artigo 45.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/04/08300/14651479.pdf))](https://files.diariodarepublica.pt/1s/1987/04/08300/14651479.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/08300/14651479.pdf)

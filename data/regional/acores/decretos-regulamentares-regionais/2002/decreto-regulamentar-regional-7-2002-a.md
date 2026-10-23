@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2002/02/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2002-284369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 071480d707c48d3d503a5e6a4004375fe4577558df47ba350c866166d4eaad6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef8e6a68c194b80ca25ee266457f3399a896e8d25ab5b2be26b1d7a2b56412de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Secretaria Regional da Habitação e Equipamentos
-- Orgânica
-- Gestão de Recursos Humanos
 - Açores
+- Gestão de Recursos Humanos
+- Governo Regional
+- Orgânica
+- Secretaria Regional da Habitação e Equipamentos
 relationships:
 - type: amended_by
   target: pt:dre:280199:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247225:por
+  label: "Alterado o art. 65º da orgânica da SRHE aprovada pelo DRR 12/98/A de 06-Mai, com a redacção conferida no presente\
+    \ diploma, pelo DRR.4/2008/A.10.03.2008.PG-RAA, DR.IS [49] de 10.03.2008 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2008-247225
+  date: '2008-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/12/1998/05/06/a/dre
   label: null
@@ -84,16 +90,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516914:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280199:por
+  label: "Revogado o DRR 12/98/A, de 06-Maio, na redacção do presente diploma, pelo DRR.4/2011/A.31.01.2011.PG-RAA, DR.IS\
+    \ [21] de 31.01.2011, na parte que se refere à orgânica e ao quadro do pessoal dirigente, de direcção específica e de\
+    \ chefia por ele aprovados e sem prejuízo do disposto no seu artigo 7º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2011-280199
+  date: '2011-01-31'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:39Z'
   warnings: []
   errors: []
 ---
@@ -132,10 +153,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 5 de Novembro de 2001.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 18 de Janeiro de 2002.**
+Assinado em Angra do Heroísmo em 18 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/1995/07/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1995-484988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e3d60345a3f61c848aad9081a446766158d036590d07c11eb60214a65593dc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc77fd5e980dcd3aad5334d2916bfbfd5548e523784be6ba056c21c036351b60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
+- Administração Pública
+- Administração Regional
+- Autarquia Local
+- Benefícios Fiscais
 - Contribuições da Segurança Social
+- Contribuições e Impostos
 - Dívidas à Segurança Social
 - Dívidas ao Estado
 - Doação
-- Administração Pública
-- Contribuições e Impostos
+- Financiamento
 - Indemnização
 - Isenção Fiscal
 - Jornal Oficial
 - Publicitação
-- Benefícios Fiscais
 - Setor Privado
-- Administração Regional
-- Açores
 - Subsídio
 - Transferência de Capitais
 - Transferência de Verbas
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/26/1994/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/1994/08/19/p/dre
+- type: cites
+  target: pt:dre:218491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:35Z'
   warnings: []
   errors: []
 ---
@@ -112,20 +116,20 @@ A [Lei n.º 26/94](https://diariodarepublica.pt/dr/detalhe/lei/26-1994-218491), 
 
 Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Antónoma dos Açores, o seguinte:
 
-###### Artigo 1.º A [Lei n.º 26/94](https://diariodarepublica.pt/dr/detalhe/lei/26-1994-218491), de 19 de Agosto, aplica-se na Região Autónoma dos Açores, com as adaptações constantes dos artigos seguintes.
+Artigo 1.º A [Lei n.º 26/94](https://diariodarepublica.pt/dr/detalhe/lei/26-1994-218491), de 19 de Agosto, aplica-se na Região Autónoma dos Açores, com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º As referências feitas nos artigos 1.º, n.º 1, e 3.º, n.º 1, da [Lei n.º 26/94](https://diariodarepublica.pt/dr/detalhe/lei/26-1994-218491), de 19 de Agosto, aos ministérios, às instituições de segurança social, aos fundos e serviços autónomos e aos institutos públicos consideram-se reportadas, na Região, aos organismos e serviços correspondentes da administração regional autónoma e abrangem as despesas do Plano.
+Art. 2.º As referências feitas nos artigos 1.º, n.º 1, e 3.º, n.º 1, da [Lei n.º 26/94](https://diariodarepublica.pt/dr/detalhe/lei/26-1994-218491), de 19 de Agosto, aos ministérios, às instituições de segurança social, aos fundos e serviços autónomos e aos institutos públicos consideram-se reportadas, na Região, aos organismos e serviços correspondentes da administração regional autónoma e abrangem as despesas do Plano.
 
-###### Art. 3.º As referências feitas nos artigos 4.º, n.º 1, e 5.º da [Lei n.º 26/94](https://diariodarepublica.pt/dr/detalhe/lei/26-1994-218491), de 19 de Agosto, ao Estado e à Conta Geral do Estado consideram-se reportadas, respectivamente, à Região Autónoma dos Açores e à Conta da Região.
+Art. 3.º As referências feitas nos artigos 4.º, n.º 1, e 5.º da [Lei n.º 26/94](https://diariodarepublica.pt/dr/detalhe/lei/26-1994-218491), de 19 de Agosto, ao Estado e à Conta Geral do Estado consideram-se reportadas, respectivamente, à Região Autónoma dos Açores e à Conta da Região.
 
-###### Art. 4.º A referência feita no artigo 3.º, n.º 1, da [Lei n.º 26/94](https://diariodarepublica.pt/dr/detalhe/lei/26-1994-218491), de 19 de Agosto, ao Diário da República considera-se reportada ao Jornal Oficial.
+Art. 4.º A referência feita no artigo 3.º, n.º 1, da [Lei n.º 26/94](https://diariodarepublica.pt/dr/detalhe/lei/26-1994-218491), de 19 de Agosto, ao Diário da República considera-se reportada ao Jornal Oficial.
 
 Aprovado pela Assembleia Legislativa Regional, na Horta, em 31 de Maio de 1995.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em 4 de Julho de 1995 em Angra do Heroísmo.**
+Assinado em 4 de Julho de 1995 em Angra do Heroísmo.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

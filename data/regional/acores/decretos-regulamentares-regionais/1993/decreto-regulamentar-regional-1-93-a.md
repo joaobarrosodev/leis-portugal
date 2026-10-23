@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 26/1993, 1º Suplemento, Série I-B de 1993-02-01
   number: '26'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 422-(2) a 422-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/026b01/00020015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/1993/02/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1993-470840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 273b951b553af4ff9799f392de813826b6808b26c67011b5696ec8930b4718a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 598bb60c2e18c1e52085494d0e01f84c9156f94a264cb9e43c50fb43ec7b3051
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Governo Regional
+- Açores
 - Definição de Competências
-- Direcção Regional dos Assuntos Culturais
 - Direcção Regional da Educação Física e Desporto
-- Gabinete da ZONA Classificada de Angra do Heroísmo
-- Secretaria Regional da Educação e Cultura
-- Inspecção Regional de Educação
 - Direcção Regional de Educação
+- Direcção Regional dos Assuntos Culturais
+- Gabinete da ZONA Classificada de Angra do Heroísmo
+- Governo Regional
+- Inspecção Regional de Educação
 - Orgânica
 - Quadro de Pessoal
-- Açores
+- Reestruturação de Serviços
+- Secretaria Regional da Educação e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:516879:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:296791:por
+  label: "Alterado o mapa anexo ao presente diploma, pelo DRR.7/94/A.20.07.1994.GR-RAA, DR.IS-B [166] de 20.07.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1994-296791
+  date: '1994-07-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -98,16 +103,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/42/1991/12/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/42/1991/12/27/a/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516879:por
+  label: "Revogado pelo DRR.11/98/A.1998.04.13.SREAS-RAA, DR.IS-B [103] de 05/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1998-516879
+  date: '1998-04-13'
 article_structure:
   article_count: 60
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:12Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +296,9 @@ a) A Secção de Pessoal, Expediente e Arquivo (SPEA);
 
 b) A Secção de Contabilidade (SC).
 
-###### Artigo 10.º — Secção de Pessoal, Expediente e Arquivo (SPEA)
+###### Artigo 10.º
+
+#### Secção de Pessoal, Expediente e Arquivo (SPEA)
 
 Compete à SPEA, designadamente:
 
@@ -256,7 +320,9 @@ h) Realizar as acções relativas à aquisição, conservação, reparação, lo
 
 i) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis dos serviços centrais da SREC.
 
-###### Artigo 11.º — Secção de Contabilidade (SC)
+###### Artigo 11.º
+
+#### Secção de Contabilidade (SC)
 
 Compete à SC, designadamente:
 
@@ -338,7 +404,9 @@ b) Divisão dos 2.º e 3.º Ciclos do Ensino Básico e do Ensino Secundário (DE
 
 c) Divisão da Extensão Educativa (DExtE).
 
-###### Artigo 15.º — Divisão da Educação Especial, Pré-Escolar e 1.º Ciclo do Ensino Básico (DEPEB)
+###### Artigo 15.º
+
+##### Divisão da Educação Especial, Pré-Escolar e 1.º Ciclo do Ensino Básico (DEPEB)
 
 À DEPEB compete, nomeadamente:
 
@@ -358,7 +426,9 @@ g) Emitir parecer sobre os assuntos a submeter a despacho superior e propor os n
 
 h) Estudar e propor a concessão de equivalências de estudos.
 
-###### Artigo 16.º — Divisão dos 2.º e 3.º Ciclos do Ensino Básico e do Ensino Secundário (DEBS)
+###### Artigo 16.º
+
+##### Divisão dos 2.º e 3.º Ciclos do Ensino Básico e do Ensino Secundário (DEBS)
 
 À DEBS compete, nomeadamente:
 
@@ -378,7 +448,9 @@ g) Estudar e propor a concessão de equivalências de estudos;
 
 h) Elaborar e encaminhar os processos relativos às candidaturas de ingresso no ensino superior.
 
-###### Artigo 17.º — Divisão da Extensão Educativa (DExtE)
+###### Artigo 17.º
+
+##### Divisão da Extensão Educativa (DExtE)
 
 À DExtE compete, nomeadamente:
 
@@ -426,7 +498,9 @@ b) Divisão do Pessoal não Docente (DPND);
 
 c) Sector de Colocações (SC).
 
-###### Artigo 19.º — Divisão do Pessoal Docente (DPD)
+###### Artigo 19.º
+
+##### Divisão do Pessoal Docente (DPD)
 
 À DPD compete, nomeadamente:
 
@@ -440,7 +514,9 @@ d) Estudar e propor os reajustamentos da rede escolar;
 
 e) Emitir parecer sobre as questões a submeter a despacho superior e propor os normativos adequados, tendo em vista a racionalização e a melhoria qualitativa do sistema.
 
-###### Artigo 20.º — Divisão do Pessoal não Docente (DPND)
+###### Artigo 20.º
+
+##### Divisão do Pessoal não Docente (DPND)
 
 À DPND compete, nomeadamente:
 
@@ -498,7 +574,9 @@ b) Divisão de Formação (DF);
 
 c) Divisão de Orientação Escolar e Profissional (DOEP).
 
-###### Artigo 23.º — Divisão de Inovação Educativa (DIE)
+###### Artigo 23.º
+
+##### Divisão de Inovação Educativa (DIE)
 
 Compete à DIE, nomeadamente:
 
@@ -512,7 +590,9 @@ d) Estudar e propor medidas de organização escolar que aperfeiçoem o funciona
 
 e) Emitir parecer sobre as questões a submeter a despacho superior e propor os normativos adequados.
 
-###### Artigo 24.º — Divisão de Formação (DF)
+###### Artigo 24.º
+
+##### Divisão de Formação (DF)
 
 Compete à DF, nomeadamente:
 
@@ -532,7 +612,9 @@ g) Propor e executar supletivamente planos de formação nas áreas de educaçã
 
 h) Emitir parecer sobre assuntos a submeter a despacho superior e propor os normativos adequados à prossecução dos seus objectivos.
 
-###### Artigo 25.º — Divisão de Orientação Escolar e Profissional (DOEP)
+###### Artigo 25.º
+
+##### Divisão de Orientação Escolar e Profissional (DOEP)
 
 Compete à DOEP, nomeadamente:
 
@@ -578,7 +660,9 @@ b) Divisão de Equipamentos Educativos (DEqE);
 
 c) Divisão de Estudos e Estatística (DEE).
 
-###### Artigo 27.º — Divisão de Gestão Financeira (DGF)
+###### Artigo 27.º
+
+##### Divisão de Gestão Financeira (DGF)
 
 À DGF compete, nomeadamente:
 
@@ -594,7 +678,9 @@ e) Estudar e propor a concessão de subsídios e outros apoios ao ensino particu
 
 f) Emitir parecer sobre assuntos a submeter a despacho superior e propor os normativos adequados.
 
-###### Artigo 28.º — Divisão de Equipamentos Educativos (DEqE)
+###### Artigo 28.º
+
+##### Divisão de Equipamentos Educativos (DEqE)
 
 À DEqE compete, nomeadamente:
 
@@ -612,7 +698,9 @@ f) Coordenar a implementação de normas de segurança nas instalações dos ser
 
 g) Emitir parecer sobre assuntos a submeter a despacho superior e propor os normativos adequados.
 
-###### Artigo 29.º — Divisão de Estudos e Estatística (DEE)
+###### Artigo 29.º
+
+##### Divisão de Estudos e Estatística (DEE)
 
 À DEE compete, nomeadamente:
 
@@ -696,7 +784,9 @@ a) A Divisão da Educação Física (DEF);
 
 b) A Divisão de Formação e Desporto Escolar (DFDE).
 
-###### Artigo 32.º — Divisão da Educação Física (DEF)
+###### Artigo 32.º
+
+##### Divisão da Educação Física (DEF)
 
 A DEF exerce as suas atribuições relativamente à educação pré-escolar, ensino básico e secundário, competindo-lhe, nomeadamente:
 
@@ -710,7 +800,9 @@ d) Acompanhar o processo de colocação de docentes sem habilitação legal e ga
 
 e) Definir regras relativamente ao desenvolvimento curricular da educação física nos estabelecimentos de ensino.
 
-###### Artigo 33.º — Divisão de Formação e Desporto Escolar (DFDE)
+###### Artigo 33.º
+
+##### Divisão de Formação e Desporto Escolar (DFDE)
 
 A DFDE exerce as suas atribuições relativamente à formação e desporto escolar, competindo-lhe, nomeadamente:
 
@@ -764,7 +856,9 @@ a) Divisão de Recreação e Promoção Desportiva (DRPD);
 
 b) Divisão do Desporto de Rendimento (DDR).
 
-###### Artigo 35.º — Divisão de Recreação e Promoção Desportiva (DRPD)
+###### Artigo 35.º
+
+##### Divisão de Recreação e Promoção Desportiva (DRPD)
 
 Compete à DRPD, nomeadamente:
 
@@ -778,7 +872,9 @@ d) Promover e apoiar a prática desportiva de carácter recreativo e de ocupaç�
 
 e) Promover acções de sensibilização que motivem as populações para a prática desportiva.
 
-###### Artigo 36.º — Divisão do Desporto de Rendimento (DDR)
+###### Artigo 36.º
+
+##### Divisão do Desporto de Rendimento (DDR)
 
 Compete à DDR, nomeadamente:
 
@@ -892,7 +988,9 @@ a) Divisão de Formação e Animação (DFA);
 
 b) Divisão de Actividades Culturais e Editoriais (DACE).
 
-###### Artigo 40.º — Divisão de Formação e Animação (DFA)
+###### Artigo 40.º
+
+##### Divisão de Formação e Animação (DFA)
 
 Compete à DFA, nomeadamente:
 
@@ -906,7 +1004,9 @@ d) Assegurar o apoio a iniciativas individuais ou de grupos, associações e out
 
 e) Colaborar com os museus na elaboração das propostas que visem a definição das respectivas políticas de actuação.
 
-###### Artigo 41.º — Divisão de Actividades Culturais e Editoriais (DACE)
+###### Artigo 41.º
+
+##### Divisão de Actividades Culturais e Editoriais (DACE)
 
 Compete à DACE, nomeadamente:
 
@@ -1086,14 +1186,14 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 9 de Dezembro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 25 de Janeiro de 1993.**
+Assinado em Angra do Heroísmo em 25 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 43.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/026b01/00020015.pdf))](https://files.diariodarepublica.pt/1s/1993/02/026b01/00020015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/026b01/00020015.pdf)

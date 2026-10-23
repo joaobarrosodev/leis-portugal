@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/39/2002/12/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2002-405695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6803621ae26c84ad377944e71fc6cd8440be4c613cd90becceee2c37fc52902
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f69543e68f41e068cd4f00f08d634d5aa5e1049f72b603662ee7aba31b2be8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Orgânica
 - Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:308079:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308079:por
+  label: "Fundido no Instituto para o Desenvolvimento Social dos Açores, I. P. R. A. (IDSA), o Instituto de Gestão de Regimes\
+    \ da Segurança Social (IGRSS) com o Instituto de Acção Social (IAS), e determinada a sucessão pelo Instituto de Gestão\
+    \ Financeira dos Açores, I.P.R.A (IGFSSA) do Centro de Gestão Financeira da Segurança Social, previstos DLR 11/87/A de\
+    \ 26-Jun, com as alterações introduzidas pelo presente diploma, que é revogado, a partir de 23.10.2010, pelo DLR.28/2010/A.22.10.2010.AL-RAA,\
+    \ DR.IS [206] de 22.10.2010, sem prejuízo do disposto no nº 3 do seu art. 27º, e que determinou a transferência para o\
+    \ IDSA dos direitos e das obrigações de que eram titulares ou beneficiários o Instituto de Gestão de Regimes da Segurança\
+    \ Social e o Instituto de Acção Social, e dos arquivos, acervos documentais e bases de dados que lhes digam respeito,\
+    \ nomeadamente em razão das competências, pessoal e património; assim como a trasnferência para o IGSSA dos direitos e\
+    \ das obrigações de que era titular ou beneficiário o Centro de Gestão Financeira da Segurança Social, ao qual sucedeu,\
+    \ e respectivos arquivos, acervos documentais e bases de dados que lhe digam respeito, nomeadamente em razão das competências,\
+    \ pessoal e património. \0. \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2010-308079
+  date: '2010-10-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24/1997/12/17/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/24/1997/12/17/a/dre
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:41Z'
   warnings: []
   errors: []
 ---
@@ -161,13 +188,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Novembro de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo, em 29 de Novembro de 2002.**
+Assinado em Angra do Heroísmo, em 29 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — (a que se refere o artigo 4.º)
 
@@ -183,7 +210,9 @@ Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de No
 
 4 - As instituições regionais de segurança social estão sujeitas à tutela do membro do Governo Regional com competência em matéria de segurança social e a sua acção é coordenada pela Direcção Regional de Segurança Social (DRSS).
 
-## TÍTULO II — CAPÍTULO I
+## TÍTULO II
+
+### CAPÍTULO I
 
 Centro de Gestão Financeira da Segurança Social
 

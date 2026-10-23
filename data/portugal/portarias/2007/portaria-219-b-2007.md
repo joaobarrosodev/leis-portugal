@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 42/2007, 1º Suplemento, Série I de 2007-02-28
   number: '42'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1414-(4) a 1414-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04201/00040006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/219-b/2007/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-b-2007-470052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c61ed2cf66e771838234c0333a2f87cf4a7b363072effead415d300607f45ae9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34569afc0bb4eca846f29f1a30d1c7d1c0086370352f13179e3d0f6946305f93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Auditoria Jurídica
+- Definição de Competências
+- Gestão de Recursos Humanos
 - Gestão Financeira
 - Ministério da Agricultura Desenvolvimento Rural e Pescas
-- Definição de Competências
-- Secretaria Geral
-- Recrutamento de Pessoal
-- Auditoria Jurídica
 - Orgânica
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
+- Recrutamento de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:178075:por
@@ -88,16 +88,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:518851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178075:por
+  label: "Revogada, a partir de 01.06.2012, pela PORT.171/2012.24.05.2012.MF, DR.IS [101] de 24.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/171-2012-178075
+  date: '2012-05-24'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:59Z'
   warnings: []
   errors: []
 ---
@@ -208,4 +221,4 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 23 de Fevereiro de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.

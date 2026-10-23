@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2013/04/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2013-260445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90c9ff1c7b1f52680fa85dade8a3ad06121bd1ca202aaa72b10c426e85dba55e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdcf8553ff7a2652c313fa4740ce19677db43d882ea3bf7f95e91b52c34e1c0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
+- Capitania
 - Extracção de Inertes
-- Produto Mineiro
-- Recursos Hídricos
+- Fiscalização
+- Licenciamento
+- Madeira.região Autónoma
 - Mar Territorial
 - Material de Dragagem
 - Orla Costeira
-- Fiscalização
-- Licenciamento
+- Produto Mineiro
 - Proteção do Ambiente
-- Capitania
-- Madeira.região Autónoma
+- Recursos Hídricos
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:73943941:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73943941:por
+  label: Alterado o art 5.º (na redação do presente diploma), do DLR 28/2008/M de 12-ago, pelo(a) Decreto Legislativo Regional
+    n.º 17/2016/M - Diário da República n.º 58/2016, Série I de 2016-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2016-73943941
+  date: '2016-03-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/28/2008/08/12/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/28/2008/08/12/m/dre
 article_structure:
-  article_count: 13
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:39Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +152,9 @@ Os artigos 2º, 3º, 4º, 5º, 9º, 10º, 11º, 12º, 14º, 15º, 18º, 21º e 2
 
 8 - ...
 
-###### Artigo 3º — [...]
+Artigo 3º
+
+[...]
 
 1 - ...
 
@@ -158,11 +166,15 @@ Os artigos 2º, 3º, 4º, 5º, 9º, 10º, 11º, 12º, 14º, 15º, 18º, 21º e 2
 
 5 - ...
 
-###### Artigo 4º — [...]
+Artigo 4º
+
+[...]
 
 As atividades e operações referidas no presente diploma estão sujeitas à obtenção de licença prévia a emitir pelo departamento do Governo Regional competente em matéria de litoral.
 
-###### Artigo 5º — Atribuição de licenças
+Artigo 5º
+
+Atribuição de licenças
 
 1 - As licenças destinadas à extração de materiais inertes para fins comerciais a efetuar nos termos do nº 2 do artigo 2º são atribuídas através de procedimento concursal, nos termos e condições a definir por intermédio de portaria conjunta dos membros do Governo Regional com competência em matéria de finanças e de litoral.
 
@@ -170,7 +182,9 @@ As atividades e operações referidas no presente diploma estão sujeitas à obt
 
 3 - As licenças destinadas à recolha manual de calhau rolado prevista no nº 6 do artigo 2º são atribuídas casuisticamente, mediante requerimento dos interessados.
 
-###### Artigo 9º — [...]
+Artigo 9º
+
+[...]
 
 1 - ...
 
@@ -178,7 +192,9 @@ As atividades e operações referidas no presente diploma estão sujeitas à obt
 
 3 - ...
 
-###### Artigo 10º — [...]
+Artigo 10º
+
+[...]
 
 1 - A quota global de extração de materiais inertes para fins comerciais na orla costeira será fixada anualmente por portaria conjunta dos membros do Governo Regional com competência em matéria de finanças e de litoral.
 
@@ -186,27 +202,37 @@ As atividades e operações referidas no presente diploma estão sujeitas à obt
 
 3 - ...
 
-###### Artigo 11º — [...]
+Artigo 11º
+
+[...]
 
 1 - A entidade licenciadora notificará, com uma antecedência não inferior a 15 dias, dos locais exatos onde se procederá à extração, indicando ainda os prazos disponíveis para as diferentes zonas e condições de utilização.
 
 2 - ...
 
-###### Artigo 12º — [...]
+Artigo 12º
+
+[...]
 
 1 - Cabe à entidade licenciadora a gestão da escala das operações de carga e descarga efetuadas nos termos e ao abrigo do presente diploma.
 
 2 - ...
 
-###### Artigo 14º — [...]
+Artigo 14º
+
+[...]
 
 O valor de venda ao público dos materiais inertes será fixado anualmente por portaria conjunta dos membros do Governo Regional com competência em matéria de finanças e de litoral.
 
-###### Artigo 15º — [...]
+Artigo 15º
+
+[...]
 
 Sem prévia autorização da entidade licenciadora, os titulares das licenças não poderão transmitir para outrem os direitos conferidos, fazer-se substituir no seu exercício ou por qualquer forma onerar o seu todo ou parte.
 
-###### Artigo 18º — [...]
+Artigo 18º
+
+[...]
 
 1 - Sem prejuízo do disposto no nº 2 do artigo 7º, as licenças poderão, em qualquer altura, ser revogadas pela entidade licenciadora sempre que se verifique alguma das seguintes situações:
 
@@ -234,11 +260,15 @@ g) ...
 
 6 - ...
 
-###### Artigo 21º — [...]
+Artigo 21º
+
+[...]
 
 As funções de fiscalização, para efeitos do presente diploma, competem à entidade licenciadora, à Capitania do Porto do Funchal e à Alfândega do Funchal.
 
-###### Artigo 26º — [...]
+Artigo 26º
+
+[...]
 
 1 - Os títulos de utilização em vigor a 31 de dezembro de 2012 mantêm-se em vigor até que a Região possa emitir novos títulos nos termos do presente diploma.
 
@@ -246,10 +276,10 @@ As funções de fiscalização, para efeitos do presente diploma, competem à en
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 7 de março de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 21 de março de 2013.**
+Assinado em 21 de março de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2021/06/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2021-165228634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08dcaf0e4a7356c1d9e5574fb0502c089889fa624bd0888b7c4b10917070f98b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fb4aba03816dea217acb706f822b856dc7716fe725cb76914f47f9a17f5abd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,96 +65,96 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Ação Social
+- Açores
+- Administração Pública
 - Aeroporto
-- Produção Animal
-- Luta contra a Pobreza
-- Pobreza
-- Empreendedorismo
-- Proteção Civil
-- Gestão de Resíduos
-- Pessoal de Saúde
-- Empresa
-- Modernização Administrativa
-- Turismo
-- Investigação Científica e Tecnológica
-- Energia Elétrica
-- Desenvolvimento Rural
-- Combate à Violência
-- Comércio Internacional
-- Juventude
-- Vinho
-- Ordenamento do Território
-- Mar
-- Comunicação Social
-- Governo Regional
-- Consumo de Energia
-- Educação
-- Saúde
-- Recursos Hídricos
+- Agricultura
 - Artesanato
+- Assistência Social
+- Chave Móvel Digital
+- Combate à Violência
+- Comércio
+- Comércio Internacional
+- Competitividade da Economia
 - Competitividade Empresarial
-- Feader
+- Comunicação Social
+- Comunicações
+- Consumo de Energia
+- Cultura
+- Desemprego
+- Desenvolvimento Rural
+- Desporto
+- Doença Infecciosa
+- Educação
+- Emigração
+- Empreendedorismo
+- Emprego
+- Empresa
+- Energia Elétrica
+- Ensino
 - Ensino Oficial
 - Ensino Particular
-- Saúde Pública
+- Epidemia
+- Estabelecimento Hospitalar
 - Estabelecimento Hoteleiro
-- Administração Pública
+- Exploração Agrícola
+- Exportação
+- Feader
 - FEDER
-- Ação Social
 - Frota de Pesca
-- Pesca
+- FSE
+- Fundo Europeu dos Assuntos Marítimos e das Pescas
 - Fundopesca
 - Fundos CE
-- Sistema Regional de Informação sobre Resíduos
-- Assistência Social
+- Gestão de Resíduos
+- Governo Regional
+- Habitação
 - Igualdade de Oportunidades
+- Imigração
 - Importação
 - Inclusão Digital
 - Indústria
 - Inflação
-- Competitividade da Economia
-- Investigação
-- Laboratório Regional de Engenharia Civil
-- FSE
-- Obras Públicas
-- Exploração Agrícola
-- Proteção do Ambiente
-- Porto de Pesca
-- Planeamento Regional
-- Doença Infecciosa
-- Epidemia
-- Plano Regional para a Igualdade de Oportunidades
-- Emigração
-- Política Económica
-- Internet
-- Exportação
-- Ensino
-- Produção
-- Produção Leiteira
-- Cultura
-- Desemprego
-- Qualificação Profissional
-- Rendimento Social de Inserção
-- Emprego
-- Produção Agrícola
-- Recursos Naturais
-- Comunicações
-- Política de Juventude
-- Estabelecimento Hospitalar
-- Habitação
-- Agricultura
-- Sector Florestal
-- Açores
-- Sistema Regional de Planeamento dos Açores
-- Comércio
-- Transporte
-- Desporto
 - Infraestrutura Turística
-- Chave Móvel Digital
-- Fundo Europeu dos Assuntos Marítimos e das Pescas
+- Internet
+- Investigação
+- Investigação Científica e Tecnológica
+- Juventude
+- Laboratório Regional de Engenharia Civil
+- Luta contra a Pobreza
+- Mar
+- Modernização Administrativa
+- Obras Públicas
+- Ordenamento do Território
+- Pesca
+- Pessoal de Saúde
+- Planeamento Regional
 - Plano de Gestão de Região Hidrográfica
 - Plano de Recuperação e Resiliência
+- Plano Regional para a Igualdade de Oportunidades
+- Pobreza
+- Política de Juventude
+- Política Económica
+- Porto de Pesca
+- Produção
+- Produção Agrícola
+- Produção Animal
+- Produção Leiteira
+- Proteção Civil
+- Proteção do Ambiente
+- Qualificação Profissional
+- Recursos Hídricos
+- Recursos Naturais
+- Rendimento Social de Inserção
+- Saúde
+- Saúde Pública
+- Sector Florestal
+- Sistema Regional de Informação sobre Resíduos
+- Sistema Regional de Planeamento dos Açores
+- Transporte
+- Turismo
+- Vinho
 relationships:
 - type: cites
   target: celex:32013R1303
@@ -172,16 +172,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/27/2015/12/29/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/27/2015/12/29/a/dre
+- type: cites
+  target: pt:dre:72970526:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:44Z'
   warnings: []
   errors: []
 ---
@@ -202,11 +206,11 @@ São aprovadas as Orientações de Médio Prazo 2021-2024.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 22 de abril de 2021.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 27 de maio de 2021.**
+Assinado em Angra do Heroísmo em 27 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -338,7 +342,7 @@ Atividade económica e comércio internacionais
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Ao nível da inflação, a aproximação entre os preços nas economias avançadas, nas economias em desenvolvimento ou nas emergentes será menor, ao mesmo tempo que haverá maior variabilidade em conformidade com especializações produtivas e condições internas aos países e zonas monetárias.
 
@@ -354,7 +358,7 @@ Inflação
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 No âmbito dos mercados financeiros, indicadores monetários e de atividade do sistema bancário apontam no sentido de mudanças mais intensas e significativamente distintas das observadas nos mercados de produção e comércio de bens.
 
@@ -366,7 +370,7 @@ Taxa Interbancária de Londres (LIBOR)
 
 (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Antes dos efeitos provocados pela atual crise pandémica, a atividade económica na zona Euro aproximou-se de um crescimento do produto à taxa média anual de 2 %, durante o quadriénio de 2015 a 2018, retomando um ritmo comparável ao da sua respetiva procura interna.
 
@@ -380,7 +384,7 @@ A estimativa do FMI para a formação bruta de capital fixo, em 2020, apresenta 
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Economia portuguesa
 
@@ -410,13 +414,13 @@ Produto e Componentes da Procura
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Exportações e Importações
 
 (taxa de variação anual)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 De acordo com os últimos dados disponíveis, relativos às contas nacionais do INE - Instituto Nacional de Estatística, é possível observar algumas alterações significativas na composição da procura agregada até 2019.
 
@@ -428,7 +432,7 @@ Produto - Ótica da despesa
 
 (% do PIB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A evolução da balança comercial com o exterior permitiu a passagem de uma necessidade de financiamento da economia, que atingia cerca de 10 % do PIB antes da crise de 2008, para uma capacidade moderada, mas efetivamente positiva, depois de 2012.
 
@@ -438,7 +442,7 @@ Balança externa e capacidade (+) / Necessidade (-) de financiamento
 
 (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A dívida pública registou um decréscimo de 4,3 p.p., em 2019, situando-se nos 117,2 % do PIB. Para esta evolução tem contribuído particularmente a política orçamental de redução do défice primário. Já o efeito de encargos com juros tem-se mantido próximo de 5 % do PIB. No entanto, devido à atual situação de pandemia, a Dívida Pública, segundo a OCDE, deverá atingir 139 % do PIB, até ao final de 2022, cerca de mais 22 p.p. do que em 2019.
 
@@ -446,7 +450,7 @@ Financiamento e Dívida
 
 (% do PIB)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Outro aspeto que preocupa o Governo Regional prende-se com o impacto na economia nacional e regional de novos riscos de incumprimentos no setor bancário, bem como pela perda de rendimento, por parte de particulares, famílias e empresas, provocados pelo previsível fim das moratórias de créditos, quer as do Estado quer as das entidades bancárias.
 
@@ -462,13 +466,13 @@ Comparativamente ao contexto nacional, o mesmo indicador persiste em valores pr�
 
 Taxas de Variação Real Anual do PIB (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Produto Interno Bruto a Preços de Mercado
 
 (Base 2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A partir de 2017, regista-se um crescimento da população ativa nos Açores.
 
@@ -476,29 +480,29 @@ Nos períodos anuais completos, em que se dispõe de informação estatística c
 
 Condição da População Perante o Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Independentemente dos efeitos que as quebras das séries estatísticas podem originar, é evidente que, neste período de análise mais alargado que se tem como base de observação, o setor primário de produção económica nos Açores, onde se concentra parte substancial das vantagens competitivas da Região em algumas produções, não terá tido uma oscilação significativa, rondando os 9 % da afetação total do emprego. Há, igualmente, uma tendência universal, e que na Região também se regista, e que consiste no crescimento da representação dos setores dos serviços. Os setores secundário e terciário, em 2020, representavam, respetivamente, 16,9 % e 74,1 % da afetação total do emprego.
 
 População Ativa Empregada por Setores de Atividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Repartição setorial do emprego (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Para períodos mais recentes, de acordo com o IAE - Indicador de Atividade Económica, que mede a evolução da atividade económica em períodos intra-anuais, observa-se um decréscimo da atividade económica até ao segundo trimestre de 2020, resultante da situação de pandemia COVID-19 e de confinamento que se viveu a partir de março de 2020. Esta situação inverteu-se a partir do terceiro trimestre de 2020, após o fim do confinamento, embora, este indicador continue a registar valores negativos.
 
 Indicador de Atividade Económica em % (IAE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Tendo em conta o ICP - Indicador de Consumo Privado, que mede as variações do consumo privado nos Açores, observa-se igualmente um decréscimo do consumo privado até ao segundo trimestre de 2020, resultante da situação de confinamento que se viveu a partir de março de 2020, invertendo-se esta situação a partir do terceiro trimestre de 2020, pese embora o indicador continue também a indiciar quebras no consumo privado.
 
 Indicador do Consumo Privado em % (ICP)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Desafios à Economia Regional
 
@@ -534,7 +538,7 @@ O Valor de Produção Bruto de 474,606 milhões de euros implica um rácio por e
 
 Dimensão das Explorações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Do total de 11 580 explorações agrícolas, 7466 especializaram-se na bovinicultura, fazendo o maneio de 263 mil de cabeças de gado.
 
@@ -542,7 +546,7 @@ Desta forma, obtém-se uma média de 35,2 cabeças de gado por exploração, enq
 
 Indicadores das Explorações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O volume de leite recebido nas fábricas atingiu um valor de cerca de 635 milhões de litros durante o ano de 2019, o que representa um crescimento relativamente ao ano anterior de 0,4 %.
 
@@ -552,7 +556,7 @@ Neste setor também não podemos descurar o impacto no rendimento dos agricultor
 
 Produção e Transformação de Leite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O setor da carne é um setor que merecerá uma atenção específica no sentido da sua valorização e introdução de fatores críticos de inovação e também melhor sentido de organização. Regista-se algum dinamismo em termos de investimento e de vontade de produzir um produto com qualidade.
 
@@ -560,7 +564,7 @@ A produção agregada de carne de bovinos, de suínos e de aves, registou um vol
 
 Produção de Carne
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Relativamente a outros setores da atividade agrícola, com menor expressão, destacam-se as culturas temporárias e as permanentes.
 
@@ -574,7 +578,7 @@ A produção de 5 068 hectolitros de vinhos brancos, em 2019, traduz um aumento 
 
 Produção de Vinhos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O setor florestal tem assumido um carácter subsidiário e residual no contexto económico da Região, apesar de a floresta açoriana ocupar perto de 75 mil hectares, que representam 35 % do território insular.
 
@@ -590,7 +594,7 @@ Com igual relevância, em 2019, as 1284 toneladas de lulas capturadas representa
 
 Pescado Descarregado nos Portos de Pesca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Em termos de comparação com a realidade nacional, destaca-se a valorização que o pescado regional consegue atingir, face a valores médios em outras zonas de pesca portuguesas.
 
@@ -598,7 +602,7 @@ Por exemplo, em 2019, nos Açores, o volume pescado representou perto de 6 % do 
 
 Principais Categorias de Espécies Descarregadas - 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Nos Açores, a frota pode ser dividida essencialmente em dois segmentos: atuneiros e frota polivalente.
 
@@ -606,7 +610,7 @@ A dimensão da frota de pesca açoriana enquadra-se em dimensão e escala para a
 
 Embarcações - 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O total de 1448 pescadores inscritos corresponde a cerca de 11 % do total dos recursos humanos do país afetos a esta atividade.
 
@@ -614,7 +618,7 @@ A sua distribuição por grandes espaços operacionais mostra uma afetação exc
 
 Pescadores - 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 . Turismo
 
@@ -638,7 +642,7 @@ Com efeito, desembarcaram na Região, em 2020, cerca de 640 mil passageiros, men
 
 Relativamente às dormidas na hotelaria, as cerca de 850 mil dormidas de 2020 representam uma redução de aproximadamente 2 milhões de dormidas face ao ano anterior, revelando um decrescimento de 71 % em relação a 2019.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Analisando os últimos dados estatísticos consolidados do setor, relativos a 2019, regista-se um total de 25 128 camas de capacidade dos estabelecimentos hoteleiros, representando um crescimento de 120,9 % relativamente a 2018. Este aumento significativo na oferta do número de camas, em 2019, deveu-se ao facto do número de camas do alojamento local ter passado a constar das séries estatísticas.
 
@@ -646,7 +650,7 @@ Comparando os dados de 2009 com 2019, verifica-se que houve um aumento de cerca 
 
 Oferta e Procura na Hotelaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A taxa de ocupação apurada em 2019 foi de 45,3 %, mais 0,7 % do que em 2018.
 
@@ -656,19 +660,19 @@ A atividade turística prosseguiu uma trajetória global positiva em termos de c
 
 Taxa de Ocupação na Hotelaria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Analisando os dados do SREA, até 2019, verifica-se que houve uma alteração do perfil da procura, em que o visitante estrangeiro é cada vez mais presente no território regional, em vez da preponderância anterior do turista nacional.
 
 Procura - Principais Mercados segundo a residência/nacionalidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Entre os hóspedes residentes nos diversos países estrangeiros continuou a verificar-se um padrão de crescimento comparável aos anos anteriores, observando-se evoluções positivas pela maioria dos mercados dos principais países emissores. As maiores taxas de crescimento, comparando 2019 com 2018, ocorreram nos hóspedes provenientes dos Estados Unidos da América e Canadá, com mais 28 %, e da França, com mais 25 %. Salienta-se que os hóspedes dos Estados Unidos da América, Canadá e Alemanha, em conjunto, representam 58 % do total dos hóspedes estrangeiros que procuraram a Região em 2019.
 
 Hóspedes segundo Mercados Estrangeiros Emissores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Numa análise ao longo do ano, verifica-se um maior número de dormidas nos meses de verão. Contudo, convém salientar que mais de 60 % das estadas de estrangeiros ocorre nesta época, o que demonstra que a sazonalidade tem um maior impacto para estes.
 
@@ -676,7 +680,7 @@ Constata-se ainda no gráfico que se registou um aumento generalizado do número
 
 Sazonalidade das Dormidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Os dados da exploração hoteleira revelam crescimentos significativos durante o ano de 2019.
 
@@ -684,7 +688,7 @@ As receitas e despesas com pessoal cresceram a taxas superiores a 10 %, enquanto
 
 Exploração das Unidades Hoteleiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 . Ciência, Tecnologia e Inovação
 
@@ -692,7 +696,7 @@ A situação regional em matéria de I&D, quando comparada com a média nacional
 
 Indicadores de Investigação e Desenvolvimento (I&D), em 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A capacidade real existente em investigação tem fundamentalmente origem no setor público. A Universidade dos Açores, com base nos seus centros de investigação, assume um papel de relevância na Região, a par de outras entidades que integram o Sistema Científico e Tecnológico dos Açores (SCTA), como os laboratórios públicos ou o INOVA e as suas unidades de desenvolvimento científico e tecnológico.
 
@@ -710,7 +714,7 @@ No que concerne aos cabos submarinos de fibra ótica, estes estão a atingir o f
 
 Agregados Domésticos com ligação à Internet e ligação através de Banda Larga em Casa (%), em 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Por outro lado, é também nos Açores, na área metropolitana de Lisboa, bem como na Madeira, proporcionalmente, que um maior número de indivíduos utiliza a Internet para diferentes tarefas.
 
@@ -718,7 +722,7 @@ No caso do correio eletrónico, há uma menor dispersão em relação a valores 
 
 Indivíduos com Idade entre 16 e 74 anos que utilizam Internet e Comércio Eletrónico (%), 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O desenvolvimento de uma transição digital torna-se elemento fundamental para alavancar as dinâmicas no espaço regional, de forma a consolidar e reforçar a utilização destes meios, na economia moderna.
 
@@ -728,7 +732,7 @@ O incremento dos níveis de introdução de fatores reais de inovação no tecid
 
 Indicadores de Inovação Empresarial em 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Ao nível das infraestruturas de I&D, em particular das infraestruturas tecnológicas de base empresarial, as que facilitam a interação entre empresas, e destas com os centros de conhecimento, como sejam parques tecnológicos, centros de difusão de inovação e de demonstração de negócios e de novos produtos e tecnologias, verifica-se a existência de dois parques tecnológicos na Região, o Terinov, na ilha Terceira, e o Nonagon, na ilha de São Miguel, com vocação para a produção económica ligada à base económica regional.
 
@@ -742,7 +746,7 @@ No ano 2019, a população residente na RAA, segundo as estimativas do INE para 
 
 Decomposição da Evolução da População
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Os saldos fisiológicos registavam tradicionalmente contributos positivos para o crescimento demográfico, minimizando, ou mesmo compensando, saldos migratórios negativos, sujeitos a variações determinadas por mudanças socioeconómicas ou, então, condicionadas por elementos circunstanciais da conjuntura do momento histórico em concreto.
 
@@ -750,7 +754,7 @@ Todavia, a tendência geral de redução da natalidade de forma progressiva come
 
 Evolução das Componentes dos Saldos Fisiológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Apesar desta tendência de redução da natalidade, esta mantém-se nos Açores a um nível mais elevado do que o da média nacional. Concretamente, em 2019, as taxas brutas de natalidade nos Açores e no Continente foram, respetivamente, de 8,8(por mil) e 8,4(por mil).
 
@@ -758,7 +762,7 @@ Observando a estrutura etária da população, verifica-se uma redução na repr
 
 Estrutura Etária da População
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 . Educação
 
@@ -768,7 +772,7 @@ No ensino regular, observam-se acréscimos de matrículas nas creches e no 3.º 
 
 Número de Matrículas nas Escolas da Região, por Ano de Ensino Oficial e Particular Oficial e Particular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Verifica-se que cerca de 20 % dos alunos da Região estão inscritos em modalidades de ensino alternativas ao ensino regular, considerando os anos de escolaridade obrigatória, tendência que se tem vindo a manter nos últimos anos.
 
@@ -780,13 +784,13 @@ Taxas de Escolarização por Idades e Anos Letivos
 
 Ensino Oficial e Particular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Em paralelo, se se atentar à taxa real de escolarização, verifica-se uma estagnação que reflete a não evolução dos índices de sucesso escolar. Assiste-se a uma preocupante redução da relação percentual entre o número de alunos matriculados num determinado ciclo de estudos, em idade normal de frequência desse ciclo, e a população residente dos mesmos níveis etários. Nos últimos 10 anos de que há registos consolidados disponíveis, apenas na faixa etária correspondente à frequência do Jardim de Infância tal não se verificou.
 
 Taxa Real de Escolarização RAA de 2009/10 a 2018/19
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 No que concerne ao aproveitamento escolar, medido pelas taxas de transição/conclusão nos anos terminais de cada ciclo do ensino básico e secundário, regista-se uma melhoria significativa ao nível do 12.º ano de escolaridade, certamente não isolada do facto de nesse ano em concreto, na decorrência da pandemia, ter havido dispensa da realização de exames nacionais para efeitos de classificação interna. Em sentido inverso, é preocupante a redução significativa da taxa de conclusão do 9.º ano, tanto mais que, pelos mesmos motivos, em 2019/2020 não houve provas finais de 3.º ciclo.
 
@@ -794,7 +798,7 @@ Taxas de Transição ou de Conclusão
 
 Ensino Oficial e Particular - Currículo Regular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Já se tivermos em atenção as taxas de abandono escolar precoce, de 1998 a 2020, as taxas na nossa Região foram reduzidas de 60,1 % para 27,0 %. No mesmo período, a correspondente evolução no território de Portugal continental foi de 46,2 % para 8,4 %. Em ambos os territórios, a redução não terá, certamente, sido alheia à transição para a obrigatoriedade da escolaridade aos 12 anos de escolaridade ou aos 18 anos de idade.
 
@@ -802,13 +806,13 @@ Verifica-se, assim, que enquanto a nível continental nacional houve uma reduç�
 
 Taxa de Abandono Precoce de Educação e Formação (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Já no que respeita aos recursos docentes, tem-se verificado uma constância nos respetivos quadros. Não obstante, apenas no 1.º período de 2020/2021 foram lançados 202 horários docentes na Bolsa de Emprego Público dos Açores, todos eles superiores a 15 horas letivas, o que evidencia números gravosos de falta de docentes na Região, não constando da bolsa de emprego candidaturas a nível centralizado.
 
 Evolução dos Quadros Docentes na RAA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 . Cultura
 
@@ -818,7 +822,7 @@ Este crescimento decorreu da evolução no número de visitantes nacionais, mais
 
 Visitantes aos Museus, segundo a Nacionalidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Os utilizadores das bibliotecas públicas e dos arquivos regionais solicitaram 104 mil de consultas, que incidiram sobre 100 mil documentos durante o ano de 2019.
 
@@ -826,7 +830,7 @@ Os dados das bibliotecas públicas e arquivos continuam a demonstrar a existênc
 
 Bibliotecas e Arquivos Públicos Regionais - 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O número de agremiações e de grupos culturais com finalidades de execução musical (filarmónicas) e, também, de dança (folclore) tem-se mantido ao longo dos anos, ao contrário da representação cénica através de grupos de teatro, que diminuiu significativamente.
 
@@ -840,7 +844,7 @@ A redução do número de técnicos também poderia afetar alguns índices de en
 
 Evolução Desportiva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 As modalidades que continuam a destacar-se são o futebol de onze, com 4962 atletas inscritos, representando 1/5 do total, o voleibol, com 2629 atletas, e o futsal, com 2213 atletas.
 
@@ -850,7 +854,7 @@ As políticas públicas de manutenção do emprego, implementadas no atual conte
 
 Condição da População Perante o Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Quanto aos programas de estágio e inserção socioprofissional, a 31 de dezembro de 2020, estavam registadas 7120 pessoas, mais 1 469 pessoas do que a 31 de dezembro de 2019, representando um crescimento de 26 %.
 
@@ -868,7 +872,7 @@ O crescimento do setor secundário situou-se a um nível próximo da média para
 
 População Ativa Empregada por Setores de Atividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Observando a evolução do emprego, segundo a respetiva distribuição por profissões, evidencia-se o crescimento do Pessoal de Serviços e Vendas, no âmbito do setor terciário, pelo volume e regularidade verificados nos últimos anos.
 
@@ -878,7 +882,7 @@ Já outras categorias revelaram maior estabilidade ou decréscimo menos acentuad
 
 População Ativa Empregada, por Profissão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O emprego médio anual nos Açores, no ano de 2019, situou-se nos 113 665 indivíduos, numa proporção entre homens e mulheres de 55 % e 45 %, respetivamente.
 
@@ -890,7 +894,7 @@ Analisando os dados da população empregada por setor de atividade e a sua dist
 
 Dados do Emprego - Ano 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 COESÃO SOCIAL
 
@@ -904,25 +908,25 @@ Despesas - Prestações dos Regimes
 
 Síntese da Despesa por Tipo de Prestação (1) nos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 As despesas de Ação Social têm vindo a aumentar, até 2018. No entanto, em 2019, registaram um ligeiro decréscimo.
 
 Despesas - Ação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Ao nível do apoio ao rendimento mínimo das famílias, observa-se que nos últimos dez anos o número de famílias beneficiadas oscila entre as 8 e as 8,4 mil, enquanto ao nível do número de beneficiários, em 2010, eram apoiados 26,7 mil indivíduos e passados nove anos esse número rondava os 21 mil, cerca de 8,7 % da população residente na Região.
 
 Rendimento Social de Inserção (n.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 As medidas de apoio e suporte social contam com a colaboração muito próxima e efetiva dos institutos públicos regionais com competência em matéria de solidariedade e segurança social e com a cooperação imprescindível de todas as IPSS, Misericórdias e outras entidades e associações de interesse público orientadas para esta temática.
 
 A Rede Regional de Serviços e Equipamentos Sociais, desenvolvida em parceria com as IPSS e Misericórdias, na Região, conta com 695 valências, que servem mais de 34 mil pessoas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 . Sistema Regional de Saúde
 
@@ -936,7 +940,7 @@ Três hospitais, um centro de oncologia, 17 centros de saúde de base concelhia/
 
 A procura dos serviços de saúde por parte da população tem tido uma trajetória ascendente, acompanhada por um número também crescente de meios complementares de diagnóstico. Observa-se, porém, alguma estabilidade do número de doentes internados no sistema público de saúde.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Ao nível dos recursos humanos, observa-se um crescimento do número de profissionais que desenvolvem a sua atividade neste setor, designadamente médicos e pessoal de enfermagem, mas também outros grupos profissionais.
 
@@ -944,7 +948,7 @@ O número de pessoal no SRS, em 2019, totalizou 5257 profissionais ativos, repre
 
 Pessoal de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 No quadro do combate à emergência de saúde pública provocada pela pandemia COVID-19, o SRS, e os seus profissionais como um todo, suportaram um choque na necessidade de resposta e adaptação.
 
@@ -958,7 +962,7 @@ Os últimos dados disponíveis, relativos a 2017, revelam estagnação do poder 
 
 Indicadores do Poder de Compra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 . Desemprego
 
@@ -966,7 +970,7 @@ A atual crise sanitária provocada pela pandemia COVID-19, com uma conjuntura ec
 
 População Desempregada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Acresce ainda que tomando os valores médios observados ao longo do ano de 2019, não em termos de evolução da expressão numérica, mas sim em termos de estrutura, fazem concluir-se que é nos escalões etários dos 15-24 anos e 45-64 anos onde se verifica maior intensidade do nível de desocupação involuntária.
 
@@ -976,13 +980,13 @@ Observa-se, porém, ainda neste contexto, uma situação de desemprego na faixa 
 
 Estrutura Etária e de Género do Desemprego em 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Outra dimensão do desemprego prende-se com o nível de escolaridade dos desempregados. E neste particular os números são muito exemplificativos, cerca de 80 % do número de desempregados tem níveis de escolaridade muito baixa, apenas até ao ensino básico. De acentuar que a quebra de alguns setores económicos intensivos em mão de obra, sem grande qualificação, está na origem desta situação.
 
 Nível de Instrução dos Desempregados em 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 COESÃO TERRITORIAL E SUSTENTABILIDADE
 
@@ -998,7 +1002,7 @@ No que concerne ao transporte terrestre, alguns dados estatísticos para os últ
 
 Tráfego de Passageiros nos Transportes Coletivos Terrestres
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Nos passageiros transportados por via marítima, o tráfego nos portos atingiu, em 2019, um volume de 2 milhões de movimentos de embarque mais desembarque, passando cerca de 42 % do total pelas infraestruturas marítimas do canal Horta-Madalena.
 
@@ -1006,7 +1010,7 @@ Em termos de evolução, os movimentos cresceram a taxas médias anuais na ordem
 
 Movimento de Passageiros nos Portos Comerciais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O tráfego de passageiros nos aeroportos (embarques e desembarques) situou-se na ordem de grandeza de 3,4 milhões de movimentos em 2019, representando um crescimento à taxa média de 5,2 % em relação ao ano anterior.
 
@@ -1016,13 +1020,13 @@ O tráfego territorial tem sido o segmento de mercado que tem acentuado a progre
 
 Passageiros Embarcados + Desembarcados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Considerando a evolução mais recente, em contexto de pandemia COVID-19, observa-se uma acentuada redução no movimento de passageiros desembarcados nos aeroportos da Região, tendo-se registado um decréscimo de cerca de 868 mil passageiros desembarcados no final do 3.º trimestre de 2020, em comparação com período idêntico de 2019.
 
 Movimentos nos Aeroportos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Ao nível das mercadorias movimentadas pelos portos comerciais dos Açores, durante o ano de 2019, o total de 2,373 milhões de toneladas, representa um decréscimo de 4,2 % em relação ao ano anterior, envolvendo quer os carregamentos, quer os descarregamentos, e interrompendo os acréscimos que vinha registando nos últimos anos.
 
@@ -1030,7 +1034,7 @@ Por sua vez, as cargas movimentadas nos aeroportos registaram um volume de 9,1 m
 
 Cargas Movimentadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 . Energia
 
@@ -1046,7 +1050,7 @@ Na energia já disponível para consumo final, isto é, passando a considerar o 
 
 Balanço Energético - Oferta - 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Os transportes continuam a revelar-se como os maiores utilizadores finais da energia disponível para consumo, atingindo uma quota de 49,3 %, que é abastecida em absoluto (100 %) por energia primária de combustíveis fósseis de petróleo.
 
@@ -1060,7 +1064,7 @@ A procura pelos outros setores continua a mostrar um predomínio de abasteciment
 
 Balanço Energético - Procura - 2018
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A procura agregada dos consumos pelas famílias, empresas e entidades públicas atingiu um volume total de 743,4 GWh, correspondendo a um decréscimo à taxa média de 0,12 %, durante o ano de 2019.
 
@@ -1068,7 +1072,7 @@ Também a oferta de produção de 812,9 GWh, no mesmo período, correspondeu a u
 
 Eletricidade - Balanço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A evolução da procura, em 2019, inverteu o padrão dos anos anteriores, registando um ligeiro decréscimo relativamente a 2018.
 
@@ -1076,7 +1080,7 @@ Os acréscimos nos consumos domésticos foram residuais para o crescimento da pr
 
 Consumo de Eletricidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Para a satisfação do acréscimo de procura contribuiu de forma significativa a eletricidade produzida por tecnologia térmica, até porque se registaram mesmo quebras de produção em fontes de energia renovável.
 
@@ -1084,7 +1088,7 @@ O volume de eletricidade com origem em centrais térmicas representa cerca de 62
 
 Produção de Eletricidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 . Sustentabilidade
 
@@ -1094,19 +1098,19 @@ Este novo ciclo de crescimento da produção de RU resulta sobretudo do aumento 
 
 Evolução da Produção de RU na RAA em toneladas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A produção de RU per capita foi de 600 kg na RAA, correspondendo a uma capitação diária de 1,6 kg. Este nível de produção de RU situa -se acima da média nacional (1,4 Kg em 2018) e da União Europeia a 28 (1,3 Kg em 2018).
 
 Produção de RU por ilha em toneladas (2019)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A produção de RU per capita foi de 600 kg na RAA, correspondendo a uma capitação diária de 1,6 kg. Este nível de produção de RU situa-se acima da média nacional (1,4 Kg em 2018) e da União Europeia a 28 (1,3 Kg em 2018).
 
 Produção per capita de RU por ilha (2019)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A RAA tem progredido significativamente no tratamento dos respetivos RU e na aplicação do princípio da hierarquia da gestão de resíduos, nomeadamente por via do aumento da valorização em detrimento da eliminação.
 
@@ -1118,11 +1122,11 @@ De relevar, também o facto de, em 2019, as sete ilhas com menor população (Fl
 
 Evolução do tratamento de RU na RAA (2012-2019)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Operações de tratamento de RU por ilha (2019)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O Plano Estratégico de Prevenção e Gestão de Resíduos integra o Programa Regional de Prevenção de Resíduos, onde se enunciam várias medidas de prevenção e redução, que visam incrementar a consciencialização ambiental e dissociar a produção de resíduos e os respetivos impactes ambientais da evolução do crescimento económico.
 
@@ -1134,7 +1138,7 @@ Destaca-se a necessidade de reforçar a monitorização das massas de água, com
 
 Análises em Cumprimento dos Valores Paramétricos (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A proteção e a valorização da biodiversidade e dos recursos naturais serão sempre uma prioridade estratégica.
 
@@ -2136,7 +2140,7 @@ No quadro seguinte apresentam-se os programas de investimento público que irão
 
 Investimento Público 2021-2024
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 4.2 - Quadro Global de Financiamento
 
@@ -2148,7 +2152,7 @@ De seguida, apresenta-se o quadro com as grandes linhas de orientação para o f
 
 Financiamento Global
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 5 - A Avaliação ex-ante das Orientações de Médio Prazo
 
@@ -2184,7 +2188,7 @@ Relativamente ao Objetivo D, Afirmar os Açores no Mundo, focado nas questões d
 
 Ao nível do Programa associado às Obras Públicas (P12,) os investimentos em infraestruturas públicas de educação, saúde, proteção civil, solidariedade social e cultura estão relacionados com todos os Objetivos, tendo em conta que proporcionam melhores condições de vida às populações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 B. Objetivo "Um futuro mais digital e ecológico no seio da sociedade do conhecimento"
 
@@ -2222,7 +2226,7 @@ Relativamente às questões da Juventude, Emprego Comércio e Indústria (P11), 
 
 Ao nível do Programa associado às Obras Públicas (P12), os investimentos em infraestruturas de apoio ao setor produtivo, melhoria da operacionalidade dos portos de pesca, centros de interpretação ambiental, caminhos florestais, trilhos, miradouros e ordenamento paisagístico estão diretamente relacionados com o Objetivo B e indiretamente com os restantes Objetivos, tendo em conta que irão proporcionar melhores condições de desenvolvimento da atividade económica e consequentemente melhores condições de vida às populações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 C. Objetivo "Uma governação ao serviço das pessoas, próxima e transparente"
 
@@ -2242,7 +2246,7 @@ Entende-se que o apoio aos média, previsto no Programa 1, apenas tem uma relaç
 
 Ao nível do Programa associado às Obras Públicas (P12), os investimentos em infraestruturas terrestres estão relacionados com todos os objetivos, na medida em que irão proporcionar melhores condições para o desenvolvimento da atividade económica e consequentemente das empresas, potenciando igualmente a criação de emprego. A existência de melhores infraestruturas origina a disponibilização de melhores condições de vida às populações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 D. Objetivo "Afirmar os Açores no mundo"
 
@@ -2270,7 +2274,7 @@ Esta temática tem igualmente estreita ligação com as questões ligadas à Cul
 
 Ao nível do Programa associado às Obras Públicas (P12,) os investimentos em infraestruturas portuárias e aeroportuárias estão relacionados com todos os objetivos, tendo em conta que irão proporcionar melhores condições de desenvolvimento da atividade económica e consequentemente melhores condições de vida às populações. As intervenções previstas neste Programa para a orla costeira da Região, em conjunto com as ações do Programa 7, visando a segurança e a qualidade de vida das populações, são transversais aos restantes Objetivos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Coerência Externa das OMP
 
@@ -2302,7 +2306,7 @@ De uma forma pontual, e numa ótica de crescimento inclusivo, constata-se a cone
 
 Por último, é de salientar que os Programas referentes ao Objetivo D, relativos à Cooperação Externa, apenas poderão ter enquadramento no PO AÇORES 2020, no Eixo 2, referente às Tecnologias de Informação e Comunicação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Articulação das Grandes Linhas de Orientação Estratégica com os objetivos do Período de Programação 2021-2027
 
@@ -2310,7 +2314,7 @@ A pandemia teve como consequência atrasar os trabalhos preparatórios para o pr
 
 O novo quadro da política de coesão propõe cinco objetivos principais que irão nortear os investimentos da União Europeia (UE) em 2021-2027 e que integram vários objetivos específicos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Na avaliação da coerência entre os Objetivos das OMP e os Principais Objetivos definidos para o Período de Programação 2021-2027, verifica-se que a maioria das grandes linhas de orientação coincide com os grandes objetivos da programação em vigor (Estratégia 2020). Com efeito, os objetivos da atual programação associados ao crescimento inteligente, crescimento sustentável e crescimento inclusivo equiparam com os objetivos do próximo período de programação associados a Uma Europa mais Inteligente, Uma Europa mais Verde, Hipocarbónica e Resiliente e Uma Europa mais Social. A inovação para o próximo período de programação consiste em dar destaque à mobilidade e conectividade das populações, temas associados ao objetivo Uma Europa mais Conectada e ao desenvolvimento social, económico e ambiental integrado, o património cultural e a segurança das zonas urbanas a que está associado o objetivo Uma Europa mais Próxima dos Cidadãos.
 
@@ -2324,7 +2328,7 @@ No âmbito da mobilidade de pessoas e bens, verifica-se a ligação com o progra
 
 Uma Europa mais Próxima dos Cidadãos, cujo objetivo é promover o desenvolvimento social, económico e ambiental integrado, o património cultural e a segurança nas zonas urbanas, constata-se que é um objetivo muito abrangente, tendo impacto, de forma transversal, em todos objetivos e programas das OMP.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Articulação das Grandes Linhas de Orientação Estratégica com outros Programas
 
@@ -2340,7 +2344,7 @@ PO INTERREG V A - MAC
 
 A estrutura do PO INTERREG VA - MAC, em termos da sua organização por Eixos Prioritários, encontra uma relação de coerência com os programas e objetivos definidos nas Grandes Linhas de Orientação Estratégica das OMP. Deste modo, a coerência mais direta e a título exemplificativo é verificada da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 POCI
 
@@ -2354,7 +2358,7 @@ O PRR inclui investimentos da RAA, num investimento global que ascende a 580 mil
 
 Encontra-se uma relação de coerência com os programas e objetivos definidos nas Grandes Linhas de Orientação Estratégica das OMP. Deste modo, a coerência mais direta e a título exemplificativo é verificada da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 REACT-EU
 
@@ -2366,7 +2370,7 @@ Para o FSE, os recursos adicionais devem ser utilizados principalmente para apoi
 
 Encontra-se uma relação de coerência com os programas e objetivos definidos nas Grandes Linhas de Orientação Estratégica das OMP. Deste modo, a coerência mais direta e a título exemplificativo é verificada da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 6 - Os Programas e Iniciativas Comunitárias disponíveis Para a Região
 
@@ -2394,7 +2398,7 @@ Há ainda a assinalar a participação da Região no Programa INTERREG V A - MAC
 
 A seguir apresenta-se uma sinopse de cada uma das intervenções com apoio comunitário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O PO Açores 2020 é um programa comparticipado pelos fundos estruturais comunitários FEDER e FSE, para o período de programação 2014-2020, com execução na RAA, tendo sido aprovado pela Comissão Europeia através da Decisão C (2014) 10176, de 18 de dezembro.
 
@@ -2424,7 +2428,7 @@ Fazendo a desagregação por fundo, regista-se uma taxa de compromisso da compon
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O Programa de Desenvolvimento Rural para a RAA 2014-2020 (PRORURAL+) enquadra-se no [Regulamento (UE) n.º 1305/2013](https://data.europa.eu/eli/reg/2013/1305/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de dezembro, que estabelece as regras do apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER). O PRORURAL+ reflete a estratégia da Região para a agricultura e para o desenvolvimento rural, pretendendo ser um instrumento financeiro que contribui para o aumento da autossuficiência do setor agroalimentar em 2020 e para a estruturação de canais comerciais que permitam a exportação de produtos especializados para o mercado externo. Este Programa está alinhado com as Prioridades da União em matéria de desenvolvimento rural, nomeadamente:
 
@@ -2452,7 +2456,7 @@ O PRORURAL+ foi aprovado a 13 de fevereiro de 2015, pela Decisão de Execução 
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Para o período de programação 2014-2020, a Região beneficia de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático Competitividade e Internacionalização (POCI), especificamente no Eixo IV - Promoção de transportes sustentáveis e eliminação dos estrangulamentos nas principais redes de infraestruturas, exclusivamente para as intervenções no sistema portuário da RAA integradas nas prioridades de investimento 7.1 - Apoio ao espaço único europeu de transportes multimodais, mediante o investimento na RTE-T e 7.3 - Desenvolvimento e melhoria de sistemas de transportes ecológicos (incluindo de baixo ruído) e de baixo teor de carbono, incluindo vias navegáveis e transportes marítimos interiores, portos, ligações multimodais e infraestruturas aeroportuárias, a fim de promover a mobilidade regional e local sustentáveis.
 
@@ -2474,7 +2478,7 @@ Requalificação dos Sistemas de Segurança e de Acessibilidade do Porto da Prai
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Para o período de programação 2014-2020, a Região beneficia também de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático Sustentabilidade e Eficiência no Uso de Recursos (POSEUR), no Eixo Prioritário 3 - Proteger o ambiente e promover a utilização eficiente dos recursos, objetivo específico 1. Valorização dos resíduos, reduzindo a produção e deposição em aterro, aumentando a recolha seletiva e a reciclagem.
 
@@ -2484,7 +2488,7 @@ Atendendo a que o custo total elegível deste projeto é superior a 50 milhões 
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Para o período de programação 2014-2020, a Região beneficia de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático de Inclusão Social e Emprego (POISE), especificamente no Eixo II - Iniciativa de Emprego Jovem.
 
@@ -2492,7 +2496,7 @@ A Iniciativa Emprego Jovem (IEJ) tem como objetivo apresentar uma oferta de qual
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 Os apoios do Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP) são operacionalizados na Região através de um programa operacional de âmbito nacional designado MAR 2020, que tem por objetivo a implementação das medidas de apoio enquadradas no FEAMP no âmbito das seguintes Prioridades da União Europeia:
 
@@ -2518,7 +2522,7 @@ A operacionalização do MAR 2020 foi consideravelmente atrasada pela aprovaçã
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O Programa de Cooperação INTERREG V A Espanha-Portugal MAC, para o período de programação 2014-2020 foi aprovado, pela Comissão Europeia, a 3 de junho de 2015, e conta com um orçamento de 130 milhões de euros (85 % financiado pelo Fundo Europeu de Desenvolvimento Regional - FEDER), dos quais 11,6 milhões de euros destinam-se a beneficiários localizados na RAA. A 17 de outubro de 2017, a CE aprovou um aumento do financiamento do Programa que passa a contar com um orçamento total de cerca de 149 milhões de euros (126,5 milhões de euros FEDER).
 
@@ -2534,7 +2538,7 @@ Durante o ano 2018, foi lançada a 2.ª convocatória para apresentação de pro
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O REACT-EU (Recovery Assistance for Cohesion and the Territories of Europe, em português designado por Assistência de Recuperação para a Coesão e os Territórios da Europa) é uma iniciativa que dá continuidade e alarga as medidas de resposta a situações de crise constantes da Iniciativa de Investimento de Resposta à Crise do Coronavírus (CRII) e da Iniciativa de Investimento de Resposta à Crise do Coronavírus+ (CRII+). Contribuirá para uma recuperação ecológica, digital e resiliente da economia e foi instituída pelo [Regulamento (UE) n.º 2020/2221](https://data.europa.eu/eli/reg/2020/2221/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de dezembro, alterando o [Regulamento (UE) n.º 1303/2013](https://data.europa.eu/eli/reg/2013/1303/oj?locale=pt), de 17 de dezembro.
 
@@ -2546,7 +2550,7 @@ Para o FSE, os recursos adicionais devem ser utilizados principalmente para apoi
 
 Através deste novo instrumento financeiro REACT - EU, a RAA dispõe de um reforço de 118 milhões de euros, a preços correntes, encontrando-se em preparação a reprogramação do PO Açores 2020 (programação REACT-EU).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 O Fundo de Solidariedade da União Europeia (FSUE) foi criado na sequência das cheias devastadoras que assolaram a Europa Central no verão de 2002, enquanto meio de expressão da solidariedade europeia para com a população das regiões da UE afetadas por grandes catástrofes naturais através do financiamento de operações de emergência e de recuperação.
 
@@ -2564,7 +2568,7 @@ A conceção do PRR sustentou-se nas estratégias e políticas nacionais e regio
 
 Assim, o PRR estrutura-se em três dimensões - a resiliência, a transição climática e a transição digital -, que por sua vez se desenvolvem em nove roteiros para a retoma do crescimento sustentável e inclusivo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0000500109.pdf)
 
 A dimensão da Resiliência pretende estimular uma retoma consequente, inclusiva e duradoura face a um severo choque exógeno, com bases robustas que preparem o país e as regiões para choques futuros. Engloba investimentos em três prioridades refletidas nos roteiros referentes às Vulnerabilidades Sociais, Potencial Produtivo e Emprego;
 
@@ -2663,3 +2667,5 @@ A Comissão Europeia volta a insistir na utilização de instrumentos financeiro
 É dada maior ênfase à necessidade de comunicar melhor os resultados positivos da política de coesão.
 
 A Comissão Europeia irá solicitar a todos os Estados-Membros e autoridades regionais e locais com intervenção e/ou benefício dos fundos comunitários um maior esforço de comunicação para melhorar a visibilidade da política de coesão. Simultaneamente, a comunicação sobre projetos financiados pela UE é simplificada, com uma marca única que abrange todos os diferentes fundos da UE, um portal único com todos os fundos disponíveis para as empresas e uma base de dados de projetos única gerida pela Comissão.
+
+114286832

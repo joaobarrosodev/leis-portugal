@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 44/2008, 1º Suplemento, Série I de 2008-03-03
   number: '44'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1372-(13) a 1372-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/216-f/2008/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-f-2008-243891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25749ad20cfbe4da2dd2c54b4671ecd029a7676e217afae47c07113224fbc054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d917d607fcb3da47643afcfb8fe37e24c76bcc112a64ba90119547888d63a0ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Obras Particulares
-- Renovação Urbana
 - Indústria da Construção
-- Publicitação
+- Licença de Construção
 - Licenciamento
 - Licenciamento de Obras
-- Licença de Construção
 - Loteamento Urbano
+- Obras Particulares
 - Obras Públicas
+- Publicitação
+- Renovação Urbana
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
@@ -84,16 +84,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/2007/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/2007/09/04/p/dre
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69927765:por
+  label: Revogada a presente Portaria, pelo(a) Portaria n.º 228/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2015-69927765
+  date: '2015-08-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:57Z'
   warnings: []
   errors: []
 ---
@@ -142,9 +155,9 @@ c) O aviso das obras a que se referem as alíneas c) a g) do n.º 1 do artigo 6.
 
 6.º A presente portaria produz efeitos com a entrada em vigor da [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro.
 
-**O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão, em 29 de Fevereiro de 2008.**
+O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão, em 29 de Fevereiro de 2008.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
 
 Instrução de preenchimento
 
@@ -174,7 +187,7 @@ Instrução de preenchimento
 
 (n) Caso a operação de loteamento implique a realização de obras de urbanização.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
 
 Instrução de preenchimento
 
@@ -196,7 +209,7 @@ Instrução de preenchimento
 
 (i) Identificação do plano municipal de ordenamento do território em vigor.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
 
 Instrução de preenchimento
 
@@ -220,7 +233,7 @@ Instrução de preenchimento
 
 (j) Indicar quando aplicável.
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
 
 Instrução de preenchimento
 
@@ -242,7 +255,7 @@ Instrução de preenchimento
 
 (i) Indicar qual o objectivo da operação.
 
-## ANEXO V — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
+## ANEXO V — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
 
 Instrução de preenchimento
 
@@ -264,7 +277,7 @@ Instrução de preenchimento
 
 (i) Indicar qual o objectivo da operação.
 
-## ANEXO VI — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
+## ANEXO VI — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
 
 Instrução de preenchimento
 
@@ -282,7 +295,7 @@ Instrução de preenchimento
 
 (g) Na identificação das características da operação urbanística devem ser indicados os elementos constantes dos anexos anteriores consoante o respectivo tipo.
 
-## ANEXO VII — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
+## ANEXO VII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
 
 Instrução de preenchimento
 
@@ -312,7 +325,7 @@ Instrução de preenchimento
 
 (n) Caso a operação de loteamento implique a realização de obras de urbanização.
 
-## ANEXO VIII — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
+## ANEXO VIII — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
 
 Instrução de preenchimento
 
@@ -338,7 +351,7 @@ Instrução de preenchimento
 
 (l) Se aplicável.
 
-## ANEXO IX — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
+## ANEXO IX — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
 
 Instrução de preenchimento
 
@@ -364,7 +377,7 @@ Instrução de preenchimento
 
 (l) Se aplicável.
 
-## ANEXO X — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
+## ANEXO X — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0001300017.pdf)
 
 Instrução de preenchimento
 

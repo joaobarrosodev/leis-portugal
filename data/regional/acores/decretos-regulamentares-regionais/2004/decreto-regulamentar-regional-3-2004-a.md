@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2004/02/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2004-580988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cde30e02603621c5a51001eaf3973c1b491eff53ce57f21bebe4f95d3801e3fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41dd9a7c9f64bfd63cbf7e8977645ef4fa6f09b7e0019997981fb3cc8037dd41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Hospital de Santo Espírito
 - Hospital do Divino Espírito Santo
 - Ponta Delgada
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:667163:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:505668:por
+  label: "Alterado o quadro de pessoal do Hospital de Santo Espírito de Angra do Heroísmo, aprovado pelo DRR 4/93/A, de 27-Fev,\
+    \ alterado pelo presente diploma, pelo DRR.29/2004/A.08.06.2004.PG-RAA, DR.IS-B [170] de 21.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-2004-505668
+  date: '2004-06-08'
+- type: amended_by
+  target: pt:dre:517637:por
+  label: "Alterado o quadro de pessoal, aprovado pelo DRR 17/96/A, de 26-Mar, na redacção do presente diploma, pelo DRR.22/2004/A.08.06.2004.SRAS-RAA,\
+    \ DR.IS-B [153] de 01.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2004-517637
+  date: '2004-06-08'
+- type: amended_by
+  target: pt:dre:525609:por
+  label: "Alterado o quadro de pessoal do Hospital Santo Espírito de Angra do Heroísmo, aprovado pelo DRR 4/93/A, de 27-Fev,\
+    \ na redacção do presente diploma, pelo DRR.28/2004/A.28.06.2004.PG-RAA, DR.IS-B [169] de 20.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-2004-525609
+  date: '2004-06-28'
+- type: amended_by
+  target: pt:dre:625181:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 17/96/A de 26-Nov, com a redacção do presente diploma, pelo DRR.31/2004/A.16.07.2004.PG-RAA,\
+    \ DR.IS-B [200] de 25.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2004-625181
+  date: '2004-07-16'
+- type: amended_by
+  target: pt:dre:603270:por
+  label: "Alterado o quadro de pessoal do Hospital do Divino Espírito Santo aprovado pelo DRR 17/96/A de 26-Mar, com a redacção\
+    \ dada pelo presente diploma, pelo DRR.4/2005/A.24.01.2005.PG-RAA, DR.IS-B [33] de 16.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2005-603270
+  date: '2005-01-24'
 - type: cites
   target: eli:http://data.
   label: null
@@ -117,16 +147,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/2000/02/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/2000/02/04/a/dre
+- type: cites
+  target: pt:dre:164202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658216:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:56Z'
   warnings: []
   errors: []
 ---
@@ -149,18 +223,18 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, Ponta Delgada, em 19 de Dezembro de 2003.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 21 de Janeiro de 2004.**
+Assinado em Angra do Heroísmo em 21 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — Quadro de pessoal do Hospital do Divino Espírito Santo de Ponta Delgada
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/035b00/08400841.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/035b00/08400841.pdf)](https://files.diariodarepublica.pt/1s/2004/02/035b00/08400841.pdf)
 
 ## ANEXO II — Quadro de pessoal do Hospital de Santo Espírito de Angra do Heroísmo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/035b00/08400841.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/02/035b00/08400841.pdf)](https://files.diariodarepublica.pt/1s/2004/02/035b00/08400841.pdf)

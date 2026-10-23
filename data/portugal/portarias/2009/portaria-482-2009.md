@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/482/2009/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/482-2009-608067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e735201f7937d74bf640dbe36123b5c4df8d600643ed8e80b7bf5d9ae1289c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45d7c4d4b0ba1515949c0481b2c3ba06bea4b2b1c73992e9caeccc033c900f80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
 - Aproximação das Legislações
-- Financiamento
 - Beneficiário
 - Direcção Regional de Agricultura e Pescas
+- Exploração Agrícola
+- Financiamento
 - Fiscalização
-- Pagamento
 - IFAP
 - Investimento
-- Exploração Agrícola
+- Pagamento
 - Política Agrícola Comum
-- Agricultor
+- Proder
 - Região Agrária
-- Regulamento de Aplicação da Acção Nº 1.1.2-investimentos de Pequena Dimensão
 - Região Desfavorecida
-- Agricultura
+- Regulamento de Aplicação da Acção Nº 1.1.2-investimentos de Pequena Dimensão
 relationships:
 - type: amended_by
   target: pt:dre:670056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 7º, 9º, 10º, 11º, 12º, 13º e 15º e o anexo I e revogadas as als. c) e e) do art. 6º, a al. d)\
+    \ do nº1 do art. 7º, a al. b) do nº2 do art. 10º, o art. 23º e a al. b) do nº3 do anexo I do Regulamento, aprovado pelo\
+    \ presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 7.º ( na redacção da Port. 814/2010, de 27-Ago ), 19.º, 21.º e 22.º do Regulamento de Aplicação\
+    \ da Acção n.º 1.1.2, «Investimentos de Pequena Dimensão», aprovado pela presente portaria, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
 - type: cites
   target: celex:31975L0268
   label: null
@@ -101,16 +115,22 @@ relationships:
   target: celex:32006R1975
   label: null
   source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: corrected_by
+  target: pt:dre:491905:por
+  label: "Rectificada a alínea b) do n.º 2 do artigo 10.º do Regulamento, pela DECL-RECT.46/2009.03.07.2009.PCM, DR.IS [127]\
+    \ de 03.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/46-2009-491905
+  date: '2009-07-03'
 article_structure:
   article_count: 25
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:31Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +161,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Abril de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Abril de 2009.
 
 ## ANEXO
 

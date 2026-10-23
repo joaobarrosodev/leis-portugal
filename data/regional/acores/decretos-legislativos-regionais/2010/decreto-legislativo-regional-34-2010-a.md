@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/34/2010/12/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2010-306589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef147fddf84647b73641ad1c7ebbf926c963c1cf5a40d4269b693b15ac85d9c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aed3d37a6d313558c23ba6a99acae66bebbdf30e714901f1bcec030c5eaf183e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,48 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio Familiar a Crianças e Jovens
+- Açores
+- Administração Pública
 - Admissão de Pessoal
 - Alienação de Participação Social
-- Protecção à Família
-- Gestão de Resíduos
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
+- Benefícios Fiscais
 - Cerveja
+- Contribuições e Impostos
 - Deslocação ao Estrangeiro
 - Deslocação em Serviço
 - Despesas Públicas
-- União Europeia
-- Administração Pública
+- Financiamento
 - Formas de Provimento
+- Gestão de Recursos Humanos
+- Gestão de Resíduos
 - Gestão do Património
 - Gestão Orçamental
 - Gestor Público
-- Remuneração Acessória
 - IABA
-- Contribuições e Impostos
 - Imposto sobre o Álcool Etílico e as Bebidas Alcoólicas
-- Saudaçor
 - Operações de Tesouraria
 - Orçamento Regional
-- Proteção do Ambiente
-- Proteção à Infância
 - Política do Ambiente
+- Proteção à Infância
+- Proteção do Ambiente
+- Protecção à Família
 - Protecção à Juventude
 - Remuneração
-- Benefícios Fiscais
+- Remuneração Acessória
+- Saudaçor
 - Serviço Regional de Saúde
 - Sider
-- Gestão de Recursos Humanos
-- Açores
+- Subsídio Familiar a Crianças e Jovens
 - Taxa
 - Transferência de Verbas
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:55021043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:570685:por
+  label: "Dada nova redação [aditando um n.º 4 que tem natureza interpretativa] ao art. 7.º do presente diploma, pelo DLR.2/2014/A.29.01.2014.AL-RAA,\
+    \ DR.IS [20] de 29.01.2014, nos termos do disposto no nº 5 do seu art. 7.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2014-570685
+  date: '2014-01-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
   label: null
@@ -147,16 +153,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/90/2002/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/90/2002/01/29/p/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629104:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146215:por
+  label: "Revogado, a partir de 30.12.2011, o DLR 40/2008/A, de 25-Ago, na redacção do presente diploma, pelo DLR.29/2011/A.16.11.2011.AL-RAA,\
+    \ DR.IS [220] de 16.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2011-146215
+  date: '2011-11-16'
 article_structure:
-  article_count: 40
+  article_count: 38
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:14Z'
   warnings: []
   errors: []
 ---
@@ -369,11 +453,15 @@ Os artigos 6.º, 7.º e 8.º do [Decreto Legislativo Regional n.º 40/2008/A](ht
 
 ECOL-EMB
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Os operadores económicos, sujeitos passivos do imposto sobre o álcool e as bebidas alcoólicas, doravante designado de IABA, estão obrigados ao pagamento de uma taxa designada ECOL-EMB pelas embalagens não reutilizáveis que contenham cerveja e outras bebidas alcoólicas, com excepção dos vinhos tranquilos na acepção da alínea b) do n.º 2 do artigo 66.º do Código dos Impostos Especiais de Consumo, aprovado pelo [Decreto-Lei n.º 73/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2010-335474), de 21 de Junho, e que se destinem ao consumo na Região, com vista à redução da produção dos resíduos inerentes.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A ECOL-EMB é fixada nos seguintes valores:
 
@@ -485,11 +573,11 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro 
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 22 de Dezembro de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Lisboa em 23 de Dezembro de 2010.**
+Assinado em Lisboa em 23 de Dezembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -497,49 +585,49 @@ MAPA I
 
 Receita da Região Autónoma dos Açores
 
-([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25100/0603106061.pdf))
+(Ver documento original)
 
 MAPA II
 
 Despesas da Região especificadas segundo a classificação orgânica, por capítulos
 
-([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25100/0603106061.pdf))
+(Ver documento original)
 
 MAPA III
 
 Despesas da Região especificadas segundo a classificação funcional
 
-([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25100/0603106061.pdf))
+(Ver documento original)
 
 MAPA IV
 
 Despesas da Região especificadas segundo a classificação económica
 
-([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25100/0603106061.pdf))
+(Ver documento original)
 
 MAPA V
 
 Receitas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25100/0603106061.pdf))
+(Ver documento original)
 
 MAPA VI
 
 Despesas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25100/0603106061.pdf))
+(Ver documento original)
 
 MAPA VII
 
 Despesas globais dos fundos e serviços autónomos especificadas segundo a classificação funcional
 
-([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25100/0603106061.pdf))
+(Ver documento original)
 
 MAPA VIII
 
 Despesas globais dos fundos e serviços autónomos especificadas segundo a classificação económica
 
-([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25100/0603106061.pdf))
+(Ver documento original)
 
 MAPA IX
 
@@ -547,4 +635,4 @@ Despesas de investimento da Administração Pública Regional
 
 Resumo por Departamentos
 
-([ver documento original](https://files.diariodarepublica.pt/1s/2010/12/25100/0603106061.pdf))
+(Ver documento original)

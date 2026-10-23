@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2016/10/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2016-75468668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f862bc71c0cfbea89279fd2039a2d1499e98b1f7cfb53a7c6d2171b3572855eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0589e6473588159f31de3c67acef3c94ed533d0bd4ddf64855e5046b16f1a91d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Armazenagem
-- Gestão de Resíduos
+- Aterro Sanitário
 - Contra-ordenação
 - Contrato de Concessão
-- Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores
-- Saúde Pública
-- Aterro Sanitário
-- Sistema Regional de Informação sobre Resíduos
-- Transporte de Resíduos
-- Licenciamento
+- Eliminação de Resíduos
 - Embalagem
-- Resíduo
+- Entidade Gestora de Resíduos
+- Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores
+- Gestão de Resíduos
+- Licenciamento
 - ÓLEO Usado
-- Proteção do Ambiente
-- Tratamento de Resíduos
 - Plano de Gestão de Resíduos
 - Preço
-- Entidade Gestora de Resíduos
+- Proteção do Ambiente
+- Resíduo
 - Resíduo Hospitalar
 - Responsabilidade Civil
 - Responsabilidade Extracontratual
-- Açores
-- Eliminação de Resíduos
+- Saúde Pública
+- Sistema Regional de Informação sobre Resíduos
 - Taxa
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: celex:31969L0493
@@ -223,6 +223,134 @@ relationships:
   target: eli:http://data.europa.eu/eli/reg
   label: null
   source: http://data.europa.eu/eli/reg
+- type: cites
+  target: pt:dre:145787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640897:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662531:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32006L0021
   label: null
@@ -232,15 +360,15 @@ relationships:
   label: null
   source: null
 article_structure:
-  article_count: 251
+  article_count: 249
   section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:10Z'
   warnings: []
   errors: []
 ---
@@ -273,7 +401,9 @@ São alterados os artigos 184.º, 185.º e 235.º do [Decreto Legislativo Region
 
 3 - Os embaladores regionais, os responsáveis pela colocação de produtos no mercado regional e os industriais de produção de embalagens ou matérias-primas para o fabrico de embalagens com sede ou atividade na Região Autónoma dos Açores podem optar, em alternativa ao sistema integrado previsto no número anterior, por um sistema de consignação, organizado, com as necessárias adaptações, em moldes similares ao previsto para as embalagens reutilizáveis.
 
-###### Artigo 185.º — [...]
+Artigo 185.º
+
+[...]
 
 1 - Qualquer entidade gestora que tenha por objeto tomar a seu cargo a gestão de resíduos de embalagens ao abrigo do sistema integrado, previsto no artigo anterior, carece:
 
@@ -341,7 +471,9 @@ TTM = custo das taxas adicionais do transporte marítimo;
 
 CR = carga máxima de referência do contentor por tipo de material, em toneladas.
 
-###### Artigo 235.º — Planos de ação em matéria de resíduos
+Artigo 235.º
+
+Planos de ação em matéria de resíduos
 
 As entidades gestoras de resíduos, incluindo os municípios e as empresas municipais, que se encontrem em atividade à data de entrada em vigor do presente diploma elaboram os planos a que se refere o artigo 23.º no prazo máximo de um ano contado daquela data.»
 
@@ -355,11 +487,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de julho de 2016.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 20 de setembro de 2016.**
+Assinado em Angra do Heroísmo em 20 de setembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -4385,7 +4517,7 @@ O presente diploma entra em vigor 30 dias úteis após a data da sua publicaçã
 
 [a que se refere a alínea cc) do n.º 1 do artigo 4.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 ## ANEXO II
 
@@ -4417,19 +4549,19 @@ iii) Os elementos acessórios diretamente apensos ou apostos a um produto e que 
 
 [às quais se refere a alínea bbbb) do n.º 1 do artigo 4.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 ## ANEXO IV — Código harmonizado de operações de valorização (códigos R)
 
 [a que se refere a alínea oooo) do n.º 1 do artigo 4.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 ## ANEXO V — Grupos de perigosidade aplicáveis aos resíduos hospitalares
 
 (aos quais se refere o artigo 45.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 ## ANEXO VI — Requisitos técnicos para todas as classes de aterros
 
@@ -4461,7 +4593,7 @@ TABELA N.º 1
 
 Sistemas de proteção, instalações e infraestruturas de apoio em função da classe de aterro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 2.3 - Sistema de proteção ambiental passivo:
 
@@ -4481,7 +4613,7 @@ TABELA N.º 2
 
 Coeficientes de permeabilidade e espessuras mínimas para confinamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 2.4 - Sistema de proteção ambiental ativo:
 
@@ -4573,7 +4705,7 @@ f) Incêndios.
 
 (aos quais se referem os artigos 68.º e 69.º)
 
-# Parte A - Processos de determinação da admissibilidade de resíduos em aterro
+Parte A - Processos de determinação da admissibilidade de resíduos em aterro
 
 1 - Caracterização básica:
 
@@ -4667,7 +4799,7 @@ c) O resíduo pertence a uma tipologia de resíduos para os quais é impraticáv
 
 3.3 - De todos os resíduos admitidos no aterro não identificáveis por simples inspeção visual, o operador deve conservar uma amostra durante um mês, no sentido de poder ser realizada uma análise de controlo.
 
-# Parte B - Critérios de admissão de resíduos em aterro
+Parte B - Critérios de admissão de resíduos em aterro
 
 Notas
 
@@ -4693,7 +4825,7 @@ TABELA N.º 1
 
 Lista de resíduos admissíveis em aterros para resíduos inertes sem necessidade de ensaios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 1.1.3 - Em caso de suspeita de contaminação (quer por inspeção visual quer pelo conhecimento da origem dos resíduos), os resíduos devem ser sujeitos a ensaios ou recusados.
 
@@ -4705,13 +4837,13 @@ TABELA N.º 2
 
 Valores-limite de lixiviação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 TABELA N.º 3
 
 Valores-limite para o teor total de parâmetros orgânicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 2 - Critérios de admissão de resíduos em aterros para resíduos não perigosos:
 
@@ -4723,7 +4855,7 @@ TABELA N.º 4
 
 Valores-limite de lixiviação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 2.3 - Valores-limite para resíduos não perigosos e para resíduos perigosos estáveis não reativos depositados conjuntamente:
 
@@ -4743,7 +4875,7 @@ TABELA N.º 5
 
 Valores-limite de lixiviação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 b) Os resíduos granulares perigosos admissíveis em aterros para resíduos não perigosos devem cumprir os valores-limite constantes da tabela n.º 5 e ainda os da tabela n.º 6.
 
@@ -4751,7 +4883,7 @@ TABELA N.º 6
 
 Outros valores-limite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 2.3.3 - Critérios para resíduos monolíticos:
 
@@ -4803,13 +4935,13 @@ TABELA N.º 7
 
 Valores-limite de lixiviação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 TABELA N.º 8
 
 Outros valores-limite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 3.2 - Valores-limite de lixiviação para resíduos monolíticos - os resíduos monolíticos admissíveis em aterros para resíduos perigosos devem cumprir os valores-limite constantes das tabelas n.os 7 e 8 até que sejam definidos a nível nacional critérios específicos ou estabelecidos critérios a nível comunitário.
 
@@ -4997,7 +5129,7 @@ b) Juntamente com os estratos superior e inferior de rocha impermeável (por exe
 
 4.2.3.1.5 - Na armazenagem em profundidade em rochas duras poderá verificar-se a formação de gás decorrente da degradação a longo prazo dos resíduos, das embalagens e das estruturas construídas. Tal facto deverá ser tomado em consideração na conceção das instalações.
 
-# Parte C - Métodos de amostragem e de ensaio
+Parte C - Métodos de amostragem e de ensaio
 
 I - Nesta parte são referidos os métodos a utilizar na amostragem e verificação dos resíduos.
 
@@ -5041,9 +5173,9 @@ prEN 14405 - ensaio do comportamento lixiviante - ensaio de percolação ascende
 
 EN 12457/1-4 - lixiviação - ensaio de conformidade de lixiviação de materiais de resíduos granulares e de lamas:
 
-# Parte 2: L/S = 10 l/kg, dimensão de partícula (menor que) 4 mm;
+Parte 2: L/S = 10 l/kg, dimensão de partícula (menor que) 4 mm;
 
-# Parte 4: L/S = 10 l/kg, dimensão de partícula (menor que) 10 mm;
+Parte 4: L/S = 10 l/kg, dimensão de partícula (menor que) 10 mm;
 
 CEN/TS 14429 - influência do pH na lixiviação com adição inicial de ácido/base;
 
@@ -5071,7 +5203,7 @@ V - Outros métodos podem resultar de normas CEN.
 
 (aos quais se referem os artigos 73.º e 75.º)
 
-# Parte A - Fase de exploração
+Parte A - Fase de exploração
 
 1 - Manual de exploração:
 
@@ -5129,7 +5261,7 @@ TABELA N.º 1
 
 Controlo dos lixiviados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 5.2 - A amostragem e a medição (volume e composição) dos lixiviados devem ser efetuadas separadamente em cada ponto em que surjam. As amostras a recolher deverão ser representativas da composição média. A medição do nível de lixiviado deve ser efetuada na última caixa de reunião existente em cada célula.
 
@@ -5177,7 +5309,7 @@ TABELA N.º 2
 
 Controlo das águas subterrâneas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 9.2 - Durante a fase de exploração da instalação, o operador do aterro deve monitorizar a qualidade das águas subterrâneas na rede piezométrica de controlo, com a frequência e através das medições e determinações analíticas indicadas na tabela n.º 2.
 
@@ -5211,7 +5343,7 @@ c) O programa de reposição das condições ambientais anteriores ao incidente,
 
 10 - Outros requisitos - em aterros para resíduos não perigosos e exclusivamente com o intuito de promover o processo de degradação biológica dos resíduos, é permitida a humidificação dos mesmos, através da reinjeção de concentrado da unidade de tratamento avançado por membranas, de afluente e de lamas da unidade de tratamento dos lixiviados, desde que os potenciais impactes adversos sobre o ambiente sejam minimizados.
 
-# Parte B - Fase pós-encerramento
+Parte B - Fase pós-encerramento
 
 11 - Condições gerais:
 
@@ -5419,7 +5551,7 @@ QUADRO I
 
 Sistema de numeração e abreviaturas (1) para os plásticos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 (1) Só se utilizam letras maiúsculas.
 
@@ -5427,7 +5559,7 @@ QUADRO II
 
 Sistema de numeração e abreviaturas (1) para papel e cartão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 (1) Só se utilizam letras maiúsculas.
 
@@ -5435,7 +5567,7 @@ QUADRO III
 
 Sistema de numeração e abreviaturas (1) para papel ou metais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 (1) Só se utilizam letras maiúsculas.
 
@@ -5443,7 +5575,7 @@ QUADRO IV
 
 Sistema de numeração e abreviaturas (1) para materiais em madeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 (1) Só se utilizam letras maiúsculas.
 
@@ -5451,7 +5583,7 @@ QUADRO V
 
 Sistema de numeração e abreviaturas (1) para materiais têxteis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 (1) Só se utilizam letras maiúsculas.
 
@@ -5459,7 +5591,7 @@ QUADRO VI
 
 Sistema de numeração e abreviaturas (1) para vidro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 (1) Só se utilizam letras maiúsculas.
 
@@ -5467,7 +5599,7 @@ QUADRO VII
 
 Sistema de numeração e abreviaturas (1) para compósitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19200/0339703483.pdf)
 
 (1) Compósitos: C/ acrescido da abreviatura correspondente ao material predominante.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/16300/17641774.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1981-579746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1789fc6b5945d38ad06754f8d8b676e1de297eed3d4869660ca21dc7f54e51c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bfb3ddc7386dc380f865e286a10e28d72aad7f5e7dd80c7e58d50934e5c9b924
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Criação de Empresas
+- Empresa de Electricidade dos Açores
+- Empresa Pública Regional
+- Energia Elétrica
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:407287:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:31000047:por
+  label: "Prorrogado o prazo fixado no art. 15º do presente diploma pela RES.89/81.25.08.1981.PG-RAA, JOA-IS [31] de 25.08.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/89-1981-31000047
+  date: '1981-08-25'
+- type: cites
+  target: pt:dre:470857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497870:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:229090:por
+  label: "Revogado pelo DRR.19/86/A.17.06.1986.GR-RAA, DR.IS [136] de 17.06.1986, em tudo o que o contrariar \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1986-229090
+  date: '1986-06-17'
+- type: repealed_by
+  target: pt:dre:407287:por
+  label: "Revogado o artigo 2.º e n.º 1 do artigo 3.º pelo DLR.15/96/A.01.08.1996.ALR-RAA, DR.IS-A [177] de 01.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-1996-407287
+  date: '1996-08-01'
 article_structure:
-  article_count: 59
+  article_count: 58
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:29Z'
   warnings: []
   errors: []
 ---
@@ -99,65 +133,65 @@ O lançamento da nova empresa nesta altura reveste-se da maior oportunidade, dad
 
 Assim, em execução do disposto no artigo 1.º do citado [Decreto Regional n.º 16/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857), de 21 de Agosto, o Governo Regional, nos termos da alínea b) do artigo 44.º do Estatuto Político-Administrativo e da alínea b) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º - 1 - É constituída a empresa pública regional denominada «Empresa de Electricidade dos Açores, E. P.», abreviadamente designada «EDA, E. P.».
+Artigo 1.º - 1 - É constituída a empresa pública regional denominada «Empresa de Electricidade dos Açores, E. P.», abreviadamente designada «EDA, E. P.».
 
 2 - A EDA, E. P., é uma pessoa colectiva de direito público, dotada de autonomia administrativa, financeira e patrimonial, que se rege pela lei aplicável às empresas públicas, pelo estatuto anexo a este diploma, e que dele fica a fazer parte integrante, e, subsidiariamente, pelas normas de direito privado.
 
-###### Art. 2.º - 1 - O serviço público cometido à EDA, E. P., será explorado em regime de exclusivo por tempo indeterminado.
+Art. 2.º - 1 - O serviço público cometido à EDA, E. P., será explorado em regime de exclusivo por tempo indeterminado.
 
 2 - O regime de exclusivo previsto no número anterior não impede a produção e distribuição de energia eléctrica, para uso próprio, por entidades que, à data da entrada em vigor deste diploma, disponham da necessária licença ou às quais, ouvida a EDA, E. P., a Direcção Regional de Energia a venha a conceder.
 
-###### Art. 3.º - 1 - A regulamentação do serviço público a cargo da EDA, E. P., será estabelecida, com prévia audiência da Empresa, em decreto regulamentar.
+Art. 3.º - 1 - A regulamentação do serviço público a cargo da EDA, E. P., será estabelecida, com prévia audiência da Empresa, em decreto regulamentar.
 
 2 - Enquanto não for publicado o diploma previsto no número anterior, a EDA, E. P., terá todos os direitos e ficará sujeita a todas as obrigações que, pelos cadernos de encargos das concessões ou por qualquer outro título regulador do serviço público de produção, transporte e distribuição de energia eléctrica, sejam atribuídos ou impostos às entidades cujos serviços ou instalações sejam transferidos para a Empresa.
 
-###### Art. 4.º - 1 - A titularidade do património da EIE - Empresa Insular de Electricidade (Ponta Delgada), S. A. R. L., com os bens, direitos e obrigações a ele afectos, e dos bens do domínio privado da Região afectos ao serviço público de electricidade, considera-se transferida para a EDA, E. P., na data da entrada em vigor deste diploma.
+Art. 4.º - 1 - A titularidade do património da EIE - Empresa Insular de Electricidade (Ponta Delgada), S. A. R. L., com os bens, direitos e obrigações a ele afectos, e dos bens do domínio privado da Região afectos ao serviço público de electricidade, considera-se transferida para a EDA, E. P., na data da entrada em vigor deste diploma.
 
 2 - As instalações e serviços de produção e distribuição de energia eléctrica actualmente explorados pelas autarquias locais, directamente ou por intermédio de serviços municipalizados ou de federações de municípios, serão transferidos para a EDA, E. P., por despacho conjunto dos Secretários Regionais da Administração Pública e do Comércio e Indústria, quando solicitado nos termos do n.º 2 do artigo 2.º do [Decreto Regional n.º 16/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857).
 
-###### Art. 5.º - 1 - As transmissões resultantes do preceituado no artigo anterior operar-se-ão quer por virtude do presente decreto quer do despacho referido no n.º 2 da dita disposição, que serão títulos bastantes para todos os efeitos legais, incluindo os de registo, sendo suficiente, em caso de dúvida, a declaração feita pela EDA, E. P., e confirmada pelos serviços regionais do património, de que os bens se encontravam afectos aos serviços e instalações transferidos.
+Art. 5.º - 1 - As transmissões resultantes do preceituado no artigo anterior operar-se-ão quer por virtude do presente decreto quer do despacho referido no n.º 2 da dita disposição, que serão títulos bastantes para todos os efeitos legais, incluindo os de registo, sendo suficiente, em caso de dúvida, a declaração feita pela EDA, E. P., e confirmada pelos serviços regionais do património, de que os bens se encontravam afectos aos serviços e instalações transferidos.
 
 2 - As transmissões a que se refere o presente artigo serão efectuadas mediante averbamento e ficam isentas de quaisquer impostos, incluindo o de selo, taxas e emolumentos.
 
-###### Art. 6.º A EDA, E. P., assumirá todos os direitos e obrigações derivados de quaisquer actos ou contratos celebrados pela EIE - Empresa Insular de Electricidade (Ponta Delgada), S. A. R. L., ou pelas autarquias locais, serviços municipalizados e federações de municípios que a ela venham a aderir nos termos do n.º 2 do artigo 2.º do [Decreto Regional n.º 16/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857), de 21 de Agosto, sempre que, nestes últimos casos, tais actos ou contratos respeitem à exploração do serviço público cometido à Empresa.
+Art. 6.º A EDA, E. P., assumirá todos os direitos e obrigações derivados de quaisquer actos ou contratos celebrados pela EIE - Empresa Insular de Electricidade (Ponta Delgada), S. A. R. L., ou pelas autarquias locais, serviços municipalizados e federações de municípios que a ela venham a aderir nos termos do n.º 2 do artigo 2.º do [Decreto Regional n.º 16/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857), de 21 de Agosto, sempre que, nestes últimos casos, tais actos ou contratos respeitem à exploração do serviço público cometido à Empresa.
 
-###### Art. 7.º - 1 - Enquanto não for definido um regime tributário próprio, a EDA, E. P., ficará sujeita ao regime actualmente em vigor para a EIE - Empresa Insular de Electricidade (Ponta Delgada), S. A. R. L.
+Art. 7.º - 1 - Enquanto não for definido um regime tributário próprio, a EDA, E. P., ficará sujeita ao regime actualmente em vigor para a EIE - Empresa Insular de Electricidade (Ponta Delgada), S. A. R. L.
 
 2 - A actividade de produção, transporte e distribuição de energia eléctrica a cargo da EDA, E. P., será considerada desde já, para todos os efeitos fiscais, como um único processo produtivo.
 
-###### Art. 8.º Mantêm-se em benefício da EDA, E. P., as regalias reconhecidas por lei às concessionárias do serviço público de produção, transporte e distribuição de energia eléctrica, nomeadamente as atribuídas pelos Decretos-Leis n.os 43335, de 19 de Novembro de 1960, 46031, de 14 de Novembro de 1964, e 46917, de 23 de Março de 1966.
+Art. 8.º Mantêm-se em benefício da EDA, E. P., as regalias reconhecidas por lei às concessionárias do serviço público de produção, transporte e distribuição de energia eléctrica, nomeadamente as atribuídas pelos Decretos-Leis n.os 43335, de 19 de Novembro de 1960, 46031, de 14 de Novembro de 1964, e 46917, de 23 de Março de 1966.
 
-###### Art. 9.º - 1 - São integrados nos quadros da EDA, E. P., independentemente de quaisquer formalidades, os trabalhadores ao serviço da EIE - Empresa Insular de Electricidade (Ponta Delgada), S. A. R. L., bem como os que estiverem exclusivamente afectos aos demais serviços e instalações eléctricas que venham a ser transferidos ao abrigo do disposto no artigo 2.º do [Decreto Regional n.º 16/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857), de 21 de Agosto, mantendo uns e outros os direitos adquiridos até à data da integração.
+Art. 9.º - 1 - São integrados nos quadros da EDA, E. P., independentemente de quaisquer formalidades, os trabalhadores ao serviço da EIE - Empresa Insular de Electricidade (Ponta Delgada), S. A. R. L., bem como os que estiverem exclusivamente afectos aos demais serviços e instalações eléctricas que venham a ser transferidos ao abrigo do disposto no artigo 2.º do [Decreto Regional n.º 16/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857), de 21 de Agosto, mantendo uns e outros os direitos adquiridos até à data da integração.
 
 2 - As garantias dos trabalhadores indicados em último lugar abrangem o direito de beneficiar de quaisquer regalias que venham a ser conferidas em termos genéricos aos funcionários da administração local até ao momento da concretização individual da nova qualificação de funções.
 
 3 - O disposto no número anterior não prejudica igualmente eventuais aumentos salariais, com retroacção, que venham a decorrer da entrada em vigor de instrumento de regulamentação colectiva aplicável.
 
-###### Art. 10.º - 1 - A EDA, E. P., promoverá, mediante acordo com os órgãos competentes da estrutura representativa dos trabalhadores, a elaboração de um estatuto unificado do pessoal.
+Art. 10.º - 1 - A EDA, E. P., promoverá, mediante acordo com os órgãos competentes da estrutura representativa dos trabalhadores, a elaboração de um estatuto unificado do pessoal.
 
 2 - O estatuto a que se refere o número anterior será submetido à aprovação dos Secretários Regionais do Comércio e Indústria e do Trabalho e publicado no Jornal Oficial.
 
-###### Art. 11.º As relações de trabalho entre a EDA, E. P., e os trabalhadores serão regidas pelos instrumentos de regulamentação colectiva que lhe forem específicos e, subsidiariamente, pela lei geral, com as adaptações exigidas pelas características do serviço público a cargo da Empresa e que vierem a ser estabelecidas.
+Art. 11.º As relações de trabalho entre a EDA, E. P., e os trabalhadores serão regidas pelos instrumentos de regulamentação colectiva que lhe forem específicos e, subsidiariamente, pela lei geral, com as adaptações exigidas pelas características do serviço público a cargo da Empresa e que vierem a ser estabelecidas.
 
-###### Art. 12.º - 1 - A EIE - Empresa Insular de Electricidade (Ponta Delgada), S. A. R. L., fica dispensada do cumprimento das formalidades e obrigações estabelecidas na lei relativamente a cessação de actividade.
+Art. 12.º - 1 - A EIE - Empresa Insular de Electricidade (Ponta Delgada), S. A. R. L., fica dispensada do cumprimento das formalidades e obrigações estabelecidas na lei relativamente a cessação de actividade.
 
 2 - O disposto no número anterior não isenta os administradores, directores, membros do conselho fiscal ou outros membros dos órgãos sociais das responsabilidades que lhes possam ser imputadas nos termos da lei.
 
-###### Art. 13.º Os poderes de tutela do Governo Regional sobre a EDA, E. P., são exercidos pelo Secretário Regional do Comércio e Indústria, salvo disposição expressa em contrário.
+Art. 13.º Os poderes de tutela do Governo Regional sobre a EDA, E. P., são exercidos pelo Secretário Regional do Comércio e Indústria, salvo disposição expressa em contrário.
 
-###### Art. 14.º As dúvidas que suscitarem a aplicação e interpretação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Secretário Regional do Comércio e Indústria ou por despacho conjunto deste e dos Secretários Regionais competentes em razão da matéria, quando a dúvida a resolver respeite a mais de um departamento governamental.
+Art. 14.º As dúvidas que suscitarem a aplicação e interpretação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Secretário Regional do Comércio e Indústria ou por despacho conjunto deste e dos Secretários Regionais competentes em razão da matéria, quando a dúvida a resolver respeite a mais de um departamento governamental.
 
-###### Art. 15.º O presente diploma entra em vigor no prazo de trinta dias a contar da data da sua publicação.
+Art. 15.º O presente diploma entra em vigor no prazo de trinta dias a contar da data da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de Abril de 1981.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 25 de Maio de 1981.**
+Assinado em Angra do Heroísmo em 25 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Tomás George Conceição Silva.**
+O Ministro da República, Tomás George Conceição Silva.
 
 Estatuto da Empresa de Electricidade dos Açores, E. P.
 
@@ -769,4 +803,4 @@ Os diferendos entre os órgãos da Empresa referidos no n.º 1 do artigo 11 º. 
 
 As normas necessárias ao bom funcionamento da EDA, E. P., constarão de regulamentos ou ordens de serviço internas.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Tomás George Conceição Silva.**
+O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Tomás George Conceição Silva.

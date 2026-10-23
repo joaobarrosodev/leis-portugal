@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/12100/0381503817.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/517/2008/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/517-2008-456213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d648406c181ea11dc7b7bfff3bbbc3d47104f728e1e14ca231f64c096ae3d35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d180691f25be36cf034fcd6e4bdae1530ff235849c078fbed7c309bf2723e4e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Apartamento Turístico
-- Moradia Turística
 - Aldeamento Turístico
+- Apartamento Turístico
 - Infraestrutura Turística
+- Moradia Turística
 relationships:
 - type: amended_by
   target: pt:dre:892301177:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552029:por
+  label: "Alterado o art. 3º pela PORT.138/2012.14.05.2012.PCM, DR.IS [93] de 14.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-2012-552029
+  date: '2012-05-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/156/2005/09/15/p/dre
   label: null
@@ -86,16 +91,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/39/2008/03/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/39/2008/03/07/p/dre
+- type: cites
+  target: pt:dre:143320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629445:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:453519:por
+  label: "Rectificada pela DECL-RECT.45/2008.22.08.2008.PCM, DR.IS [162] de 22.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/45-2008-453519
+  date: '2008-08-22'
+- type: repealed_by
+  target: pt:dre:56384880:por
+  label: Revogada, a partir de 27.11.2014, pelo(a) Decreto-Lei n.º 128/2014 - Diário da República n.º 166/2014, Série I de
+    2014-08-29
+  source: null
+  date: '2014-08-29'
 article_structure:
   article_count: 12
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:48Z'
   warnings: []
   errors: []
 ---
@@ -230,7 +262,9 @@ b) Tipo de letra Arial 200, de cor azul escura (pantone 280);
 
 c) Aplicação com a distância de 50 mm da parede, através de parafusos de aço inox em cada canto, com 8 mm de diâmetro e 60 mm de comprimento.
 
-###### Artigo 10.º — Livro de reclamações
+###### Artigo 10.º
+
+## Livro de reclamações
 
 1 - Os estabelecimentos de alojamento local devem dispor de livro de reclamações nos termos e condições estabelecidos no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 371/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), de 6 de Novembro.
 
@@ -246,12 +280,12 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 11 de Junho de 2008.
 
-**O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade.**
+O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade.
 
 ## ANEXO I — Modelo do requerimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12100/0381503817.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12100/0381503817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12100/0381503817.pdf)
 
 ## ANEXO II — Modelo da placa identificativa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12100/0381503817.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12100/0381503817.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12100/0381503817.pdf)

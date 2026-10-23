@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1830-(7) a 1830-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/06201/0000700008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/249-a/2008/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2008-260916
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 320fbc781661b95de487f61e909ef3606199ac265c66e642b3afe6fd76b177c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 561ffdcc87ba56c5e9d552920508d6fcb57d4b43450fb6f8e4a7cb8b5dd19807
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Definição de Competências
-- Jovem
-- Instituto da Habitação e da Reabilitação Urbana
-- Programa Porta 65-arrendamento por Jovens
-- Habitação
-- Subsídio
 - Arrendamento Urbano para Habitação
+- Definição de Competências
+- Financiamento
+- Habitação
+- Instituto da Habitação e da Reabilitação Urbana
+- Jovem
+- Programa Porta 65-arrendamento por Jovens
+- Subsídio
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
@@ -89,16 +89,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1515-a/2007/11/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1515-a/2007/11/30/p/dre
+- type: cites
+  target: pt:dre:321558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641166:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552030:por
+  label: "Revogada a Port 1515-A/2007, de 30-Nov, na redacção da presente portaria, pela PORT.277-A/2010.21.05.2010.PCM, DR.IS\
+    \ [99-Supl] de 21.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/277-a-2010-552030
+  date: '2010-05-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:07Z'
   warnings: []
   errors: []
 ---
@@ -157,22 +171,22 @@ c) Rendimentos dos membros do agregado jovem e documentos indicados na alínea d
 
 Em 27 de Março de 2008.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.
 
 ## ANEXO — QUADRO I
 
 Escalões e percentagens a aplicar ao valor da renda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06201/0000700008.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06201/0000700008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06201/0000700008.pdf)
 
 QUADRO II
 
 Renda máxima admitida por NUTS III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06201/0000700008.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06201/0000700008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06201/0000700008.pdf)
 
 QUADRO IV
 
 Mapa de pontuação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06201/0000700008.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06201/0000700008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06201/0000700008.pdf)

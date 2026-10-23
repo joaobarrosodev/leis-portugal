@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/228/2007/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/228-2007-519021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0282844aab9c2878ca1d8ab3cf44c85f542482ce5e397bb7c1fe3c65abd7a0da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bba58c7add31f46fc0bdc6324ee6eb59b11e5f8d690aa45ff24503d0d5f278e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificação Profissional
-- Plano de Estudos
 - Curso de Teatro-iluminação
 - Curso de Teatro-luminotécnica
 - Curso Profissional de Artes do Espectáculo
 - Ensino Profissional
 - Ensino Secundário
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
 - type: cites
@@ -114,16 +114,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/797/2006/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/797/2006/08/10/p/dre
+- type: cites
+  target: pt:dre:177388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652894:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:07Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +210,7 @@ Manda o Governo, pelo Secretário de Estado da Educação, o seguinte:
 
 8.º A presente portaria produz efeitos a partir do ano lectivo de 2006-2007.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 9 de Fevereiro de 2007.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 9 de Fevereiro de 2007.
 
 ## ANEXO — Curso profissional de artes do espectáculo
 
@@ -170,4 +218,4 @@ Luz, som e efeitos cénicos
 
 Plano de estudos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/04500/14471448.pdf))](https://files.diariodarepublica.pt/1s/2007/03/04500/14471448.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/04500/14471448.pdf)

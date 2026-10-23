@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1983-454868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38c4232dfa1d943cb528856090c2cee9492a146ec6dbbc6b02399b54a95ab2e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc4804b25f7afeff157fb4fbb9194b4e8105cb28326a1c061fad86471a583aa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Local
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Quadro Geral de Adidos
+relationships:
+- type: cites
+  target: pt:dre:146763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677649:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:47Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +117,9 @@ O presente decreto legislativo regional visa dar consecução a esse propósito 
 
 Nestes termos, a Assembleia Regional da Madeira, usando da faculdade que lhe é conferida pela alínea a) do artigo 229.º da Constituição da República, aprova, para valer como lei, o seguinte:
 
-###### Artigo 1.º O [Decreto-Lei n.º 179/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1980-474879), de 3 de Junho, aplica-se à administração local da Região Autónoma da Madeira, com as alterações e adaptações constantes dos artigos seguintes.
+Artigo 1.º O [Decreto-Lei n.º 179/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1980-474879), de 3 de Junho, aplica-se à administração local da Região Autónoma da Madeira, com as alterações e adaptações constantes dos artigos seguintes.
 
-###### Artigo 2.º O artigo 1.º do [Decreto-Lei n.º 179/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1980-474879), de 3 de Junho, passa a ter a seguinte redacção:
+Artigo 2.º O artigo 1.º do [Decreto-Lei n.º 179/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1980-474879), de 3 de Junho, passa a ter a seguinte redacção:
 
 ###### ARTIGO 1.º — (Integração de adidos na administração local)
 
@@ -103,7 +127,7 @@ Nestes termos, a Assembleia Regional da Madeira, usando da faculdade que lhe é 
 
 2 - Os funcionários adidos que foram ou venham a ser colocados em data posterior à da publicação do diploma referido no número anterior nas autarquias locais, e ainda em serviços municipalizados, federações e associações de municípios que venham a ser entretanto criados na Região Autónoma da Madeira, serão integrados a partir da data da sua colocação efectiva.
 
-###### Art. 3.º O artigo 2.º do mencionado diploma passa a ter a seguinte redacção:
+Art. 3.º O artigo 2.º do mencionado diploma passa a ter a seguinte redacção:
 
 ###### ARTIGO 2.º — (Integração em lugares já existentes)
 
@@ -111,7 +135,7 @@ Nestes termos, a Assembleia Regional da Madeira, usando da faculdade que lhe é 
 
 2 - Considera-se não haver funcionários do quadro geral administrativo em condições de serem providos logo que, em relação ao lugar a prover, fique deserto o concurso de provimento, nomeadamente o do artigo 35.º do [Decreto-Lei n.º 466/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/466-1979-366603), de 7 de Dezembro, adaptado na Região pelo [Decreto Regulamentar Regional n.º 4/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1980-677649), de 1 de Abril, ou os respectivos concorrentes desistam ou optem por outro lugar, também em concurso, ou continuem em situação de inactividade fora do quadro, nos termos do [Decreto-Lei n.º 585/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/585-1970-146763), de 26 de Novembro.
 
-###### Art. 4.º O artigo 3.º do mesmo diploma passa a ter a seguinte redacção:
+Art. 4.º O artigo 3.º do mesmo diploma passa a ter a seguinte redacção:
 
 ###### ARTIGO 3.º — (Integração através de alargamento de quadros)
 
@@ -121,13 +145,13 @@ Nestes termos, a Assembleia Regional da Madeira, usando da faculdade que lhe é 
 
 3 - ...
 
-###### Art. 5.º O artigo 4.º do mesmo diploma passa a ter a seguinte redacção:
+Art. 5.º O artigo 4.º do mesmo diploma passa a ter a seguinte redacção:
 
 ###### ARTIGO 4.º — (Competência para alargamento dos quadros)
 
 São competentes para aprovação do alargamento dos quadros as assembleias municipais e as comissões administrativas para, respectivamente, os serviços das câmaras municipais e seus serviços municipalizados e das federações e municípios, se vierem a ser criados na Região Autónoma da Madeira.
 
-###### Art. 6.º O artigo 5.º do mesmo diploma passa a ter a seguinte redacção, introduzida no seu n.º 4:
+Art. 6.º O artigo 5.º do mesmo diploma passa a ter a seguinte redacção, introduzida no seu n.º 4:
 
 ###### ARTIGO 5.º — (Categorias de integração)
 
@@ -139,7 +163,7 @@ São competentes para aprovação do alargamento dos quadros as assembleias muni
 
 4 - Não poderá ser integrado nas carreiras de pessoal técnico e de pessoal técnico superior quem não possua, respectivamente, curso superior ou licenciatura adequados.
 
-###### Art. 7.º O artigo 6.º do mesmo diploma passa a ter a seguinte redacção:
+Art. 7.º O artigo 6.º do mesmo diploma passa a ter a seguinte redacção:
 
 ###### ARTIGO 6.º — (Limitações à integração em lugares sujeitos ao regime do quadro geral de adidos)
 
@@ -149,7 +173,7 @@ São competentes para aprovação do alargamento dos quadros as assembleias muni
 
 3 - ...
 
-###### Art. 8.º O artigo 7.º do mesmo diploma passa a ter a seguinte redacção:
+Art. 8.º O artigo 7.º do mesmo diploma passa a ter a seguinte redacção:
 
 ###### ARTIGO 7.º — (Formas e formalidades inerentes à integração)
 
@@ -161,15 +185,15 @@ São competentes para aprovação do alargamento dos quadros as assembleias muni
 
 4 - ...
 
-###### Art. 9.º É eliminado, por não resultar aplicável o seu conteúdo dispositivo à Região Autónoma da Madeira, o artigo 11.º do [Decreto-Lei n.º 179/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1980-474879), de 3 de Junho.
+Art. 9.º É eliminado, por não resultar aplicável o seu conteúdo dispositivo à Região Autónoma da Madeira, o artigo 11.º do [Decreto-Lei n.º 179/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1980-474879), de 3 de Junho.
 
-###### Art. 10.º O artigo 13.º do mesmo diploma passa a ter a seguinte redacção:
+Art. 10.º O artigo 13.º do mesmo diploma passa a ter a seguinte redacção:
 
 ###### ARTIGO 13.º — (Resolução de dúvidas)
 
 As dúvidas resultantes da aplicação do presente diploma serão resolvidas por decreto regulamentar regional.
 
-###### Art. 11.º O artigo 14.º do mesmo diploma passa a ter a seguinte redacção:
+Art. 11.º O artigo 14.º do mesmo diploma passa a ter a seguinte redacção:
 
 ###### ARTIGO 14.º — (Entrada em vigor)
 
@@ -177,10 +201,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 14 de Junho de 1983.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 28 de Junho de 1983.**
+Assinado em 28 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

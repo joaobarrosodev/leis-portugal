@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2004/06/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2004-517445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b6fe36ff8291ba11c3ab37f23b4d658e7851fbefd3a6d2be82386a273fc2f53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bba95be69de04aba12b5b62bdcf75a9095dbd96190cbab822a3f769d4720f4ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alienação de Imóveis
 - Aquisição de Solos
-- Financiamento
 - Comparticipação do Estado
 - Crédito à Habitação
 - Crédito Bonificado
-- Renovação Urbana
-- Ilha de São Jorge
-- Transmissão da Propriedade
-- Ilha do Pico
+- Financiamento
 - Habitação
-- Sismo
-- Açores
+- Ilha de São Jorge
 - ILHA do Faial
+- Ilha do Pico
+- Renovação Urbana
+- Sismo
+- Transmissão da Propriedade
 - ZONA Sinistrada
 relationships:
 - type: cites
@@ -91,16 +91,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/8/2003/03/12/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/8/2003/03/12/a/dre
+- type: cites
+  target: pt:dre:173493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214713:por
+  label: null
+  source: null
 article_structure:
-  article_count: 65
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 41
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:01Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +173,9 @@ o) ...
 
 p) 'Solo apto para construção' o que permite a construção da habitação considerada para efeitos da determinação do apoio.
 
-###### Artigo 7.º — Arrendamentos e comodatos
+Artigo 7.º
+
+Arrendamentos e comodatos
 
 1 - ...
 
@@ -179,7 +189,9 @@ b) Cedência de prédio ou fracção autónoma destinado à habitação.
 
 4 - Para a realização do apoio previsto na alínea b) do n.º 2, o Governo Regional pode adquirir prédios ou fracções autónomas devolutos e, se necessário for, dotá-los das adequadas condições de habitabilidade.
 
-###### Artigo 10.º — Limites dos apoios
+Artigo 10.º
+
+Limites dos apoios
 
 1 - ...
 
@@ -193,11 +205,15 @@ c) No caso de reparações, (euro) 14963,94.
 
 3 - ...
 
-###### Artigo 16.º — Ónus de inalienabilidade
+Artigo 16.º
+
+Ónus de inalienabilidade
 
 As habitações que hajam sido objecto de qualquer apoio no âmbito do presente diploma não podem ser alienadas antes de decorrido o prazo de oito anos, a contar, consoante o caso, da conclusão das obras, da celebração da escritura pública de aquisição ou do auto de cessão.
 
-###### Artigo 17.º — Levantamento do ónus de inalienabilidade
+Artigo 17.º
+
+Levantamento do ónus de inalienabilidade
 
 1 - ...
 
@@ -217,57 +233,59 @@ c) ...
 
 ### Capítulo I - Princípios gerais;
 
-###### Artigo 1.º - Objecto;
+Artigo 1.º - Objecto;
 
 [...]
 
-### Capítulo II - Tipologia dos apoios;
+Capítulo II - Tipologia dos apoios;
 
 ###### Artigo 3.º - Apoios;
 
-###### Artigo 4.º - Determinação da classe de apoio;
+Artigo 4.º - Determinação da classe de apoio;
 
-###### Artigo 5.º - Bonificação de juros;
+Artigo 5.º - Bonificação de juros;
 
-###### Artigo 6.º - Aquisição ou construção excepcional de habitação;
+Artigo 6.º - Aquisição ou construção excepcional de habitação;
 
-###### Artigo 8.º - Área e tipologia das habitações;
+Artigo 8.º - Área e tipologia das habitações;
 
-###### Artigo 9.º - Deduções aos montantes comparticipados;
+Artigo 9.º - Deduções aos montantes comparticipados;
 
 [...]
 
-### Capítulo III - Processo de candidatura;
+Capítulo III - Processo de candidatura;
 
 #### Secção I - Regime geral;
 
-###### Artigo 11.º - Avaliação;
+Artigo 11.º - Avaliação;
 
 ###### Artigo 12.º - Projecto;
 
-###### Artigo 13.º - Candidatura;
+Artigo 13.º - Candidatura;
 
-###### Artigo 14.º - Comunicação da decisão;
+Artigo 14.º - Comunicação da decisão;
 
-#### Secção II - Arrendatários e comodatários;
+Secção II - Arrendatários e comodatários;
 
 [...]
 
-### Capítulo IV - Obrigações dos beneficiários;
+Capítulo IV - Obrigações dos beneficiários;
 
-###### Artigo 15.º - Afectação da habitação;
+Artigo 15.º - Afectação da habitação;
 
-###### Artigo 18.º - Reembolso da comparticipação e da bonificação;
+Artigo 18.º - Reembolso da comparticipação e da bonificação;
 
 ###### Artigo 19.º - Registo do ónus;
 
-### Capítulo V - Disposições finais;
+Capítulo V - Disposições finais;
 
 ###### Artigo 20.º - Apoio técnico;
 
-###### Artigo 21.º - Falsas declarações;
+Artigo 21.º - Falsas declarações;
 
-###### Artigo 22.º - Regulamentação. — Artigo 2.º
+###### Artigo 22.º - Regulamentação.
+
+###### Artigo 2.º
 
 Aditamentos ao [Decreto Legislativo Regional n.º 15-A/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-1998-173493), de 25 de Setembro
 
@@ -287,7 +305,9 @@ c) (euro) 15000, para os agregados familiares com um rendimento per capita super
 
 2 - A comparticipação financeira prevista no número anterior não poderá exceder o valor de aquisição do bem, nem o que resultar da avaliação efectuada ao mesmo pelos serviços do departamento do Governo Regional com atribuições na área da habitação, e só será disponibilizada ao beneficiário no momento da outorga da escritura de compra e venda.
 
-###### Artigo 7.º-B — Cedência de prédio ou fracção autónoma a arrendatários ou comodatários
+Artigo 7.º-B
+
+Cedência de prédio ou fracção autónoma a arrendatários ou comodatários
 
 1 - Os arrendatários e os comodatários que beneficiarem do apoio previsto na alínea b) do n.º 2 do artigo 7.º terão de suportar o custo do terreno infra-estruturado correspondente, o qual, no caso de fracção autónoma, será calculado em função da permilagem que a esta for atribuída.
 
@@ -309,7 +329,9 @@ c) (euro) 15000, para os agregados familiares com um rendimento per capita super
 
 10 - Em caso de falecimento do cessionário, constitui encargo da herança a obrigação do pagamento da quantia que ainda estiver em dívida.
 
-###### Artigo 14.º-A — Formalização da candidatura
+Artigo 14.º-A
+
+Formalização da candidatura
 
 1 - Os arrendatários e os comodatários que pretendam aceder ao apoio previsto na alínea a) do n.º 2 do artigo 7.º terão de o requerer junto dos serviços do departamento do Governo Regional com atribuições na área da habitação, sediados nas ilhas do Faial e do Pico.
 
@@ -337,7 +359,9 @@ b) Certidão dos serviços de finanças dos concelhos de residência e naturalid
 
 5 - O requerimento deverá ser formulado por escrito e em modelo próprio a disponibilizar gratuitamente pelos serviços referidos no n.º 1.
 
-###### Artigo 14.º-B — Instrução do processo
+Artigo 14.º-B
+
+Instrução do processo
 
 1 - O requerimento, acompanhado da documentação referida no artigo anterior, é sujeito a verificação por parte do serviço receptor.
 
@@ -345,7 +369,9 @@ b) Certidão dos serviços de finanças dos concelhos de residência e naturalid
 
 3 - Se o requerimento e respectiva documentação não satisfizerem o exigido no artigo anterior, o serviço receptor notificará o interessado para, em prazo nunca inferior a 10 dias, suprir as deficiências detectadas.
 
-###### Artigo 14.º-C — Decisão de indeferimento
+Artigo 14.º-C
+
+Decisão de indeferimento
 
 1 - Resultando das diligências instrutórias que o processo de candidatura não é passível de deferimento, o serviço instrutor notificará o interessado para, em prazo não inferior a 10 dias, dizer o que se lhe oferecer.
 
@@ -355,7 +381,9 @@ b) Certidão dos serviços de finanças dos concelhos de residência e naturalid
 
 4 - Proferida a decisão pelo membro do Governo Regional referido no número anterior, será a mesma notificada ao interessado.
 
-###### Artigo 14.º-D — Decisão de deferimento
+Artigo 14.º-D
+
+Decisão de deferimento
 
 1 - Verificada a elegibilidade da candidatura apresentada, o serviço instrutor elaborará relatório de termo de instrução, devidamente fundamentado e com proposta concreta de decisão, e remetê-lo-á para o membro do Governo Regional com competência em matéria de habitação.
 
@@ -365,7 +393,9 @@ b) Certidão dos serviços de finanças dos concelhos de residência e naturalid
 
 4 - Consistindo o apoio numa comparticipação financeira a fundo perdido, será o mesmo atribuído por portaria do membro do Governo Regional referido no n.º 1, a publicar por extracto na 2.ª série do Jornal Oficial da Região Autónoma dos Açores.
 
-###### Artigo 14.º-E — Prioridades da decisão
+Artigo 14.º-E
+
+Prioridades da decisão
 
 1 - Serão prioritariamente decididos, independentemente da ordem de entrada dos pedidos, os processos de candidatura que configurem situações urgentes, designadamente pela verificação de uma das seguintes condições:
 
@@ -383,11 +413,15 @@ e) Agregados familiares que ocupem prédio sem condições mínimas de habitabil
 
 3 - Aquando da resposta à solicitação referida no número anterior, o candidato poderá juntar novos elementos ou solicitar novas diligências.
 
-###### Artigo 14.º-F — Renúncia de direitos
+Artigo 14.º-F
+
+Renúncia de direitos
 
 A não aceitação, sempre que de forma expressa, no prazo de 60 dias, do prédio ou fracção autónoma por parte de quem o haja requerido equivale à renúncia do direito que lhe assistia nos termos do presente diploma.
 
-###### Artigo 19.º-A — Obrigações dos arrendatários ou comodatários
+Artigo 19.º-A
+
+Obrigações dos arrendatários ou comodatários
 
 1 - Os arrendatários e os comodatários que tenham beneficiado do apoio previsto na alínea a) do n.º 2 do artigo 7.º relativamente aos quais o Governo Regional não haja assumido a construção da respectiva habitação ficam especialmente sujeitos às seguintes obrigações:
 
@@ -417,7 +451,9 @@ c) O reembolso à Região do valor do apoio concedido para a aquisição do solo
 
 8 - Sempre que os prazos previstos nas alíneas b) e c) do n.º 1 não possam ser cumpridos por motivo atendível, devidamente comprovado, poderão os mesmos, mediante requerimento dos interessados, ser prorrogados por despacho do membro do Governo Regional competente em matéria de habitação.
 
-###### Artigo 21.º-A — Transmissibilidade da titularidade do direito
+Artigo 21.º-A
+
+Transmissibilidade da titularidade do direito
 
 1 - A titularidade do direito aos apoios concedidos ao abrigo do presente diploma transmite-se por morte do beneficiário aos membros do agregado familiar que lhe sobrevivam.
 
@@ -433,13 +469,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Maio de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 8 de Junho de 2004.**
+Assinado em Angra do Heroísmo em 8 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — (conforme o artigo 3.º)
 
@@ -493,7 +529,7 @@ p) «Solo apto para construção» o que permite a construção da habitação c
 
 Para efeitos do presente diploma, a aquisição, construção, reconstrução, reabilitação e reparação de habitações beneficia de apoios especiais, consubstanciados em comparticipações a fundo perdido e ou financiamentos sob a forma de créditos reembolsáveis às taxas de juro bonificadas, nos termos seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)
 
 ###### Artigo 4.º — Determinação da classe de apoio
 
@@ -503,7 +539,7 @@ Classe de apoio
 
 Rendimento per capita
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)
 
 2 - No cálculo do rendimento anual bruto do agregado familiar do beneficiário que tinha contraído empréstimo na banca para habitação sinistrada, será deduzido o encargo anual decorrente do mesmo empréstimo.
 
@@ -575,7 +611,7 @@ c) (euro) 15000 para os agregados familiares com um rendimento per capita superi
 
 2 - No caso de o beneficiário adquirir ou construir uma habitação, esta deve subordinar-se ao limite máximo de área previsto no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)](https://files.diariodarepublica.pt/1s/2004/06/151a00/39433953.pdf)
 
 3 - Se o imóvel a adquirir ou a construir exceder o limite de área fixado no quadro anterior, até ao máximo de 25%, o beneficiário que recorra ao crédito terá direito a uma bonificação de juros, nos termos seguintes:
 

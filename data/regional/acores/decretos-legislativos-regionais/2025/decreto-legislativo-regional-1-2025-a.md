@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00100/0002300219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2025/01/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2025-901693817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c4bfd409f26dd0467bbd9f9166502cd36b1d39b80b35c2728a8a73df70e9e9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4a7a179ba9b74f1b202e00d02085f949279788d563c94ccbe17879c191b1ef5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carta de Zonas Inundáveis para Áreas de Risco
-- Plano de Gestão dos Riscos de Inundações
-- Ordenamento do Território
-- Carta de Riscos de Inundações
-- Gestão do Ambiente
-- Bacia Hidrográfica
 - Açores
+- Bacia Hidrográfica
+- Carta de Riscos de Inundações
+- Carta de Zonas Inundáveis para Áreas de Risco
 - Cheias
+- Gestão do Ambiente
+- Ordenamento do Território
+- Plano de Gestão dos Riscos de Inundações
 relationships:
 - type: cites
   target: celex:32000L0060
@@ -122,6 +122,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:106404757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126669989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207881792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208326768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75491410:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32007L0060
   label: null
@@ -129,13 +169,13 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:17Z'
   warnings: []
   errors: []
 ---
@@ -400,11 +440,11 @@ O PGRIA 2022-2027 entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de outubro de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 27 de novembro de 2024.**
+Assinado em Angra do Heroísmo em 27 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -478,14 +518,14 @@ Tabela 2 - Instrumentos de Gestão Territorial em vigor na Região Autónoma dos
 | IGT | Designação | Número |
 | --- | --- | --- |
 | Desenvolvimento territorial | Programa Nacional de Ordenamento do Território | 1 |
-| Desenvolvimento territorial | Plano Regional de Ordenamento do Território dos Açores | 1 |
+| Plano Regional de Ordenamento do Território dos Açores | 1 |  |
 | Política setorial | Programas Setoriais | 8 |
 | Natureza especial | Planos de Ordenamento da Orla Costeira | 10 |
-| Natureza especial | Planos de Ordenamento de Áreas Protegidas | 1 |
-| Natureza especial | Planos de Ordenamento de Bacias Hidrográficas de Lagoas | 5 |
+| Planos de Ordenamento de Áreas Protegidas | 1 |  |
+| Planos de Ordenamento de Bacias Hidrográficas de Lagoas | 5 |  |
 | Planeamento Territorial | Planos Diretores Municipais | 19 |
-| Planeamento Territorial | Planos de Urbanização | 7 |
-| Planeamento Territorial | Planos de Pormenor | 12 |
+| Planos de Urbanização | 7 |  |
+| Planos de Pormenor | 12 |  |
 
 A gestão dos riscos de inundações é uma das componentes da gestão integrada das bacias hidrográficas, pelo que a adoção de uma adequada política de planeamento deverá assentar na coordenação entre a Diretiva Inundações e a Diretiva Quadro da Água. Com efeito, quer o PGRIA quer o Plano de Gestão de Região Hidrográfica dos Açores (PGRH-Açores) são planos de recursos hídricos que promovem o planeamento das águas considerando a bacia hidrográfica como unidade principal de planeamento e gestão.
 
@@ -493,7 +533,8 @@ A elaboração do PGRIA 2022-2027 foi efetuada em estreita articulação com o P
 
 Na Região Autónoma dos Açores, a Região Hidrográfica dos Açores (RH9) - figura 1 - é constituída por nove sub-bacias hidrográficas que correspondem a cada uma das ilhas (Santa Maria, São Miguel, Terceira, Graciosa, São Jorge, Pico, Faial, Flores e Corvo). Na RH9 estão delimitadas 91 massas de água, das quais 63 são superficiais (33 interiores, 3 de transição e 27 costeiras) e 28 são subterrâneas. A RH9 foi formalmente criada na sequência da entrada em vigor do Decreto-Lei n.º 112/2002, de 17 de abril, que procedeu à subdivisão do território nacional em 10 regiões hidrográficas.
 
-![](https://files.diariodarepublica.pt/images/901693817/901860209.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860209.png) |
+| --- |
 
 Figura 1 - Representação da RH9 e das respetivas massas de água abrangidas pelo PGRH-Açores 2022-2027
 
@@ -523,11 +564,12 @@ As novas bacias hidrográficas em que foram identificadas áreas de risco potenc
 
 O arquipélago dos Açores localiza-se na região Nordeste do oceano Atlântico (figura 2), ocupando uma zona intermédia, com características climáticas subtropicais, delimitada pelas seguintes coordenadas geográficas (extremas): entre 39° 43’ 23’’ (Ponta Norte - ilha do Corvo) e 36° 55’ 43’’ (Ponta do Castelo - ilha de Santa Maria) de Latitude Norte; entre 24° 46’ 15’’ (Ilhéus das Formigas - ilha de Santa Maria) e 31° 16’ 24’’ (Ilhéu de Monchique - ilha das Flores) de Longitude Oeste (SREA, 2008).
 
-![](https://files.diariodarepublica.pt/images/901693817/901860210.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860210.png) |
+| --- |
 
 Figura 2 - Enquadramento geográfico do arquipélago dos Açores
 
-As ilhas dos Açores emergem do fundo oceânico nas proximidades da Dorsal Média Atlântica, estando alinhadas segundo um eixo com orientação geral WNW-ESE, facto concordante com a disposição das principais fraturas tectónicas que marcam a geodinâmica desta região. A insularidade e o isolamento do arquipélago são fatores determinantes da geografia regional, como se comprova pelo grande distanciamento às costas continentais circundantes: cerca de 1500 km da Europa (Portugal continental) e de 3900 km da América do Norte. A separação máxima entre ilhas ultrapassa os 600 km, considerando uma linha que liga o Corvo a Santa Maria. A disposição longitudinal das ilhas determina que a Subzona Económica Exclusiva (ZEE) dos Açores tenha uma superfície aproximada de 953 633 km<sup>2</sup>, a qual corresponde a 55 % e a 16 % da ZEE de Portugal e da UE, respetivamente.
+As ilhas dos Açores emergem do fundo oceânico nas proximidades da Dorsal Média Atlântica, estando alinhadas segundo um eixo com orientação geral WNW-ESE, facto concordante com a disposição das principais fraturas tectónicas que marcam a geodinâmica desta região. A insularidade e o isolamento do arquipélago são fatores determinantes da geografia regional, como se comprova pelo grande distanciamento às costas continentais circundantes: cerca de 1500 km da Europa (Portugal continental) e de 3900 km da América do Norte. A separação máxima entre ilhas ultrapassa os 600 km, considerando uma linha que liga o Corvo a Santa Maria. A disposição longitudinal das ilhas determina que a Subzona Económica Exclusiva (ZEE) dos Açores tenha uma superfície aproximada de 953 633 km2, a qual corresponde a 55 % e a 16 % da ZEE de Portugal e da UE, respetivamente.
 
 Apesar do considerável afastamento entre os Açores e a Madeira (900 km), as Canárias (1150 km) e Cabo Verde (2200 km) e ainda da aparente falta de relação entre o vulcanismo originário das ilhas, estes quatro arquipélagos constituem a Região da Macaronésia, declarada como ecorregião pela Diretiva-Quadro da Água (Região Ibérico-Macaronésica). Os condicionalismos biogeográficos, designadamente a circunstância insular, justificam o valioso património natural destas ilhas atlânticas, que acolhem 19 % dos tipos de habitats listados no anexo i e a 28 % das plantas do anexo ii da Diretiva Habitats.
 
@@ -549,43 +591,53 @@ Salienta-se, ainda, que a pequena dimensão das ilhas que constituem o arquipél
 
 Todas as bacias hidrográficas dos Açores foram hierarquizadas em três níveis - baixo, moderado e elevado - relativamente ao risco de cheias fluviais, de acordo com os critérios sumarizados na figura 3 (Silva & Marques, 2018). A cartografia produzida permitiu verificar que em apenas seis das nove ilhas dos Açores existem bacias classificadas como de risco de cheias elevado, nomeadamente Santa Maria, São Miguel, Terceira, São Jorge, Pico e Flores, enquanto nas ilhas do Faial, Graciosa e Corvo o nível máximo alcançado corresponde a risco moderado (figuras 4 a 12). Posteriormente, e considerando exclusivamente as bacias hidrográficas que integravam o nível de risco elevado, foram identificadas aquelas onde ocorreram reincidências e/ou vítimas mortais.
 
-![](https://files.diariodarepublica.pt/images/901693817/901860211.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860211.png) |
+| --- |
 
 Figura 3 - Critérios conducentes à hierarquização do risco de cheias nas bacias hidrográficas do arquipélago dos Açores (adaptado Silva & Marques, 2018)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860212.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860212.png) |
+| --- |
 
 Figura 4 - Classificação das bacias hidrográficas da ilha de Santa Maria em termos de risco de cheias fluviais (adaptado Silva & Marques, 2018)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860213.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860213.png) |
+| --- |
 
 Figura 5 - Classificação das bacias hidrográficas da ilha de São Miguel em termos de risco de cheias fluviais (adaptado Silva & Marques, 2018)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860214.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860214.png) |
+| --- |
 
 Figura 6 - Classificação das bacias hidrográficas da ilha Terceira em termos de risco de cheias fluviais (adaptado Silva & Marques, 2018)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860215.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860215.png) |
+| --- |
 
 Figura 7 - Classificação das bacias hidrográficas da ilha de São Jorge em termos de risco de cheias fluviais (adaptado Silva & Marques, 2018)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860216.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860216.png) |
+| --- |
 
 Figura 8 - Classificação das bacias hidrográficas da ilha do Pico em termos de risco de cheias fluviais (adaptado Silva & Marques, 2018)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860217.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860217.png) |
+| --- |
 
 Figura 9 - Classificação das bacias hidrográficas da ilha do Faial em termos de risco de cheias fluviais (adaptado Silva & Marques, 2018)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860218.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860218.png) |
+| --- |
 
 Figura 10 - Classificação das bacias hidrográficas da ilha Graciosa em termos de risco de cheias fluviais (adaptado Silva & Marques, 2018)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860219.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860219.png) |
+| --- |
 
 Figura 11 - Classificação das bacias hidrográficas da ilha das Flores em termos de risco de cheias fluviais (adaptado Silva & Marques, 2018)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860220.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860220.png) |
+| --- |
 
 Figura 12 - Classificação das bacias hidrográficas da ilha do Corvo em termos de risco de cheias fluviais (adaptado Silva & Marques, 2018)
 
@@ -593,48 +645,52 @@ Figura 12 - Classificação das bacias hidrográficas da ilha do Corvo em termos
 
 As 11 bacias hidrográficas em que foi identificado risco potencial de ocorrência de cheias fluviais são: Ribeira Grande, Ribeira da Povoação, Grota da Areia e Grota do Cinzeiro, na ilha de São Miguel, Ribeira da Agualva, Ribeiras do Porto Judeu, Ribeira Casa da Ribeira e Ribeira de São Bento, na Terceira, Ribeira Seca, em São Jorge, Ribeira do Dilúvio, no Pico, e Ribeira Grande, nas Flores. A respetiva delimitação geográfica é apresentada na figura 13, enquanto a sua inserção administrativa ao nível de concelho e de freguesia é listada na tabela 3.
 
-![](https://files.diariodarepublica.pt/images/901693817/901860221.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860221.png) |
+| --- |
 
 Figura 13 - Localização das bacias hidrográficas onde foram identificados riscos potenciais significativos de inundações no âmbito do PGRIA 2022-2027
 
 Tabela 3 - Enquadramento administrativo das bacias hidrográficas onde foram identificados riscos potenciais significativos de cheias fluviais
 
-| Ilha | Bacia hidrográfica | Designação PGRH | Área (km<sup>2</sup>) | Concelho | Freguesia |
+| Ilha | Bacia hidrográfica | Designação PGRH | Área (km2) | Concelho | Freguesia |
 | --- | --- | --- | --- | --- | --- |
 | Flores | Ribeira Grande | FLB34 - Ribeira Grande | 15,86 | Santa Cruz das FloresLajes das Flores | Santa Cruz das FloresFajã GrandeFajãzinhaLajes das FloresFazendaLomba |
 | Pico | Ribeira do Dilúvio | PIA19 - Bacias Agregadas | 1,10 | Madalena | São Caetano |
 | São Jorge | Ribeira Seca | JOB9 - Ribeira Seca | 8,06 | Calheta | CalhetaRibeira SecaNorte Pequeno |
 | Terceira | Ribeira da Agualva | TEB6 - Ribeira da Agualva | 7,44 | Praia da Vitória | AgualvaVila Nova |
-| Terceira | Ribeiras do Porto Judeu | TEB19 - Ribeira do Testo | 14,20 | Praia da VitóriaAngra do Heroísmo | Porto JudeuVila de S. SebastiãoPraia da Vitória (St.ª Cruz) |
-| Terceira | Ribeiras do Porto Judeu | TEA20 - Bacias Agregadas (Grota do Tapete) | 11,91 | Angra do Heroísmo | FeteiraPorto JudeuVila de São Sebastião |
-| Terceira | Ribeira de São Bento | TEB32 - Grota dos Calrinhos | 11,96 | Angra do Heroísmo | Porto JudeuSão BentoN. Sr.ª da ConceiçãoSanta LuziaPosto Santo |
-| Terceira | Ribeira da Casa da Ribeira | TEB29 - Ribeira de Santo Antão | 5,35 | Praia da Vitória | Praia da Vitória (St.ª Cruz)Fontinhas |
+| Ribeiras do Porto Judeu | TEB19 - Ribeira do Testo | 14,20 | Praia da VitóriaAngra do Heroísmo | Porto JudeuVila de S. SebastiãoPraia da Vitória (St.ª Cruz) |  |
+| TEA20 - Bacias Agregadas (Grota do Tapete) | 11,91 | Angra do Heroísmo | FeteiraPorto JudeuVila de São Sebastião |  |  |
+| Ribeira de São Bento | TEB32 - Grota dos Calrinhos | 11,96 | Angra do Heroísmo | Porto JudeuSão BentoN. Sr.ª da ConceiçãoSanta LuziaPosto Santo |  |
+| Ribeira da Casa da Ribeira | TEB29 - Ribeira de Santo Antão | 5,35 | Praia da Vitória | Praia da Vitória (St.ª Cruz)Fontinhas |  |
 | São Miguel | Ribeira Grande | MIB15 - Ribeira Grande | 18,44 | Ribeira GrandeVila Franca do Campo | Matriz (IRB. Grande)Conceição (Rib.ª. Grande)RibeirinhaPorto FormosoVila Franca do Campo |
-| São Miguel | Ribeira da Povoação | MIB113 - Ribeira da Povoação | 28,98 | PovoaçãoNordeste | PovoaçãoN. Sr.ª dos RemédiosFaial da TerraLomba da FazendaAchada |
-| São Miguel | Grota da Areia | MIB2 - Grota do Bilhão | 1,60 | Ponta Delgada | Pilar da Bretanha |
-| São Miguel | Grota do Cinzeiro | MIB66 - Nome Desconhecido | 1,53 | Nordeste | Nordeste |
+| Ribeira da Povoação | MIB113 - Ribeira da Povoação | 28,98 | PovoaçãoNordeste | PovoaçãoN. Sr.ª dos RemédiosFaial da TerraLomba da FazendaAchada |  |
+| Grota da Areia | MIB2 - Grota do Bilhão | 1,60 | Ponta Delgada | Pilar da Bretanha |  |
+| Grota do Cinzeiro | MIB66 - Nome Desconhecido | 1,53 | Nordeste | Nordeste |  |
 
 A densidade de drenagem de cada uma das bacias onde foram identificados riscos potenciais significativos de cheias fluviais é dada pela razão entre o comprimento total dos canais e a área da bacia hidrográfica (Horton, 1945). Esta depende da interação entre a energia disponível a induzir erosão e a resistência e suscetibilidade dos terrenos à mesma. Assim, é possível concluir que a densidade de drenagem relaciona-se fundamentalmente com fatores climáticos topográficos e geológicos, com a quantidade e, sobretudo, intensidade da precipitação, mas também com o declive médio, o tipo de coberto vegetal e permeabilidade dos solos (Almeida, 1985; Almeida e Romariz, 1988). Importa realçar que nas bacias em causa o declive pode ser acentuado, em particular a montante ou no troço médio dos cursos de água, podendo atingir valores superiores a 40° de inclinação.
 
-Nas bacias onde foram identificados riscos potenciais significativos de cheias fluviais, a densidade de drenagem varia entre 0,74 km<sup>-1</sup> (TEB19 - Ribeira do Testo, uma das unidades de escoamento da bacia hidrográfica do Porto Judeu, Terceira) e 6,74 km<sup>-1</sup> (Grota da Areia, São Miguel). No entanto, a mediana dos valores do conjunto de bacias em risco é igual a 3,81 km<sup>-1</sup>, o que revela que na maioria dos casos os valores podem ser considerados como relativamente elevados, ou seja correspondem a bacias em que o escoamento de superfície é relevante face à infiltração, não obstante as taxas de recarga expetáveis (Cruz et al. 2021).
+Nas bacias onde foram identificados riscos potenciais significativos de cheias fluviais, a densidade de drenagem varia entre 0,74 km-1 (TEB19 - Ribeira do Testo, uma das unidades de escoamento da bacia hidrográfica do Porto Judeu, Terceira) e 6,74 km-1 (Grota da Areia, São Miguel). No entanto, a mediana dos valores do conjunto de bacias em risco é igual a 3,81 km-1, o que revela que na maioria dos casos os valores podem ser considerados como relativamente elevados, ou seja correspondem a bacias em que o escoamento de superfície é relevante face à infiltração, não obstante as taxas de recarga expetáveis (Cruz et al. 2021).
 
-Relativamente ao escoamento anual, constata-se que o mesmo varia entre 0,83 hm<sup>3</sup>/a (Grota da Areia, São Miguel) e 14,36 0,83 hm<sup>3</sup>/a (Ribeira da Povoação, São Miguel), com a classe modal a corresponder a valores entre 0 e 3,75 hm<sup>3</sup>/a (figura 14).
+Relativamente ao escoamento anual, constata-se que o mesmo varia entre 0,83 hm3/a (Grota da Areia, São Miguel) e 14,36 0,83 hm3/a (Ribeira da Povoação, São Miguel), com a classe modal a corresponder a valores entre 0 e 3,75 hm3/a (figura 14).
 
-![](https://files.diariodarepublica.pt/images/901693817/901860222.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860222.png) |
+| --- |
 
 Figura 14 - Histograma relativo ao escoamento anual das bacias hidrográficas onde foram identificados riscos potenciais de ocorrência de cheias fluviais (os resultados relativos à bacia hidrográfica do Porto Judeu encontram-se subdivididos nas suas duas unidades
 
 Os valores de caudal de ponta de cheia para tempos de retorno de 5, 10, 25, 50 e 100 anos, relativos a cada uma das bacias hidrográficas onde foram identificados riscos potenciais significativos de cheias fluviais no âmbito do PGRIA 2022-2027, são apresentados na figura 15. Estes valores foram estimados com base nas expressões regionalizadas apresentadas no âmbito do Plano de Gestão de Região Hidrográfica 2022-2027 (DROTRH, 2022).
 
-Os valores mais elevados são observados na bacia hidrográfica da Ribeira da Povoação (São Miguel), onde atingem 178,2 m<sup>3</sup>/s, 222,5 m<sup>3</sup>/s, 280,1 m<sup>3</sup>/s, 324,3 m<sup>3</sup>/s e 368,9 m<sup>3</sup>/s, respetivamente para tempos de retorno de 5, 10, 25, 50 e 100 anos, enquanto os mais reduzidos correspondem às bacias da Grota da Areia (São Miguel) e do Dilúvio (Pico), onde para um tempo de retorno de 100 anos são respetivamente iguais a 10,9 m<sup>3</sup>/s e 14,3 m<sup>3</sup>/s (figura 15).
+Os valores mais elevados são observados na bacia hidrográfica da Ribeira da Povoação (São Miguel), onde atingem 178,2 m3/s, 222,5 m3/s, 280,1 m3/s, 324,3 m3/s e 368,9 m3/s, respetivamente para tempos de retorno de 5, 10, 25, 50 e 100 anos, enquanto os mais reduzidos correspondem às bacias da Grota da Areia (São Miguel) e do Dilúvio (Pico), onde para um tempo de retorno de 100 anos são respetivamente iguais a 10,9 m3/s e 14,3 m3/s (figura 15).
 
 A relação linear entre as áreas das bacias hidrográficas e os valores de caudal de ponta de cheia para os diversos tempos de retorno considerados coloca em evidência que a área é um dos principais fatores que determinam o escoamento de ponta, com coeficientes de correlação entre 0,792 e 0,806 (figura 16).
 
-![](https://files.diariodarepublica.pt/images/901693817/901860223.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860223.png) |
+| --- |
 
 Figura 15 - Histograma relativo ao escoamento de ponta de cheia das bacias hidrográficas onde foram identificados riscos potenciais de ocorrência de cheias fluviais [os resultados relativos à bacia hidrográfica do Porto Judeu encontram-se subdivididos nas suas duas unidades de escoamento - Ribeira do Testo (TEB19) e Bacias Agregadas (Grota do Tapete; TEA20)].
 
-![](https://files.diariodarepublica.pt/images/901693817/901860224.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860224.png) |
+| --- |
 
 Figura 16 - Relação linear entre as áreas das bacias hidrográficas e os valores de caudal de ponta de cheia para os diversos tempos de retorno (valores de DROTRH, 2022; os resultados relativos à bacia hidrográfica do Porto Judeu encontram-se subdivididos nas suas duas unidades de escoamento - TEB19 e TEA20)
 
@@ -648,18 +704,19 @@ A referida interseção permitiu identificar, numa aproximação preliminar, as 
 
 Para efeitos de seleção das zonas críticas de inundações costeiras, classificaram-se as ocorrências de «risco elevado» segundo a relevância dos eventos, através de uma escala progressiva de 1 a 3. Para este efeito, foram consideradas de máxima relevância as áreas de risco elevado suscetíveis a impactos potenciais na salvaguarda de pessoas e bens, designadamente em «edifícios sensíveis» (Porteiro, 2018).
 
-Neste contexto, foram identificadas quatro frentes marítimas como zonas de risco, delimitadas com base nos estudos técnicos acima mencionados, nomeadamente as zonas São Roque/Cais do Pico, na ilha do Pico, São Roque/Rosto de Cão, Santa Cruz/Lagoa e Ribeira Quente, em São Miguel. São áreas relativamente reduzidas entre 0,07 e 0,69 km<sup>2</sup>. A respetiva delimitação geográfica é apresentada na figura 17, enquanto a sua inserção administrativa ao nível de concelho e de freguesia é listada na tabela 4.
+Neste contexto, foram identificadas quatro frentes marítimas como zonas de risco, delimitadas com base nos estudos técnicos acima mencionados, nomeadamente as zonas São Roque/Cais do Pico, na ilha do Pico, São Roque/Rosto de Cão, Santa Cruz/Lagoa e Ribeira Quente, em São Miguel. São áreas relativamente reduzidas entre 0,07 e 0,69 km2. A respetiva delimitação geográfica é apresentada na figura 17, enquanto a sua inserção administrativa ao nível de concelho e de freguesia é listada na tabela 4.
 
 Tabela 4 - Enquadramento administrativo das frentes marítimas com risco potencial significativo de inundações/galgamentos costeiros
 
-| Ilha | Frente marítima | Área (km<sup>2</sup>) | Concelho | Freguesia |
+| Ilha | Frente marítima | Área (km2) | Concelho | Freguesia |
 | --- | --- | --- | --- | --- |
 | Pico | São Roque | 0,69 | São Roque do Pico | São Roque do Pico |
 | São Miguel | São Roque | 0,48 | Ponta Delgada | Rosto do Cão (São Roque)São Pedro (Ponta Delgada) |
-| São Miguel | Santa Cruz - Lagoa | 0,05 | Lagoa | Santa Cruz (Lagoa) |
-| São Miguel | Ribeira Quente | 0,07 | Povoação | Ribeira Quente |
+| Santa Cruz - Lagoa | 0,05 | Lagoa | Santa Cruz (Lagoa) |  |
+| Ribeira Quente | 0,07 | Povoação | Ribeira Quente |  |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860225.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860225.png) |
+| --- |
 
 Figura 17 - Localização das frentes marítimas onde foram identificados riscos potenciais significativos de inundações costeiras no âmbito do PGRIA 2022-2027
 
@@ -673,13 +730,13 @@ Na faixa da Ribeira Quente, o litoral é primário, correspondendo a uma costa d
 
 Tabela 5 - Enquadramento das frentes marítimas com risco potencial significativo de inundações/galgamentos costeiros no contexto das unidades geomorfológicas, geológicas e das massas de água delimitadas de acordo com a Diretiva-Quadro da Água (DROTRH, 2020, 2021) [1Zbyzewski et al. (1962); 2Nunes et al. (1999); 3Pacheco et al. (2013) e 4Gaspar et al. (2015)].
 
-| Ilha | Frente marítima | Geomorfologia | Geologia | Superfície | Subterrâneas |
+| Ilha | Frente marítima | Geomorfologia | Geologia | Massas de água DQA |  |
 | --- | --- | --- | --- | --- | --- |
-| Ilha | Frente marítima | Geomorfologia | Geologia | Massas de água DQA | Massas de água DQA |
-| Pico | São Roque | Montanha do Pico<sup>1</sup> | Complexo Vulcânico da Montanha<sup>2</sup> | - | Montanha 1(PT09PICGWMO1)Planalto de Achada 1(PT09PICGWPA1) |
-| São Miguel | São Roque | Região dos Picos<sup>3</sup> | Sistema Vulcânico Fissural dos Picos<sup>4</sup> | - | Ponta Delgada - Fenais da Luz(PT09SMGGWPDLFL) |
-| São Miguel | Santa Cruz - Lagoa | Região dos Picos<sup>3</sup> | Sistema Vulcânico Fissural dos Picos<sup>4</sup> | - | Ponta Delgada - Fenais da Luz(PT09SMGGWPDLFL) |
-| São Miguel | Ribeira Quente | Vulcão das Furnas<sup>3</sup> | Vulcão das Furnas<sup>4</sup> | - | Furnas - Povoação(PT09SMGGWFP) |
+| Superfície | Subterrâneas |  |  |  |  |
+| Pico | São Roque | Montanha do Pico1 | Complexo Vulcânico da Montanha2 | - | Montanha 1(PT09PICGWMO1)Planalto de Achada 1(PT09PICGWPA1) |
+| São Miguel | São Roque | Região dos Picos3 | Sistema Vulcânico Fissural dos Picos4 | - | Ponta Delgada - Fenais da Luz(PT09SMGGWPDLFL) |
+| Santa Cruz - Lagoa | Região dos Picos3 | Sistema Vulcânico Fissural dos Picos4 | - | Ponta Delgada - Fenais da Luz(PT09SMGGWPDLFL) |  |
+| Ribeira Quente | Vulcão das Furnas3 | Vulcão das Furnas4 | - | Furnas - Povoação(PT09SMGGWFP) |  |
 
 4 - Áreas críticas a cheias e inundações
 
@@ -689,7 +746,8 @@ A descrição da metodologia que conduziu à definição da suscetibilidade a ch
 
 A suscetibilidade foi classificada em três categorias distintas, por forma a que as áreas com suscetibilidade alta serão aquelas atingidas mais frequentemente, enquanto por seu turno a classe baixa corresponde às áreas nas quais a probabilidade de ocorrência e a frequência serão menores, mas que por atingirem uma maior área inundada correspondem às situações mais gravosas (figura 18).
 
-![](https://files.diariodarepublica.pt/images/901693817/901860226.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860226.png) |
+| --- |
 
 Figura 18 - Categorias de suscetibilidade em função da frequência de ocorrência do evento (probabilidade), da respetiva gravidade potencial e da área atingida pelas cheias (retirado de DROTRH, 2015)
 
@@ -699,22 +757,23 @@ Da informação exposta, complementada no anexo ii pelas figuras 24 a 45, pode c
 
 Tabela 6 - Área ocupada pelas várias categorias de suscetibilidade a cheias nas bacias hidrográficas em que foram identificados riscos significativos
 
-| Ilha | Bacia hidrográfica | Designação PGRH | Nula | Baixa | Média | Alta |
+| Ilha | Bacia hidrográfica | Designação PGRH | Suscetibilidade (% área) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ilha | Bacia hidrográfica | Designação PGRH | Suscetibilidade (% área) | Suscetibilidade (% área) | Suscetibilidade (% área) | Suscetibilidade (% área) |
+| Nula | Baixa | Média | Alta |  |  |  |
 | Flores | Ribeira Grande | FLB34 - Ribeira Grande | 74,00 | 4,61 | 4,06 | 16,43 |
 | Pico | Ribeira do Dilúvio | PIA19 - Bacias Agregadas | 83,27 | 5,01 | 1,80 | 9,92 |
 | São Jorge | Ribeira Seca | JOB9 - Ribeira Seca | 92,55 | 3,37 | 1,07 | 3,01 |
 | Terceira | Ribeira da Agualva | TEB6 - Ribeira da Agualva | 84,78 | 2,67 | 1,50 | 11,05 |
-| Terceira | Ribeiras do Porto Judeu | TEB19 - Ribeira do Testo + EA20 - Bacias Agregadas (Grota do Tapete) | 92,17 | 2,79 | 1,33 | 3,71 |
-| Terceira | Ribeira de São Bento | TEB32 - Grota dos Calrinhos | 88,03 | 3,62 | 1,47 | 6,88 |
-| Terceira | Ribeira da Casa da Ribeira | TEB29 - Ribeira de Santo Antão | 87,41 | 5,72 | 0,71 | 6,43 |
+| Ribeiras do Porto Judeu | TEB19 - Ribeira do Testo + EA20 - Bacias Agregadas (Grota do Tapete) | 92,17 | 2,79 | 1,33 | 3,71 |  |
+| Ribeira de São Bento | TEB32 - Grota dos Calrinhos | 88,03 | 3,62 | 1,47 | 6,88 |  |
+| Ribeira da Casa da Ribeira | TEB29 - Ribeira de Santo Antão | 87,41 | 5,72 | 0,71 | 6,43 |  |
 | São Miguel | Ribeira Grande | MIB15 - Ribeira Grande | 84,65 | 4,89 | 2,69 | 7,77 |
-| São Miguel | Ribeira da Povoação | MIB113 - Ribeira da Povoação | 77,84 | 5,94 | 3,50 | 12,72 |
-| São Miguel | Grota da Areia | MIB2 - Grota do Bilhão | 90,03 | 1,99 | 0,74 | 7,24 |
-| São Miguel | Grota do Cinzeiro | MIB66 - Nome Desconhecido | 85,86 | 3,79 | 0,90 | 9,45 |
+| Ribeira da Povoação | MIB113 - Ribeira da Povoação | 77,84 | 5,94 | 3,50 | 12,72 |  |
+| Grota da Areia | MIB2 - Grota do Bilhão | 90,03 | 1,99 | 0,74 | 7,24 |  |
+| Grota do Cinzeiro | MIB66 - Nome Desconhecido | 85,86 | 3,79 | 0,90 | 9,45 |  |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860227.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860227.png) |
+| --- |
 
 Figura 19 - Área ocupada pelas várias categorias de suscetibilidade a cheias nas bacias hidrográficas em que foram identificados riscos significativos
 
@@ -735,38 +794,38 @@ Tabela 7 - Área ocupada pelas várias categorias de suscetibilidade a cheias fl
 | Ilha | Bacia hidrográfica | IGT | Área abrangida pela bacia (ha) |
 | --- | --- | --- | --- |
 | Flores | Ribeira Grande | POOC Flores | 11,67 |
-| Flores | Ribeira Grande | POBHL Flores | 366,76 |
-| Flores | Ribeira Grande | PDM Lajes das Flores | 1326,05 |
-| Flores | Ribeira Grande | PDM Santa Cruz das Flores | 259,82 |
+| POBHL Flores | 366,76 |  |  |
+| PDM Lajes das Flores | 1326,05 |  |  |
+| PDM Santa Cruz das Flores | 259,82 |  |  |
 | São Jorge | Ribeira Seca | POOC São Jorge | 9,28 |
-| São Jorge | Ribeira Seca | PDM Calheta | 805,86 |
+| PDM Calheta | 805,86 |  |  |
 | Pico | Dilúvio | POOC Pico | 10,77 |
-| Pico | Dilúvio | PDM Madalena | 109,67 |
+| PDM Madalena | 109,67 |  |  |
 | Terceira | Agualva | POOC Terceira | 20,27 |
-| Terceira | Agualva | PDM Praia da Vitória | 743,95 |
-| Terceira | Casa da Ribeira | POOC Terceira | 18,97 |
-| Terceira | Casa da Ribeira | PDM Praia da Vitória | 534,62 |
-| Terceira | Porto Judeu | POOC Terceira | 82,36 |
-| Terceira | Porto Judeu | PDM Praia da Vitória | 558,51 |
-| Terceira | Porto Judeu | PDM Angra do Heroísmo | 2052,31 |
-| Terceira | São Bento | POOC Terceira | 21,25 |
-| Terceira | São Bento | PDM Angra do Heroísmo | 1196,22 |
+| PDM Praia da Vitória | 743,95 |  |  |
+| Casa da Ribeira | POOC Terceira | 18,97 |  |
+| PDM Praia da Vitória | 534,62 |  |  |
+| Porto Judeu | POOC Terceira | 82,36 |  |
+| PDM Praia da Vitória | 558,51 |  |  |
+| PDM Angra do Heroísmo | 2052,31 |  |  |
+| São Bento | POOC Terceira | 21,25 |  |
+| PDM Angra do Heroísmo | 1196,22 |  |  |
 | São Miguel | Cinzeiro | POOC São Miguel - Zona Sul | 33,23 |
-| São Miguel | Cinzeiro | PDM Nordeste | 153,31 |
-| São Miguel | Grota Areia | POOC São Miguel - Zona Norte | 14,86 |
-| São Miguel | Grota Areia | PDM Ponta Delgada | 159,75 |
-| São Miguel | Povoação | POOC São Miguel - Zona Sul | 112,11 |
-| São Miguel | Povoação | PDM Povoação | 2898,47 |
-| São Miguel | Ribeira Grande | POOC São Miguel - Zona Norte | 26,19 |
-| São Miguel | Ribeira Grande | PDM Ribeira Grande | 1843,95 |
+| PDM Nordeste | 153,31 |  |  |
+| Grota Areia | POOC São Miguel - Zona Norte | 14,86 |  |
+| PDM Ponta Delgada | 159,75 |  |  |
+| Povoação | POOC São Miguel - Zona Sul | 112,11 |  |
+| PDM Povoação | 2898,47 |  |  |
+| Ribeira Grande | POOC São Miguel - Zona Norte | 26,19 |  |
+| PDM Ribeira Grande | 1843,95 |  |  |
 
 4.3.1.1 - Bacia hidrográfica - Ribeira Grande, ilha das Flores
 
 Tabela 8 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC Flores |  |  |  |
 | Áreas vulneráveis | 0,11 | 0,32 | 4,16 |
 | Áreas agrícolas | 0,24 | 0,44 | 2,51 |
@@ -827,9 +886,9 @@ Tabela 8 - Área das classes de espaços dos IGT por classe de suscetibilidade d
 
 Tabela 9 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC São Jorge |  |  |  |
 | Áreas naturais e culturais (zona A) | 0,06 | 0,30 | 1,11 |
 | Áreas edificadas em zona de risco (zona A) | 0 | 0 | 0 |
@@ -850,9 +909,9 @@ Tabela 9 - Área das classes de espaços dos IGT por classe de suscetibilidade d
 
 Tabela 10 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC Pico |  |  |  |
 | Áreas edificadas | 0,24 | 0,06 | 0,35 |
 | Áreas edificadas em zonas de risco | 0,24 | 0,06 | 0,35 |
@@ -887,9 +946,9 @@ Tabela 10 - Área das classes de espaços dos IGT por classe de suscetibilidade 
 
 Tabela 11 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC Terceira |  |  |  |
 | Uso natural e cultural - áreas de especial interesse ambiental | 0,22 | 0,12 | 0,65 |
 | Reserva Agrícola Regional | 0,24 | 0,15 | 0,82 |
@@ -925,9 +984,9 @@ Tabela 11 - Área das classes de espaços dos IGT por classe de suscetibilidade 
 
 Tabela 12 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC Terceira |  |  |  |
 | Uso natural e cultural - áreas de especial interesse ambiental | 0,26 | 0,07 | 0,31 |
 | Uso natural e cultural - arribas e zonas de proteção | 0,06 | 0 | 0,05 |
@@ -966,9 +1025,9 @@ Tabela 12 - Área das classes de espaços dos IGT por classe de suscetibilidade 
 
 Tabela 13 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC Terceira |  |  |  |
 | Uso natural e cultural - arribas e zonas de proteção | 0,05 | 0,04 | 0,39 |
 | Reserva Agrícola Regional | 0,58 | 0,39 | 0,14 |
@@ -1011,9 +1070,9 @@ Tabela 13 - Área das classes de espaços dos IGT por classe de suscetibilidade 
 
 Tabela 14 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC Terceira |  |  |  |
 | Uso natural e cultural - arribas e zonas de proteção | 0,07 | 0,03 | 0,58 |
 | Reserva Ecológica | 0,09 | 0,03 | 1,25 |
@@ -1049,9 +1108,9 @@ Tabela 14 - Área das classes de espaços dos IGT por classe de suscetibilidade 
 
 Tabela 15 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC São Miguel - Costa Sul |  |  |  |
 | Reserva Ecológica Regional | 1,61 | 0,35 | 4,57 |
 | Leito margens água do mar | 0,26 | 0,07 | 0,66 |
@@ -1079,9 +1138,9 @@ Tabela 15 - Área das classes de espaços dos IGT por classe de suscetibilidade 
 
 Tabela 16 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC São Miguel - Costa Norte |  |  |  |
 | Espaços urbanos |  |  |  |
 | Área em perímetro urbano | 0,40 | 0,14 | 1,38 |
@@ -1108,9 +1167,9 @@ Tabela 16 - Área das classes de espaços dos IGT por classe de suscetibilidade 
 
 Tabela 17 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC São Miguel - Costa Sul |  |  |  |
 | Áreas de reserva e proteção de solos, espécies vegetais e animais | 3,58 | 2,11 | 8,85 |
 | Área de jurisdição portuária | < 0,01 | 0,49 | 0,20 |
@@ -1163,9 +1222,9 @@ Tabela 17 - Área das classes de espaços dos IGT por classe de suscetibilidade 
 
 Tabela 18 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - cheias fluviais
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) | Suscetibilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC São Miguel - Costa Norte |  |  |  |
 | Espaços urbanos |  |  |  |
 | Área em perímetro urbano | 0,52 | 0,38 | 2,08 |
@@ -1210,21 +1269,21 @@ Tabela 19 - Área ocupada pelas várias categorias de vulnerabilidade a galgamen
 | Ilha | Frente marítima | IGT | Área abrangida pela frente marítima (ha) |
 | --- | --- | --- | --- |
 | Pico | São Roque | POOC Pico | 68,53 |
-| Pico | São Roque | PDM São Roque do Pico | 68,53 |
+| PDM São Roque do Pico | 68,53 |  |  |
 | São Miguel | São Roque | POOC São Miguel - Zona Sul | 46,96 |
-| São Miguel | São Roque | PDM Ponta Delgada | 46,96 |
-| São Miguel | Lagoa | POOC São Miguel - Zona Sul | 4,67 |
-| São Miguel | Lagoa | PDM Lagoa | 4,67 |
-| São Miguel | Ribeira Quente | POOC São Miguel - Zona Sul | 7,15 |
-| São Miguel | Ribeira Quente | PDM Povoação | 7,15 |
+| PDM Ponta Delgada | 46,96 |  |  |
+| Lagoa | POOC São Miguel - Zona Sul | 4,67 |  |
+| PDM Lagoa | 4,67 |  |  |
+| Ribeira Quente | POOC São Miguel - Zona Sul | 7,15 |  |
+| PDM Povoação | 7,15 |  |  |
 
 4.3.2.1 - Frente marítima - São Roque, ilha do Pico
 
 Tabela 20 - Área das classes de espaços dos IGT por classe de vulnerabilidade das zonas inundáveis
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Vulnerabilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Vulnerabilidade (área, hectares) | Vulnerabilidade (área, hectares) | Vulnerabilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC São Miguel - Zona Sul |  |  |  |
 | Áreas de reserva proteção solos espécies vegetais e animais | 0,33 | 0,41 | 3,68 |
 | Leito de margens água do mar | 0,57 | 3,21 | 8,36 |
@@ -1259,9 +1318,9 @@ Tabela 20 - Área das classes de espaços dos IGT por classe de vulnerabilidade 
 
 Tabela 21 - Área das classes de espaços dos IGT por classe de vulnerabilidade das zonas inundáveis - Frente marítima
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Vulnerabilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Vulnerabilidade (área, hectares) | Vulnerabilidade (área, hectares) | Vulnerabilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC São Miguel - Zona Sul |  |  |  |
 | Reserva Ecológica Regional | 0 | 0 | 1,17 |
 | Leito de margens água do mar | 0 | 0 | 1,32 |
@@ -1282,9 +1341,9 @@ Tabela 21 - Área das classes de espaços dos IGT por classe de vulnerabilidade 
 
 Tabela 22 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - Frente marítima
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Vulnerabilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Vulnerabilidade (área, hectares) | Vulnerabilidade (área, hectares) | Vulnerabilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC São Miguel - Zona Sul |  |  |  |
 | Áreas balneares | 0 | 0,04 | 0,13 |
 | Reserva Ecológica Regional | 0,11 | 0,14 | 0,23 |
@@ -1315,9 +1374,9 @@ Tabela 22 - Área das classes de espaços dos IGT por classe de suscetibilidade 
 
 Tabela 23 - Área das classes de espaços dos IGT por classe de suscetibilidade das zonas inundáveis - Frente marítima
 
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Baixa | Média | Alta |
+| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Vulnerabilidade (área, hectares) |  |  |
 | --- | --- | --- | --- |
-| IGTUsos do solo/classes de espaço/servidões administrativas e restrições de utilidade públicaInstrumento/classes de espaço | Vulnerabilidade (área, hectares) | Vulnerabilidade (área, hectares) | Vulnerabilidade (área, hectares) |
+| Baixa | Média | Alta |  |
 | POOC Pico |  |  |  |
 | Áreas balneares | 0 | 0,12 | 3,24 |
 | Reserva Ecológica | 0,28 | 3,27 | 11,30 |
@@ -1348,7 +1407,8 @@ Numa definição comummente aceite pela comunidade técnico-científica, o risco
 
 Neste contexto, o risco corresponde à consideração de um perigo atendendo ao seu intervalo de recorrência e aos danos esperados (Hyndman & Hyndman, 2006). Assim, a avaliação de risco pode ser traduzida, qualitativamente ou quantitativamente, pela expressão numérica seguinte (Smith, 2004):
 
-![](https://files.diariodarepublica.pt/images/901693817/901860228.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860228.png) |
+| --- |
 
 Para as várias bacias hidrográficas estudadas foram elaboradas as respetivas cartas de risco a cheias fluviais e, complementarmente, apresenta-se para cada um conjunto de gráficos que expressam percentualmente, para um grupo de elementos/edifícios expostos representativo, o respetivo enquadramento nas categorias de suscetibilidade utilizadas. Igualmente, foi elaborada uma tabela que apresenta uma listagem exaustiva da situação relativa a cada elemento/edifício exposto considerado, incluindo a respetiva identificação e enquadramento relativamente às classes de suscetibilidade a cheias fluviais. Nestas tabelas, são ainda listadas as fontes de informação utilizadas nesta tarefa, importando ressalvar que no caso vertente da quantificação da população exposta a cada classe de suscetibilidade se utilizou a base do Recenseamento Geral da População de 2021, disponibilizada pelo Instituto Nacional de Estatística no seu portal web para descarga em linha.
 
@@ -1415,40 +1475,40 @@ Tabela 25 - Referenciais de índole estratégica do PGRIA 2022-2027
 | --- | --- |
 | União Europeia | Diretiva-Quadro da Água (transposta para o direito interno pela LA) |
 | Nacional | Programa Nacional da Política de Ordenamento do Território (PNPOT) |
-| Nacional | Estratégia Nacional de Gestão Integrada da Zona Costeira (ENGIZC) (em vigor até 2029) |
-| Nacional | Estratégia Nacional para a Conservação da Natureza e Biodiversidade 2030 (ENCNB 2030) |
-| Nacional | Plano Nacional da Água (PNA) |
-| Nacional | Programa Nacional para as Alterações Climáticas (PNAC) |
-| Nacional | Estratégia Nacional de Adaptação às Alterações Climáticas (ENAAC 2020) |
-| Nacional | Programa de Ação para a Adaptação às Alterações Climáticas (P-3AC) |
+| Estratégia Nacional de Gestão Integrada da Zona Costeira (ENGIZC) (em vigor até 2029) |  |
+| Estratégia Nacional para a Conservação da Natureza e Biodiversidade 2030 (ENCNB 2030) |  |
+| Plano Nacional da Água (PNA) |  |
+| Programa Nacional para as Alterações Climáticas (PNAC) |  |
+| Estratégia Nacional de Adaptação às Alterações Climáticas (ENAAC 2020) |  |
+| Programa de Ação para a Adaptação às Alterações Climáticas (P-3AC) |  |
 | Regional | Plano Regional de Ordenamento do Território dos Açores (PROTA) |
-| Regional | Programa Regional da Água (PRA) |
-| Regional | Plano de Gestão de Região Hidrográfica 2022-2027 (PGRH) |
-| Regional | Programa Regional para as Alterações Climáticas dos Açores (PRAC) |
-| Regional | Plano Setorial da Rede Natura 2000 da RAA |
-| Regional | Plano Setorial de Ordenamento do Território para as Atividades Extrativas da Região Autónoma dos Açores (PAE) |
-| Regional | Planos de Ordenamento das Bacias Hidrográficas de Lagoas (POBHL)(quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) |
-| Regional | Planos de Ordenamento da Orla Costeira (POOC)(quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) |
-| Regional | Plano de Ordenamento Turístico da Região Autónoma dos Açores (POTRAA) |
-| Regional | Plano Estratégico de Gestão de Resíduos dos Açores (PEGRA) |
-| Regional | Planos Municipais de Ordenamento do Território (PMOT) |
-| Regional | Plano Regional de Emergência de Proteção Civil da RAA (PREPCA) |
-| Regional | Estratégia Florestal da Região Autónoma dos Açores (EFRAA) |
+| Programa Regional da Água (PRA) |  |
+| Plano de Gestão de Região Hidrográfica 2022-2027 (PGRH) |  |
+| Programa Regional para as Alterações Climáticas dos Açores (PRAC) |  |
+| Plano Setorial da Rede Natura 2000 da RAA |  |
+| Plano Setorial de Ordenamento do Território para as Atividades Extrativas da Região Autónoma dos Açores (PAE) |  |
+| Planos de Ordenamento das Bacias Hidrográficas de Lagoas (POBHL)(quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) |  |
+| Planos de Ordenamento da Orla Costeira (POOC)(quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) |  |
+| Plano de Ordenamento Turístico da Região Autónoma dos Açores (POTRAA) |  |
+| Plano Estratégico de Gestão de Resíduos dos Açores (PEGRA) |  |
+| Planos Municipais de Ordenamento do Território (PMOT) |  |
+| Plano Regional de Emergência de Proteção Civil da RAA (PREPCA) |  |
+| Estratégia Florestal da Região Autónoma dos Açores (EFRAA) |  |
 
 Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários instrumentos e estratégias que compõem o referencial estratégico
 
 | Referencial estratégico/objetivos | Relação com o PGRIA |
 | --- | --- |
-| Diretiva-Quadro da Água (transposta para o direito interno pela LA) | Diretiva-Quadro da Água (transposta para o direito interno pela LA) |
+| Diretiva-Quadro da Água (transposta para o direito interno pela LA) |  |
 | A Diretiva Quadro da Água (DQA; Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro) veio estabelecer um quadro de ação comunitária no domínio da política da água no espaço da UE.O objetivo da DQA é estabelecer um enquadramento para a proteção das águas de superfície interiores, das águas de transição, das águas costeiras e das águas subterrâneas que permita: | A DQA visa, entre outros objetivos secundários, a mitigação dos efeitos das inundações. Em qualquer caso, a redução dos riscos de inundações não é um dos principais objetivos desta diretiva, que genericamente apenas menciona as inundações sempre como processos que podem eventualmente prejudicar o cumprimento das metas ambientais estabelecidas na própria DQA, nomeadamente de «bom estado» e de «não deterioração» das massas de água.Contudo, na Diretiva n.º 2007/60/CE, de 23 de outubro, que estabelece o quadro normativo para a avaliação e gestão dos riscos de inundações no espaço da UE, e alvo de transposição para o direito interno através do Decreto-Lei n.º 115/2010, de 22 de outubro, é expressamente mencionado que os planos de gestão dos riscos de inundações aí previstos devem explorar formas de assegurar sinergias e benefícios comuns com os planos de gestão de bacias hidrográficas previstos na DQA. |
-| 1 - Evitar a continuação da degradação, proteger e melhorar o estado dos ecossistemas aquáticos, e também dos ecossistemas terrestres e zonas húmidas diretamente dependentes dos ecossistemas aquáticos, no que respeita às suas necessidades em água; | A DQA visa, entre outros objetivos secundários, a mitigação dos efeitos das inundações. Em qualquer caso, a redução dos riscos de inundações não é um dos principais objetivos desta diretiva, que genericamente apenas menciona as inundações sempre como processos que podem eventualmente prejudicar o cumprimento das metas ambientais estabelecidas na própria DQA, nomeadamente de «bom estado» e de «não deterioração» das massas de água.Contudo, na Diretiva n.º 2007/60/CE, de 23 de outubro, que estabelece o quadro normativo para a avaliação e gestão dos riscos de inundações no espaço da UE, e alvo de transposição para o direito interno através do Decreto-Lei n.º 115/2010, de 22 de outubro, é expressamente mencionado que os planos de gestão dos riscos de inundações aí previstos devem explorar formas de assegurar sinergias e benefícios comuns com os planos de gestão de bacias hidrográficas previstos na DQA. |
-| 2 - Promover um consumo de água sustentável, baseado numa proteção, a longo prazo, dos recursos hídricos disponíveis; | A DQA visa, entre outros objetivos secundários, a mitigação dos efeitos das inundações. Em qualquer caso, a redução dos riscos de inundações não é um dos principais objetivos desta diretiva, que genericamente apenas menciona as inundações sempre como processos que podem eventualmente prejudicar o cumprimento das metas ambientais estabelecidas na própria DQA, nomeadamente de «bom estado» e de «não deterioração» das massas de água.Contudo, na Diretiva n.º 2007/60/CE, de 23 de outubro, que estabelece o quadro normativo para a avaliação e gestão dos riscos de inundações no espaço da UE, e alvo de transposição para o direito interno através do Decreto-Lei n.º 115/2010, de 22 de outubro, é expressamente mencionado que os planos de gestão dos riscos de inundações aí previstos devem explorar formas de assegurar sinergias e benefícios comuns com os planos de gestão de bacias hidrográficas previstos na DQA. |
+| 1 - Evitar a continuação da degradação, proteger e melhorar o estado dos ecossistemas aquáticos, e também dos ecossistemas terrestres e zonas húmidas diretamente dependentes dos ecossistemas aquáticos, no que respeita às suas necessidades em água; |  |
+| 2 - Promover um consumo de água sustentável, baseado numa proteção, a longo prazo, dos recursos hídricos disponíveis; |  |
 | 3 - Alcançar uma proteção reforçada e um melhoramento do ambiente aquático, nomeadamente através de medidas específicas para a redução gradual das descargas, das emissões e perdas de substâncias prioritárias e da cessação ou eliminação por fases de descargas, emissões e perdas dessas substâncias prioritárias; |  |
 | 4 - Assegurar a redução gradual da poluição das águas subterrâneas e evitar a agravação da sua poluição; |  |
 | 5 - Contribuir para mitigar os efeitos das inundações e secas.A DQA foi transposta para o direito interno pela Lei n.º 58/2005, de 29 de dezembro. |  |
-| Programa Nacional da Política de Ordenamento do Território (PNPOT) | Programa Nacional da Política de Ordenamento do Território (PNPOT) |
+| Programa Nacional da Política de Ordenamento do Território (PNPOT) |  |
 | O Programa Nacional da Política de Ordenamento do Território (PNPOT), cuja elaboração decorre da Lei de Bases da Política de Ordenamento do Território e de Urbanismo (1998), com o objetivo de dotar o país de um instrumento competente para a definição de uma visão prospetiva, completa e integrada da organização e desenvolvimento do território e pela promoção da coordenação e articulação de políticas públicas numa base territorializada.O primeiro PNPOT (Lei n.º 58/2007, de 4 de setembro, retificada pelas Declarações de Retificação n.º 80-A/2007, de 7 de setembro, e n.º 103-A/2007, de 2 de novembro) deu lugar à primeira revisão do PNPOT, publicada pela Lei n.º 99/2019, de 5 de setembro. Corresponde ao instrumento de topo do sistema de gestão territorial, define objetivos e opções estratégicas de desenvolvimento territorial e estabelece o modelo de organização do território nacional. | O PNPOT constitui-se como o quadro de referência para os demais programas e planos territoriais, assim como um instrumento orientador das estratégias com incidência territorial. Neste contexto, enquanto instrumento de desenvolvimento territorial de natureza estratégica, que traduz por meio de um conjunto de orientações um modelo de organização e gestão do território nacional, enquadrando os restantes instrumentos de gestão territorial, o PGRIA deve internalizar as orientações do PNPOT em matéria de cheias e inundações. |
-| O Programa Nacional da Política de Ordenamento do Território (PNPOT), cuja elaboração decorre da Lei de Bases da Política de Ordenamento do Território e de Urbanismo (1998), com o objetivo de dotar o país de um instrumento competente para a definição de uma visão prospetiva, completa e integrada da organização e desenvolvimento do território e pela promoção da coordenação e articulação de políticas públicas numa base territorializada.O primeiro PNPOT (Lei n.º 58/2007, de 4 de setembro, retificada pelas Declarações de Retificação n.º 80-A/2007, de 7 de setembro, e n.º 103-A/2007, de 2 de novembro) deu lugar à primeira revisão do PNPOT, publicada pela Lei n.º 99/2019, de 5 de setembro. Corresponde ao instrumento de topo do sistema de gestão territorial, define objetivos e opções estratégicas de desenvolvimento territorial e estabelece o modelo de organização do território nacional. |  |
+|  |  |
 | No âmbito do PNPOT, foram identificados cinco grandes desafios territoriais a que a política de ordenamento do território deve dar resposta, nomeadamente: |  |
 | 1 - Gerir os recursos naturais de forma sustentável |  |
 | 1.1 - Valorizar o capital natural; |  |
@@ -1469,9 +1529,9 @@ Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários in
 | 5.1 - Reforçar a descentralização de competências e a cooperação intersetorial e multinível; |  |
 | 5.2 - Promover redes colaborativas de base territorial; |  |
 | 5.3 - Aumentar a cultura territorial. |  |
-| Estratégia Nacional de Gestão Integrada da Zona Costeira (ENGIZC) (em vigor até 2029) | Estratégia Nacional de Gestão Integrada da Zona Costeira (ENGIZC) (em vigor até 2029) |
+| Estratégia Nacional de Gestão Integrada da Zona Costeira (ENGIZC) (em vigor até 2029) |  |
 | A Estratégia Nacional de Gestão Integrada da Zona Costeira (ENGIZC), publicada por intermédio da Resolução do Conselho de Ministros n.º 82/2009, de 8 de setembro, visa definir integradamente os objetivos fundamentais e as opções estratégicas que deverão presidir a uma política de ordenamento, planeamento e gestão da zona costeira, bem como servir de referência à atuação das entidades públicas e privadas, da comunidade científica e dos cidadãos.As opções estratégicas da ENGIZC são as seguintes: | A ENGIZC, enquanto instrumento de natureza estratégica, constitui-se como um quadro de referência para os demais programas e planos territoriais com incidência nas zonas costeiras. Neste contexto, o PGRIA deve internalizar as orientações da ENGIZC em matéria de inundações costeiras. |
-| A Estratégia Nacional de Gestão Integrada da Zona Costeira (ENGIZC), publicada por intermédio da Resolução do Conselho de Ministros n.º 82/2009, de 8 de setembro, visa definir integradamente os objetivos fundamentais e as opções estratégicas que deverão presidir a uma política de ordenamento, planeamento e gestão da zona costeira, bem como servir de referência à atuação das entidades públicas e privadas, da comunidade científica e dos cidadãos.As opções estratégicas da ENGIZC são as seguintes: |  |
+|  |  |
 | 1 - Um modelo de ordenamento e desenvolvimento da zona costeira que articule as dinâmicas socioeconómicas com as ecológicas na utilização dos recursos e na gestão de riscos (abordagem ecossistémica); |  |
 | 2 - Um modelo institucional alicerçado na articulação de competências baseada na corresponsabilização institucional e no papel coordenador de uma entidade de âmbito nacional; |  |
 | 3 - Um modelo de governança assente na cooperação público-privado, que aposte na convergência de interesses através do estabelecimento de parcerias, da corresponsabilização e da partilha de riscos. |  |
@@ -1485,24 +1545,24 @@ Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários in
 | 2 - Antecipar, prevenir e gerir situações de risco e de impactes de natureza ambiental, social e económica; |  |
 | 3 - Promover o desenvolvimento sustentável de atividades geradoras de riqueza e que contribuam para a valorização de recursos específicos da zona costeira; |  |
 | 4 - Aprofundar o conhecimento científico sobre os sistemas, os ecossistemas e as paisagens costeiros. |  |
-| Estratégia Nacional para a Conservação da Natureza e Biodiversidade 2030 (ENCNB 2030) | Estratégia Nacional para a Conservação da Natureza e Biodiversidade 2030 (ENCNB 2030) |
+| Estratégia Nacional para a Conservação da Natureza e Biodiversidade 2030 (ENCNB 2030) |  |
 | A Estratégia Nacional de Conservação da Natureza e Biodiversidade 2030 (ENCNB 2030) foi aprovada pela Resolução do Conselho de Ministros n.º 55/2018, de 7 de maio, e corresponde a um instrumento fundamental da prossecução da política de ambiente e de resposta às responsabilidades nacionais e internacionais de reduzir a perda de biodiversidade. A ENCNB 2030 propõe como visão para 2050 alcançar o bom estado de conservação do património natural até 2050, assente na progressiva apropriação do desígnio da biodiversidade pela sociedade, por via do reconhecimento do seu valor, para o desenvolvimento do país e na prossecução de modelos de gestão mais próximos de quem está no território. | A ENCNB 2030 constitui-se como o quadro de referência para os demais programas e planos territoriais, assim como um instrumento orientador das estratégias com incidência territorial, em particular em matéria de conservação da natureza e da biodiversidade. Neste contexto, o PGRIA deve internalizar as orientações da ENCNB 2030 em matéria de cheias e inundações. |
 | A ENCNB 2030 compreende três eixos estratégicos interdependentes e solidários, nomeadamente: |  |
 | Eixo 1: Melhorar o estado de conservação do património natural; |  |
 | Eixo 2: Promover o reconhecimento do valor do património natural; |  |
 | Eixo 3: Fomentar a apropriação dos valores naturais e da biodiversidade. |  |
 | A concretização das medidas da ENCNB 2030 deverá resultar do desenvolvimento de um Plano de Ação para a Conservação da Natureza e Biodiversidade XXI |  |
-| Plano Nacional da Água (PNA) | Plano Nacional da Água (PNA) |
+| Plano Nacional da Água (PNA) |  |
 | O Plano Nacional da Água (PNA) assume uma natureza transversal e uma incidência setorial, conformando-se aos princípios gerais e específicos de índole política, legal e institucional do Estado. O primeiro PNA foi aprovado pelo Decreto-Lei n.º 112/2002, de 17 de abril, tendo sido elaborado no quadro legal definido pelo Decreto-Lei n.º 45/94, de 22 de fevereiro. | O PNA, enquanto instrumento de carácter estratégico, que estabelece as grandes opções da política da água, constitui-se como o quadro de referência para os planos de gestão de regiões hidrográficas e outros instrumentos de planeamento das águas. Neste contexto, o PGRIA deve internalizar as orientações do PNA em matéria de cheias. |
 | O PNA em vigor foi aprovado em 2016, pelo Decreto-Lei n.º 76/2016, de 9 de novembro, correspondendo a um instrumento de carácter nacional e de natureza estratégica, e visa estabelecer as grandes opções da política nacional da água e os princípios e orientações a aplicar pelos planos de gestão de regiões hidrográficas e outros instrumentos de planeamento das águas. |  |
 | São objetivos fundamentais do PNA: |  |
 | 1 - A proteção e a requalificação do estado dos ecossistemas aquáticos e dos ecossistemas terrestres, bem como das zonas húmidas que deles dependem, no que respeita às suas necessidades de água; |  |
 | 2 - A promoção do uso sustentável, equilibrado e equitativo de água de boa qualidade, com a afetação aos vários tipos de usos, tendo em conta o seu valor económico, baseada numa proteção, a longo prazo, dos recursos hídricos disponíveis; |  |
 | 3 - O aumento da resiliência relativamente aos efeitos das inundações e das secas e outros fenómenos meteorológicos extremos decorrentes das alterações climáticas. |  |
-| Estratégia Nacional de Adaptação às Alterações Climáticas (ENAAC 2020) | Estratégia Nacional de Adaptação às Alterações Climáticas (ENAAC 2020) |
+| Estratégia Nacional de Adaptação às Alterações Climáticas (ENAAC 2020) |  |
 | A Estratégia Nacional de Adaptação às Alterações Climáticas 2020 (ENAAC), aprovada pela Resolução do Conselho de Ministros n.º 56/2015, de 30 de julho, e cuja vigência foi prorrogada até 31 de dezembro de 2025 pela Resolução do Conselho de Ministros n.º 53/2020, de 10 de julho, através da aprovação do Plano Nacional Energia e Clima 2030 (PNEC 2030). | A ENAAC, enquanto instrumento de natureza estratégica, estabelece objetivos e o modelo para a implementação de soluções para a adaptação de diferentes setores aos efeitos das alterações climáticas. A Estratégia considera um conjunto de nove setores prioritários, um dos quais associado à segurança de pessoas e bens, reconhecendo que será necessário adotar novas abordagens, por forma a reforçar a interligação das medidas a implementar no âmbito da redução do risco de catástrofes e da adaptação aos efeitos das alterações climáticas. As medidas de adaptação face às alterações climáticas deverão orientar-se em duas áreas de atuação principais, nomeadamente centradas na avaliação de riscos e vulnerabilidades e na resposta à emergência. Neste contexto, o PGRIA responde às preocupações decorrentes das orientações do ENAAC 2020. |
-| A ENAAC 2020 integra o designado Quadro Estratégico para a Política Climática (QEPiC), cujos objetivos são os seguintes: | A ENAAC, enquanto instrumento de natureza estratégica, estabelece objetivos e o modelo para a implementação de soluções para a adaptação de diferentes setores aos efeitos das alterações climáticas. A Estratégia considera um conjunto de nove setores prioritários, um dos quais associado à segurança de pessoas e bens, reconhecendo que será necessário adotar novas abordagens, por forma a reforçar a interligação das medidas a implementar no âmbito da redução do risco de catástrofes e da adaptação aos efeitos das alterações climáticas. As medidas de adaptação face às alterações climáticas deverão orientar-se em duas áreas de atuação principais, nomeadamente centradas na avaliação de riscos e vulnerabilidades e na resposta à emergência. Neste contexto, o PGRIA responde às preocupações decorrentes das orientações do ENAAC 2020. |
-| 1 - Promover a transição para uma economia de baixo carbono, gerando mais riqueza e emprego, contribuindo para o crescimento verde; | A ENAAC, enquanto instrumento de natureza estratégica, estabelece objetivos e o modelo para a implementação de soluções para a adaptação de diferentes setores aos efeitos das alterações climáticas. A Estratégia considera um conjunto de nove setores prioritários, um dos quais associado à segurança de pessoas e bens, reconhecendo que será necessário adotar novas abordagens, por forma a reforçar a interligação das medidas a implementar no âmbito da redução do risco de catástrofes e da adaptação aos efeitos das alterações climáticas. As medidas de adaptação face às alterações climáticas deverão orientar-se em duas áreas de atuação principais, nomeadamente centradas na avaliação de riscos e vulnerabilidades e na resposta à emergência. Neste contexto, o PGRIA responde às preocupações decorrentes das orientações do ENAAC 2020. |
+| A ENAAC 2020 integra o designado Quadro Estratégico para a Política Climática (QEPiC), cujos objetivos são os seguintes: |  |
+| 1 - Promover a transição para uma economia de baixo carbono, gerando mais riqueza e emprego, contribuindo para o crescimento verde; |  |
 | 2 - Assegurar uma trajetória sustentável de redução das emissões de gases com efeito de estufa (GEE); |  |
 | 3 - Reforçar a resiliência e as capacidades nacionais de adaptação; |  |
 | 4 - Assegurar uma participação empenhada nas negociações internacionais e em matéria de cooperação; |  |
@@ -1517,9 +1577,9 @@ Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários in
 | 2 - Implementar medidas de adaptação; |  |
 | 3 - Promover a integração da adaptação em políticas setoriais. |  |
 | A ENAAC integra seis áreas temáticas transversais a todos os setores: investigação e inovação, financiamento e implementação, cooperação internacional, comunicação e divulgação, adaptação no ordenamento do território e adaptação na gestão dos recursos hídricos. |  |
-| Programa de Ação para a Adaptação às Alterações Climáticas (P-3AC) | Programa de Ação para a Adaptação às Alterações Climáticas (P-3AC) |
+| Programa de Ação para a Adaptação às Alterações Climáticas (P-3AC) |  |
 | O Programa de Ação para a Adaptação às Alterações Climáticas (P-3AC) foi aprovado pela Resolução do Conselho de Ministros n.º 130/2019, de 2 de agosto, e visa concretizar o segundo objetivo da ENAAC 2020, relativo à implementação de medidas de adaptação, o que passa por identificar as intervenções físicas com impacto direto no território. | O P-3AC, enquanto instrumento de carácter programático, contempla duas linhas de ação com implicação direta sobre o PGRIA, nomeadamente a n.º 7 (Redução ou minimização dos riscos associados a fenómenos de cheia e de inundações) e a n.º 8 (Aumento da resiliência e proteção costeira em zonas de risco elevado de erosão e de galgamento e inundação), propondo objetivos e medidas concretas para cada uma. Neste contexto, o PGRIA deve internalizar as orientações do P-3AC em matéria de cheias e inundações. |
-| Neste contexto, o P-3AC estabelece as linhas de ação e as medidas prioritárias de adaptação, identificando as entidades envolvidas, os indicadores de acompanhamento e as potenciais fontes de financiamento. Para este efeito, o P-3AC prossegue nove linhas de ação, que visam a redução dos principais impactos e vulnerabilidades do território, nomeadamente: | O P-3AC, enquanto instrumento de carácter programático, contempla duas linhas de ação com implicação direta sobre o PGRIA, nomeadamente a n.º 7 (Redução ou minimização dos riscos associados a fenómenos de cheia e de inundações) e a n.º 8 (Aumento da resiliência e proteção costeira em zonas de risco elevado de erosão e de galgamento e inundação), propondo objetivos e medidas concretas para cada uma. Neste contexto, o PGRIA deve internalizar as orientações do P-3AC em matéria de cheias e inundações. |
+| Neste contexto, o P-3AC estabelece as linhas de ação e as medidas prioritárias de adaptação, identificando as entidades envolvidas, os indicadores de acompanhamento e as potenciais fontes de financiamento. Para este efeito, o P-3AC prossegue nove linhas de ação, que visam a redução dos principais impactos e vulnerabilidades do território, nomeadamente: |  |
 | 1 - Aumento da frequência e da intensidade de incêndios rurais; |  |
 | 2 - Aumento da frequência e da intensidade de ondas de calor; |  |
 | 3 - Aumento da frequência e da intensidade de períodos de seca e de escassez de água; |  |
@@ -1528,15 +1588,15 @@ Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários in
 | 6 - Aumento da frequência e da intensidade de eventos de precipitação extrema; |  |
 | 7 - Subida do nível das águas do mar; |  |
 | 8 - Aumento da frequência e da intensidade de fenómenos extremos que provocam galgamento e erosão costeiros. |  |
-| Plano Regional de Ordenamento do Território dos Açores (PROTA) | Plano Regional de Ordenamento do Território dos Açores (PROTA) |
+| Plano Regional de Ordenamento do Território dos Açores (PROTA) |  |
 | O Plano Regional de Ordenamento do Território dos Açores (PROTA), aprovado pelo Decreto Legislativo Regional n.º 26/2010/A, de 12 de agosto, é um instrumento de carácter programático que estabelece as grandes opções estratégicas com relevância para a organização do território nos Açores.O PROTA tem como principais objetivos:1 - Desenvolver, no âmbito regional, as opções nacionais da política de ordenamento do território e das políticas setoriais, traduzindo, em termos espaciais, os grandes objetivos de desenvolvimento económico, social e ambiental da Região Autónoma dos Açores;2 - Formular a estratégia regional de ordenamento territorial e o sistema de referência para a elaboração de planos especiais, intermunicipais e municipais de ordenamento do território; | No caso concreto dos sistemas de proteção e valorização ambiental, destaca-se a minimização de riscos de pessoas e bens como premissa indissociável de uma política de ordenamento e de gestão dos recursos existentes e de racionalização da forma de ocupação e humanização dos territórios como princípio a integrar em todos os Instrumentos de Gestão Territorial (IGT) a elaborar, a alterar ou a rever na Região Autónoma dos Açores. Para além disso, e em termos de implicações das políticas de segurança e proteção civil, destaca-se a necessidade de medidas que garantam a redução da ocupação de áreas de maior risco ou essenciais à manutenção dos sistemas naturais.Em termos de normas orientadoras do uso, ocupação e transformação do território para a Região, o PROTA determina que o reconhecimento dos elevados riscos naturais obriga a que todos os IGT a desenvolver para a Região integrem a dimensão territorial da incidência dos diversos riscos naturais. |
 | 3 - Orientar a compatibilização prospetiva das diferentes políticas setoriais com incidência espacial, com destaque para o ambiente e recursos naturais, acessibilidades, transportes e logística, agricultura e desenvolvimento rural, economia, turismo e património cultural; | Quanto às normas específicas de carácter setorial, destaca-se a definição das áreas ameaçadas por cheias e zonas adjacentes de forma a serem incorporadas nos PMOT como zonas preferencialmente non aedificandi, e a promoção de medidas e ações que fomentem a minimização de riscos de cheias ou inundações. Estas orientações e objetivos de desenvolvimento devem ser internalizados no PGRIA e servir como diretrizes para a definição de um modelo de ordenamento que permita a sua concretização. |
-| 4 - Introduzir a especificidade do planeamento e gestão integrada de zonas costeiras que, inerentemente, as ilhas constituem, tendo em conta, entre outros aspetos, a diversidade de situações de ocupação humana, os valores ecológicos existentes e as situações de risco identificadas; | Quanto às normas específicas de carácter setorial, destaca-se a definição das áreas ameaçadas por cheias e zonas adjacentes de forma a serem incorporadas nos PMOT como zonas preferencialmente non aedificandi, e a promoção de medidas e ações que fomentem a minimização de riscos de cheias ou inundações. Estas orientações e objetivos de desenvolvimento devem ser internalizados no PGRIA e servir como diretrizes para a definição de um modelo de ordenamento que permita a sua concretização. |
+| 4 - Introduzir a especificidade do planeamento e gestão integrada de zonas costeiras que, inerentemente, as ilhas constituem, tendo em conta, entre outros aspetos, a diversidade de situações de ocupação humana, os valores ecológicos existentes e as situações de risco identificadas; |  |
 | 5 - Contribuir para a atenuação das assimetrias de desenvolvimento intrarregionais, atendendo às especificidades de cada ilha; |  |
 | 6 - Promover a estruturação do território, definindo a configuração do sistema urbano, rede de infraestruturas e equipamentos, garantindo a equidade do seu acesso, bem como as áreas prioritárias para a localização de atividades económicas e de grandes investimentos públicos; |  |
 | 7 - Defender o valor da paisagem, bem como o património natural e cultural enquanto elementos de identidade da Região, promovendo a sua proteção, gestão e ordenamento, em articulação com o desenvolvimento das atividades humanas; |  |
 | 8 - Reforçar a participação dos agentes e entidades interessadas, através da discussão e validação de opções estratégicas que deverão nortear a construção do modelo territorial a adotar. |  |
-| Programa Regional da Água (PRA 2023) | Programa Regional da Água (PRA 2023) |
+| Programa Regional da Água (PRA 2023) |  |
 | O Plano Regional da Água dos Açores (PRA) foi publicado em 2003, através do Decreto Legislativo Regional n.º 19/2003/A, de 23 de abril. O PRA constitui o instrumento de natureza estratégica e operacional que consagra os fundamentos e as grandes opções da política dos recursos hídricos para a Região. Posteriormente, com a publicação do Decreto Legislativo Regional n.º 35/2012/A, de 16 de agosto, que estabelece o regime jurídico dos instrumentos de gestão territorial nos Açores, o PRA passou a constituir-se como um plano setorial na aceção desse diploma. | O PRA, enquanto instrumento de carácter estratégico, que estabelece as grandes opções da política da água a nível da Região Autónoma dos Açores, constitui-se como o quadro de referência para os instrumentos de planeamento das águas. Neste contexto, o PGRIA deve internalizar as orientações do PRA em matéria de cheias. |
 | A subsequente alteração do PRA foi determinada pela Resolução do Conselho de Governo Regional n.º 86/2018, de 30 de julho, passando a designar-se como Programa Regional da Água e assumindo a forma de programa setorial. A proposta de alteração foi devidamente aprovada em 17 de janeiro de 2023, em sessão plenária da Assembleia Legislativa da Região Autónoma dos Açores, e publicada pelo Decreto Legislativo Regional n.º 9/2023/A, de 8 de março. |  |
 | As linhas de orientação estratégica do PRA 2023 são as seguintes, de acordo com a respetiva área temática: |  |
@@ -1549,8 +1609,8 @@ Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários in
 | AT7 - (Conhecimento): aprofundar o conhecimento dos recursos hídricos de modo a colmatar lacunas de conhecimento e otimizar a sua gestão. |  |
 | No âmbito dos objetivos de estado do PRA 2023, associados à Área Temática «Gestão de Riscos e Valorização dos Recursos Hídricos» (AT3), os objetivos a atingir em 2030, entre outros, são 0 (zero) bacias hidrográficas com zonas críticas à ocorrência de cheias fluviais e 0 (zero) zonas críticas à ocorrência de inundações costeiras. |  |
 | Como objetivo de resposta para a mesma AT3, o objetivo a atingir em 2030, entre outros, será de 11 bacias hidrográficas com sistemas de monitorização e alerta de cheias operacional. |  |
-| Plano de Gestão de Região Hidrográfica 2022-2027 (PGRH-Açores) | Plano de Gestão de Região Hidrográfica 2022-2027 (PGRH-Açores) |
-| A Diretiva Quadro da Água (Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro; DQA), transposta para o direito interno pela LA (Lei n.º 58/2005, de 29 de dezembro; LA), alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, 60/2012, de 14 de março, 130/2012, de 22 de junho, e 11/2023, de 10 de fevereiro, e pelas Leis n.os 42/2016, de 28 de dezembro, 44/2017, de 19 de junho, e 82/2023, de 19 de dezembro, define a região hidrográfica como a unidade principal de planeamento e gestão das águas, tendo por base a bacia hidrográfica. A DQA e a LA estabelecem a obrigatoriedade de, em ciclos sexenais sucessivos de planeamento, serem produzidos Planos de Gestão de Região Hidrográfica, em que deve ser realizada a análise e implementação de um conjunto de medidas e ações que permitam atingir os objetivos ambientais conducentes à garantia do bom estado das massas de águas, bem como o desenvolvimento de um modelo de análise económica das utilizações deste recurso. | O PGRH-Açores 2022-2027, enquanto instrumento de carácter eminentemente operacional, define um conjunto alargado de medidas e ações que permitam atingir os objetivos ambientais conducentes à garantia do bom estado das massas de águas. Neste contexto, o PGRIA 2022-2027 deve internalizar as orientações do PGRH-Açores 2022-2027 em matéria de cheias, em particular as decorrentes dos objetivos estratégicos RH9_OE_007 (Prevenir as pressões com vista à redução e minimização dos riscos associados a fenómenos sísmicos, vulcânicos e hidrológicos), RH9_OE_009 (Adotar medidas de adaptação e boas práticas associadas aos riscos com origem em fenómenos naturais) e RH9_OE_010 (Mitigar os efeitos das inundações e das secas), bem como aspetos associados, entre outros, de articulação entre entidades, informação às partes interessadas e monitorização. |
+| Plano de Gestão de Região Hidrográfica 2022-2027 (PGRH-Açores) |  |
+| A Diretiva Quadro da Água (Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro; DQA), transposta para o direito interno pela LA (Lei n.º 58/2005, de 29 de dezembro; LA), alterada pelos Decretos-Leis n.**os**245/2009, de 22 de setembro, 60/2012, de 14 de março, 130/2012, de 22 de junho, e 11/2023, de 10 de fevereiro, e pelas Leis n.**os**42/2016, de 28 de dezembro, 44/2017, de 19 de junho, e 82/2023, de 19 de dezembro, define a região hidrográfica como a unidade principal de planeamento e gestão das águas, tendo por base a bacia hidrográfica. A DQA e a LA estabelecem a obrigatoriedade de, em ciclos sexenais sucessivos de planeamento, serem produzidos Planos de Gestão de Região Hidrográfica, em que deve ser realizada a análise e implementação de um conjunto de medidas e ações que permitam atingir os objetivos ambientais conducentes à garantia do bom estado das massas de águas, bem como o desenvolvimento de um modelo de análise económica das utilizações deste recurso. | O PGRH-Açores 2022-2027, enquanto instrumento de carácter eminentemente operacional, define um conjunto alargado de medidas e ações que permitam atingir os objetivos ambientais conducentes à garantia do bom estado das massas de águas. Neste contexto, o PGRIA 2022-2027 deve internalizar as orientações do PGRH-Açores 2022-2027 em matéria de cheias, em particular as decorrentes dos objetivos estratégicos RH9_OE_007 (Prevenir as pressões com vista à redução e minimização dos riscos associados a fenómenos sísmicos, vulcânicos e hidrológicos), RH9_OE_009 (Adotar medidas de adaptação e boas práticas associadas aos riscos com origem em fenómenos naturais) e RH9_OE_010 (Mitigar os efeitos das inundações e das secas), bem como aspetos associados, entre outros, de articulação entre entidades, informação às partes interessadas e monitorização. |
 | No caso vertente, estes planos referem-se à designada RH9, tal como delimitada pelo Decreto-Lei n.º 112/2002, de 17 de abril, diploma que aprovou o primeiro Plano Nacional da Água. |  |
 | O Plano de Gestão de Região Hidrográfica 2022-2027 (PGRH-Açores 2022-2027) sucede, respetivamente, aos PGRH-Açores 2012-2015 e ao PGRH-Açores 2016-2021, e assenta na relação entre a identificação de pressões, na avaliação do estado das massas de água e na elaboração de programas de medidas que permitam mitigar o impacte das pressões, apresentando como pilar dessa relação o cumprimento dos objetivos ambientais consignados na DQA, a nível comunitário, e na LA, no contexto do direito nacional. A proposta de plano foi devidamente aprovada em 17 de janeiro de 2023, em sessão plenária da Assembleia Legislativa da Região Autónoma dos Açores, e publicada pelo Decreto Legislativo Regional n.º 8/2023/A, de 27 de fevereiro. |  |
 | São objetivos específicos do PGRH-Açores 2022-2027: |  |
@@ -1568,9 +1628,9 @@ Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários in
 | 13 - Estabelecimento de objetivos ambientais e estratégicos adaptados à realidade insular e específica da RH9, recorrendo à aplicação dos princípios de proteção das águas expressos na LA (artigo 1.º); |  |
 | 14 - Desenvolvimento de programas de medidas (básicas, suplementares e adicionais) e respetiva avaliação económica e tecnológica, e avaliação do impacte das medidas nas pressões e no cumprimento dos objetivos ambientais estabelecidos; |  |
 | 15 - Definição de metodologias e promoção de iniciativas, eventos e ações de participação pública nas diversas fases de elaboração e implementação do PGRH-Açores. |  |
-| Programa Regional para as Alterações Climáticas dos Açores (PRAC) | Programa Regional para as Alterações Climáticas dos Açores (PRAC) |
+| Programa Regional para as Alterações Climáticas dos Açores (PRAC) |  |
 | O Programa Regional para as Alterações Climáticas dos Açores (PRAC), publicado pelo Decreto Legislativo Regional n.º 30/2019/A, de 28 de novembro, visa operacionalizar a Estratégia Regional para as Alterações Climáticas, aprovada pela Resolução do Conselho do Governo Regional n.º 123/2011, de 19 de outubro. Com esta estratégia pretende-se estabelecer um quadro de ação a nível regional que permita encarar os desafios e oportunidades emergentes associadas ao fenómeno das alterações climáticas. | O PRAC, enquanto instrumento de carácter programático, define uma série de diretrizes específicas de adaptação, sendo que algumas são particularmente relevantes para a consecução dos objetivos do PGRIA. Salientam-se, entre outras, as diretrizes para o Ordenamento do Território e Zonas Costeiras (OTZC5-SPB3; OTZC-SPB2; OTZC-8 TUR 11; OTZC9; OTZC 10; OTZC11-SPB9); Segurança de Pessoas e Bens (SPB1; SPB5; SPB6-ECO20; SPB7; SPB10; SPB13; SPB12), e Recursos Hídricos (RH10). Neste contexto, o PGRIA deve articular-se com as orientações do PRAC em matéria de cheias e inundações. |
-| Os objetivos estratégicos do PRAC são: | O PRAC, enquanto instrumento de carácter programático, define uma série de diretrizes específicas de adaptação, sendo que algumas são particularmente relevantes para a consecução dos objetivos do PGRIA. Salientam-se, entre outras, as diretrizes para o Ordenamento do Território e Zonas Costeiras (OTZC5-SPB3; OTZC-SPB2; OTZC-8 TUR 11; OTZC9; OTZC 10; OTZC11-SPB9); Segurança de Pessoas e Bens (SPB1; SPB5; SPB6-ECO20; SPB7; SPB10; SPB13; SPB12), e Recursos Hídricos (RH10). Neste contexto, o PGRIA deve articular-se com as orientações do PRAC em matéria de cheias e inundações. |
+| Os objetivos estratégicos do PRAC são: |  |
 | 1 - Estabelecer cenários e projeções climáticas para os Açores nos horizontes de curto (2010-2039), médio (2040-2069) e longo prazo (2070-2099); |  |
 | 2 - Estimar as emissões regionais de GEE, avaliando o contributo regional para a emissão de GEE, quer a nível setorial, quer ainda em comparação com o contexto nacional; |  |
 | 3 - Definir e programar medidas e ações, de aplicação setorial, para a redução das emissões de gases com efeito de estufa, estimando o seu potencial de redução; |  |
@@ -1578,8 +1638,8 @@ Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários in
 | 5 - Proceder à avaliação e análise do custo-eficácia das medidas e ações propostas e definir as responsabilidades setoriais para a respetiva aplicação; |  |
 | 6 - Identificar mecanismos de financiamento para as medidas definidas; |  |
 | 7 - Definir um programa de monitorização e controlo da sua implementação. |  |
-| Plano Setorial da Rede Natura 2000 da RAA | Plano Setorial da Rede Natura 2000 da RAA |
-| O Plano Setorial da Rede Natura 2000 (PSRN2000) define o âmbito e o enquadramento legal das medidas de conservação dos habitats e das espécies da fauna e flora selvagens, necessárias à prossecução dos objetivos de conservação dos valores naturais existentes, tendo em conta o desenvolvimento económico e social das áreas abrangidas. | Os objetivos gerais do PAE serão alcançados através da incorporação de princípios e critérios de natureza ambiental, nas diversas abordagens setoriais com tradução em instrumentos de ordenamento do território, os quais o PGRIA deve também salvaguardar adotando, preferencialmente, medidas não estruturais de redução da probabilidade de inundação. |
+| Plano Setorial da Rede Natura 2000 da RAA |  |
+| O Plano Setorial da Rede Natura 2000 (PSRN2000) define o âmbito e o enquadramento legal das medidas de conservação dos **habitats** e das espécies da fauna e flora selvagens, necessárias à prossecução dos objetivos de conservação dos valores naturais existentes, tendo em conta o desenvolvimento económico e social das áreas abrangidas. | Os objetivos gerais do PAE serão alcançados através da incorporação de princípios e critérios de natureza ambiental, nas diversas abordagens setoriais com tradução em instrumentos de ordenamento do território, os quais o PGRIA deve também salvaguardar adotando, preferencialmente, medidas não estruturais de redução da probabilidade de inundação. |
 | O PSRN2000 tem como principais objetivos: |  |
 | 1 - Assegurar a proteção e a promoção dos valores naturais e paisagísticos; |  |
 | 2 - Enquadrar as atividades humanas através de uma gestão racional dos recursos naturais, com vista a promover simultaneamente o desenvolvimento económico e a melhoria da qualidade de vida das populações residentes, de forma sustentada; |  |
@@ -1590,17 +1650,17 @@ Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários in
 | 7 - Contribuir para a ordenação e disciplina das atividades agroflorestais, urbanísticas, industriais, recreativas e turísticas, de forma a evitar a degradação dos valores naturais, seminaturais e paisagísticos, estéticos e culturais da Região, possibilitando um exercício de atividades compatíveis, nomeadamente o turismo de natureza; |  |
 | 8 - Estabelecer regras de utilização do território que garantam a boa qualidade ambiental e paisagística da zona de intervenção; |  |
 | 9 - Aplicar as disposições legais e regulamentares vigentes, quer do ponto de vista da conservação da natureza, quer do ponto de vista do ordenamento do território. |  |
-| Plano Setorial de Ordenamento do Território para as Atividades Extrativas da Região Autónoma dos Açores (PAE) | Plano Setorial de Ordenamento do Território para as Atividades Extrativas da Região Autónoma dos Açores (PAE) |
+| Plano Setorial de Ordenamento do Território para as Atividades Extrativas da Região Autónoma dos Açores (PAE) |  |
 | O Plano Setorial de Ordenamento do Território para as Atividades Extrativas da Região Autónoma dos Açores (PAE), publicado pelo Decreto Legislativo Regional n.º 19/2015/A, de 14 de agosto, tem por objeto o ordenamento e a gestão integrada da atividade de extração de recursos minerais não metálicos na Região Autónoma dos Açores, assumindo como pressuposto de base que estes recursos geológicos assumem um carácter estratégico para o desenvolvimento socioeconómico da Região. | O PAE visa desenvolver uma estratégia regional para o setor extrativo, promovendo a maximização do aproveitamento dos recursos minerais não metálicos nos Açores, assim como a criação de mecanismos que incentivem a integração e valorização territorial desta atividade económica. Este plano setorial incorpora a análise da incidência espacial do setor extrativo, com a avaliação de áreas de maior potencial para a atividade e a identificação de locais sensíveis do ponto de vista geológico, ambiental e paisagístico, ocupados atualmente ou no passado por explorações |
 | O PAE tem como principais objetivos: | de massas minerais e que devem ser recuperadas. Neste contexto, o PGRIA deve também salvaguardar as áreas acima referidas, adotando, preferencialmente, se tal for requerido, medidas não estruturais de redução da probabilidade de inundação. |
-| 1 - Promover a exploração racional de recursos minerais não metálicos na Região Autónoma dos Açores; | de massas minerais e que devem ser recuperadas. Neste contexto, o PGRIA deve também salvaguardar as áreas acima referidas, adotando, preferencialmente, se tal for requerido, medidas não estruturais de redução da probabilidade de inundação. |
+| 1 - Promover a exploração racional de recursos minerais não metálicos na Região Autónoma dos Açores; |  |
 | 2 - Salvaguardar o potencial estratégico dos recursos minerais não metálicos no contexto do desenvolvimento integrado da Região Autónoma dos Açores; |  |
 | 3 - Promover a recuperação de áreas ambiental e paisagisticamente degradadas em virtude da cessação de atividades extrativas de recursos minerais não metálicos; |  |
 | 4 - Fomentar o conhecimento e inovação associada ao setor extrativo. |  |
-| Planos de Ordenamento das Bacias Hidrográficas de Lagoas (POBHL) (quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) | Planos de Ordenamento das Bacias Hidrográficas de Lagoas (POBHL) (quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) |
+| Planos de Ordenamento das Bacias Hidrográficas de Lagoas (POBHL) (quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) |  |
 | Os Planos de Ordenamento das Bacias Hidrográficas de Lagoas (POBHL) têm como principal objetivo compatibilizar as diferentes atividades, usos, ocupação e transformação do solo com a proteção e valorização ambiental das bacias hidrográficas e com a recuperação da qualidade da água das lagoas. A RAA dispõe, atualmente, de cinco POBHL, dos quais somente um abrange áreas críticas de cheias/inundações, nomeadamente: | Os POBHL constituem planos especiais de ordenamento do território que devem ser adaptados com o disposto no PGRIA. |
 | Flores (Lagoas Branca, Negra, Funda, Comprida, Rasa, Lomba e Patas): Decreto Regulamentar Regional n.º 6/2013/A, de 8 de julho. |  |
-| Planos de Ordenamento da Orla Costeira (POOC) (quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) | Planos de Ordenamento da Orla Costeira (POOC) (quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) |
+| Planos de Ordenamento da Orla Costeira (POOC) (quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) |  |
 | Os POOC em vigor na Região visam a prossecução de um conjunto de princípios e objetivos que se assemelham, e dos quais se destaca a minimização de situações de risco e de impactes ambientais, sociais e económicos, a salvaguarda e valorização ambiental dos recursos naturais e da paisagem, em especial dos recursos hídricos, a proteção e valorização dos ecossistemas naturais e a orientação do desenvolvimento de atividades específicas da orla costeira. Presentemente, encontram-se em vigor 10 POOC, dos quais 6 abrangem áreas críticas de cheias/inundações, nomeadamente: | Os POOC, enquanto instrumentos de natureza especial, devem ser adaptados com o disposto no PGRIA. |
 | Pico: Decreto Regulamentar Regional n.º 24/2011/A, de 23 de novembro; |  |
 | Terceira: Decreto Regulamentar Regional n.º 1/2005/A, de 15 de fevereiro; |  |
@@ -1608,9 +1668,9 @@ Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários in
 | São Miguel (Troço Feteiras/Lomba de São Pedro - Costa Sul): Decreto Regulamentar Regional n.º 29/2007/A, de 5 de dezembro; |  |
 | São Jorge: Decreto Regulamentar Regional n.º 2/2022/A, de 24 de janeiro; |  |
 | Flores: Decreto Regulamentar Regional n.º 24/2008/A, de 26 de novembro. |  |
-| Plano de Ordenamento Turístico da Região Autónoma dos Açores (POTRAA) | Plano de Ordenamento Turístico da Região Autónoma dos Açores (POTRAA) |
+| Plano de Ordenamento Turístico da Região Autónoma dos Açores (POTRAA) |  |
 | O POTRAA define a estratégia de desenvolvimento sustentável do setor do turismo e o modelo territorial a adotar, e tem como objetivo global o desenvolvimento e afirmação de um setor turístico sustentável que garanta o desenvolvimento económico, a preservação do ambiente natural e humano e que contribua para o ordenamento do território insular e para a atenuação da disparidade entre os diversos espaços constitutivos da Região. | No âmbito do PGRIA, importa destacar os Espaços Ecológicos de Maior Sensibilidade, isto é, espaços de características ecológicas particularmente sensíveis ou que, por falta de aptidão biofísica, apresentam uma utilização, total ou parcialmente, comprometida - é o caso das reservas naturais, reservas florestais naturais, paisagens protegidas, biótopos, zonas de proteção especial, sítios de interesse comunitário (atuais zonas especiais de conservação), zonas de risco de erosão, falésias, zonas costeiras e bacias hidrográficas de lagoas. Relativamente aos Pontos de Interesse Turístico, que correspondem aos locais ou elementos de relevante interesse patrimonial, nas suas vertentes natural e cultural, salientam-se as ribeiras, cascatas, baias, lagoas, fajãs, fenómenos naturais e elementos singulares. |
-| Planos Municipais de Ordenamento do Território (PMOT) (quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) | Planos Municipais de Ordenamento do Território (PMOT) (quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) |
+| Planos Municipais de Ordenamento do Território (PMOT) (quando aplicáveis ao âmbito territorial do PGRIA 2022-2027) |  |
 | De acordo com o regime jurídico dos instrumentos de gestão territorial dos Açores, publicado pelo Decreto Legislativo Regional n.º 35/2012/A, de 16 de agosto, os Planos Municipais de Ordenamento do Território (PMOT) são instrumentos de natureza regulamentar aprovados pelos municípios que estabelecem o regime de uso do solo e definem modelos de evolução previsível da ocupação humana, da organização de redes e sistemas urbanos e, na escala adequada, parâmetros de aproveitamento do solo e de garantia da qualidade ambiental. | Como decorre do PRAC, e da própria natureza dos objetivos do PGRIA, a espacialização das diversas situações de suscetibilidade identificadas deve ser integrada, através do adequado desenvolvimento a escala mais detalhada, nos Planos Municipais de Ordenamento do Território aquando da sua alteração. A integração do risco nos PMOT deve também ser acompanhada do estabelecimento de normas que reforcem as restrições ao uso e ocupação do solo nas zonas de risco, evitando o agravamento da exposição ao risco. |
 | São objetivos dos PMOT: |  |
 | 1 - A tradução, no âmbito local, do quadro de desenvolvimento do território estabelecido nos instrumentos de gestão territorial de âmbito regional; |  |
@@ -1625,28 +1685,28 @@ Tabela 26 - Natureza, objetivos e relação com o PGRIA 2022-2027 dos vários in
 | 10 - Os parâmetros de uso e fruição do espaço público; |  |
 | 11 - Outros indicadores relevantes para a elaboração dos demais instrumentos de gestão territorial. |  |
 | Os Planos Diretores Municipais (PDM) são PMOT que estabelecem a estratégia de desenvolvimento territorial, a política municipal de ordenamento do território e de urbanismo e as demais políticas urbanas, integram e articulam as orientações estabelecidas pelos instrumentos de gestão territorial de âmbito de ilha e regional e estabelecem o modelo de organização espacial do território municipal. Os PDM são os instrumentos de referência para a elaboração dos demais Planos Municipais de Ordenamento do Território e para o estabelecimento de programas de ação territorial, bem como para o desenvolvimento das intervenções setoriais públicas no território do município, em concretização do princípio da coordenação das respetivas estratégias de ordenamento territorial. |  |
-| Plano Regional de Emergência de Proteção Civil da RAA (PREPCA) | Plano Regional de Emergência de Proteção Civil da RAA (PREPCA) |
+| Plano Regional de Emergência de Proteção Civil da RAA (PREPCA) |  |
 | O Plano Regional de Emergência de Proteção Civil da RAA (PREPCA) foi aprovado pela Resolução do Conselho do Governo Regional n.º 55/2019, de 16 de abril, e visa regular de modo mais eficaz a forma como é assegurada a coordenação institucional e a articulação e intervenção das organizações integrantes do Sistema Integrado de Operações de Proteção e Socorro da Região Autónoma dos Açores (SIOPS-RAA) e de outras entidades públicas ou privadas a envolver nas operações, constituindo-se como uma plataforma preparada para responder, organizadamente, a situações de acidente grave ou catástrofe, definindo as estruturas de direção, coordenação, comando e controlo. | O PREPCA, e subsidiariamente os Planos Municipais de Emergência de Proteção Civil, devem ponderar as orientações do PGRIA 2022-2027 em matéria de cheias e inundações, por forma a assegurar a articulação entre todos os planos. |
 | São objetivos do PREPCA: |  |
 | 1 - Estabelecer as diretrizes para, em caso de iminência ou ocorrência de acidente grave ou catástrofe, poder prevenir, limitar os efeitos dos riscos; |  |
 | 2 - Socorrer e assistir as pessoas e outros seres vivos em perigo, bem como proteger bens e valores culturais, ambientais e de elevado interesse público, procurando restabelecer as condições normais de vida o mais rapidamente possível. |  |
-| Estratégia Florestal da Região Autónoma dos Açores (EFRAA) | Estratégia Florestal da Região Autónoma dos Açores (EFRAA) |
+| Estratégia Florestal da Região Autónoma dos Açores (EFRAA) |  |
 | A Estratégia Florestal dos Açores (DRRF, 2014) assume uma linha de orientação estratégica direcionada para o desenvolvimento do setor florestal na Região, visando promover a dinamização e modernização da fileira e a proteção do património florestal. | A Estratégia Florestal dos Açores constitui-se como o quadro de referência para o setor florestal na RAA. Neste contexto, o PGRIA deve explorar as possíveis sinergias com este instrumento, nomeadamente pela necessidade de assegurar o papel da floresta no ciclo hídrico e na proteção do solo como mecanismo de regularização dos escoamentos. |
-| A Estratégia Florestal dos Açores, direcionada para garantir o ordenamento e a gestão dos recursos florestais, assenta em quatro objetivos estratégicos, que compreendem diversas medidas, nomeadamente: | A Estratégia Florestal dos Açores constitui-se como o quadro de referência para o setor florestal na RAA. Neste contexto, o PGRIA deve explorar as possíveis sinergias com este instrumento, nomeadamente pela necessidade de assegurar o papel da floresta no ciclo hídrico e na proteção do solo como mecanismo de regularização dos escoamentos. |
+| A Estratégia Florestal dos Açores, direcionada para garantir o ordenamento e a gestão dos recursos florestais, assenta em quatro objetivos estratégicos, que compreendem diversas medidas, nomeadamente: |  |
 | 1 - Promover a certificação da gestão florestal, a valorização dos produtos florestais e a sua comercialização através da procura de novos mercados |  |
 | 1.1 - Certificar a gestão florestal das áreas públicas; |  |
 | 1.2 - Apoiar a certificação da gestão florestal das áreas privadas; |  |
-| 1.3 - Implementar o processo da marcação CE (Conformidade Europeia) da madeira de Cryptomeria japonica e promover estudos de «I&D» no âmbito da tecnologia dos produtos florestais; |  |
+| 1.3 - Implementar o processo da marcação CE (Conformidade Europeia) da madeira de **Cryptomeria japonica** e promover estudos de «I&D» no âmbito da tecnologia dos produtos florestais; |  |
 | 1.4 - Consolidar e divulgar a marca «Criptoméria dos Açores»; |  |
 | 1.5 - Criar a marca «Florestas dos Açores». |  |
 | 2 - Aumentar a competitividade do setor florestal através da utilização sustentável dos recursos florestais |  |
 | 2.1 - Beneficiar os viveiros florestais; |  |
 | 2.2 - Certificar a produção de material florestal de reprodução; |  |
 | 2.3 - Promover o fomento florestal; |  |
-| 2.4 - Valorizar o potencial genético da Cryptomeria japonica; |  |
+| 2.4 - Valorizar o potencial genético da **Cryptomeria japonica**; |  |
 | 2.5 - Estudar a adaptabilidade de espécies florestais exóticas; |  |
 | 2.6 - Revitalizar os ecossistemas florestais autóctones; |  |
-| 2.7 - Elaborar modelos de silvicultura para a Cryptomeria japonica; |  |
+| 2.7 - Elaborar modelos de silvicultura para a **Cryptomeria japonica**; |  |
 | 2.8 - Reforçar o investimento na rede viária rural e florestal; |  |
 | 2.9 - Incentivar a valorização da biomassa florestal; |  |
 | 2.10 - Apoiar a valorização profissional dos agentes da fileira florestal; |  |
@@ -1717,8 +1777,8 @@ Tabela 27 - Linhas de orientação estratégica do PGRIA 2022-2027
 | Área temática | Linhas de orientação estratégica |
 | --- | --- |
 | Gestão de riscos | Adotar uma abordagem preventiva para reduzir a possibilidade de ocorrência de consequências adversas de cheias. |
-| Gestão de riscos | Assegurar a proteção das populações, das atividades económicas, do património natural e construído e do ambiente face a eventos de cheias. |
-| Gestão de riscos | Instalar um sistema de monitorização, previsão e alerta de situações hidrológicas extremas. |
+| Assegurar a proteção das populações, das atividades económicas, do património natural e construído e do ambiente face a eventos de cheias. |  |
+| Instalar um sistema de monitorização, previsão e alerta de situações hidrológicas extremas. |  |
 | Quadro institucional e normativo | Otimizar a implementação e aplicação do atual quadro institucional e normativo e articulá-lo, de forma tangível, com referenciais ao nível da gestão de recursos hídricos, da conservação da natureza, da gestão da orla costeira, da gestão de emergências, e outros instrumentos de gestão territorial. |
 | Informação e participação cidadã | Promover e otimizar os modelos de informação e de participação do cidadão e/ou de partes interessadas. |
 | Monitorização e desenvolvimento de investigação aplicada | Aprofundar o conhecimento técnico-científico relativamente à ocorrência e impactes de episódios de cheias e inundações, incluindo a análise prospetiva associada ao fenómeno das alterações climáticas, por forma a colmatar lacunas de conhecimento e otimizar a gestão do próprio PGRIA. |
@@ -1732,37 +1792,37 @@ Tabela 28 - Definição dos objetivos do PGRIA 2022-2027 de acordo com a respeti
 | Área temática | Objetivo | 2022 | Meta 2027 |
 | --- | --- | --- | --- |
 | Gestão de riscos | Bacias hidrográficas com zonas críticas à ocorrência de cheias fluviais (E) | 11 | 0 |
-| Gestão de riscos | Zonas críticas à ocorrência de inundações costeiras (E) | 4 | 0 |
-| Gestão de riscos | Bacias hidrográficas com sistemas de monitorização e alerta de cheias (R) | 0 | 11 |
-| Gestão de riscos | POOC com medidas de reabilitação/renaturalização e proteção costeira definidas/implementadas (R) | n.a. | 9 |
+| Zonas críticas à ocorrência de inundações costeiras (E) | 4 | 0 |  |
+| Bacias hidrográficas com sistemas de monitorização e alerta de cheias (R) | 0 | 11 |  |
+| POOC com medidas de reabilitação/renaturalização e proteção costeira definidas/implementadas (R) | n.a. | 9 |  |
 | Quadro institucional e normativo | Instrumentos de planeamento setoriais articulados com as Linhas de Orientação Estratégica e objetivos do PGRIA (R) | n.a. | 100 % |
 | Informação e participação cidadã | Acessos ao Portal dos Recursos Hídricos (R) | 52/dia (2018/2019) | 52/dia |
-| Informação e participação cidadã | Reforço das ações de sensibilização/educação e formação sobre recursos hídricos (R) | >100/ano (2018/2019) | >150/ano |
-| Informação e participação cidadã | Ações de formação de recursos humanos (R) | n.a. | n.a. |
+| Reforço das ações de sensibilização/educação e formação sobre recursos hídricos (R) | >100/ano (2018/2019) | >150/ano |  |
+| Ações de formação de recursos humanos (R) | n.a. | n.a. |  |
 | Monitorização e desenvolvimento de investigação aplicada | Representatividade da rede de monitorização das massas de água superficiais e subterrâneas (R) | Superficiais interiores:100 % | Superficiais interiores:100 % |
-| Monitorização e desenvolvimento de investigação aplicada | Adequabilidade da rede de monitorização das massas de água superficiais e subterrâneas (R) | Superficiais interiores:50 % | Superficiais interiores:80 % |
+| Adequabilidade da rede de monitorização das massas de água superficiais e subterrâneas (R) | Superficiais interiores:50 % | Superficiais interiores:80 % |  |
 
 Tabela 29 - Definição dos objetivos do PGRIA 2022-2027 de acordo com a respetiva área temática (n.a. - não aplicável)
 
 | Área temática | Objetivo | 2022 | Meta 2027 |
 | --- | --- | --- | --- |
 | Gestão de riscos | Bacias hidrográficas com zonas críticas à ocorrência de cheias fluviais (E) | 11 | 6 |
-| Gestão de riscos | Zonas críticas à ocorrência de inundações costeiras (E) | 4 | 4 |
-| Gestão de riscos | Bacias hidrográficas com sistemas de monitorização e alerta de cheias (R) | 0 | 11 |
-| Gestão de riscos | Melhoria da gestão do território nas bacias hidrográficas abrangidas pelo PGRIA (R) | n.a. | 11 |
-| Gestão de riscos | Medidas estruturais e de renaturalização nas bacias hidrográficas abrangidas pelo PGRIA (R) | 4 | n.a. |
-| Gestão de riscos | POOC com medidas de reabilitação/renaturalização e proteção costeira definidas/implementadas (R) | n.a. | 2 (só POOC São Miguel e Pico) |
+| Zonas críticas à ocorrência de inundações costeiras (E) | 4 | 4 |  |
+| Bacias hidrográficas com sistemas de monitorização e alerta de cheias (R) | 0 | 11 |  |
+| Melhoria da gestão do território nas bacias hidrográficas abrangidas pelo PGRIA (R) | n.a. | 11 |  |
+| Medidas estruturais e de renaturalização nas bacias hidrográficas abrangidas pelo PGRIA (R) | 4 | n.a. |  |
+| POOC com medidas de reabilitação/renaturalização e proteção costeira definidas/implementadas (R) | n.a. | 2 (só POOC São Miguel e Pico) |  |
 | Quadro institucional e normativo | Instrumentos de planeamento setorial de ordenamento do território articulados com as Linhas de Orientação Estratégica e objetivos do PGRIA (R) | n.a. | 100 % |
-| Quadro institucional e normativo | Instrumentos de planeamento especial de ordenamento do território articulados com as Linhas de Orientação Estratégica e objetivos do PGRIA (R) | n.a. | 100 % |
-| Quadro institucional e normativo | Instrumentos de planeamento municipal de ordenamento do território articulados com as Linhas de Orientação Estratégica e objetivos do PGRIA (R) | n.a. | 100 % |
-| Quadro institucional e normativo | Instrumentos de planeamento municipal de emergência articulados com as Linhas de Orientação Estratégica e objetivos do PGRIA (R) | 0 % | 100 % |
+| Instrumentos de planeamento especial de ordenamento do território articulados com as Linhas de Orientação Estratégica e objetivos do PGRIA (R) | n.a. | 100 % |  |
+| Instrumentos de planeamento municipal de ordenamento do território articulados com as Linhas de Orientação Estratégica e objetivos do PGRIA (R) | n.a. | 100 % |  |
+| Instrumentos de planeamento municipal de emergência articulados com as Linhas de Orientação Estratégica e objetivos do PGRIA (R) | 0 % | 100 % |  |
 | Informação e participação cidadã | Acessos ao Portal dos Recursos Hídricos (R) | 52/dia (2018/2019) | 52/dia |
-| Informação e participação cidadã | Reforço das ações de sensibilização/educação e formação sobre a ocorrência, impactes e resposta a fenómenos hidrológicos extremos (R) | >100/ano (2018/2019) | >100/ano |
-| Informação e participação cidadã | Ações de formação de recursos humanos sobre a ocorrência, impactes e respostas a fenómenos hidrológicos extremos (R) | n.a. | 2 |
+| Reforço das ações de sensibilização/educação e formação sobre a ocorrência, impactes e resposta a fenómenos hidrológicos extremos (R) | >100/ano (2018/2019) | >100/ano |  |
+| Ações de formação de recursos humanos sobre a ocorrência, impactes e respostas a fenómenos hidrológicos extremos (R) | n.a. | 2 |  |
 | Monitorização e desenvolvimento de investigação aplicada | Universalização das redes hidrometeorológicas automáticas nas bacias hidrográficas abrangidas pelo PGRIA (R) | 4 | 11 |
-| Monitorização e desenvolvimento de investigação aplicada | Reforço das redes hidrometeorológicas automáticas nas bacias hidrográficas da RH9 (R) | 78 | 97 |
-| Monitorização e desenvolvimento de investigação aplicada | Implementação de um sistema de monitorização da orla costeira nas faixas abrangidas pelo PGRIA (R) | 0 | 4 |
-| Monitorização e desenvolvimento de investigação aplicada | Desenvolvimento de estudos sobre a ocorrência, impactes e resposta a fenómenos hidrológicos extremos (R) | n.a. | 2 |
+| Reforço das redes hidrometeorológicas automáticas nas bacias hidrográficas da RH9 (R) | 78 | 97 |  |
+| Implementação de um sistema de monitorização da orla costeira nas faixas abrangidas pelo PGRIA (R) | 0 | 4 |  |
+| Desenvolvimento de estudos sobre a ocorrência, impactes e resposta a fenómenos hidrológicos extremos (R) | n.a. | 2 |  |
 
 7.3 - Normas orientadoras sobre restrições à ocupação e uso do solo
 
@@ -1772,9 +1832,9 @@ O documento intitulado Guia para a delimitação e integração da cartografia d
 
 Por outro lado, o Programa Regional para as Alterações Climáticas, publicado pelo Decreto Legislativo Regional n.º 30/2019/A, de 28 de novembro, determina que os planos especiais, intermunicipais e municipais de ordenamento do território incorporem cartografia de base de riscos naturais, à escala de 1:25.000 ou superior, com o objetivo de disponibilizar informação técnica que acautele a exposição e vulnerabilidade do território face a vários perigos naturais, incluindo as cheias e inundações. Adicionalmente, e de acordo com a mesmo diploma legal, para determinar o afastamento de edificações, equipamentos ou infraestruturas de zonas de risco significativo, deve ser desenvolvida cartografia de pormenor, à escala de 1:2.000 ou superior.
 
-Anteriormente à elaboração do PGRIA, a delimitação de áreas inundáveis seguia a metodologia que decorria do Decreto-Lei n.º 166/2008, de 22 de agosto, retificado pela Declaração de Retificação n.º 63-B/2008, de 21 de outubro, alterado e republicado pelo Decreto-Lei n.º 239/2012, de 2 de novembro, alterado pelo Decretos-Leis n.<sup>os</sup>96/2013, de 19 de julho, e 80/2015, de 14 de maio, e alterado e republicado pelo Decreto-Lei n.º 124/2019, de 28 de agosto, que estabelece o Regime Jurídico da Reserva Ecológica Nacional (RJREN). De acordo com o citado regime jurídico, as zonas ameaçadas pelas cheias compreendem a área contígua à margem de um curso de água que se estende até à linha alcançada pela cheia com período de retorno de 100 anos ou pela maior cheia conhecida, no caso de não existirem dados que permitam identificar a cheia centenária. Em particular, as zonas ameaçadas pelas cheias ou zonas inundáveis, não classificadas como zonas adjacentes nos termos da Lei da Titularidade dos Recursos Hídricos, deviam ser delimitadas através de modelação hidrológica e hidráulica que permitisse o cálculo das áreas inundáveis com período de retorno de pelo menos 100 anos, da observação de marcas ou registos de eventos históricos e de dados cartográficos, e da consideração de critérios geomorfológicos, pedológicos e topográficos.
+Anteriormente à elaboração do PGRIA, a delimitação de áreas inundáveis seguia a metodologia que decorria do Decreto-Lei n.º 166/2008, de 22 de agosto, retificado pela Declaração de Retificação n.º 63-B/2008, de 21 de outubro, alterado e republicado pelo Decreto-Lei n.º 239/2012, de 2 de novembro, alterado pelo Decretos-Leis n.os96/2013, de 19 de julho, e 80/2015, de 14 de maio, e alterado e republicado pelo Decreto-Lei n.º 124/2019, de 28 de agosto, que estabelece o Regime Jurídico da Reserva Ecológica Nacional (RJREN). De acordo com o citado regime jurídico, as zonas ameaçadas pelas cheias compreendem a área contígua à margem de um curso de água que se estende até à linha alcançada pela cheia com período de retorno de 100 anos ou pela maior cheia conhecida, no caso de não existirem dados que permitam identificar a cheia centenária. Em particular, as zonas ameaçadas pelas cheias ou zonas inundáveis, não classificadas como zonas adjacentes nos termos da Lei da Titularidade dos Recursos Hídricos, deviam ser delimitadas através de modelação hidrológica e hidráulica que permitisse o cálculo das áreas inundáveis com período de retorno de pelo menos 100 anos, da observação de marcas ou registos de eventos históricos e de dados cartográficos, e da consideração de critérios geomorfológicos, pedológicos e topográficos.
 
-Por outro lado, e não obstante a sua não aplicabilidade à Região Autónoma dos Açores, importa referir que a Portaria n.º 336/2019, de 26 de setembro, que aprova a revisão das Orientações Estratégicas Nacionais e Regionais previstas no RJREN, estabelece que a determinação das zonas ameaçadas pelas cheias deve considerar os eventos associados a um período de retorno de 100 anos, ou, para um nível de excecionalidade inferior, quando os mesmos impliquem consequências prejudiciais significativas. Neste contexto, devem ser elaborados estudos hidrológicos e hidráulicos, que utilizem os dados hidrometeorológicos e morfológicos existentes, ou aplicados procedimentos hidrológicos expeditos, em caso de bacias hidrográficas não suficientemente monitorizadas e de bacias hidrográficas com uma área entre 10 km<sup>2</sup> e 600 km<sup>2</sup>, ou ainda desenvolvidos estudos geomorfológicos combinados com uma avaliação estatística.
+Por outro lado, e não obstante a sua não aplicabilidade à Região Autónoma dos Açores, importa referir que a Portaria n.º 336/2019, de 26 de setembro, que aprova a revisão das Orientações Estratégicas Nacionais e Regionais previstas no RJREN, estabelece que a determinação das zonas ameaçadas pelas cheias deve considerar os eventos associados a um período de retorno de 100 anos, ou, para um nível de excecionalidade inferior, quando os mesmos impliquem consequências prejudiciais significativas. Neste contexto, devem ser elaborados estudos hidrológicos e hidráulicos, que utilizem os dados hidrometeorológicos e morfológicos existentes, ou aplicados procedimentos hidrológicos expeditos, em caso de bacias hidrográficas não suficientemente monitorizadas e de bacias hidrográficas com uma área entre 10 km2 e 600 km2, ou ainda desenvolvidos estudos geomorfológicos combinados com uma avaliação estatística.
 
 A Região Autónoma dos Açores já possui um documento, desde o ano 2021, com orientações metodológicas relativas à delimitação de cada uma das tipologias de áreas que integram a Reserva Ecológica no âmbito da elaboração dos PDM, o que permite obviar a heterogeneidade de critérios/metodologias aplicadas até à data. No caso vertente das zonas ameaçadas pelas cheias, as orientações metodológicas propostas assentam na consideração de quatro critérios, nomeadamente o caudal de ponta específico, para um período de retorno de 100 anos, a densidade de drenagem média de cada bacia hidrográfica, a ocupação do solo e o registo histórico do número de ocorrências de cheia, o que é consentâneo com os critérios e metodologias adotadas pelo próprio PGRIA.
 
@@ -1787,17 +1847,17 @@ Tabela 30 - Normas orientadoras sobre as restrições ao uso e ocupação do sol
 | Grau de suscetibilidade/risco | Normas orientadoras |
 | --- | --- |
 | Suscetibilidade e/ou risco elevado | Interdição de novas construções nas áreas identificadas como de elevada suscetibilidade e condicionamento e adequação dos usos e atividades à tipologia de risco em causa nas zonas inundáveis provenientes do PGRIA. |
-| Suscetibilidade e/ou risco elevado | Interdição de novas construções e condicionamento e adequação dos usos e atividades à tipologia de risco nas áreas identificadas em outra cartografia de pormenor (1:2.000) como de elevada suscetibilidade a cheias e inundações fluviais. |
-| Suscetibilidade e/ou risco elevado | Incorporação de regulamentação que permita: minimizar as situações de risco às cheias e inundações; a ponderação de relocalização programada e a longo prazo de edificado em zona de suscetibilidade e risco elevado, com a renaturalização das zonas que serão desocupadas para utilização pública e definição de zonas tampão destinadas a atividades de cariz sazonal ou que facilmente possam ser relocalizadas. |
-| Suscetibilidade e/ou risco elevado | Elaboração de plano de relocalização, reabilitação e manutenção de património construído, nomeadamente para as áreas urbanas e infraestruturas críticas em áreas com grau de suscetibilidade e/ou risco elevado, tendo em consideração a definição de critérios claros e objetivos. |
-| Suscetibilidade e/ou risco elevado | Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de suscetibilidade, e de risco, subsequentemente à determinação do grau de suscetibilidade e do grau de risco, através da implementação de medidas específicas. |
-| Suscetibilidade e/ou risco elevado | Reavaliação de cartografia de cheias e inundações fluviais em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de suscetibilidade moderada). |
-| Suscetibilidade e/ou risco elevado | Definição de regras aplicáveis ao edificado em zona de suscetibilidade e/ou risco elevado, tendo em consideração a reabilitação e manutenção dessas zonas, por forma a promover a diminuição da sua ocupação permanente, sem alterar a morfologia urbana existente e concebida ao longo do tempo. |
-| Suscetibilidade e/ou risco elevado | Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na ocorrência de cheias e inundações, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |
+| Interdição de novas construções e condicionamento e adequação dos usos e atividades à tipologia de risco nas áreas identificadas em outra cartografia de pormenor (1:2.000) como de elevada suscetibilidade a cheias e inundações fluviais. |  |
+| Incorporação de regulamentação que permita: minimizar as situações de risco às cheias e inundações; a ponderação de relocalização programada e a longo prazo de edificado em zona de suscetibilidade e risco elevado, com a renaturalização das zonas que serão desocupadas para utilização pública e definição de zonas tampão destinadas a atividades de cariz sazonal ou que facilmente possam ser relocalizadas. |  |
+| Elaboração de plano de relocalização, reabilitação e manutenção de património construído, nomeadamente para as áreas urbanas e infraestruturas críticas em áreas com grau de suscetibilidade e/ou risco elevado, tendo em consideração a definição de critérios claros e objetivos. |  |
+| Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de suscetibilidade, e de risco, subsequentemente à determinação do grau de suscetibilidade e do grau de risco, através da implementação de medidas específicas. |  |
+| Reavaliação de cartografia de cheias e inundações fluviais em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de suscetibilidade moderada). |  |
+| Definição de regras aplicáveis ao edificado em zona de suscetibilidade e/ou risco elevado, tendo em consideração a reabilitação e manutenção dessas zonas, por forma a promover a diminuição da sua ocupação permanente, sem alterar a morfologia urbana existente e concebida ao longo do tempo. |  |
+| Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na ocorrência de cheias e inundações, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |  |
 | Suscetibilidade e/ou risco moderado | Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de suscetibilidade, e de risco, subsequentemente à determinação do grau de suscetibilidade e do grau de risco, através da implementação de medidas específicas, incluindo normas que não recomendem a implantação de edifícios sensíveis nas áreas de suscetibilidade/risco moderado. |
-| Suscetibilidade e/ou risco moderado | Reavaliação de cartografia de cheias e inundações fluviais em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de suscetibilidade moderada). |
-| Suscetibilidade e/ou risco moderado | Definição de regras aplicáveis ao edificado em zonas de suscetibilidade e/ou risco moderado, visando a reabilitação e manutenção dessas zonas, tendo em consideração a morfologia urbana existente e concebida ao longo do tempo. |
-| Suscetibilidade e/ou risco moderado | Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |
+| Reavaliação de cartografia de cheias e inundações fluviais em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de suscetibilidade moderada). |  |
+| Definição de regras aplicáveis ao edificado em zonas de suscetibilidade e/ou risco moderado, visando a reabilitação e manutenção dessas zonas, tendo em consideração a morfologia urbana existente e concebida ao longo do tempo. |  |
+| Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |  |
 
 7.3.1.2 - Planos Municipais de Ordenamento do Território
 
@@ -1808,17 +1868,17 @@ Tabela 31 - Normas orientadoras sobre as restrições ao uso e ocupação do sol
 | Grau de suscetibilidade/risco | Normas orientadoras |
 | --- | --- |
 | Suscetibilidade e/ou risco elevado | Interdição de novas construções nas áreas identificadas como de elevada suscetibilidade, e condicionamento e adequação dos usos e atividades à tipologia de risco em causa nas zonas inundáveis provenientes do PGRIA. |
-| Suscetibilidade e/ou risco elevado | Interdição de novas construções e condicionamento e adequação dos usos e atividades à tipologia de risco nas áreas identificadas em outra cartografia de pormenor (1:2.000) como de elevada suscetibilidade a cheias e inundações fluviais. |
-| Suscetibilidade e/ou risco elevado | Incorporação de regulamentação que permita: minimizar as situações de risco às cheias e inundações; a ponderação de relocalização programada e a longo prazo de edificado em zona de suscetibilidade e risco elevado, com a renaturalização das zonas que serão desocupadas para utilização pública e definição de zonas tampão destinadas a atividades de cariz sazonal ou que facilmente possam ser relocalizadas. |
-| Suscetibilidade e/ou risco elevado | Elaboração de plano de relocalização, reabilitação e manutenção de património construído, nomeadamente para as áreas urbanas e infraestruturas críticas em áreas com grau de suscetibilidade e/ou risco elevado, tendo em consideração a definição de critérios claros e objetivos. |
-| Suscetibilidade e/ou risco elevado | Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de suscetibilidade, e de risco, subsequentemente à determinação do grau de suscetibilidade e do grau de risco, através da implementação de medidas específicas. |
+| Interdição de novas construções e condicionamento e adequação dos usos e atividades à tipologia de risco nas áreas identificadas em outra cartografia de pormenor (1:2.000) como de elevada suscetibilidade a cheias e inundações fluviais. |  |
+| Incorporação de regulamentação que permita: minimizar as situações de risco às cheias e inundações; a ponderação de relocalização programada e a longo prazo de edificado em zona de suscetibilidade e risco elevado, com a renaturalização das zonas que serão desocupadas para utilização pública e definição de zonas tampão destinadas a atividades de cariz sazonal ou que facilmente possam ser relocalizadas. |  |
+| Elaboração de plano de relocalização, reabilitação e manutenção de património construído, nomeadamente para as áreas urbanas e infraestruturas críticas em áreas com grau de suscetibilidade e/ou risco elevado, tendo em consideração a definição de critérios claros e objetivos. |  |
+| Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de suscetibilidade, e de risco, subsequentemente à determinação do grau de suscetibilidade e do grau de risco, através da implementação de medidas específicas. |  |
 |  | Reavaliação de cartografia de cheias e inundações fluviais em áreas que ocorra alteração da ocupação/uso do solo (por exemplo: novas construções em áreas de suscetibilidade moderada). |
-|  | Definição de regras aplicáveis ao edificado nas áreas de suscetibilidade/risco elevado, tendo em consideração a reabilitação e manutenção dessas zonas, por forma a promover a diminuição da sua ocupação permanente, sem alterar a morfologia urbana existente e concebida ao longo do tempo. |
-|  | Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na ocorrência de cheias e inundações, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |
+| Definição de regras aplicáveis ao edificado nas áreas de suscetibilidade/risco elevado, tendo em consideração a reabilitação e manutenção dessas zonas, por forma a promover a diminuição da sua ocupação permanente, sem alterar a morfologia urbana existente e concebida ao longo do tempo. |  |
+| Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na ocorrência de cheias e inundações, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |  |
 | Suscetibilidade e/ou risco moderado | Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de suscetibilidade, e de risco, subsequentemente à determinação do grau de suscetibilidade e do grau de risco, através da implementação de medidas específicas, incluindo normas que não recomendem a implantação de edifícios sensíveis nas áreas de suscetibilidade/risco moderado. |
-| Suscetibilidade e/ou risco moderado | Reavaliação de cartografia de cheias e inundações fluviais em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de suscetibilidade moderada). |
-| Suscetibilidade e/ou risco moderado | Definição de regras aplicáveis ao edificado em zona de suscetibilidade e/ou risco moderado, visando a reabilitação e manutenção dessas zonas, tendo em consideração a morfologia urbana existente e concebida ao longo do tempo. |
-| Suscetibilidade e/ou risco moderado | Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |
+| Reavaliação de cartografia de cheias e inundações fluviais em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de suscetibilidade moderada). |  |
+| Definição de regras aplicáveis ao edificado em zona de suscetibilidade e/ou risco moderado, visando a reabilitação e manutenção dessas zonas, tendo em consideração a morfologia urbana existente e concebida ao longo do tempo. |  |
+| Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |  |
 
 7.3.2 - Galgamentos e inundações costeiras
 
@@ -1826,7 +1886,7 @@ O Guia para a delimitação e integração da cartografia de riscos naturais nos
 
 De igual forma que para os riscos de cheias fluviais, o Programa Regional para as Alterações Climáticas, publicado pelo Decreto Legislativo Regional n.º 30/2019/A, de 28 de novembro, determina que os planos especiais, intermunicipais e municipais de ordenamento do território incorporem cartografia de base de riscos naturais, à escala de 1:25.000 ou superior, com o objetivo de disponibilizar informação técnica que acautele a exposição e vulnerabilidade do território face a vários perigos naturais, incluindo as inundações. Adicionalmente, e de acordo com o mesmo diploma legal, para determinar o afastamento de edificações, equipamentos ou infraestruturas de zonas de risco significativo deve ser desenvolvida cartografia de pormenor, à escala de 1:2.000 ou superior.
 
-Previamente à elaboração do PGRIA, a delimitação de áreas ameaçadas pelo mar seguia a metodologia que decorria do Decreto-Lei n.º 166/2008, de 22 de agosto, retificado pela Declaração de Retificação n.º 63-B/2008, de 21 de outubro, alterado e republicado pelo Decreto-Lei n.º 239/2012, de 2 de novembro, alterado pelo Decretos-Leis n.<sup>os</sup>96/2013, de 19 de julho, e 80/2015, de 14 de maio, e alterado e republicado pelo Decreto-Lei n.º 124/2019, de 28 de agosto, que estabelece o RJREN. De acordo com o RJREN, as zonas ameaçadas, não classificadas como zonas adjacentes nos termos da Lei da Titularidade dos Recursos Hídricos, correspondem às áreas contíguas à margem das águas do mar que, em função das suas características fisiográficas e morfológicas, evidenciam elevada suscetibilidade à ocorrência de inundações por galgamento oceânico. A respetiva delimitação, de acordo com o mesmo regime, deve abranger as áreas suscetíveis de serem inundadas por galgamento oceânico e contemplar todos os locais com indícios e ou registos de galgamentos durante episódios de temporal.
+Previamente à elaboração do PGRIA, a delimitação de áreas ameaçadas pelo mar seguia a metodologia que decorria do Decreto-Lei n.º 166/2008, de 22 de agosto, retificado pela Declaração de Retificação n.º 63-B/2008, de 21 de outubro, alterado e republicado pelo Decreto-Lei n.º 239/2012, de 2 de novembro, alterado pelo Decretos-Leis n.os96/2013, de 19 de julho, e 80/2015, de 14 de maio, e alterado e republicado pelo Decreto-Lei n.º 124/2019, de 28 de agosto, que estabelece o RJREN. De acordo com o RJREN, as zonas ameaçadas, não classificadas como zonas adjacentes nos termos da Lei da Titularidade dos Recursos Hídricos, correspondem às áreas contíguas à margem das águas do mar que, em função das suas características fisiográficas e morfológicas, evidenciam elevada suscetibilidade à ocorrência de inundações por galgamento oceânico. A respetiva delimitação, de acordo com o mesmo regime, deve abranger as áreas suscetíveis de serem inundadas por galgamento oceânico e contemplar todos os locais com indícios e ou registos de galgamentos durante episódios de temporal.
 
 Por seu turno, e não obstante a sua não aplicabilidade à Região Autónoma dos Açores, importa referir que a Portaria n.º 336/2019, de 26 de setembro, que revê as Orientações Estratégicas Nacionais e Regionais previstas no RJREN, estabelece que as zonas ameaçadas pelo mar compreendem as áreas suscetíveis de serem inundadas por galgamento oceânico, incluindo os locais com indícios e ou registos de galgamentos durante episódios de temporal. A delimitação destas zonas corresponde ao efeito combinado de quatro componentes: a cota do nível médio do mar, a elevação da maré astronómica, a sobre-elevação meteorológica e o espraio da onda. A influência de cada componente deve ser determinada preferencialmente à escala do litoral do concelho, por processamento da informação maregráfica, astronómica, meteorológica e oceanográfica apropriada, apoiado por informação científica e técnica disponível e confirmações de terreno. O espraio das ondas é calculado através de modelos calibrados baseados na altura da onda ao largo e na morfologia do litoral.
 
@@ -1841,20 +1901,20 @@ Tabela 32 - Normas orientadoras sobre as restrições ao uso e ocupação do sol
 | Grau de vulnerabilidade/risco | Normas orientadoras |
 | --- | --- |
 | Vulnerabilidade e/ou risco elevado | Interdição de novas construções, nas áreas identificadas como de elevada vulnerabilidade, e condicionamento e adequação dos usos e atividades à tipologia de risco em causa nas zonas inundáveis provenientes do PGRIA. |
-| Vulnerabilidade e/ou risco elevado | Interdição de novas construções, nas áreas identificadas como de elevada vulnerabilidade, e condicionamento e adequação dos usos e atividades à tipologia de risco nas áreas identificadas em outra cartografia de pormenor (1:2.000). |
-| Vulnerabilidade e/ou risco elevado | Incorporação de regulamentação que permita: minimizar as situações de risco ao galgamento e inundação costeira; a ponderação de relocalização programada e a longo prazo de edificado em zona de vulnerabilidade e risco elevado, com a renaturalização das zonas que serão desocupadas para utilização pública e definição de zonas tampão destinadas a atividades de cariz sazonal ou que facilmente possam ser relocalizadas. |
-| Vulnerabilidade e/ou risco elevado | Elaboração de plano de relocalização, reabilitação e manutenção de património construído, nomeadamente para as áreas urbanas e infraestruturas críticas em áreas com grau de vulnerabilidade e/ou risco elevado, tendo em consideração a definição de critérios claros e objetivos. |
-| Vulnerabilidade e/ou risco elevado | Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de vulnerabilidade, e de risco, subsequentemente à determinação do grau de vulnerabilidade e do grau de risco, através da implementação de medidas específicas. |
-| Vulnerabilidade e/ou risco elevado | Reavaliação de cartografia de galgamento e/ou inundações costeiras à escala de 1:2.000 em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de vulnerabilidade moderada). |
+| Interdição de novas construções, nas áreas identificadas como de elevada vulnerabilidade, e condicionamento e adequação dos usos e atividades à tipologia de risco nas áreas identificadas em outra cartografia de pormenor (1:2.000). |  |
+| Incorporação de regulamentação que permita: minimizar as situações de risco ao galgamento e inundação costeira; a ponderação de relocalização programada e a longo prazo de edificado em zona de vulnerabilidade e risco elevado, com a renaturalização das zonas que serão desocupadas para utilização pública e definição de zonas tampão destinadas a atividades de cariz sazonal ou que facilmente possam ser relocalizadas. |  |
+| Elaboração de plano de relocalização, reabilitação e manutenção de património construído, nomeadamente para as áreas urbanas e infraestruturas críticas em áreas com grau de vulnerabilidade e/ou risco elevado, tendo em consideração a definição de critérios claros e objetivos. |  |
+| Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de vulnerabilidade, e de risco, subsequentemente à determinação do grau de vulnerabilidade e do grau de risco, através da implementação de medidas específicas. |  |
+| Reavaliação de cartografia de galgamento e/ou inundações costeiras à escala de 1:2.000 em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de vulnerabilidade moderada). |  |
 |  | Definição de regras aplicáveis ao edificado nas áreas de vulnerabilidade/risco elevado, tendo em consideração a reabilitação e manutenção dessas zonas, por forma a promover a diminuição da sua ocupação permanente, sem alterar a morfologia urbana existente e concebida ao longo do tempo. |
-|  | Desenvolvimento de ações de monitorização de processos hidromorfodinâmicos da orla costeira e da interação antrópica e zona costeira, com o objetivo de estudar a evolução dos processos que nela ocorrem, tendo em consideração a vulnerabilidade, a resiliência e adaptação às alterações climáticas. |
-|  | Levantamento e monitorização do estado de conservação das estruturas de defesa costeira existentes. |
-|  | Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na orla costeira, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |
+| Desenvolvimento de ações de monitorização de processos hidromorfodinâmicos da orla costeira e da interação antrópica e zona costeira, com o objetivo de estudar a evolução dos processos que nela ocorrem, tendo em consideração a vulnerabilidade, a resiliência e adaptação às alterações climáticas. |  |
+| Levantamento e monitorização do estado de conservação das estruturas de defesa costeira existentes. |  |
+| Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na orla costeira, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |  |
 | Vulnerabilidade e/ou risco moderado | Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de vulnerabilidade, e de risco, subsequentemente à determinação do grau de vulnerabilidade e do grau de risco, através da implementação de medidas específicas, incluindo normas que não recomendem a implantação de edifícios sensíveis nas áreas de vulnerabilidade/risco moderado. |
-| Vulnerabilidade e/ou risco moderado | Reavaliação de cartografia de galgamento e/ou inundações costeiras à escala de 1:2.000 em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de vulnerabilidade moderada). |
-| Vulnerabilidade e/ou risco moderado | Definição de regras aplicáveis ao edificado nas áreas de vulnerabilidade/risco moderado, visando a reabilitação e manutenção dessas zonas, tendo em consideração a morfologia urbana existente e concebida ao longo do tempo. |
-| Vulnerabilidade e/ou risco moderado | Desenvolvimento de ações de monitorização de processos hidromorfodinâmicos da orla costeira e da interação antrópica e zona costeira, com o objetivo de estudar a evolução dos processos que nela ocorrem, tendo em consideração a sustentabilidade, a resiliência e adaptação às alterações climáticas. |
-| Vulnerabilidade e/ou risco moderado | Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na orla costeira, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |
+| Reavaliação de cartografia de galgamento e/ou inundações costeiras à escala de 1:2.000 em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de vulnerabilidade moderada). |  |
+| Definição de regras aplicáveis ao edificado nas áreas de vulnerabilidade/risco moderado, visando a reabilitação e manutenção dessas zonas, tendo em consideração a morfologia urbana existente e concebida ao longo do tempo. |  |
+| Desenvolvimento de ações de monitorização de processos hidromorfodinâmicos da orla costeira e da interação antrópica e zona costeira, com o objetivo de estudar a evolução dos processos que nela ocorrem, tendo em consideração a sustentabilidade, a resiliência e adaptação às alterações climáticas. |  |
+| Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na orla costeira, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |  |
 
 7.3.2.2 - Planos Municipais de Ordenamento do Território
 
@@ -1866,33 +1926,33 @@ Tabela 33 - Normas orientadoras sobre as restrições ao uso e ocupação do sol
 | --- | --- |
 | Vulnerabilidade e/ou risco elevado | Interdição de novas construções e condicionamento, nas áreas identificadas com elevada vulnerabilidade, e adequação dos usos e atividades à tipologia de risco em causa nas zonas inundáveis provenientes do PGRIA. |
 |  | Interdição de novas construções e condicionamento e adequação dos usos e atividades à tipologia de risco nas áreas identificadas em outra cartografia de pormenor (1:2.000) como de elevada vulnerabilidade a galgamentos e inundações costeiras. |
-|  | Incorporação de regulamentação que permita: minimizar as situações de risco ao galgamento e inundação costeira; a ponderação de relocalização programada e a longo prazo de edificado em zona de vulnerabilidade e risco elevado, com a renaturalização das zonas que serão desocupadas para utilização pública e definição de zonas tampão destinadas a atividades de cariz sazonal ou que facilmente possam ser relocalizadas. |
-|  | Elaboração de plano de relocalização, reabilitação e manutenção de património construído, nomeadamente para as áreas urbanas e infraestruturas críticas em zonas de vulnerabilidade e/ou risco elevado, tendo em consideração a definição de critérios claros e objetivos. |
-|  | Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de vulnerabilidade, e de risco, subsequentemente à determinação do grau de vulnerabilidade e do grau de risco, através da implementação de medidas específicas. |
-|  | Reavaliação de cartografia de galgamento e/ou inundações costeiras à escala de 1:2.000 em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de vulnerabilidade moderada). |
-|  | Definição de regras aplicáveis ao edificado em zonas de vulnerabilidade e/ou risco elevado, tendo em consideração a reabilitação e manutenção dessas zonas, por forma a promover a diminuição da sua ocupação permanente, sem alterar a morfologia urbana existente e concebida ao longo do tempo. |
-|  | Desenvolvimento de ações de monitorização de processos hidromorfodinâmicos da orla costeira e da interação antrópica e zona costeira, com o objetivo de estudar a evolução dos processos que nela ocorrem, tendo em consideração a vulnerabilidade, a resiliência e adaptação às alterações climáticas. |
-|  | Levantamento e monitorização do estado de conservação das estruturas de defesa costeira existentes. |
-|  | Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na orla costeira, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |
+| Incorporação de regulamentação que permita: minimizar as situações de risco ao galgamento e inundação costeira; a ponderação de relocalização programada e a longo prazo de edificado em zona de vulnerabilidade e risco elevado, com a renaturalização das zonas que serão desocupadas para utilização pública e definição de zonas tampão destinadas a atividades de cariz sazonal ou que facilmente possam ser relocalizadas. |  |
+| Elaboração de plano de relocalização, reabilitação e manutenção de património construído, nomeadamente para as áreas urbanas e infraestruturas críticas em zonas de vulnerabilidade e/ou risco elevado, tendo em consideração a definição de critérios claros e objetivos. |  |
+| Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de vulnerabilidade, e de risco, subsequentemente à determinação do grau de vulnerabilidade e do grau de risco, através da implementação de medidas específicas. |  |
+| Reavaliação de cartografia de galgamento e/ou inundações costeiras à escala de 1:2.000 em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de vulnerabilidade moderada). |  |
+| Definição de regras aplicáveis ao edificado em zonas de vulnerabilidade e/ou risco elevado, tendo em consideração a reabilitação e manutenção dessas zonas, por forma a promover a diminuição da sua ocupação permanente, sem alterar a morfologia urbana existente e concebida ao longo do tempo. |  |
+| Desenvolvimento de ações de monitorização de processos hidromorfodinâmicos da orla costeira e da interação antrópica e zona costeira, com o objetivo de estudar a evolução dos processos que nela ocorrem, tendo em consideração a vulnerabilidade, a resiliência e adaptação às alterações climáticas. |  |
+| Levantamento e monitorização do estado de conservação das estruturas de defesa costeira existentes. |  |
+| Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na orla costeira, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |  |
 | Vulnerabilidade e/ou risco moderado | Adequação e adaptação do desenvolvimento e uso do território às novas circunstâncias e aos novos parâmetros ambientais, de vulnerabilidade, e de risco, subsequentemente à determinação do grau de vulnerabilidade e do grau de risco, através da implementação de medidas específicas, incluindo normas que não recomendem a implantação de edifícios sensíveis nas áreas de vulnerabilidade/risco moderado. |
-| Vulnerabilidade e/ou risco moderado | Reavaliação de cartografia de galgamento e/ou inundações costeiras à escala de 1:2.000 em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de vulnerabilidade moderada). |
-| Vulnerabilidade e/ou risco moderado | Definição de regras aplicáveis ao edificado em zona de vulnerabilidade e/ou risco moderado, visando a reabilitação e manutenção dessas zonas, tendo em consideração a morfologia urbana existente e concebida ao longo do tempo. |
-| Vulnerabilidade e/ou risco moderado | Desenvolvimento de ações de monitorização de processos hidromorfodinâmicos da orla costeira e da interação antrópica e zona costeira, com o objetivo de estudar a evolução dos processos que nela ocorrem, tendo em consideração a sustentabilidade, a resiliência e adaptação às alterações climáticas. |
-| Vulnerabilidade e/ou risco moderado | Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na orla costeira, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |
+| Reavaliação de cartografia de galgamento e/ou inundações costeiras à escala de 1:2.000 em áreas que ocorra alteração da ocupação/uso do solo (como por exemplo novas construções em áreas de vulnerabilidade moderada). |  |
+| Definição de regras aplicáveis ao edificado em zona de vulnerabilidade e/ou risco moderado, visando a reabilitação e manutenção dessas zonas, tendo em consideração a morfologia urbana existente e concebida ao longo do tempo. |  |
+| Desenvolvimento de ações de monitorização de processos hidromorfodinâmicos da orla costeira e da interação antrópica e zona costeira, com o objetivo de estudar a evolução dos processos que nela ocorrem, tendo em consideração a sustentabilidade, a resiliência e adaptação às alterações climáticas. |  |
+| Planeamento e realização de ações de comunicação e sensibilização, destinadas a diferentes públicos-alvo, como a população em geral e autarquias, sobre os riscos e efeitos das alterações climáticas na orla costeira, as suas causas e consequências e, em particular, sobre a exposição de pessoas e bens a situações de risco. |  |
 
 8 - Medidas
 
 De igual forma que para a definição dos objetivos, e de acordo com o disposto no Decreto-Lei n.º 115/2010, de 22 de outubro, no âmbito dos planos de gestão dos riscos de inundações, devem ser definidas, numa perspetiva de priorização, as medidas destinadas a atingir os objetivos de gestão dos riscos de inundações. Estas medidas, preferencialmente de natureza não estrutural, devem visar a redução das potenciais consequências prejudiciais das inundações para a saúde humana, o ambiente, o património cultural, as infraestruturas e as atividades económicas nas zonas identificadas como de risco potencial significativo, bem como refletir as ações decorrentes de outros diplomas legais, como sejam:
 
-• Decreto-Lei n.º 69/2000, de 3 de maio, retificado pela Declaração de Retificação n.º 7-D/2000, de 30 de junho, alterado pelos Decretos-Leis n.<sup>os</sup>74/2001, de 26 de fevereiro, e 69/2003, de 10 de abril, pela Lei n.º 12/2004, de 30 de março, alterado e republicado pelo Decreto-Lei n.º 197/2005, de 8 de novembro, e alterado pelo Decreto-Lei n.º 60/2012, de 14 de março, que aprovou o regime jurídico da avaliação de impacte ambiental dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente (revogado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro);
+• Decreto-Lei n.º 69/2000, de 3 de maio, retificado pela Declaração de Retificação n.º 7-D/2000, de 30 de junho, alterado pelos Decretos-Leis n.os74/2001, de 26 de fevereiro, e 69/2003, de 10 de abril, pela Lei n.º 12/2004, de 30 de março, alterado e republicado pelo Decreto-Lei n.º 197/2005, de 8 de novembro, e alterado pelo Decreto-Lei n.º 60/2012, de 14 de março, que aprovou o regime jurídico da avaliação de impacte ambiental dos projetos públicos e privados suscetíveis de produzirem efeitos significativos no ambiente (revogado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro);
 
 • Decreto-Lei n.º 254/2007, de 12 de julho, alterado pelo Decreto-Lei n.º 42/2014, de 18 de março, relativo ao controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas (revogado pelo Decreto-Lei n.º 150/2015, de 5 de agosto);
 
 • Decreto-Lei n.º 232/2007, de 15 de junho, relativo à avaliação dos efeitos de determinados planos e programas no ambiente, alterado pelo Decreto-Lei n.º 58/2011, de 4 de maio, e, no caso particular dos instrumentos de gestão territorial, pelo Decreto-Lei n.º 80/2015, de 14 de maio;
 
-• Lei n.º 58/2005, de 29 de dezembro, alterada pelos Decretos-Leis n.<sup>os</sup>245/2009, de 22 de setembro, 60/2012, de 14 de março, 130/2012, de 22 de junho, e 11/2023, de 10 de fevereiro, e pelas Leis n.<sup>os</sup>42/2016, de 28 de dezembro, 44/2017, de 19 de junho, e 82/2023, de 19 de dezembro, que aprova a Lei da Água;
+• Lei n.º 58/2005, de 29 de dezembro, alterada pelos Decretos-Leis n.os245/2009, de 22 de setembro, 60/2012, de 14 de março, 130/2012, de 22 de junho, e 11/2023, de 10 de fevereiro, e pelas Leis n.os42/2016, de 28 de dezembro, 44/2017, de 19 de junho, e 82/2023, de 19 de dezembro, que aprova a Lei da Água;
 
-• Lei n.º 54/2005, de 15 de novembro, retificada pela Declaração de Retificação n.º 4/2006, de 16 de janeiro, e alterada sucessivamente pelas Leis n.<sup>os</sup>78/2013, de 21 de novembro, 34/2014, de 19 de junho, e 31/2016, de 23 de agosto, que aprova a Lei da Titularidade dos Recursos Hídricos;
+• Lei n.º 54/2005, de 15 de novembro, retificada pela Declaração de Retificação n.º 4/2006, de 16 de janeiro, e alterada sucessivamente pelas Leis n.os78/2013, de 21 de novembro, 34/2014, de 19 de junho, e 31/2016, de 23 de agosto, que aprova a Lei da Titularidade dos Recursos Hídricos;
 
 • Decreto Legislativo Regional n.º 35/2012/A, de 16 de agosto, que estabelece o regime jurídico dos instrumentos de gestão territorial. Define para a Região Autónoma dos Açores o regime de coordenação dos âmbitos do sistema de gestão territorial, o regime geral de uso do solo e o regime de elaboração, acompanhamento, aprovação, execução e avaliação dos instrumentos de gestão territorial;
 
@@ -1902,13 +1962,15 @@ Por forma a prosseguir os objetivos descritos no âmbito do processo de elabora�
 
 O número de medidas propostas por área temática do PGRIA 2022-2027 é variável, constatando-se que 18 (48,65 %) correspondem à área de Gestão de Riscos, 7 (18,92 %) à área do Quadro Institucional e Normativo, 3 (8,11 %) à área da Informação e Participação Cidadã e 9 (24,32 %) à área de Monitorização e Desenvolvimento de Investigação Aplicada (figura 20).
 
-![](https://files.diariodarepublica.pt/images/901693817/901860229.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860229.png) |
+| --- |
 
 Figura 20 - Distribuição das medidas a implementar no âmbito do PGRIA 2022-2027 por área temática (GR - Gestão de riscos; QIN - Quadro institucional e normativo; IPC - Informação e participação cidadã; MDI - Monitorização e desenvolvimento de investigação aplicada)
 
 As fichas descritivas das medidas contemplam, ainda, a identificação da respetiva tipologia de acordo com o âmbito dos planos de gestão de riscos de inundação, tal como definido na legislação aplicável. Com efeito, de acordo com a Diretiva 2007/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro, e o Decreto-Lei n.º 115/2010, de 22 de outubro, estes planos devem centrar-se na prevenção, proteção, preparação e previsão dos fenómenos de cheias e inundações, assim como na manutenção e/ou restauração das planícies aluviais, e na recuperação e aprendizagem após uma ocorrência. Neste contexto, consideraram-se quatro níveis para a classificação tipológica das várias medidas, respetivamente preparação, proteção, prevenção e recuperação/aprendizagem. Os resultados obtidos permitem constatar que 12 (32,43 %) das medidas contribuem para a preparação, 9 (24,32 %) para a proteção, 12 (32,43 %) para a prevenção e 4 (10,81 %) para a recuperação/aprendizagem (figura 20.1).
 
-![](https://files.diariodarepublica.pt/images/901693817/901860230.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860230.png) |
+| --- |
 
 Figura 20.1 - Distribuição das medidas a implementar no âmbito do PGRIA 2022-2027 por tipologia (PREP - preparação; PROT - proteção; PREV - prevenção; REAP - recuperação/aprendizagem)
 
@@ -1918,7 +1980,8 @@ Posteriormente, com base no valor final obtido por medida, que varia entre um m�
 
 Da aplicação desta métrica resulta que 13 (35,14 %) das medidas têm uma prioridade elevada, 15 (40,54 %) uma prioridade intermédia e 9 (24,32 %) uma prioridade reduzida (figura 21).
 
-![](https://files.diariodarepublica.pt/images/901693817/901860231.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860231.png) |
+| --- |
 
 Figura 21 - Grau de prioridade das medidas a implementar no âmbito do PGRIA 2022-2027
 
@@ -1926,72 +1989,73 @@ O investimento estimado para a implementação das medidas propostas no PGRIA 20
 
 O cronograma de execução e a distribuição previsional dos custos ao longo do tempo encontram-se discriminados nas fichas de medida (anexo vi).
 
-![](https://files.diariodarepublica.pt/images/901693817/901860232.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860232.png) |
+| --- |
 
 Figura 22 - Investimento associado à implementação das medidas a executar no âmbito do PGRIA 2022-2027 por área temática (GR - Gestão de riscos; QIN - Quadro institucional e normativo; IPC - Informação e participação cidadã; MDI - Monitorização e desenvolvimento de investigação)
 
 Tabela 34 - Listagem de medidas a implementar no âmbito do PGRIA 2022-2027 (PREP - preparação; PROT - proteção; PREV - prevenção; REAP - recuperação/aprendizagem)
 
-| Área temática | Código | Tipologia | Descrição | Indicador de desempenho |
+| Área temática | Medida | Indicador de desempenho |  |  |
 | --- | --- | --- | --- | --- |
-| Área temática | Medida | Medida | Medida | Indicador de desempenho |
+| Código | Tipologia | Descrição |  |  |
 | Gestão de riscos | GR01 | PREP | Execução de cartografia de pormenor das zonas de risco de inundação | Cartografia das áreas inundáveis a escala de pormenor (%) |
-| Gestão de riscos | GR02 | PREV | Revisão da delimitação das zonas de risco de cheia com base nos caudais de ponta de cheia para os períodos de retorno de 25, 50 e 100 anos | Bacias hidrográficas validadas/revistas (%) |
-| Gestão de riscos | GR03 | PREV | Estudo de definição de zonas adjacentes | Bacias hidrográficas avaliadas (%) |
-| Gestão de riscos | GR04 | PREP | Implementação de sistemas de previsão e alerta de cheias às populações e entidades responsáveis, e instalação de sinalética apropriada | Número de sistemas criados nas bacias hidrográficas do PGRIA |
-| Gestão de riscos | GR05 | PREV | Desobstrução e desassoreamento regular do leito dos cursos de água e desenvolvimento de ações de regularização fluvial | Número de ações de desobstrução e desassoreamento |
-| Gestão de riscos | GR05 | PREV | Desobstrução e desassoreamento regular do leito dos cursos de água e desenvolvimento de ações de regularização fluvial | Número de ações de regularização fluvial concluídas |
-| Gestão de riscos | GR05 | PREV | Desobstrução e desassoreamento regular do leito dos cursos de água e desenvolvimento de ações de regularização fluvial | Volume removido (m<sup>3</sup>) |
-| Gestão de riscos | GR06 | PROT | Estudar o dimensionamento e estrutura de passagens hidráulicas em vias de comunicação para identificar e corrigir situações de possível inadequação para escoamento dos caudais de ponta de cheia nas bacias hidrográficas do PGRIA | Bacias avaliadas (%) |
-| Gestão de riscos | GR06 | PROT | Estudar o dimensionamento e estrutura de passagens hidráulicas em vias de comunicação para identificar e corrigir situações de possível inadequação para escoamento dos caudais de ponta de cheia nas bacias hidrográficas do PGRIA | Infraestruturas redimensionadas (% bacia) |
-| Gestão de riscos | GR06 | PROT | Estudar o dimensionamento e estrutura de passagens hidráulicas em vias de comunicação para identificar e corrigir situações de possível inadequação para escoamento dos caudais de ponta de cheia nas bacias hidrográficas do PGRIA | Infraestruturas adequadas (% bacia) |
-| Gestão de riscos | GR07 | PROT | Estudo de remodelação de redes de drenagem urbana de águas pluviais tendo em vista adequação hidráulica aos caudais em eventos de precipitação intensa particularmente em pontos críticos como pontes, aquedutos e outros estrangulamentos | Número de estudos das redes de drenagem urbana de águas pluviais desenvolvidos nas bacias hidrográficas do PGRIA |
-| Gestão de riscos | GR07 | PROT | Estudo de remodelação de redes de drenagem urbana de águas pluviais tendo em vista adequação hidráulica aos caudais em eventos de precipitação intensa particularmente em pontos críticos como pontes, aquedutos e outros estrangulamentos | Número de ações de remodelação das redes de drenagem urbana de águas pluviais desenvolvidos nas bacias hidrográficas do PGRIA |
-| Gestão de riscos | GR08 | PROT | Identificação e estudo de zonas onde seja necessário intervir para consolidação e recuperação de cabeceiras, taludes e margens de cursos de água, através de técnicas de engenharia natural e/ou de recuperação de habitats, ou por via da construção e/ou recuperação de bacias de retenção | Número de zonas criadas ou recuperadas |
-| Gestão de riscos | GR08 | PROT | Identificação e estudo de zonas onde seja necessário intervir para consolidação e recuperação de cabeceiras, taludes e margens de cursos de água, através de técnicas de engenharia natural e/ou de recuperação de habitats, ou por via da construção e/ou recuperação de bacias de retenção | Áreas criadas ou recuperadas (ha) |
-| Gestão de riscos | GR09 | PROT | Avaliar, programar e executar, se necessárias, intervenções de cariz estrutural para melhorar as condições de escoamento nas bacias hidrográficas do PGRIA | Número de obras estruturais projetadas |
-| Gestão de riscos | GR09 | PROT | Avaliar, programar e executar, se necessárias, intervenções de cariz estrutural para melhorar as condições de escoamento nas bacias hidrográficas do PGRIA | Número de obras estruturais executadas |
+| GR02 | PREV | Revisão da delimitação das zonas de risco de cheia com base nos caudais de ponta de cheia para os períodos de retorno de 25, 50 e 100 anos | Bacias hidrográficas validadas/revistas (%) |  |
+| GR03 | PREV | Estudo de definição de zonas adjacentes | Bacias hidrográficas avaliadas (%) |  |
+| GR04 | PREP | Implementação de sistemas de previsão e alerta de cheias às populações e entidades responsáveis, e instalação de sinalética apropriada | Número de sistemas criados nas bacias hidrográficas do PGRIA |  |
+| GR05 | PREV | Desobstrução e desassoreamento regular do leito dos cursos de água e desenvolvimento de ações de regularização fluvial | Número de ações de desobstrução e desassoreamento |  |
+| Número de ações de regularização fluvial concluídas |  |  |  |  |
+| Volume removido (m3) |  |  |  |  |
+| GR06 | PROT | Estudar o dimensionamento e estrutura de passagens hidráulicas em vias de comunicação para identificar e corrigir situações de possível inadequação para escoamento dos caudais de ponta de cheia nas bacias hidrográficas do PGRIA | Bacias avaliadas (%) |  |
+| Infraestruturas redimensionadas (% bacia) |  |  |  |  |
+| Infraestruturas adequadas (% bacia) |  |  |  |  |
+| GR07 | PROT | Estudo de remodelação de redes de drenagem urbana de águas pluviais tendo em vista adequação hidráulica aos caudais em eventos de precipitação intensa particularmente em pontos críticos como pontes, aquedutos e outros estrangulamentos | Número de estudos das redes de drenagem urbana de águas pluviais desenvolvidos nas bacias hidrográficas do PGRIA |  |
+| Número de ações de remodelação das redes de drenagem urbana de águas pluviais desenvolvidos nas bacias hidrográficas do PGRIA |  |  |  |  |
+| GR08 | PROT | Identificação e estudo de zonas onde seja necessário intervir para consolidação e recuperação de cabeceiras, taludes e margens de cursos de água, através de técnicas de engenharia natural e/ou de recuperação de habitats, ou por via da construção e/ou recuperação de bacias de retenção | Número de zonas criadas ou recuperadas |  |
+| Áreas criadas ou recuperadas (ha) |  |  |  |  |
+| GR09 | PROT | Avaliar, programar e executar, se necessárias, intervenções de cariz estrutural para melhorar as condições de escoamento nas bacias hidrográficas do PGRIA | Número de obras estruturais projetadas |  |
+| Número de obras estruturais executadas |  |  |  |  |
 |  | GR10 | PROT | Avaliar, programar e executar, se necessárias, intervenções de cariz estrutural para melhorar as condições de escoamento em outras bacias hidrográficas da RH9 não integradas no âmbito territorial do PGRIA | Número de obras estruturais projetadas |
-|  | GR10 | PROT | Avaliar, programar e executar, se necessárias, intervenções de cariz estrutural para melhorar as condições de escoamento em outras bacias hidrográficas da RH9 não integradas no âmbito territorial do PGRIA | Número de obras estruturais executadas |
-|  | GR11 | PREP | Implementação de sistemas de previsão e alerta de inundações costeiras às populações e entidades responsáveis e sinalética apropriada | Número de sistemas criados nas zonas costeiras vulneráveis do PGRIA |
-|  | GR12 | PROT | Avaliar, programar e executar, se necessárias, intervenções em estruturas de defesa costeira preexistentes (incluindo subida de cotas e enrocamentos) em zonas de risco de inundação costeira do PGRIA | Número de estruturas de defesa costeira preexistentes avaliadas |
-|  | GR12 | PROT | Avaliar, programar e executar, se necessárias, intervenções em estruturas de defesa costeira preexistentes (incluindo subida de cotas e enrocamentos) em zonas de risco de inundação costeira do PGRIA | Número de estruturas de defesa costeira preexistentes intervencionadas |
-|  | GR13 | PROT | Avaliar, programar e executar, se necessárias, novas infraestruturas de defesa costeira em zonas de risco de inundação costeira do PGRIA | Número de estruturas de defesa costeira projetadas |
-|  | GR13 | PROT | Avaliar, programar e executar, se necessárias, novas infraestruturas de defesa costeira em zonas de risco de inundação costeira do PGRIA | Número de estruturas de defesa costeira edificadas |
-|  | GR14 | PREV | Avaliar, programar e executar, se necessário, a retirada de edificações/infraestruturas localizadas em zonas de risco face às cheias e inundações nas bacias hidrográficas e frentes marítimas do PGRIA (incluindo a renaturalização dos espaços) | Número de edificações/infraestruturas retiradas e renaturalizações do espaço |
-|  | GR15 | PREP | Avaliar, programar e executar, se necessários, planos de proteção a edifícios sensíveis localizados nas zonas de risco nas bacias hidrográficas e frentes marítimas do PGRIA | Número de planos de proteção definidos |
-|  | GR16 | PREV | Elaboração do Relatório do Estado das Ribeiras dos Açores (RERA) | Publicação de Relatório Anual RERA |
-|  | GR17 | PREV | Elaboração e implementação de Planos Específicos de Intervenção Florestal que permitam a mitigação dos impactes decorrentes das cheias, com reposição/reabilitação das galerias ripícolas nas bacias hidrográficas do PGRIA | Planos Específicos de Intervenção Florestal nas bacias hidrográficas do PGRIA elaborados (%) |
-|  | GR17 | PREV | Elaboração e implementação de Planos Específicos de Intervenção Florestal que permitam a mitigação dos impactes decorrentes das cheias, com reposição/reabilitação das galerias ripícolas nas bacias hidrográficas do PGRIA | Planos Específicos de Intervenção Florestal nas bacias hidrográficas do PGRIA implementados (%) |
-|  | GR18 | PREV | Redução de riscos de inundação associados às práticas de exploração florestal | Número de cortes florestais licenciados em áreas de intervenção do PGRIA |
-|  | GR18 | PREV | Redução de riscos de inundação associados às práticas de exploração florestal | Número de ocorrências relacionadas com atividades de exploração florestal em áreas de intervenção do PGRIA |
-|  | GR18 | PREV | Redução de riscos de inundação associados às práticas de exploração florestal | Publicação de folheto de boas práticas de exploração florestal para proteção contra a erosão hídrica |
+| Número de obras estruturais executadas |  |  |  |  |
+| GR11 | PREP | Implementação de sistemas de previsão e alerta de inundações costeiras às populações e entidades responsáveis e sinalética apropriada | Número de sistemas criados nas zonas costeiras vulneráveis do PGRIA |  |
+| GR12 | PROT | Avaliar, programar e executar, se necessárias, intervenções em estruturas de defesa costeira preexistentes (incluindo subida de cotas e enrocamentos) em zonas de risco de inundação costeira do PGRIA | Número de estruturas de defesa costeira preexistentes avaliadas |  |
+| Número de estruturas de defesa costeira preexistentes intervencionadas |  |  |  |  |
+| GR13 | PROT | Avaliar, programar e executar, se necessárias, novas infraestruturas de defesa costeira em zonas de risco de inundação costeira do PGRIA | Número de estruturas de defesa costeira projetadas |  |
+| Número de estruturas de defesa costeira edificadas |  |  |  |  |
+| GR14 | PREV | Avaliar, programar e executar, se necessário, a retirada de edificações/infraestruturas localizadas em zonas de risco face às cheias e inundações nas bacias hidrográficas e frentes marítimas do PGRIA (incluindo a renaturalização dos espaços) | Número de edificações/infraestruturas retiradas e renaturalizações do espaço |  |
+| GR15 | PREP | Avaliar, programar e executar, se necessários, planos de proteção a edifícios sensíveis localizados nas zonas de risco nas bacias hidrográficas e frentes marítimas do PGRIA | Número de planos de proteção definidos |  |
+| GR16 | PREV | Elaboração do Relatório do Estado das Ribeiras dos Açores (RERA) | Publicação de Relatório Anual RERA |  |
+| GR17 | PREV | Elaboração e implementação de Planos Específicos de Intervenção Florestal que permitam a mitigação dos impactes decorrentes das cheias, com reposição/reabilitação das galerias ripícolas nas bacias hidrográficas do PGRIA | Planos Específicos de Intervenção Florestal nas bacias hidrográficas do PGRIA elaborados (%) |  |
+| Planos Específicos de Intervenção Florestal nas bacias hidrográficas do PGRIA implementados (%) |  |  |  |  |
+| GR18 | PREV | Redução de riscos de inundação associados às práticas de exploração florestal | Número de cortes florestais licenciados em áreas de intervenção do PGRIA |  |
+| Número de ocorrências relacionadas com atividades de exploração florestal em áreas de intervenção do PGRIA |  |  |  |  |
+| Publicação de folheto de boas práticas de exploração florestal para proteção contra a erosão hídrica |  |  |  |  |
 |  | QIN01 | PREV | Promoção de medidas ativas de gestão da utilização do solo, nomeadamente alterações de uso, movimentações de solo e gestão de drenagem superficial para prevenção de riscos hidrológicos nas bacias hidrográficas do PGRIA | Definição de orientações para a utilização do solo nas áreas das bacias hidrográficas com áreas inundáveis |
-|  | QIN01 | PREV | Promoção de medidas ativas de gestão da utilização do solo, nomeadamente alterações de uso, movimentações de solo e gestão de drenagem superficial para prevenção de riscos hidrológicos nas bacias hidrográficas do PGRIA | Incorporação das orientações nos respetivos Planos Especiais/Planos Setoriais de Ordenamento do Território (%) |
-|  | QIN01 | PREV | Promoção de medidas ativas de gestão da utilização do solo, nomeadamente alterações de uso, movimentações de solo e gestão de drenagem superficial para prevenção de riscos hidrológicos nas bacias hidrográficas do PGRIA | Incorporação das orientações nos respetivos Planos Municipais de Ordenamento do Território (%) |
-|  | QIN02 | PROT | Reduzir a vulnerabilidade das áreas urbanas às cheias e inundações através da adoção de restrições ao uso e ocupação do solo, de normas de edificação, e da recuperação das condições de permeabilidade do solo nas áreas de risco do PGRIA | Definição de normas de ocupação do solo e de edificação visando a redução da vulnerabilidade das áreas urbanas às cheias e inundações em áreas de risco |
-|  | QIN02 | PROT | Reduzir a vulnerabilidade das áreas urbanas às cheias e inundações através da adoção de restrições ao uso e ocupação do solo, de normas de edificação, e da recuperação das condições de permeabilidade do solo nas áreas de risco do PGRIA | incorporação das orientações nos respetivos Planos Diretores Municipais (%) |
-|  | QIN03 | PREV | Integração das áreas inundáveis definidas no PGRIA na Reserva Ecológica | Integração em Plano Diretor Municipal (%) |
-|  | QIN04 | PREV | Articulação do PGRIA com o Programa Regional para as Alterações Climáticas | Cartografia de áreas inundáveis e de riscos de inundação de acordo com a cenarização do PRAC |
-|  | QIN05 | PREV | Avaliação do contributo da aplicação das medidas do PGRIA no cumprimento dos objetivos da LA/Diretiva-Quadro da Água | Ponderação do PGRIA no contexto da avaliação intercalar do Plano de Gestão da Região Hidrográfica dos Açores 2022-2027 |
-|  | QIN06 | PREP | Reavaliar os Planos Municipais de Emergência e as necessidades de meios a médio e longo prazo, e promover a integração do PGRIA nos Planos de Emergência | Planos Municipais de Emergência revistos (%) |
-|  | QIN07 | PREP | Reavaliar o Plano Regional de Emergência e Proteção Civil dos Açores e promover a articulação com o PGRIA | Reavaliação do Plano Regional de Emergência e Proteção Civil dos Açores |
+| Incorporação das orientações nos respetivos Planos Especiais/Planos Setoriais de Ordenamento do Território (%) |  |  |  |  |
+| Incorporação das orientações nos respetivos Planos Municipais de Ordenamento do Território (%) |  |  |  |  |
+| QIN02 | PROT | Reduzir a vulnerabilidade das áreas urbanas às cheias e inundações através da adoção de restrições ao uso e ocupação do solo, de normas de edificação, e da recuperação das condições de permeabilidade do solo nas áreas de risco do PGRIA | Definição de normas de ocupação do solo e de edificação visando a redução da vulnerabilidade das áreas urbanas às cheias e inundações em áreas de risco |  |
+| incorporação das orientações nos respetivos Planos Diretores Municipais (%) |  |  |  |  |
+| QIN03 | PREV | Integração das áreas inundáveis definidas no PGRIA na Reserva Ecológica | Integração em Plano Diretor Municipal (%) |  |
+| QIN04 | PREV | Articulação do PGRIA com o Programa Regional para as Alterações Climáticas | Cartografia de áreas inundáveis e de riscos de inundação de acordo com a cenarização do PRAC |  |
+| QIN05 | PREV | Avaliação do contributo da aplicação das medidas do PGRIA no cumprimento dos objetivos da LA/Diretiva-Quadro da Água | Ponderação do PGRIA no contexto da avaliação intercalar do Plano de Gestão da Região Hidrográfica dos Açores 2022-2027 |  |
+| QIN06 | PREP | Reavaliar os Planos Municipais de Emergência e as necessidades de meios a médio e longo prazo, e promover a integração do PGRIA nos Planos de Emergência | Planos Municipais de Emergência revistos (%) |  |
+| QIN07 | PREP | Reavaliar o Plano Regional de Emergência e Proteção Civil dos Açores e promover a articulação com o PGRIA | Reavaliação do Plano Regional de Emergência e Proteção Civil dos Açores |  |
 | Informação e participação cidadã | IPC01 | PREV | Elaboração de guia de definição e delimitação do risco de inundação costeira nos Açores | Publicação de guia de definição e delimitação do risco de inundação costeira nos Açores |
-| Informação e participação cidadã | IPC02 | PREP | Desenvolvimento de um programa de sensibilização regional sobre medidas de prevenção e proteção contra cheias e inundações para a população em geral, para as escolas e entidades responsáveis | Número de campanhas nos órgãos de comunicação social |
-| Informação e participação cidadã | IPC02 | PREP | Desenvolvimento de um programa de sensibilização regional sobre medidas de prevenção e proteção contra cheias e inundações para a população em geral, para as escolas e entidades responsáveis | Número de iniciativas desenvolvidas a nível local |
-| Informação e participação cidadã | IPC03 | REAP | Desenvolvimento de ações de formação de recursos humanos sobre a ocorrência, impactes e respostas a fenómenos hidrológicos extremos | Número de ações de formação de recursos humanos |
+| IPC02 | PREP | Desenvolvimento de um programa de sensibilização regional sobre medidas de prevenção e proteção contra cheias e inundações para a população em geral, para as escolas e entidades responsáveis | Número de campanhas nos órgãos de comunicação social |  |
+| Número de iniciativas desenvolvidas a nível local |  |  |  |  |
+| IPC03 | REAP | Desenvolvimento de ações de formação de recursos humanos sobre a ocorrência, impactes e respostas a fenómenos hidrológicos extremos | Número de ações de formação de recursos humanos |  |
 | Monitorização e desenvolvimento de investigação aplicada | MDI01 | PREP | Incrementar a rede hidrometeorológica automática nas bacias hidrográficas do PGRIA | Bacias hidrográficas monitorizadas (%) |
-| Monitorização e desenvolvimento de investigação aplicada | MDI02 | PREP | Rever e reforçar a rede hidrometeorológica automática da RAA | Número de estações |
-| Monitorização e desenvolvimento de investigação aplicada | MDI03 | PREP | Manutenção de estações hidrométricas e atualização de curvas de vazão no contexto da prevenção de riscos de cheia | Estações hidrométricas operacionais (%) |
-| Monitorização e desenvolvimento de investigação aplicada | MDI03 | PREP | Manutenção de estações hidrométricas e atualização de curvas de vazão no contexto da prevenção de riscos de cheia | Curvas de vazão atualizadas por estação hidrométrica (%) |
-| Monitorização e desenvolvimento de investigação aplicada | MDI04 | PREP | Definição e implementação de um sistema de monitorização dos fenómenos de inundação costeira nas zonas de risco do PGRIA | Definição de sistemas de monitorização dos fenómenos de inundações costeiras (%) |
-| Monitorização e desenvolvimento de investigação aplicada | MDI04 | PREP | Definição e implementação de um sistema de monitorização dos fenómenos de inundação costeira nas zonas de risco do PGRIA | Implementação de sistemas de monitorização dos fenómenos de inundações costeiras (%) |
-| Monitorização e desenvolvimento de investigação aplicada | MDI05 | PROT | Monitorização anual do funcionamento e estado das infraestruturas implantadas como medidas estruturais | Relatórios de avaliação |
-| Monitorização e desenvolvimento de investigação aplicada | MDI06 | PREP | Implementação de modelação hidrológica e hidráulica como mecanismo de apoio à decisão na gestão de eventos meteorológicos extremos e alerta de riscos de inundação | Número de modelos elaborados nas bacias hidrográficas do PGRIA |
-| Monitorização e desenvolvimento de investigação aplicada | MDI07 | REAP | Constituição de uma base de dados operacional de cheias e inundações | Base de dados |
-| Monitorização e desenvolvimento de investigação aplicada | MDI08 | REAP | Estudo de impacto económico das ocorrências de cheias e inundações | Estudo de impacto económico das ocorrências de cheias e inundações |
-| Monitorização e desenvolvimento de investigação aplicada | MDI09 | REAP | Apoiar a participação regional em projetos nacionais e internacionais nas temáticas relacionadas | Número de projetos nacionais apoiados |
-| Monitorização e desenvolvimento de investigação aplicada | MDI09 | REAP | Apoiar a participação regional em projetos nacionais e internacionais nas temáticas relacionadas | Número de projetos internacionais apoiados |
+| MDI02 | PREP | Rever e reforçar a rede hidrometeorológica automática da RAA | Número de estações |  |
+| MDI03 | PREP | Manutenção de estações hidrométricas e atualização de curvas de vazão no contexto da prevenção de riscos de cheia | Estações hidrométricas operacionais (%) |  |
+| Curvas de vazão atualizadas por estação hidrométrica (%) |  |  |  |  |
+| MDI04 | PREP | Definição e implementação de um sistema de monitorização dos fenómenos de inundação costeira nas zonas de risco do PGRIA | Definição de sistemas de monitorização dos fenómenos de inundações costeiras (%) |  |
+| Implementação de sistemas de monitorização dos fenómenos de inundações costeiras (%) |  |  |  |  |
+| MDI05 | PROT | Monitorização anual do funcionamento e estado das infraestruturas implantadas como medidas estruturais | Relatórios de avaliação |  |
+| MDI06 | PREP | Implementação de modelação hidrológica e hidráulica como mecanismo de apoio à decisão na gestão de eventos meteorológicos extremos e alerta de riscos de inundação | Número de modelos elaborados nas bacias hidrográficas do PGRIA |  |
+| MDI07 | REAP | Constituição de uma base de dados operacional de cheias e inundações | Base de dados |  |
+| MDI08 | REAP | Estudo de impacto económico das ocorrências de cheias e inundações | Estudo de impacto económico das ocorrências de cheias e inundações |  |
+| MDI09 | REAP | Apoiar a participação regional em projetos nacionais e internacionais nas temáticas relacionadas | Número de projetos nacionais apoiados |  |
+| Número de projetos internacionais apoiados |  |  |  |  |
 
 9 - Modelo de promoção, acompanhamento e avaliação
 
@@ -2132,7 +2196,8 @@ Este momento de avaliação é concomitante com o final do período de vigência
 
 O conteúdo, produtos e cronograma de desenvolvimento dos trabalhos supramencionados encontram-se sistematizados na figura 23.
 
-![](https://files.diariodarepublica.pt/images/901693817/901860233.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860233.png) |
+| --- |
 
 Figura 23 - Etapas do modelo de avaliação e acompanhamento do PGRIA 2022-2027
 
@@ -2208,91 +2273,113 @@ Tabela 39 - Indicadores para a Área Temática 4 (Monitorização e Desenvolvime
 
 Áreas críticas a cheias e inundações - Bacias hidrográficas suscetíveis a cheias e inundações
 
-![](https://files.diariodarepublica.pt/images/901693817/901860234.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860234.png) |
+| --- |
 
 Figura 24 - Carta de suscetibilidade a cheias fluviais para a bacia hidrográfica da Ribeira Grande (ilha das Flores)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860235.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860235.png) |
+| --- |
 
 Figura 25 - Classes de suscetibilidade (%) a cheias fluviais para bacia hidrográfica da Ribeira Grande (ilha das Flores)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860236.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860236.png) |
+| --- |
 
 Figura 26 - Carta de suscetibilidade a cheias fluviais para a bacia hidrográfica da Ribeira do Dilúvio (ilha do Pico)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860237.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860237.png) |
+| --- |
 
 Figura 27 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrográfica da Ribeira do Dilúvio (ilha do Pico)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860238.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860238.png) |
+| --- |
 
 Figura 28 - Carta de suscetibilidade a cheias para a bacia hidrográfica da Ribeira Seca (ilha de São Jorge)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860239.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860239.png) |
+| --- |
 
 Figura 29 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrográfica da Ribeira Seca (ilha de São Jorge)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860240.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860240.png) |
+| --- |
 
 Figura 30 - Carta de suscetibilidade a cheias para a bacia hidrográfica da Ribeira da Agualva (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860241.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860241.png) |
+| --- |
 
 Figura 31 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrográfica da Ribeira da Agualva (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860242.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860242.png) |
+| --- |
 
 Figura 32 - Carta de suscetibilidade a cheias para a bacia hidrográfica da Ribeira do Porto Judeu (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860243.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860243.png) |
+| --- |
 
 Figura 33 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrográfica da Ribeira do Porto Judeu (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860244.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860244.png) |
+| --- |
 
 Figura 34 - Carta de suscetibilidade a cheias para a bacia hidrográfica da Ribeira de São Bento (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860245.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860245.png) |
+| --- |
 
 Figura 35 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrográfica da Ribeira de São Bento (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860246.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860246.png) |
+| --- |
 
 Figura 36 - Carta de suscetibilidade a cheias para a bacia hidrográfica da Ribeira da Casa da Ribeira (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860247.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860247.png) |
+| --- |
 
 Figura 37 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrográfica da Ribeira da Casa da Ribeira (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860248.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860248.png) |
+| --- |
 
 Figura 38 - Carta de suscetibilidade a cheias para a bacia hidrográfica da Ribeira Grande (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860249.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860249.png) |
+| --- |
 
 Figura 39 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrográfica da Ribeira Grande (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860250.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860250.png) |
+| --- |
 
 Figura 40 - Carta de suscetibilidade a cheias para a bacia hidrográfica da Ribeira da Povoação (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860251.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860251.png) |
+| --- |
 
 Figura 41 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrográfica da Ribeira da Povoação (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860252.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860252.png) |
+| --- |
 
 Figura 42 - Carta de suscetibilidade a cheias para a bacia hidrográfica da Grota da Areia (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860253.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860253.png) |
+| --- |
 
 Figura 43 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrográfica da Grota da Areia (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860254.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860254.png) |
+| --- |
 
 Figura 44 - Carta de suscetibilidade a cheias para a bacia hidrográfica da Grota do Cinzeiro (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860255.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860255.png) |
+| --- |
 
 Figura 45 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrográfica da Grota do Cinzeiro (ilha de São Miguel)
 
@@ -2300,37 +2387,45 @@ Figura 45 - Classes de suscetibilidade (%) a cheias fluviais para a bacia hidrog
 
 Áreas críticas a cheias e inundações - Frentes marítimas vulneráveis
 
-![](https://files.diariodarepublica.pt/images/901693817/901860256.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860256.png) |
+| --- |
 
 Figura 46 - Carta de vulnerabilidade a inundações/galgamentos para a frente marítima da Ribeira Quente (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860257.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860257.png) |
+| --- |
 
 Figura 47 - Classes de vulnerabilidade (%) a inundações/galgamentos para a frente marítima da Ribeira Quente (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860258.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860258.png) |
+| --- |
 
 Figura 48 - Carta de vulnerabilidade a inundações/galgamentos para a frente marítima de Santa Cruz - Lagoa (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860259.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860259.png) |
+| --- |
 
 )
 
 Figura 49 - Classes de vulnerabilidade (%) a inundações/galgamentos para a frente marítima de Santa Cruz - Lagoa (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860260.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860260.png) |
+| --- |
 
 Figura 50 - Carta de vulnerabilidade a inundações/galgamentos para a frente marítima de São Roque (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860261.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860261.png) |
+| --- |
 
 Figura 51 - Classes de vulnerabilidade (%) a inundações/galgamentos para a frente marítima de São Roque (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860262.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860262.png) |
+| --- |
 
 Figura 52 - Carta de vulnerabilidade a inundações/galgamentos para a frente marítima de São Roque (ilha do Pico)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860263.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860263.png) |
+| --- |
 
 Figura 53 - Classes de vulnerabilidade (%) a inundações/galgamentos para a frente marítima de São Roque (ilha do Pico)
 
@@ -2342,13 +2437,15 @@ Representação gráfica da proporção dos edifícios/elementos vulneráveis po
 
 Identificação, categoria de suscetibilidade (baixa/média/elevada) e fonte de informação para os vários edifícios/elementos vulneráveis a cheias fluviais nas bacias hidrográficas com risco potencial significativo de cheias fluviais
 
-![](https://files.diariodarepublica.pt/images/901693817/901860264.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860264.png) |
+| --- |
 
 )
 
 Figura 54 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira Grande (ilha das Flores)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860265.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860265.png) |
+| --- |
 
 Figura 55 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Ribeira Grande - Ilha das Flores
 
@@ -2360,24 +2457,24 @@ Tabela 40 - Elementos vulneráveis da bacia hidrográfica da Ribeira Grande - Il
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Prados/pastagens | Ocupação do solo |  | Nula, baixa, média, alta |
 | Pico 594 - Fajã Grande | Áreas de extração de massas minerais consolidadas | Fajã Grande | Nula, baixa, média, alta |
 | Rede de abastecimento de água | Rede de abastecimento de água |  | Nula |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Rede viária | Caminhos municipais |  | Nula, baixa, média, alta |
 | Rede viária | Estradas secundárias |  | Nula, baixa, média, alta |
 | Rede viária | Estradas regionais |  | Nula, baixa, média, alta |
-| Património classificado | Património classificado | Património classificado | Património classificado |
+| Património classificado |  |  |  |
 | Moinhos de água | Imóvel de interesse público |  | Baixa e alta |
-| Captações de abastecimento público de água | Captações de abastecimento público de água | Captações de abastecimento público de água | Captações de abastecimento público de água |
+| Captações de abastecimento público de água |  |  |  |
 | FLO.N52 | Nascente | Intermédia e alargada |  |
 | FLO.N47 | Nascente | Alargada |  |
 | FLO.N5 | Nascente | Alargada |  |
-| Zonas protegidas | Zonas protegidas | Zonas protegidas | Zonas protegidas |
+| Zonas protegidas |  |  |  |
 | Planalto Central das Flores (Morro Alto) | RAMSAR | Morro Alto | Nula, baixa, média, alta |
 | Zona central | Zona Especial de Conservação | Morro Alto | Nula, baixa, média, alta |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos base |  | Nula |
 | Miradouro Craveiro Lopes | Miradouro |  | Nula |
 | Miradouro do Poço | Miradouro | Poço | Alta |
@@ -2391,11 +2488,13 @@ Tabela 40 - Elementos vulneráveis da bacia hidrográfica da Ribeira Grande - Il
 | Lajedo - Fajã Grande | Trilho | Fajã Grande | Nula, baixa, média, alta |
 | Rede elétrica | Rede elétrica |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860266.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860266.png) |
+| --- |
 
 Figura 56 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira do Dilúvio (ilha do Pico)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860267.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860267.png) |
+| --- |
 
 Figura 57 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Ribeira do Dilúvio - Ilha do Pico
 
@@ -2407,28 +2506,30 @@ Tabela 41 - Elementos vulneráveis da bacia hidrográfica da Ribeira do Dilúvio
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Prados/pastagens | Ocupação do solo |  | Nula, baixa, média, alta |
 | Áreas agrícolas heterogéneas | Ocupação do solo |  | Nula, baixa, média, alta |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Baixa, média, alta |
 | Estradas regionais | Rede viária |  | Baixa, média, alta |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | Mirateca II | Rede de abastecimento de água | Mirateca | Nula, baixa, média, alta |
-| Zonas protegidas | Zonas protegidas | Zonas protegidas | Zonas protegidas |
+| Zonas protegidas |  |  |  |
 | Montanha do Pico, Prainha e Caveiro | Zona Especial de Conservação | Montanha do Pico, Praínha e Caveiro | Nula |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos base |  | Nula, baixa, média, alta |
 | Cursos de água | Elementos base |  | Nula, baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
 | Rede elétrica | Outros elementos |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860268.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860268.png) |
+| --- |
 
 Figura 58 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira Seca (ilha de São Jorge)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860269.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860269.png) |
+| --- |
 
 Figura 59 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Ribeira Seca - Ilha São Jorge
 
@@ -2440,10 +2541,10 @@ Tabela 42 - Elementos vulneráveis da bacia hidrográfica da Ribeira Seca - Ilha
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | EB1/JI da Ribeira Seca/Escola Prof. Nemésio Serpa | Estabelecimentos de ensino | Ribeira Seca | Alta |
 | Igreja Paroquial de São Tiago | Igreja | São Tiago | Nula |
-| Infraestruturas de abastecimento público de água | Infraestruturas de abastecimento público de água | Infraestruturas de abastecimento público de água | Infraestruturas de abastecimento público de água |
+| Infraestruturas de abastecimento público de água |  |  |  |
 | Ribeira Seca/Calheta | Rede de abastecimento de água | Ribeira Seca/Calheta | Nula, baixa, média, alta |
 | Silveira | Rede de abastecimento de água | Silveira | Nula, baixa, média, alta |
 | Parques | Reservatórios |  | Baixa |
@@ -2457,27 +2558,29 @@ Tabela 42 - Elementos vulneráveis da bacia hidrográfica da Ribeira Seca - Ilha
 | Serra VI - ETA da Canada dos Touros | Adutoras |  | Nula, baixa, média, alta |
 | ETA Canada dos Touros - Reservatório da Canada dos Touros | Adutoras |  | Média, alta |
 | Canada dos Touros - CRC1 (Ribeira Seca/Calheta/Norte | Adutoras |  | Nula, baixa, média, alta |
-| Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA |
+| Infraestruturas de abastecimento de água à agricultura - IROA |  |  |  |
 | Caminho do Pau-Pique | Caminhos |  | Nula, baixa, média, alta |
 | Sem designação | Condutas |  | Nulas |
 | Urzal - Norte Pequeno | Nascentes |  | Nula |
 | Urzal - Norte Pequeno | Pontos de abastecimento |  | Nula |
 | Bardinhos | Reservatórios e Pontos de abastecimento |  | Alta |
-| Captações de água | Captações de água | Captações de água | Captações de água |
+| Captações de água |  |  |  |
 | Urzal I | Nascentes | Captações de água | Nula |
 | Urzal I, II | Nascentes | Intermédia | Nula |
 | Urzal (S.J. N23) | Nascentes | Intermédia | Nula |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos de base |  | Nula, baixa, média, alta |
 | Cursos de água | Elementos de base |  | Nula, baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
 | Rede elétrica | Outros elementos |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860270.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860270.png) |
+| --- |
 
 Figura 60 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira de Agualva (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860271.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860271.png) |
+| --- |
 
 Figura 61 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Ribeira da Agualva - Ilha Terceira
 
@@ -2489,7 +2592,7 @@ Tabela 43 - Elementos vulneráveis da bacia hidrográfica da Ribeira de Agualva 
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | Núcleo Familiar de Agualva | Equipamentos coletivos de saúde | Agualva | Nula |
 | Escola Básica integrada da Praia - Agualva | Estabelecimentos de ensino | Agualva | Nula |
 | Centro Social e Paroquial de Agualva | Centros comunitários | Agualva | Alta |
@@ -2497,10 +2600,10 @@ Tabela 43 - Elementos vulneráveis da bacia hidrográfica da Ribeira de Agualva 
 | Igreja de Nossa Senhora de Guadalupe | Igrejas | Agualva | Alta |
 | Pavilhão Desportivo da Agualva | Equipamentos desportivos | Agualva | Nula |
 | Campo de Futebol de 11 do Grupo Desportivo e Recreativo de Agualva | Equipamentos desportivos | Agualva | Nula |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Terras aráveis | Ocupação do solo |  | Nula, baixa, média, alta |
 | Prados/pastagens | Ocupação do solo |  | Nula, baixa, média, alta |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | Agualva (20226309) | Rede de abastecimento de água | Agualva | Nula, baixa, média, alta |
 | Vila Nova (20226305) | Rede de abastecimento de água | Vila Nova | Nula, baixa, média, alta |
 | R15 Vila Nova (20224343) | Reservatórios | Vila Nova | Nula |
@@ -2510,42 +2613,45 @@ Tabela 43 - Elementos vulneráveis da bacia hidrográfica da Ribeira de Agualva 
 | R15 Vila Nova - Rede Vila Nova (3) | Adutoras | Vila Nova | Nula, baixa, média, alta |
 | R16 Outeiros | Adutoras | Outeiros | Nula, baixa, média, alta |
 | R15 Vila Nova (3) | Adutoras | Vila Nova | Nula, baixa, média, alta |
-| Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA |
+| Infraestruturas de abastecimento de água à agricultura - IROA |  |  |  |
 | Ladeira da Nossa Senhora (SCAG-CP08) | Caminhos |  | Nula |
 | Sem designações | Condutas |  | Nula |
 | Ribeira dos Moinhos | Reservatórios |  | Alta |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Nula, baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Nula, baixa, média, alta |
 | Estradas regionais | Rede viária |  | Nula, baixa, média, alta |
-| Património classificado | Património classificado | Património classificado | Património classificado |
+| Património classificado |  |  |  |
 | Museus/património cultural | Património classificado |  | Média |
-| Zonas protegidas | Zonas protegidas | Zonas protegidas | Zonas protegidas |
+| Zonas protegidas |  |  |  |
 | Planalto Central (Furnas do Enxofre e Algar do Carvão) | RAMSAR | Furnas do Enxofre e Algar do Carvão | Nula |
 | ZEC da Serra de Santa Barbara e Pico Alto - nascente | Zona Especial de Conservação | Serra de Santa Bárbara e Pico Alto | Nula |
-| Captações de água | Captações de água | Captações de água | Captações de água |
+| Captações de água |  |  |  |
 | Frechas 1 (TER. N38) | Nascentes |  | Alta |
 | Frechas 2 (TER. N39) | Nascentes |  | Alta |
 | Frechas 3 (TER. N40) | Nascentes |  | Alta |
-| Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água |
+| Perímetros de proteção de captações de água |  |  |  |
 | Frecha 1 e 2 (TER. N38 e N39) - nascente | Nascentes | ZP Imediata | Nula, baixa, média, alta |
 | Frecha 3 (TER. N40) - nascente | Nascentes | ZP Intermédia | Nula, baixa, média, alta |
 | Frechas 1, 2 e 3 (TER. N38, N39 e N40) - nascente | Nascente | ZP Intermédia | Nula, baixa, média, alta |
 | Frechas 1, 2 e 3 (TER. N38, N39 e N40) - nascente | Nascentes | ZP Alargada | Nula, baixa, média, alta |
-| Outros elementos de referência | Outros elementos de referência | Outros elementos de referência | Outros elementos de referência |
+| Outros elementos de referência |  |  |  |
 | Edificado | Elementos base |  | Nula, baixa, média, alta |
 | Cursos de água | Elementos base |  | Nula, baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
 | Estações de feixes hertzianos | Outros elementos |  | Nula |
 | Rede elétrica | Outros elementos |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860272.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860272.png) |
+| --- |
 
 Figura 62 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira do Porto Judeu (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860273.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860273.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860274.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860274.png) |
+| --- |
 
 Figura 63 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica das Ribeiras do Porto Judeu - Ilha Terceira
 
@@ -2557,17 +2663,17 @@ Tabela 44 - Elementos vulneráveis da bacia hidrográfica da Ribeira do Porto Ju
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | Jardim de Infância - O Ninho (Casa do Povo) | Creches/infantários |  | Nula |
 | EB1/JI do Porto Judeu | Estabelecimentos de ensino |  | Nula |
 | Casa do Povo de Porto Judeu | Centros comunitários |  | Nula |
 | Campo de Futebol de 11 do Barreiro | Equipamentos desportivos |  | Nula |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Terras aráveis | Ocupação do solo |  | Nula |
 | Culturas permanentes | Ocupação do solo |  | Nula, baixa, média, alta |
 | Prados/pastagens | Ocupação do solo |  | Nula, baixa, média, alta |
 | Indústria, comércio, equipamentos gerais e infraestruturas | Ocupação do solo |  | Nula |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | Canada do Santana (Furo) | Estações elevatórias de água |  | Nula |
 | Angra do Heroísmo | Rede de abastecimento de água |  | Nula, baixa, média, alta |
 | 4R3 | Reservatórios |  | Nula |
@@ -2575,7 +2681,7 @@ Tabela 44 - Elementos vulneráveis da bacia hidrográfica da Ribeira do Porto Ju
 | R. RB SMAH - Tê R. RB SMAH (3) | Adutoras |  | Nula |
 | R. 4R3 - R. 1R3 João Caminho (3) | Adutoras |  | Nula, baixa, média, alta |
 | Tê R. 5R2 - R. 4R3 (2) | Adutoras |  | Nula |
-| Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA |
+| Infraestruturas de abastecimento de água à agricultura - IROA |  |  |  |
 | Cam.Meio Moio (PAUL-CS06) | Caminhos |  | Nula, baixa |
 | Can. Praia (PAUL-CP04) | Caminhos |  | Nula |
 | D. Joana (PAUL-CS13) | Caminhos |  | Nula, baixa, média, alta |
@@ -2608,11 +2714,11 @@ Tabela 44 - Elementos vulneráveis da bacia hidrográfica da Ribeira do Porto Ju
 | Canada de Santana | Pontos de abastecimento |  | Nula |
 | C. do Tapete - Feteira | Pontos de abastecimento |  | Nula |
 | Sem designação | Reservatórios |  | Nula |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Nula, baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Nula, baixa, média, alta |
 | Estradas regionais | Rede viária |  | Nula, baixa, média, alta |
-| Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água |
+| Perímetros de proteção de captações de água |  |  |  |
 | Canada do Santana (TER.F3) | Furos |  | Nula |
 | Santana do Norte (TER.F20) | Furos |  | Nula |
 | Tapete (TER.F17) | Furos |  | Nula |
@@ -2623,7 +2729,7 @@ Tabela 44 - Elementos vulneráveis da bacia hidrográfica da Ribeira do Porto Ju
 | Santana do Norte (TER.F20) - Furo | Furos | ZP Intermédia | Nula |
 | Tapete (TER.F17) - Furo | Furos | ZP Intermédia | Nula |
 | Canadas, Tapete, Santana do Norte (TER.F3, F17, F20) | Furos | ZP Alargada | Nula, baixa, média, alta |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Nula, baixa, média, alta |
 | Cursos de água | Elementos bases |  | Nula, baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
@@ -2634,17 +2740,21 @@ Tabela 44 - Elementos vulneráveis da bacia hidrográfica da Ribeira do Porto Ju
 | Rede elétrica | Outros elementos |  | Nula, baixa, média, alta |
 | Porto Judeu | Rede de águas residuais |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860675.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860675.png) |
+| --- |
 
 Figura 64 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira de São Bento (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860676.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860676.png) |
+| --- |
 
 Figura 65 - Carta de risco a cheias fluviais com ampliação para a bacia hidrográfica da Ribeira de São Bento (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860677.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860677.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860678.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860678.png) |
+| --- |
 
 Figura 66 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Ribeira de São Bento - Ilha Terceira
 
@@ -2656,7 +2766,7 @@ Tabela 45 - Elementos vulneráveis da bacia hidrográfica da Ribeira de São Ben
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | Hospital de Santo Espírito da Ilha Terceira | Hospitais |  | Nula |
 | Casa de Saúde São Rafael | Equipamentos coletivos de saúde |  | Média |
 | Centro de Saúde de Angra do Heroísmo | Centros de saúde |  | Nula |
@@ -2682,13 +2792,13 @@ Tabela 45 - Elementos vulneráveis da bacia hidrográfica da Ribeira de São Ben
 | Polidesportivo do Instituto São João de Deus | Equipamentos desportivos |  | Nula |
 | Ginásio - Marquitos Gym do Clube Musical Angrense | Equipamentos desportivos |  | Nula |
 | Ginásio do Clube de Atletismo da Terceira | Equipamentos desportivos |  | Baixa |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Terras aráveis | Ocupação do solo |  | Nula, baixa, média, alta |
 | Culturas permanentes | Ocupação do solo |  | Nula, baixa, média, alta |
 | Prados/pastagens | Ocupação do solo |  | Nula, baixa, média, alta |
 | Indústria, comércio, equipamentos gerais e infraestruturas | Ocupação do solo |  | Nula, baixa, média, alta |
 | Pedreira dos Calrinhos | Áreas de extração de massas minerais consolidadas | Em atividade | Nula, baixa, média, alta |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | ETA da Nasce Água | ETA |  | Nula |
 | Farrouco (Furo) | Estações elevatórias de água |  | Alta |
 | Vinha Brava (Furo) | Estações elevatórias de água |  | Média |
@@ -2733,20 +2843,20 @@ Tabela 45 - Elementos vulneráveis da bacia hidrográfica da Ribeira de São Ben
 | ETA Nasce Água - TÊ N. Nasce Água 3 (1) | Adutoras |  | Nula |
 | N. Nasce Água 1 - ETA Nasce Água (I) (1) | Adutoras |  | Nula |
 | 20395595 | Condutas elevatórias |  | Nula, alta |
-| Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA |
+| Infraestruturas de abastecimento de água à agricultura - IROA |  |  |  |
 | Sem designação | Condutas |  | Nula |
 | Sem designação | Condutas |  | Nula, baixa, média, alta |
 | Achada - Porto Judeu | Reservatórios |  | Nula |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Nula, baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Nula, baixa, média, alta |
 | Estradas regionais | Rede viária |  | Nula, baixa, média, alta |
-| Património classificado | Património classificado | Património classificado | Património classificado |
+| Património classificado |  |  |  |
 | Convento de Santo António dos Capuchos | Museus/património cultural |  | Alta |
 | Cidade Património Cultural | Zona classificada |  | Nula, baixa, média, alta |
-| Instalações que possam causar poluição acidental em caso de inundações | Instalações que possam causar poluição acidental em caso de inundações | Instalações que possam causar poluição acidental em caso de inundações | Instalações que possam causar poluição acidental em caso de inundações |
+| Instalações que possam causar poluição acidental em caso de inundações |  |  |  |
 | PRONICOL - Produtos Lácteos, S. A. | Instalações PCIP |  | Nula |
-| Captações de água | Captações de água | Captações de água | Captações de água |
+| Captações de água |  |  |  |
 | Farroco/C Posto Santo | Furos |  | Alta |
 | Vinha Brava/São Bento (TER.F2) | Furos |  | Baixa |
 | Achada (TER.F18) | Furos |  | Nula |
@@ -2757,7 +2867,7 @@ Tabela 45 - Elementos vulneráveis da bacia hidrográfica da Ribeira de São Ben
 | Nasce Água 3 (TER.N11) | Nascente |  | Nula |
 | Nasce Água 4 (TER.N12) | Nascente |  | Nula |
 | Raminha (TER.N16) | Nascente |  | Nula |
-| Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água |
+| Perímetros de proteção de captações de água |  |  |  |
 | Vinha Brava/São Bento | Furos | ZP Imediata | Nula, baixa, média, alta |
 | Achada (TER.F18) | Furos | ZP Imediata | Nula |
 | Gamelão 1 e 2 | Nascente | ZP Imediata | Nula |
@@ -2773,7 +2883,7 @@ Tabela 45 - Elementos vulneráveis da bacia hidrográfica da Ribeira de São Ben
 | Vinha Brava (TER.F2) | Furos | ZP Alargada | Nula, baixa, média, alta |
 | Achada (TER.F18) | Furos | ZP Alargada | Nula |
 | Fonte da Telha, Nasce Água, Furna Cabrito | Nascente | ZP Alargada | Nula |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Nula, baixa, média, alta |
 | Cursos de água | Elementos bases |  | Nula, baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
@@ -2782,11 +2892,13 @@ Tabela 45 - Elementos vulneráveis da bacia hidrográfica da Ribeira de São Ben
 | Rede elétrica | Outros elementos |  | Nula, baixa, média, alta |
 | Porto Judeu | Rede de águas residuais |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860679.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860679.png) |
+| --- |
 
 Figura 67 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira da Casa da Ribeira (ilha Terceira)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860680.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860680.png) |
+| --- |
 
 Figura 68 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Ribeira da Casa da Ribeira - Ilha Terceira
 
@@ -2798,12 +2910,12 @@ Tabela 46 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Casa da 
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | Pavilhão Desportivo da Casa da Ribeira | Equipamentos desportivos |  | Nula |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Terras aráveis | Ocupação do solo |  | Nula, baixa, média, alta |
 | Prados/pastagens | Ocupação do solo |  | Nula, baixa, média, alta |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | ETA 2-R6 Casa da Ribeira | ETA |  | Nula, baixa, média, alta |
 | ETA 3 Canada da Arquinha | ETA |  | Nula |
 | EE-F0 Pico Celeiro | Estações elevatórias de água |  | Nula |
@@ -2825,11 +2937,11 @@ Tabela 46 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Casa da 
 | Cam. Volta da Terça (SCAG-CS12) | Caminhos |  | Nula |
 | Canada das Pedreiras (SCAG-CP07) | Caminhos |  | Nula |
 | Sem designações | Condutas |  | Nula |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Nula, baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Nula, baixa, média, alta |
 | Estradas regionais | Rede viária |  | Nula, baixa, média, alta |
-| Captações de água | Captações de água | Captações de água | Captações de água |
+| Captações de água |  |  |  |
 | Mioco 1 (TER.N55) | Nascente |  | Nula |
 | Mioco 2 (TER.N56) | Nascente |  | Nula |
 | Beiras 1 (TER.N52) | Nascente |  | Alta |
@@ -2839,7 +2951,7 @@ Tabela 46 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Casa da 
 | Bica da Saúde 2 (TER.N50) | Nascente |  | Baixa |
 | Bica da Saúde 3 (TER.N51) | Nascente |  | Nula |
 | Lourais (TER.N57) | Nascente |  | Alta |
-| Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água |
+| Perímetros de proteção de captações de água |  |  |  |
 | Mioco 1 (TER.N55) | Nascente | ZP Imediata | Nula |
 | Mioco 2 (TER.N56) | Nascente | ZP Imediata | Nula |
 | Beiras 1 (TER.N52) | Nascente | ZP Imediata | Nula, baixa, alta |
@@ -2854,7 +2966,7 @@ Tabela 46 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Casa da 
 | Conj. Beiras, Lourais, Mioco (TER.N49 à N56) | Nascente | ZP Alargada | Nula |
 | Pico do Celeiro (TER.F14) | Furos | ZP Alargada | Nula, baixa, média, alta |
 | Areeiro (TER.F11 | Furos | ZP Alargada | Nula |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Nula, baixa, média, alta |
 | Cursos de água | Elementos bases |  | Nula, baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
@@ -2863,17 +2975,21 @@ Tabela 46 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Casa da 
 | Miradouro da Serra do Cume (2) | Miradouro |  | Nula |
 | Rede elétrica | Outros elementos |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860681.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860681.png) |
+| --- |
 
 Figura 69 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira Grande (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860682.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860682.png) |
+| --- |
 
 Figura 70 - Carta de risco a cheias fluviais com ampliação para a bacia hidrográfica da Ribeira Grande (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860683.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860683.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860684.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860684.png) |
+| --- |
 
 Figura 71 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Ribeira Grande - Ilha de São Miguel
 
@@ -2885,7 +3001,7 @@ Tabela 47 - Elementos vulneráveis da bacia hidrográfica da Ribeira Grande - Il
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | C.A.S.A. - Centro de Apoio Social e Acolhimento, Bernardo Manuel da Silveira Estrela | Creches/infantários |  | Nula |
 | Casa do Povo da Ribeira Grande | Ateliers de tempos livres |  | Nula |
 | Igreja Matriz de Nossa Sr.ª da Estrela | Igrejas |  | Nula |
@@ -2905,13 +3021,13 @@ Tabela 47 - Elementos vulneráveis da bacia hidrográfica da Ribeira Grande - Il
 | Pista de Atletismo do Complexo Desportivo da Ribeira Grande | Equipamentos desportivos |  | Nula |
 | Lançamento do Peso do Complexo Desportivo da Ribeira Grande | Equipamentos desportivos |  | Nula |
 | Salto em Comprimento do Complexo Desportivo da Ribeira Grande | Equipamentos desportivos |  | Nula |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Terras aráveis | Ocupação do solo |  | Nula, baixa, média, alta |
 | Culturas permanentes | Ocupação do solo |  | Nula, baixa, média, alta |
 | Prados/pastagens | Ocupação do solo |  | Nula, baixa, média, alta |
 | Áreas agrícolas heterogéneas | Ocupação do solo |  | Nula, baixa |
 | Indústria, comércio, equipamentos gerais e infraestruturas | Ocupação do solo |  | Nula, baixa, média, alta |
-| Atividades industriais | Atividades industriais | Atividades industriais | Atividades industriais |
+| Atividades industriais |  |  |  |
 | Tufeira do João Gouveia | Áreas de extração de massas minerais consolidadas | Abandonada | Nula, |
 | Tufeira Monte Frande I | Áreas de extração de massas minerais consolidadas | Abandonada | Nula, baixa, média, alta |
 | Tufeira Monte Frande II | Áreas de extração de massas minerais consolidadas | Abandonada | Nula, baixa, média, alta |
@@ -2932,7 +3048,7 @@ Tabela 47 - Elementos vulneráveis da bacia hidrográfica da Ribeira Grande - Il
 | Pedreira do Areeiro | Áreas de extração de massas minerais consolidadas | Em atividade | Nula |
 | Cascalheira do Pico do Vermelho | Áreas de extração de massas minerais consolidadas | Em atividade | Nula |
 | Tufeira da Mata do Botelho | Áreas de extração de massas minerais consolidadas | Em atividade | Nula |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | Pico Vermelho | ETA |  | Baixa |
 | Ribeirinha/Matriz/Conceição/Ribeira Seca | Rede de abastecimento de água |  | Nula, baixa, média, alta |
 | R9 Pico Vermelho 2 | Reservatórios |  | Média |
@@ -2951,17 +3067,17 @@ Tabela 47 - Elementos vulneráveis da bacia hidrográfica da Ribeira Grande - Il
 | PVC 110 Tomás Caetano - CJC4 (cidade e zona poente) | Adutoras |  | Nula, baixa, média, alta |
 | FB 100, PVC 200 José Canto - CJC da Estrada Regional da Lagoa do Fogo | Adutoras |  | Nula, baixa, média, alta |
 | PVC 200 Chá do Canto - CJC Estrada Regional da Lagoa do Fogo | Adutoras |  | Nula |
-| Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA |
+| Infraestruturas de abastecimento de água à agricultura - IROA |  |  |  |
 | Can. Mina (SRP-CS08) | Caminhos |  | Nula, baixa, média, alta |
 | Lágrimas | Nascentes |  | Nula |
 | Foros | Pontos de abastecimento |  | Nula |
 | Pico do Leitão | Pontos de abastecimento |  | Baixa |
 | Foros | Reservatórios |  | Nula |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Nula, baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Nula, baixa, média, alta |
 | Estradas regionais | Rede viária |  | Nula, baixa, média, alta |
-| Património classificado | Património classificado | Património classificado | Património classificado |
+| Património classificado |  |  |  |
 | Igreja Matriz de Nossa Sr.ª da Estrela | Património classificado |  | Nula |
 | Igreja da Misericórdia/Igreja do Espírito Santo | Património classificado |  | Nula |
 | Paços do Concelho da Ribeira Grande | Património classificado |  | Nula |
@@ -2969,17 +3085,17 @@ Tabela 47 - Elementos vulneráveis da bacia hidrográfica da Ribeira Grande - Il
 | Museu Municipal da Ribeira Grande | Património classificado |  | Nula |
 | Casa do Arcano (Museu) | Património classificado |  | Nula |
 | Zona histórica | Zona classificada |  | Nula, baixa, média, alta |
-| Instalações que possam causar poluição acidental em caso de inundações | Instalações que possam causar poluição acidental em caso de inundações | Instalações que possam causar poluição acidental em caso de inundações | Instalações que possam causar poluição acidental em caso de inundações |
+| Instalações que possam causar poluição acidental em caso de inundações |  |  |  |
 | PRONICOL - Produtos Lácteos, S. A. | Instalações PCIP |  | Nula |
-| Zonas protegidas | Zonas protegidas | Zonas protegidas | Zonas protegidas |
+| Zonas protegidas |  |  |  |
 | Complexo Vulcânico do Fogo | RAMSAR |  | Nula, baixa, média, alta |
 | Lagoa do Fogo | Zona Especial de Conservação |  | Nula, baixa, média, alta |
-| Captações de água | Captações de água | Captações de água | Captações de água |
+| Captações de água |  |  |  |
 | Chá Canto/Conceição | Nascentes |  | Nula, baixa, média, alta |
 | Cachaços | Nascentes |  | Nula, baixa, média, alta |
 | José do Canto/Bandeirinha | Nascentes |  | Nula, baixa, média, alta |
 | Tomás Caetano | Nascentes |  | Nula, baixa, média, alta |
-| Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água |
+| Perímetros de proteção de captações de água |  |  |  |
 | Chá Canto/Conceição | Nascentes | ZP Imediata | Nula |
 | Cachaços | Nascentes | ZP Imediata | Alta |
 | José do Canto/Bandeirinha | Nascentes | ZP Imediata | Nula |
@@ -2992,9 +3108,9 @@ Tabela 47 - Elementos vulneráveis da bacia hidrográfica da Ribeira Grande - Il
 | Cachaços | Nascentes | ZP Alargada | Nula, baixa, média, alta |
 | José do Canto/Bandeirinha | Nascentes | ZP Alargada | Nula, baixa, média, alta |
 | Tomás Caetano | Nascentes | ZP Alargada | Nula |
-| Zonas balneares | Zonas balneares | Zonas balneares | Zonas balneares |
+| Zonas balneares |  |  |  |
 | Praia do Monte Verde | Zonas balneares |  | Nula, baixa, média, alta |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Nula, baixa, média, alta |
 | Cursos de água | Elementos bases |  | Nula, baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
@@ -3006,17 +3122,21 @@ Tabela 47 - Elementos vulneráveis da bacia hidrográfica da Ribeira Grande - Il
 | Zona nascente da cidade | Rede de águas residuais |  | Nula |
 | Espírito Santo, Ribeira e Nova | Rede de águas residuais |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860685.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860685.png) |
+| --- |
 
 Figura 72 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira da Povoação (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860686.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860686.png) |
+| --- |
 
 Figura 73 - Carta de risco a cheias fluviais com ampliação para a bacia hidrográfica da Ribeira da Povoação (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860687.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860687.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860688.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860688.png) |
+| --- |
 
 Figura 74 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Ribeira da Povoação - Ilha de São Miguel
 
@@ -3028,7 +3148,7 @@ Tabela 48 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Povoaç�
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | Centro de Saúde da Povoação | Equipamentos coletivos de saúde |  | Alta |
 | Santa Casa da Misericórdia da Povoação | Lares de idosos |  | Alta |
 | Creche Mãe Coruja (Fundação Maria Isabel do Carmo Medeiros) | Creches/infantários |  | Alta |
@@ -3058,19 +3178,19 @@ Tabela 48 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Povoaç�
 | Sala de Desporto 2 Alke Fitness | Equipamentos desportivos |  |  |
 | Polidesportivo da EBS da Povoação | Equipamentos desportivos |  |  |
 | Polidesportivo da Lomba do Pomar | Equipamentos desportivos |  |  |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Terras aráveis | Ocupação do solo |  | Nula, baixa, média, alta |
 | Culturas permanentes | Ocupação do solo |  | Nula, baixa, média, alta |
 | Prados/pastagens | Ocupação do solo |  | Nula, baixa, média, alta |
 | Áreas agrícolas heterogéneas | Ocupação do solo |  | Nula, baixa, média, alta |
 | Indústria, comércio, equipamentos gerais e infraestruturas | Ocupação do solo |  | Nula |
 | Áreas portuárias | Ocupação do solo |  | Nula, baixa, média, alta |
-| Atividades industriais | Atividades industriais | Atividades industriais | Atividades industriais |
+| Atividades industriais |  |  |  |
 | Lomba do Loução | Áreas de extração de massas minerais consolidadas | Abandonada | Nula, baixa, média, alta |
 | Covinhas | Áreas de extração de massas minerais consolidadas | Em atividade | Nula |
 | Moitas I | Áreas de extração de massas minerais consolidadas | Em atividade | Nula, baixa |
 | Moitas II | Áreas de extração de massas minerais consolidadas | Em atividade | Média, alta |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | Lomba do Alcaide | Rede de abastecimento de água |  | Nula, baixa, média, alta |
 | Vila da Povoação | Rede de abastecimento de água |  | Nula, baixa, média, alta |
 | Lomba do Botão | Rede de abastecimento de água |  | Nula |
@@ -3088,7 +3208,7 @@ Tabela 48 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Povoaç�
 | Adutora da Lomba do Pomar | Adutoras |  | Nula, baixa, média, alta |
 | EE-Rejeição 1 | Condutas elevatórias |  | Nula, baixa, média, alta |
 | EE-Rejeição 3 | Condutas elevatórias |  | Nula, baixa, média, alta |
-| Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA |
+| Infraestruturas de abastecimento de água à agricultura - IROA |  |  |  |
 | Cam. Lomba dos Pós (POV-CS12) | Caminhos |  | Nula, baixa, média, alta |
 | Cam. do Areeiro (POV-CS08) | Caminhos |  | Nula, baixa, média, alta |
 | Cam. das Matas (POV-CS18) | Caminhos |  | Nula, baixa, média, alta |
@@ -3117,23 +3237,23 @@ Tabela 48 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Povoaç�
 | Sem designação |  |  | Baixa |
 | Sem designação |  |  | Nula |
 | Lomba do Alcaide | Reservatórios e pontos de abastecimento |  | Nula |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Nula, baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Nula, baixa, média, alta |
 | Estradas regionais | Rede viária |  | Nula, baixa, média, alta |
-| Património classificado | Património classificado | Património classificado | Património classificado |
+| Património classificado |  |  |  |
 | Câmara Municipal da Povoação | Museus/património cultural |  | Média |
-| Hotéis | Hotéis | Hotéis | Hotéis |
+| Hotéis |  |  |  |
 | Hotel do Mar | Hotéis |  | Nula |
-| Zonas protegidas | Zonas protegidas | Zonas protegidas | Zonas protegidas |
+| Zonas protegidas |  |  |  |
 | Serra da Tronqueira/Planalto dos Graminhais | Zona Especial de Conservação |  | Nula, baixa, média, alta |
 | Pico da Vara/Ribeira do Guilherme | Zona de Proteção Especial |  | Nula, baixa, média, alta |
-| Captações de água | Captações de água | Captações de água | Captações de água |
+| Captações de água |  |  |  |
 | Rocha Alta | Nascentes |  | Nula |
 | Monte do Suplício | Nascentes |  | Alta |
 | Espigão da Ponte/Lomba do Pomar | Nascentes |  | Nula |
 | Vila | Nascentes |  | Nula |
-| Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água |
+| Perímetros de proteção de captações de água |  |  |  |
 | Rocha Alta | Nascentes | ZP Imediata | Nula |
 | Monte do Suplício | Nascentes | ZP Imediata | Nula, baixa, média, alta |
 | Espigão da Ponte/Lomba do Pomar | Nascentes | ZP Imediata | Nula |
@@ -3146,9 +3266,9 @@ Tabela 48 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Povoaç�
 | Monte do Suplício | Nascentes | ZP Alargada | Nula, baixa, média, alta |
 | Espigão da Ponte/Lomba do Pomar | Nascentes | ZP Alargada | Nula, baixa, média, alta |
 | Vila | Nascentes | ZP Alargada | Nula |
-| Zonas balneares | Zonas balneares | Zonas balneares | Zonas balneares |
+| Zonas balneares |  |  |  |
 | Zona balnear da Povoação | Zonas balneares |  | Alta |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Nula, baixa, média, alta |
 | Cursos de água | Elementos bases |  | Nula, baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
@@ -3166,11 +3286,13 @@ Tabela 48 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Povoaç�
 | Lomba do Pomar | Rede de águas residuais |  | Nula, baixa, média, alta |
 | Lomba do Loução | Rede de águas residuais |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860689.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860689.png) |
+| --- |
 
 Figura 75 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira da Grota da Areia (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860690.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860690.png) |
+| --- |
 
 Figura 76 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Grota da Areia - Ilha de São Miguel
 
@@ -3182,38 +3304,40 @@ Tabela 49 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Grota da
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Prados/pastagens | Ocupação do solo |  | Nula, baixa, média, alta |
 | Áreas agrícolas heterogéneas | Ocupação do solo |  | Nula, baixa, média, alta |
 | Indústria, comércio, equipamentos gerais e infraestruturas | Ocupação do solo |  | Nula |
-| Atividades industriais | Atividades industriais | Atividades industriais | Atividades industriais |
+| Atividades industriais |  |  |  |
 | Lagoa do Pilar | Áreas de extração de massas minerais consolidadas | Abandonada | Nula |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | João Bom-Pilar | Rede de abastecimento de água |  | Nula, baixa, média, alta |
 | Reservatório da casa telhada | Reservatórios |  | Nula |
 | Reservatório Canada dos Cinquenta - Reservatório da Casa Telhada | Adutoras |  | Nula, baixa, média, alta |
 | Reservatório Casa Telhada - Reservatório Canada do Ferreiro | Adutoras |  | Nula, baixa, média, alta |
-| Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA | Infraestruturas de abastecimento de água à agricultura - IROA |
+| Infraestruturas de abastecimento de água à agricultura - IROA |  |  |  |
 | Sem designação | Pontos de abastecimento |  | Alta |
 | Arco Cheio | Reservatórios |  | Alta |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Nula, baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Nula, baixa, média, alta |
 | Estradas regionais | Rede viária |  | Nula, baixa, média, alta |
-| Zonas protegidas | Zonas protegidas | Zonas protegidas | Zonas protegidas |
+| Zonas protegidas |  |  |  |
 | Complexo Vulcânico das Sete Cidades | RAMSAR |  | Nula |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Nula, baixa, média, alta |
 | Cursos de água | Elementos bases |  | Nula, baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
 | Outros elementos sensíveis | Trilhos |  | Nula |
 | Rede elétrica | Outros elementos |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860691.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860691.png) |
+| --- |
 
 Figura 77 - Carta de risco a cheias fluviais para a bacia hidrográfica da Ribeira da Grota do Cinzeiro (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860692.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860692.png) |
+| --- |
 
 Figura 78 - Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Grota do Cinzeiro - Ilha de São Miguel
 
@@ -3225,12 +3349,12 @@ Tabela 50 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Grota do
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | Igreja de Nossa Senhora da Luz/Igreja da Pedra | Igrejas |  | Baixa |
 | Polidesportivo da Pedreira | Equipamentos desportivos |  | Alta |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Áreas agrícolas heterogéneas | Ocupação do solo |  | Nula, baixa, média, alta |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | Pedreira/Cinzeiro | Rede de abastecimento de água |  | Nula, baixa, média, alta |
 | Cinzeiro | Adutoras |  | Nula |
 | Lomba 4 - Lomba 3 | Adutoras |  | Nula |
@@ -3245,13 +3369,13 @@ Tabela 50 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Grota do
 | CJC3 (Lomba da Fazenda e Nordeste) - Cinzeiro | Adutoras |  | Nula |
 | CRC1 (Lomba da Fazenda e Nordeste) - Cinzeiro | Adutoras |  | Nula |
 | Adutora do Cinzeiro | Adutoras |  | Nula, baixa |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Nula, baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Nula, baixa, média, alta |
 | Estradas regionais | Rede viária |  | Nula, baixa, média, alta |
-| Zonas protegidas | Zonas protegidas | Zonas protegidas | Zonas protegidas |
+| Zonas protegidas |  |  |  |
 | Pico da Vara/Ribeira do Guilherme | Zona de Proteção Especial |  | Nula |
-| Captações de água | Captações de água | Captações de água | Captações de água |
+| Captações de água |  |  |  |
 | Lomba/Pedreira/Cinzeiro | Nascentes |  | Nula |
 | Lomba/Pedreira/Cinzeiro | Nascentes |  | Nula |
 | Lomba/Pedreira/Cinzeiro | Nascentes |  | Nula |
@@ -3265,13 +3389,13 @@ Tabela 50 - Elementos vulneráveis da bacia hidrográfica da Ribeira da Grota do
 | Lomba/Pedreira/Cinzeiro | Nascentes |  | Nula |
 | Lomba/Pedreira/Cinzeiro | Nascentes |  | Nula |
 | Lomba/Pedreira/Cinzeiro | Nascentes |  | Nula |
-| Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água | Perímetros de proteção de captações de água |
+| Perímetros de proteção de captações de água |  |  |  |
 | Lomba/Pedreira/Cinzeiro | Nascentes | ZP Imediata | Nula |
 | Lomba/Pedreira/Cinzeiro | Nascentes | ZP Imediata | Nula |
 | Lomba/Pedreira/Cinzeiro | Nascentes | ZP Imediata | Nula |
 | Lomba/Pedreira/Cinzeiro | Nascentes | ZP Imediata | Nula |
 | Lomba | Nascentes | ZP Intermédia | Nula |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Nula, baixa, média, alta |
 | Cursos de água | Elementos bases |  | Nula, baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
@@ -3286,11 +3410,13 @@ Representação gráfica da proporção dos edifícios/elementos vulneráveis po
 
 Identificação, categoria de vulnerabilidade (baixa/média/elevada) e para os vários edifícios/elementos vulneráveis a inundações/galgamentos para as frentes marítimas onde foram identificados riscos potenciais significativos
 
-![](https://files.diariodarepublica.pt/images/901693817/901860693.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860693.png) |
+| --- |
 
 Figura 79 - Carta de risco a inundações/galgamentos para a frente marítima de São Roque (ilha do Pico)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860694.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860694.png) |
+| --- |
 
 Figura 80 - Percentagem de elementos expostos a cada classe vulnerabilidade a inundações/galgamentos para a frente marítima de São Roque - Ilha do Pico
 
@@ -3302,7 +3428,7 @@ Tabela 51 - Elementos vulneráveis para a frente marítima de São Roque - Ilha 
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | Doce Lar - Serviço de Apoio Domiciliário | Lares de idosos |  | Alta |
 | PSP - Esquadra de São Roque | Forças de segurança |  | Baixa |
 | GNR - Posto Territorial de São Roque do Pico | Forças de segurança |  | Alta |
@@ -3311,37 +3437,39 @@ Tabela 51 - Elementos vulneráveis para a frente marítima de São Roque - Ilha 
 | Farmácia Picoense | Farmácias |  | Média |
 | Capela Santo Expedito | Igrejas |  | Alta |
 | Sem designação | Faróis |  | Alta |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Terras aráveis | Ocupação do solo |  | Baixa, média, alta |
 | Culturas permanentes | Ocupação do solo |  | Baixa, média, alta |
 | Prados/pastagens | Ocupação do solo |  | Baixa, média, alta |
-| Atividades industriais | Atividades industriais | Atividades industriais | Atividades industriais |
+| Atividades industriais |  |  |  |
 | Áreas portuárias | Ocupação do solo |  | Baixa, média, alta |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | Cais do Pico | Rede de abastecimento de água |  | Baixa, média, alta |
 | Nateiro | Rede de abastecimento de água |  | Baixa, média, alta |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Baixa, média, alta |
 | Estradas regionais | Rede viária |  | Baixa, média, alta |
-| Zonas balneares | Zonas balneares | Zonas balneares | Zonas balneares |
+| Zonas balneares |  |  |  |
 | Antigo Porto de São Roque |  |  | Alta |
 | Zona Balnear Rampa do Cais do Pico |  |  | Média, alta |
 | Zona Balnear da Piscina Cais do Pico |  |  | Alta |
 | Zona Balnear das Poças |  |  | Média, alta |
 | Ponte Nova |  |  | Alta |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Baixa, média, alta |
 | Cursos de água | Elementos bases |  | Baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Média, alta |
 | Estações de feixes hertzianos | Outros elementos |  | Nula |
 | Rede elétrica | Outros elementos |  | Baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860695.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860695.png) |
+| --- |
 
 Figura 81 - Carta de risco a inundações/galgamentos para a frente marítima de São Roque (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860696.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860696.png) |
+| --- |
 
 Figura 82 - Percentagem de elementos expostos a cada classe vulnerabilidade a inundações/galgamentos para a frente marítima de São Roque - Ilha de São Miguel
 
@@ -3353,37 +3481,39 @@ Tabela 52 - Elementos vulneráveis para a frente marítima de São Roque - Ilha 
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | Centro Social e Paroquial de São Roque | Creches/infantários |  | Média |
 | EB1/JI São Roque (Poço Velho) | Estabelecimentos de ensino |  | Baixa |
 | EB1/JI de São Roque II (Canada das Maricas) | Estabelecimentos de ensino |  | Baixa |
 | Farmácia São Roque | Farmácias |  | Média |
 | Centro Social e Paroquial de São Roque | Ateliers de tempos livres |  | Média |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Terras aráveis | Ocupação do solo |  | Baixa, média, alta |
 | Culturas permanentes | Ocupação do solo |  | Média, média |
 | Prados/pastagens | Ocupação do solo |  | Baixa |
-| Atividades industriais | Atividades industriais | Atividades industriais | Atividades industriais |
+| Atividades industriais |  |  |  |
 | Indústria, comércio, equipamentos gerais e infraestruturas | Ocupação do solo |  | Baixa |
 | Pico 74 - São Roque | Áreas de extração de massas minerais consolidadas | Abandonada | Média |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Baixa, média, alta |
 | Estradas regionais | Rede viária |  | Baixa, média, alta |
-| Zonas balneares | Zonas balneares | Zonas balneares | Zonas balneares |
+| Zonas balneares |  |  |  |
 | Praia de São Roque | Zonas balneares |  | Alta |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Baixa, média, alta |
 | Miradouro do Ilhéu de Rosto de Cão | Miradouros |  | Baixa |
 | Rede elétrica | Outros elementos |  | Baixa, média, alta |
 | Calheta | Rede de águas residuais |  | Baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860697.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860697.png) |
+| --- |
 
 Figura 83 - Carta de risco a inundações/galgamentos para a frente marítima de Santa Cruz - Lagoa (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860698.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860698.png) |
+| --- |
 
 Figura 84 - Percentagem de elementos expostos a cada classe vulnerabilidade a inundações/galgamentos para a frente marítima de Santa Cruz - Lagoa - Ilha de São Miguel
 
@@ -3395,16 +3525,16 @@ Tabela 53 - Elementos vulneráveis para a frente marítima de Santa Cruz - Lagoa
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | Campo de Futebol de Praia de Santa Cruz | Equipamentos desportivos |  | Nula |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | Zona baixa da Lagoa | Rede de abastecimento de água |  | Baixa, média, alta |
 | Zona média da Lagoa | Rede de abastecimento de água |  | Baixa, média, alta |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Baixa, média, alta |
 | Estradas regionais | Rede viária |  | Baixa, média, alta |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Baixa, média, alta |
 | Rede elétrica | Outros elementos |  | Baixa, média, alta |
@@ -3413,11 +3543,13 @@ Tabela 53 - Elementos vulneráveis para a frente marítima de Santa Cruz - Lagoa
 | Lomba do Pomar | Rede de águas residuais |  | Nula, baixa, média, alta |
 | Lomba do Loução | Rede de águas residuais |  | Nula, baixa, média, alta |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860699.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860699.png) |
+| --- |
 
 Figura 85 - Carta de risco a inundações/galgamentos para a frente marítima da Ribeira Quente (ilha de São Miguel)
 
-![](https://files.diariodarepublica.pt/images/901693817/901860700.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860700.png) |
+| --- |
 
 Figura 86 - Percentagem de elementos expostos a cada classe vulnerabilidade a inundações/galgamentos para a frente marítima da Ribeira Quente - Ilha de São Miguel
 
@@ -3429,21 +3561,21 @@ Tabela 54 - Elementos vulneráveis para a frente marítima da Ribeira Quente - I
 
 | Designação | Tipologia | Localização | Classe de suscetibilidade |
 | --- | --- | --- | --- |
-| Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis | Edifícios sensíveis |
+| Edifícios sensíveis |  |  |  |
 | EB1/JI da Ribeira Quente | Estabelecimentos de ensino |  | Média |
 | Centro Social e Paroquial da Ribeira Quente | Ateliers de tempos livres |  | Média |
-| Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada | Tipo de atividade económica da zona potencialmente afetada |
+| Tipo de atividade económica da zona potencialmente afetada |  |  |  |
 | Culturas permanentes | Ocupação do solo |  | Baixa, média, alta |
-| Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais | Infraestruturas de abastecimento de água/águas residuais |
+| Infraestruturas de abastecimento de água/águas residuais |  |  |  |
 | Ribeira Quente | Rede de abastecimento de água |  | Baixa, média, alta |
 | Adutoras | Adutoras |  | Baixa |
-| Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias | Infraestruturas rodoviárias |
+| Infraestruturas rodoviárias |  |  |  |
 | Caminhos municipais | Rede viária |  | Baixa, média, alta |
 | Estradas secundárias | Rede viária |  | Baixa, média, alta |
 | Estradas regionais | Rede viária |  | Baixa, média, alta |
-| Zonas balneares | Zonas balneares | Zonas balneares | Zonas balneares |
+| Zonas balneares |  |  |  |
 | Ribeira Quente | Zonas balneares |  | Alta |
-| Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis | Outros elementos sensíveis |
+| Outros elementos sensíveis |  |  |  |
 | Edificado | Elementos bases |  | Baixa, média, alta |
 | Tecido urbano | Ocupação do solo |  | Nula, baixa, média, alta |
 | Rede elétrica | Outros elementos |  | Baixa, média, alta |
@@ -3453,76 +3585,115 @@ Tabela 54 - Elementos vulneráveis para a frente marítima da Ribeira Quente - I
 
 Ficha de medidas
 
-![](https://files.diariodarepublica.pt/images/901693817/901860701.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860701.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860702.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860702.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860703.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860703.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860704.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860704.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860705.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860705.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860706.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860706.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860707.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860707.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860708.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860708.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860709.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860709.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860710.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860710.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860711.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860711.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860712.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860712.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860713.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860713.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860714.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860714.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860715.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860715.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860716.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860716.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860717.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860717.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860718.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860718.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860719.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860719.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860720.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860720.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860721.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860721.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860722.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860722.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860723.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860723.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860724.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860724.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860725.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860725.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860726.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860726.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860727.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860727.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860728.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860728.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860729.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860729.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860730.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860730.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860731.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860731.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860732.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860732.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860733.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860733.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860734.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860734.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860735.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860735.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860736.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860736.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901693817/901860737.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901693817/901860737.png) |
+| --- |
+
+118488068

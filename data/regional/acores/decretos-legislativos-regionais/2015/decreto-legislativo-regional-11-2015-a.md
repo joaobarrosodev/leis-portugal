@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07200/0185201858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2015/04/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7aeac4ce860280091151a7976cf452cff037108e543dd792e3c9df8390d543b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d32f371594b16e2bbea73fd48fe3001a8e9cab33efccfe8ad8d28c35f2f04ec9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Apoio Administrativo
-- Região Autónoma
+- Autarquia Local
 - Conselho de ILHA
 - Definição de Competências
+- Região Autónoma
 - Regime Jurídico
-- Açores
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/21/1999/07/10/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/21/1999/07/10/a/dre
+- type: cites
+  target: pt:dre:375456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498726:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
+  article_count: 38
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:55Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +154,9 @@ l) Um representante da Universidade dos Açores nas ilhas onde estão localizado
 
 2 - Podem ainda ser convidados a participar nas reuniões do conselho de ilha, outras entidades ou personalidades da ilha ou da Região, em função das matérias em apreciação.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -154,7 +164,9 @@ l) Um representante da Universidade dos Açores nas ilhas onde estão localizado
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os representantes a que se refere a alínea e) do n.º 1 do artigo 2.º são indicados pelas associações comerciais ou industriais com sede na respetiva ilha, preferencialmente, de entre os seus associados que nela exerçam atividade, devendo abranger o máximo número possível dos respetivos subsetores de atividade.
 
@@ -168,7 +180,9 @@ l) Um representante da Universidade dos Açores nas ilhas onde estão localizado
 
 6 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os representantes a que se refere a alínea f) do n.º 1 do artigo 2.º são indicados pelos sindicatos com sede na respetiva ilha, de entre os sindicalizados que nela residam, devendo abranger o máximo número possível dos respetivos subsetores de atividade.
 
@@ -182,7 +196,9 @@ l) Um representante da Universidade dos Açores nas ilhas onde estão localizado
 
 6 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os representantes a que se refere a alínea g) do n.º 1 do artigo 2.º são indicados pelas associações agrícolas com sede na respetiva ilha, preferencialmente, de entre os seus associados que nela exerçam atividade, devendo abranger o máximo número possível dos respetivos subsetores de atividade.
 
@@ -196,7 +212,9 @@ l) Um representante da Universidade dos Açores nas ilhas onde estão localizado
 
 6 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -206,7 +224,9 @@ l) Um representante da Universidade dos Açores nas ilhas onde estão localizado
 
 4 - A mesa do conselho de ilha funciona como comissão permanente do respetivo órgão.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...].
 
@@ -218,13 +238,17 @@ l) Um representante da Universidade dos Açores nas ilhas onde estão localizado
 
 5 - Nas reuniões do conselho de ilha haverá um período previsto na respetiva convocatória para intervenção do público, devendo ser-lhe prestados os esclarecimentos necessários.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [Anterior corpo do artigo].
 
 2 - Do regimento do conselho de ilha pode constar o respetivo funcionamento por comissões setoriais, sem prejuízo das competências do plenário.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - O departamento do Governo Regional competente em matéria de administração pública assume os encargos referentes às senhas de presença devidas pela realização das reuniões ordinárias e extraordinárias, sendo que estas últimas têm por limite um número máximo de três por ano.
 
@@ -248,7 +272,9 @@ Representantes das associações do setor das pescas, das instituições particu
 
 6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado.
 
-###### Artigo 7.º-B — Representante da Universidade dos Açores
+Artigo 7.º-B
+
+Representante da Universidade dos Açores
 
 1 - O representante a que se refere a alínea l) do n.º 1 do artigo 2.º é indicado pelos respetivos campus da Universidade dos Açores.
 
@@ -272,11 +298,11 @@ O presente diploma entre em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de janeiro de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 18 de março de 2015.**
+Assinado em Angra do Heroísmo em 18 de março de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

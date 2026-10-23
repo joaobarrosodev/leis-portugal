@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2019/11/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2019-125902778
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dd8dba47ec468916b16f09a9d4ff4d7ea9f1cbf16357f5cb4c3c92b263fe5f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e86805881c9cad20d44daae5bdf2dffe0d359b8b8c82bdebde17cdd0270c926e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,54 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
 - Aparelho Científico
-- Gás Natural
 - Armazenagem
 - Certificação Electrónica
+- Certificação Energética dos Edifícios
 - Certificação Profissional
 - Certificado de Conformidade
-- Multa
-- Obras Particulares
-- Entidade Certificadora
-- Governo Regional
+- Certificado de Qualidade
+- Combustível
 - Contra-ordenação
 - Definição de Competências
+- Direção Geral de Energia e Geologia
 - Distribuição de Gás
 - Edifício Administrativo
 - Edifício Público
+- Eficiência Energética
+- Entidade Certificadora
 - Especificação Técnica
-- Instalação de GÁS
-- Segurança Pública
-- Combustível
 - Fiscalização
-- Direção Geral de Energia e Geologia
+- Gás Natural
 - Gás Propano
-- Certificação Energética dos Edifícios
+- Governo Regional
+- Habitação
 - Indústria da Construção
+- Instalação de GÁS
 - Licenciamento
-- Certificado de Qualidade
+- Multa
 - Normas de Construção
 - Normas de Segurança
+- Obras Particulares
 - Obras Públicas
 - Página na Internet
-- Urbanismo
+- Plataforma Eletrónica
+- Prédio Urbano
 - Prestação de Serviços
 - Qualificação Profissional
 - Rede Pública de Gás Natural
 - Regime Jurídico
 - Regulamento
-- Habitação
 - Segurança das Instalações
 - Segurança dos Edifícios
+- Segurança Pública
 - Servidão de GAS
-- Açores
-- Prédio Urbano
-- Eficiência Energética
 - Taxa
 - TAXA de Prestação de Serviços
+- Urbanismo
 - Vistoria
-- Plataforma Eletrónica
 relationships:
 - type: cites
   target: celex:32002L0091
@@ -158,16 +158,176 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/59/2018/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/59/2018/08/21/p/dre
+- type: cites
+  target: pt:dre:107541411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107987278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108016474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108265121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116130013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116734769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123279819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123545109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25343691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:410918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56501680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66528824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70423756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70497202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73399498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75216373:por
+  label: null
+  source: null
 article_structure:
   article_count: 35
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:30Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +364,7 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos te
 
 1 - As características do gás butano (CAS 68512-91-4) a considerar na elaboração dos projetos a tanto referentes, bem como a pressão de alimentação das instalações, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf)
 
 2 - Os valores referidos no número anterior são meramente indicativos e podem ser substituídos desde que o projetista responsável pelo dimensionamento da rede, ramal ou instalação de gás justifique a sua origem.
 
@@ -212,7 +372,7 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos te
 
 4 - Sem prejuízo do disposto no n.º 1, as redes e instalações de gás ficam sujeitas aos regimes de pressões e velocidades constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf)
 
 ###### Artigo 4.º — Projeto
 
@@ -662,11 +822,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de setembro de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 22 de outubro de 2019.**
+Assinado em Angra do Heroísmo em 22 de outubro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -706,7 +866,7 @@ Declaração de conformidade de execução
 
 ... (2), com sede em ..., detentora da credencial n.º ..., emitida em ..., consoante o disposto na [Lei n.º 15/2015](https://diariodarepublica.pt/dr/detalhe/lei/15-2015-66528824), de 16 de fevereiro, pela Direção Regional da Energia/ Direção-Geral de Energia e Geologia, declara haver (3) executado/alterado/ampliado/reparado/efetuado uma operação de manutenção/instalação de gás combustível de 3.ª família/montagem de aparelhos alimentados diretamente por garrafas de gás de 3.ª família colocadas no local de consumo através de tubagem flexível (3), constituída pelos seguintes aparelhos (4):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf)
 
 sita na ..., em conformidade com a legislação vigente e as regras técnicas aplicáveis, sob a responsabilidade do técnico de gás ... (5), detentor da licença n.º ..., emitida por ... em...
 
@@ -744,7 +904,7 @@ Extraordinária []
 
 A entidade inspetora... (1), com sede em ..., reconhecida pela Direção Regional da Energia/Direção-Geral de Energia e Geologia, declara haver inspecionado, em ..., as partes visíveis da instalação de gás/montagem dos aparelhos de gás/condições de ventilação e exaustão dos produtos de combustão (2) situada em ... (3), constituída pelos seguintes aparelhos (4):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21300/0001100027.pdf)
 
 a solicitação de ... (5).
 
@@ -769,3 +929,5 @@ Certifica que as partes visíveis da instalação de gás/montagem dos aparelhos
 (6) Natureza da inspeção: inicial/periódica/extraordinária.
 
 (7) As assinaturas são as do técnico de gás e do diretor técnico da entidade inspetora de gás.
+
+112692274

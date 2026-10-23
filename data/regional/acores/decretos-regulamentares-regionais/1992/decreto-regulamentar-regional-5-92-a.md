@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/1992/02/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1992-149826
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf5c65237e350898d552b8d2101b2469ed5aa041febf6907d62f44ad719df46a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce2e7efeee82edd486dcef6c8828845e1cd21d6d94e1827beb49c6c6a6561fa2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
+- Estabelecimento Hospitalar
 - Ponta Delgada
 - Quadro de Pessoal
-- Estabelecimento Hospitalar
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:658216:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:658216:por
+  label: "Substituído o quadro de pessoal do Hospital de Angra do Heroísmo, aprovado pelo DRR 4/86/A, 25-Jan, com as alterações\
+    \ introduzidas presente diploma e pelos DRR 3/87/A, de 21-Jan, 28/87/A, de 12-Set, 28/90/A, de 06-Set, 35/90/A, de 03-Dez,\
+    \ 30/91/A, de 27-Set, e 19/92/A, de 28-Abr, pelo DRR.4/93/A.1993.01.11.GR-RAA, DR.IS-B [49] de 27/Fev/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1993-658216
+  date: '1993-01-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:12Z'
   warnings: []
   errors: []
 ---
@@ -109,22 +120,22 @@ O presente decreto regulamentar regional entra em vigor na data da sua publicaç
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 20 de Novembro de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 2 de Janeiro de 1992.**
+Assinado em Angra do Heroísmo em 2 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 Quadro I a que se refere o artigo 1.º
 
 Hospital de Angra do Heroísmo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf))](https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf)
 
 Quadro II a que se refere o artigo 1.º
 
 Hospital de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf))](https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf)

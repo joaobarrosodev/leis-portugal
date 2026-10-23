@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/268b00/53445345.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/43/1992/11/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-1992-584787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a03d4911185a0991c750db7860536b9f19cd59ce82bf2e89f5e3e4224b2074f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f42d5187e210de2b620a16d563e8b37f67fa4818a9e48d49afcb50879c6a226
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Centro de Estudo Conservação e Restauro dos Açores
 - Direcção Regional dos Assuntos Culturais
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:584457:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462003:por
+  label: "Alterado o artigo 19.º e o quadro de pessoal do Centro de Estudo Conservação e Restauro dos Açores, aprovado pelo\
+    \ Decreto Regulamentar Regional n.º 41/91/A, de 18 de Dezembro, na redacção do presente diploma, pelo DRR.12/95/A.18.07.1995.GR-RAA,\
+    \ DR.IS-B [164] de 18.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1995-462003
+  date: '1995-07-18'
+- type: amended_by
+  target: pt:dre:427644:por
+  label: "Alterado o artigo 19.º e o quadro de pessoal do Centro de Estudo Conservação e Restauro dos Açores, aprovado pelo\
+    \ Decreto Regulamentar Regional n.º 41/91/A, de 18 de Dezembro, na redacção do presente diploma, pelo DRR.28/96/A.25.06.1996.SREC-RAA,\
+    \ DR.IS-B [145] de 25.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-1996-427644
+  date: '1996-06-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/41/1991/12/18/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/41/1991/12/18/a/dre
+- type: cites
+  target: pt:dre:371378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584457:por
+  label: "Revogado pelo DRR.36/2000/A.2000.11.10.SREAS-RAA DR.IS-B [282] DE 07/DEZ/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2000-584457
+  date: '2000-11-10'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:10Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +128,7 @@ O trabalho especializado na área da conservação e restauro de obras de arte, 
 
 Assim, em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 19.º do [Decreto Regulamentar Regional n.º 41/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1991-371378), de 18 de Dezembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 19.º do [Decreto Regulamentar Regional n.º 41/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1991-371378), de 18 de Dezembro, passa a ter a seguinte redacção:
 
 ###### Artigo 19.º — Transição de pessoal
 
@@ -109,20 +136,20 @@ Assim, em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82
 
 2 - O auxiliar técnico de conservação e restauro que desempenha, há mais de 10 anos, funções de apoio à conservação e restauro de obras transita para a categoria de preparador de conservação e restauro de obras de arte, em escalão correspondente ao índice que actualmente aufere ou, se este não existir, em escalão imediatamente superior.
 
-###### Art. 2.º O quadro de pessoal do Centro de Estudo, Conservação e Restauro dos Açores é alterado de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.
+Art. 2.º O quadro de pessoal do Centro de Estudo, Conservação e Restauro dos Açores é alterado de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 17 de Setembro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo, em 14 de Outubro de 1992.**
+Assinado em Angra do Heroísmo, em 14 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 2.º
 
 Centro de Estudo, Conservação e Restauro dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/268b00/53445345.pdf))](https://files.diariodarepublica.pt/1s/1992/11/268b00/53445345.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/268b00/53445345.pdf)

@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1982-397894
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2619d17174af05fe706fad1f8fec406b979c0cd9cac506492bd4923d9396fb15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f19cd6b7976977a0471dda2a8e3e808933144e73ab207804842ddf019a67719
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Deslocação em Serviço
+- Subsídio de Viagem
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:44Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +92,7 @@ Considerando que há conveniência em prever normas sobre o pagamento das viagen
 
 O Governo decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º Os titulares dos lugares dos quadros regionais de categoria igual ou superior à de técnico superior de 1.ª classe ou equivalente ocupados em comissão de serviço ou em regime de requisição por um período não inferior a 6 meses quando tenham tido que se deslocar do continente para a Região a pedido e no interesse desta ou dentro da Região, de uma ilha para outra, têm direito ao seguinte:
+Artigo 1.º Os titulares dos lugares dos quadros regionais de categoria igual ou superior à de técnico superior de 1.ª classe ou equivalente ocupados em comissão de serviço ou em regime de requisição por um período não inferior a 6 meses quando tenham tido que se deslocar do continente para a Região a pedido e no interesse desta ou dentro da Região, de uma ilha para outra, têm direito ao seguinte:
 
 a) Passagens de avião de ida e volta para si e para o seu agregado familiar;
 
@@ -97,20 +100,20 @@ b) Transporte de ida e volta, por via marítima, de bagagens até ao limite de 2
 
 c) Transporte de ida e volta por via marítima de uma viatura automóvel ligeira.
 
-###### Art. 2.º Para os efeitos do artigo anterior, considera-se agregado familiar o cônjuge, os filhos menores e os filhos e os ascendentes que, por invalidez, incapacidade ou doença coabitem com o funcionário ou agente.
+Art. 2.º Para os efeitos do artigo anterior, considera-se agregado familiar o cônjuge, os filhos menores e os filhos e os ascendentes que, por invalidez, incapacidade ou doença coabitem com o funcionário ou agente.
 
-###### Art. 3.º Os funcionários e agentes mencionados no artigo 1.º terão de reembolsar a Região dos encargos referidos naquele artigo caso dêem por finda, a seu pedido e sem motivos ponderosos, a comissão de serviço ou a requisição, sem que tenha decorrido metade do prazo da respectiva comissão de serviço ou requisição.
+Art. 3.º Os funcionários e agentes mencionados no artigo 1.º terão de reembolsar a Região dos encargos referidos naquele artigo caso dêem por finda, a seu pedido e sem motivos ponderosos, a comissão de serviço ou a requisição, sem que tenha decorrido metade do prazo da respectiva comissão de serviço ou requisição.
 
-###### Art. 4.º O pessoal nas condições referidas nos artigos anteriores que ocupe lugares dos quadros regionais de categoria igual ou inferior à de técnico superior de 2.ª classe ou equivalente, bem como o pessoal recrutado fora da Região para o exercício de funções nas carreiras de técnico superior e de técnico tem direito somente a passagens.
+Art. 4.º O pessoal nas condições referidas nos artigos anteriores que ocupe lugares dos quadros regionais de categoria igual ou inferior à de técnico superior de 2.ª classe ou equivalente, bem como o pessoal recrutado fora da Região para o exercício de funções nas carreiras de técnico superior e de técnico tem direito somente a passagens.
 
-###### Art. 5.º Este diploma entra em vigor na data da sua publicação.
+Art. 5.º Este diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo em 16 de Junho de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Julho de 1982.**
+Assinado em Angra do Heroísmo em 20 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

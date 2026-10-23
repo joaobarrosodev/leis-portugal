@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/05400/08340836.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1983-309886
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d4c2dd75c6865e2c8f7fe49b2ee41565d3d7955819c9a063a1f14fac546e943
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3246bedce276e8fb9d01d382bad50c20d2369ecc876f13eb749ec90bed92077c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Previdência Agro-pecuária
+- Madeira.região Autónoma
+- Seguro Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:189511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:189511:por
+  label: "Revogado a partir de 31.12.2012 (nos termos do nº 7 do art. 60º e do nº 2 do art. 62º) e extinto o Fundo Madeirense\
+    \ do Seguro de Colheitas pelo DLR.42/2012/M.31.12.2012.AL-RAM, DR.IS [252] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:50Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +117,11 @@ O Fundo de Previdência Agro-Pecuário (FPA), criado pelo [Decreto Regional n.º
 
 Assim, nos termos da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional da Madeira decreta para valer como lei o seguinte:
 
-###### Artigo 1.º - 1 - É instituído na Região Autónoma da Madeira o seguro de colheitas.
+Artigo 1.º - 1 - É instituído na Região Autónoma da Madeira o seguro de colheitas.
 
 2 - O seguro de colheitas tem carácter voluntário, excepto nos casos em que venha a ser, através de diploma legal, tornado obrigatório.
 
-###### Art. 2.º - 1 - O seguro abrange as seguintes culturas: vinhas de castas europeias, banana, cana-de-açúcar, batata (semilha), batata-doce, culturas hortícolas em estufa, floricultura (sob coberto e outras previstas no respectivo plano de fomento florícola), fruticultura, feijão verde, morango e tomate.
+Art. 2.º - 1 - O seguro abrange as seguintes culturas: vinhas de castas europeias, banana, cana-de-açúcar, batata (semilha), batata-doce, culturas hortícolas em estufa, floricultura (sob coberto e outras previstas no respectivo plano de fomento florícola), fruticultura, feijão verde, morango e tomate.
 
 2 - O seguro poderá cobrir os seguintes riscos: incêndio, raio, explosão, vento forte, tromba-d'água, granizo, efeitos de acção do mar e seca manifesta e continuada.
 
@@ -112,7 +129,7 @@ Assim, nos termos da alínea a) do artigo 229.º da Constituição e da alínea 
 
 4 - Os alargamentos previstos no número anterior, bem como a respectiva regulamentação, serão efectuados através de despacho conjunto dos Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças, mediante proposta apresentada pela comissão de gestão do Fundo referida no artigo 9.º
 
-###### Art. 3.º - 1 - O seguro garantirá ao agricultor os prejuízos sofridos pelas culturas abrangidas pelo contrato de seguro e que tenham origem em qualquer dos riscos cobertos pela apólice.
+Art. 3.º - 1 - O seguro garantirá ao agricultor os prejuízos sofridos pelas culturas abrangidas pelo contrato de seguro e que tenham origem em qualquer dos riscos cobertos pela apólice.
 
 2 - O montante da indemnização corresponderá, sem prejuízo do disposto nos números seguintes, ao valor da produção final, deduzidos os encargos inerentes às operações culturais não efectuadas.
 
@@ -122,21 +139,21 @@ Assim, nos termos da alínea a) do artigo 229.º da Constituição e da alínea 
 
 5 - Quando o sinistro ocorrer numa fase do ciclo produtivo em que técnica e economicamente seja viável a renovação, da cultura ou a implantação de uma outra de substituição, os prejuízos a indemnizar serão apenas os correspondentes aos encargos suportados até à data do sinistro.
 
-###### Art. 4.º - 1 - Para efeitos de cálculo do valor do seguro e do montante da indemnização em caso de sinistro, serão consideradas as produções unitárias regionais no último decénio, e os preços de garantia ou de intervenção, acrescidos de eventuais subsídios, ou, na ausência de tais preços, os praticados regionalmente.
+Art. 4.º - 1 - Para efeitos de cálculo do valor do seguro e do montante da indemnização em caso de sinistro, serão consideradas as produções unitárias regionais no último decénio, e os preços de garantia ou de intervenção, acrescidos de eventuais subsídios, ou, na ausência de tais preços, os praticados regionalmente.
 
 2 - No caso de as produções declaradas na proposta de seguro se afastarem consideravelmente das produções médias referidas no número anterior, recai sobre o segurado o ónus de apresentar prova bastante de tal facto.
 
-###### Art. 5.º - 1 - O seguro de colheitas poderá ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo «Agrícola e Pecuário» e contratado individual ou colectivamente.
+Art. 5.º - 1 - O seguro de colheitas poderá ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo «Agrícola e Pecuário» e contratado individual ou colectivamente.
 
 2 - O seguro de colheitas é explorado em regime de pool, constituído por todas as seguradoras que, na Região Autónoma da Madeira, explorem o ramo «Agrícola e Pecuária», com vista à divisão equitativa das responsabilidades de cada uma.
 
-###### Art. 6.º - 1 - A Região Autónoma da Madeira bonificará os prémios de seguro de colheitas segundo critérios que tenham em atenção o ordenamento cultural, a estrutura produtiva da Região, o nível técnico das explorações e a rentabilidade das culturas.
+Art. 6.º - 1 - A Região Autónoma da Madeira bonificará os prémios de seguro de colheitas segundo critérios que tenham em atenção o ordenamento cultural, a estrutura produtiva da Região, o nível técnico das explorações e a rentabilidade das culturas.
 
 2 - A Região Autónoma da Madeira poderá ainda vir a bonificar, com base em critérios análogos aos referidos no número anterior, os prémios de seguro pecuário.
 
 3 - As bonificações previstas no presente artigo serão, até 31 de Outubro de cada ano, para produzir efeitos no ano seguinte, estabelecidas através de despacho conjunto dos Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças, mediante proposta apresentada pela comissão de gestão do Fundo referida no artigo 9.º
 
-###### Art. 7.º - 1 - Como instrumento de suporte de todo o seguro de colheitas, é criado o Fundo Madeirense do Seguro de Colheitas, que se destina a:
+Art. 7.º - 1 - Como instrumento de suporte de todo o seguro de colheitas, é criado o Fundo Madeirense do Seguro de Colheitas, que se destina a:
 
 a) Bonificar os prémios de seguro, de acordo com o previsto no artigo anterior;
 
@@ -148,7 +165,7 @@ d) Promover a divulgação do seguro de colheitas e do seguro pecuário.
 
 2 - Mediante acordo, o Instituto de Seguros de Portugal poderá assegurar todo o apoio administrativo de que o Fundo careça.
 
-###### Art. 8.º - 1 - Constituem receitas do Fundo Madeirense do Seguro de Colheitas:
+Art. 8.º - 1 - Constituem receitas do Fundo Madeirense do Seguro de Colheitas:
 
 a) Uma dotação do orçamento da Região Autónoma da Madeira;
 
@@ -168,7 +185,7 @@ e) Aplicações financeiras das importâncias correspondentes às dotações e p
 
 5 - No caso de o Fundo não ter disponibilidade para satisfazer integralmente as suas responsabilidades, será reforçada a dotação do orçamento da Região Autónoma da Madeira.
 
-###### Art. 9.º A gestão do Fundo Madeirense do Seguro de Colheitas será assegurada por uma comissão constituída por:
+Art. 9.º A gestão do Fundo Madeirense do Seguro de Colheitas será assegurada por uma comissão constituída por:
 
 Um representante da Secretaria Regional da Agricultura e Pescas;
 
@@ -176,7 +193,7 @@ Um representante da Secretaria Regional do Planeamento e Finanças;
 
 O representante do Governo da Região Autónoma da Madeira no conselho consultivo do Instituto de Seguros de Portugal.
 
-###### Art. 10.º Compete à comissão de gestão do Fundo Madeirense do Seguro de Colheitas:
+Art. 10.º Compete à comissão de gestão do Fundo Madeirense do Seguro de Colheitas:
 
 a) Propor anualmente às Secretarias Regionais da Agricultura e Pescas e do Planeamento e Finanças os esquemas de bonificação dos seguros de colheitas, de acordo com o previsto no artigo 6.º e na alínea a) do n.º 1 do artigo 7.º;
 
@@ -190,7 +207,7 @@ e) Propor às Secretarias Regionais da Agricultura e Pescas e do Planeamento e F
 
 f) Gerir as disponibilidades do Fundo e apresentar, nos termos legais em vigor, as contas de gerência às Secretarias Regionais da Agricultura e Pescas e do Planeamento e Finanças.
 
-###### Art. 11.º - 1 - É criada, e funcionará junto da Secretaria Regional da Agricultura e Pescas, a Comissão Consultiva Madeirense do Seguro de Colheitas, que integrará os seguintes elementos:
+Art. 11.º - 1 - É criada, e funcionará junto da Secretaria Regional da Agricultura e Pescas, a Comissão Consultiva Madeirense do Seguro de Colheitas, que integrará os seguintes elementos:
 
 Um representante da Secretaria Regional da Agricultura e Pescas;
 
@@ -208,22 +225,22 @@ Um representante das cooperativas que representam produções abrangidas pelo se
 
 2 - As competências e atribuições da comisão consultiva ora criada serão definidas por despacho conjunto dos Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças.
 
-###### Art. 12.º - 1 - A Secretaria Regional da Agricultura e Pescas prestará, de acordo com as suas possibilidades, todo o apoio necessário à actividade seguradora e à gestão do Fundo, com especial relevo para o fornecimento de elementos que permitam caracterizar as culturas abrangidas pelo seguro e os sinistros de carácter meteorológico e climatérico.
+Art. 12.º - 1 - A Secretaria Regional da Agricultura e Pescas prestará, de acordo com as suas possibilidades, todo o apoio necessário à actividade seguradora e à gestão do Fundo, com especial relevo para o fornecimento de elementos que permitam caracterizar as culturas abrangidas pelo seguro e os sinistros de carácter meteorológico e climatérico.
 
 2 - Os Serviços do Instituto Nacional de Meteorologia e Geofísica na Madeira prestarão à comissão de gestão do Fundo e à actividade seguradora todo o apoio necessário à caracterização dos riscos de natureza meteorológica e climatérica.
 
-###### Art. 13.º O presente diploma será, no prazo de 30 dias, a contar da data da sua publicação, regulamentado através de despacho conjunto dos Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças.
+Art. 13.º O presente diploma será, no prazo de 30 dias, a contar da data da sua publicação, regulamentado através de despacho conjunto dos Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças.
 
-###### Art. 14.º - 1 - É revogado o [Decreto Regional n.º 20/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1979-369840), de 18 de Setembro, que criou o Fundo de Previdência Agro-Pecuário (FPA), com a ressalva constante do número seguinte.
+Art. 14.º - 1 - É revogado o [Decreto Regional n.º 20/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1979-369840), de 18 de Setembro, que criou o Fundo de Previdência Agro-Pecuário (FPA), com a ressalva constante do número seguinte.
 
 2 - Mantém-se, todavia, em vigor o regime adoptado no que respeita ao seguro pecuário.
 
-###### Art. 15.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 15.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária aos 25 de Janeiro de 1983.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado aos 10 de Fevereiro de 1983.**
+Assinado aos 10 de Fevereiro de 1983.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

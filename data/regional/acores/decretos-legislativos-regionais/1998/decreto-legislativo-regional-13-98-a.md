@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/1998/08/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1998-431229
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89a7fa6710dbd97949cddc814a82eedad3ff830fb1017e816ec87fc24d3f658d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7a0d00261eb548f1460bead47a10833230734acdbf3fcb40a34f095198871ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
+- Comissão Consultiva
+- Direcção Regional da Cultura
 - Embarcação
+- Expropriação
 - Financiamento
 - Imóvel Classificado
-- Comissão Consultiva
-- Secretaria Regional da Educação e Assuntos Sociais
-- Direcção Regional da Cultura
-- Património Cultural
-- Expropriação
+- Inventário
 - Nomeação
 - Património Baleeiro Regional
-- Zona de Proteção
-- Protecção do Património
-- Inventário
-- Açores
+- Património Cultural
 - Prédio Urbano
+- Protecção do Património
+- Região Autónoma
+- Secretaria Regional da Educação e Assuntos Sociais
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:55021042:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:55021042:por
+  label: Alterados, os arts. 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 14.º, 15.º e 16.º do presente diploma
+    e republicado, pelo(a) Decreto Legislativo Regional n.º 13/2014/A - Diário da República n.º 141/2014, Série I de 2014-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2014-55021042
+  date: '2014-07-24'
+- type: cites
+  target: pt:dre:377540:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:513629:por
+  label: "Rectificado pela DECL-RECT.16-B/98.1998.09.30.PCM, DR.IS-A [226]3ºSupl de 30/Set/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-b-1998-513629
+  date: '1998-09-30'
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:59Z'
   warnings: []
   errors: []
 ---
@@ -273,10 +288,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 18 de Junho de 1998.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
 
-**Assinado em 17 de Julho de 1998.**
+Assinado em 17 de Julho de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

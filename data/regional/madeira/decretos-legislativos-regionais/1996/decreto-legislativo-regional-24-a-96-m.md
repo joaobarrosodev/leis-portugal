@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 280/1996, 1º Suplemento, Série I-A de 1996-12-04
   number: '280'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4366-(2) a 4366-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/280a01/00020004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24-a/1996/12/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 643440d99d501cd2ab8180e6a1e81680d8d47986a345ab1c5fd7deaab6201431
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0c6863fda6250aa6a3d58b6f490035f007011b29e6fe23f3906eb0220c1bf0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional do Turismo e Cultura
-- Governo Regional
+- Centro Internacional de Negócios da Madeira
 - Criação de Serviços
 - Definição de Competências
-- Presidência do Governo Regional
-- Centro Internacional de Negócios da Madeira
-- Secretaria Regional da Agricultura Florestas e Pescas
-- Secretaria Regional da Educação
-- Secretaria Regional do Plano e da Coordenação
-- Secretaria Regional dos Assuntos Sociais e Parlamentares
-- Orgânica
-- Zona Tributária Privilegiada
+- Governo Regional
 - Madeira.região Autónoma
+- Orgânica
+- Presidência do Governo Regional
+- Secretaria Regional da Agricultura Florestas e Pescas
 - Secretaria Regional da Economia e Cooperação Externa
+- Secretaria Regional da Educação
 - Secretaria Regional do Equipamento Social e Ambiente
 - Secretaria Regional do Plano
+- Secretaria Regional do Plano e da Coordenação
+- Secretaria Regional do Turismo e Cultura
+- Secretaria Regional dos Assuntos Sociais e Parlamentares
 - Secretaria Regional dos Recursos Humanos
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:692040:por
@@ -95,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:13Z'
   warnings: []
   errors: []
 ---
@@ -351,10 +363,10 @@ O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 19 de Novembro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado a 3 de Dezembro de 1996.**
+Assinado a 3 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

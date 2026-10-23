@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1990-573101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73a9a8ae8330f32be8b4b1e294326eb5784306181be4b6cebd2bacaa69402f8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0fe227dc90d95cd0acc54b16d0fd1831869ffac63096b8c311a64e5bc1f64c7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Comércio
+- Estabelecimento Comercial
+- Horário de Funcionamento
+relationships:
+- type: cites
+  target: pt:dre:373795:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:00Z'
   warnings: []
   errors: []
 ---
@@ -89,14 +97,14 @@ Considerando que os condicionalismos que presidiram à publicação do [Decreto 
 
 Considerando que a sede própria para disciplinar a referida matéria é o Regulamento Policial da Região Autónoma dos Açores, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo único. É revogado o [Decreto Legislativo Regional n.º 29/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1984-373795), de 4 de Setembro.
+Artigo único. É revogado o [Decreto Legislativo Regional n.º 29/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-1984-373795), de 4 de Setembro.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 31 de Maio de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 12 de Julho de 1990.**
+Assinado em Angra do Heroísmo em 12 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

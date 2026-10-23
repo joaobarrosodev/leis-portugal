@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1986-227421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40852c849026d8f6b4b659e8f7fb6a3a11f46bfef8579e69fed1ba12d453f285
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7130e7640700b3f96eeb407eed5c934409851dec112bed04462b28a571ffc086
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- CAÇA
+- Carta de Caçador
 relationships:
 - type: amended_by
   target: pt:dre:333542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:660527:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333542:por
+  label: "Revogado pelo DLR.3/90/A.18.01.1990.ALR-RAA, DR.IS [15] de 18.01.1990, com efeito à data da entrada em vigor da\
+    \ regulamentação prevista no seu art. 38.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1990-333542
+  date: '1990-01-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:32Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +112,9 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A carta de caçador destina-se a identificar o caçador e a registar o seu comportamento venatório e outras circunstâncias com interesse para a observância do regime estabelecido neste diploma.
+Artigo 1.º A carta de caçador destina-se a identificar o caçador e a registar o seu comportamento venatório e outras circunstâncias com interesse para a observância do regime estabelecido neste diploma.
 
-###### Art. 2.º - 1 - Da carta de caçador deverão constar:
+Art. 2.º - 1 - Da carta de caçador deverão constar:
 
 a) O número de emissão;
 
@@ -129,7 +142,7 @@ e) As decisões proferidas com base nesses autos, bem como as condenações sofr
 
 f) Quaisquer outras menções determinadas pela Direcção Regional dos Recursos Florestais.
 
-###### Art. 3.º - 1 - A carta de caçador é requerida em impresso próprio, ao qual deverão ser juntos:
+Art. 3.º - 1 - A carta de caçador é requerida em impresso próprio, ao qual deverão ser juntos:
 
 a) Atestado médico comprovativo de que o requerente não possui qualquer aleijão ou tara física ou fisiológica nem sofre de doença nervosa ou mental nem de deficiência de visão que lhe impeça o exercício, sem perigo, do acto venatório;
 
@@ -147,57 +160,57 @@ c) Três fotografias actuais tipo passe.
 
 6 - Para os nacionais não residentes e estrangeiros residentes em território português, o bilhete de identidade pode ser substituído pelo passaporte.
 
-###### Art. 4.º - 1 - A carta de caçador é válida durante dez ou cinco anos, consoante tenha sido emitida ou renovada antes ou depois do final do ano em que o seu titular perfizer 50 anos.
+Art. 4.º - 1 - A carta de caçador é válida durante dez ou cinco anos, consoante tenha sido emitida ou renovada antes ou depois do final do ano em que o seu titular perfizer 50 anos.
 
 2 - Os prazos de validade referidos no número anterior podem ser prorrogados pelo período máximo de um ano, quando a Direcção Regional dos Recursos Florestais o julgar conveniente.
 
-###### Art. 5.º - 1 - A carta de caçador é renovável mediante requerimento do interessado em impresso próprio, a apresentar durante os 60 dias que antecederem o tempo da sua validade.
+Art. 5.º - 1 - A carta de caçador é renovável mediante requerimento do interessado em impresso próprio, a apresentar durante os 60 dias que antecederem o tempo da sua validade.
 
 2 - O requerimento a que alude o número anterior será acompanhado dos documentos previstos nas alíneas a) e b) do n.º 1 do artigo 3.º e da carta a renovar.
 
-###### Art. 6.º - 1 - As cartas de caçador que se extraviem ou deteriorem podem ser substituídas mediante requerimento em impresso próprio.
+Art. 6.º - 1 - As cartas de caçador que se extraviem ou deteriorem podem ser substituídas mediante requerimento em impresso próprio.
 
 2 - A Direcção Regional dos Recursos Florestais emitirá uma 2.ª via, que implica a caducidade do título anterior.
 
-###### Art. 7.º Cada indivíduo só pode ser titular de uma carta de caçador.
+Art. 7.º Cada indivíduo só pode ser titular de uma carta de caçador.
 
-###### Art. 8.º Por portaria assinada pelo Secretário Regional da Agricultura e Pescas serão aprovados os modelos da carta de caçador e dos impressos referidos no presente diploma, os respectivos preços e as taxas devidas pela concessão e revalidação da referida carta.
+Art. 8.º Por portaria assinada pelo Secretário Regional da Agricultura e Pescas serão aprovados os modelos da carta de caçador e dos impressos referidos no presente diploma, os respectivos preços e as taxas devidas pela concessão e revalidação da referida carta.
 
-###### Art. 9.º - 1 - A carta de caçador cujo titular não tenha observado o disposto no artigo 5.º considera-se sem validade até à apresentação dos documentos exigidos naquele preceito, não podendo ser concedida ao mesmo qualquer licença de caça.
+Art. 9.º - 1 - A carta de caçador cujo titular não tenha observado o disposto no artigo 5.º considera-se sem validade até à apresentação dos documentos exigidos naquele preceito, não podendo ser concedida ao mesmo qualquer licença de caça.
 
 2 - As cartas nessas condições deverão ser apreendidas por qualquer autoridade ou agente da autoridade com competência para o exercício de polícia e fiscalização da caça.
 
-###### Art. 10.º Por cada carta de caçador será passada uma ficha para nela irem sendo registados todos os averbamentos que se efectuem.
+Art. 10.º Por cada carta de caçador será passada uma ficha para nela irem sendo registados todos os averbamentos que se efectuem.
 
-###### Art. 11.º Os titulares de carta de caçador são obrigados a comunicar à Direcção Regional dos Recursos Florestais, no prazo de 60 dias, quando mudem de residência permanente, através de impresso próprio, acompanhado da carta para nela ser feito o respectivo averbamento.
+Art. 11.º Os titulares de carta de caçador são obrigados a comunicar à Direcção Regional dos Recursos Florestais, no prazo de 60 dias, quando mudem de residência permanente, através de impresso próprio, acompanhado da carta para nela ser feito o respectivo averbamento.
 
-###### Art. 12.º Ao requerer a concessão da carta de caçador ou a sua revalidação, deverão os interessados declarar verbalmente se pretendem exercer a caça apenas no território da Região Autónoma dos Açores ou em todo o País para efeito do disposto nos artigos seguintes.
+Art. 12.º Ao requerer a concessão da carta de caçador ou a sua revalidação, deverão os interessados declarar verbalmente se pretendem exercer a caça apenas no território da Região Autónoma dos Açores ou em todo o País para efeito do disposto nos artigos seguintes.
 
-###### Art. 13.º Para os caçadores que pretendam caçar apenas nos Açores, a obtenção de carta de caçador fica condicionada às disposições contidas no [Decreto Legislativo Regional n.º 10/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1984-660527), de 7 de Fevereiro, e no presente regulamento.
+Art. 13.º Para os caçadores que pretendam caçar apenas nos Açores, a obtenção de carta de caçador fica condicionada às disposições contidas no [Decreto Legislativo Regional n.º 10/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1984-660527), de 7 de Fevereiro, e no presente regulamento.
 
-###### Art. 14.º - 1 - Os caçadores residentes na Região que pretendam caçar em todo o País ficam, para efeitos de obtenção de carta de caçador, sujeitos às disposições contidas na legislação de âmbito nacional.
+Art. 14.º - 1 - Os caçadores residentes na Região que pretendam caçar em todo o País ficam, para efeitos de obtenção de carta de caçador, sujeitos às disposições contidas na legislação de âmbito nacional.
 
 2 - O disposto no número anterior também se aplica aos caçadores que mudem de residência para fora da Região.
 
-###### Art. 15.º - 1 - A concessão da carta de caçador fica dependente de exame.
+Art. 15.º - 1 - A concessão da carta de caçador fica dependente de exame.
 
 2 - Fica igualmente dependente de exame a manutenção da carta de caçador quando o seu titular seja condenado por sentença transitada em julgado em interdição do direito de caçar, ainda que a pena tenha sido suspensa.
 
 3 - A Direcção Regional dos Recursos Florestais tornará pública, por meio de aviso, a data a partir da qual passa a ser obrigatória a efectivação do exame a que se referem os n.os 1 e 2 deste artigo.
 
-###### Art. 16.º - 1 - O exame consistirá na prestação de provas orais sobre as seguintes matérias: biologia das espécies cinegéticas, legislação sobre caça, cães de caça, armas e munições e seu manejo.
+Art. 16.º - 1 - O exame consistirá na prestação de provas orais sobre as seguintes matérias: biologia das espécies cinegéticas, legislação sobre caça, cães de caça, armas e munições e seu manejo.
 
 2 - Poderá exigir-se também a realização de provas práticas de tiro e manejo de armas de fogo.
 
-###### Art. 17.º A estruturação das provas e a obrigatoriedade ou não da realização de provas práticas serão definidas pela Direcção Regional dos Recursos Florestais.
+Art. 17.º A estruturação das provas e a obrigatoriedade ou não da realização de provas práticas serão definidas pela Direcção Regional dos Recursos Florestais.
 
-###### Art. 18.º Os interessados que requererem a concessão de carta de caçador serão convocados para a realização do exame num prazo não inferior a 30 dias contados da entrada do respectivo requerimento na Direcção Regional dos Recursos Florestais.
+Art. 18.º Os interessados que requererem a concessão de carta de caçador serão convocados para a realização do exame num prazo não inferior a 30 dias contados da entrada do respectivo requerimento na Direcção Regional dos Recursos Florestais.
 
-###### Art. 19.º - 1 - Em todas as provas de exame é obrigatória a identificação dos examinandos mediante a exibição do bilhete de identidade ou passaporte.
+Art. 19.º - 1 - Em todas as provas de exame é obrigatória a identificação dos examinandos mediante a exibição do bilhete de identidade ou passaporte.
 
 2 - Será impedido de prosseguir a sua prova e eliminado o examinando que perturbe a ordem ou cometa ou tente cometer qualquer fraude.
 
-###### Art. 20.º - 1 - As provas de exame serão realizadas perante os serviços da Direcção Regional dos Recursos Florestais nas respectivas ilhas em locais e datas por esta designados.
+Art. 20.º - 1 - As provas de exame serão realizadas perante os serviços da Direcção Regional dos Recursos Florestais nas respectivas ilhas em locais e datas por esta designados.
 
 2 - A apreciação das provas de exame será feita por um júri de três membros, constituído por dois técnicos da Direcção Regional dos Recursos Florestais e o presidente da comissão venatória da ilha.
 
@@ -205,28 +218,28 @@ c) Três fotografias actuais tipo passe.
 
 4 - O presidente da comissão venatória a que se refere o n.º 2 deste artigo poderá delegar tais funções noutro membro representante dos caçadores.
 
-###### Art. 21.º - 1 - Aquele que faltar às provas de exame é eliminado, excepto se apresentar justificação da falta no prazo de cinco dias.
+Art. 21.º - 1 - Aquele que faltar às provas de exame é eliminado, excepto se apresentar justificação da falta no prazo de cinco dias.
 
 2 - Caso seja aceite a justificação, será o interessado submetido a exame em prazo e local a designar nos termos do n.º 1 do artigo 20.º deste regulamento.
 
 3 - Os eliminados de exame deverão requerer nova prova mediante a apresentação do impresso próprio para a concessão de carta de caçador e dos documentos que eventualmente tenham caducado.
 
-###### Art. 22.º Serão considerados aprovados os indivíduos que respondam acertadamente a pelo menos 75% das questões formuladas nas provas orais e que nas provas práticas previstas no n.º 2 do artigo 16.º sejam considerados aptos.
+Art. 22.º Serão considerados aprovados os indivíduos que respondam acertadamente a pelo menos 75% das questões formuladas nas provas orais e que nas provas práticas previstas no n.º 2 do artigo 16.º sejam considerados aptos.
 
-###### Art. 23.º - 1 - Os reprovados no exame poderão recorrer da decisão para o director regional dos Recursos Florestais no prazo de cinco dias a contar da notificação da decisão, requerendo novo exame, o qual se realizará no prazo de 30 dias e constará de prova escrita, no que se refere às matérias constantes do n.º 1 do artigo 16.º
+Art. 23.º - 1 - Os reprovados no exame poderão recorrer da decisão para o director regional dos Recursos Florestais no prazo de cinco dias a contar da notificação da decisão, requerendo novo exame, o qual se realizará no prazo de 30 dias e constará de prova escrita, no que se refere às matérias constantes do n.º 1 do artigo 16.º
 
 2 - As provas serão efectuadas segundo o disposto no n.º 1 do artigo 20.º
 
 3 - A apreciação das provas a que se refere o n.º 1 deste artigo será feita por um júri de três membros, constituído por dois técnicos da Direcção Regional dos Recursos Florestais e o presidente da comissão venatória da ilha onde aquela Direcção Regional estiver sediada.
 
-###### Art. 24.º Os interessados que reprovarem em duas provas sucessivas só poderão requerer novo exame decorrido o prazo de um ano.
+Art. 24.º Os interessados que reprovarem em duas provas sucessivas só poderão requerer novo exame decorrido o prazo de um ano.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 20 de Fevereiro de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 14 de Abril de 1986.**
+Assinado em Angra do Heroísmo em 14 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

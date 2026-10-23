@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/053b00/09800987.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/1993/03/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1993-626433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d418599c309e8fd547553128e6a89715a16e66cb116d1572a83aeeedd8f9b8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d9a8020d9fd75c92ecaf419075d22bfec27938641ff17d93dbd3d6846ce249d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
-- Educação Especial
 - Centro de Educação Especial
 - Criação de Serviços
+- Educação Especial
 - Escola de Educação Especial
+- Estabelecimento de Ensino
 - Extinção de Serviços
 - Formas de Provimento
-- Secretaria Regional da Educação e Cultura
 - Ponta Delgada
-- Estabelecimento de Ensino
-- Açores
+- Secretaria Regional da Educação e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:639913:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197914:por
+  label: "Alterados os artigos 7.º, 36.º, 37.º, 43.º, 44.º, 45.º, revogado o n.º 4 do artigo 31.º e substituídos os quadros\
+    \ de pessoal a que se refere o n.º 1 do artigo 22.º pelo DRR.3/95/A.13.02.1995.GR-RAA, DR.IS-B [37] de 13.02.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-1995-197914
+  date: '1995-02-13'
+- type: amended_by
+  target: pt:dre:532175:por
+  label: "Substituído o quadro de pessoal da Escola de Educação Especial de Ponta Delgada, a que se refere o n.º 1 do artigo\
+    \ 22.º, e constante do mapa I anexo ao Decreto Regulamentar Regional n.º 3/95/A, de 13 de Fevereiro, pelo DRR.16/96/A.13.03.1996.SREC-RAA,\
+    \ DR.IS-B [62] de 13.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1996-532175
+  date: '1996-03-13'
+- type: amended_by
+  target: pt:dre:405363:por
+  label: "Substituídos os quadros de pessoal das Escolas de Educação Especial de Ponta Delgada e de Angra do Heroísmo, aprovados\
+    \ no presente diploma, na redacção dos Decretos Regulamentares Regionais n.ºs 3/95/A, de 13 de Fevereiro, e 16/96/A, de\
+    \ 13 de Março, pelo DRR.35/96/A.13.08.1996.SREC-RAA, DR.IS-B [187] de 13.08.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/35-1996-405363
+  date: '1996-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
   label: null
@@ -102,16 +122,103 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/9/1992/03/20/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/9/1992/03/20/a/dre
+- type: cites
+  target: pt:dre:176975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:409498:por
+  label: "Rectificado o n.º 1 do artigo 47.º e as observações das notas a) e b) do anexo II, pela DECL-RECT.59/93.31.03.1993.PCM,\
+    \ DR.IS-B [76]3ºSupl de 31.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/59-1993-409498
+  date: '1993-03-31'
+- type: repealed_by
+  target: pt:dre:639913:por
+  label: "Revogado pelo DRR.15/99/A.1999.10.27.PG-RAA, DR.IS-B [279] de 30/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-1999-639913
+  date: '1999-10-27'
 article_structure:
   article_count: 47
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:18Z'
   warnings: []
   errors: []
 ---
@@ -626,18 +733,18 @@ b) EEEAH - restantes ilhas.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 9 de Dezembro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Janeiro de 1993.**
+Assinado em Angra do Heroísmo em 11 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO I — Escola de Educação Especial de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/053b00/09800987.pdf))](https://files.diariodarepublica.pt/1s/1993/03/053b00/09800987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/053b00/09800987.pdf)
 
 ## ANEXO II — Escola de Educação Especial de Angra do Heroísmo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/053b00/09800987.pdf))](https://files.diariodarepublica.pt/1s/1993/03/053b00/09800987.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/053b00/09800987.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2011/06/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-670275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbd8cc8dd0661f4d83ebce7c346f82715287fa0111e499d7f3ecf7d09ab29fe1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a29051d2ea24a23a87fab9838edc8ff36e29b8d99bb54ccd2fb0f0e7e457c3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acampamento
+- Açores
 - Agência de Venda de Bilhetes para Espectáculos Públicos
 - Arrumador de Automóveis
-- Espetáculos e Divertimentos Públicos
-- Jogos de Fortuna e Azar
-- Multa
-- Contra-ordenação
-- Transporte Rodoviário
-- Fiscalização
-- Venda em Hasta Pública
-- Licenciamento
-- Estacionamento
-- Tauromaquia
-- Fogueira
 - Câmara Municipal
-- Regime Jurídico
+- Contra-ordenação
+- Espetáculos e Divertimentos Públicos
+- Estacionamento
+- Fiscalização
+- Fogueira
 - Guarda-nocturno
-- Açores
-- Touro de LIDE
+- Jogos de Fortuna e Azar
+- Licenciamento
+- Multa
+- Regime Jurídico
+- Tauromaquia
 - Tourada
+- Touro de LIDE
+- Transporte Rodoviário
 - Venda Ambulante
+- Venda em Hasta Pública
 relationships:
 - type: cites
   target: celex:32004R0852
@@ -101,15 +101,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/37/2008/08/05/a/dre
 article_structure:
-  article_count: 133
+  article_count: 129
   section_count: 38
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:20Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +144,7 @@ Município da Praia da Vitória
 
 Freguesia das Fontinhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 [...]»
 
@@ -158,11 +158,11 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de Maio de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 30 de Maio de 2011.**
+Assinado em Angra do Heroísmo em 30 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1082,7 +1082,9 @@ Objecto
 
 Constitui objecto do presente diploma a definição do regime específico de exercício da polícia administrativa a cargo da Região Autónoma dos Açores, bem como o licenciamento de jogos que não sejam de fortuna ou azar nem modalidades afins.
 
-###### Artigo 2.º — Competências de polícia administrativa
+Artigo 2.º
+
+Competências de polícia administrativa
 
 1 - Na Região as competências de polícia administrativa são exercidas nos termos da estrutura orgânica do Governo Regional.
 
@@ -1090,7 +1092,9 @@ Constitui objecto do presente diploma a definição do regime específico de exe
 
 3 - ...
 
-###### Artigo 4.º — Registo de hóspedes
+Artigo 4.º
+
+Registo de hóspedes
 
 1 - ...
 
@@ -1102,13 +1106,17 @@ Constitui objecto do presente diploma a definição do regime específico de exe
 
 5 - (Revogado.)
 
-###### Artigo 22.º — Regulamentação
+Artigo 22.º
+
+Regulamentação
 
 1 - ...
 
 2 - O regulamento a que se refere o número anterior é da competência da entidade competente para o licenciamento.
 
-###### Artigo 30.º — Infracções em matéria de condicionamentos
+Artigo 30.º
+
+Infracções em matéria de condicionamentos
 
 1 - ...
 
@@ -1142,147 +1150,147 @@ Município de Angra do Heroísmo
 
 Freguesia dos Altares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia das Cinco Ribeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia da Conceição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia das Doze Ribeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia da Feteira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia do Porto Judeu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia do Posto Santo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia do Raminho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia da Ribeirinha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia de Santa Bárbara
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia de Santa Luzia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia de São Bartolomeu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia de São Bento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia de São Mateus
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia de São Pedro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia de São Sebastião
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia da Serreta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia da Terra-Chã
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Município da Praia da Vitória
 
 Freguesia da Agualva
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia dos Biscoitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia do Cabo da Praia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia da Fonte do Bastardo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia das Fontinhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia das Lajes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia do Porto Martins
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia das Quatro Ribeiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia de Santa Cruz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia de São Brás
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia da Vila Nova
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Município de Santa Cruz da Graciosa
 
 Freguesia do Guadalupe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia da Luz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia da Praia (São Mateus)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Freguesia de Santa Cruz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Município das Velas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 Município da Calheta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf))](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/11800/0365903682.pdf)
 
 ## ANEXO II — Republicação do Decreto Legislativo Regional n.º 5/2003/A, de 11 de Março
 

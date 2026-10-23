@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 249/2020, 1º Suplemento, Série I de 2020-12-24
   number: '249'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 63-(9) a 63-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24901/0000900012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/28-d/2020/12/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-d-2020-152165521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 889f1773a0cc8fc4ebe5163839f33e22e435333a347ddde55588f512bdc65ddf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33ad3dffdfca6537f33d2186b1085d43e0c9c90985a61942acd99dd9c11a311c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Proteção Civil
-- Transporte Marítimo
-- Direção Geral da Saúde
-- Transporte Aéreo
-- Governo Regional
+- Açores
+- Bombeiro
+- Condições de Higiene e Segurança no Trabalho
 - Contra-ordenação
 - Contrato de Trabalho a Prazo
-- Transporte Rodoviário
 - Controlo Médico
-- Cooperação
-- Transporte Ferroviário
-- Teste Genético
-- Regulamentação de Atos Legislativos
-- Serviços de Segurança
 - Controlo Sanitário
+- Cooperação
+- Direção Geral da Saúde
+- Doença Infecciosa
+- Equipamento de Proteção
 - Equipamento Hospitalar
-- Saúde Pública
+- Estabelecimento de Ensino
 - Estabelecimento de Restauração
-- Estado de Emergência
-- Segurança Pública
-- Fiscalização
+- Estabelecimento Hospitalar
 - Estabelecimento Prisional
+- Estado de Emergência
+- Fiscalização
+- Governo Regional
+- Infraestrutura Turística
 - Isolamento Profiláctico
 - Junta de Freguesia
-- Bombeiro
-- Doença Infecciosa
-- Estabelecimento de Ensino
+- Proteção Civil
+- PSP
+- Regulamentação de Atos Legislativos
+- Saúde Pública
+- Segurança Pública
 - Serviço Público
-- Condições de Higiene e Segurança no Trabalho
-- Estabelecimento Hospitalar
-- Açores
-- Infraestrutura Turística
-- Equipamento de Proteção
+- Serviços de Segurança
+- Teste Genético
+- Transporte Aéreo
+- Transporte Ferroviário
+- Transporte Marítimo
+- Transporte Rodoviário
 relationships:
 - type: amended_by
   target: pt:dre:153341292:por
@@ -141,16 +141,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62-a/2020/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62-a/2020/10/27/p/dre
+- type: cites
+  target: pt:dre:126467884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146435561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148599586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149106929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151557411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151904698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:153341292:por
+  label: Revogado, a partir de 08.01.2021, pelo(a) Decreto Regulamentar Regional n.º 1-A/2021/A - Diário da República n.º
+    4/2021, 1º Suplemento, Série I de 2021-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-a-2021-153341292
+  date: '2021-01-07'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:37Z'
   warnings: []
   errors: []
 ---
@@ -259,10 +305,12 @@ O presente decreto entra em vigor às 00h00 do dia 24 de dezembro de 2020.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de dezembro de 2020.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 23 de dezembro de 2020.**
+Assinado em Angra do Heroísmo em 23 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+113843543

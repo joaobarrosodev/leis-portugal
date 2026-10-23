@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/11/21300/0000300039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2022/11/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2022-203029570
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed8fbd92df6ae9307d9f0cf85ef0d718e3e65fa2440980ae628c934c362a801b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8eb5358ee7cf6e6c9d0f20a32aa42e927cec1123835634769776642561ed7fab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direito Marítimo
-- Pessoal Dirigente
-- Comissão de Serviço
-- Zona Económica Exclusiva
-- Governo Regional
-- Definição de Competências
-- Autoridade Marítima Nacional
-- Mar Territorial
-- Fiscalização
-- Espaço Marítimo
-- Orgânica
-- Quadro de Pessoal
-- Secretário Regional
 - Açores
+- Autoridade Marítima Nacional
+- Comissão de Serviço
+- Definição de Competências
+- Direito Marítimo
+- Espaço Marítimo
+- Fiscalização
+- Governo Regional
+- Mar Territorial
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria Regional do Mar e das Pescas
+- Secretário Regional
 - Transferência de Competências
 - Transferência de Pessoal
-- Secretaria Regional do Mar e das Pescas
+- Zona Económica Exclusiva
 relationships:
 - type: cites
   target: celex:32008L0056
@@ -136,16 +136,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:146488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166296483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74967224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75381299:por
+  label: null
+  source: null
 article_structure:
-  article_count: 65
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:48Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +228,9 @@ Os artigos 1.º, 2.º, 4.º, 8.º, 11.º, 14.º, 16.º, 22.º a 26.º, 28.º a 3
 
 2 - No âmbito da sua missão, a SRMP define e executa a política regional em matéria de oceanografia e investigação marinha aplicada, pescas e aquicultura, valorização e preservação do meio marinho, ordenamento do espaço marítimo até ao limite exterior da zona económica exclusiva, ordenamento e cogestão integrada com o Estado, do espaço marítimo para além do limite exterior da zona económica exclusiva, definição e gestão da Rede de Áreas Marinhas Protegidas dos Açores, atividades marítimo-turísticas, cooperação com a Autoridade Marítima Nacional, colaboração com a investigação científica marinha e inspeção de pescas e usos marítimos.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 [...]
 
@@ -208,7 +250,9 @@ g) Assegurar a cooperação com entidades públicas e privadas, regionais, nacio
 
 h) Promover o controlo, a auditoria e a fiscalização em matéria das pescas e de atividades marítimo-turísticas.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -234,7 +278,9 @@ d) Serviços de controlo, auditoria e fiscalização: Inspeção Regional das Pe
 
 2 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -242,7 +288,9 @@ d) Serviços de controlo, auditoria e fiscalização: Inspeção Regional das Pe
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -304,7 +352,9 @@ w) [...]
 
 7 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A SRMP integra a Direção Regional das Pescas e a Direção Regional de Políticas Marítimas.
 
@@ -312,7 +362,9 @@ w) [...]
 
 3 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - À DRP compete:
 
@@ -320,11 +372,15 @@ w) [...]
 
 2 - O diretor regional das Pescas exerce as competências relativas ao Programa Nacional de Recolha de Dados da Pesca, no âmbito do programa mínimo a que se refere o [Regulamento (UE) 2017/1004](https://diariodarepublica.pt/application/external/eurolex?17R1004), do Parlamento Europeu e do Conselho, de 17 de maio, que institui um quadro comunitário para a recolha e gestão dos dados essenciais à condução da Política Comum das Pescas e seus atos modificativos.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 A Direção Regional de Políticas Marítimas, doravante designada por DRPM, tem por missão contribuir para a definição da política regional para a valorização económica e ambiental do espaço marítimo dos Açores, nomeadamente através do seu ordenamento, da promoção do aumento do conhecimento sobre o meio marinho, do licenciamento para os usos do mar, incluindo atividades marítimo-turísticas, bem como da tomada de medidas com vista à preservação do seu bom estado ambiental e dos recursos aí existentes.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - À DRPM compete:
 
@@ -382,7 +438,9 @@ z) [Anterior alínea y).]
 
 2 - O diretor regional de Políticas Marítimas é, por inerência, o diretor do Parque Marinho dos Açores, nos termos previstos no [Decreto Legislativo Regional n.º 28/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2011-146488), de 11 de novembro, com as alterações introduzidas pelo [Decreto Legislativo Regional n.º 13/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), de 19 de julho, e retificado pela [Declaração de Retificação n.º 1/2016/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2016-75381299), de 21 de setembro, cabendo à DRPM garantir o apoio técnico, logístico e administrativo ao seu funcionamento.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 A DRPM integra os serviços seguintes:
 
@@ -390,7 +448,9 @@ a) Direção de Serviços de Gestão Marítima;
 
 b) [...]
 
-###### Artigo 25.º — Direção de Serviços de Gestão Marítima
+Artigo 25.º
+
+Direção de Serviços de Gestão Marítima
 
 1 - À Direção de Serviços de Gestão Marítima, doravante designada por DSGM, compete:
 
@@ -454,7 +514,9 @@ cc) Assegurar a realização de outras tarefas que, no âmbito da sua área de c
 
 2 - A DSGM é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -512,7 +574,9 @@ z) [Anterior alínea y).]
 
 2 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 [...]
 
@@ -530,7 +594,9 @@ f) [...]
 
 g) [...]
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - A Inspeção Regional das Pescas e de Usos Marítimos, doravante designada por IRP, é um serviço da SRMP, com a natureza de serviço de controlo, auditoria e fiscalização, ao qual está atribuída a missão de fiscalização e controlo da pesca marítima, da aquicultura e das atividades conexas, adiante designadas por pesca, bem como das atividades marítimo-turísticas.
 
@@ -540,7 +606,9 @@ g) [...]
 
 4 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 À IRP compete:
 
@@ -570,13 +638,17 @@ l) Divulgar a legislação e demais normativos reguladores das atividades marít
 
 m) [Anterior alínea j).]
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]
 
 2 - A IRP dispõe de núcleos inspetivos desconcentrados nas ilhas de São Miguel, Terceira e do Pico.
 
-###### Artigo 32.º — Inspetor regional das Pescas e de Usos Marítimos
+Artigo 32.º
+
+Inspetor regional das Pescas e de Usos Marítimos
 
 1 - O inspetor regional das Pescas e de Usos Marítimos exerce as competências que, nos termos da lei, lhe forem atribuídas, bem como aquelas que superiormente lhe forem delegadas ou subdelegadas.
 
@@ -610,7 +682,9 @@ m) [...]
 
 3 - Nas ausências ou impedimentos do inspetor regional das Pescas e de Usos Marítimos, este é substituído pelo chefe da Divisão de Inspeção e Apoio Jurídico ou por inspetor superior designado para o efeito.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - A Divisão de Inspeção e Apoio Jurídico, doravante designada por DIAJ, tem por missão realizar ações de fiscalização e controlo da pesca e de atividades marítimo-turísticas, realizar as averiguações necessárias para a adequada e eficaz conservação e gestão de recursos haliêuticos, bem como organizar e instruir os processos de contraordenação da competência da IRP.
 
@@ -658,7 +732,9 @@ r) [Anterior alínea q).]
 
 5 - O chefe de divisão referido no número anterior é coadjuvado, no desempenho das competências previstas nas alíneas c), e) a h) do n.º 2, por inspetores superiores e, ou, técnicos superiores, designados para o efeito pelo inspetor regional das Pescas e de Usos Marítimos.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - [...]
 
@@ -676,7 +752,9 @@ f) [...]
 
 2 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -710,21 +788,29 @@ e) Levantar autos de notícia/ocorrência por infrações detetadas nas suas ár
 
 f) Executar outras tarefas que lhe sejam superiormente determinadas.
 
-## ANEXO II — [...]
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21300/0000300039.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21300/0000300039.pdf)
+[...]
 
-###### Artigo 4.º — Alteração sistemática
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21300/0000300039.pdf)
+
+Artigo 4.º
+
+Alteração sistemática
 
 1 - A epígrafe da subsecção iv da secção ii do capítulo iii do anexo i do [Decreto Regulamentar Regional n.º 12/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2021-166296483), de 2 de julho, passa a ter a redação «Direção Regional de Políticas Marítimas».
 
 2 - A epígrafe da secção iv do capítulo iii do anexo i do [Decreto Regulamentar Regional n.º 12/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2021-166296483), de 2 de julho, passa a ter a redação «Inspeção Regional das Pescas e de Usos Marítimos».
 
-###### Artigo 5.º — Comissões de serviço de pessoal dirigente
+Artigo 5.º
+
+Comissões de serviço de pessoal dirigente
 
 Nos termos do disposto na alínea c) do n.º 1 do artigo 25.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, que aprova o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Central, Regional e Local do Estado, na sua redação atual, aplicado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, que aprova o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, na sua redação atual, mantêm-se vigentes as comissões de serviço do pessoal dirigente da Secretaria Regional do Mar e das Pescas, relativas aos cargos de direção superior de 2.º grau, e de direção intermédia de 1.º e 2.º graus, ainda que objeto de alteração ou reestruturação orgânica, por força das alterações introduzidas pelo presente diploma, no pressuposto de que lhes suceda cargo dirigente do mesmo nível.
 
-###### Artigo 6.º — Norma revogatória
+Artigo 6.º
+
+Norma revogatória
 
 São revogadas a alínea c) do n.º 1 do artigo 20.º, a alínea t) do n.º 1 do artigo 21.º, as alíneas e) e i) do n.º 1 do artigo 23.º e o n.º 2 do artigo 36.º do anexo i do [Decreto Regulamentar Regional n.º 12/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2021-166296483), de 2 de julho, passando os artigos 20.º e 21.º a ter a seguinte redação:
 
@@ -766,7 +852,9 @@ n) [...]
 
 3 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -818,39 +906,53 @@ w) [...]
 
 2 - [...]»
 
-###### Artigo 7.º — Republicação
+Artigo 7.º
+
+Republicação
 
 Os anexos i e ii do [Decreto Regulamentar Regional n.º 12/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2021-166296483), de 2 de julho, são republicados em anexo ao presente diploma, do qual fazem parte integrante, com as alterações ora introduzidas.
 
-###### Artigo 8.º — Entrada em vigor
+Artigo 8.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo, em Santa Cruz das Flores, em 29 de setembro de 2022.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 26 de outubro de 2022.**
+Assinado em Angra do Heroísmo em 26 de outubro de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO — (a que se refere o artigo 7.º)
+ANEXO
+
+(a que se refere o artigo 7.º)
 
 Republicação dos anexos i e ii do [Decreto Regulamentar Regional n.º 12/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2021-166296483), de 2 de julho
 
-## ANEXO I — Orgânica e quadro de pessoal dirigente, de direção específica e de chefia da Secretaria Regional do Mar e das Pescas
+ANEXO I
 
-### CAPÍTULO I — Missão, atribuições e competências
+Orgânica e quadro de pessoal dirigente, de direção específica e de chefia da Secretaria Regional do Mar e das Pescas
 
-###### Artigo 1.º — Missão
+CAPÍTULO I
+
+Missão, atribuições e competências
+
+Artigo 1.º
+
+Missão
 
 1 - A Secretaria Regional do Mar e das Pescas, doravante designada por SRMP, tem por missão definir e executar a política do Governo Regional para o território marinho da Região Autónoma dos Açores, em matéria do mar e das pescas, no contexto regional, nacional e da União Europeia, num quadro de região ultraperiférica marítima.
 
 2 - No âmbito da sua missão, a SRMP define e executa a política regional em matéria de oceanografia e investigação marinha aplicada, pescas e aquicultura, valorização e preservação do meio marinho, ordenamento do espaço marítimo até ao limite exterior da zona económica exclusiva, ordenamento e cogestão integrada com o Estado, do espaço marítimo para além do limite exterior da zona económica exclusiva, definição e gestão da Rede de Áreas Marinhas Protegidas dos Açores, atividades marítimo-turísticas, cooperação com a Autoridade Marítima Nacional, colaboração com a investigação científica marinha e inspeção de pescas e usos marítimos.
 
-###### Artigo 2.º — Atribuições
+Artigo 2.º
+
+Atribuições
 
 São atribuições da SRMP:
 
@@ -870,7 +972,9 @@ g) Assegurar a cooperação com entidades públicas e privadas, regionais, nacio
 
 h) Promover o controlo, a auditoria e a fiscalização em matéria das pescas e de atividades marítimo-turísticas.
 
-###### Artigo 3.º — Competências
+Artigo 3.º
+
+Competências
 
 Ao Secretário Regional do Mar e das Pescas, doravante designado por Secretário Regional, compete:
 
@@ -886,9 +990,13 @@ e) Promover formas de cooperação, de assistência e de coordenação de açõe
 
 f) Exercer as demais competências que lhe sejam cometidas por lei e por outros atos normativos.
 
-### CAPÍTULO II — Estrutura orgânica
+CAPÍTULO II
 
-###### Artigo 4.º — Estrutura
+Estrutura orgânica
+
+Artigo 4.º
+
+Estrutura
 
 1 - Para a prossecução dos seus objetivos, a SRMP integra os órgãos e serviços seguintes:
 
@@ -914,31 +1022,47 @@ d) Serviços de controlo, auditoria e fiscalização: Inspeção Regional das Pe
 
 2 - Na dependência da SRMP e na tutela direta do Secretário Regional, funciona o Fundo de Compensação Salarial dos Profissionais da Pesca dos Açores, doravante designado por FUNDOPESCA, dotado de autonomia administrativa e financeira, com atribuição de prestar apoio financeiro aos profissionais da pesca quando estejam temporariamente impedidos de exercer a respetiva atividade e registem uma redução do rendimento, nos termos definidos em diploma próprio.
 
-###### Artigo 5.º — Cooperação funcional
+Artigo 5.º
+
+Cooperação funcional
 
 1 - Os órgãos e serviços da SRMP funcionam em estreita cooperação e interligação funcional, visando a plena execução das políticas regionais e a prossecução dos respetivos objetivos, atribuições e competências, designadamente na elaboração comum de projetos e programas de investigação e desenvolvimento.
 
 2 - Para efeitos do referido no número anterior, compete ao chefe do Gabinete do Secretário Regional coordenar a interligação funcional entre órgãos e serviços da SRMP.
 
-###### Artigo 6.º — Estrutura de missão e equipas de projeto
+Artigo 6.º
+
+Estrutura de missão e equipas de projeto
 
 Para a prossecução de projetos especiais ou de missões temporárias que não possam ser desenvolvidas pelos serviços previstos no presente diploma, podem ser criados grupos de trabalho, estruturas de missão e equipas de projeto, nos termos previstos no artigo 30.º do [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), de 9 de maio, que estabelece o regime jurídico de organização da administração direta da Região Autónoma dos Açores.
 
-### CAPÍTULO III — Órgãos e serviços
+CAPÍTULO III
 
-#### SECÇÃO I — Órgãos consultivos
+Órgãos e serviços
 
-###### Artigo 7.º — Conselho Regional das Pescas
+SECÇÃO I
+
+Órgãos consultivos
+
+Artigo 7.º
+
+Conselho Regional das Pescas
 
 1 - O Conselho Regional das Pescas, doravante designado por CRP, é o órgão consultivo da SRMP, ao qual estão cometidas competências de formulação das linhas gerais da política regional no domínio das pescas, indústria e atividades conexas.
 
 2 - A composição e as normas de funcionamento do CRP são definidas em diploma próprio.
 
-#### SECÇÃO II — Serviços executivos centrais
+SECÇÃO II
 
-##### SUBSECÇÃO I — Gabinete de Planeamento
+Serviços executivos centrais
 
-###### Artigo 8.º — Natureza
+SUBSECÇÃO I
+
+Gabinete de Planeamento
+
+Artigo 8.º
+
+Natureza
 
 1 - O Gabinete de Planeamento, doravante designado por GP, constitui o serviço de apoio técnico-jurídico e administrativo do Secretário Regional, do respetivo Gabinete e dos restantes serviços da SRMP.
 
@@ -946,7 +1070,9 @@ Para a prossecução de projetos especiais ou de missões temporárias que não 
 
 3 - O GP é dirigido por um diretor, equiparado, para todos os efeitos legais, a diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 9.º — Competências
+Artigo 9.º
+
+Competências
 
 Ao GP compete:
 
@@ -986,7 +1112,9 @@ q) Organizar e manter atualizado o inventário dos bens duradouros confiados aos
 
 r) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
 
-###### Artigo 10.º — Estrutura
+Artigo 10.º
+
+Estrutura
 
 O GP integra os serviços seguintes:
 
@@ -994,7 +1122,9 @@ a) Divisão de Apoio Técnico, Jurídico e Administrativo;
 
 b) Secção Financeira.
 
-###### Artigo 11.º — Divisão de Apoio Técnico, Jurídico e Administrativo
+Artigo 11.º
+
+Divisão de Apoio Técnico, Jurídico e Administrativo
 
 1 - À Divisão de Apoio Técnico, Jurídico e Administrativo, doravante designada por DATJA, compete:
 
@@ -1110,7 +1240,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 7 - A DATJA integra a Secção de Recursos Humanos.
 
-###### Artigo 12.º — Secção de Recursos Humanos
+Artigo 12.º
+
+Secção de Recursos Humanos
 
 1 - À Secção de Recursos Humanos, doravante designada por SRH, compete:
 
@@ -1128,7 +1260,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SRH é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 13.º — Secção Financeira
+Artigo 13.º
+
+Secção Financeira
 
 1 - À Secção Financeira, doravante designada por SF, compete:
 
@@ -1156,9 +1290,13 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SF é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-##### SUBSECÇÃO II — Direções regionais
+SUBSECÇÃO II
 
-###### Artigo 14.º — Competências dos diretores regionais
+Direções regionais
+
+Artigo 14.º
+
+Competências dos diretores regionais
 
 1 - A SRMP integra a Direção Regional das Pescas e a Direção Regional de Políticas Marítimas.
 
@@ -1180,13 +1318,19 @@ g) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - Os diretores regionais podem delegar ou subdelegar competências nos dirigentes sob a sua dependência hierárquica.
 
-##### SUBSECÇÃO III — Direção Regional das Pescas
+SUBSECÇÃO III
 
-###### Artigo 15.º — Missão
+Direção Regional das Pescas
+
+Artigo 15.º
+
+Missão
 
 A Direção Regional das Pescas, doravante designada por DRP, tem por missão contribuir para a definição da política regional nos domínios da pesca e da aquicultura, incluindo a indústria e atividades conexas, bem como orientar, coordenar e controlar a sua execução.
 
-###### Artigo 16.º — Competências
+Artigo 16.º
+
+Competências
 
 1 - À DRP compete:
 
@@ -1214,7 +1358,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O diretor regional das Pescas exerce as competências relativas ao Programa Nacional de Recolha de Dados da Pesca, no âmbito do programa mínimo a que se refere o [Regulamento (UE) 2017/1004](https://diariodarepublica.pt/application/external/eurolex?17R1004) do Parlamento Europeu e do Conselho, de 17 de maio, que institui um quadro comunitário para a recolha e gestão dos dados essenciais à condução da Política Comum das Pescas e seus atos modificativos.
 
-###### Artigo 17.º — Estrutura
+Artigo 17.º
+
+Estrutura
 
 A DRP integra os serviços seguintes:
 
@@ -1222,7 +1368,9 @@ a) Direção de Serviços de Planeamento e Economia Pesqueira;
 
 b) Direção de Serviços de Recursos, Frota Pesqueira e Aquicultura.
 
-###### Artigo 18.º — Direção de Serviços de Planeamento e Economia Pesqueira
+Artigo 18.º
+
+Direção de Serviços de Planeamento e Economia Pesqueira
 
 1 - À Direção de Serviços de Planeamento e Economia Pesqueira, doravante designada por DSPEP, compete:
 
@@ -1254,7 +1402,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DSPEP integra a Divisão de Gestão de Apoios Financeiros.
 
-###### Artigo 19.º — Divisão de Gestão de Apoios Financeiros
+Artigo 19.º
+
+Divisão de Gestão de Apoios Financeiros
 
 1 - À Divisão de Gestão de Apoios Financeiros, doravante designada por DGAF, compete:
 
@@ -1270,7 +1420,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGAF é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 20.º — Direção de Serviços de Recursos, Frota Pesqueira e Aquicultura
+Artigo 20.º
+
+Direção de Serviços de Recursos, Frota Pesqueira e Aquicultura
 
 1 - À Direção de Serviços de Recursos, Frota Pesqueira e Aquicultura, doravante designada por DSRFPA, compete:
 
@@ -1336,7 +1488,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DSRFPA integra a Divisão de Gestão da Frota, da Aquicultura e dos Recursos da Pesca.
 
-###### Artigo 21.º — Divisão de Gestão da Frota, da Aquicultura e dos Recursos da Pesca
+Artigo 21.º
+
+Divisão de Gestão da Frota, da Aquicultura e dos Recursos da Pesca
 
 1 - À Divisão de Gestão da Frota, da Aquicultura e dos Recursos da Pesca, doravante designada por DGFARP, compete:
 
@@ -1388,13 +1542,19 @@ w) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGFARP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-##### SUBSECÇÃO IV — Direção Regional de Políticas Marítimas
+SUBSECÇÃO IV
 
-###### Artigo 22.º — Missão
+Direção Regional de Políticas Marítimas
+
+Artigo 22.º
+
+Missão
 
 A Direção Regional de Políticas Marítimas, doravante designada por DRPM, tem por missão contribuir para a definição da política regional para a valorização económica e ambiental do espaço marítimo dos Açores, nomeadamente através do seu ordenamento, da promoção do aumento do conhecimento sobre o meio marinho, do licenciamento para os usos do mar, incluindo atividades marítimo-turísticas, bem como da tomada de medidas com vista à preservação do seu bom estado ambiental e dos recursos aí existentes.
 
-###### Artigo 23.º — Competências
+Artigo 23.º
+
+Competências
 
 1 - À DRPM compete:
 
@@ -1452,7 +1612,9 @@ z) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O diretor regional de Políticas Marítimas é, por inerência, o diretor do Parque Marinho dos Açores, nos termos previstos no [Decreto Legislativo Regional n.º 28/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2011-146488), de 11 de novembro, com as alterações introduzidas pelo [Decreto Legislativo Regional n.º 13/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), de 19 de julho, e retificado pela [Declaração de Retificação n.º 1/2016/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2016-75381299), de 21 de setembro, cabendo à DRPM garantir o apoio técnico, logístico e administrativo ao seu funcionamento.
 
-###### Artigo 24.º — Estrutura
+Artigo 24.º
+
+Estrutura
 
 A DRPM integra os serviços seguintes:
 
@@ -1460,7 +1622,9 @@ a) Direção de Serviços de Gestão Marítima;
 
 b) Direção de Serviços de Biodiversidade e Política do Mar.
 
-###### Artigo 25.º — Direção de Serviços de Gestão Marítima
+Artigo 25.º
+
+Direção de Serviços de Gestão Marítima
 
 1 - À Direção de Serviços de Gestão Marítima, doravante designada por DSGM, compete:
 
@@ -1524,7 +1688,9 @@ cc) Assegurar a realização de outras tarefas que, no âmbito da sua área de c
 
 2 - A DSGM é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 26.º — Direção de Serviços de Biodiversidade e Política do Mar
+Artigo 26.º
+
+Direção de Serviços de Biodiversidade e Política do Mar
 
 1 - À Direção de Serviços de Biodiversidade e Política do Mar, doravante designada por DSBPM, compete:
 
@@ -1582,9 +1748,13 @@ z) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DSBPM é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-#### SECÇÃO III — Serviços executivos periféricos
+SECÇÃO III
 
-###### Artigo 27.º — Serviços de ilha
+Serviços executivos periféricos
+
+Artigo 27.º
+
+Serviços de ilha
 
 1 - São serviços periféricos da SRMP os serviços de ilha seguintes:
 
@@ -1598,7 +1768,9 @@ c) Serviço de ilha das Flores.
 
 3 - Os serviços de ilha são dirigidos por delegados, equiparados, para todos os efeitos legais, a cargo de direção específica de 2.º grau, designados, para o efeito, através de despacho do Secretário Regional, nos termos do disposto no artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 28.º — Competências
+Artigo 28.º
+
+Competências
 
 Aos serviços periféricos, nas respetivas áreas geográficas de atuação, compete:
 
@@ -1616,9 +1788,13 @@ f) Encaminhar as reclamações e os requerimentos que lhes sejam apresentados;
 
 g) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
 
-#### SECÇÃO IV — Inspeção Regional das Pescas e de Usos Marítimos
+SECÇÃO IV
 
-###### Artigo 29.º — Natureza e missão
+Inspeção Regional das Pescas e de Usos Marítimos
+
+Artigo 29.º
+
+Natureza e missão
 
 1 - A Inspeção Regional das Pescas e de Usos Marítimos, doravante designada por IRP, é um serviço da SRMP, com a natureza de serviço de controlo, auditoria e fiscalização, ao qual está atribuída a missão de fiscalização e controlo da pesca marítima, da aquicultura e das atividades conexas, adiante designadas por pesca, bem como das atividades marítimo-turísticas.
 
@@ -1628,7 +1804,9 @@ g) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - A IRP é dirigida por um inspetor regional, cargo equiparado, para todos os efeitos legais, a subdiretor regional, cargo de direção superior de 2.º grau.
 
-###### Artigo 30.º — Competências
+Artigo 30.º
+
+Competências
 
 À IRP compete:
 
@@ -1658,7 +1836,9 @@ l) Divulgar a legislação e demais normativos reguladores das atividades marít
 
 m) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
 
-###### Artigo 31.º — Estrutura
+Artigo 31.º
+
+Estrutura
 
 1 - A IRP integra os serviços seguintes:
 
@@ -1668,7 +1848,9 @@ b) Secção de Apoio Administrativo.
 
 2 - A IRP dispõe de núcleos inspetivos desconcentrados nas ilhas de São Miguel, Terceira e do Pico.
 
-###### Artigo 32.º — Inspetor regional das Pescas e de Usos Marítimos
+Artigo 32.º
+
+Inspetor regional das Pescas e de Usos Marítimos
 
 1 - O inspetor regional das Pescas e de Usos Marítimos exerce as competências que, nos termos da lei, lhe forem atribuídas, bem como aquelas que superiormente lhe forem delegadas ou subdelegadas.
 
@@ -1702,7 +1884,9 @@ m) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - Nas ausências ou impedimentos do inspetor regional das Pescas e de Usos Marítimos, este é substituído pelo chefe da Divisão de Inspeção e Apoio Jurídico ou por inspetor superior designado para o efeito.
 
-###### Artigo 33.º — Divisão de Inspeção e Apoio Jurídico
+Artigo 33.º
+
+Divisão de Inspeção e Apoio Jurídico
 
 1 - A Divisão de Inspeção e Apoio Jurídico, doravante designada por DIAJ, tem por missão realizar ações de fiscalização e controlo da pesca e de atividades marítimo-turísticas, realizar as averiguações necessárias para a adequada e eficaz conservação e gestão de recursos haliêuticos, bem como organizar e instruir os processos de contraordenação da competência da IRP.
 
@@ -1750,7 +1934,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 5 - O chefe de divisão referido no número anterior é coadjuvado, no desempenho das competências previstas nas alíneas c), e) a h) do n.º 2, por inspetores superiores e, ou, técnicos superiores, designados para o efeito pelo inspetor regional das Pescas e de Usos Marítimos.
 
-###### Artigo 34.º — Secção de Apoio Administrativo
+Artigo 34.º
+
+Secção de Apoio Administrativo
 
 1 - À Secção de Apoio Administrativo, doravante designada por SAA, compete:
 
@@ -1768,11 +1954,15 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SAA é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 35.º — Exercício da atividade inspetiva
+Artigo 35.º
+
+Exercício da atividade inspetiva
 
 A IRP, no exercício das suas competências, goza de autonomia e independência técnica, regendo-se na sua atuação pelo disposto no regime jurídico da atividade de inspeção, auditoria e fiscalização, aprovado pelo [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, na sua redação em vigor, adaptado à Região Autónoma dos Açores nos termos do [Decreto Legislativo Regional n.º 40/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-175553), de 8 de outubro, e pelas orientações do membro do Governo Regional da tutela, emitidas nos termos legais.
 
-###### Artigo 36.º — Conteúdos funcionais do pessoal das carreiras de inspeção da IRP
+Artigo 36.º
+
+Conteúdos funcionais do pessoal das carreiras de inspeção da IRP
 
 1 - Aos trabalhadores da carreira de inspetor superior de pesca estão cometidas as funções seguintes:
 
@@ -1806,12 +1996,18 @@ e) Levantar autos de notícia/ocorrência por infrações detetadas nas suas ár
 
 f) Executar outras tarefas que lhe sejam superiormente determinadas.
 
-###### Artigo 37.º — Garantias, prerrogativas e incompatibilidades
+Artigo 37.º
+
+Garantias, prerrogativas e incompatibilidades
 
 Aos trabalhadores das carreiras de inspeção é aplicável o regime jurídico da atividade de inspeção, auditoria e fiscalização previsto no [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, na sua redação em vigor, adaptado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 40/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-175553), de 8 de outubro.
 
-## ANEXO II — (a que se refere o artigo 7.º)
+ANEXO II
+
+(a que se refere o artigo 7.º)
 
 Quadro de pessoal dirigente, de direção específica e de chefia da Secretaria Regional do Mar e das Pescas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/11/21300/0000300039.pdf))](https://files.diariodarepublica.pt/1s/2022/11/21300/0000300039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/11/21300/0000300039.pdf)
+
+115822446

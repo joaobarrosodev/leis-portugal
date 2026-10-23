@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/22-1977-251409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d282b5f9f0e0082b473fd2d71bf4ddd10b476b4dd838ab65dbe35ae22f39685
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ad558b58db7d4f4e7bf8f580facdfd67df91aab6b284dd8d53f34b54ab7840b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Crédito Especial
+- Orçamento Regional
+- Rectificação de Numero de Diploma
+- Rectificação de TIPO de Diploma
+relationships:
+- type: cites
+  target: pt:dre:310623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345524:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:34Z'
   warnings: []
   errors: []
 ---
@@ -93,28 +106,28 @@ Dispondo o Estatuto Provisório que compete ao Governo Regional elaborar decreto
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Para ocorrer a despesas indispensáveis e urgentes não previstas ou insuficientemente dotadas no orçamento da Região Autónoma dos Açores, pode o Governo Regional mandar abrir créditos especiais com compensação no aumento da previsão de receitas e bem assim efectuar transferências de verbas por anulação em dotações de despesa.
+Artigo 1.º - 1. Para ocorrer a despesas indispensáveis e urgentes não previstas ou insuficientemente dotadas no orçamento da Região Autónoma dos Açores, pode o Governo Regional mandar abrir créditos especiais com compensação no aumento da previsão de receitas e bem assim efectuar transferências de verbas por anulação em dotações de despesa.
 
 2. Os créditos especiais cujos montantes sejam superiores a 10% do valor total da receita prevista no orçamento carecem de autorização da Assembleia Regional.
 
-###### Art. 2.º Os créditos especiais são abertos na Secretaria Regional das Finanças a favor da Secretaria Regional a que competirem as despesas, por portaria referendada pelo Secretário Regional das Finanças e pelo Secretário Regional a que interessar o crédito, mediante prévia resolução do plenário.
+Art. 2.º Os créditos especiais são abertos na Secretaria Regional das Finanças a favor da Secretaria Regional a que competirem as despesas, por portaria referendada pelo Secretário Regional das Finanças e pelo Secretário Regional a que interessar o crédito, mediante prévia resolução do plenário.
 
-###### Art. 3.º As transferências de verbas e a alteração da redacção das rubricas que não constituam designações de classificação económica e seus desenvolvimentos tipificados são autorizados por despacho conjunto do Secretário Regional das Finanças e do Secretário Regional competente, mediante prévia resolução do plenário.
+Art. 3.º As transferências de verbas e a alteração da redacção das rubricas que não constituam designações de classificação económica e seus desenvolvimentos tipificados são autorizados por despacho conjunto do Secretário Regional das Finanças e do Secretário Regional competente, mediante prévia resolução do plenário.
 
-###### Art. 4.º Todas as propostas de alteração ao orçamento deverão ser elaboradas pela Secretaria Regional interessada e ser enviadas, devidamente fundamentadas e justificadas, para apreciação do Secretário Regional das Finanças, por intermédio da Direcção Regional do Orçamento e Contabilidade.
+Art. 4.º Todas as propostas de alteração ao orçamento deverão ser elaboradas pela Secretaria Regional interessada e ser enviadas, devidamente fundamentadas e justificadas, para apreciação do Secretário Regional das Finanças, por intermédio da Direcção Regional do Orçamento e Contabilidade.
 
-###### Art. 5.º As alterações orçamentais serão anotadas pela Secção Regional do Tribunal de Contas e pela Direcção Regional do Orçamento e Contabilidade.
+Art. 5.º As alterações orçamentais serão anotadas pela Secção Regional do Tribunal de Contas e pela Direcção Regional do Orçamento e Contabilidade.
 
-###### Art. 6.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por resolução do Governo Regional.
+Art. 6.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por resolução do Governo Regional.
 
-###### Art. 7.º O presente diploma entra imediatamente em vigor.
+Art. 7.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em plenário do Governo Regional em 27 de Junho de 1977.
 
-**O presidente do Governo Regional, João Bosco Mota Amaral.**
+O presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada em 21 de Julho de 1977.**
+Assinado em Ponta Delgada em 21 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

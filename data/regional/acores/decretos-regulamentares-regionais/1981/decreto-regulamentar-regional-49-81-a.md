@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/11/27500/31333134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/49-1981-567941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 23deb4f4ff1bed420beb6a35468043d9ad449645e854d1983677b6cf63b84623
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c5db8636cbc75251ca1a28c1ff4ac71473c3ae4872eefd14fe4afed9c03c4a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração de Portos
+- Definição de Competências
+- Integração de Trabalhadores
+- Junta Autónoma do Porto da Horta
+- Junta Autónoma dos Portos
+- Orgânica
+- Portos dos Açores
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:671590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:280251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:671590:por
+  label: "Revogado pelo DLR.24/2011/A.22.08.2011.AL-RAA, DR.IS [160] de 22.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2011-671590
+  date: '2011-08-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:34Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +124,11 @@ Considerando que por força do [Decreto-Lei n.º 326/79](https://diariodarepubli
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Após a entrada em vigor deste diploma, dá-se por terminado o período de instalação da Junta Autónoma do Porto da Horta (JAPH).
+Artigo 1.º Após a entrada em vigor deste diploma, dá-se por terminado o período de instalação da Junta Autónoma do Porto da Horta (JAPH).
 
-###### Art. 2.º A JAPH reger-se-á, em tudo o que não contrariar o disposto neste diploma, pelo Estatuto das Juntas Autónomas dos Portos e pelo [Decreto-Lei n.º 521/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1977-280251), de 19 de Dezembro.
+Art. 2.º A JAPH reger-se-á, em tudo o que não contrariar o disposto neste diploma, pelo Estatuto das Juntas Autónomas dos Portos e pelo [Decreto-Lei n.º 521/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1977-280251), de 19 de Dezembro.
 
-###### Art. 3.º A Junta Autónoma do Porto da Horta passa a ter a seguinte constituição:
+Art. 3.º A Junta Autónoma do Porto da Horta passa a ter a seguinte constituição:
 
 A) Vogais natos:
 
@@ -106,7 +136,7 @@ O engenheiro director do Porto;
 
 O capitão do Porto;
 
-**O chefe da delegação aduaneira;**
+O chefe da delegação aduaneira;
 
 O agente do Ministério Público;
 
@@ -124,7 +154,7 @@ Um representante das empresas de pesca e dos interesses piscatórios em geral;
 
 Um representante dos contribuintes prediais.
 
-###### Art. 4.º São órgãos de administração e de direcção da Junta Autónoma do Porto da Horta:
+Art. 4.º São órgãos de administração e de direcção da Junta Autónoma do Porto da Horta:
 
 A Junta;
 
@@ -132,7 +162,7 @@ A comissão administrativa;
 
 O director do Porto.
 
-###### Art. 5.º Compete à Junta em sessão plenária:
+Art. 5.º Compete à Junta em sessão plenária:
 
 1.º Aprovar o orçamento ordinário e os orçamentos suplementares, a submeter à aprovação superior;
 
@@ -146,7 +176,7 @@ O director do Porto.
 
 6.º Propor tudo o que julgarem conveniente com vista ao melhoramento e desenvolvimento dos serviços e instalações dos portos.
 
-###### Art. 6.º - 1 - A comissão administrativa é constituída por 1 presidente e 2 vogais, que serão, respectivamente, o presidente da Junta, o engenheiro director e o capitão do Porto. É seu secretário, sem voto, o chefe da secretaria.
+Art. 6.º - 1 - A comissão administrativa é constituída por 1 presidente e 2 vogais, que serão, respectivamente, o presidente da Junta, o engenheiro director e o capitão do Porto. É seu secretário, sem voto, o chefe da secretaria.
 
 2 - O presidente é substituído, nas suas faltas ou impedimentos, pelo vice-presidente da Junta.
 
@@ -158,28 +188,28 @@ O director do Porto.
 
 6 - De cada reunião será lavrada acta, redigida e subscrita pelo secretário e submetida à aprovação da comissão administrativa na sessão seguinte.
 
-###### Art. 7.º Os membros da comissão administrativa são civil e criminalmente responsáveis pela transgressão das leis e regulamentos, pela aplicação de dinheiros diversa daquela que o orçamento lhes marcar e pela alteração dos planos de obras ou melhoramentos sem a aprovação superior.
+Art. 7.º Os membros da comissão administrativa são civil e criminalmente responsáveis pela transgressão das leis e regulamentos, pela aplicação de dinheiros diversa daquela que o orçamento lhes marcar e pela alteração dos planos de obras ou melhoramentos sem a aprovação superior.
 
-###### Art. 8.º - 1 - O engenheiro director é de livre nomeação do Secretário Regional dos Transportes e Turismo.
+Art. 8.º - 1 - O engenheiro director é de livre nomeação do Secretário Regional dos Transportes e Turismo.
 
 2 - O engenheiro director será o administrador-delegado da Junta.
 
-###### Art. 9.º Para além do supramencionado, os órgãos de administração e de direcção da JAPH regulamentar-se-ão de acordo com o preceituado no [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, o qual aprovou o Estatuto das Juntas Autónomas dos Portos.
+Art. 9.º Para além do supramencionado, os órgãos de administração e de direcção da JAPH regulamentar-se-ão de acordo com o preceituado no [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, o qual aprovou o Estatuto das Juntas Autónomas dos Portos.
 
-###### Art. 10.º No prazo de 10 dias, a contar da data da publicação deste diploma, o engenheiro director do Porto avisará as entidades a que se refere a alínea b) do artigo 3.º de que devem, dentro do prazo de 20 dias, a contar da data do aviso, proceder à eleição dos seus representantes e respectivos substitutos, lavrando auto desse acto, que remeterão ao presidente da comissão administrativa.
+Art. 10.º No prazo de 10 dias, a contar da data da publicação deste diploma, o engenheiro director do Porto avisará as entidades a que se refere a alínea b) do artigo 3.º de que devem, dentro do prazo de 20 dias, a contar da data do aviso, proceder à eleição dos seus representantes e respectivos substitutos, lavrando auto desse acto, que remeterão ao presidente da comissão administrativa.
 
-###### Art. 11.º - 1 - O pessoal presentemente ao serviço da comissão instaladora transitará para a JAPH.
+Art. 11.º - 1 - O pessoal presentemente ao serviço da comissão instaladora transitará para a JAPH.
 
 2 - O quadro de pessoal da JAPH é o constante do mapa anexo ao [Decreto Regulamentar Regional n.º 52/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/52-1980-457429), de 10 de Novembro.
 
-###### Art. 12.º A resolução das dúvidas resultantes da aplicação do presente diploma será objecto de despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e dos Transportes e Turismo.
+Art. 12.º A resolução das dúvidas resultantes da aplicação do presente diploma será objecto de despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e dos Transportes e Turismo.
 
 Aprovado pelo Governo Regional em 15 de Setembro de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Novembro de 1981.**
+Assinado em Angra do Heroísmo em 16 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

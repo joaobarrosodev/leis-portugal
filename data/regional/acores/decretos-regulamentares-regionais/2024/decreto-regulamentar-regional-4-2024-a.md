@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/11600/0001900033.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2024/06/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-868787351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67088f8f5d1ca42c77332e83a2ad5e6138ea20ae7a89d871ae8371920bf967f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 220e27b9cbd2b522fb3bb13fe37cf050f1311eb13d8b2a9c405dd19f1613a515
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
-- Unidade de Saúde de ILHA do PICO
+- Açores
 - Centro de Saúde
 - Lajes do Pico
 - Madalena.Açores
 - Orgânica
 - Quadro de Pessoal
+- Regulamentação de Atos Legislativos
 - são Roque do PICO
-- Açores
+- Unidade de Saúde de ILHA do PICO
 relationships:
 - type: cites
   target: eli:http://data
@@ -115,16 +115,78 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/35/2002/12/21/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/35/2002/12/21/a/dre
+- type: cites
+  target: pt:dre:128355822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203457551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204916688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211996385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224615906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836437685:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:16/2003/A
+  label: Revoga, a partir de 01 de julho de 2024, nos termos do artigo 3.º, o Decreto Regulamentar Regional n.º 16/2003/A,
+    de 1 de abril, Diário da República n.º 77/2003, Série I-B
+  source: null
+  date: '2003-04-01'
 article_structure:
   article_count: 41
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:03Z'
   warnings: []
   errors: []
 ---
@@ -159,11 +221,11 @@ O presente diploma entra em vigor no primeiro dia útil do mês seguinte ao da s
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 16 de maio de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 11 de junho de 2024.**
+Assinado em Angra do Heroísmo em 11 de junho de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -533,7 +595,9 @@ a) Secção de pessoal, expediente e arquivo;
 
 b) Secção de contabilidade, património e aprovisionamento.
 
-###### Artigo 32.º — Secção de pessoal, expediente e arquivo
+###### Artigo 32.º
+
+#### Secção de pessoal, expediente e arquivo
 
 Compete à secção de pessoal, expediente e arquivo:
 
@@ -555,7 +619,9 @@ h) Organizar o trabalho do pessoal integrado na carreira de assistente operacion
 
 i) Efetuar as operações de controlo da assiduidade e pontualidade do pessoal.
 
-###### Artigo 33.º — Secção de contabilidade, património e aprovisionamento
+###### Artigo 33.º
+
+#### Secção de contabilidade, património e aprovisionamento
 
 Compete à secção de contabilidade, património e aprovisionamento:
 
@@ -676,3 +742,5 @@ Unidade de Saúde de Ilha do Pico
 (d) De acordo com o [Decreto Regulamentar Regional n.º 11/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2001-644159), de 10 de setembro, alterado pelo [Decreto Regulamentar Regional n.º 6/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), de 6 de abril.
 
 (e) De acordo com o [Decreto-Lei n.º 84-F/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), de 16 de dezembro, alterado [Decreto-Lei n.º 26-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-b-2023-211996385), de 18 de abril, pelo [Decreto-Lei n.º 108/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2023-224615906), de 22 de novembro, e pelo [Decreto-Lei n.º 13/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2024-836437685), de 10 de janeiro.
+
+117792448

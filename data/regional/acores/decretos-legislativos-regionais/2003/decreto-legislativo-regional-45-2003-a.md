@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/11/271a00/79577958.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/45/2003/11/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2003-438178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56df41f74389e9b207dae2070ebd92b3b12baeaa928d53c3e4ade50fa1275c67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 559b254ad6af82d6f71295cae569550866877d5701e67abc3e9eba269d456dee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ILHA de são Miguel
-- Ordenamento do Território
 - Lagoa.Açores
 - Medidas Preventivas
+- Ordenamento do Território
 - Política de Solos
 - Ribeira Grande
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:145589083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:594307:por
+  label: "Prorrogado por um ano o prazo de vigência das medidas preventivas previstas neste diploma (com efeitos a partir\
+    \ da data da cessação do prazo estipulado no nº 1 do art. 3º) pelo DLR.25/2005/A.03.10.2005.AL-RAA, DR.IS-A [203] de 21.10.2005\0\
+    5\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-2005-594307
+  date: '2005-10-03'
+- type: amended_by
+  target: pt:dre:145589083:por
+  label: Considerado revogado em razão de caducidade pelo(a) Decreto Legislativo Regional n.º 27/2020/A - Diário da República
+    n.º 202/2020, Série I de 2020-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2020-145589083
+  date: '2020-10-16'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:55Z'
   warnings: []
   errors: []
 ---
@@ -142,12 +159,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 22 de Outubro de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 5 de Novembro de 2003.**
+Assinado em Angra do Heroísmo em 5 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/11/271a00/79577958.pdf)

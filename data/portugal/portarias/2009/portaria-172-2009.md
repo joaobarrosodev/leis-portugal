@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/172/2009/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/172-2009-602280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c94b0f7aa3fe4858ca8b5509b94335842fef27177cdd3c97aa57664bea48148
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fd18150a9989067e85a14d1a0c92cefd0b7825cd071b4e7987c86878aaed860
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Armazenagem
-- Gestão de Resíduos
-- Transporte de Resíduos
-- Resíduo
 - CIRVER
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- Gestão do Ambiente
-- Regulamento
 - Eliminação de Resíduos
+- Gestão de Resíduos
+- Gestão do Ambiente
+- Proteção do Ambiente
+- Regulamento
+- Resíduo
+- Transporte de Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: celex:31967L0548
@@ -127,13 +127,13 @@ relationships:
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:36Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +160,7 @@ Ao abrigo do n.º 1 do artigo 22.º do Decreto-Lei n.º 178/2006, de 5 de Setemb
 
 É aprovado o Regulamento dos Centros Integrados de Recuperação, Valorização e Eliminação de Resíduos Perigosos (CIRVER) anexo à presente portaria e da qual faz parte integrante.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 9 de Fevereiro de 2009. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 6 de Fevereiro de 2009. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 28 de Novembro de 2008.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 9 de Fevereiro de 2009. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 6 de Fevereiro de 2009. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 28 de Novembro de 2008.
 
 ## ANEXO — REGULAMENTO DOS CENTROS INTEGRADOS DE RECUPERAÇÃO, VALORIZAÇÃO E ELIMINAÇÃO DE RESÍDUOS PERIGOSOS (CIRVER)
 
@@ -1036,7 +1036,7 @@ TABELA N.º 6.1
 
 Ensaios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf)
 
 No caso de certas amostras líquidas, ou que se apresentem no estado sólido ou pastoso, será necessária a sua preparação antes da aplicação dos métodos referidos; para tal serão usados procedimentos bem estabelecidos, tais como ISO 11464, ISO 11466, ASTM 808, etc.
 
@@ -1460,7 +1460,7 @@ TABELA N.º 7.1
 
 Valores limite de lixiviação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf)
 
 COD - carbono orgânico dissolvido.
 
@@ -1472,7 +1472,7 @@ TABELA N.º 7.2
 
 Outros valores limite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf)
 
 PI - perda em ignição.
 
@@ -1590,7 +1590,7 @@ Deverá estar sempre presente nas instalações dos CIRVER pessoal habilitado, e
 
 9.14 - Deve existir um registo de ocorrências num «caderno de ocorrências» que deve ser estudado e inspeccionado regularmente por pessoal do sistema de organização do trabalho e outro pessoal técnico competente, no sentido de serem melhorados os sistemas de segurança e as normas de protecção e, eventualmente, perante os resultados alcançados, haver a implementação de novos protocolos e treino dos trabalhadores.
 
-## APÊNDICE N.º 1
+APÊNDICE N.º 1
 
 Legislação aplicável
 
@@ -1728,7 +1728,7 @@ Decreto-Lei n.º 50/2005, de 25 de Fevereiro, que transpõe para a ordem jurídi
 
 Resolução do Conselho de Ministros n.º 59/2008, de 1 de Abril, que aprova a Estratégia Nacional para a Segurança e Saúde no Trabalho, para o período 2008-2012.
 
-## APÊNDICE N.º 2
+APÊNDICE N.º 2
 
 Listagens de constituintes e características de perigo atribuíveis aos resíduos
 
@@ -1966,15 +1966,15 @@ H13 - substâncias susceptíveis de, após eliminação, darem origem, por qualq
 
 H14 - «Ecotóxicos» - substâncias e preparações que apresentem, ou possam apresentar, riscos imediatos ou diferidos, para um ou vários sectores do ambiente.
 
-## APÊNDICE N.º 3
+APÊNDICE N.º 3
 
 Listagem das melhores técnicas disponíveis (MTD) a aplicar nos CIRVER
 
 O documento de referência (BREF) Best Available Techniques for the Waste Treatments Industries identifica um conjunto de técnicas como melhores técnicas disponíveis (MTD) no âmbito da actividade de tratamento de resíduos, as quais são portanto aplicáveis aos CIRVER. Essas técnicas (MTD) estão sumariadas na tabela seguinte, que é um extracto do BREF:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf)
 
-## APÊNDICE N.º 4
+APÊNDICE N.º 4
 
 Condições de admissão dos combustíveis alternativos aos fornos das cimenteiras
 
@@ -1996,7 +1996,7 @@ As cimenteiras terão de reportar as emissões no âmbito do E-PRTR - Registo Eu
 
 Tabela indicativa para limites de concentração para RP destinados à preparação de CA para cimenteiras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03300/0109701128.pdf)
 
 (1) Em 16 de Agosto de 2006, conforme publicado no JOC, de 25 de Outubro de 2006, permitir que o documento possa ser usado de forma mais fácil, não dispensa a consulta da legislação em vigor, nomeadamente sobre o regime jurídico dos CIRVER.
 

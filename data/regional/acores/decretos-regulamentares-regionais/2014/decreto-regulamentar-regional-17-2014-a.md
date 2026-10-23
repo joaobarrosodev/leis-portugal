@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/17900/0499705003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2014/09/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2014-56894784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7289abf6a3b9d63c4f7ad980db0b23ec1c7c5240f2ea2b3c99ab4827137f77d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02b0eb97190233cd5745a0b40c6eca37a23ec65aa4f909bd1c099696c74a4752
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,41 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Financiamento
-- Empresa
-- Desenvolvimento Regional
-- Mudança Tecnológica
-- Competitividade Empresarial
-- Empresa Privada
-- Empresa Regional
-- Empresa Pública
+- Açores
 - Apoio ao Investimento
-- Projeto de Investimento
-- Investimento
+- Competitividade Empresarial
 - Desenvolvimento Económico
+- Desenvolvimento Regional
+- Empreendedorismo
+- Empresa
+- Empresa Privada
+- Empresa Pública
+- Empresa Regional
+- Financiamento
+- Investimento
+- Mudança Tecnológica
+- Projeto de Investimento
 - Qualificação Profissional
 - Regulamento CE
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:213761241:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66507582:por
+  label: Alterado o n.º 1 do art. 7.º pelo(a) Decreto Regulamentar Regional n.º 3/2015/A - Diário da República n.º 31/2015,
+    Série I de 2015-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2015-66507582
+  date: '2015-02-13'
 - type: cites
   target: celex:32013R1407
   label: null
   source: http://data.europa.eu/eli/reg/2013/1407/oj
+- type: repealed_by
+  target: pt:dre:213761241:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31,
+    sem prejuízo do art. 26.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2023-213761241
+  date: '2023-05-31'
 article_structure:
   article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:12Z'
   warnings: []
   errors: []
 ---
@@ -358,11 +370,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 22 de julho de 2014.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo, em 1 de setembro de 2014.**
+Assinado em Angra do Heroísmo, em 1 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -476,7 +488,7 @@ F. Efeitos na competitividade do agregado económico e na economia regional: Des
 
 - Grau de envolvimento de instituições do SCTA;
 
-- Aumento das despesas em atividades de I&DT;
+- Aumento das despesas em atividades de I&DT
 
 - Reforço da participação em redes e Planos europeus e internacionais de I&T.
 
@@ -580,7 +592,7 @@ B1. Atividades de inovação induzidas:
 
 - Grau de envolvimento de instituições do SCTA;
 
-- Aumento das despesas em atividades de I&DT;
+- Aumento das despesas em atividades de I&DT
 
 - Reforço da participação em redes e Planos europeus e internacionais de I&T.
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 75/1994, 1º Suplemento, Série I-B de 1994-03-30
   number: '75'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1570-(2) a 1570-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/075b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/1994/03/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1994-572396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c45e7d01f363aae004db94809c37164bcc2923f5c2008d411ec43d523f38a63d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f83078b649ecece813ac37cbeda5b8ccd74d7dce6437987135d52388b4cd618a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Docente
-- Ensino Básico
-- Avaliação do Pessoal
 - Açores
+- Avaliação do Pessoal
 - Educação Pré-escolar
+- Ensino Básico
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:538620:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475494:por
+  label: "Alterado na redacção que confere na adaptação, dos arts. 10º-A e 26º do DR 14/92, de 04-Jul, pelo DLR.8/95/A.1995.05.15.ALR-RAA,\
+    \ DR.IS-A [141] de 21/Jun/1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-1995-475494
+  date: '1995-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
   label: null
@@ -84,16 +90,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/14/1992/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/14/1992/07/04/p/dre
+- type: cites
+  target: pt:dre:363960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661095:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538620:por
+  label: "Revogado pelo DLR.28/2006/A.21.07.2006.AL-RAA, DR.IS [152] de 08.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2006-538620
+  date: '2006-07-21'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:22Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +137,7 @@ Tendo em conta a conveniência de explicitar as entidades que na Região exercer
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e do artigo 3.º do [Decreto Legislativo Regional n.º 17/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-566032), de 6 de Novembro, o seguinte:
 
-###### Artigo 1.º Na aplicação do [Decreto Regulamentar n.º 14/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1992-363960), de 4 de Junho, à Região Autónoma dos Açores, nos artigos 1.º, 3.º, 7.º, 8.º, 13.º, 14.º, 16.º, 18.º, 22.º, 24.º e 26.º introduzem-se as seguintes adaptações:
+Artigo 1.º Na aplicação do [Decreto Regulamentar n.º 14/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1992-363960), de 4 de Junho, à Região Autónoma dos Açores, nos artigos 1.º, 3.º, 7.º, 8.º, 13.º, 14.º, 16.º, 18.º, 22.º, 24.º e 26.º introduzem-se as seguintes adaptações:
 
 ###### Artigo 1.º — Objecto
 
@@ -182,14 +213,14 @@ A classificação de serviço dos docentes é ordinária, quando respeite ao per
 
 3 - Até à aplicação generalizada do novo modelo de administração, direcção e gestão dos estabelecimentos de educação e de ensino, definido pelo [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio, nos jardins-de-infância e nas escolas do 1.º ciclo do ensino básico o respectivo delegado escolar, ouvido o director de escola ou o presidente do conselho escolar em escolas com menos de três lugares, exercerá as funções previstas nos artigos 5.º, 6.º, 7.º e 8.º deste diploma.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 17 de Março de 1994.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 29 de Março de 1994.**
+Assinado em Angra do Heroísmo em 29 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

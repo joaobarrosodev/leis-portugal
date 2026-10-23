@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/5-1980-462802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6ccb4b97d3390e9c6ee9ededfbc4050a29a8e612331ae882f034cb810612ff5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: badc981581023370711c51c71963e42bf40017514d05e4bac2b20df11f30bb65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Plano Económico
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O PLANO E ORÇAMENTO PARA 1980, PELA RESOLUÇÃO NUMERO 6/80/A, PUBLICADO NO DIÁRIO DA REPÚBLICA, I SÉRIE,\
+    \ NUMERO 301, 14 SUPLEMENTO, DE 801231.\001231.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:324943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:33Z'
   warnings: []
   errors: []
 ---
@@ -420,14 +439,14 @@ No entanto, para além das comparticipações do Governo Central houve que consi
 
 Por este facto, e de acordo com o que preceituam os diplomas atrás referidos, foi elaborado um decreto regulamentar regional adaptando a legislação em vigor e em que os encargos a suportar pela Região atingem o montante de 150875 contos, pelo que se constitui este novo programa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24500/35603567.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24500/35603567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24500/35603567.pdf)
 
 II - Revisão do Orçamento para 1980
 
 ## ANEXO II, REVISTO — Resumo da despesa por secretarias regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24500/35603567.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24500/35603567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24500/35603567.pdf)
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 30 de Julho de 1980.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.

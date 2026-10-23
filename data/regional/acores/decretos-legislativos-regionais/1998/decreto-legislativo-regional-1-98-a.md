@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/01/020a00/02950298.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/1998/01/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1998-222633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 394be0b0b20792b69197a18ac1532f01b36d38d45a3467e3e278aaebe8fedd0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f5fc14384c2228da6e71ebd735dd0c5c605514cc4d5ab44d3607cb5abaa0520
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Ação Social Escolar
+- Açores
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autonomia Pedagógica
-- Gestão Financeira
+- Ensino Artístico
+- Ensino Básico
+- Estabelecimento de Ensino
 - Fundo Escolar
 - Gestão Escolar
+- Gestão Financeira
 - Política Cultural
-- Estabelecimento de Ensino
-- Ensino Básico
 - Receita Própria
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:539978:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:233109:por
+  label: "Revogados os arts. 4º a 7º pelo DLR.11/2003/A.2003.03.06.ALR-RAA DR.IS-A [73] de 27/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2003-233109
+  date: '2003-03-06'
+- type: repealed_by
+  target: pt:dre:227009:por
+  label: "Revogado pelo DLR.12/2005/A.20.05.2005.AL-RAA, DR.IS-A [114] de 16.06.2005, sem prejuízo da sua aplicação transitória\
+    \ estabelecida nos termos do art. 141º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2005-227009
+  date: '2005-05-20'
 article_structure:
-  article_count: 16
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:59Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +143,9 @@ Na sua aplicação às escolas da Região Autónoma dos Açores, os artigos 1.º
 
 O regime estabelecido no presente diploma aplica-se a todos os estabelecimentos de educação e ensino, adiante designados por escolas dos 2.º e 3.º ciclos do ensino básico, do ensino secundário e artístico, e ainda às áreas escolares e escolas básicas integradas.
 
-###### Artigo 3.º — Princípios orientadores
+Artigo 3.º
+
+Princípios orientadores
 
 ...
 
@@ -146,7 +163,9 @@ f) ...
 
 g) ...
 
-###### Artigo 9.º — Da gestão de currículos, programas e actividades educativas
+Artigo 9.º
+
+Da gestão de currículos, programas e actividades educativas
 
 ...
 
@@ -162,7 +181,9 @@ e) ...
 
 f) Conceber e implementar experiências e inovações pedagógicas próprias, sem prejuízo de orientações genéricas definidas pelos serviços competentes da secretaria regional da tutela.
 
-###### Artigo 12.º — Da gestão de espaços escolares
+Artigo 12.º
+
+Da gestão de espaços escolares
 
 ...
 
@@ -174,7 +195,9 @@ c) Determinar, em articulação com a Direcção Regional da Educação e outras
 
 d) ...
 
-###### Artigo 13.º — Da gestão dos tempos escolares
+Artigo 13.º
+
+Da gestão dos tempos escolares
 
 ...
 
@@ -192,7 +215,9 @@ f) ...
 
 g) ...
 
-###### Artigo 16.º — Da admissão dos alunos
+Artigo 16.º
+
+Da admissão dos alunos
 
 ...
 
@@ -204,7 +229,9 @@ c) Colaborar com outras escolas da ilha e com a Direcção Regional da Educaçã
 
 d) ...
 
-###### Artigo 19.º — Da gestão e formação de pessoal não docente
+Artigo 19.º
+
+Da gestão e formação de pessoal não docente
 
 ...
 
@@ -224,7 +251,9 @@ g) ...
 
 h) ...
 
-###### Artigo 21.º — Da gestão das instalações e equipamento
+Artigo 21.º
+
+Da gestão das instalações e equipamento
 
 1 - A gestão das instalações afectas a cada escola é atribuição do respectivo órgão de gestão, competindo-lhe, nomeadamente:
 
@@ -336,10 +365,10 @@ Com o objectivo de acompanhar e avaliar a execução do regime estabelecido no p
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Novembro de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
 
-**Assinado em Angra do Heroísmo em 2 de Janeiro de 1998.**
+Assinado em Angra do Heroísmo em 2 de Janeiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/1/2025/07/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2025-924155519
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e3f5741723c85d5d567c0e45fb0e2eeb8a8d4b3f8e46ee2d82b5d18c43d2804
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64eef21c934b193b78e0b8fcdc2267e35b73da186c93976bc64245b5a54cc23d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Despesas Públicas
+- Madeira.região Autónoma
 - Orçamento
 - Orçamento Regional
-- Madeira.região Autónoma
 - Remuneração
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/2025/07/02/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/2/2025/07/02/m/dre
+- type: cites
+  target: pt:dre:923290710:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:decreto-legislativo-regional:2/2025/M
+  label: Retifica o n.º 7 do artigo 100.º e o mapa vii anexo ao Decreto Legislativo Regional n.º 2/2025/M, de 2 de julho,
+    Diário da República n.º 125/2025, Série I
+  source: null
+  date: '2025-07-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:27Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +112,7 @@ Declara-se que o [Decreto Legislativo Regional n.º 2/2025/M](https://diariodare
 
 deve ler-se:
 
-«7 - Para os trabalhadores abrangidos pelos n.<sup>os</sup>3, 4 e 5 que, até 31 de dezembro de 2026, perfizessem as condições para alteração do posicionamento remuneratório se não tivessem beneficiado da valorização prevista nesses números, pode resultar uma nova valorização remuneratória para o nível remuneratório correspondente à posição seguinte àquela em que se encontravam integrados, tendo por referência a tabela remuneratória vigente até à data da entrada em vigor desta alteração, numa posição virtual automaticamente criada, salvaguardando as suas expetativas de evolução remuneratória.»
+«7 - Para os trabalhadores abrangidos pelos n.os3, 4 e 5 que, até 31 de dezembro de 2026, perfizessem as condições para alteração do posicionamento remuneratório se não tivessem beneficiado da valorização prevista nesses números, pode resultar uma nova valorização remuneratória para o nível remuneratório correspondente à posição seguinte àquela em que se encontravam integrados, tendo por referência a tabela remuneratória vigente até à data da entrada em vigor desta alteração, numa posição virtual automaticamente criada, salvaguardando as suas expetativas de evolução remuneratória.»
 
 2 - É retificado o mapa vii, relativo às despesas dos serviços, institutos e fundos autónomos por classificação funcional, publicado em anexo à presente declaração.
 
@@ -116,6 +126,10 @@ Por classificação funcional
 
 [art.°1.° a)]
 
-![](https://files.diariodarepublica.pt/images/924155519/924157584.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/924155519/924157584.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/924155519/924157585.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/924155519/924157585.png) |
+| --- |
+
+119267571

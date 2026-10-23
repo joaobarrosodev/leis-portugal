@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/13500/0004000049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2024/07/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-871917725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a056040ca74307bea9b1c2b73b6f4e57e0b95ab05a9e93f1caf5f48086c7549
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caf518a03854faa8dd01f3a6eb7e119aa3e4f21abffcbecde03bfeab4871915a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
+- Apoio ao Investimento
+- Auxílio de Minimis
 - Concurso
 - Consumo de Energia
-- Regulamentação de Atos Legislativos
 - Documentação
-- Auxílio de Minimis
-- Apoio ao Investimento
-- Açores
-- Plataforma Eletrónica
 - Plano de Recuperação e Resiliência
+- Plataforma Eletrónica
+- Região Autónoma
+- Regulamentação de Atos Legislativos
 relationships:
 - type: cites
   target: celex:32013R1408
@@ -105,16 +105,34 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:183941513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211369738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609618:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:73/2019
+  label: Revoga, a partir de 16 de julho de 2024, nos termos do artigo 10.º, a Portaria n.º 73/2019 de 10 de outubro, Jornal
+    Oficial dos Açores, n.º 116, Série I
+  source: null
+  date: '2019-10-10'
 article_structure:
   article_count: 11
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:59Z'
   warnings: []
   errors: []
 ---
@@ -161,7 +179,7 @@ e) "Incentivo", os incentivos financeiros à aquisição e instalação de siste
 
 ###### Artigo 4.º — Limites e exclusões na atribuição
 
-O incentivo, quando atribuído a pessoa coletiva ou de natureza comercial, é objeto de análise e registo, por parte da entidade gestora, a fim de ser confirmado o cumprimento legal e limites impostos pelos Regulamentos (UE) n.<sup>os</sup>[1408/2013](http://data.europa.eu/eli/reg/2013/1408/oj?locale=pt) da Comissão, de 18 de dezembro, [717/2014](http://data.europa.eu/eli/reg/2014/717/oj?locale=pt), da Comissão, de 27 de junho, e [2023/2831](http://data.europa.eu/eli/reg/2023/2831/oj?locale=pt) da Comissão, de 13 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia, relativo aos auxílios de minimis, consoante o enquadramento aplicável ao respetivo sistema de incentivos.
+O incentivo, quando atribuído a pessoa coletiva ou de natureza comercial, é objeto de análise e registo, por parte da entidade gestora, a fim de ser confirmado o cumprimento legal e limites impostos pelos Regulamentos (UE) n.os[1408/2013](http://data.europa.eu/eli/reg/2013/1408/oj?locale=pt) da Comissão, de 18 de dezembro, [717/2014](http://data.europa.eu/eli/reg/2014/717/oj?locale=pt), da Comissão, de 27 de junho, e [2023/2831](http://data.europa.eu/eli/reg/2023/2831/oj?locale=pt) da Comissão, de 13 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia, relativo aos auxílios de minimis, consoante o enquadramento aplicável ao respetivo sistema de incentivos.
 
 ### CAPÍTULO III — CANDIDATURAS
 
@@ -269,11 +287,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Vila do Corvo, em 27 de junho de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 10 de julho de 2024.**
+Assinado em Angra do Heroísmo em 10 de julho de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -450,3 +468,5 @@ O presente termo de aceitação vigora por um período de seis anos, contados a 
 O Beneficiário
 
 … [assinatura reconhecida na qualidade e com poderes para o ato ou através do Cartão do Cidadão (CC) ou Chave Móvel Digital (CDM), com recurso ao Sistema de Certificação de Atributos Profissionais (SCAP)]
+
+117891235

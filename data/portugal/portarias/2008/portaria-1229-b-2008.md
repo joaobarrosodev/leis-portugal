@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 208/2008, 1º Suplemento, Série I de 2008-10-27
   number: '208'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7566-(2) a 7566-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/20801/0000200003.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1229-b/2008/10/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1229-b-2008-198294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81edc48652bcdc7a15c0688fee34cc1a9a0f0444cc7ed17c15da5bef9a668784
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16dc5d8356fcfb5334aa9b68bfbde14078ba07fa866ff3a2d855ed168f02f700
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Desenvolvimento Rural
-- Contrato de Financiamento
-- Apoio ao Investimento
-- Programa de Acção
 - Agricultor
-- Regulamento
 - Agricultura
+- Apoio ao Investimento
+- Contrato de Financiamento
+- Desenvolvimento Rural
+- Financiamento
+- Proder
+- Programa de Acção
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:306631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306631:por
+  label: "Alterados o art. 10.º e o anexo i do Regulamento de Aplicação da Acção n.º 2.4.1 «Apoio à Gestão das Intervenções\
+    \ Territoriais Integradas», aprovado pela Port. n.º 596-B/2008, de 08-Jul, na redacção do presente diploma, pela PORT.1327/2010.30.12.2010.MADRP,\
+    \ DR.IS [252] de 30.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1327-2010-306631
+  date: '2010-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre
   label: null
@@ -90,16 +97,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/596-b/2008/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/596-b/2008/07/08/p/dre
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408478:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:41Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +149,9 @@ Os artigos 9.º, 10.º e 19.º do Regulamento de Aplicação da Acção 2.4.1, �
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os pedidos de apoio são apresentados em períodos a definir em cada ano pela Autoridade de Gestão do PRODER, ao abrigo do disposto na alínea a) do n.º 2 do artigo 6.º do [Decreto-Lei n.º 37-A/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-a-2008-241045), de 5 de Março, divulgados com a antecedência mínima de 10 dias relativamente ao início do respectivo período.
 
@@ -144,7 +161,9 @@ Os artigos 9.º, 10.º e 19.º do Regulamento de Aplicação da Acção 2.4.1, �
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - As despesas efectuadas após 11 de Março de 2008 até à apresentação do pedido de apoio são consideradas elegíveis quando satisfeitas cumulativamente as seguintes condições:
 
@@ -182,7 +201,9 @@ A elegibilidade das despesas acima indicadas está dependente da verificação d
 
 As compras ou locação de equipamentos novos não devem exceder 15 % dos recursos totais afectos ao funcionamento da ELA nos anos de vigência do Plano de Acção Plurianual aprovado.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]
 
@@ -216,4 +237,4 @@ Ao Regulamento aprovado pela [Portaria n.º 596-B/2008](https://diariodarepublic
 
 A presente portaria produz efeitos a partir da data de entrada em vigor da [Portaria n.º 596-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/596-b-2008-408478), de 8 de Julho.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 24 de Outubro de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 24 de Outubro de 2008.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2008/03/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2008-247225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ea046c02d1386d89b7b15c21f2c9b24ce57f802d2c9d3c1f1d4778014389d43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0750266dca0ff3a0d92493d781e6455df5ff9cea9e578d3a3d8f315c35fcf711
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
+- Carreira Profissional
 - Definição de Competências
 - Delegado Regional
-- Carreira Profissional
-- Recrutamento de Pessoal
+- Instituto Geográfico Português
 - Nomeação
-- Secretaria Regional da Habitação e Equipamentos
 - Orgânica
 - Pessoal de BAD
 - Pessoal de Informática
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
-- Açores
-- Instituto Geográfico Português
+- Recrutamento de Pessoal
+- Secretaria Regional da Habitação e Equipamentos
 - Transferência de Competências
 relationships:
 - type: amended_by
@@ -127,16 +127,113 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/28/2000/09/12/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/28/2000/09/12/a/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307798:por
+  label: "Revogado pelo DRR.18/2010/A.18.10.2010.PG-RAA, DR.IS [202] de 18.10.2010, na parte que se refere à orgânica por\
+    \ ele aprovada\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2010-307798
+  date: '2010-10-18'
+- type: repealed_by
+  target: pt:dre:280199:por
+  label: "Revogado o DRR 12/98/A, de 06-Maio, na redacção do presente diploma, pelo DRR.4/2011/A.31.01.2011.PG-RAA, DR.IS\
+    \ [21] de 31.01.2011, na parte que se refere à orgânica e ao quadro do pessoal dirigente, de direcção específica e de\
+    \ chefia por ele aprovados e sem prejuízo do disposto no seu artigo 7º. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2011-280199
+  date: '2011-01-31'
 article_structure:
-  article_count: 125
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 88
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:34Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +262,9 @@ Natureza e missão
 
 A Secretaria Regional da Habitação e Equipamentos, adiante abreviadamente designada por SRHE, é o departamento do Governo da Região Autónoma dos Açores que propõe e executa a política regional nos sectores da habitação, obras públicas, transportes terrestres, viação, comunicações, informação geográfica, cartográfica e cadastral, protecção civil e inspecção de bombeiros, nos seus diversos aspectos e sob uma perspectiva global e integrada.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Constituem atribuições da SRHE, designadamente:
 
@@ -183,7 +282,9 @@ g) Superintender e realizar a gestão dos meios humanos e materiais para a efect
 
 h) Promover formas de cooperação com instituições e entidades locais, regionais, nacionais e internacionais, no âmbito das suas áreas de actuação.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - A SRHE é representada e superiormente dirigida pelo Secretário Regional da Habitação e Equipamentos, a quem compete, designadamente:
 
@@ -203,7 +304,9 @@ f) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe se
 
 3 - (Revogado.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -233,7 +336,9 @@ c) Serviços executivos periféricos - serviços da SRHE nas ilhas de Santa Mari
 
 3 - Na dependência do Secretário Regional funcionam ainda o Fundo Regional de Transportes e o Serviço Regional de Protecção Civil e Bombeiros dos Açores.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -265,17 +370,23 @@ k) ...
 
 4 - Salvo indicação em contrário por parte da entidade representada, o mandato dos membros do CROP tem a duração da legislatura em que tomam posse, renovando-se automaticamente por iguais períodos.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O CROP reunirá ordinariamente uma vez por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de, pelo menos, quatro dos seus membros.
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 O SDCF compreende a Divisão de Controlo Financeiro (DCF) e a Secção dos Serviços Administrativos (SSA).
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 ...
 
@@ -283,7 +394,9 @@ a) Dirigir, coordenar e superintender nas acções desenvolvidas pelo chefe de d
 
 b) ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 ...
 
@@ -317,7 +430,9 @@ o) ...
 
 p) Coordenar as acções relacionadas com os programas comunitários e assegurar as adequadas ligações de qualquer serviço nas áreas de competência da SRHE.
 
-###### Artigo 20.º — Secção dos Serviços Administrativos
+Artigo 20.º
+
+Secção dos Serviços Administrativos
 
 1 - A SSA é um serviço de execução de serviços de carácter administrativo relacionados com o funcionamento e objectivos da SRHE, à qual compete, designadamente:
 
@@ -343,7 +458,9 @@ j) ...
 
 2 - (Revogado.)
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -375,13 +492,17 @@ j) ...
 
 5 - (Revogado.)
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
 2 - A SA articula-se funcionalmente com a SSA do SDCF.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -401,7 +522,9 @@ a) A Divisão de Obras e Infra-Estruturas (DOI);
 
 b) A Divisão de Estudos e Projectos (DEP).
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - A DROPTT é o serviço operativo que coordena e desenvolve os estudos e as acções conducentes à concretização da política regional de obras públicas, transportes terrestres, viação, comunicações e informação geográfica, cartográfica e cadastral.
 
@@ -479,7 +602,9 @@ ii) Colaborar, no domínio das suas áreas de actuação, com outras instituiç�
 
 3 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 ...
 
@@ -495,7 +620,9 @@ e) ...
 
 f) Direcção de Serviços de Cartografia e Informação Geográfica (DSCIG).
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -581,11 +708,15 @@ h) ...
 
 5 - Para que o SEC execute correctamente as suas tarefas, poderão ser criados gabinetes de apoio ao director regional, à DAF, à DSE, à DSIE, ao SCTT, à DMPI e à DSCIG, que funcionarão em estreita colaboração com os serviços apoiados.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 A DSIE é um serviço que desenvolve a sua actividade ocupando-se das infra-estruturas e dos equipamentos colectivos da Região, em colaboração com os departamentos governamentais aos quais aqueles estejam afectos.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 ...
 
@@ -601,7 +732,9 @@ e) [Anterior alínea h).]
 
 f) [Anterior alínea i).]
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 ...
 
@@ -617,7 +750,9 @@ e) Acompanhar e fiscalizar, ou colaborar no acompanhamento e na fiscalização, 
 
 f) ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 ...
 
@@ -633,7 +768,9 @@ e) Acompanhar e fiscalizar, ou colaborar no acompanhamento e na fiscalização, 
 
 f) ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - O SCTT é um serviço que desenvolve a sua actividade na área dos transportes terrestres e da viação.
 
@@ -643,7 +780,9 @@ f) ...
 
 4 - O coordenador do SCTT poderá delegar, ou subdelegar, nos directores dos serviços de viação e transportes terrestres as competências próprias e as que lhe hajam sido delegadas nos termos do número anterior.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 ...
 
@@ -687,7 +826,9 @@ s) ...
 
 t) ...
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 ...
 
@@ -723,7 +864,9 @@ p) [Anterior alínea q).]
 
 q) [Anterior alínea r).]
 
-###### Artigo 60.º — Direcção de Serviços de Cartografia e Informação Geográfica (DSCIG)
+Artigo 60.º
+
+Direcção de Serviços de Cartografia e Informação Geográfica (DSCIG)
 
 1 - A DSCIG é um serviço que desenvolve a sua actividade nas áreas da cartografia e informação geográfica de âmbito regional, competindo-lhe, designadamente:
 
@@ -753,7 +896,9 @@ m) Executar as demais acções que superiormente lhe sejam cometidas.
 
 2 - A DSCIG compreende a Divisão de Informação Cadastral (DIC).
 
-###### Artigo 61.º — Divisão de Informação Cadastral
+Artigo 61.º
+
+Divisão de Informação Cadastral
 
 Compete à DIC, designadamente:
 
@@ -781,13 +926,17 @@ l) Elaborar mapas parcelares;
 
 m) Executar as demais acções que superiormente lhe sejam cometidas, nomeadamente estudos e trabalhos necessários à concepção, elaboração, execução e fiscalização de projectos de obras públicas promovidos pela DROPTT nas suas áreas de competência.
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - As delegações de ilha articulam-se funcionalmente com o SAJNP, o CI, o SDCF, o GRH, o GRP e o SCTT, cumprindo as orientações destes serviços no que respeita às respectivas áreas de actuação.
 
 2 - A delegação das Flores é composta por uma extensão localizada na ilha do Corvo.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 ...
 
@@ -801,7 +950,9 @@ d) Zelar pela manutenção e conservação de todos os equipamentos que lhes sej
 
 e) [Anterior alínea f).]
 
-###### Artigo 65.º — Delegados de ilha
+Artigo 65.º
+
+Delegados de ilha
 
 1 - As delegações de ilha são dirigidas por delegados de ilha.
 
@@ -809,7 +960,9 @@ e) [Anterior alínea f).]
 
 3 - O cargo de delegado nas ilhas de Santa Maria, Graciosa, São Jorge e Flores é um cargo de direcção específica de 1.º grau, sendo-lhe aplicável o disposto no [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelo [Decreto Legislativo Regional n.º 2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro.
 
-###### Artigo 66.º — Competência dos delegados de ilha
+Artigo 66.º
+
+Competência dos delegados de ilha
 
 Compete aos delegados de ilha:
 
@@ -827,15 +980,21 @@ Compete aos delegados de ilha:
 
 7) (Anterior n.º 8.)
 
-###### Artigo 67.º — Quadros de pessoal
+Artigo 67.º
+
+Quadros de pessoal
 
 O pessoal afecto à SRHE consta dos quadros regionais de ilha, aprovados pelo [Decreto Regulamentar Regional n.º 24/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2007-629171), de 7 de Novembro.
 
-###### Artigo 68.º — Ingresso e acesso
+Artigo 68.º
+
+Ingresso e acesso
 
 As condições e regras de ingresso e acesso dos funcionários da SRHE são, para as respectivas categorias, as estabelecidas no [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, alterado pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho, bem como as previstas neste diploma e na legislação regional complementar, sem prejuízo do disposto nos artigos seguintes.
 
-###### Artigo 69.º — Chefe de sector
+Artigo 69.º
+
+Chefe de sector
 
 1 - O chefe de sector é um cargo de direcção específica de 2.º grau, sendo-lhe aplicável o disposto no [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelo [Decreto Legislativo Regional n.º 2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro.
 
@@ -855,7 +1014,9 @@ e) ...
 
 4 - (Anterior n.º 6.)
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 1 - (Anterior n.º 2.)
 
@@ -865,7 +1026,9 @@ e) ...
 
 4 - O recrutamento para as categorias de encarregado de parque de máquinas e de encarregado de parque de viaturas automóveis efectua-se nos termos do anexo i a que se refere o artigo 8.º do [Decreto-Lei n.º 247/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1987-419013), de 17 de Junho.
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 As categorias do pessoal afecto à SRHE que não estejam integradas no anexo i ao [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, abaixo discriminadas, passam a ter o seguinte desenvolvimento indiciário atribuído neste diploma:
 
@@ -881,7 +1044,9 @@ e) A categoria de chefe de armazém tem o mesmo desenvolvimento que a categoria 
 
 f) As categorias de encarregado de parque de máquinas e de encarregado de parque de viaturas automóveis têm o mesmo desenvolvimento que as categorias de encarregado de parque de máquinas e de encarregado de parque de viaturas automóveis do grupo de pessoal auxiliar da administração local.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - ...
 
@@ -907,17 +1072,23 @@ Carreira de inspecção de viação
 
 As condições de ingresso e acesso e o desenvolvimento indiciário das carreiras de inspecção de viação são os definidos no [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, adaptado à Região pelo [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de Novembro, e no [Decreto Regulamentar Regional n.º 21/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2004-517631), de 1 de Julho, e respectiva regulamentação.
 
-###### Artigo 71.º-B — Pessoal de informática
+Artigo 71.º-B
+
+Pessoal de informática
 
 As condições de ingresso e acesso do pessoal de informática são as estabelecidas no [Decreto-Lei n.º 97/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2001-345277), de 26 de Março, e alterações subsequentes.
 
-###### Artigo 71.º-C — Pessoal técnico-profissional
+Artigo 71.º-C
+
+Pessoal técnico-profissional
 
 1 - As condições e regras de ingresso e acesso nas carreiras de desenhador de construção civil, desenhador cartógrafo, fiscal técnico de electricidade, fiscal técnico de obras públicas, medidor orçamentista, operador de fotogrametria, técnico profissional de laboratório e topógrafo são as estabelecidas na alínea d) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
 
 2 - Os avisos de abertura de concursos definirão os cursos técnico-profissionais considerados adequados ao provimento das carreiras acima referidas.
 
-###### Artigo 71.º-D — Pessoal de biblioteca e documentação e de arquivo
+Artigo 71.º-D
+
+Pessoal de biblioteca e documentação e de arquivo
 
 Os requisitos para o ingresso e acesso nas carreiras de pessoal de biblioteca e documentação e de arquivo são os constantes do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, com as alterações introduzidas pelo [Decreto-Lei n.º 276/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1995-668293), de 25 de Outubro.»
 
@@ -947,11 +1118,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na vila de Velas, São Jorge, em 31 de Janeiro de 2008.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 22 de Fevereiro de 2008.**
+Assinado em Angra do Heroísmo em 22 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -1233,7 +1404,9 @@ a) Dirigir, coordenar e superintender nas acções desenvolvidas pelo chefe de d
 
 b) Executar o que as leis e regulamentos lhe cometerem e possa decorrer do normal desempenho das suas funções.
 
-###### Artigo 17.º — Divisão de Controlo Financeiro
+###### Artigo 17.º
+
+##### Divisão de Controlo Financeiro
 
 À DCF compete, designadamente:
 
@@ -1271,7 +1444,9 @@ p) Coordenar as acções relacionadas com os programas comunitários e assegurar
 
 A DCF compreende a Secção de Contabilidade e Vencimentos (SCV).
 
-###### Artigo 19.º — Secção de Contabilidade e Vencimentos
+###### Artigo 19.º
+
+#### Secção de Contabilidade e Vencimentos
 
 Compete à SCV, designadamente:
 
@@ -1291,7 +1466,9 @@ g) Processar as folhas de despesas com pessoal;
 
 h) Elaborar os mapas de vencimento para as repartições de finanças.
 
-###### Artigo 20.º — Secção dos Serviços Administrativos
+###### Artigo 20.º
+
+#### Secção dos Serviços Administrativos
 
 1 - A SSA é um serviço de execução de serviços de carácter administrativo relacionados com o funcionamento e objectivos da SRHE, à qual compete, designadamente:
 
@@ -1349,7 +1526,9 @@ i) Executar as demais tarefas que lhe forem superiormente cometidas.
 
 O GRH compreende a Secção de Pessoal (SP).
 
-###### Artigo 24.º — Secção de Pessoal
+###### Artigo 24.º
+
+#### Secção de Pessoal
 
 À SP compete, designadamente:
 
@@ -1499,7 +1678,9 @@ c) Prestar apoio às entidades competentes nas acções de fiscalização atrav�
 
 4 - A DSEMC não será provida enquanto não for extinta a Divisão de Construção.
 
-###### Artigo 30.º — Secção Administrativa
+###### Artigo 30.º
+
+#### Secção Administrativa
 
 1 - Compete à SA efectuar o serviço administrativo e de expediente do LREC.
 
@@ -1613,7 +1794,9 @@ a) A Divisão de Obras e Infra-Estruturas (DOI);
 
 b) A Divisão de Estudos e Projectos (DEP).
 
-###### Artigo 35.º — Divisão de Obras e Infra-Estruturas
+###### Artigo 35.º
+
+##### Divisão de Obras e Infra-Estruturas
 
 1 - Compete à DOI, designadamente:
 
@@ -1629,7 +1812,9 @@ e) Executar as acções e cumprir as orientações que superiormente lhe sejam a
 
 2 - A DOI compreende o Sector Técnico, ao qual cabe, entre outras actividades, fiscalizar as obras da área em que se integra, quer sejam as promovidas pela SRHE, ou por outros departamentos governamentais regionais, ou executadas em regime de empreitada ou de administração directa.
 
-###### Artigo 36.º — Divisão de Estudos e Projectos
+###### Artigo 36.º
+
+##### Divisão de Estudos e Projectos
 
 Compete à DEP, designadamente:
 
@@ -1641,7 +1826,9 @@ c) Coordenar e acompanhar, em estreita cooperação com os serviços externos de
 
 d) Executar as acções e cumprir as orientações que superiormente lhe sejam cometidas.
 
-###### Artigo 37.º — Divisão Administrativa e Financeira
+###### Artigo 37.º
+
+##### Divisão Administrativa e Financeira
 
 Compete à DAF, designadamente:
 
@@ -1679,7 +1866,9 @@ p) Processar as despesas de harmonia com os documentos devidamente conferidos;
 
 q) Executar as demais tarefas que lhe forem superiormente cometidas.
 
-###### Artigo 38.º — Secção Administrativa e Financeira
+###### Artigo 38.º
+
+#### Secção Administrativa e Financeira
 
 A DAF compreende a Secção Administrativa e Financeira, à qual compete a realização das tarefas de elaboração, conferência, registo, classificação, arquivo, processamento, movimentação e expedição dos documentos contabilísticos e administrativos respeitantes ao funcionamento da DAF, nos termos que superiormente lhe forem cometidos.
 
@@ -1779,7 +1968,9 @@ e) Divisão de Máquinas e Produção de Inertes (DMPI);
 
 f) Direcção de Serviços de Cartografia e Informação Geográfica (DSCIG).
 
-###### Artigo 41.º — Divisão Administrativa e Financeira
+###### Artigo 41.º
+
+##### Divisão Administrativa e Financeira
 
 A DAF é um serviço de apoio instrumental e documental de carácter administrativo e financeiro, competindo-lhe, designadamente:
 
@@ -1929,7 +2120,9 @@ g) Dar pareceres às câmaras municipais sobre loteamentos, construções e empr
 
 A DSE compreende a Divisão de Construção e Manutenção (DCM).
 
-###### Artigo 46.º — Divisão de Construção e Manutenção
+###### Artigo 46.º
+
+##### Divisão de Construção e Manutenção
 
 Compete à DCM, designadamente:
 
@@ -1989,7 +2182,9 @@ a) Divisão de Infra-Estruturas (DI);
 
 b) Divisão de Equipamentos (DE).
 
-###### Artigo 51.º — Divisão de Infra-Estruturas
+###### Artigo 51.º
+
+##### Divisão de Infra-Estruturas
 
 Compete à DI, designadamente:
 
@@ -2005,7 +2200,9 @@ e) Acompanhar e fiscalizar, ou colaborar no acompanhamento e na fiscalização, 
 
 f) Executar as demais acções que lhe sejam cometidas.
 
-###### Artigo 52.º — Divisão de Equipamentos
+###### Artigo 52.º
+
+##### Divisão de Equipamentos
 
 Compete à DE, designadamente:
 
@@ -2119,7 +2316,9 @@ q) Promover o ordenamento, regulamentação e sinalização do trânsito.
 
 As DSVTT compreendem secções administrativas nas ilhas de São Miguel, Terceira e Faial.
 
-###### Artigo 58.º — Divisão de Máquinas e Produção de Inertes
+###### Artigo 58.º
+
+##### Divisão de Máquinas e Produção de Inertes
 
 A DMPI é um serviço que desenvolve a sua actividade na área do parque de viaturas, do parque de máquinas e na produção de inertes e do armazenamento.
 
@@ -2171,7 +2370,9 @@ m) Executar as demais acções que superiormente lhe sejam cometidas.
 
 2 - A DSCIG compreende a Divisão de Informação Cadastral (DIC).
 
-###### Artigo 61.º — Divisão de Informação Cadastral
+###### Artigo 61.º
+
+##### Divisão de Informação Cadastral
 
 Compete à DIC, designadamente:
 

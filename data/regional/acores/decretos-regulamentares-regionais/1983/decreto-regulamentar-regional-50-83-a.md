@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/11/26300/38193820.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/50-1983-443727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84bf240c192b200ccb5824e36e17a602137071c2dd318a737e80567097e51ae5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f56b87237763568ac4d181835895982c93726a5d1e3c5eaece534a20e32aae4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Desemprego
+- Subsídio de Desemprego
+- Trabalho Temporário
 relationships:
 - type: amended_by
   target: pt:dre:346707:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:399672:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º, 5º, 6º, 7º e 8º pelo DRR.33/84/A.29.09.1984.GR-RAA, DR.IS [227] de 29.09.1984\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1984-399672
+  date: '1984-09-29'
+- type: repealed_by
+  target: pt:dre:185338:por
+  label: "Revogado pelo DRR.2/99/A.1998.12.30.PG-RAA, DR.IS-B [29] de 04/Fev/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1999-185338
+  date: '1998-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:06Z'
   warnings: []
   errors: []
 ---
@@ -96,21 +111,21 @@ Ouve, no entanto, a preocupação de encarar o desempregado sob uma perspectiva 
 
 Assim, em execução do Decreto Regional n.º 23/82/A, de 1 de Setembro, o Governo Regional decreta, nos termos do artigo 229.º, alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma regula a colocação temporária de trabalhadores beneficiários de subsídio de desemprego.
+Artigo 1.º - 1 - O presente diploma regula a colocação temporária de trabalhadores beneficiários de subsídio de desemprego.
 
 2 - Apenas poderão beneficiar do regime ora instituído os organismos da administração regional autónoma, as autarquias locais, os institutos públicos, as cooperativas e as fundações e associações humanitárias, culturais, recrativas, desportivas ou outras de reconhecida utilidade pública que reúnam as necessárias condições.
 
-###### Art. 2.º - 1 - Os trabalhadores colocados ao abrigo do presente diploma mantêm, para todos os efeitos, a sua qualidade de beneficiários de subsídio de desemprego, incluindo a percepção deste.
+Art. 2.º - 1 - Os trabalhadores colocados ao abrigo do presente diploma mantêm, para todos os efeitos, a sua qualidade de beneficiários de subsídio de desemprego, incluindo a percepção deste.
 
 2 - O trabalho prestado nos termos do número anterior não releva para efeitos de atribuição de novo subsídio de desemprego.
 
-###### Art. 3.º - 1 - Os pedidos de colocação de trabalhadores serão dirigidos ao Secretário Regional do Trabalho, com indicação do número e da formação dos trabalhadores pretendidos e da duração provável do vínculo.
+Art. 3.º - 1 - Os pedidos de colocação de trabalhadores serão dirigidos ao Secretário Regional do Trabalho, com indicação do número e da formação dos trabalhadores pretendidos e da duração provável do vínculo.
 
 2 - Os pedidos deverão ser acompanhados de elementos que demonstrem a existência dos requisitos enunciados no n.º 1 do artigo seguinte, bem como das declarações de compromisso a que se refere o n.º 2 da mesma disposição.
 
 3 - A Secretaria Regional do Trabalho poderá solicitar os elementos e as informações que considere necessários ao completo esclarecimento da situação.
 
-###### Art. 4.º - 1 - A concessão do benefício estabelecido no artigo anterior dependerá da verificação dos requisitos seguintes:
+Art. 4.º - 1 - A concessão do benefício estabelecido no artigo anterior dependerá da verificação dos requisitos seguintes:
 
 a) Tratar-se de trabalho de carácter temporário, mas de duração não inferior a 1 mês;
 
@@ -126,7 +141,7 @@ a) Manter os postos de trabalho já existentes enquanto auferirem do benefício,
 
 b) Cumprir integralmente as obrigações legais e convencionais respeitantes aos trabalhadores cuja colocação solicitaram.
 
-###### Art. 5.º - 1 - Deferido favoravelmente o pedido, a colocação dos trabalhadores solicitados será efectuada pelo respectivo centro de emprego.
+Art. 5.º - 1 - Deferido favoravelmente o pedido, a colocação dos trabalhadores solicitados será efectuada pelo respectivo centro de emprego.
 
 2 - Salvo se expressamente o solicitarem, os trabalhadores só deverão ser colocados quando o trabalho a desempenhar possa ser considerado emprego conveniente, nos termos do regime jurídico do subsídio de desemprego.
 
@@ -134,13 +149,13 @@ b) Cumprir integralmente as obrigações legais e convencionais respeitantes aos
 
 4 - A recusa injustificada por parte do trabalhador em aceitar a colocação proposta implica a suspensão do subsídio de desemprego pelo período correspondente à duração daquela.
 
-###### Art. 6.º - 1 - Quando a entidade requerente não indique o prazo certo pelo qual pretende a colocação dos trabalhadores, considerar-se-á que esta terá a duração de 30 dias, renovando-se por iguais e sucessivos períodos, até ao limite máximo de 1 ano ou do período em que cada trabalhador teria direito ao subsídio de desemprego, consoante o que ocorrer primeiro.
+Art. 6.º - 1 - Quando a entidade requerente não indique o prazo certo pelo qual pretende a colocação dos trabalhadores, considerar-se-á que esta terá a duração de 30 dias, renovando-se por iguais e sucessivos períodos, até ao limite máximo de 1 ano ou do período em que cada trabalhador teria direito ao subsídio de desemprego, consoante o que ocorrer primeiro.
 
 2 - Sempre que a entidade beneficiária pretenda pôr termo à colocação deverá comunicá-lo, por escrito, ao trabalhador e ao centro de emprego com 10 dias de antecedência.
 
 3 - Sem prejuízo do disposto no n.º 4 do artigo 5.º, o trabalhador poderá, em qualquer altura, pôr termo à colocação sem necessidade de aviso prévio.
 
-###### Art. 7.º - 1 - As entidades que beneficiem da colocação de trabalhadores, nos termos do presente diploma, ficam especialmente obrigadas a observarem em relação àqueles os princípios seguintes:
+Art. 7.º - 1 - As entidades que beneficiem da colocação de trabalhadores, nos termos do presente diploma, ficam especialmente obrigadas a observarem em relação àqueles os princípios seguintes:
 
 a) Complementar os subsídios de desemprego a que os trabalhadores tiverem direito até perfazer os vencimentos que legal ou convencionalmente se encontrem estabelecidos no respectivo sector de actividade para as categorias profissionais a que correspondam as funções por aqueles exercidas;
 
@@ -154,11 +169,11 @@ e) Enviar mensalmente ao centro de emprego uma relação do tempo de trabalho pr
 
 2 - Para efeitos da alínea a) do número anterior e do n.º 1 do artigo 2.º, o subsídio de desemprego poderá, quando tal se mostre conveniente, ser remetido às entidades para quem os trabalhadores prestem serviço, pagando estas a totalidade dos vencimentos.
 
-###### Art. 8.º - 1 - Os trabalhadores colocados no termos deste diploma estão sujeitos aos deveres e gozam dos direitos e regalias legal ou convencionalmente estabelecidos para o sector de actividade em que forem colocados, na medida em que não contrariem a especial natureza do presente regime, aplicando-se subsidiariamente os princípios relativos aos trabalhadores eventuais e contratados a prazo.
+Art. 8.º - 1 - Os trabalhadores colocados no termos deste diploma estão sujeitos aos deveres e gozam dos direitos e regalias legal ou convencionalmente estabelecidos para o sector de actividade em que forem colocados, na medida em que não contrariem a especial natureza do presente regime, aplicando-se subsidiariamente os princípios relativos aos trabalhadores eventuais e contratados a prazo.
 
 2 - Os centros de emprego, no âmbito da sua actividade normal de colocação, procurarão prioritariamente encontrar um emprego duradouro para os trabalhadores que, ao abrigo do presente diploma, prestem serviço por mais de 6 meses.
 
-###### Art. 9.º - 1 - A violação dos deveres estabelecidos neste diploma ou a prática de qualquer irregularidade com o intuito de obter benefícios indevidos implicam para os seus autores a reposição de todas as importâncias recebidas e ou a perda a favor do Fundo de Desemprego das que deixaram de desembolsar, acrescidas de 2% de juros por cada mês, a contar da percepção daquelas importâncias ou benefícios.
+Art. 9.º - 1 - A violação dos deveres estabelecidos neste diploma ou a prática de qualquer irregularidade com o intuito de obter benefícios indevidos implicam para os seus autores a reposição de todas as importâncias recebidas e ou a perda a favor do Fundo de Desemprego das que deixaram de desembolsar, acrescidas de 2% de juros por cada mês, a contar da percepção daquelas importâncias ou benefícios.
 
 2 - Sendo vários os autores da irregularidade, respondem solidariamente pela reposição prevista no número anterior.
 
@@ -168,10 +183,10 @@ e) Enviar mensalmente ao centro de emprego uma relação do tempo de trabalho pr
 
 Aprovado em Conselho de Governo em 28 de Julho de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 8 de Novembro de 1983.**
+Assinado em Angra do Heroísmo em 8 de Novembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

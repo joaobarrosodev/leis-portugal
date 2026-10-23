@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/423/2008/06/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/423-2008-449690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4eec8578059f09daa4551470c5adca737523d324ffdfc2fe7c28fb3827c02f7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c78db3b3b0b4d84a954d8569b48c870a086564212537df905f9cd380dbc75d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
 - CTT
 - SELO Comemorativo
-relationships: []
+- Serviço Postal
+relationships:
+- type: cites
+  target: pt:dre:179355:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:14Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +121,4 @@ Bloco com um selo (euro) 2,95 - 60 000.
 
 A presente portaria produz efeitos à data de 28 de Maio de 2008.
 
-**O Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos, em 3 de Junho de 2008.**
+O Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos, em 3 de Junho de 2008.

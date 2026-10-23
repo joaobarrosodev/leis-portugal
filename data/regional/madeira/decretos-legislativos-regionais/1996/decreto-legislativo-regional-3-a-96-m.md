@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 51/1996, 1º Suplemento, Série I-A de 1996-02-29
   number: '51'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 410-(2) a 410-(69)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/051a01/00020069.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3-a/1996/02/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-a-1996-152936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 221ecd4d71b8126dbeb3cc6aa86e06403b4fc44c78bb6f3926ade0c958136927
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e07a097df91539c63086d473dd51548aae7397991e83110308133b39d82fdba9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo Regional
-- Orçamento Regional
 - Madeira.região Autónoma
+- Orçamento Regional
 - Receita Regional
 relationships:
 - type: amended_by
   target: pt:dre:592760:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583047:por
+  label: "Substituído os mapas II a IX anexos pelo DLR.24-B/96/M.1996.12.24.ALR-RAM DR.IS-A [299]4º.Supl de 27/DEZ/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-b-1996-583047
+  date: '1996-12-24'
+- type: amended_by
+  target: pt:dre:231958:por
+  label: "Mantido em vigor o disposto no art 33º pelo DLR.4-A/97/M.1997.04.21.ALR-RAM, DR.IS-A [93]-Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-a-1997-231958
+  date: '1997-04-21'
+- type: amended_by
+  target: pt:dre:151291:por
+  label: "Mantido em vigor o disposto no art. 33º, pelo DLR.9/99/M.1999.02.12.ALR-RAM, DR.IS-A [53] de 04/Mar/1999-\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-1999-151291
+  date: '1999-02-12'
+- type: amended_by
+  target: pt:dre:397938:por
+  label: "Mantido em vigor o disposto no art. 33º pelo DLR.4-A/2000/M.2000.02.09.ALR-RAM DR.IS-A [33]Supl de 09/Fev/2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-a-2000-397938
+  date: '2000-02-09'
+- type: amended_by
+  target: pt:dre:592760:por
+  label: "Mantido em vigor o disposto no art. 33º pelo DLR.4-A/2001/M.2001.03.30.ALR-RAM DR.IS-A [79]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-a-2001-592760
+  date: '2001-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/407/1991/10/17/p/dre
   label: null
@@ -106,16 +132,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
+- type: cites
+  target: pt:dre:157622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654566:por
+  label: null
+  source: null
 article_structure:
   article_count: 35
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:13Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +278,7 @@ Fica o Governo Regional autorizado, mediante portaria do Secretário Regional da
 
 Fica o Governo Regional autorizado a compensar os municípios da Região, nos termos do n.º 7 do artigo 7.º da [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), de 6 de Janeiro, pela redução ou isenção dos impostos referidos na alínea a) do n.º 1 do artigo 4.º da referida lei, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/051a01/00020069.pdf))](https://files.diariodarepublica.pt/1s/1996/02/051a01/00020069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/051a01/00020069.pdf)
 
 ### CAPÍTULO III — Operações passivas e activas do Tesouro Público Regional
 
@@ -386,10 +488,10 @@ O presente diploma entra em vigor na data da sua publicação, integrando o Orç
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 6 de Fevereiro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.
 
-**Assinado em 26 de Fevereiro de 1996.**
+Assinado em 26 de Fevereiro de 1996.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/02/051a01/00020069.pdf))](https://files.diariodarepublica.pt/1s/1996/02/051a01/00020069.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/02/051a01/00020069.pdf)

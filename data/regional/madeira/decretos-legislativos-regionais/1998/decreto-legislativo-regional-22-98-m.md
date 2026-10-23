@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/1998/09/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1998-241443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf7842e3052ddebdbf6f79ad708f421183fc4648e251db99f09cd8a527d73a1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21908a0273b901e536d43d3a9ee2d0500e106d70265976cd48e06efc439b9a54
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bordadeira
-- Multa
 - Contribuições da Segurança Social
 - Definição de Competências
 - Indústria de Bordados
+- Inspecção Regional do Trabalho
 - Instituto do Bordado Tapeçaria e Artesanato da Madeira
-- Prémio de Produtividade
 - Madeira.região Autónoma
+- Multa
+- Prémio de Produtividade
 - Regime Jurídico
 - Remuneração
 - Sanção
-- Inspecção Regional do Trabalho
 - Segurança Social
 - Trabalho ao Domicilio
 relationships:
@@ -100,16 +100,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:217924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490249:por
+  label: "Revogado o DLR 12/93/M, de 23-Jul, a partir de 01.01.2011 (alteração da data de entrada em vigor efectuada pela\
+    \ Lei n.º 119/2009, de 30 de Dezembro), na redacção do presente diploma, pela LEI.110/2009.16.09.2009.AR, DR.IS [180]\
+    \ de 16.09.2009, sem prejuízo de, até à entrada em vigor da regulamentação [prevista no art. 4.º] se manter transitoriamente\
+    \ em vigor as disposições procedimentais do diploma revogado que não contrariem o disposto no Código aprovado pela citada\
+    \ Lei\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/110-2009-490249
+  date: '2009-09-16'
 article_structure:
-  article_count: 28
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:30Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +187,9 @@ d) As importâncias pagas, a título de remuneração e a título de subsídio a
 
 4 - Compete ao Instituto do Bordado, Tapeçarias e Artesanato da Madeira o processamento informatizado das remunerações das bordadeiras de casa, para efeito do apuramento das contribuições a pagar ao Centro de Segurança Social da Madeira.
 
-###### Artigo 7.º — Incumbência de trabalho
+Artigo 7.º
+
+Incumbência de trabalho
 
 1 - ...
 
@@ -214,7 +245,9 @@ e) ...
 
 5 - A composição, designações e aspecto tipográfico do documento designado por bilhete, bem como o seu período de validade como elemento de prova do trabalho executado, serão objecto de regulamentação própria, através de portaria conjunta dos secretários regionais que detiverem a tutela das áreas do trabalho, do artesanato e da segurança social.
 
-###### Artigo 8.º — Remuneração
+Artigo 8.º
+
+Remuneração
 
 1 - ...
 
@@ -232,13 +265,17 @@ e) ...
 
 8 - (Anterior n.º 9.)
 
-###### Artigo 10.º — Subsídio anual
+Artigo 10.º
+
+Subsídio anual
 
 1 - Em simultâneo com o pagamento das remunerações, nos termos previstos no artigo 8.º, será pago à bordadeira de casa um valor correspondente a um duodécimo do montante dessa remuneração.
 
 2 - O somatório dos duodécimos recebidos no período de um ano, nos termos do número anterior, representa, para todos os efeitos, o subsídio anual previsto no artigo 7.º do [Decreto-Lei n.º 440/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1991-316727), de 14 de Novembro.
 
-###### Artigo 11.º — Segurança social
+Artigo 11.º
+
+Segurança social
 
 1 - ...
 
@@ -254,7 +291,9 @@ e) ...
 
 7 - As remunerações declaradas à segurança social são imputadas ao mês de processamento executado pelo Instituto do Bordado, Tapeçarias e Artesanato da Madeira, sem prejuízo de, sempre que os montantes declarados sejam superiores aos fixados nos termos do número anterior, serem ainda imputados aos 11 meses que o precedem.
 
-###### Artigo 13.º — Sanções
+Artigo 13.º
+
+Sanções
 
 1 - ...
 
@@ -288,11 +327,15 @@ Notificações
 
 3 - A notificação considera-se feita na pessoa do infractor quando efectuada em qualquer outra que na altura o represente, ainda que não possua título bastante para o efeito, e presume-se feita no 3.º dia posterior ao do registo.
 
-###### Artigo 13.º-B — Processamento e instrução
+Artigo 13.º-B
+
+Processamento e instrução
 
 O processamento e instrução seguirão os trâmites estabelecidos no regime geral das contra-ordenações laborais.
 
-###### Artigo 13.º-C — Regime substantivo e processual
+Artigo 13.º-C
+
+Regime substantivo e processual
 
 Em tudo o que não se encontrar especialmente regulado no presente diploma é aplicável às contra-ordenações previstas nos n.os 1 e 2 do artigo 13.º do presente diploma o regime geral das contra-ordenações.»
 
@@ -308,11 +351,11 @@ A regulamentação da actividade das bordadeiras de casa, constante do [Decreto 
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira de 21 de Julho de 1998.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 28 de Agosto de 1998.**
+Assinado em 28 de Agosto de 1998.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO
 
@@ -522,7 +565,7 @@ Em tudo o que não se encontrar especialmente regulado no presente diploma é ap
 
 São aplicáveis à actividade das bordadeiras de casa as disposições relativas ao trabalho de menores.
 
-## Anexo I a que se refere o artigo 7.º, n.º 4
+Anexo I a que se refere o artigo 7.º, n.º 4
 
 1 - Classe dos pontos do bordado
 
@@ -538,34 +581,34 @@ E - Diversos. - São pontos caracterizados para certas finalidades, adaptados e 
 
 A - Classe dos arrendados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
 
 B - Classe dos abertos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
 
 C - Classe dos bastidos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
 
 D - Classe dos caseados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
 
 E - Classe dos diversos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
 
 Tabela dos factores industriais para contagem de costura
 
 A) Em todos os artigos não especificados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
 
 B) Artigos especificados
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
 
 2 - Classe dos pontos da tela bordada
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)
+[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)](https://files.diariodarepublica.pt/1s/1998/09/216a00/48524859.pdf)

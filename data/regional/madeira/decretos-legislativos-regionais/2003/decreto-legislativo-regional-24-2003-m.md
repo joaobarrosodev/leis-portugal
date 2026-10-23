@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/190a00/51905191.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2003/08/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2003-654974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c4e418f8f6e0adfecd083890d43a1f7f233b133a6740721c55537b8e255c8a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b9ee8f4ad344eb28a506e908f86c38ca0abd72e046a5083a998cb8c8c1dbc9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajudas de Custo
-- Tempo de Serviço
 - Aposentação
 - Bonificação de Pensões
+- Carreira Profissional
 - Corpo de Polícia Florestal
 - Definição de Competências
 - Direcção Regional das Florestas
 - Estatuto
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Mestre Florestal
-- Horas Extraordinárias
 - Guarda Florestal
+- Horas Extraordinárias
 - Madeira.região Autónoma
+- Mestre Florestal
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Remuneração
 - Subsídio de Refeição
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:499068:por
@@ -116,16 +116,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499068:por
+  label: "Revogado o Estatuto do Corpo de Polícia Florestal aprovado pelo DRR 1/99/M de 22-jan, na redação do presente diploma,\
+    \ pelo DLR.29/2013/M.22.08.2013.AL-RAM, DR.IS [161] de 22.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2013-499068
+  date: '2013-08-22'
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:16Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +204,9 @@ São alterados os artigos 2.º, 10.º, 13.º e 14.º do anexo I do [Decreto Regu
 
 6 - O recrutamento para os lugares de mestre florestal-coordenador far-se-á por concurso de entre mestres florestais principais com classificação de serviço não inferior a Bom.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
@@ -174,7 +214,9 @@ São alterados os artigos 2.º, 10.º, 13.º e 14.º do anexo I do [Decreto Regu
 
 3 - O disposto no número anterior é também aplicável ao pessoal que, independentemente da idade, tenha direito à aposentação extraordinária, nos termos do artigo 38.º do Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -182,7 +224,9 @@ São alterados os artigos 2.º, 10.º, 13.º e 14.º do anexo I do [Decreto Regu
 
 3 - Sempre que a permanência em postos florestais implique que a prestação ininterrupta de trabalho se prolongue para além das 0 horas, haverá direito ao percebimento de dois dias de subsídio de refeição.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Para efeitos de atribuição de ajudas de custo, nos termos do [Decreto-Lei n.º 106/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1998-176328), de 24 de Abril, considera-se domicílio necessário a área geográfica onde o funcionário exerce funções, de acordo com os limites definidos por despacho do secretário regional da tutela.
 
@@ -200,10 +244,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 23 de Julho de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 1 de Agosto de 2003.**
+Assinado em 1 de Agosto de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

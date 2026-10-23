@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 118/2007, 1º Suplemento, Série I de 2007-06-21
   number: '118'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3936-(2) a 3936-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/741-a/2007/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/741-a-2007-442119
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d152451615b8f56d83e074b44a4b1a79afe10f60d903ec515a7a64b0c02c14a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c565e347670910e1d35a1c538fc1b8f43bd3619cc8fb63fb9cd227f746b7a46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
+- Aborto
+- Administração Regional de Saúde
 - Apoio Psicológico
 - Atestado Médico
-- Medicina Privada
-- Direção Geral da Saúde
+- Cirurgia
+- Código Penal
 - Comissão Técnica
+- Confidencialidade
 - Conselho de Administração
 - Consulta Médica
+- Dados Pessoais
 - Definição de Competências
-- Administração Regional de Saúde
-- Serviço Nacional de Saúde
+- Direção Geral da Saúde
+- Estabelecimento Hospitalar
 - Fiscalização
 - Inspecção Geral das Actividades em Saúde
-- Aborto
 - Internet
-- Confidencialidade
-- Código Penal
+- Medicina Privada
+- Médico
 - Registo Obrigatório
-- Estabelecimento Hospitalar
-- Cirurgia
-- Dados Pessoais
+- Serviço Nacional de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:395285:por
@@ -104,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/90/1997/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/90/1997/07/30/p/dre
+- type: cites
+  target: pt:dre:144792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519464:por
+  label: null
+  source: null
 article_structure:
   article_count: 52
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:39Z'
   warnings: []
   errors: []
 ---
@@ -356,19 +368,19 @@ d) Legislação aplicável.
 
 A presente portaria entra em vigor no dia 15 de Julho de 2007.
 
-**O Ministro da Saúde, António Fernando Correia de Campos, em 19 de Junho de 2007.**
+O Ministro da Saúde, António Fernando Correia de Campos, em 19 de Junho de 2007.
 
 ## ANEXO I — Consentimento livre e esclarecido para a interrupção da gravidez
 
 (previsto no artigo 4.º - a integrar o processo clínico)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
 
 ## ANEXO II — Registo da interrupção da gravidez
 
 (previsto no artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
 
 Instruções de preenchimento
 
@@ -410,7 +422,7 @@ Método contraceptivo - assinalar as opções de resposta 1, 2, 3 ou 4 apenas qu
 
 (modelo indicativo previsto no artigo 12.º, n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
 
 Notas
 
@@ -422,13 +434,13 @@ O objector deve especificar expressamente quais as alíneas do n.º 1 do artigo 
 
 (declaração prevista no artigo 16.º, n.º 5)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
 
 ## ANEXO V — Certificado de comprovação do tempo de gestação
 
 (previsto no artigo 17.º - a integrar o processo clínico)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
 
 ## ANEXO VI — Reconhecimento da aptidão de estabelecimento de saúde para a realização da interrupção da gravidez
 
@@ -644,7 +656,7 @@ Interrupção cirúrgica da gravidez
 
 Instalações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
 
 QUADRO 2
 
@@ -652,7 +664,7 @@ Interrupção cirúrgica da gravidez
 
 Equipamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
 
 QUADRO 3
 
@@ -660,10 +672,10 @@ Desinfecção e esterilização
 
 Instalações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
 
 QUADRO 4
 
 Gases medicinal e aspiração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11801/00020011.pdf)

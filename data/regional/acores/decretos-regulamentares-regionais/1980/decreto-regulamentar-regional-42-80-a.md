@@ -47,36 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1980-461049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70d9fc7afbfb9d07094212a4d10c2c95a00f1c4e0fa456a7c069ddd36987666b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 443bd7de474165dc623758e06a39c94eed1a9cd5e1e9e4574b83801e5104bfc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Autarquia Local
+- Finanças Locais
+- Governo Regional
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:324943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:457987:por
+  label: Rectificado pela DECL.DD6703.24.10.1980.PCM, DR.IS [259] de 08.11.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-457987
+  date: '1980-10-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:14Z'
   warnings: []
   errors: []
 ---
@@ -95,23 +117,23 @@ Assim:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º A verba a transferir para as autarquias locais, por força da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), é inscrita no orçamento da Região Autónoma dos Açores, sendo o processamento dos respectivos pagamentos feito pela Secretaria Regional da Administração Pública, de acordo com o disposto nos artigos seguintes.
+Artigo 1.º A verba a transferir para as autarquias locais, por força da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), é inscrita no orçamento da Região Autónoma dos Açores, sendo o processamento dos respectivos pagamentos feito pela Secretaria Regional da Administração Pública, de acordo com o disposto nos artigos seguintes.
 
-###### Art. 2.º Os montantes devidos no ano de 1980 constam do quadro anexo ao presente diploma.
+Art. 2.º Os montantes devidos no ano de 1980 constam do quadro anexo ao presente diploma.
 
-###### Art. 3.º Aos montantes constantes do quadro anexo serão deduzidos os processamentos efectuados no corrente ano pelo Governo Regional ao abrigo do regime duodecimal, no que respeita às colunas 1 e 4, ou contra autos de medição, quanto às colunas 2 e 3.
+Art. 3.º Aos montantes constantes do quadro anexo serão deduzidos os processamentos efectuados no corrente ano pelo Governo Regional ao abrigo do regime duodecimal, no que respeita às colunas 1 e 4, ou contra autos de medição, quanto às colunas 2 e 3.
 
-###### Art. 4.º As verbas devidas aos municípios por força da alínea b) do n.º 1 do artigo 33.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio (OGE), constantes da coluna 1 do quadro anexo, serão transferidas da forma seguinte:
+Art. 4.º As verbas devidas aos municípios por força da alínea b) do n.º 1 do artigo 33.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio (OGE), constantes da coluna 1 do quadro anexo, serão transferidas da forma seguinte:
 
 a) O primeiro processamento corresponderá a 7/12 do montante global anual, deduzido da parcela já transferida, para despesas correntes, nos termos do artigo 3.º;
 
 b) Os restantes duodécimos serão processados mensalmente nos quinze dias subsequentes à sua entrada nos cofres da Região.
 
-###### Art. 5.º As verbas devidas aos municípios por força da alínea c) do n.º 1 do artigo 33.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio (OGE), constam das colunas 2, 3 e 4 do quadro anexo ao presente diploma.
+Art. 5.º As verbas devidas aos municípios por força da alínea c) do n.º 1 do artigo 33.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio (OGE), constam das colunas 2, 3 e 4 do quadro anexo ao presente diploma.
 
-###### Art. 6.º As verbas constantes da coluna 4 do quadro anexo correspondem à participação das autarquias locais da Região no Fundo de Equilíbrio Financeiro, nos termos da alínea c) do artigo 5.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), deduzida em cada município dos montantes devidos em 1980 por compromissos anteriores a 31 de Dezembro de 1978 pelo Governo da República - constantes da coluna 2 - e pelo Governo Regional - inscritas na coluna 3 -, e não prejudicam o disposto no n.º 3 do artigo 33.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio (OGE).
+Art. 6.º As verbas constantes da coluna 4 do quadro anexo correspondem à participação das autarquias locais da Região no Fundo de Equilíbrio Financeiro, nos termos da alínea c) do artigo 5.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), deduzida em cada município dos montantes devidos em 1980 por compromissos anteriores a 31 de Dezembro de 1978 pelo Governo da República - constantes da coluna 2 - e pelo Governo Regional - inscritas na coluna 3 -, e não prejudicam o disposto no n.º 3 do artigo 33.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio (OGE).
 
-###### Art. 7.º As verbas inscritas na coluna 4 do quadro anexo serão transferidas da forma seguinte:
+Art. 7.º As verbas inscritas na coluna 4 do quadro anexo serão transferidas da forma seguinte:
 
 a) O primeiro processamento corresponderá a 7/12 do montante global anual, deduzido das verbas já processadas nos termos do artigo 3.º;
 
@@ -119,18 +141,18 @@ b) Os restantes duodécimos serão processados mensalmente nos quinze dias subse
 
 2 - As verbas referidas nas colunas 2 e 3 do quadro anexo serão transferidas pela Secretaria Regional da Administração Pública, mediante comunicação da Secretaria Regional responsável pela comparticipação, quando se trata da coluna 3, e pelas Secretarias Regionais do Comércio e Indústria e do Equipamento Social, nos casos da coluna 2.
 
-###### Art. 8.º Por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e do Equipamento Social, será definido o tipo de documentos de justificação a que se refere o n.º 2 do artigo 7.º e publicadas as instruções necessárias à execução do presente diploma.
+Art. 8.º Por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e do Equipamento Social, será definido o tipo de documentos de justificação a que se refere o n.º 2 do artigo 7.º e publicadas as instruções necessárias à execução do presente diploma.
 
 Aprovado pelo Governo Regional em 28 de Julho de 1980.
 
-**O Presidente do Governo Regional dos Açores em Exercício, Raul Gomes dos Santos.**
+O Presidente do Governo Regional dos Açores em Exercício, Raul Gomes dos Santos.
 
-**Assinado em 12 de Agosto de 1980.**
+Assinado em 12 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 Quadro anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21000/26142615.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21000/26142615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21000/26142615.pdf)

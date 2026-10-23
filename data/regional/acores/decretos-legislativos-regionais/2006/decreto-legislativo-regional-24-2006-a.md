@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14500/53815385.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2006/07/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2006-539404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1115069a6f220c8fe3277cf4bf9dcef7ef68087d9f1de2fd1cdc400777d2a79d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c9751c6428043a1018b7b11d8c5b7705226a218450614a9b25d9377ea0f6a66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência para a Promoção do Investimento dos Açores
+- APIA
+- Apoio ao Investimento
 - Capital Social
 - Criação de Empresas
 - Empresa Pública Regional
 - Estatuto
-- Apoio ao Investimento
 - Investimento
-- APIA
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:258529:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604648:por
+  label: "Alterados o nº 3 do art. 1º, nº 1 do art. 4º, art. 5º, nº 2 do art. 13º, nº 3 do art. 15º, art. 25º e art. 26º e\
+    \ republicados os Estatutos, pelo DLR.1/2009/A.02.03.2009.AL-RAA, DR.IS [42] de 02.03.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2009-604648
+  date: '2009-03-02'
+- type: amended_by
+  target: pt:dre:258529:por
+  label: "Extinta a Agência para a Promoção do Investimento dos Açores, E.P.E. (APIA, E.P.E.), criada pelo presente diploma,\
+    \ alterado pelo DLR 1/2009/A de 02-mar, pelo DLR.1/2013/A.19.02.2013.AL-RAA, DR.IS [35] de 19.02.2013, que determinou\
+    \ a sucessão automática e global pela Sociedade para o Desenvolvimento Empresarial dos Açores, E.P.E.R, no conjunto de\
+    \ bens, direitos, obrigações ou outras posições jurídicas integrantes da APIA; e revogou, a partir de 20.02.2013, o presente\
+    \ diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2013-258529
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
   article_count: 34
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:21Z'
   warnings: []
   errors: []
 ---
@@ -127,11 +146,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 28 de Junho de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 14 de Julho de 2006.**
+Assinado em Angra do Heroísmo em 14 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

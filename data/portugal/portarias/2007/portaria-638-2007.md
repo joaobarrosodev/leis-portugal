@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10400/35553565.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/638/2007/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/638-2007-638727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9586c03658a49d3b7f27abeff73e51ba35b1a43a9c6c5420e415b08f64915f49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e672d4bac596e0ff81f1318f15801af3260320c5b8fce56c956eb819336f500b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Estatuto
 - Instituto da Segurança Social
 - Pessoal Dirigente
-- Estatuto
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:553395:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233709:por
+  label: "Alterados os arts 3.º, 4.º, 23.º, 28.º e 30.º, adita os arts. 3.º-A, 3.º-B, 3.º-C, 4.º-A, 29.º-A, 29.º-B, 30.º-A\
+    \ e 31.º-B, alterada a epígrafe do cap. VI, que passa a denominar-se \"Disposições Comuns\", eliminado o cap. VII e a\
+    \ respectiva epígrafe, alterados os anexos I e II, revogado o art. 32.º, todos dos Estatutos do Instituto da Segurança\
+    \ Social, I. P., aprovados pelo presente diploma, republicado em anexo, com a redacção actual, pela PORT.1460-A/2009.31.12.2009.MFAP,\
+    \ DR.IS [252-supl] de 31.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1460-a-2009-233709
+  date: '2009-12-31'
+- type: amended_by
+  target: pt:dre:617132:por
+  label: "Alterados os arts. 3º-A, 4º-A (ambos aditados pela Port 1460-A/2009, de 31-Dez), 7º, 29º-B e 30º-A ( os dois últimos\
+    \ aditados pela Port 1460-A/2009, de 31-Dez) dos Estatutos do Instituto da Segurança Social, I. P., aprovados pelo presente\
+    \ diploma, republicados pela Port 1460-A/2009, de 31-Dez, pela PORT.1329-B/2010.30.12.2010.MFAP, DR.IS [252-Supl] de 30.12.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1329-b-2010-617132
+  date: '2010-12-30'
+- type: amended_by
+  target: pt:dre:280945:por
+  label: "Determinada a cedência à Santa Casa da Misericórdia de Lisboa (SCML), pelo período de três anos, com início em 01.01.2011,\
+    \ dos estabelecimentos integrados, situados na área do Centro Distrital de Lisboa, do Instituto de Segurança Social, I.P.\
+    \ (ISS, I.P.), a que se refere o nº 3 do art. 4º dos Estatutos do ISS, I.P., pelo DEC LEI.16/2011.25.01.2011.MTSSO, DR.IS\
+    \ [17] de 25.01.2011, que definiu a sucessão da SCML, no atinente ao apoio domiciliário e ao acolhimento de emergência,\
+    \ bem como atinente ao património e posições contratuais detidas pelo ISS, I.P., nos termos do disposto no art. 9º daquele\
+    \ diploma, relativamente aos equipamentos cedidos; e alterou, nos termos do anexo II do mesmo diploma, o anexo nº 1 do\
+    \ presente (alterado pela Port 1460-A/2009 de 31-Dez). \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2011-280945
+  date: '2011-01-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/214/2007/05/29/p/dre
   label: null
@@ -82,16 +110,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638526:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553395:por
+  label: "Revogada a presente portaria, na redacção da Port 1460-A/2009, de 31-dez, e da Port 1329-A/2010, de 20-dez, pela\
+    \ PORT.135/2012.08.05.2012.MF, DR.IS [89] de 08.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-2012-553395
+  date: '2012-05-08'
 article_structure:
   article_count: 34
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:56Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +160,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 25 de Maio de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DA SEGURANÇA SOCIAL, I. P.
 
@@ -836,10 +878,10 @@ c) Área de administração geral.
 
 Estabelecimentos integrados do ISS, I. P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10400/35553565.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10400/35553565.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10400/35553565.pdf)
 
 ## ANEXO N.º 2 — (n.º 2 do artigo 32.º dos estatutos)
 
 Quadro de pessoal dirigente do ISS, I. P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10400/35553565.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10400/35553565.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10400/35553565.pdf)

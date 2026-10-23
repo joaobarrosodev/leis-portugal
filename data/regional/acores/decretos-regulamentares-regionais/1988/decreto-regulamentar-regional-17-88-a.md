@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/04/09100/14891491.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1988-285169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4eb3f63da61fdeaaa92600632964fc0950b9293a9053d9d74b252f0f4fd39e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e11cf2197e0ddb9f0a0437c90f4fd9aedfa47b21083ba6ec83a60d6c822a771
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Secretaria Regional do Comércio e Indústria
 relationships:
 - type: amended_by
   target: pt:dre:332726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666126:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332726:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 9/90/A - Diário da República n.º 57/1990, Série I de 1990-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1990-332726
+  date: '1990-03-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:01Z'
   warnings: []
   errors: []
 ---
@@ -97,26 +117,26 @@ Considerando o disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84]
 
 O Governo decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aditado ao [Decreto Regulamentar Regional n.º 10/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1987-666126), de 9 de Abril, o artigo 66.º-A, com a seguinte redacção:
+Artigo 1.º É aditado ao [Decreto Regulamentar Regional n.º 10/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1987-666126), de 9 de Abril, o artigo 66.º-A, com a seguinte redacção:
 
-###### Art. 66.º-A - 1 - O pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário da Secretaria Regional do Comércio e Indústria, conte mais de três anos de serviço ininterrupto e que tenha sido admitido com observância dos requisitos habilitacionais pode ser integrado directamente em lugares do quadro em categoria correspondente às funções que actualmente desempenha.
+Art. 66.º-A - 1 - O pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário da Secretaria Regional do Comércio e Indústria, conte mais de três anos de serviço ininterrupto e que tenha sido admitido com observância dos requisitos habilitacionais pode ser integrado directamente em lugares do quadro em categoria correspondente às funções que actualmente desempenha.
 
 2 - A integração prevista no número anterior não depende de quaisquer formalidades, salvo o visto da Secção Regional do Tribunal de Contas, e far-se-á mediante lista nominativa.
 
-###### Art. 2.º É alargado o quadro do pessoal a que se refere o n.º 1 do artigo 45.º do [Decreto Regulamentar Regional n.º 10/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1987-666126), de 9 de Abril, sendo, em consequência, rectificadas as alíneas d) e e) das observações ao mesmo, conforme constante do mapa anexo.
+Art. 2.º É alargado o quadro do pessoal a que se refere o n.º 1 do artigo 45.º do [Decreto Regulamentar Regional n.º 10/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1987-666126), de 9 de Abril, sendo, em consequência, rectificadas as alíneas d) e e) das observações ao mesmo, conforme constante do mapa anexo.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 10 de Fevereiro de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 22 de Março de 1988.**
+Assinado em Angra do Heroísmo em 22 de Março de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 MAPA ANEXO
 
 Mapa de pessoal a que se refere o n.º 1 do artigo 45.º do [Decreto Regulamentar Regional n.º 10/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1987-666126)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/09100/14891491.pdf))](https://files.diariodarepublica.pt/1s/1988/04/09100/14891491.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/04/09100/14891491.pdf)

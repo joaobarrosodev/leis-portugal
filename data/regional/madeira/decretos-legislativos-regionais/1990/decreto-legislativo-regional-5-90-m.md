@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1990-335405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 928887ffda108af832a44f6b750f92b70ae38574fcf08a3e9a7d5fc133457ea0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: daef61a32f3a96a6b2dca3a32a0fe54b63a124ff67bb0d2236e0dc916209ce32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Madeira.região Autónoma
+- Tabaco
+- Taxa
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627236:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:31Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +110,19 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, da alínea c) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e do artigo 9.º do [Decreto-Lei n.º 444/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), de 31 de Dezembro, decreta o seguinte:
 
-###### Artigo 1.º As taxas do imposto de consumo sobre os cigarros produzidos e consumidos na Região Autónoma da Madeira são as constantes do mapa anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º As taxas do imposto de consumo sobre os cigarros produzidos e consumidos na Região Autónoma da Madeira são as constantes do mapa anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º A taxa do elemento ad valorem será reduzida na medida do imposto sobre o valor acrescentado (IVA) aplicável, nos termos do respectivo Código, ao tabaco manufacturado.
+Art. 2.º A taxa do elemento ad valorem será reduzida na medida do imposto sobre o valor acrescentado (IVA) aplicável, nos termos do respectivo Código, ao tabaco manufacturado.
 
-###### Art. 3.º O presente diploma entra em vigor 10 dias após a sua publicação.
+Art. 3.º O presente diploma entra em vigor 10 dias após a sua publicação.
 
 Aprovado em sessão plenária de 8 de Novembro de 1989.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Legislativa Regional, em exercício, António Gil Inácio da Silva.
 
-**Assinado em 28 de Novembro de 1989.**
+Assinado em 28 de Novembro de 1989.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa anexo a que se refere o artigo 1.º
 
@@ -114,4 +130,4 @@ Cigarros produzidos e consumidos na Região Autónoma da Madeira
 
 Taxas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/02400/04020402.pdf))](https://files.diariodarepublica.pt/1s/1990/01/02400/04020402.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/02400/04020402.pdf)

@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1990-313777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11d66f0e11b53d17dbdc9011f6a044cff4cccfbdfbe38a20bc25fe6ab62f4803
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e002e2a64d2c219fb2d0f3bff827c0fa9308db50ffe24461a5f8abce2f3bf2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Associação de Municípios de Direito Público
+- Autarquia Local
+- Madeira.região Autónoma
+- Regime Jurídico
+- Tutela Administrativa
+relationships:
+- type: cites
+  target: pt:dre:547247:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:27Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +100,18 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Na aplicação à Região Autónoma da Madeira do disposto na [Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/lei/87-1989-547247), de 9 de Setembro, serão observadas as normas constantes dos artigos seguintes.
+Artigo 1.º Na aplicação à Região Autónoma da Madeira do disposto na [Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/lei/87-1989-547247), de 9 de Setembro, serão observadas as normas constantes dos artigos seguintes.
 
-###### Art. 2.º Cabem aos membros do Governo Regional que tenham a seu cargo os sectores da administração local e das finanças, no domínio das respectivas áreas de competência, os poderes conferidos pelos artigos 5.º, 6.º, 7.º e 11.º ao Governo e aos governadores civis.
+Art. 2.º Cabem aos membros do Governo Regional que tenham a seu cargo os sectores da administração local e das finanças, no domínio das respectivas áreas de competência, os poderes conferidos pelos artigos 5.º, 6.º, 7.º e 11.º ao Governo e aos governadores civis.
 
-###### Art. 3.º A dissolução dos órgãos autárquicos prevista no artigo 13.º será determinada por decreto legislativo regional, sob proposta do Governo Regional.
+Art. 3.º A dissolução dos órgãos autárquicos prevista no artigo 13.º será determinada por decreto legislativo regional, sob proposta do Governo Regional.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 7 de Novembro de 1989.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Legislativa Regional, em exercício, António Gil Inácio da Silva.
 
-**Assinado em 28 de Novembro de 1989.**
+Assinado em 28 de Novembro de 1989.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

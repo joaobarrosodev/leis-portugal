@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/03/06200/09160924.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1983-310399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d87d2d49bc9a82ba27cf4eff2aece9f51b6934cd360fdd6b906d709cf3adaec3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65e460c2cc54914545ca5ba9dfab18fa36515c1f054fbabcb2116bf410caf957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Regional de Aeroportos
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional do Comércio e Transportes
 relationships:
 - type: amended_by
   target: pt:dre:352325:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:197171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682011:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:195193:por
+  label: Revogado o DRR 17/82/M, de 31-ago e transferida as competências atribuídas à Direção Regional de Transportes, no
+    domínio dos transportes aéreos para a Direção Regional de Aeroportos, constante do presente diploma pelo(a) Decreto Regulamentar
+    Regional n.º 8/86/M - Diário da República n.º 98/1986, Série I de 1986-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1986-195193
+  date: '1986-04-29'
+- type: repealed_by
+  target: pt:dre:352325:por
+  label: "Revogado pelo DLR.27/86/M.15.12.1986.ARM, DR.IS [289]2ºSupl de 17.12.1986, com a entrada em vigor dos decretos regulamentares\
+    \ regionais referidos no seu artigo 3.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-1986-352325
+  date: '1986-12-15'
 article_structure:
-  article_count: 32
+  article_count: 31
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:50Z'
   warnings: []
   errors: []
 ---
@@ -112,23 +185,23 @@ Nestes termos:
 
 A Assembleia Regional da Madeira decreta, ao abrigo da alínea a) do artigo 229.º da Constituição da República e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º É criada a Direcção Regional de Aeroportos, a qual fica integrada na Secretaria Regional do Comércio e Transportes e se rege pela Lei Orgânica anexa ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É criada a Direcção Regional de Aeroportos, a qual fica integrada na Secretaria Regional do Comércio e Transportes e se rege pela Lei Orgânica anexa ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º Nos termos do [Decreto-Lei n.º 294/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1980-470792), de 16 de Agosto, o serviço público de apoio à aviação civil referente ao planeamento, construção e exploração das infra-estruturas aeroportuárias situadas na Região é transferido para o âmbito das atribuições do Governo Regional da Madeira, a ser exercido pela Secretaria Regional do Comércio e Transportes, através da Direcção Regional de Aeroportos, nos termos da Lei Orgânica anexa.
+Art. 2.º Nos termos do [Decreto-Lei n.º 294/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1980-470792), de 16 de Agosto, o serviço público de apoio à aviação civil referente ao planeamento, construção e exploração das infra-estruturas aeroportuárias situadas na Região é transferido para o âmbito das atribuições do Governo Regional da Madeira, a ser exercido pela Secretaria Regional do Comércio e Transportes, através da Direcção Regional de Aeroportos, nos termos da Lei Orgânica anexa.
 
-###### Art. 3.º Para a realização dos fins referidos no artigo anterior, passam a pertencer ao Governo Regional as atribuições e competências confiadas à empresa pública Aeroportos e Navegação Aérea pelo [Decreto-Lei n.º 246/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1979-381295), de 25 de Julho, e pelo estatuto a ele anexo, quanto às actividades e serviços referentes aos Aeroportos do Funchal e de Porto Santo, à excepção das atribuições, competências ou direitos relacionados com a actividade de navegação aérea nos termos dos artigos 2.º e 3.º do [Decreto-Lei n.º 294/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1980-470792).
+Art. 3.º Para a realização dos fins referidos no artigo anterior, passam a pertencer ao Governo Regional as atribuições e competências confiadas à empresa pública Aeroportos e Navegação Aérea pelo [Decreto-Lei n.º 246/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1979-381295), de 25 de Julho, e pelo estatuto a ele anexo, quanto às actividades e serviços referentes aos Aeroportos do Funchal e de Porto Santo, à excepção das atribuições, competências ou direitos relacionados com a actividade de navegação aérea nos termos dos artigos 2.º e 3.º do [Decreto-Lei n.º 294/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1980-470792).
 
-###### Art. 4.º - 1 - Os bens de que a ANA, E. P., é titular na Região são transferidos para esta Região Autónoma, à excepção dos equipamentos afectos à actividade de navegação aérea, incluindo móveis, utensílios e acessórios, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 530/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1980-457474), de 5 de Novembro.
+Art. 4.º - 1 - Os bens de que a ANA, E. P., é titular na Região são transferidos para esta Região Autónoma, à excepção dos equipamentos afectos à actividade de navegação aérea, incluindo móveis, utensílios e acessórios, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 530/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1980-457474), de 5 de Novembro.
 
 2 - São igualmente transferidos para a titularidade da Região Autónoma da Madeira os sistemas visuais de aproximação e aterragem, nomeadamente os vasis e os respeitantes à iluminação e à marcação das pistas.
 
-###### Art. 5.º As obrigações a que se refere o artigo 3.º, n.º 1, do [Decreto-Lei n.º 530/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1980-457474) passam para a responsabilidade do Governo Regional da Madeira, a serem exercidas pela Secretaria Regional do Comércio e Transportes, através da Direcção Regional de Aeroportos.
+Art. 5.º As obrigações a que se refere o artigo 3.º, n.º 1, do [Decreto-Lei n.º 530/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1980-457474) passam para a responsabilidade do Governo Regional da Madeira, a serem exercidas pela Secretaria Regional do Comércio e Transportes, através da Direcção Regional de Aeroportos.
 
-###### Art. 6.º Os direitos e obrigações a que se refere o n.º 1 do artigo 5.º do mesmo diploma legal são transferidos para a titularidade da Região Autónoma da Madeira.
+Art. 6.º Os direitos e obrigações a que se refere o n.º 1 do artigo 5.º do mesmo diploma legal são transferidos para a titularidade da Região Autónoma da Madeira.
 
-###### Art. 7.º O pessoal da ANA, E. P., a que se refere o artigo 1.º do [Decreto-Lei n.º 538/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1980-457616), de 7 de Novembro, exceptuando o que preste serviço no sector da navegação aérea, é transferido para a Direcção Regional de Aeroportos, desde que não tenha usado do direito de opção previsto no artigo 4.º do mesmo diploma.
+Art. 7.º O pessoal da ANA, E. P., a que se refere o artigo 1.º do [Decreto-Lei n.º 538/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1980-457616), de 7 de Novembro, exceptuando o que preste serviço no sector da navegação aérea, é transferido para a Direcção Regional de Aeroportos, desde que não tenha usado do direito de opção previsto no artigo 4.º do mesmo diploma.
 
-###### Art. 8.º - 1 - Os trabalhadores transferidos nos termos do artigo anterior e que estejam sujeitos ao regime de contrato individual de trabalho mantêm a sua situação jurídica, sendo a ANA, E. P., substituída, para todos os efeitos, nos respectivos contratos, pelo Governo Regional da Madeira, conforme o disposto no artigo 3.º do [Decreto-Lei n.º 538/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1980-457616).
+Art. 8.º - 1 - Os trabalhadores transferidos nos termos do artigo anterior e que estejam sujeitos ao regime de contrato individual de trabalho mantêm a sua situação jurídica, sendo a ANA, E. P., substituída, para todos os efeitos, nos respectivos contratos, pelo Governo Regional da Madeira, conforme o disposto no artigo 3.º do [Decreto-Lei n.º 538/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1980-457616).
 
 2 - Os trabalhadores referidos no número anterior mantêm as categorias, remunerações e demais regalias adquiridas até ao presente, na sua actual expressão.
 
@@ -136,19 +209,19 @@ A Assembleia Regional da Madeira decreta, ao abrigo da alínea a) do artigo 229.
 
 4 - Exclusivamente para efeitos de preenchimento do quadro de pessoal da Direcção Regional de Aeroportos, os trabalhadores em regime de contrato individual de trabalho ocuparão o equivalente número de vagas no quadro anexo à Lei Orgânica aprovada pelo presente diploma, segundo o mapa de equivalências que se publica também em anexo à mesma Lei Orgânica.
 
-###### Art. 9.º O disposto no artigo anterior aplica-se igualmente aos funcionários a que se refere o artigo 2.º do [Decreto-Lei n.º 538/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1980-457616).
+Art. 9.º O disposto no artigo anterior aplica-se igualmente aos funcionários a que se refere o artigo 2.º do [Decreto-Lei n.º 538/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1980-457616).
 
-###### Art. 10.º As dúvidas que se suscitarem na aplicação e interpretação deste diploma serão resolvidas por deliberação do Governo Regional da Madeira.
+Art. 10.º As dúvidas que se suscitarem na aplicação e interpretação deste diploma serão resolvidas por deliberação do Governo Regional da Madeira.
 
-###### Art. 11.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 11.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 25 de Janeiro de 1983.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 10 de Fevereiro de 1983.**
+Assinado em 10 de Fevereiro de 1983.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 LEI ORGÂNICA DA DIRECÇÃO REGIONAL DE AEROPORTOS
 
@@ -458,8 +531,8 @@ As dúvidas que se suscitarem na interpretação ou aplicação da presente Lei 
 
 ## ANEXO I — Mapa do pessoal da Direcção Regional de Aeroportos a que se refere o n.º 2 de artigo 11.º da Lei Orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06200/09160924.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06200/09160924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06200/09160924.pdf)
 
 ## ANEXO II — Mapa de equivalências a que se refere o n.º 4 do artigo 8.º do diploma preambular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/03/06200/09160924.pdf))](https://files.diariodarepublica.pt/1s/1983/03/06200/09160924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/03/06200/09160924.pdf)

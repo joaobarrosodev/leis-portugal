@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/162b00/38593860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1994-298837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 594446db35d5de1f17b68f1bcfb79cfc15b8705b13071c20d3b2088bad339738
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f84a7503da2f8b852d9add8d7ea5f55c4d4ec397a1e1e37d2828bd9dd35ac318
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,68 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
+- Açores
 - Conselho Regional de Incentivos
 - Definição de Competências
-- Secretaria Regional das Finanças Planeamento e Administração Pública
+- Governo Regional
 - Orgânica
-- Açores
+- Secretaria Regional das Finanças Planeamento e Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:152710:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "TRANSFERIDAS PARA A SECRETÁRIA REGIONAL DA JUVENTUDE, EMPREGO, COMERCIO, INDÚSTRIA E ENERGIA, AS COMPETENCIAS DO\
+    \ IIPA QUE, NOS TERMOS DO DISPOSTO NO ART 4 DO PRESENTE DIPLOMA, SE TRADUZEM NO APOIO AO CONSELHO REGIONAL DE INCENTIVOS\
+    \ (CRI), PELO DRR 33/96/A DE 03-JUL DR.IS-B [183] DE 08/AGO/1996, SEM PREJUÍZO DO EXERCÍCIO DAS COMPETENCIAS QUE, NESTE\
+    \ CONTEXTO, CAIBAM A SECRETÁRIA REGIONAL DAS FINANÇAS, PLANEAMENTO E ADMINISTRAÇÃO PÚBLICA, NOS TERMOS DO SEU DIPLOMA\
+    \ ORGÂNICO\0ERMOS DO SEU DIPLOMA ORGÂNICO"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-08'
+- type: amended_by
+  target: pt:dre:138815:por
+  label: "Alterado o art. 5º, pelo DRR.4/99/A.1999.03.16.SRE-RAA, DR.IS-B [79] de 05/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1999-138815
+  date: '1999-03-16'
+- type: amended_by
+  target: pt:dre:291927:por
+  label: "Alterada a redacção dos arts. 19º,4º,9º,11º e 12º) pelo DRR.15/2000/A.2000.05.08.PG-RAA, DR.IS-B [122] de 26/Mai/2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2000-291927
+  date: '2000-05-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/10/1991/03/23/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/10/1991/03/23/a/dre
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549409:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152710:por
+  label: "Revogado pelo DRR.13/2002/A.2002.04.30.PG-RAA, DR.IS-B [121] de 25/Mai/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2002-152710
+  date: '2002-04-30'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:23Z'
   warnings: []
   errors: []
 ---
@@ -195,10 +232,10 @@ O CRI elaborará, no prazo de 30 dias a contar da tomada de posse dos seus membr
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Maio de 1994.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 22 de Junho de 1994.**
+Assinado em Angra do Heroísmo em 22 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

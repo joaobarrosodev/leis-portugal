@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 41/2009, 1º Suplemento, Série I de 2009-02-27
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1388-(12) a 1388-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/04101/0001200013.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/230-a/2009/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-a-2009-260663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60c1ae935522d6f20629890cfe4151ea8bd2db39c3b93b63b68014366ef4a61a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18fc98b0cd56cd06958c768acebb00841f7e57be078527d90db29d72808ad94a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,19 @@ relationships:
   target: pt:dre:139033:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:139033:por
+  label: "Determinada a suspensão até 31.12.2016 dos prémios de permanência aprovados pela Port 73-A/2008, de 23-jan, na redação\
+    \ do presente diploma, pela PORT.268-D/2012.31.08.2012.MF, DR.IS [169-2ºSupl] de 31.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-d-2012-139033
+  date: '2012-08-31'
+- type: amended_by
+  target: pt:dre:66384016:por
+  label: Determinado o fecho da subscrição da série C de certificados de aforro, criada pela Port 73-A/2008 de 23-jan, alterada
+    pelo presente diploma, mantendo inalteradas as condições remuneratórias fixadas para as séries anteriores pelo(a) Portaria
+    n.º 17-B/2015 - Diário da República n.º 21/2015, 2º Suplemento, Série I de 2015-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-b-2015-66384016
+  date: '2015-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2002/05/04/p/dre
   label: null
@@ -84,16 +97,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/73-a/2008/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/73-a/2008/01/23/p/dre
+- type: cites
+  target: pt:dre:288037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370864:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:56Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +173,7 @@ a) O disposto na alínea b) do n.º 1.º é aplicável às unidades de certifica
 
 b) O disposto na alínea c) do n.º 1.º é aplicável desde a data em que se constitua o direito ao prémio de permanência correspondente ao 2.º ano.
 
-**O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina, em 26 de Fevereiro de 2009.**
+O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina, em 26 de Fevereiro de 2009.
 
 ## ANEXO — Certificados de aforro - Série C
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2014/01/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2014-571043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04d60c750974ca21e24d2f979c379d1c1d15b3ddd27b5c87cdb6430f85a0e764
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ed36a805a516aa506b7c5de0e9ef114f0310223defbfe68a5e7e543ed848407
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Pessoal Dirigente
+- Açores
+- Administração Regional
 - Definição de Competências
 - Estatuto
+- Instituto da Segurança Social
 - Instituto Público
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Administração Regional
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.d
@@ -115,16 +115,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre
+- type: cites
+  target: pt:dre:138306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
 article_structure:
   article_count: 48
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:12Z'
   warnings: []
   errors: []
 ---
@@ -167,11 +207,11 @@ As referências, em lei ou regulamento, ao Instituto para o Desenvolvimento Soci
 
 Aprovado em Conselho do Governo Regional, na Horta, em 11 de dezembro de 2013.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 13 de janeiro de 2014.**
+Assinado em Angra do Heroísmo em 13 de janeiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -385,7 +425,9 @@ e) A Divisão de Prestações Pecuniárias - Regime Previdencial.
 
 4 - O diretor do Departamento de Prestações e Contribuições pode delegar ou subdelegar nos chefes de divisão do mesmo departamento as respetivas competências próprias ou delegadas, com faculdade de subdelegação.
 
-###### Artigo 14.º — Divisão de Enquadramento
+###### Artigo 14.º
+
+##### Divisão de Enquadramento
 
 1 - À Divisão de Enquadramento compete proceder à identificação e qualificação de beneficiários e contribuintes e ao acompanhamento de processos nacionais e internacionais, em colaboração com os núcleos de atendimento e sistemas de segurança social estrangeiros, designadamente:
 
@@ -419,7 +461,9 @@ n) Desempenhar outras tarefas ou atividades superiormente determinadas.
 
 2 - A Divisão de Enquadramento é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 15.º — Divisão de Contribuições
+###### Artigo 15.º
+
+##### Divisão de Contribuições
 
 1 - À Divisão de Contribuições compete assegurar o acompanhamento e controlo do cumprimento das obrigações contributivas, contencioso e ilícitos criminais, designadamente:
 
@@ -477,7 +521,9 @@ b) O Núcleo de Contencioso e Ilícitos para o desempenho das competências prev
 
 4 - O Núcleo de Processamento de Contribuições e o Núcleo de Contencioso e Ilícitos são coordenados por trabalhadores designados para o efeito por deliberação do conselho diretivo do ISSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, ou por trabalhadores com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 16.º — Divisão de Prestações Diferidas
+###### Artigo 16.º
+
+##### Divisão de Prestações Diferidas
 
 1 - À Divisão de Prestações Diferidas compete assegurar a instrução e organização de processos de atribuição de prestações diferidas do regime geral e regime especial e o acompanhamento e controlo desses mesmos processos, designadamente:
 
@@ -551,7 +597,9 @@ b) O Núcleo de Processamento de Prestações de Sobrevivência e Complementos R
 
 4 - O Núcleo de Processamento de Prestações de Invalidez e Velhice e Verificação de Incapacidade e o Núcleo de Processamento de Prestações de Sobrevivência e Complementos Regionais são coordenados por trabalhadores designados para o efeito através de deliberação do conselho diretivo do ISSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, ou por trabalhadores com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 17.º — Divisão de Prestações Pecuniárias - Regime de Solidariedade e Proteção Familiar
+###### Artigo 17.º
+
+##### Divisão de Prestações Pecuniárias - Regime de Solidariedade e Proteção Familiar
 
 1 - À Divisão de Prestações Pecuniárias - Regime de Solidariedade e Proteção Familiar compete assegurar a instrução e organização de processos de atribuição de prestações pecuniárias do regime de solidariedade e proteção familiar, nomeadamente no âmbito dos subsistemas de proteção familiar e de solidariedade da segurança social, e o acompanhamento e controlo desses mesmos processos, designadamente:
 
@@ -589,7 +637,9 @@ b) O Núcleo de Prestações do Subsistema de Solidariedade para o desempenho da
 
 4 - O Núcleo de Prestações do Subsistema de Proteção Familiar e o Núcleo de Prestações do Subsistema de Solidariedade são coordenados por trabalhadores designados para o efeito através de deliberação do conselho diretivo do ISSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, ou por trabalhadores com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 18.º — Divisão de Prestações Pecuniárias - Regime Previdencial
+###### Artigo 18.º
+
+##### Divisão de Prestações Pecuniárias - Regime Previdencial
 
 1 - À Divisão de Prestações Pecuniárias - Regime Previdencial compete assegurar a instrução e organização de processos de atribuição de prestações pecuniárias do regime previdencial, nomeadamente de prestações por doença ou maternidade e por desemprego, o acompanhamento e controlo desses mesmos processos e a cooperação no âmbito da verificação de incapacidades temporárias ou permanentes, necessárias para o reconhecimento do direito a prestações, designadamente:
 
@@ -717,7 +767,9 @@ p) Desempenhar outras tarefas ou atividades superiormente determinadas.
 
 2 - Os núcleos de atendimento são coordenados por trabalhadores designados para o efeito através de deliberação do conselho diretivo do ISSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, ou por trabalhadores com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 21.º — Divisão de Inspeção
+###### Artigo 21.º
+
+##### Divisão de Inspeção
 
 1 - Compete à Divisão de Inspeção, de acordo com o conteúdo funcional das carreiras de inspeção previsto em legislação própria, exercer a ação fiscalizadora quanto ao cumprimento dos direitos e obrigações dos beneficiários e contribuintes do sistema de segurança social da Região, e dos serviços e equipamentos de apoio social, incluindo os com fins lucrativos, e exercer, nos termos legais, os poderes sancionatórios no âmbito dos ilícitos de mera ordenação social, designadamente:
 
@@ -769,7 +821,9 @@ j) O Núcleo de Ação Social das Flores e Corvo.
 
 4 - O diretor do Departamento de Ação Social pode delegar ou subdelegar nos chefes de divisão do mesmo departamento as respetivas competências próprias ou delegadas, com faculdade de subdelegação.
 
-###### Artigo 23.º — Divisão de Apoio às Respostas Sociais
+###### Artigo 23.º
+
+##### Divisão de Apoio às Respostas Sociais
 
 1 - À Divisão de Apoio às Respostas Sociais compete, sob uma perspetiva de atuação especializada, designadamente:
 
@@ -989,7 +1043,9 @@ b) A Divisão de Orçamento e Conta.
 
 4 - O diretor do Departamento de Gestão Financeira, Orçamento e Conta pode delegar ou subdelegar nos chefes de divisão do mesmo departamento as respetivas competências próprias ou delegadas, com faculdade de subdelegação.
 
-###### Artigo 30.º — Divisão de Gestão Financeira
+###### Artigo 30.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira compete garantir o controlo e a gestão dos recursos financeiros e promover, coordenar e executar todas as ações referentes à gestão dos fluxos financeiros do ISSA, IPRA, designadamente:
 
@@ -1027,7 +1083,9 @@ b) O Núcleo de Controlo de Operações Financeiras para o desempenho das compet
 
 4 - O Núcleo de Fluxos Financeiros e o Núcleo de Controlo de Operações Financeiras são coordenados por trabalhadores designados para o efeito através de deliberação do conselho diretivo do ISSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, ou por trabalhadores com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 31.º — Divisão de Orçamento e Conta
+###### Artigo 31.º
+
+##### Divisão de Orçamento e Conta
 
 1 - À Divisão de Orçamento e Conta compete, em geral, a gestão orçamental e a elaboração da conta do ISSA, IPRA, designadamente:
 
@@ -1093,7 +1151,9 @@ d) O Núcleo de Planeamento, Organização e Comunicação.
 
 4 - O diretor do Departamento de Gestão de Recursos pode delegar ou subdelegar nos chefes de divisão do mesmo departamento as respetivas competências próprias ou delegadas, com faculdade de subdelegação.
 
-###### Artigo 33.º — Divisão de Recursos Humanos e Apoio Jurídico
+###### Artigo 33.º
+
+##### Divisão de Recursos Humanos e Apoio Jurídico
 
 1 - À Divisão de Recursos Humanos e Apoio Jurídico compete assegurar a gestão dos recursos humanos do ISSA, IPRA, bem como assegurar o apoio ao ISSA, IPRA e ao respetivo conselho diretivo em matéria jurídica, designadamente:
 
@@ -1163,7 +1223,9 @@ b) O Núcleo de Apoio Jurídico para o desempenho das competências previstas na
 
 5 - O Núcleo de Apoio Jurídico é coordenado por trabalhador designado para o efeito através de deliberação do conselho diretivo do ISSA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro.
 
-###### Artigo 34.º — Divisão de Património e Contratação Pública
+###### Artigo 34.º
+
+##### Divisão de Património e Contratação Pública
 
 1 - À Divisão de Património e Contratação Pública compete, em geral, zelar pela administração e conservação do património do ISSA, IPRA, tendo em vista a sua rentabilização e operacionalidade das infraestruturas, e gerir os procedimentos de contratação pública, designadamente:
 
@@ -1265,7 +1327,9 @@ d) A Secção de Arquivo para o desempenho das competências previstas nas alín
 
 5 - A Secção de Expediente e a Secção de Arquivo são coordenadas por trabalhadores com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 35.º — Divisão de Sistemas e Tecnologias de Informação
+###### Artigo 35.º
+
+##### Divisão de Sistemas e Tecnologias de Informação
 
 1 - À Divisão de Sistemas compete a gestão do parque informático e sistemas de informação do ISSA, IPRA, a colaboração na conceção, análise e desenvolvimento de novos sistemas de informação, a promoção de suporte técnico a todas as áreas de atuação do ISSA, IPRA e a interligação e o acompanhamento do alinhamento estratégico de aplicações nacionais, designadamente:
 
@@ -1497,4 +1561,4 @@ Aos trabalhadores do ISSA, IPRA é aplicável o disposto no regime de vinculaç�
 
 Quadro de pessoal dirigente e de chefia do Instituto da Segurança Social dos Açores, I.P.R.A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/01/01700/0051300531.pdf))](https://files.diariodarepublica.pt/1s/2014/01/01700/0051300531.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/01/01700/0051300531.pdf)

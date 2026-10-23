@@ -4,8 +4,8 @@ id: pt:dre:378683:por
 title: Decreto-Lei n.º 338/79
 short_title: null
 summary: Transfere para a Região Autónoma dos Açores certos serviços do Ministério da Educação e Investigação Científica
-jurisdiction: regional
-territory: acores
+jurisdiction: portugal
+territory: null
 document_type: decreto-lei
 document_type_label: Decreto-Lei
 issuing_authority:
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19600/20802083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1979-378683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae4d03111fda0112c0dc38635ddc82a89d5057202417d450a37d9809a61b0fb2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 811815e32565a29dd379a1cdde39036ef47d399f028752f1eea95c8412c08835
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ministério da Educação e Investigação Científica
+- Transferência de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:365901:por
+  label: "Aditado o art. 22.º pelo DEC LEI.503/79.24.12.1979.PCM, DR.IS [295] de 24.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/503-1979-365901
+  date: '1979-12-24'
+- type: cites
+  target: pt:dre:310615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404488:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:25Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +128,7 @@ A concretização desta autonomia nos domínios da educação e investigação c
 
 Assim, ouvidos os órgãos de Governo próprio da Região, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Cabe ao Ministério da Educação e Investigação Científica, relativamente à Região Autónoma dos Açores, definir e garantir a aplicação dos princípios gerais do sistema nacional de educação e das matérias cuja competência é reservada ao Ministério nos termos do subsequente artigo 2.º
+Artigo 1.º - 1 - Cabe ao Ministério da Educação e Investigação Científica, relativamente à Região Autónoma dos Açores, definir e garantir a aplicação dos princípios gerais do sistema nacional de educação e das matérias cuja competência é reservada ao Ministério nos termos do subsequente artigo 2.º
 
 2 - Compete aos órgãos de Governo próprio da Região Autónoma dos Açores assegurar o correcto desenvolvimento da acção educativa na Região, promovendo a aplicação dos princípios gerais do sistema nacional de educação.
 
@@ -105,7 +138,7 @@ Assim, ouvidos os órgãos de Governo próprio da Região, o Governo decreta, no
 
 5 - O Ministério da Educação e Investigação Científica e os órgãos de Governo da Região Autónoma dos Açores promoverão a compatibilização dos planos de âmbito nacional e regional, referidos no n.º 4.
 
-###### Art. 2.º É da competência do Ministério da Educação e Investigação Científica, com incidência sobre a Região Autónoma dos Açores, com audição do respectivo Governo, sem prejuízo da reserva de competência legislativa da Assembleia da República:
+Art. 2.º É da competência do Ministério da Educação e Investigação Científica, com incidência sobre a Região Autónoma dos Açores, com audição do respectivo Governo, sem prejuízo da reserva de competência legislativa da Assembleia da República:
 
 1 - A definição por via legislativa:
 
@@ -133,7 +166,7 @@ b) A definição dos moldes de avaliação escolar de âmbito nacional, incluind
 
 4 - A coordenação, programação, execução e apoio aos programas de cooperação ou de outra natureza no âmbito das relações internacionais, sendo neles tida em conta a participação da Região.
 
-###### Art. 3.º - 1 - São atribuições dos órgãos de Governo da Região Autónoma dos Açores, no âmbito da educação e no domínio da sua competência territorial:
+Art. 3.º - 1 - São atribuições dos órgãos de Governo da Região Autónoma dos Açores, no âmbito da educação e no domínio da sua competência territorial:
 
 a) Garantir o ensino obrigatório a todas as crianças em idade escolar;
 
@@ -159,15 +192,15 @@ k) Garantir e desempenhar o apoio médico-pedagógico e desportivo.
 
 2 - O funcionamento do Ano Propedêutico será garantido pelos órgãos de Governo próprio da Região de acordo com os programas estabelecidos a nível nacional.
 
-###### Art. 4.º Para a prossecução das atribuições referidas no número anterior, os órgãos de Governo da Região Autónoma dos Açores exercerão, no domínio do seu âmbito territorial, as competências referidas nos artigos 6.º a 14.º do presente diploma, de acordo com os estatutos, princípios gerais e normas referidos no antecedente artigo 2.º
+Art. 4.º Para a prossecução das atribuições referidas no número anterior, os órgãos de Governo da Região Autónoma dos Açores exercerão, no domínio do seu âmbito territorial, as competências referidas nos artigos 6.º a 14.º do presente diploma, de acordo com os estatutos, princípios gerais e normas referidos no antecedente artigo 2.º
 
-###### Art. 5.º - 1 - O Ministério da Educação e Investigação Científica desenvolverá, através dos respectivos serviços, acções de inspecção na Região com vista a garantir a aplicação das normas referidas no citado artigo 2.º
+Art. 5.º - 1 - O Ministério da Educação e Investigação Científica desenvolverá, através dos respectivos serviços, acções de inspecção na Região com vista a garantir a aplicação das normas referidas no citado artigo 2.º
 
 2 - Os órgãos de Governo da Região desenvolverão acções de inspecção orientadora e disciplinar geral e especialmente tendo em vista garantir o cumprimento dos programas e a utilização dos métodos adequados de ensino, o cumprimento das disposições pedagógico-disciplinares em vigor e o correcto funcionamento dos estabelecimentos de ensino em matéria administrativa e financeira.
 
 3 - Os órgãos de Governo da Região poderão solicitar a intervenção na Região dos serviços de inspecção do Ministério, sempre que a considerem necessária.
 
-###### Art. 6.º - 1 - Compete aos órgãos de Governo próprio da Região, no domínio da orientação pedagógica dos estabelecimentos oficiais de educação pré-escolar e dos ensinos básico e secundário:
+Art. 6.º - 1 - Compete aos órgãos de Governo próprio da Região, no domínio da orientação pedagógica dos estabelecimentos oficiais de educação pré-escolar e dos ensinos básico e secundário:
 
 a) Garantir o cumprimento dos planos de estudo, dos programas e da avaliação escolar definidos a nível nacional;
 
@@ -181,7 +214,7 @@ e) Coordenar a elaboração dos pontos de exame de âmbito regional;
 
 f) Assegurar as funções de apoio e fiscalização dos estabelecimentos de ensino particular e cooperativo.
 
-###### Art. 7.º - 1 - Compete aos órgãos de Governo da Região, no que toca à gestão dos estabelecimentos oficiais de educação pré-escolar e dos ensinos básico e secundário na Região:
+Art. 7.º - 1 - Compete aos órgãos de Governo da Região, no que toca à gestão dos estabelecimentos oficiais de educação pré-escolar e dos ensinos básico e secundário na Região:
 
 a) Superintender na sua gestão;
 
@@ -193,7 +226,7 @@ d) Realizar acções de formação e aperfeiçoamento pessoal técnico, administ
 
 2 - O estabelecimento da intercomunicabilidade de quadros entre o nível nacional e os regionais será garantido mediante decreto referendado pelos Ministros da República e da Educação e Investigação Científica, ouvidos os órgãos de Governo das Regiões Autónomas.
 
-###### Art. 8.º - 1 - Compete aos órgãos de Governo da Região, em matéria de rede escolar, de instalações e de equipamento dos estabelecimentos oficiais de educação pré-escolar e dos ensinos básico e secundário:
+Art. 8.º - 1 - Compete aos órgãos de Governo da Região, em matéria de rede escolar, de instalações e de equipamento dos estabelecimentos oficiais de educação pré-escolar e dos ensinos básico e secundário:
 
 a) Elaborar a carta escolar;
 
@@ -209,11 +242,11 @@ f) Programar e executar a aquisição do equipamento escolar;
 
 g) Gerir as instalações e equipamento escolares, assegurado a sua conservação corrente e periódica e optimizando a sua utilização, através das acções convenientes.
 
-###### Art. 9.º Compete aos órgãos de Governo da Região, no que respeita aos estabelecimentos particulares e cooperativos da educação pré-escolar e dos ensinos básico e secundário, o exercício das funções atribuídas ao Estado nos termos do artigo 6.º da [Lei n.º 9/79](https://diariodarepublica.pt/dr/detalhe/lei/9-1979-383221), sem prejuízo das acções de inspecção a desenvolver pelo Ministério.
+Art. 9.º Compete aos órgãos de Governo da Região, no que respeita aos estabelecimentos particulares e cooperativos da educação pré-escolar e dos ensinos básico e secundário, o exercício das funções atribuídas ao Estado nos termos do artigo 6.º da [Lei n.º 9/79](https://diariodarepublica.pt/dr/detalhe/lei/9-1979-383221), sem prejuízo das acções de inspecção a desenvolver pelo Ministério.
 
-###### Art. 10.º No que respeita à educação de adultos, compete aos órgãos de Governo da Região Autónoma promover a programação e execução das acções de educação de adultos, nomeadamente nas áreas de alfabetização, pós-alfabetização e animação cultural.
+Art. 10.º No que respeita à educação de adultos, compete aos órgãos de Governo da Região Autónoma promover a programação e execução das acções de educação de adultos, nomeadamente nas áreas de alfabetização, pós-alfabetização e animação cultural.
 
-###### Art. 11.º Compete aos órgãos de Governo próprio da Região, no domínio do apoio médico da responsabilidade do MEIC:
+Art. 11.º Compete aos órgãos de Governo próprio da Região, no domínio do apoio médico da responsabilidade do MEIC:
 
 a) Programar e executar as actividades de apoio médico-pedagógico aos discentes dos estabelecimentos de ensino básico e secundário, nomeadamente através de acções de medicina preventiva;
 
@@ -223,7 +256,7 @@ c) Programar e executar as actividades de apoio médico-desportivo, nomeadamente
 
 d) Gerir, manter e equipar o pessoal, equipamento e instalações destinados ao apoio médico-pedagógico e desportivo.
 
-###### Art. 12.º Compete aos órgãos de Governo da Região, em matéria da promoção e apoio aos organismos e actividades juvenis na Região:
+Art. 12.º Compete aos órgãos de Governo da Região, em matéria da promoção e apoio aos organismos e actividades juvenis na Região:
 
 a) Programar e realizar acções de formação e aperfeiçoamento técnico dos animadores juvenis;
 
@@ -231,7 +264,7 @@ b) Programar e realizar ou apoiar técnica e financeiramente actividades de anim
 
 c) Programar ou apoiar técnica ou financeiramente a construção, beneficiação e aquisição de equipamento de animação juvenil.
 
-###### Art. 13.º - 1 - Compete aos órgãos de Governo da Região, em matéria de actividades desportivas da Região:
+Art. 13.º - 1 - Compete aos órgãos de Governo da Região, em matéria de actividades desportivas da Região:
 
 a) Fomentar e coordenar todas as áreas de actividade gimnodesportiva;
 
@@ -245,7 +278,7 @@ e) Prestar apoio técnico e logístico a quaisquer entidades, nomeadamente as qu
 
 2 - Os órgãos de Governo próprio da Região apresentarão ao Ministério da Educação e Investigação Científica o plano de acções a desenvolver no âmbito do seu território no campo do desporto, tendo em vista a sua consideração na atribuição de meios financeiros pelo Fundo de Fomento do Desporto.
 
-###### Art. 14.º No que se refere à acção social escolar, compete aos órgãos de Governo próprio da Região:
+Art. 14.º No que se refere à acção social escolar, compete aos órgãos de Governo próprio da Região:
 
 a) Programar e executar as actividades da acção social escolar, de auxílio económico ou prestação de serviços;
 
@@ -253,7 +286,7 @@ b) Criar, equipar e gerir os serviços, respectivas instalações e equipamentos
 
 c) Fomentar e apoiar todas as iniciativas e instituições de interesse para a acção social escolar.
 
-###### Art. 15.º - 1 - Os órgãos de Governo próprio da Região Autónoma dos Açores passam a superintender nos serviços periféricos do Ministério da Educação e Investigação Científica na Região até agora designados por:
+Art. 15.º - 1 - Os órgãos de Governo próprio da Região Autónoma dos Açores passam a superintender nos serviços periféricos do Ministério da Educação e Investigação Científica na Região até agora designados por:
 
 a) Direcções escolares dos ex-distritos de Angra do Heroísmo, Horta e Ponta Delgada e respectivas delegações de zona escolar;
 
@@ -279,30 +312,30 @@ g) Os infantários e jardins-de-infância que na Região estão até agora afect
 
 6 - Os funcionários que não desejarem a integração nos serviços da Região deverão apresentar a respectiva declaração no prazo de cento e oitenta dias a seguir à publicação do presente diploma no Diário da República, a fim de receberem nova colocação.
 
-###### Art. 16.º - 1 - É da responsabilidade dos órgãos de Governo próprio da Região o financiamento do sistema de educação pré-escolar, do ensino básico e secundário, e do ensino especial dependente do MEIC, no âmbito do seu território.
+Art. 16.º - 1 - É da responsabilidade dos órgãos de Governo próprio da Região o financiamento do sistema de educação pré-escolar, do ensino básico e secundário, e do ensino especial dependente do MEIC, no âmbito do seu território.
 
 2 - É ainda da responsabilidade dos órgãos de Governo próprio da Região o financiamento das acções respeitantes às atribuições referidas nas alíneas g) e seguintes do n.º 1 e no n.º 2 do artigo 3.º do presente diploma.
 
 3 - Os encargos referidos nos números anteriores deixam de ser parte constante do orçamento do Ministério da Educação e Investigação Científica.
 
-###### Art. 17.º - 1 - Até ao final do presente ano económico as despesas com o pessoal dos ensinos básico secundário e das escolas do magistério primário continuarão a ser suportadas por transferência de verbas consignadas a este fim no orçamento do Ministério da Educação e Investigação Científica.
+Art. 17.º - 1 - Até ao final do presente ano económico as despesas com o pessoal dos ensinos básico secundário e das escolas do magistério primário continuarão a ser suportadas por transferência de verbas consignadas a este fim no orçamento do Ministério da Educação e Investigação Científica.
 
 2 - Também até ao final do presente ano económico poderão ser transferidas para a Região Autónoma dos Açores as verbas orçamentadas pelos organismos e serviços centrais do MEIC consignadas aos serviços da Região na medida em que as respectivas despesas não possam ser suportadas pelo orçamento regional.
 
-###### Art. 18.º Serão definidas as relações entre os organismos não governamentais de carácter desportivo e os órgãos de Governo próprio da Região na proposta de lei redefinidora do regime jurídico das relações entre o Estado e aqueles organismos, referida no artigo 33.º do [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), de 31 de Dezembro, de acordo com a redacção que lhe foi dada pela [Lei n.º 63/78](https://diariodarepublica.pt/dr/detalhe/lei/63-1978-329029), de 29 de Setembro.
+Art. 18.º Serão definidas as relações entre os organismos não governamentais de carácter desportivo e os órgãos de Governo próprio da Região na proposta de lei redefinidora do regime jurídico das relações entre o Estado e aqueles organismos, referida no artigo 33.º do [Decreto-Lei n.º 553/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1977-404488), de 31 de Dezembro, de acordo com a redacção que lhe foi dada pela [Lei n.º 63/78](https://diariodarepublica.pt/dr/detalhe/lei/63-1978-329029), de 29 de Setembro.
 
-###### Art. 19.º É acrescida ao artigo 11.º do decreto-lei referido no artigo anterior a alínea k), que terá a seguinte redacção:
+Art. 19.º É acrescida ao artigo 11.º do decreto-lei referido no artigo anterior a alínea k), que terá a seguinte redacção:
 
 k) Director regional dos Desportos dos Açores.
 
-###### Art. 20.º Para a matéria constante do presente diploma entende-se por sistema nacional de educação o conjunto de estruturas oficiais, particulares ou cooperativas que desenvolvam acções públicas no âmbito das atribuições do Ministério da Educação e Investigação Científica.
+Art. 20.º Para a matéria constante do presente diploma entende-se por sistema nacional de educação o conjunto de estruturas oficiais, particulares ou cooperativas que desenvolvam acções públicas no âmbito das atribuições do Ministério da Educação e Investigação Científica.
 
-###### Art. 21.º As dúvidas que surgirem na aplicação do presente diploma serão resolvidas por portaria ou despacho conjunto do Ministro da República e do Ministro da Educação e Investigação Científica.
+Art. 21.º As dúvidas que surgirem na aplicação do presente diploma serão resolvidas por portaria ou despacho conjunto do Ministro da República e do Ministro da Educação e Investigação Científica.
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1979. - Carlos Alberto da Mota Pinto - Lino Dias Miguel - Henrique Afonso da Silva Horta - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

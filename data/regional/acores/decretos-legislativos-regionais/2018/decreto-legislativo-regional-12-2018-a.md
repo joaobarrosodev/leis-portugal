@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/10/20300/0504105045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2018/10/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-116747928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6e36c99a1a04b1338bb01a76c1065b0b2b3e3a5a1d473037adec49879e25747
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 962c7ff80ffcb223a879e54110326abdff469c1967b1ad01188ffe8ffd0ae231
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,31 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Regime do Contrato de Trabalho em Funções Públicas
-- Remuneração Complementar Regional
-- Tempo de Serviço
+- Açores
+- Administração Pública
+- Administração Regional
+- Assembleia Legislativa
+- Avaliação do Pessoal
+- Bolsa de Emprego Público
+- Carreira Profissional
 - Concurso
 - Concurso de Acesso
 - Concurso de Ingresso
-- Administração Pública
-- Carreira Profissional
 - Formas de Provimento
-- Bolsa de Emprego Público
-- Quadro Regional de ILHA
-- Recrutamento de Pessoal
-- Integração de Trabalhadores
-- Publicitação
-- Lei Geral do Trabalho em Funções Públicas
-- Assembleia Legislativa
-- Quadro de Pessoal
-- Reclassificação de Pessoal
-- Remuneração
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
+- Função Pública
 - Funcionário Público
-- Administração Regional
-- Açores
+- Integração de Trabalhadores
+- Lei Geral do Trabalho em Funções Públicas
+- Mobilidade de Pessoal
+- Publicitação
+- Quadro de Pessoal
+- Quadro Regional de ILHA
+- Reclassificação de Pessoal
+- Recrutamento de Pessoal
+- Regime do Contrato de Trabalho em Funções Públicas
+- Remuneração
+- Remuneração Complementar Regional
+- Tempo de Serviço
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: cites
@@ -138,16 +138,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:107094720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108001409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108002086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:116043536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:20Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +278,9 @@ São alterados os artigos 2.º e 6.º do [Decreto Legislativo Regional n.º 26/2
 
 8 - O mapa anual global consolidado de recrutamento destinado ao recrutamento de entre indivíduos sem vínculo de emprego público ou com vínculo de emprego público a termo é aprovado por despacho dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública durante o primeiro trimestre do respetivo ano orçamental e publicado na bolsa de emprego público dos Açores - BEP-Açores.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -236,11 +330,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de setembro de 2018.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 11 de outubro de 2018.**
+Assinado em Angra do Heroísmo em 11 de outubro de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -395,3 +489,5 @@ O regime estabelecido no presente diploma prevalece sobre quaisquer normas que v
 2 - (Revogado.)
 
 3 - (Revogado.)
+
+111721959

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/286/2009/03/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-2009-605533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 918aeb56dba86a2e01ccaf5fd15c0701987a5c7083c014f83b23f9b5a4f573f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 232d5b5bc73cd7a19fb448490aadc43745c108cc89983fc3b6290f801a8721d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Registo Criminal
-- Modernização Administrativa
 - Certificação Electrónica
 - Certificado do Registo Criminal
-- Registo de Contumazes
+- Direcção Geral da Administração da Justiça
 - Identificação Criminal
 - Medida Tutelar Educativa
+- Modernização Administrativa
 - Programa Simplex
-- Direcção Geral da Administração da Justiça
+- Registo Criminal
+- Registo de Contumazes
 - TAXA de Prestação de Serviços
 relationships:
 - type: cites
@@ -103,16 +103,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/470/2001/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/470/2001/05/10/p/dre
+- type: cites
+  target: pt:dre:138557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217324:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570567:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:15Z'
   warnings: []
   errors: []
 ---
@@ -161,4 +181,4 @@ d) Emissão de certificado do registo de medidas tutelares educativas requerido 
 
 4.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 12 de Março de 2009. - Pelo Ministro da Justiça, José Manuel Vieira Conde Rodrigues, Secretário de Estado Adjunto e da Justiça, em 19 de Fevereiro de 2009.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 12 de Março de 2009. - Pelo Ministro da Justiça, José Manuel Vieira Conde Rodrigues, Secretário de Estado Adjunto e da Justiça, em 19 de Fevereiro de 2009.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 121/1988, 1º Suplemento, Série I de 1988-05-25
   number: '121'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2250-(2) a 2250-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12101/00020013.pdf
 entry_into_force_dates: []
@@ -47,40 +47,205 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1988-507834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fe4aeb402261b26a8ea0fbc5904d2f0be33bfcb0ee9597dc263327c4c0fbf84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc93413f625e7680cf4b82379c006557c6582ec9feee2f507ef17bef7c928c31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Concurso
+- Educação Pré-escolar
+- Ensino Primário
+- Madeira.região Autónoma
+- Pessoal Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:55021038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "MANTIDOS EM VIGOR E ALTERADA A DESIGNAÇÃO DOS QUADROS REGIONAIS DE VINCULAÇÃO DOS EDUCADORES DE INFÂNCIA E DOS PROFESSORES\
+    \ DO 1 CICLO DO ENSINO BASICO, PELO DECRETO LEGISLATIVO REGIONAL 2/94/M, DE 22 DE FEVEREIRO, PUBLICADO NO DR.IS-A, 45-SUPL.\0\
+    ."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-02-23'
+- type: amended_by
+  target: pt:dre:469176:por
+  label: "Alterado o artº 39º pelo DLR 5/97/M 04-Jan DR.IS-A [94] de 22/Abr/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-1997-469176
+  date: '1997-04-22'
+- type: amended_by
+  target: pt:dre:197312:por
+  label: "Alterado o nº 8 do art. 39º (na redacção do DLR 5/97/M, de 04-Jan), eliminado o nº 9 do art. 39º e aditado o art.\
+    \ 77º-A pelo DLR.1/99/M.1999.01.11.ALR-RAM, DR.IS-A [17] de 21/Jan/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-1999-197312
+  date: '1999-01-11'
+- type: amended_by
+  target: pt:dre:632385:por
+  label: "Alterados os arts. 13º e 39º do DLR 5/88/M de 25-Mai, pelo DLR.14-A/2001/M.2001.05.24.ALR-RAM,DR.IS-A [123]3º Supl\
+    \ de 28/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-a-2001-632385
+  date: '2001-05-24'
+- type: amended_by
+  target: pt:dre:468639:por
+  label: "Mantidos em vigor até à revisão das disposições sobre o reordenamento e o reajustamento anual da rede escolar os\
+    \ arts. 65º a 67º, bem como o art. 86º do presente diploma pelo DLR.15-A/2006/M.10.04.2006.AL-RAM, DR.IS-A [80-Supl] de\
+    \ 24.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2006-468639
+  date: '2006-04-10'
+- type: amended_by
+  target: pt:dre:494498:por
+  label: "Mantido em vigor o art. 86º pelo DLR.14/2009/M.08.06.2009.AL-RAM, DR.IS [110] de 08.06.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2009-494498
+  date: '2009-06-08'
+- type: amended_by
+  target: pt:dre:497841:por
+  label: "Mantido em vigor o art. 86º do presente diploma pelo DLR.25/2013/M.17.07.2013.AL-RAM, DR.IS [136] de 17.07.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-2013-497841
+  date: '2013-07-17'
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627050:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669864:por
+  label: "Revogado o presente diploma, com a redacção conferida pelos DLR 5/97/M de 22-Abr, 1/77/M de 21-Jan e 14-A/2001/M\
+    \ de 28-Mai, pelo DLR.17/2003/M.2003.06.30.ALR-RAM DR.IS-A [167] de 22/Jul/2003, com excepção do seu art. 86º; e mantidos\
+    \ em vigor os arts. 65º e 67º até à revisão das disposições sobre o reordenamento e reajustamento anual da rede escolar,\
+    \ pelo referido DLR 17/2003/M de 22-Jul\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2003-669864
+  date: '2003-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:16Z'
   warnings: []
   errors: []
 ---
@@ -101,21 +266,21 @@ A Assembleia Regional decreta, nos termos do artigo 229.º, alínea b), da Const
 
 ### CAPÍTULO I — Âmbito pessoal de aplicação
 
-###### Artigo 1.º - 1 - O presente diploma aplica-se aos professores do ensino primário e aos educadores de infância cujas situações profissionais são as previstas, respectivamente, nos Decretos Regulamentares Regionais n.os [14/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1982-394900), de 12 de Julho, [5/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1983-309959), de 11 de Março, e [22/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1983-442740), de 23 de Setembro.
+Artigo 1.º - 1 - O presente diploma aplica-se aos professores do ensino primário e aos educadores de infância cujas situações profissionais são as previstas, respectivamente, nos Decretos Regulamentares Regionais n.os [14/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1982-394900), de 12 de Julho, [5/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1983-309959), de 11 de Março, e [22/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1983-442740), de 23 de Setembro.
 
 2 - O presente diploma aplica-se, igualmente, aos professores cuja situação profissional no continente e ou na Região Autónoma dos Açores, de acordo com a respectiva legislação, seja idêntica àquela que se encontra consagrada nos diplomas referidos no número anterior e ainda os abrangidos pelo [Decreto-Lei n.º 200/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1987-421204), de 2 de Maio.
 
 ### CAPÍTULO II — Do quadro geral de professores do ensino primário
 
-###### Art. 2.º - 1 - O quadro geral de professores do ensino primário funciona como quadro único e é constituído pelo somatório dos lugares criados em cada escola do ensino primário da Região Autónoma da Madeira.
+Art. 2.º - 1 - O quadro geral de professores do ensino primário funciona como quadro único e é constituído pelo somatório dos lugares criados em cada escola do ensino primário da Região Autónoma da Madeira.
 
 2 - Os lugares criados em cada escola constituem o quadro privativo dessa mesma escola e integram-se, para todos os efeitos legais, no quadro único referido no número anterior.
 
-###### Art. 3.º - 1 - Os lugares do quadro de cada escola do ensino primário serão estabelecidos no acto que proceder à sua criação.
+Art. 3.º - 1 - Os lugares do quadro de cada escola do ensino primário serão estabelecidos no acto que proceder à sua criação.
 
 2 - O número de lugares do quadro de cada escola do ensino primário poderá ser alterado, ano a ano, dentro dos limites da lei, por despacho do Secretário Regional da Educação, com base na respectiva frequência em 15 de Outubro.
 
-###### Art. 4.º - 1 - O corpo docente das escolas é fixado em função da relação professor/aluno definida nos termos seguintes.
+Art. 4.º - 1 - O corpo docente das escolas é fixado em função da relação professor/aluno definida nos termos seguintes.
 
 2 - Em escolas com um número limite de 125 alunos:
 
@@ -149,13 +314,13 @@ c) Em escolas com vinte ou mais lugares, pelo menos três lugares docentes.
 
 ### CAPÍTULO III — Do provimento dos lugares do quadro geral
 
-###### Art. 5.º - 1 - Compete ao director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação autorizar a abertura do concurso para preenchimento dos lugares do quadro geral e praticar todos os actos consequentes.
+Art. 5.º - 1 - Compete ao director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação autorizar a abertura do concurso para preenchimento dos lugares do quadro geral e praticar todos os actos consequentes.
 
 2 - O concurso será aberto, anualmente, até 31 de Janeiro, mediante aviso a publicar no Jornal Oficial da Região e no Diário da República.
 
 3 - O director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação poderá, em casos excepcionais devidamente justificados, alterar, por despacho a publicar no Jornal Oficial da Região e no Diário da República, a data referida no número anterior.
 
-###### Art. 6.º - 1 - Os lugares do quadro geral de cada escola do ensino primário serão postos a concurso de acordo com as necessidades do respectivo estabelecimento.
+Art. 6.º - 1 - Os lugares do quadro geral de cada escola do ensino primário serão postos a concurso de acordo com as necessidades do respectivo estabelecimento.
 
 2 - A relação dos lugares a preencher pelo concurso referido no número anterior, a qual será publicitada nos termos legais em vigor, basear-se-á:
 
@@ -167,7 +332,7 @@ b) Nos lugares vagos criados nesse ano lectivo até 30 de Novembro.
 
 ### CAPÍTULO IV — Da apresentação a concurso
 
-###### Art. 7.º - 1 - O prazo para requerer a admissão ao concurso é de dez dias úteis contados a partir do dia seguinte ao da publicação no Jornal Oficial da Região do aviso referido no n.º 1 do artigo 5.º do presente diploma para os candidatos residentes na Região Autónoma da Madeira.
+Art. 7.º - 1 - O prazo para requerer a admissão ao concurso é de dez dias úteis contados a partir do dia seguinte ao da publicação no Jornal Oficial da Região do aviso referido no n.º 1 do artigo 5.º do presente diploma para os candidatos residentes na Região Autónoma da Madeira.
 
 2 - O prazo a que se refere o número anterior será de 30 dias contados a partir do dia seguinte ao da publicação do citado aviso no Diário da República para os candidatos que se encontrem numa das seguintes situações:
 
@@ -179,17 +344,17 @@ c) Ao serviço no âmbito do ensino português no estrangeiro;
 
 d) A prestar serviço militar obrigatório.
 
-###### Art. 8.º - 1 - A admissão a concurso será feita através do preenchimento de um boletim de concurso e de uma ficha, a editar pela Divisão do Património do Governo Regional.
+Art. 8.º - 1 - A admissão a concurso será feita através do preenchimento de um boletim de concurso e de uma ficha, a editar pela Divisão do Património do Governo Regional.
 
 2 - Os documentos referidos no número anterior serão entregues nos serviços oficiais referenciados no respectivo aviso de abertura do concurso, que confirmarão os elementos deles constantes.
 
-###### Art. 9.º O concurso realiza-se com recuperação automática de vagas, de forma que qualquer concorrente não seja ultrapassado, em qualquer das suas preferências, por outro candidato com inferior prioridade.
+Art. 9.º O concurso realiza-se com recuperação automática de vagas, de forma que qualquer concorrente não seja ultrapassado, em qualquer das suas preferências, por outro candidato com inferior prioridade.
 
-###### Art. 10.º - 1 - O provimento dos lugares considerados vagos por efeito do disposto no artigo anterior far-se-á independentemente da publicação no Jornal Oficial da Região ou no Diário da República da data de vacatura do lugar, coincidindo esta com a data do despacho que autorize a transferência do antigo titular.
+Art. 10.º - 1 - O provimento dos lugares considerados vagos por efeito do disposto no artigo anterior far-se-á independentemente da publicação no Jornal Oficial da Região ou no Diário da República da data de vacatura do lugar, coincidindo esta com a data do despacho que autorize a transferência do antigo titular.
 
 2 - A Direcção Regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação poderá, nomeadamente por inexistência de frequência, proceder à não recuperação de lugares que tenham ficado vagos em resultado de transferência dos respectivos titulares.
 
-###### Art. 11.º - 1 - Podem ser opositores ao concurso referido no n.º 1 do artigo 5.º os candidatos que se encontrem em alguma das situações a seguir indicadas, por ordem de prioridade:
+Art. 11.º - 1 - Podem ser opositores ao concurso referido no n.º 1 do artigo 5.º os candidatos que se encontrem em alguma das situações a seguir indicadas, por ordem de prioridade:
 
 a) Professores do quadro geral, ainda que na situação de licença ilimitada há mais de um ano;
 
@@ -203,7 +368,7 @@ c) Candidatos habilitados com o curso de professor do ensino primário ministrad
 
 ### CAPÍTULO V — Da ordenação dos candidatos
 
-###### Art. 12.º - 1 - Dentro de cada uma das situações referidas no artigo anterior, os candidatos serão ordenados de acordo com a sua graduação profissional, determinada em função dos seguintes elementos:
+Art. 12.º - 1 - Dentro de cada uma das situações referidas no artigo anterior, os candidatos serão ordenados de acordo com a sua graduação profissional, determinada em função dos seguintes elementos:
 
 a) Classificação profissional;
 
@@ -217,7 +382,7 @@ d) Tempo de serviço docente anterior à profissionalização no ensino primári
 
 3 - A classificação profissional a que se refere o número anterior será acrescida, quando for caso disso, da valorização a que se refere o artigo 118.º do [Decreto-Lei n.º 38969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38969-1952-249178), de 27 de Outubro de 1952.
 
-###### Art. 13.º - 1 - A graduação profissional de cada candidato é a classificação profissional, acrescida de 1 valor por cada ano de serviço prestado, bem qualificado, nos termos das alíneas b) e c) do n.º 1 do artigo anterior, e até ao limite de 20 valores.
+Art. 13.º - 1 - A graduação profissional de cada candidato é a classificação profissional, acrescida de 1 valor por cada ano de serviço prestado, bem qualificado, nos termos das alíneas b) e c) do n.º 1 do artigo anterior, e até ao limite de 20 valores.
 
 2 - O número de anos de serviço mencionado no número anterior é o quociente inteiro da divisão por 365 do número de dias de serviço prestado desde o dia 1 de Setembro do ano em que o professor se profissionalizou para o ensino primário até 31 de Agosto imediatamente anterior à data de abertura do concurso.
 
@@ -233,7 +398,7 @@ c) O tempo de serviço militar obrigatório, desde que prestado após a profissi
 
 5 - À contagem do tempo de serviço para os concursos previstos neste diploma aplicar-se-á o disposto no [Decreto-Lei n.º 90/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1972-396705), de 18 de Março, considerando-se para o efeito o ano escolar tendo em conta o disposto no artigo 78.º deste diploma.
 
-###### Art. 14.º - 1 - Dentro de cada uma das situações referidas no artigo 11.º, os candidatos serão ordenados por ordem decrescente da sua graduação profissional.
+Art. 14.º - 1 - Dentro de cada uma das situações referidas no artigo 11.º, os candidatos serão ordenados por ordem decrescente da sua graduação profissional.
 
 2 - Em caso de empate, prefere, sucessivamente:
 
@@ -245,7 +410,7 @@ c) O candidato mais idoso.
 
 ### CAPÍTULO VI — Do mecanismo do concurso
 
-###### Art. 15.º - 1 - Dos impressos referidos no n.º 1 do artigo 8.º constarão, obrigatoriamente:
+Art. 15.º - 1 - Dos impressos referidos no n.º 1 do artigo 8.º constarão, obrigatoriamente:
 
 a) Elementos legais de identificação do candidato;
 
@@ -261,9 +426,9 @@ f) Código das escolas, dos concelhos e das zonas a que o candidato concorre, de
 
 2 - Os serviços oficiais referidos no n.º 2 do artigo 8.º, após cumprido o disposto no mesmo número, farão entrega dos originais dos impressos, conforme for determinado no aviso de abertura do concurso.
 
-###### Art. 16.º As zonas referidas neste diploma são as que constam em mapa que lhe está anexo.
+Art. 16.º As zonas referidas neste diploma são as que constam em mapa que lhe está anexo.
 
-###### Art. 17.º - 1 - Os candidatos ao concurso indicarão as suas preferências num só boletim, de acordo com o referido em uma ou mais das alíneas seguintes:
+Art. 17.º - 1 - Os candidatos ao concurso indicarão as suas preferências num só boletim, de acordo com o referido em uma ou mais das alíneas seguintes:
 
 a) Código das escolas da Região Autónoma da Madeira, até ao limite de 40;
 
@@ -277,7 +442,7 @@ a) Logo que o candidato obtenha colocação, deixa de ser considerado como tal e
 
 b) Mantém, todavia, a possibilidade de obter colocação noutra escola de entre aquelas a que concorreu, nos termos deste artigo, segundo os códigos a que tenha conferido preferência.
 
-###### Art. 18.º - 1 - A lista provisória de ordenação dos candidatos será publicitada nos termos legais em vigor, podendo os mesmos, no prazo de oito dias úteis a contar do dia seguinte ao da data da publicitação, reclamar da ordenação e dos elementos constantes do verbete individual em relação aos candidatos residentes na Região Autónoma da Madeira.
+Art. 18.º - 1 - A lista provisória de ordenação dos candidatos será publicitada nos termos legais em vigor, podendo os mesmos, no prazo de oito dias úteis a contar do dia seguinte ao da data da publicitação, reclamar da ordenação e dos elementos constantes do verbete individual em relação aos candidatos residentes na Região Autónoma da Madeira.
 
 2 - Para os candidatos cuja situação é a prevista no n.º 2 do artigo 7.º, o prazo de reclamações será de vinte dias a contar do dia seguinte ao da data da publicitação.
 
@@ -295,21 +460,21 @@ b) Mantém, todavia, a possibilidade de obter colocação noutra escola de entre
 
 9 - As decisões relativas às reclamações e recursos serão comunicadas aos interessados.
 
-###### Art. 19.º Para todos os efeitos, considera-se que a não apresentação da reclamação por parte dos candidatos da lista e elementos referidos no n.º 1 do artigo anterior equivale à aceitação tácita da mesma lista e demais elementos do verbete individual.
+Art. 19.º Para todos os efeitos, considera-se que a não apresentação da reclamação por parte dos candidatos da lista e elementos referidos no n.º 1 do artigo anterior equivale à aceitação tácita da mesma lista e demais elementos do verbete individual.
 
 ### CAPÍTULO VII — Forma de provimento e seus efeitos
 
-###### Art. 20.º - 1 - O provimento dos professores do quadro geral do ensino primário entende-se sempre feito por conveniência urgente de serviço, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, sendo-lhes devidos os respectivos abonos a partir da data da sua entrada em exercício de funções.
+Art. 20.º - 1 - O provimento dos professores do quadro geral do ensino primário entende-se sempre feito por conveniência urgente de serviço, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, sendo-lhes devidos os respectivos abonos a partir da data da sua entrada em exercício de funções.
 
 2 - Na homologação da lista de colocações o despacho do Secretário Regional da Educação invocará, em relação a todos os docentes constantes da lista, a conveniência urgente de serviço.
 
-###### Art. 21.º - 1 - Em 1 de Setembro do ano escolar a que o mesmo concurso respeita, os professores colocados no quadro geral do ensino primário, na sequência do concurso previsto neste diploma, apresentar-se-ão nos lugares que, de acordo com a lista de colocações, lhes hajam sido atribuídos.
+Art. 21.º - 1 - Em 1 de Setembro do ano escolar a que o mesmo concurso respeita, os professores colocados no quadro geral do ensino primário, na sequência do concurso previsto neste diploma, apresentar-se-ão nos lugares que, de acordo com a lista de colocações, lhes hajam sido atribuídos.
 
 2 - Os professores referidos no n.º 1 deste artigo tomarão posse do lugar no prazo de 30 dias após a publicação no Jornal Oficial da Região ou no Diário da República do competente provimento.
 
 3 - Os professores a que se refere este artigo entrarão em exercício de funções no dia 1 de Setembro do ano escolar a que o concurso respeita ou no termo da respectiva licença para férias concedidas pelas entidades competentes da Secretaria Regional da Educação.
 
-###### Art. 22.º - 1 - A não apresentação dos professores para efeitos do disposto no n.º 1 do artigo anterior determina:
+Art. 22.º - 1 - A não apresentação dos professores para efeitos do disposto no n.º 1 do artigo anterior determina:
 
 a) A anulação da nomeação;
 
@@ -319,7 +484,7 @@ b) A impossibilidade de, no respectivo ano lectivo e no seguinte, serem colocado
 
 3 - A não apresentação, nos termos do n.º 1 do artigo 21.º, dos professores do quadro geral na nova escola atribuída como resultado de concurso determina a sua exoneração do quadro geral, podendo, porém, candidatar-se à inscrição e prestação de serviço como candidatos não pertencentes ao quadro geral do ensino primário.
 
-###### Art. 23.º - 1 - Se ao provimento dos professores que ingressam no quadro geral do ensino primário for recusado o visto da Secção Regional do Tribunal de Contas da Madeira, a recusa não originará, para o interessado, a perda de qualidade de professor, salvo se for a falta daquela qualidade o fundamento da recusa.
+Art. 23.º - 1 - Se ao provimento dos professores que ingressam no quadro geral do ensino primário for recusado o visto da Secção Regional do Tribunal de Contas da Madeira, a recusa não originará, para o interessado, a perda de qualidade de professor, salvo se for a falta daquela qualidade o fundamento da recusa.
 
 2 - Até ao conhecimento oficial pela Direcção Regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação da recusa do visto, são devidos os abonos aos interessados, na qualidade de professores do quadro geral.
 
@@ -329,13 +494,13 @@ b) A impossibilidade de, no respectivo ano lectivo e no seguinte, serem colocado
 
 5 - O disposto no número anterior não é aplicável nos casos em que a recusa do visto se fundamentar na falta de posse da respectiva habilitação profissional ou em inibição para o exercício da função pública, situações em que o interessado cessará imediatamente o exercício de funções.
 
-###### Art. 24.º A apresentação mencionada no artigo 21.º do presente diploma confere ao respectivo professor todos os direitos e deveres inerentes à qualidade de professor do quadro geral do ensino primário.
+Art. 24.º A apresentação mencionada no artigo 21.º do presente diploma confere ao respectivo professor todos os direitos e deveres inerentes à qualidade de professor do quadro geral do ensino primário.
 
-###### Art. 25.º O provimento dos professores do quadro geral do ensino primário determina a sua integração na carreira profissional definida nos dispositivos legais em vigor, designadamente quanto à atribuição das fases previstas nos termos do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, e do artigo 89.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro.
+Art. 25.º O provimento dos professores do quadro geral do ensino primário determina a sua integração na carreira profissional definida nos dispositivos legais em vigor, designadamente quanto à atribuição das fases previstas nos termos do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, e do artigo 89.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro.
 
 ### CAPÍTULO VIII — Das permutas entre professores do ensino primário do quadro geral
 
-###### Art. 26.º - 1 - É autorizada a permuta de lugares das escolas da Região Autónoma da Madeira situadas em localidades da mesma categoria aos professores do quadro geral do ensino primário desde que a solicitem e reúnam cumulativamente as seguintes condições:
+Art. 26.º - 1 - É autorizada a permuta de lugares das escolas da Região Autónoma da Madeira situadas em localidades da mesma categoria aos professores do quadro geral do ensino primário desde que a solicitem e reúnam cumulativamente as seguintes condições:
 
 a) Serem titulares dos lugares do quadro geral que pretendem permutar por efeitos de concurso, ou por efeitos de permuta há mais de três anos contados nos termos do artigo 31.º do presente diploma;
 
@@ -355,7 +520,7 @@ b) Os das sedes dos concelhos rurais de 2.ª e 3.ª ordens;
 
 c) Os das freguesias, com excepção dos das sedes de concelho.
 
-###### Art. 27.º - 1 - Não podem permutar os lugares de que são titulares os professores que se encontrem abrangidos por uma das situações a seguir indicadas:
+Art. 27.º - 1 - Não podem permutar os lugares de que são titulares os professores que se encontrem abrangidos por uma das situações a seguir indicadas:
 
 a) Titulares de lugares propostos para suspensão;
 
@@ -369,25 +534,25 @@ c) Ausentes dos lugares de que são titulares por efeitos de colocação especia
 
 4 - Os professores colocados por permuta nos termos do presente diploma que não respeitarem a declaração exigida pelo número anterior serão exonerados do quadro geral do ensino primário, podendo, no entanto, candidatar-se ao exercício de funções docentes como professores não pertencentes aos quadros.
 
-###### Art. 28.º - 1 - Os professores que pretendam permutar têm de o requerer, separadamente, durante o mês de Janeiro de cada ano.
+Art. 28.º - 1 - Os professores que pretendam permutar têm de o requerer, separadamente, durante o mês de Janeiro de cada ano.
 
 2 - Serão autorizados pedidos de desistência das permutas desde que os dois professores envolvidos o requeiram até 31 de Março do mesmo ano.
 
 3 - Serão arquivados todos os pedidos que não respeitarem os prazos fixados nos n.os 1 e 2 deste artigo.
 
-###### Art. 29.º - 1 - São permitidas a cada professor duas permutas, nos termos deste diploma.
+Art. 29.º - 1 - São permitidas a cada professor duas permutas, nos termos deste diploma.
 
 2 - Os professores que permutaram já duas vezes até à data da publicação do presente diploma não poderão beneficiar de nova permuta.
 
-###### Art. 30.º - 1 - Compete ao director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação decidir sobre os pedidos de permuta até ao dia 30 de Abril do ano em que são apresentados.
+Art. 30.º - 1 - Compete ao director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação decidir sobre os pedidos de permuta até ao dia 30 de Abril do ano em que são apresentados.
 
 2 - O director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação pode delegar a competência a que se refere o número anterior, sem prejuízo dos poderes de avocação.
 
-###### Art. 31.º - 1 - As permutas autorizadas nos termos do presente diploma produzem efeitos a partir do dia 1 de Setembro que se segue à data do despacho de autorização.
+Art. 31.º - 1 - As permutas autorizadas nos termos do presente diploma produzem efeitos a partir do dia 1 de Setembro que se segue à data do despacho de autorização.
 
 2 - A antiguidade dos professores nos lugares permutados é contada a partir da data fixada no número anterior.
 
-###### Art. 32.º - 1 - No período dos três anos escolares que se seguem à data fixada pelo artigo anterior, os professores que permutarem não poderão beneficiar das situações a seguir indicadas:
+Art. 32.º - 1 - No período dos três anos escolares que se seguem à data fixada pelo artigo anterior, os professores que permutarem não poderão beneficiar das situações a seguir indicadas:
 
 a) Nova permuta de lugares;
 
@@ -407,7 +572,7 @@ g) Licença sem vencimento, nos termos do artigo 9.º do [Decreto Regulamentar R
 
 ### CAPÍTULO IX — Dos professores titulares de lugar suspenso ou excedentários
 
-###### Art. 33.º - 1 - Os professores do ensino primário titulares de lugares suspensos serão colocados em cada ano escolar noutra escola da Região, em regime de destacamento, nos termos da legislação em vigor e precedido de concurso.
+Art. 33.º - 1 - Os professores do ensino primário titulares de lugares suspensos serão colocados em cada ano escolar noutra escola da Região, em regime de destacamento, nos termos da legislação em vigor e precedido de concurso.
 
 2 - Os professores referidos no número anterior regressarão aos seus lugares de origem logo que os mesmos entrem em funcionamento ou se verifique a vacatura de qualquer outro lugar do quadro da mesma escola.
 
@@ -421,7 +586,7 @@ g) Licença sem vencimento, nos termos do artigo 9.º do [Decreto Regulamentar R
 
 7 - As categorias referidas no número anterior são as constantes do n.º 3 do artigo 26.º deste diploma.
 
-###### Art. 34.º - 1 - Para efeitos do disposto no n.º 1 do artigo anterior, os titulares de lugar temporariamente suspenso apresentarão na Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário, de 20 a 31 de Maio de cada ano, um requerimento com indicação, por ordem de preferência, das escolas onde pretendem ser colocados, acompanhado de uma ficha profissional.
+Art. 34.º - 1 - Para efeitos do disposto no n.º 1 do artigo anterior, os titulares de lugar temporariamente suspenso apresentarão na Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário, de 20 a 31 de Maio de cada ano, um requerimento com indicação, por ordem de preferência, das escolas onde pretendem ser colocados, acompanhado de uma ficha profissional.
 
 2 - A Direcção Regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação colocará os titulares de lugar suspenso de acordo com as preferências manifestadas no requerimento referido no número anterior, aplicando na sua ordenação o disposto nos artigos 12.º, 13.º e 14.º deste diploma.
 
@@ -439,11 +604,11 @@ b) Escola atribuída.
 
 7 - Os professores colocados ao abrigo do disposto neste artigo entram em exercício na data e nos termos previstos no n.º 3 do artigo 21.º deste diploma.
 
-###### Art. 35.º - 1 - Os professores do ensino primário titulares de lugares que foram suspensos ou extintos poderão, sem precedência de concurso, requerer provimento em escolas da mesma localidade ou de localidade de categoria igual, imediatamente inferior ou superior situadas na Região Autónoma da Madeira.
+Art. 35.º - 1 - Os professores do ensino primário titulares de lugares que foram suspensos ou extintos poderão, sem precedência de concurso, requerer provimento em escolas da mesma localidade ou de localidade de categoria igual, imediatamente inferior ou superior situadas na Região Autónoma da Madeira.
 
 2 - Para efeitos do disposto no número anterior dever-se-á ter em atenção o disposto no n.º 3 do artigo 26.º deste diploma.
 
-###### Art. 36.º - 1 - Os pedidos referidos no artigo anterior serão apresentados de 15 a 20 de Novembro de cada ano na Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário, dirigidas ao director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação.
+Art. 36.º - 1 - Os pedidos referidos no artigo anterior serão apresentados de 15 a 20 de Novembro de cada ano na Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário, dirigidas ao director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação.
 
 2 - Para efeitos do número anterior compete à Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário:
 
@@ -461,13 +626,13 @@ b) Organizar e afixar, até ao dia 25 de Novembro, a lista ordenada provisória 
 
 7 - A lista de colocação será enviada ao director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação para homologação, procedendo-se depois à formalização do provimento, por transferência dos respectivos professores.
 
-###### Art. 37.º Aos professores do quadro geral que, por efeito de concurso, sejam considerados em excesso em determinada escola é aplicado o disposto neste diploma quanto aos titulares de lugares suspensos, contando-se os dois anos referidos no n.º 5 do artigo 33.º a partir da data da publicação da lista definitiva do respectivo concurso ao quadro geral.
+Art. 37.º Aos professores do quadro geral que, por efeito de concurso, sejam considerados em excesso em determinada escola é aplicado o disposto neste diploma quanto aos titulares de lugares suspensos, contando-se os dois anos referidos no n.º 5 do artigo 33.º a partir da data da publicação da lista definitiva do respectivo concurso ao quadro geral.
 
-###### Art. 38.º Ao provimento dos professores do ensino primário nas situações referidas nos artigos 35.º e 37.º aplica-se o disposto nos n.os 2 e 3 do artigo 21.º e no artigo 22.º deste diploma.
+Art. 38.º Ao provimento dos professores do ensino primário nas situações referidas nos artigos 35.º e 37.º aplica-se o disposto nos n.os 2 e 3 do artigo 21.º e no artigo 22.º deste diploma.
 
 ### CAPÍTULO X — Da preferência conjugal
 
-###### Art. 39.º - 1 - Podem concorrer ao abrigo da preferência conjugal os professores do quadro geral e os professores que, de acordo com lista definitiva de colocações publicitada nos termos legais, tenham adquirido direito a provimento como professores do quadro geral, uns e outros casados com funcionários ou agentes dos serviços e organismos da administração central, regional ou local.
+Art. 39.º - 1 - Podem concorrer ao abrigo da preferência conjugal os professores do quadro geral e os professores que, de acordo com lista definitiva de colocações publicitada nos termos legais, tenham adquirido direito a provimento como professores do quadro geral, uns e outros casados com funcionários ou agentes dos serviços e organismos da administração central, regional ou local.
 
 2 - Consideram-se funcionários ou agentes os indivíduos que se encontrem providos em lugares do quadro ou contratados além do quadro por tempo indeterminado desde que tenham um ou mais anos de serviço em serviços ou organismos da administração central, regional e local, das Forças Armadas, da Administração Pública ou dos corpos administrativos, mesmo na situação de aposentação, reforma ou reserva.
 
@@ -493,7 +658,7 @@ c) Documento comprovativo do local de trabalho do cônjuge passado pelo competen
 
 ### CAPÍTULO XI — Do quadro regional de vinculação de professor do ensino primário
 
-###### Art. 40.º - 1 - É criado um quadro de vinculação de professores do ensino primário para suprir necessidades do ensino, designadamente para preenchimento de lugares vagos e disponíveis após a colocação de titulares de lugares suspensos ou extintos e dos professores referidos no artigo 39.º deste diploma que não possam ter sido assegurados por professores do quadro geral.
+Art. 40.º - 1 - É criado um quadro de vinculação de professores do ensino primário para suprir necessidades do ensino, designadamente para preenchimento de lugares vagos e disponíveis após a colocação de titulares de lugares suspensos ou extintos e dos professores referidos no artigo 39.º deste diploma que não possam ter sido assegurados por professores do quadro geral.
 
 2 - O número de lugares do quadro de vinculação será determinado, anualmente, até ao dia 15 de Julho, por despacho do director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação, a publicar no Jornal Oficial da Região e no Diário da República, com base no disposto nas alíneas seguintes e depois de operadas as colocações dos titulares de lugares suspensos e ao abrigo da preferência conjugal, nos termos do disposto nos artigos 34.º e 61.º deste diploma:
 
@@ -505,7 +670,7 @@ b) Número de lugares disponíveis resultantes de colocações em situação esp
 
 ### CAPÍTULO XII — Do provimento no quadro regional de vinculação
 
-###### Art. 41.º - 1 - O provimento no quadro regional de vinculação far-se-á por concurso anual, a abrir, mediante aviso a publicar no Jornal Oficial da Região e no Diário da República, até 31 de Maio, pela Direcção Regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação.
+Art. 41.º - 1 - O provimento no quadro regional de vinculação far-se-á por concurso anual, a abrir, mediante aviso a publicar no Jornal Oficial da Região e no Diário da República, até 31 de Maio, pela Direcção Regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação.
 
 2 - O director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação poderá, em casos excepcionais devidamente justificados, alterar, por despacho a publicar no Jornal Oficial da Região e no Diário da República, a data referida no n.º 1 deste artigo.
 
@@ -515,7 +680,7 @@ b) Número de lugares disponíveis resultantes de colocações em situação esp
 
 5 - Para o efeito, no despacho referido no n.º 2 do artigo 40.º será sempre mencionado, além do número de lugares determinado como necessário, o número de lugares em excesso ou em falta no quadro regional de vinculação.
 
-###### Art. 42.º - 1 - O prazo para requerer a admissão ao concurso previsto no artigo anterior é de dez dias úteis contados a partir do dia seguinte ao da publicação no Jornal Oficial da Região e no Diário da República do aviso referido no n.º 1 do artigo 41.º do presente diploma.
+Art. 42.º - 1 - O prazo para requerer a admissão ao concurso previsto no artigo anterior é de dez dias úteis contados a partir do dia seguinte ao da publicação no Jornal Oficial da Região e no Diário da República do aviso referido no n.º 1 do artigo 41.º do presente diploma.
 
 2 - O prazo a que se refere o número anterior beneficiará de uma dilação de vinte dias para os candidatos que se encontrem numa das seguintes situações:
 
@@ -527,11 +692,11 @@ c) Ao serviço no âmbito do ensino português no estrangeiro;
 
 d) A prestar serviço militar obrigatório.
 
-###### Art. 43.º - 1 - A admissão a concurso prevista no artigo 41.º deste diploma será feita através do preenchimento de um boletim de concurso e de uma ficha, a editar pela Divisão do Património do Governo Regional.
+Art. 43.º - 1 - A admissão a concurso prevista no artigo 41.º deste diploma será feita através do preenchimento de um boletim de concurso e de uma ficha, a editar pela Divisão do Património do Governo Regional.
 
 2 - Os documentos referidos no número anterior serão entregues nos serviços oficiais referenciados no respectivo aviso de abertura do concurso, que confirmarão os elementos deles constantes.
 
-###### Art. 44.º - 1 - Podem ser opositores ao concurso referido no n.º 1 do artigo 41.º os candidatos que se encontrem em alguma das situações a seguir indicadas:
+Art. 44.º - 1 - Podem ser opositores ao concurso referido no n.º 1 do artigo 41.º os candidatos que se encontrem em alguma das situações a seguir indicadas:
 
 a) Professores já pertencentes ao quadro regional de vinculação ou a um dos quadros distritais de vinculação do continente ou da Região Autónoma dos Açores;
 
@@ -549,9 +714,9 @@ a) Professores já pertencentes aos quadros de vinculação referidos na alínea
 
 b) Os restantes candidatos referidos neste artigo.
 
-###### Art. 45.º Dentro de cada uma das situações referidas no artigo anterior, os candidatos serão ordenados de acordo com o disposto nos artigos 12.º, 13.º e 14.º deste diploma.
+Art. 45.º Dentro de cada uma das situações referidas no artigo anterior, os candidatos serão ordenados de acordo com o disposto nos artigos 12.º, 13.º e 14.º deste diploma.
 
-###### Art. 46.º - 1 - Dos impressos referidos no n.º 1 do artigo 43.º constarão, obrigatoriamente:
+Art. 46.º - 1 - Dos impressos referidos no n.º 1 do artigo 43.º constarão, obrigatoriamente:
 
 a) Elementos de identificação do candidato;
 
@@ -567,19 +732,19 @@ f) Código das escolas, dos concelhos e das zonas a que o candidato concorre, de
 
 2 - Os serviços oficiais referidos no n.º 2 do artigo 43.º, depois de cumprido o disposto no mesmo número, farão entrega dos originais dos impressos conforme for determinado no aviso de abertura do concurso.
 
-###### Art. 47.º Compete à Direcção Regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação realizar o concurso de provimento no quadro regional de vinculação.
+Art. 47.º Compete à Direcção Regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação realizar o concurso de provimento no quadro regional de vinculação.
 
-###### Art. 48.º Os candidatos ao concurso referido no artigo 41.º deste diploma indicarão as suas preferências num só boletim, de acordo com o estabelecido no n.º 1 do artigo 17.º deste diploma.
+Art. 48.º Os candidatos ao concurso referido no artigo 41.º deste diploma indicarão as suas preferências num só boletim, de acordo com o estabelecido no n.º 1 do artigo 17.º deste diploma.
 
-###### Art. 49.º O concurso realiza-se com recuperação automática de lugares, de forma que qualquer concorrente não seja ultrapassado em qualquer das suas preferências por outro candidato com inferior prioridade.
+Art. 49.º O concurso realiza-se com recuperação automática de lugares, de forma que qualquer concorrente não seja ultrapassado em qualquer das suas preferências por outro candidato com inferior prioridade.
 
-###### Art. 50.º As listas provisórias de ordenação dos candidatos e a de colocações serão publicitadas nos termos legais em vigor e para os efeitos previstos nos artigos 18.º e 19.º deste diploma.
+Art. 50.º As listas provisórias de ordenação dos candidatos e a de colocações serão publicitadas nos termos legais em vigor e para os efeitos previstos nos artigos 18.º e 19.º deste diploma.
 
-###### Art. 51.º - 1 - O provimento dos professores do ensino primário do quadro regional de vinculação entende-se sempre feito por conveniência urgente de serviço, sendo-lhes devidos os respectivos abonos a partir do dia 1 de Setembro do ano civil em que o concurso se realizou.
+Art. 51.º - 1 - O provimento dos professores do ensino primário do quadro regional de vinculação entende-se sempre feito por conveniência urgente de serviço, sendo-lhes devidos os respectivos abonos a partir do dia 1 de Setembro do ano civil em que o concurso se realizou.
 
 2 - Ao processo de provimento resultante do disposto no número anterior é aplicável o estabelecido no n.º 2 do artigo 20.º deste diploma.
 
-###### Art. 52.º Aos professores do ensino primário providos no quadro regional de vinculação são aplicáveis, com as adaptações necessárias, as seguintes disposições deste diploma:
+Art. 52.º Aos professores do ensino primário providos no quadro regional de vinculação são aplicáveis, com as adaptações necessárias, as seguintes disposições deste diploma:
 
 a) Artigo 21.º;
 
@@ -589,13 +754,13 @@ c) Artigo 23.º;
 
 d) Artigo 25.º
 
-###### Art. 53.º A apresentação mencionada na alínea a) do artigo anterior do presente diploma confere ao respectivo professor todos os direitos e deveres inerentes à qualidade de professor do quadro regional de vinculação.
+Art. 53.º A apresentação mencionada na alínea a) do artigo anterior do presente diploma confere ao respectivo professor todos os direitos e deveres inerentes à qualidade de professor do quadro regional de vinculação.
 
-###### Art. 54.º Os professores do ensino primário integrados no quadro regional de vinculação serão obrigatoriamente opositores aos concursos do quadro geral, a nível de uma zona, de acordo com o n.º 2 do artigo 15.º do presente diploma, até obterem colocação neste quadro.
+Art. 54.º Os professores do ensino primário integrados no quadro regional de vinculação serão obrigatoriamente opositores aos concursos do quadro geral, a nível de uma zona, de acordo com o n.º 2 do artigo 15.º do presente diploma, até obterem colocação neste quadro.
 
-###### Art. 55.º Os professores do ensino primário pertencentes ao quadro regional de vinculação que não derem cumprimento ao disposto no artigo anterior e não venham a obter direito ao provimento, bem como os que não aceitarem a colocação na escola que lhes couber, anualmente, no quadro regional de vinculação, serão exonerados e só poderão reingressar na docência na qualidade de novos candidatos, contratados em termos a definir por portaria do Secretário Regional da Educação.
+Art. 55.º Os professores do ensino primário pertencentes ao quadro regional de vinculação que não derem cumprimento ao disposto no artigo anterior e não venham a obter direito ao provimento, bem como os que não aceitarem a colocação na escola que lhes couber, anualmente, no quadro regional de vinculação, serão exonerados e só poderão reingressar na docência na qualidade de novos candidatos, contratados em termos a definir por portaria do Secretário Regional da Educação.
 
-###### Art. 56.º - 1 - No primeiro concurso de provimento no quadro regional de vinculação de professores do ensino primário, aberto nos termos do presente diploma, consideram-se somente opositores ao referido concurso os professores vinculados à Secretaria Regional da Educação ou ao Ministério da Educação ou, ainda, à Secretaria Regional da Educação e Cultura dos Açores em 30 de Setembro de 1987 e que mantêm a mesma situação à data de abertura do concurso, designadamente os que se encontram na situação de cooperantes, em funções no serviço de ensino básico e secundário no estrangeiro, em exercício de qualquer cargo previsto no [Decreto-Lei n.º 901/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/901-1976-416439), de 31 de Dezembro, em exercício de funções junto das Comunidades Europeias e, ainda, abrangidos pelo [Decreto-Lei n.º 519-E1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-e1-1979-157055), de 29 de Dezembro.
+Art. 56.º - 1 - No primeiro concurso de provimento no quadro regional de vinculação de professores do ensino primário, aberto nos termos do presente diploma, consideram-se somente opositores ao referido concurso os professores vinculados à Secretaria Regional da Educação ou ao Ministério da Educação ou, ainda, à Secretaria Regional da Educação e Cultura dos Açores em 30 de Setembro de 1987 e que mantêm a mesma situação à data de abertura do concurso, designadamente os que se encontram na situação de cooperantes, em funções no serviço de ensino básico e secundário no estrangeiro, em exercício de qualquer cargo previsto no [Decreto-Lei n.º 901/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/901-1976-416439), de 31 de Dezembro, em exercício de funções junto das Comunidades Europeias e, ainda, abrangidos pelo [Decreto-Lei n.º 519-E1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-e1-1979-157055), de 29 de Dezembro.
 
 2 - Para efeitos do disposto no número anterior os candidatos serão ordenados, por ordem de prioridade, de acordo com os escalões a seguir indicados:
 
@@ -603,19 +768,19 @@ a) Candidatos com dois ou mais anos de serviço docente em 30 de Setembro de 198
 
 b) Candidatos com menos de dois anos de serviço docente em 30 de Setembro de 1987.
 
-###### Art. 57.º - 1 - Aos professores referidos no artigo anterior é garantido o provimento no quadro regional de vinculação desde que sejam opositores ao concurso referido no artigo 41.º e tenham esgotado todas as possibilidades de provimento estabelecidas neste diploma.
+Art. 57.º - 1 - Aos professores referidos no artigo anterior é garantido o provimento no quadro regional de vinculação desde que sejam opositores ao concurso referido no artigo 41.º e tenham esgotado todas as possibilidades de provimento estabelecidas neste diploma.
 
 2 - No despacho referido no n.º 2 do artigo 40.º e para efeitos de concurso respeitante ao ano escolar de 1988-1989, o número total de lugares a determinar nunca poderá ser inferior ao número total dos candidatos que estejam vinculados à Secretaria Regional da Educação.
 
-###### Art. 58.º - 1 - Os professores do ensino primário pertencentes a um dos quadros distritais de vinculação do continente ou da Região Autónoma dos Açores que pretendam ser opositores ao concurso previsto no artigo 41.º deste diploma, se obtiverem colocação na Região, consideram-se providos, por transferência, independentemente de quaisquer formalidades, no quadro regional de vinculação.
+Art. 58.º - 1 - Os professores do ensino primário pertencentes a um dos quadros distritais de vinculação do continente ou da Região Autónoma dos Açores que pretendam ser opositores ao concurso previsto no artigo 41.º deste diploma, se obtiverem colocação na Região, consideram-se providos, por transferência, independentemente de quaisquer formalidades, no quadro regional de vinculação.
 
 2 - O despacho homologatório da lista referida no número anterior considera-se válido para a transferência.
 
-###### Art. 59.º Os professores do ensino primário pertencentes ao quadro regional de vinculação consideram-se sempre disponíveis para serem colocados em qualquer escola, mesmo que temporariamente.
+Art. 59.º Os professores do ensino primário pertencentes ao quadro regional de vinculação consideram-se sempre disponíveis para serem colocados em qualquer escola, mesmo que temporariamente.
 
 ### CAPÍTULO XIII — Colocação ao abrigo da preferência conjugal dos professores do ensino primário
 
-###### Art. 60.º - 1 - O preenchimento dos lugares vagos e disponíveis referidos nas alíneas do n.º 2 do artigo 40.º deste diploma será feita por professores do ensino primário a seguir indicados, por ordem de prioridade:
+Art. 60.º - 1 - O preenchimento dos lugares vagos e disponíveis referidos nas alíneas do n.º 2 do artigo 40.º deste diploma será feita por professores do ensino primário a seguir indicados, por ordem de prioridade:
 
 a) Titulares de lugares temporariamente suspensos referidos no n.º 1 do artigo 33.º deste diploma;
 
@@ -625,7 +790,7 @@ c) Professores pertencentes ao quadro regional de vinculação ou aos quadros di
 
 2 - A colocação por um ano escolar dos professores referidos no número anterior será feita por despacho do director regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação.
 
-###### Art. 61.º - 1 - Os processos de candidatura referidos no artigo 39.º do presente diploma serão apresentados, de 20 a 31 de Maio de cada ano, na Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário da Secretaria Regional da Educação.
+Art. 61.º - 1 - Os processos de candidatura referidos no artigo 39.º do presente diploma serão apresentados, de 20 a 31 de Maio de cada ano, na Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário da Secretaria Regional da Educação.
 
 2 - Os professores referidos no número anterior que pertençam a escolas não sediadas nesta Região e que pretendam candidatar-se a escolas da Região Autónoma da Madeira apresentarão uma ficha profissional devidamente confirmada pela direcção escolar onde se encontra o seu processo.
 
@@ -633,15 +798,15 @@ c) Professores pertencentes ao quadro regional de vinculação ou aos quadros di
 
 4 - As demais operações respeitarão o disposto nos n.os 2, 3, 4, 5 e 7 do artigo 34.º deste decreto legislativo regional.
 
-###### Art. 62.º As colocações referidas nos artigos 34.º e 60.º deste diploma deverão estar concluídos até ao dia 10 de Agosto.
+Art. 62.º As colocações referidas nos artigos 34.º e 60.º deste diploma deverão estar concluídos até ao dia 10 de Agosto.
 
 ### CAPÍTULO XVI — Disposições finais e transitórias
 
-###### Art. 63.º - 1 - Para ocorrer a necessidades transitórias de preenchimento dos lugares referidos no artigo 60.º deste diploma serão contratados professores nas condições expressas nas alíneas b), c), d) e e) do n.º 1 do artigo 44.º
+Art. 63.º - 1 - Para ocorrer a necessidades transitórias de preenchimento dos lugares referidos no artigo 60.º deste diploma serão contratados professores nas condições expressas nas alíneas b), c), d) e e) do n.º 1 do artigo 44.º
 
 2 - Os professores referidos no número anterior serão contratados nos termos que vierem a ser definidos na portaria a que se refere o artigo 55.º
 
-###### Art. 64.º - 1 - Sempre que o professor titular de um lugar temporariamente disponível se apresente ao serviço, o professor a leccionar os mesmos alunos cessará funções lectivas na respectiva escola.
+Art. 64.º - 1 - Sempre que o professor titular de um lugar temporariamente disponível se apresente ao serviço, o professor a leccionar os mesmos alunos cessará funções lectivas na respectiva escola.
 
 2 - Caso o titular se apresente no período de avaliação, o substituto manter-se-á em funções lectivas até ao termo dos respectivos trabalhos.
 
@@ -649,13 +814,13 @@ c) Professores pertencentes ao quadro regional de vinculação ou aos quadros di
 
 4 - Os professores contratados que cessam funções lectivas manter-se-ão na escola em actividades paradocentes até ao termo da vigência do contrato.
 
-###### Art. 65.º - 1 - Em cada ano lectivo, as decisões de funcionamento de lugares docentes, escola a escola, são tomadas com base no número de alunos obtido no apuramento final das matrículas, tendo em conta, nas escolas com lugares providos, o disposto nos artigos 66.º e 67.º deste diploma.
+Art. 65.º - 1 - Em cada ano lectivo, as decisões de funcionamento de lugares docentes, escola a escola, são tomadas com base no número de alunos obtido no apuramento final das matrículas, tendo em conta, nas escolas com lugares providos, o disposto nos artigos 66.º e 67.º deste diploma.
 
 2 - Depois do apuramento final de matrículas e até 15 de Outubro, é decidido o funcionamento, em cada escola, de tantos lugares docentes quantos os que o aumento de alunos, naquele período, justificar.
 
 3 - Depois de 15 de Outubro, a entrada em funcionamento de outros lugares docentes só é autorizada nas escolas onde houver aumento significativo de alunos.
 
-###### Art. 66.º - 1 - Proceder-se-á à suspensão provisória dos lugares criados quando no apuramento final de matrículas se verificar excesso de lugares, procedendo-se nas respectivas escolas conforme o disposto nas alíneas seguintes:
+Art. 66.º - 1 - Proceder-se-á à suspensão provisória dos lugares criados quando no apuramento final de matrículas se verificar excesso de lugares, procedendo-se nas respectivas escolas conforme o disposto nas alíneas seguintes:
 
 a) Nas escolas com lugares providos e lugares vagos, são suspensos os lugares vagos até esgotar o total de lugares em excesso e os lugares providos, nos termos da alínea seguinte, quando os lugares em excesso forem em número superior aos lugares vagos;
 
@@ -669,19 +834,19 @@ b) Nas escolas com todos os lugares vagos, são suspensos todos os lugares em ex
 
 5 - Poderá igualmente ser mandado reactivar, por despacho do Secretário Regional da Educação, o funcionamento da escola, desde que deixe de existir o motivo de suspensão daquele funcionamento.
 
-###### Art. 67.º A suspensão referida no n.º 1 do artigo anterior produzirá todos os seus efeitos desde que a situação que a determinou não se altere em função da frequência em 15 de Outubro do mesmo ano.
+Art. 67.º A suspensão referida no n.º 1 do artigo anterior produzirá todos os seus efeitos desde que a situação que a determinou não se altere em função da frequência em 15 de Outubro do mesmo ano.
 
-###### Art. 68.º Para execução do disposto no n.º 2 do artigo 66.º, a movimentação de professores obedece à ordem e critérios seguintes:
+Art. 68.º Para execução do disposto no n.º 2 do artigo 66.º, a movimentação de professores obedece à ordem e critérios seguintes:
 
 a) Havendo professores interessados, é dada prioridade de escolha aos professores do quadro geral de mais antigo provimento na escola, respeitando-se a ordenação dos professores, como se para efeitos de concurso ao quadro geral se tratasse, quando a data do provimento for a mesma;
 
 b) Não havendo professores interessados, ou se os houver em número inferior ao dos lugares a suspender, são suspensos os lugares dos professores do quadro geral de mais recente provimento na escola, respeitando-se a menor graduação na docência quando a data de provimento for a mesma.
 
-###### Art. 69.º Para efeitos do disposto no presente diploma, considera-se a data de provimento o primeiro dia do ano escolar em que os docentes se apresentem nas escolas em que foram providos.
+Art. 69.º Para efeitos do disposto no presente diploma, considera-se a data de provimento o primeiro dia do ano escolar em que os docentes se apresentem nas escolas em que foram providos.
 
-###### Art. 70.º O disposto no artigo 4.º do presente diploma, no que se refere à relação professor/aluno, aplica-se ainda às escolas de área aberta designadas de tipo P3.
+Art. 70.º O disposto no artigo 4.º do presente diploma, no que se refere à relação professor/aluno, aplica-se ainda às escolas de área aberta designadas de tipo P3.
 
-###### Art. 71.º - 1 - Aos professores do ensino primário que à data de entrada em vigor deste diploma se encontrem a prestar serviço militar obrigatório é aplicado o disposto no artigo 56.º deste diploma, desde que se encontrem numa das situações seguintes:
+Art. 71.º - 1 - Aos professores do ensino primário que à data de entrada em vigor deste diploma se encontrem a prestar serviço militar obrigatório é aplicado o disposto no artigo 56.º deste diploma, desde que se encontrem numa das situações seguintes:
 
 a) Vinculados à Secretaria Regional da Educação ou ao Ministério da Educação ou à Secretaria Regional da Educação e Cultura dos Açores em 30 de Setembro de 1987;
 
@@ -691,7 +856,7 @@ b) Com direito a requerer a readmissão nos termos do [Decreto-Lei n.º 410/75](
 
 3 - O regime de readmissão previsto no [Decreto-Lei n.º 410/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1975-314587), de 7 de Agosto, não é aplicável aos casos em que os seis meses de serviço que condicionam aquela readmissão tenham sido prestados em regime do contrato referido no artigo 63.º
 
-###### Art. 72.º - 1 - A distribuição de todos os docentes pelos edifícios da mesma escola será feita no âmbito do conselho escolar.
+Art. 72.º - 1 - A distribuição de todos os docentes pelos edifícios da mesma escola será feita no âmbito do conselho escolar.
 
 2 - Quando, para efeitos de aplicação do disposto no número anterior, se verificar a inexistência de acordo, observar-se-ão, sem prejuízo do estabelecido quanto à constituição de turmas e seu acompanhamento, as seguintes prioridades:
 
@@ -705,11 +870,11 @@ d) Professores pertencentes ao quadro regional de vinculação.
 
 3 - Dentro de cada uma das alíneas referidas no número anterior, a respectiva seriação será feita de acordo com a maior antiguidade na escola.
 
-###### Art. 73.º - 1 - A posse dos professores do ensino primário é da competência dos respectivos delegados escolares.
+Art. 73.º - 1 - A posse dos professores do ensino primário é da competência dos respectivos delegados escolares.
 
 2 - Após a tomada de posse, o original do respectivo termo será arquivado na Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário e serão feitas as competentes comunicações nos termos legais em vigor.
 
-###### Art. 74.º - 1 - Os candidatos referidos no artigo 63.º deste diploma apresentarão, de 10 a 20 de Julho de cada ano, na Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário, a sua disponibilidade de colocação, através de impresso próprio a editar pela Secretaria Regional da Educação.
+Art. 74.º - 1 - Os candidatos referidos no artigo 63.º deste diploma apresentarão, de 10 a 20 de Julho de cada ano, na Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário, a sua disponibilidade de colocação, através de impresso próprio a editar pela Secretaria Regional da Educação.
 
 2 - O impresso referido no número anterior será acompanhado de:
 
@@ -727,7 +892,7 @@ d) Certidão ou certidões de tempo de serviço já prestado e que não conste d
 
 5 - Os documentos referidos nas alíneas b) e d) do n.º 2 deste artigo serão dispensados sempre que o docente já possua processo individual constituído.
 
-###### Art. 75.º - 1 - Os candidatos a que se refere o artigo anterior serão ordenados nos termos do disposto nos artigos 12.º, 13.º e 14.º do presente diploma.
+Art. 75.º - 1 - Os candidatos a que se refere o artigo anterior serão ordenados nos termos do disposto nos artigos 12.º, 13.º e 14.º do presente diploma.
 
 2 - A Direcção Regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação publicitará, nos termos legais em vigor, a lista ordenada provisória dos candidatos, os quais poderão reclamar da mesma nos três dias úteis subsequentes àquela publicitação.
 
@@ -737,17 +902,17 @@ d) Certidão ou certidões de tempo de serviço já prestado e que não conste d
 
 5 - Aos candidatos que não compareçam ou que não aceitem assinar o contrato será anulada a respectiva inscrição.
 
-###### Art. 76.º Os vencimentos dos professores do quadro geral e regional de vinculação referidos neste diploma são processados pela Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário.
+Art. 76.º Os vencimentos dos professores do quadro geral e regional de vinculação referidos neste diploma são processados pela Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário.
 
-###### Art. 77.º Os vencimentos dos docentes contratados nos termos do artigo 63.º deste diploma são processados pela Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário.
+Art. 77.º Os vencimentos dos docentes contratados nos termos do artigo 63.º deste diploma são processados pela Divisão Administrativa da Educação Pré-Escolar e do Ensino Primário.
 
-###### Art. 78.º O disposto no n.º 5 do artigo 13.º deste diploma só é aplicável, no tempo prestado, a partir de 1 de Setembro de 1988.
+Art. 78.º O disposto no n.º 5 do artigo 13.º deste diploma só é aplicável, no tempo prestado, a partir de 1 de Setembro de 1988.
 
-###### Art. 79.º - 1 - O quadro único de educadores de infância, das creches e ou jardins-de-infância da educação pré-escolar da rede pública da Secretaria Regional da Educação, é constituído pelo somatório dos lugares criados em cada creche e ou jardim-de-infância da Região.
+Art. 79.º - 1 - O quadro único de educadores de infância, das creches e ou jardins-de-infância da educação pré-escolar da rede pública da Secretaria Regional da Educação, é constituído pelo somatório dos lugares criados em cada creche e ou jardim-de-infância da Região.
 
 2 - Os lugares criados em cada creche e ou jardim-de-infância constituem o quadro privativo dessa mesma creche e ou jardim-de-infância e integram-se, para todos os efeitos legais, no quadro único referido no artigo anterior.
 
-###### Art. 80.º - 1 - O presente diploma aplica-se aos educadores de infância.
+Art. 80.º - 1 - O presente diploma aplica-se aos educadores de infância.
 
 2 - É criado um quadro regional de vinculação de educadores de infância, ao qual serão aplicáveis as regras de vinculação e colocação previstas neste diploma para os professores do ensino primário.
 
@@ -757,23 +922,23 @@ d) Certidão ou certidões de tempo de serviço já prestado e que não conste d
 
 5 - Na criação de lugares do quadro das creches e jardins-de-infância são aplicáveis as regras estabelecidas pelo [Decreto-Lei n.º 542/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/542-1979-230889), de 31 de Dezembro.
 
-###### Art. 81.º - 1 - Sempre que um lugar de jardim-de-infância deixar de ter frequência superior a dez crianças, poderá o funcionamento do mesmo ser suspenso por despacho do Secretário Regional da Educação.
+Art. 81.º - 1 - Sempre que um lugar de jardim-de-infância deixar de ter frequência superior a dez crianças, poderá o funcionamento do mesmo ser suspenso por despacho do Secretário Regional da Educação.
 
 2 - Poderá igualmente ser mandado reactivar, por despacho do Secretário Regional da Educação, o funcionamento de um jardim-de-infância, desde que deixe de existir o motivo de suspensão daquele funcionamento.
 
-###### Art. 82.º - 1 - A suspensão de lugares de educador será determinada por despacho do Secretário Regional da Educação, desde que se verifique que a cada lugar não corresponde a frequência de, pelo menos, dez crianças.
+Art. 82.º - 1 - A suspensão de lugares de educador será determinada por despacho do Secretário Regional da Educação, desde que se verifique que a cada lugar não corresponde a frequência de, pelo menos, dez crianças.
 
 2 - Para os efeitos previstos no número anterior, o processo de suspensão será organizado pela Direcção Regional de Finanças, Administração e Pessoal da Secretaria Regional da Educação, mediante proposta fundamentada da Direcção de Serviços da Educação Pré-Escolar e do Ensino Primário da Direcção Regional do Ensino.
 
-###### Art. 83.º Para efeitos de progressão nas fases previstas no [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, com a alteração introduzida pelo artigo 89.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, é contado o tempo de serviço prestado pelos professores do quadro geral ou do quadro regional de vinculação e, ainda, por professores do ensino primário profissionalizados mas não pertencentes a qualquer daqueles quadros que optaram por lugares do quadro dos serviços centrais da Secretaria Regional da Educação e que posteriormente, por força do mecanismo do concurso, reingressarem na carreira docente.
+Art. 83.º Para efeitos de progressão nas fases previstas no [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, com a alteração introduzida pelo artigo 89.º da [Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/lei/49-1986-627050), de 31 de Dezembro, é contado o tempo de serviço prestado pelos professores do quadro geral ou do quadro regional de vinculação e, ainda, por professores do ensino primário profissionalizados mas não pertencentes a qualquer daqueles quadros que optaram por lugares do quadro dos serviços centrais da Secretaria Regional da Educação e que posteriormente, por força do mecanismo do concurso, reingressarem na carreira docente.
 
-###### Art. 84.º - 1 - É extinta a carreira de professor efectivo do ensino primário.
+Art. 84.º - 1 - É extinta a carreira de professor efectivo do ensino primário.
 
 2 - Os actuais professores efectivos do ensino primário transitam, à data de entrada em vigor deste diploma e independentemente de todas as formalidades, para professores do quadro geral do ensino primário.
 
-###### Art. 85.º Ao preenchimento dos lugares do quadro previsto neste diploma, bem como à admissão de novos docentes contratados, não é aplicável o artigo 10.º do [Decreto Legislativo Regional n.º 13/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1985-181419), de 18 de Junho.
+Art. 85.º Ao preenchimento dos lugares do quadro previsto neste diploma, bem como à admissão de novos docentes contratados, não é aplicável o artigo 10.º do [Decreto Legislativo Regional n.º 13/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1985-181419), de 18 de Junho.
 
-###### Art. 86.º - 1 - Os candidatos que concorram aos concursos regulados pelo [Decreto-Lei n.º 35/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1988-282714), de 4 de Fevereiro, a nível do continente, ou pelo diploma que vier a regulamentar a colocação de professores do ensino primário e de educadores de infância na Região Autónoma dos Açores poderão, igualmente, ser opositores ao concurso regulado por este diploma, devendo indicar no impresso de candidatura a qual deles atribuem prioridade.
+Art. 86.º - 1 - Os candidatos que concorram aos concursos regulados pelo [Decreto-Lei n.º 35/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1988-282714), de 4 de Fevereiro, a nível do continente, ou pelo diploma que vier a regulamentar a colocação de professores do ensino primário e de educadores de infância na Região Autónoma dos Açores poderão, igualmente, ser opositores ao concurso regulado por este diploma, devendo indicar no impresso de candidatura a qual deles atribuem prioridade.
 
 2 - Os candidatos referidos no número anterior serão ordenados de acordo com os critérios definidos neste diploma, após a ordenação dos candidatos que foram unicamente opositores ao concurso da Região Autónoma da Madeira ou que optaram por este último.
 
@@ -785,9 +950,9 @@ b) Na situação 2, os candidatos que, tendo concorrido ao concurso da Região A
 
 4 - Aos candidatos que, concorrendo na situação prevista no n.º 1 deste artigo, optem pelo concurso da Região Autónoma da Madeira e venham a desistir fora do prazo ou não aceitem a colocação que lhes foi atribuída, ser-lhes-ão aplicadas as disposições da alínea a) do artigo 22.º deste diploma, ficando, igualmente, impossibilitados de no respectivo ano escolar e nos três anos subsequentes serem colocados em exercício de funções docentes nos estabelecimentos oficiais do ensino primário e da educação pré-escolar da Região Autónoma da Madeira.
 
-###### Art. 87.º O concurso ao quadro geral relativo ao ano de 1988-1989 será aberto no prazo de oito dias, contados a partir da data de entrada em vigor deste decreto legislativo regional.
+Art. 87.º O concurso ao quadro geral relativo ao ano de 1988-1989 será aberto no prazo de oito dias, contados a partir da data de entrada em vigor deste decreto legislativo regional.
 
-###### Art. 88.º É revogada toda a legislação em contrário, nomeadamente:
+Art. 88.º É revogada toda a legislação em contrário, nomeadamente:
 
 [Decreto Regulamentar Regional n.º 14/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1982-394900), de 12 de Julho;
 
@@ -797,12 +962,12 @@ b) Na situação 2, os candidatos que, tendo concorrido ao concurso da Região A
 
 Aprovado em sessão plenária em 20 de Abril de 1988.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 16 de Maio de 1988.**
+Assinado em 16 de Maio de 1988.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa a que se refere o artigo 16.º do Decreto Legislativo Regional n.º 5/88/M, desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12101/00020013.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12101/00020013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12101/00020013.pdf)

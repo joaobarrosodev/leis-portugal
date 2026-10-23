@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/15/2009/06/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/15-2009-494247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21eb3a33c4ddbccf0d779016847f90ec3fad4b8f4cf93e343f64d059f24f4213
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e388f0884439b27a1a80c54950b4f62c54a7908515a121218b847c150cd9ee2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
+- Assembleia Legislativa
+- Comunicações
 - Governo Regional
-- Mudança Tecnológica
-- Portugal Telecom
 - ILHA das Flores
 - Ilha do Corvo
-- Assembleia Legislativa
-- Tecnologia
+- Mudança Tecnológica
+- Portugal Telecom
 - Recomendação
-- Comunicações
-- Açores
+- Tecnologia
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:19Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +110,7 @@ A extensão do anel de fibra óptica às ilhas mais ocidentais do nosso arquipé
 
 A 18 de Fevereiro de 1998, o Presidente do Governo Regional afirmou que «o Governo já encomendou um estudo sobre a viabilidade técnica e financeira da extensão do cabo de fibra óptica às ilhas do grupo ocidental, pelo que, se a solução se revelar adequada, a proposta de orçamento regional para o próximo ano deverá incluir as verbas necessárias ao empreendimento» e que «projectos desta natureza constituem verdadeiros mecanismos de compensação para ilhas mais isoladas como são as Flores e o Corvo».
 
-**O Secretário Regional da Habitação e Equipamentos, do IX Governo Regional, referiu-se, em Fevereiro de 2008, a este projecto como «estruturante», acrescentando que a conclusão do anel de fibra óptica para as ilhas das Flores e Corvo seria efectivada na actual legislatura: «na próxima legislatura vão acabar de uma vez por todas as más comunicações nas Flores e Corvo» e «além da melhoria da qualidade de vida dos Açorianos que habitam o grupo ocidental do arquipélago, a conclusão do anel de fibra óptica vai permitir potenciar a economia açoriana, com melhores negócios, comunicações fixas e móveis e prestação de serviços sociais e de saúde». Acresce que aquele Secretário Regional reiterou este compromisso aquando da sua intervenção na apresentação do Programa do X Governo Regional, em Dezembro Próximo passado, portanto, já na presente legislatura.**
+O Secretário Regional da Habitação e Equipamentos, do IX Governo Regional, referiu-se, em Fevereiro de 2008, a este projecto como «estruturante», acrescentando que a conclusão do anel de fibra óptica para as ilhas das Flores e Corvo seria efectivada na actual legislatura: «na próxima legislatura vão acabar de uma vez por todas as más comunicações nas Flores e Corvo» e «além da melhoria da qualidade de vida dos Açorianos que habitam o grupo ocidental do arquipélago, a conclusão do anel de fibra óptica vai permitir potenciar a economia açoriana, com melhores negócios, comunicações fixas e móveis e prestação de serviços sociais e de saúde». Acresce que aquele Secretário Regional reiterou este compromisso aquando da sua intervenção na apresentação do Programa do X Governo Regional, em Dezembro Próximo passado, portanto, já na presente legislatura.
 
 O Governo da República acaba de promover um protocolo com a República de Cabo Verde para a construção de um cabo submarino de fibra óptica, que estará operacional no final de 2010, no que será um investimento avultado a efectuar em território estrangeiro e financiado também pelos contribuintes Florentinos e Corvinos.
 
@@ -118,4 +118,4 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos reg
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de Maio de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.

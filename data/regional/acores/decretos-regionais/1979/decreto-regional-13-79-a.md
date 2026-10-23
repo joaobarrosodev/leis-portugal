@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18800/19611963.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1979-377540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85204954046051d9c1e697c94d63235fc3d287be637f4bb4b9f02069fa97ce56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe53bdc2f5999b8c6975be0ed2f81c73456590082e0e26ca7bcdc2e42b639bec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Achado no MAR
+- Açores
+- Imóvel Classificado
+- Multa
+- Património Cultural
+- Protecção do Património
+- Secretaria Regional da Educação e Cultura
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:479598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:479598:por
+  label: "Revogado pelo DLR.29/2004/A.16.07.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2004-479598
+  date: '2004-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:57Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +111,13 @@ A Região Autónoma dos Açores, bem tipificada nas suas mais diversas manifesta
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O património cultural da Região dos Açores, adiante designado como património cultural, é constituído pelo conjunto de bens móveis e imóveis que revistam interesse artístico, arquitectónico, paisagístico, histórico, etnológico, etnográfico, científico, bibliográfico e arquivístico.
+Artigo 1.º O património cultural da Região dos Açores, adiante designado como património cultural, é constituído pelo conjunto de bens móveis e imóveis que revistam interesse artístico, arquitectónico, paisagístico, histórico, etnológico, etnográfico, científico, bibliográfico e arquivístico.
 
-###### Art. 2.º Cabe ao Governo Regional dos Açores tomar as medidas e promover os trabalhos que tenham por fim enriquecer, manter e conservar o património cultural da Região dos Açores.
+Art. 2.º Cabe ao Governo Regional dos Açores tomar as medidas e promover os trabalhos que tenham por fim enriquecer, manter e conservar o património cultural da Região dos Açores.
 
-###### Art. 3.º O Governo Regional, através da Secretaria Regional da Educação e Cultura, promoverá a organização do inventário dos bens do património cultural.
+Art. 3.º O Governo Regional, através da Secretaria Regional da Educação e Cultura, promoverá a organização do inventário dos bens do património cultural.
 
-###### Art. 4.º - 1 - Cabe ao Governo Regional, através da Secretaria Regional da Educação e Cultura, promover a classificação dos bens do património cultural como bens de interesse público e como valores concelhios.
+Art. 4.º - 1 - Cabe ao Governo Regional, através da Secretaria Regional da Educação e Cultura, promover a classificação dos bens do património cultural como bens de interesse público e como valores concelhios.
 
 2 - A classificação como bens de interesse público poderá ser proposta por qualquer entidade pública ou privada e será sempre precedida de notificação e audiência do proprietário e do parecer fundamentado do órgão técnico competente da Secretaria Regional da Educação e Cultura.
 
@@ -112,56 +125,56 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.
 
 4 - A classificação será objecto da resolução do Plenário do Governo Regional, sob proposta do Secretário Regional da Educação e Cultura, e publicada no jornal oficial.
 
-###### Art. 5.º - 1 - Poderão ser classificados como de interesse público os bens móveis e imóveis, individualmente ou em conjunto.
+Art. 5.º - 1 - Poderão ser classificados como de interesse público os bens móveis e imóveis, individualmente ou em conjunto.
 
 2 - Aos imóveis classificados como de interesse público poderá ser atribuído o título de monumento regional, quando se revestir de interesse artístico ou histórico especialmente relevante para a Região.
 
 3 - Poderão ser demarcadas áreas de protecção envolventes dos imóveis classificados, sujeitos aos condicionalismos determinados na respectiva regulamentação.
 
-###### Art. 6.º - 1 - Os proprietários ou possuidores de bens inventariados ou classificados, ou de bens cuja inventariação se encontra em curso, são obrigados a facultar aos serviços competentes a inspecção dos referidos bens, para efeitos da sua inventariação e exame do seu estado de conservação.
+Art. 6.º - 1 - Os proprietários ou possuidores de bens inventariados ou classificados, ou de bens cuja inventariação se encontra em curso, são obrigados a facultar aos serviços competentes a inspecção dos referidos bens, para efeitos da sua inventariação e exame do seu estado de conservação.
 
 2 - Quando os proprietários ou possuidores dos bens referidos no número anterior, devidamente notificados, se neguem a facultar a inspecção daqueles bens sem justa causa, poderão os serviços competentes recorrer ao tribunal da comarca em que aqueles bens se situem e solicitar deste o arrolamento desses bens e demais providências de conservação que se revelem convenientes.
 
-###### Art. 7.º - 1 - O proprietário ou possuidor de bens classificados fica obrigado à conservação dos mesmos e ao seu restauro, quando este for julgado necessário.
+Art. 7.º - 1 - O proprietário ou possuidor de bens classificados fica obrigado à conservação dos mesmos e ao seu restauro, quando este for julgado necessário.
 
 2 - Quando o proprietário ou possuidor de bens classificados não possa ou não queira realizar as obras de conservação ou restauro, poderá o Governo Regional substituir-se-lhe compulsivamente na realização das mesmas, suportando os respectivos encargos, os quais ficam a constituir dívida do interessado ao Governo Regional, amortizável no prazo máximo de dez anos e vencendo juros legais, constituindo-se obrigatoriamente hipotecas naquele valor, quando se trate de imóveis.
 
 3 - O Governo Regional, pela Secretaria Regional da Educação e Cultura, poderá determinar, quando necessário à sua conservação ou restauro, a colocação em depósito nas bibliotecas, arquivos ou museus dos bens móveis classificados.
 
-###### Art. 8.º - 1 - As deliberações das câmaras municipais da Região Autónoma dos Açores respeitantes a obras ou licenças para obras em imóveis classificados ou em curso de classificação, ou em áreas envolventes já demarcadas, só se tornarão executórias após despacho favorável do Secretário Regional da Educação e Cultura, proferido no prazo de trinta dias, sob parecer do órgão técnico competente.
+Art. 8.º - 1 - As deliberações das câmaras municipais da Região Autónoma dos Açores respeitantes a obras ou licenças para obras em imóveis classificados ou em curso de classificação, ou em áreas envolventes já demarcadas, só se tornarão executórias após despacho favorável do Secretário Regional da Educação e Cultura, proferido no prazo de trinta dias, sob parecer do órgão técnico competente.
 
 2 - Poderão ser embargadas pelos serviços competentes da Secretaria Regional da Educação e Cultura as obras em imóveis classificados ou áreas envolventes que não tenham sido expressamente autorizadas nos termos do número anterior, desde que se verifique efectivo prejuízo dos aspectos estéticos ou históricos cuja protecção motivou a classificação do imóvel.
 
-###### Art. 9.º O alinhamento em vias públicas que possa prejudicar os bens classificados ou a construção de quaisquer servidões que possam onerá-los só serão permitidos mediante autorização por despacho do Secretário Regional da Educação e Cultura, sob parecer do órgão técnico competente.
+Art. 9.º O alinhamento em vias públicas que possa prejudicar os bens classificados ou a construção de quaisquer servidões que possam onerá-los só serão permitidos mediante autorização por despacho do Secretário Regional da Educação e Cultura, sob parecer do órgão técnico competente.
 
-###### Art. 10.º - 1 - A transferência dentro da Região de bens móveis classificados ou inventariados será obrigatoriamente comunicada aos serviços competentes da Secretaria Regional da Educação e Cultura.
+Art. 10.º - 1 - A transferência dentro da Região de bens móveis classificados ou inventariados será obrigatoriamente comunicada aos serviços competentes da Secretaria Regional da Educação e Cultura.
 
 2 - A transferência para o exterior da Região de bens móveis classificados ou inventariados terá de ser sempre precedida de autorização formal do Secretário Regional da Educação e Cultura.
 
-###### Art. 11.º - 1 - A alienação de bens classificados ou em vias de classificação será precedida de autorização do Secretário Regional da Educação e Cultura, por despacho a proferir no prazo de trinta dias.
+Art. 11.º - 1 - A alienação de bens classificados ou em vias de classificação será precedida de autorização do Secretário Regional da Educação e Cultura, por despacho a proferir no prazo de trinta dias.
 
 2 - Em todos os casos de alienação de bens classificados o Governo Regional terá sempre o direito de preferência.
 
-###### Art. 12.º O Governo Regional poderá promover a expropriação por utilidade pública dos imóveis classificados como de interesse público, quando o seu proprietário não ofereça as garantias suficientes da sua normal conservação, precedendo despacho do Secretário Regional da Educação e Cultura, sob parecer do órgão competente, ouvido o interessado.
+Art. 12.º O Governo Regional poderá promover a expropriação por utilidade pública dos imóveis classificados como de interesse público, quando o seu proprietário não ofereça as garantias suficientes da sua normal conservação, precedendo despacho do Secretário Regional da Educação e Cultura, sob parecer do órgão competente, ouvido o interessado.
 
-###### Art. 13.º Quando forem encontrados em terrenos público ou particular ou no fundo dos mares, por motivo de obras, escavações ou outros trabalhos, monumentos, ruínas, inscrições, moedas ou objectos de valor cultural, a autoridade policial do concelho ordenará a suspensão dos trabalhos e imediatamente comunicará a ocorrência à Secretaria Regional da Educação e Cultura, a fim de esta tomar as necessárias providências.
+Art. 13.º Quando forem encontrados em terrenos público ou particular ou no fundo dos mares, por motivo de obras, escavações ou outros trabalhos, monumentos, ruínas, inscrições, moedas ou objectos de valor cultural, a autoridade policial do concelho ordenará a suspensão dos trabalhos e imediatamente comunicará a ocorrência à Secretaria Regional da Educação e Cultura, a fim de esta tomar as necessárias providências.
 
-###### Art. 14.º É proibido afixar anúncios, cartazes, bem como inscrever palavras, textos ou desenhos de qualquer natureza nos imóveis classificados.
+Art. 14.º É proibido afixar anúncios, cartazes, bem como inscrever palavras, textos ou desenhos de qualquer natureza nos imóveis classificados.
 
-###### Art. 15.º Aquele que por qualquer meio destruir, danificar ou causar prejuízos em bens classificados como monumento regional, de interesse público ou valor concelhio fica especialmente sujeito às penas dos artigos 472.º e 478.º do Código Penal e à respectiva indemnização.
+Art. 15.º Aquele que por qualquer meio destruir, danificar ou causar prejuízos em bens classificados como monumento regional, de interesse público ou valor concelhio fica especialmente sujeito às penas dos artigos 472.º e 478.º do Código Penal e à respectiva indemnização.
 
-###### Art. 16.º Aquele que por qualquer meio praticar actos que contrariem o disposto neste decreto regional e que não estejam abrangidos pelo Código Penal ou por outra lei penal fica sujeito à multa de 500$00 a 10000$00, conforme a gravidade do acto, aplicada por despacho do Secretário Regional da Educação e Cultura.
+Art. 16.º Aquele que por qualquer meio praticar actos que contrariem o disposto neste decreto regional e que não estejam abrangidos pelo Código Penal ou por outra lei penal fica sujeito à multa de 500$00 a 10000$00, conforme a gravidade do acto, aplicada por despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 17.º Em tudo o que não estiver expressamente previsto no presente diploma sobre a protecção e conservação do património cultural da Região será aplicada a lei geral do País quanto a monumentos nacionais e obras de arte.
+Art. 17.º Em tudo o que não estiver expressamente previsto no presente diploma sobre a protecção e conservação do património cultural da Região será aplicada a lei geral do País quanto a monumentos nacionais e obras de arte.
 
-###### Art. 18.º O Governo Regional publicará os regulamentos que julgar necessários à completa execução de presente diploma.
+Art. 18.º O Governo Regional publicará os regulamentos que julgar necessários à completa execução de presente diploma.
 
 Aprovado pela Assembleia Regional dos Açores em 8 de Junho de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 20 de Julho de 1979.**
+Assinado em Angra do Heroísmo em 20 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

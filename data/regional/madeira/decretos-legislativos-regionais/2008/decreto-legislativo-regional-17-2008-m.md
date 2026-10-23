@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/10900/0335103352.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2008/06/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2008-449376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b24bb5accf73a3c955dea599f339ceb5ab78f377c9d94079e327a424206061b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 825f67d2de0f33ef157683ad846fbf8ca6fc8ac349194683f7eca25069c27751
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Águas Públicas
-- Recursos Hídricos
 - Direcção Regional de Informação Geográfica e de Ordenamento do Território
-- Secretaria Regional do Equipamento Social
+- Domínio Público Hídrico
 - Fiscalização
 - Gestão dos Recursos
 - Homologação
 - Madeira.região Autónoma
 - Propriedade Privada
-- Domínio Público Hídrico
+- Recursos Hídricos
+- Secretaria Regional do Equipamento Social
 relationships:
 - type: amended_by
   target: pt:dre:108063588:por
@@ -109,16 +109,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:108063588:por
+  label: Revogado, a partir de 27.09.2017, o presente diploma, pelo(a) Decreto Legislativo Regional n.º 30/2017/M - Diário
+    da República n.º 165/2017, Série I de 2017-08-28 nos termos do seu art. 12.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-2017-108063588
+  date: '2017-08-28'
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:57Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +215,9 @@ b) ...
 
 c) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A apreciação dos processos de iniciativa dos particulares está sujeita ao pagamento de uma taxa destinada a custear os encargos administrativos inerentes ao procedimento, cujo valor é fixado em portaria conjunta a aprovar pelo Secretário Regional do Plano e Finanças e pelo Secretário Regional do Equipamento Social.
 
@@ -189,7 +225,9 @@ c) ...
 
 3 - A receita gerada pela cobrança da taxa constitui receita da Região.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -213,10 +251,10 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de Abril de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 23 de Maio de 2008.**
+Assinado em 23 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

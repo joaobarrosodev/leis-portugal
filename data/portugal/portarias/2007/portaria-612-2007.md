@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/09700/33813383.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/612/2007/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/612-2007-520783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e58fa7a78b6eccdb633d3227ea04fd272ddfa8b6efce03410c5411f97a5b149
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e415281bd2851a24da6658f4a45f974efde81bf9053ab3daf1ec88ed0bcdb1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral das Pescas e Aquicultura
-- Pesca
-- Gestão dos Recursos
-- Recursos do Mar
-- Quota de Pesca
-- Regulamento CE
 - Embarcação de Pesca
+- Gestão dos Recursos
+- Pesca
+- Quota de Pesca
+- Recursos do Mar
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:602058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3161849:por
+  label: "Declarada encerrada a pesca de pescada branca do sul às embarcações a que se refere a al. b) do nº 1 do art. 4º\
+    \ do presente diploma pelo DESP.26585/2007.20.11.2007.SEAAGP-MADRP, DR.IIS [223] de 20.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/26585-2007-3161849
+  date: '2007-11-20'
 - type: cites
   target: celex:32005R2166
   label: null
   source: http://data.europa.eu/eli/reg/2005/2166/oj
+- type: repealed_by
+  target: pt:dre:602058:por
+  label: "Revogada, a partir de 25.02.2009, pela PORT.187/2009.20.02.2009.MADRP, DR.IS [36] de 20.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/187-2009-602058
+  date: '2009-02-20'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:47Z'
   warnings: []
   errors: []
 ---
@@ -167,4 +178,4 @@ Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medei
 
 Embarcações abrangidas pelo plano de recuperação da pescada branca do Sul e do lagostim, com quotas de pesca branca do Sul, atribuídas em percentagem da quota nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09700/33813383.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09700/33813383.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09700/33813383.pdf)

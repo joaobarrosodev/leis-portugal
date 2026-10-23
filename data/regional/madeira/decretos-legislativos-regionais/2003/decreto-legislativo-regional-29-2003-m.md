@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/2003/12/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2003-429182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b02d4726ab31b15004d77b12b98948131e4681083e483f4b45eb775e8ed8096e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e14463b81405932f22c8169d5a87210e15d155915796e9b173815addfb3e858f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contratação Pública
 - Contrato Administrativo
 - Formas de Provimento
-- Serviço Público
-- Madeira.região Autónoma
 - Loja do Cidadão
-- Contratação Pública
+- Madeira.região Autónoma
+- Serviço Público
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:8/2003/M
+  label: "Altera o n.º 2 do artigo 3.º bem como o anexo do Decreto Legislativo Regional n.º 8/2003/M, de 21 de Maio, DR.IS-A\
+    \ [117]\0\0"
+  source: null
+  date: '2003-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/8/2003/05/21/m/dre
   label: null
@@ -89,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:17Z'
   warnings: []
   errors: []
 ---
@@ -145,18 +171,22 @@ O n.º 2 do artigo 3.º bem como o anexo do [Decreto Legislativo Regional n.º 8
 
 3 - ...
 
-## ANEXO — [(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/12/283a00/82968297.pdf)
+ANEXO
 
-###### Artigo 3.º — Entrada em vigor
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/12/283a00/82968297.pdf)
+
+Artigo 3.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 6 de Novembro de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 20 de Novembro de 2003.**
+Assinado em 20 de Novembro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

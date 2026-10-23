@@ -47,36 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1977-139059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 650097cbdba3c053a976e1210e5848055718c512dbb10e251a15d13735896032
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8aea2044e7b7806b319b09a8a74b43e021a79d19bb73e6cfc5f0544b7da0d7b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Direcção de Obras Públicas
+- Junta Geral
+- Ponta Delgada
+- Quadro de Pessoal
+- Reestruturação de Carreiras
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:314915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419642:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:39Z'
   warnings: []
   errors: []
 ---
@@ -89,34 +105,34 @@ Considerando que se verificou existir uma identidade de atribuições e funçõe
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aplicável aos chefes de conservação (e chefes de lanço) das Direcções de Obras Públicas de Angra do Heroísmo e de Ponta Delgada o disposto no [Decreto-Lei n.º 458/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1975-314915), de 22 de Agosto, no que diz respeito a vencimentos, recrutamento, provimento e promoções.
+Artigo 1.º É aplicável aos chefes de conservação (e chefes de lanço) das Direcções de Obras Públicas de Angra do Heroísmo e de Ponta Delgada o disposto no [Decreto-Lei n.º 458/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1975-314915), de 22 de Agosto, no que diz respeito a vencimentos, recrutamento, provimento e promoções.
 
-###### Art. 2.º - 1. São alteradas as categorias constantes dos quadros das Direcções de Obras Públicas de Angra do Heroísmo e de Ponta Delgada, aprovados pelo [Decreto-Lei n.º 421/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1973-419642), de 22 de Agosto, em conformidade com os mapas anexos ao presente diploma.
+Art. 2.º - 1. São alteradas as categorias constantes dos quadros das Direcções de Obras Públicas de Angra do Heroísmo e de Ponta Delgada, aprovados pelo [Decreto-Lei n.º 421/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1973-419642), de 22 de Agosto, em conformidade com os mapas anexos ao presente diploma.
 
 2. A integração nas novas categorias far-se-á mediante lista nominal, aprovada por despacho do Secretário Regional do Equipamento Social.
 
-###### Art. 3.º O presente diploma tem efeitos retroactivos, no que respeita a vencimentos, desde 1 de Setembro de 1975, data da entrada em vigor do [Decreto-Lei n.º 458/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1975-314915).
+Art. 3.º O presente diploma tem efeitos retroactivos, no que respeita a vencimentos, desde 1 de Setembro de 1975, data da entrada em vigor do [Decreto-Lei n.º 458/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1975-314915).
 
 Aprovado em Plenário do Governo Regional em 31 de Janeiro de 1977.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada em 4 de Abril de 1977.**
+Assinado em Ponta Delgada em 4 de Abril de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.
 
 MAPA I
 
 Direcção de Obras Públicas de Angra do Heroísmo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/09300/09180918.pdf))](https://files.diariodarepublica.pt/1s/1977/04/09300/09180918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/09300/09180918.pdf)
 
 MAPA II
 
 Direcção de Obras Públicas de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/09300/09180918.pdf))](https://files.diariodarepublica.pt/1s/1977/04/09300/09180918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/09300/09180918.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

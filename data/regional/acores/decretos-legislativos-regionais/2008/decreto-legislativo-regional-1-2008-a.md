@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2008/01/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2008-386843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b786db5e36252ba33d4bed4374354f71ddda76439a267a66a41fe0721ab4c2d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32002a7ddace3a2c91ec86c31f05ba9871a7fe686bea6cd1a8e7e724450ef49e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
 - Planeamento Regional
-- Desenvolvimento Económico
 - Plano Regional
-- Açores
 relationships:
 - type: cites
   target: celex:31999R1260
@@ -91,13 +91,13 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:44Z'
   warnings: []
   errors: []
 ---
@@ -118,11 +118,11 @@ A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 29 de Novembro de 2007.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 17 de Dezembro de 2007.**
+Assinado em Angra do Heroísmo em 17 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -144,7 +144,7 @@ Neste contexto, as medidas das diversas entidades de regulação e de orientaç�
 
 Produto interno bruto e desemprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 As organizações internacionais têm apresentado previsões de crescimento económico tendencialmente em baixa, mas de forma mais circunscrita a determinados espaços. Efectivamente, há outros onde a conjugação do ritmo empresarial interno face às respectivas condições de financiamento é capaz de gerar condições e processos de crescimento de emprego, de rendimento disponível e de consumo.
 
@@ -154,7 +154,7 @@ Em termos de políticas orçamentais têm-se registado medidas de consolidação
 
 Preços e saldos orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 2 - Economia nacional
 
@@ -168,7 +168,7 @@ Indicadores para a economia portuguesa
 
 Taxa de variação anual, em percentagem (salvo indicação em contrário)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Admitindo-se o pressuposto de aumento dos custos nos mercados monetários e de restrições na balança de rendimentos, a sustentabilidade na capacidade de financiamento da economia portuguesa dependerá de ganhos de rendimento através de valores em termos de troca dos bens e serviços da balança comercial e de poupança na balança energética. É neste contexto que se compreende a redução do défice da balança corrente e de capital de 8,7 % em 2006, para cerca de 8 % nos anos de 2007 e de 2008.
 
@@ -188,7 +188,7 @@ Evolução da população residente
 
 RAA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 A distribuição de estrangeiros com residência legalizada por nacionalidades regista um número absoluto maior dos que têm origem nos países da América do Norte (Estados Unidos da América e Canadá), mas a dinâmica de evolução mostra um reforço mais significativo a partir dos países de diversas origens da Europa e de África, neste último caso, particularmente de Cabo Verde.
 
@@ -196,13 +196,13 @@ Estrangeiros residentes
 
 (Percentagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Segundo estimativas do Instituto Nacional de Estatística, as perspectivas de evolução da população residente apontam no sentido do crescimento demográfico nos próximos anos. Efectivamente as previsões do INE projectam uma redução do peso relativo do número de residentes com menos de 25 anos, por contrapartida de aumento da população em idade activa, com consequências naturais ao nível de uma maior pressão no mercado de trabalho regional.
 
 População residente - Rec. geral (2001) e projecções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Em termos da posição regional nos quadros demográficos português e europeu observa-se que a população açoriana caracteriza-se por uma certa juventude, com uma perspectiva de crescimento demográfico, com índices de dependência dos jovens e de envelhecimento bem inferior aos valores observados no espaço continental.
 
@@ -216,7 +216,7 @@ Produto interno bruto, Açores
 
 Preços de mercado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 A evolução da repartição do Valor Acrescentado Bruto pelos grandes sectores de actividade económica evidencia, de forma continuada, um ligeiro reforço do peso relativo do sector terciário, representando este, em 2004, 72,5 % do total do VAB, por contrapartida de uma ligeira perda de importância relativa dos restantes sectores de actividade económica.
 
@@ -224,7 +224,7 @@ VAB - Desagregação sectorial
 
 (Unid.: percentagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Considerando a série de cinco anos (2000-2004) observa-se que, durante este período, os Açores passaram de região com menor nível de desenvolvimento no quadro das regiões portuguesas, para uma situação intermédia, apresentando em 2004 um valor de capitação do produto de cerca de 88 % da média nacional (em 2000 essa relação era de 80 %).
 
@@ -232,7 +232,7 @@ Produto interno bruto regional per capita
 
 Em índice PT=100
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Mercado de emprego
 
@@ -240,7 +240,7 @@ O aumento da população activa tem sido uma realidade evidente na evolução do
 
 Condição da população perante o trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 No que respeita à repartição sectorial da população empregada, é o sector dos serviços que tem vindo a registar maior dinamismo na ocupação de activos, por contrapartida de perdas de importância relativa dos demais sectores de actividade económica.
 
@@ -248,7 +248,7 @@ Repartição sectorial do emprego
 
 (Percentagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Preços
 
@@ -260,7 +260,7 @@ A intensidade de variação de preços decorreu das variações nos preços dos 
 
 Evolução de preços no consumidor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Comparando as variações de preços no consumo dos Açores com as de Portugal e da área do euro, segundo as 12 classes, destaca-se que há:
 
@@ -270,7 +270,7 @@ Comparando as variações de preços no consumo dos Açores com as de Portugal e
 
 Evolução dos preços por classes, em 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Finanças públicas
 
@@ -286,7 +286,7 @@ Síntese das contas
 
 (Milhares de euros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 3 - Aspectos sectoriais
 
@@ -302,7 +302,7 @@ Entre os diversos produtos lácteos registou-se uma evolução mais expressiva n
 
 Produção e transformação de leite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 No mesmo período, a produção de carne registou um total de 28,4 mil toneladas, o que representa uma taxa de variação de -4,7 % em relação ao ano anterior.
 
@@ -310,13 +310,13 @@ As variações estatisticamente mais expressivas ocorreram nos mercados locais d
 
 Produção de carne
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 A partir das estatísticas disponíveis sobre as principais produções agrícolas observa-se que: as produções de milho, formadas fundamentalmente por forragem para alimentação de animais, se situam à volta de 150 mil toneladas, mas integram-se numa tendência de desaceleração ou mesmo de decréscimo; as produções de carácter mais industrial são reveladoras de maior regularidade, destacando-se a da beterraba nos últimos três anos, também, pela intensidade de crescimento; a produção de vinho atingiu 25,7 mil litros, o que não recupera os níveis médios de produção de há alguns anos, mas em relação ao ano imediatamente anterior representa um acréscimo absoluto de 5,7 mil hectolitros.
 
 Produção das principais culturas, R. A. A.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Pescas
 
@@ -330,11 +330,11 @@ Destaca-se também no grupo dos moluscos a espécie lula, cuja pescaria represen
 
 Pescado descarregado nos portos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Pescado descarregado nos portos da Região por grupos de espécies
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Turismo
 
@@ -348,15 +348,15 @@ Estão neste momento em construção nos Açores 740 novas camas na hotelaria tr
 
 Hotelaria tradicional nos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Número de dormidas por mercados de origem, HT
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Evolução das dormidas por mercados, HT
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Energia
 
@@ -366,7 +366,7 @@ Neste contexto, observou-se nas perdas de electricidade uma redução, mesmo em 
 
 Electricidade - Balanço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 A origem da produção continuou a gerar-se de forma dominante a partir das centrais térmicas, que representaram 83,3 % do total. As outras formas, de natureza renovável, mais concretamente, a geotérmica, a hídrica e a eólica, corresponderam a 10,7 %, 3,8 % e 2,1 %, respectivamente.
 
@@ -374,7 +374,7 @@ Em termos de consumo, os agregados domésticos e os serviços/comércio absorver
 
 Estrutura da produção e consumo de electricidade - 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Construção e habitação
 
@@ -384,13 +384,13 @@ Produção e importação de cimento
 
 (Ton.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 O total de licenças concedidas para obras situa-se nos dois milhares, destinando-se o maior número a empreendimentos para habitação.
 
 Licenças concedidas para obras nos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Nota. - A partir de 2002 os valores referem-se ao número de edifícios licenciados e não ao número de licenças.
 
@@ -400,13 +400,13 @@ O tráfego de passageiros por via aérea apresenta maior regularidade de evoluç
 
 Tráfego de passageiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 No transporte de passageiros por via aérea, os movimentos inter-ilhas continuam a representar o maior volume de tráfego. Todavia, por exemplo, desde o ano 2000 o tráfego inter-ilhas registou cerca de mais 90 mil movimentos de passageiros, enquanto o exterior (territorial mais internacional) registou cerca de mais 240 mil movimentos.
 
 Movimento de passageiros nos aeroportos, segundo o tipo de tráfego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 As cargas movimentadas nos portos atingiram em 2006 cerca de 2,9 milhões de toneladas. Em contrapartida o volume das movimentadas nos aeroportos não chega a representar 1 % daquelas.
 
@@ -414,7 +414,7 @@ Cargas movimentadas
 
 (1 000 Ton.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Evolução em 2007
 
@@ -426,7 +426,7 @@ Os indicadores de conjuntura conhecidos sobre a evolução mais recente, isto é
 
 Desemprego e inflação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Também os indicadores simples com apuramentos mensais sobre as actividades económicas ao longo de 2007 registam na generalidade acréscimos significativos, não só em bens e serviços destinados ao consumo interno, como também orientados para a exportação.
 
@@ -434,7 +434,7 @@ As variações de alguns indicadores revelam condicionamentos e circunstâncias 
 
 Evolução da conjuntura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 3.2 - Sectores sociais
 
@@ -448,7 +448,7 @@ Ensino não superior
 
 Ensino oficial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Contrariando a tendência decrescente e continuada que se tem vindo a verificar nos últimos anos, registou-se no ano lectivo 2004/2005 um ligeiro acréscimo no número total de matrículas/inscrições. Este crescimento deveu-se particularmente ao contínuo aumento das inscrições na educação Pré - Escolar nas duas redes de ensino e nas matrículas no Ensino Profissional da rede privada.
 
@@ -458,7 +458,7 @@ Matrículas nas escolas da Região, por ano de escolaridade
 
 Ensino oficial e particular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 A escolarização apresenta valores crescentes na quase totalidade das idades consideradas. Este aumento é mais significativo nas idades da Educação Pré-Escolar e a partir dos 14 anos. Da observação da evolução destas taxas, verifica-se um alargamento do leque de idades com taxas dos 100 %, presentemente representativas das idades de escolaridade obrigatória.
 
@@ -466,7 +466,7 @@ Taxas de escolarização por idades e anos lectivos
 
 Ensino oficial e particular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Confirmando um maior aproveitamento escolar nos ciclos do ensino geral e obrigatório do que no secundário, a taxa de transição/aprovação oscila entre os 87,0 % no 4.º ano de escolaridade e os 54,1 % no 12.º ano.
 
@@ -474,7 +474,7 @@ Aproveitamento escolar nas escolas da Região, por ano de escolaridade (a) - Tax
 
 Ensino oficial e particular - Currículo regular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Saúde
 
@@ -482,31 +482,31 @@ No ano de 2006, os dados gerais sobre o funcionamento do sistema público de sa�
 
 Indicadores gerais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Os serviços de consulta têm registado, nos últimos anos, uma procura mais expressiva do que os de urgência. Esta evolução terá sido mais significativa no âmbito dos hospitais do que no dos centros de saúde mas, mais recentemente, surgem indícios de também abranger os referidos centros.
 
 Consultas e urgências
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Em 2006, o número de doentes saídos foi menor do que o do ano anterior mas, por outro lado, estiveram internados mais dias, implicando uma demora média maior. Atendendo que a capacidade em termos de lotação foi sensivelmente a mesma, a respectiva taxa de ocupação também foi maior na mesma proporção.
 
 Internamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Os meios complementares de diagnóstico totalizaram cerca de 2,9 milhões de exames e análises. Os meios complementares de terapêutica correspondem a mais de quatrocentos mil actos.
 
 Meios complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 O pessoal em actividade nos serviços dos hospitais e dos centros de saúde, durante o ano de 2006, atingiu o total de 4315 profissionais. A evolução geral tem registado um alargamento efectivo de quadros, destacando-se um certo reforço de médicos, enfermeiros e técnicos de diagnóstico e terapêutica.
 
 Pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Segurança social
 
@@ -514,7 +514,7 @@ A Segurança Social nos Açores abrange um total de pensionistas que se situa na
 
 Pensionistas da segurança social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 No ano de 2006, o total de receitas registadas pelo Centro de Gestão Financeira da Segurança Social atingiu cerca de 182,2 milhões de euros, o que representa um crescimento de 10,4 % em relação ao ano anterior.
 
@@ -524,7 +524,7 @@ Desta forma tornou-se possível o encerramento de contas com um saldo global pos
 
 Receitas e despesas correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Cultura
 
@@ -1128,17 +1128,17 @@ Para a afirmação dos sistemas autonómico e da gestão pública, englobando as
 
 Plano Regional Anual de 2008
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Investimento público 2008
 
 Desagregação por objectivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Desagregação por entidade proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Investimentos da EDA, S. A.
 
@@ -1148,7 +1148,7 @@ As grandes obras nas redes de transporte e distribuição em média tensão têm
 
 Investimento 2008
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 O montante global, a custos directos, do investimento para 2008 é de 47 101 mil euros, com 51,7 % afecto à Produção, 21,9 % à Distribuição MT, 13,9 % relativos à Distribuição BT, 0,7 % ao Comercial MT, 1,7 % ao Comercial BT e os restantes 9,5 % a Outras Imobilizações.
 
@@ -1252,7 +1252,7 @@ O valor de investimento público no ano 2008 ascenderá a 692,2 milhões de euro
 
 (Unidade: milhões de euros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Este elevado nível de investimento público, que se projecta para o ano em referência, será efectuado num quadro de consolidação orçamental em que não se prevê qualquer recurso a endividamento liquido directo da Região, a exemplo dos anos anteriores e portanto, num cenário de equilíbrio das finanças públicas regionais.
 
@@ -1280,7 +1280,7 @@ No que concerne à formação profissional dos activos do sector serão prossegu
 
 No que se relaciona com as tecnologias de informação e comunicação será reforçada a implementação e apoio para aquisição de equipamento informático no âmbito do programa «Escolas Digitais».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 1.1 - Construções Escolares
 
@@ -1412,7 +1412,7 @@ Programa 2 - Desenvolvimento da actividade científica e tecnológica
 
 A estrutura deste programa reflecte a execução do Plano Integrado para a Ciência e Tecnologia, o qual se estrutura em diversas linhas de intervenção. Assim, em conformidade, está previsto o financiamento de instituições e de infra-estruturas de investigação científica (INCA); o apoio à investigação cientifica e tecnológica com interesse para o desenvolvimento sustentável dos Açores (INCITA), a formação avançada (FORMAC), onde se inclui o financiamento de bolsas de investigação e a participação em eventos de carácter cientifico; uma linha de apoio à divulgação cientifica e tecnológica (CITECA); a promoção de iniciativas de I&D de âmbito empresarial (PRICE), onde se engloba o financiamento de infra-estruturas tecnológicas resultantes de parcerias público-privadas e se promove a inserção de recursos humanos qualificados nas empresas regionais; o apoio ao desenvolvimento das tecnologias de informação e da comunicação (PRATICA), destacando-se a dinamização de Espaços TIC, Redes Públicas e a promoção das «Escolas Digitais»; o apoio financeiro à aquisição e utilização de equipamentos específicos no domínio das TICs para cidadãos portadores de deficiência (CIDEF). Este programa do Plano Regional reforça ainda o apoio ao desenvolvimento tripolar da Universidade dos Açores incluindo uma comparticipação para as obras de construção do edifício dos Serviços de Acção Social de Angra do Heroísmo e o financiamento das obras de remodelação do Hospital Walter Bensaúde para as futuras instalações do Departamento de Oceanografia e Pescas na Horta e dinamização do Parque Tecnológico do Faial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 2.1 - Investigação, Ciência e Tecnologia nos Açores
 
@@ -1490,7 +1490,7 @@ No domínio do emprego, do trabalho e da qualificação profissional, as acçõe
 
 A Intervenção Específica em Rabo de Peixe abrange apoios específicos a actividades juvenis e de intervenção social para a empregabilidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 3.1 - Juventude
 
@@ -1650,7 +1650,7 @@ No domínio do património arquitectónico e cultural evidenciam-se:
 
 . Consolidação do Forte da Praia Formosa, na ilha de Santa Maria.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 4.1 - Dinamização de Actividades Culturais
 
@@ -1794,7 +1794,7 @@ Finalmente, no âmbito da promoção e formação destacam-se os apoios concedid
 
 Em termos particulares será dada continuidade ao investimento na dinamização de actividades desportivas em Rabo de Peixe.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 5.1 - Instalações e Equipamentos
 
@@ -1936,7 +1936,7 @@ Programa 6 - Apoio aos Media
 
 A programação estrutura-se em 2 grandes linhas de intervenção. Numa primeira, de apoio aos media, continuar-se-á a promover o reforço dos incentivos aos meios de comunicação social regionais, a promoção mediática dos Açores no exterior, o apoio regional ao serviço público de rádio e de televisão e disponibilização do Portal do Governo. Por outro lado, assegurar-se-á a edição e impressão do Jornal Oficial e sua disponibilização integral on-line, bem como a acesso à base de dados jurídica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 6.1 - Apoio aos Media
 
@@ -1992,7 +1992,7 @@ Pretende-se assim:
 
 . Apoiar o rendimento dos agricultores e o trabalho das organizações de produtores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 7 - Infra-Estruturas Agrícolas
 
@@ -2090,7 +2090,7 @@ Neste programa incluem-se vários domínios de intervenção no âmbito da trans
 
 . Construção dos parques de exposições de S. Miguel e Terceira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 8.1 - Transformação e Comercialização
 
@@ -2146,7 +2146,7 @@ Neste programa irão ser implementadas acções visando:
 
 Este programa enquadra ainda um projecto vocacionado para a Intervenção Específica em Rabo de Peixe abrangendo a valorização profissional, o apoio ao investimento nas explorações agrícolas e pecuárias, bem como o apoio a novas culturas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 9.1 - Diversificação Agrícola
 
@@ -2204,7 +2204,7 @@ Programa 10 - Desenvolvimento Florestal
 
 Os 3 grandes domínios de intervenção contemplados neste programa agregam acções no âmbito do fomento da produção, através de comparticipação financeira em projectos de investimento privado visando a florestação, reposição de matas e beneficiação de povoamentos florestais, para além da iniciativa pública directa no âmbito da gestão, manutenção e beneficiação de baldios, produção de plantas em viveiros, implementação de um sistema de certificação de gestão florestal, entre outras linhas de política. Para as infra-estruturas e equipamentos florestais, está previsto realizar intervenções de rompimento, conservação e melhoria em caminhos florestais, bem como noutras infra-estruturas públicas. Na terceira componente deste programa pretende-se promover acções de formação e desenvolver estudos na área das florestas, cinegética e pesca em águas interiores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 10.1 - Fomento e Gestão dos Recursos Florestais
 
@@ -2244,7 +2244,7 @@ No âmbito da gestão e da inspecção, para além do cumprimento de acções de
 
 Na componente que norteia o desenvolvimento da frota serão atribuídos subsídios para a sua modernização e renovação. No âmbito da protecção social estão previstas acções relacionadas com apoios à cessação temporária de actividade em consequência de intempéries. No segmento da transformação e comercialização dos produtos da pesca e da cooperação externa, está prevista, nos termos da legislação aplicável, a atribuição de incentivos financeiros destinadas à execução de projectos de investimento nesta área, ao apoio à diversificação da actividade da pesca, ao apoio às organizações do sector e ainda ao incentivo à deslocação de atuneiros regionais para áreas de pesca alternativas. Prevê-se também a realização de diversas acções de formação profissional para os profissionais da pesca, bem como a edição de documentação alusiva ao sector e a realização de acções variadas com a finalidade de divulgar o sector das pescas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 11.1 - Inspecção e Gestão
 
@@ -2410,7 +2410,7 @@ Desenvolvimento de acções promocionais, com vista à captação de novas liga�
 
 Prevê-se o estabelecimento de parcerias com outras Regiões congéneres europeias para o desenvolvimento de projectos que visem a melhoria da oferta e a sua promoção conjunta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 12.1 - Promoção Turística
 
@@ -2522,7 +2522,7 @@ Neste programa irão ser implementadas acções visando:
 
 . Implementação do ninho de empresas artesanais em Rabo de Peixe, numa parceria com o Projecto "Velhos Guetos, Novas Centralidades".
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 13.1 - Inovação Tecnológica e Gestão de Recursos
 
@@ -2614,7 +2614,7 @@ Este programa para 2008 visa:
 
 . Apoiar o desenvolvimento de acções de dinamização comercial em Rabo de Peixe.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 14.1 - Dinamização do Comércio
 
@@ -2652,7 +2652,7 @@ Será prestada uma particular atenção ao fomento do empreendedorismo, através
 
 Serão ainda concedidos apoios à elaboração de estudos conducentes à adopção de novas estratégias de desenvolvimento e de análise do impacto das diversas políticas na estrutura da economia regional e prestada uma particular atenção à divulgação para os potenciais investidores dos diversos instrumentos de apoio ao investimento, designadamente através do lançamento de uma reedição actualizada do Guia do Investidor e da rede de Gabinetes do Empreendedor recentemente criada nas diversas ilhas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 15.1 - Sistemas de Incentivos e Apoio à Coesão
 
@@ -2716,7 +2716,7 @@ Neste Programa preconiza-se para 2008:
 
 . Aquisição de equipamento e material específico para a Emergência Médica e para as equipas de evacuação aérea. Projectos INTUCMED e PLESCAMAC, no âmbito do INTERREG III B.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 16.1 - Construção de Novas Infra-Estruturas
 
@@ -2834,7 +2834,7 @@ As acções propostas enquadram-se numa política de reforço das funções e pa
 
 . Iniciar a construção do Centro de Actividades Ocupacionais da Ribeira Grande - Santa Casa da Misericórdia da Ribeira Grande.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 17.1 - Equipamentos de Apoio a Idosos
 
@@ -3034,7 +3034,7 @@ O programa do Plano Regional orientado para a intervenção no sector da habita�
 
 No plano da concretização, procede-se à concessão de subsídios financeiros no quadro da legislação aplicável, à aquisição e infra-estruturação de solos, bem como, à promoção e construção de habitação através do investimento público. Para a consecução das acções este departamento governamental tem vindo a estabelecer parcerias com outras entidades do governo regional e central, bem como com autarquias e instituições particulares de solidariedade social da Região.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 18.1 - Incentivos à Construção e Aquisição de Habitação Própria
 
@@ -3138,7 +3138,7 @@ Programa 19 - Protecção Civil
 
 Constituem-se como o núcleo principal de acções a desenvolver no âmbito deste programa o apoio financeiro à construção/beneficiação de quartéis de bombeiros, a aquisição de meios e de equipamentos, a execução de acções de sensibilização e informação da população para a temática da Protecção Civil, a elaboração de estudos e de planos especializados, a aquisição de meios para o SRPCA e a promoção de formação profissional no âmbito da protecção civil.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 19.1 - Aquisição/Reparação de Viaturas para os CB's
 
@@ -3310,7 +3310,7 @@ No âmbito da Promoção Ambiental visa-se:
 
 . Apoio a projectos nas áreas da promoção, sensibilização, educação e promoção ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 21.1 - Ordenamento do Território
 
@@ -3476,7 +3476,7 @@ Programa 22 - Equipamentos Públicos, Sistemas de Informação e Formação
 
 Neste programa irão ser implementados 4 projectos, visando a manutenção de infra-estruturas e a aquisição de equipamentos para o LREC, a melhoria dos sistemas informáticos da SRHE, a divulgação de diversas campanhas de informação de interesse para os cidadãos e, na área das comunicações, continuar a promover e divulgar de modo a inserir a Região na sociedade do conhecimento e da informação com vista a uma maior coesão e valorização social dos açorianos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 22.1 - LREC
 
@@ -3518,7 +3518,7 @@ Programa 23 - Construção e Reabilitação de Estradas Regionais e de Edifício
 
 Este programa tem como intervenção dominante a construção, beneficiação, reabilitação e manutenção de Estradas Regionais. No âmbito dos transportes colectivos de passageiros, salienta-se as medidas que visam o crescimento da oferta e da respectiva procura do transporte colectivo, de forma criai maior mobilidade aos utentes e a diminuir a afluência de viaturas ligeiras aos principais centros urbanos. As acções no âmbito dos edifícios contemplam diversas beneficiações e cooperação com outras entidades públicas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 23.1 - Construção e Reabilitação de Estradas Regionais
 
@@ -3688,7 +3688,7 @@ Como principais realizações a concretizar, destacam-se:
 
 . Requalificação do Porto da Praia na Ilha Graciosa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 24.1 - Tráfego de Passageiros Inter - Ilhas
 
@@ -3776,7 +3776,7 @@ No que concerne à Aerogare Civil das Lajes, prevê-se a conclusão da execuçã
 
 Em termos de medidas mais transversais a diversas ilhas, estão contemplados os encargos inerentes à Gestão dos Aeródromos Regionais, dando cumprimento ao contrato de concessão da gestão e exploração dos aeródromos regionais, bem como ao transporte de passageiros inter-ilhas, nos termos estabelecidos no contrato de concessão das rotas inter-ilhas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 25.1 - Infra-Estruturas e Equipamentos Aeroportuários
 
@@ -3864,7 +3864,7 @@ No domínio do sector energético este Programa contempla um conjunto diversific
 
 . Prossecução do pagamento dos consumos de iluminação Pública das vias de comunicação terrestres regionais da Região.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 26.1 - Utilização Regional de Energia
 
@@ -3892,7 +3892,7 @@ Programa 27 - Administração Regional e Local
 
 Este programa compreende cinco áreas, identificadas pelos respectivos projectos: Modernização Administrativa, que engloba as actividades de modernização administrativa, de formação profissional, da automatização dos procedimentos administrativos, da gestão do ficheiro central de pessoal; Informação de Interesse Público ao Cidadão, visando a aproximação da administração ao cidadão, permitindo-lhes o acesso on-line e/ou telefónico ou no local mais próximo (juntas de freguesia, casas do povo); Serviços Sociais, para apoio às associações de funcionários da administração regional; Cooperação com as Autarquias Locais, abrangendo a cooperação técnica e financeira com as autarquias locais açorianas, em áreas jurídica, contabilístico-financeira e de ordenamento do território; Estatística, com a produção de informação estatística relevante sobre os Açores e a cooperação com outras regiões ultraperiféricas da UE, no âmbito desta temática.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 27.1 - Modernização Administrativa
 
@@ -3958,7 +3958,7 @@ Programa 28 - Planeamento e Finanças
 
 Este programa compreende o financiamento de acções de gestão, de acompanhamento, de controlo e de avaliação das intervenções operacionais com co-financiamento comunitário, a cobertura de despesas em obras a realizar em instalações da administração pública, a bonificação de juros nos termos do Decreto-Lei nº349/98, de 11 de Novembro, e financiamento do programa de combate às térmitas e processos de privatização, com a correspondente aplicação na reestruturação do sector público empresarial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 28.1 - Planeamento e Finanças
 
@@ -4002,7 +4002,7 @@ No âmbito da Cooperação Inter-regional, visa-se.
 
 Na problemática da integração do emigrado/regressado, serão desenvolvidas acções de apoio (técnico, documental, informativo e formativo, linguístico, cultural) à integração desses indivíduos, para além da celebração de protocolos de cooperação com instituições e organizações de índole social. No que respeita às comunidades emigradas, está contemplado um leque diversificado de acções, nos domínios da comunicação, do intercâmbio e da preservação da identidade cultural, a promoção de encontros, seminários e de protocolos com as Casas dos Açores. Serão desenvolvidas acções visando a integração do imigrado, estabelecidos protocolos com entidades e associações de solidariedade social e realizados estudos e encontros para reflexão, debate e definição de soluções para esta realidade recente da sociedade açoriana.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 30.1 - Cooperação Inter-regional
 
@@ -4112,7 +4112,7 @@ Em 2006, o PRODESA foi reforçado em 6,3 milhões de euros na contribuição com
 
 (Unid: 1000 euros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 A despesa pública total aprovada, associada à programação financeira das candidaturas para 2006, ascendeu a 114,2 milhões de euros, a que corresponde um co-financiamento de fundos estruturais de 85,2 milhões de euros. Em termos acumulados, para o período 2000-2006, o valor global dos compromissos comunitários aprovados ascende a 895,2 milhões de euros, o que corresponde a 98,2 % da programação para o mesmo período.
 
@@ -4120,13 +4120,13 @@ A taxa de execução financeira anual do programa, ronda os 75 % quando comparad
 
 (Unid: 1000 euros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 O quadro seguinte ilustra o desempenho já atingido no corrente ano, destacando-se a taxa de aprovação do Programa de 103 % e a taxa de execução de 90 %, o que demonstra o bom desempenho do PRODESA no computo do QCA III.
 
 PRODESA - Programa Operacional para o Desenvolvimento dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 O co-financiamento comunitário do investimento regional, público e privado, não se confina ao PRODESA, encontrando financiamento noutros Programas Operacionais Sectoriais, em Iniciativas Comunitárias, nas Acções Inovadoras e no Fundo de Coesão, entre outros, potenciando desta forma o nível de investimento da Região.
 
@@ -4152,7 +4152,7 @@ Ponto de situação - Fundo de Coesão
 
 30-06-2007
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Na sequência da candidatura formulada à Comissão Europeia em 29 de Maio de 2002, foi aprovado em 26 de Março de 2003 o Programa Regional de Acções Inovadoras - PRAI-Açores (CCI 2002 PT 16 0 PP 001), tendo como data de início 1 de Março de 2003 e data-limite de elegibilidade das despesas 28 de Fevereiro de 2006.
 
@@ -4176,7 +4176,7 @@ PRAI-Açores - Execução final
 
 (Unidade: euro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 O Programa de Iniciativa Comunitária (PIC) INTERREG III, insere a Região Autónoma dos Açores na sua vertente B - Cooperação Transnacional, nomeadamente na sub-região Açores-Madeira-Canárias, tendo por objectivo fomentar a cooperação transregional e transnacional, estimulando um desenvolvimento harmonioso, equilibrado e sustentável do conjunto do espaço comunitário.
 
@@ -4190,7 +4190,7 @@ INTERREG III B Açores-Madeira-Canárias
 
 Repartição por eixos e medidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Em Fevereiro de 2003, o Comité de Gestão do INTERREG III B Açores-Madeira-Canárias aprovou formalmente 55 candidaturas com participação Açoriana, resultantes da 1ª Convocatória.
 
@@ -4214,7 +4214,7 @@ INTERREG III B Açores-Madeira-Canárias
 
 Investimento aprovado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 QUADRO 3
 
@@ -4222,7 +4222,7 @@ INTERREG III B Açores-Madeira-Canárias
 
 FEDER aprovado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 No que concerne ao Programa Operacional da Sociedade da Informação (POSI), actual Programa Operacional da Sociedade do Conhecimento (POSC), foram celebrados Contratos Programa entre o Ministério da Ciência e Tecnologia e o Fundo Regional da Ciência e Tecnologia para a gestão, acompanhamento e controlo dos eixos 1 e 2, respectivamente, Desenvolver Competências e Portugal Digital.
 
@@ -4234,7 +4234,7 @@ Programação financeira por eixos
 
 (Moeda: Euros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 A medida 1.1 - enquadra-se a iniciativa conducente à atribuição de competências básicas no domínio das tecnologias da informação e da comunicação. Esta medida operacionaliza-se através de um processo nacional de formação e certificação de competências básicas em TIC. Foram abertas candidaturas para esta linha de financiamento, tendo sido aprovados 20 projectos. A sua execução prolonga-se no ano de 2007.
 
@@ -4256,7 +4256,7 @@ Aprovação e execução registada
 
 31 de Dezembro de 2006
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Relativamente à execução do PRIME na RAA efectuamos uma descrição dos aspectos mais relevantes registados durante o ano 2006 ao nível da execução conferida aos diversos sistemas de incentivos.
 
@@ -4314,7 +4314,7 @@ A execução financeira do PDRu-Açores no ano FEOGA-G 2006 (16-10-2005 a 15-10-
 
 (Unidade: (euro) 1000)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 O Programa de Iniciativa Comunitária LEADER+ é um instrumento que permite experimentar outras abordagens de intervenção no espaço rural, respeitando a dimensão ambiental, económica, social e cultural dos territórios rurais.
 
@@ -4352,13 +4352,13 @@ Execução financeira - 2006
 
 (Unidade: euro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 Orçamento previsto - 2007
 
 (Unidade: euro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
 
 2 - Período de programação 2007-2013
 
@@ -4464,7 +4464,7 @@ Em estreita relação com a finalidade estratégica acima mencionada, o PO organ
 
 . Modernização do tecido produtivo e apoio ao empreendedorismo;
 
-. Empregabilidade e empreendedorismo com base em I&D;
+. Empregabilidade e empreendedorismo com base em I&D
 
 . Competitividade regional na sociedade da informação e do conhecimento;
 
@@ -4658,4 +4658,4 @@ Por último, no eixo 3 são definidos como objectivos o impulsionamento do desen
 
 Para o financiamento dos projectos de cooperação a Região Autónoma dos Açores tem disponível a comparticipação FEDER de 5,2 milhões de euros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00700/0023800353.pdf)

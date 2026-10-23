@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2020/03/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2020-130008908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 448dfb04c8c66a8ca1de375a30fcd75761021e22e2e6abf69a20ee17125d0785
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c05d59b2db0f5eb5a4c6ff696584469fa7f059f1359b5a99809d5182ba7aaae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alteração Orçamental
+- Catástrofe
 - Comparticipação
 - Comparticipação do Estado
-- Governo Regional
 - Definição de Competências
-- Catástrofe
-- Quadro Regional de ILHA
+- Gestão de Recursos Humanos
+- Governo Regional
 - Integração de Trabalhadores
 - Orçamento
 - Orçamento Regional
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
-- Açores
+- Quadro Regional de ILHA
+- Situação de Calamidade
 - Temporal
 - Transferência de Verbas
-- Situação de Calamidade
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2020/01/08/a/dre
@@ -98,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/180/2019/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/180/2019/11/08/p/dre
+- type: cites
+  target: pt:dre:125902657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127816253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601477:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:40Z'
   warnings: []
   errors: []
 ---
@@ -174,7 +190,9 @@ Os artigos 8.º e 16.º do [Decreto Legislativo Regional n.º 1/2020/A](https://
 
 18 - (Anterior n.º 14.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os montantes a receber, por transferência, do Orçamento do Estado deverão atingir o valor de (euro) 328.910.385,00 (trezentos e vinte e oito milhões, novecentos e dez mil, trezentos e oitenta e cinco euros).
 
@@ -190,11 +208,11 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de fevereiro de 2020.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 2 de março de 2020.**
+Assinado em Angra do Heroísmo em 2 de março de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -202,25 +220,25 @@ MAPA I
 
 Receita da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf))](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
 
 MAPA II
 
 Despesas da Região especificadas segundo a classificação orgânica, por capítulo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf))](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
 
 MAPA III
 
 Despesas da Região especificadas segundo a classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf))](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
 
 MAPA IV
 
 Despesas da Região especificadas segundo a classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf))](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
 
 MAPA X
 
@@ -228,10 +246,12 @@ Despesas de Investimento da Administração Pública Regional
 
 Resumo por departamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf))](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
 
 MAPA XI
 
 Despesas da Região Correspondentes a Programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf))](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/03/04800/0001000043.pdf)
+
+113076351

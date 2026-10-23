@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1984-399205
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc8d3b3bdf4005926c2ee637730317e76ac172b7e53f81e1786c105d064f45cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 009b3e6d79f667d0bbeaca43cd2e6e33ba7115d63dab73ebb04b50ba15cfa96b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- CAÇA
+- Comissão Venatória
+- Orgânica
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:333542:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222448:por
+  label: "Alterados os arts. 5º, 7º e 13º pelo DRR.36/86/A.09.10.1986.GR-RAA, DR.IS [233] de 09.10.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-1986-222448
+  date: '1986-10-09'
+- type: cites
+  target: pt:dre:660527:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:446501:por
+  label: Rectificado pela DECL.DD5337.25.10.1984.PCM, DR.IS [253]2ºSupl de 31.10.1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-446501
+  date: '1984-10-25'
+- type: repealed_by
+  target: pt:dre:333542:por
+  label: "Revogado o presente diploma, rectificado pela Decl DD5337, de 31-Out de 1984, pelo DLR.3/90/A.18.01.1990.ALR-RAA,\
+    \ DR.IS [15] de 18.01.1990, com efeito à data da entrada em vigor da regulamentação prevista no seu art. 38.º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1990-333542
+  date: '1990-01-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:15Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +124,7 @@ O Governo Regional, em execução do disposto no artigo 59.º do [Decreto Legisl
 
 ### CAPÍTULO I — Da região venatória
 
-###### Artigo 1.º - 1 - A Região Autónoma dos Açores constitui uma região venatória.
+Artigo 1.º - 1 - A Região Autónoma dos Açores constitui uma região venatória.
 
 2 - Em cada ilha existirá uma comissão venatória com a designação correspondente.
 
@@ -107,11 +132,11 @@ O Governo Regional, em execução do disposto no artigo 59.º do [Decreto Legisl
 
 #### SECÇÃO I — Natureza
 
-###### Art. 2.º As comissões venatórias são órgãos consultivos da Direcção Regional dos Recursos Florestais e visam contribuir para o equilíbrio entre as actividades cinegética, agrícola, pecuária e florestal, tendo em vista a defesa do ambiente e a conservação dos recursos naturais.
+Art. 2.º As comissões venatórias são órgãos consultivos da Direcção Regional dos Recursos Florestais e visam contribuir para o equilíbrio entre as actividades cinegética, agrícola, pecuária e florestal, tendo em vista a defesa do ambiente e a conservação dos recursos naturais.
 
 #### SECÇÃO II — Competências
 
-###### Art. 3.º Compete às comissões venatórias:
+Art. 3.º Compete às comissões venatórias:
 
 a) Propor à Direcção Regional dos Recursos Florestais as medidas que considerem úteis ao ordenamento, gestão, defesa e fomento dos recursos cinegéticos;
 
@@ -129,7 +154,7 @@ g) Fiscalizar o exercício da caça, participando as infracções aos serviços 
 
 h) Reunir com os serviços oficiais que superintendem na caça aos níveis correspondentes, com vista à apreciação de projectos, planos e análise de actividades, quando tal seja julgado conveniente.
 
-###### Art. 4.º - 1 - Para efeitos do disposto na alínea b) do artigo anterior, consideram-se vigilantes de caça os caçadores nomeados pelas respectivas comissões venatórias para esse fim, pelo período do seu mandato, num máximo de 4 por cada concelho da sua área de competência.
+Art. 4.º - 1 - Para efeitos do disposto na alínea b) do artigo anterior, consideram-se vigilantes de caça os caçadores nomeados pelas respectivas comissões venatórias para esse fim, pelo período do seu mandato, num máximo de 4 por cada concelho da sua área de competência.
 
 2 - As comissões venatórias credenciarão os caçadores vigilantes de caça com cartões de identificação, de modelo a aprovar pelo Secretário Regional da Agricultura e Pescas, sendo averbada essa qualidade nas respectivas cartas de caçador.
 
@@ -141,7 +166,7 @@ h) Reunir com os serviços oficiais que superintendem na caça aos níveis corre
 
 #### SECÇÃO III — Composição
 
-###### Art. 5.º As comissões venatórias de ilha têm a seguinte composição:
+Art. 5.º As comissões venatórias de ilha têm a seguinte composição:
 
 1 - Nas ilhas de São Miguei, Terceira, Faial e Pico:
 
@@ -163,7 +188,7 @@ c) 1 representante dos serviços florestais.
 
 #### SECÇÃO IV — Mandatos
 
-###### Art. 6.º - 1 - Os mandatos dos membros das comissões têm a duração de 3 anos, com início em 1 de Janeiro, exceptuando o primeiro mandato, que excederá aquele período em função da entrada em vigor do presente diploma.
+Art. 6.º - 1 - Os mandatos dos membros das comissões têm a duração de 3 anos, com início em 1 de Janeiro, exceptuando o primeiro mandato, que excederá aquele período em função da entrada em vigor do presente diploma.
 
 2 - Os mandatos dos membros das comissões venatórias extinguem-se por abandono ou renúncia expressa, por impedimento de desempenho de funções e por punição com interdição do direito de caçar.
 
@@ -175,7 +200,7 @@ c) 1 representante dos serviços florestais.
 
 #### SECÇÃO V — Reuniões
 
-###### Art. 7.º - 1 - As comissões reúnem ordinariamente por trimestre e extraordinariamente quando convocadas pelos respectivos presidentes, por iniciativa destes ou a solicitação da maioria dos seus membros.
+Art. 7.º - 1 - As comissões reúnem ordinariamente por trimestre e extraordinariamente quando convocadas pelos respectivos presidentes, por iniciativa destes ou a solicitação da maioria dos seus membros.
 
 2 - Na convocatória para as reuniões extraordinárias deverão ser indicados expressamente os assuntos a tratar.
 
@@ -193,9 +218,9 @@ c) 1 representante dos serviços florestais.
 
 #### SECÇÃO VI — Processo eleitoral
 
-###### Art. 8.º São eleitores e elegíveis para as comissões venatórias os caçadores de nacionalidade portuguesa maiores de 18 anos que possuam carta de caçador válida à data da eleição e residam na Região.
+Art. 8.º São eleitores e elegíveis para as comissões venatórias os caçadores de nacionalidade portuguesa maiores de 18 anos que possuam carta de caçador válida à data da eleição e residam na Região.
 
-###### Art. 9.º - 1 - A Direcção Regional dos Recursos Florestais providenciará, com a colaboração das comissões venatórias distritais, pela elaboração dos cadernos eleitorais dos caçadores para as eleições dos respectivos representantes nas comissões venatórias de ilha.
+Art. 9.º - 1 - A Direcção Regional dos Recursos Florestais providenciará, com a colaboração das comissões venatórias distritais, pela elaboração dos cadernos eleitorais dos caçadores para as eleições dos respectivos representantes nas comissões venatórias de ilha.
 
 2 - Para efeitos do disposto no número anterior, serão organizadas mesas eleitorais nas sedes de concelho das respectivas ilhas, as quais serão constituídas por 1 representante dos serviços florestais, que preside, 1 representante da câmara municipal e 2 caçadores nomeados pelas comissões venatórias.
 
@@ -209,42 +234,42 @@ c) 1 representante dos serviços florestais.
 
 7 - A data das eleições é proposta pela Direcção Regional dos Recursos Florestais e aprovada por despacho do Secretário Regional da Agricultura e Pescas, sendo anunciada por aviso publicado nos jornais das respectivas ilhas e afixado nas sedes de concelho.
 
-###### Art. 10.º - 1 - Cada mesa eleitoral elaborará uma acta do resultado das eleições, assinada por todos os seus membros, que será remetida em envelope lacrado, no prazo de 24 horas, à Direcção Regional dos Recursos Florestais, com todos os elementos constantes das respectivas eleições, através das direcções de serviços ou administrações florestais.
+Art. 10.º - 1 - Cada mesa eleitoral elaborará uma acta do resultado das eleições, assinada por todos os seus membros, que será remetida em envelope lacrado, no prazo de 24 horas, à Direcção Regional dos Recursos Florestais, com todos os elementos constantes das respectivas eleições, através das direcções de serviços ou administrações florestais.
 
 2 - A Direcção Regional dos Recursos Florestais nomeará uma comissão de apuramento, constituída por 2 representantes dos serviços florestais e 3 caçadores indicados pela comissão venatória em funcionamento na ilha onde esteja a referida Direcção Regional, a qual é presidida por um dos representantes daqueles serviços, competindo-lhe apurar os resultados das eleições.
 
-###### Art. 11.º Para os mandatos seguintes das comissões venatórias, as eleições deverão ser realizadas até 45 dias antes do início do novo mandato, sendo a sua data anunciada com 30 dias de antecedência pela Direcção Regional dos Recursos Florestais, mantendo-se em vigor o disposto no n.º 8 do artigo 9.º
+Art. 11.º Para os mandatos seguintes das comissões venatórias, as eleições deverão ser realizadas até 45 dias antes do início do novo mandato, sendo a sua data anunciada com 30 dias de antecedência pela Direcção Regional dos Recursos Florestais, mantendo-se em vigor o disposto no n.º 8 do artigo 9.º
 
-###### Art. 12.º No caso de demissão de representantes dos caçadores, desde que não seja possível, com a inclusão dos suplentes, atingir mais de 50% do número fixado para esses membros, serão efectuadas novas eleições, anunciadas com a antecedência de 30 dias.
+Art. 12.º No caso de demissão de representantes dos caçadores, desde que não seja possível, com a inclusão dos suplentes, atingir mais de 50% do número fixado para esses membros, serão efectuadas novas eleições, anunciadas com a antecedência de 30 dias.
 
-###### Art. 13.º Os representantes dos agricultores serão indicados pelos conselhos de ilha ou pelas assembleias municipais, sendo para o efeito ouvidas, quando existam, as associações de agricultores.
+Art. 13.º Os representantes dos agricultores serão indicados pelos conselhos de ilha ou pelas assembleias municipais, sendo para o efeito ouvidas, quando existam, as associações de agricultores.
 
 ### CAPÍTULO III — Património e receitas
 
-###### Art. 14.º O património das comissões venatórias distritais transita para as direcções de serviços florestais respectivas, mediante inventários devidamente discriminados e assinados pelos presidentes daquelas comissões e pelos funcionários que para o efeito foram designados por despacho do director regional dos Recursos Florestais.
+Art. 14.º O património das comissões venatórias distritais transita para as direcções de serviços florestais respectivas, mediante inventários devidamente discriminados e assinados pelos presidentes daquelas comissões e pelos funcionários que para o efeito foram designados por despacho do director regional dos Recursos Florestais.
 
-###### Art. 15.º - 1 - As receitas que, nos termos da lei, cabem às comissões venatórias passam a constituir receita da Região.
+Art. 15.º - 1 - As receitas que, nos termos da lei, cabem às comissões venatórias passam a constituir receita da Região.
 
 2 - Nas ilhas de São Miguel, Terceira e Faial as receitas referidas no número anterior devem ser depositadas nas tesourarias da Secretaria Regional das Finanças e nas restantes ilhas, nas tesourarias da Fazenda Pública.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 16.º - 1 - São extintas as comissões venatórias distritais a partir da data da constituição das comissões venatórias de ilha.
+Art. 16.º - 1 - São extintas as comissões venatórias distritais a partir da data da constituição das comissões venatórias de ilha.
 
 2 - As competências das comissões venatórias distritais que neste diploma não são atribuídas às comissões venatórias de ilha passam a ser exercidas pela Direcção Regional dos Recursos Florestais.
 
-###### Art. 17.º - 1 - Os saldos das contas das comissões venatórias distritais transitam, na data da sua extinção, para a Região, quando não pertençam a outras entidades.
+Art. 17.º - 1 - Os saldos das contas das comissões venatórias distritais transitam, na data da sua extinção, para a Região, quando não pertençam a outras entidades.
 
 2 - Os saldos a que se refere o número anterior devem ser depositados nos termos do n.º 2 do artigo 15.º deste diploma.
 
-###### Art. 18.º Os encargos decorrentes da aplicação do disposto no presente diploma serão suportados pelo orçamento da Secretaria Regional da Agricultura e Pescas.
+Art. 18.º Os encargos decorrentes da aplicação do disposto no presente diploma serão suportados pelo orçamento da Secretaria Regional da Agricultura e Pescas.
 
 Aprovado em Conselho do Governo Regional em 13 de Junho de 1984.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 10 de Agosto de 1984.**
+Assinado em Angra do Heroísmo em 10 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

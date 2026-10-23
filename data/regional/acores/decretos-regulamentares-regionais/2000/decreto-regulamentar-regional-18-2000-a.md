@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/154b00/29582965.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2000/07/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2000-301023
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35eb91da0276b8f6bf8b07c881e8b18b7b5925b1c9d38ac06b6a37dd8deb6efb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 657f9a1cd6393e0eb1200cc70f3aa1c3d3f594796d0b93a0cb2a71c101759741
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Região Autónoma
-- Equipamento Desportivo
-- Pessoal de Saúde
-- Pessoal Dirigente
+- Açores
 - Conselho Administrativo
-- Governo Regional
 - Controlo Anti-doping
 - Criação de Serviços
 - Definição de Competências
+- Desporto
 - Direcção Regional da Educação Física e Desporto
-- Serviços de Educação Física e Desporto
 - Diretor
 - Educação Física
+- Equipamento Desportivo
 - Formas de Provimento
-- Recrutamento de Pessoal
+- Gestão de Recursos Humanos
+- Governo Regional
 - Integração de Trabalhadores
 - Núcleo de Medicina Desportiva
 - Orgânica
 - Parque Desportivo Regional
+- Pessoal de Saúde
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
-- Açores
-- Desporto
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
+- Região Autónoma
+- Serviços de Educação Física e Desporto
 relationships:
 - type: amended_by
   target: pt:dre:167802:por
@@ -135,16 +135,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678201:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:515203:por
+  label: "Rectificado pela DECL-RECT.16-G/2000.2000.11.27.PCM DR.IS-B [277]4ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-g-2000-515203
+  date: '2000-11-27'
+- type: repealed_by
+  target: pt:dre:167802:por
+  label: "Revogado pelo DRR.4/2006/A.19.12.2005.PG-RAA, DR.IS-B [8] de 11.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2006-167802
+  date: '2005-12-19'
 article_structure:
   article_count: 23
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:14Z'
   warnings: []
   errors: []
 ---
@@ -355,7 +425,9 @@ d) Apoiar a realização de acções de controlo antidoping;
 
 e) Desenvolver e apoiar programas de apoio médico ao nível do acompanhamento do treino.
 
-###### Artigo 14.º — Secção de Apoio Administrativo
+###### Artigo 14.º
+
+#### Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo, nomeadamente:
 
@@ -471,13 +543,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 12 de Maio de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 7 de Junho de 2000.**
+Assinado em Angra do Heroísmo em 7 de Junho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ANEXOS A QUE SE REFERE O ARTIGO 15.º
 

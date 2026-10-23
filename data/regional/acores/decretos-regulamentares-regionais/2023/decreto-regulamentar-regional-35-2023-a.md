@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22900/0010200114.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/35/2023/11/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e46cfec17e1481c73edc526635f87cf34cc13bc768d4e450ca32af6cd69bcd6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58d4d913e3fae90d1423ed2daf8a2928da364f30939d593c36a330e3ce689e0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Regulamentação de Atos Legislativos
-- Apoio ao Investimento
-- Mobilidade Elétrica
-- Veículo Elétrico
-- Regime de Apoio
 - Açores
+- Apoio ao Investimento
+- Financiamento
+- Mobilidade Elétrica
+- Regime de Apoio
+- Regulamentação de Atos Legislativos
+- Veículo Elétrico
 relationships:
 - type: cites
   target: celex:32013R1407
@@ -116,16 +116,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/4/2021/04/26/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/4/2021/04/26/a/dre
+- type: cites
+  target: pt:dre:123815991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128515585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162067645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2980574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655300:por
+  label: null
+  source: null
 article_structure:
-  article_count: 41
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:57Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +200,9 @@ e) [...]
 
 f) 'Veículo elétrico novo', aquele que não foi utilizado desde o momento do seu fabrico até à entrega ao comprador, à exceção do estritamente necessário para a sua colocação à disposição do comprador e em que a data da fatura de aquisição não ultrapasse 30 dias úteis relativamente à data da primeira matrícula.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O incentivo a que se refere o artigo 1.º corresponde:
 
@@ -192,7 +226,9 @@ d) [...]
 
 5 - Aos incentivos concedidos para a aquisição e instalação de pontos de carregamento podem ser atribuídas majorações aos beneficiários que usufruam de uma tarifa de eletricidade diferenciada no tempo, nos termos do n.º 3 do artigo 12.º
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -206,7 +242,9 @@ d) [...]
 
 6 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 [...]
 
@@ -236,7 +274,9 @@ l) [...]
 
 m) [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -254,7 +294,9 @@ d) [...]
 
 4 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -266,7 +308,9 @@ b) (Revogada.)
 
 c) (Revogada.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -278,7 +322,9 @@ b) (Revogada.)
 
 c) (Revogada.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O valor do incentivo financeiro para a introdução no mercado de velocípedes com motor, por pessoas singulares ou coletivas de direito privado, limitado a uma unidade por candidato, é fixado em 50 % do preço de venda ao público até ao limite máximo de 300,00 (euro) (trezentos euros).
 
@@ -292,7 +338,9 @@ c) (Revogada.)
 
 3 - Os incentivos a que se referem os números anteriores não são aplicáveis aos velocípedes com motor cujo preço de venda ao público, com imposto sobre o valor acrescentado (IVA) incluído, seja inferior a 500,00 (euro) (quinhentos euros).
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O valor do incentivo financeiro para a aquisição e instalação de pontos de carregamento de veículos elétricos, por pessoas singulares ou coletivas de direito privado, é fixado em 50 % do preço de venda ao público, até ao limite máximo de 700,00 (euro) (setecentos euros).
 
@@ -300,7 +348,9 @@ c) (Revogada.)
 
 3 - O incentivo previsto no n.º 1 é majorado em 250,00 (euro) (duzentos e cinquenta euros), no caso de candidatos que usufruam de uma tarifa diferenciada no tempo.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O incentivo, quando atribuído a pessoa coletiva de direito privado, não pode exceder os limites previstos no âmbito dos Regulamentos (UE) n.os [1407/2013](https://data.europa.eu/eli/reg/2013/1407/oj?locale=pt) da Comissão, de 18 de dezembro, [1408/2013](https://data.europa.eu/eli/reg/2013/1408/oj?locale=pt) da Comissão, de 18 de dezembro, e [717/2014](https://data.europa.eu/eli/reg/2014/717/oj?locale=pt), da Comissão, de 27 de junho, relativos à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.
 
@@ -318,7 +368,9 @@ e) No caso de pessoas singulares, o incentivo financeiro para aquisição e inst
 
 f) No caso de pessoas coletivas, o incentivo financeiro para aquisição e instalação de ponto de carregamento está limitado a três unidades por candidato.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -326,7 +378,9 @@ f) No caso de pessoas coletivas, o incentivo financeiro para aquisição e insta
 
 3 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os veículos elétricos e pontos de carregamento objeto de comparticipação devem manter-se na posse do beneficiário por um período não inferior a quatro anos, devendo, para esse efeito, o beneficiário apresentar ao organismo gestor uma declaração de compromisso de honra do conhecimento e cumprimento das suas obrigações.
 
@@ -370,11 +424,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 26 de outubro de 2023.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 22 de novembro de 2023.**
+Assinado em Angra do Heroísmo em 22 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -627,3 +681,5 @@ b) A Resolução do Conselho do Governo n.º 49/2020, de 5 de março de 2020.
 ###### Artigo 22.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+117090355

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/783/2008/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/783-2008-455086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcb4773460063b6180d0dac4419f6be5535178a9b00448398a2e600c6ea2f708
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86c7aed5a74310c0361920baf7f0bd6a5e82871e02ee9f4a39233405b0a76df2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,20 @@ relationships:
   target: pt:dre:306659:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491182:por
+  label: "Anexados vários prédios rústicos e renovada, por um período de seis anos, a zona de caça concessionada pela Port\
+    \ 1173-S/2003, de 02-Out, bem como a transferência de gestão por igual período, alterada pela Port 1033-BG/2004, de 10-Ago,\
+    \ Port 959/2006, de 14-Set, Port 341/2008, de 30-Abr e pelo presente diploma, pela PORT.1144/2009.02.10.2009.MAOTDR, DR.IS\
+    \ [192] de 02.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1144-2009-491182
+  date: '2009-10-02'
+- type: amended_by
+  target: pt:dre:306659:por
+  label: "Excluídos terrenos cinegéticos da zona de caça concessionada pela Port 1173-S/2003, de 02-Out, alterada pela presente\
+    \ portaria, pela PORT.1230/2010.06.12.2010.MADRP, DR.IS [235] de 06.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1230-2010-306659
+  date: '2010-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -91,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/959/2006/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/959/2006/09/14/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646501:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:27Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +151,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 24 de Julho de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 25 de Julho de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15200/0532205322.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15200/0532205322.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15200/0532205322.pdf)

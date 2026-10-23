@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/24-1980-460986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a7eab7d3d0292b2b1ce897918d8f4690b25454640f60cabac667f129d48909a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b7048b8bbae01ad7f0db2265c74a8f02b65d5c7dfbec747956d7ed6adbcb624
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Criação de Freguesias
+- Lagoa.Açores
+- Lajes do Pico
+- Nordeste
+- Ponta Delgada
+- Ribeira Grande
+- VILA Franca do Campo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:12Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +100,7 @@ A criação de novas autarquias apresenta-se como matéria de interesse específ
 
 Assim, a Assembleia Regional dos Açores, nos termos do artigo 229.º, 1.º, alínea a), da Constituição, decreta o seguinte:
 
-###### Artigo 1.º São criadas, na Região dos Açores:
+Artigo 1.º São criadas, na Região dos Açores:
 
 a) No concelho de Ponta Delgada, ilha de S. Miguel, a freguesia da Covoada;
 
@@ -107,11 +116,11 @@ f) No concelho das Lajes do Pico, ilha do Pico, a freguesia da Ribeirinha;
 
 g) No concelho de Nordeste, ilha de S. Miguel, a freguesia da Salga.
 
-###### Art. 2.º - 1 - A freguesia da Covoada, cujo território se integrava no da freguesia da Relva, tem uma delimitação que se inicia a nascente pela freguesia dos Arrifes, desde o cruzamento do caminho do Carvão com o caminho do Areão Preto (junto ao cascalheiro do Pico do Carvão, até ao ângulo formado entre os marcos de freguesia 17 e 18 (secção T), seguindo para sul pelas estremas dos terrenos (13-T) de Henrique da Cunha Álvares Cabral, (14-T) de Maria da Conceição Oliveira Maldonado, (57-T) de Leonor Maria da Câmara Quental Tavares de Medeiros (58-T) e de Maria do Carmo Pereira Bicudo Correia Vicente, seguindo para oeste pela estrema sul do terreno (58-T) de Maria do Carmo Pereira Bicudo Correia Vicente, subindo para norte, até à estrema do prédio (18-R) de Maria dos Anjos de Sousa, descendo pela estrema este do prédio (20-R) de Maria da Conceição Sousa, seguindo para oeste pela estrema sul dos terrenos (21-R) de António Manuel Furtado Medeiros Franco e (22-R) de João Rodrigues Carreiro, até à canada das Almas, até à estrema sul do terreno de Francisco Raposo. Segue esta estrema até à estrema nascente do terreno (26-R) de Filigénio da Silva Pimentel, descendo e contornando para sul este terreno até à grota do Contador. Sobe esta grota até à canada (vulgo Atalhos da Missa) a sul do terreno (33-R) de Inês Clara de Faria e Maia Vasconcelos Aguiar, seguindo a mesma canada até à estrema sul do terreno (43-R) de José Soares de Sousa, subindo pela estrema oeste do mesmo e passando pelas estremas oeste dos terrenos (34-R) de Manuel do Rego Almeida, (10-R) de João de Sousa Almeida e (9-R) de João Rodrigues Cabral, seguindo a sul do terreno (5-R) até à canada do Moio. Segue esta canada até à canada dos Pavões. Sobe a canada dos Pavões para norte até à canada localizada a sul do terreno (41-O) de Manuel Moniz do Couto. Entra nesta canada para oeste, seguindo pelas estremas sul do terreno (35-O) de Geraldina dos Anjos Viveiros, (34-O) de Manuel Silvestre de Almeida, (33-O) de Rosa Arruda Viveiros e (50-O) de Maria da Glória Ferreira de Melo Freitas da Silva, até à grota das Lajes. Sobe esta grota para norte até ao caminho da Covoada, para as Feteiras. Segue este caminho para oeste até à grota do Barril. Sobe a grota do Barril até um ponto na estrema sul do prédio (1-D) de António do Canto Homem de Noronha. Deste ponto segue pelo caminho do Areão Preto, até se encontrar de novo com a estrema dos Arrifes, junto do cascalheiro do Pico do Carvão, da estrada do Carvão.
+Art. 2.º - 1 - A freguesia da Covoada, cujo território se integrava no da freguesia da Relva, tem uma delimitação que se inicia a nascente pela freguesia dos Arrifes, desde o cruzamento do caminho do Carvão com o caminho do Areão Preto (junto ao cascalheiro do Pico do Carvão, até ao ângulo formado entre os marcos de freguesia 17 e 18 (secção T), seguindo para sul pelas estremas dos terrenos (13-T) de Henrique da Cunha Álvares Cabral, (14-T) de Maria da Conceição Oliveira Maldonado, (57-T) de Leonor Maria da Câmara Quental Tavares de Medeiros (58-T) e de Maria do Carmo Pereira Bicudo Correia Vicente, seguindo para oeste pela estrema sul do terreno (58-T) de Maria do Carmo Pereira Bicudo Correia Vicente, subindo para norte, até à estrema do prédio (18-R) de Maria dos Anjos de Sousa, descendo pela estrema este do prédio (20-R) de Maria da Conceição Sousa, seguindo para oeste pela estrema sul dos terrenos (21-R) de António Manuel Furtado Medeiros Franco e (22-R) de João Rodrigues Carreiro, até à canada das Almas, até à estrema sul do terreno de Francisco Raposo. Segue esta estrema até à estrema nascente do terreno (26-R) de Filigénio da Silva Pimentel, descendo e contornando para sul este terreno até à grota do Contador. Sobe esta grota até à canada (vulgo Atalhos da Missa) a sul do terreno (33-R) de Inês Clara de Faria e Maia Vasconcelos Aguiar, seguindo a mesma canada até à estrema sul do terreno (43-R) de José Soares de Sousa, subindo pela estrema oeste do mesmo e passando pelas estremas oeste dos terrenos (34-R) de Manuel do Rego Almeida, (10-R) de João de Sousa Almeida e (9-R) de João Rodrigues Cabral, seguindo a sul do terreno (5-R) até à canada do Moio. Segue esta canada até à canada dos Pavões. Sobe a canada dos Pavões para norte até à canada localizada a sul do terreno (41-O) de Manuel Moniz do Couto. Entra nesta canada para oeste, seguindo pelas estremas sul do terreno (35-O) de Geraldina dos Anjos Viveiros, (34-O) de Manuel Silvestre de Almeida, (33-O) de Rosa Arruda Viveiros e (50-O) de Maria da Glória Ferreira de Melo Freitas da Silva, até à grota das Lajes. Sobe esta grota para norte até ao caminho da Covoada, para as Feteiras. Segue este caminho para oeste até à grota do Barril. Sobe a grota do Barril até um ponto na estrema sul do prédio (1-D) de António do Canto Homem de Noronha. Deste ponto segue pelo caminho do Areão Preto, até se encontrar de novo com a estrema dos Arrifes, junto do cascalheiro do Pico do Carvão, da estrada do Carvão.
 
 2 - A freguesia da Covoada é classificada de 2.ª ordem.
 
-###### Art. 3.º - 1 - A freguesia do Posto Santo, cujo território se integrava no da freguesia de Santa Luzia, tem os seguintes limites:
+Art. 3.º - 1 - A freguesia do Posto Santo, cujo território se integrava no da freguesia de Santa Luzia, tem os seguintes limites:
 
 Norte: linha limite do concelho de Angra, desde a estrada nacional n.º 3-1.ª para os Altares, englobando Maunto, Furnas do Enxofre, até à ribeira do Algar do Carvão, descendo esta ao encontro da estrada nacional n.º 5-2.ª e acompanhando o eixo desta estrada e o ramal da estrada n.º 5-2.ª até depois de passar a estrada para as Furnas do Cabrito.
 
@@ -123,7 +132,7 @@ Poente: a partir do ponto atrás referido, segue a linha limite da freguesia da 
 
 2 - A freguesia do Posto Santo é classificada de 2.ª ordem.
 
-###### Art. 4.º - 1 - A freguesia da Ribeira das Tainhas, cujo território se integrava no da freguesia de S. Miguel, tem os seguintes limites:
+Art. 4.º - 1 - A freguesia da Ribeira das Tainhas, cujo território se integrava no da freguesia de S. Miguel, tem os seguintes limites:
 
 Linha poente: Barrocas do Mar, seguindo pela Ribeira Seca, passa pela estrada nacional, seguindo para nascente, passa a norte do prédio de António Inácio Flor de Lima, entra na estrada municipal, seguindo novamente para nascente até à grota Larga, dande segue para norte, passando pela estrada nacional, estrada da Lagoa do Fogo, canada das Papeloas, seguindo pelo prédio de Maria do Carmo Fischer Berquó de Aguiar Velho Cabral, e daí para nascente, entrando na Ribeira das Tainhas, e voltando para norte, passa pelo prédio de Maria das Mercês Fischer Berquó de Aguiar Viveiros e Sociedade Agrícola Açores, seguindo para nascente até ao limite da freguesia de Ponta Garça.
 
@@ -131,7 +140,7 @@ Linha nescente: segue pela estrema existente da freguesia de Ponta Garça, passa
 
 2 - A freguesia da Ribeira das Tainhas é classificada de 2.ª ordem.
 
-###### Art. 5.º - 1 - A freguesia do Cabouco, cujo território se integrava no da freguesia do Rosário, tem os seguintes limites:
+Art. 5.º - 1 - A freguesia do Cabouco, cujo território se integrava no da freguesia do Rosário, tem os seguintes limites:
 
 Norte: desde o extremo do concelho de Lagoa com o concelho da Ribeira Grande, a partir do final do caminho municipal denominado «Caminho dos Portões Vermelhos» (ponto A do mapa anexo), até ao ponto de encontro do caminho do Bernardo com a nascente da ribeira da Grota do Porto (ponto B).
 
@@ -143,7 +152,7 @@ Poente: desde o entroncamento do caminho municipal da Malaca com a estrada munic
 
 2 - A freguesia do Cabouco é classificada de 3.ª ordem.
 
-###### Art. 6.º - 1 - A freguesia da Lomba de S. Pedro, cujo território se integrava no da freguesia dos Fenais da Ajuda, tem os seguintes limites:
+Art. 6.º - 1 - A freguesia da Lomba de S. Pedro, cujo território se integrava no da freguesia dos Fenais da Ajuda, tem os seguintes limites:
 
 Norte: Barrocas do Mar.
 
@@ -155,7 +164,7 @@ Poente: Ribeira das Pedreiras.
 
 2 - A freguesia da Lomba de S. Pedro é classificada de 3.ª ordem.
 
-###### Art. 7.º - 1 - A freguesia da Ribeirinha, cujo território se integrava no da freguesia da Piedade, tem os seguintes limites:
+Art. 7.º - 1 - A freguesia da Ribeirinha, cujo território se integrava no da freguesia da Piedade, tem os seguintes limites:
 
 Nascente: uma linha que, partindo do norte, junto à costa marítima, na Pontinha das Prombetas, segue pela canada do Miradouro, junto dos limites dos prédios de António Francisco Alemão e outros, e vai encontrar-se, no cabeço da Escaleira, com o caminho dos Motas, junto ao limite actual da freguesia da Piedade com a freguesia da Calheta de Nesquim.
 
@@ -167,7 +176,7 @@ Sul: actual limite da freguesia da Piedade com a freguesia da Calheta de Nesquim
 
 2 - A freguesia da Ribeirinha é classificada de 3.ª ordem.
 
-###### Art. 8.º - 1 - A freguesia da Salga, cujo território se integrava no da freguesia da Achadinha, tem os seguintes limites:
+Art. 8.º - 1 - A freguesia da Salga, cujo território se integrava no da freguesia da Achadinha, tem os seguintes limites:
 
 Norte: orla marítima.
 
@@ -179,16 +188,16 @@ Poente: freguesia dos Fenais da Ajuda, concelho da Ribeira Grande, seguindo a ma
 
 2 - A freguesia da Salga é classificada de 3.ª ordem.
 
-###### Art. 9.º Em cada uma das novas freguesias, as funções dos seus órgãos representativos serão, até à realização das eleições, de acordo com o n.º 3 do artigo 7.º da Lei n.º 97/77, de 25 de Outubro, exercidas por uma comissão administrativa, nomeada pelo presidente da câmara municipal do respectivo concelho, nos termos previstos na alínea a) do n.º 1 e no n.º 2 do artigo 7.º da lei citada.
+Art. 9.º Em cada uma das novas freguesias, as funções dos seus órgãos representativos serão, até à realização das eleições, de acordo com o n.º 3 do artigo 7.º da Lei n.º 97/77, de 25 de Outubro, exercidas por uma comissão administrativa, nomeada pelo presidente da câmara municipal do respectivo concelho, nos termos previstos na alínea a) do n.º 1 e no n.º 2 do artigo 7.º da lei citada.
 
 Aprovado pela Assembleia Regional dos Açores em 8 de Novembro de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 29 de Agosto de 1980.**
+Assinado em Angra do Heroísmo em 29 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/21300/26552664.pdf))](https://files.diariodarepublica.pt/1s/1980/09/21300/26552664.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/21300/26552664.pdf)

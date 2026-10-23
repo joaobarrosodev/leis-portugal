@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/1991/06/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1991-658725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a49ad9569ceea5d7590a66efe77f2cb5ef5cfdf45580cda1580dd0fa63463df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6b28f9a07155dde04ef77e22b25c659727ddc33c93cffddda1824c3379a1814
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Estrada
 - Medidas Preventivas
 - Ponta Delgada
 - Secretaria Regional da Habitação e Obras Públicas
-- Açores
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO RECTIFICAÇÃO NUMERO 185/91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SERIE-B, NUMERO 174,\
+    \ 3 SUPLEMENTO, DE 31/7/91.\031/7/91.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:47Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +106,7 @@ Considerando, por último, que urge decretar medidas preventivas, a fim de se ev
 
 Assim, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição e da parte final da alínea c) do artigo 56.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo 1.º - 1 - Durante o prazo de dois anos, fica dependente de autorização da Secretaria Regional da Habitação e Obras Públicas, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática na área definida na planta anexa a este diploma, de que faz parte integrante, dos actos ou actividades seguintes:
+Artigo 1.º - 1 - Durante o prazo de dois anos, fica dependente de autorização da Secretaria Regional da Habitação e Obras Públicas, sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática na área definida na planta anexa a este diploma, de que faz parte integrante, dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos habitacionais;
 
@@ -113,14 +122,14 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 2 - A competência para promover o cumprimento das medidas estabelecidas neste diploma e de proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, compete à Secretaria Regional da Habitação e Obras Públicas, através da Direcção Regional de Estradas.
 
-###### Art. 2.º O presente decreto regulamentar regional entra imediatamente em vigor.
+Art. 2.º O presente decreto regulamentar regional entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 17 de Abril de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 14 de Maio de 1991.**
+Assinado em Angra do Heroísmo em 14 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

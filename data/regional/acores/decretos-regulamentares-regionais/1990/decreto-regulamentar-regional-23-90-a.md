@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/17500/31363143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1990-573284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2a8694b851c664c0dffd44f29a0569d0403bdc368bffd6c41c3ec75567e90dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 156fdac057cd69313dacbd2816a66c8e883f98d829c82639c57b51f0c9760086
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Instituto de Acção Social
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:411855:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676793:por
+  label: "Alterado o quadro de pessoal do Instituto de Acção Social anexo ao presente diploma, pelo DRR.26/91/A.19.08.1991.GR-RAA,\
+    \ DR.IS-B [189] de 19.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-1991-676793
+  date: '1991-08-19'
+- type: amended_by
+  target: pt:dre:152496:por
+  label: "Alterados os quadros de pessoal do Instituto de Acção Social, constantes do anexo ao presente diploma, na parte\
+    \ respeitante ao pessoal técnico superior de serviço social, pelo DRR.7/92/A.06.02.1992.GR-RAA, DR.IS-B [31] de 06.02.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1992-152496
+  date: '1992-02-06'
+- type: amended_by
+  target: pt:dre:517437:por
+  label: "Alterado o artº 5º pelo DRR.6/97/A.1997.02.22.SREAS-RAA DR.IS-B [66] de 1997.03.19\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1997-517437
+  date: '1997-02-22'
+- type: amended_by
+  target: pt:dre:216323:por
+  label: "Substituído o quadro de pessoal do Instituto de Acção Social pelo DRR.28/98/A.1998.11.03.PG-RAA DR.IS-B [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-1998-216323
+  date: '1998-11-03'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:411855:por
+  label: "Revogado pelo DRR.10/2000/A.2000.02.18.PG-RAA,DR.IS-B [62] de 14/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2000-411855
+  date: '2000-02-18'
 article_structure:
-  article_count: 34
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 35
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:37Z'
   warnings: []
   errors: []
 ---
@@ -217,7 +276,9 @@ e) Promover a articulação do IAS com outras entidades e serviços, no processo
 
 3 - O apoio da Repartição Administrativa às instituições particulares de solidariedade social será determinado pelo Conselho de Administração, mediante solicitação das interessadas.
 
-###### Artigo 11.º — Secção de Orçamento e Contabilidade
+###### Artigo 11.º
+
+#### Secção de Orçamento e Contabilidade
 
 Compete à Secção de Orçamento e Contabilidade:
 
@@ -239,7 +300,9 @@ h) Analisar os orçamentos e contas das instituições particulares de solidarie
 
 i) Prestar apoio contabilístico às instituições particulares de solidariedade social.
 
-###### Artigo 12.º — Secção de Pessoal e Registos
+###### Artigo 12.º
+
+#### Secção de Pessoal e Registos
 
 Compete à Secção de Pessoal e Registos:
 
@@ -253,9 +316,11 @@ d) Apoiar as instituições particulares de solidariedade social nos procediment
 
 e) Organizar ficheiros das instituições particulares de solidariedade social e de outras entidades que mantenham acordos de cooperação com o IAS.
 
-#### SECÇÃO III — Artigo 13.º
+#### SECÇÃO III
 
-##### Divisão de Planeamento e Apoio Institucional
+###### Artigo 13.º
+
+Divisão de Planeamento e Apoio Institucional
 
 Compete à Divisão de Planeamento e Apoio Institucional:
 
@@ -477,14 +542,14 @@ O director de Serviços de Acção Social e Equipamentos Colectivos manter-se-á
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 23 de Maio de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 6 de Julho de 1990.**
+Assinado em Angra do Heroísmo em 6 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Mapas a que se refere o artigo 23.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/17500/31363143.pdf))](https://files.diariodarepublica.pt/1s/1990/07/17500/31363143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/17500/31363143.pdf)

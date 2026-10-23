@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18800/19611961.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1979-377534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1426078b27492abb5f1de1f0e513e14a9e64e11c455f54de10c1e8b067edf28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 374e7558749b8bd5e4e01dedb94ead51c42b71b48de9c50d6753302f58d4e687
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Pública
+- Administração Regional
+- Diretor Regional
+- Governo Regional
+- Nomeação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:378108:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:378108:por
+  label: Revogado o DRG 3/76 de 31.dez, com as alterações introduzidas pelo presente diploma, pelo DRG.30/82/A.1982.10.04.ARA,
+    DR.IS [250] de 28.10.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/30-1982-378108
+  date: '1982-10-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:57Z'
   warnings: []
   errors: []
 ---
@@ -96,24 +109,24 @@ Por outro lado, julga-se igualmente haver necessidade de uma definição mais co
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 19.º e 27.º do Decreto Regional n.º 3/76, de 31 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 19.º e 27.º do Decreto Regional n.º 3/76, de 31 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 19.º - 1 - O director regional será nomeado por despacho conjunto do Presidente do Governo Regional e do Secretário Regional respectivo, em comissão de serviço, por tempo indeterminado, e terá remuneração correspondente à de director-geral.
+Art. 19.º - 1 - O director regional será nomeado por despacho conjunto do Presidente do Governo Regional e do Secretário Regional respectivo, em comissão de serviço, por tempo indeterminado, e terá remuneração correspondente à de director-geral.
 
 2 - A nomeação far-se-á de entre indivíduos de reconhecida competência que possuam experiência válida para o exercício das funções, habilitados com curso superior ou equivalente.
 
-###### Art. 27.º - 1 - O número de adjuntos previsto no n.º 1 do artigo 9.º do Decreto Regional n.º 1/76, de 7 de Setembro, diminuirá de forma correspondente ao número de lugares de director regional que se encontrem providos.
+Art. 27.º - 1 - O número de adjuntos previsto no n.º 1 do artigo 9.º do Decreto Regional n.º 1/76, de 7 de Setembro, diminuirá de forma correspondente ao número de lugares de director regional que se encontrem providos.
 
 2 - Por despacho do Secretário Regional, nos casos em que não haja director regional, pode ser delegada num adjunto parte da competência do director regional, situação em que, para efeitos de remuneração, a adjunto se considerará equiparado a subdirector-geral.
 
-###### Art. 2.º Este diploma aplica-se aos directores regionais nomeados até à data da sua publicação, com ressalva das condições previstas no n.º 2 do artigo 19.º, produzindo efeitos a partir do dia 1 do mês seguinte ao da sua publicação.
+Art. 2.º Este diploma aplica-se aos directores regionais nomeados até à data da sua publicação, com ressalva das condições previstas no n.º 2 do artigo 19.º, produzindo efeitos a partir do dia 1 do mês seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Regional dos Açores em 7 de Junho de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 20 de Julho de 1979.**
+Assinado em Angra do Heroísmo em 20 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

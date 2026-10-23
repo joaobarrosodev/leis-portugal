@@ -25,12 +25,12 @@ publication:
   reference: Diário da República n.º 41/2009, 1º Suplemento, Série I de 2009-02-27
   number: '41'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1388-(13) a 1388-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/04101/0001300016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -52,18 +52,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/230-b/2009/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/230-b-2009-260664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0d044ea4dcbc5905c6ac262b4076c235492d07688a959a61ed69fb7251ac227
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54711cdd90a1ecf7465f30ffdaab927c9fe1477102b781c980cc9ea29a4d4a09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,25 +71,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autoridade Florestal Nacional
+- Direção Regional de Agricultura e Desenvolvimento Rural
 - Doença Vegetal
-- Programa de Acção Nacional para Controlo do Nemátodo da Madeira do Pinheiro
-- Nemátodo
+- Embalagem
 - Especificação Técnica
 - Fiscalização
-- Direção Regional de Agricultura e Desenvolvimento Rural
-- Embalagem
 - GNR
+- Nemátodo
 - Normas de Segurança
 - Página na Internet
 - Pinheiro
-- Proteção Fitossanitária
-- Autoridade Florestal Nacional
 - Produto em Madeira
+- Programa de Acção Nacional para Controlo do Nemátodo da Madeira do Pinheiro
+- Proteção Fitossanitária
 relationships:
 - type: amended_by
   target: pt:dre:669979:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482391:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º da Port 1339-A/2008, de 20-Nov, na redacção do presente diploma, que a republica,\
+    \ pela PORT.1460/2009.31.12.2009.MADRP, DR.IS [252] de 31.12.2009, republicando-a\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1460-2009-482391
+  date: '2009-12-31'
 - type: cites
   target: celex:32006D0133
   label: null
@@ -114,16 +120,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/553-b/2008/06/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/553-b/2008/06/27/p/dre
+- type: repealed_by
+  target: pt:dre:669979:por
+  label: "Revogada, a partir de 13.08.2011, pelo DEC LEI.95/2011.08.08.2011.MAMAOT, DR.IS [151] de 08.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2011-669979
+  date: '2011-08-08'
 article_structure:
-  article_count: 14
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:56Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +173,7 @@ b) Medidas relativas a madeira de coníferas hospedeiras do nemátodo da madeira
 
 3 - (Revogado.)
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - O material de embalagem referido na alínea a) do n.º 1 do artigo anterior está sujeito às medidas constantes dos anexos i e ii da presente portaria e que dela fazem parte integrante, sendo obrigação dos agentes económicos registados para o efeito da realização dos tratamentos a aposição da sua própria marca, atestando a sujeição ao tratamento, nos termos previstos naqueles anexos.
 
@@ -178,7 +189,7 @@ b) Medidas relativas a madeira de coníferas hospedeiras do nemátodo da madeira
 
 7 - O cumprimento das exigências estabelecidas nos n.os 5 e 6 é atestado pela emissão de um passaporte fitossanitário, nos termos do artigo 13.º do Decreto-Lei n.º 154/2005, de 6 de Setembro, aposto a cada unidade daqueles materiais no caso de ser destinada à expedição para as Regiões Autónomas dos Açores ou da Madeira ou à circulação intracomunitária, ou pela emissão de um certificado fitossanitário nos termos dos artigos 14.º e 23.º do Decreto-Lei n.º 154/2005, de 6 de Setembro, no caso de ser destinada à exportação para países terceiros.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - No tratamento térmico da madeira, independentemente da sua espessura, e de material de embalagem de madeira aplica-se obrigatoriamente o método de medição directa de temperatura no centro da madeira, previsto na Norma Portuguesa 'NP 4487 - Madeira serrada, paletes e outras embalagens de resinosas. Tratamento fitossanitário pelo calor para eliminação do nemátodo da madeira do pinheiro (Bursaphelenchus xylophilus)'.
 
@@ -190,7 +201,7 @@ b) Medidas relativas a madeira de coníferas hospedeiras do nemátodo da madeira
 
 5 - Para além dos critérios técnicos específicos referidos nos números anteriores, são ainda condição do pedido de registo a indicação do responsável ou mais responsáveis técnicos pelo sistema de tratamento, bem como os volumes de madeira tratada no ano anterior, a que reporta o pedido de registo, respectivo valor económico e número de trabalhadores afectos a cada unidade de tratamento de madeira.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - Os operadores económicos registados nos termos da presente portaria estão sujeitos a inspecções oficiais numa base contínua para verificação da correcta realização dos tratamentos e garantia da eficácia dos mesmos, bem como da rastreabilidade da madeira.
 
@@ -208,7 +219,7 @@ b) Medidas relativas a madeira de coníferas hospedeiras do nemátodo da madeira
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 26 de Fevereiro de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 26 de Fevereiro de 2009.
 
 ## ANEXO — Republicação da Portaria n.º 1339-A/2008, de 20 de Novembro
 
@@ -278,7 +289,7 @@ Os tratamentos fitossanitários exigidos na presente portaria, de acordo com a N
 
 2) MB = fumigação com brometo de metilo, conforme as seguintes exigências específicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04101/0001300016.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04101/0001300016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04101/0001300016.pdf)
 
 A temperatura mínima não deverá ser inferior a 10ºC e o tempo mínimo de exposição deverá ser de vinte e quatro horas.
 
@@ -288,7 +299,7 @@ A monitorização das concentrações deverá ser executada pelo menos ao fim de
 
 1 - É utilizada a seguinte marca a apor no material de embalagem, atestando o tratamento a que foi sujeito:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/04101/0001300016.pdf))](https://files.diariodarepublica.pt/1s/2009/02/04101/0001300016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/04101/0001300016.pdf)
 
 PT - código ISO de Portugal;
 

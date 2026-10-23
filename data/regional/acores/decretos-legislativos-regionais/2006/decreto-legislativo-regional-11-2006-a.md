@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/057a00/20562073.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2006/03/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2006-667771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c885ee198a0d3d9b73f06d1a319ec6950654d63f1894507a6c2d70131fd90dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9665141731c05447ee4e8d417819972735be2fc3673d693ef4fb12ceb88c08f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,7 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
+- Açores
+- Administração Regional
 - Estatuto
 - Extinção de Lugares
 - Integração de Trabalhadores
@@ -73,14 +74,21 @@ subjects:
 - Pessoal não Docente
 - Quadro de Pessoal
 - Reclassificação de Pessoal
-- Administração Regional
-- Açores
 - Sistema Educativo
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:211783462:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as carreiras Gerais de Técnico Superior, bem como para as categorias de assistente\
+    \ técnico, e assistente operacional, nos termos dos arts. 2º, 4º e 7º, dos trabalhadores integrados nas carreiras ou titulares\
+    \ das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime de Contrato de Trabalho\
+    \ em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/184/2004/07/29/p/dre
   label: null
@@ -121,16 +129,118 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/63/2001/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/63/2001/01/30/p/dre
+- type: cites
+  target: pt:dre:187953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:211783462:por
+  label: Revogado, a partir de 15.04.2023, o presente diploma, pelo(a) Decreto Legislativo Regional n.º 14/2023/A - Diário
+    da República n.º 74/2023, Série I de 2023-04-14 nos termos do art. 3.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2023-211783462
+  date: '2023-04-14'
 article_structure:
   article_count: 87
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:18Z'
   warnings: []
   errors: []
 ---
@@ -307,13 +417,13 @@ O presente diploma entra em vigor no 1.º dia do mês imediato ao da sua publica
 
 Aprovado, por unanimidade, pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de Janeiro de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 7 de Março de 2006.**
+Assinado em Angra do Heroísmo em 7 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — Estatuto do Pessoal não Docente do Sistema Educativo Regional
 
@@ -1073,7 +1183,7 @@ O regime previsto no artigo anterior aplica-se ao encarregado de pessoal de apoi
 
 ###### Artigo 58.º — Isenção de horário de trabalho
 
-**O chefe de serviços de administração escolar goza de isenção de horário de trabalho, sem prejuízo da observância do dever geral de assiduidade e do cumprimento da duração semanal de trabalho legalmente estabelecida, não lhe sendo devida, por isso, qualquer remuneração por trabalho prestado fora do horário normal.**
+O chefe de serviços de administração escolar goza de isenção de horário de trabalho, sem prejuízo da observância do dever geral de assiduidade e do cumprimento da duração semanal de trabalho legalmente estabelecida, não lhe sendo devida, por isso, qualquer remuneração por trabalho prestado fora do horário normal.
 
 ###### Artigo 59.º — Férias, faltas e licenças
 
@@ -1219,8 +1329,8 @@ Ao pessoal não docente é aplicável o Estatuto Disciplinar dos Funcionários e
 
 2 - A aplicação de penas disciplinares expulsivas a pessoal não pertencente a um quadro determina a incompatibilidade para o exercício de funções nos estabelecimentos de educação e de ensino.
 
-## ANEXO I — [(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/03/057a00/20562073.pdf)
+## ANEXO I — [[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/03/057a00/20562073.pdf)](https://files.diariodarepublica.pt/1s/2006/03/057a00/20562073.pdf)
 
 ## ANEXO II — Carreiras a extinguir
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/03/057a00/20562073.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2006/03/057a00/20562073.pdf)](https://files.diariodarepublica.pt/1s/2006/03/057a00/20562073.pdf)

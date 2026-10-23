@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 8/1990, 1º Suplemento, Série I de 1990-01-10
   number: '8'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 126-(2) a 126-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/00801/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1990-223997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 891e97cdfe17de7cb166df04b10496fd004bbd4922ce783b155542e003c8ad2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0617edbe7c683b35cde19e1e8cddc9a659fb61f9b7e36bd2d3ba702ba7c8701
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Extinção de Serviços
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional da Agricultura e Pescas
+- Secretaria Regional da Economia
+- Secretaria Regional das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:668491:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:358749:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:668491:por
+  label: "Revogado pelo DLR.26/92/M.11.11.1992.ALR-RAM, DR.IS-A [261-Supl] de 11.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-1992-668491
+  date: '1992-11-11'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:25Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +112,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Legislativa Regional da Madeira determina, para valer como lei, o seguinte:
 
-###### Artigo 1.º É extinta a Secretaria Regional da Agricultura e Pescas.
+Artigo 1.º É extinta a Secretaria Regional da Agricultura e Pescas.
 
-###### Art. 2.º São criadas a Secretaria Regional da Economia e a Secretaria Regional das Finanças.
+Art. 2.º São criadas a Secretaria Regional da Economia e a Secretaria Regional das Finanças.
 
-###### Art. 3.º É alterado o artigo 1.º do [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, que passa a ter a seguinte redacção:
+Art. 3.º É alterado o artigo 1.º do [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, que passa a ter a seguinte redacção:
 
-###### Artigo 1.º É a seguinte a estrutura do Governo Regional da Madeira:
+Artigo 1.º É a seguinte a estrutura do Governo Regional da Madeira:
 
 a) Presidência do Governo Regional;
 
@@ -121,9 +138,9 @@ h) Secretaria Regional da Economia;
 
 i) Secretaria Regional das Finanças.
 
-###### Art. 4.º É alterado o artigo 2.º do [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, que passa a ter a seguinte redacção:
+Art. 4.º É alterado o artigo 2.º do [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, que passa a ter a seguinte redacção:
 
-###### Art. 2.º A Vice-Presidência do Governo Regional e Coordenação Económica integra, em especial, as competências referentes aos seguintes sectores:
+Art. 2.º A Vice-Presidência do Governo Regional e Coordenação Económica integra, em especial, as competências referentes aos seguintes sectores:
 
 a) Plano;
 
@@ -141,9 +158,9 @@ g) Estatística;
 
 h) Informática.
 
-###### Art. 5.º É alterado o artigo 8.º do [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, que passa a ter a seguinte redacção:
+Art. 5.º É alterado o artigo 8.º do [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, que passa a ter a seguinte redacção:
 
-###### Art. 8.º A Secretaria Regional da Economia integra, em especial, as competências referentes aos seguintes sectores:
+Art. 8.º A Secretaria Regional da Economia integra, em especial, as competências referentes aos seguintes sectores:
 
 a) Agricultura;
 
@@ -159,24 +176,24 @@ f) Comércio;
 
 g) Indústria.
 
-###### Art. 6.º É aditado ao [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, o artigo 8.º-A, com a seguinte redacção:
+Art. 6.º É aditado ao [Decreto Legislativo Regional n.º 10/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-358749), de 9 de Novembro, o artigo 8.º-A, com a seguinte redacção:
 
-###### Art. 8.º-A. A Secretaria Regional das Finanças integra, em especial, as competências referentes aos seguintes sectores:
+Art. 8.º-A. A Secretaria Regional das Finanças integra, em especial, as competências referentes aos seguintes sectores:
 
 a) Orçamento;
 
 b) Finanças.
 
-###### Art. 7.º Nos termos definidos na lei, o Governo Regional procederá às reestruturações orgânicas decorrentes do presente diploma.
+Art. 7.º Nos termos definidos na lei, o Governo Regional procederá às reestruturações orgânicas decorrentes do presente diploma.
 
-###### Art. 8.º O presente decreto legislativo regional entra imediatamente em vigor.
+Art. 8.º O presente decreto legislativo regional entra imediatamente em vigor.
 
 Aprovado em sessão plenária de 22 de Dezembro de 1989.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 3 de Janeiro de 1990.**
+Assinado em 3 de Janeiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

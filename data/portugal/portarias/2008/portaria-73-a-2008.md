@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 16/2008, 1º Suplemento, Série I de 2008-01-23
   number: '16'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 694-(2) a 694-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/01601/0000200002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/73-a/2008/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-a-2008-288037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d63270679a1e7730b2bbf1cdf8aaa476d11711ec9a1b18a8a0e2e6c5f9710794
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01079ec69487a290ec398515c5417d7265c118b91928322eb64c29f11cdaca70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,20 +76,52 @@ relationships:
   target: pt:dre:139032:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260663:por
+  label: "Alterada e republicada a ficha técnica, pela PORT.230-A/2009.27.02.2009.MFAP, DR.IS [41-Supl] de 27.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-a-2009-260663
+  date: '2009-02-27'
+- type: amended_by
+  target: pt:dre:139033:por
+  label: "Alterada a taxa de juro base em percentagem para os certificados de aforro da Série C e determinada a suspensão\
+    \ até 31.12.2016 dos prémios de permanência (na redação da Port 230-A/2009, de 27-fev), pela PORT.268-D/2012.31.08.2012.MF,\
+    \ DR.IS [169-2ºSupl] de 31.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/268-d-2012-139033
+  date: '2012-08-31'
+- type: amended_by
+  target: pt:dre:66384016:por
+  label: Determinado o fecho da subscrição da série C de certificados de aforro, criada pelo presente diploma e alterada pela
+    Port 230-A/2009 de 27-fev, mantendo inalteradas as condições remuneratórias fixadas para as séries anteriores, pelo(a)
+    Portaria n.º 17-B/2015 - Diário da República n.º 21/2015, 2º Suplemento, Série I de 2015-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/17-b-2015-66384016
+  date: '2015-01-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/122/2002/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/122/2002/05/04/p/dre
+- type: cites
+  target: pt:dre:370864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518811:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:400188:por
+  label: "Rectificada pela DECL-RECT.1-D/2008.25.01.2008.PCM, DR.IS [18]Supl de 25.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-d-2008-400188
+  date: '2008-01-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:08Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +144,7 @@ Nos termos do disposto no artigo 4.º do [Decreto-Lei n.º 122/2002](https://dia
 
 A presente portaria entra em vigor no dia 26 de Janeiro de 2008.
 
-**O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina, em 22 de Janeiro de 2008.**
+O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina, em 22 de Janeiro de 2008.
 
 Certificados de aforro - Série C
 

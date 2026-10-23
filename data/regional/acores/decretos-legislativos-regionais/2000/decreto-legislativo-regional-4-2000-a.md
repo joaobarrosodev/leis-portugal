@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2000/01/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2000-436985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14345a2c66e3952347515c31f2e6f2c2f2fa8d6232f6ac56c72ad33eb0a29a4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05dbbe622863ff5fd1fe1346540aa8ccee326e8c9f03c0410f2cc74db1e7dba9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alteração Orçamental
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
-- Gestão Financeira
-- Governo Regional
+- Benefícios Fiscais
+- Contribuições e Impostos
 - Despesas Públicas
 - Dívida Pública
 - Execução do Orçamento
+- Financiamento
+- Gestão Financeira
 - Gestão Orçamental
-- Contribuições e Impostos
+- Governo Regional
+- IRC
 - Orçamento Regional
 - Organismo Autónomo
-- IRC
 - Regime Fiscal
-- Benefícios Fiscais
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:570685:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:339839:por
+  label: "Alterados os mapas I, II, III, IV e IX anexos, pelo DLR.27/2000/A.2000.07.10.ALR-RAA, DR.IS-A [184] de 10/Ago/2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2000-339839
+  date: '2000-07-10'
+- type: amended_by
+  target: pt:dre:344457:por
+  label: "Alterados os mapas I,II, III, IV e IX em anexo (e já modificados pelo DLR 27/2000/A de 10-Ago), pelo DLR.2/2001/A.2000.12.18.ALR-RAA,\
+    \ DR.IS-A [18] de 22/Jan/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2001-344457
+  date: '2000-12-18'
+- type: amended_by
+  target: pt:dre:587626:por
+  label: "Alterado o art. 5º do DLR 2/99/A de 20-Jan, com a redacção do presente diploma, DLR.3/2004/A.05.01.2004.ALR-RAA,\
+    \ DR.IS-A [23] de 28.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2004-587626
+  date: '2004-01-05'
+- type: amended_by
+  target: pt:dre:570685:por
+  label: "Dada nova redação ao art. 5.º do DLR 2/99/A de 20-jan, alterado pelo presente diploma, pelo DLR.2/2014/A.29.01.2014.AL-RAA,\
+    \ DR.IS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2014-570685
+  date: '2014-01-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
@@ -103,16 +127,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/5/1999/03/11/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/5/1999/03/11/a/dre
+- type: cites
+  target: pt:dre:158046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:22Z'
   warnings: []
   errors: []
 ---
@@ -277,61 +317,61 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro 
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Novembro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 21 de Dezembro de 1999.**
+Assinado em Angra do Heroísmo em 21 de Dezembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 MAPA I
 
 Receita da Região Autónoma dos Açores
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
+[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
 
 MAPA II
 
 Despesas por departamentos e por capítulos da Região Autónoma dos Açores
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
+[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
 
 MAPA III
 
 Despesas da Região especificadas segundo a classificação funcional
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
+[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
 
 MAPA IV
 
 Despesas da Região especificadas segundo a classificação económica
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
+[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
 
 MAPA V
 
 Receitas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
+[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
 
 MAPA VI
 
 Despesas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
+[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
 
 MAPA VII
 
 Despesas globais dos fundos e serviços autónomos especificados segundo a classificação funcional
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
+[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
 
 MAPA VIII
 
 Despesas globais dos fundos e serviços autónomos especificadas segundo a classificação económica
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
+[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)](https://files.diariodarepublica.pt/1s/2000/01/014a00/01520179.pdf)
 
 MAPA IX
 

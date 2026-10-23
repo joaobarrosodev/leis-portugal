@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/10/2014/04/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/10-2014-25343998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2054eef5fbcb69f751d96e208e198428c77b22a214404bb0aa2b2116e697b75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3934f6d0356e1e3b4b85007e2ce8e559137e6dee0c35013e22c72230a5136b17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Embarcação
-- Transporte Marítimo
 - Governo Regional
 - Ilha de São Jorge
-- Veículo
+- ILHA do Faial
 - Ilha do Pico
 - Preço
 - Recomendação
-- Açores
-- ILHA do Faial
+- Transporte Marítimo
 - Utente
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:59Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +136,4 @@ Assim, ao abrigo do n.º 3 do artigo 44.º e da alínea h) do n.º 2 do artigo 5
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de março de 2014.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.

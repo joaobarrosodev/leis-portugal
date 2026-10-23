@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08900/08610862.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1977-139937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c7015dd591810d361e4a69e0b0096d115e63265df00b890c1e1c959a76ae011
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c535c611bdaf8214cc5c6b758c53294d0ca9e3e19285ba6f229598f68ea8e25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:448715:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:448715:por
+  label: "Revogado pelo DRR.5/78/A.09.01.1978.GR-RAA, DR.IS [29] de 03.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1978-448715
+  date: '1978-01-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:38Z'
   warnings: []
   errors: []
 ---
@@ -94,28 +101,28 @@ Em execução do Decreto Regional n.º 3/76, de 15 de Novembro:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Como serviço de apoio administrativo é criada no âmbito da Secretaria Regional dos Assuntos Sociais a respectiva Secretaria.
+Artigo 1.º Como serviço de apoio administrativo é criada no âmbito da Secretaria Regional dos Assuntos Sociais a respectiva Secretaria.
 
-###### Art. 2.º - 1. A Secretaria é constituída pelo pessoal constante do mapa anexo e será chefiada pelo primeiro-oficial.
+Art. 2.º - 1. A Secretaria é constituída pelo pessoal constante do mapa anexo e será chefiada pelo primeiro-oficial.
 
 2. Tornando-se necessário, o lugar de chefe de secretaria poderá ser preenchido interinamente por um segundo-oficial ou terceiro-oficial, que beneficiará da reversão do vencimento de exercícios do chefe de secretaria.
 
-###### Art. 3.º Para apoio geral à Secretaria Regional e na dependência directa da Secretaria existirá o pessoal auxiliar constante do mapa anexo.
+Art. 3.º Para apoio geral à Secretaria Regional e na dependência directa da Secretaria existirá o pessoal auxiliar constante do mapa anexo.
 
 Aprovado em Plenário do Governo Regional em 31 de Janeiro de 1977.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada em 21 de Março de 1977.**
+Assinado em Ponta Delgada em 21 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 MAPA ANEXO
 
 Quadro do pessoal a que se referem os artigos 2.º e 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/08900/08610862.pdf))](https://files.diariodarepublica.pt/1s/1977/04/08900/08610862.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/08900/08610862.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

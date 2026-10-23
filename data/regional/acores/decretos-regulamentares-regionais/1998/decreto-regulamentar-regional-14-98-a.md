@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/110b00/22462250.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/1998/05/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1998-522846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9dce8068b723c50937629d7e59d3501f219402b0c372f9a67cf064b3ede9519
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f776597e8e13c6a62eb33e3ad2b81816480f45c508d79480fd101266fd62fcb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Definição de Competências
-- Presidência do Governo Regional
 - Direcção Regional das Comunidades
 - Gabinete de Emigração e Apoio às Comunidades Açorianas
 - Orgânica
+- Presidência do Governo Regional
 - Quadro de Pessoal
 - Secretaria Regional do Turismo e Ambiente
-- Açores
 - Transferência de Pessoal
 relationships:
 - type: amended_by
@@ -95,16 +95,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/33/1992/08/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/33/1992/08/04/a/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:673041:por
+  label: "Revogado pelo DRR.16/2006/A.20.03.2006.PG-RAA, DR.IS-B [69] de 06.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2006-673041
+  date: '2006-03-20'
 article_structure:
   article_count: 18
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:57Z'
   warnings: []
   errors: []
 ---
@@ -135,13 +180,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 16 de Janeiro de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César
 
-**Assinado em Angra do Heroísmo em 13 de Abril de 1998.**
+Assinado em Angra do Heroísmo em 13 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ORGÂNICA DA DIRECÇÃO REGIONAL DAS COMUNIDADES
 
@@ -209,7 +254,9 @@ b) Gabinete do Intercâmbio Cultural Comunitário, em Angra do Heroísmo (GICC);
 
 c) Gabinete de Integração Social, em Ponta Delgada (GIS).
 
-###### Artigo 4.º — Secção de Pessoal, Expediente, Arquivo e Documentação (SPEAD)
+###### Artigo 4.º
+
+#### Secção de Pessoal, Expediente, Arquivo e Documentação (SPEAD)
 
 À SPEAD compete, designadamente:
 
@@ -223,7 +270,9 @@ d) Apoiar administrativamente os restantes serviços da DRC, nomeadamente os ser
 
 e) Proceder ao envio e recepção das publicações periódicas e não periódicas publicadas nas comunidades e na Região, garantindo o apoio documental nesta área, com um registo permanentemente actualizado.
 
-###### Artigo 5.º — Secção de Contabilidade e Património (SCP)
+###### Artigo 5.º
+
+#### Secção de Contabilidade e Património (SCP)
 
 À SCPD compete, designadamente:
 

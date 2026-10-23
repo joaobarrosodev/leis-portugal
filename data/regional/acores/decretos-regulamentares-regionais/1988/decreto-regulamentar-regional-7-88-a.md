@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01600/02390239.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1988-283509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 895ba8a480a53b2b1d96b4a307775c7b0f318f388000fa5df2e032c3a571c9c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b39ba5aec5d3791b4bf44289afde5ca7db93fe58d4ff8f9a5930d3c48f87149d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Secretaria Regional da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:612400:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311816:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612400:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 5/89/A - Diário da República n.º 43/1989, Série I de 1989-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1989-612400
+  date: '1989-02-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:19Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +110,9 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 6.º do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, passa a ter a seguinte redacção:
+Artigo único. O artigo 6.º do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - O Conselho Regional da Agricultura é presidido pelo Secretário Regional e dele fazem parte:
+Art. 6.º - 1 - O Conselho Regional da Agricultura é presidido pelo Secretário Regional e dele fazem parte:
 
 a) Os directores regionais da agricultura, de veterinária e dos recursos florestais;
 
@@ -128,10 +144,10 @@ l) Duas individualidades de reconhecida competência escolhidas pelo Secretário
 
 Aprovado em Conselho do Governo Regional, na Horta, em 19 de Novembro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 30 de Dezembro de 1987.**
+Assinado em Angra do Heroísmo em 30 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

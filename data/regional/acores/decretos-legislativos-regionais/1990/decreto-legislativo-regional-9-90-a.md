@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11700/23242326.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1990-571473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 052bd235b7c3090fb7392b973a162de7584764bf5eafdf1774c601da9b7557b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0efbe6076e03db86840c85620d75716d815041071ea27cb794ff686210fa162a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Conselho Consultivo Regional
+- Conselho Consultivo Regional de Juventude
+- Criação de Serviços
+- Definição de Competências
+- Política de Juventude
+- Protecção à Juventude
+- Secretaria Regional da Juventude e Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:455886:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484983:por
+  label: "Dada nova redacção aos arts. 1º, 2º e 3º pelo DLR.11/95/A.26.07.1995.ALR-RAA, DR.IS-A [171] de 26.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-1995-484983
+  date: '1995-07-26'
+- type: amended_by
+  target: pt:dre:549059:por
+  label: "Dada nova redacção aos arts. 1º, 2º, 3º (os três alterados pelo DLR 11/95/A de 26-Jul), 7º e 9º, e aditados os arts.\
+    \ 3º-A, 3º-B e 10º-A pelo DLR.10/99/A.1999.03.17.ALR-RAA, DR.IS-A [81] de 07.04.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-1999-549059
+  date: '1999-03-17'
+- type: repealed_by
+  target: pt:dre:455886:por
+  label: "Revogado, a partir de 12.07.2008, pelo DLR.18/2008/A.07.07.2008.AL-RAA, DR.IS [129] de 07.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2008-455886
+  date: '2008-07-07'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:05Z'
   warnings: []
   errors: []
 ---
@@ -210,10 +234,10 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 1991.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 22 de Março de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 24 de Abril de 1990.**
+Assinado em Angra do Heroísmo em 24 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

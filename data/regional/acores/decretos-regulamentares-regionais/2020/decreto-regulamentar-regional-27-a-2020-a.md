@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 234/2020, 2º Suplemento, Série I de 2020-12-02
   number: '234'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7-(2) a 7-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2020/12/23402/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/27-a/2020/12/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-a-2020-150231929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53e0964a28788d451b373e8868a997f943a457224a7e89f8cd2e2c78ce59a872
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c69670a531f28542da3c1af09b625bf37329b5eaa4c994a57208cc0303d5d50b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Crime
-- Proteção Civil
-- Circulação de Pessoas
-- Estabelecimento Comercial
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Controlo Sanitário
-- Estado de Emergência
-- Fiscalização
+- Açores
 - Catástrofe
-- Isolamento Profiláctico
+- Circulação de Pessoas
+- Controlo Sanitário
+- Crime
+- Dados Pessoais
+- Definição de Competências
 - Doença Infecciosa
 - Epidemia
-- Estabelecimento de Ensino
-- Ribeira Grande
-- Açores
-- Dados Pessoais
 - Equipamento de Proteção
+- Estabelecimento Comercial
+- Estabelecimento de Ensino
+- Estado de Emergência
+- Fiscalização
+- Isolamento Profiláctico
+- Proteção Civil
+- Regulamentação de Atos Legislativos
+- Ribeira Grande
 - Vigilância Epidemiológica
 relationships:
 - type: cites
@@ -114,16 +114,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62-a/2020/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62-a/2020/10/27/p/dre
+- type: cites
+  target: pt:dre:126467884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146435561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148599586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149103950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149106929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149595359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:35Z'
   warnings: []
   errors: []
 ---
@@ -288,10 +320,12 @@ O presente decreto entra em vigor às 00:00 h do dia 3 de dezembro de 2020.
 
 Aprovado em Conselho do Governo Regional em 30 de novembro de 2020.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 1 de dezembro de 2020.**
+Assinado em Angra do Heroísmo em 1 de dezembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+113776646

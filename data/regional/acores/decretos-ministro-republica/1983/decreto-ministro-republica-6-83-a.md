@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-ministro-republica/6-1983-310807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cb0c58898acb46879f1cd7b2c6afb1be50199d2c8aa56f191bf3de28764df5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78ec617c467dc80d8c3ce30b3a174ceb1ceed31fb0f9c628c231a654699c1c85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Governo Regional
+- Nomeação
+- Secretário Regional Adjunto para a Integração Europeia e Cooperação Externa
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:31Z'
   warnings: []
   errors: []
 ---
@@ -86,8 +90,8 @@ Usando da faculdade conferida pelo n.º 4 do artigo 233.º da Constituição, co
 
 Este decreto entra em vigor na data da assinatura.
 
-**Assinado em Angra do Heroísmo em 15 de Janeiro de 1983.**
+Assinado em Angra do Heroísmo em 15 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - O Presidente do Governo Regional dos Açores, João Bosco Soares Mota Amaral.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva. - O Presidente do Governo Regional dos Açores, João Bosco Soares Mota Amaral.

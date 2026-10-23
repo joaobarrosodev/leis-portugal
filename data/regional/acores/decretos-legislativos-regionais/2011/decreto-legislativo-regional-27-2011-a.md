@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/27/2011/11/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2011-146487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5997ed61b192e36d61e24d470ac9b3446d248b37cf45b9beb16943027075696d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f08c38254b67e11c5f1959c96d598ac55870b70043eb35c0acf4a2f1d3e0d20d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
+- Açores
+- Azorina
 - Capital Social
 - Criação de Empresas
 - Definição de Competências
-- Extinção de Empresas
-- Fusão de Empresas
 - Empresa Pública Regional
 - Estatuto
-- Proteção do Ambiente
+- Extinção de Empresas
+- Fusão de Empresas
 - Gestão do Ambiente
+- Proteção do Ambiente
 - Reestruturação de Empresas
 - Setor Empresarial
-- Açores
-- Azorina
+- Sociedade Anónima
 - Spraçores
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:16/2006/A
+  label: "Extingue a SPRAçores - Sociedade de Promoção e Gestão Ambiental, S. A., por fusão com a Sociedade de Gestão Ambiental\
+    \ e Conservação da Natureza, S. A. - AZORINA, S. A. e revoga o Decreto Legislativo Regional n.º 16/2006/A, de 23-Mai,\
+    \ DR IS-A [99] \0 [99] \0"
+  source: null
+  date: '2006-05-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/16/2006/05/23/a/dre
   label: null
@@ -105,16 +112,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/7/2008/03/24/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/7/2008/03/24/a/dre
+- type: cites
+  target: pt:dre:246794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633287:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176631062:por
+  label: Revogado, com efeitos a 31.12.2021, o presente diploma, pelo(a) Decreto Legislativo Regional n.º 39/2021/A - Diário
+    da República n.º 250/2021, Série I de 2021-12-28, nos termos do seu artigo 12.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/39-2021-176631062
+  date: '2021-12-28'
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:4/2006/A
+  label: "Revoga o Decreto Legislativo Regional n.º 4/2006/A, de 16-Jan, DR IS-A [11]\0\0"
+  source: null
+  date: '2006-01-16'
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:43/2006/A
+  label: "Revoga o Decreto Legislativo Regional n.º 43/2006/A, de 31-Out, DR IS [210]\0\0"
+  source: null
+  date: '2006-10-31'
 article_structure:
   article_count: 45
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:21Z'
   warnings: []
   errors: []
 ---
@@ -181,11 +228,11 @@ O presente diploma produz efeitos no 1.º dia do mês imediato ao da sua publica
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 28 de Setembro de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 27 de Outubro de 2011.**
+Assinado em Angra do Heroísmo em 27 de Outubro de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -339,11 +386,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de Março de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 30 de Março de 2010.**
+Assinado em Angra do Heroísmo em 30 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

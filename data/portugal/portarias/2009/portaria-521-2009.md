@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/521/2009/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/521-2009-608715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 364b32291d52f18fe4e26eb499489a841cd9abb804dcedaa04b3a439c4531024
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 839d8a76d96e98b2e96d4d004ef7d398e1a83814cd07c1fd8d475f01668f3348
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
 - Ajuda Comunitária
-- Financiamento
 - Beneficiário
-- Desenvolvimento Rural
 - Contrato de Financiamento
-- Património Cultural
-- Pagamento
+- Desenvolvimento Rural
+- Financiamento
 - IFAP
 - Investimento
-- Região Rural
+- Pagamento
+- Património Cultural
+- Proder
 - Qualidade de VIDA
+- Região Rural
 - Regulamento
 - Regulamento de Aplicação da Medida 3.2-melhoria da Qualidade de VIDA
 relationships:
@@ -86,6 +86,54 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493705:por
+  label: "Alterados os arts. 4º, 8º, e 13º do Regulamento de Aplicação da Medida n.º 3.2, «Melhoria da Qualidade de Vida»\
+    \ e os anexos II, III e IV, aditada a al. r) ao art. 4 do Regulamento e revogado o art. 6º do Regulamento, aprovado pelo\
+    \ presente diploma, pela PORT.906/2009.14.08.2009.MADRP, DR.IS [157] de 14.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/906-2009-493705
+  date: '2009-08-14'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 4º ( na redacção da Port 906/2009, de 14-Ago), 7º, 8º (este último na redacção da Port 906/2009,\
+    \ de 14-Ago), 10º, 11º, 13º (este último na redacção da Port 906/2009, de 14-Ago), 15º, 16º, 17º, 18º e 27º e os anexos\
+    \ I e II (este último na redacção da Port 906/2009, de 14-Ago) e revogados as als. c) e e) do art. 7º, a al. a) do nº1\
+    \ do art. 8º, o nº5 do art. 22º e o art. 23º do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP,\
+    \ DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 8.º ( na redacção das portarias 906/2009, de 14-Ago e 814/2010, de 27-Ago ), 22.º, 23.º, 25.º\
+    \ e 26.º do Regulamento de Aplicação das Acções n.os 3.2.1, «Conservação e Valorização do Património Rural», e 3.2.2,\
+    \ «Serviços Básicos para a População Rural», aprovado pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS\
+    \ [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:552803:por
+  label: "Alterados os arts. 14.º e 15.º ( na redação da Port. 814/2010, de 28-ago) do Regulamento de Aplicação das Ações\
+    \ n.os 3.2.1, «Conservação e Valorização do Património Rural», e 3.2.2, «Serviços Básicos para a População Rural», pela\
+    \ PORT.108/2012.20.04.2012.MAMAOT, DR.IS [79] de 20.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/108-2012-552803
+  date: '2012-04-20'
+- type: amended_by
+  target: pt:dre:260437:por
+  label: "Alterados os anexos I (na redação da Port. 814/2010, de 27-ago) e II (na redação das Ports. 906/2009, de 14-ago\
+    \ e 814/2010, de 27-ago) do Regulamento de Aplicação das Ações n.os 3.2.1, «Conservação e Valorização do Património Rural»,\
+    \ e 3.2.2, «Serviços Básicos para a População Rural», da Medida n.º 3.2, «Melhoria da Qualidade de Vida», integrada no\
+    \ subprograma n.º 3, «Dinamização das zonas rurais», do Programa de Desenvolvimento Rural do Continente, abreviadamente\
+    \ designado por PRODER, aprovado pela presente portaria, pela PORT.149/2013.15.04.2013.MAMAOT, DR.IS [73] de 15.04.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-2013-260437
+  date: '2013-04-15'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo II (alterado pelas Port 906/2009 de 14-ago, 814/2010 de 27-ago e 149/2013 de 15-abr)\
+    \ do Regulamento de Aplicação das Ações n.º 3.2.1, «Conservação e Valorização do Património Rural», e 3.2.2, «Serviços\
+    \ Básicos para a População Rural» pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -101,13 +149,13 @@ relationships:
 article_structure:
   article_count: 30
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:45Z'
   warnings: []
   errors: []
 ---
@@ -140,19 +188,19 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 O Regulamento referido no artigo 1.º contém os seguintes anexos, que dele fazem parte integrante:
 
-## Anexo I, relativo aos investimentos elegíveis e não elegíveis;
+Anexo I, relativo aos investimentos elegíveis e não elegíveis;
 
-## Anexo II, relativo às despesas elegíveis e não elegíveis;
+Anexo II, relativo às despesas elegíveis e não elegíveis;
 
-## Anexo III, relativo ao nível dos apoios;
+Anexo III, relativo ao nível dos apoios;
 
-## Anexo IV, relativo ao cálculo da valia global da operação.
+Anexo IV, relativo ao cálculo da valia global da operação.
 
 ###### Artigo 3.º
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 11 de Maio de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 11 de Maio de 2009.
 
 ## ANEXO
 
@@ -508,11 +556,11 @@ b) As respectivas operações não estejam concluídas antes da data da aprovaç
 
 Investimentos elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf)
 
 Investimentos não elegíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf)
 
 ## ANEXO II — Despesas elegíveis e não elegíveis
 
@@ -652,11 +700,11 @@ Investimentos materiais:
 
 Acção n.º 3.2.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf)
 
 Acção n.º 3.2.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09300/0298702994.pdf)
 
 Os auxílios concedidos no âmbito desta medida estão em conformidade com o Regulamento de minimis (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt).
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/46/2008/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/46-2008-248273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a1244a58e641878f1f8198c8a20695af8e7b905300d3188c47f85f9e1ea4bb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e79b948a415df77ddb51ad682f9bb286b5253ce026602fc3b8772752f2d668b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:27Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +123,7 @@ Entrada em vigor
 
 A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 11 de Dezembro de 2007. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima, em 17 de Dezembro de 2007.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 11 de Dezembro de 2007. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima, em 17 de Dezembro de 2007.
 
 ## ANEXO — REGULAMENTO ARQUIVÍSTICO DA FACULDADE DE CIÊNCIAS MÉDICAS DA UNIVERSIDADE NOVA DE LISBOA
 
@@ -255,10 +267,10 @@ Fiscalização
 
 Compete ao IAN/TT a inspecção sobre a execução do disposto na presente portaria.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf))](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf))](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf))](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf))](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/01000/0053600542.pdf)

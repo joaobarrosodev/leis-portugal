@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/08700/0002500042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2025/05/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2025-917107827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e740a64b69457fb79bcfa7a86f2c95242ac075c4a21c252dbf2444a53ac64f9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c54953dd9bfc4e0c19f350bf3b5f6e1ebc65e5fcd1c500384b740c1e0e72cf8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Parlamentar
+- Açores
 - Assembleia Legislativa Regional
 - Grupo Parlamentar
 - Orgânica
+- Parlamentar
 - Quadro de Pessoal
 - Regime de Pessoal
 - Remuneração
 - Secretário Geral
-- Açores
 - Subsídio
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:36/2021/A
+  label: Altera, a partir de 7 de maio de 2025, os artigos 21.º, 33.º, 34.º, 46.º e 47.º e republica o Decreto Legislativo
+    Regional n.º 36/2021/A, de 30 de novembro, Diário da República n.º 232/2021, Série I
+  source: null
+  date: '2021-11-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15/2022/06/02/a/dre
   label: null
@@ -101,16 +107,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:175129349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184306939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604800:por
+  label: null
+  source: null
 article_structure:
-  article_count: 60
+  article_count: 56
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:17Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +183,9 @@ Os artigos 21.º, 33.º, 34.º, 46.º e 47.º do [Decreto Legislativo Regional n
 
 7 - O secretário-geral pode delegar as suas competências próprias nos dirigentes específicos de 1.º grau nos termos do artigo 9.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, que aprova o estatuto do pessoal dirigente dos serviços e órgãos da administração central, local e regional do Estado, na sua redação atual.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -177,7 +209,9 @@ Os artigos 21.º, 33.º, 34.º, 46.º e 47.º do [Decreto Legislativo Regional n
 
 11 - [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Aos Deputados independentes que não integrem nenhum grupo parlamentar aplica-se, com as devidas adaptações, o disposto no artigo anterior, não podendo anualmente ser ultrapassado o montante correspondente ao processamento anual das remunerações certas e permanentes, bem como os encargos sociais e o subsídio de refeição de um elemento nomeado para o respetivo gabinete com um vencimento mensal igual à RMMG na RAA.
 
@@ -185,13 +219,17 @@ Os artigos 21.º, 33.º, 34.º, 46.º e 47.º do [Decreto Legislativo Regional n
 
 3 - [...]
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - A conta é organizada pelos serviços da Assembleia Legislativa até 15 dias antes do prazo legal para submissão ao Tribunal de Contas.
 
 2 - A conta é aprovada pelo Plenário, após o parecer do Tribunal de Contas.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 O pessoal em regime de contrato a termo resolutivo, prestação de serviços, cedência de interesse público ou mobilidade interna que, à data da entrada em vigor do presente diploma, exerça funções correspondentes a necessidades permanentes em regime de horário completo nos serviços da Assembleia Legislativa há mais de dois anos, ou que os complete até ao termo da XIII Legislatura da Assembleia Legislativa, é integrado, a requerimento do interessado, no mapa de pessoal na situação de contrato de trabalho em funções públicas por tempo indeterminado, na carreira/categoria onde se encontra contratado ou a desempenhar funções, com observância do previsto na lei geral do trabalho em funções públicas relativamente ao posicionamento remuneratório, após aprovação num procedimento de seleção sumário, com respeito pelas habilitações legais exigidas.»
 
@@ -209,11 +247,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de abril de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 5 de maio de 2025.**
+Assinado em Angra do Heroísmo em 5 de maio de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -281,7 +319,7 @@ c) O Conselho Administrativo.
 
 ###### Artigo 8.º — Delegação de competências
 
-**O Presidente da Assembleia Legislativa pode delegar, num dos membros da Mesa ou no secretário-geral, os poderes administrativos e financeiros que lhe são conferidos no presente diploma.**
+O Presidente da Assembleia Legislativa pode delegar, num dos membros da Mesa ou no secretário-geral, os poderes administrativos e financeiros que lhe são conferidos no presente diploma.
 
 ###### Artigo 9.º — Gabinete do Presidente
 
@@ -523,7 +561,7 @@ a) Os cessionários mantêm sempre os direitos e regalias sociais adquiridos e, 
 
 b) Os cessionários auferem por inteiro as remunerações inerentes aos cargos que exerciam, sem prejuízo de poderem optar pelas remunerações correspondentes às funções que vão desempenhar, acrescidas, em qualquer caso, das compensações de encargos decorrentes da mobilidade que forem fixadas por despacho do Presidente da Assembleia Legislativa, ouvido o Conselho Administrativo.
 
-3 - A mobilidade do pessoal a que se referem os n.<sup>os</sup>1 e 2 depende da concordância dos visados e dos respetivos serviços.
+3 - A mobilidade do pessoal a que se referem os n.os1 e 2 depende da concordância dos visados e dos respetivos serviços.
 
 4 - A cedência de interesse público referida no n.º 2 pode ser feita por qualquer período, mas caduca com o termo da legislatura, sem prejuízo de nova cedência, ouvido o Conselho Administrativo.
 
@@ -738,3 +776,5 @@ c) O [Decreto Legislativo Regional n.º 43/2012/A](https://diariodarepublica.pt/
 ###### Artigo 51.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+119011934

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/14000/0013500139.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2019/07/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2019-123436960
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65a41ba26e8fdfdd3f56fe0abfcf96fe6e7d75e2ff4625edc7a3ac3bca4bbf90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f86f54117d28f573f0ae04bb777a46e9002c5bfb767b6ecde92c88e056574a4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- ILHA de são Miguel
-- Ordenamento do Território
-- Governo Regional
-- Região de Turismo
-- Medidas Preventivas
 - Açores
+- Governo Regional
+- ILHA de são Miguel
 - Infraestrutura Turística
+- Medidas Preventivas
+- Ordenamento do Território
+- Região de Turismo
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/2010/04/07/a/dre
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/38/2008/08/11/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/38/2008/08/11/a/dre
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612381:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:25Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +158,7 @@ a) Empreendimentos de turismo de habitação e de turismo no espaço rural;
 
 b) Ampliação de empreendimentos turísticos em funcionamento, nos termos da lei, à data da produção de efeitos deste diploma, dentro dos seguintes limites quantitativos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/14000/0013500139.pdf))](https://files.diariodarepublica.pt/1s/2019/07/14000/0013500139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/14000/0013500139.pdf)
 
 7 - (Anterior n.º 5.)
 
@@ -180,11 +188,11 @@ O presente diploma produz efeitos a 27 de junho de 2019.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 5 de julho de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 11 de julho de 2019.**
+Assinado em Angra do Heroísmo em 11 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -246,7 +254,7 @@ a) Empreendimentos de turismo de habitação e de turismo no espaço rural;
 
 b) Ampliação de empreendimentos turísticos em funcionamento, nos termos da lei, à data da produção de efeitos deste diploma, dentro dos seguintes limites quantitativos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/14000/0013500139.pdf))](https://files.diariodarepublica.pt/1s/2019/07/14000/0013500139.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/14000/0013500139.pdf)
 
 7 - O disposto na alínea b) do número anterior só é aplicável uma única vez por cada empreendimento.
 
@@ -271,3 +279,5 @@ b) No prazo de um ano a contar da data de publicação da autorização do Conse
 ###### Artigo 7.º — Norma transitória
 
 O presente diploma aplica-se, igualmente, a todos os projetos, para realização de operações urbanísticas que, ainda, não tenham sido objeto de parecer da direção regional competente em matéria de turismo.
+
+112442048

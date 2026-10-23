@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/300/2009/03/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/300-2009-605503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1953917059540484b4e1167affac12cf08e4898839bfdd09f67a373059b35ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99553b5e4ccc91b99ce9cb68a8e74b58d3e7254df6834dea8b7c76bd7598ca2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
 - Carreira Médica
+- Estágio de Formação
 - Formação Profissional
 - Internato Médico
+- Medicina
 - Programa de Formação
-- Estágio de Formação
 relationships:
+- type: amended_by
+  target: pt:dre:66558697:por
+  label: Atualizado o programa de formação da área de especialização de Medicina Geral e Familiar aprovado pelo presente diploma
+    pelo(a) Portaria n.º 45/2015 - Diário da República n.º 36/2015, Série I de 2015-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/45-2015-66558697
+  date: '2015-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/2005/01/06/p/dre
   label: null
@@ -92,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/183/2006/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/183/2006/02/22/p/dre
+- type: cites
+  target: pt:dre:457003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676200:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:20Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +152,7 @@ Manda o Governo, pela Ministra da Saúde, o seguinte:
 
 2 - A aplicação e desenvolvimento do programa compete aos órgãos e agentes responsáveis pela formação nos internatos, os quais devem assegurar a maior uniformidade a nível nacional.
 
-**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 16 de Março de 2009.**
+A Ministra da Saúde, Ana Maria Teodoro Jorge, em 16 de Março de 2009.
 
 ## ANEXO — Programa de formação do internato médico da área profissional de especialização de medicina geral e familiar
 

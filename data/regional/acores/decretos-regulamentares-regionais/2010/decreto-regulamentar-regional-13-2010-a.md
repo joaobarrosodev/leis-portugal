@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13300/0255202560.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2010/07/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2010-334343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5f755c8858a592948d66f61bff361f9c5a7ad9fc59c09840a3c846421ef647a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 370d53ebe4a4379119893a9740acdfc6e209e71c4200ac460aeac975815dcdd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Conselho Regional de Combate à Droga e Toxicodependências
 - Conselho Regional de Saúde
 - Definição de Competências
-- Secretaria Regional da Saúde
+- Inspecção Regional da Saúde
 - Orgânica
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Conselho Regional de Combate à Droga e Toxicodependências
-- Inspecção Regional da Saúde
+- Secretaria Regional da Saúde
 relationships:
 - type: amended_by
   target: pt:dre:496914:por
@@ -103,16 +103,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/25/2008/12/31/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/25/2008/12/31/a/dre
+- type: cites
+  target: pt:dre:198771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629171:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:496914:por
+  label: "Revogado, a partir de 22.06.2013, pelo DRR.5/2013/A.21.06.2013.PG-RAA, DR.IS [118] de 21.06.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2013-496914
+  date: '2013-06-21'
 article_structure:
   article_count: 38
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:43Z'
   warnings: []
   errors: []
 ---
@@ -143,11 +172,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de Junho de 2010.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 30 de Junho de 2010.**
+Assinado em Angra do Heroísmo em 30 de Junho de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -239,7 +268,9 @@ A composição e funcionamento dos conselhos regionais de saúde e combate à dr
 
 #### SECÇÃO II — Órgãos executivos
 
-###### Artigo 8.º — Divisão de Estudos, Planeamento e Documentação
+###### Artigo 8.º
+
+##### Divisão de Estudos, Planeamento e Documentação
 
 1 - A DEPD é um serviço de apoio técnico ao qual compete, designadamente:
 
@@ -271,7 +302,9 @@ m) Preparar índices de rentabilidade dos investimentos e outros indicadores nec
 
 2 - A DEPD é dirigida por um chefe de divisão, cargo de direcção intermédia do 2.º grau.
 
-###### Artigo 9.º — Divisão Administrativa, Financeira e Patrimonial
+###### Artigo 9.º
+
+##### Divisão Administrativa, Financeira e Patrimonial
 
 1 - A DAFP é um serviço de apoio e execução das actividades administrativas respeitantes aos órgãos e serviços centrais da SReS à qual compete, designadamente:
 
@@ -307,7 +340,9 @@ o) Colaborar e acompanhar na preparação e execução do plano e orçamento.
 
 2 - A DAFP é dirigida por um chefe de divisão, cargo de direcção intermédia do 2.º grau, e integra a Secção de Pessoal, Expediente e Arquivo, a Secção de Contabilidade e o Núcleo de Informática.
 
-###### Artigo 10.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 10.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 1 - Compete à Secção de Pessoal, Expediente e Arquivo, nomeadamente:
 
@@ -327,7 +362,9 @@ g) Efectuar as operações de controlo da assiduidade e pontualidade do pessoal.
 
 2 - A Secção de Pessoal, Expediente e Arquivo é dirigida por um coordenador técnico.
 
-###### Artigo 11.º — Secção de Contabilidade
+###### Artigo 11.º
+
+#### Secção de Contabilidade
 
 1 - Compete à Secção de Contabilidade, designadamente:
 
@@ -445,7 +482,9 @@ b) Direcção de Serviços de Recursos Humanos (DSRH);
 
 c) Direcção de Serviços de Cuidados de Saúde (DSCS).
 
-###### Artigo 17.º — Divisão de Apoio Jurídico e de Planeamento (DAJP)
+###### Artigo 17.º
+
+##### Divisão de Apoio Jurídico e de Planeamento (DAJP)
 
 1 - A DAJP é um serviço de apoio jurídico e de planeamento, ao qual compete, designadamente:
 
@@ -487,7 +526,9 @@ a) Divisão de Gestão e Administração de Pessoal (DGAP);
 
 b) Divisão de Formação e Promoção da Qualidade (DFPQ).
 
-###### Artigo 19.º — Divisão de Gestão e Administração de Pessoal (DGAP)
+###### Artigo 19.º
+
+##### Divisão de Gestão e Administração de Pessoal (DGAP)
 
 1 - À DGAP compete, nomeadamente:
 
@@ -515,7 +556,9 @@ k) Dar parecer sobre assuntos de natureza jurídica que, para o efeito, lhe seja
 
 2 - A DGAP é dirigida por um chefe de divisão, cargo de direcção intermédia do 2.º grau.
 
-###### Artigo 20.º — Divisão de Formação e Promoção da Qualidade (DFPQ)
+###### Artigo 20.º
+
+##### Divisão de Formação e Promoção da Qualidade (DFPQ)
 
 1 - À DFPQ compete, designadamente:
 
@@ -549,7 +592,9 @@ b) Divisão de Licenciamentos e Assuntos Farmacêuticos (DLAF);
 
 c) Divisão de Cuidados Continuados (DCC).
 
-###### Artigo 22.º — Divisão de Prestação de Cuidados de Saúde (DPCS)
+###### Artigo 22.º
+
+##### Divisão de Prestação de Cuidados de Saúde (DPCS)
 
 1 - À DPCS compete, nomeadamente:
 
@@ -603,7 +648,9 @@ x) Criar e orientar programas para garantir a segurança clínica e a sua monito
 
 2 - A DPCS é dirigida por um chefe de divisão, cargo de direcção intermédia do 2.º grau.
 
-###### Artigo 23.º — Divisão de Licenciamento e Assuntos Farmacêuticos (DLAF)
+###### Artigo 23.º
+
+##### Divisão de Licenciamento e Assuntos Farmacêuticos (DLAF)
 
 1 - À DLAF compete, designadamente:
 
@@ -635,7 +682,9 @@ m) Definir medidas de controlo e promoção da qualidade sanitária do ambiente.
 
 2 - A DLAF é dirigida por um chefe de divisão, cargo de direcção intermédia do 2.º grau.
 
-###### Artigo 24.º — Divisão de Cuidados Continuados (DCC)
+###### Artigo 24.º
+
+##### Divisão de Cuidados Continuados (DCC)
 
 1 - À DCC compete, nomeadamente:
 
@@ -701,7 +750,9 @@ a) Divisão de Planeamento e Prevenção (DPP);
 
 b) Divisão de Tratamento e Reinserção (DTR).
 
-###### Artigo 28.º — Divisão de Planeamento e Prevenção (DPP)
+###### Artigo 28.º
+
+##### Divisão de Planeamento e Prevenção (DPP)
 
 1 - Compete à DPP, nomeadamente:
 
@@ -723,7 +774,9 @@ h) Desenvolver e promover a formação dos recursos humanos.
 
 2 - A DPP é dirigida por um chefe de divisão, cargo de direcção intermédia do 2.º grau.
 
-###### Artigo 29.º — Divisão de Tratamento e Reinserção (DTR)
+###### Artigo 29.º
+
+##### Divisão de Tratamento e Reinserção (DTR)
 
 1 - Compete à DTR, nomeadamente:
 
@@ -787,4 +840,4 @@ Quadro de pessoal dirigente e de chefia
 
 Secretaria Regional da Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/07/13300/0255202560.pdf))](https://files.diariodarepublica.pt/1s/2010/07/13300/0255202560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13300/0255202560.pdf)

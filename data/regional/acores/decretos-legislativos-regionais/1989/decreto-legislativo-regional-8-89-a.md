@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/16500/28732874.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1989-619965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc04aac734c5467ba6e3c2a35054c77eefa0b14bb947d0aa2d5bed54774365bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77b2f56c2e790c779a92509ac071d2ddcbb4aa0ed62322c8f78b360189fe8458
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Documentação
+- Parlamentar
 relationships:
 - type: amended_by
   target: pt:dre:166981186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:666494:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:166981186:por
+  label: Revogado, a partir de 13.07.2021, pelo(a) Decreto Legislativo Regional n.º 21/2021/A - Diário da República n.º 133/2021,
+    Série I de 2021-07-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2021-166981186
+  date: '2021-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:59Z'
   warnings: []
   errors: []
 ---
@@ -102,32 +115,32 @@ Considerando ainda que ao dispor o Estatuto da Região, na parte final da alíne
 
 Assim, a Assembleia Regional dos Açores decreta, ao abrigo do disposto na alínea b) do artigo 32.º da [Lei n.º 9/87](https://diariodarepublica.pt/dr/detalhe/lei/9-1987-666494), de 26 de Março, e na alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os requerimentos dos deputados, referidos na alínea d) do n.º 1 do artigo 20.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, serão remetidos ao Governo Regional pela Assembleia Regional dos Açores, que promoverá as diligências adequadas.
+Artigo 1.º Os requerimentos dos deputados, referidos na alínea d) do n.º 1 do artigo 20.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, serão remetidos ao Governo Regional pela Assembleia Regional dos Açores, que promoverá as diligências adequadas.
 
-###### Art. 2.º - 1 - Consideram-se publicações oficiais as edições de natureza predominantemente informativa e documental dos órgãos de governo próprio da Região Autónoma dos Açores e de outras entidades públicas regionais.
+Art. 2.º - 1 - Consideram-se publicações oficiais as edições de natureza predominantemente informativa e documental dos órgãos de governo próprio da Região Autónoma dos Açores e de outras entidades públicas regionais.
 
 2 - São excluídos do conceito de publicações oficiais a que se refere o número anterior os trabalhos intelectuais objecto de direitos regulados e protegidos pelo Código do Direito de Autor, ainda que editados pelos órgãos de governo próprio da Região Autónoma dos Açores ou por outras entidades públicas regionais, e nomeadamente os que resultem de contrato efectuado entre o autor e a entidade editora.
 
 3 - Os deputados têm direito a obter as publicações oficiais que requeiram, publicadas durante a legislatura ou na última sessão da legislatura anterior àquela em que forem eleitos, bem como as que constituam a última informação oficial sobre determinada matéria, com excepção das publicações já esgotadas.
 
-###### Art. 3.º No prazo máximo de 60 dias deverá ser satisfeito o requerimento solicitando publicações oficiais.
+Art. 3.º No prazo máximo de 60 dias deverá ser satisfeito o requerimento solicitando publicações oficiais.
 
-###### Art. 4.º - 1 - Os deputados têm direito a obter elementos informativos existentes na administração pública regional e nas empresas públicas regionais que considerem necessários e úteis para o exercício do seu mandato.
+Art. 4.º - 1 - Os deputados têm direito a obter elementos informativos existentes na administração pública regional e nas empresas públicas regionais que considerem necessários e úteis para o exercício do seu mandato.
 
 2 - Não serão satisfeitos, mediante expressa justificação, os elementos que digam respeito ou envolvam dados referentes a convicções políticas, fé religiosa ou vida privada de qualquer cidadão.
 
-###### Art. 5.º Salvo nos casos referidos no n.º 3 do artigo 2.º, os requerimentos solicitando elementos deverão ser satisfeitos pela entidade requerida no prazo de 60 dias.
+Art. 5.º Salvo nos casos referidos no n.º 3 do artigo 2.º, os requerimentos solicitando elementos deverão ser satisfeitos pela entidade requerida no prazo de 60 dias.
 
-###### Art. 6.º - 1 - Não tendo o Governo Regional respondido no prazo estabelecido a um requerimento de um deputado, goza este do direito de o transformar em perguntas ao Governo, que não contam para efeitos do limite do número de perguntas fixado por cada deputado, nos termos regimentais.
+Art. 6.º - 1 - Não tendo o Governo Regional respondido no prazo estabelecido a um requerimento de um deputado, goza este do direito de o transformar em perguntas ao Governo, que não contam para efeitos do limite do número de perguntas fixado por cada deputado, nos termos regimentais.
 
 2 - Mantendo-se o silêncio do Governo e tendo o mesmo deputado ficado sem resposta a 30 ou mais requerimentos no âmbito da mesma secretaria regional, poderá o Governo ser interpelado nos termos regimentais.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 11 de Maio de 1989.
 
-**O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional dos Açores, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 20 de Junho de 1989.**
+Assinado em Angra do Heroísmo em 20 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

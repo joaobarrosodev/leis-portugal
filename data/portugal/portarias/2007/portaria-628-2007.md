@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/628/2007/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/628-2007-638520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a738dda61abe72e322f227ea6c370eda755137ce818f6c9aaaa20c087b9d5544
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ce999659dbd3b155d6d6fe596afcd370d57f9067c4e7869fac18067c6617836
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,24 @@ reuse:
 subjects:
 - Conservatório de Música
 - Música
+- Porto
 - Prémio Margarida Brochado
 - Regulamento
-- Porto
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:266113:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:52Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +101,7 @@ Manda o Governo, pelo Secretário de Estado da Educação, o seguinte:
 
 3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 16 de Maio de 2007.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 16 de Maio de 2007.
 
 ## ANEXO — Regulamento do Prémio Margarida Brochado
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31/2007/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-2007-262081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e0d6ae89b569f6f3a50c66c55f5f5975f6b84967be72032ce1501758d59a2e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d69fe52d70e934a28a610e85f5a4a5c0548347f2d53cef6a38f67a45bead28e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pagamento
 - Instituto da Conservação da Natureza
 - Isenção Fiscal
+- Pagamento
 - Proteção do Ambiente
 - Reserva Natural
 - Taxa
@@ -77,16 +77,29 @@ relationships:
   target: pt:dre:280893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644352:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280893:por
+  label: "Revogado o art. 3.º do presente diploma, pela PORT.39/2011.18.01.2011.MAOT, DR.IS [12] de 18.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/39-2011-280893
+  date: '2011-01-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:40Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +138,4 @@ Ao abrigo do disposto no artigo 17.º do [Decreto n.º 187/71](https://diariodar
 
 Em 7 de Dezembro de 2006.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.

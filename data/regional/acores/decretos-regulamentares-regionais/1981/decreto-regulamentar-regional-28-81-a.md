@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/10000/10261036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1981-573360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b928d3c2cd5e72fc7817ef3ff5f5fba09552cbcabea11a539c7d78c19622a261
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 551fae3a6367119ac6c48fc9e9015aaf75ec1976c8e9b5f68bdc7940f8019850
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Regional da Energia
+- Direcção Regional da Indústria
+- Direcção Regional do Comércio e Abastecimentos
+- Orgânica
+- Secretaria Regional do Comércio e Indústria
 relationships:
 - type: amended_by
   target: pt:dre:666126:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:329437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474083:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:579294:por
+  label: Rectificado pela DECL.DD6569.01.06.1981.PCM, DR.IS [137] de 17.06.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-579294
+  date: '1981-06-01'
+- type: repealed_by
+  target: pt:dre:666126:por
+  label: "Revogado pelo DRR.10/87/A.09.04.1987.GR-RAA, DR.IS [83] de 09.04.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1987-666126
+  date: '1987-04-09'
 article_structure:
   article_count: 47
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:26Z'
   warnings: []
   errors: []
 ---
@@ -694,7 +722,7 @@ Sem prejuízo das normas sobre excedentes do pessoal, o Secretário Regional pod
 
 ###### Artigo 45.º — (Definições várias)
 
-**O Secretário Regional do Comércio e Indústria definirá por despacho a estrutura, as atribuições, a competência e o funcionamento dos serviços de categoria inferior a divisão.**
+O Secretário Regional do Comércio e Indústria definirá por despacho a estrutura, as atribuições, a competência e o funcionamento dos serviços de categoria inferior a divisão.
 
 ###### Artigo 46.º — (Resolução de dúvidas)
 
@@ -706,16 +734,16 @@ Fica revogado o [Decreto Regulamentar Regional n.º 17/78/A](https://diariodarep
 
 Aprovado em conselho do Governo Regional em 5 de Fevereiro de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 9 de Abril de 1981.**
+Assinado em Angra do Heroísmo em 9 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Henrique Afonso da Silva Horta.**
+O Ministro da República para a Região Autónoma dos Açores, Henrique Afonso da Silva Horta.
 
 Quadro e vencimento do pessoal a que se refere o artigo 38.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/05/10000/10261036.pdf))](https://files.diariodarepublica.pt/1s/1981/05/10000/10261036.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/10000/10261036.pdf)
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.

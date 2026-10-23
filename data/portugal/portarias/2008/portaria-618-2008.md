@@ -28,9 +28,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -51,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/618/2008/07/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/618-2008-456533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1c9fa602359be9af828ebef09ceeb5d4581a3c3e4f83d22b6b01e99ed0e6f3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 498781b51be86831e9a2069ae78853804f723b3c26cfb8251fc0e51539d28006
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +68,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Programa de Desenvolvimento Rural
-- Financiamento
-- Desenvolvimento Rural
-- Genética
-- Contrato de Financiamento
 - Base de Dados Genéticos
-- Programa de Acção
-- Recursos Genéticos
+- Contrato de Financiamento
+- Desenvolvimento Rural
+- Financiamento
+- Genética
 - Livro Genealógico
+- Proder
+- Programa de Acção
+- Programa de Desenvolvimento Rural
+- Recursos Genéticos
 - Regulamento
 - Regulamento de Aplicação da Subacção N.º 2.2.3.2-componente Animal
 relationships:
@@ -87,6 +85,27 @@ relationships:
   target: pt:dre:670056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439401:por
+  label: "Aditado o nº 2 ao art. 13º do Regulamento e alterado o anexo II do presente diploma pela PORT.1305/2008.11.11.2008.MADRP,\
+    \ DR.IS [219] de 11.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1305-2008-439401
+  date: '2008-11-11'
+- type: amended_by
+  target: pt:dre:342802:por
+  label: "Alterados os arts. 1.º, 6.º, 9.º, 10.º, 12.º, 13.º (o nº 2 foi aditado pela Port 1305/2008 de 11-Nov), 14.º, 17.º\
+    \ e 18.º, aditados os arts. 13.º-A e 14.º-A, alterado o anexo iv do Regulamento de Aplicação da Subacção n.º 2.2.3.2,\
+    \ «Componente Animal», da Acção n.º 2.2.3, «Conservação e Melhoramento de Recursos Genéticos», aprovado pelo presente\
+    \ diploma, republicado em anexo com a redacção actual, pela PORT.1049/2010.11.10.2010.MADRP, DR.IS [197] de 11.10.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1049-2010-342802
+  date: '2010-10-11'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterado o art. 21.º do Regulamento de Aplicação da Subacção n.º 2.2.3.2, «Componente Animal», aprovado pelo presente\
+    \ diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -95,16 +114,27 @@ relationships:
   target: celex:32006R1975
   label: null
   source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: corrected_by
+  target: pt:dre:455129:por
+  label: "Rectificada pela DECL-RECT.43/2008.08.08.2008.PCM, DR.IS [153] de 08.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/43-2008-455129
+  date: '2008-08-08'
+- type: repealed_by
+  target: pt:dre:343948:por
+  label: "Revogada a al. c) do art. 6º do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP,\
+    \ DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
 article_structure:
   article_count: 25
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:25Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +175,7 @@ e) Anexo V, relativo ao nível de ameaça das raças autóctones e às raças el
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Julho de 2008.
 
 ## ANEXO
 
@@ -373,7 +403,7 @@ A avaliação genética consiste num conjunto de procedimentos baseados na utili
 
 ## ANEXO II — (a que se referem os artigos 8.º e 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf)
 
 ## ANEXO III — (a que se refere o n.º 3 do artigo 8.º)
 
@@ -521,7 +551,7 @@ Estrutura geral de um programa de melhoramento elaborados no âmbito do cumprime
 
 Raças autóctones abrangidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13400/0442304430.pdf)
 
 Raças exóticas abrangidas
 

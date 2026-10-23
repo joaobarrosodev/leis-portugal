@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/51-1981-567772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78dec9707e68591e4ac0c738f319a234a8e5c642a89bbe4ecbedd072506e1adb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2be01f1127c8bd839fd89513f21712f29e980b810f528f6a864113c38ce7893
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa Regional de Parques Industriais
+- Estatuto
+- Parque Industrial
+relationships:
+- type: cites
+  target: pt:dre:580348:por
+  label: null
+  source: null
 article_structure:
-  article_count: 54
+  article_count: 53
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:35Z'
   warnings: []
   errors: []
 ---
@@ -86,21 +93,21 @@ O [Decreto Regional n.º 11/81/A](https://diariodarepublica.pt/dr/detalhe/decret
 
 Assim, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto da Empresa Regional de Parques Industriais, E. P., que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Estatuto da Empresa Regional de Parques Industriais, E. P., que faz parte integrante do presente diploma.
 
-###### Art. 2.º As dúvidas suscitadas na interpretação e aplicação do presente decreto serão resolvidas por despacho conjunto dos Secretários Regionais das Finanças e do Comércio e Indústria.
+Art. 2.º As dúvidas suscitadas na interpretação e aplicação do presente decreto serão resolvidas por despacho conjunto dos Secretários Regionais das Finanças e do Comércio e Indústria.
 
-###### Art. 3.º O presente diploma entra em vigor na data da sua publicação.
+Art. 3.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pelo Governo Regional em 25 de Setembro de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Novembro de 1981.**
+Assinado em Angra do Heroísmo em 16 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 ESTATUTO DA EMPRESA REGIONAL DE PARQUES INDUSTRIAIS, EMPRESA PÚBLICA REGIONAL
 
@@ -724,6 +731,6 @@ Os rendimentos do trabalho do pessoal da Empresa estão sujeitos a tributação,
 
 2 - Os membros dos órgãos da Empresa que, de harmonia com o número anterior, forem nomeados em substituição de outros cujo mandato haja cessado antes do seu termo normal manter-se-ão em funções até à data em que terminaria o mandato do substituído.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

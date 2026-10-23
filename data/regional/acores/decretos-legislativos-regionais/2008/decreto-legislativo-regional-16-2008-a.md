@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2008/06/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2008-449696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b70aa4b05d830a95c02c0bc888fa9870ed12c1e3ea769fef77aadd86e570e219
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 838d387f30ed0ee0017678eb9b0f8969cc05b101df457ad1dbf752232d67561c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,45 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
+- Açores
+- Apoio Domiciliário
 - Assistência Médica
 - Assistência Medicamentosa
-- Financiamento
-- Governo Regional
 - Criação de Serviços
-- Internamento Hospitalar
 - Cuidados de Enfermagem
-- Saúde
-- Definição de Competências
-- Política de Saúde
-- Fiscalização
-- Instalação de Serviços
-- Licenciamento
-- Prestação de Serviços
 - Cuidados Médicos
+- Definição de Competências
+- Doença
+- Financiamento
+- Fiscalização
+- Governo Regional
+- Instalação de Serviços
+- Internamento Hospitalar
+- Licenciamento
+- Política de Saúde
+- Prestação de Serviços
+- Proteção Social
 - Protecção na Doença
 - Recursos Humanos
-- Apoio Domiciliário
-- Proteção Social
-- Doença
+- Rede
+- Saúde
 - Serviço Regional de Saúde
-- Açores
 - Utente
 relationships:
 - type: amended_by
   target: pt:dre:869798290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:869798290:por
+  label: Determinado, com efeitos a 01 de janeiro de 2024, que, se crie equipas domiciliárias pelas unidades de saúde de ilha,
+    de acordo com as tipologias previstas no presente diploma, em todas as ilhas onde não tenham sido constituídas ou não
+    se encontrem em funcionamento, com especial atenção às ilhas menos populosas e mais envelhecidas, pelo(a) Decreto Legislativo
+    Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2024-869798290
+  date: '2024-06-24'
 article_structure:
   article_count: 41
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:45Z'
   warnings: []
   errors: []
 ---
@@ -716,10 +724,10 @@ O presente diploma entra em vigor passados 30 dias da data da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 7 de Maio de 2008.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 29 de Maio de 2008.**
+Assinado em Angra do Heroísmo em 29 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/112b00/23142335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/1998/05/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1998-522377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a2a4f7d173a99ecddda6bf351cb0b0a23c18a638d0ce9e3d3f937922f648033
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 940e87fd20c58b7a915f2a8911023fbdc6fde0d4fcb59a049261ce266eeb0909
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
-- Secretaria Regional da Economia
-- Orgânica
-- Quadro de Pessoal
 - Açores
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Secretaria Regional da Economia
 relationships:
 - type: amended_by
   target: pt:dre:644711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:392580:por
+  label: "Alterada a redacção dos arts. 4.º, 6.º, 25.º, 27.º, 31.º, 43.º, 50.º, 51.º, 52.º, 53.º, 62.º, 63.º e 64.º, pelo\
+    \ DRR.10/99/A.1999.05.27.SRE-RAA DR.IS-B [149] DE 29/JUN/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1999-392580
+  date: '1999-05-27'
 - type: cites
   target: eli:http://da
   label: null
@@ -116,16 +122,122 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
+- type: cites
+  target: pt:dre:145198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:644711:por
+  label: "Revogado, na redacção do DRR 10/99/A, de 29-Jun, pelo DRR.29/2002/A.2002.09.11.PG-RAA, DR.IS-B [228] de 02/Out/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-2002-644711
+  date: '2002-09-11'
 article_structure:
-  article_count: 73
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 78
+  section_count: 35
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:57Z'
   warnings: []
   errors: []
 ---
@@ -158,13 +270,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 10 de Março de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Abril de 1998.**
+Assinado em Angra do Heroísmo em 13 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ORGÂNICA DA SECRETARIA REGIONAL DA ECONOMIA
 
@@ -220,7 +332,9 @@ g) Exercer as demais competências previstas na lei.
 
 4 - As competências do Secretário Regional da Economia, como superior hierárquico, envolvem o poder da resolução de conflitos de competência entre serviços da SRE.
 
-### CAPÍTULO II — Artigo 4.º
+### CAPÍTULO II
+
+###### Artigo 4.º
 
 Dos órgãos e serviços
 
@@ -264,7 +378,7 @@ Aerogare civil das Lajes.
 
 ###### Artigo 5.º — Organismos sob tutela
 
-**O Secretário Regional da Economia exerce a tutela da Sata-Air Açores - Serviço Açoreano de Transportes Aéreos, E. P.**
+O Secretário Regional da Economia exerce a tutela da Sata-Air Açores - Serviço Açoreano de Transportes Aéreos, E. P.
 
 ###### Artigo 6.º — Outras entidades no âmbito da SRE
 
@@ -370,7 +484,9 @@ a) Divisão de Apoio e Incentivos ao Comércio e à Indústria;
 
 b) Divisão de Apoio e Incentivos ao Cooperativismo.
 
-###### Artigo 11.º — Divisão de Apoio e Incentivos ao Comércio e à Indústria
+###### Artigo 11.º
+
+##### Divisão de Apoio e Incentivos ao Comércio e à Indústria
 
 À Divisão de Apoio e Incentivos ao Comércio e à Indústria compete:
 
@@ -382,7 +498,9 @@ c) Proceder à análise dos processos, candidaturas e projectos apresentados aos
 
 d) Divulgar, junto dos agentes económicos, legislação e demais informação inerente às respectivas actividades.
 
-###### Artigo 12.º — Divisão de Apoio e Incentivos ao Cooperativismo
+###### Artigo 12.º
+
+##### Divisão de Apoio e Incentivos ao Cooperativismo
 
 À Divisão de Apoio e Incentivos ao Cooperativismo compete:
 
@@ -400,7 +518,9 @@ f) Estabelecer acordos de cooperação com entidades similares, nomeadamente com
 
 g) Colaborar com os diversos serviços ou grupos instituídos nos diferentes departamentos governamentais para o apoio integrado do sector.
 
-##### SUBSECÇÃO IV — Artigo 13.º
+##### SUBSECÇÃO IV
+
+###### Artigo 13.º
 
 Centro de Documentação, Organização e Informática
 
@@ -466,7 +586,9 @@ c) Secção de Expediente;
 
 d) Secção de Apoio à Direcção Regional do Comércio, Indústria e Energia.
 
-###### Artigo 15.º — Secção de Pessoal
+###### Artigo 15.º
+
+#### Secção de Pessoal
 
 Compete à Secção de Pessoal:
 
@@ -480,7 +602,9 @@ d) Organizar e manter actualizado o cadastro e registo do pessoal;
 
 e) Propor acções de formação profissional do respectivo pessoal.
 
-###### Artigo 16.º — Secção de Contabilidade e Património
+###### Artigo 16.º
+
+#### Secção de Contabilidade e Património
 
 Compete à Secção de Contabilidade e Património:
 
@@ -504,7 +628,9 @@ i) Assegurar a gestão de stocks;
 
 j) Garantir a conservação e limpeza de edifícios e outras instalações, bem como a manutenção e conservação eficiente dos equipamentos e redes de comunicações internas.
 
-###### Artigo 17.º — Secção de Expediente
+###### Artigo 17.º
+
+#### Secção de Expediente
 
 Compete à Secção de Expediente:
 
@@ -522,7 +648,9 @@ f) Promover a aplicação das técnicas de simplificação dos circuitos adminis
 
 g) Dirigir o pessoal auxiliar, assegurando a organização do respectivo trabalho.
 
-###### Artigo 18.º — Secção de Apoio à Direcção Regional do Comércio, Indústria e Energia
+###### Artigo 18.º
+
+#### Secção de Apoio à Direcção Regional do Comércio, Indústria e Energia
 
 Compete à Secção de Apoio à Direcção Regional do Comércio, Indústria e Energia:
 
@@ -644,7 +772,9 @@ j) Difundir junto dos consumidores dados com interesse para estes, designadament
 
 l) Informar os consumidores sobre o exercício dos seus direitos e deveres, nomeadamente sobre legislação em vigor neste campo.
 
-###### Artigo 23.º — Divisão do Comércio Interno e Externo
+###### Artigo 23.º
+
+##### Divisão do Comércio Interno e Externo
 
 Compete à Divisão do Comércio Interno e Externo:
 
@@ -672,7 +802,9 @@ l) Organizar, tratar e encaminhar as reclamações dos consumidores no âmbito d
 
 m) Promover e realizar acções de educação e formação.
 
-###### Artigo 24.º — Divisão de Concorrência e Preços
+###### Artigo 24.º
+
+##### Divisão de Concorrência e Preços
 
 Compete à Divisão de Concorrência e Preços:
 
@@ -716,7 +848,9 @@ j) Proceder, no exercício das suas competências de fiscalização e nos termos
 
 l) Elaborar estudos necessários ao desenvolvimento do sector industrial.
 
-###### Artigo 26.º — Divisão de Modernização Industrial
+###### Artigo 26.º
+
+##### Divisão de Modernização Industrial
 
 Compete à Divisão de Modernização Industrial:
 
@@ -734,7 +868,9 @@ f) Participar na concepção e elaboração de programas operacionais de apoio �
 
 g) Instruir e informar sobre os técnicos responsáveis pelo projecto, instalação e laboração dos estabelecimentos industriais.
 
-###### Artigo 27.º — Divisão de Recursos Geológicos
+###### Artigo 27.º
+
+##### Divisão de Recursos Geológicos
 
 Compete à Divisão de Recursos Geológicos:
 
@@ -752,7 +888,9 @@ f) Colaborar no planeamento das acções relativas ao aproveitamento dos recurso
 
 g) Informar sobre todos os aspectos técnico-legais relativos ao exercício da actividade.
 
-###### Artigo 28.º — Divisão de Qualidade
+###### Artigo 28.º
+
+##### Divisão de Qualidade
 
 Compete à Divisão de Qualidade:
 
@@ -788,7 +926,9 @@ f) Promover a difusão de informação junto aos utilizadores de energia, design
 
 g) Promover a elaboração de estudos, designadamente os que respeitam ao impacte do factor «energia» nos diferentes processos produtivos.
 
-###### Artigo 30.º — Divisão de Energia Eléctrica
+###### Artigo 30.º
+
+##### Divisão de Energia Eléctrica
 
 Compete à Divisão de Energia Eléctrica:
 
@@ -806,7 +946,9 @@ f) Controlar o cumprimento das obrigações a que se encontrem sujeitos os conce
 
 g) Apreciar e informar os requerimentos e reclamações relativos a instalações eléctricas.
 
-###### Artigo 31.º — Divisão de Combustíveis
+###### Artigo 31.º
+
+##### Divisão de Combustíveis
 
 Compete à Divisão de Combustíveis:
 
@@ -856,9 +998,9 @@ A Direcção Regional do Turismo compreende os seguintes serviços:
 
 a) De apoio instrumental:
 
-#### Secção de Contabilidade e Património;
+Secção de Contabilidade e Património;
 
-#### Secção de Pessoal, Expediente e Arquivo;
+Secção de Pessoal, Expediente e Arquivo;
 
 b) De carácter operativo:
 
@@ -868,7 +1010,9 @@ Direcção de Serviços de Informação, Animação e Promoção Turísticas;
 
 Inspecção de Turismo.
 
-###### Artigo 35.º — Secção de Contabilidade e Património
+###### Artigo 35.º
+
+#### Secção de Contabilidade e Património
 
 Compete à Secção de Contabilidade e Património da Direcção Regional do Turismo:
 
@@ -892,7 +1036,9 @@ i) Assegurar a gestão de stocks;
 
 j) Garantir a conservação e limpeza de edifícios e outras instalações, bem como a manutenção e conservação eficiente dos equipamentos e redes de comunicações interna.
 
-###### Artigo 36.º — Secção de Expediente, Arquivo e Pessoal
+###### Artigo 36.º
+
+#### Secção de Expediente, Arquivo e Pessoal
 
 Compete à Secção de Expediente, Arquivo e Pessoal da Direcção Regional do Turismo:
 
@@ -928,7 +1074,9 @@ a) Divisão de Equipamento e Actividades Turísticas;
 
 b) Divisão de Ordenamento e Licenciamento de Instalações Turísticas.
 
-###### Artigo 39.º — Divisão de Equipamento e Actividades Turísticas
+###### Artigo 39.º
+
+##### Divisão de Equipamento e Actividades Turísticas
 
 À Divisão de Equipamento e Actividades Turísticas compete:
 
@@ -954,7 +1102,9 @@ j) Coordenar estudos e preparar legislação com interesse e incidência no sect
 
 l) Assegurar a execução e acompanhamento das acções, projectos e programas comunitários na área do turismo.
 
-###### Artigo 40.º — Divisão de Ordenamento e Licenciamento de Instalações Turísticas
+###### Artigo 40.º
+
+##### Divisão de Ordenamento e Licenciamento de Instalações Turísticas
 
 À Divisão de Ordenamento e Licenciamento de Instalações Turísticas compete:
 
@@ -1152,7 +1302,9 @@ n) Aplicar as normas legais respeitantes ao acesso e exercício da actividade de
 
 o) Executar as demais acções que superiormente lhe sejam cometidas.
 
-###### Artigo 46.º — Divisão dos Transportes Aéreos e Comunicações
+###### Artigo 46.º
+
+##### Divisão dos Transportes Aéreos e Comunicações
 
 Compete à Divisão dos Transportes Aéreos e Comunicações:
 
@@ -1180,7 +1332,9 @@ i) Executar as demais acções que superiormente lhe sejam atribuídas.
 
 O Centro Regional de Apoio ao Artesanato rege-se pela legislação própria, designadamente o [Decreto Regulamentar Regional n.º 74/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/74-1988-356730).
 
-#### SECÇÃO III — Artigo 48.º
+#### SECÇÃO III
+
+###### Artigo 48.º
 
 Serviços externos
 
@@ -1302,7 +1456,9 @@ g) Apoiar e coordenar a actividade dos postos de turismo que estejam na sua depe
 
 4 - Os postos de turismo poderão funcionar somente em períodos e horários considerados de interesse para a zona de actuação do posto.
 
-#### SECÇÃO IV — Artigo 54.º
+#### SECÇÃO IV
+
+###### Artigo 54.º
 
 Inspecção Regional das Actividades Económicas
 
@@ -1322,7 +1478,9 @@ d) Coadjuvar as entidades judiciárias nos termos do disposto no Código de Proc
 
 A Comissão de Aplicação de Coimas em Matéria Económica é a autoridade administrativa com competência para a aplicação de coimas e sanções acessórias às contra-ordenações previstas pela legislação aplicável neste âmbito, bem como as demais funções conferidas por lei.
 
-### CAPÍTULO III — Artigo 56.º
+### CAPÍTULO III
+
+###### Artigo 56.º
 
 Pessoal
 

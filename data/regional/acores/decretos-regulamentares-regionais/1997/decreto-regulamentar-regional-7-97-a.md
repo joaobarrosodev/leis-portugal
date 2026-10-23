@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/066b00/12671268.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/1997/03/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1997-517438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1effc2734b8b042a262acd0a05904f2c0a9667ccc45f005b0f600926966d816
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcf4961819f119755b5b34bf04177e3c9654508b3f095f34dc2682f577ffb007
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal não Docente
-- Estabelecimento de Ensino
-- Ensino Básico
-- Quadro de Pessoal
 - Açores
+- Ensino Básico
+- Estabelecimento de Ensino
+- Pessoal não Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:580666:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:659766:por
+  label: "Alterado o quadro de vinculação de pessoal constante do anexo I pelo DRR.24/97/A.20.08.1997.PG-RAA, DR.IS-B [221]\
+    \ de 24.09.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-1997-659766
+  date: '1997-08-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/14/1996/03/11/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/14/1996/03/11/a/dre
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533067:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:580666:por
+  label: "Revogado pelo DRR.14/99/A.1999.08.19.SREAS-RAA,DR.IS-B [207] de 04/Set/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1999-580666
+  date: '1999-08-19'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:53Z'
   warnings: []
   errors: []
 ---
@@ -112,14 +131,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 17 de Janeiro de 1997.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 24 de Fevereiro de 1997.**
+Assinado em Angra do Heroísmo em 24 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Quadro de vinculação dos estabelecimentos dos 2.º e 3.º ciclos do ensino básico e do ensino secundário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/03/066b00/12671268.pdf))](https://files.diariodarepublica.pt/1s/1997/03/066b00/12671268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/03/066b00/12671268.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/150/2009/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/150-2009-601495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 507a519ea8702788788a0a84d48d9b11a0a898960d0a54f119e78e308de5d3ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e87ac9c26176b289a8c5d8660daaef0d3846a398d0b4cf92236410ab9ec2f564
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Pilotagem
-- Instituto Portuário e dos Transportes Marítimos
 - Certificado de Isenção de Pilotagem
+- Instituto Portuário e dos Transportes Marítimos
+- Pilotagem
 - TAXA de Pilotagem
 relationships:
 - type: amended_by
   target: pt:dre:176050:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176050:por
+  label: "Altera o art. 2.º da Port 434/2002, de 22-abril, na redação da presente Portaria, pela PORT.288/2012.21.09.2012.MAMAOT,\
+    \ DR.IS [184] de 21.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2012-176050
+  date: '2012-09-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/48/2002/03/02/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/434/2002/04/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/434/2002/04/22/p/dre
+- type: cites
+  target: pt:dre:251980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288631:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:27Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +134,4 @@ Considerando a necessidade de se definirem regras para a aplicação aos portos 
 
 A presente portaria entra em vigor no dia seguinte à data da sua publicação.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 30 de Janeiro de 2009.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 30 de Janeiro de 2009.

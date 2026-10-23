@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/1992/04/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1992-189079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dadccf4731805aab8e6a080506fa9ed4c325c8092946f3879d5f24b4e51f16d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e96fd6701c3c80613c518e6072cc9b49c3d060dc34791919baf204b7b14f9818
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Higiene do Trabalho
-- Direcção Regional de Saúde
-- Segurança no Trabalho
-- Fiscalização
-- Regulamento Geral de Higiene Segurança do Trabalho nos Estabelecimentos Comerciais
-- Inspecção Regional do Trabalho
-- Secretário Regional da Juventude e Recursos Humanos
 - Açores
-relationships: []
+- Direcção Regional de Saúde
+- Fiscalização
+- Higiene do Trabalho
+- Inspecção Regional do Trabalho
+- Regulamento Geral de Higiene Segurança do Trabalho nos Estabelecimentos Comerciais
+- Secretário Regional da Juventude e Recursos Humanos
+- Segurança no Trabalho
+relationships:
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219080:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:09Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +115,9 @@ Nestes termos:
 
 A Assembleia Legislativa Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição da República e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º Na aplicação do [Decreto-Lei n.º 243/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1986-219080), de 20 de Agosto, à Região Autónoma dos Açores ter-se-á em conta o disposto no artigo seguinte.
+Artigo 1.º Na aplicação do [Decreto-Lei n.º 243/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1986-219080), de 20 de Agosto, à Região Autónoma dos Açores ter-se-á em conta o disposto no artigo seguinte.
 
-###### Art. 2.º Os artigos 51.º, 52.º e 53.º do Regulamento Geral de Higiene e Segurança do Trabalho nos Estabelecimentos Comerciais, de Escritório e Serviços, aprovado pelo [Decreto-Lei n.º 243/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1986-219080), de 20 de Agosto, passam a conter as seguintes adaptações de carácter institucional e orgânico:
+Art. 2.º Os artigos 51.º, 52.º e 53.º do Regulamento Geral de Higiene e Segurança do Trabalho nos Estabelecimentos Comerciais, de Escritório e Serviços, aprovado pelo [Decreto-Lei n.º 243/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1986-219080), de 20 de Agosto, passam a conter as seguintes adaptações de carácter institucional e orgânico:
 
 ###### Artigo 51.º — Entidade fiscalizadora
 
@@ -125,14 +137,14 @@ A fiscalização do cumprimento das disposições deste Regulamento compete, con
 
 2 - ...
 
-###### Art. 3.º A aplicação do Regulamento aos serviços da Administração Pública Regional far-se-á por despacho conjunto do Secretário Regional da Administração Interna, do Secretário Regional da Juventude e Recursos Humanos e do secretário regional da tutela.
+Art. 3.º A aplicação do Regulamento aos serviços da Administração Pública Regional far-se-á por despacho conjunto do Secretário Regional da Administração Interna, do Secretário Regional da Juventude e Recursos Humanos e do secretário regional da tutela.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 30 de Janeiro de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 24 de Fevereiro de 1992.**
+Assinado em Angra do Heroísmo em 24 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

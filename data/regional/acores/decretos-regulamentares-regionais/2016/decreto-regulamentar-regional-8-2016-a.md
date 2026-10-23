@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2016/07/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2016-75049342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e038437c37c8efa60e99f5c0f8302d6ebc68eaccc44bee876cd7125eb3b1b3d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 444d806219648a88fc6e2937c7242e192752bd82374ef702f764c0a64960abd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Avaliação do Pessoal
 - Comissão de Acompanhamento
 - Definição de Competências
 - Pessoal Docente
 - Regime Jurídico
-- Avaliação do Pessoal
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/11/2009/07/21/a/dre
@@ -97,13 +97,13 @@ relationships:
 article_structure:
   article_count: 42
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:23Z'
   warnings: []
   errors: []
 ---
@@ -862,11 +862,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado em Conselho do Governo Regional, nas Velas, em 31 de maio de 2016.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 22 de julho de 2016.**
+Assinado em Angra do Heroísmo em 22 de julho de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -874,23 +874,23 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 (a que se refere o n.º 6 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
 
 ## ANEXO II — Descritores indicativos do desempenho de Bom, para a avaliação das aulas observadas
 
 (a que se refere o n.º 6 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
 
 ## ANEXO III — (a que se refere o n.º 19 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
 
 ## ANEXO IV — Lista de competências
 
 (a que se refere o n.º 2 do artigo 23.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
 
 ## ANEXO V — Avaliação do desempenho do órgão executivo
 
@@ -898,7 +898,7 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Ficha de Avaliação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
 
 ## ANEXO VI — Avaliação do desempenho do órgão executivo
 
@@ -906,4 +906,4 @@ Ficha de Avaliação
 
 Ficha de Autoavaliação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf))](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/14400/0246502480.pdf)

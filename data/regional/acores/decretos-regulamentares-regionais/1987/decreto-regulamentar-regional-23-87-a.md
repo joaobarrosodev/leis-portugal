@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1987-417202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c15b6c94f1cd8875b38150280ec3eb862533b3a66a12403595ff7a54d0c2390
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e46b976aa143f8f3e81cc5188470c1c8b951a97e0fcb1f90fc34634821352e58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Reestruturação de Carreiras
+- Tesoureiro
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:51Z'
   warnings: []
   errors: []
 ---
@@ -89,18 +92,18 @@ Considerando que com a aplicação à administração regional da carreira de te
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os oficiais administrativos que exerçam funções de tesoureiros nos Hospitais de Angra do Heroísmo e da Horta são reclassificados na carreira de tesoureiro, de acordo com as regras constantes dos artigos seguintes.
+Artigo 1.º Os oficiais administrativos que exerçam funções de tesoureiros nos Hospitais de Angra do Heroísmo e da Horta são reclassificados na carreira de tesoureiro, de acordo com as regras constantes dos artigos seguintes.
 
-###### Art. 2.º São reclassificados nas categorias de tesoureiro de 2.ª classe, de 1.ª classe ou principal os oficiais administrativos que exerçam funções de tesoureiro, respectivamente, há menos de cinco anos, mais de cinco e menos de dez ou mais de dez.
+Art. 2.º São reclassificados nas categorias de tesoureiro de 2.ª classe, de 1.ª classe ou principal os oficiais administrativos que exerçam funções de tesoureiro, respectivamente, há menos de cinco anos, mais de cinco e menos de dez ou mais de dez.
 
-###### Art. 3.º As reclassificações far-se-ão por diploma individual de provimento e estão sujeitas a visto da Secção Regional do Tribunal de Contas.
+Art. 3.º As reclassificações far-se-ão por diploma individual de provimento e estão sujeitas a visto da Secção Regional do Tribunal de Contas.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 8 de Maio de 1987.
 
-**O Presidente do Governo Regional, João Bosco Moto Amaral.**
+O Presidente do Governo Regional, João Bosco Moto Amaral.
 
-**Assinado em Angra do Heroísmo em 8 de Julho de 1987.**
+Assinado em Angra do Heroísmo em 8 de Julho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

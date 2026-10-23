@@ -47,40 +47,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-1986-221083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e92c3420bb2e4bbc394ed9fe4adceaf8972e5a81ef4cc8df4d44986402f47266
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07fed315200227d36d44e3bf601e4283cebba4f1a6348e4ea2eb21168cba44da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Quadro de Pessoal
+- Universidade dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:228421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567707:por
+  label: "Alterado o quadro de pessoal, pela PORT.7/92.1992.01.09.MR-RAA, DR.IS-B [7]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/7-1992-567707
+  date: '1992-01-09'
+- type: amended_by
+  target: pt:dre:212597:por
+  label: "Substituído, na parte relativa às carreiras do grupo de pessoal técnico-profissional, das áreas funcionais de biblioteca,\
+    \ documentação e arquivo, o quadro de pessoal, pela PORT.536/96.1996.10.02.PCM, DR.IS-B [229]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/536-1996-212597
+  date: '1996-10-02'
+- type: amended_by
+  target: pt:dre:228421:por
+  label: "Substituído, na parte relativa ao grupo de pessoal de informática, o quadro de pessoal não docente, pela PORT.577/96.1996.10.16.PCM,\
+    \ DR.IS-B [240]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/577-1996-228421
+  date: '1996-10-16'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660287:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:43Z'
   warnings: []
   errors: []
 ---
@@ -157,14 +225,14 @@ Os agentes vinculados à Universidade dos Açores, à data da publicação do pr
 
 Aprovado em Conselho do Governo Regional, em Madalena do Pico, em 11 de Setembro de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 21 de Outubro de 1986.**
+Assinado em Angra do Heroísmo em 21 de Outubro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.
 
 Mapa anexo a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/25600/33523354.pdf))](https://files.diariodarepublica.pt/1s/1986/11/25600/33523354.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/25600/33523354.pdf)

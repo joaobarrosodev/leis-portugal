@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 130/2008, 1º Suplemento, Série I de 2008-07-08
   number: '130'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4264-(7) a 4264-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13001/0000700014.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/596-c/2008/07/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/596-c-2008-408479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1be1ed88687e9211b957952d8faa26448adfcb441c26c86777533f5fb7016cc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 361a59854f7afd336ce64012c335eac4ef2a6c65d116e7b0fa3a46c089665e89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
+- Apoio ao Investimento
+- ÁREA Geográfica
+- Beneficiário
+- Contrato de Financiamento
+- Desenvolvimento Rural
+- Financiamento
 - Proder
 - Programa de Desenvolvimento Rural
-- ÁREA Geográfica
-- Financiamento
-- Beneficiário
-- Silvicultura
-- Desenvolvimento Rural
-- Contrato de Financiamento
-- Apoio ao Investimento
 - Projeto de Investimento
 - Região Rural
 - Regulamento
 - Regulamento de Aplicação dos Investimentos não Produtivos da Medida 2.4-intervenções Territoriais Integradas
-- Agricultura
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:175279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342801:por
+  label: "Alterados os arts. 1º, 4º, 7º, 8º, 9º, 10º, 11º, 12º, 13º, 14º, 15º, 18º, 19º e 21º e os anexos I e II e revogada\
+    \ a al. c) do art. 7º, o nº6 do art. 18º e o art. 23º do Regulamento, aprovado pelo presente diploma, pela PORT.1048/2010.11.10.2010.MADRP,\
+    \ DR.IS [197] de 11.10.2010, que procede à republicação do Regulamento\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1048-2010-342801
+  date: '2010-10-11'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 8.º, 19.º, 21.º ( os três na redacção da Port. 1048/2010, de 11-Out ) e 22.º do Regulamento de\
+    \ Aplicação dos Investimentos não Produtivos da Medida n.º 2.4, «Intervenções Territoriais Integradas», aprovado pelo\
+    \ presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:175279:por
+  label: "Alterado o anexo I (na redação da Port 1048/2010, de 11-out e da Decl-Rect 35/2010, de 10-dez), bem como revogada\
+    \ a al. f) do nº 1 do art. 7º, o 2º travessão da segunda tipologia de investimentos referente à ação 2.4.12 e o 2º travessão\
+    \ da segunda tipologia de investimentos referente à ação 2.4.13 do anexo I do Regulamento de Aplicação dos Investimentos\
+    \ Não Produtivos da Medida 2.4 «Intervenções Territoriais Integradas» aprovado pelo presente diploma, pela PORT.236/2012.08.08.2012.MAMAOT,\
+    \ DR.IS [153] de 08.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2012-175279
+  date: '2012-08-08'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -94,16 +117,28 @@ relationships:
   target: celex:32006R1975
   label: null
   source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: corrected_by
+  target: pt:dre:306891:por
+  label: "Rectificado o art.1º da Port 1048/2010, de 11-Out, na parte que altera o anexo i - acções 2.4.12 e 2.4.13 - do Regulamento\
+    \ aprovado pela presente portaria, pela DECL-RECT.35/2010.10.12.2010.PCM, DR.IS [238] de 10.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/35-2010-306891
+  date: '2010-12-10'
+- type: repealed_by
+  target: pt:dre:343948:por
+  label: "Revogada a al. b) do art. 6º do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP,\
+    \ DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
 article_structure:
   article_count: 26
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:17Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +173,7 @@ O Regulamento referido no artigo 1.º contém os seguintes anexos, que dele faze
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 7 de Julho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 7 de Julho de 2008.
 
 ## ANEXO
 
@@ -396,7 +431,7 @@ b) As respectivas operações não estejam concluídas antes da data da aprovaç
 
 [a que se refere a alínea b) do n.º 1 do artigo 7.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13001/0000700014.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13001/0000700014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13001/0000700014.pdf)
 
 ## ANEXO II — Despesas elegíveis e não elegíveis
 

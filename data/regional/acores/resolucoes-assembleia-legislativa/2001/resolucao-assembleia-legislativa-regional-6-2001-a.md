@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/6/2001/03/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/6-2001-373818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb0245d9cd6a288128c7dd2cffdd429083e591768cb9af7cf3b30e5b755e9569
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23f53e7a2c57bee31f071fbd3d283c00d75c06e965b348913ed1e566a51b10a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Comissão Eventual para a Revisão do Sistema Eleitoral da Região Autónoma dos Açores
-- Comissão
-- Sistema Eleitoral
 - Açores
+- Comissão
+- Comissão Eventual para a Revisão do Sistema Eleitoral da Região Autónoma dos Açores
+- Região Autónoma
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:197503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:158625:por
+  label: "Alterado o art. 5.º pela RES.4/2002/A.2002.03.19.ALR-RAA DR.IS-B [117] DE 21/MAI/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regional/4-2002-158625
+  date: '2002-03-19'
+- type: amended_by
+  target: pt:dre:197503:por
+  label: "Mantida em funções a Comissão pela RES.9/2002/A.2002.06.13.ALR-RAA DR.IS-B [171] de 26/Jul/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regional/9-2002-197503
+  date: '2002-06-13'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:43Z'
   warnings: []
   errors: []
 ---
@@ -129,4 +139,4 @@ No prazo de um ano a contar da data da sua constituição, a Comissão apresenta
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 25 de Janeiro de 2001.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Fernando Manuel Machado de Menezes.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Fernando Manuel Machado de Menezes.

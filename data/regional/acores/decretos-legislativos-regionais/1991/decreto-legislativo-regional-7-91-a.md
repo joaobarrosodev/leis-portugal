@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/099a00/23782379.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/1991/04/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1991-596880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c7d5a8f835caed7748ca521b2549264d21ffe5f462e7c452cff4f5de39a6117
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 696867c78ac316bedcb6b45a9b70dcffad4e84babd88ed89c10d6c96b6413740
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Direcção Regional do Ambiente
 - Direcção Regional dos Recursos Florestais
-- Proteção do Ambiente
 - Exploração Florestal
-- Açores
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:179523:por
@@ -85,16 +85,21 @@ relationships:
   target: celex:31989R1613
   label: null
   source: http://data.europa.eu/eli/reg/1989/1613/oj
+- type: repealed_by
+  target: pt:dre:179523:por
+  label: "Revogado pelo DLR.32/2012/A.13.07.2012.AL-RAA, DR.IS [135] de 13.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/32-2012-179523
+  date: '2012-07-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:08Z'
   warnings: []
   errors: []
 ---
@@ -109,18 +114,18 @@ Considerando, por outro lado, o Decreto-Lei n.º 464/88, de 15 de Dezembro, que 
 
 Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º As competências atribuídas, bem como as referências feitas, pelo Decreto-Lei n.º 464/88, de 15 de Dezembro, à Direcção-Geral das Florestas e à Direcção-Geral da Qualidade do Ambiente serão exercidas, e consideram-se reportadas, nesta Região Autónoma, à Direcção Regional dos Recursos Florestais e Direcção Regional de Ambiente, respectivamente da Secretaria Regional da Agricultura e Pescas e da Secretaria Regional do Turismo e Ambiente.
+Artigo 1.º As competências atribuídas, bem como as referências feitas, pelo Decreto-Lei n.º 464/88, de 15 de Dezembro, à Direcção-Geral das Florestas e à Direcção-Geral da Qualidade do Ambiente serão exercidas, e consideram-se reportadas, nesta Região Autónoma, à Direcção Regional dos Recursos Florestais e Direcção Regional de Ambiente, respectivamente da Secretaria Regional da Agricultura e Pescas e da Secretaria Regional do Turismo e Ambiente.
 
-###### Art. 2.º A Direcção Regional dos Recursos Florestais deve manter com a Direcção-Geral das Florestas os contactos necessários à prossecução dos objectivos do regulamento comunitário.
+Art. 2.º A Direcção Regional dos Recursos Florestais deve manter com a Direcção-Geral das Florestas os contactos necessários à prossecução dos objectivos do regulamento comunitário.
 
-###### Art. 3.º Os reembolsos referentes à contribuição financeira da Comunidade serão efectuados nos termos dos n.os 4 e 5 do artigo 20.º do Decreto-Lei n.º 96/87, de 4 de Março.
+Art. 3.º Os reembolsos referentes à contribuição financeira da Comunidade serão efectuados nos termos dos n.os 4 e 5 do artigo 20.º do Decreto-Lei n.º 96/87, de 4 de Março.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 14 de Março de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 9 de Abril de 1991.**
+Assinado em Angra do Heroísmo em 9 de Abril de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

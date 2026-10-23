@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/3/2005/01/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/3-2005-625791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5f1324313f4f271d5dbdfba2f3b3728431bf2392d1b635af184a89cb7a36561
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c27420dc48c7c60031d07a282bdada12ac4ac901c28e6c600019309bb354acab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,76 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Base das Lajes
-- EUA
 - Comissão de Análise
 - Convenção
 - Cooperação Bilateral
 - Cooperação Técnica
+- EUA
 - Portugal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:456571:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584196:por
+  label: "Prorrogado por oito meses o prazo previsto no art. 6º do presente diploma pela RES.11/2005/A.19.10.2005.AL-RAA,\
+    \ DR.IS-B [218] de 14.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-acores/11-2005-584196
+  date: '2005-10-19'
+- type: amended_by
+  target: pt:dre:540385:por
+  label: "Prorrogado até 31 de Dezembro de 2006, o prazo previsto no art. 6º do presente diploma, pela Res.10/2006/A.30.06.2006.AL-RAA,\
+    \ DR.IS [167] de 30.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-acores/10-2006-540385
+  date: '2006-06-30'
+- type: amended_by
+  target: pt:dre:262328:por
+  label: "Prorrogado, até 31 de Maio de 2007, o prazo previsto no artigo 6.º do presente diploma, pela RES.1/2007/A.23.11.2006.AL-RAA,\
+    \ DR.IS [4] de 05.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-acores/1-2007-262328
+  date: '2006-11-23'
+- type: amended_by
+  target: pt:dre:635849:por
+  label: "Prorrogado até 31.12.2007 o prazo de apresentação do relatório previsto no art. 6º pela RES.13/2007/A.24.05.2007.AL-RAA,\
+    \ DR.IS [121] de 26.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-acores/13-2007-635849
+  date: '2007-05-24'
+- type: amended_by
+  target: pt:dre:627674:por
+  label: "Prorrogado até 30.04.2008 o prazo de apresentação do relatório da Comissão Eventual pela RES.22/2007/A.17.12.2007.AL-RAA,\
+    \ DR.IS [242] de 17.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-acores/22-2007-627674
+  date: '2007-12-17'
+- type: amended_by
+  target: pt:dre:249785:por
+  label: "Prorrogado até 30.06.2008, o prazo de apresentação do relatório previsto no art. 6º, pela RES.7/2008/A.07.05.2008.AL-RAA,\
+    \ DR.IS [88] de 07.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-acores/7-2008-249785
+  date: '2008-05-07'
+- type: amended_by
+  target: pt:dre:456571:por
+  label: "Prorrogado até 30.09.2008, o prazo de apresentação do relatório previsto no art. 6º, pela RES.15/2008/A.18.07.2008.AL-RAA,\
+    \ DR.IS [138] de 18.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-acores/15-2008-456571
+  date: '2008-07-18'
+- type: corrected_by
+  target: pt:dre:578554:por
+  label: "Rectificada pela DECL-RECT.21/2005.11.03.2005.PCM, DR.IS-B [56] de 21.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/21-2005-578554
+  date: '2005-03-11'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:59Z'
   warnings: []
   errors: []
 ---
@@ -153,4 +200,4 @@ No prazo de 10 meses a contar da sua constituição, a Comissão apresentará ao
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 11 de Dezembro de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/11/21900/78407842.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/31/2006/11/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-2006-545851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08d0448d09e78abc2d0dbae78e2e5d46f7c00ec30a135aff66e0b8a9643ec9b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e09a34717c549ed255ec2aeb028a9d8486beadbe28164a16c118d31f2d9d314d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Director Municipal
+- Açores
 - Medidas Preventivas
 - Plano de Pormenor
 - Plano de Urbanização
+- Plano Director Municipal
 - Ponta Delgada
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:132431980:por
@@ -93,16 +93,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/24/2003/05/12/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/24/2003/05/12/a/dre
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:132431980:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-132431980
+  date: '2020-04-24'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:16Z'
   warnings: []
   errors: []
 ---
@@ -135,11 +156,11 @@ Nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição, da alíne
 
 Aprovado em Conselho do Governo Regional, em Vila Nova do Corvo, em 4 de Outubro de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 27 de Outubro de 2006.**
+Assinado em Angra do Heroísmo em 27 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -179,12 +200,12 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Plano de Pormenor do Parque Empresarial de Ponta Delgada - Âmbito territorial das medidas preventivas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/21900/78407842.pdf))](https://files.diariodarepublica.pt/1s/2006/11/21900/78407842.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/21900/78407842.pdf)
 
 ## ANEXO II — Delimitação da suspensão do Plano Director Municipal de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/21900/78407842.pdf))](https://files.diariodarepublica.pt/1s/2006/11/21900/78407842.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/21900/78407842.pdf)
 
 ## ANEXO III — Delimitação da suspensão parcial do Plano de Urbanização de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/11/21900/78407842.pdf))](https://files.diariodarepublica.pt/1s/2006/11/21900/78407842.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/11/21900/78407842.pdf)

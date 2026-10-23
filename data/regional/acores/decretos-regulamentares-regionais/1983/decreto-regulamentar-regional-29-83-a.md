@@ -46,36 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1983-453211
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ed6de54a8cb250a4172541c8c46c32238bf5aecf5a19190b0ca3872f8232aeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e699e15fa0e9ab86a29cc92b95116ab6df36d89b697c06a6db88723df24c81c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+relationships:
+- type: cites
+  target: pt:dre:138293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:59Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +176,7 @@ MAPA I
 
 Síntese do orçamento da Região Autónoma da Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 II - Execução do orçamento da Região Autónoma dos Açores no período de Janeiro a Junho de 1982.
 
@@ -200,7 +218,7 @@ Receitas cobradas
 
 (De Janeiro a Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 Execução orçamental
 
@@ -210,7 +228,7 @@ Despesas correntes
 
 (Classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 Execução orçamental
 
@@ -220,7 +238,7 @@ Despesas de capital
 
 (Classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 Execução o orçamental
 
@@ -230,7 +248,7 @@ Despesas do plano
 
 (Classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 Execução orçamental
 
@@ -240,7 +258,7 @@ Despesa total
 
 (Classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 III - Previsão de receitas
 
@@ -292,7 +310,7 @@ Por fim, salienta-se que na rubrica «Transferências de capital» foi prevista 
 
 Receitas a orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 IV - Previsão de despesas
 
@@ -338,19 +356,19 @@ Analisando as despesas do plano segundo as suas finalidades, verifica-se que as 
 
 Despesas correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 Despesas de capital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 Despesas do plano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 Despesa total
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 V - Financiamento do défice
 
@@ -584,7 +602,7 @@ Os contratos de arrendamento de imóveis para instalação de serviços e organi
 
 ###### ARTIGO 22.º — (Resolução de dúvidas)
 
-**O Secretário Regional das Finanças emitirá os regulamentos que se mostrem necessários à execução do presente diploma e resolverá as dúvidas que se suscitarem na sua aplicação.**
+O Secretário Regional das Finanças emitirá os regulamentos que se mostrem necessários à execução do presente diploma e resolverá as dúvidas que se suscitarem na sua aplicação.
 
 ###### ARTIGO 23.º — (Entrada em vigor)
 
@@ -592,18 +610,18 @@ O presente diploma entra em vigor em 1 de Janeiro de 1983.
 
 Aprovado em Conselho do Governo Regional em 20 de Dezembro de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 24 de Maio de 1983.**
+Assinado em Angra do Heroísmo em 24 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 ## ANEXO I — Resumo da receita por capítulo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
 
 ## ANEXO II — Resumo das despesas por secretarias regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf))](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/15400/24582472.pdf)

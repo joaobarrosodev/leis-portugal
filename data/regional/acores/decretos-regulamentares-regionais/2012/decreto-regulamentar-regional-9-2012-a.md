@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06200/0148901493.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2012/03/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2012-553955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c6e71b2dbc31658908c2c8a7fef9a0c3005f0eb9cc632ce9833fc67aef73bdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fd12cdc6e61e91061b5dc944b47a7ae2ea4324d79a48789e1999bf3e9f966cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Coordenador
 - Definição de Competências
+- Inspecção Regional das Actividades Culturais
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Inspecção Regional das Actividades Culturais
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:191142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Determinada a transição, para a dependência do Secretário Regional da Educação, Ciência e Cultura, da Inspeção Regional\
+    \ das Atividades Culturais dos Açores, anteriormente no âmbito da Presidência do Governo Regional. cuja orgânica foi aprovada\
+    \ pelo DRR 16/2001/A de 27-nov, com a última alteração e republicação constante do presente diploma, pelo DRR.24/2012/A.27.11.2012.PG-RAA,\
+    \ DR.IS [229] de 27.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
   label: null
@@ -115,16 +123,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/26/1991/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/26/1991/08/23/p/dre
+- type: cites
+  target: pt:dre:198345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629171:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:06Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +217,9 @@ f) ...
 
 2 - O Núcleo de Inspeção possui um coordenador, designado pelo diretor regional da Cultura de entre os técnicos superiores da área jurídica afetos aos serviços da Direção Regional da Cultura, a quem compete, para além da coordenação geral do trabalho do Núcleo de Inspeção e dos delegados municipais, substituir o inspetor regional das Atividades Culturais nas suas faltas ou impedimentos e exercer outras funções e competências que lhe forem delegadas, auferindo o vencimento correspondente à posição remuneratória do segundo nível remuneratório superior ao que detém nas respetivas carreira e categoria.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O pessoal afeto à IRACA consta dos quadros regionais de ilha, aprovados pelo [Decreto Regulamentar Regional n.º 24/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2007-629171), de 7 de novembro, alterado pelo [Decreto Regulamentar Regional n.º 23/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2008-439844), de 18 de novembro.
 
@@ -185,11 +239,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 28 de outubro de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 12 de março de 2012.**
+Assinado em Angra do Heroísmo em 12 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -197,7 +251,7 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Mapa a que se refere o artigo 11.º, n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06200/0148901493.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06200/0148901493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06200/0148901493.pdf)
 
 ## ANEXO II — [Decreto Regulamentar Regional n.º 16/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2001-568553), de 27 de novembro
 
@@ -383,4 +437,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — Mapa a que se refere o artigo 11.º, n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06200/0148901493.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06200/0148901493.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/03/06200/0148901493.pdf)

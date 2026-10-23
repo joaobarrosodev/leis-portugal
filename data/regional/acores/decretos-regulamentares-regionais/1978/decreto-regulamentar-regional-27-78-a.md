@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1978, 12º Suplemento, Série I de 1978-12-30
   number: '299'
   series: I
-  supplement: 12º Suplemento
+  supplement: null
   pages: 2798-(230) a 2798-(240)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf
 entry_into_force_dates: []
@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1978-273998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 019df85f4ffbd529510d09a178a5a063bb7ce4c2c4e7e0802f35675d4658dc61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 972769e7cb5c524249043d3de39676d3add90b08ca8d5cfb141bfa434725396c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+relationships:
+- type: cites
+  target: pt:dre:329860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:49Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +130,7 @@ Não obstante a taxa de crescimento das receitas próprias da Região, as necess
 
 I - Síntese do Orçamento da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
 
 II - Execução do Orçamento da Região Autónoma dos Açores no período de Janeiro a Junho de 1978
 
@@ -144,7 +158,7 @@ Nas transferências para o sector público incluem-se quer os subsídios às aut
 
 Quanto às despesas de capital, para além do que já foi dito, referir-se-á apenas que 197000 contos (87%) correspondem a investimentos, dos quais 191000 contos (85%) a investimentos do Plano e 25000 contos (11%) respeitam a activos financeiros, que na totalidade consubstanciam o empréstimo sem juros concedido à Sociedade Açoriana de Transportes Aéreos - SATA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
 
 III - Receitas
 
@@ -172,7 +186,7 @@ Merece especial referência a recente entrada em vigor do novo regime tabaqueiro
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
 
 IV - Despesas orçamentais
 
@@ -198,15 +212,15 @@ Ainda no domínio das despesas correntes, convém frisar que a expansão notada 
 
 Despesas correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
 
 Despesas de capital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
 
 Despesa total
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
 
 V - Financiamento do «deficit»
 
@@ -230,25 +244,25 @@ Em execução do n.º 1 do artigo 14.º [Decreto Regional n.º 3/78/A](https://d
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea f), da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Orçamento da Região Autónoma dos Açores para 1979, constante dos mapas I e II, os quais fazem parte integrante do presente diploma.
+Artigo 1.º É aprovado o Orçamento da Região Autónoma dos Açores para 1979, constante dos mapas I e II, os quais fazem parte integrante do presente diploma.
 
-###### Art. 2.º A dotação para quadros do funcionalismo regional, departamental e interdepartamental, inscrita no orçamento da Secretaria Regional das Finanças continuará a suportar os encargos com o pessoal que tenha sido recrutado em consequência da estruturação orgânica dos diversos departamentos do Governo Regional, bem como com os funcionários das extintas juntas gerais que aguardam a sua integração nos quadros regionais.
+Art. 2.º A dotação para quadros do funcionalismo regional, departamental e interdepartamental, inscrita no orçamento da Secretaria Regional das Finanças continuará a suportar os encargos com o pessoal que tenha sido recrutado em consequência da estruturação orgânica dos diversos departamentos do Governo Regional, bem como com os funcionários das extintas juntas gerais que aguardam a sua integração nos quadros regionais.
 
-###### Art. 3.º A atribuição de subsídios ou comparticipações às autarquias locais e outras entidades de interesse público para obras, melhoramentos ou outras finalidades constará de programas a aprovar pelo Governo Regional.
+Art. 3.º A atribuição de subsídios ou comparticipações às autarquias locais e outras entidades de interesse público para obras, melhoramentos ou outras finalidades constará de programas a aprovar pelo Governo Regional.
 
-###### Art. 4.º A atribuição de subsídios reembolsáveis a quaisquer entidades carece de parecer prévio do Secretário Regional das Finanças.
+Art. 4.º A atribuição de subsídios reembolsáveis a quaisquer entidades carece de parecer prévio do Secretário Regional das Finanças.
 
-###### Art. 5.º - 1 - O pagamento de despesas de anos anteriores, quer pelo recurso às verbas de despesas de anos económicos findos, quer pelas correspondentes dotações do Orçamento que o presente diploma põe em vigor, só poderá ser efectuado quando as referidas despesas tenham cabimento nas dotações orçamentais ou se trate de despesas que, por força de diploma legal, tenham necessariamente de se verificar, independentemente do cabimento orçamental.
+Art. 5.º - 1 - O pagamento de despesas de anos anteriores, quer pelo recurso às verbas de despesas de anos económicos findos, quer pelas correspondentes dotações do Orçamento que o presente diploma põe em vigor, só poderá ser efectuado quando as referidas despesas tenham cabimento nas dotações orçamentais ou se trate de despesas que, por força de diploma legal, tenham necessariamente de se verificar, independentemente do cabimento orçamental.
 
 2 - O pagamento a que se refere o número anterior será autorizdo, caso por caso, por despacho do Secretário Regional das Finanças, que indicará a dotação por conta da qual deverá ser satisfeita a despesa autorizada.
 
-###### Art. 6.º Os contratos a celebrar no ano em curso que dêem lugar a encargo orçamental em mais de um ano económico, ou em ano que não seja o da sua realização, não podem ser celebrados sem prévia autorização do Secretário Regional das Finanças, conferida em despacho.
+Art. 6.º Os contratos a celebrar no ano em curso que dêem lugar a encargo orçamental em mais de um ano económico, ou em ano que não seja o da sua realização, não podem ser celebrados sem prévia autorização do Secretário Regional das Finanças, conferida em despacho.
 
-###### Art. 7.º - 1 - Na execução do Orçamento da Região Autónoma dos Açores para 1979 os organismos e serviços regionais, autónomos ou não, as autarquias locais e as entidades tuteladas ou subsidiadas pelo Governo Regional dos Açores deverão observar normas de rigorosa economia na administração das verbas atribuídas às respectivas despesas.
+Art. 7.º - 1 - Na execução do Orçamento da Região Autónoma dos Açores para 1979 os organismos e serviços regionais, autónomos ou não, as autarquias locais e as entidades tuteladas ou subsidiadas pelo Governo Regional dos Açores deverão observar normas de rigorosa economia na administração das verbas atribuídas às respectivas despesas.
 
 2 - Os dirigentes dos diferentes departamentos ficarão responsáveis, nos termos das leis em vigor, pela realização das despesas que autorizarem sem inscrição orçamental ou que não se comportem nas correspondentes dotações, bem como as que contrariem a disciplina imposta no presente diploma.
 
-###### Art. 8.º - 1 - Em 1979 não ficam sujeitas à regra geral de duodécimos as seguintes dotações:
+Art. 8.º - 1 - Em 1979 não ficam sujeitas à regra geral de duodécimos as seguintes dotações:
 
 a) De valor até 250000$00;
 
@@ -262,17 +276,17 @@ c) De despesas sujeitas a duplo cabimento ou a reembolso.
 
 4 - Nos organismos e serviços com orçamentos privativos a competência designada no número anterior pertence à entidade que aprovar o respectivo orçamento.
 
-###### Art. 9.º - 1 - Em 1979 as despesas com obras ou com aquisição de bens e serviços a realizar pelos organismos e serviços da Região, incluindo os dotados de autonomia administrativa ou financeira, podem efectuar-se mediante concurso ou ajuste directo e com ou sem contrato escrito.
+Art. 9.º - 1 - Em 1979 as despesas com obras ou com aquisição de bens e serviços a realizar pelos organismos e serviços da Região, incluindo os dotados de autonomia administrativa ou financeira, podem efectuar-se mediante concurso ou ajuste directo e com ou sem contrato escrito.
 
 2 - O concurso pode ser público ou limitado. É público quando possam concorrer todos aqueles que se encontrem nas condições gerais estabelecidas pela legislação aplicável; é limitado quando se realiza apenas entre determinado número de entidades, o qual, em princípio, deverá ser igual ou superior a três.
 
 3 - Sempre que possível, deverá o ajuste directo ser precedido de consulta a três entidades, pelo menos. A consulta é obrigatória para a realização de despesas superiores a 50000$00.
 
-###### Art. 10.º - 1 - As aquisições de bens superiores a 100000$00 estão sujeitas à realização de concurso, que será necessariamente público se a despesa exceder 500000$00, e a celebração de contrato escrito, salvo o disposto no artigo 14.º
+Art. 10.º - 1 - As aquisições de bens superiores a 100000$00 estão sujeitas à realização de concurso, que será necessariamente público se a despesa exceder 500000$00, e a celebração de contrato escrito, salvo o disposto no artigo 14.º
 
 2 - Quanto a obras, os valores mencionados no número anterior serão de 500000$00 e 2500000$00.
 
-###### Art. 11.º Pode ser dispensada a realização de concurso, público ou limitado, quando, designadamente:
+Art. 11.º Pode ser dispensada a realização de concurso, público ou limitado, quando, designadamente:
 
 a) A obra ou a aquisição de bens só possa ser adjudicada a determinada entidade, em consequência de exclusivo, imposição contratual anterior ou aptidão especial comprovada;
 
@@ -280,17 +294,17 @@ b) Se trate de fornecimento avulso de artigos de expediente ou sujeitos a preço
 
 c) Tenham ficado desertos os concursos públicos abertos para o mesmo fim.
 
-###### Art. 12.º Pode ser dispensada a celebração de contrato escrito:
+Art. 12.º Pode ser dispensada a celebração de contrato escrito:
 
 a) Quando se trate de artigos que estejam prontos a serem entregues e as relações contratuais se extingam com a entrega;
 
 b) Quando a obra de valor inferior a 500000$00 deva ser executada num prazo inferior a sessenta dias e não haja necessidade de estipulação de quaisquer cláusulas particulares, além do preço e do prazo.
 
-###### Art. 13.º Poderão ser feitas por administração directa as obras para as quais o organismo ou serviço já disponha de direcção, equipamento e mão-de-obra indispensáveis e os projectos estejam devidamente aprovados.
+Art. 13.º Poderão ser feitas por administração directa as obras para as quais o organismo ou serviço já disponha de direcção, equipamento e mão-de-obra indispensáveis e os projectos estejam devidamente aprovados.
 
-###### Art. 14.º As dispensas de concurso, público ou limitado, e da celebração de contrato escrito carecem de fundamento, a ser apresentado pelo organismo ou serviço por onde a despesa deva ser liquidada.
+Art. 14.º As dispensas de concurso, público ou limitado, e da celebração de contrato escrito carecem de fundamento, a ser apresentado pelo organismo ou serviço por onde a despesa deva ser liquidada.
 
-###### Art. 15.º São competentes para autorizar a dispensa de realização de concurso, público ou limitado, e a celebração de contrato escrito:
+Art. 15.º São competentes para autorizar a dispensa de realização de concurso, público ou limitado, e a celebração de contrato escrito:
 
 a) Até 250000$00, os órgãos dirigentes dos organismos e serviços dotados de autonomia administrativa ou financeira;
 
@@ -298,22 +312,22 @@ b) Até 1000000$00, os membros do Governo Regional;
 
 c) Sem limitação, o Plenário do Governo Regional.
 
-###### Art. 16.º O Secretário Regional das Finanças emitirá os regulamentos que se mostrem necessários à execução do presente diploma e resolverá as dúvidas que se suscitarem na sua aplicação.
+Art. 16.º O Secretário Regional das Finanças emitirá os regulamentos que se mostrem necessários à execução do presente diploma e resolverá as dúvidas que se suscitarem na sua aplicação.
 
 Aprovado em Plenário do Governo Regional de 22 de Dezembro de 1978.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 30 de Dezembro de 1978.**
+Assinado em Angra do Heroísmo em 30 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta, almirante.**
+O Ministro da República, Henrique Afonso da Silva Horta, almirante.
 
 ## ANEXO I — Resumo da receita por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
 
 Resumo da despesa por Secretarias Regionais
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29912/02300240.pdf)

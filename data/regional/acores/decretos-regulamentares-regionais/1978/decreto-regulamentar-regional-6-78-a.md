@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/05200/04490458.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1978-445967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9f9b3a35006a8765d48159faa41face1725fb85a08609f704b6014fcaea0618
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc5a90c94f71cde78c0c0940b8374dbcf7f770d1fe93203282882df28a35df73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Conselho Regional da Agricultura e Pescas
+- Direcção Regional das Pescas
+- Direcção Regional de Extensão
+- Direcção Regional dos Serviços Agrícolas
+- Direcção Regional dos Serviços Veterinários
+- Orgânica
+- Secretaria Regional da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:311816:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:296240:por
+  label: Alterado o art. 23.º pelo DRR.10/78/A.1978.04.28.GR-RAA DR.IS [113] de 17.05.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1978-296240
+  date: '1978-04-28'
+- type: amended_by
+  target: pt:dre:383463:por
+  label: "Alterado o quadro de pessoal pelo DRR.14/79/A.1979.05.25.GR-RAA DR.IS [137] DE 16/JUN/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1979-383463
+  date: '1979-05-25'
+- type: amended_by
+  target: pt:dre:471090:por
+  label: "Determinado que o quadro de pessoal referido no art. 18.º do presente diploma, passe a ter a composição constante\
+    \ do quadro anexo ao DRR.39/80/A.1980.07.21.GR-RAA DR.IS [195] DE 25/AGO/1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/39-1980-471090
+  date: '1980-07-21'
+- type: amended_by
+  target: pt:dre:311816:por
+  label: "Extinta a Direcção Regional de Extensão, criada pelo presente diploma, transitando o seu quadro de pessoal para\
+    \ quadro oficial criado na Direcção Regional da Agricultura, pelo DRR.12/83/A.1983.03.29.GR-RAA DR.IS [92] DE 21/ABR/1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1983-311816
+  date: '1983-03-29'
+- type: cites
+  target: pt:dre:139939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255460:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:446927:por
+  label: 'Retificado o sumário do presente diploma (onde se lê: Região Autónoma dos Açores: Assembleia Regional, passa a ler-se:
+    Região Autónoma dos Açores: Governo Regional) pelo(a) Declaração - Diário da República n.º 80/1978, Série I de 1978-04-06'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-446927
+  date: '1978-04-06'
+- type: corrected_by
+  target: pt:dre:425284:por
+  label: Retificado o quadro de pessoal auxiliar constante do presente diploma pelo(a) Declaração - Diário da República n.º
+    91/1978, Série I de 1978-04-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-425284
+  date: '1978-04-19'
+- type: repealed_by
+  target: pt:dre:383474:por
+  label: "Revogado o art. 17.º pelo DRR.15/79/A.1979.05.25.GR-RAA DR.IS [138] DE 18/JUN/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-1979-383474
+  date: '1979-05-25'
+- type: repealed_by
+  target: pt:dre:311816:por
+  label: "Revogado pelo DRR.12/83/A.1983.03.29.GR-RAA DR.IS [92] DE 21/ABR/1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1983-311816
+  date: '1983-03-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:51Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +165,7 @@ O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º 
 
 #### SECÇÃO I — Disposições comuns
 
-###### Artigo 1.º São objectivos da Secretaria Regional da Agricultura e Pescas:
+Artigo 1.º São objectivos da Secretaria Regional da Agricultura e Pescas:
 
 a) Definir e traçar as grandes linhas e os objectivos a atingir na Região no sector agrário e das pescas;
 
@@ -120,7 +181,7 @@ f) Traçar uma política que vise a efectiva assistência técnica permanente a 
 
 g) Promover e estimular a investigação científica nos sectores do seu âmbito com vista à adaptação de novas técnicas às características próprias da Região.
 
-###### Art. 2.º Compete ao Secretário Regional da Agricultura e Pescas, designadamente:
+Art. 2.º Compete ao Secretário Regional da Agricultura e Pescas, designadamente:
 
 a) Definir e fazer executar a política agrária e das pescas;
 
@@ -132,7 +193,7 @@ d) Assegurar a orientação e coordenação dos órgãos e serviços que lhe est
 
 e) Promover formas de cooperação e de coordenação de acções com outras entidades, designadamente com o Instituto Universitário dos Açores.
 
-###### Art. 3.º Compete aos directores regionais:
+Art. 3.º Compete aos directores regionais:
 
 a) Coadjuvar o Secretário Regional no estabelecimento e execução da política agrária e das pescas dentro da sua competência própria ou delegada;
 
@@ -140,7 +201,7 @@ b) Orientar e coordenar os serviços e instituições dependentes da respectiva 
 
 c) Assegurar a interligação e coordenação dos serviços similares das direcções regionais com vista à melhor prossecução da política agrária regional.
 
-###### Art. 4.º A Secretaria Regional da Agricultura e Pescas compreende, além do Gabinete do Secretário Regional, os seguintes órgãos e serviços:
+Art. 4.º A Secretaria Regional da Agricultura e Pescas compreende, além do Gabinete do Secretário Regional, os seguintes órgãos e serviços:
 
 a) Conselho Regional da Agricultura e Pescas;
 
@@ -156,29 +217,29 @@ f) Secretaria.
 
 #### SECÇÃO II — Gabinete
 
-###### Art. 5.º - 1 - O Gabinete do Secretário Regional é formado por um adjunto e um secretário particular.
+Art. 5.º - 1 - O Gabinete do Secretário Regional é formado por um adjunto e um secretário particular.
 
 2 - Ao adjunto compete a direcção do Gabinete e a representação do Secretário Regional nos actos de carácter não estritamente pessoal.
 
-###### Art. 6.º - 1 - Os elementos do Gabinete serão providos livremente pelo Secretário Regional, considerando-se para todos os efeitos em exercício de funções desde a data do despacho que os tiver nomeado.
+Art. 6.º - 1 - Os elementos do Gabinete serão providos livremente pelo Secretário Regional, considerando-se para todos os efeitos em exercício de funções desde a data do despacho que os tiver nomeado.
 
 2 - Quando os providos sejam trabalhadores civis do Estado, da administração regional ou local, institutos públicos e empresas nacionalizadas ou regionalizadas exercerão os seus cargos, respectivamente, em comissão de serviço ou em regime de requisição.
 
-###### Art. 7.º - 1 - O vencimento dos membros do Gabinete é o que consta do quadro anexo a este diploma.
+Art. 7.º - 1 - O vencimento dos membros do Gabinete é o que consta do quadro anexo a este diploma.
 
 2 - Os membros do Gabinete não podem beneficiar de quaisquer gratificações ou abonos por trabalho extraordinário.
 
-###### Art. 8.º O Secretário Regional poderá destacar da Secretaria o máximo de dois funcionários administrativos, de categoria não superior a segundo-oficial, para prestarem apoio administrativo ao Gabinete.
+Art. 8.º O Secretário Regional poderá destacar da Secretaria o máximo de dois funcionários administrativos, de categoria não superior a segundo-oficial, para prestarem apoio administrativo ao Gabinete.
 
 #### SECÇÃO III — Conselho Regional da Agricultura e Pescas
 
-###### Art. 9.º - 1 - O Conselho Regional da Agricultura e Pescas é o órgão consultivo e de apoio do Secretário Regional na formulação das linhas gerais de acção da Secretaria Regional.
+Art. 9.º - 1 - O Conselho Regional da Agricultura e Pescas é o órgão consultivo e de apoio do Secretário Regional na formulação das linhas gerais de acção da Secretaria Regional.
 
 2 - As atribuições e divisão por secções do Conselho Regional serão definidas por despacho do Secretário Regional.
 
 3 - O Conselho Regional reunirá em plenário ou por secções sempre que para tal seja convocado pelo Secretário Regional.
 
-###### Art. 10.º - 1 - O Conselho Regional da Agricultura e Pescas é presidido pelo Secretário Regional e dele fazem parte:
+Art. 10.º - 1 - O Conselho Regional da Agricultura e Pescas é presidido pelo Secretário Regional e dele fazem parte:
 
 a) Os director regionais;
 
@@ -198,7 +259,7 @@ f) Até três individualidades de reconhecida competência, escolhidas pelo Secr
 
 #### SECÇÃO IV — Direcção Regional dos Serviços Agrícolas
 
-###### Art. 11.º Compete à Direcção Regional dos Serviços Agrícolas:
+Art. 11.º Compete à Direcção Regional dos Serviços Agrícolas:
 
 a) Apoiar o Secretário Regional na formulação da política agrícola e no planeamento do sector;
 
@@ -236,13 +297,13 @@ r) Assegurar a colaboração à Secretaria Regional do Trabalho na formação pr
 
 s) Colaborar com os serviços da Secretaria Regional do Comércio e Indústria na elaboração de normas de comercialização e formação de preços dos produtos agrícolas e dos respectivos factores de produção.
 
-###### Art. 12.º - 1 - A Direcção Regional dos Serviços Agrícolas compreende serviços locais que garantem em cada ilha ou zona a execução das suas atribuições.
+Art. 12.º - 1 - A Direcção Regional dos Serviços Agrícolas compreende serviços locais que garantem em cada ilha ou zona a execução das suas atribuições.
 
 2 - Na regulamentação dos serviços será especificada a competência e a área de acção de cada um deles.
 
 #### SECÇÃO V — Direcção Regional dos Serviços Veterinários
 
-###### Art. 13.º Compete à Direcção Regional dos Serviços Veterinários:
+Art. 13.º Compete à Direcção Regional dos Serviços Veterinários:
 
 a) Apoiar a acção do Secretário Regional na formulação da política pecuária e no planeamento do sector;
 
@@ -276,13 +337,13 @@ p) Colaborar com a Secretaria Regional do Comércio e Indústria na regularizaç
 
 q) Colaborar com os serviços da Secretaria Regional do Comércio e Indústria na elaboração de normas de comercialização e formação de preços dos produtos pecuários.
 
-###### Art. 14.º - 1 - A Direcção Regional dos Serviços Veterinários compreende serviços locais que garantem em cada ilha ou zona a execução das suas atribuições.
+Art. 14.º - 1 - A Direcção Regional dos Serviços Veterinários compreende serviços locais que garantem em cada ilha ou zona a execução das suas atribuições.
 
 2 - Na regulamentação dos serviços será especificada a competência e área de acção de cada um deles.
 
 #### SECÇÃO VI — Direcção Regional das Pescas
 
-###### Art. 15.º Compete à Direcção Regional das Pescas:
+Art. 15.º Compete à Direcção Regional das Pescas:
 
 a) Apoiar a acção do Secretário Regional na formulação da política de pescas e no planeamento do sector;
 
@@ -326,7 +387,7 @@ t) Colaborar com os serviços da Secretaria Regional do Comércio e Indústria n
 
 #### SECÇÃO VII — Direcção Regional de Extensão
 
-###### Art. 16.º Compete à Direcção Regional de Extensão:
+Art. 16.º Compete à Direcção Regional de Extensão:
 
 a) Proceder à recolha das necessidades das populações rurais e de pescadores e promover a motivação dos agricultores, dos pescadores e dos seus agregados familiares para a análise e discussão dos seus problemas e formulação das respectivas soluções, com vista à melhoria do seu bem-estar e ao desenvolvimento das suas atribuições;
 
@@ -342,7 +403,7 @@ f) Divulgar as formas de associativismo no sector agrário e no sector das pesca
 
 #### SECÇÃO VIII — Secretaria
 
-###### Art. 17.º - 1 - A Secretaria é o órgão de execução dos serviços de interesse comum a toda a Secretaria Regional, competindo-lhe, designadamente:
+Art. 17.º - 1 - A Secretaria é o órgão de execução dos serviços de interesse comum a toda a Secretaria Regional, competindo-lhe, designadamente:
 
 a) Executar o serviço de expediente geral, de reprodução de documentos e de arquivo;
 
@@ -358,7 +419,7 @@ e) Assegurar o apetrechamento dos serviços administrativos da Secretaria Region
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 18.º - 1 - O pessoal da Secretaria Regional da Agricultura e Pescas, sem prejuízo do artigo 3.º do [Decreto Regulamentar Regional n.º 24/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1977-255460), de 5 de Agosto, é o constante do quadro anexo ao presente diploma e será agrupado de acordo com a seguinte classificação:
+Art. 18.º - 1 - O pessoal da Secretaria Regional da Agricultura e Pescas, sem prejuízo do artigo 3.º do [Decreto Regulamentar Regional n.º 24/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1977-255460), de 5 de Agosto, é o constante do quadro anexo ao presente diploma e será agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -374,36 +435,36 @@ f) Pessoal auxiliar.
 
 2 - O quadro do pessoal a que alude o número anterior poderá ser alterado por decreto regulamentar regional.
 
-###### Art. 19.º O pessoal da Secretaria Regional da Agricultura e Pescas constitui um quadro único, competindo ao Secretário Regional a sua colocação de harmonia com as necessidades, a conveniência dos serviços e as aptidões dos funcionários.
+Art. 19.º O pessoal da Secretaria Regional da Agricultura e Pescas constitui um quadro único, competindo ao Secretário Regional a sua colocação de harmonia com as necessidades, a conveniência dos serviços e as aptidões dos funcionários.
 
-###### Art. 20.º - 1 - As condições de ingresso, acesso e carreira profissional do pessoal do quadro da Secretaria Regional da Agricultua e Pescas são, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar, e, até lá, regular-se-ão pela legislação regional e geral.
+Art. 20.º - 1 - As condições de ingresso, acesso e carreira profissional do pessoal do quadro da Secretaria Regional da Agricultua e Pescas são, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar, e, até lá, regular-se-ão pela legislação regional e geral.
 
 2 - Chefes de serviços de ilha serão nomeados pelo Secretário Regional, em comissão de serviço por dois anos renováveis de entre os funcionários de reconhecido mérito.
 
-###### Art. 21.º O Secretário Regional da Agricultura e Pescas poderá contratar, por período não superior a um ano, pessoal para além do quadro, sempre que necessidades eventuais ou extraordinárias dos serviços não possam ser satisfeitas pelo pessoal do quadro.
+Art. 21.º O Secretário Regional da Agricultura e Pescas poderá contratar, por período não superior a um ano, pessoal para além do quadro, sempre que necessidades eventuais ou extraordinárias dos serviços não possam ser satisfeitas pelo pessoal do quadro.
 
 ### CAPÍTULO III — Disposições gerais e transitórias
 
-###### Art. 22.º A estrutura, as atribuições, a competência e o funcionamento dos serviços será estabelecido por despacho do Secretário Regional enquanto não forem publicados os correspondentes diplomas orgânicos.
+Art. 22.º A estrutura, as atribuições, a competência e o funcionamento dos serviços será estabelecido por despacho do Secretário Regional enquanto não forem publicados os correspondentes diplomas orgânicos.
 
-###### Art. 23.º - 1 - O primeiro provimento dos cargos de técnico auxiliar de pecuária de 2.ª classe do quadro da Secretaria Regional da Agricultura e Pescas poderá ser feito também de entre ajudantes de pecuária com oito anos de bom e efectivo serviço na categoria, independentemente das habilitações literárias.
+Art. 23.º - 1 - O primeiro provimento dos cargos de técnico auxiliar de pecuária de 2.ª classe do quadro da Secretaria Regional da Agricultura e Pescas poderá ser feito também de entre ajudantes de pecuária com oito anos de bom e efectivo serviço na categoria, independentemente das habilitações literárias.
 
 2 - Os técnicos auxiliares de pecuária de 2.ª classe recrutados nos termos do número anterior só poderão ser providos a técnicos auxiliares de pecuária de 1.ª classe desde que obtenham o curso geral dos liceus ou habilitações equivalentes.
 
-###### Art. 24.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Secretário Regional da Agricultura e Pescas, com acordo dos Secretários Regionais das Finanças e da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+Art. 24.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho do Secretário Regional da Agricultura e Pescas, com acordo dos Secretários Regionais das Finanças e da Administração Pública, quando estiverem em causa matérias das respectivas competências.
 
-###### Art. 25.º Fica revogado o [Decreto Regulamentar Regional n.º 12/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1977-139939), de 16 de Abril.
+Art. 25.º Fica revogado o [Decreto Regulamentar Regional n.º 12/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1977-139939), de 16 de Abril.
 
 Aprovado em plenário do Governo Regional em 10 de Janeiro de 1978.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 9 de Fevereiro de 1978.**
+Assinado em Angra do Heroísmo em 9 de Fevereiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/05200/04490458.pdf))](https://files.diariodarepublica.pt/1s/1978/03/05200/04490458.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/05200/04490458.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

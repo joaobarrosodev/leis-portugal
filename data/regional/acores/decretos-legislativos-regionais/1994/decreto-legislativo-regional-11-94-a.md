@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/1994/03/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1994-258987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ded0538149b27f8b6f3141dbfb348d45f9948a293e4aad17dd3e7bf4f9538f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1823786de52400405fba53b2f4f6403d82f443c0abaabab6b56bb541a8c8a7f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Conselho de Prevenção do Tabagismo
 - Saúde
 - Tabaco
-- Açores
 - Tabagismo
 - Transporte Público
 relationships:
@@ -81,16 +81,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/276/1992/12/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/276/1992/12/12/p/dre
+- type: cites
+  target: pt:dre:191788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:25Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +135,9 @@ Face a esta realidade, que vem dar resposta a uma crescente consciencialização
 
 Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo 1.º A aplicação à Região Autónoma dos Açores do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os [393/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1988-358361), de 8 de Novembro, [287/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1989-618299), de 30 de Agosto, [253/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1990-573146), de 4 de Agosto, [200/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1991-630782), de 29 de Maio, e [276/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1992-616446), de 12 de Dezembro, terá em conta as adaptações seguintes.
+Artigo 1.º A aplicação à Região Autónoma dos Açores do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os [393/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1988-358361), de 8 de Novembro, [287/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1989-618299), de 30 de Agosto, [253/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1990-573146), de 4 de Agosto, [200/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1991-630782), de 29 de Maio, e [276/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1992-616446), de 12 de Dezembro, terá em conta as adaptações seguintes.
 
-###### Art. 2.º Os artigos 3.º, 9.º, 9.º-B, 9.º-C, 14.º e 17.º passam a ter a seguinte redacção:
+Art. 2.º Os artigos 3.º, 9.º, 9.º-B, 9.º-C, 14.º e 17.º passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Proibição de fumar em meios de transporte
 
@@ -145,18 +173,18 @@ As competências do Conselho de Prevenção do Tabagismo serão exercidas na Reg
 
 As despesas resultantes da execução deste diploma serão satisfeitas por conta das dotações orçamentais do departamento governamental responsável pelo sector da saúde.
 
-###### Art. 3.º É revogado o [Decreto Legislativo Regional n.º 5/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1986-191788), de 18 de Janeiro.
+Art. 3.º É revogado o [Decreto Legislativo Regional n.º 5/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1986-191788), de 18 de Janeiro.
 
-###### Art. 4.º - 1 - O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 4.º - 1 - O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 2 - Fica exceptuado do disposto no número anterior o artigo 8.º do [Decreto-Lei n.º 200/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1991-630782), de 29 de Maio, cuja entrada em vigor se difere por um prazo de 270 dias.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Janeiro de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 23 de Fevereiro de 1994.**
+Assinado em Angra do Heroísmo em 23 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

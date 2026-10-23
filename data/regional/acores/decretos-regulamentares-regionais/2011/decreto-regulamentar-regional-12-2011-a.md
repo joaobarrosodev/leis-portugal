@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2011/06/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2011-673398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d53dc7276536c5fb1a4c08cfd37b69aaa6a6fb03501fcf2309d26c1626f947f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b5fb4f14c010aea49037199888292f82f102cc2b522e7f8b864889235e72c0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Plano Director Municipal
 - Ponta Delgada
 - Regulamento
 - Reserva Ecológica Regional
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:114771734:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114771734:por
+  label: Suspenso, no referente à àrea assinalada nas plantas pertencentes aos Anexos I e II, o Plano Diretor Municipal de
+    Ponta Delgada, ratificado pelo DRR 16/2007/A de 13-ago, com a redação dada pelo presente diploma, pelo(a) Decreto Regulamentar
+    Regional n.º 4/2018/A - Diário da República n.º 41/2018, Série I de 2018-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2018-114771734
+  date: '2018-02-27'
 - type: cites
   target: celex:31991L0689
   label: null
@@ -86,13 +93,13 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:51Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +114,7 @@ Faz parte do programa do X Governo dos Açores apoiar a implementação das infr
 
 Neste sentido, é essencial afectar uma área com uma dimensão apropriada à instalação do Eco Parque de São Miguel, o qual, numa óptica de sustentabilidade financeira e operacional, vai servir a população da ilha ou até de outras ilhas bem como diversas tipologias de materiais. Foi seleccionado o local mais adequado, junto à Canada das Murtas e ao Caminho Velho do Pico da Pedra, no concelho de Ponta Delgada, o que implica a suspensão parcial do Plano Director Municipal de Ponta Delgada (PDMPD), ratificado e publicado pelo Decreto Regulamentar Regional n.º 16/2007/A, de 13 de Agosto, alterado pelo aviso n.º 8125/2010, publicado no Diário da República, 2.ª série, n.º 78, de 22 de Abril de 2010.
 
-# Parte da área de intervenção encontra-se abrangida pela reserva ecológica, conforme a delimitação correspondente na planta de condicionantes do PDMPD.
+Parte da área de intervenção encontra-se abrangida pela reserva ecológica, conforme a delimitação correspondente na planta de condicionantes do PDMPD.
 
 Considerando ainda que o Eco Parque de São Miguel se trata de uma infra-estrutura de inquestionável interesse regional, o Governo Regional deliberou desencadear o mecanismo excepcional da suspensão de planos municipais, previsto na lei, com fundamento na importância que a construção desta infra-estrutura tem no cumprimento das linhas de orientação definidas no PEGRA.
 
@@ -149,18 +156,18 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 28 de Abril de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 23 de Maio de 2011.**
+Assinado em Angra do Heroísmo em 23 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf))](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf))](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf))](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf)
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf))](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2011/06/10700/0304103042.pdf)

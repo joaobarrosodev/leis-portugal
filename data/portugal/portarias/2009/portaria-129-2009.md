@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/02100/0064900652.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/129/2009/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/129-2009-601742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 296fca236c7be4fe0e7ef3a4c293f370c37dd3e80ee9eb51207b39d1d7c6abee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 523bf172e7dec3f0ab43761e8698a1e77f8d8cbed573bdfa7401b1bd574bf2b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Bolsa de Estágio
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Contrato de Formação
 - Desempregado
-- Jovem
-- Primeiro Emprego
 - Desemprego
 - Estágio de Formação
-- Política de Emprego
+- Financiamento
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Jovem
 - Mercado do Trabalho
+- Política de Emprego
+- Primeiro Emprego
 relationships:
 - type: amended_by
   target: pt:dre:278899:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611295:por
+  label: "Alterados os arts. 4.º, 6.º, 7.º, 13.º,14.º e revogada a al. d) do n.º 1 e b) do n.º 2 e o n.º 3, todos do art 3.º,\
+    \ o n.º 3 do art 15.º e o n.º 3 do art 19.º do presente diploma, pela PORT.127/2010.01.03.2010.MTSSO, DR.IS [41] de 01.03.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/127-2010-611295
+  date: '2010-03-01'
+- type: amended_by
+  target: pt:dre:342858:por
+  label: "Alterados os arts. 1º e 12º pela PORT.681/2010.12.08.2010.MTSSO, DR.IS [156] de 12.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/681-2010-342858
+  date: '2010-08-12'
 - type: cites
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: repealed_by
+  target: pt:dre:278899:por
+  label: "Revogada em 01.03.2011, na redacção das Ports.127/2010, de 01-Mar e 681/2010, de 12-Ago, pela PORT.92/2011.28.02.2011.MTSSO,\
+    \ DR.IS [41] de 28.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-2011-278899
+  date: '2011-02-28'
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:25Z'
   warnings: []
   errors: []
 ---
@@ -343,4 +361,4 @@ Com a entrada em vigor da presente portaria é revogada a Portaria n.º 268/97, 
 
 A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 28 de Janeiro de 2009.**
+O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 28 de Janeiro de 2009.

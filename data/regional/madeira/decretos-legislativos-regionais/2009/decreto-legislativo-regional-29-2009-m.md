@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/2009/12/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2009-482640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebc6082232efab34104812729af3d5fea70198779f9e90b6aa990a641ad80d26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a98ae1b661fee74ab56cfca80a00a2723678f58d0ed0bb891fa1dd68af45b35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Conselho de Administração
-- Prémio de Produtividade
-- Madeira.região Autónoma
 - Direcção Regional dos Assuntos Fiscais
+- Madeira.região Autónoma
+- Prémio de Produtividade
 - Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66012654:por
+  label: Dada nova redação ao art. 45.º do DLR 28/2006/M de 19-jul, alterado pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2014-66012654
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Alterado, com efeitos desde 01.01.2018, o art. 50.º, na redação do presente diploma, do DLR 28/2006/M de 19-jul pelo(a)
+    Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Alterado, com efeitos desde 01.01.2020, o art. 50.º, na redação do presente diploma, do DLR 28/2006/M de 19-jul pelo(a)
+    Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/18/2005/01/18/p/dre
   label: null
@@ -112,16 +130,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1001-a/2007/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1001-a/2007/08/29/p/dre
+- type: cites
+  target: pt:dre:145824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:12Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +226,9 @@ d) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - A atribuição do suplemento de produtividade que serve de fundamento à atribuição do suplemento previsto no artigo 37.º do presente diploma será avaliado no 1.º mês do ano seguinte àquele a que diga respeito, através da comparação entre os objectivos efectivamente atingidos e os definidos nos planos de actividades.
 
@@ -188,7 +244,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -214,7 +272,9 @@ d) ...
 
 8 - O complemento do suplemento abonado nos termos do disposto no n.º 7 do presente artigo é retido no acto do seu processamento, sendo afecto e contabilizado em conta especificamente destinada a fazer face à contratação de seguros de responsabilidade civil profissional.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -256,8 +316,8 @@ As condições de atribuição do suplemento de produtividade, a sua suspensão 
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 29 de Outubro de 2009.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 23 de Novembro de 2009.**
+Assinado em 23 de Novembro de 2009.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/04/09000/09580959.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1986-195636
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2c32c2aa4edcd5c7b6ff97bd6e3d2d0e0eaa4bb4378f02305da1ba99a3af90b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20175a0a2ba47392be1d279bf655fbfbbb7e3b166668b99eb406bd2116931598
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ilha do Pico
+- Medidas Preventivas
+- Porto
 relationships:
 - type: amended_by
   target: pt:dre:146206:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146206:por
+  label: "Revogado pelo DRR.24/2011/A.23.11.2011.PG-RAA, DR.IS [225] de 23.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2011-146206
+  date: '2011-11-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:29Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +107,7 @@ Considerando que se pretende dotar a área portuária de meios que garantam a su
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição e da alínea b) do artigo 44.º do Estatuto da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º - 1 - Fica dependente de autorização da Câmara Municipal da Madalena, depois de emitido parecer favorável dos serviços das Secretarias Regionais do Equipamento Social e dos Transportes e Turismo e sem prejuízo de quaisquer outros condicionalismos legalmente exigidos, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
+Artigo 1.º - 1 - Fica dependente de autorização da Câmara Municipal da Madalena, depois de emitido parecer favorável dos serviços das Secretarias Regionais do Equipamento Social e dos Transportes e Turismo e sem prejuízo de quaisquer outros condicionalismos legalmente exigidos, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos habitacionais;
 
@@ -112,20 +125,20 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 3 - São competentes para promover o cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Câmara Municipal da Madalena (Pico), e as Secretarias Regionais do Equipamento Social e dos Transportes e Turismo.
 
-###### Art. 2.º - 1 - É concedido à Câmara Municipal da Madalena (Pico) o direito de preferência nas transmissões, por título oneroso, entre particulares de terrenos ou edifícios situados na área definida no n.º 1 do artigo 1.º
+Art. 2.º - 1 - É concedido à Câmara Municipal da Madalena (Pico) o direito de preferência nas transmissões, por título oneroso, entre particulares de terrenos ou edifícios situados na área definida no n.º 1 do artigo 1.º
 
 2 - Deverá ser dirigida ao presidente da Câmara Municipal da Madalena (Pico) a comunicação a que se refere o artigo 3.º do Decreto-Lei n.º 862/76, de 22 de Dezembro.
 
-###### Art. 3.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 20 de Fevereiro de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 4 de Abril de 1986.**
+Assinado em Angra do Heroísmo em 4 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/04/09000/09580959.pdf))](https://files.diariodarepublica.pt/1s/1986/04/09000/09580959.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09000/09580959.pdf)

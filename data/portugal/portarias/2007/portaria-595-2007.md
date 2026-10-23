@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/09600/33653366.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/595/2007/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/595-2007-520787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 563d4e4daf0f14474a8860ad8beda5a001b5661da9ac0216adc7f22067b27db8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91336e5b3cfef5e41ef2c5b51421d6d26cd78913bdb75d008e55fa3c134632fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação do Pessoal
 - Carreira Diplomática
 - Conselheiro de Embaixada
 - Conselho Diplomático
 - Ministro Plenipotenciário
 - Promoção Profissional
-- Avaliação do Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:1058701619:por
@@ -89,16 +89,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/417/2006/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/417/2006/05/02/p/dre
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659945:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1058701619:por
+  label: Revogada, a partir de 25 de fevereiro de 2026, pelo(a) Portaria n.º 90/2026/1 - Diário da República n.º 38/2026,
+    Série I de 2026-02-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/90-2026-1058701619
+  date: '2026-02-24'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:39Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +185,7 @@ c) As aptidões demonstradas quanto às seguintes capacidades: negocial, de inic
 
 ###### Artigo 6.º — Primeira convocatória do conselho diplomático
 
-**O secretário-geral do Ministério dos Negócios Estrangeiros convoca a primeira reunião do conselho diplomático, para estabelecer a grelha de avaliação, prevista no artigo anterior.**
+O secretário-geral do Ministério dos Negócios Estrangeiros convoca a primeira reunião do conselho diplomático, para estabelecer a grelha de avaliação, prevista no artigo anterior.
 
 ###### Artigo 7.º — Abertura do procedimento
 
@@ -179,4 +197,4 @@ c) As aptidões demonstradas quanto às seguintes capacidades: negocial, de inic
 
 É revogada a [Portaria n.º 417/2006](https://diariodarepublica.pt/dr/detalhe/portaria/417-2006-659945), de 2 de Maio.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 17 de Abril de 2007.**
+O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 17 de Abril de 2007.

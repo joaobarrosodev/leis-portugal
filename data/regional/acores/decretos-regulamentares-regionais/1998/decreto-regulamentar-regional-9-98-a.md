@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/099b00/19081915.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/1998/04/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1998-176516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16e12c19b36262a2b54e11339ceceed5a19f89b64d0b5361cde8b52b2d0b9103
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da3492961c25631f1be62b8aa7f3ad5d5e199af43ea5b075637dab79a30f8775
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Governo Regional
+- Açores
 - Direcção Regional de Organização e Administração Pública
+- Governo Regional
 - Inspecção Administrativa Regional
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Secretário Regional Adjunto da Presidência
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:280557:por
@@ -90,16 +90,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/19/1991/07/09/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/19/1991/07/09/a/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280557:por
+  label: "Revogado pelo DRR.16/2004/A.14.05.2004.PG-RAA, DR.IS-B [131] de 04.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2004-280557
+  date: '2004-05-14'
 article_structure:
   article_count: 34
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:04Z'
   warnings: []
   errors: []
 ---
@@ -128,13 +165,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 16 de Janeiro de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Abril de 1998.**
+Assinado em Angra do Heroísmo em 13 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — ORGÂNICA DOS SERVIÇOS DEPENDENTES DO SECRETÁRIO REGIONAL ADJUNTO DA PRESIDÊNCIA
 
@@ -142,7 +179,7 @@ Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 16 de Janeir
 
 ###### Artigo 1.º — Natureza
 
-**O Secretário Regional Adjunto da Presidência é o membro do Governo que, através dos respectivos serviços, propõe e executa as políticas do Governo Regional nas seguintes matérias:**
+O Secretário Regional Adjunto da Presidência é o membro do Governo que, através dos respectivos serviços, propõe e executa as políticas do Governo Regional nas seguintes matérias:
 
 a) Assuntos parlamentares;
 
@@ -190,7 +227,7 @@ d) Assegurar a orientação e a coordenação dos órgãos e serviços que estej
 
 a) De apoio instrumental:
 
-#### Secção de Apoio Administrativo (SAA);
+Secção de Apoio Administrativo (SAA);
 
 b) De carácter operativo:
 
@@ -202,7 +239,9 @@ Inspecção Administrativa Regional (IAR).
 
 #### SECÇÃO I — De apoio instrumental
 
-###### Artigo 4.º — Secção de Apoio Administrativo
+###### Artigo 4.º
+
+#### Secção de Apoio Administrativo
 
 Compete à SAA apoiar o Gabinete do Secretário Regional nos domínios dos recursos humanos, financeiros e patrimoniais e ainda assegurar a execução dos serviços de carácter administrativo comuns aos diversos órgãos e serviços do Secretário Regional Adjunto da Presidência, para o que lhe compete, designadamente:
 
@@ -300,11 +339,15 @@ d) Delegação do SAPL em Ponta Delgada.
 
 4 - As delegações do SAPL são coordenadas por um subcoordenador.
 
-###### Artigo 9.º — Secção de ADSE
+###### Artigo 9.º
+
+#### Secção de ADSE
 
 Compete à SADSE assegurar todo o expediente respeitante à ADSE na Região, bem como estudar e propor medidas de melhoramento sobre a matéria.
 
-###### Artigo 10.º — Secção de Passaportes e Licenças
+###### Artigo 10.º
+
+#### Secção de Passaportes e Licenças
 
 Compete à SPL:
 
@@ -370,7 +413,9 @@ b) Centro de Formação da Administração Pública dos Açores (CEFAPA);
 
 c) Divisão de Estruturas e Modernização (DEM).
 
-###### Artigo 13.º — Divisão da Função Pública
+###### Artigo 13.º
+
+##### Divisão da Função Pública
 
 Compete à DFP:
 
@@ -406,7 +451,9 @@ e) Gerir as instalações e equipamento destinados à formação, assim como o l
 
 3 - O CEFAPA é dirigido por um chefe de divisão.
 
-###### Artigo 15.º — Divisão de Estruturas e Modernização
+###### Artigo 15.º
+
+##### Divisão de Estruturas e Modernização
 
 Compete à DEM:
 
@@ -450,7 +497,9 @@ b) Divisão de Finanças e Planeamento Municipal (DFPM);
 
 c) Divisão dos Assuntos Jurídicos e Eleitorais (DAJE).
 
-###### Artigo 17.º — Divisão de Cooperação ao Investimento Municipal
+###### Artigo 17.º
+
+##### Divisão de Cooperação ao Investimento Municipal
 
 Compete à DCIM:
 
@@ -462,7 +511,9 @@ c) Estudar e propor critérios, áreas e formas de colaboração e cooperação 
 
 d) Analisar e seleccionar as propostas de candidatura de projectos municipais à cooperação financeira, acompanhar a execução física e financeira dos empreendimentos e efectuar os respectivos processamentos de verbas.
 
-###### Artigo 18.º — Divisão de Finanças e Planeamento Municipal
+###### Artigo 18.º
+
+##### Divisão de Finanças e Planeamento Municipal
 
 À DFPM compete:
 
@@ -488,7 +539,9 @@ j) Acompanhar o processo de abertura e utilização de linhas de crédito para f
 
 l) Promover a execução de outros programas e projectos com interesse para a gestão e planeamento municipais.
 
-###### Artigo 19.º — Divisão dos Assuntos Jurídicos e Eleitorais
+###### Artigo 19.º
+
+##### Divisão dos Assuntos Jurídicos e Eleitorais
 
 Compete à DAJE:
 
@@ -598,8 +651,8 @@ MAPA I
 
 Quadro de pessoal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/099b00/19081915.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/099b00/19081915.pdf)](https://files.diariodarepublica.pt/1s/1998/04/099b00/19081915.pdf)
 
 MAPA II
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/099b00/19081915.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/04/099b00/19081915.pdf)](https://files.diariodarepublica.pt/1s/1998/04/099b00/19081915.pdf)

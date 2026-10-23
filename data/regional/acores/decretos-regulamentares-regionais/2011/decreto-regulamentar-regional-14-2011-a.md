@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/06/10900/0305703058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2011/06/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2011-673405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 259cf17775db0bc319aa6149bd419c72f457889b58677f0e377f25e1e43eed6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c0036c53ee9d64c0c6954e1504ec2aa863ed79b16fa26295feed33deda81040
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,54 +66,61 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
+- Açores
 - Criação de Serviços
 - Definição de Competências
+- Direcção Regional da Ciência Tecnologia e Comunicações
 - Direcção Regional da Educação
 - Direcção Regional da Educação e Formação
 - Direcção Regional da Energia
 - Direcção Regional da Habitação
+- Direcção Regional da Igualdade de Oportunidades
 - Direcção Regional da Juventude
-- Secretaria Regional da Saúde
 - Direcção Regional da Saúde
 - Direcção Regional da Solidariedade e Segurança Social
 - Direcção Regional das Comunidades
-- Secretário Regional da Presidência
+- Direcção Regional de Desenvolvimento Agrário
 - Direcção Regional de Ordenamento do Território e Recursos Hídricos
 - Direcção Regional de Organização e Administração Pública
 - Direcção Regional de Turismo
 - Direcção Regional do Ambiente
-- Vice-presidência do Governo Regional
+- Direcção Regional do Orçamento e Tesouro
 - Direcção Regional do Planeamento
 - Direcção Regional do Planeamento e Fundos Estruturais
+- Direcção Regional do Trabalho Qualificação Profissional e Defesa do Consumidor
 - Direcção Regional dos Assuntos Comunitários da Agricultura
 - Direcção Regional dos Desportos
-- Secretaria Regional da Ciência Tecnologia e Equipamentos
+- Direcção Regional dos Equipamentos e Transportes Terrestres
 - Direcção Regional dos Recursos Florestais
 - Direcção Regional dos Transportes Aéreos e Marítimos
-- Direcção Regional de Desenvolvimento Agrário
-- Inspecção Regional do Ambiente
-- Inspecção Regional das Pescas
+- Governo Regional
 - Inspecção Administrativa Regional
-- Inspecção Regional das Actividades Económicas
-- Inspecção Regional do Turismo
-- Secretaria Regional do Trabalho e Solidariedade Social
-- Orgânica
-- Direcção Regional do Orçamento e Tesouro
-- Secretaria Regional
-- Direcção Regional da Ciência Tecnologia e Comunicações
-- Direcção Regional dos Equipamentos e Transportes Terrestres
 - Inspecção Regional das Actividades Culturais
-- Direcção Regional da Igualdade de Oportunidades
-- Direcção Regional do Trabalho Qualificação Profissional e Defesa do Consumidor
+- Inspecção Regional das Actividades Económicas
+- Inspecção Regional das Pescas
+- Inspecção Regional do Ambiente
 - Inspecção Regional do Trabalho
+- Inspecção Regional do Turismo
+- Orgânica
+- Secretaria Regional
+- Secretaria Regional da Ciência Tecnologia e Equipamentos
+- Secretaria Regional da Saúde
+- Secretaria Regional do Trabalho e Solidariedade Social
+- Secretário Regional da Presidência
 - Serviço Regional de Estatística dos Açores
-- Açores
+- Vice-presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:191142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Substituída, a partir de 02.12.2012, com efeitos a à data da posse do XI Governo Regional dos Açores (06.11.2012),\
+    \ a estrutura orgânica constante do DRR 25/2008/A de 31-dez, alterado pelo presente diploma, pelo DRR.24/2012/A.27.11.2012.PG-RAA,\
+    \ DR.IS [229] de 27.11.2012, nos termos do disposto no seu art. 15º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/2005/05/09/a/dre
   label: null
@@ -142,16 +149,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:52Z'
   warnings: []
   errors: []
 ---
@@ -248,10 +283,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 11 de Maio de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 23 de Maio de 2011.**
+Assinado em Angra do Heroísmo em 23 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

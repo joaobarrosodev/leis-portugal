@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/9/2007/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-2007-262316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bed18c6aef4d3a58ea8aa088e6c05c20ba9d288b12df5cd86b9ffbb63c2b9e12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9227e85f6e829453e0233069b3bc52d94875cf2a20d1290f8ba90fe316cfe10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ subjects:
 - Cobrança de Impostos
 - Código do IRS
 - Declaração de Rendimentos
-- Impresso
-- IRS
 - Documento Eletrónico
-- Plano Poupança-reforma
+- Impresso
 - Internet
+- IRS
+- Plano Poupança-reforma
 - Seguro de Acidentes Pessoais
 - Seguro de Doença
 - Seguro de VIDA
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/698/2002/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/698/2002/06/25/p/dre
+- type: cites
+  target: pt:dre:139427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:38Z'
   warnings: []
   errors: []
 ---
@@ -131,4 +143,4 @@ b) Modelo n.º 32, «Planos de poupança-reforma, fundos de pensões e equipará
 
 Pelo Ministro de Estado e das Finanças, Carlos Manuel Costa Pina, Secretário de Estado do Tesouro e Finanças, em 29 de Dezembro de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00300/00180019.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00300/00180019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00300/00180019.pdf)

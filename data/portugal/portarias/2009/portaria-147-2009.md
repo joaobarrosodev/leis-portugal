@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/147/2009/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-2009-601535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 290ef94349895eb5ec2c87387cf41296c58ebe15c55c42235e0f32b96ba7fc88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5380fac206ad654fdeef3737986e62578b012830b77fbc6c41897b5beadcc410
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Definição de Competências
-- Feader
-- Arborização
-- Proteção da Floresta
 - Apoio ao Investimento
-- Projeto de Investimento
+- Aproveitamento Agrícola
+- Arborização
+- Autoridade Florestal Nacional
+- Definição de Competências
+- Exploração Florestal
+- Feader
+- Financiamento
 - IFAP
 - Ordenamento Florestal
 - Plano de Gestão Florestal
-- Exploração Florestal
 - Plano Regional de Ordenamento Florestal
-- Autoridade Florestal Nacional
+- Política Florestal
+- Proder
+- Projeto de Investimento
+- Proteção da Floresta
 - Regulamento de Aplicação da Acção N.º 1.3.1-melhoria Produtiva dos Póvoamentos
 - Regulamento de Aplicação da Acção N.º 2.3.2.-ordenamento e Recuperação de Póvoamentos
 - Regulamento de Aplicação da Acção Nº 2.3.3-valorização Ambiental dos Espaços Florestais
-- Política Florestal
-- Aproveitamento Agrícola
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre
@@ -103,16 +103,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/828/2008/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/828/2008/08/08/p/dre
+- type: cites
+  target: pt:dre:220950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:26Z'
   warnings: []
   errors: []
 ---
@@ -173,4 +185,4 @@ Ao artigo 11.º do Regulamento aprovado pela [Portaria n.º 1137-B/2008](https:/
 
 6 - Cabe à AFN manter a AG do PRODER informada sobre os PGF apresentados.»
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Janeiro de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Janeiro de 2009.

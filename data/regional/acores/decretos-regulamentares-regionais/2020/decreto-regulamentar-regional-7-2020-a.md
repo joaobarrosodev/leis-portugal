@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/02/03500/0000600010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2020/02/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2020-129341449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4aea559715a69fb3462d3d9e441a6f52ba8afd130f62dee05d2272be8a71add
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d9b1269aeb4af5b2c07a0b9765e3a61034b35b1dd19d9376a64b06a3c1238b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Extinção de Carreiras
+- Açores
 - Aerogare Civil das Lajes
 - Assistente de Operações Aeroportuárias
-- Formação Profissional
-- Secretaria Regional da Economia
+- Carreira Profissional
 - Definição de Funções
 - Descanso Semanal
-- Sistema Retributivo
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Remuneração Acessória
-- Orgânica
 - Descrição de Funções
+- Estatuto Remuneratório
+- Extinção de Carreiras
+- Formação Profissional
+- Horário de Trabalho
+- Orgânica
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 - Regime Jurídico
-- Horário de Trabalho
 - Remuneração
+- Remuneração Acessória
+- Secretaria Regional da Economia
 - Serviços de ILHA
-- Açores
-- Estatuto Remuneratório
+- Sistema Retributivo
 - Subsídio
 - Subsídio de Prevenção
 - Subsídio de Turno
@@ -132,16 +132,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:114440373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122529725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127816253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670279:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:38Z'
   warnings: []
   errors: []
 ---
@@ -306,7 +346,7 @@ Carreira de técnico de operações aeroportuárias
 
 Categoria: técnico de operações aeroportuárias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/02/03500/0000600010.pdf))](https://files.diariodarepublica.pt/1s/2020/02/03500/0000600010.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/02/03500/0000600010.pdf)
 
 ###### Artigo 2.º — Entrada em vigor
 
@@ -314,10 +354,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, nas Velas, em 23 de janeiro de 2020.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 14 de fevereiro de 2020.**
+Assinado em Angra do Heroísmo em 14 de fevereiro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+113019035

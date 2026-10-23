@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2016/06/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2016-74711479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 275d7fdfb5aaa74ec07f7b91b42a5b86f743b5ff9c3377bafad33d2478ebd804
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf9d010398e9274103060322c04b50f12983e9da42698c133491f13b64760ef6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pobreza
-- Grupo Desfavorecido
+- Açores
+- Arrendamento Urbano para Habitação
 - Base das Lajes
 - Comparticipação do Estado
 - Contrato
+- Grupo Desfavorecido
 - Habitação
+- Pobreza
+- Programa Famílias com Futuro
 - Renda Apoiada
 - Renda de CASA
 - Subsídio de Renda de CASA
-- Açores
-- Arrendamento Urbano para Habitação
-- Programa Famílias com Futuro
 relationships:
 - type: amended_by
   target: pt:dre:145132202:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145132202:por
+  label: Alterados os arts. 4.º, 5.º, 7.º, 11.º, 15.º, 16.º, 17.º e 18.º e os Anexos I e VI do DRR 15/2015/A, de 12-ago, na
+    versão revista e republicada pelo presente diploma, pelo(a) Decreto Regulamentar Regional n.º 21/2020/A - Diário da República
+    n.º 198/2020, Série I de 2020-10-12, que procede à sua republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2020-145132202
+  date: '2020-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/
   label: null
@@ -124,16 +131,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/81/2014/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/81/2014/12/19/p/dre
+- type: cites
+  target: pt:dre:175305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274242:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56384936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69992913:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:22Z'
   warnings: []
   errors: []
 ---
@@ -180,45 +239,63 @@ c) Cópia do contrato de arrendamento, registado no Housing Office e no serviço
 
 9 - [Anterior n.º 8.]
 
-## ANEXO V — [...]
+ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf))](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+[...]
 
-###### Artigo 2.º — Republicação
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+
+Artigo 2.º
+
+Republicação
 
 É republicado, em anexo ao presente diploma e do qual faz parte integrante, o [Decreto Regulamentar Regional n.º 15/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2015-69992913), de 12 de agosto.
 
-###### Artigo 3.º — Entrada em vigor
+Artigo 3.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Vila do Corvo, em 7 de abril de 2016.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo, em 19 de maio de 2016.**
+Assinado em Angra do Heroísmo, em 19 de maio de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO — Republicação do [Decreto Regulamentar Regional n.º 15/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2015-69992913), de 12 de agosto
+ANEXO
 
-### CAPÍTULO I — Disposições Gerais
+Republicação do [Decreto Regulamentar Regional n.º 15/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2015-69992913), de 12 de agosto
 
-###### Artigo 1.º — Objeto
+CAPÍTULO I
+
+Disposições Gerais
+
+Artigo 1.º
+
+Objeto
 
 O presente diploma regulamenta o [Decreto Legislativo Regional n.º 23/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2009-481970), de 16 de dezembro, alterado pelo [Decreto Legislativo Regional n.º 16/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936), de 1 de setembro, que aprova o regime de apoio à habitação pela via do arrendamento, designado por programa Famílias com Futuro.
 
-###### Artigo 2.º — Âmbito de aplicação
+Artigo 2.º
+
+Âmbito de aplicação
 
 O procedimento de atribuição de habitações para resolução de situações de grave carência habitacional e o modelo de apoio ao incentivo ao arrendamento obedecem ao previsto no presente diploma.
 
-###### Artigo 3.º — Condições de idoneidade
+Artigo 3.º
+
+Condições de idoneidade
 
 Só poderão candidatar-se, bem como beneficiar dos apoios instituídos, os candidatos que não sejam devedores à Autoridade Tributária e à Segurança Social ou, sendo-o, que as suas dívidas se encontrem cobertas por um qualquer plano de regularização aceite pelas entidades credoras.
 
-###### Artigo 4.º — Prova de declarações
+Artigo 4.º
+
+Prova de declarações
 
 1 - Para efeito da apreciação da candidatura, os serviços da Direção Regional da Habitação podem, a qualquer momento, exigir a apresentação de documentos comprovativos das declarações prestadas pelos requerentes.
 
@@ -228,7 +305,9 @@ Só poderão candidatar-se, bem como beneficiar dos apoios instituídos, os cand
 
 4 - Considera-se regularmente notificado o interessado, cuja notificação enviada para o domicílio do requerente, não seja por ele reclamada.
 
-###### Artigo 5.º — Causas de improcedência liminar do pedido
+Artigo 5.º
+
+Causas de improcedência liminar do pedido
 
 1 - Considera-se liminarmente improcedente a candidatura, quando se verifique alguma das seguintes situações:
 
@@ -242,13 +321,19 @@ d) O requerente e respetivo agregado familiar não reúnam as condições de ido
 
 2 - Os requerentes serão notificados dos fundamentos da decisão de improcedência do pedido através de carta registada, de correio eletrónico, ou se for em número que torne inconveniente outra forma de notificação, através de Edital, no prazo máximo de noventa dias.
 
-###### Artigo 6.º — Disposições subsidiárias
+Artigo 6.º
+
+Disposições subsidiárias
 
 A matéria não regulamentada no presente diploma relativa ao acesso e à atribuição de habitações para a resolução de situações de grave carência habitacional, pela via do arrendamento e do subarrendamento, obedece ao regime de arrendamento apoiado, aprovado pela [Lei n.º 81/2014](https://diariodarepublica.pt/dr/detalhe/lei/81-2014-65949853), de 19 de dezembro.
 
-### CAPÍTULO II — Resolução de situações de grave carência habitacional
+CAPÍTULO II
 
-###### Artigo 7.º — Seleção das Habitações
+Resolução de situações de grave carência habitacional
+
+Artigo 7.º
+
+Seleção das Habitações
 
 1 - Para efeitos de aquisição de habitações selecionadas nos termos dos n.os 1 e 2, do artigo 8.º do diploma ora regulamentado, a mesma estará sujeita aos preços máximos definidos anualmente para efeitos dos [Decretos-Leis n.os 163/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242), de 7 de maio, e [135/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2004-281201), de 3 de junho, na redação conferida pelo [Decreto-Lei n.º 54/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2007-518445), de 12 de março, e [Decreto-Lei n.º 197/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1995-484576), de 29 de julho.
 
@@ -272,7 +357,9 @@ ii) A margem adicional de área bruta contemple a existência de um espaço de g
 
 iii) Por razões de complexidade técnica, arquitetónica ou urbanística, nomeadamente para efeitos de requalificação e revitalização dos centros urbanos.
 
-###### Artigo 8.º — Arrendamento de habitações pela Região
+Artigo 8.º
+
+Arrendamento de habitações pela Região
 
 1 - Atento o artigo 12.º, do diploma ora regulamentado, a seleção das habitações a tomar de arrendamento será feita de acordo com as necessidades de arrendamento, através da consulta ao mercado imobiliário, nomeadamente no que concerne a tipologias e localização.
 
@@ -312,7 +399,9 @@ e) Certidão comprovativa de situação contributiva regularizada perante a Auto
 
 5 - Para os efeitos do n.º 4, do artigo 12.º, do diploma ora regulamentado, os valores máximos de renda por metro quadrado são os previstos nas Tabelas I e II, do Anexo II ao presente regulamento, do qual faz parte integrante, tendo em consideração a zona em que se localiza o imóvel.
 
-###### Artigo 9.º — Início do procedimento e documentação que acompanha as candidaturas
+Artigo 9.º
+
+Início do procedimento e documentação que acompanha as candidaturas
 
 1 - Os procedimentos de abertura de candidaturas e os respetivos formulários de candidatura são aprovados por despacho do membro do Governo Regional com competência em matéria de habitação.
 
@@ -364,9 +453,13 @@ i) Comprovativo de perda de habitação por ação judicial de despejo em fase d
 
 j) Outros documentos que o candidato considere pertinentes para a avaliação da candidatura.
 
-### CAPÍTULO III — Incentivo ao arrendamento de prédios ou de frações autónomas para residência permanente
+CAPÍTULO III
 
-###### Artigo 10.º — Formalização da candidatura
+Incentivo ao arrendamento de prédios ou de frações autónomas para residência permanente
+
+Artigo 10.º
+
+Formalização da candidatura
 
 1 - A candidatura ao incentivo ao arrendamento é efetuada pelo candidato na Direção Regional da Habitação, nos serviços executivos periféricos do respetivo departamento do Governo Regional, bem como nos postos de atendimento da Rede Integrada de Apoio ao Cidadão - RIAC, através do preenchimento do respetivo formulário.
 
@@ -376,7 +469,9 @@ j) Outros documentos que o candidato considere pertinentes para a avaliação da
 
 4 - Os períodos referidos nos n.os 2 e 3 poderão ser alterados por despacho do membro do Governo Regional com competência em matéria de habitação.
 
-###### Artigo 11.º — Documentação que acompanha as candidaturas
+Artigo 11.º
+
+Documentação que acompanha as candidaturas
 
 1 - A apresentação da candidatura é efetuada nos termos do n.º 1 do artigo anterior, acompanhada dos documentos elencados nos números seguintes.
 
@@ -456,13 +551,17 @@ c) Cópia do contrato de arrendamento, registado no Housing Office e no serviço
 
 9 - A não instrução do processo de renovação do apoio nos termos indicados e dentro do prazo estabelecido no n.º 3, do artigo anterior, determina a caducidade do direito à renovação.
 
-###### Artigo 12.º — Apreciação formal das candidaturas
+Artigo 12.º
+
+Apreciação formal das candidaturas
 
 1 - Na fase de apreciação formal das candidaturas o departamento de Governo Regional com competência em matéria de habitação verifica o requerimento e os documentos que o acompanham.
 
 2 - Caso haja desconformidade documental, o candidato será notificado para, no prazo de dez dias, completar o pedido nos termos exigíveis.
 
-###### Artigo 13.º — Apreciação material das candidaturas
+Artigo 13.º
+
+Apreciação material das candidaturas
 
 1 - A apreciação material das candidaturas compreende as seguintes fases:
 
@@ -474,7 +573,9 @@ b) A apreciação da candidatura com base nas informações prestadas pelos cand
 
 3 - Em caso de igualdade de pontuação de candidaturas, é classificada em 1.º lugar aquela em que o candidato ou membros do agregado familiar sejam portadores de deficiência, em segundo lugar a do agregado com maior número de elementos e, no caso de a igualdade persistir, a que apresentar menor rendimento mensal bruto.
 
-###### Artigo 14.º — Diligências instrutórias
+Artigo 14.º
+
+Diligências instrutórias
 
 1 - Para os efeitos previstos no n.º 1, do artigo anterior, o órgão instrutor promoverá as diligências instrutórias consideradas pertinentes, tais como apresentação de provas, documentos, informações e esclarecimentos por parte dos candidatos, averiguações, exames, perícias, vistorias e avaliações, podendo para o efeito solicitar aos competentes serviços públicos, de acordo com a informação disponível em cada um deles, a verificação dos dados relativos aos rendimentos, à composição dos agregados familiares e aos imóveis inscritos a favor destes.
 
@@ -482,13 +583,17 @@ b) A apreciação da candidatura com base nas informações prestadas pelos cand
 
 3 - Todos os atos instrutórios realizados são registados e arquivados no processo do candidato a que digam respeito.
 
-###### Artigo 15.º — Decisão das candidaturas
+Artigo 15.º
+
+Decisão das candidaturas
 
 1 - As candidaturas ao incentivo ao arrendamento de prédios ou de frações autónomas para residência permanente são aprovadas pelo membro do Governo Regional competente em matéria de habitação até ao limite da dotação orçamental anual fixada no Plano e inscrita no Orçamento da Região para o efeito.
 
 2 - As alterações que possam advir, após decisão da candidatura, em relação às condições de acesso existentes à data da apresentação da candidatura, só serão consideradas aquando do pedido de renovação previsto no n.º 3, do artigo 10.º
 
-###### Artigo 16.º — Apoio financeiro
+Artigo 16.º
+
+Apoio financeiro
 
 1 - O apoio financeiro, previsto no diploma ora regulamentado, é concedido sob a forma de subvenção mensal não reembolsável, calculada mediante a aplicação das percentagens estabelecidas no Anexo IV ao presente regulamento, e que dele faz parte integrante, ao menor dos valores entre a renda máxima considerada elegível para a respetiva zona e tipologia e a renda.
 
@@ -496,7 +601,9 @@ b) A apreciação da candidatura com base nas informações prestadas pelos cand
 
 3 - Nos termos do n.º 3, do artigo 35.º do diploma ora regulamentado, o apoio financeiro é pago por transferência bancária para o NIB do titular da candidatura, nos termos previstos na alínea a), do n.º 6, do artigo 11.º, até ao dia 6 do mês a que corresponde.
 
-###### Artigo 17.º — Majorações
+Artigo 17.º
+
+Majorações
 
 1 - O valor do apoio financeiro a conceder nos termos do n.º 1 do artigo anterior poderá ser objeto de majoração nos seguintes casos:
 
@@ -510,56 +617,78 @@ d) Agregados monoparentais, 10 %.
 
 2 - O apoio financeiro a conceder não poderá, em qualquer caso, ultrapassar o valor correspondente a 70 % do menor dos valores previstos no n.º 1 do artigo anterior.
 
-###### Artigo 18.º — Segundas candidaturas
+Artigo 18.º
+
+Segundas candidaturas
 
 Para as situações previstas no n.º 2, do artigo 27.º, do diploma ora regulamentado, o apoio financeiro será calculado com base nas percentagens previstas na tabela constante do Anexo VI ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 19.º — Cumulação de subsídios
+Artigo 19.º
+
+Cumulação de subsídios
 
 Para efeitos do artigo 42.º do diploma ora regulamentado, o apoio não é cumulável com eventuais apoios concedidos para o mesmo fim e com a mesma natureza pela administração central, regional ou local, assim como por sociedades anónimas nas quais a Região seja único acionista.
 
-### CAPÍTULO IV — Disposições finais
+CAPÍTULO IV
 
-###### Artigo 20.º — Norma revogatória
+Disposições finais
+
+Artigo 20.º
+
+Norma revogatória
 
 São revogadas a Portaria n.º 15/2010, de 11 de fevereiro, alterada pelas Portarias n.º 30/2010, de 22 de março, e n.º 16/2013, de 14 de março.
 
-###### Artigo 21.º — Entrada em vigor
+Artigo 21.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO I — Área Bruta Máxima por Tipologia
+ANEXO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf))](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+Área Bruta Máxima por Tipologia
 
-## ANEXO II — TABELA I
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+
+ANEXO II
+
+TABELA I
 
 Zona onde se localiza a habitação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf))](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
 
 TABELA II
 
 Valor Máximo de Renda por Metro Quadrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf))](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
 
-## ANEXO III — Pontuação das Candidaturas
+ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf))](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+Pontuação das Candidaturas
 
-## ANEXO IV — Escalões e percentagens
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+
+ANEXO IV
+
+Escalões e percentagens
 
 1.ª Candidatura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf))](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
 
-## ANEXO V — Renda Máxima Admitida (RMA) por Zona
+ANEXO V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf))](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+Renda Máxima Admitida (RMA) por Zona
 
-## ANEXO VI — Escalões e percentagens a aplicar ao valor da renda
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+
+ANEXO VI
+
+Escalões e percentagens a aplicar ao valor da renda
 
 2.ª Candidatura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf))](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/06/11400/0188101888.pdf)

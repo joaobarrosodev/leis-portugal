@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1982, 10º Suplemento, Série I de 1982-12-31
   number: '301'
   series: I
-  supplement: 10º Suplemento
+  supplement: null
   pages: 4326-(236) a 4326-(247)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf
 entry_into_force_dates: []
@@ -46,36 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/14-1982-642704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25ee39cc6aaf1b814a5785ffdd7eb802ed6b8972597c52bbd6b306019f558dfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bee0a51bab121a5e167f0c533da36a87a611b43d989427fb78921cd8ef5c6861
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+relationships:
+- type: amended_by
+  target: pt:dre:660766:por
+  label: "Alterada pela RES.2/84/A.1984.01.25.ARA, DR.IS [21]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-regional/2-1984-660766
+  date: '1984-01-25'
+- type: cites
+  target: pt:dre:138293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:144414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601277:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:326161:por
+  label: Rectificado pela DECL.DD5745.27.04.1983.PCM, DR.IS [99-Supl] de 30.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-326161
+  date: '1983-04-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:38Z'
   warnings: []
   errors: []
 ---
@@ -84,15 +120,15 @@ validation:
 
 A Assembleia Regional dos Açores resolveu, nos termos dos artigos 229.º, alínea l), da Constituição, e 26.º, n.º 1, alínea g), do Estatuto, aprovar o orçamento regional para 1983, constante dos anexos que seguem.
 
-**O Presidente da Assembleia Regional, Álvaro Monjardino.**
+O Presidente da Assembleia Regional, Álvaro Monjardino.
 
 ## ANEXO I — Resumo da receita por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
 
 ## ANEXO II — Resumo das despesas por secretarias regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
 
 I - Introdução
 
@@ -170,7 +206,7 @@ MAPA I
 
 Síntese do orçamento da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
 
 II - Execução do orçamento da Região Autónoma dos Açores no período de Janeiro a Junho de 1982
 
@@ -206,7 +242,7 @@ As transferências para o sector público são na sua quase totalidade constitu�
 
 Por fim, e no que respeita às despesas de capital, salienta-se que 49% dos dispêndios efectuados correspondem a investimentos do Plano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
 
 III - Previsão de receitas
 
@@ -258,7 +294,7 @@ Para além daquele valor inscrito na rubrica «Transferências de capital», foi
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
 
 IV - Previsão de despesas
 
@@ -302,7 +338,7 @@ Por fim, salienta-se que se registam diminuições nas dotações atribuídas à
 
 Analisando as despesas do Plano segundo as suas finalidades, verifica-se que as verbas mais volumosas são destinadas aos sectores dos transportes (2750000 contos) (38%), da educação (907000 contos) (13%), da energia (730000 contos) (10%) e da agricultura (469000 contos) (7%).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30110/02360247.pdf)
 
 V - Financiamento do défice
 
@@ -324,4 +360,4 @@ As fontes de financiamento do défice constante da presente resolução não se 
 
 Aprovada pela Assembleia Regional dos Açores em 26 de Novembro de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.

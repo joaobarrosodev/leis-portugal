@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 68/2007, 1º Suplemento, Série I de 2007-04-05
   number: '68'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2218-(2) a 2218-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/06801/00020011.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/401-a/2007/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/401-a-2007-631626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a3312e51f00a3b9c3225c00bf2ef4f91609a2a302587861cabe00b171908b37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56b0ffc542ad776b6b4ba9e57d1cab4efa256be5d65acf06295110cb884d241f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ subjects:
 - Arquivística
 - Conservação de Documentos
 - Definição de Competências
+- Direção Geral do Orçamento
 - Documentação Administrativa
 - Documentação Classificada
 - Instituto dos Arquivos Nacionais-torre do Tombo
-- Direção Geral do Orçamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:21Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +121,7 @@ Manda o Governo, pelos Ministros das Finanças e da Administração Pública e d
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 7 de Março de 2007. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima, em 26 de Fevereiro de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 7 de Março de 2007. - A Ministra da Cultura, Maria Isabel da Silva Pires de Lima, em 26 de Fevereiro de 2007.
 
 ## ANEXO — REGULAMENTO ARQUIVÍSTICO DA DIRECÇÃO-GERAL DO ORÇAMENTO
 
@@ -231,4 +243,4 @@ Compete ao IAN/TT a inspecção sobre a execução do disposto no presente Regul
 
 Do ANEXO I ao ANEXO III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/06801/00020011.pdf))](https://files.diariodarepublica.pt/1s/2007/04/06801/00020011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/06801/00020011.pdf)

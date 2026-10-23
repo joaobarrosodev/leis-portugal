@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2009/10/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2009-491735
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7453fea631ae63b0bc9a9320d8c688e2fd53f1bac5965ec5f0c9f711919ed92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6f93117953419982fc041f4813960c8787a42a903aaaf5c723d4bb05b721723
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,47 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
+- Apoio ao Investimento
 - Aproximação das Legislações
 - Auditoria
-- Qualidade do AR
-- Imóvel Classificado
-- Energia Elétrica
-- Multa
+- Certificação Energética dos Edifícios
+- Climatização
 - Contra-ordenação
 - Definição de Competências
-- Climatização
-- Sistema de Certificação Energética
-- Política Energética
-- Equipamento Social
+- Eficiência Energética
+- Energia
+- Energia Elétrica
 - Equipamento Eléctrico
+- Equipamento Social
 - Equipamento Térmico
 - Especificação Técnica
-- Instalação de GÁS
 - Fiscalização
-- Apoio ao Investimento
-- Certificação Energética dos Edifícios
-- Igreja
-- Indústria da Construção
-- Licenciamento
-- Normas de Construção
-- Energia
-- Poupança de Energia
-- Profissão Independente
-- Qualificação Profissional
-- Projeto
 - Habitação
-- Responsabilidade Civil
-- Açores
-- Sistema Nacional de Certificação Energética e da Qualidade do AR Interior nos Edifícios
+- Igreja
+- Imóvel Classificado
+- Indústria da Construção
+- Instalação de GÁS
+- Licenciamento
+- Multa
+- Normas de Construção
+- Política Energética
+- Poupança de Energia
 - Prédio Urbano
-- Eficiência Energética
+- Profissão Independente
+- Projeto
+- Qualidade do AR
+- Qualificação Profissional
+- Responsabilidade Civil
+- Sistema de Certificação Energética
+- Sistema Nacional de Certificação Energética e da Qualidade do AR Interior nos Edifícios
 - TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:73399498:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544389:por
+  label: "Integradas outras duas finalidades no nº 1 do art. 8º, assim como é intergrado o domínio \"Ascensores e outros dispositivos\
+    \ eletromecânicos fixos de transporte de pessoas\" no nº 2 do art. 12º pelo DLR.4/2012/A.17.01.2012.AL-RAA, DR.IS [12]\
+    \ de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-2012-544389
+  date: '2012-01-17'
 - type: cites
   target: celex:31985D0368
   label: null
@@ -135,16 +142,22 @@ relationships:
   target: celex:32006L0032
   label: null
   source: http://data.europa.eu/eli/dir/2006/32/oj
+- type: repealed_by
+  target: pt:dre:73399498:por
+  label: Revogado (a partir de 10.02.2016) pelo(a) Decreto Legislativo Regional n.º 4/2016/A - Diário da República n.º 22/2016,
+    Série I de 2016-02-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-2016-73399498
+  date: '2016-02-02'
 article_structure:
   article_count: 112
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:58Z'
   warnings: []
   errors: []
 ---
@@ -2097,11 +2110,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 9 de Setembro de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 2 de Outubro de 2009.**
+Assinado em Angra do Heroísmo em 2 de Outubro de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -2111,7 +2124,7 @@ QUADRO N.º 1
 
 Escala de classificação energética dos edifícios ou fracções autónomas com certificados dos tipos A e C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
 
 QUADRO N.º 2
 
@@ -2121,26 +2134,26 @@ Valores de referência para o cálculo da classe energética
 
 A - Perfil dinâmico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
 
 B - Perfil estático
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
 
 QUADRO N.º 3
 
 Classe energética dos imóveis com certificados do tipo B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
 
 QUADRO N.º 4
 
 Valores de referência limite dos consumos nominais específicos dos novos edifícios de serviços (IEE(índice ref,novos))
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
 
 QUADRO N.º 5
 
 Caudais mínimos de ar novo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf))](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/10/19800/0759607631.pdf)

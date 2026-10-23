@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/00700/00690069.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -49,40 +49,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1988-583788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71b241c6b8d58acfa4c964d0a4f08298d94ffb83ed3c52d37a6171d419630dc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40e60ca3099a1246e4b689d85531a926ce7d3cfbe24e3624ab316a2d3a87582a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Açores
+- Administração Regional
+- Financiamento
+- Saneamento Básico
 relationships:
 - type: amended_by
   target: pt:dre:610404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324962:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:610404:por
+  label: "Revogado, a partir de 01.04.2010, pelo DLR.8/2010/A.05.03.2010.AL-RAA, DR.IS [45] de 05.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2010-610404
+  date: '2010-03-05'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:01Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +117,7 @@ Em execução do [Decreto Legislativo Regional n.º 1/85/A](https://diariodarepu
 
 O Governo Regional decreta, nos termos do artigo 229.º, alínea b), da Constituição, o seguinte:
 
-###### Artigo único. O n.º 1 do artigo 3.º, o artigo 13.º e o n.º 2 do artigo 14.º do [Decreto Regulamentar Regional n.º 11/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1985-151885), de 3 de Junho, passam a ter a seguinte redacção:
+Artigo único. O n.º 1 do artigo 3.º, o artigo 13.º e o n.º 2 do artigo 14.º do [Decreto Regulamentar Regional n.º 11/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1985-151885), de 3 de Junho, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — [...]
 
@@ -139,10 +157,10 @@ e) A enumeração dos projectos excluídos e respectiva justificação.
 
 Aprovado em Conselho do Governo Regional, em Velas, em 12 de Novembro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 18 de Dezembro de 1987.**
+Assinado em Angra do Heroísmo em 18 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.

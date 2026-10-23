@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/24/2009/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24-2009-603196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b3da721eb3f042958b7e9826ed8dbc22c8600a3894d2125bd9a7828f9623b16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f22353ad37252d87b9f2c5a5d37486e44609e08780eaf68ba5059d0f1a72ee93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Árbitro
-- Modernização Administrativa
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
 - Avaliação de Prédios
+- Coeficiente de Conservação
 - Comissão Arbitral
 - Comissão Arbitral Municipal
-- Obras de Conservação e Restauro
-- Arrendamento Urbano não Habitacional
 - Impresso
-- Programa Simplex
-- Coeficiente de Conservação
-- Prorrogação de Prazo
+- Modernização Administrativa
+- Obras de Conservação e Restauro
 - Prédio Urbano
-- Arrendamento Urbano para Habitação
+- Programa Simplex
+- Prorrogação de Prazo
 - Vistoria
 relationships:
 - type: cites
@@ -98,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/246/2008/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/246/2008/03/27/p/dre
+- type: cites
+  target: pt:dre:152704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:59Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +144,4 @@ Manda o Governo, pelos Ministros de Estado e das Finanças, do Ambiente, do Orde
 
 Em 20 de Outubro de 2008.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita.

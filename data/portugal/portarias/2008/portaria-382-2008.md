@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/382/2008/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/382-2008-449180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf60702c6ba8a7d5bc7e79752be5547340e24cfbdf6a59c23a99bd2e810ffcfb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5a9dce004a1c520e5bf669498a279286e3c1b8095d70cbfad036810611baa8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/397-a/2007/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/397-a/2007/12/31/p/dre
+- type: cites
+  target: pt:dre:529217:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:01Z'
   warnings: []
   errors: []
 ---
@@ -111,8 +115,8 @@ Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, o seguinte
 
 6.º A presente portaria entra em vigor no dia imediato ao da respectiva publicação.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 14 de Maio de 2008.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 14 de Maio de 2008.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10100/0296402964.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10100/0296402964.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10100/0296402964.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10100/0296402964.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10100/0296402964.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10100/0296402964.pdf)

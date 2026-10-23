@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/03/05900/04010402.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1979-383806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5376e91f2f0a5529405fdc07e93a4fabcb02cf19b4fe51579ef0b1a51e943a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12ffc5aa55f09c1a6665fdfeadeb126f08b7751a3d57bdd3a2074342bbe06c96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Desporto
+- Desporto Escolar
+- Direcção Regional da Educação Física e Desportos
+- Educação Física
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:599137:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:418199:por
+  label: "Dada nova redacção ao nº 2 do art. 7º pelo DRR.27/87/A.26.08.1987.GR-RAA, DR.IS [195] de 26.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-1987-418199
+  date: '1987-08-26'
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599137:por
+  label: "Revogado pelo DRR.48/92/A.27.11.1992.GR-RAA, DR.IS-B [275] de 27.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/48-1992-599137
+  date: '1992-11-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:01Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +121,7 @@ Em execução do [Decreto Regulamentar Regional n.º 13/78/A](https://diariodare
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A Divisão da Educação Física e Desportiva Escolar, da Direcção Regional da Educação Física e Desportos, exercerá as suas funções através dos seguintes níveis de coordenação de actividades:
+Artigo 1.º - 1 - A Divisão da Educação Física e Desportiva Escolar, da Direcção Regional da Educação Física e Desportos, exercerá as suas funções através dos seguintes níveis de coordenação de actividades:
 
 a) Coordenação regional;
 
@@ -111,7 +139,7 @@ b) Horta, que compreende as ilhas do Faial, Pico, Flores e Corvo;
 
 c) Ponta Delgada, que compreende as ilhas de S. Miguel e Santa Maria.
 
-###### Art. 2.º A coordenação regional é exercida pelo chefe de divisão, ao qual compete, designadamente:
+Art. 2.º A coordenação regional é exercida pelo chefe de divisão, ao qual compete, designadamente:
 
 a) Colaborar com o director regional na programação e orientação do ensino da educação física e desportiva nos estabelecimentos de ensino oficial e particular da Região;
 
@@ -137,7 +165,7 @@ l) Pronunciar-se sobre os critérios relativos a instalações gimnodesportivas 
 
 m) Exercer outras actividades que lhe venham a ser cometidas por despacho superior.
 
-###### Art. 3.º As actividades de educação física e desportiva escolar, ao nível das zonas, serão asseguradas por um professor coordenador, ao qual compete, designadamente:
+Art. 3.º As actividades de educação física e desportiva escolar, ao nível das zonas, serão asseguradas por um professor coordenador, ao qual compete, designadamente:
 
 a) Colaborar com o chefe da Divisão na programação e orientação das actividades, assegurar o cumprimento da política geral do ensino da Educação Física superiormente definida e realizar com essa finalidade as acções pedagógicas que se tornem necessárias aos estabelecimentos de ensino, exceptuando o superior, localizados na respectiva zona;
 
@@ -157,7 +185,7 @@ h) Elaborar relatórios relativos às suas actividades;
 
 i) Propor os professores do ensino primário que desenvolverão as actividades de coordenadores concelhios, na sua zona de actuação, ouvindo as direcções escolares.
 
-###### Art. 4.º - 1 - A coordenação concelhia da educação física e desportiva escolar é exercida na Região por concelhos, salvo nos casos em que, por motivos fundamentados e mediante despacho do Secretário Regional da Educação e Cultura, deva exercer-se em parte ou em mais do que um concelho, e é assegurada por um professor do ensino primário.
+Art. 4.º - 1 - A coordenação concelhia da educação física e desportiva escolar é exercida na Região por concelhos, salvo nos casos em que, por motivos fundamentados e mediante despacho do Secretário Regional da Educação e Cultura, deva exercer-se em parte ou em mais do que um concelho, e é assegurada por um professor do ensino primário.
 
 2 - Aos coordenadores concelhios, directamente dependentes do coordenador de zona, em articulação com os delegados escolares, compete, designadamente:
 
@@ -173,7 +201,7 @@ e) Colaborar com os coordenadores de zona nas tarefas respeitantes às actividad
 
 f) Elaborar relatórios das suas actividades.
 
-###### Art. 5.º As funções de coordenação da educação física e desportiva escolar são exercidas, em cada estabelecimento dos ensinos preparatório e secundário, pelo delegado de disciplina, ao qual compete, designadamente:
+Art. 5.º As funções de coordenação da educação física e desportiva escolar são exercidas, em cada estabelecimento dos ensinos preparatório e secundário, pelo delegado de disciplina, ao qual compete, designadamente:
 
 a) Orientar e coordenar a acção pedagógica de todos os professores da disciplina de Educação Física:
 
@@ -193,9 +221,9 @@ a) Orientar e coordenar a acção pedagógica de todos os professores da discipl
 
 b) Estabelecer ligação com os directores de instalações, se os houver, para melhor aproveitamento das mesmas.
 
-###### Art. 6.º Os coordenadores de zona assegurarão ao Instituto Universitário dos Açores, na área da sua actuação, o apoio às actividades de educação física e desportos que lhe são próprias.
+Art. 6.º Os coordenadores de zona assegurarão ao Instituto Universitário dos Açores, na área da sua actuação, o apoio às actividades de educação física e desportos que lhe são próprias.
 
-###### Art. 7.º - 1 - As actividades da Divisão da Educação Física e Desportiva Escolar são exercidas pelo seguinte pessoal:
+Art. 7.º - 1 - As actividades da Divisão da Educação Física e Desportiva Escolar são exercidas pelo seguinte pessoal:
 
 a) Coordenadores de zona, nomeados pelo Secretário Regional da Educação e Cultura, sob proposta do director regional da Educação Física e Desportos, em regime de colocação especial, ao abrigo do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, e da legislação regional aplicável, de entre indivíduos licenciados em Educação Física, professores dos ensinos preparatório e secundário;
 
@@ -205,14 +233,14 @@ c) Coordenadores de estabelecimentos de ensino, que são os professores delegado
 
 2 - Ao pessoal referido nas alíneas a) e b) do artigo 7.º é devida a gratificação de 2000$00 mensais.
 
-###### Art. 8.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários Regionais da Educação e Cultura e da Administração Pública.
+Art. 8.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários Regionais da Educação e Cultura e da Administração Pública.
 
 Aprovado em plenário do Governo Regional em 15 de Janeiro de 1979.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 19 de Fevereiro de 1979.**
+Assinado em Angra do Heroísmo em 19 de Fevereiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso Silva Horta.**
+O Ministro da República, Henrique Afonso Silva Horta.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2002/03/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2002-254592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96ba97b2471a24646061a1038a5e5b2d3d42dc1ae63d1d965a25ae803fc52ba1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87c33b6f2b80fcaeaedb4ef2a270e484d8f548e3b5b4391ffd1180a699ffa78f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Pública
-- Sistema Retributivo
 - Carreira Profissional
+- Madeira.região Autónoma
 - Pessoal de Inspecção
 - Pessoal Técnico de Inspecção
 - Pessoal Técnico Superior de Inspecção
-- Madeira.região Autónoma
 - Regime de Pessoal
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:343619:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517846:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante do art. 2.º do presente diploma,\
+    \ pelo AC.18/2007.16.01.2007.TCS, DR.IS [36] de 20.02.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/18-2007-517846
+  date: '2007-01-16'
+- type: amended_by
+  target: pt:dre:343619:por
+  label: "Determinada a cessação da vigência do presente diploma pelo DLR.19/2010/M.19.08.2010.AL-RAM, DR.IS [161] de 19.08.2010\
+    \ aos trabalhadores abrangidos pelo mesmo \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2010-343619
+  date: '2010-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
   label: null
@@ -87,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:07Z'
   warnings: []
   errors: []
 ---
@@ -133,10 +153,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 17 de Janeiro de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, Miguel José Luís de Sousa.**
+O Presidente da Assembleia Legislativa Regional, em exercício, Miguel José Luís de Sousa.
 
-**Assinado em 8 de Fevereiro de 2002.**
+Assinado em 8 de Fevereiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

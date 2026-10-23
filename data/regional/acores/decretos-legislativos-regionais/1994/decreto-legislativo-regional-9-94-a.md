@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/03/075a00/15581559.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/1994/03/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1994-258989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 027f839705aa871d28c47cc575e2cc9e12f6baa70a328d1efc343d71b9a4d38e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4340b9765828996335d51a276905496359ff59e11e182c72a956293385151355
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa Regional
 - Financiamento
 - Orgânica
 - Partido Político
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:408373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196883:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408373:por
+  label: "Revogado pelo DLR.5/2000/A.15.02.2000.ALR-RAA, DR.IS-A [52] de 02.03.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2000-408373
+  date: '2000-02-15'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:34Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +115,7 @@ Assim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alí
 
 O artigo 12.º do [Decreto Legislativo Regional n.º 9/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1986-196883), de 20 de Março, passa a ter a seguinte redacção:
 
-###### Art. 12.º - 1 - É concedido um apoio mensal a cada um dos grupos e representações parlamentares dos partidos políticos com assento na Assembleia, para encargos de assessoria, contactos com os eleitores e outras actividades correspondentes às exigências do cumprimento dos respectivos mandatos democráticos.
+Art. 12.º - 1 - É concedido um apoio mensal a cada um dos grupos e representações parlamentares dos partidos políticos com assento na Assembleia, para encargos de assessoria, contactos com os eleitores e outras actividades correspondentes às exigências do cumprimento dos respectivos mandatos democráticos.
 
 2 - O apoio consistirá numa quantia em dinheiro, equivalente a dois salários mínimos mensais multiplicado pelo número de deputados de cada grupo ou representação parlamentar, sendo, no entanto, assegurado um mínimo de sete salários mínimos mensais nacionais a todos os grupos ou representações parlamentares.
 
@@ -118,10 +127,10 @@ O presente diploma produz efeitos a partir de 1 de Janeiro de 1994.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Janeiro de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 22 de Fevereiro de 1994.**
+Assinado em Angra do Heroísmo em 22 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

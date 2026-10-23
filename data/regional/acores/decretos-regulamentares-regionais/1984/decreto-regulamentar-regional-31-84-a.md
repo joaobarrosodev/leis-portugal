@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/09/20800/27902796.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1984-373434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1270fb759328d8325bfa93365bf0634b48b7c251bf9252cf098d752e7b922e9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c45d0a3b6417bd861c1d0557fcbeca2305f3fd7bee6276e6a29a9868f63a2844
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Delegação Escolar
+- Direcção Escolar
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:221992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:194272:por
+  label: "Revogado o artigo 41.º, pelo DRR.5/86/A.20.01.1986.GR-RAA, DR.IS [34] de 10.02.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1986-194272
+  date: '1986-01-20'
+- type: repealed_by
+  target: pt:dre:221992:por
+  label: "Revogado pelo DRR.32/86/A.06.08.1986.GR-RAA, DR.IS [210] de 12.09.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-1986-221992
+  date: '1986-08-06'
 article_structure:
-  article_count: 1
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:15Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +139,7 @@ O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constit
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - As direcções escolares (DES) constituem serviços externos da Secretaria Regional da Educação e Cultura, que têm como atribuições prestar apoio às actividades de ensino e educação nos domínios da educação pré-escolar, ensino primário e Telescola e ainda desenvolver actividades de promoção sócio-cultural.
+Artigo 1.º - 1 - As direcções escolares (DES) constituem serviços externos da Secretaria Regional da Educação e Cultura, que têm como atribuições prestar apoio às actividades de ensino e educação nos domínios da educação pré-escolar, ensino primário e Telescola e ainda desenvolver actividades de promoção sócio-cultural.
 
 2 - As DES, no exercício das suas atribuições, funcionarão na dependência da Direcção Regional da Administração Escolar.
 
@@ -109,7 +147,7 @@ O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constit
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 2.º - 1 - As DES a que se refere o artigo anterior são as seguintes:
+Art. 2.º - 1 - As DES a que se refere o artigo anterior são as seguintes:
 
 a) Direcção Escolar de Angra do Heroísmo, com jurisdição nas ilhas Terceira, de São Jorge e Graciosa;
 
@@ -127,7 +165,7 @@ c) Direcção Escolar da Horta, com jurisdição nas ilhas do Faial, do Pico, da
 
 #### SECÇÃO I — Direcções escolares
 
-###### Art. 3.º - 1 - São atribuições das DES no âmbito da Direcção Regional da Administração Escolar:
+Art. 3.º - 1 - São atribuições das DES no âmbito da Direcção Regional da Administração Escolar:
 
 a) Elaboração do projecto de orçamento das DES e acompanhamento da execução do mesmo;
 
@@ -181,13 +219,13 @@ d) Dar execução aos processos respeitantes à ADSE.
 
 3 - No exercício das suas competências, as DES estabelecerão relações com os órgãos directivos dos estabelecimentos de ensino e demais serviços da educação.
 
-###### Art. 4.º - 1 - Cada uma das DES é dirigida por um director escolar, que poderá ser coadjuvado por mais de um subdirector escolar.
+Art. 4.º - 1 - Cada uma das DES é dirigida por um director escolar, que poderá ser coadjuvado por mais de um subdirector escolar.
 
 2 - Os subdirectores escolares exercerão as funções que lhes foram especificamente delegadas ou cometidas por despacho do director escolar.
 
 3 - Os directores escolares serão substituídos nas suas faltas e impedimentos pelos subdirectores escolares.
 
-###### Art. 5.º - No exercício das atribuições das DES, compete aos directores escolares:
+Art. 5.º - No exercício das atribuições das DES, compete aos directores escolares:
 
 a) Visitar e orientar, no âmbito das atribuições referidas nos artigos anteriores, os estabelecimentos que lhes estão adstritos, assistindo aos respectivos serviços e promovendo encontros regulares com responsáveis e professores sobre assuntos da sua competência;
 
@@ -231,19 +269,21 @@ u) Executar as directivas do Serviço de Acção Social Escolar e promover direc
 
 ##### SUBSECÇÃO I — Conselho coordenador
 
-###### Art. 6.º - 1 - O conselho coordenador é um órgão de natureza consultiva que assistirá o director escolar em todos os assuntos que contribuem para a articulação e aperfeiçoamento dos serviços administrativos e no apoio à acção social escolar.
+Art. 6.º - 1 - O conselho coordenador é um órgão de natureza consultiva que assistirá o director escolar em todos os assuntos que contribuem para a articulação e aperfeiçoamento dos serviços administrativos e no apoio à acção social escolar.
 
 2 - A composição, atribuição e funcionamento do conselho coordenador serão fixados em diploma autónomo.
 
-##### SUBSECÇÃO II — Secção administrativa
+##### SUBSECÇÃO II
 
-###### Art. 7.º - 1 - Integrada em cada uma das DES funciona uma secção administrativa que, para além de assegurar o apoio de administração financeira e patrimonial, contribui para o desempenho das competências nas DES.
+#### Secção administrativa
+
+Art. 7.º - 1 - Integrada em cada uma das DES funciona uma secção administrativa que, para além de assegurar o apoio de administração financeira e patrimonial, contribui para o desempenho das competências nas DES.
 
 2 - A secção administrativa é dirigida por um chefe de secção.
 
 #### SECÇÃO II — Delegações escolares
 
-###### Art. 8.º - 1 - Às DLES compete, em especial:
+Art. 8.º - 1 - Às DLES compete, em especial:
 
 a) Remeter as vagas existentes de pessoal auxiliar, de harmonia com as normas em vigor;
 
@@ -259,7 +299,7 @@ e) Organizar, nos termos legais, os processos de acumulação.
 
 3 - No exercício das suas competências, as DLES estabelecerão relações com os órgãos directivos dos estabelecimentos de ensino e demais serviços da educação.
 
-###### Art. 9.º - 1 - Para o exercício das competências a que se refere o artigo anterior, as DLES desenvolvem a sua actividade a nível de ilha ou de concelho, compreendendo as seguintes áreas geográficas:
+Art. 9.º - 1 - Para o exercício das competências a que se refere o artigo anterior, as DLES desenvolvem a sua actividade a nível de ilha ou de concelho, compreendendo as seguintes áreas geográficas:
 
 a) Na dependência da Direcção Escolar de Angra do Heroísmo:
 
@@ -289,7 +329,7 @@ c) Na dependência da Direcção Escolar da Horta:
 
 2 - As áreas geográficas a que se refere a alínea b) do número anterior poderão ser ajustadas por portaria do Secretário Regional da Educação e Cultura.
 
-###### Art. 10.º - 1 - Cada uma das DLES é dirigida por um delegado escolar.
+Art. 10.º - 1 - Cada uma das DLES é dirigida por um delegado escolar.
 
 2 - No impedimento e na ausência para férias, o delegado escolar é substituído por um director de escola.
 
@@ -297,7 +337,7 @@ c) Na dependência da Direcção Escolar da Horta:
 
 4 - O director de escola substituto exercerá as competências do delegado escolar que forem previamente definidas em despacho do mesmo.
 
-###### Art. 11.º Ao delegado escolar compete, nomeadamente:
+Art. 11.º Ao delegado escolar compete, nomeadamente:
 
 a) Visitar, no âmbito das suas atribuições, os estabelecimentos de ensino;
 
@@ -323,7 +363,7 @@ l) Participar nas acções pedagógicas que se realizem a nível da sua zona, de
 
 #### SECÇÃO III — Escolas
 
-###### Art. 12.º - 1 - Constituem órgãos de gestão em cada escola do ensino primário:
+Art. 12.º - 1 - Constituem órgãos de gestão em cada escola do ensino primário:
 
 a) O director de escola;
 
@@ -335,9 +375,9 @@ b) O conselho escolar.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 13.º Cada direcção escolar possui, para além do director, um ou mais subdirectores e pessoal administrativo e auxiliar de acordo com o mapa I anexo ao presente diploma.
+Art. 13.º Cada direcção escolar possui, para além do director, um ou mais subdirectores e pessoal administrativo e auxiliar de acordo com o mapa I anexo ao presente diploma.
 
-###### Art. 14.º - 1 - O director será nomeado, em regime de comissão de serviço, por despacho do Secretário Regional da Educação e Cultura, mediante proposta do director regional da Administração Escolar, de entre os subdirectores em exercício ou de entre professores efectivos ou inspectores com, pelo menos, 5 anos de bom e efectivo serviço prestado nessa qualidade, contando-se, para o efeito, o tempo correspondente ao exercício de funções no âmbito da educação e tomando-se em consideração a qualidade do serviço prestado em lugares de responsabilidade.
+Art. 14.º - 1 - O director será nomeado, em regime de comissão de serviço, por despacho do Secretário Regional da Educação e Cultura, mediante proposta do director regional da Administração Escolar, de entre os subdirectores em exercício ou de entre professores efectivos ou inspectores com, pelo menos, 5 anos de bom e efectivo serviço prestado nessa qualidade, contando-se, para o efeito, o tempo correspondente ao exercício de funções no âmbito da educação e tomando-se em consideração a qualidade do serviço prestado em lugares de responsabilidade.
 
 2 - O período de comissão de serviço será de 2 anos, podendo o mesmo ser prorrogado por iguais períodos.
 
@@ -349,15 +389,15 @@ b) A pedido do interessado, apresentado com, pelo menos, 60 dias de antecedênci
 
 4 - Ao cargo de director escolar é atribuída a letra D do funcionalismo público.
 
-###### Art. 15.º - 1 - Os subdirectores escolares serão nomeados por despacho do Secretário Regional da Educação e Cultura, sob proposta do director regional da Administração Escolar, ouvido o director escolar, de entre os delegados escolares em exercício ou de entre professores efectivos com, pelo menos, 3 anos de bom e efectivo serviço nesta categoria, contando-se, para o efeito, o tempo prestado em outras funções no âmbito da educação, tendo em consideração a qualidade de serviço prestado, preferencialmente de entre os que tenham obtido aproveitamento nos cursos a que se refere o artigo 18.º
+Art. 15.º - 1 - Os subdirectores escolares serão nomeados por despacho do Secretário Regional da Educação e Cultura, sob proposta do director regional da Administração Escolar, ouvido o director escolar, de entre os delegados escolares em exercício ou de entre professores efectivos com, pelo menos, 3 anos de bom e efectivo serviço nesta categoria, contando-se, para o efeito, o tempo prestado em outras funções no âmbito da educação, tendo em consideração a qualidade de serviço prestado, preferencialmente de entre os que tenham obtido aproveitamento nos cursos a que se refere o artigo 18.º
 
 2 - A nomeação será realizada no regime de comissão de serviço, à qual é aplicável o disposto nos n.os 2 e 3 do artigo anterior.
 
-###### Art. 16.º Ao cargo de subdirector escolar é atribuída a letra E do funcionalismo público.
+Art. 16.º Ao cargo de subdirector escolar é atribuída a letra E do funcionalismo público.
 
-###### Art. 17.º Cada delegação escolar possui um delegado escolar e pessoal administrativo e auxiliar de acordo com o mapa II anexo ao presente diploma.
+Art. 17.º Cada delegação escolar possui um delegado escolar e pessoal administrativo e auxiliar de acordo com o mapa II anexo ao presente diploma.
 
-###### Art. 18.º - 1 - Os lugares de delegados escolares serão providos preferencialmente por candidatos aprovados em cursos especiais de formação, a definir por portaria do Secretário Regional de Educação e Cultura, que fixará ao regras de funcionamento, bem como os critérios de classificação dos candidatos.
+Art. 18.º - 1 - Os lugares de delegados escolares serão providos preferencialmente por candidatos aprovados em cursos especiais de formação, a definir por portaria do Secretário Regional de Educação e Cultura, que fixará ao regras de funcionamento, bem como os critérios de classificação dos candidatos.
 
 2 - Os cursos referidos no número anterior versarão, nomeadamente, sobre:
 
@@ -367,7 +407,7 @@ b) Administração escolar;
 
 c) Acção social escolar.
 
-###### Art. 19.º - 1 - Poderão candidatar-se aos cursos especiais de formação mencionados no artigo precedente:
+Art. 19.º - 1 - Poderão candidatar-se aos cursos especiais de formação mencionados no artigo precedente:
 
 a) Professores efectivos do ensino primário que tenham prestado funções nas delegações escolares na qualidade de assistentes pelo menos por 3 anos consecutivos;
 
@@ -379,7 +419,7 @@ d) Outros professores do ensino primário e educadores de infância dos quadros 
 
 2 - Os candidatos admitidos frequentarão os cursos com dispensa de todas as suas actividades, sendo-lhes devidos, se for caso disso, as ajudas de custo e subsídios de viagens previstos na lei geral.
 
-###### Art. 20.º - 1 - Os delegados escolares serão nomeados, em regime de comissão de serviço, por despacho do director regional da Administração Escolar, sob proposta do director escolar, de entre professores do ensino primário e educadores de infância com experiência comprovada no exercício do cargo de director de escola ou de outras funções no âmbito da educação, uns e outros com, pelo menos, 3 anos de bom e efectivo serviço, preferindo os que tenham obtido aproveitamento nos cursos a que se refere o artigo 18.º
+Art. 20.º - 1 - Os delegados escolares serão nomeados, em regime de comissão de serviço, por despacho do director regional da Administração Escolar, sob proposta do director escolar, de entre professores do ensino primário e educadores de infância com experiência comprovada no exercício do cargo de director de escola ou de outras funções no âmbito da educação, uns e outros com, pelo menos, 3 anos de bom e efectivo serviço, preferindo os que tenham obtido aproveitamento nos cursos a que se refere o artigo 18.º
 
 2 - O período de comissão de serviço será de 2 anos, podendo o mesmo ser prorrogado por iguais períodos.
 
@@ -389,23 +429,23 @@ a) Por manifestação de vontade por parte dos interessados, desde que esta seja
 
 b) Por despacho do Secretário Regional da Educação e Cultura, na sequência de procedimento disciplinar em que se tenha concluído pela pena de multa ou superior.
 
-###### Art. 21.º Ao cargo de delegado escolar é atribuída a letra F do funcionalismo público.
+Art. 21.º Ao cargo de delegado escolar é atribuída a letra F do funcionalismo público.
 
-###### Art. 22.º O serviço prestado pelos delegados escolares é contado para todos os efeitos como serviço docente.
+Art. 22.º O serviço prestado pelos delegados escolares é contado para todos os efeitos como serviço docente.
 
-###### Art. 23.º Os delegados escolares serão obrigados a comparecer, sempre que convocados, aos cursos de formação promovidos pela Secretaria Regional da Educação e Cultura, aplicando-se-lhes o previsto no n.º 2 do artigo 19.º
+Art. 23.º Os delegados escolares serão obrigados a comparecer, sempre que convocados, aos cursos de formação promovidos pela Secretaria Regional da Educação e Cultura, aplicando-se-lhes o previsto no n.º 2 do artigo 19.º
 
-###### Art. 24.º - 1 - Sempre que se verifique a existência de uma vaga de delegado, a mesma poderá ser provida, de acordo com os interessados e conveniência para o serviço, por transferência, mediante concurso Interno.
+Art. 24.º - 1 - Sempre que se verifique a existência de uma vaga de delegado, a mesma poderá ser provida, de acordo com os interessados e conveniência para o serviço, por transferência, mediante concurso Interno.
 
 2 - No caso de existir mais de um interessado, obterá direito ao pavimento o que possuir mais tempo no exercício das funções do cargo a prover; no caso de subsistir empate, o que tiver mais tempo de serviço como professor.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 25.º - 1 - Os directores, subdirectores e delegados escolares têm direito à gratificação mensal de 3000$00, paga durante os 12 meses do ano quando em exercício efectivo de funções, a qual poderá ser alterada por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura.
+Art. 25.º - 1 - Os directores, subdirectores e delegados escolares têm direito à gratificação mensal de 3000$00, paga durante os 12 meses do ano quando em exercício efectivo de funções, a qual poderá ser alterada por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura.
 
 2 - Será atribuída aos directores de escola, verificada a situação prevista no n.º 2 do artigo 10.º, a gratificação de 3000$00, quando se tratar de impedimento, ou, para os restantes casos, a remuneração em horas extraordinárias correspondentes ao serviço prestado, até ao montante da gratificação.
 
-###### Art. 26.º - 1 - Os actuais adjuntos de director escolar providos definitivamente nesses lugares serão providos, independentemente de quaisquer formalidades legais, excepto o visto da Secção Regional do Tribunal de Contas, em lugares de subdirector escolar criados nos termos do presente diploma, desde que à data da entrada em vigor do mesmo se encontrem no exercício efectivo das funções de adjunto de director escolar, sendo-lhes aplicável o disposto no artigo 15.º
+Art. 26.º - 1 - Os actuais adjuntos de director escolar providos definitivamente nesses lugares serão providos, independentemente de quaisquer formalidades legais, excepto o visto da Secção Regional do Tribunal de Contas, em lugares de subdirector escolar criados nos termos do presente diploma, desde que à data da entrada em vigor do mesmo se encontrem no exercício efectivo das funções de adjunto de director escolar, sendo-lhes aplicável o disposto no artigo 15.º
 
 2 - Sempre que nos termos do n.º 2 do artigo 14.º cesse a comissão de serviço dos subdirectores escolares que à data da entrada em vigor do presente diploma se encontrem providos definitivamente nos lugares de adjunto de director, são assegurados a designação funcional e o vencimento pela letra E, podendo ser colocados, sempre que possível com a sua anuência e sempre de acordo com os interessados caso aquela colocação implique mudança de localidade, em qualquer serviço da Secretaria Regional da Educação e Cultura.
 
@@ -413,33 +453,33 @@ b) Por despacho do Secretário Regional da Educação e Cultura, na sequência d
 
 4 - A afectação dos subdirectores escolares referidos neste artigo far-se-á por portaria conjunta dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura.
 
-###### Art. 27.º Os actuais adjuntos de director escolar providos não definitivamente nesses lugares serão providos, independentemente de todas as formalidades legais, excepto o visto da Secção Regional do Tribunal de Contas, nos respectivos lugares de subdirector escolar criados nos termos do presente diploma, sendo-lhes aplicável o disposto no artigo 15.º
+Art. 27.º Os actuais adjuntos de director escolar providos não definitivamente nesses lugares serão providos, independentemente de todas as formalidades legais, excepto o visto da Secção Regional do Tribunal de Contas, nos respectivos lugares de subdirector escolar criados nos termos do presente diploma, sendo-lhes aplicável o disposto no artigo 15.º
 
-###### Art. 28.º O serviço prestado pelos directores e subdirectores escolares não providos definitivamente no quadro é contado para todos os efeitos como serviço docente.
+Art. 28.º O serviço prestado pelos directores e subdirectores escolares não providos definitivamente no quadro é contado para todos os efeitos como serviço docente.
 
-###### Art. 29.º - 1 - Os actuais delegados escolares poderão ser providos, independentemente de todas as formalidades legais, excepto o visto da Secção Regional do Tribunal de Contas, nos lugares de delegado de zona escolar na delegação onde já vinham exercendo funções.
+Art. 29.º - 1 - Os actuais delegados escolares poderão ser providos, independentemente de todas as formalidades legais, excepto o visto da Secção Regional do Tribunal de Contas, nos lugares de delegado de zona escolar na delegação onde já vinham exercendo funções.
 
 2 - Os actuais assistentes dos delegados escolares, dispensados ou não de funções docentes, que se encontrem à data da publicação deste diploma naquela qualidade, regressarão à actividade docente em 1 de Setembro de 1985.
 
-###### Art. 30.º - 1 - Sempre que não seja possível proceder ao provimento dos lugares de delegado de zona escolar, poderão os respectivos lugares ser preenchidos interinamente por professores do ensino primário.
+Art. 30.º - 1 - Sempre que não seja possível proceder ao provimento dos lugares de delegado de zona escolar, poderão os respectivos lugares ser preenchidos interinamente por professores do ensino primário.
 
 2 - Os lugares de director e subdirector escolar poderão ser providos interinamente, respectivamente, por subdirectores e por delegados escolares, por despacho do Secretário Regional da Educação e Cultura, desde que não exista subdirector ou delegado escolar, que, embora reunindo as condições legais de provimento dos respectivos lugares de director e subdirector escolar, não pretendem o respectivo provimento.
 
-###### Art. 31.º Enquanto não for possível dotar de pessoal administrativo e auxiliar as DLES, poderá a Direcção Regional da Administração Escolar proceder ao destacamento para as DLES, mediante proposta do director escolar, ouvido o delegado:
+Art. 31.º Enquanto não for possível dotar de pessoal administrativo e auxiliar as DLES, poderá a Direcção Regional da Administração Escolar proceder ao destacamento para as DLES, mediante proposta do director escolar, ouvido o delegado:
 
 a) De pessoal administrativo dos serviços centrais ou externos dependentes da Secretaria Regional da Educação e Cultura, após acordo dos respectivos dirigentes dos serviços;
 
 b) De pessoal auxiliar das escolas do ensino primário dependentes da respectiva delegação.
 
-###### Art. 32.º - 1 - Se não for possível proceder aos destacamentos previstos na alínea a) do artigo anterior, poderá o director regional da Administração Escolar autorizar o destacamento para a delegação de zona escolar de professores do ensino primário ou de educadores de infância, até ao limite do número de pessoal administrativo fixado para a delegação.
+Art. 32.º - 1 - Se não for possível proceder aos destacamentos previstos na alínea a) do artigo anterior, poderá o director regional da Administração Escolar autorizar o destacamento para a delegação de zona escolar de professores do ensino primário ou de educadores de infância, até ao limite do número de pessoal administrativo fixado para a delegação.
 
 2 - Aos professores e educadores de infância referidos no número anterior é aplicável o regime de colocação especial previsto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro, ou a legislação que lhe vier a ser subsequente.
 
-###### Art. 33.º - 1 - O pessoal administrativo dos quadros privativos das DES e DLES constantes, respectivamente, dos mapas I e II anexos a este diploma, integram-se no quadro único a que se refere o artigo 1.º do Decreto Regulamentar Regional n.º 17/81/A, de 25 de Fevereiro, aplicando-se-lhes, com as necessárias adaptações, as regras em vigor para provimento de idêntico pessoal dos estabelecimentos de ensino.
+Art. 33.º - 1 - O pessoal administrativo dos quadros privativos das DES e DLES constantes, respectivamente, dos mapas I e II anexos a este diploma, integram-se no quadro único a que se refere o artigo 1.º do Decreto Regulamentar Regional n.º 17/81/A, de 25 de Fevereiro, aplicando-se-lhes, com as necessárias adaptações, as regras em vigor para provimento de idêntico pessoal dos estabelecimentos de ensino.
 
 2 - Os quadros privativos a que se refere o número anterior poderão ser alterados por portaria do Secretário Regional da Educação e Cultura, desde que o número de lugares em cada categoria no conjunto do quadro único das escolas, DES e DLES não seja alterado.
 
-###### Art. 34.º - 1 - Ao pessoal administrativo das DES e DLES, nomeadamente quanto aos cursos de formação e aos concursos de habilitação, de afectação e de provimento, aplicam-se idênticas disposições às fixadas para o pessoal dos quadros a que se refere o Decreto Regulamentar Regional n.º 17/81/A, de 25 de Fevereiro, competindo genericamente a cada uma das categorias de pessoal administrativo:
+Art. 34.º - 1 - Ao pessoal administrativo das DES e DLES, nomeadamente quanto aos cursos de formação e aos concursos de habilitação, de afectação e de provimento, aplicam-se idênticas disposições às fixadas para o pessoal dos quadros a que se refere o Decreto Regulamentar Regional n.º 17/81/A, de 25 de Fevereiro, competindo genericamente a cada uma das categorias de pessoal administrativo:
 
 a) Chefe de secção. - Orientar, coordenar e supervisionar as actividades de índole administrativa, em conformidade com as respectivas atribuições, nomeadamente nas áreas de pessoal, expediente e arquivo, contabilidade, património e economato.
 
@@ -449,27 +489,27 @@ c) Escriturário-dactilógrafo. - Dactilografar ofícios, informações, mapas, 
 
 2 - Para os efeitos do número anterior, o chefe de secção é equiparado ao chefe dos serviços administrativos de 1.ª classe dos estabelecimentos de ensino preparatório e secundário.
 
-###### Art. 35.º O preenchimento dos lugares do mapa II a que se refere o artigo 17.º do presente diploma poderá ser efectuado antes de 1 de Setembro de 1985, devendo ser ministrados aos funcionários cursos adequados e estágios na direcção ou delegações de zona escolar, que versarão, para cada categoria, os temas a que correspondem as funções enunciadas no n.º 1 do artigo anterior.
+Art. 35.º O preenchimento dos lugares do mapa II a que se refere o artigo 17.º do presente diploma poderá ser efectuado antes de 1 de Setembro de 1985, devendo ser ministrados aos funcionários cursos adequados e estágios na direcção ou delegações de zona escolar, que versarão, para cada categoria, os temas a que correspondem as funções enunciadas no n.º 1 do artigo anterior.
 
-###### Art. 36.º - 1 - O recrutamento para lugares de pessoal auxiliar das DES e DLES far-se-á, com as necessárias adaptações, nas condições estabelecidas no [Decreto Regulamentar Regional n.º 18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1980-681601), de 17 de Abril.
+Art. 36.º - 1 - O recrutamento para lugares de pessoal auxiliar das DES e DLES far-se-á, com as necessárias adaptações, nas condições estabelecidas no [Decreto Regulamentar Regional n.º 18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1980-681601), de 17 de Abril.
 
 2 - Quando as DLES funcionem em edifício próprio, poderá ser contratado pessoal em regime de tempo parcial.
 
-###### Art. 37.º As nomeações em regime de comissão de serviço previstas neste diploma, na vigência do primeiro período de comissão, podem cessar em qualquer momento por despacho do Secretário Regional da Educação e Cultura.
+Art. 37.º As nomeações em regime de comissão de serviço previstas neste diploma, na vigência do primeiro período de comissão, podem cessar em qualquer momento por despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 38.º Ao director, subdirector e delegado escolar que desempenhe cargo ou funções de natureza política poderá ser suspensa a comissão de serviço, desde que lei especial expressamente o preveja.
+Art. 38.º Ao director, subdirector e delegado escolar que desempenhe cargo ou funções de natureza política poderá ser suspensa a comissão de serviço, desde que lei especial expressamente o preveja.
 
-###### Art. 39.º - 1 - Os lugares do quadro geral ocupados pelos directores, subdirectores e delegados escolares nomeados, respectivamente, nos termos dos artigos 14.º, 15.º e 18.º poderão ser considerados vagos para efeitos de concurso ao quadro geral.
+Art. 39.º - 1 - Os lugares do quadro geral ocupados pelos directores, subdirectores e delegados escolares nomeados, respectivamente, nos termos dos artigos 14.º, 15.º e 18.º poderão ser considerados vagos para efeitos de concurso ao quadro geral.
 
 2 - Dadas por findas as nomeações a que se refere o número anterior, o docente regressará sempre ao quadro da escola a que pertencer; não havendo vaga, ficará na situação de supranumerário, com direito à primeira vaga que naquela ocorra ou em outra escola do concelho.
 
 3 - Enquanto durar a situação de supranumerário, o docente exercerá as suas funções na escola a cujo quadro pertencer ou em qualquer serviço da Secretaria Regional da Educação e Cultura, sempre que possível com a sua anuência e sempre de acordo com o interessado caso aquela colocação implique mudança de localidade.
 
-###### Art. 40.º - 1 - São devidas as gratificações a que se refere o n.º 1 do artigo 25.º aos directores e subdirectores escolares a partir de 1 de Janeiro de 1984.
+Art. 40.º - 1 - São devidas as gratificações a que se refere o n.º 1 do artigo 25.º aos directores e subdirectores escolares a partir de 1 de Janeiro de 1984.
 
 2 - Os delegados escolares manterão até 31 de Agosto de 1985 a remuneração atribuída pelo [Decreto Regulamentar Regional n.º 45/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1980-461787), de 26 de Setembro, sem direito a qualquer gratificação.
 
-###### Art. 41.º - 1 - São extintas a partir de 1 de Setembro de 1985 as DLES existentes à data da publicação do presente diploma e criadas, para entrar em funcionamento a partir daquela data, as constantes do artigo 9.º do presente diploma.
+Art. 41.º - 1 - São extintas a partir de 1 de Setembro de 1985 as DLES existentes à data da publicação do presente diploma e criadas, para entrar em funcionamento a partir daquela data, as constantes do artigo 9.º do presente diploma.
 
 2 - O Secretário Regional da Educação e Cultura fixará por despacho, sob proposta da Direcção Regional da Administração Escolar, ouvidos os directores escolares, a localidade em que ficará sediada cada uma das delegações de zona escolar, quando esta abranja mais de um concelho.
 
@@ -481,28 +521,28 @@ b) Gerir o seu mobiliário e equipamento;
 
 c) Executar o que for definido, por despacho do Secretário Regional da Educação e Cultura, quanto ao destino a dar às instalações devolutas.
 
-###### Art. 42.º São revogados os Decretos Regulamentares Regionais n.os [29/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1979-365908) e [45/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1980-461787), respectivamente de 26 de Dezembro e 26 de Setembro.
+Art. 42.º São revogados os Decretos Regulamentares Regionais n.os [29/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1979-365908) e [45/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1980-461787), respectivamente de 26 de Dezembro e 26 de Setembro.
 
-###### Art. 43.º O presente diploma entra em vigor no dia 1 de Janeiro de 1985.
+Art. 43.º O presente diploma entra em vigor no dia 1 de Janeiro de 1985.
 
 Aprovado em Conselho do Governo Regional em 17 de Maio de 1984.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 10 de Agosto de 1984.**
+Assinado em Angra do Heroísmo em 10 de Agosto de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 MAPA I
 
 A que se refere o artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/20800/27902796.pdf))](https://files.diariodarepublica.pt/1s/1984/09/20800/27902796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/20800/27902796.pdf)
 
 MAPA II
 
 A que se refere o artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/09/20800/27902796.pdf))](https://files.diariodarepublica.pt/1s/1984/09/20800/27902796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/09/20800/27902796.pdf)

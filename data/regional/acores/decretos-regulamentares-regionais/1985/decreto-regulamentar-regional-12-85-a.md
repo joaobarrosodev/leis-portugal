@@ -46,36 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1985-182240
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a265039407df515f91f371519cc013b22246b592bb344d2fb23b67375e9b474
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd869590198c628bd7790ee7b4adf7c1473daf99b9afcbcb9b20309e22c3424a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+relationships:
+- type: amended_by
+  target: pt:dre:30967574:por
+  label: "Prorrogado, até 28.02.1986, o prazo estabelecido no n.º 6 do art. 8.º, pela RES.31/86.11.03.1986.PG-RAA, JOA-IS\
+    \ [9] de 11.03.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/31-1986-30967574
+  date: '1986-03-11'
+- type: cites
+  target: pt:dre:138293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661712:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:22Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +130,7 @@ MAPA I
 
 Transferências do Orçamento do Estado para o orçamento da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 Evolução bem diferente das transferências do Orçamento do Estado para o Orçamento da Região Autónoma dos Açores tiveram as receitas fiscais e patrimoniais, bem como as emergentes de tratados e acordos internacionais que dizem respeito à Região.
 
@@ -108,7 +140,7 @@ Estrutura das receitas da Região
 
 (Sem incluir as contas de ordem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 A leitura do quadro anterior permite concluir que uma parcela importante das receitas da Região (mais de metade) provém de fontes externas e verificar que o auxílio financeiro do Estado tem vindo a perder importância relativamente às outras duas componentes. A evolução positiva das receitas fiscais, patrimoniais e decorrentes de acordos e tratados, aliada à concretização de uma política racional de consumos e investimentos públicos, possibilitaram uma diminuição das necessidades de financiamento evidenciadas pelo confronto entre as receitas geradas na Região (fiscais, patrimoniais, benefícios de acordos e tratados internacionais) e as despesas realizadas.
 
@@ -128,7 +160,7 @@ Estrutura das despesas da Região
 
 (Sem incluir as contas de ordem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 2 - Efectuada a integração da administração regional sem sobressaltos de funcionamento ou desequilíbrios financeiros, importa agora prosseguir e aprofundar o programa de racionalização das despesas públicas e de modernização de toda a administração, diminuindo progressivamente o seu peso na economia e melhorando ainda mais a estrutura orçamental.
 
@@ -138,7 +170,7 @@ MAPA IV
 
 Variação das despesas correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 II - Orientação e objectivos da política orçamental
 
@@ -182,7 +214,7 @@ Síntese do orçamento da Região Autónoma dos Açores
 
 (Sem incluir as conta de ordem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 III - Execução orçamental no período de Janeiro a Setembro de 1984
 
@@ -228,7 +260,7 @@ Receitas cobradas
 
 (De Janeiro a Setembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 MAPA VII
 
@@ -240,7 +272,7 @@ Despesas correntes
 
 (Classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 MAPA VIII
 
@@ -252,7 +284,7 @@ Despesas de capital
 
 (Classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 MAPA IX
 
@@ -264,7 +296,7 @@ Despesas do plano
 
 (Classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 MAPA X
 
@@ -276,7 +308,7 @@ Despesa total
 
 (Classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 MAPA XI
 
@@ -286,7 +318,7 @@ Execução orçamental
 
 (Classificação económica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 IV - Previsão de receitas
 
@@ -356,7 +388,7 @@ MAPA XII
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 V - Previsão de despesas
 
@@ -426,25 +458,25 @@ MAPA XIII
 
 Despesas correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 MAPA XIV
 
 Despesas de capital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 MAPA XV
 
 Despesas do plano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 MAPA XVI
 
 Despesa total
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 MAPA XVII
 
@@ -452,7 +484,7 @@ Resumo das despesas por grandes agrupamentos económicos
 
 (Classificação económica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 VI - Necessidades de financiamento
 
@@ -710,7 +742,7 @@ Os contratos de arrendamento de imóveis para instalação de serviços e organi
 
 ###### Artigo 22.º — (Regulamentação)
 
-**O Secretário Regional das Finanças emitirá os regulamentos que se mostrem necessários à execução do presente diploma.**
+O Secretário Regional das Finanças emitirá os regulamentos que se mostrem necessários à execução do presente diploma.
 
 ###### Artigo 23.º — (Entrada em vigor)
 
@@ -718,18 +750,18 @@ O presente diploma entra em vigor em 1 de Maio de 1985.
 
 Aprovado em Conselho do Governo Regional de 12 de Abril de 1985.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 9 de Maio de 1985.**
+Assinado em Angra do Heroísmo em 9 de Maio de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro, da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro, da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 ## ANEXO I — Resumo da receita por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
 
 ## ANEXO II — Resumo da despesas por secretarias regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf))](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/06/14300/16841704.pdf)

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 25/2021, 1º Suplemento, Série I de 2021-02-05
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 11-(2) a 11-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/02/02501/0000200015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1-e/2021/02/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-e-2021-156711998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 079c0fd3bde310d40e445cddaa3294cdb217cbdff31b4e1195e8fecc363c3175
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b3ccae0798b49718ac0ef19ae5f395b45989eb65aa30c7ce0147c8e0b81a8a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,73 +67,73 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Desporto
-- Atividade Agrícola
+- Açores
+- Administração de Portos
+- Administração Regional
 - Aeroporto
-- PSP
 - Análises Clínicas
-- Protecção à Vítima
-- Crime
-- Equipamento Desportivo
+- Artes de Pesca
 - Assistência Médica
-- Direito de Acesso
-- Espetáculos e Divertimentos Públicos
+- Assistência Religiosa
+- Atestado Médico
+- Atividade Agrícola
+- Autarquia Local
 - Boletim de Saúde
 - Cargo Público
 - Cargos Políticos
-- Lares
+- Catástrofe
 - Centro de DIA
 - Cidadão Estrangeiro
-- Atestado Médico
 - Cidadão Nacional
 - Circulação de Pessoas
-- Manifestação Cultural
-- Serviço Nacional de Protecção Civil
 - Companhia Aérea
-- Transporte Aéreo
-- Terceira Idade
-- Governo Regional
+- Condições de Higiene e Segurança no Trabalho
 - Conselho Regional de Protecção Civil
 - Contra-ordenação
-- Regulamentação de Atos Legislativos
 - Controlo Sanitário
+- Crime
+- Cuidados Médicos
+- Direito de Acesso
+- Doença Infecciosa
 - Ensino à Distância
+- Epidemia
+- Equipamento de Proteção
 - Equipamento de Trabalho
-- Saúde Pública
+- Equipamento Desportivo
+- Espetáculos e Divertimentos Públicos
 - Estabelecimento de Bebidas
+- Estabelecimento de Ensino
 - Estabelecimento de Restauração
 - Estado de Emergência
-- Administração de Portos
 - Estudante
 - Fiscalização
-- Catástrofe
+- Governo Regional
 - Horário de Funcionamento
 - Isolamento Profiláctico
+- Lares
+- Manifestação Cultural
 - Medicina Veterinária
 - Multibanco
 - Organismo do Estado
-- Artes de Pesca
-- Doença Infecciosa
-- Epidemia
-- Estabelecimento de Ensino
-- Cuidados Médicos
-- Condições de Higiene e Segurança no Trabalho
-- Teletrabalho
-- Assistência Religiosa
 - Posto de Abastecimento de Combustíveis
-- Administração Regional
-- Açores
+- Protecção à Vítima
+- PSP
+- Regulamentação de Atos Legislativos
+- Saúde Pública
+- Serviço Nacional de Protecção Civil
+- SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
+- Situação de Calamidade
+- Teletrabalho
+- Terceira Idade
 - Trabalhador por Conta de Outrem
 - Tráfego Aéreo
 - Tráfico de Pessoas
+- Transporte Aéreo
 - Transporte de Passageiros
 - Transporte Público
-- Autarquia Local
 - Tripulação
 - Veterinário
 - Violência Doméstica
-- SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
-- Equipamento de Proteção
-- Situação de Calamidade
 relationships:
 - type: amended_by
   target: pt:dre:157397585:por
@@ -175,16 +175,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/23/2020/11/1
   label: null
   source: http://data.dre.pt/eli/decregulreg/23/2020/11/1
+- type: cites
+  target: pt:dre:126467884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146435561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148599586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149106929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151557411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152637736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153138220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153917314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155737377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155903269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:157397585:por
+  label: Revogado, nos termos do art. 22.º, o presente diploma, pelo(a) Decreto Regulamentar Regional n.º 1-F/2021/A - Diário
+    da República n.º 30/2021, 1º Suplemento, Série I de 2021-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-f-2021-157397585
+  date: '2021-02-12'
 article_structure:
   article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:40Z'
   warnings: []
   errors: []
 ---
@@ -599,11 +665,11 @@ O presente diploma entra em vigor a partir das 00:00 horas do dia 6 de fevereiro
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 3 de fevereiro de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 5 de fevereiro de 2021.**
+Assinado em Angra do Heroísmo em 5 de fevereiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -611,4 +677,6 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Delimitação territorial da cerca sanitária da freguesia de Rabo de Peixe
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/02/02501/0000200015.pdf))](https://files.diariodarepublica.pt/1s/2021/02/02501/0000200015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/02/02501/0000200015.pdf)
+
+113955948

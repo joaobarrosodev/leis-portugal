@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/157b00/39193925.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2003/07/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2003-667688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ba573ad98cba8ae893ce7e3bf801a768e81c0f436bbcb9a68ec4a59b0bd7698
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c12b55f1573bb98c9f0271f5466d7df35d7395e178bf526bea78968c39bf326
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Instituto de Gestão de Regimes de Segurança Social
 - Integração de Trabalhadores
 - Pessoal de Inspecção
 - Pessoal Técnico de Inspecção
 - Pessoal Técnico Superior de Inspecção
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Instituto de Gestão de Regimes de Segurança Social
 - Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:276846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517233:por
+  label: "Alterados os arts. 25º, al. c) do art. 31º, 33º, nº 3 do art. 36º, 38º, 45º, 46º, al. c) do art. 49º, 51º, nº 3\
+    \ do art. 53º, 55º, 63º, nº 2 do art. 65º, 67º, nº 2 do art. 68º, al. c) do art. 69º, 70º, 71º, nº 3 do art. 74º, 76º,\
+    \ 100º e 102º e substituído o quadro do pessoal aprovado pelo DRR 9/91/A de 07-Mar - com a redacção do presente diploma\
+    \ - pelo DRR.26/2004/A.08.06.2004.SRAS-RAA, DR.IS-B [158] de 07.07.2004, que procede a nova republicação daquele diploma\
+    \ com todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2004-517233
+  date: '2004-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
   label: null
@@ -96,16 +105,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2002/02/13/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2002/02/13/a/dre
+- type: cites
+  target: pt:dre:209865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276846:por
+  label: "Revogado, a partir de 01.06.2011, o DRR 9/91/A de 07-Mar, alterado pelo presente diploma, pelo DRR.8/2011/A.12.04.2011.PG-RAA,\
+    \ DR.IS [72] de 12.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2011-276846
+  date: '2011-04-12'
 article_structure:
   article_count: 13
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:43Z'
   warnings: []
   errors: []
 ---
@@ -234,13 +273,13 @@ Em tudo o que não estiver especialmente previsto neste diploma aplica-se o [Dec
 
 Aprovado em Conselho do Governo Regional, Velas, São Jorge, em 20 de Maio de 2003.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Agra do Heroísmo em 17 de Junho de 2003.**
+Assinado em Agra do Heroísmo em 17 de Junho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 MAPA I
 

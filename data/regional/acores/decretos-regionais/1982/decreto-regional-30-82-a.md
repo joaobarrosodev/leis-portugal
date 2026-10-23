@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/25000/35803582.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5181fdf99d10d3d0713c8838dea51fd4503dc2766035fcbfdaffbe6a21d835c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d4875f9f895f8de96fb97afeef1945ffa92f6708b2812174c4bb894e4eba3c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Governo Regional
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:534776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480561:por
+  label: "Alterado o n.º de assessores do Presidente do Governo Regional, o pessoal dos gabinetes dos subcretários regionais\
+    \ e equiparado o secretário-geral da Presidência a director regional, em alteração ao presente diploma, pelo DLR.36/88/A.28.11.1988.ARA,\
+    \ DR.IS [275-Supl] de 28.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/36-1988-480561
+  date: '1988-11-28'
+- type: amended_by
+  target: pt:dre:165827:por
+  label: "Alterado art. 4.º do presente diploma, alterado pelo DLR 36/88/A, de 28-Nov, pelo DLR.6/92/A.28.02.1992.ALR-RAA,\
+    \ DR.IS-A [50] de 28.02.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-1992-165827
+  date: '1992-02-28'
+- type: amended_by
+  target: pt:dre:634938:por
+  label: "Reposto em vigor, dando nova redacção, o art. 4º do presente diploma, alterado pelo DLR 36/88/A, de 28-Nov, pelo\
+    \ DLR.6/93/A.12.03.1993.ALR-RAA, DR.IS-A [60] de 12.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-1993-634938
+  date: '1993-03-12'
+- type: repealed_by
+  target: pt:dre:480561:por
+  label: "Revogado o DRG 1/76, de 07-Out, alterado pelo presente diploma, pelo DLR.36/88/A.28.11.1988.ARA, DR.IS [275-Supl]\
+    \ de 28.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/36-1988-480561
+  date: '1988-11-28'
+- type: repealed_by
+  target: pt:dre:449468:por
+  label: "Revogado o art. 11º do DLR 6/92/A, de 28-Fev, que altera a redacção do art.º 4º do presente diploma, pelo DLR.30/92/A.31.12.1992.ALR-RAA,\
+    \ DR.IS-A [301-11ºSupl] de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-1992-449468
+  date: '1992-12-31'
+- type: repealed_by
+  target: pt:dre:534776:por
+  label: "Revogado a partir de 01.06.2005 pelo DLR.1/2005/A.11.04.2005.AL-RAA, DR.IS-A [89] de 09.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2005-534776
+  date: '2005-04-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:30Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +139,7 @@ Assim, a Assembleia Regional dos Açores, nos termos da alínea a) do artigo 229
 
 ### CAPÍTULO I — Princípios fundamentais
 
-###### Artigo 1.º - 1 - O Governo e os departamentos governamentais realizarão as suas atribuições por administração directa e por administração indirecta.
+Artigo 1.º - 1 - O Governo e os departamentos governamentais realizarão as suas atribuições por administração directa e por administração indirecta.
 
 2 - A administração directa realizar-se-á através de uma estrutura hierárquico-funcional e por unidades funcionais de carácter transitório.
 
@@ -108,25 +147,25 @@ Assim, a Assembleia Regional dos Açores, nos termos da alínea a) do artigo 229
 
 4 - Poderá ainda o Governo ou os departamentos governamentais recorrer à colaboração da administração autárquica de acordo com a lei ou mediante protocolo.
 
-###### Art. 2.º - 1 - A Presidência do Governo e as secretarias regionais constituem os departamentos governamentais.
+Art. 2.º - 1 - A Presidência do Governo e as secretarias regionais constituem os departamentos governamentais.
 
 2 - Cada membro do Governo é apoiado por um gabinete.
 
 ### CAPÍTULO II — Gabinete dos membros do Governo Regional
 
-###### Art. 3.º O Presidente do Governo Regional, no exercício das suas funções, será apoiado por um gabinete composto por 1 chefe de gabinete, 3 assessores e 1 secretário particular.
+Art. 3.º O Presidente do Governo Regional, no exercício das suas funções, será apoiado por um gabinete composto por 1 chefe de gabinete, 3 assessores e 1 secretário particular.
 
-###### Art. 4.º Os secretários e subsecretários regionais serão apoiados, no exercício das suas funções, por um gabinete composto por 1 chefe de gabinete, 2 adjuntos e 1 secretário particular.
+Art. 4.º Os secretários e subsecretários regionais serão apoiados, no exercício das suas funções, por um gabinete composto por 1 chefe de gabinete, 2 adjuntos e 1 secretário particular.
 
-###### Art. 5.º - 1 - Os elementos dos gabinetes serão providos livremente pelo respectivo membro do Governo Regional, considerando-se para todos os efeitos em exercício de funções à data do despacho que os tiver nomeado, com dispensa do visto do Tribunal de Contas, e independentemente de publicação no Jornal Oficial.
+Art. 5.º - 1 - Os elementos dos gabinetes serão providos livremente pelo respectivo membro do Governo Regional, considerando-se para todos os efeitos em exercício de funções à data do despacho que os tiver nomeado, com dispensa do visto do Tribunal de Contas, e independentemente de publicação no Jornal Oficial.
 
 2 - Os elementos dos gabinetes podem ser exonerados a todo o tempo e cessam funções com as do respectivo membro do Governo.
 
-###### Art. 6.º Os membros do Governo Regional poderão destacar, dos respectivos serviços, o máximo de 2 funcionários para prestarem apoio ao gabinete.
+Art. 6.º Os membros do Governo Regional poderão destacar, dos respectivos serviços, o máximo de 2 funcionários para prestarem apoio ao gabinete.
 
 ### CAPÍTULO III — Estrutura hierárquico-funcional
 
-###### Art. 7.º A estrutura hierárquico-funcional dos departamentos governamentais desenvolver-se-á através dos seguintes tipos de órgãos e serviços centrais:
+Art. 7.º A estrutura hierárquico-funcional dos departamentos governamentais desenvolver-se-á através dos seguintes tipos de órgãos e serviços centrais:
 
 a) Apoio consultivo;
 
@@ -136,17 +175,17 @@ c) Apoio instrumental;
 
 d) Operativos.
 
-###### Art. 8.º - 1 - Os órgãos de apoio consultivo são aqueles que, constituídos habitualmente sob a forma colegial, têm a função de auxiliar os dirigentes dos departamentos governamentais na formulação de princípios gerais de actuação.
+Art. 8.º - 1 - Os órgãos de apoio consultivo são aqueles que, constituídos habitualmente sob a forma colegial, têm a função de auxiliar os dirigentes dos departamentos governamentais na formulação de princípios gerais de actuação.
 
 2 - São órgãos de apoio consultivo os conselhos regionais e as comissões de carácter permanente.
 
-###### Art. 9.º - 1 - Os órgãos de apoio técnico são aqueles que têm funções de estudo e apoio para o planeamento, a programação e o controle da actividade dos departamentos governamentais bem como de fornecer informações técnicas especializadas.
+Art. 9.º - 1 - Os órgãos de apoio técnico são aqueles que têm funções de estudo e apoio para o planeamento, a programação e o controle da actividade dos departamentos governamentais bem como de fornecer informações técnicas especializadas.
 
 2 - São órgãos de apoio técnico os gabinetes técnicos.
 
 3 - Para efeitos de chefia, os gabinetes técnicos poderão ser equiparados a divisões ou a direcções de serviço, se a sua dimensão e âmbito de actuação o justificarem.
 
-###### Art. 10.º - 1 - Os órgãos de apoio instrumental são aqueles que, através da realização material diversificada, executam, nomeadamente, serviços de expediente, arquivo, administração de pessoal, contabilidade e de recolha e tratamento da informação que servem de suporte à prossecução das actividades dos outros órgãos e serviços.
+Art. 10.º - 1 - Os órgãos de apoio instrumental são aqueles que, através da realização material diversificada, executam, nomeadamente, serviços de expediente, arquivo, administração de pessoal, contabilidade e de recolha e tratamento da informação que servem de suporte à prossecução das actividades dos outros órgãos e serviços.
 
 2 - São órgãos de apoio instrumental as repartições ou as secções administrativas e os centros de documentação e informação.
 
@@ -154,58 +193,58 @@ d) Operativos.
 
 4 - Para efeitos de chefia, os centros de documentação e informação poderão ser equiparados a direcções de serviço ou divisões, repartições e secções, consoante a sua dimensão e âmbito de actuação.
 
-###### Art. 11.º - 1 - Os órgãos operativos são aqueles que, através do exercício das suas atribuições, executam directamente os objectivos dos departamentos governamentais.
+Art. 11.º - 1 - Os órgãos operativos são aqueles que, através do exercício das suas atribuições, executam directamente os objectivos dos departamentos governamentais.
 
 2 - São órgãos operativos as direcções regionais, as direcções de serviço, as divisões e as secções técnicas.
 
 3 - As direcções regionais, direcções de serviço, divisões e secções técnicas são chefiadas, respectivamente, por directores regionais, directores de serviço, chefes de divisão e chefes de secção técnica.
 
-###### Art. 12.º - 1 - Junto da Presidência do Governo Regional funcionará uma secretaria-geral, que realizará serviços de expediente, arquivo, administração de pessoal e contabilidade, bem como serviços de contencioso e de apoio jurídico.
+Art. 12.º - 1 - Junto da Presidência do Governo Regional funcionará uma secretaria-geral, que realizará serviços de expediente, arquivo, administração de pessoal e contabilidade, bem como serviços de contencioso e de apoio jurídico.
 
 2 - A secretaria-geral será dirigida por um secretário-geral equiparado, para todos os efeitos, a director de serviços.
 
-###### Art. 13.º Os departamentos governamentais poderão ter, quando as circunstâncias o justificarem, unidades orgânicas desconcentradas no território.
+Art. 13.º Os departamentos governamentais poderão ter, quando as circunstâncias o justificarem, unidades orgânicas desconcentradas no território.
 
-###### Art. 14.º As unidades orgânicas dos departamentos governamentais desconcentradas no território da Região poderão exercer na respectiva área de jurisdição as atribuições referentes a um sector ou a mais de um sector do departamento a que pertencem.
+Art. 14.º As unidades orgânicas dos departamentos governamentais desconcentradas no território da Região poderão exercer na respectiva área de jurisdição as atribuições referentes a um sector ou a mais de um sector do departamento a que pertencem.
 
-###### Art. 15.º As unidades referidas nos artigos anteriores serão direcções de serviço, divisões, repartições ou secções, quando a natureza, âmbito e dimensão o justifiquem, ou unidades de categoria atípica, devendo, neste caso, as remunerações das respectivas chefias ser fixadas com referência a letras da tabela de vencimentos do funcionalismo público.
+Art. 15.º As unidades referidas nos artigos anteriores serão direcções de serviço, divisões, repartições ou secções, quando a natureza, âmbito e dimensão o justifiquem, ou unidades de categoria atípica, devendo, neste caso, as remunerações das respectivas chefias ser fixadas com referência a letras da tabela de vencimentos do funcionalismo público.
 
-###### Art. 16.º Na organização das unidades referidas nos artigos anteriores o Governo terá em conta os princípios estabelecidos nos artigos 63.º, 71.º e 73.º do Estatuto da Região.
+Art. 16.º Na organização das unidades referidas nos artigos anteriores o Governo terá em conta os princípios estabelecidos nos artigos 63.º, 71.º e 73.º do Estatuto da Região.
 
-###### Art. 17.º O Governo Regional, mediante decreto regulamentar regional, desenvolverá a composição orgânica dos departamentos governamentais, genericamente estabelecida neste diploma, bem como as suas atribuições e competências, igualmente estabelecidas genericamente no Decreto Regional n.º 1/76, de 7 de Outubro.
+Art. 17.º O Governo Regional, mediante decreto regulamentar regional, desenvolverá a composição orgânica dos departamentos governamentais, genericamente estabelecida neste diploma, bem como as suas atribuições e competências, igualmente estabelecidas genericamente no Decreto Regional n.º 1/76, de 7 de Outubro.
 
-###### Art. 18.º Poderão ser atribuídas aos órgãos e serviços designações diversas das previstas neste diploma, desde que tal facto seja consequência de tradição administrativa, ou tenha por finalidade uma melhor caracterização das atribuições prosseguidas pelos mesmos.
+Art. 18.º Poderão ser atribuídas aos órgãos e serviços designações diversas das previstas neste diploma, desde que tal facto seja consequência de tradição administrativa, ou tenha por finalidade uma melhor caracterização das atribuições prosseguidas pelos mesmos.
 
 ### CAPÍTULO IV — Unidades funcionais de carácter transitório
 
-###### Art. 19.º Os membros do Governo Regional poderão designar, mediante despacho, equipas de projecto para a realização de objectivos determinados, constituídas por funcionários das diversas unidades orgânicas de um ou mais departamentos governamentais e, se necessário, por técnicos dos sectores público e privado.
+Art. 19.º Os membros do Governo Regional poderão designar, mediante despacho, equipas de projecto para a realização de objectivos determinados, constituídas por funcionários das diversas unidades orgânicas de um ou mais departamentos governamentais e, se necessário, por técnicos dos sectores público e privado.
 
-###### Art. 20.º Mediante despacho conjunto do Presidente do Governo Regional e de um ou mais secretários regionais, poderão ser constituídos numa ou em várias secretarias regionais grupos de trabalho, comissões eventuais ou gabinetes técnicos com carácter de transitoriedade que se mostrarem convenientes para o exercício de funções, cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes da Região.
+Art. 20.º Mediante despacho conjunto do Presidente do Governo Regional e de um ou mais secretários regionais, poderão ser constituídos numa ou em várias secretarias regionais grupos de trabalho, comissões eventuais ou gabinetes técnicos com carácter de transitoriedade que se mostrarem convenientes para o exercício de funções, cujo desempenho não possa ser assegurado pelos órgãos e serviços permanentes da Região.
 
 ### CAPÍTULO V — Administração indirecta
 
-###### Art. 21.º A criação de serviços públicos personalizados, fundos públicos, institutos públicos e empresas públicas regionais será feita por decreto regional.
+Art. 21.º A criação de serviços públicos personalizados, fundos públicos, institutos públicos e empresas públicas regionais será feita por decreto regional.
 
 ### CAPÍTULO VI — Colaboração com a administração local
 
-###### Art. 22.º - 1 - A realização de determinadas tarefas dos departamentos governamentais poderá ser confiada às autarquias locais quando razões de conveniência e eficiência o justifiquem.
+Art. 22.º - 1 - A realização de determinadas tarefas dos departamentos governamentais poderá ser confiada às autarquias locais quando razões de conveniência e eficiência o justifiquem.
 
 2 - Para os efeitos do número anterior serão estabelecidos protocolos entre os departamentos governamentais interessados e as autarquias, os quais serão publicados no Jornal Oficial.
 
 ### CAPÍTULO VII — Disposições gerais e transitórias
 
-###### Art. 23.º - 1 - Sem prejuízo do disposto no artigo 4.º e nos casos em que o cargo de director regional não se encontre provido poderá ser nomeado, por despacho do respectivo membro do Governo Regional, um adjunto, no qual poderá ser delegada parte da competência do director regional.
+Art. 23.º - 1 - Sem prejuízo do disposto no artigo 4.º e nos casos em que o cargo de director regional não se encontre provido poderá ser nomeado, por despacho do respectivo membro do Governo Regional, um adjunto, no qual poderá ser delegada parte da competência do director regional.
 
 2 - Quando houver a delegação prevista no número anterior, o adjunto será equiparado a subdirector-geral para efeitos de remuneração.
 
-###### Art. 24.º São revogados os artigos 6.º, 7.º e 9.º do Decreto Regional n.º 1/76, de 7 de Outubro, e o Decreto Regional n.º 3/76, de 31 de Dezembro, com as alterações que lhe foram introduzidas pelos Decretos Regionais n.os 9/78/A e 12/79/A.
+Art. 24.º São revogados os artigos 6.º, 7.º e 9.º do Decreto Regional n.º 1/76, de 7 de Outubro, e o Decreto Regional n.º 3/76, de 31 de Dezembro, com as alterações que lhe foram introduzidas pelos Decretos Regionais n.os 9/78/A e 12/79/A.
 
 Aprovado pela Assembleia Regional dos Açores em 25 de Março de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 4 de Outubro de 1982.**
+Assinado em Angra do Heroísmo em 4 de Outubro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

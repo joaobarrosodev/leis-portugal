@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31
   number: '252'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 9300-(426) a 9300-(427)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/25203/0042600427.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1553-a/2008/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1553-a-2008-243745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bce81904f86795b3ddc44e100207d234a6a11e40dcf7ce72c9211658bab5c913
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb21f792bc40af0e0b5b48e2f565f6e7a7a50791314f68187171d186373f99a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Imóveis
+- Arrendamento Urbano para Habitação
 - Coeficiente de Actualização
 - Fundo de Investimento Imobiliário
 - Regime Jurídico
-- Arrendamento Urbano para Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/13/2005/01/07/p/dre
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:241222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476110:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:33Z'
   warnings: []
   errors: []
 ---
@@ -162,4 +182,4 @@ O valor da renda, no âmbito dos contratos de arrendamento que sejam celebrados 
 
 A presente portaria entra em vigor no dia 1 de Janeiro de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Dezembro de 2008.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Dezembro de 2008.

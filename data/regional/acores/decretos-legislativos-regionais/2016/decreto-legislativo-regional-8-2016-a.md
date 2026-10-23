@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/04/08000/0139301401.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2016/04/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2016-74243466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b44b6ba014821bd1dde542a3337d359761a464514e6d331754d7d4bb2d0429b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ac391efd14fa75a7bd91ca85993a7bc39a146aeb7be8562893ab28368ceaa7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Açores
 - Certificação Profissional
-- Multa
-- Criança
+- Condutor
 - Contra-ordenação
+- Criança
 - Fiscalização
 - Fundo Regional dos Transportes
-- Seguro
-- Licenciamento
 - GNR
-- Condutor
+- Licenciamento
+- Multa
+- PSP
 - Qualificação Profissional
 - Regime Jurídico
+- Seguro
 - Seguro Automóvel
 - Seguro de Responsabilidade Civil Automóvel
-- Açores
 - Tacógrafo
 - Transporte de Passageiros
 relationships:
@@ -89,6 +89,30 @@ relationships:
   target: pt:dre:127816253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106874649:por
+  label: Alterado, com efeitos a 01.01.2017, o art. 2.º do presente diploma, pelo(a) Decreto Legislativo Regional n.º 3/2017/A
+    - Diário da República n.º 74/2017, Série I de 2017-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2017-106874649
+  date: '2017-04-13'
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Alterado o art. 2.º do DLR 23/2006/A, de 12-jun, na versão revista e republicada pelo presente diploma pelo(a) Decreto
+    Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
+- type: amended_by
+  target: pt:dre:117612825:por
+  label: Altera o art. 2.º, do presente Diploma, pelo(a) Decreto Legislativo Regional n.º 1/2019/A - Diário da República n.º
+    4/2019, Série I de 2019-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2019-117612825
+  date: '2019-01-07'
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Alterado, com efeitos a partir de 01.01.2020, o art. 2.º (na redação dos DLR 3/2017/A de 13-abr e 1/2019/A de 07-jan)
+    do presente diploma, pelo(a) Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
 - type: cites
   target: celex:32005L0036
   label: null
@@ -137,16 +161,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/9/2009/03/04/p/dre
+- type: cites
+  target: pt:dre:239247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650958:por
+  label: null
+  source: null
 article_structure:
-  article_count: 65
+  article_count: 53
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:16Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +269,9 @@ h) [...].
 
 2 - [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...].
 
@@ -219,7 +285,9 @@ h) [...].
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O número de crianças e jovens a transportar nos veículos onde se efetua o transporte coletivo de crianças corresponde ao número de lugares sentados constante da respetiva lotação.
 
@@ -227,7 +295,9 @@ h) [...].
 
 3 - [...].
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os veículos pesados de passageiros onde se efetue o transporte coletivo de crianças, em serviços regulares especializados ou em serviços ocasionais, devem circular com, pelo menos, um encarregado, para além do condutor.
 
@@ -241,7 +311,9 @@ h) [...].
 
 6 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -249,11 +321,15 @@ h) [...].
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 São requisitos de acesso à atividade de transporte coletivo público de crianças a idoneidade e a capacidade financeira.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]:
 
@@ -265,13 +341,17 @@ c) [...].
 
 2 - (Revogado.)
 
-###### Artigo 25.º — Isenção de licenciamento e requisitos de acesso à atividade
+Artigo 25.º
+
+Isenção de licenciamento e requisitos de acesso à atividade
 
 1 - Às pessoas singulares e coletivas que efetuam transporte coletivo particular de crianças não é exigido o licenciamento e os requisitos de acesso à atividade.
 
 2 - As pessoas singulares e coletivas que pretendam efetuar transporte coletivo particular de crianças devem estar munidas de um certificado emitido pela direção regional competente em matéria de transportes terrestres, válido por cinco anos, cujas condições são definidas por portaria do membro do Governo Regional com competência em matéria de transportes terrestres.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - [...]:
 
@@ -287,7 +367,9 @@ d) Polícia Municipal.
 
 3 - [...].
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - [...].
 
@@ -305,7 +387,9 @@ d) Polícia Municipal.
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - [...].
 
@@ -313,7 +397,9 @@ d) Polícia Municipal.
 
 3 - [...].
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]:
 
@@ -323,7 +409,9 @@ b) 80 % para o Fundo Regional dos Transportes Terrestres, Instituto Público Reg
 
 2 - [...].
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 Constituem receita própria do Fundo Regional dos Transportes Terrestres, Instituto Público Regional (FRTT, I. P.R.A.) os montantes que vierem a ser fixados, por despacho conjunto dos membros do Governo Regional competentes em matéria de finanças e de transportes terrestres, para as inscrições em exame e a emissão de certificados, licenças, alvarás, autorizações e outros documentos de controlo referidos no presente diploma ou na sua regulamentação.»
 
@@ -345,11 +433,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de março de 2016.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 13 de abril de 2016.**
+Assinado em Angra do Heroísmo em 13 de abril de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05000/0004700059.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2025/03/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2025-910517167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3e9301e78ca3653ff6ec048ee71a540e47e10b8dcb41edce4fe2fbd2de263a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6744441a68c790acfcca237e76aed3b49d823a214d83e45e4d73e130e52173b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Vinho
-- Estatuto
-- Pessoal de Chefia
 - Açores
-- Produto Vitivinícola
+- Estatuto
 - Instituto da Vinha e do Vinho dos Açores
+- Pessoal de Chefia
+- Pessoal Dirigente
+- Produto Vitivinícola
 - Secretaria Regional da Agricultura e Alimentação
+- Vinho
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:1/2025/A
+  label: Altera, a partir de 13 de março de 2025, o artigo 28.º do anexo i e o anexo ii, e revoga o artigo 30.º do anexo i
+    do Decreto Regulamentar Regional n.º 1/2025/A, de 6 de janeiro, Diário da República n.º 3/2025, Série I
+  source: null
+  date: '2025-01-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -115,16 +121,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:180830502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211996385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224615906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836437685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:902120311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:904270777:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:05Z'
   warnings: []
   errors: []
 ---
@@ -229,133 +263,135 @@ hh) [...]
 
 3 - A DSADA integra o Laboratório Regional de Sanidade Vegetal.
 
-## ANEXO II — [...]
+ANEXO II
 
-| Número de lugares | Designação do cargo | Remuneração | Remuneração |
+[...]
+
+| Número de lugares | Designação do cargo | Remuneração |  |
 | --- | --- | --- | --- |
 |  | Serviços executivos centrais |  |  |
 |  | Gabinete de Planeamento |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Outro Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Direção Regional da Agricultura, Veterinária e Alimentação |  |  |
 |  | Pessoal Dirigente |  |  |
-| [Decreto-Lei n.º 26-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-b-2023-211996385) border-bottom-color: r[Decreto-Lei n.º 108/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2023-224615906)color: rgb(0, 0, 0); border-[Decreto-Lei n.º 13/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2024-836437685)-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;">[...] | [...] | [...] |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| (Revogado.) | (Revogado.) | (Revogado.) | (Revogado.) |
-| [...] | [...] | [...] | [...] |
+| [Decreto-Lei n.º 26-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-b-2023-211996385) border-bottom-color: r[Decreto-Lei n.º 108/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2023-224615906)color: rgb(0, 0, 0); border-[Decreto-Lei n.º 13/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2024-836437685)-top-width: 1px; border-right-width: 1px; border-top-style: solid; border-left-color: rgb(0, 0, 0); border-bottom-width: 1px; border-bottom-style: solid; border-right-style: solid; border-right-color: rgb(0, 0, 0); border-left-style: solid; vertical-align: top;">[...] | [...] |  |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| (Revogado.) | (Revogado.) | (Revogado.) |  |
+| [...] | [...] | [...] |  |
 |  | Outro Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
-| […] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| […] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Direção Regional do Desenvolvimento Rural |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Outro Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Direção Regional dos Recursos Florestais e Ordenamento Territorial |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Outro Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Gabinete de Gestão e Promoção da Marca Açores |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Serviços executivos periféricos |  |  |
 |  | Serviços de Desenvolvimento Agrário |  |  |
 |  | Serviço de Desenvolvimento Agrário de São Miguel |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Outro Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Serviço de Desenvolvimento Agrário da Terceira |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Serviço de Desenvolvimento Agrário do Pico |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Serviço de Desenvolvimento Agrário do Faial |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Pessoal de Chefia |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Serviço de Desenvolvimento Agrário de São Jorge |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Serviço de Desenvolvimento Agrário de Santa Maria |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Serviços de Desenvolvimento Agrário da Graciosa |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Serviços de Desenvolvimento Agrário das Flores |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Serviço de Desenvolvimento Agrário do Corvo |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 |  | Serviços Florestais e de Ordenamento de Território de Ilha |  |  |
 |  | Pessoal Dirigente |  |  |
-| [...] | [...] | [...] | [...] |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
+| [...] | [...] | [...] |  |
 |  | Pessoal de Direção Específica |  |  |
-| [...] | [...] | [...] | [...] |
+| [...] | [...] | [...] |  |
 | [...] | [...] | [...] | » |
 
 2 - É revogado o artigo 30.º do anexo i do Decreto Regulamentar Regional n.º 1/2025/A, de 6 de janeiro.
@@ -392,11 +428,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 26 de fevereiro de 2025.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 10 de março de 2025.**
+Assinado em Angra do Heroísmo em 10 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -580,7 +616,9 @@ v) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - O DATIM é dirigido por um diretor, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 8.º — Secção Administrativa e Financeira
+###### Artigo 8.º
+
+#### Secção Administrativa e Financeira
 
 1 - À Secção Administrativa e Financeira, adiante designada por SAF, compete:
 
@@ -609,3 +647,5 @@ Quadro de pessoal dirigente e de chefia do Instituto da Vinha e do Vinho dos Aç
 a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
 b) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.
+
+118788327

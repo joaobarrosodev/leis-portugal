@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/828/2008/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/828-2008-455150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 51b2c897d4874b1d2c32f8dc7e4bb9740f7a2b5bf88601880a2bb46e5894119a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e881feb94380df0e629280544c7740394daa779004323503fd8753fe4fc474e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Feader
 - Apoio ao Investimento
-- Projeto de Investimento
+- Autoridade Florestal Nacional
+- Exploração Florestal
+- Feader
+- Financiamento
 - IFAP
 - Plano de Gestão Florestal
-- Exploração Florestal
 - Plano Regional de Ordenamento Florestal
-- Autoridade Florestal Nacional
-- Regulamento de Aplicação da Acção N.º 1.3.1-melhoria Produtiva dos Póvoamentos
 - Política Florestal
+- Proder
+- Projeto de Investimento
+- Regulamento de Aplicação da Acção N.º 1.3.1-melhoria Produtiva dos Póvoamentos
 - ZONA de Intervenção Florestal
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601535:por
+  label: "Aditados os n.ºs. 4, 5 e 6 ao art. 10º do Regulamento aprovado pelo presente diploma, pela PORT.147/2009.06.02.2009.MADRP,\
+    \ DR.IS [26] de 06.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-2009-601535
+  date: '2009-02-06'
+- type: amended_by
+  target: pt:dre:249854:por
+  label: "Alteradas as al.s c), e), f), j), l) e t) do art. 4º, al. d) do art. 9.º, al. e) do art. 12º, nº 1 do art. 16.º,\
+    \ nºs 1, 2, 4, 5 e 6 do art. 17º, nº 2 do art. 20º, nºs 1, 3, 4 e 6 do art. 21º, a epígrafe e os nºs 2, 3 e 5 do art.\
+    \ 22.º, art. 24º e al. a) do nº 1 e nº 2 do art. 26º do Regulamento bem como a al. e) do nº 1.5, al. a) e subal. i) da\
+    \ al. b) do nº 1.6 e al. a) do n.º 2.2 do anexo ii do Regulamento, aditada uma al. f) ao art. 6º do Regulamento e revogado\
+    \ o nº 8 do art. 21º do Regulamento PORT.739-A/2009.09.07.2009.MADRP, DR.IS [131-Supl] de 09.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/739-a-2009-249854
+  date: '2009-07-09'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 5º, 8º, 9º (este último na redacção da Port 739-A/2009, de 09-Jul), 14º, 15º, 16º, 17º (os dois\
+    \ últimos na redacção da Port 739-A/2009, de 09-Jul), 18º, 21º, 22º e 24º( os três últimos na redacção da Port 739-A/2009,\
+    \ de 09-Jul) e os anexos II (este último na redacção da Port 739-A/2009, de 09-Jul), IV e V e revogadas as al. b) do art.\
+    \ 8º, a al. a) do nº1 do art. 9º, o nº8 do art. 21º, o art. 26º e a segunda tipologia e o nº1 do anexo IV do Regulamento,\
+    \ aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 9.º, 22.º e 24.º ( os três na redacção das portarias 739-A/2009, de 09-Jul e 814/2010, de 27-Ago\
+    \ ) e 25.º e os anexos ii ( redacção das portarias 739-A/2009, de 09-Jul e 814/2010, de 27-Ago ) e iv ( na redacção da\
+    \ Port. 814/2010, de 27-Ago ) do Regulamento de Aplicação da Acção n.º 1.3.1, «Melhoria Produtiva dos Povoamentos», aprovado\
+    \ pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
 - type: cites
   target: celex:31975L0268
   label: null
@@ -93,16 +125,35 @@ relationships:
   target: celex:32006R1975
   label: null
   source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: corrected_by
+  target: pt:dre:452918:por
+  label: "Rectificada pela DECL-RECT.58/2008.07.10.2008.PCM, DR.IS [194] de 07.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/58-2008-452918
+  date: '2008-10-07'
+- type: corrected_by
+  target: pt:dre:297176:por
+  label: "Rectificado o art. 12º da Port 814/2010, de 27-Ago [na redacção que conferiu à al. f) do nº1 do art. 16º do presente\
+    \ diploma], pela DECL-RECT.32-A/2010.26.10.2010.PCM, DR.IS [208-Supl] de 26.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/32-a-2010-297176
+  date: '2010-10-26'
+- type: repealed_by
+  target: pt:dre:498497:por
+  label: "Revogado, com efeitos a 28.08.2010, o n.º 2.5 do ponto «despesas não elegíveis», do anexo II (alterado pelas Port\
+    \ 739-A/2009 de 09-jul, 814/2010 de 27-ago e 228/2011 de 09-jun) do Regulamento de Aplicação da Ação n.º 1.3.1, «Melhoria\
+    \ produtiva dos povoamentos» pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013, nos termos do seu art. 20º.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 article_structure:
   article_count: 29
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:43Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +202,7 @@ e) Anexo V, relativo aos limites máximos de apoio.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.
 
 ## ANEXO — REGULAMENTO DE APLICAÇÃO DA ACÇÃO N.º 1.3.1
 
@@ -479,7 +530,7 @@ b) As respectivas operações não estejam concluídas, antes da data da aprova�
 
 (a que se refere o n.º 2 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0538605394.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0538605394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0538605394.pdf)
 
 1 - A utilização de outras espécies é elegível, desde que adaptadas ecologicamente à estação e não ultrapassem 25 % da área do projecto.
 
@@ -649,7 +700,7 @@ b) Manter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobili
 
 (a que se refere o n.º 2 do artigo 13.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0538605394.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0538605394.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0538605394.pdf)
 
 1 - Em povoamentos mistos constituídos por espécie folhosas e resinosas, o nível de apoio corresponde ao das folhosas sempre que estas representem 50 % ou mais do número de árvores por hectare.
 

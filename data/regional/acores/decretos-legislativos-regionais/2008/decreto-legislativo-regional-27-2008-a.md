@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/27/2008/07/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-454504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bbbbe04c86fef2aaf3fb43641b2d31c888e0b5702c6724766a09c1048b3f334
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ec5c8bfb0f7146caf8debbbbf0acf5f64611445b288f826e04ec408b2578904
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
+- Açores
+- Administração Local
+- Administração Regional
+- Base de Dados
 - Bolsa de Emprego Público
+- Função Pública
+- Funcionário Público
+- Gestão de Recursos Humanos
 - Quadro Regional de ILHA
 - Recrutamento de Pessoal
-- Base de Dados
-- Sistema de Informação
-- Administração Local
 - Regime Jurídico
-- Funcionário Público
-- Administração Regional
-- Gestão de Recursos Humanos
-- Açores
+- Sistema de Informação
 relationships:
 - type: amended_by
   target: pt:dre:491435:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491435:por
+  label: "Alterados a al. a) do nº 3 do art. 5º e a al. b) do nº 1 do art. 10º e aditada a al. j) ao nº 2 do art. 5º do DLR\
+    \ 50/2006/A, de 12-Dez, todos na redacção do presente diploma pelo DLR.17/2009/A.14.10.2009.AL-RAA, DR.IS [199] de 14.10.2009,\
+    \ que procede à sua republicação\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2009-491435
+  date: '2009-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/19/2004/06/01/a/dre
   label: null
@@ -99,16 +106,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:261502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628777:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:48Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +166,9 @@ Natureza
 
 3 - Sem prejuízo do disposto na primeira parte do número anterior, os serviços podem publicitar aqueles procedimentos concursais, por extracto, em órgão de imprensa regional, quando o considerarem oportuno.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -151,7 +176,9 @@ Natureza
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 5.º — Conteúdo
+Artigo 5.º
+
+Conteúdo
 
 1 - A BEP-Açores contém o registo e divulgação de:
 
@@ -193,7 +220,9 @@ b) ...
 
 c) Aos interessados, nos casos previstos nas alíneas c) e d) do n.º 1.
 
-###### Artigo 7.º — Estrutura da informação institucional
+Artigo 7.º
+
+Estrutura da informação institucional
 
 1 - ...
 
@@ -209,7 +238,9 @@ c) Aos interessados, nos casos previstos nas alíneas c) e d) do n.º 1.
 
 7 - Os contratos de prestação de serviço são publicitados através de extracto.
 
-###### Artigo 9.º — Obrigatoriedade do registo e duração
+Artigo 9.º
+
+Obrigatoriedade do registo e duração
 
 1 - É obrigatório o registo na BEP-Açores da informação a que se referem a alínea a) do n.º 1 e todas as alíneas do n.º 2 do artigo 5.º, com a estrutura mencionada no artigo 7.º, sem prejuízo do disposto no n.º 2 do artigo 3.º
 
@@ -227,7 +258,9 @@ b) A informação respeitante às alíneas c) e d) do n.º 1 do artigo 5.º, pel
 
 6 - ...
 
-###### Artigo 10.º — Esgotamento dos mecanismos de mobilidade
+Artigo 10.º
+
+Esgotamento dos mecanismos de mobilidade
 
 1 - Os serviços ou organismos da administração regional autónoma só poderão recorrer ao procedimento concursal após a observância das seguinte condições:
 
@@ -259,11 +292,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de Junho de 2008.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 15 de Julho de 2008.**
+Assinado em Angra do Heroísmo em 15 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

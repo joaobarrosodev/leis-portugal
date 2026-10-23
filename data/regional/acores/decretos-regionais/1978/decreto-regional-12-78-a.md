@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1978-299985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 967776949129ff131297add932d9ae50020e911c1d43680e2c8311c81681a872
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 263d8e965b69b0c809bbe75b1fd44d464382189a0fcade734df5a139996f96e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- AVAL do Estado
+- Desenvolvimento Regional
+- Empresa
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:52Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +95,13 @@ Assim, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, a Ass
 
 ### CAPÍTULO I — Dos beneficiários, critérios e autorização dos avales da Região
 
-###### Artigo 1.º - 1 - O Governo Regional poderá prestar o aval da Região Autónoma dos Açores a operações de crédito a realizar por pessoas colectivas de direito público que exerçam a sua actividade exclusivamente na Região e por empresas regionais.
+Artigo 1.º - 1 - O Governo Regional poderá prestar o aval da Região Autónoma dos Açores a operações de crédito a realizar por pessoas colectivas de direito público que exerçam a sua actividade exclusivamente na Região e por empresas regionais.
 
 2 - Para efeitos do presente diploma, consideram-se empresas regionais as que tenham sede na Região Autónoma dos Açores e nela exerçam a sua actividade principal.
 
-###### Art. 2.º A Assembleia Regional, mediante proposta do Governo Regional, fixará anualmente o limite máximo global das responsabilidades em capital resultantes para a Região dos avales prestados, podendo alterar esse limite, se for estritamente necessário, por proposta do Governo Regional.
+Art. 2.º A Assembleia Regional, mediante proposta do Governo Regional, fixará anualmente o limite máximo global das responsabilidades em capital resultantes para a Região dos avales prestados, podendo alterar esse limite, se for estritamente necessário, por proposta do Governo Regional.
 
-###### Art. 3.º - 1 - O aval da Região tem carácter excepcional e apenas poderá ser concedido quando se trate de operações de financiamento de empreendimentos ou projectos de manifesto interesse para a economia regional e enquadráveis nos objectivos do Plano regional.
+Art. 3.º - 1 - O aval da Região tem carácter excepcional e apenas poderá ser concedido quando se trate de operações de financiamento de empreendimentos ou projectos de manifesto interesse para a economia regional e enquadráveis nos objectivos do Plano regional.
 
 2 - São ainda condições para a concessão do aval da Região:
 
@@ -109,7 +113,7 @@ c) Existir um projecto concreto do investimento a financiar ou um estudo especif
 
 d) Ser solvível a entidade beneficiária do aval.
 
-###### Art. 4.º - 1 - O aval da Região a operações de crédito a realizar por empresas privadas apenas poderá ser concedido quando se trate de empresas de reconhecido interesse regional.
+Art. 4.º - 1 - O aval da Região a operações de crédito a realizar por empresas privadas apenas poderá ser concedido quando se trate de empresas de reconhecido interesse regional.
 
 2 - São elementos integrados do conceito de interesse regional:
 
@@ -119,13 +123,13 @@ b) As significativas relações intersectoriais da respectiva actividade;
 
 c) A importância da contribuição da empresa para a balança de pagamentos da Região, nomeadamente quando da cessação da sua actividade possa resultar aumento da importação de bens ou redução das exportações.
 
-###### Art. 5.º O aval da Região nunca poderá ser concedido para garantir operações tendentes ao mero reforço da tesouraria da entidade beneficiária ou o financiamento dos seus gastos correntes, salvo se se tratar de empresas públicas regionais e tiverem sido excedidos limites de crédito acordados com o sistema bancário.
+Art. 5.º O aval da Região nunca poderá ser concedido para garantir operações tendentes ao mero reforço da tesouraria da entidade beneficiária ou o financiamento dos seus gastos correntes, salvo se se tratar de empresas públicas regionais e tiverem sido excedidos limites de crédito acordados com o sistema bancário.
 
-###### Art. 6.º - 1 - Não é permitida a utilização, total ou parcial, dos empréstimos a que tiver sido dado o aval da Região, em harmonia com o presente decreto regional, para financiamento de operações a realizar por quaisquer outras entidades.
+Art. 6.º - 1 - Não é permitida a utilização, total ou parcial, dos empréstimos a que tiver sido dado o aval da Região, em harmonia com o presente decreto regional, para financiamento de operações a realizar por quaisquer outras entidades.
 
 2 - A contravenção ao disposto no número anterior liberta o Governo Regional de garantir as ulteriores operações realizáveis ao abrigo do contrato e implica o vencimento imediato das obrigações já contraídas para com as entidades financiadoras.
 
-###### Art. 7.º O aval da Região poderá ficar dependente da prestação de contragarantia pela entidade beneficiária do mesmo.
+Art. 7.º O aval da Região poderá ficar dependente da prestação de contragarantia pela entidade beneficiária do mesmo.
 
 ### CAPÍTULO II — Do processo de concessão de avales da Região e da respectiva execução
 
@@ -135,9 +139,9 @@ c) A importância da contribuição da empresa para a balança de pagamentos da 
 
 3 - O plano de reembolso só poderá ser alterado a título excepcional, e mediante prévio consentimento do Plenário do Governo Regional, cessando imediatamente todas as obrigações decorrentes do aval e não podendo o beneficiário do mesmo invocá-lo contra a Região se aquela autorização não houver sido concedida.
 
-###### Art. 9.º O pedido de concessão do aval da Região será dirigido ao Secretário Regional das Finanças pela empresa solicitante do crédito, com parecer da Secretaria Regional responsável pelo sector da respectiva actividade económica.
+Art. 9.º O pedido de concessão do aval da Região será dirigido ao Secretário Regional das Finanças pela empresa solicitante do crédito, com parecer da Secretaria Regional responsável pelo sector da respectiva actividade económica.
 
-###### Art. 10.º - 1 - O pedido de concessão do aval da Região será obrigatoriamente instruído com os seguintes elementos:
+Art. 10.º - 1 - O pedido de concessão do aval da Região será obrigatoriamente instruído com os seguintes elementos:
 
 a) Apreciação sucinta da situação económico-financeira da empresa e apresentação de indicadores de funcionamento em perspectiva evolutiva;
 
@@ -151,7 +155,7 @@ e) Minuta do contrato do empréstimo, plano de utilização do financiamento e e
 
 2 - A elaboração dos elementos referidos no número precedente será efectuada conjuntamente pela empresa solicitante do aval e pela instituição do crédito a que a operação financeira haja sido presente.
 
-###### Art. 11.º - 1 - O parecer do Secretário Regional responsável pelo sector de actividade da entidade solicitante do aval, após consulta do Departamento Regional de Estudos e Planeamento, incidirá, designadamente, sobre os seguintes aspectos:
+Art. 11.º - 1 - O parecer do Secretário Regional responsável pelo sector de actividade da entidade solicitante do aval, após consulta do Departamento Regional de Estudos e Planeamento, incidirá, designadamente, sobre os seguintes aspectos:
 
 a) Inserção da operação na política económica do Governo Regional, designadamente no Plano Regional e apreciação do papel da empresa no conjunto do sector ou subespaço regional respectivo;
 
@@ -161,13 +165,13 @@ c) Elementos a que se refere a alínea e) do n.º 1 do artigo precedente.
 
 2 - O Secretário Regional das Finanças só dará seguimento ao pedido de concessão do aval após emissão de parecer favorável pelo Secretário Regional responsável pelo sector de actividade da entidade solicitante do aval.
 
-###### Art. 12.º A prestação do aval caduca sessenta dias após a respectiva concessão se, entretanto, não tiver sido dado início à operação, salvo fixação expressa de prazo superior no respectivo acto de concessão.
+Art. 12.º A prestação do aval caduca sessenta dias após a respectiva concessão se, entretanto, não tiver sido dado início à operação, salvo fixação expressa de prazo superior no respectivo acto de concessão.
 
-###### Art. 13.º Os créditos avalizados deverão ser totalmente reembolsados no prazo máximo de sete anos, a contar da data do respectivo contrato, sendo este prazo prorrogável por mais três anos.
+Art. 13.º Os créditos avalizados deverão ser totalmente reembolsados no prazo máximo de sete anos, a contar da data do respectivo contrato, sendo este prazo prorrogável por mais três anos.
 
 ### CAPÍTULO III — Das garantias da Região pela prestação de avales
 
-###### Art. 14.º - 1 - As entidades a quem tiver sido concedido o aval da Região enviarão à Secretaria Regional das Finanças, no prazo de oito dias, salvo impossibilidade devidamente justificada, cópia dos documentos comprovativos das amortizações do capital e dos juros, indicando sempre as correspondentes importâncias que deixam de constituir objecto de garantia da Região.
+Art. 14.º - 1 - As entidades a quem tiver sido concedido o aval da Região enviarão à Secretaria Regional das Finanças, no prazo de oito dias, salvo impossibilidade devidamente justificada, cópia dos documentos comprovativos das amortizações do capital e dos juros, indicando sempre as correspondentes importâncias que deixam de constituir objecto de garantia da Região.
 
 2 - As referidas entidades, sempre que reconheçam que não se encontram habilitadas a satisfazer os encargos de amortização e de juros nas datas fixadas para o respecivo pagamento, darão do facto conhecimento à Secretaria Regional das Finanças, com a antecipação mínima de trinta dias.
 
@@ -175,30 +179,30 @@ c) Elementos a que se refere a alínea e) do n.º 1 do artigo precedente.
 
 4 - O incumprimento das obrigações referidas nos n.os 2 e 3 do presente artigo determina a caducidade do aval, a qual poderá ser declarada por despacho do Secretário Regional das Finanças.
 
-###### Art. 15.º As entidades a quem tiver sido concedido o aval da Região ficam obrigadas a apresentar, com a regularidade e no prazo determinado, os elementos que lhes forem solicitados pela Secretaria Regional das Finanças, e julgados necessários à detecção de eventuais dificuldades de cumprimento das respectivas obrigações.
+Art. 15.º As entidades a quem tiver sido concedido o aval da Região ficam obrigadas a apresentar, com a regularidade e no prazo determinado, os elementos que lhes forem solicitados pela Secretaria Regional das Finanças, e julgados necessários à detecção de eventuais dificuldades de cumprimento das respectivas obrigações.
 
-###### Art. 16.º A concessão do aval confere ao Governo Regional o direito de proceder à fiscalização da actividade da entidade beneficiária da garantia, tanto do ponto de vista financeiro e económico como do ponto de vista administrativo e técnico.
+Art. 16.º A concessão do aval confere ao Governo Regional o direito de proceder à fiscalização da actividade da entidade beneficiária da garantia, tanto do ponto de vista financeiro e económico como do ponto de vista administrativo e técnico.
 
-###### Art. 17.º Compete à Secretaria Regional das Finanças assegurar o cumprimento dos encargos emergentes da execução de avales da Região.
+Art. 17.º Compete à Secretaria Regional das Finanças assegurar o cumprimento dos encargos emergentes da execução de avales da Região.
 
-###### Art. 18.º - 1 - Sem prejuízo das garantias que em cada caso sejam estipuladas, a Região goza de privilégio mobiliário geral sobre os bens das entidades beneficiárias do aval pelas quantias que tiver efectivamente despendido, a qualquer título, em razão do aval prestado.
+Art. 18.º - 1 - Sem prejuízo das garantias que em cada caso sejam estipuladas, a Região goza de privilégio mobiliário geral sobre os bens das entidades beneficiárias do aval pelas quantias que tiver efectivamente despendido, a qualquer título, em razão do aval prestado.
 
 2 - O privilégio creditório referido no n.º 1 será graduado conjuntamente com os previstos na alínea a) do n.º 1 do artigo 747.º do Código Civil, pagando-se primeiro a Região do que as autarquias locais.
 
-###### Art. 19.º Quando o aval tenha sido concedido a sociedades anónimas, a Região poderá, até ao termo do ano seguinte ao pagamento de qualquer prestação por ela efectuada, exigir a transformação do crédito daí resultante em acções da mesma sociedade, devendo esta promover as formalidades que para isso forem necessárias no prazo de três meses, contados da referida exigência.
+Art. 19.º Quando o aval tenha sido concedido a sociedades anónimas, a Região poderá, até ao termo do ano seguinte ao pagamento de qualquer prestação por ela efectuada, exigir a transformação do crédito daí resultante em acções da mesma sociedade, devendo esta promover as formalidades que para isso forem necessárias no prazo de três meses, contados da referida exigência.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 20.º - 1 - Será publicada, em anexo à Conta da Região, a relação nominal de avales, com a indicação das respectivas responsabilidades apuradas em relação a 31 de Dezembro de cada ano.
+Art. 20.º - 1 - Será publicada, em anexo à Conta da Região, a relação nominal de avales, com a indicação das respectivas responsabilidades apuradas em relação a 31 de Dezembro de cada ano.
 
 2 - Os fundos despendidos por virtude da execução dos avales da Região serão descritos numa conta especial de operações de tesouraria, sob a designação «Execução de avales da Região», sendo depois contabilizados na Conta da Região.
 
-###### Art. 21.º As responsabilidades anteriores da Região Autónoma dos Açores, em capital, decorrentes da concessão de avales a operações de crédito, serão tidas em conta para efeitos do limite referido no n.º 1 do artigo 2.º, considerando-se válidos os avales que hajam sido prestados até ao período legislativo seguinte ao da entrada em vigor do presente diploma.
+Art. 21.º As responsabilidades anteriores da Região Autónoma dos Açores, em capital, decorrentes da concessão de avales a operações de crédito, serão tidas em conta para efeitos do limite referido no n.º 1 do artigo 2.º, considerando-se válidos os avales que hajam sido prestados até ao período legislativo seguinte ao da entrada em vigor do presente diploma.
 
 Aprovado pela Assembleia Regional dos Açores em 7 de Junho de 1978.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.
 
-**Assinado em 24 de Julho de 1978.**
+Assinado em 24 de Julho de 1978.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

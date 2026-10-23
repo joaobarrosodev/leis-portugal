@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/04/089a00/17871797.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/1992/04/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1992-200864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98b2a448ca67230c349ed423fa454b14b246bc8e861317768d8d23ecbf54f31e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a0c75437605daa2649d7347b059fb7cbb717d973387c9ed004f2ae15a19ad2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Clube de Caçadores
-- Carta de Caçador
+- Açores
 - CAÇA
+- Carta de Caçador
+- Clube de Caçadores
 - Contra-ordenação
 - Licença de Caça
 - Proteção do Ambiente
 - Regime Jurídico
-- Açores
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:636185:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:220560:por
+  label: "Alterada a lista das espécies cinegéticas constante do n.º 1 do art. 17º e o art. 47º pelo DLR.26/92/A.27.10.1992.ALR-RAA,\
+    \ DR.IS-A [248] de 27.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-1992-220560
+  date: '1992-10-27'
 - type: cites
   target: celex:31979L0409
   label: null
   source: http://data.europa.eu/eli/dir/1979/409/oj
+- type: repealed_by
+  target: pt:dre:636185:por
+  label: "Revogado pelo DLR.17/2007/A.09.07.2007.AL-RAA, DR.IS [130] de 09.07.2007, mantendo-se em vigor as reservas de caça\
+    \ e os campos de treino de caça, respectivamente,criadas e aprovados ao seu abrigo. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2007-636185
+  date: '2007-07-09'
 article_structure:
   article_count: 51
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:09Z'
   warnings: []
   errors: []
 ---
@@ -793,10 +805,10 @@ m) A venda dos instrumentos que venham a ser considerados perdidos a favor da Re
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 31 de Janeiro de 1992.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 20 de Março de 1992.**
+Assinado em Angra do Heroísmo em 20 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

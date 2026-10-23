@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/113b00/22442246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/1992/05/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1992-523837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b3dbe3fd077dee7331ce86911362339ba02a417ae3ff26e8dc50c203724d1ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c36aa34546b6b3eb08f0a30998f29442ecb8a305c62906593712b34153637a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Contribuições da Segurança Social
 - Instituto de Gestão de Regimes de Segurança Social
 - Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:405297:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:232161:por
+  label: "Alterados os artigos 1.º e 7.º, n.º 1 pelo DRR.38/92/A.25.09.1992.GR-RAA, DR.IS-B [222] de 25.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/38-1992-232161
+  date: '1992-09-25'
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405297:por
+  label: "Revogado pelo DLR.42/2002/A.2002.11.29.ALR-RAA, DR.IS-A [296]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2002-405297
+  date: '2002-11-29'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:01Z'
   warnings: []
   errors: []
 ---
@@ -197,10 +211,10 @@ O presente diploma entra em vigor no dia 1 do segundo mês posterior à sua publ
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 26 de Fevereiro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 30 de Março de 1992.**
+Assinado em Angra do Heroísmo em 30 de Março de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

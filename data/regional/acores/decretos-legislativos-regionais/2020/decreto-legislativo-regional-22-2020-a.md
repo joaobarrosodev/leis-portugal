@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2020/08/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2020-140210524
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44165b8901292653f3dce28160abb081bc1761753bd59292bf42007487f43090
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29ca2ade7fb44bfd54dc9adf07150900f1811d2014f3f4139402475f96249dea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Autorização de Despesas
-- Pessoal de Saúde
-- Financiamento
-- Governo Regional
-- Despesas Públicas
-- Saúde Pública
-- Estado de Emergência
-- Férias
 - Catástrofe
-- Orçamento Regional
+- Despesas Públicas
 - Doença Infecciosa
 - Epidemia
+- Estado de Emergência
+- Férias
+- Financiamento
+- Governo Regional
+- Habitação
+- Orçamento Regional
+- Pessoal de Saúde
 - Política Económica
 - Política Social
 - Prémio de Desempenho
-- Habitação
-- Serviço Regional de Saúde
-- Açores
-- Subsídio
 - Programa de Estabilização Económica e Social
+- Saúde Pública
+- Serviço Regional de Saúde
+- Subsídio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2019/10/31/p/dre
@@ -118,16 +118,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/65/2019/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/65/2019/02/19/p/dre
+- type: cites
+  target: pt:dre:119847709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125865390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127816253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130008908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552336:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:35Z'
   warnings: []
   errors: []
 ---
@@ -162,7 +194,9 @@ Os artigos 16.º, 17.º, 19.º, 23.º e 40.º do [Decreto Legislativo Regional n
 
 2 - O valor estimado para as transferências da União Europeia deverá atingir o montante de (euro) 161 118 015,00 (cento e sessenta e um milhões, cento e dezoito mil e quinze euros).
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Fica o Governo Regional autorizado, nos termos da lei:
 
@@ -174,13 +208,17 @@ c) Acresce ainda ao limite fixado na alínea a) o montante a realizar de operaç
 
 d) ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Fica o Governo Regional autorizado a realizar operações ativas até ao montante de (euro) 70 000 000,00 (setenta milhões de euros).
 
 2 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O Governo Regional fica autorizado, em 2020, a conceder garantias, incluindo cartas de conforto, pela Região, até ao limite máximo, em termos de fluxos líquidos anuais, de (euro) 190 000 000,00 (cento e noventa milhões de euros).
 
@@ -190,7 +228,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -222,7 +262,9 @@ Medidas extraordinárias na área do emprego
 
 2 - A medida prevista na Resolução do Conselho do Governo Regional n.º 128/2020, de 5 de maio, é parte integrante do número anterior.
 
-###### Artigo 15.º-A — Contratos-programa
+Artigo 15.º-A
+
+Contratos-programa
 
 1 - É autorizada a celebração de contratos-programa entre a Região Autónoma dos Açores, através do Governo Regional, e empresas pertencentes ao Setor Público Empresarial Regional, incluindo empresas constituídas pela lei comercial, para prossecução do respetivo objeto societário.
 
@@ -230,7 +272,9 @@ Medidas extraordinárias na área do emprego
 
 3 - O presente regime é aplicável, com as devidas adaptações, a outras entidades constituí-das ou participadas que prossigam fins de relevante interesse público regional, designadamente associações, fundações ou cooperativas.
 
-###### Artigo 83.º-A — Majoração extraordinária do período de férias dos trabalhadores do Serviço Regional de Saúde envolvidos no combate à doença COVID-19
+Artigo 83.º-A
+
+Majoração extraordinária do período de férias dos trabalhadores do Serviço Regional de Saúde envolvidos no combate à doença COVID-19
 
 1 - Durante o ano de 2020, o Governo Regional atribui a todos os profissionais do Serviço Regional de Saúde (SRS) que, na vigência do estado de emergência constante do [Decreto do Presidente da República n.º 14-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-a-2020-130399862), de 18 de março, e suas renovações, exercessem funções em regime de trabalho subordinado no SRS e tenham praticado, nesse período, de forma continuada e relevante, atos diretamente relacionados com a pessoa de suspeitos e de doentes infetados por COVID-19:
 
@@ -240,13 +284,17 @@ b) Um dia de férias por cada período de quarenta e oito horas de trabalho supl
 
 2 - A regulamentação do disposto nas alíneas a) e b) do número anterior é feita por diploma próprio do Governo Regional, no prazo de trinta dias, após a aprovação do presente decreto legislativo regional.
 
-###### Artigo 83.º-B — Prémio de desempenho aos trabalhadores do Serviço Regional de Saúde envolvidos no combate à doença COVID-19
+Artigo 83.º-B
+
+Prémio de desempenho aos trabalhadores do Serviço Regional de Saúde envolvidos no combate à doença COVID-19
 
 1 - Durante o ano de 2020, o Governo Regional atribui a todos os profissionais do Serviço Regional de Saúde (SRS) que, na vigência do estado de emergência constante do [Decreto do Presidente da República n.º 14-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/14-a-2020-130399862), de 18 de março, e suas renovações, exercessem funções em regime de trabalho subordinado no SRS e tenham praticado, nesse período, de forma continuada e relevante, atos diretamente relacionados com a pessoa de suspeitos e de doentes infetados por COVID-19, um prémio de desempenho, pago uma única vez, correspondente ao valor equivalente a 50 % da remuneração base mensal do trabalhador ao qual seja atribuído.
 
 2 - A regulamentação do disposto no número anterior é feita por diploma próprio do Governo Regional, no prazo de trinta dias, após a aprovação do presente decreto legislativo regional.
 
-###### Artigo 84.º-A — Âmbito orçamental e contabilístico
+Artigo 84.º-A
+
+Âmbito orçamental e contabilístico
 
 1 - O orçamento da administração regional integra os orçamentos dos serviços e entidades públicas e da Entidade Contabilística Região, doravante designada por ECR.
 
@@ -256,7 +304,7 @@ b) Um dia de férias por cada período de quarenta e oito horas de trabalho supl
 
 4 - A regulamentação da ECR será efetuada mediante decreto regulamentar regional, que estabelecerá as normas disciplinadoras necessárias à sua implementação.
 
-###### Artigo 84.º-B
+Artigo 84.º-B
 
 Primeira alteração ao [Decreto Legislativo Regional n.º 59/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/59-2006-552336), de 29 de dezembro, que estabelece o Regime Jurídico dos Apoios Financeiros à Construção, Ampliação, Alteração e Aquisição de Habitação Própria Permanente na Região Autónoma dos Açores
 
@@ -296,7 +344,9 @@ m) ...
 
 n) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -318,7 +368,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -332,7 +384,9 @@ f) ...
 
 6 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -342,7 +396,9 @@ f) ...
 
 4 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -364,17 +420,23 @@ e) ...
 
 2 - Os anexos ii e iii do Regime Jurídico dos Apoios Financeiros à Construção, Ampliação, Alteração e Aquisição de Habitação Própria Permanente na Região Autónoma dos Açores, aprovado pelo [Decreto Legislativo Regional n.º 59/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/59-2006-552336), de 29 de dezembro, são substituídos pelos anexos ii e iii do presente diploma, e passam a ser os seguintes:
 
-## ANEXO II — Limites máximos de área bruta por tipologia
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
+Limites máximos de área bruta por tipologia
 
-## ANEXO III — Limite máximo de rendimento
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
+ANEXO III
+
+Limite máximo de rendimento
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
 
 Limite máximo de rendimento = número de elementos × coeficiente × IAS.
 
-###### Artigo 84.º-C — Regime transitório de aplicação do [Decreto-Lei n.º 166/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2019-125865390), de 31 de outubro
+Artigo 84.º-C
+
+Regime transitório de aplicação do [Decreto-Lei n.º 166/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2019-125865390), de 31 de outubro
 
 Para os efeitos do disposto no artigo 19.º do [Decreto-Lei n.º 166/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2019-125865390), de 31 de outubro, na Região Autónoma dos Açores é estabelecido um regime transitório, a vigorar até 31 de dezembro de 2020, permitindo que, em situações excecionais e devidamente justificadas, o marítimo possa ser autorizado a exercer funções correspondentes a categoria diferente, envolvendo áreas de operação ou atividades diferenciadas, desde que previamente informado e familiarizado com essas mesmas funções e que para o exercício das mesmas não esteja disponível marítimo habilitado.»
 
@@ -392,11 +454,11 @@ Os mapas i, ii, iii, iv, x e xi publicados em anexo ao [Decreto Legislativo Regi
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 7 de julho de 2020.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 6 de agosto de 2020.**
+Assinado em Angra do Heroísmo em 6 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -404,25 +466,25 @@ MAPA I
 
 Receita da Região Aotónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
 
 MAPA II
 
 Despesas da Região especificadas segundo a classificação orgânica, por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
 
 MAPA III
 
 Despesas da Região especificadas segundo a classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
 
 MAPA IV
 
 Depesas da Região especificadas segundo a classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
 
 MAPA X
 
@@ -430,10 +492,12 @@ Despesas de Investimento da Administração Pública Regional
 
 Resumo por departamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
 
 MAPA XI
 
 Despesas da Região Correspondentes a Programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15700/0001600052.pdf)
+
+113476021

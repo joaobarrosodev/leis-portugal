@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/625/2008/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/625-2008-454339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4630979542f65342cb42ae94e9a162b4deee3b868c6741a45db1f491bc49a6cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 706ac8fbee5bbaf6cabf906022b6d4a82c5b130cfa48e4dd9b93b2ffed003222
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Castro Marim
 - CAÇA
+- Castro Marim
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:609620:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603952:por
+  label: "Englobados vários prédios rústicos na zona de caça criada pela Port 1306/2002, de 30-Set, e renovada pelo presente\
+    \ diploma, pela PORT.385/2009.09.04.2009.MAOTDR, DR.IS [70] de 09.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/385-2009-603952
+  date: '2009-04-09'
+- type: amended_by
+  target: pt:dre:609620:por
+  label: "Excluídos vários terrenos cinegéticos da zona de caça municipal dos Verdins criada pela Port 1306/2002, de 30-Set,\
+    \ renovada pelo presente diploma, e concessionada a zona de caça associativa do Sapal-Chão e a a zona de caça associativa\
+    \ da Vista Real, pela PORT.110/2010.23.02.2010.MADRP, DR.IS [37] de 23.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-2010-609620
+  date: '2010-02-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -91,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/468/2005/05/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/468/2005/05/05/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646699:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:28Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +152,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 20 de Fevereiro de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 3 de Março de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14000/0454304544.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14000/0454304544.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14000/0454304544.pdf)

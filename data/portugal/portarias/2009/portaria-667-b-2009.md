@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 116/2009, 1º Suplemento, Série I de 2009-06-18
   number: '116'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4070-(3) a 4070-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11601/0000300007.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-b/2009/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-b-2009-144022
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f0c87af52c9fc4dbc2d7bfb82e057ea788f33f8c0d64bad8d7561e44f32b99b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6399d057a53777b24819456d4782a7e65a125684f718bf3eeb058f1114a67a46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Programa de Desenvolvimento Rural
-- Financiamento
+- Agricultor
+- Apoio ao Investimento
 - CAÇA
 - Direcção Regional de Agricultura e Pescas
-- Pesca
-- Apoio ao Investimento
-- Projeto de Investimento
-- Pagamento
-- IFAP
-- Plano de Gestão Florestal
 - Exploração Florestal
+- Financiamento
+- IFAP
+- Pagamento
+- Pesca
+- Plano de Gestão Florestal
 - Plano Regional de Ordenamento Florestal
-- Agricultor
+- Proder
+- Programa de Desenvolvimento Rural
+- Projeto de Investimento
 - Regulamento
 - Regulamento de Aplicação da Acção N.º 1.3.2-gestão Multifuncional
 - ZONA de CAÇA
@@ -90,6 +90,19 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 9º, 11º, 13º, 14º e 15º e os anexos I e III do Regulamento, aprovado pela Port 821/2008, de 18-Jun,\
+    \ na redacção do presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 9.º , 21.º e 23.º e os anexos I , II e III do Regulamento de Aplicação da Acção n.º 1.3.2, «Gestão\
+    \ Multifuncional», aprovado pela Port. n.º 821/2008, de 08-Ago, na redacção do presente diploma, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -98,16 +111,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/821/2008/08/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/821/2008/08/08/p/dre
+- type: repealed_by
+  target: pt:dre:498497:por
+  label: "Revogado, com efeitos a 28.08.2010, o n.º 7 do ponto II - «despesas não elegíveis», do anexo I do Regulamento de\
+    \ aplicação da ação n.º 1.3.2, «Gestão multifuncional», aprovado pela Port 821/2008 de 08-ago, alterado pelo presente\
+    \ diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013, nos termos do disposto no seu art. 20º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 article_structure:
-  article_count: 19
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:36Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +178,9 @@ i) ...
 
 j) 'Zonas de intervenção florestal (ZIF)' a área territorial contínua e delimitada constituída maioritariamente por espaços florestais, submetida a um plano de gestão florestal e a um plano específico de intervenção florestal e gerida por uma única entidade, reguladas nos termos da legislação especial aplicável.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -180,7 +202,9 @@ h) ...
 
 i) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 ...
 
@@ -200,7 +224,9 @@ g) ...
 
 h) ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -222,7 +248,9 @@ h) ...
 
 i) ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -234,13 +262,17 @@ i) ...
 
 VGO = 0,60 VE + 0,40 VB
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os pedidos de apoio são submetidos por concurso ao abrigo do disposto na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, divulgado pela autoridade de gestão do PRODER com a antecedência de 10 dias seguidos relativamente à data de publicitação do respectivo aviso de abertura.
 
 2 - A apresentação dos pedidos de apoio efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e indicam, nomeadamente, o seguinte:
 
@@ -262,7 +294,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - As direcções regionais de agricultura e pescas (DRAP) analisam e emitem parecer sobre os pedidos de apoio, do qual constam a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos factores referidos no n.º 1 do artigo 13.º e o apuramento do montante do custo total elegível, e procedem à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da valia global da operação.
 
@@ -274,19 +308,25 @@ h) ...
 
 5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer prevista no n.º 3.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário ou beneficiários e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)
 
 2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, que dispõe de 20 dias úteis para devolução do mesmo devidamente assinado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
 2 - Em casos excepcionais e devidamente justificados o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - A apresentação dos pedidos de pagamento efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
@@ -304,7 +344,9 @@ h) ...
 
 8 - (Revogado.)
 
-###### Artigo 21.º — Análise dos pedidos de pagamento
+Artigo 21.º
+
+Análise dos pedidos de pagamento
 
 1 - ...
 
@@ -316,7 +358,9 @@ h) ...
 
 5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
@@ -324,7 +368,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -376,11 +422,15 @@ b) ...
 
 c) ...
 
-## ANEXO II — [...]
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11601/0000300007.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11601/0000300007.pdf)
+[...]
 
-## ANEXO III — [...]
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11601/0000300007.pdf)
+
+ANEXO III
+
+[...]
 
 O limite máximo de apoio é de (euro) 75 000 por beneficiário, com excepção das ZIF, zonas de caça associativa, zonas de caça turística, zonas de caça municipais e zonas de pesca desportiva, em que esse limite é de (euro) 150 000.»
 
@@ -418,7 +468,9 @@ l) 'Plano de gestão florestal (PGF)' o instrumento de administração de espaç
 
 m) 'Plano Regional de Ordenamento Florestal (PROF)' o instrumento de política sectorial à escala da região que estabelece as normas específicas de utilização e exploração florestal dos seus espaços, de acordo com os objectivos previstos na Estratégia Nacional para as Florestas, com a finalidade de garantir a produção sustentada do conjunto de bens e serviços a eles associados, regulado nos termos da legislação especial aplicável.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 ...
 
@@ -444,4 +496,4 @@ d) ...»
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 17 de Junho de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 17 de Junho de 2009.

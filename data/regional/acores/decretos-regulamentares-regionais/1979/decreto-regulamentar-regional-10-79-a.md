@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1979-383007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1237c8a797fdd7ca3ebf9ca07cee88817513f6ab0e6814b53d4c1e74dda8ddac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 728e290ef7dda722a57d45234f2447a026668258f0cffc69c831d303b354aaab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Administração Regional
+- Gratificação
+- Pessoal Dirigente
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:296424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476685:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:52Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +101,7 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal dirigente da Administração Regional Autónoma dos Açores passará a ter as seguintes gratificações pelo exercício efectivo das funções de chefia a seguir indicadas:
+Artigo 1.º - 1 - O pessoal dirigente da Administração Regional Autónoma dos Açores passará a ter as seguintes gratificações pelo exercício efectivo das funções de chefia a seguir indicadas:
 
 Director regional e outros cargos de direcção expressamente equiparados a director regional ... 2500$00
 
@@ -100,24 +113,24 @@ Chefe de divisão ... 2000$00
 
 3 - Os adjuntos que, nos termos do n.º 2 do artigo 27.º do Decreto Regional n.º 3/76, de 31 de Dezembro, exerçam funções de director regional terão gratificação idêntica à de chefe de divisão.
 
-###### Art. 2.º Aos cargos de chefe de secção e de chefe de repartição da Administração Regional Autónoma dos Açores passam a corresponder, respectivamente, as letras I e E da tabela de vencimentos dos funcionários e agentes da Administração Pública.
+Art. 2.º Aos cargos de chefe de secção e de chefe de repartição da Administração Regional Autónoma dos Açores passam a corresponder, respectivamente, as letras I e E da tabela de vencimentos dos funcionários e agentes da Administração Pública.
 
-###### Art. 3.º O disposto nos artigos anteriores será aplicável a outros cargos de direcção ou chefia cujo conteúdo funcional possa considerar-se equiparado, por portaria conjunta do Secretário Regional das Finanças, Secretário Regional da Administração Pública e Secretário Regional interessado, mediante prévia deliberação do Governo Regional.
+Art. 3.º O disposto nos artigos anteriores será aplicável a outros cargos de direcção ou chefia cujo conteúdo funcional possa considerar-se equiparado, por portaria conjunta do Secretário Regional das Finanças, Secretário Regional da Administração Pública e Secretário Regional interessado, mediante prévia deliberação do Governo Regional.
 
-###### Art. 4.º Os funcionários referidos no presente diploma ficam isentos do horário de trabalho, não lhes sendo devida qualquer remuneração pela prestação de trabalho extraordinário.
+Art. 4.º Os funcionários referidos no presente diploma ficam isentos do horário de trabalho, não lhes sendo devida qualquer remuneração pela prestação de trabalho extraordinário.
 
-###### Art. 5.º Os encargos resultantes da aplicação do presente diploma poderão ser satisfeitos pelas disponibilidades das correspondentes dotações orçamentais para pessoal, com dispensa de quaisquer formalidades quanto às despesas.
+Art. 5.º Os encargos resultantes da aplicação do presente diploma poderão ser satisfeitos pelas disponibilidades das correspondentes dotações orçamentais para pessoal, com dispensa de quaisquer formalidades quanto às despesas.
 
-###### Art. 6.º O presente diploma produz efeitos desde 1 de Dezembro de 1978.
+Art. 6.º O presente diploma produz efeitos desde 1 de Dezembro de 1978.
 
-###### Art. 7.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por resolução do Governo Regional.
+Art. 7.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por resolução do Governo Regional.
 
 Aprovado pelo Governo Regional em 14 de Fevereiro de 1979.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
 Aprovado em Angra do Heroísmo em 12 de Março de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/42/2008/12/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2008-443908
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc3a3cfc738d7b24b7b73a4423a9943a11778f6ce138fc781c2ac73bc936fee2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63c20a7414ba29d8e11dfd8d78cc357adb4711e3901023a6153b8c37b3d7b870
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Associação
 - Associação de Estudantes
 - Associação Juvenil
-- Financiamento
+- Associação Profissional
 - Associação Sindical
+- Associativismo Juvenil
+- Benefícios Fiscais
+- Dirigente Associativo Estudantil
+- Dirigente Associativo Juvenil
 - Entidade sem FINS Lucrativos
 - Estatuto
-- Dirigente Associativo Estudantil
+- Financiamento
 - Fiscalização
 - Isenção Fiscal
-- Dirigente Associativo Juvenil
-- Registo Regional do Associativismo Jovem
-- Associação Profissional
-- Associativismo Juvenil
 - Madeira.região Autónoma
 - Regime Jurídico
-- Associação
-- Benefícios Fiscais
+- Registo Regional do Associativismo Jovem
 - Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:164454929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164454929:por
+  label: Alterados, com efeitos a partir de 01.01.2022 e nos termos do art. 93.º do presente diploma, o art. 4.º, com efeitos
+    a partir de 01.01.2021, o art. 5.º e com efeitos a partir de 01.07.2021 e nos termos do art. 93.º do presente diploma,
+    o art. 7.º do DLR 2/99/A, de 20-jan, na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2021-164454929
+  date: '2021-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
   label: null
@@ -105,16 +113,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/2006/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/2006/06/23/p/dre
+- type: cites
+  target: pt:dre:282699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 41
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:06Z'
   warnings: []
   errors: []
 ---
@@ -471,10 +511,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 13 de Novembro de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 5 de Dezembro de 2008.**
+Assinado em 5 de Dezembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

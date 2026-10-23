@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00800/0000200222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2025/01/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2025-903114659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1ffc34e8a839af0406589b21cd758125c7a3cf888e625e4cd878adb2e7f32e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2c660cef4334a43ae2a3754399b52858466f7c430eda584c58b4d15b82bc77b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Regional
 - Planeamento Regional
 - Plano Regional
-- Administração Regional
-- Açores
 relationships:
 - type: cites
   target: celex:31992R2080
@@ -118,16 +118,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/40/2002/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/40/2002/01/10/p/dre
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599720:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70835506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70867667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75712975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870085722:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:22Z'
   warnings: []
   errors: []
 ---
@@ -148,11 +220,11 @@ A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 28 de novembro de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 6 de janeiro de 2025.**
+Assinado em Angra do Heroísmo em 6 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -394,7 +466,7 @@ Atualidade
 
 Ligeiro aumento populacional e aumento do índice de envelhecimento
 
-Em 2023, segundo as estimativas da população residente do Instituto Nacional de Estatística (INE), a Região Autónoma dos Açores (RAA) possuía 241 025 habitantes (o equivalente a 2,3 % da população nacional) e uma densidade populacional, no mesmo ano, de 103,8 habitantes por km<sup>2</sup>, inferior à média nacional (115,4 habitantes por km<sup>2</sup>).
+Em 2023, segundo as estimativas da população residente do Instituto Nacional de Estatística (INE), a Região Autónoma dos Açores (RAA) possuía 241 025 habitantes (o equivalente a 2,3 % da população nacional) e uma densidade populacional, no mesmo ano, de 103,8 habitantes por km2, inferior à média nacional (115,4 habitantes por km2).
 
 A tendência de perda de população residente observada no último período do intercensitário (-3,4 % entre 2011 e 2021) continua a verificar-se em 2023, quando comparada com 2011 (-2,5 %), contrariando, assim, a tendência observada a nível nacional (0,8 %). No entanto, se for tido em conta um período mais recente, é possível verificar uma ligeira recuperação de 0,9 % entre 2021 e 2023. Relativamente ao índice de envelhecimento da população residente, ainda que este apresente um padrão de agravamento em 2023 nos Açores (122,3), continua consideravelmente inferior ao valor nacional (188,1).
 
@@ -406,15 +478,18 @@ Os concelhos das Lajes das Flores, Lajes do Pico e Calheta de São Jorge diferen
 
 Quadro 1 - Açores no contexto interno: os grandes números no domínio da demografia
 
-![](https://files.diariodarepublica.pt/images/903114659/903125247.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125247.png) |
+| --- |
 
 Os Açores apresentam uma evolução positiva dos níveis de escolaridade da sua população, acompanhando, deste modo, a tendência verificada no país. Esta melhoria encontra-se sustentada na redução da população com habilitações até ao 3.º ciclo do ensino básico (que representava 81 % do total em 2011, descendo para 69 % em 2021) e, principalmente, no aumento da população com ensino secundário ou superior concluído (que representavam, em 2021, 30 % da população residente, face a 18 % em 2011). Os concelhos de Ponta Delgada, Horta e Angra do Heroísmo lideram neste indicador, com 36 %, 33 % e 32 % da respetiva população com o ensino secundário ou superior concluído.
 
 Quadro 2 - Açores no contexto interno: nível de escolaridade mais elevado completo da população residente
 
-![](https://files.diariodarepublica.pt/images/903114659/903125248.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125248.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903125249.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125249.png) |
+| --- |
 
 Não obstante a estes avanços, indissociáveis da melhoria da qualidade de vida e da extensão da escolaridade obrigatória, a taxa de escolaridade da população açoriana permanece ainda significativamente aquém do padrão observado a nível nacional. Estes resultados observam-se tanto ao nível dos ciclos de ensino obrigatório, com a taxa de escolaridade do 3.º ciclo do ensino básico inferior à média nacional em 14,7 p.p. e a do ensino secundário inferior à média nacional em 19,0 p.p., como no ensino superior, inferior à média nacional em 12,9 p.p.
 
@@ -422,21 +497,25 @@ No entanto, regista-se de forma positiva o claro aumento das taxas de escolarida
 
 Quadro 3 - Taxa de escolaridade da população residente por nível de ensino
 
-![](https://files.diariodarepublica.pt/images/903114659/903125250.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125250.png) |
+| --- |
 
 Fruto do aumento do índice de envelhecimento e da quebra das taxas de natalidade, a Região apresenta, assim como o país, uma pirâmide etária envelhecida. O grupo da população com 65 ou mais anos de idade foi o que registou o maior aumento (5,0 % entre 2021 e 2023), representado 17,5 % da população residente na Região, em linha com a tendência nacional. Este aumento contrasta com uma maior estabilidade da população entre os 25 e os 64 anos e com a redução de 1,5 % da população com menos de 24 anos.
 
 Quadro 4 - Estrutura etária da população residente
 
-![](https://files.diariodarepublica.pt/images/903114659/903125251.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125251.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903125252.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125252.png) |
+| --- |
 
 A análise de decomposição da evolução da população residente nos Açores, por via da migração e do saldo natural, demonstra que a contração populacional no médio e longo prazo (2011-2023) é explicada por saldos migratórios e naturais negativos na generalidade dos municípios que compõem a Região, com duas exceções: um conjunto de municípios (Corvo, Madalena, Lajes das Flores, São Roque do Pico, Lajes do Pico, Santa Cruz da Graciosa, Calheta e Vila do Porto), com saldos migratórios positivos; e municípios de maior dimensão na ilha de São Miguel (Lagoa, Ponta Delgada, Ribeira Grande e Vila Franca do Campo), com saldos naturais positivos que, no entanto, não são suficientes para contrabalançar a tendência negativa do resto da Região.
 
 Gráfico 1 - Decomposição do crescimento populacional - Taxa de crescimento migratório e natural (%) | 2011-2023
 
-![](https://files.diariodarepublica.pt/images/903114659/903125253.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125253.png) |
+| --- |
 
 Recuperação da riqueza gerada no território nacional, com assimetrias regionais
 
@@ -446,23 +525,28 @@ A RAA não foi exceção, importando por isso salientar o processo de convergên
 
 Gráfico 2 - Evolução do PIB a preços correntes e do PIB per capita Portugal (PT=100) nos Açores | 2011-2022
 
-![](https://files.diariodarepublica.pt/images/903114659/903125254.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125254.png) |
+| --- |
 
 A dinâmica empresarial na última década (Quadro 5), medida pela taxa de crescimento médio anual do número de estabelecimentos e do pessoal ao serviço, mantém-se positiva, no entanto, abaixo dos valores registados a nível nacional. Este é um dos indicadores que, em conjunto com os indicadores de produtividade analisados mais à frente, ajuda a compreender as dificuldades de convergência do PIB per capita regional, mas revela também a persistência da natureza particularmente atomizada do tecido empresarial regional: note-se que a taxa de crescimento médio anual do pessoal ao serviço nos Açores, na última década, é uma das mais baixas do país, igualando apenas o observado na Região Centro, ainda que o número de estabelecimentos tenha aumentado a um ritmo superior ao registado na Região Centro e no Alentejo.
 
 Quadro 5 - Açores no contexto das regiões nacionais: os grandes números no domínio da economia
 
-![](https://files.diariodarepublica.pt/images/903114659/903125255.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125255.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903125256.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125256.png) |
+| --- |
 
 A distribuição e dinâmica do tecido empresarial (Quadro 6) nos municípios da Região revela a forte concentração dos estabelecimentos nas ilhas de São Miguel, Terceira, Pico e Faial, em simultâneo as mais populosas (representando 88,3 % do total de estabelecimentos da Região e 91,1 % do pessoal ao serviço em 2022). Por outro lado, a análise do rendimento coletável demonstra também importantes assimetrias do rendimento, com os municípios de Vila do Porto, Ponta Delgada, Angra do Heroísmo, Horta, Santa Cruz das Flores e Corvo a destacarem-se por um valor per capita superior à média regional.
 
 Quadro 6 - Grandes números da situação empresarial na Região Autónoma dos Açores
 
-![](https://files.diariodarepublica.pt/images/903114659/903125257.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125257.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903125258.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125258.png) |
+| --- |
 
 Entre 2010 e 2019, o PIB per capita açoriano divergiu face à média nacional, passando de 90,5 % do valor médio nacional para 88,7 %. A decomposição da evolução do PIB per capita, por via da produtividade (relação entre o PIB e o emprego) ou por via do emprego (intensidade na utilização de recursos humanos, medida pelo rácio entre o emprego e a população), permite verificar que esta evolução se justificou por uma convergência dos níveis de produtividade regionais face ao padrão nacional (Quadro 6). Ainda assim, não foi suficiente para contrabalançar a contração da capacidade de utilização de recursos humanos, que, em 2019, passou a registar um valor inferior à média do país.
 
@@ -470,33 +554,38 @@ Com evidentes sinais de recuperação da generalidade dos indicadores económico
 
 Gráfico 3 - Decomposição em fatores do PIB per capita a preços correntes das regiões portuguesas (NUTS II) | 2010, 2019 e 2022
 
-![](https://files.diariodarepublica.pt/images/903114659/903125259.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125259.png) |
+| --- |
 
 A evolução do perfil produtivo da Região ao longo dos últimos dez anos demonstra uma clara trajetória de especialização em atividades do turismo (Gráfico 4), setor responsável por 14 % do Valor Acrescentado Bruto (VAB) regional total, tendo quase triplicado o seu valor na última década (+174 % entre 2011 e 2022). O setor primário e dos serviços merecem igualmente destaque, ainda que, neste caso, com um dinamismo e um peso inferior quando comparado com o setor do turismo. Já os setores do comércio, transportes e construção têm vindo a ganhar peso no perfil produtivo regional, sendo que o comércio representa 24 % do total do VAB em 2022, com uma variação de mais 45 % do VAB face a 2011.
 
 Gráfico 4 - Especialização produtiva da Região Autónoma dos Açores com base no VAB | 2011, 2022
 
-![](https://files.diariodarepublica.pt/images/903114659/903125260.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125260.png) |
+| --- |
 
 O perfil produtivo reflete-se na estrutura de emprego regional (Gráfico 5), assumindo o turismo uma preponderância ainda mais significativa, uma vez que representa 15,4 % do pessoal ao serviço nos estabelecimentos em 2022 (mais 6 p.p. do que em 2011). O setor do comércio é o único que ultrapassa o turismo (20,5 %), seguindo-se o setor primário, que se afirma como o terceiro maior empregador da Região (12,0 %). Salienta-se, ainda, a contração do peso do setor da construção, que, em 2022, representava 10,1 % do emprego, a par com o peso das indústrias transformadoras e serviços administrativos e de suporte (9,2 % e 10,2 %, respetivamente), mas claramente atrás da importância do turismo e até do setor primário.
 
 Gráfico 5 - Pessoal ao serviço dos estabelecimentos por setor de atividade na Região Autónoma dos Açores | 2011, 2022
 
-![](https://files.diariodarepublica.pt/images/903114659/903125261.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125261.png) |
+| --- |
 
-No tocante às remunerações auferidas, registou-se um aumento acumulado significativo dos valores nominais na maioria dos setores de atividade na Região (Quadro 7). Mesmo descontando o efeito da inflação acumulada ocorrida entre dezembro de 2020 e dezembro de 2023 (que se fixou nos 11,1 % na RAA), a variação do rendimento continua a ser positiva em termos reais na maioria das atividades, à exceção das tipologias de atividade ligadas à consultadoria e intermediação financeira e similares (<sup>1</sup>)
+No tocante às remunerações auferidas, registou-se um aumento acumulado significativo dos valores nominais na maioria dos setores de atividade na Região (Quadro 7). Mesmo descontando o efeito da inflação acumulada ocorrida entre dezembro de 2020 e dezembro de 2023 (que se fixou nos 11,1 % na RAA), a variação do rendimento continua a ser positiva em termos reais na maioria das atividades, à exceção das tipologias de atividade ligadas à consultadoria e intermediação financeira e similares (1)
 
-(<sup>1</sup>) Por questões de comparabilidade com o salário mínimo regional, foi tido em conta o indicador da remuneração bruta base, correspondente apenas ao vencimento base, sem ter em conta outras componentes remuneratórias regulares (como subsídios, diuturnidades ou prémios de antiguidade) ou ainda as componentes devidas pelo trabalho extraordinário ou suplementar..
+(1) Por questões de comparabilidade com o salário mínimo regional, foi tido em conta o indicador da remuneração bruta base, correspondente apenas ao vencimento base, sem ter em conta outras componentes remuneratórias regulares (como subsídios, diuturnidades ou prémios de antiguidade) ou ainda as componentes devidas pelo trabalho extraordinário ou suplementar..
 
 Quadro 7 - Remuneração bruta base mensal média por setor de atividade, na RAA, em dezembro de 2023
 
-![](https://files.diariodarepublica.pt/images/903114659/903125262.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125262.png) |
+| --- |
 
 O ritmo de crescimento do salário mínimo (correspondente à retribuição mínima mensal garantida (RMMG) fixada para a RAA em cada ano) registado desde o último ano pré-pandémico superou quer a inflação, quer os aumentos registados no salário médio (correspondente à remuneração bruta base mensal média) no mesmo período (Quadro 8). O crescimento deste último, embora supere a inflação em termos acumulados, chegou a ficar abaixo da inflação no ano de 2022, correspondendo a uma perda de poder de compra do salário médio ocorrida nesse ano.
 
 Quadro 8 - Evolução da remuneração bruta base mensal média e RMMG, na RAA
 
-![](https://files.diariodarepublica.pt/images/903114659/903125263.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125263.png) |
+| --- |
 
 Já no que toca à taxa de natalidade de novas empresas em 2020, esta sofreu uma considerável contração, à semelhança do que se observou a nível nacional (Gráfico 6), registando valores inferiores aos verificados desde 2011. Em 2022, assim como em todas as regiões NUTS II, os Açores evidenciam uma forte recuperação do dinamismo empresarial, tendo visto a sua taxa de natalidade aumentar face ao ano de 2021 (em 4,2 p.p.), registando, nestes dois anos, o maior aumento da taxa de natalidade das empresas de entre as regiões NUTS II nacionais.
 
@@ -504,11 +593,13 @@ No que diz respeito à resiliência do tecido empresarial açoriano, o quadro ma
 
 Gráfico 6 - Taxa de natalidade das empresas (NUTS II) | 2011-2022
 
-![](https://files.diariodarepublica.pt/images/903114659/903125264.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125264.png) |
+| --- |
 
 Gráfico 7 - Taxa de sobrevivência de empresas nascidas dois anos antes (NUTS II) | 2011-2022
 
-![](https://files.diariodarepublica.pt/images/903114659/903125265.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125265.png) |
+| --- |
 
 Recuperação da intensidade exportadora, mas persistência de dificuldades estruturais na internacionalização do tecido produtivo
 
@@ -516,19 +607,22 @@ A recuperação da intensidade exportadora da Região verificou-se, em 2022, em 
 
 Gráfico 8 - Intensidade exportadora (NUTS II) | 2011, 2022
 
-![](https://files.diariodarepublica.pt/images/903114659/903125266.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125266.png) |
+| --- |
 
-Num cenário onde a margem de progresso em termos das exportações e da internacionalização da economia regional possuem ainda margem de crescimento, a tendência geral é de recuperação do valor das exportações de bens da Região. Apesar de uma variação positiva em 2022 face ao ano anterior (+26,6 %), em 2023, observou-se uma variação de -8,5 % no valor das exportações face a 2022 (<sup>2</sup>). O saldo da balança comercial açoriana manteve-se negativo em 2023, com um défice superior ao registado em 2022 (Gráficos 9 e 10).
+Num cenário onde a margem de progresso em termos das exportações e da internacionalização da economia regional possuem ainda margem de crescimento, a tendência geral é de recuperação do valor das exportações de bens da Região. Apesar de uma variação positiva em 2022 face ao ano anterior (+26,6 %), em 2023, observou-se uma variação de -8,5 % no valor das exportações face a 2022 (2). O saldo da balança comercial açoriana manteve-se negativo em 2023, com um défice superior ao registado em 2022 (Gráficos 9 e 10).
 
-(<sup>2</sup>) A redução no valor das exportações ocorrida entre 2022 e 2023 não decorre de nenhuma alteração significativa na atividade económica da Região, ficando a dever-se apenas aos movimentos de fornecimento de combustíveis à navegação marítima e aérea, que apresentam, de forma recorrente, um comportamento aleatório.
+(2) A redução no valor das exportações ocorrida entre 2022 e 2023 não decorre de nenhuma alteração significativa na atividade económica da Região, ficando a dever-se apenas aos movimentos de fornecimento de combustíveis à navegação marítima e aérea, que apresentam, de forma recorrente, um comportamento aleatório.
 
 Gráfico 9 - Importações de bens (2011=100) (NUTS II) | 2011-2023
 
-![](https://files.diariodarepublica.pt/images/903114659/903125267.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125267.png) |
+| --- |
 
 Gráfico 10 - Exportações de bens (2011=100) (NUTS II) | 2011-2023
 
-![](https://files.diariodarepublica.pt/images/903114659/903125268.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125268.png) |
+| --- |
 
 O baixo nível de qualificação limita o desenvolvimento da Região
 
@@ -536,13 +630,15 @@ Os níveis de qualificação estão ligados, em parte, ao desenvolvimento dos te
 
 Gráfico 11 - Taxa de abandono precoce de educação e formação (NUTS II) | 2011, 2023
 
-![](https://files.diariodarepublica.pt/images/903114659/903125269.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125269.png) |
+| --- |
 
 Os baixos níveis de qualificação da população ativa ajudam, por um lado, a explicar as dificuldades persistentes de geração da riqueza da Região, uma vez que a percentagem da população ativa com o ensino superior completo é a mais baixa entre as regiões portuguesas (19,5 % em 2023). Não obstante, deve ser destacada a evolução positiva deste indicador, seguindo uma tendência nacional de melhoria dos níveis de qualificação da população ativa, com um aumento de 7,1 p.p. entre 2011 e 2023 (Gráfico 12).
 
 Gráfico 12 - Proporção da população ativa com ensino superior completo (NUTS II) | 2011, 2023
 
-![](https://files.diariodarepublica.pt/images/903114659/903125270.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125270.png) |
+| --- |
 
 Embora os resultados do investimento na melhoria das qualificações da população açoriana sejam claros, como apresentado anteriormente, continuará a ser necessário investir em políticas públicas focadas na qualificação e na formação.
 
@@ -550,7 +646,8 @@ Desta forma, olhando para o número de inscritos em cursos de ensino superior, n
 
 Gráfico 13 - Proporção de população inscrita em áreas de C&T no ensino superior (NUTS II) | 2011/2012, 2022/2023
 
-![](https://files.diariodarepublica.pt/images/903114659/903125271.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125271.png) |
+| --- |
 
 Açores
 
@@ -570,7 +667,8 @@ Ainda que enfrentando um contexto internacional adverso, sobretudo a partir do t
 
 Quadro 9 - Cenário macroeconómico da RAA | 2023-2026
 
-![](https://files.diariodarepublica.pt/images/903114659/903125272.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125272.png) |
+| --- |
 
 Os indicadores da atividade económica e do consumo privado refletem o estado geral da economia (Gráfico 15). As taxas de variação homóloga dos indicadores mostram que, após a recuperação em 2021 e 2022, a atividade económica manteve a trajetória de desaceleração do crescimento a partir do segundo semestre de 2022, registando, no último trimestre de 2023 e início de 2024, taxas de variação equivalentes às observadas no período pré-pandemia (valores mensais entre os 1 % e os 2 %). Por sua vez, o consumo privado manteve taxas de variação superiores às da atividade económica na segunda metade de 2022 (valores mensais entre os 3 % e os 6 %), abrandando na segunda metade de 2023 para menos de 1 %. Em 2024, este indicador registou valores entre 1 % e 3 %, demarcando um novo período de aceleração da trajetória de crescimento.
 
@@ -584,11 +682,13 @@ A estabilização da inflação em valores próximos do objetivo de política mo
 
 Gráfico 14 - Crescimento do PIB a preços constantes na RAA e no conjunto do país | 2023-2026
 
-![](https://files.diariodarepublica.pt/images/903114659/903125273.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125273.png) |
+| --- |
 
 Gráfico 15 - Indicador da atividade económica e do consumo privado dos Açores | janeiro de 2020-julho de 2024
 
-![](https://files.diariodarepublica.pt/images/903114659/903125274.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903125274.png) |
+| --- |
 
 A perspetiva de estabilização da inflação no contexto de redução de taxas de juro
 
@@ -598,7 +698,8 @@ As estimativas apontam ainda para um deflator do PIB de 4,0 % em 2024, que dever
 
 Gráfico 16 - Previsão da taxa de inflação (média dos últimos 12 meses) dos Açores e de Portugal até 2025, medida através do IPC | janeiro 2020-dezembro 2025
 
-![](https://files.diariodarepublica.pt/images/903114659/903126575.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126575.png) |
+| --- |
 
 A expetativa de uma evolução favorável do emprego e da produtividade num contexto de taxa de desemprego mais elevada
 
@@ -606,7 +707,8 @@ A taxa de desemprego dos Açores fixou-se em 6,5 % em 2023, em linha com a médi
 
 Gráfico 17 - Previsão da evolução do mercado de trabalho nos Açores | 2023-2026
 
-![](https://files.diariodarepublica.pt/images/903114659/903126576.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126576.png) |
+| --- |
 
 Perspetiva de decréscimo de população para as próximas décadas, atenuada pelos movimentos migratórios
 
@@ -616,7 +718,8 @@ Da análise dos cenários para a evolução demográfica na Região, destaca-se 
 
 Quadro 10 - Projeções da população residente
 
-![](https://files.diariodarepublica.pt/images/903114659/903126577.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126577.png) |
+| --- |
 
 Portugal
 
@@ -638,7 +741,8 @@ Relativamente às contas públicas, as projeções da dívida pública para 2024
 
 Quadro 11 - Principais indicadores para a economia portuguesa
 
-![](https://files.diariodarepublica.pt/images/903114659/903126578.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126578.png) |
+| --- |
 
 Turismo - uma evolução equilibrada e sustentável
 
@@ -646,13 +750,15 @@ Numa perspetiva de futuro, ainda com elevados níveis de incerteza em torno da e
 
 Gráfico 18 - Peso do turismo no VAB e evolução do número de dormidas (2018=100) | 2018-2022
 
-![](https://files.diariodarepublica.pt/images/903114659/903126579.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126579.png) |
+| --- |
 
 Refira-se que, entre 2018 e 2023, a taxa de crescimento médio da oferta de alojamento nacional, dada pela capacidade de alojamento nos estabelecimentos turísticos, foi 2,5 %, inferior à registada na RAA (4,2 %), tendo-se assistido ao aumento da procura registada pelo número de dormidas em estabelecimentos de alojamento turístico em quase todo o país, destacando-se uma taxa de crescimento médio anual de 3,7 % na RAA entre 2018 e 2023 (Gráfico 19).
 
 Gráfico 19 - Capacidade de alojamento e dormidas nos estabelecimentos turísticos (PT=100) | 2018, 2022
 
-![](https://files.diariodarepublica.pt/images/903114659/903126580.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126580.png) |
+| --- |
 
 A crescente especialização turística coloca desafios ao desenvolvimento de longo prazo, nomeadamente, ao nível da produtividade, da competitividade e também da sustentabilidade ambiental e das atividades turísticas.
 
@@ -662,7 +768,8 @@ Entre 2020 e 2023, assistiu-se a uma recuperação dos proveitos totais nos esta
 
 Gráfico 20 - Proveitos totais (€) nos estabelecimentos de alojamento turístico | 2018-2023
 
-![](https://files.diariodarepublica.pt/images/903114659/903126581.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126581.png) |
+| --- |
 
 O mundo
 
@@ -680,9 +787,11 @@ Por sua vez, a inflação, medida pelos preços no consumidor, deverá continuar
 
 Quadro 12 - Principais indicadores de variação para a economia mundial
 
-![](https://files.diariodarepublica.pt/images/903114659/903126582.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126582.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126583.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126583.png) |
+| --- |
 
 II - Programas da União Europeia disponíveis para a Região em 2025
 
@@ -690,7 +799,8 @@ O rigoroso aproveitamento e utilização dos fundos europeus alocados à Região
 
 Pretende-se, assim, dar continuidade à boa execução registada nos anteriores períodos de programação, nomeadamente 2014-2020, não descurar o envolvimento da Região na preparação de um próximo período de programação, sob a égide de renovadas instituições europeias, e tornar mais acessível e transparente a informação sobre a execução de fundos na RAA através da plataforma fundoseuropeus.azores.gov.pt.
 
-![](https://files.diariodarepublica.pt/images/903114659/903126584.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126584.png) |
+| --- |
 
 Pelo respetivo impacto no desenvolvimento regional e pela aproximação do prazo de elegibilidade, assume particular relevância e premência, no Plano Regional Anual para o ano de 2025, a execução dos 18 investimentos do PRR a realizar na RAA, aos quais está associado um envelope financeiro superior a 725 milhões de euros.
 
@@ -700,27 +810,34 @@ A 30 de setembro de 2024, a execução financeira dos investimentos do PRR-Açor
 
 Quadro 13 - Execução financeira dos investimentos do PRR-Açores
 
-![](https://files.diariodarepublica.pt/images/903114659/903126585.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126585.png) |
+| --- |
 
 A execução material destes mesmos investimentos, medida pelo cumprimento dos marcos e metas contratualizados, encontra-se expressa na tabela seguinte.
 
 Quadro 14 - Execução material dos investimentos do PRR-Açores
 
-![](https://files.diariodarepublica.pt/images/903114659/903126586.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126586.png) |
+| --- |
 
 Os principais resultados alcançados na Região, medidos por referência aos marcos e metas contratualizados, dos 18 investimentos do PRR-Açores, com impacto na sociedade e economia açorianas, são detalhados na tabela seguinte.
 
 Quadro 15 - Resultados dos investimentos do PRR-Açores
 
-![](https://files.diariodarepublica.pt/images/903114659/903126587.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126587.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126588.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126588.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126589.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126589.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126590.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126590.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126591.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126591.png) |
+| --- |
 
 O Açores 2030 é um programa financiado pelos Fundos Europeus Estruturais e de Investimento (FEEI) Fundo Europeu de Desenvolvimento Regional (FEDER) e Fundo Social Europeu Mais (FSE+), para o período de programação 2021-2027, assumindo-se como um importante instrumento de intervenção e financiamento europeu na Região Autónoma dos Açores.
 
@@ -730,7 +847,8 @@ Com uma dotação total de 1 140 milhões de euros, o programa concentra a quase
 
 Quadro 16 - Dotação por prioridade do Açores 2030
 
-![](https://files.diariodarepublica.pt/images/903114659/903126592.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126592.png) |
+| --- |
 
 Acresce uma dotação, de 10 milhões de euros, designada por Assistência Técnica, destinada à gestão, monitorização e avaliação do Programa.
 
@@ -738,9 +856,11 @@ O Açores 2030 contava, a 30 de setembro de 2024, com taxas de compromisso e exe
 
 Quadro 17 - Execução do Açores 2030
 
-![](https://files.diariodarepublica.pt/images/903114659/903126593.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126593.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126594.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126594.png) |
+| --- |
 
 Em agosto de 2022, foi aprovado, pela Comissão Europeia, o Plano Estratégico da Política Agrícola Comum para Portugal no período 2023-2027 (PEPAC), que integra as medidas de apoio para se alcançarem os objetivos específicos da União Europeia para a Política Agrícola Comum (PAC) e assenta nas seguintes prioridades:
 
@@ -760,7 +880,8 @@ A 30 de setembro de 2024, registava-se a aprovação de 6 798 operações, às q
 
 Quadro 18 - Execução do Eixo E do PEPAC
 
-![](https://files.diariodarepublica.pt/images/903114659/903126595.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126595.png) |
+| --- |
 
 POSEI
 
@@ -776,7 +897,8 @@ A RAA, em articulação com as autoridades nacionais e as restantes regiões ult
 
 O financiamento das MAPL pode ser complementado com auxílios estatais nacionais previamente aprovados pela Comissão Europeia. A partir de 2020, os limites daqueles auxílios foram substancialmente aumentados, por forma a evitar a penalização dos rendimentos dos agricultores, decorrente da aplicação de rateios no pagamento das ajudas. Nos períodos 2018-2020 e 2021-2023, e 2024 (até 30 de setembro), foram pagos auxílios estatais complementares no valor médio anual de, respetivamente, 5,5, 15,3 e 7,9 milhões de euros.
 
-![](https://files.diariodarepublica.pt/images/903114659/903126596.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126596.png) |
+| --- |
 
 O Programa Mar 2030, cofinanciado pelo Fundo Europeu dos Assuntos Marítimos, das Pescas e Aquicultura (FEAMPA), é um instrumento decisivo na garantia da sustentabilidade e do cumprimento de uma estratégia que promova a competitividade e a resiliência do setor das pescas, da aquicultura e da indústria transformadora, por forma a corresponder às necessidades de abastecimento e segurança alimentar. É, igualmente, determinante no incentivo à inovação e na atratividade de novos e capacitação dos profissionais do setor.
 
@@ -798,9 +920,11 @@ A execução financeira, também a 30 de setembro de 2024, atingiu os 7,3 milhõ
 
 Quadro 19 - Projetos dos Açores no Mar 2030
 
-![](https://files.diariodarepublica.pt/images/903114659/903126597.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126597.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126598.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126598.png) |
+| --- |
 
 No âmbito da Cooperação Territorial, a RAA é, no período de programação 2021-2027, beneficiária do Programa de Cooperação Interreg VI-D Madeira-Açores-Canárias (MAC).
 
@@ -814,9 +938,11 @@ Na mesma data foi realizada a terceira reunião do Comité de Acompanhamento do 
 
 Quadro 20 - Projetos dos Açores no MAC 2021-27
 
-![](https://files.diariodarepublica.pt/images/903114659/903126599.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126599.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126600.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126600.png) |
+| --- |
 
 O Programa Ação Climática e Sustentabilidade, denominado Sustentável 2030, financiado pelo Fundo de Coesão (FC), assume-se como um instrumento de promoção da transição energética e climática, através, entre outros, do reforço da mobilidade urbana sustentável. De âmbito nacional, apoiará o desenvolvimento do sistema de mobilidade regional, reforçando a sua integração, intermodalidade e sustentabilidade.
 
@@ -1418,19 +1544,23 @@ As políticas setoriais e domínios de intervenção do objetivo «Por uma Regi�
 
 Repartição do investimento público por objetivos de desenvolvimento
 
-![](https://files.diariodarepublica.pt/images/903114659/903126601.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126601.png) |
+| --- |
 
 Investimento público 2025 - Desagregação por objetivo
 
-![](https://files.diariodarepublica.pt/images/903114659/903126602.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126602.png) |
+| --- |
 
 Investimento público 2025 - Desagregação por entidade executora
 
-![](https://files.diariodarepublica.pt/images/903114659/903126603.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126603.png) |
+| --- |
 
 Investimento público 2025 - Desagregação por entidade proponente
 
-![](https://files.diariodarepublica.pt/images/903114659/903126604.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126604.png) |
+| --- |
 
 Investimento público 2025 - Quadro global de financiamento da administração pública
 
@@ -1442,7 +1572,8 @@ As transferências do Orçamento de Estado, da União Europeia e de outros fundo
 
 O Plano Regional Anual para o ano de 2025 prevê uma dotação de 824,9 milhões de euros, de investimento direto do Governo Regional.
 
-![](https://files.diariodarepublica.pt/images/903114659/903126605.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126605.png) |
+| --- |
 
 V - Desenvolvimento da programação
 
@@ -1454,7 +1585,8 @@ Programa 1 - Coesão e representação
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126606.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126606.png) |
+| --- |
 
 Programação material
 
@@ -1506,7 +1638,8 @@ Programa 2 - Relações externas, ciência e comunicações
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126607.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126607.png) |
+| --- |
 
 Programação material
 
@@ -1662,7 +1795,8 @@ Programa 3 - Finanças, planeamento e competitividade
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126608.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126608.png) |
+| --- |
 
 Programação material
 
@@ -1794,7 +1928,8 @@ Programa 4 - Diáspora e media
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126609.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126609.png) |
+| --- |
 
 Programação material
 
@@ -1866,7 +2001,8 @@ Programa 5 - Educação, dinâmica cultural e desporto
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126610.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126610.png) |
+| --- |
 
 Programação material
 
@@ -2106,7 +2242,8 @@ Programa 6 - Promoção da saúde e economia social
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126611.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126611.png) |
+| --- |
 
 Programação material
 
@@ -2614,7 +2751,8 @@ Programa 7 - Economia rural e alimentação
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126612.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126612.png) |
+| --- |
 
 Programação material
 
@@ -2934,7 +3072,8 @@ Programa 8 - Economia do mar
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126613.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126613.png) |
+| --- |
 
 Programação material
 
@@ -3134,9 +3273,11 @@ Programa 9 - Desenvolvimento turístico, mobilidade e infraestruturas
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126614.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126614.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126615.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126615.png) |
+| --- |
 
 Programação material
 
@@ -3976,7 +4117,8 @@ Programa 10 - Juventude, habitação e empregabilidade
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126616.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126616.png) |
+| --- |
 
 Programação material
 
@@ -4084,7 +4226,8 @@ Programa 11 - Sustentabilidade, ação climática e gestão de riscos
 
 Programação financeira
 
-![](https://files.diariodarepublica.pt/images/903114659/903126617.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126617.png) |
+| --- |
 
 Programação material
 
@@ -4416,184 +4559,271 @@ Investimento público 2025
 
 Desagregação por objetivo
 
-![](https://files.diariodarepublica.pt/images/903114659/903126618.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126618.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126619.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126619.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126620.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126620.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126621.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126621.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126622.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126622.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126623.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126623.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126624.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126624.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126625.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126625.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126626.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126626.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126627.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126627.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126628.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126628.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126629.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126629.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126630.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126630.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126631.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126631.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126632.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126632.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126633.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126633.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126634.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126634.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126635.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126635.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126636.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126636.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126637.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126637.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126638.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126638.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126639.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126639.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126640.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126640.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126641.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126641.png) |
+| --- |
 
 Investimento público 2025
 
 Desagregação por entidade executora
 
-![](https://files.diariodarepublica.pt/images/903114659/903126642.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126642.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126643.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126643.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126644.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126644.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126645.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126645.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126646.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126646.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126647.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126647.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126648.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126648.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126649.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126649.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126650.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126650.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126651.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126651.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126652.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126652.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126653.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126653.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126654.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126654.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126655.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126655.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126656.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126656.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126657.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126657.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126658.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126658.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126659.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126659.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126660.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126660.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126661.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126661.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126662.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126662.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126663.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126663.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126664.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126664.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126665.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126665.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126666.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126666.png) |
+| --- |
 
 Investimento público 2025
 
 Desagregação por entidade proponente
 
-![](https://files.diariodarepublica.pt/images/903114659/903126667.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126667.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126668.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126668.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126669.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126669.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126670.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126670.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126671.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126671.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126672.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126672.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126673.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126673.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126674.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126674.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126675.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126675.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126676.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126676.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126677.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126677.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126678.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126678.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126679.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126679.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126680.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126680.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126681.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126681.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126682.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126682.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126683.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126683.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126684.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126684.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126685.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126685.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126686.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126686.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126687.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126687.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126688.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126688.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126689.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126689.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126690.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126690.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126691.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126691.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126692.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126692.png) |
+| --- |
 
 Investimento público 2025
 
 Desagregação espacial
 
-![](https://files.diariodarepublica.pt/images/903114659/903126693.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126693.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126694.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126694.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126695.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126695.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126696.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126696.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126697.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126697.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126698.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126698.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126699.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126699.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126700.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126700.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126701.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126701.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/903114659/903126702.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/903114659/903126702.png) |
+| --- |
+
+118534594

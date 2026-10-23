@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08900/07350736.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1978-425297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d3d18547dfbfa3d5d754004cf71bbb941c668d61ed7a805faf19cee33c91612
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4081186f6a70b85fb8a9b019a068e87325cb8654d631f54ab81faa369bd52e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Criação de Serviços
+- Definição de Competências
+- Instituto Regional de Apoio ao Sector Cooperativo
+- Orgânica
+- Secretaria Regional da Agricultura e Pescas
+- Secretaria Regional do Comércio e Indústria
 relationships:
 - type: amended_by
   target: pt:dre:435048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:576555:por
+  label: "Alterados os arts. 1º, 2º, 3º, 5º, e 6º pelo DRG.16/81/A.07.08.1981.ARA, DR.IS [180] de 07.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/16-1981-576555
+  date: '1981-08-07'
+- type: amended_by
+  target: pt:dre:435048:por
+  label: Extinto o Instituto Regional de Apoio ao Sector Cooperativo (IRASC), criado pelo presente diploma, alterado pelo
+    DRG 16/81/A de 07-ago, que são revogados pelo DLR.7/96/A.14.06.1996.ALR-RAA, DR.IS-A [136] de 14.06.1996
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1996-435048
+  date: '1996-06-14'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:54Z'
   warnings: []
   errors: []
 ---
@@ -141,10 +159,10 @@ O Governo Regional fará publicar a necessária regulamentação ao presente dip
 
 Aprovado pela Assembleia Regional dos Açores em 15 de Março de 1978.
 
-**O Presidente da Assembleia Regional, Álvaro P. da Silva Leal Monjardino.**
+O Presidente da Assembleia Regional, Álvaro P. da Silva Leal Monjardino.
 
-**Assinado em Angra do Heroísmo em 3 de Abril de 1978.**
+Assinado em Angra do Heroísmo em 3 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-1982-380888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f10fb9408b2036611c652f12a28fad325963b01fe9b171ad04d4ca4fcdfe578f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16e8ef7ce6181bd78cb62afe3f8a293a631556da3ac54fa7d16c86ac4789a53a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Medidas Preventivas
+- Santa CRUZ das Flores
+- Urbanização
+relationships:
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:49Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +99,7 @@ Nestes termos:
 
 Ao abrigo do disposto nos artigos 7.º e 27.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Durante o prazo de 2 anos fica dependente de autorização da Câmara Municipal de Santa Cruz das Flores, depois de emitido parecer favorável da Direcção Regional de Habitação, Urbanismo e Ambiente e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática na área definida na planta anexa a este diploma dos actos ou actividades seguintes:
+Artigo 1.º - 1 - Durante o prazo de 2 anos fica dependente de autorização da Câmara Municipal de Santa Cruz das Flores, depois de emitido parecer favorável da Direcção Regional de Habitação, Urbanismo e Ambiente e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática na área definida na planta anexa a este diploma dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos habitacionais;
 
@@ -109,20 +117,20 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 3 - São competentes para promover o cumprimento das medidas estabelecidas neste diploma e de proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Câmara Municipal de Santa Cruz das Flores e a Direcção Regional de Habitação, Urbanismo Ambiente.
 
-###### Art. 2.º - 1 - É concedido à Câmara Municipal de Santa Cruz das Flores o direito de preferência nas transmissões, por título oneroso, entre particulares de terrenos ou edifícios situados na área definida no n.º 1 do artigo 1.º
+Art. 2.º - 1 - É concedido à Câmara Municipal de Santa Cruz das Flores o direito de preferência nas transmissões, por título oneroso, entre particulares de terrenos ou edifícios situados na área definida no n.º 1 do artigo 1.º
 
 2 - Deverá ser dirigido ao presidente da Câmara Municipal de Santa Cruz das Flores a comunicação a que se refere o artigo 3.º do Decreto-Lei n.º 862/76, de 22 de Dezembro.
 
-###### Art. 3.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho em 22 de Setembro de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 22 de Novembro de 1982, nos termos do artigo 232.º, n.º 4, da Constituição da República Portuguesa.**
+Assinado em Angra do Heroísmo em 22 de Novembro de 1982, nos termos do artigo 232.º, n.º 4, da Constituição da República Portuguesa.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República Interino, Álvaro Monjardino.**
+O Ministro da República Interino, Álvaro Monjardino.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/29600/42214222.pdf))](https://files.diariodarepublica.pt/1s/1982/12/29600/42214222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/29600/42214222.pdf)

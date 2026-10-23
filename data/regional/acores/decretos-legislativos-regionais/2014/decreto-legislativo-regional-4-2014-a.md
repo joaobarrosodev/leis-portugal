@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2014/02/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2014-572471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 534d1d1986ffa6e4d8ef2099462fc13d41956a88bff85ab5c262ca8a41630a76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ed9244457bd677aec7a35fa9ac50b7efd19d43d7f50f559b4102b14dc47ba68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Atleta de ALTA Competição
 - Atleta Profissional
-- Financiamento
 - Contrato Programa
+- Desporto
 - Desporto Profissional
 - Dispensa de Serviço
+- Estabelecimento de Ensino
+- Financiamento
 - Frequência Escolar
 - Organização Desportiva
-- Estabelecimento de Ensino
 - Regime Jurídico
 - Requisição de Pessoal
 - Setor Privado
-- Açores
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:70179163:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70179163:por
+  label: Alterado o art. 20.º do DLR 21/2009/A de 02-dez, com a redação e republicação efetuadas pelo presente diploma - retificado
+    pela Decl-Rect 21/2014 de 31-mar, pelo(a) Decreto Legislativo Regional n.º 21/2015/A - Diário da República n.º 172/2015,
+    Série I de 2015-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2015-70179163
+  date: '2015-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/2005/07/05/a/dre
   label: null
@@ -117,16 +124,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/110/2002/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/110/2002/02/04/p/dre
+- type: cites
+  target: pt:dre:150517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:25344728:por
+  label: "Retificado e republicado na íntegra na versão corrigida o presente diploma, com a alteração e republicação que efetuou\
+    \ ao DLR 21/2009/A de 02-dez, pela DECL-RECT.21/2014.31.03.2014.PCM, DR.IS [63] de 31.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/21-2014-25344728
+  date: '2014-03-31'
 article_structure:
-  article_count: 110
+  article_count: 95
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:53Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +208,9 @@ Conclusão e formalidades dos contratos
 
 6 - Os contratos-programa serão preferencialmente celebrados com correspondência a um ano económico.
 
-###### Artigo 20.º — Atividades de treino e competição dos escalões de formação
+Artigo 20.º
+
+Atividades de treino e competição dos escalões de formação
 
 1 - ...
 
@@ -181,13 +228,17 @@ Conclusão e formalidades dos contratos
 
 8 - ...
 
-###### Artigo 24.º — Apoios complementares
+Artigo 24.º
+
+Apoios complementares
 
 1 - (Anterior corpo do artigo).
 
 2 - Poderão ser determinados valores unitários dos apoios complementares diferenciados em função de deslocações dentro do território regional ou para fora do mesmo.
 
-###### Artigo 25.º — Cálculo das comparticipações financeiras
+Artigo 25.º
+
+Cálculo das comparticipações financeiras
 
 1 - ...
 
@@ -199,7 +250,9 @@ b) O valor dos apoios complementares é obtido multiplicando o valor unitário d
 
 3 - ...
 
-###### Artigo 26.º — Limites do cofinanciamento para viagens e apoios complementares
+Artigo 26.º
+
+Limites do cofinanciamento para viagens e apoios complementares
 
 1 - ...
 
@@ -207,7 +260,9 @@ b) O valor dos apoios complementares é obtido multiplicando o valor unitário d
 
 3 - (Anterior n.º 2).
 
-###### Artigo 27.º — Atividade competitiva de âmbito regional
+Artigo 27.º
+
+Atividade competitiva de âmbito regional
 
 1 - ...
 
@@ -217,7 +272,9 @@ b) O valor dos apoios complementares é obtido multiplicando o valor unitário d
 
 4 - O número limite de equipas a apoiar será de 10 equipas.
 
-###### Artigo 29.º — Majoração dos apoios complementares na atividade competitiva de âmbito nacional
+Artigo 29.º
+
+Majoração dos apoios complementares na atividade competitiva de âmbito nacional
 
 1 - Os valores base unitários dos apoios complementares para participação em atividade competitiva de âmbito nacional dos desportos coletivos com regularidade anual de deslocações têm, de acordo com o nível competitivo, as seguintes majorações:
 
@@ -239,7 +296,9 @@ c) Divisão ou nível competitivo superior único ou com duas divisões - utiliz
 
 d) ...
 
-###### Artigo 30.º — Série Açores
+Artigo 30.º
+
+Série Açores
 
 1 - ...
 
@@ -251,7 +310,9 @@ d) ...
 
 5 - Acedem à majoração para a última divisão ou nível competitivo previsto na alínea a) do n.º 1 do artigo anterior as entidades que no mínimo utilizem em 85 % dos jogos pelo menos 65 % de atletas formados nos Açores e utilizem exclusivamente atletas com residência fiscal nos Açores.
 
-###### Artigo 42.º — Limites de utilização de atletas
+Artigo 42.º
+
+Limites de utilização de atletas
 
 1 - ...
 
@@ -261,17 +322,23 @@ d) ...
 
 4 - ...
 
-###### Artigo 51.º — Seleções nacionais e outras representações nacionais
+Artigo 51.º
+
+Seleções nacionais e outras representações nacionais
 
 1 - Os atletas convocados para os trabalhos de preparação das seleções e outras representações nacionais, como tal reconhecidos pela administração pública nacional com competências na área do desporto, podem igualmente ser apoiados no âmbito das secções III e IV do presente Capítulo e nos termos a determinar pelo departamento da administração regional autónoma competente em matéria de desporto.
 
 2 - Os diferentes agentes desportivos não praticantes que integrem ou acompanhem seleções ou outras representações nacionais, como tal reconhecidos pela administração pública nacional com competências na área do desporto, podem beneficiar, com as necessárias adaptações, do disposto nos artigos 55.º, 56.º, 60.º, 61.º e 62.º.
 
-###### Artigo 52.º — Atletas integrados em projeto especiais de preparação aos Jogos Olímpicos ou Paralímpicos
+Artigo 52.º
+
+Atletas integrados em projeto especiais de preparação aos Jogos Olímpicos ou Paralímpicos
 
 Os atletas que integram projetos especiais de preparação aos Jogos Olímpicos ou Paralímpicos, como tal considerados pelo CADAR, podem igualmente ser apoiados de forma específica e complementar, nos termos a determinar pelo departamento da administração regional autónoma competente em matéria de desporto.
 
-###### Artigo 55.º — Regime escolar
+Artigo 55.º
+
+Regime escolar
 
 1 - A direção regional competente em matéria de educação pode, mediante solicitação da direção regional competente em matéria de desporto, determinar a isenção dos atletas em regime de alto rendimento e dos jovens talentos regionais da aplicação das normas referentes à distribuição de alunos pelos estabelecimentos de ensino.
 
@@ -289,7 +356,9 @@ Os atletas que integram projetos especiais de preparação aos Jogos Olímpicos 
 
 8 - Compete à direção regional competente em matéria de educação acompanhar e assegurar a boa aplicação das medidas previstas nos números anteriores.
 
-###### Artigo 57.º — Professor acompanhante e compensação educativa
+Artigo 57.º
+
+Professor acompanhante e compensação educativa
 
 1 - Nos estabelecimentos de ensino frequentados por atletas em regime de alto rendimento e jovens talentos regionais deve ser designado, pelo órgão executivo da unidade orgânica, um docente para acompanhar a evolução do seu aproveitamento escolar, detetar eventuais dificuldades e propor medidas para a sua resolução, o qual não pode enquadrar mais de 3 alunos.
 
@@ -299,7 +368,9 @@ Os atletas que integram projetos especiais de preparação aos Jogos Olímpicos 
 
 4 - ...
 
-###### Artigo 62.º — Licença extraordinária de trabalhadores do setor privado
+Artigo 62.º
+
+Licença extraordinária de trabalhadores do setor privado
 
 1 - ...
 
@@ -311,11 +382,15 @@ Os atletas que integram projetos especiais de preparação aos Jogos Olímpicos 
 
 5 - ...
 
-###### Artigo 74.º — Atividade desportiva
+Artigo 74.º
+
+Atividade desportiva
 
 De modo a garantir igualdade de oportunidades e tratamento, bem como uma progressiva aproximação aos modelos vigentes noutras áreas, ao desenvolvimento de atividades desportivas adaptadas levadas a cabo por entidades do movimento associativo desportivo são concedidos apoios, incluindo comparticipações financeiras, determinados nos termos do disposto no capítulo III e VII do presente diploma.
 
-###### Artigo 90.º — Regime transitório
+Artigo 90.º
+
+Regime transitório
 
 1 - (Revogado.)
 
@@ -331,7 +406,7 @@ O Anexo III do [Decreto Legislativo Regional n.º 21/2009/A](https://diariodarep
 
 Índice para cálculo dos montantes a atribuir aos clubes pela utilização de atletas formados nos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf)
 
 ###### Artigo 3.º — Entrada em vigor e produção de efeitos
 
@@ -345,11 +420,11 @@ O Anexo III do [Decreto Legislativo Regional n.º 21/2009/A](https://diariodarep
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de dezembro de 2013.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo, em 3 de fevereiro de 2014.**
+Assinado em Angra do Heroísmo, em 3 de fevereiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1539,16 +1614,16 @@ b) Os artigos 6.º ao 19.º da [Portaria n.º 101/2003](https://diariodarepublic
 
 Índices relativos aos prémios de classificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 37.º)
 
 Prémios de classificação nos desportos individuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 42.º)
 
 Índice para cálculo dos montantes a atribuir aos clubes pela utilização de atletas formados nos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf))](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/02/03400/0147901501.pdf)

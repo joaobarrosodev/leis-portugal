@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2005/08/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2005-240380
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5753ab0dba13cb56282304276f977060851cb359e1360948c691411173793da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23bba8b3e92d0e20921d5cbc738020314f7a4e3a2ddaca54e401222abecc4ad9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Balanço Social
-- Direcção Regional do Trabalho
 - Código do Trabalho
-- Horário de Funcionamento
 - Comissão Regional para a Igualdade no Trabalho e no Emprego
+- Contrato de Trabalho
+- Direcção Regional do Trabalho
+- Horário de Funcionamento
+- Horário de Trabalho
 - Madeira.região Autónoma
 - Quadro de Pessoal
-- Contrato de Trabalho
-- Horário de Trabalho
 - Trabalho ao Domicilio
 relationships:
 - type: amended_by
   target: pt:dre:493011:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493011:por
+  label: "Mantido em vigor pelo DLR.21/2009/M.04.08.2009.AL-RAM, DR.IS [149] de 04.08.2009, no que respeita às disposições\
+    \ que não sejam incompatíveis com a legislação por ele adaptada, até ser publicado diploma que regule as matérias em causa.\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2009-493011
+  date: '2009-08-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/2003/06/07/m/dre
   label: null
@@ -108,16 +115,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683023:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:29Z'
   warnings: []
   errors: []
 ---
@@ -224,10 +259,10 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de Junho de 2005.
 
-**O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 13 de Julho de 2005.**
+Assinado em 13 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

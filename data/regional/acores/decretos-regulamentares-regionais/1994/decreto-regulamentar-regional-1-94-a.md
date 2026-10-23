@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/1994/01/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1994-496121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67f9a3f72b77f8484af3ab06b3279f436df4564eef5e169290799fa6c03567a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b9abda5dd3cabf53cda9a955b64c93f04dcbc1d6d90339e2a8a86df41a02cc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Governo Regional
 - Orçamento Regional
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/1993/01/05/a/dre
@@ -77,16 +77,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/1/1994/01/25/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/1/1994/01/25/a/dre
+- type: cites
+  target: pt:dre:229921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:21Z'
   warnings: []
   errors: []
 ---
@@ -289,7 +313,7 @@ g) Sem limitação, para o Conselho do Governo Regional.
 
 ###### Artigo 20.º — Regulamentação
 
-**O Secretário Regional das Finanças, Planeamento e Administração Pública emitirá os regulamentos que se mostrem necessários à execução do presente diploma.**
+O Secretário Regional das Finanças, Planeamento e Administração Pública emitirá os regulamentos que se mostrem necessários à execução do presente diploma.
 
 ###### Artigo 21.º — Produção de efeitos
 
@@ -297,10 +321,10 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1994.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 17 de Dezembro de 1993.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 6 de Janeiro de 1994.**
+Assinado em Angra do Heroísmo em 6 de Janeiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

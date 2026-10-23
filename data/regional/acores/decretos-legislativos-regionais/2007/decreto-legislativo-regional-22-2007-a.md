@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2007/10/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67eb684fccc976dac86ad99bed7e6492c08190a2fa7fb84fd779adb049f71c39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88104c572485d7af9e0e71f223d07b3d0cd9bb7a84b836e4795cc35fa7c9b252
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Complemento Regional de Pensão
-- Remuneração Complementar Regional
-- Remuneração Acessória
-- Pensionista
-- Administração Regional
 - Açores
+- Administração Regional
+- Complemento Regional de Pensão
+- Pensionista
+- Remuneração Acessória
+- Remuneração Complementar Regional
 - Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:106874649:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:454496:por
+  label: "Mantido o regime jurídico da remuneração complementar regional definido no DLR 8/2002/A de 10-Abr, com a redacção\
+    \ conferida no presente diploma, pelo DLR.26/2008/A.24.07.2008.AL-RAA, DR.IS [142] de 24.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2008-454496
+  date: '2008-07-24'
+- type: amended_by
+  target: pt:dre:609621:por
+  label: "Alterados, a partir de 24.02.2010, o nº 1 do art. 2º, o art. 10º, os nºs 2 e 4 do art. 11º, o art. 12º e o nº 1\
+    \ do art. 13º do DLR 8/2002/A de 10-Abr, e reportadas a “retribuição mínima mensal garantida” as referências nele feitas\
+    \ a “salário mínimo”, com as alterações e republicação constantes do presente diploma, pelo DLR.6/2010/A.23.02.2010.AL-RAA,\
+    \ DR.IS [37] de 23.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2010-609621
+  date: '2010-02-23'
+- type: amended_by
+  target: pt:dre:261110:por
+  label: "Alterado o art. 6.º do DLR 8/2002/A, de 10-abr, na redação do presente diploma, pelo DLR.3/2013/A.23.05.2013.AL-RAA,\
+    \ DR.IS [99] de 23.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2013-261110
+  date: '2013-05-23'
+- type: amended_by
+  target: pt:dre:55042849:por
+  label: Repristinados os arts 9.º, 10.º, 11.º e 13.º do DLR 8/2002/A, de 10-abr, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 14/2014/A - Diário da República n.º 147/2014, Série I de 2014-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2014-55042849
+  date: '2014-08-01'
+- type: amended_by
+  target: pt:dre:106874649:por
+  label: Alterado, com efeitos a 01.01.2017, os arts. 6.º e 8.º do DLR 8/2002/A de 10-Abr, com a redação do presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2017-106874649
+  date: '2017-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2000/01/12/a/dre
   label: null
@@ -102,16 +134,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/32/1995/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/32/1995/01/13/p/dre
+- type: cites
+  target: pt:dre:146939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514065:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:39Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +196,9 @@ Os artigos 2.º, 4.º, 6.º e 8.º do [Decreto Legislativo Regional n.º 8/2002/
 
 3 - Para os efeitos do presente diploma, consideram-se pensionistas os beneficiários titulares de pensões, isoladas ou conjuntas, dos regimes de segurança social e de aposentados da função pública, incluindo os beneficiários de pensões sociais, de doenças profissionais, de sobrevivência, de acidente de trabalho, bem como os beneficiários de pensões de outros sistemas de protecção social.
 
-###### Artigo 4.º — Beneficiários
+Artigo 4.º
+
+Beneficiários
 
 1 - ...
 
@@ -148,7 +206,9 @@ Os artigos 2.º, 4.º, 6.º e 8.º do [Decreto Legislativo Regional n.º 8/2002/
 
 3 - ...
 
-###### Artigo 6.º — Montante
+Artigo 6.º
+
+Montante
 
 1 - ...
 
@@ -166,7 +226,9 @@ d) 50 % para aqueles cuja pensão seja superior a 1,339 do salário mínimo até
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 8.º — Prova de pensão auferida e prova de residência
+Artigo 8.º
+
+Prova de pensão auferida e prova de residência
 
 1 - ...
 
@@ -190,11 +252,11 @@ O presente diploma produz efeitos a 1 de Janeiro de 2007.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de Setembro de 2007.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 15 de Outubro de 2007.**
+Assinado em Angra do Heroísmo em 15 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

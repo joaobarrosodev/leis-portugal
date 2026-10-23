@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 206/2008, 1º Suplemento, Série I de 2008-10-23
   number: '206'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7516-(2) a 7516-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1219-a/2008/10/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1219-a-2008-138561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeae247b3b873d3bbe45e34ea0d90da10d79088ae5a439948e85fcfcbc47f06a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d55435385b63d95a3c19f69ea8a3165dbd5220a52750361485d60e1c4daea92c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Garantia
-- Instituição de Crédito
+- Banco de Portugal
 - Contrato de Financiamento
 - Direção Geral do Tesouro e Finanças
-- Banco de Portugal
+- Garantia
+- Instituição de Crédito
+- Instituição Financeira
 - Instituto de Gestão da Tesouraria e do Crédito Público
 - Mercado Financeiro
-- Instituição Financeira
 relationships:
 - type: amended_by
   target: pt:dre:553953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342103:por
+  label: "Alterados o art. 2.º e o n.º 1 do anexo e aditado o art. 7.º-A do presente diploma pela PORT.946/2010.22.09.2010.MFAP,\
+    \ DR.IS [185] de 22.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/946-2010-342103
+  date: '2010-09-22'
+- type: amended_by
+  target: pt:dre:553953:por
+  label: "Alterados o art. 2º e o anexo da presente portaria, ambos na redacção da Port 946/2010, de 22-set, pela PORT.80/2012.27.03.2012.MF,\
+    \ DR.IS [62] de 27.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/80-2012-553953
+  date: '2012-03-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/60-a/2008/10/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60-a/2008/10/20/p/dre
+- type: cites
+  target: pt:dre:383202:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:37Z'
   warnings: []
   errors: []
 ---
@@ -210,17 +226,17 @@ c) Designar um ou mais administradores provisórios, nos termos e com os poderes
 
 A presente Portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Outubro de 2008.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Outubro de 2008.
 
 ## ANEXO
 
 1 - O valor das comissões é fixado de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf)
 
 2 - O spread do credit default swap relevante a que se refere o número anterior é calculado de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf))](https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20601/0000200004.pdf)
 
 3 - Para efeitos do cálculo do spread do credit default swap relevante a que se refere a alínea a) do número anterior, cabe ao Banco de Portugal determinar se a instituição de crédito em questão dispõe de informação de credit default swap representativa.
 

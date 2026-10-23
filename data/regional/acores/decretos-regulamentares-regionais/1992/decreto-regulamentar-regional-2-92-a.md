@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/01/022b00/05060529.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/1992/01/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1992-145198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df980450746c92fc18daac6e3b5de777041ff6e1b914e2437390e1a609498412
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba0022ee41971b1e9f7ce69366fb8763d1c5f339f7290ff4936e73da2b8be6cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,73 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
+- Açores
 - Conselho Regional de Obras Públicas
 - Direcção Regional de Equipamentos Colectivos
-- Direcção Regional de Infraestruturas Portuárias e Aeroportuárias
 - Direcção Regional de Estradas
+- Direcção Regional de Habitação
+- Direcção Regional de Infraestruturas Portuárias e Aeroportuárias
+- Governo Regional
 - Laboratório Regional de Engenharia Civil
 - Orgânica
 - Quadro de Pessoal
 - Secretaria Regional da Habitação e Obras Públicas
-- Direcção Regional de Habitação
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:522377:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:261506:por
+  label: "Alterado o quadro de pessoal aprovado presente diploma (mantido em vigor pelo artº 11º do DRR 8/95/A de 21-Mar)\
+    \ pelo DRR.7-A/97/A.1997.04.07.SRHE-RAA DR.IS-B [83]2ºSupl de 09/ABR/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-a-1997-261506
+  date: '1997-04-07'
+- type: cites
+  target: pt:dre:287616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576352:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:165635:por
+  label: "Revogado pelo DRR.8/95/A.21.03.1995.GR-RAA, DR.IS-B [68] de 21.03.1995, bem como os diplomas subsequentes, na parte\
+    \ em que colidam com o citado diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1995-165635
+  date: '1995-03-21'
+- type: repealed_by
+  target: pt:dre:516758:por
+  label: "Revogado o quadro de pessoal da Secretaria Regional da Habitação e Obras Públicas pelo DRR.13/98/A.1998.04.13.SRAPA-RAA,\
+    \ DR.IS-B [109] de 12/Mai/1998 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1998-516758
+  date: '1998-04-13'
+- type: repealed_by
+  target: pt:dre:516914:por
+  label: "Revogado pelo DRR.12/98/A.1998.04.13.SRHE-RAA, DR.IS-B [104] de 06/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1998-516914
+  date: '1998-04-13'
+- type: repealed_by
+  target: pt:dre:522377:por
+  label: "Revogado o presente diploma, na parte respeitante aos Transportes aéreos, marítimos e comunicações, pelo DRR.17/98/A.1998.04.13.SRE-RAA\
+    \ DR.IS-B [112] de 15/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1998-522377
+  date: '1998-04-13'
 article_structure:
-  article_count: 95
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 96
+  section_count: 34
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:02Z'
   warnings: []
   errors: []
 ---
@@ -267,7 +308,9 @@ b) Executar o que as leis e regulamentos lhe cometerem e possa decorrer do norma
 
 c) Exercer as funções de oficial público nos actos e contratos em que for de interesse da SRHOP, as quais podem, todavia, ser confiadas por despacho do Secretário Regional a chefes de divisão, repartição ou serviços.
 
-###### Artigo 12º — Divisão de Recursos Humanos
+###### Artigo 12º
+
+##### Divisão de Recursos Humanos
 
 Compete à Divisão de Recursos Humanos:
 
@@ -293,7 +336,9 @@ i) Promover a segurança do pessoal e propor as acções para a sua efectivaçã
 
 A Divisão de Recursos Humanos, compreende a Secção de Pessoal - (SP).
 
-###### Artigo 14º — Secção de Pessoal
+###### Artigo 14º
+
+#### Secção de Pessoal
 
 (SP)
 
@@ -311,7 +356,9 @@ e) Apresentar sugestões quanto à política a seguir com o pessoal, com acçõe
 
 f) Propor medidas tendentes ao aumento da qualidade e produtividade do trabalho e assegurar o respectivo controlo e execução.
 
-###### Artigo 15º — Divisão de Coordenação e Controlo Financeiro
+###### Artigo 15º
+
+##### Divisão de Coordenação e Controlo Financeiro
 
 (DCCF)
 
@@ -343,7 +390,9 @@ l) Promover o supervisionar a contratação de fornecimentos, aprovisionamento e
 
 A DCCF compreende a Secção de Contabilidade - (SC).
 
-###### Artigo 17º — Secção de Contabilidade
+###### Artigo 17º
+
+#### Secção de Contabilidade
 
 (SC)
 
@@ -479,7 +528,9 @@ h) Organizar e manter actualizados os ficheiros de bibliografia jurídica.
 
 2. O GJ é dirigido por um chefe de divisão.
 
-##### Subsecção II — Artigo 23º
+##### Subsecção II
+
+###### Artigo 23º
 
 Serviço de Registo e Gestão Predial
 
@@ -669,7 +720,9 @@ a) Proceder a acções de ensaios, estudos, investigações, formação e divulg
 
 b) No domínio das infraestruturas de transporte, compete ainda a realização de estudos, ensaios e observações para apoio ao projecto, à construção e à previsão do comportamento de obras, desenvolvendo para o efeito métodos e técnicas de dimensionamento, verificação, observação e ensaio.
 
-###### Artigo 29º — Divisão de Prospecção e Fundações
+###### Artigo 29º
+
+##### Divisão de Prospecção e Fundações
 
 (DPF)
 
@@ -701,7 +754,9 @@ b) No domínio das estruturas compete-lhe:
 
 - A investigação de problemas de análise estrutural e o desenvolvimento de métodos de cálculo, explorando as potencialidades dos meios informáticos.
 
-###### Artigo 31º — Divisão de Materiais de Construção
+###### Artigo 31º
+
+##### Divisão de Materiais de Construção
 
 (DMC)
 
@@ -775,7 +830,9 @@ g) Desenvolver as acções necessárias com vista à dinamização e boa aplica�
 
 h) Executar as acções e tarefas que superiormente lhe forem determinadas.
 
-###### Artigo 35º — Divisão de Planeamento
+###### Artigo 35º
+
+##### Divisão de Planeamento
 
 (DP)
 
@@ -789,7 +846,9 @@ c) Coordenar e acompanhar, em estreita cooperação com os serviços externos de
 
 d) Executar as acções e cumprir as orientações que superiormente lhe sejam cometidas.
 
-###### Artigo 36º — Divisão de Infraestruturas
+###### Artigo 36º
+
+##### Divisão de Infraestruturas
 
 (DI)
 
@@ -869,7 +928,9 @@ g) Promover a organização e adaptação de normas nacionais para a elaboraçã
 
 h) Promover a articulação no âmbito da sua área de competência com todas as entidades regionais ou nacionais que tenham intervenção e responsabilidades em matéria urbanística.
 
-###### Artigo 40º — Divisão de Ordenamento
+###### Artigo 40º
+
+##### Divisão de Ordenamento
 
 (DO)
 
@@ -887,7 +948,9 @@ e) Coordenar a elaboração do Plano Regional de Ordenamento do Território e o 
 
 f) Manter contactos com os serviços regionais, nacionais e estrangeiros interessados na investigação no domínio do ordenamento do território, nomeadamente no âmbito do urbanismo;
 
-###### Artigo 41º — Divisão de Cartografia
+###### Artigo 41º
+
+##### Divisão de Cartografia
 
 (DC)
 
@@ -969,7 +1032,9 @@ f) Elaborar os relatórios que lhe forem solicitados, assim como o relatório an
 
 g) Executar as demais acções que lhe forem superiormente atribuídas.
 
-###### Artigo 45º — Divisão de Infraestruturas Portuárias
+###### Artigo 45º
+
+##### Divisão de Infraestruturas Portuárias
 
 (DIP)
 
@@ -983,7 +1048,9 @@ c) Proceder à fiscalização e acompanhamento de todas as obras do sector;
 
 d) Executar as demais acções que superiormente lhe sejam cometidas.
 
-###### Artigo 46º — Divisão de Infraestruturas Aeroportuárias
+###### Artigo 46º
+
+##### Divisão de Infraestruturas Aeroportuárias
 
 (DIA)
 
@@ -1133,7 +1200,9 @@ a) Executar todas as obras em regime de administração directa, programando con
 
 b) Exercer as demais competências que lhe forem superiormente atribuídas.
 
-###### Artigo 54º — Divisão de Qualidade e Arborização
+###### Artigo 54º
+
+##### Divisão de Qualidade e Arborização
 
 Compete à DQA designadamente:
 
@@ -1271,7 +1340,9 @@ h) Fiscalizar ou ordenar a fiscalização das obras promovidas pela SRHOP, com e
 
 i) Executar as demais acções que lhe sejam cometidas.
 
-###### Artigo 60º — Divisão de Equipamentos Escolares
+###### Artigo 60º
+
+##### Divisão de Equipamentos Escolares
 
 (DEE)
 
@@ -1285,7 +1356,9 @@ c) Proceder à fiscalização e acompanhamento de todas as obras do sector;
 
 d) Executar as demais acções que lhe sejam cometidas.
 
-###### Artigo 61º — Divisão de Equipamentos Sociais
+###### Artigo 61º
+
+##### Divisão de Equipamentos Sociais
 
 (DES)
 
@@ -1571,14 +1644,14 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 26 de Setembro de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 30 de Dezembro de 1991.**
+Assinado em Angra do Heroísmo em 30 de Dezembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — QUADRO DE PESSOAL A QUE SE REFERE O ARTº 68
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/01/022b00/05060529.pdf))](https://files.diariodarepublica.pt/1s/1992/01/022b00/05060529.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/022b00/05060529.pdf)

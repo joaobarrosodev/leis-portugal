@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/205/2008/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/205-2008-247720
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f47434ea9cd9f5d29e8228d4994f91925154a53688c531c4dfea4491c3a57b13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61841c069a2f189637fa6c153f6a936f12b48366839fa5d5f50fd644c3e5f441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:343142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455612:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma,pela PORT.880/2008.14.08.2008.MADRP,\
+    \ DR.IS [157] de 14.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/880-2008-455612
+  date: '2008-08-14'
+- type: amended_by
+  target: pt:dre:343142:por
+  label: "Anexados vários terrenos cinegéticos à zona de caça atribuída pelo presente diploma, alterada pela Port 880/2008,\
+    \ de 14-Ago, pela PORT.700/2010.16.08.2010.MADRP, DR.IS [158] de 16.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-2010-343142
+  date: '2010-08-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -83,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:52Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +145,6 @@ d) 5 % aos demais caçadores, conforme é referido na alínea d) do citado artig
 
 5.º A zona de caça criada pela presente portaria produz efeitos, relativamente a terceiros, com a instalação da respectiva sinalização.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 15 de Janeiro de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 15 de Janeiro de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03900/0122201223.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03900/0122201223.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03900/0122201223.pdf)

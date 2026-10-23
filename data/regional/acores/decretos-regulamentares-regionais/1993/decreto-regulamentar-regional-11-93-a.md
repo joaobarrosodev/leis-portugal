@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1993/05/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a75afe6d5c7105c9b6ae1fa46abf3bdbe99074a7b882b97ed329a44a2e3e5fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5275d5896785e67de2d97ef91f0e936f353344eac54621515608a3336a807e60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Drepa
-- Direcção Regional de Organização e Administração Pública
-- Secretaria Regional das Finanças Planeamento e Administração Pública
-- Orgânica
-- Direcção Regional do Orçamento e Tesouro
-- Quadro de Pessoal
-- Serviço Regional de Estatística dos Açores
 - Açores
+- Direcção Regional de Organização e Administração Pública
+- Direcção Regional do Orçamento e Tesouro
+- Drepa
+- Governo Regional
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional das Finanças Planeamento e Administração Pública
+- Serviço Regional de Estatística dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:291927:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:513986:por
+  label: "Alterados os arts. 20º, 21º, 22º, 23º, nº 2 e 4º do art. 36º, art. 55º, nº 1 do art. 58º, nº 3 do art. 64º e os\
+    \ mapas I e IV anexos, e aditados os arts. 23-A, 50-A e 52-A, pelo DRR.10/95/A.1995.03.02.GR-RAA, DR.IS-B [107] de 09.05.1995\0\
+    5\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1995-513986
+  date: '1995-03-02'
+- type: amended_by
+  target: pt:dre:620926:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, pelo DRR.3/96/A.1996.01.08.GR-RAA, DR.IS-B [35] de 10/Fev/1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-1996-620926
+  date: '1996-01-08'
+- type: amended_by
+  target: pt:dre:214228:por
+  label: "Alterado o nº 1 do art. 52º, pelo DRR.38/96/A.1996.09.02.SRFPAP-RAA, DR.IS-B [223] de 25.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/38-1996-214228
+  date: '1996-09-02'
 - type: cites
   target: eli:http://data
   label: null
@@ -119,16 +137,119 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/32/1991/10/01/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/32/1991/10/01/a/dre
+- type: cites
+  target: pt:dre:151531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:285568:por
+  label: "Rectificado pela DECL-RECT.171/93.1993.08.31.PCM, DR.IS [204]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/171-1993-285568
+  date: '1993-08-31'
+- type: repealed_by
+  target: pt:dre:522376:por
+  label: "Revogado pelo DRR.16/98/A.1998.04.13.GR-RAA, DR.IS-B [112] de 15/Mai/1998.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1998-522376
+  date: '1998-04-13'
+- type: repealed_by
+  target: pt:dre:522847:por
+  label: "Revogado o art. 9º pelo DRR.15/98/A.1998.04.13.PG-RAA, DR.IS-B [110] de 13/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-1998-522847
+  date: '1998-04-13'
 article_structure:
   article_count: 66
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:13Z'
   warnings: []
   errors: []
 ---
@@ -457,7 +578,9 @@ c) Tesouraria de Horta (TH);
 
 d) Tesouraria de Ponta Delgada (TPD).
 
-###### Artigo 15.º — Divisão de Operações Financeiras, Acompanhamento e Avaliação (DOFAA)
+###### Artigo 15.º
+
+##### Divisão de Operações Financeiras, Acompanhamento e Avaliação (DOFAA)
 
 A DOFAA tem as seguintes competências:
 
@@ -493,7 +616,9 @@ a) Divisão do Orçamento Regional (DOR);
 
 b) Divisão de Contabilidade Pública Regional (DCPR).
 
-###### Artigo 17.º — Divisão do Orçamento Regional (DOR)
+###### Artigo 17.º
+
+##### Divisão do Orçamento Regional (DOR)
 
 À DOR compete:
 
@@ -509,7 +634,9 @@ e) Estudar e propor medidas fiscais de carácter normativo, em estreita colabora
 
 f) Superintender, coordenar e prestar apoio em todas as matérias respeitantes aos orçamentos privativos dos serviços e fundos autónomos, designadamente na sua elaboração e execução orçamental, na preparação dos orçamentos privativos ordinários e suplementares para visto do Secretário Regional das Finanças, Planeamento e Administração Pública, pronunciando-se sobre os mesmos, e executar quaisquer outras actividades que lhe sejam cometidas por lei ou por determinação superior, com o objectivo de aperfeiçoar, racionalizar e conferir eficácia à gestão destes orçamentos.
 
-###### Artigo 18.º — Divisão de Contabilidade Pública Regional (DCPR)
+###### Artigo 18.º
+
+##### Divisão de Contabilidade Pública Regional (DCPR)
 
 1 - A DCPR tem as seguintes competências:
 
@@ -563,7 +690,9 @@ b) Sector Técnico de Imóveis (STI);
 
 c) Sector Técnico de Móveis e Semoventes (STMS).
 
-###### Artigo 21.º — Divisão de Inspecção e Gestão Patrimonial (DIGP)
+###### Artigo 21.º
+
+##### Divisão de Inspecção e Gestão Patrimonial (DIGP)
 
 São competências da DIGP:
 
@@ -647,11 +776,11 @@ Núcleo de Fundos Comunitários (NFC).
 
 2 - A DSP compreende os seguintes serviços:
 
-##### Divisão de Análise Económica e Avaliação de Projectos (DAEAP);
+Divisão de Análise Económica e Avaliação de Projectos (DAEAP);
 
-##### Divisão de Análise Social e Demográfica (DASD);
+Divisão de Análise Social e Demográfica (DASD);
 
-##### Divisão de Acompanhamento e Documentação (DAD).
+Divisão de Acompanhamento e Documentação (DAD).
 
 ###### Artigo 27.º — Centro de Reprografia (CR)
 
@@ -681,7 +810,9 @@ e) Assegurar e acompanhar a realização de pareceres e avaliações de projecto
 
 f) Promover a articulação, nas vertentes de elaboração e acompanhamento, entre o plano regional e demais intervenções com co-financiamento comunitário.
 
-###### Artigo 29.º — Divisão de Análise Económica e Avaliação de Projectos (DAEAP)
+###### Artigo 29.º
+
+##### Divisão de Análise Económica e Avaliação de Projectos (DAEAP)
 
 Compete à DAEAP, designadamente:
 
@@ -701,7 +832,9 @@ g) Preparar pareceres sobre projectos de investimento público e privado, cuja a
 
 h) Proceder, em colaboração com outros departamentos, à elaboração e acompanhamento de programas e outros instrumentos de ordenamento do território.
 
-###### Artigo 30.º — Divisão de Análise Social e Demográfica (DASD)
+###### Artigo 30.º
+
+##### Divisão de Análise Social e Demográfica (DASD)
 
 Compete à DASD, designadamente:
 
@@ -717,7 +850,9 @@ e) Executar as orientações e directivas de carácter técnico para a elaboraç
 
 f) Proceder, em colaboração com os outros departamentos, à elaboração e acompanhamento de programas e outros instrumentos de índole social.
 
-###### Artigo 31.º — Divisão de Acompanhamento e Documenação (DAD)
+###### Artigo 31.º
+
+##### Divisão de Acompanhamento e Documenação (DAD)
 
 Compete à DAD, designadamente:
 
@@ -811,11 +946,15 @@ d) Delegação do SAPL em Ponta Delgada.
 
 4 - As delegações do SAPL são chefiadas por um chefe de secção.
 
-###### Artigo 37.º — Secção de ADSE (SADSE)
+###### Artigo 37.º
+
+#### Secção de ADSE (SADSE)
 
 Compete à SADSE assegurar todo o expediente respeitante à ADSE na Região, bem como estudar e propor medidas de melhoramento sobre a matéria.
 
-###### Artigo 38.º — Secção de Passaportes e Licenças (SPL)
+###### Artigo 38.º
+
+#### Secção de Passaportes e Licenças (SPL)
 
 Compete à SPL:
 
@@ -881,7 +1020,9 @@ b) Centro de Formação da Administração Pública dos Açores (CEFAPA);
 
 c) Divisão de Estruturas e Modernização (DEM).
 
-###### Artigo 41.º — Divisão da Função Pública (DFP)
+###### Artigo 41.º
+
+##### Divisão da Função Pública (DFP)
 
 Compete à DFP:
 
@@ -917,7 +1058,9 @@ e) Gerir as instalações e o equipamento destinados à formação, assim como o
 
 3 - O CEFAPA é dirigido por um chefe de divisão.
 
-###### Artigo 43.º — Divisão de Estruturas e Modernização (DEM)
+###### Artigo 43.º
+
+##### Divisão de Estruturas e Modernização (DEM)
 
 Compete à DEM:
 
@@ -961,7 +1104,9 @@ b) Divisão de Finanças Locais e Ordenamento do Território (DFLOT);
 
 c) Divisão dos Assuntos Jurídicos e Eleitorais (DAJE).
 
-###### Artigo 45.º — Divisão de Apoios Comunitários e Cooperação (DACC)
+###### Artigo 45.º
+
+##### Divisão de Apoios Comunitários e Cooperação (DACC)
 
 Compete à DACC:
 
@@ -973,7 +1118,9 @@ c) Estudar e propor critérios, áreas e formas de colaboração e cooperação 
 
 d) Analisar e seleccionar as propostas de candidatura de projectos municipais à cooperação financeira directa, acompanhar a execução física e financeira dos empreendimentos e efectuar os respectivos processamentos de verbas.
 
-###### Artigo 46.º — Divisão de Finanças Locais e Ordenamento do Território (DFLOT)
+###### Artigo 46.º
+
+##### Divisão de Finanças Locais e Ordenamento do Território (DFLOT)
 
 Compete à DFLOT:
 
@@ -995,7 +1142,9 @@ h) Apoiar os municípios no âmbito dos planos municipais de ordenamento do terr
 
 i) Participar em comissões ou grupos de trabalho de âmbito regional, constituídos no domínio do ordenamento do território e áreas afins.
 
-###### Artigo 47.º — Divisão dos Assuntos Jurídicos e Eleitorais (DAJE)
+###### Artigo 47.º
+
+##### Divisão dos Assuntos Jurídicos e Eleitorais (DAJE)
 
 Compete à DAJE:
 
@@ -1145,44 +1294,44 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 24 de Fevereiro de 1993.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 31 de Março de 1993.**
+Assinado em Angra do Heroísmo em 31 de Março de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ANEXOS
 
 Mapa I a que se refere o n.º 1 do artigo 48.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf))](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
 
 Mapas II a VI a que se refere o n.º 2 do artigo 48.º
 
 Mapa II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf))](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
 
 Mapa III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf))](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
 
 Mapa IV
 
 Carreira técnica do património
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf))](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
 
 Mapa V
 
 Carreira de pessoal dirigente das tesourarias da Região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf))](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
 
 Mapa VI
 
 Carreira de pessoal técnico exactor da Região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf))](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/05/107b00/24382455.pdf)

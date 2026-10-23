@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 242/2007, 1º Suplemento, Série I de 2007-12-17
   number: '242'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8954-(2) a 8954-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/24201/0000200004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23-a/2007/12/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-a-2007-158608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a9aadb3675e62cc61b024a06048cd0068de950447e99fdb13a57d917246e533
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b10824d4b8f2b03f252203ee06974ffe56aadb4a21139c5703a38afd6692c104
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- Gestão Financeira
 - Domínio Privado do Estado
 - Gestão Administrativa
 - Gestão do Património
-- Patriram
+- Gestão Financeira
 - Madeira.região Autónoma
+- Patriram
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/7/2007/01/12/m/dre
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:262363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:52Z'
   warnings: []
   errors: []
 ---
@@ -137,21 +153,25 @@ O presente diploma produz efeitos a partir do dia 30 de Outubro de 2007.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 6 de Dezembro de 2007.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 14 de Dezembro de 2007.**
+Assinado em 14 de Dezembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — Bases da concessão da gestão, rentabilização e reconversão de património do domínio privado da RAM
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 A concessão tem por objecto a gestão, rentabilização e reconversão de património, imobiliário e mobiliário, do domínio privado da RAM.
 
-###### Base II — Princípios da actuação da concessionária
+Base II
+
+Princípios da actuação da concessionária
 
 1 - Sem prejuízo do carácter empresarial que preside à sua actividade, a conduta pela concessionária deve pautar-se pelo respeito dos princípios fundamentais aplicáveis à Administração Pública e deve ter sempre em vista as melhores opções para o interesse público da boa e correcta gestão de património privado da concedente.
 
@@ -159,7 +179,9 @@ A concessão tem por objecto a gestão, rentabilização e reconversão de patri
 
 3 - A concessionária deve promover uma política de transparência na captação de recursos financeiros e, quando esteja em causa o estabelecimento de parcerias público-privadas, deve garantir a existência de uma concorrência suficiente e adequada.
 
-###### Base III — Património afecto à concessão
+Base III
+
+Património afecto à concessão
 
 1 - A PATRIRAM, S. A., enquanto concessionária, fica encarregada da gestão, rentabilização e reconversão do património que lhe for entregue pela RAM, concedente, para esses efeitos, e cuja identificação consta de anexo ao contrato de concessão.
 
@@ -167,17 +189,23 @@ A concessão tem por objecto a gestão, rentabilização e reconversão de patri
 
 3 - A lista dos bens afectos à concessão deve ser actualizada pela concessionária semestralmente, a partir da data da celebração do contrato de concessão.
 
-###### Base IV — Exclusivo da concessão
+Base IV
+
+Exclusivo da concessão
 
 A concessão é dada em exclusivo, não podendo a concedente permitir que outrem pratique, nem podendo ele mesmo praticar, em relação aos bens afectos à concessão, qualquer acto que se compreenda na actividade concessionada.
 
-###### Base V — Prazo da concessão
+Base V
+
+Prazo da concessão
 
 1 - A concessão terá uma duração de 50 anos a contar da data da celebração do respectivo contrato, extinguindo-se às 24 horas do dia correspondente.
 
 2 - O prazo referido no número anterior pode ser prorrogado por períodos de 5 anos até ao máximo de 20 anos, mediante comunicação da concedente dirigida à concessionária com a antecedência de pelo menos dois meses relativamente ao termo, inicial ou prorrogado, da concessão.
 
-###### Base VI — Gestão, rentabilização e reconversão do património
+Base VI
+
+Gestão, rentabilização e reconversão do património
 
 1 - Para efeitos da gestão, rentabilização e reconversão do património objecto da concessão, a concessionária poderá fazer uso de todos os mecanismos e instrumentos previstos na lei e que se mostrem adequados ao caso.
 
@@ -191,7 +219,9 @@ A concessão é dada em exclusivo, não podendo a concedente permitir que outrem
 
 6 - Os actos de administração extraordinária do património afecto à concessão, como a alienação ou a constituição do usufruto ou do direito de superfície, dependem de autorização dada mediante deliberação formal e por escrito pelo órgão competente da concedente.
 
-###### Base VII — Receitas próprias da concessionária
+Base VII
+
+Receitas próprias da concessionária
 
 1 - São receitas próprias da concessionária as que decorram da gestão, rentabilização e reconversão do património objecto da concessão.
 
@@ -199,13 +229,17 @@ A concessão é dada em exclusivo, não podendo a concedente permitir que outrem
 
 3 - Para garantia dos seus direitos e interesses patrimoniais, a concessionária pode instaurar os processos arbitrais e judiciais que se mostrem necessários e adequados.
 
-###### Base VIII — Preço da concessão
+Base VIII
+
+Preço da concessão
 
 1 - Pela concessão, a concessionária deve pagar à concedente uma renda de valor a estabelecer no contrato de concessão.
 
 2 - Pela prorrogação da concessão, é devida uma nova renda, que será determinada proporcionalmente.
 
-###### Base IX — Fiscalização da concessão
+Base IX
+
+Fiscalização da concessão
 
 1 - A concedente poderá fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, podendo, para tanto, exigir à concessionária as informações e os documentos que considerar necessários.
 
@@ -215,7 +249,9 @@ A concessão é dada em exclusivo, não podendo a concedente permitir que outrem
 
 4 - Para efeitos de fiscalização da actividade da concessionária, a concedente pode nomeadamente mandar efectuar vistorias, inspecções e exames à contabilidade.
 
-###### Base X — Multas contratuais
+Base X
+
+Multas contratuais
 
 1 - Pelo incumprimento das obrigações impostas nas presentes bases ou assumidas no âmbito do contrato de concessão, poderá a concessionária ser punida com multa, variável segundo a gravidade do incumprimento.
 
@@ -223,13 +259,17 @@ A concessão é dada em exclusivo, não podendo a concedente permitir que outrem
 
 3 - A aplicação da multa é antecedida de audiência prévia e será comunicada por escrito à concessionária.
 
-###### Base XI — Trespasse da concessão
+Base XI
+
+Trespasse da concessão
 
 1 - A concessionária não poderá trespassar a concessão, no todo ou em parte, dada mediante deliberação formal e por escrito pelo órgão competente da concedente.
 
 2 - A falta de autorização escrita importa a nulidade do trespasse.
 
-###### Base XII — Subconcessão
+Base XII
+
+Subconcessão
 
 1 - A concessionária não pode, salvo havendo consentimento por parte da concedente, subconceder, no todo ou em parte, a concessão.
 
@@ -237,7 +277,9 @@ A concessão é dada em exclusivo, não podendo a concedente permitir que outrem
 
 3 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão.
 
-###### Base XIII — Poder de modificação unilateral da concedente
+Base XIII
+
+Poder de modificação unilateral da concedente
 
 1 - A concedente tem o poder de modificar unilateralmente o contrato de concessão, designadamente, retirando do objecto da concessão os imóveis cuja gestão queira reassumir.
 
@@ -245,7 +287,9 @@ A concessão é dada em exclusivo, não podendo a concedente permitir que outrem
 
 3 - No caso de modificação unilateral do contrato de concessão pela concedente nos termos deste artigo implicar a perda de actividade da concessionária, a concedente obriga-se a responder subsidiariamente pelas dívidas que ela tenha contraído para com terceiros.
 
-###### Base XIV — Poder de extinção antecipada da concessão
+Base XIV
+
+Poder de extinção antecipada da concessão
 
 1 - A concedente só pode decretar a extinção antecipada da concessão com fundamento em razões de interesse público absolutamente imperiosas e devidamente fundamentadas.
 
@@ -255,7 +299,9 @@ A concessão é dada em exclusivo, não podendo a concedente permitir que outrem
 
 4 - No caso de a extinção antecipada da concessão implicar a perda de actividade da concessionária, a concedente obriga-se a responder subsidiariamente pelas dívidas que ela tenha contraído para com terceiros.
 
-###### Base XV — Termo do prazo de concessão
+Base XV
+
+Termo do prazo de concessão
 
 1 - No termo da concessão, a RAM entrará na plena posse e gozo dos bens da concessionária afectos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual serão convocados os representantes da concessionária.
 

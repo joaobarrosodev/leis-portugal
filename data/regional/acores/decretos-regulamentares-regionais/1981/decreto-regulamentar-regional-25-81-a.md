@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1981-388990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90b7f58f44ccd68ebcffe2a55085a7a0ef9be79f505026ce44bf03115c056520
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cbed8cda2c65ce2c8bf408554ae0041a14e473685c22fad94e897f4f9eff30e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Regional
+- Governo Regional
+- Promoção Profissional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:662335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567401:por
+  label: "Dada nova redacção ao n.º 4 do artigo 3.º, pelo DRR.56/81/A.24.11.1981.GR-RAA, DR.IS [283] de 10.12.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-1981-567401
+  date: '1981-11-24'
+- type: cites
+  target: pt:dre:277307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:25Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +123,7 @@ Assim, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea 
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º - 1 - O pessoal dos departamentos do Governo Regional será agrupado de acordo com a seguinte classificação:
+Artigo 1.º - 1 - O pessoal dos departamentos do Governo Regional será agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -113,7 +139,7 @@ e) Pessoal operário e ou auxiliar.
 
 3 - Os quadros a que alude o número anterior poderão ser alterados por decreto regulamentar regional.
 
-###### Art. 2.º - 1 - As condições e regras de organização de quadros e de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários e agentes dos departamentos regionais serão, para as respectivas categorias, as estabelecidas no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e na legislação regional e geral complementar.
+Art. 2.º - 1 - As condições e regras de organização de quadros e de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários e agentes dos departamentos regionais serão, para as respectivas categorias, as estabelecidas no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e na legislação regional e geral complementar.
 
 2 - O recrutamento para os seguintes lugares de chefia da carreira administrativa será feito de entre indivíduos que preencham os seguintes requisitos:
 
@@ -121,7 +147,7 @@ a) Chefe de repartição - de entre diplomados com curso superior adequado ou de
 
 b) Chefe de secção - de entre diplomados com curso superior adequado ou de entre os primeiros-oficiais ou funcionários dos quadros administrativo ou técnico de categoria equivalente ou superior com, pelo menos, três anos de bom e efectivo serviço na correspondente categoria.
 
-###### Art. 3.º - 1 - O provimento do pessoal é da competência do membro do Governo do departamento respectivo e será feito por nomeação ou contrato, de harmonia com o estabelecido na lei em vigor, e, enquanto não se encontrar em funcionamento a Secção Regional do Tribunal de Contas, deverão os respectivos processos, previamente, obter parecer da Secretaria Regional da Administração Pública.
+Art. 3.º - 1 - O provimento do pessoal é da competência do membro do Governo do departamento respectivo e será feito por nomeação ou contrato, de harmonia com o estabelecido na lei em vigor, e, enquanto não se encontrar em funcionamento a Secção Regional do Tribunal de Contas, deverão os respectivos processos, previamente, obter parecer da Secretaria Regional da Administração Pública.
 
 2 - Sem prejuízo do que se encontra estabelecido na lei geral e nas leis orgânicas regionais quanto a concursos e cursos para o ingresso e acesso em determinados cargos, e enquanto não for publicada legislação que regulamente os métodos de selecção e de classificação de serviço, poderão os membros do Governo condicionar o provimento dos lugares a concurso documental ou à aprovação dos funcionários em concurso de prestação de provas ou ainda à frequência, com aproveitamento, de cursos de aperfeiçoamento, cabendo ao responsável pelo departamento respectivo e ao Secretário Regional da Administração Pública fixarem por portaria conjunta as condições e os programas desses concursos e cursos.
 
@@ -129,40 +155,40 @@ b) Chefe de secção - de entre diplomados com curso superior adequado ou de ent
 
 4 - Para a contagem de tempo de bom e efectivo serviço na classe ou na categoria legalmente exigido para efeitos de concurso ou promoção será tido em consideração o tempo em que o funcionário haja prestado serviço, a qualquer título, a tempo inteiro, em departamento da Administração Central, Regional ou Local e no exercício de idênticas funções.
 
-###### Art. 4.º - 1 - Quando a nomeação para os lugares referidos no n.º 1 do artigo anterior recair em quem não seja ainda funcionário da Administração Central, Regional ou Local, o provimento terá carácter provisório durante um ano.
+Art. 4.º - 1 - Quando a nomeação para os lugares referidos no n.º 1 do artigo anterior recair em quem não seja ainda funcionário da Administração Central, Regional ou Local, o provimento terá carácter provisório durante um ano.
 
 2 - Findo este período, o funcionário será provido definitivamente no lugar, se tiver revelado aptidão, e exonerado, no caso contrário.
 
-###### Art. 5.º - 1 - Durante o primeiro provimento, o pessoal que preste serviço a qualquer título nas secretarias regionais ou nos serviços públicos regionalizados ou em vias de regionalização pode ingressar nos lugares dos quadros, por despacho conjunto das secretarias regionais interessadas e da Administração Pública, a publicar no Jornal Oficial.
+Art. 5.º - 1 - Durante o primeiro provimento, o pessoal que preste serviço a qualquer título nas secretarias regionais ou nos serviços públicos regionalizados ou em vias de regionalização pode ingressar nos lugares dos quadros, por despacho conjunto das secretarias regionais interessadas e da Administração Pública, a publicar no Jornal Oficial.
 
 2 - O pessoal referido no número anterior poderá ser provido na categoria ou classe imediatamente superior à que ocupa, desde que possua as habilitações literárias legalmente exigidas e tenha, no mínimo, um ano e meio de bom e efectivo serviço na sua categoria ou classe.
 
 3 - O disposto nos números anteriores vigorará até 31 de Dezembro de 1981, ficando o primeiro provimento dos lugares dos quadros do pessoal, a partir daquela data, sujeito às regras normais de ingresso e acesso na carreira a que se refere o artigo 3.º
 
-###### Art. 6.º A admissão em lugares de acesso é condicionada ao disposto no artigo 2.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, excepto quanto ao requisito de ser nos termos fixados na correspondente lei orgânica, e efectuar-se-á por despacho conjunto e fundamentado do membro do Governo interessado e do Secretário Regional da Administração Pública.
+Art. 6.º A admissão em lugares de acesso é condicionada ao disposto no artigo 2.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, excepto quanto ao requisito de ser nos termos fixados na correspondente lei orgânica, e efectuar-se-á por despacho conjunto e fundamentado do membro do Governo interessado e do Secretário Regional da Administração Pública.
 
-###### Art. 7.º - 1 - Quando nos quadros de pessoal da Administração Regional existirem vagas em classes superiores e não houver funcionários que reúnam as condições legais de acesso às mesmas, poderão ser admitidos para as categorias de ingresso da respectiva carreira tantas unidades quantas as vagas existentes, em conformidade com o número seguinte.
+Art. 7.º - 1 - Quando nos quadros de pessoal da Administração Regional existirem vagas em classes superiores e não houver funcionários que reúnam as condições legais de acesso às mesmas, poderão ser admitidos para as categorias de ingresso da respectiva carreira tantas unidades quantas as vagas existentes, em conformidade com o número seguinte.
 
 2 - Os quadros e carreiras em que se mostre conveniente a adopção do número anterior serão definidos por despacho normativo dos membros do Governo interessados e do Secretário Regional da Administração Pública.
 
 ### CAPÍTULO II — Disposições finais e transitórias
 
-###### Art. 8.º Os escriturários-dactilógrafos da Administração Regional com a escolaridade obrigatória e com três anos de bom e efectivo serviço na sua categoria à data da publicação do [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro, poderão requerer a admissão aos dois primeiros concursos de habilitação para lugares de ingresso na carreira administrativa.
+Art. 8.º Os escriturários-dactilógrafos da Administração Regional com a escolaridade obrigatória e com três anos de bom e efectivo serviço na sua categoria à data da publicação do [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro, poderão requerer a admissão aos dois primeiros concursos de habilitação para lugares de ingresso na carreira administrativa.
 
-###### Art. 9.º Na aplicação do presente diploma ter-se-ão em conta as disposições dos artigos 21.º, 22.º, 24.º, 25.º e 28.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+Art. 9.º Na aplicação do presente diploma ter-se-ão em conta as disposições dos artigos 21.º, 22.º, 24.º, 25.º e 28.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### Art. 10.º A partir da data da entrada em vigor deste decreto regulamentar, os projectos de diploma que contenham matérias respeitantes às orgânicas e às condições gerais de prestação de trabalho, remunerações e estruturação de quadros e carreiras profissionais na Administração Regional serão obrigatoriamente acompanhados de parecer da Secretaria Regional da Administração Pública, o qual deverá ser prestado no prazo máximo de trinta dias.
+Art. 10.º A partir da data da entrada em vigor deste decreto regulamentar, os projectos de diploma que contenham matérias respeitantes às orgânicas e às condições gerais de prestação de trabalho, remunerações e estruturação de quadros e carreiras profissionais na Administração Regional serão obrigatoriamente acompanhados de parecer da Secretaria Regional da Administração Pública, o qual deverá ser prestado no prazo máximo de trinta dias.
 
-###### Art. 11.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Presidente do Governo Regional e do Secretário Regional da Administração Pública.
+Art. 11.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto do Presidente do Governo Regional e do Secretário Regional da Administração Pública.
 
-###### Art. 12.º O presente diploma revoga os Decretos Regulamentares Regionais n.os [27/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1977-277307), [19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824) e [23/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1979-364731), respectivamente de 26 de Outubro, 19 de Setembro e 22 de Outubro.
+Art. 12.º O presente diploma revoga os Decretos Regulamentares Regionais n.os [27/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1977-277307), [19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824) e [23/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1979-364731), respectivamente de 26 de Outubro, 19 de Setembro e 22 de Outubro.
 
 Aprovado pelo Governo Regional em 17 de Fevereiro de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 31 de Março de 1981.**
+Assinado em Angra do Heroísmo em 31 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/131b00/35553563.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2004/06/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2004-280557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45d23e2844e2533393864eaf5b1ed5a785cfee256fe81bcbe30780d6e2907689
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e174f52f8d6675d5d499f79626840d75269911195119f4db2dc066d1f00646e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
+- Açores
 - Definição de Competências
 - Direcção Regional de Organização e Administração Pública
+- Governo Regional
 - Orgânica
 - Quadro de Pessoal
 - Secretário Regional Adjunto da Presidência
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:553625:por
@@ -106,16 +106,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:176516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:528383:por
+  label: "Rectificado pela DECL-RECT.61/2004.24.06.2004.PCM, DR.IS-B [160] de 09.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/61-2004-528383
+  date: '2004-06-24'
+- type: repealed_by
+  target: pt:dre:553625:por
+  label: "Revogado pelo DRR.9/2006/A.20.01.2006.PG-RAA, DR.IS-B [29] de 09.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2006-553625
+  date: '2006-01-20'
 article_structure:
   article_count: 33
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:51Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +184,7 @@ O presente diploma estabelece a orgânica dos serviços dependentes do Secretár
 
 ###### Artigo 2.º — Atribuições
 
-**O Secretário Regional Adjunto da Presidência é o membro do Governo que propõe e executa as políticas do Governo Regional nas seguintes matérias:**
+O Secretário Regional Adjunto da Presidência é o membro do Governo que propõe e executa as políticas do Governo Regional nas seguintes matérias:
 
 a) Assuntos parlamentares;
 
@@ -220,7 +262,7 @@ b) De apoio instrumental:
 
 Centro de Informação e Documentação (CID);
 
-##### Divisão de Administração, ADSE, Passaportes e Licenças (DAPL);
+Divisão de Administração, ADSE, Passaportes e Licenças (DAPL);
 
 c) De carácter operativo:
 
@@ -288,7 +330,9 @@ h) Exercer as demais funções que lhe vierem a ser atribuídas por lei ou por d
 
 2 - O CID é dirigido por um chefe de divisão.
 
-###### Artigo 7.º — Divisão de Administração, ADSE, Passaportes e Licenças
+###### Artigo 7.º
+
+##### Divisão de Administração, ADSE, Passaportes e Licenças
 
 1 - A DAPL assegura a actividade de apoio administrativo ao Gabinete do Secretário Regional Adjunto da Presidência, à DROAP e à Inspecção Administrativa Regional, bem como todo o expediente respeitante à ADSE, emissão de passaportes e licenças e a execução das normas de polícia administrativa para a Região Autónoma dos Açores.
 
@@ -310,7 +354,9 @@ b) Delegação da DAPL na ilha do Faial.
 
 5 - Ao chefe de divisão referido no número anterior compete dirigir e coordenar os subcoordenadores das delegações.
 
-###### Artigo 8.º — Secção de Apoio Administrativo
+###### Artigo 8.º
+
+#### Secção de Apoio Administrativo
 
 À SAA compete:
 
@@ -332,7 +378,9 @@ h) Executar todos os serviços de carácter administrativo, designadamente asseg
 
 i) Exercer as demais funções que lhe vierem a ser atribuídas por lei ou por determinação superior.
 
-###### Artigo 9.º — Secção da ADSE
+###### Artigo 9.º
+
+#### Secção da ADSE
 
 À SADSE compete:
 
@@ -342,7 +390,9 @@ b) Estudar e propor medidas de modernização e de melhoria do serviço prestado
 
 c) Exercer as demais funções que lhe vierem a ser atribuídas por lei ou por determinação superior.
 
-###### Artigo 10.º — Secção de Passaportes e Licenças
+###### Artigo 10.º
+
+#### Secção de Passaportes e Licenças
 
 À SPL compete:
 
@@ -442,7 +492,9 @@ b) Centro de Formação da Administração Pública dos Açores (CEFAPA);
 
 c) Divisão de Estruturas e Modernização (DEM).
 
-###### Artigo 15.º — Divisão da Função Pública
+###### Artigo 15.º
+
+##### Divisão da Função Pública
 
 Compete à DFP:
 
@@ -482,7 +534,9 @@ f) Exercer as demais funções que lhe vierem a ser atribuídas por lei ou por d
 
 3 - O CEFAPA é dirigido por um chefe de divisão.
 
-###### Artigo 17.º — Divisão de Estruturas e Modernização
+###### Artigo 17.º
+
+##### Divisão de Estruturas e Modernização
 
 Compete à DEM:
 
@@ -534,7 +588,9 @@ c) Divisão de Acompanhamento ao Ordenamento do Território (DAOT);
 
 d) Divisão dos Assuntos Jurídicos e Eleitorais (DAJE).
 
-###### Artigo 19.º — Divisão de Cooperação ao Investimento Municipal
+###### Artigo 19.º
+
+##### Divisão de Cooperação ao Investimento Municipal
 
 Compete à DCIM:
 
@@ -548,7 +604,9 @@ d) Analisar e seleccionar as propostas de candidaturas de projectos municipais �
 
 e) Exercer as demais funções que lhe vierem a ser atribuídas por lei ou por determinação superior.
 
-###### Artigo 20.º — Divisão de Finanças Locais
+###### Artigo 20.º
+
+##### Divisão de Finanças Locais
 
 Compete à DFL:
 
@@ -568,7 +626,9 @@ g) Elaborar relatórios anuais sobre as finanças locais na Região, bem como de
 
 h) Exercer as demais funções que lhe vierem a ser atribuídas por lei ou por determinação superior.
 
-###### Artigo 21.º — Divisão de Acompanhamento ao Ordenamento do Território
+###### Artigo 21.º
+
+##### Divisão de Acompanhamento ao Ordenamento do Território
 
 Compete à DAOT:
 
@@ -586,7 +646,9 @@ f) Participar em comissões ou grupos de trabalho, constituídos no âmbito do o
 
 g) Exercer as demais funções que lhe vierem a ser atribuídas por lei ou por determinação superior.
 
-###### Artigo 22.º — Divisão dos Assuntos Jurídicos e Eleitorais
+###### Artigo 22.º
+
+##### Divisão dos Assuntos Jurídicos e Eleitorais
 
 Compete à DAJE:
 
@@ -696,22 +758,22 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 25 de Março de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 14 de Maio de 2004.**
+Assinado em Angra do Heroísmo em 14 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — MAPA I
 
 (a que se refere o artigo 23.º, n.º 1)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/131b00/35553563.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/131b00/35553563.pdf)](https://files.diariodarepublica.pt/1s/2004/06/131b00/35553563.pdf)
 
 MAPA II
 
 (a que se refere o artigo 23.º, n.º 2)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/131b00/35553563.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/131b00/35553563.pdf)](https://files.diariodarepublica.pt/1s/2004/06/131b00/35553563.pdf)

@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1986-221730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61bd25d97acea055b55c79582e068928974f30ba9068f0d44da77b538a246b38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04668ce28a5f607a606d58696d6fa0bd9731a0b1e469230de06a50142df0a51d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:840060201:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:228462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396555:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:06Z'
   warnings: []
   errors: []
 ---
@@ -103,28 +117,28 @@ Nestes termos:
 
 A Assembleia Regional da Madeira, nos termos da alínea a) do artigo 229.º da Constituição da República aprova, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Governo Regional da Madeira poderá adjudicar, em regime de concessão e com dispensa da realização de concurso, a administração e exploração da zona franca da Madeira a entidade privada nacional ou estrangeira, na qual a Região Autónoma da Madeira venha a participar ou a se associar.
+Artigo 1.º O Governo Regional da Madeira poderá adjudicar, em regime de concessão e com dispensa da realização de concurso, a administração e exploração da zona franca da Madeira a entidade privada nacional ou estrangeira, na qual a Região Autónoma da Madeira venha a participar ou a se associar.
 
-###### Art. 2.º - 1 - O Governo Regional da Madeira poderá criar, na dependência da Secretaria Regional do Plano, uma comissão, a quem serão conferidas todas as competências relativas ao acompanhamento e fiscalização das actividades a exercer na zona franca, de modo a se obter uma simplificação dos procedimentos administrativos relativos ao conjunto daquelas actividades.
+Art. 2.º - 1 - O Governo Regional da Madeira poderá criar, na dependência da Secretaria Regional do Plano, uma comissão, a quem serão conferidas todas as competências relativas ao acompanhamento e fiscalização das actividades a exercer na zona franca, de modo a se obter uma simplificação dos procedimentos administrativos relativos ao conjunto daquelas actividades.
 
 2 - O Governo Regional da Madeira poderá delegar na concessionária da zona franca da Madeira a assinatura dos documentos que titulem as licenças para a instalação e funcionamento das empresas que pretendam operar na zona franca.
 
-###### Art. 3.º - Sem prejuízo da sua eventual renovação ou prorrogação, a concessão da zona franca da Madeira efectua-se pelo prazo de 30 anos e considera-se realizada em regime de serviço público.
+Art. 3.º - Sem prejuízo da sua eventual renovação ou prorrogação, a concessão da zona franca da Madeira efectua-se pelo prazo de 30 anos e considera-se realizada em regime de serviço público.
 
 2 - O contrato de concessão poderá consignar o recurso à arbitragem como forma de composição e resolução das questões dele emergentes.
 
 3 - A minuta do contrato de concessão deverá ser aprovada pelo Conselho do Governo Regional da Madeira.
 
-###### Art. 4.º O Governo Regional da Madeira regulamentará as condições de exercício das actividades no âmbito institucional da zona franca da Madeira, quer por parte da concessionária, quer por parte dos utentes da zona.
+Art. 4.º O Governo Regional da Madeira regulamentará as condições de exercício das actividades no âmbito institucional da zona franca da Madeira, quer por parte da concessionária, quer por parte dos utentes da zona.
 
-###### Art. 5.º O presente diploma entra imediatamente em vigor.
+Art. 5.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária em 15 de Julho de 1986.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 1 de Agosto de 1986.**
+Assinado em 1 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro de República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro de República para a Região Autónoma da Madeira, Lino Dias Miguel.

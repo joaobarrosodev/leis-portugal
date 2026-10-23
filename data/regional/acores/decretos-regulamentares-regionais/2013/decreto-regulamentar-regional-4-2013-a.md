@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2013/05/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2013-261118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1375fc3de6d3ffe78952fe6176d2b4d5014091b902d0b9d238eab2c8d6b4240d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63b1554dda94ecb358e85c7427012ce076d4d8dfaf9060619e60ed2d3faf485d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Administração Financeira da Região Autónoma dos Açores
+- Administração Regional
 - Aquisição de Bens e Serviços
-- Região Autónoma
 - Atribuição de Verba
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
 - Cativação de Verba
+- Cobrança de Dívidas
 - Cobrança de Impostos
-- Gestão Financeira
-- Governo Regional
+- Conselho do Governo Regional
+- Contabilidade Pública
 - Contenção de Despesas
 - Controlo Financeiro
 - Definição de Competências
 - Delegação de Competências
 - Despesas Públicas
-- Vice-presidência do Governo Regional
+- Direcção Regional do Orçamento e Tesouro
 - Dívida Pública
 - Dívidas ao Estado
 - Dotação Orçamental
@@ -89,30 +91,28 @@ subjects:
 - Empreitada de Obras Públicas
 - Empresa Pública Regional
 - Execução do Orçamento
-- Setor Empresarial do Estado
+- Finanças Regionais
 - Fundo de Maneio
 - Fundos Autónomos
-- Presidente do Governo Regional
+- Gestão Financeira
 - Gestão Orçamental
-- Conselho do Governo Regional
-- Subsecretário Regional
-- Tribunal de Contas
-- Finanças Regionais
+- Governo Regional
 - Locação Financeira
 - Obras Públicas
 - Orçamento Regional
 - Organismo Autónomo
-- Direcção Regional do Orçamento e Tesouro
 - Prazo
+- Presidente do Governo Regional
 - Prestação de Contas
-- Cobrança de Dívidas
+- Região Autónoma
 - Reposição de Verbas
 - Secretaria Regional
 - Secretário Regional
-- Administração Regional
-- Açores
-- Contabilidade Pública
+- Setor Empresarial do Estado
+- Subsecretário Regional
 - Subsídio
+- Tribunal de Contas
+- Vice-presidência do Governo Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
@@ -134,16 +134,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:260390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:08Z'
   warnings: []
   errors: []
 ---
@@ -346,10 +374,10 @@ O presente diploma produz efeitos desde 1 de janeiro de 2013.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 22 de abril de 2013.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 13 de maio de 2013.**
+Assinado em Angra do Heroísmo em 13 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

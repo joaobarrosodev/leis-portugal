@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12200/0002400041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2020/06/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2020-136600052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05b495173c7c899a1fc6b388a0ba8391e799c6da05f92b3760671092180da489
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e1fcb753ca5922c57558ef322c57fb911e26a2f04dd02b01588249514004974
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Financiamento
-- Empresa
-- Desenvolvimento Regional
-- Mudança Tecnológica
-- Regulamentação de Atos Legislativos
-- Competitividade Empresarial
-- Equipamento
+- Açores
 - Catástrofe
-- Projeto de Investimento
-- TIC
+- Competitividade Empresarial
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Doença Infecciosa
+- Empreendedorismo
+- Empresa
+- Epidemia
+- Equipamento
+- Financiamento
 - Investimento
+- Mudança Tecnológica
 - Pessoa Coletiva
 - Pessoa Singular
-- Doença Infecciosa
-- Epidemia
-- Desenvolvimento Económico
+- Projeto de Investimento
 - Qualificação Profissional
+- Regulamentação de Atos Legislativos
 - Regulamento CE
-- Açores
-- Subsídio não Reembolsável
 - Sistema de Incentivos para a Competitividade Empresarial
+- Subsídio não Reembolsável
 - SUBSISTEMA DE INCENTIVOS PARA A QUALIFICAÇÃO E INOVAÇÃO
+- TIC
 relationships:
 - type: cites
   target: celex:32013R1379
@@ -142,16 +142,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/2016/07/11/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/2016/07/11/a/dre
+- type: cites
+  target: pt:dre:114440373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114528125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117821874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56894783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66507582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74454667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74915210:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:32Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +226,9 @@ b) ...
 
 c) Investimento de inovação produtiva no âmbito da COVID-19.
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - Para além das condições gerais de acesso previstas no artigo 5.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, alterado pelos [Decretos Legislativos Regionais n.os 1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), de 8 de janeiro, [9/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), de 18 de maio, [1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), de 3 de janeiro, e [2/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2019-117821874), de 16 de janeiro, os projetos apresentados ao abrigo da alínea a) ou da alínea c), ou, quando em simultâneo, das alíneas a) e b) ou b) e c) do artigo 4.º devem apresentar viabilidade económico-financeira e ser instruídos com um estudo que demonstre aquela condição, indicando o responsável técnico pela sua elaboração.
 
@@ -194,7 +236,9 @@ c) Investimento de inovação produtiva no âmbito da COVID-19.
 
 3 - Os projetos a que se refere a alínea c) do artigo 4.º devem ter um prazo de execução máximo de seis meses a contar da data de assinatura do termo de aceitação.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Consideram-se elegíveis para os projetos previstos nas alíneas a) e c) do artigo 4.º as seguintes despesas:
 
@@ -244,7 +288,9 @@ q) (Revogada.)
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O incentivo a conceder aos projetos de investimento a que se referem as alíneas a) e b) do artigo 4.º reveste a forma de incentivo não reembolsável e é correspondente à aplicação de uma percentagem de 50 % sobre as despesas elegíveis.
 
@@ -254,7 +300,9 @@ q) (Revogada.)
 
 4 - O incentivo a conceder aos projetos de investimento a que se refere a alínea c) do artigo 4.º reveste a forma de incentivo não reembolsável e é correspondente à aplicação de uma percentagem de 75 % sobre as despesas elegíveis, sendo atribuído ao abrigo do [Regulamento (UE) n.º 1407/2013](https://data.europa.eu/eli/reg/2013/1407/oj?locale=pt), da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -320,11 +368,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 26 de maio de 2020.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 17 de junho de 2020.**
+Assinado em Angra do Heroísmo em 17 de junho de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -758,7 +806,7 @@ Inserção de melhorias tecnológicas;
 
 Promoção do aumento da produtividade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12200/0002400041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12200/0002400041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12200/0002400041.pdf)
 
 Para atribuição da pontuação ao subcritério A2, deve ser atendido o grau de inovação do projeto com base no grau de novidade e difusão do projeto e na amplitude da inovação e adequação ao mercado, com os seguintes níveis:
 
@@ -788,7 +836,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12200/0002400041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12200/0002400041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12200/0002400041.pdf)
 
 A atribuição da pontuação ao subcritério A3 é efetuada aferindo acerca do desenvolvimento do projeto em parceria com outras empresas ou com entidades do Sistema Científico e Tecnológico:
 
@@ -886,7 +934,7 @@ d) Fraco - 1 ou 2 pontos.
 
 E é atribuída de acordo com a seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/12200/0002400041.pdf))](https://files.diariodarepublica.pt/1s/2020/06/12200/0002400041.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/12200/0002400041.pdf)
 
 O critério C - contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do programa operacional (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -967,3 +1015,5 @@ A graduação do critério será 1, 3 e 5, de acordo com o indicado anteriorment
 No critério C são aferidos os efeitos do projeto na economia, tendo em conta que os projetos nesta medida estão circunscritos à produção de bens e serviços COVID-19, dada a sua relevância para o atual contexto económico e o seu impacto na economia nacional, a pontuação deste critério é sempre de 5.
 
 O critério D avalia o impacto do projeto para a competitividade regional, designadamente no grau de resposta à procura de produtos no âmbito da COVID-19. Tendo em conta que os projetos neste sistema de incentivos estão circunscritos à produção de bens e serviços COVID-19, dada a sua relevância para o atual contexto económico regional e o seu impacto, a pontuação deste critério é sempre de 5.
+
+113323311

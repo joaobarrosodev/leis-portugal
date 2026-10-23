@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1996/04/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1996-558586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5dfbfa58fc2650a71d7f292e5d7b14a89d5c5c1a5710f2e0a29b88355df9c74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 243529aca2285dc5c80dcb4677c6a70a839cd150c93cdcf091c3899ac47499fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Despesas Públicas
 - Orçamento Regional
 - Plano Regional
 - Receita Regional
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:517432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:406496:por
+  label: "Alterados os mapas I, II, III e IV, publicados em anexo ao presente diploma, pelo DLR.25/96/A.22.08.1996.ALR-RAA,\
+    \ DR.IS-A [194] de 22.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-1996-406496
+  date: '1996-08-22'
+- type: amended_by
+  target: pt:dre:175298:por
+  label: "Alterados os mapas I, II, III e IV (na redacção do DLR 25/96/A, de 22-Ago) publicados em anexo presente diploma,\
+    \ pelo DLR.27/96/A.29.10.1996.ALR-RAA, DR.IS-A [251] de 29.10.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-1996-175298
+  date: '1996-10-29'
+- type: amended_by
+  target: pt:dre:517432:por
+  label: "Alterados os mapas I, II, III, IV (na redacção dos DLR 25/96/A, de 22-Ago e 27/96/A, de 29-Out) e V publicados em\
+    \ anexo ao presente diploma, pelo DLR.1/97/A.15.03.1997.ALR-RAA, DR.IS-A [63] de 15.03.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-1997-517432
+  date: '1997-03-15'
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498732:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:46Z'
   warnings: []
   errors: []
 ---
@@ -177,14 +207,14 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro 
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 9 de Fevereiro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 11 de Março de 1996.**
+Assinado em Angra do Heroísmo em 11 de Março de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/04/082a00/07140723.pdf))](https://files.diariodarepublica.pt/1s/1996/04/082a00/07140723.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/04/082a00/07140723.pdf)

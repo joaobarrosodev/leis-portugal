@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1989-614637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26598fbeb69b184146b6da8a0b0ea167a37c396f887feb8705ee9e1c4dab2036
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06c1d4c00b7ccc2d501aa998ac7d0c6595f2d353d0e69cfb49c18ffc9f68b835
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Administração Local
+- Avaliação do Pessoal
+- Funcionário Público
+- Pessoal Autárquico
+relationships:
+- type: cites
+  target: pt:dre:356476:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:21Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +99,20 @@ Considerando a conveniência de promover a aplicação do regime de classificaç
 
 De acordo com o disposto no artigo 11.º do [Decreto Regulamentar n.º 45/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1988-356476), de 16 de Dezembro, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O regime de classificação de serviço estabelecido no [Decreto Regulamentar n.º 45/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1988-356476), de 16 de Dezembro, é aplicável ao pessoal autárquico da Região Autónoma dos Açores, com a adaptação constante do artigo seguinte.
+Artigo 1.º O regime de classificação de serviço estabelecido no [Decreto Regulamentar n.º 45/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1988-356476), de 16 de Dezembro, é aplicável ao pessoal autárquico da Região Autónoma dos Açores, com a adaptação constante do artigo seguinte.
 
-###### Art. 2.º - 1 - No decurso do corrente ano, o processo de classificação do serviço prestado em 1988 inicia-se no 30.º dia após a data da publicação do presente diploma, com o preenchimento das fichas de notação, observando-se, seguidamente, os intervalos temporais entre cada uma das fases do processo.
+Art. 2.º - 1 - No decurso do corrente ano, o processo de classificação do serviço prestado em 1988 inicia-se no 30.º dia após a data da publicação do presente diploma, com o preenchimento das fichas de notação, observando-se, seguidamente, os intervalos temporais entre cada uma das fases do processo.
 
 2 - Até ao dia referido no número anterior deverão ser cumpridas as formalidades exigidas, nomeadamente no que toca à constituição da comissão paritária.
 
-###### Art. 3.º O presente diploma entra em vigor na data da sua publicação.
+Art. 3.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 8 de Fevereiro de 1979.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 28 de Fevereiro de 1989.**
+Assinado em Angra do Heroísmo em 28 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

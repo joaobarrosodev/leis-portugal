@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/076a00/16391643.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/1991/04/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1991-621954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0425fdde0ea23c22d8719569b15a20cf1ae230b01261963df2c8f8fad3735538
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d69aa6d4f4c2c2b9f66584fa819da5fac52a9cb584afec6b8e22cf326e3f06b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Definição de Competências
-- Secretaria Regional do Equipamento Social
-- Laboratório Regional de Engenharia Civil
-- Orgânica
-- Madeira.região Autónoma
 - Administração Regional
+- Definição de Competências
+- Laboratório Regional de Engenharia Civil
+- Madeira.região Autónoma
+- Orgânica
+- Reestruturação de Serviços
+- Secretaria Regional do Equipamento Social
 relationships:
 - type: amended_by
   target: pt:dre:493200:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673637:por
+  label: "Alterados os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 13.º, 15.º, 16.º, aditados os artigos 6.ºA e 6.ºB no título II, subordinado\
+    \ o título V á epígrafe \"Disposições Finais\" e eliminados os artigos 19.º, 20.º e 21.º do DLR 9/91/M, de 27 de Fevereiro\
+    \ da ALR-RAM DR.IS-A [76] de 2 de Abril, pelo LR.19/2003/M.2003.07.02.ALR-RAM DR.IS-A [169] de 24/JUL/2003 e republica-o\
+    \ com as alterações introduzidas, necessárias correcções materiais e nova remuneração\0o\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2003-673637
+  date: '2003-07-02'
+- type: cites
+  target: pt:dre:262124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:493200:por
+  label: "Revogado, com as alterações introduzidas pelo DLR 19/2003/M de 24-Jul, pelo DLR.18/2009/M.30.07.2009.AL-RAM, DR.IS\
+    \ [146] de 30.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2009-493200
+  date: '2009-07-30'
 article_structure:
   article_count: 21
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:40Z'
   warnings: []
   errors: []
 ---
@@ -364,10 +390,10 @@ O presente diploma entra em vigor juntamente com o decreto regulamentar regional
 
 Aprovado em sessão plenária em 5 de Fevereiro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 27 de Fevereiro de 1991.**
+Assinado em 27 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

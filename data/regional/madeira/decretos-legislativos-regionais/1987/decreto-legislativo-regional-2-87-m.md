@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1987-663316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d92336030672e66e74f15451142e97fcc2912a39261568916879ab801b08c085
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a48d86b62b90a9c824eb94489900ea5de4cd4a307fa7c498d29db6fe243d7ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- AVAL do Estado
+- Governo Regional
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397488:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:11Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +107,20 @@ Nestes termos:
 
 A Assembleia Regional da Madeira, ao abrigo da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º O limite máximo anual dos avales referentes ao período compreendido entre 1983 e 1986, inclusive, é de 1500000 contos em cada ano.
+Artigo 1.º O limite máximo anual dos avales referentes ao período compreendido entre 1983 e 1986, inclusive, é de 1500000 contos em cada ano.
 
-###### Art. 2.º O limite máximo de avales a prestar pelo Governo Regional em 1987 é de 14,9 milhões de contos, sendo 4,4 milhões de contos para a Empresa de Electricidade, E. P., e 9 milhões para os municípios da Região, nos termos do Programa de Reequilíbrio Financeiro dos Municípios da Região.
+Art. 2.º O limite máximo de avales a prestar pelo Governo Regional em 1987 é de 14,9 milhões de contos, sendo 4,4 milhões de contos para a Empresa de Electricidade, E. P., e 9 milhões para os municípios da Região, nos termos do Programa de Reequilíbrio Financeiro dos Municípios da Região.
 
-###### Art. 3.º Nos montantes referidos nos artigos anteriores não estão consideradas as revalidações dos avales prestados.
+Art. 3.º Nos montantes referidos nos artigos anteriores não estão consideradas as revalidações dos avales prestados.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária em 16 de Janeiro de 1987.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 19 de Janeiro de 1987.**
+Assinado em 19 de Janeiro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

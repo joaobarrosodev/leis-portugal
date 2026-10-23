@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/31-1980-461864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf31df907ac6dd96107067e8d1db7f14eb915173d7ff9b40b0e1ce5b7be257fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 229f651969a194126af98f9919b2a20c40cc0c9bc8984fdc9179bb2b285535d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Alcoolismo
+- Veículo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:13Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +100,11 @@ O Código da Estrada contempla já a punição do condutor embriagado, mas o mé
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É proibida a condução de veículos automóveis, de velocípedes com ou sem motor e de veículos de tracção animal, bem como de animais, por indivíduos em estado de embriaguez.
+Artigo 1.º - 1 - É proibida a condução de veículos automóveis, de velocípedes com ou sem motor e de veículos de tracção animal, bem como de animais, por indivíduos em estado de embriaguez.
 
 2 - Entende-se que o estado de embriaguez foi atingido sempre que o teor de álcool no sangue (alcoolemia) seja igual ou superior a 0,8 g/l ou seja certificado por exame médico.
 
-###### Art. 2.º - 1 - Aos condutores que se encontrem nas condições previstas no artigo anterior serão aplicadas, além das penalidades previstas no Código da Estrada e seu Regulamento e no Código Penal, as seguintes sanções:
+Art. 2.º - 1 - Aos condutores que se encontrem nas condições previstas no artigo anterior serão aplicadas, além das penalidades previstas no Código da Estrada e seu Regulamento e no Código Penal, as seguintes sanções:
 
 a) Multa de 5000$00, que passará para o triplo em segunda ou sucessivas reincidências, quando o grau de alcoolemia se situe entre 0,8 g/l e 1,5 g/l de sangue;
 
@@ -111,20 +114,20 @@ c) Multa de 15000$00, que passará para o dobro no caso de primeira reincidênci
 
 2 - Os condutores de velocípedes sem motor e de veículos de tracção animal, bem como de animais, pagarão o correspondente a metade do montante das multas estabelecidas nas alíneas a), b) e c) do n.º 1 deste artigo.
 
-###### Art. 3.º Para efeitos de detecção dos condutores nas condições do artigo 1.º, a fiscalização poderá utilizar todos os meios que para o efeito forem aprovados por portaria da Secretaria Regional dos Transportes e Turismo.
+Art. 3.º Para efeitos de detecção dos condutores nas condições do artigo 1.º, a fiscalização poderá utilizar todos os meios que para o efeito forem aprovados por portaria da Secretaria Regional dos Transportes e Turismo.
 
-###### Art. 4.º - 1 - Será também considerado em estado de embriaguez todo o condutor de veículos ou animais que se recuse a qualquer exame estabelecido para a determinação daquele estado.
+Art. 4.º - 1 - Será também considerado em estado de embriaguez todo o condutor de veículos ou animais que se recuse a qualquer exame estabelecido para a determinação daquele estado.
 
 2 - A penalidade a aplicar será a referida na alínea c) do n.º 1 do artigo 2.º deste diploma, acrescida da interdição de conduzir definida, por sua vez, na alínea c) do n.º 2 do artigo 61.º do Código da Estrada.
 
-###### Art. 5.º As Secretarias Regionais dos Transportes e Turismo, dos Assuntos Sociais e da Administração Pública emitirão as instruções necessárias ao modo de actuação das autoridades intervenientes, no campo de acção definido pela aplicação do presente diploma.
+Art. 5.º As Secretarias Regionais dos Transportes e Turismo, dos Assuntos Sociais e da Administração Pública emitirão as instruções necessárias ao modo de actuação das autoridades intervenientes, no campo de acção definido pela aplicação do presente diploma.
 
 Aprovado pela Assembleia Regional dos Açores em 30 de Julho de 1980.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em 9 de Setembro de 1980.**
+Assinado em 9 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

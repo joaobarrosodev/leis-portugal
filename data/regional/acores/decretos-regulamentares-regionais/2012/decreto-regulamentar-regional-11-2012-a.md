@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2012/05/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2012-553042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c7111bc0853d1d7b1ecc507b39c2d7b99779db46853cc39991fcb433c89a129
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8decea7591238b198459179e635aaee5cdc57b7a0dd2096732f5a39735dd7e76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Apoio ao Investimento
-- Projeto de Investimento
-- Desenvolvimento Económico
-- Sider
 - Açores
+- Apoio ao Investimento
+- Desenvolvimento Económico
+- Financiamento
 - Infraestrutura Turística
+- Projeto de Investimento
+- Sider
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:25345896:por
@@ -103,16 +103,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/26/1991/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/26/1991/08/23/p/dre
+- type: cites
+  target: pt:dre:146559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25345896:por
+  label: Revogado, a partir de 01.07.2014, e sem prejuízo do disposto no art. 25º, o DLR 21/2007/A, de 24-out, na redação
+    do presente diploma, pelo(a) Decreto Legislativo Regional n.º 12/2014/A - Diário da República n.º 130/2014, Série I de
+    2014-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2014-25345896
+  date: '2014-07-09'
 article_structure:
-  article_count: 21
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:57Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +198,9 @@ l) Turismo de habitação.
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para além das condições gerais de acesso previstas no artigo 3.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, os promotores dos projetos a que se refere a alínea a) do artigo 24.º daquele diploma devem ter concluído o investimento relativo ao projeto anteriormente aprovado, considerando-se como data de conclusão do projeto a data da fatura correspondente à última despesa associada ao projeto.
 
@@ -175,7 +208,9 @@ l) Turismo de habitação.
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Para além das condições gerais de acesso previstas no artigo 4.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, os projetos devem demonstrar viabilidade económica e financeira, no caso dos projetos a que se refere a alínea a) do artigo 24.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho.
 
@@ -185,7 +220,9 @@ l) Turismo de habitação.
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Constituem despesas elegíveis, no âmbito dos projetos a que se refere a alínea a) do artigo 24.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, as seguintes:
 
@@ -269,7 +306,9 @@ c) (Revogada.)
 
 9 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -285,7 +324,9 @@ e) ...
 
 2 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -321,7 +362,9 @@ n) ...
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Compete à direção regional com competência em matéria de apoio ao investimento emitir parecer no prazo de 15 dias úteis sobre os investimentos na área da qualidade e gestão ambiental, a que se refere a subalínea c4) da alínea c) do n.º 1 do artigo 5.º
 
@@ -333,7 +376,9 @@ n) ...
 
 5 - ...
 
-## ANEXO I — Situação financeira, cobertura do projeto por capitais próprios e valor residual
+ANEXO I
+
+Situação financeira, cobertura do projeto por capitais próprios e valor residual
 
 1 - ...
 
@@ -363,7 +408,9 @@ c) Prazo de afetação do projeto de 12 anos:
 
 Cash-flow do projeto ao 12.º ano/Taxa de atualização
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1.º
 
@@ -477,11 +524,11 @@ O presente diploma produz efeitos à data da entrada em vigor do [Decreto Legisl
 
 Aprovado em Conselho do Governo Regional, na Horta, em 26 de novembro 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Janeiro de 2012.**
+Assinado em Angra do Heroísmo em 13 de Janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -803,7 +850,7 @@ a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos lí
 
 Percentagem dos meios libertos líquidos sobre vendas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf)
 
 em que:
 
@@ -815,7 +862,7 @@ b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo ind
 
 Percentagem do capital próprio sobre o ativo total líquido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere a alínea d) do n.º 1 do artigo 3.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, o balanço e a demonstração de resultados intercalares reportados a data posterior mas anterior à data de apresentação da candidatura, desde que legalmente certificados por um técnico oficial de contas ou revisor oficial de contas;
 
@@ -825,7 +872,7 @@ d) No encerramento do exercício a que se reportam as contas intercalares, os in
 
 VAB sobre o número de postos de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf)
 
 em que:
 
@@ -839,13 +886,13 @@ O ano cruzeiro não pode ultrapassar três anos completos após a data de conclu
 
 Percentagem novos capitais próprios sobre o investimento elegível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf)
 
 5 - A pontuação do critério D - contributo do projeto para a competitividade da empresa, é determinada pelo indicador investimento em fatores dinâmicos de competitividade/investimento elegível, nos seguintes termos:
 
 Percentagem do investimento em fatores dinâmicos de competitividade sobre o investimento elegível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf))](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/05/08700/0236102369.pdf)
 
 em que:
 

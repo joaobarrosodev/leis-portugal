@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/184a00/38963901.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/2000/08/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2000-339848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d17fd6eca95c8482f930ecd683152f1a843ee78e2ea6e9941e94f2dadf95366
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d35c4028c20df4ea6ad84c2fd86db79f47274dadfdc86a17196cce82cbf306f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajuda Comunitária
-- Turismo
-- Desenvolvimento Regional
-- Fiscalização
 - Apoio ao Investimento
-- Projeto de Investimento
-- Incentivos ao Desenvolvimento
-- Indústria
+- Comércio
 - Criação de Emprego
 - Desenvolvimento Económico
+- Desenvolvimento Regional
+- Fiscalização
+- Incentivos ao Desenvolvimento
+- Indústria
+- Projeto de Investimento
 - QCA III
 - Sidel
 - Sidep
 - Sider
-- Açores
 - Sidet
-- Comércio
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:636761:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:233746:por
+  label: "Alterados os arts. 2º, 3º, 4º, 9º e 19º e substituída a expressão \"Secretaria Regional da Economia\", constante\
+    \ da al. a) do nº 1 do art. 11º, do nº 1 do art. 12º, dos nºs 1 e 2 do art. 13º e do nº 1 do art. 16º pela expressão \"\
+    departamento do Governo Regional com competência em matéria de economia\", bem como substituída a expressão \"Secretário\
+    \ Regional da Economia\", constante do art. 15º, do nº 2 do art. 16º, do nº 4 do art. 17º, do nº 1 do art. 18º e do nº\
+    \ 3 do art. 19º, pela expressão \"membro do Governo Regional com competência em matéria de economia\", todos deste diploma,\
+    \ pelo DLR.13/2005/A.06.06.2005.AL-RAA, DR.IS-A [125] de 01.07.2005, que procede à sua republicação com todas as alterações.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2005-233746
+  date: '2005-06-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70-b/2000/05/05/p/dre
   label: null
@@ -123,16 +134,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/7/1999/05/12/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/7/1999/05/12/a/dre
+- type: cites
+  target: pt:dre:157641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321946:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661752:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636761:por
+  label: "Revogado a partir de 24.07.2007 pelo DLR.19/2007/A.23.07.2007.AL-RAA, DR.IS [140] de 23.07.2007, sem prejuízo do\
+    \ disposto no nº 1 do art. 38º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2007-636761
+  date: '2007-07-23'
+- type: repeals
+  target: pt:dre:310429:por
+  label: "Revoga, sem prejuízo do disposto nos nºs 1 e 4 do art. 22º do presente diploma, o DLR 11/83/A de 19-Mar DR.IS [65]\0\
+    \0"
+  source: null
+  date: '1983-03-19'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:20Z'
   warnings: []
   errors: []
 ---
@@ -447,10 +518,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 8 de Junho de 2000.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 10 de Julho de 2000.**
+Assinado em Angra do Heroísmo em 10 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

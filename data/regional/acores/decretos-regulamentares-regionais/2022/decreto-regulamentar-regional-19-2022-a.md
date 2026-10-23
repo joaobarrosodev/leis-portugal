@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19100/0000400009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2022/10/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2022-201755756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8448f05ed8b2b30b1f9aceba80ac83f639548c6a90de118d2da138831625a18b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 614f53c9a23f8813c31c2321a2107f46021c0c61cf9a59987b7e420019771656
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Comissão Consultiva
-- Governo Regional
 - Conselho Regional da Agricultura Florestas e Desenvolvimento Rural
 - Definição de Competências
+- Governo Regional
 - Grupo de Trabalho
 - Orgânica
+- Pessoal Dirigente
 - Presidente
 - Secretário Geral
-- Açores
 - Vogal
 relationships:
 - type: cites
@@ -102,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/2017/07/19/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/2017/07/19/a/dre
+- type: cites
+  target: pt:dre:107709513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166429419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166981190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170654201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56152688:por
+  label: null
+  source: null
 article_structure:
   article_count: 15
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:48Z'
   warnings: []
   errors: []
 ---
@@ -346,10 +370,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de setembro de 2022.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 22 de setembro de 2022.**
+Assinado em Angra do Heroísmo em 22 de setembro de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+115714579

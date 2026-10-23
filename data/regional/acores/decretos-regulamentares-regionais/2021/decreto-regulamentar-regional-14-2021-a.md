@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/12800/0004600065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2021/07/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2021-166429420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26a84b2d774aa98d25adcc3ed0de5e7313cc26f07f11759179130e85aee2c5cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da27a432b17cea8178504994c054b92fdba6d99363b0d0d0a57462a51ee387fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Concurso
 - Conselho Coordenador do Sistema Educativo
 - Conselho Regional do Desporto Escolar
@@ -73,18 +74,24 @@ subjects:
 - Direcção Regional de Administração Educativa
 - Inspecção Regional de Educação
 - Integração de Trabalhadores
-- Secretaria Regional da Educação
 - Orgânica
 - Quadro de Pessoal
-- Açores
+- Secretaria Regional da Educação
+- Secretário Regional da Educação
 - Transferência de Competências
 - Transferência Patrimonial
-- Secretário Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:210518832:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182727778:por
+  label: Determinada a transição para a dependência da Secretaria Regional da Educação e dos Assuntos Culturais dos fundos
+    escolares, anteriormente na dependência da Secretaria Regional da Educação, cujas atribuições e competências constam no
+    presente diploma, pelo(a) Decreto Regulamentar Regional n.º 6/2022/A - Diário da República n.º 83/2022, Série I de 2022-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2022-182727778
+  date: '2022-04-29'
 - type: cites
   target: eli:http://data.dre
   label: null
@@ -125,16 +132,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/8/2013/07/17/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/8/2013/07/17/a/dre
+- type: cites
+  target: pt:dre:150757510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670009:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:210518832:por
+  label: Revogado, a partir de 22.03.2023, o presente diploma, pelo(a) Decreto Regulamentar Regional n.º 7/2023/A - Diário
+    da República n.º 57/2023, Série I de 2023-03-21, nos termos da al. a) do seu art. 6.º .
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2023-210518832
+  date: '2023-03-21'
 article_structure:
   article_count: 39
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:42Z'
   warnings: []
   errors: []
 ---
@@ -185,11 +242,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de abril de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 25 de junho de 2021.**
+Assinado em Angra do Heroísmo em 25 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -333,7 +390,9 @@ b) Divisão de Aprovisionamento, Infraestruturas e Pessoal.
 
 4 - A DSTF é dirigida por um diretor de serviços, cargo de direção intermédia do 1.º grau, que funciona na direta dependência do secretário regional.
 
-###### Artigo 8.º — Divisão de Contabilidade e Estatística
+###### Artigo 8.º
+
+##### Divisão de Contabilidade e Estatística
 
 1 - A Divisão de Contabilidade e Estatística, doravante designada por DCE, é um serviço de estudo, planeamento, organização e execução, que tem por missão apoiar os órgãos e serviços da SRE nos domínios da gestão dos recursos contabilísticos e estatísticos e, ainda, nesse âmbito, assegurar a execução dos serviços de caráter administrativo.
 
@@ -383,7 +442,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 5 - A SAA é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 9.º — Divisão de Aprovisionamento, Infraestruturas e Pessoal
+###### Artigo 9.º
+
+##### Divisão de Aprovisionamento, Infraestruturas e Pessoal
 
 1 - A Divisão de Aprovisionamento, Infraestruturas e Pessoal, doravante designada por DAIP, é um serviço que visa proceder ao estudo, planeamento, organização e execução de medidas e ações, no âmbito do apoio aos órgãos e serviços da SRE nos domínios do aprovisionamento e da gestão de pessoal, bem como em matéria de procedimentos contratuais, assegurando a execução dos serviços de caráter administrativo.
 
@@ -561,7 +622,9 @@ a) Divisão da Educação Pré-Escolar, Básica e Inclusiva e do Desporto Escola
 
 b) Divisão dos Ensinos Secundário, Artístico e Profissional.
 
-###### Artigo 15.º — Divisão da Educação Pré-Escolar, Básica e Inclusiva e do Desporto Escolar
+###### Artigo 15.º
+
+##### Divisão da Educação Pré-Escolar, Básica e Inclusiva e do Desporto Escolar
 
 1 - À Divisão da Educação Pré-Escolar, Básica e Inclusiva e do Desporto Escolar, doravante designada por DEPEBIDE, compete:
 
@@ -611,7 +674,9 @@ v) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DEPEBIDE é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 16.º — Divisão dos Ensinos Secundário, Artístico e Profissional
+###### Artigo 16.º
+
+##### Divisão dos Ensinos Secundário, Artístico e Profissional
 
 1 - À Divisão dos Ensinos Secundário, Artístico e Profissional, doravante designada por DESAP, compete:
 
@@ -699,7 +764,9 @@ c) Divisão de Gestão Financeira e Equipamentos.
 
 3 - Na dependência da DRAE funcionam as juntas médicas, a que refere o artigo 23.º seguinte.
 
-###### Artigo 20.º — Divisão de Gestão do Pessoal Docente
+###### Artigo 20.º
+
+##### Divisão de Gestão do Pessoal Docente
 
 1 - À Divisão de Gestão do Pessoal Docente, doravante designada por DGPD, compete:
 
@@ -729,7 +796,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGPD é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 21.º — Divisão de Gestão do Pessoal não Docente
+###### Artigo 21.º
+
+##### Divisão de Gestão do Pessoal não Docente
 
 1 - À Divisão de Gestão do Pessoal não Docente, doravante designada por DGPND, compete:
 
@@ -757,7 +826,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGPND é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 22.º — Divisão de Gestão Financeira e Equipamentos
+###### Artigo 22.º
+
+##### Divisão de Gestão Financeira e Equipamentos
 
 1 - À Divisão de Gestão Financeira e Equipamentos, doravante designada por DGFE, compete:
 
@@ -977,4 +1048,6 @@ Ao pessoal da carreira de monitor de formação profissional é aplicável o dis
 
 Quadro de pessoal dirigente e de chefia da Secretaria Regional da Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/12800/0004600065.pdf))](https://files.diariodarepublica.pt/1s/2021/07/12800/0004600065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/12800/0004600065.pdf)
+
+114354361

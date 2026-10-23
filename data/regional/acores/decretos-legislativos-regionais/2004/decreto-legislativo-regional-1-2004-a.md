@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2004/01/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2004-607171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bc64de970d5d03e80f87b8a0fbda2ac7de64527584121e5d4569d6b1da2f2ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39d11d68fe6ebb19dbe54af77aa4766325ab04b0b2237b9d4b64207ef2bc46e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Comissão Directiva
-- Definição de Competências
-- Gabinete Técnico da Paisagem Protegida de Interesse Regional da Cultura da Vinha da Ilha do Pico
-- Conselho Consultivo
-- Ilha do Pico
-- Proteção do Ambiente
-- Zona de Proteção
 - Açores
 - Autarquia Local
+- Comissão Directiva
+- Conselho Consultivo
+- Definição de Competências
+- Gabinete Técnico da Paisagem Protegida de Interesse Regional da Cultura da Vinha da Ilha do Pico
+- Ilha do Pico
+- Ordenamento do Território
+- Proteção do Ambiente
 - Vinha
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:456524:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:594310:por
+  label: "Alterados os arts. 1º e 12º pelo DLR.24/2005/A.03.10.2005.AL-RAA, DR.IS-A [203] de 21.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2005-594310
+  date: '2005-10-03'
+- type: amended_by
+  target: pt:dre:456524:por
+  label: "Reclassificada e integrada, no Parque Natural da Ilha do Pico, a Paisagem Protegida de Interesse Regional da Cultura\
+    \ da Vinha da Ilha do Pico, criada pelo DLR 12/96/A, de 27-Jun, revogado pelo presente diploma, pelo DLR.20/2008/A.09.07.2008.AL-RAA,\
+    \ DR.IS [131] de 09.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2008-456524
+  date: '2008-07-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
@@ -93,16 +105,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/21/1993/12/23/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/21/1993/12/23/a/dre
+- type: cites
+  target: pt:dre:426772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456524:por
+  label: "Revogado o presente diploma, alterado pelo DLR 24/2005/A, de 21-Out, a partir da entrada em vigor do plano de ordenamento\
+    \ de área protegida referido nos artigos 41.º e 42.º, pelo DLR.20/2008/A.09.07.2008.AL-RAA, DR.IS [131] de 09.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2008-456524
+  date: '2008-07-09'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:58Z'
   warnings: []
   errors: []
 ---
@@ -253,13 +284,13 @@ O presente diploma revoga o [Decreto Legislativo Regional n.º 12/96/A](https://
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 12 de Dezembro de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 5 de Janeiro de 2004.**
+Assinado em Angra do Heroísmo em 5 de Janeiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — Concelho de São Roque do Pico
 
@@ -309,6 +340,6 @@ Concelho das Lajes do Pico
 
 Início na faixa costeira no ponto situado a sul do Caminho do Engrade equidistante 100 m em relação ao seu eixo; inflecte para norte uma linha paralela àquele caminho, equidistante 100 m do seu eixo até interceptar um ponto localizado a leste do caminho de acesso à ponta do Castelete equidistante 100 m em relação ao seu eixo. Inflecte para norte uma linha paralela àquele caminho equidistante 100 m do seu eixo até à linha de costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2004/01/017a00/03800383.pdf))](https://files.diariodarepublica.pt/1s/2004/01/017a00/03800383.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03800383.pdf)
 
 ## ANEXO II — [(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2004/01/017a00/03800383.pdf)

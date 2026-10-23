@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/299a00/46764677.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/30/1996/12/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-1996-145797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5593efbb2b20ad49354c88f596ad1c271740f3aba637e637a0d9b6d3e15a4165
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1da4e756b023d31de2bff9eeb044c0f6d1a764c7c39006909ca2cd6623a4e54b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Regional
 - Grupo Parlamentar
 - Orgânica
 - Partido Político
 - Quadro de Pessoal
 - Remuneração
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:408373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517583:por
+  label: "Alterado o art 1º, que alterou o art 13º e o quadro II anexo ao DLR 9/86/A de 20-Mar pelo DLR.4/97/A.1997.02.20.\
+    \ ALR-RAA, DR.IS-A [65] de 1997.03.18\03.18\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-1997-517583
+  date: '1997-02-20'
+- type: amended_by
+  target: pt:dre:167054:por
+  label: "Alterado o art. 13º e o quadro II anexo ao DLR 9/86/A de 20-Mar DR.IS [66], com a redacção dada pelo presente diploma,\
+    \ pelo DLR.7/98/A.1998.03.10.ALR-RAA DR.IS-A [86] de 13/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1998-167054
+  date: '1998-03-10'
+- type: cites
+  target: pt:dre:196883:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:408373:por
+  label: "Revogado pelo DLR.5/2000/A.2000.02.15.ALR-RAA DR.IS-A [52] de 02/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2000-408373
+  date: '2000-02-15'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:45Z'
   warnings: []
   errors: []
 ---
@@ -128,16 +149,16 @@ As alterações introduzidas pelo artigo 1.º entram em vigor na data da sua pub
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 20 de Novembro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
 
-**Assinado em Angra do Heroísmo em 4 de Dezembro de 1996.**
+Assinado em Angra do Heroísmo em 4 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 II
 
 Quadro de pessoal a que se referem os artigos 3.º e 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/299a00/46764677.pdf))](https://files.diariodarepublica.pt/1s/1996/12/299a00/46764677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/299a00/46764677.pdf)

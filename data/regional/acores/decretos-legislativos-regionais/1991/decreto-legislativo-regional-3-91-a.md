@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/020a00/04230424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/1991/01/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1991-507809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9866674d76172ed27e095140319e484ad3af6001449f0e0509cb7b15a47f2fab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e7498c17bf3ce7e52a5fd0811aae33eafdd383a756c6e96c71497ef514372b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
+- Açores
 - Contrato Individual de Trabalho
 - Despedimento
+- Empresa
+- Financiamento
 - Fiscalização
 - Horário de Trabalho
-- Açores
 - Situação Económica Dificil
 - Suspensão do Contrato de Trabalho
 relationships:
@@ -79,16 +79,29 @@ relationships:
   target: pt:dre:353535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:443683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621303:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:353535:por
+  label: "Revogado pelo DLR.19/2006/A.19.05.2006.AL-RAA, DR.IS-A [107] de 02.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2006-353535
+  date: '2006-05-19'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:05Z'
   warnings: []
   errors: []
 ---
@@ -107,9 +120,9 @@ Assim:
 
 A Assembleia Legislativa Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Na aplicação à Região Autónoma dos Açores do regime jurídico estabelecido pelo [Decreto-Lei n.º 398/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1983-443683), de 2 de Novembro, com a redacção introduzida pelo [Decreto-Lei n.º 64-B/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-b-1989-621303), de 27 de Fevereiro, ter-se-á em conta o disposto no artigo seguinte.
+Artigo 1.º Na aplicação à Região Autónoma dos Açores do regime jurídico estabelecido pelo [Decreto-Lei n.º 398/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1983-443683), de 2 de Novembro, com a redacção introduzida pelo [Decreto-Lei n.º 64-B/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-b-1989-621303), de 27 de Fevereiro, ter-se-á em conta o disposto no artigo seguinte.
 
-###### Art. 2.º O artigo 7.º, n.º 1, alínea c), e o n.º 3, o artigo 13.º, o artigo 15.º, n.º 4, o artigo 17.º, n.º 1, o artigo 20.º e o artigo 21.º, n.º 1, do [Decreto-Lei n.º 398/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1983-443683), de 2 de Novembro, com a redacção introduzida pelo [Decreto-Lei n.º 64-B/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-b-1989-621303), de 27 de Fevereiro, passam a conter as seguintes adaptações de carácter orgânico:
+Art. 2.º O artigo 7.º, n.º 1, alínea c), e o n.º 3, o artigo 13.º, o artigo 15.º, n.º 4, o artigo 17.º, n.º 1, o artigo 20.º e o artigo 21.º, n.º 1, do [Decreto-Lei n.º 398/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1983-443683), de 2 de Novembro, com a redacção introduzida pelo [Decreto-Lei n.º 64-B/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-b-1989-621303), de 27 de Fevereiro, passam a conter as seguintes adaptações de carácter orgânico:
 
 ###### Artigo 7.º — Obrigações dos trabalhadores
 
@@ -173,10 +186,10 @@ O Gabinete de Gestão Financeira do Emprego inscreverá no seu orçamento, em ca
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 5 de Dezembro de 1990.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional dos Açores, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 2 de Janeiro de 1991.**
+Assinado em Angra do Heroísmo em 2 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

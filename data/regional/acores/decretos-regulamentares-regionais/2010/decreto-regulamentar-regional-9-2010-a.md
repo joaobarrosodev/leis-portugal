@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2010/06/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2010-335417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff955666e8bfeaa527f2f6882e67de19fa35c5f4682f864c6dc38f46285fb030
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e1d48993805b9be656e1bca42fb25709160fb9555cf52decbe3bc4ccdf93fe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Apoio ao Investimento
-- Projeto de Investimento
-- Desenvolvimento Económico
-- Sider
 - Açores
+- Apoio ao Investimento
+- Desenvolvimento Económico
+- Financiamento
 - Infraestrutura Turística
+- Projeto de Investimento
+- Sider
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:25345896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553042:por
+  label: "Alterados os arts. 2.º, 4º, 5º e os Anexos I e II do DRR 21/2007/A, de 24-Out, na redação do presente diploma, pelo\
+    \ DRR.11/2012/A.04.05.2012.PG-RAA, DR.IS [87] de 04.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2012-553042
+  date: '2012-05-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/21/2007/10/24/a/dre
   label: null
@@ -87,16 +93,29 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: repealed_by
+  target: pt:dre:553042:por
+  label: "Revogados a al. k) do n.º 1 do art. 2.º, as als. a) a c) do n.º 1 do art. 4.º, a al. c) do n.º 8 do art. 5.º e o\
+    \ n.º 2 do Anexo II do presente diploma, pelo DRR.11/2012/A.04.05.2012.PG-RAA, DR.IS [87] de 04.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2012-553042
+  date: '2012-05-04'
+- type: repealed_by
+  target: pt:dre:25345896:por
+  label: Revogado, a partir de 01.07.2014, e sem prejuízo do disposto no art. 25º, o DLR 21/2007/A, de 24-out, na redação
+    do presente diploma, pelo(a) Decreto Legislativo Regional n.º 12/2014/A - Diário da República n.º 130/2014, Série I de
+    2014-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2014-25345896
+  date: '2014-07-09'
 article_structure:
-  article_count: 17
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:51Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +172,9 @@ l) ...
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -169,7 +190,9 @@ c) ...
 
 4 - (Anterior n.º 2.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -217,7 +240,9 @@ n) Despesas com garantias bancárias exigidas ao promotor.
 
 9 - ...
 
-###### Artigo 9.º — Comissão de selecção
+Artigo 9.º
+
+Comissão de selecção
 
 1 - ...
 
@@ -229,7 +254,9 @@ n) Despesas com garantias bancárias exigidas ao promotor.
 
 5 - ...
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - Para efeitos do disposto no n.º 3 do artigo 3.º do presente regulamento, considera-se que os promotores possuem uma situação financeira equilibrada quando apresentam um indicador de autonomia financeira igual ou superior a 15 %, não se aplicando esta condição aos promotores que não tenham contabilidade organizada à data de apresentação da candidatura.
 
@@ -245,7 +272,9 @@ b) ...
 
 5 - ...
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1.º
 
@@ -261,7 +290,7 @@ b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo ind
 
 Percentagem do capital próprio sobre o activo total líquido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
 
 c) ...
 
@@ -273,7 +302,7 @@ d) ...
 
 Percentagem novos capitais próprios sobre o investimento elegível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
 
 5 - ...
 
@@ -293,7 +322,7 @@ b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo ind
 
 Percentagem do capital próprio sobre o activo total líquido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
 
 c) ...
 
@@ -327,11 +356,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 5 de Abril de 2010.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 2 de Junho de 2010.**
+Assinado em Angra do Heroísmo em 2 de Junho de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -659,7 +688,7 @@ a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos lí
 
 Percentagem dos meios libertos líquidos sobre vendas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
 
 em que:
 
@@ -671,7 +700,7 @@ b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo ind
 
 Percentagem do capital próprio sobre o activo total líquido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere a alínea d) do n.º 1 do artigo 3.º do Decreto Legislativo Regional n.º 19/2007/A, de 23 de Julho, o balanço e a demonstração de resultados intercalares reportados a data posterior, mas anterior à data de apresentação da candidatura, desde que legalmente certificados por um técnico oficial de contas ou revisor oficial de contas.
 
@@ -681,7 +710,7 @@ d) No encerramento do exercício a que se reportam as contas intercalares, os in
 
 VAB sobre o número de postos de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
 
 em que:
 
@@ -695,13 +724,13 @@ O ano cruzeiro não pode ultrapassar três anos completos após a data de conclu
 
 Percentagem novos capitais próprios sobre o investimento elegível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
 
 5 - A pontuação do critério D - contributo do projecto para a competitividade da empresa é determinada pelo indicador investimento em factores dinâmicos de competitividade/investimento elegível, nos seguintes termos:
 
 Percentagem do investimento em factores dinâmicos de competitividade sobre o investimento elegível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
 
 em que:
 
@@ -749,7 +778,7 @@ a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos lí
 
 Percentagem dos meios libertos líquidos sobre vendas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
 
 em que:
 
@@ -761,7 +790,7 @@ b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo ind
 
 Percentagem do capital próprio sobre o activo total líquido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/06/11300/0201302022.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere a alínea d) do n.º 1 do artigo 3.º do Decreto Legislativo Regional n.º 19/2007/A, de 23 de Julho, o balanço e a demonstração de resultados intercalares reportados a data posterior, mas anterior à data de apresentação da candidatura, desde que legalmente certificados por um técnico oficial de contas ou revisor oficial de contas.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/02100/0063900642.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/126/2009/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/126-2009-601740
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00395e8f561e709b741a3d41ef74a34f5f49f873377ce4747a206e30422769e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 748574bf94d6ff3d51b374ba89168a6706f6bb44582a97837b223fe0e0d99048
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,42 +65,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Definição de Competências
+- Desemprego
 - Despedimento
+- Duração do Trabalho
+- Emprego
 - Fiscalização
+- Formação Profissional
 - Habilitações Literárias
 - Incentivo Profissional
 - Iniciativa Novas Oportunidades
-- Desemprego
-- Programa Emprego
-- Qualificação Profissional
-- Emprego
+- Instituto do Emprego e Formação Profissional
 - Programa de Emprego
+- Programa Emprego
 - Programa Qualificação-emprego
+- Qualificação Profissional
 - Redução do Período Normal de Trabalho
-- Duração do Trabalho
 - Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:611294:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622374:por
+  label: "Alterados os arts. 2º, 3º e 7º pela PORT.331-D/2009.30.03.2009.MTSSO, DR.IS [62-Supl] de 30.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-d-2009-622374
+  date: '2009-03-30'
+- type: amended_by
+  target: pt:dre:492249:por
+  label: "Alterados o art. 7º (com a redacção conferida pela Port 331-D/2009 de 30-Mar) e o art. 15º [a nova redacção do nº\
+    \ 2 determina a validade do Programa até 31.12.2010] pela PORT.765/2009.16.07.2009.MTSSO, DR.IS [136] de 16.07.2009\0\
+    9\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/765-2009-492249
+  date: '2009-07-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:325295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611294:por
+  label: "Revogado o presente diploma, com as alterações introduzidas pela Port 331-D/2009, de 30-Mar e pela Port 765/2009,\
+    \ de 16-Jul, sem prejuízo do disposto no n.º 2 do art. 24.º, pela PORT.126/2010.01.03.2010.MTSSO, DR.IS [41] de 01.03.2010\
+    \ (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/126-2010-611294
+  date: '2010-03-01'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:16Z'
   warnings: []
   errors: []
 ---
@@ -301,4 +328,4 @@ Todos os aspectos necessários ao funcionamento do Programa constarão de regula
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 26 de Janeiro de 2009.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 26 de Janeiro de 2009.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/25/1992/08/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1992-260590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d00fbfb215fc0644847aef6b838fc24cc1f12d2ba69a3b8b364d60cfe6950b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c5205f61ba7d7ca5890eac2bc7be4946119d0a155789406bb5463558a5f6570
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água
-- Contra-ordenação
 - Aproveitamento Hidroagrícola
+- Contra-ordenação
 - Madeira.região Autónoma
 - Taxa
 relationships:
@@ -76,6 +76,15 @@ relationships:
   target: pt:dre:604823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604823:por
+  label: "Mantidas em vigor as normas do presente diploma pelo DLR.4/2009/M.10.03.2009.AL-RAM, DR.IS [48] de 10.03.2009, em\
+    \ tudo quanto não contrarie o disposto naquele diploma, incluindo os seus anexos; e remetidas para a concessionária do\
+    \ sistema (IGH - Investimentos e Gestão Hidroagrícola, S.A.) as referências feitas neste diploma à Direcção dos Serviços\
+    \ Hidroagrícolas, com excepção da competência para o processamento das contra-ordenações, a qual é cometida à Direcção\
+    \ Regional da Agricultura e Desenvolvimento Rural.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-2009-604823
+  date: '2009-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/19/1991/07/30/m/dre
   label: null
@@ -84,16 +93,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686003:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:45Z'
   warnings: []
   errors: []
 ---
@@ -294,10 +319,10 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Aprovado em sessão plenária em 14 de Julho de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 4 de Agosto de 1992.**
+Assinado em 4 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

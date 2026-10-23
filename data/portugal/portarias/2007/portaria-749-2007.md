@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/12000/40254029.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/749/2007/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/749-2007-635870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16126d42229a5498b11e754313a79abc02269d537a96de789817a03c75a8a0d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c46af71b69f2ea3c7eec0ffdc6e42c09601b72b02bd0a22206a24dd381055f55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
 subjects:
 - Assistência Médica
 - Assistência Medicamentosa
-- Financiamento
-- Instituto da Droga e da Toxicodependência
-- Criação de Serviços
-- Combate à Droga
-- Prevenção contra o Consumo de Droga
-- Fiscalização
 - Centro de Acolhimento
-- Toxicodependente
+- Combate à Droga
+- Criação de Serviços
+- Financiamento
+- Fiscalização
+- Instituto da Droga e da Toxicodependência
+- Prevenção contra o Consumo de Droga
 - Programa
 - Regulamento
+- Toxicodependente
 relationships:
 - type: amended_by
   target: pt:dre:256975:por
@@ -92,16 +92,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/186/2006/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/186/2006/09/12/p/dre
+- type: cites
+  target: pt:dre:362322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540026:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:256975:por
+  label: "Revogada pela PORT.27/2013.24.01.2013.MEE, DR.IS [17] de 24.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/27-2013-256975
+  date: '2013-01-24'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:41Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +135,7 @@ Ao abrigo do disposto no [Decreto-Lei n.º 186/2006](https://diariodarepublica.p
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Saúde, António Fernando Correia de Campos, em 1 de Junho de 2007.**
+O Ministro da Saúde, António Fernando Correia de Campos, em 1 de Junho de 2007.
 
 ## ANEXO
 

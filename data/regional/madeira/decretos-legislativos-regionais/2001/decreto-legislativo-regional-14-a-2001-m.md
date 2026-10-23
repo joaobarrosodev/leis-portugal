@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 123/2001, 3º Suplemento, Série I-A de 2001-05-28
   number: '123'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 3146-(8) a 3146-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/05/123a03/00080011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14-a/2001/05/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-a-2001-632385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc2417c67e07d9391f8b062ffae8ad633db963b72e0795fa616514e9168c05ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1593caa50f115fd6dbb411f46343d72896450aa37878db1d6798f372770c218
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Colocação de Professores
 - Educador de Infância
-- Pessoal Docente
 - Ensino Básico
 - Madeira.região Autónoma
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:55021038:por
@@ -104,16 +104,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:176034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544776:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669864:por
+  label: "Revogado o DLR 4/88/M de 18-Mai, com excepção do respectivo art. 90º, com a redacção conferida pelo presente diploma,\
+    \ pelo DLR.17/2003/M.2003.06.30.ALR-RAM DR.IS-A [167] de 22/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2003-669864
+  date: '2003-06-30'
 article_structure:
-  article_count: 18
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:55Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +198,7 @@ Dos opositores à primeira parte do concurso
 
 Sua ordenação e apresentação a concurso
 
-###### Artigo 5.º
+Artigo 5.º
 
 Poderão ser opositores à primeira parte do concurso os seguintes candidatos:
 
@@ -176,7 +218,7 @@ g) Professor profissionalizado não pertencente aos quadros;
 
 h) Professor portador de habilitação própria.
 
-###### Artigo 6.º
+Artigo 6.º
 
 Os candidatos referidos em cada uma das alíneas do artigo anterior serão ordenados nas prioridades a seguir indicadas:
 
@@ -208,7 +250,7 @@ Sétima prioridade:
 
 Os candidatos incluídos na alínea h) que em 31 de Agosto do ano imediatamente anterior ao da abertura do concurso possuam, pelo menos, 730 dias de serviço docente oficial ou equiparado.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - Os opositores à primeira parte do concurso previsto neste diploma incluídos nas alíneas a), b), e) e g) do artigo 5.º serão ordenados, dentro de cada uma das prioridades estabelecidas no artigo 6.º, por ordem decrescente da respectiva graduação profissional.
 
@@ -230,7 +272,7 @@ b) Candidatos portadores de maior grau académico;
 
 c) Candidatos mais idosos.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - Dentro de cada uma das prioridades previstas no artigo 6.º deste diploma, os opositores à primeira parte do concurso incluídos nas alíneas c), d), f) e h) do artigo 5.º são ordenados de acordo com os escalões das habilitações próprias fixadas na legislação em vigor.
 
@@ -244,7 +286,7 @@ c) Candidatos mais idosos.
 
 6 - ...
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - ...
 
@@ -262,7 +304,7 @@ c) Candidatos mais idosos.
 
 7 - O incumprimento do disposto no n.º 3 equivale à não aceitação da colocação, com os efeitos constantes no n.º 1 do artigo 25.º deste diploma.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - ...
 
@@ -276,7 +318,7 @@ c) Candidatos mais idosos.
 
 6 - As transferências referidas nos números anteriores recairão sempre sobre professores do quadro do grupo, subgrupo, disciplina ou especialidade que se integrem nas alíneas a), b), c) ou d) do artigo 5.º deste diploma.
 
-###### Artigo 40.º
+Artigo 40.º
 
 Poderão candidatar-se à segunda parte do concurso prevista no n.º 6 do artigo 2.º do presente diploma:
 
@@ -284,7 +326,7 @@ a) Professor profissionalizado não pertencente aos quadros;
 
 b) Professor portador de habilitação própria não pertencente aos quadros.
 
-###### Artigo 41.º
+Artigo 41.º
 
 Na segunda parte do concurso previsto neste diploma os candidatos serão ordenados segundo as seguintes prioridades:
 
@@ -324,7 +366,7 @@ Nona prioridade:
 
 Os candidatos previstos na prioridade anterior considerados em grupos, subgrupos, disciplinas ou especialidades para que possuam habilitação suficiente.
 
-###### Artigo 45.º
+Artigo 45.º
 
 1 - ...
 
@@ -338,7 +380,7 @@ d) ...
 
 2 - Para efeitos da alínea c) do número anterior, o candidato não poderá concorrer a nenhum estabelecimento do mesmo concelho onde se situa aquele a cujo quadro pertence.
 
-###### Artigo 57.º
+Artigo 57.º
 
 1 - ...
 
@@ -368,7 +410,7 @@ Os artigos 13.º e 39.º do [Decreto Legislativo Regional n.º 5/88/M](https://d
 
 5 - ...
 
-###### Artigo 39.º
+Artigo 39.º
 
 1 - ...
 
@@ -406,7 +448,7 @@ b) Terem obtido colocação e prestado serviço docente nos últimos dois anos l
 
 c) ...
 
-###### Artigo 6.º
+Artigo 6.º
 
 1 - Os candidatos são ordenados de acordo com as seguintes prioridades:
 
@@ -448,10 +490,10 @@ O presente diploma produz efeitos a partir do dia 1 de Janeiro de 2001, à excep
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 24 de Maio de 2001.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 28 de Maio de 2001.**
+Assinado em 28 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

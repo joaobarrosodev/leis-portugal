@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/133b00/36093611.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2004/06/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2004-277125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8110de78dc07364a311616c414f54cb77e30bfdcdc792dd5eeef86884516c14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de827024df11f447a62434fcb25e6bb8c6ba637c83b060eefbc7d1e64616510a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ÁREA Escolar
 - Criação de Serviços
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Oficial
+- Estabelecimento de Ensino
 - Extinção de Serviços
 - Integração de Trabalhadores
-- Pessoal não Docente
-- Estabelecimento de Ensino
 - Pessoal Docente
-- Ensino Básico
+- Pessoal não Docente
 - Quadro de Pessoal
-- Açores
-- Educação Pré-escolar
 - VILA Franca do Campo
 relationships:
 - type: amended_by
@@ -95,16 +95,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/10/1998/05/02/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/10/1998/05/02/a/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659914:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:52Z'
   warnings: []
   errors: []
 ---
@@ -157,13 +178,13 @@ Enquanto não for criada a Escola Básica Integrada de Ponta Garça, os estabele
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 25 de Março de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 14 de Maio de 2004.**
+Assinado em Angra do Heroísmo em 14 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 MAPA I
 
@@ -171,7 +192,7 @@ MAPA I
 
 EBI/S de Vila Franca do Campo
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/133b00/36093611.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/133b00/36093611.pdf)](https://files.diariodarepublica.pt/1s/2004/06/133b00/36093611.pdf)
 
 MAPA II
 
@@ -179,4 +200,4 @@ MAPA II
 
 EBI/S de Vila Franca do Campo
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/133b00/36093611.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/133b00/36093611.pdf)](https://files.diariodarepublica.pt/1s/2004/06/133b00/36093611.pdf)

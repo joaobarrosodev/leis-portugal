@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/241/2008/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/241-2008-247041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 684258503593d70c7491d366b51aaef836057ccd42748f966ee01f6800e60daa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ce55569dad6f9f7b60edde56ede0277684f31c45cb8a0a7990939f537c5feab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Avaliação de Conhecimentos
 - Concurso
-- Recrutamento de Pessoal
+- Ordenamento do Território
 - Política de Solos
 - Profissão Independente
 - Programa
 - Qualificação Profissional
-- Avaliação de Conhecimentos
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2007/01/19/p/dre
@@ -115,16 +115,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/788/2004/07/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/788/2004/07/09/p/dre
+- type: cites
+  target: pt:dre:242774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476347:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:05Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +229,7 @@ Assim:
 
 Nos termos do n.º 2 do artigo 9.º do [Decreto-Lei n.º 125/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2002-368661), de 10 de Maio, com as alterações introduzidas pelo [Decreto-Lei n.º 12/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2007-522639), de 19 de Janeiro, e para efeitos de selecção dos candidatos a concurso de recrutamento de peritos avaliadores, é aprovado o programa da prova escrita de conhecimentos e a legislação e a bibliografia recomendadas, publicados em anexo à presente portaria e que dela fazem parte integrante.
 
-**O Ministro da Justiça, Alberto Bernardes Costa, em 4 de Março de 2008.**
+O Ministro da Justiça, Alberto Bernardes Costa, em 4 de Março de 2008.
 
 ## ANEXO
 

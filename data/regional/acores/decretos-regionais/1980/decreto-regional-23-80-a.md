@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/23-1980-460997
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e45a5cb6059c2997f1e11009aa9cad77344afde6bd06694e1936054766164a76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6220277d27ea6bd580b86994e9806e2f7d25fc8c038e7e80cd8ca7fd7906d8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Proteção Social
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:539268:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:539268:por
+  label: "Alterado o art. 2º, pelo DLR.18/93/A.1993.11.18.ALR-RAA, DR.IS-A [294] de 18/Dez/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-1993-539268
+  date: '1993-11-18'
+- type: cites
+  target: pt:dre:474484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474564:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:11Z'
   warnings: []
   errors: []
 ---
@@ -97,22 +113,22 @@ Por outro lado, atendendo às características próprias da população da Regi�
 
 Assim, a Assembleia Regional dos Açores, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, decreta o seguinte:
 
-###### Artigo 1.º É aplicável na Região Autónoma dos Açores o estabelecido no [Decreto-Lei n.º 160/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1980-474484), de 27 de Maio, que cria o sistema mínimo de protecção social, com as adaptações constantes dos artigos seguintes.
+Artigo 1.º É aplicável na Região Autónoma dos Açores o estabelecido no [Decreto-Lei n.º 160/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1980-474484), de 27 de Maio, que cria o sistema mínimo de protecção social, com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º - 1 - Os utentes do sistema unificado de segurança social regional podem optar pelo subsídio de aleitação ou beneficiar da concessão de aleitação em espécie.
+Art. 2.º - 1 - Os utentes do sistema unificado de segurança social regional podem optar pelo subsídio de aleitação ou beneficiar da concessão de aleitação em espécie.
 
 2 - O subsídio de aleitação será atribuído em prestações pecuniárias mensais nos primeiros dez meses de vida da criança, independentemente da amamentação materna, total ou parcial, devendo os requerentes apresentar mensalmente junto dos centros de prestações pecuniárias de segurança social competente documento que comprove o acompanhamento da mãe e da criança pelos serviços de saúde, bem como a não opção pelo sistema de aleitação em espécie.
 
 3 - A aleitação em espécie será atribuída em dez prestações mensais, não podendo o valor total dos produtos exceder 7500$00.
 
-###### Art. 3.º Para o processamento das prestações que integram o sistema mínimo de protecção social referido no artigo 1.º poderão os centros de prestações pecuniárias de segurança social ser dispensados de proceder à análise do processo relativo à situação contributiva do utente ou à verificação da respectiva condição de recursos.
+Art. 3.º Para o processamento das prestações que integram o sistema mínimo de protecção social referido no artigo 1.º poderão os centros de prestações pecuniárias de segurança social ser dispensados de proceder à análise do processo relativo à situação contributiva do utente ou à verificação da respectiva condição de recursos.
 
 Aprovado pela Assembleia Regional dos Açores em 30 de Julho de 1980.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em 26 de Agosto de 1980.**
+Assinado em 26 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva.**
+O Ministro da República, Henrique Afonso da Silva.

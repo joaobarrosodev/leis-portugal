@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00600/00850095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1987-599738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 56ca3941c3b12c0493c2619ce2d6074c2b43d9a1cb156ae6bcb7c5768b0417fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c09761207e39a3693c6dcf7f1de61b5778064abbaff680a6418fea5e9ee4ed3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Instituto Regional de Produtos Agro-Alimentares
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:599132:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:377952:por
+  label: "Aditado o art. 31º-A e alterado o quadro de pessoal anexo ao presente diploma, pelo DRR.32/88/A.1988.07.13.GR-RAA,\
+    \ DR.IS [177] de 02/Ago/1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-1988-377952
+  date: '1988-07-13'
+- type: amended_by
+  target: pt:dre:292127:por
+  label: "Alterado o art. 25º e aditados os arts. 25º-A, 25º-B, 25º-C, 25º-D, 25º-E, 25º-F e 25º-G, pelo DRR.30/92/A.1992.07.06.GR-RAA,\
+    \ DR.IS [164] de 18/Jul/1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-1992-292127
+  date: '1992-07-06'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599132:por
+  label: "Revogado pelo DRR.47/92/A.1992.10.21.GR-RAA, DR.IS-B [275] de 27/Nov/1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/47-1992-599132
+  date: '1992-10-21'
 article_structure:
   article_count: 33
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:50Z'
   warnings: []
   errors: []
 ---
@@ -494,14 +542,14 @@ As dúvidas resultantes da aplicação do presente diploma serão resolvidas por
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 25 de Setembro de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 10 de Dezembro de 1986.**
+Assinado em Angra do Heroísmo em 10 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.
 
 Quadro de pessoal a que se refere o artigo 22.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/01/00600/00850095.pdf))](https://files.diariodarepublica.pt/1s/1987/01/00600/00850095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/00600/00850095.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/20600/36153617.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1990-556598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3252694e6cac5b9b65b977d0cac1189ed0dd898070b419a4d4d8cefc5d425369
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89bb5c88dc0c5ddd8501558fefaf81e3cfee9d2ec334470a7d2d2e7c9adb07e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Gabinete de Gestão Financeira do Emprego
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:633174:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 21 PELO DRR 41/92/A DR.IS-B [265] DE 16/NOV/1992A
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-11-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ART 6, 7 E 8 E REVOGADOS OS ART 6-A, 6-B E 9 DO DRR 70/88/A DE 17-NOV, NA REDACCAO CONSTANTE DO ART\
+    \ 2 DO PRESENTE DIPLOMA, PELO DRR 7/96/A DE 22-JAN DR.IS-B [43] DE 20/FEV/1996P\0FEV/1996P"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-02-20'
+- type: amended_by
+  target: pt:dre:611316:por
+  label: "Alterados os art.s 6º, 7º e 8º do DRR 70/88/A, de 17-nov, na redação do presente diploma, pelo DRR.7/96/A.20.02.1996.SRJECIE-RAA,\
+    \ DR.IS-B [43] de 20.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1996-611316
+  date: '1996-02-20'
+- type: cites
+  target: pt:dre:357705:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633174:por
+  label: "Revogado pelo DRR.27/2003/A.2003.07.28.PG-RAA DR.IS-B [198] de 28/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2003-633174
+  date: '2003-07-28'
 article_structure:
-  article_count: 10
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 9
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:40Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +119,7 @@ A existência de um leque, cada vez mais diversificado, de apoios financeiros no
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto Regulamentar Regional n.º 70/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705), de 17 de Novembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto Regulamentar Regional n.º 70/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705), de 17 de Novembro, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — Conselho directivo
 
@@ -100,7 +129,7 @@ Assim, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 
 
 3 - Os vogais exercerão o cargo em regime de tempo parcial e serão remunerados mediante gratificação a fixar por despacho conjunto dos Secretários Regionais da Administração Interna, das Finanças e Planeamento e da Juventude e Recursos Humanos.
 
-###### Art. 2.º A secção II - Serviços do [Decreto Regulamentar Regional n.º 70/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705), de 17 de Novembro, passa a ter a seguinte redacção:
+Art. 2.º A secção II - Serviços do [Decreto Regulamentar Regional n.º 70/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705), de 17 de Novembro, passa a ter a seguinte redacção:
 
 #### SECÇÃO II — Serviços
 
@@ -138,7 +167,9 @@ c) Assinar a correspondência e os documentos que não tenham de o ser pelo cons
 
 d) Executar tudo o mais que as leis e os regulamentos expressamente lhe cometerem ou que decorra do normal desempenho das suas funções.
 
-###### Artigo 7.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 7.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 Compete à Secção de Pessoal, Expediente e Arquivo:
 
@@ -152,7 +183,9 @@ d) Promover e executar tarefas respeitantes ao recrutamento, provimento, promoç
 
 e) Assegurar o efectivo de bens e serviços necessários ao bom funcionamento do GGFE, bem como a organização e actualização permanente do cadastro do património que lhe está afecto.
 
-###### Artigo 8.º — Secção de Gestão Financeira e Patrimonial
+###### Artigo 8.º
+
+#### Secção de Gestão Financeira e Patrimonial
 
 Compete à Secção de Gestão Financeira e Patrimonial:
 
@@ -182,7 +215,7 @@ g) Organizar e manter actualizada a contabilidade do GGFE e, de um modo geral, a
 
 2 - ...
 
-###### Art. 3.º O artigo 18.º do [Decreto Regulamentar Regional n.º 70/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705), de 17 de Novembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 18.º do [Decreto Regulamentar Regional n.º 70/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705), de 17 de Novembro, passa a ter a seguinte redacção:
 
 ###### Artigo 18.º — Quadro
 
@@ -202,20 +235,20 @@ f) Pessoal administrativo;
 
 g) Pessoal auxiliar.
 
-###### Art. 4.º É revogado o artigo 20.º do [Decreto Regulamentar Regional n.º 70/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705), de 17 de Novembro.
+Art. 4.º É revogado o artigo 20.º do [Decreto Regulamentar Regional n.º 70/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705), de 17 de Novembro.
 
-###### Art. 5.º O quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 70/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705), de 17 de Novembro, é substituído pelo quadro anexo ao presente diploma.
+Art. 5.º O quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 70/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705), de 17 de Novembro, é substituído pelo quadro anexo ao presente diploma.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 4 de Julho de 1990.
 
-**O Presidente do Governo Regional, em exercício, Carlos Henrique da Costa Neves.**
+O Presidente do Governo Regional, em exercício, Carlos Henrique da Costa Neves.
 
-**Assinado em Angra do Heroísmo em 9 de Agosto de 1990.**
+Assinado em Angra do Heroísmo em 9 de Agosto de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Quadro de pessoal a que se referem os artigos 3.º e 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/20600/36153617.pdf))](https://files.diariodarepublica.pt/1s/1990/09/20600/36153617.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/20600/36153617.pdf)

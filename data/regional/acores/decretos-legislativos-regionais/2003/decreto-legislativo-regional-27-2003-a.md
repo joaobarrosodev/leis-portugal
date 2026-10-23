@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/133a00/34343447.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/27/2003/06/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2003-683641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1a2edf32a05b1c0bfeafedb004803f0ae57c941d95bab77edd783fb894bd77e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b47a9ec3cbf2dc4e77fbba8adf94feca8e8ff1fbc89b5d42b9472721bb2c1859
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Colocação de Professores
 - Concurso
-- Recrutamento de Pessoal
-- Pessoal Docente
-- Ensino Básico
-- Quadro de Pessoal
-- Regulamento
-- Açores
 - Educação Pré-escolar
+- Ensino Básico
+- Pessoal Docente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regulamento
 - ZONA Pedagógica
 relationships:
 - type: amended_by
@@ -120,16 +120,110 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/9/1992/03/20/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/9/1992/03/20/a/dre
+- type: cites
+  target: pt:dre:150510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609096:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:641102:por
+  label: "Revogados, a partir de 31.08.2007, os arts. 3.º a 6.º, o n.º 1 do art. 11.º, o n.º 1 do art. 12.º, os n.os 6 a 8\
+    \ do art. 23.º, os arts. 26.º e 27.º, os n.os 2 e 3 do art. 28.º, o n.º 3 do art. 31.º, os n.os 3 e 4 do art. 39.º, os\
+    \ arts. 43.º, 44.º, 52.º, 53.º e 55.º, todos do Regulamento aprovado pelo presente diploma, pelo DLR.21/2007/A.30.08.2007.AL-RAA,\
+    \ DR.IS [167] de 30.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2007-641102
+  date: '2007-08-30'
+- type: repealed_by
+  target: pt:dre:177813:por
+  label: "Revogado o presente diploma, na redação do DLR 21/2007/A, de 08-ago, pelo DLR.22/2012/A.30.05.2012.AL-RAA, DR.IS\
+    \ [105] de 30.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2012-177813
+  date: '2012-05-30'
 article_structure:
   article_count: 61
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:49Z'
   warnings: []
   errors: []
 ---
@@ -202,13 +296,13 @@ m) O [Decreto Regulamentar Regional n.º 7/85/A](https://diariodarepublica.pt/dr
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 15 de Maio de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 22 de Maio de 2003.**
+Assinado em Angra do Heroísmo em 22 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — REGULAMENTO DE CONCURSO DO PESSOAL DOCENTE DA EDUCAÇÃO PRÉ-ESCOLAR E ENSINOS BÁSICO E SECUNDÁRIO
 

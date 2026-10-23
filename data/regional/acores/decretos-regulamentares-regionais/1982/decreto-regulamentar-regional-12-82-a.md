@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/03/06900/06480649.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1982-609100
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78fcd2bacc753bed9a8455fac83b8deeabd7f666679d5c59fcc081a2bd045d91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95e659b49a15bd3560d0cf98e9ebfa502c777ab2b37a7dabeab3c54a85f7cfce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Pessoal Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:219311:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470376:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:219311:por
+  label: "Revogado pelo DRR.10/2004/A.16.03.2004.PG-RAA, DR.IS-B [86] de 12.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2004-219311
+  date: '2004-03-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:39Z'
   warnings: []
   errors: []
 ---
@@ -93,24 +113,24 @@ Usando da competência conferida pela alínea b) do n.º 1 do artigo 7.º do [De
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro em anexo substitui o mapa a que se refere o artigo 1.º do [Decreto Regulamentar Regional n.º 4/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1981-390038), de 24 de Janeiro.
+Artigo 1.º O quadro em anexo substitui o mapa a que se refere o artigo 1.º do [Decreto Regulamentar Regional n.º 4/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1981-390038), de 24 de Janeiro.
 
-###### Art. 2.º Os provimentos do pessoal docente a que se refere o artigo anterior far-se-ão nos termos do [Decreto-Lei n.º 258/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1980-470376), de 31 de Julho, respeitando as regras de competência das entidades regionais.
+Art. 2.º Os provimentos do pessoal docente a que se refere o artigo anterior far-se-ão nos termos do [Decreto-Lei n.º 258/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1980-470376), de 31 de Julho, respeitando as regras de competência das entidades regionais.
 
-###### Art. 3.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto dos Secretários Regionais de Finanças, da Educação e Cultura e da Administração Pública, consoante a sua natureza.
+Art. 3.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto dos Secretários Regionais de Finanças, da Educação e Cultura e da Administração Pública, consoante a sua natureza.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 14 de Janeiro de 1982.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 8 de Março de 1982.**
+Assinado em Angra do Heroísmo em 8 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro a que se refere o artigo 1.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/06900/06480649.pdf))](https://files.diariodarepublica.pt/1s/1982/03/06900/06480649.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/06900/06480649.pdf)

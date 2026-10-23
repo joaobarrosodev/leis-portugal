@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10100/11211122.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1982-393011
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cea071451ff13cf0d7a54ee6cf38b34833a308f0182258e53534fd457658db83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7957b9f1f86c21be227f852e38d79f3ca1e856456c0e7ec7322bb071fc87ada4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Cooperativa
+- Instituto Regional de Apoio ao Sector Cooperativo
+- Orgânica
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:435048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:555392:por
+  label: "Dada nova redacção aos arts. 4.º, 6.º, 8.º, 13.º, 14.º, 15.º e 16.º do DRR 11/79/A de 02-Mai, alterado pelo presente\
+    \ diploma, pelo DRR.33/90/A.16.10.1990.GR-RAA, DR.IS [239] de 16.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1990-555392
+  date: '1990-10-16'
+- type: amended_by
+  target: pt:dre:307439:por
+  label: "Dada nova redacção ao art. 14º do DRR 11/79/A de 02-Mai, alterado pelo presente diploma, pelo DRR.38/91/A.23.11.1991.GR-RAA,\
+    \ DR.IS-B [270] de 23.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/38-1991-307439
+  date: '1991-11-23'
+- type: cites
+  target: pt:dre:382983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576555:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:435048:por
+  label: "Revogado o DRR 11/79/A de 02-Mai, com a redacção dada pelo presente diploma, pelo DLR.7/96/A.14.06.1996.ALR-RAA,\
+    \ DR.IS-A [136] de 14.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1996-435048
+  date: '1996-06-14'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:41Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +136,7 @@ Aproveita-se, de igual modo, a oportunidade para actualizar o enquadramento lega
 
 Nestes termos, o Governo Regional, usando das faculdades que lhe são conferidas pela alínea b) do n.º 1 do artigo 229.º da Constituição da República e pela alínea b) do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 6.º, 7.º, 8.º, 10.º, 11.º, 13.º, 14.º, 15.º e 16.º do [Decreto Regulamentar Regional n.º 11/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1979-382983), de 2 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 6.º, 7.º, 8.º, 10.º, 11.º, 13.º, 14.º, 15.º e 16.º do [Decreto Regulamentar Regional n.º 11/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1979-382983), de 2 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 4.º — (Competência do presidente)
 
@@ -199,16 +238,16 @@ Os encargos resultantes do funcionamento dos serviços do IRASC serão satisfeit
 
 As dúvidas que se suscitarem na aplicação do presente decreto serão resolvidas por despacho do Presidente do Governo Regional.
 
-###### Art. 2.º É revogado o artigo 17.º do [Decreto Regulamentar Regional n.º 11/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1979-382983), de 2 de Maio.
+Art. 2.º É revogado o artigo 17.º do [Decreto Regulamentar Regional n.º 11/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1979-382983), de 2 de Maio.
 
 Aprovado em Conselho em 10 de Fevereiro de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 1 de Abril de 1982.**
+Assinado em Angra do Heroísmo em 1 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/10100/11211122.pdf))](https://files.diariodarepublica.pt/1s/1982/05/10100/11211122.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/10100/11211122.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1994/11/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1994-547020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 288157a3f8a0cb15b49431afa14b530a4406dd70b39d88f00ad1d3db2e3923db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0aa558973d59305185a3d806f374115b3f611c5bb4d034e529bb0f143aa46bd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Conselho de Administração
 - Definição de Competências
 - Estatuto
 - Instituto de Investimento e Privatizações dos Açores
-- Açores
+- Pessoal Dirigente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre
+- type: cites
+  target: pt:dre:298837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619936:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:21Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +111,7 @@ Na sequência dessa revogação, foram suscitadas algumas dúvidas de interpreta
 
 Assim, em execução do disposto no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O conselho de administração do Instituto de Investimento e Privatizações dos Açores (IIPA) reúne, ordinariamente, uma vez em cada mês e, extraordinariamente, sempre que o seu presidente o convoque, por sua iniciativa ou a requerimento de qualquer dos seus membros.
+Artigo 1.º - 1 - O conselho de administração do Instituto de Investimento e Privatizações dos Açores (IIPA) reúne, ordinariamente, uma vez em cada mês e, extraordinariamente, sempre que o seu presidente o convoque, por sua iniciativa ou a requerimento de qualquer dos seus membros.
 
 2 - Deverão ser sempre convocados todos os membros, sob pena de nulidade da convocação.
 
@@ -115,7 +127,7 @@ d) Compareçam à reunião.
 
 4 - Os membros consideram-se regularmente convocados para as reuniões ordinárias que se realizem em dias e horas previamente fixados.
 
-###### Art. 2.º - 1 - Compete ao administrador-delegado prosseguir os interesses do IIPA e assegurar a sua gestão e, nomeadamente:
+Art. 2.º - 1 - Compete ao administrador-delegado prosseguir os interesses do IIPA e assegurar a sua gestão e, nomeadamente:
 
 a) Elaborar e submeter à aprovação do conselho de administração os planos e orçamentos anuais e os planos estratégicos;
 
@@ -139,11 +151,11 @@ a) Contratar os trabalhadores do IIPA;
 
 b) Constituir mandatários do IIPA, fixando-lhes os respectivos poderes.
 
-###### Art. 3.º - 1 - O IIPA obriga-se pela assinatura conjunta de todos os membros do conselho de administração, pela do administrador-delegado, nas matérias previstas no artigo 2.º, e pela de mandatários, em actos que caibam nos respectivos poderes.
+Art. 3.º - 1 - O IIPA obriga-se pela assinatura conjunta de todos os membros do conselho de administração, pela do administrador-delegado, nas matérias previstas no artigo 2.º, e pela de mandatários, em actos que caibam nos respectivos poderes.
 
 2 - Nos actos que não envolvam para o IIPA a assunção de quaisquer responsabilidades, bastará a assinatura de um vogal ou de um mandatário, dentro dos seus poderes.
 
-###### Art. 4.º - 1 - As alíneas e) e f) do n.º 1 do artigo 11.º do estatuto do IIPA, aprovado pelo [Decreto Regulamentar Regional n.º 34/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1989-549409), de 21 de Outubro, passam a ter a seguinte redacção:
+Art. 4.º - 1 - As alíneas e) e f) do n.º 1 do artigo 11.º do estatuto do IIPA, aprovado pelo [Decreto Regulamentar Regional n.º 34/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1989-549409), de 21 de Outubro, passam a ter a seguinte redacção:
 
 ...
 
@@ -155,14 +167,14 @@ f) Aprovar o estatuto aplicável aos trabalhadores do IIPA e proceder à sua con
 
 h) Constituir mandatários do IIPA, fixando-lhes os respectivos poderes.
 
-###### Art. 5.º O presente diploma entra em vigor na data da sua publicação.
+Art. 5.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 18 de Agosto de 1994.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 2 de Novembro de 1994.**
+Assinado em Angra do Heroísmo em 2 de Novembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/11/21700/0000400005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2019/11/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2019-126061441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ae33dbbcafe020fcf89b62861080eb6327e60d3f9dbc120bd691c755d0b38be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 611a140fc61b27245d57e8a79e6225f181ec24d617da2ea29948c010ccf62fd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
+- Assembleia Legislativa
 - Competência Própria
-- Governo Regional
 - Controlo Orçamental
-- Regulamentação de Atos Legislativos
 - Execução do Orçamento
 - Finanças Regionais
-- Assembleia Legislativa
+- Governo Regional
 - Orçamento Regional
+- Região Autónoma
+- Regulamentação de Atos Legislativos
 - Sector Público Administrativo
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:164454929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Alterado, com efeitos a partir de 01.01.2020, o anexo do presente diploma pelo(a) Decreto Legislativo Regional n.º
+    1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
+- type: amended_by
+  target: pt:dre:164454929:por
+  label: Alterado, com efeitos a partir de 01.01.2021, o anexo constante do art. 2.º do presente diploma, pelo(a) Decreto
+    Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2021-164454929
+  date: '2021-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
   label: null
@@ -93,16 +105,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:28Z'
   warnings: []
   errors: []
 ---
@@ -131,11 +155,11 @@ Sem prejuízo da manutenção dos valores anuais de despesa, podem os limites de
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de outubro de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 8 de novembro de 2019.**
+Assinado em Angra do Heroísmo em 8 de novembro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -145,4 +169,6 @@ Quadro plurianual de programação orçamental
 
 (despesa financiada por receita efetiva)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/11/21700/0000400005.pdf))](https://files.diariodarepublica.pt/1s/2019/11/21700/0000400005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/11/21700/0000400005.pdf)
+
+112746641

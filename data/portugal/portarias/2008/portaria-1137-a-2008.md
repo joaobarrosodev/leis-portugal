@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 196/2008, 1º Suplemento, Série I de 2008-10-09
   number: '196'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7214-(2) a 7214-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19601/0000200007.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1137-a/2008/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1137-a-2008-220949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd65f4369047ae131a3a1aef64675a71069417773e59e07aa18600498f31877c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4c452360a893eb7467530c73efb31b63aa6600d03ad4972cf12b8fa2d63f41d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
 - Aproveitamento Hidroagrícola
+- Proder
 - Regulamento
 - Regulamento de Aplicação da Acção N.º 1.6.3.-sustentabilidade dos Regadios Públicos
 relationships:
@@ -76,20 +76,52 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 7º, 9º, 11º, 12., 13º, 14º, 19º, 20º e 22º, aditado o art. 15º-A e revogadas as als. d) e f)\
+    \ do art. 6º e o art. 24º do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167]\
+    \ de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 7.º, 20.º, 22.º ( os três na redacção da Port. 814/2010, de 28-Ago) e 23.º, todos do Regulamento\
+    \ de Aplicação da Acção n.º 1.6.3, «Sustentabilidade dos Regadios Públicos», aprovado pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:260416:por
+  label: "Dada nova redação à al. q) do art. 8º do Regulamento de Aplicação da de Aplicação da Ação n.º 1.6.3, «Sustentabilidade\
+    \ dos Regadios Públicos» pela PORT.152/2013.17.04.2013.MAMAOT, DR.IS [75] de 17.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/152-2013-260416
+  date: '2013-04-17'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao art. 8º (alterado pela Port 152/2013 de 17-abr) do Regulamento de Aplicação da Ação n.º 1.6.3,\
+    \ «Sustentabilidade dos Regadios Públicos» pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32006R1975
   label: null
   source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: corrected_by
+  target: pt:dre:297176:por
+  label: "Rectificado o art. 16º da Port 814/2010, de 27-Ago [na redacção que conferiu ao nº1 do art. 14º do presente diploma],\
+    \ pela DECL-RECT.32-A/2010.26.10.2010.PCM, DR.IS [208-Supl] de 26.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/32-a-2010-297176
+  date: '2010-10-26'
 article_structure:
   article_count: 26
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:07Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +156,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 7 de Outubro de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 7 de Outubro de 2008.
 
 ## ANEXO
 

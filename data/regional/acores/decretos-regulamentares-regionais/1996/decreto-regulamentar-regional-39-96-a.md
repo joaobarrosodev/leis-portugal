@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/226b00/34243431.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/39/1996/09/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-1996-213618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ab920b6913d913fcc40a11aa45b05dfe710a9c83b959dd0f605147714a8327f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc4c86f7fc6a5c3ef50e426e5e1095e5c7aa80824e921293c7d711457cc49529
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recrutamento de Pessoal
+- Açores
 - Instituto de Apoio Comercial à Agricultura Pecuária e Silvicultura
 - Integração de Trabalhadores
 - Orgânica
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Secretaria Regional da Agricultura e Pescas
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:516758:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:351361:por
+  label: "Alterado o quadro de pessoal anexo pelo DRR.12/97/A.1997.04.23.SRAPA-RAA, DR.IS-B [123] de 1997.05.28\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1997-351361
+  date: '1997-04-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/1993/01/08/p/dre
   label: null
@@ -103,16 +108,81 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/45/1992/11/21/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/45/1992/11/21/a/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516758:por
+  label: "Revogado pelo DRR.13/98/A.1998.04.13.SRAPA-RAA, DR.IS-B [109] de 12/Mai/19983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1998-516758
+  date: '1998-04-13'
 article_structure:
-  article_count: 21
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:42Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +203,9 @@ O capítulo III do [Decreto Regulamentar Regional n.º 5/89/A](https://diariodar
 
 Pessoal
 
-###### Artigo 42.º — Quadro de pessoal
+Artigo 42.º
+
+Quadro de pessoal
 
 O quadro da SRAP é o constante do mapa anexo ao presente diploma, que dele faz parte integrante, sendo agrupado de acordo com a seguinte classificação:
 
@@ -159,59 +231,83 @@ j) Pessoal auxiliar;
 
 l) Outro pessoal.
 
-###### Artigo 43.º — Quadro de pessoal administrativo
+Artigo 43.º
+
+Quadro de pessoal administrativo
 
 O pessoal administrativo da SRAP constitui um quadro único, inserido na Repartição de Serviços Administrativos, competindo ao Secretário Regional a distribuição da dotação respectiva pelos diversos serviços e ilhas, conforme as necessidades e as conveniências dos mesmos, sem prejuízo dos direitos dos funcionários já providos.
 
-###### Artigo 44.º — Condições de ingresso e acesso
+Artigo 44.º
+
+Condições de ingresso e acesso
 
 As condições e regras de ingresso e acesso dos funcionários na SRAP serão, para as respectivas categorias, as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, com as alterações introduzidas pelos Decretos-Leis n.os [265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, e [2/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1993-283683), de 8 de Janeiro, e as previstas neste diploma e na legislação regional e geral complementar.
 
-###### Artigo 45.º — Pessoal dirigente
+Artigo 45.º
+
+Pessoal dirigente
 
 O pessoal dirigente é provido de acordo com o disposto no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 2 de Setembro, com as adaptações introduzidas pelo Decreto Regional n.º 1/90/A, de 15 de Janeiro.
 
-###### Artigo 46.º — Técnicos superiores juristas
+Artigo 46.º
+
+Técnicos superiores juristas
 
 Os técnicos superiores juristas exercem exclusivamente funções de mera consultadoria jurídica.
 
-###### Artigo 47.º — Coordenadores da DRRF
+Artigo 47.º
+
+Coordenadores da DRRF
 
 1 - Os coordenadores da Direcção Regional dos Recursos Florestais (DRRF) serão recrutados de entre pessoal técnico, superior e técnico daquele departamento, em regime de comissão de serviço, com a duração de três anos, renovável por iguais períodos.
 
 2 - Os coordenadores da DRRF são remunerados pelo índice correspondente ao escalão imediatamente superior ao que detêm na estrutura da carreira de origem.
 
-###### Artigo 48.º — Pessoal de informática
+Artigo 48.º
+
+Pessoal de informática
 
 O pessoal de informática será recrutado e provido nos termos do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro.
 
-###### Artigo 49.º — Tradutor-correspondente-intérprete
+Artigo 49.º
+
+Tradutor-correspondente-intérprete
 
 O ingresso na carreira de tradutor-correspondente-intérprete far-se-á, enquanto não existirem cursos técnico-profissionais adequados ao desempenho daquelas funções, de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e o curso de Secretariado e de Relações Públicas.
 
-###### Artigo 50.º — Carreira de técnico auxiliar de laboratório
+Artigo 50.º
+
+Carreira de técnico auxiliar de laboratório
 
 1 - O recrutamento para a carreira de técnico auxiliar de laboratório far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e o curso técnico de Química ou equiparado.
 
 2 - Enquanto se verificar a inexistência ou insuficiência de candidatos com os requisitos habilitacionais previstos no n.º 1, o recrutamento para ingresso na carreira será feito de entre indivíduos habilitados com o 11.º ano de escolaridade ou equivalente e a frequência, com aproveitamento, do estágio previsto no Despacho Normativo n.º 136/85, de 24 de Setembro.
 
-###### Artigo 51.º — Carreira de técnico-adjunto de pecuária
+Artigo 51.º
+
+Carreira de técnico-adjunto de pecuária
 
 1 - O recrutamento para a carreira de técnico-adjunto de pecuária far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e o curso técnico de Agro-Pecuária ou o curso técnico de Agricultura, ramo de Agro-Pecuária da via profissionalizante, ou equiparado.
 
 2 - Enquanto se verificar a inexistência ou insuficiência de candidatos com os requisitos habilitacionais previstos no número anterior para ingresso na carreira, o recrutamento poderá ser feito de entre indivíduos habilitados com o 11.º ano de escolaridade ou equivalente e a frequência, com aproveitamento, do estágio previsto no Despacho Normativo n.º 136/85, de 24 de Setembro.
 
-###### Artigo 52.º — Carreira de técnico-adjunto de pescas
+Artigo 52.º
+
+Carreira de técnico-adjunto de pescas
 
 1 - O recrutamento para a carreira de técnico-adjunto de pescas far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e o curso técnico de Pesca ou equiparado.
 
 2 - Enquanto se verificar a inexistência ou insuficiência de candidatos com os requisitos habilitacionais previstos no n.º 1, o recrutamento será feito de entre indivíduos habilitados com o 11.º ano de escolaridade ou equivalente e a frequência, com aproveitamento, de um estágio a regulamentar por despacho conjunto dos Secretários Regionais das Finanças, Planeamento e Administração Pública e da Agricultura e Pescas.
 
-###### Artigo 53.º — Carreira de técnico auxiliar de agricultura
+Artigo 53.º
+
+Carreira de técnico auxiliar de agricultura
 
 O recrutamento para a carreira de técnico auxiliar de agricultura far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e a frequência, com aproveitamento, do estágio previsto no Despacho Normativo n.º 136/85, de 24 de Setembro.
 
-###### Artigo 54.º — Guarda florestal
+Artigo 54.º
+
+Guarda florestal
 
 1 - Sem prejuízo do disposto nos n.os 2 e 3 deste artigo, a carreira de guarda florestal da DRRF fica sujeita ao regime específico estabelecido no [Decreto-Lei n.º 142/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1990-571222), de 4 de Maio, e legislação complementar.
 
@@ -221,23 +317,31 @@ O recrutamento para a carreira de técnico auxiliar de agricultura far-se-á de 
 
 4 - A escala salarial da categoria de mestre florestal coordenador desenvolve-se pelos índices 255, 275, 295 e 310, correspondentes, respectivamente, aos escalões 1, 2, 3 e 4.
 
-###### Artigo 55.º — Encarregado de oficinas, viaturas e alfaias
+Artigo 55.º
+
+Encarregado de oficinas, viaturas e alfaias
 
 1 - O recrutamento para a categoria de encarregado de oficinas, viaturas e alfaias será feito de entre motoristas de ligeiros, tractoristas e condutores de máquinas pesadas posicionados no escalão 4 ou superior ou mecânicos principais posicionados no escalão 2 ou superior.
 
 2 - A categoria de encarregado de oficinas, viaturas e alfaias é equiparada, para todos os efeitos, à de encarregado de grupo de pessoal operário qualificado.
 
-###### Artigo 56.º — Operário agrícola
+Artigo 56.º
+
+Operário agrícola
 
 1 - A carreira de operário agrícola desenvolve-se pelas categorias de operário agrícola, encarregado agrícola e encarregado e é equiparada, para todos os efeitos, às carreiras do grupo de pessoal operário não qualificado, à excepção do ingresso, que será feito de entre indivíduos habilitados com a escolaridade obrigatória e formação adequada ao desempenho das respectivas funções.
 
 2 - O acesso à categoria de encarregado far-se-á de entre os encarregados agrícolas com, pelo menos, quatro anos de serviço na categoria e classificação mínima de Bom.
 
-###### Artigo 57.º — Condutor de máquinas pesadas
+Artigo 57.º
+
+Condutor de máquinas pesadas
 
 O recrutamento para ingresso na carreira de condutor de máquinas pesadas far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e carta de condução de veículos pesados.
 
-###### Artigo 58.º — Pessoal auxiliar
+Artigo 58.º
+
+Pessoal auxiliar
 
 1 - Os tractoristas serão recrutados de entre indivíduos que possuam a escolaridade mínima obrigatória e carta de condução de tractores agrícolas.
 
@@ -271,14 +375,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 24 de Julho de 1996.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 2 de Setembro de 1996.**
+Assinado em Angra do Heroísmo em 2 de Setembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 MAPA A QUE SE REFERE O ARTIGO 42.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/226b00/34243431.pdf))](https://files.diariodarepublica.pt/1s/1996/09/226b00/34243431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/226b00/34243431.pdf)

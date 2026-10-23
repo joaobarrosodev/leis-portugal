@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13100/0007200103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2021/07/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10ed8b9bc5004ab56c1cf32c19773be4fab7dd7c6ec5c9b130dceab2c6bfd832
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d65ee782b5878c452ead397640f2f932c7f8740bd88582de5b1af2dcb1319d85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Governo Regional
-- Definição de Competências
-- Orgânica
-- Quadro de Pessoal
 - Açores
-- Transferência de Pessoal
+- Definição de Competências
+- Governo Regional
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 - Secretaria Regional dos Transportes Turismo e Energia
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:200634455:por
@@ -118,16 +118,77 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:146209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150757510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670279:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:200634455:por
+  label: Revogado a partir de 06.09.2022 pelo(a) Decreto Regulamentar Regional n.º 15/2022/A - Diário da República n.º 171/2022,
+    Série I de 2022-09-05, nos termos do disposto no seu art. 9.º; e determinado, nos termos do disposto no seu art. 8.º,
+    a transferência dos direitos, obrigações e competências dos serviços, objeto daquele diploma, para os serviços que ora
+    os passam a integrar, em razão da matéria, sem dependência de quaisquer formalidades, bem como a transferência dos arquivos,
+    acervos documentais, programas informáticos, bases de dados e outros suportes digitais que lhes digam respeito.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2022-200634455
+  date: '2022-09-05'
 article_structure:
   article_count: 52
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:42Z'
   warnings: []
   errors: []
 ---
@@ -212,11 +273,11 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado em Conselho do Governo, em Ponta Delgada, em 1 de abril de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 25 de junho de 2021.**
+Assinado em Angra do Heroísmo em 25 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -282,7 +343,9 @@ b) Serviços inspetivos: Inspeção Regional do Turismo.
 
 #### SECÇÃO I — Serviços executivos
 
-##### SUBSECÇÃO I — Divisão Administrativa e Financeira
+##### SUBSECÇÃO I
+
+##### Divisão Administrativa e Financeira
 
 ###### Artigo 4.º — Missão e competências
 
@@ -414,7 +477,9 @@ b) Divisão dos Transportes Marítimos e Setor Portuário;
 
 c) Unidade de Apoio Jurídico.
 
-###### Artigo 7.º — Divisão dos Transportes Aéreos e Setor Aeroportuário
+###### Artigo 7.º
+
+##### Divisão dos Transportes Aéreos e Setor Aeroportuário
 
 1 - À Divisão dos Transportes Aéreos e Setor Aeroportuário, doravante designada por DTASA, compete:
 
@@ -472,7 +537,9 @@ i) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A UATTA é coordenada por trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do Diretor Regional dos Transportes Aéreos e Marítimos, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 9.º — Divisão dos Transportes Marítimos e Setor Portuário
+###### Artigo 9.º
+
+##### Divisão dos Transportes Marítimos e Setor Portuário
 
 1 - À Divisão dos Transportes Marítimos e Setor Portuário, doravante designada por DTMSP, compete:
 
@@ -632,7 +699,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DSGRI integra a Divisão de Planeamento e Gestão de Meios.
 
-###### Artigo 15.º — Divisão de Planeamento e Gestão de Meios
+###### Artigo 15.º
+
+##### Divisão de Planeamento e Gestão de Meios
 
 1 - À Divisão de Planeamento e Gestão de Meios, doravante designada por DPGM, compete:
 
@@ -1048,7 +1117,9 @@ a) Divisão de Combustíveis e Licenciamentos Energéticos;
 
 b) Serviço de Eficiência Energética e Autoconsumo.
 
-###### Artigo 26.º — Divisão de Combustíveis e Licenciamentos Energéticos
+###### Artigo 26.º
+
+##### Divisão de Combustíveis e Licenciamentos Energéticos
 
 1 - À Divisão de Combustíveis e Licenciamentos Energéticos, doravante designada por DCLE, compete:
 
@@ -1540,4 +1611,6 @@ O pessoal técnico especializado previsto no n.º 4 do artigo 4.º do regime jur
 
 Quadro de pessoal dirigente e de chefia da Secretaria Regional dos Transportes, Turismo e Energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/13100/0007200103.pdf))](https://files.diariodarepublica.pt/1s/2021/07/13100/0007200103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/13100/0007200103.pdf)
+
+114354491

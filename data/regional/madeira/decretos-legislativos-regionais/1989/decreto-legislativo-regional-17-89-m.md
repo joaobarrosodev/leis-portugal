@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1989-619556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6518e869bacf0150b761155a3991dfbd2b75c0b730f0346a7da60708725e06a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de807e51c5312aab4528189566560608f3477a191169c5d6f63bb94ea7db9b21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Orçamento Regional
+relationships:
+- type: corrected_by
+  target: pt:dre:291581:por
+  label: Rectificado pela DECL.DD3733.1989.08.18.PCM DR.IS [200]SUPL DE 31/AGO/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-291581
+  date: '1989-08-18'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:20Z'
   warnings: []
   errors: []
 ---
@@ -176,11 +183,11 @@ O presente decreto entra em vigor à data da sua aprovação.
 
 Aprovado em Reunião Plenária de 30 de Maio de 1989.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf)
 
 Do MAPA I ao MAPA VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf)
 
 PLANO DE INVESTIMENTOS E DESPESAS DE DESENVOLVIMENTO DA ADMINISTRAÇÃO DA RAM - PIDDAR 1989
 
@@ -248,7 +255,7 @@ Tal como já se referiu, uma significativa fatia do investimento previs-to no PI
 
 Globalmente, o montante correspondente ao PIDDAR/89 tem a seguinte afectação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf)
 
 A orientação da política do Governo continuará a privilegiar os sectores económicos, com a realização de grandes empreendimentos em infra-estruturas económicas e nos sectores produtivos que absorvem cerca de metade do total dos investimentos do PIDDAR/89.
 
@@ -474,10 +481,10 @@ Essas duas vertentes consubstanciam-se, por um lado, nas várias acções de for
 
 Em conformidade com os respectivos quadros-resumo o montante global referente ao PIDDAR/89 reparte-se do seguinte modo pelas várias Secretarias Regionais e pelos seguintes domínios de actuação:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf)
 
 A Secretaria Regional do Equipamento Social continua a ser respon-sável por cerca de metade das acções e empreendimentos que o Governo Regional inclui no PIDDAR/89 uma vez que, para além da execução das acções integradas nos sectores que tutela, tem a seu cargo a execução de variadissí-mos projectos doutros sectores (construções escolares, pavilhões gimnodesportivos, estabelecimentos hospitalares e de saúde pública, etc.)
 
 No que concerne à repartição dos investimentos do PIDDAR/89 pelos grandes domínios de actuação, nota-se a predominância dos relativos a infra-estruturas e equipamentos colectivos, logo seguidos, embora a alguma distân-cia, pelos relativos a incentivos e apoios directos à actividade produtiva. Destaque, igualmente, para os investimentos em formação profissional que têm vindo a assumir uma importância crescente pelo significativo contributo que proporciona ao desenvolvimento da actividade reprodutiva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15700/27482779.pdf)

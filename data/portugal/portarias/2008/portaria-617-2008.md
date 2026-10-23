@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/617/2008/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/617-2008-456559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c7294725aabadfabfe10c181bca994e0ced8246b46d178549772d7085cd22d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c3895cb28ceb6c799fb654eb7c78b4dbeaeba14ffd692378cb0c9c41722db98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/693/1998/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/693/1998/09/03/p/dre
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591742:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:24Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +122,7 @@ Nestes termos, ao abrigo do disposto no artigo 3.º da [Portaria n.º 247/2005](
 
 Manda o Governo, pelo Secretário de Estado da Educação, que, no seguimento da Portaria n.º 803/2007, de 24 de Julho, ao elenco de cursos reconhecidos como habilitação para a docência nos grupos e subgrupos do ensino vocacional da Música constante do quadro anexo ii à [Portaria n.º 693/98](https://diariodarepublica.pt/dr/detalhe/portaria/693-1998-566825), de 3 de Setembro, são aditados os cursos constantes do quadro i, anexo à presente portaria e que dela faz parte integrante.
 
-**O Secretário de Estado da Educação, Valter Victorino Lemos, em 30 de Junho de 2008.**
+O Secretário de Estado da Educação, Valter Victorino Lemos, em 30 de Junho de 2008.
 
 ## ANEXO — QUADRO I
 
@@ -118,40 +130,40 @@ Manda o Governo, pelo Secretário de Estado da Educação, que, no seguimento da
 
 Habilitações próprias para os cursos básicos e complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
 
 Habilitações suficientes para os cursos básicos e complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
 
 04 - Clarinete
 
 Habilitações próprias para os cursos básicos e complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
 
 Habilitações suficientes para os cursos básicos e complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
 
 06 - Contrabaixo
 
 Habilitações próprias para os cursos básicos e complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
 
 Habilitações suficientes para os cursos básicos e complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
 
 26 - Canto
 
 Habilitações próprias para os cursos básicos e complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
 
 32 - Música de Conjunto
 
 Habilitações próprias para os cursos básicos e complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf))](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/13300/0441804419.pdf)

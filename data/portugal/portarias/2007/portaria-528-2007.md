@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/28482851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/528/2007/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/528-2007-521204
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ee214f8d900daa0b2f4e71fda60f33f20a5130d5098dd55762b9587cf1d12b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 103f73fa9ba3211200a4c593dbb57defdf2592c5bc821aa09de33ed89d69fe82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão de Coordenação e Desenvolvimento Regional
 - Definição de Competências
 - Ministério do Ambiente do Ordenamento do Território e do Desenvolvimento Regional
-- Comissão de Coordenação e Desenvolvimento Regional
 - Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:225217593:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2175301:por
+  label: "Extintas a Direcção de Serviços de Águas Interiores e a Direcção de Serviços do Litoral pelo DESP.25463/2008.13.10.2008.CCDRN-MAOTDR,\
+    \ DR.IIS [198] de 13.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/25463-2008-2175301
+  date: '2008-10-13'
+- type: amended_by
+  target: pt:dre:178199049:por
+  label: Alterado o art. 3.º pelo(a) Despacho n.º 1038/2022 - Diário da República n.º 18/2022, Série II de 2022-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1038-2022-178199049
+  date: '2022-01-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/134/2007/04/27/p/dre
   label: null
@@ -87,16 +98,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:225217593:por
+  label: Revogado, a partir de 01.01.2024, o presente diploma, no que concerne à CCDR do Algarve pelo(a) Portaria n.º 403/2023
+    - Diário da República n.º 234/2023, Série I de 2023-12-05 nos termos do art. 2.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/403-2023-225217593
+  date: '2023-12-05'
+- type: repealed_by
+  target: pt:dre:225217594:por
+  label: Revogado, a partir de 01.01.2024, o presente diploma, no que concerne à CCDR de Lisboa pelo(a) Portaria n.º 404/2023
+    - Diário da República n.º 234/2023, Série I de 2023-12-05 nos termos do art. 2.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/404-2023-225217594
+  date: '2023-12-05'
+- type: repealed_by
+  target: pt:dre:225217595:por
+  label: Revogado, a partir de 01.01.2024, o presente diploma, no que concerne à CCDR do Centro pelo(a) Portaria n.º 405/2023
+    - Diário da República n.º 234/2023, Série I de 2023-12-05 nos termos do art. 2.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/405-2023-225217595
+  date: '2023-12-05'
+- type: repealed_by
+  target: pt:dre:225217596:por
+  label: Revogada, a partir de 01.01.2024, o presente diploma, no que concerne à CCDR do Alentejo, pelo(a) Portaria n.º 406/2023
+    - Diário da República n.º 234/2023, Série I de 2023-12-05, nos termos do seu art. 2.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/406-2023-225217596
+  date: '2023-12-05'
+- type: repealed_by
+  target: pt:dre:225217597:por
+  label: Revogada, a partir de 01.01.2024, presente diploma, no que concerne à CCDR do Norte, pelo(a) Portaria n.º 407/2023
+    - Diário da República n.º 234/2023, Série I de 2023-12-05, nos termos do seu art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/407-2023-225217597
+  date: '2023-12-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:11Z'
   warnings: []
   errors: []
 ---
@@ -375,4 +428,4 @@ Entrada em vigor
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Abril de 2007. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 26 de Abril de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Abril de 2007. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 26 de Abril de 2007.

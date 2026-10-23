@@ -5,8 +5,8 @@ title: Decreto n.º 47281
 short_title: null
 summary: Autoriza a Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira a celebrar contrato para a execução
   do funcionamento de um grupo electrogéneo Diesel-alternador, destinado à central térmica de Porto Santo
-jurisdiction: regional
-territory: madeira
+jurisdiction: portugal
+territory: null
 document_type: decreto
 document_type_label: Decreto
 issuing_authority:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47281-1966-478610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b79b398818937f86d303d4258ed0189487c1a55cc5261e3d3670b0430c800fc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb8a567f9ddb1bd29d78575e8a0efa9e1d6c064e6fb88c4304e4a0164eec9bb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599366:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:27Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +99,12 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica a Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira autorizada a celebrar contrato com a firma Leacock &. C.ª Lda., com sede no Funchal, para a execução do fornecimento de um grupo electrogéneo Diesel-alternador, pela importância de 1055000$00.
+Artigo 1.º Fica a Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira autorizada a celebrar contrato com a firma Leacock &. C.ª Lda., com sede no Funchal, para a execução do fornecimento de um grupo electrogéneo Diesel-alternador, pela importância de 1055000$00.
 
 § único. Esta importância será paga pelo orçamento privativo da Comissão por conta das receitas do artigo 15.º do [Decreto-Lei n.º 38722](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38722-1952-599366), de 14 de Abril de 1952.
 
-###### Art. 2.º Não poderá a Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira despender com pagamentos relativos a este fornecimento, por força do contrato, mais de 527500$00 no corrente ano e 527500$00, ou o que apurar como saldo no ano de 1967.
+Art. 2.º Não poderá a Comissão Administrativa dos Aproveitamentos Hidráulicos da Madeira despender com pagamentos relativos a este fornecimento, por força do contrato, mais de 527500$00 no corrente ano e 527500$00, ou o que apurar como saldo no ano de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Eduardo de Arantes e Oliveira.

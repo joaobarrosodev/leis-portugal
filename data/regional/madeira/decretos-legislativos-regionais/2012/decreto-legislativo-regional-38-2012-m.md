@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/38/2012/12/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2012-189963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1053f3960f1f8256b976fe978d23ef26b38a664d8b0c4dbe238853e598692e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb7ee94115df35f241bc6c5bad7f58ab5c3fa66cc12950a82dc4a4458edf4ed1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Pessoal Dirigente
-- Gestão Financeira
+- Conselho Diretivo
 - Criação de Serviços
 - Definição de Competências
 - Estatuto
 - Extinção de Serviços
+- Fiscal Único
 - Fiscalização
-- Recrutamento de Pessoal
 - Gestão do Património
-- Conselho Diretivo
+- Gestão Financeira
 - Instituto de Desenvolvimento Regional
-- Instituto Público
-- Orgânica
-- Presidente
-- Madeira.região Autónoma
 - Instituto de Gestão de Fundos Comunitários
+- Instituto Público
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Presidente
+- Recrutamento de Pessoal
 - Vogal
 relationships:
 - type: cites
@@ -109,16 +109,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:178817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 50
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:34Z'
   warnings: []
   errors: []
 ---
@@ -155,23 +175,31 @@ São alterados os artigos 1º, 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 10º, 11�
 
 O presente diploma cria o Instituto de Desenvolvimento Regional, IP-RAM, adiante designado abreviadamente por IDR, IP-RAM, que resulta da extinção do Instituto de Gestão de Fundos Comunitários (IFC).
 
-###### Artigo 2º — [...]
+Artigo 2º
+
+[...]
 
 1 - O IDR, IP-RAM é uma pessoa coletiva de direito público, dotada de personalidade jurídica, de autonomia administrativa e financeira e património próprio, integrada na administração indireta da Região Autónoma da Madeira, adiante designada abreviadamente por RAM.
 
 2 - O IDR, IP-RAM prossegue as suas atribuições sob a tutela e a superintendência do Secretário Regional do Plano e Finanças, adiante designado abreviadamente por Secretário Regional.
 
-###### Artigo 3º — [...]
+Artigo 3º
+
+[...]
 
 1 - O IDR, IP-RAM tem a sua sede na cidade do Funchal e jurisdição na Região Autónoma da Madeira.
 
 2 - (Revogado.)
 
-###### Artigo 4º — [...]
+Artigo 4º
+
+[...]
 
 O IDR, IP-RAM tem por missão a coordenação das atividades de planeamento e de monitorização do modelo de desenvolvimento regional bem como a coordenação e gestão da intervenção dos fundos comunitários na RAM.
 
-###### Artigo 5º — [...]
+Artigo 5º
+
+[...]
 
 São atribuições do IDR, IP-RAM:
 
@@ -227,7 +255,9 @@ y) [Anterior subalínea ii) da alínea z).]
 
 z) [Anterior subalínea iii) da alínea z).]
 
-###### Artigo 6º — [...]
+Artigo 6º
+
+[...]
 
 São órgãos do IDR, IP-RAM:
 
@@ -235,11 +265,15 @@ a) O conselho diretivo;
 
 b) O fiscal único.
 
-###### Artigo 7º — Estatutos
+Artigo 7º
+
+Estatutos
 
 O modo de funcionamento do IDR, IP-RAM, bem como as competências dos respetivos serviços e a estrutura interna, constam dos seus estatutos a aprovar nos termos da Lei.
 
-###### Artigo 8º — Composição, designação e competências
+Artigo 8º
+
+Composição, designação e competências
 
 1 - O conselho diretivo é composto por um presidente e por dois vogais, designados por despacho do membro do Governo da tutela, na sequência de procedimento concursal, ao qual se aplicam, com as necessárias adaptações, as regras de recrutamento, seleção e provimento nos cargos de direção superior da administração pública.
 
@@ -275,7 +309,9 @@ n) Exercer os demais poderes previstos nos estatutos e que não sejam atribuído
 
 3 - O conselho diretivo pode delegar competências em qualquer dos seus membros.
 
-###### Artigo 9º — [...]
+Artigo 9º
+
+[...]
 
 1 - Compete, em particular, ao presidente do conselho diretivo:
 
@@ -321,11 +357,15 @@ r) (Revogado.)
 
 4 - (Revogado.)
 
-###### Artigo 10º — Competências dos vogais
+Artigo 10º
+
+Competências dos vogais
 
 Compete aos vogais a responsabilidade pela gestão das áreas funcionais de atividade do IDR, IP-RAM que lhes forem delegadas pelo conselho diretivo, competindo-lhes fazer executar os respetivos programas e planos de atividades.
 
-###### Artigo 11º — Função, designação, remuneração e mandato
+Artigo 11º
+
+Função, designação, remuneração e mandato
 
 1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do IDR, IP-RAM.
 
@@ -335,7 +375,9 @@ Compete aos vogais a responsabilidade pela gestão das áreas funcionais de ativ
 
 4 - O mandato do fiscal único tem a duração de cinco anos podendo ser renovado uma única vez através de despacho dos membros do Governo referidos no nº 2.
 
-###### Artigo 12º — [...]
+Artigo 12º
+
+[...]
 
 ...
 
@@ -347,7 +389,9 @@ c) Emitir parecer sobre qualquer assunto que lhe seja submetido pelo presidente 
 
 d) Exercer as demais competências previstas na Lei nº 3/2004, de 15 de janeiro, na sua atual redação.
 
-###### Artigo 13º — [...]
+Artigo 13º
+
+[...]
 
 Constituem receitas do IDR, IP-RAM:
 
@@ -365,7 +409,9 @@ f) ...
 
 g) ...
 
-###### Artigo 14º — [...]
+Artigo 14º
+
+[...]
 
 Constituem despesas do IDR, IP-RAM:
 
@@ -375,33 +421,45 @@ b) ...
 
 c) ...
 
-###### Artigo 15º — [...]
+Artigo 15º
+
+[...]
 
 1 - Compete ao IDR, IP-RAM nos termos da legislação aplicável, estabelecer relações com as instituições do sistema bancário e financeiro, designadamente, para a constituição de depósitos e para a contração de empréstimos, sempre que tal se revelar necessário à prossecução das suas atribuições.
 
 2 - ...
 
-###### Artigo 16º — [...]
+Artigo 16º
+
+[...]
 
 O IDR, IP-RAM goza de todas as isenções reconhecidas por lei ao Estado e à RAM.
 
-###### Artigo 17º — [...]
+Artigo 17º
+
+[...]
 
 1 - O património do IDR, IP-RAM é constituído pela universalidade dos bens, direitos e obrigações de que é titular.
 
 2 - O IDR, IP-RAM, pode adquirir por compra ou locação os bens móveis e imóveis necessários à prossecução das suas atribuições, nos termos da legislação aplicável.
 
-###### Artigo 18º — [...]
+Artigo 18º
+
+[...]
 
 O pessoal do IDR, IP-RAM rege-se pelas normas aplicáveis aos funcionários e agentes da administração central e regional autónoma.
 
-###### Artigo 20º — [...]
+Artigo 20º
+
+[...]
 
 1 - Os estatutos do IDR, IP-RAM são aprovados nos termos previstos no artigo 7º, no prazo de 60 dias a contar da entrada em vigor do presente diploma.
 
 2 - Até à aprovação dos estatutos a que se refere o número anterior, manter-se-á a estrutura orgânica atualmente vigente, com as respetivas comissões de serviço e cargos dirigentes."
 
-###### Artigo 3º — Aditamento ao Decreto Legislativo Regional nº 18/2007/M, de 12 de novembro
+Artigo 3º
+
+Aditamento ao Decreto Legislativo Regional nº 18/2007/M, de 12 de novembro
 
 É aditado o artigo 18º-A ao Decreto Legislativo Regional nº 18/2007/M, de 12 de novembro, com a seguinte redação:
 
@@ -411,25 +469,35 @@ Recrutamento para cargos de direção intermédia
 
 Nos termos do nº 4 do artigo 20º da Lei nº 2/2004, de 15 de janeiro, alterada pelas Leis nºs 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 55-A/2010, de 31 de dezembro, e 64/2011, de 22 de dezembro, o recrutamento para os cargos de direção intermédia de unidades orgânicas com atribuições na área de gestão financeira é alargado aos trabalhadores em funções públicas integrados na carreira de Tesoureiro - Chefe com, pelo menos, 4 anos na categoria, ainda que não possuidores de curso superior.»
 
-###### Artigo 4º — Revogações
+Artigo 4º
+
+Revogações
 
 1 - São revogados o nº 2 do artigo 3º, as alíneas f) a r) do nº 1 e os n.os 3 e 4 do artigo 9º do Decreto Legislativo Regional nº 18/2007/M, de 12 de novembro.
 
 2 - São ainda revogados o [Decreto Regulamentar Regional n.º 15/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2008-456482), de 2 de julho, e a Portaria Conjunta nº 77/2010, de 19 de outubro, da Vice-Presidência do Governo Regional e da Secretaria Regional do Plano e Finanças.
 
-###### Artigo 5º — Regime transitório
+Artigo 5º
+
+Regime transitório
 
 Até à designação dos membros do conselho diretivo através de procedimento concursal, previsto no Estatuto do Pessoal Dirigente da Administração Pública, aprovado pela Lei nº 2/2004, de 15 de janeiro, alterada pelas Leis nºs 51/2005, de 30 de agosto, 64-A/2008, de 31 dezembro, 3-B/2010, de 28 de abril e 64/2011, de 22 de dezembro, aos membros do conselho diretivo do IDR, IP-RAM, é aplicável o disposto no artigo 6º da mencionada Lei nº 64/2011.
 
-###### Artigo 6º — Alteração global de designação
+Artigo 6º
+
+Alteração global de designação
 
 Todas as referências legais à designação abreviada "IDR" consideram-se reportadas à designação abreviada "IDR, IP-RAM".
 
-###### Artigo 7º — Republicação
+Artigo 7º
+
+Republicação
 
 É republicado em anexo ao presente diploma, do qual faz parte integrante, o Decreto Legislativo Regional nº 18/2007/M, de 12 de novembro, com a redação atual.
 
-###### Artigo 8º — Entrada em vigor e produção de efeitos
+Artigo 8º
+
+Entrada em vigor e produção de efeitos
 
 1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
@@ -437,41 +505,57 @@ Todas as referências legais à designação abreviada "IDR" consideram-se repor
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 15 de novembro de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 29 de novembro de 2012.**
+Assinado em 29 de novembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-## ANEXO — (a que se refere o artigo 8º)
+ANEXO
 
-### CAPÍTULO I — Criação, natureza e sede
+(a que se refere o artigo 8º)
 
-###### Artigo 1º — Criação
+CAPÍTULO I
+
+Criação, natureza e sede
+
+Artigo 1º
+
+Criação
 
 O presente diploma cria o Instituto de Desenvolvimento Regional, IP-RAM, adiante designado abreviadamente por IDR, IP-RAM, que resulta da extinção do Instituto de Gestão de Fundos Comunitários (IFC).
 
-###### Artigo 2º — Natureza e tutela
+Artigo 2º
+
+Natureza e tutela
 
 1 - O IDR, IP-RAM é uma pessoa coletiva de direito público, dotada de personalidade jurídica, de autonomia administrativa e financeira e património próprio, integrada na administração indireta da Região Autónoma da Madeira, adiante designada abreviadamente por RAM.
 
 2 - O IDR, IP-RAM prossegue as suas atribuições sob a tutela e a superintendência do Secretário Regional do Plano e Finanças, adiante designado abreviadamente por Secretário Regional.
 
-###### Artigo 3º — Jurisdição territorial e sede
+Artigo 3º
+
+Jurisdição territorial e sede
 
 1 - O IDR, IP-RAM tem a sua sede na cidade do Funchal e jurisdição na Região Autónoma da Madeira.
 
 2 - (Revogado.)
 
-### CAPÍTULO II — Missão e atribuições
+CAPÍTULO II
 
-###### Artigo 4º — Missão
+Missão e atribuições
+
+Artigo 4º
+
+Missão
 
 O IDR, IP-RAM tem por missão a coordenação das atividades de planeamento e de monitorização do modelo de desenvolvimento regional bem como a coordenação e gestão da intervenção dos fundos comunitários na RAM.
 
-###### Artigo 5º — Atribuições
+Artigo 5º
+
+Atribuições
 
 São atribuições do IDR, IP-RAM:
 
@@ -527,9 +611,13 @@ y) Promover a difusão dos estudos e trabalhos elaborados no âmbito das suas co
 
 z) Exercer as demais atribuições que lhe forem legalmente cometidas.
 
-### CAPÍTULO III — Órgãos, competências e funcionamento
+CAPÍTULO III
 
-###### Artigo 6º — Órgãos
+Órgãos, competências e funcionamento
+
+Artigo 6º
+
+Órgãos
 
 São órgãos do IDR, IP-RAM:
 
@@ -537,13 +625,19 @@ a) O conselho diretivo;
 
 b) O fiscal único.
 
-###### Artigo 7º — Estatutos
+Artigo 7º
+
+Estatutos
 
 O modo de funcionamento do IDR, IP-RAM, bem como as competências dos respetivos serviços e a estrutura interna, constam dos seus estatutos a aprovar nos termos da Lei.
 
-#### SECÇÃO I — De direção
+SECÇÃO I
 
-###### Artigo 8º — Composição, designação e competências
+De direção
+
+Artigo 8º
+
+Composição, designação e competências
 
 1 - O conselho diretivo é composto por um presidente e por dois vogais, designados por despacho do membro do Governo da tutela, na sequência de procedimento concursal, ao qual se aplicam, com as necessárias adaptações, as regras de recrutamento, seleção e provimento nos cargos de direção superior da administração pública.
 
@@ -579,7 +673,9 @@ n) Exercer os demais poderes previstos nos estatutos e que não sejam atribuído
 
 3 - O conselho diretivo pode delegar competências em qualquer dos seus membros.
 
-###### Artigo 9º — Competências do presidente
+Artigo 9º
+
+Competências do presidente
 
 1 - Compete, em particular, ao presidente do conselho diretivo:
 
@@ -625,13 +721,19 @@ r) (Revogado.)
 
 4 - (Revogado.)
 
-###### Artigo 10º — Competências dos vogais
+Artigo 10º
+
+Competências dos vogais
 
 Compete aos vogais a responsabilidade pela gestão das áreas funcionais de atividade do IDR, IP-RAM que lhe forem delegadas pelo conselho diretivo, competindo-lhes fazer executar os respetivos programas e planos de atividades.
 
-#### SECÇÃO II — De Fiscalização
+SECÇÃO II
 
-###### Artigo 11º — Função, designação, remuneração e mandato
+De Fiscalização
+
+Artigo 11º
+
+Função, designação, remuneração e mandato
 
 1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do IDR, IP-RAM.
 
@@ -641,7 +743,9 @@ Compete aos vogais a responsabilidade pela gestão das áreas funcionais de ativ
 
 4 - O mandato do fiscal único tem a duração de cinco anos podendo ser renovado uma única vez através de despacho dos membros do Governo referidos no nº 2.
 
-###### Artigo 12º — Competências
+Artigo 12º
+
+Competências
 
 Compete ao fiscal único:
 
@@ -653,9 +757,13 @@ c) Emitir parecer sobre qualquer assunto que lhe seja submetido pelo presidente 
 
 d) Exercer as demais competências previstas na Lei nº 3/2004, de 15 de janeiro, na sua atual redação.
 
-### CAPÍTULO IV — Gestão financeira e patrimonial
+CAPÍTULO IV
 
-###### Artigo 13º — Receitas
+Gestão financeira e patrimonial
+
+Artigo 13º
+
+Receitas
 
 Constituem receitas do IDR, IP-RAM:
 
@@ -673,7 +781,9 @@ f) Transferências relativas a fundos, intervenções ou projetos no âmbito das
 
 g) Quaisquer outras receitas não compreendidas nas alíneas anteriores que por lei, ato ou contrato lhe sejam atribuídas.
 
-###### Artigo 14º — Despesas
+Artigo 14º
+
+Despesas
 
 Constituem despesas do IDR, IP-RAM:
 
@@ -683,35 +793,51 @@ b) Os custos de aquisição, manutenção e conservação de bens ou serviços d
 
 c) Outros legalmente previstos ou permitidos.
 
-###### Artigo 15º — Relações com o sistema bancário e financeiro
+Artigo 15º
+
+Relações com o sistema bancário e financeiro
 
 1 - Compete ao IDR, IP-RAM nos termos da legislação aplicável, estabelecer relações com as instituições do sistema bancário e financeiro, designadamente, para a constituição de depósitos e para a contração de empréstimos, sempre que tal se revelar necessário à prossecução das suas atribuições.
 
 2 - A contração de empréstimos depende de prévia autorização do Secretário Regional.
 
-###### Artigo 16º — Isenções
+Artigo 16º
+
+Isenções
 
 O IDR, IP-RAM goza de todas as isenções reconhecidas por lei ao Estado e à RAM.
 
-###### Artigo 17º — Património
+Artigo 17º
+
+Património
 
 1 - O património do IDR, IP-RAM é constituído pela universalidade dos bens, direitos e obrigações de que é titular.
 
 2 - O IDR, IP-RAM pode adquirir por compra ou locação os bens móveis e imóveis necessários à prossecução das suas atribuições, nos termos da legislação aplicável.
 
-### CAPÍTULO V — Pessoal
+CAPÍTULO V
 
-###### Artigo 18º — Regime jurídico
+Pessoal
+
+Artigo 18º
+
+Regime jurídico
 
 O pessoal do IDR, IP-RAM rege-se pelas normas aplicáveis aos funcionários e agentes da administração central e regional autónoma.
 
-###### Artigo 18º-A — Recrutamento para cargos de direção intermédia
+Artigo 18º-A
+
+Recrutamento para cargos de direção intermédia
 
 Nos termos do nº 4 do artigo 20º da Lei nº 2/2004, de 15 de janeiro, alterada pelas Leis nºs 51/2005, de 30 de agosto, 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 55-A/2010, de 31 de dezembro, e 64/2011, de 22 de dezembro, o recrutamento para os cargos de direção intermédia de unidades orgânicas com atribuições na área de gestão financeira é alargado aos trabalhadores em funções públicas integrados na carreira de Tesoureiro - Chefe com, pelo menos, 4 anos na categoria, ainda que não possuidores de curso superior.
 
-### CAPÍTULO VI — Disposições finais e transitórias
+CAPÍTULO VI
 
-###### Artigo 19º — Sucessão
+Disposições finais e transitórias
+
+Artigo 19º
+
+Sucessão
 
 1 - O IDR sucede nas atribuições, nos direitos e obrigações do ora extinto IFC.
 
@@ -723,22 +849,30 @@ Nos termos do nº 4 do artigo 20º da Lei nº 2/2004, de 15 de janeiro, alterada
 
 5 - É extinta a estrutura de apoio técnico à Iniciativa Comunitária Interreg III B, instituída pelo despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional, de 10 de julho de 2002, integrando-se as suas atribuições e competências no IDR.
 
-###### Artigo 20º — Estatutos e transição do pessoal
+Artigo 20º
+
+Estatutos e transição do pessoal
 
 1 - Os estatutos do IDR, IP-RAM são aprovados nos termos previstos no artigo 7º, no prazo de 60 dias a contar da entrada em vigor do presente diploma.
 
 2 - Até à aprovação dos estatutos a que se refere o número anterior, manter-se-á a estrutura orgânica atualmente vigente, com as respetivas comissões de serviço e cargos dirigentes.
 
-###### Artigo 21º — Afetação e transição de pessoal
+Artigo 21º
+
+Afetação e transição de pessoal
 
 1 - O pessoal dos quadros do extinto IFC é afeto ao IDR.
 
 2 - A transição do pessoal referido no número anterior operar-se-á com a aprovação dos estatutos do IDR e respetivo quadro de pessoal através da lista nominativa homologada pelo secretário regional.
 
-###### Artigo 22º — Norma revogatória
+Artigo 22º
+
+Norma revogatória
 
 É revogado o Decreto Legislativo Regional nº 20/2001/M, de 2 de agosto.
 
-###### Artigo 23º — Entrada em vigor
+Artigo 23º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.

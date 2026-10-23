@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2006/04/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2006-653285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6e80b5013e9702ef3c9c399f396f3ac634fe6f253025d48532f35c8b7f60fc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f34af95fa01d009fb18785b5a59c8fee4413578ac889b217d6cbfe80d9affff8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Plano Director Municipal
 - Regulamento
 - Ribeira Grande
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:924485243:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114859421:por
+  label: Tornada pública a aprovação da suspensão do previsto no art. 83.º na área dos terrenos classificados na Planta de
+    Ordenamento do Regulamento do Plano Diretor Municipal da Ribeira Grande e do estabelecimento de medidas preventivas para
+    a mesma área pelo prazo de dois anos, pelo(a) Aviso n.º 3347/2018 - Diário da República n.º 51/2018, Série II de 2018-03-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/3347-2018-114859421
+  date: '2018-03-13'
+- type: amended_by
+  target: pt:dre:924485243:por
+  label: Tornado público a suspensão parcial do Plano Diretor Municipal da Ribeira Grande, constante do artigo 47.º do regulamento
+    do Plano Diretor Municipal da Ribeira Grande, publicado em anexo, pelo(a) Decreto Regulamentar Regional n.º 18/2025/A
+    - Diário da República n.º 132/2025, Série I de 2025-07-11, nos termos dos seus artigos 2.º e 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2025-924485243
+  date: '2025-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2003/12/10/p/dre
   label: null
@@ -114,16 +128,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1/1992/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1/1992/01/02/p/dre
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633146:por
+  label: null
+  source: null
 article_structure:
   article_count: 134
-  section_count: 45
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 50
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:12Z'
   warnings: []
   errors: []
 ---
@@ -292,17 +406,17 @@ O Plano Director Municipal da Ribeira Grande entra em vigor no dia seguinte ao d
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 31 de Janeiro de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 20 de Março de 2006.**
+Assinado em Angra do Heroísmo em 20 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO N.º 1 — REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DA RIBEIRA GRANDE
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Âmbito
 
@@ -414,7 +528,7 @@ a) «Servidões» - o encargo imposto pela lei sobre certo prédio em proveito d
 
 b) «Zona non aedificandi» - a zona onde é proibida a construção de novas edificações. Estas zonas constituem servidões administrativas e são instituídas normalmente ao longo das vias rápidas, das zonas de protecção de aeroportos e da zona de protecção de edifícios classificados.
 
-# PARTE II — Servidões administrativas e restrições de utilidade pública
+## PARTE II — Servidões administrativas e restrições de utilidade pública
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -686,7 +800,7 @@ c) A implantação de qualquer obstáculo, fixo ou móvel, só poderá ser autor
 
 Nas zonas de desobstrução é proibida a implantação ou manutenção de edifícios ou de outros obstáculos que distem 10 m do elipsóide da primeira zona de Fresnel.
 
-# PARTE III — Das classes de espaços
+## PARTE III — Das classes de espaços
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -1594,7 +1708,7 @@ O aterro de resíduos inertes sito nas Alminhas segue a legislação aplicável 
 
 A protecção dos corredores eléctricos encontra-se consignada no artigo 22.º do presente Regulamento.
 
-# PARTE IV
+## PARTE IV
 
 Das unidades operativas de planeamento e gestão e das regras de negociação, participação e informação.
 
@@ -1710,7 +1824,7 @@ b) Se tiverem passado três anos do início da vigência do POOC sem que se tenh
 
 Nos espaços urbanizáveis a sujeitar a plano de pormenor (PP) nos termos do presente PDM, não será permitida a abertura de novos arruamentos até à entrada em vigor daqueles planos, com excepção dos já representados na planta de ordenamento do PDM, excepto se decorrerem da delimitação de uma unidade de execução.
 
-# PARTE V — Disposições finais e transitórias
+## PARTE V — Disposições finais e transitórias
 
 ### CAPÍTULO I — Património a classificar
 
@@ -1860,12 +1974,12 @@ O PDM entra em vigor no dia seguinte ao da data da sua publicação.
 
 ## ANEXO N.º 2 — Planta de ordenamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/071b00/27092728.pdf))](https://files.diariodarepublica.pt/1s/2006/04/071b00/27092728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/071b00/27092728.pdf)
 
 ## ANEXO N.º 3 — Planta de condicionantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/071b00/27092728.pdf))](https://files.diariodarepublica.pt/1s/2006/04/071b00/27092728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/071b00/27092728.pdf)
 
 ## ANEXO N.º 4 — Delimitação da pedreira da Eirinha, na freguesia da Ribeira Seca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/071b00/27092728.pdf))](https://files.diariodarepublica.pt/1s/2006/04/071b00/27092728.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/071b00/27092728.pdf)

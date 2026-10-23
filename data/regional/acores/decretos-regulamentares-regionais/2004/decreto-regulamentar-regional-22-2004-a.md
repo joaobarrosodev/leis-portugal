@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/2004/07/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2004-517637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3c936b9d4f764f992a3c948b8d8eb4a78c9adc49976d49855bc26dde8931f90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ded811f67b575616b5c558a6b282977effaed054d2f553435029b5159de73e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
+- Centro de Saúde
+- Estabelecimento Hospitalar
 - Horta
 - Hospital do Divino Espírito Santo
-- Centro de Saúde
 - Nordeste
 - Ponta Delgada
 - Póvoação
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Estabelecimento Hospitalar
 - Ribeira Grande
 - Santa CRUZ da Graciosa
 - Santa CRUZ das Flores
-- Açores
 - VILA do Porto
 - VILA Franca do Campo
 relationships:
@@ -88,6 +88,24 @@ relationships:
   target: pt:dre:242018:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:625181:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 17/96/A de 26-Nov, com a redacção do presente diploma, pelo DRR.31/2004/A.16.07.2004.PG-RAA,\
+    \ DR.IS-B [200] de 25.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2004-625181
+  date: '2004-07-16'
+- type: amended_by
+  target: pt:dre:603270:por
+  label: "Alterado o quadro de pessoal do Hospital do Divino Espírito Santo aprovado pelo DRR 17/96/A de 26-Mar, com a redacção\
+    \ dada pelo presente diploma, pelo DRR.4/2005/A.24.01.2005.PG-RAA, DR.IS-B [33] de 16.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2005-603270
+  date: '2005-01-24'
+- type: amended_by
+  target: pt:dre:242018:por
+  label: "Alterado o quadro de pessoal do Hospital da Horta, aprovado pelo DRR 18/92/A, de 22-Abr, alterado pelo presente\
+    \ diploma, pelo DRR.17/2005/A.12.07.2005.PG-RAA, DR.IS-B [151] de 08.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2005-242018
+  date: '2005-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/413/1999/10/15/p/dre
   label: null
@@ -96,16 +114,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/28/1999/07/31/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/28/1999/07/31/a/dre
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667145:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:53Z'
   warnings: []
   errors: []
 ---
@@ -124,12 +150,12 @@ Os quadros de pessoal do Hospital do Divino Espírito Santo, do Hospital da Hort
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 4 de Maio de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 8 de Junho de 2004.**
+Assinado em Angra do Heroísmo em 8 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — [(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2004/07/153b00/40274031.pdf)

@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-1981-577097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54de5730eb2b247b2f5ec8602578c76309de9bf93d6220b0068ac92d8a8859dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18c138642fdfc06db2e78b41601af1361159f9088a7ab03a20740194eb7ddaac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Comunicação Social
+- Direcção Regional da Comunicação Social
+- Reestruturação de Carreiras
+- Reestruturação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:377537:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:29Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +100,7 @@ Nestes termos:
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A carreira de redactor desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe (letras I, J e K).
+Artigo 1.º - 1 - A carreira de redactor desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe (letras I, J e K).
 
 2 - Os lugares de redactor principal serão providos de entre redactores de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e comprovada formação e experiência profissionais.
 
@@ -103,7 +112,7 @@ O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º 
 
 6 - Os redactores contratados à data da entrada em vigor do presente diploma poderão ocupar os lugares do quadro do pessoal em anexo mediante proposta do director regional da Comunicação Social, sem prejuízo, porém, das habilitações literárias.
 
-###### Art. 2.º - 1 - A Direcção Regional da Comunicação Social tem a sede em Ponta Delgada e delegações em Angra do Heroísmo e Horta, chefiadas por um chefe de delegação.
+Art. 2.º - 1 - A Direcção Regional da Comunicação Social tem a sede em Ponta Delgada e delegações em Angra do Heroísmo e Horta, chefiadas por um chefe de delegação.
 
 2 - O Gabinete de imprensa dos Açores tem a sede em Ponta Delgada e extensões em Angra do Heroísmo e Horta, integradas nas delegações da Direcção Regional, sendo chefiado por um coordenador.
 
@@ -139,20 +148,20 @@ d) Assegurar o envio aos serviços administrativos dos elementos respeitantes à
 
 e) Exercer os demais poderes que lhes forem delegados pelo director regional da Comunicação Social.
 
-###### Art. 3.º Os chefes das delegações são nomeados, sob proposta do director regional da Comunicação Social, em comissão de serviço, por dois anos, renováveis, de entre indivíduos de reconhecido mérito para o exercício do cargo.
+Art. 3.º Os chefes das delegações são nomeados, sob proposta do director regional da Comunicação Social, em comissão de serviço, por dois anos, renováveis, de entre indivíduos de reconhecido mérito para o exercício do cargo.
 
-###### Art. 4.º Ficam revogados os artigos 5.º e 9.º do [Decreto Regulamentar Regional n.º 18/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1979-377537), de 16 de Agosto.
+Art. 4.º Ficam revogados os artigos 5.º e 9.º do [Decreto Regulamentar Regional n.º 18/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1979-377537), de 16 de Agosto.
 
 Aprovado pelo Governo Regional em 4 de Junho de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 17 de Julho de 1981.**
+Assinado em Angra do Heroísmo em 17 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/17900/20292030.pdf))](https://files.diariodarepublica.pt/1s/1981/08/17900/20292030.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/17900/20292030.pdf)
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

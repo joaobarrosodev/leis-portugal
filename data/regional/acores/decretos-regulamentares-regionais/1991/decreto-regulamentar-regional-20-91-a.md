@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/1991/07/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1991-673384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7b56bbbf708e7e1906fb7aac6cf8a4ec7c653b5301899562eb296846a8330d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d067efe6a3376218c5d539895d6c08e88803bd51de193d995d960918818a27e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,71 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Açores
 - Museu
 - Museu Carlos Machado
 - Pessoal Técnico Auxiliar
 - Quadro de Pessoal
-- Açores
-relationships: []
+- Reestruturação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:47Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +144,15 @@ Considerando, ainda, a necessidade de criar uma norma transitória que possibili
 
 Assim, em execução do artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 14.º, 15.º e 22.º do [Decreto Regulamentar Regional n.º 54/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/54-1980-458231), de 18 de Novembro, com a alteração que lhe foi introduzida pelo [Decreto Regulamentar Regional n.º 11/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1989-614640), de 31 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 14.º, 15.º e 22.º do [Decreto Regulamentar Regional n.º 54/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/54-1980-458231), de 18 de Novembro, com a alteração que lhe foi introduzida pelo [Decreto Regulamentar Regional n.º 11/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1989-614640), de 31 de Março, passam a ter a seguinte redacção:
 
-###### Art. 14.º Ao recrutamento, qualificação e reestruturação de carreiras dos quadros de pessoal dos museus da Região Autónoma dos Açores aplicam-se as normas contidas no [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março, no [Decreto-Lei n.º 77/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1987-662953), de 14 de Fevereiro, no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, adaptado à Região pelo Decreto Legislativo Regional n.º 13/86/A, de 21 de Abril, e no [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, adaptado à Região pelo [Decreto Legislativo Regional n.º 34/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-1988-354279), de 19 de Outubro, em tudo o que não esteja expressamente regulado neste diploma.
+Art. 14.º Ao recrutamento, qualificação e reestruturação de carreiras dos quadros de pessoal dos museus da Região Autónoma dos Açores aplicam-se as normas contidas no [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março, no [Decreto-Lei n.º 77/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1987-662953), de 14 de Fevereiro, no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, adaptado à Região pelo Decreto Legislativo Regional n.º 13/86/A, de 21 de Abril, e no [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, adaptado à Região pelo [Decreto Legislativo Regional n.º 34/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-1988-354279), de 19 de Outubro, em tudo o que não esteja expressamente regulado neste diploma.
 
-###### Art. 15.º - 1 - Os directores dos museus são nomeados em comissão de serviço, de entre conservadores ou técnicos superiores que exerçam funções em museus, nos termos previstos no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, adaptado à Região pelo [Decreto Legislativo Regional n.º 1/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1990-333550), de 15 de Janeiro.
+Art. 15.º - 1 - Os directores dos museus são nomeados em comissão de serviço, de entre conservadores ou técnicos superiores que exerçam funções em museus, nos termos previstos no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, adaptado à Região pelo [Decreto Legislativo Regional n.º 1/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1990-333550), de 15 de Janeiro.
 
 2 - Os directores dos Museus de Carlos Machado e de Angra do Heroísmo são equiparados a directores de serviços e o da Horta a chefe de divisão.
 
-###### Art. 22.º - 1 - Ao recrutamento, qualificação e estruturação das carreiras do quadro de pessoal do Centro aplica-se o disposto no [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho, com as alterações introduzidas pelo [Decreto-Lei n.º 25/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1987-663513), de 13 de Janeiro, e o artigo 14.º do presente diploma.
+Art. 22.º - 1 - Ao recrutamento, qualificação e estruturação das carreiras do quadro de pessoal do Centro aplica-se o disposto no [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), de 22 de Julho, com as alterações introduzidas pelo [Decreto-Lei n.º 25/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1987-663513), de 13 de Janeiro, e o artigo 14.º do presente diploma.
 
 2 - O Centro terá um técnico-chefe nomeado em comissão de serviço, por um período de três anos, de entre os técnicos que nele exerçam funções, o qual vencerá pela letra imediatamente superior à que detém na respectiva carreira.
 
@@ -116,40 +164,40 @@ Assim, em execução do artigo 17.º do [Decreto Regional n.º 30/82/A](https://
 
 6 - (Igual ao actual n.º 5.)
 
-###### Art. 2.º Os quadros de pessoal dos museus da Região e do Centro de Estudo, Conservação e Restauro de Obras de Arte são os constantes dos mapas I, II, III e IV anexos ao presente diploma, do qual fazem parte integrante.
+Art. 2.º Os quadros de pessoal dos museus da Região e do Centro de Estudo, Conservação e Restauro de Obras de Arte são os constantes dos mapas I, II, III e IV anexos ao presente diploma, do qual fazem parte integrante.
 
-###### Art. 3.º Ficam revogados os artigos 17.º, 18.º e 19.º do [Decreto Regulamentar Regional n.º 54/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/54-1980-458231), de 18 de Novembro.
+Art. 3.º Ficam revogados os artigos 17.º, 18.º e 19.º do [Decreto Regulamentar Regional n.º 54/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/54-1980-458231), de 18 de Novembro.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 19 de Dezembro de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 12 de Junho de 1991.**
+Assinado em Angra do Heroísmo em 12 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 MAPA I A QUE SE REFERE O ARTIGO 2.º
 
 MUSEU DE ANGRA DO HEROÍSMO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf))](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf)
 
 MAPA II A QUE SE REFERE O ARTIGO 2.º
 
 MUSEU CARLOS MACHADO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf))](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf)
 
 MAPA III A QUE SE REFERE O ARTIGO 2.º
 
 MUSEU DA HORTA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf))](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf)
 
 MAPA IV A QUE SE REFERE O ARTIGO 2.º
 
 CENTRO DE ESTUDO, CONSERVAÇÃO E RESTAURO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf))](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/157b00/35263527.pdf)

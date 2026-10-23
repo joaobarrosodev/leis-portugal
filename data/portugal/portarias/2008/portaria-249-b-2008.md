@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 63/2008, 1º Suplemento, Série I de 2008-03-31
   number: '63'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1892-(2) a 1892-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/06301/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/249-b/2008/03/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-b-2008-686792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b01e45fcfc50c43af17c18d82e7459a809f314409a5743fd89832598b2f320c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c92ce9bd614c2a4e04cc94072198b4a0e71f36ff253872e958c1a1679439856a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gestão de Resíduos
-- Resíduo
-- Tratamento de Resíduos
 - Regulamento
+- Resíduo
 - Sirer
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:150908012:por
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/207/2006/10/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/207/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:150908012:por
+  label: Revogado, a partir de 15.12.2020 e com efeitos a 01.07.2021, pelo(a) Decreto-Lei n.º 102-D/2020 - Diário da República
+    n.º 239/2020, 1º Suplemento, Série I de 2020-12-10, nos termos do disposto nos seus arts. 17.º e 19.º, e determinado,
+    nos termos do disposto no seu art. 16.º, que as remissões legais e regulamentares que lhe sejam feitas se considerem feitas
+    para aquele diploma e para a legislação e regulamentação complementar nele prevista.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-d-2020-150908012
+  date: '2020-12-10'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:08Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +148,4 @@ Os dados relativos ao ano de 2007 que, à data de publicação da presente porta
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 28 de Março de 2008.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 28 de Março de 2008.

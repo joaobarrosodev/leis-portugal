@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/09/211b00/48214826.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/2000/09/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2000-572084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d5e5afeb185d238a3ad0a30ae624beb61a8e4d72b33430cded6dbc33e975868
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2fff82c8c9a39a5f66073b6c3af2b2187bc2fcc35b2e492182fd1a0d0a92db1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Secretário Regional da Presidência para as Finanças e Planeamento
+- Açores
 - Concurso
-- Governo Regional
 - Definição de Competências
-- Presidência do Governo Regional
 - Direcção Regional das Comunidades
-- Secretaria Geral
 - Gabinete Técnico
-- Presidente do Governo Regional
-- Recrutamento de Pessoal
+- Gestão de Recursos Humanos
+- Governo Regional
 - Integração de Trabalhadores
 - Orgânica
+- Pessoal Dirigente
+- Presidência do Governo Regional
+- Presidente do Governo Regional
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Secretaria Geral
 - Secretário Regional Adjunto da Presidência
-- Gestão de Recursos Humanos
-- Açores
+- Secretário Regional da Presidência para as Finanças e Planeamento
 relationships:
 - type: amended_by
   target: pt:dre:533409:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580616:por
+  label: "Alterado o quadro de pessoal constante do Anexo II pelo DRR.21/2003/A.2003.04.08.PG-RAA, DR.IS-B [106] de 8/Mai/2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2003-580616
+  date: '2003-04-08'
+- type: amended_by
+  target: pt:dre:625186:por
+  label: "Alterado o quadro de pessoal constante dos anexos I e II do presente diploma, com a redacção do DRR 21/2003/A de\
+    \ 08-Mai, pelo DRR.30/2004/A.16.07.2004.PG-RAA, DR.IS-B [200] de 25.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-2004-625186
+  date: '2004-07-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2000/02/11/p/dre
   label: null
@@ -123,16 +135,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533409:por
+  label: "Revogado pelo DRR.5/2006/A.19.12.2005.PG-RAA, DR.IS-B [11] de 16.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2006-533409
+  date: '2005-12-19'
 article_structure:
-  article_count: 31
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 32
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:17Z'
   warnings: []
   errors: []
 ---
@@ -163,17 +216,19 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Julho de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 22 de Agosto de 2000.**
+Assinado em Angra do Heroísmo em 22 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO I — Orgânica da Presidência do Governo Regional
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Estrutura
 
@@ -283,7 +338,9 @@ c) O Gabinete de Apoio à Comunicação Social;
 
 d) O Gabinete do Protocolo e Relações Públicas.
 
-##### DIVISÃO I — Divisão administrativa e financeira
+##### DIVISÃO I
+
+##### Divisão administrativa e financeira
 
 ###### Artigo 8.º — Definição e competência
 
@@ -309,7 +366,9 @@ b) Secção de Expediente, Arquivo e Documentação;
 
 c) Secção de Orçamento, Contabilidade e Património.
 
-###### Artigo 9.º — Secção de Expediente, Arquivo e Documentação
+###### Artigo 9.º
+
+#### Secção de Expediente, Arquivo e Documentação
 
 Compete à Secção de Expediente, Arquivo e Documentação:
 
@@ -333,7 +392,9 @@ i) Emitir certidões dos documentos existentes no arquivo da Secretaria-Geral;
 
 j) Proceder à organização, instrução, estudo e informação de processos.
 
-###### Artigo 10.º — Secção de Pessoal
+###### Artigo 10.º
+
+#### Secção de Pessoal
 
 À Secção de Pessoal compete, designadamente:
 
@@ -351,7 +412,9 @@ f) Orientar o serviço de limpeza, quer o assegurado internamente quer o que est
 
 g) Proceder à organização, instrução, estudo e informação de processos.
 
-###### Artigo 11.º — Secção de Orçamento, Contabilidade e Património
+###### Artigo 11.º
+
+#### Secção de Orçamento, Contabilidade e Património
 
 Compete à Secção de Orçamento, Contabilidade e Património:
 

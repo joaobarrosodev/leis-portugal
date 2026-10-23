@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15100/0409704136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2014/08/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2014-55235838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e79bd2cdfc9743503ebc40d7ba41c97e263bf2081ed4bad416568f0cd747979
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0018429762fe029a445dfb9186245ef9cbc0000ec90a7dd99a7fc49d9f70db96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ADSE
 - Centro de Informação
 - Centro de Informática
 - Centro Regional de Apoio ao Artesanato
-- Pessoal Dirigente
 - Comissão de Serviço
-- Governo Regional
+- Conselho Consultivo
 - Criação de Serviços
 - Definição de Competências
+- Direcção Regional de Apoio ao Investimento e a Competitividade
 - Direcção Regional de Organização e Administração Pública
+- Direcção Regional do Orçamento e Tesouro
 - Direcção Regional do Planeamento e Fundos Estruturais
 - Extinção de Serviços
 - Gabinete Governamental
-- Presidente do Governo Regional
+- Governo Regional
 - Inspecção Regional das Actividades Económicas
-- Conselho Consultivo
+- Inspecção Regional do Trabalho
 - Membros do Governo
 - Orgânica
 - Pessoal de Chefia
 - Pessoal de Gabinete
-- Direcção Regional do Orçamento e Tesouro
+- Pessoal Dirigente
+- Presidente do Governo Regional
 - Quadro de Pessoal
-- Direcção Regional de Apoio ao Investimento e a Competitividade
-- Inspecção Regional do Trabalho
 - Serviço Regional de Estatística dos Açores
-- Açores
 - Transferência de Competências
 - Transferência de Serviços
 - Tutela
@@ -110,16 +110,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/7/2013/07/11/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/7/2013/07/11/a/dre
+- type: repealed_by
+  target: pt:dre:165129793:por
+  label: Revogadas, a partir de 16.06.2021, as normas que colidam com as competências do Vice-Presidente do Governo Regional
+    em matérias de cooperação com o poder local e assuntos eleitorais, constantes do DRR 7/2013/A de 11-jul, na versão alterada
+    e republicada pelo presente diploma, pelo(a) Decreto Regulamentar Regional n.º 8/2021/A - Diáo da República n.º 114/2021,
+    Série I de 2021-06-15, com as atribuídas por este último diploma, nos termos do disposto no seu art. 6.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2021-165129793
+  date: '2021-06-15'
 article_structure:
-  article_count: 158
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:11Z'
   warnings: []
   errors: []
 ---
@@ -152,37 +160,51 @@ c) [...]
 
 2 - A coordenação do NGRHAO é assegurada por um trabalhador designado ao abrigo da alínea a) do n.º 2 do artigo 6.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os 2/2006/A, de 6 de janeiro, 8/2008/A, de 31 de março, e 17/2009/A, de 14 de outubro."
 
-###### Artigo 2.º — Alteração ao quadro de pessoal
+Artigo 2.º
+
+Alteração ao quadro de pessoal
 
 É criado o cargo de coordenador do Núcleo de Gestão de Recursos Humanos e Análise Organizacional, da Direção Regional de Organização e Administração Pública, no quadro de pessoal dirigente, de direção específica e de chefia, anexo ao Decreto Regulamentar Regional n.º 7/2013/A, de 11 de julho.
 
-###### Artigo 3.º — Republicação
+Artigo 3.º
+
+Republicação
 
 O Decreto Regulamentar Regional n.º 7/2013/A, de 11 de julho, bem como o quadro do pessoal dirigente, de direção específica e de chefia que correspondam a unidades orgânicas, é republicado em anexo ao presente diploma, com a alteração por este introduzida.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 13 de maio de 2014.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 23 de julho de 2014.**
+Assinado em Angra do Heroísmo em 23 de julho de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO — (republicação do Decreto Regulamentar Regional n.º 7/2013/A, de 11 de julho)
+ANEXO
 
-### CAPÍTULO I — Atribuições e competências
+(republicação do Decreto Regulamentar Regional n.º 7/2013/A, de 11 de julho)
 
-###### Artigo 1.º — Objeto
+CAPÍTULO I
+
+Atribuições e competências
+
+Artigo 1.º
+
+Objeto
 
 O presente diploma estabelece a orgânica dos serviços dependentes da Vice-Presidência, Emprego e Competitividade Empresarial (VPECE), bem como o quadro do pessoal dirigente, de direção específica e de chefia que correspondam a unidades orgânicas.
 
-###### Artigo 2.º — Atribuições
+Artigo 2.º
+
+Atribuições
 
 A VPECE é a entidade que propõe e executa as políticas do Governo Regional nas seguintes matérias:
 
@@ -232,7 +254,9 @@ v) Defesa do consumidor e da concorrência;
 
 w) Desenvolvimento e coesão regional.
 
-###### Artigo 3.º — Competências
+Artigo 3.º
+
+Competências
 
 1 - Compete ao vice-presidente do Governo Regional:
 
@@ -306,9 +330,13 @@ gg) Exercer os poderes de tutela e superintendência que lhe sejam atribuídos p
 
 3 - Para efeitos do disposto no número anterior, e sem prejuízo do disposto na lei, consideram-se atos de gestão corrente os que respeitem à gestão do pessoal, do equipamento, dos recursos orçamentais e de outros que constituam simples condição de exercício de competências.
 
-### CAPÍTULO II — Estrutura orgânica
+CAPÍTULO II
 
-###### Artigo 4.º — Estrutura geral
+Estrutura orgânica
+
+Artigo 4.º
+
+Estrutura geral
 
 1 - Na dependência do vice-presidente do Governo Regional funcionam os seguintes serviços:
 
@@ -362,13 +390,21 @@ b) Representar a VPECE no Conselho Coordenador da Avaliação dos Serviços Púb
 
 5 - Na dependência do vice-presidente do Governo Regional funciona, ainda, a Rede Integrada de Apoio ao Cidadão (RIAC), a qual consta de diploma próprio.
 
-### CAPÍTULO III — Órgãos e serviços
+CAPÍTULO III
 
-#### SECÇÃO I — Serviços executivos
+Órgãos e serviços
 
-##### SUBSECÇÃO I — Serviços Administrativos
+SECÇÃO I
 
-###### Artigo 5.º — Divisão dos Serviços Administrativos
+Serviços executivos
+
+SUBSECÇÃO I
+
+Serviços Administrativos
+
+Artigo 5.º
+
+Divisão dos Serviços Administrativos
 
 1 - A DSA funciona na dependência direta do vice-presidente do Governo Regional, ficando sedeada em Ponta Delgada e presta apoio instrumental de caráter administrativo.
 
@@ -378,7 +414,9 @@ a) Secção de Pessoal (SP);
 
 b) Secção de Expediente, Documentação e Arquivo (SEDA).
 
-###### Artigo 6.º — Competências da Divisão dos Serviços Administrativos
+Artigo 6.º
+
+Competências da Divisão dos Serviços Administrativos
 
 Cabe, genericamente, à DSA apoiar os serviços dependentes do vice-presidente do Governo Regional que exercem a sua atividade nas áreas de finanças, património, planeamento e privatizações, nos domínios dos recursos humanos, economato, expediente e arquivo, assegurando a execução das tarefas de caráter administrativo comuns aos diversos órgãos e serviços, competindo-lhe, designadamente:
 
@@ -388,7 +426,9 @@ b) Promover e assegurar todas as ações relativas à gestão corrente e provisi
 
 c) Assegurar todos os procedimentos administrativos relativos a assuntos de expediente geral e arquivo.
 
-###### Artigo 7.º — Competências da Secção de Pessoal
+Artigo 7.º
+
+Competências da Secção de Pessoal
 
 Compete à SP:
 
@@ -406,7 +446,9 @@ f) Promover ações de formação e aperfeiçoamento profissional do pessoal, co
 
 g) Organizar a receção e encaminhamento do público.
 
-###### Artigo 8.º — Competências da Secção de Expediente, Documentação e Arquivo
+Artigo 8.º
+
+Competências da Secção de Expediente, Documentação e Arquivo
 
 Compete à SEDA:
 
@@ -426,7 +468,9 @@ g) Emitir certidões dos documentos existentes no arquivo;
 
 h) Proceder à organização, instrução, estudo e informação de dados.
 
-###### Artigo 9.º — Centro de informação (Biblioteca, Arquivo e Documentação)
+Artigo 9.º
+
+Centro de informação (Biblioteca, Arquivo e Documentação)
 
 1 - Ao centro de informação compete:
 
@@ -468,7 +512,9 @@ r) Prestar apoio, no âmbito das suas competências, a todos os serviços da VPE
 
 2 - O centro de informação é dirigido por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 10.º — Divisão de Administração, ADSE, Passaportes e Licenças
+Artigo 10.º
+
+Divisão de Administração, ADSE, Passaportes e Licenças
 
 1 - A DAPL assegura a atividade de apoio administrativo ao gabinete do vice-presidente do Governo Regional, à DROAP e à Inspeção Regional da Administração Pública, bem como todo o expediente respeitante à ADSE, emissão de passaportes e licenças e a execução das normas de polícia administrativa para a Região.
 
@@ -488,7 +534,9 @@ b) Delegação da DAPL na ilha do Faial.
 
 4 - Ao chefe de divisão compete dirigir e coordenar os subcoordenadores das delegações.
 
-###### Artigo 11.º — Secção de Apoio Administrativo
+Artigo 11.º
+
+Secção de Apoio Administrativo
 
 À SAA compete:
 
@@ -508,7 +556,9 @@ g) Zelar pela segurança e conservação do património;
 
 h) Executar todos os serviços de caráter administrativo, designadamente assegurar o expediente, o arquivo e a documentação.
 
-###### Artigo 12.º — Secção da ADSE
+Artigo 12.º
+
+Secção da ADSE
 
 À SADSE compete:
 
@@ -516,7 +566,9 @@ a) Assegurar todo o expediente respeitante à ADSE na Região;
 
 b) Estudar e propor medidas de modernização e melhoria do serviço prestado.
 
-###### Artigo 13.º — Secção de Passaportes e Licenças
+Artigo 13.º
+
+Secção de Passaportes e Licenças
 
 À SPL compete:
 
@@ -532,7 +584,9 @@ e) Proceder ao registo das associações civis e canónicas da Região;
 
 f) Organizar os processos com vista à declaração de pessoas coletivas de utilidade pública por parte do Governo Regional.
 
-###### Artigo 14.º — Delegações da Divisão de Administração, ADSE, Passaportes e Licenças
+Artigo 14.º
+
+Delegações da Divisão de Administração, ADSE, Passaportes e Licenças
 
 1 - Às delegações da DAPL compete:
 
@@ -552,7 +606,9 @@ f) Apoiar a realização de atividades dos outros serviços diretamente dependen
 
 3 - As delegações da DAPL são dirigidas por subcoordenadores, aplicando-se-lhes o disposto no artigo 148.º
 
-###### Artigo 15.º — Centro de Informática
+Artigo 15.º
+
+Centro de Informática
 
 1 - O Centro de Informática para as áreas de administração pública regional e local, designado por CIAH, fica sedeado em Angra do Heroísmo, competindo-lhe:
 
@@ -584,9 +640,13 @@ m) Promover contactos com outros serviços de informática e organismos similare
 
 2 - O CIAH é dirigido por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-##### SUBSECÇÃO II — Centro Regional de Apoio ao Artesanato
+SUBSECÇÃO II
 
-###### Artigo 16.º — Natureza
+Centro Regional de Apoio ao Artesanato
+
+Artigo 16.º
+
+Natureza
 
 1 - O CRAA é o órgão executivo ao qual incumbe a execução da política regional nas áreas do desenvolvimento, da valorização dos produtos tradicionais, designadamente no artesanato regional e unidades produtivas artesanais, da formação profissional e da coordenação de iniciativas multifuncionais com desenvolvimento no meio local.
 
@@ -598,7 +658,9 @@ a) Coordenar toda a atividade do CRAA, garantindo o seu funcionamento;
 
 b) Elaborar o plano anual de atividades.
 
-###### Artigo 17.º — Competências
+Artigo 17.º
+
+Competências
 
 São competências do CRAA, nomeadamente:
 
@@ -640,13 +702,19 @@ r) Prestar apoio técnico aos projetos de turismo em espaço rural que integram 
 
 s) Dinamizar o artesanato regional, quer como elemento preservador de memória coletiva quer como atividade criadora com potencial económico.
 
-##### SUBSECÇÃO III — Direção Regional do Orçamento e Tesouro
+SUBSECÇÃO III
 
-###### Artigo 18.º — Natureza e missão
+Direção Regional do Orçamento e Tesouro
+
+Artigo 18.º
+
+Natureza e missão
 
 A DROT é o serviço executivo com atribuições nas áreas do orçamento, contabilidade pública regional, tesouro, crédito devido, seguros, património e setor público empresarial.
 
-###### Artigo 19.º — Competências
+Artigo 19.º
+
+Competências
 
 1 - No exercício das suas competências nas áreas referidas no artigo anterior, compete à DROT:
 
@@ -682,7 +750,9 @@ o) Proceder ao registo dos bens móveis e imóveis da Região.
 
 2 - O diretor regional do Orçamento e Tesouro poderá delegar nos respetivos dirigentes e chefias algumas das suas competências, nos termos da lei.
 
-###### Artigo 20.º — Estrutura
+Artigo 20.º
+
+Estrutura
 
 A DROT compreende:
 
@@ -692,7 +762,9 @@ b) A Direção de Serviços do Património (DSP);
 
 c) O Centro de Informática para a área das Finanças (CIF).
 
-###### Artigo 21.º — Direção de Serviços Financeiros e Orçamento
+Artigo 21.º
+
+Direção de Serviços Financeiros e Orçamento
 
 1 - A DSFO tem as seguintes competências:
 
@@ -742,7 +814,9 @@ c) Divisão de Fiscalidade e de Operações de Tesouraria (DFOT);
 
 d) Secção de Conferência de Informação Financeira (SCIF).
 
-###### Artigo 22.º — Divisão do Orçamento e Contabilidade
+Artigo 22.º
+
+Divisão do Orçamento e Contabilidade
 
 A DOC tem as seguintes competências:
 
@@ -762,7 +836,9 @@ g) Estudar e propor medidas fiscais de caráter normativo, em estreita colabora�
 
 h) Superintender, coordenar e prestar apoio em todas as matérias respeitantes aos orçamentos privativos dos serviços e fundos autónomos.
 
-###### Artigo 23.º — Divisões das delegações de contabilidade pública regional
+Artigo 23.º
+
+Divisões das delegações de contabilidade pública regional
 
 1 - As divisões das delegações de contabilidade pública regional estão sedeadas em Angra do Heroísmo, na Horta e em Ponta Delgada.
 
@@ -786,7 +862,9 @@ h) Acompanhar a execução orçamental e colaborar na preparação da informaç�
 
 3 - O recrutamento para a chefia das divisões, acima referidas, faz-se nos termos do regime geral, podendo também ser feito de acordo com o disposto no n.º 3 do artigo 20.º da Lei n.º 2/2004, de 15 de janeiro, adaptado à Região pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, de entre pessoal integrado na carreira específica de técnico contabilista.
 
-###### Artigo 24.º — Divisão de Fiscalidade e de Operações de Tesouraria
+Artigo 24.º
+
+Divisão de Fiscalidade e de Operações de Tesouraria
 
 1 - Compete à DFOT:
 
@@ -814,7 +892,9 @@ b) A Tesouraria da Horta (TH);
 
 c) A Tesouraria de Ponta Delgada (TPD).
 
-###### Artigo 25.º — Tesourarias da Região
+Artigo 25.º
+
+Tesourarias da Região
 
 1 - Às tesourarias da Região compete, de um modo geral, o controlo da movimentação e da utilização dos fundos da Região, no seu território, no país e no estrangeiro, bem como a respetiva contabilização.
 
@@ -828,7 +908,9 @@ c) O serviço de pagamento das despesas da Região;
 
 d) As ações e procedimentos necessários ao serviço de pagamento de juros, vendas e outras despesas, bem como quaisquer encargos decorrentes de contratos celebrados pelos entes representativos da Região.
 
-###### Artigo 26.º — Competências da Secção de Conferência de Informação Financeira
+Artigo 26.º
+
+Competências da Secção de Conferência de Informação Financeira
 
 Compete à SCIF:
 
@@ -844,7 +926,9 @@ e) Organizar e manter atualizado o inventário e o cadastro dos bens afetos às 
 
 f) Orientar o serviço de limpeza, quer o assegurado internamente quer o que estiver adjudicado a empresas privadas.
 
-###### Artigo 27.º — Direção de Serviços do Património
+Artigo 27.º
+
+Direção de Serviços do Património
 
 1 - São competências da DSP:
 
@@ -868,7 +952,9 @@ a) A Divisão de Estudos e Coordenação Patrimonial (DECP);
 
 b) O Serviço de Gestão Patrimonial (SGP).
 
-###### Artigo 28.º — Divisão de Estudos e Coordenação Patrimonial
+Artigo 28.º
+
+Divisão de Estudos e Coordenação Patrimonial
 
 São competências da DIGP:
 
@@ -886,7 +972,9 @@ f) Proceder à realização de inquéritos, sindicâncias e inspeções nas áre
 
 g) Assegurar, em geral, nos termos da lei, os demais atos de gestão patrimonial.
 
-###### Artigo 29.º — Serviço de Gestão Patrimonial
+Artigo 29.º
+
+Serviço de Gestão Patrimonial
 
 1 - O SGP é o serviço da DSP que assegura a gestão patrimonial dos bens imóveis, móveis e semoventes, ao qual compete, designadamente:
 
@@ -916,7 +1004,9 @@ l) Desempenhar outras tarefas ou atividades indicadas por determinação superio
 
 2 - O SGP é coordenado por um subdiretor de gestão patrimonial da carreira técnica do património.
 
-###### Artigo 30.º — Centro de Informática para a área das Finanças
+Artigo 30.º
+
+Centro de Informática para a área das Finanças
 
 1 - O CIF fica sedeado em Ponta Delgada e compete-lhe:
 
@@ -932,13 +1022,19 @@ e) Apoiar tecnicamente os utilizadores do sistema informático e propor a defini
 
 2 - O CIF é chefiado por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-##### SUBSECÇÃO IV — Direção Regional do Planeamento e Fundos Estruturais
+SUBSECÇÃO IV
 
-###### Artigo 31.º — Natureza e missão
+Direção Regional do Planeamento e Fundos Estruturais
+
+Artigo 31.º
+
+Natureza e missão
 
 A DRPFE é o serviço de caráter executivo da VPECE responsável pela preparação e elaboração do Plano Regional e das intervenções com apoios comunitários na Região e pela promoção de estudos de natureza socioeconómica e de avaliação da execução da política europeia de coesão.
 
-###### Artigo 32.º — Competências
+Artigo 32.º
+
+Competências
 
 À DRPFE compete, designadamente:
 
@@ -960,7 +1056,9 @@ h) Exercer as funções de gestão, de acompanhamento e monitorização estraté
 
 i) Recolher e conservar todos os estudos, relatórios, projetos e outros documentos relacionados com a análise e desenvolvimento da Região, facultando a sua consulta às entidades interessadas, desde que tal não constitua prejuízo para terceiros e para os objetivos que determinaram a respetiva elaboração.
 
-###### Artigo 33.º — Estrutura
+Artigo 33.º
+
+Estrutura
 
 A DRPFE compreende os seguintes serviços:
 
@@ -968,7 +1066,9 @@ a) Secção de Apoio à DRPFE (SA);
 
 b) Direção de Serviços de Planeamento e Programação (DSPP).
 
-###### Artigo 34.º — Competências da Secção de Apoio à DRPFE
+Artigo 34.º
+
+Competências da Secção de Apoio à DRPFE
 
 Compete à SA:
 
@@ -982,7 +1082,9 @@ d) Assegurar as tarefas de conservação de documentação em suporte de papel, 
 
 e) Prestar apoio a todos os serviços da DRPFE.
 
-###### Artigo 35.º — Direção de Serviços de Planeamento e Programação
+Artigo 35.º
+
+Direção de Serviços de Planeamento e Programação
 
 1 - Compete à DSPP:
 
@@ -1008,7 +1110,9 @@ a) Divisão de Planeamento (DP);
 
 b) Divisão de Programação e Monitorização (DPM).
 
-###### Artigo 36.º — Divisão de Planeamento
+Artigo 36.º
+
+Divisão de Planeamento
 
 Compete à DP:
 
@@ -1024,7 +1128,9 @@ e) Preparar e participar nos trabalhos da comissão técnica de planeamento;
 
 f) Manter uma análise permanente da realidade social, económica e financeira da Região, elaborando estudos de conjuntura.
 
-###### Artigo 37.º — Divisão de Programação e Monitorização
+Artigo 37.º
+
+Divisão de Programação e Monitorização
 
 Compete à DPM:
 
@@ -1038,19 +1144,27 @@ d) Executar tarefas no domínio das políticas horizontais, designadamente na ve
 
 e) Exercer as tarefas e elaborar os relatórios de monitorização estratégica, designadamente os solicitados pelas autoridades nacionais e comunitárias.
 
-##### SUBSECÇÃO V — Direção Regional de Organização e Administração Pública
+SUBSECÇÃO V
 
-###### Artigo 38.º — Natureza
+Direção Regional de Organização e Administração Pública
+
+Artigo 38.º
+
+Natureza
 
 A DROAP é o serviço executivo da VPECE com competências nas áreas da administração pública regional e local, assim como nos assuntos eleitorais.
 
-###### Artigo 39.º — Missão
+Artigo 39.º
+
+Missão
 
 A DROAP tem por missão promover, acompanhar,
 
 coordenar e executar medidas de excelência que permitam a melhoria contínua da administração pública da Região, ao serviço do cidadão.
 
-###### Artigo 40.º — Competências
+Artigo 40.º
+
+Competências
 
 1 - À DROAP compete:
 
@@ -1080,7 +1194,9 @@ k) Emitir os necessários pareceres tendo em vista habilitar a tomada de posiç�
 
 3 - O diretor regional pode, nos termos da lei, delegar competências nos respetivos dirigentes.
 
-###### Artigo 41.º — Estrutura
+Artigo 41.º
+
+Estrutura
 
 A DROAP compreende os seguintes serviços:
 
@@ -1094,7 +1210,9 @@ i) Direção de Serviços de Modernização e Gestão Financeira (DSMGF);
 
 ii) Direção de Serviços Jurídicos e do Ordenamento do Território (DSJOT).
 
-###### Artigo 42.º — Conselho da Qualidade
+Artigo 42.º
+
+Conselho da Qualidade
 
 1 - O Conselho da Qualidade é o órgão de apoio à tomada de decisões inerentes ao Sistema de Gestão da Qualidade (SGQ) da DROAP.
 
@@ -1104,7 +1222,9 @@ ii) Direção de Serviços Jurídicos e do Ordenamento do Território (DSJOT).
 
 4 - O Conselho da Qualidade é composto pelo diretor regional, que preside, pelo gestor da qualidade, pelos dirigentes intermédios e por trabalhadores com funções de coordenação.
 
-###### Artigo 43.º — Direção de Serviços de Modernização e Gestão Financeira
+Artigo 43.º
+
+Direção de Serviços de Modernização e Gestão Financeira
 
 1 - Compete à DSMGF:
 
@@ -1138,7 +1258,9 @@ b) Divisão de Estudos e Análise Financeira (DEAF);
 
 c) Núcleo de Gestão de Recursos Humanos e Análise Organizacional (NGRHAO).
 
-###### Artigo 44.º — Divisão de Modernização e Conceção Organizacional
+Artigo 44.º
+
+Divisão de Modernização e Conceção Organizacional
 
 1 - Compete à DiMCO:
 
@@ -1182,7 +1304,9 @@ h) Assegurar o funcionamento do Sistema de Segurança, Higiene e Saúde no Traba
 
 i) Exercer as demais funções que, dentro da sua área funcional, lhe sejam superiormente atribuídas.
 
-###### Artigo 45.º — Divisão de Estudos e Análise Financeira
+Artigo 45.º
+
+Divisão de Estudos e Análise Financeira
 
 Compete à DEAF:
 
@@ -1214,7 +1338,9 @@ m) Assegurar o processamento e o pagamento de verbas, no âmbito da legislação
 
 n) Coordenar o apoio técnico e financeiro à atuação dos serviços sociais do funcionalismo público regional, bem como o apoio socioeconómico aos trabalhadores em situações socialmente gravosas e urgentes, e assegurar o processamento e o pagamento das respetivas verbas atribuídas.
 
-###### Artigo 46.º — Núcleo de Gestão de Recursos Humanos e Análise Organizacional
+Artigo 46.º
+
+Núcleo de Gestão de Recursos Humanos e Análise Organizacional
 
 1 - Compete ao NGRHAO:
 
@@ -1226,7 +1352,9 @@ c) Analisar o impacte financeiro das propostas de criação, modificação ou ex
 
 2 - A coordenação do NGRHAO é assegurada por um trabalhador designado ao abrigo da alínea a) do n.º 2 do artigo 6.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os 2/2006/A, de 6 de janeiro, 8/2008/A, de 31 de março, e 17/2009/A, de 14 de outubro.
 
-###### Artigo 47.º — Direção de Serviços Jurídicos e do Ordenamento do Território
+Artigo 47.º
+
+Direção de Serviços Jurídicos e do Ordenamento do Território
 
 1 - Compete à DSJOT:
 
@@ -1256,7 +1384,9 @@ b) Divisão dos Assuntos Jurídicos e Eleitorais (DAJE);
 
 c) Divisão de Informação Geográfica e Ordenamento do Território Municipal (DIGOT)
 
-###### Artigo 48.º — Divisão da Função Pública
+Artigo 48.º
+
+Divisão da Função Pública
 
 Compete à DFP:
 
@@ -1272,7 +1402,9 @@ e) Analisar, no plano jurídico, as propostas de diplomas orgânicos dos serviç
 
 f) Instruir os processos do ponto de vista da legalidade tendo em vista a tomada de posição do vice-presidente do Governo Regional sobre pedidos de mobilidade e sobre todas as admissões de pessoal na administração pública regional, nesta se incluindo as contratações a termo resolutivo ou em regime de prestação de serviços, designadamente tarefa e avença.
 
-###### Artigo 49.º — Divisão dos Assuntos Jurídicos e Eleitorais
+Artigo 49.º
+
+Divisão dos Assuntos Jurídicos e Eleitorais
 
 Compete à DAJE:
 
@@ -1294,7 +1426,9 @@ h) Executar, em matéria de eleições, as funções atribuídas por lei ao Gove
 
 i) Promover ações de divulgação e esclarecimento junto dos eleitores, comissões recenseadoras e órgãos autárquicos.
 
-###### Artigo 50.º — Divisão de Informação Geográfica e Ordenamento do Território Municipal
+Artigo 50.º
+
+Divisão de Informação Geográfica e Ordenamento do Território Municipal
 
 Compete à DIGOT:
 
@@ -1318,9 +1452,13 @@ i) Garantir a interoperabilidade do POLAR, designadamente com a infraestrutura d
 
 j) Participar em comissões ou grupos de trabalho, constituídos no âmbito do ordenamento do território, da informação geográfica e áreas afins.
 
-##### SUBSECÇÃO VI — Serviço Regional de Estatística dos Açores
+SUBSECÇÃO VI
 
-###### Artigo 51.º — Natureza
+Serviço Regional de Estatística dos Açores
+
+Artigo 51.º
+
+Natureza
 
 1 - O Serviço Regional de Estatística, adiante designado por SREA, funciona como autoridade estatística para as estatísticas oficiais de interesse exclusivo da Região e como delegação do Instituto Nacional de Estatística, IP (INE, I. P.) para as estatísticas oficiais de âmbito nacional.
 
@@ -1328,7 +1466,9 @@ j) Participar em comissões ou grupos de trabalho, constituídos no âmbito do o
 
 3 - O SREA encontra-se na dependência do vice-presidente do Governo Regional.
 
-###### Artigo 52.º — Missão e atribuições
+Artigo 52.º
+
+Missão e atribuições
 
 1 - O SREA tem por missão a produção e divulgação de informação estatística oficial de qualidade, contribuindo para a cidadania e para o desenvolvimento de uma sociedade do conhecimento e em mudança.
 
@@ -1348,11 +1488,15 @@ e) Cooperar com as entidades regionais e nacionais, bem como com organismos inte
 
 4 - As atribuições do SREA, enquanto delegação do INE, I. P. relativamente às estatísticas oficiais de âmbito nacional, são as definidas na lei do SEN.
 
-###### Artigo 53.º — Princípios do SREA
+Artigo 53.º
+
+Princípios do SREA
 
 O SREA no exercício das suas atribuições rege-se pelos princípios fundamentais do SEN, nomeadamente, os princípios da independência técnica e do segredo estatístico.
 
-###### Artigo 54.º — Cooperação no âmbito do SEN
+Artigo 54.º
+
+Cooperação no âmbito do SEN
 
 1 - Nas estatísticas de âmbito nacional e nos casos em que a delegação de competências do INE, I. P. incida sobre áreas em que a Região possui competências próprias, aplica-se o disposto no n.º 4 do artigo 24.º da lei do SEN.
 
@@ -1362,7 +1506,9 @@ O SREA no exercício das suas atribuições rege-se pelos princípios fundamenta
 
 4 - Os termos e condições da delegação de competências são publicados no Jornal Oficial da Região Autónoma dos Açores, após homologação dos membros do Governo Regional dos Açores de que dependem.
 
-###### Artigo 55.º — Competências
+Artigo 55.º
+
+Competências
 
 Ao SREA, enquanto autoridade estatística na Região, compete:
 
@@ -1386,7 +1532,9 @@ i) Aplicar as coimas decorrentes dos processos de contraordenação estatística
 
 j) Estabelecer relações de cooperação, no âmbito das suas atribuições, com outras entidades públicas ou privadas, nacionais ou internacionais.
 
-###### Artigo 56.º — Estrutura
+Artigo 56.º
+
+Estrutura
 
 1 - O SREA tem sede em Angra do Heroísmo e compreende os seguintes órgãos e serviços centrais:
 
@@ -1410,7 +1558,9 @@ vi) Secção de Apoio ao SREA.
 
 3 - O âmbito de atuação dos núcleos referidos no número anterior abrange, respetivamente, as ilhas de São Miguel e Santa Maria e as ilhas do Faial, Pico, Flores e Corvo.
 
-###### Artigo 57.º — Diretor
+Artigo 57.º
+
+Diretor
 
 1 - Ao diretor do SREA compete:
 
@@ -1428,7 +1578,9 @@ f) Assegurar outras atividades associadas ao relacionamento interinstitucional d
 
 2 - O diretor do SREA é equiparado, para todos os efeitos legais, a diretor regional, cargo de direção superior de 1.º grau.
 
-###### Artigo 58.º — Competências comuns
+Artigo 58.º
+
+Competências comuns
 
 São comuns às unidades orgânicas, as seguintes competências:
 
@@ -1438,13 +1590,17 @@ b) Participar na elaboração do programa de formação do SREA e assegurar a su
 
 c) Elaborar os respetivos planos e relatórios de atividade anuais.
 
-###### Artigo 59.º — Direção de Serviços de Estatísticas Demográficas e Económicas
+Artigo 59.º
+
+Direção de Serviços de Estatísticas Demográficas e Económicas
 
 1 - À Direção de Serviços de Estatísticas Demográficas e Económicas compete preparar, orientar e executar os inquéritos a realizar, bem como o tratamento e controlo de qualidade das estatísticas correntes.
 
 2 - A Direção de Serviços de Estatísticas Demográficas e Económicas compreende a Divisão de Estatísticas Demográficas e Sociais e a Unidade de Estatísticas Económicas.
 
-###### Artigo 60.º — Divisão de Estatísticas Demográficas e Sociais
+Artigo 60.º
+
+Divisão de Estatísticas Demográficas e Sociais
 
 1 - A Divisão de Estatísticas Demográficas e Sociais assegura, em colaboração com a Divisão de Documentação e Difusão da Informação, a inventariação e satisfação das necessidades dos utilizadores das suas áreas e, em articulação com o INE, I. P., a conceção, desenvolvimento, análise, integração e controlo de qualidade de informação estatística regional nas áreas da população, famílias e sociedade, bem como o apoio à sua difusão.
 
@@ -1482,7 +1638,9 @@ vii) Novas formas e modernização dos métodos de recolha de informação, tele
 
 viii) Outras estatísticas não económicas.
 
-###### Artigo 61.º — Unidade de Estatísticas Económicas
+Artigo 61.º
+
+Unidade de Estatísticas Económicas
 
 1 - A Unidade de Estatísticas Económicas assegura a inventariação e satisfação das necessidades dos utilizadores e, em articulação com o INE, I. P., a conceção, o desenvolvimento, a análise, a integração e o controlo de qualidade de informação estatística na área dos preços e das empresas, bem como o apoio à sua difusão.
 
@@ -1524,13 +1682,17 @@ xi) O desenvolvimento de outras estatísticas económicas;
 
 xii) A modernização dos métodos de recolha de informação, telefónica e eletrónica, nas áreas da sua competência.
 
-###### Artigo 62.º — Direção de Serviços de Planeamento, Qualidade e Serviços Jurídicos
+Artigo 62.º
+
+Direção de Serviços de Planeamento, Qualidade e Serviços Jurídicos
 
 1 - À Direção de Serviços de Planeamento, Qualidade e Serviços Jurídicos compete preparar, orientar e executar as tarefas no âmbito do planeamento, metodologias, qualidade e serviços jurídicos.
 
 2 - A Direção de Serviços de Planeamento, Qualidade e Serviços Jurídicos compreende a Divisão de Planeamento e Qualidade e a Unidade de Serviços Jurídicos.
 
-###### Artigo 63.º — Divisão de Planeamento e Qualidade
+Artigo 63.º
+
+Divisão de Planeamento e Qualidade
 
 1 - A Divisão de Planeamento e Qualidade assegura a coordenação das atividades de planeamento, metodologias e o controlo e melhoria de qualidade dos serviços e atividades do SREA.
 
@@ -1564,7 +1726,9 @@ m) Certificar tecnicamente, em articulação com o INE, I. P., as operações es
 
 n) Promover e elaborar estudos.
 
-###### Artigo 64.º — Unidade de Serviços Jurídicos
+Artigo 64.º
+
+Unidade de Serviços Jurídicos
 
 1 - A Unidade de Serviços Jurídicos assegura as atividades de apoio jurídico e de coordenação dos processos de contraordenação estatística.
 
@@ -1580,7 +1744,9 @@ d) Coordenar todos os procedimentos inerentes aos processos de contraordenação
 
 e) Acompanhar os desenvolvimentos normativos e jurídicos nacionais, europeus e internacionais com interesse para a atividade do SREA.
 
-###### Artigo 65.º — Divisão de Documentação e Difusão de Informação
+Artigo 65.º
+
+Divisão de Documentação e Difusão de Informação
 
 1 - A Divisão de Documentação e Difusão de Informação assegura as funções de coordenação e programação das atividades do SREA relativas à documentação, meta informação e difusão de informação.
 
@@ -1618,7 +1784,9 @@ o) Apoiar a realização de eventos da iniciativa do SREA.
 
 3 - A Divisão de Documentação e Difusão de Informação depende diretamente do diretor.
 
-###### Artigo 66.º — Unidade de Cooperação Externa, Projetos Regionais e Contabilidade Regional
+Artigo 66.º
+
+Unidade de Cooperação Externa, Projetos Regionais e Contabilidade Regional
 
 1 - A Unidade de Cooperação Externa, Projetos Regionais e Contabilidade Regional, assegura as funções de coordenação e programação das atividades relacionadas com projetos regionais, contabilidade regional e cooperação externa do SREA.
 
@@ -1658,7 +1826,9 @@ vi) Coordenar e promover o desenvolvimento de outros indicadores macroeconómico
 
 3 - A Unidade de Cooperação Externa, Projetos Regionais e Contabilidade depende diretamente do diretor regional.
 
-###### Artigo 67.º — Unidade de informática
+Artigo 67.º
+
+Unidade de informática
 
 1 - À unidade de informática compete:
 
@@ -1700,7 +1870,9 @@ r) Codificar, registar e validar os dados recolhidos, com base em especificaçõ
 
 2 - A unidade de informática depende diretamente do diretor.
 
-###### Artigo 68.º — Secção de Apoio ao SREA
+Artigo 68.º
+
+Secção de Apoio ao SREA
 
 À Secção de Apoio ao SREA compete:
 
@@ -1732,19 +1904,27 @@ m) Centralizar a receção e expedição de toda a correspondência controlando 
 
 n) Assegurar o serviço de reprodução e encadernação, no âmbito das atribuições do SREA.
 
-###### Artigo 69.º — Núcleos
+Artigo 69.º
+
+Núcleos
 
 1 - Os núcleos dependem diretamente do diretor do SREA e são dirigidos por coordenadores, designados ao abrigo do artigo 7.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio.
 
 2 - Os trabalhadores dos núcleos exercem a sua atividade integrados em projetos regionais e, nessa condição, são coordenados, em cada projeto, pelo diretor de serviços ou pelo chefe de divisão da área estatística correspondente, em colaboração com o coordenador do núcleo.
 
-##### SUBSECÇÃO VII — Direção Regional de Apoio ao Investimento e à Competitividade
+SUBSECÇÃO VII
 
-###### Artigo 70.º — Natureza e missão
+Direção Regional de Apoio ao Investimento e à Competitividade
+
+Artigo 70.º
+
+Natureza e missão
 
 A Direção Regional de Apoio ao Investimento e à Competitividade (DRAIC) é o serviço executivo da VPECE, que tem por missão contribuir para a definição, e executar, as políticas de apoio ao investimento e de reforço da competitividade do tecido empresarial açoriano, bem como de promoção da inovação, da qualidade e do empreendedorismo.
 
-###### Artigo 71.º — Competências
+Artigo 71.º
+
+Competências
 
 São competências da DRAIC:
 
@@ -1776,7 +1956,9 @@ m) Promover ações de formação e de sensibilização no âmbito das suas atri
 
 n) Proceder à recolha de elementos e dados estatísticos, tendo em vista a caraterização dos setores comercial e industrial.
 
-###### Artigo 72.º — Estrutura
+Artigo 72.º
+
+Estrutura
 
 1 - A DRAIC compreende:
 
@@ -1794,7 +1976,9 @@ a) Divisão do Comércio;
 
 b) Divisão da Indústria e Qualidade.
 
-###### Artigo 73.º — Direção de Serviços de Apoio ao Investimento
+Artigo 73.º
+
+Direção de Serviços de Apoio ao Investimento
 
 Compete à Direção de Serviços de Apoio ao Investimento:
 
@@ -1824,7 +2008,9 @@ l) Apoiar os agentes económicos em todos os aspetos informativos relacionados c
 
 m) Gerir o Regime de Apoio ao Microcrédito Bancário dentro das competências atribuídas no mesmo à DRAIC.
 
-###### Artigo 74.º — Divisão de Acompanhamento da Execução de Investimentos
+Artigo 74.º
+
+Divisão de Acompanhamento da Execução de Investimentos
 
 Compete à Divisão de Acompanhamento da Execução de Investimentos:
 
@@ -1862,7 +2048,9 @@ l) Promover a fiscalização dos investimentos alvo de apoio nos vários sistema
 
 m) Acompanhar a afetação dos projetos de investimento à Região.
 
-###### Artigo 75.º — Direção de Serviços de Fomento da Competitividade e Qualidade
+Artigo 75.º
+
+Direção de Serviços de Fomento da Competitividade e Qualidade
 
 Compete à Direção de Serviços de Fomento da Competitividade e Qualidade:
 
@@ -1890,7 +2078,9 @@ k) Propor legislação reguladora da atividade do setor;
 
 l) Fomentar o alargamento da base de exportação de produtos regionais.
 
-###### Artigo 76.º — Divisão do Comércio
+Artigo 76.º
+
+Divisão do Comércio
 
 Compete à Divisão do Comércio:
 
@@ -1918,7 +2108,9 @@ k) Acompanhar os processos e propor medidas em matéria de regime jurídico de p
 
 l) Assegurar o licenciamento do comércio externo.
 
-###### Artigo 77.º — Divisão da Indústria e Qualidade
+Artigo 77.º
+
+Divisão da Indústria e Qualidade
 
 Compete à Divisão da Indústria e Qualidade:
 
@@ -1976,7 +2168,9 @@ z) Promover ações de formação dirigidas aos técnicos de metrologia;
 
 aa) Colaborar com o Instituto Português da Qualidade na formulação e promoção de medidas de política da qualidade nas empresas e na elaboração de propostas de legislação e de regulamentação técnica nesse domínio.
 
-###### Artigo 78.º — Secção de Controlo Financeiro, Patrimonial e Recursos Humanos
+Artigo 78.º
+
+Secção de Controlo Financeiro, Patrimonial e Recursos Humanos
 
 Compete à Secção de Controlo Financeiro, Patrimonial e Recursos Humanos:
 
@@ -2060,13 +2254,19 @@ mm) Divulgar por todos os serviços e setores as ações de formação a realiza
 
 nn) Organizar e manter organizada toda a documentação e legislação em matéria de pessoal.
 
-##### SUBSECÇÃO VIII — Direção Regional do Emprego e Qualificação Profissional
+SUBSECÇÃO VIII
 
-###### Artigo 79.º — Natureza e missão
+Direção Regional do Emprego e Qualificação Profissional
+
+Artigo 79.º
+
+Natureza e missão
 
 A Direção Regional do Emprego e Qualificação Profissional, adiante designada por DREQP, é o serviço da VPECE que tem por missão propor, executar e avaliar as políticas em matéria de empregabilidade, formação e qualificação profissional e trabalho.
 
-###### Artigo 80.º — Competências
+Artigo 80.º
+
+Competências
 
 À DREQP compete, designadamente:
 
@@ -2120,7 +2320,9 @@ x) Promover e incentivar medidas de informação e defesa do consumidor;
 
 y) Fomentar e apoiar o associativismo de defesa do consumidor.
 
-###### Artigo 81.º — Subdiretor regional
+Artigo 81.º
+
+Subdiretor regional
 
 1 - O diretor regional do Emprego e Qualificação Profissional é coadjuvado no exercício das suas funções por um subdiretor regional, cargo de direção superior de 2.º grau.
 
@@ -2128,7 +2330,9 @@ y) Fomentar e apoiar o associativismo de defesa do consumidor.
 
 3 - O subdiretor regional exerce ainda as demais competências que, nos termos da lei, lhe sejam delegadas ou subdelegadas.
 
-###### Artigo 82.º — Estrutura
+Artigo 82.º
+
+Estrutura
 
 1 - A DREQP compreende:
 
@@ -2160,7 +2364,9 @@ j) A Agência para a Qualificação, Emprego e Trabalho da Horta (AQETH).
 
 5 - Compete à DREQP providenciar o apoio logístico, técnico e administrativo necessário ao funcionamento do Conselho Regional de Concertação Estratégica.
 
-###### Artigo 83.º — Gabinete de Projetos e Apoio Jurídico
+Artigo 83.º
+
+Gabinete de Projetos e Apoio Jurídico
 
 1 - O GPAJ é o órgão de estudo, elaboração de projetos e apoio técnico da DREQP, ao qual compete, designadamente:
 
@@ -2196,7 +2402,9 @@ g) Desempenhar outras tarefas ou atividades superiormente determinadas.
 
 4 - O CID funciona na direta dependência do chefe de divisão do GPAJ.
 
-###### Artigo 84.º — Divisão de Validação e Certificação de Ativos
+Artigo 84.º
+
+Divisão de Validação e Certificação de Ativos
 
 1 - Compete à DVCA, designadamente:
 
@@ -2246,7 +2454,9 @@ j) Exercer as demais competências previstas em lei ou regulamento.
 
 3 - O CEFAPA funciona na dependência direta do chefe de divisão da DVCA.
 
-###### Artigo 85.º — Direção de Serviços Administrativos e Financeiros
+Artigo 85.º
+
+Direção de Serviços Administrativos e Financeiros
 
 1 - À DSAF compete apoiar os serviços da DREQP, assegurando a gestão do pessoal e dos recursos financeiros e patrimoniais, bem como a gestão administrativa e documental, designadamente:
 
@@ -2280,11 +2490,15 @@ n) Proceder ao processamento dos vencimentos e outros abonos do pessoal ao servi
 
 2 - A DSAF compreende a Secção Administrativa (SA).
 
-###### Artigo 86.º — Secção Administrativa
+Artigo 86.º
+
+Secção Administrativa
 
 À SA compete apoiar os serviços da DREQP nas matérias constantes das alíneas i) a n) do artigo anterior.
 
-###### Artigo 87.º — Núcleo de Informática e Telecomunicações
+Artigo 87.º
+
+Núcleo de Informática e Telecomunicações
 
 1 - O NIT é o serviço de apoio na área da informática e telecomunicações, ao qual compete, designadamente:
 
@@ -2304,7 +2518,9 @@ g) Desempenhar outras tarefas ou atividades superiormente determinadas.
 
 2 - O NIT funciona na dependência direta do subdiretor regional.
 
-###### Artigo 88.º — Direção de Serviços do Fundo Social Europeu e da Qualidade
+Artigo 88.º
+
+Direção de Serviços do Fundo Social Europeu e da Qualidade
 
 1 - Compete à DSFSEQ, sem prejuízo das competências e das tarefas ou atividades, superiormente determinadas, atribuídas à DVCA, designadamente:
 
@@ -2356,7 +2572,9 @@ a) A Divisão dos Assuntos da Qualificação e da Qualidade (DAQQ);
 
 b) A Divisão de Análise Financeira do Fundo Social Europeu (DAFFSE).
 
-###### Artigo 89.º — Divisão dos Assuntos da Qualificação e da Qualidade
+Artigo 89.º
+
+Divisão dos Assuntos da Qualificação e da Qualidade
 
 Compete à DAQQ, sem prejuízo das competências e das tarefas ou atividades, superiormente determinadas, atribuídas à DVCA, designadamente:
 
@@ -2390,7 +2608,9 @@ n) Assegurar o sistema da gestão da qualidade da DREQP;
 
 o) Proceder a ações de divulgação sobre o Fundo Social Europeu.
 
-###### Artigo 90.º — Divisão de Análise Financeira do Fundo Social Europeu
+Artigo 90.º
+
+Divisão de Análise Financeira do Fundo Social Europeu
 
 Compete à DAFFSE, designadamente:
 
@@ -2412,7 +2632,9 @@ h) Propor a emissão de ordens de processamento dos pagamentos das ações cofin
 
 i) Receber e analisar os pedidos de pagamento das ações cofinanciadas.
 
-###### Artigo 91.º — Direção de Serviços do Emprego
+Artigo 91.º
+
+Direção de Serviços do Emprego
 
 1 - Compete à DSE, designadamente:
 
@@ -2472,7 +2694,9 @@ a) A Divisão de Programas para o Emprego (DPE);
 
 b) A Agência para a Qualificação e Emprego (AQE).
 
-###### Artigo 92.º — Divisão de Programas para o Emprego
+Artigo 92.º
+
+Divisão de Programas para o Emprego
 
 Compete à DPE, designadamente:
 
@@ -2494,7 +2718,9 @@ h) Propor a definição de critérios de apreciação e seleção de projetos de
 
 i) Apoiar a criação de atividades geradoras de autoemprego.
 
-###### Artigo 93.º — Agência para a Qualificação e Emprego
+Artigo 93.º
+
+Agência para a Qualificação e Emprego
 
 1 - Compete à AQE, designadamente:
 
@@ -2520,7 +2746,9 @@ j) Apoiar o funcionamento e aconselhamento da Rede Eures.
 
 2 - A AQE é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 94.º — Direção de Serviços do Trabalho
+Artigo 94.º
+
+Direção de Serviços do Trabalho
 
 1 - Compete à DST, designadamente:
 
@@ -2560,7 +2788,9 @@ p) Colaborar com outros serviços e entidades cujas competências concorram, dir
 
 3 - A DST assegura o apoio técnico e administrativo ao SERCAT.
 
-###### Artigo 95.º — Divisão das Relações de Trabalho
+Artigo 95.º
+
+Divisão das Relações de Trabalho
 
 Compete à DRT, designadamente:
 
@@ -2586,7 +2816,9 @@ j) Organizar os processos relativos ao trabalho de estrangeiros;
 
 k) Apoiar o SERCAT e o Conselho Regional de Concertação Estratégica.
 
-###### Artigo 96.º — Observatório do Emprego e Formação Profissional
+Artigo 96.º
+
+Observatório do Emprego e Formação Profissional
 
 1 - Compete ao OEFP, designadamente:
 
@@ -2614,7 +2846,9 @@ i) Propor e executar planos de apuramento estatístico adequado às atividades d
 
 2 - O OEFP é coordenado pelo trabalhador designado para o efeito através de despacho do diretor regional do Emprego Qualificação Profissional sendo-lhe aplicável o disposto no artigo 7.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os 2/2006/A, de 6 de janeiro, 8/2008/A, de 31 de março, e 17/2009/A, de 14 de outubro.
 
-###### Artigo 97.º — Serviços executivos periféricos da DREQP
+Artigo 97.º
+
+Serviços executivos periféricos da DREQP
 
 1 - São serviços executivos periféricos da DREQP:
 
@@ -2684,7 +2918,9 @@ bb) Assegurar em relação aos instrumentos de regulamentação coletiva de trab
 
 4 - A AQETAH e a AQETH são dirigidas por um chefe de divisão, respetivamente, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 98.º — Fundo Regional do Emprego
+Artigo 98.º
+
+Fundo Regional do Emprego
 
 1 - O FRE é um organismo dotado de autonomia administrativa, financeira e patrimonial, e é objeto de diploma próprio.
 
@@ -2696,7 +2932,9 @@ bb) Assegurar em relação aos instrumentos de regulamentação coletiva de trab
 
 5 - Os vogais exercem o cargo em regime de tempo parcial e percebem uma gratificação de 80 % do índice 100 da escala remuneratória das carreiras de regime geral, quando não sejam titulares de cargo dirigente ou de chefia.
 
-###### Artigo 99.º — Competências do conselho de administração do FRE
+Artigo 99.º
+
+Competências do conselho de administração do FRE
 
 1 - Compete ao conselho de administração, designadamente:
 
@@ -2722,7 +2960,9 @@ c) Submeter à apreciação ou aprovação tutelar todos os assuntos ou atos que
 
 d) Autorizar as despesas, dentro dos limites legais.
 
-###### Artigo 100.º — Serviços de apoio ao FRE
+Artigo 100.º
+
+Serviços de apoio ao FRE
 
 1 - O apoio logístico e administrativo ao funcionamento do FRE compete aos serviços técnicos do FRE.
 
@@ -2760,19 +3000,29 @@ o) Organizar e manter atualizada a contabilidade do FRE e, de um modo geral, ass
 
 3 - Os serviços técnicos do FRE funcionam na direta dependência do presidente do conselho de administração.
 
-#### SECÇÃO II — Serviços Inspetivos
+SECÇÃO II
 
-##### SUBSECÇÃO I — Inspeção Regional da Administração Pública
+Serviços Inspetivos
 
-###### Artigo 101.º — Natureza e missão
+SUBSECÇÃO I
+
+Inspeção Regional da Administração Pública
+
+Artigo 101.º
+
+Natureza e missão
 
 A Inspeção Regional da Administração Pública, abreviadamente designada por IRAP, é o serviço público estratégico de controlo, auditoria e fiscalização, que tem por missão fundamental o controlo da administração financeira da Região e o controlo tutelar autárquico, funcionando na direta dependência do vice-presidente do Governo Regional.
 
-###### Artigo 102.º — Âmbito territorial
+Artigo 102.º
+
+Âmbito territorial
 
 A IRAP tem a sua sede em Angra do Heroísmo e desenvolve a sua ação em todo o território da Região, bem como sobre serviços públicos regionais existentes ou a criar fora daquele seu espaço territorial.
 
-###### Artigo 103.º — Atribuições
+Artigo 103.º
+
+Atribuições
 
 1 - A IRAP, tem por finalidade, no âmbito da administração regional autónoma:
 
@@ -2814,17 +3064,23 @@ d) Propor, em consequência das suas ações inspetivas e sempre que as circunst
 
 e) Remeter os relatórios produzidos à DROAP.
 
-###### Artigo 104.º — Princípio de organização e gestão
+Artigo 104.º
+
+Princípio de organização e gestão
 
 Na sua organização e gestão, a IRAP adota os princípios da flexibilidade e da participação, procurando de forma eficaz concretizar os seus objetivos.
 
-###### Artigo 105.º — Direção
+Artigo 105.º
+
+Direção
 
 1 - A IRAP é dirigida pelo inspetor regional, equiparado para todos os efeitos legais a subdiretor regional.
 
 2 - O inspetor regional, no exercício das suas competências é coadjuvado por um subinspetor regional, cargo equiparado para todos os efeitos legais a diretor de serviços, que o substituirá nas suas faltas e impedimentos e nele podendo delegar a prática de atos da sua competência.
 
-###### Artigo 106.º — Competência do inspetor regional
+Artigo 106.º
+
+Competência do inspetor regional
 
 Compete ao inspetor regional, para além das competências conferidas por lei aos subdiretores regionais, o seguinte:
 
@@ -2854,7 +3110,9 @@ l) Expedir as ordens de serviços e as instruções que julgar oportunas para a 
 
 m) Submeter à homologação superior de propostas de cooperação com as estruturas regionais, nacionais e internacionais congéneres.
 
-###### Artigo 107.º — Serviços
+Artigo 107.º
+
+Serviços
 
 A IRAP compreende:
 
@@ -2862,7 +3120,9 @@ a) O corpo inspetivo e de auditoria;
 
 b) O núcleo de apoio.
 
-###### Artigo 108.º — Corpo inspetivo e de auditoria
+Artigo 108.º
+
+Corpo inspetivo e de auditoria
 
 1 - Ao corpo inspetivo e de auditoria compete:
 
@@ -2876,7 +3136,9 @@ d) Proceder a todas as demais diligências processuais, determinadas superiormen
 
 2 - Para o desenvolvimento de ações de inspeção e de auditoria, contidas no plano de atividades da IRAP, podem ser constituídas equipas inspetivas coordenadas por inspetores designados para o efeito.
 
-###### Artigo 109.º — Núcleo de apoio
+Artigo 109.º
+
+Núcleo de apoio
 
 Ao núcleo de apoio compete:
 
@@ -2892,13 +3154,17 @@ e) Zelar pela conservação, higiene e segurança das instalações;
 
 f) Dar apoio genérico à atividade exercida pelos inspetores.
 
-###### Artigo 110.º — Intervenção da IRAP
+Artigo 110.º
+
+Intervenção da IRAP
 
 1 - A IRAP desenvolverá ações de auditoria e de inspeção ordinária, de acordo com o plano de atividades previamente elaborado, ou extraordinária, quando superiormente determinadas.
 
 2 - A IRAP, poderá, ainda, proceder a visitas técnicas para orientação dos órgãos e serviços da administração local e regional, bem como para verificação do cumprimento de medidas propostas em inspeção anterior.
 
-###### Artigo 111.º — Garantia de eficácia
+Artigo 111.º
+
+Garantia de eficácia
 
 1 - Na sequência da decisão do vice-presidente do Governo Regional sobre as ações da IRAP, esta controla a execução pelas entidades e serviços competentes, das medidas preconizadas nos relatórios de inspeção e auditoria, para correção ou reparação de situações de incumprimento da lei, bem como de quaisquer irregularidades, deficiências e anomalias detetadas.
 
@@ -2906,19 +3172,27 @@ f) Dar apoio genérico à atividade exercida pelos inspetores.
 
 3 - Sem prejuízo do dever da IRAP proceder ao acompanhamento do resultado das recomendações e propostas formuladas, as entidades públicas visadas devem fornecer-lhe, no prazo de sessenta dias contados a partir da receção do relatório, informações sobre as medidas e decisões entretanto adotadas na sequência da intervenção, podendo ainda pronunciar-se sobre o efeito da ação.
 
-###### Artigo 112.º — Dever de participação
+Artigo 112.º
+
+Dever de participação
 
 Independentemente do disposto no n.º 1 do artigo anterior, após despacho do vice-presidente do Governo Regional, a IRAP tem o dever de participar às entidades competentes, regionais ou nacionais, consoante os casos, os factos que apurar no exercício das suas funções suscetíveis de interessarem ao exercício da ação civil, penal, contraordenacional ou disciplinar, bem como à determinação de responsabilidades financeiras ou ações de combate à fraude e irregularidades em prejuízo dos orçamentos.
 
-###### Artigo 113.º — Instruções administrativas
+Artigo 113.º
+
+Instruções administrativas
 
 Os serviços da administração regional remeterão obrigatoriamente à IRAP um exemplar de todas as circulares e demais instruções administrativas por si emanadas.
 
-###### Artigo 114.º — Questionários
+Artigo 114.º
+
+Questionários
 
 As inspeções realizar-se-ão com subordinação a questionários e a manuais de acompanhamento, previamente aprovados pelo vice-presidente do Governo Regional.
 
-###### Artigo 115.º — Duração dos serviços externos e relatórios
+Artigo 115.º
+
+Duração dos serviços externos e relatórios
 
 1 - Os serviços externos devem ser iniciados e concluídos dentro do prazo que, para cada caso, for superiormente fixado.
 
@@ -2926,23 +3200,33 @@ As inspeções realizar-se-ão com subordinação a questionários e a manuais d
 
 3 - O relatório será entregue no prazo fixado pelo inspetor regional.
 
-###### Artigo 116.º — Cartão de livre-trânsito
+Artigo 116.º
+
+Cartão de livre-trânsito
 
 O inspetor regional, o subinspetor regional, e os inspetores têm direito a cartão de identidade especial, para os efeitos a que se refere o presente diploma, a ser emitido nos termos fixados no n.º 1 da Portaria n.º 19/77, de 18 de julho.
 
-###### Artigo 117.º — Regimes jurídico da atividade inspetiva e do pessoal
+Artigo 117.º
+
+Regimes jurídico da atividade inspetiva e do pessoal
 
 1 - A IRAP está sujeita às regras relativas ao regime jurídico da atividade inspetiva, auditoria e fiscalização contidas no Decreto-Lei n.º 276/2007, de 31 de julho, alterado pelo Decreto-Lei n.º 32/2012, de 13 de fevereiro, adaptado à Região pelo Decreto Legislativo Regional n.º 40/2012/A, de 8 de outubro.
 
 2 - O pessoal de inspeção ao serviço da IRAP rege-se pelo disposto no presente diploma e pelo Decreto-Lei n.º 170/2009, de 3 de agosto, que estabelece o regime da carreira especial de inspeção, aplicado à Região pelo Decreto Legislativo Regional n.º 18/2011/A, de 15 de junho.
 
-###### Artigo 118.º — Apoio
+Artigo 118.º
+
+Apoio
 
 No que a IRAP não se encontrar convenientemente dotada dos meios necessários ao seu regular funcionamento, os mesmos serão facultados pelos serviços da VPECE.
 
-##### SUBSECÇÃO II — Inspeção Regional das Atividades Económicas (IRAE)
+SUBSECÇÃO II
 
-###### Artigo 119.º — Denominação, natureza e missão
+Inspeção Regional das Atividades Económicas (IRAE)
+
+Artigo 119.º
+
+Denominação, natureza e missão
 
 1 - A Inspeção Regional das Atividades Económicas (IRAE) é o serviço da VPECE, ao qual incumbe, na Região, garantir o cumprimento das normas que disciplinam as atividades económicas.
 
@@ -2950,7 +3234,9 @@ No que a IRAP não se encontrar convenientemente dotada dos meios necessários a
 
 3 - A IRAE funciona na dependência direta do vice-presidente do Governo Regional, gozando de independência e autonomia técnica no exercício das suas competências.
 
-###### Artigo 120.º — Competências
+Artigo 120.º
+
+Competências
 
 1 - A IRAE é responsável pela fiscalização do cumprimento das leis, regulamentos, instruções, despachos e demais normas que disciplinam as atividades económicas, desenvolvendo a sua atividade em toda a Região, competindo-lhe designadamente:
 
@@ -2988,7 +3274,9 @@ o) Elaborar estudos de natureza jurídica que visem a coerência e a racionalida
 
 3 - A IRAE é dirigida por um inspetor regional, cargo equiparado para todos os efeitos legais a subdiretor regional.
 
-###### Artigo 121.º — Serviços
+Artigo 121.º
+
+Serviços
 
 A IRAE compreende:
 
@@ -2996,7 +3284,9 @@ a) A Direção de Serviços de Inspeção (DSI);
 
 b) A Divisão de Instrução e Apoio Jurídico (DIAJ).
 
-###### Artigo 122.º — Inspetor Regional das Atividades Económicas
+Artigo 122.º
+
+Inspetor Regional das Atividades Económicas
 
 1 - Compete ao inspetor regional das Atividades Económicas, designadamente:
 
@@ -3036,7 +3326,9 @@ q) Promover a divulgação dos resultados da atividade operacional de inspeção
 
 2 - O inspetor regional será substituído nas suas faltas e impedimentos pelo dirigente ou pelo inspetor designado para o efeito.
 
-###### Artigo 123.º — Direção de Serviços de Inspeção
+Artigo 123.º
+
+Direção de Serviços de Inspeção
 
 1 - À DSI compete zelar pelo cumprimento das normas que regem as atividades económicas dos setores alimentar e não alimentar, promover a proteção da saúde pública, procedendo nomeadamente à avaliação e comunicação dos riscos biológicos, químicos, físicos e nutricionais e dos riscos inerentes à saúde, bem-estar e alimentação animal, assegurar a inspeção dos operadores, garantir a segurança geral dos produtos e serviços e a lealdade das práticas comerciais e promover a leal concorrência e a proteção dos consumidores, designadamente:
 
@@ -3086,7 +3378,9 @@ t) Elaborar planos de ação, relatórios de atividades e outros documentos semp
 
 4 - Os inspetores indicados na alínea anterior exercem, ainda, as competências que nos termos da lei, lhe sejam delegadas ou subdelegadas.
 
-###### Artigo 124.º — Divisão de Instrução e Apoio Jurídico
+Artigo 124.º
+
+Divisão de Instrução e Apoio Jurídico
 
 1 - Compete à DIAJ, designadamente:
 
@@ -3124,7 +3418,9 @@ o) Garantir o exercício do patrocínio judiciário.
 
 3 - Na dependência da DIAJ funciona a Secção Administrativa e Financeira (SAF).
 
-###### Artigo 125.º — Secção Administrativa e Financeira (SAF)
+Artigo 125.º
+
+Secção Administrativa e Financeira (SAF)
 
 À SAF compete apoiar os órgãos e serviços da IRAE nos domínios dos recursos humanos, financeiros, patrimoniais, comunicacionais e documentais, bem como assegurar os serviços de caráter administrativo da IRAE, designadamente:
 
@@ -3172,7 +3468,9 @@ u) Assegurar o normal funcionamento dos sistemas informáticos instalados;
 
 v) Desempenhar outras tarefas ou atividades superiormente determinadas.
 
-###### Artigo 126.º — Medidas preventivas
+Artigo 126.º
+
+Medidas preventivas
 
 1 - Quando seja detetada uma situação de perigo grave para a saúde e a segurança das pessoas e bens, o inspetor regional poderá determinar as providências que em cada caso se justifiquem para prevenir ou eliminar tal situação.
 
@@ -3180,7 +3478,9 @@ v) Desempenhar outras tarefas ou atividades superiormente determinadas.
 
 3 - Quando se verifique obstrução à execução das providências previstas neste artigo, poderá igualmente ser solicitada às entidades competentes a notificação dos distribuidores de energia elétrica para interromperem o fornecimento desta.
 
-###### Artigo 127.º — Medidas inspetivas
+Artigo 127.º
+
+Medidas inspetivas
 
 1 - No âmbito da ação inspetiva, o pessoal com funções inspetivas pode recolher informação sobre as atividades inspecionadas, proceder a exames a quaisquer vestígios de infrações, bem como a colheitas de amostras para exame laboratorial.
 
@@ -3188,7 +3488,9 @@ v) Desempenhar outras tarefas ou atividades superiormente determinadas.
 
 3 - O pessoal com funções inspetivas pode ainda requisitar, para exame, consulta e junção aos autos, processos e documentos ou as respetivas certidões, bem como quaisquer outros elementos existentes nos livros, registos e arquivos dos serviços onde ocorram os atos inspetivos ou com eles diretamente relacionados.
 
-###### Artigo 128.º — Locais de inspeção
+Artigo 128.º
+
+Locais de inspeção
 
 1 - No exercício das suas competências, compete à IRAE a fiscalização de todos os locais onde se proceda a qualquer atividade industrial, comercial, agrícola, piscatória ou de prestação de serviços, nomeadamente unidades produtoras de produtos acabados e intermédios, armazéns, escritórios, estabelecimentos comerciais, estabelecimentos hoteleiros e similares ou de outra natureza, cantinas e refeitórios, recintos de diversão ou de espetáculos, gares e aerogares e meios de transporte terrestre de pessoas onde se sirvam alimentos ou se vendam bens ao público.
 
@@ -3198,7 +3500,9 @@ a) A entrada nos locais referidos no número anterior, bem como a sua permanênc
 
 b) A documentação, livros de contabilidade, registos e quaisquer outros elementos que lhes forem exigidos e, bem assim, prestar as informações e declarações que lhes forem solicitadas.
 
-###### Artigo 129.º — Livre-trânsito e uso de porte de arma
+Artigo 129.º
+
+Livre-trânsito e uso de porte de arma
 
 1 - O inspetor regional, o pessoal dirigente, o pessoal das carreiras de inspeção da IRAE goza, para além dos que são atribuídos aos restantes funcionários públicos, dos direitos seguintes:
 
@@ -3210,25 +3514,35 @@ c) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o 
 
 2 - O pessoal referido no número anterior é investido em poderes de autoridade pública, não lhe podendo ser impedida a entrada nos lugares a que se refere o artigo anterior, desde que identificado pela exibição do cartão de livre-trânsito.
 
-###### Artigo 130.º — Recomendações
+Artigo 130.º
+
+Recomendações
 
 No âmbito das ações inspetivas, a IRAE pode emitir recomendações que tenham por objeto a melhoria da adequação das atividades económicas aos parâmetros legais.
 
-###### Artigo 131.º — Regime de duração do trabalho
+Artigo 131.º
+
+Regime de duração do trabalho
 
 1 - Ao pessoal das carreiras de inspeção da IRAE é aplicado o regime de duração e horário de trabalho fixado para os trabalhadores nomeados da administração pública, salvo o disposto no número seguinte.
 
 2 - O serviço prestado pelo pessoal das carreiras de inspeção é de caráter permanente, o que implica a obrigatoriedade da sua prestação a qualquer hora do dia ou da noite, incluindo os dias de descanso ou feriados, consoante as necessidades do serviço.
 
-###### Artigo 132.º — Regimes jurídicos da atividade inspetiva e do pessoal
+Artigo 132.º
+
+Regimes jurídicos da atividade inspetiva e do pessoal
 
 1 - A IRAE está sujeita às regras relativas ao regime jurídico da atividade inspetiva, auditoria e fiscalização contidas no Decreto-Lei n.º 276/2007, de 31 de julho, alterado pelo Decreto-Lei n.º 32/2012, de 13 de fevereiro, adaptado à Região pelo Decreto Legislativo Regional n.º 40/2012/A, de 8 de outubro.
 
 2 - Em tudo o que não se encontrar revogado, mantém-se o disposto no Decreto-Lei n.º 112/2001, de 6 de abril, com a adaptação à Região operada pelo Decreto Legislativo Regional n.º 22/2001/A, de 13 de novembro.
 
-##### SUBSECÇÃO III — Inspeção Regional do Trabalho
+SUBSECÇÃO III
 
-###### Artigo 133.º — Natureza
+Inspeção Regional do Trabalho
+
+Artigo 133.º
+
+Natureza
 
 1 - A Inspeção Regional do Trabalho, adiante designada por IRT, é o serviço da VPECE cuja atividade se desenvolve no domínio da inspeção e fiscalização do cumprimento das normas relativas às condições de trabalho, emprego e desemprego e nas áreas da segurança e saúde no trabalho, orientando a sua ação de acordo com os princípios vertidos nas Convenções n.os 81, 129 e 155 da Organização Internacional do Trabalho.
 
@@ -3236,13 +3550,17 @@ No âmbito das ações inspetivas, a IRAE pode emitir recomendações que tenham
 
 3 - A IRT está na dependência direta do vice-presidente do Governo Regional e goza, no exercício das suas competências, de autonomia técnica e de independência, nos termos do respetivo Estatuto.
 
-###### Artigo 134.º — Âmbito
+Artigo 134.º
+
+Âmbito
 
 1 - A IRT exerce a sua ação na Região Autónoma dos Açores, em empresas, qualquer que seja a sua forma ou natureza jurídica, de todos os setores de atividade, seja qual for o regime aplicável aos respetivos trabalhadores, bem como em quaisquer locais onde se verifique a prestação do trabalho ou em relação aos quais haja indícios fundamentados dessa prestação.
 
 2 - A IRT promove e controla o cumprimento da legislação relativa à segurança e saúde no trabalho, nos serviços e organismos da administração pública central, regional, direta e indireta, e local, incluindo os institutos públicos nas modalidades de serviços personalizados ou de fundos públicos.
 
-###### Artigo 135.º — Atribuições
+Artigo 135.º
+
+Atribuições
 
 A IRT prossegue as seguintes atribuições:
 
@@ -3274,7 +3592,9 @@ m) Exercer as atribuições em matéria de licenciamento que lhe sejam cometidas
 
 n) Exercer as demais atribuições legalmente cometidas ao serviço com competência inspetiva do ministério responsável pela área laboral.
 
-###### Artigo 136.º — Serviços
+Artigo 136.º
+
+Serviços
 
 1 - A IRT é dirigida por um inspetor regional do Trabalho, equiparado, para todos os efeitos legais, a subdiretor regional, cargo de direção superior de 2.º grau.
 
@@ -3288,7 +3608,9 @@ c) O Serviço Inspetivo da Horta, adiante designado por SIH, que abrange as ilha
 
 3 - A IRT compreende ainda o Gabinete de Segurança e Saúde no Trabalho, adiante designado por GSST, serviço de natureza operativa.
 
-###### Artigo 137.º — Inspetor Regional do Trabalho
+Artigo 137.º
+
+Inspetor Regional do Trabalho
 
 Compete ao inspetor regional do Trabalho, designadamente:
 
@@ -3316,7 +3638,9 @@ k) Impor, sempre que necessário, a comparência nos serviços de qualquer traba
 
 l) Promover a celebração de protocolos de colaboração com outras instituições públicas ou privadas, regionais, nacionais ou internacionais, no âmbito das relações de trabalho, da segurança e saúde no trabalho.
 
-###### Artigo 138.º — Serviços inspetivos
+Artigo 138.º
+
+Serviços inspetivos
 
 1 - Compete aos SIPD, SIAH e SIH, no âmbito da respetiva área geográfica, designadamente:
 
@@ -3344,7 +3668,9 @@ k) Assegurar a gestão dos recursos humanos e materiais que lhe estão afetos.
 
 2 - Os SIPD, SIAH e SIH são dirigidos, respetivamente, por um inspetor delegado, equiparado, para todos os efeitos legais, a chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 139.º — Gabinete de Segurança e Saúde no Trabalho
+Artigo 139.º
+
+Gabinete de Segurança e Saúde no Trabalho
 
 1 - Compete ao GSST, designadamente:
 
@@ -3358,7 +3684,9 @@ d) Promover e participar na elaboração de políticas de segurança e saúde no
 
 2 - O GSST depende diretamente do inspetor regional do Trabalho.
 
-###### Artigo 140.º — Receitas
+Artigo 140.º
+
+Receitas
 
 1 - A IRT dispõe das seguintes receitas próprias:
 
@@ -3370,13 +3698,17 @@ c) Quaisquer outras receitas que lhe sejam atribuídas pela lei.
 
 2 - As receitas referidas na alínea b) do número anterior são consignadas a despesas da IRT, transitando os saldos não utilizáveis para o ano seguinte.
 
-###### Artigo 141.º — Recomendações
+Artigo 141.º
+
+Recomendações
 
 1 - No âmbito das ações inspetivas, a IRT pode emitir recomendações que tenham por objeto a melhoria da adequação das atividades fiscalizadas aos parâmetros legais.
 
 2 - Nas situações em que sejam constatadas infrações de pequena gravidade, a ação inspetiva pode limitar-se a uma advertência, documentada em auto, que integre as recomendações referidas no número anterior.
 
-###### Artigo 142.º — Livre-trânsito e uso de porte de arma
+Artigo 142.º
+
+Livre-trânsito e uso de porte de arma
 
 O inspetor regional, o pessoal dirigente, o pessoal da carreira de inspeção superior e o pessoal da carreira de inspeção da IRT gozam, para além dos que são atribuídos aos restantes funcionários públicos, dos direitos seguintes:
 
@@ -3386,15 +3718,21 @@ b) Do direito a possuir e usar arma de todas as classes previstas na Lei n.º 5/
 
 c) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o desempenho das missões que lhe forem confiadas.
 
-###### Artigo 143.º — Regimes jurídicos da atividade inspetiva e do pessoal
+Artigo 143.º
+
+Regimes jurídicos da atividade inspetiva e do pessoal
 
 1 - A IRT está sujeita às regras relativas ao regime jurídico da atividade inspetiva, auditoria e fiscalização contidas no Decreto-Lei n.º 276/2007, de 31 de julho, alterado pelo Decreto-Lei n.º 32/2012, de 13 de fevereiro, adaptado à Região pelo Decreto Legislativo Regional n.º 40/2012/A, de 8 de outubro.
 
 2 - Enquanto não for revisto o regime de carreiras inspetivas na Região, as carreiras inspetivas da IRT regem-se pelo disposto no Decreto-Lei n.º 112/2001, de 6 de abril, com a adaptação à Região introduzida pelo Decreto Legislativo Regional n.º 22/2001/A, de 13 de novembro.
 
-#### SECÇÃO III — Serviços desconcentrados
+SECÇÃO III
 
-###### Artigo 144.º — Serviços de ilha da VPECE
+Serviços desconcentrados
+
+Artigo 144.º
+
+Serviços de ilha da VPECE
 
 1 - Os serviços de ilha são serviços desconcentrados da VPECE, funcionando na dependência hierárquica do vice-presidente do Governo Regional e funcionalmente dos diretores regionais ou outros dirigentes dependentes diretamente daquele membro do Governo Regional, com competência nas áreas das respetivas atribuições.
 
@@ -3414,7 +3752,9 @@ f) Serviços de Ilha do Faial;
 
 g) Serviços de Ilha das Flores e do Corvo.
 
-###### Artigo 145.º — Estrutura
+Artigo 145.º
+
+Estrutura
 
 1 - Os serviços de ilha compreendem as seguintes áreas funcionais:
 
@@ -3434,7 +3774,9 @@ f) Administrativa.
 
 3 - Enquanto não for aprovada a orgânica da Secretaria Regional do Turismo e Transportes, os coordenadores a que se refere o artigo seguinte exercem igualmente competências nas áreas dos transportes aéreos e marítimos, bem como na área do turismo.
 
-###### Artigo 146.º — Competências
+Artigo 146.º
+
+Competências
 
 1 - Compete aos serviços de ilha, nas respetivas áreas geográficas de atuação:
 
@@ -3458,39 +3800,57 @@ i) Executar as competências de natureza operativa da VPECE nas respetivas área
 
 2 - Os serviços de ilha serão dirigidos por coordenadores nomeados, em comissão de serviço, por despacho do vice-presidente do Governo Regional, nos termos do disposto no artigo 6.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, na redação dos Decretos Legislativos Regionais n.os 17/2009/A, de 14 de outubro, e 33/2010/A, de 18 de novembro.
 
-### CAPÍTULO IV — Pessoal
+CAPÍTULO IV
 
-###### Artigo 147.º — Quadro de pessoal
+Pessoal
+
+Artigo 147.º
+
+Quadro de pessoal
 
 1 - O pessoal afeto à VPECE consta dos quadros regionais de ilha em vigor.
 
 2 - O pessoal dirigente, de direção específica e de chefia, que correspondem a unidades orgânicas, afeto à VPECE é o constante do Anexo do presente diploma, do qual faz parte integrante.
 
-###### Artigo 148.º — Subcoordenadores das delegações da DAPL
+Artigo 148.º
+
+Subcoordenadores das delegações da DAPL
 
 1 - O acesso na carreira faz-se por progressão segundo módulos de três anos de serviço.
 
 2 - À carreira de subcoordenador é atribuída a remuneração correspondente aos índices 460, 500 e 545, que correspondem, respetivamente, aos escalões 1, 2 e 3.
 
-###### Artigo 149.º — Pessoal técnico de património
+Artigo 149.º
+
+Pessoal técnico de património
 
 Ao pessoal da carreira técnica de património é aplicável, com as necessárias adaptações, o disposto no Decreto Regulamentar Regional n.º 26/90/A, de 8 de agosto, bem como o Decreto Regulamentar Regional n.º 17/92/A, de 22 de abril.
 
-###### Artigo 150.º — Pessoal de tesouraria
+Artigo 150.º
+
+Pessoal de tesouraria
 
 Ao pessoal de tesouraria é aplicável, com as necessárias adaptações, o disposto no Decreto Legislativo Regional n.º 33/2004/A, de 25 de agosto.
 
-###### Artigo 151.º — Suplemento mensal de risco
+Artigo 151.º
+
+Suplemento mensal de risco
 
 Os trabalhadores com funções de fiscalização nas áreas da indústria e dos recursos geológicos têm direito a um suplemento mensal de risco de 20 %, nos termos e sem prejuízo do regime de salvaguarda de direitos do artigo 13.º do Decreto Legislativo Regional n.º 26/2008/A, de 24 de julho, alterado e republicado pelos Decretos Legislativos Regionais n.os 17/2009/A, de 14 de outubro, e 33/2010/A, de 18 de novembro.
 
-### CAPÍTULO V — Disposições finais
+CAPÍTULO V
 
-###### Artigo 152.º — Extinção de serviço
+Disposições finais
+
+Artigo 152.º
+
+Extinção de serviço
 
 É extinto o Gabinete de Apoio, Planeamento e Auditoria (GAPA), criado pelo Decreto Regulamentar Regional n.º 15/2011/A, de 21 de junho.
 
-###### Artigo 153.º — Norma revogatória
+Artigo 153.º
+
+Norma revogatória
 
 São revogados:
 
@@ -3500,10 +3860,14 @@ b) As Secções III e IV do Capítulo II, do Anexo I, ao Decreto Regulamentar Re
 
 c) A Subsecção III da Secção II e a Secção III do Capítulo III, do Anexo I, do Decreto Regulamentar Regional n.º 18/2010/A, de 18 de outubro, e demais normas daquele diploma que respeitam às competências do vice-presidente do Governo Regional, por força do Decreto Regulamentar Regional n.º 24/2012/A, de 27 de novembro, que estabelece a Orgânica do XI Governo Regional dos Açores;
 
-###### Artigo 154.º — Entrada em vigor
+Artigo 154.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO — Quadro de pessoal dirigente, de direção específica e de Chefia da Vice-Presidência, Emprego e Competitividade Empresarial (VPECE)
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/08/15100/0409704136.pdf))](https://files.diariodarepublica.pt/1s/2014/08/15100/0409704136.pdf)
+Quadro de pessoal dirigente, de direção específica e de Chefia da Vice-Presidência, Emprego e Competitividade Empresarial (VPECE)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15100/0409704136.pdf)

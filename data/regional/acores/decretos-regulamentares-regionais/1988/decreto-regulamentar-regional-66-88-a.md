@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/25000/43864387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/66-1988-358569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bf1ecc1c60a7bfbc63d70e8e0c323ef70a260eb881beb9ec99a977d6b31dfca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4bad3e2134c8a9ac08054bc6db4580069ef95143dba4ccea23a74e4448353cb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Centro de Educação Especial
+- Educação Especial
+- Regime de Instalação
 relationships:
 - type: amended_by
   target: pt:dre:197914:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:272779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626433:por
+  label: "Revogado, a partir de 01.01.1993, pelo DRR.5/93/A.04.03.1993.GR-RAA, DR.IS-B [53] de 04.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1993-626433
+  date: '1993-03-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:17Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +123,15 @@ Tendo em conta a opção do Governo de prosseguir, relativamente às crianças e
 
 Assim, o Governo Regional dos Açores decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Centro de Educação Especial dos Açores mantém-se em regime de instalação pelo período de um ano, renovável.
+Artigo 1.º - 1 - O Centro de Educação Especial dos Açores mantém-se em regime de instalação pelo período de um ano, renovável.
 
 2 - Os actos praticados até à data da entrada em vigor do presente diploma consideram-se abrangidos pelo disposto nos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
 
-###### Art. 2.º - 1 - A tutela do Centro de Educação Especial dos Açores é assegurada pela Secretaria Regional da Educação e Cultura.
+Art. 2.º - 1 - A tutela do Centro de Educação Especial dos Açores é assegurada pela Secretaria Regional da Educação e Cultura.
 
 2 - A Secretaria Regional dos Assuntos Sociais porá à disposição da Secretaria Regional da Educação e Cultura todos os elementos respeitantes ao Centro de Educação Especial dos Açores de que disponha, como forma de garantir o eficaz cumprimento do disposto no número anterior.
 
-###### Art. 3.º - 1 - A Secretaria Regional dos Assuntos Sociais garantirá a cobertura das despesas do Centro de Educação Especial dos Açores durante o ano de 1988, de acordo com as verbas previstas para o efeito no orçamento da Segurança Social.
+Art. 3.º - 1 - A Secretaria Regional dos Assuntos Sociais garantirá a cobertura das despesas do Centro de Educação Especial dos Açores durante o ano de 1988, de acordo com as verbas previstas para o efeito no orçamento da Segurança Social.
 
 2 - Durante os anos de 1989 e 1990 as despesas do Centro de Educação Especial dos Açores serão suportadas pelos orçamentos da Região Autónoma dos Açores e da Segurança Social, nas seguintes proporções:
 
@@ -114,7 +143,7 @@ b) Em 1990 o orçamento da Região Autónoma dos Açores suportará 60% das desp
 
 4 - Para cumprimento do disposto nos números anteriores a aprovação do plano das despesas do Centro de Educação Especial dos Açores depende da prévia concordância do Secretário Regional dos Assuntos Sociais.
 
-###### Art. 4.º - 1 - A Secretaria Regional da Educação e Cultura aprovará, no prazo de 90 dias, o mapa de pessoal do Centro de Educação Especial dos Açores, após parecer das Secretarias Regionais da Administração Pública e das Finanças.
+Art. 4.º - 1 - A Secretaria Regional da Educação e Cultura aprovará, no prazo de 90 dias, o mapa de pessoal do Centro de Educação Especial dos Açores, após parecer das Secretarias Regionais da Administração Pública e das Finanças.
 
 2 - O mapa referido no número anterior deverá ser elaborado de forma a indicar:
 
@@ -126,9 +155,9 @@ c) As necessidades de pessoal para o corrente ano;
 
 d) O pessoal a libertar durante o mesmo período.
 
-###### Art. 5.º A Secretaria Regional da Educação e Cultura promoverá a celebração de protocolos entre o Centro de Educação Especial dos Açores e outros serviços com que se mostre aconselhável manter um relacionamento mais estreito, nomeadamente das Secretarias Regionais dos Assuntos Sociais e do Trabalho.
+Art. 5.º A Secretaria Regional da Educação e Cultura promoverá a celebração de protocolos entre o Centro de Educação Especial dos Açores e outros serviços com que se mostre aconselhável manter um relacionamento mais estreito, nomeadamente das Secretarias Regionais dos Assuntos Sociais e do Trabalho.
 
-###### Art. 6.º - 1 - O Centro de Educação Especial dos Açores é dirigido por um director, coadjuvado em matéria administrativa por um adjunto e em matéria técnica pelo coordenador técnico de cada área funcional por que se organiza o Centro.
+Art. 6.º - 1 - O Centro de Educação Especial dos Açores é dirigido por um director, coadjuvado em matéria administrativa por um adjunto e em matéria técnica pelo coordenador técnico de cada área funcional por que se organiza o Centro.
 
 2 - O director é nomeado por despacho do Secretário Regional da Educação e Cultura, em comissão de serviço, pelo período de dois anos, renovável, de entre pessoas com experiência e conhecimentos na área da educação e ou segurança social, e aufere remuneração correspondente ao cargo de director de serviços.
 
@@ -136,22 +165,22 @@ d) O pessoal a libertar durante o mesmo período.
 
 4 - Em tudo o que não se encontra regulado no presente diploma aplica-se ao pessoal dirigente do Centro de Educação Especial dos Açores o regime estabelecido no [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril.
 
-###### Art. 7.º - 1 - As despesas de funcionamento do Centro de Educação Especial dos Açores são satisfeitas, mediante despacho do director regional competente, por conta das dotações globais ou dos subsídios que lhe forem atribuídos ou ainda pelas disponibilidades verificadas em quaisquer receitas do serviço.
+Art. 7.º - 1 - As despesas de funcionamento do Centro de Educação Especial dos Açores são satisfeitas, mediante despacho do director regional competente, por conta das dotações globais ou dos subsídios que lhe forem atribuídos ou ainda pelas disponibilidades verificadas em quaisquer receitas do serviço.
 
 2 - Todas as receitas provenientes de rendimentos próprios ou de subsídios dão entrada num banco, à ordem do director e do adjunto.
 
 3 - Mensalmente será apresentado a visto do Secretário Regional da Educação e Cultura um balancete, precedido de parecer da Secretaria Regional dos Assuntos Sociais, donde constarão o saldo da conta de depósito, as receitas liquidadas e cobradas, as despesas autorizadas e pagas no mês anterior e ainda as despesas previstas para o mês seguinte àquele em que é apresentado o balancete.
 
-###### Art. 8.º O pessoal subordina-se ao regime geral da função pública em tudo o que não for incompatível com o regime de instalação.
+Art. 8.º O pessoal subordina-se ao regime geral da função pública em tudo o que não for incompatível com o regime de instalação.
 
-###### Art. 9.º As admissões serão feitas mediante contrato além do quadro, salvo se recaírem em funcionários, caso em que poderão ser feitas através dos mecanismos de mobilidade previstos na lei.
+Art. 9.º As admissões serão feitas mediante contrato além do quadro, salvo se recaírem em funcionários, caso em que poderão ser feitas através dos mecanismos de mobilidade previstos na lei.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 6 de Julho de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 10 de Outubro de 1988.**
+Assinado em Angra do Heroísmo em 10 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

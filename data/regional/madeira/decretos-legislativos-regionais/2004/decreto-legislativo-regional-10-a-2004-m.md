@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 140/2004, 1º Suplemento, Série I-A de 2004-06-16
   number: '140'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3688-(2) a 3688-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/06/140a01/00020009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10-a/2004/06/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2004-316075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f501e1b915575b6f40f7013760b69e162a1607f440d056754a578e8f202450b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4c9ea2e5fc1438977cc83da627fb14e16f6a2c02bb21c6121b7052a1d04cf55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Educação Especial
 - Colocação de Professores
 - Concurso
 - Contratação de Docentes
+- Contratação Pública
 - Contrato Administrativo
 - Destacamento de Pessoal
-- Recrutamento de Pessoal
-- Publicitação
-- Estabelecimento de Ensino
-- Pessoal Docente
-- Ensino Básico
-- Madeira.região Autónoma
-- Quadro de Pessoal
+- Educação Especial
 - Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
+- Madeira.região Autónoma
+- Pessoal Docente
+- Publicitação
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 - ZONA Pedagógica
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:343611:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:247713:por
+  label: "Mantido em vigor , até à saída dos diplomas regulamentares previstos no Estatuto da Carreira Docente da Região Autónoma\
+    \ da Madeira, pelo DLR.6/2008/M.25.02.2008.AL-RAM, DR.IS [39] de 25.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2008-247713
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:456262:por
+  label: "Determinado que fiquem directamente dependentes da DREER os quadros de pessoal docente referidos no n.º 3 do art.\
+    \ 1.º, e arts. 3.º, 26.º, 27.º e 28.º, pelo DRR.14/2008/M.30.06.2008.PG-RAM, DR.IS [124] de 30.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2008-456262
+  date: '2008-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
   label: null
@@ -123,16 +135,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:219162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669864:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:494498:por
+  label: "Revogado pelo DLR.14/2009/M.08.06.2009.AL-RAM, DR.IS [110] de 08.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2009-494498
+  date: '2009-06-08'
 article_structure:
   article_count: 38
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:21Z'
   warnings: []
   errors: []
 ---
@@ -573,10 +634,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 20 de Maio de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 7 de Junho de 2004.**
+Assinado em 7 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

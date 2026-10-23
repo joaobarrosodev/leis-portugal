@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2009/05/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2009-608068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 003a4a857499c05f28b46823602f302c615db375f0c2efe80c8edbd47906f362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e292083f236bd84994a508d95f38191f27607f605df9b0e015d04361069ee752
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,51 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Modernização Administrativa
-- Transporte Marítimo
-- Juventude
-- Transporte Terrestre
-- Transporte Aéreo
-- Transporte Rodoviário
-- Educação
-- Saúde
-- Feader
+- Açores
 - Administração Pública
+- Agricultura
+- Apoio ao Investimento
+- Comércio
+- Cultura
+- Desporto
+- Educação
+- Energia
+- Feader
 - FEDER
 - Feoga
+- FSE
 - Fundo de Coesão
-- Pesca
-- Apoio ao Investimento
+- Habitação
 - Igualdade de Oportunidades
 - Indústria
 - Investimento Público
-- FSE
-- Proteção do Ambiente
+- Juventude
+- Modernização Administrativa
+- Pesca
 - Plano Integrado para a Ciência e Tecnologia
 - Política Económica
-- Energia
 - Programa Comunitário
-- Cultura
+- Proteção Civil
+- Proteção do Ambiente
 - Qualificação Profissional
-- Habitação
-- Agricultura
-- Açores
+- Saúde
 - Sistema Regional de Planeamento dos Açores
-- Comércio
+- Transporte Aéreo
+- Transporte Marítimo
 - Transporte Público
-- Desporto
+- Transporte Rodoviário
+- Transporte Terrestre
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:02Z'
   warnings: []
   errors: []
 ---
@@ -130,12 +130,12 @@ São aprovadas as Orientações de Médio Prazo 2009-2012.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 2 de Abril de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 24 de Abril de 2009.**
+Assinado em Angra do Heroísmo em 24 de Abril de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/08700/0262702710.pdf))](https://files.diariodarepublica.pt/1s/2009/05/08700/0262702710.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/08700/0262702710.pdf)

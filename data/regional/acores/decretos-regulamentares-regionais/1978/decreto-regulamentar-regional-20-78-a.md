@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24200/22242226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1978-328049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b9ecc5c201b250160bb39d682e34dc9f80d3e7a882dd7ee72cbb046692e4c97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8da7f7c3f81dc018666f30553cff8ae2b59188b40970e36aa7af4bd668e61133
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Regional dos Transportes Terrestres
+- Orgânica
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ADITADOS 3 LUGARES DE TERCEIRO OFICIAL AO QUADRO DE PESSOAL ANEXO AO PRESENTE DIPLOMA PELO DECRETO REGULAMENTAR\
+    \ REGIONAL 13/80/A, PUBLICADO NO DR.IS, 66, DE 800319. ALTERADO O QUADRO DE PESSOAL PELO DECRETO REGULAMENTAR REGIONAL\
+    \ 25/80/A, PUBLICADO NO DR.IS, 132, DE 800609. REVOGADO PELO DECRETO REGULAMENTAR REGIONAL 9/90/A, PUBLICADO NO DR.IS,\
+    \ 57, DE 900309.\0, 57, DE 900309.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:332726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473123:por
+  label: Alterado o quadro de pessoal a que se refere o art. 7.º, pelo(a) Decreto Regulamentar Regional n.º 25/80/A - Diário
+    da República n.º 132/1980, Série I de 1980-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-1980-473123
+  date: '1980-06-09'
+- type: cites
+  target: pt:dre:139938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444743:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332726:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 9/90/A - Diário da República n.º 57/1990, Série I de 1990-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1990-332726
+  date: '1990-03-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:46Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +126,9 @@ Em execução do Decreto Regional n.º 3/76/A, de 31 de Dezembro:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Direcção Regional de Transportes tem como âmbito de acção os meios de transportes terrestres e a circulação rodoviária.
+Artigo 1.º A Direcção Regional de Transportes tem como âmbito de acção os meios de transportes terrestres e a circulação rodoviária.
 
-###### Art. 2.º - 1 - A Direcção Regional de Transportes Terrestres compreende as Delegações de Viação e Transportes de Angra do Heroísmo, Horta e Ponta Delgada, com superintendência, respectivamente, nas ilhas de:
+Art. 2.º - 1 - A Direcção Regional de Transportes Terrestres compreende as Delegações de Viação e Transportes de Angra do Heroísmo, Horta e Ponta Delgada, com superintendência, respectivamente, nas ilhas de:
 
 a) Terceira, Graciosa e S. Jorge;
 
@@ -111,9 +140,9 @@ c) S. Miguel e Santa Maria.
 
 3 - A Direcção Regional apoiar-se-á administrativamente na Delegação da cidade em que tiver a sede, quando esta não coincidir com a da Secretaria Regional dos Transportes e Turismo.
 
-###### Art. 3.º Os delegados de Viação e Transportes de Angra do Heroísmo, Horta e Ponta Delgada serão designados em comissão de serviço por dois anos pelo Secretário Regional dos Transportes e Turismo de entre os engenheiros do quadro do pessoal técnico da Direcção Regional e poderão optar entre o seu vencimento e o de chefe de repartição.
+Art. 3.º Os delegados de Viação e Transportes de Angra do Heroísmo, Horta e Ponta Delgada serão designados em comissão de serviço por dois anos pelo Secretário Regional dos Transportes e Turismo de entre os engenheiros do quadro do pessoal técnico da Direcção Regional e poderão optar entre o seu vencimento e o de chefe de repartição.
 
-###### Art. 4.º Compete genericamente à Direcção Regional de Transportes Terrestres:
+Art. 4.º Compete genericamente à Direcção Regional de Transportes Terrestres:
 
 a) A coordenação, o desenvolvimento e a segurança dos meios de transportes terrestres, em conformidade com as necessidades públicas e as leis regulamentares em vigor;
 
@@ -121,7 +150,7 @@ b) As atribuições conferidas às Direcções-Gerais de Viação e Transportes 
 
 c) Exercer as demais funções que, dentro do campo genérico dos transportes terrestres, lhe sejam cometidas pelo Secretário Regional dos Transportes e Turismo.
 
-###### Art. 5.º Compete especialmente à Direcção Regional de Transportes Terrestres:
+Art. 5.º Compete especialmente à Direcção Regional de Transportes Terrestres:
 
 a) Proceder a estudos e análise de tráfego, bem como estabelecer planos de ordenamento e contrôle de tráfego;
 
@@ -149,7 +178,7 @@ m) Centralizar a estatística interna do sector;
 
 n) Elaborar em cada ano um relatório cobrindo, em relação ao anterior, as actividades do sector dos transportes terrestres.
 
-###### Art. 6.º Compete às Delegações de Viação e Transportes:
+Art. 6.º Compete às Delegações de Viação e Transportes:
 
 a) Tratar dos assuntos relativos a expediente geral, assegurando a recepção dos requerimentos sobre matéria de competência da Direcção Regional;
 
@@ -185,36 +214,36 @@ q) Elaborar em cada ano um relatório, cobrindo, em relação ao ano anterior, a
 
 r) Desempenhar as restantes missões não especificadas nos números anteriores mas exercidas pela secção de viação dos Serviços Industriais, Eléctricos e de Viação das extintas juntas gerais.
 
-###### Art. 7.º - 1 - O pessoal da Direcção Regional de Transportes Terrestres é o constante do quadro anexo ao presente diploma.
+Art. 7.º - 1 - O pessoal da Direcção Regional de Transportes Terrestres é o constante do quadro anexo ao presente diploma.
 
 2 - O preenchimento do quadro referido no número anterior processar-se-á de acordo com as necessidades.
 
-###### Art. 8.º Ao Secretário Regional dos Transportes e Turismo compete a colocação do pessoal, de harmonia com as necessidades e a conveniência dos serviços e as aptidões dos funcionários.
+Art. 8.º Ao Secretário Regional dos Transportes e Turismo compete a colocação do pessoal, de harmonia com as necessidades e a conveniência dos serviços e as aptidões dos funcionários.
 
-###### Art. 9.º As condições de ingresso, acesso e carreira profissional do pessoal do quadro da Direcção Regional de Transportes Terrestres serão, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar e, até lá, regular-se-ão pela legislação regional e geral em vigor.
+Art. 9.º As condições de ingresso, acesso e carreira profissional do pessoal do quadro da Direcção Regional de Transportes Terrestres serão, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar e, até lá, regular-se-ão pela legislação regional e geral em vigor.
 
-###### Art. 10.º - 1 - O pessoal dos quadros das Direcções dos Serviços Industriais, Eléctricos e de Viação das extintas juntas gerais que, à data da entrada em vigor do presente diploma, se encontre afecto aos serviços dependentes da Direcção Regional de Transportes Terrestres será, por despacho conjunto dos Secretários Regionais da Administração Pública e dos Transportes e Turismo, provido nos lugares dos novos quadros independentemente do tempo de serviço prestado e de quaisquer formalidades, mas sem prejuízo das habilitações literárias exigidas.
+Art. 10.º - 1 - O pessoal dos quadros das Direcções dos Serviços Industriais, Eléctricos e de Viação das extintas juntas gerais que, à data da entrada em vigor do presente diploma, se encontre afecto aos serviços dependentes da Direcção Regional de Transportes Terrestres será, por despacho conjunto dos Secretários Regionais da Administração Pública e dos Transportes e Turismo, provido nos lugares dos novos quadros independentemente do tempo de serviço prestado e de quaisquer formalidades, mas sem prejuízo das habilitações literárias exigidas.
 
 2 - O pessoal dos quadros da Direcção de Viação e da Direcção de Transportes, anexados à Direcção de Obras Públicas da Horta, será provido nos lugares do novo quadro mediante acordo com o Governo da República.
 
 3 - O pessoal integrado na mesma categoria não perde a antiguidade nela obtida anteriormente.
 
-###### Art. 11.º O Secretário Regional dos Transportes e Turismo poderá autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, nas condições que forem fixadas com acordo da Secretaria Regional da Administração Pública.
+Art. 11.º O Secretário Regional dos Transportes e Turismo poderá autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, nas condições que forem fixadas com acordo da Secretaria Regional da Administração Pública.
 
-###### Art. 12.º Fica revogado o Decreto Regulamentar Regional n.º 8/77/A, de 25 de Março.
+Art. 12.º Fica revogado o Decreto Regulamentar Regional n.º 8/77/A, de 25 de Março.
 
 Aprovado em plenário do Governo Regional em 25 de Agosto de 1978.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada, em 28 de Setembro de 1978.**
+Assinado em Ponta Delgada, em 28 de Setembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 Quadro e vencimentos do pessoal a que se refere o artigo 6.º, n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/10/24200/22242226.pdf))](https://files.diariodarepublica.pt/1s/1978/10/24200/22242226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/10/24200/22242226.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

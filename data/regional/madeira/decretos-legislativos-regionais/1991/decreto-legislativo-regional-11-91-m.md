@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/1991/04/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1991-598332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96890b54e02095337fde37cd4de3df1f03d7986133b2f39e5cf2d17fc3cdd9a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57fa52ac4b485ab6756e4a4d158ced3ebea12687cddd67b5798381374f65c4f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ subjects:
 - Madeira.região Autónoma
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:32Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +106,7 @@ Neste termos:
 
 Ao abrigo da alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Legislativa Regional da Madeira determina para valer como lei:
 
-###### Artigo 1.º É criado o brasão de armas da Região Autónoma da Madeira.
+Artigo 1.º É criado o brasão de armas da Região Autónoma da Madeira.
 
 2.º É a seguinte a descrição completa do referido brasão de armas:
 
@@ -124,20 +124,20 @@ f) Suportes: dois lobos-marinhos Monachus monachus (Herman);
 
 g) Divisa: «Das ilhas, as mais belas e livres».
 
-###### Art. 3.º O uso do escudo e do brasão é privativo dos órgãos de governo próprio da Região, gozando da protecção legal inerente aos símbolos heráldicos das restantes entidades constitucionais.
+Art. 3.º O uso do escudo e do brasão é privativo dos órgãos de governo próprio da Região, gozando da protecção legal inerente aos símbolos heráldicos das restantes entidades constitucionais.
 
-###### Art. 4.º A Região exerce sobre os seus símbolos heráldicos todos os direitos correspondentes à sua propriedade intelectual, carecendo a reprodução para fins comerciais e outro, de autorização do Governo Regional.
+Art. 4.º A Região exerce sobre os seus símbolos heráldicos todos os direitos correspondentes à sua propriedade intelectual, carecendo a reprodução para fins comerciais e outro, de autorização do Governo Regional.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 17 de Janeiro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 7 de Fevereiro de 1991.**
+Assinado em 7 de Fevereiro de 1991.
 
 Pubique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/095a00/23332334.pdf))](https://files.diariodarepublica.pt/1s/1991/04/095a00/23332334.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/095a00/23332334.pdf)

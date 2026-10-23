@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00200/0006900077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2024/01/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2024-836079151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44de685f282dfba8aedd6e99d8f83fa0bd88568ffb31c79395117fef058e9481
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da6724100c0252e597e7e276e85c4405bd4d9b402df0ca9ab47eb9d293076143
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- Fundos CE
 - Açores
-- Autoridade de Gestão
 - Açores 2030
+- Autoridade de Gestão
+- Definição de Competências
+- Fundos CE
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:9/2023/A
+  label: Altera, a partir de 4 de janeiro de 2024, os artigos 2.º e 9.º e republica o Decreto Regulamentar Regional n.º 9/2023/A
+    de 23 de março, Diário da República n.º 59/2023, Série I
+  source: null
+  date: '2023-03-23'
 - type: cites
   target: celex:32021R1060
   label: null
@@ -89,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/2023/03/23/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/2023/03/23/a/dre
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210875030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216055970:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 19
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:03Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +171,9 @@ g) [...]
 
 h) Homologar as metodologias de opções de custos simplificados, definidas ao abrigo das alíneas a), c) e d) do n.º 3 do artigo 53.º do [Regulamento (UE) 2021/1060](http://data.europa.eu/eli/reg/2021/1060/oj?locale=pt), do Parlamento Europeu e do Conselho, de 24 de junho de 2021, propostas pelas autoridades de gestão, após parecer do órgão de coordenação técnica e avaliação ex ante da autoridade de auditoria.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 [...]
 
@@ -171,11 +191,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 8 de dezembro de 2023.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 28 de dezembro de 2023.**
+Assinado em Angra do Heroísmo em 28 de dezembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -460,3 +480,5 @@ e) O relatório final de desempenho, a apresentar à Comissão Europeia, sob pro
 1 - O presente diploma produz efeitos no dia 6 de março de 2023.
 
 2 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+117206574

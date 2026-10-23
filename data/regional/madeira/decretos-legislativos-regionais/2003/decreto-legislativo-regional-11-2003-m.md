@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2003/06/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2003-683021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa358ff1d282112ec99d4fe97c7c23eaf724fb099f9369898b0b2ab5cb2f2f61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64354601f16e5f04677b6452e8cc279b7623e63bec22afcccda27115a5dc451f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,16 @@ reuse:
 subjects:
 - Acreditação
 - Certificação Profissional
-- Higiene do Trabalho
+- Condições de Higiene e Segurança no Trabalho
+- Curso Profissional
 - Definição de Competências
 - Deontologia Profissional
 - Direcção Regional do Trabalho
-- Curso Profissional
+- Higiene do Trabalho
+- Inspecção Regional do Trabalho
+- Madeira.região Autónoma
 - Pessoal Técnico de Segurança e Higiene do Trabalho
 - Pessoal Técnico Superior de Segurança e Higiene do Trabalho
-- Madeira.região Autónoma
-- Condições de Higiene e Segurança no Trabalho
-- Inspecção Regional do Trabalho
 - TAXA de Prestação de Serviços
 relationships:
 - type: cites
@@ -101,16 +101,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/14/2001/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/14/2001/06/04/p/dre
+- type: cites
+  target: pt:dre:302962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:12Z'
   warnings: []
   errors: []
 ---
@@ -151,10 +171,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 8 de Maio de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 22 de Maio de 2003.**
+Assinado em 22 de Maio de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

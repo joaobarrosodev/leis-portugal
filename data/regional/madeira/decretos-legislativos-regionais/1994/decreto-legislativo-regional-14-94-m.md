@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/1994/06/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1994-301450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82ad3bd25b695f11451deedff8b5f0b21081e40807dfcaa1cd913150884a82d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16108cbdc97de4240cc4c60b95aa85eee9034b8a95d6ef8cb2b1a5734fad27e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Capital Social
 - Empresa de Electricidade da Madeira
 - Estatuto
 - Integração de Trabalhadores
-- Personalidade Jurídica
 - Madeira.região Autónoma
+- Personalidade Jurídica
+- Sociedade Anónima
 - Transferência Patrimonial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:356513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:55Z'
   warnings: []
   errors: []
 ---
@@ -113,31 +133,31 @@ Assim:
 
 A Assembleia Legislativa Regional, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 29.º, da alínea c) do artigo 30.º e do n.º 1 do artigo 31.º, todos da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º - 1 - A empresa pública Empresa de Electricidade da Madeira, E. P., criada pelo [Decreto-Lei n.º 12/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1974-408298), de 17 de Janeiro, é transformada, a partir da entrada em vigor do presente diploma, em sociedade anónima de capitais exclusivamente públicos, com a denominação de EEM - Empresa de Electricidade da Madeira, S. A.
+Artigo 1.º - 1 - A empresa pública Empresa de Electricidade da Madeira, E. P., criada pelo [Decreto-Lei n.º 12/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1974-408298), de 17 de Janeiro, é transformada, a partir da entrada em vigor do presente diploma, em sociedade anónima de capitais exclusivamente públicos, com a denominação de EEM - Empresa de Electricidade da Madeira, S. A.
 
 2 - A EEM, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas reguladoras das sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade.
 
-###### Art. 2.º - 1 - A EEM, S. A., sucede automática e globalmente à Empresa de Electricidade da Madeira, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
+Art. 2.º - 1 - A EEM, S. A., sucede automática e globalmente à Empresa de Electricidade da Madeira, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que constituem o seu património no momento da transformação.
 
 2 - O presente diploma constitui título bastante para a comprovação do disposto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, mediante simples comunicação subscrita por dois membros do conselho de administração da EEM, S. A.
 
-###### Art. 3.º - 1 - As acções da EEM, S. A., pertencem à Região Autónoma da Madeira e só poderão ser transmitidas para entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
+Art. 3.º - 1 - As acções da EEM, S. A., pertencem à Região Autónoma da Madeira e só poderão ser transmitidas para entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
 
 2 - As acções representativas do capital subscrito pela Região Autónoma da Madeira serão detidas pela mesma.
 
 3 - Os direitos da Região Autónoma da Madeira, como accionista da EEM, S. A., são exercidos pelo Governo Regional da Madeira, através da secretaria regional que tutela o sector da energia.
 
-###### Art. 4.º O capital social inicial da EEM, S. A., é de 2779660000$00, correspondendo ao valor do capital estatutário da Empresa de Electricidade da Madeira, E. P., e encontra-se realizado pelos valores que integram o património da sociedade.
+Art. 4.º O capital social inicial da EEM, S. A., é de 2779660000$00, correspondendo ao valor do capital estatutário da Empresa de Electricidade da Madeira, E. P., e encontra-se realizado pelos valores que integram o património da sociedade.
 
-###### Art. 5.º - 1 - São aprovados os estatutos da EEM, S. A., publicados em anexo ao presente diploma.
+Art. 5.º - 1 - São aprovados os estatutos da EEM, S. A., publicados em anexo ao presente diploma.
 
 2 - As eventuais alterações aos estatutos produzirão todos os seus efeitos desde que deliberadas segundo o próprio regime estatutário vigente e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e subsequente registo e publicação.
 
 3 - A alteração efectuada pelo artigo 1.º, bem como os estatutos da EEM, S. A., agora aprovados, produzem efeitos relativamente a terceiros, independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 90 dias seguintes à data da entrada em vigor deste diploma.
 
-###### Art. 6.º No primeiro dia da entrada em vigor do presente diploma reunir-se-á, ao abrigo do artigo 54.º do Código das Sociedades Comerciais, a assembleia geral da sociedade a fim de serem eleitos os membros dos órgãos sociais.
+Art. 6.º No primeiro dia da entrada em vigor do presente diploma reunir-se-á, ao abrigo do artigo 54.º do Código das Sociedades Comerciais, a assembleia geral da sociedade a fim de serem eleitos os membros dos órgãos sociais.
 
-###### Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará à secretaria regional que tutela o sector da energia, pelo menos 30 dias antes da data da assembleia geral anual, o seguinte:
+Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará à secretaria regional que tutela o sector da energia, pelo menos 30 dias antes da data da assembleia geral anual, o seguinte:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -145,7 +165,7 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará, trimestralmente, à secretaria regional que tutela o sector da energia um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 8.º - 1 - Os trabalhadores e pensionistas da Empresa de Electricidade da Madeira, E. P., mantêm todos os direitos, obrigações e regalias que detiverem à data da entrada em vigor do presente diploma.
+Art. 8.º - 1 - Os trabalhadores e pensionistas da Empresa de Electricidade da Madeira, E. P., mantêm todos os direitos, obrigações e regalias que detiverem à data da entrada em vigor do presente diploma.
 
 2 - Os funcionários da administração central, regional e local, dos institutos públicos, das empresas públicas e de capital exclusiva ou maioritariamente público podem ser autorizados a exercer funções, em regime de comissão de serviço, na EEM, S. A., conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outras regalias.
 
@@ -153,45 +173,45 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 4 - Os direitos e regalias dos trabalhadores decorrentes da lei, instrumentos de regulamentação colectiva ou contratos individuais de trabalho não são prejudicados pela transferência para a nova sociedade, contando-se, para todos os efeitos, o tempo de serviço prestado na Empresa de Electricidade da Madeira, E. P., quer antes quer depois da sua transformação em sociedade anónima.
 
-###### Art. 9.º São isentos de taxas e emolumentos devidos a quaisquer entidades de âmbito nacional ou local, designadamente ao Registo Nacional de Pessoas Colectivas e às conservatórias do registo predial ou comercial, todos os actos a praticar para execução do disposto no presente diploma, incluindo os registos das nomeações dos primeiros membros designados para os órgãos de administração e fiscalização da EEM, S. A.
+Art. 9.º São isentos de taxas e emolumentos devidos a quaisquer entidades de âmbito nacional ou local, designadamente ao Registo Nacional de Pessoas Colectivas e às conservatórias do registo predial ou comercial, todos os actos a praticar para execução do disposto no presente diploma, incluindo os registos das nomeações dos primeiros membros designados para os órgãos de administração e fiscalização da EEM, S. A.
 
-###### Art. 10.º Até ao termo dos correspondentes contratos, o Governo Regional da Madeira mantém perante as instituições financeiras que celebraram contratos com a Empresa de Electricidade da Madeira, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente diploma ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+Art. 10.º Até ao termo dos correspondentes contratos, o Governo Regional da Madeira mantém perante as instituições financeiras que celebraram contratos com a Empresa de Electricidade da Madeira, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente diploma ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
 
-###### Art. 11.º O presente diploma entra em vigor no quinto dia útil do mês seguinte ao da sua publicação.
+Art. 11.º O presente diploma entra em vigor no quinto dia útil do mês seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 19 de Abril de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 13 de Maio de 1994.**
+Assinado em 13 de Maio de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República, para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ## ANEXO — Estatutos da EEM - Empresa de Electricidade da Madeira, S. A.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-###### Artigo 1.º - 1 - A sociedade anónima que, por força do Decreto Legislativo Regional n.º 14/94/M, de 3 de Junho, continua a personalidade jurídica da empresa pública da Empresa de Electricidade da Madeira, E. P., adopta a denominação de EEM - Empresa de Electricidade da Madeira, S. A.
+Artigo 1.º - 1 - A sociedade anónima que, por força do Decreto Legislativo Regional n.º 14/94/M, de 3 de Junho, continua a personalidade jurídica da empresa pública da Empresa de Electricidade da Madeira, E. P., adopta a denominação de EEM - Empresa de Electricidade da Madeira, S. A.
 
 2 - A sociedade rege-se pelo Decreto Legislativo Regional n.º 14/94/M, de 3 de Junho, pelas normas reguladoras das sociedades anónimas, pelas normas especiais cuja aplicação decorra do objecto da sociedade e pelos presentes estatutos.
 
-###### Art. 2.º - 1 - A sociedade tem a sede na Avenida do Mar e das Comunidades Madeirenses, 32, 9000 Funchal.
+Art. 2.º - 1 - A sociedade tem a sede na Avenida do Mar e das Comunidades Madeirenses, 32, 9000 Funchal.
 
 2 - O conselho de administração, ouvido o conselho fiscal, pode criar e encerrar, em qualquer ponto da Região Autónoma da Madeira, agências, delegações ou quaisquer formas de representação.
 
-###### Art. 3.º - 1 - O objecto principal da sociedade é a produção, transporte e distribuição de energia eléctrica.
+Art. 3.º - 1 - O objecto principal da sociedade é a produção, transporte e distribuição de energia eléctrica.
 
 2 - A sociedade pode participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico e, bem assim, adquirir, originária ou subsequentemente, acções ou quotas em sociedades de responsabilidade limitada, qualquer que seja o objecto destas e ainda que sujeitas a leis especiais.
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-###### Art. 4.º - 1 - O capital da sociedade é de 2779660000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.
+Art. 4.º - 1 - O capital da sociedade é de 2779660000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.
 
 2 - O capital social é representado por 2779660 acções, com o valor nominal de 1000$00 cada uma.
 
-###### Art. 5.º - 1 - As acções são nominativas, não podendo ser convertidas em acções ao portador.
+Art. 5.º - 1 - As acções são nominativas, não podendo ser convertidas em acções ao portador.
 
 2 - As acções podem revestir forma escritural.
 
@@ -199,7 +219,7 @@ Aprovado em sessão plenária em 19 de Abril de 1994.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 6.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 6.º - 1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O presidente do conselho de administração é escolhido, de entre os administradores, pela assembleia geral que eleger aquele órgão.
 
@@ -209,21 +229,21 @@ Aprovado em sessão plenária em 19 de Abril de 1994.
 
 ### CAPÍTULO IV — Assembleia geral
 
-###### Art. 7.º A assembleia geral é composta pelo accionista ou accionistas com direito a voto.
+Art. 7.º A assembleia geral é composta pelo accionista ou accionistas com direito a voto.
 
-###### Art. 8.º A mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei.
+Art. 8.º A mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei.
 
-###### Art. 9.º No aviso convocatório da assembleia geral pode ser fixado um prazo não superior a oito dias antes da reunião da assembleia para a recepção pelo presidente da mesa dos instrumentos de representação de accionistas e, bem assim, da indicação dos representantes de pessoas colectivas.
+Art. 9.º No aviso convocatório da assembleia geral pode ser fixado um prazo não superior a oito dias antes da reunião da assembleia para a recepção pelo presidente da mesa dos instrumentos de representação de accionistas e, bem assim, da indicação dos representantes de pessoas colectivas.
 
 ### CAPÍTULO V — Conselho de administração
 
-###### Art. 10.º O conselho de administração é composto por três ou cinco administradores, conforme deliberado em assembleia geral.
+Art. 10.º O conselho de administração é composto por três ou cinco administradores, conforme deliberado em assembleia geral.
 
-###### Art. 11.º - 1 - O conselho de administração pode delegar poderes nos termos do artigo 407.º do Código das Sociedades Comerciais.
+Art. 11.º - 1 - O conselho de administração pode delegar poderes nos termos do artigo 407.º do Código das Sociedades Comerciais.
 
 2 - A aquisição, alienação e oneração de participações sociais são da competência do conselho e incluem-se nos actos delegáveis.
 
-###### Art. 12.º - 1 - A sociedade obriga-se:
+Art. 12.º - 1 - A sociedade obriga-se:
 
 a) Por dois administradores;
 
@@ -235,29 +255,29 @@ c) Por procuradores, quanto aos actos ou categorias de actos definidos nas procu
 
 3 - Em assuntos de mero expediente bastará a assinatura de um administrador.
 
-###### Art. 13.º - 1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.
+Art. 13.º - 1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.
 
 2 - Não é permitida a representação de mais de um administrador em cada reunião.
 
-###### Art. 14.º - 1 - As remunerações dos administradores serão fixadas pela assembleia geral.
+Art. 14.º - 1 - As remunerações dos administradores serão fixadas pela assembleia geral.
 
 2 - A remuneração pode consistir parcialmente numa percentagem que não poderá exceder globalmente 1% dos lucros do exercício, deduzidos da importância destinada a reserva legal.
 
-###### Art. 15.º Os administradores terão direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral.
+Art. 15.º Os administradores terão direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral.
 
 ### CAPÍTULO VI — Conselho fiscal
 
-###### Art. 16.º - 1 - O conselho fiscal é composto por três membros.
+Art. 16.º - 1 - O conselho fiscal é composto por três membros.
 
 2 - Haverá dois suplentes.
 
-###### Art. 17.º O conselho fiscal deve reunir pelo menos uma vez em cada mês.
+Art. 17.º O conselho fiscal deve reunir pelo menos uma vez em cada mês.
 
-###### Art. 18.º As remunerações dos membros do conselho fiscal serão fixadas pela assembleia geral.
+Art. 18.º As remunerações dos membros do conselho fiscal serão fixadas pela assembleia geral.
 
 ### CAPÍTULO VII — Aplicação dos resultados
 
-###### Art. 19.º Os lucros de exercício, apurados em conformidade com a lei, terão, sucessivamente, a seguinte aplicação:
+Art. 19.º Os lucros de exercício, apurados em conformidade com a lei, terão, sucessivamente, a seguinte aplicação:
 
 a) Cobertura de prejuízos de exercícios anteriores;
 
@@ -273,6 +293,6 @@ f) Outras finalidades que a assembleia geral deliberar.
 
 ### CAPÍTULO VIII — Disposições
 
-###### Art. 20.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
+Art. 20.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.

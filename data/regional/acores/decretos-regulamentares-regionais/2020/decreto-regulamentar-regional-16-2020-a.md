@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2020/08/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2020-139348421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8499c596870f6e46b9668bc0c843145b787aa91c25036be0d2efd98fb1d226dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54dcca82e7987f5a2273eb7ba727ec9a3a39415ff77c95ab84e7ea048ee3cfd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cartografia
-- Ordenamento do Território
-- Arborização
-- Proteção do Ambiente
-- Gestão do Ambiente
-- Parque Natural da Ilha do Faial
-- Regulamento
 - Açores
+- Arborização
+- Cartografia
+- Gestão do Ambiente
 - ILHA do Faial
+- Ordenamento do Território
+- Parque Natural da Ilha do Faial
+- Proteção do Ambiente
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/4/2005/02/14/p/dre
@@ -115,16 +115,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19/2014/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19/2014/04/14/p/dre
+- type: cites
+  target: pt:dre:121579662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122373686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74711478:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:32Z'
   warnings: []
   errors: []
 ---
@@ -195,11 +271,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pelo Conselho do Governo Regional, em Ponta Delgada, em 22 de junho de 2020.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 20 de julho de 2020.**
+Assinado em Angra do Heroísmo em 20 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -575,13 +651,13 @@ O presente regulamento não prejudica os pedidos de autorização ou licenciamen
 
 Planta de Zonamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 ## ANEXO III — [a que se refere a alínea c) do n.º 1 do artigo 1.º]
 
 Planta de Condicionantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 ## ANEXO IV — [a que se refere a alínea d) do n.º 1 do artigo 1.º]
 
@@ -719,19 +795,19 @@ ANEXOS
 
 O Arquipélago dos Açores localiza-se no oceano Atlântico norte ocupando uma faixa definida pelas seguintes coordenadas geográficas: 39º 43' 23'' (Ponta Norte - Ilha do Corvo) e 36º 55' 43'' (Ponta do Castelo - Ilha de Santa Maria) de latitude norte; 24º 46' 15'' (Ilhéus das Formigas - Ilha de Santa Maria) e 31º 16' 24'' (Ilhéu de Monchique - Ilha das Flores) de longitude oeste.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 1 - Arquipélago dos Açores no mundo
 
 As ilhas encontram-se agrupadas atendendo à proximidade geográfica: Grupo Ocidental (Corvo e Flores); Grupo Central (Terceira, Graciosa, São Jorge, Pico e Faial); Grupo Oriental (São Miguel e Santa Maria). O Grupo Central distancia-se cerca de 150 km e de 240 km dos Grupos Oriental e Ocidental, respetivamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 2 - Arquipélago dos Açores e Ilha do Faial
 
 A partir da Carta de Ocupação do Solo da Região Autónoma dos Açores de 2018 (COS.A/2018) pode concluir-se que os prados/pastagens representam mais de metade da ocupação total (51,62 %) e encontram-se distribuídos por toda a ilha, com exceção das zonas mais elevadas e da zona dos Capelinhos. As florestas de folhosas (13,54 %) concentram-se nas áreas de cota mais elevada, em torno da Caldeira do Faial, e a vegetação herbácea natural (11,74 %) também em torno da Caldeira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 3 - Usos do solo a partir da COS.A/2018
 
@@ -741,13 +817,13 @@ Nos Açores, uma parte substancial dos terrenos públicos estão integrados nos 
 
 Refira-se, no entanto, que as áreas de perímetro florestal que, entretanto, foram classificadas no âmbito da Rede de Áreas Protegidas dos Açores estão sujeitas ao respetivo regime de classificação e ao regime jurídico da conservação da natureza e da biodiversidade, estabelecido pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 4 - Perímetro florestal e áreas protegidas (perímetro florestal - DRRF, 2014)
 
 O regime jurídico da conservação da natureza e da biodiversidade, aprovado pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril, define a Rede Fundamental de Conservação da Natureza como o conjunto dos territórios orientados para a conservação das componentes mais representativas do património natural e da biodiversidade. O conjunto das áreas integradas no Parque Natural de Ilha e as áreas de Reserva Ecológica e de Reserva Agrícola conformam a Rede Fundamental da Conservação da Natureza.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 5 - Rede Fundamental da Conservação da Natureza - Integra as áreas protegidas, as áreas da Rede Natura 2000, a Reserva Ecológica e a Reserva Agrícola (IROA 2013)
 
@@ -785,7 +861,7 @@ h) Vale de Flamengos (F8) - abrange uma área de, aproximadamente, 5 km2 do conc
 
 i) Horta (F9) - abrange uma área de, aproximadamente, 7 km2 do concelho da Horta e integra o centro urbano da cidade Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 6 - Unidades de Paisagem da ilha do Faial
 
@@ -807,7 +883,7 @@ Atualmente, nos Açores são conhecidos mais de três centenas de cavidades vulc
 
 Neste contexto, o Plano de Gestão prevê a implementação de medidas de gestão para as cavidades vulcânicas, dando execução ao disposto no [Decreto Legislativo Regional n.º 10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 7 - Cavidades Vulcânicas da ilha do Faial
 
@@ -815,19 +891,19 @@ O Parque Natural da Ilha do Faial foi criado em 2008, pelo [Decreto Legislativo 
 
 O PNI do Faial integra 14 áreas protegidas, das quais 9 são terrestres com uma área total de 30,1 km2, o que corresponde a 17,45 % da superfície do Faial, e 5 áreas marinhas com 188,93 km2. Na figura 8 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 8 - Áreas protegidas do PNI do Faial
 
 Na figura 9 apresentam-se as áreas protegidas pertencentes ao PNI do Faial discriminadas segundo as categorias definidas pela União Internacional para a Conservação da Natureza (IUCN): à categoria i corresponde a designação de Reserva Natural; à categoria IIII corresponde a designação de Monumento Natural; à categoria iv corresponde a designação de Área Protegida para a Gestão de Habitats e Espécies; à categoria v corresponde a designação de Área de Paisagem Protegida e à categoria VI a designação de Área Protegida de Gestão de Recursos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 9 - Áreas protegidas de acordo com as categorias IUCN
 
 Na figura 10 mostra-se a relação das áreas terrestres do PNI do Faial com as áreas da Rede Natura 2000, concretamente as Zonas Especiais de Conservação (ZEC) e as Zonas de Proteção Especial (ZPE).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 10 - Relação das Zonas Especiais de Conservação (ZEC) e das Zonas de Proteção Especial (ZPE) com as áreas protegidas do PNI
 
@@ -835,7 +911,7 @@ Na Tabela 1 evidencia-se a correspondência entre as áreas protegidas do PNI do
 
 Tabela 1 - Designação toponímica das áreas protegidas e respetivas classificações internacionais. A cor azul-claro, indicam-se as áreas protegidas com componente terrestre, que são objeto do Plano de Gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Este Plano de Gestão ocupa-se unicamente da componente terrestre das áreas protegidas integradas no Parque Natural da Ilha do Faial.
 
@@ -851,7 +927,7 @@ Os objetivos gerais do Plano de Gestão são balizados pelos objetivos de desenv
 
 A metodologia seguida na elaboração deste Plano de Gestão encontra-se esquematizada na Figura 11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Figura 11 - Metodologia usada na elaboração do Plano de Gestão
 
@@ -883,7 +959,7 @@ Os resultados da análise SWOT realizada ao PNI do Faial estão resumidos de seg
 
 Tabela 2 - Resultados da análise SWOT realizada ao Parque Natural de Ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 4 - Listagem das Medidas de Gestão
 
@@ -891,13 +967,13 @@ Para que não se perca a visão integradora do Plano de Gestão, optou-se por cl
 
 Tabela 3 - Grandes temas de medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Esta metodologia permitiu identificar tipos de medidas que se podem propor no âmbito do Plano de Gestão, as quais estão dependentes de futuras relações a estabelecer com as entidades responsáveis pela sua implementação, e que estão em consonância com as medidas propostas pelo Plano Setorial da Rede Natura 2000.
 
 Tabela 4 - Tipos de medidas de gestão e entidades responsáveis pela sua implementação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Optou-se por produzir um sistema de classificação das medidas adaptado ao território açoriano. A cada medida foi atribuído um código, para que mais facilmente se possam relacionar com as unidades operativas de gestão.
 
@@ -919,13 +995,13 @@ Na tabela 5 apresentam-se os tipos de medidas de gestão e respetivos códigos.
 
 Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5 - Programa de Execução
 
 5.1 - Proposta de intervenção para a Reserva Natural da Caldeira do Faial (FAI02)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.1.1 - Objetivos de gestão
 
@@ -947,15 +1023,15 @@ OB8. Aferimento dos limites e condicionamentos ao livre acesso público de três
 
 5.1.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.1.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.2 - Proposta de intervenção para a Reserva Natural do Morro de Castelo Branco (FAI03)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.2.1 - Objetivos de gestão
 
@@ -975,15 +1051,15 @@ OB7. Definição de limites e condicionamentos ao livre acesso público - proibi
 
 5.2.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.2.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.3 - Proposta de intervenção para o Monumento Natural do Vulcão dos Capelinhos (FAI03-A)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.3.1 - Objetivos de gestão
 
@@ -997,15 +1073,15 @@ OB4. Condicionamento das atividades realizadas na área protegida e na sua envol
 
 5.3.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.3.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.4 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies do Cabeço do Fogo (FAI04)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.4.1 - Objetivos de gestão
 
@@ -1021,15 +1097,15 @@ OB5. Delimitação de novo troço do trilho PR6FAI que não conflitue com os hab
 
 5.4.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.4.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.5 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies dos Capelinhos, Costa Noroeste e Varadouro (FAI04)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.5.1 - Objetivos de gestão
 
@@ -1047,15 +1123,15 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.5.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.5.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.6 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies do Varadouro/Castelo Branco (FAI06)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.6.1 - Objetivos de gestão
 
@@ -1073,15 +1149,15 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.6.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.6.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.7 - Proposta de intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Lomba Grande (FAI07)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.7.1 - Objetivos de gestão
 
@@ -1099,15 +1175,15 @@ OB6. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.7.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.7.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.8 - Proposta de intervenção para a Área de Paisagem Protegida do Monte da Guia (FAI08)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.8.1 - Objetivos de gestão
 
@@ -1125,15 +1201,15 @@ OB6. Incentivo das atividades turísticas e recreativas segundo tipologias e esc
 
 5.8.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.8.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.9 - Proposta de intervenção para a Área de Paisagem Protegida da Zona Central (FAI09)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.9.1 - Objetivos de gestão
 
@@ -1155,15 +1231,15 @@ OB8. Incentivo das atividades turísticas e recreativas segundo tipologias e esc
 
 5.9.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.9.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.10 - Proposta de intervenção para a Área Protegida para Gestão de Recursos do Canal Faial-Pico/Setor Faial (FAI10)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.10.1 - Objetivos de gestão
 
@@ -1173,15 +1249,15 @@ OB2. Promoção de uma gestão efetiva visando o uso sustentável dos recursos e
 
 5.10.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.10.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.11 - Gestão e monitorização de cavidades vulcânicas protegidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 5.11.1 - Objetivos de gestão
 
@@ -1235,11 +1311,11 @@ O resultado das ações de monitorização do grau de concretização do Plano d
 
 Tendo em conta os macro objetivos, domínios e subdomínios definidos para a Região Autónoma dos Açores, o modelo de gestão territorial definido para os Planos de Gestão dos Parques naturais de Ilha é o seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 6.2 - Indicadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 7 - Bibliografia
 
@@ -1437,7 +1513,7 @@ Resolução do Conselho do Governo n.º 135/2018, de 10 de dezembro - aprova os 
 
 Tabela 1 - Listagem de habitats naturais da Rede Natura 2000 por área protegida do PNI Faial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 2 - Espécies com interesse para a conservação da natureza nas áreas protegidas do PNI Faial
 
@@ -1445,16 +1521,18 @@ Tabela 1 - Listagem de habitats naturais da Rede Natura 2000 por área protegida
 
 Tabela 2 - Listagem de espécies de flora por área protegida do PNI Faial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 2.1 - Fauna
 
 Tabela 3 - Listagem de espécies de aves por área protegida do PNI Faial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 Tabela 4 - Listagem de espécies de mamíferos por área protegida do PNI Faial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf))](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/14900/0002600127.pdf)
 
 (1) Os critérios que presidiram à inclusão dos habitats e espécies nas fichas de caracterização das áreas protegidas são os seguintes: em primeiro lugar teve-se em conta os habitats e espécies integrados nas FDN - Standart Data Form da Rede Natura 2000 - Fichas de caracterização das áreas de Rede Natura 2000 (ZEC e ZPE) regularmente submetidas à Comissão Europeia. Estas fichas são atualizadas com a informação científica mais recente, as que estão a ser utilizadas são na generalidade de 2015; em segundo lugar teve-se em conta os levantamentos bibliográficos e formulários preenchidos pelo pessoal técnico do PNI respeitantes às áreas protegidas; em terceiro lugar a informação recolhida quando dos levantamentos de campo.
+
+113423833

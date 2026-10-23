@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2013/08/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2013-498558
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 287242a11363487bb4194c2116fe67dbf4cae4771606bad41818867f2267f236
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e3402997501eed42dc8b96fa433e091ff2cdf612b05478ea73c5cabf6bfabdd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
+- Apoio ao Investimento
 - Comissão de Análise
 - Comunicação Social
-- Mudança Tecnológica
 - Difusão da Informação
+- Financiamento
 - Fiscalização
-- Apoio ao Investimento
 - Imprensa Regional
-- Meios de Comunicação Privados
-- Radiodifusão
-- Qualificação Profissional
-- Promedia
 - Investimento Privado
-- Açores
+- Meios de Comunicação Privados
+- Mudança Tecnológica
+- Promedia
+- Qualificação Profissional
+- Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:108280431:por
@@ -100,16 +100,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/2009/07/24/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/2009/07/24/a/dre
+- type: cites
+  target: pt:dre:146218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3411397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494227:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:108280431:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 7/2017/A - Diário da República n.º 195/2017, Série I de 2017-10-10,
+    sem prejuízo do disposto no seu art. 38.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2017-108280431
+  date: '2017-10-10'
 article_structure:
   article_count: 32
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:46Z'
   warnings: []
   errors: []
 ---
@@ -448,10 +474,10 @@ O processamento financeiro das candidaturas aprovadas e referentes a despesas ex
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de junho de 2013.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 16 de julho de 2013.**
+Assinado em Angra do Heroísmo em 16 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

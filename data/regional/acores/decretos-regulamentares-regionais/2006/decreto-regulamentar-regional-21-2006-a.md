@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/06/115b00/43034327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2006/06/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2006-345109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ceddc984d69507d5a240f6238b540bbeb3c4bfc64a1faa14690ac586a7dc761
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4460d6aaa1cfc45c8008451d5e2bfbc69ab6f9d0350bc486040ba49bf6066890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
-- ILHA de são Miguel
-- ILHA Terceira
 - Centro de Informática
-- Secretaria Regional da Economia
 - Conselho Regional de Incentivos
 - Definição de Competências
 - Direcção Regional de Apoio à Coesão Económica
@@ -78,29 +76,46 @@ subjects:
 - Direcção Regional do Comércio
 - Direcção Regional do Comércio Indústria e Energia
 - Direcção Regional dos Transportes Aéreos e Marítimos
-- Lisboa
 - Fundo Regional de Apoio às Actividades Económicas
 - Fundo Regional dos Transportes
-- Remuneração Acessória
 - ILHA das Flores
-- Ilha de São Jorge
-- Ilha do Corvo
-- Inspecção Regional das Actividades Económicas
-- Orgânica
 - ILHA de Santa Maria
-- Ilha do Pico
-- Ponta Delgada
-- Quadro de Pessoal
-- Ilha Graciosa
-- Serviços de ILHA
-- Açores
-- Porto
+- Ilha de São Jorge
+- ILHA de são Miguel
+- Ilha do Corvo
 - ILHA do Faial
+- Ilha do Pico
+- Ilha Graciosa
+- ILHA Terceira
+- Inspecção Regional das Actividades Económicas
+- Lisboa
+- Orgânica
+- Ponta Delgada
+- Porto
+- Quadro de Pessoal
+- Remuneração Acessória
+- Secretaria Regional da Economia
+- Serviços de ILHA
 relationships:
 - type: amended_by
   target: pt:dre:157996086:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determina a transição para as categorias de assistente técnico, e assistente operacional, nos termos dos arts. 4º\
+    \ e 7º, dos trabalhadores integrados nas carreiras ou titulares das categorias previstas no presente diploma, extintas\
+    \ a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Transitada para a dependência do Secretário Regional do Trabalho e Solidariedade Social, a Inspecção Regional das\
+    \ Actividades Económicas, cuja orgânica foi aprovada pelo DRR 16/97/A de 26-Jul, e integrada na Secretaria Regional da\
+    \ Economia pelo presente diploma, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112
   label: null
@@ -141,16 +156,134 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:158623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307798:por
+  label: "Revogado pelo DRR.18/2010/A.18.10.2010.PG-RAA, DR.IS [202] de 18.10.2010, na parte que se refere à orgânica por\
+    \ ele aprovada\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2010-307798
+  date: '2010-10-18'
+- type: repealed_by
+  target: pt:dre:670279:por
+  label: "Revogado pelo DRR.15/2011/A.21.06.2011.PG-RAA, DR.IS [118] de 21.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2011-670279
+  date: '2011-06-21'
+- type: repealed_by
+  target: pt:dre:157996086:por
+  label: Revogados, a partir de 20.02.2021, a al. c) do art.50.º e os arts. 57.º a 59.º do anexo, pelo(a) Decreto Regulamentar
+    Regional n.º 2/2021/A - Diário da República n.º 35/2021, Série I de 2021-02-19, nos termos do disposto no n.º 2 do art.
+    7.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2021-157996086
+  date: '2021-02-19'
 article_structure:
   article_count: 94
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 40
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:13Z'
   warnings: []
   errors: []
 ---
@@ -181,13 +314,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 4 de Maio de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 29 de Maio de 2006.**
+Assinado em Angra do Heroísmo em 29 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República para a Região Autónoma dos Açores, José António Mesquita.**
+O Presidente da República para a Região Autónoma dos Açores, José António Mesquita.
 
 ## ANEXO — Orgânica da Secretaria Regional da Economia
 
@@ -253,7 +386,7 @@ Gabinete Jurídico-Económico (GJE);
 
 Centro de Informática (CI);
 
-##### Divisão Administrativa e Financeira (DAF);
+Divisão Administrativa e Financeira (DAF);
 
 Centro Regional de Apoio ao Artesanato (CRAA);
 
@@ -353,7 +486,9 @@ l) Elaborar os relatórios e pareceres que lhe forem solicitados respeitantes à
 
 2 - O CI é dirigido por um chefe de divisão, directamente dependente do Secretário Regional da Economia.
 
-##### SUBSECÇÃO III — Divisão Administrativa e Financeira
+##### SUBSECÇÃO III
+
+##### Divisão Administrativa e Financeira
 
 ###### Artigo 9.º — Definição e competências
 
@@ -407,7 +542,9 @@ f) Zelar pela organização, manutenção e actualização do inventário e do c
 
 g) Executar outras funções que lhe sejam superiormente cometidas.
 
-###### Artigo 11.º — Secção de Recursos Humanos
+###### Artigo 11.º
+
+#### Secção de Recursos Humanos
 
 Compete à SRH:
 
@@ -437,7 +574,9 @@ l) Atender e informar o pessoal em matérias que integram as atribuições da Se
 
 m) Executar outras funções que lhe sejam superiormente cometidas.
 
-###### Artigo 12.º — Secção de Contabilidade e Património
+###### Artigo 12.º
+
+#### Secção de Contabilidade e Património
 
 Compete à SCP:
 
@@ -457,7 +596,9 @@ g) Assegurar a gestão do parque automóvel e a coordenação dos meios afectos;
 
 h) Executar outras funções que lhe sejam superiormente cometidas.
 
-###### Artigo 13.º — Secção de Expediente e Arquivo
+###### Artigo 13.º
+
+#### Secção de Expediente e Arquivo
 
 Compete à SEA:
 
@@ -495,7 +636,9 @@ p) Executar outras tarefas que superiormente lhe forem cometidas;
 
 q) Desenvolver as suas actividades em articulação com o Centro de Informação.
 
-###### Artigo 14.º — Secção de Apoio à Direcção Regional do Comércio, Indústria e Energia
+###### Artigo 14.º
+
+#### Secção de Apoio à Direcção Regional do Comércio, Indústria e Energia
 
 Compete à Secção de Apoio à DRCIE:
 
@@ -515,7 +658,9 @@ g) Executar outras tarefas que superiormente lhe forem cometidas;
 
 h) Desenvolver as suas actividades em articulação com o Centro de Informação.
 
-###### Artigo 15.º — Secção de Apoio à Direcção Regional dos Transportes Aéreos e Marítimos
+###### Artigo 15.º
+
+#### Secção de Apoio à Direcção Regional dos Transportes Aéreos e Marítimos
 
 Compete à Secção de Apoio à DRTAM:
 
@@ -721,7 +866,9 @@ d) Divisão da Qualidade;
 
 e) Divisão de Organização, Planeamento e Serviços Jurídicos.
 
-###### Artigo 24.º — Divisão do Comércio
+###### Artigo 24.º
+
+##### Divisão do Comércio
 
 Compete à Divisão do Comércio:
 
@@ -747,7 +894,9 @@ j) Instruir e executar os processos de licenciamento e autorização prévia, no
 
 k) Fiscalizar a inscrição dos estabelecimentos comerciais no respectivo cadastro.
 
-###### Artigo 25.º — Divisão da Indústria
+###### Artigo 25.º
+
+##### Divisão da Indústria
 
 Compete à Divisão da Indústria:
 
@@ -767,7 +916,9 @@ g) Proceder, no exercício das suas competências de fiscalização, ao levantam
 
 h) Fiscalizar a inscrição das empresas e estabelecimentos no respectivo cadastro.
 
-###### Artigo 26.º — Divisão de Recursos Geológicos
+###### Artigo 26.º
+
+##### Divisão de Recursos Geológicos
 
 Compete à Divisão de Recursos Geológicos:
 
@@ -791,7 +942,9 @@ i) Proceder, no exercício das suas competências, à fiscalização, levantamen
 
 j) Acompanhar os trabalhos de prospecção, pesquisa e exploração de recursos geológicos.
 
-###### Artigo 27.º — Divisão da Qualidade
+###### Artigo 27.º
+
+##### Divisão da Qualidade
 
 Compete à Divisão da Qualidade:
 
@@ -811,7 +964,9 @@ g) Fiscalizar o cumprimento das normas que constituem o Sistema Português da Qu
 
 h) Assegurar a aplicação e o cumprimento da regulamentação relativa ao controlo metrológico.
 
-###### Artigo 28.º — Divisão de Organização, Planeamento e Serviços Jurídicos
+###### Artigo 28.º
+
+##### Divisão de Organização, Planeamento e Serviços Jurídicos
 
 Compete à Divisão de Organização, Planeamento e Serviços Jurídicos:
 
@@ -861,7 +1016,9 @@ b) Divisão de Combustíveis;
 
 c) Divisão de Estatística e Planeamento.
 
-###### Artigo 31.º — Divisão de Energia Eléctrica
+###### Artigo 31.º
+
+##### Divisão de Energia Eléctrica
 
 Compete à Divisão de Energia Eléctrica:
 
@@ -879,7 +1036,9 @@ f) Controlar o cumprimento das obrigações a que se encontrem sujeitos os conce
 
 g) Apreciar e informar os requerimentos e reclamações relativos a instalações eléctricas.
 
-###### Artigo 32.º — Divisão de Combustíveis
+###### Artigo 32.º
+
+##### Divisão de Combustíveis
 
 Compete à Divisão de Combustíveis:
 
@@ -905,7 +1064,9 @@ j) Apreciar e informar os requerimentos e reclamações relativos a instalaçõe
 
 k) Promover a cobrança de taxas, multas ou coimas aplicadas.
 
-###### Artigo 33.º — Divisão de Estatística e Planeamento
+###### Artigo 33.º
+
+##### Divisão de Estatística e Planeamento
 
 Compete à Divisão de Estatística e Planeamento:
 
@@ -959,9 +1120,9 @@ A DRT compreende os seguintes serviços:
 
 a) Serviços centrais:
 
-#### Secção de Contabilidade e Património;
+Secção de Contabilidade e Património;
 
-#### Secção de Pessoal, Expediente e Arquivo;
+Secção de Pessoal, Expediente e Arquivo;
 
 Direcção de Serviços de Planeamento, Equipamento e Actividades Turísticas;
 
@@ -981,7 +1142,9 @@ c) Serviço inspectivo:
 
 Inspecção de Turismo.
 
-###### Artigo 37.º — Secção de Contabilidade e Património
+###### Artigo 37.º
+
+#### Secção de Contabilidade e Património
 
 Compete à Secção de Contabilidade e Património da DRT:
 
@@ -1007,7 +1170,9 @@ j) Garantir a conservação e limpeza de edifícios e outras instalações, bem 
 
 k) Executar outras tarefas que superiormente lhe sejam cometidas.
 
-###### Artigo 38.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 38.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 Compete à Secção de Pessoal, Expediente e Arquivo da DRT:
 
@@ -1051,7 +1216,9 @@ a) Divisão de Equipamento e Actividades Turísticas;
 
 b) Divisão de Ordenamento e Licenciamento de Instalações Turísticas.
 
-###### Artigo 41.º — Divisão de Equipamento e Actividades Turísticas
+###### Artigo 41.º
+
+##### Divisão de Equipamento e Actividades Turísticas
 
 À Divisão de Equipamento e Actividades Turísticas compete:
 
@@ -1077,7 +1244,9 @@ j) Coordenar estudos e preparar legislação com interesse e incidência no sect
 
 k) Assegurar a execução e o acompanhamento de acções, projectos e programas comunitários na área do turismo.
 
-###### Artigo 42.º — Divisão de Ordenamento e Licenciamento de Instalações Turísticas
+###### Artigo 42.º
+
+##### Divisão de Ordenamento e Licenciamento de Instalações Turísticas
 
 À Divisão de Ordenamento e Licenciamento de Instalações Turísticas compete:
 
@@ -1411,7 +1580,9 @@ a) Divisão dos Transportes Aéreos;
 
 b) Divisão dos Transportes Marítimos.
 
-###### Artigo 55.º — Divisão dos Transportes Aéreos
+###### Artigo 55.º
+
+##### Divisão dos Transportes Aéreos
 
 Compete à Divisão dos Transportes Aéreos:
 
@@ -1441,7 +1612,9 @@ l) Preparar, em colaboração com os demais órgãos internos e externos, o plan
 
 m) Executar as demais acções que superiormente lhe sejam cometidas.
 
-###### Artigo 56.º — Divisão dos Transportes Marítimos
+###### Artigo 56.º
+
+##### Divisão dos Transportes Marítimos
 
 Compete à Divisão dos Transportes Marítimos:
 
@@ -1599,7 +1772,9 @@ d) Apoiar o funcionamento do CRI e das diversas comissões de selecção dos sis
 
 e) Cooperar com as associações empresariais envolvidas na gestão dos sistemas de incentivos.
 
-###### Artigo 64.º — Divisão de Análise de Incentivos
+###### Artigo 64.º
+
+##### Divisão de Análise de Incentivos
 
 Compete à Divisão de Análise de Incentivos:
 
@@ -1613,7 +1788,9 @@ d) Efectuar o acompanhamento dos protocolos celebrados com associações empresa
 
 e) Elaborar programas, projectos e estudos sobre assuntos que lhe sejam atribuídos.
 
-###### Artigo 65.º — Divisão de Acompanhamento e Controlo
+###### Artigo 65.º
+
+##### Divisão de Acompanhamento e Controlo
 
 Compete à Divisão de Acompanhamento e Controlo:
 
@@ -1661,7 +1838,9 @@ m) Estabelecer acordos de cooperação com entidades diversas no domínio do coo
 
 n) Colaborar com os diversos serviços ou grupos instituídos nos diferentes sectores governamentais para um apoio integrado do sector cooperativo.
 
-###### Artigo 67.º — Divisão de Promoção do Investimento
+###### Artigo 67.º
+
+##### Divisão de Promoção do Investimento
 
 Compete à Divisão de Promoção do Investimento:
 
@@ -1901,4 +2080,4 @@ Os funcionários e agentes com funções de fiscalização nas áreas da indúst
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/115b00/43034327.pdf))](https://files.diariodarepublica.pt/1s/2006/06/115b00/43034327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/115b00/43034327.pdf)

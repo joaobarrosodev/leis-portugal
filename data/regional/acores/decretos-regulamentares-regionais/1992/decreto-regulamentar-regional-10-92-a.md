@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/1992/03/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1992-168423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0138b1e2f2248b63ef46ce270c5dae6005308b1f6e6b702444c17ec3f81fbac5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c8df000c82fa3be5e2b113671ebb6646e71c0a9c890644ed42b3957b7db7e45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Orgânica
 - Parque Desportivo de Angra do Heroísmo
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:435043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:674448:por
+  label: "Alterados os artigos 1.º, 2.º, 9.º e 10.º pelo DRR.22/93/A.23.11.1993.GR-RAA, DR.IS-B [274] de 23.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-1993-674448
+  date: '1993-11-23'
+- type: amended_by
+  target: pt:dre:141775:por
+  label: "Alterada designação do Parque criado no presente diploma, para Parque Desportivo da Ilha Terceira, pelo DRR.1/95/A.31.01.1995.GR-RAA,\
+    \ DR.IS-B [26] de 31.01.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-1995-141775
+  date: '1995-01-31'
+- type: amended_by
+  target: pt:dre:435043:por
+  label: "Alterado o artigo 13.º pelo DRR.24/96/A.14.06.1996.GR-RAA, DR.IS-B [136] de 14.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-1996-435043
+  date: '1996-06-14'
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:57Z'
   warnings: []
   errors: []
 ---
@@ -234,14 +258,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, 8 de Janeiro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 5 de Fevereiro de 1992.**
+Assinado em Angra do Heroísmo em 5 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/053b00/11631165.pdf))](https://files.diariodarepublica.pt/1s/1992/03/053b00/11631165.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/053b00/11631165.pdf)

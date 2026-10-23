@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/03/06100/0172501745.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2019/03/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2019-121579662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3504e73e3a7f52a64184c81e57ec30e5679ad297fab288100327cc315ae0e48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0a29ba066eba067b04a5008091e17e9b578e8c4e89af6d2ab27b03365b56ae8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Imóvel Classificado
-- Ordenamento do Território
+- Açores
+- Conselho Consultivo
 - Definição de Competências
 - Diretor
-- Monumento Natural
-- Conselho Consultivo
-- Rede Regional de Áreas Protegidas
-- Proteção do Ambiente
-- Zona de Proteção
-- Património Natural
-- Parque Natural da Ilha do Faial
-- Reserva Natural
-- Açores
 - ILHA do Faial
+- Imóvel Classificado
+- Monumento Natural
+- Ordenamento do Território
+- Parque Natural da Ilha do Faial
+- Património Natural
+- Pessoal Dirigente
+- Proteção do Ambiente
 - Rede Natura 2000
+- Rede Regional de Áreas Protegidas
+- Reserva Natural
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/21/1993/06/21/p/dre
@@ -115,16 +115,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/14/1993/07/31/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/14/1993/07/31/a/dre
+- type: cites
+  target: pt:dre:268421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692593:por
+  label: null
+  source: null
 article_structure:
-  article_count: 72
+  article_count: 46
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:31Z'
   warnings: []
   errors: []
 ---
@@ -183,11 +235,15 @@ Os artigos 1.º, 2.º, 6.º, 8.º a 10.º, 12.º a 14.º, 17.º, 18.º, 20.º a 
 
 3 - O presente diploma desenvolve e complementa o regime definido no [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril, conferindo execução, designadamente, à norma do respetivo artigo 29.º
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 O Parque Natural prossegue os objetivos gerais e de gestão próprios da Rede de Áreas Protegidas dos Açores e os objetivos específicos inerentes às categorias de áreas protegidas nele existentes.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]
 
@@ -201,7 +257,9 @@ d) [Anterior alínea c).]
 
 e) [Anterior alínea d).]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...].
 
@@ -217,7 +275,9 @@ e) [Anterior alínea d).]
 
 7 - [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -231,7 +291,9 @@ e) [Anterior alínea d).]
 
 6 - A Reserva Natural da Caldeira do Faial integra no seu âmbito os objetivos e limites territoriais definidos para a ZEC Caldeira e Capelinhos e a zona de proteção especial, doravante designada por ZPE Caldeira e Capelinhos e observa, cumulativamente com o regime definido pelo presente diploma, o estabelecido pelo Plano Sectorial da Rede Natura 2000.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...].
 
@@ -247,7 +309,9 @@ e) [Anterior alínea d).]
 
 7 - [...].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...].
 
@@ -261,7 +325,9 @@ e) [Anterior alínea d).]
 
 6 - [...].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
@@ -277,7 +343,9 @@ e) [Anterior alínea d).]
 
 7 - [...].
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...].
 
@@ -293,7 +361,9 @@ e) [Anterior alínea d).]
 
 7 - [...].
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -305,7 +375,9 @@ e) [Anterior alínea d).]
 
 5 - [...].
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...].
 
@@ -321,7 +393,9 @@ e) [Anterior alínea d).]
 
 7 - [...].
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...].
 
@@ -335,7 +409,9 @@ e) [Anterior alínea d).]
 
 6 - [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...].
 
@@ -351,7 +427,9 @@ e) [Anterior alínea d).]
 
 7 - [...].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...].
 
@@ -367,7 +445,9 @@ e) [Anterior alínea d).]
 
 7 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -381,7 +461,9 @@ e) [Anterior alínea d).]
 
 6 - [...].
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]:
 
@@ -395,7 +477,9 @@ b) [...].
 
 4 - (Revogado.)
 
-###### Artigo 27.º — Diretor
+Artigo 27.º
+
+Diretor
 
 1 - O diretor é nomeado nos termos previstos no diploma que estabelece a orgânica do departamento do Governo Regional com competência em matéria de ambiente.
 
@@ -427,7 +511,9 @@ b) [...].
 
 15 - (Revogado.)
 
-###### Artigo 28.º — Competências do diretor
+Artigo 28.º
+
+Competências do diretor
 
 1 - Compete ao diretor:
 
@@ -465,7 +551,9 @@ n) [Anterior alínea o).]
 
 4 - (Revogado.)
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - [...]:
 
@@ -499,7 +587,9 @@ l) [Anterior alínea h).]
 
 4 - Nas deliberações do conselho consultivo, o seu presidente exerce voto de qualidade.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 [...]:
 
@@ -513,7 +603,9 @@ d) Apreciar as propostas do diretor quanto à elaboração periódica de relató
 
 e) Dar parecer sobre qualquer assunto com interesse para o Parque Natural.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - O Parque Natural é, obrigatoriamente, dotado de um plano de gestão, aprovado por decreto regulamentar regional, precedido de consulta pública que segue os trâmites previstos no regime jurídico dos instrumentos de gestão territorial para os planos especiais de ordenamento do território.
 
@@ -523,7 +615,9 @@ e) Dar parecer sobre qualquer assunto com interesse para o Parque Natural.
 
 4 - Sem prejuízo do disposto nos números anteriores, o Parque Natural pode ainda ser dotado de um ou mais planos de ação para a conservação de determinada área protegida, habitat ou espécie, aprovados por portaria do membro do Governo Regional com competência em matéria de ambiente.
 
-###### Artigo 32.º — Plano de gestão do Parque Natural
+Artigo 32.º
+
+Plano de gestão do Parque Natural
 
 1 - O conteúdo material do plano de gestão do Parque Natural prossegue os objetivos de gestão específicos de cada uma das categorias de áreas protegidas referidas no capítulo ii e observa o estatuído no n.º 2 do artigo 24.º do presente diploma.
 
@@ -543,17 +637,23 @@ e) Dar parecer sobre qualquer assunto com interesse para o Parque Natural.
 
 9 - (Revogado.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 O processo de elaboração do plano de gestão do Parque Natural deve estar concluído no prazo de um ano a contar da data de entrada em vigor do presente diploma.
 
-###### Artigo 34.º — Classificação e reclassificação de áreas protegidas
+Artigo 34.º
+
+Classificação e reclassificação de áreas protegidas
 
 1 - A reclassificação das áreas protegidas que integram o Parque Natural e ainda a classificação de novas áreas protegidas observa o regime definido no capítulo iii do [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
 
 2 - [...]
 
-###### Artigo 36.º — Norma revogatória
+Artigo 36.º
+
+Norma revogatória
 
 1 - [...]
 
@@ -571,9 +671,11 @@ Carta do Parque Natural da Ilha do Faial
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/03/06100/0172501745.pdf))](https://files.diariodarepublica.pt/1s/2019/03/06100/0172501745.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/03/06100/0172501745.pdf)
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 FAI03-A - Monumento Natural do Vulcão dos Capelinhos
 
@@ -593,7 +695,9 @@ FAI05 - A área protegida para a gestão de habitats ou espécies dos Capelinhos
 
 Monumento natural
 
-###### Artigo 10.º-A — Monumento natural
+Artigo 10.º-A
+
+Monumento natural
 
 1 - O Parque Natural integra o Monumento Natural do Vulcão dos Capelinhos.
 
@@ -645,7 +749,9 @@ f) A instalação de condutas, nomeadamente tubagens de água ou saneamento;
 
 g) A instalação de infraestruturas elétricas e de telecomunicações, aéreas ou subterrâneas, e de aproveitamento de energias renováveis.
 
-###### Artigo 10.º-B — Monumento Natural do Vulcão dos Capelinhos
+Artigo 10.º-B
+
+Monumento Natural do Vulcão dos Capelinhos
 
 1 - O Monumento Natural do Vulcão dos Capelinhos é classificado em função dos valores estéticos e naturais em presença, designadamente a singularidade geológica e a biodiversidade associadas a espécies e habitats protegidos, com destaque para a profusão de formações palagoníticas muito desenvolvidas e a ocorrência de endemismos de fauna artrópode, bem como na expressiva componente cultural e histórica da erupção do vulcão dos Capelinhos.
 
@@ -669,11 +775,11 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de fevereiro de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 19 de março de 2019.**
+Assinado em Angra do Heroísmo em 19 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1571,7 +1677,7 @@ Secções interiores
 
 (a que se refere o n.º 1 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/03/06100/0172501745.pdf))](https://files.diariodarepublica.pt/1s/2019/03/06100/0172501745.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/03/06100/0172501745.pdf)
 
 ## ANEXO III — Limites das categorias do Parque Natural da Ilha do Faial
 
@@ -1668,3 +1774,5 @@ Sul pela linha de costa;
 Oeste pelo meridiano 28º43,067'W.;
 
 Este pelo meridiano 28º39,783'W.
+
+112155146

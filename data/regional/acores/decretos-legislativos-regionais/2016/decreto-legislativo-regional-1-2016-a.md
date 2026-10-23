@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2016/01/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b4557b65fcd7e4715a0c323dc2e74096f801b8d4953baa87cc418bfa059cea6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34ceca262ba711310e2b5715a8b7dee05a844df754c37918f317658b62144264
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,130 +65,167 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio Familiar a Crianças e Jovens
+- Abono de Família
 - Acesso à Informação
-- Função Pública
-- Complemento Regional de Pensão
-- Remuneração Complementar Regional
+- Açores
+- Administração Regional
 - Admissão de Pessoal
 - Ajuda Comunitária
-- Alienação de Participações do Estado
 - Alienação de Participação Social
-- Protecção à Família
+- Alienação de Participações do Estado
+- Apoio ao Investimento
 - Aquisição de Bens e Serviços
-- Exploração Mineira
 - Assistência Medicamentosa
 - Autonomia Administrativa
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
-- Garantia
-- Instituição de Crédito
+- Benefícios Fiscais
 - Cativação de Verba
-- Turismo
-- Pessoal Dirigente
-- Gestão Financeira
+- CENTRO PÚBLICO INTERNACIONAL DAS CIÊNCIAS DO MAR
+- Cessação do Contrato de Trabalho
+- Cobrança de Dívidas
+- Compamid
 - Comparticipação do Estado
 - Comparticipações da Segurança Social
-- Finanças Locais
-- Governo Regional
+- Complemento Regional de Pensão
+- Conselho do Governo Regional
 - Consultoria
 - Conta de Gerência
+- Contabilidade Pública
+- Contratação de Pessoal
 - Contrato de Trabalho a Termo
+- Contribuições e Impostos
 - Controlo Orçamental
+- Créditos do Estado
+- Curso Profissional
 - Definição de Competências
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
 - Deslocação ao Estrangeiro
 - Deslocação em Serviço
 - Despesas Públicas
-- Presidência do Governo Regional
 - Direcção Regional das Comunidades
+- Direcção Regional do Orçamento e Tesouro
 - Diretor Regional
 - Dívida Pública
 - Dotação Orçamental
 - Empreitada de Obras Públicas
 - Empresa Pública Regional
 - Empréstimo
+- Ensino Básico
 - Ensino Profissional
-- Curso Profissional
-- União Europeia
+- Ensino Secundário
+- Equipamento Informático
 - Estatuto
 - Estudante
-- Medicamento
-- Secretaria Geral
-- Titularização de Créditos
-- Apoio ao Investimento
-- Projeto de Investimento
+- Exploração Mineira
+- Finanças Locais
+- Financiamento
+- Função Pública
+- Funcionário Público
 - Fundos Autónomos
-- Presidente do Governo Regional
-- Créditos do Estado
-- Recrutamento de Pessoal
+- Garantia
+- Gestão de Créditos
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Gestão Orçamental
 - Gestor Público Regional
-- Conselho do Governo Regional
-- Subsecretário Regional da Presidência para as Relações Externas
-- Remuneração Acessória
-- Pagamento
-- Contribuições e Impostos
+- Governo Regional
 - Indemnização
 - Indústria Mineira
-- Secretaria Regional da Educação e Cultura
-- Saudaçor
-- Publicitação
-- Ensino Secundário
+- Infraestrutura Turística
+- Instituição de Crédito
 - Locação Financeira
-- Contratação de Pessoal
+- Medicamento
 - Membros do Governo
-- Equipamento Informático
+- Mobilidade de Pessoal
 - Operações de Tesouraria
 - Orçamento Regional
+- Pagamento
 - Pensão de Invalidez
 - Pensão de Velhice
 - Pensionista
-- Direcção Regional do Orçamento e Tesouro
-- Proteção à Infância
-- Desenvolvimento Económico
+- Pessoal Dirigente
 - Pessoal Docente
+- Presidência do Governo Regional
+- Presidente do Governo Regional
 - Prestação de Contas
 - Prestações da Segurança Social
 - Prestações Familiares
-- Ensino Básico
+- Projeto de Investimento
+- Proteção à Infância
+- Protecção à Família
 - Protecção à Juventude
+- Publicitação
 - Receita Pública
-- Cobrança de Dívidas
+- Recrutamento de Pessoal
 - Reembolso
 - Regime Fiscal
 - Regime Jurídico
 - Remuneração
-- Mobilidade de Pessoal
-- Benefícios Fiscais
-- Cessação do Contrato de Trabalho
+- Remuneração Acessória
+- Remuneração Complementar Regional
 - Retribuição Mínima Garantida
+- Saudaçor
+- Secretaria Geral
+- Secretaria Regional da Educação e Cultura
+- Sector Empresarial Regional
 - Segurança Social
 - Serviço Regional de Saúde
-- Compamid
-- Funcionário Público
 - Sider
-- Administração Regional
-- Gestão de Recursos Humanos
-- Açores
-- Contabilidade Pública
+- Subsecretário Regional da Presidência para as Relações Externas
 - Subsídio
-- Abono de Família
-- Gestão de Créditos
+- Subsídio Familiar a Crianças e Jovens
+- Titularização de Créditos
 - Trabalhador por Conta de Outrem
 - Transferência de Competências
 - Transferência de Verbas
-- Infraestrutura Turística
-- CENTRO PÚBLICO INTERNACIONAL DAS CIÊNCIAS DO MAR
-- Sector Empresarial Regional
+- Turismo
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:127816253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74454667:por
+  label: Alterado o art. 25.º do DLR 12/2014/A, de 09-jul, na redação do presente diploma pelo(a) Decreto Legislativo Regional
+    n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2016-74454667
+  date: '2016-05-18'
+- type: amended_by
+  target: pt:dre:106874649:por
+  label: Alterado, com efeitos a 01.01.2017, o art. 1.º do DLR 20/2012/A de 18-abr, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2017-106874649
+  date: '2017-04-13'
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Alterado o art. 1.º do DLR 20/2012/A, de 18-abr, na redação do presente diploma pelo(a) Decreto Legislativo Regional
+    n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
+- type: amended_by
+  target: pt:dre:117612825:por
+  label: Altera o art. 1.º do DLR 20/2012/A, de 18-abr, na redacção do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 1/2019/A - Diário da República n.º 4/2019, Série I de 2019-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2019-117612825
+  date: '2019-01-07'
+- type: amended_by
+  target: pt:dre:122253267:por
+  label: Alterados, com efeitos a partir de 01.01.2019, os arts. 10.º e 11.º, na redação do presente diploma, do DLR 8/2002/A
+    de 10-abr, na versão republicada pelo DLR 8/2015/A de 30-mar, pelo(a) Decreto Legislativo Regional n.º 8/2019/A - Diário
+    da República n.º 89/2019, Série I de 2019-05-09 que procede à respetiva republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2019-122253267
+  date: '2019-05-09'
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Alterado, com efeitos a partir de 01.01.2020, o art. 1.º, na redação do presente diploma, do DLR 20/2012/A de 18-abr
+    pelo(a) Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -233,16 +270,164 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/4/2008/02/26/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/4/2008/02/26/a/dre
+- type: cites
+  target: pt:dre:146559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55042849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57968607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:59077887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66880175:por
+  label: null
+  source: null
 article_structure:
-  article_count: 52
+  article_count: 47
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:10Z'
   warnings: []
   errors: []
 ---
@@ -555,7 +740,9 @@ Os artigos 1.º e 2.º do [Decreto Legislativo Regional n.º 4/2008/A](https://d
 
 3 - [...].
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Beneficiam do disposto no presente diploma os pensionistas residentes na Região Autónoma da Açores, com idade igual ou superior a sessenta e cinco anos de idade e os titulares de pensões de invalidez independentemente da sua idade, que aufiram um rendimento per capita que não ultrapasse anualmente 12 vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma da Açores, apurado de acordo com a última declaração de IRS disponível.
 
@@ -579,7 +766,9 @@ O n.º 2 do artigo 10.º e n.º 3 do artigo 11.º, ambos do [Decreto Legislativo
 
 2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º, beneficiam, ainda, de remuneração complementar os trabalhadores que exercem funções públicas na administração pública regional da Região Autónoma dos Açores, cujas remunerações totais ilíquidas mensais sejam superiores a (euro) 1 500,00 e até (euro) 2 080,00, inclusive.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...].
 
@@ -613,7 +802,9 @@ Os artigos 15.º e 40.º do [Decreto Legislativo Regional n.º 19/2007/A](https:
 
 4 - O valor do investimento correspondente ao último pedido de pagamento, que deve ser apresentado no prazo máximo de trinta dias úteis a partir da data de conclusão do projeto, não pode ser inferior a 10 % do investimento elegível do projeto.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...].
 
@@ -693,7 +884,9 @@ Os artigos 4.º e 53.º do [Decreto Legislativo Regional n.º 7/2012/A](https://
 
 3 - [...].
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - [...]:
 
@@ -779,7 +972,9 @@ f) Não se tratar de uma empresa sujeita a uma injunção de recuperação, aind
 
 3 - [...].
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -793,7 +988,7 @@ f) Não se tratar de uma empresa sujeita a uma injunção de recuperação, aind
 
 (Despesa, em milhões de euros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 Não inclui dotação provisional e operações de refinanciamento.»
 
@@ -807,11 +1002,11 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de janeiro 
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 27 de novembro de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 30 de dezembro de 2015.**
+Assinado em Angra do Heroísmo em 30 de dezembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -819,55 +1014,55 @@ MAPA I
 
 Receita da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 MAPA II
 
 Despesas da Região especificadas segundo a classificação orgânica, por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 MAPA III
 
 Despesas da Região especificadas segundo a classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 MAPA IV
 
 Despesas da Região especificadas segundo a classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 MAPA V
 
 Receitas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 MAPA VI
 
 Receitas globais dos fundos e serviços autónomos especificados segundo a classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 MAPA VII
 
 Despesas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 MAPA VIII
 
 Despesas globais dos fundos e serviços autónomos especificados segundo a classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 MAPA IX
 
 Despesas globais dos fundos e serviços autónomos especificados segundo a classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 MAPA X
 
@@ -875,10 +1070,10 @@ Despesas de Investimento da Administração Pública Regional
 
 Resumo por departamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
 
 MAPA XI
 
 Responsabilidades contratuais plurianuais agrupadas por Departamento Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00500/0002600064.pdf)

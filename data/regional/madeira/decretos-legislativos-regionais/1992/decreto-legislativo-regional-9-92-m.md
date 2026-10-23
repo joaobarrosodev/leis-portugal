@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/1992/04/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1992-217928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3148c0520effd6a266de8d74740740abdfa2ab8e04b92a4eba99611992eddc8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eceeff78891aec6af05303695ddea2ef469c2d7d2566046a9dcd0d62f9fd0a1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,21 @@ reuse:
 subjects:
 - Acumulação de Funções
 - Administração Central
-- Função Pública
-- Admissão de Pessoal
-- Comissão de Serviço
-- Contrato de Trabalho a Termo
-- Administração Pública
-- Formas de Provimento
-- Presidência da República
-- Instituto Público
-- Contratação de Pessoal
-- Assembleia da República
-- Emprego
-- Madeira.região Autónoma
 - Administração Local
-- Regime Jurídico
+- Administração Pública
 - Administração Regional
+- Admissão de Pessoal
+- Assembleia da República
+- Comissão de Serviço
+- Contratação de Pessoal
+- Contrato de Trabalho a Termo
+- Emprego
+- Formas de Provimento
+- Função Pública
+- Instituto Público
+- Madeira.região Autónoma
+- Presidência da República
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:283171:por
@@ -100,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:288869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:47Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +154,7 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º O disposto no presente diploma aplica-se:
+Artigo 1.º O disposto no presente diploma aplica-se:
 
 a) Aos serviços e organismos da administração regional autónoma da Madeira;
 
@@ -142,7 +162,7 @@ b) Aos institutos públicos regionais que revistam a natureza de serviços perso
 
 c) À administração local no âmbito territorial desta Região.
 
-###### Art. 2.º A alteração que o artigo 1.º do [Decreto-Lei n.º 407/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1991-288873), de 17 de Outubro, introduziu no artigo 20.º, n.º 1, do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, sofre, na Região, a seguinte adaptação:
+Art. 2.º A alteração que o artigo 1.º do [Decreto-Lei n.º 407/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1991-288873), de 17 de Outubro, introduziu no artigo 20.º, n.º 1, do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, sofre, na Região, a seguinte adaptação:
 
 ###### Artigo 20.º — Estipulação do prazo e renovação do contrato
 
@@ -156,16 +176,16 @@ c) À administração local no âmbito territorial desta Região.
 
 5 - ...
 
-###### Art. 3.º O [Decreto-Lei n.º 407/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1991-288873), com a adaptação introduzida pelo presente decreto, produz efeitos desde 1 de Novembro de 1991.
+Art. 3.º O [Decreto-Lei n.º 407/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1991-288873), com a adaptação introduzida pelo presente decreto, produz efeitos desde 1 de Novembro de 1991.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária de 13 de Março de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.
 
-**Assinado em 7 de Abril de 1992.**
+Assinado em 7 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

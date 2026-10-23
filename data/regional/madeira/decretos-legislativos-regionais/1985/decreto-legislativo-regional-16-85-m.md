@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1985-179992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 277525cca00d2d7609bb17b0e74ff60f494af58417c58444ff84043a6e02962a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dfa4c9a63f894de5a5346c4d49df7c9e213ddaeacaa9fe4923fae2bd2323afc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Escola de Enfermagem
+- Escola de Enfermagem Pós-Básica
+- Formação Profissional
+- Madeira.região Autónoma
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECONVERTIDA EM ESCOLA SUPERIOR DE ENFERMAGEM DA MADEIRA, PELA PORT 821/89 DE 15-SET DR.IS [213]\0S [213]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-09-15'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:57Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +119,13 @@ Nestes termos:
 
 A Assembleia Regional da Madeira, ao abrigo do disposto na alínea a) do artigo 229.º da Constituição, conjugada com a alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada, na dependência da Secretaria Regional dos Assuntos Sociais, a Escola de Enfermagem Pós-Básica da Madeira, a seguir designada por Escola.
+Artigo 1.º - 1 - É criada, na dependência da Secretaria Regional dos Assuntos Sociais, a Escola de Enfermagem Pós-Básica da Madeira, a seguir designada por Escola.
 
 2 - A Escola é dotada de autonomia técnico-pedagógica e administrativa.
 
 3 - Sem prejuízo do disposto nos números precedentes, a Escola receberá do Departamento de Ensino de Enfermagem do Instituto Nacional de Saúde Dr. Ricardo Jorge orientação e supervisão técnica e pedagógica no âmbito do protocolo a estabelecer entre a Secretaria Regional dos Assuntos Sociais e o Ministério da Saúde.
 
-###### Art. 2.º A Escola tem por finalidade:
+Art. 2.º A Escola tem por finalidade:
 
 a) Preparar enfermeiros a nível pós-básico;
 
@@ -108,7 +133,7 @@ b) Promover e realizar estudos e pesquisas em ordem ao aperfeiçoamento da enfer
 
 c) Cooperar com entidades oficiais e particulares, regionais, nacionais e estrangeiras, com vista à melhoria do nível científico da enfermagem.
 
-###### Art. 3.º - 1 - À Escola, na execução da sua finalidade de preparar enfermeiros a nível pós-básico, compete em especial:
+Art. 3.º - 1 - À Escola, na execução da sua finalidade de preparar enfermeiros a nível pós-básico, compete em especial:
 
 a) Ministrar cursos de enfermagem, a saber:
 
@@ -138,15 +163,15 @@ a) Promover o intercâmbio nacional e internacional de informação de interesse
 
 b) Colaborar com outras instituições ou organizações regionais, nacionais ou estrangeiras em actividades científicas que visem a melhoria da prestação de cuidados e do exercício profissional.
 
-###### Art. 4.º Os cursos mencionados neste diploma em tudo se regem pelas disposições legais definidas a nível nacional.
+Art. 4.º Os cursos mencionados neste diploma em tudo se regem pelas disposições legais definidas a nível nacional.
 
-###### Art. 5.º Todas as actividades da Escola na prossecução das suas finalidades serão orientadas pelas necessidades da Região Autónoma da Madeira e instituídas progressivamente na medida dos meios postos à sua disposição.
+Art. 5.º Todas as actividades da Escola na prossecução das suas finalidades serão orientadas pelas necessidades da Região Autónoma da Madeira e instituídas progressivamente na medida dos meios postos à sua disposição.
 
-###### Art. 6.º A Escola sucede à estrutura definida no Despacho n.º 9/83, de 11 de Abril, do Secretário Regional dos Assuntos Sociais, nela se integrando os cursos de especialização em enfermagem actualmente a serem ministrados.
+Art. 6.º A Escola sucede à estrutura definida no Despacho n.º 9/83, de 11 de Abril, do Secretário Regional dos Assuntos Sociais, nela se integrando os cursos de especialização em enfermagem actualmente a serem ministrados.
 
-###### Art. 7.º A organização e funcionamento da Escola reger-se-á por regulamento próprio, aprovado pelo Governo Regional.
+Art. 7.º A organização e funcionamento da Escola reger-se-á por regulamento próprio, aprovado pelo Governo Regional.
 
-###### Art. 8.º - 1 - Constituem receitas da Escola:
+Art. 8.º - 1 - Constituem receitas da Escola:
 
 a) As comparticipações da Secretaria Regional dos Assuntos Sociais;
 
@@ -160,9 +185,9 @@ e) Quaisquer outras receitas legalmente autorizadas.
 
 2 - Constituem despesas da Escola as que resultem da execução das suas finalidades.
 
-###### Art. 9.º É afecto à Escola todo o material e equipamento adstrito à estrutura definida no Despacho n.º 9/83, de 11 de Abril, do Secretário Regional dos Assuntos Sociais.
+Art. 9.º É afecto à Escola todo o material e equipamento adstrito à estrutura definida no Despacho n.º 9/83, de 11 de Abril, do Secretário Regional dos Assuntos Sociais.
 
-###### Art. 10.º - 1 - A Escola é colocada em regime de instalação, nos termos da legislação aplicável, contando-se o respectivo prazo a partir da data de posse da comissão instaladora.
+Art. 10.º - 1 - A Escola é colocada em regime de instalação, nos termos da legislação aplicável, contando-se o respectivo prazo a partir da data de posse da comissão instaladora.
 
 2 - A comissão instaladora será composta por 4 elementos, um dos quais presidirá, a nomear por despacho do Secretário Regional dos Assuntos Sociais.
 
@@ -204,10 +229,10 @@ p) Elaborar o relatório anual das actividades da Escola e submetê-lo à consid
 
 Aprovado em sessão plenária em 11 de Junho de 1985.
 
-**O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 28 de Junho de 1985.**
+Assinado em 28 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 301/1982, 1º Suplemento, Série I de 1982-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4326-(13) a 4326-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf
 entry_into_force_dates: []
@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/11-1982-626665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 192752d4e00850b7164248a5fdac41f6711d259996c976527f76506909ad5112
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37de453ba26a70d71de68c725f9c21e57b669ad91528ca26a324e51619f69afa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Desalojado
+- Financiamento
+- Gabinete de Apoio e Reconstrução dos Estragos Derivados da Crise Sísmica de 1980
+- Habitação
+- Sismo
+relationships:
+- type: cites
+  target: pt:dre:393038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692832:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:165206:por
+  label: Rectificada pela DECL.DD2988.1983.03.04.PCM DR.IS [75]Supl de 31/Mar/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-165206
+  date: '1983-03-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:37Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +110,7 @@ A Assembleia Regional dos Açores resolveu, nos termos do artigo 229.º, alínea
 
 Aprovada pela Assembleia Regional dos Açores em 26 de Novembro de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
 Gabinete de Apoio e Reconstrução
 
@@ -181,7 +204,7 @@ Se tudo decorrer normalmente, 80% das obras de infra-estruturas deverão ficar c
 
 Perante o valor dos trabalhos já pagos em 1980 e 1981 e previsíveis de pagamento em 1982, no montante global de 174503 contos (sendo 79547 contos do fornecimento e montagem das 255 casas pré-fabricadas, incluindo 15000 contos para o acabamento de 80 casas e 94956 contos de infra-estruturas), admite-se que para a conclusão das obras deste ordenamento, no biénio 1983-1984, sejam despendidos (559637 - 30000) = 355134 contos, distribuídos da seguinte maneira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf)
 
 Projecto n.º 1.3 - Urbanização de São João de Deus
 
@@ -243,7 +266,7 @@ Admite-se que em 1983 apenas o Destacamento de Construções do Exército (Engen
 
 A situação das obras realizadas, reportada a 30 de Setembro de 1982, está esquematizada no quadro que se segue:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf)
 
 Admite-se que as despesas relacionadas com a actuação do Destacamento de Construções do Exército (Engenharia) atinjam em 1983 um montante de 12000 contos.
 
@@ -257,11 +280,11 @@ Com a entrada em vigor da [Resolução n.º 80/82](https://diariodarepublica.pt/
 
 Secretaria Regional de Educação e Cultura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf)
 
 Secretaria Regional dos Assuntos Sociais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30101/00130016.pdf)
 
 Em resumo, tem-se a seguinte previsão de despesa para 1983:
 

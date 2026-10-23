@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1996, 4º Suplemento, Série I-A de 1996-12-27
   number: '299'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 4684-(560) a 4684-(571)
   pdf_url: https://files.diariodarepublica.pt/1s/1996/12/299a04/05600571.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24-b/1996/12/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-b-1996-583047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b69c2bded2ee164c569d826967dc3f64ddb02386cda633f842132cc0c2be454
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ea95ddb98adc96bcad37dcbe7fce8b8800a397c652dfa70c21546a221ac6a5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Governo Regional
-- Orçamento Regional
 - Madeira.região Autónoma
+- Orçamento Regional
 - Receita Regional
 relationships:
 - type: amended_by
@@ -90,16 +90,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
+- type: cites
+  target: pt:dre:152936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:306914:por
+  label: "Rectificado o DLR 24-B/96/M pela DECL-RECT.6-F/97.1997.03.31.PCM, DR.IS-A [75] de 31/Mar/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-f-1997-306914
+  date: '1997-03-31'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:13Z'
   warnings: []
   errors: []
 ---
@@ -122,12 +143,12 @@ Até à aprovação do Orçamento da Região Autónoma da Madeira para 1997, man
 
 Aprovado em sessão plenária em 3 de Dezembro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 24 de Dezembro de 1996.**
+Assinado em 24 de Dezembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/12/299a04/05600571.pdf))](https://files.diariodarepublica.pt/1s/1996/12/299a04/05600571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/12/299a04/05600571.pdf)

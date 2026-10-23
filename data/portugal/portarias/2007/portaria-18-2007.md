@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/18/2007/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18-2007-262333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 018378e3f3529e3a05f976430d651ac955604845f2bfa304b299a58e7d98ac69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06a3c1d019397ba1065e46c70b69087928a1a218ad54085557d3c5831f8b69ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aparelho de Medição
 - Certificado de Conformidade
+- Controlo Metrológico
 - Energia Elétrica
 - Metrologia
-- Aparelho de Medição
 - Regulamento
-- Controlo Metrológico
 relationships:
 - type: amended_by
   target: pt:dre:124831331:por
@@ -81,16 +81,26 @@ relationships:
   target: celex:32004L0022
   label: null
   source: http://data.europa.eu/eli/dir/2004/22/oj
+- type: repealed_by
+  target: pt:dre:670004:por
+  label: "Revogada, a partir de 01.07.2011, pelo DEC LEI.71/2011.16.06.2011.MEID, DR.IS [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2011-670004
+  date: '2011-06-16'
+- type: repealed_by
+  target: pt:dre:124831331:por
+  label: Revogada, a partir de 20.09. 2019, pelo(a) Portaria n.º 321/2019 - Diário da República n.º 180/2019, Série I de 2019-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-2019-124831331
+  date: '2019-09-19'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:42Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +217,7 @@ Os valores de f(índice n), U(índice n), I(índice n), I(índice st), I(índice
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf)
 
 As gamas de tensão, de frequência e do factor de potência dentro das quais o contador deve satisfazer as exigências em matéria de erros máximos admissíveis são especificadas no quadro n.º 2 do presente anexo. Estas gamas de tensão e de frequência devem reconhecer as características típicas da electricidade fornecida pelos sistemas de distribuição pública, por exemplo a tensão e a frequência, que devem ser pelo menos de:
 
@@ -219,7 +229,7 @@ Gama do PF de pelo menos cos (fi) = 0,5 indutivo a cos (fi) = 0,8 capacitivo.
 
 3 - Erros máximos admissíveis - os efeitos de cada uma das grandezas mensurandas e de influência (a, b, c,...) são avaliados separadamente, mantendo-se todas as outras grandezas mensurandas e de influência relativamente constantes nos seus valores de referência. O erro da medição, que não deve exceder o erro máximo admissível referido no quadro n.º 2, é calculado do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf)
 
 Quando o contador estiver a funcionar com uma corrente de carga variável, os erros expressos em percentagem não devem exceder os limites indicados no quadro n.º 2.
 
@@ -227,7 +237,7 @@ QUADRO N.º 2
 
 Valores dos erros máximos admissíveis expressos em percentagem para condições estipuladas de funcionamento, níveis de carga de corrente definidos e a temperatura de funcionamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf)
 
 Quando o contador funciona em gamas de temperatura diferentes é aplicável o valor do erro máximo admissível correspondente.
 
@@ -249,7 +259,7 @@ QUADRO N.º 3
 
 Valores críticos de variação na presença de perturbações de longa duração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00400/00690072.pdf)
 
 4.3 - Efeito admissível dos fenómenos electromagnéticos transitórios:
 

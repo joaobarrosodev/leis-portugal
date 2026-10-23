@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11100/0359503596.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/633/2009/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/633-2009-494527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b2eb6200ac0f159b34a2868f081585cdf1c5f1a847482b12861e13d92996a7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d855b3fe7dd7b387a191a36e89d5ca18a1725bad7a0a3b1accde7f9c2922f2e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificado de Aptidão Profissional
-- Formação Profissional
 - Definição de Competências
 - Diploma
+- Direcção Geral de Geologia e Energia
 - Energia Renovável
 - Equipamento Térmico
-- Direcção Geral de Geologia e Energia
+- Formação Profissional
 - Qualificação Profissional
 relationships:
 - type: amended_by
@@ -96,16 +96,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/173/2007/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/173/2007/11/07/p/dre
+- type: cites
+  target: pt:dre:346727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629163:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogada, com produção de efeitos a 30.10.2011, a Port 1451/2004, de 26-Nov, na redacção da presente portaria, pelo\
+    \ DEC LEI.92/2011.27.07.2011.MTSSO, DR.IS [143] de 27.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:23Z'
   warnings: []
   errors: []
 ---
@@ -148,4 +170,4 @@ Ao abrigo do disposto no n.º 3 do artigo 11.º do [Decreto-Lei n.º 95/92](http
 
 Em 2 de Junho de 2009.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.

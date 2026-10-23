@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/05/117a00/25122513.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1997/05/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1997-398279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4555cfdefae5ccbf4a36f06cf043138670c61efba57e35f98b7eeaaf6c05174e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3680a7bc6e110c46f6aa4738ecb2a091d41443037aa4e9dc5470651ec762272a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Concurso
-- Administração Pública
-- Formas de Provimento
-- Recrutamento de Pessoal
-- Publicitação
-- Administração Regional
-- Gestão de Recursos Humanos
 - Açores
+- Administração Pública
+- Administração Regional
+- Concurso
+- Formas de Provimento
+- Função Pública
+- Gestão de Recursos Humanos
+- Publicitação
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:145589083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145589083:por
+  label: Considerado revogado por esgotamento do objeto ou revogação tácita pelo(a) Decreto Legislativo Regional n.º 27/2020/A
+    - Diário da República n.º 202/2020, Série I de 2020-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2020-145589083
+  date: '2020-10-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/3/1994/01/29/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/3/1994/01/29/a/dre
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497796:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:56Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +145,7 @@ c) - ...
 
 3 - A publicitação do concurso deverá fazer-se, sempre que possível, através de órgãos de comunicação social de expansão nacional ou regional, obrigatória sempre que se trate de concursos externos, e de folhetos de divulgação.
 
-###### Artigo 9.º
+Artigo 9.º
 
 O regime previsto no n.º 3 do artigo anterior aplica-se aos concursos que se encontrem pendentes à data da entrada em vigor do presente diploma.»
 
@@ -141,10 +155,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 10 de Abril de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
 
-**Assinado em Angra do Heroísmo em 24 de Abril de 1997.**
+Assinado em Angra do Heroísmo em 24 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

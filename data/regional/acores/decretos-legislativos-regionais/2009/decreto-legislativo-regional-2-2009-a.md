@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2009/03/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2009-604643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c306f19f5068b791e9c74962b81c8c265622e67e6d5722fc21e8d25b157048b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bc68e162726b32f8663c10e44930552e4b54b0b2d5940f90ddc3e4a43e191fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Transporte Marítimo
+- Açores
+- Apoio ao Investimento
+- Comércio
 - Comparticipação
 - Contrato
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
 - Energia Renovável
 - Equipamento Social
-- Estabelecimento de Restauração
-- Fiscalização
-- Apoio ao Investimento
-- Indústria
-- Desenvolvimento Económico
-- Urbanismo
 - Estabelecimento de Ensino
+- Estabelecimento de Restauração
+- Financiamento
+- Fiscalização
+- Indústria
+- Infraestrutura Turística
 - Sider
-- Açores
 - Subsídio
 - Subsídio não Reembolsável
-- Comércio
-- Infraestrutura Turística
+- Transporte Marítimo
+- Turismo
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:25345896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611938:por
+  label: "Alterados os arts. 3.º, 4.º do DLR 19/2007/A, de 23-Jul, na redaccção do presente diploma, pelo DLR.10/2010/A.16.03.2010.AL-RAA,\
+    \ DR.IS [52] de 16.03.2010, que o republica.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2010-611938
+  date: '2010-03-16'
+- type: amended_by
+  target: pt:dre:146559:por
+  label: "Alterado o art. 3º do DLR 19/2007/A, de 23-Jul, na redacção do presente diploma, pelo DLR.26/2011/A.04.11.2011.AL-RAA,\
+    \ DR.IS [212] de 04.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2011-146559
+  date: '2011-11-04'
 - type: cites
   target: celex:32006R1998
   label: null
@@ -101,16 +113,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/19/2007/07/23/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/19/2007/07/23/a/dre
+- type: repealed_by
+  target: pt:dre:25345896:por
+  label: Revogado, a partir de 01.07.2014, o DLR 19/2007/A, de 23-jul, na redação do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 12/2014/A - Diário da República n.º 130/2014, Série I de 2014-07-09, sem prejuízo do disposto no seu art.
+    25º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2014-25345896
+  date: '2014-07-09'
 article_structure:
-  article_count: 50
+  article_count: 48
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:01Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +174,9 @@ e)...
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 4.º — Condições gerais de acesso dos projectos
+Artigo 4.º
+
+Condições gerais de acesso dos projectos
 
 1 - ...
 
@@ -185,7 +206,9 @@ Avocação
 
 O departamento do Governo com competência em matéria de economia pode, por razões de celeridade ou urgência na análise de projectos, avocar projectos previstos no n.º 1 do artigo anterior.
 
-###### Artigo 14.º-A — Antecipação e adiantamento do pagamento
+Artigo 14.º-A
+
+Antecipação e adiantamento do pagamento
 
 1 - Para além da situação prevista no artigo anterior, os promotores podem, igualmente, após a assinatura do contrato de concessão, recorrer aos mecanismos de antecipação ou adiantamento do pagamento do incentivo.
 
@@ -213,11 +236,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 28 de Janeiro de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 18 de Fevereiro de 2009.**
+Assinado em Angra do Heroísmo em 18 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

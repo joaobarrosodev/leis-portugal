@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1989-610450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 994698a422f29061047794a79508cfa30a6681a8cbd9d1c1c9d8b01d84a7a36f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 477c3f31b6eb5f40b39ec6d1c250e0541c51c84e7dbbc72edb6c0d0bdf12fc42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- DIA da Região Autónoma da Madeira e das Comunidades Madeirenses
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:363277:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:17Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +98,16 @@ Considerando justa a pretensão e que do seu acolhimento resulta acrescida digni
 
 A Assembleia Regional da Madeira decreta, nos termos da alínea a) do artigo 229.º da Constituição da República, o seguinte:
 
-###### Artigo 1.º O dia 1 de Julho passa a designar-se como Dia da Região Autónoma da Madeira e das Comunidades Madeirenses.
+Artigo 1.º O dia 1 de Julho passa a designar-se como Dia da Região Autónoma da Madeira e das Comunidades Madeirenses.
 
-###### Art. 2.º O presente decreto legislativo regional entra imediatamente em vigor.
+Art. 2.º O presente decreto legislativo regional entra imediatamente em vigor.
 
 Aprovado em sessão plenária de 13 de Dezembro de 1988.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 30 de Dezembro de 1988.**
+Assinado em 30 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

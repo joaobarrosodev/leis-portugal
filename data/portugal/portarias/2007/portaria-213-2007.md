@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/213/2007/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/213-2007-517838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f2d2a450f3e233cb8752d22329360e015830b400b4829b840bfd76f6a6a22e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef8ccdc63224d40bba48c41ffa177f671a2a2e34eb5e555a95d1809c053b7b3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Beja
+- CAÇA
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:482850:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482850:por
+  label: "Anexado o prédio rústico denominado Herdade da Quinta de São Pedro, sito na freguesia de Baleizão, município de\
+    \ Beja, à zona de caça turística da Rabadoa , concessionada pela Port 615-A4/91 de 08-Jul, renovada e transferida a sua\
+    \ concessão pelo presente diploma, pela PORT.1292/2009.19.10.2009.MADRP, DR.IS [202] de 19.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1292-2009-482850
+  date: '2009-10-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -86,16 +93,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-a4/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-a4/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:205847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:55Z'
   warnings: []
   errors: []
 ---

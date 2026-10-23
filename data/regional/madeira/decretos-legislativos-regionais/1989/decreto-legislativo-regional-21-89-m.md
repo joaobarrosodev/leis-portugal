@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1989-546999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88c11ed76453aa2f582338e99ad42f9ce6fb465f4feea7662ad075ff943c19b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9488502a57e88dc176911a0cd517e0e4927dbbf257d09803b9e26ec771bc1cd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Florestal
+- Madeira.região Autónoma
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:455622:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454068:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455622:por
+  label: "Revogado pelo DLR.35/2008/M.14.08.2008.AL-RAM, DR.IS [157] de 14.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/35-2008-455622
+  date: '2008-08-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:21Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +119,7 @@ A Assembleia Regional da Madeira decreta, nos termos da alínea a) do artigo 229
 
 ### CAPÍTULO I — Protecção do arvoredo
 
-###### Artigo 1.º Dependem de licença da Secretaria Regional da Agricultura e Pescas:
+Artigo 1.º Dependem de licença da Secretaria Regional da Agricultura e Pescas:
 
 a) Os cortes, arranques ou transplantações de árvores florestais ou de outras plantas de qualquer natureza que apresentem notável interesse botânico ou paisagístico;
 
@@ -117,7 +133,7 @@ e) As queimadas de matos nos terrenos incultos próximo de matas e de terrenos a
 
 f) O fabrico de carvão florestal, quer nos terrenos incultos, quer nas matas particulares.
 
-###### Art. 2.º Os cortes, arranques ou transplantações a que se refere a alínea a) do artigo anterior só serão permitidos:
+Art. 2.º Os cortes, arranques ou transplantações a que se refere a alínea a) do artigo anterior só serão permitidos:
 
 a) Em desbastes para tratamento ou melhoramentos dos povoamentos existentes, de forma a eliminar os espécimes doentes ou que estejam a prejudicar as boas condições de vegetação;
 
@@ -129,7 +145,7 @@ d) Nos talhadios, quando os rebentões tenham atingido condições de exploraç�
 
 e) Em cortes de qualquer natureza para substituição da espécie florestal ou transformação da cultura florestal em cultura agrícola ou em pastagem, quando for reconhecido que essa substituição ou transformação é de manifesta vantagem económica e não prejudica os aspectos relacionados com a conservação do solo, o regime hidrológico e os equilíbrios ecológico e paisagístico.
 
-###### Art. 3.º - 1 - As entidades oficiais ou particulares proprietárias de terrenos ou arvoredos que queiram realizar quaisquer cortes, arranques ou transplantações a que se refere o artigo 1.º deverão enviar previamente à Direcção dos Serviços Florestais um pedido, com as seguintes indicações:
+Art. 3.º - 1 - As entidades oficiais ou particulares proprietárias de terrenos ou arvoredos que queiram realizar quaisquer cortes, arranques ou transplantações a que se refere o artigo 1.º deverão enviar previamente à Direcção dos Serviços Florestais um pedido, com as seguintes indicações:
 
 a) Identificação e localização da propriedade;
 
@@ -143,29 +159,29 @@ e) O fim a que se destinam as madeiras ou lenhas resultantes dos cortes.
 
 2 - Exceptuam-se do disposto no número anterior os casos de árvores ou arbustos a abater em desbastes culturais ou em cortes jardinatórios, quando possuam diâmetro inferior a 10 cm à altura de 1,3 m acima do solo, as árvores com idade igual ou inferior a cinco anos e ainda os arbustos que tenham crescido espontaneamente, desde que tal prática não prejudique a conservação do solo.
 
-###### Art. 4.º - 1 - Salvo o caso previsto na alínea e) do artigo 2.º, a transformação dos terrenos incultos ou dos de cultura florestal em terrenos de cultura agrícola ou de pastagem só será permitida desde que se reconheça, por vistoria prévia, que daí não resulta qualquer inconveniente para a conservação do solo.
+Art. 4.º - 1 - Salvo o caso previsto na alínea e) do artigo 2.º, a transformação dos terrenos incultos ou dos de cultura florestal em terrenos de cultura agrícola ou de pastagem só será permitida desde que se reconheça, por vistoria prévia, que daí não resulta qualquer inconveniente para a conservação do solo.
 
 2 - Sempre que a Direcção dos Serviços Florestais o entenda, depois de concedida a licença, os trabalhos de transformação só poderão ser iniciados após nova vistoria à propriedade, na presença do proprietário, do empresário das máquinas e ou dos operadores que vão realizar esses trabalhos.
 
-###### Art. 5.º - 1 - Nos casos em que sejam permitidos cortes rasos, cortes salteados e ou em talhadio, o proprietário fica obrigado a realizar as transformações de cultura ou a assegurar a reconstituição dos povoamentos, nos termos da licença concedida pela Secretaria Regional da Agricultura e Pescas, no prazo que for estipulado, nunca superior a quatro anos.
+Art. 5.º - 1 - Nos casos em que sejam permitidos cortes rasos, cortes salteados e ou em talhadio, o proprietário fica obrigado a realizar as transformações de cultura ou a assegurar a reconstituição dos povoamentos, nos termos da licença concedida pela Secretaria Regional da Agricultura e Pescas, no prazo que for estipulado, nunca superior a quatro anos.
 
 2 - Findo o prazo estipulado nos termos do número anterior, o proprietário fica obrigado, por si ou por pessoa por ele indicada, a mostrar a propriedade a ser fiscalizada.
 
-###### Art. 6.º A licença para extracção de produtos de qualquer natureza dos terrenos incultos ou florestados, a que se refere a alínea c) do artigo 1.º, só poderá ser concedida a requerimento dos respectivos proprietários.
+Art. 6.º A licença para extracção de produtos de qualquer natureza dos terrenos incultos ou florestados, a que se refere a alínea c) do artigo 1.º, só poderá ser concedida a requerimento dos respectivos proprietários.
 
-###### Art. 7.º As autorizações concedidas de acordo com o disposto nos artigos 4.º e 5.º poderão ser condicionadas à implantação de cortinas de abrigo, de harmonia com as instruções dadas, caso a caso, pela Direcção dos Serviços Florestais.
+Art. 7.º As autorizações concedidas de acordo com o disposto nos artigos 4.º e 5.º poderão ser condicionadas à implantação de cortinas de abrigo, de harmonia com as instruções dadas, caso a caso, pela Direcção dos Serviços Florestais.
 
-###### Art. 8.º As licenças referidas nos artigos 1.º, 4.º, 5.º e 6.º consideram-se concedidas, sem quaisquer outros condicionalismos, além dos legalmente previstos, se, no prazo de 60 dias a contar da recepção do requerimento, os serviços competentes da Secretaria Regional da Agricultura e Pescas não se tiverem pronunciado.
+Art. 8.º As licenças referidas nos artigos 1.º, 4.º, 5.º e 6.º consideram-se concedidas, sem quaisquer outros condicionalismos, além dos legalmente previstos, se, no prazo de 60 dias a contar da recepção do requerimento, os serviços competentes da Secretaria Regional da Agricultura e Pescas não se tiverem pronunciado.
 
-###### Art. 9.º É proibido inutilizar ou danificar, de qualquer modo, as árvores ou arbustos florestais por forma a causar o seu perecimento, a sua evidente depreciação ou a sua exploração extemporânea.
+Art. 9.º É proibido inutilizar ou danificar, de qualquer modo, as árvores ou arbustos florestais por forma a causar o seu perecimento, a sua evidente depreciação ou a sua exploração extemporânea.
 
-###### Art. 10.º Nas propriedades florestais danificadas por incêndios, a Direcção dos Serviços Florestais indicará qual o método a adoptar para tratamento e regeneração do arvoredo.
+Art. 10.º Nas propriedades florestais danificadas por incêndios, a Direcção dos Serviços Florestais indicará qual o método a adoptar para tratamento e regeneração do arvoredo.
 
-###### Art. 11.º Os materiais, madeiras e lenhas provenientes de qualquer tipo de corte, para circular na via pública, devem ser acompanhados de uma licença passada pela Direcção dos Serviços Florestais.
+Art. 11.º Os materiais, madeiras e lenhas provenientes de qualquer tipo de corte, para circular na via pública, devem ser acompanhados de uma licença passada pela Direcção dos Serviços Florestais.
 
 ### CAPÍTULO II — Controlo do desenvolvimento da cultura intensiva de espécies florestais de rápido crescimento
 
-###### Art. 12.º - 1 - As acções de arborização e rearborização com recurso a espécies de rápido crescimento, exploradas em revoluções curtas, carecem de autorização prévia do Secretário Regional da Agricultura e Pescas.
+Art. 12.º - 1 - As acções de arborização e rearborização com recurso a espécies de rápido crescimento, exploradas em revoluções curtas, carecem de autorização prévia do Secretário Regional da Agricultura e Pescas.
 
 2 - Consideram-se espécies de rápido crescimento todas as que possam ser sujeitas, em termos de viabilidade técnico-económica, a exploração em revoluções curtas, nomeadamente as do género Eucalyptus, Populus e Acacia.
 
@@ -175,23 +191,23 @@ e) O fim a que se destinam as madeiras ou lenhas resultantes dos cortes.
 
 5 - Não é permitida a substituição, parcial ou total, da floresta indígena por povoamentos das espécies referidas no n.º 2, nem a sua instalação em terrenos agrícolas, nas margens das linhas de água e nascentes, bem como numa cota superior a 600 m e em áreas classificadas do Parque Natural da Madeira (PNM).
 
-###### Art. 13.º Fica igualmente sujeita a autorização prévia, nos termos do n.º 1 do artigo anterior, a introdução gradual, pé a pé ou por manchas de arvoredo, das espécies mencionadas no n.º 2 do mesmo artigo em povoamentos florestais já constituídos com outras espécies.
+Art. 13.º Fica igualmente sujeita a autorização prévia, nos termos do n.º 1 do artigo anterior, a introdução gradual, pé a pé ou por manchas de arvoredo, das espécies mencionadas no n.º 2 do mesmo artigo em povoamentos florestais já constituídos com outras espécies.
 
-###### Art. 14.º - 1 - Relativamente às plantações das espécies referidas no artigo 12.º, existentes à data da entrada em vigor do presente diploma, o Secretário Regional da Agricultura e Pescas pode determinar a suspensão da sua exploração, ao primeiro corte, caso tal se justifique por razões de ordem ecológica, hidrológica e de capacidade de uso dos solos.
+Art. 14.º - 1 - Relativamente às plantações das espécies referidas no artigo 12.º, existentes à data da entrada em vigor do presente diploma, o Secretário Regional da Agricultura e Pescas pode determinar a suspensão da sua exploração, ao primeiro corte, caso tal se justifique por razões de ordem ecológica, hidrológica e de capacidade de uso dos solos.
 
 2 - Os cortes deverão ser efectuados de forma a evitar o novo crescimento daquelas espécies.
 
-###### Art. 15.º - 1 - Os projectos de arborização que incidam sobre áreas superiores a 2 ha ou de que resultem áreas de idêntica ordem de grandeza na continuidade de povoamentos preexistentes das mesmas espécies terão obrigatoriamente de incluir um estudo de avaliação do impacte ambiental.
+Art. 15.º - 1 - Os projectos de arborização que incidam sobre áreas superiores a 2 ha ou de que resultem áreas de idêntica ordem de grandeza na continuidade de povoamentos preexistentes das mesmas espécies terão obrigatoriamente de incluir um estudo de avaliação do impacte ambiental.
 
 2 - Consideram-se em continuidade os povoamentos que distem, entre si, menos de 500 m.
 
 ### CAPÍTULO III — Manifesto de corte e arranque de árvores
 
-###### Art. 16.º É obrigatória a declaração do corte ou arranque de árvores florestais que se destinem a venda ou ao autoconsumo para transformação industrial.
+Art. 16.º É obrigatória a declaração do corte ou arranque de árvores florestais que se destinem a venda ou ao autoconsumo para transformação industrial.
 
-###### Art. 17.º A declaração referida no artigo anterior será feita através de um manifesto, segundo modelo anexo (anexo II), a fornecer pela Direcção dos Serviços Florestais, um para cada prédio, e aplica-se a arranques, cortes, desbastes ou cortes extraordinários.
+Art. 17.º A declaração referida no artigo anterior será feita através de um manifesto, segundo modelo anexo (anexo II), a fornecer pela Direcção dos Serviços Florestais, um para cada prédio, e aplica-se a arranques, cortes, desbastes ou cortes extraordinários.
 
-###### Art. 18.º Para efeitos do artigo anterior, entende-se por:
+Art. 18.º Para efeitos do artigo anterior, entende-se por:
 
 a) Corte - qualquer acção ou acto de execução material por iniciativa do homem, com ou sem auxílio instrumental de equipamento ou maquinaria, que for executado no termo do ciclo económico de povoamentos florestais, manchas, faixas, cortinas arbóreas ou pés de árvores;
 
@@ -199,19 +215,19 @@ b) Desbastes - qualquer corte que for executado durante a fase de crescimento de
 
 c) Corte extraordinário - qualquer acção exercida nos termos referidos na alínea a), mas por razões fitossanitárias, incêndios florestais ou outros motivos de segurança, emergência, interesse e utilidade pública manifestos.
 
-###### Art. 19.º O preenchimento do manifesto é da responsabilidade solidária do produtor e do comprador, quando o material lenhoso a que respeita for objecto de venda, ou exclusivamente do produtor, quando se destina ao autoconsumo para transformação industrial.
+Art. 19.º O preenchimento do manifesto é da responsabilidade solidária do produtor e do comprador, quando o material lenhoso a que respeita for objecto de venda, ou exclusivamente do produtor, quando se destina ao autoconsumo para transformação industrial.
 
-###### Art. 20.º Consideram-se produtores florestais para efeitos do manifesto todas as pessoas singulares ou colectivas, públicas ou privadas, que explorem prédios arborizados com espécies florestais, sejam proprietários ou rendeiros, e ainda todos aqueles que, por contrato, possam dispor do material lenhoso.
+Art. 20.º Consideram-se produtores florestais para efeitos do manifesto todas as pessoas singulares ou colectivas, públicas ou privadas, que explorem prédios arborizados com espécies florestais, sejam proprietários ou rendeiros, e ainda todos aqueles que, por contrato, possam dispor do material lenhoso.
 
-###### Art. 21.º Quando o material lenhoso proveniente do mesmo prédio for adquirido por mais de uma entidade, é obrigatório o preenchimento de um manifesto por cada um dos compradores.
+Art. 21.º Quando o material lenhoso proveniente do mesmo prédio for adquirido por mais de uma entidade, é obrigatório o preenchimento de um manifesto por cada um dos compradores.
 
-###### Art. 22.º Os manifestos dos cortes deverão ser remetidos à Direcção dos Serviços Florestais com o pedido de licenciamento referido no artigo 1.º até quinze dias após a realização do corte, reservando-se àquela o direito de verificar a veracidade das informações enviadas.
+Art. 22.º Os manifestos dos cortes deverão ser remetidos à Direcção dos Serviços Florestais com o pedido de licenciamento referido no artigo 1.º até quinze dias após a realização do corte, reservando-se àquela o direito de verificar a veracidade das informações enviadas.
 
-###### Art. 23.º Os elementos constantes dos manifestos têm carácter confidencial e destinam-se exclusivamente a dotar a Direcção Regional de Agricultura das informações indispensáveis à gestão do património florestal regional.
+Art. 23.º Os elementos constantes dos manifestos têm carácter confidencial e destinam-se exclusivamente a dotar a Direcção Regional de Agricultura das informações indispensáveis à gestão do património florestal regional.
 
 ### CAPÍTULO IV — Das contra-ordenações e coimas
 
-###### Art. 24.º - 1 - As infracções ao presente diploma constituem contra-ordenação punível com coima de 2000$00 a 200000$00 por cada unidade ou espécie afectadas.
+Art. 24.º - 1 - As infracções ao presente diploma constituem contra-ordenação punível com coima de 2000$00 a 200000$00 por cada unidade ou espécie afectadas.
 
 2 - A negligência e a tentativa são punidas até metade do montante máximo da coima prevista no número anterior.
 
@@ -221,61 +237,61 @@ a) 3000000$00, em caso de dolo;
 
 b) 1500000$00, em caso de negligência.
 
-###### Art. 25.º Presumem-se provenientes de cortes ou de outras práticas, em transgressão, os produtos que não estejam acompanhados de documento comprovativo de terem sido obtidos em conformidade com a lei, passado pelos serviços competentes da Secretaria Regional da Agricultura e Pescas.
+Art. 25.º Presumem-se provenientes de cortes ou de outras práticas, em transgressão, os produtos que não estejam acompanhados de documento comprovativo de terem sido obtidos em conformidade com a lei, passado pelos serviços competentes da Secretaria Regional da Agricultura e Pescas.
 
-###### Art. 26.º Com a coima, poderão aplicar-se as seguintes sanções acessórias:
+Art. 26.º Com a coima, poderão aplicar-se as seguintes sanções acessórias:
 
 a) Privação do direito a subsídio outorgado por entidades ou serviços públicos, por um período de tempo até dois anos, contados a partir da decisão condenatória definitiva;
 
 b) Apreensão de madeira, lenha, carvão e outros produtos, provenientes de cortes ou práticas em transgressão ao estabelecido no presente diploma.
 
-###### Art. 27.º - 1 - A determinação da medida da coima far-se-á em função da gravidade da contra-ordenação, da culpa e da situação económica do agente.
+Art. 27.º - 1 - A determinação da medida da coima far-se-á em função da gravidade da contra-ordenação, da culpa e da situação económica do agente.
 
 2 - A gravidade da contra-ordenação será determinada em função da espécie botânica, do porte, da raridade e do valor da unidade afectada.
 
-###### Art. 28.º Sem prejuízo dos limites máximos fixados no artigo 24.º, a coima deverá, sempre que possível, exceder o benefício económico que o agente retirou da prática da contra-ordenação.
+Art. 28.º Sem prejuízo dos limites máximos fixados no artigo 24.º, a coima deverá, sempre que possível, exceder o benefício económico que o agente retirou da prática da contra-ordenação.
 
-###### Art. 29.º Compete à secretaria regional da tutela, através dos serviços florestais, o processamento das contra-ordenações e a aplicação das coimas previstas no presente diploma.
+Art. 29.º Compete à secretaria regional da tutela, através dos serviços florestais, o processamento das contra-ordenações e a aplicação das coimas previstas no presente diploma.
 
-###### Art. 30.º Compete à Direcção dos Serviços Florestais exercer a fiscalização do cumprimento das normas do presente diploma.
+Art. 30.º Compete à Direcção dos Serviços Florestais exercer a fiscalização do cumprimento das normas do presente diploma.
 
-###### Art. 31.º Caberá à Direcção dos Serviços Florestais a apreensão de madeira, lenha, carvão ou outros produtos encontrados em flagrante contra-ordenação das disposições do presente diploma e de toda a legislação a publicar sobre a mesma matéria, os quais só serão entregues aos seus legítimos proprietários quando seja efectuado o pagamento da importância da coima, do valor dos danos causados e das despesas que resultem de tal apreensão ou prestem caução idónea.
+Art. 31.º Caberá à Direcção dos Serviços Florestais a apreensão de madeira, lenha, carvão ou outros produtos encontrados em flagrante contra-ordenação das disposições do presente diploma e de toda a legislação a publicar sobre a mesma matéria, os quais só serão entregues aos seus legítimos proprietários quando seja efectuado o pagamento da importância da coima, do valor dos danos causados e das despesas que resultem de tal apreensão ou prestem caução idónea.
 
-###### Art. 32.º - 1 - Quando os cortes em transgressão ao disposto neste diploma tiverem sido feitos sem conhecimento ou ordem do proprietário ou de quem assume a responsabilidade da exploração da propriedade, serão os autores punidos segundo a lei geral.
+Art. 32.º - 1 - Quando os cortes em transgressão ao disposto neste diploma tiverem sido feitos sem conhecimento ou ordem do proprietário ou de quem assume a responsabilidade da exploração da propriedade, serão os autores punidos segundo a lei geral.
 
 2 - O produto do corte será apreendido até à decisão final do tribunal competente.
 
-###### Art. 33.º - 1 - Se não for conhecido o dono dos produtos referidos no artigo 31.º, o funcionário florestal competente mandará afixar avisos nos lugares circunvizinhos mais próximos ou enviá-los-á para este fim ao presidente da junta de freguesia, anunciando a apreensão, a espécie e o número de produtos, o lugar onde estão guardados e o prazo dentro do qual deve ser reclamado, sob pena de se proceder à sua venda.
+Art. 33.º - 1 - Se não for conhecido o dono dos produtos referidos no artigo 31.º, o funcionário florestal competente mandará afixar avisos nos lugares circunvizinhos mais próximos ou enviá-los-á para este fim ao presidente da junta de freguesia, anunciando a apreensão, a espécie e o número de produtos, o lugar onde estão guardados e o prazo dentro do qual deve ser reclamado, sob pena de se proceder à sua venda.
 
 2 - Se o dono dos produtos apreendidos se apresentar a reclamá-los, estes ser-lhe-ão entregues nos termos do artigo 31.º
 
 3 - Se o dono dos produtos apreendidos não se apresentar a prestar caução ou a satisfazer a coima e mais despesas dentro de 48 horas após o período de reclamação, proceder-se-á à venda daqueles produtos, com prévia autorização superior.
 
-###### Art. 34.º - 1 - Se o proprietário for alheio à respectiva exploração, será a coima imposta a quem efectivamente explorar ou administrar a propriedade.
+Art. 34.º - 1 - Se o proprietário for alheio à respectiva exploração, será a coima imposta a quem efectivamente explorar ou administrar a propriedade.
 
 2 - Porém, será sempre da exclusiva responsabilidade do proprietário a inobservância das condições estabelecidas nas licenças previstas no artigo 4.º
 
-###### Art. 35.º O montante das coimas aplicadas pelas contra-ordenações previstas neste diploma constitui receita própria da Região Autónoma da Madeira.
+Art. 35.º O montante das coimas aplicadas pelas contra-ordenações previstas neste diploma constitui receita própria da Região Autónoma da Madeira.
 
-###### Art. 36.º Na apreciação e julgamento das contra-ordenações constantes deste diploma observar-se-á o disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e demais legislação aplicável.
+Art. 36.º Na apreciação e julgamento das contra-ordenações constantes deste diploma observar-se-á o disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e demais legislação aplicável.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 37.º O Governo Regional publicará os regulamentos necessários à execução do disposto no presente diploma.
+Art. 37.º O Governo Regional publicará os regulamentos necessários à execução do disposto no presente diploma.
 
-###### Art. 38.º É revogado o [Decreto Legislativo Regional n.º 10/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1983-454068), de 1 de Agosto.
+Art. 38.º É revogado o [Decreto Legislativo Regional n.º 10/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1983-454068), de 1 de Agosto.
 
-###### Art. 39.º O presente diploma entra em vigor 30 dias após a sua publicação.
+Art. 39.º O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em sessão plenária de 20 de Julho de 1989.
 
-**O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.
 
-**Assinado em 17 de Agosto de 1989.**
+Assinado em 17 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ## Anexo I — Formulário a que se refere o n.º 4 do artigo 12.º
 
@@ -331,4 +347,4 @@ Projecto de arborização (conteúdo do documento a emitir pela Direcção Regio
 
 ## Anexo II — Manifesto de cortes ou arranques de árvores a que se refere o artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20100/37593763.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20100/37593763.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20100/37593763.pdf)

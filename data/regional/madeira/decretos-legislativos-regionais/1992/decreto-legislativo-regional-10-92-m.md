@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/1992/04/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1992-217919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43b5d5145d2484b555dba21a85260cb3a264edd1e0e77709d41825c8dbcb9899
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 056f358d44d10573471bd8bcd2f4e75f2e278f13f6451e05d18be3f0fec10527
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Balanço Social
-- Empresa
-- Direcção Regional do Trabalho
 - Dados Estatísticos
+- Direcção Regional do Trabalho
+- Empresa
 - Madeira.região Autónoma
 relationships:
 - type: cites
@@ -80,16 +80,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:144015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:40Z'
   warnings: []
   errors: []
 ---
@@ -106,20 +118,20 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea e) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-###### Artigo 1.º A [Lei n.º 141/85](https://diariodarepublica.pt/dr/detalhe/lei/141-1985-171917), de 14 de Novembro, com a redacção que lhe foi introduzida pelo [Decreto-Lei n.º 9/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1992-144015), de 22 de Janeiro, aplica-se à Região Autónoma da Madeira com as adaptações constantes dos artigos seguintes.
+Artigo 1.º A [Lei n.º 141/85](https://diariodarepublica.pt/dr/detalhe/lei/141-1985-171917), de 14 de Novembro, com a redacção que lhe foi introduzida pelo [Decreto-Lei n.º 9/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1992-144015), de 22 de Janeiro, aplica-se à Região Autónoma da Madeira com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º O balanço social será remetido até 15 de Maio aos Serviços de Estatística da Direcção Regional do Trabalho pelas empresas que tenham sede na Região e estejam a tal obrigadas nos termos legais.
+Art. 2.º O balanço social será remetido até 15 de Maio aos Serviços de Estatística da Direcção Regional do Trabalho pelas empresas que tenham sede na Região e estejam a tal obrigadas nos termos legais.
 
-###### Art. 3.º O Secretário Regional da Administração Pública poderá autorizar, a requerimento das empresas, a entrega do balanço social em suporte informático, em substituição dos impressos próprios.
+Art. 3.º O Secretário Regional da Administração Pública poderá autorizar, a requerimento das empresas, a entrega do balanço social em suporte informático, em substituição dos impressos próprios.
 
-###### Art. 4.º A Direcção Regional do Trabalho promoverá, com o Departamento de Estatística do Ministério do Emprego e da Segurança Social, o intercâmbio e tramitação da informação estatística do balanço social.
+Art. 4.º A Direcção Regional do Trabalho promoverá, com o Departamento de Estatística do Ministério do Emprego e da Segurança Social, o intercâmbio e tramitação da informação estatística do balanço social.
 
 Aprovado em sessão plenária de 13 de Março de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.
 
-**Assinado em 7 de Abril de 1992.**
+Assinado em 7 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

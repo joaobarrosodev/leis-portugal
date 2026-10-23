@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/05/09400/0218802197.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2018/05/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-115304969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06f486c4754c04897c5c95f07ee5dfe114ae2a11d36ab32f1a228dc1bb0aa535
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df91fc5e16507429c9d1e1b7b88983359ea75ddf0ef523783d9c07f7e0bd1884
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,27 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Achado no MAR
+- Açores
 - Arbitragem
 - BEM Móvel
 - BENS Classificados
-- Obra de Arte
-- Imóvel Classificado
-- Multa
 - Contra-ordenação
 - Definição de Competências
 - Detector de Metais
+- Fiscalização
+- Imóvel Classificado
+- Interesse Público
+- Multa
+- Obra de Arte
+- Parque Arqueológico
 - Património Arqueológico
 - Património Cultural
-- Fiscalização
-- Interesse Público
-- Parque Arqueológico
-- Património Subaquático
-- Recompensa
 - Património Histórico
+- Património Subaquático
 - Plano Regional de Trabalhos Arqueologicos
 - Protecção do Património
+- Recompensa
 - Regime Jurídico
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/27/2004/08/24/a/dre
@@ -113,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/63/2011/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/63/2011/12/14/p/dre
+- type: cites
+  target: pt:dre:145578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 66
+  article_count: 45
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:21Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +177,9 @@ Objeto
 
 O presente diploma estabelece o quadro normativo relativo à gestão do património arqueológico, no sentido da prevenção, salvamento, investigação e fruição pública do património arqueológico imóvel e móvel na Região Autónoma dos Açores.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -161,7 +187,9 @@ O presente diploma estabelece o quadro normativo relativo à gestão do patrimó
 
 3 - A autorização a que se refere o número anterior deve estabelecer as razões que aconselham a realização dos trabalhos, o objetivo concreto dos trabalhos, a área precisa onde a exploração pode realizar-se, a técnica a utilizar e o período máximo durante o qual os trabalhos se realizam.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -173,7 +201,9 @@ c) Categoria C - ações preventivas e de minimização de impactes integradas e
 
 d) Categoria D - ações de emergência a realizar em sítios arqueológicos que, por ação humana ou processo natural, se encontrem em perigo iminente de destruição parcial ou total, e ações pontuais determinadas pela necessidade urgente de conservação de monumentos, conjuntos e sítios.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As ações referidas na alínea a) do artigo anterior apenas podem ser autorizadas quando integradas no Plano Regional de Trabalhos Arqueológicos, adiante designado por Plano, a elaborar pelo departamento do Governo Regional competente em matéria de cultura e a aprovar pelo respetivo membro do Governo Regional.
 
@@ -181,7 +211,9 @@ d) Categoria D - ações de emergência a realizar em sítios arqueológicos que
 
 3 - [...]
 
-###### Artigo 7.º — Execução do Plano Regional de Trabalhos Arqueológicos
+Artigo 7.º
+
+Execução do Plano Regional de Trabalhos Arqueológicos
 
 1 - Os trabalhos arqueológicos integrados no Plano são desenvolvidos por iniciativa da administração regional autónoma, através do departamento do Governo Regional competente em matéria de cultura, ou pode, mediante candidatura, ser autorizada, a sua realização por entidades de caráter científico.
 
@@ -189,7 +221,9 @@ d) Categoria D - ações de emergência a realizar em sítios arqueológicos que
 
 3 - [Revogado.]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os pedidos de autorização para a realização de trabalhos arqueológicos só podem ser apresentados por universidades ou outras entidades que tenham por objeto a investigação científica.
 
@@ -201,13 +235,17 @@ d) Categoria D - ações de emergência a realizar em sítios arqueológicos que
 
 5 - [Revogado.]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A autorização concedida pelo membro do Governo Regional competente em matéria de cultura para a realização de trabalhos arqueológicos não dispensa o requerente de obter o necessário consentimento do proprietário dos terrenos ou dos bens sobre que incidem os trabalhos em causa.
 
 2 - [...]
 
-###### Artigo 10.º — Condições da autorização
+Artigo 10.º
+
+Condições da autorização
 
 1 - A autorização de trabalhos arqueológicos depende das seguintes condições:
 
@@ -221,11 +259,15 @@ b) [...]
 
 4 - Em simultâneo com a notificação do investigador responsável, as autarquias locais são notificadas, pelo membro do Governo Regional competente em matéria de cultura, da concessão de autorização para realização de trabalhos arqueológicos na área da sua jurisdição.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 O espólio resultante de pesquisas arqueológicas, terrestres ou subaquáticas, deve ser depositado e conservado, após a conclusão dos trabalhos arqueológicos e do respetivo estudo e inventário, na instituição que for indicada pelo membro do Governo Regional competente em matéria de cultura, em cooperação com os organismos competentes do Estado, sob proposta da direção regional competente em matéria de cultura.
 
-###### Artigo 21.º — Estudos e planos
+Artigo 21.º
+
+Estudos e planos
 
 1 - [...]
 
@@ -237,7 +279,9 @@ c) Procurar conciliar e articular as necessidades da arqueologia e do ordenament
 
 2 - As declarações de impacte ambiental devem considerar expressamente os efeitos dos licenciamentos de obras ou qualquer outra intervenção que, direta ou indiretamente, afetem sítios classificados como de interesse arqueológico ou em vias de classificação.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Quem por acaso achar ou localizar quaisquer testemunhos arqueológicos, em terreno público ou particular, ou em meio subaquático, fica obrigado a comunicar a ocorrência diretamente ao departamento do Governo Regional competente em matéria de cultura, ou a qualquer autoridade policial, ou, ainda, no caso de ocorrer em meio subaquático, ao órgão local do sistema de autoridade marítima ou estância aduaneira com jurisdição sobre a área do achado, no prazo de quarenta e oito horas.
 
@@ -247,7 +291,9 @@ c) Procurar conciliar e articular as necessidades da arqueologia e do ordenament
 
 4 - [...]
 
-###### Artigo 29.º — Avaliação técnica
+Artigo 29.º
+
+Avaliação técnica
 
 1 - O achamento ou a recolha de bens arqueológicos determina a abertura de um procedimento de avaliação técnica do bem em causa.
 
@@ -261,11 +307,15 @@ c) Procurar conciliar e articular as necessidades da arqueologia e do ordenament
 
 6 - [Revogado.]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 Não se consideram fortuitos os achados efetuados em zonas previamente conhecidas pela existência de quaisquer vestígios arqueológicos, já avistados, recuperados e devidamente registados e classificados em inventário regional oficializado, bem como os provenientes de monumentos, conjuntos ou sítios classificados.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - O achador tem direito ao pagamento de metade do valor do achado fortuito que venha a ser atribuído na avaliação financeira prevista no artigo 32.º
 
@@ -275,7 +325,9 @@ Não se consideram fortuitos os achados efetuados em zonas previamente conhecida
 
 4 - [...]
 
-###### Artigo 32.º — Avaliação financeira
+Artigo 32.º
+
+Avaliação financeira
 
 1 - O departamento do Governo Regional competente em matéria de cultura determina o valor do achado ou dos bens recolhidos nos trinta dias seguintes à respetiva avaliação técnica.
 
@@ -283,7 +335,9 @@ Não se consideram fortuitos os achados efetuados em zonas previamente conhecida
 
 3 - O departamento do Governo Regional competente em matéria de cultura comunica ao achador, no prazo de quinze dias após a avaliação financeira, o valor atribuído ao achado fortuito.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O achador que não aceitar a determinação do valor resultante da avaliação financeira deve apresentar um requerimento ao departamento do Governo Regional competente em matéria de cultura para a constituição de uma comissão arbitral nos dez dias seguintes à notificação da avaliação.
 
@@ -293,7 +347,9 @@ Não se consideram fortuitos os achados efetuados em zonas previamente conhecida
 
 4 - Na falta de acordo sobre a escolha do árbitro que preside à comissão, aplicam-se as regras da [Lei n.º 63/2011](https://diariodarepublica.pt/dr/detalhe/lei/63-2011-145578), de 14 de dezembro.
 
-###### Artigo 36.º-A — [...]
+Artigo 36.º-A
+
+[...]
 
 1 - Estão absolutamente proibidas nos parques arqueológicos as seguintes atividades:
 
@@ -317,13 +373,17 @@ f) Fundeação dentro das zonas assinaladas como zona de parque arqueológico vi
 
 g) Utilização de boias sinalizadoras para outros fins que não os de visita aos parques subaquáticos visitáveis.
 
-###### Artigo 36.º-B — [...]
+Artigo 36.º-B
+
+[...]
 
 1 - A fiscalização do cumprimento das disposições do presente diploma cabe ao departamento do Governo Regional competente em matéria de cultura e às entidades com atribuições policiais e de vigilância e fiscalização marítima.
 
 2 - [...]
 
-###### Artigo 36.º-C — [...]
+Artigo 36.º-C
+
+[...]
 
 1 - [...]
 
@@ -339,7 +399,9 @@ e) De (euro) 500 a (euro) 1500 e de (euro) 5000 a (euro) 50 000, a violação do
 
 2 - [...]
 
-###### Artigo 36.º-D — [...]
+Artigo 36.º-D
+
+[...]
 
 [...]
 
@@ -373,11 +435,15 @@ f) Estabelecimento de zonas de interdição de operações urbanísticas.
 
 3 - As cartas de risco arqueológico são elaboradas pela direção regional competente em matéria de cultura, em parceria com os municípios, estando sujeitas a revisão quando os seus pressupostos sejam significativamente alterados.
 
-###### Artigo 33.º-A — Detetores de metais
+Artigo 33.º-A
+
+Detetores de metais
 
 O uso de detetores de metais rege-se pela [Lei n.º 121/99](https://diariodarepublica.pt/dr/detalhe/lei/121-1999-434009), de 20 de agosto.
 
-###### Artigo 36.º-F — Regulamentação
+Artigo 36.º-F
+
+Regulamentação
 
 As regras respeitantes à realização de trabalhos arqueológicos e respetivos formulários, constam de portaria do membro do Governo Regional competente em matéria de cultura.»
 
@@ -403,11 +469,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de abril de 2018.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 10 de maio de 2018.**
+Assinado em Angra do Heroísmo em 10 de maio de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -810,3 +876,5 @@ As competências genéricas em matéria de arqueologia atribuídas pela [Lei n.�
 ###### Artigo 40.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+111338415

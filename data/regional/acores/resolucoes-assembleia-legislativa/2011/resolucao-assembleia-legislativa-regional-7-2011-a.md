@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/7/2011/05/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/7-2011-287111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d023ac1d3ac7c4145e6e22ee30aa45de8dccfb4aeebfec522a88866b54d1209
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3befdebd23ea9a04c8c31b2297161cb93cd0c4698ee2f1d53182ba57c0c4770
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
+- Açores
 - Crédito à Habitação
 - Desempregado
+- Família
+- Habitação
 - Habitação Social
 - JURO Bonificado
 - Juros
 - Política Social
 - Recomendação
-- Habitação
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:670043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:670043:por
+  label: "Rectificado o sumário, pela DECL-RECT.17/2011.07.06.2011.PCM, DR.IS [110] de 07.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-2011-670043
+  date: '2011-06-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:38Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +130,4 @@ A Assembleia Legislativa da Região Autónoma dos Açores resolve nos termos reg
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 23 de Março de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.

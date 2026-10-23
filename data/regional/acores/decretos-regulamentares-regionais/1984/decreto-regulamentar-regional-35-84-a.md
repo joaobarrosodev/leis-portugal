@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/10/23400/31153116.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1984-400035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18e8a8941004109f3e61a4a18a49bc4f8dd94720be40533a1c2d171efd43138e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c610e3ec9e04ace33a2877ca94238000b784d33140288ba47c1dc3ef112d23a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Aeroporto
+- Medidas Preventivas
 relationships:
 - type: amended_by
   target: pt:dre:175320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:374269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175320:por
+  label: "Revogado, a partir de 31.08.2012, pelo DLR.35/2012/A.16.08.2012.AL-RAA, DR.IS [158] de 16.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/35-2012-175320
+  date: '2012-08-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:16Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +113,16 @@ Considerando que o prazo de vigência do [Decreto Regulamentar Regional n.º 36/
 
 Decreta o Governo Regional, conforme o disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e nos termos da alínea b) do artigo 44.º da [Lei n.º 39/80](https://diariodarepublica.pt/dr/detalhe/lei/39-1980-470204), de 5 de Agosto, e da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É prorrogada pelo prazo de 1 ano a vigência das medidas preventivas definidas no [Decreto Regulamentar Regional n.º 36/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-1982-374269), de 9 de Setembro, na área que o mesmo delimita.
+Artigo 1.º É prorrogada pelo prazo de 1 ano a vigência das medidas preventivas definidas no [Decreto Regulamentar Regional n.º 36/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-1982-374269), de 9 de Setembro, na área que o mesmo delimita.
 
-###### Art. 2.º Este decreto entra em vigor a 10 de Setembro de 1984.
+Art. 2.º Este decreto entra em vigor a 10 de Setembro de 1984.
 
 Aprovado em Conselho do Governo Regional em 24 de Agosto de 1984.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 19 de Setembro de 1984.**
+Assinado em Angra do Heroísmo em 19 de Setembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/108a00/44114417.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2002/05/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2002-368662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c52f472c9c294313eb2ec2cd44e96cdb9b575159e30342bc8fa3d8dbcd36ff95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d657c0af9af89f5b0dbab0b27dc474dd87d38d3bc229bd0f24e415e422ece75a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Pescador
+- Açores
+- Catástrofe
 - Criação de Serviços
 - Definição de Competências
-- Catástrofe
+- Financiamento
 - Fundo de Compensação Salarial
-- Pesca
 - Fundopesca
+- Pesca
+- Pescador
 - Secretaria Regional da Agricultura e Pescas
 - Secretário Regional da Agricultura e Pescas
-- Açores
 - Subsídio
 relationships:
 - type: amended_by
@@ -95,16 +95,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/19/1996/08/07/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/19/1996/08/07/a/dre
+- type: cites
+  target: pt:dre:412046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611887:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:503015:por
+  label: "Revogado pelo DLR.19/2013/A.17.10.2013.AL-RAA, DR.IS [201] de 17.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2013-503015
+  date: '2013-10-17'
 article_structure:
-  article_count: 31
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:34Z'
   warnings: []
   errors: []
 ---
@@ -139,11 +156,15 @@ Criação e natureza
 
 2 - O FUNDOPESCA é dotado de personalidade jurídica e autonomia administrativa e financeira.
 
-###### Artigo 2.º — Atribuição
+Artigo 2.º
+
+Atribuição
 
 Constitui atribuição do FUNDOPESCA prestar apoio financeiro aos profissionais da pesca quando estejam temporariamente impedidos de exercer a respectiva actividade nos termos previstos no presente diploma.
 
-###### Artigo 3.º — Âmbito pessoal
+Artigo 3.º
+
+Âmbito pessoal
 
 1 - São abrangidos pelo disposto no presente diploma os armadores e os pescadores, inscritos marítimos, titulares de cédula marítima válida, exercendo a sua actividade em regime de exclusividade a bordo de embarcação de pesca registada em porto da Região Autónoma dos Açores devidamente licenciada, imobilizada pelos motivos previstos no artigo seguinte, e desde que efectue os descontos referidos na alínea c) do n.º 1 do artigo 12.º
 
@@ -155,7 +176,9 @@ a) Armadores - os proprietários das embarcações de pesca cujos rendimentos me
 
 b) ...
 
-###### Artigo 4.º — Âmbito material
+Artigo 4.º
+
+Âmbito material
 
 1 - ...
 
@@ -171,7 +194,9 @@ a) No caso dos armadores, mediante emissão de declaração por parte da LOTAÇO
 
 b) ...
 
-###### Artigo 5.º — Montante da compensação e período máximo
+Artigo 5.º
+
+Montante da compensação e período máximo
 
 1 - O valor diário da compensação salarial será igual a 1/30 do valor do salário mínimo adicionado de 1/30 do acréscimo regional ao salário mínimo;
 
@@ -179,13 +204,17 @@ b) ...
 
 3 - ...
 
-###### Artigo 6.º — Subsidiariedade e acumulação
+Artigo 6.º
+
+Subsidiariedade e acumulação
 
 1 - O regime de compensação salarial previsto no presente diploma é subsidiário relativamente aos regimes de apoio financeiro previstos no quadro da Intervenção Operacional Pesca - IFOP e em legislação regional.
 
 2 - ...
 
-###### Artigo 7.º — Administração do FUNDOPESCA
+Artigo 7.º
+
+Administração do FUNDOPESCA
 
 1 - O FUNDOPESCA rege-se pelo estabelecido no presente diploma e pelas instruções de ordem técnica que, para o seu funcionamento, forem transmitidas pelo secretário regional com competência em matéria de pescas e pelo conselho administrativo.
 
@@ -207,13 +236,17 @@ g) Um representante da LOTAÇOR, E. P.
 
 3 - Os membros referidos nas alíneas e) e f) são designados por despacho do secretário regional com competência em matéria de pescas mediante proposta dos membros dos sindicatos e associações de pescadores e armadores.
 
-###### Artigo 8.º — Mandato e despesas de deslocação
+Artigo 8.º
+
+Mandato e despesas de deslocação
 
 1 - O mandato dos membros do conselho administrativo é de três anos, renováveis, podendo, todavia, ser exonerados a todo o tempo, com ressalva do director regional das Pescas, que exerce a presidência por inerência de funções.
 
 2 - As despesas com as deslocações dos membros referidos nas alíneas e) e f) do artigo anterior, no âmbito de reuniões do conselho administrativo, serão suportadas pela Direcção Regional das Pescas e de montante idêntico às ajudas de custo a que têm direito os funcionários e agentes com vencimentos superiores ao valor do índice 405 da tabela de vencimentos do regime geral do funcionalismo público.
 
-###### Artigo 9.º — Competências do conselho administrativo
+Artigo 9.º
+
+Competências do conselho administrativo
 
 ...
 
@@ -227,15 +260,21 @@ d) ...
 
 e) Decidir do fundamento da atribuição de uma compensação salarial ao inscrito marítimo, nos termos da alínea a) do n.º 1 do artigo 4.º, em caso de impossibilidade técnica de emissão de parecer pela entidade competente, sobre a falta de condições de segurança no porto ou no mar para um determinado tipo de embarcações e noutras situações análogas de carácter excepcional.
 
-###### Artigo 10.º — Deliberações
+Artigo 10.º
+
+Deliberações
 
 As deliberações do conselho administrativo, no âmbito da atribuição de compensações salariais, estão sujeitas a homologação do secretário regional com competência em matéria de pescas.
 
-###### Artigo 11.º — Apoio administrativo e logístico
+Artigo 11.º
+
+Apoio administrativo e logístico
 
 A Direcção Regional das Pescas prestará apoio administrativo e logístico ao FUNDOPESCA.
 
-###### Artigo 12.º — Receitas
+Artigo 12.º
+
+Receitas
 
 1 - Constituem receitas do FUNDOPESCA:
 
@@ -263,13 +302,17 @@ k) Quaisquer outras receitas que lhe sejam entregues.
 
 2 - As receitas enunciadas no número anterior destinam-se apenas ao pagamento das compensações salariais das embarcações de pesca registadas nos portos da Região Autónoma dos Açores.
 
-###### Artigo 13.º — Regime sancionatório
+Artigo 13.º
+
+Regime sancionatório
 
 1 - ...
 
 2 - ...
 
-###### Artigo 14.º — Instrução e aplicação
+Artigo 14.º
+
+Instrução e aplicação
 
 A autuação e instrução dos processos de contra-ordenação previstos no presente diploma, bem como a aplicação das coimas, é da competência da Inspecção Regional das Pescas.»
 
@@ -287,13 +330,13 @@ O presente diploma produz efeitos à data de 1 de Janeiro de 2002.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 21 de Março de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo, em 15 de Abril de 2002.**
+Assinado em Angra do Heroísmo, em 15 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — FUNDO DE COMPENSAÇÃO SALARIAL DOS PROFISSIONAIS DA PESCA DOS AÇORES (FUNDOPESCA)
 

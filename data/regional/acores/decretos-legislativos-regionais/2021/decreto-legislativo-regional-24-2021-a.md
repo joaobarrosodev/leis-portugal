@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14100/0005700071.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2021/07/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2021-168043801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 986d557854a4f95d3705a75de5998586972d54245327501c65104003376faf7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff6d390aa1acad495d45fc64a230c493fb3b2c4ebceae7b0b1f5feaa113c8085
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
+- Açores
+- Agência Espacial Portuguesa
+- Autoridade Nacional de Comunicações
 - Contra-ordenação
+- Contratação Pública
 - Contrato Administrativo
 - Contrato de Concessão
 - Definição de Competências
 - Espaço Aéreo
-- Seguro
+- Estratégia Portugal Espaço 2030
+- Exploração do Espaço
+- Governo Regional
 - Licenciamento
 - Programa Operacional Espaço Atlântico
 - Responsabilidade Civil
-- Serviço Regional de Saúde
-- Açores
-- Utilização do Espaço
-- Exploração do Espaço
-- Transporte Espacial
-- Autoridade Nacional de Comunicações
-- Estratégia Portugal Espaço 2030
-- Agência Espacial Portuguesa
+- Seguro
 - SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
-- Contratação Pública
+- Serviço Regional de Saúde
+- Transporte Espacial
+- Utilização do Espaço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/2019/01/22/p/dre
@@ -96,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/9/2019/05/09/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/9/2019/05/09/a/dre
+- type: cites
+  target: pt:dre:118275382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122253268:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:44Z'
   warnings: []
   errors: []
 ---
@@ -152,11 +160,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de junho de 2021.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 12 de julho de 2021.**
+Assinado em Angra do Heroísmo em 12 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -645,3 +653,5 @@ O decreto regulamentar regional a que se referem os artigos 7.º, 9.º, 10.º, 1
 ###### Artigo 34.º — Entrada em vigor e produção de efeitos
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos na data de publicação do decreto regulamentar regional a que se refere o artigo anterior.
+
+114402734

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/399/2008/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/399-2008-449383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e923a376a48138aa7cbecb692786de40e8345e56111eaeff2b07ff28ba60ac94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c308eb81faa091e367b595b0c17cd0ddc759982342d46b66363803133821afb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cidadão Estrangeiro
-- Livre Circulação de Pessoas
-- Residente no Estrangeiro
 - Direito Territorial
+- Livre Circulação de Pessoas
 - Passaporte
+- Residente no Estrangeiro
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/662/1999/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/662/1999/08/18/p/dre
+- type: cites
+  target: pt:dre:434409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:06Z'
   warnings: []
   errors: []
 ---
@@ -110,8 +118,8 @@ Ao abrigo do n.º 5 do artigo 26.º da [Lei n.º 23/2007](https://diariodarepubl
 
 2.º É revogada a [Portaria n.º 662/99](https://diariodarepublica.pt/dr/detalhe/portaria/662-1999-434409), de 18 de Agosto.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 20 de Maio de 2008.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 20 de Maio de 2008.
 
 ## ANEXO — Modelo de salvo-conduto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10900/0333703338.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10900/0333703338.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10900/0333703338.pdf)

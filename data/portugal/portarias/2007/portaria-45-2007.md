@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/45/2007/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/45-2007-261974
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d39d71cc1d9a209120a3738e7bc867aef264e0ecd794253c758d096e08c03938
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d2a03d9dbddf4cda7024bbad486dc2c4550b57bfe7503d8d4e6b12b18528e37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Condições de Higiene e Segurança no Trabalho
-- Regulamento de Extensão
 - Indústria Alimentar
+- Regulamento de Extensão
 - Remuneração
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:39Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +130,4 @@ b) Às relações de trabalho entre empregadores filiados nas associações de e
 
 3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de cinco.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 6 de Dezembro de 2006.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 6 de Dezembro de 2006.

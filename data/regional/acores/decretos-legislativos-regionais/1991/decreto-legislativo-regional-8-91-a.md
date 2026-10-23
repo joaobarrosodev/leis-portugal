@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/182a00/40234024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/1991/08/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1991-679829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8a90bf889e07c5f2e3698dfcfe2b94d98291c542d92938fe30ce59a0ed6f5b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88823fc940ba0f1452da768e517cbfae7b751ba984616f51c1b326e94a74db75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Denominação de Instituição
 - Ensino Oficial
-- Simbolo de Identificação
 - Estabelecimento de Ensino
 - Processo Administrativo
-- Açores
+- Simbolo de Identificação
 relationships:
 - type: amended_by
   target: pt:dre:444709:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:373600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565376:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:444709:por
+  label: "Revogado pelo DLR.15/98/A.1998.07.17.ALR-RAA DR.IS-A [191] de20/Ago/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-1998-444709
+  date: '1998-07-17'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:09Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +116,9 @@ Considerando que as especificidades próprias da Região Autónoma dos Açores i
 
 Nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo, a Assembleia Legislativa Regional dos Açores decreta o seguinte:
 
-###### Artigo 1.º Na aplicação do [Decreto-Lei n.º 387/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1990-565376), de 10 de Dezembro, à Região Autónoma dos Açores, ter-se-á em conta o disposto no artigo seguinte.
+Artigo 1.º Na aplicação do [Decreto-Lei n.º 387/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1990-565376), de 10 de Dezembro, à Região Autónoma dos Açores, ter-se-á em conta o disposto no artigo seguinte.
 
-###### Art. 2.º Os artigos 3.º, 5.º, 6.º e 8.º do [Decreto-Lei n.º 387/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1990-565376), de 10 de Dezembro, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 3.º, 5.º, 6.º e 8.º do [Decreto-Lei n.º 387/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1990-565376), de 10 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Processo de denominação
 
@@ -145,16 +158,16 @@ c) ...
 
 2 - ...
 
-###### Art. 3.º É revogado o artigo 4.º do [Decreto Legislativo Regional n.º 23/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1988-373600), de 5 de Maio.
+Art. 3.º É revogado o artigo 4.º do [Decreto Legislativo Regional n.º 23/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1988-373600), de 5 de Maio.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional, na Horta, em 3 de Junho de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 20 de Junho de 1991.**
+Assinado em Angra do Heroísmo em 20 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

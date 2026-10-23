@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2010/08/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2010-343382
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 291a909afbb1184fdfe04e672a0bbedadeb08a60ffb3c943677fbd5dc488d3e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bae7dcaeefba59be5dab746b59438e1a1f72c88d379bb088e48ba35aca56d7e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ reuse:
 subjects:
 - Comparticipação do Estado
 - Definição de Competências
-- Medicamento
 - Iasaúde
-- Medicamento Genérico
-- Secretaria Regional dos Assuntos Sociais
 - Madeira.região Autónoma
+- Medicamento
+- Medicamento Genérico
 - Receita Médica
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:191864:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553579:por
+  label: "Alterados os arts. 2º, 3º e 4º e revogado, nos termos do nº2 do art. 2º, o nº2 do art. 4º e o anexo do presente\
+    \ diploma, pelo DLR.2/2012/M.16.03.2012.AL-RAM, DR.IS [55] de 16.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2012-553579
+  date: '2012-03-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
   label: null
@@ -95,16 +101,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/6/2003/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/6/2003/01/03/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:191864:por
+  label: "Revogado, a partir de 08.12.2012, pelo DLR.29/2012/M.08.11.2012.AL-RAM, DR.IS [216] de 08.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2012-191864
+  date: '2012-11-08'
+- type: repealed_by
+  target: pt:dre:176631062:por
+  label: Revogado, com efeitos a 31.12.2021, o presente diploma, pelo(a) Decreto Legislativo Regional n.º 39/2021/A - Diário
+    da República n.º 250/2021, Série I de 2021-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/39-2021-176631062
+  date: '2021-12-28'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:17Z'
   warnings: []
   errors: []
 ---
@@ -185,14 +218,14 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Julho de 2010.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 4 de Agosto de 2010.**
+Assinado em 4 de Agosto de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Em tamanho A5 com impressão na frente e verso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15700/0352803530.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15700/0352803530.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15700/0352803530.pdf)

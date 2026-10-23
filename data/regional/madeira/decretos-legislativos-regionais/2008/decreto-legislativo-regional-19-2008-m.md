@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2008/06/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2008-449379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 924497b9e04cb35e72632d7a38ecf648c9b3a3c7675ea718167deafcb6fd97bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24ab56529d303840cb68796f26f8c66b093de64e81bdd9c1c74ea29a7fe325e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAE
-- Estabelecimento Comercial
+- Comércio
+- Dados Pessoais
 - Direcção Regional do Comércio Indústria e Energia
+- Estabelecimento Comercial
 - Inspecção Regional das Actividades Económicas
 - Madeira.região Autónoma
-- Dados Pessoais
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/381/2007/11/14/p/dre
@@ -98,16 +98,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:176346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:58Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +170,9 @@ Os artigos 1.º, 2.º e 12.º do [Decreto Legislativo Regional n.º 8/98/M](http
 
 3 - Para efeitos do presente diploma, entende-se por estabelecimento comercial toda a instalação, de carácter fixo e permanente, onde seja exercida, exclusiva ou principalmente, de modo habitual, uma ou mais actividades de comércio, por grosso ou a retalho, tal como são definidos, respectivamente, nas alíneas a) e b) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 339/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1985-181042), de 21 de Agosto, incluídas na secção G da classificação das actividades económicas (CAE - Rev. 3), aprovada pelo [Decreto-Lei n.º 381/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-2007-629150), de 14 de Novembro.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Ficam sujeitos a inscrição no cadastro os seguintes factos:
 
@@ -152,7 +186,9 @@ d) ...
 
 e) Mudança de nome ou de insígnia do estabelecimento comercial.
 
-###### Artigo 12.º — Fiscalização
+Artigo 12.º
+
+Fiscalização
 
 A fiscalização do cumprimento do disposto no presente diploma compete à Direcção Regional do Comércio, Indústria e Energia e à Inspecção Regional das Actividades Económicas (IRAE), sem prejuízo das competências legalmente atribuídas a outras entidades.»
 
@@ -190,11 +226,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 13 de Maio de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 28 de Maio de 2008.**
+Assinado em 28 de Maio de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 

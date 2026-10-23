@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1985, 1º Suplemento, Série I de 1985-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4260-(15) a 4260-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30101/00150016.pdf
 entry_into_force_dates: []
@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1985-546438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b3d663224656f2e844850b04e8f0f57c8ec1ab4b1e1fc2b331c3456beb62732
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5ae18ec5179a0d2ac53598f99fb7dfcd2d20610b1701614b2868273f88b9f5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banana
+- Madeira.região Autónoma
+- Regulamento para o Cultivo Colheita e Entrega da Banana
+relationships:
+- type: cites
+  target: pt:dre:250605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:00Z'
   warnings: []
   errors: []
 ---
@@ -90,27 +105,27 @@ Assim:
 
 A Assembleia Regional da Madeira, ao abrigo do n.º 1 do artigo 3.º do [Decreto-Lei n.º 503/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1985-250605), de 30 de Dezembro, e da parte final da alínea b) do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento para o Cultivo, Colheita e Entrega da Banana, publicado em anexo a este diploma e dele fazendo parte integrante.
+Artigo 1.º É aprovado o Regulamento para o Cultivo, Colheita e Entrega da Banana, publicado em anexo a este diploma e dele fazendo parte integrante.
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor.
+Art. 2.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária em 30 de Dezembro de 1985.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 30 de Dezembro de 1985.**
+Assinado em 30 de Dezembro de 1985.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Regulamento para a Produção, Colheita e Entrega da Banana
 
 ### CAPÍTULO I — Âmbito de aplicação
 
-###### Artigo 1.º Na Região Autónoma da Madeira, a produção, a colheita e a entrega da banana para comercialização deverão efectuar-se de acordo com o disposto no presente diploma.
+Artigo 1.º Na Região Autónoma da Madeira, a produção, a colheita e a entrega da banana para comercialização deverão efectuar-se de acordo com o disposto no presente diploma.
 
 ### CAPÍTULO II — Cultivo e colheita
 
-###### Art. 2.º - 1 - A cultura da bananeira deverá realizar-se nas zonas climaticamente mais adequadas, em terrenos profundos, ricos e com possibilidades asseguradas de regadio, de acordo com uma boa prática agrícola e tendo em atenção a evolução dos processos técnicos.
+Art. 2.º - 1 - A cultura da bananeira deverá realizar-se nas zonas climaticamente mais adequadas, em terrenos profundos, ricos e com possibilidades asseguradas de regadio, de acordo com uma boa prática agrícola e tendo em atenção a evolução dos processos técnicos.
 
 2 - Para efeitos do disposto no número anterior, deverão os produtores ter em consideração o seguinte:
 
@@ -124,7 +139,7 @@ d) A aplicação dos pesticidas mais adequados para combater as pragas e doença
 
 e) O emprego de uma tutoragem correcta, de modo a proporcionar a formação perfeita dos cachos.
 
-###### Art. 3.º Para a preservação da qualidade da banana deverão observar-se, relativamente aos cachos, todos os cuidados que se mostrem necessários, nomeadamente:
+Art. 3.º Para a preservação da qualidade da banana deverão observar-se, relativamente aos cachos, todos os cuidados que se mostrem necessários, nomeadamente:
 
 a) Serem colocados em locais protegidos do sol e da chuva, com pavimento liso revestido por cobertores ou outros materiais que preencham os mesmos requisitos;
 
@@ -134,7 +149,7 @@ c) Serem transportados o mais rapidamente possível para o centro de acondiciona
 
 ### CAPÍTULO III — Transporte da banana da produção aos centros de acondicionamento
 
-###### Art. 4.º - 1 - No transporte da banana da plantação ao centro de acondicionamento deverá observar-se o seguinte:
+Art. 4.º - 1 - No transporte da banana da plantação ao centro de acondicionamento deverá observar-se o seguinte:
 
 a) Os cachos devem ser protegidos com cobertores para evitar roçaduras e traumatismos;
 
@@ -148,7 +163,7 @@ d) É proibido o transporte de pessoal sobre os cachos ou de qualquer material e
 
 3 - Para efeitos do disposto no número anterior, todos os cortadores deverão, obrigatoriamente, increver-se no departamento competente da Secretaria Regional da Economia, no prazo de 30 dias a contar da publicação do presente Regulamento.
 
-###### Art. 5.º - 1 - No transporte da banana da produção para os centros de acondicionamento, esta far-se-á sempre acompanhar de dois exemplares de documento de circulação e do cartão de cortador, quando seja o caso.
+Art. 5.º - 1 - No transporte da banana da produção para os centros de acondicionamento, esta far-se-á sempre acompanhar de dois exemplares de documento de circulação e do cartão de cortador, quando seja o caso.
 
 2 - Entende-se por documento de circulação a factura, a guia de remessa ou documento equivalente.
 
@@ -166,7 +181,7 @@ e) Data, local do carregamento e local da descarga.
 
 4 - Os documentos de circulação serão processados em triplicado pelo produtor no momento da venda ou do levantamento da banana.
 
-###### Art. 6.º Os exemplares dos documentos referidos no n.º 4 do artigo anterior são destinados:
+Art. 6.º Os exemplares dos documentos referidos no n.º 4 do artigo anterior são destinados:
 
 a) O original, que acompanhará a banana, ao destinatário ou adquirente da mesma;
 
@@ -176,10 +191,10 @@ c) O triplicado, ao remetente da banana.
 
 ### CAPÍTULO IV — Das contra-ordenações e respectivas coimas
 
-###### Art. 7.º - 1 - Às infracções ao disposto no presente Regulamento aplicar-se-á o [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+Art. 7.º - 1 - Às infracções ao disposto no presente Regulamento aplicar-se-á o [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
 2 - A aplicação das coimas previstas no presente diploma compete ao director regional do Comércio e Indústria.
 
-###### Art. 8.º Em conformidade com a legislação em vigor, compete especialmente à Direcção dos Serviços de Fiscalização Económica e à Direcção dos Serviços de Comércio e Indústria Agrícola exercer a fiscalização do cumprimento das normas do presente Regulamento, cabendo ainda àquela primeira entidade a instrução dos respectivos processos por contra-ordenação.
+Art. 8.º Em conformidade com a legislação em vigor, compete especialmente à Direcção dos Serviços de Fiscalização Económica e à Direcção dos Serviços de Comércio e Indústria Agrícola exercer a fiscalização do cumprimento das normas do presente Regulamento, cabendo ainda àquela primeira entidade a instrução dos respectivos processos por contra-ordenação.
 
-###### Art. 9.º Na apreciação e julgamento das contra-ordenações constantes deste Regulamento observar-se-á o disposto nos Decretos-Leis n.os [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e [28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, e demais legislação aplicável.
+Art. 9.º Na apreciação e julgamento das contra-ordenações constantes deste Regulamento observar-se-á o disposto nos Decretos-Leis n.os [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e [28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, e demais legislação aplicável.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2011/03/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2011-279445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3f8c88fa5265d469bdbc7c413db1357fa7159df90117d6c0be6c64e39d3a5dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28467fa0da138298e2b768c43c8f00e0e7118b415b605177fbd6f34987925162
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alvará
-- Farmácia
-- Multa
 - Concurso Público
 - Contra-ordenação
 - Definição de Competências
 - Direcção Regional da Saúde
 - Direcção Técnica
-- Política de Saúde
 - Farmacêutico
+- Farmácia
 - Farmácia de Oficina
 - Fiscalização
-- Medicamento
 - Horário de Funcionamento
 - Licenciamento
 - Licenciamento de Obras
+- Medicamento
+- Multa
 - Página na Internet
+- Política de Saúde
 - Regime Jurídico
 - Segredo Profissional
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:178495:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551978:por
+  label: "Declarada a ilegalidade, com força obrigatória geral, e por violação do artigo 59.º, n.º 2, alínea e), do Estatuto\
+    \ Político-Administrativo da Região Autónoma dos Açores, da norma constante do art. 27º do presente diploma, pelo AC.187/2012.18.05.2012.TCS,\
+    \ DR.IS [97] de 18.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/187-2012-551978
+  date: '2012-05-18'
+- type: amended_by
+  target: pt:dre:178495:por
+  label: "Alterados os arts. 27º, 31º, 46º e 56º e aditados os arts. 27º-A, 27º-B, 27º-C, 27º-D, 27º-E, 27º-F, 27º-G, 27º-H,\
+    \ 27º-I, 27º-J, 27º-K, 27º-L, 27º-M, 27º-N, 27º-O, 27º-P, 27º-Q, 27º-R, 27º-S, 27º-T, 27º-U, 27º-V, 27º-W, 27º-X, 27º-Y,\
+    \ 27º-Z, 31º-A, 31º-B, 31º-C, 31º-D, 31º-E, 31º-F, 31º-G, 31º-H, 31º-I, 31º-J, 31º-K, 31º-L, 34º-A, 34º-B, 34º-C, 34º-D,\
+    \ 34º-E, 37º-A, 37º-B, 37º-C, 37º-D, 54º-A, 54º-B, 54º-C, 57º-A e 57º-B, pelo DLR.29/2012/A.26.06.2012.AL-RAA, DR.IS [122]\
+    \ de 26.06.2012, que procede à sua republicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2012-178495
+  date: '2012-06-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/19/1999/06/24/a/dre
   label: null
@@ -98,16 +114,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/25/1999/07/31/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/25/1999/07/31/a/dre
+- type: cites
+  target: pt:dre:346708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390249:por
+  label: null
+  source: null
 article_structure:
   article_count: 59
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:25Z'
   warnings: []
   errors: []
 ---
@@ -614,10 +638,10 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 27 de Janeiro de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 18 de Fevereiro de 2011.**
+Assinado em Angra do Heroísmo em 18 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

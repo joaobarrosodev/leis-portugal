@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1981-389659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da269535e62574467671ccb3f78a944075dffabcbad38b4e32af5989e4fe06cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66fddaf2808dcd06f3e8e81726832d6a8562c9fecfd4d2a3d8372b471de3277c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Carreira Profissional
+- Tesouraria
+relationships:
+- type: cites
+  target: pt:dre:464427:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:20Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +100,9 @@ Ora, nas regras de transição dos actuais funcionários e agentes não foi salv
 
 Assim, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 54.º e 62.º do [Decreto Regulamentar Regional n.º 41/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1980-464427), de 8 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 54.º e 62.º do [Decreto Regulamentar Regional n.º 41/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1980-464427), de 8 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 54.º - 1 - O ingresso dos actuais funcionários e agentes que prestam serviço nas tesourarias da Região no quadro criado pelo presente diploma far-se-á de acordo com as regras de transição constantes do artigo seguinte.
+Art. 54.º - 1 - O ingresso dos actuais funcionários e agentes que prestam serviço nas tesourarias da Região no quadro criado pelo presente diploma far-se-á de acordo com as regras de transição constantes do artigo seguinte.
 
 2 - Quando da aplicação das disposições referidas no número anterior resultarem excedentes de pessoal, em cada categoria, relativamente ao número de lugares previstos no mapa anexo a este diploma, considerar-se-á o quadro geral de pessoal das tesourarias da Região transitoriamente alterado em conformidade.
 
@@ -103,14 +110,14 @@ Assim, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea 
 
 4 - Os funcionários que forem integrados no quadro criado pelo presente diploma sem as habilitações literárias exigidas por lei não poderão progredir nas respectivas carreiras enquanto as não adquirirem.
 
-###### Art. 62.º O presente diploma produz efeitos, quanto a vencimentos, a partir do dia 1 de Janeiro de 1980.
+Art. 62.º O presente diploma produz efeitos, quanto a vencimentos, a partir do dia 1 de Janeiro de 1980.
 
 Aprovado pelo Governo Regional em 19 de Dezembro de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Janeiro de 1981.**
+Assinado em Angra do Heroísmo em 16 de Janeiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

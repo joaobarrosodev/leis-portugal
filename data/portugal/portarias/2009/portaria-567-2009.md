@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/567/2009/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/567-2009-494201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b0f939128520749a10175087d37f3d190b5cc118bffff8c6b5a4ade2e731c5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0debc5141cfa43edc7e0a212d7858f6fc5c65c918ffc10a2dead45dec26f88cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,12 +69,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Atribuição de Frequências
-- Serviço Postal
-- Radiocomunicações
-- Comunicações Eletrónicas
 - Comunicação por Satélite
+- Comunicações Eletrónicas
 - Instituto das Comunicações de Portugal
 - Radioamador
+- Radiocomunicações
+- Serviço Postal
 - Serviços de Radiocomunicações
 - TAXA de Utilização
 relationships:
@@ -82,6 +82,24 @@ relationships:
   target: pt:dre:244541:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:472104:por
+  label: "Dada nova redacção ao nº 1º e substituído o anexo III da Port 1473-B/2008 de 17-Dez, alterada pelo presente diploma,\
+    \ pela PORT.291-A/2011.04.11.2011.MEE, DR.IS [212-Supl] de 04.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-a-2011-472104
+  date: '2011-11-04'
+- type: amended_by
+  target: pt:dre:244541:por
+  label: "Alterados o art. 1.º e os anexos III, V e VIII da Port 296-A/2013 de 02-10, na redação do presente diploma, pela\
+    \ PORT.296-A/2013.02.10.2013.MECO, DR.IS [190-Supl] de 02.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-a-2013-244541
+  date: '2013-10-02'
+- type: amended_by
+  target: pt:dre:106982549:por
+  label: Alterados o n.º 1.1, os n,ºs 1.2.1, 1.2.2 e 1.2.3 e os n.ºs 1.4.1 e 1.4.2 do anexo IV da Port 1473-B/2008, de 17-dez,
+    na redação do presente diploma, pelo(a) Portaria n.º 157/2017 - Diário da República n.º 90/2017, Série I de 2017-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-2017-106982549
+  date: '2017-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/151-a/2000/07/20/p/dre
   label: null
@@ -110,16 +128,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1473-b/2008/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1473-b/2008/12/17/p/dre
+- type: cites
+  target: pt:dre:181853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:01Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +226,7 @@ O disposto no anexo iii da [Portaria n.º 1473-B/2008](https://diariodarepublica
 
 3 - Sem prejuízo de eventuais alterações do Plano Nacional de Numeração, a distribuição dos diversos tipos de taxas aplicáveis à utilização de diferentes tipos de números/serviços, o respectivo valor e código ficam definidos pela seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/10200/0331903321.pdf))](https://files.diariodarepublica.pt/1s/2009/05/10200/0331903321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/10200/0331903321.pdf)
 
 4 - ...
 
@@ -198,7 +244,7 @@ Taxas dos Serviços de Amador e de Amador por Satélite (n.os 1 e 4 do artigo 19
 
 1 - As taxas a cobrar são fixadas nos seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/10200/0331903321.pdf))](https://files.diariodarepublica.pt/1s/2009/05/10200/0331903321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/10200/0331903321.pdf)
 
 2 - A taxa anual de utilização do espectro para os titulares de CAN é objecto das seguintes reduções:
 
@@ -218,7 +264,7 @@ Taxas de acesso e exercício da actividade de prestador de serviços de áudio-t
 
 1 - As taxas a cobrar pelo ICP - Autoridade Nacional de Comunicações (ICP-ANACOM), nos termos e ao abrigo do n.os 1 e 2 do artigo 11.º do [Decreto-Lei n.º 177/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1999-321675), de 21 de Maio, alterado pela [Lei n.º 95/2001](https://diariodarepublica.pt/dr/detalhe/lei/95-2001-516041), de 20 de Agosto, e pelo [Decreto-Lei n.º 63/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2009-604820), de 10 de Março, que regula o regime de acesso e de exercício da actividade de prestador de serviços de áudio-texto e de valor acrescentado baseados no envio de mensagem, são fixadas nos seguintes montantes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/10200/0331903321.pdf))](https://files.diariodarepublica.pt/1s/2009/05/10200/0331903321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/10200/0331903321.pdf)
 
 2 - A taxa anual devida pelo exercício da actividade de prestador de serviços de áudio-texto e de valor acrescentado baseados no envio de mensagem é liquidada no mês de Julho de cada ano civil.
 
@@ -230,4 +276,4 @@ Taxas de acesso e exercício da actividade de prestador de serviços de áudio-t
 
 2 - As taxas previstas no anexo v produzem efeitos a partir da data de entrada em vigor do [Decreto-Lei n.º 53/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2009-604653), de 2 de Março.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 18 de Maio de 2009.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 18 de Maio de 2009.

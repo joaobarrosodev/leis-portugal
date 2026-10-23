@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/25/2009/12/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2009-482136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 529ebf8f9e786e2087609ef304de3052d639fd84520c17d88a058f75dbcbd4b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68fbc7d40fb0a69a48dd5f65d80ab52ddd6521688cd8026c2b3e65f6c8e95f78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,41 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Local
+- Administração Pública
 - Admissão de Pessoal
 - Alienação de Participação Social
+- Autarquia Local
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
-- Formação Profissional
-- Finanças Locais
+- Benefícios Fiscais
+- Cobrança de Dívidas
+- Contribuições e Impostos
 - Deslocação ao Estrangeiro
 - Deslocação em Serviço
 - Despesas Públicas
 - Empréstimo
-- União Europeia
-- Administração Pública
-- Projeto de Investimento
+- Finanças Locais
+- Financiamento
+- Formação Profissional
+- Gestão de Recursos Humanos
 - Gestão do Património
 - Gestão Orçamental
-- Pagamento
-- Contribuições e Impostos
+- Mobilidade de Pessoal
 - Operações de Tesouraria
 - Orçamento Regional
-- Cobrança de Dívidas
-- Administração Local
+- Pagamento
+- Projeto de Investimento
 - Regime Fiscal
-- Mobilidade de Pessoal
-- Benefícios Fiscais
 - Serviço Regional de Saúde
-- Gestão de Recursos Humanos
-- Açores
 - Transferência de Verbas
-- Autarquia Local
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:114440373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260390:por
+  label: "Dada nova redação ao art. 4º do DLR 2/99/A de 20-jan, com as alterações constantes do presente diploma, pelo DLR.2/2013/A.22.04.2013.AL-RAA,\
+    \ DR.IS [78] de 22.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2013-260390
+  date: '2013-04-22'
+- type: amended_by
+  target: pt:dre:570685:por
+  label: "Dada nova redação aos arts. 4.º do DLR 2/99/A de 20-jan, alterado pelo presente diploma, pelo DLR.2/2014/A.29.01.2014.AL-RAA,\
+    \ DR.IS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2014-570685
+  date: '2014-01-29'
+- type: amended_by
+  target: pt:dre:67377973:por
+  label: Alterado o art. 4.º do DLR n.º 2/99/A de 20-jan na versão republicada pelo DLR 42/2008/A de 07-out e na redação do
+    presente diploma, pelo(a) Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2015-67377973
+  date: '2015-06-03'
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Alterado o art. 4.º do DLR 2/99/A, de 20-jan, na redação do presente diploma pelo(a) Decreto Legislativo Regional
+    n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -140,16 +164,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/40/2003/11/06/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/40/2003/11/06/a/dre
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587626:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146215:por
+  label: "Revogado, a partir de 30.12.2011, o DLR 40/2008/A, de 25-Ago, na redacção do presente diploma, pelo DLR.29/2011/A.16.11.2011.AL-RAA,\
+    \ DR.IS [220] de 16.11.2011 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2011-146215
+  date: '2011-11-16'
 article_structure:
   article_count: 34
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:03Z'
   warnings: []
   errors: []
 ---
@@ -442,11 +524,11 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro 
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 26 de Novembro de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 10 de Dezembro de 2009.**
+Assinado em Angra do Heroísmo em 10 de Dezembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -454,52 +536,52 @@ MAPA I
 
 Receita da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
 
 MAPA II
 
 Despesas da Região especificadas segundo a classificação orgânica, por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
 
 MAPA III
 
 Despesas da Região especificadas segundo a classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
 
 MAPA IV
 
 Despesas da Região especificadas segundo a classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
 
 MAPA V
 
 Receitas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
 
 MAPA VI
 
 Despesas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
 
 MAPA VII
 
 Despesas globais dos fundos e serviços autónomos especificadas segundo a classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
 
 MAPA VIII
 
 Despesas globais dos fundos e serviços autónomos especificadas segundo a classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
 
 MAPA IX
 
 Despesas de Investimento da Administração Pública Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25100/0878008809.pdf)

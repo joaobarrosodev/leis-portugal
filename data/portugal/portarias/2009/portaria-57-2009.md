@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/57/2009/01/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/57-2009-602746
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f59c901fdb4f363f08e3fabaca52529a9d1277a8cb6665cc962f6f21e386131
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97e1aaf8e8cc2697397fe016e2b4356c53722eb7418741c808aef01576d31eef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,38 +68,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Formação Profissional
-- Plano de Estudos
 - Curso de Cozinha Pastelaria
 - Curso de Formação
 - Diploma
+- Ensino Técnico
 - Escola de Hotelaria e Turismo
 - Escola Profissional
-- Sistema Nacional de Qualificações
-- Ensino Técnico
-- Instituto do Turismo de Portugal
 - Estabelecimento de Ensino
+- Formação Profissional
+- Instituto do Turismo de Portugal
+- Plano de Estudos
 - Qualificação Profissional
+- Sistema Nacional de Qualificações
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:483128:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483128:por
+  label: "Alterados o nº2 do art. 10º e o nº2 do art. 13º pela PORT.1361/2009.27.10.2009.MEI, DR.IS [208] de 27.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1361-2009-483128
+  date: '2009-10-27'
 - type: cites
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: repealed_by
+  target: pt:dre:132431979:por
+  label: Revogada, a partir de 25.04.2020, o presente diploma pelo(a) Portaria n.º 102/2020 - Diário da República n.º 81/2020,
+    Série I de 2020-04-24, de acordo com a calendarização da produção de efeitos constante do seu art. 43.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/102-2020-132431979
+  date: '2020-04-24'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:02Z'
   warnings: []
   errors: []
 ---
@@ -258,7 +269,7 @@ iii) Curso de operações turísticas e hoteleiras - recepcionista de hotel, té
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir do início do ano lectivo de 2008-2009.
 
-**O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade, em 23 de Dezembro de 2008. - O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 6 de Janeiro de 2009. - O Secretário de Estado da Educação, Valter Victorino Lemos, em 5 de Janeiro de 2009.**
+O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade, em 23 de Dezembro de 2008. - O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 6 de Janeiro de 2009. - O Secretário de Estado da Educação, Valter Victorino Lemos, em 5 de Janeiro de 2009.
 
 ## ANEXO — Plano curricular do curso de técnicas de cozinha/pastelaria
 
@@ -266,39 +277,39 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e prod
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 1.º estágio curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 2.º ano
 
 3.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 4.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 2.º estágio curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 3.º ano
 
 5.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 6.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 Plano curricular do curso de técnicas de serviço de restauração e bebidas
 
@@ -306,39 +317,39 @@ Plano curricular do curso de técnicas de serviço de restauração e bebidas
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 1.º estágio curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 2.º ano
 
 3.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 4.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 2.º estágio curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 3.º ano
 
 5.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 6.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 Plano curricular do curso de operações turísticas e hoteleiras
 
@@ -346,36 +357,36 @@ Plano curricular do curso de operações turísticas e hoteleiras
 
 1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 1.º estágio curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 2.º ano
 
 3.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 4.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 2.º estágio curricular
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 3.º ano
 
 5.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
 
 6.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01400/0045700468.pdf)

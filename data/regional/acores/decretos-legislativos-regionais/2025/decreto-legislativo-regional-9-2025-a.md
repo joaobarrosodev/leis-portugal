@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03000/0006100066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2025/02/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2025-907097151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f21762b630098dc04acd112453c957f2068b74445755858b4a5577f0eb25f27
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f15de038b64b097cf0577c9d6ff81d31256574e7bcfb0415d44a5ce6fcdf913
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Qualidade do AR
+- Açores
+- Certificação Energética dos Edifícios
 - Certificação Profissional
 - Contra-ordenação
 - Definição de Competências
-- Sistema de Certificação Energética
-- Especificação Técnica
-- Certificação Energética dos Edifícios
-- Habitação
-- Açores
 - Eficiência Energética
+- Especificação Técnica
+- Habitação
 - Portal SCE
+- Qualidade do AR
+- Sistema de Certificação Energética
 relationships:
 - type: cites
   target: celex:32010L0031
@@ -118,6 +118,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174614573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66426484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73399498:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:4/2016/A
+  label: Revoga, a partir de 14 de março de 2025, nos termos do artigo 11.º, o Decreto Legislativo Regional n.º 4/2016/A,
+    de 2 de fevereiro, Diário da República n.º 22/2016, Série I
+  source: null
+  date: '2016-02-02'
 - type: transposes
   target: celex:32018L0844
   label: null
@@ -129,13 +159,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:25Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +234,7 @@ e) Câmaras municipais competentes em razão do território e respetivas entidad
 
 2 - Em casos excecionais e devidamente fundamentados, pode ser determinada a isenção de edifícios não abrangidos pelo número anterior, desde que a isenção seja determinada por necessidades de reabilitação urbana e desde que aprovada em resolução do Conselho do Governo Regional.
 
-3 - Estão isentos do cumprimento dos requisitos previstos no n.º 9 do artigo 6.º do [Decreto-Lei n.º 101-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), de 7 de dezembro, na sua redação atual, bem como do cumprimento da obrigação de certificação energética prevista no n.º 1 do artigo 18.º do mesmo diploma, os edifícios autónomos com área útil de pavimento igual ou inferior a 50 m<sup>2</sup>.
+3 - Estão isentos do cumprimento dos requisitos previstos no n.º 9 do artigo 6.º do [Decreto-Lei n.º 101-D/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-d-2020-150570704), de 7 de dezembro, na sua redação atual, bem como do cumprimento da obrigação de certificação energética prevista no n.º 1 do artigo 18.º do mesmo diploma, os edifícios autónomos com área útil de pavimento igual ou inferior a 50 m2.
 
 ###### Artigo 5.º — Eletromobilidade
 
@@ -290,10 +320,12 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de janeiro de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 10 de fevereiro de 2025.**
+Assinado em Angra do Heroísmo em 10 de fevereiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+118676247

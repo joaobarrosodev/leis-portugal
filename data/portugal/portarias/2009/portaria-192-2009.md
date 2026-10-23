@@ -3,9 +3,10 @@ schema_version: '1.0'
 id: pt:dre:602053:por
 title: Portaria n.º 192/2009
 short_title: null
-summary: Altera a Portaria n.º 1447/2008, de 15 de Dezembro, que estabelece, para o continente, as modalidades e condições
-  de atribuição de apoios no âmbito da acção específica temporária, prevista no Regulamento (CE) n.º 744/2008 , do Conselho,
-  de 24 de Julho, destinada a promover a reestruturação das frotas de pesca afectadas pela crise económica
+summary: 'Altera a Portaria n.º 1447/2008, de 15 de Dezembro, que estabelece, para o continente, as modalidades e condições
+  de atribuição de apoios no âmbito da acção específica temporária, prevista no Regulamento (CE) n.º 744/2008
+
+  , do Conselho, de 24 de Julho, destinada a promover a reestruturação das frotas de pesca afectadas pela crise económica'
 jurisdiction: portugal
 territory: null
 document_type: portaria
@@ -48,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/192/2009/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-2009-602053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f55365790f4881a82d0e383222501a142a19c6e902da4c87ebcd8505830b23f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5dbe26ef1391e4f94e4b1ceffa6537f6d503ffc51e89b5f4ceaf5183e52f553
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +69,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pescador
-- Mudança Tecnológica
-- Direcção Regional de Agricultura e Pescas
 - Cessação de Actividade
-- Frota de Pesca
-- Pesca
-- Projeto de Investimento
-- Prazo
-- Regulamento CE
+- Direcção Regional de Agricultura e Pescas
 - Embarcação de Pesca
+- Financiamento
+- Frota de Pesca
+- Mudança Tecnológica
+- Pesca
+- Pescador
+- Prazo
+- Projeto de Investimento
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:614280:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614280:por
+  label: "Alterado o art. 5.º da Port 1447/2008, de 15-Dez, na redacção do presente diploma, pela PORT.239/2010.29.04.2010.MADRP,\
+    \ DR.IS [83] de 29.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-2010-614280
+  date: '2010-04-29'
 - type: cites
   target: celex:32008R0744
   label: null
@@ -95,13 +102,13 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:42Z'
   warnings: []
   errors: []
 ---
@@ -238,4 +245,4 @@ Na eventualidade de não serem constituídos PAF, as candidaturas apresentadas a
 
 A presente portaria entra em vigor no dia seguinte à sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 12 de Fevereiro de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 12 de Fevereiro de 2009.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 33/2000, 1º Suplemento, Série I-A de 2000-02-09
   number: '33'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 496-(2) a 496-(61)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4-a/2000/02/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2000-397938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 249f7240ebe852612dd61cc0d4cfbf4daebb9e8349a3d2539bacb1c1d24eeb70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 893cc38df5e6ae1cb5dbcdd691ed29e9041560ebe2383ab4190f7bd9284a64cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,53 +70,59 @@ subjects:
 - Alienação de Participação Social
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
+- Autarquia Local
 - Autonomia Administrativa
 - Autonomia Financeira
-- Financiamento
 - AVAL do Estado
 - Centro Hospitalar do Funchal
 - Centro Regional de Saúde
-- Gestão Financeira
-- Venezuela
 - Comunidades Portuguesas
-- Finanças Locais
-- Governo Regional
 - Contrato Programa
 - Cooperação Financeira
 - Definição de Competências
 - Despesas Públicas
 - Dívida Pública
 - Dívidas das Autarquias Locais
-- Empresa de Electricidade da Madeira
 - Empreitada de Obras Públicas
+- Empresa de Electricidade da Madeira
 - Empresa Participada
 - Empresa Regional
-- Política de Saúde
+- Ensino Básico
+- Estabelecimento de Ensino
 - Execução do Orçamento
+- Finanças Locais
+- Financiamento
+- Gestão Financeira
 - Gestão Orçamental
+- Governo Regional
+- Iga-investimentos e Gestão da ÁGUA
 - Instituto de Desenvolvimento Empresarial
 - Locação Financeira
-- Secretário Regional do Plano e da Coordenação
+- Madeira.região Autónoma
 - Operações de Tesouraria
 - Orçamento Regional
 - Organismo Autónomo
 - Planeamento Regional
 - Plano de Desenvolvimento Regional
-- Estabelecimento de Ensino
-- Ensino Básico
-- Madeira.região Autónoma
+- Política de Saúde
 - Receita Pública
-- Iga-investimentos e Gestão da ÁGUA
+- Secretário Regional do Plano e da Coordenação
 - Subsídio
 - Subsídio de Fixação
 - Subsídio de Penosidade e Risco
-- Autarquia Local
 - Venda de Imóveis
+- Venezuela
 relationships:
 - type: amended_by
   target: pt:dre:241798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661518:por
+  label: "Declara, com força obrigatória geral, a ilegalidade da norma contida no art 6.º do presente diploma, pelo AC.532/2000.2000.12.06.TCS\
+    \ DR.IS-A [297] DE 27/DEZ/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/532-2000-661518
+  date: '2000-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/71/1995/04/15/p/dre
   label: null
@@ -153,16 +159,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
+- type: cites
+  target: pt:dre:152936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484577:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:241798:por
+  label: "Rectificado pela DECL-RECT.6-E/2000.2000.05.31.PCM,DR.IS-A [126]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-e-2000-241798
+  date: '2000-05-31'
 article_structure:
   article_count: 37
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:52Z'
   warnings: []
   errors: []
 ---
@@ -433,11 +484,11 @@ O presente diploma entra em vigor na data da sua publicação, integrando o Orç
 
 Aprovado em Sessão Plenária da Assembleia Legislativa Regional, em 18 de Janeiro de 2000.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 9 de Fevereiro de 2000.**
+Assinado em 9 de Fevereiro de 2000.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA I
 
@@ -445,7 +496,7 @@ Receitas da Região
 
 [artigo 1.º, alínea a)]
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
+[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
 
 MAPA II
 
@@ -453,7 +504,7 @@ Despesas por departamentos regionais e capítulos
 
 [artigo 1.º, alínea a)]
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
+[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
 
 MAPA III
 
@@ -461,7 +512,7 @@ Despesas por classificação funcional
 
 [artigo 1.º, alínea a)]
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
+[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
 
 MAPA IV
 
@@ -469,7 +520,7 @@ Despesas por grandes agrupamentos económicos
 
 [artigo 1.º, alínea a)]
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
+[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
 
 MAPA V
 
@@ -479,7 +530,7 @@ Receita global dos serviços, institutos e fundos autónomos
 
 [artigo 1.º, alínea a)]
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
+[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
 
 MAPA VI
 
@@ -489,7 +540,7 @@ Despesa global dos serviços, institutos e fundos autónomos
 
 [artigo 1.º, alínea a)]
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
+[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
 
 MAPA VII
 
@@ -497,7 +548,7 @@ Despesas dos serviços, institutos e fundos autónomos por classificação funci
 
 [artigo 1.º, alínea a)]
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
+[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
 
 MAPA VIII
 
@@ -505,13 +556,13 @@ Despesas dos serviços, institutos e fundos autónomos por grandes agrupamentos 
 
 [artigo 1.º, alínea a)]
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
+[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
 
 MAPA IX
 
 Programas e projectos plurianuais
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
+[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
 
 MAPA XI
 
@@ -519,4 +570,4 @@ Finanças locais
 
 (artigo 2.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)
+[[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)](https://files.diariodarepublica.pt/1s/2000/02/033a01/00020061.pdf)

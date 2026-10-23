@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/05/125b00/30893101.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/1999/05/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1999-316721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a01eef69bf4a25a5c4d23807001964f55cebe0e43ae8e416dd2aef4b55ebc6c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a470d9a889b4e50cdd68e1138dfc014b7dbadebb6eb89a4ffd21bd9a79164970
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Governo Regional
+- Açores
 - Definição de Competências
 - Direcção Regional de Organização e Administração Pública
-- Recrutamento de Pessoal
+- Governo Regional
 - Inspecção Administrativa Regional
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime de Pessoal
 - Secretário Regional Adjunto da Presidência
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:280557:por
@@ -102,16 +102,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/1998/04/29/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/1998/04/29/a/dre
+- type: cites
+  target: pt:dre:176516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280557:por
+  label: "Revogado pelo DRR.16/2004/A.14.05.2004.PG-RAA, DR.IS-B [131] de 04.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2004-280557
+  date: '2004-05-14'
 article_structure:
-  article_count: 48
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 37
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:11Z'
   warnings: []
   errors: []
 ---
@@ -154,7 +195,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 3.º — Serviços
+Artigo 3.º
+
+Serviços
 
 1 - Na dependência do Secretário Regional Adjunto da Presidência funcionam os seguintes serviços:
 
@@ -176,7 +219,9 @@ Inspecção Administrativa Regional (IAR).
 
 2 - ...
 
-###### Artigo 4.º — Centro de Informática
+Artigo 4.º
+
+Centro de Informática
 
 1 - Ao CI compete:
 
@@ -198,7 +243,9 @@ h) No âmbito das respectivas competências, prestar às autarquias locais o apo
 
 2 - O CI é dirigido por um chefe de divisão.
 
-###### Artigo 8.º — Sector de Administração, ADSE, Passaportes e Licenças
+Artigo 8.º
+
+Sector de Administração, ADSE, Passaportes e Licenças
 
 1 - O SAAPL assegura toda a actividade administrativa, bem como todo o expediente respeitante à ADSE, à emissão de passaportes e licenças e à execução do Regulamento Policial da Região Autónoma dos Açores.
 
@@ -220,7 +267,9 @@ b) Delegação do SAAPL em Ponta Delgada.
 
 5 - As delegações do SAAPL são coordenadas por um subcoordenador.
 
-###### Artigo 11.º — Delegações do SAAPL na Horta e em Ponta Delgada
+Artigo 11.º
+
+Delegações do SAAPL na Horta e em Ponta Delgada
 
 Compete às delegações do SAAPL:
 
@@ -236,37 +285,51 @@ e) Proceder ao serviço de inventário e economato;
 
 f) Apoiar a realização de actividades de outros serviços dependentes do Secretário Regional efectuadas nas ilhas onde se encontram sediadas.
 
-###### Artigo 24.º — Coordenador do SAAPL
+Artigo 24.º
+
+Coordenador do SAAPL
 
 1 - O cargo de coordenador do SAAPL é exercido em comissão de serviço, por um período de três anos, renovável, efectuando-se o respectivo recrutamento de entre funcionários integrados na carreira técnica superior, com a categoria de 1.ª classe, ou de entre chefes de repartição posicionados no 1.º escalão ou superior.
 
 2 - À nomeação deste pessoal aplicam-se as regras previstas nos n.os 1, 2, 3 e 5 do artigo 5.º, nos artigos 7.º, 9.º e 10.º e no n.º 1 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, e alterações subsequentes, adaptado à Região pelo [Decreto Legislativo Regional n.º 1/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1990-333550), de 15 de Janeiro.
 
-###### Artigo 26.º — Pessoal de informática
+Artigo 26.º
+
+Pessoal de informática
 
 As regras de ingresso e acesso do pessoal de informática são as estabelecidas no [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 10 de Janeiro, alterado pelo [Decreto-Lei n.º 177/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1995-484987), de 26 de Julho.
 
-###### Artigo 28.º — Operador de meios áudio-visuais
+Artigo 28.º
+
+Operador de meios áudio-visuais
 
 Os requisitos para ingresso na carreira de operador de meios áudio-visuais são os constantes da alínea d) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
 
-###### Artigo 29.º — Técnico profissional de formação
+Artigo 29.º
+
+Técnico profissional de formação
 
 Os requisitos para ingresso na carreira de técnico profissional de formação são os constantes da alínea d) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
 
-###### Artigo 30.º — Técnico profissional de cooperação financeira
+Artigo 30.º
+
+Técnico profissional de cooperação financeira
 
 1 - Os requisitos para ingresso na carreira de técnico profissional de cooperação financeira são os constantes da alínea d) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
 
 2 - ...
 
-###### Artigo 31.º — Subcoordenador
+Artigo 31.º
+
+Subcoordenador
 
 1 - É alterado o desenvolvimento indiciário da categoria de subcoordenador da ADSE, nos termos da alínea f) constante do anexo II ao presente diploma.
 
 2 - A transição para a nova escala salarial far-se-á, com as necessárias adaptações, de acordo com as regras consagradas no [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
 
-###### Artigo 32.º — Transição
+Artigo 32.º
+
+Transição
 
 1 - A transição do pessoal do quadro dos serviços do Secretário Regional Adjunto da Presidência far-se-á automática e independentemente de quaisquer formalidades.
 
@@ -282,7 +345,7 @@ O quadro de pessoal constante do mapa I anexo ao [Decreto Regulamentar Regional 
 
 Quadro de pessoal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/05/125b00/30893101.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/05/125b00/30893101.pdf)](https://files.diariodarepublica.pt/1s/1999/05/125b00/30893101.pdf)
 
 ###### Artigo 4.º
 
@@ -290,13 +353,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 15 de Março de 1999.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 10 de Maio de 1999.**
+Assinado em Angra do Heroísmo em 10 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO I — Versão integral
 
@@ -306,7 +369,7 @@ ORGÂNICA DOS SERVIÇOS DEPENDENTES DO SECRETÁRIO REGIONAL ADJUNTO DA PRESIDÊN
 
 ###### Artigo 1.º — Natureza
 
-**O Secretário Regional Adjunto da Presidência é o membro do Governo que, através dos respectivos serviços, propõe e executa as políticas do Governo Regional nas seguintes matérias:**
+O Secretário Regional Adjunto da Presidência é o membro do Governo que, através dos respectivos serviços, propõe e executa as políticas do Governo Regional nas seguintes matérias:
 
 a) Assuntos parlamentares;
 
@@ -438,7 +501,9 @@ b) Delegação do SAAPL em Ponta Delgada.
 
 5 - As delegações do SAAPL são coordenadas por um subcoordenador.
 
-###### Artigo 7.º — Secção de Apoio Administrativo
+###### Artigo 7.º
+
+#### Secção de Apoio Administrativo
 
 Compete à SAA:
 
@@ -460,11 +525,15 @@ h) Gerir o parque automóvel;
 
 i) Zelar pela segurança e conservação do património.
 
-###### Artigo 8.º — Secção de ADSE
+###### Artigo 8.º
+
+#### Secção de ADSE
 
 Compete à SADSE assegurar todo o expediente respeitante à ADSE na Região, bem como estudar e propor medidas de melhoramento sobre a matéria.
 
-###### Artigo 9.º — Secção de Passaportes e Licenças
+###### Artigo 9.º
+
+#### Secção de Passaportes e Licenças
 
 Compete à SPL:
 
@@ -560,7 +629,9 @@ b) Centro de Formação da Administração Pública dos Açores (CEFAPA);
 
 c) Divisão de Estruturas e Modernização (DEM).
 
-###### Artigo 14.º — Divisão da Função Pública
+###### Artigo 14.º
+
+##### Divisão da Função Pública
 
 Compete à DFP:
 
@@ -596,7 +667,9 @@ e) Gerir as instalações e equipamento destinados à formação, assim como o l
 
 3 - O CEFAPA é dirigido por um chefe de divisão.
 
-###### Artigo 16.º — Divisão de Estruturas e Modernização
+###### Artigo 16.º
+
+##### Divisão de Estruturas e Modernização
 
 Compete à DEM:
 
@@ -640,7 +713,9 @@ b) Divisão de Finanças e Planeamento Municipal (DFPM);
 
 c) Divisão dos Assuntos Jurídicos e Eleitorais (DAJE).
 
-###### Artigo 18.º — Divisão de Cooperação ao Investimento Municipal
+###### Artigo 18.º
+
+##### Divisão de Cooperação ao Investimento Municipal
 
 Compete à DCIM:
 
@@ -652,7 +727,9 @@ c) Estudar e propor critérios, áreas e formas de colaboração e cooperação 
 
 d) Analisar e seleccionar as propostas de candidatura de projectos municipais à cooperação financeira, acompanhar a execução física e financeira dos empreendimentos e efectuar os respectivos processamentos de verbas.
 
-###### Artigo 19.º — Divisão de Finanças e Planeamento Municipal
+###### Artigo 19.º
+
+##### Divisão de Finanças e Planeamento Municipal
 
 À DFPM compete:
 
@@ -678,7 +755,9 @@ j) Acompanhar o processo de abertura e utilização de linhas de crédito para f
 
 l) Promover a execução de outros programas e projectos com interesse para a gestão e planeamento municipais.
 
-###### Artigo 20.º — Divisão dos Assuntos Jurídicos e Eleitorais
+###### Artigo 20.º
+
+##### Divisão dos Assuntos Jurídicos e Eleitorais
 
 Compete à DAJE:
 
@@ -786,4 +865,4 @@ Os requisitos para ingresso na carreira de técnico profissional de formação s
 
 ## ANEXO II — Quadro de pessoal
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/05/125b00/30893101.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/05/125b00/30893101.pdf)](https://files.diariodarepublica.pt/1s/1999/05/125b00/30893101.pdf)

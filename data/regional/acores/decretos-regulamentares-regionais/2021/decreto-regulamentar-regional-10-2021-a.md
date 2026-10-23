@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11900/0000600057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2021/06/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2021-165605188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7051d1581101484ade444e356bfbe25fb3e9e15ad4620139efb13d6a87ab2540
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a7259c656f801a2364c9468221edb8ba296008131178f34aae9da27660f7922
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Governo Regional
+- Açores
 - Conselho Regional de Obras Públicas
 - Definição de Competências
-- Serviços de Viação
+- Direção Regional das Comunicações
 - Direcção Regional de Obras Públicas e Transportes Terrestres
-- Secretaria Regional da Ciência Tecnologia e Equipamentos
 - Fundo Regional de Transportes Terrestres
 - Fundo Regional dos Transportes
-- Quadro Regional de ILHA
+- Governo Regional
 - Laboratório Regional de Engenharia Civil
 - Orgânica
 - Período Experimental
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Quadro Regional de ILHA
+- Secretaria Regional da Ciência Tecnologia e Equipamentos
+- Secretaria Regional das Obras Públicas e Comunicações
+- Secretário Regional das Obras Públicas e Comunicações
 - Serviços de ILHA
+- Serviços de Viação
 - Serviços Periféricos
-- Açores
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência Patrimonial
-- Secretário Regional das Obras Públicas e Comunicações
-- Secretaria Regional das Obras Públicas e Comunicações
-- Direção Regional das Comunicações
 relationships:
 - type: amended_by
   target: pt:dre:207417313:por
@@ -118,16 +118,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/4/2011/01/31/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/4/2011/01/31/a/dre
+- type: cites
+  target: pt:dre:150757510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:200634455:por
+  label: Revogadas a partir de 06.09.2022, as normas constantes do presente diploma que colidam com as competências do Secretário
+    Regional do Turismo, Mobilidade e Infraestruturas, atribuídas pelo pelo(a) Decreto Regulamentar Regional n.º 15/2022/A
+    - Diário da República n.º 171/2022, Série I de 2022-09-05, em matéria de obras públicas, nos termos do disposto no seu
+    art. 9.º; e determinado, nos termos do disposto no art. 8.º, a transferência dos direitos, obrigações e competências dos
+    serviços, objeto do referido DRR 15/2022/A, para os serviços que ora os passam a integrar, em razão da matéria, sem dependência
+    de quaisquer formalidades, bem como a transferência dos arquivos, acervos documentais, programas informáticos, bases de
+    dados e outros suportes digitais que lhes digam respeito.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2022-200634455
+  date: '2022-09-05'
+- type: repealed_by
+  target: pt:dre:207417313:por
+  label: Revogadas a partir de 15.02.2023, as normas constantes do presente diploma, que colidam com as competências do Presidente
+    do Governo Regional, atribuídas, em matérias de comunicações, pelo(a) Decreto Regulamentar Regional n.º 4/2023/A - Diário
+    da República n.º 32/2023, Série I de 2023-02-14, nos termos da sua al. c) do art. 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2023-207417313
+  date: '2023-02-14'
 article_structure:
   article_count: 69
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:40Z'
   warnings: []
   errors: []
 ---
@@ -222,11 +264,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de abril de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 9 de junho de 2021.**
+Assinado em Angra do Heroísmo em 9 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -504,7 +546,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DSCPAJ compreende a Divisão dos Assuntos Jurídicos e a Divisão de Contratação Pública.
 
-###### Artigo 11.º — Divisão dos Assuntos Jurídicos
+###### Artigo 11.º
+
+##### Divisão dos Assuntos Jurídicos
 
 1 - À Divisão dos Assuntos Jurídicos, doravante designada por DAJ, compete:
 
@@ -540,7 +584,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - O Chefe de Divisão da DAJ exerce as funções de notário privativo.
 
-###### Artigo 12.º — Divisão de Contratação Pública
+###### Artigo 12.º
+
+##### Divisão de Contratação Pública
 
 1 - À Divisão de Contratação Pública, doravante designada por DCP, compete:
 
@@ -570,7 +616,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DCP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 13.º — Divisão de Gestão de Estudos e Projetos
+###### Artigo 13.º
+
+##### Divisão de Gestão de Estudos e Projetos
 
 1 - À Divisão de Gestão de Estudos e Projetos, doravante designada por DGEP, compete:
 
@@ -646,7 +694,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - O SPCFD compreende a Divisão de Planeamento e Controlo Financeiro e o Centro de Informação e Documentação.
 
-###### Artigo 15.º — Divisão de Planeamento e Controlo Financeiro
+###### Artigo 15.º
+
+##### Divisão de Planeamento e Controlo Financeiro
 
 1 - À Divisão de Planeamento e Controlo Financeiro, doravante designada por DPCF, compete:
 
@@ -674,7 +724,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DPCF compreende a Secção de Vencimentos, Contabilidade e Serviços Administrativos.
 
-###### Artigo 16.º — Secção de Vencimentos, Contabilidade e Serviços Administrativos
+###### Artigo 16.º
+
+#### Secção de Vencimentos, Contabilidade e Serviços Administrativos
 
 1 - À Secção de Vencimentos, Contabilidade e Serviços Administrativos, doravante designada por SVCSA, compete:
 
@@ -790,7 +842,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - O SGRH compreende a Secção de Pessoal.
 
-###### Artigo 19.º — Secção de Pessoal
+###### Artigo 19.º
+
+#### Secção de Pessoal
 
 1 - À Secção de Pessoal, doravante designada por SP, compete:
 
@@ -1038,7 +1092,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DSGFC integra a Secção de Apoio Administrativo e de Contabilidade.
 
-###### Artigo 26.º — Secção de Apoio Administrativo e de Contabilidade
+###### Artigo 26.º
+
+#### Secção de Apoio Administrativo e de Contabilidade
 
 1 - À Secção de Apoio Administrativo e de Contabilidade, doravante designada por SAAC, compete:
 
@@ -1094,7 +1150,9 @@ o) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DSEP integra a Divisão de Edifícios e Equipamentos Públicos e a Divisão de Instalações e Redes Técnicas.
 
-###### Artigo 28.º — Divisão de Edifícios e Equipamentos Públicos
+###### Artigo 28.º
+
+##### Divisão de Edifícios e Equipamentos Públicos
 
 1 - À Divisão de Edifícios e Equipamentos Públicos, doravante designada por DEEP, compete:
 
@@ -1148,7 +1206,9 @@ b) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NME é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 30.º — Divisão de Instalações e Redes Técnicas
+###### Artigo 30.º
+
+##### Divisão de Instalações e Redes Técnicas
 
 1 - À Divisão de Instalações e Redes Técnicas, doravante designada por DIRT, compete:
 
@@ -1266,7 +1326,9 @@ y) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DSEI integra a Divisão de Construção e Conservação de Estradas e a Divisão de Infraestruturas Hidráulicas e Marítimas.
 
-###### Artigo 33.º — Divisão de Construção e Conservação de Estradas
+###### Artigo 33.º
+
+##### Divisão de Construção e Conservação de Estradas
 
 1 - À Divisão de Construção e Conservação de Estradas, doravante designada por DCCE, compete:
 
@@ -1338,7 +1400,9 @@ c) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - Cada um dos SC referidos no n.º 3 do artigo anterior, é dirigido por um chefe de sector, cargo de direção específica de 2.º grau.
 
-###### Artigo 35.º — Divisão de Infraestruturas Hidráulicas e Marítimas
+###### Artigo 35.º
+
+##### Divisão de Infraestruturas Hidráulicas e Marítimas
 
 1 - À Divisão de Infraestruturas Hidráulicas e Marítimas, doravante designada por DIHM, compete:
 
@@ -1824,7 +1888,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NRC é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 49.º — Divisão de Planeamento, Acompanhamento das Entidades e Gestão da Qualidade
+###### Artigo 49.º
+
+##### Divisão de Planeamento, Acompanhamento das Entidades e Gestão da Qualidade
 
 1 - A Divisão de Planeamento, Acompanhamento das Entidades e Gestão da Qualidade, doravante designada por DPAEQ, é uma estrutura de carácter técnico e de apoio a todos os serviços da DRC.
 
@@ -1854,7 +1920,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - A DPAEQ compreende a Secção de Apoio Administrativo.
 
-###### Artigo 50.º — Secção de Apoio Administrativo
+###### Artigo 50.º
+
+#### Secção de Apoio Administrativo
 
 1 - À Secção de Apoio Administrativo, doravante designada por SAA, compete:
 
@@ -1968,7 +2036,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DSEMC é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 55.º — Divisão de Planeamento, Qualidade e Inovação
+###### Artigo 55.º
+
+##### Divisão de Planeamento, Qualidade e Inovação
 
 1 - À Divisão de Planeamento, Qualidade e Inovação, doravante designada por DPQI, compete:
 
@@ -2002,7 +2072,9 @@ m) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DPQI integra a Secção Administrativa e Financeira.
 
-###### Artigo 56.º — Secção Administrativa e Financeira
+###### Artigo 56.º
+
+#### Secção Administrativa e Financeira
 
 1 - À Secção Administrativa e Financeira, doravante designada por SAF, compete:
 
@@ -2152,4 +2224,6 @@ As condições de ingresso e acesso e o desenvolvimento indiciário das carreira
 
 ## ANEXO II — Quadro do pessoal dirigente, de direção específica e de chefia da Secretaria Regional das Obras Públicas e Comunicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11900/0000600057.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11900/0000600057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11900/0000600057.pdf)
+
+114326821

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2011/05/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2011-673446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ef75d40666f88cdf8f174066067702bc000a0b447f015af4b600b009ebc119b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae034175d362bcb1389af79f2e35b898db21ae529cf186c6b2c6228d7e7b935c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
 - Beneficiário
+- Bolsa de Estudos
 - Bolsa de Formação
 - Bolsa de Formação Profissional
-- Formação Profissional
 - Estudante
-- Pagamento
+- Financiamento
+- Formação Profissional
 - Indemnização
+- Pagamento
 - Reembolso
-- Bolsa de Estudos
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/
@@ -118,16 +118,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/23/2002/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/23/2002/01/04/p/dre
+- type: cites
+  target: pt:dre:231960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628562:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:16Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +232,7 @@ d) O prazo de candidatura.
 
 1 - O valor da bolsa é calculado em função do rendimento médio mensal per capita do agregado familiar, com base na retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores (RMMG) x 1,2, tendo em conta os seguintes escalões de rendimento:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10400/0296202965.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10400/0296202965.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10400/0296202965.pdf)
 
 2 - O valor mensal máximo da bolsa de estudos ou de formação é 50 % da RMMG em vigor na Região Autónoma dos Açores x 1,2.
 
@@ -320,10 +360,10 @@ h) [Decreto Regulamentar Regional n.º 15/2010/A](https://diariodarepublica.pt/d
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de Abril de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 16 de Maio de 2011.**
+Assinado em Angra do Heroísmo em 16 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

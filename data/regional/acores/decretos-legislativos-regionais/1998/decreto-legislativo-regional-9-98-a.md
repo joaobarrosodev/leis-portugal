@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/04/086a00/15831585.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/1998/04/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1998-167053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77c78495484e8b268f5fc9dc69bb4c5d5f2a06cdae772b573baeb1e62c689193
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33ac551ee9a68d109a04eba3406ed9f85aad657e20cb218b2502f054b0649fe4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Criação de Serviços
 - Definição de Competências
 - Instituto de Gestão Financeira da Saúde
-- Secretário Regional da Educação e Assuntos Sociais
 - Orgânica
-- Açores
+- Secretário Regional da Educação e Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:468405:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239238:por
+  label: "Alterado o art. 9.º pelo DLR.16-A/2001/A.2001.10.30.ALR-RAA DR.IS-A [253]SUPL DE 31/OUT/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-a-2001-239238
+  date: '2001-10-30'
+- type: amended_by
+  target: pt:dre:141225:por
+  label: "Alterados os n.ºs 1 e 2 do art. 5.º, pelo DLR.22/2002/A.2002.06.03.ALR-RAA DR.IS-A [148] DE 29/JUN/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2002-141225
+  date: '2002-06-03'
+- type: repealed_by
+  target: pt:dre:468405:por
+  label: Revogado, a partir de 06.12.2003, o presente diploma, com a redacção dada pelos DLR 16-A/2001 de 31-Out e 22/2002/A
+    de 29-Jun, pelo(a) Decreto Legislativo Regional n.º 41/2003/A - Diário da República n.º 257/2003, Série I-A de 2003-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/41-2003-468405
+  date: '2003-11-06'
 article_structure:
   article_count: 11
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:04Z'
   warnings: []
   errors: []
 ---
@@ -232,10 +248,10 @@ O IGFS entra em funcionamento com a entrada em vigor do decreto regulamentar reg
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 19 de Fevereiro de 1998.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
 
-**Assinado em Angra do Heroísmo em 11 de Março de 1998.**
+Assinado em Angra do Heroísmo em 11 de Março de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

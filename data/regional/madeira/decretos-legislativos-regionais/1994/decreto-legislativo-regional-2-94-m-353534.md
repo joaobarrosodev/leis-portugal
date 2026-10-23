@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 45/1994, 1º Suplemento, Série I-A de 1994-02-23
   number: '45'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 828-(2) a 828-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/02/045a01/00020005.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/1994/02/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1994-353534
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 696497fe79498dd0cf9a58178a96f9de63a82aba099f598434c0bdf481eff3d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9542d2cf2a893eb6b86a521241e3ee673c74c4b1ecaf29c2ec694a5c615f3d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Concurso
-- Pessoal Docente
 - Ensino Básico
 - Madeira.região Autónoma
+- Pessoal Docente
 - Quadro de Pessoal
 - ZONA Pedagógica
 relationships:
@@ -76,6 +76,40 @@ relationships:
   target: pt:dre:497841:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176034:por
+  label: "Alterado o mapa anexo ao presente diploma, pelo DLR.4/98/M.1998.04.02.ALR-RAM DR.IS-A [95] de 23/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-1998-176034
+  date: '1998-04-02'
+- type: amended_by
+  target: pt:dre:544776:por
+  label: "Alterados os arts. 5º e 14º na redacção dada pelos DLR 9/96/M de 01-Jul e 4/98/M de 23-Abr pelo DLR.12/99/M.1999.03.29.ALR-RAM,\
+    \ DR.IS-A [88] de 15/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-1999-544776
+  date: '1999-03-29'
+- type: amended_by
+  target: pt:dre:632385:por
+  label: "Alterados os arts. 5º e 6º pelo DLR.14-A/2001/M.2001.05.24.ALR-RAM,DR.IS-A [123]3º Supl de 28/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-a-2001-632385
+  date: '2001-05-24'
+- type: amended_by
+  target: pt:dre:468639:por
+  label: "Mantido em vigor o art. 1º do presente diploma (vigente por força do DLR 17/2003/M de 22-Jul) pelo DLR.15-A/2006/M.10.04.2006.AL-RAM,\
+    \ DR.IS-A [80-Supl] de 24.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2006-468639
+  date: '2006-04-10'
+- type: amended_by
+  target: pt:dre:494498:por
+  label: "Mantido em vigor o art. 1º do presente diploma pelo DLR.14/2009/M.08.06.2009.AL-RAM, DR.IS [110] de 08.06.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2009-494498
+  date: '2009-06-08'
+- type: amended_by
+  target: pt:dre:497841:por
+  label: "Mantido em vigor o art. 1º do presente diploma pelo DLR.25/2013/M.17.07.2013.AL-RAM, DR.IS [136] de 17.07.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-2013-497841
+  date: '2013-07-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/384/1993/11/18/p/dre
   label: null
@@ -88,16 +122,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/114/1993/02/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/114/1993/02/01/p/dre
+- type: cites
+  target: pt:dre:374778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669864:por
+  label: "Revogado, com a redacção conferida pelos DLR 4/98/M de 23-Abr, 9/96/M de 01-Jul e 12/99/M de 15-Abr, pelo DLR.17/2003/M.2003.06.30.ALR-RAM\
+    \ DR.IS-A [167] de 22/Jul/2003, com excepção do respectivo art. 1º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2003-669864
+  date: '2003-06-30'
 article_structure:
-  article_count: 20
+  article_count: 21
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:57Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +184,9 @@ Circunstâncias, portanto, que justificam a publicação de um diploma que crie 
 
 Assim, a Assembleia Legislativa Regional da Madeira, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, das alíneas c) do n.º 1 do artigo 29.º e o) do artigo 30.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, preceitos conjugados com os artigos 5.º do [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, e 27.º do estatuto aprovado por este último diploma, decreta o seguinte:
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Âmbito
 
@@ -324,14 +394,14 @@ O presente diploma produz efeitos a partir de 1 de Setembro de 1993.
 
 Aprovado em sessão plenária em 3 de Fevereiro de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 22 de Fevereiro de 1994.**
+Assinado em 22 de Fevereiro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ## ANEXO — Mapa a que se refere o n.º 1 do artigo 1.º do Decreto Legislativo Regional n.º 2/94/M, de 23 de Fevereiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/02/045a01/00020005.pdf))](https://files.diariodarepublica.pt/1s/1994/02/045a01/00020005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/02/045a01/00020005.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2006/02/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2006-676199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8ab41964be756a730f79e66ab39efca4eefdfa04033cf0876d5c2d6f4da5df7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a25a009b02baf51e2c821ec7c96a9e294dc567dc41c9de66cef6652e3947007d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ordenamento do Território
 - Plano Director Municipal
 - Política de Solos
 - Regulamento
-- Açores
 relationships:
+- type: amended_by
+  target: pt:dre:2773371:por
+  label: "Tornado público, que a Assembleia Municipal da Praia da Vitória, na sua reunião realizada no dia 10 de fevereiro\
+    \ de 2012, aprovou a proposta de alteração do art. 26º do regulamento, planta de condicionantes e planta de ordenamento\
+    \ do Plano Diretor Municipal de Praia da Vitória, ratificado parcialmente pelo presente diploma, pelo AV-EXT.13899/2012.17.10.2012.MPRAIA\
+    \ VITÓRIA, DR.IIS [2012] de 17.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/13899-2012-2773371
+  date: '2012-10-17'
 - type: cites
   target: eli:http://data.dre.p
   label: null
@@ -111,16 +119,208 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/1/2005/02/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/1/2005/02/15/a/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693458:por
+  label: null
+  source: null
 article_structure:
   article_count: 67
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:09Z'
   warnings: []
   errors: []
 ---
@@ -227,7 +427,7 @@ m) Na lista anexa ao Regulamento está incluído o incenso (Pittosporum undulatu
 
 n) As remissões feitas a outros artigos devem ser lidas de acordo com o quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/038b00/14471459.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/038b00/14471459.pdf)](https://files.diariodarepublica.pt/1s/2006/02/038b00/14471459.pdf)
 
 o) A referência feita no artigo 19.º ao «[Decreto-Lei n.º 37575](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37575-1949-265742), de 8 de Outubro de 1949» deve ser lida como «[Decreto Legislativo Regional n.º 26/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2005-583787), de 4 de Novembro».
 
@@ -283,17 +483,17 @@ O Plano Director Municipal da Praia da Vitória entra em vigor no dia seguinte a
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 15 de Dezembro de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Janeiro de 2006.**
+Assinado em Angra do Heroísmo em 25 de Janeiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO N.º 1 — REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DA PRAIA DA VITÓRIA
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Âmbito, vigência e hierarquia
 
@@ -339,7 +539,7 @@ a) Estudos e relatório de caracterização;
 
 b) Planta da situação existente.
 
-# PARTE II — Servidões administrativas e restrições de utilidade pública
+## PARTE II — Servidões administrativas e restrições de utilidade pública
 
 ### CAPÍTULO I — Conservação do património natural
 
@@ -511,7 +711,7 @@ As servidões administrativas relativas às escolas são as que constam no [Decr
 
 As redes de saneamento básico estão sujeitas a servidões administrativas e restrições de utilidade pública, definidas no [Decreto-Lei n.º 34021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34021-1944-561799), de 11 de Outubro de 1944, e no [Decreto Regulamentar n.º 23/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1995-431873), de 23 de Agosto.
 
-# PARTE III — Classes de espaços
+## PARTE III — Classes de espaços
 
 ### CAPÍTULO I — Usos do solo
 
@@ -627,7 +827,7 @@ b) No caso de habitação multifamiliar, desde que não ocupem mais de 10% da á
 
 1 - No PDM determinam-se os índices urbanísticos definidos no artigo 21.º para cada uma das categorias de espaços urbanos e urbanizáveis delimitados na planta de ordenamento e cujas condições de edificabilidade se apresentam no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/038b00/14471459.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/02/038b00/14471459.pdf)](https://files.diariodarepublica.pt/1s/2006/02/038b00/14471459.pdf)
 
 2 - Na determinação do número de pisos referida no quadro do número anterior não são consideradas as caves.
 

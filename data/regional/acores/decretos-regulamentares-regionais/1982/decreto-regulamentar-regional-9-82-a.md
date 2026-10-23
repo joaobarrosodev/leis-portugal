@@ -49,36 +49,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1982-609078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ebbc5e34100b57cdc589689bca79a5da7fcfd13718c40df8a1edd67c7811edc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 708d88663f51e4f73c2b372448e41b9c11819c81f3427be0faee6b8a57e7159e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Concurso
+- Ensino Preparatório
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:226596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:607349:por
+  label: Rectificado pelo(a) Declaração - Diário da República n.º 87/1982, Série I de 1982-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-607349
+  date: '1982-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:51Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +116,13 @@ Assim, nos termos do artigo 39.º do [Decreto-Lei n.º 581/80](https://diariodar
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Aplicam-se aos concursos para os professores provisórios ou eventuais, profissionalizados não efectivos e ao abrigo da preferência conjugal para os estabelecimentos de ensino preparatório e secundário da Região Autónoma dos Açores as disposições do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, com as adaptações constantes do presente diploma.
+Artigo 1.º - 1 - Aplicam-se aos concursos para os professores provisórios ou eventuais, profissionalizados não efectivos e ao abrigo da preferência conjugal para os estabelecimentos de ensino preparatório e secundário da Região Autónoma dos Açores as disposições do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, com as adaptações constantes do presente diploma.
 
 2 - Nos preceitos do diploma citado no número anterior que não sofram alteração deverão entender-se as referências ao director-geral de Pessoal ou à Direcção-Geral de Pessoal como aplicadas à Direcção Regional da Administração Escolar e as feitas ao Ministério da Educação e Ciência como relativas à Secretaria Regional da Educação e Cultura.
 
 3 - Todas as referências, que no mencionado diploma são feitas a todo o continente e Diário da República dever-se-ão entender como a toda a Região e Diário da República e ou Jornal Oficial.
 
-###### Art. 2.º - 1 - A colocação ao abrigo da preferência conjugal referida na alínea d) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, deverá obedecer às condições referidas nas alíneas a) a d) do n.º 1 do artigo 5.º do mesmo diploma, acrescidas das a seguir indicadas:
+Art. 2.º - 1 - A colocação ao abrigo da preferência conjugal referida na alínea d) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 581/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/581-1980-226596), de 31 de Dezembro, deverá obedecer às condições referidas nas alíneas a) a d) do n.º 1 do artigo 5.º do mesmo diploma, acrescidas das a seguir indicadas:
 
 a) Os candidatos só poderão concorrer desde que colocados em ilha diferente à da residência ou local de trabalho do cônjuge;
 
@@ -105,22 +130,22 @@ b) Os candidatos possuam, pelo menos, um ano de serviço na qualidade de profess
 
 2 - Os candidatos colocados na ilha de S. Miguel poderão ainda concorrer nos termos da alínea e) do n.º 1 do artigo 5.º do mencionado decreto-lei relativamente ao concelho de Nordeste.
 
-###### Art. 3.º - 1 - Os lugares ainda vagos após a 2.ª fase do concurso serão preenchidos na 3.ª fase, a qual será realizada pelos estabelecimentos de ensino, obtida a prévia autorização da Direcção Regional da Administração Escolar, que indicará, para cada escola, o número de vagas a preencher.
+Art. 3.º - 1 - Os lugares ainda vagos após a 2.ª fase do concurso serão preenchidos na 3.ª fase, a qual será realizada pelos estabelecimentos de ensino, obtida a prévia autorização da Direcção Regional da Administração Escolar, que indicará, para cada escola, o número de vagas a preencher.
 
 2 - As propostas para o preenchimento das vagas a que se refere o número anterior deverão recair em professores profissionalizados não efectivos e em candidatos portadores de habilitações próprias ou suficientes não colocados nas fases anteriores ou que a elas não tenham concorrido.
 
 3 - As regras de colocação na fase, bem como quem a ela pode ser opositor, e as regras de colocação de docentes em regime de contrato temporário e dos não portadores de habilitação legal serão definidas por despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 4.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura.
+Art. 4.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em 10 de Dezembro de 1981.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 9 de Março de 1982.**
+Assinado em Angra do Heroísmo em 9 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

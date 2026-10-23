@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/772/2008/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/772-2008-455424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dade3e6365432eea9c37487880d9874f1a4964629accec232505cfd164848c57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4af9b63d72c9404e09c5712573341316612ac575dc26f066aed79603dc5edc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Agência Nacional de Compras Públicas
 - Aquisição de Bens e Serviços
-- Gestão Financeira
 - Empresa Pública
 - Fiscalização
+- Gestão Financeira
 - Sistema Nacional de Compras Públicas
 - Unidade Ministerial de Compras
 relationships:
@@ -78,20 +78,35 @@ relationships:
   target: pt:dre:278197:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603768:por
+  label: "Substituída a lista anexa pela PORT.420/2009.20.04.2009.MFAP, DR.IS [76] de 20.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/420-2009-603768
+  date: '2009-04-20'
+- type: amended_by
+  target: pt:dre:278197:por
+  label: "Substituída a lista anexa, revista pela Port 420/2009 de 20-Abr, pela PORT.103/2011.14.03.2011.MFAP, DR.IS [51]\
+    \ de 14.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/103-2011-278197
+  date: '2011-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37/2007/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/37/2007/02/19/p/dre
+- type: cites
+  target: pt:dre:517987:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:23Z'
   warnings: []
   errors: []
 ---
@@ -146,8 +161,8 @@ b) Às entidades compradoras voluntárias, apenas quanto aos bens e serviços re
 
 A presente portaria entra em vigor 30 dias após a sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Julho de 2008.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 23 de Julho de 2008.
 
 LISTA ANEXA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15100/0529105293.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15100/0529105293.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15100/0529105293.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/1996/03/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1996-534457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d17f33b69b72ee664c7c7a0ff69acb880204d712cc1822341f6f7605812af5a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cddb879dc27a61145823bc5a7e02b1e19462689d7d415eed3019374574711619
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Silvicultura
+- Açores
+- Agricultura
 - Crédito à Pecuária
 - Crédito Agrícola
 - Crédito Bonificado
 - Definição de Competências
-- Pecuária
-- Agricultura
 - Ifadap
+- Pecuária
 - Secretaria Regional da Agricultura e Pescas
-- Açores
+- Silvicultura
 - TAXA de JURO
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:549393:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:41Z'
   warnings: []
   errors: []
 ---
@@ -132,10 +136,10 @@ O processamento e o pagamento das bonificações ficam a cargo do IFADAP.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 9 de Fevereiro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 27 de Fevereiro de 1996.**
+Assinado em Angra do Heroísmo em 27 de Fevereiro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

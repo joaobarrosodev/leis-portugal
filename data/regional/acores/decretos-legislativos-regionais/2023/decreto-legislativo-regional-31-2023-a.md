@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15400/0019900238.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/31/2023/08/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2023-216846234
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 599c19cb7809da4eec60581dbfe30dbffb6ee7c350971e9de52a8ffa80116d52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca9a767c1106c6ea260f5317939586b68431cfc483455b1d82e4873eb8bf6049
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Desporto
+- Açores
 - Administração Geral das Estradas e Turismo
 - Atleta de ALTA Competição
-- Financiamento
-- Turismo
+- Bolsa de Estudos
 - Comité Paraolímpico de Portugal
+- Financiamento
 - Governo Regional
 - Jovem
 - Organização Desportiva
-- Bolsa de Estudos
 - Selecção Nacional
-- Açores
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.p
@@ -119,16 +119,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/declretif/21/2014/03/31/p/dre
   label: null
   source: http://data.dre.pt/eli/declretif/21/2014/03/31/p/dre
+- type: cites
+  target: pt:dre:127816253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162753747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169780055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172212378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70179163:por
+  label: null
+  source: null
 article_structure:
-  article_count: 107
+  article_count: 97
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:04Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +227,9 @@ b) [...]
 
 8 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -191,15 +245,21 @@ b) [...]
 
 7 - [...]
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 As comparticipações financeiras para a atividade competitiva de âmbito internacional destinam-se à participação em quadros competitivos previamente acordados com a administração regional autónoma, sendo concedidas por portaria do membro do Governo Regional competente em matéria de desporto, aos clubes neles intervenientes, e determinadas de acordo com o programa de desenvolvimento desportivo apresentado.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 Os prémios de classificação, subida de divisão e manutenção são calculados a partir de um valor idêntico para todas as modalidades, definido por portaria do membro do Governo Regional competente em matéria de desporto, de acordo com os quadros competitivos e os objetivos de desenvolvimento desportivo a prosseguir.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - [...]
 
@@ -213,11 +273,15 @@ Os prémios de classificação, subida de divisão e manutenção são calculado
 
 6 - As classificações obtidas nos três primeiros lugares de provas organizadas pelas federações internacionais e resultantes das participações em campeonatos nacionais, Taças de Portugal ou provas equivalentes conferem o direito à atribuição ao clube de prémios de classificação, no montante a definir por portaria do membro do Governo Regional competente em matéria de desporto.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 Os valores dos apoios aos clubes pela utilização de atletas formados nos Açores são calculados a partir de um valor base idêntico para todas as modalidades, definido na portaria do membro do Governo Regional competente em matéria de desporto a que se refere o artigo 89.º, de acordo com os objetivos de desenvolvimento desportivo a prosseguir.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - Para além dos atletas já abrangidos pelo estatuto de alto rendimento, e de modo a promover o acesso de mais atletas ao estatuto nacional de alto rendimento, podem igualmente ser apoiados outros que, pela sua idade e demonstração de potencialidades, o justifiquem, sendo-lhes atribuída a designação genérica de jovem talento regional.
 
@@ -235,13 +299,17 @@ b) O nível B, que compreende o praticante desportivo que atinge resultados de e
 
 3 - O jovem talento regional compreende o atleta participante em quaisquer provas, das modalidades definidas como prioritárias, que integrem o programa olímpico ou paralímpico, ou respetivas provas de progressão, assim reconhecidas pelo membro do Governo Regional responsável pela área do desporto e ouvido o CADAR.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - As modalidades prioritárias para investimento na procura da excelência desportiva são definidas, para cada ciclo olímpico, por portaria do membro do Governo Regional competente em matéria de desporto, ouvido o CADAR.
 
 2 - A portaria a que se refere o número anterior define o valor base das comparticipações financeiras a conceder aos atletas em regime de alto rendimento e aos jovens talentos regionais.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - [...]
 
@@ -261,7 +329,9 @@ e) Nível B do jovem talento regional - 0,6.
 
 4 - [...]
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Às entidades participantes ou organizadoras de eventos desportivos com relevância turística pode ser concedido um apoio específico, fixado através de contrato-programa a celebrar com o departamento do Governo Regional competente em matéria de desporto.
 
@@ -271,7 +341,9 @@ e) Nível B do jovem talento regional - 0,6.
 
 4 - [...]
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - O valor base unitário dos apoios à atividade de treino e competição dos escalões de formação, dos apoios complementares, dos prémios de classificação, subida de divisão e manutenção e dos apoios à utilização de atletas formados nos Açores é fixado anualmente em junho, por portaria do membro do Governo Regional competente em matéria de desporto.
 
@@ -293,11 +365,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 13 de julho de 2023.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 4 de agosto de 2023.**
+Assinado em Angra do Heroísmo em 4 de agosto de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1515,12 +1587,14 @@ b) Os artigos 6.º ao 19.º da Portaria n.º 101/2003, de 18 de dezembro.
 
 Índices relativos aos prémios de classificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0019900238.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0019900238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0019900238.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 37.º)
 
 Prémios de classificação nos desportos individuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/08/15400/0019900238.pdf))](https://files.diariodarepublica.pt/1s/2023/08/15400/0019900238.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/08/15400/0019900238.pdf)
 
 ## ANEXO III — (Revogado.)
+
+116750625

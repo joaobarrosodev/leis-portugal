@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20400/0006800099.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2024/10/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2024-891867286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb59e5468454560a54dcf620c44d61e44a7ad010500a2105123792e0f0823570
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33fdce298b644846b84f8e139a94c1b6457c9a58e50cd5e412af1af45f2e4c74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Orgânica
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Açores
 - Secretaria Regional do Ambiente e Ação Climática
 relationships:
 - type: cites
@@ -125,16 +125,90 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:166658189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201838713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204234881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221691584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860106954:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:17/2021/A
+  label: Revoga, a partir de 22 de outubro de 2024, o Decreto Regulamentar Regional n.º 17/2021/A - Diário da República n.º
+    131/2021, Série I de 2021-07-08
+  source: null
+  date: '2021-07-08'
 article_structure:
   article_count: 44
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:00Z'
   warnings: []
   errors: []
 ---
@@ -191,11 +265,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 3 de outubro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 16 de outubro de 2024.**
+Assinado em Angra do Heroísmo em 16 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -371,7 +445,9 @@ c) Divisão de Cidadania e Educação Ambiental;
 
 d) Divisão de Gestão de Centros Ambientais.
 
-###### Artigo 9.º — Divisão Administrativa, Financeira e de Planeamento
+###### Artigo 9.º
+
+##### Divisão Administrativa, Financeira e de Planeamento
 
 1 - À Divisão Administrativa, Financeira e de Planeamento, doravante designada por DAFP, compete:
 
@@ -413,7 +489,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAFP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 10.º — Divisão de Projetos e Sistemas de Informação
+###### Artigo 10.º
+
+##### Divisão de Projetos e Sistemas de Informação
 
 1 - À Divisão de Projetos e Sistemas de Informação, doravante designada por DPSI, compete:
 
@@ -459,7 +537,9 @@ t) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DPSI é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 11.º — Divisão de Cidadania e Educação Ambiental
+###### Artigo 11.º
+
+##### Divisão de Cidadania e Educação Ambiental
 
 1 - À Divisão de Cidadania e Educação Ambiental, doravante designada por DCEA, compete:
 
@@ -485,7 +565,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DCEA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 12.º — Divisão de Gestão de Centros Ambientais
+###### Artigo 12.º
+
+##### Divisão de Gestão de Centros Ambientais
 
 1 - À Divisão de Gestão de Centros Ambientais, doravante designada por DGCA, compete:
 
@@ -673,7 +755,9 @@ b) Divisão de Gestão de Resíduos;
 
 c) Divisão de Conservação da Natureza.
 
-###### Artigo 17.º — Divisão de Ação Climática e Avaliação Ambiental
+###### Artigo 17.º
+
+##### Divisão de Ação Climática e Avaliação Ambiental
 
 1 - À Divisão de Ação Climática e Avaliação Ambiental, doravante designada por DACAA, compete:
 
@@ -697,7 +781,7 @@ i) Coordenar, ao nível regional, a aplicação do regime jurídico da responsab
 
 j) Intervir, nos termos legais e regulamentares, nos processos de licenciamento e fiscalização das atividades industriais, comerciais e de exploração de massas minerais, bem como coordenar o respetivo procedimento, no âmbito das competências da DRAAC;
 
-k) Promover e coordenar a elaboração do Relatório sobre o Estado do Ambiente dos Açores, a que se referem os n.<sup>os</sup>2 e 3 do artigo 3.º do [Decreto Legislativo Regional n.º 19/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-332688), de 25 de maio, na sua redação em vigor;
+k) Promover e coordenar a elaboração do Relatório sobre o Estado do Ambiente dos Açores, a que se referem os n.os2 e 3 do artigo 3.º do [Decreto Legislativo Regional n.º 19/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-332688), de 25 de maio, na sua redação em vigor;
 
 l) Assegurar a elaboração e a atualização regular de cartas de risco de infestação por térmitas, bem como apoiar a investigação e desenvolvimento de técnicas de desinfestação e combate às térmitas;
 
@@ -717,7 +801,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DACAA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 18.º — Divisão de Gestão de Resíduos
+###### Artigo 18.º
+
+##### Divisão de Gestão de Resíduos
 
 1 - À Divisão de Gestão de Resíduos, doravante designada por DGR, compete:
 
@@ -745,7 +831,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGR é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 19.º — Divisão de Conservação da Natureza
+###### Artigo 19.º
+
+##### Divisão de Conservação da Natureza
 
 1 - À Divisão de Conservação da Natureza, doravante designada por DCN, compete:
 
@@ -847,7 +935,9 @@ b) Divisão de Gestão da Água;
 
 c) Divisão de Gestão de Riscos Naturais.
 
-###### Artigo 21.º — Divisão de Geodesia, Cartografia e Cadastro
+###### Artigo 21.º
+
+##### Divisão de Geodesia, Cartografia e Cadastro
 
 1 - À Divisão de Geodesia, Cartografia e Cadastro, doravante designada por DGCC, compete:
 
@@ -889,7 +979,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGCC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 22.º — Divisão de Gestão da Água
+###### Artigo 22.º
+
+##### Divisão de Gestão da Água
 
 1 - À Divisão de Gestão da Água, doravante designada por DGA, compete:
 
@@ -923,7 +1015,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 23.º — Divisão de Gestão de Riscos Naturais
+###### Artigo 23.º
+
+##### Divisão de Gestão de Riscos Naturais
 
 1 - À Divisão de Gestão de Riscos Naturais, doravante designada por DGRN, compete:
 
@@ -955,7 +1049,9 @@ m) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DPRH é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 24.º — Divisão de Planeamento e Gestão de Projetos
+###### Artigo 24.º
+
+##### Divisão de Planeamento e Gestão de Projetos
 
 1 - À Divisão de Planeamento e Gestão de Projetos, doravante designada por DPGP, compete:
 
@@ -1129,7 +1225,9 @@ j) Promover e coordenar os procedimentos de contratação de pessoal;
 
 k) Exercer as demais competências que lhe sejam cometidas por lei e por outros atos normativos.
 
-###### Artigo 32.º — Divisão de Inspeção e Apoio Jurídico
+###### Artigo 32.º
+
+##### Divisão de Inspeção e Apoio Jurídico
 
 1 - À Divisão de Inspeção e Apoio Jurídico, doravante designada por DIAJ, compete:
 
@@ -1285,11 +1383,11 @@ A carreira de vigilante da natureza, até à sua revisão, rege-se pelo estabele
 
 Quadro do pessoal dirigente, de direção específica e de chefia da Secretaria Regional do Ambiente e Ação Climática
 
-| Número de lugares | Designação do cargo | Remuneração |
+| Número<br>de lugares | Designação do cargo | Remuneração |
 | --- | --- | --- |
-| Serviços Executivos Centrais | Serviços Executivos Centrais | Serviços Executivos Centrais |
-| Gabinete de Planeamento e Promoção Ambiental | Gabinete de Planeamento e Promoção Ambiental | Gabinete de Planeamento e Promoção Ambiental |
-| Pessoal Dirigente | Pessoal Dirigente | Pessoal Dirigente |
+| Serviços Executivos Centrais |  |  |
+| Gabinete de Planeamento e Promoção Ambiental |  |  |
+| Pessoal Dirigente |  |  |
 | 1 | Diretor do Gabinete de Planeamento e Promoção Ambiental, cargo de direção superior de 2.º grau | a) |
 | 1 | Chefe da Divisão Administrativa, Financeira e de Planeamento, cargo de direção intermédia de 2.º grau | a) |
 | 1 | Chefe da Divisão de Projetos e Sistemas de Informação, cargo de direção intermédia de 2.º grau | a) |
@@ -1297,8 +1395,8 @@ Quadro do pessoal dirigente, de direção específica e de chefia da Secretaria 
 | 1 | Chefe da Divisão de Gestão de Centros Ambientais, cargo de direção intermédia de 2.º grau | a) |
 |  | Outro pessoal de chefia |  |
 | 9 | Coordenador dos Centros de Interpretação Ambiental | b) |
-| Direção Regional do Ambiente e Ação Climática | Direção Regional do Ambiente e Ação Climática | Direção Regional do Ambiente e Ação Climática |
-| Pessoal Dirigente | Pessoal Dirigente | Pessoal Dirigente |
+| Direção Regional do Ambiente e Ação Climática |  |  |
+| Pessoal Dirigente |  |  |
 | 1 | Diretor Regional, cargo de direção superior de 1.º grau | a) |
 | 1 | Diretor de Serviços de Gestão Ambiental e Conservação da Natureza, cargo de direção intermédia de 1.º grau | a) |
 | 1 | Diretor de Serviços de Gestão de Recursos Hídricos e Riscos Naturais, cargo de direção intermédia de 1.º grau | a) |
@@ -1309,12 +1407,12 @@ Quadro do pessoal dirigente, de direção específica e de chefia da Secretaria 
 | 1 | Chefe da Divisão de Gestão da Água, cargo de direção intermédia de 2.º grau | a) |
 | 1 | Chefe da Divisão de Gestão de Riscos Naturais, cargo de direção intermédia de 2.º grau | a) |
 | 1 | Chefe da Divisão de Planeamento e Gestão de Projetos, cargo de direção intermédia de 2.º grau | a) |
-| Serviços Executivos Periféricos | Serviços Executivos Periféricos | Serviços Executivos Periféricos |
-| Pessoal de Direção Específica | Pessoal de Direção Específica | Pessoal de Direção Específica |
+| Serviços Executivos Periféricos |  |  |
+| Pessoal de Direção Específica |  |  |
 | 9 | Diretores dos Serviços de Ambiente e Ação Climática de Ilha, cargo de direção específica de 1.º grau | c) |
-| Serviços de Controlo, Auditoria e Fiscalização | Serviços de Controlo, Auditoria e Fiscalização | Serviços de Controlo, Auditoria e Fiscalização |
-| Inspeção Regional do Ambiente | Inspeção Regional do Ambiente | Inspeção Regional do Ambiente |
-| Pessoal Dirigente | Pessoal Dirigente | Pessoal Dirigente |
+| Serviços de Controlo, Auditoria e Fiscalização |  |  |
+| Inspeção Regional do Ambiente |  |  |
+| Pessoal Dirigente |  |  |
 | 1 | Inspetor regional, equiparado para todos os efeitos legais, a cargo de direção superior de 2.º grau | a) e d) |
 | 1 | Chefe da Divisão de Inspeção e Apoio Jurídico, cargo de direção intermédia de 2.º grau | a) e d) |
 
@@ -1325,3 +1423,5 @@ b) Remuneração de acordo com o disposto no artigo 7.º do Estatuto do Pessoal 
 c) Remuneração de acordo com a alínea a) do n.º 2 do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
 d) Suplemento remuneratório fixado nos termos [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de abril, com a adaptação à Região Autónoma dos Açores efetuada pelo [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de novembro.
+
+118239551

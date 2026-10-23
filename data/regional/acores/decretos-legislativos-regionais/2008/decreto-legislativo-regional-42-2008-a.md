@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/42/2008/10/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2008-452926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 484b341c75ddebfcdfabd5a79e4ae9f916f2b302d7b84641d1b93b7a286d9fc9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6c7bd57a12c53be18313982dc6a2044f2324a1c40baa27a5578558a49ec58f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Benefícios Fiscais
 - Contribuições e Impostos
 - IRS
 - Regime Fiscal
-- Benefícios Fiscais
-- Açores
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:114440373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado, com efeitos a 01.01.2009, o art. 4º do DLR 2/99/A, de 20-Jan, na redacção do presente diploma, que o republicou,\
+    \ pelo DLR.25/2009/A.30.12.2009.AL-RAA, DR.IS [251] de 30.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2009-12-30'
+- type: amended_by
+  target: pt:dre:482136:por
+  label: "Alterado, com efeitos a 01.01.2009, o art. 4º do DLR 2/99/A, de 20-Jan, na redacção do presente diploma, que o republicou,\
+    \ pelo DLR.25/2009/A.30.12.2009.AL-RAA, DR.IS [251] de 30.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-2009-482136
+  date: '2009-12-30'
+- type: amended_by
+  target: pt:dre:260390:por
+  label: "Dada nova redação ao art. 4º do DLR 2/99/A de 20-jan, com as alterações e republicação constantes do presente diploma,\
+    \ pelo DLR.2/2013/A.22.04.2013.AL-RAA, DR.IS [78] de 22.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2013-260390
+  date: '2013-04-22'
+- type: amended_by
+  target: pt:dre:570685:por
+  label: "Dada nova redação aos arts. 4.º, 5.º, 7.º e 9.º do DLR 2/99/A de 20-jan, alterado e republicado pelo presente diploma,\
+    \ pelo DLR.2/2014/A.29.01.2014.AL-RAA, DR.IS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2014-570685
+  date: '2014-01-29'
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Alterado o art. 4.º do DLR 2/99/A, de 20-jan, na redação e republicação do presente diploma pelo(a) Decreto Legislativo
+    Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/104/1993/04/05/p/dre
   label: null
@@ -117,16 +147,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1998/02/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1998/02/24/p/dre
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683046:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:53Z'
   warnings: []
   errors: []
 ---
@@ -179,11 +257,11 @@ As alterações introduzidas pelo presente decreto legislativo regional ao artig
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 9 de Setembro de 2008.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 24 de Setembro de 2008.**
+Assinado em Angra do Heroísmo em 24 de Setembro de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

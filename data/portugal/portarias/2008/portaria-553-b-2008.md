@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 123/2008, 3º Suplemento, Série I de 2008-06-27
   number: '123'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4000-(16) a 4000-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/12303/0001600019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/553-b/2008/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/553-b-2008-456870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f54680c142ece79c95cce7e7136551c6938206ea3cd00111451a9aea3a6d09f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a3533ed86f949a0a4fd39c97bf79f1d29db9f62eb63b10b771fb42305f406bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abate de Árvores
+- Arborização
 - Árvore
 - Certificado Fitossanitário
-- Doença Vegetal
-- Direção Geral da Agricultura e Desenvolvimento Rural
-- Arborização
 - Conselho Consultivo para a Fitossanidade Florestal
-- Exportação
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Doença Vegetal
 - Exploração Florestal
-- Pinheiro
-- Proteção Fitossanitária
-- Plantula
+- Exportação
 - Indústria da Madeira
+- Pinheiro
+- Plantula
 - Produto em Madeira
+- Proteção Fitossanitária
 - Transacção Intracomunitária
 relationships:
 - type: amended_by
@@ -107,16 +107,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/305-a/2008/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/305-a/2008/04/21/p/dre
+- type: cites
+  target: pt:dre:141854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:260664:por
+  label: "Revogado o art.3º do presente diploma, pela PORT.230-B/2009.27.02.2009.MADRP, DR.IS [41-Supl] de 27.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-b-2009-260664
+  date: '2009-02-27'
+- type: repealed_by
+  target: pt:dre:669979:por
+  label: "Revogada, a partir de 13.08.2011, e com excepção do art. 6º, pelo DEC LEI.95/2011.08.08.2011.MAMAOT, DR.IS [151]\
+    \ de 08.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2011-669979
+  date: '2011-08-08'
+- type: repealed_by
+  target: pt:dre:66463206:por
+  label: Revogado a partir de 01.03.2015 o art. 6.º da presente portaria revogada pelo Dec Lei 95/2011, de 08-ago com exceção
+    do artigo ora revogado, pelo(a) Decreto-Lei n.º 29/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10, e extinto
+    o Conselho Consultivo para a Fitossanidade Florestal sucedendo-lhe nas suas competências o CFN
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-2015-66463206
+  date: '2015-02-10'
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:01Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +187,9 @@ Medidas urgentes
 
 2 - O abate e remoção das árvores referidas no número anterior são considerados de interesse público e têm carácter urgente, devendo ter lugar no prazo máximo de 10 dias a contar da notificação para o efeito, substituindo-se o Estado ao responsável se ele nada fizer, não for conhecido ou não puder ser notificado, aplicando-se, nestes casos, com as devidas adaptações, o disposto nos n.os 4, 6 e 7 do artigo 3.º
 
-###### Artigo 11.º-A — Definição da zona afectada e de restrição
+Artigo 11.º-A
+
+Definição da zona afectada e de restrição
 
 A zona afectada e de restrição corresponde a todo o território continental.»
 
@@ -263,7 +303,7 @@ b) Portaria n.º 358/2008, de 12 de Maio.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 23 de Junho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 23 de Junho de 2008.
 
 ## ANEXO — I - Medidas fitossanitárias e de apoio à investigação científica
 

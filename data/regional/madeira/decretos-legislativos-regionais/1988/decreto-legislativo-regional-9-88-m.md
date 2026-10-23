@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/16700/29352936.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1988-372607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d10e63d5b58ca2ff94cb2c4ca8b20a64ad0e4640b46b4b96e6be2abd9082c65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6237c82e6298106e36bc4330318f0c1b3383705df2b4dfc61e414041bf52587b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Fogos
+- Alienação de Solos
+- CASA do Estado
+- Habitação Social
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:227671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:192247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396556:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:227671:por
+  label: "Revogado pelo DLR.9/2005/M.16.05.2005.AL-RAM, DR.IS-A [112] de 14.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2005-227671
+  date: '2005-05-16'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:17Z'
   warnings: []
   errors: []
 ---
@@ -181,25 +199,25 @@ O presente diploma não se aplica aos fogos propriedade da RAM construídos no �
 
 Aprovado em sessão plenária aos 19 de Maio de 1988.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 7 de Junho de 1988.**
+Assinado em 7 de Junho de 1988.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Tabela I a que se refere o artigo 4.º, n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/16700/29352936.pdf))](https://files.diariodarepublica.pt/1s/1988/07/16700/29352936.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/16700/29352936.pdf)
 
 Tabela II a que se refere o artigo 5.º, n.º 2, alínea b)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/16700/29352936.pdf))](https://files.diariodarepublica.pt/1s/1988/07/16700/29352936.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/16700/29352936.pdf)
 
 Tabela III a que se refere o artigo 7.º, n.º 3, alínea b)
 
 Limite de acesso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/16700/29352936.pdf))](https://files.diariodarepublica.pt/1s/1988/07/16700/29352936.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/16700/29352936.pdf)
 
 Modelos de declarações a que se refere o n.º 5 do artigo 7.º
 

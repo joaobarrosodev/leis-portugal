@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01700/0001400044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2025/01/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2025-904742818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acc05825067b29bbd85d472a7cab1d83c63912ec31f99eaf83013df6168d3f9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2b3d58fca84b9d981dbf408052a0d39edfd3c26bc6f57f8276798a371e63940
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Concurso
-- Governo Regional
-- Definição de Competências
-- Presidência do Governo Regional
+- Açores
 - Bolsa de Emprego Público
+- Centro de Consulta e Estudos Jurídicos do Governo Regional
+- Concurso
+- Definição de Competências
+- Direção Regional da Cooperação com o Poder Local
+- Governo Regional
 - Orgânica
 - Período Experimental
 - Pessoal de Chefia
+- Pessoal Dirigente
+- Presidência do Governo Regional
 - Quadro de Pessoal
 - Recursos Humanos
-- Açores
-- Direção Regional da Cooperação com o Poder Local
-- Centro de Consulta e Estudos Jurídicos do Governo Regional
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:3/2024/A
+  label: Altera, a partir de 25 de janeiro de 2025, o artigo 18.º do Decreto Regulamentar Regional n.º 3/2024/A, de 11 de
+    abril, Diário da República n.º 72/2024, Série I
+  source: null
+  date: '2024-04-11'
 - type: cites
   target: eli:http://data.dre
   label: null
@@ -120,16 +126,74 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/256/2005/03/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/256/2005/03/16/p/dre
+- type: cites
+  target: pt:dre:122529725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200595719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201700875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207417313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210488521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860106954:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:4/2023/A
+  label: Revoga, a partir de 25 de janeiro de 2025, o Decreto Regulamentar Regional n.º 4/2023/A, de 14 de fevereiro, Diário
+    da República n.º 32/2023, Série I
+  source: null
+  date: '2023-02-14'
 article_structure:
   article_count: 45
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:13Z'
   warnings: []
   errors: []
 ---
@@ -232,11 +296,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 20 de dezembro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 22 de janeiro de 2025.**
+Assinado em Angra do Heroísmo em 22 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -440,7 +504,9 @@ e) Centro do Protocolo e Relações Públicas do Governo Regional;
 
 f) Núcleo Técnico de Comunicação.
 
-###### Artigo 11.º — Divisão da Informação e Documentação do Governo Regional
+###### Artigo 11.º
+
+##### Divisão da Informação e Documentação do Governo Regional
 
 1 - A Divisão da Informação e Documentação do Governo Regional, doravante designada por DID-GR, é a unidade orgânica da Secretaria-Geral que, sob a superintendência e orientação do secretário-geral, desenvolve a sua atividade no âmbito do acompanhamento e execução da política integrada de gestão da informação, em colaboração com todos os departamentos do Governo Regional.
 
@@ -536,7 +602,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O SBAD é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado para o efeito, através de despacho do Presidente do Governo Regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 13.º — Secção de Expediente
+###### Artigo 13.º
+
+#### Secção de Expediente
 
 1 - À Secção de Expediente, doravante designada por SE, compete:
 
@@ -586,7 +654,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O CCID-GR é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do Presidente do Governo, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 15.º — Divisão dos Recursos Humanos e Financeiros
+###### Artigo 15.º
+
+##### Divisão dos Recursos Humanos e Financeiros
 
 1 - A Divisão dos Recursos Humanos e Financeiros, doravante designada por DRHF, é a unidade orgânica da Secretaria-Geral que, sob a superintendência e orientação do secretário-geral, e em cooperação com os restantes serviços que integram a PGR, assegura o apoio, execução e coordenação nos domínios dos recursos humanos, da contratação pública e da contabilidade de gestão, financeira e orçamental.
 
@@ -640,7 +710,9 @@ a) A Secção de Recursos Humanos;
 
 b) A Secção de Contabilidade.
 
-###### Artigo 16.º — Secção de Recursos Humanos
+###### Artigo 16.º
+
+#### Secção de Recursos Humanos
 
 1 - À Secção de Recursos Humanos, doravante designada por SRH, compete:
 
@@ -674,7 +746,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SRH é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 17.º — Secção de Contabilidade
+###### Artigo 17.º
+
+#### Secção de Contabilidade
 
 1 - À Secção de Contabilidade, doravante designada por SC, compete:
 
@@ -714,7 +788,9 @@ q) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SC é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 18.º — Divisão do Património e Manutenção dos Palácios da PGR
+###### Artigo 18.º
+
+##### Divisão do Património e Manutenção dos Palácios da PGR
 
 1 - A Divisão do Património e Manutenção dos Palácios da PGR, doravante designada por DPMP-PGR, é a unidade orgânica da Secretaria-Geral que, sob a superintendência e orientação do secretário-geral, assegura a gestão, conservação, manutenção e segurança dos imóveis utilizados pelos serviços integrados na PGR, nomeadamente dos Palácios de Sant´Ana e da Conceição, em Ponta Delgada, e dos Capitães-Generais, em Angra do Heroísmo.
 
@@ -1100,7 +1176,9 @@ w) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DSAAL integra a Divisão de Projetos e Finanças Locais.
 
-###### Artigo 30.º — Divisão de Projetos e Finanças Locais
+###### Artigo 30.º
+
+##### Divisão de Projetos e Finanças Locais
 
 1 - À Divisão de Projetos e Finanças Locais, doravante designada por DPFL, compete:
 
@@ -1134,7 +1212,9 @@ m) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DPFL é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 31.º — Secção de Apoio Administrativo
+###### Artigo 31.º
+
+#### Secção de Apoio Administrativo
 
 1 - À Secção de Apoio Administrativo, doravante designada por SAA, compete:
 
@@ -1234,7 +1314,7 @@ d) Atividades compreendidas na respetiva especialidade profissional prestadas a 
 
 11 - Todos os estudos, pareceres, projetos e serviços de consultoria, bem como quaisquer outros trabalhos especializados e decorrentes da representação judiciária e mandato forense que sejam realizados enquanto consultores do CCETJ-GR são considerados como pertencendo à Região, não cabendo aos consultores qualquer remuneração acrescida ou outro direito, incluindo direitos de propriedade intelectual.
 
-12 - Aos técnicos de sistemas e tecnologias de informação previstos na alínea e) do n.º 1 é aplicável, com as necessárias adaptações o disposto nos n.<sup>os</sup>4 e seguintes.
+12 - Aos técnicos de sistemas e tecnologias de informação previstos na alínea e) do n.º 1 é aplicável, com as necessárias adaptações o disposto nos n.os4 e seguintes.
 
 ###### Artigo 35.º — Recrutamento e cessação de funções dos consultores do CCETJ-GR
 
@@ -1254,7 +1334,7 @@ b) Considerar o tempo de serviço prestado no CCETJ-GR enquanto consultor, para 
 
 c) Retomar, ao cessar a comissão de serviço enquanto consultor do CCETJ-GR, automaticamente as funções que exercia à data da designação, sem prejuízo do disposto na lei quanto à reorganização de serviços, quando aplicável.
 
-6 - Para efeitos do disposto no número anterior, a avaliação do desempenho, com efeitos na carreira de origem, dos trabalhadores em funções públicas, designados em comissão de serviço consultores do CCETJ-GR, é efetuada nos mesmos moldes dos cargos dirigentes, também designados em comissão de serviço, sendo realizada nos termos do disposto nos n.<sup>os</sup>5 a 7 do artigo 42.º e do artigo 43.º do [Decreto Legislativo Regional n.º 17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, na redação que lhe foi conferida pelo [Decreto Legislativo Regional n.º 13/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-122529725), de 7 de junho.
+6 - Para efeitos do disposto no número anterior, a avaliação do desempenho, com efeitos na carreira de origem, dos trabalhadores em funções públicas, designados em comissão de serviço consultores do CCETJ-GR, é efetuada nos mesmos moldes dos cargos dirigentes, também designados em comissão de serviço, sendo realizada nos termos do disposto nos n.os5 a 7 do artigo 42.º e do artigo 43.º do [Decreto Legislativo Regional n.º 17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, na redação que lhe foi conferida pelo [Decreto Legislativo Regional n.º 13/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2019-122529725), de 7 de junho.
 
 ###### Artigo 36.º — Quadros de pessoal
 
@@ -1268,30 +1348,30 @@ Quadro de pessoal dirigente e de chefia
 
 | Número de lugares | Designação dos serviços e dos cargos | Remuneração |
 | --- | --- | --- |
-| Serviços executivosSecretaria-Geral da PresidênciaPessoal dirigente | Serviços executivosSecretaria-Geral da PresidênciaPessoal dirigente | Serviços executivosSecretaria-Geral da PresidênciaPessoal dirigente |
+| Serviços executivosSecretaria-Geral da PresidênciaPessoal dirigente |  |  |
 | 1 | Secretário-geral, cargo de direção superior de 1.º grau | a) |
 | 1 | Chefe da Divisão da Informação e Documentação do Governo Regional, cargo de direção intermédia de 2.º grau | a) |
 | 1 | Chefe da Divisão dos Recursos Humanos e Financeiros, cargo de direção intermédia de 2.º grau | a) |
 | 1 | Chefe da Divisão do Património e Manutenção dos Palácios da PGR, cargo de direção intermédia de 2.º grau | a) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador da Secção de Expediente, coordenador técnico, da carreira de assistente técnico | b) |
 | 1 | Coordenador da Secção de Recursos Humanos, coordenador técnico, da carreira de assistente técnico | b) |
 | 1 | Coordenador da Secção de Contabilidade, coordenador técnico, da carreira de assistente técnico | b) |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Serviço de Biblioteca, Arquivo e Documentação | c) |
 | 1 | Coordenador do Centro de Ciências da Informação e Documentação do Governo Regional | c) |
 | 1 | Coordenador do Serviço de Conservação dos Jardins da PGR | c) |
 | 1 | Coordenador do Gabinete da Prevenção da Corrupção e da Transparência | c) |
 | 1 | Coordenador do Centro de Protocolo e Relações Públicas do Governo Regional | c) |
-| Centro de Consulta e Estudos Técnico-Jurídicos do Governo RegionalPessoal dirigente | Centro de Consulta e Estudos Técnico-Jurídicos do Governo RegionalPessoal dirigente | Centro de Consulta e Estudos Técnico-Jurídicos do Governo RegionalPessoal dirigente |
+| Centro de Consulta e Estudos Técnico-Jurídicos do Governo RegionalPessoal dirigente |  |  |
 | 1 | Consultor-coordenador, cargo de direção superior de 1.º grau | a) |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Centro de Edição do Jornal Oficial | c) |
-| Direção Regional da Cooperação com o Poder LocalPessoal dirigente | Direção Regional da Cooperação com o Poder LocalPessoal dirigente | Direção Regional da Cooperação com o Poder LocalPessoal dirigente |
+| Direção Regional da Cooperação com o Poder LocalPessoal dirigente |  |  |
 | 1 | Diretor Regional da Direção Regional da Cooperação com o Poder Local, cargo de direção superior de 1.º grau | a) |
 | 1 | Diretor de Serviços da Direção de Serviços de Apoio às Autarquias Locais, cargo de direção intermédia de 1.º grau | a) |
 | 1 | Chefe de Divisão da Divisão de Projetos e Finanças Locais, cargo de direção intermédia de 2.º grau | a) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador da secção de Apoio Administrativo coordenador técnico, da carreira de assistente técnico | b) |
 
 a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
@@ -1299,3 +1379,5 @@ a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e O
 b) Remuneração nos termos do Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.
 
 c) Remuneração de acordo com o artigo 7.º Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
+
+118599598

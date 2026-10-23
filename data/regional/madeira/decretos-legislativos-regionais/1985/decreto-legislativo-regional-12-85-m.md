@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11900/14351436.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1985-151767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98f938549c4c6960bc27d4ff5a5f4fcdf732f5a6ece192997cf7a353ccaab66c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caddf4adc5e4a8b20feb42c47bb35bef763212bb350f8782b19d40ac45961f07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ILHA de Porto Santo
+- Madeira.região Autónoma
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:666723:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS ARTIGOS 3, 4 E 6 PELO DECRETO LEGISLATIVO REGIONAL 5/87/M, DE 14 DE MAIO, PUBLICADO NO DR.IS, 110.\
+    \ \0."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-05-14'
+- type: cites
+  target: pt:dre:399789:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495082:por
+  label: "Revogado o nº 2 do art. 3º do presente diploma, com a redacção do DLR 5/87/M de 14-Mai, pelo DLR.7/87/M.08.09.1987.ARM,\
+    \ DR.IS [206] de 08.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1987-495082
+  date: '1987-09-08'
+- type: repealed_by
+  target: pt:dre:666723:por
+  label: "Revogado pelo DLR.15/2003/M.2003.06.16.ALR-RAM, DR.IS-A [152] de 04/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2003-666723
+  date: '2003-06-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:56Z'
   warnings: []
   errors: []
 ---
@@ -214,10 +238,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 5 de Março de 1985.
 
-**O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz de Mendonça.**
+O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz de Mendonça.
 
-**Assinado em 25 de Março de 1985.**
+Assinado em 25 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

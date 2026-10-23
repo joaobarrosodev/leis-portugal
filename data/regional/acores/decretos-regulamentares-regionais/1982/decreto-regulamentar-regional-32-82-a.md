@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1982-397912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc04f3038e3837284679ec37739f5690a9bace37f3481a7e7d7c7e50ec122ed9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f58b0dc2d6b7a316d77ef6b7bca4b1cf62063000810deda868acb95e6f063623
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Incapacidade Física
+- Junta Médica
+- Pensão de Invalidez
+- Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:606716:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:46Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +96,9 @@ Com a publicação do [Decreto-Lei n.º 144/82](https://diariodarepublica.pt/dr/
 
 Assim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aplicado na Região Autónoma dos Açores o [Decreto-Lei n.º 144/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1982-606716), de 27 de Abril, com as adaptações constantes do artigo seguinte.
+Artigo 1.º É aplicado na Região Autónoma dos Açores o [Decreto-Lei n.º 144/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1982-606716), de 27 de Abril, com as adaptações constantes do artigo seguinte.
 
-###### Art. 2.º Ao texto dos artigos 4.º, 5.º, n.º 1, 6.º, 9.º, 10.º, n.º 1, 11.º, n.º 1, 12.º, n.º 2, 13.º e 16.º do [Decreto-Lei n.º 144/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1982-606716), de 27 de Abril, são introduzidas as seguintes adaptações:
+Art. 2.º Ao texto dos artigos 4.º, 5.º, n.º 1, 6.º, 9.º, 10.º, n.º 1, 11.º, n.º 1, 12.º, n.º 2, 13.º e 16.º do [Decreto-Lei n.º 144/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1982-606716), de 27 de Abril, são introduzidas as seguintes adaptações:
 
 ###### ARTIGO 4.º
 
@@ -135,10 +144,10 @@ As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por desp
 
 Aprovado em Conselho do Governo de 19 de Maio de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 12 de Julho de 1982.**
+Assinado em Angra do Heroísmo em 12 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

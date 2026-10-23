@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2010/04/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef0c89ea8be4a42990e010611f1ac30609612198b4769eeed3a92434175cf4f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a4c523daee5fc45c8aa8392ab779bc2bc2bf20a0f626c71ad093173d8c7e1da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Regional de Saúde
 - Ajuda Judicial
 - Autoridade Sanitária
 - Carreira Médica
 - Cartão de Identificação
-- Serviço de Saúde
 - Coordenador Regional
 - Definição de Competências
 - Delegado de Saúde
-- Administração Regional de Saúde
 - Direcção Regional da Saúde
-- Saúde Pública
 - Remuneração
-- Açores
+- Saúde Pública
+- Serviço de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2010/01/04/a/dre
@@ -104,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:194799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644159:por
+  label: null
+  source: null
 article_structure:
-  article_count: 41
+  article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:50Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +170,9 @@ Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 13.º e
 
 A autoridade de saúde exerce-se a nível regional e de concelho, funcionando em sistema de rede integrada de informação.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -150,7 +180,9 @@ A autoridade de saúde exerce-se a nível regional e de concelho, funcionando em
 
 3 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -176,7 +208,9 @@ i)...
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +222,9 @@ b)...
 
 3 - A autoridade de saúde regional é substituída nas suas ausências e impedimentos pelo coordenador regional de saúde pública, ou por um delegado de saúde concelhio designado para o efeito.
 
-###### Artigo 6.º — Coordenador regional de Saúde Pública
+Artigo 6.º
+
+Coordenador regional de Saúde Pública
 
 Ao coordenador regional de saúde pública compete, designadamente:
 
@@ -204,7 +240,9 @@ e) Avaliar as necessidades de formação dos diversos grupos profissionais das d
 
 f) Exercer os demais poderes que lhe sejam atribuídos por lei, regulamento ou que lhe hajam sido delegados.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
@@ -232,7 +270,9 @@ k) [Actual alínea j).]
 
 l) [Actual alínea k).]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As funções inerentes ao exercício do poder de autoridade de saúde são exercidas com autonomia técnica e são independentes das de natureza operativa dos serviços que lhes prestem apoio técnico, logístico e administrativo.
 
@@ -248,7 +288,9 @@ l) [Actual alínea k).]
 
 7 - Das decisões das autoridades de saúde cabe recurso hierárquico para o membro do Governo Regional com competência em matéria da saúde e contencioso, nos termos da lei.
 
-###### Artigo 9.º — Provimento do delegado de saúde concelhio
+Artigo 9.º
+
+Provimento do delegado de saúde concelhio
 
 1 - Os delegados de saúde concelhios são nomeados, em regime de comissão de serviço, por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do director regional da Saúde, de entre médicos da carreira médica de saúde pública ou de entre médicos de outras carreiras, em função do seu perfil, currículo ou experiência adequada.
 
@@ -260,7 +302,9 @@ l) [Actual alínea k).]
 
 5 - Em caso de vacatura do cargo por não renovação da comissão de serviço, as funções são asseguradas em regime de gestão corrente, até ao máximo de 90 dias.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Sempre que a dimensão demográfica o justifique, poderá o membro do Governo Regional com competência em matéria de saúde nomear mais de um delegado de saúde no mesmo concelho, bem como agrupar concelhos sob a mesma autoridade de saúde.
 
@@ -272,7 +316,9 @@ l) [Actual alínea k).]
 
 5 - (Revogado.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Nas ausências e impedimentos do delegado de saúde concelhio, as suas funções são asseguradas pelo delegado de saúde substituto, a designar por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do director regional da Saúde.
 
@@ -282,11 +328,15 @@ l) [Actual alínea k).]
 
 4 - No exercício das suas funções, o delegado de saúde substituto exerce as competências próprias e delegadas do respectivo titular.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 A remuneração do coordenador regional de saúde pública e das autoridades de saúde é fixada por despacho conjunto dos membros do Governo Regional competentes em matéria da saúde e de finanças.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Os técnicos de diagnóstico e terapêutica, nomeadamente de saúde ambiental, e restante pessoal necessário ao funcionamento das delegações de saúde dependem hierárquica e funcionalmente do delegado de saúde concelhio.»
 
@@ -308,7 +358,9 @@ Provimento do coordenador regional de saúde pública
 
 5 - Em caso de vacatura do cargo por não renovação da comissão de serviço, as funções são asseguradas em regime de gestão corrente, até ao máximo de 90 dias.
 
-###### Artigo 14.º-A — Dever de colaboração das instituições públicas e privadas
+Artigo 14.º-A
+
+Dever de colaboração das instituições públicas e privadas
 
 1 - As autoridades de saúde têm o direito de acesso à informação necessária ao exercício das suas funções, relevante para a salvaguarda da saúde pública, devendo as instituições públicas e privadas fornecer os dados por aquelas considerados essenciais.
 
@@ -316,11 +368,15 @@ Provimento do coordenador regional de saúde pública
 
 3 - Para efeitos do disposto nos números anteriores as autoridades de saúde e o pessoal técnico delas dependente dispõem de cartão de identificação de modelo próprio, aprovado por despacho do membro do Governo Regional com competência em matéria de saúde.
 
-###### Artigo 14.º-B — Apoio jurídico e patrocínio judiciário
+Artigo 14.º-B
+
+Apoio jurídico e patrocínio judiciário
 
 Os titulares dos poderes de autoridade de saúde que sejam arguidos ou parte em processo administrativo ou judicial, por acto cometido ou ocorrido no exercício e por causa das suas funções, têm direito a assistência jurídica, nas modalidades de apoio jurídico e patrocínio judiciário, a assegurar pela Direcção Regional da Saúde.
 
-###### Artigo 14.º-C — Sanções
+Artigo 14.º-C
+
+Sanções
 
 A desobediência a ordem ou a mandado legítimos, regularmente emanados e notificados pela autoridade de saúde, é punida nos termos da lei penal.»
 
@@ -342,11 +398,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 10 de Março de 2010.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 23 de Março de 2010.**
+Assinado em Angra do Heroísmo em 23 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/19200/0514605146.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2014/10/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2014-57968607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b6f69d145a9e83f6ede862ed59b4efb1933e7ba97b263119def88d84dde24d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2026454008edbcabdf156800504277a4ffe9360878d31a09590ebb8373db534b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alteração Orçamental
-- Região Autónoma
 - Despesas Públicas
-- Lei de Finanças das Regiões Autónomas
 - Finanças Regionais
+- Lei de Finanças das Regiões Autónomas
 - Orçamento Regional
 - Planeamento Económico
 - Política Financeira
 - Política Orçamental
-- Açores
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:114440373:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66041469:por
+  label: Alterado o anexo constante do art. 2.º pelo(a) Decreto Legislativo Regional n.º 1/2015/A - Diário da República n.º
+    4/2015, Série I de 2015-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2015-66041469
+  date: '2015-01-07'
+- type: amended_by
+  target: pt:dre:73070297:por
+  label: Alterado o anexo constante do art. 2.º do presente diploma, com a redação dada pelo DLR 172015/A de 07-jan, pelo(a)
+    Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2016-73070297
+  date: '2016-01-08'
+- type: amended_by
+  target: pt:dre:106874649:por
+  label: Alterado, com efeitos a 01.01.2017, o anexo constante do art. 2.º presente diploma, com a redação dada pelo DLR 1/2015/A
+    de 07-jan e pelo DLR 1/2016/A de 08-jan, pelo(a) Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017,
+    Série I de 2017-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2017-106874649
+  date: '2017-04-13'
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Alterado o anexo constante do art. 2.º do presente diploma pelo(a) Decreto Legislativo Regional n.º 1/2018/A - Diário
+    da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:49Z'
   warnings: []
   errors: []
 ---
@@ -120,11 +149,11 @@ Sem prejuízo da manutenção dos valores anuais de despesa, podem os limites de
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 9 de setembro de 2014.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 24 de setembro de 2014.**
+Assinado em Angra do Heroísmo em 24 de setembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -134,6 +163,6 @@ Quadro plurianual de programação orçamental
 
 (despesa financiada por receitas efetivas, milhões de euros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/10/19200/0514605146.pdf))](https://files.diariodarepublica.pt/1s/2014/10/19200/0514605146.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/10/19200/0514605146.pdf)
 
 Não inclui dotação provisional.

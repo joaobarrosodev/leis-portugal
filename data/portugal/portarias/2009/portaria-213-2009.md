@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03800/0127701280.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/213/2009/02/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/213-2009-602007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e41dbed87e75fcd6b7b1f7c78a7a58738694f593e568a7971f4cfe9959f2d2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 169201558cf8132046aabb81defd1c3392e746de8708b554dea67f63797aaf7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
+- Administração Pública
+- Avaliação de Conhecimentos
 - Concurso
 - Curso de Estudos Avançados em Gestão Pública
-- Administração Pública
+- Formação Profissional
 - INA
 - JURI
 - Qualificação Profissional
-- Avaliação de Conhecimentos
 - Regulamento
 relationships:
 - type: amended_by
@@ -103,16 +103,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+- type: cites
+  target: pt:dre:217545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:117537583:por
+  label: Revogada pelo(a) Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
 article_structure:
   article_count: 23
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:50Z'
   warnings: []
   errors: []
 ---
@@ -321,7 +350,7 @@ d) Aplica-se o disposto no artigo 17.º, na alínea b) do n.º 5 do artigo 18.º
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 17 de Fevereiro de 2009.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 17 de Fevereiro de 2009.
 
 ## ANEXO I — (referido no n.º 1 do artigo 10.º)
 
@@ -349,12 +378,12 @@ Unidades curriculares e respectivos créditos
 
 1.º período
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03800/0127701280.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03800/0127701280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03800/0127701280.pdf)
 
 2.º período
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03800/0127701280.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03800/0127701280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03800/0127701280.pdf)
 
 3.º período
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03800/0127701280.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03800/0127701280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03800/0127701280.pdf)

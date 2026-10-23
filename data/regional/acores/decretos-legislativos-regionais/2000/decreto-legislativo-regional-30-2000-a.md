@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/185a00/39453949.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/30/2000/08/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2000-340616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcbcfafd66fe6e2162474f6ee61d557c57000bdb3b4e44cc52137a060cd50001
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41fe39e581b68cc044e88f348f1bfd3575cfc6ed81cf45bb8f9212cb6ff59bec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Formação Profissional
+- Açores
 - Contrato Programa
 - Criação de Serviços
+- Direcção Regional de Educação
 - Ensino Profissional
 - Escola Profissional
-- FSE
-- Direcção Regional de Educação
-- Política de Educação
 - Estabelecimento de Ensino
+- Financiamento
+- Formação Profissional
+- FSE
 - Pessoal Docente
+- Política de Educação
 - Qualificação Profissional
 - Regime Jurídico
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:583787:por
@@ -93,16 +93,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/21/1997/11/04/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/21/1997/11/04/a/dre
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:583787:por
+  label: "Revogado pelo DLR.26/2005/A.17.10.2005.AL-RAA, DR.IS-A [212] de 04.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2005-583787
+  date: '2005-10-17'
 article_structure:
-  article_count: 24
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:21Z'
   warnings: []
   errors: []
 ---
@@ -127,11 +140,15 @@ Na sua aplicação à Região Autónoma dos Açores, os artigos 1.º, 2.º, 3.º
 
 [...]
 
-###### Artigo 1.º — [...]
+Artigo 1.º
+
+[...]
 
 O presente diploma estabelece, na Região Autónoma dos Açores, o regime de criação, organização e funcionamento de escolas e cursos profissionalizantes e cursos profissionais no âmbito do ensino não superior.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -143,11 +160,15 @@ O presente diploma estabelece, na Região Autónoma dos Açores, o regime de cri
 
 5 - As escolas profissionais criadas pelo Governo Regional são estabelecimentos de ensino públicos e regem-se pelo estabelecido no diploma que as criar e, subsidiariariamente, pelo regime de autonomia, administração e gestão dos estabelecimentos dos ensinos básico e secundário da Região Autónoma dos Açores.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 No desempenho da sua actividade, as escolas profissionais estão sujeitas à tutela científica, pedagógica e funcional da secretaria regional que tutela a educação, através da Direcção Regional da Educação.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -155,11 +176,17 @@ No desempenho da sua actividade, as escolas profissionais estão sujeitas à tut
 
 3 - Às escolas profissionais públicas aplica-se o regime de autonomia que estiver estabelecido no diploma que as crie ou, quando tal regime não for estabelecido por aquele diploma, o regime aplicável às escolas secundárias oficiais do ensino regular da Região Autónoma dos Açores.
 
-### CAPÍTULO II — [...]
+CAPÍTULO II
 
-#### SECÇÃO I — [...]
+[...]
 
-###### Artigo 6.º — [...]
+SECÇÃO I
+
+[...]
+
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -179,7 +206,9 @@ b) Para os de nível II, do 5.º ano ao 9.º ano de escolaridade;
 
 c) Para os de nível III, o 9.º ano de escolaridade.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os cursos profissionalizantes e profissionais são organizados em módulos de duração variável, combináveis entre si, segundo níveis de escolaridade e de qualificação profissional progressivamente mais elevados.
 
@@ -203,7 +232,9 @@ c) ...
 
 8 - Os planos de estudo devem incluir componentes de formação sócio-cultural, científica, científico-tecnológica, técnica, artística e prática em proporção e combinação variáveis, consoante as áreas de actividade contempladas e os níveis de qualificação profissional que conferem.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -211,13 +242,17 @@ c) ...
 
 3 - O sistema e os critérios gerais de avaliação dos cursos profissionalizantes, bem como a natureza da prova final de avaliação e a composição do respectivo júri, são definidos por portaria do secretário regional que tutela a educação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - São possíveis, respeitando os requisitos de creditação aplicáveis, transferências entre os cursos profissionalizantes ou profissionais e o ensino regular, e vice-versa.
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -249,7 +284,9 @@ c) ...
 
 5 - Para as escolas profissionais públicas, o número de alunos a admitir em cada curso e as condições de admissão são fixados por portaria do secretário regional que tutela a educação.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -257,11 +294,17 @@ c) ...
 
 3 - As escolas profissionais são obrigadas a ter um projecto educativo de escola, aprovado pelo seu órgão técnico-pedagógico, nos termos que estiverem fixados nos seus estatutos ou, no caso das escolas públicas, na regulamentação que lhes seja aplicável.
 
-### CAPÍTULO III — [...]
+CAPÍTULO III
 
-#### SECÇÃO I — [...]
+[...]
 
-###### Artigo 14.º — [...]
+SECÇÃO I
+
+[...]
+
+Artigo 14.º
+
+[...]
 
 1 - As escolas profissionais privadas carecem de autorização prévia de funcionamento por parte do secretário regional que tutela a educação.
 
@@ -287,7 +330,9 @@ g) Estar acreditada, nos termos legais e regulamentares aplicáveis, como entida
 
 5 - Na definição da rede de oferta de formação, a secretaria regional que tutela a educação deve ter em consideração, entre outros factores, a oferta das escolas profissionais cujo funcionamento foi autorizado nos termos do presente diploma.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -295,9 +340,13 @@ g) Estar acreditada, nos termos legais e regulamentares aplicáveis, como entida
 
 3 - Os estatutos são obrigatoriamente publicados na 3.ª série do Jornal Oficial e devem ser dados a conhecer a todo o pessoal do estabelecimento, bem como aos alunos e encarregados de educação.
 
-#### SECÇÃO II — [...]
+SECÇÃO II
 
-###### Artigo 16.º — [...]
+[...]
+
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -329,7 +378,9 @@ m) ...
 
 3 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -351,7 +402,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -361,9 +414,13 @@ a) ...
 
 b) Dar parecer sobre os cursos profissionalizantes e os cursos profissionais e outras actividades de formação.
 
-#### SECÇÃO III — [...]
+SECÇÃO III
 
-###### Artigo 19.º — [...]
+[...]
+
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -381,7 +438,9 @@ e) ...
 
 f) ...
 
-###### Artigo 20.º — Contratos-programa com a administração regional autónoma
+Artigo 20.º
+
+Contratos-programa com a administração regional autónoma
 
 1 - Os contratos-programa a celebrar entre a administração regional autónoma e as escolas profissionais têm por fim possibilitar a frequência, por parte dos alunos, dos cursos profissionais em condições idênticas àquelas em que frequentariam o ensino regular.
 
@@ -411,15 +470,21 @@ f) Não admitir nos cursos objecto do contrato-programa outros alunos para além
 
 8 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A alienação do património adquirido, no todo ou em parte através de financiamento público, fica condicionada a autorização prévia do secretário regional que tutela a educação.
 
 2 - No caso da alienação do património adquirido através do financiamento público, ou no caso de extinção da actividade da escola, reverte a favor da Região Autónoma dos Açores o valor correspondente à parte coberta por investimento público, incluindo o comunitário.
 
-#### SECÇÃO IV — [...]
+SECÇÃO IV
 
-###### Artigo 23.º — [...]
+[...]
+
+Artigo 23.º
+
+[...]
 
 1 - Verificado o incumprimento dos requisitos referidos no n.º 2 do artigo 14.º ou sempre que o funcionamento da escola decorra em condições de manifesta degradação pedagógica, comprovada pela Direcção Regional da Educação, é revogada a autorização de funcionamento.
 
@@ -431,9 +496,13 @@ f) Não admitir nos cursos objecto do contrato-programa outros alunos para além
 
 5 - ...
 
-### CAPÍTULO V — [...]
+CAPÍTULO V
 
-###### Artigo 30.º — [...]
+[...]
+
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -475,10 +544,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 7 de Junho de 2000.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 10 de Julho de 2000.**
+Assinado em Angra do Heroísmo em 10 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

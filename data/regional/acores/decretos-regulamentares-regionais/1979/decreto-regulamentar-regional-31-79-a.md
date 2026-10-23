@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1979, 17º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 17º Suplemento
+  supplement: null
   pages: 3478-(392) a 3478-(403)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf
 entry_into_force_dates: []
@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1979-230912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 005c3328e59faf4121d56bd524c9bae865f8ae21fa017d86fe438a243fa1c3d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 704cf8ab52430008612af16f717faca0b290bcf9ee5d13c2a897cd83a61670e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Contabilidade Pública
+- Despesas Públicas
+- Dotação Orçamental
+- Execução do Orçamento
+- Orçamento Regional
+- Receita Pública
+- Receita Regional
+relationships:
+- type: cites
+  target: pt:dre:138293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:59Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +148,7 @@ As necessidades de financiamento para 1980 elevar-se-ão a 3124000 contos, o que
 
 Síntese do orçamento da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
 
 II - Execução do orçamento da Região Autónoma dos Açores no período de Janeiro a Junho de 1979
 
@@ -162,7 +182,7 @@ Por outro lado, as despesas de capital realizadas por aquelas Secretarias Region
 
 No que concerne às despesas de capital e ainda no quadro da óptica da classificação económica, 96% respeitam a investimentos do Plano, o que relativamente a 1978 denota um acréscimo de 21%, ou seja, mais 41000 contos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
 
 III - Previsão de receitas
 
@@ -198,7 +218,7 @@ Uma referência ainda para a diminuição previsível do produto da cobrança da
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
 
 IV - Previsão das despesas
 
@@ -232,7 +252,7 @@ No âmbito das despesas do Plano deve salientar-se que, de acordo com os seus ob
 
 Por fim, uma referência às contas de ordem, que incluem 120000 contos destinados às juntas autónomas dos portos da Região, 45000 contos para o Fundo Regional de Abastecimentos e 60000 contos como consignação de receitas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
 
 V - Financiamento de «deficit» orçamental
 
@@ -426,18 +446,18 @@ Secretário Regional das Finanças emitirá os regulamentos que se mostrem neces
 
 Aprovado pelo Governo Regional em 18 de Dezembro de 1979.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 28 de Janeiro de 1980.**
+Assinado em Angra do Heroísmo em 28 de Janeiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 ## ANEXO I — Resumo da receita por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
 
 ## ANEXO II — Resumo da despesa por Secretarias Regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30017/03920403.pdf)

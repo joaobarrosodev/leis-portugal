@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/1994/05/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1994-301245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5d4ea18806baafde0bc6ce9d8896f6645150e4d99549b47fbec0d06bbc0af1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b534d7e3d2a14a7a0a8a691936d34f3b6573dc262e6488e5665c1aa7a57ef2ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,30 @@ reuse:
 subjects:
 - Agência de Turismo
 - Alvará
-- Garantia
-- Turismo
-- Multa
+- Comércio
 - Contra-ordenação
+- Garantia
 - Licenciamento
 - Madeira.região Autónoma
+- Multa
 - Sanção Económica
 - Seguro Obrigatório de Responsabilidade Civil
-- Comércio
+- Turismo
 relationships:
 - type: cites
   target: celex:31990L0314
   label: null
   source: http://data.europa.eu/eli/dir/1990/314/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:56Z'
   warnings: []
   errors: []
 ---
@@ -112,22 +112,22 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição da República, decreta o seguinte:
 
-###### Artigo 1.º Na Região Autónoma da Madeira aplica-se o disposto no Decreto-Lei n.º 198/93, de 27 de Maio, e no Decreto Regulamentar n.º 24/93, de 19 de Julho, com as adaptações constantes dos artigos seguintes.
+Artigo 1.º Na Região Autónoma da Madeira aplica-se o disposto no Decreto-Lei n.º 198/93, de 27 de Maio, e no Decreto Regulamentar n.º 24/93, de 19 de Julho, com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º As competências atribuídas pelos decretos ora adaptados aos órgãos centrais de turismo serão exercidas na Região pelos correspondentes órgãos do Governo Regional.
+Art. 2.º As competências atribuídas pelos decretos ora adaptados aos órgãos centrais de turismo serão exercidas na Região pelos correspondentes órgãos do Governo Regional.
 
-###### Art. 3.º - 1 - A garantia das obrigações referidas no artigo 43.º do Decreto-Lei n.º 198/93, de 27 de Maio, pode ser prestada mediante caução de grupo, cujos termos serão aprovados por portaria conjunta dos Secretários Regionais das Finanças e do Turismo e Cultura.
+Art. 3.º - 1 - A garantia das obrigações referidas no artigo 43.º do Decreto-Lei n.º 198/93, de 27 de Maio, pode ser prestada mediante caução de grupo, cujos termos serão aprovados por portaria conjunta dos Secretários Regionais das Finanças e do Turismo e Cultura.
 
 2 - O montante das taxas previstas no artigo 60.º do referido decreto-lei será igualmente fixado por portaria conjunta daqueles dois membros do Governo Regional.
 
-###### Art. 4.º As importâncias das coimas e das taxas mencionadas nos artigos 57.º e 60.º do Decreto-Lei n.º 198/93, de 27 de Maio, reverterão na totalidade para os cofes da Região Autónoma da Madeira.
+Art. 4.º As importâncias das coimas e das taxas mencionadas nos artigos 57.º e 60.º do Decreto-Lei n.º 198/93, de 27 de Maio, reverterão na totalidade para os cofes da Região Autónoma da Madeira.
 
-###### Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em sessão plenária de 28 de Abril de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 13 de Maio de 1994.**
+Assinado em 13 de Maio de 1994.
 
-**O Ministro da República para a Região Autonóma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autonóma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

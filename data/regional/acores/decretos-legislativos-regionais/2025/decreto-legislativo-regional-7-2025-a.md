@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/02200/0002600065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2025/01/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2025-905621676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a11ff92fa0cd07ad8ebb060cd1385fb19d35265761567b38468b59e875c85711
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f44a1ccc8f3adfed113e9dfe3c8885401ca4fb6e956ffec7e1875a1b1852d6da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - BENS Classificados
 - ILHA de são Miguel
 - Ordenamento do Território
 - Parque Natural da Ilha de São Miguel
-- Proteção do Ambiente
-- Zona de Proteção
 - Património Natural
+- Proteção do Ambiente
 - Reserva Natural
-- Açores
+- Zona de Proteção
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:19/2008/A
+  label: Altera, a partir de 1 de fevereiro de 2025, os artigos 15.º, 30.º e 46.º, revoga o n.º 3 do artigo 46.º e republica
+    o Decreto Legislativo Regional n.º 19/2008/A, de 8 de julho, Diário da República n.º 130/2008, Série I
+  source: null
+  date: '2008-07-08'
 - type: cites
   target: eli:http://data.dre.
   label: null
@@ -116,16 +122,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/3/2005/02/16/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/3/2005/02/16/a/dre
+- type: cites
+  target: pt:dre:268421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 55
+  article_count: 53
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:22Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +326,9 @@ q) Entrada e saída de embarcações de pesca.
 
 7 - [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -224,7 +336,7 @@ q) Entrada e saída de embarcações de pesca.
 
 3 - [...]
 
-4 - Para efeitos do disposto no número anterior e quanto ao regime estatuído pelos n.<sup>os</sup>3 e 4 do artigo 15.º, ficam excecionadas de aplicação à área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo, as regras que decorrem das alíneas c), n), p) e q) do n.º 3 e d) e i) do n.º 4 do citado artigo, sem prejuízo do disposto nas alíneas seguintes:
+4 - Para efeitos do disposto no número anterior e quanto ao regime estatuído pelos n.os3 e 4 do artigo 15.º, ficam excecionadas de aplicação à área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo, as regras que decorrem das alíneas c), n), p) e q) do n.º 3 e d) e i) do n.º 4 do citado artigo, sem prejuízo do disposto nas alíneas seguintes:
 
 a) A interdição prevista na alínea p) do n.º 3 do artigo 15.º aplica-se à área protegida para a gestão de habitats ou espécies do ilhéu de Vila Franca do Campo, cujos limites estão representados nos anexos ii e iii pela sigla SMG06, e à Zona Especial de Conservação da Caloura - Ponta da Galera, cujos limites estão representados nos anexos i e ii da Resolução do Conselho do Governo Regional n.º 30/1998, de 5 de fevereiro, pela sigla PTMIG0020;
 
@@ -236,7 +348,9 @@ b) A excecionalidade de aplicação da interdição prevista na alínea q) do n.
 
 7 - [...]
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...]
 
@@ -258,11 +372,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de dezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 27 de janeiro de 2025.**
+Assinado em Angra do Heroísmo em 27 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -730,7 +844,7 @@ c) A instalação, afixação, inscrição ou pintura mural de mensagens de publ
 
 d) A exploração e extração de massas minerais e a instalação de novas explorações de recursos geológicos.
 
-4 - Na área protegida para a gestão de habitats ou espécies da serra de Água de Pau aplica-se o regime definido quanto a atos e atividades interditos e condicionados definidos nos n.<sup>os</sup>2 e 3 do artigo 8.º e no âmbito abrangido pelos limites territoriais definidos no anexo iii referido no n.º 2 do artigo 3.º, quanto à área protegida da Reserva Natural da Lagoa do Fogo.
+4 - Na área protegida para a gestão de habitats ou espécies da serra de Água de Pau aplica-se o regime definido quanto a atos e atividades interditos e condicionados definidos nos n.os2 e 3 do artigo 8.º e no âmbito abrangido pelos limites territoriais definidos no anexo iii referido no n.º 2 do artigo 3.º, quanto à área protegida da Reserva Natural da Lagoa do Fogo.
 
 5 - Os limites territoriais da área protegida para a gestão de habitats ou espécies da serra de Água de Pau estão representados no anexo ii pela sigla SMG07.
 
@@ -986,9 +1100,9 @@ Ilhéu de Vila Franca do Campo
 
 2 - A área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo integra no seu âmbito a área protegida para a gestão de habitats ou espécies do ilhéu de Vila Franca do Campo referida no artigo 15.º do presente diploma e áreas de especial interesse ambiental da faixa litoral terrestre e marinha entre Água de Pau e ribeira das Tainhas, incluindo o SIC da Caloura - Ponta da Galera, da área de intervenção do POOC da Costa Sul da Ilha de São Miguel.
 
-3 - Na área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo, aplica-se cumulativamente com o regime previsto nos n.<sup>os</sup>3 e 4 do artigo 15.º do presente diploma o regime decorrente do POOC da Costa Sul da Ilha de São Miguel e, supletivamente, os regimes estabelecidos pelos planos municipais de ordenamento do território, sem prejuízo do disposto nos números seguintes.
+3 - Na área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo, aplica-se cumulativamente com o regime previsto nos n.os3 e 4 do artigo 15.º do presente diploma o regime decorrente do POOC da Costa Sul da Ilha de São Miguel e, supletivamente, os regimes estabelecidos pelos planos municipais de ordenamento do território, sem prejuízo do disposto nos números seguintes.
 
-4 - Para efeitos do disposto no número anterior e quanto ao regime estatuído pelos n.<sup>os</sup>3 e 4 do artigo 15.º, ficam excecionadas de aplicação à área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo, as regras que decorrem das alíneas c), n), p) e q) do n.º 3 e d) e i) do n.º 4 do citado artigo, sem prejuízo do disposto nas alíneas seguintes:
+4 - Para efeitos do disposto no número anterior e quanto ao regime estatuído pelos n.os3 e 4 do artigo 15.º, ficam excecionadas de aplicação à área protegida de gestão de recursos da Caloura - ilhéu de Vila Franca do Campo, as regras que decorrem das alíneas c), n), p) e q) do n.º 3 e d) e i) do n.º 4 do citado artigo, sem prejuízo do disposto nas alíneas seguintes:
 
 a) A interdição prevista na alínea p) do n.º 3 do artigo 15.º aplica-se à área protegida para a gestão de habitats ou espécies do ilhéu de Vila Franca do Campo, cujos limites estão representados nos anexos ii e iii pela sigla SMG06, e à Zona Especial de Conservação da Caloura - Ponta da Galera, cujos limites estão representados nos anexos i e ii da Resolução do Conselho do Governo Regional n.º 30/1998, de 5 de fevereiro, pela sigla PTMIG0020;
 
@@ -1072,7 +1186,7 @@ a) A realização de eventos culturais;
 
 b) O combate, por qualquer modo, a espécies infestantes e pragas.
 
-5 - Na área protegida de gestão de recursos da Ponta da Ferraria - Ponta da Bretanha, aplicam-se, cumulativamente, os regimes previstos nos n.<sup>os</sup>4 do artigo 21.º e 4 do artigo 24.º do presente diploma, o regime decorrente do POOC da Costa Norte da Ilha de São Miguel e, supletivamente, os regimes estabelecidos pelos planos municipais de ordenamento do território.
+5 - Na área protegida de gestão de recursos da Ponta da Ferraria - Ponta da Bretanha, aplicam-se, cumulativamente, os regimes previstos nos n.os4 do artigo 21.º e 4 do artigo 24.º do presente diploma, o regime decorrente do POOC da Costa Norte da Ilha de São Miguel e, supletivamente, os regimes estabelecidos pelos planos municipais de ordenamento do território.
 
 6 - Os limites territoriais da área protegida de gestão de recursos da Ponta da Ferraria - Ponta da Bretanha estão representados no anexo ii pela sigla SMG23.
 
@@ -1108,7 +1222,7 @@ f) Avaliação sistemática dos resultados.
 
 4 - A prossecução da gestão do Parque Natural em regime de parceria público-privada carece de aprovação do Conselho do Governo Regional e é realizada nos termos da lei geral da contratação pública e do regime jurídico específico das mesmas.
 
-5 - A gestão do Parque Natural em regime de parceria público-privada pode abranger a totalidade ou apenas algumas das áreas protegidas que o integram ou destinar-se à execução total ou parcial dos planos de gestão, nos termos definidos nos n.<sup>os</sup>2, 3 e 7 do artigo 43.º
+5 - A gestão do Parque Natural em regime de parceria público-privada pode abranger a totalidade ou apenas algumas das áreas protegidas que o integram ou destinar-se à execução total ou parcial dos planos de gestão, nos termos definidos nos n.os2, 3 e 7 do artigo 43.º
 
 6 - Com observância da lei geral da contratação pública, podem ser realizadas concessões a entidades públicas ou privadas ou ainda a associações científicas e associações sem fins lucrativos e de utilidade pública destinadas à gestão e ou exploração do Parque Natural ou de determinadas áreas ou recursos das áreas protegidas que o integram e, ainda, prosseguir formas de iniciativa business & biodiversity (B&B) da União Europeia.
 
@@ -1124,7 +1238,7 @@ b) O conselho consultivo.
 
 3 - O Parque Natural tem afeto aos seus serviços os meios humanos e financeiros necessários ao seu normal e regular funcionamento, nomeadamente para a prossecução das competências cometidas ao conselho de gestão.
 
-4 - A afetação de pessoal ao Parque Natural é realizada de acordo com o disposto nos Decretos Legislativos Regionais n.<sup>os</sup>[49/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/49-2006-545582), de 11 de dezembro, e [29/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2007-628779), de 10 de dezembro, sem prejuízo da aplicação do regime definido pela [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro.
+4 - A afetação de pessoal ao Parque Natural é realizada de acordo com o disposto nos Decretos Legislativos Regionais n.os[49/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/49-2006-545582), de 11 de dezembro, e [29/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2007-628779), de 10 de dezembro, sem prejuízo da aplicação do regime definido pela [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro.
 
 ###### Artigo 38.º — Conselho de gestão
 
@@ -1144,7 +1258,7 @@ b) O conselho consultivo.
 
 8 - O mandato dos titulares do conselho de gestão tem a duração de três anos, sendo renovável por iguais períodos de tempo.
 
-9 - À exoneração do conselho de gestão é aplicável o regime definido pelos n.<sup>os</sup>2 a 9 do artigo 20.º do [Decreto Legislativo Regional n.º 13/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2007-638174), de 5 de junho, com as necessárias adaptações.
+9 - À exoneração do conselho de gestão é aplicável o regime definido pelos n.os2 a 9 do artigo 20.º do [Decreto Legislativo Regional n.º 13/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2007-638174), de 5 de junho, com as necessárias adaptações.
 
 10 - O conselho de gestão reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo respetivo diretor, por sua iniciativa ou a pedido de um dos vogais.
 
@@ -1282,7 +1396,7 @@ b) A harmonização e compatibilização dos diversos regimes regulamentares que
 
 6 - A implementação e execução do plano de ordenamento de área protegida do Parque Natural pode ser cometida a uma estrutura de gestão que represente os serviços com competência em matéria de ambiente, de ordenamento do território e recursos hídricos, de ordenamento florestal e agrícola e as autarquias locais, sem prejuízo pelo disposto no número seguinte e no artigo 38.º
 
-7 - Sempre que o serviço com competência em matéria de ambiente o considere adequado, pode ser cometida à estrutura de gestão referida no número anterior apenas a execução de alguns planos de gestão do Parque Natural, referidos nos n.<sup>os</sup>2 e 3.
+7 - Sempre que o serviço com competência em matéria de ambiente o considere adequado, pode ser cometida à estrutura de gestão referida no número anterior apenas a execução de alguns planos de gestão do Parque Natural, referidos nos n.os2 e 3.
 
 ###### Artigo 44.º — Prazo de elaboração
 
@@ -1434,7 +1548,8 @@ Secções interiores
 
 (a que se refere o n.º 1 do artigo 3.º)
 
-![](https://files.diariodarepublica.pt/images/905621676/905510890.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905621676/905510890.png) |
+| --- |
 
 ## ANEXO III — Limites das categorias do Parque Natural da Ilha de São Miguel
 
@@ -1573,3 +1688,5 @@ Sul pelo paralelo 37°51,250’N.;
 Oeste pelo meridiano 25°51,655’W.;
 
 Este pela linha de costa e pelo meridiano 25°47,272’W.
+
+118620145

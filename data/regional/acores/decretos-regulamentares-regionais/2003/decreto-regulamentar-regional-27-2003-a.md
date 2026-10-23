@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/27/2003/08/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2003-633174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bf4950f441ed5c4e21f97375929bd72aa457d5a6393addd240614687ade018a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b0f5ca30d338091fba74ae69c7afb0df33e147b4ebc091be622b37614a332eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inspecção Geral das Actividades Culturais
+- Açores
+- Conselho Regional da Juventude
 - Definição de Competências
 - Direcção Regional da Cultura
 - Direcção Regional da Educação Física e Desporto
+- Direcção Regional da Juventude Emprego e Formação Profissional
+- Direcção Regional de Educação
 - Fundo Regional de Acção Cultural
 - Fundo Regional de Fomento do Desporto
+- Fundo Regional do Emprego
 - Gabinete da ZONA Classificada de Angra do Heroísmo
-- Secretaria Regional da Educação e Cultura
+- Inspecção Geral das Actividades Culturais
 - Inspecção Regional de Educação
+- Inspecção Regional do Trabalho
 - Integração de Trabalhadores
-- Direcção Regional de Educação
 - Orgânica
 - Pessoal Docente
 - Quadro de Pessoal
-- Conselho Regional da Juventude
-- Direcção Regional da Juventude Emprego e Formação Profissional
-- Fundo Regional do Emprego
-- Inspecção Regional do Trabalho
+- Secretaria Regional da Educação e Cultura
 - Serviço Regional de Conciliação e Arbitragem do Trabalho
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:167802:por
@@ -130,16 +130,119 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:138284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613426:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:167802:por
+  label: "Revogado pelo DRR.4/2006/A.19.12.2005.PG-RAA, DR.IS-B [8] de 11.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2006-167802
+  date: '2005-12-19'
+- type: repealed_by
+  target: pt:dre:168043:por
+  label: "Revogados os arts. 48.º a 58.º e o anexo V do presente diploma , pelo DRR.3/2006/A.19.12.2005.PG-RAA, DR.IS-B [7]\
+    \ de 10.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2006-168043
+  date: '2005-12-19'
 article_structure:
   article_count: 80
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 39
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:44Z'
   warnings: []
   errors: []
 ---
@@ -212,13 +315,13 @@ n) Despacho Normativo n.º 202/97, de 16 de Outubro.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 25 de Junho de 2003.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 28 de Julho de 2003.**
+Assinado em Angra do Heroísmo em 28 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — Orgânica da Secretaria Regional da Educação e Cultura
 
@@ -326,9 +429,13 @@ h) Fundo Regional de Acção Cultural (FRAC).
 
 4 - Compete à SREC providenciar o apoio logístico e administrativo necessário ao funcionamento do Conselho Regional de Concertação Estratégica.
 
-#### SECÇÃO II — Divisão de Apoio Técnico Administrativo
+#### SECÇÃO II
 
-###### Artigo 5.º — Divisão de Apoio Técnico Administrativo
+##### Divisão de Apoio Técnico Administrativo
+
+###### Artigo 5.º
+
+##### Divisão de Apoio Técnico Administrativo
 
 1 - A DATA é uma divisão de estudo, planeamento e organização à qual cabe apoiar o Gabinete do Secretário Regional da Educação e Cultura nos domínios da gestão dos recursos humanos, financeiros e patrimoniais e ainda assegurar a execução dos serviços de carácter administrativo comuns aos diversos órgãos e serviços da SREC.
 
@@ -384,7 +491,9 @@ c) Coordenar a actividade dos órgãos e serviços que integram as respectivas d
 
 d) Orientar os serviços dependentes da SREC nas suas áreas de competência.
 
-###### Artigo 7.º — Secção de apoio administrativo
+###### Artigo 7.º
+
+#### Secção de apoio administrativo
 
 1 - Em cada direcção regional funciona uma secção de apoio administrativo (SAA).
 
@@ -524,7 +633,9 @@ b) Divisão do Ensino Secundário e Profissional (DESP);
 
 c) Divisão de Avaliação e Inovação (DAI).
 
-###### Artigo 13.º — Divisão da Educação Pré-Escolar e do Ensino Básico
+###### Artigo 13.º
+
+##### Divisão da Educação Pré-Escolar e do Ensino Básico
 
 À DEPEB compete, nomeadamente:
 
@@ -564,7 +675,9 @@ q) Colaborar em programas que fomentem nos jovens o interesse pela solidariedade
 
 r) Emitir parecer sobre os assuntos a submeter a despacho superior e propor os normativos adequados.
 
-###### Artigo 14.º — Divisão do Ensino Secundário e Profissional
+###### Artigo 14.º
+
+##### Divisão do Ensino Secundário e Profissional
 
 À DESP compete, nomeadamente:
 
@@ -588,7 +701,9 @@ i) Elaborar e encaminhar os processos relativos às candidaturas de ingresso no 
 
 j) Emitir parecer sobre os assuntos a submeter a despacho superior e propor os normativos adequados.
 
-###### Artigo 15.º — Divisão de Avaliação e Inovação
+###### Artigo 15.º
+
+##### Divisão de Avaliação e Inovação
 
 À DAI compete, nomeadamente:
 
@@ -652,7 +767,9 @@ b) Divisão de Gestão do Pessoal não Docente (DGPND);
 
 c) Divisão de Formação Profissional (DFP).
 
-###### Artigo 17.º — Divisão de Gestão do Pessoal Docente
+###### Artigo 17.º
+
+##### Divisão de Gestão do Pessoal Docente
 
 À DGPD compete, nomeadamente:
 
@@ -674,7 +791,9 @@ h) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 i) Emitir parecer sobre as questões a submeter a despacho superior e propor os normativos adequados.
 
-###### Artigo 18.º — Divisão de Gestão do Pessoal não Docente
+###### Artigo 18.º
+
+##### Divisão de Gestão do Pessoal não Docente
 
 À DGPND compete, nomeadamente:
 
@@ -694,7 +813,9 @@ g) Estudar e avaliar os normativos em vigor, propondo as alterações adequadas 
 
 h) Emitir parecer sobre as questões a submeter a despacho superior e propor os normativos adequados.
 
-###### Artigo 19.º — Divisão de Formação Profissional
+###### Artigo 19.º
+
+##### Divisão de Formação Profissional
 
 Compete à DFP, nomeadamente:
 
@@ -758,7 +879,9 @@ b) Divisão de Infra-Estruturas e Equipamentos Escolares (DIEE);
 
 c) Divisão de Planeamento e Estatística (DPE).
 
-###### Artigo 22.º — Divisão de Gestão Financeira
+###### Artigo 22.º
+
+##### Divisão de Gestão Financeira
 
 À DGF compete, nomeadamente:
 
@@ -782,7 +905,9 @@ i) Controlar as contas correntes relativas a formadores e a quaisquer outras ent
 
 j) Emitir parecer sobre os assuntos a submeter a despacho superior e propor os normativos adequados.
 
-###### Artigo 23.º — Divisão de Infra-Estruturas e Equipamentos Escolares
+###### Artigo 23.º
+
+##### Divisão de Infra-Estruturas e Equipamentos Escolares
 
 À DIEE compete, nomeadamente:
 
@@ -800,7 +925,9 @@ f) Efectuar a aquisição de mobiliário e material didáctico, de acordo com as
 
 g) Emitir parecer sobre os assuntos a submeter a despacho superior e propor os normativos adequados.
 
-###### Artigo 24.º — Divisão de Planeamento e Estatística
+###### Artigo 24.º
+
+##### Divisão de Planeamento e Estatística
 
 À DPE compete, nomeadamente:
 
@@ -1018,7 +1145,9 @@ a) Divisão de Associativismo e de Programas Juvenis (DAPJ);
 
 b) Divisão de Informação Juvenil (DIJ).
 
-###### Artigo 33.º — Divisão de Associativismo e de Programas Juvenis
+###### Artigo 33.º
+
+##### Divisão de Associativismo e de Programas Juvenis
 
 Compete à DAPJ, designadamente:
 
@@ -1036,7 +1165,9 @@ f) Realizar e apoiar tecnicamente os programas de mobilidade juvenil;
 
 g) Promover o turismo juvenil.
 
-###### Artigo 34.º — Divisão de Informação Juvenil
+###### Artigo 34.º
+
+##### Divisão de Informação Juvenil
 
 1 - Compete à DIJ, designadamente:
 
@@ -1094,7 +1225,9 @@ b) Divisão dos Incentivos à Formação Profissional (DIFP);
 
 c) Divisão da Certificação, Inovação e Auditoria da Formação Profissional (DCIAFP).
 
-###### Artigo 36.º — Divisão dos Programas para o Emprego
+###### Artigo 36.º
+
+##### Divisão dos Programas para o Emprego
 
 Compete à DPE, nomeadamente:
 
@@ -1116,7 +1249,9 @@ h) Propor a definição de critérios de apreciação e selecção de projectos 
 
 i) Apoiar a criação de actividades geradoras de auto-emprego.
 
-###### Artigo 37.º — Divisão dos Incentivos à Formação Profissional
+###### Artigo 37.º
+
+##### Divisão dos Incentivos à Formação Profissional
 
 Compete à DIFP, designadamente:
 
@@ -1138,7 +1273,9 @@ h) Proceder a acções de divulgação sobre o Fundo Social Europeu;
 
 i) Zelar pelo cumprimento das orientações de gestão do Fundo Social Europeu e dos diplomas que a nível regional, nacional ou comunitário definam o acesso e a utilização dos apoios financeiros.
 
-###### Artigo 38.º — Divisão da Certificação, Inovação e Auditoria da Formação Profissional
+###### Artigo 38.º
+
+##### Divisão da Certificação, Inovação e Auditoria da Formação Profissional
 
 Compete à DCIAFP, nomeadamente:
 
@@ -1282,7 +1419,9 @@ b) A Secção Técnica das Relações de Trabalho (STRT).
 
 3 - A DST assegura o apoio técnico e administrativo ao SERCAT.
 
-###### Artigo 42.º — Divisão das Relações de Trabalho
+###### Artigo 42.º
+
+##### Divisão das Relações de Trabalho
 
 Compete, nomeadamente, à DRT:
 
@@ -1298,7 +1437,9 @@ e) Participar nos processos de despedimento colectivo, com vista a assegurar a r
 
 f) Propor as medidas necessárias e adequadas à antecipação, acompanhamento e superação de conflitos de trabalho.
 
-###### Artigo 43.º — Secção Técnica das Relações de Trabalho
+###### Artigo 43.º
+
+#### Secção Técnica das Relações de Trabalho
 
 Compete à STRT, designadamente:
 
@@ -1592,7 +1733,9 @@ a) A Divisão do Património Arquitectónico (DPA);
 
 b) A Divisão do Património Móvel (DPM).
 
-###### Artigo 52.º — Divisão de Património Arquitectónico
+###### Artigo 52.º
+
+##### Divisão de Património Arquitectónico
 
 À DPA compete:
 
@@ -1606,7 +1749,9 @@ d) Agir perante a desconformidade de actuação das entidades públicas ou priva
 
 e) Coordenar o inventário do património arquitectónico.
 
-###### Artigo 53.º — Divisão do Património Móvel
+###### Artigo 53.º
+
+##### Divisão do Património Móvel
 
 1 - Compete à DPM, designadamente:
 
@@ -1672,7 +1817,9 @@ a) A Divisão de Formação e Animação Cultural (DFAC);
 
 b) A Divisão de Leitura e de Bibliotecas (DLB).
 
-###### Artigo 55.º — Divisão de Formação e Animação Cultural
+###### Artigo 55.º
+
+##### Divisão de Formação e Animação Cultural
 
 À DFAC compete:
 
@@ -1710,7 +1857,9 @@ p) Conceber, executar ou coordenar planos de formação com vista a fomentar e a
 
 q) Conceber, executar ou coordenar planos de acção, em estreita interacção com os diferentes agentes e organizações não governamentais populares locais, com vista à dinamização das actividades culturais, tradicionais ou não, nas zonas rurais da Região.
 
-###### Artigo 56.º — Divisão de Leitura e Bibliotecas
+###### Artigo 56.º
+
+##### Divisão de Leitura e Bibliotecas
 
 À DLB compete:
 
@@ -1840,7 +1989,9 @@ a) A Divisão da Educação Física e Formação (DEFF);
 
 b) A Divisão do Desporto Escolar (DDE).
 
-###### Artigo 63.º — Divisão da Educação Física e Formação
+###### Artigo 63.º
+
+##### Divisão da Educação Física e Formação
 
 A DEFF exerce as suas competências relativamente à educação pré-escolar e aos ensinos básico e secundário, competindo-lhe, nomeadamente:
 
@@ -1860,7 +2011,9 @@ g) Definir e promover acções de formação técnico-pedagógicas e a produçã
 
 h) Coordenar a recolha, tratamento e divulgação de indicadores de referência e análise estatística da educação física e desporto escolar.
 
-###### Artigo 64.º — Divisão do Desporto Escolar
+###### Artigo 64.º
+
+##### Divisão do Desporto Escolar
 
 A DDE exerce as suas competências relativamente ao desporto escolar, competindo-lhe, nomeadamente:
 
@@ -1918,7 +2071,9 @@ a) A Divisão de Promoção e Formação Desportiva (DPFD);
 
 b) A Divisão do Desporto Rendimento (DDR).
 
-###### Artigo 66.º — Divisão de Promoção e Formação Desportiva
+###### Artigo 66.º
+
+##### Divisão de Promoção e Formação Desportiva
 
 Compete à DPFD:
 
@@ -1942,7 +2097,9 @@ i) Manter actualizada a carta das instalações desportivas artificiais;
 
 j) Propor, coordenar e apoiar a formação de agentes desportivos.
 
-###### Artigo 67.º — Divisão do Desporto Rendimento
+###### Artigo 67.º
+
+##### Divisão do Desporto Rendimento
 
 Compete à DDR:
 
@@ -2066,22 +2223,24 @@ Os requisitos para o ingresso e acesso na carreira de técnico profissional de e
 
 Compete ao técnico de promoção e divulgação de exposições e eventos culturais a criação e execução de trabalhos de designer, decoração de vitrinas, maquetas, expositores, stands, anunciadores de interiores e exteriores, concebendo e orientando a montagem de exposições de arte na área da criatividade, a promoção, a difusão, a animação e a divulgação cultural, a publicidade das edições e eventos culturais e a guarda e distribuição do património artístico dos serviços.
 
-## ANEXO II — Divisão de Apoio Técnico-Administrativo (DATA)
+## ANEXO II
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)
+##### Divisão de Apoio Técnico-Administrativo (DATA)
+
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)
 
 ## ANEXO III — Direcção Regional da Educação
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)
 
 ## ANEXO IV — Direcção Regional da Juventude, Emprego e Formação Profissional
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)
 
 ## ANEXO V — Direcção Regional da Cultura
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)
 
 ## ANEXO VI — Direcção Regional da Educação Física e Desporto
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)](https://files.diariodarepublica.pt/1s/2003/08/198b00/57075731.pdf)

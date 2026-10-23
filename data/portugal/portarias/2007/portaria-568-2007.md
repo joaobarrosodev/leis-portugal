@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/568/2007/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/568-2007-521178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a67328d968f0a84a5537a5f25aae3c9c8ad62984ec752e1aae969e27def7b28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c677687c888dd7cd2576f5453e51569eeb83ac4d4f99a1cf98296b24bbf2d8cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:520871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:27Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +117,4 @@ Ao abrigo do n.º 5 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepubli
 
 É fixado o limite máximo de seis unidades orgânicas flexíveis em cada direcção regional da economia.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 24 de Abril de 2007.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 24 de Abril de 2007.

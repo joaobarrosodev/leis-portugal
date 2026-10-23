@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 116/2009, 1º Suplemento, Série I de 2009-06-18
   number: '116'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4070-(2) a 4070-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11601/0000200003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/667-a/2009/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/667-a-2009-144021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28b2a275f285a5aceb5dc1d208bb5ef3b2d584e7b8a2d76577e3e92522297184
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e3eae46dcc669ef8a05527a65e2006edcc58af5c6a075616cd7b9ce21bd00fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
+- Direcção Regional de Agricultura e Pescas
+- Empresa
+- Exploração Florestal
+- Financiamento
+- IFAP
+- Microempresa
+- Plano de Desenvolvimento
 - Proder
 - Programa de Desenvolvimento Rural
-- Financiamento
-- Empresa
 - Regime Florestal
-- Direcção Regional de Agricultura e Pescas
-- Apoio ao Investimento
-- IFAP
-- Plano de Desenvolvimento
-- Exploração Florestal
-- Microempresa
 - Regulamento
 - Sector Florestal
 relationships:
@@ -85,6 +85,19 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 7º, 12º e 14º do Regulamento, aprovado pela Port 846/2008, de 12-Ago, na redacção do presente\
+    \ diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 20 e 22º do Regulamento de Aplicação da Acção n.º 1.3.3, «Modernização e Capacitação das Empresas\
+    \ Florestais», aprovado pela Port. n.º 846/2008, de 12-Ago, na redacção do presente diploma, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -93,16 +106,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/846/2008/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/846/2008/08/12/p/dre
+- type: repealed_by
+  target: pt:dre:498497:por
+  label: "Revogado, com efeitos a 28.08.2010, o n.º 37 do ponto «componentes um, dois, três e quatro - outros investimentos\
+    \ materiais e imateriais» do capítulo «despesas não elegíveis», do anexo II do Regulamento de Aplicação da Ação n.º 1.3.3\
+    \ «Modernização e Capacitação das Empresas Florestais», aprovado pela Port 846/2008 de 12-ago, alterado pelo presente\
+    \ diploma, pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013, nos termos do disposto no seu art. 20º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 article_structure:
-  article_count: 12
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:36Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +156,9 @@ a) ...
 
 b) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -145,7 +168,9 @@ b) ...
 
 4 - Sempre que a regra de cálculo da autonomia financeira e de cobertura do imobilizado pós-projecto prevista nas alíneas f) e g) do n.º 1 determine a necessidade de proceder a aumentos de capital próprio superiores ao valor total do investimento a realizar, considera-se cumprido o critério de elegibilidade se a comparticipação do beneficiário no investimento for financiada apenas com capital próprio e ou permanente.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os pedidos de apoio que cumpram os critérios de elegibilidade aplicáveis são avaliados de acordo com a aplicação dos seguintes factores:
 
@@ -159,7 +184,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e indicam, nomeadamente, o seguinte:
 
@@ -181,7 +208,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -193,7 +222,9 @@ h) ...
 
 5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 35 dias úteis a contar da data de recepção do parecer prevista no n.º 3.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A apresentação dos pedidos de pagamento efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
@@ -211,7 +242,9 @@ h) ...
 
 8 - ...
 
-###### Artigo 20.º — Análise dos pedidos de pagamento
+Artigo 20.º
+
+Análise dos pedidos de pagamento
 
 1 - ...
 
@@ -223,7 +256,9 @@ h) ...
 
 5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
@@ -231,7 +266,9 @@ h) ...
 
 3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -265,4 +302,4 @@ Despesas elegíveis e não elegíveis
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 17 de Junho de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 17 de Junho de 2009.

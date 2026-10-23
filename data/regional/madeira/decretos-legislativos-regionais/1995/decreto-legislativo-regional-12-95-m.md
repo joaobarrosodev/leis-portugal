@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/06/144a00/40984103.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/1995/06/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1995-475475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0877034663839a9a42ac8e730bd2b5f63bd4f53614d0c275cd274b92504a6ba1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 587bb50815f14c65b4c0b7d3f04baf6ebb7fb4a997d436dd42a3df8191dd1d9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Desenvolvimento Regional
-- Potram
 - Madeira.região Autónoma
+- Potram
 relationships:
 - type: amended_by
   target: pt:dre:206269671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147863:por
+  label: "Alterados os artºs 7º, 9º, 23º, 26º e 48º e aditados os artºs 19º-A, 45º-A e 49º-B do POTRAM, pelo DLR.9/97/M.1997.06.30.ALR-RAM\
+    \ DR.IS-A [164] de 1997.07.18\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-1997-147863
+  date: '1997-06-30'
+- type: amended_by
+  target: pt:dre:443952:por
+  label: "Determinada a manutenção em vigor, até à sua revisão obrigatória pelo Governo Regional, do plano regional de ordenamento\
+    \ do território aprovado pelo presente diploma, pelo DLR.43/2008/M.23.12.2008.AL-RAM, DR.IS [247] de 23.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/43-2008-443952
+  date: '2008-12-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/448/1991/11/29/p/dre
   label: null
@@ -81,16 +93,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:206269671:por
+  label: Revogado, a partir de 19.01.2023, pelo(a) Decreto Legislativo Regional n.º 9/2023/M - Diário da República n.º 13/2023,
+    Série I de 2023-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2023-206269671
+  date: '2023-01-18'
 article_structure:
   article_count: 50
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:02Z'
   warnings: []
   errors: []
 ---
@@ -119,15 +145,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária de 16 de Maio de 1995.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 30 de Maio de 1995.**
+Assinado em 30 de Maio de 1995.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 Plano para o Ordenamento do Território na Região Autónoma da Madeira
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 ###### Artigo 1.º — Objecto
 
@@ -171,7 +197,7 @@ g) A definição de zonas ordenadas de localização industrial, com adequado si
 
 h) A criação de condições inovadoras em matéria de equipamentos e de animação que permitam diferenciar o produto turístico da Região e aumentar-lhe a competitividade.
 
-# PARTE II — Ordenamento do território
+## PARTE II — Ordenamento do território
 
 ### CAPÍTULO I — Estruturação do território
 
@@ -503,7 +529,7 @@ d) Centros locais.
 
 2 - O Governo Regional deliberará sobre a hierarquia dos centros urbanos proposta nos estudos integrantes do POTRAM e constantes da planta de ordenamento.
 
-# PARTE III — Disposições administrativas e processuais
+## PARTE III — Disposições administrativas e processuais
 
 ###### Artigo 43.º — Processo de execução
 
@@ -531,4 +557,4 @@ Fica proibida a abertura de novos estabelecimentos com a designação usual de t
 
 A violação das disposições do POTRAM constitui contra-ordenação punível com coima, em termos a definir por legislação complementar.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/06/144a00/40984103.pdf))](https://files.diariodarepublica.pt/1s/1995/06/144a00/40984103.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/06/144a00/40984103.pdf)

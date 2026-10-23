@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2012/08/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d0a2479eefe55401d556d5af6e7e50eaf92cdba57bbea4c1baa12f556c4d4bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 714fdffb199d2eec6c0d220553dd60aa3f67b065762aaf59f9eb1e3900d525b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto da Carreira Docente
-- Pessoal Docente
 - Madeira.região Autónoma
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:115124397:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115124397:por
+  label: Alterado o art. 40.º do Estatuto da Carreira Docente da Região Autónoma da Madeira, aprovado pelo DLR 6/2008/M de
+    25-fev, na versão alterada e republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 7/2018/M - Diário
+    da República n.º 75/2018, Série I de 2018-04-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2018-115124397
+  date: '2018-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/41/2012/02/21/p/dre
   label: null
@@ -115,16 +122,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426691:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 186
+  article_count: 127
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:29Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +286,9 @@ Os artigos 1.º, 4.º, 5.º, 6.º, 8.º, 14.º, 20.º, 23.º, 25.º, 26.º, 28.�
 
 4 - Para efeitos do presente Estatuto, entende-se por 'escola' os estabelecimentos de educação, de ensino e instituições de educação especial.
 
-###### Artigo 4.º — Direitos profissionais
+Artigo 4.º
+
+Direitos profissionais
 
 1 - São garantidos ao pessoal docente os direitos estabelecidos, em geral, para os trabalhadores que exercem funções públicas, bem como os direitos profissionais decorrentes do presente Estatuto.
 
@@ -201,7 +314,9 @@ i) ...
 
 j) ...
 
-###### Artigo 5.º — Direito de participação no processo educativo
+Artigo 5.º
+
+Direito de participação no processo educativo
 
 1 - ...
 
@@ -211,7 +326,9 @@ j) ...
 
 4 - As direções das associações sindicais representativas dos docentes da RAM solicitam a dispensa de serviço docente dos seus membros à Secretaria Regional da Educação e Recursos Humanos, sem prejuízo da legislação nacional que lhes é aplicável.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +338,9 @@ b) ...
 
 2 - Para efeitos do disposto no número anterior, o direito à formação e informação para o exercício da função educativa pode também visar objetivos de reconversão profissional, bem como de mobilidade e progressão na carreira.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -233,7 +352,9 @@ c) Apoio e incentivo ao docente no tratamento, recuperação e reintegração so
 
 2 - ...
 
-###### Artigo 14.º — Deveres gerais
+Artigo 14.º
+
+Deveres gerais
 
 1 - O pessoal docente está obrigado ao cumprimento dos deveres estabelecidos, em geral, para os trabalhadores que exercem funções públicas.
 
@@ -267,7 +388,9 @@ n) ...
 
 o) ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -285,7 +408,9 @@ d) ...
 
 4 - A Secretaria Regional da Educação e Recursos Humanos coopera com os estabelecimentos de ensino superior que ministram a formação inicial, através da criação de condições para a realização de estágios pedagógicos nos estabelecimentos de educação e ensino dela dependentes.
 
-###### Artigo 23.º — Ações de formação contínua
+Artigo 23.º
+
+Ações de formação contínua
 
 1 - ...
 
@@ -293,7 +418,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -317,13 +444,17 @@ d) ...
 
 7 - Aos candidatos pode ser exigida a prova de domínio perfeito da língua portuguesa, a qual é obrigatória quando não tenham nacionalidade portuguesa, nos termos a regulamentar por portaria do Secretário Regional da Educação e Recursos Humanos.
 
-###### Artigo 26.º — Verificação dos requisitos físicos e psíquicos
+Artigo 26.º
+
+Verificação dos requisitos físicos e psíquicos
 
 1 - A verificação de alteração dos requisitos físicos e psíquicos necessários ao exercício da função docente e da existência de alcoolismo ou de toxicodependências é realizada pela junta médica convocada pela Secretaria Regional da Educação e Recursos Humanos, mediante solicitação do órgão de administração e gestão da escola.
 
 2 - ...
 
-###### Artigo 28.º — Estrutura
+Artigo 28.º
+
+Estrutura
 
 1 - Os quadros de pessoal docente da rede pública estruturam-se em:
 
@@ -335,7 +466,9 @@ c) Quadros de zona pedagógica.
 
 2 - Os quadros de pessoal docente de escolas abrangidos pelo presente Estatuto fixam dotações para a carreira docente, discriminadas por nível ou ciclo de ensino e grupo de recrutamento, de modo a conferir maior flexibilidade à gestão dos recursos humanos da docência.
 
-###### Artigo 29.º — Quadros de escola
+Artigo 29.º
+
+Quadros de escola
 
 1 - Os quadros de escola destinam-se a satisfazer as respetivas necessidades permanentes.
 
@@ -343,7 +476,9 @@ c) Quadros de zona pedagógica.
 
 3 - Para efeitos do processo de recrutamento e seleção do pessoal docente da Região, os quadros de agrupamento de escolas e de zona pedagógica a nível nacional são equiparados a quadros de zona pedagógica e os quadros de escola a quadros de escola desde que os docentes possuam habilitação profissional para os respetivos grupos de recrutamento.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Os quadros de zona pedagógica destinam-se a facultar a necessária flexibilidade à gestão dos recursos humanos no respetivo âmbito geográfico e a assegurar a satisfação de necessidades não permanentes das escolas, a substituição dos docentes dos quadros de escola, as atividades de educação extraescolar, o apoio a escolas que ministrem áreas curriculares específicas ou manifestem exigências educativas especiais, bem como garantir a promoção do sucesso educativo.
 
@@ -355,21 +490,29 @@ b) ...
 
 3 - O âmbito geográfico dos quadros de zona pedagógica e a respetiva dotação de lugares, a definir por ciclo ou nível de ensino e grupo de recrutamento, mediada a participação das organizações sindicais do pessoal docente, são fixados por portaria conjunta dos Secretários Regionais do Plano e Finanças e da Educação e Recursos Humanos.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 A revisão dos quadros de pessoal docente, mediada a participação das organizações sindicais do pessoal docente, é feita por portaria conjunta dos Secretários Regionais do Plano e Finanças e da Educação e Recursos Humanos ou por portaria do Secretário Regional da Educação e Recursos Humanos, consoante dessa alteração resulte ou não aumento dos valores totais globais.
 
-###### Artigo 32.º — Modalidades
+Artigo 32.º
+
+Modalidades
 
 1 - A relação jurídica de emprego do pessoal docente reveste, em geral, a forma de contrato por tempo indeterminado.
 
 2 - Nas situações previstas no artigo 36.º a relação jurídica de emprego reveste a forma de contrato a termo resolutivo.
 
-###### Artigo 33.º — Contrato por tempo indeterminado
+Artigo 33.º
+
+Contrato por tempo indeterminado
 
 O contrato por tempo indeterminado é celebrado no ingresso na carreira docente, sem prejuízo do disposto no artigo seguinte.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -401,7 +544,9 @@ O contrato por tempo indeterminado é celebrado no ingresso na carreira docente,
 
 15 - (Revogado.)
 
-###### Artigo 35.º — Ingresso na carreira
+Artigo 35.º
+
+Ingresso na carreira
 
 1 - O ingresso na carreira é efetuado, independentemente de quaisquer formalidades, no início do ano escolar subsequente à conclusão do período probatório com avaliação do desempenho igual ou superior a Bom e na situação referida no n.º 4.
 
@@ -411,7 +556,9 @@ O contrato por tempo indeterminado é celebrado no ingresso na carreira docente,
 
 4 - O docente ingressa imediatamente na carreira quando tenha obtido lugar de quadro mediante concurso e tenha anteriormente exercido funções docentes em regime de contrato, no mesmo nível de ensino e grupo de docência nos termos do n.º 2 do artigo 34.º e concluído o período probatório com avaliação do desempenho igual ou superior a Bom.
 
-###### Artigo 36.º — Contrato a termo resolutivo
+Artigo 36.º
+
+Contrato a termo resolutivo
 
 1 - O desempenho de funções docentes pode ser assegurado por contrato a termo resolutivo quando haja conveniência em confiar a técnicos especializados a regência de disciplinas tecnológicas, artísticas, vocacionais e de aplicação ou que constituam inovação pedagógica.
 
@@ -421,7 +568,9 @@ O contrato por tempo indeterminado é celebrado no ingresso na carreira docente,
 
 4 - Os princípios a que obedece a contratação de pessoal docente ao abrigo do número anterior são fixados por portaria conjunta dos Secretários Regionais do Plano e Finanças e da Educação e Recursos Humanos.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -493,7 +642,9 @@ l) [Anterior alínea l) do n.º 5.]
 
 m) [Anterior alínea m) do n.º 5.]
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -501,7 +652,9 @@ m) [Anterior alínea m) do n.º 5.]
 
 3 - O ingresso na carreira dos docentes portadores de habilitação profissional adequada faz-se no escalão correspondente ao tempo de serviço prestado em funções docentes e classificado com a menção qualitativa mínima de Bom, independentemente do título jurídico da relação de trabalho subordinado, de acordo com os critérios gerais de progressão, em termos a definir por portaria do membro do Governo responsável pela área da educação.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - A progressão na carreira docente consiste na alteração do índice remuneratório através da mudança de escalão.
 
@@ -545,7 +698,9 @@ SUBCAPÍTULO II
 
 Condições de progressão na carreira e regime de avaliação do desempenho
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Na contagem do tempo de serviço docente efetivo para efeitos de progressão na carreira são considerados os períodos referentes a requisição, destacamento e comissão de serviço no exercício de funções não docentes que revistam natureza técnico-pedagógica, com avaliação do desempenho igual ou superior a Bom durante o referido período.
 
@@ -555,7 +710,9 @@ Condições de progressão na carreira e regime de avaliação do desempenho
 
 4 - O disposto nos números anteriores não prejudica a aplicação de legislação própria que salvaguarde o direito de progressão na carreira de origem pelo exercício de determinados cargos ou funções.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -603,7 +760,9 @@ j) Promover a responsabilização do docente quanto ao exercício da sua ativida
 
 13 - (Revogado.)
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - A avaliação do desempenho é obrigatoriamente considerada para efeitos de:
 
@@ -615,7 +774,9 @@ c) Renovação do contrato a termo resolutivo.
 
 2 - O tempo de serviço dos docentes em regime de contrato a termo resolutivo que não satisfaça a verificação do requisito do período mínimo exigido para a avaliação de desempenho releva para todos os efeitos legais.
 
-###### Artigo 45.º — Âmbito e periodicidade
+Artigo 45.º
+
+Âmbito e periodicidade
 
 1 - A avaliação incide sobre as seguintes dimensões do desempenho do pessoal docente:
 
@@ -639,7 +800,9 @@ c) Formação contínua e desenvolvimento profissional.
 
 8 - (Revogado.)
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - A aquisição por docentes profissionalizados, integrados na carreira, do grau académico de mestre em domínio diretamente relacionado com a área científica que lecionem, em Ciências da Educação ou noutras áreas consideradas de interesse, confere direito à redução de um ano no tempo de serviço legalmente exigido para a progressão ao escalão seguinte desde que, em qualquer caso, na avaliação do desempenho docente lhes tenha sido sempre atribuída menção qualitativa igual ou superior a Bom.
 
@@ -649,7 +812,9 @@ c) Formação contínua e desenvolvimento profissional.
 
 4 - As características dos mestrados e doutoramentos a que se referem os n.os 1 e 2 são definidas por portaria do Secretário Regional da Educação e Recursos Humanos.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -683,19 +848,25 @@ j) ...
 
 6 - Os cursos a que se refere o n.º 1 do presente artigo serão definidos por despacho do Secretário Regional da Educação e Recursos Humanos.
 
-###### Artigo 55.º — Exercício de outras funções educativas
+Artigo 55.º
+
+Exercício de outras funções educativas
 
 1 - O docente que se encontre qualificado para o exercício de outras funções educativas, nos termos do artigo anterior, é obrigado ao desempenho efetivo dessas mesmas funções quando para tal tenha sido eleito, designado ou contratado, salvo nos casos em que, por despacho do Secretário Regional da Educação e Recursos Humanos, sejam reconhecidos motivos atendíveis e fundamentados que o incapacitem para aquele exercício.
 
 2 - ...
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - ...
 
 2 - O valor a que corresponde o índice 100 das escalas indiciárias e índices referidos nos números anteriores é fixado por portaria conjunta do Primeiro-Ministro e do membro do Governo responsável pela área das finanças.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -719,17 +890,23 @@ e) ...
 
 6 - ...
 
-###### Artigo 61.º — Concurso
+Artigo 61.º
+
+Concurso
 
 O concurso visa o preenchimento das vagas existentes nos quadros de escola ou de zona pedagógica, podendo constituir ainda um instrumento de mudança dos docentes de um para outro quadro.
 
-###### Artigo 62.º — Permuta
+Artigo 62.º
+
+Permuta
 
 1 - ...
 
 2 - O Secretário Regional da Educação e Recursos Humanos, por portaria, fixará as condições em que poderá ser autorizado o recurso à permuta.
 
-###### Artigo 63.º — Requisição
+Artigo 63.º
+
+Requisição
 
 1 - ...
 
@@ -755,11 +932,15 @@ h) [Anterior alínea g).]
 
 4 - ...
 
-###### Artigo 64.º — Destacamento
+Artigo 64.º
+
+Destacamento
 
 O destacamento de docentes é admitido para o exercício de funções docentes em escolas e funções não docentes que revistam natureza técnico-pedagógica, nos termos do artigo 42.º, para departamentos da Secretaria Regional da Educação e Recursos Humanos e outros serviços e associações, nos termos a regulamentar por portaria do Secretário Regional da Educação e Recursos Humanos.
 
-###### Artigo 67.º — Autorização da mobilidade
+Artigo 67.º
+
+Autorização da mobilidade
 
 1 - A autorização do destacamento, requisição, comissão de serviço e transferência de docentes é concedida por despacho do Secretário Regional da Educação e Recursos Humanos, após parecer do órgão de administração e gestão de escola a cujo quadro pertencem.
 
@@ -775,17 +956,23 @@ SUBCAPÍTULO II
 
 Exercício de funções docentes por outros trabalhadores em exercício de funções públicas
 
-###### Artigo 69.º — Exercício a tempo inteiro de funções docentes
+Artigo 69.º
+
+Exercício a tempo inteiro de funções docentes
 
 1 - O exercício a tempo inteiro em escolas públicas das funções docentes nos termos do n.º 2 do artigo 32.º do presente Estatuto pode ser assegurado por outros trabalhadores no exercício de funções públicas que preencham os requisitos legalmente exigidos para o efeito, quando não exista pessoal docente devidamente qualificado e mediante a supervisão didático-pedagógica por docente a designar pelo conselho pedagógico nos estabelecimentos de educação e escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário e pelo conselho escolar nas escolas do 1.º ciclo do ensino básico.
 
 2 - ...
 
-###### Artigo 70.º — [...]
+Artigo 70.º
+
+[...]
 
 A acumulação de cargo ou lugar da Administração Pública com o exercício de funções docentes em estabelecimentos de educação ou de ensino públicos, ao abrigo do disposto no artigo 27.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, só é permitida nas situações de contratação nos termos do n.º 2 do artigo 32.º do presente Estatuto quando não exista pessoal docente devidamente qualificado.
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - A componente não letiva do pessoal docente abrange a realização de trabalho a nível individual e a prestação de trabalho a nível da escola.
 
@@ -821,11 +1008,15 @@ a) ...
 
 b) ...
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 Sem prejuízo do disposto no artigo 75.º do presente Estatuto, o pessoal docente da educação pré-escolar, dos 1.º, 2.º e 3.º ciclos do ensino básico e do ensino secundário pode exercer funções em regime de tempo parcial, nos termos previstos para os demais trabalhadores em exercício de funções públicas.
 
-###### Artigo 82.º — Regime geral
+Artigo 82.º
+
+Regime geral
 
 1 - ...
 
@@ -837,7 +1028,9 @@ b) 'Dirigente e dirigente máximo' o órgão de administração e gestão da esc
 
 3 - ...
 
-###### Artigo 84.º — Período de férias
+Artigo 84.º
+
+Período de férias
 
 1 - ...
 
@@ -849,29 +1042,39 @@ b) 'Dirigente e dirigente máximo' o órgão de administração e gestão da esc
 
 5 - Não se verificando acordo, as férias serão marcadas pelo órgão de administração e gestão da escola, nos termos previstos no n.º 1.
 
-###### Artigo 85.º — Acumulação de férias
+Artigo 85.º
+
+Acumulação de férias
 
 As férias respeitantes a determinado ano podem, por conveniência de serviço ou por interesse do docente, ser gozadas no ano civil imediato, em acumulação com as vencidas neste, até ao limite de 40 dias úteis, salvaguardados os interesses da escola e mediante acordo do respetivo órgão de administração e gestão.
 
-###### Artigo 87.º — Interrupção da atividade
+Artigo 87.º
+
+Interrupção da atividade
 
 1 - Durante os períodos de interrupção da atividade letiva, a distribuição do serviço docente para cumprimento das necessárias tarefas de natureza pedagógica ou organizacional, designadamente as de avaliação e planeamento, consta de um plano elaborado pelo órgão de administração e gestão do estabelecimento da escola.
 
 2 - ...
 
-###### Artigo 89.º — Regresso ao serviço no decurso do ano escolar
+Artigo 89.º
+
+Regresso ao serviço no decurso do ano escolar
 
 1 - ...
 
 2 - O regresso ao serviço nos termos do número anterior depende de parecer favorável da junta médica convocada pela Secretaria Regional da Educação e Recursos Humanos.
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1 - Sem prejuízo das competências reconhecidas por lei à junta médica da Caixa Geral de Aposentações, a referência à junta médica prevista na lei geral e no presente Estatuto considera-se feita à junta médica convocada pela Secretaria Regional da Educação e Recursos Humanos.
 
 2 - Há ainda lugar a intervenção da junta médica convocada pela Secretaria Regional da Educação e Recursos Humanos nas situações de licença por gravidez de risco clínico previstas no n.º 1 do artigo 37.º do Código do Trabalho.
 
-###### Artigo 92.º — [...]
+Artigo 92.º
+
+[...]
 
 1 - O docente pode faltar dois dias úteis por mês, por conta do período de férias, até ao limite de sete dias úteis por ano.
 
@@ -881,7 +1084,9 @@ As férias respeitantes a determinado ano podem, por conveniência de serviço o
 
 4 - ...
 
-###### Artigo 93.º — [...]
+Artigo 93.º
+
+[...]
 
 1 - ...
 
@@ -907,7 +1112,9 @@ j) As ausências não superiores a quatro horas, uma vez por trimestre, para des
 
 2 - São ainda equiparadas a prestação efetiva de serviço a licença em situação de risco clínico durante a gravidez, licença por interrupção de gravidez, licença parental, em qualquer das modalidades, licença por adoção e parental complementar, em qualquer das modalidades.
 
-###### Artigo 94.º — Licença sem vencimento até 90 dias
+Artigo 94.º
+
+Licença sem vencimento até 90 dias
 
 1 - O docente com contrato por tempo indeterminado com, pelo menos, três anos de serviço docente pode requerer em cada ano civil licença sem vencimento até 90 dias, a gozar seguidamente.
 
@@ -917,7 +1124,9 @@ j) As ausências não superiores a quatro horas, uma vez por trimestre, para des
 
 4 - ...
 
-###### Artigo 96.º — Licença sem vencimento de longa duração
+Artigo 96.º
+
+Licença sem vencimento de longa duração
 
 1 - O docente com contrato por tempo indeterminado com, pelo menos, cinco anos de serviço docente efetivo pode requerer licença sem vencimento de longa duração.
 
@@ -931,13 +1140,17 @@ j) As ausências não superiores a quatro horas, uma vez por trimestre, para des
 
 6 - ...
 
-###### Artigo 97.º — Licença sabática
+Artigo 97.º
+
+Licença sabática
 
 1 - Ao docente com contrato por tempo indeterminado, com avaliação do desempenho igual ou superior a Bom e, pelo menos, oito anos de tempo de serviço ininterrupto no exercício de funções docentes pode ser concedida licença sabática, pelo período de um ano escolar até ao limite de duas, nas condições a fixar por portaria do Secretário Regional da Educação e Recursos Humanos.
 
 2 - ...
 
-###### Artigo 98.º — Dispensas para formação
+Artigo 98.º
+
+Dispensas para formação
 
 1 - Ao pessoal docente podem ser concedidas dispensas de serviço docente para participação em atividades de formação destinadas à respetiva atualização, nas condições a regulamentar por portaria do Secretário Regional da Educação e Recursos Humanos, com as especialidades previstas nos números seguintes.
 
@@ -949,7 +1162,9 @@ j) As ausências não superiores a quatro horas, uma vez por trimestre, para des
 
 5 - ...
 
-###### Artigo 99.º — Equiparação a bolseiro
+Artigo 99.º
+
+Equiparação a bolseiro
 
 1 - A concessão da equiparação a bolseiro ao pessoal docente com contrato por tempo indeterminado, com avaliação do desempenho igual ou superior a Bom e com pelo menos cinco anos de tempo de serviço ininterrupto no exercício de funções docentes rege-se pelo disposto nos Decretos-Leis n.os [272/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1988-378095), de 3 de agosto, e [282/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1989-618509), de 23 de agosto, com as especialidades constantes de portaria do Secretário Regional da Educação e Recursos Humanos, privilegiando-se matérias de interesse específico e áreas prioritárias para a Região.
 
@@ -961,7 +1176,9 @@ j) As ausências não superiores a quatro horas, uma vez por trimestre, para des
 
 5 - ...
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - Aos docentes integrados na carreira com a avaliação de desempenho mínima de Bom pode ser autorizada a acumulação do exercício de funções docentes em escolas com atividades de caráter ocasional que possam ser consideradas como complemento da atividade docente.
 
@@ -981,17 +1198,23 @@ c) ...
 
 6 - Em tudo o que não se encontrar especialmente previsto no presente Estatuto é aplicável o regime geral de acumulações e incompatibilidades dos trabalhadores em exercício de funções públicas.
 
-###### Artigo 101.º — [...]
+Artigo 101.º
+
+[...]
 
 Ao pessoal docente é aplicável o Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas, aprovado pela [Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de setembro, com as adaptações que a seguir se preveem.
 
-###### Artigo 102.º — Responsabilidade disciplinar
+Artigo 102.º
+
+Responsabilidade disciplinar
 
 1 - Os docentes são disciplinarmente responsáveis perante o órgão de administração e gestão da escola onde prestam funções e os docentes da educação especial em exercício de funções nas instituições de educação especial são disciplinarmente responsáveis perante o respetivo diretor técnico.
 
 2 - Os membros do órgão de administração e gestão das escolas são disciplinarmente responsáveis perante o diretor regional dos Recursos Humanos e da Administração Educativa.
 
-###### Artigo 104.º — [...]
+Artigo 104.º
+
+[...]
 
 1 - A instauração de processo disciplinar é da competência do órgão de administração e gestão da escola.
 
@@ -1021,7 +1244,9 @@ c) ...
 
 11 - O prazo previsto no n.º 1 do artigo 45.º do Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas pode ser prorrogado até ao final do ano letivo, sob proposta da entidade competente para instaurar o processo disciplinar ou do instrutor do processo e com os fundamentos previstos na lei.
 
-###### Artigo 105.º — [...]
+Artigo 105.º
+
+[...]
 
 1 - A aplicação da pena de repreensão escrita é da competência do órgão de administração e gestão da escola.
 
@@ -1029,7 +1254,9 @@ c) ...
 
 3 - A aplicação das penas expulsivas é da competência do Secretário Regional da Educação e Recursos Humanos.
 
-###### Artigo 109.º — [...]
+Artigo 109.º
+
+[...]
 
 1 - Sem prejuízo do disposto nos n.os 2 e 3, a contagem do tempo de serviço do pessoal docente, incluindo o prestado em regime de tempo parcial, considerado para efeitos de antiguidade, obedece às regras gerais aplicáveis aos demais trabalhadores em exercício de funções públicas.
 
@@ -1037,7 +1264,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 110.º — [...]
+Artigo 110.º
+
+[...]
 
 1 - O ingresso na carreira dos docentes oriundos do ensino particular e cooperativo efetua-se para o escalão da carreira que lhes competiria caso tivessem ingressado nas escolas da rede pública desde que verificados os requisitos de tempo de serviço nos termos do presente Estatuto, em termos a definir por portaria do Secretário Regional da Educação e Recursos Humanos.
 
@@ -1049,7 +1278,7 @@ O anexo i do Estatuto passa a ter a seguinte redação:
 
 Índices remuneratórios a que se referem os n.os 2 do artigo 37.º e 1 do artigo 56.º do Estatuto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16700/0486604897.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16700/0486604897.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16700/0486604897.pdf)
 
 ###### Artigo 4.º — Transição de carreira docente
 
@@ -1225,11 +1454,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 25 de julho de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 8 de agosto de 2012.**
+Assinado em 8 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -2561,4 +2790,4 @@ Em tudo o que não esteja especialmente regulado e não contrarie o disposto no 
 
 Índices remuneratórios a que se referem os n.os 2 do artigo 37.º e 1 do artigo 56.º do Estatuto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16700/0486604897.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16700/0486604897.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/16700/0486604897.pdf)

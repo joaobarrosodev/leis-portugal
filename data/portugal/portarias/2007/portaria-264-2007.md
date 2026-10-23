@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05000/15571558.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/264/2007/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-2007-518447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 198c0d601b95c62ab61130b8d447d7406d3c8e2dab9a10baedd4c492cf6fa1ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92f34f0f3f31ef5bc1b685f69c3fd5e44c71aab241e663806e9c9dd5593eb69f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,16 +87,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/114/2004/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/114/2004/01/29/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589695:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:309292:por
+  label: "Revogada, a partir de 07.11.2010. e extinta a zona de caça associativa concessionada pela Port. 114/2004, de 29-Jan,\
+    \ na redacção da presente portaria, pela PORT.1136/2010.02.11.2010.MADRP, DR.IS [212] de 02.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1136-2010-309292
+  date: '2010-11-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:21Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +141,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 15 de Fevereiro de 2007. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 18 de Janeiro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05000/15571558.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05000/15571558.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05000/15571558.pdf)

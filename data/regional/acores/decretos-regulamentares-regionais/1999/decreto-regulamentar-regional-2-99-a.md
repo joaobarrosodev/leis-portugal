@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/02/029b00/06520655.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/1999/02/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1999-185338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 819bf5e80f999ac697ddbbadec6bb3a29edab2229ac4f4d25fc93a6a94307590
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15cc6179c76e112dfbdcf5203ed1bfc9bb44dc7732a3dd0b9c3b5bedaffcc12a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Regional
 - Desempregado
+- Desemprego
 - Empresa Privada
 - IPSS
 - Programa Berço de Emprego
-- Desemprego
 - Proteção no Desemprego
-- Administração Regional
-- Açores
 - Subsídio de Desemprego
 - Trabalho Temporário
 relationships:
@@ -80,20 +80,54 @@ relationships:
   target: pt:dre:249783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:479600:por
+  label: "Mantido transitoriamente em vigor pelo DLR.28/2004/A.24.08.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004, nos termos\
+    \ do disposto no nº 1 do art. 29º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2004-479600
+  date: '2004-08-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/418/1993/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/418/1993/12/24/p/dre
+- type: cites
+  target: pt:dre:399672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:249782:por
+  label: "Revogadas as disposições relativas à substituição temporária de trabalhadoras em licença de maternidade, constantes\
+    \ do presente Decreto pelo DRR.8/2008/A.07.05.2008.PG-RAA, DR.IS [88] de 07.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2008-249782
+  date: '2008-05-07'
+- type: repealed_by
+  target: pt:dre:249783:por
+  label: "Revogado o presente diploma, mantido transitoriamente em vigor pelo DLR 28/2004/A, de 24-Ago, pelo DRR.9/2008/A.07.05.2008.PG-RAA,\
+    \ DR.IS [88] de 07.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2008-249783
+  date: '2008-05-07'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:08Z'
   warnings: []
   errors: []
 ---
@@ -240,7 +274,7 @@ b) Se os trabalhadores estão afectados a fins diferentes dos acordados por part
 
 ###### Artigo 15.º — Delegação de competências
 
-**O Secretário Regional da Educação e Assuntos Sociais pode delegar as competências conferidas pelo presente diploma no director regional da Juventude, Emprego e Formação Profissional com faculdade de subdelegação no director de serviços do Emprego.**
+O Secretário Regional da Educação e Assuntos Sociais pode delegar as competências conferidas pelo presente diploma no director regional da Juventude, Emprego e Formação Profissional com faculdade de subdelegação no director de serviços do Emprego.
 
 ###### Artigo 16.º — Regulamentação
 
@@ -262,10 +296,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 16 de Novembro de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 30 de Dezembro de 1998.**
+Assinado em Angra do Heroísmo em 30 de Dezembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

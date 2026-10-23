@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/6-1979-393597
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84d0279e182212f9e7583d356e085495f1b1a83bd37b8fddbe5f0077688e6572
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0b74055338fa9d831df5e581b3e5d295e9c7b67239bd80ba2d849f631b764b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Assembleia Regional
+- Grupo Parlamentar
+- Parlamentar
+- Presidente
+- Processo Legislativo
+- Regimento
+- Substituição de Funções
+- Vice-presidente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:30Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +95,7 @@ Alterações ao Regimento da Assembleia
 
 Usando da competência que lhe é conferida pela alínea a) do artigo 22.º do Estatuto Provisório da Região Autónoma dos Açores e da alínea a) do n.º 2 do artigo 2.º do Regimento, a Assembleia Regional, em sessão de 13 de Dezembro de 1978, resolveu o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 12.º, 15.º, 36.º, 37.º, 38.º, 39.º e 153.º do Regimento passam a ter a seguinte redacção.
+Artigo 1.º Os artigos 6.º, 12.º, 15.º, 36.º, 37.º, 38.º, 39.º e 153.º do Regimento passam a ter a seguinte redacção.
 
 ###### ARTIGO 6.º — (Incompatibilidades)
 
@@ -148,8 +157,8 @@ Usando da competência que lhe é conferida pela alínea a) do artigo 22.º do E
 
 5 - Seguidamente dar-se-á início ao debate.
 
-###### Art. 2.º É dispensada a nova publicação do Regimento, ao abrigo do n.º 4 do seu artigo 187.º
+Art. 2.º É dispensada a nova publicação do Regimento, ao abrigo do n.º 4 do seu artigo 187.º
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 13 de Dezembro de 1978.
 
-**O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.

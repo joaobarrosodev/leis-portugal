@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 147/2008, 1º Suplemento, Série I de 2008-07-31
   number: '147'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5174-(2) a 5174-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14701/0000200006.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/719-a/2008/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/719-a-2008-551190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69a5dde069456bdd25318b2ccc850ed4258d7c87a4ba1e616d4048a39e54edd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ef9a0aefd257e38df1154b9efd35bfaea195148f842ded26ff12676fca11ded
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,37 +68,73 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pesca
 - Apoio ao Investimento
-- Projeto de Investimento
+- Comércio
+- Financiamento
+- Intervenção Operacional Pescas
+- Pesca
 - Porto de Pesca
 - Programa Comunitário
+- Projeto de Investimento
 - Promoção de Produtos
-- Intervenção Operacional Pescas
 - Regulamento
 - Regulamento do Regime de Apoio aos Investimentos nos Domínios do Desenvolvimento de Novos Mercados e Campanhas Promocionais
 - Subsídio não Reembolsável
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:483893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459932:por
+  label: "Alterado, com produção de efeitos a 01.08.2008, o art. 10º do Regulamento, pela PORT.28/2010.12.01.2010.MADRP, DR.IS\
+    \ [7] de 12.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/28-2010-459932
+  date: '2010-01-12'
+- type: amended_by
+  target: pt:dre:609337:por
+  label: "Alterado o art. 13º do Regulamento, pela PORT.106/2010.19.02.2010.MADRP, DR.IS [35] de 19.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/106-2010-609337
+  date: '2010-02-19'
+- type: amended_by
+  target: pt:dre:502864:por
+  label: "Alterados os arts. 3.º, 7.º, 9.º, 11.º, 12.º, 13.º (na redação da Port 106/2010 de 19-fev), 14.º e 15.º e o anexo\
+    \ I e aditado o anexo III ao Regulamento aprovado pelo presente diploma, pela PORT.316/2013.22.10.2013.MAGM, DR.IS [204]\
+    \ de 22.10.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-2013-502864
+  date: '2013-10-22'
+- type: amended_by
+  target: pt:dre:483893:por
+  label: "Alterado o art. 3.º, do Regulamento do Regime de Apoio aos Investimentos em Portos de Pesca, Locais de Desembarque\
+    \ e de Abrigo, aprovado pela presente Portaria, na redação da Port 316/2013, de 22-out, pela PORT.378/2013.31.12.2013.MAGM,\
+    \ DR.IS [253] de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/378-2013-483893
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art 9.º do Regulamento do Regime de Apoio aos Investimentos em Portos de Pesca, Locais de Desembarque\
+    \ e de Abrigo, aprovado pelo presente diploma, na redação da Port 316/2013 de 22-out, pela PORT.109/2014.22.05.2014.MAGM,\
+    \ DR.IS [98] de 22.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/81/2008/05/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/2008/05/16/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:03Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +153,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.
 
 REGULAMENTO DO REGIME DE APOIO AOS INVESTIMENTOS EM PORTOS DE PESCA, LOCAIS DE DESEMBARQUE E DE ABRIGO
 
@@ -413,7 +449,7 @@ AL - activo líquido da empresa.
 
 a) A taxa interna de rendibilidade (TIR) do projecto é pontuada de acordo com a seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14701/0000200006.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14701/0000200006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14701/0000200006.pdf)
 
 b) O REFI é a taxa de refinanciamento do Banco Central Europeu em vigor no 1.º dia útil de cada mês correspondente à apresentação ou reformulação da candidatura.
 
@@ -459,4 +495,4 @@ Aos projectos que beneficiem apenas uma pequena parte dos utilizadores do porto 
 
 b) À pontuação prevista na alínea anterior acrescem as seguintes majorações:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14701/0000200006.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14701/0000200006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14701/0000200006.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2023/02/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2023-207881792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0d786af0c5b74b608af1a562bddf4a6eaa34951fdad7a3c2ddeeb6ba7fa8e4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6372bcab37bd022df5d494504e3ae3588580adf8ee3daa782a1c68c70998ece
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Água
 - Águas Públicas
-- Ordenamento do Território
-- Plano Director Municipal
-- Governo Regional
-- Recursos Hídricos
-- Definição de Competências
-- Gestão dos Recursos
-- Página na Internet
-- Proteção do Ambiente
-- Planeamento
-- Gestão do Ambiente
-- Bacia Hidrográfica
-- Prazo
-- Domínio Público Hídrico
 - Águas Subterrâneas
-- Relatório
-- Açores
+- Bacia Hidrográfica
+- Definição de Competências
+- Domínio Público Hídrico
+- Gestão do Ambiente
+- Gestão dos Recursos
+- Governo Regional
+- Ordenamento do Território
+- Página na Internet
+- Planeamento
 - Plano de Gestão de Região Hidrográfica
+- Plano Director Municipal
+- Prazo
+- Proteção do Ambiente
+- Recursos Hídricos
+- Relatório
 relationships:
 - type: cites
   target: celex:32000L0060
@@ -133,6 +133,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:106404757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75491410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75701996:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32000L0060
   label: null
@@ -140,13 +188,13 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:09Z'
   warnings: []
   errors: []
 ---
@@ -389,11 +437,11 @@ O PGRH-Açores 2022-2027 entra em vigor no dia seguinte ao da sua publicação e
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de janeiro de 2023.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo, em 17 de fevereiro de 2023.**
+Assinado em Angra do Heroísmo, em 17 de fevereiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -407,7 +455,7 @@ O PGRH-Açores 2022-2027, enquanto instrumento de planeamento, pretende fornecer
 
 O PGRH-Açores 2022-2027 assenta na relação entre a identificação de pressões, a avaliação do estado das massas de água e a elaboração de programas de medidas que permitam mitigar o impacte das pressões, apresentando como pilar dessa relação o cumprimento dos objetivos ambientais consignados na DQA, a nível comunitário, e pela LA no contexto do direito interno português (Figura 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 Figura 1 - Pontos focais do PGRH-Açores 2022-2027
 
@@ -429,7 +477,7 @@ vi) Da informação - os instrumentos de planeamento de águas constituem um mei
 
 A RH9 abrange todo o arquipélago dos Açores, localizado no Oceano Atlântico Norte, ocupando uma zona intermédia, com caraterísticas climáticas subtropicais. A superfície terrestre do arquipélago dos Açores totaliza 2322 km2, representando 2,6 % do espaço nacional (88 967 km2). Contudo, as nove ilhas exibem uma acentuada desigualdade territorial, variando entre os 744,6 km2 (São Miguel) e os 17,1 km2 (Corvo). Cinco têm dimensões intermédias, Pico (444,8 km2), Terceira (400,3 km2), São Jorge (243,7 km2), Faial (173,1 km2) e Flores (141,0 km2), enquanto Santa Maria (96,9 km2) e Graciosa (60,7 km2) têm a menor representatividade. As três maiores ilhas (São Miguel, Pico e Terceira) correspondem a quase 70 % da superfície terrestre total do arquipélago (Figura 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 Figura 2 - Representação da RH9 e das respetivas massas de água abrangidas pelo PGRH-Açores 2022-2027
 
@@ -441,7 +489,7 @@ TABELA I
 
 Número de massas de água presentes na RH9, por tipologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 No contexto da DQA, importa igualmente caraterizar as zonas protegidas associadas a massas de água. Neste âmbito, e no que respeita à proteção de recursos e conservação da natureza, são identificadas (e caraterizadas com maior pormenor no Relatório Técnico) diversas zonas protegidas maioritariamente integradas nos Parques Naturais de Ilha: 24 Zonas de Especial Conservação (ZEC); 15 Zonas de Proteção Especial (ZPE); 48 Áreas Protegidas de Gestão de Habitats ou Espécies (APGHE); 30 Áreas Protegidas de Gestão de Recursos (APGR); sete Zonas Vulneráveis (ZV); 192 Zonas de proteção de água para consumo humano (CCH); 33 Reservas para a Gestão de Capturas (RGC); 70 Zonas Balneares (ZB).
 
@@ -453,7 +501,7 @@ TABELA II
 
 Síntese das pressões significativas sobre as massas de água da RH9
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 Foram formulados três cenários de desenvolvimento para os setores com maior potencial de pressão sobre as massas de água na Região Autónoma dos Açores, nomeadamente: urbano, turismo, indústria, agropecuária, agroflorestal e energia, no período em que os mesmos são passíveis de influenciar os objetivos ambientais das massas de água para o presente ciclo de planeamento. Os três cenários considerados foram os seguintes:
 
@@ -471,13 +519,13 @@ TABELA III
 
 Objetivos Estratégicos do PGRH-A 2022-2027
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 TABELA IV
 
 Objetivos Ambientais do PGRH-A 2022-2027
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 Na Tabela V, sintetiza-se a perspetiva de evolução do cumprimento dos objetivos ambientais (ou seja, o «bom estado» das massas de água) por ilha.
 
@@ -485,7 +533,7 @@ TABELA V
 
 Síntese do cumprimento dos objetivos ambientais da RH9, por ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 Tendo em consideração o estado das massas de água, as pressões identificadas, os cenários obtidos e as medidas previstas para o segundo ciclo de planeamento (2016-2021), e com base na avaliação intercalar para o triénio 2015-2018, previa-se que, das 63 massas de água superficiais da RH9, cinco atingissem o «bom estado» em 2021 - o que não se verificou - e as restantes 11 em 2027. Ademais, subsistiam seis massas de água superficiais que não se previa que atingissem o «bom estado» até 2027, constituindo assim derrogações aos Objetivos Ambientais, uma vez que se prevê que esse «bom estado» só será provavelmente atingido após 2027, por razões quer de exequibilidade técnica das medidas necessárias para repor o seu «bom estado», quer pelo tempo necessário para o ecossistema/massas de água recuperar, considerando o seu estado avançado ou persistente inferior a «bom». As restantes já atingiram, entretanto, o «bom estado». Relativamente às massas de água subterrâneas, 3 das 28 massas de água que não cumpriram o objetivo ambiental, em 2015, atingirão esse objetivo em 2027 (Tabela VI).
 
@@ -493,7 +541,7 @@ TABELA VI
 
 Síntese dos objetivos ambientais da RH9, por massa de água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 Por fim, e no que respeita aos objetivos estratégicos, com base também em toda a caraterização e diagnóstico desenvolvidos para a RH9, a informação obtida foi sistematizada num sistema de indicadores estruturado em sete Áreas Temáticas, que traduzem os principais domínios de intervenção e gestão do PGRH-Açores 2022-2027, e foram definidas e organizadas tendo em consideração a análise integrada dos diversos instrumentos de planeamento, nomeadamente planos e programas nacionais e regionais relevantes para os recursos hídricos: Área Temática 1 - Qualidade da água (AT1); Área Temática 2 - Quantidade da água (AT2); Área Temática 3 - Gestão de riscos e valorização do domínio hídrico (AT3); Área Temática 4 - Quadro institucional e normativo (AT4); Área Temática 5 - Quadro económico e financeiro (AT5); Área Temática 6 - Monitorização, investigação e conhecimento (AT6); Área Temática 7 - Comunicação, governança e governação (AT7).
 
@@ -553,25 +601,25 @@ TABELA VII
 
 Síntese do Programa de Medidas do PGRH-Açores 2022-2027
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 TABELA VIII
 
 Número de medidas por tipologia de massa de água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 TABELA IX
 
 Cronograma de execução financeira do PGRH-Açores 2022-2027
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 TABELA X
 
 Cronograma de execução financeira do PGRH-Açores 2022-2027, por entidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf))](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/02/04100/0030100331.pdf)
 
 As Fichas de Massa de Água podem ser consultadas em maior detalhe no Relatório Técnico PGRH - Açores 2022-2027. Nestas, são sistematizados, por ilha e por massa de água, os principais elementos e dados para gestão da massa de água (localização, zonas protegidas, pressões significativas, monitorização, estado atual, evolução do estado e objetivos ambientais e medidas associadas).
 
@@ -620,3 +668,5 @@ Assim, uma versão atualizada do PGRH-Açores deverá ser aprovada em 2027.
 A metodologia e cronograma de acompanhamento e avaliação permitirão efetuar eventuais retificações ou aperfeiçoamentos aos objetivos e medidas em curso, salientando-se, porém, que apenas permitem inserir correções ao PGRH em vigor, não o substituindo.
 
 Para além do Relatório de Acompanhamento do PGRH-Açores 2022-2027, propõe-se a elaboração de um Relatório de Divulgação, com o objetivo de apresentar de forma eminentemente não técnica os aspetos mais importantes do relatório de acompanhamento. Para além destes dois relatórios, será promovida a divulgação da informação online, que ambiciona conseguir uma maior participação da sociedade civil na implementação do Plano, através da apresentação de novos conteúdos e funcionalidades. Em conjunto, os três produtos constituem os produtos resultantes do processo de acompanhamento.
+
+116188283

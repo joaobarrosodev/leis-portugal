@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06400/20242028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/377/2007/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-2007-520423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f22f892638421851fa2eaaeb1f802445964b8cac471a90db5635d74d612a71e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8348d5dc6d6693d029dce33f7d567d17f2e9d8089ba26417b0487ed925c4169
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CASA Museu de Férnando de Castro
-- Instituto dos Museus e da Conservação
 - CASA Museu Doutor Anastácio Gonçalves
 - Casa Museu Fernando de Castro
 - Estatuto
+- Instituto dos Museus e da Conservação
 - Museu da Cerâmica
 - Museu da Guarda
 - Museu da Música
@@ -99,17 +99,23 @@ subjects:
 - Museu Nacional do Traje e da MODA
 - Museu Nacional dos Coches
 - Paço dos Duques
-- Palácio Nacional de Mafra
 - Palácio Nacional da Ajuda
 - Palácio Nacional da Pena
-- Palácio Nacional de Sintra
+- Palácio Nacional de Mafra
 - Palácio Nacional de Queluz
+- Palácio Nacional de Sintra
 - Porto
 relationships:
 - type: amended_by
   target: pt:dre:179365:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332685:por
+  label: "Alterado o art. 1º e revogada a al. t) do nº 5 do art. 1º e al. b) do nº 2 e o n.º 4 do art. 2º dos Estatutos, a\
+    \ partir de 30.05.2010, pela PORT.281/2010.25.05.2010.MFAP, DR.IS [101] de 25.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2010-332685
+  date: '2010-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/97/2007/03/29/p/dre
   label: null
@@ -118,16 +124,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:520450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:638539:por
+  label: "Rectificada pela DECL-RECT.52/2007.25.05.2007.PCM, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/52-2007-638539
+  date: '2007-05-25'
+- type: repealed_by
+  target: pt:dre:179365:por
+  label: "Revogado o presente diploma, na redação da Port 281/2010, de 25-maio, pela PORT.223/2012.24.07.2012.PCM, DR.IS [142]\
+    \ de 24.07.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-2012-179365
+  date: '2012-07-24'
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:11Z'
   warnings: []
   errors: []
 ---
@@ -514,7 +539,9 @@ ar) Apoiar o funcionamento dos sistemas informáticos e bases de dados utilizada
 
 as) Manter actualizado e funcional o parque informático e os sistemas de redes informáticas do Instituto e dos serviços dependentes.
 
-###### Artigo 8.º — Divisão de Documentação e Divulgação
+###### Artigo 8.º
+
+##### Divisão de Documentação e Divulgação
 
 À Divisão de Documentação e Divulgação, abreviadamente designada por DDD, compete:
 
@@ -540,7 +567,9 @@ j) Promover e desenvolver projectos internacionais, designadamente junto dos pa�
 
 l) Organizar e gerir o arquivo documental do IMC, I. P., promovendo o tratamento técnico e a divulgação dos processos relacionados com as actividades museológicas, bem como o arquivo dos processos de conservação e restauro, desenvolvendo projectos de transferência de suporte, tendo em vista a preservação destes espólios documentais.
 
-###### Artigo 9.º — Divisão de Documentação Fotográfica
+###### Artigo 9.º
+
+##### Divisão de Documentação Fotográfica
 
 À Divisão de Documentação Fotográfica, abreviadamente designada por DDF, compete:
 

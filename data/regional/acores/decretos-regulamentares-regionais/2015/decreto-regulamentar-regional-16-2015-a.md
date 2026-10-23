@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/16300/0623906245.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2015/08/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2015-70064737
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45a5cc4c82b9f4077edc58642958609a056801f9b78df67a41555ec2b4a03f35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a1651b5ba5deae19b1378de796466596b971c731bf330829f1dfaa9ec658a30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Ilha do Corvo
-- Unidade de Saúde da ILHA do Corvo
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Serviço Regional de Saúde
-- Açores
+- Unidade de Saúde da ILHA do Corvo
 - Unidade Local de Saúde
 relationships:
 - type: cites
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/898/2000/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/898/2000/09/28/p/dre
+- type: cites
+  target: pt:dre:261099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554394:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 42
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:17Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +159,9 @@ Os artigos 10.º e 11.º do [Decreto Regulamentar Regional n.º 20/2010/A](https
 
 3 - (Revogado.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os vogais são nomeados para o exercício de mandatos, nos termos legais, pelo período de três anos, renovável, de entre trabalhadores com funções públicas ou de entre outros trabalhadores, preferencialmente com comprovada experiência relacionada com a direção ou apoio à gestão de organizações com dimensão e complexidade semelhantes.
 
@@ -159,11 +181,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Vila do Corvo, em 23 de julho de 2015.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 7 de agosto de 2015.**
+Assinado em Angra do Heroísmo em 7 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -647,4 +669,4 @@ O pessoal do quadro de ilha do Corvo, afeto ao Posto de Saúde do Corvo, extinto
 
 Quadro de pessoal dirigente e de chefia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/16300/0623906245.pdf))](https://files.diariodarepublica.pt/1s/2015/08/16300/0623906245.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/16300/0623906245.pdf)

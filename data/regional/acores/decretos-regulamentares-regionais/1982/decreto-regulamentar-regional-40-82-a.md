@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1982-376180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ce0ea918f59c89365660c7a29f2af2c63c8fb325df451fe4810cd4c57d0bca6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 439aa9f9e20f15583e80ad6e2379d01cf394107d373398998325df7f7dafbd59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Integração de Trabalhadores
+- Serviços Médico-sociais
+relationships:
+- type: cites
+  target: pt:dre:567882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567883:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:49Z'
   warnings: []
   errors: []
 ---
@@ -86,14 +97,14 @@ O pessoal do Serviço de Luta Antituberculosa em actividade nos dispensários de
 
 Assim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. A integração do pessoal em serviço no Dispensário do Serviço de Luta Antituberculosa de Ponta Delgada e na Comissão Distrital de Assistência, com sede na mesma cidade, no quadro de pessoal dos Serviços Médico-Sociais de Ponta Delgada, anexo ao Decreto Regulamentar Regional n.º 15/81/A, de 24 de Fevereiro, com as alterações constantes dos Decretos Regulamentares Regionais n.os [52/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/52-1981-567882) e [54/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/54-1981-567883), respectivamente de 3 e 4 de Dezembro, produz efeitos a 1 de Março de 1981.
+Artigo único. A integração do pessoal em serviço no Dispensário do Serviço de Luta Antituberculosa de Ponta Delgada e na Comissão Distrital de Assistência, com sede na mesma cidade, no quadro de pessoal dos Serviços Médico-Sociais de Ponta Delgada, anexo ao Decreto Regulamentar Regional n.º 15/81/A, de 24 de Fevereiro, com as alterações constantes dos Decretos Regulamentares Regionais n.os [52/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/52-1981-567882) e [54/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/54-1981-567883), respectivamente de 3 e 4 de Dezembro, produz efeitos a 1 de Março de 1981.
 
 Aprovado em Conselho em 11 de Agosto de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 27 de Setembro de 1982.**
+Assinado em Angra do Heroísmo em 27 de Setembro de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

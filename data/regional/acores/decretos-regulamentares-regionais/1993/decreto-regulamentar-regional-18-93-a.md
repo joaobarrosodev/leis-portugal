@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/10/231b00/55705571.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/1993/10/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1993-646297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e961fd5f8bf30f2f7e026ed69d9b29b9f2cf9d6349b8a2b0dba0f64b38a3b1b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3552eb87b98f257e9f5ad540c13a6e653d11239f2d738e9a46ab9626e49b3f4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Educador de Infância
-- Estatuto da Carreira Docente
-- Pessoal Docente
-- Ensino Básico
-- Promoção Profissional
 - Açores
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Estatuto da Carreira Docente
+- Pessoal Docente
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:538620:por
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/13/1992/06/30/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/13/1992/06/30/p/dre
+- type: cites
+  target: pt:dre:352919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566032:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538620:por
+  label: "Revogado pelo DLR.28/2006/A.21.07.2006.AL-RAA, DR.IS [152] de 08.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2006-538620
+  date: '2006-07-21'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:17Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +121,9 @@ Importa, pois, em execução desse preceito, e tendo em conta as especificidades
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e do artigo 3.º do [Decreto Legislativo Regional n.º 17/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-566032), de 6 de Novembro, o seguinte:
 
-###### Artigo 1.º Na aplicação do [Decreto Regulamentar n.º 13/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1992-352919), de 30 de Junho, à Região Autónoma dos Açores ter-se-á em conta o disposto no artigo seguinte.
+Artigo 1.º Na aplicação do [Decreto Regulamentar n.º 13/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1992-352919), de 30 de Junho, à Região Autónoma dos Açores ter-se-á em conta o disposto no artigo seguinte.
 
-###### Art. 2.º Nos artigos 1.º, 4.º, 6.º, 7.º, 8.º e 9.º do [Decreto Regulamentar n.º 13/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1992-352919), de 30 de Junho, introduzem-se as seguintes alterações:
+Art. 2.º Nos artigos 1.º, 4.º, 6.º, 7.º, 8.º e 9.º do [Decreto Regulamentar n.º 13/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1992-352919), de 30 de Junho, introduzem-se as seguintes alterações:
 
 ###### Artigo 1.º — Candidatura de acesso ao 8.º escalão
 
@@ -164,16 +181,16 @@ As listas nominais dos docentes, cujas candidaturas tenham sido aprovadas, são 
 
 A Secretaria Regional da Educação e Cultura promoverá, a suas expensas e na medida das suas possibilidades, a publicação dos trabalhos de mérito excepcional apresentados pelos docentes a quem tenha sido atribuída a menção de Satisfaz com grau de Muito bom.
 
-###### Art. 3.º O artigo 11.º do [Decreto Regulamentar n.º 13/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1992-352919), de 30 de Junho, passa a ter a redacção constante do artigo 4.º do presente diploma.
+Art. 3.º O artigo 11.º do [Decreto Regulamentar n.º 13/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1992-352919), de 30 de Junho, passa a ter a redacção constante do artigo 4.º do presente diploma.
 
-###### Art. 4.º Os docentes que, em 1992, reúnam as condições para apresentar as candidaturas previstas no n.º 4 do artigo 1.º do [Decreto Regulamentar n.º 13/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1992-352919), de 30 de Junho, podem, a título excepcional, apresentá-las até ao final do 4.º mês posterior à publicação do presente diploma.
+Art. 4.º Os docentes que, em 1992, reúnam as condições para apresentar as candidaturas previstas no n.º 4 do artigo 1.º do [Decreto Regulamentar n.º 13/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-1992-352919), de 30 de Junho, podem, a título excepcional, apresentá-las até ao final do 4.º mês posterior à publicação do presente diploma.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Agosto de 1993.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 15 de Setembro de 1993.**
+Assinado em Angra do Heroísmo em 15 de Setembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

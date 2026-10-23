@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/11100/37593769.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/710/2007/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/710-2007-639109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 623ca85140ae3dfe07af2000df6b69311f91634eb1faeaa13b0715f5d8aa10ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30bfc14e61afa9b9dc253ec024cdd69482bb865a8f8a51c2ceb084a05d251b9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixada
 - Consulado
-- Emolumento Consular
-- Imprensa Nacional-Casa da Moeda
-- Imposto do SELO
 - Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas
-- Passaporte Electrónico
+- Embaixada
+- Emolumento Consular
+- Imposto do SELO
+- Imprensa Nacional-Casa da Moeda
 - Ministério dos Negócios Estrangeiros
 - Passaporte
+- Passaporte Electrónico
 relationships:
 - type: amended_by
   target: pt:dre:386800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386800:por
+  label: "Alterados os art.s 26º e 67º da tabela de emolumentos consulares, aprovada pela Port 19/2003, de 11-Jan, na redacção\
+    \ do presente diploma, pela PORT.7/2008.03.01.2008.MNE, DR.IS [2] de 03.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/7-2008-386800
+  date: '2008-01-03'
 - type: cites
   target: celex:32006D0440
   label: null
@@ -92,15 +98,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/2005/761/oj
 article_structure:
-  article_count: 98
+  article_count: 91
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:28Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +163,7 @@ b) As quantias previstas nos n.os 6 e 7 são em 80% receita do SEF e em 20% rece
 
 c) A quantia prevista no n.º 8 reverte em 20% para o FRI e em 80% para o SEF.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - ...
 
@@ -167,7 +173,7 @@ c) A quantia prevista no n.º 8 reverte em 20% para o FRI e em 80% para o SEF.
 
 4 - É gratuita a emissão de passaporte temporário nos casos em que a necessidade de deslocação para fora de país estrangeiro ou a impossibilidade de uso do passaporte comum se devam a catástrofe, guerra, alteração grave da ordem pública ou outro caso de força maior.
 
-###### Artigo 26.º
+Artigo 26.º
 
 1 - Atribuição:
 
@@ -191,7 +197,7 @@ c) A quantia prevista no n.º 8 reverte em 20% para o FRI e em 80% para o SEF.
 
 7 - Em caso de indeferimento liminar, os emolumentos previstos nos números anteriores são devidos na sua totalidade.
 
-###### Artigo 27.º
+Artigo 27.º
 
 1 - São gratuitos os seguintes actos:
 
@@ -207,7 +213,7 @@ e) Certidões, fotocópias e comunicações que decorram do cumprimento das obri
 
 2 - ...
 
-###### Artigo 42.º
+Artigo 42.º
 
 1 - ...
 
@@ -221,7 +227,7 @@ e) Certidões, fotocópias e comunicações que decorram do cumprimento das obri
 
 6 - É gratuito o reconhecimento presencial de assinatura efectuado em declarações ou requerimentos para fins de atribuição, aquisição ou perda da nacionalidade portuguesa.
 
-###### Artigo 67.º
+Artigo 67.º
 
 1 - Pelos custos administrativos do tratamento de pedidos de vistos uniformes são cobrados os seguintes emolumentos:
 
@@ -271,7 +277,7 @@ iv) O ascendente directo que esteja a cargo de um cidadão da União Europeia, a
 
 e) Os doentes beneficiários de acordos de cooperação com Portugal no domínio da saúde e respectivo acompanhante.
 
-###### Artigo 86.º
+Artigo 86.º
 
 1 - Pelos actos praticados fora da chancelaria, ou nesta mas fora das horas regulamentares, ou em dia em que aquela esteja encerrada, a solicitação dos interessados, serão cobrados emolumentos correspondentes ao dobro dos fixados na tabela para o respectivo ano.
 
@@ -281,7 +287,7 @@ e) Os doentes beneficiários de acordos de cooperação com Portugal no domínio
 
 4 - Exceptua-se do n.º 1 o tratamento de pedidos de visto.
 
-###### Artigo 88.º
+Artigo 88.º
 
 1 - Para além dos emolumentos previstos na tabela, são cobrados:
 
@@ -299,7 +305,7 @@ d) As despesas de correio, telefone, telecópia, comunicação de dados e telex.
 
 3.º A Portaria n.º 19/2003, de 11 de Janeiro, é republicada em anexo ao presente diploma, dele fazendo parte integrante.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 1 de Março de 2007.**
+O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 1 de Março de 2007.
 
 ## ANEXO — Republicação
 

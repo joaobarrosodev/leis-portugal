@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/10/234b00/62456247.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/1995/10/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1995-663281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcb74de685eea177d79ede798f0b265269af5b27b04f362a094c8d171efa67a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 681dc39e3b0d3c032f4c08c5dcec8b43124038ef654c853e7209d4d57eaaf23a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Apoio Técnico
 - Protecção do Património
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:300047:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620077:por
+  label: "Alterada a redacção dos arts. 3º, 8º, 14º, 16º, 18º e revogado o art. 6º, pelo DRR.4/96/A.09.01.1996.GR-RAA, DR.IS-B\
+    \ [37] de 13.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1996-620077
+  date: '1996-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/29/1991/09/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/29/1991/09/27/a/dre
+- type: cites
+  target: pt:dre:292925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654687:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300047:por
+  label: "Revogado pelo DRR.14/2000/A.2000.04.14.SREAS-RAA, DR. IS-B [119] de 23/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2000-300047
+  date: '2000-04-14'
 article_structure:
   article_count: 20
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:28Z'
   warnings: []
   errors: []
 ---
@@ -238,10 +261,10 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 27 de Julho de 1995.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 29 de Agosto de 1995.**
+Assinado em Angra do Heroísmo em 29 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/1994/08/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1994-218353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 325c8122b494d70611a00f8d58e838d45810830b1b5591257662a98e1b408359
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af0eea605118041479697d8d2e679e50547e6fe95db68f425a061f2337e267f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:56Z'
   warnings: []
   errors: []
 ---
@@ -110,9 +122,9 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece as condições gerais de aplicação, na Região Autónoma da Madeira, do Programa de Desenvolvimento Agrícola e Rural, adiante designado PDAR, do Quadro Comunitário de Apoio para o período de 1994 a 1999.
+Artigo 1.º O presente diploma estabelece as condições gerais de aplicação, na Região Autónoma da Madeira, do Programa de Desenvolvimento Agrícola e Rural, adiante designado PDAR, do Quadro Comunitário de Apoio para o período de 1994 a 1999.
 
-###### Art. 2.º - 1 - O PDAR tem como objectivos, nomeadamente, o reforço da competitividade do sector agrícola, a viabilização económica das explorações agrícolas e a preservação dos recursos naturais e do ambiente.
+Art. 2.º - 1 - O PDAR tem como objectivos, nomeadamente, o reforço da competitividade do sector agrícola, a viabilização económica das explorações agrícolas e a preservação dos recursos naturais e do ambiente.
 
 2 - Para prossecução dos objectivos enunciados no número anterior, podem ser concedidas ajudas nos seguintes domínios:
 
@@ -130,13 +142,13 @@ e) Transformação e comercialização de produtos agrícolas e silvícolas.
 
 4 - Sem prejuízo do disposto no [Decreto-Lei n.º 99/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1994-264966), de 19 de Abril, o regime das ajudas a conceder no âmbito do presente diploma é objecto de portaria do Secretário Regional de Agricultura, Florestas e Pescas.
 
-###### Art. 3.º - 1 - As candidaturas às ajudas referidas neste diploma são formalizadas através da apresentação do respectivo projecto, acompanhado dos elementos que vierem a ser exigidos no âmbito da regulamentação específica de cada ajuda.
+Art. 3.º - 1 - As candidaturas às ajudas referidas neste diploma são formalizadas através da apresentação do respectivo projecto, acompanhado dos elementos que vierem a ser exigidos no âmbito da regulamentação específica de cada ajuda.
 
 2 - Após a recepção dos processos, podem as instituições receptoras solicitar aos candidatos esclarecimentos complementares, os quais devem ser apresentados no prazo máximo de 15 dias úteis, findos os quais a ausência de resposta, excepto quando não imputável ao candidato, significará a desistência das candidaturas.
 
-###### Art. 4.º Sem prejuízo de outras exigências fixadas ao nível da regulamentação específica do regime das ajudas, os projectos devem apresentar viabilidade técnica, económica e financeira adequada à sua dimensão e complexidade.
+Art. 4.º Sem prejuízo de outras exigências fixadas ao nível da regulamentação específica do regime das ajudas, os projectos devem apresentar viabilidade técnica, económica e financeira adequada à sua dimensão e complexidade.
 
-###### Art. 5.º - 1 - Os apoios financeiros a conceder aos projectos podem assumir, cumulativamente ou não, a forma de:
+Art. 5.º - 1 - Os apoios financeiros a conceder aos projectos podem assumir, cumulativamente ou não, a forma de:
 
 a) Bonificação de juros;
 
@@ -148,9 +160,9 @@ c) Subsídio reembolsável.
 
 3 - As condições de atribuição dos apoios financeiros, nomeadamente os seus montantes concretos, serão fixados em regulamentação específica.
 
-###### Art. 6.º A atribuição de ajudas previstas no presente diploma e legislação complementar faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), salvo nos casos em que a portaria referida no n.º 4 do artigo 2.º preveja outra entidade para outorgar em nome do Estado.
+Art. 6.º A atribuição de ajudas previstas no presente diploma e legislação complementar faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), salvo nos casos em que a portaria referida no n.º 4 do artigo 2.º preveja outra entidade para outorgar em nome do Estado.
 
-###### Art. 7.º - 1 - Em caso de incumprimento pelos beneficiários das obrigações decorrentes do contrato, o IFADAP pode modificar ou rescindir unilateralmente os contratos.
+Art. 7.º - 1 - Em caso de incumprimento pelos beneficiários das obrigações decorrentes do contrato, o IFADAP pode modificar ou rescindir unilateralmente os contratos.
 
 2 - Em caso de rescisão do contrato pelo IFADAP, o beneficiário será notificado para, no prazo de 15 dias, proceder à restituição das importâncias recebidas, acrescidas de juros à taxa legal, contados desde a data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.
 
@@ -164,23 +176,23 @@ c) Subsídio reembolsável.
 
 7 - Nos casos previstos na parte final do artigo anterior, as competências previstas para o IFADAP cabem à entidade então designada.
 
-###### Art. 8.º O beneficiário poderá, mediante requerimento, desistir da ajuda, desde que proceda à restituição das importâncias que haja recebido, acrescidas de juros calculados à taxa legal desde a data em que aquelas foram colocadas à sua disposição.
+Art. 8.º O beneficiário poderá, mediante requerimento, desistir da ajuda, desde que proceda à restituição das importâncias que haja recebido, acrescidas de juros calculados à taxa legal desde a data em que aquelas foram colocadas à sua disposição.
 
-###### Art. 9.º Todos os apoios financeiros ficam sujeitos à verificação da sua utilização em conformidade com o projecto apresentado, não podendo ser desviados para outros fins, nem locados, alienados ou por qualquer forma onerados, no todo ou em parte, os bens com eles adquiridos sem autorização prévia da entidade contratante, até que sejam atingidos os objectivos do investimento.
+Art. 9.º Todos os apoios financeiros ficam sujeitos à verificação da sua utilização em conformidade com o projecto apresentado, não podendo ser desviados para outros fins, nem locados, alienados ou por qualquer forma onerados, no todo ou em parte, os bens com eles adquiridos sem autorização prévia da entidade contratante, até que sejam atingidos os objectivos do investimento.
 
-###### Art. 10.º - 1 - Constituem títulos executivos as certidões de dívida emitidas pelo IFADAP ou pela entidade que contrate em nome do Estado, nos termos referidos no artigo 6.º
+Art. 10.º - 1 - Constituem títulos executivos as certidões de dívida emitidas pelo IFADAP ou pela entidade que contrate em nome do Estado, nos termos referidos no artigo 6.º
 
 2 - As certidões referidas no número anterior devem indicar a entidade que as tiver extraído, a data de emissão, a identificação e o domicílio do devedor, a proveniência da dívida, a indicação por extenso do montante e a data a partir da qual são devidos juros e a importância sobre que incidem.
 
 3 - Para as execuções instauradas ao abrigo do presente diploma é sempre competente o foro da comarca do Funchal.
 
-###### Art. 11.º As ajudas referidas no presente diploma e respectiva legislação complementar não são cumuláveis com quaisquer outras da mesma natureza.
+Art. 11.º As ajudas referidas no presente diploma e respectiva legislação complementar não são cumuláveis com quaisquer outras da mesma natureza.
 
-###### Art. 12.º A cobertura orçamental do PDAR é assegurada por verbas comunitárias, do Orçamento do Estado e do Orçamento Regional.
+Art. 12.º A cobertura orçamental do PDAR é assegurada por verbas comunitárias, do Orçamento do Estado e do Orçamento Regional.
 
-###### Art. 13.º Sem prejuízo do disposto no [Decreto-Lei n.º 99/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1994-264966), de 19 de Abril, a gestão do PDAR é assegurada pela Direcção Regional de Agricultura.
+Art. 13.º Sem prejuízo do disposto no [Decreto-Lei n.º 99/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1994-264966), de 19 de Abril, a gestão do PDAR é assegurada pela Direcção Regional de Agricultura.
 
-###### Art. 14.º - 1 - É criada a comissão consultiva do PDAR composta pelo director regional de Agricultura, que preside, pelo director regional de Pecuária, pelo director regional das Florestas, por um representante da Associação de Agricultures da Madeira, por um representante dos Jovens Agricultores da Madeira e Porto Santo e ainda por quatro personalidades de reconhecido mérito ligadas aos sectores agrícola e florestal, designadas por despacho do Secretário Regional de Agricultura, Florestas e Pescas.
+Art. 14.º - 1 - É criada a comissão consultiva do PDAR composta pelo director regional de Agricultura, que preside, pelo director regional de Pecuária, pelo director regional das Florestas, por um representante da Associação de Agricultures da Madeira, por um representante dos Jovens Agricultores da Madeira e Porto Santo e ainda por quatro personalidades de reconhecido mérito ligadas aos sectores agrícola e florestal, designadas por despacho do Secretário Regional de Agricultura, Florestas e Pescas.
 
 2 - Para além das funções que lhe sejam atribuídas no despacho referido no núemro anterior, compete à comissão consultiva do PDAR:
 
@@ -188,7 +200,7 @@ a) Pronunciar-se sobre eventuais medidas de correcção ao funcionamento e execu
 
 b) Dar parecer sobre o impacte dos investimentos efectuados, tendo em vista a avaliação do PDAR.
 
-###### Art. 15.º São objecto da portaria referida no n.º 4 do artigo 2.º as normas necessárias à boa execução do disposto no presente diploma, nomeadamente:
+Art. 15.º São objecto da portaria referida no n.º 4 do artigo 2.º as normas necessárias à boa execução do disposto no presente diploma, nomeadamente:
 
 a) A natureza e os objectivos das ajudas;
 
@@ -202,16 +214,16 @@ e) Os circuitos processuais de acesso às ajudas;
 
 f) A área geográfica de aplicação.
 
-###### Art. 16.º Às medidas florestais referidas no presente diploma aplica-se o disposto nos n.os 2 e 3 do artigo 11.º do [Decreto-Lei n.º 31/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1994-522859), de 5 de Fevereiro.
+Art. 16.º Às medidas florestais referidas no presente diploma aplica-se o disposto nos n.os 2 e 3 do artigo 11.º do [Decreto-Lei n.º 31/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1994-522859), de 5 de Fevereiro.
 
-###### Art. 17.º O presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.
+Art. 17.º O presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.
 
 Aprovado em sessão plenária em 8 de Julho de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, em exercício, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 27 de Julho de 1994.**
+Assinado em 27 de Julho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

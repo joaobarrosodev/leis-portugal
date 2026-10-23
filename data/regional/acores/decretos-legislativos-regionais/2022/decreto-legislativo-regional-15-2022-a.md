@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/06/10700/0001000024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2022/06/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2022-184306939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dc0546b2643d1f5db525a5c6e04cc022925e70765986616608ba0879463f8a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8674410724a9902a55d21c8cc714b3e94f8d0be5aa2e27569539a06e4f5cb4cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Parlamentar
+- Açores
 - Apoio Técnico
-- Parlamentar
+- Assembleia Legislativa
 - Assembleia Legislativa Regional
-- Pessoal Dirigente
-- Gestão Financeira
+- Atividade Parlamentar
 - Conselho Administrativo
 - Definição de Competências
-- Gestão Administrativa
 - Estatuto
+- Gabinete do Presidente da Assembleia Legislativa Regional
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Gestão Orçamental
 - Grupo Parlamentar
-- Assembleia Legislativa
 - Orgânica
+- Parlamentar
 - Pessoal de Gabinete
+- Pessoal Dirigente
 - Presidente da Assembleia Legislativa Regional
 - Prestação de Contas
 - Quadro de Pessoal
 - Regime de Pessoal
 - Remuneração
 - Secretário Geral
-- Gestão de Recursos Humanos
-- Açores
-- Gabinete do Presidente da Assembleia Legislativa Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/3/2009/03/06/a/dre
@@ -107,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/54/2006/12/22/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/54/2006/12/22/a/dre
+- type: cites
+  target: pt:dre:175129349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604800:por
+  label: null
+  source: null
 article_structure:
   article_count: 55
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:50Z'
   warnings: []
   errors: []
 ---
@@ -163,11 +179,11 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de maio de 2022.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 31 de maio de 2022.**
+Assinado em Angra do Heroísmo em 31 de maio de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -235,7 +251,7 @@ c) O Conselho Administrativo.
 
 ###### Artigo 8.º — Delegação de competências
 
-**O Presidente da Assembleia Legislativa pode delegar, num dos membros da Mesa ou no secretário-geral, os poderes administrativos e financeiros que lhe são conferidos no presente diploma.**
+O Presidente da Assembleia Legislativa pode delegar, num dos membros da Mesa ou no secretário-geral, os poderes administrativos e financeiros que lhe são conferidos no presente diploma.
 
 ###### Artigo 9.º — Gabinete do Presidente
 
@@ -690,3 +706,5 @@ c) O [Decreto Legislativo Regional n.º 43/2012/A](https://diariodarepublica.pt/
 ###### Artigo 51.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+115383256

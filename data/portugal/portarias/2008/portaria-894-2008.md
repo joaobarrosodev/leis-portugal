@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/894/2008/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/894-2008-455610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8829d191773f90621289d7c2271eac817b7546dea24ccd0bd4690299426b3361
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7017a5ebcbd91920b25c203510d1e492e05b0585d1fbb101bafe9e3a01efefae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Secretaria Geral
 - Gabinete Governamental
-- Ministério do Trabalho e da Solidariedade Social
 - Livre Trânsito
+- Ministério do Trabalho e da Solidariedade Social
 - Pessoal de Gabinete
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
@@ -89,16 +89,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693872:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:06Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +139,4 @@ Modelo n.º 1 - para uso do pessoal nomeado para os gabinetes dos membros do Gov
 
 Modelo n.º 2 - [...]»
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 1 de Agosto de 2008.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 1 de Agosto de 2008.

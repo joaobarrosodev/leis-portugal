@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/05/099a00/34893491.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2006/05/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2006-633286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26a6aa862389bc994ba07c703ba26679e9b4ba866edb5d8059bb85b2c07f84fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd3653ea088393260a05a8d9a7f89f8b27c4c39b38bbfab8a7116ca314d8c30f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
+- Apoio ao Investimento
+- Benefícios Fiscais
 - Código do IRC
 - Código do IRS
-- Imposto Municipal sobre Imóveis
-- Política Fiscal
-- Governo Regional
 - Contrato
+- Empresa
 - Estatuto dos Benefícios Fiscais
-- Apoio ao Investimento
-- Projeto de Investimento
+- Governo Regional
 - Imposto do SELO
 - Imposto Municipal sobre as Transmissões Onerosas de Imóveis
+- Imposto Municipal sobre Imóveis
+- IRC
 - IRS
 - Isenção Fiscal
-- IRC
 - Madeira.região Autónoma
+- Política Fiscal
+- Projeto de Investimento
 - Regime Fiscal
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:74811912:por
@@ -117,16 +117,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:358490:por
+  label: "Rectificado pela DECL-RECT.35/2006.19.06.2006.PCM, DR.IS-A [123] de 28.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/35-2006-358490
+  date: '2006-06-19'
+- type: repealed_by
+  target: pt:dre:74811912:por
+  label: Revogado o DLR. 18/99/M de 28-jun, na redação do presente diploma, pelo(a) Decreto Legislativo Regional n.º 24/2016/M
+    - Diário da República n.º 122/2016, Série I de 2016-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2016-74811912
+  date: '2016-06-28'
 article_structure:
-  article_count: 13
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:37Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +210,9 @@ Objecto
 
 Fica o Governo Regional autorizado a conceder os benefícios fiscais em regime contratual, resultantes da adaptação do disposto no artigo 39.º do Estatuto dos Benefícios Fiscais, nos termos constantes dos artigos seguintes.
 
-###### Artigo 2.º — Âmbito e objectivos
+Artigo 2.º
+
+Âmbito e objectivos
 
 1 - Os projectos de investimento em unidades produtivas realizados até 31 de Dezembro de 2010, de montante igual ou superior a (euro) 1750000, que sejam de especial interesse para a economia regional, que induzam à criação de postos de trabalho e contribuam para impulsionar a inovação tecnológica e a investigação científica regional, podem beneficiar de incentivos fiscais, em regime contratual, com período de vigência até 10 anos, a conceder nos termos, condições e procedimentos a concretizar por decreto regulamentar regional, de acordo com os princípios estabelecidos neste diploma.
 
@@ -179,7 +220,9 @@ Fica o Governo Regional autorizado a conceder os benefícios fiscais em regime c
 
 3 - Os benefícios fiscais previstos neste diploma também poderão ser concedidos a investimentos de valor igual ou superior a (euro) 125000, desde que os mesmos se localizem nos parques empresariais dos concelhos da Calheta, Ponta do Sol, Porto Moniz, Ribeira Brava, Santana ou São Vicente, licenciados de acordo com o disposto no [Decreto Legislativo Regional n.º 28/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2001-517192), de 28 de Agosto, podendo aquele valor mínimo ser reduzido para (euro) 75000, desde que os projectos sejam promovidos por jovens empresários, nos termos a definir por decreto regulamentar regional.
 
-###### Artigo 3.º — Benefícios fiscais
+Artigo 3.º
+
+Benefícios fiscais
 
 1 - Aos projectos de investimento que se enquadrem no âmbito dos n.os 1 e 2 do artigo anterior podem ser concedidos, cumulativamente, os seguintes incentivos fiscais:
 
@@ -197,13 +240,17 @@ d) ....
 
 4 - Para as mesmas despesas elegíveis, os incentivos fiscais a conceder nos termos dos números anteriores não são cumuláveis com outros benefícios da mesma natureza susceptíveis de serem atribuídos ao mesmo projecto de investimento.
 
-###### Artigo 4.º — Contrato de concessão dos benefícios fiscais
+Artigo 4.º
+
+Contrato de concessão dos benefícios fiscais
 
 1 - ...
 
 2 - A concessão destes incentivos será objecto de proposta conjunta dos membros do Governo Regional com a tutela do Instituto de Desenvolvimento Empresarial da Madeira e das finanças.
 
-###### Artigo 5.º — Consulta aos municípios
+Artigo 5.º
+
+Consulta aos municípios
 
 1 - A atribuição dos benefícios fiscais previstos neste diploma deverá ser precedida de consulta aos municípios da área onde os projectos de investimento se localizem, os quais deverão pronunciar-se no prazo máximo de 45 dias.
 
@@ -215,11 +262,11 @@ O [Decreto Legislativo Regional n.º 18/99/M](https://diariodarepublica.pt/dr/de
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 7 de Março de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 28 de Abril de 2006.**
+Assinado em 28 de Abril de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 

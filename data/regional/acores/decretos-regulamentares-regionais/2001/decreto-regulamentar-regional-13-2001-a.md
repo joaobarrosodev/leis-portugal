@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2001/11/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2001-596280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 509aaf734ec3dbe0d3f7b29cdaf2184d7f1e6159b9526bfcc42df9136cd446c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 848cddc98f35184849fcce52533db1c8e05ce613ac8eb9e8b7601b666d4320ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,44 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Arquivo
+- Biblioteca Pública
 - Carreira de Informática
 - CASA de Cultura
 - Centro de Estudo Conservação e Restauro dos Açores
-- ILHA de são Miguel
-- ILHA Terceira
-- Pessoal Dirigente
 - Direcção Regional da Cultura
 - Diretor Regional
-- Pessoal Operário
 - Fundo Regional de Acção Cultural
 - Horta
 - ILHA das Flores
+- ILHA de Santa Maria
 - Ilha de São Jorge
+- ILHA de são Miguel
 - Ilha do Corvo
+- ILHA do Faial
+- Ilha do Pico
+- Ilha Graciosa
+- ILHA Terceira
 - Museu
 - Museu Carlos Machado
 - Orgânica
-- ILHA de Santa Maria
-- Ilha do Pico
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Chefia
+- Pessoal Dirigente
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
 - Ponta Delgada
 - Quadro de Pessoal
-- Biblioteca Pública
-- Ilha Graciosa
-- Açores
-- ILHA do Faial
 relationships:
 - type: amended_by
   target: pt:dre:128515586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente operacional, nos termos do art. 7º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126/1994/05/19/p/dre
   label: null
@@ -135,16 +143,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:168043:por
+  label: "Revogados os arts. 18.º a 25.º e os mapas III e IV do presente diploma, pelo DRR.3/2006/A.19.12.2005.PG-RAA, DR.IS-B\
+    \ [7] de 10.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2006-168043
+  date: '2005-12-19'
+- type: repealed_by
+  target: pt:dre:128515586:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 3/2020/A - Diário da República n.º 18/2020, Série I de 2020-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2020-128515586
+  date: '2020-01-27'
 article_structure:
   article_count: 45
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 11
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:23Z'
   warnings: []
   errors: []
 ---
@@ -373,7 +432,9 @@ g) Promover e incentivar, em colaboração com os estabelecimentos de ensino, as
 
 h) Representar o Fundo Regional de Acção Cultural como delegado do respectivo conselho administrativo.
 
-###### Artigo 16.º — Divisão de Bibliotecas e Documentação
+###### Artigo 16.º
+
+##### Divisão de Bibliotecas e Documentação
 
 1 - À Divisão de Bibliotecas e Documentação compete, designadamente:
 
@@ -407,7 +468,9 @@ n) Promover o acesso dos cidadãos a todos os tipos de informação de interesse
 
 2 - À Divisão de Bibliotecas e Documentação da Biblioteca Pública e Arquivo Regional de Angra do Heroísmo compete também conferir, tratar, acondicionar, conservar e difundir a documentação recebida por depósito legal.
 
-###### Artigo 17.º — Divisão de Arquivos
+###### Artigo 17.º
+
+##### Divisão de Arquivos
 
 À Divisão de Arquivos compete, designadamente:
 
@@ -667,13 +730,13 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em Velas, São Jorge, em 10 de Julho de 2001.
 
-**O Presidente do Governo Regional dos Açores, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional dos Açores, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 11 de Setembro de 2001.**
+Assinado em Angra do Heroísmo em 11 de Setembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — Mapas a que se refere o artigo 31.º
 
@@ -681,22 +744,22 @@ MAPA I
 
 Museus
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)
 
 MAPA II
 
 Bibliotecas públicas e arquivos regionais
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)
 
 MAPA III
 
 Casas da cultura
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)
 
 MAPA IV
 
 Centro de Estudo, Conservação e Restauro dos Açores
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)](https://files.diariodarepublica.pt/1s/2001/11/258b00/70937105.pdf)

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/07/156a00/29842989.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2000/07/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2000-300664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8310128ea4748498fce8d665bb50812c9201bae5af7df7daea319aa863b808d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c154aefb1d1fb04d30d57113677883452f9c3281104ac31b505f79c0053ffbe1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,7 +68,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Administração Regional
 - Chefe de Divisão
 - Comissão de Serviço
 - Concurso
@@ -78,8 +78,8 @@ subjects:
 - Estatuto
 - Formas de Provimento
 - Madeira.região Autónoma
+- Pessoal Dirigente
 - Remuneração
-- Administração Regional
 relationships:
 - type: amended_by
   target: pt:dre:537430:por
@@ -109,16 +109,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:242071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641134:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223253:por
+  label: "Revogado pelo DLR.5/2004/M.06.04.2004.ALR-RAM, DR.IS-A [95] de 22.04.2004 a partir da entrada en vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-2004-223253
+  date: '2004-04-06'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:47Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +234,7 @@ b) Do membro do Governo Regional competente, nos restantes casos.
 
 ###### Artigo 9.º — Substituição do secretário-geral da Presidência do Governo Regional
 
-**O secretário-geral da Presidência será substituído, nas suas faltas ou impedimentos, nos termos estabelecidos pelo Presidente do Governo Regional.**
+O secretário-geral da Presidência será substituído, nas suas faltas ou impedimentos, nos termos estabelecidos pelo Presidente do Governo Regional.
 
 ###### Artigo 10.º — Opção de remuneração
 
@@ -229,11 +262,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 30 de Maio de 2000.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 21 de Junho de 2000.**
+Assinado em 21 de Junho de 2000.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — MAPA I
 
@@ -241,7 +274,7 @@ Pessoal dirigente - Descrição de funções
 
 (a que se refere o artigo 2.º, n.º 1)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/07/156a00/29842989.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/07/156a00/29842989.pdf)](https://files.diariodarepublica.pt/1s/2000/07/156a00/29842989.pdf)
 
 MAPA II
 
@@ -249,4 +282,4 @@ Pessoal dirigente - Competências próprias
 
 (a que se refere o artigo 2.º, n.º 1)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/07/156a00/29842989.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/07/156a00/29842989.pdf)](https://files.diariodarepublica.pt/1s/2000/07/156a00/29842989.pdf)

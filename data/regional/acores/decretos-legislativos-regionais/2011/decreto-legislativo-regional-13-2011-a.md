@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2011/05/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d07c0bf79489c7feba78f2161db8566928358442cf7ecae6d8c4c4fea9c12fa0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f6cd806cf2a00ec56ad959b55dfc097bf2515f669b016238557707fe6c052ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundação
-- Criação de Serviços
-- Recrutamento de Pessoal
+- Açores
+- Administração Regional
 - Conselho Diretivo
+- Criação de Serviços
+- Fundação
 - Instituto Público
+- Recrutamento de Pessoal
 - Regime Jurídico
 - Regulamento Interno
 - Remuneração
-- Administração Regional
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
@@ -109,16 +109,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 59
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:16Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +205,9 @@ h) ...
 
 i) ...
 
-###### Artigo 9.º — Formas de criação
+Artigo 9.º
+
+Formas de criação
 
 1 - ...
 
@@ -181,7 +215,9 @@ i) ...
 
 3 - ...
 
-###### Artigo 12.º — Estatutos
+Artigo 12.º
+
+Estatutos
 
 1 - As disposições relativas à organização interna dos institutos públicos constam dos seus estatutos, aprovados por decreto regulamentar regional e, em tudo o mais que, face ao disposto na lei, possa assim ser regulado, de regulamentos internos, aprovados pelos órgãos dos institutos.
 
@@ -189,7 +225,9 @@ i) ...
 
 3 - Os regulamentos internos devem regular a organização e disciplina do trabalho.
 
-###### Artigo 25.º — Estatuto dos membros
+Artigo 25.º
+
+Estatuto dos membros
 
 1 - ...
 
@@ -215,11 +253,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de Março de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Lisboa em 26 de Abril de 2011.**
+Assinado em Lisboa em 26 de Abril de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -227,7 +265,7 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Regime jurídico dos institutos públicos e fundações regionais
 
-## TÍTULO I
+TÍTULO I
 
 Objecto e âmbito de aplicação
 
@@ -253,7 +291,7 @@ Objecto e âmbito de aplicação
 
 4 - As sociedades e as associações ou fundações criadas como pessoas colectivas de direito privado pela Região Autónoma dos Açores não são abrangidas por este diploma, devendo essa criação ser sempre autorizada por diploma legal.
 
-## TÍTULO II
+TÍTULO II
 
 Princípios fundamentais
 
@@ -387,7 +425,7 @@ d) Quando a região tiver de cumprir obrigações assumidas pelos órgãos do in
 
 3 - A reestruturação, fusão ou extinção de institutos públicos regionais são objecto de diploma de valor igual ao da sua criação.
 
-## TÍTULO III
+TÍTULO III
 
 Regime comum
 
@@ -783,7 +821,7 @@ c) Os planos de actividades e os relatórios de actividades dos últimos três a
 
 d) Os orçamentos e as contas dos últimos três anos, incluindo os respectivos balanços.
 
-## TÍTULO IV
+TÍTULO IV
 
 Regimes especiais
 
@@ -809,7 +847,7 @@ b) Os estabelecimentos do Serviço Regional de Saúde.
 
 2 - Cada uma destas categorias pode ser regulada por uma lei específica.
 
-## TÍTULO V
+TÍTULO V
 
 Disposições finais e transitórias
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/045b00/07630766.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/1993/02/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1993-657252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8edf5c1065287be2f7c315833fb0ee17a50dceea8a7660e64271c147accfe14a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a5cd361bf59410fa180db82794f566517b855c580af48c41c6bf0c29af4dd12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Educação Especial
-- Secretaria Regional da Educação e Cultura
 - Orgânica
 - Remuneração
+- Secretaria Regional da Educação e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:223029:por
@@ -78,16 +78,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/42/1991/12/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/42/1991/12/27/a/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223029:por
+  label: "Revogado pelo DLR.2/98/A.1998.01.02.ALR-RAA DR.IS-A [23] DE 28/JAN/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-1998-223029
+  date: '1998-01-02'
 article_structure:
   article_count: 18
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:17Z'
   warnings: []
   errors: []
 ---
@@ -290,14 +307,14 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 9 de Dezembro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Janeiro de 1993.**
+Assinado em Angra do Heroísmo em 11 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/045b00/07630766.pdf))](https://files.diariodarepublica.pt/1s/1993/02/045b00/07630766.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/045b00/07630766.pdf)

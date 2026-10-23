@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/07/164a00/36383640.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/1997/07/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1997-147863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80c4b6b6efdf667db30738470f8da5c57c5263714e09a14cd2105a257f06995d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 859a4392ba231a6e40d6ddb6d27502fcd7325530753c0c407f95622475059c40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Contra-ordenação
 - Fiscalização
-- Política de Solos
 - Madeira.região Autónoma
+- Ordenamento do Território
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:206269671:por
@@ -92,16 +92,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:475475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:206269671:por
+  label: Revogado, a partir de 19.01.2023, pelo(a) Decreto Legislativo Regional n.º 9/2023/M - Diário da República n.º 13/2023,
+    Série I de 2023-01-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2023-206269671
+  date: '2023-01-18'
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:24Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +166,9 @@ Zonamento
 
 6 - Nas situações contempladas no número anterior, serão adoptadas as condições urbanísticas estabelecidas no artigo 26.º para zonas residenciais em meio rural, havendo lugar à aplicação dos parâmetros legalmente definidos para o dimensionamento de parcelas destinadas a infra-estruturas, equipamentos e estruturas verdes.
 
-###### Artigo 9.º — Índices urbanísticos
+Artigo 9.º
+
+Índices urbanísticos
 
 1 - ...
 
@@ -152,11 +176,15 @@ Zonamento
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 23.º — Zonas regadas
+Artigo 23.º
+
+Zonas regadas
 
 As zonas regadas abrangem áreas irrigadas onde os solos apresentam grandes potencialidades produtivas, devendo nelas ser privilegiada a agricultura, com adequada restrição a usos não agrícolas.
 
-###### Artigo 26.º — Zonas residenciais em meio rural
+Artigo 26.º
+
+Zonas residenciais em meio rural
 
 1 - ...
 
@@ -178,7 +206,9 @@ Fiscalização
 
 3 - A execução das ordens referidas no número anterior rege-se pelo disposto no [Decreto-Lei n.º 92/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1995-513870), de 9 de Maio.
 
-###### Artigo 48.º — Contra-ordenações
+Artigo 48.º
+
+Contra-ordenações
 
 1 - Constitui contra-ordenação punível com coima a realização de obras ou qualquer intervenção em violação do regime de uso, ocupação e transformação do solo definido no POTRAM.
 
@@ -226,7 +256,9 @@ Empreendimentos e grandes infra-estruturas
 
 1 - A localização e condicionamentos dos empreendimentos, obras ou acções, de iniciativa pública ou privada, que, pela sua dimensão ou natureza, tenham implicações significativas na ocupação, uso ou transformação do solo, designadamente construção de grandes infra-estruturas, obras com fins exclusivamente agrícolas ou florestais, vias de comunicação e seus acessos e obras de defesa do património cultural, devem ser previamente comunicadas ao Governo Regional, a fim de, se for o caso, desencadear as medidas previstas no POTRAM destinadas a impedir a sua efectivação.
 
-###### Artigo 45.º-B — Excepções específicas
+Artigo 45.º-B
+
+Excepções específicas
 
 1 - Os empreendimentos, obras ou acções abaixo indicados, não totalmente conformes com o regime de uso, ocupação e transformação do solo definido no POTRAM, podem fundamentada e excepcionalmente ser admitidos, assegurada a prossecução dos respectivos objectivos, através dos mecanismos de concertação de conflitos de interesse públicos representados pelos vários sujeitos da Administração Pública previstos na legislação aplicável:
 
@@ -244,8 +276,8 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 20 de Maio de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 30 de Junho de 1997.**
+Assinado em 30 de Junho de 1997.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

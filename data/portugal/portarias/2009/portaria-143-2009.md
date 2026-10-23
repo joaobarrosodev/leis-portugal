@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/02500/0083100834.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/143/2009/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/143-2009-601556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b33d18fbdb0dc8d436e8205bc69a9984b94e580632cf322f5473a6131c6a52d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5fab487e31ad3466ae61722f3b2a11fbef0e00a2477bca54c7961717ffd3a1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
 - Contra-ordenação
-- Pesca
 - Licença de Pesca
 - Parque Natural do Sudoeste Alentejano e Costa Vicentina
-- Proteção do Ambiente
+- Pesca
 - Pesca Desportiva
-- Zona de Proteção
+- Proteção do Ambiente
+- Proteção dos Animais
 - ZONA de Pesca
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:571046:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333330:por
+  label: "Dada nova redacção aos arts. 4.º e 7.º e às tabelas nºs 1 e 2 do anexo I pela PORT.458-A/2009.04.05.2009.PCM, DR.IS\
+    \ [85-Supl] de 04.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/458-a-2009-333330
+  date: '2009-05-04'
+- type: amended_by
+  target: pt:dre:205016:por
+  label: "Dada nova redacção aos arts. 2º, 3º, 4º (alterado pela Port 458-A/2009 de 04-Mai), 5º, 6º e 7º (alterado pela Port\
+    \ 458-A/2009 de 04-Mai), e ao anexo III, aditada uma última linha ao anexo II, e revogados o art. 10º e o anexo I, todos\
+    \ do presente diploma, pela PORT.115-A/2011.24.03.2011.PCM, DR.IS [59-Supl] de 24.03.2011, que o republicou com todas\
+    \ as alterações.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/115-a-2011-205016
+  date: '2011-03-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2005/07/08/p/dre
   label: null
@@ -97,16 +111,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/33/1995/12/11/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/33/1995/12/11/p/dre
+- type: cites
+  target: pt:dre:235911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632207:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571046:por
+  label: "Revogada a presente Portaria, na redacção da Port 458-A/2009, de 04-maio, e da Port 115-A/2011, de 24-mar, pela\
+    \ PORT.14/2014.23.01.2014.MAGM, DR.IS [16] de 23.01.2014\0014\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/14-2014-571046
+  date: '2014-01-23'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:14Z'
   warnings: []
   errors: []
 ---
@@ -225,19 +261,19 @@ Pelo Ministro da Presidência, Laurentino José Monteiro Castro Dias, Secretári
 
 (a que se refere o n.º 1 do artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02500/0083100834.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02500/0083100834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02500/0083100834.pdf)
 
 TABELA N.º 1
 
 Coordenadas geográficas dos pontos de referência relativos aos limites das áreas de interdição à pesca lúdica referidas no n.º 1 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02500/0083100834.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02500/0083100834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02500/0083100834.pdf)
 
 TABELA N.º 2
 
 Coordenadas geográficas dos pontos centrais das áreas de protecção a ilhéus e pedras ilhadas referidas no n.º 2 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/02500/0083100834.pdf))](https://files.diariodarepublica.pt/1s/2009/02/02500/0083100834.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/02500/0083100834.pdf)
 
 ## ANEXO II — Espécies passíveis de apanha
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/032b00/11301144.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1/2005/02/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2005-604197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3c12d0d7ef52a193acde613f9b565a90e9619d8b1b192f14768987490910da5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b420499ac33cbf4f718d2748ec0749e53e2523d199dde420c3e2b2ad0441696b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ILHA Terceira
 - Ordenamento do Território
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
-- Zona de Proteção
+- Proteção do Ambiente
 - Regulamento
-- Açores
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:223336984:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:121854640:por
+  label: Suspenso parcialmente, pelo prazo de dois anos, o Plano de Ordenamento da Orla Costeira da Ilha Terceira (POOC Terceira),
+    aprovado pelo presente diploma, pelo(a) Decreto Regulamentar Regional n.º 3/2019/A - Diário da República n.º 65/2019,
+    Série I de 2019-04-02, nos termos do disposto no seu art. 3.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2019-121854640
+  date: '2019-04-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-l
   label: null
@@ -117,16 +124,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/767/1996/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/767/1996/12/30/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645096:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223336984:por
+  label: Revogado, a partir de 27.10.2023, pelo(a) Decreto Regulamentar Regional n.º 30/2023/A - Diário da República n.º 208/2023,
+    Série I de 2023-10-26 nos termos do art. 5.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-2023-223336984
+  date: '2023-10-26'
 article_structure:
   article_count: 55
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:01Z'
   warnings: []
   errors: []
 ---
@@ -165,13 +238,13 @@ O Plano de Ordenamento da Orla Costeira da Ilha Terceira entra em vigor no dia s
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 30 de Setembro de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 24 de Janeiro de 2005.**
+Assinado em Angra do Heroísmo em 24 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
@@ -1143,10 +1216,10 @@ Aos embargos e demolições a que houver lugar no âmbito de aplicação do POOC
 
 Planta de síntese
 
-[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11301144.pdf)
+[[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11301144.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11301144.pdf)
 
 ## ANEXO III — (a que se refere o artigo 1.º)
 
 Planta de condicionantes
 
-[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11301144.pdf)
+[[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11301144.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11301144.pdf)

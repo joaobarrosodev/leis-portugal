@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2010/03/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2010-611938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d84ff5e8709e33658cc2f794fdbe101543cea329ec815c8905ebe5cd50aded06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0d76c214261c7fa3d716dec263fc5d54b69bf5e0262c40785eddf09857f5458
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Investigação Científica e Tecnológica
+- Açores
+- Apoio ao Investimento
+- Comércio
 - Comparticipação
 - Contrato
 - Contrato de Concessão
-- Desenvolvimento Regional
-- Estabelecimento de Restauração
-- Fiscalização
-- Apoio ao Investimento
-- Indústria
 - Desenvolvimento Económico
-- Urbanismo
-- Estabelecimento de Ensino
 - Desenvolvimento Local
+- Desenvolvimento Regional
+- Estabelecimento de Ensino
+- Estabelecimento de Restauração
+- Financiamento
+- Fiscalização
+- Indústria
+- Infraestrutura Turística
+- Investigação Científica e Tecnológica
 - Sider
-- Açores
 - Subsídio
 - Subsídio não Reembolsável
-- Comércio
-- Infraestrutura Turística
+- Turismo
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:25345896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146559:por
+  label: "Alterados os arts. 3º, 5º, 19º, 24º, 29º e 34º do DLR 19/2007/A, de 23-Jul, na redacção do presente diploma, pelo\
+    \ DLR.26/2011/A.04.11.2011.AL-RAA, DR.IS [212] de 04.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2011-146559
+  date: '2011-11-04'
 - type: cites
   target: celex:32006R1998
   label: null
@@ -100,16 +106,23 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/19/2007/07/23/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/19/2007/07/23/a/dre
+- type: repealed_by
+  target: pt:dre:25345896:por
+  label: Revogado, a partir de 01.07.2014, o DLR 19/2007/A, de 23-jul, na redação do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 12/2014/A - Diário da República n.º 130/2014, Série I de 2014-07-09, sem prejuízo do disposto no seu art.
+    25º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2014-25345896
+  date: '2014-07-09'
 article_structure:
-  article_count: 54
+  article_count: 47
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:05Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +173,9 @@ e)...
 
 5 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -180,7 +195,9 @@ f)...
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -214,7 +231,9 @@ l) Despesas com garantias bancárias exigidas ao promotor.
 
 5 - As despesas elegíveis a que se referem as alíneas g) e j) do n.º 1 não podem ultrapassar 50 % do investimento elegível, no caso de grandes empresas.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -224,7 +243,9 @@ l) Despesas com garantias bancárias exigidas ao promotor.
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +269,9 @@ c)...
 
 3 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +289,9 @@ c)...
 
 2 - ...
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -300,7 +325,9 @@ m) ...
 
 4 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - ...
 
@@ -330,11 +357,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de Fevereiro de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 4 de Março de 2010.**
+Assinado em Angra do Heroísmo em 4 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

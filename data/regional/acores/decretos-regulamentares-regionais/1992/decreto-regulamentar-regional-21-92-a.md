@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/116b00/23782381.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/1992/05/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1992-523183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff9415af2a8d9d86bd68eb51998ec02c5373508cb8f699bff7fcd520e8ef88fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 035012006cdf817a7d34e8072718ec2d309098eac6d2dd97c723e40734ca67de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Governo Regional
 - Orgânica
 - Pessoal Administrativo
@@ -72,12 +73,17 @@ subjects:
 - Pessoal de Informática
 - Quadro de Pessoal
 - Secretaria Regional da Agricultura e Pescas
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:516758:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:213618:por
+  label: "Alterado o cap. III [abrange os arts. 42.º a 58.º] e substituído o quadro de pessoal anexo ao DRR 5/89/A, de 21-Fev,\
+    \ na redacção do presente diploma, pelo DRR.39/96/A.28.09.1996.SRAGP-RAA, DR.IS-B [226] de 28.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/39-1996-213618
+  date: '1996-09-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -86,16 +92,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:612400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516758:por
+  label: "Revogado pelo DRR.13/98/A.1998.04.13.SRAPA-RAA, DR.IS-B [109] de 12/Mai/1998b\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1998-516758
+  date: '1998-04-13'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:02Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +135,7 @@ Através do presente diploma, altera-se o quadro de pessoal da Secretaria Region
 
 Assim, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 47.º e 53.º do [Decreto Regulamentar Regional n.º 5/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1989-612400), de 21 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 47.º e 53.º do [Decreto Regulamentar Regional n.º 5/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1989-612400), de 21 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 47.º — Pessoal de informática
 
@@ -122,26 +145,26 @@ O pessoal de informática será recrutado e provido nos termos do [Decreto-Lei n
 
 O técnico-adjunto de biblioteca e documentação será recrutado e provido nos termos do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho.
 
-###### Art. 2.º Ao [Decreto Regulamentar Regional n.º 5/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1989-612400), de 21 de Fevereiro, é aditado um artigo 42.º-A, com a seguinte redacção:
+Art. 2.º Ao [Decreto Regulamentar Regional n.º 5/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1989-612400), de 21 de Fevereiro, é aditado um artigo 42.º-A, com a seguinte redacção:
 
 ###### Artigo 42.º-A — Quadro de pessoal administrativo
 
 O pessoal administrativo da Secretaria Regional da Agricultura e Pescas constitui um quadro único, inserido na Repartição de Serviços Administrativos, competindo ao Secretário Regional a distribuição da dotação respectiva pelos diversos serviços e ilhas, conforme as necessidades e as conveniências dos mesmos, sem prejuízo dos direitos dos funcionários já providos.
 
-###### Art. 3.º A transição do pessoal das carreiras de informática e de biblioteca e documentação far-se-á de acordo com as disposições específicas inseridas nos Decretos-Leis n.os [23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, e [247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho.
+Art. 3.º A transição do pessoal das carreiras de informática e de biblioteca e documentação far-se-á de acordo com as disposições específicas inseridas nos Decretos-Leis n.os [23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, e [247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho.
 
-###### Art. 4.º O quadro de pessoal constante do mapa anexo do [Decreto Regulamentar Regional n.º 5/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1989-612400), de 21 de Fevereiro, é alterado de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.
+Art. 4.º O quadro de pessoal constante do mapa anexo do [Decreto Regulamentar Regional n.º 5/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1989-612400), de 21 de Fevereiro, é alterado de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 10 de Março de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 2 de Abril de 1992.**
+Assinado em Angra do Heroísmo em 2 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que ao refere o artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/116b00/23782381.pdf))](https://files.diariodarepublica.pt/1s/1992/05/116b00/23782381.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/116b00/23782381.pdf)

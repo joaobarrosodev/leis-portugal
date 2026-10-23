@@ -77,6 +77,42 @@ subjects:
 - Açores
 - Rede Regional de Áreas Marinhas Protegidas dos Açores
 relationships:
+- type: amended_by
+  target: pt:dre:938923407:por
+  label: Alterado, a partir de 10 de outubro de 2025, com efeitos a partir de 12 de setembro de 2025, o artigo 12.º, pelo(a)
+    Decreto Legislativo Regional n.º 22/2025/A - Diário da República n.º 195/2025, Série I de 2025-10-09, que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2025-938923407
+  date: '2025-10-09'
+- type: amended_by
+  target: pt:dre:1065236029:por
+  label: Alterados, a partir de 4 de março de 2026, os artigos 3.º, 5.º e 11.º e aditado o artigo 5.º-A pelo(a) Decreto Legislativo
+    Regional n.º 6/2026/A - Diário da República n.º 43/2026, Série I de 2026-03-03 que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2026-1065236029
+  date: '2026-03-03'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:28/2011/A
+  label: Altera, a partir de 30 de setembro de 2025, os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º,
+    13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 18.º-A, 19.º, 20.º, 20.º-A, 20.º-B, 20.º-C, 21.º, 22.º, 23.º, 24.º, 25.º, 25.º-A,
+    25.º-B, 26.º, 27.º, 28.º, 29.º e 30.º e renumera ainda os mesmos artigos 2.º, 5.º, 6.º, 8.º, 11.º, 12.º, 13.º, 14.º, 16.º,
+    19.º, 23.º, 24.º, 25.º, 25.º-A e 25.º-B respetivamente, como artigos 7.º, 10.º, 11.º, 12.º, 41.º, 42.º, 43.º, 44.º, 52.º,
+    67.º, 70.º, 71.º, 72.º, 73.º e 74.º, altera as epígrafes dos capítulos ii, iii, iv e v e as epígrafes das secções i, ii,
+    iii e iv do capítulo ii , adita, na mesma data, os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º,
+    19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º, 33.º, 34.º, 35.º, 36.º, 37.º, 38.º,
+    39.º, 40.º, 45.º, 46.º, 47.º, 48.º, 49.º, 50.º, 51.º, 53.º, 54.º, 55.º, 56.º, 57.º, 58.º, 59.º, 60.º, 61.º, 62.º, 63.º,
+    64.º, 65.º, 66.º, 68.º, 69.º, 75.º, 76.º, 77.º, 78.º, 79.º, 80.º, 81.º, 82.º, 83.º, 84.º, 85.º, 86.º, 87.º, 88.º, 89.º,
+    90.º, 91.º, 92.º, 93.º, 94.º, 95.º, 96.º, 97.º, 98.º, 99.º, 100.º, 101.º, 102.º, 103.º, 104.º, 105.º, 106.º, 107.º, 108.º,
+    109.º, 110.º, 111.º, 112.º, 113.º, 114.º, 115.º e 116.º bem como várias divisões sistemáticas e revoga, a partir de 30
+    de setembro de 2025, os anexos i, ii e iii do Decreto Legislativo Regional n.º 28/2011/A - Diário da República n.º 217/2011,
+    Série I de 2011-11-11, que republica em anexo
+  source: null
+  date: '2011-11-11'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:15/2012/A
+  label: Derroga, a partir de 30 de setembro de 2025, o regime constante do Decreto Legislativo Regional n.º 15/2012/A - Diário
+    da República n.º 66/2012, Série I de 2012-04-02, sempre que este disponha de modo diverso do estatuído no presente diploma,
+    exceto nas situações em que estabeleça um regime de proteção mais restritivo
+  source: null
+  date: '2012-04-02'
 - type: cites
   target: celex:31992L0043
   label: null
@@ -137,6 +173,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
+- type: cites
+  target: pt:dre:121579662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124097546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126669989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74967224:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:47/2008/A
+  label: Revoga, a partir de 30 de setembro de 2025, a alínea a) do artigo 7.º e o artigo 8.º do Decreto Legislativo Regional
+    n.º 47/2008/A - Diário da República n.º 217/2008, Série I de 2008-11-07
+  source: null
+  date: '2008-11-07'
 article_structure:
   article_count: 129
   section_count: 33

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/21900/0010700188.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2024/11/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2024-896297376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 395f792e71216f8cc59d48992d111493b707e5628e1c3e1c9a5edde934018a08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f63eb34d850f5d8ed2821710de9c5979d435aa4abe816e225eb64dee19829ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Extinção de Serviços
 - Orgânica
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Açores
 - Secretaria Regional do Turismo Mobilidade e Infraestruturas
 relationships:
 - type: cites
@@ -106,16 +106,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200634455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860106954:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:15/2022/A
+  label: Revoga, a partir de 13 de novembro de 2024, o Decreto Regulamentar Regional n.º 15/2022/A - Diário da República n.º
+    171/2022, Série I de 2022-09-05
+  source: null
+  date: '2022-09-05'
 article_structure:
   article_count: 108
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 36
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:02Z'
   warnings: []
   errors: []
 ---
@@ -218,11 +260,11 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 16 de outubro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 7 de novembro de 2024.**
+Assinado em Angra do Heroísmo em 7 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -460,7 +502,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - O SAJCP integra a Divisão dos Assuntos Jurídicos.
 
-###### Artigo 9.º — Divisão dos Assuntos Jurídicos
+###### Artigo 9.º
+
+##### Divisão dos Assuntos Jurídicos
 
 1 - À Divisão dos Assuntos Jurídicos, doravante designada por DAJ, compete:
 
@@ -534,7 +578,9 @@ a) A Divisão de Planeamento e Controlo Financeiro;
 
 b) O Centro de Informação e Documentação.
 
-###### Artigo 11.º — Divisão de Planeamento e Controlo Financeiro
+###### Artigo 11.º
+
+##### Divisão de Planeamento e Controlo Financeiro
 
 1 - À Divisão de Planeamento e Controlo Financeiro, doravante designada por DPCF, compete:
 
@@ -562,7 +608,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DPCF integra a Secção de Vencimentos, Contabilidade e Serviços Administrativos.
 
-###### Artigo 12.º — Secção de Vencimentos, Contabilidade e Serviços Administrativos
+###### Artigo 12.º
+
+#### Secção de Vencimentos, Contabilidade e Serviços Administrativos
 
 1 - À Secção de Vencimentos, Contabilidade e Serviços Administrativos, doravante designada por SVCSA, compete:
 
@@ -676,7 +724,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - O SGRH integra a Secção de Pessoal.
 
-###### Artigo 15.º — Secção de Pessoal
+###### Artigo 15.º
+
+#### Secção de Pessoal
 
 1 - À Secção de Pessoal, doravante designada por SP, compete:
 
@@ -852,7 +902,9 @@ u) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - O SGRI integra a Divisão Administrativa e Financeira.
 
-###### Artigo 21.º — Divisão Administrativa e Financeira
+###### Artigo 21.º
+
+##### Divisão Administrativa e Financeira
 
 1 - À Divisão Administrativa e Financeira, doravante designada por DAF, compete:
 
@@ -1516,7 +1568,9 @@ a) Divisão dos Transportes Aéreos e Setor Aeroportuário;
 
 b) Divisão dos Transportes Marítimos e Setor Portuário.
 
-###### Artigo 38.º — Divisão dos Transportes Aéreos e Setor Aeroportuário
+###### Artigo 38.º
+
+##### Divisão dos Transportes Aéreos e Setor Aeroportuário
 
 1 - À Divisão dos Transportes Aéreos e Setor Aeroportuário, doravante designada por DTASA, compete:
 
@@ -1594,7 +1648,9 @@ g) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NATTA é coordenado por trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do Diretor Regional da Mobilidade, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 41.º — Divisão dos Transportes Marítimos e Setor Portuário
+###### Artigo 41.º
+
+##### Divisão dos Transportes Marítimos e Setor Portuário
 
 1 - À Divisão dos Transportes Marítimos e Setor Portuário, doravante designada por DTMSP, compete:
 
@@ -1650,7 +1706,9 @@ h) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NAAM é coordenado por trabalhador com vínculo de emprego público por tempo indeterminado, designado, através de despacho do Diretor Regional da Mobilidade, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 43.º — Divisão de Planeamento, Gestão de Recursos e Contabilidade
+###### Artigo 43.º
+
+##### Divisão de Planeamento, Gestão de Recursos e Contabilidade
 
 1 - À Divisão de Planeamento, Gestão de Recursos e Contabilidade, doravante designada por DPGRC, compete:
 
@@ -1832,7 +1890,9 @@ c) A Divisão de Infraestruturas Marítimas e Hidráulicas;
 
 d) O Núcleo de Apoio Administrativo.
 
-###### Artigo 50.º — Divisão de Edifícios
+###### Artigo 50.º
+
+##### Divisão de Edifícios
 
 1 - À Divisão de Edifícios, doravante designada por DE, compete:
 
@@ -1872,7 +1932,9 @@ b) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NME é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado designado, através de despacho do Diretor Regional das Obras Públicas, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 52.º — Divisão de Equipamentos Públicos
+###### Artigo 52.º
+
+##### Divisão de Equipamentos Públicos
 
 1 - À Divisão de Equipamentos Públicos, doravante designada por DEP, compete:
 
@@ -1910,7 +1972,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NIRT é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do Diretor Regional das Obras Públicas, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 54.º — Divisão de Infraestruturas Marítimas e Hidráulicas
+###### Artigo 54.º
+
+##### Divisão de Infraestruturas Marítimas e Hidráulicas
 
 1 - À Divisão de Infraestruturas Marítimas e Hidráulicas, doravante designada por DIMH, compete:
 
@@ -1992,7 +2056,9 @@ b) A Divisão de Construção e Conservação de Estradas;
 
 c) O Serviço de Estaleiro Central, Máquinas e Viaturas.
 
-###### Artigo 57.º — Divisão de Gestão de Projetos
+###### Artigo 57.º
+
+##### Divisão de Gestão de Projetos
 
 1 - À Divisão de Gestão de Projetos, doravante designada por DGP, compete:
 
@@ -2044,7 +2110,9 @@ c) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NAA é dirigido por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 59.º — Divisão de Construção e Conservação de Estradas
+###### Artigo 59.º
+
+##### Divisão de Construção e Conservação de Estradas
 
 1 - À Divisão de Construção e Conservação de Estradas, doravante designada por DCCE, compete:
 
@@ -2172,7 +2240,9 @@ g) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O SMVAGS é dirigido por um chefe de setor, cargo de direção específica de 2.º grau designado por despacho do secretário regional, nos termos do disposto no artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 64.º — Divisão de Controlo Financeiro e Planeamento
+###### Artigo 64.º
+
+##### Divisão de Controlo Financeiro e Planeamento
 
 1 - À Divisão de Controlo Financeiro e Planeamento, doravante designada por DCFP, compete:
 
@@ -2440,7 +2510,9 @@ ii) Assegurar a realização de outras tarefas que, no âmbito da sua área de c
 
 3 - O SEELC integra a Divisão de Eficiência Energética e Licenciamentos.
 
-###### Artigo 70.º — Divisão de Eficiência Energética e Licenciamentos
+###### Artigo 70.º
+
+##### Divisão de Eficiência Energética e Licenciamentos
 
 1 - À Divisão de Eficiência Energética e Licenciamentos, doravante designada por DEEL, compete:
 
@@ -2842,7 +2914,9 @@ i) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O SEMC é dirigido por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 83.º — Divisão de Planeamento, Qualidade e Inovação
+###### Artigo 83.º
+
+##### Divisão de Planeamento, Qualidade e Inovação
 
 1 - À Divisão de Planeamento, Qualidade e Inovação, doravante designada por DPQI, compete:
 
@@ -2876,7 +2950,9 @@ m) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DPQI integra a Secção Administrativa e Financeira.
 
-###### Artigo 84.º — Secção Administrativa e Financeira
+###### Artigo 84.º
+
+#### Secção Administrativa e Financeira
 
 1 - À Secção Administrativa e Financeira, doravante designada por SAF, compete:
 
@@ -3294,32 +3370,32 @@ Quadro de pessoal dirigente, de chefia e de direção específica da Secretaria 
 
 | Número de lugares | Designação dos serviços e dos cargos | Remuneração |
 | --- | --- | --- |
-| Serviços executivos centrais | Serviços executivos centrais | Serviços executivos centrais |
-| Serviço de Apoio Jurídico e Contratação Pública | Serviço de Apoio Jurídico e Contratação Pública | Serviço de Apoio Jurídico e Contratação Pública |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Serviços executivos centrais |  |  |
+| Serviço de Apoio Jurídico e Contratação Pública |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor do Serviço de Apoio Jurídico e Contratação Pública, cargo de direção intermédia de 1.º grau | (a) |
 | 1 | Chefe de Divisão de Assuntos Jurídicos, cargo de direção intermédia de 2.º grau | (a) |
-| Serviço de Planeamento, Controlo Financeiro e Documentação | Serviço de Planeamento, Controlo Financeiro e Documentação | Serviço de Planeamento, Controlo Financeiro e Documentação |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Serviço de Planeamento, Controlo Financeiro e Documentação |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor do Serviço de Planeamento, Controlo Financeiro e Documentação, cargo de direção intermédia de 1.º grau | (a) |
 | 1 | Chefe de Divisão de Planeamento e Controlo Financeiro, cargo de direção intermédia de 2.º grau | (a) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador da Secção de Vencimentos, Contabilidade e Serviços Administrativos | (d) |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Centro de Informação e Documentação | (b) |
-| Serviço de Gestão de Recursos Humanos | Serviço de Gestão de Recursos Humanos | Serviço de Gestão de Recursos Humanos |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Serviço de Gestão de Recursos Humanos |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor do Serviço de Gestão de Recursos Humanos, equiparado a chefe de divisão, cargo de direção intermédia de 2.º grau | (a) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador da Secção de Pessoal | (d) |
-| Núcleo de Informática | Núcleo de Informática | Núcleo de Informática |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Núcleo de Informática |  |  |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Núcleo de Informática | (b) |
 |  | Gabinete de Relações Públicas |  |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Gabinete de Relações Públicas | (b) |
-| Direção Regional do Turismo | Direção Regional do Turismo | Direção Regional do Turismo |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Direção Regional do Turismo |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor Regional do Turismo, cargo de direção superior de 1.º grau | (a) |
 | 1 | Diretor do Serviço de Gestão de Recursos e Incentivos, cargo de direção intermédia de 1.º grau | (a) |
 | 1 | Diretor do Serviço de Ordenamento e Valorização da Oferta e do Produto, cargo de direção intermédia de 1.º grau | (a) |
@@ -3338,8 +3414,8 @@ Quadro de pessoal dirigente, de chefia e de direção específica da Secretaria 
 | 1 | Coordenador do Núcleo de Informação Turística da Terceira | (b) |
 | 1 | Coordenador do Núcleo de Informação Turística de São Miguel | (b) |
 | 1 | Coordenador do Núcleo de Informação Turística de São Jorge | (b) |
-| Direção Regional da Mobilidade | Direção Regional da Mobilidade | Direção Regional da Mobilidade |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Direção Regional da Mobilidade |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor Regional da Mobilidade, cargo de direção superior de 1.º grau | a) |
 | 1 | Subdiretor Regional dos Transportes Terrestres | (e) |
 | 1 | Diretor de Serviço de Viação e Transportes Terrestres de Ponta Delgada, cargo de direção intermédia de 1.º grau | (e) |
@@ -3347,7 +3423,7 @@ Quadro de pessoal dirigente, de chefia e de direção específica da Secretaria 
 | 1 | Chefe de Divisão dos Transportes Aéreos e Setor Aeroportuário, cargo de direção intermédia de 2.º grau | (a) |
 | 1 | Chefe de Divisão dos Transportes Marítimos e Setor Portuário, cargo de direção intermédia de 2.º grau | (a) |
 | 1 | Chefe de Divisão de Planeamento, Gestão de Recursos e Contabilidade, cargo de direção intermédia de 2.º grau | (a) |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Núcleo de Apoio Técnico às Infraestruturas Aeroportuárias | (b) |
 | 1 | Coordenador do Núcleo de Apoio Técnico aos Transportes Aéreos | (b) |
 | 1 | Coordenador do Núcleo de Apoio à Atividade Marítima | (b) |
@@ -3355,8 +3431,8 @@ Quadro de pessoal dirigente, de chefia e de direção específica da Secretaria 
 | 1 | Coordenador do Núcleo de Apoio Técnico à Gestão Financeira | (b) |
 | 1 | Coordenador do Núcleo de Apoio Técnico à Área Administrativa | (b) |
 | 1 | Coordenador do Gabinete Regional de Contraordenações Rodoviárias | (b) |
-| Direção Regional das Obras Públicas | Direção Regional das Obras Públicas | Direção Regional das Obras Públicas |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Direção Regional das Obras Públicas |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor Regional das Obras Públicas, cargo de direção superior de 1.º grau | (a) |
 | 1 | Diretor de Serviços de Edifícios e Equipamentos Públicos, cargo de direção intermédia de 1.º grau | (a) |
 | 1 | Diretor de Serviços de Estradas, cargo de direção intermédia de 1.º grau | (a) |
@@ -3366,90 +3442,90 @@ Quadro de pessoal dirigente, de chefia e de direção específica da Secretaria 
 | 1 | Chefe de Divisão de Construção e Conservação de Estradas, cargo de direção intermédia de 2.º grau | (a) |
 | 1 | Chefe de Divisão de Controlo Financeiro e Planeamento, cargo de direção intermédia de 2.º grau | (a) |
 | 1 | Chefe de Divisão de Infraestruturas Marítimas e Hidráulicas | (a) |
-| Pessoal de direção específica | Pessoal de direção específica | Pessoal de direção específica |
+| Pessoal de direção específica |  |  |
 | 1 | Diretor do Serviço de Apoio Jurídico, Segurança, Saúde e Ambiente, cargo de direção específica de 1.º grau | (c) |
 | 1 | Chefe do Serviço de Estaleiro Central, Máquinas e Viaturas, cargo de direção específica de 1.º grau | (c) |
 | 3 | Chefe de Setor de Conservação, cargo de direção específica de 2.º grau | (c) |
 | 1 | Chefe de Setor de Máquinas e Viaturas, Aprovisionamento e Gestão de Stocks, cargo de direção específica de 2.º grau | (c) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador do Núcleo de Apoio Administrativo SEEP | (d) |
 | 1 | Coordenador do Núcleo de Apoio Administrativo da DGP | (d) |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Núcleo de Manutenção de Edifícios | (b) |
 | 1 | Coordenador do Núcleo de Instalações e Redes Técnicas | (b) |
 | 1 | Coordenador do Núcleo de Sinalização e Equipamentos de Segurança | (b) |
 | 1 | Coordenador do Núcleo de Segurança e Saúde no Trabalho | (b) |
 | 1 | Coordenador do Núcleo de Ambiente | (b) |
-| Direção Regional da Energia | Direção Regional da Energia | Direção Regional da Energia |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Direção Regional da Energia |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor Regional da Energia, cargo de direção superior de 1.º grau | (a) |
 | 1 | Diretor do Serviço de Eficiência Energética e Licenciamentos e Combustíveis, cargo de direção intermédia de 1.º grau | (a) |
 | 1 | Diretor do Serviço de Planeamento e Gestão de Recursos, cargo de direção intermédia de 1.º grau | (a) |
 | 1 | Chefe de Divisão Eficiência Energética e Licenciamentos, cargo de direção intermédia de 2.º grau | (a) |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Núcleo de Eficiência Energética | (b) |
 | 1 | Coordenador do Núcleo de Revisão e Produção de Conteúdos | (b) |
 | 1 | Coordenador do Núcleo de Gestão de Fundos Comunitários | (b) |
 | 1 | Coordenador do Núcleo de Gestão de Projetos Europeus | (b) |
 | 1 | Coordenador do Núcleo de Gestão de Incentivos e Recursos Financeiros | (b) |
-| Laboratório Regional de Engenharia Civil | Laboratório Regional de Engenharia Civil | Laboratório Regional de Engenharia Civil |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Laboratório Regional de Engenharia Civil |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor do Laboratório Regional de Engenharia Civil, equiparado a diretor regional, cargo de direção superior de 1.º grau | (a) |
 | 1 | Diretor de Serviços de Geotecnia, Sustentabilidade e Prospeção, cargo de direção intermédia de 1.º grau | (a) |
 | 1 | Diretor de Serviços de Estruturas e Materiais de Construção, cargo de direção intermédia de 1.º grau | (a) |
 | 1 | Chefe de Divisão de Planeamento, Qualidade e Inovação, cargo de direção intermédia de 2.º grau | (a) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador do Serviço de Informática, Desenvolvimento e Consultoria | (b) |
-| Inspeção Regional do Turismo | Inspeção Regional do Turismo | Inspeção Regional do Turismo |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Inspeção Regional do Turismo |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Inspetor Regional do Turismo | (f) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Núcleo de Apoio à Inspeção, Instrução e Planeamento | (b) |
-| Serviços executivos periféricos | Serviços executivos periféricos | Serviços executivos periféricos |
-| Serviços de Ilha de Santa Maria | Serviços de Ilha de Santa Maria | Serviços de Ilha de Santa Maria |
-| Pessoal de direção específica | Pessoal de direção específica | Pessoal de direção específica |
+| Serviços executivos periféricos |  |  |
+| Serviços de Ilha de Santa Maria |  |  |
+| Pessoal de direção específica |  |  |
 | 1 | Delegado de Ilha, cargo de direção específica de 1.º grau | (c) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador da Secção Administrativa e Financeira | (d) |
-| Serviços de Ilha da Terceira | Serviços de Ilha da Terceira | Serviços de Ilha da Terceira |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Serviços de Ilha da Terceira |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Delegado de Ilha, equiparado a subdiretor regional, cargo de direção superior de 2.º grau | (a) |
 | 1 | Diretor do Serviço de Viação e Transportes Terrestres de Angra do Heroísmo, cargo de direção intermédia de 1.º grau | (e) |
 | 1 | Chefe de Divisão de Obras Públicas, cargo de direção intermédia de 2.º grau | (a) |
-| Pessoal de direção específica | Pessoal de direção específica | Pessoal de direção específica |
+| Pessoal de direção específica |  |  |
 | 1 | Chefe de Setor de Conservação, cargo de direção específica de 2.º grau | (c) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador da Secção Administrativa e Financeira | (d) |
-| Serviços de Ilha do Faial | Serviços de Ilha do Faial | Serviços de Ilha do Faial |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Serviços de Ilha do Faial |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor do Serviço de Viação e Transportes Terrestres da Horta, cargo de direção intermédia de 2.º grau | (e) |
-| Pessoal de direção específica | Pessoal de direção específica | Pessoal de direção específica |
+| Pessoal de direção específica |  |  |
 | 1 | Delegado de Ilha, cargo de direção específica de 1.º grau | (c) |
 | 1 | Chefe de Setor de Conservação, cargo de direção específica de 2.º grau | (c) |
 | 1 | Chefe de Setor de Oficinas, Máquinas e Viaturas, cargo de direção específica de 2.º grau. | (c) |
-| Serviços de Ilha do Pico | Serviços de Ilha do Pico | Serviços de Ilha do Pico |
-| Pessoal de direção específica | Pessoal de direção específica | Pessoal de direção específica |
+| Serviços de Ilha do Pico |  |  |
+| Pessoal de direção específica |  |  |
 | 1 | Delegado de Ilha, cargo de direção específica de 1.º grau | (c) |
 | 1 | Chefe de Setor de Conservação, cargo de direção específica de 2.º grau | (c) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador da Secção Administrativa e Financeira | (d) |
-| Serviços de Ilha de São Jorge | Serviços de Ilha de São Jorge | Serviços de Ilha de São Jorge |
-| Pessoal de direção específica | Pessoal de direção específica | Pessoal de direção específica |
+| Serviços de Ilha de São Jorge |  |  |
+| Pessoal de direção específica |  |  |
 | 1 | Delegado de Ilha, cargo de direção específica de 1.º grau | (c) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador da Secção Administrativa e Financeira | (d) |
-| Serviços de Ilha da Graciosa | Serviços de Ilha da Graciosa | Serviços de Ilha da Graciosa |
-| Pessoal de direção específica | Pessoal de direção específica | Pessoal de direção específica |
+| Serviços de Ilha da Graciosa |  |  |
+| Pessoal de direção específica |  |  |
 | 1 | Delegado de Ilha, cargo de direção específica de 1.º grau | (c) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador da Secção Administrativa e Financeira | (d) |
-| Serviços de Ilha das Flores | Serviços de Ilha das Flores | Serviços de Ilha das Flores |
-| Pessoal de direção específica | Pessoal de direção específica | Pessoal de direção específica |
+| Serviços de Ilha das Flores |  |  |
+| Pessoal de direção específica |  |  |
 | 1 | Delegado de Ilha, cargo de direção específica de 1.º grau | (c) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador da Secção Administrativa e Financeira | (d) |
-| Serviços de Ilha do Corvo | Serviços de Ilha do Corvo | Serviços de Ilha do Corvo |
-| Pessoal de direção específica | Pessoal de direção específica | Pessoal de direção específica |
+| Serviços de Ilha do Corvo |  |  |
+| Pessoal de direção específica |  |  |
 | 1 | Delegado de Ilha, cargo de direção específica de 1.º grau | (c) |
 
 (a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
@@ -3463,3 +3539,5 @@ Quadro de pessoal dirigente, de chefia e de direção específica da Secretaria 
 (e) Remuneração de acordo com o Estatuto do Pessoal Dirigente, acrescido do suplemento previsto no artigo 12.º do Decreto Regulamentar Regional n.º 21/2004/A, de 1 de julho.
 
 (f) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, acrescido do suplemento remuneratório fixado nos termos do Decreto-Lei n.º 112/2001, de 6 de abril, com a adaptação à Região Autónoma dos Açores efetuada pelo Decreto Legislativo Regional n.º 22/2001/A, de 13 de novembro.
+
+118325208

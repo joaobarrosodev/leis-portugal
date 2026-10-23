@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20800/21932195.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1977-286337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c07e20b186ed39178b729692ce40ab6049abdea11288daeb6e552456a90f5256
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65805a0fe23df016c2640c72fce941792943ef41e937fdddddac76c1d12254cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Assembleia Regional
+- Cargos Políticos
+- Estatuto do Deputado
+- Parlamentar
 relationships:
 - type: amended_by
   target: pt:dre:412790:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693462:por
+  label: "Alterados os arts 10º, 12º-A e 19º, na redacção do DRG 14/77/A de 12-Jul, da ARA DR.IS [208] de 08/Set/1977, pelo\
+    \ DRG.14/78/A.1978.12.22.ARA, DR.IS [293]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/14-1978-693462
+  date: '1978-12-22'
+- type: repealed_by
+  target: pt:dre:412790:por
+  label: "Revogado pelo DRG.1/81/A.1981.03.18.ARA, DR.IS [68]Supl de 23/Mar/1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/1-1981-412790
+  date: '1981-03-18'
+- type: republished_by
+  target: pt:dre:1945608:por
+  label: "Republicado, com correcções, pela DECL.DD162/78.27.07.1978.MR-RAA, DR.IS [171] de 27.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-07-27'
+- type: republished_by
+  target: pt:dre:296994:por
+  label: "Republicado, com correções, pela DECL.DD7620.27.07.1978.MR-RAA, DR.IS [171] de 27.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-296994
+  date: '1978-07-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:44Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +119,7 @@ As alterações ora introduzidas vêm preencher algumas lacunas, tais como a pos
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 16.º, 17.º e 19.º do Estatuto dos Deputados, aprovado pelo Decreto Regional n.º 2/76, de 8 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 16.º, 17.º e 19.º do Estatuto dos Deputados, aprovado pelo Decreto Regional n.º 2/76, de 8 de Outubro, passam a ter a seguinte redacção:
 
 ###### ARTIGO 4.º — (Falta a actos ou diligências oficiais)
 
@@ -225,7 +251,7 @@ d) Exercício de funções específicas no respectivo partido.
 
 2. A renúncia torna-se efectiva desde a sua publicação no Diário da Assembleia Regional.
 
-###### Art. 2.º São aditados os artigos 8.º-A, 10.º-A e 2.º-A ao Estatuto dos Deputados, aprovado pelo Decreto Regional n.º 2/76, de 8 de Outubro, com a seguinte redacção:
+Art. 2.º São aditados os artigos 8.º-A, 10.º-A e 2.º-A ao Estatuto dos Deputados, aprovado pelo Decreto Regional n.º 2/76, de 8 de Outubro, com a seguinte redacção:
 
 ###### ARTIGO 8.º-A — (Senhas das comissões)
 
@@ -247,10 +273,10 @@ Os Deputados membros das comissões ou que nelas ocasionalmente substituam outro
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 20 de Junho de 1977.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Ponta Delgada, em 12 de Julho de 1977.**
+Assinado em Ponta Delgada, em 12 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

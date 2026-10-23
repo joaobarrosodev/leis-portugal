@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/279a00/75267527.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/38/2002/12/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2002-441168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2901b13106f6a7df5b5cdbe07edf43f63db4f86f43df64c414c60b757f2dd14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5118a5c0561ba1764df26b40086ea8dba47fb255ce31496ef5a20bb5e9bfa043
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
+- Açores
 - Contrato de Desenvolvimento
 - Expropriação
+- Ordenamento do Território
+- Plano Director Municipal
 - Política de Solos
 - Urbanismo
-- Açores
 - Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:175320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:581671:por
+  label: "Alterados os arts. 2ºe 4º a 19º e revogado o nº 8 do art. 15º e os nºs 5 a 8 do art. 18º do DLR 14/2000/A de 23-Mai,\
+    \ com a redacção dada pelo DLR 11/2002/A de 11-Abr, republicado pelo presente diploma, pelo DLR.24/2003/A.2003.04.17.ALR-RAA\
+    \ DR.IS-A [109] de 12/Mai/2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2003-581671
+  date: '2003-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
@@ -91,16 +98,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/14/2000/05/23/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/14/2000/05/23/a/dre
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175320:por
+  label: "Revogado, a partir de 31.08.2012, pelo DLR.35/2012/A.16.08.2012.AL-RAA, DR.IS [158] de 16.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/35-2012-175320
+  date: '2012-08-16'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:41Z'
   warnings: []
   errors: []
 ---
@@ -131,13 +155,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 18 de Outubro de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 11 de Novembro de 2002.**
+Assinado em Angra do Heroísmo em 11 de Novembro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 

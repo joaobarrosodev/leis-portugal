@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/6/1999/06/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/6-1999-390261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c85251b557825e78dd10ed8db196def6663507ab35791989135eab4a43dcd06f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2641291aa8a4744b30a254457aa24a02693f9ae5e2b79813bab54fbbfbfccf6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Eleição
+- Açores
+- Autarquia Local
 - Comissão de Inquérito
 - Comissão Nacional de Eleições
-- Tribunal de Contas
+- Eleição
 - Lista
+- Procuradoria Geral da República
 - Provedor de Justiça
 - Relatório
 - Secção Regional do Tribunal de Contas
-- Açores
-- Autarquia Local
-- Procuradoria Geral da República
+- Tribunal de Contas
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:29Z'
   warnings: []
   errors: []
 ---
@@ -108,4 +108,4 @@ Dar conhecimento do teor do relatório e respectivas conclusões da Comissão de
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 20 de Maio de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.

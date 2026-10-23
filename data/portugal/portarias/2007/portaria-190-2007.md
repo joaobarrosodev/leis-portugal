@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/190/2007/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/190-2007-517663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8709c2c938d5393965f658e2a5cb45f2290f7a1b6fe434204b0cea4ba0b38cac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9baebf4caa8252665467638c991a09961b969057898a08aa8fa69a2e25708aaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:334090:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334090:por
+  label: "Renovada, por um período de dez anos, a concessão da zona de caça turística das Herdades do Vale do Grou, Sobralinho\
+    \ e outras criada pela Port 879/2000, de 27-Set, alterada pelo presente diploma, pela PORT.568/2010.26.07.2010.MADRP,\
+    \ DR.IS [143] de 26.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/568-2010-334090
+  date: '2010-07-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -90,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/97/2004/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/97/2004/01/23/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608933:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:46Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +147,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 26 de Janeiro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03000/11211121.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03000/11211121.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03000/11211121.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/625/2007/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/625-2007-638514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67714b975b6e847ab85aa6bd43ed6f99dcdd48cf1108d246988e25b4717291df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1384b61745e32cd42e30d246278db312274ae9cf9f69577146933ccede1c3839
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1312/2004/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1312/2004/10/14/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574934:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:52Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +121,4 @@ Assim:
 
 Com fundamento no disposto na alínea a) do artigo 50.º do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja extinta a zona de caça associativa de Vales (processo n.º 1062-DGRF), renovada pela [Portaria n.º 1312/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1312-2004-574934), de 14 de Outubro.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva,em 11 de Maio de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva,em 11 de Maio de 2007.

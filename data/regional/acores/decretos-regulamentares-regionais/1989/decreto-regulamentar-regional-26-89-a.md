@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/08/20000/37283729.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1989-547019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0cd298dc43214500286b26cd1cf70fccb57be87fb8a1ee0fb63813b29ec17ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a93ea3b00385896c1606e9afd705908a7f4f37db76433d026e82585569f7623
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Gabinete Pedip-açores
+- Modernização Industrial
+- Orgânica
+- Pedip
 relationships:
 - type: amended_by
   target: pt:dre:616671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616671:por
+  label: "Extinto o Gabinete PEDIP-Açores, e revogado o presente diploma, pelo DRR.49/92/A.16.12.1992.GR-RAA, DR.IS-B [289]\
+    \ de 16.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/49-1992-616671
+  date: '1992-12-16'
+- type: cites
+  target: pt:dre:354153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:27Z'
   warnings: []
   errors: []
 ---
@@ -189,14 +216,14 @@ Atendendo a que as acções implementadas ao abrigo do PEDIP surtirão efeitos a
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 29 de Junho de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 10 de Agosto de 1989.**
+Assinado em Angra do Heroísmo em 10 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Mapa a que se refere o n.º 2 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/20000/37283729.pdf))](https://files.diariodarepublica.pt/1s/1989/08/20000/37283729.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/08/20000/37283729.pdf)

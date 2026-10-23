@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1990-332945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86be561ec7ffaa9fdd23960f2768697a6c9e070357395b0914c0e72e5c82d03a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 492f1ea7ca22df73b499dd32330e2d2e24b31fef2db2bc4b10e432e54cb4d439
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Centro de Saúde
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:176359:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:176359:por
+  label: "Alterado o art. 18º do DRR 3/86/A, 24-Jan, na redacção do presente diploma e do DRR 9/97/A, de 08-Mai, pelo DRR.8/98/A.1998.03.20.SREAS-RAA,\
+    \ DR.IS-B [97] de 27/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1998-176359
+  date: '1998-03-20'
+- type: cites
+  target: pt:dre:194799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:42Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +112,7 @@ Há necessidade de proceder a alterações pontuais ao [Decreto Regulamentar Reg
 
 Assim, em execução do artigo 31.º do Decreto Regional n.º 32/80/A, de 11 de Dezembro, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 18.º, 37.º e 62.º do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 18.º, 37.º e 62.º do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 18.º — Composição
 
@@ -117,22 +138,22 @@ Assim, em execução do artigo 31.º do Decreto Regional n.º 32/80/A, de 11 de 
 
 As condições de trabalho e as remunerações dos membros dos conselhos de administração serão estabelecidas por despacho conjunto dos Secretários Regionais da Administração Interna, das Finanças e Planeamento e da Saúde e Segurança Social.
 
-###### Art. 2.º O Secretário Regional da Saúde e Segurança Social pode delegar no director regional de Saúde ou nos conselhos de administração competências na área do pessoal, nomeadamente as seguintes:
+Art. 2.º O Secretário Regional da Saúde e Segurança Social pode delegar no director regional de Saúde ou nos conselhos de administração competências na área do pessoal, nomeadamente as seguintes:
 
 a) Autorizar a abertura dos concursos e todos os actos subsequentes e necessários ao seu preenchimento;
 
 b) Nomeação e exoneração do pessoal, bem como autorizar requisições, destacamentos ou comissões de serviço.
 
-###### Art. 3.º As remunerações dos conselhos de administração fixadas nos diplomas orgânicos dos centros de saúde mantêm-se em vigor até à publicação do despacho previsto no artigo 62.º do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro, na redacção dada pelo presente diploma.
+Art. 3.º As remunerações dos conselhos de administração fixadas nos diplomas orgânicos dos centros de saúde mantêm-se em vigor até à publicação do despacho previsto no artigo 62.º do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro, na redacção dada pelo presente diploma.
 
-###### Art. 4.º São revogados os artigos 60.º e 67.º do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro.
+Art. 4.º São revogados os artigos 60.º e 67.º do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de Dezembro de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 2 de Fevereiro de 1990.**
+Assinado em Angra do Heroísmo em 2 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

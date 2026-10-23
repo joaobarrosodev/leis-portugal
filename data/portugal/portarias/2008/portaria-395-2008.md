@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/10900/0333503335.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/395/2008/06/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/395-2008-449389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3213334790b7061a636131c48fc8edd7064719951effb9b9f947832fdaccaa7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c6fc0d46544d6ceab469ccc341b5411155b9ccb0dbd7975457ffab56651878d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
 - Cidadão Estrangeiro
 - Entrada de Estrangeiros
+- Imigração
 - Impresso
 - Serviço de Estrangeiros e Fronteiras
 relationships:
@@ -80,16 +80,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223414659:por
+  label: Revogada, a partir de 29.10.2023, a presente portaria, pelo(a) Portaria n.º 323/2023 - Diário da República n.º 209/2023,
+    Série I de 2023-10-27, nos termos do seu art. 3.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/323-2023-223414659
+  date: '2023-10-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:05Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +116,7 @@ Assim:
 
 Ao abrigo do n.º 2 do artigo 14.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de Julho, manda o Governo, pelo Ministro da Administração Interna, que a declaração de entrada a que se refere o artigo 14.º do referido diploma legal seja feita em modelo próprio, que consta do anexo à presente portaria, dela fazendo parte integrante.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 20 de Maio de 2008.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 20 de Maio de 2008.
 
 ## ANEXO — Modelo da declaração de entrada
 
@@ -118,4 +128,4 @@ ENTRY DECLARATION / DECLARATION D'ENTREE
 
 (art.º 14.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de Julho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/10900/0333503335.pdf))](https://files.diariodarepublica.pt/1s/2008/06/10900/0333503335.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/10900/0333503335.pdf)

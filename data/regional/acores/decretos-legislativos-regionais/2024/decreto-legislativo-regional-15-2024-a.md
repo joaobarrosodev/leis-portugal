@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/25200/0017200228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2024/12/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a9db92f0023e7f89f050dc8990614c51d63c9e688350b56080255280c99ac83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 701c58b30cb096fedf8a9d803f39183f20ae655882e85999b1049d885d485f97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,53 +65,126 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Complemento Regional de Pensão
-- Remuneração Complementar Regional
+- Abono de Família
+- Açores
+- Administração Pública
+- Administração Regional
 - Admissão de Pessoal
 - Aquisição de Bens e Serviços
-- Financiamento
-- Garantia
+- Autarquia Local
+- Benefícios Fiscais
 - Cativação de Verba
+- Comparticipação Familiar
+- Complemento Regional de Pensão
 - Construção Civil
-- Gestão Financeira
-- Finanças Locais
-- Governo Regional
+- Contribuições e Impostos
 - Controlo Orçamental
 - Definição de Competências
 - Desenvolvimento Regional
 - Despesas Públicas
 - Dívida Pública
 - Dotação Orçamental
-- Comparticipação Familiar
 - Empreitada de Obras Públicas
 - Empresa Pública Regional
-- Administração Pública
+- Estágio de Formação
+- Estatuto Remuneratório
 - Estudante
+- Finanças Locais
+- Finanças Regionais
+- Financiamento
+- Garantia
 - Gasóleo
+- Gestão de Recursos Humanos
 - Gestão do Património
+- Gestão Financeira
 - Gestão Orçamental
 - Gestor Público Regional
-- Contribuições e Impostos
-- Finanças Regionais
+- Governo Regional
 - Pensionista
-- Tesouraria
 - Planeamento Económico
 - Política Financeira
 - Política Orçamental
 - Prestações da Segurança Social
 - Prestações Familiares
-- Estágio de Formação
 - Regime Fiscal
 - Remuneração
-- Benefícios Fiscais
-- Administração Regional
-- Gestão de Recursos Humanos
-- Açores
-- Estatuto Remuneratório
-- Abono de Família
+- Remuneração Complementar Regional
+- Tesouraria
 - Transferência de Verbas
-- Autarquia Local
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:8/2002/A
+  label: Determina, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, que o montante da remuneração
+    complementar regional a que se refere o n.º 1 do artigo 11.º do Decreto Legislativo Regional n.º 8/2002/A, de 10 de abril,
+    Diário da República n.º 84/2002, Série I-A é atualizado em 3 %, bem como garante aos beneficiários do complemento regional
+    de pensão do escalão previsto na alínea a) do n.º 2 do artigo 6.º e nas alíneas b), c) e e) do n.º 2 do artigo 6.º do
+    mesmo diploma um aumento, respetivamente, de 10 % e de 5%, bem como altera os artigos 10.º e 11.º do mesmo diploma
+  source: null
+  date: '2002-04-10'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:25/2003/A
+  label: Altera, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, o artigo 5.º do Decreto Legislativo
+    Regional n.º 25/2003/A, de 27 de maio, Diário da República n.º 122/2003, Série I-A
+  source: null
+  date: '2003-05-27'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:50/2006/A
+  label: Altera, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, os artigos 2.º, 3.º, 5.º, 7.º, 8.º,
+    9.º, 11.º e 12.º do Decreto Legislativo Regional n.º 50/2006/A, de 12 de dezembro, Diário da República n.º 237/2006, Série
+    I
+  source: null
+  date: '2006-12-12'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:9/2007/A
+  label: Altera, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, o artigo 29.º do Decreto Legislativo
+    Regional n.º 9/2007/A, de 19 de abril, Diário da República n.º 77/2007, Série I
+  source: null
+  date: '2007-04-19'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:25/2008/A
+  label: Atualiza, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, em 5 % o montante do complemento
+    açoriano ao abono de família para crianças e jovens, previsto no n.º 1 do artigo 6.º do Decreto Legislativo Regional n.º
+    25/2008/A, de 24 de julho, Diário da República n.º 142/2008, Série I
+  source: null
+  date: '2008-07-24'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:23/2009/A
+  label: Determina, entre 1 de janeiro e 31 de dezembro de 2025, a majoração em 50 % dos valores máximos de renda por metro
+    quadrado, no arrendamento de habitações pela Região, e em 20 % dos valores mensais, não reembolsáveis, no incentivo ao
+    arrendamento de prédios ou de frações autónomas para residência permanente, ao abrigo, respetivamente, dos artigos 12.º
+    e 27.º do Decreto Legislativo Regional n.º 23/2009/A, de 16 de dezembro, Diário da República n.º 242/2009, Série I
+  source: null
+  date: '2009-12-16'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:29/2010/A
+  label: Altera, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, os artigos 5.º, 181.º e 198.º do
+    Decreto Legislativo Regional n.º 29/2010/A, de 9 de novembro, Diário da República n.º 217/2010, Série I
+  source: null
+  date: '2010-11-09'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:26/2021/A
+  label: Altera, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, o artigo 7.º do Decreto Legislativo
+    Regional n.º 26/2021/A, de 12 de agosto, Diário da República n.º 156/2021, Série I
+  source: null
+  date: '2021-08-12'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:21/2023/A
+  label: Altera, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, o artigo 5.º do Decreto Legislativo
+    Regional n.º 21/2023/A, de 15 de junho, Diário da República n.º 115/2023, Série I
+  source: null
+  date: '2023-06-15'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:6/2024/A
+  label: Altera, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, o artigo 4.º do Decreto Legislativo
+    Regional n.º 6/2024/A, de 8 de agosto, Diário da República n.º 153/2024, Série I
+  source: null
+  date: '2024-08-08'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:10/2024/A
+  label: Altera, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, o anexo do Decreto Legislativo Regional
+    n.º 10/2024/A, de 25 de outubro, Diário da República n.º 208/2024, Série I
+  source: null
+  date: '2024-10-25'
 - type: cites
   target: celex:32019L1161
   label: null
@@ -156,20 +229,344 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:106874649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114440373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117612825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119397721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122253267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122529725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125865390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127816253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129643712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131338911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:135056056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:139209033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164454929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169491468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173035672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176412614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178478637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183801105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205758501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214402044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214402045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214781730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223045469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55042849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56305785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58683382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:59077887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66880175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67377973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70262477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72970526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869798290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:875899348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:892664350:por
+  label: null
+  source: null
 - type: transposes
   target: celex:32019L1161
   label: null
   source: null
 article_structure:
-  article_count: 93
+  article_count: 83
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:15Z'
   warnings: []
   errors: []
 ---
@@ -314,7 +711,7 @@ Quando os serviços e fundos autónomos dotados de autonomia financeira e as ent
 
 3 - Ainda, a título excecional, para satisfação de necessidades exclusivamente letivas do sistema educativo regional, resultantes de ausências de docentes ao longo do ano letivo, depois de esgotados os mecanismos estabelecidos para recrutamento de docentes devidamente habilitados, pode o membro do Governo Regional com competência em matéria de educação exercer a competência autorizadora atribuída ao Presidente do Governo Regional no [Decreto Legislativo Regional n.º 48/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/48-2006-545576), de 7 de dezembro, que regula o exercício de funções públicas na administração regional autónoma por aposentados, sob proposta do órgão executivo da unidade orgânica onde se verifica a necessidade, após homologação pelo diretor regional competente em matéria de administração educativa.
 
-4 - Os contratos celebrados ao abrigo dos n.<sup>os</sup>2 e 3 são, obrigatoriamente, comunicados ao departamento do Governo Regional com competência em matéria de finanças e Administração Pública, nos 15 dias imediatamente subsequentes à produção de efeitos dos mesmos.
+4 - Os contratos celebrados ao abrigo dos n.os2 e 3 são, obrigatoriamente, comunicados ao departamento do Governo Regional com competência em matéria de finanças e Administração Pública, nos 15 dias imediatamente subsequentes à produção de efeitos dos mesmos.
 
 5 - Quando haja conveniência para o interesse público, designadamente quando a economia, a eficácia e a eficiência dos órgãos ou serviços assim o justifique, até 5 % dos trabalhadores com vínculo de emprego público por tempo indeterminado afetos aos organismos e serviços da administração pública regional podem ser sujeitos a mobilidade, nas modalidades de afetação intercarreiras ou intercategorias, em conformidade com o artigo 10.º e seguintes do [Decreto Legislativo Regional n.º 17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, na sua redação atual.
 
@@ -630,7 +1027,7 @@ h) Aquisição de veículos automóveis elétricos de passageiros, ligeiros ou p
 
 i) Aquisição de veículos automóveis elétricos de mercadorias;
 
-j) Investimentos em estruturas físicas de armazenagem de águas pluviais e de outras origens, com capacidade superior a 200 m<sup>3</sup>, assim como nos respetivos sistemas de distribuição de água, executados em explorações agrícolas, centros de engorda de bovinos, aviculturas e suiniculturas.
+j) Investimentos em estruturas físicas de armazenagem de águas pluviais e de outras origens, com capacidade superior a 200 m3, assim como nos respetivos sistemas de distribuição de água, executados em explorações agrícolas, centros de engorda de bovinos, aviculturas e suiniculturas.
 
 2 - O Governo Regional define as condições de aplicabilidade das deduções previstas no número anterior, mediante decreto regulamentar regional.
 
@@ -836,7 +1233,7 @@ O montante da remuneração complementar regional a que se refere o n.º 1 do ar
 
 ###### Artigo 62.º — Complemento açoriano ao abono de família para crianças e jovens
 
-O montante do complemento açoriano ao abono de família para crianças e jovens, referido no n.º 1 do artigo 6.º do [Decreto Legislativo Regional n.º 25/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2008-454485), de 24 de julho, na sua redação atual, cujo valor foi atualizado pelos Decretos Legislativos Regionais n.<sup>os</sup>[34/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2010-306589), de 29 de dezembro, [3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, [1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), de 8 de janeiro, [1/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2019-117612825), de 7 de janeiro, [1/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), de 8 de janeiro, [15-A/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929), de 31 de maio,[38/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2021-176412614), de 23 de dezembro, [1/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), de 5 de janeiro, e [2/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290), de 24 de junho, é atualizado, com efeitos a 1 de janeiro de 2025, em 5 %.
+O montante do complemento açoriano ao abono de família para crianças e jovens, referido no n.º 1 do artigo 6.º do [Decreto Legislativo Regional n.º 25/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2008-454485), de 24 de julho, na sua redação atual, cujo valor foi atualizado pelos Decretos Legislativos Regionais n.os[34/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2010-306589), de 29 de dezembro, [3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, [1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), de 8 de janeiro, [1/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2019-117612825), de 7 de janeiro, [1/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), de 8 de janeiro, [15-A/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929), de 31 de maio,[38/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2021-176412614), de 23 de dezembro, [1/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), de 5 de janeiro, e [2/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290), de 24 de junho, é atualizado, com efeitos a 1 de janeiro de 2025, em 5 %.
 
 ###### Artigo 63.º — Complemento regional de pensão
 
@@ -878,7 +1275,7 @@ Em 2025, o Governo Regional aplica as recomendações do LuMinAves - Guia de Boa
 
 ###### Artigo 68.º — Alteração ao [Decreto Legislativo Regional n.º 25/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-545185), de 27 de maio
 
-O artigo 5.º do [Decreto Legislativo Regional n.º 25/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-545185), de 27 de maio, que estabelece o regime jurídico da publicação, identificação e formulário dos atos normativos da Região Autónoma dos Açores, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[14/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2007-635872), de 25 de junho, [19/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2020-139209033), de 31 de julho, e [2/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2022-178478637), de 1 de fevereiro, passa a ter a seguinte redação:
+O artigo 5.º do [Decreto Legislativo Regional n.º 25/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-545185), de 27 de maio, que estabelece o regime jurídico da publicação, identificação e formulário dos atos normativos da Região Autónoma dos Açores, alterado pelos Decretos Legislativos Regionais n.os[14/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2007-635872), de 25 de junho, [19/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2020-139209033), de 31 de julho, e [2/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2022-178478637), de 1 de fevereiro, passa a ter a seguinte redação:
 
 «Artigo 5.º
 
@@ -924,7 +1321,7 @@ c) […]»
 
 ###### Artigo 71.º — Alteração ao [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro
 
-Os artigos 5.º, 181.º e 198.º do [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro, que regulamenta o exercício da pesca e da atividade marítima na pesca e define medidas adequadas às especificidades do território marítimo dos Açores, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[31/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2012-178482), de 6 de julho, e [11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2020-131338911), de 13 de abril, passam a ter a seguinte redação:
+Os artigos 5.º, 181.º e 198.º do [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro, que regulamenta o exercício da pesca e da atividade marítima na pesca e define medidas adequadas às especificidades do território marítimo dos Açores, alterado pelos Decretos Legislativos Regionais n.os[31/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2012-178482), de 6 de julho, e [11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2020-131338911), de 13 de abril, passam a ter a seguinte redação:
 
 «Artigo 5.º
 
@@ -938,13 +1335,17 @@ Os artigos 5.º, 181.º e 198.º do [Decreto Legislativo Regional n.º 29/2010/A
 
 4 - No presente diploma é, igualmente, definido o regime sancionatório aplicável ao exercício da atividade da pesca comercial marítima, em qualquer fase de produção, incluindo a transformação, comercialização, indústria, transporte, importação, exportação, reexportação e reimportação de produtos da pesca, bem como a comercialização de produtos da aquicultura.
 
-###### Artigo 181.º — […]
+Artigo 181.º
+
+[…]
 
 1 - […]
 
 2 - A tentativa é punível nas contraordenações previstas nos artigos 185.º-A e 187.º, sendo os limites mínimos e máximos previstos no correspondente tipo legal reduzidos a metade.
 
-###### Artigo 198.º — Agentes não domiciliados em território nacional
+Artigo 198.º
+
+Agentes não domiciliados em território nacional
 
 1 - Se o responsável pela infração não for domiciliado em território nacional, e caso não pretenda efetuar o pagamento voluntário da coima, quando admissível, deve prestar caução de valor igual a um terço do montante máximo da coima prevista para a contraordenação que lhe é imputada.
 
@@ -980,7 +1381,7 @@ O artigo 29.º do [Decreto Legislativo Regional n.º 9/2007/A](https://diariodar
 
 ###### Artigo 73.º — Alteração ao [Decreto Legislativo Regional n.º 50/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/50-2006-545592), de 12 de dezembro
 
-Os artigos 2.º, 3.º, 5.º, 7.º, 8.º, 9.º, 11.º e 12.º do [Decreto Legislativo Regional n.º 50/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/50-2006-545592), de 12 de dezembro, que estabelece o regime jurídico da bolsa de emprego público da Região Autónoma dos Açores, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[27/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2007-628777), de 10 de dezembro, [27/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-454504), de 24 de julho, [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, e [2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), de 29 de janeiro, passam a ter a seguinte redação:
+Os artigos 2.º, 3.º, 5.º, 7.º, 8.º, 9.º, 11.º e 12.º do [Decreto Legislativo Regional n.º 50/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/50-2006-545592), de 12 de dezembro, que estabelece o regime jurídico da bolsa de emprego público da Região Autónoma dos Açores, alterado pelos Decretos Legislativos Regionais n.os[27/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2007-628777), de 10 de dezembro, [27/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2008-454504), de 24 de julho, [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, e [2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), de 29 de janeiro, passam a ter a seguinte redação:
 
 «Artigo 2.º
 
@@ -992,7 +1393,9 @@ Os artigos 2.º, 3.º, 5.º, 7.º, 8.º, 9.º, 11.º e 12.º do [Decreto Legisla
 
 3 - Sem prejuízo do disposto na primeira parte do número anterior, os serviços podem publicitar aqueles procedimentos concursais, por extrato, através de outros meios de divulgação, designadamente, em jornal de expansão regional ou nacional, quando o considerarem oportuno.
 
-###### Artigo 3.º — […]
+Artigo 3.º
+
+[…]
 
 1 - […]
 
@@ -1002,7 +1405,9 @@ Os artigos 2.º, 3.º, 5.º, 7.º, 8.º, 9.º, 11.º e 12.º do [Decreto Legisla
 
 4 - Os hospitais EPER podem utilizar a BEP-Açores para efeitos de divulgação das ofertas de emprego e, ou, respetivos procedimentos de seleção, com as devidas adaptações.
 
-###### Artigo 5.º — […]
+Artigo 5.º
+
+[…]
 
 1 - […]
 
@@ -1054,7 +1459,9 @@ b) Ao membro do Governo Regional com competência em matéria de administração
 
 c) Aos interessados, nos casos previstos na alínea c) do n.º 1.
 
-###### Artigo 7.º — […]
+Artigo 7.º
+
+[…]
 
 1 - […]
 
@@ -1070,7 +1477,9 @@ c) Aos interessados, nos casos previstos na alínea c) do n.º 1.
 
 7 - […]
 
-###### Artigo 8.º — […]
+Artigo 8.º
+
+[…]
 
 1 - […]
 
@@ -1078,9 +1487,11 @@ c) Aos interessados, nos casos previstos na alínea c) do n.º 1.
 
 3 - A candidatura a procedimento concursal de recrutamento, submetida na BEP-Açores, é efetuada mediante o preenchimento dos respetivos formulários tipo, disponíveis em suporte eletrónico.
 
-###### Artigo 9.º — […]
+Artigo 9.º
 
-1 - É obrigatório o registo na BEP-Açores da informação a que se referem a alínea a) do n.º 1 e as alíneas do n.º 2 do artigo 5.º, com a estrutura mencionada no artigo 7.º, sem prejuízo do disposto nos n.<sup>os</sup>2 e 4 do artigo 3.º
+[…]
+
+1 - É obrigatório o registo na BEP-Açores da informação a que se referem a alínea a) do n.º 1 e as alíneas do n.º 2 do artigo 5.º, com a estrutura mencionada no artigo 7.º, sem prejuízo do disposto nos n.os2 e 4 do artigo 3.º
 
 2 - […]
 
@@ -1098,15 +1509,19 @@ b) A informação respeitante à alínea c) do n.º 1 do artigo 5.º, pelo perí
 
 7 - A informação relativa ao procedimento concursal, registada na BEP-Açores, é igualmente disponibilizada com carácter de permanência, com exceção da documentação apresentada pelos candidatos, cuja eliminação obedece aos prazos definidos na regulamentação própria.
 
-###### Artigo 11.º — […]
+Artigo 11.º
+
+[…]
 
 1 - […]
 
 2 - […]
 
-3 - A informação individual constante dos n.<sup>os</sup>1 e 3 do artigo 8.º é de acesso restrito aos serviços e entidades referidos no artigo 3.º
+3 - A informação individual constante dos n.os1 e 3 do artigo 8.º é de acesso restrito aos serviços e entidades referidos no artigo 3.º
 
-###### Artigo 12.º — […]
+Artigo 12.º
+
+[…]
 
 1 - […]
 
@@ -1120,7 +1535,7 @@ d) […]
 
 e) […]
 
-f) Facultar o acesso à BEP-Açores aos serviços e entidades referidas no artigo 3.º e ao pessoal que, para os efeitos dos n.<sup>os</sup>1 e 3 do artigo 8.º, a ela pretenda aceder;
+f) Facultar o acesso à BEP-Açores aos serviços e entidades referidas no artigo 3.º e ao pessoal que, para os efeitos dos n.os1 e 3 do artigo 8.º, a ela pretenda aceder;
 
 g) […]
 
@@ -1136,7 +1551,7 @@ l) […]
 
 ###### Artigo 74.º — Alteração ao [Decreto Legislativo Regional n.º 2/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1999-197151), de 20 de janeiro
 
-O artigo 9.º do [Decreto Legislativo Regional n.º 2/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1999-197151), de 20 de janeiro, que adapta o sistema fiscal nacional à Região Autónoma dos Açores, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[33/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-1999-291854), de 30 de dezembro, [4/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2000-436985), de 18 de janeiro, [40/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2003-468409), de 6 de novembro, [3/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2004-587626), de 28 de janeiro, [42/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2008-452926), de 7 de outubro, [25/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2009-482136), de 30 de dezembro, [2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), de 22 de abril, [2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), de 29 de janeiro, [15/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), de 3 de junho, [1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), de 3 de janeiro, e [15-A/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929), de 31 de maio, passa a ter a seguinte redação:
+O artigo 9.º do [Decreto Legislativo Regional n.º 2/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1999-197151), de 20 de janeiro, que adapta o sistema fiscal nacional à Região Autónoma dos Açores, alterado pelos Decretos Legislativos Regionais n.os[33/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-1999-291854), de 30 de dezembro, [4/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2000-436985), de 18 de janeiro, [40/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2003-468409), de 6 de novembro, [3/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2004-587626), de 28 de janeiro, [42/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2008-452926), de 7 de outubro, [25/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2009-482136), de 30 de dezembro, [2/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), de 22 de abril, [2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), de 29 de janeiro, [15/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), de 3 de junho, [1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), de 3 de janeiro, e [15-A/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929), de 31 de maio, passa a ter a seguinte redação:
 
 «Artigo 9.º
 
@@ -1156,28 +1571,28 @@ O artigo 9.º do [Decreto Legislativo Regional n.º 2/99/A](https://diariodarepu
 
 É alterado o anexo do [Decreto Legislativo Regional n.º 10/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2024-892664350), de 25 de outubro, que aprova o quadro plurianual de programação orçamental para o período de 2025 a 2028, nos seguintes termos:
 
-| Agrupamento | Programa | Programa | 2025 | 2026 | 2027 | 2028 |
+| Agrupamento | Programa | 2025 | 2026 | 2027 | 2028 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Soberania | A01 | Órgão Executivo e Legislativo | 15,4 |  |  |  |
 |  | A02 | Governação e Representação | 14,7 |  |  |  |
-|  | Subtotal agrupamento | Subtotal agrupamento | 30,1 | 24,2 |  |  |
+|  | Subtotal agrupamento | 30,1 | 24,2 |  |  |  |
 | Social | A03 | Ciência e Inovação | 38,8 |  |  |  |
 |  | A04 | Saúde e Segurança Social | 652,0 |  |  |  |
 |  | A05 | Educação | 414,3 |  |  |  |
 |  | A06 | Media e Comunidades | 6,6 |  |  |  |
 |  | A07 | Ambiente e Ação Climática | 51,0 |  |  |  |
-|  | Subtotal agrupamento | Subtotal agrupamento | 1 162,7 | 1 156,8 |  |  |
+|  | Subtotal agrupamento | 1 162,7 | 1 156,8 |  |  |  |
 | Económica | A08 | Finanças e Administração Pública | 418,5 |  |  |  |
 |  | A09 | Qualificação Profissional e Habitação | 118,5 |  |  |  |
 |  | A10 | Mar | 50,2 |  |  |  |
 |  | A11 | Infraestruturas, Transportes, Turismo e Energia | 420,1 |  |  |  |
 |  | A12 | Agricultura e Alimentação | 133,4 |  |  |  |
-|  | Subtotal agrupamento | Subtotal agrupamento | 1 140,8 | 1 357,9 |  |  |
-| Total geral | Total geral | Total geral | 2 333,6 | 2 538,9 | 2 636,2 | 2 697,6 |
+|  | Subtotal agrupamento | 1 140,8 | 1 357,9 |  |  |  |
+| Total geral | 2 333,6 | 2 538,9 | 2 636,2 | 2 697,6 |  |  |
 
 ###### Artigo 76.º — Alteração ao [Decreto Legislativo Regional n.º 8/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2002-303252), de 10 de abril
 
-Os artigos 10.º e 11.º do [Decreto Legislativo Regional n.º 8/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2002-303252), de 10 de abril, que estabelece o regime jurídico da atribuição do acréscimo regional à retribuição mínima mensal garantida, do complemento regional de pensão e da remuneração complementar regional, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[22/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), de 23 de outubro, [6/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2010-609621), de 23 de fevereiro, [3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, [3/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), de 23 de maio, [2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), de 29 de janeiro, [14/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-55042849), de 1 de agosto, [22/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), de 27 de novembro, [8/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), de 30 de março, [1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), de 8 de janeiro, [3/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), de 13 de abril, [1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), de 3 de janeiro, [6/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2019-119397721), de 12 de fevereiro, [8/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), de 9 de maio, [1/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), de 8 de janeiro, [12/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), de 3 de junho, [15-A/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929), de 31 de maio, [9/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), de 23 de maio, [1/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), de 5 de janeiro, [37/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2023-223045469), de 20 de outubro, e [2/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290), de 24 de junho, passam a ter a seguinte redação:
+Os artigos 10.º e 11.º do [Decreto Legislativo Regional n.º 8/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2002-303252), de 10 de abril, que estabelece o regime jurídico da atribuição do acréscimo regional à retribuição mínima mensal garantida, do complemento regional de pensão e da remuneração complementar regional, alterado pelos Decretos Legislativos Regionais n.os[22/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2007-629104), de 23 de outubro, [6/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2010-609621), de 23 de fevereiro, [3/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), de 13 de janeiro, [3/2013/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2013-261110), de 23 de maio, [2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), de 29 de janeiro, [14/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2014-55042849), de 1 de agosto, [22/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2014-59077887), de 27 de novembro, [8/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175), de 30 de março, [1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), de 8 de janeiro, [3/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), de 13 de abril, [1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), de 3 de janeiro, [6/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2019-119397721), de 12 de fevereiro, [8/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-122253267), de 9 de maio, [1/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), de 8 de janeiro, [12/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056), de 3 de junho, [15-A/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-2021-164454929), de 31 de maio, [9/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2022-183801105), de 23 de maio, [1/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501), de 5 de janeiro, [37/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2023-223045469), de 20 de outubro, e [2/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2024-869798290), de 24 de junho, passam a ter a seguinte redação:
 
 «Artigo 10.º
 
@@ -1187,7 +1602,9 @@ Os artigos 10.º e 11.º do [Decreto Legislativo Regional n.º 8/2002/A](https:/
 
 2 - […]
 
-###### Artigo 11.º — […]
+Artigo 11.º
+
+[…]
 
 1 - […]
 
@@ -1295,58 +1712,38 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 28 de novembro de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 23 de dezembro de 2024.**
+Assinado em Angra do Heroísmo em 23 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-![](https://files.diariodarepublica.pt/images/901536098/901535672.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901535672.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/901536098/901535673.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901535674.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536175.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536176.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536177.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536178.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536179.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536180.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536181.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536182.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536183.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536184.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536185.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536186.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536187.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536188.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536189.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536190.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536191.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536192.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536193.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536194.png)
-
-![](https://files.diariodarepublica.pt/images/901536098/901536195.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901535673.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901535674.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536175.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536176.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536177.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536178.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536179.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536180.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536181.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536182.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536183.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536184.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536185.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536186.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536187.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536188.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536189.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536190.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536191.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536192.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536193.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536194.png) |
+| --- | | ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901536098/901536195.png) |
+| --- | 118506592 .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:none; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:none; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:28px; } .Tbl15 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

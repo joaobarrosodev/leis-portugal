@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/596/2009/06/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/596-2009-494245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0e1d58369590793d0260d1afd836079499ad3ff19787cb0db029acb37948a7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f5f17380fba9cb710a615ac0959eaf6092206cefd32ead3fc198fc0f16707e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Regulamento de Aplicação da Medida Nº 4.1-cooperação para a Inovação
-- Financiamento
-- Investigação Científica e Tecnológica
-- Silvicultura
+- Agricultura
+- Desenvolvimento Económico
 - Desenvolvimento Rural
 - Feader
-- Projeto de Investimento
+- Financiamento
 - Investigação Agronómica
-- Desenvolvimento Económico
-- Regulamento CE
+- Investigação Científica e Tecnológica
 - Modernização do Sector Agrícola
-- Agricultura
+- Proder
+- Projeto de Investimento
+- Regulamento CE
+- Regulamento de Aplicação da Medida Nº 4.1-cooperação para a Inovação
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 6º, 7º, 9º, 11º, 12º, 13º e 15º e os anexos II e III e revogadas as als. c) e d) do art. 6º e\
+    \ o nº35º do anexo I do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167]\
+    \ de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 7.º ( na redacção da Port. 814/2010, de 27-Ago ), 19.º, 21.º e 22.º e o anexo ii (na redacção\
+    \ da Port. 814/2010, de 27-Ago ) do Regulamento de Aplicação da Medida n.º 4.1, «Cooperação para a Inovação», aprovado\
+    \ pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo I do Regulamento de Aplicação da Medida n.º 4.1, «Cooperação para a Inovação», pela PORT.253/2013.07.08.2013.MAMAOT,\
+    \ DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -96,16 +116,22 @@ relationships:
   target: celex:32008R0800
   label: null
   source: http://data.europa.eu/eli/reg/2008/800/oj
+- type: corrected_by
+  target: pt:dre:297176:por
+  label: "Rectificado o art. 29º da Port 814/2010, de 27-Ago [na redacção que conferiu ao anexo II do presente diploma], pela\
+    \ DECL-RECT.32-A/2010.26.10.2010.PCM, DR.IS [208-Supl] de 26.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/32-a-2010-297176
+  date: '2010-10-26'
 article_structure:
   article_count: 25
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:11Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +168,7 @@ c) Anexo iii, relativo ao cálculo da valia global da operação.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Maio de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Maio de 2009.
 
 ## ANEXO
 
@@ -532,7 +558,7 @@ Limites às elegibilidades
 
 (a que se refere o artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10700/0347103477.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10700/0347103477.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10700/0347103477.pdf)
 
 ## ANEXO III — Cálculo da valia global da operação
 

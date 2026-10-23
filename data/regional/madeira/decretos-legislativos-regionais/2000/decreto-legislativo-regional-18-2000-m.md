@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2000/08/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2000-314616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33a55c0a6f893c037c58b24f16e04ab89c768f6b69409b844743d61d535802a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fd34b86690f6116289b7f0220e984f4fb1851464cd58c28afe5a16ba1e9c3e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,23 @@ subjects:
 - Calheta(madeira)
 - Desenvolvimento Regional
 - Estatuto
+- Infraestrutura Turística
+- Madeira.região Autónoma
 - Ponta do Oeste-sociedade de Promoção e Desenvolvimento da ZONA Oeste da Madeira
 - Ponta do SOL
-- Madeira.região Autónoma
 - Ribeira Brava
-- Infraestrutura Turística
 relationships:
 - type: amended_by
   target: pt:dre:114484244:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Aditado, com efeitos desde 01.01.2018, o art. 8.º-A ao anexo (Estatutos da Ponta do Oeste - Sociedade de Promoção
+    e Desenvolvimento da Zona Oeste da Madeira, S. A.) do presente diploma pelo(a) Decreto Legislativo Regional n.º 2/2018/M
+    - Diário da República n.º 6/2018, Série I de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1996/01/04/p/dre
   label: null
@@ -98,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621551:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:48Z'
   warnings: []
   errors: []
 ---
@@ -184,11 +211,11 @@ As alterações aos estatutos da Ponta do Oeste são efectuadas nos termos da le
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 21 de Junho de 2000.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 17 de Julho de 2000.**
+Assinado em 17 de Julho de 2000.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Estatutos da Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S. A.
 

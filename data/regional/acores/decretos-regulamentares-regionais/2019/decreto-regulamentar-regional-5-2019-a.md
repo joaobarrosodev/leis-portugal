@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/07100/0193301945.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2019/04/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2019-122059241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8dd55dc7ec94f3b309b4b9076d67174a30812623adefe6ad1f830ba4415e122
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47000b0834f69ef34bfc0f5a6b56b31fb9556f964e4aba74e99760ba9e33b19d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Recursos Hídricos
-- Lagoa das Furnas
-- Proteção do Ambiente
-- Plano de Bacia Hidrográfica
+- Açores
 - Bacia Hidrográfica
-- Zona de Proteção
+- Lagoa das Furnas
+- Ordenamento do Território
+- Plano de Bacia Hidrográfica
+- Proteção do Ambiente
+- Recursos Hídricos
 - Regulamento
 - Reserva Ecológica Regional
-- Açores
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31991L0676
@@ -96,6 +96,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/2/2005/02/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/2/2005/02/15/a/dre
+- type: cites
+  target: pt:dre:106404757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693262:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0676
   label: null
@@ -103,13 +119,13 @@ relationships:
 article_structure:
   article_count: 48
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:28Z'
   warnings: []
   errors: []
 ---
@@ -194,11 +210,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de novembro de 2018.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 25 de março de 2019.**
+Assinado em Angra do Heroísmo em 25 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -902,14 +918,16 @@ c) As mobilizações do solo com charruas, grades de discos acopladas e fresas s
 
 Planta de Síntese
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07100/0193301945.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07100/0193301945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07100/0193301945.pdf)
 
 ## ANEXO III — [a que se refere a alínea c) do n.º 2 do artigo 1.º]
 
 Planta de Condicionantes I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07100/0193301945.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07100/0193301945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07100/0193301945.pdf)
 
 Planta de Condicionantes II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/07100/0193301945.pdf))](https://files.diariodarepublica.pt/1s/2019/04/07100/0193301945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/07100/0193301945.pdf)
+
+112172367

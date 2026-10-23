@@ -46,36 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1990-574281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b421802d551c5acc2ae650a22e1c1fe554db8c4f2d2ca3f923219adbae71388b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b37b773e443c04db511c1371f25d95b5bb689a89ab9586bceae96431b024312
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Concessão
+- Fiscalização
+- Funchal
+- Fundo de Investimento para o Futebol Profissional
+- Jogos de Fortuna e Azar
+- Madeira.região Autónoma
+- ZONA de JOGO
+relationships:
+- type: cites
+  target: pt:dre:329837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419375:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:28Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +139,13 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A concessionária da zona de jogo do Funchal é autorizada a explorar, fora do casino e nos locais permitidos pela lei, jogo em máquinas de fortuna ou azar, observados os requisitos estabelecidos nos artigos 6.º e 7.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com as devidas adaptações orgânicas.
+Artigo 1.º A concessionária da zona de jogo do Funchal é autorizada a explorar, fora do casino e nos locais permitidos pela lei, jogo em máquinas de fortuna ou azar, observados os requisitos estabelecidos nos artigos 6.º e 7.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, com as devidas adaptações orgânicas.
 
-###### Art. 2.º As condições específicas a que devem obedecer a exploração e a prática das máquinas referidas no artigo anterior serão estabelecidas por decreto regulamentar regional.
+Art. 2.º As condições específicas a que devem obedecer a exploração e a prática das máquinas referidas no artigo anterior serão estabelecidas por decreto regulamentar regional.
 
-###### Art. 3.º O Governo Regional poderá prorrogar o prazo de concessão da zona de jogo do Funchal por um período até cinco anos, nos termos que forem definidos no decreto regulamentar regional referido no artigo anterior.
+Art. 3.º O Governo Regional poderá prorrogar o prazo de concessão da zona de jogo do Funchal por um período até cinco anos, nos termos que forem definidos no decreto regulamentar regional referido no artigo anterior.
 
-###### Art. 4.º - 1 - Da verba correspondente à receita bruta obtida com o funcionamento das máquinas referidas no artigo 1.º deste diploma, 25% reverterão para o Fundo de Investimento para o Futebol Profissional (FIFPROF), nos termos do contrato de concessão.
+Art. 4.º - 1 - Da verba correspondente à receita bruta obtida com o funcionamento das máquinas referidas no artigo 1.º deste diploma, 25% reverterão para o Fundo de Investimento para o Futebol Profissional (FIFPROF), nos termos do contrato de concessão.
 
 2 - O pagamento da verba referida no número anterior poderá ser substituído pelo pagamento de uma avença mensal de montante a fixar anualmente pelo Governo Regional.
 
@@ -120,20 +155,20 @@ A Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) d
 
 5 - As actividades previstas no presente diploma ficam igualmente submetidas às normas de fiscalização a que está sujeita a concessionária da zona de jogo.
 
-###### Art. 5.º - 1 - Salvaguardado o disposto no artigo 7.º do [Decreto-Lei n.º 439/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1988-357114), de 30 de Novembro, o produto das receitas consignadas ao Fundo de Turismo pelo [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, provenientes da autorização concedida pelo artigo 1.º do presente diploma reverte para a Região Autónoma da Madeira.
+Art. 5.º - 1 - Salvaguardado o disposto no artigo 7.º do [Decreto-Lei n.º 439/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1988-357114), de 30 de Novembro, o produto das receitas consignadas ao Fundo de Turismo pelo [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, provenientes da autorização concedida pelo artigo 1.º do presente diploma reverte para a Região Autónoma da Madeira.
 
 2 - As receitas referidas no número anterior, quando provenientes da prática de actos ilícitos ou incumprimento de planos de obras, serão consignadas ao FIFPROF.
 
-###### Art. 6.º A exploração e prática do jogo em máquinas de fortuna ou azar fora dos locais legalmente autorizados será punida nos termos do disposto na secção I do capítulo IX do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro.
+Art. 6.º A exploração e prática do jogo em máquinas de fortuna ou azar fora dos locais legalmente autorizados será punida nos termos do disposto na secção I do capítulo IX do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro.
 
-###### Art. 7.º À inobservância pela concessionária das condições específicas relativas à exploração e prática do jogo em máquinas de fortuna ou azar a estabelecer pelo decreto regulamentar regional previsto no artigo 2.º do presente diploma será aplicável o disposto no artigo 124.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro.
+Art. 7.º À inobservância pela concessionária das condições específicas relativas à exploração e prática do jogo em máquinas de fortuna ou azar a estabelecer pelo decreto regulamentar regional previsto no artigo 2.º do presente diploma será aplicável o disposto no artigo 124.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro.
 
-###### Art. 8.º Compete às autoridades, nos termos da lei geral, fiscalizar o cumprimento do disposto neste diploma.
+Art. 8.º Compete às autoridades, nos termos da lei geral, fiscalizar o cumprimento do disposto neste diploma.
 
 Aprovado em sessão plenária em 13 de Junho de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 4 de Julho de 1990.**
+Assinado em 4 de Julho de 1990.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

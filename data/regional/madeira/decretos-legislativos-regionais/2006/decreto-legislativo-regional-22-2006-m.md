@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2006/06/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2006-370979
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c660483cff36585a02d39f0d8a24e75da88a246d8f03cb2a2c094e16b013ac89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e80978d2e986274970e5c203645c5b0d6a579ae0ae2b8fe944a400d930758a8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Assistência Medicamentosa
 - Comparticipação do Estado
-- Política de Saúde
-- Medicamento
-- Secretaria Regional dos Assuntos Sociais
-- Pensionista
 - Madeira.região Autónoma
+- Medicamento
+- Pensionista
+- Política de Saúde
+- Secretaria Regional dos Assuntos Sociais
 - Serviço Regional de Saúde
 relationships:
 - type: cites
@@ -111,16 +111,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/91/2006/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/91/2006/01/27/p/dre
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681580:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:38Z'
   warnings: []
   errors: []
 ---
@@ -173,10 +209,10 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de Abril de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 5 de Junho de 2006.**
+Assinado em 5 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/21000/0928509288.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2015/10/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2015-70819833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a891d05ffea002653cf40f2670c1d0bf71f0d0e8b0c90d7592dc5a0ea49b83d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 615736c3f550dc678b9fbdbf2967b0832da51cd2c2d5e084913c9d6af0ec58f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - BENS Classificados
+- Conservação e Restauro
+- Ilha do Corvo
 - Imóvel Classificado
 - Obras de Conservação e Restauro
-- Património Cultural
-- Ilha do Corvo
-- Património Histórico
-- Conservação e Restauro
 - Património Arquitectónico
+- Património Cultural
+- Património Histórico
 - Protecção do Património
-- Açores
 - Vila do Corvo
 relationships:
 - type: amended_by
@@ -90,16 +90,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66426484:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:918366408:por
+  label: Revogado, a partir de 17 de maio de 2025, o Regime Específico de Proteção e Valorização do Património Cultural Imóvel
+    do Núcleo Antigo de Vila do Corvo pelo(a) Decreto Regulamentar Regional n.º 14/2025/A - Diário da República n.º 94/2025,
+    Série I de 2025-05-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2025-918366408
+  date: '2025-05-16'
 article_structure:
   article_count: 8
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:18Z'
   warnings: []
   errors: []
 ---
@@ -296,10 +311,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 7 de setembro de 2015.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 1 de outubro de 2015.**
+Assinado em Angra do Heroísmo em 1 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

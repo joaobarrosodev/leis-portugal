@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/197/2009/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/197-2009-602024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5012bec0a1f5cc2c8321cfec15ea30aee8b677926b6fd6e5faf63250415975ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 953d2e0f1672d6287155e17356c528a9d7abbc51ae93967b17c5c14070868d2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cadaval
+- Comércio
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Coletivo de Trabalho
 - Lourinhã
-- Condições de Higiene e Segurança no Trabalho
 - Regulamento de Extensão
 - Remuneração
 - Sobral de Monte Agraço
-- Comércio
 - Torres Vedras
 relationships:
 - type: cites
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+- type: cites
+  target: pt:dre:195799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:44Z'
   warnings: []
   errors: []
 ---

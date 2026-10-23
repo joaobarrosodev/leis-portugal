@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/11/22000/0949109499.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2015/11/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2015-70961399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30a4f950dce3c9516929cfdbebd5715f8abd8c6c94cadd8748389b2adb840668
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f4f0160555aff25b306d7f79c59349b66a1dea965b404b583b1d7584a221111
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Local
+- Administração Regional
 - Associação de Municípios
-- Financiamento
-- Governo Regional
+- Autarquia Local
+- Câmara Municipal
 - Contrato
 - Contrato de Desenvolvimento
 - Cooperação Financeira
 - Cooperação Técnica
+- Financiamento
 - Fiscalização
+- Governo Regional
 - Programa Operacional da Região Autónoma dos Açores
-- Administração Local
-- Câmara Municipal
-- Administração Regional
-- Açores
-- Autarquia Local
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/27/2005/11/10/a/dre
@@ -97,16 +97,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/73/2013/09/03/p/dre
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584639:por
+  label: null
+  source: null
 article_structure:
-  article_count: 53
+  article_count: 48
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:59Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +181,9 @@ f) ...
 
 3 - Podem também revestir a modalidade de cooperação financeira os contratos ARAAL através dos quais a Região comparticipe os municípios pelos prejuízos causados pela ocorrência de intempéries, situações imprevisíveis e excecionais, independentemente de configurarem, ou não, situações de calamidade pública.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -171,7 +197,9 @@ d) ...
 
 e) Concessão excecional de auxílios financeiros a que se refere o n.º 3 do artigo 4.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As propostas de candidatura relativas aos investimentos a que se referem as alíneas a), b), c) e e) do artigo anterior são da iniciativa dos municípios, sendo apresentadas junto dos departamentos do Governo Regional competentes em razão da matéria, cabendo a estes apreciá-las.
 
@@ -179,13 +207,17 @@ e) Concessão excecional de auxílios financeiros a que se refere o n.º 3 do ar
 
 3 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
 2 - (Revogado.)
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 Os formulários para apresentação de candidaturas a que se referem o artigo 7.º e o n.º 1 do artigo 21.º e o modelo do painel a que se refere o n.º 1 do artigo 38.º são definidos por portaria do membro do Governo Regional competente em matéria de administração local.»
 
@@ -207,7 +239,9 @@ Concessão excecional de auxílios financeiros
 
 3 - A comparticipação financeira direta do Governo Regional prevista no n.º 3 do artigo 4.º será fixada pelo Conselho do Governo Regional consoante a gravidade ou a necessidade das situações objeto de apoio, podendo atingir até 70 % do montante global a investir.
 
-###### Artigo 24.º-A — Concessão excecional de auxílios financeiros
+Artigo 24.º-A
+
+Concessão excecional de auxílios financeiros
 
 1 - Sem prejuízo do disposto no artigo anterior, a cooperação financeira com as freguesias e associações de freguesias poderá abranger a comparticipação por prejuízos causados pela ocorrência de intempéries, situações imprevisíveis e excecionais, as quais não configurem situações de calamidade pública.
 
@@ -229,11 +263,11 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de setembro de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 22 de outubro de 2015.**
+Assinado em Angra do Heroísmo em 22 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/23-1979-366599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61efedf0677107e3b9afaa2e98e1538316bd37a784f2100c026e518af4f92c50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6c84fdba8a660588cb21a669f78947dfa86584ab9fe0731e4201168390f5acf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Magistrado Judicial
+- Subsídio de Fixação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:01Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +95,20 @@ Consequentemente, torna-se necessário criar, com carácter excepcional, um inst
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os magistrados judiciais, quando exerçam as suas funções em qualquer comarca ou como presidente do círculo na Região Autónoma dos Açores, têm direito a um subsídio excepcional, denominado de fixação.
+Artigo 1.º - 1 - Os magistrados judiciais, quando exerçam as suas funções em qualquer comarca ou como presidente do círculo na Região Autónoma dos Açores, têm direito a um subsídio excepcional, denominado de fixação.
 
 2 - O subsídio excepcional de fixação é de 10000$00 mensais.
 
-###### Art. 2.º - 1 - Os encargos resultantes da aplicação do presente decreto regional serão suportados pelo orçamento regional.
+Art. 2.º - 1 - Os encargos resultantes da aplicação do presente decreto regional serão suportados pelo orçamento regional.
 
 2 - Fica o Governo Regional autorizado a introduzir, no orçamento em execução, as necessárias alterações.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 8 de Junho de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 19 de Novembro de 1979.**
+Assinado em Angra do Heroísmo em 19 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

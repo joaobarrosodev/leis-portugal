@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/398/2007/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/398-2007-520230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 798dcc936cb2333ee2711acf3b0a58c19feaa75c29715937baf033cf54d33496
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 702526d084d88f43f1d9a32ccd62a9718e5238589ce805772b5b60354b6d2b4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Especialização
 - Ensino Superior Politécnico
 - Escola Superior de Saúde do VALE do AVE
 - Instituto Politécnico de Saúde do Norte
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:493065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:493065:por
+  label: "Alterado o anexo pela PORT.837/2009.31.07.2009.MCTES, DR.IS [147] de 31.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/837-2009-493065
+  date: '2009-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -109,16 +114,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/268/2002/03/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/268/2002/03/13/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675650:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:20Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +234,7 @@ Condicionamento
 
 A autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino do cumprimento de eventuais adaptações ou correcções que sejam determinadas pelo Ministério da Ciência, Tecnologia e Ensino Superior, quer por não cumprimento dos pressupostos de autorização e de reconhecimento quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 21 de Março de 2007.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 21 de Março de 2007.
 
 ## ANEXO — Instituto Politécnico de Saúde do Norte
 
@@ -205,4 +242,4 @@ Escola Superior de Saúde do Vale do Ave
 
 Curso de pós-licenciatura de especialização em Enfermagem Comunitária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/06700/21772178.pdf))](https://files.diariodarepublica.pt/1s/2007/04/06700/21772178.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/06700/21772178.pdf)

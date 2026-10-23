@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/221/2008/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/221-2008-247375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb6d75af7d2e51b60bc5bce2f4117fd36d701e02834d92b68ae4b0acbdd9b3a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f44a8dccc7b3a99047ba273b15aa508d1e5b84eb24e4244e616f60b2501552ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,20 +70,20 @@ subjects:
 - Assistência Médica
 - Assistência Medicamentosa
 - Bósnia-herzegovina
-- União Europeia
-- Invalidez
+- Doença Profissional
 - GNR
+- Incapacidade Física
+- Incapacidade Permanente
+- Invalidez
+- Militar
 - Missão Militar
 - Missão no Estrangeiro
+- Óbito
 - Pensão de Invalidez
 - Pensão de Preço de Sangue
-- Doença Profissional
 - Pensão por Serviços Excepcionais
-- Incapacidade Física
 - Proteção Social
-- Militar
-- Óbito
-- Incapacidade Permanente
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/113/2005/07/13/p/dre
@@ -105,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/348/1999/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/348/1999/08/27/p/dre
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533780:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:58Z'
   warnings: []
   errors: []
 ---
@@ -131,4 +151,4 @@ Assim:
 
 Manda o Governo, pelos Ministros de Estado e das Finanças e da Administração Interna, ao abrigo do disposto no artigo 7.º-A do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro, alterado pelos Decretos-Leis n.os [348/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1999-533780), de 27 de Agosto, e [299/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2003-440082), de 4 de Dezembro, e no n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 17/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2000-421020), de 29 de Fevereiro, que, relativamente aos militares da Guarda Nacional Republicana participantes na componente policial (Integrated Police Unit) da missão militar da União Europeia na Bósnia-Herzegovina (Operação ALTHEA), a compensação por danos prevista no artigo 7.º-A do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro, na redacção introduzida pelo [Decreto-Lei n.º 348/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1999-533780), de 27 de Agosto, se reja pelo disposto no [Decreto-Lei n.º 113/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2005-236547), de 13 de Julho.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 18 de Fevereiro de 2008. - O Ministro da Administração Interna, Rui Carlos Pereira, em 7 de Fevereiro de 2008.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 18 de Fevereiro de 2008. - O Ministro da Administração Interna, Rui Carlos Pereira, em 7 de Fevereiro de 2008.

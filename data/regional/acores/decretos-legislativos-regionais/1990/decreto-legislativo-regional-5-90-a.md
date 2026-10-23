@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11200/22462248.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1990-571400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 633a5c43644bfdda47a395eca8b80881ca8975ecdc7f6d68e369b4ae4785f1aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a30d243e54cf2494d85b51293d2c534ac9e1bdb4f408ce66441c3931050bf1f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Definição de Competências
+- Fundo Regional de Transportes Terrestres
+- Fundo Regional dos Transportes
+- Orgânica
+- Reestruturação de Serviços
+- Secretaria Regional da Economia
 relationships:
 - type: amended_by
   target: pt:dre:609335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:139471:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:609335:por
+  label: "Revogado o presente diploma, com efeitos na data da entrada em vigor do decreto regulamentar regional referido no\
+    \ n.º 2 do art.6º; extinto o Fundo Regional dos Transportes, e determinado que o FRTT, I. P. R. A., lhe suceda na titularidade\
+    \ dos direitos e das obrigações correspondentes às atribuições nas áreas dos transportes terrestres, pelo DLR.3/2010/A.19.02.2010.AL-RAA,\
+    \ DR.IS [35] de 19.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2010-609335
+  date: '2010-02-19'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:03Z'
   warnings: []
   errors: []
 ---
@@ -187,10 +206,10 @@ Fica revogado o [Decreto Regional n.º 5/77/A](https://diariodarepublica.pt/dr/d
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 21 de Março de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 20 de Abril de 1990.**
+Assinado em Angra do Heroísmo em 20 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/1992/04/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1992-217922
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d78ff4f95be662b90f7652118844dcb9bc1a17dcacce1678cb4227ab47621f9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db74ac7ea4b6de6fee4b9ba59826ff87687ee87647d8e3c0c297fbda89ed8d6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,14 +73,24 @@ subjects:
 - Aeroporto de Santa Catarina
 - ANAM
 - Contrato de Concessão
+- Madeira.região Autónoma
 - Obras Públicas
 - Porto Santo
-- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:292691:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:426537:por
+  label: "Alterado o art. 2º pelo DLR.7-A/2000/M.2000.03.15.ALR-RAM DR.IS-A [63]Supl de 15/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-a-2000-426537
+  date: '2000-03-15'
+- type: amended_by
+  target: pt:dre:613422:por
+  label: "Aditado o art. 9º-A pelo DLR.4/2010/M.19.04.2010.AL-RAM, DR.IS [75] de 19.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-2010-613422
+  date: '2010-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/453/1991/12/11/p/dre
   label: null
@@ -89,16 +99,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:392016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:292691:por
+  label: "Revogados os arts. 2º (alterado pelo DLR 7-A/2000/M de 15-mar), 4º, 6º e 7º, o nº 2 do art. 8º, e os arts. 10º e\
+    \ 12º pelo DLR.25-A/2013/M.26.07.2013.AL-RAM, DR.IS [143-2ºSupl] de 26.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-a-2013-292691
+  date: '2013-07-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:47Z'
   warnings: []
   errors: []
 ---
@@ -119,23 +143,23 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira, nos termos da alínea c) do n.º 1 do artigo 29.º, das alíneas d) e e) do artigo 30.º e do n.º 1 do artigo 31.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, aprova, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1 - É adjudicado à sociedade de capitais exclusivamente públicos ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., abreviadamente designada por ANAM, S. A., criada pelo [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, em regime de concessão com dispensa da realização de concurso, o direito de promover e executar as obras de ampliação do Aeroporto de Santa Catarina e de desenvolvimento das infra-estruturas aeroportuárias, bem como o planeamento e a exploração do serviço público de apoio à aviação civil, na Região Autónoma da Madeira.
+Artigo 1.º - 1 - É adjudicado à sociedade de capitais exclusivamente públicos ANAM - Aeroportos e Navegação Aérea da Madeira, S. A., abreviadamente designada por ANAM, S. A., criada pelo [Decreto-Lei n.º 453/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1991-392016), de 11 de Dezembro, em regime de concessão com dispensa da realização de concurso, o direito de promover e executar as obras de ampliação do Aeroporto de Santa Catarina e de desenvolvimento das infra-estruturas aeroportuárias, bem como o planeamento e a exploração do serviço público de apoio à aviação civil, na Região Autónoma da Madeira.
 
 2 - A concessão efectua-se sem prejuízo das atribuições reservadas por lei, ou pelo contrato de concessão, às entidades competentes em razão da matéria.
 
 3 - O Governo da Região Autónoma da Madeira transferirá para a concessionária a administração dos bens dominiais e patrimoniais afectos aos serviços concessionados, que deverão constar de anexo ao contrato de concessão e dele fazer parte integrante.
 
-###### Art. 2.º A concessão referida no artigo anterior efectua-se pelo período de 25 anos.
+Art. 2.º A concessão referida no artigo anterior efectua-se pelo período de 25 anos.
 
-###### Art. 3.º A concessão considera-se realizada em regime de serviço público, sendo conferida à ANAM, S. A., a faculdade de subconcessionar, no todo ou em parte, desde que previamente autorizada pela entidade concedente.
+Art. 3.º A concessão considera-se realizada em regime de serviço público, sendo conferida à ANAM, S. A., a faculdade de subconcessionar, no todo ou em parte, desde que previamente autorizada pela entidade concedente.
 
-###### Art. 4.º - 1 - Fica o Governo Regional da Madeira autorizada a proceder à formalização do contrato de concessão, cuja minuta deverá ser aprovada pelo Conselho do Governo Regional.
+Art. 4.º - 1 - Fica o Governo Regional da Madeira autorizada a proceder à formalização do contrato de concessão, cuja minuta deverá ser aprovada pelo Conselho do Governo Regional.
 
 2 - O Governo Regional da Madeira fica obrigado a exarar o contrato de concessão, nas condições dos artigos seguintes.
 
-###### Art. 5.º A exploração do serviço público de apoio à aviação civil é feita em regime de serviço público, através de prestações de serviços aos utentes e utilizadores dos aeroportos da Região Autónoma da Madeira.
+Art. 5.º A exploração do serviço público de apoio à aviação civil é feita em regime de serviço público, através de prestações de serviços aos utentes e utilizadores dos aeroportos da Região Autónoma da Madeira.
 
-###### Art. 6.º As obras, de ampliação e de desenvolvimento, dos aeroportos da Região Autónoma da Madeira, objecto da concessão, referidas no artigo 1.º do presente diploma, cuja execução deverá ser iniciada de imediato, de forma continuada e sem prejuízo de outras que venham a revelar-se necessárias ao seu bom funcionamento, compreendem, nomeadamente:
+Art. 6.º As obras, de ampliação e de desenvolvimento, dos aeroportos da Região Autónoma da Madeira, objecto da concessão, referidas no artigo 1.º do presente diploma, cuja execução deverá ser iniciada de imediato, de forma continuada e sem prejuízo de outras que venham a revelar-se necessárias ao seu bom funcionamento, compreendem, nomeadamente:
 
 a) A construção das obras de ampliação da segunda fase do Aeroporto de Santa Catarina;
 
@@ -143,7 +167,7 @@ b) A construção da nova aerogare do Aeroporto do Porto Santo;
 
 c) O reforço e reperfilamento da parte antiga da pista, na extensão de 2290 m, e reformulação da sinalização luminosa da pista do Aeroporto do Porto Santo.
 
-###### Art. 7.º - 1 - Carecem de autorização do Conselho do Governo Regional as deliberações da concessionária que tenham por fim, designadamente:
+Art. 7.º - 1 - Carecem de autorização do Conselho do Governo Regional as deliberações da concessionária que tenham por fim, designadamente:
 
 a) A subconcessão, por qualquer título ou prazo, da exploração das áreas concessionadas, a terceiros;
 
@@ -181,32 +205,32 @@ b) Proceder, quando necessário, a expropriações para a realização das obras
 
 c) Solicitar às entidades competentes a emissão de autorizações de embarque.
 
-###### Art. 8.º - 1 - Constituem receitas da concessionária todas as taxas cobradas aos utentes, no âmbito da concessão, nomeadamente as devidas pelas operações de aeronaves e passageiros, ocupações de terrenos, edifícios e instalações, utilização de serviços e equipamentos aeroportuários, ou outras importâncias devidas por prestação directa de serviços.
+Art. 8.º - 1 - Constituem receitas da concessionária todas as taxas cobradas aos utentes, no âmbito da concessão, nomeadamente as devidas pelas operações de aeronaves e passageiros, ocupações de terrenos, edifícios e instalações, utilização de serviços e equipamentos aeroportuários, ou outras importâncias devidas por prestação directa de serviços.
 
 2 - Os montantes das taxas referidas ao número anterior serão os aprovados pelo membro do Governo Regional responsável pelo sector dos transportes aéreos, por sua iniciativa ou mediante proposta da concessionária, não podendo a concessionária cobrar taxas diversas das que forem aprovadas.
 
 3 - A concessionária promoverá a cobrança das taxas e demais rendimentos provenientes da prestação do serviço público, bem como a utilização e ocupação de espaços na área dos aeroportos da Região Autónoma da Madeira.
 
-###### Art. 9.º A concessionária obriga-se a assumir todos os direitos e obrigações da Região Autónoma da Madeira tomados com o pessoal afecto aos serviços concessionados.
+Art. 9.º A concessionária obriga-se a assumir todos os direitos e obrigações da Região Autónoma da Madeira tomados com o pessoal afecto aos serviços concessionados.
 
-###### Art. 10.º - 1 - As infra-estruturas aeroportuárias integram o domínio público regional, à semelhança dos instrumentos, instalações e equipamento utilizados pela concessionária, e reverterão para a Região Autónoma da Madeira, finda a concessão pelo decurso do prazo, pela rescisão ou pelo resgate, sem direito a qualquer indemnização, salvo a devida em caso de resgate, e não podendo a concessionária invocar, com qualquer fundamento, o direito de retenção.
+Art. 10.º - 1 - As infra-estruturas aeroportuárias integram o domínio público regional, à semelhança dos instrumentos, instalações e equipamento utilizados pela concessionária, e reverterão para a Região Autónoma da Madeira, finda a concessão pelo decurso do prazo, pela rescisão ou pelo resgate, sem direito a qualquer indemnização, salvo a devida em caso de resgate, e não podendo a concessionária invocar, com qualquer fundamento, o direito de retenção.
 
 2 - Finda a concessão, a concessionária obriga-se a entregar todos os bens referidos no número anterior, sem dependência de qualquer formalidade e livres de quaisquer ónus ou encargos e em bom estado de funcionamento e conservação.
 
 3 - Finda a concessão, a Região Autónoma da Madeira assumirá todos os deveres contraídos pela concessionária, relativos ao pessoal contratado e desde que constante do plano anual aprovado nos termos da alínea b) do n.º 2 do artigo 7.º do presente diploma.
 
-###### Art. 11.º O Governo Regional da Madeira procederá à adaptação do estatuto dos funcionários do quadro de pessoal da Direcção Regional de Aeroportos, de molde a assegurar o bom funcionamento da concessão.
+Art. 11.º O Governo Regional da Madeira procederá à adaptação do estatuto dos funcionários do quadro de pessoal da Direcção Regional de Aeroportos, de molde a assegurar o bom funcionamento da concessão.
 
-###### Art. 12.º Constituirá, nomeadamente, fundamento para a rescisão do contrato de concessão, com dispensa de pré-aviso, o não cumprimento do disposto no artigo 6.º do presente diploma.
+Art. 12.º Constituirá, nomeadamente, fundamento para a rescisão do contrato de concessão, com dispensa de pré-aviso, o não cumprimento do disposto no artigo 6.º do presente diploma.
 
-###### Art. 13.º O presente diploma entra imediatamente em vigor.
+Art. 13.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária de 18 de Março de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.
 
-**Assinado em 7 de Abril de 1992.**
+Assinado em 7 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

@@ -5,8 +5,8 @@ title: Declaração de Retificação n.º 1054/2024/2
 short_title: null
 summary: Retifica o Despacho (extrato) n.º 13845/2024, publicado no Diário da República, 2.ª série, n.º 227, de 22 de novembro
   de 2024.
-jurisdiction: regional
-territory: acores
+jurisdiction: portugal
+territory: null
 document_type: declaracao-retificacao
 document_type_label: Declaração de Retificação
 issuing_authority:
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/237000000/0024600246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1054-2024-899202244
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f8cd1e2effb513b581147ce2e37965e1eb35d42b27b567def4f5b5053850c25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0f717bd01b06bbe5ca9b6892445d2fd73525bd6bd3f8b1a5b72c2ab449d4d60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:897520968:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:16Z'
   warnings: []
   errors: []
 ---
@@ -102,3 +106,5 @@ deve ler-se:
 «Por despacho da Reitora da Universidade dos Açores, de 2 de setembro de 2024, foi autorizada a celebração de contrato de trabalho em funções públicas por tempo indeterminado com o Doutor José António Baptista Machado Soares, na categoria de professor auxiliar da carreira docente universitária, do mapa de pessoal da Universidade dos Açores, com efeitos a 9 de setembro de 2024, na sequência de procedimento concursal. A remuneração corresponde ao escalão 1, índice 195, da tabela remuneratória da carreira docente universitária.»
 
 25 de novembro de 2024. - A Administradora, Cíntia Ricardo Reis Machado.
+
+318398677

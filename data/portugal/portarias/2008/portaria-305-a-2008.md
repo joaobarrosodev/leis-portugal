@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 78/2008, 1º Suplemento, Série I de 2008-04-21
   number: '78'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2300-(2) a 2300-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07801/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/305-a/2008/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/305-a-2008-687622
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4059a29c79561b1b578242b35870afb67569bf35a257cecfe5d68c222d264bb3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3f1aee234aa970bf96609b0c9be5ad1c74bd0f1ee5b938f973a963666de527b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Abate de Árvores
 - Árvore
-- Direção Geral de Agricultura e Desenvolvimento Rural
-- Doença Vegetal
-- Direcção Geral dos Recursos Florestais
 - Controlo Sanitário
+- Direção Geral de Agricultura e Desenvolvimento Rural
+- Direcção Geral dos Recursos Florestais
+- Doença Vegetal
 - Exploração Florestal
 - Pinheiro
 - Proteção Fitossanitária
@@ -80,6 +80,12 @@ relationships:
   target: pt:dre:456870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456870:por
+  label: "Alterados os art.s 8º-A e 11º-A da Port 103/2006, de 06-Fev, , aditados pelo presente diploma, pela PORT.553-B/2008.27.06.2008.MADRP,\
+    \ DR.IS [123-3ºSupl] de 27.06.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-b-2008-456870
+  date: '2008-06-27'
 - type: cites
   target: celex:32006D0133
   label: null
@@ -88,16 +94,27 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/103/2006/02/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/103/2006/02/06/p/dre
+- type: repealed_by
+  target: pt:dre:3000129:por
+  label: "Revogados os anexos I e II da Port 103/2006 de 06-Fev, com as alterações constantes do presente diploma, pelo DESP.15752/2008.06.06.2008.DGRF-MADRP,\
+    \ DR.IIS [109] de 06.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/15752-2008-3000129
+  date: '2008-06-06'
+- type: repealed_by
+  target: pt:dre:456870:por
+  label: "Revogada pela PORT.553-B/2008.27.06.2008.MADRP, DR.IS [123-3ºSupl] de 27.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/553-b-2008-456870
+  date: '2008-06-27'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:28Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +147,9 @@ Medidas urgentes em zona isenta
 
 2 - O abate e remoção das árvores referidas no número anterior são considerados de interesse público e têm carácter urgente, devendo ter lugar no prazo máximo de 10 dias a contar da notificação para o efeito, substituindo-se o Estado ao responsável se ele nada fizer, não for conhecido ou não puder ser notificado, aplicando-se nestes casos, com as devidas adaptações, o disposto nos n.os 4, 6 e 7 do artigo 3.º
 
-###### Artigo 11.º-A — Definição da zona afectada e da zona de restrição
+Artigo 11.º-A
+
+Definição da zona afectada e da zona de restrição
 
 1 - A delimitação das áreas da zona afectada e da zona de restrição estabelecidas na presente portaria passam a ser definidas por despacho do director-geral dos Recursos Florestais, ouvida a DGADR, a publicar na 2.ª série do Diário da República e a publicitar no sítio da Internet da DGRF, em http://www.dgrf.min-agricultura.pt/portal e através de edital a afixar nas câmaras municipais e juntas de freguesia das áreas abrangidas.
 
@@ -144,16 +163,16 @@ Aos anexos ii e iii da Portaria n.º 103/2006, de 6 de Fevereiro, na redacção 
 
 [a que se refere a alínea z) do artigo 2.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07801/0000200003.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07801/0000200003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07801/0000200003.pdf)
 
 ## ANEXO III — Área da zona de restrição de NMP
 
 [a que se refere a alínea aa) do artigo 2.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/04/07801/0000200003.pdf))](https://files.diariodarepublica.pt/1s/2008/04/07801/0000200003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/04/07801/0000200003.pdf)
 
 ###### Artigo 3.º — Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 18 de Abril de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 18 de Abril de 2008.

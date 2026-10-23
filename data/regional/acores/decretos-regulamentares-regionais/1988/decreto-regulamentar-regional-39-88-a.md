@@ -46,36 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-1988-354757
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce16906a5c843df6a17b0b91aa703e91cdff9a07ec50ffd68e4ffb8764e977b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e4b51c3d74b5fea978d95cdf10ca4859e1668547d37b81e86fe1a42a02846a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Direcção Regional de Segurança Social
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:07Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +121,7 @@ Assim, o Governo Regional decreta, nos termos da alínea b) do artigo 229.º da 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Direcção Regional de Segurança Social é um órgão da Secretaria Regional dos Assuntos Sociais, que tem como atribuições a coordenação, inspecção, estudo e apoio técnico do sector da Segurança Social.
+Artigo 1.º - 1 - A Direcção Regional de Segurança Social é um órgão da Secretaria Regional dos Assuntos Sociais, que tem como atribuições a coordenação, inspecção, estudo e apoio técnico do sector da Segurança Social.
 
 2 - Incumbe, designadamente, à Direcção Regional de Segurança Social:
 
@@ -126,13 +153,13 @@ n) Participar, da forma prevista na lei, nas acções de protecção civil.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 2.º - 1 - O director regional, no exercício das competências que lhe estão definidas, é coadjuvado por um director de serviços.
+Art. 2.º - 1 - O director regional, no exercício das competências que lhe estão definidas, é coadjuvado por um director de serviços.
 
 2 - O director regional poderá atribuir ao director de serviços adjunto a orientação de determinadas áreas de actuação da Direcção Regional.
 
 3 - Compete também ao director de serviços adjunto substituir o director regional nas suas faltas e impedimentos, ficando nestas situações investido da totalidade dos poderes próprios e delegados do director regional.
 
-###### Art. 3.º A Direcção Regional de Segurança Social compreende os seguintes órgãos e serviços:
+Art. 3.º A Direcção Regional de Segurança Social compreende os seguintes órgãos e serviços:
 
 a) Divisão de Organização e Documentação;
 
@@ -142,7 +169,7 @@ c) Divisão de Instalações e Equipamentos;
 
 d) Divisão de Apoio às Casas do Povo.
 
-###### Art. 4.º A Direcção Regional de Segurança Social coordena as seguintes instituições regionais de segurança social:
+Art. 4.º A Direcção Regional de Segurança Social coordena as seguintes instituições regionais de segurança social:
 
 a) Centro de Gestão Financeira da Segurança Social;
 
@@ -150,9 +177,11 @@ b) Instituto de Gestão dos Regimes de Segurança Social;
 
 c) Instituto de Acção Social.
 
-#### SECÇÃO I — Divisão de Organização e Documentação
+#### SECÇÃO I
 
-###### Art. 5.º Compete à Divisão de Organização e Documentação:
+##### Divisão de Organização e Documentação
+
+Art. 5.º Compete à Divisão de Organização e Documentação:
 
 a) Estudar e propor medidas para a actualização e melhoria da organização e do funcionamento dos órgãos, serviços e instituições de segurança social;
 
@@ -170,9 +199,11 @@ g) Acompanhar os processos respeitantes a organismos internacionais com os quais
 
 h) Proceder à difusão de legislação, ordens de serviço, documentação e demais informação relacionada com a Segurança Social.
 
-#### SECÇÃO II — Divisão de Recursos Humanos
+#### SECÇÃO II
 
-###### Art. 6.º Compete à Divisão de Recursos Humanos:
+##### Divisão de Recursos Humanos
+
+Art. 6.º Compete à Divisão de Recursos Humanos:
 
 a) Informar e dar parecer sobre as questões relativas à gestão de pessoal que lhe sejam submetidas;
 
@@ -190,9 +221,11 @@ g) Assegurar a elaboração de textos de apoio relacionados com a administraçã
 
 h) Apoiar tecnicamente, quando solicitada para o efeito, a gestão do pessoal das instituições particulares de solidariedade social e das casas do povo.
 
-#### SECÇÃO III — Divisão de Instalações e Equipamentos
+#### SECÇÃO III
 
-###### Art. 7.º Compete à Divisão de Instalações e Equipamentos:
+##### Divisão de Instalações e Equipamentos
+
+Art. 7.º Compete à Divisão de Instalações e Equipamentos:
 
 a) Participar na elaboração dos planos anuais e de médio prazo relativos ao sector;
 
@@ -212,9 +245,11 @@ h) Acompanhar e colaborar na fiscalização da execução de obras, tendo em vis
 
 i) Manter actualizado um registo dos investimentos, de forma a permitir a rápida correcção de eventuais desvios.
 
-#### SECÇÃO IV — Divisão de Apoio às Casas do Povo
+#### SECÇÃO IV
 
-###### Art. 8.º Compete à Divisão de Apoio as Casas do Povo:
+##### Divisão de Apoio às Casas do Povo
+
+Art. 8.º Compete à Divisão de Apoio as Casas do Povo:
 
 a) Estudar e propor medidas tendo em vista aperfeiçoar o funcionamento das casas do povo;
 
@@ -230,7 +265,7 @@ f) Promover a fiscalização das casas do povo e propor as medidas necessárias 
 
 g) Dinamizar a utilização das instalações das casas do povo, com vista à valorização cultural das comunidades respectivas, para o que incentivará a articulação com outras entidades.
 
-###### Art. 9.º - 1 - A Divisão de Apoio às Casas do Povo exerce as suas atribuições directamente e através dos Serviços de Apoio às Casas do Povo de Angra do Heroísmo, Horta e Ponta Delgada.
+Art. 9.º - 1 - A Divisão de Apoio às Casas do Povo exerce as suas atribuições directamente e através dos Serviços de Apoio às Casas do Povo de Angra do Heroísmo, Horta e Ponta Delgada.
 
 2 - Os serviços de apoio às casas do povo (SACP) exercem as suas atribuições:
 
@@ -242,7 +277,7 @@ c) SACP de Ponta Delgada, nas ilhas de São Miguel e Santa Maria.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 10.º O pessoal da Direcção Regional de Segurança Social é agrupado de acordo com a seguinte classificação:
+Art. 10.º O pessoal da Direcção Regional de Segurança Social é agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -258,44 +293,44 @@ f) Pessoal administrativo;
 
 g) Pessoal auxiliar.
 
-###### Art. 11.º O pessoal da Direcção Regional de Segurança Social é o constante do mapa anexo ao presente diploma, podendo o director regional afectá-lo temporariamente aos diversos órgãos, de harmonia com as necessidades e a conveniência do serviço e as aptidões dos funcionários.
+Art. 11.º O pessoal da Direcção Regional de Segurança Social é o constante do mapa anexo ao presente diploma, podendo o director regional afectá-lo temporariamente aos diversos órgãos, de harmonia com as necessidades e a conveniência do serviço e as aptidões dos funcionários.
 
-###### Art. 12.º As condições e regras de ingresso e acesso dos funcionários da Direcção Regional de Segurança Social são as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e as previstas neste diploma e na legislação regional e geral complementar.
+Art. 12.º As condições e regras de ingresso e acesso dos funcionários da Direcção Regional de Segurança Social são as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e as previstas neste diploma e na legislação regional e geral complementar.
 
-###### Art. 13.º O pessoal dirigente é provido de acordo com o disposto no [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril.
+Art. 13.º O pessoal dirigente é provido de acordo com o disposto no [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril.
 
-###### Art. 14.º O pessoal de informática é recrutado e provido nos termos do Decreto-Lei n.º 100-A/80, de 10 de Maio.
+Art. 14.º O pessoal de informática é recrutado e provido nos termos do Decreto-Lei n.º 100-A/80, de 10 de Maio.
 
-###### Art. 15.º O ingresso na carreira de tradutor-correspondente-intérprete far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade e a posse do curso técnico-profissional de secretariado, devendo as respectivas provas de selecção incidir obrigatoriamente sobre os conhecimentos de duas línguas estrangeiras.
+Art. 15.º O ingresso na carreira de tradutor-correspondente-intérprete far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade e a posse do curso técnico-profissional de secretariado, devendo as respectivas provas de selecção incidir obrigatoriamente sobre os conhecimentos de duas línguas estrangeiras.
 
-###### Art. 16.º Os requisitos para o ingresso e acesso na carreira de técnico auxiliar de BAD são os constantes do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+Art. 16.º Os requisitos para o ingresso e acesso na carreira de técnico auxiliar de BAD são os constantes do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
 ### CAPÍTULO IV — Disposições transitórias e finais
 
-###### Art. 17.º - 1 - O pessoal dos quadros de pessoal da Direcção Regional de Segurança Social e Serviços de Apoio e Orientação das Casas do Povo, anexos ao [Decreto Regulamentar Regional n.º 8/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1987-666548), de 1 de Abril, transita para os quadros anexos ao presente diploma, em igual categoria, através de lista nominativa, que será sujeita a anotação da Secção Regional do Tribunal de Contas.
+Art. 17.º - 1 - O pessoal dos quadros de pessoal da Direcção Regional de Segurança Social e Serviços de Apoio e Orientação das Casas do Povo, anexos ao [Decreto Regulamentar Regional n.º 8/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1987-666548), de 1 de Abril, transita para os quadros anexos ao presente diploma, em igual categoria, através de lista nominativa, que será sujeita a anotação da Secção Regional do Tribunal de Contas.
 
 2 - Exceptua-se ao disposto no número anterior o pessoal adstrito à Direcção de Serviços de Acção Social e Equipamentos Colectivos, que se mantém, transitoriamente, no quadro da Direcção Regional de Segurança Social, anexo ao [Decreto Regulamentar Regional n.º 8/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1987-666548), de 1 de Abril, até à sua integração no Instituto de Acção Social.
 
-###### Art. 18.º Mantêm-se em funções os directores de Serviços de Acção Social e Equipamentos Colectivos e de Prestações Pecuniárias de Segurança Social até à regulamentação dos institutos que absorverão as respectivas atribuições.
+Art. 18.º Mantêm-se em funções os directores de Serviços de Acção Social e Equipamentos Colectivos e de Prestações Pecuniárias de Segurança Social até à regulamentação dos institutos que absorverão as respectivas atribuições.
 
-###### Art. 19.º O pessoal referido no n.º 2 do artigo 17.º e no artigo 18.º constará de anexo à lista referida no n.º 1 do artigo 17.º
+Art. 19.º O pessoal referido no n.º 2 do artigo 17.º e no artigo 18.º constará de anexo à lista referida no n.º 1 do artigo 17.º
 
-###### Art. 20.º O pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário de qualquer serviço da Secretaria Regional dos Assuntos Sociais, conte, pelo menos, três anos de serviço ininterrupto e foi admitido com observância dos requisitos habilitacionais pode ser integrado directamente em lugares dos quadros anexos ao presente diploma.
+Art. 20.º O pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário de qualquer serviço da Secretaria Regional dos Assuntos Sociais, conte, pelo menos, três anos de serviço ininterrupto e foi admitido com observância dos requisitos habilitacionais pode ser integrado directamente em lugares dos quadros anexos ao presente diploma.
 
-###### Art. 21.º São revogados os artigos 8.º a 10.º e 49.º e 50.º do [Decreto Regulamentar Regional n.º 22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio.
+Art. 21.º São revogados os artigos 8.º a 10.º e 49.º e 50.º do [Decreto Regulamentar Regional n.º 22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio.
 
-###### Art. 22.º As duvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários Regionais dos Assuntos Sociais e da Administração Pública.
+Art. 22.º As duvidas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários Regionais dos Assuntos Sociais e da Administração Pública.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 28 de Julho de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 1 de Setembro de 1988.**
+Assinado em Angra do Heroísmo em 1 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 Mapa anexo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/23200/40884091.pdf))](https://files.diariodarepublica.pt/1s/1988/10/23200/40884091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/23200/40884091.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/1994/09/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1994-604439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4e0d774844fbe6facf91bb8fb38713944432bcd23495bdd3e6ee4d3adb1846c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8bedb174e3168edeccc162395d27ba77713fca02d39eb283438d4df2c2fcfb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:541979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632907:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:00Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +124,7 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, conjugada com as alíneas c) do n.º 1 do artigo 29.º e n) do artigo 30.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º Os artigos 36.º, 37.º, 41.º, 41.º-A, 42.º, 51.º e 52.º do [Decreto-Lei n.º 418/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1993-541979), de 24 de Dezembro, sofrem, na Região, as seguintes adaptações:
+Artigo 1.º Os artigos 36.º, 37.º, 41.º, 41.º-A, 42.º, 51.º e 52.º do [Decreto-Lei n.º 418/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1993-541979), de 24 de Dezembro, sofrem, na Região, as seguintes adaptações:
 
 ###### Artigo 36.º — Antecipação do direito à pensão de velhice
 
@@ -192,14 +204,14 @@ f) Verificar o cumprimento, pelo beneficiário, dos deveres estabelecidos no art
 
 3 - ...
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 15 de Julho de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 11 de Agosto de 1994.**
+Assinado em 11 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

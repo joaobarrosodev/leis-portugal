@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/11/27100/40914096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1987-499004
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b7b6f4428d00aa6f3f591defa0e013db832d81034cb00ed896223f331c4f4d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 355289578f2a196ace70513226a203e523a9528fdc974973d58daf9e842e13df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Serviço Regional de Protecção Civil dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:645762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:556062:por
+  label: "Dada nova redacção aos arts. 22º, 23º, 24º e 25º e substituído o quadro de pessoal, a que se refere o art. 23º,\
+    \ pelo DRR.32/90/A.10.10.1990.GR-RAA, DR.IS [234] de 10.10.1990 \090 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-1990-556062
+  date: '1990-10-10'
+- type: amended_by
+  target: pt:dre:232773:por
+  label: "Alterado o quadro de pessoal do Serviço Regional de Protecção Civil dos Açores,pelo DRR.40/96/A.07.10.1996.SRSSS-RAA,\
+    \ DR.IS-B [232] de 07.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/40-1996-232773
+  date: '1996-10-07'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:645762:por
+  label: "Revogado pelo DRR.24/2003/A.2003.07.14.SRHE-RAA, DR.IS-B [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2003-645762
+  date: '2003-07-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:55Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +150,7 @@ Nestes termos, ao abrigo da alínea b) do artigo 229.º da Constituição, o Gov
 
 Atribuições
 
-###### Artigo 1.º O Conselho Regional de Protecção Civil dos Açores, designado abreviadamente por CRPCA, tem as seguintes atribuições:
+Artigo 1.º O Conselho Regional de Protecção Civil dos Açores, designado abreviadamente por CRPCA, tem as seguintes atribuições:
 
 a) Harmonizar e coordenar as actividades dos vários intervenientes na protecção civil;
 
@@ -120,7 +164,7 @@ e) Emitir parecer sobre a reestruturação orgânica do Serviço Regional de Pro
 
 Constituição
 
-###### Art. 2.º - 1 - O CRPCA é presidido pelo Presidente do Governo Regional ou, tendo havido delegação, pelo Secretário Regional da Administração Pública e tem a seguinte constituição:
+Art. 2.º - 1 - O CRPCA é presidido pelo Presidente do Governo Regional ou, tendo havido delegação, pelo Secretário Regional da Administração Pública e tem a seguinte constituição:
 
 a) Presidente e vice-presidente do Serviço Regional de Protecção Civil;
 
@@ -150,7 +194,7 @@ l) Um representante da Empresa de Electricidade dos Açores, E. P.
 
 Funcionamento
 
-###### Art. 3.º - 1 - O CRPCA reunirá ordinariamente uma vez por ano e extraordinariamente sempre que o seu presidente o julgue conveniente.
+Art. 3.º - 1 - O CRPCA reunirá ordinariamente uma vez por ano e extraordinariamente sempre que o seu presidente o julgue conveniente.
 
 2 - A convocação para as reuniões ordinárias será feita pelo presidente do CRPCA com, pelo menos, três semanas de antecedência e dela constará a proposta da ordem dos trabalhos.
 
@@ -170,7 +214,7 @@ Funcionamento
 
 Atribuições
 
-###### Art. 4.º São atribuições do Serviço Regional de Protecção Civil dos Açores, designado abreviadamente por SRPCA:
+Art. 4.º São atribuições do Serviço Regional de Protecção Civil dos Açores, designado abreviadamente por SRPCA:
 
 a) Superintender e assegurar a coordenação geral de estudos, planos e programas em matéria de protecção civil na Região;
 
@@ -188,7 +232,7 @@ g) Efectuar os treinos e exercícios aconselháveis e rotinar procedimentos, em 
 
 Constituição
 
-###### Art. 5.º O SRPCA é constituído pelos seguintes órgãos e serviços:
+Art. 5.º O SRPCA é constituído pelos seguintes órgãos e serviços:
 
 Presidente;
 
@@ -196,17 +240,17 @@ Centro de Coordenação de Protecção Civil (CECORP);
 
 Conselho administrativo;
 
-##### Divisão de Planeamento, Operações e Telecomunicações;
+Divisão de Planeamento, Operações e Telecomunicações;
 
-##### Divisão de Formação, Estudos e Investigação;
+Divisão de Formação, Estudos e Investigação;
 
-#### Secção dos Serviços Administrativos.
+Secção dos Serviços Administrativos.
 
 #### SECÇÃO II — Órgãos e serviços
 
 ##### SUBSECÇÃO I — Presidente
 
-###### Art. 6.º - 1 - Ao presidente do SRPCA compete:
+Art. 6.º - 1 - Ao presidente do SRPCA compete:
 
 a) Coordenar toda a actividade do SRPCA, garantindo a sua organização e funcionamento;
 
@@ -222,7 +266,7 @@ d) Exercer as funções que por lei ou regulamento lhe sejam cometidas.
 
 Vice-presidente
 
-###### Art. 7.º - 1 - Ao vice-presidente do SRPCA compete substituir o presidente nas suas faltas e impedimentos, bem como exercer as competências que por este lhe forem delegadas.
+Art. 7.º - 1 - Ao vice-presidente do SRPCA compete substituir o presidente nas suas faltas e impedimentos, bem como exercer as competências que por este lhe forem delegadas.
 
 2 - O cargo de vice-presidente do SRPCA é equiparado, para todos os efeitos legais, a director de serviços.
 
@@ -230,7 +274,7 @@ Vice-presidente
 
 Atribuições
 
-###### Art. 8.º Na ocorrência ou iminência de sinistros, catástrofes, calamidades públicas ou treino funcionará o Centro de Coordenação Regional de Protecção Civil, que será activado pelo Presidente do Governo Regional ou, tendo havido delegação, pelo Secretário Regional da Administração Pública e terá as seguintes atribuições:
+Art. 8.º Na ocorrência ou iminência de sinistros, catástrofes, calamidades públicas ou treino funcionará o Centro de Coordenação Regional de Protecção Civil, que será activado pelo Presidente do Governo Regional ou, tendo havido delegação, pelo Secretário Regional da Administração Pública e terá as seguintes atribuições:
 
 a) Garantir ligações permanentes com as entidades e organizações necessárias, por forma a conseguir informações adequadas em tempo útil;
 
@@ -244,7 +288,7 @@ e) Definir e coordenar a actuação das comissões locais de protecção civil.
 
 Constituição
 
-###### Art. 9.º - 1 - O CECORP é directamente dirigido pelo Presidente do Governo Regional, que poderá delegar no Secretário Regional da Administração Pública ou, na ausência ou impedimento deste, noutro secretário regional.
+Art. 9.º - 1 - O CECORP é directamente dirigido pelo Presidente do Governo Regional, que poderá delegar no Secretário Regional da Administração Pública ou, na ausência ou impedimento deste, noutro secretário regional.
 
 2 - O CECORP poderá ter a seguinte constituição:
 
@@ -280,7 +324,7 @@ n) Representante da EDA, E. P.
 
 Competência do responsável do CECORP
 
-###### Art. 10.º Activado o CECORP, o respectivo responsável tem competência para tomar medidas planeadas e outras que entender conveniente, nomeadamente:
+Art. 10.º Activado o CECORP, o respectivo responsável tem competência para tomar medidas planeadas e outras que entender conveniente, nomeadamente:
 
 a) Accionar directamente todos os departamentos governamentais, determinando a sua participação nas acções a desempenhar;
 
@@ -298,11 +342,11 @@ g) Promover a organização de centros operacionais avançados nas áreas em que
 
 Apoio ao CECORP
 
-###### Art. 11.º O SRCPA garantirá todo o apoio necessário para a implementação, montagem e funcionamento do CECORP.
+Art. 11.º O SRCPA garantirá todo o apoio necessário para a implementação, montagem e funcionamento do CECORP.
 
 ##### SUBSECÇÃO III — Conselho administrativo
 
-###### Art. 12.º - 1 - O conselho administrativo é constituído pelo presidente do SRPCA, que preside, pelo chefe de secção dos serviços administrativos e pelo tesoureiro.
+Art. 12.º - 1 - O conselho administrativo é constituído pelo presidente do SRPCA, que preside, pelo chefe de secção dos serviços administrativos e pelo tesoureiro.
 
 2 - Compete ao conselho administrativo:
 
@@ -320,9 +364,11 @@ f) Administrar o património;
 
 g) Pronunciar-se sobre qualquer assunto da sua competência que lhe seja submetido pelo presidente do SRPCA.
 
-##### SUBSECÇÃO IV — Divisão de Planeamento, Operações e Telecomunicações
+##### SUBSECÇÃO IV
 
-###### Art. 13.º À Divisão de Planeamento, Operações e Telecomunicações compete:
+##### Divisão de Planeamento, Operações e Telecomunicações
+
+Art. 13.º À Divisão de Planeamento, Operações e Telecomunicações compete:
 
 a) Elaborar os planos regionais de protecção civil e programar as acções de prevenção e socorro decorrentes;
 
@@ -346,9 +392,11 @@ j) Garantir o apoio técnico necessário ao CRPC, às CLPC e às organizações 
 
 l) Assegurar, nas suas áreas de acção, as ligações inerentes ao funcionamento do SRPCA, bem como as condições para uma efectiva coordenação das acções operacionais a executar pelas diversas organizações e instituições, no âmbito da protecção civil.
 
-##### SUBSECÇÃO V — Divisão de Formação, Estudos e Investigação
+##### SUBSECÇÃO V
 
-###### Art. 14.º À Divisão de Formação, Estudos e Investigação compete:
+##### Divisão de Formação, Estudos e Investigação
+
+Art. 14.º À Divisão de Formação, Estudos e Investigação compete:
 
 a) Promover a divulgação à população em geral dos conhecimentos e normas do procedimento de prevenção e actuação em caso de catástrofe;
 
@@ -370,9 +418,11 @@ i) Dar o tratamento conveniente aos dados estatísticos recebidos, divulgando os
 
 j) Promover, executar e apoiar as acções de instrução e formação na área da protecção civil.
 
-##### SUBSECÇÃO VI — Secção dos Serviços Administrativos
+##### SUBSECÇÃO VI
 
-###### Art. 15.º À Secção dos Serviços Administrativos compete:
+#### Secção dos Serviços Administrativos
+
+Art. 15.º À Secção dos Serviços Administrativos compete:
 
 a) Executar o serviço de expediente geral e de reprodução de documentos e arquivo;
 
@@ -390,13 +440,13 @@ f) Dirigir e superintender o pessoal administrativo e auxiliar.
 
 Gestão financeira e patrimonial
 
-###### Art. 16.º - 1 - A gestão financeira e patrimonial do SRPCA obedecerá aos princípios gerais estabelecidos na lei para a administração financeira dos organismos dotados de autonomia administrativa e financeira.
+Art. 16.º - 1 - A gestão financeira e patrimonial do SRPCA obedecerá aos princípios gerais estabelecidos na lei para a administração financeira dos organismos dotados de autonomia administrativa e financeira.
 
 2 - Ficam afectos ao SRPCA os respectivos saldos de gerência.
 
 Receitas
 
-###### Art. 17.º Constituem receitas do SRPCA:
+Art. 17.º Constituem receitas do SRPCA:
 
 a) Dotação própria a inscrever no orçamento da Região e a detalhar em orçamento próprio;
 
@@ -412,7 +462,7 @@ f) Os saldos de gerência dos anos anteriores, os quais transitam obrigatoriamen
 
 Encargos
 
-###### Art. 18.º - 1 - Constituem encargos do SRPCA todas as despesas decorrentes do funcionamento do serviço.
+Art. 18.º - 1 - Constituem encargos do SRPCA todas as despesas decorrentes do funcionamento do serviço.
 
 2 - Constituem igualmente encargos do SRPCA as despesas decorrentes do funcionamento do CRPCA, do CECORP, bem como o abono das remunerações devidas aos adjuntos municipais.
 
@@ -422,7 +472,7 @@ Encargos
 
 Atribuições
 
-###### Art. 19.º - 1 - Às comissões locais de protecção civil dos Açores, designadas abreviadamente por CLPCA, compete, designadamente:
+Art. 19.º - 1 - Às comissões locais de protecção civil dos Açores, designadas abreviadamente por CLPCA, compete, designadamente:
 
 a) Promover a inventariação dos riscos prováveis que impendem sobre a sua área de acção e respectivas populações;
 
@@ -448,7 +498,7 @@ j) Manter o SRPCA a par da evolução da situação logo que seja previsível o 
 
 Constituição
 
-###### Art. 20.º As CLPCA terão uma constituição flexível, adaptada aos condicionalismos de cada município, podendo ser integradas pelos seguintes elementos:
+Art. 20.º As CLPCA terão uma constituição flexível, adaptada aos condicionalismos de cada município, podendo ser integradas pelos seguintes elementos:
 
 a) Adjunto municipal, quando o houver;
 
@@ -468,7 +518,7 @@ h) Representantes de outras associações de voluntários existentes na Região.
 
 Competência dos presidentes das câmaras
 
-###### Art. 21.º Aos presidentes das câmaras municipais, no âmbito das CLPCA, compete, designadamente:
+Art. 21.º Aos presidentes das câmaras municipais, no âmbito das CLPCA, compete, designadamente:
 
 a) Superintender e coordenar as actividades das CLPCA, de acordo com os planos gerais estabelecidos pelo SRPCA;
 
@@ -482,13 +532,13 @@ e) Nomear os membros da CLPCA.
 
 Adjunto municipal
 
-###### Art. 22.º Os lugares de adjunto municipal serão criados, sob proposta fundamentada do presidente da câmara, por portaria dos Secretários Regionais das Finanças e da Administração Pública, que fixará as correspondentes remunerações.
+Art. 22.º Os lugares de adjunto municipal serão criados, sob proposta fundamentada do presidente da câmara, por portaria dos Secretários Regionais das Finanças e da Administração Pública, que fixará as correspondentes remunerações.
 
 ### CAPÍTULO IV — Pessoal
 
 Quadro de pessoal
 
-###### Art. 23.º O pessoal do SRPCA é o constante do mapa anexo ao presente diploma, que dele faz parte integrante, e agrupa-se de acordo com a seguinte classificação:
+Art. 23.º O pessoal do SRPCA é o constante do mapa anexo ao presente diploma, que dele faz parte integrante, e agrupa-se de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -506,41 +556,41 @@ g) Pessoal auxiliar.
 
 Pessoal dirigente
 
-###### Art. 24.º O pessoal dirigente é provido de acordo com o disposto no [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril.
+Art. 24.º O pessoal dirigente é provido de acordo com o disposto no [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril.
 
 Adjunto municipal
 
-###### Art. 25.º - 1 - O lugar de adjunto municipal será provido em comissão de serviço, por dois anos, renováveis, e pode ser exercido a tempo completo ou parcial.
+Art. 25.º - 1 - O lugar de adjunto municipal será provido em comissão de serviço, por dois anos, renováveis, e pode ser exercido a tempo completo ou parcial.
 
 2 - O exercício do cargo de adjunto municipal pode fazer-se em regime de acumulação com outras funções públicas, caso em que será exercido a tempo parcial.
 
 Carreiras de regime geral
 
-###### Art. 26.º As regras de ingresso e acesso do restante pessoal do SRPCA são as constantes do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, do Decreto Legislativo Regional n.º 13/86/A, de 21 de Abril, e demais legislação complementar.
+Art. 26.º As regras de ingresso e acesso do restante pessoal do SRPCA são as constantes do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, do Decreto Legislativo Regional n.º 13/86/A, de 21 de Abril, e demais legislação complementar.
 
 Operador de telecomunicações
 
-###### Art. 27.º - 1 - As regras de ingresso e acesso aplicáveis à carreira de operador de telecomunicações são as previstas no n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 27.º - 1 - As regras de ingresso e acesso aplicáveis à carreira de operador de telecomunicações são as previstas no n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
 2 - Enquanto não existir um curso de formação adequado para ingresso na presente carreira, o recrutamento para a categoria de operador de telecomunicações de 2.ª classe far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade e aprovados num estágio com a duração de doze meses, a regulamentar por despacho do Secretário Regional da Administração Pública, ou com dois anos de experiência comprovada na área das telecomunicações.
 
 Pessoal de informática
 
-###### Art. 28.º As regras de ingresso e acesso aplicáveis ao pessoal de informática são as constantes do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 28.º As regras de ingresso e acesso aplicáveis ao pessoal de informática são as constantes do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
 Trabalho por turnos
 
-###### Art. 29.º A fim de garantir o funcionamento continuado do SRPCA, para além do período normal de trabalho, poderá adoptar-se o regime de trabalho por turnos, a aprovar por despacho do Presidente do Governo Regional e do Secretário Regional da Administração Pública.
+Art. 29.º A fim de garantir o funcionamento continuado do SRPCA, para além do período normal de trabalho, poderá adoptar-se o regime de trabalho por turnos, a aprovar por despacho do Presidente do Governo Regional e do Secretário Regional da Administração Pública.
 
 Senhas de presença, abonos para transporte e ajudas de custo
 
-###### Art. 30.º - 1 - Os membros do CRPCA que não pertençam ao quadro do SRPCA têm direito ao abono de senhas de presença, cujo montante será definido por despacho conjunto do Presidente do Governo Regional e dos Secretários Regionais das Finanças e da Administração Pública.
+Art. 30.º - 1 - Os membros do CRPCA que não pertençam ao quadro do SRPCA têm direito ao abono de senhas de presença, cujo montante será definido por despacho conjunto do Presidente do Governo Regional e dos Secretários Regionais das Finanças e da Administração Pública.
 
 2 - Os membros do CRPCA e do CECORP que não exerçam funções públicas ou prestem serviço em empresas públicas ou nacionalizadas têm direito ao abono para transporte e ajudas de custo correspondentes à letra C da tabela salarial do funcionalismo público.
 
 Apoio técnico e científico e prestação de serviços
 
-###### Art. 31.º - 1 - Os departamentos e serviços regionais prestarão o apoio técnico e científico solicitado pelo SRPCA.
+Art. 31.º - 1 - Os departamentos e serviços regionais prestarão o apoio técnico e científico solicitado pelo SRPCA.
 
 2 - O SRPCA poderá estabelecer protocolos com serviços e organismos estatais para prestação de apoio técnico e científico.
 
@@ -548,18 +598,18 @@ Apoio técnico e científico e prestação de serviços
 
 Revogação
 
-###### Art. 32.º É revogado o [Decreto Regulamentar Regional n.º 10/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1984-660517), de 6 de Fevereiro.
+Art. 32.º É revogado o [Decreto Regulamentar Regional n.º 10/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1984-660517), de 6 de Fevereiro.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 22 de Setembro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 6 de Novembro de 1987.**
+Assinado em Angra do Heroísmo em 6 de Novembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.
 
 QUADRO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/11/27100/40914096.pdf))](https://files.diariodarepublica.pt/1s/1987/11/27100/40914096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/27100/40914096.pdf)

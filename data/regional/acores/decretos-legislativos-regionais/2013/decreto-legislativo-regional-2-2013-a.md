@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2013/04/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db709fa57375f4d03f0751415493ddef29e8a0cf5671f3a49b35c168d6e77d70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4c2d56fe72aaf9bebefffd5c11276489777cd2f7e490dd7daaef40d7a387abb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,124 +65,180 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Complemento Regional de Pensão
+- Açores
+- Administração Regional
 - Admissão de Pessoal
+- Agricultura
 - Alienação de Participações do Estado
 - AMA
-- Tempo de Serviço
-- Protecção do Investimento
+- Apoio ao Investimento
 - Aquisição de Bens e Serviços
 - Assistência Medicamentosa
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
+- Benefícios Fiscais
 - Centro de Actividades de Tempos Livres
-- Turismo
-- Formação Profissional
+- Cobrança de Dívidas
 - Código do IRS
 - Colocação de Professores
-- Construção Civil
+- Compamid
 - Comparticipação do Estado
+- Comparticipação Familiar
+- Complemento Regional de Pensão
 - Concurso
-- Finanças Locais
-- Governo Regional
-- Doença Mental
+- Conselho do Governo Regional
+- Construção Civil
 - Consultoria
 - Contenção de Despesas
 - Contrato
 - Contrato Programa
+- Contribuições e Impostos
 - Controlo Orçamental
-- Educação
-- Saúde
+- Créditos do Estado
 - Definição de Competências
 - Deslocação ao Estrangeiro
 - Deslocação em Serviço
 - Despesas Públicas
+- Desporto
 - Direcção Regional das Comunidades
+- Direcção Regional do Orçamento e Tesouro
 - Diretor Regional
 - Dívida Pública
 - Dívidas ao Estado
 - Doença do Machado
-- Comparticipação Familiar
+- Doença Mental
+- Educação
+- Educação Pré-escolar
 - Educador de Infância
 - Empreende Jovem
 - Empreitada de Obras Públicas
 - Empresa Pública Regional
-- União Europeia
-- Património Cultural
-- Medicamento
-- Setor Empresarial do Estado
-- Titularização de Créditos
-- Apoio ao Investimento
-- Projeto de Investimento
-- Presidente do Governo Regional
-- Créditos do Estado
+- Ensino Básico
+- Finanças Locais
+- Financiamento
+- Formação Profissional
+- Funcionário Público
+- Gestão de Créditos
 - Gestão do Património
 - Gestão Orçamental
 - Gestor Público
-- Conselho do Governo Regional
-- Subsecretário Regional
-- Subsecretário Regional da Presidência para as Relações Externas
-- Pagamento
-- Contribuições e Impostos
-- IRS
-- Saudaçor
+- Governo Regional
 - Instituto Público
 - Investimento
 - Investimento Público
+- IRS
 - Jardim de Infância
-- Publicitação
+- Jovem Empresário
 - Juros
 - Locação Financeira
+- Medicamento
 - Obras Públicas
-- Orçamento Geral do Estado
 - Operações de Tesouraria
+- Orçamento Geral do Estado
 - Orçamento Regional
 - Organismo Autónomo
 - Organismo do Estado
+- Pagamento
+- Património Cultural
+- Pecuária
 - Pensionista
-- Direcção Regional do Orçamento e Tesouro
 - Pessoal Docente
-- Ensino Básico
-- Jovem Empresário
+- Presidente do Governo Regional
+- Projeto de Investimento
+- Proteção Social
+- Protecção do Investimento
 - Protecção do Património
 - Protecção na Doença
-- Cobrança de Dívidas
-- Proteção Social
+- Publicitação
 - Reembolso
 - Regime Fiscal
 - Regulamento
-- Pecuária
-- Agricultura
 - Remuneração
-- Benefícios Fiscais
+- Saudaçor
+- Saúde
 - Secretário Regional
-- Setor Privado
-- Setor Público
 - Segurança Social
 - Serviço Regional de Saúde
-- Compamid
-- Funcionário Público
+- Setor Empresarial do Estado
+- Setor Privado
+- Setor Público
 - Sider
-- Administração Regional
-- Açores
-- Educação Pré-escolar
-- Subsídio
 - Sidet
+- Subsecretário Regional
+- Subsecretário Regional da Presidência para as Relações Externas
+- Subsídio
 - Taxa
-- Gestão de Créditos
+- Tempo de Serviço
+- Titularização de Créditos
 - Transferência de Verbas
 - Transporte
-- Desporto
 - Tributação
+- Turismo
+- União Europeia
 - Vice-presidente do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:127816253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500189:por
+  label: "Alterados os mapas I, II, III, IV e X, do presente diploma, pelo DLR.15/2013/A.04.10.2013.AL-RAA, DR.IS [192] de\
+    \ 04.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2013-500189
+  date: '2013-10-04'
+- type: amended_by
+  target: pt:dre:570685:por
+  label: "Dada nova redação ao art. 5.º do DLR 14/2009/A de 29-jul, alterado pelo presente diploma, pelo DLR.2/2014/A.29.01.2014.AL-RAA,\
+    \ DR.IS [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2014-570685
+  date: '2014-01-29'
+- type: amended_by
+  target: pt:dre:66041469:por
+  label: Dada nova redação ao art. 5.º do DLR 14/2009/A de 29-jul, alterado pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 1/2015/A - Diário da República n.º 4/2015, Série I de 2015-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2015-66041469
+  date: '2015-01-07'
+- type: amended_by
+  target: pt:dre:67377973:por
+  label: Alterado o art. 4.º do DLR n.º 2/99/A de 20-jan na versão republicada pelo DLR 42/2008/A de 07-out e na redação do
+    presente diploma, pelo(a) Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2015-67377973
+  date: '2015-06-03'
+- type: amended_by
+  target: pt:dre:73070297:por
+  label: Alterado o art. 2º do DLR 4/2008/A de 26-fev, com a redação dada pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2016-73070297
+  date: '2016-01-08'
+- type: amended_by
+  target: pt:dre:106861729:por
+  label: Alterados os arts. 9.º e 10.º do Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico
+    e Secundário, aprovado pelo DLR 22/2012/A, de 30-mai, na redação do presente diploma pelo(a) Decreto Legislativo Regional
+    n.º 2/2017/A - Diário da República n.º 72/2017, Série I de 2017-04-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2017-106861729
+  date: '2017-04-11'
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Alterado o art. 4.º do DLR 2/99/A, de 20-jan, na redação do presente diploma pelo(a) Decreto Legislativo Regional
+    n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
+- type: amended_by
+  target: pt:dre:117612825:por
+  label: Alterado o n.º 1 do art 2.º do DLR 4/2008/A, de 26-fev, na redacção do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 1/2019/A - Diário da República n.º 4/2019, Série I de 2019-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2019-117612825
+  date: '2019-01-07'
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Alterado, com efeitos a partir de 01.01.2020, o art. 2.º do complemento para aquisição de medicamentos, aprovado
+    pelo DLR 4/2008/A de 26-fev, na redação do presente diploma, pelo(a) Decreto Legislativo Regional n.º 1/2020/A - Diário
+    da República n.º 5/2020, Série I de 2020-01-08e nos termos do seu art. 84.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -223,16 +279,140 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/40/2003/11/06/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/40/2003/11/06/a/dre
+- type: cites
+  target: pt:dre:146559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
 article_structure:
-  article_count: 41
+  article_count: 40
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:47Z'
   warnings: []
   errors: []
 ---
@@ -589,7 +769,9 @@ Os artigos 9.º e 10.º do Regulamento do Concurso do Pessoal Docente da Educaç
 
 8- Nas situações em que não haja lugar a concurso interno e externo de provimento, ao concurso anual de contratação continua a aplicar-se a ordem de prioridades a que se refere o n.º 6 do presente artigo.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1- (...)
 
@@ -633,11 +815,11 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de janeiro 
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de março de 2013.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 9 de abril de 2013.**
+Assinado em Angra do Heroísmo em 9 de abril de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -645,55 +827,55 @@ MAPA I
 
 Receita da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
 
 MAPA II
 
 Despesas da Região especificadas segundo a classificação orgânica, por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
 
 MAPA III
 
 Despesas da Região especificadas segundo a classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
 
 MAPA IV
 
 Despesas da Região especificadas segundo a classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
 
 MAPA V
 
 Receitas Globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
 
 MAPA VI
 
 Receitas Globais dos fundos e serviços autónomos especificados segundo a classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
 
 MAPA VII
 
 Despesas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
 
 MAPA VIII
 
 Despesas globais dos fundos e serviços autónomos especificados segundo a classificação económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
 
 MAPA IX
 
 Despesas globais dos fundos e serviços autónomos especificados segundo a classificação funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
 
 MAPA X
 
@@ -701,10 +883,10 @@ Despesas de Investimento da Administração Pública Regional
 
 Resumo por departamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
 
 MAPA XI
 
 Responsabilidades contratuais plurianuais agrupadas por Departamento Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf))](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/04/07800/0242302452.pdf)

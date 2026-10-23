@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15400/12651270.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1978-298052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4f51a2d6e7bb7d417296c418815304cb299510494298e5b73df32edbbaf1616
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb41cde1bd4f2c71d3bbe2c502a5535a44cdc3542f275d177170c6189041bfbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Regional da Administração Escolar
+- Direcção Regional da Educação Física e Desporto
+- Direcção Regional da Orientação Pedagógica
+- Direcção Regional dos Assuntos Culturais
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- Secretaria Regional da Educação e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:376426:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381134:por
+  label: "Alterados os arts. 9.º a 12.º, aditado o art. 12.º-A e aditado um lugar no quadro de pessoal, pelo DRR.16/79/A.1979.05.25.GR-RAA\
+    \ DR.IS [144] DE 25/JUN/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1979-381134
+  date: '1979-05-25'
+- type: amended_by
+  target: pt:dre:364923:por
+  label: "Aditado um lugar ao quadro de pessoal, pelo DRR.22/79/A.1979.10.02.GR-RAA DR.IS [239] DE 16/OUT/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-1979-364923
+  date: '1979-10-02'
+- type: amended_by
+  target: pt:dre:394727:por
+  label: "Substituído o quadro de pessoal anexo ao presente diploma, pelo DRR.27/81/A.1981.04.09.GR-RAA, DR.IS [98] de 29/Abr/1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-1981-394727
+  date: '1981-04-09'
+- type: amended_by
+  target: pt:dre:354747:por
+  label: "Alterado pelo DRR.41/88/A.08.10.1988.GR-RAA, DR.IS [[233]] de 08.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/41-1988-354747
+  date: '1988-10-08'
+- type: cites
+  target: pt:dre:139950:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:299627:por
+  label: Rectificado pela DECL.DD7554.10.08.1978.PCM, DR.IS [183] de 10.08.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-299627
+  date: '1978-08-10'
+- type: repealed_by
+  target: pt:dre:376426:por
+  label: "Revogado pelo DRR.42/91/A.27.12.1991.GR-RAA, DR.IS-B [298] de 27.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/42-1991-376426
+  date: '1991-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:44Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +139,11 @@ O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º 
 
 ### CAPÍTULO I — Funções e organização da Secretaria Regional da Educação e Cultura
 
-###### Artigo 1.º A Secretaria Regional da Educação e Cultura (SREC) orienta e superintende em toda a acção a desenvolver nas áreas do ensino, acção social escolar, educação física e desportos e assuntos culturais.
+Artigo 1.º A Secretaria Regional da Educação e Cultura (SREC) orienta e superintende em toda a acção a desenvolver nas áreas do ensino, acção social escolar, educação física e desportos e assuntos culturais.
 
-###### Art. 2.º O Secretário Regional orienta superiormente toda a actividade da Secretaria Regional.
+Art. 2.º O Secretário Regional orienta superiormente toda a actividade da Secretaria Regional.
 
-###### Art. 3.º São atribuições da Secretaria Regional da Educação e Cultura:
+Art. 3.º São atribuições da Secretaria Regional da Educação e Cultura:
 
 a) Estudar e adaptar à Região a política educativa e cultural nacional, visando a sua execução, designadamente nos sectores do ensino, da educação física e desportos e dos assuntos culturais;
 
@@ -106,7 +151,7 @@ b) Superintender e fazer a gestão dos meios humanos e materiais para a efectiva
 
 c) Outras atribuições ou competências que lhe vierem a ser cometidas por lei.
 
-###### Art. 4.º - 1 - A Secretaria Regional da Educação e Cultura compreende:
+Art. 4.º - 1 - A Secretaria Regional da Educação e Cultura compreende:
 
 a) Órgãos e serviços centrais de concepção, coordenação, apoio e execução;
 
@@ -116,7 +161,7 @@ b) Órgãos e serviços externos.
 
 ### CAPÍTULO II — Órgãos e serviços centrais da Secretaria Regional
 
-###### Art. 5.º São os seguintes os órgãos e serviços centrais de concepção, coordenação, apoio e execução da Secretaria Regional da Educação e Cultura:
+Art. 5.º São os seguintes os órgãos e serviços centrais de concepção, coordenação, apoio e execução da Secretaria Regional da Educação e Cultura:
 
 a) Gabinete do Secretário Regional;
 
@@ -132,13 +177,13 @@ f) Repartição dos Serviços Administrativos.
 
 #### SECÇÃO I — Gabinete do Secretário Regional
 
-###### Art. 6.º O Gabinete do Secretário Regional tem a composição e as atribuições previstas na legislação em vigor.
+Art. 6.º O Gabinete do Secretário Regional tem a composição e as atribuições previstas na legislação em vigor.
 
-###### Art. 7.º O Secretário Regional poderá destacar da Repartição dos Serviços Administrativos até dois funcionários para prestarem apoio ao Gabinete.
+Art. 7.º O Secretário Regional poderá destacar da Repartição dos Serviços Administrativos até dois funcionários para prestarem apoio ao Gabinete.
 
 #### SECÇÃO II — Direcção Regional da Administração Escolar
 
-###### Art. 8.º A Direcção Regional da Administração Escolar exerce a superintendência administrativa e financeira sobre todos os departamentos e serviços externos dependentes da Secretaria Regional, competindo-lhe, em especial:
+Art. 8.º A Direcção Regional da Administração Escolar exerce a superintendência administrativa e financeira sobre todos os departamentos e serviços externos dependentes da Secretaria Regional, competindo-lhe, em especial:
 
 a) Superintender e coordenar a gestão administrativa e financeira dos estabelecimentos de ensino e órgãos e serviços dependentes da Secretaria Regional;
 
@@ -152,7 +197,7 @@ e) Proceder à recolha dos dados estatísticos relativos ao sistema de ensino;
 
 f) Superintender e coordenar os serviços de acção social escolar.
 
-###### Art. 9.º A Direcção Regional da Administração Escolar compreende os seguintes serviços:
+Art. 9.º A Direcção Regional da Administração Escolar compreende os seguintes serviços:
 
 a) Direcção de Serviços de Pessoal e de Coordenação Financeira;
 
@@ -160,7 +205,7 @@ b) Divisão do Equipamento Escolar;
 
 c) Divisão da Acção Social Escolar.
 
-###### Art. 10.º À Direcção de Serviços de Pessoal e de Coordenação Financeira compete, especificamente:
+Art. 10.º À Direcção de Serviços de Pessoal e de Coordenação Financeira compete, especificamente:
 
 a) Proceder à preparação e execução das operações ligadas à gestão de todo o pessoal docente, técnico, administrativo e auxiliar dos estabelecimentos de ensino;
 
@@ -170,7 +215,7 @@ c) Realizar em coordenação com os serviços centrais do MEC e a Secretaria Reg
 
 d) Coordenar e acompanhar a execução dos orçamentos dos estabelecimentos de ensino e dos departamentos e serviços dependentes da Secretaria Regional.
 
-###### Art. 11.º À Divisão do Equipamento Escolar compete, especialmente:
+Art. 11.º À Divisão do Equipamento Escolar compete, especialmente:
 
 a) Analisar as situações e participar nas operações que conduzam à actualização da rede escolar;
 
@@ -180,7 +225,7 @@ c) Inventariar as necessidades dos estabelecimentos de ensino quanto a mobiliár
 
 d) Proceder à recolha periódica dos dados estatísticos respeitantes ao sistema de ensino.
 
-###### Art. 12.º À Divisão da Acção Social Escolar incumbe, designadamente:
+Art. 12.º À Divisão da Acção Social Escolar incumbe, designadamente:
 
 a) Elaborar propostas orçamentais que assegurem o desenvolvimento da acção social escolar;
 
@@ -190,9 +235,9 @@ c) Promover acções no sentido da correcção das desigualdades sócio-económi
 
 #### SECÇÃO III — Direcção Regional da Orientação Pedagógica
 
-###### Art. 13.º À Direcção Regional da Orientação Pedagógica cabe superintender na orientação pedagógica dos ensinos pré-primário, primário, preparatório, secundário e médio da Região, velando pela qualidade e eficiência do ensino e promovendo a renovação dos respectivos métodos e técnicas.
+Art. 13.º À Direcção Regional da Orientação Pedagógica cabe superintender na orientação pedagógica dos ensinos pré-primário, primário, preparatório, secundário e médio da Região, velando pela qualidade e eficiência do ensino e promovendo a renovação dos respectivos métodos e técnicas.
 
-###### Art. 14.º Em relação às linhas de actuação referidas no artigo anterior, compete especialmente à Direcção Regional da Orientação Pedagógica:
+Art. 14.º Em relação às linhas de actuação referidas no artigo anterior, compete especialmente à Direcção Regional da Orientação Pedagógica:
 
 a) Introduzir e orientar as experiências pedagógicas julgadas convenientes, adoptando ou elaborando reformas ou aperfeiçoamentos que se mostrem necessários, tendo em vista atingir-se uma progressiva melhoria dos processos, técnicas e métodos de ensino;
 
@@ -208,7 +253,7 @@ f) Colaborar com a Direcção Regional da Administração Escolar nos estudos re
 
 g) Cooperar com a Direcção Regional da Educação Física e Desportos na promoção das actividades juvenis e desportivas.
 
-###### Art. 15.º A Direcção Regional da Orientação Pedagógica compreende os seguintes órgãos e serviços:
+Art. 15.º A Direcção Regional da Orientação Pedagógica compreende os seguintes órgãos e serviços:
 
 a) Conselho de Coordenação Pedagógica;
 
@@ -216,7 +261,7 @@ b) Direcção de Serviços dos Ensinos Pré-Primário e Primário;
 
 c) Direcção de Serviços dos Ensinos Preparatório e Secundário.
 
-###### Art. 16.º - 1 - O Conselho de Coordenação Pedagógica é um órgão consultivo que funciona na directa dependência do director regional e que será presidido por este.
+Art. 16.º - 1 - O Conselho de Coordenação Pedagógica é um órgão consultivo que funciona na directa dependência do director regional e que será presidido por este.
 
 2 - Compete ao Conselho de Coordenação Pedagógica coadjuvar o director regional na planificação e coordenação das respectivas actividades, estudando e dando parecer sobre as matérias em que for chamado a pronunciar-se.
 
@@ -224,7 +269,7 @@ c) Direcção de Serviços dos Ensinos Preparatório e Secundário.
 
 4 - Sempre que se mostrar necessário e conveniente, serão agregadas ao Conselho individualidades qualificadas nos assuntos a apreciar.
 
-###### Art. 17.º À Direcção de Serviços dos Ensinos Pré-Primário e Primário compete, especificamente:
+Art. 17.º À Direcção de Serviços dos Ensinos Pré-Primário e Primário compete, especificamente:
 
 a) Efectuar os estudos necessários ao lançamento e difusão da educação pré-escolar;
 
@@ -234,7 +279,7 @@ c) Estudar, em colaboração com o Conselho de Coordenação Pedagógica e com e
 
 d) Propor medidas de organização que visem atingir um melhor rendimento escolar.
 
-###### Art. 18.º À Direcção de Serviços dos Ensinos Preparatório e Secundário incumbe, designadamente:
+Art. 18.º À Direcção de Serviços dos Ensinos Preparatório e Secundário incumbe, designadamente:
 
 a) Promover, em coordenação com os serviços centrais do MEC, a realização de acções de reciclagem que contribuam para a formação contínua dos professores dos ensinos preparatório e secundário;
 
@@ -250,7 +295,7 @@ f) Coordenar e orientar todas as actividades respeitantes ao funcionamento do en
 
 #### SECÇÃO IV — Direcção Regional da Educação Física e Desportos
 
-###### Art. 19.º A Direcção Regional da Educação Física e Desportos é um órgão de concepção, coordenação, apoio e execução das actividades no âmbito da educação física e desportos, competindo-lhe, em especial:
+Art. 19.º A Direcção Regional da Educação Física e Desportos é um órgão de concepção, coordenação, apoio e execução das actividades no âmbito da educação física e desportos, competindo-lhe, em especial:
 
 a) Fomentar e dinamizar a prática da educação física e dos desportos;
 
@@ -266,13 +311,13 @@ f) Colaborar na formação de técnicos desportivos;
 
 g) Proceder à recolha, tratamento e divulgação de documentação, informações e dados estatísticos relacionados com a educação física e com os desportos.
 
-###### Art. 20.º A Direcção Regional da Educação Física e Desportos compreende os seguintes serviços:
+Art. 20.º A Direcção Regional da Educação Física e Desportos compreende os seguintes serviços:
 
 a) Divisão da Educação Física e Desportiva Escolar;
 
 b) Divisão dos Desportos.
 
-###### Art. 21.º À Divisão da Educação Física e Desportiva Escolar compete, designadamente:
+Art. 21.º À Divisão da Educação Física e Desportiva Escolar compete, designadamente:
 
 a) Superintender, em colaboração com a Direcção Regional da Orientação Pedagógica, na organização, programação e funcionamento da educação física e desportiva escolar;
 
@@ -282,7 +327,7 @@ c) Assegurar intercâmbio desportivo em que participem estabelecimentos de ensin
 
 d) Colaborar com o Instituto Universitário dos Açores na promoção de actividades desportivas universitárias.
 
-###### Art. 22.º À Divisão dos Desportos compete, designadamente:
+Art. 22.º À Divisão dos Desportos compete, designadamente:
 
 a) Promover o desenvolvimento dos desportos, difundindo as suas práticas;
 
@@ -292,9 +337,9 @@ c) Incentivar e apoiar as actividades gimnodesportivas dos organismos da Região
 
 #### SECÇÃO V — Direcção Regional dos Assuntos Culturais
 
-###### Art. 23.º A Direcção Regional dos Assuntos Culturais é um órgão da Secretaria Regional da Educação e Cultura ao qual cabe o fomento e protecção das letras e das artes e a promoção e apoio das actividades culturais em geral.
+Art. 23.º A Direcção Regional dos Assuntos Culturais é um órgão da Secretaria Regional da Educação e Cultura ao qual cabe o fomento e protecção das letras e das artes e a promoção e apoio das actividades culturais em geral.
 
-###### Art. 24.º Na prossecução das actividades definidas no artigo anterior, compete à Direcção Regional dos Assuntos Culturais:
+Art. 24.º Na prossecução das actividades definidas no artigo anterior, compete à Direcção Regional dos Assuntos Culturais:
 
 a) Superintender nos museus, bibliotecas e arquivos regionais e, nos termos da lei, nos das autarquias locais e das entidades subsidiadas pela Região;
 
@@ -308,7 +353,7 @@ e) Superintender e fiscalizar no sector dos espectáculos e divertimentos públi
 
 f) Superintender nos móveis e imóveis classificados, coordenando os trabalhos conducentes à sua protecção e valorização.
 
-###### Art. 25.º A Direcção Regional dos Assuntos Culturais compreende os seguintes órgãos e serviços:
+Art. 25.º A Direcção Regional dos Assuntos Culturais compreende os seguintes órgãos e serviços:
 
 a) Conselho Regional do Património Histórico e Artístico;
 
@@ -318,11 +363,11 @@ c) Serviços do Património Cultural;
 
 d) Serviços de Espectáculos.
 
-###### Art. 26.º A composição e atribuições do Conselho Regional do Património Histórico e Artístico serão definidas em diploma a publicar oportunamente.
+Art. 26.º A composição e atribuições do Conselho Regional do Património Histórico e Artístico serão definidas em diploma a publicar oportunamente.
 
-###### Art. 27.º A composição e atribuições do Conselho Técnico para os Espectáculos serão definidas em diploma a publicar oportunamente.
+Art. 27.º A composição e atribuições do Conselho Técnico para os Espectáculos serão definidas em diploma a publicar oportunamente.
 
-###### Art. 28.º À Direcção Regional dos Assuntos Culturais no sector do património cultural compete, designadamente:
+Art. 28.º À Direcção Regional dos Assuntos Culturais no sector do património cultural compete, designadamente:
 
 a) Superintender nos museus, bibliotecas e arquivos regionais e, nos termos da lei, nos das autarquias locais e das entidades subsidiadas pela Região;
 
@@ -354,7 +399,7 @@ o) Promover a suspensão, nos termos da lei, de quaisquer trabalhos não autoriz
 
 p) Proceder à recolha, tratamento e divulgação de documentação, informações e dados estatísticos relacionados com os assuntos culturais.
 
-###### Art. 29.º À Direcção Regional dos Assuntos Culturais compete, no sector dos espectáculos:
+Art. 29.º À Direcção Regional dos Assuntos Culturais compete, no sector dos espectáculos:
 
 a) Registar os projectos de construção, reconstrução, alteração e adaptação dos recintos;
 
@@ -368,7 +413,7 @@ e) Coordenar a actividade das delegações concelhias relativamente às competê
 
 #### SECÇÃO VI — Repartição dos Serviços Administrativos
 
-###### Art. 30.º A Repartição dos Serviços Administrativos é o órgão de execução de todas as tarefas de interesse comum dos serviços centrais da Secretaria Regional, competindo-lhe especialmente:
+Art. 30.º A Repartição dos Serviços Administrativos é o órgão de execução de todas as tarefas de interesse comum dos serviços centrais da Secretaria Regional, competindo-lhe especialmente:
 
 a) Executar o serviço de expediente geral e prestar aos órgãos e serviços da Secretaria Regional o apoio administrativo que lhe for determinado pelo Secretário Regional;
 
@@ -380,11 +425,11 @@ d) Assegurar o serviço de economato e zelar pela conservação das instalaçõe
 
 ### CAPÍTULO III — Órgãos e serviços externos
 
-###### Art. 31.º A organização, funcionamento e competência dos serviços externos será definida em diplomas a publicar oportunamente.
+Art. 31.º A organização, funcionamento e competência dos serviços externos será definida em diplomas a publicar oportunamente.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 32.º - 1 - O pessoal da Secretaria Regional da Educação e Cultura será agrupado de acordo com a seguinte classificação:
+Art. 32.º - 1 - O pessoal da Secretaria Regional da Educação e Cultura será agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -396,15 +441,15 @@ d) Pessoal auxiliar.
 
 2 - O pessoal da Secretaria Regional é o constante do quadro anexo ao presente diploma.
 
-###### Art. 33.º Secretário Regional poderá autorizar a admissão de pessoal além do quadro, com carácter eventual e de harmonia com o legalmente estabelecido, sempre que as necessidades de serviço o justifiquem.
+Art. 33.º Secretário Regional poderá autorizar a admissão de pessoal além do quadro, com carácter eventual e de harmonia com o legalmente estabelecido, sempre que as necessidades de serviço o justifiquem.
 
-###### Art. 34.º O pessoal da Secretaria Regional constitui um quadro único, sendo da competência do Secretário Regional o seu provimento e a sua colocação de acordo com as suas aptidões e a conveniência dos serviços.
+Art. 34.º O pessoal da Secretaria Regional constitui um quadro único, sendo da competência do Secretário Regional o seu provimento e a sua colocação de acordo com as suas aptidões e a conveniência dos serviços.
 
-###### Art. 35.º As condições de provimento do pessoal do quadro da Secretaria Regional serão, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar e, até lá, regular-se-ão pela legislação regional e geral em vigor.
+Art. 35.º As condições de provimento do pessoal do quadro da Secretaria Regional serão, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar e, até lá, regular-se-ão pela legislação regional e geral em vigor.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 36.º - 1 - Incumbe à Secretaria Regional da Educação e Cultura coordenar a organização e o funcionamento do Instituto Universitário dos Açores em tudo quanto diga respeito à necessária e adequada integração do ensino, investigação científica, extensão cultural e serviços à comunidade nos planos de actuação do Governo Regional dos Açores, sem prejuízo quer da autonomia universitária, quer da competência específica do Ministério da Educação e Cultura.
+Art. 36.º - 1 - Incumbe à Secretaria Regional da Educação e Cultura coordenar a organização e o funcionamento do Instituto Universitário dos Açores em tudo quanto diga respeito à necessária e adequada integração do ensino, investigação científica, extensão cultural e serviços à comunidade nos planos de actuação do Governo Regional dos Açores, sem prejuízo quer da autonomia universitária, quer da competência específica do Ministério da Educação e Cultura.
 
 2 - Nas relações que neste sentido se estabelecerem, o Governo Regional será representado pelo Secretário Regional da Educação e Cultura e o Instituto Universitário dos Açores pelo reitor.
 
@@ -412,22 +457,22 @@ d) Pessoal auxiliar.
 
 4 - As relações entre as outras Secretarias Regionais e o Instituto Universitário dos Açores serão veiculadas e coordenadas pela Secretaria Regional da Educação e Cultura, sem prejuízo de contactos directos quando as circunstâncias o aconselharem.
 
-###### Art. 37.º O exercício da função inspectiva, na Região, será assegurado pelos serviços centrais do MEC, em coordenação com a Secretaria Regional da Educação e Cultura.
+Art. 37.º O exercício da função inspectiva, na Região, será assegurado pelos serviços centrais do MEC, em coordenação com a Secretaria Regional da Educação e Cultura.
 
-###### Art. 38.º As actividades relacionadas com acções de alfabetização e com a promoção cultural, artística e desportiva dos jovens e adultos serão promovidas e coordenadas, na Região, pelos departamentos adequados da Secretaria Regional da Educação e Cultura.
+Art. 38.º As actividades relacionadas com acções de alfabetização e com a promoção cultural, artística e desportiva dos jovens e adultos serão promovidas e coordenadas, na Região, pelos departamentos adequados da Secretaria Regional da Educação e Cultura.
 
-###### Art. 39.º É revogado o [Decreto Regulamentar Regional n.º 14/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1977-139950), de 16 de Abril.
+Art. 39.º É revogado o [Decreto Regulamentar Regional n.º 14/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1977-139950), de 16 de Abril.
 
 Aprovado em Plenário do Governo Regional, em 16 de Maio de 1978.
 
-**O Presidente do Governo Regional, João Bosco Soares Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Soares Mota Amaral.
 
-**Assinado em 12 de Junho de 1978.**
+Assinado em 12 de Junho de 1978.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 Quadro e vencimentos do pessoal a que se refere o artigo 38.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/07/15400/12651270.pdf))](https://files.diariodarepublica.pt/1s/1978/07/15400/12651270.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/15400/12651270.pdf)
 
-**O Presidente do Governo Regional, João Bosco Soares Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Soares Mota Amaral.

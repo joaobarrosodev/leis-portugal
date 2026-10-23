@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2010/05/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2010-332706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a236d28aed4e9ed2af15bfeeadb25749e4b8ea329247df4db1dcfbbed9fa0b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5545e7fddec8c59d5e688384febb7fa371c2cfaec012a45315db6180ab7d58f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
 - Definição de Competências
 - Federação de Bombeiros
 - Formas de Provimento
+- Inspecção Regional de Bombeiros
+- Madeira.região Autónoma
 - Orgânica
 - Presidente
-- Madeira.região Autónoma
+- Proteção Civil
 - Serviço Regional de Protecção Civil
-- Inspecção Regional de Bombeiros
 - Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:259386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:259386:por
+  label: "Alterados os arts. 5º, 6º, 8º e 10º da orgânica do Serviço Regional de Proteção Civil aprovada em anexo ao DLR 17/2009/M,\
+    \ de 30-jun, na redação do presente diploma, pelo DLR.12/2013/M.25.03.2013.AL-RAM, DR.IS [59] de 25.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2013-259386
+  date: '2013-03-25'
 - type: cites
   target: 'eli:http:'
   label: null
@@ -124,16 +130,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:21Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +238,9 @@ e) ...
 
 f) ...
 
-###### Artigo 6.º — Presidente e vice-presidente
+Artigo 6.º
+
+Presidente e vice-presidente
 
 1 - O SRPC, IP-RAM é dirigido por um presidente, coadjuvado por um vice-presidente, nos termos da alínea b) do n.º 1 do artigo 17.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro.
 
@@ -218,7 +282,9 @@ l) ...
 
 9 - O presidente do SRPC, IP-RAM exerce as funções de comandante operacional regional em regime de acumulação não remunerado, por manifesto interesse público, nos termos do n.º 1 do artigo 27.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.
 
-###### Artigo 8.º — Inspecção Regional de Bombeiros
+Artigo 8.º
+
+Inspecção Regional de Bombeiros
 
 1 - ...
 
@@ -250,7 +316,9 @@ l) ...
 
 m) ...
 
-###### Artigo 9.º — Competências do inspector
+Artigo 9.º
+
+Competências do inspector
 
 1 - O IRB, quando no exercício de funções de inspecção e fiscalização, goza dos seguintes poderes de autoridade:
 
@@ -266,7 +334,9 @@ e) ...
 
 2 - O IRB é identificado mediante a apresentação de cartão próprio, de modelo a aprovar por despacho do Secretário Regional dos Assuntos Sociais.
 
-###### Artigo 10.º — Conselho consultivo
+Artigo 10.º
+
+Conselho consultivo
 
 1 - ...
 
@@ -320,11 +390,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 29 de Abril de 2010.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 18 de Maio de 2010.**
+Assinado em 18 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 

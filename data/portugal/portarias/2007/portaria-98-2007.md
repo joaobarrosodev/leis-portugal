@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/98/2007/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-2007-522633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1e8a7d1b47f1040092e5d22de40d3541acf0ec0969d317b3ba0ba495df6fdae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2cbe2f0a02836e4e67eafbb61e69c5def48e6d06b550b349b11122b53fed18e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,24 @@ relationships:
   target: pt:dre:440789:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642031:por
+  label: "Excluídos vários prédios rústicos com a área de 8 ha da zona de caça criada pela presente portaria, pela PORT.1241/2007.25.09.2007.MADRP,\
+    \ DR.IS [185] de 25.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1241-2007-642031
+  date: '2007-09-25'
+- type: amended_by
+  target: pt:dre:455158:por
+  label: "Excluídos vários prédios rústicos da zona de caça atribuída pelo presente diploma, alterado pela Port 1241/2007,\
+    \ de 25-Set, pela PORT.818/2008.08.08.2008.MADRP, DR.IS [153] de 08.08.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/818-2008-455158
+  date: '2008-08-08'
+- type: amended_by
+  target: pt:dre:440789:por
+  label: "Extinta a zona de caça municipal do Cerro do Guelhim, concessionada pelo presente diploma, alterada pelas Ports\
+    \ 1241/2007 de 25-Set e 818/2008 de 08-Ago, pela PORT.1397/2008.03.12.2008.MADRP, DR.IS [234] de 03.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1397-2008-440789
+  date: '2008-12-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -82,16 +100,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:07Z'
   warnings: []
   errors: []
 ---
@@ -126,4 +152,4 @@ d) 10% aos demais caçadores, conforme é referido na alínea d) do citado artig
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 5 de Janeiro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01500/05900590.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01500/05900590.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01500/05900590.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1992/02/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1992-157999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84d31a215c8308f988b523ab82948e8ff5f8bed7fff66ad6c30e60fc0f65503e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f648ad79725828bdcff931ae2ddd31dc57094610585e118e760ae9d2f21c9914
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alvará
 - Construção Civil
 - Empreitada de Obras Públicas
 - Empreiteiro de Obras Públicas
-- Açores
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:285742:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:15Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +104,16 @@ Neste contexto, e pelas razões apontadas, a isenção de alvará possibilitará
 
 Assim, a Assembleia Legislativa Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Na Região Autónoma dos Açores poderão ser executadas, independentemente das autorizações exigidas no artigo 3.º do [Decreto-Lei n.º 100/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1988-285742), de 23 de Março, as obras particulares a que se referem os artigos 31.º e 32.º do mesmo diploma, em todas as subcategorias, desde que o respectivo valor não ultrapasse o limite da classe 1.ª de industriais de construção civil.
+Artigo 1.º Na Região Autónoma dos Açores poderão ser executadas, independentemente das autorizações exigidas no artigo 3.º do [Decreto-Lei n.º 100/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1988-285742), de 23 de Março, as obras particulares a que se referem os artigos 31.º e 32.º do mesmo diploma, em todas as subcategorias, desde que o respectivo valor não ultrapasse o limite da classe 1.ª de industriais de construção civil.
 
-###### Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 6 de Dezembro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 15 de Janeiro de 1992.**
+Assinado em Angra do Heroísmo em 15 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22600/0001600026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2024/11/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2024-897402276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 651cace178e9f56e40bc9e3cde92af599f8f816b104ef9d8503b2179130ea82b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4c48aeaa50d968db09dbcdb83268b4a9953d4daf679fda5235c38c90e8ca0ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Matadouro
-- Região Autónoma
-- Carreira Profissional
 - Abate de Animais
-- Pessoal de Matadouros Públicos
-- Serviço Público
 - Açores
+- Carreira Profissional
+- Matadouro
+- Pessoal de Matadouros Públicos
+- Região Autónoma
+- Serviço Público
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/2024/06/24/a/dre
@@ -98,16 +98,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1553-c/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1553-c/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:144454582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869798290:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:08Z'
   warnings: []
   errors: []
 ---
@@ -166,7 +186,7 @@ g) Técnico especialista de manutenção.
 
 2 - A caracterização das categorias referidas no número anterior faz-se em função do número de posições e níveis remuneratórios que consta do anexo ao presente diploma, do qual faz parte integrante.
 
-3 - A carreira especial referida nos números anteriores obedece ao disposto nos n.<sup>os</sup>1, 3 e 4 do artigo 84.º e artigos 85.º e 86.º da Lei Geral de Trabalho em Funções Públicas (LTFP), aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, e apresenta mais do que um grau de complexidade funcional.
+3 - A carreira especial referida nos números anteriores obedece ao disposto nos n.os1, 3 e 4 do artigo 84.º e artigos 85.º e 86.º da Lei Geral de Trabalho em Funções Públicas (LTFP), aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, e apresenta mais do que um grau de complexidade funcional.
 
 ###### Artigo 4.º — Complexidade funcional
 
@@ -462,11 +482,11 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação e 
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de outubro de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 18 de novembro de 2024.**
+Assinado em Angra do Heroísmo em 18 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -478,7 +498,7 @@ Carreira dos trabalhadores dos matadouros da Região Autónoma dos Açores
 
 Carreira especial pluricategorial
 
-| Categoria | Grau de complexidade funcional | Posições remuneratórias | Níveis remuneratórios |
+| Categoria | Grau de complexidade<br>funcional | Posições<br>remuneratórias | Níveis remuneratórios |
 | --- | --- | --- | --- |
 | Encarregado geral de matadouro | 1 | 1.ª | 14 |
 |  |  | 2.ª | 15 |
@@ -513,7 +533,7 @@ Carreira especial pluricategorial
 |  |  | 7.ª | 17 |
 |  |  | 8.ª | 18 |
 | Técnico especialista de qualidade e técnico especialista de manutenção | 3 | 1.ª | 16 |
-| Técnico especialista de qualidade e técnico especialista de manutenção |  | 2.ª | 21 |
+|  | 2.ª | 21 |  |
 |  |  | 3.ª | 26 |
 |  |  | 4.ª | 30 |
 |  |  | 5.ª | 34 |
@@ -522,3 +542,5 @@ Carreira especial pluricategorial
 |  |  | 8.ª | 40 |
 
 (a) Portaria n.º 1553-C/2008, de 31 de dezembro, na sua redação atual, que aprova a tabela remuneratória única dos trabalhadores que exercem funções públicas.
+
+118366179

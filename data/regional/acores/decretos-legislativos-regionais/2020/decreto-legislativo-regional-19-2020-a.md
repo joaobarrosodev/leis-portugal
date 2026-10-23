@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14800/0002900036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2020/07/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2020-139209033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f92b3adec3dd41089f088032ca678950d7543a9e58ea080405f72b51171e42df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d8c0d72e065e5cc0d803eb3b45209b31e077ae8dae7c67385330a515aca1a3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Arquivo Nacional da Torre do Tombo
-- Governo Regional
+- Biblioteca Nacional
 - Depósito Legal
 - Diário da República
-- Formulário dos Diplomas
-- Biblioteca Nacional
-- Jornal Oficial
-- Publicitação
-- Publicação Electrónica
 - Diploma Legal
-- Açores
+- Formulário dos Diplomas
+- Governo Regional
+- Jornal Oficial
+- Publicação Electrónica
+- Publicitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/2007/06/25/a/dre
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:141453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635872:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
+  article_count: 29
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:36Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +146,9 @@ Os artigos 19.º e 20.º do [Decreto Legislativo Regional n.º 25/2003/A](https:
 
 A Região assegura o envio, em formato eletrónico, para a Biblioteca Nacional, para a Torre do Tombo, bem como para os Arquivos Regionais de Angra do Heroísmo, Horta e Ponta Delgada, das duas séries do Jornal Oficial.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 O Jornal Oficial edita-se aos dias úteis de segunda-feira a sexta-feira, inclusive, sem prejuízo da possibilidade de edição aos sábados, domingos e feriados, em casos excecionais devidamente justificados, mediante despacho do membro do Governo Regional com competência em matéria de Jornal Oficial.»
 
@@ -148,11 +166,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de junho de 2020.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 27 de julho de 2020.**
+Assinado em Angra do Heroísmo em 27 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -417,3 +435,5 @@ b) Designação da série, número do Jornal, dia da semana, dia, mês e ano.
 ###### Artigo 25.º — Taxas
 
 (Revogado.)
+
+113441231

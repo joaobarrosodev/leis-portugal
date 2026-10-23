@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1980-470857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4453aefbbf74cdd773407e74c4ad804a53c94ff6a9e6e019f8cc7af1a2ce13a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67a8d48dd684413284e08669ed7a970a3f4458f5ffb87e4f6292231ab3b27ac6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Empresa de Electricidade dos Açores
+- Empresa Pública Regional
+- Energia Elétrica
 relationships:
 - type: amended_by
   target: pt:dre:407287:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:30997647:por
+  label: "Prorrogado o prazo, pela RES.61/80.15.07.1980.PG-RAA, JOA-IS [24] de 15.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/61-1980-30997647
+  date: '1980-07-15'
+- type: amended_by
+  target: pt:dre:31002181:por
+  label: "Adiada a integração do património da E.I.E. na EDA-E.P. pevista no presente diploma pelo DN.96/81.20.10.1981.SRCI-RAA,\
+    \ JOA-IS [39] de 20.10.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/96-1981-31002181
+  date: '1981-10-20'
+- type: corrected_by
+  target: pt:dre:462438:por
+  label: Rectificado pela DECL.DD6823.20.10.1980.PCM, DR.IS [243] de 20.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-462438
+  date: '1980-10-20'
+- type: repealed_by
+  target: pt:dre:407287:por
+  label: "Revogado o artigo 3.º pelo DLR.15/96/A.01.08.1996.ALR-RAA, DR.IS-A [177] de 01.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-1996-407287
+  date: '1996-08-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:08Z'
   warnings: []
   errors: []
 ---
@@ -111,17 +136,17 @@ Não se afigura possível que as câmaras municipais, que são as actuais entida
 
 Nestes termos, e usando da competência que lhe confere a alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Regional dos Açores decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Governo Regional dos Açores promoverá a constituição de uma empresa pública regional com a designação de Empresa de Electricidade dos Açores (EDA), tendo por objecto o estabelecimento e a exploração do serviço público de produção, transporte e distribuição de energia eléctrica no arquipélago dos Açores, em ordem à promoção e satisfação das exigências do desenvolvimento económico e social das populações de todas as parcelas da Região.
+Artigo 1.º - 1 - O Governo Regional dos Açores promoverá a constituição de uma empresa pública regional com a designação de Empresa de Electricidade dos Açores (EDA), tendo por objecto o estabelecimento e a exploração do serviço público de produção, transporte e distribuição de energia eléctrica no arquipélago dos Açores, em ordem à promoção e satisfação das exigências do desenvolvimento económico e social das populações de todas as parcelas da Região.
 
 2 - O estabelecimento e a exploração da rede de iluminação pública ficarão a cargo da empresa, em condições a definir nos contratos de concessão.
 
-###### Art. 2.º - 1 - Participarão na empresa, nos termos fixados no presente diploma, a Empresa Insular de Electricidade, as federações de municípios, os serviços municipalizados e as autarquias locais que actualmente se ocupam directamente do serviço público de electricidade na Região, através da entrada dos respectivos patrimónios afectos à exploração daqueles serviços.
+Art. 2.º - 1 - Participarão na empresa, nos termos fixados no presente diploma, a Empresa Insular de Electricidade, as federações de municípios, os serviços municipalizados e as autarquias locais que actualmente se ocupam directamente do serviço público de electricidade na Região, através da entrada dos respectivos patrimónios afectos à exploração daqueles serviços.
 
 2 - A participação referida no número anterior, no que toca às federações de municípios, às autarquias e aos serviços municipalizados, far-se-á mediante solicitação, conforme os casos, daquelas federações ou das próprias autarquias.
 
-###### Art. 3.º O serviço público cometido à empresa será explorado em regime de exclusivo, por tempo indeterminado.
+Art. 3.º O serviço público cometido à empresa será explorado em regime de exclusivo, por tempo indeterminado.
 
-###### Art. 4.º O património inicial da empresa é formado:
+Art. 4.º O património inicial da empresa é formado:
 
 a) Pelo património da Empresa Insular de Electricidade, após o saneamento financeiro desta;
 
@@ -129,11 +154,11 @@ b) Pelo património da Região afecto ao serviço público de electricidade;
 
 c) Pelas restantes instalações e serviços de produção e distribuição de energia eléctrica actualmente explorados pelas autarquias locais, directamente ou por intermédio de serviços municipalizados ou de federações de municípios.
 
-###### Art. 5.º A empresa assumirá todos os direitos e obrigações derivados de actos e contratos nos precisos termos em que se encontram celebrados pela Empresa insular de Electricidade e pelas autarquias locais, serviços municipalizados e federações de municípios que actualmente têm a seu cargo o estabelecimento e exploração do serviço público de electricidade nas diferentes parcelas da Região e que interessam à continuidade das respectivas explorações.
+Art. 5.º A empresa assumirá todos os direitos e obrigações derivados de actos e contratos nos precisos termos em que se encontram celebrados pela Empresa insular de Electricidade e pelas autarquias locais, serviços municipalizados e federações de municípios que actualmente têm a seu cargo o estabelecimento e exploração do serviço público de electricidade nas diferentes parcelas da Região e que interessam à continuidade das respectivas explorações.
 
-###### Art. 6.º O Governo Regional garantirá o equilíbrio económico-financeiro da empresa em moldes a definir em contrato-programa, que estabelecerá, por um período determinado, os objectivos a atingir pela empresa, os meios a utilizar e as facilidades a conceder pelo Governo para tal fim.
+Art. 6.º O Governo Regional garantirá o equilíbrio económico-financeiro da empresa em moldes a definir em contrato-programa, que estabelecerá, por um período determinado, os objectivos a atingir pela empresa, os meios a utilizar e as facilidades a conceder pelo Governo para tal fim.
 
-###### Art. 7.º São órgãos da empresa:
+Art. 7.º São órgãos da empresa:
 
 a) O conselho geral;
 
@@ -141,13 +166,13 @@ b) O conselho de gerência;
 
 c) A comissão de fiscalização.
 
-###### Art. 8.º - 1 - A composição, competência e funcionamento dos órgãos indicados no artigo anterior são os previstos na parte aplicável da lei geral, com as necessárias adaptações.
+Art. 8.º - 1 - A composição, competência e funcionamento dos órgãos indicados no artigo anterior são os previstos na parte aplicável da lei geral, com as necessárias adaptações.
 
 2 - O conselho geral deverá contar na sua composição com representantes das autarquias locais, pelo menos um por ilha.
 
-###### Art. 9.º A empresa disporá de serviços centrais e de serviços periféricos.
+Art. 9.º A empresa disporá de serviços centrais e de serviços periféricos.
 
-###### Art. 10.º Competem aos serviços centrais, entre outras, as seguintes atribuições:
+Art. 10.º Competem aos serviços centrais, entre outras, as seguintes atribuições:
 
 a) Planeamento energético e planificação da rede;
 
@@ -173,7 +198,7 @@ l) Processamento de vencimentos;
 
 m) Contencioso.
 
-###### Art. 11.º O serviço periférico de cada ilha disporá de orçamento próprio, será gerido por um delegado do conselho de gerência e terá, entre outras, as seguintes atribuições:
+Art. 11.º O serviço periférico de cada ilha disporá de orçamento próprio, será gerido por um delegado do conselho de gerência e terá, entre outras, as seguintes atribuições:
 
 a) Construção e conservação de postes de transformação e redes de baixa tensão;
 
@@ -195,16 +220,16 @@ i) Proposta de orçamento;
 
 j) Tesouraria e contabilidade.
 
-###### Art. 12.º Serão integrados nos quadros da nova empresa todos os trabalhadores afectos aos serviços e instalações transferidos, independentemente de quaisquer formalidades, os quais manterão os direitos adquiridos até à data da referida integração, com a garantia de não serem compulsivamente obrigados a mudar da ilha onde trabalham.
+Art. 12.º Serão integrados nos quadros da nova empresa todos os trabalhadores afectos aos serviços e instalações transferidos, independentemente de quaisquer formalidades, os quais manterão os direitos adquiridos até à data da referida integração, com a garantia de não serem compulsivamente obrigados a mudar da ilha onde trabalham.
 
-###### Art. 13.º A empresa promoverá a elaboração de um estatuto unificado do pessoal, que não colidirá com os direitos adquiridos por qualquer trabalhador, nos termos do artigo anterior.
+Art. 13.º A empresa promoverá a elaboração de um estatuto unificado do pessoal, que não colidirá com os direitos adquiridos por qualquer trabalhador, nos termos do artigo anterior.
 
 Aprovado pela Assembleia Regional dos Açores em 20 de Junho de 1980.
 
-**O Presidente de Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente de Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 21 de Julho de 1980.**
+Assinado em Angra do Heroísmo em 21 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

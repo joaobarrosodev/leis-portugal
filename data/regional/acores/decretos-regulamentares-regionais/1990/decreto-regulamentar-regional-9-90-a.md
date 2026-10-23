@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/05700/11061117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,161 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 881f7645c837a40395bff633624a11a5c42aa5b2d2c7f36e5b524711ebba2162
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f09c8815c67e5a961f2ea6b4f1b831a6b89847f8bc7baeb3d3a02c3781785da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Central Leiteira de são Miguel
+- Definição de Competências
+- Extinção de Serviços
+- Gabinete de Geociências
+- Gestão de Recursos Humanos
+- Governo Regional
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional da Economia
+- Tutela
 relationships:
 - type: amended_by
   target: pt:dre:146209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:466842:por
+  label: "Alterado o n.º 1 do artigo 3.º, os artigos 8.º, 13.º, 14.º, os n.ºs 5 e 8 do artigo 56.º, os n.ºs 3 a 6 do artigo\
+    \ 58.º, o artigo 59.º, o mapa anexo e revogados os artigos 19.º e 20.º, sendo os artigos 21.º a 24.º integrados na subsecção\
+    \ II e suprimida a subsecção III, passando as subsecções IV, V e VI a, respectivamente, subsecções III, IV e V da secção\
+    \ II do capítulo II, pelo DRR.8/91/A.04.03.1991.GR-RAA, DR.IS-B [52] de 04.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1991-466842
+  date: '1991-03-04'
+- type: amended_by
+  target: pt:dre:616671:por
+  label: "Alterados os artigos 5.º, 6.º, 28.º, 40.º, 41.º, 53.º, 56.º, 57.º, 59.º e o mapa anexo, aditado o artigo 55.º-A,\
+    \ prorrogado por mais um ano, o prazo estabelecido no n.º 6 do artigo 56.º e revogados os artigos 42.º e 44.º, na redacção\
+    \ do Decreto Regulamentar Regional n.º 8/91/A, de 4 de Março, pelo DRR.49/92/A.16.12.1992.GR-RAA, DR.IS-B [289] de 16.12.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/49-1992-616671
+  date: '1992-12-16'
+- type: amended_by
+  target: pt:dre:637905:por
+  label: "Extinta a Direcção Regional do Comércio e a Direcção Regional da Indústria e Energia, constante da orgânica aprovada\
+    \ no presente diploma, na redacção do Decreto Regulamentar Regional n.º 8/91/A, de 4 de Março, pelo DRR.6/93/A.20.03.1993.GR-RAA,\
+    \ DR.IS-B [67] de 20.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1993-637905
+  date: '1993-03-20'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666126:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:182456:por
+  label: Rectificado [relativamente ao nº 3 do art. 37º, ao nº 5 do art. 56º e ao quadro anexo] pela DECL.DD3355.1990.03.09.PCM
+    DR.IS [99]2ºSupl de 30.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-182456
+  date: '1990-03-09'
+- type: repealed_by
+  target: pt:dre:165635:por
+  label: "Revogado pelo DRR.8/95/A.21.03.1995.GR-RAA, DR.IS-B [68] de 21.03.1995, bem como os diplomas subsequentes, na parte\
+    \ em que colidam com o citado diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1995-165635
+  date: '1995-03-21'
+- type: repealed_by
+  target: pt:dre:522377:por
+  label: "Revogado o art. 57º, pelo DRR.17/98/A.1998.04.13.SRE-RAA DR.IS-B [112] de 15/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1998-522377
+  date: '1998-04-13'
+- type: repealed_by
+  target: pt:dre:146209:por
+  label: "Revogado pelo DRR.23/2011/A.21.11.2011.PG-RAA, DR.IS [223] de 21.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2011-146209
+  date: '2011-11-21'
 article_structure:
-  article_count: 62
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 63
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:45Z'
   warnings: []
   errors: []
 ---
@@ -256,7 +377,9 @@ c) Acompanhar a evolução dos circuitos e infra-estruturas comerciais e propor 
 
 d) Analisar a informação recolhida sobre preços no mercado regional e propor medidas de política no sector.
 
-###### Artigo 10.º — Divisão do Licenciamento Comercial
+###### Artigo 10.º
+
+##### Divisão do Licenciamento Comercial
 
 À DLC compete, designadamente:
 
@@ -266,7 +389,9 @@ b) Organizar e manter actualizado o inventário dos estabelecimentos e comercian
 
 c) Colaborar na fiscalização dos operadores e estabelecimentos comerciais que não satisfaçam as normas em vigor para o sector.
 
-###### Artigo 11.º — Divisão da Concorrência e Preços
+###### Artigo 11.º
+
+##### Divisão da Concorrência e Preços
 
 À DCP compete, designadamente:
 
@@ -278,7 +403,9 @@ c) Analisar e assegurar a execução de projectos de investimento na área do co
 
 d) Colaborar com o Serviço Regional de Estatística dos Açores na elaboração e actualização de estatísticas relativamente a preços de bens e serviços no mercado regional.
 
-###### Artigo 12.º — Divisão de Estudos e Planeamento Comercial
+###### Artigo 12.º
+
+##### Divisão de Estudos e Planeamento Comercial
 
 À DEPC compete, designadamente:
 
@@ -336,7 +463,9 @@ f) Assegurar a elaboração de normas e especificações técnicas relativas à 
 
 g) Propor as acções necessárias à implementação das normas de qualidade e controlo metrológico.
 
-###### Artigo 16.º — Divisão da Administração Industrial
+###### Artigo 16.º
+
+##### Divisão da Administração Industrial
 
 À DAI compete, designadamente:
 
@@ -352,7 +481,9 @@ e) Promover a concessão, licenciamento e fiscalização dos recursos geológico
 
 f) Promover a recolha de dados e assegurar a divulgação de toda a informação de interesse para o sector.
 
-###### Artigo 17.º — Divisão de Qualidade
+###### Artigo 17.º
+
+##### Divisão de Qualidade
 
 À DQ compete, designadamente:
 
@@ -364,7 +495,9 @@ c) Fiscalizar o cumprimento das normas de qualidade e controlo metrológico, inc
 
 d) Propor medidas tendentes à melhoria das condições de laboração, de processos de fabrico e de qualidade dos produtos industriais.
 
-###### Artigo 18.º — Divisão de Estudos e Planeamento Industrial
+###### Artigo 18.º
+
+##### Divisão de Estudos e Planeamento Industrial
 
 À DEPI compete, designadamente:
 
@@ -426,7 +559,9 @@ b) Promover a elaboração de regulamentação que se mostre necessária para o 
 
 c) Assegurar a fiscalização das instalações e equipamentos de produção, armazenagem, transporte e utilização de produtos energéticos, actuando contra os que não satisfaçam a legislação aplicável.
 
-###### Artigo 22.º — Divisão de Electricidade
+###### Artigo 22.º
+
+##### Divisão de Electricidade
 
 À DE compete, designadamente:
 
@@ -446,7 +581,9 @@ g) Controlar o cumprimento das obrigações a que se encontram sujeitos os conce
 
 h) Apreciar e informar as consultas e reclamações relativas a instalações eléctricas.
 
-###### Artigo 23.º — Divisão de Combustíveis
+###### Artigo 23.º
+
+##### Divisão de Combustíveis
 
 À DC compete, designadamente:
 
@@ -462,7 +599,9 @@ e) Controlar a qualidade das matérias-primas e dos produtos destinados ao consu
 
 f) Instruir os processos relativos a técnicos e entidades responsáveis.
 
-###### Artigo 24.º — Divisão de Estudos e Planeamento Energético
+###### Artigo 24.º
+
+##### Divisão de Estudos e Planeamento Energético
 
 À DEPE compete, designadamente:
 
@@ -578,7 +717,9 @@ c) Assegurar a fiscalização da exploração de embarcações que operem na Reg
 
 d) Efectuar a actualização do cadastro de proprietários, armadores, afretadores, bem como dos agentes de navegação sediados na Região.
 
-###### Artigo 30.º — Divisão de Exploração
+###### Artigo 30.º
+
+##### Divisão de Exploração
 
 À DE compete, designadamente:
 
@@ -590,7 +731,9 @@ c) Realizar ou colaborar na elaboração de pareceres técnicos sobre a explora�
 
 d) Colaborar na preparação dos processos de concessão de exploração e tráfego portuários.
 
-###### Artigo 31.º — Divisão de Acompanhamento de Obras
+###### Artigo 31.º
+
+##### Divisão de Acompanhamento de Obras
 
 À DAO compete, designadamente:
 
@@ -614,7 +757,9 @@ c) Promover o desenvolvimento de sistemas e o planeamento de infra-estruturas ae
 
 d) Prestar apoio técnico e assistência a aeronaves, tripulantes e passageiros, quando necessário.
 
-###### Artigo 33.º — Divisão de Estudos e Planeamento de Transportes
+###### Artigo 33.º
+
+##### Divisão de Estudos e Planeamento de Transportes
 
 À DEPT compete, designadamente:
 
@@ -792,7 +937,9 @@ O fiel de armazém, o perador de reprografia e os serventes são recrutados de e
 
 As competências previstas nos diplomas regulamentares das carreiras específicas referidas nos artigos anteriores serão exercidas pelos correspondentes organismos regionais.
 
-### CAPÍTULO IV — Artigo 56.º
+### CAPÍTULO IV
+
+###### Artigo 56.º
 
 Transição e integração
 
@@ -882,10 +1029,10 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de Dezembro de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 7 de Fevereiro de 1990.**
+Assinado em Angra do Heroísmo em 7 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

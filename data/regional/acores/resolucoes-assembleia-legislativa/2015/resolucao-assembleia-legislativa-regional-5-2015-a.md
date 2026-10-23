@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/02/03600/0100501006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/5/2015/02/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/5-2015-66558699
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93d540eb7516de0ea0125100fb1661d729f450ab66dbedf137def77f5829968c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0333ef2557f77c2bf51b4310d67e17ca7bdd4fc17dbe6af6cc737e818aa78d22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Base das Lajes
+- Desemprego
 - ILHA Terceira
+- Investimento Privado
 - Investimento Público
 - Pessoal Civil
 - Plano de Emergência
 - Praia da Vitoria
-- Desemprego
 - Proteção no Desemprego
 - Recomendação
-- Investimento Privado
-- Açores
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:19Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +100,7 @@ A Assembleia Legislativa da Região Autónoma dos Açores e o Governo Regional, 
 
 Foram, recentemente, divulgadas notícias que dão conta da concretização, quase imediata, da redução do pessoal civil ao serviço das forças militares norte-americanas na base das Lajes (FEUSAÇORES), anunciada em novembro de 2012. Uma redução que se cifrará no despedimento de 500 dos atuais 900 trabalhadores, sem que se conheçam, por enquanto, os critérios a serem adotados para o que deverá ser o maior despedimento coletivo na Região.
 
-**O presidente da Câmara Municipal da Praia da Vitória prevê que 25% da população ativa do concelho ficará desempregada, o que a somar à redução do efetivo militar norte-americano, implicará uma quebra na ordem dos 30% do PIB do concelho.**
+O presidente da Câmara Municipal da Praia da Vitória prevê que 25% da população ativa do concelho ficará desempregada, o que a somar à redução do efetivo militar norte-americano, implicará uma quebra na ordem dos 30% do PIB do concelho.
 
 A redução do PIB do concelho da Praia da Vitória será a consequência da diminuição da atividade económica, traduzida na redução em 50% dos arrendamentos imobiliários aos militares norte-americanos, na redução em 20% (por mês) das cargas operadas no concelho - que afetará os transitários locais -, numa redução substancial do consumo no comércio local (restauração), assim como nos trabalhos associados à presença norte-americana, fora da base das Lajes.
 
@@ -118,4 +118,4 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos te
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de janeiro de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.

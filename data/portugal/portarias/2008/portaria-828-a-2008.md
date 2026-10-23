@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 153/2008, 1º Suplemento, Série I de 2008-08-08
   number: '153'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5402-(2) a 5402-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15301/0000200015.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/828-a/2008/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/828-a-2008-158471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 406a58d3ea8eadc4d26342ca0ffc15c1c844b3759c27b15f5dc2556efa9971d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7246d6999db7197e4d04898a7a1f41777529aedecb0f8fba2fcc546c90e323dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,64 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Pesca
 - Apoio ao Investimento
-- Investimento
+- Financiamento
 - Intervenção Operacional Pescas
+- Investimento
+- Pesca
 relationships:
 - type: amended_by
   target: pt:dre:502868:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609337:por
+  label: "Alterado o art. 15º do anexo III do Regulamento do Regime de Apoio das acções previstas na medida « Desenvolvimento\
+    \ sustentável das zonas de pesca», pela PORT.106/2010.19.02.2010.MADRP, DR.IS [35] de 19.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/106-2010-609337
+  date: '2010-02-19'
+- type: amended_by
+  target: pt:dre:306892:por
+  label: "Alterados os art.s 5º, 6º, 7º e 8º do diploma preambular bem como a subal. e) da al. D do n.º 3.1 do anexo ii e\
+    \ os art.s 6º, 7º, 13º, 14º, 15º (o último artigo na redacção da Port 106/2010, de 19-Fev), 17º e 18º do anexo iii, revogada\
+    \ a al. c) do nº 4 do art. 10º do anexo iii e republicado o regulamento do regime de apoio, pela PORT.1237/2010.13.12.2010.MADRP,\
+    \ DR.IS [239] de 13.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1237-2010-306892
+  date: '2010-12-13'
+- type: amended_by
+  target: pt:dre:502868:por
+  label: "Dada nova redação aos arts. 11º, 13º, 14º, 15º (este alterado pelas Port 106/2010 de 19-fev e 1237/2010 de 13-dez),\
+    \ 17º e 20º do Regulamento do Regime de Apoio da medida «Desenvolvimento sustentável das zonas de pesca», constante do\
+    \ anexo III do presente diploma e republicado pela citada Port 1237/2010 de 13-dez, pela PORT.317/2013.22.10.2013.MAGM,\
+    \ DR.IS [204] de 22.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/317-2013-502868
+  date: '2013-10-22'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art. 11.º do Regulamento do Regime de Apoio das Ações previstas na medida Desenvolvimento sustentável\
+    \ das Zonas de Pesca, aprovado como anexo III do presente diploma (republicado pela Port 1237/2010 de 13-dez), na redação\
+    \ da Port 317/2013 de 22-out, pela PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: celex:32006R1198
   label: null
   source: http://data.europa.eu/eli/reg/2006/1198/oj
+- type: corrected_by
+  target: pt:dre:452922:por
+  label: "Rectificada pela DECL-RECT.57/2008.07.10.2008.PCM, DR.IS [194] de 07.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/57-2008-452922
+  date: '2008-10-07'
 article_structure:
   article_count: 31
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:43Z'
   warnings: []
   errors: []
 ---
@@ -322,11 +356,11 @@ Com base neste conjunto de indicadores considera-se como zonas mais dependentes 
 
 Em aplicação dos critérios enunciados, delimitam-se no continente, 39 municípios, distribuídos ao longo de toda a costa, e que são, conforme o critério pelo qual foram determinados, os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15301/0000200015.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15301/0000200015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15301/0000200015.pdf)
 
 B - Dado que as actividades de captura, aquícolas e de transformação se localizam predominantemente nas freguesias ribeirinhas, em cada município, apenas estas são identificadas como zonas mais dependentes da pesca, sendo apenas estas consideradas para a constituição dos grupos de acção costeira. Assim, as comunidades piscatórias, litorais ou litorâneas, localizadas na costa atlântica sul e oeste do continente e as das áreas estuarinas dos rios Minho, Lima, Douro, Vouga, Mondego, Tejo, Sado, Mira, Arade e Guadiana, são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15301/0000200015.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15301/0000200015.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15301/0000200015.pdf)
 
 Adicionalmente, poderão ainda ser incluídas outras freguesias litorais de municípios não elegíveis, mas adjacentes e com pequenas comunidades piscatórias, para dar continuidade geográfica e coerência económica e social à zona dependente da pesca e garantir uma massa crítica suficiente.
 
@@ -454,13 +488,13 @@ f) Metodologia para separação dos custos com a promoção e melhoria das compe
 
 4.1 - O pedido de reconhecimento como grupos de acção costeira e de aprovação das respectivas estratégias é efectuado através do preenchimento do formulário disponível no sítio da Internet da DGPA, e nela entregue, constituído pelas seguintes partes:
 
-# Parte A - informação relativa ao território;
+Parte A - informação relativa ao território;
 
-# Parte B - informação de apresentação do grupos;
+Parte B - informação de apresentação do grupos;
 
-# Parte C - informação respeitante à composição e funcionamento da parceria;
+Parte C - informação respeitante à composição e funcionamento da parceria;
 
-# Parte D - estratégia de desenvolvimento sustentável da zona costeira.
+Parte D - estratégia de desenvolvimento sustentável da zona costeira.
 
 4.2 - O pedido deve ser apresentado nos meses de Outubro a Dezembro de 2008 e ser acompanhado de todos os documentos exigidos no formulário.
 

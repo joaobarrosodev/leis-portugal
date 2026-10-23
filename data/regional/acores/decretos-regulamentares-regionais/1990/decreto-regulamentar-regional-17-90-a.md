@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10500/21362151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,125 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1990-571233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3252f9fc8bddde2f36d562f03ce1b2c278c4a66a3474be6c951e413056d5625
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4880001a4cbc1281481f16a769cb17407adb5e8ca2684a6dd3a8e3820aabca1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Conselho Regional do Turismo
+- Definição de Competências
+- Direcção Regional de Turismo
+- Direcção Regional do Ambiente
+- Gabinete Técnico
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
+- Regime de Pessoal
+- Secretaria Regional do Turismo e Ambiente
+- Secretário Regional do Turismo e Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:146209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274465:por
+  label: "Alterados os artigos 12.º, 14.º, 27.º, 45.º, 46.º, 49.º, 54.º, aditados os artigos 14.º-A, 49.º-A e 53.º-A, revogado\
+    \ o n.º 3 do artigo 25.º e os artigos 39.º e 57.º a 62.º, e substituído o quadro de pessoal aprovado no artigo 39.º, pelo\
+    \ DRR.33/92/A.04.08.1992.GR-RAA, DR.IS-B [178] de 04.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1992-274465
+  date: '1992-08-04'
+- type: amended_by
+  target: pt:dre:626006:por
+  label: "Alterados os art.s 5º e 16º bem como os quadros de pessoal e aditado um art. 41º-A, pelo DRR.10/96/A.26.02.1996.GR-RAA,\
+    \ DR.IS-B [48] de 26.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1996-626006
+  date: '1996-02-26'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553379:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516758:por
+  label: "Revogados os arts. 29º a 37º pelo DRR.13/98/A.1998.04.13.SRAPA-RAA, DR.IS-B [109] de 12/Mai/19981\081\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1998-516758
+  date: '1998-04-13'
+- type: repealed_by
+  target: pt:dre:522377:por
+  label: "Revogado o presente diploma, na parte respeitante ás competências do Turismo, pelo DRR.17/98/A.1998.04.13.SRE-RAA\
+    \ DR.IS-B [112] de 15/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1998-522377
+  date: '1998-04-13'
+- type: repealed_by
+  target: pt:dre:146209:por
+  label: "Revogado pelo DRR.23/2011/A.21.11.2011.PG-RAA, DR.IS [223] de 21.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2011-146209
+  date: '2011-11-21'
 article_structure:
   article_count: 63
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:36Z'
   warnings: []
   errors: []
 ---
@@ -212,7 +297,9 @@ b) Divisão de Documentação e Informação (DDI).
 
 2 - O GT é equiparado a direcção de serviços.
 
-###### Artigo 8.º — Divisão de Estudos e Planeamento (DEP)
+###### Artigo 8.º
+
+##### Divisão de Estudos e Planeamento (DEP)
 
 À DEP compete, designadamente:
 
@@ -226,7 +313,9 @@ d) Apoiar os serviços administrativos nos assuntos referentes à preparação e
 
 e) Coordenar a instalação e funcionamento do sistema informático da SRTA.
 
-###### Artigo 9.º — Divisão de Documentação e Informação (DDI)
+###### Artigo 9.º
+
+##### Divisão de Documentação e Informação (DDI)
 
 À DDI compete, designadamente:
 
@@ -272,7 +361,9 @@ a) Secção de Contabilidade e Património (SCP);
 
 b) Secção de Expediente, Arquivo e Pessoal (SEAP).
 
-###### Artigo 13.º — Secção de Contabilidade e Património (SCP)
+###### Artigo 13.º
+
+#### Secção de Contabilidade e Património (SCP)
 
 À SCP compete, em especial:
 
@@ -290,7 +381,9 @@ f) Organizar e manter actualizado o cadastro do património afecto à SRTA;
 
 g) Assegurar o apetrechamento dos serviços da SRTA, bem como organizar os processos de concurso público ou limitado, com vista às necessárias aquisições de equipamento.
 
-###### Artigo 14.º — Secção de Expediente, Arquivo e Pessoal (SEAP)
+###### Artigo 14.º
+
+#### Secção de Expediente, Arquivo e Pessoal (SEAP)
 
 À SEAP compete:
 
@@ -376,7 +469,9 @@ a) Divisão de Equipamento e Actividades Turísticas (DEAT);
 
 b) Divisão de Ordenamento e Licenciamento de Instalações Turísticas (DOLIT).
 
-###### Artigo 19.º — Divisão de Equipamento e Actividades Turísticas (DEAT)
+###### Artigo 19.º
+
+##### Divisão de Equipamento e Actividades Turísticas (DEAT)
 
 À DEAT compete:
 
@@ -408,7 +503,9 @@ n) Coordenar estudos e preparar legislação com interesse e incidência no sect
 
 o) Assegurar a execução e acompanhamento das acções, projectos e programas comunitários na área do turismo.
 
-###### Artigo 20.º — Divisão de Ordenamento e Licenciamento de Instalações Turísticas (DOLIT)
+###### Artigo 20.º
+
+##### Divisão de Ordenamento e Licenciamento de Instalações Turísticas (DOLIT)
 
 À DOLIT compete:
 
@@ -468,7 +565,9 @@ a) Divisão de Animação e Promoção Turísticas (DAPT);
 
 b) Divisão de Informação Turística (DIT).
 
-###### Artigo 23.º — Divisão de Animação e Promoção Turísticas (DAPT)
+###### Artigo 23.º
+
+##### Divisão de Animação e Promoção Turísticas (DAPT)
 
 À DAPT compete:
 
@@ -492,7 +591,9 @@ i) Organizar e divulgar calendários de acontecimentos a nível regional, bem co
 
 j) Apoiar tecnicamente o sector privado e órgãos locais de turismo na produção de materiais promocionais e execução de acções publicitárias.
 
-###### Artigo 24.º — Divisão de Informação Turística (DIT)
+###### Artigo 24.º
+
+##### Divisão de Informação Turística (DIT)
 
 À DIT compete:
 
@@ -662,7 +763,9 @@ c) Divisão de Parques, Reservas e Conservação da Natureza (DPRCN);
 
 d) Divisão de Informação e Educação Ambientais (DIEA).
 
-###### Artigo 33.º — Divisão de Qualidade do Ambiente e Recursos Naturais (DQARN)
+###### Artigo 33.º
+
+##### Divisão de Qualidade do Ambiente e Recursos Naturais (DQARN)
 
 À DQARN compete:
 
@@ -690,7 +793,9 @@ l) Acompanhar a implementação, gestão e administração das bacias hidrográf
 
 m) Coordenar e colaborar na implementação de programas de limpeza da orla marítima e águas interiores.
 
-###### Artigo 34.º — Divisão do Ordenamento (DO)
+###### Artigo 34.º
+
+##### Divisão do Ordenamento (DO)
 
 À DO compete:
 
@@ -702,7 +807,9 @@ c) Elaborar, por si ou em colaboração com outros serviços e entidades compete
 
 d) Estudar soluções para a ocupação do espaço, em colaboração com as demais entidades competentes;
 
-###### Artigo 35.º — Divisão de Parques, Reservas e Conservação da Natureza (DPRCN)
+###### Artigo 35.º
+
+##### Divisão de Parques, Reservas e Conservação da Natureza (DPRCN)
 
 1 - À DPRCN compete:
 
@@ -724,7 +831,9 @@ h) Elaborar estudos de investigação, no domínio da ecologia pura ou aplicada,
 
 i) Participar nas actividades de investigação científica e técnica relacionadas com matérias no domínio da sua competência.
 
-###### Artigo 36.º — Divisão de Informação e Educação Ambientais (DIEA)
+###### Artigo 36.º
+
+##### Divisão de Informação e Educação Ambientais (DIEA)
 
 À DIEA compete:
 
@@ -906,14 +1015,14 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 8 de Março de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 6 de Abril de 1990.**
+Assinado em Angra do Heroísmo em 6 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco J. Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco J. Rocha Vieira.
 
 ## ANEXO — Mapa a que se refere o artigo 39.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/10500/21362151.pdf))](https://files.diariodarepublica.pt/1s/1990/05/10500/21362151.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/10500/21362151.pdf)

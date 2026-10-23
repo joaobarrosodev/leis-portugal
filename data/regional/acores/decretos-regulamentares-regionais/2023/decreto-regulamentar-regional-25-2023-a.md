@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/09/18000/0001800021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/2023/09/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2023-221691582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84c9d1917af84c356a8477d52d4ef3c493e329ceb5956fb9e0ee3ab647665ae9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c9aa5a42b87391c9ddc5f569be00491c463276445eaf8f72e6e5f7430be48e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Desenvolvimento Rural
-- Leite
-- Governo Regional
-- Gado Bovino
-- Milho
+- Açores
+- Agricultor
+- Alimentação
 - Alimentação Humana
-- Política de Solos
+- Desenvolvimento Rural
+- Financiamento
+- Gado Bovino
+- Governo Regional
+- Leite
+- Medida de Apoio à Compra de Sementes de Milho e Sorgo
+- Milho
+- Política Agrícola
 - Política Agrícola Comum
+- Política de Solos
 - Política do Ambiente
 - Prazo
 - Preço
-- Alimentação
-- Agricultor
-- Política Agrícola
 - Regulamento CE
-- Açores
-- Medida de Apoio à Compra de Sementes de Milho e Sorgo
 relationships:
 - type: cites
   target: celex:32023R1465
@@ -92,13 +92,13 @@ relationships:
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:54Z'
   warnings: []
   errors: []
 ---
@@ -129,11 +129,11 @@ Assim, nos termos da alínea c) do n.º 1 do artigo 89.º do Estatuto Político-
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 31 de agosto de 2023.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 12 de setembro de 2023.**
+Assinado em Angra do Heroísmo em 12 de setembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -224,3 +224,5 @@ c) Se a diferença for superior a 30 % do montante determinado, não é concedid
 ###### Artigo 10.º — Pagamento
 
 O pagamento do apoio previsto no presente diploma é efetuado pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), até 31 de janeiro de 2024.
+
+116851146

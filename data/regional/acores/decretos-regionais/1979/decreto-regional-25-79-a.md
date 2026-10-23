@@ -46,36 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/25-1979-366613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e0a0c64d225ff63f6fd3d4fa104ef0a1ca89079a963f874edbf2e64266dd858
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e01562ac0b2b4de6b04154717be41d58a9fa0b18c8e284a67bfcda45be490694
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Arrendamento Urbano para Habitação
+- Emigrante
+relationships:
+- type: cites
+  target: pt:dre:250830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:646313:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:02Z'
   warnings: []
   errors: []
 ---
@@ -166,11 +201,11 @@ como seria a sujeição de todas as residências secundárias ao arrendamento so
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Na Região Autónoma dos Açores, os fogos habitualmente não habitados, mas que se destinam a habitação própria ou de agregado familiar do respectivo dono, ainda que como residência secundária, podem ser objecto de arrendamento por períodos limitados.
+Artigo 1.º - 1 - Na Região Autónoma dos Açores, os fogos habitualmente não habitados, mas que se destinam a habitação própria ou de agregado familiar do respectivo dono, ainda que como residência secundária, podem ser objecto de arrendamento por períodos limitados.
 
 2 - Entende-se por dono, para os efeitos do número anterior, quem tiver a posse material do prédio ao abrigo de qualquer direito real que a confira, ou ao abrigo de contrato de arrendamento que autorize a sublocação, nos termos da lei civil.
 
-###### Art. 2.º Os arrendamentos dos prédios a que se refere este diploma podem ser feitos segundo uma das seguintes modalidades:
+Art. 2.º Os arrendamentos dos prédios a que se refere este diploma podem ser feitos segundo uma das seguintes modalidades:
 
 a) Arrendamento por períodos renováveis, com desocupação temporária em tempo certo;
 
@@ -178,22 +213,22 @@ b) Arrendamento por períodos renováveis, com desocupação temporária em cond
 
 c) Arrendamento por período certo, findo o qual caducará automaticamente.
 
-###### Art. 3.º Os arrendamentos feitos ao abrigo do presente diploma terão o regime de rendas estabelecido para casas de campo, termas e praias previsto na alínea b) do artigo 29.º do [Decreto n.º 15289](https://diariodarepublica.pt/dr/detalhe/decreto/15289-1928-646313), de 30 de Março de 1928, e bem assim as condições e limitações decorrentes da lei civil, em caso de sublocação.
+Art. 3.º Os arrendamentos feitos ao abrigo do presente diploma terão o regime de rendas estabelecido para casas de campo, termas e praias previsto na alínea b) do artigo 29.º do [Decreto n.º 15289](https://diariodarepublica.pt/dr/detalhe/decreto/15289-1928-646313), de 30 de Março de 1928, e bem assim as condições e limitações decorrentes da lei civil, em caso de sublocação.
 
-###### Art. 4.º - 1 - Os contratos previstos neste diploma serão obrigatoriamente reduzidos a escrito, com especificação de todos os seus elementos essenciais e garantias, e com assinatura dos respectivos sujeitos reconhecida notariamente.
+Art. 4.º - 1 - Os contratos previstos neste diploma serão obrigatoriamente reduzidos a escrito, com especificação de todos os seus elementos essenciais e garantias, e com assinatura dos respectivos sujeitos reconhecida notariamente.
 
 2 - A não redução a escrito, em conformidade com o número anterior, faz presumir a existência de um contrato de arrendamento urbano nos termos da lei civil.
 
 3 - A presunção pode ser, porém, elidida por sentença que, apreciando livremente a prova produzida, declare o arrendamento feito de harmonia com o presente diploma e supra a falta de título.
 
-###### Art. 5.º O exemplar do contrato escrito - completado com o documento comprovativo de notificação postal, no caso da alínea b) do artigo 2.º - é título executivo, para efeito de obtenção de mandado de despejo.
+Art. 5.º O exemplar do contrato escrito - completado com o documento comprovativo de notificação postal, no caso da alínea b) do artigo 2.º - é título executivo, para efeito de obtenção de mandado de despejo.
 
 Aprovado pela Assembleia Regional, na Horta, em 7 de Novembro de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 19 de Novembro de 1979.**
+Assinado em Angra do Heroísmo em 19 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

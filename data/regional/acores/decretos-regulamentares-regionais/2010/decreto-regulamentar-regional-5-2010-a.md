@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/03/05800/0092600929.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2010/03/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2010-611312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1540ebe716b1dc8419145bc721e3f8ab683c881ba0bf9544ad52a20250d4aafe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6be37397339936d0e00e80092c0eaeb89bb656011278059eb337690329c78d73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia de Escola
-- Escola Profissional de Capelas
-- Formação Profissional
 - Conselho Administrativo
 - Conselho Pedagógico
 - Definição de Competências
 - Diretor
 - Ensino Profissional
 - Escola Profissional
+- Escola Profissional de Capelas
+- Estabelecimento de Ensino
+- Formação Profissional
 - Integração de Trabalhadores
 - Orgânica
-- Estabelecimento de Ensino
 - Pessoal Docente
 - Quadro de Pessoal
-- Açores
 - Sistema Educativo
 relationships:
 - type: amended_by
@@ -110,16 +110,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/6/2008/03/06/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/6/2008/03/06/a/dre
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675644:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:210488520:por
+  label: Revogado a partir de 21.03.2023 pelo(a) Decreto Legislativo Regional n.º 10/2023/A - Diário da República n.º 56/2023,
+    Série I de 2023-03-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2023-210488520
+  date: '2023-03-20'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:49Z'
   warnings: []
   errors: []
 ---
@@ -286,18 +316,18 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 18 de Fevereiro de 2010.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 8 de Março de 2010.**
+Assinado em Angra do Heroísmo em 8 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
 ## ANEXO I — Quadro de pessoal docente (a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/05800/0092600929.pdf))](https://files.diariodarepublica.pt/1s/2010/03/05800/0092600929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/05800/0092600929.pdf)
 
 (a) Lugares a extinguir quando vagarem.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/05800/0092600929.pdf))](https://files.diariodarepublica.pt/1s/2010/03/05800/0092600929.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2010/03/05800/0092600929.pdf)

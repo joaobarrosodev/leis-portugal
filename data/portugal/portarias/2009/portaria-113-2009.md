@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/113/2009/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-2009-601755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 539784e31a081662f4e21fcb8a24fcfb04265b51b826497d37f172517e95e683
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 265e460b65480e15dbbdf1bbfd1b41081617c8d79698920b42ab42a9366f7153
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/222/2006/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/222/2006/03/08/p/dre
+- type: cites
+  target: pt:dre:241857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687038:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:32Z'
   warnings: []
   errors: []
 ---
@@ -115,4 +123,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 22 de Janeiro de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/02000/0062700627.pdf))](https://files.diariodarepublica.pt/1s/2009/01/02000/0062700627.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/02000/0062700627.pdf)

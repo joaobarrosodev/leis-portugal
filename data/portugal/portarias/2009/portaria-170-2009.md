@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03300/0108801096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/170/2009/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/170-2009-602278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ee88820332a69aba501450b911a0922c5459b530780ac39b063f3e04fbcddce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d82b6b07f3aacdb11d0c231d8b68096ddb0d8166b80109e192d540d48712e9e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,35 +72,35 @@ subjects:
 - Águeda
 - Albergaria-a-velha
 - Alcácer do SAL
+- Amadora
+- Anadia
 - Aveiro
+- Coimbra
 - Comarca da Grande Lisboa Noroeste
 - Comarca do Alentejo Litoral
 - Comarca do Baixo Vouga
+- Comarca Piloto
 - Estarreja
-- Pessoal de Justiça
-- Oficial de Justiça
-- Tribunal do Trabalho
 - Grândola
-- Anadia
-- Santiago do Cacém
 - Ílhavo
 - Integração de Trabalhadores
-- Tribunal de Comarca
 - Loures
-- Odemira
-- Oliveira do Bairro
-- Comarca Piloto
-- Ovar
-- Pessoal Supranumerario
-- Coimbra
-- Quadro de Pessoal
 - Ministério Público
+- Odemira
+- Oficial de Justiça
+- Oliveira do Bairro
+- Ovar
+- Pessoal de Justiça
+- Pessoal Supranumerario
+- Quadro de Pessoal
+- Santiago do Cacém
 - Secretaria Judicial
 - Sever do Vouga
-- Amadora
 - Sintra
 - Tribunal da Relação
+- Tribunal de Comarca
 - Tribunal de Família e de Menores
+- Tribunal do Trabalho
 - Vagos
 - VARA Civel
 - VARA Criminal
@@ -109,6 +109,13 @@ relationships:
   target: pt:dre:56303346:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544585:por
+  label: "Alterados os quadros de pessoal das secretarias dos Juízos de Águeda, de Anadia, de Aveiro, de Oliveira do Bairro,\
+    \ de Sever do Vouga, dos Serviços do Ministério Público Juízos de Aveiro e das secções de Aveiro do Departamento de Investigação\
+    \ e Acção Penal da comarca do Baixo Vouga pela PORT.12/2012.13.01.2012.MF, DR.IS [10] de 13.01.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/12-2012-544585
+  date: '2012-01-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/25/2009/01/26/p/dre
   label: null
@@ -129,16 +136,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/721-a/2000/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/721-a/2000/09/05/p/dre
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602981:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:56303346:por
+  label: Revogada, a partir de 26.08.2014, pelo(a) Portaria n.º 161/2014 - Diário da República n.º 160/2014, Série I de 2014-08-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/161-2014-56303346
+  date: '2014-08-21'
 article_structure:
   article_count: 12
-  section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:35Z'
   warnings: []
   errors: []
 ---
@@ -383,7 +415,7 @@ Os quadros de pessoal dos Serviços do Ministério Público do Tribunal da Rela�
 
 2 - A conversão das secretarias e a transição de funcionários de justiça produzem efeitos no dia 14 de Abril de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 12 de Fevereiro de 2009. - Pelo Ministro da Justiça, José Manuel Vieira Conde Rodrigues, Secretário de Estado Adjunto e da Justiça, em 11 de Fevereiro de 2009.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 12 de Fevereiro de 2009. - Pelo Ministro da Justiça, José Manuel Vieira Conde Rodrigues, Secretário de Estado Adjunto e da Justiça, em 11 de Fevereiro de 2009.
 
 ## ANEXO I — Comarca do Alentejo Litoral
 
@@ -395,7 +427,7 @@ Secretário de justiça - 1.
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -421,7 +453,7 @@ Secretário de justiça - 1.
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -449,7 +481,7 @@ Secretário de justiça - 1.
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -487,7 +519,7 @@ Assistente operacional (c) - 3.
 
 Serviços judiciais
 
-#### Secção central e duas secções de processos, sendo uma afecta ao juízo de grande instância cível e ao juízo de média e pequena instância cível e uma afecta ao juízo de instância criminal:
+Secção central e duas secções de processos, sendo uma afecta ao juízo de grande instância cível e ao juízo de média e pequena instância cível e uma afecta ao juízo de instância criminal:
 
 Pessoal:
 
@@ -517,7 +549,7 @@ Secretário de justiça - 1.
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -555,7 +587,7 @@ Assistente operacional (b) - 3.
 
 Serviços judiciais
 
-#### Secção central e três secções de processos, sendo uma afecta ao juízo de média e pequena instância cível, uma afecta ao juízo de instância criminal e ao juízo de instrução criminal e uma afecta ao juízo de execução(a):
+Secção central e três secções de processos, sendo uma afecta ao juízo de média e pequena instância cível, uma afecta ao juízo de instância criminal e ao juízo de instrução criminal e uma afecta ao juízo de execução(a):
 
 Pessoal:
 
@@ -589,7 +621,7 @@ Secretário de justiça - 1.
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -617,7 +649,7 @@ Secretário de justiça - 1.
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -653,7 +685,7 @@ Assistente operacional (b) - 2.
 
 Serviços judiciais
 
-#### Secção central e três secções de processos, sendo uma afecta ao juízo de grande instância cível, uma afecta ao juízo de média e pequena instância cível e uma afecta ao juízo de instância criminal:
+Secção central e três secções de processos, sendo uma afecta ao juízo de grande instância cível, uma afecta ao juízo de média e pequena instância cível e uma afecta ao juízo de instância criminal:
 
 Pessoal:
 
@@ -693,7 +725,7 @@ Assistente operacional (b)(c) - 8.
 
 (c) Exercem funções em todas as secretarias de Aveiro.
 
-#### Secção central e de serviço externo e cinco secções de processos, sendo uma afecta ao juízo de média instância criminal, uma afecta ao juízo de grande instância cível, uma afecta ao juízo de comércio, uma afecta ao juízo de instrução criminal e uma afecta ao juízo de média e pequena instância cível:
+Secção central e de serviço externo e cinco secções de processos, sendo uma afecta ao juízo de média instância criminal, uma afecta ao juízo de grande instância cível, uma afecta ao juízo de comércio, uma afecta ao juízo de instrução criminal e uma afecta ao juízo de média e pequena instância cível:
 
 Pessoal:
 
@@ -709,7 +741,7 @@ Pessoal:
 
 Secretário de justiça - 1.
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -727,7 +759,7 @@ Secretário de justiça - 1.
 
 Serviços judiciais
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -755,7 +787,7 @@ Secretário de justiça - 1.
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -787,7 +819,7 @@ Assistente técnico (a) - 1.
 
 Serviços judiciais
 
-#### Secção central e três secções de processos, sendo uma afecta ao juízo de família e menores, uma afecta ao juízo de média e pequena instância cível e uma afecta ao juízo de instância criminal:
+Secção central e três secções de processos, sendo uma afecta ao juízo de família e menores, uma afecta ao juízo de média e pequena instância cível e uma afecta ao juízo de instância criminal:
 
 Pessoal:
 
@@ -821,7 +853,7 @@ Assistente operacional (a) - 1.
 
 Serviços judiciais
 
-#### Secção central e três secções de processos, sendo uma afecta ao juízo de média e pequena instância cível, uma afecta ao juízo de média instância criminal e uma afecta ao juízo de pequena instância criminal:
+Secção central e três secções de processos, sendo uma afecta ao juízo de média e pequena instância cível, uma afecta ao juízo de média instância criminal e uma afecta ao juízo de pequena instância criminal:
 
 Pessoal:
 
@@ -855,7 +887,7 @@ Assistente técnico (a) - 1.
 
 Serviços judiciais
 
-#### Secção central e duas secções de processos, sendo uma afecta ao juízo de família e menores e uma afecta ao juízo de média e pequena instância cível e ao juízo de instância criminal:
+Secção central e duas secções de processos, sendo uma afecta ao juízo de família e menores e uma afecta ao juízo de média e pequena instância cível e ao juízo de instância criminal:
 
 Pessoal:
 
@@ -893,7 +925,7 @@ Assistente operacional (b) - 2.
 
 Serviços judiciais
 
-#### Secção central e três secções de processos, sendo uma afecta ao juízo de média e pequena instância cível, uma afecta ao juízo de instância criminal e uma afecta ao juízo de execução (a):
+Secção central e três secções de processos, sendo uma afecta ao juízo de média e pequena instância cível, uma afecta ao juízo de instância criminal e uma afecta ao juízo de execução (a):
 
 Pessoal:
 
@@ -925,7 +957,7 @@ Secretário de justiça - 1.
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -951,7 +983,7 @@ Secretário de justiça - 1.
 
 Serviços judiciais
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -993,7 +1025,7 @@ Assistente operacional (c) (d) - 1.
 
 (d) Exercem funções nas duas secretarias da Amadora.
 
-#### Secção central e cinco secções de processos, sendo duas afectas ao juízo de família e menores, uma afecta ao juízo de média instância cível, uma afecta ao juízo de pequena instância criminal e uma afecta ao juízo de instrução criminal:
+Secção central e cinco secções de processos, sendo duas afectas ao juízo de família e menores, uma afecta ao juízo de média instância cível, uma afecta ao juízo de pequena instância criminal e uma afecta ao juízo de instrução criminal:
 
 Pessoal:
 
@@ -1005,7 +1037,7 @@ Escrivão auxiliar - 15.
 
 Secretaria dos serviços do Ministério Público dos juízos da Amadora e das secções da Amadora do Departamento de Investigação e Acção Penal da comarca da Grande Lisboa-Noroeste (a).
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -1033,7 +1065,7 @@ Assistente operacional (b) - 2.
 
 Serviços judiciais
 
-#### Secção central e duas secções de processos, sendo uma afecta ao juízo de média e pequena instância cível e uma afecta ao juízo de média e pequena instância criminal:
+Secção central e duas secções de processos, sendo uma afecta ao juízo de média e pequena instância cível e uma afecta ao juízo de média e pequena instância criminal:
 
 Pessoal:
 
@@ -1071,7 +1103,7 @@ Assistente operacional (b) (c) - 6.
 
 (c) Exercem funções nas duas secretarias de Sintra.
 
-#### Secção central, secção de serviço externo e 18 secções de processos, sendo 1 afecta ao juízo do trabalho, 4 afectas ao juízo de família e menores, 2 afectas ao juízo de grande instância cível, 2 afectas ao juízo de média instância cível, 1 afecta ao juízo de pequena instância cível, 2 afectas ao juízo de grande instância criminal, 2 afectas ao juízo de média instância criminal, 1 afecta ao juízo de pequena instância criminal, 1 afecta ao juízo de execução, 1 afecta ao juízo de comércio e 1 afecta ao juízo de instrução criminal (a):
+Secção central, secção de serviço externo e 18 secções de processos, sendo 1 afecta ao juízo do trabalho, 4 afectas ao juízo de família e menores, 2 afectas ao juízo de grande instância cível, 2 afectas ao juízo de média instância cível, 1 afecta ao juízo de pequena instância cível, 2 afectas ao juízo de grande instância criminal, 2 afectas ao juízo de média instância criminal, 1 afecta ao juízo de pequena instância criminal, 1 afecta ao juízo de execução, 1 afecta ao juízo de comércio e 1 afecta ao juízo de instrução criminal (a):
 
 Pessoal:
 
@@ -1089,7 +1121,7 @@ Pessoal:
 
 Secretário de justiça - 1.
 
-#### Secção central e cinco secções de processos:
+Secção central e cinco secções de processos:
 
 Pessoal:
 
@@ -1129,7 +1161,7 @@ Loures
 
 Secretaria dos Serviços do Ministério Público
 
-#### Secção central e cinco secções de processos:
+Secção central e cinco secções de processos:
 
 Pessoal:
 

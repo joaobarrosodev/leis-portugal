@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/36/2006/08/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2006-538819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 142917512a7dfb9bb01fb3f2bcbdd599a41e89bfeb63c0ba096b128d8e1c6b6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdcb47968a415cc138e8c7a6b66a8edd787db49774efafce9fe11c9895136fa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,22 @@ subjects:
 - Contra-ordenação
 - Definição de Competências
 - Fiscalização Rodoviária
-- Veículo
-- Segurança Rodoviária
-- Normas de Segurança
 - Madeira.região Autónoma
+- Normas de Segurança
+- Segurança Rodoviária
 - Transporte de Passageiros
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:898867724:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:898867724:por
+  label: Alterado a partir de 1 de janeiro de 2025 o artigo 4.º pelo(a) Decreto Legislativo Regional n.º 13/2024/M - Diário
+    da República n.º 235/2024, Série I de 2024-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2024-898867724
+  date: '2024-12-04'
 - type: cites
   target: celex:32003L0020
   label: null
@@ -87,13 +93,13 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:42Z'
   warnings: []
   errors: []
 ---
@@ -152,10 +158,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de Julho de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 4 de Agosto de 2006.**
+Assinado em 4 de Agosto de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

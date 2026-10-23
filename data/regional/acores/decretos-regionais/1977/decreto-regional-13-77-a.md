@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1977-286500
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c6e615b302a8ad6b09f5028abeb3dc7783f42b5e4d9db8593536b2d9e3c2faec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dc39f62f851064a5cb6dfa3c76a99b6ffcd5685dda6392bbf7a74f1c441a381
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Alcoolismo
+- Código da Estrada
+- Multa
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:274220:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:274220:por
+  label: "Alterado o art. 2º pelo DRG.16/78/A.1978.12.30.ARA, DR.IS [299]7ºSupl de 30/Dez/1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/16-1978-274220
+  date: '1978-12-30'
+- type: republished_by
+  target: pt:dre:1945608:por
+  label: "Republicado, com correcções, pela DECL.DD162/78.27.07.1978.MR-RAA, DR.IS [171] de 27.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-07-27'
+- type: republished_by
+  target: pt:dre:296994:por
+  label: "Republica, com correções, pela DECL.DD7620.27.07.1978.MR-RAA, DR.IS [171] de 27.07.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-296994
+  date: '1978-07-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:45Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +122,11 @@ O Código da Estrada contempla já a punição do condutor embriagado, mas o mé
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É proibida a condução de veículos automóveis, de velocípedes com ou sem motor e veículos de tracção animal, bem como de animais, por indivíduos em estado de embriaguez.
+Artigo 1.º - 1. É proibida a condução de veículos automóveis, de velocípedes com ou sem motor e veículos de tracção animal, bem como de animais, por indivíduos em estado de embriaguez.
 
 2. Entende-se que o estado de embriaguez foi atingido sempre que o teor de álcool no sangue (alcoolemia) for igual ou superior a 0,8 g/l ou seja certificado por exame médico.
 
-###### Art. 2.º - 1. Aos condutores que se encontrem nas condições previstas no artigo anterior serão aplicadas, além das penalidades previstas no Código da Estrada e seu Regulamento e Código Penal, as seguintes sanções:
+Art. 2.º - 1. Aos condutores que se encontrem nas condições previstas no artigo anterior serão aplicadas, além das penalidades previstas no Código da Estrada e seu Regulamento e Código Penal, as seguintes sanções:
 
 a) Multa de 5000$00, que passará para o triplo em segunda ou sucessivas reincidências, quando o grau de alcoolemia se situe entre 0,8 g/l e 1,5 g/l de sangue;
 
@@ -115,18 +136,18 @@ c) Multa de 15000$00, que passará para o dobro no caso de primeira reincidênci
 
 2. Os condutores de velocípedes sem motor e de veículos de tracção animal, bem como de animais, pagarão o correspondente a metade do montante das multas estabelecidas nas alíneas a), b) e c) do n.º 1 deste artigo.
 
-###### Art. 3.º Para efeitos da detecção dos condutores nas condições do artigo 1.º, a fiscalização poderá utilizar todos os meios que para o efeito forem aprovados por portaria da Secretaria Regional dos Transportes e Turismo.
+Art. 3.º Para efeitos da detecção dos condutores nas condições do artigo 1.º, a fiscalização poderá utilizar todos os meios que para o efeito forem aprovados por portaria da Secretaria Regional dos Transportes e Turismo.
 
-###### Art. 4.º Será também considerado em estado de embriaguez e consequentemente sujeito às penalidades máximas fixadas neste diploma todo o condutor de veículos ou animais que se recuse a qualquer exame estabelecido para a determinação daquele estado.
+Art. 4.º Será também considerado em estado de embriaguez e consequentemente sujeito às penalidades máximas fixadas neste diploma todo o condutor de veículos ou animais que se recuse a qualquer exame estabelecido para a determinação daquele estado.
 
-###### Art. 5.º As Secretarias Regionais de Transportes e Turismo, de Assuntos Sociais e da Administração Pública emitirão as instruções necessárias ao modo de actuação das autoridades intervenientes, no campo de acção definido pela aplicação do presente diploma.
+Art. 5.º As Secretarias Regionais de Transportes e Turismo, de Assuntos Sociais e da Administração Pública emitirão as instruções necessárias ao modo de actuação das autoridades intervenientes, no campo de acção definido pela aplicação do presente diploma.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 22 de Junho de 1977.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Ponta Delgada, em 19 de Agosto de 1977.**
+Assinado em Ponta Delgada, em 19 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

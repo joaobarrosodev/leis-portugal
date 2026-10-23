@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15700/0562205626.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/874/2008/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/874-2008-455603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b16b405755f9b9b098af6925f2c46d89bb21d036a1e7108c731962b6cc0f8671
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9077155263a50e68149b19c935b84e5a0c895507eee792e1ff2ebd2e3c96f726
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,30 +68,30 @@ reuse:
 subjects:
 - Almada
 - Aveiro
+- Beja
 - Braga
+- Castelo Branco
+- Coimbra
 - Contencioso Administrativo
-- Lisboa
-- Pessoal de Justiça
+- Funchal
 - Juiz
 - Leiria
+- Lisboa
 - Loulé
 - Magistrado do Ministério Público
 - Magistrado Judicial
 - Mirandela
 - Penafiel
-- Beja
-- Funchal
-- Castelo Branco
+- Pessoal de Justiça
 - Ponta Delgada
-- Coimbra
+- Porto
 - Procurador da República
 - Quadro de Pessoal
 - Serviços Administrativos
 - Sintra
+- Tribunal
 - Tribunal Administrativo de Círculo
 - Tribunal Administrativo e Fiscal
-- Porto
-- Tribunal
 - Tribunal Tributário
 - Viseu
 relationships:
@@ -99,6 +99,19 @@ relationships:
   target: pt:dre:343907:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:243742:por
+  label: "Alterada para 14.04.2009 a data da instalação do Tribunal Administrativo e Fiscal de Aveiro, pela PORT.1553-B/2008.31.12.2008.MJ,\
+    \ DR.IS [252-3.ºSupl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1553-b-2008-243742
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:343907:por
+  label: "Prorrogado o funcionamento, pelo período de 1 ano e efeitos a 01.09.2010., dos Juízos Liquidatários dos Tribunais\
+    \ Administrativos e Fiscais do Porto, Coimbra e Sintra, instalados pelo presente diploma, pela PORT.816/2010.30.08.2010.MJ,\
+    \ DR.IS [168] de 30.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/816-2010-343907
+  date: '2010-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/182/2007/05/09/p/dre
   label: null
@@ -123,16 +136,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/2-b/2004/01/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/2-b/2004/01/05/p/dre
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520850:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107693729:por
+  label: Revogados o art. 1.º bem como os mapas I e II anexos pelo(a) Portaria n.º 211/2017 - Diário da República n.º 136/2017,
+    Série I de 2017-07-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/211-2017-107693729
+  date: '2017-07-17'
+- type: repealed_by
+  target: pt:dre:114913770:por
+  label: Revogada pelo(a) Portaria n.º 84/2018 - Diário da República n.º 61/2018, Série I de 2018-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/84-2018-114913770
+  date: '2018-03-27'
 article_structure:
   article_count: 6
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:59Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +243,7 @@ A presente portaria produz efeitos a partir de 1 de Agosto de 2008.
 
 Em 14 de Julho de 2008.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa.
 
 ## ANEXO — MAPA I
 
@@ -405,7 +453,7 @@ Quadros das secretarias e dos serviços de apoio dos tribunais administrativos e
 
 Tribunal Administrativo e Fiscal de Almada
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -435,7 +483,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Aveiro
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -465,7 +513,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Beja
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -493,7 +541,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Braga
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -523,7 +571,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Castelo Branco
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -551,7 +599,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Coimbra
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -581,7 +629,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal do Funchal
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -609,7 +657,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Leiria
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -639,7 +687,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo de Círculo de Lisboa
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -671,7 +719,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Tributário de Lisboa
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -701,7 +749,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Loulé
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -731,7 +779,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Mirandela
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -759,7 +807,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Penafiel
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -789,7 +837,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Ponta Delgada
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -817,7 +865,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal do Porto
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -849,7 +897,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Sintra
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 
@@ -881,7 +929,7 @@ Auxiliar de segurança - 1.
 
 Tribunal Administrativo e Fiscal de Viseu
 
-#### Secção Central e Secção de Processos
+Secção Central e Secção de Processos
 
 Categorias de pessoal:
 

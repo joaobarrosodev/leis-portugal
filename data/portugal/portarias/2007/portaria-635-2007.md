@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10400/35383541.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/635/2007/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/635-2007-638741
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c2bab91031190863d3a258e161e9da6ff42af3fec63f4d0b9af6d8ccf6d3a12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1724130ba6f4ff5b46205cad0dffa4b7907ca92c439a6b0219a79ac53d5d8aca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
 subjects:
 - Definição de Competências
 - Estatuto
-- Ministério do Trabalho e da Solidariedade Social
 - Instituto de Informática
+- Ministério do Trabalho e da Solidariedade Social
 relationships:
 - type: amended_by
   target: pt:dre:259952:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:617131:por
+  label: "Alterados os arts. 2º e 3º e aditados os arts. 3º-A e 3º-B aos Estatutos do Instituto de Informática, I. P., aprovados\
+    \ pelo presente diploma, pela PORT.1329-A/2010.30.12.2010.MFAP, DR.IS [252-Supl] de 30.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1329-a-2010-617131
+  date: '2010-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/2007/05/29/p/dre
   label: null
@@ -82,16 +88,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638542:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:259952:por
+  label: "Revogada pela PORT.138/2013.02.04.2013.MF, DR.IS [64] de 02.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/138-2013-259952
+  date: '2013-04-02'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:56Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +137,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 24 de Maio de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DE INFORMÁTICA, I. P.
 

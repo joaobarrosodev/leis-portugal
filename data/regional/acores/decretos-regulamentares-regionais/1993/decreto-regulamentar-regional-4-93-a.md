@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/1993/02/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1993-658216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4cb56c9e874d15ac1bcd38d3ae775226f3d54c4c4cc8d3491600212f60be84b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38aedec0a5f63daef63cc16fae26fb5caecdcdb784a5dc5ed8affaeb5fd3cd57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Angra do Heroísmo
-- Quadro de Pessoal
-- Estabelecimento Hospitalar
 - Açores
+- Angra do Heroísmo
+- Estabelecimento Hospitalar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:562616:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571185:por
+  label: "Alterado o quadro de pessoal, pelo DRR.19/96/A.1996.03.19.SRSSS-RAA, DR.IS-B [95] de 22/Abr/1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1996-571185
+  date: '1996-03-19'
+- type: amended_by
+  target: pt:dre:351700:por
+  label: "Alterado o quadro de pessoal pelo DRR.13/97/A.1997.04.23.SREAS-RAA DR.IS-B [126] DE 02/JUN/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1997-351700
+  date: '1997-04-23'
+- type: amended_by
+  target: pt:dre:582030:por
+  label: "Alterado o quadro de pessoal, e alterado pelos DRR 19/96/A de 22-Abr DR.IS-B [95] e DRR 13/97/A de 02-Jun DR.IS-B\
+    \ [126]), pelo DRR.22/2000/A.2000.07.27.SREAS-RAA, DR.IS-B [206] de 06/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2000-582030
+  date: '2000-07-27'
+- type: amended_by
+  target: pt:dre:580988:por
+  label: "Alterado o quadro de pessoal do Hospital de Santo Espírito de Angra do Heroísmo, aprovado pelo presente diploma\
+    \ com as alterações introduzidas pelos Decretos Regulamentares Regionais n.os 19/96/A, de 22 de Abril, 13/97/A, de 2 de\
+    \ Junho, e 22/2000/A, de 6 de Setembro, pelo DRR.3/2004/A.21.01.2004.PG-RAA, DR.IS-B [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2004-580988
+  date: '2004-01-21'
+- type: amended_by
+  target: pt:dre:505668:por
+  label: "Alterado o quadro de pessoal do Hospital de Santo Espírito de Angra do Heroísmo, aprovado pelo presente diploma,\
+    \ alterado pelo DRR 19/96/A, de 22-Abr, 13/97/A, de 02-Jun e 22/2000/A, de 06-Set, 3/2004/A, de 21-Jan e 28/2004/A, de\
+    \ 28-Jun (estes últimos não mencionados no diploma), pelo DRR.29/2004/A.08.06.2004.PG-RAA, DR.IS-B [170] de 21.07.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-2004-505668
+  date: '2004-06-08'
+- type: amended_by
+  target: pt:dre:525609:por
+  label: "Alterado quadro de pessoal do Hospital Santo Espírito de Angra do Heroísmo, aprovado pelo presente diploma, com\
+    \ as alterações introduzidas pelos DRR 19/96/A, de 22-Abr, 13/97/A, de 02-Jun, 22/2000/A, de 06-Set e 3/2004/A, de 21-Jan,\
+    \ pelo DRR.28/2004/A.28.06.2004.PG-RAA, DR.IS-B [169] de 20.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-2004-525609
+  date: '2004-06-28'
+- type: amended_by
+  target: pt:dre:626047:por
+  label: "Alterado o quadro de pessoal, aprovado pelo presente diploma, pelo DRR.33/2004/A.23.07.2004.PG-RAA, DR.IS-B [201]\
+    \ de 26.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-2004-626047
+  date: '2004-07-23'
+- type: amended_by
+  target: pt:dre:562616:por
+  label: "Alterado o quadro de pessoal do Hospital de Santo Espírito de Angra do Heroísmo, aprovado pelo presente diploma,\
+    \ pelo DRR.36/2004/A.29.09.2004.PG-RAA, DR.IS-B [250] de 23.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2004-562616
+  date: '2004-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/19/1992/04/28/a/dre
   label: null
@@ -86,16 +136,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/1992/02/01/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/1992/02/01/a/dre
+- type: cites
+  target: pt:dre:149826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663370:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:18Z'
   warnings: []
   errors: []
 ---
@@ -128,16 +214,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 9 de Dezembro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Janeiro de 1993.**
+Assinado em Angra do Heroísmo em 11 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Quadro de pessoal do Hospital de Angra do Heroísmo
 
 (a que se refere o artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/049b00/08560862.pdf))](https://files.diariodarepublica.pt/1s/1993/02/049b00/08560862.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/049b00/08560862.pdf)

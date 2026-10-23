@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1981-573917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c34c01cac8757221f718081ea9ced4bca72230812a863b48c69fbf09a803574
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d58684a1d72eda74cd18888b695c2f827a462a1aa5751fb32ea7750ae0d86282
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Estabelecimento Hospitalar
+- Horta
+- Ponta Delgada
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:227195:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391262:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:27Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +104,20 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aditado 1 lugar de escriturário-dactilógrafo principal, de 1.ª classe ou de 2.ª classe ao quadro de pessoal do Hospital de Angra do Heroísmo, anexo ao [Decreto Regulamentar Regional n.º 14/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1981-391262), de 24 de Fevereiro.
+Artigo 1.º É aditado 1 lugar de escriturário-dactilógrafo principal, de 1.ª classe ou de 2.ª classe ao quadro de pessoal do Hospital de Angra do Heroísmo, anexo ao [Decreto Regulamentar Regional n.º 14/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1981-391262), de 24 de Fevereiro.
 
-###### Art. 2.º São abatidos 60 lugares de enfermeiro de 1.ª classe ao quadro referido no artigo anterior.
+Art. 2.º São abatidos 60 lugares de enfermeiro de 1.ª classe ao quadro referido no artigo anterior.
 
-###### Art. 3.º É aditado 1 lugar de preparador de laboratório de preparações farmacêuticas de 1.ª classe, letra I, ao quadro de pessoal do Hospital da Horta, anexo ao diploma referido no artigo 1.º do presente decreto.
+Art. 3.º É aditado 1 lugar de preparador de laboratório de preparações farmacêuticas de 1.ª classe, letra I, ao quadro de pessoal do Hospital da Horta, anexo ao diploma referido no artigo 1.º do presente decreto.
 
-###### Art. 4.º É transferido para o grupo de pessoal dirigente o lugar de chefe de repartição constante do quadro de pessoal do Hospital de Ponta Delgada, anexo ao [Decreto Regulamentar Regional n.º 14/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1981-391262), de 24 de Fevereiro.
+Art. 4.º É transferido para o grupo de pessoal dirigente o lugar de chefe de repartição constante do quadro de pessoal do Hospital de Ponta Delgada, anexo ao [Decreto Regulamentar Regional n.º 14/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1981-391262), de 24 de Fevereiro.
 
 Aprovado pelo Governo Regional em 15 de Abril de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 7 de Maio de 1981.**
+Assinado em Angra do Heroísmo em 7 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

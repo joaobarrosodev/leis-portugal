@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/09/18300/0837508385.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2015/09/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2015-70325360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e58f71c729f28cefe9dc30b8b21556ef153351139699eff46ea469854606e00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fec5d720a7db1853846d307063419e26d94bf30ef7ae2d001250677ed86094c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,30 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Auditoria
-- Fiscal Único
-- ILHA Terceira
-- Pessoal Dirigente
-- Gestão Financeira
 - Conselho de Administração
+- Cuidados Médicos
 - Definição de Competências
-- Empresa Pública Regional
 - Empresa Pública
-- Gestão Administrativa
+- Empresa Pública Regional
+- Estabelecimento Hospitalar
 - Estatuto
-- Política de Saúde
+- Fiscal Único
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Gestão Hospitalar
 - Horta
 - Hospital de Santo Espírito
 - Hospital do Divino Espírito Santo
-- Orgânica
-- Ponta Delgada
-- Cuidados Médicos
-- Estabelecimento Hospitalar
+- ILHA Terceira
 - Inspecção Regional da Saúde
+- Orgânica
+- Pessoal Dirigente
+- Política de Saúde
+- Ponta Delgada
 - Serviço Regional de Saúde
-- Gestão de Recursos Humanos
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/
@@ -132,16 +132,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/7/2011/03/22/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/7/2011/03/22/a/dre
+- type: cites
+  target: pt:dre:246794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58661944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58661945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
 article_structure:
-  article_count: 57
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:01Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +248,7 @@ c) Hospital da Horta, EPER..
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/18300/0837508385.pdf))](https://files.diariodarepublica.pt/1s/2015/09/18300/0837508385.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/18300/0837508385.pdf)
 
 2 - Os artigos 1.º a 19.º e 21.º a 25.º do apêndice II, do Anexo I, do [Decreto Legislativo Regional n.º 2/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), de 24 de janeiro, passam a ter a seguinte redação:
 
@@ -214,17 +262,23 @@ c) Hospital da Horta, EPER..
 
 3 - O hospital EPER. é constituído por tempo indeterminado.
 
-###### Artigo 2.º — Objeto
+Artigo 2.º
+
+Objeto
 
 1 - O hospital EPER. tem por objeto principal a prestação de cuidados de saúde à população, designadamente aos beneficiários do Serviço Regional de Saúde e aos beneficiários dos subsistemas de saúde, ou de entidades externas que com ele contratualizem a prestação de cuidados de saúde, e a todos os cidadãos em geral.
 
 2 - O hospital EPER. também tem por objeto desenvolver atividades de investigação, formação e ensino, sendo a sua participação na formação de profissionais de saúde dependente da respetiva capacidade formativa, podendo ser objeto de contratos de gestão em que se definam as respetivas formas de financiamento.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 As atribuições do hospital EPER. constam dos seus regulamentos internos, são fixadas de acordo com a política de saúde e com os planos estratégicos superiormente aprovados e são desenvolvidas através de contratos de gestão, em articulação com as atribuições das demais instituições do sistema de saúde.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O capital estatutário do hospital EPER. é o fixado no apêndice I do regime que aprova os presentes estatutos.
 
@@ -232,7 +286,9 @@ As atribuições do hospital EPER. constam dos seus regulamentos internos, são 
 
 3 - Sem prejuízo do disposto na lei, os poderes da Região Autónoma dos Açores relativos ao hospital EPER. são exercidos pelos membros do Governo Regional competentes em razão da matéria, designadamente pelo membro do Governo Regional competente em matéria de finanças e ou pelo membro do Governo Regional competente em matéria de saúde.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 São órgãos do hospital EPER.:
 
@@ -242,7 +298,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O conselho de administração é composto pelo presidente e um máximo de seis vogais, em função da dimensão e complexidade do hospital EPER., sendo um deles, obrigatoriamente, o diretor clínico e outro o enfermeiro-diretor.
 
@@ -250,7 +308,9 @@ c) [...]
 
 3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, nos termos previstos no número anterior, permanecendo aqueles no exercício das suas funções até efetiva substituição.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -294,7 +354,9 @@ s) [...]
 
 3 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -310,7 +372,9 @@ e) [...]
 
 2 - [...]
 
-###### Artigo 9.º — Diretor clínico
+Artigo 9.º
+
+Diretor clínico
 
 Ao diretor clínico compete a direção de produção clínica do hospital EPER., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correção e prontidão dos cuidados de saúde prestados, designadamente:
 
@@ -336,7 +400,9 @@ j) [...]
 
 l) [...]
 
-###### Artigo 10.º — Enfermeiro-diretor
+Artigo 10.º
+
+Enfermeiro-diretor
 
 Compete ao enfermeiro-diretor a coordenação técnica da atividade de enfermagem do hospital EPER., velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, designadamente:
 
@@ -358,7 +424,9 @@ h) [...]
 
 i) [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -368,23 +436,31 @@ i) [...]
 
 4 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 O hospital EPER. obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 7.º
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Aos membros do conselho de administração aplica-se o regime previsto no Estatuto do Gestor Público Regional, sem prejuízo do disposto no artigo 23.º do Estatuto do Serviço Regional de Saúde.
 
 2 - A remuneração dos membros do conselho de administração do hospital EPER. é fixada nos termos previstos no Estatuto do Gestor Público Regional.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O Conselho de Administração pode ser dissolvido nos casos e nos termos previstos no Estatuto do Gestor Público Regional.
 
 2 - [Revogado.]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do hospital EPER..
 
@@ -396,7 +472,9 @@ O hospital EPER. obriga-se pela assinatura, com indicação da qualidade, de doi
 
 5 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -424,7 +502,9 @@ j) [...]
 
 l) Verificar se os critérios valorimétricos adotados pelo hospital EPER. conduzem a uma correta avaliação do património e dos resultados.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - No hospital EPER. deve existir um auditor com a devida qualificação ou experiência devidamente comprovada na área, designado por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde, a quem compete proceder ao controlo interno nos domínios contabilístico, financeiro, operacional, informático e de recursos humanos.
 
@@ -444,7 +524,9 @@ l) Verificar se os critérios valorimétricos adotados pelo hospital EPER. condu
 
 9 - A existência de auditor pode ser dispensada em função da reduzida dimensão e complexidade do hospital EPER., sempre que os membros do Governo Regional com competências em matéria de finanças e saúde o entendam conveniente.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - [...]
 
@@ -470,7 +552,9 @@ g) [...]
 
 5 - O exercício do cargo de membro do conselho consultivo não é remunerado, sendo as ajudas de custo a que houver lugar suportadas pelos organismos públicos que designaram os seus representantes e, nos restantes casos, suportadas pelo hospital EPER..
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 [...]
 
@@ -480,7 +564,9 @@ b) Apreciar as informações necessárias para o acompanhamento da atividade do 
 
 c) [...].
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -498,7 +584,9 @@ d) [...]
 
 4 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 A gestão financeira e patrimonial do hospital EPER. rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
 
@@ -516,7 +604,9 @@ f) [...]
 
 g) [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O hospital EPER. deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de:
 
@@ -536,11 +626,15 @@ b) As receitas provenientes de comparticipações, dotações, subsídios, subve
 
 5 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 O hospital EPER. segue o Plano Oficial de Contabilidade do Setor da Saúde, com as adaptações necessárias a estabelecer por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os instrumentos de prestação de contas do hospital EPER., a elaborar anualmente com referência a 31 de dezembro de cada ano, são, designadamente, os seguintes:
 
@@ -562,7 +656,9 @@ h) [...]
 
 i) [...]»
 
-###### Artigo 4.º — Aditamento ao [Decreto Legislativo Regional n.º 2/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), de 24 de janeiro
+Artigo 4.º
+
+Aditamento ao [Decreto Legislativo Regional n.º 2/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), de 24 de janeiro
 
 É aditado ao apêndice II, do Anexo I, do [Decreto Legislativo Regional n.º 2/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), de 24 de janeiro, o artigo 4.º-A:
 
@@ -574,51 +670,67 @@ Sede
 
 2 - A sede do hospital, EPER., é alterada por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.»
 
-###### Artigo 5.º — Norma revogatória
+Artigo 5.º
+
+Norma revogatória
 
 É revogado o n.º 2, do artigo 14.º, do apêndice II, do Anexo I, do [Decreto Legislativo Regional n.º 2/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), de 24 de janeiro.
 
-###### Artigo 6.º — Republicação
+Artigo 6.º
+
+Republicação
 
 1 - É republicado, como Anexo I, que faz parte integrante do presente Decreto Legislativo Regional, o apêndice I, do Anexo I, do [Decreto Legislativo Regional n.º 2/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), de 24 de janeiro, com a redação atual, e de acordo com a grafia do Acordo Ortográfico da Língua Portuguesa, aprovado pela [Resolução da Assembleia da República n.º 26/91](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-1991-403301), de 23 de agosto, na redação dada pela [Retificação n.º 19/91](https://diariodarepublica.pt/dr/detalhe/rectificacao/19-1991-331594), de 7 de novembro, e ratificado pelo [Decreto do Presidente da República n.º 43/91](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/43-1991-403300), de 23 de agosto.
 
 2 - É republicado, como Anexo II, que faz parte integrante do presente Decreto Legislativo Regional, o apêndice II, do Anexo I, do [Decreto Legislativo Regional n.º 2/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648), de 24 de janeiro, com a redação atual, e de acordo com a grafia do Acordo Ortográfico da Língua Portuguesa, aprovado pela [Resolução da Assembleia da República n.º 26/91](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/26-1991-403301), de 23 de agosto, na redação dada pela [Retificação n.º 19/91](https://diariodarepublica.pt/dr/detalhe/rectificacao/19-1991-331594), de 7 de novembro, e ratificado pelo [Decreto do Presidente da República n.º 43/91](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/43-1991-403300), de 23 de agosto.
 
-###### Artigo 7.º — Registos
+Artigo 7.º
+
+Registos
 
 O presente diploma constitui título bastante para todos os efeitos legais, designadamente os de registo.
 
-###### Artigo 8.º — Entrada em vigor
+Artigo 8.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de julho de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 18 de agosto de 2015.**
+Assinado em Angra do Heroísmo em 18 de agosto de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO I — (a que se refere o n.º 1 do artigo 6.º)
+ANEXO I
 
-## APÊNDICE I
+(a que se refere o n.º 1 do artigo 6.º)
+
+APÊNDICE I
 
 Especificidades estatutárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/09/18300/0837508385.pdf))](https://files.diariodarepublica.pt/1s/2015/09/18300/0837508385.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/09/18300/0837508385.pdf)
 
-## ANEXO II — (a que se refere o n.º 2 do artigo 6.º)
+ANEXO II
 
-## APÊNDICE II
+(a que se refere o n.º 2 do artigo 6.º)
+
+APÊNDICE II
 
 Estatutos
 
-### CAPÍTULO I — Princípios gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Natureza e duração
+Princípios gerais
+
+Artigo 1.º
+
+Natureza e duração
 
 1 - O hospital EPER. é uma pessoa coletiva de direito público de natureza empresarial dotada de autonomia administrativa, financeira e patrimonial, nos termos do Regime Jurídico do Setor Público Empresarial da Região Autónoma dos Açores, e do artigo 8.º-F do Estatuto do Serviço Regional de Saúde.
 
@@ -626,17 +738,23 @@ Estatutos
 
 3 - O hospital EPER. é constituído por tempo indeterminado.
 
-###### Artigo 2.º — Objeto
+Artigo 2.º
+
+Objeto
 
 1 - O hospital EPER. tem por objeto principal a prestação de cuidados de saúde à população, designadamente aos beneficiários do Serviço Regional de Saúde e aos beneficiários dos subsistemas de saúde, ou de entidades externas que com ele contratualizem a prestação de cuidados de saúde, e a todos os cidadãos em geral.
 
 2 - O hospital EPER. também tem por objeto desenvolver atividades de investigação, formação e ensino, sendo a sua participação na formação de profissionais de saúde dependente da respetiva capacidade formativa, podendo ser objeto de contratos de gestão em que se definam as respetivas formas de financiamento.
 
-###### Artigo 3.º — Atribuições
+Artigo 3.º
+
+Atribuições
 
 As atribuições do hospital EPER. constam dos seus regulamentos internos, são fixadas de acordo com a política de saúde e com os planos estratégicos superiormente aprovados e são desenvolvidas através de contratos de gestão, em articulação com as atribuições das demais instituições do sistema de saúde.
 
-###### Artigo 4.º — Capital estatutário
+Artigo 4.º
+
+Capital estatutário
 
 1 - O capital estatutário do hospital EPER. é o fixado no apêndice I do regime que aprova os presentes estatutos.
 
@@ -644,15 +762,21 @@ As atribuições do hospital EPER. constam dos seus regulamentos internos, são 
 
 3 - Sem prejuízo do disposto na lei, os poderes da Região Autónoma dos Açores relativos ao hospital EPER. são exercidos pelos membros do Governo Regional competentes em razão da matéria, designadamente pelo membro do Governo Regional competente em matéria de finanças e ou pelo membro do Governo Regional competente em matéria de saúde.
 
-###### Artigo 4.º-A — Sede
+Artigo 4.º-A
+
+Sede
 
 1 - A sede do hospital, EPER., é a fixada no apêndice I do regime que aprova os presentes estatutos.
 
 2 - A sede do hospital, EPER., é alterada por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
 
-### CAPÍTULO II — Órgãos sociais
+CAPÍTULO II
 
-###### Artigo 5.º — Órgãos
+Órgãos sociais
+
+Artigo 5.º
+
+Órgãos
 
 São órgãos do hospital EPER.:
 
@@ -662,9 +786,13 @@ b) O fiscal único;
 
 c) O conselho consultivo.
 
-#### SECÇÃO I — Conselho de administração
+SECÇÃO I
 
-###### Artigo 6.º — Composição e mandato
+Conselho de administração
+
+Artigo 6.º
+
+Composição e mandato
 
 1 - O conselho de administração é composto pelo presidente e um máximo de seis vogais, em função da dimensão e complexidade do hospital EPER., sendo um deles, obrigatoriamente, o diretor clínico e outro o enfermeiro-diretor.
 
@@ -672,7 +800,9 @@ c) O conselho consultivo.
 
 3 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, nos termos previstos no número anterior, permanecendo aqueles no exercício das suas funções até efetiva substituição.
 
-###### Artigo 7.º — Competências do conselho de administração
+Artigo 7.º
+
+Competências do conselho de administração
 
 1 - Compete ao conselho de administração garantir o cumprimento dos objetivos básicos, bem como o exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, e em especial:
 
@@ -716,7 +846,9 @@ s) Tomar as providências necessárias à conservação do património afeto ao 
 
 3 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal de direção e chefia, com exceção das previstas nas alíneas a) a j) do n.º 1, definindo em ata os limites e condições do seu exercício.
 
-###### Artigo 8.º — Presidente do conselho de administração
+Artigo 8.º
+
+Presidente do conselho de administração
 
 1 - Compete ao presidente do conselho de administração:
 
@@ -732,7 +864,9 @@ e) Exercer as competências que lhe sejam delegadas.
 
 2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado.
 
-###### Artigo 9.º — Diretor clínico
+Artigo 9.º
+
+Diretor clínico
 
 Ao diretor clínico compete a direção de produção clínica do hospital EPER., que compreende a coordenação da assistência prestada aos doentes e a qualidade, correção e prontidão dos cuidados de saúde prestados, designadamente:
 
@@ -758,7 +892,9 @@ j) Velar pela constante atualização do pessoal médico;
 
 l) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exercício da medicina e com a formação dos médicos.
 
-###### Artigo 10.º — Enfermeiro-diretor
+Artigo 10.º
+
+Enfermeiro-diretor
 
 Compete ao enfermeiro-diretor a coordenação técnica da atividade de enfermagem do hospital EPER., velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, designadamente:
 
@@ -780,7 +916,9 @@ h) Elaborar estudos para determinação de custos e benefícios no âmbito dos c
 
 i) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exercício da atividade de enfermagem e com a formação dos enfermeiros.
 
-###### Artigo 11.º — Funcionamento do conselho de administração
+Artigo 11.º
+
+Funcionamento do conselho de administração
 
 1 - O conselho de administração reúne, pelo menos, semanalmente e, ainda, sempre que convocado pelo presidente ou por solicitação de dois dos seus membros ou do fiscal único.
 
@@ -790,25 +928,35 @@ i) Acompanhar e avaliar sistematicamente outros aspetos relacionados com o exerc
 
 4 - Das reuniões do conselho de administração devem ser lavradas atas, a aprovar na reunião seguinte.
 
-###### Artigo 12.º — Vinculação
+Artigo 12.º
+
+Vinculação
 
 O hospital EPER. obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 7.º
 
-###### Artigo 13.º — Estatuto dos membros
+Artigo 13.º
+
+Estatuto dos membros
 
 1 - Aos membros do conselho de administração aplica-se o regime previsto no Estatuto do Gestor Público Regional, sem prejuízo do disposto no artigo 23.º do Estatuto do Serviço Regional de Saúde.
 
 2 - A remuneração dos membros do conselho de administração do hospital EPER. é fixada nos termos previstos no Estatuto do Gestor Público Regional.
 
-###### Artigo 14.º — Dissolução do conselho de administração
+Artigo 14.º
+
+Dissolução do conselho de administração
 
 1 - O Conselho de Administração pode ser dissolvido nos casos e nos termos previstos no Estatuto do Gestor Público Regional.
 
 2 - [Revogado.]
 
-#### SECÇÃO II — Fiscal único
+SECÇÃO II
 
-###### Artigo 15.º — Fiscal único
+Fiscal único
+
+Artigo 15.º
+
+Fiscal único
 
 1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do hospital EPER..
 
@@ -820,7 +968,9 @@ O hospital EPER. obriga-se pela assinatura, com indicação da qualidade, de doi
 
 5 - A remuneração do fiscal único é fixada por despacho conjunto dos membros do Governo Regional com competências em matéria de finanças e saúde.
 
-###### Artigo 16.º — Competências
+Artigo 16.º
+
+Competências
 
 1 - O fiscal único tem as competências, os poderes e os deveres estabelecidos na lei e nestes estatutos.
 
@@ -848,9 +998,13 @@ j) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de admini
 
 l) Verificar se os critérios valorimétricos adotados pelo hospital EPER. conduzem a uma correta avaliação do património e dos resultados.
 
-#### SECÇÃO III — Auditor
+SECÇÃO III
 
-###### Artigo 17.º — Auditor
+Auditor
+
+Artigo 17.º
+
+Auditor
 
 1 - No hospital EPER. deve existir um auditor com a devida qualificação ou experiência devidamente comprovada na área, designado por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde, a quem compete proceder ao controlo interno nos domínios contabilístico, financeiro, operacional, informático e de recursos humanos.
 
@@ -870,9 +1024,13 @@ l) Verificar se os critérios valorimétricos adotados pelo hospital EPER. condu
 
 9 - A existência de auditor pode ser dispensada em função da reduzida dimensão e complexidade do hospital EPER., sempre que os membros do Governo Regional com competências em matéria de finanças e saúde o entendam conveniente.
 
-#### SECÇÃO IV — Conselho consultivo
+SECÇÃO IV
 
-###### Artigo 18.º — Composição do conselho consultivo
+Conselho consultivo
+
+Artigo 18.º
+
+Composição do conselho consultivo
 
 1 - O conselho consultivo tem a seguinte composição:
 
@@ -898,7 +1056,9 @@ g) Um representante da estrutura responsável pelo planeamento e gestão do sist
 
 5 - O exercício do cargo de membro do conselho consultivo não é remunerado, sendo as ajudas de custo a que houver lugar suportadas pelos organismos públicos que designaram os seus representantes e, nos restantes casos, suportadas pelo hospital EPER..
 
-###### Artigo 19.º — Competências do conselho consultivo
+Artigo 19.º
+
+Competências do conselho consultivo
 
 Compete ao conselho consultivo:
 
@@ -908,7 +1068,9 @@ b) Apreciar as informações necessárias para o acompanhamento da atividade do 
 
 c) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a prestar às populações, tendo em conta os recursos disponíveis.
 
-###### Artigo 20.º — Funcionamento do conselho consultivo
+Artigo 20.º
+
+Funcionamento do conselho consultivo
 
 1 - O conselho consultivo reúne, pelo menos, uma vez por ano e as suas deliberações são tomadas por maioria simples e constam de ata, tendo o presidente voto de qualidade.
 
@@ -918,9 +1080,13 @@ c) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a 
 
 4 - As demais regras de funcionamento do conselho consultivo são definidas em regulamento próprio, o qual deve incluir a previsão da substituição dos seus membros em situações de falta ou impedimento.
 
-#### SECÇÃO V — Comissões de apoio técnico
+SECÇÃO V
 
-###### Artigo 21.º — Comissões de apoio técnico
+Comissões de apoio técnico
+
+Artigo 21.º
+
+Comissões de apoio técnico
 
 1 - As comissões de apoio técnico são órgãos de carácter consultivo que têm por função colaborar com o conselho de administração, por sua iniciativa ou a pedido daquele, nas matérias da sua competência.
 
@@ -938,9 +1104,13 @@ d) Farmácia e terapêutica.
 
 4 - Compete ao conselho de administração, sob proposta do diretor clínico, a designação do presidente e dos membros das comissões de apoio técnico.
 
-### CAPÍTULO III — Avaliação, controlo e prestação de contas
+CAPÍTULO III
 
-###### Artigo 22.º — Instrumentos de gestão previsional
+Avaliação, controlo e prestação de contas
+
+Artigo 22.º
+
+Instrumentos de gestão previsional
 
 A gestão financeira e patrimonial do hospital EPER. rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:
 
@@ -958,7 +1128,9 @@ f) Contratos de gestão externos;
 
 g) Contratos-programa internos.
 
-###### Artigo 23.º — Reservas e fundos
+Artigo 23.º
+
+Reservas e fundos
 
 1 - O hospital EPER. deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de:
 
@@ -978,11 +1150,15 @@ b) As receitas provenientes de comparticipações, dotações, subsídios, subve
 
 5 - Sem prejuízo da constituição das reservas referidas no n.º 1, os resultados de cada exercício têm o destino que venha a ser determinado por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
 
-###### Artigo 24.º — Contabilidade
+Artigo 24.º
+
+Contabilidade
 
 O hospital EPER. segue o Plano Oficial de Contabilidade do Setor da Saúde, com as adaptações necessárias a estabelecer por despacho conjunto dos membros do Governo Regional com competências em matérias de finanças e saúde.
 
-###### Artigo 25.º — Documentos de prestação de contas
+Artigo 25.º
+
+Documentos de prestação de contas
 
 Os instrumentos de prestação de contas do hospital EPER., a elaborar anualmente com referência a 31 de dezembro de cada ano, são, designadamente, os seguintes:
 

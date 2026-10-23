@@ -21,15 +21,13 @@ publication:
   reference: Diário da República n.º 90/2008, 1º Suplemento, Série I de 2008-05-09
   number: '90'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2516-(2) a 2516-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/09001/0000200006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -50,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/357-a/2008/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/357-a-2008-618169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9645451a5ce9fd612f690316f974b298b3e827418792451e717f9ac946381d1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0e72a75be4eec494fdcfa37cd1fe80611cb3f908319e2ac31e05cdcf304cfa0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +67,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
 - Atividade Agrícola
-- Proder
-- Financiamento
 - Beneficiário
-- Formação Profissional
 - Desenvolvimento Rural
 - Direcção Regional de Agricultura e Pescas
-- Apoio ao Investimento
+- Exploração Agrícola
+- Financiamento
+- Formação Profissional
 - IFAP
 - Jovem Agricultor
-- Exploração Agrícola
 - Pessoa Coletiva
+- Proder
 - Qualificação Profissional
 - Regulamento
 - Sociedade por Quotas
@@ -91,6 +89,57 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:315340:por
+  label: "Alterada a alínea a) do n.º 2 do artigo 9.º e o anexo III, pela PORT.496-A/2008.23.06.2008.MADRP, DR.IS [119]Supl\
+    \ de 23.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/496-a-2008-315340
+  date: '2008-06-23'
+- type: amended_by
+  target: pt:dre:198293:por
+  label: "Aditada a al. c) ao n.º 2 do art. 9.º do Regulamento aprovado pelo presente diploma, pela PORT.1229-A/2008.27.10.2008.MADRP,\
+    \ DR.IS [208-Supl] de 27.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1229-a-2008-198293
+  date: '2008-10-27'
+- type: amended_by
+  target: pt:dre:494776:por
+  label: "Alterados, a partir de 19.06.2009, os arts. 10º, 13º e 14º do Regulamento anexo ao presnete diploma pela PORT.666/2009.18.06.2009.MADRP,\
+    \ DR.IS [116] de 18.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/666-2009-494776
+  date: '2009-06-18'
+- type: amended_by
+  target: pt:dre:491192:por
+  label: "Dá nova redacção à al. d) do art. 3º (com efeitos a partir de 10.05.2008), à al. a) do art. 4º, e ao nº 1 do art.\
+    \ 9º do Regulamento de Aplicação da Acção n.º 1.1.3, «Instalação de Jovens Agricultores» pela PORT.1162/2009.02.10.2009.MADRP,\
+    \ DR.IS [192] de 02.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1162-2009-491192
+  date: '2009-10-02'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 6º, 8º, 10º (este último na redacção da Port 666/2009), e 11º e revogados a al. d) do nº1 do\
+    \ art. 5º, o art. 16º e o nº iii do anexo II do Regulamento aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP,\
+    \ DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:287108:por
+  label: "Dada nova redacção aos arts. 1º a 15º (o art. 3º alterado pela Port 1162/2009 de 02-Out; o art. 4º alterado pela\
+    \ Port 1162/2009 de 02-Out; os arts. 6º e 8º alterados pela Port 814/2010 de 27-Ago; o art. 9º alterado pelas Port 496-A/2008,\
+    \ de 23-Jun, 1129-A/2008 de 27-Out e 1162/2009 de 02-Out; o art. 10º alterado pelas Port 666/2009 de 18-Jun e 814/2010\
+    \ de 27-Ago; o art. 11º alterado pela Port 814/2010 de 27-Ago; os arts. 13º e 14º alterados pela Port 666/2009 de 18-Jun),\
+    \ e aos anexos I a III (os anexos II e III, alterados, respectivamente, pelas Port 814/2010 de 27-Ago e 496-A/2008 de\
+    \ 23-Jun), todos do Regulamento de Aplicação da Acção nº 1.1.3, «Instalação de Jovens Agricultores, ao qual são aditados\
+    \ os arts. 17º a 23º e o anexo IV, tudo pela PORT.184/2011.05.05.2011.MADRP, DR.IS [87] de 05.05.2011, que procedeu à\
+    \ republicação do referido regulamento.\0ento.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-2011-287108
+  date: '2011-05-05'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo II (alterado pelas Port 814/2010 de 27-ago e 184/2011 de 05-mai); e revogado, com efeitos\
+    \ a 28.08.2010, o n.º 24, do quadro «despesas não elegíveis», do mesmo anexo II do Regulamento de Aplicação da Ação n.º\
+    \ 1.1.3, «Instalação de Jovens Agricultores» pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32006R1975
   label: null
@@ -98,13 +147,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:51Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +194,7 @@ c) Anexo III, relativo ao cálculo da valia dos jovens agricultores.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Maio de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 8 de Maio de 2008.
 
 ## ANEXO
 

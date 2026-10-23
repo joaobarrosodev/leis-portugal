@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/10/233b00/35243525.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/43/1996/10/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-1996-232972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a73d52df73d4e909f9d6e14f55d42f2d3682182c5f93786e55e7f07d42d8a126
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d40134e80e78302bdf5b819fd24f1756a0d06b3bbc966bf7fe389d00be4315aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aposentação
-- Quadro de Pessoal
-- Instituto de Acção Social
 - Açores
+- Aposentação
+- Instituto de Acção Social
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:411855:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216323:por
+  label: "Substituído o quadro de pessoal do Instituto de Acção Social, na redacção do presente diploma pelo DRR.28/98/A.1998.11.03.PG-RAA\
+    \ DR.IS-B [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-1998-216323
+  date: '1998-11-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
@@ -86,16 +92,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/7/1992/02/06/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/7/1992/02/06/a/dre
+- type: cites
+  target: pt:dre:152496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573284:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:411855:por
+  label: "Revogado pelo DRR.10/2000/A.2000.02.18.PG-RAA,DR.IS-B [62] de 14/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2000-411855
+  date: '2000-02-18'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:43Z'
   warnings: []
   errors: []
 ---
@@ -118,12 +149,12 @@ A extinção de lugares resultante das alterações introduzidas pelo presente d
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 7 de Agosto de 1996.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 16 de Setembro de 1996.**
+Assinado em Angra do Heroísmo em 16 de Setembro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/233b00/35243525.pdf))](https://files.diariodarepublica.pt/1s/1996/10/233b00/35243525.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/10/233b00/35243525.pdf)

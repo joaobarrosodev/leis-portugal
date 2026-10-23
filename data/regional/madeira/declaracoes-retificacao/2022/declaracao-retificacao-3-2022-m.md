@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/07/13400/0001200012.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declretif/3/2022/07/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/3-2022-186029191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 637ee64ef4efe82e1130ad569dc51cb75d3ded4273ffa41b2223207bfa7af637
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1af3029534ff75c6e58c0cfa8c2b3e3d2b9f406edadecfbb8f457261b81383d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Desporto
-- Rectificação de Entidade Emitente
+- Administração Regional
 - Instituto Português do Desporto e Juventude
 - Madeira.região Autónoma
-- Administração Regional
+- Rectificação de Entidade Emitente
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/12/2022/05/30/m/dre
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39/2012/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39/2012/08/28/p/dre
+- type: cites
+  target: pt:dre:174777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184108568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424723:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:25Z'
   warnings: []
   errors: []
 ---
@@ -123,3 +135,5 @@ deve ler-se:
 «Os responsáveis técnicos com inscrição válida ao abrigo da [Lei n.º 39/2012](https://diariodarepublica.pt/dr/detalhe/lei/39-2012-174777), de 28 de agosto, que não cumpram os requisitos elencados no número anterior, devem requerer ao serviço da administração pública regional que prossegue as atribuições do setor do desporto, no prazo máximo de 90 dias a contar da entrada em vigor do presente diploma, a emissão de um título provisório para o exercício de funções de TEF, válido por um ano e prorrogável no máximo até três anos, desde que demonstrada a frequência de formação tendente à regularização da sua formação nos termos do número anterior.»
 
 Assembleia Legislativa da Região Autónoma da Madeira, em 8 de julho de 2022. - O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.
+
+115504731

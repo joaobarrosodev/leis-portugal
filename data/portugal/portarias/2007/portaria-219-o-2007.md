@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 42/2007, 1º Suplemento, Série I de 2007-02-28
   number: '42'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1414-(21) a 1414-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04201/00210022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/219-o/2007/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-o-2007-470064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 546f1c1e6fdb23c797ef08c998f04556d0a4386cc5f5b85d5d04297be17d5730
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed998517d6735d7d9198b9d9745f29481e3783a3f6a694a0be4c019b974ef3c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:518859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453542:por
+  label: "Revogada, a partir de 01.09.2008, pela PORT.961/2008.26.08.2008.MADRP, DR.IS [164] de 26.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/961-2008-453542
+  date: '2008-08-26'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:03Z'
   warnings: []
   errors: []
 ---
@@ -126,8 +139,8 @@ c) 15 divisões nos núcleos florestais.
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Fevereiro de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Fevereiro de 2007.
 
 ## ANEXO — (mapa a que se refere o n.º 3 do artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/04201/00210022.pdf))](https://files.diariodarepublica.pt/1s/2007/02/04201/00210022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/04201/00210022.pdf)

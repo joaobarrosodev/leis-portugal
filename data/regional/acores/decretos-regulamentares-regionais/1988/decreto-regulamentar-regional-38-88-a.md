@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/23200/40884088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/38-1988-354762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a095ef822c85c07884edb18371a2cb96bc089464413a1be6f4ee309f34ce8ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 015f65cc27365891b395acd274ba1caa1d116fca7fd4c4a18f24dfd80c129a5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:571233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:496742:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571233:por
+  label: "Revogado, a partir de 08.05.1990, na parte relativa ao Gabinete Técnico, à Direcção Regional de Turismo, às Delegações\
+    \ de Turismo e à Repartição dos Serviços Administrativos, o DRR 31/87/A de 18-Nov, com as alterações decorrentes do presente\
+    \ diploma, pelo DRR.17/90/A.08.05.1990.GR-RAA, DR.IS [105] de 08.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1990-571233
+  date: '1990-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:07Z'
   warnings: []
   errors: []
 ---
@@ -94,22 +107,22 @@ Considerando, por último, de elementar justiça regularizar situações, e não
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro de pessoal a que se refere o n.º 1 do artigo 1.º do [Decreto Regulamentar Regional n.º 31/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1987-496742), de 18 de Novembro, é alterado nos termos do quadro anexo ao presente diploma.
+Artigo 1.º O quadro de pessoal a que se refere o n.º 1 do artigo 1.º do [Decreto Regulamentar Regional n.º 31/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1987-496742), de 18 de Novembro, é alterado nos termos do quadro anexo ao presente diploma.
 
-###### Art. 2.º É aditado ao [Decreto Regulamentar Regional n.º 31/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1987-496742), de 18 de Novembro, o artigo 15.º-A, com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto Regulamentar Regional n.º 31/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1987-496742), de 18 de Novembro, o artigo 15.º-A, com a seguinte redacção:
 
-###### Art. 15.º-A. O pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário do respectivo serviço e que conte mais de três anos de serviço ininterrupto e que foi admitido com observância dos requisitos habilitacionais pode ser integrado directamente em lugares do quadro, em categoria correspondente às funções que actualmente desempenha.
+Art. 15.º-A. O pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário do respectivo serviço e que conte mais de três anos de serviço ininterrupto e que foi admitido com observância dos requisitos habilitacionais pode ser integrado directamente em lugares do quadro, em categoria correspondente às funções que actualmente desempenha.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 28 de Julho de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 31 de Agosto de 1988.**
+Assinado em Angra do Heroísmo em 31 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 Quadro de pessoal a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/23200/40884088.pdf))](https://files.diariodarepublica.pt/1s/1988/10/23200/40884088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/23200/40884088.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2011/03/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2011-278177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ee1b55c3e06aa9fc6c259f4df760602efdb6b03fdbbc867252f28b6c6f5e95d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a2aa31fb99af903d3b3f868db1eab21fa95dd628366a53d58486749411c7152
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,50 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Alienação de Participação Social
 - Aquisição de Bens e Serviços
 - Aquisição de Imóveis
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
-- Subsídio de Disponibilidade Permanente
+- Banca
+- Cobrança de Dívidas
 - Contenção de Despesas
 - Contrato Programa
 - Cooperação Financeira
 - Cooperação Técnica
 - Derrama
+- Direcção Geral das Contribuições e Impostos
 - Direcção Regional de Orçamento e Contabilidade
 - Direcção Regional do Património
+- Direcção Regional dos Assuntos Fiscais
 - Dívida
 - Dívida Pública
 - Empréstimo
 - Feader
-- Administração Pública
-- Setor Empresarial do Estado
-- Habitação Social
-- Fundo de Gestão para os Programas da Formação Profissional
-- Recrutamento de Pessoal
-- Instituto de Habitação da Região Autónoma da Madeira
-- IRS
-- Indemnização Compensatória
-- Banca
 - Finanças Regionais
+- Financiamento
 - FSE
 - Fundo de Gestão dos Programas da DRP
-- Patriram
+- Fundo de Gestão para os Programas da Formação Profissional
+- Habitação Social
+- Indemnização Compensatória
+- Instituto de Habitação da Região Autónoma da Madeira
+- IRC
+- IRS
+- Madeira.região Autónoma
 - Oneração de Imóveis
 - Orçamento Regional
-- IRC
-- Madeira.região Autónoma
+- Patriram
 - Receita
-- Cobrança de Dívidas
+- Recrutamento de Pessoal
 - Remuneração
 - Responsabilidade Civil
 - Responsabilidade Extracontratual
-- Direcção Regional dos Assuntos Fiscais
 - Secretário Regional do Ambiente e Recursos Naturais
-- Direcção Geral das Contribuições e Impostos
+- Setor Empresarial do Estado
 - Subsídio
+- Subsídio de Disponibilidade Permanente
 - Subsídio de Fixação
 - Subsídio de Insularidade
 - Subsídio de Penosidade e Risco
@@ -122,6 +122,18 @@ relationships:
   target: pt:dre:189511:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669867:por
+  label: "Alterado o art. 41º do DLR 2/2011/M, de 10-Jan, na redacção do presente diploma, pelo DLR.13/2011/M.05.08.2011.AL-RAM,\
+    \ DR.IS [150] de 05.08.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2011-669867
+  date: '2011-08-05'
+- type: amended_by
+  target: pt:dre:189511:por
+  label: "Mantido em vigor o nº 5 do art. 54º do DLR 2/2011/M de 10-jan, na redação do presente diploma pelo DLR.42/2012/M.31.12.2012.AL-RAM,\
+    \ DR.IS [252] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/2011/01/10/m/dre
   label: null
@@ -150,16 +162,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1553-d/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1553-d/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:26Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +228,9 @@ Transferências e apoios para entidades de direito privado
 
 5 - O disposto nos números anteriores prevalece sobre todas as disposições legais, gerais ou especiais em contrário.
 
-###### Artigo 54.º — Contenção e redução de despesa no sector empresarial da Região Autónoma da Madeira
+Artigo 54.º
+
+Contenção e redução de despesa no sector empresarial da Região Autónoma da Madeira
 
 1 - ...
 
@@ -210,10 +252,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de Fevereiro de 2011.
 
-**O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 25 de Fevereiro de 2011.**
+Assinado em 25 de Fevereiro de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

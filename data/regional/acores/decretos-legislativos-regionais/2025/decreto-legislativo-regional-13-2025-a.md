@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05800/0005400068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2025/03/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1430d3ba19040f161fc7c57782b942be3e298a64435916ff04f7e9c22147e0be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 657ebd8c0575acaf564efc55e5320a1306fd86b636d49a325295745f404a7c88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Governo Regional
+- Açores
 - Contra-ordenação
+- Governo Regional
 - Inspecção de Veículos
-- Veículo
+- Multa
 - Preço
 - Regime Jurídico
-- Açores
+- Veículo
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:18/2004/A
+  label: Altera, a partir de 25 de março de 2025, os artigos 9.º e 14.º e os anexos i e ii, adita os artigos 6.º-B e 12.º-A,
+    e revoga o artigo 9.º e a alínea a) do n.º 1 do artigo 14.º do Decreto Legislativo Regional n.º 18/2004/A, de 13 de maio,
+    Diário da República n.º 112/2004, Série I-A, que republica
+  source: null
+  date: '2004-05-13'
 - type: cites
   target: celex:32014L0045
   label: null
@@ -113,27 +120,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/40/2006/10/31/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/40/2006/10/31/a/dre
+- type: cites
+  target: pt:dre:179784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212591472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:450666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835994081:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:16Z'
   warnings: []
   errors: []
 ---
 
 # Decreto Legislativo Regional n.º 13/2025/A
 
-Segunda alteração ao [Decreto Legislativo Regional n.º 18/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2004-268646), de 13 de maio, que adapta à Região Autónoma dos Açores os Decretos-Leis n.<sup>os</sup> [550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de dezembro, e [554/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1999-655681), de 16 de dezembro, que, respetivamente, estabelecem o regime jurídico da atividade de inspeção técnica de veículos a motor e seus reboques e o regime jurídico das inspeções técnicas de automóveis ligeiros, pesados e reboques.
+Segunda alteração ao [Decreto Legislativo Regional n.º 18/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2004-268646), de 13 de maio, que adapta à Região Autónoma dos Açores os Decretos-Leis n.os [550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de dezembro, e [554/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1999-655681), de 16 de dezembro, que, respetivamente, estabelecem o regime jurídico da atividade de inspeção técnica de veículos a motor e seus reboques e o regime jurídico das inspeções técnicas de automóveis ligeiros, pesados e reboques.
 
 O [Decreto Legislativo Regional n.º 18/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2004-268646), de 13 de maio, na redação que foi conferida pelo [Decreto Legislativo Regional n.º 40/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2006-546001), de 31 de outubro, estabeleceu a obrigatoriedade de inspeção periódica dos motociclos, independentemente da respetiva cilindrada, quatro anos após a data da primeira matrícula e, em seguida, anualmente.
 
-Através do [Decreto-Lei n.º 29/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472), de 5 de maio, procedeu-se à adequação do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, na sua redação atual, à [Diretiva 2014/45/UE](https://data.europa.eu/eli/dir/2014/45/oj?locale=pt), do Parlamento Europeu e do Conselho, de 3 de abril de 2014, bem como à transposição da Diretiva Delegada (UE) [2021/1717](https://data.europa.eu/eli/dir/2021/1717/oj?locale=pt), da Comissão, de 9 de julho de 2021, no que diz respeito à atualização de determinadas designações de categorias de veículos, sujeitando a inspeção os motociclos, triciclos e quadriciclos, equipados com um motor de combustão com uma cilindrada superior a 125 cm<sup>3</sup>, com uma periodicidade de cinco anos após a data da primeira matrícula e, em seguida, de dois em dois anos.
+Através do [Decreto-Lei n.º 29/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472), de 5 de maio, procedeu-se à adequação do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, na sua redação atual, à [Diretiva 2014/45/UE](https://data.europa.eu/eli/dir/2014/45/oj?locale=pt), do Parlamento Europeu e do Conselho, de 3 de abril de 2014, bem como à transposição da Diretiva Delegada (UE) [2021/1717](https://data.europa.eu/eli/dir/2021/1717/oj?locale=pt), da Comissão, de 9 de julho de 2021, no que diz respeito à atualização de determinadas designações de categorias de veículos, sujeitando a inspeção os motociclos, triciclos e quadriciclos, equipados com um motor de combustão com uma cilindrada superior a 125 cm3, com uma periodicidade de cinco anos após a data da primeira matrícula e, em seguida, de dois em dois anos.
 
 Tal obrigatoriedade, inicialmente prevista para produzir efeitos a partir do dia 1 de janeiro de 2024, foi adiada por um ano, conforme disposto no [Decreto-Lei n.º 139-E/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-e-2023-835994081), de 29 de dezembro, que altera os regimes jurídicos da atividade de inspeção técnica de veículos a motor e seus reboques e de funcionamento dos centros de inspeção.
 
@@ -147,7 +186,7 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos te
 
 ###### Artigo 1.º — Objeto
 
-O presente diploma procede à segunda alteração ao [Decreto Legislativo Regional n.º 18/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2004-268646), de 13 de maio, alterado pelo [Decreto Legislativo Regional n.º 40/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2006-546001), de 31 de outubro, que adapta à Região Autónoma dos Açores os Decretos-Leis n.<sup>os</sup>[550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de dezembro, e [554/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1999-655681), de 16 de dezembro, que, respetivamente, estabelecem o regime jurídico da atividade de inspeção técnica de veículos a motor e seus reboques e o regime jurídico das inspeções técnicas de automóveis ligeiros, pesados e reboques.
+O presente diploma procede à segunda alteração ao [Decreto Legislativo Regional n.º 18/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2004-268646), de 13 de maio, alterado pelo [Decreto Legislativo Regional n.º 40/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2006-546001), de 31 de outubro, que adapta à Região Autónoma dos Açores os Decretos-Leis n.os[550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de dezembro, e [554/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1999-655681), de 16 de dezembro, que, respetivamente, estabelecem o regime jurídico da atividade de inspeção técnica de veículos a motor e seus reboques e o regime jurídico das inspeções técnicas de automóveis ligeiros, pesados e reboques.
 
 ###### Artigo 2.º — Alteração ao [Decreto Legislativo Regional n.º 18/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2004-268646), de 13 de maio
 
@@ -159,7 +198,9 @@ O presente diploma procede à segunda alteração ao [Decreto Legislativo Region
 
 (Revogado.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - [...]
 
@@ -193,74 +234,76 @@ Veículos sujeitos a inspeção
 | --- | --- |
 | Tratores agrícolas e seus reboques, independentemente do seu peso bruto | Quatro anos após a data da primeira matrícula e, em seguida, anualmente |
 
-## ANEXO II — Pontos de controlo obrigatório aos veículos constantes do anexo i
+ANEXO II
+
+Pontos de controlo obrigatório aos veículos constantes do anexo i
 
 (a que se refere o artigo 7.º)
 
 Tratores agrícolas e seus reboques
 
-| Pontos a controlar | Razões da não aprovação | Razões da não aprovação |
+| Pontos a controlar | Razões da não aprovação |  |
 | --- | --- | --- |
 | 1 - Dispositivos de travagem: |  |  |
 | 1.1 - Estado mecânico e funcionamento: |  |  |
-| 1.1.1 - Cabos dos travões e comandos | Cabos/comandos danificadosDesgaste ou corrosão excessivosLigações dos cabos ou dos tirantes insegurasQuaisquer entraves ao movimento livre do dispositivo de travagemCurso excessivo no pedal ou reserva insuficiente (trator)Folgas transversais no pedal do travão (trator) | Cabos/comandos danificadosDesgaste ou corrosão excessivosLigações dos cabos ou dos tirantes insegurasQuaisquer entraves ao movimento livre do dispositivo de travagemCurso excessivo no pedal ou reserva insuficiente (trator)Folgas transversais no pedal do travão (trator) |
-| 1.1.2 - Comportamento funcional | Travagem não modulável/ocorrência de bloqueamento (trator)Inexistência de variação gradual do esforço de travagem - trepidação (trator)Recuperação insuficiente após atuação (trator)Pedal do travão com superfície antiescorregamento inexistente, mal fixa ou gasta (trator)Travão de estacionamento com mau desempenho, bloqueio insuficiente ou curso longo | Travagem não modulável/ocorrência de bloqueamento (trator)Inexistência de variação gradual do esforço de travagem - trepidação (trator)Recuperação insuficiente após atuação (trator)Pedal do travão com superfície antiescorregamento inexistente, mal fixa ou gasta (trator)Travão de estacionamento com mau desempenho, bloqueio insuficiente ou curso longo |
-| 1.1.3 - Eficiência | Relação de travagem relacionada com a massa máxima autorizada inferior a 50 % (trator ou desacelerógrafo)Translação excessiva do veículo em teste de estrada | Relação de travagem relacionada com a massa máxima autorizada inferior a 50 % (trator ou desacelerógrafo)Translação excessiva do veículo em teste de estrada |
-| 1.1.4 - Unidades de assistência à travagem | Bomba central (se existir) com fugas ou má fixaçãoInsuficiência de fluido ou falta de tampa do reservatório | Bomba central (se existir) com fugas ou má fixaçãoInsuficiência de fluido ou falta de tampa do reservatório |
-| 1.1.5 - Cintas, discos e calços dos travões | Desgaste excessivo das cintasTambores (se acessíveis) com desgaste excessivoAtacados por óleo, gorduras, etc.Riscos e fissuras nos discos | Desgaste excessivo das cintasTambores (se acessíveis) com desgaste excessivoAtacados por óleo, gorduras, etc.Riscos e fissuras nos discos |
-| 1.1.6 - Sistema de acoplamento de travões (trator/reboque) | Torneiras ou válvulas deficientes, estanquidade nos acoplamentos insuficiente e montagem deficiente | Torneiras ou válvulas deficientes, estanquidade nos acoplamentos insuficiente e montagem deficiente |
+| 1.1.1 - Cabos dos travões e comandos | Cabos/comandos danificadosDesgaste ou corrosão excessivosLigações dos cabos ou dos tirantes insegurasQuaisquer entraves ao movimento livre do dispositivo de travagemCurso excessivo no pedal ou reserva insuficiente (trator)Folgas transversais no pedal do travão (trator) |  |
+| 1.1.2 - Comportamento funcional | Travagem não modulável/ocorrência de bloqueamento (trator)Inexistência de variação gradual do esforço de travagem - trepidação (trator)Recuperação insuficiente após atuação (trator)Pedal do travão com superfície antiescorregamento inexistente, mal fixa ou gasta (trator)Travão de estacionamento com mau desempenho, bloqueio insuficiente ou curso longo |  |
+| 1.1.3 - Eficiência | Relação de travagem relacionada com a massa máxima autorizada inferior a 50 % (trator ou desacelerógrafo)Translação excessiva do veículo em teste de estrada |  |
+| 1.1.4 - Unidades de assistência à travagem | Bomba central (se existir) com fugas ou má fixaçãoInsuficiência de fluido ou falta de tampa do reservatório |  |
+| 1.1.5 - Cintas, discos e calços dos travões | Desgaste excessivo das cintasTambores (se acessíveis) com desgaste excessivoAtacados por óleo, gorduras, etc.Riscos e fissuras nos discos |  |
+| 1.1.6 - Sistema de acoplamento de travões (trator/reboque) | Torneiras ou válvulas deficientes, estanquidade nos acoplamentos insuficiente e montagem deficiente |  |
 | 2 - Direção: |  |  |
-| 2.1 - Volante/coluna (trator) | Folga radial ou longitudinalEstado dos rolamentos da coluna ou interferências no movimento completo do guiadorCardans com folgasFixação deficiente do volante/coluna, deformações ou soldadurasFixação defeituosa do sistema de direção | Folga radial ou longitudinalEstado dos rolamentos da coluna ou interferências no movimento completo do guiadorCardans com folgasFixação deficiente do volante/coluna, deformações ou soldadurasFixação defeituosa do sistema de direção |
-| 2.2 - Caixa de direção (trator) | Fixação deficienteFugas, folgas e estado dos guarda-pós | Fixação deficienteFugas, folgas e estado dos guarda-pós |
-| 2.3 - Limitadores de direção (trator) | Regulação deficiente, deformação ou ausência | Regulação deficiente, deformação ou ausência |
-| 2.4 - Barras de direção, tirantes, rótulas e articulações (trator) | Deformações, fissuras ou soldadurasLigações defeituosas e folgas | Deformações, fissuras ou soldadurasLigações defeituosas e folgas |
-| 2.5 - Direção assistida (trator) (quando existir) | Fugas de fluido e tubagem não homologada | Fugas de fluido e tubagem não homologada |
+| 2.1 - Volante/coluna (trator) | Folga radial ou longitudinalEstado dos rolamentos da coluna ou interferências no movimento completo do guiadorCardans com folgasFixação deficiente do volante/coluna, deformações ou soldadurasFixação defeituosa do sistema de direção |  |
+| 2.2 - Caixa de direção (trator) | Fixação deficienteFugas, folgas e estado dos guarda-pós |  |
+| 2.3 - Limitadores de direção (trator) | Regulação deficiente, deformação ou ausência |  |
+| 2.4 - Barras de direção, tirantes, rótulas e articulações (trator) | Deformações, fissuras ou soldadurasLigações defeituosas e folgas |  |
+| 2.5 - Direção assistida (trator) (quando existir) | Fugas de fluido e tubagem não homologada |  |
 | 3 - Visibilidade: |  |  |
-| 3.1 - Campo de visibilidade | Reduzido por colocação de objetos estranhos no para-brisas (tratores cabinados)Reduzido por aplicação de autocolantes nos vidros da frente e retaguarda (tratores cabinados)Reduzido por existência de palas de sol deterioradas ou ausência (tratores cabinados)Reduzido por existência de vidros com fissuras, riscos e manchas (tratores cabinados) | Reduzido por colocação de objetos estranhos no para-brisas (tratores cabinados)Reduzido por aplicação de autocolantes nos vidros da frente e retaguarda (tratores cabinados)Reduzido por existência de palas de sol deterioradas ou ausência (tratores cabinados)Reduzido por existência de vidros com fissuras, riscos e manchas (tratores cabinados) |
-| 3.1.2 - Limpa-vidros e lava-vidros | Limpa-vidros e lava-vidros inoperacionais (tratores cabinados) | Limpa-vidros e lava-vidros inoperacionais (tratores cabinados) |
-| 3.1.3 - Retrovisores | Espelhos retrovisores - ausência, deterioração ou fixação/regulação deficiente | Espelhos retrovisores - ausência, deterioração ou fixação/regulação deficiente |
+| 3.1 - Campo de visibilidade | Reduzido por colocação de objetos estranhos no para-brisas (tratores cabinados)Reduzido por aplicação de autocolantes nos vidros da frente e retaguarda (tratores cabinados)Reduzido por existência de palas de sol deterioradas ou ausência (tratores cabinados)Reduzido por existência de vidros com fissuras, riscos e manchas (tratores cabinados) |  |
+| 3.1.2 - Limpa-vidros e lava-vidros | Limpa-vidros e lava-vidros inoperacionais (tratores cabinados) |  |
+| 3.1.3 - Retrovisores | Espelhos retrovisores - ausência, deterioração ou fixação/regulação deficiente |  |
 | 4 - Luzes, refletores e equipamento elétrico: |  |  |
 | 4.1 - Luzes de estrada (máximos) e luzes de cruzamento (médios): |  |  |
-| 4.1.1 - Estado e funcionamento | Não funcionamento ou ausência de faróisÓticas, vidros, lâmpadas com deficiência ou partidasMontagem não regulamentar ou colocação deficienteCor de óticas ou vidros irregulares | Não funcionamento ou ausência de faróisÓticas, vidros, lâmpadas com deficiência ou partidasMontagem não regulamentar ou colocação deficienteCor de óticas ou vidros irregulares |
-| 4.1.2 - Alinhamento e eficácia | Orientação assimétricaIntensidade reduzida dos feixes luminosos. | Orientação assimétricaIntensidade reduzida dos feixes luminosos. |
-| 4.1.3 - Interruptores | Mau estado ou fixação deficiente | Mau estado ou fixação deficiente |
-| 4.2 - Luzes de presença, delimitadoras, chapa de matrícula | Estado deteriorado e funcionamento incorretoCor incorreta e eficiência visual insuficienteInterruptores em mau estado ou mal fixos | Estado deteriorado e funcionamento incorretoCor incorreta e eficiência visual insuficienteInterruptores em mau estado ou mal fixos |
-| 4.3 - Luzes de travagem, indicadores de mudança de direção e luzes de chapa de matrícula | Estado deteriorado e funcionamento incorretoCor incorreta ou eficiência visual insuficienteInterruptores em mau estado ou mal fixo | Estado deteriorado e funcionamento incorretoCor incorreta ou eficiência visual insuficienteInterruptores em mau estado ou mal fixo |
-| 4.4 - Luzes de perigo | Estado, funcionamento de comutadoresNão funcionamento ou falta de intermitência | Estado, funcionamento de comutadoresNão funcionamento ou falta de intermitência |
-| 4.5 - Luzes de nevoeiro à retaguarda (quando instaladas) | Fixação, cor e eficácia não regulamentar | Fixação, cor e eficácia não regulamentar |
-| 4.6 - Luz rotativa | Cor não regulamentar, ausência ou não funcionamento | Cor não regulamentar, ausência ou não funcionamento |
-| 4.7 - Refletores à retaguarda (não reboques) | Ausência, mau estado ou colocação irregular | Ausência, mau estado ou colocação irregular |
-| 4.8 - Placas retrorrefletoras (reboques) | Ausência, mau estado ou colocação irregular | Ausência, mau estado ou colocação irregular |
-| 4.9 - Triângulo de marcha lenta | Ausência, mau estado ou irregular | Ausência, mau estado ou irregular |
-| 4.10 - Ligações elétricas | Estado, fixação deficiente | Estado, fixação deficiente |
-| 4.11 - Luzes do painel de instrumentos | Iluminação do velocímetro inexistente ou deficienteAusência de luzes avisadoras ou ineficiência | Iluminação do velocímetro inexistente ou deficienteAusência de luzes avisadoras ou ineficiência |
-| 4.12 - Triângulo de pré-sinalização | Ausência, estado ou não homologação | Ausência, estado ou não homologação |
+| 4.1.1 - Estado e funcionamento | Não funcionamento ou ausência de faróisÓticas, vidros, lâmpadas com deficiência ou partidasMontagem não regulamentar ou colocação deficienteCor de óticas ou vidros irregulares |  |
+| 4.1.2 - Alinhamento e eficácia | Orientação assimétricaIntensidade reduzida dos feixes luminosos. |  |
+| 4.1.3 - Interruptores | Mau estado ou fixação deficiente |  |
+| 4.2 - Luzes de presença, delimitadoras, chapa de matrícula | Estado deteriorado e funcionamento incorretoCor incorreta e eficiência visual insuficienteInterruptores em mau estado ou mal fixos |  |
+| 4.3 - Luzes de travagem, indicadores de mudança de direção e luzes de chapa de matrícula | Estado deteriorado e funcionamento incorretoCor incorreta ou eficiência visual insuficienteInterruptores em mau estado ou mal fixo |  |
+| 4.4 - Luzes de perigo | Estado, funcionamento de comutadoresNão funcionamento ou falta de intermitência |  |
+| 4.5 - Luzes de nevoeiro à retaguarda (quando instaladas) | Fixação, cor e eficácia não regulamentar |  |
+| 4.6 - Luz rotativa | Cor não regulamentar, ausência ou não funcionamento |  |
+| 4.7 - Refletores à retaguarda (não reboques) | Ausência, mau estado ou colocação irregular |  |
+| 4.8 - Placas retrorrefletoras (reboques) | Ausência, mau estado ou colocação irregular |  |
+| 4.9 - Triângulo de marcha lenta | Ausência, mau estado ou irregular |  |
+| 4.10 - Ligações elétricas | Estado, fixação deficiente |  |
+| 4.11 - Luzes do painel de instrumentos | Iluminação do velocímetro inexistente ou deficienteAusência de luzes avisadoras ou ineficiência |  |
+| 4.12 - Triângulo de pré-sinalização | Ausência, estado ou não homologação |  |
 | 5 - Equipamento diverso: |  |  |
-| 5.1 - Banco do condutor | Estado, deficiente fixação | Estado, deficiente fixação |
-| 5.2 - Bateria | Fixação | Fixação |
-| 5.3 - Avisador sonoro | Funcionamento ou inexistência | Funcionamento ou inexistência |
-| 5.4 - Velocímetro | Inexistente | Inexistente |
+| 5.1 - Banco do condutor | Estado, deficiente fixação |  |
+| 5.2 - Bateria | Fixação |  |
+| 5.3 - Avisador sonoro | Funcionamento ou inexistência |  |
+| 5.4 - Velocímetro | Inexistente |  |
 | 6 - Efeitos nocivos: |  |  |
-| 6.1 - Sistema de escape | Fugas, montagem deficiente | Fugas, montagem deficiente |
-| 6.2 - Emissão de gases de escape | Teor superior ao regulamentar | Teor superior ao regulamentar |
-| 6.3 - Ruído | Nível superior ao regulamentar | Nível superior ao regulamentar |
-| 6.4 - Derrames | Derrames de óleo ou fluidos poluentes | Derrames de óleo ou fluidos poluentes |
+| 6.1 - Sistema de escape | Fugas, montagem deficiente |  |
+| 6.2 - Emissão de gases de escape | Teor superior ao regulamentar |  |
+| 6.3 - Ruído | Nível superior ao regulamentar |  |
+| 6.4 - Derrames | Derrames de óleo ou fluidos poluentes |  |
 | 7 - Eixos, rodas, suspensão e transmissão: |  |  |
-| 7.1 - Eixos | Fissuras, deformações e soldaduras | Fissuras, deformações e soldaduras |
-| 7.2 - Jantes | Deformações, fissuras ou soldadurasFixação deficiente ou corrosão excessiva | Deformações, fissuras ou soldadurasFixação deficiente ou corrosão excessiva |
-| 7.3 - Pneumáticos | Profundidade dos rastos não regulamentarCortes, fissuras | Profundidade dos rastos não regulamentarCortes, fissuras |
-| 7.5 - Transmissão | Apoios, fixação e fugas | Apoios, fixação e fugas |
+| 7.1 - Eixos | Fissuras, deformações e soldaduras |  |
+| 7.2 - Jantes | Deformações, fissuras ou soldadurasFixação deficiente ou corrosão excessiva |  |
+| 7.3 - Pneumáticos | Profundidade dos rastos não regulamentarCortes, fissuras |  |
+| 7.5 - Transmissão | Apoios, fixação e fugas |  |
 | 8 - Quadro e acessórios do quadro: |  |  |
-| 8.1 - Estado geral | Deformações, corrosão e fissuras | Deformações, corrosão e fissuras |
-| 8.2 - Tubos de escape e silenciador | Deficiente fixação, fugas ou corrosão excessiva | Deficiente fixação, fugas ou corrosão excessiva |
-| 8.3 - Reservatório e canalizações de combustível | Inexistência de tampãoCanalizações deterioradas, má fixação ou deformações | Inexistência de tampãoCanalizações deterioradas, má fixação ou deformações |
+| 8.1 - Estado geral | Deformações, corrosão e fissuras |  |
+| 8.2 - Tubos de escape e silenciador | Deficiente fixação, fugas ou corrosão excessiva |  |
+| 8.3 - Reservatório e canalizações de combustível | Inexistência de tampãoCanalizações deterioradas, má fixação ou deformações |  |
 | 8.4 - Cabina (se existir): |  |  |
-| 8.4.1 - Estado geral | Deformações, corrosão excessiva | Deformações, corrosão excessiva |
-| 8.4.2 - Fixação | Deficiente fixação | Deficiente fixação |
-| 8.4.3 - Portas e fechos | Funcionamento deficiente | Funcionamento deficiente |
-| 8.5 - Dispositivo de engate para reboque | Deformação ou má fixação do dispositivo de engateInexistência do dispositivo de segurança de engate | Deformação ou má fixação do dispositivo de engateInexistência do dispositivo de segurança de engate |
+| 8.4.1 - Estado geral | Deformações, corrosão excessiva |  |
+| 8.4.2 - Fixação | Deficiente fixação |  |
+| 8.4.3 - Portas e fechos | Funcionamento deficiente |  |
+| 8.5 - Dispositivo de engate para reboque | Deformação ou má fixação do dispositivo de engateInexistência do dispositivo de segurança de engate |  |
 | 9 - Identificação do veículo: |  |  |
-| 9.1 - Chapa de matrícula | Deficiente ou inexistente | Deficiente ou inexistente |
+| 9.1 - Chapa de matrícula | Deficiente ou inexistente |  |
 | 9.2 - Número do quadro | Não legível, inexistente ou diferente do constante no livrete | » |
 
 ###### Artigo 3.º — Aditamento ao [Decreto Legislativo Regional n.º 18/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2004-268646), de 13 de maio
@@ -273,7 +316,9 @@ Tratores agrícolas e seus reboques
 
 A inspeção dos tratores agrícolas e seus reboques é válida por um ano após a data da inspeção periódica ou até à próxima deslocação do centro de inspeções ao concelho da morada fiscal do proprietário.
 
-###### Artigo 12.º-A — Prevenção rodoviária
+Artigo 12.º-A
+
+Prevenção rodoviária
 
 O departamento do Governo Regional com competência em matéria de transportes pode celebrar protocolos de cooperação com as associações, sem fins lucrativos, legalmente constituídas e com sede ou núcleo nos Açores, que realizem ações de sensibilização para a prevenção e segurança rodoviárias na Região.»
 
@@ -295,11 +340,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de fevereiro de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 13 de março de 2025.**
+Assinado em Angra do Heroísmo em 13 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -309,7 +354,7 @@ Republicação do [Decreto Legislativo Regional n.º 18/2004/A](https://diarioda
 
 ###### Artigo 1.º — Âmbito
 
-Os Decretos-Leis n.<sup>os</sup>[550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de dezembro, e [554/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1999-655681), de 16 de dezembro, que, respetivamente, estabelecem o regime jurídico da atividade de inspeção técnica de veículos a motor e seus reboques e o regime jurídico das inspeções técnicas de automóveis ligeiros, pesados e reboques, aplicam-se na Região Autónoma dos Açores, com as adaptações constantes do presente diploma.
+Os Decretos-Leis n.os[550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de dezembro, e [554/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1999-655681), de 16 de dezembro, que, respetivamente, estabelecem o regime jurídico da atividade de inspeção técnica de veículos a motor e seus reboques e o regime jurídico das inspeções técnicas de automóveis ligeiros, pesados e reboques, aplicam-se na Região Autónoma dos Açores, com as adaptações constantes do presente diploma.
 
 ###### Artigo 2.º — Competências
 
@@ -431,7 +476,7 @@ O departamento do Governo Regional com competência em matéria de transportes p
 
 ###### Artigo 13.º — Produtos das coimas
 
-1 - O produto resultante da cobrança de coimas aplicadas no seguimento de processos de contraordenação, instaurados na Região Autónoma dos Açores ao abrigo dos Decretos-Leis n.<sup>os</sup>[550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de dezembro, e [554/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1999-655681), de 16 de dezembro, e do presente diploma, reverterá:
+1 - O produto resultante da cobrança de coimas aplicadas no seguimento de processos de contraordenação, instaurados na Região Autónoma dos Açores ao abrigo dos Decretos-Leis n.os[550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de dezembro, e [554/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1999-655681), de 16 de dezembro, e do presente diploma, reverterá:
 
 a) 40 % para os cofres da Região;
 
@@ -449,7 +494,7 @@ c) 36 % para a entidade fiscalizadora.
 
 ###### Artigo 14.º — Contraordenações e coimas
 
-1 - Sem prejuízo das contraordenações, coimas e sanções acessórias estabelecidas nos Decretos-Leis n.<sup>os</sup>[550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de dezembro, e [554/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1999-655681), de 16 de dezembro, as infrações ao disposto no presente diploma constituem contraordenações sancionadas com as seguintes coimas:
+1 - Sem prejuízo das contraordenações, coimas e sanções acessórias estabelecidas nos Decretos-Leis n.os[550/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1999-655940), de 15 de dezembro, e [554/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/554-1999-655681), de 16 de dezembro, as infrações ao disposto no presente diploma constituem contraordenações sancionadas com as seguintes coimas:
 
 a) (Revogada.)
 
@@ -457,7 +502,7 @@ b) De 60 € a 300 €, a circulação do veículo sem se fazer acompanhar dos d
 
 c) De 250 € a 1250 €, a circulação do veículo sem a reparação das deficiências a que se refere o n.º 1 do artigo 12.º;
 
-d) De 1000 € a 5000 €, a infração ao disposto nos n.<sup>os</sup>4, 5 e 6 do artigo 5.º e no n.º 4 do artigo 13.º
+d) De 1000 € a 5000 €, a infração ao disposto nos n.os4, 5 e 6 do artigo 5.º e no n.º 4 do artigo 13.º
 
 2 - Pelas contraordenações previstas nas alíneas a) e b) do número anterior é responsável o condutor do veículo.
 
@@ -558,3 +603,7 @@ Tratores agrícolas e seus reboques
 | 9 - Identificação do veículo: |  |
 | 9.1 - Chapa de matrícula | Deficiente ou inexistente |
 | 9.2 - Número do quadro | Não legível, inexistente ou diferente do constante no livrete |
+
+118810236
+
+.Tbl1 { border-collapse:collapse; border-width:1px; margin-left:auto; margin-right:auto; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:28px; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl10 { border-collapse:collapse; border-width:1px; } .Tbl11 { min-height:18px; } .Tbl12 { min-height:104px; } .Tbl13 { min-height:108px; } .Tbl14 { min-height:43px; } .Tbl15 { min-height:33px; } .Tbl16 { min-height:64px; } .Tbl17 { min-height:89px; } .Tbl18 { min-height:36px; } .Tbl19 { min-height:102px; } .Tbl20 { min-height:32px; } .Tbl21 { min-height:31px; } .Tbl22 { min-height:34px; } .Tbl23 { min-height:49px; } .Tbl24 { min-height:52px; } .Tbl25 { min-height:38px; } .Tbl26 { min-height:20px; } .Tbl27 { min-height:37px; } .Tbl28 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:top; } .Tbl30 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:none; border-right-style:none; border-left-style:none; vertical-align:bottom; } .Tbl31 { border-collapse:collapse; border-width:1px; margin-left:auto; }

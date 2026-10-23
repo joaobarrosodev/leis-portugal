@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/017a00/03250327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/1991/01/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1991-497189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fd1dcefff3ca1e94f9f55876ad22ebbf65681fd130e740f009772ea8c491c9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46f41930d9ab1ff1067fafe9107b542d50d4b925731567af2e2b2316e2afaf9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
-- Conservatório Regional
-- Ensino Preparatório
-- Pessoal não Docente
-- Estabelecimento de Ensino
-- Regime Jurídico
 - Açores
+- Conservatório Regional
+- Ensino Artístico
+- Ensino Preparatório
+- Estabelecimento de Ensino
+- Pessoal não Docente
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:339384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620898:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:339384:por
+  label: "Revogado pelo DLR.21/2000/A.2000.07.06.ALR-RAA DR.IS-A [183] DE 09/AGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2000-339384
+  date: '2000-07-06'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:05Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +129,9 @@ Considerando, por último, as alterações introduzidas ao [Decreto-Lei n.º 223
 
 A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea i) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo 1.º Os mapas a que se refere o artigo 2.º do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, com a redacção dada pelo artigo 2.º do [Decreto Legislativo Regional n.º 4/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898), de 29 de Julho, são os constantes dos anexos ao presente diploma.
+Artigo 1.º Os mapas a que se refere o artigo 2.º do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, com a redacção dada pelo artigo 2.º do [Decreto Legislativo Regional n.º 4/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898), de 29 de Julho, são os constantes dos anexos ao presente diploma.
 
-###### Art. 2.º O artigo 42.º do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, na redacção dada pelo artigo 2.º do [Decreto Legislativo Regional n.º 4/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898), de 29 de Junho, passa a ter a seguinte redacção:
+Art. 2.º O artigo 42.º do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, na redacção dada pelo artigo 2.º do [Decreto Legislativo Regional n.º 4/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898), de 29 de Junho, passa a ter a seguinte redacção:
 
 ###### Artigo 42.º — Dependências hierárquicas necessárias
 
@@ -158,32 +179,32 @@ o) Motorista.
 
 8 - ...
 
-###### Art. 3.º O artigo 4.º do [Decreto Legislativo Regional n.º 4/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898), de 29 de Junho, passa a dispor da seguinte redacção:
+Art. 3.º O artigo 4.º do [Decreto Legislativo Regional n.º 4/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898), de 29 de Junho, passa a dispor da seguinte redacção:
 
 ###### Artigo 4.º — [...]
 
 Para as escolas que não disponham de lugares do quadro nos termos definidos no artigo anterior poderá ser contratado pessoal, nos termos da lei geral, exercendo funções a tempo parcial.
 
-###### Art. 4.º Até à implementação, na Região Autónoma dos Açores, dos cursos de formação profissional necessários para o acesso nas carreiras de técnico auxiliar de laboratório, ecónomo, encarregado de refeitório, cozinheiro e tratador de animais, são os mesmos dispensados para esses efeitos, devendo, no entanto, ser cumprido, na categoria de ingresso, o tempo de serviço exigido para os referidos cursos, para além da duração do estágio.
+Art. 4.º Até à implementação, na Região Autónoma dos Açores, dos cursos de formação profissional necessários para o acesso nas carreiras de técnico auxiliar de laboratório, ecónomo, encarregado de refeitório, cozinheiro e tratador de animais, são os mesmos dispensados para esses efeitos, devendo, no entanto, ser cumprido, na categoria de ingresso, o tempo de serviço exigido para os referidos cursos, para além da duração do estágio.
 
-###### Art. 5.º Até à publicação dos quadros de afectação a que alude o artigo 3.º do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, na redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 191/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1989-620320), de 7 de Junho, a mobilidade do pessoal não docente, dentro do mesmo quadro de vinculação, poderá efectuar-se por distribuição, desde que seja no interesse da Administração e obtida a concordância do interessado.
+Art. 5.º Até à publicação dos quadros de afectação a que alude o artigo 3.º do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, na redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 191/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1989-620320), de 7 de Junho, a mobilidade do pessoal não docente, dentro do mesmo quadro de vinculação, poderá efectuar-se por distribuição, desde que seja no interesse da Administração e obtida a concordância do interessado.
 
-###### Art. 6.º É revogado o n.º 4 do artigo 8.º do [Decreto Legislativo Regional n.º 4/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898), de 29 de Junho.
+Art. 6.º É revogado o n.º 4 do artigo 8.º do [Decreto Legislativo Regional n.º 4/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898), de 29 de Junho.
 
 Aprovado pela Assembleia Legislativa Regional, na Horta, em 5 de Dezembro de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 3 de Janeiro de 1991.**
+Assinado em Angra do Heroísmo em 3 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO I — Conservatórias regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/017a00/03250327.pdf))](https://files.diariodarepublica.pt/1s/1991/01/017a00/03250327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/017a00/03250327.pdf)
 
 ## ANEXO II — Escolas preparatórias e secundárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/017a00/03250327.pdf))](https://files.diariodarepublica.pt/1s/1991/01/017a00/03250327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/017a00/03250327.pdf)

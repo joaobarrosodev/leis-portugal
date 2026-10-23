@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/07/14400/0000300093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2025/07/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2025-926750282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ca9c3aab1d116d13bfa31944f529327fe5b25bb6837ac640da4a770c0e781f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ffbaa0c823c13bdcd5f8510f7333a9b295ffb3e7b1668c16ea1d6d078959a13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aproximação das Legislações
-- Publicidade
+- Avaliação de Impacte Ambiental
 - Conselho Regional do Ambiente e do Desenvolvimento Sustentavel
 - Contra-ordenação
 - Definição de Competências
-- Avaliação de Impacte Ambiental
+- Internet
 - Jornal Oficial
 - Proteção do Ambiente
-- Internet
+- Publicidade
 - Qualidade do Ambiente
+- Rede Natura 2000
 - Regime Jurídico
 - Regulamento CE
-- Açores
 - Taxa
-- Rede Natura 2000
 relationships:
 - type: cites
   target: celex:31991L0689
@@ -177,16 +177,102 @@ relationships:
   target: eli:http://data.europa.eu/eli/reg/2
   label: null
   source: http://data.europa.eu/eli/reg/2
+- type: cites
+  target: pt:dre:131124444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66426484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69951097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:30/2010/A
+  label: Revoga, a partir de 01 de agosto de 2025, nos termos do artigo 115.º do Decreto Legislativo Regional n.º 30/2010/A,
+    de 15 de novembro, Diário da República n.º 221/2010, Série I
+  source: null
+  date: '2010-11-15'
 article_structure:
   article_count: 116
   section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:20Z'
   warnings: []
   errors: []
 ---
@@ -331,7 +417,7 @@ hh) «Planos e programas», os planos e programas, incluindo os cofinanciados pe
 
 i) Cuja elaboração, alteração ou revisão por autoridades ou outras entidades que exerçam poderes públicos, ou cuja aprovação em procedimento legislativo resulte de exigência legal, regulamentar ou administrativa;
 
-ii) Que não respeitem unicamente à defesa nacional ou à proteção civil, não revistam natureza financeira ou orçamental ou não sejam financiados ao abrigo dos períodos de programação abrangidos pelos Regulamentos (UE) n.<sup>os</sup>[1303/2013](https://data.europa.eu/eli/reg/2013/1303/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, na sua redação atual, e [1305/2013](https://data.europa.eu/eli/reg/2013/1305/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, na sua redação atual;
+ii) Que não respeitem unicamente à defesa nacional ou à proteção civil, não revistam natureza financeira ou orçamental ou não sejam financiados ao abrigo dos períodos de programação abrangidos pelos Regulamentos (UE) n.os[1303/2013](https://data.europa.eu/eli/reg/2013/1303/oj?locale=pt) do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, na sua redação atual, e [1305/2013](https://data.europa.eu/eli/reg/2013/1305/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, na sua redação atual;
 
 ii) «Poluição», a introdução direta ou indireta, em resultado de ação humana, de substâncias, vibrações, calor ou ruído, no ar, na água ou no solo, suscetíveis de prejudicar a saúde humana ou a qualidade do ambiente e de causar deterioração dos bens materiais ou deterioração ou entraves ao usufruto do ambiente ou a outras utilizações legítimas deste último;
 
@@ -505,7 +591,7 @@ j) Um resumo não técnico das informações referidas nas alíneas anteriores.
 
 9 - Durante o prazo de duração da consulta pública, no caso de planos ou programas da responsabilidade direta ou indireta da administração pública regional, o projeto de plano ou programa e o respetivo relatório ambiental estão disponíveis ao público no portal do Governo Regional na Internet, bem como nos locais indicados pela entidade responsável pela sua elaboração.
 
-10 - As consultas podem ser realizadas em prazos inferiores aos referidos nos n.<sup>os</sup>3 e 7 quando, por resolução do Conselho do Governo Regional, se reconheça a existência de circunstâncias excecionais que o justifiquem, devendo, em todo o caso, o prazo a fixar ser adequado à apresentação efetiva e atempada de observações sobre o plano ou programa.
+10 - As consultas podem ser realizadas em prazos inferiores aos referidos nos n.os3 e 7 quando, por resolução do Conselho do Governo Regional, se reconheça a existência de circunstâncias excecionais que o justifiquem, devendo, em todo o caso, o prazo a fixar ser adequado à apresentação efetiva e atempada de observações sobre o plano ou programa.
 
 ###### Artigo 12.º — Consultas de Estados-Membros da União Europeia
 
@@ -1731,7 +1817,7 @@ g) Acompanhamento do desempenho ambiental.
 
 3 - No caso de ser em fase de estudo prévio ou anteprojeto, o RECAPE, previsto no artigo 41.º, acompanha o pedido de licenciamento ambiental.
 
-4 - Nos casos previstos nos n.<sup>os</sup>2 e 3, a licença ambiental é emitida na sequência da DIA ou após a aprovação do relatório de conformidade ambiental do projeto de execução, respetivamente.
+4 - Nos casos previstos nos n.os2 e 3, a licença ambiental é emitida na sequência da DIA ou após a aprovação do relatório de conformidade ambiental do projeto de execução, respetivamente.
 
 ###### Artigo 75.º — Verificação da obrigatoriedade de sujeição ao regime de licenciamento ambiental
 
@@ -2281,7 +2367,7 @@ b) Zona geográfica abrangida pelo plano de inspeções;
 
 c) Registo das instalações abrangidas pelo plano;
 
-d) Procedimentos para a elaboração dos programas de inspeções ambientais de rotina, nos termos dos n.<sup>os</sup>4 a 7;
+d) Procedimentos para a elaboração dos programas de inspeções ambientais de rotina, nos termos dos n.os4 a 7;
 
 e) Procedimentos para a realização de inspeções ambientais não rotineiras nos termos do n.º 8;
 
@@ -2323,7 +2409,7 @@ c) O não cumprimento, pelo operador, da obrigação de manter durante cinco ano
 
 2 - Para aplicação do disposto no regime aplicável às contraordenações ambientais, constitui contraordenação grave a violação das seguintes normas:
 
-a) A execução, parcial ou total, de um projeto abrangido pelo disposto no artigo 26.º, sem observância das medidas previstas nos n.<sup>os</sup>5 e 6 do mesmo artigo;
+a) A execução, parcial ou total, de um projeto abrangido pelo disposto no artigo 26.º, sem observância das medidas previstas nos n.os5 e 6 do mesmo artigo;
 
 b) O não cumprimento das obrigações previstas no n.º 1 do artigo 41.º e no n.º 3 do artigo 43.º;
 
@@ -2343,7 +2429,7 @@ i) O não cumprimento do dever de comunicar qualquer proposta de alteração da 
 
 j) O não cumprimento da obrigação de requerer a renovação da licença ambiental, sempre que autoridade ambiental o determine, nos termos do n.º 6 do artigo 61.º;
 
-k) A falta de entrega do plano de desativação da instalação ou de partes desta nos termos do disposto nos n.<sup>os</sup>3 e 5 do artigo 68.º;
+k) A falta de entrega do plano de desativação da instalação ou de partes desta nos termos do disposto nos n.os3 e 5 do artigo 68.º;
 
 l) O não cumprimento, pelo operador, da obrigação de comunicação das informações referidas no artigo 97.º
 
@@ -2407,7 +2493,7 @@ a) As DIA emitidas ao abrigo de anteriores regimes de AIA aplicados na Região A
 
 b) As licenças ambientais emitidas ao abrigo do [Decreto Legislativo Regional n.º 30/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2010-308736), de 15 de novembro.
 
-2 - As disposições constantes dos n.<sup>os</sup>7 e 8 do artigo 58.º aplicam-se às instalações que obtiveram a exclusão de sujeição ao regime PCIP, ao abrigo do [Decreto Legislativo Regional n.º 30/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2010-308736), de 15 de novembro.
+2 - As disposições constantes dos n.os7 e 8 do artigo 58.º aplicam-se às instalações que obtiveram a exclusão de sujeição ao regime PCIP, ao abrigo do [Decreto Legislativo Regional n.º 30/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2010-308736), de 15 de novembro.
 
 ###### Artigo 114.º — Intercâmbio de informação e cooperação
 
@@ -2423,11 +2509,11 @@ O presente diploma entra em vigor no 1.º dia útil do mês seguinte ao da sua p
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 3 de junho de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 22 de julho de 2025.**
+Assinado em Angra do Heroísmo em 22 de julho de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -2435,59 +2521,59 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Projetos abrangidos pela obrigação de sujeição a AIA independentemente das suas dimensões ou localização
 
-| Setor de atividade | Tipologia | Tipologia | Limiar |
+| Setor de atividade | Tipologia | Limiar |  |
 | --- | --- | --- | --- |
-| 1 - Indústria petroquímica | a) Refinarias de petróleo bruto (excluindo as empresas que produzem unicamente lubrificantes a partir do petróleo bruto) | a) Refinarias de petróleo bruto (excluindo as empresas que produzem unicamente lubrificantes a partir do petróleo bruto) | Todos |
-|  | b) Instalações de gaseificação e de liquefação | b) Instalações de gaseificação e de liquefação | ≥ 500 t/dia de carvão ou de xisto betuminoso |
-| 2 - Produção de energia | a) Centrais térmicas e outras instalações de combustão | a) Centrais térmicas e outras instalações de combustão | Potência calorífica ≥ 300 MW |
-|  | b) Centrais nucleares e outros reatores nucleares, incluindo o desmantelamento e a desativação dessas centrais nucleares ou dos reatores nucleares (excluindo as instalações de investigação para a produção e transformação de matérias cindíveis e férteis) | b) Centrais nucleares e outros reatores nucleares, incluindo o desmantelamento e a desativação dessas centrais nucleares ou dos reatores nucleares (excluindo as instalações de investigação para a produção e transformação de matérias cindíveis e férteis) | Potência máxima não ultrapasse 1 kW de carga térmica contínua |
-| 3 - Indústria nuclear | a) Instalações de reprocessamento de combustíveis nucleares irradiados | a) Instalações de reprocessamento de combustíveis nucleares irradiados | Todos |
+| 1 - Indústria petroquímica | a) Refinarias de petróleo bruto (excluindo as empresas que produzem unicamente lubrificantes a partir do petróleo bruto) | Todos |  |
+|  | b) Instalações de gaseificação e de liquefação | ≥ 500 t/dia de carvão ou de xisto betuminoso |  |
+| 2 - Produção de energia | a) Centrais térmicas e outras instalações de combustão | Potência calorífica ≥ 300 MW |  |
+|  | b) Centrais nucleares e outros reatores nucleares, incluindo o desmantelamento e a desativação dessas centrais nucleares ou dos reatores nucleares (excluindo as instalações de investigação para a produção e transformação de matérias cindíveis e férteis) | Potência máxima não ultrapasse 1 kW de carga térmica contínua |  |
+| 3 - Indústria nuclear | a) Instalações de reprocessamento de combustíveis nucleares irradiados | Todos |  |
 |  | Instalações destinadas: | b) À produção ou enriquecimento de combustível nuclear | Todos |
-|  | Instalações destinadas: | c) Ao processamento de combustível nuclear irradiado ou resíduos altamente radioativos | Todos |
-|  | Instalações destinadas: | d) À eliminação final de combustível nuclear irradiado | Todos |
-|  | Instalações destinadas: | e) Exclusivamente à eliminação final de resíduos radioativos | Todos |
-|  | Instalações destinadas: | f) Exclusivamente à armazenagem (planeada para mais de 10 anos) de combustíveis nucleares irradiados ou outros resíduos radioativos, num local que não seja o local da produção | Todos |
-| 4 - Metalurgia | a) Instalações integradas para a primeira fusão de ferro fundido e de aço | a) Instalações integradas para a primeira fusão de ferro fundido e de aço | Todos |
-|  | b) Instalações para a produção de metais brutos não ferrosos a partir de minérios, de concentrados ou de matérias-primas secundárias por processos metalúrgicos, químicos ou eletrolíticos | b) Instalações para a produção de metais brutos não ferrosos a partir de minérios, de concentrados ou de matérias-primas secundárias por processos metalúrgicos, químicos ou eletrolíticos | Todos |
+|  | c) Ao processamento de combustível nuclear irradiado ou resíduos altamente radioativos | Todos |  |
+|  | d) À eliminação final de combustível nuclear irradiado | Todos |  |
+|  | e) Exclusivamente à eliminação final de resíduos radioativos | Todos |  |
+|  | f) Exclusivamente à armazenagem (planeada para mais de 10 anos) de combustíveis nucleares irradiados ou outros resíduos radioativos, num local que não seja o local da produção | Todos |  |
+| 4 - Metalurgia | a) Instalações integradas para a primeira fusão de ferro fundido e de aço | Todos |  |
+|  | b) Instalações para a produção de metais brutos não ferrosos a partir de minérios, de concentrados ou de matérias-primas secundárias por processos metalúrgicos, químicos ou eletrolíticos | Todos |  |
 | 5 - Amianto | Instalações destinadas à extração de amianto e ao processamento e transformação de amianto e de produtos que contenham amianto: | a) No caso de produtos de fibrocimento | Produção anual > 20 000 t de produtos acabados |
-| 5 - Amianto | Instalações destinadas à extração de amianto e ao processamento e transformação de amianto e de produtos que contenham amianto: | b) No caso de material de atrito | Produção anual > 50 t de produtos acabados |
-| 5 - Amianto | Instalações destinadas à extração de amianto e ao processamento e transformação de amianto e de produtos que contenham amianto: | c) Para outras utilizações de amianto | Utilizações > 200 t/ano |
+| b) No caso de material de atrito | Produção anual > 50 t de produtos acabados |  |  |
+| c) Para outras utilizações de amianto | Utilizações > 200 t/ano |  |  |
 | 6 - Indústria química | Instalações químicas integradas, ou seja, as instalações para o fabrico de substâncias à escala industrial, mediante a utilização de processos químicos de conversão, em que coexistam várias unidades funcionalmente ligadas entre si e que se destinem à produção dos seguintes produtos: | a) Produtos químicos orgânicos de base | Todos |
-| 6 - Indústria química | Instalações químicas integradas, ou seja, as instalações para o fabrico de substâncias à escala industrial, mediante a utilização de processos químicos de conversão, em que coexistam várias unidades funcionalmente ligadas entre si e que se destinem à produção dos seguintes produtos: | b) Produtos químicos inorgânicos de base | Todos |
-| 6 - Indústria química | Instalações químicas integradas, ou seja, as instalações para o fabrico de substâncias à escala industrial, mediante a utilização de processos químicos de conversão, em que coexistam várias unidades funcionalmente ligadas entre si e que se destinem à produção dos seguintes produtos: | c) Adubos (simples ou compostos) à base de fósforo, azoto ou potássio | Todos |
-| 6 - Indústria química | Instalações químicas integradas, ou seja, as instalações para o fabrico de substâncias à escala industrial, mediante a utilização de processos químicos de conversão, em que coexistam várias unidades funcionalmente ligadas entre si e que se destinem à produção dos seguintes produtos: | d) Produtos fitofarmacêuticos de base e biocidas | Todos |
-| 6 - Indústria química | Instalações químicas integradas, ou seja, as instalações para o fabrico de substâncias à escala industrial, mediante a utilização de processos químicos de conversão, em que coexistam várias unidades funcionalmente ligadas entre si e que se destinem à produção dos seguintes produtos: | e) Produtos farmacêuticos de base, que utilizem processos químicos ou biológicos | Todos |
-| 6 - Indústria química | Instalações químicas integradas, ou seja, as instalações para o fabrico de substâncias à escala industrial, mediante a utilização de processos químicos de conversão, em que coexistam várias unidades funcionalmente ligadas entre si e que se destinem à produção dos seguintes produtos: | f) Explosivos | Todos |
-| 7 - Vias de transporte | a) Construção de vias para o tráfego ferroviário de longo curso e aeroportos cuja pista de descolagem e de aterragem tenha | a) Construção de vias para o tráfego ferroviário de longo curso e aeroportos cuja pista de descolagem e de aterragem tenha | Comprimento ≥ 2100 m |
-| 7 - Vias de transporte | b) Construção de autoestradas e de estradas reservadas exclusivamente ao tráfego motorizado, com duas faixas de rodagem e quatro ou mais vias, e acessíveis apenas por nós de ligação (interseções desniveladas) | b) Construção de autoestradas e de estradas reservadas exclusivamente ao tráfego motorizado, com duas faixas de rodagem e quatro ou mais vias, e acessíveis apenas por nós de ligação (interseções desniveladas) | Todos |
-| 7 - Vias de transporte | c) Intervenções em estradas existentes que conduzam à retificação e/ou alargamento para quatro ou mais faixas em segmentos retificados e/ou alargados | c) Intervenções em estradas existentes que conduzam à retificação e/ou alargamento para quatro ou mais faixas em segmentos retificados e/ou alargados | ≥ 10 km de troço contínuo |
-| 8 - Portos e vias navegáveis | a) Vias navegáveis interiores e portos para navegação interior que permitam o acesso a embarcações de tonelagem | a) Vias navegáveis interiores e portos para navegação interior que permitam o acesso a embarcações de tonelagem | > 1350 toneladas |
-| 8 - Portos e vias navegáveis | b) Portos comerciais, cais para carga ou descarga com ligação a terra e portos exteriores (excluindo os cais para barcos de passageiros) que possam receber embarcações | b) Portos comerciais, cais para carga ou descarga com ligação a terra e portos exteriores (excluindo os cais para barcos de passageiros) que possam receber embarcações | > 1350 toneladas |
-| 9 - Tratamento de resíduos perigosos | Instalações de eliminação de resíduos destinadas à incineração (D10), valorização energética (R1), tratamento químico (D9), ou aterro de resíduos perigosos (D1) | Instalações de eliminação de resíduos destinadas à incineração (D10), valorização energética (R1), tratamento químico (D9), ou aterro de resíduos perigosos (D1) | Todos |
-| 10 - Instalações de destino final de resíduos | Instalações destinadas à incineração (D10) ou ao tratamento físico-químico de resíduos não-perigosos (D9) | Instalações destinadas à incineração (D10) ou ao tratamento físico-químico de resíduos não-perigosos (D9) | Capacidade > 100 t/dia |
-| 11 - Recursos hídricos | a) Sistemas de captação de águas subterrâneas ou de recarga artificial dos aquíferos | a) Sistemas de captação de águas subterrâneas ou de recarga artificial dos aquíferos | Volume anual de água captado ou de recarga ≥ 10 milhões m<sup>3</sup> |
-|  | b) Obras de transferência de recursos hídricos entre bacias hidrográficas sempre que esta transferência se destine a prevenir as carências de água | b) Obras de transferência de recursos hídricos entre bacias hidrográficas sempre que esta transferência se destine a prevenir as carências de água | Volume de água transferido > 100 milhões m<sup>3</sup>/ano, com exclusão das transferências de água potável |
-|  | c) Todos os outros casos de obras de transferência de recursos hídricos entre bacias hidrográficas | c) Todos os outros casos de obras de transferência de recursos hídricos entre bacias hidrográficas | Caudal médio plurianual na bacia de captação > 2 000 milhões m<sup>3</sup>/ano eVolume de água transferido > 5 % desse caudal, com exclusão das transferências de água potável |
-| 12 - Barragens e reservatórios de água | Barragens e outras instalações concebidas para retenção ou armazenagem permanente de água | Barragens e outras instalações concebidas para retenção ou armazenagem permanente de água | um novo volume ou um volume adicional de água retida ou armazenada > 10 milhões m<sup>3</sup> |
-| 13 - Tratamento de águas residuais | Estações de tratamento de águas residuais | Estações de tratamento de águas residuais | Capacidade >150 000 habitantes equivalente |
+| b) Produtos químicos inorgânicos de base | Todos |  |  |
+| c) Adubos (simples ou compostos) à base de fósforo, azoto ou potássio | Todos |  |  |
+| d) Produtos fitofarmacêuticos de base e biocidas | Todos |  |  |
+| e) Produtos farmacêuticos de base, que utilizem processos químicos ou biológicos | Todos |  |  |
+| f) Explosivos | Todos |  |  |
+| 7 - Vias de transporte | a) Construção de vias para o tráfego ferroviário de longo curso e aeroportos cuja pista de descolagem e de aterragem tenha | Comprimento ≥ 2100 m |  |
+| b) Construção de autoestradas e de estradas reservadas exclusivamente ao tráfego motorizado, com duas faixas de rodagem e quatro ou mais vias, e acessíveis apenas por nós de ligação (interseções desniveladas) | Todos |  |  |
+| c) Intervenções em estradas existentes que conduzam à retificação e/ou alargamento para quatro ou mais faixas em segmentos retificados e/ou alargados | ≥ 10 km de troço contínuo |  |  |
+| 8 - Portos e vias navegáveis | a) Vias navegáveis interiores e portos para navegação interior que permitam o acesso a embarcações de tonelagem | > 1350 toneladas |  |
+| b) Portos comerciais, cais para carga ou descarga com ligação a terra e portos exteriores (excluindo os cais para barcos de passageiros) que possam receber embarcações | > 1350 toneladas |  |  |
+| 9 - Tratamento de resíduos perigosos | Instalações de eliminação de resíduos destinadas à incineração (D10), valorização energética (R1), tratamento químico (D9), ou aterro de resíduos perigosos (D1) | Todos |  |
+| 10 - Instalações de destino final de resíduos | Instalações destinadas à incineração (D10) ou ao tratamento físico-químico de resíduos não-perigosos (D9) | Capacidade > 100 t/dia |  |
+| 11 - Recursos hídricos | a) Sistemas de captação de águas subterrâneas ou de recarga artificial dos aquíferos | Volume anual de água captado ou de recarga ≥ 10 milhões m3 |  |
+|  | b) Obras de transferência de recursos hídricos entre bacias hidrográficas sempre que esta transferência se destine a prevenir as carências de água | Volume de água transferido > 100 milhões m3/ano, com exclusão das transferências de água potável |  |
+|  | c) Todos os outros casos de obras de transferência de recursos hídricos entre bacias hidrográficas | Caudal médio plurianual na bacia de captação > 2 000 milhões m3/ano eVolume de água transferido > 5 % desse caudal, com exclusão das transferências de água potável |  |
+| 12 - Barragens e reservatórios de água | Barragens e outras instalações concebidas para retenção ou armazenagem permanente de água | um novo volume ou um volume adicional de água retida ou armazenada > 10 milhões m3 |  |
+| 13 - Tratamento de águas residuais | Estações de tratamento de águas residuais | Capacidade >150 000 habitantes equivalente |  |
 | 14 - Pecuária intensiva | Instalações para a cria ou recria intensiva de aves de capoeira ou de suínos com espaço para: | a) Frangos ou outras aves de carne | > 85 000 |
-| 14 - Pecuária intensiva | Instalações para a cria ou recria intensiva de aves de capoeira ou de suínos com espaço para: | b) Galinhas | > 60 000 |
-| 14 - Pecuária intensiva | Instalações para a cria ou recria intensiva de aves de capoeira ou de suínos com espaço para: | c) Porcos de produção (com + 30 kg) | > 3000 |
-| 14 - Pecuária intensiva | Instalações para a cria ou recria intensiva de aves de capoeira ou de suínos com espaço para: | d) Porcas reprodutoras | > 900 |
+| b) Galinhas | > 60 000 |  |  |
+| c) Porcos de produção (com + 30 kg) | > 3000 |  |  |
+| d) Porcas reprodutoras | > 900 |  |  |
 | 15 - Oleodutos e outras condutas | Condutas para: | a) Transporte de gás, de petróleo ou de produtos químicos | Diâmetro > 800 mm e comprimento > 40 km |
-| 15 - Oleodutos e outras condutas | Condutas para: | b) Transporte de fluxos de dióxido de carbono (CO<sub>2</sub>) para efeitos de armazenamento geológico, incluindo estações de bombagem associadas | Diâmetro > 800 mm e comprimento > 40 km |
+| b) Transporte de fluxos de dióxido de carbono (CO2) para efeitos de armazenamento geológico, incluindo estações de bombagem associadas | Diâmetro > 800 mm e comprimento > 40 km |  |  |
 | 16 - Indústria do papel | Instalações industriais de: | a) Fabrico de pasta de papel a partir de madeira ou de outras substâncias fibrosas | Todos |
-| 16 - Indústria do papel | Instalações industriais de: | b) Fabrico de papel e cartão | Capacidade de produção > 200 t/dia |
-| 17 - Indústria de extração de recursos geológicos | a) Pedreiras e minas a céu aberto | a) Pedreiras e minas a céu aberto | Numa área > 25 ha |
-|  | b) Extração de turfa | b) Extração de turfa | Numa área > 150 ha |
-| 18 - Transporte de energia elétrica | Construção de linhas aéreas de transporte de eletricidade | Construção de linhas aéreas de transporte de eletricidade | Tensão ≥ 220 kV e comprimento > 15 km |
-| 19 - Armazenamento de combustíveis | Instalações de armazenagem de petróleo, produtos petroquímicos ou produtos químicos | Instalações de armazenagem de petróleo, produtos petroquímicos ou produtos químicos | Capacidade ≥ 200 000 t |
+| b) Fabrico de papel e cartão | Capacidade de produção > 200 t/dia |  |  |
+| 17 - Indústria de extração de recursos geológicos | a) Pedreiras e minas a céu aberto | Numa área > 25 ha |  |
+|  | b) Extração de turfa | Numa área > 150 ha |  |
+| 18 - Transporte de energia elétrica | Construção de linhas aéreas de transporte de eletricidade | Tensão ≥ 220 kV e comprimento > 15 km |  |
+| 19 - Armazenamento de combustíveis | Instalações de armazenagem de petróleo, produtos petroquímicos ou produtos químicos | Capacidade ≥ 200 000 t |  |
 | 20 - Extração de petróleo e gás natural | Extração para fins comerciais: | a) Petróleo | Quantidade extraída > 500 t/dia |
-| 20 - Extração de petróleo e gás natural | Extração para fins comerciais: | b) Gás natural | Quantidade extraída > 500 000 m<sup>3</sup>/dia |
-| 21 - Armazenamento geológico | a) Locais de armazenamento conformes com o regime jurídico relativo ao armazenamento geológico de dióxido de carbono | a) Locais de armazenamento conformes com o regime jurídico relativo ao armazenamento geológico de dióxido de carbono | Todas |
-|  | b) Instalações destinadas à captura para efeitos de armazenamento geológico de fluxos de CO<sub>2</sub> destinados aos locais de armazenamento abrangidos pelo presente anexo | b) Instalações destinadas à captura para efeitos de armazenamento geológico de fluxos de CO<sub>2</sub> destinados aos locais de armazenamento abrangidos pelo presente anexo | Todas ou captura anual total de CO<sub>2</sub> ≥ 1,5 megatoneladas |
-| 22 - Alteração ou ampliação | a) Qualquer alteração substancial, nos termos do presente diploma, de projetos incluídos no presente anexo, se tal alteração, em si mesma, corresponder aos limiares estabelecidos no presente anexo ou quando o projeto não tenha sido sujeito ao procedimento de AIA, venha a corresponder, cumulativamente com o já existente | a) Qualquer alteração substancial, nos termos do presente diploma, de projetos incluídos no presente anexo, se tal alteração, em si mesma, corresponder aos limiares estabelecidos no presente anexo ou quando o projeto não tenha sido sujeito ao procedimento de AIA, venha a corresponder, cumulativamente com o já existente | Todos |
-|  | b) Qualquer alteração de projetos tipificados no presente anexo qualquer que seja a sua localização ou características específicas, quando os mesmos, nos termos deste anexo, não estejam sujeitos a qualquer limiar | b) Qualquer alteração de projetos tipificados no presente anexo qualquer que seja a sua localização ou características específicas, quando os mesmos, nos termos deste anexo, não estejam sujeitos a qualquer limiar | Todos |
+| b) Gás natural | Quantidade extraída > 500 000 m3/dia |  |  |
+| 21 - Armazenamento geológico | a) Locais de armazenamento conformes com o regime jurídico relativo ao armazenamento geológico de dióxido de carbono | Todas |  |
+|  | b) Instalações destinadas à captura para efeitos de armazenamento geológico de fluxos de CO2 destinados aos locais de armazenamento abrangidos pelo presente anexo | Todas ou captura anual total de CO2 ≥ 1,5 megatoneladas |  |
+| 22 - Alteração ou ampliação | a) Qualquer alteração substancial, nos termos do presente diploma, de projetos incluídos no presente anexo, se tal alteração, em si mesma, corresponder aos limiares estabelecidos no presente anexo ou quando o projeto não tenha sido sujeito ao procedimento de AIA, venha a corresponder, cumulativamente com o já existente | Todos |  |
+|  | b) Qualquer alteração de projetos tipificados no presente anexo qualquer que seja a sua localização ou características específicas, quando os mesmos, nos termos deste anexo, não estejam sujeitos a qualquer limiar | Todos |  |
 
 ## ANEXO II — [a que se refere alínea b) do n.º 1 do artigo 16.º]
 
@@ -2540,24 +2626,24 @@ Projetos não incluídos no anexo i abrangidos pela obrigação de sujeição a 
 |  | l) Instalações para produção de energia hidroelétrica | ≥ 20 MW | ≥ 100 kW |
 |  | m) Aproveitamento de energia eólica para produção de eletricidade | ≥ 20 MW ou mais de 20 torres, qualquer que seja a potência, considerando-se como uma única instalação as situadas num raio de 2 km | ≥ 100 kW ou mais de duas torres, qualquer que seja a potência, considerando-se como uma única instalação as situadas num raio de 2 km |
 |  | n) Aproveitamento da energia das ondas, das marés ou da entalpia das águas marinhas | ≥ 20 MW, considerando-se como uma única instalação as situadas num raio de 2 milhas náuticas | ≥ 100 kW considerando-se como uma única instalação as situadas num raio de 2 milhas náuticas |
-|  | o) Instalações destinadas à captura para efeito de armazenamento geológico de fluxos de CO<sub>2</sub> provenientes de instalações não abrangidas pelo anexo I | Todas | Todas |
+|  | o) Instalações destinadas à captura para efeito de armazenamento geológico de fluxos de CO2 provenientes de instalações não abrangidas pelo anexo I | Todas | Todas |
 | 9 - Produção e transformação de metais | a) Produção de gusa ou aço (fusão primária e fusão secundária), incluindo equipamentos de vazamento contínuo de qualquer natureza, com uma capacidade superior ou igual a 2,5 t por hora, e forjas, trefilarias e laminadores | Laminagem a quente: ≥ 20 t/h de aço brutoForjamento a martelo: ≥ 50 kJ/martelo e ≥ 20 MWRevestimento ou metal fundido: ≥ 30 000 t/ano de material de revestimento ou ≥ 2,0 t/h de aço bruto | Todos |
 |  | b) Fundição de metais ferrosos | ≥ 20 t/dia | Todos |
 |  | c) Produção de metais brutos não ferrosos a partir de minérios, de concentrados ou de matérias-primas secundárias por processos metalúrgicos, químicos ou eletrolíticos | Todos | Todos |
 |  | d) Fusão, refinação, estiragem e laminagem dos metais não ferrosos, incluindo ligas de metais não ferrosos, excluindo os metais preciosos, incluindo produtos de recuperação de processos como afinação e moldagem em fundição | ≥ 4 t/dia de chumbo (Pb) ou cádmio (Cd)≥ 20 t/dia de outros metais | Todos |
-|  | e) Tratamento de superfície de metais e matérias plásticas por processos eletrolíticos ou químicos de qualquer natureza | Volume total das cubas de tratamento ≥ 30 m<sup>3</sup> | Todos |
+|  | e) Tratamento de superfície de metais e matérias plásticas por processos eletrolíticos ou químicos de qualquer natureza | Volume total das cubas de tratamento ≥ 30 m3 | Todos |
 |  | f) Estampagem e corte de grandes peças e estampagem de fundos por explosivos | Produção ≥ 20 t/dia | Todos |
 |  | g) Ustulação, calcinação ou sinterização de minérios metálicos, incluindo minérios sulfurados | Todos | Todos |
 | 10 - Metalomecânica, motores e materiais de transporte | a) Fabrico e montagem de veículos automóveis, equipamento ferroviário e fabrico de motores de qualquer tipo | ≥ 10 ha de área de instalações ou ≥ 200 veículos ou motores por dia | Todos |
-|  | b) Bancos de ensaio para motores, turbinas ou reatores | ≥ 2 ha de área de instalações ou ≥ 5000 m<sup>2</sup> de área bruta coberta | Todos |
-|  | c) Fabrico de caldeiras, fabrico de reservatórios e outras peças de chapa | ≥ 5 ha de área de instalações ou área coberta bruta ≥ 20 000 m<sup>2</sup> | Todos |
+|  | b) Bancos de ensaio para motores, turbinas ou reatores | ≥ 2 ha de área de instalações ou ≥ 5000 m2 de área bruta coberta | Todos |
+|  | c) Fabrico de caldeiras, fabrico de reservatórios e outras peças de chapa | ≥ 5 ha de área de instalações ou área coberta bruta ≥ 20 000 m2 | Todos |
 |  | d) Estaleiros navais | Área de implantação ≥ 5 ha ou capacidade para docagem de embarcações ≥ 1000 GT | TodosEm zonas portuárias: área de implantação ≥ 1 ha ou capacidade para docagem de embarcações ≥ 50 GT |
-|  | e) Construção e reparação de aeronaves | ≥ 10 ha de área de instalações ou área coberta bruta ≥ 20.000m<sup>2</sup> | Todas |
+|  | e) Construção e reparação de aeronaves | ≥ 10 ha de área de instalações ou área coberta bruta ≥ 20.000m2 | Todas |
 | 11 - Indústria dos minerais não-metálicos | a) Fabrico de cimento e cal | Produção ≥ 50 t/dia | Todos |
 |  | b) Produção de amianto e de produtos à base de amianto | Todos | Todos |
 |  | c) Produção de vidro, incluindo fibra de vidro | ≥ 20 t/dia | Todos |
 |  | d) Fusão de matérias minerais, incluindo a produção de fibras minerais | ≥ 20 t/dia | Todos |
-|  | e) Produtos cerâmicos obtidos por cozedura, nomeadamente telhas, tijolos, tijolos refratários, ladrilhos, produtos de grés ou porcelanas | ≥ 75 t/dia ou forno ≥ 4 m<sup>3</sup> ou densidade de carga enformada no forno ≥ 300 kg/m<sup>3</sup> | ≥ 5 t/dia |
+|  | e) Produtos cerâmicos obtidos por cozedura, nomeadamente telhas, tijolos, tijolos refratários, ladrilhos, produtos de grés ou porcelanas | ≥ 75 t/dia ou forno ≥ 4 m3 ou densidade de carga enformada no forno ≥ 300 kg/m3 | ≥ 5 t/dia |
 |  | f) Clínquer | Fornos rotativos:≥ 500 t/diaOutros fornos: ≥ 50 t/dia | Todos |
 | 12 - Indústria química, farmacêutica e da borracha | a) Tratamento de produtos intermediários e fabrico de produtos químicos | ≥ 1 ha ou produção ≥ 250 t/ano | Todos |
 |  | b) Instalações químicas destinadas à produção de produtos químicos orgânicos de base, como: | Todos | Todos |
@@ -2605,8 +2691,8 @@ Projetos não incluídos no anexo i abrangidos pela obrigação de sujeição a 
 |  | d) Lavagem, mercerização, branqueamento ou tintagem de fibras ou têxteis | ≥ 10 t/dia de capacidade de produção | Todos |
 |  | e) Curtimento de peles e tratamento de cabedais e fabrico de vestuário de couro | ≥ 12 t/dia de capacidade de produção | Todos |
 |  | f) Produção e tratamento de celulose | ≥ 40 t/dia de produto final | Todos |
-|  | g) Fabrico de painéis de fibra e de partículas e de contraplacados | ≥ 1 000 000 m<sup>2</sup>/ano ou ≥ 100 000 m<sup>3</sup>/ano | Todos |
-|  | h) Serração e tratamento de madeira | ≥ 100 000 m<sup>3</sup>/ano | ≥10 000 m<sup>3</sup>/ano |
+|  | g) Fabrico de painéis de fibra e de partículas e de contraplacados | ≥ 1 000 000 m2/ano ou ≥ 100 000 m3/ano | Todos |
+|  | h) Serração e tratamento de madeira | ≥ 100 000 m3/ano | ≥10 000 m3/ano |
 | 15 - Outras Atividades industriais e estabelecimentos onde estejam presentes substâncias perigosas | a) Instalações de tratamento de superfície de matérias, objetos ou produtos, que utilizem solventes orgânicos, nomeadamente para operações de apresto, impressão, revestimento, desengorduramento, impermeabilização, colagem, pintura, limpeza ou impregnação | Consumos ≥ 150 kg/h ou ≥ 200 t/ano | Todos |
 |  | b) Instalações para a produção de carbono (carvões minerais) ou eletrografite por combustão ou grafitação | Todos | Todos |
 |  | c) Fabrico de fibras minerais artificiais | ≥ 20 t/dia | Todos |
@@ -2617,14 +2703,14 @@ Projetos não incluídos no anexo i abrangidos pela obrigação de sujeição a 
 |  | d) Estradas de qualquer tipo, caminhos agrícolas, caminhos florestais e caminhos de penetração | Novos traçados: ≥ 5 kmAlargamento e recuperação de traçados existentes: ≥ 10 km | Caso a caso abaixo dos limiares do caso geral |
 |  | e) Construção de aeroportos e aeródromos | Todos | Todos |
 |  | f) Elevadores de montanha, funiculares, teleféricos e infraestruturas de apoio | Todas | Todos |
-| 17 - Obras hidráulicas | a) Obras de canalização e de regularização dos cursos de água | ≥ 5 km de leito sujeito a intervenção; ou bacia de drenagem com área ≥ 25 km<sup>2</sup> | ≥ 500 m de leito sujeito a intervenção; ou bacia de drenagem com área ≥ 5 km<sup>2</sup> |
-|  | b) Barragens e outras instalações destinadas a reter a água ou a armazená-la a longo prazo | Altura ≥ 15 m, volume ≥ 0,5 hm<sup>3</sup>, albufeira ≥ 5 ha ou coroamento ≥ 500 m | Altura ≥ 8 m,volume ≥ 0,1 hm<sup>3</sup>, albufeira ≥ 2 ha ou coroamento ≥ 250 m |
-|  | c) Sistemas de captação e de realimentação artificial de águas subterrâneas | ≥ 5 hm<sup>3</sup>/ano | ≥ 1 hm<sup>3</sup>/ano |
+| 17 - Obras hidráulicas | a) Obras de canalização e de regularização dos cursos de água | ≥ 5 km de leito sujeito a intervenção; ou bacia de drenagem com área ≥ 25 km2 | ≥ 500 m de leito sujeito a intervenção; ou bacia de drenagem com área ≥ 5 km2 |
+|  | b) Barragens e outras instalações destinadas a reter a água ou a armazená-la a longo prazo | Altura ≥ 15 m, volume ≥ 0,5 hm3, albufeira ≥ 5 ha ou coroamento ≥ 500 m | Altura ≥ 8 m,volume ≥ 0,1 hm3, albufeira ≥ 2 ha ou coroamento ≥ 250 m |
+|  | c) Sistemas de captação e de realimentação artificial de águas subterrâneas | ≥ 5 hm3/ano | ≥ 1 hm3/ano |
 |  | d) Instalação de aquedutos e adutora | ≥ 10 km e diâmetro interno ≥ 1,0 m | ≥ 2 km e diâmetro interno ≥ 0,6 m |
 | 18 - Obras marítimas | a) Construção de portos e docas, incluindo os portos de pesca | Lagoas: todosNovos portos: com capacidade para receber embarcações ≥ 1500 GTPortos já existentes: quando a capacidade aumente para 1500 GT ou mais ou o aumento de cada cais acostável ou de cada molhe de proteção seja ≥ 500 m | Lagoas: todosNovos portos: todosPortos já existentes: aumento de cada cais acostável ou de cada molhe de proteção ≥ 100 m |
 |  | b) Marinas | ≥ 300 postos de amarração para embarcações com comprimentos fora a fora até 12 m, com até 7 % dos postos de amarração para embarcações com comprimento superior | Novas marinas: todosMarinas já existentes: aumento ≥ 20 % dos postos já existentes |
 |  | c) Obras costeiras de combate à erosão marítima em contacto direto regular com o mar, como diques, pontões, enrocamentos, paredões e outras obras de defesa contra o avanço do mar, excluindo as incluídas em portos e marinas e as estruturas expressamente previstas nos Planos de Ordenamento da Orla Costeira, as obras de simples manutenção e de reconstrução de estruturas pré-existentes e obras de emergência | Todos | Todos |
-|  | d) Dragagens e operações de qualquer natureza que alterem a batimetria dos fundos marinhos, com exceção das executadas nas bacias portuárias e seus canais de acesso e das destinadas à extração de inertes para construção ou aterro | ≥ 100.000 m<sup>3</sup>/ano | Todos |
+|  | d) Dragagens e operações de qualquer natureza que alterem a batimetria dos fundos marinhos, com exceção das executadas nas bacias portuárias e seus canais de acesso e das destinadas à extração de inertes para construção ou aterro | ≥ 100.000 m3/ano | Todos |
 | 19 - Valorização, tratamento ou eliminação de resíduos | a) Instalações para a recuperação ou destruição de substâncias explosivas | ≥ 50 t/ano de material tratado | Todos |
 |  | b) Instalações destinadas a operações de valorização ou eliminação de resíduos perigosos | ≥ 5 t/dia | Todos |
 |  | c) Instalações destinadas a operações de valorização ou eliminação de resíduos não perigosos | ≥ 1 000 t/dia | Todos |
@@ -2634,7 +2720,7 @@ Projetos não incluídos no anexo i abrangidos pela obrigação de sujeição a 
 |  | g) Aterros para resíduos não perigosos de qualquer natureza, nomeadamente resíduos urbanos ou outros resíduos banais, com exceção dos resíduos de construção e demolição | ≥ 10 t/dia ou capacidade total ≥ 25 000 t | Todos |
 |  | h) Aterros para resíduos perigosos de qualquer natureza | ≥ 500 t/ano | Todos |
 |  | i) Tratamento de águas residuais urbanas e legalmente equiparadas | ≥ 25 000 e.p. | ≥ 1000 e.p. |
-|  | j) Tratamento de águas residuais industriais | ≥ 5 000 m<sup>3</sup>/dia | Todos |
+|  | j) Tratamento de águas residuais industriais | ≥ 5 000 m3/dia | Todos |
 |  | k) Locais para depósito de lamas provenientes de estações de tratamento de águas residuais de qualquer tipo, exceto se depositadas em aterro licenciado para as receber ou se aplicadas no solo de acordo com a legislação em vigor | Todos | Todos |
 |  | l) Parques de sucata | ≥ 2 ha | Todos |
 |  | m) Instalações de esquartejamento, valorização ou eliminação de carcaças e resíduos animais impróprios para o consumo alimentar | ≥ 10 t/dia ou ≥ 500 t/ano | Todos |
@@ -2652,32 +2738,32 @@ Categorias de atividades abrangidas pela obrigatoriedade de sujeição a AIA e a
 
 Os limiares estabelecidos no presente anexo referem-se, regra geral, à capacidade de produção ou a rendimentos. Se o mesmo operador exercer várias atividades da mesma rubrica na mesma instalação ou no mesmo local, as capacidades dessas atividades são adicionadas. Para efeitos das atividades de gestão de resíduos, este cálculo aplica-se ao nível das atividades enumeradas nos pontos 5.1, 5.3 a) e 5.3 b).
 
-| Setor | Tipologia das instalações | Tipologia das instalações | Limiares |
+| Setor | Tipologia das instalações | Limiares |  |
 | --- | --- | --- | --- |
-| 1 - Indústrias do setor da energia | 1.1 - Queima de combustíveis em instalações | 1.1 - Queima de combustíveis em instalações | potência térmica nominal total ≥ 50 MW |
-|  | 1.2 - Refinarias de petróleo e de gás | 1.2 - Refinarias de petróleo e de gás | Todas |
-|  | 1.3 - Produção de coque | 1.3 - Produção de coque | Todas |
+| 1 - Indústrias do setor da energia | 1.1 - Queima de combustíveis em instalações | potência térmica nominal total ≥ 50 MW |  |
+|  | 1.2 - Refinarias de petróleo e de gás | Todas |  |
+|  | 1.3 - Produção de coque | Todas |  |
 |  | 1.4 - Gaseificação ou liquefação de: | a) Carvão | Todas |
-|  | 1.4 - Gaseificação ou liquefação de: | b) Outros combustíveis em instalações | Potência térmica nominal total ≥ 20MW |
-| 2 - Instalações da produção e transformação de metais | 2.1 - Ustulação ou sinterização de minério metálico, incluindo de minério sulfurado | 2.1 - Ustulação ou sinterização de minério metálico, incluindo de minério sulfurado | Todas |
-|  | 2.2 - Produção de gusa ou aço (fusão primária ou secundária), incluindo os equipamentos de vazamento contínuo | 2.2 - Produção de gusa ou aço (fusão primária ou secundária), incluindo os equipamentos de vazamento contínuo | Capacidade ≥ 2,5 t/hora |
+|  | b) Outros combustíveis em instalações | Potência térmica nominal total ≥ 20MW |  |
+| 2 - Instalações da produção e transformação de metais | 2.1 - Ustulação ou sinterização de minério metálico, incluindo de minério sulfurado | Todas |  |
+|  | 2.2 - Produção de gusa ou aço (fusão primária ou secundária), incluindo os equipamentos de vazamento contínuo | Capacidade ≥ 2,5 t/hora |  |
 |  | 2.3 - Processamento de metais ferrosos por: | a) Operações de laminagem a quente | Capacidade ≥ 20 t de aço bruto/hora |
-|  | 2.3 - Processamento de metais ferrosos por: | b) Operações de forjamento a martelo | Energia de choque ≥ 50 kJ/martelo e potência calorífica utilizada ≥ 20 MW |
-|  | 2.3 - Processamento de metais ferrosos por: | c) Aplicação de revestimentos protetores de metal em fusão | Capacidade de tratamento ≥ 2 t de aço bruto /hora |
-|  | 2.4 - Operações de fundição de metais ferrosos | 2.4 - Operações de fundição de metais ferrosos | Capacidade produção ≥ 20 t/dia |
+|  | b) Operações de forjamento a martelo | Energia de choque ≥ 50 kJ/martelo e potência calorífica utilizada ≥ 20 MW |  |
+|  | c) Aplicação de revestimentos protetores de metal em fusão | Capacidade de tratamento ≥ 2 t de aço bruto /hora |  |
+|  | 2.4 - Operações de fundição de metais ferrosos | Capacidade produção ≥ 20 t/dia |  |
 |  | 2.5 - Processamento de metais não ferrosos: | a) Produção de metais brutos não ferrosos a partir de minérios, de concentrados ou de matérias-primas secundárias por processos metalúrgicos, químicos ou eletrolíticos | Todas |
-|  | 2.5 - Processamento de metais não ferrosos: | b) Fusão e ligas de metais não ferrosos, incluindo produtos de valorização e operação de fundições de materiais não ferrosos | Capacidade de fusão ≥ 4 t/dia de chumbo (Pb) e de cádmio (Cd) ou ≥ 20 t/dia de todos os outros metais |
-|  | 2.6 - Tratamento de superfície de metais e matérias plásticas que utilizem um processo eletrolítico ou químico | 2.6 - Tratamento de superfície de metais e matérias plásticas que utilizem um processo eletrolítico ou químico | Volume das cubas utilizadas no tratamento ≥ 30 m<sup>3</sup> |
+|  | b) Fusão e ligas de metais não ferrosos, incluindo produtos de valorização e operação de fundições de materiais não ferrosos | Capacidade de fusão ≥ 4 t/dia de chumbo (Pb) e de cádmio (Cd) ou ≥ 20 t/dia de todos os outros metais |  |
+|  | 2.6 - Tratamento de superfície de metais e matérias plásticas que utilizem um processo eletrolítico ou químico | Volume das cubas utilizadas no tratamento ≥ 30 m3 |  |
 | 3 - Indústria dos minérios | 3.1 - Produção de cimento, cal e dióxido de magnésio: | a) Produção de clínquer | Capacidade produção ≥ 500 t/dia em fornos rotativos ouCapacidade produção ≥ 50 t/dia em outros tipos de fornos |
-|  | 3.1 - Produção de cimento, cal e dióxido de magnésio: | b) Produção de cal em fornos | Capacidade produção ≥ 50 t/dia |
-|  | 3.1 - Produção de cimento, cal e dióxido de magnésio: | c) Produção óxido de magnésio em fornos | Capacidade ≥ 50 t/dia |
-|  | 3.2 - Produção de amianto ou fabrico de produtos à base de amianto | 3.2 - Produção de amianto ou fabrico de produtos à base de amianto | Todas |
-|  | 3.3 - Produção de vidro, incluindo fibras de vidro | 3.3 - Produção de vidro, incluindo fibras de vidro | Capacidade fusão ≥ 20 t/dia |
-|  | 3.4 - Fusão de matérias minerais, incluindo a produção de fibras minerais | 3.4 - Fusão de matérias minerais, incluindo a produção de fibras minerais | Capacidade fusão ≥ 20 t/dia |
-|  | 3.5 - Fabrico de produtos cerâmicos por aquecimento, nomeadamente telhas, tijolos, refratários, ladrilhos, produtos de grés ou porcelanas | 3.5 - Fabrico de produtos cerâmicos por aquecimento, nomeadamente telhas, tijolos, refratários, ladrilhos, produtos de grés ou porcelanas | Capacidade produção ≥ 75 t/dia e ou capacidade de forno ≥ 4 m<sup>3</sup>e densidade de carga enfornada por forno ≥ 300 kg/m<sup>3</sup> |
-| 4 - Indústria químicaPara efeitos do presente número, considera-se “produção” a produção em quantidade industrial por transformação química ou biológica das substâncias ou grupos de substâncias referidas nos n.<sup>os</sup>4.1 a 4.6 seguintes: | 4.1 - Fabrico de produtos químicos orgânicos, como: | a) Hidrocarbonetos simples (acíclicos ou cíclicos, saturados ou insaturados, alifáticos ou aromáticos) | Todas |
-| 4 - Indústria químicaPara efeitos do presente número, considera-se “produção” a produção em quantidade industrial por transformação química ou biológica das substâncias ou grupos de substâncias referidas nos n.<sup>os</sup>4.1 a 4.6 seguintes: | 4.1 - Fabrico de produtos químicos orgânicos, como: | b) Hidrocarbonetos oxigenados, como álcoois, aldeídos, cetonas, ácidos carboxílicos, ésteres e mistura de ésteres, acetatos, éteres, peróxidos, resinas epoxídicas | Todas |
-| 4 - Indústria químicaPara efeitos do presente número, considera-se “produção” a produção em quantidade industrial por transformação química ou biológica das substâncias ou grupos de substâncias referidas nos n.<sup>os</sup>4.1 a 4.6 seguintes: | 4.1 - Fabrico de produtos químicos orgânicos, como: | c) Hidrocarbonetos sulfurados | Todas |
+|  | b) Produção de cal em fornos | Capacidade produção ≥ 50 t/dia |  |
+|  | c) Produção óxido de magnésio em fornos | Capacidade ≥ 50 t/dia |  |
+|  | 3.2 - Produção de amianto ou fabrico de produtos à base de amianto | Todas |  |
+|  | 3.3 - Produção de vidro, incluindo fibras de vidro | Capacidade fusão ≥ 20 t/dia |  |
+|  | 3.4 - Fusão de matérias minerais, incluindo a produção de fibras minerais | Capacidade fusão ≥ 20 t/dia |  |
+|  | 3.5 - Fabrico de produtos cerâmicos por aquecimento, nomeadamente telhas, tijolos, refratários, ladrilhos, produtos de grés ou porcelanas | Capacidade produção ≥ 75 t/dia e ou capacidade de forno ≥ 4 m3e densidade de carga enfornada por forno ≥ 300 kg/m3 |  |
+| 4 - Indústria químicaPara efeitos do presente número, considera-se “produção” a produção em quantidade industrial por transformação química ou biológica das substâncias ou grupos de substâncias referidas nos n.os4.1 a 4.6 seguintes: | 4.1 - Fabrico de produtos químicos orgânicos, como: | a) Hidrocarbonetos simples (acíclicos ou cíclicos, saturados ou insaturados, alifáticos ou aromáticos) | Todas |
+| b) Hidrocarbonetos oxigenados, como álcoois, aldeídos, cetonas, ácidos carboxílicos, ésteres e mistura de ésteres, acetatos, éteres, peróxidos, resinas epoxídicas | Todas |  |  |
+| c) Hidrocarbonetos sulfurados | Todas |  |  |
 |  |  | d) Hidrocarbonetos azotados, como aminas, amidas, compostos nitrosos ou nitrados ou nitratados, nitrilos, cianetos, isocianatos | Todas |
 |  |  | e) Hidrocarbonetos fosfatados | Todas |
 |  |  | f) Hidrocarbonetos halogenados | Todas |
@@ -2691,12 +2777,12 @@ Os limiares estabelecidos no presente anexo referem-se, regra geral, à capacida
 |  |  | c) Bases, como hidróxido de amónio, hidróxido de potássio, hidróxido de sódio | Todas |
 |  |  | d) Sais, como cloreto de amónio, clorato de potássio, carbonato de potássio, carbonato de sódio, perboratos, nitrato de prata | Todas |
 |  |  | e) Não metais, óxidos metálicos ou outros compostos inorgânicos, como carboneto de cálcio, silício, carboneto de silício | Todas |
-|  | 4.3 - Produção de adubos à base de fósforo, azoto ou potássio (adubos simples ou compostos) | 4.3 - Produção de adubos à base de fósforo, azoto ou potássio (adubos simples ou compostos) | Todas |
-|  | 4.4 - Fabrico de produtos fitofarmacêuticos ou de biocidas | 4.4 - Fabrico de produtos fitofarmacêuticos ou de biocidas | Todas |
-|  | 4.5 - Fabrico de produtos farmacêuticos, incluindo produtos intermédios | 4.5 - Fabrico de produtos farmacêuticos, incluindo produtos intermédios | Todas |
-|  | 4.6. Produção de explosivos | 4.6. Produção de explosivos | Todas |
+|  | 4.3 - Produção de adubos à base de fósforo, azoto ou potássio (adubos simples ou compostos) | Todas |  |
+|  | 4.4 - Fabrico de produtos fitofarmacêuticos ou de biocidas | Todas |  |
+|  | 4.5 - Fabrico de produtos farmacêuticos, incluindo produtos intermédios | Todas |  |
+|  | 4.6. Produção de explosivos | Todas |  |
 | 5 - Gestão de resíduos | 5.1 - Eliminação ou valorização de resíduos perigosos, envolvendo uma ou mais das seguintes atividades: | a) Tratamento biológico | Capacidade ≥ 10 t/dia |
-|  | 5.1 - Eliminação ou valorização de resíduos perigosos, envolvendo uma ou mais das seguintes atividades: | b) Tratamento físico-químico |  |
+|  | b) Tratamento físico-químico |  |  |
 |  |  | c) Loteamento ou mistura antes da sujeição a qualquer das outras atividades enumeradas nos pontos 5.1. e 5.2. |  |
 |  |  | d) Reembalagem antes da sujeição a qualquer das outras atividades enumeradas nos pontos 5.1. e 5.2. |  |
 |  |  | e) Valorização/regeneração de solventes |  |
@@ -2707,43 +2793,44 @@ Os limiares estabelecidos no presente anexo referem-se, regra geral, à capacida
 |  |  | j) Re-refinação e outras reutilizações de óleos |  |
 |  |  | k) Lagunagem |  |
 |  | 5.2 - Eliminação ou valorização de resíduos em instalações de incineração de resíduos ou em instalações de coincineração de resíduos: | a) Resíduos não perigosos | Capacidade ≥ 3t/hora |
-|  | 5.2 - Eliminação ou valorização de resíduos em instalações de incineração de resíduos ou em instalações de coincineração de resíduos: | b) Resíduos perigosos | Capacidade ≥ 10t/dia |
+|  | b) Resíduos perigosos | Capacidade ≥ 10t/dia |  |
 |  | 5.3 - a) Eliminação de resíduos não perigosos, envolvendo uma ou mais das seguintes atividades, e excluídas as atividades abrangidas pelo [Decreto-Lei n.º 152/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1997-365343), de 19 de junho, e subsequentes alterações: | i) Tratamento biológico | Capacidade ≥50 t/dia |
-|  | 5.3 - a) Eliminação de resíduos não perigosos, envolvendo uma ou mais das seguintes atividades, e excluídas as atividades abrangidas pelo [Decreto-Lei n.º 152/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1997-365343), de 19 de junho, e subsequentes alterações: | ii) Tratamento físico-químico |  |
-|  | 5.3 - a) Eliminação de resíduos não perigosos, envolvendo uma ou mais das seguintes atividades, e excluídas as atividades abrangidas pelo [Decreto-Lei n.º 152/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1997-365343), de 19 de junho, e subsequentes alterações: | iii) Pré-tratamento de resíduos para incineração ou coincineração |  |
+|  | ii) Tratamento físico-químico |  |  |
+|  | iii) Pré-tratamento de resíduos para incineração ou coincineração |  |  |
 |  |  | iv) Tratamento de escórias e cinzas |  |
 |  |  | v) Tratamento de resíduos metálicos ou fragmentados, incluindo os resíduos de equipamentos elétricos e eletrónicos e os veículos em fim de vida útil e seus componentes |  |
 |  | 5.3 - b) Valorização, ou uma combinação de valorização e eliminação, de resíduos não perigosos, envolvendo uma ou mais das seguintes atividades, excluindo as atividades abrangidas pelo [Decreto-Lei n.º 152/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1997-365343), de 19 de junho: | i) Tratamento biológico | Capacidade ≥ 75 t/dia |
-|  | 5.3 - b) Valorização, ou uma combinação de valorização e eliminação, de resíduos não perigosos, envolvendo uma ou mais das seguintes atividades, excluindo as atividades abrangidas pelo [Decreto-Lei n.º 152/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1997-365343), de 19 de junho: | ii) Pré-tratamento de resíduos para incineração ou coincineração |  |
-|  | 5.3 - b) Valorização, ou uma combinação de valorização e eliminação, de resíduos não perigosos, envolvendo uma ou mais das seguintes atividades, excluindo as atividades abrangidas pelo [Decreto-Lei n.º 152/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1997-365343), de 19 de junho: | iii) Tratamento de escórias e cinzas |  |
+|  | ii) Pré-tratamento de resíduos para incineração ou coincineração |  |  |
+|  | iii) Tratamento de escórias e cinzas |  |  |
 |  |  | iv) Tratamento de resíduos metálicos ou fragmentados incluindo os resíduos de equipamentos elétricos e eletrónicos e os veículos em fim de vida útil e seus componentes |  |
 |  |  | Quando a única atividade de tratamento de resíduos realizada for a digestão anaeróbia, é-lhe aplicável um limiar de capacidade de 100 t/dia |  |
-|  | 5.4 - Aterros, na aceção da alínea i) do n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 29/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2011-146215), de 16 de novembro, com exceção dos aterros de resíduos inertes | 5.4 - Aterros, na aceção da alínea i) do n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 29/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2011-146215), de 16 de novembro, com exceção dos aterros de resíduos inertes | Receção ≥ 10 t/dia de resíduos ou capacidade total ≥ 25 000 t |
-|  | 5.5 - Armazenamento temporário de resíduos perigosos não abrangidos pelo ponto 5.4 enquanto se aguarda a execução de uma das atividades enumeradas nos pontos 5.1, 5.2, 5.4 e 5.6, com exclusão do armazenamento temporário, antes da recolha, no local onde os resíduos foram produzidos | 5.5 - Armazenamento temporário de resíduos perigosos não abrangidos pelo ponto 5.4 enquanto se aguarda a execução de uma das atividades enumeradas nos pontos 5.1, 5.2, 5.4 e 5.6, com exclusão do armazenamento temporário, antes da recolha, no local onde os resíduos foram produzidos | Capacidade total ≥ 50 t |
-|  | 5.6 - Armazenamento subterrâneo de resíduos perigosos | 5.6 - Armazenamento subterrâneo de resíduos perigosos | Capacidade total ≥ 50 t |
+|  | 5.4 - Aterros, na aceção da alínea i) do n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 29/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2011-146215), de 16 de novembro, com exceção dos aterros de resíduos inertes | Receção ≥ 10 t/dia de resíduos ou capacidade total ≥ 25 000 t |  |
+|  | 5.5 - Armazenamento temporário de resíduos perigosos não abrangidos pelo ponto 5.4 enquanto se aguarda a execução de uma das atividades enumeradas nos pontos 5.1, 5.2, 5.4 e 5.6, com exclusão do armazenamento temporário, antes da recolha, no local onde os resíduos foram produzidos | Capacidade total ≥ 50 t |  |
+|  | 5.6 - Armazenamento subterrâneo de resíduos perigosos | Capacidade total ≥ 50 t |  |
 | 6 - Outras atividades | 6.1 - Fabrico em instalações industriais de: | a) Pasta de papel a partir de madeira ou de outras substâncias fibrosas | Todas |
 |  |  | b) Papel ou cartão | Capacidade de produção ≥ 20 t/dia |
-|  |  | c) Um ou vários dos seguintes painéis à base de madeira: painéis de partículas orientadas, painéis de aglomerado ou painéis de fibras | Capacidade de produção ≥ 600 m<sup>3</sup>/dia |
-|  | 6.2 - Pré-tratamento (operações de lavagem, branqueamento, mercerização) ou ao tingimento de fibras ou têxteis | 6.2 - Pré-tratamento (operações de lavagem, branqueamento, mercerização) ou ao tingimento de fibras ou têxteis | Capacidade de tratamento ≥ 10 t/dia |
-|  | 6.3 - Curtimenta de peles | 6.3 - Curtimenta de peles | Capacidade de tratamento ≥ 12 t/dia de produto acabado |
+|  |  | c) Um ou vários dos seguintes painéis à base de madeira: painéis de partículas orientadas, painéis de aglomerado ou painéis de fibras | Capacidade de produção ≥ 600 m3/dia |
+|  | 6.2 - Pré-tratamento (operações de lavagem, branqueamento, mercerização) ou ao tingimento de fibras ou têxteis | Capacidade de tratamento ≥ 10 t/dia |  |
+|  | 6.3 - Curtimenta de peles | Capacidade de tratamento ≥ 12 t/dia de produto acabado |  |
 |  | 6.4 - Instalações destinadas a: | a) Operação de matadouros | Capacidade de produção de carcaças ≥ 50 t/dia |
-|  | 6.4 - Instalações destinadas a: | bi) Tratamento e transformação, com exceção de atividades exclusivamente de embalagem, de apenas matérias-primas animais (com exceção exclusivamente do leite), anteriormente transformadas ou não, destinadas ao fabrico de produtos para a alimentação humana e ou animal | Capacidade de produção de produto acabado ≥ 75 t/dia |
+|  | bi) Tratamento e transformação, com exceção de atividades exclusivamente de embalagem, de apenas matérias-primas animais (com exceção exclusivamente do leite), anteriormente transformadas ou não, destinadas ao fabrico de produtos para a alimentação humana e ou animal | Capacidade de produção de produto acabado ≥ 75 t/dia |  |
 |  |  | bii) Tratamento e transformação com exceção de atividades exclusivamente de embalagem, de apenas matérias-primas vegetais anteriormente transformadas ou não, destinados ao fabrico de produtos para a alimentação humana e ou animal | Capacidade de produção de produto acabado ≥ 300 t/dia ou ≥ 600 t/dia, quando a instalação não funcione durante mais de 90 dias consecutivos em qualquer período de um ano |
-|  |  | biii) Tratamento e transformação com exceção de atividades exclusivamente de embalagem, de matérias-primas animais e vegetais, anteriormente transformadas ou não, destinados ao fabrico de produtos combinados ou separados para a alimentação humana e ou animal | ≥ 75 t/dia se A for a ≥10e [300 - (22,5 × A)] nos restantes casos em que «A» é a proporção de materiais de origem animal (em percentagem do peso) da capacidade de produção de produto acabadoO peso das embalagens não será incluído no peso final dos produtosO presente ponto não se aplica aos casos em que a matéria-prima seja exclusivamente o leiteQuadro 1 (<sup>1</sup>) |
+|  |  | biii) Tratamento e transformação com exceção de atividades exclusivamente de embalagem, de matérias-primas animais e vegetais, anteriormente transformadas ou não, destinados ao fabrico de produtos combinados ou separados para a alimentação humana e ou animal | ≥ 75 t/dia se A for a ≥10e [300 - (22,5 × A)] nos restantes casos em que «A» é a proporção de materiais de origem animal (em percentagem do peso) da capacidade de produção de produto acabadoO peso das embalagens não será incluído no peso final dos produtosO presente ponto não se aplica aos casos em que a matéria-prima seja exclusivamente o leiteQuadro 1 (1) |
 |  |  | c) Tratamento e transformação exclusivamente de leite | Quantidade de leite recebido ≥ 200 t/dia (valor médio anual) |
-|  | 6.5 - Eliminação ou valorização de carcaças ou resíduos de animais | 6.5 - Eliminação ou valorização de carcaças ou resíduos de animais | Capacidade de tratamento ≥ 10 t/dia |
+|  | 6.5 - Eliminação ou valorização de carcaças ou resíduos de animais | Capacidade de tratamento ≥ 10 t/dia |  |
 |  | 6.6 - Instalações para a criação intensiva de aves de capoeira e de suínos, com espaço para pelo menos: | a) 40 000 aves de capoeira |  |
-|  | 6.6 - Instalações para a criação intensiva de aves de capoeira e de suínos, com espaço para pelo menos: | b) 2 000 porcos de produção (≥30 kg) |  |
-|  | 6.6 - Instalações para a criação intensiva de aves de capoeira e de suínos, com espaço para pelo menos: | c) 750 porcas reprodutoras |  |
-|  | 6.7 - Tratamento de superfície de matérias, objetos ou produtos, que utilizem solventes orgânicos, nomeadamente para operações de preparação, impressão, revestimento, desengorduramento, impermeabilização, colagem, pintura, limpeza ou impregnação com um solvente orgânico | 6.7 - Tratamento de superfície de matérias, objetos ou produtos, que utilizem solventes orgânicos, nomeadamente para operações de preparação, impressão, revestimento, desengorduramento, impermeabilização, colagem, pintura, limpeza ou impregnação com um solvente orgânico | Capacidade de consumo ≥ 150 kg de solventes /hora ou ≥ 200 t/ano |
-|  | 6.8 - Produção de carbono (carvões minerais) ou eletrografite por combustão ou grafitação | 6.8 - Produção de carbono (carvões minerais) ou eletrografite por combustão ou grafitação | Todas |
-|  | 6.9 - Captura de fluxos de CO<sub>2</sub> de instalações abrangidas pelo [Decreto-Lei n.º 127/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2013-499546), de 30 de agosto, para efeitos de armazenamento geológico nos termos do [Decreto-Lei n.º 60/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2012-553447), de 14 de março | 6.9 - Captura de fluxos de CO<sub>2</sub> de instalações abrangidas pelo [Decreto-Lei n.º 127/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2013-499546), de 30 de agosto, para efeitos de armazenamento geológico nos termos do [Decreto-Lei n.º 60/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2012-553447), de 14 de março | Todas |
-|  | 6.10 - Conservação de madeiras e de produtos à base de madeira com químicos | 6.10 - Conservação de madeiras e de produtos à base de madeira com químicos | Capacidade de produção ≥ 75 m<sup>3</sup>/dia para além do tratamento exclusivo contra o azulamento |
-|  | 6.11 - Tratamento realizado independentemente de águas residuais não abrangidas pelas normas constantes da legislação em vigor que estabelecem o regime da utilização dos recursos hídricos, provenientes de uma instalação abrangida pelo presente anexo | 6.11 - Tratamento realizado independentemente de águas residuais não abrangidas pelas normas constantes da legislação em vigor que estabelecem o regime da utilização dos recursos hídricos, provenientes de uma instalação abrangida pelo presente anexo | Todas |
+|  | b) 2 000 porcos de produção (≥30 kg) |  |  |
+|  | c) 750 porcas reprodutoras |  |  |
+|  | 6.7 - Tratamento de superfície de matérias, objetos ou produtos, que utilizem solventes orgânicos, nomeadamente para operações de preparação, impressão, revestimento, desengorduramento, impermeabilização, colagem, pintura, limpeza ou impregnação com um solvente orgânico | Capacidade de consumo ≥ 150 kg de solventes /hora ou ≥ 200 t/ano |  |
+|  | 6.8 - Produção de carbono (carvões minerais) ou eletrografite por combustão ou grafitação | Todas |  |
+|  | 6.9 - Captura de fluxos de CO2 de instalações abrangidas pelo [Decreto-Lei n.º 127/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2013-499546), de 30 de agosto, para efeitos de armazenamento geológico nos termos do [Decreto-Lei n.º 60/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2012-553447), de 14 de março | Todas |  |
+|  | 6.10 - Conservação de madeiras e de produtos à base de madeira com químicos | Capacidade de produção ≥ 75 m3/dia para além do tratamento exclusivo contra o azulamento |  |
+|  | 6.11 - Tratamento realizado independentemente de águas residuais não abrangidas pelas normas constantes da legislação em vigor que estabelecem o regime da utilização dos recursos hídricos, provenientes de uma instalação abrangida pelo presente anexo | Todas |  |
 
-(<sup>1</sup>)
+(1)
 
-![](https://files.diariodarepublica.pt/images/926750282/926589009.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/926750282/926589009.png) |
+| --- |
 
 ## ANEXO IV — [a que se refere a alínea a) do n.º 3 do artigo 82.º]
 
@@ -2804,3 +2891,7 @@ Atmosfera
 12 - Substâncias que exercem uma influência desfavorável no balanço de oxigénio na água (e mensuráveis por parâmetros como a CBO e a CQO).
 
 13 - Substâncias que constam da lista do anexo x do [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março, na sua redação atual.
+
+119343954
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:26px; } .Tbl8 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl12 { min-height:17px; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl14 { min-height:35px; } .Tbl15 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl16 { min-height:44px; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl18 { min-height:50px; } .Tbl19 { text-align:justify; text-align-last:justify; } .Tbl20 { min-height:29px; } .Tbl21 { min-height:19px; } .Tbl22 { min-height:40px; } .Tbl23 { min-height:47px; } .Tbl24 { min-height:37px; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl27 { min-height:34px; } .Tbl28 { min-height:39px; } .Tbl29 { min-height:73px; } .Tbl30 { min-height:28px; } .Tbl31 { min-height:18px; } .Tbl32 { min-height:63px; } .Tbl33 { min-height:38px; } .Tbl34 { min-height:27px; } .Tbl35 { min-height:54px; } .Tbl36 { min-height:45px; } .Tbl37 { min-height:36px; } .Tbl38 { min-height:41px; } .Tbl39 { height:30px; } .Tbl40 { height:72px; } .Tbl41 { height:35px; } .Tbl42 { height:77px; } .Tbl43 { height:40px; } .Tbl44 { height:19px; } .Tbl45 { min-height:58px; } .Tbl46 { min-height:89px; } .Tbl47 { min-height:62px; } .Tbl48 { min-height:49px; } .Tbl49 { min-height:52px; } .Tbl50 { min-height:30px; } .Tbl51 { min-height:51px; } .Tbl52 { min-height:93px; } .Tbl53 { min-height:46px; } .Tbl54 { min-height:105px; } .Tbl55 { min-height:69px; } .Tbl56 { min-height:59px; } .Tbl57 { min-height:77px; } .Tbl58 { min-height:33px; } .Tbl59 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl60 { min-height:53px; } .Tbl61 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl62 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl63 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl64 { min-height:21px; } .Tbl65 { min-height:66px; } .Tbl66 { min-height:138px; }

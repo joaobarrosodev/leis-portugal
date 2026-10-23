@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/256/2007/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/256-2007-518438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f0b4b05ad252c93c357ec71ee4f32a8546b8947d1cecfdd9286a5ceff9cd640
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e1a9f60fa22cee05b842b18be68874e4abfeb4f4af24a6b85b69b584bbf9f8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Alvará
+- Armamento
 - Armas e Munições
 - Certificado de Conformidade
-- Direção Nacional
-- Armamento
-- Impresso
-- Importação
-- Licenciamento
-- Exportação
-- Regulamento
-- Taxa
 - Comércio
+- Direção Nacional
+- Exportação
+- Importação
+- Impresso
+- Licenciamento
+- PSP
+- Regulamento
 - Regulamento de Segurança das Instalações de Fabrico Reparação Comércio e Guarda de Armas
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:640579:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640579:por
+  label: "Substituídos os anexos I a XXVII e XXIX a XXXI a que se refere o nº 2º da Port 931/2006 de 08-Set, na redacção do\
+    \ presente diploma, pela PORT.1165/2007.13.09.2007.MAI, DR.IS [177] de 13.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1165-2007-640579
+  date: '2007-09-13'
+- type: amended_by
+  target: pt:dre:106886612:por
+  label: Alterados, a partir de 01.05.2017, o art. 2.º e o anexo xii da Port 931/2006 de 08-set, na redação do presente diploma,
+    pelo(a) Portaria n.º 140/2017 - Diário da República n.º 76/2017, Série I de 2017-04-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-2017-106886612
+  date: '2017-04-18'
+- type: amended_by
+  target: pt:dre:107731470:por
+  label: Alterado o art. 5.º da Port 933/2006 de 08-set, com a redação dada pelo presente diploma, pelo(a) Portaria n.º 224/2017
+    - Diário da República n.º 141/2017, Série I de 2017-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/224-2017-107731470
+  date: '2017-07-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
   label: null
@@ -101,16 +119,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/934/2006/09/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/934/2006/09/08/p/dre
+- type: cites
+  target: pt:dre:540040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:19Z'
   warnings: []
   errors: []
 ---
@@ -197,8 +231,8 @@ b) Exportação e transferência de armas das classes B, B1, C e D, a que se ref
 
 As alterações introduzidas pela presente portaria vigoram a partir do dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Administração Interna, José Manuel Santos de Magalhães, em 9 de Fevereiro de 2007.**
+O Secretário de Estado Adjunto e da Administração Interna, José Manuel Santos de Magalhães, em 9 de Fevereiro de 2007.
 
 ANEXOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05000/15281530.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05000/15281530.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05000/15281530.pdf)

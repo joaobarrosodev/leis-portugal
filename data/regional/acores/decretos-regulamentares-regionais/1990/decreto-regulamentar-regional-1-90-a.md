@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/01/00100/00020006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1990-313824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 620fc003e3c04893ffeb436542732538300f70bd5d6f8e5ef8bd392e899a83c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f126b89ff7e43cdbeb59af19d29f335edacf5a5ed9c127fa5a15e36a4f634d31
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Instituto Regional do Ordenamento Agrário
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:522647:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618928:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522647:por
+  label: "Revogado a partir de 23.02.2007 pelo DLR.3/2007/A.18.12.2006.AL-RAA, DR.IS [17] de 24.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2007-522647
+  date: '2006-12-18'
 article_structure:
   article_count: 33
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:32Z'
   warnings: []
   errors: []
 ---
@@ -178,11 +222,15 @@ g) Prestar anualmente contas da sua gerência à SRAP e à Secção Regional dos
 
 #### SECÇÃO III — Serviços
 
-###### Artigo 7.º — Secção Administrativa (SA)
+###### Artigo 7.º
+
+#### Secção Administrativa (SA)
 
 À SA compete assegurar e executar todas as actividades relacionadas com a administração dos recursos humanos, arquivo e expediente geral do IROA.
 
-###### Artigo 8.º — Divisão de Apoio à Gestão (DAG)
+###### Artigo 8.º
+
+##### Divisão de Apoio à Gestão (DAG)
 
 À DAG compete assegurar e executar todas as actividades relacionadas com a organização dos orçamentos e da conta anual de gerência, do processamento de despesas, do controlo orçamental, da arrecadação das receitas e do pagamento das despesas autorizadas e as ligadas com a administração do património, instalações e aquisições de bens.
 
@@ -190,7 +238,9 @@ g) Prestar anualmente contas da sua gerência à SRAP e à Secção Regional dos
 
 A DSOA tem como objectivo o estudo, coordenação e orientação da execução das medidas de ordenamento rural, de racionalização do uso da terra e de estruturação fundiária.
 
-###### Artigo 10.º — Divisão de Ordenamento Agrário e de Melhoramentos Fundiários (DOAMF)
+###### Artigo 10.º
+
+##### Divisão de Ordenamento Agrário e de Melhoramentos Fundiários (DOAMF)
 
 Á DOAMF compete:
 
@@ -204,7 +254,9 @@ d) Promover e elaborar os processos para adjudicação de obras da competência 
 
 e) Orientar e coordenar o processo de instalação de agricultores e do acesso destes à propriedade da terra ou à sua exploração, bem como a realização de estudos prévios de dimensionamento de explorações agrícolas viáveis.
 
-###### Artigo 11.º — Divisão de Estruturação Fundiária (DEF)
+###### Artigo 11.º
+
+##### Divisão de Estruturação Fundiária (DEF)
 
 À DEF compete:
 
@@ -376,14 +428,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Velas de São Jorge, em 27 de Outubro de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Dezembro de 1989.**
+Assinado em Angra do Heroísmo em 11 de Dezembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 Mapa a que se refere o artigo 20.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/00100/00020006.pdf))](https://files.diariodarepublica.pt/1s/1990/01/00100/00020006.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/01/00100/00020006.pdf)

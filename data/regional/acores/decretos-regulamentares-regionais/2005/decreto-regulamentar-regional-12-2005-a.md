@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2005/05/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2005-222039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d1ee46011ac8f988f1f7f85c37a0ff876ab0ff463fff47d4dea8993d41791c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52c21adac41d897063c200cfff2c61d0cbec95ffa9c9d3d06e03e609419b982c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Regional
+- Açores
 - Apoio ao Investimento
-- Projeto de Investimento
+- Autarquia Local
 - Desenvolvimento Económico
 - Desenvolvimento Local
+- Desenvolvimento Regional
+- Projeto de Investimento
 - Sidel
 - Sider
-- Açores
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:636761:por
@@ -84,16 +84,27 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: corrected_by
+  target: pt:dre:233162:por
+  label: "Rectificado pela DECL-RECT.53/2005.23.06.2005.PCM, DR.IS-B [128] de 06.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/53-2005-233162
+  date: '2005-06-23'
+- type: repealed_by
+  target: pt:dre:636761:por
+  label: "Revogado a partir de 24.07.2007 pelo DLR.19/2007/A.23.07.2007.AL-RAA, DR.IS [140] de 23.07.2007, sem prejuízo do\
+    \ disposto no nº 1 do art. 38º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2007-636761
+  date: '2007-07-23'
 article_structure:
-  article_count: 31
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:02Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +157,9 @@ d) Cumprir os critérios de pequena e média empresa, de acordo com a Recomenda�
 
 8 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Os projectos, com excepção dos referidos no n.º 4 deste artigo, serão hierarquizados com base na pontuação final obtida e, em caso de igualdade, em função da antiguidade da candidatura, sendo seleccionados, para efeitos da concessão de apoio financeiro, até ao limite orçamental que vier a ser definido anualmente por resolução do Conselho do Governo.
 
@@ -156,7 +169,9 @@ d) Cumprir os critérios de pequena e média empresa, de acordo com a Recomenda�
 
 4 - Aos projectos de investimento localizados nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo não se aplica o disposto nos números anteriores.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O incentivo a conceder reveste a forma de subsídio não reembolsável, correspondente a 40% das despesas elegíveis, à excepção dos projectos referidos no n.º 4 do artigo 9.º, cuja taxa de apoio será de 45%.
 
@@ -166,7 +181,9 @@ d) Cumprir os critérios de pequena e média empresa, de acordo com a Recomenda�
 
 4 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 ...
 
@@ -180,7 +197,9 @@ d) ...
 
 e) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +207,9 @@ e) ...
 
 3 - Aos projectos de investimento localizados nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo não se aplica o disposto no número anterior.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -236,7 +257,7 @@ f) ...
 
 3 - O subcritério B2 será determinado pela percentagem de novos capitais próprios (podendo incluir até 40% os suprimentos consolidados pelo período de afectação do projecto) relativamente ao investimento elegível, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
 
 5.º
 
@@ -266,13 +287,13 @@ O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicaç
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de Março de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 22 de Abril de 2005.**
+Assinado em Angra do Heroísmo em 22 de Abril de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO
 
@@ -642,11 +663,11 @@ A2 = autonomia financeira.
 
 2 - O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
 
 3 - O subcritério A2 será calculado tendo por base a noção de autonomia financeira, resultante do rácio capital próprio/activo líquido, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
 
 4 - Para o cálculo dos subcritérios referidos nos n.os 2 e 3 serão utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere o n.º 6 do artigo 5.º do presente diploma, o balanço e a demonstração de resultados intercalares reportados a data posterior mas anterior à data da apresentação da candidatura, desde que ratificado por um TOC ou um ROC.
 
@@ -668,11 +689,11 @@ B2 = contributo para a consolidação financeira.
 
 2 - O subcritério B1 será medido pelo indicador VAB/investimento elegível, sendo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
 
 3 - O subcritério B2 será determinado pela percentagem de novos capitais próprios (podendo incluir até 40% os suprimentos consolidados pelo período de afectação do projecto) relativamente ao investimento elegível, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
 
 4.º
 
@@ -702,7 +723,7 @@ d) Inovação tecnológica, incluindo racionalização energética.
 
 A pontuação deste subcritério será em função do peso relativo dos investimentos prioritários sobre o total das despesas elegíveis, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
 
 3 - O subcritério C2 mede o grau de inovação do investimento face ao mercado existente do seguinte modo:
 
@@ -714,7 +735,7 @@ c) Introdução de novos produtos e serviços - C2 = 100.
 
 4 - A pontuação do subcritério C3 será atribuída nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)](https://files.diariodarepublica.pt/1s/2005/05/100b00/35233531.pdf)
 
 5 - Para o cálculo da pontuação do subcritério C3, o número de postos de trabalho existentes será medido com base na média dos postos de trabalho dos últimos seis meses, utilizando para o efeito os mapas de remunerações do mês anterior, e de três e seis meses anteriores à data de apresentação da candidatura.
 

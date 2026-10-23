@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/11/22700/0005800063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/32/2023/11/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-2023-224661318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cadf3cd08c1a9551c8cfcf493bd2287c0aa7095d260a0f81b0abedbcb1ff277
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01dedd70ea54377bfb6ea7f4d863b05018e00461fe51ca7908a895fa9a04e82b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Comissão de Auditoria e Controlo do PRR
+- Estrutura de Missão Recuperar Portugal
 - Fiscalização
 - Fundos CE
 - Investimento
-- Açores
 - Plano de Recuperação e Resiliência
-- Estrutura de Missão Recuperar Portugal
-- Comissão de Auditoria e Controlo do PRR
 relationships:
 - type: cites
   target: celex:32021R0241
@@ -95,16 +95,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/46-b/2021/05/04/p/dre
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162756796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170649065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216055961:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:57Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +151,9 @@ Os artigos 1.º e 6.º do [Decreto Regulamentar Regional n.º 23/2021/A](https:/
 
 O presente diploma estabelece o modelo de governação das reformas e dos investimentos identificados no Plano de Recuperação e Resiliência de Portugal, aprovado pelo Conselho Europeu, em 13 de julho de 2021, revisto pelo Conselho Europeu, em 17 de outubro de 2023, e destinados à Região Autónoma dos Açores, doravante designado por PRR-Açores.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -207,11 +225,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de novembro de 2023.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 21 de novembro de 2023.**
+Assinado em Angra do Heroísmo em 21 de novembro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -358,3 +376,5 @@ Em tudo o que não esteja previsto no presente diploma, é aplicado, subsidiaria
 ###### Artigo 9.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+117086095

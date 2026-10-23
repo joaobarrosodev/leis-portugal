@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08900/08580860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1977-139944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d85e7803667bc5a17a89f78d4b98a93deffd8db458533c4db3325762e1f2b258
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e17b5488ea77ee3be2154f9a2f01bf0d1cc40f946536934affa6a0665e1b4dc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Definição de Competências
+- Governo Regional
+- Orgânica
+- Pessoal de Gabinete
+- Quadro de Pessoal
+- Secretaria Regional do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:328179:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:328179:por
+  label: "Revogado pelo DRR.19/78/A.1978.09.28.GR-RAA, DR.IS [240] de 18/Out/1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1978-328179
+  date: '1978-09-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:35Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +112,7 @@ O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º 
 
 ### CAPÍTULO I
 
-###### Artigo 1.º A Secretaria Regional do Trabalho tem como atribuições:
+Artigo 1.º A Secretaria Regional do Trabalho tem como atribuições:
 
 a) Promover a melhoria das condições de trabalho, quer garantindo o cumprimento das normas obrigatórias, quer propondo a alteração das normas vigentes;
 
@@ -124,7 +136,7 @@ j) Actuar junto dos desempregados nos planos social e económico, procurando a s
 
 l) Cooperar com a Secretaria Regional dos Assuntos Sociais na orientação e apoio aos trabalhadores emigrantes.
 
-###### Art. 2.º Para o desempenho das suas atribuições a Secretaria Regional do Trabalho dispõe, para além do Gabinete do Secretário Regional, dos seguintes serviços:
+Art. 2.º Para o desempenho das suas atribuições a Secretaria Regional do Trabalho dispõe, para além do Gabinete do Secretário Regional, dos seguintes serviços:
 
 Direcção Regional do Trabalho;
 
@@ -134,7 +146,7 @@ Secretaria.
 
 ### CAPÍTULO II
 
-###### Art. 3.º À Direcção Regional do Trabalho compete:
+Art. 3.º À Direcção Regional do Trabalho compete:
 
 a) Coordenar e superintender na actuação dos serviços que a integrarem;
 
@@ -154,13 +166,13 @@ h) Colaborar nas acções de reformulação das condições jurídicas da presta
 
 i) Elaborar pareceres e prestar apoio técnico sob assuntos da sua competência.
 
-###### Art. 4.º - 1. A Direcção Regional do Trabalho é chefiada por um director regional e terá a orgânica interna a definir posteriormente.
+Art. 4.º - 1. A Direcção Regional do Trabalho é chefiada por um director regional e terá a orgânica interna a definir posteriormente.
 
 2. A Direcção Regional do Trabalho disporá do pessoal constante do quadro anexo.
 
 ### CAPÍTULO III
 
-###### Art. 5.º À Direcção Regional do Emprego e Formação Profissional compete:
+Art. 5.º À Direcção Regional do Emprego e Formação Profissional compete:
 
 a) Coordenar e superintender na actuação dos serviços que a integrarem;
 
@@ -182,11 +194,11 @@ i) Formar o pessoal técnico e preparar o material técnico-pedagógico necessá
 
 j) Elaborar pareceres e prestar apoio técnico sobre assuntos da sua competência.
 
-###### Art. 6.º A Direcção Regional do Emprego e Formação Profissional é chefiada por um director regional e terá a orgânica interna a definir posteriormente.
+Art. 6.º A Direcção Regional do Emprego e Formação Profissional é chefiada por um director regional e terá a orgânica interna a definir posteriormente.
 
 ### CAPÍTULO IV
 
-###### Art. 7.º A Secretaria é um órgão de apoio técnico-administrativo, ao qual compete:
+Art. 7.º A Secretaria é um órgão de apoio técnico-administrativo, ao qual compete:
 
 a) A execução do expediente geral da Secretaria Regional do Trabalho, registo e arquivo do mesmo;
 
@@ -196,20 +208,20 @@ c) Assegurar o serviço de economato e contabilidade;
 
 d) Elaborar e executar o orçamento.
 
-###### Art. 8.º A Secretaria é chefiada por um chefe de secretaria, com a categoria de primeiro-oficial, e disporá do pessoal constante do quadro anexo.
+Art. 8.º A Secretaria é chefiada por um chefe de secretaria, com a categoria de primeiro-oficial, e disporá do pessoal constante do quadro anexo.
 
 Aprovado em Plenário do Governo Regional em 10 de Janeiro de 1977.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada em 4 de Fevereiro de 1977.**
+Assinado em Ponta Delgada em 4 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 ## ANEXO — Quadro do pessoal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/08900/08580860.pdf))](https://files.diariodarepublica.pt/1s/1977/04/08900/08580860.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/08900/08580860.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

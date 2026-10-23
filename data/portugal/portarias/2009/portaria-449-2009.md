@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/449/2009/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/449-2009-607980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba0584e8e104266d147b49daa24187fab4bc7da0c7a5dd3dd441c50ceb92e4a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89e1eef993018dcd56a6e2423fb64c1242db76eb74c1c2500e859415ed37b9ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Avaliação de Conhecimentos
 - Centro de Estudos Judiciários
 - Formação Profissional
-- Recrutamento de Pessoal
 - Profissão Independente
-- Avaliação de Conhecimentos
+- Recrutamento de Pessoal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/12/2007/01/19/p/dre
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/240/2008/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/240/2008/03/17/p/dre
+- type: cites
+  target: pt:dre:368661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607757:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:20Z'
   warnings: []
   errors: []
 ---
@@ -132,4 +144,4 @@ Os n.os 5, 6 e 7 do plano do curso de formação para peritos avaliadores, anexo
 
 As presentes alterações aplicam-se ao curso de formação a realizar no âmbito do concurso aberto pelo aviso n.º 19 710/2008, da Direcção de Serviços de Recursos Humanos da Direcção-Geral da Administração da Justiça do Ministério da Justiça, publicado no Diário da República, 2.ª série, de 9 de Julho de 2008.
 
-**O Ministro da Justiça, Alberto Bernardes Costa, em 27 de Abril de 2009.**
+O Ministro da Justiça, Alberto Bernardes Costa, em 27 de Abril de 2009.

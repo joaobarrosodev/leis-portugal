@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/01300/0001900039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2025/01/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2025-904270777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96e89a3f93db8e2d96fc7f7c502c3ba1a4f2670cb27f46534d464c3f234e8c62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b46e99d9e4a8f8a0c0bf83fd5f2dbb2b831b91fb428bb001ca873f33c01bec0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vinho
-- Governo Regional
+- Açores
+- Conselho Diretivo
 - Criação de Serviços
 - Definição de Competências
-- Conselho Diretivo
-- Orgânica
+- Governo Regional
 - Ilha do Pico
-- Quadro de Pessoal
-- Açores
-- Produto Vitivinícola
 - Instituto da Vinha e do Vinho dos Açores
+- Orgânica
+- Produto Vitivinícola
+- Quadro de Pessoal
+- Vinho
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:6/2022/A
+  label: Altera, a partir de 21 de janeiro de 2025, os artigos 5.º, 8.º e 16.º, adita o capítulo iv-a, bem como os artigos
+    21.º-A, 21.º-B, 21.º-C, 21.º-D, 21.º-E, 21.º-F, 21.º-G, 21.º-H, que o integram, e republica o Decreto Legislativo Regional
+    n.º 6/2022/A, de 22 de março, Diário da República n.º 57/2022, Série I
+  source: null
+  date: '2025-01-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/2007/06/05/a/dre
   label: null
@@ -106,16 +113,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:180830502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456570:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: null
 article_structure:
-  article_count: 51
+  article_count: 41
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:22Z'
   warnings: []
   errors: []
 ---
@@ -256,7 +291,9 @@ ii) [...]
 
 jj) [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -272,7 +309,9 @@ jj) [...]
 
 7 - [...]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -314,7 +353,9 @@ São aditados ao [Decreto Legislativo Regional n.º 6/2022/A](https://diariodare
 
 EXTINÇÃO DE SERVIÇO E MOVIMENTAÇÕES DE PESSOAL
 
-###### Artigo 21.º-A — Extinção de serviços e organismos
+Artigo 21.º-A
+
+Extinção de serviços e organismos
 
 1 - Após a extinção da Comissão Vitivinícola Regional dos Açores - CVR Açores, nos termos dos seus estatutos e da legislação em vigor, as respetivas competências transitam para o IVV Açores, IPRA.
 
@@ -322,17 +363,23 @@ EXTINÇÃO DE SERVIÇO E MOVIMENTAÇÕES DE PESSOAL
 
 3 - Com a extinção da CVR Açores, a posição de parte em eventuais impugnações judiciais, ou outro contencioso pendente, é assumida pelo IVV Açores, IPRA.
 
-###### Artigo 21.º-B — Regras de integração na administração regional autónoma
+Artigo 21.º-B
+
+Regras de integração na administração regional autónoma
 
 1 - Os trabalhadores da CVR Açores, em funções à data da respetiva extinção, podem ser integrados na administração pública regional nos termos dos artigos seguintes.
 
 2 - No caso de constituição de relação jurídica por tempo indeterminado, não é devida qualquer compensação pela extinção do posto de trabalho na CVR Açores.
 
-###### Artigo 21.º-C — Opositores aos procedimentos concursais
+Artigo 21.º-C
+
+Opositores aos procedimentos concursais
 
 Os trabalhadores da CVR Açores, detentores de contrato de trabalho, podem ser opositores aos procedimentos concursais destinados à constituição de vínculos de emprego público por tempo indeterminado que sejam abertos pelo IVV Açores, IPRA, com o qual venham a celebrar acordos de cedência de interesse público, de acordo com o artigo 21.º-H, para o respetivo quadro regional de ilha de residência, nos termos do disposto nos artigos seguintes.
 
-###### Artigo 21.º-D — Carreira e categoria de integração
+Artigo 21.º-D
+
+Carreira e categoria de integração
 
 1 - O direito de candidatura a que se refere o artigo anterior aplica-se apenas aos procedimentos concursais para ocupação dos postos de trabalho, na categoria base das carreiras, correspondentes às funções ou atividades que o trabalhador se encontre a executar.
 
@@ -340,7 +387,9 @@ Os trabalhadores da CVR Açores, detentores de contrato de trabalho, podem ser o
 
 3 - Nos casos em que o trabalhador não possua as habilitações literárias e profissionais exigidas para as correspondentes carreiras da administração pública, a integração é feita em categoria de ingresso de carreira em que se verifique o preenchimento do requisito habilitacional, cujo conteúdo funcional mais se aproxime daquele que vem sendo exercido.
 
-###### Artigo 21.º-E — Procedimento concursal
+Artigo 21.º-E
+
+Procedimento concursal
 
 1 - O procedimento concursal, aberto nos termos do presente diploma e ao qual só se poderão candidatar os trabalhadores da CVR Açores, segue o disposto na Resolução do Conselho do Governo Regional n.º 178/2009, de 24 de novembro, que regulamenta, na Região Autónoma dos Açores, a tramitação do procedimento concursal aplicável aos trabalhadores que exercem funções públicas na administração regional autónoma, na redação dada pela Declaração de Retificação n.º 14/2009, de 2 de dezembro, com as especificidades constantes dos números seguintes.
 
@@ -358,11 +407,15 @@ c) Correio postal registado.
 
 5 - O procedimento concursal é aberto no prazo máximo de 30 dias a contar da data de entrada em vigor do presente diploma.
 
-###### Artigo 21.º-F — Período experimental
+Artigo 21.º-F
+
+Período experimental
 
 O tempo de exercício de funções com relação jurídica de emprego na CVR Açores é contabilizado para efeitos de duração do decurso do período experimental, sendo o mesmo dispensado quando aquele tempo de serviço seja igual ou superior à duração definida para o período experimental da carreira onde são recrutados.
 
-###### Artigo 21.º-G — Posição remuneratória e contagem do tempo de serviço
+Artigo 21.º-G
+
+Posição remuneratória e contagem do tempo de serviço
 
 1 - O tempo de serviço de funções na CVR Açores ao abrigo da relação jurídica de emprego por tempo indeterminado releva para efeitos de atribuição da posição remuneratória aquando do recrutamento, nos termos dos números seguintes.
 
@@ -372,7 +425,9 @@ O tempo de exercício de funções com relação jurídica de emprego na CVR Aç
 
 4 - O tempo de exercício de funções na CVR Açores releva, igualmente, como exercício de funções públicas, designadamente, para efeitos de férias, nos termos previstos para os trabalhadores em regime de direito público e de carreira contributiva na medida dos descontos efetuados.
 
-###### Artigo 21.º-H — Cedência de interesse público
+Artigo 21.º-H
+
+Cedência de interesse público
 
 1 - A CVR Açores, na pendência do processo de extinção, pode ceder, ao abrigo do regime de cedência de interesse público, ao IVV Açores, IPRA, os trabalhadores detentores de contrato de trabalho por tempo indeterminado, nos termos do disposto no [Decreto Legislativo Regional n.º 17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, na sua redação em vigor, e na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação em vigor, sem prejuízo do disposto no número seguinte.
 
@@ -394,11 +449,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de dezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 16 de janeiro de 2025.**
+Assinado em Angra do Heroísmo em 16 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -572,9 +627,9 @@ c) O conselho consultivo.
 
 8 - O disposto no número anterior não prejudica o direito de renunciar ao mandato com a antecedência mínima de três meses sobre a data em que se propõem cessar funções.
 
-9 - Em caso de exoneração aplica-se o previsto nos n.<sup>os</sup>3 a 6 do artigo 20.º do [Decreto Legislativo Regional n.º 13/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2007-638174), de 5 de junho, alterado e republicado pelo [Decreto Legislativo Regional n.º 13/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), de 11 de maio.
+9 - Em caso de exoneração aplica-se o previsto nos n.os3 a 6 do artigo 20.º do [Decreto Legislativo Regional n.º 13/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2007-638174), de 5 de junho, alterado e republicado pelo [Decreto Legislativo Regional n.º 13/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), de 11 de maio.
 
-10 - Em caso de dissolução aplica-se o previsto nos n.<sup>os</sup>7 e 8 do artigo 20.º do [Decreto Legislativo Regional n.º 13/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2007-638174), de 5 de junho, alterado e republicado pelo [Decreto Legislativo Regional n.º 13/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), de 11 de maio.
+10 - Em caso de dissolução aplica-se o previsto nos n.os7 e 8 do artigo 20.º do [Decreto Legislativo Regional n.º 13/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2007-638174), de 5 de junho, alterado e republicado pelo [Decreto Legislativo Regional n.º 13/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), de 11 de maio.
 
 #### SECÇÃO I — CONSELHO DIRETIVO
 
@@ -905,3 +960,5 @@ Após a publicação do presente diploma, o Governo Regional tem 60 dias para a 
 ###### Artigo 27.º — Entrada em vigor
 
 O presente decreto legislativo regional entra em vigor no dia seguinte à respetiva publicação e produz efeitos à data da entrada em vigor da respetiva regulamentação.
+
+118575126

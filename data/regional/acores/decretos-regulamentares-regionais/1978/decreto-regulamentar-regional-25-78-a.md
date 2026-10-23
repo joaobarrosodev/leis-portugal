@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29600/27702773.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1978-325310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0385abdf5feaf724accc7db1550cb7c890a88cafa021aee2bcbf6cf133513cdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4839e35707e875f0aad85e0bf0f2dc4f17e9426d3cdb856cac074c4cacc2adaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Reestruturação de Serviços
+- Turismo
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELO DECRETO REGULAMENTAR REGIONAL 25/80/A, PUBLICADO NO DR.IS, 132, DE 800609. \0\
+    . \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:571233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473123:por
+  label: Alterado o quadro de pessoal a que se refere o art. 26.º, pelo(a) Decreto Regulamentar Regional n.º 25/80/A - Diário
+    da República n.º 132/1980, Série I de 1980-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-1980-473123
+  date: '1980-06-09'
+- type: cites
+  target: pt:dre:139938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425275:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468854:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571233:por
+  label: "Revogado, a partir de 08.05.1990, pelo DRR.17/90/A.08.05.1990.GR-RAA, DR.IS [105] de 08.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1990-571233
+  date: '1990-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:49Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +133,9 @@ O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º 
 
 ### CAPÍTULO I — Atribuições e competência
 
-###### Artigo 1.º Incumbe à Secretaria Regional dos Transportes e Turismo promover a valorização turística da Região através do racional aproveitamento dos respectivos recursos turísticos e sua eficaz e adequada propaganda no interior e exterior da Região, bem como da conveniente e progressiva implementação das infra-estruturas de acolhimento, instalação e animação do turista.
+Artigo 1.º Incumbe à Secretaria Regional dos Transportes e Turismo promover a valorização turística da Região através do racional aproveitamento dos respectivos recursos turísticos e sua eficaz e adequada propaganda no interior e exterior da Região, bem como da conveniente e progressiva implementação das infra-estruturas de acolhimento, instalação e animação do turista.
 
-###### Art. 2.º A Direcção Regional de Turismo, criada pelo [Decreto Regulamentar Regional n.º 18/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1977-139938), de 21 de Junho, tem, em especial, as seguintes atribuições:
+Art. 2.º A Direcção Regional de Turismo, criada pelo [Decreto Regulamentar Regional n.º 18/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1977-139938), de 21 de Junho, tem, em especial, as seguintes atribuições:
 
 a) Propor ao Secretário Regional dos Transportes e Turismo a criação de delegações e postos de turismo;
 
@@ -126,9 +161,9 @@ l) Manter um adequado serviço de informação turística e disciplinar o seu ex
 
 m) Assegurar a representação e cooperação da Região nos organismos oficiais ou privados nacionais ligados ao turismo e que possam interessar aos objectivos de promoção e valorização turística regional e, bem assim, coordenar essa representação, dentro dos mesmos objectivos, com os órgãos centrais de turismo, no que respeita à participação em organismos intervencionais de turismo e em manifestações do mesmo âmbito.
 
-###### Art. 3.º A Direcção Regional de Turismo é chefiada pelo director regional, nomeado nos termos do artigo 19.º do Decreto Regional n.º 3/76, de 31 de Dezembro, com a redacção que lhe foi dada pelo [Decreto Regional n.º 9/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1978-425275), de 18 de Abril, e compreenderá o sector técnico e de inspecção e licenciamento de actividades turísticas e o sector de promoção.
+Art. 3.º A Direcção Regional de Turismo é chefiada pelo director regional, nomeado nos termos do artigo 19.º do Decreto Regional n.º 3/76, de 31 de Dezembro, com a redacção que lhe foi dada pelo [Decreto Regional n.º 9/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1978-425275), de 18 de Abril, e compreenderá o sector técnico e de inspecção e licenciamento de actividades turísticas e o sector de promoção.
 
-###### Art. 4.º Ao sector técnico e de inspecção e licenciamento de actividades turísticas compete, especialmente:
+Art. 4.º Ao sector técnico e de inspecção e licenciamento de actividades turísticas compete, especialmente:
 
 a) Definir, em íntima ligação com o Departamento Regional de Estudos e Planeamento dos Açores, os planos de desenvolvimento turístico regional, assegurando a sua perfeita integração no plano do desenvolvimento global da Região;
 
@@ -160,7 +195,7 @@ o) Propor a política de preços nas actividades turísticas e garantir a sua ex
 
 p) Criar e manter actualizado o registo de casas e partes de casa para alugar ou subalugar nas zonas de maior atracção turística e que possam servir de meios complementares de alojamento nas condições a definir.
 
-###### Art. 5.º Ao sector de promoção compete, especialmente:
+Art. 5.º Ao sector de promoção compete, especialmente:
 
 a) Estudar e analisar em estreita cooperação com o sector técnico de inspecção e licenciamento de actividades turísticas e os organismos centrais de turismo a oferta e a procura turística, no mercado regional, nacional e internacional;
 
@@ -182,29 +217,29 @@ h) Orientar e coordenar a actividade dos postos de informação turística e ass
 
 #### SECÇÃO I — Delegações de turismo
 
-###### Art. 6.º - 1 - Nas ilhas do arquipélago e em Lisboa serão criadas delegações de turismo.
+Art. 6.º - 1 - Nas ilhas do arquipélago e em Lisboa serão criadas delegações de turismo.
 
 2 - As delegações de turismo ficam directamente dependentes da Direcção Regional de Turismo.
 
-###### Art. 7.º A criação das delegações de turismo no arquipélago será feita progressivamente e na medida do grau de desenvolvimento turístico de cada ilha, sendo prioritariamente instaladas as correspondentes às ilhas onde existem comissões regionais.
+Art. 7.º A criação das delegações de turismo no arquipélago será feita progressivamente e na medida do grau de desenvolvimento turístico de cada ilha, sendo prioritariamente instaladas as correspondentes às ilhas onde existem comissões regionais.
 
-###### Art. 8.º As delegações de turismo estarão a cargo de um delegado, nomeado pelo Secretário Regional dos Transportes e Turismo, sob proposta do director Regional de Turismo.
+Art. 8.º As delegações de turismo estarão a cargo de um delegado, nomeado pelo Secretário Regional dos Transportes e Turismo, sob proposta do director Regional de Turismo.
 
 #### SECÇÃO II — Postos de turismo
 
-###### Art. 9.º Nas ilhas onde não existam delegações de turismo ou nos locais onde se justifique a necessidade de instalar um serviço de acolhimento e informação do turista serão criados postos de turismo.
+Art. 9.º Nas ilhas onde não existam delegações de turismo ou nos locais onde se justifique a necessidade de instalar um serviço de acolhimento e informação do turista serão criados postos de turismo.
 
-###### Art. 10.º Os postos de turismo ficarão na dependência hierárquica das delegações de turismo, onde as houver, ou directamente da Direcção Regional de Turismo, quando assim não acontecer.
+Art. 10.º Os postos de turismo ficarão na dependência hierárquica das delegações de turismo, onde as houver, ou directamente da Direcção Regional de Turismo, quando assim não acontecer.
 
-###### Art. 11.º Poderão nas sedes dos concelhos, e mediante acordo celebrado com os respectivos municípios, ser igualmente criados postos de turismo, os quais ficarão a cargo de funcionários municipais para o efeito expressamente designados.
+Art. 11.º Poderão nas sedes dos concelhos, e mediante acordo celebrado com os respectivos municípios, ser igualmente criados postos de turismo, os quais ficarão a cargo de funcionários municipais para o efeito expressamente designados.
 
 ### CAPÍTULO III — Órgãos de coordenação e apoio consultivo
 
 #### SECÇÃO I — Do Conselho Regional de Turismo
 
-###### Art. 12.º É criado, com funções de consulta, o Conselho Regional de Turismo.
+Art. 12.º É criado, com funções de consulta, o Conselho Regional de Turismo.
 
-###### Art. 13.º Compete ao Conselho Regional de Turismo pronunciar-se sobre as seguintes matérias:
+Art. 13.º Compete ao Conselho Regional de Turismo pronunciar-se sobre as seguintes matérias:
 
 a) Planos gerais de actividade, elaborados pela Direcção Regional de Turismo ou pelas delegações de turismo;
 
@@ -214,7 +249,7 @@ c) Orçamento dos órgãos de financiamento e de fomento que eventualmente sejam
 
 d) Política de investimentos e créditos para o sector do turismo.
 
-###### Art. 14.º O Conselho Regional de Turismo terá a seguinte composição:
+Art. 14.º O Conselho Regional de Turismo terá a seguinte composição:
 
 a) Secretário Regional dos Transportes e Turismo, que presidirá;
 
@@ -230,25 +265,25 @@ f) Um representante de cada um dos sindicatos dos trabalhadores do sector;
 
 g) Um representante de cada uma das associações patronais da Região, que inclua os empresários de hotelaria e de agências de viagens.
 
-###### Art. 15.º O Conselho Regional de Turismo reunirá ordinariamente no mês de Julho, para apreciação das actividades do ano em curso e para análise do plano de actividades para o ano seguinte, e extraordinariamente todas as vezes que para o efeito seja convocado pelo seu presidente.
+Art. 15.º O Conselho Regional de Turismo reunirá ordinariamente no mês de Julho, para apreciação das actividades do ano em curso e para análise do plano de actividades para o ano seguinte, e extraordinariamente todas as vezes que para o efeito seja convocado pelo seu presidente.
 
-###### Art. 16.º - 1 - As convocatórias para as reuniões ordinárias e extraordinárias far-se-ão com a antecedência mínima de quinze dias.
+Art. 16.º - 1 - As convocatórias para as reuniões ordinárias e extraordinárias far-se-ão com a antecedência mínima de quinze dias.
 
 2 - O presidente do Conselho Regional goza de voto de qualidade.
 
-###### Art. 17.º - 1 - O secretariado e os assuntos administrativos do Conselho Regional estarão a cargo dos serviços administrativos da Secretaria Regional dos Transportes e Turismo.
+Art. 17.º - 1 - O secretariado e os assuntos administrativos do Conselho Regional estarão a cargo dos serviços administrativos da Secretaria Regional dos Transportes e Turismo.
 
 2 - O secretário do Conselho, sem voto, será designado pelo Secretário Regional dos Transportes e Turismo de entre funcionários da Direcção Regional, sob proposta do respectivo director regional.
 
-###### Art. 18.º Os vogais do Conselho Regional de Turismo terão direito a senhas de presença de valor a fixar por despacho conjunto dos Secretários Regionais dos Transportes e Turismo e das Finanças e receberão ajudas de custo de deslocação nos termos da legislação aplicável.
+Art. 18.º Os vogais do Conselho Regional de Turismo terão direito a senhas de presença de valor a fixar por despacho conjunto dos Secretários Regionais dos Transportes e Turismo e das Finanças e receberão ajudas de custo de deslocação nos termos da legislação aplicável.
 
 #### SECÇÃO II — Conselhos de turismo de ilha
 
-###### Art. 19.º Nas ilhas em que o grau de desenvolvimento turístico assim o justifique e obrigatoriamente naquelas onde estejam instaladas delegações de turismo, serão criados conselhos de turismo de ilha.
+Art. 19.º Nas ilhas em que o grau de desenvolvimento turístico assim o justifique e obrigatoriamente naquelas onde estejam instaladas delegações de turismo, serão criados conselhos de turismo de ilha.
 
-###### Art. 20.º Os conselhos de turismo de ilha gozam das mesmas atribuições e competências do Conselho Regional de Turismo, reduzidas necessariamente ao âmbito das matérias e acções que interessem especificamente o desenvolvimento turístico da respectiva área de inserção.
+Art. 20.º Os conselhos de turismo de ilha gozam das mesmas atribuições e competências do Conselho Regional de Turismo, reduzidas necessariamente ao âmbito das matérias e acções que interessem especificamente o desenvolvimento turístico da respectiva área de inserção.
 
-###### Art. 21.º - 1 - Os conselhos de turismo de ilha terão a seguinte composição:
+Art. 21.º - 1 - Os conselhos de turismo de ilha terão a seguinte composição:
 
 a) Delegado de turismo, que presidirá;
 
@@ -276,44 +311,44 @@ m) Director dos serviços de viação da ilha.
 
 2 - Quando não houver delegado de turismo, a presidência caberá a pessoa a designar pelo director Regional de Turismo.
 
-###### Art. 22.º O conselho de turismo de ilha reunirá ordinariamente em Março e Julho e extraordinariamente sempre que o presidente o convocar.
+Art. 22.º O conselho de turismo de ilha reunirá ordinariamente em Março e Julho e extraordinariamente sempre que o presidente o convocar.
 
-###### Art. 23.º - 1 - As convocatórias para as reuniões serão expedidas com o mínimo de oito dias de antecedência.
+Art. 23.º - 1 - As convocatórias para as reuniões serão expedidas com o mínimo de oito dias de antecedência.
 
 2 - É aplicável ao presidente o disposto no n.º 2 do artigo 16.º
 
-###### Art. 24.º O secretariado do conselho de turismo de ilha será assegurado pela delegação de turismo da área ou, na sua falta, pelo respectivo posto de turismo, que destacará um funcionário para o efeito, sendo as despesas de funcionamento encargo da Direcção Regional de Turismo.
+Art. 24.º O secretariado do conselho de turismo de ilha será assegurado pela delegação de turismo da área ou, na sua falta, pelo respectivo posto de turismo, que destacará um funcionário para o efeito, sendo as despesas de funcionamento encargo da Direcção Regional de Turismo.
 
-###### Art. 25.º É aplicável aos vogais do conselho de turismo de ilha o disposto no artigo 18.º
+Art. 25.º É aplicável aos vogais do conselho de turismo de ilha o disposto no artigo 18.º
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 26.º - 1 - O pessoal da Direcção Regional de Turismo e das suas delegações constitui um quadro único, com excepção do pessoal administrativo e auxiliar que pertence aos respectivos quadros da Secretaria Regional dos Transportes e Turismo.
+Art. 26.º - 1 - O pessoal da Direcção Regional de Turismo e das suas delegações constitui um quadro único, com excepção do pessoal administrativo e auxiliar que pertence aos respectivos quadros da Secretaria Regional dos Transportes e Turismo.
 
 2 - O quadro de pessoal da Direcção Regional de Turismo é o constante do mapa anexo ao presente diploma.
 
-###### Art. 27.º As condições de ingresso, acesso e carreira profissional do pessoal da Direcção Regional e das suas delegações serão, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar e, até lá, regular-se-ão pela legislação regional e geral e pelas normas legais aplicáveis a idênticos serviços do Estado.
+Art. 27.º As condições de ingresso, acesso e carreira profissional do pessoal da Direcção Regional e das suas delegações serão, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar e, até lá, regular-se-ão pela legislação regional e geral e pelas normas legais aplicáveis a idênticos serviços do Estado.
 
-###### Art. 28.º O pessoal das extintas comissões regionais de turismo será, por despacho conjunto dos Secretários Regionais dos Transportes e Turismo e da Administração Pública publicado no jornal oficial, provido em lugares do quadro constante do mapa anexo a este diploma, nos termos estabelecidos pela legislação regional para a integração dos quadros regionais do pessoal das extintas juntas gerais.
+Art. 28.º O pessoal das extintas comissões regionais de turismo será, por despacho conjunto dos Secretários Regionais dos Transportes e Turismo e da Administração Pública publicado no jornal oficial, provido em lugares do quadro constante do mapa anexo a este diploma, nos termos estabelecidos pela legislação regional para a integração dos quadros regionais do pessoal das extintas juntas gerais.
 
-###### Art. 29.º Até ser provido, o lugar de director regional poderá ser desempenhado de harmonia com o disposto no n.º 2 do artigo 27.º do Decreto Regional n.º 3/76, de 15 de Novembro, com a redacção que lhe foi dada pelo [Decreto Regional n.º 9/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1978-425275), de 18 de Abril.
+Art. 29.º Até ser provido, o lugar de director regional poderá ser desempenhado de harmonia com o disposto no n.º 2 do artigo 27.º do Decreto Regional n.º 3/76, de 15 de Novembro, com a redacção que lhe foi dada pelo [Decreto Regional n.º 9/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1978-425275), de 18 de Abril.
 
-###### Art. 30.º - 1 - O presente diploma entra em vigor na data da sua publicação.
+Art. 30.º - 1 - O presente diploma entra em vigor na data da sua publicação.
 
 2 - Fica revogada a [Portaria n.º 11/78](https://diariodarepublica.pt/dr/detalhe/portaria/11-1978-468854).
 
 Aprovado em plenário do Governo Regional em 16 de Novembro de 1978.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em 15 de Dezembro de 1978.**
+Assinado em 15 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 Mapa a que se refere o artigo 26.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/29600/27702773.pdf))](https://files.diariodarepublica.pt/1s/1978/12/29600/27702773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29600/27702773.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

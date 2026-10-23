@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2007/03/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2007-518775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9c378f121e97eb0ac01ee29ee7add912b47fd1ae2cd7bff52d095758967b469
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 122931343a8f27a801451c633a73df7824aa7b36dc2888bade1009558f6b44dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajuste Direto
 - Aquisição de Imóveis
-- Financiamento
-- Construção Civil
 - Concurso Público
+- Construção Civil
 - Contrato de Cessão
 - Direito de Preferência
-- Prédio Rústico
-- Regime Jurídico
+- Financiamento
 - Habitação
-- Açores
+- Prédio Rústico
 - Prédio Urbano
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:553893:por
@@ -95,16 +95,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:240381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado o DRR 14/93/A, de 31-jul, na redacção do presente diploma, pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS\
+    \ [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
 article_structure:
   article_count: 125
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 36
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:28Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +149,7 @@ Como traço saliente dir-se-á que o presente diploma procura a simplificação 
 
 Assim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição e da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, e em execução do disposto no artigo 25.º do [Decreto Legislativo Regional n.º 21/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2005-240381), de 3 de Agosto, o Governo Regional decreta o seguinte:
 
-# PARTE I — Disposições gerais e comuns
+## PARTE I — Disposições gerais e comuns
 
 ###### Artigo 1.º — Objecto
 
@@ -141,7 +163,7 @@ Os apoios a conceder ao abrigo do [Decreto Legislativo Regional n.º 21/2005/A](
 
 O montante anual dos apoios a conceder ao abrigo do [Decreto Legislativo Regional n.º 21/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2005-240381), de 3 de Agosto, será fixado no plano e inscrito no orçamento da Região Autónoma dos Açores, tendo em conta os compromissos decorrentes e os anteriormente assumidos.
 
-# PARTE II — Pessoas singulares
+## PARTE II — Pessoas singulares
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -577,7 +599,7 @@ b) Do valor do apoio concedido, acrescido de 50%, no caso de a alienação se ve
 
 2 - Se a Região Autónoma dos Açores comunicar ao vendedor que pretende exercer o seu direito de preferência, a escritura de compra e venda será celebrada no prazo máximo de 60 dias úteis a contar dessa comunicação.
 
-# PARTE III — Pessoas colectivas
+## PARTE III — Pessoas colectivas
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -1283,7 +1305,7 @@ Sem prejuízo das sanções previstas no [Decreto Legislativo Regional n.º 21/2
 
 2 - Depois de organizados, os processos individuais são remetidos ao departamento do Governo Regional competente em matéria de habitação, a fim de se proceder à aferição a que alude o artigo 14.º do [Decreto Legislativo Regional n.º 21/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2005-240381), de 3 de Agosto.
 
-# PARTE IV — Disposições finais
+## PARTE IV — Disposições finais
 
 ###### Artigo 124.º — Modelos de documentos e formulários
 
@@ -1295,17 +1317,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 14 de Fevereiro de 2007.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 8 de Março de 2007.**
+Assinado em Angra do Heroísmo em 8 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
 ## ANEXO I — Tipologia adequada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05900/17021719.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05900/17021719.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05900/17021719.pdf)
 
 ## ANEXO II — Modelo de declaração
 
@@ -1343,11 +1365,11 @@ e) Não beneficiou nem está a beneficiar, nem qualquer outro elemento do agrega
 
 A - Prédios urbanos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05900/17021719.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05900/17021719.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05900/17021719.pdf)
 
 B - Prédios rústicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05900/17021719.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05900/17021719.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05900/17021719.pdf)
 
 O candidato tem pleno conhecimento de que a prestação de falsas declarações é sancionável nos termos do n.º 8 do artigo 22.º do [Decreto Legislativo Regional n.º 21/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2005-240381), de 3 de Agosto, e que se lhe for solicitado obriga-se a apresentar documentos comprovativos da informação constante desta relação de bens.
 

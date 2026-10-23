@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/16600/21802182.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1982-394126
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb4e06e72194cc1afe5ecc299d265070b8304585f72cf0dbc759269190493058
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edff448f2d5687b579b3abd5f774e710266407a199579668cd9c36c3cd42e106
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Centro de Apoio Tecnológico à Educação
+- Educação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:478057:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388990:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:478057:por
+  label: "Revogado pelo DRR.3/91/A.13.02.1991.GR-RAA, DR.IS-B [36] de 13.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-1991-478057
+  date: '1991-02-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:44Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +119,15 @@ Algumas das soluções que agora se adoptam, embora transitórias, justificam-se
 
 Assim, ao abrigo do artigo 31.º do [Decreto Regulamentar Regional n.º 13/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1978-298052), de 7 de Julho, e artigo 15.º do [Decreto-Lei n.º 338/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1979-378683), de 25 de Agosto, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O Centro de Apoio Tecnológico à Educação, abreviadamente designado por CATE, é um serviço dependente da Secretaria Regional da Educação e Cultura que goza de autonomia administrativa.
+Artigo 1.º - 1 - O Centro de Apoio Tecnológico à Educação, abreviadamente designado por CATE, é um serviço dependente da Secretaria Regional da Educação e Cultura que goza de autonomia administrativa.
 
 2 - O Centro de Apoio Tecnológico à Educação, a funcionar em Ponta Delgada, sucede e substitui o Centro Regional dos Açores de Tecnologia Educativa e suas delegações, para ele transitando todos os seus direitos e obrigações.
 
-###### Art. 2.º - 1 - O CATE poderá ter delegações nas cidades de Angra do Heroísmo e Horta, cujos delegados serão nomeados por despacho do Secretário Regional da Educação e Cultura de entre professores efectivos de qualquer nível de ensino.
+Art. 2.º - 1 - O CATE poderá ter delegações nas cidades de Angra do Heroísmo e Horta, cujos delegados serão nomeados por despacho do Secretário Regional da Educação e Cultura de entre professores efectivos de qualquer nível de ensino.
 
 2 - A criação e atribuições das delegações, bem como o processo de nomeação e remuneração dos delegados, serão objecto de decreto regulamentar regional.
 
-###### Art. 3.º São atribuições do CATE, sem prejuízo de orientações específicas a definir pela Secretaria Regional da Educação e Cultura em cada ano lectivo, as seguintes:
+Art. 3.º São atribuições do CATE, sem prejuízo de orientações específicas a definir pela Secretaria Regional da Educação e Cultura em cada ano lectivo, as seguintes:
 
 a) Dar apoio e assistência técnica, no seu domínio específico, aos estabelecimentos de ensino da Região e organismos dependentes da Secretaria Regional da Educação e Cultura;
 
@@ -114,21 +139,21 @@ d) Produzir programas para emissões de radiodifusão sonora e televisão, asseg
 
 e) Coordenar os serviços da Telescola.
 
-###### Art. 4.º No desempenho das atribuições a que se refere o artigo anterior, o CATE poderá alargar a sua acção a outros organismos que o solicitem, mediante autorização prévia da Secretaria Regional da Educação e Cultura.
+Art. 4.º No desempenho das atribuições a que se refere o artigo anterior, o CATE poderá alargar a sua acção a outros organismos que o solicitem, mediante autorização prévia da Secretaria Regional da Educação e Cultura.
 
-###### Art. 5.º São órgãos do CATE:
+Art. 5.º São órgãos do CATE:
 
 a) A direcção;
 
 b) O conselho administrativo.
 
-###### Art. 6.º - 1 - O CATE é dirigido por um director nomeado pelo Secretário Regional da Educação e Cultura, sob proposta do director regional da Orientação Pedagógica, de entre docentes dos ensinos preparatório ou secundário, pelo período de 2 anos, prorrogável, sendo o serviço prestado nestas condições, para todos os efeitos, como serviço docente.
+Art. 6.º - 1 - O CATE é dirigido por um director nomeado pelo Secretário Regional da Educação e Cultura, sob proposta do director regional da Orientação Pedagógica, de entre docentes dos ensinos preparatório ou secundário, pelo período de 2 anos, prorrogável, sendo o serviço prestado nestas condições, para todos os efeitos, como serviço docente.
 
 2 - As funções do director são exercidas em tempo completo, em regime de comissão de serviço ou de requisição, cabendo-lhe o vencimento correspondente ao topo da carreira do respectivo escalão em que se encontra, de acordo com o [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, com a reserva decorrente do artigo 11.º do referido diploma.
 
 3 - Quando o director se encontre no topo da carreira terá o vencimento correspondente à letra imediatamente superior da tabela de vencimentos do funcionalismo público.
 
-###### Art. 7.º Compete ao director:
+Art. 7.º Compete ao director:
 
 a) Dirigir, orientar e coordenar todas as actividades do Centro;
 
@@ -150,7 +175,7 @@ i) Enviar trimestralmente à Direcção Regional da Orientação Pedagógica o m
 
 j) Participar na planificação e coordenação das actividades do Conselho de Coordenação Pedagógica, sempre que convocado.
 
-###### Art. 8.º - 1 - O conselho administrativo tem a seguinte constituição:
+Art. 8.º - 1 - O conselho administrativo tem a seguinte constituição:
 
 a) O director;
 
@@ -172,11 +197,11 @@ e) Fiscalizar a exacta aplicação de todas as verbas orçamentadas e da arrecad
 
 f) Escriturar as receitas e despesas de acordo com as normas da contabilidade pública.
 
-###### Art. 9.º O conselho administrativo delibera sempre por maioria de votos, tendo o director, em caso de empate, voto de qualidade.
+Art. 9.º O conselho administrativo delibera sempre por maioria de votos, tendo o director, em caso de empate, voto de qualidade.
 
-###### Art. 10.º O produto da venda de material resultante da produção ou aquisição e da prestação de serviços a entidades públicas ou particulares dará entrada nos cofres da Região.
+Art. 10.º O produto da venda de material resultante da produção ou aquisição e da prestação de serviços a entidades públicas ou particulares dará entrada nos cofres da Região.
 
-###### Art. 11.º - 1 - O pessoal admitido até 1 de Janeiro de 1982 que se encontre vinculado, a qualquer título e à data da publicação do presente diploma, ao serviço a que se refere o artigo 1.º poderá ser provido nos lugares do quadro em anexo a este decreto regulamentar, sem prejuízo das habilitações legalmente estabelecidas e de acordo com as seguintes regras:
+Art. 11.º - 1 - O pessoal admitido até 1 de Janeiro de 1982 que se encontre vinculado, a qualquer título e à data da publicação do presente diploma, ao serviço a que se refere o artigo 1.º poderá ser provido nos lugares do quadro em anexo a este decreto regulamentar, sem prejuízo das habilitações legalmente estabelecidas e de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -192,28 +217,28 @@ d) Para categoria da carreira correspondente às funções que o funcionário ou
 
 4 - O provimento previsto no presente artigo será feito mediante lista nominativa aprovada pelos Secretários Regionais da Administração Pública e da Educação e Cultura, sem dependência de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Jornal Oficial.
 
-###### Art. 12.º As condições e regras de acesso do pessoal serão para as respectivas categorias as estabelecidas no [Decreto Regulamentar Regional n.º 25/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1981-388990), de 15 de Abril, e na legislação regional e geral complementar.
+Art. 12.º As condições e regras de acesso do pessoal serão para as respectivas categorias as estabelecidas no [Decreto Regulamentar Regional n.º 25/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1981-388990), de 15 de Abril, e na legislação regional e geral complementar.
 
-###### Art. 13.º Ao pessoal que transite nos termos do artigo 11.º será contado o tempo de serviço prestado no CRATE como serviço prestado ao Estado para efeitos de diuturnidades e de progressão na respectiva carreira, podendo também ser contado para efeito de aposentação, a requerimento do interessado nos termos da lei geral.
+Art. 13.º Ao pessoal que transite nos termos do artigo 11.º será contado o tempo de serviço prestado no CRATE como serviço prestado ao Estado para efeitos de diuturnidades e de progressão na respectiva carreira, podendo também ser contado para efeito de aposentação, a requerimento do interessado nos termos da lei geral.
 
-###### Art. 14.º - 1 - Os encargos resultantes da execução deste decreto regulamentar serão satisfeitos pelas dotações inscritas no orçamento privativo do CRATE para o ano de 1982.
+Art. 14.º - 1 - Os encargos resultantes da execução deste decreto regulamentar serão satisfeitos pelas dotações inscritas no orçamento privativo do CRATE para o ano de 1982.
 
 2 - Os encargos com o pessoal que vêm sendo suportados pelas rubricas «Salários de pessoal eventual» e «Remunerações de pessoal diverso» serão convertidos na rubrica «Pessoal dos quadros aprovados por lei», mantendo-se aberta e dotada a rubrica «Remunerações de pessoal diverso» para qualquer eventualidade resultante da reclassificação agora operada.
 
-###### Art. 15.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou deste e dos Secretários Regionais das Finanças e da Administração Pública, consoante a sua natureza.
+Art. 15.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou deste e dos Secretários Regionais das Finanças e da Administração Pública, consoante a sua natureza.
 
-###### Art. 16.º O presente diploma entra em vigor no dia 1 do mês imediato ao da sua publicação.
+Art. 16.º O presente diploma entra em vigor no dia 1 do mês imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional de 19 de Maio de 1982.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 7 de Julho de 1982.**
+Assinado em Angra do Heroísmo em 7 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro a que se refere o artigo 11.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/16600/21802182.pdf))](https://files.diariodarepublica.pt/1s/1982/07/16600/21802182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/16600/21802182.pdf)

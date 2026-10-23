@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/02/03200/0002300030.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2020/02/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2020-129208009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0a28d2e422376bae1c57d1976d6b29dc6185276f570ca46187a3b2ae6e623b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6bfd3aaf7a3750c0255dd00576e9b9371c0fc8c7ba08b2943cc5063fac3e1b8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,55 +65,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- BENS Imóveis
+- Açores
+- Administração Regional
 - Aquisição de Bens e Serviços
-- Região Autónoma
+- Arrendamento Urbano para Habitação
 - Autorização de Despesas
 - BEM Móvel
+- BENS Imóveis
 - Cativação de Verba
-- Gestão Financeira
-- Governo Regional
-- Sistema de Normalização Contabilística Público
+- Conselho do Governo Regional
+- Contabilidade Pública
 - Contenção de Despesas
 - Contrato de Locação Financeira
 - Controlo Orçamental
 - Definição de Competências
 - Delegação de Competências
 - Despesas Públicas
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
 - Dotação Orçamental
 - Empreiteiro de Obras Públicas
 - Empresa Pública Regional
 - Execução do Orçamento
-- Subvenção Pública
+- Finanças Regionais
 - Fundo de Maneio
 - Fundos Autónomos
-- Presidente do Governo Regional
-- Recrutamento de Pessoal
+- Gestão Financeira
 - Gestão Orçamental
-- Conselho do Governo Regional
-- Pagamento
-- Finanças Regionais
-- Veículo
+- Governo Regional
 - Locação Financeira
 - Membros do Governo
+- Normalização
 - Obras Públicas
 - Orçamento Regional
+- Pagamento
+- Presidente do Governo Regional
 - Prestação de Contas
 - Receita Pública
-- Administração Regional
-- Açores
-- Sistema de Informação Contabilistico
-- Contabilidade Pública
-- Subsídio
-- Arrendamento Urbano para Habitação
-- Normalização
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
+- Recrutamento de Pessoal
+- Região Autónoma
 - Sector Empresarial Regional
+- Sistema de Informação Contabilistico
+- Sistema de Normalização Contabilística Público
+- Subsídio
+- Subvenção Pública
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:135056056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:135056056:por
+  label: Suspensos, a partir de 11.03.2020, os procedimentos estabelecidos, relativos às autorizações para a contratação de
+    pessoal e aquisição de serviços no que diz respeito aos Hospitais EPER, Unidades de Saúde de Ilha e do Serviço Regional
+    de Proteção Civil e Bombeiros dos Açores nos arts. 21.º e 22.º do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 12/2020/A - Diário da República n.º 108/2020, Série I de 2020-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2020-135056056
+  date: '2020-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2020/01/08/a/dre
   label: null
@@ -126,16 +134,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:127816253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:38Z'
   warnings: []
   errors: []
 ---
@@ -374,10 +398,12 @@ O presente diploma produz efeitos desde 1 de janeiro de 2020.
 
 Aprovado em Conselho do Governo Regional, nas Velas, em 23 de janeiro de 2020.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 11 de fevereiro de 2020.**
+Assinado em Angra do Heroísmo em 11 de fevereiro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+113008757

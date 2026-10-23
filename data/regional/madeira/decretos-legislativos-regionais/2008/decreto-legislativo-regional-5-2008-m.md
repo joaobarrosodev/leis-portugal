@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/03500/0113601141.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2008/02/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2008-248005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2f3fb4b683e7a7ce6bcf565a62a1d1453eeed10981ca707f60d7ba305aa5dc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc0ae5201ab9d5191bd4a4ae821cac9028f519402de4b5113d52bea575099aa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Concurso
-- Sistema Retributivo
 - Carreira Profissional
-- Remuneração Acessória
+- Concurso
+- Descrição de Funções
+- Estágio de Formação
+- Formação Profissional
 - Inspecção Regional das Actividades Económicas
 - Integração de Trabalhadores
-- Orgânica
-- Descrição de Funções
-- Pessoal de Inspecção
-- Estágio de Formação
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal de Inspecção
 - Quadro de Pessoal
 - Remuneração
+- Remuneração Acessória
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:257858:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:257858:por
+  label: "Mantido em vigor, até 31.12.2012, o art. 24º do DRR 2/96/M de 24-fev [já revogado e mantido transitoriamente em\
+    \ vigor pelo DRR 19/2012/M de 22-mar], alterado pelo presente diploma, pelo DLR.6/2013/M.05.02.2013.AL-RAM, DR.IS [25]\
+    \ de 05.02.2013 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2013-257858
+  date: '2013-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/18/2007/02/20/p/dre
   label: null
@@ -125,16 +132,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:254592:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635211:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175343:por
+  label: "Revogado, sem prejuízo do nº2 do art. 2º, o DRR 2/96/M, de 24-Fev, na redação dos DRR 20/97/M, de 22-set, 19/2000/M,\
+    \ de 22-mar, 12/2001/M, de 07-jul, 15/2002/M, de 18-set e do presente diploma, pelo DRR.19/2012/M.22.08.2012.PG-RAM, DR.IS\
+    \ [162] de 22.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2012-175343
+  date: '2012-08-22'
+- type: repealed_by
+  target: pt:dre:257858:por
+  label: "Revogado, a partir de 06.02.2013, pelo DLR.6/2013/M.05.02.2013.AL-RAM, DR.IS [25] de 05.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2013-257858
+  date: '2013-02-05'
 article_structure:
-  article_count: 17
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:07Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +230,9 @@ Quadro de pessoal
 
 O quadro do pessoal dirigente, técnico superior, de informática, administrativo e auxiliar, bem como o do pessoal das carreiras de inspecção da IRAE, é o que consta, respectivamente, dos mapas i e ii anexos ao presente diploma, do qual fazem parte integrante.
 
-###### Artigo 13.º — Carreiras de inspecção
+Artigo 13.º
+
+Carreiras de inspecção
 
 As carreiras de inspecção da IRAE são as seguintes:
 
@@ -181,29 +242,39 @@ b) Inspector técnico;
 
 c) Inspector-adjunto.
 
-###### Artigo 14.º — Carreiras de regime especial
+Artigo 14.º
+
+Carreiras de regime especial
 
 As carreiras de inspecção da IRAE são, para todos os efeitos legais, reconhecidas como carreiras de regime especial.
 
-###### Artigo 15.º — Carreira de inspector superior
+Artigo 15.º
+
+Carreira de inspector superior
 
 1 - Integram a carreira de inspector superior as categorias de inspector superior principal, inspector superior, inspector principal e inspector.
 
 2 - O ingresso na carreira de inspector superior faz-se, em regra, para a categoria de inspector de entre indivíduos habilitados com licenciatura adequada, com carta de condução de veículos ligeiros e aprovados em estágio, com classificação não inferior a Bom (14 valores), que integra um curso de formação específica.
 
-###### Artigo 16.º — Carreira de inspector técnico
+Artigo 16.º
+
+Carreira de inspector técnico
 
 1 - Integram a carreira de inspector técnico as categorias de inspector técnico especialista principal, inspector técnico especialista, inspector técnico principal e inspector técnico.
 
 2 - O ingresso na carreira de inspector técnico faz-se, em regra, para a categoria de inspector técnico de entre indivíduos habilitados com curso superior adequado que não confira o grau de licenciatura, com carta de condução de veículos ligeiros e aprovados em estágio, com classificação não inferior a Bom (14 valores), que integra um curso de formação específica.
 
-###### Artigo 17.º — Carreira de inspector-adjunto
+Artigo 17.º
+
+Carreira de inspector-adjunto
 
 1 - Integram a carreira de inspector-adjunto as categorias de inspector-adjunto especialista principal, inspector-adjunto especialista, inspector-adjunto principal e inspector-adjunto.
 
 2 - O ingresso na carreira de inspector-adjunto faz-se para a categoria de inspector-adjunto de entre indivíduos habilitados com 12.º ano de escolaridade ou equivalente, com carta de condução de veículos ligeiros e aprovados em estágio, com classificação não inferior a Bom (14 valores), que integra o curso de formação elementar.
 
-###### Artigo 18.º — Estágios
+Artigo 18.º
+
+Estágios
 
 1 - A frequência dos estágios é feita em regime de contrato administrativo de provimento no caso de indivíduos não vinculados à função pública e em regime de comissão de serviço extraordinária se o estagiário já estiver nomeado definitivamente noutra carreira.
 
@@ -219,13 +290,17 @@ As carreiras de inspecção da IRAE são, para todos os efeitos legais, reconhec
 
 7 - Os regulamentos dos estágios são aprovados por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional dos Recursos Humanos.
 
-###### Artigo 19.º — Formação
+Artigo 19.º
+
+Formação
 
 1 - Os cursos que integram os estágios das carreiras de inspector superior, inspector técnico e inspector-adjunto, bem como os que integram a formação prevista na alínea b) do n.º 1 e na alínea b) do n.º 3 do artigo 9.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, são objecto de regulamento a aprovar por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional dos Recursos Humanos.
 
 2 - Para os efeitos constantes da alínea b) do n.º 3 do artigo 9.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, considera-se válida e suficiente a formação adquirida nos cursos de formação e de aperfeiçoamento das carreiras de inspecção.
 
-###### Artigo 20.º — Conteúdo funcional
+Artigo 20.º
+
+Conteúdo funcional
 
 1 - Compete ao pessoal das carreiras de inspector superior, inspector técnico e inspector-adjunto:
 
@@ -293,17 +368,23 @@ f) Praticar actos processuais em inquéritos e em processos de contra-ordenaçã
 
 g) Utilizar os meios técnicos e os instrumentos necessários postos à sua disposição para a execução das tarefas e zelar pela respectiva segurança e conservação.
 
-###### Artigo 21.º — Remunerações
+Artigo 21.º
+
+Remunerações
 
 As estruturas indiciárias das carreiras do pessoal da IRAE constam dos mapas a que se refere o artigo 11.º
 
-###### Artigo 24.º — Suplemento de função inspectiva
+Artigo 24.º
+
+Suplemento de função inspectiva
 
 1 - O pessoal dirigente, o pessoal das carreiras de inspecção e o pessoal técnico superior que exerce funções de apoio à acção inspectiva ou de investigação da IRAE têm direito ao suplemento de função inspectiva estabelecido no artigo 12.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, no montante de 22,5 % da respectiva remuneração de base.
 
 2 - O suplemento de função inspectiva é abonado em 12 mensalidades e releva para os efeitos de aposentação, sendo considerado no cálculo da pensão pela forma prevista na alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação.
 
-###### Artigo 26.º — Regra geral de transição
+Artigo 26.º
+
+Regra geral de transição
 
 1 - Os funcionários providos nas actuais carreiras de inspecção superior e de inspecção transitam para as novas carreiras, previstas no mapa ii anexo a este diploma, para escalão a que corresponde índice igual àquele que o funcionário detém na categoria de origem ou índice superior aproximado, se não houver coincidência.
 
@@ -325,11 +406,15 @@ e) Os funcionários actualmente providos na categoria de agente, posicionados no
 
 5 - Na lista nominativa prevista no número anterior constarão as progressões e promoções entretanto ocorridas desde a data da entrada em vigor do [Decreto Regulamentar Regional n.º 15/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2002-635211), de 18 de Setembro, conforme mapa iii, ressalvadas pelo [Acórdão n.º 18/2007](https://diariodarepublica.pt/dr/detalhe/acordao/18-2007-517846), do Tribunal Constitucional, de 20 de Fevereiro.
 
-###### Artigo 26.º-A — Concursos e estágios pendentes
+Artigo 26.º-A
+
+Concursos e estágios pendentes
 
 Os concursos e estágios pendentes à data da entrada em vigor do presente diploma mantêm a sua validade, sendo os lugares a prover os que constarem dos mapas i e ii anexos ao presente diploma.
 
-###### Artigo 27.º — Quadros de pessoal
+Artigo 27.º
+
+Quadros de pessoal
 
 Os quadros de pessoal a que se referem os mapas i e ii anexos ao [Decreto Regulamentar Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2001-348479), de 7 de Julho, são alterados e substituídos pelos mapas i e ii anexos ao presente diploma.»
 
@@ -345,11 +430,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 24 de Janeiro de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 11 de Fevereiro de 2008.**
+Assinado em 11 de Fevereiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -359,13 +444,13 @@ MAPA I
 
 (artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03500/0113601141.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03500/0113601141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03500/0113601141.pdf)
 
 MAPA II
 
 (artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03500/0113601141.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03500/0113601141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03500/0113601141.pdf)
 
 MAPA III
 
@@ -375,4 +460,4 @@ Transição das carreiras de inspecção
 
 Carreiras de inspector superior, de inspector técnico e de inspector-adjunto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03500/0113601141.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03500/0113601141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03500/0113601141.pdf)

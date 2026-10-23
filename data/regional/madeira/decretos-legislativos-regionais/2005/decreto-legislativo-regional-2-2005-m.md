@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2005/03/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-564831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 972be93cadea584909cc1a5e46dc7d43dcadc14faa3d668311bbcc01ff53182c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a3988f689dbfdd235a3223481dde8a2a8babbde12a6fbdc60b95e015c2fe2e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Colocação de Professores
 - Concurso
 - Contratação de Docentes
-- Recrutamento de Pessoal
-- Habilitações Literárias
-- Pessoal Docente
-- Qualificação Profissional
-- Ensino Básico
-- Madeira.região Autónoma
-- Quadro de Pessoal
-- Regime Jurídico
 - Educação Pré-escolar
+- Ensino Básico
+- Habilitações Literárias
+- Madeira.região Autónoma
+- Pessoal Docente
+- Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Tempo de Serviço
 - ZONA Pedagógica
 relationships:
 - type: amended_by
@@ -126,16 +126,147 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669864:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468639:por
+  label: "Revogado o DLR 17/2003/M de 22-Jul, com a redacção constante deste diploma, pelo DLR.15-A/2006/M.10.04.2006.AL-RAM,\
+    \ DR.IS-A [80-Supl] de 24.04.2006, sem prejuízo do disposto no nº 3 do art. 61º daquele diploma (manutenção da vigência\
+    \ do regime constante deste diploma para o concurso relativo ao ano escolar de 2005-2006) \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2006-468639
+  date: '2006-04-10'
 article_structure:
-  article_count: 75
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 67
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:31Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +301,9 @@ Os artigos 9.º, 11.º, 13.º, 14.º, 15.º, 40.º, 41.º, 60.º e 61.º do [Dec
 
 2 - Os candidatos ao concurso externo não podem ser opositores a mais de dois níveis, a mais de um nível e grupo de docência ou a mais de dois grupos de docência, sem prejuízo do disposto no artigo 58.º
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -190,7 +323,9 @@ a) Contratos a celebrar durante o 1.º período do ano escolar com termo em 31 d
 
 b) Contratos de duração temporária.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +339,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A graduação de candidatos detentores de habilitação própria para a docência é determinada pela soma da classificação académica, expressa na escala de 0 a 20, com a parcela N x 1 valor, em que N é o quociente da divisão, com arredondamento à milésima, por 365 do número de dias de serviço docente ou equiparado avaliado com menção de Satisfaz, contado nos termos do regime geral da função pública, prestado até ao dia 31 de Agosto do ano imediatamente anterior à data de abertura de concurso.
 
@@ -218,7 +355,9 @@ c) ...
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +373,9 @@ b) ...
 
 c) ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -252,7 +393,9 @@ c) ...
 
 8 - As necessidades residuais que surgirem após a saída da lista de colocação de professores contratados serão preenchidas seguindo-se as listas ordenadas definitivas de candidatos não colocados, procedendo-se sempre à actualização da lista graduada de candidatos não colocados.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -264,13 +407,17 @@ c) ...
 
 5 - (Revogado.)
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - Até ao concurso para o ano lectivo de 2007-2008, inclusive, poderão candidatar-se aos concursos para o preenchimento de lugares dos quadros indivíduos portadores de habilitação própria para a docência.
 
 2 - ...
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -292,15 +439,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 9 de Março de 2005.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 17 de Março de 2005.**
+Assinado em 17 de Março de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Disposições gerais
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/102/2008/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/102-2008-248226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e50ddbc11c3614912508e0f1b46cd19bf24d28224dcf67fea39a6b286fa02079
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03e62b44cd8ce8181a5d75717a55e515b9a7ec2fa62b6960354f234ea49a920e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aveiro
-- Elvas
-- Lisboa
-- Jovem
-- Medida Tutelar Educativa
-- Peniche
-- Funchal
-- Castelo Branco
-- VILA do Conde
-- Coimbra
-- REDE Nacional dos Centros Educativos
-- Centro Educativo
 - Açores
-- Oeiras
-- Porto
+- Aveiro
+- Castelo Branco
+- Centro Educativo
+- Coimbra
+- Elvas
+- Funchal
 - Guarda
+- Jovem
+- Lisboa
+- Medida Tutelar Educativa
+- Oeiras
+- Peniche
+- Porto
+- REDE Nacional dos Centros Educativos
+- VILA do Conde
 - VILA NOVA de GAIA
 - Viseu
 relationships:
+- type: amended_by
+  target: pt:dre:108238713:por
+  label: Extinto, a partir de 01.11.2017, o Centro Educativo do Mondego, localizado em Cavadoude, Guarda, e revogada, a partir
+    daquela data, a al. c) do n.º 1.º do presente diploma pelo(a) Portaria n.º 294/2017 - Diário da República n.º 190/2017,
+    Série I de 2017-10-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/294-2017-108238713
+  date: '2017-10-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/126/2007/04/27/p/dre
   label: null
@@ -100,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/108/2000/08/19/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/108/2000/08/19/p/dre
+- type: cites
+  target: pt:dre:324374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667907:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:24Z'
   warnings: []
   errors: []
 ---
@@ -184,4 +207,4 @@ f) Centro Educativo de Vila Fernando, em Vila Fernando, Elvas.
 
 11.º A presente portaria entra em vigor a 1 de Janeiro de 2008 e revoga a [Portaria n.º 1200-B/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1200-b-2000-667907), de 20 de Dezembro.
 
-**O Ministro da Justiça, Alberto Bernardes Costa, em 18 de Janeiro de 2008.**
+O Ministro da Justiça, Alberto Bernardes Costa, em 18 de Janeiro de 2008.

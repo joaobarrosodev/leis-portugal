@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/11/277a00/70467061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/1994/11/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1994-548628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 807dda7d561570f06b6e02618f4d87439155fb38c40d0ee446113be396471aec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dbb12dea3d5b5dd38ead32104724d539ef9455656a9e48e4ff2997d5a248270
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,43 +66,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Ordenamento do Território
-- Governo Regional
-- Estrada
+- Açores
+- Arborização
+- ÁREA NON Aedificandi
+- Autarquia Local
+- Classificação de Estradas
 - Contra-ordenação
 - Definição de Competências
-- Arborização
 - Estatuto
-- Classificação de Estradas
+- Estrada
 - Fiscalização
 - Gestão
+- Governo Regional
 - Licenciamento de Obras
-- Zona de Proteção
+- Multa
+- Ordenamento do Território
 - Regime Jurídico
 - Sinalização
-- Açores
-- Autarquia Local
-- ÁREA NON Aedificandi
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:455655:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:339388:por
+  label: "Alterados os arts. 54.º e 58.º pelo DLR.20/2000/A.2000.07.06.ALR-RAA DR.IS-A [183] DE 09/AGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2000-339388
+  date: '2000-07-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/438/1991/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/438/1991/11/09/p/dre
+- type: cites
+  target: pt:dre:331060:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466809:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:226472:por
+  label: "Revogado pelo DLR.18/2003/A.2003.03.18.ALR-RAA, DR.IS-A [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2003-226472
+  date: '2003-03-18'
 article_structure:
   article_count: 83
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:30Z'
   warnings: []
   errors: []
 ---
@@ -1037,10 +1063,10 @@ O produto das taxas e das coimas estabelecidas no presente diploma constitui rec
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 29 de Setembro de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo, em 7 de Novembro de 1994.**
+Assinado em Angra do Heroísmo, em 7 de Novembro de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

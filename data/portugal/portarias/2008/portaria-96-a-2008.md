@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 21/2008, 1º Suplemento, Série I de 2008-01-30
   number: '21'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 860-(2) a 860-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/02101/0000200002.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/96-a/2008/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/96-a-2008-158213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14e9c21585db0bb491f21fcc143f6f3206415f6fafaebd3ef59af0de8b001670
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14551da6edac98c313c5ea5d72308898535b39b568d6369c576e37ab00e5476e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Aposentação
-- Pessoa em Situação de Dependência
-- Estatuto da Aposentação
 - Administração Pública
+- Aposentação
+- Estatuto da Aposentação
+- Funcionário Público
+- Incapacidade Física
 - Junta de Recurso
 - Junta Médica
 - Pensão de Invalidez
-- Incapacidade Física
-- Funcionário Público
+- Pessoa em Situação de Dependência
 - Taxa
 relationships:
 - type: cites
@@ -84,16 +84,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/377/2007/11/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/377/2007/11/09/p/dre
+- type: cites
+  target: pt:dre:417402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:29Z'
   warnings: []
   errors: []
 ---
@@ -114,4 +130,4 @@ Ao abrigo do disposto no n.º 5 do artigo 95.º do Estatuto da Aposentação, co
 
 2.º A presente portaria entra em vigor no dia seguinte à sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 4 de Janeiro de 2008.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 4 de Janeiro de 2008.

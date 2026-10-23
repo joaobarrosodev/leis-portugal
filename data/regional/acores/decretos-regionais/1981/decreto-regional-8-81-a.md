@@ -47,36 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1981-578505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8f3d6260bf9c6ad818a679437854c78d2d46b8601d9dd7e3498b262db8ec0e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 095b6aac2aeff405c0bb252e7ab364fabbcacb36b518d6532d6c01bfc78bfa61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Arrendamento Urbano para Habitação
+relationships:
+- type: cites
+  target: pt:dre:369828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:564980:por
+  label: Rectificado pela DECL.DD6389.24.08.1981.PCM, DR.IS [204] de 05.09.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-564980
+  date: '1981-08-24'
+- type: corrected_by
+  target: pt:dre:564066:por
+  label: Rectificado pela DECL.DD3089.1981.09.23.PCM, DR.IS [227] de 02.10.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-564066
+  date: '1981-09-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:22Z'
   warnings: []
   errors: []
 ---
@@ -105,17 +141,17 @@ Por isso, parece evidente que este projecto não ofende a Constituição nem qua
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Na Região Autónoma dos Açores a formação do contrato de arrendamento urbano e a fixação ou alteração das respectivas rendas regulam-se pelo presente diploma.
+Artigo 1.º Na Região Autónoma dos Açores a formação do contrato de arrendamento urbano e a fixação ou alteração das respectivas rendas regulam-se pelo presente diploma.
 
-###### Art. 2.º - 1 - Sem prejuízo do disposto no n.º 3 do artigo 5.º, é livre a estipulação de rendas nos novos contratos de arrendamento.
+Art. 2.º - 1 - Sem prejuízo do disposto no n.º 3 do artigo 5.º, é livre a estipulação de rendas nos novos contratos de arrendamento.
 
 2 - É de dois anos o prazo para, após a fixação de qualquer renda, requerer avaliação fiscal para alteração da mesma.
 
-###### Art. 3.º Nos contratos de arrendamento que tiveram a sua renda fixada sem limites legais após 12 de Setembro de 1974, a primeira avaliação não poderá fixar renda superior em 25% à que vinha sendo praticada.
+Art. 3.º Nos contratos de arrendamento que tiveram a sua renda fixada sem limites legais após 12 de Setembro de 1974, a primeira avaliação não poderá fixar renda superior em 25% à que vinha sendo praticada.
 
-###### Art. 4.º Os senhorios que levarem a efeito, em fogos dados de arrendamento, quaisquer benfeitorias necessárias de carácter extraordinário podem, findos os respectivos trabalhos, requerer avaliação para fixação de nova renda, independentemente dos limites estabelecidos nos artigos anteriores.
+Art. 4.º Os senhorios que levarem a efeito, em fogos dados de arrendamento, quaisquer benfeitorias necessárias de carácter extraordinário podem, findos os respectivos trabalhos, requerer avaliação para fixação de nova renda, independentemente dos limites estabelecidos nos artigos anteriores.
 
-###### Art. 5.º Não pode ser recusado o arrendamento de qualquer fogo desocupado, salvo se:
+Art. 5.º Não pode ser recusado o arrendamento de qualquer fogo desocupado, salvo se:
 
 a) For destinado a venda e, durante o período de seis meses após a emissão da respectiva licença de utilização, não tiver sido transmitido;
 
@@ -123,24 +159,24 @@ b) For destinado a habitação própria do seu dono ou possuidor em nome própri
 
 c) For destinado, pela empresa sua proprietária, a alojamento do respectivo pessoal.
 
-###### Art. 6.º - 1 - O interessado em tomar de arrendamento qualquer fogo com base no artigo anterior e que não consiga para o efeito chegar a acordo com o potencial senhorio, poderá requerer o suprimento judicial do respectivo consentimento.
+Art. 6.º - 1 - O interessado em tomar de arrendamento qualquer fogo com base no artigo anterior e que não consiga para o efeito chegar a acordo com o potencial senhorio, poderá requerer o suprimento judicial do respectivo consentimento.
 
 2 - A petição indicará, além do mais, os elementos do contrato proposto.
 
 3 - A sentença fixará a renda e as demais cláusulas do contrato, de harmonia com o prudente arbítrio do julgador.
 
-###### Art. 7.º Em tudo o mais vigorará o disposto no Código Civil e legislação complementar.
+Art. 7.º Em tudo o mais vigorará o disposto no Código Civil e legislação complementar.
 
-###### Art. 8.º O disposto no presente diploma entende-se sem prejuízo da legislação regional sobre arrendamento por períodos limitados.
+Art. 8.º O disposto no presente diploma entende-se sem prejuízo da legislação regional sobre arrendamento por períodos limitados.
 
-###### Art. 9.º São revogados os Decretos Regionais que foram publicados sob os n.os 2/77/A e 6/77/A, respectivamente em 14 de Março e em 21 de Abril do ano referido.
+Art. 9.º São revogados os Decretos Regionais que foram publicados sob os n.os 2/77/A e 6/77/A, respectivamente em 14 de Março e em 21 de Abril do ano referido.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 5 de Maio de 1981.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 4 de Junho de 1981.**
+Assinado em Angra do Heroísmo em 4 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

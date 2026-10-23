@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13000/43854392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2007/07/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-636185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae72dc14201aabeac0df31985c79b32b1baea54e4ad34c329d229016f49e6617
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4025789044b3c1340452c9d81c631368c1a706ac588b6ad2d657992f958fa50c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Clube de Caçadores
+- Açores
+- CAÇA
 - Calendário Venatório
 - Carta de Caçador
-- CAÇA
+- Clube de Caçadores
 - Conselho Cinegético
-- Governo Regional
 - Contra-ordenação
 - Definição de Competências
 - Fiscalização
-- Seguro
+- Governo Regional
 - Licença de Caça
 - Ordenamento Cinegético
 - Receita
 - Regime Jurídico
 - Responsabilidade Civil
+- Seguro
 - Seguro contra Danos
-- Açores
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:114749192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:608726:por
+  label: "Declarada, com força obrigatória geral, a insconstitucionalidade da norma constante do art. 27.º do presente diploma,\
+    \ pelo AC.185/2009.13.05.2009.TCS, DR.IS [92] de 13.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/185-2009-608726
+  date: '2009-05-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/11/1992/04/15/a/dre
   label: null
@@ -105,16 +111,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/8/1994/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/8/1994/01/03/p/dre
+- type: cites
+  target: pt:dre:200864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:606128:por
+  label: "Revogado, a partir de 14.01.2014, o DRR 4/2003/A de 08-fev, mantido em vigor pelo presente diploma, pelo DRR.1/2014/A.13.01.2014.PG-RAA,\
+    \ DR.IS [8] de 13.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2014-606128
+  date: '2014-01-13'
+- type: repealed_by
+  target: pt:dre:114749192:por
+  label: Revogado, a partir de 23.05.2018, o presente diploma, pelo(a) Decreto Legislativo Regional n.º 3/2018/A - Diário
+    da República n.º 38/2018, Série I de 2018-02-22, e sem prejuízo do disposto no n.º 3 do seu art. 86.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2018-114749192
+  date: '2018-02-22'
 article_structure:
   article_count: 40
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:38Z'
   warnings: []
   errors: []
 ---
@@ -653,10 +687,10 @@ O presente decreto legislativo regional produz os seus efeitos com a entrada em 
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 23 de Maio de 2007.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 19 de Junho de 2007.**
+Assinado em Angra do Heroísmo em 19 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

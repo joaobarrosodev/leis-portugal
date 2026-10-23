@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/00400/00800082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/22/2007/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22-2007-262335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c6961c0160c4b43a3994ed73bc34dc2cda9dad3e2e4fb9a90b6e1b80704255a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ad15097004385dc6f01e2ac9d9deb4ad14ad966bcbeaa5d7654c486740f675c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Metrologia
-- Fiscalização
 - Aparelho de Medição
-- Instituto Português da Qualidade
-- Regulamento
 - Controlo Metrológico
+- Fiscalização
+- Instituto Português da Qualidade
+- Metrologia
 - Normalização
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:124831331:por
@@ -81,16 +81,26 @@ relationships:
   target: celex:32004L0022
   label: null
   source: http://data.europa.eu/eli/dir/2004/22/oj
+- type: repealed_by
+  target: pt:dre:670004:por
+  label: "Revogada, a partir de 01.07.2011, pelo DEC LEI.71/2011.16.06.2011.MEID, DR.IS [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2011-670004
+  date: '2011-06-16'
+- type: repealed_by
+  target: pt:dre:124831331:por
+  label: Revogada, a partir de 20.09.2019, pelo(a) Portaria n.º 321/2019 - Diário da República n.º 180/2019, Série I de 2019-09-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/321-2019-124831331
+  date: '2019-09-19'
 article_structure:
   article_count: 9
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:04Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +213,7 @@ Condições estipuladas de funcionamento
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00400/00800082.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00400/00800082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00400/00800082.pdf)
 
 2.2 - Se o objecto medido não for transportado pelo instrumento de medição, a sua velocidade deve situar-se dentro dos limites especificados pelo fabricante.
 
@@ -215,7 +225,7 @@ Erros máximos admissíveis
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00400/00800082.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00400/00800082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00400/00800082.pdf)
 
 em que L(índice m) é o comprimento mínimo mensurável, ou seja, o comprimento mínimo para o qual o instrumento pode ser utilizado, conforme as especificações do fabricante.
 
@@ -253,7 +263,7 @@ Condições de funcionamento
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00400/00800082.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00400/00800082.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00400/00800082.pdf)
 
 1.3 - Velocidade do produto - a velocidade deve situar-se dentro dos limites especificados pelo fabricante para o instrumento.
 

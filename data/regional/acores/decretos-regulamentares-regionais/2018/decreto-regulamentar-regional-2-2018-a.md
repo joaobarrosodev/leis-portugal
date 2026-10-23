@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2018/01/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2018-114528125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0758b39f600d1a1500815e28db25185b4544f3d270e8170cc7421d6c8275aa46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02398004b03cab442f606b866ecccd73ddb6f3da6f57a579a83862c7413278a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Financiamento
-- Empresa
-- Desenvolvimento Regional
-- Mudança Tecnológica
-- Regulamentação de Atos Legislativos
-- Diversificação das Exportações
-- Competitividade Empresarial
-- Entidade sem FINS Lucrativos
-- Auxílio de Minimis
-- Projeto de Investimento
-- TIC
-- Investimento
-- Desenvolvimento Económico
-- Exportação
-- Sistema de Incentivos da Região Autónoma dos Açores
 - Açores
+- Auxílio de Minimis
+- Competitividade Empresarial
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Diversificação das Exportações
+- Empreendedorismo
+- Empresa
+- Entidade sem FINS Lucrativos
+- Exportação
+- Financiamento
+- Investimento
+- Mudança Tecnológica
+- Projeto de Investimento
+- Regulamentação de Atos Legislativos
+- Sistema de Incentivos da Região Autónoma dos Açores
 - Sistema de Incentivos de BASE Regional
+- Sistema de Incentivos para a Competitividade Empresarial
 - Sistema de Incentivos Regionais
 - Subsídio não Reembolsável
-- Sistema de Incentivos para a Competitividade Empresarial
 - SUBSISTEMA DE INCENTIVOS PARA A QUALIFICAÇÃO E INOVAÇÃO
 - Subsistema de Incentivos para o Desenvolvimento Local
+- TIC
 relationships:
 - type: cites
   target: celex:32013R1379
@@ -143,16 +143,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/2016/07/11/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/2016/07/11/a/dre
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56894783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57205880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57308389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58248463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74454667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74895681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74915210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74925436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74967225:por
+  label: null
+  source: null
 article_structure:
-  article_count: 97
+  article_count: 93
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:26Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +269,9 @@ d) Escolas de condução e pilotagem (CAE 85530).
 
 2 - [...]
 
-###### Artigo 5.º-A — [...]
+Artigo 5.º-A
+
+[...]
 
 1 - Para além das condições gerais de acesso previstas no artigo 5.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, alterado pelos Decretos Legislativos Regionais n.º [1/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), de 8 de janeiro e n.º [9/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), de 18 de maio, os projetos apresentados ao abrigo da alínea a), ou em simultâneo às alíneas a) e b) do artigo 4.º devem apresentar viabilidade económico-financeira e ser instruídos com um estudo que demonstre aquela condição, indicando o responsável técnico pela sua elaboração.
 
@@ -235,7 +313,9 @@ x) [...]
 
 2 - [...]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -263,7 +343,9 @@ h) [...]
 
 5 - [...]
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -311,7 +393,9 @@ c) Serviços - divisões 74, 82 e 95, subclasses 86905 e 96040 com investimento 
 
 4 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -391,11 +475,11 @@ O presente diploma entra em vigor a 1 de janeiro de 2018, sem prejuízo do dispo
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 20 de novembro de 2017.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo, em 8 de janeiro de 2018.**
+Assinado em Angra do Heroísmo, em 8 de janeiro de 2018.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -819,7 +903,7 @@ Inserção de melhorias tecnológicas;
 
 Promoção do aumento da produtividade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 Para atribuição da pontuação ao subcritério A2, deve ser atendido o grau de inovação do projeto com base no grau de novidade e difusão do projeto e na amplitude da inovação e adequação ao mercado, com os seguintes níveis:
 
@@ -849,7 +933,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 A atribuição da pontuação ao subcritério A3 é efetuada aferindo acerca do desenvolvimento do projeto em parceria com outras empresas ou com entidades do Sistema Científico e Tecnológico:
 
@@ -947,7 +1031,7 @@ d) Fraco - 1 ou 2 pontos.
 
 E é atribuída de acordo com a seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 O critério C - contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do programa operacional (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -1541,7 +1625,7 @@ A2 - autonomia financeira da empresa.
 
 a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 em que:
 
@@ -1551,17 +1635,17 @@ vendas = vendas de produtos + venda de mercadorias + prestação de serviços.
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/ativo total líquido, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura.
 
 3 - A pontuação do critério C - Contributo do projeto para a consolidação financeira da empresa é determinada pelo indicador novos capitais próprios/investimento elegível (excluindo salários), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 4 - A pontuação do critério D - Contributo do projeto para a competitividade da empresa, é determinada pelo indicador investimento em fatores dinâmicos de competitividade/Investimento elegível, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 em que:
 
@@ -1597,7 +1681,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 6 - O critério F - Contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do Programa Operacional (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -2117,7 +2201,7 @@ A2 - Autonomia financeira da empresa.
 
 a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 em que:
 
@@ -2127,17 +2211,17 @@ Vendas = vendas de produtos + venda de mercadorias + + prestação de serviços.
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/ativo total líquido, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura.
 
 3 - A pontuação do critério C - contributo do projeto para a consolidação financeira da empresa é determinada pelo indicador novos capitais próprios/investimento elegível (excluindo salários), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 4 - A pontuação do critério D - contributo do projeto para a competitividade da empresa é determinada pelo indicador investimento em fatores dinâmicos de competitividade/investimento elegível, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 em que:
 
@@ -2173,7 +2257,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 6 - O critério F - contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do programa operacional (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -2715,7 +2799,7 @@ C - Contributo do projeto para a sustentabilidade económica, ambiental e social
 
 2 - O critério A - Contributo do projeto para a consolidação financeira da empresa é determinado pelo indicador novos capitais próprios/investimento elegível (excluindo salários), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 3 - O critério B - Contributo do projeto para a inovação e diversificação da oferta, mede o grau de inovação do investimento face ao mercado existente, do seguinte modo:
 
@@ -2747,7 +2831,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
 
 4 - O critério C - Contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do Programa Operacional dos Açores 2020 (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -2841,4 +2925,6 @@ e) Coerência elevada: projeto dirigido a público específico (jovens e potenci
 
 4 - O critério C - Grau de abrangência do projeto - medido pela abrangência territorial e a capacidade de aglutinar empreendedores, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf))](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/01100/0040600444.pdf)
+
+111048273

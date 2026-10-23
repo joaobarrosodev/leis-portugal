@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/174/2009/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/174-2009-602016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77a0825cdefa8d5df6f6ef7b0f08e11a6d29193fa2575cac731ec524e1bf0dcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c9dbad9eb480467f1689931a34e863150de55ae22f08fbb0c36de3551067b7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
 - Ambulância
-- Proteção Civil
-- Incêndio
-- Prevenção de Incêndios
-- Financiamento
+- Autoridade Nacional de Protecção Civil
+- Bombeiro
 - Comandante Operacional Municipal
 - Conselho Nacional de Bombeiros
 - Direcção Nacional de Bombeiros
 - Equipamento
-- Proteção da Floresta
-- Veículo
+- Financiamento
+- Incêndio
 - Liga dos Bombeiros Portugueses
-- Bombeiro
-- Autoridade Nacional de Protecção Civil
+- Prevenção de Incêndios
 - Programa de Apoio aos Equipamentos
+- Proteção Civil
+- Proteção da Floresta
+- QREN
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:488506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:488506:por
+  label: "Alterados os arts. 5.º, 8.º e 9.º, pela PORT.974/2009.01.09.2009.MAI, DR.IS [169] de 01.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/974-2009-488506
+  date: '2009-09-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/2007/06/27/p/dre
   label: null
@@ -94,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/32/2007/08/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/32/2007/08/13/p/dre
+- type: cites
+  target: pt:dre:635841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636956:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:36Z'
   warnings: []
   errors: []
 ---

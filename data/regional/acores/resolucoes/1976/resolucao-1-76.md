@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 303/1976, 6º Suplemento, Série I de 1976-12-31
   number: '303'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 2900-(143) a 2900-(165)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30306/01430165.pdf
 entry_into_force_dates: []
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-1976-390975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff220da310cedd7e84f7a90409d8ace500272206f7fe947595e86fad52af9c3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4eabc22690243a789a36c1a42b215f96e9f954c0a2d40cbdf0885d252dd9ccc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Assembleia Regional
+- Cargos Políticos
+- Grupo Parlamentar
+- Parlamentar
+- Presidente
+- Processo Legislativo
+- Regimento
+- Substituição de Funções
+- Vice-presidente
 relationships:
 - type: amended_by
   target: pt:dre:393597:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:447492:por
+  label: "Alterados os arts. 6.º, 9.º, 10.º, 14.º, 21.º, 34.º, 35.º, 36.º, 38.º, 113.º, 144.º, 146.º, 151.º, 173.º, aditados\
+    \ os arts. 32.º-A, 36.º-A, 38.º-A, 64.º-A, 109.º-A, 168.º-A, 168.º-B, 168.º-C, 168.º-D, 168.º-E e 168.º-F e suprimido\
+    \ o n.º 2 do art. 32.º, o n.º 2 do art. 83.º e o art. 90.º do Regimento, pela RES.5/78/A.1977.12.15.ARA DR.IS [62] de\
+    \ 15.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/5-1978-447492
+  date: '1977-12-15'
+- type: amended_by
+  target: pt:dre:393597:por
+  label: "Alterados os artigos 6.º, 12.º, 15.º, 36.º, 37.º, 38.º, 39.º e 153.º do Regimento, na redacção dada na Res 5/78/A\
+    \ de 15-Mar, pela RES.6/79/A.1978.12.13.ARA DR.IS [50] de 01.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/6-1979-393597
+  date: '1978-12-13'
+- type: cites
+  target: pt:dre:345525:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:252817:por
+  label: Rectificada pela DECL.DD8309.26.05.1977.PCM, DR.IS [122] de 26.05.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-252817
+  date: '1977-05-26'
 article_structure:
   article_count: 1
   section_count: 50
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:23Z'
   warnings: []
   errors: []
 ---
@@ -432,7 +465,7 @@ r) Em geral, vigiar pelo cumprimento do Regimento e das resoluções da Assemble
 
 ###### ARTIGO 25.º — (Conferência dos presidentes dos grupos parlamentares)
 
-**O Presidente reunir-se-á com os presidentes dos grupos parlamentares, ou seus substitutos, e com os representantes dos partidos não constituídos em grupo, para apreciar os assuntos previstos na alínea b) do artigo 22.º e outros previstos no Regimento, e sempre que o entender necessário para o regular funcionamento da Assembleia.**
+O Presidente reunir-se-á com os presidentes dos grupos parlamentares, ou seus substitutos, e com os representantes dos partidos não constituídos em grupo, para apreciar os assuntos previstos na alínea b) do artigo 22.º e outros previstos no Regimento, e sempre que o entender necessário para o regular funcionamento da Assembleia.
 
 ###### ARTIGO 26.º — (Substituição do Presidente da Assembleia)
 
@@ -1186,7 +1219,7 @@ b) Quanto à comissão competente.
 
 ###### ARTIGO 108.º — (Envio de propostas de alteração)
 
-**O Presidente poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.**
+O Presidente poderá também enviar à comissão que se tenha pronunciado sobre o projecto ou a proposta de decreto regional qualquer proposta de alteração que afecte os princípios e o sistema do texto a que se refere.
 
 ###### ARTIGO 109.º — (Apreciação de projectos ou propostas sobre legislação do trabalho)
 
@@ -1672,4 +1705,4 @@ b) Os decretos regionais sobre o sistema do planeamento e sobre o Orçamento Reg
 
 Aprovado pela Assembleia Regional dos Açores, por resolução tomada na Horta, em 3 de Setembro de 1976.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.

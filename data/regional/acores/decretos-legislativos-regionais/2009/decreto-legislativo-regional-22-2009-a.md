@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2009/12/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6892e66e35eaeb57f92cf7f75926f960abca70aa0c76301e463a4b97d4eab149
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feeab215d755a0b8d9619e30cfcaf5c414dd43771b576167f90c28d611d59fe7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Casa Degradada
-- Renovação Urbana
-- Regime Jurídico
-- Habitação
 - Açores
+- Casa Degradada
+- Habitação
 - Prédio Urbano
+- Regime Jurídico
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:122393535:por
@@ -97,16 +97,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/6/2002/03/11/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/6/2002/03/11/a/dre
+- type: cites
+  target: pt:dre:158046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122393535:por
+  label: Revogado o DLR 6/2002/A de 11-mar, alterado e republicado pelo presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 11/2019/A - Diário da República n.º 100/2019, Série I de 2019-05-24, que manteve, contudo em vigor, as normas referentes
+    ao ónus da inalienabilidade, às obrigações e sanções constantes daquele diploma, para os contratos celebrados ao abrigo
+    do mesmo, nos termos do disposto no n.º 2 do art. 29.º e do art. 31.º do DLR 11/2019/A.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2019-122393535
+  date: '2019-05-24'
 article_structure:
   article_count: 35
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:01Z'
   warnings: []
   errors: []
 ---
@@ -299,13 +335,13 @@ c) ...
 
 Os limites máximos de rendimento a que se refere a alínea d) do n.º 1 do artigo 6.º são os seguintes (1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf))](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf)
 
 ## ANEXO II
 
 As classes de apoio referidas no n.º 1 do artigo 11.º são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf))](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf)
 
 ###### Artigo 2.º — Regime excepcional de acesso
 
@@ -337,11 +373,11 @@ O presente diploma produz efeitos no dia seguinte ao da sua publicação e abran
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 29 de Outubro de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 3 de Dezembro de 2009.**
+Assinado em Angra do Heroísmo em 3 de Dezembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -653,10 +689,10 @@ O regime previsto no presente diploma produz efeitos a partir da data de entrada
 
 Os limites máximos de rendimento a que se refere a alínea d) do n.º 1 do artigo 6.º são os seguintes (1):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf))](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf)
 
 ## ANEXO II
 
 As classes de apoio referidas no n.º 1 do artigo 11.º são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf))](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/24200/0866608673.pdf)

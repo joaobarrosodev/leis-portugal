@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07600/0227302276.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/300/2008/04/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/300-2008-249813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8628a5d9335dd6b0549eda0ce617cf80cf089d2813a91140c03658411292ceb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0793fd15d16fc76ee00da2b9eda521c17db7f12438cbf2e401d5167854f68258
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,14 @@ reuse:
 subjects:
 - Acção de Formação
 - Ajuda Comunitária
-- Financiamento
 - Bolsa de Formação Profissional
-- Instituto do Emprego e Formação Profissional
-- Indústria Automóvel
-- Despedimento
-- Fundos CE
-- Instituto de Gestão do Fundo Social Europeu
 - Desemprego
+- Despedimento
+- Financiamento
+- Fundos CE
+- Indústria Automóvel
+- Instituto de Gestão do Fundo Social Europeu
+- Instituto do Emprego e Formação Profissional
 - Política de Emprego
 - Regulamento
 - Reinserção Profissional
@@ -84,20 +84,37 @@ relationships:
   target: pt:dre:611327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604804:por
+  label: "Alterado o art. 3.º do presente diploma, bem como o art. 3.º da secção II, revogadas as secção IV, secção V e secção\
+    \ VI, introduzidas 3 novas secções, a secção IV que inclui o art. 7.º e o art. 8.º, a secção V que inclui o art. 9.º e\
+    \ o art. 10.º, e a secção VI que inclui o art. 11.º e o art. 12.º, alterada a secção VII, sendo os respectivos artigos\
+    \ renumerados, introduzidos os arts. 13.º, 14.º e 15.º, alterado o anterior art. 17.º que passa a art. 16.º, revogado\
+    \ o anterior art. 18.º, alterado o nº 2 do anterior art. 19.º, que passa a ser art. 17.º e publicadas em anexo as alterações\
+    \ referidas, todas do Regulamento para desenvolvimento das intervenções previstas no âmbito de candidaturas ao Fundo Europeu\
+    \ de Ajustamento à Globalização, aprovado pelo presente diploma, pela PORT.250/2009.09.03.2009.MTSSO, DR.IS [47] de 09.03.2009\0\
+    009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/250-2009-604804
+  date: '2009-03-09'
 - type: cites
   target: celex:32006R1927
   label: null
   source: http://data.europa.eu/eli/reg/2006/1927/oj
+- type: repealed_by
+  target: pt:dre:611327:por
+  label: "Revogada, a partir de 26.03.2010, pela PORT.179/2010.25.03.2010.MTSSO, DR.IS [59] de 25.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/179-2010-611327
+  date: '2010-03-25'
 article_structure:
   article_count: 20
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:27Z'
   warnings: []
   errors: []
 ---

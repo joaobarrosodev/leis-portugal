@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1986-220144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 268f7dd3681cca68c3344b6caefe25d612b384c5b31b51b791872183c59658b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 389967b34f445d036717076a3a1c7106688d5fc74540af6453d8b74389891fa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção dos Serviços de Fiscalização Económica
+- Infracção Antieconómica
+- Madeira.região Autónoma
+- Multa
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:469583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:574923:por
+  label: "Alterado o corpo do art. 1.º pelo DLR.16/90/M.06.06.1990.ALR-RAM, DR.IS [130] de 06.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-1990-574923
+  date: '1990-06-06'
+- type: amended_by
+  target: pt:dre:469583:por
+  label: "Alterado o artº 1º na redacção do DLR 16/90/M, de 06-Jun, pelo DLR.3/97/M.1997.03.20.ALR-RAM, DR.IS-A [91] de 1997.04.18\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1997-469583
+  date: '1997-03-20'
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:05Z'
   warnings: []
   errors: []
 ---
@@ -97,26 +122,26 @@ Assim:
 
 A Assembleia Regional da Madeira, nos termos da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º Na Região Autónoma da Madeira competirá, respectivamente, à Direcção de Serviços de Fiscalização Económica e ao Secretário Regional da Economia o processamento e a aplicação das coimas e sanções acessórias previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+Artigo 1.º Na Região Autónoma da Madeira competirá, respectivamente, à Direcção de Serviços de Fiscalização Económica e ao Secretário Regional da Economia o processamento e a aplicação das coimas e sanções acessórias previstas no [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
 § único. Todas as restantes competências e atribuições previstas no referido diploma à Direcção-Geral de Inspecção Económica cabem nesta Região à Direcção Regional do Comércio e Indústria.
 
-###### Art. 2.º O montante das coimas aplicadas nos termos do artigo anterior reverterá para a Região Autónoma da Madeira.
+Art. 2.º O montante das coimas aplicadas nos termos do artigo anterior reverterá para a Região Autónoma da Madeira.
 
-###### Art. 3.º A decisão condenatória definitiva proferida em processo por contra-ordenação determinará a transferência para a propriedade da Região dos objectos declarados perdidos a título de sanção acessória.
+Art. 3.º A decisão condenatória definitiva proferida em processo por contra-ordenação determinará a transferência para a propriedade da Região dos objectos declarados perdidos a título de sanção acessória.
 
-###### Art. 4.º Em caso da venda antecipada dos objectos apreendidos a que se refere o artigo 75.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, o produto da venda dará entrada nos cofres da Região se for decidida a transmissão da propriedade para esta.
+Art. 4.º Em caso da venda antecipada dos objectos apreendidos a que se refere o artigo 75.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, o produto da venda dará entrada nos cofres da Região se for decidida a transmissão da propriedade para esta.
 
-###### Art. 5.º Na Região Autónoma da Madeira, a declaração a que se refere a alínea a) do artigo 55.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, é feita à Direcção de Serviços de Fiscalização Económica.
+Art. 5.º Na Região Autónoma da Madeira, a declaração a que se refere a alínea a) do artigo 55.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro, é feita à Direcção de Serviços de Fiscalização Económica.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 29 de Julho de 1986.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 14 de Agosto de 1986.**
+Assinado em 14 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

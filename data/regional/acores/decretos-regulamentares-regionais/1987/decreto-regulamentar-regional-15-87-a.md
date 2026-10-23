@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/05/11400/20252028.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1987-421576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33a760cd724116e82eb0d8bc4abd96785bdef9f4167bb412f1aacdab2d446653
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af509f8d98b829dd56d5d0b0db01e9c07a26e03233d14b9c6c54444c4709fb8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Gabinete Executivo do Projecto de Melhoramento da Produção Leiteira
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:611678:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:611678:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 16/89/A - Diário da República n.º 106/1989, Série I de 1989-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1989-611678
+  date: '1989-05-09'
 article_structure:
   article_count: 15
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:48Z'
   warnings: []
   errors: []
 ---
@@ -149,13 +157,13 @@ c) Comissões consultivas.
 
 1 - A Direcção do Projecto é constituída pelos seguintes elementos:
 
-**O Secretário Regional da Agricultura e Pescas;**
+O Secretário Regional da Agricultura e Pescas;
 
 O director regional da Agricultura;
 
 O director regional de Veterinária;
 
-**O presidente da direcção do Instituto Regional dos Produtos Agro-Alimentares;**
+O presidente da direcção do Instituto Regional dos Produtos Agro-Alimentares;
 
 O director do Gabinete Técnico;
 
@@ -251,10 +259,10 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 5 de Março de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 27 de Abril de 1987.**
+Assinado em Angra do Heroísmo em 27 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

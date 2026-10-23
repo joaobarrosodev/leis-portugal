@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/650/2009/06/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/650-2009-494536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af52d0be2ea24228b9a6b5f9f5a348c7a77cce46ccbb2db8994847b0842b004e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a618ef1deafcc2ef4a039e96eec76a8c5f7f7f46079dae9cb258b0b179534e18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,9 +71,9 @@ subjects:
 - Cartão de Identificação
 - Comparticipação do Estado
 - Definição de Competências
+- Forças Armadas
 - Instituto de Ação Social das Forças Armadas
 - Medicamento
-- Forças Armadas
 - Pensionista
 - Preço
 relationships:
@@ -101,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/91/2006/01/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/91/2006/01/27/p/dre
+- type: cites
+  target: pt:dre:147854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545663:por
+  label: null
+  source: null
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:30Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +197,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 26 de Janeiro de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira. - Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado Adjunto e da Saúde.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira. - Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado Adjunto e da Saúde.
 
 ## ANEXO — Declaração anual de rendimentos do pensionista
 

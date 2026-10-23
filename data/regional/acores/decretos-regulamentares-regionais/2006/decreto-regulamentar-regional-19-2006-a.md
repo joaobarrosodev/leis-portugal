@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2006/06/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2006-353951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbf1852d2fce7c5a4766b55cee4a47df312d1a3181272747728132e05d51a509
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de380f286653af86de9c5e8850fcd17e206c2e84d5e49ee94936a4bc6db63bb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Secretaria Regional da Economia
-- Governo Regional
-- Direcção Regional das Pescas
-- Secretaria Regional da Agricultura e Florestas
+- Açores
 - Definição de Competências
 - Direcção Regional da Ciência e Tecnologia
 - Direcção Regional da Cultura
-- Presidência do Governo Regional
 - Direcção Regional da Educação
 - Direcção Regional da Educação e Ciência
 - Direcção Regional da Habitação
@@ -81,8 +76,9 @@ subjects:
 - Direcção Regional da Saúde
 - Direcção Regional da Solidariedade e Segurança Social
 - Direcção Regional das Comunidades
-- Secretário Regional da Presidência
+- Direcção Regional das Pescas
 - Direcção Regional de Apoio à Coesão Económica
+- Direcção Regional de Estudos e Planeamento dos Açores
 - Direcção Regional de Obras Públicas e Transportes Terrestres
 - Direcção Regional de Organização e Administração Pública
 - Direcção Regional de Turismo
@@ -90,39 +86,70 @@ subjects:
 - Direcção Regional do Comércio Indústria e Energia
 - Direcção Regional do Desenvolvimento Agrário
 - Direcção Regional do Desporto
-- Vice-presidência do Governo Regional
+- Direcção Regional do Orçamento e Tesouro
 - Direcção Regional do Ordenamento do Território e dos Recursos Hídricos
 - Direcção Regional do Trabalho e Qualificação Profissional
 - Direcção Regional dos Assuntos Comunitários da Agricultura
 - Direcção Regional dos Assuntos Europeus e da Cooperação Externa
 - Direcção Regional dos Recursos Florestais
 - Direcção Regional dos Transportes Aéreos e Marítimos
-- Direcção Regional de Estudos e Planeamento dos Açores
-- Secretaria Regional do Ambiente e do MAR
-- Presidente do Governo Regional
-- Subsecretário Regional
+- Governo Regional
 - Inspecção Administrativa Regional
 - Laboratório Regional de Engenharia Civil
-- Secretaria Regional da Habitação e Equipamentos
-- Secretaria Regional dos Assuntos Sociais
 - Orgânica
-- Direcção Regional do Orçamento e Tesouro
+- Presidência do Governo Regional
+- Presidente do Governo Regional
+- Região Autónoma
+- Secretaria Regional da Agricultura e Florestas
+- Secretaria Regional da Economia
+- Secretaria Regional da Habitação e Equipamentos
+- Secretaria Regional do Ambiente e do MAR
+- Secretaria Regional dos Assuntos Sociais
 - Secretário Regional Adjunto do Vice-presidente
 - Secretário Regional da Agricultura e Florestas
 - Secretário Regional da Economia
 - Secretário Regional da Educação e Ciência
 - Secretário Regional da Habitação e Equipamentos
+- Secretário Regional da Presidência
 - Secretário Regional do Ambiente e do MAR
 - Secretário Regional dos Assuntos Sociais
 - Serviço Regional de Estatística dos Açores
-- Açores
+- Subsecretário Regional
 - Subsecretário Regional das Pescas
+- Vice-presidência do Governo Regional
 - Vice-presidente do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:444253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546024:por
+  label: "Determinada a transição, nos termos do art. 2º, dos meios efectivos, competências, direitos e obrigações afectos\
+    \ à extinta Direcção Regional dos Assuntos Europeus para a Direcção Regional dos Assuntos Europeus e Cooperação Externa,\
+    \ criada pelo presente diploma (transição já nele prevista ), bem como o pessoal referido no nº 2 do citado artigo, que\
+    \ transita para o quadro de pessoal constante do anexo II, pelo DRR.30/2006/A.03.10.2006.PG-RAA, DR.IS [210] de 31.10.2006,\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-2006-546024
+  date: '2006-10-03'
+- type: amended_by
+  target: pt:dre:642196:por
+  label: "Alterada a al. c) do n.º 1 do art. 2.º, o n.º 1 do art. 3.º, a al. a) do n.º 1 e o n.º 2 do art. 4.º, o art. 10.º,\
+    \ o art. 22.º, a al. b) do n.º 1 do art. 34.º, os artºs. 36.º e 51.º, o n.º 1 do art. 53.º, a al. c) do n.º 1 do art.\
+    \ 63.º e o art. 68.º, bem como o quadro de pessoal anexo, aditado um artigo 47.º-A na subsecção v, referente à Direcção\
+    \ Regional de Organização e Administração Pública e revogada a subsecção iv do Decreto Regulamentar Regional n.º 9/2006/A,\
+    \ de 9 de Fevereiro, alterado pelo presente diploma, pelo DRR.18/2007/A.18.09.2007.PG-RAA, DR.IS [180] de 18.09.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2007-642196
+  date: '2007-09-18'
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Transitada para a dependência do Secretário Regional da Presidência, a Direcção Regional da Juventude criada e integrada\
+    \ na Secretaria Regional da Educação e Ciência pelo presente diploma, e extinta a Direcção Regional dos Assuntos Europeus\
+    \ e Cooperação Externa, criada também pelo presente diploma, ficando os serviços que integram a sua estrutura na dependência\
+    \ directa do Secretário Regional da Presidência, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252] de 31.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/2005/05/09/a/dre
   label: null
@@ -143,16 +170,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:12Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +252,9 @@ d) Assuntos da imigração;
 
 e) Cultura.
 
-###### Artigo 8.º — Competências do Vice-Presidente do Governo Regional
+Artigo 8.º
+
+Competências do Vice-Presidente do Governo Regional
 
 1 - O Vice-Presidente do Governo Regional exerce as suas competências nas seguintes matérias:
 
@@ -229,7 +278,9 @@ i) Polícia administrativa.
 
 2 - O Secretário Regional Adjunto do Vice-Presidente terá os poderes que lhe forem delegados por despacho conjunto do Presidente do Governo Regional e do Vice-Presidente do Governo Regional.
 
-###### Artigo 9.º — Competências do Secretário Regional da Presidência
+Artigo 9.º
+
+Competências do Secretário Regional da Presidência
 
 1 - Para além das competências que lhe forem delegadas pelo Presidente do Governo Regional, o Secretário Regional da Presidência exerce a sua competência nas seguintes matérias:
 
@@ -249,7 +300,9 @@ g) Coordenação de projectos especiais interdepartamentais.
 
 2 - Ao Secretário Regional da Presidência compete assegurar as relações com a Assembleia Legislativa e com os partidos políticos.
 
-###### Artigo 16.º — Direcções regionais
+Artigo 16.º
+
+Direcções regionais
 
 Os departamentos do Governo Regional referidos no artigo 3.º integram as seguintes direcções regionais e serviços equiparados:
 
@@ -385,10 +438,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 4 de Maio de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 23 de Maio de 2006.**
+Assinado em Angra do Heroísmo em 23 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

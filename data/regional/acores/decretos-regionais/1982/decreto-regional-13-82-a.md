@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15400/20212022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-394541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d579a24cb54677625aa304de56be170bb9bb13169b53a6e9f5c9cadc44e008db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64701ca1dd656e0975d1412e109f9a900a0f1280ba1ec12f227233c221d8f52b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:456515:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:456515:por
+  label: "Revogado pelo DLR.19/2008/A.08.07.2008.AL-RAA, DR.IS [130] de 08.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2008-456515
+  date: '2008-07-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:24Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +105,11 @@ Pelo seu estado de conservação, pela localização e por ser testemunho de um 
 
 Assim, e nos termos do artigo 229.º, n.º 1, alínea a), da Constituição da República Portuguesa, a Assembleia Regional dos Açores decreta o seguinte:
 
-###### Artigo 1.º É criado o Lugar Classificado da Praia, freguesia de Água de Alto, concelho de Vila Franca do Campo.
+Artigo 1.º É criado o Lugar Classificado da Praia, freguesia de Água de Alto, concelho de Vila Franca do Campo.
 
-###### Art. 2.º Os limites da área classificada são os que constam da carta anexa ao presente diploma, que dele faz parte integrante.
+Art. 2.º Os limites da área classificada são os que constam da carta anexa ao presente diploma, que dele faz parte integrante.
 
-###### Art. 3.º Com a presente classificação pretende-se:
+Art. 3.º Com a presente classificação pretende-se:
 
 a) Manter a tipologia das habitações quanto a estrutura, escala, materiais e cores;
 
@@ -114,7 +121,7 @@ d) Promover a beneficiação do enquadramento paisagístico do aglomerado, bem c
 
 e) A animação sócio-cultural da população com vista ao relançamento dos valores da cultura local.
 
-###### Art. 4.º Fica dependente de autorização da Secretaria Regional do Equipamento Social a realização dos seguintes trabalhos:
+Art. 4.º Fica dependente de autorização da Secretaria Regional do Equipamento Social a realização dos seguintes trabalhos:
 
 a) Construção, reconstrução, ampliação, alteração ou demolição de edifícios e outras instalações, com carácter público ou privado;
 
@@ -122,22 +129,22 @@ b) Pinturas e caiação de edifícios ou muros, existentes ou a construir, bem c
 
 c) Alterações importantes, quer por meio de aterros ou escavações, na configuração geral da área classificada, bem como derrube de vegetação ou quaisquer outras actividades ou trabalhos que afectem a integridade e características do Lugar Classificado.
 
-###### Art. 5.º O Lugar Classificado da Praia será administrado por uma comissão presidida pelo representante da Direcção Regional de Habitação. Urbanismo e Ambiente, da qual fazem parte representantes da Câmara Municipal de Vila Franca do Campo e da Junta de Freguesia de Água de Alto.
+Art. 5.º O Lugar Classificado da Praia será administrado por uma comissão presidida pelo representante da Direcção Regional de Habitação. Urbanismo e Ambiente, da qual fazem parte representantes da Câmara Municipal de Vila Franca do Campo e da Junta de Freguesia de Água de Alto.
 
-###### Art. 6.º No prazo de 12 meses a partir da data da publicação do presente diploma será executado pela Direcção Regional de Habitação, Urbanismo e Ambiente um plano de ordenamento paisagístico e de infra-estruturas de saneamento básico da povoação, o qual será apreciado pela comissão administrativa antes de ser submetido à aprovação superior do Secretário Regional do Equipamento Social.
+Art. 6.º No prazo de 12 meses a partir da data da publicação do presente diploma será executado pela Direcção Regional de Habitação, Urbanismo e Ambiente um plano de ordenamento paisagístico e de infra-estruturas de saneamento básico da povoação, o qual será apreciado pela comissão administrativa antes de ser submetido à aprovação superior do Secretário Regional do Equipamento Social.
 
-###### Art. 7.º Serão aprovados por decreto regulamentar regional os sinais indicativos de protecção e as permissões e condicionamentos previstos neste diploma para os quais não existam já modelos previamente estabelecidos.
+Art. 7.º Serão aprovados por decreto regulamentar regional os sinais indicativos de protecção e as permissões e condicionamentos previstos neste diploma para os quais não existam já modelos previamente estabelecidos.
 
-###### Art. 8.º Os encargos com obras de beneficiação e reconstrução do património, construído ou não, existente nos limites do Lugar Classificado da Praia serão suportados pelas verbas adequadas da Secretaria Regional do Equipamento Social.
+Art. 8.º Os encargos com obras de beneficiação e reconstrução do património, construído ou não, existente nos limites do Lugar Classificado da Praia serão suportados pelas verbas adequadas da Secretaria Regional do Equipamento Social.
 
 Aprovado pela Assembleia Regional dos Açores em 27 de Janeiro de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 12 de Maio de 1982.**
+Assinado em Angra do Heroísmo em 12 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/15400/20212022.pdf))](https://files.diariodarepublica.pt/1s/1982/07/15400/20212022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/15400/20212022.pdf)

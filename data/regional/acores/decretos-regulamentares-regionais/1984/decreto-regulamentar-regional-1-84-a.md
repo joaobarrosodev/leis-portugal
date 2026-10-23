@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1984-660174
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79b8bf54c485a007b4885f31b9c7c61102447d4d7e8cad464296a0e4cb0d5a40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faa18c927d33ddce3e0fbea90dd9b0b7541bdf64c97bd6bda234fd7fb995f460
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Autonomia Administrativa
+- Autonomia Financeira
+- Fundos Autónomos
+- Relatório e Contas
 relationships:
 - type: amended_by
   target: pt:dre:180310525:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226660:por
+  label: "Determinada a não aplicação do nº 9º do art. 14º deste diploma às verbas consignadas no Orçamento da Região Autónoma\
+    \ dos Açores a serviços sociais, a todos os serviços com autonomia administrativa e autonomia administrativa e financeira\
+    \ compreendidos no âmbito do Serviço Regional de Saúde e a outros casos que mereçam concordância do Vice-Presidente do\
+    \ Governo Regional, pelo DRR.14/2005/A.06.06.2005.PG-RAA, DR.IS-B [115] de 17.06.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2005-226660
+  date: '2005-06-06'
+- type: amended_by
+  target: pt:dre:180310525:por
+  label: Excluídas as verbas consignadas no Orçamento da Região Autónoma dos Açores a serviços sociais, a todos os serviços
+    com autonomia administrativa ou autonomia administrativa e financeira compreendidos no âmbito do Serviço Regional de Saúde
+    e, bem assim, a outros casos que mereçam a concordância do membro do Governo Regional com competência na área das finanças
+    do âmbito de aplicação do disposto no n.º 9 do art. 4.º do presente diploma pelo(a) Decreto Regulamentar Regional n.º
+    5/2022/A - Diário da República n.º 50/2022, Série I de 2022-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2022-180310525
+  date: '2022-03-11'
+- type: corrected_by
+  target: pt:dre:631588:por
+  label: Rectificado pela DECL.DD2392.1984.03.07.PCM DR.IS [77]2ºSupl. de 31/Mar/1984
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-631588
+  date: '1984-03-07'
+- type: repealed_by
+  target: pt:dre:261118:por
+  label: "Revogados os nºs 1 e 2 do art. 3º pelo DRR.4/2013/A.22.05.2013.PG-RAA, DR.IS [98] de 22.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2013-261118
+  date: '2013-05-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:07Z'
   warnings: []
   errors: []
 ---
@@ -97,23 +129,23 @@ Atendendo a que se torna indispensável melhorar a disciplina financeira dos ref
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - A actividade financeira dos fundos autónomos e dos organismos dotados de autonomia administrativa e financeira, incluindo os institutos públicos, pelo orçamento da Região em mais de 50% fica sujeita ao regime estabelecido no presente diploma, relativamente à movimentação e utilização das suas receitas próprias e de outras fontes de financiamento que, eventualmente, lhes sejam atribuídas no orçamento da Região, à organização e publicação dos seus orçamentos privativos, à prestação e publicidade das contas de gerência e à análise das informações daí resultantes.
+Artigo 1.º - 1 - A actividade financeira dos fundos autónomos e dos organismos dotados de autonomia administrativa e financeira, incluindo os institutos públicos, pelo orçamento da Região em mais de 50% fica sujeita ao regime estabelecido no presente diploma, relativamente à movimentação e utilização das suas receitas próprias e de outras fontes de financiamento que, eventualmente, lhes sejam atribuídas no orçamento da Região, à organização e publicação dos seus orçamentos privativos, à prestação e publicidade das contas de gerência e à análise das informações daí resultantes.
 
 2 - Ficam também sujeitos ao mesmo regime os organismos dotados apenas de autonomia administrativa, na parte em que são obrigados a elaborar orçamentos privativos para aplicação de receitas próprias.
 
 3 - Ficam igualmente abrangidos pelo regime constante deste diploma, mesmo com prejuízo do disposto nas suas leis orgânicas, os organismos de coordenação económica, com excepção dos que, por a sua natureza o justificar, dele forem excluídos através de despacho conjunto dos Secretários Regionais das Finanças e da tutela, mediante proposta dos organismos a excluir e parecer da Direcção Regional do Orçamento e Contabilidade.
 
-###### Art. 2.º - 1 - Todos os fundos e organismos referidos no artigo anterior que apresentem orçamentas privativos com um total de receitas próprias igual ou superior a 10000 contos deverão ser incluídos em «Contas de ordem» do orçamento da Região.
+Art. 2.º - 1 - Todos os fundos e organismos referidos no artigo anterior que apresentem orçamentas privativos com um total de receitas próprias igual ou superior a 10000 contos deverão ser incluídos em «Contas de ordem» do orçamento da Região.
 
 2 - As entidades autónomas não abrangidas no número antecedente e cuja inserção em «Contas de ordem» já tenha sido efectuada manterão o mesmo regime, independentemente do montante das suas receitas próprias.
 
 3 - A inclusão a que se alude no n.º 1 deste artigo começará a ser efectuada com referência ao orçamento da Região para 1984.
 
-###### Art. 3.º - 1 - As receitas próprias das entidades referidas nos n.os 1 e 2 do artigo anterior serão entregues nos cofres da Região e escrituradas em «Contas de ordem» do orçamento da Região, mediante guias passadas pelas mesmas entidades ou por outras legalmente competentes para o efeito.
+Art. 3.º - 1 - As receitas próprias das entidades referidas nos n.os 1 e 2 do artigo anterior serão entregues nos cofres da Região e escrituradas em «Contas de ordem» do orçamento da Região, mediante guias passadas pelas mesmas entidades ou por outras legalmente competentes para o efeito.
 
 2 - Será enviado à Direcção Regional do Orçamento e Contabilidade um exemplar das referidas guias averbado do pagamento.
 
-###### Art. 4.º - 1 - Serão inscritas em «Contas de ordem» do orçamento de despesa dos fundos e organismos autónomos dependentes de cada departamento governamental as verbas correspondentes às receitas próprias que devem entrar nos cofres da Região, nos termos do artigo anterior.
+Art. 4.º - 1 - Serão inscritas em «Contas de ordem» do orçamento de despesa dos fundos e organismos autónomos dependentes de cada departamento governamental as verbas correspondentes às receitas próprias que devem entrar nos cofres da Região, nos termos do artigo anterior.
 
 2 - Para o efeito do número antecedente, os fundos e os organismos abrangidos nos n.os 1 e 2 do artigo 2.º deste diploma incluirão nos projectos de orçamento a remeter à Direcção Regional do Orçamento e Contabilidade, até 31 de Maio de cada ano, os valores meramente globais a inscrever no orçamento do ano seguinte como despesa de «Contas de ordem».
 
@@ -131,21 +163,21 @@ O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constit
 
 9 - Todas as verbas, incluindo as destinadas a «Investimentos do Plano», recebidas directa ou indirectamente do orçamento da Região por «Transferências» e não utilizadas até ao final do período complementar da liquidação das despesas deverão ser repostas nos cofres da Região, mesmo com prejuízo do disposto nas leis orgânicas dos fundos e organismos em causa, até 14 de Fevereiro do ano seguinte àquele a que o orçamento respeita.
 
-###### Art. 5.º As despesas dos fundos e organismos autónomos que, além de disporem de receitas próprias, beneficiem directa ou indirectamente de «Transferências» do orçamento da Região deverão ser cobertas prioritariamente pelas primeiras e só na parte excedente pelas verbas recebidas daquele orçamento.
+Art. 5.º As despesas dos fundos e organismos autónomos que, além de disporem de receitas próprias, beneficiem directa ou indirectamente de «Transferências» do orçamento da Região deverão ser cobertas prioritariamente pelas primeiras e só na parte excedente pelas verbas recebidas daquele orçamento.
 
-###### Art. 6.º O recurso ao crédito pelos fundos e organismos autónomos não poderá ser efectuado, mesmo com prejuízo das suas leis orgânicas, sem prévio parecer favorável do Secretário Regional da tutela e autorização do Secretário Regional das Finanças.
+Art. 6.º O recurso ao crédito pelos fundos e organismos autónomos não poderá ser efectuado, mesmo com prejuízo das suas leis orgânicas, sem prévio parecer favorável do Secretário Regional da tutela e autorização do Secretário Regional das Finanças.
 
-###### Art. 7.º As dotações de despesas referidas no n.º 1 do artigo 4.º, bem como outras que forem atribuídas no orçamento da Região, serão aplicadas, mediante orçamento privativo, nos termos legalmente estabelecidos.
+Art. 7.º As dotações de despesas referidas no n.º 1 do artigo 4.º, bem como outras que forem atribuídas no orçamento da Região, serão aplicadas, mediante orçamento privativo, nos termos legalmente estabelecidos.
 
-###### Art. 8.º As entidades a que se refere o artigo 1.º deverão apresentar as suas contas de gerência à apreciação e julgamento da Secção Regional do Tribunal de Contas, de harmonia com as normas legais aplicáveis, a partir da sua entrada em funcionamento.
+Art. 8.º As entidades a que se refere o artigo 1.º deverão apresentar as suas contas de gerência à apreciação e julgamento da Secção Regional do Tribunal de Contas, de harmonia com as normas legais aplicáveis, a partir da sua entrada em funcionamento.
 
 2 - Só excepcionalmente e mediante justificação por motivos insuperáveis a Secção Regional do Tribunal de Contas poderá relevar as infracções financeiras por realização de despesas para além da verba orçamentada ou pela não elaboração em tempo útil de orçamentos suplementares.
 
-###### Art. 9.º - 1 - Sem prejuízo do disposto no artigo anterior, a Direcção Regional do Orçamento e Contabilidade poderá analisar as contas de gerência e outros documentos de gestão das entidades a que se refere o artigo 1.º do presente diploma.
+Art. 9.º - 1 - Sem prejuízo do disposto no artigo anterior, a Direcção Regional do Orçamento e Contabilidade poderá analisar as contas de gerência e outros documentos de gestão das entidades a que se refere o artigo 1.º do presente diploma.
 
 2 - Para o efeito, os fundos autónomos e os organismos dotados de autonomia administrativa e financeira remeterão àquela Direcção Regional todos os documentos que por ela forem solicitados.
 
-###### Art. 10.º - 1 - Os orçamentos privativos dos fundos e organismos a que se refere o artigo 1.º, depois de aprovados pela entidade competente, deverão ser remetidos, em duplicado, pelos próprios fundos e organismos ou pela entidade referida no n.º 5 deste artigo à Direcção Regional do Orçamento e Contabilidade até ao dia 1 de Agosto do ano anterior a que respeitam.
+Art. 10.º - 1 - Os orçamentos privativos dos fundos e organismos a que se refere o artigo 1.º, depois de aprovados pela entidade competente, deverão ser remetidos, em duplicado, pelos próprios fundos e organismos ou pela entidade referida no n.º 5 deste artigo à Direcção Regional do Orçamento e Contabilidade até ao dia 1 de Agosto do ano anterior a que respeitam.
 
 2 - Os orçamentos referidos no número anterior constarão do orçamento da Região sob a forma de mapas-resumo apensos ao orçamento da respectiva Secretaria Regional, a elaborar por aquela Direcção Regional.
 
@@ -157,11 +189,11 @@ O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constit
 
 6 - Quando for autorizada por despacho a remessa de elementos agregados prevista no número anterior, o visto que recair sobre o documento-síntese deverá considerar-se como abrangendo os orçamentos privativos que estão na sua origem.
 
-###### Art. 11.º - 1 - Os orçamentos suplementares dos diferentes fundos e organismos autónomos abrangidos pelo artigo anterior não poderão ser aprovados depois de 31 de Dezembro do ano a que respeitam, terminando impreterivelmente em 31 de Janeiro do ano seguinte, para efeitos de visto do Secretário Regional das Finanças, o prazo para a sua entrega na Direcção Regional do Orçamento e Contabilidade.
+Art. 11.º - 1 - Os orçamentos suplementares dos diferentes fundos e organismos autónomos abrangidos pelo artigo anterior não poderão ser aprovados depois de 31 de Dezembro do ano a que respeitam, terminando impreterivelmente em 31 de Janeiro do ano seguinte, para efeitos de visto do Secretário Regional das Finanças, o prazo para a sua entrega na Direcção Regional do Orçamento e Contabilidade.
 
 2 - Não serão apresentados a visto do Secretário Regional das Finanças os orçamentos suplementares recebidos em contravenção do disposto no número antecedente, salvo os que tenham sido devolvidos por aquela Direcção Regional para rectificação, os quais, a título excepcional, poderão ser submetidos a visto até 31 de Março do ano imediato àquele a que respeitam.
 
-###### Art. 12.º - 1 - Os fundos e organismos abrangidos pelos n.os 1 e 2 do artigo 2.º do presente diploma deverão elaborar trimestralmente e com referência ao final de cada trimestre, em termos acumulados, mapas da receita arrecadada e da despesa efectuada.
+Art. 12.º - 1 - Os fundos e organismos abrangidos pelos n.os 1 e 2 do artigo 2.º do presente diploma deverão elaborar trimestralmente e com referência ao final de cada trimestre, em termos acumulados, mapas da receita arrecadada e da despesa efectuada.
 
 2 - Os mapas a que se refere o número anterior serão remetidos à Direcção Regional do Orçamento e Contabilidade até ao final do mês seguinte ao trimestre a que respeitam.
 
@@ -169,36 +201,36 @@ O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constit
 
 4 - Quando for da competência de determinada entidade a coordenação da actividade dos fundos e organismos abrangidos pelo presente diploma, poderá essa entidade remeter à Direcção Regional do Orçamento e Contabilidade uma agregação de mapas indicados nos números anteriores, desde que isso seja autorizado por despacho conjunto do Secretário da respectiva tutela e do Secretário Regional das Finanças, mediante proposta daquela Direcção Regional, ouvidas as entidades interessadas.
 
-###### Art. 13.º A remessa à Direcção Regional do Orçamento e Contabilidade dos mapas trimestrais referidos no artigo anterior deverá começar a ser efectuada com referência ao 2.º trimestre de 1983.
+Art. 13.º A remessa à Direcção Regional do Orçamento e Contabilidade dos mapas trimestrais referidos no artigo anterior deverá começar a ser efectuada com referência ao 2.º trimestre de 1983.
 
-###### Art. 14.º Os fundos e organismos autónomos referidos no artigo 1.º que, de harmonia com as respectivas leis orgânicas, prestam contas a entidades próprias dos departamentos a que pertencem deverão, independentemente desse facto, dar cumprimento ao estabelecido no presente diploma, designadamente ao n.º 4 do artigo 10.º
+Art. 14.º Os fundos e organismos autónomos referidos no artigo 1.º que, de harmonia com as respectivas leis orgânicas, prestam contas a entidades próprias dos departamentos a que pertencem deverão, independentemente desse facto, dar cumprimento ao estabelecido no presente diploma, designadamente ao n.º 4 do artigo 10.º
 
-###### Art. 15.º - 1 - As delegações da Direcção Regional do Orçamento e Contabilidade não autorizarão as requisições para levantamento de fundos dos cofres da Região respeitantes aos fundos e organismos abrangidos pelo presente diploma enquanto estes não justificarem o cumprimento de todas as disposições nele estabelecidas.
+Art. 15.º - 1 - As delegações da Direcção Regional do Orçamento e Contabilidade não autorizarão as requisições para levantamento de fundos dos cofres da Região respeitantes aos fundos e organismos abrangidos pelo presente diploma enquanto estes não justificarem o cumprimento de todas as disposições nele estabelecidas.
 
 2 - A justificação prevista no número anterior será feita através da apresentação às respectivas delegações da cópia dos documentos de remessa a que este diploma obriga.
 
 3 - Os dirigentes e responsáveis pelos órgãos de fiscalização dos fundos e organismos abrangidos pelo presente diploma serão solidariamente responsáveis pela inobservância de todas as obrigações nele estabelecidas, designadamente pelo incumprimento dos respectivos prazos, sem prejuízo da efectivação da responsabilidade que resultar da apreciação e julgamento das contas pela Secção Regional do Tribunal de Contas e da responsabilidade disciplinar a que possa legalmente haver lugar.
 
-###### Art. 16.º - 1 - Todos os fundos e organismos referidos no n.º 1 do artigo 1.º deverão remeter à Secretaria Regional das Finanças, até 60 dias após a entrada em vigor do presente diploma, uma nota contendo uma síntese das razões justificativas da manutenção da respectiva autonomia financeira, a fim de ser reapreciada a manutenção do correspondente regime de autonomia.
+Art. 16.º - 1 - Todos os fundos e organismos referidos no n.º 1 do artigo 1.º deverão remeter à Secretaria Regional das Finanças, até 60 dias após a entrada em vigor do presente diploma, uma nota contendo uma síntese das razões justificativas da manutenção da respectiva autonomia financeira, a fim de ser reapreciada a manutenção do correspondente regime de autonomia.
 
 2 - O não cumprimento do disposto no número anterior dentro do prazo aí estabelecido implicará a aplicação das sanções gerais previstas no presente diploma, designadamente a não autorização pelas delegações da Direcção Regional do Orçamento e Contabilidade das requisições para levantamento de fundos dos cofres da Região.
 
-###### Art. 17.º - 1 - Quando os fundos e organismos abrangidos pelo presente diploma pretendam contrair empréstimos cujos encargos sejam total ou parcialmente suportados por verbas inscritas no orçamento da Região ou nos seus orçamentos privativos e pretendam confirmar perante as entidades mutuantes a inscrição e a evolução daquelas verbas, poderão os fundos e organismos interessados e as próprias entidades mutuantes solicitar à Direcção Regional do Orçamento e Contabilidade a referida confirmação.
+Art. 17.º - 1 - Quando os fundos e organismos abrangidos pelo presente diploma pretendam contrair empréstimos cujos encargos sejam total ou parcialmente suportados por verbas inscritas no orçamento da Região ou nos seus orçamentos privativos e pretendam confirmar perante as entidades mutuantes a inscrição e a evolução daquelas verbas, poderão os fundos e organismos interessados e as próprias entidades mutuantes solicitar à Direcção Regional do Orçamento e Contabilidade a referida confirmação.
 
 2 - Para o efeito do disposto no número anterior, todos os fundos e organismos prestarão regularmente à Direcção Regional do Orçamento e Contabilidade as informações relativas à evolução da sua dívida, mesmo que a eles não pretendam recorrer.
 
-###### Art. 18.º - 1 - As normas gerais vigentes sobre a admissão e excedentes de pessoal da função pública aplicam-se a todas as entidades referidas no artigo 1.º
+Art. 18.º - 1 - As normas gerais vigentes sobre a admissão e excedentes de pessoal da função pública aplicam-se a todas as entidades referidas no artigo 1.º
 
 2 - Os actos jurídicos que forem praticados sem observância das normas referidas no número anterior são nulos, ficando os funcionários e agentes que autorizarem, informarem favoravelmente ou omitirem informação relativamente à admissão ou permanência de pessoal em contravenção daquelas normas responsáveis solidariamente pela reposição das quantias indevidamente pagas, para além da responsabilidade civil e disciplinar que ao caso couber.
 
-###### Art. 19.º As dúvidas que surgirem na aplicação deste decreto regulamentar regional serão resolvidas por despacho do Secretário Regional das Finanças.
+Art. 19.º As dúvidas que surgirem na aplicação deste decreto regulamentar regional serão resolvidas por despacho do Secretário Regional das Finanças.
 
 Aprovado em Conselho do Governo Regional em 9 de Novembro de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em 12 de Dezembro de 1983.**
+Assinado em 12 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2014/02/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2014-572575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dc6d7c92f37642865162a9a4275b9d6acaf9d04d3756daa2526df24ef9e390f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bf8a2c55e6f7a868171137b51cc12a8635be612ea30659c006c2c9fb633bc15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Açores
+- Conselho Consultivo
 - Conselho Consultivo para os Assuntos da Imigração
 - Criação de Serviços
 - Definição de Competências
-- Presidência do Governo Regional
-- Conselho Consultivo
+- Imigração
 - Inserção Social
-- Açores
+- Presidência do Governo Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/10/2009/07/28/a/dre
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/30/2002/11/22/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/30/2002/11/22/a/dre
+- type: cites
+  target: pt:dre:191142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492759:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:13Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +149,9 @@ Objetivos
 
 É criado, no âmbito do departamento governamental com competência em matéria de imigração, o Conselho Consultivo Regional para os Assuntos da Imigração, com o objetivo de assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais, das instituições de solidariedade social e de outras organizações que prestem apoio social e cultural aos imigrantes na definição e coordenação das políticas de integração social e de combate à exclusão.
 
-###### Artigo 2.º — Competências
+Artigo 2.º
+
+Competências
 
 Ao Conselho Consultivo Regional para os Assuntos da Imigração, adiante designado por Conselho Consultivo, compete:
 
@@ -147,7 +169,9 @@ f) Participar na defesa dos direitos dos imigrantes, com respeito pela sua ident
 
 g) Exercer outras competências que lhe sejam atribuídas por lei.
 
-###### Artigo 3.º — Composição
+Artigo 3.º
+
+Composição
 
 1 - O Conselho Consultivo é presidido pelo membro do Governo Regional com competência em matéria de imigração, que será substituído, nas suas ausências e impedimentos, pelo diretor regional com competência na mesma matéria.
 
@@ -199,7 +223,9 @@ u) (revogado).
 
 4 - O mandato dos membros do Conselho Consultivo é exercido gratuitamente, não dando direito à perceção de senhas de presença.
 
-###### Artigo 4.º — Reuniões
+Artigo 4.º
+
+Reuniões
 
 1 - O Conselho Consultivo reúne ordinariamente a cada seis meses e extraordinariamente quando convocado pelo seu presidente.
 
@@ -207,7 +233,9 @@ u) (revogado).
 
 3 - Podem participar nas reuniões do Conselho Consultivo, por solicitação do seu presidente, representantes e técnicos de departamentos e serviços do Governo Regional ou de outras entidades públicas ou privadas, bem como cidadãos cuja audição ou contributo sejam considerados relevantes para a atividade do Conselho Consultivo.
 
-###### Artigo 5.º — Apoio ao funcionamento do Conselho Consultivo
+Artigo 5.º
+
+Apoio ao funcionamento do Conselho Consultivo
 
 Compete aos serviços da direção regional com competência em matéria de imigração prestar o apoio técnico e administrativo necessário ao funcionamento do Conselho Consultivo.»
 
@@ -221,11 +249,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em Ponta Delgada, em 7 de janeiro de 2014.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo, em 29 de janeiro de 2014.**
+Assinado em Angra do Heroísmo, em 29 de janeiro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

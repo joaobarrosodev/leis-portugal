@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/5/2017/02/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/5-2017-106522769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc04b4732c2133fa211774d332e075054ea2ac17a2ff7e7420bf803e1f0a8500
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2734618d9bf7731a8a679277229b0391d877479b086b368e1600658609f90498
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
 - Assembleia Legislativa Regional
 - Orçamento
 - Orçamento Regional
-- Açores
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/3/2009/03/06/a/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/54/2006/12/22/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/54/2006/12/22/a/dre
+- type: cites
+  target: pt:dre:175791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604800:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:33Z'
   warnings: []
   errors: []
 ---
@@ -105,38 +117,38 @@ A Assembleia Legislativa da Região Autónoma dos Açores, nos termos do n.º 2 
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de fevereiro de 2017.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
 
 ORÇAMENTO PARA O ANO DE 2017
 
 DEPARTAMENTO: 01 - ASSEMBLEIA LEGISLATIVA DA REGIÃO AUTÓNOMA DOS AÇORES
 
-### CAPÍTULO:01
+CAPÍTULO:01
 
-##### DIVISÃO: 01
+DIVISÃO: 01
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
 
 ENCARGOS COM REMUNERAÇÕES CERTAS AO PESSOAL
 
 01.01.01 a) - Deputados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
 
 01.01.03 - Pessoal dos quadros - Regime de função pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
 
 01.01.04 - Pessoal dos quadros - Regime de contrato individual de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
 
 01.01.09 - Pessoal em qualquer outra situação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
 
 01.01.11 - Representação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf))](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/02/04100/0109301104.pdf)

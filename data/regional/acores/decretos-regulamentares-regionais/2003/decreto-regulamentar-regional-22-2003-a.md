@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/122b00/32673269.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/2003/05/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2003-545184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7eb4e4ef524ad21d2758513fa03c86716975a134d9a3a50b97df1ef3e2670f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1a84b68033788aa5a37f70800d74c2e0f342e11a395158dc04ebd69f85e6e52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Desenvolvimento Regional
+- Açores
 - Apoio ao Investimento
+- Desenvolvimento Regional
+- Financiamento
+- Infraestrutura Turística
 - Projeto de Investimento
 - Qualificação Profissional
 - Sider
-- Açores
 - Sidet
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:636761:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527199:por
+  label: "Alterado o anexo I do DRR 4/2001/A, de 06-Jun, na redac&#231;&#227;o do presente diploma, pelo DRR.27/2004/A.16.06.2004.PG-RAA,\
+    \ DR.IS-B [165] de 15.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2004-527199
+  date: '2004-06-16'
+- type: amended_by
+  target: pt:dre:489539:por
+  label: Alterados os anexos I e III do DRR 4/2001/A de 06-Jun, na redacção do presente diploma, pelo DRR.25/2005/A.16.11.2005.PG-RAA,
+    DR.IS-B [233] de 06.12.2005
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2005-489539
+  date: '2005-11-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/205/1996/10/25/p/dre
   label: null
@@ -109,16 +121,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/4/2001/06/06/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/4/2001/06/06/a/dre
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634147:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636761:por
+  label: "Revogado a partir de 24.07.2007 pelo DLR.19/2007/A.23.07.2007.AL-RAA, DR.IS [140] de 23.07.2007, sem prejuízo do\
+    \ disposto no nº 1 do art. 38º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2007-636761
+  date: '2007-07-23'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:43Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +207,9 @@ f) ...
 
 g) 'Habilitação adequada' a condição atribuída aos titulares de grau académico de ensino superior, de carteiras profissionais emitidas ao abrigo do [Decreto-Lei n.º 358/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1984-400813), de 13 de Novembro, de certificados de aptidão profissional obtidos por qualquer das vias estabelecidas no [Decreto-Lei n.º 95/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1992-523412), de 23 de Maio, de certificados de cursos de aprendizagem emitidos nos termos do [Decreto-Lei n.º 205/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1996-226416), de 25 de Outubro, de certificados dos cursos técnico-profissionais no âmbito de ensino não superior, designadamente os ministrados pelas escolas profissionais nos termos do [Decreto-Lei n.º 4/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1998-224851), de 8 de Janeiro, diploma adaptado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 30/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2000-340616), de 11 de Agosto, ou os detentores da necessária credenciação para o exercício da actividade, desde que tais activos exerçam efectivamente funções nos empreendimentos candidatados ao SIDET.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1.º
 
@@ -195,7 +247,9 @@ Entre 50% e 75% = 50;
 
 Superior a 75% = 100.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1.º
 
@@ -227,10 +281,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, Madalena, Pico, em 3 de Abril de 2003.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 30 de Abril de 2003.**
+Assinado em Angra do Heroísmo em 30 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

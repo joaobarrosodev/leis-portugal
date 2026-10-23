@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/03/067a00/13891389.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/1992/03/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1992-176769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20d6e6c9b29d2bd76723a0b18d5ed2f2b7359b386c4c7510444d4ed29799edb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fca62a0722e11c70f1cead33f4c19437bc88f5eb0ceea83fcc6b1030cdb971dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção de Formação
+- Açores
 - Destacamento de Pessoal
 - Dirigente Associativo
+- Funcionário Público
 - Jovem
 - Requisição de Pessoal
 - Secretário Regional da Juventude e Recursos Humanos
-- Funcionário Público
-- Açores
 - Trabalhador por Conta de Outrem
 - VIDA Associativa
 relationships:
@@ -80,16 +80,21 @@ relationships:
   target: pt:dre:489488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DLR 9/95/A DE 05-JUL DR.IS-A [168] DE 22/JUL/1995\0/1995"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:18Z'
   warnings: []
   errors: []
 ---
@@ -108,24 +113,24 @@ Considerando a necessidade da criação de legislação que permita contornar os
 
 A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º Os trabalhadores, a qualquer título, vinculados ao Estado, às autarquias locais ou outras pessoas colectivas de direito público, sob proposta fundamentada das associações juvenis, podem ser requisitados pelo Secretário Regional da Juventude e Recursos Humanos pelos seguintes períodos:
+Artigo 1.º Os trabalhadores, a qualquer título, vinculados ao Estado, às autarquias locais ou outras pessoas colectivas de direito público, sob proposta fundamentada das associações juvenis, podem ser requisitados pelo Secretário Regional da Juventude e Recursos Humanos pelos seguintes períodos:
 
 a) Não superiores a 15 dias por ano, seguidos ou interpolados, a fim de participarem como formandos ou monitores em acções de formação;
 
 b) Não superiores a 30 dias por ano, seguidos ou interpolados, a fim de participarem em actividades associativas de interesse público, considerando-se como tal os assim declarados pelos Secretários Regionais da Administração Interna e da Juventude e Recursos Humanos.
 
-###### Art. 2.º - 1 - Os trabalhadores por conta de outrem do sector privado, público ou das empresas públicas podem, sob proposta fundamentada das associações juvenis, ser requisitados pelo Secretário Regional da Juventude e Recursos Humanos pelos períodos estabelecidos no artigo 1.º, constituindo o pagamento das suas remunerações encargo da Direcção Regional da Juventude.
+Art. 2.º - 1 - Os trabalhadores por conta de outrem do sector privado, público ou das empresas públicas podem, sob proposta fundamentada das associações juvenis, ser requisitados pelo Secretário Regional da Juventude e Recursos Humanos pelos períodos estabelecidos no artigo 1.º, constituindo o pagamento das suas remunerações encargo da Direcção Regional da Juventude.
 
 2 - Da requisição não poderá resultar qualquer prejuízo para o trabalhador.
 
-###### Art. 3.º O destacamento e a requisição dependem da anuência da entidade empregadora e do trabalhador, podendo cessar a todo o tempo, designadamente em resultado do incumprimento do trabalhador do regime a que esteja sujeita a participação nos cursos referidos ou em quaisquer actividades associativas.
+Art. 3.º O destacamento e a requisição dependem da anuência da entidade empregadora e do trabalhador, podendo cessar a todo o tempo, designadamente em resultado do incumprimento do trabalhador do regime a que esteja sujeita a participação nos cursos referidos ou em quaisquer actividades associativas.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 30 de Janeiro de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 24 de Fevereiro de 1992.**
+Assinado em Angra do Heroísmo em 24 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

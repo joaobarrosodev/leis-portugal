@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/1998/04/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1998-176034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 327f5a532cf3bf22ec6f2618e3d2cde27e4cc43d3ad48e7a9bc76461fa5393ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d33b931909fcf2a516dadabd75c800b8c62a086bcd6b9883b3f92a46308ca551
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Docente
 - Ensino Básico
 - Madeira.região Autónoma
+- Pessoal Docente
 - Quadro de Pessoal
 - ZONA Pedagógica
 relationships:
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:55021038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632385:por
+  label: "Alterados os arts. 5º e 6º do DLR 2/94/M de 22-Fev, na redacção dada pelo presente diploma, pelo DLR.14-A/2001/M.2001.05.24.ALR-RAM,DR.IS-A\
+    \ [123]3º Supl de 28/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-a-2001-632385
+  date: '2001-05-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
@@ -91,16 +97,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676429:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669864:por
+  label: "Revogado o DLR 2/94/M de 22-Fev, com excepção do seu art. 1º, na redacção deste diploma, pelo DLR.17/2003/M.2003.06.30.ALR-RAM\
+    \ DR.IS-A [167] de 22/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2003-669864
+  date: '2003-06-30'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:33Z'
   warnings: []
   errors: []
 ---
@@ -147,20 +179,20 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 4 de Março de 1998.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 2 de Abril de 1998.**
+Assinado em 2 de Abril de 1998.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ANEXOS
 
 Mapa I a que se refere o artigo 1.º
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18111813.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18111813.pdf)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18111813.pdf)
 
 Mapa II a que se refere o artigo 3.º
 
 Zona pedagógica C
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18111813.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18111813.pdf)](https://files.diariodarepublica.pt/1s/1998/04/095a00/18111813.pdf)

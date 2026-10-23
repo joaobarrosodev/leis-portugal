@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/08/15200/0422304226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2011/08/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2011-669849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64833b11e17cebcc24c7c7a790532fa72468864cc3d95e8c0b207c286dffc702
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf732c0df3af39a95099544d3c2a4f859c2dd42bd38bbecf9f4dfba68b60e0ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,33 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
-- Património
+- Conselho Consultivo
 - Conselho Pedagógico
 - Criação de Serviços
 - Definição de Competências
 - Diretor
-- Escola Profissional
-- Estudante
-- Secretaria Regional da Educação e Cultura
-- Conselho Consultivo
 - Ensino Secundário
+- Escola Profissional
 - Estabelecimento de Ensino
+- Estudante
 - Madeira.região Autónoma
+- Património
 - Recursos Humanos
 - Regime de Pessoal
 - Regime Jurídico
+- Secretaria Regional da Educação e Cultura
 - Secretário Regional da Educação e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:73462829:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400995:por
+  label: "Alterados a designação da “Escola Profissional de São Martinho” bem como os arts. 7º e 9º pelo DLR.41-A/2012/M.28.12.2012.AL-RAM,\
+    \ DR.IS [251-Supl] de 28.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/41-a-2012-400995
+  date: '2012-12-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
   label: null
@@ -104,16 +110,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:73462829:por
+  label: Revogado, a partir de 09.02.2016 e com efeitos a 01.01.2016, o presente diploma, na redação do DLR 41-A/2012/M de
+    28-dez, reestruturada a Escola Profissional Dr. Francisco Fernandes por aquele criada, e transferidas as competências,
+    direitos e obrigações da referida Escola para o Instituto para a Qualificação, IP-RAM, pelo(a) Decreto Legislativo Regional
+    n.º 6/2016/M - Diário da República n.º 26/2016, Série I de 2016-02-08, sem prejuízo do disposto no n.º 4 do art. 23.º
+    deste e nos termos dos seus arts. 22.º e 24.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2016-73462829
+  date: '2016-02-08'
 article_structure:
   article_count: 21
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:22Z'
   warnings: []
   errors: []
 ---
@@ -474,8 +505,8 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Julho de 2011.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 1 de Agosto de 2011.**
+Assinado em 1 de Agosto de 2011.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

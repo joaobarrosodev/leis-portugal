@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/23800/27722773.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/47-1981-561857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed829809765e38bc13fda29aedc4fde64c7bcc703b6eb03617bb2c2c36833f66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98905bccc7f5d2542b1a1e76421ab1fb5d21aace21f478a4fa6194f1e161beca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Carreira Profissional
+- Guarda Florestal
 relationships:
 - type: amended_by
   target: pt:dre:497471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:393074:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:497471:por
+  label: Revogado o presente diploma e legislação complementar, pelo(a) Decreto Regulamentar Regional n.º 30/87/A - Diário
+    da República n.º 254/1987, Série I de 1987-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-1987-497471
+  date: '1987-11-04'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:32Z'
   warnings: []
   errors: []
 ---
@@ -100,28 +113,28 @@ As considerações acima enunciadas demonstram as especificidades que na Região
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1. Os guardas e mestres florestais da Região Autónoma dos Açores passam a ter as letras de vencimento constantes do mapa anexo ao presente diploma.
+Artigo 1. Os guardas e mestres florestais da Região Autónoma dos Açores passam a ter as letras de vencimento constantes do mapa anexo ao presente diploma.
 
-###### Art. 2.º O ingresso na categoria de guarda florestal far-se-á de entre trabalhadores e serventes florestais que reúnam os requisitos legais e gerais exigidos para o efeito e que tenham obtido aproveitamento em concursos de provas práticas, a efectuar após um estágio de três meses.
+Art. 2.º O ingresso na categoria de guarda florestal far-se-á de entre trabalhadores e serventes florestais que reúnam os requisitos legais e gerais exigidos para o efeito e que tenham obtido aproveitamento em concursos de provas práticas, a efectuar após um estágio de três meses.
 
-###### Art. 3.º O acesso às categorias de guardas florestais principais, mestres florestais e mestres florestais principais será feito mediante concurso de provas práticas de entre, respectivamente, guardas florestais, guardas florestais principais e mestres florestais, com, pelo menos, 3 anos de bom e efectivo serviço na correspondente categoria.
+Art. 3.º O acesso às categorias de guardas florestais principais, mestres florestais e mestres florestais principais será feito mediante concurso de provas práticas de entre, respectivamente, guardas florestais, guardas florestais principais e mestres florestais, com, pelo menos, 3 anos de bom e efectivo serviço na correspondente categoria.
 
-###### Art. 4.º Os concursos referidos nos artigos 2.º e 3.º do presente diploma serão regulamentados por portaria conjunta dos Secretários Regionais da Agricultura e Pescas e da Administração Pública.
+Art. 4.º Os concursos referidos nos artigos 2.º e 3.º do presente diploma serão regulamentados por portaria conjunta dos Secretários Regionais da Agricultura e Pescas e da Administração Pública.
 
-###### Art. 5.º Fica revogado o artigo 9.º do [Decreto Regulamentar Regional n.º 1/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1979-393074), de 6 de Fevereiro.
+Art. 5.º Fica revogado o artigo 9.º do [Decreto Regulamentar Regional n.º 1/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1979-393074), de 6 de Fevereiro.
 
 Aprovado pelo Governo Regional em 27 de Agosto de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 21 de Setembro de 1981.**
+Assinado em Angra do Heroísmo em 21 de Setembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Tomás George Conceição Silva.**
+O Ministro da República, Tomás George Conceição Silva.
 
 Mapa a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/10/23800/27722773.pdf))](https://files.diariodarepublica.pt/1s/1981/10/23800/27722773.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/10/23800/27722773.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

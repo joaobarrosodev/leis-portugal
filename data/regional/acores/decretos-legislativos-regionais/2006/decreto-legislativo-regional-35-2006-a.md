@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/35/2006/09/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2006-539978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcb94bc88b49d8c8e9c0416791a73014fab399c6428536e5f1e0675f6285937e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa7c15421f848a28c1c798d801ce964130725d93f7eaf78c00bd7275e40e5c1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Conselho Executivo
 - Definição de Competências
 - Estabelecimento de Ensino
+- Gratificação
 - Pessoal Docente
 - Regime Jurídico
-- Gratificação
-- Açores
 - Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:72909748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613402:por
+  label: "Alterados os arts. 74º, 91º, 106º e 139º do DLR 12/2005/A de 16-Jun, com a redacção e republicação constantes do\
+    \ presente diploma, pelo DLR.17/2010/A.13.04.2010.AL-RAA, DR.IS [71] de 13.04.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2010-613402
+  date: '2010-04-13'
+- type: amended_by
+  target: pt:dre:499551:por
+  label: "Dada nova redação aos arts. 55º, 63º, que renumera para art. 68º, 74º, que renumera para art. 62º, e ao art. 139º\
+    \ todos do regime de criação, autonomia e gestão das unidades orgânicas do sistema educativo regional aprovado pelo DLR\
+    \ 12/2005/A de 16 de jun, alterado pelo presente diploma pelo DLR.13/2013/A.30.08.2013.ALR-RAA, DR.IS [167] de 30.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2013-499551
+  date: '2013-08-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115-a/1998/05/04/p/dre
   label: null
@@ -119,16 +133,120 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/92/2001/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/92/2001/08/20/p/dre
+- type: cites
+  target: pt:dre:144996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 156
+  article_count: 149
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:25Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +275,9 @@ Incompatibilidades
 
 2 - ...
 
-###### Artigo 55.º — Competências
+Artigo 55.º
+
+Competências
 
 1 - ...
 
@@ -203,7 +323,9 @@ q) ...
 
 6 - ...
 
-###### Artigo 58.º — Eleições
+Artigo 58.º
+
+Eleições
 
 1 - ...
 
@@ -215,7 +337,9 @@ q) ...
 
 5 - Sem prejuízo do que vier a ser estabelecido no regulamento interno, na ausência de lista candidata de pessoal docente, não docente ou de alunos, os representantes na assembleia são eleitos em assembleias eleitorais distintas, convocadas para o efeito.
 
-###### Artigo 63.º — Competências
+Artigo 63.º
+
+Competências
 
 1 - ...
 
@@ -257,7 +381,9 @@ o) ...
 
 4 - O regimento do conselho executivo fixa a distribuição de funções a cada um dos seus membros, as competências que lhes sejam delegadas e as áreas de intervenção e competências dos assessores técnico-pedagógicos.
 
-###### Artigo 74.º — Composição
+Artigo 74.º
+
+Composição
 
 1 - ...
 
@@ -285,7 +411,9 @@ g) [Anterior alínea f).]
 
 6 - ...
 
-###### Artigo 91.º — Professor tutor
+Artigo 91.º
+
+Professor tutor
 
 1 - ...
 
@@ -309,7 +437,9 @@ e) ...
 
 6 - ...
 
-###### Artigo 106.º — Criação e âmbito
+Artigo 106.º
+
+Criação e âmbito
 
 1 - ...
 
@@ -331,7 +461,9 @@ b) ...
 
 8 - A gratificação a que se refere o número anterior apenas é devida quando o clube escolar na última semana de Janeiro tenha pelo menos 20 alunos inscritos e com participação efectiva nas actividades semanais a desenvolver, cessando no mês imediato àquele em que o número médio semanal desça abaixo dos 15 participantes.
 
-###### Artigo 139.º — Condições de exercício de funções
+Artigo 139.º
+
+Condições de exercício de funções
 
 1 - Sem prejuízo do disposto no presente diploma, o regulamento interno fixa o número de horas de serviço semanal a atribuir a cada cargo de coordenação existente na unidade orgânica.
 
@@ -373,11 +505,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 29 de Junho de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 21 de Julho de 2006.**
+Assinado em Angra do Heroísmo em 21 de Julho de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

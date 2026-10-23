@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2005/02/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2005-603269
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94a19cfe63642440f341e10d718505ada4a1b412efc5e4767f69bc2d7fc8606a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7feca159a06f73e4548b7d3a15f9b41c42b2ff96cdf925766a5c981c2e3a4bde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ILHA de são Miguel
-- Ordenamento do Território
-- Lagoa das Sete Cidades
-- Proteção do Ambiente
-- Bacia Hidrográfica
-- Zona de Proteção
-- Política de Solos
-- Regulamento
 - Açores
+- Bacia Hidrográfica
+- ILHA de são Miguel
+- Lagoa das Sete Cidades
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
+- Regulamento
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:121987032:por
@@ -107,16 +107,77 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/26/1997/01/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/26/1997/01/08/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692984:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:121987032:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 4/2019/A - Diário da República n.º 67/2019, Série I de 2019-04-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2019-121987032
+  date: '2019-04-04'
 article_structure:
   article_count: 54
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:07Z'
   warnings: []
   errors: []
 ---
@@ -233,19 +294,19 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 30 de Setembro de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 24 de Janeiro de 2005.**
+Assinado em Angra do Heroísmo em 24 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Classificação da lagoa das Sete Cidades - Zona reservada
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)
+[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)
 
 ## ANEXO II — (a que se refere o n.º 4 do artigo 1.º)
 
@@ -943,10 +1004,10 @@ Aos embargos e demolições a que houver lugar no âmbito de aplicação do regi
 
 Planta de síntese
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)
+[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)
 
 ## ANEXO V — (a que se refere o n.º 2 do artigo 2.º)
 
 Planta de condicionantes
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)
+[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)](https://files.diariodarepublica.pt/1s/2005/02/033b00/11691179.pdf)

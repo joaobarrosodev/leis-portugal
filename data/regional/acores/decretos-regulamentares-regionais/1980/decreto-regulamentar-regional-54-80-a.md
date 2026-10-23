@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,120 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/54-1980-458231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d5c593e072f338b930754b03d0018725ba765f0123025d910a97c944d019b5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b68fdbeba2f141280eeef57c36f289e8a202a709b6f8930c9779b05a6ccf6796
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Horta
+- Museu
+- Museu Carlos Machado
+- Ponta Delgada
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:168043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614640:por
+  label: "Alterado o artigo 22.º pelo DRR.11/89/A.31.03.1989.GR-RAA, DR.IS [75] de 31.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1989-614640
+  date: '1989-03-31'
+- type: amended_by
+  target: pt:dre:673384:por
+  label: "Alterados os artigos 14.º, 15.º, 22.º (o último na redacção do Decreto Regulamentar Regional n.º 11/89/A, de 31\
+    \ de Março) e revogados os artigos 17.º, 18.º e 19.º, pelo DRR.20/91/A.11.07.1991.GR-RAA, DR.IS-B [157] de 11.07.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1991-673384
+  date: '1991-07-11'
+- type: amended_by
+  target: pt:dre:316888:por
+  label: "Alterado o artigo 23.º e o quadro de pessoal do Museu de Angra do Heroísmo aprovado no presente diploma, pelo DRR.36/91/A.18.11.1991.GR-RAA,\
+    \ DR.IS-B [265] de 18.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-1991-316888
+  date: '1991-11-18'
+- type: amended_by
+  target: pt:dre:168043:por
+  label: "Extinto o Centro de Estudos de Conservação e Restauro criado pelo presente diploma e determinado que o seu património\
+    \ seja integrado na Direcção Regional da Cultura pelo DRR.3/2006/A.19.12.2005.PG-RAA, DR.IS-B [7] de 10.01.2006 nos termos\
+    \ dos seus nºs 2 e 3 do art. 2.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2006-168043
+  date: '2005-12-19'
+- type: cites
+  target: pt:dre:277307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367605:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:306946:por
+  label: "Revogado, com excepção do n.º 2 do artigo 18.º, do capítulo IV e do artigo 24.º, pelo DRR.40/91/A.25.11.1991.GR-RAA,\
+    \ DR.IS-B [271] de 25.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/40-1991-306946
+  date: '1991-11-25'
+- type: repealed_by
+  target: pt:dre:371378:por
+  label: "Revogado o n.º 2 do artigo 18.º, o capítulo IV , o artigo 24.º e o mapa IV anexo ao presenbte diploma, pelo DRR.41/91/A.18.12.1991.GR-RAA,\
+    \ DR.IS-B [291] de 18.12.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/41-1991-371378
+  date: '1991-12-18'
+- type: repealed_by
+  target: pt:dre:584457:por
+  label: "Revogado pelo DRR.36/2000/A.2000.11.10.SREAS-RAA DR.IS-B [282] DE 07/DEZ/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2000-584457
+  date: '2000-11-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:17Z'
   warnings: []
   errors: []
 ---
@@ -101,17 +181,17 @@ Assim, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - Os museus da Região Autónoma dos Açores aos quais se aplicam as disposições do presente diploma são o Museu de Angra do Heroísmo, o Museu de Carlos Machado, de Ponta Delgada, e o Museu da Horta.
+Artigo 1.º - 1 - Os museus da Região Autónoma dos Açores aos quais se aplicam as disposições do presente diploma são o Museu de Angra do Heroísmo, o Museu de Carlos Machado, de Ponta Delgada, e o Museu da Horta.
 
 2 - Os museus referidos no número anterior têm funções museográficas de carácter genérico, sem prejuízo do desenvolvimento preferencial de algumas secções para que se mostrem especialmente vocacionados.
 
 3 - Os restantes museus, de carácter monográfico, etnográfico ou de ilha, serão objecto de regulamentação própria.
 
-###### Art. 2.º - 1 - Os museus são instituições permanentes, abertas ao público, que têm por objectivo recolher, conservar e expor os testemunhos materiais do homem e do seu meio ambiente, para fins de estudo, educação e recreio.
+Art. 2.º - 1 - Os museus são instituições permanentes, abertas ao público, que têm por objectivo recolher, conservar e expor os testemunhos materiais do homem e do seu meio ambiente, para fins de estudo, educação e recreio.
 
 2 - Para a realização dos seus fins, cabe aos museus desenvolver acções nos domínios da museografia, da investigação e da acção cultural.
 
-###### Art. 3.º - 1 - Compete aos museus, no domínio da museografia:
+Art. 3.º - 1 - Compete aos museus, no domínio da museografia:
 
 a) Conservar as espécies que formam o seu património ou se encontram à sua guarda;
 
@@ -141,7 +221,7 @@ c) Promover a divulgação das espécies, por meios gráficos e áudio-visuais, 
 
 d) Promover acções de sensibilização do público para a protecção e valorização do património cultural da Região.
 
-###### Art. 4.º - 1 - A aquisição e recolha de espécies nos museus deverá fazer-se sem provocar o empobrecimento sistemático do património local e, em especial, de cada uma das ilhas, só devendo deslocar-se de forma permanente as espécies cuja guarda ou conservação o exijam, evitando-se particularmente o desenraizamento das espécies de valor histórico ou de longa tradição local, às quais, de preferência, deverão criar-se condições de guarda, conservação e exposição que as valorizem no seu enquadramento próprio.
+Art. 4.º - 1 - A aquisição e recolha de espécies nos museus deverá fazer-se sem provocar o empobrecimento sistemático do património local e, em especial, de cada uma das ilhas, só devendo deslocar-se de forma permanente as espécies cuja guarda ou conservação o exijam, evitando-se particularmente o desenraizamento das espécies de valor histórico ou de longa tradição local, às quais, de preferência, deverão criar-se condições de guarda, conservação e exposição que as valorizem no seu enquadramento próprio.
 
 2 - Sem prejuízo do disposto no número anterior e garantidas todas as condições de segurança, deverão as entidades à guarda das quais se encontrem espécies inventariadas ou classificadas facilitar a sua deslocação temporária para fins de investigação, conservação ou exposição.
 
@@ -149,15 +229,15 @@ d) Promover acções de sensibilização do público para a protecção e valori
 
 ### CAPÍTULO II — Organização e funcionamento
 
-###### Art. 5.º - 1 - A organização interna de cada um dos museus será determinada pelo regulamento aprovado por portaria do Secretário Regional da Educação e Cultura.
+Art. 5.º - 1 - A organização interna de cada um dos museus será determinada pelo regulamento aprovado por portaria do Secretário Regional da Educação e Cultura.
 
 2 - Os museus poderão ter serviços de apoio instrumental nos domínios administrativo, de documentação e informação técnica, de tratamento das espécies e de apoio à acção cultural, em função da sua dimensão e da natureza das unidades museográficas a estruturar.
 
 3 - Por despacho do Secretário Regional da Educação e Cultura, poderão funcionar como anexo dos museus, em termos a definir para cada caso, secções, oficinas ou outras instituições afins.
 
-###### Art. 6.º Os museus são serviços dependentes da Secretaria Regional da Educação e Cultura, sob a superintendência técnica, administrativa e financeira das respectivas direcções regionais.
+Art. 6.º Os museus são serviços dependentes da Secretaria Regional da Educação e Cultura, sob a superintendência técnica, administrativa e financeira das respectivas direcções regionais.
 
-###### Art. 7.º - 1 - Cada museu tem como órgão um director, podendo dispor de um conselho consultivo e de um conselho técnico, conforme as necessidades da sua organização, em termos a determinar no respectivo regulamento.
+Art. 7.º - 1 - Cada museu tem como órgão um director, podendo dispor de um conselho consultivo e de um conselho técnico, conforme as necessidades da sua organização, em termos a determinar no respectivo regulamento.
 
 2 - O director é o responsável, dos pontos de vista técnico e administrativo, pelo funcionamento do museu, cabendo-lhe, designadamente, a orientação das actividades e a direcção do respectivo pessoal.
 
@@ -165,11 +245,11 @@ d) Promover acções de sensibilização do público para a protecção e valori
 
 4 - O conselho técnico será composto pelo director e pelo pessoal técnico superior do museu e por personalidades especialmente qualificadas que possam dar apoio de forma permanente às actividades do museu, nos domínios da sua formação científica ou profissional.
 
-###### Art. 8.º - 1 - Os membros do conselho consultivo são designados por inerência de funções ou nomeados, por despacho do Secretário Regional da Educação e Cultura, de entre personalidades representativas da vida cultural e social da respectiva área, considerando-se a colaboração prestada, para todos os efeitos, como exercício de funções nos organismos ou instituições a que pertençam.
+Art. 8.º - 1 - Os membros do conselho consultivo são designados por inerência de funções ou nomeados, por despacho do Secretário Regional da Educação e Cultura, de entre personalidades representativas da vida cultural e social da respectiva área, considerando-se a colaboração prestada, para todos os efeitos, como exercício de funções nos organismos ou instituições a que pertençam.
 
 2 - Os membros do conselho técnico não pertencentes ao quadro do museu terão a designação de consultores técnicos e serão nomeados por despacho do Secretário Regional da Educação e Cultura, podendo a sua colaboração ser remunerada por gratificação, quando exercida de forma permanente em acumulação com outras funções, ou como pagamento de serviços em regime de tarefas, relativamente a trabalhos com carácter eventual, tendo direito, quando se desloquem em serviço do museu, ao pagamento de passagens e ajudas de custo correspondentes à sua categoria, sendo funcionários públicos, ou, quando não vinculados à função pública, das que caibam ao respectivo director.
 
-###### Art. 9.º - 1 - A aquisição de espécies para os museus decorrerá:
+Art. 9.º - 1 - A aquisição de espécies para os museus decorrerá:
 
 a) De compra pelas respectivas dotações orçamentais;
 
@@ -183,9 +263,9 @@ d) De depósito de espécies que pertençam ao património do Estado ou da Regi�
 
 3 - Quaisquer indivíduos e entidades oficiais ou particulares podem depositar nos museus espécies de que sejam proprietários, nas condições estabelecidas nos respectivos regulamentos e quando o director do museu ou a Direcção Regional dos Assuntos Culturais considere vantajoso o depósito.
 
-###### Art. 10.º O Secretário Regional da Educação e Cultura, sob proposta da Direcção Regional dos Assuntos Culturais, poderá autorizar a saída de espécies de um museu, ouvido o respectivo director, para exposições temporárias ou para cessão a outro museu ou serviço público, desde que esteja garantida a segurança e conservação das mesmas.
+Art. 10.º O Secretário Regional da Educação e Cultura, sob proposta da Direcção Regional dos Assuntos Culturais, poderá autorizar a saída de espécies de um museu, ouvido o respectivo director, para exposições temporárias ou para cessão a outro museu ou serviço público, desde que esteja garantida a segurança e conservação das mesmas.
 
-###### Art. 11.º - 1 - As horas de abertura e encerramento das salas de exposição dos museus serão fixadas por despacho do Secretário Regional da Educação e Cultura, sob proposta da Direcção Regional dos Assuntos Culturais, ouvidos os directores, por forma a dar ao público todas as possíveis facilidades de visita.
+Art. 11.º - 1 - As horas de abertura e encerramento das salas de exposição dos museus serão fixadas por despacho do Secretário Regional da Educação e Cultura, sob proposta da Direcção Regional dos Assuntos Culturais, ouvidos os directores, por forma a dar ao público todas as possíveis facilidades de visita.
 
 2 - Os museus estarão abertos ao público nos sábados, domingos e dias feriados, encerrando para o público normalmente às segundas-feiras.
 
@@ -193,23 +273,23 @@ d) De depósito de espécies que pertençam ao património do Estado ou da Regi�
 
 4 - Para os efeitos do disposto no número anterior, o trabalho poderá ser organizado em turnos ou em horários diversificados, de acordo com as conveniências do serviço, por forma que do funcionamento normal do museu não resulte correntemente necessidade de prestação de trabalho extraordinário.
 
-###### Art. 12.º Os directores dos museus apresentarão anualmente relatório sobre as actividades do seu estabelecimento ao Secretário Regional da Educação e Cultura, através da Direcção Regional dos Assuntos Culturais.
+Art. 12.º Os directores dos museus apresentarão anualmente relatório sobre as actividades do seu estabelecimento ao Secretário Regional da Educação e Cultura, através da Direcção Regional dos Assuntos Culturais.
 
-###### Art. 13.º Cabem à Direcção Regional dos Assuntos Culturais, relativamente à Região Autónoma dos Açores, as atribuições e competência mencionadas nos artigos 71.º e 72.º do [Decreto-Lei n.º 46758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46758-1965-508223), de 18 de Dezembro de 1965.
+Art. 13.º Cabem à Direcção Regional dos Assuntos Culturais, relativamente à Região Autónoma dos Açores, as atribuições e competência mencionadas nos artigos 71.º e 72.º do [Decreto-Lei n.º 46758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46758-1965-508223), de 18 de Dezembro de 1965.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 14.º Os museus a que se refere o artigo 1.º passam a dispor dos quadros de pessoal constantes dos mapas I, II e III anexos ao presente diploma, aplicando-se ao recrutamento, qualificação e estruturação das respectivas carreiras as normas contidas no [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março, em tudo o que não seja especialmente regulado no presente diploma.
+Art. 14.º Os museus a que se refere o artigo 1.º passam a dispor dos quadros de pessoal constantes dos mapas I, II e III anexos ao presente diploma, aplicando-se ao recrutamento, qualificação e estruturação das respectivas carreiras as normas contidas no [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março, em tudo o que não seja especialmente regulado no presente diploma.
 
-###### Art. 15.º Os directores de museu serão nomeados, por despacho do Secretário Regional da Educação e Cultura, sob proposta do director regional dos Assuntos Culturais, de entre conservadores de museu ou, em casos devidamente fundamentados, outras pessoas devidamente qualificadas para o exercício da função, nos termos do artigo 2.º do [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232).
+Art. 15.º Os directores de museu serão nomeados, por despacho do Secretário Regional da Educação e Cultura, sob proposta do director regional dos Assuntos Culturais, de entre conservadores de museu ou, em casos devidamente fundamentados, outras pessoas devidamente qualificadas para o exercício da função, nos termos do artigo 2.º do [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232).
 
-###### Art. 16.º - 1 - O auxiliar técnico de museografia executa trabalhos de museografia superiormente planificados, nomeadamente na montagem de exposições, deslocação e embalagem de espécies, trabalhos oficinais e tarefas de manutenção e segurança das espécies.
+Art. 16.º - 1 - O auxiliar técnico de museografia executa trabalhos de museografia superiormente planificados, nomeadamente na montagem de exposições, deslocação e embalagem de espécies, trabalhos oficinais e tarefas de manutenção e segurança das espécies.
 
 2 - O provimento na categoria de auxiliar técnico de museografia de 2.ª classe far-se-á, por concurso de provas práticas, de entre indivíduos possuidores da escolaridade obrigatória e experiência adequada para a função a que se destina.
 
 3 - O provimento nas categorias de auxiliar técnico de museografia principal e de 1.ª classe far-se-á, mediante concurso de provas práticas, de entre indivíduos de categoria imediatamente inferior com, pelo menos, três anos de bom e efectivo serviço.
 
-###### Art. 17.º - 1 - Aos contínuos e serventes cabe executar trabalhos de limpeza e manutenção das instalações, trabalhos não qualificados de conservação e limpeza de espécies, tarefas de vigilância e de encaminhamento do público e quaisquer outros trabalhos inerentes às funções gerais do pessoal auxiliar que lhes sejam determinados.
+Art. 17.º - 1 - Aos contínuos e serventes cabe executar trabalhos de limpeza e manutenção das instalações, trabalhos não qualificados de conservação e limpeza de espécies, tarefas de vigilância e de encaminhamento do público e quaisquer outros trabalhos inerentes às funções gerais do pessoal auxiliar que lhes sejam determinados.
 
 2 - Cabe também aos contínuos realizar tarefas inerentes às funções de motorista, telefonista, operador de reprografia e outras funções especializadas das carreiras de pessoal auxiliar e operário, sempre que estas não se encontrem previstas no respectivo quadro e não sejam desempenhadas em permanência e como trabalho exclusivo.
 
@@ -223,21 +303,21 @@ d) De depósito de espécies que pertençam ao património do Estado ou da Regi�
 
 7 - Findo o prazo de um ano previsto no n.º 4, o contrato considera-se automaticamente caducado, deixando o indivíduo de prestar serviço se entretanto não tiver sido proposto o provimento definitivo.
 
-###### Art. 18.º - 1 - Até que seja regulamentada a matéria de informação de serviço prevista no artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, aplicado à Região pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), o serviço do pessoal a que se refere este diploma será classificado anualmente, por escrito, de Muito bom, Bom, Suficiente ou Deficiente pelo director do museu, sob proposta do imediato superior hierárquico ou encarregado do respectivo serviço, quando haja.
+Art. 18.º - 1 - Até que seja regulamentada a matéria de informação de serviço prevista no artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, aplicado à Região pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), o serviço do pessoal a que se refere este diploma será classificado anualmente, por escrito, de Muito bom, Bom, Suficiente ou Deficiente pelo director do museu, sob proposta do imediato superior hierárquico ou encarregado do respectivo serviço, quando haja.
 
 2 - O disposto no número anterior é aplicável também ao Centro de Estudo, Conservação e Restauro de Obras de Arte, anexo ao Museu de Angra do Heroísmo.
 
 3 - Da classificação será sempre dado conhecimento ao funcionário, cabendo recurso para o Secretário Regional da Educação e Cultura dentro dos quinze dias imediatos ao da notificação.
 
-###### Art. 19.º Poderá ser destacado ou requisitado para prestar serviço nos museus da Região pessoal pertencente a outros serviços ou organismos públicos, nos termos do artigo 17.º do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
+Art. 19.º Poderá ser destacado ou requisitado para prestar serviço nos museus da Região pessoal pertencente a outros serviços ou organismos públicos, nos termos do artigo 17.º do [Decreto-Lei n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1980-678271), de 20 de Março.
 
 ### CAPÍTULO IV — Centro de Estudo, Conservação e Restauro de Obras de Arte
 
-###### Art. 20.º - 1 - A Oficina de Estudo e Restauro de Obras de Arte existente no Museu de Angra do Heroísmo passará a denominar-se Centro de Estudo, Conservação e Restauro de Obras de Arte e funcionará anexa ao referido Museu, sob a superintendência do respectivo director.
+Art. 20.º - 1 - A Oficina de Estudo e Restauro de Obras de Arte existente no Museu de Angra do Heroísmo passará a denominar-se Centro de Estudo, Conservação e Restauro de Obras de Arte e funcionará anexa ao referido Museu, sob a superintendência do respectivo director.
 
 2 - O Centro exerce a sua acção relativamente ao Museu de Angra do Heroísmo e prestará serviços, nos domínios da sua especialidade, a outras entidades públicas ou privadas, por despacho do director regional dos Assuntos Culturais, ouvido o director daquele Museu.
 
-###### Art. 21.º - 1 - O Centro receberá do Museu de Angra do Heroísmo o apoio administrativo e de instalações necessário.
+Art. 21.º - 1 - O Centro receberá do Museu de Angra do Heroísmo o apoio administrativo e de instalações necessário.
 
 2 - O orçamento de funcionamento corrente do Centro constará de anexo ao orçamento do Museu de Angra do Heroísmo.
 
@@ -245,7 +325,7 @@ d) De depósito de espécies que pertençam ao património do Estado ou da Regi�
 
 4 - O Centro poderá também realizar receitas, como contrapartida de serviços prestados, as quais darão entrada no Fundo Regional de Acção Cultural.
 
-###### Art. 22.º - 1 - O Centro disporá do quadro de pessoal constante do mapa IV anexo ao presente diploma, aplicando-se ao recrutamento, qualificação e estruturação das respectivas carreiras o disposto no [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), 22 de Julho, em tudo o que não seja especialmente regulado no presente diploma.
+Art. 22.º - 1 - O Centro disporá do quadro de pessoal constante do mapa IV anexo ao presente diploma, aplicando-se ao recrutamento, qualificação e estruturação das respectivas carreiras o disposto no [Decreto-Lei n.º 245/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529), 22 de Julho, em tudo o que não seja especialmente regulado no presente diploma.
 
 2 - O Centro terá um técnico-chefe, nomeado, em comissão de serviço por dois anos, de entre os técnicos que exerçam funções no Centro, por despacho do Secretário Regional da Educação e Cultura, sob proposta do director regional dos Assuntos Culturais, ouvido o director do Museu.
 
@@ -255,7 +335,7 @@ d) De depósito de espécies que pertençam ao património do Estado ou da Regi�
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 23.º - 1 - A transição do pessoal que actualmente presta serviço nos museus referidos no artigo 1.º, qualquer que seja o seu vínculo, para os lugares dos quadros estabelecidos no presente diploma far-se-á na categoria ou classe em que o funcionário se encontre, mediante listas nominativas aprovadas pelos Secretários Regionais da Administração Pública e da Educação e Cultura e publicadas no Jornal Oficial, com base nas quais terá lugar o respectivo processo de provimento.
+Art. 23.º - 1 - A transição do pessoal que actualmente presta serviço nos museus referidos no artigo 1.º, qualquer que seja o seu vínculo, para os lugares dos quadros estabelecidos no presente diploma far-se-á na categoria ou classe em que o funcionário se encontre, mediante listas nominativas aprovadas pelos Secretários Regionais da Administração Pública e da Educação e Cultura e publicadas no Jornal Oficial, com base nas quais terá lugar o respectivo processo de provimento.
 
 2 - O pessoal integrado em carreiras horizontais transitará para as novas categorias de acordo com o tempo de serviço na respectiva categoria ou carreira.
 
@@ -269,13 +349,13 @@ d) De depósito de espécies que pertençam ao património do Estado ou da Regi�
 
 7 - O actual director do Museu de Angra do Heroísmo será integrado na carreira de conservador, com a categoria que lhe couber segundo a legislação regional sobre primeiros provimentos.
 
-###### Art. 24.º O pessoal a integrar nas carreiras de conservação e restauro do Centro de Estudo, Conservação e Restauro de Obras de Arte transitará para os novos lugares do quadro nos termos do artigo anterior.
+Art. 24.º O pessoal a integrar nas carreiras de conservação e restauro do Centro de Estudo, Conservação e Restauro de Obras de Arte transitará para os novos lugares do quadro nos termos do artigo anterior.
 
-###### Art. 25.º O pessoal eventual ou assalariado que a qualquer título preste serviço nos museus à data da publicação do presente diploma e que não possua as habilitações exigidas pela lei passa à situação de servente contratado, podendo vir a ingressar nos quadros quando adquirir as referidas habilitações.
+Art. 25.º O pessoal eventual ou assalariado que a qualquer título preste serviço nos museus à data da publicação do presente diploma e que não possua as habilitações exigidas pela lei passa à situação de servente contratado, podendo vir a ingressar nos quadros quando adquirir as referidas habilitações.
 
-###### Art. 26.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou deste e do Secretário Regional da Administração Pública, consoante a sua natureza.
+Art. 26.º As dúvidas que se suscitem na aplicação do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou deste e do Secretário Regional da Administração Pública, consoante a sua natureza.
 
-###### Art. 27.º - 1 - O presente diploma produz efeitos, nomeadamente quanto a vencimento e contagem de tempo de serviço, a partir de 1 de Julho de 1979, relativamente ao pessoal cujas carreiras sejam revalorizadas por força deste diploma e não tenham sido abrangidas pelo disposto no [Decreto Regulamentar Regional n.º 26/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1979-367605).
+Art. 27.º - 1 - O presente diploma produz efeitos, nomeadamente quanto a vencimento e contagem de tempo de serviço, a partir de 1 de Julho de 1979, relativamente ao pessoal cujas carreiras sejam revalorizadas por força deste diploma e não tenham sido abrangidas pelo disposto no [Decreto Regulamentar Regional n.º 26/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1979-367605).
 
 2 - Os efeitos referidos no número anterior referem-se apenas à categoria ou classe para a qual o funcionário transita nos termos dos n.os 1 a 4 do artigo 20.º
 
@@ -283,34 +363,34 @@ d) De depósito de espécies que pertençam ao património do Estado ou da Regi�
 
 Aprovado pelo Governo Regional em 18 de Setembro de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 21 de Outubro de 1980.**
+Assinado em Angra do Heroísmo em 21 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Henrique Afonso da Silva Horta.**
+O Ministro da República para a Região Autónoma dos Açores, Henrique Afonso da Silva Horta.
 
 Mapa I a que se refere o artigo 14.º
 
 Museu de Angra do Heroísmo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf)
 
 Mapa II a que se refere o artigo 14.º
 
 Museu de Carlos Machado, de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf)
 
 Mapa III a que se refere o artigo 14.º
 
 Museu da Horta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf)
 
 Mapa IV a que se refere o artigo 22.º
 
 Centro de Estudo, Conservação e Restauro de Obras de Arte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf))](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/11/26700/39043908.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/01/01900/0061400621.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2015/01/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2015-66357210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f424b6563f7314704a6dc6e7a02c194d4501177c037734a6b65a634bbfb5dd96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 734a4c31523628bc0c579b71322660436b358612341146ac39516b0d9de80f38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aquisição de Imóveis
-- Região Autónoma
-- Embarcação
-- Financiamento
-- Turismo
 - Direcção Regional da Cultura
-- Património Cultural
-- Pesca
+- Embarcação
+- Embarcação de Pesca
+- Financiamento
 - Licenciamento
 - Património Baleeiro Regional
+- Património Cultural
 - Património Histórico
+- Pesca
 - Protecção do Património
-- Embarcação de Pesca
-- Açores
+- Região Autónoma
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/1998/08/04/a/dre
@@ -94,15 +94,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/decregulreg/24/2000/09/07/a/dre
 article_structure:
-  article_count: 53
+  article_count: 38
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:18Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +143,9 @@ f) A construção ou aquisição de imóveis para proteção das embarcações b
 
 2 - (...).
 
-###### Artigo 4.º — Processo
+Artigo 4.º
+
+Processo
 
 1 - O processo inicia-se com o envio ou entrega do projeto na direção regional com competência em matéria de cultura ou num dos museus da Rede Regional de Museus dos Açores.
 
@@ -163,13 +165,17 @@ f) (...):
 
 g) (...).
 
-###### Artigo 5.º — Prazos
+Artigo 5.º
+
+Prazos
 
 1 - Por despacho do membro do Governo Regional com competência em matéria de cultura, publicado até ao dia 31 de janeiro, será definido o prazo para entrega das candidaturas, abrangendo as atividades a desenvolver no ano seguinte.
 
 2 - A não entrega da totalidade dos documentos referidos no n.º 2 do artigo 4.º, até ao prazo estipulado no despacho mencionado no ponto anterior, implica a não aceitação da candidatura.
 
-###### Artigo 7.º — Recuperação
+Artigo 7.º
+
+Recuperação
 
 1 - (...).
 
@@ -181,7 +187,9 @@ c) (...).
 
 2 - Os apoios a atribuir para a recuperação de botes e lanchas são até ao valor de 75 % do custo dos respetivos trabalhos.
 
-###### Artigo 8.º — Conservação
+Artigo 8.º
+
+Conservação
 
 1 - (...).
 
@@ -219,7 +227,9 @@ d) Mais de 8 regatas - até 80 %.
 
 6 - As regatas que obriguem a deslocação de lanchas entre as ilhas do 'Triângulo' (S. Jorge, Pico e Faial) e as ilhas da Graciosa ou Terceira serão, para efeitos do número anterior, contabilizadas a duplicar.
 
-###### Artigo 9.º — Processamento dos apoios
+Artigo 9.º
+
+Processamento dos apoios
 
 1 - (...).
 
@@ -235,11 +245,15 @@ c) (...).
 
 4 - O processamento dos apoios para a formação nas artes de velejar e remar em botes baleeiros será igualmente realizado numa única prestação.
 
-###### Artigo 11.º — Dotação das embarcações com os meios de salvamento
+Artigo 11.º
+
+Dotação das embarcações com os meios de salvamento
 
 Os botes e lanchas baleeiras classificados em condições de navegabilidade beneficiam de uma comparticipação até 75 % das despesas de dotação das embarcações com meios de salvação, aparelhos, instrumentos e meios de segurança, meios de radiocomunicações, instrumentos náuticos e primeiros socorros.
 
-###### Artigo 13.º — Recuperação e conservação de imóveis
+Artigo 13.º
+
+Recuperação e conservação de imóveis
 
 1 - (...).
 
@@ -247,17 +261,23 @@ Os botes e lanchas baleeiras classificados em condições de navegabilidade bene
 
 3 - (...).
 
-###### Artigo 14.º — Apresentação da candidatura
+Artigo 14.º
+
+Apresentação da candidatura
 
 1 - (...).
 
 2 - Os projetos devem ser instruídos nos termos previstos no regime de apoios à recuperação e conservação do património cultural imóvel.
 
-###### Artigo 15.º — Processamento de apoios para imóveis
+Artigo 15.º
+
+Processamento de apoios para imóveis
 
 O processamento de apoios para imóveis, infraestruturas e equipamentos ligados à indústria baleeira será escalonado conforme previsto no regime de apoios à recuperação e conservação do património cultural imóvel.
 
-###### Artigo 24.º — Verba
+Artigo 24.º
+
+Verba
 
 As verbas necessárias à concessão dos apoios previstos neste diploma são inscritas em ações próprias do Plano da Região, no Programa de Defesa e Valorização do Património Arquitetónico e Cultural».
 
@@ -279,7 +299,9 @@ b) Emissão de licença;
 
 c) Prestação inicial anual do seguro.
 
-###### Artigo 8.º-B — Formação
+Artigo 8.º-B
+
+Formação
 
 1 - Os apoios a atribuir para os programas de formação nas artes de velejar e remar em botes baleeiros destinam-se a apoiar a aplicação dos programas específicos e deverão abranger os seguintes domínios:
 
@@ -295,7 +317,9 @@ d) Prática desportiva e competição.
 
 3 - Os apoios a atribuir para a formação são até 80 % dos custos com o formador e com o combustível da embarcação de apoio.
 
-###### Artigo 8.º-C — Critérios de Apreciação
+Artigo 8.º-C
+
+Critérios de Apreciação
 
 1 - A apreciação do interesse para a Região dos projetos apresentados resulta da ponderação dos seguintes fatores:
 
@@ -313,13 +337,17 @@ c) Outros expressamente indicados pela comissão consultiva.
 
 Comparticipação na aquisição ou construção de imóveis para recolha de botes baleeiros
 
-###### Artigo 19.º-A — Construção ou aquisição de imóveis
+Artigo 19.º-A
+
+Construção ou aquisição de imóveis
 
 1 - Os apoios para a construção e aquisição de imóveis destinados à recolha de botes baleeiros classificados, abrangem todos os edifícios a construir ou a adquirir, exclusivamente, para essa função.
 
 2 - Os projetos de construção ou os imóveis construídos carecem dos licenciamentos previstos na lei e deverão acompanhar a instrução do processo.
 
-###### Artigo 19.º-B — Critérios de apreciação
+Artigo 19.º-B
+
+Critérios de apreciação
 
 1 - A apreciação do interesse para a Região dos projetos apresentados resulta da ponderação dos seguintes fatores:
 
@@ -333,7 +361,9 @@ d) Outros expressamente indicados pela comissão consultiva.
 
 2 - Compete à comissão consultiva fixar o peso relativo com que cada um dos fatores contribui para a apreciação geral.
 
-###### Artigo 19.º-C — Apoios
+Artigo 19.º-C
+
+Apoios
 
 1 - São apoiados os gastos no âmbito da construção e aquisição de imóveis destinados à recolha de botes baleeiros classificados.
 
@@ -369,11 +399,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 7 de novembro de 2014.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 9 de janeiro de 2015.**
+Assinado em Angra do Heroísmo em 9 de janeiro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

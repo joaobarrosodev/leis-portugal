@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2010/02/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2010-609607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90ee7e5c7c778cdf2ee2ff259570fd1ebd7392484f835cd24ca47ecfa7e81bc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcc0c270093c1f77400bc034223b3e114e67b892997c074a8b8b67c641987c23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Sanção Disciplinar
-- Titulo de Ingresso
 - Espetáculos e Divertimentos Públicos
-- Multa
-- Violência
-- Segurança Pública
 - Ilícito de MERA Ordenação Social
 - Informatização
 - Instituto do Desporto da Região Autónoma da Madeira
-- Segurança da Informação
+- Madeira.região Autónoma
 - Medidas Preventivas
+- Multa
 - Normas de Segurança
 - Organização Desportiva
-- Sanção Penal
-- Madeira.região Autónoma
+- PSP
 - Sanção
-- Sistema de Videovigilância
-- Serviço Regional de Protecção Civil da Madeira
+- Sanção Disciplinar
+- Sanção Penal
+- Segurança da Informação
 - Segurança Privada
+- Segurança Pública
+- Serviço Regional de Protecção Civil da Madeira
+- Sistema de Videovigilância
+- Titulo de Ingresso
+- Violência
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/16/2005/08/11/m/dre
@@ -108,16 +108,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/39/2009/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/39/2009/07/30/p/dre
+- type: cites
+  target: pt:dre:241805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:16Z'
   warnings: []
   errors: []
 ---
@@ -152,10 +172,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de Janeiro de 2010.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 8 de Fevereiro de 2010.**
+Assinado em 8 de Fevereiro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

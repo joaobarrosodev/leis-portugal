@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2010/09/173000000/4615346153.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/9-2010-1725656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 373183eb6bd769f159605c3e36f938c5d34ba956ee2306f6828670039e3f56e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67aad0bf0dd9d917cf5b922ee0b3e031ad6bec8762687a6483caf73123be4269
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:07Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 9/2010/A
 Para os devidos efeitos, declara-se que o aviso n.º 78/2010/A, publicitado no Diário da República, 2.ª série, n.º 167, de 27 de Agosto de 2010, saiu com a seguinte inexactidão, que agora se rectifica. Assim, no n.º 20, onde se lê «Ana Carina Alberto Espínola, Técnica de 1.ª Classe de Análises Clinicas e de Saúde Pública» deve ler-se «Ana Carina Alberto Espínola, técnica de 1.ª classe de radiologia».
 
 31 de Agosto de 2010. - A Presidente do Júri, Maria Manuela Silveira Vieira Góis.
+
+203646397

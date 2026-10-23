@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/1999/06/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1999-392580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-09-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dd495a081db04eb50575d6557b87060b0a36363259fdec0798b26af7e1fa4b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 560f2599927e5ee05d38d1b78d577bade50c57246fa72478d6eb41372807e3a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aerogare Civil das Lajes
-- Região Autónoma
-- Pessoal Dirigente
-- Secretaria Regional da Economia
 - Definição de Competências
 - Fundo Regional dos Transportes
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Região Autónoma
 - Regime de Pessoal
-- Açores
+- Secretaria Regional da Economia
 relationships:
 - type: amended_by
   target: pt:dre:644711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:644711:por
+  label: "Determinada a transferência do quadro de pessoal anexo ao presente diploma para o quadro de pessoal do DRR.29/2002/A.2002.09.11.PG-RAA,\
+    \ DR.IS-B [228] de 02/Out/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-2002-644711
+  date: '2002-09-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -88,16 +94,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/17/1998/05/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/17/1998/05/15/a/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522377:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:431667:por
+  label: "Rectificado pela DECL-RECT.17-B/99.1999.10.29.PCM, DR.IS-B [254] 2ºSupl de 30/Out/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/17-b-1999-431667
+  date: '1999-10-29'
+- type: repealed_by
+  target: pt:dre:644711:por
+  label: "Revogado o DRR 17/98/A, de 15-Mai, na redacção do presente diploma, pelo DRR.29/2002/A.2002.09.11.PG-RAA, DR.IS-B\
+    \ [228] de 02-Out/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-2002-644711
+  date: '2002-09-11'
 article_structure:
-  article_count: 17
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:05Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +165,9 @@ Delegações de turismo;
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - No âmbito da Secretaria Regional da Economia funcionam as entidades seguintes:
 
@@ -150,7 +181,9 @@ d) ...
 
 2 - O Fundo Regional dos Transportes funciona na dependência do Secretário Regional da Economia, no que respeita à actividade dos transportes marítimos e aéreos.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 ...
 
@@ -176,7 +209,9 @@ j) Proceder, no exercício das suas competências de fiscalização, ao levantam
 
 l) ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 ...
 
@@ -196,7 +231,9 @@ g) Colaborar no planeamento das acções relativas ao aproveitamento dos recurso
 
 h) Informar sobre todos os aspectos técnico-legais relativos ao exercício da actividade.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 ...
 
@@ -218,7 +255,9 @@ h) Apreciar e informar os requerimentos e reclamações relativos a instalaçõe
 
 i) Promover a cobrança de taxas, multas ou coimas aplicadas.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -232,7 +271,9 @@ c) Aerogare civil das Lajes.
 
 3 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +297,9 @@ g) ...
 
 4 - De acordo com as necessidades do serviço, as áreas funcionais podem integrar outros sectores com funções específicas.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -280,7 +323,9 @@ i) ...
 
 2 - Os dirigentes dos serviços de ilha são equiparados, para todos os efeitos legais, a chefe de divisão.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -314,7 +359,9 @@ g) ...
 
 6 - O exercício das funções de delegado de Turismo a tempo parcial será remunerado por gratificação, a fixar por despacho dos Secretários Regionais da Presidência para as Finanças e Planeamento, Adjunto da Presidência e da Economia, o qual conterá igualmente a respectiva duração de trabalho.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - A SRE tem postos de turismo nas Furnas, no Aeroporto João Paulo II, em Ponta Delgada, em Santa Maria, em Angra do Heroísmo, nas Lajes, na Graciosa, em São Jorge, no Pico, no Faial, nas Flores, em Lisboa e no Porto.
 
@@ -324,19 +371,25 @@ g) ...
 
 4 - ...
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - ...
 
 2 - O ingresso e acesso na carreira far-se-á, com as necessárias adaptações, nos termos da lei geral.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - A carreira de agente de inspecção do turismo desenvolve-se pelas categorias de agente de inspecção de 2.ª classe, de 1.ª classe, principal, especialista ou especialista principal.
 
 2 - O ingresso e acesso na carreira far-se-á nos termos da lei geral.
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 Os requisitos para ingresso na carreira de técnico profissional, técnico profissional de laboratório, técnico profissional de apoio ao cooperativismo, técnico profissional do comércio, técnico profissional da indústria, técnico profissional da energia, recepcionista de turismo e secretário recepcionista são os constantes do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.»
 
@@ -356,13 +409,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 20 de Abril de 1999.
 
-**O Presidente do Governo Regional, em exercício, Roberto de Sousa Rocha Amaral, Secretário Regional da Presidência para as Finanças e Planeamento.**
+O Presidente do Governo Regional, em exercício, Roberto de Sousa Rocha Amaral, Secretário Regional da Presidência para as Finanças e Planeamento.
 
-**Assinado em Angra do Heroísmo em 27 de Maio de 1999.**
+Assinado em Angra do Heroísmo em 27 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 MAPA I
 

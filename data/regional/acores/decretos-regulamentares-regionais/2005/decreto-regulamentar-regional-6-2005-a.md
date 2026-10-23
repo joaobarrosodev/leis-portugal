@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/034b00/12701291.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2005/02/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2005-605339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ff036deda208c7d63d1e5e00e6dbca14c1c75a6373269ba78e4bd03793166bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87371db9faef47cdc303b6a00bfbd8aae98eca364aa6ea744771dd00a78ebff3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ILHA de são Miguel
 - Ordenamento do Território
 - Plano de Ordenamento da Orla Costeira
@@ -72,7 +73,6 @@ subjects:
 - Ponta Delgada
 - Regulamento
 - Ribeira Grande
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:908074088:por
@@ -118,16 +118,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/767/1996/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/767/1996/12/30/p/dre
+- type: cites
+  target: pt:dre:156002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:908074088:por
+  label: Revogado, a partir de 21 de fevereiro de 2025, pelo(a) Decreto Regulamentar Regional n.º 9/2025/A - Diário da República
+    n.º 36/2025, Série I de 2025-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2025-908074088
+  date: '2025-02-20'
 article_structure:
   article_count: 111
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:07Z'
   warnings: []
   errors: []
 ---
@@ -168,19 +234,19 @@ O POOC entra em vigor no dia seguinte à data de publicação do presente diplom
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 30 de Setembro de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 24 de Janeiro de 2005.**
+Assinado em Angra do Heroísmo em 24 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
 REGULAMENTO DO PLANO DE ORDENAMENTO DA ORLA COSTEIRA, TROÇO FETEIRAS-FENAIS DA LUZ-LOMBA DE SÃO PEDRO
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -360,7 +426,7 @@ i) Protecção a marcos geodésicos.
 
 2 - As servidões administrativas e restrições de utilidade pública referidas no número anterior constam da planta de condicionantes referida na alínea c) do n.º 1 do artigo 3.º, bem como dos planos municipais de ordenamento do território em vigor, aplicáveis na área de intervenção do POOC.
 
-## TÍTULO II
+TÍTULO II
 
 Uso, ocupação e transformação da orla costeira
 
@@ -778,7 +844,7 @@ g) Obras marítimas para construção de infra-estruturas marítimas e portuári
 
 4 - Nas áreas integrantes do domínio público marítimo, a atribuição, ao abrigo do POOC, de usos privativos, é precedida de parecer favorável das entidades integradas nos sistemas de autoridade marítima, nos termos legalmente fixados.
 
-## TÍTULO III
+TÍTULO III
 
 Praias e zonas balneares
 
@@ -934,7 +1000,7 @@ As zonas de risco referidas no artigo anterior serão estabelecidas por resoluç
 
 4 - Os equipamentos de vigilância e assistência aos banhistas serão colocados de modo a abranger a totalidade da área vigiada.
 
-## TÍTULO IV
+TÍTULO IV
 
 Zonas de planeamento, implementação e gestão do POOC
 
@@ -970,7 +1036,7 @@ c) Assegurar a gestão sustentável de uma estrutura de conservação da naturez
 
 d) Contribuir para a requalificação do espaço na área de intervenção do POOC.
 
-## TÍTULO V
+TÍTULO V
 
 Unidades operativas de planeamento e gestão
 
@@ -1194,7 +1260,7 @@ b) Planos de Pormenor das Áreas de Desenvolvimento Turístico.
 
 4 - Na elaboração dos Planos referidos no número anterior, bem como nos procedimentos de licenciamento municipal até à sua aprovação, serão respeitados os parâmetros urbanísticos e as disposições do Regulamento e outros instrumentos de gestão territorial em vigor.
 
-## TÍTULO VI
+TÍTULO VI
 
 Disposições finais e transitórias
 
@@ -1570,10 +1636,10 @@ Nas praias não equipadas com uso condicionado e nas praias com uso restrito é 
 
 Planta de síntese
 
-[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034b00/12701291.pdf)
+[[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034b00/12701291.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034b00/12701291.pdf)
 
 ## ANEXO III — (a que se refere o artigo 1.º)
 
 Planta de condicionantes
 
-[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034b00/12701291.pdf)
+[[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2005/02/034b00/12701291.pdf)](https://files.diariodarepublica.pt/1s/2005/02/034b00/12701291.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2011/07/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2011-670489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c0688d48b8a0bc5fc101f10374d63452de8806bdfafd603f76204c39add86ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04eec7ddfc80e432e185511a817e479c7ace51d96b2d67344c9d7e807383d6ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - AVAL do Estado
-- Garantia
-- Gestão Financeira
 - Desenvolvimento Regional
 - Dívida Pública
-- Setor Empresarial do Estado
-- Projeto de Investimento
+- Financiamento
+- Garantia
+- Gestão Financeira
 - Gestão Orçamental
+- Madeira.região Autónoma
 - Operações de Crédito
 - Orçamento Regional
-- Madeira.região Autónoma
+- Projeto de Investimento
 - Regime Jurídico
+- Setor Empresarial do Estado
 relationships:
 - type: amended_by
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Alterado o art 13.º (na redação do DLR 8/2011/M de 01-Abr e do presente diploma) do DLR 24/2002/M de 23-dez, pelo(a)
+    Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Alterado, com efeitos desde 01.01.2017, o art. 5.º do DLR 24/2002/M de 23-dez, na versão republicada pelo DLR 8/2011/M
+    de 01-abr e na redação do presente diploma, pelo(a) Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República
+    n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Alterado, com efeitos desde 01.01.2020, o art. 13.º, na redação do presente diploma, do DLR 24/2002/M de 23-dez,
+    na versão republicada pelo DLR 8/2011/M de 01-abr, pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República
+    n.º 22/2020, 1º Suplemento, Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/2011/01/10/m/dre
   label: null
@@ -116,16 +136,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:22Z'
   warnings: []
   errors: []
 ---
@@ -166,13 +218,17 @@ São alterados os artigos 4.º, 5.º, 6.º e 13.º do [Decreto Legislativo Regio
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O aval será prestado a operações que tenham por finalidade o financiamento de projectos de investimento ou acções enquadráveis na estratégia de desenvolvimento regional, vertida no Plano de Desenvolvimento Económico e Social da Região Autónoma da Madeira, bem como o reforço de garantias, a reestruturação de sectores, de empréstimos e de empresas públicas regionais, o saneamento do sector público empresarial e a substituição de empréstimos, nos termos do artigo 6.º deste diploma.
 
 2 -...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +260,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Nos casos aplicáveis, a utilização do financiamento avalizado deverá ter início nos 120 dias seguintes à data da emissão do certificado de aval, salvo fixação expressa e devidamente fundamentada de prazo superior no respectivo acto de concessão.
 
@@ -224,10 +282,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 29 de Junho de 2011.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 4 de Julho de 2011.**
+Assinado em 4 de Julho de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

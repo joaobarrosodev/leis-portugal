@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/069b00/15501551.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/1991/03/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1991-472709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 671490e4539ab6263f4cd3112744fbb36474c520bdfdf7d7595ed4a7aa6a54b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2da0b5c50e040729ac2f8c1e15d1caa8a53b6b5292da25c289c0b7196154df01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,85 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Financiamento
 - Instituto de Investimento e Privatizações dos Açores
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:298837:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:298837:por
+  label: "Revogado pelo DRR.6/94/A.15.07.1994.GR-RAA, DR.IS-B [162] de 15.07.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1994-298837
+  date: '1994-07-15'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:45Z'
   warnings: []
   errors: []
 ---
@@ -148,10 +209,10 @@ Os encargos decorrentes da aplicação dos sistemas de incentivos serão inscrit
 
 Aprovado em Conselho do Governo Regional, Angra do Heroísmo, em 6 de Fevereiro de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 8 de Março de 1991.**
+Assinado em Angra do Heroísmo em 8 de Março de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

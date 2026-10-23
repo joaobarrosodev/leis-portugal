@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/052b00/10971101.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/1991/03/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1991-466842
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19ff3c68455407ec1a6d0004b4f91d7c45989299afd59cbfc6b527f78693e5bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea8c943b66f88251fef59efabeb65c21defc4c501b1be8184f5539bb3eb85c97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,75 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional da Economia
+- Açores
 - Governo Regional
 - Orgânica
-- Açores
+- Secretaria Regional da Economia
 relationships:
 - type: amended_by
   target: pt:dre:573749:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616671:por
+  label: "Alterados os artigos 5.º, 6.º, 28.º, 40.º, 41.º, 53.º, 56.º, 57.º, 59.º e o mapa anexo, aditado o artigo 55.º-A,\
+    \ prorrogado por mais um ano, o prazo estabelecido no n.º 6 do artigo 56.º e revogados os artigos 42.º e 44.º do Decreto\
+    \ Regulamentar Regional n.º 9/90/A, de 9 de Março, DR.IS [57], na redacção do presente diploma, pelo DRR.49/92/A.16.12.1992.GR-RAA,\
+    \ DR.IS-B [289] de 16.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/49-1992-616671
+  date: '1992-12-16'
+- type: amended_by
+  target: pt:dre:637905:por
+  label: "Extinta a Direcção Regional do Comércio e a Direcção Regional da Indústria e Energia, constante da orgânica aprovada\
+    \ pelo Decreto Regulamentar Regional n.º 9/90/A, de 9 de Março, na redacção do presente diploma, pelo DRR.6/93/A.20.03.1993.GR-RAA,\
+    \ DR.IS-B [67] de 20.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1993-637905
+  date: '1993-03-20'
+- type: cites
+  target: pt:dre:332726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666126:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:616671:por
+  label: "Revogado o artigo 3.º pelo DRR.49/92/A.16.12.1992.GR-RAA, DR.IS-B [289] de 16.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/49-1992-616671
+  date: '1992-12-16'
+- type: repealed_by
+  target: pt:dre:573749:por
+  label: "Revogado pelo DRR.17/95/A.25.09.1995.GR-RAA, DR.IS-B [222] de 25.09.1995, sem prejuízo do disposto nos n.ºs 2 e\
+    \ 3 do seu artigo 93.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1995-573749
+  date: '1995-09-25'
 article_structure:
-  article_count: 8
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:57Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +149,7 @@ Em correspondência com o que precede, é alterado o quadro de pessoal da Secret
 
 Assim, em execução do artigo 20.º do [Decreto Legislativo Regional n.º 36/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-1988-480561), de 28 de Novembro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, n.º 1, 8.º, 13.º, 14.º, 56.º, n.os 5 e 8, 58.º, n.os 3 a 6, e 59.º do [Decreto Regulamentar Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726), de 9 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, n.º 1, 8.º, 13.º, 14.º, 56.º, n.os 5 e 8, 58.º, n.os 3 a 6, e 59.º do [Decreto Regulamentar Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726), de 9 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Estrutura
 
@@ -133,9 +183,9 @@ A DRC compreende:
 
 a) Direcção de Serviços do Comércio (DSC), a qual integra:
 
-##### Divisão do Licenciamento Comercial (DLC);
+Divisão do Licenciamento Comercial (DLC);
 
-##### Divisão de Concorrência e Preços (DCP);
+Divisão de Concorrência e Preços (DCP);
 
 b) Serviço de Inspecção Económica (SIE), a que se refere o artigo 34.º;
 
@@ -179,15 +229,15 @@ A DRIE compreende:
 
 a) Direcção de Serviços Industriais (DSI), a qual integra:
 
-##### Divisão de Administração Industrial (DAI);
+Divisão de Administração Industrial (DAI);
 
-##### Divisão de Qualidade (DQ);
+Divisão de Qualidade (DQ);
 
 b) Direcção de Serviços de Electricidade e Combustíveis (DSEC), a qual integra:
 
-##### Divisão de Electricidade (DE);
+Divisão de Electricidade (DE);
 
-##### Divisão de Combustíveis (DC);
+Divisão de Combustíveis (DC);
 
 c) Divisão de Estudos e Planeamento Industrial (DEPI);
 
@@ -249,26 +299,26 @@ Laboratório de Análises e Ensaios (LAE).
 
 2 - O Secretário Regional da Economia pode delegar em qualquer dos directores regionais competência para a coordenação de qualquer dos organismos e fundos autónomos referidos no número anterior.
 
-###### Art. 2.º Ao mapa anexo ao [Decreto Regulamentar Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726), de 9 de Março, são introduzidas as alteração constantes do anexo I deste diploma, do qual faz parte integrante.
+Art. 2.º Ao mapa anexo ao [Decreto Regulamentar Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726), de 9 de Março, são introduzidas as alteração constantes do anexo I deste diploma, do qual faz parte integrante.
 
-###### Art. 3.º Ao mapa anexo ao [Decreto Regulamentar Regional n.º 7/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1990-332736), de 8 de Março, é introduzida a alteração constante do anexo II deste diploma, de que também faz parte integrante.
+Art. 3.º Ao mapa anexo ao [Decreto Regulamentar Regional n.º 7/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1990-332736), de 8 de Março, é introduzida a alteração constante do anexo II deste diploma, de que também faz parte integrante.
 
-###### Art. 4.º São revogados os artigos 19.º e 20.º do [Decreto Regulamentar Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726), de 9 de Março, sendo os artigos 21.º a 24.º integrados na subsecção II e suprimida a subsecção III, passando as subsecções IV, V e VI a, respectivamente, subsecções III, IV e V da secção II do capítulo II.
+Art. 4.º São revogados os artigos 19.º e 20.º do [Decreto Regulamentar Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726), de 9 de Março, sendo os artigos 21.º a 24.º integrados na subsecção II e suprimida a subsecção III, passando as subsecções IV, V e VI a, respectivamente, subsecções III, IV e V da secção II do capítulo II.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 19 de Dezembro de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 5 de Fevereiro de 1991.**
+Assinado em Angra do Heroísmo em 5 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO I — Mapa a que se refere o n.º 2 do artigo 37.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/052b00/10971101.pdf))](https://files.diariodarepublica.pt/1s/1991/03/052b00/10971101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/052b00/10971101.pdf)
 
 ## ANEXO II — Mapa a que se refere o n.º 1 do artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/052b00/10971101.pdf))](https://files.diariodarepublica.pt/1s/1991/03/052b00/10971101.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/052b00/10971101.pdf)

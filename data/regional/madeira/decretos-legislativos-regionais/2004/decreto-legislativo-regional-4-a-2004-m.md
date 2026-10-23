@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 77/2004, 1º Suplemento, Série I-A de 2004-03-31
   number: '77'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2062-(2) a 2062-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/077a01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4-a/2004/03/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-a-2004-535239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55ea208ab379bc3f87c730b1d8624488352b8b3e4d315678d51f4021f0cd3133
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 990dd49226277943060c6600b152a7492ccc2b774af6cb14cd0eba404a12ce5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ reuse:
 subjects:
 - Colocação de Professores
 - Concurso
-- Recrutamento de Pessoal
 - Contratação de Pessoal
-- Pessoal Docente
+- Educação Pré-escolar
 - Ensino Básico
 - Madeira.região Autónoma
-- Educação Pré-escolar
+- Pessoal Docente
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:468639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:564831:por
+  label: "Alterados os arts. 15º, 40º e 41º do DLR 17/2003/M de 22-Jul, na redacção dada pelo presente diploma, pelo DLR.2/2005/M.17.03.2005.ALR-RAM,\
+    \ DR.IS-A [62] de 30.03.2005, que procede à sua republicação na íntegra com todas as alterações \0s \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2005-564831
+  date: '2005-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/ac/232/2003/06/17/p/dre
   label: null
@@ -111,16 +117,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:186123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684202:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:468639:por
+  label: "Revogado o DLR 17/2003/M de 22-Jul, com a redacção constante deste diploma, pelo DLR.15-A/2006/M.10.04.2006.AL-RAM,\
+    \ DR.IS-A [80-Supl] de 24.04.2006, sem prejuízo do disposto no nº 3 do art. 61º daquele diploma (manutenção da vigência\
+    \ do regime constante deste diploma para o concurso relativo ao ano escolar de 2005-2006) DLR.15-A/2006/M.10.04.2006.AL-RAM,\
+    \ DR.IS-A [80-Supl] de 24.04.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2006-468639
+  date: '2006-04-10'
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:27Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +209,9 @@ Ordenação de candidatos
 
 4 - (Anterior n.º3.)
 
-###### Artigo 17.º — Listas definitivas
+Artigo 17.º
+
+Listas definitivas
 
 1 - ...
 
@@ -173,7 +221,9 @@ Ordenação de candidatos
 
 4 - ...
 
-###### Artigo 29.º — Necessidades residuais
+Artigo 29.º
+
+Necessidades residuais
 
 1 - As necessidades residuais de pessoal docente, incluindo as das escolas profissionais públicas nas componentes de formação sócio-cultural e científica, são recolhidas pela Direcção Regional de Administração Educativa, mediante proposta dos órgãos de gestão dos estabelecimentos de educação ou de ensino, devendo os órgãos de gestão, sempre que se verifique a necessidade de um horário referente apenas a uma disciplina de um grupo de docência bidisciplinar, indicar em simultâneo com o horário a disciplina concreta pretendida.
 
@@ -193,7 +243,9 @@ Ordenação de candidatos
 
 9 - ...
 
-###### Artigo 35.º — Concretização da afectação
+Artigo 35.º
+
+Concretização da afectação
 
 1 - A afectação é feita por um ano escolar, atendendo às preferências manifestadas pelos docentes.
 
@@ -203,7 +255,9 @@ Ordenação de candidatos
 
 4 - Os docentes referidos no número anterior podem ser afectos nos termos do n.º 1 ou podem assegurar, no estabelecimento de educação ou de ensino integrado no âmbito territorial do quadro de zona pedagógica a que pertencem que for indicado pela Direcção Regional de Administração Educativa, o serviço que, de acordo com os objectivos definidos no n.º 1 do artigo 27.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, lhes for atribuído, em ambos os casos determinando a actualização da lista graduada de candidatos não colocados.
 
-###### Artigo 40.º — Contratação
+Artigo 40.º
+
+Contratação
 
 1 - A Direcção Regional de Administração Educativa elabora a lista de colocação para efeitos de contratação para horários anuais e para substituições, sendo essa lista homologada pelo director regional de Administração Educativa, determinando a actualização da lista graduada de candidatos não colocados.
 
@@ -217,7 +271,9 @@ Ordenação de candidatos
 
 6 - A não aceitação no prazo previsto no número anterior determina o impedimento de prestar serviço nesse ano escolar em qualquer estabelecimento de educação ou de ensino público.
 
-###### Artigo 41.º — Oferta de emprego
+Artigo 41.º
+
+Oferta de emprego
 
 1 - ...
 
@@ -235,10 +291,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 18 de Março de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa Regional, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 25 de Março de 2004.**
+Assinado em 25 de Março de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

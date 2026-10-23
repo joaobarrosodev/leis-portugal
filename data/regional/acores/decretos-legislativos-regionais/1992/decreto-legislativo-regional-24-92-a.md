@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/10/246a00/49514952.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/1992/10/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1992-220347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15322f046a40cc5c603e08a3947507af08b1a938999d2d5ce19ee439068343d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bea0daf8d09e2d09e47876ff66730407e58aabe409d7cf06763045c827929e60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Associação de Bombeiros Voluntários
-- Energia Elétrica
-- Consumo de Energia
-- Preço
 - Açores
+- Associação de Bombeiros Voluntários
+- Consumo de Energia
+- Energia Elétrica
+- Preço
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:356529:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:300435:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 192/92, PUBLICADA NO DR.IS-A, 277, 2SUPL, DE 921130.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/192-1992-300435
+- type: repealed_by
+  target: pt:dre:356529:por
+  label: "Revogado pelo DLR.13/93/A.06.08.1993.ALR-RAA, DR.IS-A [183] de 06.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-1993-356529
+  date: '1993-08-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:14Z'
   warnings: []
   errors: []
 ---
@@ -105,16 +114,16 @@ Assim sendo, justifica-se que as associações de bombeiros voluntários sejam e
 
 Nesta conformidade, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 3 do artigo 229.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º As associações de bombeiros voluntários da Região Autónoma dos Açores, no consumo de energia eléctrica para iluminação interior dos edifícios e dependências e para outros usos, beneficiam do desconto aplicado às instituições de assistência ou beneficência.
+Artigo 1.º As associações de bombeiros voluntários da Região Autónoma dos Açores, no consumo de energia eléctrica para iluminação interior dos edifícios e dependências e para outros usos, beneficiam do desconto aplicado às instituições de assistência ou beneficência.
 
-###### Art. 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 1993.
+Art. 2.º O presente diploma entra em vigor no dia 1 de Janeiro de 1993.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 9 de Setembro de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 21 de Setembro de 1992.**
+Assinado em Angra do Heroísmo em 21 de Setembro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

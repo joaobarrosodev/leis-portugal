@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/07/15800/29052907.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1990-575703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26e4dc6d68bc7f0e225e98ecbec8a050391bfd600287a1964c91266f74c194dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95586e8c85382742488d7c49e8e6efcd2d38794772bf5e8f899a2a5d35031c04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Criação de Serviços
+- Desporto
+- Equipamento Desportivo
+- Orgânica
+- Parque Desportivo de Ponta Delgada
+- Pessoal Dirigente
+- Ponta Delgada
 relationships:
 - type: amended_by
   target: pt:dre:548640:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:548640:por
+  label: "Cessado, para todos os efeitos legais, o regime de instalação e revogado o presente diploma, pelo DRR.13/94/A.30.11.1994.GR-RAA,\
+    \ DR.IS-B [277] de 30.11.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1994-548640
+  date: '1994-11-30'
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:37Z'
   warnings: []
   errors: []
 ---
@@ -238,14 +272,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 23 de Maio de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Junho de 1990.**
+Assinado em Angra do Heroísmo em 20 de Junho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Mapa a que se refere o artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/07/15800/29052907.pdf))](https://files.diariodarepublica.pt/1s/1990/07/15800/29052907.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/07/15800/29052907.pdf)

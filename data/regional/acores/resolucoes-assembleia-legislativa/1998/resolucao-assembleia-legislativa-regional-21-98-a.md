@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/21/1998/11/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/21-1998-223046
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 844028bd3a9437ab03591b80c63a881370d28a2461ce4d98094c5502fabb5750
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4ac2ce6c144b712eae68343d65fc7751b7512eaecf109c069faeb67e028916d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa Regional
+- Catástrofe
+- Comissão
 - Comissão Eventual para o Acompanhamento da Acção Governativa na Reconstrução dos Estragos do Sismo de 9 de Julho
 - Governo Regional
-- Comissão
-- Catástrofe
 - Sismo
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:224000:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:224000:por
+  label: "Revogada, na data da posse dos membros do CCR a que se refere o art. 4º do DLR.17/2003/A.2003.03.18.ALR-RAA; e extinta\
+    \ consequentemente a Comissão Eventual para o Acompanhamento da Acção Governativa na Reconstrução dos Estragos do Sismo\
+    \ de 9 de Julho de 1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2003-224000
+  date: '2003-03-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:22Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +109,4 @@ A Comissão deverá, em cada uma das sessões plenárias da Assembleia Legislati
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Setembro de 1998.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.

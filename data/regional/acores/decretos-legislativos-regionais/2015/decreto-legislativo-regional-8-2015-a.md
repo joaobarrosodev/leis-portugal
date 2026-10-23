@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/03/06200/0171901722.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2015/03/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2015-66880175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c179c06e689107cd6ab098b76f939863f7bbd6f1a1755ea94d3b8ede24ab1bdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c3d956b5731bba4208696bc0ef0494f1e00f893267d9293d43f9acbd27ba18b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,66 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Complemento Regional de Pensão
-- Remuneração Complementar Regional
-- Remuneração Acessória
-- Pensionista
-- Administração Local
-- Salário Mínimo
-- Administração Regional
 - Açores
+- Administração Local
+- Administração Regional
+- Complemento Regional de Pensão
 - Estatuto Remuneratório
+- Pensionista
+- Remuneração Acessória
+- Remuneração Complementar Regional
+- Salário Mínimo
 relationships:
 - type: amended_by
   target: pt:dre:164454929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73070297:por
+  label: Aumentado em 2% o valor do complemento regional de pensão, previsto no art. 13.º, fixando em € 758 o apoio atribuído
+    anualmente aos beneficiários do 1.º escalão; e alterados o n.º 2 do art. 10.º e o n.º 3 do art. 11.º, ambos do DLR 8/2002/A
+    de 10-Abr, com a redação e republicação efetuadas pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 1/2016/A
+    - Diário da República n.º 5/2016, Série I de 2016-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2016-73070297
+  date: '2016-01-08'
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Alterados os arts. 2.º, 6.º e 8.º do Regime Jurídico aprovado pelo DLR 8/2002/A, de 10-abr, na versão revista e republicada
+    pelo presente diploma pelo(a) Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
+- type: amended_by
+  target: pt:dre:119397721:por
+  label: Alterado o art. 8.º do DLR 8/2002/A de 10-abr, na versão alterada e republicada pelo presente diploma e com a redação
+    dada pelo DLR 3/2017/A de 13 abr e pelo DLR 1/2018/A de 03-jan, pelo(a) Decreto Legislativo Regional n.º 6/2019/A - Diário
+    da República n.º 30/2019, Série I de 2019-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2019-119397721
+  date: '2019-02-12'
+- type: amended_by
+  target: pt:dre:122253267:por
+  label: Alterados, com efeitos a partir de 01.01.2019, os arts. 10.º e 11.º (ambos na redação do DLR 1/2016/A de 08-jan)
+    e revogados os n.ºs 3, 4 e 5 do art. 11.º do DLR 8/2002/A de 10-abr, na versão republicada pelo presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 8/2019/A - Diário da República n.º 89/2019, Série I de 2019-05-09 que procede à respetiva
+    republicação
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2019-122253267
+  date: '2019-05-09'
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Alterado, com efeitos a partir de 01.01.2020, o art. 6.º (na redação dos DLR 3/2017/A de 13-abr e 1/2018/A de 03-jan)
+    do DLR 8/2002/A de 10-abr, na versão republicada pelo presente diploma, e determinado, com efeitos à mesma data, que o
+    montante da remuneração complementar regional, a que se refere o n.º 1 do art. 11.º do referido DLR 8/2002/A, é atualizado
+    em cinco vezes a taxa de inflação do ano de 2019, pelo(a) Decreto Legislativo Regional n.º 1/2020/A - Diário da República
+    n.º 5/2020, Série I de 2020-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
+- type: amended_by
+  target: pt:dre:164454929:por
+  label: Alterados, com efeitos a partir de 01.01.2021, os art. 6.º e 11.º do DLR 8/2002/A de 10-abr, na versão republicada
+    pelo presente diploma, e determinado, com efeitos à mesma data, que o montante da remuneração complementar regional, a
+    que se refere o n.º 1 do art. 11.º do presente diploma, é atualizado em 2,5 %. pelo(a) Decreto Legislativo Regional n.º
+    15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2021-164454929
+  date: '2021-05-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/2014/08/01/a/dre
   label: null
@@ -120,16 +166,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/po
   label: null
   source: http://data.dre.pt/eli/po
+- type: cites
+  target: pt:dre:261110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55042849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56747377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:59077887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629104:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 18
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:06Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +246,9 @@ Os artigos 10.º e 11.º do [Decreto Legislativo Regional n.º 8/2002/A](https:/
 
 2 - [...].
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]:
 
@@ -200,17 +292,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de fevereiro de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 13 de março de 2015.**
+Assinado em Angra do Heroísmo em 13 de março de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/06200/0171901722.pdf))](https://files.diariodarepublica.pt/1s/2015/03/06200/0171901722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/06200/0171901722.pdf)
 
 ## ANEXO — Republicação do [Decreto Legislativo Regional n.º 8/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2002-303252), de 10 de abril
 
@@ -356,4 +448,4 @@ O presente diploma produz efeitos a partir de 1 de janeiro de 2002.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/03/06200/0171901722.pdf))](https://files.diariodarepublica.pt/1s/2015/03/06200/0171901722.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/03/06200/0171901722.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2011/04/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2011-277368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea57ea502ac4b52ea43c6512494eec31f0998b2dcd77118c86ea28278fce8172
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3a224c015c1dac00f48313c79999cfb8bf599b4b94ad54e650dfb15856954e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ILHA Terceira
-- Ordenamento do Território
+- Açores
+- Conselho Consultivo
 - Criação de Serviços
-- Recursos Hídricos
 - Definição de Competências
 - Diretor
-- Proteção da Floresta
-- Pesca
-- Monumento Natural
-- Conselho Consultivo
-- Furnas do Enxofre
-- Orgânica
-- Molusco
-- Rede Regional de Áreas Protegidas
-- Parque Natural da Terceira
-- Proteção do Ambiente
 - Diversidade Biológica
-- Zona de Proteção
-- Recursos Naturais
+- Furnas do Enxofre
+- ILHA Terceira
+- Molusco
+- Monumento Natural
+- Ordenamento do Território
+- Orgânica
+- Parque Natural da Terceira
 - Património Natural
+- Pesca
+- Proteção da Floresta
+- Proteção do Ambiente
+- Recursos Hídricos
+- Recursos Naturais
+- Rede Regional de Áreas Protegidas
 - Reserva Natural
-- Açores
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:223336984:por
@@ -132,16 +132,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
+- type: cites
+  target: pt:dre:209645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635868:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado o DLR 15/2007/A, de 25-jun, na redacção do presente diploma, mantendo-se em vigor os parques naturais criados\
+    \ ao seu abrigo, pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS [66] de 02.04.2012, nos termos do nº 4 do art. 168º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
 article_structure:
   article_count: 45
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:16Z'
   warnings: []
   errors: []
 ---
@@ -994,11 +1064,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 22 de Março de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 8 de Abril de 2011.**
+Assinado em Angra do Heroísmo em 8 de Abril de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -1008,7 +1078,7 @@ O Representante da República para a Região Autónoma dos Açores, José Antón
 
 Parque Natural da Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07800/0235502373.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07800/0235502373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07800/0235502373.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 3.º)
 

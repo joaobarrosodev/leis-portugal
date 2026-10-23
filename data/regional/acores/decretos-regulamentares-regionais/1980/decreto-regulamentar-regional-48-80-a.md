@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24200/34723472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1980-462445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0025743e46413a28d434b4a095092f8bcd52d1428762c3e07595425227a9060
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21b61063366494bf6c59d8ee14ef52668c43debec459a67da404598fcdbd8aac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:332726:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332726:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 9/90/A - Diário da República n.º 57/1990, Série I de 1990-03-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1990-332726
+  date: '1990-03-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:15Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +105,16 @@ Nestes termos:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril, os delegados de viação de Ponta Delgada, de Angra do Heroísmo e da Horta são equiparados a chefes de divisão, para os efeitos contemplados no referido diploma.
+Artigo 1.º Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril, os delegados de viação de Ponta Delgada, de Angra do Heroísmo e da Horta são equiparados a chefes de divisão, para os efeitos contemplados no referido diploma.
 
-###### Art. 2.º O presente diploma produz efeitos a partir de 1 de Julho de 1979.
+Art. 2.º O presente diploma produz efeitos a partir de 1 de Julho de 1979.
 
 Aprovado pelo Governo Regional em 28 de Agosto de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 23 de Setembro de 1980.**
+Assinado em Angra do Heroísmo em 23 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

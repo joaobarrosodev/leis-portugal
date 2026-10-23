@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/622/2009/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/622-2009-494501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 856a042b07f7991799afffd4730dace181936d87f6fb21ee4d0d629397f57641
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1d40510360fc28519307b97356f5fe8cdc860a359e13267d0508133940c2c90
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
 - Cobrança de Impostos
-- Direção Geral da Agricultura e Desenvolvimento Rural
+- Comércio
 - Controlo de Qualidade
-- Direcção Regional de Agricultura e Pescas
 - Controlo Sanitário
-- Resíduo
-- Proteção do Ambiente
-- Prestação de Serviços
-- Receita Própria
-- Produção Vegetal
-- Regulamento
-- Pesticida
-- Produto Fitofarmacêutico
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Direcção Regional de Agricultura e Pescas
 - Fruticultura
 - Limite Máximo de Resíduos
+- Pesticida
+- Prestação de Serviços
+- Produção Vegetal
+- Produto Alimentar
+- Produto Fitofarmacêutico
+- Proteção do Ambiente
+- Receita Própria
+- Regulamento
+- Resíduo
 - TAXA de Prestação de Serviços
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:108284970:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:460175:por
+  label: "Alterado o art. 4.º do regulamento das taxas, aprovado pela Port 984/2008 de 02-Set, na redacção do presente diploma,\
+    \ pela PORT.8/2010.06.01.2010.MADRP, DR.IS [3] de 06.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/8-2010-460175
+  date: '2010-01-06'
 - type: cites
   target: celex:32005R0396
   label: null
@@ -97,16 +103,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/984/2008/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/984/2008/09/02/p/dre
+- type: repealed_by
+  target: pt:dre:108284970:por
+  label: Revogado, a partir de 11.11.2017, o art. 7.º do Regulamento de taxas anexo à Port 984/2008 de 02-set, com a redação
+    dada pela presente, pelo(a) Portaria n.º 298/2017 - Diário da República n.º 197/2017, Série I de 2017-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-2017-108284970
+  date: '2017-10-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:21Z'
   warnings: []
   errors: []
 ---
@@ -165,13 +177,13 @@ TABELA II
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf)
 
 TABELA III
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf)
 
 2 - ...
 
@@ -185,7 +197,9 @@ TABELA III
 
 7 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -205,13 +219,13 @@ TABELA III
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf)
 
 TABELA IV
 
 [...]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf)
 
 2 - ...
 
@@ -241,6 +255,6 @@ Pedidos relativos a limites máximos de resíduos
 
 TABELA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11000/0354903551.pdf)
 
 2 - A entrega dos pedidos é efectuada na DGADR simultaneamente com o pagamento das respectivas taxas.»

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/23200/40924099.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,122 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1988-354756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 632230d42b8d54b8a62469be5e7017c4ed1177936f167f64ad81196fa85abc9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66fe356a8a497b697d9fc56eea7d6789f4057f0d2d5cb89cb4020aeddb7c4b0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Secretaria Regional das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:274463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:618512:por
+  label: "Alterados os arts. 1º, 3º, 25º, 32º e aditado o art. 29º-A, pelo DRR.24/89/A.1989.07.24.GR-RAA, DR.IS [193] de 23/Ago/1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-1989-618512
+  date: '1989-07-24'
+- type: amended_by
+  target: pt:dre:573481:por
+  label: "Alterado o quadro de pessoal da Secretaria Regional das Finanças e do Planeamento, pelo DRR.26/90/A.1990.07.25.GR-RAA,\
+    \ DR.IS [182] de 08/Ago/1990, (na parte referente ao pessoal técnico, carreira técnica do património)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-1990-573481
+  date: '1990-07-25'
+- type: amended_by
+  target: pt:dre:294152:por
+  label: "Substituída a secção I da parte IV a que se refere o nº 2 do art. 31º, pelo DRR.32/91/A.1991.09.02.GR-RAA, DR.IS\
+    \ [226] de 01/Out/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-1991-294152
+  date: '1991-09-02'
+- type: amended_by
+  target: pt:dre:287861:por
+  label: "Alterado o quadro de pessoal, pelo DRR.28/92/A.1992.05.20.GR-RAA, DR.IS-B [154] de 07/Jul/1992 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-1992-287861
+  date: '1992-05-20'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571215:por
+  label: "Revogados (finda a integração prevista no n.º 1 do art. 9º do DRR 16/90/A) a al. h) do nº 1 do art. 31º e o art.\
+    \ 36º; e substituídas as secções B) e D) da parte V do quadro de pessoal da Secretaria Regional das Finanças e Planeamento,\
+    \ a que se refere o nº 2 do art. 31º, pelo DRR.16/90/A.1990.04.03.GR-RAA, DR.IS [100] de 02/Mai/1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1990-571215
+  date: '1990-04-03'
+- type: repealed_by
+  target: pt:dre:274463:por
+  label: "Revogado pelo DRR.11/93/A.1993.03.31.GR-RAA, DR.IS-B [107] de 08/Mai/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1993-274463
+  date: '1993-03-31'
 article_structure:
   article_count: 41
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:09Z'
   warnings: []
   errors: []
 ---
@@ -236,7 +318,9 @@ f) Zelar pela conservação do material da SRF e assegurar a actualização do r
 
 3 - O chefe de repartição será coadjuvado pelo chefe de secção.
 
-###### Artigo 10.º — Secção de Expediente e Arquivo
+###### Artigo 10.º
+
+#### Secção de Expediente e Arquivo
 
 À SEA compete:
 
@@ -332,7 +416,9 @@ i) Assegurar o tratamento dos assuntos referentes à dívida pública;
 
 j) Supervisionar o funcionamento das tesourarias.
 
-###### Artigo 15.º — Divisão de Acompanhamento e Avaliação
+###### Artigo 15.º
+
+##### Divisão de Acompanhamento e Avaliação
 
 São competências da DAA:
 
@@ -350,7 +436,9 @@ f) Assegurar o controle da movimentação e utilização dos fundos do Tesouro;
 
 g) Controlar as operações de tesouraria e coordenar a elaboração dos respectivos mapas.
 
-###### Artigo 16.º — Divisão de Operações Financeiras e Cambiais
+###### Artigo 16.º
+
+##### Divisão de Operações Financeiras e Cambiais
 
 São competências da DOFC:
 
@@ -384,7 +472,9 @@ d) Estabelecer ligação com o CI, fornecendo os elementos para a produção das
 
 e) Executar quaisquer outras actividades relacionadas com a gestão patrimonial que lhe sejam cometidas por lei ou por determinação superior.
 
-###### Artigo 18.º — Divisão de Gestão Patrimonial
+###### Artigo 18.º
+
+##### Divisão de Gestão Patrimonial
 
 São competências da DGP:
 
@@ -404,7 +494,9 @@ g) Vistoriar os prédios da Região e pronunciar-se sobre as obras que careçam 
 
 h) Assegurar os demais actos de gestão dos bens da Região, nos termos da lei.
 
-###### Artigo 19.º — Secção de Aquisição de Bens
+###### Artigo 19.º
+
+#### Secção de Aquisição de Bens
 
 À SAB compete, designadamente:
 
@@ -412,7 +504,9 @@ a) Promover a compra para a Região de bens imóveis ou a aquisição de direito
 
 b) Assegurar o processamento dos actos relativos a heranças, legados e doações a favor da Região.
 
-###### Artigo 20.º — Secção de Alienação e Arrendamento
+###### Artigo 20.º
+
+#### Secção de Alienação e Arrendamento
 
 À SAA compete, designadamente:
 
@@ -424,7 +518,9 @@ c) Assegurar o processamento dos actos relacionados com a alienação de bens da
 
 d) Assegurar o processamento dos actos relacionados com a cessão de bens da Região.
 
-###### Artigo 21.º — Divisão de Inspecção e Estudos Patrimoniais
+###### Artigo 21.º
+
+##### Divisão de Inspecção e Estudos Patrimoniais
 
 1 - São competências da DIEP:
 
@@ -514,7 +610,9 @@ a) Assegurar a preparação do orçamento regional e dos orçamentos privativos 
 
 b) Garantir o cumprimento dos objectivos superiormente fixados.
 
-###### Artigo 27.º — Divisão do Orçamento Regional
+###### Artigo 27.º
+
+##### Divisão do Orçamento Regional
 
 À DOR compete, em especial:
 
@@ -532,7 +630,9 @@ f) Estudar e propor métodos de aperfeiçoamento de gestão orçamental;
 
 g) Estudar e propor medidas fiscais de carácter normativo, tendo em conta as necessidades observadas.
 
-###### Artigo 28.º — Divisão dos Orçamentos Privativos
+###### Artigo 28.º
+
+##### Divisão dos Orçamentos Privativos
 
 À DOP compete, em especial:
 
@@ -678,14 +778,14 @@ d) O [Decreto Regulamentar Regional n.º 1/88/A](https://diariodarepublica.pt/dr
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 11 de Agosto de 1988.
 
-**O Presidente do Governo Regional, em exercício, Raul Gomes dos Santos.**
+O Presidente do Governo Regional, em exercício, Raul Gomes dos Santos.
 
-**Assinado em Angra do Heroísmo em 27 de Setembro de 1988.**
+Assinado em Angra do Heroísmo em 27 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 Mapa anexo a que se refere o artigo 31.º, n.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/23200/40924099.pdf))](https://files.diariodarepublica.pt/1s/1988/10/23200/40924099.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/23200/40924099.pdf)

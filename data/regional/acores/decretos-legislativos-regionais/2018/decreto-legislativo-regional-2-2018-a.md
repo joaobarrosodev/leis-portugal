@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2018/01/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114472724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5083cf4925bdf5bd9b6864a9803a0f5d0bb90734d480c2f847040521625640f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 902c76b5037609b34716715dcc8f322ceaa1ad7eee7b008edb97242c938b8258
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
 - Planeamento Regional
-- Desenvolvimento Económico
 - Plano Regional
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dr
@@ -112,16 +112,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/22/2011/10/18/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/22/2011/10/18/a/dre
+- type: cites
+  target: pt:dre:146919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70835506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70867667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75020428:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:22Z'
   warnings: []
   errors: []
 ---
@@ -142,11 +238,11 @@ A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 30 de novembro de 2017.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 29 de dezembro de 2017.**
+Assinado em Angra do Heroísmo em 29 de dezembro de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -184,7 +280,7 @@ Crescimento do Produto Interno Bruto
 
 Taxa de variação anual em percentagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Economia Portuguesa
 
@@ -214,7 +310,7 @@ Indicadores para a Economia Portuguesa
 
 Taxa de variação anual em percentagem (salvo indicação em contrário)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 I - Análise da Situação Económica e Social
 
@@ -228,7 +324,7 @@ Entretanto, assinale-se, uma certa recuperação derivada das variações terem 
 
 Decomposição da Evolução da População
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Os movimentos migratórios poderão refletir fatores sociais com alguma proximidade a condições de conjuntura, nomeadamente as melhorias tendenciais do mercado de trabalho, justificando assim a diminuição do saldo migratório observado.
 
@@ -236,7 +332,7 @@ Já os movimentos fisiológicos revelam uma certa tendência generalizada no con
 
 Evolução das Componentes dos Saldos Fisiológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Com efeito, esta tendência de redução da natalidade tem vindo a aproximar-se, mas ainda não chegou a descer ao nível observado no contexto do país. Efetivamente, em 2016, as taxas brutas de natalidade nos Açores e no país foram de 9,2 (por mil) e 8,3 (por mil), respetivamente.
 
@@ -244,7 +340,7 @@ A estrutura etária da população volta a mostrar uma redução de representati
 
 Estrutura Etária da População
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Durante o ano de 2016 realizaram-se 922 casamentos, o que representa um novo acréscimo em relação ao ano anterior. Esta evolução evidencia-se em relação ao registado em anos anteriores, nomeadamente entre 2011 e 2014 com uma sucessão de decréscimos.
 
@@ -260,7 +356,7 @@ Globalmente, a produção económica a nível regional tem vindo a assegurar o p
 
 Produto Interno Bruto - (Base 2011), a preços de mercado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Para a evolução posterior aos valores preliminares do PIB para 2015 editados pelo INE, são conhecidos dados do Indicador de Atividade Económica que apontam no sentido de um crescimento global durante o ano de 2016.
 
@@ -268,7 +364,7 @@ Efetivamente, apesar de alguma variabilidade dos dados mensais o valor médio an
 
 Indicador de Atividade Económica (IAE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 O Valor Acrescentado Bruto (VAB) regional, a preços correntes, atingiu o valor de 3 301,3 milhões de euros em 2015, prosseguindo numa linha de crescimento, cuja trajetória aponta no sentido da retoma económica após a declarada fase recessiva, com variações anuais negativas nos anos de 2011 e de 2012.
 
@@ -280,7 +376,7 @@ O ramo da construção voltou a decrescer, a uma intensidade mais contida, é ce
 
 VAB por Ramos de Atividades Económicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Mercado de trabalho
 
@@ -294,7 +390,7 @@ Tomando os apuramentos intra-anuais já conhecidos do corrente ano de 2017, pode
 
 Condição da População Perante o Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 A evolução da população empregada ocorreu no âmbito do crescimento no setor terciário e em contraposição ao setor primário.
 
@@ -306,7 +402,7 @@ O setor terciário atingiu uma representatividade de cerca de 75 % do total, vol
 
 População Ativa Empregada por Setores de Atividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Em termos de população ativa empregada segundo a profissão observa-se algum paralelismo com a descrição segundo os setores feita anteriormente.
 
@@ -314,7 +410,7 @@ Crescimentos em atividades do terciário, como as de pessoal de serviços e vend
 
 População Ativa Empregada, por Profissão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Preços no consumidor
 
@@ -330,7 +426,7 @@ Evolução intra-anual do IPC, base 2012
 
 (taxas de variação, %)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Na distribuição segundo as classes de despesas, a de Bebidas Alcoólicas e Tabaco registou a maior variação de preços, de 4,4 %. Todavia, o seu contributo para a evolução geral foi de apenas 0,2 %, enquanto a classe de Alimentares e Bebidas não Alcoólicas atingiu um contributo de 0,5 % devido à elevada ponderação (27,6 %) no cabaz de compras que serve de base ao cálculo do índice de preços no consumidor.
 
@@ -338,7 +434,7 @@ Já a classe de Vestuário e Calçado exerceu o maior efeito moderador para a ev
 
 Variação e Contribuição por Classes de Despesa, em 2016
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Indicadores de atividade económica
 
@@ -350,7 +446,7 @@ Outra linha de evolução positiva é observada em termos de indicadores mais li
 
 No que concerne à produção mais tradicional de sublinhar a situação das pescas. Sendo um setor onde grande parte do segmento do produto, peixe descarregado nas lotas, é sujeito às leis da oferta e procura do mercado, em termos de quantidades, de facto, o volume de peixe é menor, todavia, mercê dos preços formados no mercado, o rendimento retirado da produção compensa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 II - Políticas Setoriais Definidas para o Período Anual
 
@@ -742,7 +838,7 @@ Os objetivos estratégicos para estas duas áreas são:
 
 Assim, ao nível do investimento, destaca-se para 2018 a implementação de programas mobilizadores de investigação, tecnologia e inovação em setores cruciais para o desenvolvimento dos Açores, dando resposta a estes objetivos estratégicos.
 
-Pretende-se estabelecer um Plano de Internacionalização de Investigação, Desenvolvimento e Inovação dos Açores, cuja operacionalização a médio prazo possa contribuir para o desenvolvimento da Região e a sua projeção no Espaço Europeu de Investigação; para a captação de financiamento externo para os Açores, permitindo reforçar o eixo económico baseado em ID&I; para melhorar os índices de participação e de aprovação de entidades regionais, incluindo empresas, em programas de financiamento europeus/internacionais; para criar novas oportunidades de integração em redes internacionais de excelência.
+Pretende-se estabelecer um Plano de Internacionalização de Investigação, Desenvolvimento e Inovação dos Açores, cuja operacionalização a médio prazo possa contribuir para o desenvolvimento da Região e a sua projeção no Espaço Europeu de Investigação; para a captação de financiamento externo para os Açores, permitindo reforçar o eixo económico baseado em ID&I para melhorar os índices de participação e de aprovação de entidades regionais, incluindo empresas, em programas de financiamento europeus/internacionais; para criar novas oportunidades de integração em redes internacionais de excelência.
 
 O setor aeroespacial é também uma área crucial para a Região, como é evidente pelo investimento feito em infraestruturas e projetos desta natureza nos últimos dez anos. Pretende-se com este investimento beneficiar e desenvolver áreas como meteorologia e climatologia, oceanografia, geodesia, vulcanologia e sismologia, entre outras.
 
@@ -1256,15 +1352,15 @@ Para «Modernizar a Comunicação Institucional, Reforçar a Posição dos Açor
 
 Repartição do Investimento Público por Grandes Objetivos de Desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Investimento Público 2017 - Desagregação por Objetivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Investimento Público 2017 - Desagregação por Entidade Executora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Quadro Global de Financiamento da Administração Pública Regional
 
@@ -1274,7 +1370,7 @@ A componente principal de financiamento da despesa pública são receitas própr
 
 Em termos mais concretos e relativos ao Plano Regional para 2018 a dotação prevista é de 509,3 milhões de euros, num contexto de investimento público previsional de 757,9 milhões de euros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 IV - Desenvolvimento da Programação
 
@@ -1288,7 +1384,7 @@ Programa 1 - Empresas, Emprego e Eficiência Administrativa
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -1500,7 +1596,7 @@ Programa 2 - Agricultura, Florestas e Desenvolvimento Rural
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -1682,7 +1778,7 @@ Programa 3 - Pescas e Aquicultura
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -1806,7 +1902,7 @@ Programa 4 - Turismo
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -1874,7 +1970,7 @@ Programa 5 - Investigação, Desenvolvimento e Inovação
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -1948,7 +2044,7 @@ Programa 6 - Educação, Cultura e Desporto
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -2332,7 +2428,7 @@ Programa 7 - Juventude
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -2396,7 +2492,7 @@ Programa 8 - Desenvolvimento do Sistema de Saúde
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -2518,7 +2614,7 @@ Programa 9 - Solidariedade Social
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -2758,7 +2854,7 @@ Programa 10 - Habitação
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -2824,7 +2920,7 @@ Programa 11 - Ambiente e Energia
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -3076,7 +3172,7 @@ Programa 12 - Prevenção de Riscos e Proteção Civil
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -3178,7 +3274,7 @@ Programa 13 - Assuntos do Mar
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -3290,7 +3386,7 @@ Programa 14 - Transportes, Obras Públicas e Infraestruturas Tecnológicas
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -3644,7 +3740,7 @@ Programa 15 - Informação e Comunicação
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -3670,7 +3766,7 @@ Programa 16 - Relações Externas e Comunidades
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Programação material
 
@@ -3812,7 +3908,7 @@ Desde o arranque do atual período de programação até ao final do 1.º semest
 
 As dotações mais significativas disponibilizadas para financiamento comunitário das operações candidatas aos programas operacionais relacionam-se com o domínio da competitividade, destacando-se essencialmente os apoios ao fomento do investimento privado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 260 concursos abertos até junho de 2017
 
@@ -3822,7 +3918,7 @@ O número de avisos/concursos abertos desde então é tributário das caracterí
 
 Até junho de 2017, o número global de avisos/concursos abertos para os beneficiários finais da Região atingiu as 2,6 centenas, sendo mais de metade da responsabilidade do PRORURAL+. Por montantes o PO Açores 2020 será naturalmente o PO com um maior volume de recursos postos à disposição dos beneficiários. O crescimento mais forte de abertura de concursos verificou-se em meados 2016.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 A dinâmica dos avisos colocados a concurso
 
@@ -3830,7 +3926,7 @@ Dos 1,6 mil milhões de euros disponíveis para apoio comunitário para operaç�
 
 A dotação colocada em Avisos que, entretanto, já foram encerrados por ter atingido o limite do prazo para submissão de candidaturas ou por ter-se esgotado a dotação colocada a concurso atinge os 660 milhões de euros. Estão ainda concursos abertos aos beneficiários, que totalizam os 455 milhões de euros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Procura de Financiamento Comunitário e o Volume de Compromissos e de Contratualização
 
@@ -3838,19 +3934,19 @@ Comprometidos mais de 883 milhões de euros da dotação global Açores 2020
 
 Nos diferentes programas operacionais que os beneficiários finais da Região podem aceder, o volume de compromissos assumidos no conjunto das operações aprovadas e contratualizadas, à data de 30 de junho de 2017, representava mais de metade da dotação global do universo de programação dos Açores 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Situação atual de dinâmica equilibrada na evolução das taxas de compromisso
 
 Salvaguardando a questão específica do fundo europeu relativo aos assuntos do mar e das pescas, cujo programa operacional de âmbito nacional, por razões externas, entrou em execução vários meses mais tarde que os demais, e do Fundo de Coesão, que envolve um conjunto muito pequeno e restrito de operações e que tem uma calendarização diferenciada, não se registam desvios significativos na dinâmica das taxas de aprovação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 A economia e o emprego a absorver parte significativa dos fundos comprometidos
 
 Os financiamentos orientados para os sistemas de incentivos ao investimento privado e ações coletivas, o desenvolvimento rural, o emprego e a inclusão social afetaram mais de 2/3 do montante global de fundos comunitários comprometidos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 A Execução Financeira do Açores 2020
 
@@ -3864,7 +3960,7 @@ A média geral da taxa de execução dos fundos é influenciada pelo nível de e
 
 Em termos comparativos, utilizando o mesmo critério de aferição da execução dos fundos, a taxa apurada nos Açores, 24 %, é superior à taxa equivalente apurada no conjunto dos programas nacionais e regionais do Portugal 2020, que se quedou pelos 15 %, no mesmo período.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Mais de 400 milhões de euros de fundos comunitários injetados na economia regional
 
@@ -3872,7 +3968,7 @@ No final do 2.º trimestre de 2017 o volume de fundos comunitários pagos a bene
 
 Cruzando este montante com a execução com os valores da execução dos fundos retira-se que o nível de pagamentos é superior, por via de conter não apenas o reembolso da despesa efetuada, mas também alguns adiantamentos por conta de faturação apresentada por liquidar, regularizados em prazos acordados.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 ANEXOS
 
@@ -3880,16 +3976,18 @@ Investimento Público 2018
 
 Desagregação por Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
 
 Desagregação Espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf))](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2018/01/00500/0014000222.pdf)
+
+111032623

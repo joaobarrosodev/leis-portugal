@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/01/01800/02740275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1984-659931
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ac105dc6eb885f52323b01dc555201e0d97a4ce01b3075e90b4a7c55dd670f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 548f27a51faaf3d290bfb51d379c9054851c4e2365a4e3c7bc6efa29066d3d0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ensino Preparatório
+- Pessoal Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:636073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:329382:por
+  label: "Alterado o quadro de pessoal pela DRR.2/85/A.1984.12.27.GR-RAA, DR.IS [19] de 23/Jan/1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1985-329382
+  date: '1984-12-27'
+- type: cites
+  target: pt:dre:311439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470376:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:21Z'
   warnings: []
   errors: []
 ---
@@ -103,36 +133,36 @@ Usando da competência conferida pela alínea b) do n.º 1 do artigo 7.º do [De
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229,º da Constituição, o seguinte:
 
-###### Artigo 1.º Os quadros de pessoal docente das escolas preparatórias e secundárias da Região Autónoma dos Açores são os constantes dos mapas I e II anexos ao presente diploma.
+Artigo 1.º Os quadros de pessoal docente das escolas preparatórias e secundárias da Região Autónoma dos Açores são os constantes dos mapas I e II anexos ao presente diploma.
 
-###### Art. 2.º Os provimentos do pessoal docente a que se refere o artigo anterior far-se-ão nos termos do [Decreto-Lei n.º 258/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1980-470376), de 31 de Julho, respeitando as regras de competência das entidades regionais.
+Art. 2.º Os provimentos do pessoal docente a que se refere o artigo anterior far-se-ão nos termos do [Decreto-Lei n.º 258/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1980-470376), de 31 de Julho, respeitando as regras de competência das entidades regionais.
 
-###### Art. 3.º Os docentes que vierem a obter provimento nos lugares constantes do mapa I a que se refere o artigo 1.º em grupos ou subgrupos do curso unificado do ensino secundário transitarão para iguais grupos ou subgrupos da escola secundária que eventualmente venha a ser criada no concelho onde se situa a escola preparatória.
+Art. 3.º Os docentes que vierem a obter provimento nos lugares constantes do mapa I a que se refere o artigo 1.º em grupos ou subgrupos do curso unificado do ensino secundário transitarão para iguais grupos ou subgrupos da escola secundária que eventualmente venha a ser criada no concelho onde se situa a escola preparatória.
 
-###### Art. 4.º É revogado o [Decreto Regulamentar Regional n.º 6/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1983-311439), de 22 de Fevereiro.
+Art. 4.º É revogado o [Decreto Regulamentar Regional n.º 6/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1983-311439), de 22 de Fevereiro.
 
-###### Art. 5.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura, consoante a sua natureza.
+Art. 5.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura, consoante a sua natureza.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 10 de Dezembro de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 10 de Janeiro de 1984.**
+Assinado em Angra do Heroísmo em 10 de Janeiro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 MAPA I
 
 (a que se refere o artigo 1.º do presente diploma)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01800/02740275.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01800/02740275.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01800/02740275.pdf)
 
 MAPA II
 
 (a que se refere o artigo 1.º do presente diploma)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/01/01800/02740275.pdf))](https://files.diariodarepublica.pt/1s/1984/01/01800/02740275.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01800/02740275.pdf)

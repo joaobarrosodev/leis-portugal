@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00400/0001400056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2025/01/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e46cb343c0f4642210ef7c7213fe93e80920ee31f27b79785c92f5e253d4083
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95123cc528283154433260db385926233c87efe29c4823e87644b8dcd9793067
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
 - Acesso ao Emprego
 - Apoio à Criação do Próprio Emprego
-- Empreendedorismo
+- Apoio ao Investimento
 - Bolsa de Estágio
-- Formação Profissional
 - Compensação Financeira
+- Contrato de Trabalho
 - Contrato de Trabalho a Termo
+- Criação de Emprego
+- Deficiente
 - Definição de Competências
 - Desempregado
-- Apoio ao Investimento
-- Criação de Emprego
+- Empreendedorismo
 - Estágio de Formação
+- Formação Profissional
 - Projeto
-- Contrato de Trabalho
-- Trabalho a Tempo Parcial
 - Remuneração
+- Trabalho a Tempo Parcial
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/11/2012/03/26/a/dre
@@ -103,16 +103,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/3/2013/05/21/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/3/2013/05/21/a/dre
+- type: cites
+  target: pt:dre:205994958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212050289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572097:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:29/2000/A
+  label: Revoga, a partir de 8 de janeiro de 2025, nos termos da alínea a) do artigo 126.º do presente diploma, o Decreto
+    Regulamentar Regional n.º 29/2000/A, de 13 de setembro, Diário da República n.º 212/2000, Série I-B
+  source: null
+  date: '2000-09-13'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:13/2023/A
+  label: Revoga, a partir de 8 de janeiro de 2025, nos termos da alínea b) do artigo 126.º do presente diploma, o Decreto
+    Regulamentar Regional n.º 13/2023/A, de 20 de abril, Diário da República n.º 78/2023, Série I
+  source: null
+  date: '2023-04-20'
 article_structure:
   article_count: 127
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:08Z'
   warnings: []
   errors: []
 ---
@@ -947,7 +979,7 @@ h) Manter os requisitos de elegibilidade referidos no n.º 1 do artigo 54.º
 
 3 - No caso de contrato de trabalho por tempo indeterminado a tempo parcial o apoio previsto no número anterior é reduzido proporcionalmente.
 
-4 - Os apoios previstos nos n.<sup>os</sup>2 e 3 do presente artigo são atribuídos durante o período de quatro anos.
+4 - Os apoios previstos nos n.os2 e 3 do presente artigo são atribuídos durante o período de quatro anos.
 
 #### SECÇÃO III — CONVERSÃO DE CONTRATOS DE TRABALHO
 
@@ -999,11 +1031,11 @@ c) Quando o posto de trabalho seja ocupado por pessoa com deficiência e incapac
 
 3 - Quando o contrato de trabalho seja celebrado por tempo indeterminado, a tempo completo ou parcial, os apoios previstos nos números anteriores são atribuídos durante um período de seis anos.
 
-4 - Quando o contrato de trabalho seja celebrado a termo certo, a tempo completo ou parcial, os apoios previstos nos n.<sup>os</sup> 1 e 2 são atribuídos pelo prazo de duração do contrato de trabalho inicial.
+4 - Quando o contrato de trabalho seja celebrado a termo certo, a tempo completo ou parcial, os apoios previstos nos n.os 1 e 2 são atribuídos pelo prazo de duração do contrato de trabalho inicial.
 
 ###### Artigo 68.º — Conversão
 
-À entidade empregadora que converta o contrato de trabalho a termo certo, celebrado com pessoa com deficiência e incapacidade, em contrato de trabalho por tempo indeterminado, é atribuído um apoio correspondente a 60 % do apoio total atribuído no âmbito dos n.<sup>os</sup> 1 e 2 do artigo anterior, devendo a entidade empregadora manter o posto de trabalho apoiado durante quatro anos.
+À entidade empregadora que converta o contrato de trabalho a termo certo, celebrado com pessoa com deficiência e incapacidade, em contrato de trabalho por tempo indeterminado, é atribuído um apoio correspondente a 60 % do apoio total atribuído no âmbito dos n.os 1 e 2 do artigo anterior, devendo a entidade empregadora manter o posto de trabalho apoiado durante quatro anos.
 
 ###### Artigo 69.º — Disposições aplicáveis
 
@@ -1669,10 +1701,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Povoação, em 13 de novembro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 26 de dezembro de 2024.**
+Assinado em Angra do Heroísmo em 26 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+118511565

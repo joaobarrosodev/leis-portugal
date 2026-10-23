@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/03/050a00/10931095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1999/03/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1999-152549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25d1c2403466694174f91008973c2835dcdfa4ec22d91283bc7514a81361caa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 982cc2291186f851b27deeb8f0f0847a31283f67cea81dfc54bd2543a7bceea4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,27 @@ reuse:
 subjects:
 - Administração dos Portos da Região Autónoma da Madeira
 - Criação de Serviços
-- Recursos Hídricos
 - Definição de Competências
-- Domínio Público Marítimo
-- Orla Costeira
-- Protecção do Litoral
-- Gestão dos Recursos
-- Gabinete de Gestão do Litoral
-- Plano de Ordenamento da Orla Costeira
-- Madeira.região Autónoma
 - Domínio Público Hídrico
+- Domínio Público Marítimo
+- Gabinete de Gestão do Litoral
+- Gestão dos Recursos
+- Madeira.região Autónoma
+- Orla Costeira
+- Plano de Ordenamento da Orla Costeira
+- Protecção do Litoral
+- Recursos Hídricos
 relationships:
 - type: amended_by
   target: pt:dre:592760:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:592760:por
+  label: "Extinto o Gabinete de Gestão do Litoral e revogado o presente diploma pelo DLR.4-A/2001/M.2001.03.30.ALR-RAM DR.IS-A\
+    \ [79]Supl de 03/Abr/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-a-2001-592760
+  date: '2001-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/1996/07/11/m/dre
   label: null
@@ -98,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:422987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:43Z'
   warnings: []
   errors: []
 ---
@@ -226,10 +256,10 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 19 de Janeiro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 10 de Fevereiro de 1999.**
+Assinado em 10 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

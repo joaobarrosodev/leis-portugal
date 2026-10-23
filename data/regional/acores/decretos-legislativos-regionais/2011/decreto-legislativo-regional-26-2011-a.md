@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/2011/11/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58ce27c2679d290fea794f6752b5dc7ae8fd627859310934e78b503e4375e5a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91ab22aa4fbc349e6feed66c4bb3e4909a8f85941407820203f8ce4f2ed65619
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Investigação Científica e Tecnológica
-- Transporte Marítimo
+- Açores
+- Apoio ao Investimento
+- Comércio
 - Comparticipação
 - Contrato
+- Desenvolvimento Económico
+- Desenvolvimento Local
 - Desenvolvimento Regional
 - Energia Renovável
 - Equipamento Social
-- Estabelecimento de Restauração
-- Fiscalização
-- Apoio ao Investimento
-- Indústria
-- Desenvolvimento Económico
-- Urbanismo
 - Estabelecimento de Ensino
-- Desenvolvimento Local
+- Estabelecimento de Restauração
+- Financiamento
+- Fiscalização
+- Indústria
+- Infraestrutura Turística
+- Investigação Científica e Tecnológica
 - Sider
-- Açores
 - Subsídio
 - Subsídio não Reembolsável
-- Comércio
-- Infraestrutura Turística
+- Transporte Marítimo
+- Turismo
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:73070297:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:544588:por
+  label: "Dada nova redação ao art. 15º do DLR 19/2002/A de 23-Jul, alterado e republicado pelo presente diploma, pelo DLR.3/2012/A.13.01.2012.AL-RAA,\
+    \ DR.IS [10] de 13.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2012-544588
+  date: '2012-01-13'
+- type: amended_by
+  target: pt:dre:570685:por
+  label: "Suspensa, durante o ano de 2014, a obrigação de reembolso de incentivo (nos termos definidos no n. 2 do art. 39º\
+    \ do DLR 2/2014/A), prevista no nº 3 do art. 22.º, nº 3 do art. 27.º e n.º 4 do art. 32.º, e dada nova redação ao art.\
+    \ 40º do DLR 19/2007/A de 23-jul, alterado e republicado pelo presente diploma, pelo DLR.2/2014/A.29.01.2014.AL-RAA, DR.IS\
+    \ [20] de 29.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2014-570685
+  date: '2014-01-29'
+- type: amended_by
+  target: pt:dre:66041469:por
+  label: Dada nova redação ao art. 40.º do DLR 19/2007/A de 23-jul, alterado, renumerado e republicado pelo presente diploma,
+    pelo(a) Decreto Legislativo Regional n.º 1/2015/A - Diário da República n.º 4/2015, Série I de 2015-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2015-66041469
+  date: '2015-01-07'
+- type: amended_by
+  target: pt:dre:73070297:por
+  label: Alterado o art. 15.º do DLR 19/2007/A de 23-jul, com a redação dada pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2016-73070297
+  date: '2016-01-08'
 - type: cites
   target: celex:32006R1083
   label: null
@@ -106,16 +132,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/19/2007/07/23/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/19/2007/07/23/a/dre
+- type: repealed_by
+  target: pt:dre:25345896:por
+  label: Revogado, a partir de 01.07.2014, o DLR 19/2007/A, de 23-jul, na redação do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 12/2014/A - Diário da República n.º 130/2014, Série I de 2014-07-09, sem prejuízo do disposto no seu art.
+    25º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2014-25345896
+  date: '2014-07-09'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:14/2009/A
+  label: "Revoga o Decreto Regulamentar Regional n.º 14/2009/A, de 12-Out, DR IS [197]\0\0"
+  source: null
+  date: '2009-10-19'
 article_structure:
-  article_count: 74
+  article_count: 48
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:22Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +208,9 @@ e) (Revogada.)
 
 5 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Sem prejuízo das condições e dos limites que venham a ser fixados em cada um dos regulamentos dos diversos subsistemas, consideram-se elegíveis para efeitos de cálculo do incentivo as seguintes despesas:
 
@@ -210,7 +250,9 @@ v) Despesas com garantias bancárias exigidas ao promotor.
 
 5 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 Não são elegíveis as despesas com:
 
@@ -238,17 +280,23 @@ l) [Anterior alínea j).]
 
 m) [Anterior alínea l).]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 As candidaturas ao SIDER são apresentadas exclusivamente através de formulário electrónico disponível no Portal do Governo.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As candidaturas das empresas ao Desenvolvimento Local, no caso de investimentos até (euro) 200 000, são analisadas pela Câmara do Comércio e Indústria dos Açores, através das suas associadas, mediante protocolos a celebrar com o departamento do Governo Regional com competência em matéria de economia, nos quais será definido o seu âmbito de intervenção, ou pelo departamento do Governo Regional com competência em matéria de economia, caso seja esta a opção do promotor.
 
 2 - As candidaturas das empresas ao Desenvolvimento Local, no caso de investimentos superiores a (euro) 200 000, e de projectos apresentados pelas estruturas associativas ou associações empresariais, e as candidaturas ao Desenvolvimento do Turismo, Desenvolvimento Estratégico e Desenvolvimento da Qualidade e Inovação são analisadas pelo departamento do Governo Regional com competência em matéria de economia.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - A concessão do incentivo é formalizada mediante contrato a celebrar, por documento particular, entre a Região, através do departamento do Governo Regional com competência em matéria de economia, e o promotor, no prazo máximo de 30 dias úteis contados da data da notificação da decisão da concessão.
 
@@ -258,7 +306,9 @@ As candidaturas ao SIDER são apresentadas exclusivamente através de formulári
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +316,9 @@ As candidaturas ao SIDER são apresentadas exclusivamente através de formulári
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -276,7 +328,9 @@ As candidaturas ao SIDER são apresentadas exclusivamente através de formulári
 
 4 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -290,7 +344,9 @@ As candidaturas ao SIDER são apresentadas exclusivamente através de formulári
 
 6 - O promotor pode ainda recorrer ao adiantamento da componente não reembolsável do incentivo, até 30 % do valor aprovado, mediante a apresentação de garantia bancária de valor idêntico, devendo executar o investimento correspondente no prazo máximo de um ano contado a partir da data de concessão do adiantamento.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 ...
 
@@ -320,7 +376,9 @@ m) ...
 
 n) ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -344,13 +402,17 @@ c) Projectos de urbanismo comercial, com despesas iguais ou superiores a (euro) 
 
 3 - (Revogado.)
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
 2 - Podem beneficiar dos incentivos previstos na alínea c) do n.º 1 do artigo anterior estruturas associativas do comércio ou as associações empresariais.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -376,7 +438,9 @@ i) Contributo do projecto para a sustentabilidade económica, ambiental e social
 
 3 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea a) do n.º 1 do artigo 19.º reveste a forma de subsídio não reembolsável e reembolsável sem juros, de acordo com os seguintes escalões de investimento:
 
@@ -398,7 +462,9 @@ c) Superior a (euro) 500 000, subsídio não reembolsável, com uma taxa base de
 
 7 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 ...
 
@@ -410,7 +476,9 @@ c) Organismo coordenador - direcção regional com competência em matéria de a
 
 d) ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -430,7 +498,9 @@ c) ...
 
 2 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - ...
 
@@ -456,7 +526,9 @@ i) Contributo do projecto para a sustentabilidade económica, ambiental e social
 
 3 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - O incentivo a conceder às despesas elegíveis para os projectos a que se refere a alínea a) do n.º 1 do artigo 24.º reveste a forma de subsídio não reembolsável e reembolsável sem juros, de acordo com os seguintes escalões de investimento:
 
@@ -490,11 +562,15 @@ ii) Subsídio não reembolsável, com uma taxa base de 30 % para as ilhas de Sã
 
 7 - (Revogado.)
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 As entidades responsáveis pela gestão do Desenvolvimento do Turismo são a direcção regional com competência em matéria de apoio ao investimento, para os projectos a que se refere a alínea a) do n.º 1 do artigo 24.º, e a direcção regional com competência em matéria de turismo, para os projectos a que se refere a alínea b) do n.º 1 do artigo 24.º, e a comissão de selecção.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -530,7 +606,9 @@ n) Investigação e desenvolvimento tecnológico, que visem o reforço da compet
 
 4 - (Revogado.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -550,7 +628,9 @@ f) Contributo do projecto para a sustentabilidade económica, ambiental e social
 
 3 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - O incentivo a conceder às despesas elegíveis reveste a forma de subsídio não reembolsável e reembolsável sem juros, de acordo com a seguinte metodologia:
 
@@ -570,11 +650,15 @@ b) Nos projectos a que se referem as alíneas a), c), g), h), i), j), l), m) e n
 
 7 - (Revogado.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 As entidades responsáveis pela gestão do Desenvolvimento Estratégico são a direcção regional com competência em matéria de apoio ao investimento e a comissão de selecção.
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - São susceptíveis de apoio, no âmbito do Desenvolvimento da Qualidade e Inovação, projectos vocacionados para estimular a qualidade e inovação nas empresas, com investimento igual ou superior a (euro) 15 000 e igual ou inferior a (euro) 500 000.
 
@@ -582,7 +666,9 @@ As entidades responsáveis pela gestão do Desenvolvimento Estratégico são a d
 
 3 - (Revogado.)
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -600,7 +686,9 @@ e) Contributo do projecto para a sustentabilidade económica, ambiental e social
 
 3 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - O incentivo a conceder às despesas elegíveis reveste a forma de subsídio não reembolsável, com uma taxa base de 55 % para as ilhas de São Miguel e Terceira, 60 % para as ilhas de Faial e Pico e 65 % para as restantes ilhas.
 
@@ -608,7 +696,9 @@ e) Contributo do projecto para a sustentabilidade económica, ambiental e social
 
 3 - (Revogado.)
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 As entidades responsáveis pela gestão do Desenvolvimento da Qualidade e Inovação são a direcção regional com competência em matéria de apoio ao investimento e a comissão de selecção.»
 
@@ -642,11 +732,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 29 de Setembro de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 17 de Outubro de 2011.**
+Assinado em Angra do Heroísmo em 17 de Outubro de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/29-1979-365907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e45ab97cc7fd34c62845652361200e452e879e204d0fc65874156d823211efa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa500bfbe24a8d334b0a7461d92e81a4ee6f35dd161940532a4b42118ccab5b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Atividade Industrial
+- Desenvolvimento Industrial
+- Direcção Regional da Indústria
+- Fiscalização
+- Indústria
+- Investimento
+- Secretaria Regional do Comércio e Indústria
+relationships:
+- type: corrected_by
+  target: pt:dre:679073:por
+  label: Rectificado pela DECL.DD6770.22.02.1980.PCM, DR.IS [59] de 11.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-679073
+  date: '1980-02-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:03Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +101,7 @@ O aumento de industrialização verificado nos últimos anos impõe que se dote 
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Princípio de liberdade)
 
@@ -98,13 +111,13 @@ A instalação de novas indústrias na Região Autónoma dos Açores obedecerá:
 
 2 - Às regras disciplinadoras e reservas contidas no presente diploma.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Princípio de equilíbrio)
 
 Em ordem ao estabelecido no n.º 1 do artigo anterior, e sempre que se trate de zonas consideradas deprimidas, o Governo Regional regulamentará o sistema de incentivos destinados a canalizar para estas zonas os investimentos adequados.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Regras a observar na instalação)
 
@@ -122,7 +135,7 @@ c) A identificação do produto ou produtos e às normas de fabrico a que estes 
 
 d) À aprovação dos estatutos da sociedade que vá executar a autorização e ao montante e composição do respectivo capital social.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Requisitos dos pareceres)
 
@@ -140,7 +153,7 @@ e) A possibilidade de comercialização dos produtos que venham a ser fabricados
 
 f) Quaisquer outros elementos que possam completar e esclarecer os constantes do número anterior.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Fixação de requisitos específicos)
 
@@ -150,7 +163,7 @@ f) Quaisquer outros elementos que possam completar e esclarecer os constantes do
 
 3 - Na falta de cumprimento das condições impostas dentro do prazo fixado, não se poderá dar início à actividade industrial.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Indústrias sujeitas a legislação especial)
 
@@ -170,7 +183,7 @@ f) Fabricação e refinação de açúcar;
 
 g) Produção de álcool.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Apresentação e condições dos requerimentos)
 
@@ -188,7 +201,7 @@ d) Indicação do local onde está instalada ou se pretende instalar a unidade i
 
 3 - O requerimento será obrigatoriamente instruído com o estudo previsional de viabilidade económica do empreendimento e com o modelo de análise de instalação industrial anexo a este diploma, devidamente preenchido.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Publicação dos despachos)
 
@@ -198,13 +211,13 @@ d) Indicação do local onde está instalada ou se pretende instalar a unidade i
 
 3 - Este prazo contar-se-á, porém, a partir da entrega de elementos ou esclarecimentos adicionais que, porventura, tenham sido pedidos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Casos de indeferimento)
 
 O requerimento será indeferido quando não seja explícito quanto à actividade a exercer ou se refira a indústria incluída no artigo 5.º deste diploma.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Exemplares do requerimento e nota dos documentos anexos)
 
@@ -212,25 +225,25 @@ O requerimento será indeferido quando não seja explícito quanto à actividade
 
 2 - No requerimento indicar-se-ão, em nota, todos os documentos que o acompanham.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Apresentação de pedidos para sociedades a constituir)
 
 Os pedidos poderão ser apresentados em nome da sociedade a constituir, devendo, nesse caso, os requerentes obrigar-se a subscrever a maioria do respectivo capital social, sem prejuízo de outras condições especiais que vierem a ser fixadas nos despachos de autorização.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (verificação da observância de requisitos)
 
 Até trinta dias antes da data prevista para o início da laboração da nova unidade industrial, o interessado formulará para comprovação da observância dos requisitos técnicos, económicos e financeiros apresentado em duplicado, sendo selado o original, o qual será acompanhado por todos os elementos para a aludida verificação.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Notificação da vistoria)
 
 A Secretaria Regional do Comércio e Indústria, verificando encontrarem-se cumpridos os requisitos económicos e financeiros referidos no artigo anterior, notificará o requerente da data em que se procederá à vistoria para a verificação dos requisitos técnicos, que será realizada nos trinta dias subsequentes ao da apresentação do requerimento, não podendo iniciar-se a laboração antes da efectivação da vistoria.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Início da laboração)
 
@@ -240,19 +253,19 @@ A Secretaria Regional do Comércio e Indústria, verificando encontrarem-se cump
 
 3 - Se a segunda vistoria concluir estarem cumpridos os requisitos exigidos, será imediatamente autorizado o início da laboração pela forma prescrita no número 1 deste artigo, e no caso contrário esse início impedido até que sejam cumpridos os requisitos exigidos, em prazo fixado por despacho, sob pena de selagem dos maquinismos instalados e definitiva denegação da autorização.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Vistoria)
 
 A vistoria para a verificação dos requisitos técnicos compete à Direcção Regional de Indústria e será efectuada conjuntamente com a prevista no regulamento de instalação e laboração de estabelecimentos industriais.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Competência para a fiscalização)
 
 A fiscalização do cumprimento do disposto neste decreto regional compete à Direcção Regional de Indústria, sem prejuízo da competência atribuída a outros serviços em domínios específicos.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Autos de notícia)
 
@@ -260,25 +273,25 @@ A fiscalização do cumprimento do disposto neste decreto regional compete à Di
 
 2 - O auto de notícia será lavrado nos termos do artigo 166.º do Código de Processo Penal e terá a força probatória prevista no artigo 169.º daquele diploma, mesmo que não contenha a indicação de testemunhas.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Penalidades no caso de violação das normas deste diploma)
 
 O não cumprimento das obrigações impostas no presente diploma será punido com a multa de 1000$00 a 10000$00, graduada de acordo com a natureza da infracção, designadamente a ausência de dolo, o prejuízo ou risco de prejuízo dela derivados para a economia regional, os antecedentes do infractor e a sua capacidade económica, competindo a sua aplicação ao Secretário Regional do Comércio e Indústria.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Cobrança coerciva das multas)
 
 Se o transgressor não pagar a multa no prazo de dez dias a contar da notificação, remeter-se-á certidão com os elementos necessários ao competente tribunal das contribuições e impostos, para cobrança coerciva.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Apreensão dos produtos)
 
 Os produtos que foram fabricados com inobservância das disposições do presente diploma serão apreendidos e declarados perdidos a favor da Região por despacho do Secretário Regional do Comércio e Indústria.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Colaboração de autoridades na fiscalização)
 
@@ -286,31 +299,31 @@ As autoridades administrativas e policiais deverão colaborar na fiscalização 
 
 DISPOSIÇÕES GERAIS
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Revogação por incumprimento de despachos)
 
 Os despachos que tiverem deferido a instalação de novas unidades serão revogados no caso de persistente incumprimento da legislação respeitante à qualidade dos produtos ou à higiene, segurança e salubridade das instalações.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Recurso)
 
 Dos factos definitivos e executórios praticados em execução deste diploma cabe recurso contencioso, nos termos estabelecidos pela lei administrativa.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Obrigatoriedade do fornecimento de informações)
 
 A Direcção Regional de Indústria poderá exigir às empresas o fornecimento dos elementos necessários para verificar o cumprimento das condições estabelecidas relativamente à sua actividade industrial.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Cadastro e seus elementos)
 
 Todas as unidades industriais em laboração ou a instalar na Região constarão de cadastro próprio, a organizar pela Direcção Regional de Indústria, do qual constem o âmbito e condições de autorização de que cada unidade seja titular, elaborado de acordo com a classificação das actividades económicas.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Indústrias excluídas)
 
@@ -318,14 +331,14 @@ Este decreto regional não se aplica a pequenas indústrias domésticas ou artes
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 7 de Junho de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 19 de Novembro de 1979.**
+Assinado em Angra do Heroísmo em 19 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/29600/33443350.pdf))](https://files.diariodarepublica.pt/1s/1979/12/29600/33443350.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29600/33443350.pdf)
 
-**O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.

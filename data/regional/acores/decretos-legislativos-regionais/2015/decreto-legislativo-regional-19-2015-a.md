@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15800/0593605966.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2015/08/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2015-70014797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1dffa09fc8f7e06c114704aebc154fd7051f6fc9a49a3948770e1365c788170
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1ff2291bddb9e567bc8ac9e7181c40e3d7f7aedae1b880d10897e300b77c82d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Extracção de Inertes
-- Região Autónoma
-- Ordenamento do Território
+- Açores
 - Definição de Competências
-- Recursos Minerais
+- Extracção de Inertes
 - Indústria
 - Indústria Mineira
-- Política de Solos
+- Ordenamento do Território
 - Plano Regional de Ordenamento do Território
+- Política de Solos
+- Recursos Minerais
 - Recursos Naturais
-- Açores
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.p
@@ -118,16 +118,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/43/2008/10/08/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/43/2008/10/08/a/dre
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653285:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:02Z'
   warnings: []
   errors: []
 ---
@@ -308,11 +380,11 @@ O PAE entra em vigor no dia seguinte ao da sua publicação e vigora enquanto se
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de maio de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 17 de julho de 2015.**
+Assinado em Angra do Heroísmo em 17 de julho de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -840,16 +912,16 @@ NE33. De acordo com a NE2, para a ilha do Corvo considera-se, à data de aprova�
 
 [a que se refere a alínea h) do n.º 1 do artigo 3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15800/0593605966.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15800/0593605966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15800/0593605966.pdf)
 
 ## ANEXO III — Planta de condicionantes à exploração
 
 [a que se refere a alínea i) do n.º 1 do artigo 3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15800/0593605966.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15800/0593605966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15800/0593605966.pdf)
 
 ## ANEXO IV — Planta com a identificação das áreas consolidadas de extrações de recursos minerais não metálicos em atividade, licenciadas ou não, e desativadas
 
 [a que se refere a alínea j) do n.º 1 do artigo 3.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2015/08/15800/0593605966.pdf))](https://files.diariodarepublica.pt/1s/2015/08/15800/0593605966.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15800/0593605966.pdf)

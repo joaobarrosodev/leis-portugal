@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/081a00/18601862.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/1999/04/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1999-549059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ee5204c0ae3e3eb0ea002627e82905efd5e45c6aed1675ca0f51a25bd6ba03d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e9e106521a9417f21c77bfc1f1fa7077945f437aaad0541fbc89c782aa1ef46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Conselho Consultivo Regional
 - Conselho Consultivo Regional de Juventude
 - Criação de Serviços
 - Definição de Competências
 - Política de Juventude
 - Secretaria Regional da Juventude e Recursos Humanos
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:455886:por
@@ -81,16 +81,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/11/1995/07/26/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/11/1995/07/26/a/dre
+- type: cites
+  target: pt:dre:484983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571473:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455886:por
+  label: "Revogado, a partir de 12.07.2008, pelo DLR.18/2008/A.07.07.2008.AL-RAA, DR.IS [129] de 07.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2008-455886
+  date: '2008-07-07'
 article_structure:
-  article_count: 9
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:04Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +138,9 @@ Os artigos 1.º, 2.º, 3.º, 7.º e 9.º do [Decreto Legislativo Regional n.º 9
 
 O Conselho Regional de Juventude, adiante designado por CRJ, é o órgão de consulta do Governo Regional sobre matérias respeitantes à juventude.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Compete ao CRJ:
 
@@ -141,7 +156,9 @@ e) Exercer as demais competências que lhe sejam atribuídas por lei.
 
 2 - Em relação à alínea b) do número anterior, o Governo Regional solicitará sempre parecer ao Conselho.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - O CRJ é composto por:
 
@@ -189,13 +206,17 @@ u) Três representantes das associações de juventude inscritas no respectivo r
 
 3 - As entidades representadas no CRJ podem substituir os seus representantes temporária ou definitivamente.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os membros do CRJ têm direito a senhas de presença e de transporte para participação em reuniões do Conselho ou das comissões de que façam parte.
 
 2 - O montante dessas senhas será fixado por despacho do Secretário Regional da Educação e Assuntos Sociais, sendo as respectivas despesas suportadas pelo seu Gabinete.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 O CRJ aprova o seu regulamento interno, na primeira reunião plenária de cada ano, pelo voto de metade e mais um dos membros presentes.»
 
@@ -211,7 +232,9 @@ Presidência
 
 2 - Em caso de ausência ou impedimento, a presidência será assumida pelo director regional da Juventude, Emprego e Formação Profissional.
 
-###### Artigo 3.º-B — Observadores
+Artigo 3.º-B
+
+Observadores
 
 1 - O CRJ pode deliberar por maioria simples e sob proposta de pelo menos cinco dos seus membros a atribuição do estatuto de observador a qualquer entidade pública ou privada.
 
@@ -219,7 +242,7 @@ Presidência
 
 3 - O estatuto de observador poderá ser retirado a qualquer altura por deliberação do Conselho.
 
-###### Artigo 10.º-A
+Artigo 10.º-A
 
 É revogado o [Decreto Legislativo Regional n.º 11/95/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1995-484983), de 26 de Julho.»
 
@@ -229,10 +252,10 @@ O presente diploma entra imediatamente em vigor.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 23 de Fevereiro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 17 de Março de 1999.**
+Assinado em Angra do Heroísmo em 17 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00500/0004400049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2025/01/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2025-902264457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 161358837555a25ec6e40c43159dfe7ee165608a62b66237bc790e18e74ebe46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bc93cb5cc874987f2b78cb8bdc1e85cf3d9d5ea7a05c53e15c70e6f4eefa266
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção do Ambiente
+- Açores
 - Produção Agrícola
 - Produto Fitofarmacêutico
-- Açores
+- Proteção do Ambiente
 - ZONA Urbana
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:28/2020/A
+  label: Altera, a partir de 9 de janeiro de 2025, os artigos 1.º e 6.º, adita os artigos 3.º-A e 3.º-B, revoga o artigo 6.º
+    e republica o Decreto Legislativo Regional n.º 28/2020/A, de 19 de outubro, Diário da República n.º 203/2020, Série I
+  source: null
+  date: '2020-10-19'
 - type: cites
   target: celex:32017R2324
   label: null
@@ -100,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
+- type: cites
+  target: pt:dre:145714402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162067646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179198817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608226:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:5/2021/A
+  label: Revoga, a partir de 9 de janeiro de 2025, nos termos da alínea b) do artigo 4.º do presente diploma, o Decreto Regulamentar
+    Regional n.º 5/2021/A, de 26 de abril, Diário da República n.º 80/2021, Série I
+  source: null
+  date: '2021-04-26'
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:4/2022/A
+  label: Revoga, a partir de 9 de janeiro de 2025, nos termos da alínea c) do artigo 4.º do presente diploma, o Decreto Legislativo
+    Regional n.º 4/2022/A, de 17 de fevereiro, Diário da República n.º 34/2022, Série I
+  source: null
+  date: '2022-02-17'
 article_structure:
-  article_count: 17
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:21Z'
   warnings: []
   errors: []
 ---
@@ -170,7 +208,9 @@ Os artigos 1.º e 6.º do [Decreto Legislativo Regional n.º 28/2020/A](https://
 
 É proibida a aplicação, na Região Autónoma dos Açores, de quaisquer produtos fitofarmacêuticos contendo glifosato, sob qualquer forma, nos espaços públicos, nos termos dos artigos seguintes.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 (Revogado.)»
 
@@ -190,7 +230,9 @@ b) Nos espaços de lazer e nas vias de comunicação terrestre, incluindo numa f
 
 2 - A proibição a que se refere a alínea a) do número anterior não se aplica a zonas específicas de produção agrícola e florestal, integradas em estabelecimentos de ensino com formação nessas áreas, desde que a aplicação dos produtos referidos no número anterior ocorra no contexto dos respetivos planos de formação.
 
-###### Artigo 3.º-B — Autorização excecional
+Artigo 3.º-B
+
+Autorização excecional
 
 1 - Sem prejuízo do disposto no artigo anterior, é autorizada, excecionalmente, a aplicação de produtos fitofarmacêuticos contendo glifosato, em áreas geográficas limitadas abrangidas pelo disposto no artigo anterior, a fim de prevenir ou corrigir situações de risco, designadamente para o ambiente, agricultura ou floresta.
 
@@ -218,11 +260,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de dezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 6 de janeiro de 2025.**
+Assinado em Angra do Heroísmo em 6 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -287,3 +329,5 @@ No prazo de um ano a contar da data da entrada em vigor do presente decreto legi
 ###### Artigo 7.º — Entrada em vigor
 
 O presente diploma entra em vigor a 1 de janeiro de 2021.
+
+118534829

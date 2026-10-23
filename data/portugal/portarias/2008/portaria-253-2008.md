@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/04/06700/0205702057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/253/2008/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/253-2008-246312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27bb06abe2f36155469461b1bd4009cc8b341ca25cd5307b5ae846ecb5f59421
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7d8b408f24c724ad990b98ff92fcd3ca9a49b6121f84f08b7c73dda68c100b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pobreza
+- Complemento Solidário para Idosos
 - Insuficiência Económica
+- Pobreza
 - Prova
 - Segurança Social
-- Complemento Solidário para Idosos
 relationships:
 - type: amended_by
   target: pt:dre:491929:por
@@ -96,16 +96,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1446/2007/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1446/2007/11/08/p/dre
+- type: cites
+  target: pt:dre:469064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629380:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:491929:por
+  label: "Revogada, a partir de 01.08.2009, a Port 1446/2007 de 08-Nov, alterada pelo presente diploma, (revogado a partir\
+    \ da mesma data), pelo DEC LEI.151/2009.30.06.2009.MTSSO, DR.IS [124] de 30.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-2009-491929
+  date: '2009-06-30'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:10Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +166,9 @@ Os artigos 3.º e 4.º da [Portaria n.º 1446/2007](https://diariodarepublica.pt
 
 O requerimento da renovação da prova de recursos é personalizado, constando de modelos próprios adequados à situação concreta dos titulares do CSI, sem prejuízo do disposto no artigo seguinte.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A renovação bienal da prova de recursos do CSI é efectuada oficiosamente pela entidade gestora, desde que se verifiquem, cumulativamente, as seguintes condições:
 

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/02800/0087800881.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/155/2009/02/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/155-2009-601363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b206ea19814ddc79df4c6b72705c9754aa1d6b5e77b36a79c7ad81c46e4017e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f86ac22348df4c1fc43c4e82600a09cc52ce453ff50cbcc3abeacf447d640472
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Direção Geral da Saúde
-- Definição de Competências
-- Estatuto
 - Administração Central do Sistema de Saúde
+- Definição de Competências
+- Direção Geral da Saúde
+- Estatuto
 - Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:552000:por
@@ -119,16 +119,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/660/2007/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/660/2007/05/30/p/dre
+- type: cites
+  target: pt:dre:440817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638530:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552000:por
+  label: "Revogada, a partir de 29.05.2012, pela PORT.159/2012.22.05.2012.MF, DR.IS [99] de 22.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/159-2012-552000
+  date: '2012-05-22'
 article_structure:
-  article_count: 17
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:29Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +208,9 @@ e) Direcção de Serviços de Administração.
 
 2 - O Departamento da Qualidade na Saúde é dirigido por um director, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 2.º — Direcção de Serviços de Promoção e Protecção da Saúde
+Artigo 2.º
+
+Direcção de Serviços de Promoção e Protecção da Saúde
 
 À Direcção de Serviços de Promoção e Protecção da Saúde compete:
 
@@ -185,7 +220,9 @@ b) ...
 
 c) ...
 
-###### Artigo 3.º — Direcção de Serviços de Prevenção e Controlo de Doenças
+Artigo 3.º
+
+Direcção de Serviços de Prevenção e Controlo de Doenças
 
 À Direcção de Serviços de Prevenção e Controlo de Doenças compete:
 
@@ -199,7 +236,9 @@ d) Promover o acesso à informação em matéria de saúde sexual e reprodutiva;
 
 e) Divulgar boas práticas em matéria de procriação medicamente assistida e coordenar a rede de interrupção voluntária de gravidez.
 
-###### Artigo 4.º — Departamento da Qualidade na Saúde
+Artigo 4.º
+
+Departamento da Qualidade na Saúde
 
 Ao Departamento da Qualidade na Saúde compete:
 
@@ -217,7 +256,9 @@ f) Gerir os sistemas de monitorização e percepção da qualidade dos serviços
 
 g) Definir e monitorizar indicadores para avaliação do desempenho, acesso e prática das unidades do sistema de saúde na área da qualidade clínica e organizacional, incluindo a gestão do Portal da Transparência.
 
-###### Artigo 5.º — Direcção de Serviços de Epidemiologia e Estatísticas de Saúde
+Artigo 5.º
+
+Direcção de Serviços de Epidemiologia e Estatísticas de Saúde
 
 À Direcção de Serviços de Epidemiologia e Estatísticas de Saúde compete:
 
@@ -229,7 +270,9 @@ c) ...
 
 d) ...
 
-###### Artigo 6.º — Direcção de Serviços de Administração
+Artigo 6.º
+
+Direcção de Serviços de Administração
 
 À Direcção de Serviços de Administração compete apoiar a definição de normas, metodologias e procedimentos que visam a melhoria contínua do desempenho global da DGS, especialmente em matérias de modernização e simplificação administrativas, bem como promover e assegurar a organização e o funcionamento das áreas de recursos humanos, financeiros e patrimoniais e, ainda, das áreas de formação, informática e de expediente.»
 
@@ -273,7 +316,7 @@ O número máximo de unidades orgânicas flexíveis da Direcção-Geral da Saúd
 
 É republicada em anexo a Portaria n.º 644/2007, de 30 de Maio.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 5 de Fevereiro de 2009. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 2 de Fevereiro de 2009.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 5 de Fevereiro de 2009. - A Ministra da Saúde, Ana Maria Teodoro Jorge, em 2 de Fevereiro de 2009.
 
 ## ANEXO — Portaria n.º 644/2007, de 30 de Maio
 

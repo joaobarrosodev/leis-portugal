@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 71/2007, 1º Suplemento, Série I de 2007-04-11
   number: '71'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2314-(2) a 2314-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/07101/00020027.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/407-a/2007/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/407-a-2007-430802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a40b76a3ddd7e069b9710b95d54daa74cf23696e5437bcba4e595f332fff03ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdb4d30536a26f21f8b3c6eae815c6771e327f4718bff6c77ab32542d12d59be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Caderno de Encargos
-- Porto de Lisboa
 - Concurso
 - Contrato de Concessão
 - Empresa de Silos Portuários
+- Porto de Lisboa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
@@ -114,16 +114,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/378/2003/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/378/2003/05/10/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:23Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +190,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças, das Obras Públicas,
 
 Em 29 de Dezembro de 2006.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.
 
 ## ANEXO I
 
@@ -446,7 +486,7 @@ Os concorrentes obrigam-se a manter a validade das suas propostas pelo prazo de 
 
 16.2 - A apreciação e avaliação das propostas far-se-á de acordo com os critérios que a seguir se indicam, por ordem decrescente de importância relativa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07101/00020027.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07101/00020027.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07101/00020027.pdf)
 
 16.3 - Cada critério é apreciado de acordo com uma escala de classificação numérica, fixada entre 0 e 20 valores, com arredondamentos à unidade.
 
@@ -810,7 +850,7 @@ ii) A emissão desta garantia não viola qualquer lei, regulamento ou instruçã
 
 ... [nome completo do(s) signatário(s), qualidade em que assina(m) e reconhecimento das assinaturas nessa qualidade].
 
-## APÊNDICE A
+APÊNDICE A
 
 [ao anexo B (l)]
 
@@ -888,7 +928,7 @@ ii) A emissão desta garantia não viola qualquer lei, regulamento ou instruçã
 
 ... [Nome completo do(s) signatário(s), qualidade em que assina(m) e reconhecimento das assinaturas nessa qualidade].
 
-## APÊNDICE A
+APÊNDICE A
 
 [ao anexo C (l)]
 
@@ -1580,60 +1620,60 @@ Sem prejuízo do disposto no n.º 41 quanto à resolução de diferendos, o não
 
 Na SILOPOR, S. A., encontram-se à disposição dos interessados os seguintes anexos que integram o presente caderno de encargos:
 
-## Anexo I, «Contrato de concessão de serviço público celebrado entre a APL e a SILOPOR e respeitante ao terminal de granéis alimentares do Beato»;
+Anexo I, «Contrato de concessão de serviço público celebrado entre a APL e a SILOPOR e respeitante ao terminal de granéis alimentares do Beato»;
 
-## Anexo II, «Contrato de concessão de serviço público celebrado entre a APL e a SILOPOR e respeitante ao terminal de granéis alimentares da Trafaria»;
+Anexo II, «Contrato de concessão de serviço público celebrado entre a APL e a SILOPOR e respeitante ao terminal de granéis alimentares da Trafaria»;
 
-## Anexo III, «Área afecta à concessão relativa ao terminal de granéis alimentares do Beato»;
+Anexo III, «Área afecta à concessão relativa ao terminal de granéis alimentares do Beato»;
 
-## Anexo IV, «Área afecta à concessão relativa ao terminal de granéis alimentares da Trafaria»;
+Anexo IV, «Área afecta à concessão relativa ao terminal de granéis alimentares da Trafaria»;
 
-## Anexo V, «Área afecta à concessão relativa ao silo de Vale Figueira»;
+Anexo V, «Área afecta à concessão relativa ao silo de Vale Figueira»;
 
-## Anexo VI, «Equipamento afecto à concessão»:
+Anexo VI, «Equipamento afecto à concessão»:
 
-# Parte 1, «Bens a permanecer na titularidade do Estado»;
+Parte 1, «Bens a permanecer na titularidade do Estado»;
 
-# Parte 2, «Bens a adquirir pela concessionária»;
+Parte 2, «Bens a adquirir pela concessionária»;
 
-## Anexo VII, «Limites máximos das tarifas»;
+Anexo VII, «Limites máximos das tarifas»;
 
-## Anexo VIII, «Lista dos trabalhadores da SILOPOR a transferir para a concessionária»:
+Anexo VIII, «Lista dos trabalhadores da SILOPOR a transferir para a concessionária»:
 
-# Parte 1, «Regalias decorrentes do acordo de empresa da SILOPOR»:
+Parte 1, «Regalias decorrentes do acordo de empresa da SILOPOR»:
 
-# Parte 1-A, «Sede»;
+## Parte 1-A, «Sede»;
 
-# Parte 1-B, «Beato»;
+Parte 1-B, «Beato»;
 
-# Parte 1-C, «Trafaria»;
+## Parte 1-C, «Trafaria»;
 
-# Parte 1-D, «Vale Figueira»;
+Parte 1-D, «Vale Figueira»;
 
-# Parte 2, «Regalias decorrentes do regulamento de regalias sociais dos trabalhadores da SILOPOR»:
+Parte 2, «Regalias decorrentes do regulamento de regalias sociais dos trabalhadores da SILOPOR»:
 
-# Parte 2-A, «Sede»;
+## Parte 2-A, «Sede»;
 
-# Parte 2-B, «Beato»;
+Parte 2-B, «Beato»;
 
-# Parte 2-C, «Trafaria»;
+## Parte 2-C, «Trafaria»;
 
-# Parte 2-D, «Vale Figueira»;
+Parte 2-D, «Vale Figueira»;
 
 ## Anexo IX:
 
-# Parte 1, «Acordo de Empresa da SILOPOR»;
+Parte 1, «Acordo de Empresa da SILOPOR»;
 
-# Parte 2, «Regulamento de Regalias Sociais dos trabalhadores da SILOPOR»;
+Parte 2, «Regulamento de Regalias Sociais dos trabalhadores da SILOPOR»;
 
 ## Anexo X:
 
-# Parte 1, «Seguro de doença e assistência médica aos trabalhadores da SILOPOR»;
+Parte 1, «Seguro de doença e assistência médica aos trabalhadores da SILOPOR»;
 
-# Parte 2, «Seguro de vida dos trabalhadores da SILOPOR»;
+Parte 2, «Seguro de vida dos trabalhadores da SILOPOR»;
 
-# Parte 3, «Seguro de acidentes de trabalhadores»;
+Parte 3, «Seguro de acidentes de trabalhadores»;
 
-# Parte 4, «Seguro de acidentes pessoais»;
+Parte 4, «Seguro de acidentes pessoais»;
 
-## Anexo XI, «Modelo das projecções económico-financeiras».
+Anexo XI, «Modelo das projecções económico-financeiras».

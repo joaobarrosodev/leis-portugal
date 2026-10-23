@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/268b00/53455347.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/44/1992/11/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1992-584785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc55652595e855b7563d250ff50838ebc0e55c8d7fba5d9d2f06553e3e53ad5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9df0c74c11e475de45c195838d29806a75ab4d9aa3b82de7dccb487227bae038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Arquivo
+- Biblioteca Pública
 - Horta
 - Pessoal de BAD
 - Pessoal de Informática
 - Ponta Delgada
 - Quadro de Pessoal
-- Biblioteca Pública
 - Reestruturação de Carreiras
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:584457:por
@@ -89,16 +89,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:580654:por
+  label: "Rectificado o n.º 3 do artigo 18.º pela DECL-RECT.13/93.30.01.1993.PCM, DR.IS-B [25]2ºSupl de 30.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-1993-580654
+  date: '1993-01-30'
+- type: repealed_by
+  target: pt:dre:584457:por
+  label: "Revogado pelo DRR.36/2000/A.2000.11.10.SREAS-RAA DR.IS-B [282] DE 07/DEZ/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2000-584457
+  date: '2000-11-10'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:11Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +169,7 @@ Assim, em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82
 
 Os artigos 14.º, 15.º e 18.º do [Decreto Regulamentar Regional n.º 13/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1981-391040), de 19 de Fevereiro, com a alteração introduzida pelo [Decreto Regulamentar Regional n.º 24/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1987-417186), de 3 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 14.º - 1 - As condições e regras de ingresso e acesso do pessoal das bibliotecas e arquivos da Região Autónoma dos Açores são as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e no [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, aplicados à Região, respectivamente, pelos Decretos Legislativos Regionais n.os 13/86/A, de 21 de Abril, e [34/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-1988-354279), de 19 de Outubro, bem como as previstas neste diploma e na legislação regional e geral complementar.
+Art. 14.º - 1 - As condições e regras de ingresso e acesso do pessoal das bibliotecas e arquivos da Região Autónoma dos Açores são as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e no [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, aplicados à Região, respectivamente, pelos Decretos Legislativos Regionais n.os 13/86/A, de 21 de Abril, e [34/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-1988-354279), de 19 de Outubro, bem como as previstas neste diploma e na legislação regional e geral complementar.
 
 2 - As condições e regras de ingresso e acesso do pessoal de informática são as constantes do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro.
 
@@ -125,11 +179,11 @@ Os artigos 14.º, 15.º e 18.º do [Decreto Regulamentar Regional n.º 13/81/A](
 
 5 - Os auxiliares de limpeza serão recrutados de entre indivíduos com a escolaridade obrigatória.
 
-###### Art. 15.º - 1 - Os directores das bibliotecas e arquivos são nomeados em comissão de serviço, nos termos previstos no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, adaptado à Região pelo [Decreto Legislativo Regional n.º 1/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1990-333550), de 15 de Janeiro.
+Art. 15.º - 1 - Os directores das bibliotecas e arquivos são nomeados em comissão de serviço, nos termos previstos no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, adaptado à Região pelo [Decreto Legislativo Regional n.º 1/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1990-333550), de 15 de Janeiro.
 
 2 - Os directores das bibliotecas e arquivos são equiparados, para todos os efeitos legais, a directores de serviços.
 
-###### Art. 18.º - 1 - A transição do pessoal far-se-á nos termos da lei geral.
+Art. 18.º - 1 - A transição do pessoal far-se-á nos termos da lei geral.
 
 2 - A transição de pessoal para as novas carreiras de pessoal específicas das áreas funcionais de biblioteca e documentação e de arquivo far-se-á nos termos previstos no [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho.
 
@@ -147,28 +201,28 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 17 de Setembro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo, em 19 de Outubro de 1992.**
+Assinado em Angra do Heroísmo, em 19 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa I a que se refere o artigo 2.º
 
 Biblioteca Pública e Arquivo de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/268b00/53455347.pdf))](https://files.diariodarepublica.pt/1s/1992/11/268b00/53455347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/268b00/53455347.pdf)
 
 Mapa II a que se refere o artigo 2.º
 
 Biblioteca Pública e Arquivo de Angra do Heroísmo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/268b00/53455347.pdf))](https://files.diariodarepublica.pt/1s/1992/11/268b00/53455347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/268b00/53455347.pdf)
 
 Mapa III a que se refere o artigo 2.º
 
 Biblioteca Pública e Arquivo da Horta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/268b00/53455347.pdf))](https://files.diariodarepublica.pt/1s/1992/11/268b00/53455347.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/268b00/53455347.pdf)

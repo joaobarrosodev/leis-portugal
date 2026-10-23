@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/12/290a00/66846685.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/1997/12/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1997-417398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea1106a4a9bd52a7288e23a6cdca57aa0e2dbaa634520833740bc0fa43ddf6a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a85180be4fd4852e263e72d93c3b3ef990ab0e6177e844d6d1fe3ea1fc1ed1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orgânica
+- Açores
 - Centro de Gestão Financeira da Segurança Social
 - Instituto de Gestão de Regimes de Segurança Social
+- Orgânica
 - Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:145589083:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:308079:por
+  label: "Fundido no Instituto para o Desenvolvimento Social dos Açores, I. P. R. A. (IDSA), o Instituto de Gestão de Regimes\
+    \ da Segurança Social (IGRSS) com o Instituto de Acção Social (IAS), e determinada a sucessão pelo Instituto de Gestão\
+    \ Financeira dos Açores, I.P.R.A (IGFSSA) do Centro de Gestão Financeira da Segurança Social, previstos DLR 11/87/A de\
+    \ 26-Jun, com as alterações introduzidas pelo presente diploma, que é revogado, a partir de 23.10.2010, pelo DLR.28/2010/A.22.10.2010.AL-RAA,\
+    \ DR.IS [206] de 22.10.2010, sem prejuízo do disposto no nº 3 do seu art. 27º, e que determinou a transferência para o\
+    \ IDSA dos direitos e das obrigações de que eram titulares ou beneficiários o Instituto de Gestão de Regimes da Segurança\
+    \ Social e o Instituto de Acção Social, e dos arquivos, acervos documentais e bases de dados que lhes digam respeito,\
+    \ nomeadamente em razão das competências, pessoal e património; assim como a transferência para o IGSSA dos direitos e\
+    \ das obrigações de que era titular ou beneficiário o Centro de Gestão Financeira da Segurança Social, ao qual sucedeu,\
+    \ e respectivos arquivos, acervos documentais e bases de dados que lhe digam respeito, nomeadamente em razão das competências,\
+    \ pessoal e património. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2010-308079
+  date: '2010-10-22'
+- type: amended_by
+  target: pt:dre:145589083:por
+  label: Considerado revogado por esgotamento do objeto ou revogação tácita pelo(a) Decreto Legislativo Regional n.º 27/2020/A
+    - Diário da República n.º 202/2020, Série I de 2020-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2020-145589083
+  date: '2020-10-16'
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:54Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +142,9 @@ Conselho de administração
 
 O conselho de administração é constituído pelo director regional de Segurança Social, que preside, pelos presidentes dos conselhos de administração do IGRSS e do IAS e pelo administrador do CGFSS, sendo as funções no conselho exercidas por inerência dos respectivos cargos.
 
-###### Artigo 12.º — Composição
+Artigo 12.º
+
+Composição
 
 1 - ...
 
@@ -129,7 +156,9 @@ O conselho de administração é constituído pelo director regional de Seguran�
 
 5 - ...
 
-###### Artigo 13.º — Competências do conselho de administração
+Artigo 13.º
+
+Competências do conselho de administração
 
 Ao conselho de administração compete especialmente:
 
@@ -145,7 +174,9 @@ e) ...
 
 f) ...
 
-###### Artigo 14.º — Competências do presidente do conselho de administração
+Artigo 14.º
+
+Competências do presidente do conselho de administração
 
 1 - Compete ao presidente do conselho de administração:
 
@@ -161,7 +192,9 @@ e) Dirigir os serviços colocados na sua dependência directa.
 
 2 - ...
 
-###### Artigo 18.º — Direcção dos centros
+Artigo 18.º
+
+Direcção dos centros
 
 1 - Os centros são dirigidos por um director, nomeado por despacho do Secretário Regional da Educação e Assuntos Sociais, sob proposta do director regional de Segurança Social, ouvido o presidente do conselho de administração do IGRSS.
 
@@ -173,10 +206,10 @@ b) No Centro Coordenador de Prestações Diferidas, pelo coordenador geral que o
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Outubro de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
 
-**Assinado em Angra do Heroísmo, em 25 de Novembro de 1997.**
+Assinado em Angra do Heroísmo, em 25 de Novembro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/11/25400/39333941.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4feace10616097d4a52d1a8a033e3f0190cc544ed64b57fdc8d723678892b28e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 289178a40eb48812a760d483ea2d609487e44693b536d7187702b7122bd416f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Secretaria Regional da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:612400:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:354734:por
+  label: Aditado um n.º 3 ao art. 29.º, os arts. 42-A e 42-B ao DRR 12/83/A, de 21-Abr, e um n.º 3 art. 44.º do mesmo diploma,
+    na redacção do presente diploma, e alterado o art. 43.º e o n.º 1 do art. 48.º desse diploma, também na redacção do presente
+    diploma, pelo(a) Decreto Regulamentar Regional n.º 43/88/A - Diário da República n.º 234/1988, Série I de 1988-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/43-1988-354734
+  date: '1988-10-10'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612400:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 5/89/A - Diário da República n.º 43/1989, Série I de 1989-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1989-612400
+  date: '1989-02-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:54Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +134,9 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A subsecção I «Gabinete Técnico» da secção II «Órgãos de concepção e apoio» do capítulo II «Órgãos e serviços» do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º A subsecção I «Gabinete Técnico» da secção II «Órgãos de concepção e apoio» do capítulo II «Órgãos e serviços» do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - O Gabinete Técnico é o órgão de estudo, coordenação e apoio da Secretaria Regional da Agricultura e Pescas nos domínios da formulação da política económica e de planeamento, competindo-lhe, em articulação com as direcções regionais, designadamente:
+Art. 7.º - 1 - O Gabinete Técnico é o órgão de estudo, coordenação e apoio da Secretaria Regional da Agricultura e Pescas nos domínios da formulação da política económica e de planeamento, competindo-lhe, em articulação com as direcções regionais, designadamente:
 
 a) Assistir tecnicamente o Secretário Regional, habilitando-o com os instrumentos de gestão necessários à definição, execução e coordenação da actividade da Secretaria Regional;
 
@@ -131,7 +170,7 @@ p) Coordenar e assegurar uma correcta gestão dos meios informáticos da Secreta
 
 2 - O Gabinete Técnico é equiparado a direcção de serviços e compreende a Divisão de Planeamento, Organização e Documentação e a Divisão de Estruturas e Mercados Agrícolas e das Pescas.
 
-###### Art. 7.º - A. À Divisão de Planeamento, Organização e Documentação compete:
+Art. 7.º - A. À Divisão de Planeamento, Organização e Documentação compete:
 
 a) Promover a definição dos objectivos da Secretaria Regional da Agricultura e Pescas a curto, médio e longo prazos e a elaboração dos correspondentes planos anuais e plurianuais devidamente orçamentados, assegurar a programação das respectivas fases e controlar a sua execução material;
 
@@ -149,7 +188,7 @@ g) Apoiar os serviços da Secretaria Regional da Agricultura e Pescas na defini�
 
 h) Assegurar uma correcta gestão dos meios informáticos da Secretaria Regional da Agricultura e Pescas.
 
-###### Art. 7.º-B. À Divisão de Estruturas e Mercados Agrícolas e das Pescas compete:
+Art. 7.º-B. À Divisão de Estruturas e Mercados Agrícolas e das Pescas compete:
 
 a) Elaborar e coordenar a execução de planos, projectos e programas de desenvolvimento regional, nomeadamente os resultantes da aplicação da regulamentação comunitária;
 
@@ -163,9 +202,9 @@ e) Proceder à realização de estudos que orientem a adopção de medidas no do
 
 f) Proceder à análise e avaliação técnico-económica de projectos de investimento e acções de natureza sócio-estrutural nos domínios da agricultura e das pescas.
 
-###### Art. 2.º O capítulo III «Pessoal» do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, passa a ter a seguinte redacção:
+Art. 2.º O capítulo III «Pessoal» do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 39.º O quadro da Secretaria Regional da Agricultura e Pescas é o constante do mapa anexo ao presente diploma, que dele faz parte integrante, sendo agrupado de acordo com a seguinte classificação:
+Art. 39.º O quadro da Secretaria Regional da Agricultura e Pescas é o constante do mapa anexo ao presente diploma, que dele faz parte integrante, sendo agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -185,39 +224,39 @@ h) Pessoal auxiliar;
 
 i) Outro pessoal.
 
-###### Art. 40.º - 1 - Quando nos quadros de pessoal da Secretaria Regional da Agricultura e Pescas existirem vagas em classes superiores e não houver funcionários que reúnam as condições legais de acesso às mesmas, poderão ser admitidas para as categorias de ingresso na respectiva carreira tantas unidades quantas as vagas existentes, em conformidade com o número seguinte.
+Art. 40.º - 1 - Quando nos quadros de pessoal da Secretaria Regional da Agricultura e Pescas existirem vagas em classes superiores e não houver funcionários que reúnam as condições legais de acesso às mesmas, poderão ser admitidas para as categorias de ingresso na respectiva carreira tantas unidades quantas as vagas existentes, em conformidade com o número seguinte.
 
 2 - Os quadros e carreiras em que se mostre conveniente a adopção do número anterior serão definidos por despacho normativo dos Secretários Regionais da Administração Pública e da Agricultura e Pescas.
 
-###### Art. 41.º As condições e regras de ingresso e acesso dos funcionários na Secretaria Regional da Agricultura e Pescas serão, para as respectivas categorias, as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e as previstas neste diploma e na legislação regional e geral complementar.
+Art. 41.º As condições e regras de ingresso e acesso dos funcionários na Secretaria Regional da Agricultura e Pescas serão, para as respectivas categorias, as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e as previstas neste diploma e na legislação regional e geral complementar.
 
-###### Art. 42.º O pessoal dirigente será provido de acordo com o disposto no [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril.
+Art. 42.º O pessoal dirigente será provido de acordo com o disposto no [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril.
 
-###### Art. 43.º Os topógrafos serão recrutados de acordo com o disposto no [Decreto Regulamentar Regional n.º 20/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1981-388055), de 17 de Março, e demais legislação complementar.
+Art. 43.º Os topógrafos serão recrutados de acordo com o disposto no [Decreto Regulamentar Regional n.º 20/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1981-388055), de 17 de Março, e demais legislação complementar.
 
-###### Art. 44.º - 1 - Os técnicos-adjuntos de agricultura de 2.ª classe serão recrutados de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e a frequência com aprovação em curso técnico-profissional de agricultura com a duração mínima de três anos.
+Art. 44.º - 1 - Os técnicos-adjuntos de agricultura de 2.ª classe serão recrutados de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e a frequência com aprovação em curso técnico-profissional de agricultura com a duração mínima de três anos.
 
 2 - O ingresso na carreira de tradutor-correspondente-intérprete far-se-á, enquanto não existirem cursos técnico-profissionais adequados ao desempenho daquelas funções, de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e o curso de secretariado e de relações públicas.
 
-###### Art. 45.º - 1 - O ingresso nas carreiras de técnico auxiliar de laboratório, de agricultura, de pecuária e de economia doméstica far-se-á, enquanto não existir curso de formação profissional adequada ao desempenho daquelas funções, de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e a frequência, com aproveitamento, do estágio previsto no Despacho Normativo n.º 136/85, de 24 de Setembro.
+Art. 45.º - 1 - O ingresso nas carreiras de técnico auxiliar de laboratório, de agricultura, de pecuária e de economia doméstica far-se-á, enquanto não existir curso de formação profissional adequada ao desempenho daquelas funções, de entre indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e a frequência, com aproveitamento, do estágio previsto no Despacho Normativo n.º 136/85, de 24 de Setembro.
 
 2 - O ingresso na carreira de técnico auxiliar de pescas far-se-á de entre os indivíduos habilitados com o 9.º ano de escolaridade ou equivalente e a frequência, com aproveitamento, de um estágio a regulamentar por despacho conjunto dos Secretários Regionais da Administração Pública e da Agricultura e Pescas.
 
 3 - Os requisitos para o ingresso e acesso na carreira de técnico auxiliar de BAD são os constantes do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
 
-###### Art. 46.º - 1 - Os guardas florestais são recrutados mediante a frequência, com aproveitamento, de um estágio de três meses, seguido de exame final, a ser regulamentado por despacho conjunto dos Secretários Regionais da Administração Pública e da Agricultura e Pescas.
+Art. 46.º - 1 - Os guardas florestais são recrutados mediante a frequência, com aproveitamento, de um estágio de três meses, seguido de exame final, a ser regulamentado por despacho conjunto dos Secretários Regionais da Administração Pública e da Agricultura e Pescas.
 
 2 - O acesso às categorias de guarda florestal principal, mestre florestal e mestre florestal principal será feito mediante concurso de entre, respectivamente, guardas florestais, guardas florestais principais e mestres florestais com, pelo menos, três anos de serviço na categoria com a classificação mínima de Bom.
 
 3 - O acesso à categoria de mestre florestal coordenador será feito mediante concurso de entre os mestres florestais principais com, pelo menos, três anos de serviço na categoria com classificação de Muito bom ou cinco anos de serviço na categoria com classificação de Bom.
 
-###### Art. 47.º - 1 - A carreira de operário agrícola desenvolve-se pelas classes de operário agrícola principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras N, Q e S.
+Art. 47.º - 1 - A carreira de operário agrícola desenvolve-se pelas classes de operário agrícola principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras N, Q e S.
 
 2 - O ingresso na carreira far-se-á na categoria de 2.ª classe de entre indivíduos habilitados com a escolaridade obrigatória e formação adequada ao desempenho das respectivas funções.
 
 3 - O acesso às categorias de encarregado e encarregado agrícola depende da prestação de cinco anos de serviço na categoria imediatamente inferior com classificação mínima de Bom.
 
-###### Art. 48.º - 1 - O encarregado de oficinas, viaturas e alfaias será recrutado de entre tractoristas principais, motoristas principais e condutores de máquinas pesadas de 1.ª classe com cinco anos de serviço na categoria e classificação de serviço mínima de Bom.
+Art. 48.º - 1 - O encarregado de oficinas, viaturas e alfaias será recrutado de entre tractoristas principais, motoristas principais e condutores de máquinas pesadas de 1.ª classe com cinco anos de serviço na categoria e classificação de serviço mínima de Bom.
 
 2 - Os tractoristas serão recrutados de entre indivíduos que possuam a escolaridade mínima obrigatória e carta de condução profissional.
 
@@ -227,9 +266,9 @@ i) Outro pessoal.
 
 5 - O fiel de armazém, o operador de reprografia, os serventes, os serventes florestais e os trabalhadores rurais serão recrutados de entre indivíduos habilitados com escolaridade obrigatória.
 
-###### Art. 49.º O acesso à categoria imediatamente superior nas carreiras de operário agrícola, de tractorista, de condutor de máquinas pesadas, de fiel de armazém, de auxiliar técnico, de auxiliar técnico de pecuária e de laboratório faz-se por progressão, dependendo da prestação de cinco anos de serviço na categoria inferior com classificação mínima de Bom.
+Art. 49.º O acesso à categoria imediatamente superior nas carreiras de operário agrícola, de tractorista, de condutor de máquinas pesadas, de fiel de armazém, de auxiliar técnico, de auxiliar técnico de pecuária e de laboratório faz-se por progressão, dependendo da prestação de cinco anos de serviço na categoria inferior com classificação mínima de Bom.
 
-###### Art. 3.º - 1 - Os funcionários providos em lugares das carreiras de engenheiro e de engenheiro técnico agrário da Direcção-Regional dos Recursos Florestais transitam para lugares de categoria correspondente nas carreiras de técnico superior e técnico.
+Art. 3.º - 1 - Os funcionários providos em lugares das carreiras de engenheiro e de engenheiro técnico agrário da Direcção-Regional dos Recursos Florestais transitam para lugares de categoria correspondente nas carreiras de técnico superior e técnico.
 
 2 - Os funcionários providos em lugares de agente técnico agrícola transitam para a carreira de técnico-adjunto de agricultura para lugares de categoria a que corresponda letra de vencimento igual à que detêm.
 
@@ -239,18 +278,18 @@ i) Outro pessoal.
 
 5 - Aos funcionários abrangidos pelo disposto nos n.os 1, 2 e 3 será contado, para todos os efeitos, o tempo de serviço na categoria actual como prestado na categoria para que transitam.
 
-###### Art. 4.º - 1 - O quadro anexo ao [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, é substituído pelo anexo ao presente diploma.
+Art. 4.º - 1 - O quadro anexo ao [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, é substituído pelo anexo ao presente diploma.
 
 2 - Fica revogado o [Decreto Regulamentar Regional n.º 47/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/47-1981-561857), de 16 de Outubro, e legislação complementar.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 27 de Agosto de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 12 de Outubro de 1987.**
+Assinado em Angra do Heroísmo em 12 de Outubro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/11/25400/39333941.pdf))](https://files.diariodarepublica.pt/1s/1987/11/25400/39333941.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/11/25400/39333941.pdf)

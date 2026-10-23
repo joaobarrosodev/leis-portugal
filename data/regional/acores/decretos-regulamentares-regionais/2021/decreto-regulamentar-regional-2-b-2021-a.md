@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 50/2021, 1º Suplemento, Série I de 2021-03-12
   number: '50'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 46-(2) a 46-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/03/05001/0000200014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2-b/2021/03/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-b-2021-159432400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66bed3fcd8c1e22d522a84b838f383686e8420330a8fddd056184d896e856e18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31da17d6e1236f5acafce99722cb52f11c0f2a10a34d5a8b59d3fce39bd2ca92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,66 +66,66 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
+- Açores
+- Administração Regional
 - Aeroporto
-- PSP
 - Análises Clínicas
-- Protecção à Vítima
-- Equipamento Desportivo
 - Assistência Médica
-- Direito de Acesso
-- Espetáculos e Divertimentos Públicos
+- Atestado Médico
+- Atividade Agrícola
+- Autarquia Local
 - Cargo Público
 - Cargos Políticos
-- Lares
 - Centro de DIA
 - Cidadão Estrangeiro
-- Atestado Médico
 - Cidadão Nacional
 - Circulação de Pessoas
-- Transporte Marítimo
-- Manifestação Cultural
 - Companhia Aérea
-- Terceira Idade
 - Contra-ordenação
-- Regulamentação de Atos Legislativos
+- Cuidados Médicos
+- Desporto
+- Direito de Acesso
+- Doença Infecciosa
 - Ensino à Distância
-- Saúde Pública
+- Epidemia
+- Equipamento de Proteção
+- Equipamento Desportivo
+- Espetáculos e Divertimentos Públicos
 - Estabelecimento de Bebidas
+- Estabelecimento de Ensino
 - Estabelecimento de Restauração
 - Estado de Emergência
 - Estudante
 - Fiscalização
-- Pesca
 - Horário de Funcionamento
 - Isolamento Profiláctico
+- Lares
+- Manifestação Cultural
 - Medicina Veterinária
 - Multibanco
 - Organismo do Estado
-- Doença Infecciosa
-- Epidemia
-- Estabelecimento de Ensino
-- Cuidados Médicos
-- Teletrabalho
+- Pesca
+- Portos
 - Posto de Abastecimento de Combustíveis
+- Protecção à Vítima
+- PSP
+- Regulamentação de Atos Legislativos
 - Religião
 - Ribeira Grande
-- Portos
-- Administração Regional
-- Açores
+- Saúde Pública
+- SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
+- Situação de Calamidade
+- Teletrabalho
+- Terceira Idade
 - Trabalhador por Conta de Outrem
 - Tráfego Aéreo
 - Tráfico de Pessoas
 - Transporte de Passageiros
+- Transporte Marítimo
 - Transporte Público
-- Desporto
-- Autarquia Local
 - Tripulação
 - Veterinário
 - Violência Doméstica
-- SERVIÇO REGIONAL DE PROTEÇÃO CIVIL E BOMBEIROS DOS AÇORES
-- Equipamento de Proteção
-- Situação de Calamidade
 relationships:
 - type: amended_by
   target: pt:dre:160627125:por
@@ -167,16 +167,94 @@ relationships:
   target: eli:http://data.dre.pt/eli/decpresrep/9-a/2021/01/
   label: null
   source: http://data.dre.pt/eli/decpresrep/9-a/2021/01/
+- type: cites
+  target: pt:dre:126467884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130399862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146435561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148599586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149106929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151557411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152637736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153138220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153917314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155737377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157236766:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158368125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158480688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159304330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:160627125:por
+  label: Revogado, a partir de 01.04.2021, pelo(a) Decreto Regulamentar Regional n.º 2-C/2021/A - Diário da República n.º
+    63/2021, 1º Suplemento, Série I de 2021-03-31 nos termos do art. 19.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-c-2021-160627125
+  date: '2021-03-31'
 article_structure:
   article_count: 20
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:43Z'
   warnings: []
   errors: []
 ---
@@ -571,10 +649,12 @@ O presente diploma entra em vigor a partir das 00:00 horas do dia 17 de março d
 
 Aprovado em Conselho do Governo, em Ponta Delgada, em 10 de março de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 12 de março de 2021.**
+Assinado em Angra do Heroísmo em 12 de março de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+114065231

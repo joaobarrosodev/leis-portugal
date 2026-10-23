@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/24100/0609806104.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2014/12/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2014-64797340
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7212564e125f74fdd6b51d18f54dc32ed815da16fcb011d77cf80b34df0ce95c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed31b5c8c3af760a1ca1df572d688a91863a74336091a848a262f4cf1b01fd18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Apoio ao Investimento
+- Conselho do Governo Regional
+- Definição de Competências
+- Desenvolvimento Económico
+- Desenvolvimento Regional
 - Financiamento
 - Governo Regional
-- Definição de Competências
-- Desenvolvimento Regional
-- Apoio ao Investimento
 - Projeto de Investimento
-- Conselho do Governo Regional
-- Desenvolvimento Económico
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:66639522:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66639522:por
+  label: Alterado o art. 2.º do DRR 6/2011/A de 15-fev, na redação do presente diploma, pelo(a) Decreto Regulamentar Regional
+    n.º 5/2015/A - Diário da República n.º 42/2015, Série I de 2015-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2015-66639522
+  date: '2015-03-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2013/02/19/a/dre
   label: null
@@ -92,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2011/02/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2011/02/15/a/dre
+- type: cites
+  target: pt:dre:258529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628349:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 18
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:13Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +206,9 @@ d) Criação de vinte ou mais postos de trabalho.
 
 4 - O reconhecimento do interesse estratégico para a Região a que se refere o número anterior é realizado através de despacho conjunto dos membros do Governo Regional com competências em matéria de investimento e da área do projeto.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -202,7 +222,9 @@ c) Propor um prazo de caducidade para a declaração de reconhecimento PIR tendo
 
 d) [...].
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]:
 
@@ -220,7 +242,9 @@ d) Direção regional com competências em matéria de emprego.
 
 4 - [revogado].
 
-###### Artigo 5.º — Competências da SDEA, E.P.E.R
+Artigo 5.º
+
+Competências da SDEA, E.P.E.R
 
 1 - São competências da SDEA, E.P.E.R., enquanto entidade gestora e coordenadora dos processos de reconhecimento e projetos PIR:
 
@@ -246,7 +270,9 @@ i) [anterior alínea h)].
 
 3 - Cabe, ainda, à SDEA, E.P.E.R. remeter a proposta de decisão sobre o pedido de reconhecimento PIR para o departamento do Governo Regional com competência em matéria de investimento para efeitos de posterior decisão final em Conselho do Governo Regional.
 
-###### Artigo 6.º — Instrução do Processo
+Artigo 6.º
+
+Instrução do Processo
 
 1 - Os interessados no reconhecimento de um projeto como PIR apresentam o respetivo requerimento de candidatura junto da SDEA, E.P.E.R.
 
@@ -272,7 +298,9 @@ f) Documento que comprove a titularidade ou legitimidade do promotor quanto à u
 
 6 - O requerente pode solicitar a prorrogação do prazo referido no n.º 4, caso não seja possível o respetivo cumprimento e por motivos não imputáveis ao mesmo.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Os projetos são reconhecidos como PIR por resolução do Conselho do Governo Regional, sob proposta do membro do Governo Regional com competência em matéria de investimento, após envio, pela SDEA, E.P.E.R, da proposta de decisão da CAA-PIR, acompanhada da proposta de cronograma dos procedimentos a desenvolver no âmbito do sistema de acompanhamento.
 
@@ -280,7 +308,9 @@ f) Documento que comprove a titularidade ou legitimidade do promotor quanto à u
 
 3 - A decisão referida no n.º 1 é notificada, pela SDEA, E.P.E.R., ao interessado e a todas as entidades participantes no processo, no prazo de cinco dias úteis após a sua publicação no Jornal Oficial da Região.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O reconhecimento de um projeto como PIR:
 
@@ -298,7 +328,9 @@ c) Não dispensa o integral cumprimento das normas legais e regulamentares aplic
 
 5 - [revogado].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - O sistema de acompanhamento, da competência da SDEA, E.P.E.R., abrange não apenas os procedimentos de autorização e licenciamento do projeto mas também eventuais procedimentos no âmbito de operações urbanísticas e dos regimes de uso do solo conexos com o mesmo e os procedimentos de concessão de incentivos financeiros e fiscais.
 
@@ -326,11 +358,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, aplica
 
 Aprovado em Conselho do Governo Regional, na Madalena do Pico, em 21 de outubro de 2014.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 2 de dezembro de 2014.**
+Assinado em Angra do Heroísmo em 2 de dezembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1989-611888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 905fec4286668217576f8ef26654d5f16533d675719410f8b6ad07a2138e7670
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95e649e59828b9205e50755911b239d1e0c1f282b5e2e929e0562d2532c7d412
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arrendamento Urbano para Habitação
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:250830:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:18Z'
   warnings: []
   errors: []
 ---
@@ -122,32 +128,32 @@ Pelo presente diploma e através de instrumentos claramente inovadores, mas de c
 
 Assim, a Assembleia Regional da Madeira, nos termos da alínea a) do artigo 229.º da Constituição, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1 - Os prédios urbanos construídos para habitação que à data da entrada em vigor de presente diploma se encontrem comprovadamente aptos a serem habitados através da competente licença de habitabilidade ou que, nos três anos imediatos, venham encontrar-se nessa situação e que nunca tenham sido objecto de arrendamento ou que, tendo-o sido, se encontrem devolutos à data da publicação do presente diploma podem sê-lo de acordo com o disposto no presente decreto.
+Artigo 1.º - 1 - Os prédios urbanos construídos para habitação que à data da entrada em vigor de presente diploma se encontrem comprovadamente aptos a serem habitados através da competente licença de habitabilidade ou que, nos três anos imediatos, venham encontrar-se nessa situação e que nunca tenham sido objecto de arrendamento ou que, tendo-o sido, se encontrem devolutos à data da publicação do presente diploma podem sê-lo de acordo com o disposto no presente decreto.
 
 2 - Aplicar-se-á o regime geral de arrendamento de prédios urbanos relativamente aos contratos de arrendamento celebrados após o decurso do prazo referido no número anterior.
 
 3 - Exceptuam-se do disposto no n.º 1 os arrendamentos previstos no n.º 2 do artigo 1083.º do Código Civil.
 
-###### Art. 2.º - 1 - O arrendamento dos prédios referidos no artigo anterior serão obrigatoriamente celebrados pelo prazo de um ano, automaticamente renovável por iguais períodos.
+Art. 2.º - 1 - O arrendamento dos prédios referidos no artigo anterior serão obrigatoriamente celebrados pelo prazo de um ano, automaticamente renovável por iguais períodos.
 
 2 - O senhorio pode efectivar a denúncia do contrato para o termo da primeira ou de qualquer das subsequentes renovações de prazo.
 
-###### Art. 3.º A denúncia do contrato pelo senhorio, nos termos do artigo anterior, não confere ao inquilino o direito a qualquer indemnização e deverá ser comunicada a este com a antecedência mínima de 90 dias através de notificação judicial.
+Art. 3.º A denúncia do contrato pelo senhorio, nos termos do artigo anterior, não confere ao inquilino o direito a qualquer indemnização e deverá ser comunicada a este com a antecedência mínima de 90 dias através de notificação judicial.
 
-###### Art. 4.º Se o arrendatário não fizer a devolução do locado à data do termo do contrato, fica constituído na obrigação de pagar mensalmente ao senhorio, até efectuar a referida devolução e por cada mês de atraso, o triplo da renda mensal vigente, sem prejuízo de o senhorio, invocando a caducidade do contrato, poder exigir, através de acção judicial adequada, a restituição do locado.
+Art. 4.º Se o arrendatário não fizer a devolução do locado à data do termo do contrato, fica constituído na obrigação de pagar mensalmente ao senhorio, até efectuar a referida devolução e por cada mês de atraso, o triplo da renda mensal vigente, sem prejuízo de o senhorio, invocando a caducidade do contrato, poder exigir, através de acção judicial adequada, a restituição do locado.
 
-###### Art. 5.º Na acção judicial referida no artigo anterior o inquilino não goza da faculdade de requerer o deferimento da desocupação prevista no [Decreto-Lei n.º 293/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1977-250830), de 20 de Julho.
+Art. 5.º Na acção judicial referida no artigo anterior o inquilino não goza da faculdade de requerer o deferimento da desocupação prevista no [Decreto-Lei n.º 293/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1977-250830), de 20 de Julho.
 
-###### Art. 6.º O dever de desocupação do prédio nos termos do artigo 2.º e a decisão judicial que mandar proceder à desocupação do prédio vinculam todos os ocupantes, qualquer que seja o título de ocupação.
+Art. 6.º O dever de desocupação do prédio nos termos do artigo 2.º e a decisão judicial que mandar proceder à desocupação do prédio vinculam todos os ocupantes, qualquer que seja o título de ocupação.
 
-###### Art. 7.º A tudo o que não se encontrar expressamente previsto no presente diploma aplicar-se-á o regime geral de arrendamento urbano.
+Art. 7.º A tudo o que não se encontrar expressamente previsto no presente diploma aplicar-se-á o regime geral de arrendamento urbano.
 
-###### Art. 8.º O presente diploma entra em vigor 60 dias após o dia da sua publicação.
+Art. 8.º O presente diploma entra em vigor 60 dias após o dia da sua publicação.
 
 Aprovado em sessão plenária em 9 de Março de 1989.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 23 de Março de 1989.**
+Assinado em 23 de Março de 1989.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/12/25000/0983809861.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/2015/12/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2015-72963281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dcc2a055c566fc906e3265f07d1f3787f2296963d8f5428f2566ddff3ea2b6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9587d6055c5ed3d8fb372faf2f4f9eb41eed72bb6f0174ded208ac11c852f58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Pessoal Dirigente
-- Comissão Paritária
-- Definição de Competências
-- Administração Pública
-- SIADAP
-- Avaliação das Instituições
-- Conselho Coordenador
-- Avaliação do Pessoal
-- Funcionário Público
-- Administração Regional
 - Açores
+- Administração Pública
+- Administração Regional
+- Avaliação das Instituições
+- Avaliação do Pessoal
+- Comissão Paritária
+- Conselho Coordenador
+- Definição de Competências
+- Funcionário Público
+- Pessoal Dirigente
+- Região Autónoma
+- SIADAP
 relationships:
 - type: amended_by
   target: pt:dre:106874649:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:106874649:por
+  label: Alterada, com efeitos a 01.01.2017, o art. 42.º do DLR 41/2008/A, de 27-ago, com a redação e republicação do presente
+    diploma, pelo(a) Decreto Legislativo Regional n.º 3/2017/A - Diário da República n.º 74/2017, Série I de 2017-04-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2017-106874649
+  date: '2017-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/d
   label: null
@@ -123,16 +129,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667771:por
+  label: null
+  source: null
 article_structure:
-  article_count: 129
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 96
+  section_count: 24
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:02Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +239,9 @@ n) [Anterior alínea m).]
 
 o) [Anterior alínea n)].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...].
 
@@ -197,7 +249,9 @@ o) [Anterior alínea n)].
 
 3 - Nos departamentos governamentais onde não existam serviços, formalmente constituídos, com atribuições em matéria de planeamento, estratégia e avaliação, as mesmas são prosseguidas por aqueles que forem indicados por resolução do Governo Regional.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -211,7 +265,9 @@ b) SIADAPRA 2, de três anos, de acordo com a duração da comissão de serviço
 
 c) SIADAPRA 3, bienal.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...].
 
@@ -223,7 +279,9 @@ a) Identificar, anualmente, os serviços que se distinguiram positivamente ao n�
 
 b) [...].
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - A avaliação global do desempenho dos dirigentes intermédios é feita no termo das respetivas comissões de serviço, conforme o respetivo estatuto, ou no fim do prazo para que foram nomeados.
 
@@ -237,9 +295,13 @@ b) [...].
 
 6 - A avaliação do desempenho do pessoal integrado em carreira que se encontre em exercício de funções de direção ou equiparadas inerentes ao conteúdo funcional da carreira, quando tal exercício não for titulado em comissão de serviço, é feita bienalmente, nos termos do SIADAPRA 3, não sendo aplicável o disposto nos n.os 4 e 5.
 
-### CAPÍTULO II — Dirigentes superiores
+CAPÍTULO II
 
-###### Artigo 29.º — Carta de missão
+Dirigentes superiores
+
+Artigo 29.º
+
+Carta de missão
 
 1 - O grau de cumprimento dos compromissos fixados na carta de missão para os dirigentes superiores de 1.º e de 2.º grau será ponderado, para efeitos do respetivo estatuto, consoante as situações, pelo membro do Governo Regional ou pelo dirigente máximo que outorgou aquela carta.
 
@@ -247,7 +309,9 @@ b) [...].
 
 3 - A avaliação de desempenho dos membros dos conselhos diretivos dos institutos públicos sujeitos para todos os efeitos legais ao Estatuto do Gestor Público Regional segue o regime neste estabelecido.
 
-###### Artigo 30.º — Articulação com SIADAPRA 1
+Artigo 30.º
+
+Articulação com SIADAPRA 1
 
 1 - Para efeitos de articulação com a avaliação do desempenho dos serviços prevista no Título II do presente diploma, o dirigente máximo do serviço deve elaborar até 15 de abril de cada ano os seguintes elementos:
 
@@ -267,13 +331,17 @@ b) Relatório sintético explicitando o grau de cumprimento dos compromissos con
 
 7 - [...].
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - A ponderação do grau de cumprimento dos compromissos fixados na carta de missão para os dirigentes superiores tem os efeitos previstos no respetivo estatuto, designadamente em matéria de cessação da respetiva comissão de serviço.
 
 2 - [...].
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 A avaliação do desempenho dos dirigentes intermédios efetua-se com base nos seguintes parâmetros:
 
@@ -281,7 +349,9 @@ a) [...];
 
 b) [...].
 
-###### Artigo 35.º — Avaliação
+Artigo 35.º
+
+Avaliação
 
 1 - Para efeitos do disposto no artigo anterior, os dirigentes intermédios, no início da sua comissão de serviço e no quadro das suas competências legais, negoceiam com o respetivo avaliador a definição dos objetivos, quantificados e calendarizados, a atingir no decurso do exercício de funções, bem como os indicadores de desempenho aplicáveis à avaliação dos resultados.
 
@@ -309,7 +379,9 @@ b) [...].
 
 13 - [...].
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - A avaliação do desempenho dos dirigentes intermédios tem os efeitos previstos no respetivo estatuto, designadamente em matéria de não renovação ou de cessação da respetiva comissão de serviço.
 
@@ -335,21 +407,29 @@ b) [...].
 
 12 - [...].
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 No que não estiver previsto no presente título, ao processo de avaliação dos dirigentes intermédios e do pessoal a que aludem os artigos 6.º e 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, na redação atual, aplica-se, com as necessárias adaptações, o disposto no Título IV do presente diploma.
 
-###### Artigo 40.º — Cargos de direção específica e coordenadores
+Artigo 40.º
+
+Cargos de direção específica e coordenadores
 
 Aos cargos de direção específica e coordenadores a que aludem, respetivamente, os artigos 6.º e 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, na redação atual, aplica-se o subsistema de avaliação do desempenho dos dirigentes da administração pública regional dos Açores (SIADAPRA 2), sendo, para o efeito, equiparados a dirigentes intermédios e avaliados pelo dirigente de quem dependem diretamente.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - A avaliação do desempenho dos trabalhadores é de caráter bienal, sem prejuízo do disposto no presente diploma para a avaliação a efetuar em modelos adaptados do SIADAPRA.
 
 2 - A avaliação respeita ao desempenho dos dois anos civis anteriores.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - No caso de trabalhador que, no ano civil anterior ao da realização do ciclo avaliativo, tenha constituído relação jurídica de emprego público há menos de seis meses, o desempenho relativo a este período é objeto de avaliação conjunta com o do ciclo seguinte.
 
@@ -365,7 +445,9 @@ Aos cargos de direção específica e coordenadores a que aludem, respetivamente
 
 7 - Se no caso previsto no n.º 5 o titular da relação jurídica de emprego público não tiver avaliação que releve nos termos do número anterior ou se pretender a sua alteração, requer avaliação do biénio, feita pelo conselho coordenador da avaliação, mediante proposta de avaliador especificamente nomeado pelo dirigente máximo do serviço.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - As menções qualitativas e respetiva quantificação quando fundamentam, no ano em que são atribuídas, a mudança de posição remuneratória na carreira ou a atribuição de prémio de desempenho, bem como as menções qualitativas anteriores que tenham sido atribuídas e que contribuam para tal fundamentação, são objeto de publicitação interna pelos meios ao dispor no serviço ou organismo.
 
@@ -375,7 +457,9 @@ Aos cargos de direção específica e coordenadores a que aludem, respetivamente
 
 4 - [...].
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 1 - A avaliação do desempenho dos trabalhadores incide sobre os seguintes parâmetros:
 
@@ -403,7 +487,9 @@ b) Se trate de trabalhadores a desenvolver atividades ou tarefas caracterizadas 
 
 9 - É aplicável à avaliação realizada ao abrigo do presente artigo, com as necessárias adaptações, o disposto nos Títulos IV e V.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - [...].
 
@@ -417,7 +503,9 @@ b) Se trate de trabalhadores a desenvolver atividades ou tarefas caracterizadas 
 
 6 - Os indicadores de medida do desempenho não devem ultrapassar o número de três.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - [...].
 
@@ -439,7 +527,9 @@ d) [...].
 
 6 - [Revogado].
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 1 - [...]:
 
@@ -457,7 +547,9 @@ f) [...].
 
 2 - [...].
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - [...]:
 
@@ -479,7 +571,9 @@ f) [...].
 
 4 - [...].
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - [...].
 
@@ -503,7 +597,9 @@ f) [...].
 
 11 - [...].
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - [...]:
 
@@ -527,7 +623,9 @@ h) [...].
 
 3 - [...].
 
-###### Artigo 62.º — [...]
+Artigo 62.º
+
+[...]
 
 1 - [...].
 
@@ -537,7 +635,9 @@ h) [...].
 
 4 - A fase de planeamento deve decorrer no último trimestre do ano anterior ao início do ciclo avaliativo.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - [...].
 
@@ -549,11 +649,15 @@ h) [...].
 
 5 - [...].
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 Na 2.ª quinzena de janeiro do ano seguinte àquele em que se completa o ciclo avaliativo, em regra, realizam-se as reuniões do conselho coordenador da avaliação para proceder à análise das propostas de avaliação e à sua harmonização de forma a assegurar o cumprimento das percentagens relativas à diferenciação de desempenhos, transmitindo, se for necessário, novas orientações aos avaliadores, na sequência das previstas na alínea d) do n.º 1 e no n.º 2 do artigo 62.º, e iniciar o processo que conduz à validação dos Desempenhos relevantes e Desempenhos inadequados e de reconhecimento dos Desempenhos excelentes.
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - Durante o mês de fevereiro do ano seguinte àquele em que se completa o ciclo avaliativo e após a harmonização referida no artigo anterior, realizam-se as reuniões dos avaliadores com cada um dos respetivos avaliados, tendo como objetivo dar conhecimento da avaliação.
 
@@ -569,13 +673,17 @@ Na 2.ª quinzena de janeiro do ano seguinte àquele em que se completa o ciclo a
 
 7 - [...].
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - No início de cada ciclo de avaliação, no começo do exercício de um novo cargo ou função, bem como em todas as circunstâncias em que seja possível a fixação de objetivos a atingir, é efetuada reunião entre avaliador e avaliado destinada a fixar e registar na ficha de avaliação tais objetivos e as competências a demonstrar, bem como os respetivos indicadores de medida e critérios de superação.
 
 2 - A reunião de negociação referida no número anterior pode ser precedida de reunião de análise do dirigente com todos os avaliados que integrem a respetiva unidade orgânica ou equipa, sendo a mesma obrigatória quando existirem objetivos partilhados decorrentes de documentos que integram o ciclo de gestão.
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - [...]:
 
@@ -585,11 +693,15 @@ b) A identificação das competências a demonstrar no desempenho de cada trabal
 
 2 - [...].
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 A homologação das avaliações de desempenho deve ser, em regra, efetuada até 30 de abril, dela devendo ser dado conhecimento ao avaliado no prazo de cinco dias úteis.
 
-###### Artigo 75.º — [...]
+Artigo 75.º
+
+[...]
 
 1 - A diferenciação de desempenhos é definida por resolução do Governo Regional.
 
@@ -603,7 +715,9 @@ A homologação das avaliações de desempenho deve ser, em regra, efetuada até
 
 6 - As avaliações obtidas nos termos dos n.os 5 a 7 do artigo 42.º do presente diploma, encontram-se excluídas das percentagens que vierem a ser definidas nos termos da resolução a que se refere o n.º 1.
 
-###### Artigo 76.º — Gestão e acompanhamento do SIADAPRA 3
+Artigo 76.º
+
+Gestão e acompanhamento do SIADAPRA 3
 
 1 - [...].
 
@@ -621,13 +735,17 @@ b) Elaborar relatório no final de cada ciclo avaliativo que evidencie a forma c
 
 6 - [...].
 
-###### Artigo 77.º — [...]
+Artigo 77.º
+
+[...]
 
 1 - O resultado global da aplicação do SIADAPRA é divulgado em cada serviço, contendo o número das menções qualitativas atribuídas por carreira.
 
 2 - [...].
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 O disposto no presente diploma em matéria de SIADAPRA 3 é também aplicável, com as necessárias adaptações, aos trabalhadores com relação jurídica de emprego público de pessoas coletivas que se encontrem excluídas do seu âmbito de aplicação.»
 
@@ -665,11 +783,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 30 de outubro de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 9 de dezembro de 2015.**
+Assinado em Angra do Heroísmo em 9 de dezembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

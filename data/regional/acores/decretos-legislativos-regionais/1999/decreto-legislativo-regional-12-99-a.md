@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/082a00/18991902.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/1999/04/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1999-549578
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36420b0053effed70f7c1a775e46bed1641948c478a31bf8c5710668dbc96b1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48bccd54f6c9b1eaac22d09a3ab2a2c50bfa68457d318c6cc7bfe36f42de8208
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,42 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Açores
+- Aditivo Alimentar
+- Alimentação Humana
+- Alimento para Animais
 - Armazenagem
 - BENS de Consumo
-- Doença Animal
-- Gado Caprino
+- BSE
 - Carne de Caprino
+- Carne de Ovino
 - Carne de Vaca
-- Multa
+- Comércio
 - Contra-ordenação
 - Controlo de Qualidade
-- Definição de Competências
-- Direcção Regional de Saúde
 - Controlo Sanitário
-- BSE
-- Saúde Pública
-- Fiscalização
-- Medicamento
+- Definição de Competências
 - Direcção Regional de Desenvolvimento Agrário
-- Gado Bovino
-- Carne de Ovino
-- Farinha
-- Inspecção Regional das Actividades Económicas
-- Medidas Preventivas
-- Alimentação Humana
-- Gado Ovino
+- Direcção Regional de Saúde
+- Doença Animal
 - Doença Infecciosa
-- Aditivo Alimentar
+- Farinha
+- Fiscalização
+- Gado Bovino
+- Gado Caprino
+- Gado Ovino
+- Inspecção Regional das Actividades Económicas
+- Medicamento
+- Medidas Preventivas
+- Multa
+- Produto Alimentar
+- Produto Animal
 - Produto Farmacêutico
 - Proteção do Consumidor
-- Alimento para Animais
 - Regulamento
 - Regulamento para a Remoção Armazenamento Recolha e Transporte dos Produtos Interditos e Subprodutos de Origem Animal
 - Sanção
-- Açores
-- Comércio
-- Produto Animal
+- Saúde Pública
 - Transporte
 relationships:
 - type: amended_by
@@ -112,16 +112,21 @@ relationships:
   target: celex:31996D0449
   label: null
   source: http://data.europa.eu/eli/dec/1996/449/oj
+- type: repealed_by
+  target: pt:dre:146215:por
+  label: "Revogado, a partir de 30.12.2011, pelo DLR.29/2011/A.16.11.2011.AL-RAA, DR.IS [220] de 16.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2011-146215
+  date: '2011-11-16'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:06Z'
   warnings: []
   errors: []
 ---
@@ -238,17 +243,17 @@ A utilização dos produtos de origem bovina, ovina e caprina no fabrico de medi
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Janeiro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 17 de Março de 1999.**
+Assinado em Angra do Heroísmo em 17 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO I — (a que se refere o artigo 4.º)
 
-[(ver guia no documento original)](https://files.diariodarepublica.pt/1s/1999/04/082a00/18991902.pdf)
+[[(ver guia no documento original)](https://files.diariodarepublica.pt/1s/1999/04/082a00/18991902.pdf)](https://files.diariodarepublica.pt/1s/1999/04/082a00/18991902.pdf)
 
 ## ANEXO II — (a que se refere o n.º 1 do artigo 5.º)
 
@@ -330,4 +335,4 @@ c) Manter em arquivo, durante o prazo de dois anos, o original das guias de acom
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 5.º)
 
-[(ver guia no documento original)](https://files.diariodarepublica.pt/1s/1999/04/082a00/18991902.pdf)
+[[(ver guia no documento original)](https://files.diariodarepublica.pt/1s/1999/04/082a00/18991902.pdf)](https://files.diariodarepublica.pt/1s/1999/04/082a00/18991902.pdf)

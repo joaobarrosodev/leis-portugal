@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 93/2001, 1º Suplemento, Série I-A de 2001-04-20
   number: '93'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2326-(2) a 2326-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/093a01/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8-a/2001/04/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-a-2001-692199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 731b2d692e53977b7c6890f679f60fadd482f192db45376ebd7f0edf23d45e1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49d59fc3d43bc4327801f3628215608a94e0db96b38e66cb49d4d8b6fa0d51fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Análise Económica
-- Multa
-- Ordenamento do Território
+- Autarquia Local
 - Comissão Mista de Coordenação
-- Governo Regional
 - Contra-ordenação
 - Definição de Competências
 - Desenvolvimento Regional
-- Planeamento Urbano
-- Orla Costeira
-- Indemnização
 - Direito à Informação
+- Governo Regional
+- Indemnização
+- Madeira.região Autónoma
 - Medidas Preventivas
-- Política de Solos
+- Multa
+- Ordenamento do Território
+- Orla Costeira
+- Planeamento Urbano
 - Plano de Pormenor
 - Plano de Urbanização
 - Plano Regional
+- Plano Regional de Ordenamento do Território
+- Política de Solos
 - Política do Ambiente
 - Política Económica
-- Urbanismo
-- Madeira.região Autónoma
-- Plano Regional de Ordenamento do Território
 - Regime Jurídico
-- Autarquia Local
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:443952:por
@@ -119,16 +119,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443952:por
+  label: "Revogado, a partir de 23.03.2009, pelo DLR.43/2008/M.23.12.2008.AL-RAM, DR.IS [247] de 23.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/43-2008-443952
+  date: '2008-12-23'
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:02Z'
   warnings: []
   errors: []
 ---
@@ -317,8 +358,8 @@ Os efeitos deste diploma são reportados à data de entrada em vigor do [Decreto
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional, em 13 de Março de 2001.
 
-**O Presidente da Assembleia Legislativa Regional da Madeira, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional da Madeira, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 18 de Abril de 2001.**
+Assinado em 18 de Abril de 2001.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/09/21400/32873288.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1983-442338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0af2f81bba60ca07c0ee4e3090292d7ab296059654b49df24c1d069527a8cb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e16588db82b4b639d10eba79ebb0d5e14327cde58e9d3bc7b1a9db17f046838
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abastecimento de Água
+- Açores
+- Autarquia Local
+- TAXA de JURO
 relationships:
 - type: amended_by
   target: pt:dre:151885:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:309928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380147:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:151885:por
+  label: "Revogado pelo DRR.11/85/A.09.05.1985.GR-RAA, DR.IS [127] de 03.06.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1985-151885
+  date: '1985-05-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:04Z'
   warnings: []
   errors: []
 ---
@@ -98,29 +115,29 @@ Assim, em execução do [Decreto Legislativo Regional n.º 4/83/A](https://diari
 
 O Governo Regional decreta, nos termos do artigo 229.º alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os investimentos intermunicipais que se destinem a obras de abastecimento de água as populações serão participados financeiramente pelo Governo Regional através da bonificação da taxa de juro devida por empréstimos contraídos pelos municípios para o seu financiamento.
+Artigo 1.º - 1 - Os investimentos intermunicipais que se destinem a obras de abastecimento de água as populações serão participados financeiramente pelo Governo Regional através da bonificação da taxa de juro devida por empréstimos contraídos pelos municípios para o seu financiamento.
 
 2 - Para efeitos do número anterior poderão ser considerados, excepcionalmente, sistemas de tratamento de esgotos e lixos, quando a sua execução esteja directamente relacionada com obras de abastecimento de água.
 
 3 - Não são considerados para efeitos do presente diploma os investimentos cujo custo anual médio seja igual ou inferior a 25% do fundo de equilíbrio financeiro do município solicitante do ano do pedido do empréstimo, ou do ano anterior, no caso de aquele ainda ser desconhecido.
 
-###### Art. 2.º - 1 - Apenas serão bonificados pelo Governo Regional os juros relativos a empréstimos contraídos junto da Caixa Geral de Depósitos.
+Art. 2.º - 1 - Apenas serão bonificados pelo Governo Regional os juros relativos a empréstimos contraídos junto da Caixa Geral de Depósitos.
 
 2 - Havendo acréscimo na bonificação da taxa de juro concedida pela Caixa Geral de Depósitos, será o mesmo deduzido à bonificação do Governo Regional.
 
 3 - Sem prejuízo do disposto no n.º 1, poderá o Governo Regional bonificar os juros de empréstimos contraídos por seu intermédio junto de Instituições estrangeiras, mas apenas na medida do necessário para que esses empréstimos fiquem em condições semelhantes às dos contraídos junto da Caixa Geral de Depósitos.
 
-###### Art. 3.º A taxa de bonificação por parte do Governo Regional será de 19% para todos os empréstimos contraídos para investimentos abrangidos por este diploma.
+Art. 3.º A taxa de bonificação por parte do Governo Regional será de 19% para todos os empréstimos contraídos para investimentos abrangidos por este diploma.
 
-###### Art. 4.º Variando a taxa de juro dos financiamentos, serão os municípios a beneficiar ou a suportar essa variação, mantendo-se inalterável a taxa de bonificação do Governo Regional.
+Art. 4.º Variando a taxa de juro dos financiamentos, serão os municípios a beneficiar ou a suportar essa variação, mantendo-se inalterável a taxa de bonificação do Governo Regional.
 
-###### Art. 5.º - 1 - Pretendendo o município financiar através de um empréstimo um aumento de custos decorrente de uma revisão de preços do empreendimento, deverá previamente apresentar todos os elementos justificativos à Secretaria Regional do Equipamento Social para parecer, sendo posteriormente todo o processo remetido para a Secretaria Regional da Administração Pública.
+Art. 5.º - 1 - Pretendendo o município financiar através de um empréstimo um aumento de custos decorrente de uma revisão de preços do empreendimento, deverá previamente apresentar todos os elementos justificativos à Secretaria Regional do Equipamento Social para parecer, sendo posteriormente todo o processo remetido para a Secretaria Regional da Administração Pública.
 
 2 - O empréstimo contraído nas condições referidas no n.º 1 será bonificado pelo Governo Regional com a mesma taxa de 19%.
 
-###### Art. 6.º Pretendendo o município contrair um novo empréstimo para suportar trabalhos a mais de um empreendimento financeiro por um empréstimo bonificado pelo Governo Regional, deverá apresentar o seu pedido como se se tratasse de um novo investimento, não estando, porém, submetido ao limite fixado no n.º 3 do artigo 1.º
+Art. 6.º Pretendendo o município contrair um novo empréstimo para suportar trabalhos a mais de um empreendimento financeiro por um empréstimo bonificado pelo Governo Regional, deverá apresentar o seu pedido como se se tratasse de um novo investimento, não estando, porém, submetido ao limite fixado no n.º 3 do artigo 1.º
 
-###### Art. 7.º - 1 - Ao solicitar a participação financeira do Governo Regional, deverá cada município enviar:
+Art. 7.º - 1 - Ao solicitar a participação financeira do Governo Regional, deverá cada município enviar:
 
 À Secretaria Regional da Administração Pública:
 
@@ -148,18 +165,18 @@ b) Estudo económico.
 
 2 - A Secretaria Regional do Equipamento Social remeterá à Secretaria Regional da Administração Pública o parecer referido no número anterior.
 
-###### Art. 8.º A decisão sobre a participação financeira do Governo Regional nos investimentos previstos neste diploma será objecto de resolução do mesmo, mediante proposta do Secretário Regional da Administração Pública.
+Art. 8.º A decisão sobre a participação financeira do Governo Regional nos investimentos previstos neste diploma será objecto de resolução do mesmo, mediante proposta do Secretário Regional da Administração Pública.
 
-###### Art. 9.º A bonificação a que se refere o presente diploma será também atribuída aos empréstimos já contraídos pelos municípios, produzindo efeitos a partir de 1 de Janeiro de 1983.
+Art. 9.º A bonificação a que se refere o presente diploma será também atribuída aos empréstimos já contraídos pelos municípios, produzindo efeitos a partir de 1 de Janeiro de 1983.
 
-###### Art. 10.º É revogado o [Decreto Regulamentar Regional n.º 42/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1982-380147), de 26 de Novembro.
+Art. 10.º É revogado o [Decreto Regulamentar Regional n.º 42/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1982-380147), de 26 de Novembro.
 
 Aprovado em Conselho do Governo Regional em 13 de Julho de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 24 de Agosto de 1983.**
+Assinado em Angra do Heroísmo em 24 de Agosto de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

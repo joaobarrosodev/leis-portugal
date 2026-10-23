@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 114/2007, 1º Suplemento, Série I de 2007-06-15
   number: '114'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3872-(2) a 3872-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/726-a/2007/06/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-a-2007-291863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b115fb48918bf906ad2ef99674f58f2aa22a6bbc36c0acc39cb7b4e39fcb899d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89d666f3183f4fd316d75dbd170108b46a22b401e7dee2ce7af00f61b8228190
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Contribuições e Impostos
 - Direcção Geral dos Impostos
-- Impresso
 - Imposto de Camionagem
 - Imposto de Circulação
-- Contribuições e Impostos
+- Impresso
 - Regulamento
 relationships:
 - type: cites
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1279/2003/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1279/2003/11/11/p/dre
+- type: cites
+  target: pt:dre:165664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446912:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:33Z'
   warnings: []
   errors: []
 ---
@@ -161,40 +173,40 @@ Marca: ...
 
 4.º É revogada a [Portaria n.º 1279/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1279-2003-446912), de 11 de Novembro.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Junho de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Junho de 2007.
 
 Modelo n.º 1
 
 Imposto de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
 
 Modelo n.º 1-A
 
 Imposto de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
 
 Modelo n.º 2
 
 Imposto de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
 
 Modelo n.º 2-A
 
 Imposto de circulação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
 
 Modelo n.º 3
 
 Imposto de camionagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
 
 Modelo n.º 3-A
 
 Imposto de camionagem
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/06/11401/00020003.pdf)

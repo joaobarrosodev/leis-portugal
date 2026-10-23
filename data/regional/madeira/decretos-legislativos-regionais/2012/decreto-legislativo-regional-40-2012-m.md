@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/40/2012/12/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-190273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b8b880024d1e80f0a16d589dedc8773b6c0a1bb4bc20f168ec5a9c868c37812
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b125fba84fd34b186953e65c2bad63d39e3b2eb63beca3c71c27eda885f3a6be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Transitária
 - Alvará
+- Atividade Transitária
 - Certificado de Aptidão Profissional
-- Transporte Terrestre
-- Transporte Rodoviário
+- Condutor
 - Direcção Regional dos Transportes Terrestres
 - Documento de Transporte
-- Fiscalização
-- Licenciamento
-- Veículo
-- Licença de Transporte
 - Documentos do Veículo
-- Condutor
-- Transporte de Mercadorias
+- Fiscalização
+- Licença de Transporte
+- Licenciamento
 - Madeira.região Autónoma
 - Regime Jurídico
+- Transporte de Mercadorias
 - Transporte Internacional
+- Transporte Rodoviário
+- Transporte Terrestre
+- Veículo
 relationships:
 - type: cites
   target: celex:31992R0881
@@ -101,15 +101,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/10/2009/03/30/m/dre
 article_structure:
-  article_count: 49
+  article_count: 38
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:37Z'
   warnings: []
   errors: []
 ---
@@ -150,19 +150,25 @@ b) O produto resultante da aplicação das coimas e da cobrança das demais rece
 
 2 - As empresas com sede ou domicílio fiscal na Região Autónoma da Madeira que pretendam realizar transportes rodoviários de mercadorias de âmbito nacional ou internacional são licenciadas pela DRTT, desde que reunidos os requisitos de acesso à atividade e de acesso e organização do mercado previstos nos capítulos I a III do Decreto-Lei nº 257/2007, de 16 de julho, alterado pelo Decreto-Lei nº 137/2008, de 21 de julho, e pelo Decreto-Lei nº 136/2009, de 5 de junho e seus respetivos regulamentos.
 
-###### Artigo 4º — [...]
+Artigo 4º
+
+[...]
 
 1 - A atividade de transporte rodoviário de mercadorias por conta de outrem de âmbito exclusivamente regional, por meio de veículos de peso bruto igual ou superior a 2500 kg, só pode ser exercida por empresas, licenciadas pela DRTT.
 
 2 - ...
 
-###### Artigo 5º — [...]
+Artigo 5º
+
+[...]
 
 1 - ...
 
 2 - É ainda requisito de exercício da atividade que a empresa tenha estabelecimento estável e efetivo no território nacional e que possua a sua situação contributiva regularizada perante a administração fiscal e a segurança social.
 
-###### Artigo 6º — [...]
+Artigo 6º
+
+[...]
 
 1 - A idoneidade é aferida pela inexistência de impedimentos legais, nomeadamente a condenação por determinados ilícitos praticados pelos administradores, diretores, gerentes e gestores de transportes.
 
@@ -170,7 +176,9 @@ b) O produto resultante da aplicação das coimas e da cobrança das demais rece
 
 3 - Para efeitos do presente decreto legislativo regional, quando seja decretada a sanção acessória de interdição do exercício da atividade, os administradores, diretores, gerentes e gestores de transportes em funções à data da infração que originou a sanção acessória deixam de preencher o requisito de idoneidade durante o período de interdição fixado na decisão condenatória.
 
-###### Artigo 7º — [...]
+Artigo 7º
+
+[...]
 
 1 - A capacidade profissional deve ser preenchida por gestor de transportes que, sendo titular do certificado de capacidade profissional a que se refere o artigo 8º, dirija de forma efetiva e permanente a atividade de transportes da empresa.
 
@@ -178,7 +186,9 @@ b) O produto resultante da aplicação das coimas e da cobrança das demais rece
 
 3 - Sempre que aplicável, para efeitos do cumprimento do requisito de capacidade profissional, o gestor de transportes deve fazer prova da sua inscrição na segurança social, como elemento do quadro de pessoal da empresa.
 
-###### Artigo 8º — [...]
+Artigo 8º
+
+[...]
 
 1 - Preenche o requisito de capacidade profissional para efeito de acesso à atividade de transportador rodoviário de mercadorias por conta de outrem por meio de veículos de peso bruto superior a 3500 kg, o titular de certificado válido de capacidade profissional para transportes rodoviários de mercadorias, nacionais ou internacionais, obtido nos termos fixados pela respetiva legislação e regulamentação nacional e comunitária em vigor.
 
@@ -192,7 +202,9 @@ b) O produto resultante da aplicação das coimas e da cobrança das demais rece
 
 6 - ...
 
-###### Artigo 9º — [...]
+Artigo 9º
+
+[...]
 
 1 - A capacidade financeira consiste na posse de recursos financeiros necessários para garantir o exercício da atividade e a boa gestão da empresa.
 
@@ -206,13 +218,17 @@ b) O produto resultante da aplicação das coimas e da cobrança das demais rece
 
 6 - ...
 
-###### Artigo 12º — [...]
+Artigo 12º
+
+[...]
 
 1 - A falta superveniente de qualquer um dos requisitos de idoneidade, capacidade profissional e capacidade financeira deve ser suprida no prazo de seis meses a contar da data da sua ocorrência.
 
 2 - O prazo referido no número anterior é renovável por mais três meses quando a falta superveniente decorra de morte ou incapacidade física do gestor de transportes.
 
-###### Artigo 13º — [...]
+Artigo 13º
+
+[...]
 
 1 - Os pedidos de renovação de alvará devem ser requeridos na DRTT com a antecedência mínima de 30 dias relativamente ao termo do respetivo prazo de validade.
 
@@ -220,7 +236,9 @@ b) O produto resultante da aplicação das coimas e da cobrança das demais rece
 
 3 - ...
 
-###### Artigo 14º — [...]
+Artigo 14º
+
+[...]
 
 1 - ...
 
@@ -232,7 +250,9 @@ b) O produto resultante da aplicação das coimas e da cobrança das demais rece
 
 5 - ...
 
-###### Artigo 16º — Outros transportes
+Artigo 16º
+
+Outros transportes
 
 1 - Estão sujeitos a autorização, a emitir pela DRTT, os transportes de caráter excecional realizados por veículos afetos ao transporte por conta própria, cujo peso bruto exceda 2500 kg, em que, cumulativamente:
 
@@ -246,7 +266,9 @@ d) Os veículos utilizados sejam da propriedade da entidade que realiza o transp
 
 2 - As empresas que sejam titulares de alvará para atividades de transporte ou para a atividade transitária podem solicitar na Direção Regional de Transportes Terrestres o licenciamento de veículos ligeiros para transporte de mercadorias exclusivamente no território da Região Autónoma da Madeira, não carecendo de alvará a que se refere o artigo 4º.
 
-###### Artigo 26º — [...]
+Artigo 26º
+
+[...]
 
 1 - A realização de transporte de caráter excecional sem a autorização a que se refere o nº 1 do artigo 16º, é punível com coima de (euro) 500 a (euro) 2 500.
 
@@ -266,11 +288,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de novembro de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 10 de dezembro de 2012.**
+Assinado em 10 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

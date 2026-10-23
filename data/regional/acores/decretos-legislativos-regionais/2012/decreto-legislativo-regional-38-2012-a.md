@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/38/2012/09/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2012-176278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8d4fd6dfa0c7130e21e405d1eb0223def6b1405ca95ad2a7cce41f1b54178b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2257a43b57fe44c4ac10cd0772025bf612725c4373b40eae520f8fed9f8c2682
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Alvará
 - Armazenagem
-- Multa
-- Estabelecimento Comercial
+- Avaliação de Impacte Ambiental
+- Câmara Municipal
+- Comércio
 - Comércio a Retalho
 - Comércio por Grosso
 - Contra-ordenação
 - Criação de Serviços
+- Estabelecimento Comercial
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
 - Feira
 - Fiscalização
 - Formulário Eletrónico
-- Avaliação de Impacte Ambiental
 - Inspecção Regional das Actividades Económicas
 - Instalação de Serviços
-- Licenciamento
 - Licença de Construção
-- Sistema de Informação
+- Licenciamento
+- Multa
 - Presidente
 - Prestação de Serviços
 - Receita Própria
-- Câmara Municipal
 - Regime Jurídico
 - Sanção
-- Açores
-- Comércio
+- Sistema de Informação
 - Venda Ambulante
 - Vistoria
 relationships:
@@ -119,13 +119,13 @@ relationships:
 article_structure:
   article_count: 35
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:36Z'
   warnings: []
   errors: []
 ---
@@ -600,11 +600,11 @@ O presente diploma entra em vigor na data da publicação da portaria a que se r
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 5 de julho de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 31 de julho de 2012.**
+Assinado em Angra do Heroísmo em 31 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

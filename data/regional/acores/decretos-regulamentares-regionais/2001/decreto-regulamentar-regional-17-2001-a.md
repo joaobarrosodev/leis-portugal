@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2001/11/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2001-568093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4e727633e09865db9e5822003ec5a962e6d553346e2be32dc2788feeea0b8f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1504af9e73edeb525d3dea59d4c26382c38eb9818d82470a767f76f4a729236c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Educação Pré-escolar
+- Estabelecimento de Ensino
 - Estatuto
 - Jardim de Infância
 - Licenciamento
-- Estabelecimento de Ensino
-- Açores
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:583787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583787:por
+  label: "Mantido em vigor o Estatuto dos Estabelecimentos de Educação Pré-Escolar, aprovado pelo presente diploma, pelo DLR.26/2005/A.17.10.2005.AL-RAA,\
+    \ DR.IS-A [212] de 04.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2005-583787
+  date: '2005-10-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/1998/08/04/a/dre
   label: null
@@ -84,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/1997/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/1997/02/10/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561219:por
+  label: null
+  source: null
 article_structure:
   article_count: 50
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:25Z'
   warnings: []
   errors: []
 ---
@@ -124,13 +142,13 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 19 de Setembro de 2001.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 8 de Novembro de 2001.**
+Assinado em Angra do Heroísmo em 8 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — ESTATUTO DOS ESTABELECIMENTOS DE EDUCAÇÃO PRÉ-ESCOLAR
 

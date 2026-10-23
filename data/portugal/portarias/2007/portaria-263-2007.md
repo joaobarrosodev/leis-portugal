@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/263/2007/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/263-2007-518452
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88b13579efab6daea87569b00f031fe5568075a2fe65829b741da3780d5b5c44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ecac91b84524106792cd46aee4ca0d9e731956cd8150284510147ea25b3b3912
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,25 @@ relationships:
   target: pt:dre:309292:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449428:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 482/2006, de 26-Maio, alterada pelo presente\
+    \ diploma, pela PORT.438/2008.19.06.2008.MAOTDR, DR.IS [117] de 19.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/438-2008-449428
+  date: '2008-06-19'
+- type: amended_by
+  target: pt:dre:452955:por
+  label: "Desanexados vários prédios rústicos da zona de caça atribuída pela Port 482/2006, de 26-Maio, alterada pelo presente\
+    \ diploma e pela Port 438/2008, de 19-Jun, pela PORT.1108/2008.03.10.2008.MAOTDR, DR.IS [192] de 03.10.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1108-2008-452955
+  date: '2008-10-03'
+- type: amended_by
+  target: pt:dre:309292:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa do Talurdo, município de Silves, concessionada pela\
+    \ Port. 482/2006, de 26-Mai, na redacção da presente portaria, pela PORT.1136/2010.02.11.2010.MADRP, DR.IS [212] de 02.11.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1136-2010-309292
+  date: '2010-11-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -87,16 +106,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/482/2006/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/482/2006/05/26/p/dre
+- type: cites
+  target: pt:dre:286684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:21Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +156,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 15 de Fevereiro de 2007. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 18 de Janeiro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05000/15571557.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05000/15571557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05000/15571557.pdf)

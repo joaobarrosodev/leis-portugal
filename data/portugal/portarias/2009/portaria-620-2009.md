@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/620/2009/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/620-2009-494499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c32ad6f338a56f09e0f5beac2f02882cc3ee27d683ddca0105b30ea8080bf5c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c963f236463088e58f127e41741adc9480637100ffc21efbcc9c74649642b276
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:341442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:341442:por
+  label: "Anexados vários terrenos cinegéticos à zona de caça municipal criada pela Port. 268/2005, de 17-Mar, na redacção\
+    \ da presente portaria, pela PORT.890/2010.13.09.2010.MADRP, DR.IS [178] de 13.09.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-2010-341442
+  date: '2010-09-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -90,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/268/2005/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/268/2005/03/17/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574343:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:20Z'
   warnings: []
   errors: []
 ---
@@ -134,4 +156,4 @@ d) 30 % aos demais caçadores, conforme é referido na alínea d) do citado arti
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Maio de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11000/0354803548.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11000/0354803548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11000/0354803548.pdf)

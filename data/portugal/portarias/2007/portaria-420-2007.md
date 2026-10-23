@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/420/2007/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/420-2007-519638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50a4129417d1f31bab9e84a5fdc223c48865911fd6acc26f2571eb8696cdb6d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 428bc49001f23d404e0dfdd07a7cf9d7bf53389b6ad11e54e71fbd53501b0bee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,10 +69,10 @@ subjects:
 - Curso
 - Ensino Cooperativo
 - Ensino Particular
+- Ensino Superior
+- Estabelecimento de Ensino
 - Instituto Superior de Educação e Ciências
 - Instituto Superior Miguel Torga
-- Estabelecimento de Ensino
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/158/
@@ -114,16 +114,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/754/2006/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/754/2006/08/02/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:29Z'
   warnings: []
   errors: []
 ---
@@ -162,8 +214,8 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 23 de Março de 2007.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 23 de Março de 2007.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07300/23602361.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07300/23602361.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07300/23602361.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07300/23602361.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07300/23602361.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07300/23602361.pdf)

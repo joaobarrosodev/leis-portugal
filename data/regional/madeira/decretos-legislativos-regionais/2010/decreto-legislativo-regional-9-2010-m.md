@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/06/10800/0191501919.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2010/06/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2010-332756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d934216ac2c9ee98414ecd7de420fcb952e8f83483405f3f8ffc546b9f51708
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ebcd1f7e8a2e47fc7e45f64ce87b8c18da441dd6bac4b5547d512216e76f16f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Regime do Contrato de Trabalho em Funções Públicas
-- Recrutamento de Pessoal
-- Remuneração Acessória
-- Madeira.região Autónoma
-- Contrato de Trabalho
-- Mobilidade de Pessoal
-- Funcionário Público
 - Administração Regional
+- Contrato de Trabalho
+- Função Pública
+- Funcionário Público
 - Gestão de Recursos Humanos
+- Madeira.região Autónoma
+- Mobilidade de Pessoal
+- Recrutamento de Pessoal
+- Regime do Contrato de Trabalho em Funções Públicas
+- Remuneração Acessória
 - Trabalhador com Contrato de Trabalho em Funções Públicas
 relationships:
 - type: amended_by
   target: pt:dre:115886134:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279777:por
+  label: "Declarada a ilegalidade, com força obrigatória geral, da norma contida no n.º 2 do art. 4.º do presente DLR, pelo\
+    \ AC.33/2011.14.02.2011.TCS, DR.IS [31] de 14.02.2011 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/33-2011-279777
+  date: '2011-02-14'
+- type: amended_by
+  target: pt:dre:174831:por
+  label: "Dada nova redação aos arts. 5º-A e 5º-B do DLR 1/2009/M de 12-jan, alterado pelo presente diploma, pelo DLR.26/2012/M.03.09.2012.AL-RAM,\
+    \ DR.IS [170] de 03.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2012-174831
+  date: '2012-09-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/177/2009/08/04/p/dre
   label: null
@@ -123,16 +135,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:246372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115886134:por
+  label: Revogado, com efeitos a 01.09.2018, o presente diploma, pelo(a) Decreto Legislativo Regional n.º 11/2018/M - Diário
+    da República n.º 149/2018, Série I de 2018-08-03, e nos termos do seu art. 44.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2018-115886134
+  date: '2018-08-03'
 article_structure:
-  article_count: 17
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:21Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +247,9 @@ Aplicação de diplomas de revisão de carreiras e corpos especiais
 
 Aos trabalhadores abrangidos nos n.os 1 e 2 do artigo anterior, que tenham mantido o vínculo de nomeação e estejam integrados em carreiras ou corpos especiais aos quais sejam aplicáveis regimes jurídicos de âmbito nacional, aplicam-se os diplomas legais que, em cumprimento do artigo 101.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, procedam à revisão das respectivas carreiras ou corpos especiais, independentemente do vínculo de emprego público a que respeite o âmbito de aplicação desses diplomas.
 
-###### Artigo 5.º-A — Sistema centralizado de gestão
+Artigo 5.º-A
+
+Sistema centralizado de gestão
 
 1 - Sem prejuízo, designadamente, do disposto no título ii e no capítulo iv do título iv da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, os departamentos do Governo Regional podem ainda optar por um sistema centralizado de gestão de recursos humanos, doravante designado por sistema centralizado de gestão, de acordo com o definido nos números seguintes.
 
@@ -227,7 +287,9 @@ e) Os postos de trabalho relativos a necessidades de recrutamento.
 
 13 - No caso da opção pelo sistema centralizado de gestão, constará dos diplomas que consagram as orgânicas dos respectivos departamentos do Governo Regional a regulamentação da afectação definindo, designadamente, as carreiras e categorias abrangidas naquele sistema, bem como a indicação da adopção do sistema de gestão misto, nos termos definidos na alínea b) do n.º 7.
 
-###### Artigo 5.º-B — Recrutamento
+Artigo 5.º-B
+
+Recrutamento
 
 1 - Os recrutamentos de trabalhadores para os órgãos e serviços da administração regional autónoma da Madeira, incluindo os relativos a serviços e fundos autónomos, cuja área de recrutamento seja aberta a trabalhadores com relação jurídica constituída por tempo determinado ou determinável e a indivíduos sem relação jurídica de emprego público constituída, carecem de autorização dos membros do Governo Regional com competência nas áreas das finanças e da Administração Pública.
 
@@ -255,11 +317,11 @@ O [Decreto Legislativo Regional n.º 1/2009/M](https://diariodarepublica.pt/dr/d
 
 Aprovado em sessão plenária da Assembleia Legislativa da Madeira em 11 de Maio de 2010.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 24 de Maio de 2010.**
+Assinado em 24 de Maio de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 

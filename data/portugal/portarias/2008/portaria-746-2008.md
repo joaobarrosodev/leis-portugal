@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/746/2008/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/746-2008-455172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29dd2fa8b9581f48274d26dad0754a25acf84f12f6b92fe8a9b22a87ca28123d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f1c7c7df13efa383645f513c96d1c9758675d5a606d9d7a4670faed619d914b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1262/2002/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1262/2002/09/12/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634696:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:14Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +140,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 22 de Julho de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 25 de Julho de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15000/0521705217.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15000/0521705217.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15000/0521705217.pdf)

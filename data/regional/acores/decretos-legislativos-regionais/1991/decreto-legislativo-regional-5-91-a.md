@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/056a00/12031207.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1991/03/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1991-459431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e35dd6eb5089abd682e7042c691b8d3190aa79d030fc7ee613ff5859309d9cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47062d508e6e03179a854a1dc6794ef5a8035795fd992d4bd9b338a86623d1e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
-- Direcção Regional de Administração Local
-- Política de Solos
-- Plano de Urbanização
-- Administração Local
-- Regime Jurídico
 - Açores
+- Administração Local
+- Direcção Regional de Administração Local
+- Ordenamento do Território
+- Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:175320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:358130:por
+  label: "Alterada a redacção do art. 6.º pelo DLR.14/93/A.10.08.1993.ALR-RAA, DR.IS-A [186] de 10.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-1993-358130
+  date: '1993-08-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 6 PELO DLR 5/95/A DE 03-MAR DR.IS-A [93] DE 20/ABR/1995
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-04-20'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 6 PELO DLR 9/96/A DE 14-MAI DR.IS-A [136] DE 14/JUN/1996\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-06-14'
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333541:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175320:por
+  label: "Revogado, a partir de 31.08.2012, pelo DLR.35/2012/A.16.08.2012.AL-RAA, DR.IS [158] de 16.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/35-2012-175320
+  date: '2012-08-16'
 article_structure:
   article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:08Z'
   warnings: []
   errors: []
 ---
@@ -453,10 +481,10 @@ O limite definido no n.º 1 do artigo 8.º do [Decreto Legislativo Regional n.º
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 23 de Janeiro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 21 de Fevereiro de 1991.**
+Assinado em Angra do Heroísmo em 21 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

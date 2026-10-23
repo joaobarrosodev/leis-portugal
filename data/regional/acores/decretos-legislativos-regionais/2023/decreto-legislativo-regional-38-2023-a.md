@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20600/0001900031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/38/2023/10/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/38-2023-223203768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 945482a7d9c834331db912eea8573d948363b55166c54c3e9f5366030b89e98e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f4cd0ddf208387f71698669daf4f645aacd140c6e68d68044c2565614ccc1f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Remuneração Complementar Regional
+- Açores
 - Ajuda Comunitária
-- Financiamento
-- Pescador
+- Armador
 - Centro Regional de Segurança Social
-- Pessoal do MAR
-- Conselho Administrativo
-- Governo Regional
-- Fundopesca
 - Comissão CE
+- Conselho Administrativo
+- Financiamento
+- Fundopesca
+- Governo Regional
 - Lota
+- Pescador
+- Pessoal do MAR
 - Política Comunitária
 - Prazo
-- Armador
 - Remuneração
-- Açores
+- Remuneração Complementar Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/16/2002/05/10/a/dre
@@ -95,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/5/2016/02/24/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/5/2016/02/24/a/dre
+- type: cites
+  target: pt:dre:368662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73688944:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:06Z'
   warnings: []
   errors: []
 ---
@@ -147,11 +159,15 @@ Os artigos 2.º a 12.º e 14.º do [Decreto Legislativo Regional n.º 19/2013/A]
 
 O FUNDOPESCA é um fundo dotado de personalidade jurídica e de autonomia administrativa e financeira, na tutela direta do membro do Governo Regional com competência em matéria de pescas.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Constitui atribuição do FUNDOPESCA prestar apoio financeiro, de natureza parcialmente social, aos profissionais da pesca, quando estejam temporariamente impedidos de exercer a respetiva atividade e registem uma redução do rendimento, nos termos previstos no presente diploma.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - São beneficiários do disposto no presente diploma:
 
@@ -173,7 +189,9 @@ c) Gameleiros - não marítimos que trabalham em terra na preparação de artes 
 
 3 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -193,7 +211,9 @@ c) [...]
 
 2 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O valor diário da compensação salarial é igual a 1/30 de 1,05 vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores.
 
@@ -201,7 +221,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - O regime de compensação salarial previsto no presente diploma é subsidiário relativamente aos regimes de apoio financeiro previstos em legislação regional, nacional e comunitária.
 
@@ -209,7 +231,9 @@ c) [...]
 
 3 - No caso previsto no número anterior, de cada vez que for acionada, a compensação salarial é ajustada de modo que o somatório da mesma com os restantes apoios não ultrapasse um montante máximo igual a 1,55 vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, transposto para o período a que se refere a compensação.
 
-###### Artigo 7.º-A — [...]
+Artigo 7.º-A
+
+[...]
 
 1 - As candidaturas ao FUNDOPESCA são entregues entre os dias 1 e 30 de setembro do ano anterior ao ano de ativação.
 
@@ -239,7 +263,9 @@ h) Declaração de início de atividade, caso o beneficiário seja trabalhador i
 
 6 - Depois de instruídas as candidaturas, juntos os documentos referidos nas alíneas f) e g) do n.º 2 e validados os impedimentos ou redução de rendimentos, o conselho administrativo dispõe de 15 dias úteis para processamento e decisão das candidaturas.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -269,13 +295,17 @@ h) [Anterior alínea f).]
 
 6 - (Anterior n.º 3.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O mandato dos membros do conselho administrativo é de três anos, renováveis, podendo, todavia, ser exonerados a todo o tempo, com ressalva do diretor regional com competência em matéria de pescas, que exerce a presidência por inerência de funções.
 
 2 - As despesas com as deslocações dos membros referidos nas alíneas d) a g) do n.º 2 do artigo anterior, no âmbito de reuniões do conselho administrativo, são suportadas pela direção regional com competência em matéria de pescas e são de montante idêntico às ajudas de custo a que têm direito os trabalhadores que exercem funções públicas com remunerações base superiores ao valor do nível remuneratório 18 do Sistema Remuneratório da Administração Pública.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 [...]
 
@@ -305,17 +335,23 @@ g) [...]
 
 h) [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - A homologação referida no número anterior deve ocorrer no prazo de três dias a contar da data da deliberação do conselho administrativo.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 A direção regional com competência em matéria de pescas presta apoio administrativo e logístico ao FUNDOPESCA.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo da entrega da candidatura a que se refere o artigo 7.º-A, determinam a impossibilidade de o armador beneficiar da compensação salarial atribuída pelo FUNDOPESCA as situações seguintes:
 
@@ -361,11 +397,11 @@ O presente diploma entra em vigor a 1 de janeiro de 2024.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de setembro de 2023.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 19 de outubro de 2023.**
+Assinado em Angra do Heroísmo em 19 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -610,3 +646,5 @@ b) A divergência entre o período constante das declarações a que se referem 
 ###### Artigo 17.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia da sua publicação.
+
+116970613

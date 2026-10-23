@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/11/22200/0001100055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2024/11/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2024-896791624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57b640ebd013d6648ef97b098bc3a3b8ad36bea6e347a632ab8ee41e824afbc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 258fabbcdb13e0eda4702b29083c675a3736de3a223280e2f091a39c4ffc7ded
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Secretaria Regional da Educação Cultura e Desporto
 relationships:
@@ -111,16 +111,90 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210518832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213761240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860106954:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:7/2023/A
+  label: Revoga, a partir de 16 de novembro de 2024, nos termos da alínea a) do artigo 7.º do presente diploma, o Decreto
+    Regulamentar Regional n.º 7/2023/A, de 21 de março, Diário da República n.º 57/2023, Série I
+  source: null
+  date: '2023-03-21'
 article_structure:
   article_count: 73
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 26
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:02Z'
   warnings: []
   errors: []
 ---
@@ -179,11 +253,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 28 de outubro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 13 de novembro de 2024.**
+Assinado em Angra do Heroísmo em 13 de novembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -353,7 +427,9 @@ b) Núcleo de Informática e Telecomunicações;
 
 c) Núcleo de Arquivo e Documentação.
 
-###### Artigo 9.º — Divisão Administrativa e Financeira
+###### Artigo 9.º
+
+##### Divisão Administrativa e Financeira
 
 1 - A Divisão Administrativa e Financeira, doravante designada por DAF, é um serviço de estudo, planeamento, organização e execução, que tem por missão apoiar os órgãos e serviços da SRECD nos domínios da gestão dos recursos contabilísticos e, ainda, nesse âmbito, assegurar a execução dos serviços de caráter administrativo.
 
@@ -405,7 +481,9 @@ u) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - A DAF integra a Secção de Apoio Administrativo.
 
-###### Artigo 10.º — Secção de Apoio Administrativo
+###### Artigo 10.º
+
+#### Secção de Apoio Administrativo
 
 1 - À Secção de apoio administrativo, doravante designada por SAA, compete prestar todo o apoio administrativo e financeiro para a execução das matérias referidas no n.º 2 do artigo anterior, bem como assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
 
@@ -655,7 +733,9 @@ b) Núcleo de Informação Educativa;
 
 c) Núcleo de Saúde e Desporto Escolar.
 
-###### Artigo 19.º — Divisão de Serviços Pedagógicos
+###### Artigo 19.º
+
+##### Divisão de Serviços Pedagógicos
 
 1 - À Divisão de Serviços Pedagógicos, doravante designada por DSP, compete:
 
@@ -803,7 +883,9 @@ f) Núcleo de Contabilidade e Gestão.
 
 4 - Na dependência da DSPGF funcionam as juntas médicas a que se refere o artigo 29.º, com as competências que lhe estão atribuídas pelos normativos legais que aprovam os estatutos do pessoal docente e de ação educativa, bem como pelo presente diploma.
 
-###### Artigo 23.º — Divisão de Aprovisionamento, Infraestruturas e Pessoal
+###### Artigo 23.º
+
+##### Divisão de Aprovisionamento, Infraestruturas e Pessoal
 
 1 - À Divisão de Aprovisionamento, Infraestruturas e Pessoal, doravante designada por DAIP, compete:
 
@@ -849,7 +931,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - A SAA é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 24.º — Divisão de Gestão do Pessoal Docente
+###### Artigo 24.º
+
+##### Divisão de Gestão do Pessoal Docente
 
 1 - À Divisão de Gestão do Pessoal Docente, doravante designada por DGPD, compete:
 
@@ -887,7 +971,9 @@ p) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGPD é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 25.º — Divisão de Gestão do Pessoal de Ação Educativa
+###### Artigo 25.º
+
+##### Divisão de Gestão do Pessoal de Ação Educativa
 
 1 - À Divisão de Gestão do Pessoal de Ação Educativa, doravante designada por DGPAE, compete:
 
@@ -917,7 +1003,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGPAE é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 26.º — Divisão de Gestão Financeira
+###### Artigo 26.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira, doravante designada por DGF, compete:
 
@@ -1127,7 +1215,9 @@ a) Divisão da Promoção Cultural;
 
 b) Divisão Administrativa e Financeira.
 
-###### Artigo 35.º — Divisão da Promoção Cultural
+###### Artigo 35.º
+
+##### Divisão da Promoção Cultural
 
 1 - À Divisão da Promoção Cultural, doravante designada por DPC, compete:
 
@@ -1215,7 +1305,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O CPMIA é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do diretor regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 37.º — Divisão Administrativa e Financeira
+###### Artigo 37.º
+
+##### Divisão Administrativa e Financeira
 
 1 - À Divisão Administrativa e Financeira, doravante designada por DAF, compete:
 
@@ -1379,7 +1471,9 @@ c) Núcleo de Pessoal, Expediente e Arquivo;
 
 d) Núcleo de Aprovisionamento e Contabilidade.
 
-###### Artigo 42.º — Divisão da Promoção Desportiva e do Desporto Federado
+###### Artigo 42.º
+
+##### Divisão da Promoção Desportiva e do Desporto Federado
 
 1 - À Divisão da Promoção Desportiva e do Desporto Federado, doravante designada por DPDDF, compete:
 
@@ -1407,7 +1501,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DPDDF é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 43.º — Divisão da Atividade Física, Instalações e Formação
+###### Artigo 43.º
+
+##### Divisão da Atividade Física, Instalações e Formação
 
 1 - À Divisão da Atividade Física, Instalações e Formação, doravante designada por DAFIF, compete:
 
@@ -1967,18 +2063,18 @@ Ao pessoal da carreira de monitor de formação profissional é aplicável o dis
 
 Quadro de pessoal dirigente, de direção específica e de chefia da Secretaria Regional da Educação, Cultura e Desporto
 
-| Serviços Executivos Centrais | Serviços Executivos Centrais | Serviços Executivos Centrais |
+| Serviços Executivos Centrais |  |  |
 | --- | --- | --- |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Pessoal dirigente |  |  |
 | 1 | Diretor de Serviços Técnico-Financeiros, cargo de direção intermédia de 1.º grau | a) |
 | 1 | Chefe da Divisão Administrativa e Financeira, cargo de direção intermédia de 2.º grau | a) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador técnico da Secção de Apoio Administrativo da Divisão Administrativa e Financeira | b) |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Núcleo de Informática e Telecomunicações | c) |
 | 1 | Coordenador do Núcleo de Arquivo e Documentação | c) |
-| Direção Regional da Educação e Administração Educativa | Direção Regional da Educação e Administração Educativa | Direção Regional da Educação e Administração Educativa |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Direção Regional da Educação e Administração Educativa |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor Regional, cargo de direção superior de 1.º grau | a) |
 | 1 | Diretor de Serviços Educativos, cargo de direção intermédia de 1.º grau | a) |
 | 1 | Diretor de Serviços de Pessoal e Gestão Financeira, cargo de direção intermédia de 1.º grau | a) |
@@ -1987,50 +2083,50 @@ Quadro de pessoal dirigente, de direção específica e de chefia da Secretaria 
 | 1 | Chefe da Divisão de Gestão do Pessoal Docente, cargo de direção intermédia de 2.º grau | a) |
 | 1 | Chefe da Divisão de Gestão do Pessoal de Ação Educativa, cargo de direção intermédia de 2.º grau | a) |
 | 1 | Chefe da Divisão de Gestão Financeira e Equipamentos, cargo de direção intermédia de 2.º grau | a) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador técnico da Secção de Apoio Administrativo da Divisão de Aprovisionamento, Infraestruturas e Pessoal | b) |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Núcleo de Informação Educativa | c) |
 | 1 | Coordenador do Núcleo de Saúde e Desporto Escolar | c) |
 | 1 | Coordenador do Núcleo da Formação | c) |
 | 1 | Coordenador do Núcleo de Contabilidade e Gestão | c) |
-| Direção Regional da Cultura | Direção Regional da Cultura | Direção Regional da Cultura |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Direção Regional da Cultura |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor regional, cargo de direção superior de 1.º grau | a) |
 | 1 | Diretor de Serviços de Desenvolvimento Cultural, cargo de direção intermédia de 1.º grau | a) |
 | 1 | Chefe da Divisão da Promoção Cultural, cargo de direção intermédia de 2.º grau | a) |
 | 1 | Chefe da Divisão Administrativa e Financeira, cargo de direção intermédia de 2.º grau | a) |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Centro do Património Móvel, Imaterial e Arqueológico | c) |
-| Direção Regional do Desporto | Direção Regional do Desporto | Direção Regional do Desporto |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Direção Regional do Desporto |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Diretor regional, cargo de direção superior de 1.º grau | a) |
 | 1 | Diretor de Serviços da Atividade Física e do Desporto, cargo de direção intermédia de 1.º grau | a) |
 | 1 | Chefe da Divisão da Promoção Desportiva e do Desporto Federado, cargo de direção intermédia de 2.º grau | a) |
 | 1 | Chefe da Divisão da Atividade Física, Instalações e Formação, cargo de direção intermédia de 2.º grau | a) |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Pessoal de chefia |  |  |
 | 1 | Coordenador Técnico do Núcleo de Pessoal, Expediente e Arquivo | b) |
-| Outro pessoal de chefia | Outro pessoal de chefia | Outro pessoal de chefia |
+| Outro pessoal de chefia |  |  |
 | 1 | Coordenador do Núcleo de Aprovisionamento e Contabilidade | c) |
-| Serviços Executivos Periféricos | Serviços Executivos Periféricos | Serviços Executivos Periféricos |
-| Serviços de Desporto de Ilha | Serviços de Desporto de Ilha | Serviços de Desporto de Ilha |
-| Pessoal de chefia | Pessoal de chefia | Pessoal de chefia |
+| Serviços Executivos Periféricos |  |  |
+| Serviços de Desporto de Ilha |  |  |
+| Pessoal de chefia |  |  |
 | 1 | Diretor do Serviço de Desporto da Ilha de São Miguel, cargo de direção intermédia de 1.º grau | a) |
 | 1 | Diretor do Serviço de Desporto da Ilha Terceira, cargo de direção intermédia de 1.º grau | a) |
 | 1 | Diretor do Serviço de Desporto da Ilha do Faial, cargo de direção intermédia de 1.º grau | a) |
-| Pessoal de direção específica | Pessoal de direção específica | Pessoal de direção específica |
+| Pessoal de direção específica |  |  |
 | 1 | Coordenador do Serviço de Desporto da Ilha de Santa Maria, cargo de direção específica de 2.º grau | d) |
 | 1 | Coordenador do Serviço de Desporto da Ilha Graciosa, cargo de direção específica de 2.º grau | d) |
 | 1 | Coordenador do Serviço de Desporto da Ilha de São Jorge, cargo de direção específica de 2.º grau | d) |
 | 1 | Coordenador do Serviço de Desporto da Ilha do Pico, cargo de direção específica de 2.º grau | d) |
 | 1 | Coordenador do Serviço de Desporto da Ilha das Flores, cargo de direção específica de 2.º grau | d) |
 | 1 | Coordenador do Serviço de Desporto da Ilha do Corvo, cargo de direção específica de 2.º grau | d) |
-| Serviços de Controlo, Auditoria e Fiscalização | Serviços de Controlo, Auditoria e Fiscalização | Serviços de Controlo, Auditoria e Fiscalização |
-| Inspeção Regional da Educação | Inspeção Regional da Educação | Inspeção Regional da Educação |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Serviços de Controlo, Auditoria e Fiscalização |  |  |
+| Inspeção Regional da Educação |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Inspetor regional, cargo de direção superior de 2.º grau | a) |
-| Inspeção Regional das Atividades Culturais | Inspeção Regional das Atividades Culturais | Inspeção Regional das Atividades Culturais |
-| Pessoal dirigente | Pessoal dirigente | Pessoal dirigente |
+| Inspeção Regional das Atividades Culturais |  |  |
+| Pessoal dirigente |  |  |
 | 1 | Inspetor regional, cargo de direção superior de 2.º grau | a) e e) |
 
 a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional;
@@ -2042,3 +2138,5 @@ c) Remuneração de acordo com o artigo 7.º do Estatuto do Pessoal Dirigente do
 d) Remuneração de acordo com a alínea b) do n.º 2 do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional;
 
 e) Suplemento remuneratório fixado nos termos do Decreto-Lei n.º 112/2001, de 6 de abril, com a adaptação à Região Autónoma dos Açores efetuada pelo Decreto Legislativo Regional n.º 22/2001/A, de 13 de novembro.
+
+118347662

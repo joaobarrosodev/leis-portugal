@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 42/2007, 1º Suplemento, Série I de 2007-02-28
   number: '42'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1414-(9) a 1414-(12)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04201/00090012.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/219-d/2007/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-d-2007-470054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a64994f6f8d9666ac1431b50fb5e741457adb7a9f3f5b5ddfb4b6efde453abe8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a596a8036aa850468d23946f06c8bf692d5c75de5b658aa15304c05d7ac0d2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
+- Aquicultura
 - Definição de Competências
 - Direcção Geral das Pescas e Aquicultura
-- Frota de Pesca
-- Pesca
-- Aquicultura
-- Orgânica
-- Produtos de Pesca
 - Embarcação de Pesca
+- Frota de Pesca
 - Gestão de Recursos Humanos
+- Gestão Financeira
+- Orgânica
+- Pesca
+- Produtos de Pesca
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/79/2001/03/05/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:371216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:00Z'
   warnings: []
   errors: []
 ---
@@ -345,4 +357,4 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 23 de Fevereiro de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva.

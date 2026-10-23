@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17100/0001000081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2022/09/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2022-200634455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6427c6391c3fdec296d531ec848f7473d75d6f32f2575a3d66e64933c0c471bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4aba83ad5828f871e02869ddd5610f74712185515f8cf2b1cc0a97eef12cbb73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
+- Açores
 - Comissão de Serviço
 - Concurso
 - Conselho Regional de Obras Públicas
 - Definição de Competências
+- Direção Regional da Mobilidade
 - Direcção Regional da Energia
 - Direcção Regional de Obras Públicas
 - Direcção Regional de Turismo
@@ -83,14 +83,14 @@ subjects:
 - Livre Trânsito
 - Orgânica
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Serviços Periféricos
-- Açores
-- Secretaria Regional dos Transportes Turismo e Energia
+- Reestruturação de Serviços
 - Secretaria Regional das Obras Públicas e Comunicações
-- Secretário Regional do Turismo Mobilidade e Infraestruturas
-- Direção Regional da Mobilidade
 - Secretaria Regional do Turismo Mobilidade e Infraestruturas
+- Secretaria Regional dos Transportes Turismo e Energia
+- Secretário Regional do Turismo Mobilidade e Infraestruturas
+- Serviços Periféricos
 relationships:
 - type: amended_by
   target: pt:dre:896297376:por
@@ -132,16 +132,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:165605188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166658190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:896297376:por
+  label: Revogado a partir de 13 de novembro de 2024 pelo(a) Decreto Regulamentar Regional n.º 17/2024/A - Diário da República
+    n.º 219/2024, Série I de 2024-11-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2024-896297376
+  date: '2024-11-12'
 article_structure:
   article_count: 112
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 37
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:48Z'
   warnings: []
   errors: []
 ---
@@ -276,11 +322,11 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado em Conselho de Governo Regional, em Ponta Delgada, em 4 de agosto de 2022.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 26 de agosto de 2022.**
+Assinado em Angra do Heroísmo em 26 de agosto de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -522,7 +568,9 @@ t) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - O SAJCP integra a Divisão dos Assuntos Jurídicos.
 
-###### Artigo 9.º — Divisão dos Assuntos Jurídicos
+###### Artigo 9.º
+
+##### Divisão dos Assuntos Jurídicos
 
 1 - À Divisão dos Assuntos Jurídicos, doravante designada por DAJ, compete:
 
@@ -594,7 +642,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - O SPCFD integra a Divisão de Planeamento e Controlo Financeiro e o Centro de Informação e Documentação.
 
-###### Artigo 11.º — Divisão de Planeamento e Controlo Financeiro
+###### Artigo 11.º
+
+##### Divisão de Planeamento e Controlo Financeiro
 
 1 - À Divisão de Planeamento e Controlo Financeiro, doravante designada por DPCF, compete:
 
@@ -622,7 +672,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DPCF integra a Secção de Vencimentos, Contabilidade e Serviços Administrativos e o Centro de Informação e Documentação.
 
-###### Artigo 12.º — Secção de Vencimentos, Contabilidade e Serviços Administrativos
+###### Artigo 12.º
+
+#### Secção de Vencimentos, Contabilidade e Serviços Administrativos
 
 1 - À Secção de Vencimentos, Contabilidade e Serviços Administrativos, doravante designada por SVCSA, compete:
 
@@ -736,7 +788,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - O SGRH integra a Secção de Pessoal.
 
-###### Artigo 15.º — Secção de Pessoal
+###### Artigo 15.º
+
+#### Secção de Pessoal
 
 1 - À Secção de Pessoal, doravante designada por SP, compete:
 
@@ -1668,7 +1722,9 @@ a) Divisão dos Transportes Aéreos e Setor Aeroportuário;
 
 b) Divisão dos Transportes Marítimos e Setor Portuário.
 
-###### Artigo 44.º — Divisão dos Transportes Aéreos e Setor Aeroportuário
+###### Artigo 44.º
+
+##### Divisão dos Transportes Aéreos e Setor Aeroportuário
 
 1 - À Divisão dos Transportes Aéreos e Setor Aeroportuário, doravante designada por DTASA, compete:
 
@@ -1746,7 +1802,9 @@ g) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NATTA é coordenado por trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do Diretor Regional da Mobilidade, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 47.º — Divisão dos Transportes Marítimos e Setor Portuário
+###### Artigo 47.º
+
+##### Divisão dos Transportes Marítimos e Setor Portuário
 
 1 - À Divisão dos Transportes Marítimos e Setor Portuário, doravante designada por DTMSP, compete:
 
@@ -1802,7 +1860,9 @@ h) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NAAM é coordenado por trabalhador com vínculo de emprego público por tempo indeterminado, designado, através de despacho do Diretor Regional da Mobilidade, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 49.º — Divisão de Planeamento, Gestão de Recursos e Contabilidade
+###### Artigo 49.º
+
+##### Divisão de Planeamento, Gestão de Recursos e Contabilidade
 
 1 - À Divisão de Planeamento, Gestão de Recursos e Contabilidade, doravante designada por DPGRC, compete:
 
@@ -1986,7 +2046,9 @@ c) A Divisão de Infraestruturas Marítimas e Hidráulicas;
 
 d) O Núcleo de Apoio Administrativo.
 
-###### Artigo 56.º — Divisão de Edifícios
+###### Artigo 56.º
+
+##### Divisão de Edifícios
 
 1 - À Divisão de Edifícios, doravante designada por DE, compete:
 
@@ -2026,7 +2088,9 @@ b) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NME é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado designado, através de despacho do Diretor Regional das Obras Públicas, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 58.º — Divisão de Equipamentos Públicos
+###### Artigo 58.º
+
+##### Divisão de Equipamentos Públicos
 
 1 - À Divisão de Equipamentos Públicos, doravante designada por DEP, compete:
 
@@ -2064,7 +2128,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NIRT é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 60.º — Divisão de Infraestruturas Marítimas e Hidráulicas
+###### Artigo 60.º
+
+##### Divisão de Infraestruturas Marítimas e Hidráulicas
 
 1 - À Divisão de Infraestruturas Marítimas e Hidráulicas, doravante designada por DIMH, compete:
 
@@ -2146,7 +2212,9 @@ b) A Divisão de Construção e Conservação de Estradas;
 
 c) O Serviço de Estaleiro Central, Máquinas e Viaturas.
 
-###### Artigo 63.º — Divisão de Gestão de Projetos
+###### Artigo 63.º
+
+##### Divisão de Gestão de Projetos
 
 1 - À Divisão de Gestão de Projetos, doravante designada por DGP, compete:
 
@@ -2198,7 +2266,9 @@ c) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NAA é dirigido por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 65.º — Divisão de Construção e Conservação de Estradas
+###### Artigo 65.º
+
+##### Divisão de Construção e Conservação de Estradas
 
 1 - À Divisão de Construção e Conservação de Estradas, doravante designada por DCCE, compete:
 
@@ -2324,7 +2394,9 @@ g) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O SMVAGS é dirigido por um chefe de setor, cargo de direção específica de 2.º grau designado por despacho do secretário regional, nos termos do disposto no artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 70.º — Divisão de Controlo Financeiro e Planeamento
+###### Artigo 70.º
+
+##### Divisão de Controlo Financeiro e Planeamento
 
 1 - À Divisão de Controlo Financeiro e Planeamento, doravante designada por DCFP, compete:
 
@@ -2468,7 +2540,9 @@ a) A Divisão de Combustíveis e Licenciamentos Energéticos;
 
 b) O Núcleo de Eficiência Energética e Autoconsumo;
 
-###### Artigo 73.º — Divisão de Combustíveis e Licenciamentos Energéticos
+###### Artigo 73.º
+
+##### Divisão de Combustíveis e Licenciamentos Energéticos
 
 1 - À Divisão de Combustíveis e Licenciamentos Energéticos, doravante designada por DCLE, compete:
 
@@ -2866,7 +2940,9 @@ i) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O SEMC é dirigido por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 86.º — Divisão de Planeamento, Qualidade e Inovação
+###### Artigo 86.º
+
+##### Divisão de Planeamento, Qualidade e Inovação
 
 1 - À Divisão de Planeamento, Qualidade e Inovação, doravante designada por DPQI, compete:
 
@@ -2900,7 +2976,9 @@ m) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DPQI integra a Secção Administrativa e Financeira.
 
-###### Artigo 87.º — Secção Administrativa e Financeira
+###### Artigo 87.º
+
+#### Secção Administrativa e Financeira
 
 1 - À Secção Administrativa e Financeira, doravante designada por SAF, compete:
 
@@ -3302,4 +3380,6 @@ b) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o 
 
 Quadro de pessoal dirigente, de chefia e de direção específica da Secretaria Regional do Turismo, Mobilidade e Infraestruturas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17100/0001000081.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17100/0001000081.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17100/0001000081.pdf)
+
+115645089

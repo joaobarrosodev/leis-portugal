@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/07100/06170618.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/4-1977-139461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c11bfa148a22ad53972687e02e491bc9cb87f1ccbaf6dc9594306c1680ee078d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31dfc5394e52f1be85904fdd382df8e2055234c5dafb6db9b1c4cbffbd298296
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Emigração
+- Quadro de Pessoal
+- Rectificação de Numero de Diploma
+- Rectificação de TIPO de Diploma
 relationships:
 - type: amended_by
   target: pt:dre:448715:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:505999:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:252216:por
+  label: Rectificado pela DECL.DD8253.16.05.1977.PCM, DR.IS [113] de 16.05.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-252216
+  date: '1977-05-16'
+- type: repealed_by
+  target: pt:dre:448715:por
+  label: "Revogado pelo DRR.5/78/A.09.01.1978.GR-RAA, DR.IS [29] de 03.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1978-448715
+  date: '1978-01-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:47Z'
   warnings: []
   errors: []
 ---
@@ -94,30 +113,30 @@ Em execução do Decreto Regional n.º 2/77, de 10 de Janeiro:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados na Direcção Regional de Emigração os lugares constantes do mapa anexo a este diploma.
+Artigo 1.º São criados na Direcção Regional de Emigração os lugares constantes do mapa anexo a este diploma.
 
-###### Art. 2.º A Secretaria Regional poderá contratar, em tempo parcial, um consultor técnico para assuntos de emigração com categoria correspondente à de técnico de 2.ª classe, cuja remuneração mensal será calculada pelos critérios estabelecidos na lei geral.
+Art. 2.º A Secretaria Regional poderá contratar, em tempo parcial, um consultor técnico para assuntos de emigração com categoria correspondente à de técnico de 2.ª classe, cuja remuneração mensal será calculada pelos critérios estabelecidos na lei geral.
 
-###### Art. 3.º - 1. O provimento de técnicos de serviço social far-se-á de entre indivíduos habilitados com o curso de assistente social.
+Art. 3.º - 1. O provimento de técnicos de serviço social far-se-á de entre indivíduos habilitados com o curso de assistente social.
 
 2. Será considerado técnico de 2.ª classe aquele que tiver menos de cinco anos de serviço prestado ao Estado ou a qualquer ente público, classificando-se de 1.ª classe o que tiver mais de cinco anos de serviço prestado naquelas condições, as quais são exigidas também para a promoção à 1.ª classe.
 
-###### Art. 4.º O provimento de técnicos auxiliares far-se-á de entre indivíduos com a habilitação mínima do curso geral dos liceus, que, na altura do provimento, serão classificados de 2.ª classe, sendo promovidos à 1.ª classe após cinco anos de bom e efectivo serviço.
+Art. 4.º O provimento de técnicos auxiliares far-se-á de entre indivíduos com a habilitação mínima do curso geral dos liceus, que, na altura do provimento, serão classificados de 2.ª classe, sendo promovidos à 1.ª classe após cinco anos de bom e efectivo serviço.
 
-###### Art. 5.º Pode o provimento ser feito por contrato por um ano, renovável, nos termos gerais da lei, ou em comissão de serviço ou em regime de requisição, com a faculdade de os providos optarem pelas remunerações correspondentes aos cargos de origem, em conformidade com o disposto no artigo 2.º do [Decreto-Lei n.º 55/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1976-505999), de 22 de Janeiro.
+Art. 5.º Pode o provimento ser feito por contrato por um ano, renovável, nos termos gerais da lei, ou em comissão de serviço ou em regime de requisição, com a faculdade de os providos optarem pelas remunerações correspondentes aos cargos de origem, em conformidade com o disposto no artigo 2.º do [Decreto-Lei n.º 55/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1976-505999), de 22 de Janeiro.
 
 Aprovado em plenário do Governo Regional em 11 de Fevereiro de 1977.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada em 3 de Março de 1977.**
+Assinado em Ponta Delgada em 3 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 ## ANEXO — Mapa a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/07100/06170618.pdf))](https://files.diariodarepublica.pt/1s/1977/03/07100/06170618.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/07100/06170618.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

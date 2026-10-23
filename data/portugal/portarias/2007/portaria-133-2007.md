@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/133/2007/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/133-2007-522832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3cc6d788054a0fab39aebf0065d23e8f28d47e0eee81e30c1e78de268980138
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a14cbd555f0e39dfe9908b0b5bde9fc69b14d7a5982f2a633367ccb3ab97048f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Incêndio
-- Prevenção de Incêndios
-- Direcção Geral dos Recursos Florestais
-- Proteção da Floresta
-- Autoridade Nacional de Protecção Civil
 - Abastecimento de Água
+- Autoridade Nacional de Protecção Civil
+- Direcção Geral dos Recursos Florestais
+- Incêndio
 - Normalização
+- Prevenção de Incêndios
+- Proteção da Floresta
 - Sistema de Defesa da Floresta contra Incêndios
 relationships:
 - type: cites
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/209/1998/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/209/1998/07/15/p/dre
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423602:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:38Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +141,7 @@ d) «Tomadas de água» os pontos de ligação a redes de abastecimento de água
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf)
 
 5.º A classificação dos pontos de água segundo a sua funcionalidade e operacionalidade, para integração nas redes locais, municipais e regionais de DFCI, atende à seguinte classificação:
 
@@ -151,7 +159,7 @@ b) Pontos de água de 2.ª ordem - os que não cumprem as especificações previ
 
 QUADRO N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf)
 
 7.º A classificação dos pontos de água existentes ou propostos no âmbito do planeamento local, municipal e regional de DFCI, nos termos dos números anteriores, atende:
 
@@ -223,7 +231,7 @@ Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre G
 
 Especificações técnicas dos pontos de água para abastecimento de meios aéreos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf)
 
 Nota. - As dimensões não estão desenhadas à escala.
 
@@ -231,7 +239,7 @@ Figura n.º 2
 
 Representação da zona de protecção imediata e das zonas de protecção alargada aplicadas aos cones de voo de aproximação e de saída e à escapatória de emergência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf)
 
 Nota. - A direcção da escapatória de emergência é exemplificativa e deve ser planeada em função da topografia e regime de ventos locais.
 
@@ -239,7 +247,7 @@ Figura n.º 3
 
 Gabarito de segurança a respeitar na zona de protecção alargada do cone de voo de aproximação (perfil longitudinal do corte A-A' da figura n.º 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01900/07000702.pdf)
 
 Notas
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/39/2008/08/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2008-455655
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e31af09f94afa82af4d600f70f4ee586554958de931974ad99c2e16eb031f0b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cff1172610adba667e01b67f45bddb373ff94907cdd5e945150b41a45a64a3cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estrada
-- Estatuto
-- Rede de Estradas
-- Classificação de Estradas
-- Licenciamento
 - Açores
+- Classificação de Estradas
+- Estatuto
+- Estrada
+- Licenciamento
+- Rede de Estradas
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:18/2003/A
+  label: "Altera os artigos 2.º a 8.º, 10.º, 16.º, 23.º, 25.º a 31.º, 36.º, 40.º a 44.º, 46.º, 47.º, 49.º, 54.º, 58.º, 60.º,\
+    \ 61.º, 63.º, 71.º e 72.º, as epígrafes do artigo 50.º, do capítulo ii e das secções iii e iv do capítulo iii, adita os\
+    \ artigos 9.º-A, 9.º-B, 9.º-C, 9.º-D, 9.º-E, 21.º-A, 21.º-B, 21.º-C, 48.º-A, 48.º-B, 48.º-C, 48.º-D, 48.º-E, 48.º-F, 48.º-G,\
+    \ 48.º-H, 48.º-I, 48.º-J, 48.º-L, 48.º-M, 72.º-A 72.º-B, as subsecções i e ii à secção i do capítulo ii, a secção v ao\
+    \ capítulo ii e as subsecções i a iii à secção ii do capítulo iv, e revoga o n.º 8 do artigo 2.º, o n.º 2 do artigo 3.º,\
+    \ o n.º 4 do artigo 4.º, a alínea c) do artigo 6.º, o n.º 2 do artigo 7.º, o artigo 9.º, o n.º 3 do artigo 10.º, o n.º\
+    \ 3 do artigo 31.º e os artigos 37.º, 38.º, 53.º e 73.º do Decreto Legislativo Regional n.º 18/2003/A, de 9 de Abril,\
+    \ DR.IS-A [84], que republica em anexo.\0.\0"
+  source: null
+  date: '2003-04-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/18/2003/04/09/a/dre
   label: null
@@ -93,16 +105,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/declrectif/5-a/2003/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/declrectif/5-a/2003/04/30/p/dre
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
 article_structure:
-  article_count: 156
-  section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 101
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:52Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +203,9 @@ d) ...
 
 8 - (Revogado.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Constituem formas de intervenção nas vias constantes do presente diploma a sua construção, beneficiação, reabilitação, manutenção e gestão, a cargo das entidades competentes.
 
@@ -173,7 +215,9 @@ d) ...
 
 4 - As formas de intervenção nas vias realizam-se com respeito pelo que se encontra previsto no presente diploma e pelas normas ambientais e de ordenamento do território em vigor.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A construção, beneficiação, reabilitação, manutenção e gestão das vias públicas são da competência do Governo Regional, no que toca às redes regional e rural/florestal, e dos municípios, no que respeita à rede municipal.
 
@@ -183,15 +227,21 @@ d) ...
 
 4 - (Revogado.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - As características mínimas de natureza técnica estabelecidas no presente diploma para as diferentes categorias de vias não inviabilizam a classificação de vias já existentes de acordo com a respectiva finalidade, sem prejuízo de, posteriormente, se promover a sua aproximação àqueles mínimos, designadamente aquando da realização de obras nas mesmas.
 
 2 - O Governo Regional e os municípios podem, por acto administrativo, em casos excepcionais, devidamente justificados, adoptar larguras inferiores às indicadas na secção v do capítulo ii do presente diploma.
 
-### CAPÍTULO II — Classificação e características das vias
+CAPÍTULO II
 
-###### Artigo 6.º — [...]
+Classificação e características das vias
+
+Artigo 6.º
+
+[...]
 
 ...
 
@@ -201,17 +251,23 @@ b) ...
 
 c) (Revogada.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As ERP são as vias de comunicação de maior interesse regional que estabelecem as ligações entre os centros principais e destes com os principais portos, aeroportos e outros centros de actividade económica, formando a rede viária estruturante de cada uma das ilhas.
 
 2 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 As ERS são as vias que estabelecem as ligações entre as ERP, assegurando igualmente o acesso aos centros económicos, agrícolas, rurais e turísticos mais importantes.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -225,11 +281,15 @@ c) ...
 
 3 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Os CFP são vias que estabelecem o acesso, a partir dos povoados ou de vias integradas noutras redes, aos perímetros e núcleos florestais submetidos ao regime florestal, que ligam estes entre si ou que se desenvolvem no seu interior, com a função de permitirem a exploração e protecção dos recursos florestais e o aproveitamento silvo-pastoril.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -241,17 +301,23 @@ b) As pontes e viadutos nela incorporados e os terrenos adquiridos por expropria
 
 3 - A faixa de rodagem é constituída por uma ou mais vias.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
 2 - As condições de efectivação dessas zonas de protecção são definidas por decreto regulamentar regional.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 A extensão de cada via é medida e fixada a partir de um dos seus pontos extremos.
 
-###### Artigo 27.º — Sobreposição de redes viárias
+Artigo 27.º
+
+Sobreposição de redes viárias
 
 1 - No caso de sobreposição de troços de redes viárias diferentes, a medição e demarcação será contínua na via considerada de maior categoria; no caso de a sobreposição se verificar em vias de igual categoria, dar-se-á continuidade à via de numeração mais baixa.
 
@@ -263,17 +329,25 @@ b) ...
 
 c) ...
 
-###### Artigo 28.º — Demarcação
+Artigo 28.º
+
+Demarcação
 
 As normas relativas à demarcação das vias das redes constantes do presente diploma são aprovadas por portaria do membro do Governo Regional competente em matéria de rede viária regional.
 
-#### SECÇÃO III — Condições de circulação e segurança
+SECÇÃO III
 
-###### Artigo 29.º — Segurança
+Condições de circulação e segurança
+
+Artigo 29.º
+
+Segurança
 
 As vias das diferentes redes viárias devem possuir os equipamentos de sinalização, protecção, balizagem e segurança que, consoante o tráfego a que se destinam, respeitem as normas em vigor.
 
-###### Artigo 30.º — Intersecções
+Artigo 30.º
+
+Intersecções
 
 1 - As intersecções das vias públicas devem localizar-se e possuir características técnicas indispensáveis de modo a garantir a segurança e a fluidez do tráfego.
 
@@ -291,9 +365,13 @@ d) Nas ligações das vias da rede municipal e das vias das redes agrícola e ru
 
 4 - As intersecções entre as vias da rede regional ou destas com as vias de outras redes devem possuir dispositivos destinados a garantir a segurança rodoviária.
 
-#### SECÇÃO IV — Integração paisagística das vias
+SECÇÃO IV
 
-###### Artigo 31.º — [...]
+Integração paisagística das vias
+
+Artigo 31.º
+
+[...]
 
 1 - Na integração paisagística das vias devem ser consideradas todas as funções que a mesma pode desempenhar, designadamente de ordem estética e ornamental, de agrado e conforto para os viajantes, de salubridade, de conservação dos pavimentos, de consolidação das margens e taludes, de segurança rodoviária e de interesse económico.
 
@@ -301,13 +379,17 @@ d) Nas ligações das vias da rede municipal e das vias das redes agrícola e ru
 
 3 - (Revogado.)
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - As diferentes entidades responsáveis pela gestão das vias terrestres devem ter sempre actualizado o inventário e a cartografia das suas vias, em escalas apropriadas.
 
 2 - Da informação cartográfica das vias deve constar os pontos principais dos percursos, tais como povoações, obras de arte, intersecções com outras vias e limites dos municípios, devidamente referenciados por perfis quilométricos.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -355,7 +437,9 @@ o) ...
 
 8 - A fiscalização dos actos previstos nos n.os 2 a 7 do presente artigo é da responsabilidade da entidade competente pela gestão da via.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -385,7 +469,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - ...
 
@@ -405,7 +491,9 @@ b) Até 100 m das intersecções, nas vias da rede regional, e 50 m, nas vias da
 
 7 - Na autorização de acessos a locais destinados a grandes aglomerações de pessoas e veículos, nomeadamente templos, instituições de ensino, parques industriais, superfícies comerciais, recintos desportivos, fábricas, oficinas, hotéis, restaurantes, recintos de espectáculos e de diversão e outros estabelecimentos de considerável dimensão, pode ser exigida a adopção de soluções rodoviárias e de estacionamento privativo adequadas ao volume de tráfego e de utilizadores.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -421,7 +509,9 @@ d) ...
 
 3 - Por acordo entre o beneficiário da autorização e a entidade competente em relação à via, os trabalhos de reposição do pavimento a que alude o número anterior podem ser executados por esta última, ficando aquele obrigado a suportar o respectivo custo.
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 ...
 
@@ -439,21 +529,29 @@ f) ...
 
 g) ...
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - Os terrenos particulares situados nas áreas confinantes com as vias a que se refere o presente diploma ficam sujeitos a servidões administrativas, designadas por servidões viárias, nos termos dos artigos seguintes.
 
 2 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 As servidões viárias têm por objectivo garantir a segurança, eficiência e comodidade da utilização das vias, salvaguardando a sua função sócio-económica, o seu interesse no âmbito da protecção civil e a sua componente paisagística.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 A realização de quaisquer trabalhos em zonas protegidas das vias ou a constituição de servidões estão sujeitas, consoante os casos, a aprovações, autorizações e licenciamentos.
 
-###### Artigo 50.º — Actos de permissão
+Artigo 50.º
+
+Actos de permissão
 
 1 - ...
 
@@ -461,11 +559,15 @@ A realização de quaisquer trabalhos em zonas protegidas das vias ou a constitu
 
 3 - ...
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 O disposto nos artigos 50.º e 51.º é aplicável, com as necessárias adaptações, aos actos de permissão respeitantes às vias das redes agrícola e rural/florestal.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - São isentas das taxas a que se refere o n.º 1 do artigo 56.º as pessoas colectivas de direito público, as instituições particulares de solidariedade social e as pessoas colectivas de utilidade pública administrativas, sem prejuízo do disposto no número seguinte.
 
@@ -473,11 +575,15 @@ O disposto nos artigos 50.º e 51.º é aplicável, com as necessárias adaptaç
 
 3 - As isenções das taxas referidas no n.º 2 do artigo 56.º são determinadas pelos municípios, nos termos do regime geral das taxas das autarquias locais e demais legislação aplicável.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 São nulos os actos administrativos de autorização ou licenciamento que violem o disposto no presente diploma e sua regulamentação.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -499,7 +605,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - ...
 
@@ -509,11 +617,15 @@ e) ...
 
 4 - São igualmente indemnizáveis os custos efectivos com a remoção, depósito e abate dos animais encontrados soltos na zona da via, bem como os custos efectivos com a remoção, depósito e destruição de objectos deixados na via.
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 Fica abrangida pelo regime constante do presente diploma a concessão rodoviária em regime de SCUT na ilha de São Miguel, prevista no [Decreto Legislativo Regional n.º 25/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2001-399175), de 31 de Dezembro.
 
-###### Artigo 72.º — Classificação de vias e áreas de serviço
+Artigo 72.º
+
+Classificação de vias e áreas de serviço
 
 1 - A classificação, numeração, designação e identificação dos pontos extremos e intermédios das vias das redes regional, agrícola e rural/florestal são estabelecidas por decreto regulamentar regional.
 
@@ -527,9 +639,13 @@ São aditados ao [Decreto Legislativo Regional n.º 18/2003/A](https://diariodar
 
 Classificação estrutural
 
-##### SUBSECÇÃO II — Classificação funcional
+SUBSECÇÃO II
 
-###### Artigo 9.º-A — Classificação
+Classificação funcional
+
+Artigo 9.º-A
+
+Classificação
 
 As estradas da rede regional classificam-se funcionalmente da seguinte forma:
 
@@ -539,7 +655,9 @@ b) Vias expresso (VE);
 
 c) Vias regulares (VRG).
 
-###### Artigo 9.º-B — Vias rápidas
+Artigo 9.º-B
+
+Vias rápidas
 
 As vias rápidas são estradas especificamente projectadas e construídas para o escoamento rápido do tráfego motorizado e dispõem, cumulativamente, das seguintes características:
 
@@ -549,7 +667,9 @@ b) Inexistência de intersecções de nível com qualquer outra via;
 
 c) Inexistência de acessos marginais.
 
-###### Artigo 9.º-C — Vias expresso
+Artigo 9.º-C
+
+Vias expresso
 
 As vias expresso são estradas projectadas e construídas para o escoamento do tráfego essencialmente motorizado e dispõem, cumulativamente, das seguintes características:
 
@@ -559,17 +679,25 @@ b) Intersecções de nível ou nós de ligação devidamente identificados e esp
 
 c) Acessos marginais condicionados.
 
-###### Artigo 9.º-D — Vias regulares
+Artigo 9.º-D
+
+Vias regulares
 
 As vias regulares são estradas projectadas e construídas para o escoamento de todo o tipo de tráfego e não classificadas como vias rápidas ou vias expresso.
 
-###### Artigo 9.º-E — Eixo rodoviário
+Artigo 9.º-E
+
+Eixo rodoviário
 
 O eixo rodoviário compreende um conjunto de vias ainda que pertencentes a diversas redes, integrando maioritariamente estradas regionais, que entre si se articulam na distribuição zonal de um determinado volume de tráfego.
 
-#### SECÇÃO V — Características técnicas das vias
+SECÇÃO V
 
-###### Artigo 21.º-A — Vias da rede regional
+Características técnicas das vias
+
+Artigo 21.º-A
+
+Vias da rede regional
 
 1 - As características mínimas do perfil transversal tipo da plataforma das vias da rede regional são as seguintes:
 
@@ -609,7 +737,9 @@ iii) Largura de cada berma não inferior a 0,50 m.
 
 4 - Os caminhos paralelos devem ter uma plataforma que permita o cruzamento de veículos e uma faixa de rodagem de largura não inferior a 4 m.
 
-###### Artigo 21.º-B — Vias da rede municipal
+Artigo 21.º-B
+
+Vias da rede municipal
 
 As características mínimas do perfil transversal tipo da plataforma das vias da rede municipal são as seguintes:
 
@@ -625,7 +755,9 @@ i) Largura de cada via não inferior a 2,50 m;
 
 ii) Largura de cada berma não inferior a 0,50 m.
 
-###### Artigo 21.º-C — Vias das redes rural/florestal e agrícola
+Artigo 21.º-C
+
+Vias das redes rural/florestal e agrícola
 
 1 - As características mínimas do perfil transversal tipo da plataforma das vias das redes agrícola e rural/florestal são as seguintes:
 
@@ -655,7 +787,9 @@ a) Largura de cada via não inferior a 2,50 m;
 
 b) Largura de cada berma não inferior a 0,50 m.
 
-###### Artigo 48.º-A — Zona de visibilidade
+Artigo 48.º-A
+
+Zona de visibilidade
 
 Para efeitos do disposto na presente secção, define-se como zona de visibilidade o interior dos alinhamentos curvos e das intersecções de vias que é limitada por uma linha obtida da seguinte forma:
 
@@ -667,9 +801,13 @@ c) Pelo ponto assim determinado, traça-se uma recta que faça ângulos iguais c
 
 d) Para concordâncias com raio superior aos indicados no n.º 2 do artigo 30.º, é do ponto de tangência da curva traçada que se partirá para obter a linha limite da zona de visibilidade.
 
-##### SUBSECÇÃO I — Servidões da rede regional
+SUBSECÇÃO I
 
-###### Artigo 48.º-B — Regime de servidão
+Servidões da rede regional
+
+Artigo 48.º-B
+
+Regime de servidão
 
 1 - Nos terrenos limítrofes às vias da rede regional é proibido realizar quaisquer dos seguintes trabalhos ou actividades:
 
@@ -717,7 +855,9 @@ v) Símbolos ou inscrições de carácter fúnebre, visíveis da via.
 
 2 - Os limites das zonas de servidão fixados no n.º 1 podem ser reduzidos, para a totalidade ou parte das vias da rede regional, mediante decreto regulamentar regional.
 
-###### Artigo 48.º-C — Excepções
+Artigo 48.º-C
+
+Excepções
 
 1 - Exceptuam-se do disposto no artigo anterior:
 
@@ -729,7 +869,9 @@ c) Colocação de tabuletas, anúncios ou quaisquer objectos de publicidade ou p
 
 2 - As vedações a que se refere a alínea a) do número anterior podem, a todo o tempo, ser mandadas retirar pela entidade competente, mediante notificação aos interessados, sem direito a qualquer indemnização.
 
-###### Artigo 48.º-D — Permissões
+Artigo 48.º-D
+
+Permissões
 
 1 - Nos terrenos limítrofes às vias da rede regional podem ser admitidas, na respectiva zona de servidão, as seguintes obras:
 
@@ -757,7 +899,9 @@ c) O estabelecimento de silos, pocilgas, estábulos e salas de ordenha, fora de 
 
 d) A instalação de áreas de serviço e de postos de abastecimento de combustíveis, de acordo com a regulamentação aplicável.
 
-###### Artigo 48.º-E — Área para passeio e estacionamento colectivo
+Artigo 48.º-E
+
+Área para passeio e estacionamento colectivo
 
 1 - Nas construções a que se referem as alíneas a) a d) e h) do n.º 1 do artigo 48.º-B e nos loteamentos é obrigatória a cedência, a título gratuito, pelo proprietário e os demais titulares de direito reais sobre o prédio, de uma parcela de terreno, confinante com a via, destinada a passeio e estacionamento de utilização colectiva, que passa a fazer parte integrante da zona da via.
 
@@ -771,9 +915,13 @@ d) A instalação de áreas de serviço e de postos de abastecimento de combust�
 
 6 - A escritura, nos casos a que se referem as alíneas a) a d) e h) do n.º 1 do artigo 48.º-B, ou o alvará, no caso dos loteamentos, constitui título bastante para efeitos de desanexação da área cedida.
 
-##### SUBSECÇÃO II — Servidões da rede municipal
+SUBSECÇÃO II
 
-###### Artigo 48.º-F — Regime de servidão
+Servidões da rede municipal
+
+Artigo 48.º-F
+
+Regime de servidão
 
 Nos terrenos limítrofes às vias da rede municipal é proibido realizar quaisquer dos seguintes trabalhos ou actividades:
 
@@ -805,7 +953,9 @@ n) Produção de fumos, nomeadamente proveniente de queimadas, gases tóxicos ou
 
 o) Símbolos ou inscrições de carácter fúnebre, visíveis da via.
 
-###### Artigo 48.º-G — Excepções
+Artigo 48.º-G
+
+Excepções
 
 Exceptuam-se do disposto no artigo anterior:
 
@@ -815,7 +965,9 @@ b) Colocação de tabuletas, anúncios ou quaisquer objectos de publicidade ou p
 
 c) O estabelecimento de vedações, sem prejuízo do disposto no artigo 48.º-J.
 
-###### Artigo 48.º-H — Permissões
+Artigo 48.º-H
+
+Permissões
 
 1 - Nos terrenos limítrofes às vias da rede municipal podem ser admitidas, na respectiva zona de servidão, as seguintes obras:
 
@@ -835,7 +987,9 @@ b) O estabelecimento de silos, pocilgas, estábulos e salas de ordenha, fora dos
 
 c) Instalação de áreas de serviço e de postos de abastecimento de combustíveis e as obras neles a realizar, desde que o abastecimento de veículos se faça fora da plataforma da via, em desvios apropriados e separados daquela por um separador de largura não inferior a 1 m.
 
-###### Artigo 48.º-I — Área para passeio e estacionamento colectivo
+Artigo 48.º-I
+
+Área para passeio e estacionamento colectivo
 
 1 - Nas construções a que se referem as alíneas a) e b) do n.º 1 do artigo 48.º-F e nos loteamentos é obrigatória a cedência, a título gratuito, pelo proprietário e os demais titulares de direito reais sobre o prédio, de uma parcela de terreno, confinante com a via, destinada a passeio e estacionamento de utilização colectiva, que passa a fazer parte integrante da zona da via.
 
@@ -849,7 +1003,9 @@ c) Instalação de áreas de serviço e de postos de abastecimento de combustív
 
 6 - A escritura, nos casos a que se referem as alíneas a) e b) do n.º 1 do artigo 48.º-F, ou o alvará, no caso dos loteamentos, constitui título bastante para efeitos de desanexação da área cedida.
 
-###### Artigo 48.º-J — Vedações
+Artigo 48.º-J
+
+Vedações
 
 1 - É admitida a vedação de terrenos abertos, confinantes com as vias da rede municipal, por meio de sebes vivas, muros e grades, desde que as vedações que não sejam vazadas não ultrapassem 1,20 m acima do nível do terreno, salvo quando:
 
@@ -873,9 +1029,13 @@ e) A vedação seja constituída por sebe viva e se torne aconselhável, nomeada
 
 6 - A vedação de terrenos com sebes vivas, até à altura de 1,20 m acima do nível do terreno, não carece de autorização, podendo, porém, a entidade competente ordenar a sua remoção sempre que possa resultar inconveniente para a via ou para a circulação, sem direito a qualquer indemnização para o proprietário respectivo.
 
-##### SUBSECÇÃO III — Servidões das redes agrícola e rural/florestal
+SUBSECÇÃO III
 
-###### Artigo 48.º-L — Regime de servidão
+Servidões das redes agrícola e rural/florestal
+
+Artigo 48.º-L
+
+Regime de servidão
 
 1 - Nos terrenos limítrofes às vias das redes agrícola e rural/florestal é proibido realizar quaisquer dos seguintes trabalhos ou actividades:
 
@@ -907,11 +1067,15 @@ n) Símbolos ou inscrições de carácter fúnebre, visíveis da via.
 
 2 - Os limites das zonas de servidão fixados no número anterior podem ser reduzidos, para a totalidade ou parte das vias das redes agrícola e rural/florestal, mediante decreto regulamentar regional.
 
-###### Artigo 48.º-M — Permissões
+Artigo 48.º-M
+
+Permissões
 
 Na zona de servidão non aedificandi definida na alínea a) do n.º 1 do artigo anterior pode a entidade competente em relação à via autorizar construções simples, nomeadamente de interesse agrícola ou rural/florestal, bem como a vedação de terrenos abertos confinantes, devendo o acto de autorização estabelecer as condições que devem ser observadas.
 
-###### Artigo 72.º-A — Transferência de vias
+Artigo 72.º-A
+
+Transferência de vias
 
 1 - É permita a transferência de vias entre as diferentes redes, mediante protocolo a celebrar entre as entidades competentes em relação às mesmas.
 
@@ -921,7 +1085,9 @@ Na zona de servidão non aedificandi definida na alínea a) do n.º 1 do artigo 
 
 4 - O disposto nos números anteriores não prejudica a validade e a produção de efeitos dos acordos ou protocolos respeitantes a transferência de vias já celebrados entre o Governo Regional e os municípios.
 
-###### Artigo 72.º-B — Norma transitória
+Artigo 72.º-B
+
+Norma transitória
 
 Para efeitos de aplicação do presente diploma, até ao estabelecimento, nos termos do n.º 1 do artigo 72.º, da classificação, numeração e designação das vias da rede regional, as actuais vias rápidas, estradas regionais de 1.ª classe que constituem circulares ou variantes a centros urbanos, estradas regionais de 1.ª classe e estradas regionais de 2.ª classe são classificadas como vias rápidas, vias expresso, estradas regionais principais regulares e estradas regionais secundárias regulares, respectivamente, mantendo a numeração e a designação atribuídas.»
 
@@ -943,11 +1109,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 1 de Julho de 2008.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 24 de Julho de 2008.**
+Assinado em Angra do Heroísmo em 24 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

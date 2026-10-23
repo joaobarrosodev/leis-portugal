@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2006/01/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b47cb1dc8bf979d721413924e878f10bd403f6150483e8baaedb50e43036784f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f7abb4234b6ab54d88085b498fa7e7a9743dc7a4c2b3c31f448c2d8aac53065
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Vinho
-- Indicação Geográfica
-- Denominação de Origem
-- Entidade Certificadora
+- Certificado de Qualidade
+- Comércio
+- Comissão Vitivinícola Regional
 - Controlo de Qualidade
 - Controlo Técnico
 - Definição de Competências
-- Região Demarcada
+- Denominação de Origem
+- Entidade Certificadora
 - Etiquetagem
+- Indicação Geográfica
 - Instituto do Vinho da Madeira
-- Certificado de Qualidade
-- Produção
-- Comissão Vitivinícola Regional
 - Madeira.região Autónoma
-- Qualidade do Produto
-- Comércio
+- Produção
 - Produto Vitivinícola
+- Qualidade do Produto
+- Região Demarcada
+- Vinho
 - ZONA Vitivinícola
 relationships:
 - type: cites
@@ -93,13 +93,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:38Z'
   warnings: []
   errors: []
 ---
@@ -160,10 +160,10 @@ c) Portaria n.º 86/2004, de 2 de Abril.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 6 de Dezembro de 2005.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 28 de Dezembro de 2005.**
+Assinado em 28 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

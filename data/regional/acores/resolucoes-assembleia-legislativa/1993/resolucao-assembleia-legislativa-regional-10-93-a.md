@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/10/1993/11/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/10-1993-688454
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28a04215cc5e4434c303212cf4fbedfc5d7e68836527fd81e316469c0c1d49a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66747534543026622f3dba46246027cc7b0c8351fa017a69232e5c3c16b0791a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Regional
 - Açores
+- Plano Regional
 relationships:
 - type: cites
   target: celex:31977R0355
@@ -115,13 +115,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:58Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +134,7 @@ A Assembleia Legislativa Regional dos Açores resolve, nos termos da alínea o) 
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Maio de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
 Plano Regional a Médio Prazo para 1993-1996
 
@@ -190,13 +190,13 @@ Produto interno bruto
 
 No período 1986-1990, a taxa média anual de crescimento do PIB foi relativamente elevada (3,65%), tendo sido superior à registada no quinquénio anterior, o que se reflectiu em bons crescimentos do PIB/habitante e do PIB/activo. O forte crescimento da economia do continente não conduziu à convergência do índice PIB per capita, embora o nível da produtividade global da economia regional se tenha aproximado do valor médio observado no espaço nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Da análise das alterações da composição do PIB na década de 80 observa-se uma evolução da estrutura económica coincidente com a tendência generalizada das economias em desenvolvimento - diminuição gradual do peso das actividades primárias e crescimento do sector terciário. Porém, haverá que destacar que a perda de peso relativo do sector primário não foi integralmente compensada pelo crescimento dos serviços, registando-se igualmente um ganho relativo do sector secundário, o que é relevante numa economia periférica e de pequena dimensão.
 
 Repartição sectorial do PIB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Mercado do trabalho
 
@@ -206,7 +206,7 @@ Em termos líquidos, no período entre recenseamentos ter-se-ão criado cerca de
 
 Pese embora a libertação de um apreciável número de activos do sector primário, o desemprego nunca assumiu, ao longo da última década, proporções preocupantes. Porém, as taxas de desemprego apuradas não traduzem uma plena utilização dos recursos humanos, já que a emigração, embora a ritmos menores, tem funcionado como factor de equilíbrio do mercado do trabalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Investimento
 
@@ -218,7 +218,7 @@ Na Região Autónoma dos Açores a despesa de investimento concentra-se fundamen
 
 Em termos agregados, é o sector terciário, mercê do investimento do sector público, que apresenta maior despesa de investimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 No período 1980-1986 e em termos médios, a percentagem do investimento estritamente privado no total foi de cerca de 30%, enquanto a nível nacional aquela relação foi de 67%, o que demonstra a fraca participação das empresas privadas regionais no investimento na Região.
 
@@ -236,7 +236,7 @@ Variação da troca de mercadorias e do PIB
 
 1986-1990
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Todavia, as alterações nos sistemas de transporte, em termos de redistribuição, terão favorecido as trocas comeciais internas, já que, para além dos movimentos portuários de transbordo e das operações contentorizadas, as mercadorias transportadas entre diversas ilhas alargaram de forma significativa a sua quota no mercado do tráfego de bens por via marítima. De uma ordem de 8,8% do mercado passou para 11,5% a 12,9% após 1986.
 
@@ -248,13 +248,13 @@ Comércio com o estrangeiro - 1986-1991
 
 Valores correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A evolução dos termos de troca (rácio do preço unitário exportado versus preço unitário importado) tem sido favorável, bem como ao nível da taxa de cobertura, embora com um ritmo menor.
 
 Comércio com o estrangeiro - Indicadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Com cerca de 70% das importações e das exportações regionais, a Comunidade Europeia é, de longe, o principal parceiro comercial da Região, com tendência a reforçar essa posição.
 
@@ -262,7 +262,7 @@ O comércio com a América do Norte tem vindo a perder representatividade no con
 
 Comércio com o estrangeiro - Repartição por zonas e países
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Preços
 
@@ -270,7 +270,7 @@ Sendo a economia açoriana de pequena dimensão e aberta ao exterior, a variaç�
 
 Na década de 80, as variações dos preços no consumidor «serpentearam» a evolução do IPC no continente, destacando-se um primeiro período até 1984 com predominância de variações do IPC superiores, um segundo período entre 1984-1987 com variações inferiores, para no biénio seguinte serem novamente superiores, verificando-se a partir de 1990 uma quase coincidência das taxas de variação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Finanças públicas
 
@@ -280,7 +280,7 @@ Do lado das despesas tem havido um eixo fundamental de actuação, consubstancia
 
 Conta da Região Autónoma dos Açores - Estrutura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A dívida pública encontra-se controlada e, em termos indicativos, poder-se-á referir que está abaixo do valor de referência fixado no artigo 1.º do Protocolo Relativo ao Artigo 104.º-C do Tratado Que Institui a Comunidade Europeia (assinado em Maastricht).
 
@@ -296,11 +296,11 @@ O quadro seguinte mostra a evolução da população residente por ilha entre 19
 
 População residente - Resultados pré-definitivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Pirâmides etárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Independentemente de outras comparações que se farão adiante, a pirâmide etária de Dezembro de 1990 tem o topo largo (12,3% da população com mais de 64 anos), o corpo intermédio é muito estreito (61,0% da população com 15-64 anos) e a base relativamente larga (26,7% da população com menos de 15 anos).
 
@@ -320,19 +320,19 @@ Migrações - estima-se em - 24000 indivíduos o saldo migratório total entre 1
 
 Saldo fisiológico e emigração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 O que antes se mencionou a propósito da natalidade decrescente pode ser ilustrado com o gráfico seguinte, que dispensa mais comentários:
 
 Taxa de natalidade e mortalidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Disse-se antes que a «contenção da natalidade» não resultava só da saída de emigrantes jovens. Com efeito, a taxa de fecundidade geral (número médio de nascimentos por milhar de mulheres em idade fértil) desceu abruptamente na segunda metade dos anos 80:
 
 Taxa de fecundidade geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 No mesmo sentido aponta o cálculo da taxa bruta de reprodução ou de substituição (número médio de filhas por mulher durante o período fértil da vida) e que teria passado de 1,45 (1983-1985) para 1,17 (1988-1990). Tenha-se presente que, quando esta taxa passa a ser duradouramente inferior à unidade, é inevitável o decréscimo demográfico.
 
@@ -340,7 +340,7 @@ Feito o mesmo cálculo para o número médio de filhos de ambos os sexos, os val
 
 A seguir reproduzem-se alguns dados com interesse para a evolução da estrutura demográfica:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Os dados aqui coligidos têm interesse aparentemente imediato para a formulação de políticas de educação/formação e de saúde/segurança social.
 
@@ -358,7 +358,7 @@ A população activa cresceu a uma taxa média anual de 0,9%, como reflexo da en
 
 A população empregada aumentou a um ritmo médio anual de 1,2%, o que correspondeu a uma criação de cerca de 1100 empregos masculinos e mais de 4000 empregos femininos. Em 1991, a distribuição por sexos era de 71% (homens) e 29% (mulheres). Não houve alteração significativa da estrutura do emprego feminino:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A taxa de actividade global (activos/população total 100) subiu consistentemente, passando de 37% para 39,4%. A taxa de actividade masculina subiu de 53,9% para 55,1%, enquanto a feminina aumentou de 20,4% para 23,8%;
 
@@ -366,23 +366,23 @@ A taxa de participação global (activos/população 15-64 anos 100) subiu de fo
 
 Os níveis de qualificação e de habilitações da mão-de-obra são insatisfatórios. Os quadros seguintes correspondem a uma parte dos trabalhadores por conta de outrem, não contemplando a Administração Pública, as empresas sem pessoal assalariado e os serviços domésticos. Servem para fins de análise comparativa:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A evolução da estrutura sectorial do emprego aponta para o crescimento dos serviços não comercializáveis (Administração Pública, saúde e educação), a estabilidade estrutural da indústria transformadora e a perda de peso da agricultura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Os três grandes grupos de empregados segundo a situação na profissão - por conta de outrem (TPCO), por conta própria (TPCP) e familiares não remunerados (TFNR) - mantiveram-se relativamente estáveis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 O padrão da relação jurídico-laboral dos trabalhadores por conta de outrem, distinguindo o contrato permanente do contrato a termo, tem-se mantido sem alterações apreciáveis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A evolução do desemprego foi claramente favorável em termos globais no período 1986-1991. O quadro seguinte é relativo ao desemprego em taxa e também em valor absoluto, para melhor apreensão da muito pequena expressão do fenómeno na Região. Os números absolutos são muito baixos, mesmo quando as taxas de desemprego não o são (caso do desemprego feminino). Quanto ao desemprego masculino e tendo presente a descontinuidade geográfica da Região, pode dizer-se que a situação é de pleno emprego.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Esta situação aparentemente estável do factor trabalho contém, porém, alguns constrangimentos à modernização e ao ajustamento da estrutura produtiva.
 
@@ -390,7 +390,7 @@ Esta situação aparentemente estável do factor trabalho contém, porém, algun
 
 Num ensaio da projecção da população potencialmente activa (15-64 anos) em 1995, admitindo um movimento migratório idêntico ao da década de 80, obteve-se um total praticamente igual ao estimado para Dezembro de 1990. Assim, não deveria haver especial pressão no mercado de trabalho do lado da procura num quadro demográfico e económico semelhante ao dos últimos anos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 2.3 - Evolução sectorial
 
@@ -406,7 +406,7 @@ Quanto à estrutura humana, os indicadores disponíveis reflectem um relativo en
 
 Produtores e áreas de exploração por grupo etário dos produtores - 1985
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 No que concerne à estrutura empresarial, a figura de empresário agrícola encontra-se num número restrito de explorações. Basicamente, as explorações são do tipo familiar. A mão-de-obra assalariada representa somente 5% da população activa ocupada na agricultura.
 
@@ -414,25 +414,25 @@ O grau de escolarização dos produtores ainda é reduzido, não obstante esfor�
 
 Nível de instrução dos produtores individuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Em termos da estrutura fundiária nos Açores, a dimensão média das explorações é reduzida - cerca de 5 ha de superfície agrícola útil (SAU). No entanto, pelo facto de se ter conseguido um aumento da SAU, a par da redução do número de explorações, tem aumentado a área média da exploração. Todavia, ainda que também em decréscimo, continua a verificar-se uma excessiva divisão dessas explorações em blocos, geralmente dispersos por vários locais - em média a cada exploração correspondem seis blocos.
 
 Dimensão média das explorações agrícolas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Ao nível da distribuição da superfície das explorações observa-se uma maior equidade na distribuição, com perda de importância relativa das explorações com menos de 5 ha e das com área superior a 50 ha, com reforço do grupo entre os 5 ha e os 50 ha, com enfoque do grupo de explorações com dimensão entre os 20 ha e os 50 ha.
 
 Superfície das explorações agrícolas por classes de área
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Em termos da estrutura da ocupação dos solos e subsequentemente da produção agrícola, verifica-se em primeiro lugar o já citado esforço no sentido do aumento da superfície agrícola utilizada - aumento de 6000 ha entre 1985-1989. Por outro lado, existe uma maior utilização do solo para pastagens permanentes e, por conseguinte, reforço do subsector pecuário. Finalmente, um aumento, quer em valores absolutos como relativos, da penetração da floresta.
 
 Ocupação da superfície total das explorações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Dados mais recentes, último triénio, apontam para uma recuperação das actividades como a horticultura e a floricultura, com tendências de evolução positiva muito forte, e ainda da cultura da beterraba, que tem vindo a recuperar áreas, e, com menor expressão, da fruticultura.
 
@@ -450,7 +450,7 @@ As pescas têm vindo a adquirir importância na economia regional. Em termos de 
 
 As estruturas portuárias são numerosas, distribuídas por todas as ilhas, embora alguma delas precisem de obras de melhoramento e adequação ao actual nível de capturas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A - Comércio e pesca, com cais acostável.
 
@@ -468,7 +468,7 @@ A composição da frota revela ainda um grande peso relativo das pequenas embarc
 
 Frota pesqueira regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Nota. - Classificação das embarcações:
 
@@ -482,7 +482,7 @@ A partir de 1988 as capturas de tunídeos diminuíram significativamente, porven
 
 No que respeita à transformação e comercialização, a capacidade das estruturas de frio existentes em 1991 eram as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Indústria
 
@@ -498,13 +498,13 @@ Indústria transformadora
 
 Estrutura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Indústria transformadora
 
 Estrutura do valor bruto da produção (percentagem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A inexistência de economias de aglomeração, uma cultura empresarial incipiente, a dificuldade de obtenção de mão-de-obra especializada e o deficiente abastecimento em qualidade, quantidade e preço de alguns inputs intermédios são, entre outros, alguns dos bloqueios com que se defronta a actividade industrial. Acresce ainda a natureza periférica e dispersa do mercado regional, que conduz a um sistema complexo, moroso e dispendioso de comercialização para os espaços exteriores.
 
@@ -528,7 +528,7 @@ O mercado interno (nacional) detém uma forte participação na estrutura da pro
 
 Procura - Estrangeiros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A evolução verificada a partir da 2.ª metade dos anos 80 processou-se a ritmos superiores à média do crescimento regional, ultrapassando o crescimento estimado para o PIB em igual período. Embora se tenha registado uma desaceleração nos preços por aposento na hotelaria, ainda assim se manteve uma margem positiva em relação ao IPC.
 
@@ -564,7 +564,7 @@ A evolução do transporte de passageiros por via aérea caracteriza-se pela reg
 
 Movimentos nos transportes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Depois da crise no transporte aéreo de passageiros registada no início da década de 80, o respectivo tráfego nos aeroportos cresceu a partir de 1982 a uma taxa média anual de cerca de 4,7%, atingindo um total de 871969 movimentos em 1990.
 
@@ -610,7 +610,7 @@ A breve trecho somente o concelho das Lajes das Flores e o do Corvo não terão 
 
 Evolução do número de alunos (1981/1982-1991/1992)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Nota. - Sem ensino artístico e ensino especial.
 
@@ -618,7 +618,7 @@ Houve melhoramento acentuado quer no número quer na qualificação dos docentes
 
 Evolução do número de docentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 É de destacar o número de novos estabelecimentos da educação pré-escolar, dos quais 69,4% funcionam em edifícios do 1.º ciclo, e o número de novas escolas para os 2.º e 3.º ciclos do ensino básico.
 
@@ -626,7 +626,7 @@ O decréscimo do número de alunos no 1.º ciclo do ensino básico não conduziu
 
 Evolução do número de estabelecimentos do ensino oficial (1981/1982-1991/1992)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A evolução operada no sistema de ensino, com o consequente alargamento da escolaridade obrigatória, tem tido a resposta necessária, permitindo, em todas as ilhas, a observância de nove anos de escolaridade.
 
@@ -662,7 +662,7 @@ Tendo em consideração as limitações de uma abordagem deste tipo por não hav
 
 Inquérito aos orçamentos familiares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Quanto ao nível de conforto dos agregados, observa-se uma certa equivalência entre os valores médios observados no continente e os apurados na Região (Inquérito às Rendas e Condições de Conforto - INE).
 
@@ -684,7 +684,7 @@ A ampliação, transformação e restauração de edifícios para habitação e 
 
 Evolução do parque habitacional (1981-1991)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Acesso a infra-estruturas de saneamento básico
 
@@ -696,7 +696,7 @@ A taxa de cobertura da rede situa-se em 95%, tendo a rede de distribuição de �
 
 O consumo anual de água na Região, excluindo o do sector agrícola, cifra-se num volume total de 15000000 m3/ano, repartido da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A capitação do consumo de água dos particulares é de 43 m3/ano.
 
@@ -744,7 +744,7 @@ A evolução registada nos últimos anos, fruto do investimento em recursos huma
 
 Indicadores sanitários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 À luz dos principais indicadores sanitários, constata-se que a actual situação da Região está aquém da média comunitária. Contudo, salienta-se a progressiva diminuição da taxa de mortalidade infantil, sobretudo da mortalidade pós-neonatal (óbitos com 28 e mais dias e menos de 1 ano de vida), ou seja, os óbitos cujas causas de morte são maioritariamente imputáveis a factores exógenos.
 
@@ -766,7 +766,7 @@ Do lado da oferta, o pessoal ao serviço, com vencimentos suportados pelo orçam
 
 Equipamentos sociais e casas do povo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Os beneficiários activos no âmbito do regime geral de segurança social e do regime de segurança social dos funcionários e agentes da Administração Pública (Caixa Nacional de Previdência) registou no triénio 1988-1990 um significativo aumento.
 
@@ -774,7 +774,7 @@ Em 1990 a relação beneficiários activos/população potencialmente activa era
 
 Beneficiários activos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Paralelamente, registou-se um ligeiro acréscimo do total de pensionistas no triénio 1988-1990, acompanhando a evolução demográfica.
 
@@ -782,7 +782,7 @@ Em 1990 a relação pensionista de velhice/população com 65 e mais anos era de
 
 Pensionistas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 As prestações do sistema de protecção social, que englobam as da segurança social, consubstanciam-se num conjunto diversificado de prestações em género e em espécie que visam a protecção do indivíduo e da família.
 
@@ -800,7 +800,7 @@ Poder-se-á afirmar, actualmente, que a prática da educação física (nas esco
 
 Evolução do número de praticantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Mas na ocupação dos tempos livres merece ainda especial destaque o número cada vez maior de jovens que participam em escolas de música, filarmónicas, tunas, grupos folclóricos, grupos de teatro, grupos corais e actividades artísticas no domínio da dança e das artes plásticas, que se expandiram por todas as ilhas.
 
@@ -886,7 +886,7 @@ A estrutura económica regional deverá reflectir, por um lado, a concentração
 
 Tendo em vista exemplificar esta situação, através da informação disponível para o emprego por ramos de actividade relativo ao ano de 1987 e para o PIB, média dos anos de 1986-1988, construíram-se, por diferença das respectivas estruturas percentuais, índices de especialização para a economia açoriana.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Sabendo-se que nos Açores cerca de dois terços do produto agrícola provêm da pecuária, enquanto a nível nacional essa relação ronda os 20%, conclui-se que, apesar de na estrutura do emprego a importância relativa da agricultura, em sentido lato, ser praticamente idêntica nos Açores e no continente, tal facto encobre a relevância da actividade pecuária na Região. Este aspecto é mais visível na comparação da estrutura do PIB, onde se observa uma maior contribuição relativa ao sector agrícola nos Açores por via do valor relativo da produtividade da pecuária face a outras produções do sector primário.
 
@@ -1150,7 +1150,7 @@ Em termos nominais, prevê-se que a despesa pública global atinja nestes quatro
 
 Mapa dos recursos financeiros da Região para o quadriénio 1993-1996
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 IV - Políticas sectoriais e desenvolvimento da programação
 
@@ -1172,17 +1172,17 @@ O apoio ao investimento autárquico também se encontra contemplado, integrado n
 
 PMP 93/96
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 PMP 93/96 - Entidades executoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 PMP 93/96
 
 Desagregação espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 1 - Eixo: Dinamização da actividade económica
 
@@ -1194,7 +1194,7 @@ São sete os programas a desenvolver, cobrindo os sectores da agricultura e pesc
 
 3 - Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 1 - Eixo: Dinamização da actividade económica
 
@@ -1258,7 +1258,7 @@ Reforçar a capacidade competitiva do sector de transformação e comercializaç
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1304,7 +1304,7 @@ Mercados e comercialização - manutenção dos mercados tradicionais, exploraç
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1352,7 +1352,7 @@ Incremento dos efeitos multiplicadores gerados a montante e a jusante, nas activ
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1378,7 +1378,7 @@ Melhoria da qualidade da produção industrial.
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1406,7 +1406,7 @@ Apoiar a constituição de estruturas vocacionadas para a investigação e divul
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1434,7 +1434,7 @@ Introdução de novos métodos de trabalho, sem adulterar o que de genuíno ence
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1466,7 +1466,7 @@ Modernizar o parque empresarial do sector, através da concessão de incentivos 
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1488,7 +1488,7 @@ São cinco os programas afectos a este eixo, cobrindo sectores como a educação
 
 3 - Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 1 - Eixo: Desenvolvimento dos recursos humanos
 
@@ -1510,7 +1510,7 @@ Construção de instalações para vários departamentos da Universidade dos Aç
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1542,7 +1542,7 @@ Melhorar a qualidade do ensino na Região.
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1604,7 +1604,7 @@ Definir as tecnologias a introduzir na Região e promover a avaliação sistemá
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1654,7 +1654,7 @@ Acções para a diminuição da sinistralidade laboral.
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1692,7 +1692,7 @@ Incentivar o associativismo juvenil, com vista a potenciar as capacidades de ini
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1716,7 +1716,7 @@ São cinco os programas afectos a este eixo, cobrindo aqueles vectores estratég
 
 3 - Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 1 - Eixo: Transportes e energia
 
@@ -1744,7 +1744,7 @@ Promover acções de prevenção rodoviária, tanto para o combate à sinistrali
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1800,7 +1800,7 @@ São vários os subeixos de actuação, desde a defesa e preservação do ambien
 
 3 - Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 1 - Eixo: Ambiente e qualidade de vida
 
@@ -1832,7 +1832,7 @@ Elaboração de materiais de informação e divulgação e implementação de cu
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1860,7 +1860,7 @@ Atender a situações de emergência e correcção inadiáveis.
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1890,7 +1890,7 @@ Proceder a um levantamento das potencialidades hídricas naturais e das condiç�
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1930,7 +1930,7 @@ Conciliar a ocupação funcional do espaço com a capacidade de recuperação do
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1960,7 +1960,7 @@ Estudos sobre alguns aspectos dos principais meios urbanos.
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -1998,7 +1998,7 @@ Realização de estudos com vista à protecção de núcleos urbanos de valor ar
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -2036,7 +2036,7 @@ Valorizar os recursos humanos de forma integrada e pluridisciplinar.
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -2068,7 +2068,7 @@ Reformulação do projecto de apoio à construção e beneficiação de recintos
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -2112,7 +2112,7 @@ Deficientes. - Os jovens deficientes, não escolarizáveis, são responsabilidad
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -2140,7 +2140,7 @@ Promover a cooperação técnica e financeira com as autarquias locais.
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -2170,7 +2170,7 @@ Satisfazer os compromissos assumidos em matéria de acompanhamento e avaliação
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 6 - Entidades responsáveis
 
@@ -2496,7 +2496,7 @@ O quadro seguinte mostra o número de cursos implementados, o número de formand
 
 Intervenção do Fundo Social Europeu na Região Autónoma dos Açores (1986-1992)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 As acções abarcaram as mais diversas áreas de formação, sendo de destacar as levadas a efeito nos sectores da agricultura e pescas, artesanato, bancário, construção civil, comércio, energia, hotelaria e informática.
 
@@ -2516,11 +2516,11 @@ A):
 
 FEOGA - Orientação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 B):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Regulamento (CEE) n.º [866/90](http://data.europa.eu/eli/reg/1990/866/oj?locale=pt)
 
@@ -2536,7 +2536,7 @@ Ao abrigo deste regulamento foi aprovado o plano sectorial apresentado por Portu
 
 Os projectos de investimento enquadráveis nas medidas aprovadas, bem como as taxas de comparticipação previstas relativamente à Região, resumem-se no quadro abaixo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Tendo em vista a obtenção dos apoios, foram apresentados três projectos, cujo investimento ronda os 1,9 milhões de contos. Aguardam decisão da Comissão das Comunidades.
 
@@ -2566,11 +2566,11 @@ Quadros da situação no âmbito do PEDAP:
 
 A):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 B):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Regulamento (CEE) n.º [4028/86](http://data.europa.eu/eli/reg/1986/4028/oj?locale=pt)
 
@@ -2630,7 +2630,7 @@ A situação actual dos sectores considerados prioritários é a seguinte:
 
 Os recursos hídricos inventariados na Região distribuem-se da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Para além destes recursos, estão em curso experiências de abastecimento público de água a partir de reservatórios artificiais (lagoas).
 
@@ -2650,7 +2650,7 @@ A taxa de cobertura da rede situa-se acima dos 95%, tendo a rede de distribuiç�
 
 O consumo anual de água na Região, excluindo o do sector agrícola, cifra-se num volume total de 15000000 m3/ano, repartido da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A capitação do consumo de água dos particulares é de 43 m3/ano.
 
@@ -2714,7 +2714,7 @@ Os investimentos municipais em saneamento básico e rede viária, que continuam 
 
 4 - Estimativas de investimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 Está, no âmbito do próximo QCA, prevista a continuação dos apoios comunitários às autarquias locais, enquadrados na próxima geração de programas operacionais.
 
@@ -2746,7 +2746,7 @@ VAB
 
 Distribuição dos excedentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
 
 A estrutura de balanço consolidado mosta forte intensidade de investimento em bens activos, com recurso predominante a financiamento com origem em fontes externas às empresas.
 
@@ -2770,4 +2770,4 @@ Por outro lado, apesar de melhorias em termos de ramos de seguro, verificou-se u
 
 Os investimentos programados para o quadriénio 1993-1996:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf))](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/11/269b00/63826425.pdf)

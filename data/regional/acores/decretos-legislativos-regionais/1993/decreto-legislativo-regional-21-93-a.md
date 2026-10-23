@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/1993/12/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1993-541442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeb26e839a42796b233597e6270cbb9ff72c5fa853e80af14eb4d24006818c4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3720946d079cbe1298c7ac21381ce01a26e3dd6ae626acef2aa5d5ba9262b9ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Açores
 - Contra-ordenação
-- Proteção do Ambiente
-- Zona de Proteção
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
 - Rede Nacional de Áreas Protegidas
 - Secretaria Regional do Turismo e Ambiente
-- Açores
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:635868:por
@@ -83,16 +83,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:635868:por
+  label: "Revogado, sem prejuízo da sua aplicação transitória às áreas classificadas na sua vigência até à aprovação dos diplomas\
+    \ que procedem à sua reclassificação, pelo DLR.15/2007/A.06.06.2007.AL-RAA, DR.IS [120] de 25.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2007-635868
+  date: '2007-06-06'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:24Z'
   warnings: []
   errors: []
 ---
@@ -191,10 +213,10 @@ A Secretaria Regional do Turismo e Ambiente apresentará anualmente à Assemblei
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 22 de Outubro de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 30 de Novembro de 1993.**
+Assinado em Angra do Heroísmo em 30 de Novembro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

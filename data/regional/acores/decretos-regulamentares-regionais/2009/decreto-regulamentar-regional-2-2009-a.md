@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03700/0126601269.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2009/02/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2009-602039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4655158e4efa061447c4bafbcdfeefa7d72e1614b599eac0a3bcd77b618a8c11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccadd5c20424eedd7e920d3c53151f901b04299aaceb98599ae3ea6060f0889c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ordenamento do Território
 - Plano Director Municipal
 - Política de Solos
 - Regulamento
-- Açores
 - VILA do Porto
 relationships:
 - type: amended_by
@@ -105,16 +105,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
+- type: cites
+  target: pt:dre:209622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:132431980:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-132431980
+  date: '2020-04-24'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:39Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +190,7 @@ Dados os atributos paisagísticos da localização da área de intervenção (em
 
 A componente de alojamento turístico que se pretende ver associada ao campo de golfe, designadamente do tipo de «turismo residencial», não se enquadra no tipo de «unidades hoteleiras», por outro lado, e muito embora não seja expectável ultrapassar o índice de ocupação de 0,015, apenas um maior grau de desenvolvimento do projecto do empreendimento global poderá informar com rigor sobre o índice de ocupação necessário à sua execução e sobre a precisa localização das construções, razões que preventivamente justificam a suspensão do artigo 59.º;
 
-# Parte da área de intervenção encontra-se abrangida por áreas de reserva ecológica, conforme a proposta de reserva ecológica correspondente à planta de condicionantes n.º 3 do PDM, pelo que haverá também a necessidade de suspender esta planta, com incidência na área de intervenção pretendida, suspensão que retira a pertinência de manutenção do artigo 60.º, que igualmente se justifica suspender;
+Parte da área de intervenção encontra-se abrangida por áreas de reserva ecológica, conforme a proposta de reserva ecológica correspondente à planta de condicionantes n.º 3 do PDM, pelo que haverá também a necessidade de suspender esta planta, com incidência na área de intervenção pretendida, suspensão que retira a pertinência de manutenção do artigo 60.º, que igualmente se justifica suspender;
 
 Reportando-se o artigo 61.º ao artigo 60.º anterior, a suspensão deste último justifica, consequentemente, a suspensão do artigo 61.º. Por outro lado, acresce o facto da suspensão parcial do PDM se destinar exclusivamente à concretização do campo de golfe e equipamentos e empreendimentos associados, o que retira a pertinência da restrição enunciada no mesmo artigo 61.º
 
@@ -199,11 +232,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 16 de Janeiro de 2009.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 12 de Fevereiro de 2009.**
+Assinado em Angra do Heroísmo em 12 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -211,10 +244,10 @@ O Representante da República para a Região Autónoma dos Açores, José Antón
 
 Extracto da planta de ordenamento do Plano Director Municipal da Vila do Porto com a delimitação da área respeitante à suspensão parcial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03700/0126601269.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03700/0126601269.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03700/0126601269.pdf)
 
 ## ANEXO N.º 2 — [a que se refere a alínea c) do n.º 2 do artigo 2.º]
 
 Extracto da planta de condicionantes n.º 3 do Plano Director Municipal da Vila do Porto com a delimitação da área respeitante à suspensão parcial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03700/0126601269.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03700/0126601269.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03700/0126601269.pdf)

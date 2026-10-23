@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/24200/0868208684.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2009/12/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2009-481973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f592608294d3748718817876c5d5cdea190669db26b0b0daa66f64c9d5f353d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c2d6d84979a483c6c5d942774e1c33e3671e67df5bb1a93d8dfc30d17142738
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ILHA de são Miguel
 - Ordenamento do Território
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:132431980:por
@@ -96,16 +96,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/29/2007/12/05/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/29/2007/12/05/a/dre
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:132431980:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-132431980
+  date: '2020-04-24'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:38Z'
   warnings: []
   errors: []
 ---
@@ -154,16 +179,16 @@ A suspensão parcial do POOC terá a duração de dois anos a contar da data da 
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 10 de Novembro de 2009.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 3 de Dezembro de 2009.**
+Assinado em Angra do Heroísmo em 3 de Dezembro de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/24200/0868208684.pdf))](https://files.diariodarepublica.pt/1s/2009/12/24200/0868208684.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/24200/0868208684.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/24200/0868208684.pdf))](https://files.diariodarepublica.pt/1s/2009/12/24200/0868208684.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/24200/0868208684.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/24200/0868208684.pdf))](https://files.diariodarepublica.pt/1s/2009/12/24200/0868208684.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/24200/0868208684.pdf)

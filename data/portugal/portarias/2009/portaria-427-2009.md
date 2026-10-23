@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/427/2009/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-2009-604248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f0389611c19e9eb297247b4d85f0c516af22e0d9ed56d8fcc542001b9881ecd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6a8c31c8734db5ed20209dae94fb7e0bc43482f2c630b7534beadec46c566aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Assistência Médica
-- Empresa
-- Médico
-- Criação de Serviços
-- Definição de Competências
 - Administração Regional de Saúde
+- Assistência Médica
+- Criação de Serviços
+- Cuidados Médicos
+- Definição de Competências
+- Empresa
 - Empresa Privada
 - Licenciamento
 - Medicina do Trabalho
+- Médico
 - Prestação de Serviços
-- Cuidados Médicos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/2006/10/27/p/dre
@@ -91,16 +91,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:183044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638525:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:07Z'
   warnings: []
   errors: []
 ---
@@ -217,4 +237,4 @@ e) O Despacho n.º 47/80, de 5 de Agosto;
 
 f) O Despacho n.º 26/85, de 25 de Outubro.
 
-**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 17 de Abril de 2009.**
+A Ministra da Saúde, Ana Maria Teodoro Jorge, em 17 de Abril de 2009.

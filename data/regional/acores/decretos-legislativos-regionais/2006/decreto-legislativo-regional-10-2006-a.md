@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2006/03/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2006-667890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ae9343a9b125d661ca5ea9864fbdda0090c14e4fd4cbbfd5ba41ed01f13c33f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0b24f0cf7b5e8ba84f114b5c2126bb183a852ff8167655a05341c390d2acbef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Assembleia Legislativa
-- Regulamento
 - Açores
+- Assembleia Legislativa
+- Definição de Competências
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/36/2002/11/28/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/36/2002/11/28/a/dre
+- type: cites
+  target: pt:dre:438727:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:16Z'
   warnings: []
   errors: []
 ---
@@ -246,13 +250,13 @@ d) Insígnia autonómica de dedicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 25 de Janeiro de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 17 de Fevereiro de 2006.**
+Assinado em Angra do Heroísmo em 17 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — Figuras e descrições técnicas dos distintivos das insígnias a que se refere o n.º 4 do artigo 3.º
 
@@ -260,7 +264,7 @@ I - Insígnia autonómica de valor
 
 a) Placa (fig. 1) - de ouro, de 0,085 m de diâmetro com 45 raios, tendo ao centro nove estrelas de nove raios de azul realçadas de ouro, unidas e postas em circunferência de 0,06 m de diâmetro e um açor de ouro, incluso, tudo assente sobre esmalte branco.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 b) Distintivo para o pescoço (fig. 2), com a seguinte composição:
 
@@ -272,7 +276,7 @@ Belheira - em forma de hortênsia, de ouro;
 
 Pendente - nove estrelas de nove raios de azul realçadas de ouro, unidas e postas em circunferência de 0,06 m de diâmetro e um açor de ouro, incluso, tudo vazado.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 c) Distintivo para o peito (fig. 3), com a seguinte composição:
 
@@ -282,11 +286,11 @@ Belheira - em forma de hortênsia, de ouro;
 
 Pendente - nove estrelas de nove raios de azul realçadas de ouro, unidas e postas em circunferência de 0,038 m de diâmetro e um açor de ouro, incluso, tudo vazado.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 d) Roseta (fig. 4) - forrada com o tecido da fita de suspensão descrita na alínea anterior e um diâmetro de 0,013 m.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 II - Insígnia autonómica de reconhecimento
 
@@ -300,7 +304,7 @@ Belheira - em forma de hortênsia, de ouro;
 
 Pendente - nove estrelas de nove raios de ouro, unidas e postas em circunferência de 0,06 m de diâmetro e um açor de azul, bicado, lampassado e sancado de vermelho, incluso, tudo vazado.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 b) Distintivo para o peito (fig. 6), com a seguinte composição:
 
@@ -310,11 +314,11 @@ Belheira - em forma de hortênsia, de ouro;
 
 Pendente - nove estrelas de nove raios de ouro, unidas e postas em circunferência de 0,038 m de diâmetro e um açor de azul, bicado, lampassado e sancado de vermelho, incluso, tudo vazado.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 c) Roseta (fig. 7) - forrada com o tecido da fita de suspensão descrita na alínea anterior e um diâmetro de 0,013 m.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 III - Insígnia autonómica de mérito
 
@@ -328,11 +332,11 @@ Belheira - em forma de hortênsia, de prata;
 
 Pendente - nove estrelas de nove raios de negro realçadas de prata, unidas e postas em circunferência de 0,038 m de diâmetro e um açor de prata, incluso, tudo vazado.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 b) Roseta (fig. 9) - forrada com o tecido da fita de suspensão descrita na alínea anterior e um diâmetro de 0,013 m.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 2 - Categoria mérito industrial, comercial e agrícola
 
@@ -344,11 +348,11 @@ Belheira - em forma de hortênsia, de prata;
 
 Pendente - nove estrelas de nove raios de verde realçadas de prata, unidas e postas em circunferência de 0,038 m de diâmetro e um açor de prata, incluso, tudo vazado.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 b) Roseta (fig. 11) - forrada com o tecido da fita de suspensão descrita na alínea anterior e um diâmetro de 0,013 m.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 3 - Categoria mérito cívico
 
@@ -360,11 +364,11 @@ Belheira - em forma de hortênsia, de prata;
 
 Pendente - nove estrelas de nove raios de vermelho realçadas de prata, unidas e postas em circunferência de 0,038 m de diâmetro e um açor de prata, incluso, tudo vazado.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 b) Roseta (fig. 13) - forrada com o tecido da fita de suspensão descrita na alínea anterior e um diâmetro de 0,013 m.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 IV - Insígnia autonómica de dedicação
 
@@ -376,8 +380,8 @@ Belheira - em forma de hortênsia, de prata;
 
 Pendente - nove estrelas de nove raios de prata, unidas e postas em circunferência de 0,038 m de diâmetro e um açor de azul, bicado, lampassado e sancado de vermelho, incluso, tudo vazado.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
 
 b) Roseta (fig. 15) - forrada com o tecido da fita de suspensão descrita na alínea anterior e um diâmetro de 0,013 m.
 
-[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)
+[[[[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)](https://files.diariodarepublica.pt/1s/2006/03/056a00/20372042.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/05/10100/11151120.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1982-393012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cdcf74f82a8e47092edada86d08e8ffa53181ef7bb5d206415c2b502552e373
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58037029cfa05e38c8677d26a32fa6746fe21e56651f265d84448a7c42c561e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Regional de Saúde
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:227198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439417:por
+  label: "Substituído o quadro anexo ao presente diploma, na parte referente ao pessoal de enfermagem, pelo DRR.39/83/A.02.09.1983.GR-RAA,\
+    \ DR.IS [202] de 02.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/39-1983-439417
+  date: '1983-09-02'
+- type: cites
+  target: pt:dre:578946:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:227198:por
+  label: "Revogado o presente diploma e os quadros de pessoal que lhe estão anexos, pelo DRR.14/86/A.14.05.1986.GR-RAA, DR.IS\
+    \ [110] de 14.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1986-227198
+  date: '1986-05-14'
 article_structure:
-  article_count: 1
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:40Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +129,7 @@ Assim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Direcção Regional de Saúde é um órgão de coordenação, inspecção, estudo e apoio técnico normativo do sector da saúde, ao qual incumbe, designadamente:
+Artigo 1.º A Direcção Regional de Saúde é um órgão de coordenação, inspecção, estudo e apoio técnico normativo do sector da saúde, ao qual incumbe, designadamente:
 
 a) Contribuir para a definição da política, dos objectivos e instrumentos do sector, de modo a assegurar a cobertura médico-sanitária da Região;
 
@@ -152,7 +171,7 @@ t) Cooperar com organizações nacionais e internacionais que actuam no âmbito 
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 2.º A Direcção Regional de Saúde compreende os seguintes órgãos e serviços:
+Art. 2.º A Direcção Regional de Saúde compreende os seguintes órgãos e serviços:
 
 1) Órgãos e serviços centrais:
 
@@ -186,7 +205,7 @@ Escolas de enfermagem.
 
 Conselho Regional de Saúde
 
-###### Art. 3.º O Conselho Regional de Saúde é um órgão de natureza consultiva que funciona junto da Direcção Regional de Saúde.
+Art. 3.º O Conselho Regional de Saúde é um órgão de natureza consultiva que funciona junto da Direcção Regional de Saúde.
 
 1 - Compõem o Conselho Regional de Saúde o presidente e os seguintes vogais:
 
@@ -210,17 +229,17 @@ h) 2 representantes dos utentes, a designar pela Assembleia Regional.
 
 3 - Poderão ser chamadas a participar em reuniões do Conselho Regional de Saúde, sem direito a voto, individualidades de reconhecida competência em assuntos respeitantes ao sector.
 
-###### Art. 5.º Compete ao Conselho Regional de Saúde pronunciar-se sobre questões do sector que lhe sejam apresentadas, nomeadamente em matéria de plano e definição da política de saúde.
+Art. 5.º Compete ao Conselho Regional de Saúde pronunciar-se sobre questões do sector que lhe sejam apresentadas, nomeadamente em matéria de plano e definição da política de saúde.
 
-###### Art. 6.º O Conselho Regional de Saúde reunirá ordinariamente uma vez por ano e extraordinariamente sempre que convocado pelo director Regional de Saúde, por sua iniciativa ou sob proposta da maioria dos seus membros.
+Art. 6.º O Conselho Regional de Saúde reunirá ordinariamente uma vez por ano e extraordinariamente sempre que convocado pelo director Regional de Saúde, por sua iniciativa ou sob proposta da maioria dos seus membros.
 
-###### Art. 7.º O Conselho Regional de Saúde elaborará o seu regulamento, que submeterá à aprovação do Secretário Regional dos Assuntos Sociais.
+Art. 7.º O Conselho Regional de Saúde elaborará o seu regulamento, que submeterá à aprovação do Secretário Regional dos Assuntos Sociais.
 
 #### SECÇÃO II — Órgãos de concepção e apoio
 
 ##### SUBSECÇÃO I — Núcleo de Apoio Técnico
 
-###### Art. 8.º O Núcleo de Apoio Técnico, funcionando na dependência directa e sob a chefia do director Regional de Saúde e em articulação com o Gabinete Técnico da Secretaria Regional dos Assuntos Sociais, exerce as suas atribuições nas áreas de planeamento, estatística, organização e métodos e documentação, incumbindo-lhe, designadamente:
+Art. 8.º O Núcleo de Apoio Técnico, funcionando na dependência directa e sob a chefia do director Regional de Saúde e em articulação com o Gabinete Técnico da Secretaria Regional dos Assuntos Sociais, exerce as suas atribuições nas áreas de planeamento, estatística, organização e métodos e documentação, incumbindo-lhe, designadamente:
 
 a) Promover os estudos e elaborar os pareceres de natureza técnica que lhe forem solicitados;
 
@@ -242,9 +261,11 @@ i) Contribuir para a melhoria e actualização da organização e do funcionamen
 
 j) Proceder à recolha, tratamento, elaboração e difusão de elementos de documentação de de interesse informativo ou formativo para a acção da Direcção Regional de Saúde, podendo recorrer, para o efeito, à colaboração de outras entidades.
 
-##### SUBSECÇÃO II — Secção de Apoio Administrativo
+##### SUBSECÇÃO II
 
-###### Art. 9.º - 1 - À Secção de Apoio Administrativo compete, nomeadamente:
+#### Secção de Apoio Administrativo
+
+Art. 9.º - 1 - À Secção de Apoio Administrativo compete, nomeadamente:
 
 a) Exercer os actos de administração do pessoal a que se refere a alínea b) do artigo 12.º;
 
@@ -256,9 +277,9 @@ b) Exercer as funções de expediente, dactilografia e arquivo da Direcção Reg
 
 ##### SUBSECÇÃO I — Direcção de Serviços de Administração
 
-###### Art. 10.º A Direcção de Serviços de Administração é um órgão de natureza operativa que actua no domínio dos recursos humanos, financeiros e materiais, dos acordos e convenções e das prestações indirectas de saúde.
+Art. 10.º A Direcção de Serviços de Administração é um órgão de natureza operativa que actua no domínio dos recursos humanos, financeiros e materiais, dos acordos e convenções e das prestações indirectas de saúde.
 
-###### Art. 11.º A Direcção de Serviços de Administração compreende os seguintes serviços:
+Art. 11.º A Direcção de Serviços de Administração compreende os seguintes serviços:
 
 a) Divisão de Recursos Humanos;
 
@@ -268,7 +289,7 @@ c) Divisão de Recursos Materiais;
 
 d) Divisão de Acordos, Convenções e Prestações Indirectas de Saúde.
 
-###### Art. 12.º À Divisão de Recursos Humanos compete, em especial:
+Art. 12.º À Divisão de Recursos Humanos compete, em especial:
 
 a) Assegurar a gestão do pessoal dos serviços e estabelecimentos dependentes da Direcção Regional de Saúde;
 
@@ -290,7 +311,7 @@ i) Promover e coordenar acções de formação e aperfeiçoamento do pessoal dos
 
 j) Cooperar com outras entidades no desenvolvimento de acções de formação ou de aperfeiçoamento dirigidas ao pessoal do sector.
 
-###### Art. 13.º A Divisão de Recursos Financeiros actua nas áreas de gestão económico-financeira e de contabilidade, orçamento e contas, competindo-lhe, em especial:
+Art. 13.º A Divisão de Recursos Financeiros actua nas áreas de gestão económico-financeira e de contabilidade, orçamento e contas, competindo-lhe, em especial:
 
 a) Participar na definição e adequação da política financeira do sector;
 
@@ -320,7 +341,7 @@ n) Verificar periodicamente os documentos e contas de tesouraria dos estabelecim
 
 o) Seleccionar e compilar informação sob a forma de indicadores.
 
-###### Art. 14.º À Divisão de Recursos Materiais, que actua nas áreas de instalações, equipamento e aprovisionamento, compete, em especial:
+Art. 14.º À Divisão de Recursos Materiais, que actua nas áreas de instalações, equipamento e aprovisionamento, compete, em especial:
 
 1 - Na área de instalações e equipamento:
 
@@ -368,7 +389,7 @@ g) Proceder à recolha organizada de elementos e informações para tratamento e
 
 3 - A Divisão de Recursos Materiais deve promover, em conjunto com a Divisão de Recursos Humanos, acções de formação profissional no que diz respeito às duas áreas.
 
-###### Art. 15.º À Divisão de Acordos, Convenções e Prestações Indirectas de Saúde compete, em especial:
+Art. 15.º À Divisão de Acordos, Convenções e Prestações Indirectas de Saúde compete, em especial:
 
 a) Propor e preparar a celebração de convenções, acordos e contratos com vista a obter a cooperação de profissionais de saúde em regime livre ou de instituições privadas e assegurar o seu cumprimento;
 
@@ -380,15 +401,15 @@ d) Estabelecer critérios de transferência de doentes da Região para o contine
 
 ##### SUBSECÇÃO II — Direcção de Serviços de Saúde Pública
 
-###### Art. 16.º A Direcção de Serviços de Saúde Pública é um órgão de natureza operativa e actua nos campos da salubridade e da medicina social.
+Art. 16.º A Direcção de Serviços de Saúde Pública é um órgão de natureza operativa e actua nos campos da salubridade e da medicina social.
 
-###### Art. 17.º A Direcção de Serviços de Saúde Pública compreende os seguintes serviços:
+Art. 17.º A Direcção de Serviços de Saúde Pública compreende os seguintes serviços:
 
 a) Divisão de Salubridade;
 
 b) Divisão de Medicina Social.
 
-###### Art. 18.º À Divisão de Salubridade compete, em especial:
+Art. 18.º À Divisão de Salubridade compete, em especial:
 
 a) Colaborar na elaboração e execução de programas de educação para a saúde, de acordo com as prioridades definidas na Região, promovendo a informação da população, suscitando, para o efeito, a colaboração da família e da comunidade;
 
@@ -402,7 +423,7 @@ e) Colaborar com outros organismos na preparação e promoção de medidas tende
 
 f) Assegurar, em colaboração com outras entidades, acções de licenciamento e fiscalização de instalações, estabelecimentos e produtos que possam interferir com o estado sanitário da população.
 
-###### Art. 19.º À Divisão de Medicina Social compete, em especial:
+Art. 19.º À Divisão de Medicina Social compete, em especial:
 
 a) Promover, difundir e assegurar a execução de orientações sobre a prestação de cuidados primários de saúde à população;
 
@@ -434,7 +455,7 @@ g) Coordenar a actuação global do sector relativamente à definição das situ
 
 ##### SUBSECÇÃO III — Direcção de Serviços Hospitalares
 
-###### Art. 20.º A Direcção de Serviços Hospitalares é um órgão de natureza operativa, ao qual compete a orientação, coordenação e fiscalização das actividades exercidas no domínio da prestação de cuidados de saúde diferenciados, competindo-lhe, em especial:
+Art. 20.º A Direcção de Serviços Hospitalares é um órgão de natureza operativa, ao qual compete a orientação, coordenação e fiscalização das actividades exercidas no domínio da prestação de cuidados de saúde diferenciados, competindo-lhe, em especial:
 
 a) Orientar e promover a melhoria da prestação de cuidados nos hospitais, propor critérios para a sua actuação e preparar planos de acção geral ou especializada, procurando, para o efeito, assegurar a colaboração de organismos de representação profissional;
 
@@ -448,9 +469,9 @@ e) Pronunciar-se sobre o licenciamento de casas de saúde e estabelecimentos con
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 21.º O pessoal que integra o quadro da presente estrutura orgânica é o constante do mapa anexo a este diploma.
+Art. 21.º O pessoal que integra o quadro da presente estrutura orgânica é o constante do mapa anexo a este diploma.
 
-###### Art. 22.º O pessoal do quadro é agrupado de acordo com a seguinte classificação:
+Art. 22.º O pessoal do quadro é agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -462,15 +483,15 @@ d) Pessoal técnico-profissional e administrativo;
 
 e) Pessoal auxiliar.
 
-###### Art. 23.º As condições e regras de organização dos quadros de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários e agentes da Direcção Regional de Saúde são, para as respectivas categorias, as estabelecidas no [Decreto Regulamentar n.º 25/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1981-578946)-A, de 15 de Abril, e na legislação regional e geral complementar.
+Art. 23.º As condições e regras de organização dos quadros de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários e agentes da Direcção Regional de Saúde são, para as respectivas categorias, as estabelecidas no [Decreto Regulamentar n.º 25/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1981-578946)-A, de 15 de Abril, e na legislação regional e geral complementar.
 
-###### Art. 24.º - 1 - A carreira de técnico auxiliar de administração de saúde desenvolve-se pelas categorias de 2.ª classe, de 1.ª classe e de principal, a que correspondem, respectivamente, as letras M, L e J.
+Art. 24.º - 1 - A carreira de técnico auxiliar de administração de saúde desenvolve-se pelas categorias de 2.ª classe, de 1.ª classe e de principal, a que correspondem, respectivamente, as letras M, L e J.
 
 2 - O ingresso é condicionado à habilitação mínima do curso geral do ensino secundário ou equiparado e à sujeição a concurso público de prestação de provas, a regulamentar por portaria conjunta das Secretarias Regionais dos Assuntos Sociais, da Administração Pública e da Educação e Cultura.
 
-###### Art. 25.º O director Regional de Saúde proporá ao Secretário Regional dos Assuntos Sociais a afectação do pessoal pelos diversos serviços da Direcção Regional.
+Art. 25.º O director Regional de Saúde proporá ao Secretário Regional dos Assuntos Sociais a afectação do pessoal pelos diversos serviços da Direcção Regional.
 
-###### Art. 26.º Quando as necessidades do serviço o exijam, poderá a Secretaria Regional dos Assuntos Sociais, por despacho do Secretário Regional, recorrer às seguintes situações especiais:
+Art. 26.º Quando as necessidades do serviço o exijam, poderá a Secretaria Regional dos Assuntos Sociais, por despacho do Secretário Regional, recorrer às seguintes situações especiais:
 
 a) Destacamento, não ocupando o funcionário lugar no quadro, sendo pago pelo organismo ou serviço de origem e não podendo o lugar de que é titular ser preenchido por qualquer forma;
 
@@ -478,28 +499,28 @@ b) Requisição, não ocupando o funcionário lugar no quadro, sendo pago pela S
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 27.º - 1 - Aos serviços e estabelecimentos oficiais que actuam integrados na estrutura hierárquico-funcional da Direcção Regional de Saúde aplicar-se-ão, transitoriamente e nos casos não expressamente previstos neste diploma ou em legislação regional subsequente, as leis e regulamentos em vigor.
+Art. 27.º - 1 - Aos serviços e estabelecimentos oficiais que actuam integrados na estrutura hierárquico-funcional da Direcção Regional de Saúde aplicar-se-ão, transitoriamente e nos casos não expressamente previstos neste diploma ou em legislação regional subsequente, as leis e regulamentos em vigor.
 
 2 - A estrutura, atribuições e competência dos órgãos e serviços referidos nos n.os 2 e 3 do artigo 2.º serão estabelecidas por diplomas regionais.
 
-###### Art. 28.º O exercício das competências da Direcção Regional de Saúde não especificamente atribuídas a um dos seus órgãos ou serviços cabe ao director regional, que, para o efeito, disporá do apoio do pessoal necessário.
+Art. 28.º O exercício das competências da Direcção Regional de Saúde não especificamente atribuídas a um dos seus órgãos ou serviços cabe ao director regional, que, para o efeito, disporá do apoio do pessoal necessário.
 
-###### Art. 29.º - 1 - As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho conjunto dos Secretários Regionais da Administração Pública e dos Assuntos Sociais.
+Art. 29.º - 1 - As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho conjunto dos Secretários Regionais da Administração Pública e dos Assuntos Sociais.
 
 2 - Para a execução deste diploma poderão ser aprovados pelo Secretário Regional dos Assuntos Sociais regulamentos internos, sob proposta do director Regional de Saúde.
 
-###### Art. 30.º O presente diploma revoga o artigo 4.º do Decreto Regulamentar Regional n.º 5/78-A, de 3 de Fevereiro, bem como o quadro de pessoal respeitante aos serviços centrais da Direcção Regional de Saúde.
+Art. 30.º O presente diploma revoga o artigo 4.º do Decreto Regulamentar Regional n.º 5/78-A, de 3 de Fevereiro, bem como o quadro de pessoal respeitante aos serviços centrais da Direcção Regional de Saúde.
 
 Aprovado em Conselho em 10 de Março de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 14 de Abril de 1982.**
+Assinado em Angra do Heroísmo em 14 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro de pessoal a que se refere o artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/05/10100/11151120.pdf))](https://files.diariodarepublica.pt/1s/1982/05/10100/11151120.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/05/10100/11151120.pdf)

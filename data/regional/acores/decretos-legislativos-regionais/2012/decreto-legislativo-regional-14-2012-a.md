@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2012/03/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-553907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b352bd0a1660d3d159d18b0c7fba3095dfe7191c53712a292f1cecab7d51c853
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 272d2485a0245b408e9fa42375db34df25298bea9c24b0d94ab2c5ac663cafd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Deficiente
-- Arbitragem
-- Direito de Acesso
-- Igualdade de Tratamento
-- Governo Regional
-- Definição de Competências
-- Direito de Participação
-- Luta contra a Discriminação
-- Fiscalização
-- Voluntariado
-- Igualdade de Oportunidades
-- Informação
-- TIC
-- Intervenção do Estado
-- Direitos do Indivíduo
-- Política de Transportes
-- Organização não Governamental
-- Proteção ao Deficiente
-- Política Social
-- Inserção Social
-- Reabilitação
-- Administração Regional
 - Açores
+- Administração Regional
+- Arbitragem
+- Deficiente
+- Definição de Competências
+- Direito de Acesso
+- Direito de Participação
+- Direitos do Indivíduo
+- Fiscalização
+- Governo Regional
+- Igualdade de Oportunidades
+- Igualdade de Tratamento
+- Informação
+- Inserção Social
+- Intervenção do Estado
+- Luta contra a Discriminação
+- Organização não Governamental
+- Política de Transportes
+- Política Social
+- Proteção ao Deficiente
+- Reabilitação
+- TIC
+- Voluntariado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163/2006/08/08/p/dre
@@ -102,16 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:417404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:29Z'
   warnings: []
   errors: []
 ---
@@ -400,10 +412,10 @@ O presente decreto legislativo regional entra em vigor no dia seguinte à data d
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 25 de janeiro de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 12 de março de 2012.**
+Assinado em Angra do Heroísmo em 12 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

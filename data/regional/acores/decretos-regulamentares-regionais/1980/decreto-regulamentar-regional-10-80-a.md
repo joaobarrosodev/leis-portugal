@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/03/06000/03690371.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1980-678201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 723b7b37b7d635534f5921b56a2db620c52e46b506eed99c6797fa395b334014
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a824de7262ead868e9ba4faf9ad98ddf12c75f6de3a1ec1e94651d26d1f26a07
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Criação de Serviços
+- Secretaria Regional da Educação e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:468653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:382263:por
+  label: "Alterado o artigo 12.º pelo DRR.29/84/A.07.08.1984.GR-RAA, DR.IS [182] de 07.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-1984-382263
+  date: '1984-08-07'
+- type: amended_by
+  target: pt:dre:371413:por
+  label: "Alterado o n.º 2 do artigo 5.º pelo DRR.27/88/A.20.06.1988.GR-RAA, DR.IS [140] de 20.06.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-1988-371413
+  date: '1988-06-20'
+- type: amended_by
+  target: pt:dre:219934:por
+  label: "Alterado o n.º 2 do artigo 7.º pelo DRR.36/96/A.10.09.1996.SRFPAP-RAA, DR.IS-B [210] de 10.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-1996-219934
+  date: '1996-09-10'
+- type: amended_by
+  target: pt:dre:233109:por
+  label: "Extinto o Fundo Regional de Acção Social Escolar e revogados a al. a) do art. 1º, o art. 3º e o art. 12º, pelo DLR.11/2003/A.2003.03.06.ALR-RAA\
+    \ DR.IS-A [73] de 27/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2003-233109
+  date: '2003-03-06'
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:472090:por
+  label: Rectificado pela DECL.DD6988.28.07.1980.PCM, DR.IS [172] de 28.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-472090
+  date: '1980-07-28'
+- type: repealed_by
+  target: pt:dre:306946:por
+  label: "Revogado o n.º 3 do artigo 11.º pelo DRR.40/91/A.25.11.1991.GR-RAA, DR.IS-B [271] de 25.11.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/40-1991-306946
+  date: '1991-11-25'
+- type: repealed_by
+  target: pt:dre:301023:por
+  label: "Revogado o art. 10.º pelo DRR.18/2000/A.2000.06.07.SREAS-RAA DR.IS-B [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2000-301023
+  date: '2000-06-07'
+- type: repealed_by
+  target: pt:dre:468651:por
+  label: "Revogado pelo DLR.36/2003/A.17.10.2003.ALR-RAA, DR.IS-A [255] de 04.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/36-2003-468651
+  date: '2003-10-17'
+- type: repealed_by
+  target: pt:dre:468653:por
+  label: "Revogada a al. b) do art. 1.º e o art. 4.º , pelo DLR.37/2003/A.17.10.2003.ALR-RAA, DR.IS-A [255] de 04.11.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/37-2003-468653
+  date: '2003-10-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:02Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +156,7 @@ Assim, em execução do Decreto Regional n.º 3/76, de 31 de Dezembro:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados no âmbito da Secretaria Regional da Educação e Cultura os seguintes organismos, dotados de autonomia administrativa e financeira:
+Artigo 1.º São criados no âmbito da Secretaria Regional da Educação e Cultura os seguintes organismos, dotados de autonomia administrativa e financeira:
 
 a) Fundo Regional de Acção Social Escolar (FRASE), na dependência da Direcção Regional da Administração Escolar;
 
@@ -110,13 +164,13 @@ b) Fundo Regional de Fomento do Desporto (FRFD), na dependência da Direcção R
 
 c) Fundo Regional de Acção Cultural (FRAC), na dependência da Direcção Regional dos Assuntos Culturais.
 
-###### Art. 2.º - 1 - Cada um dos organismos referidos no artigo anterior terá um conselho administrativo, presidido pelo respectivo director regional e composto por mais dois funcionários a designar pelo Secretário Regional da Educação e Cultura.
+Art. 2.º - 1 - Cada um dos organismos referidos no artigo anterior terá um conselho administrativo, presidido pelo respectivo director regional e composto por mais dois funcionários a designar pelo Secretário Regional da Educação e Cultura.
 
 2 - Os organismos acima referidos funcionarão com o apoio administrativo dos serviços da respectiva direcção regional.
 
 3 - O trabalho prestado nos órgãos e serviços daqueles organismos pelos funcionários da Secretaria Regional da Educação e Cultura é considerado para todos os efeitos como exercício das respectivas funções.
 
-###### Art. 3.º - 1 - O FRASE destina-se a suportar os encargos de apoio social aos estudantes, bem como às crianças que frequentam a educação pré-escolar e as abrangidas pela educação especial, podendo incluir, nomeadamente, as despesas com:
+Art. 3.º - 1 - O FRASE destina-se a suportar os encargos de apoio social aos estudantes, bem como às crianças que frequentam a educação pré-escolar e as abrangidas pela educação especial, podendo incluir, nomeadamente, as despesas com:
 
 a) Transportes escolares;
 
@@ -140,7 +194,7 @@ d) Subsídios, donativos e outras receitas provenientes de entidades públicas o
 
 3 - O FRASE assegurará também o financiamento das acções resultantes da transferência para a Região das atribuições da Obra Social do Ministério da Educação, enquanto a estas não for dado outro enquadramento jurídico e financeiro.
 
-###### Art. 4.º - 1 - O Fundo Regional de Fomento do Desporto tem por fim prestar o apoio financeiro às actividades desportivas, abrangendo nomeadamente:
+Art. 4.º - 1 - O Fundo Regional de Fomento do Desporto tem por fim prestar o apoio financeiro às actividades desportivas, abrangendo nomeadamente:
 
 a) Acções de formação, actualização e aperfeiçoamento de pessoal;
 
@@ -162,7 +216,7 @@ b) As dotações que lhe forem atribuídas no orçamento da Secretaria Regional 
 
 c) Outras receitas que por lei lhe sejam atribuídas ou resultem de actividade própria da Direcção Regional de Educação Física e Desportos, nomeadamente vendas de publicações e receitas provenientes de organização de actividades desportivas.
 
-###### Art. 5.º - 1 - O Fundo Regional de Acção Cultural tem como objectivo o apoio financeiro às actividades culturais e à protecção do património cultural da Região, incluindo nomeadamente:
+Art. 5.º - 1 - O Fundo Regional de Acção Cultural tem como objectivo o apoio financeiro às actividades culturais e à protecção do património cultural da Região, incluindo nomeadamente:
 
 a) A realização de exposições, espectáculos, concertos, cursos, conferências, congressos e outras manifestações culturais e artísticas promovidas pela Secretaria Regional da Educação e Cultura, bem como o apoio a iniciativas semelhantes de outras entidades;
 
@@ -190,25 +244,25 @@ d) As receitas da venda de livros ou outras edições, filmes, dispositivos, gra
 
 e) As receitas cobradas por serviços prestados, materiais fornecidos, espectáculos realizados e, em geral, por quaisquer actividades organizadas pela Direcção Regional dos Assuntos Culturais.
 
-###### Art. 6.º - 1 - Os orçamentos, bem como as suas alterações, dos fundos referidos nos artigos anteriores serão aprovados por despacho do Secretário Regional da Educação e Cultura e pelo Secretário Regional das Finanças.
+Art. 6.º - 1 - Os orçamentos, bem como as suas alterações, dos fundos referidos nos artigos anteriores serão aprovados por despacho do Secretário Regional da Educação e Cultura e pelo Secretário Regional das Finanças.
 
 2 - Os fundos referidos nos artigos anteriores prestarão contas, nos termos da legislação em vigor, ao Tribunal de Contas, através da respectiva secção regional.
 
-###### Art. 7.º - 1 - Os conselhos administrativos dos fundos atrás referidos têm a competência para autorização de despesas, conferida por lei aos directores regionais, podendo o Secretário Regional da Educação e Cultura delegar a autorização de montantes superiores, dentro do limite da sua competência própria.
+Art. 7.º - 1 - Os conselhos administrativos dos fundos atrás referidos têm a competência para autorização de despesas, conferida por lei aos directores regionais, podendo o Secretário Regional da Educação e Cultura delegar a autorização de montantes superiores, dentro do limite da sua competência própria.
 
 2 - As verbas dos fundos atrás referidos serão depositadas na Caixa Geral de Depósitos, em conta à ordem, a movimentar por duas assinaturas dos membros do respectivo conselho administrativo.
 
-###### Art. 8.º - 1 - Os conselhos administrativos destes fundos poderão dispor de delegados, para efeitos de cobrança de receitas e processamento de despesas, designados por inerência de funções ou por despacho do Secretário Regional da Educação e Cultura.
+Art. 8.º - 1 - Os conselhos administrativos destes fundos poderão dispor de delegados, para efeitos de cobrança de receitas e processamento de despesas, designados por inerência de funções ou por despacho do Secretário Regional da Educação e Cultura.
 
 2 - Poderão ser atribuídos a estes delegados fundos permanentes do montante necessário ao normal funcionamento das suas actividades, mediante despacho do respectivo conselho administrativo.
 
-###### Art. 9.º - 1 - Os conselhos administrativos das escolas preparatórias, secundárias e do magistério primário são, por inerência de funções, os directores escolares e os delegados escolares, ou os respectivos adjuntos aos quais estejam atribuídas tais funções.
+Art. 9.º - 1 - Os conselhos administrativos das escolas preparatórias, secundárias e do magistério primário são, por inerência de funções, os directores escolares e os delegados escolares, ou os respectivos adjuntos aos quais estejam atribuídas tais funções.
 
-###### Art. 10.º - 1 - Os serviços das ex-delegações da Direcção-Geral dos Desportos e os centros de medicina desportiva passam a constituir serviços externos da Secretaria Regional da Educação e Cultura, na dependência da Direcção Regional da Educação Física e Desportos, denominando-se Delegações dos Desportos e Centros de Medicina Desportiva de Ponta Delgada, Angra do Heroísmo e Horta.
+Art. 10.º - 1 - Os serviços das ex-delegações da Direcção-Geral dos Desportos e os centros de medicina desportiva passam a constituir serviços externos da Secretaria Regional da Educação e Cultura, na dependência da Direcção Regional da Educação Física e Desportos, denominando-se Delegações dos Desportos e Centros de Medicina Desportiva de Ponta Delgada, Angra do Heroísmo e Horta.
 
 2 - Os delegados dos desportos e os directores dos centros de medicina desportiva são também, por inerência de funções, delegados do Fundo Regional de Fomento do Desporto.
 
-###### Art. 11.º - 1 - Os serviços das ex-delegações do Fundo de Apoio aos Organismos Juvenis passam a constituir serviços externos da Secretaria Regional da Educação e Cultura, na dependência da Direcção Regional dos Assuntos Culturais, adoptando a designação de Casas de Cultura da Juventude de Ponta Delgada, Angra do Heroísmo e Horta.
+Art. 11.º - 1 - Os serviços das ex-delegações do Fundo de Apoio aos Organismos Juvenis passam a constituir serviços externos da Secretaria Regional da Educação e Cultura, na dependência da Direcção Regional dos Assuntos Culturais, adoptando a designação de Casas de Cultura da Juventude de Ponta Delgada, Angra do Heroísmo e Horta.
 
 2 - Cada casa de cultura da juventude terá um director, que, por inerência, exercerá funções de delegado do Fundo Regional de Acção Cultural.
 
@@ -216,7 +270,7 @@ e) As receitas cobradas por serviços prestados, materiais fornecidos, espectác
 
 4 - Por despacho do Secretário Regional da Educação e Cultura poderão ser nomeados delegados da Direcção Regional dos Assuntos Culturais ou do Fundo Regional de Acção Cultural em cada ilha, ou, quando tal se justifique, para determinada zona, definindo-se no respectivo despacho as atribuições, competência e área de actuação que lhe são confiados.
 
-###### Art. 12.º - 1 - As residências de estudantes dependentes da Secretaria Regional da Educação e Cultura, constituem serviços dotados de autonomia administrativa e financeira.
+Art. 12.º - 1 - As residências de estudantes dependentes da Secretaria Regional da Educação e Cultura, constituem serviços dotados de autonomia administrativa e financeira.
 
 2 - As residências de estudantes disporão de um conselho administrativo constituído pelo director, pelo ecónomo e por um funcionário administrativo a designar por despacho do Secretário Regional da Educação e Cultura de entre chefes de secretaria ou oficiais administrativos com prática de contabilidade dos estabelecimentos de ensino da localidade, ou, se necessário, de outros serviços públicos, mediante autorização do respecticvo Secretário Regional.
 
@@ -240,18 +294,18 @@ c) Os encargos de expediente e pequenas despesas de conservação corrente dos e
 
 d) Outras despesas inerentes ao funcionamento normal da residência ou a outras actividades superiormente autorizadas.
 
-###### Art. 13.º Os quadros de pessoal dos serviços mencionados nos artigos 10.º, 11.º e 12.º serão aprovados por decreto regulamentar regional no prazo de trinta dias sobre a publicação do presente diploma.
+Art. 13.º Os quadros de pessoal dos serviços mencionados nos artigos 10.º, 11.º e 12.º serão aprovados por decreto regulamentar regional no prazo de trinta dias sobre a publicação do presente diploma.
 
-###### Art. 14.º O presente diploma será regulamentado por despacho do Secretário Regional da Educação e Cultura, ou, conjuntamente, deste e do Secretário Regional da Administração Pública ou do Secretário Regional das Finanças, consoante as matérias a tratar.
+Art. 14.º O presente diploma será regulamentado por despacho do Secretário Regional da Educação e Cultura, ou, conjuntamente, deste e do Secretário Regional da Administração Pública ou do Secretário Regional das Finanças, consoante as matérias a tratar.
 
-###### Art. 15.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1980.
+Art. 15.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1980.
 
 Aprovado pelo Governo Regional em 31 de Janeiro de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 22 de Fevereiro de 1980.**
+Assinado em Angra do Heroísmo em 22 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

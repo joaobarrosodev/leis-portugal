@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/35/2003/08/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2003-660296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9568550d572a9b0105393e4cf24cb44dc764113d16b252cad66ec16e266f86ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4a758086d96ee5dc8c6c542aadb0e84d1c291ed3ff16c0ccc901e108f4016fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orçamento Regional
 - Açores
+- Orçamento Regional
 relationships:
 - type: amended_by
   target: pt:dre:648933:por
@@ -77,16 +77,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/41/2002/12/23/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/41/2002/12/23/a/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405299:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:647726:por
+  label: "Rectificado pela DECL-RECT.11-F/2003.18.09.2003.PCM, DR.IS-A [226]Supl de 30.09.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-f-2003-647726
+  date: '2003-08-16'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:52Z'
   warnings: []
   errors: []
 ---
@@ -121,37 +134,37 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Junho de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 18 de Julho de 2003.**
+Assinado em Angra do Heroísmo em 18 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 MAPA I
 
 Receita da Região Autónoma dos Açores
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)
 
 MAPA II
 
 Despesas da Região especificadas segundo a classificação orgânica, por capítulos
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)
 
 MAPA III
 
 Despesas da Região especificadas segundo a classificação funcional
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)
 
 MAPA IV
 
 Despesas da Região especificadas segundo a classificação económica
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)
 
 MAPA IX
 
@@ -159,4 +172,4 @@ Despesas de investimento da administração pública regional
 
 Resumo por departamentos
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)
+[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)](https://files.diariodarepublica.pt/1s/2003/08/188a00/51175135.pdf)

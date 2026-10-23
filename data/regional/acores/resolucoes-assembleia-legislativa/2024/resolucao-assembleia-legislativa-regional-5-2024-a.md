@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/05/08800/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/5/2024/05/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/5-2024-863782333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b923eea4ace99a5c1c661411621c6723efeb4bdd32cbacd893b46320bb4cf69
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60592d28c51c35f1dca104347820fdd9f3dcfe4c93b9d37e4b44c9375f161fae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Recolha de Dados
-- Comissão de Acompanhamento
-- Ordenamento do Território
-- Base de Dados
-- Iniciativa Legislativa
-- Espaço Marítimo
-- Proteção do Ambiente
-- Relatório
-- Governo
 - Açores
-relationships: []
+- Base de Dados
+- Comissão de Acompanhamento
+- Espaço Marítimo
+- Governo
+- Iniciativa Legislativa
+- Ordenamento do Território
+- Proteção do Ambiente
+- Recolha de Dados
+- Relatório
+relationships:
+- type: corrected_by
+  target: pt:dre:864060337:por
+  label: Retifica a Res 5/2024/A, de 8-maio JOA-IS [37] pelo(a) Declaração de Rectificação n.º 6/2024
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-2024-864060337
+  date: '2024-05-09'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:47Z'
   warnings: []
   errors: []
 ---
@@ -154,4 +159,6 @@ A Comissão de Acompanhamento de Políticas de Ordenamento do Espaço Marítimo 
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de abril de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
+
+117658725

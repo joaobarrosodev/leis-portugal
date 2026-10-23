@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2005/10/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2005-594310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05b0155c0d3aa0e6700ba9f660f6d434b754dac11fc938ced6a9bd2122b1ffc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eb80f3df2571df24323bdd60de984a360ceeb6b9a9632d425a0de5e41c23b13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ilha do Pico
 - Proteção do Ambiente
-- Zona de Proteção
-- Açores
 - Vinha
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:456524:por
@@ -84,16 +84,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/12/1996/06/27/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/12/1996/06/27/a/dre
+- type: cites
+  target: pt:dre:426772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607171:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456524:por
+  label: "Revogado, a partir da entrada em vigor do plano de ordenamento de área protegida referido nos artigos 41.º e 42.º,\
+    \ o DLR 1/2004/A, de 21-Jan, alterado pelo presente diploma, pelo DLR.20/2008/A.09.07.2008.AL-RAA, DR.IS [131] de 09.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2008-456524
+  date: '2008-07-09'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:13Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +137,9 @@ Objecto
 
 A paisagem protegida de interesse regional da cultura da vinha da ilha do Pico (PPIRCVIP), adiante abreviadamente designada por paisagem protegida, criada pelo [Decreto Legislativo Regional n.º 12/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1996-426772), de 27 de Junho, passa a reger-se pelo presente diploma, mantendo-se o seu estatuto de classificação.
 
-###### Artigo 12.º — Regulamentação
+Artigo 12.º
+
+Regulamentação
 
 O Governo Regional estabelece, por decreto regulamentar regional, o regulamento da paisagem protegida e o seu quadro de pessoal, bem como os critérios para a atribuição dos apoios para a reconstrução e correcção de dissonâncias e anomalias arquitectónicas em imóveis, a prestar aos respectivos proprietários, e para a reabilitação e manutenção da paisagem tradicional da cultura da vinha em currais, incluindo os currais de figueira, a prestar aos titulares dessas explorações.»
 
@@ -132,10 +149,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de Setembro de 2005.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 3 de Outubro de 2005.**
+Assinado em Angra do Heroísmo em 3 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

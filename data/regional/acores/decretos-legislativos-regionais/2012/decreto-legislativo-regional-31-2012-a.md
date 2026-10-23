@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/31/2012/07/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2012-178482
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32b9f3bb2b368eadaad6d674c51ebf68f61d177caf3eece608f495f0fc31a495
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2253d0ad2ea7f8d14898aac2e0a843d0ae62916fda1b02f387309ca9eddebc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,67 +68,67 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Jurisdição
-- Embarcação
+- Açores
+- Administração de Portos
+- Apoio ao Investimento
+- Aquicultura
+- Artes de Pesca
 - Atribuição de Verba
-- Certificado de Aptidão Profissional
+- Autoridade Portuária
 - CAÇA Submarina
-- Pescador
-- Formação Profissional
-- Investigação Científica e Tecnológica
 - Certificação Profissional
-- Pessoal do MAR
-- Multa
-- Zona Económica Exclusiva
-- Radiocomunicações
-- Governo Regional
+- Certificado de Aptidão Profissional
 - Contra-ordenação
 - Contrato
 - Definição de Competências
-- Regime Laboral
-- Mar Territorial
+- Domínio Público Hídrico
 - Domínio Público Marítimo
-- Monicap
-- Segurança das Embarcações
+- Embarcação
+- Embarcação de Pesca
 - Equivalência de Habilitações Literárias
-- Administração de Portos
 - Fiscalização
+- Formação Profissional
 - Frota de Pesca
-- Pesca
-- Apoio ao Investimento
 - Fundopesca
-- Inspecção Regional das Pescas
 - Gestão dos Recursos
-- Recrutamento de Pessoal
-- Pagamento
+- Governo Regional
+- Indústria Transformadora
 - Inscrição Marítima
+- Inspecção Regional das Pescas
 - Inspector Regional
-- Autoridade Portuária
-- Licenciamento
+- Investigação Científica e Tecnológica
+- Jurisdição
 - Licença de Pesca
+- Licenciamento
 - Lotação
-- Recursos do Mar
+- Mar Territorial
 - Mergulho
-- Aquicultura
-- Proteção do Ambiente
+- Monicap
+- Multa
+- Pagamento
 - Período de Defeso
-- Porto de Pesca
+- Pesca
 - Pesca Desportiva
 - Pesca Fluvial
-- Artes de Pesca
 - Pesca Profissional
-- Qualificação Profissional
+- Pescador
+- Pessoal do MAR
+- Porto de Pesca
 - Promoção Profissional
-- Domínio Público Hídrico
+- Proteção do Ambiente
+- Qualificação Profissional
+- Radiocomunicações
+- Recrutamento de Pessoal
+- Recursos do Mar
 - Regime Jurídico
-- Indústria Transformadora
-- Embarcação de Pesca
+- Regime Laboral
 - Segurança da Navegação
+- Segurança das Embarcações
 - Sinalização Marítima
-- Açores
 - Taxa
 - Tripulação
 - ZONA de Pesca
+- Zona Económica Exclusiva
 relationships:
 - type: cites
   target: celex:31979L0409
@@ -160,14 +160,14 @@ relationships:
   source: http://data.dre.pt/eli/declegreg/9/2010/03/08/a/dre
 article_structure:
   article_count: 233
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:37Z'
   warnings: []
   errors: []
 ---
@@ -248,11 +248,11 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de maio de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 18 de junho de 2012.**
+Assinado em Angra do Heroísmo em 18 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -2452,7 +2452,9 @@ Os programas de exames, a serem aprovados pelo membro do Governo Regional respon
 
 3 - Do novo júri não pode fazer parte qualquer membro do júri anterior.
 
-###### Artigo 176.º — Livro de termos de exame
+###### Artigo 176.º
+
+## Livro de termos de exame
 
 1 - Os resultados dos exames são registados em livros de termos de exame.
 

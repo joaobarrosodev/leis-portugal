@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/2020/08/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2020-140087210
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 011a81cdb2dce469831d413e0908015089e15071b39893615dfef39f4a08eabe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2df3c7ef89bedc280a63571c43acdc741de48c3d7cc5887762ec8fe3a11dae83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
 - Planeamento Regional
-- Desenvolvimento Económico
 - Plano Regional
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10/2020/04/08/a/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/2/2020/01/22/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/2/2020/01/22/a/dre
+- type: cites
+  target: pt:dre:128355820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:131246168:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:36Z'
   warnings: []
   errors: []
 ---
@@ -123,11 +131,11 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 7 de julho de 2020.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 29 de julho de 2020.**
+Assinado em Angra do Heroísmo em 29 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -137,22 +145,24 @@ Investimento Público 2020
 
 Desagregação por Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf)
 
 Investimento Público 2020
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf)
 
 Investimento Público 2020
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf)
 
 Investimento Público 2020
 
 Desagregação Espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15600/0004100075.pdf)
+
+113457173

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/09/222b00/59575980.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/1995/09/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1995-573749
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bc3df65361a4d2a25fe4dd8d676639f69fda2ef581c6e47e3a7529120d2b098
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a7140a10fecdf1e9565ece75139858cd58a134fd72f2a462c7429c031153a12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,40 +65,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Pessoal Dirigente
+- Açores
+- Carreira Profissional
+- Descrição de Funções
 - Direcção Regional da Juventude
 - Direcção Regional do Comércio Indústria e Energia
 - Direcção Regional do Emprego
 - Empresa de Electricidade dos Açores
+- Estágio de Formação
 - Estatuto
-- Carreira Profissional
 - Formas de Provimento
 - Fundo Regional de Abastecimento
 - Gabinete de Gestão Financeira do Emprego
-- Recrutamento de Pessoal
-- Subsídio de Risco
+- Inspecção Regional do Trabalho
 - Instituto Regional de Apoio ao Sector Cooperativo
 - Integração de Trabalhadores
 - Orgânica
-- Descrição de Funções
 - Pessoal de Inspecção
+- Pessoal Dirigente
 - Pessoal Técnico
 - Pessoal Técnico Adjunto
 - Pessoal Técnico Profissional
-- Estágio de Formação
 - Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
 - Remuneração
 - Repartição dos Serviços Administrativos
 - Secretaria Regional da Juventude Emprego Comércio Indústria e Energia
-- Inspecção Regional do Trabalho
 - Secretário Regional da Juventude Emprego Comércio Indústria e Energia
-- Açores
+- Subsídio de Risco
 relationships:
 - type: amended_by
   target: pt:dre:522377:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:611317:por
+  label: "Alterados os art.s 66º e 89º bem como o quadro de pessoal e aditado o mapa II, pelo DRR.6/96/A.20.02.1996.SRJECIE-RAA,\
+    \ DR.IS-B [43] de 20.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1996-611317
+  date: '1996-02-20'
+- type: amended_by
+  target: pt:dre:197286:por
+  label: "Alterado o quadro de pessoal da DRCIE aprovado pelo presente diploma, com a redacção introduzida pelo DRR 6/96/A\
+    \ de 20-Fev, pelo DRR 20/97/A.1997.08.01.SREC-RAA, DR.IS-B [199] de 29/Ago/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1997-197286
+  date: '1997-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/1993/01/08/p/dre
   label: null
@@ -135,16 +147,135 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/8/1991/03/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/8/1991/03/04/a/dre
+- type: cites
+  target: pt:dre:181032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:410480:por
+  label: "Rectificado o mapa I, em anexo, a que se refere o artigo 54.º, na parte do quadro de pessoal respeitante à Direcção\
+    \ Regional do Emprego, e publicado de novo o mapa III a que se refere o artigo 92.º pela DECL-RECT.164/95.30.12.1995.PCM,\
+    \ DR.IS-B [300]2ºSupl de 30.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/164-1995-410480
+  date: '1995-12-30'
+- type: repealed_by
+  target: pt:dre:144632:por
+  label: "Revogadas todas as disposições relativas à IRAE constantes do presente diploma pelo DRR.16/97/A.1997.06.23.SRE-RAA\
+    \ DR.IS-B [171] de 26/Jul/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1997-144632
+  date: '1997-06-23'
+- type: repealed_by
+  target: pt:dre:197295:por
+  label: "Revogados os art 28º, 60º a 66º, 87º, 89º e 90º pelo DRR 19/97/A.1997.08.01.PG-RAA, DR.IS-B [199] de 29/Ago/1997\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1997-197295
+  date: '1997-08-01'
+- type: repealed_by
+  target: pt:dre:675644:por
+  label: "Revogada a al f) do nº 3 do art. 10º e o art. 35º, pelo DLR.21/97/A.1997.10.13.ALR-RAA, DR.IS-A [255] de 04/Nov/1997\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-1997-675644
+  date: '1997-10-13'
+- type: repealed_by
+  target: pt:dre:516879:por
+  label: "Revogado pelo DRR.11/98/A.1998.04.13.SREAS-RAA, DR.IS-B [103] de 05/Mai/1998, com a alteração constante do DRR 6/96/A,\
+    \ de 22-Fev, arts 15º a 35º enquanto não for regulamentado o funcionamento da Escola Profissional das Capelas, manter-se-ão\
+    \ em vigor as normas do Decreto Regulamentar Regional 17/95/A, de 25 de Setembro, respeitantes à Direcção Regional do\
+    \ Emprego, no que concerne ao Centro de Formação Profissional dos Açores, e respectivo pessoal, com excepção dos lugares\
+    \ de director e subdirector, os quais são extintos na data de publicação do presente diploma. O mesmo se aplica à Divisão\
+    \ de Apoio ao Sector Cooperativo, da ex-Direcção Regional de Emprego, até à publicação da lei orgânica da Secretaria Regional\
+    \ da Economia\0a\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1998-516879
+  date: '1998-04-13'
+- type: repealed_by
+  target: pt:dre:522377:por
+  label: "Revogado o presente diploma, e demais legislação subsequente na parte em que dispõe sobre as Matérias do Comércio,\
+    \ Indústria e Energia, bem como, as demais disposições legais e regulamentares que contrariem o disposto no presente diploma,\
+    \ pelo DRR.17/98/A.1998.04.13.SRE-RAA DR.IS-B [112] de 15/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1998-522377
+  date: '1998-04-13'
 article_structure:
   article_count: 95
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:27Z'
   warnings: []
   errors: []
 ---
@@ -275,7 +406,7 @@ d) Instituto Regional de Apoio ao Sector Cooperativo.
 
 ###### Artigo 5.º — Empresa pública
 
-**O Secretário Regional da Juventude, Emprego, Comércio, Indústria e Energia exerce a tutela da Empresa de Electricidade dos Açores (EDA), E. P., nos termos do respectivo estatuto.**
+O Secretário Regional da Juventude, Emprego, Comércio, Indústria e Energia exerce a tutela da Empresa de Electricidade dos Açores (EDA), E. P., nos termos do respectivo estatuto.
 
 #### SECÇÃO I — Órgãos de apoio técnico
 
@@ -391,7 +522,9 @@ e) Secção de Apoio à Direcção Regional do Comércio, Indústria e Energia;
 
 f) Secção de Apoio ao Centro de Formação Profissional dos Açores.
 
-###### Artigo 11.º — Secção de Pessoal
+###### Artigo 11.º
+
+#### Secção de Pessoal
 
 Compete à Secção de Pessoal:
 
@@ -405,7 +538,9 @@ d) Organizar e manter actualizado o cadastro e registo do pessoal;
 
 e) Propor acções de formação profissional do pessoal.
 
-###### Artigo 12.º — Secção de Contabilidade e Património
+###### Artigo 12.º
+
+#### Secção de Contabilidade e Património
 
 Compete à Secção de Contabilidade e Património:
 
@@ -423,7 +558,9 @@ f) Gerir o parque automóvel;
 
 g) Zelar pela segurança e conservação do património.
 
-###### Artigo 13.º — Secção de Expediente
+###### Artigo 13.º
+
+#### Secção de Expediente
 
 Compete à Secção de Expediente:
 
@@ -533,7 +670,9 @@ g) Desenvolver a realização de acções de voluntariado juvenil;
 
 h) Assegurar a cooperação com outros organismos sobre assuntos de relevância para o sector.
 
-###### Artigo 19.º — Divisão de Projectos Económicos e Sociais
+###### Artigo 19.º
+
+##### Divisão de Projectos Económicos e Sociais
 
 Compete à Divisão de Projectos Económicos e Sociais:
 
@@ -551,7 +690,9 @@ f) Realizar acções de voluntariado juvenil;
 
 g) Organizar e manter actualizado um registo regional das associações juvenis.
 
-###### Artigo 20.º — Divisão de Projectos Especiais
+###### Artigo 20.º
+
+##### Divisão de Projectos Especiais
 
 Compete a Divisão de Projectos Especiais:
 
@@ -709,7 +850,9 @@ l) Promover a aplicação da legislação relativa à segurança, higiene e saú
 
 2 - A Direcção de Serviços do Trabalho assegura todo o apoio técnico e administrativo ao Serviço Regional de Conciliação e Arbitragem do Trabalho.
 
-###### Artigo 26.º — Divisão de Relações de Trabalho
+###### Artigo 26.º
+
+##### Divisão de Relações de Trabalho
 
 Compete à Divisão de Relações de Trabalho:
 
@@ -727,7 +870,9 @@ f) Elaborar pareceres e estudos referentes à legislação laboral;
 
 g) Assegurar a organização e manutenção de um arquivo-ficheiro de legislação, doutrina e jurisprudência do trabalho e de administração do trabalho.
 
-###### Artigo 27.º — Divisão de Prevenção de Riscos Profissionais
+###### Artigo 27.º
+
+##### Divisão de Prevenção de Riscos Profissionais
 
 Compete à Divisão de Prevenção de Riscos Profissionais:
 
@@ -815,7 +960,9 @@ j) Acompanhar a aplicação dos apoios concedidos no âmbito da inserção de de
 
 2 - O Centro de Emprego é dirigido por um chefe de divisão.
 
-###### Artigo 31.º — Divisão de Promoção da Formação Profissional
+###### Artigo 31.º
+
+##### Divisão de Promoção da Formação Profissional
 
 Compete à Divisão de Promoção da Formação Profissional:
 
@@ -853,7 +1000,9 @@ f) Promover o estudo e divulgação de matérias relativas ao Fundo Social Europ
 
 g) Participar na preparação dos meios necessários ao acesso aos apoios do Fundo Social Europeu e colaborar na gestão, acompanhamento, controlo e avaliação das acções apoiadas.
 
-###### Artigo 33.º — Divisão de Programas de Emprego
+###### Artigo 33.º
+
+##### Divisão de Programas de Emprego
 
 Compete à Divisão de Programas de Emprego:
 
@@ -867,7 +1016,9 @@ d) Actuar junto das entidades empregadoras no sentido de dinamizar o estudo de p
 
 e) Intervir em situações de risco iminente de desemprego, desenvolvendo as acções oportunas e necessárias.
 
-###### Artigo 34.º — Divisão de Assuntos do Fundo Social Europeu
+###### Artigo 34.º
+
+##### Divisão de Assuntos do Fundo Social Europeu
 
 Compete à Divisão de Assuntos do Fundo Social Europeu:
 
@@ -1005,7 +1156,9 @@ f) Zelar pelo cumprimento da legislação comercial, tomando medidas preventivas
 
 g) Elaborar estudos técnicos e económico-financeiros necessários ao desenvolvimento do sector comercial.
 
-###### Artigo 40.º — Divisão de Comércio Interno e Externo
+###### Artigo 40.º
+
+##### Divisão de Comércio Interno e Externo
 
 Compete à Divisão de Comércio Interno e Externo:
 
@@ -1027,7 +1180,9 @@ h) Propor o apoio financeiro às exportações dos produtos;
 
 i) Colaborar na execução das normas que disciplinam o licenciamento do comércio externo.
 
-###### Artigo 41.º — Divisão de Concorrência e Preços
+###### Artigo 41.º
+
+##### Divisão de Concorrência e Preços
 
 Compete à Divisão de Concorrência e Preços:
 
@@ -1065,7 +1220,9 @@ j) Proceder, no exercício das suas atribuições de fiscalização e nos termos
 
 l) Elaborar estudos necessários ao desenvolvimento do sector industrial.
 
-###### Artigo 43.º — Divisão de Modernização Industrial
+###### Artigo 43.º
+
+##### Divisão de Modernização Industrial
 
 Compete à Divisão de Modernização Industrial:
 
@@ -1077,7 +1234,9 @@ c) Proceder à divulgação de toda a informação de interesse para o sector;
 
 d) Desenvolver estudos e apresentar propostas de fomento à modernização da actividade industrial.
 
-###### Artigo 44.º — Divisão de Recursos Geológicos
+###### Artigo 44.º
+
+##### Divisão de Recursos Geológicos
 
 Compete à Divisão de Recursos Geológicos:
 
@@ -1095,7 +1254,9 @@ f) Colaborar no planeamento das acções relativas ao aproveitamento dos recurso
 
 g) Desenvolver estudos necessários ao desenvolvimento do sector.
 
-###### Artigo 45.º — Divisão de Qualidade
+###### Artigo 45.º
+
+##### Divisão de Qualidade
 
 Compete à Divisão de Qualidade:
 
@@ -1129,7 +1290,9 @@ f) Promover a difusão de informação junto dos utilizadores de energia, design
 
 g) Assegurar a elaboração de estudos, designadamente os que respeitam ao impacte do factor «energia» nos diferentes processos produtivos e à fixação dos preços dos produtos energéticos.
 
-###### Artigo 47.º — Divisão de Energia Eléctrica
+###### Artigo 47.º
+
+##### Divisão de Energia Eléctrica
 
 Compete à Divisão de Energia Eléctrica:
 
@@ -1147,7 +1310,9 @@ f) Controlar o cumprimento das obrigações a que se encontrem sujeitos os conce
 
 g) Apreciar e informar os requerimentos e reclamações relativos a instalações eléctricas.
 
-###### Artigo 48.º — Divisão de Combustíveis
+###### Artigo 48.º
+
+##### Divisão de Combustíveis
 
 Compete à Divisão de Combustíveis:
 
@@ -1189,7 +1354,9 @@ i) Estudar e dar parecer sobre questões de natureza jurídica e económica rela
 
 3 - A Inspecção Regional das Actividades Económicas é dirigida por um inspector regional, equiparado, para todos os efeitos legais, a director de serviços.
 
-###### Artigo 50.º — Divisão de Defesa do Consumidor
+###### Artigo 50.º
+
+##### Divisão de Defesa do Consumidor
 
 Compete à Divisão de Defesa do Consumidor:
 
@@ -1641,23 +1808,23 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Madalena, Pico, em 8 de Junho de 1995.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 29 de Agosto de 1995.**
+Assinado em Angra do Heroísmo em 29 de Agosto de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ANEXOS
 
 Mapa I a que se refere o n.º 1 do artigo 54.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/222b00/59575980.pdf))](https://files.diariodarepublica.pt/1s/1995/09/222b00/59575980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/222b00/59575980.pdf)
 
 Mapa II a que se refere o artigo 89.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1995/09/222b00/59575980.pdf))](https://files.diariodarepublica.pt/1s/1995/09/222b00/59575980.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1995/09/222b00/59575980.pdf)
 
 Mapa III a que se refere o artigo 92.º
 

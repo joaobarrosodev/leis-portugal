@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16700/0000600014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2022/08/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2022-200360560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ad8a0335a6e786132c736a006b8981e5e8ef039578002cc3dd9b09923c9e663
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f2cb35f9026923ae086f60d684ec181fb38d001e3ab006861b25f00cac722bc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Comissão de Análise
-- Governo Regional
-- Definição de Competências
-- Regulamentação de Atos Legislativos
+- Açores
+- Alteração Climática
 - Catástrofe
+- Cheias
+- Clima
+- Comissão de Análise
+- Definição de Competências
+- Financiamento
+- Gestão do Ambiente
+- Governo Regional
 - Pagamento
 - Proteção do Ambiente
-- Gestão do Ambiente
 - Regime de Apoio
-- Alteração Climática
-- Clima
-- Açores
-- Cheias
+- Regulamentação de Atos Legislativos
+- Sistema de Proteção Civil da Região Autónoma dos Açores
+- Situação de Emergência Climática
 - Subsídio
 - Subsídio não Reembolsável
 - Temporal
-- Sistema de Proteção Civil da Região Autónoma dos Açores
-- Situação de Emergência Climática
 relationships:
 - type: cites
   target: celex:32013R1407
@@ -105,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
+- type: cites
+  target: pt:dre:126467884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184242535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:47Z'
   warnings: []
   errors: []
 ---
@@ -399,10 +415,12 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, nas Velas, em 21 de julho de 2022.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 11 de agosto de 2022.**
+Assinado em Angra do Heroísmo em 11 de agosto de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+115608477

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/23600/0880608808.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/25/2007/12/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2007-628562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca506e16b278dfda716ce55602d8dd22e856ee72fd2ddc4ef457aae43ff0dece
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fce2e184b93b57022753d5174bcf12b908997ab2fd04aa01f5d4558a3df51878
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
-- Internato Médico
-- Bolsa de Estudos
-- Serviço Regional de Saúde
 - Açores
+- Bolsa de Estudos
+- Internato Médico
+- Médico
+- Serviço Regional de Saúde
 - Subsídio
 relationships:
 - type: amended_by
@@ -80,16 +80,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/61/1998/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/61/1998/02/14/p/dre
+- type: cites
+  target: pt:dre:231571:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:673446:por
+  label: "Revogado pelo DLR.15/2011/A.30.05.2011.AL-RAA, DR.IS [104] de 30.05.2011, sem prejuízo do disposto no art. 18º\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2011-673446
+  date: '2011-05-30'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:39Z'
   warnings: []
   errors: []
 ---
@@ -210,10 +220,10 @@ O presente diploma é regulamentado pelo Governo Regional no prazo de 15 dias ap
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 29 de Outubro de 2007.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 28 de Novembro de 2007.**
+Assinado em Angra do Heroísmo em 28 de Novembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

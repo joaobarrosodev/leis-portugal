@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 119/2009, 1º Suplemento, Série I de 2009-06-23
   number: '119'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4118-(2) a 4118-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11901/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/678-a/2009/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f20a494f89ac4c809f2ae1e11243453585243743a7eef2b72b6872f403d2f50
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53d83acdb2d065917020f74952e949d07dc2e2157f04aa21798fb08fc82281aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral das Pescas e Aquicultura
-- Pesca
-- Gestão dos Recursos
-- Recursos do Mar
-- Quota de Pesca
 - Embarcação de Pesca
+- Gestão dos Recursos
+- Pesca
+- Quota de Pesca
+- Recursos do Mar
 relationships:
 - type: amended_by
   target: pt:dre:261123:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:614301:por
+  label: "Alterados os arts. 2º, 4º e 5º e republicada a Port 187/2009, de 20-Fev, na redacção do presente diploma, pela PORT.246/2010.03.05.2010.MADRP,\
+    \ DR.IS [85] de 03.05.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/246-2010-614301
+  date: '2010-05-03'
+- type: amended_by
+  target: pt:dre:277614:por
+  label: "Dada nova redacção ao art. 2º da Port 187/2009 de 20-Fev, alterada e pelo presente diploma, pela PORT.120/2011.29.03.2011.MADRP,\
+    \ DR.IS [62] de 29.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-2011-277614
+  date: '2011-03-29'
+- type: amended_by
+  target: pt:dre:177796:por
+  label: "Alterado o nº5 do art. 4º da Port 187/2009, de 20-fev, na redação do presente diploma, pela PORT.177/2012.31.05.2012.MAMAOT,\
+    \ DR.IS [106] de 31.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/177-2012-177796
+  date: '2012-05-31'
+- type: amended_by
+  target: pt:dre:261123:por
+  label: "Alterados os art.s 2.º,3.º,4.º e 5.º da Port 187/2009, de 20-fev, na redação do presente diploma, pela PORT.186/2013.21.05.2013.MAMAOT,\
+    \ DR.IS [97] de 21.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-2013-261123
+  date: '2013-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
   label: null
@@ -89,16 +113,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/612/2007/05/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/612/2007/05/21/p/dre
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:40Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +191,9 @@ c) As quantidades de pescada a ser transferidas apenas podem ser capturadas a pa
 
 8 - As capturas efectuadas ao abrigo de transferência de quotas não são consideradas para futura repartição das quotas disponíveis, nem constituem direitos para os efeitos de alterações à chave de repartição.
 
-###### Artigo 3.º — Gestão das capturas
+Artigo 3.º
+
+Gestão das capturas
 
 1 - Cada proprietário ou armador de embarcações incluídas na lista referida no n.º 2 do artigo 1.º ou referidas na alínea b) do n.º 1 do artigo 1.º é responsável pela gestão das quotas atribuídas ou das quantidades disponíveis por via da transferência de quotas, respectivamente.
 
@@ -169,7 +203,9 @@ a) ...
 
 b) ...
 
-###### Artigo 4.º — Esforço de pesca
+Artigo 4.º
+
+Esforço de pesca
 
 1 - ...
 
@@ -195,7 +231,9 @@ b) ...
 
 10 - Em caso de não licenciamento de uma embarcação num determinado ano, ou em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, o esforço de pesca que ficar disponível é objecto de redistribuição, por despacho do director-geral das Pescas e Aquicultura, pelas restantes embarcações do mesmo segmento a que pertence a embarcação não licenciada ou retirada definitivamente.
 
-###### Artigo 5.º — Proibição de pesca
+Artigo 5.º
+
+Proibição de pesca
 
 1 - É proibida a pesca de pescada branca do Sul sempre que se verifique uma das seguintes situações:
 

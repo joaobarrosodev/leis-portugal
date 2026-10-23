@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/03/06100/04170419.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-678213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 949eeeab13f61eb9df8fb9f5b2ea6784fa9359cb16da99ab957f37a8dfb4917e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f77be756124bf51606f4802617e6d3b8021316dfd3bc99dbf3ebb6a4d8ffd26a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Conservatório Regional
+- Criação de Serviços
+- Ensino Artístico
+- Ponta Delgada
 relationships:
 - type: amended_by
   target: pt:dre:233519:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573533:por
+  label: "Alterado o artigo 4.º pelo DRR.25/90/A.06.08.1990.GR-RAA, DR.IS [180] de 06.08.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-1990-573533
+  date: '1990-08-06'
+- type: amended_by
+  target: pt:dre:197540:por
+  label: "Alterado o artigo 6.º pelo DRR.5/95/A.28.02.1995.GR-RAA, DR.IS-B [50] de 28.02.1995\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1995-197540
+  date: '1995-02-28'
+- type: amended_by
+  target: pt:dre:233519:por
+  label: "Determinado, que o Conservatório Regional de Angra do Heroísmo criado pelo presente diploma, deixe de existir como\
+    \ unidade orgânica do sistema educativo, pelo DRR.16/2005/A.24.05.2005.PG-RAA, DR.IS-B [129] de 07.07.2005, a partir da\
+    \ sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2005-233519
+  date: '2005-05-24'
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354564:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:473568:por
+  label: Rectificado pela DECL.DD7022.26.06.1980.PCM, DR.IS [145] de 26.06.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-473568
+  date: '1980-06-26'
+- type: repealed_by
+  target: pt:dre:437012:por
+  label: "Revogado pelo DRR.31/2003/A.05.11.2003.PG-RAA, DR.IS-B [273] de 25.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2003-437012
+  date: '2003-11-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:02Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +152,9 @@ Considerando que não foi possível até agora a criação do ensino da música 
 
 Nos termos do [Decreto-Lei n.º 338/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1979-378683), de 25 de Agosto, e do Decreto Regulamentar n.º 13/78/A, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criados os Conservatórios Regionais de Ponta Delgada e Angra do Heroísmo, estabelecimentos de ensino públicos, na dependência da Secretaria Regional da Educação e Cultura.
+Artigo 1.º São criados os Conservatórios Regionais de Ponta Delgada e Angra do Heroísmo, estabelecimentos de ensino públicos, na dependência da Secretaria Regional da Educação e Cultura.
 
-###### Art. 2.º - 1 - Os Conservatórios Regionais acima referidos têm por fim ministrar o ensino da música a nível paralelo ao dos ensinos preparatório e secundário, dando aos seus alunos formação artística de base, com carácter profissionalizante, e preparando-os para ingresso no ensino superior do respectivo ramo.
+Art. 2.º - 1 - Os Conservatórios Regionais acima referidos têm por fim ministrar o ensino da música a nível paralelo ao dos ensinos preparatório e secundário, dando aos seus alunos formação artística de base, com carácter profissionalizante, e preparando-os para ingresso no ensino superior do respectivo ramo.
 
 2 - Os Conservatórios Regionais deverão apoiar a formação de professores do ensino básico e secundário no domínio da sua especialidade, nomeadamente pela organização de cursos e outras actividades de actualização pedagógica.
 
@@ -111,15 +164,15 @@ Nos termos do [Decreto-Lei n.º 338/79](https://diariodarepublica.pt/dr/detalhe/
 
 5 - Os Conservatórios Regionais deverão apoiar as bandas, grupos corais e outras actividades de cultura popular no domínio da música, nomeadamente pela organização de cursos de férias e de actualização para regentes e mestres de música daquelas agremiações.
 
-###### Art. 3.º - 1 - Os Conservatórios Regionais ministram os cursos regulares segundo os planos de estudos e programas dos Conservatórios Nacionais.
+Art. 3.º - 1 - Os Conservatórios Regionais ministram os cursos regulares segundo os planos de estudos e programas dos Conservatórios Nacionais.
 
 2 - Os Conservatórios Regionais organizarão os cursos regulares de modo que os alunos possam frequentar simultaneamente nos estabelecimentos de ensino preparatório e secundário planos de estudos complementares que lhe garantam os diplomas dos diversos graus daqueles ensinos, em termos a definir pelo Ministério da Educação e Ciência.
 
-###### Art. 4.º Os exames a realizar nos Conservatórios Regionais serão efectuados por júris presididos por professores dos Conservatórios Nacionais, em termos a acordar com o Ministério da Educação e Ciência, suportando os respectivos encargos.
+Art. 4.º Os exames a realizar nos Conservatórios Regionais serão efectuados por júris presididos por professores dos Conservatórios Nacionais, em termos a acordar com o Ministério da Educação e Ciência, suportando os respectivos encargos.
 
-###### Art. 5.º Os Conservatórios Regionais dispõem de autonomia administrativa, regendo-se a sua gestão e funcionamento pela legislação aplicável aos demais estabelecimentos públicos de ensino preparatório e secundário.
+Art. 5.º Os Conservatórios Regionais dispõem de autonomia administrativa, regendo-se a sua gestão e funcionamento pela legislação aplicável aos demais estabelecimentos públicos de ensino preparatório e secundário.
 
-###### Art. 6.º - 1 - O estatuto do pessoal docente dos Conservatórios Regionais, em tudo o que não colida com a especificidade deste tipo de ensino, é o do pessoal docente dos ensinos preparatório, secundário e médio, definido pelo [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho, e legislação complementar.
+Art. 6.º - 1 - O estatuto do pessoal docente dos Conservatórios Regionais, em tudo o que não colida com a especificidade deste tipo de ensino, é o do pessoal docente dos ensinos preparatório, secundário e médio, definido pelo [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho, e legislação complementar.
 
 2 - Os Conservatórios Regionais terão os quadros de pessoal docente constantes dos mapas anexos ao presente diploma.
 
@@ -129,38 +182,38 @@ Nos termos do [Decreto-Lei n.º 338/79](https://diariodarepublica.pt/dr/detalhe/
 
 5 - Quando não se encontrem definidas a nível nacional as habilitações próprias e habilitações suficientes, específicas para este tipo de ensino, poderao as mesmas ser definidas por portaria do Secretário Regional da Educação e Cultura.
 
-###### Art. 7.º - 1 - Poderão ser contratados como professores convidados par regerem disciplinas dos planos de estudos dos cursos reglamentares ou para realizarem cursos especiais, seminários ou outras actividades de carácter docente individualidades nacionais ou estrangeiras de reconhecida competência, em condições de prestação de serviço e de remuneração equiparadas às de qualquer das categorias de pessoal docente profissionalizado, independentemente dos requisitos legais de provimento na mesma, mediante proposta dos órgãos directivos do Conservatório Regional, devidamente justificada com base no respectivo curriculum, aprovada por despacho do Secretário Regional da Educação e Cultura.
+Art. 7.º - 1 - Poderão ser contratados como professores convidados par regerem disciplinas dos planos de estudos dos cursos reglamentares ou para realizarem cursos especiais, seminários ou outras actividades de carácter docente individualidades nacionais ou estrangeiras de reconhecida competência, em condições de prestação de serviço e de remuneração equiparadas às de qualquer das categorias de pessoal docente profissionalizado, independentemente dos requisitos legais de provimento na mesma, mediante proposta dos órgãos directivos do Conservatório Regional, devidamente justificada com base no respectivo curriculum, aprovada por despacho do Secretário Regional da Educação e Cultura.
 
 2 - Os Conservatórios Regionais poderão contratar além do quadro, em regime de acumulação, elementos de orquestras e de bandas militares para regerem disciplinas para as quais possuam especial aptidão.
 
-###### Art. 8.º Os Conservatórios Regionais poderão contratar acompanhadores em regime de prestação eventual de serviços, em condições de serviço e de remuneração equiparadas às do pessoal docente não profissionalizado, com idênticas habilitações.
+Art. 8.º Os Conservatórios Regionais poderão contratar acompanhadores em regime de prestação eventual de serviços, em condições de serviço e de remuneração equiparadas às do pessoal docente não profissionalizado, com idênticas habilitações.
 
-###### Art. 9.º Os Conservatórios Regionais dispõem dos quadros de pessoal administrativo e auxiliar constantes dos quadros anexos ao presente diploma.
+Art. 9.º Os Conservatórios Regionais dispõem dos quadros de pessoal administrativo e auxiliar constantes dos quadros anexos ao presente diploma.
 
-###### Art. 10.º O pessoal docente, administrativo e auxiliar até agora ao serviço do Conservatório Regional dos Açores, nas suas secções de Ponta Delgada e Angra do Heroísmo, será integrado nos Conservatórios Regionais criados pelo presente diploma, nos termos dos Decretos-Leis n.os [792/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/792-1975-354563) e [793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564), de 31 de Dezembro, contando para o pessoal docente o tempo de serviço prestado com habilitação própria ou suficiente, definida nos termos do n.º 4 do artigo 6.º do presente diploma.
+Art. 10.º O pessoal docente, administrativo e auxiliar até agora ao serviço do Conservatório Regional dos Açores, nas suas secções de Ponta Delgada e Angra do Heroísmo, será integrado nos Conservatórios Regionais criados pelo presente diploma, nos termos dos Decretos-Leis n.os [792/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/792-1975-354563) e [793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564), de 31 de Dezembro, contando para o pessoal docente o tempo de serviço prestado com habilitação própria ou suficiente, definida nos termos do n.º 4 do artigo 6.º do presente diploma.
 
-###### Art. 11.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1980.
+Art. 11.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1980.
 
 Aprovado pelo Governo Regional em 31 de Janeiro de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 25 de Fevereiro de 1980.**
+Assinado em Angra do Heroísmo em 25 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 QUADRO I
 
 Conservatório Regional de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/06100/04170419.pdf))](https://files.diariodarepublica.pt/1s/1980/03/06100/04170419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/06100/04170419.pdf)
 
 QUADRO II
 
 Conservatório Regional de Angra do Heroísmo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/03/06100/04170419.pdf))](https://files.diariodarepublica.pt/1s/1980/03/06100/04170419.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/03/06100/04170419.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Henrique Afonso da Silva Horta.**
+O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Henrique Afonso da Silva Horta.

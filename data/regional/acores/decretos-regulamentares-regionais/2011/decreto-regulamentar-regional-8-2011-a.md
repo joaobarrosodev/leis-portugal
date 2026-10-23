@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/07200/0224002257.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/8/2011/04/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2011-276846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14cf2aa05b518885961c233a70d914b4473fbeebe75156dea41b6f54ab38a7b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d34d15edec854ed5da5e5dd54fc15cd4f11cfd5244d5e8c2e33d249554ec2a1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Estatuto
-- Instituto para o Desenvolvimento Social dos Açores
-- Instituto de Gestão de Regimes da Segurança Social
-- Pessoal de Chefia
-- Quadro de Pessoal
-- Instituto de Acção Social
-- Instituto de Gestão de Regimes de Segurança Social
-- Segurança Social
 - Açores
+- Estatuto
+- Instituto de Acção Social
+- Instituto de Gestão de Regimes da Segurança Social
+- Instituto de Gestão de Regimes de Segurança Social
+- Instituto para o Desenvolvimento Social dos Açores
+- Pessoal de Chefia
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Segurança Social
 - Transferência de Competências
 relationships:
 - type: amended_by
@@ -122,16 +122,82 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre
+- type: cites
+  target: pt:dre:138306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:209865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667688:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571043:por
+  label: "Revogado pelo DRR.2/2014/A.24.01.2014.PG-RAA, DR.IS [17] de 24.01.2014, nos termos do disposto no n.º 1 do seu art.\
+    \ 4.º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2014-571043
+  date: '2014-01-24'
 article_structure:
   article_count: 44
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 18
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:58Z'
   warnings: []
   errors: []
 ---
@@ -170,11 +236,11 @@ As referências, em lei ou regulamento, ao Instituto de Gestão de Regimes da Se
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 14 de Fevereiro de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Março de 2011.**
+Assinado em Angra do Heroísmo em 25 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -314,7 +380,9 @@ e) A Divisão de Prestações Pecuniárias - Regime Previdencial.
 
 3 - O Departamento de Prestações e Contribuições é dirigido por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 10.º — Divisão de Enquadramento
+###### Artigo 10.º
+
+##### Divisão de Enquadramento
 
 1 - À Divisão de Enquadramento compete proceder à identificação e qualificação de beneficiários e contribuintes e ao acompanhamento de processos nacionais e internacionais, em colaboração com as Unidades de Atendimento e sistemas de segurança social estrangeiros, designadamente:
 
@@ -356,7 +424,9 @@ b) O Núcleo de Relações Internacionais para o desempenho das competências pr
 
 4 - O Núcleo de Identificação e Qualificação e o Núcleo de Relações Internacionais são coordenados por funcionários designados para o efeito através de deliberação do conselho directivo do IDSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de Março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de Outubro, ou por funcionários com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 11.º — Divisão de Contribuições
+###### Artigo 11.º
+
+##### Divisão de Contribuições
 
 1 - À Divisão de Contribuições compete assegurar o acompanhamento e controlo do cumprimento das obrigações contributivas, contencioso e ilícitos criminais, designadamente:
 
@@ -404,7 +474,9 @@ b) O Núcleo de Contencioso e Ilícitos Criminais para o desempenho das competê
 
 4 - O Núcleo de Processamento de Contribuições e o Núcleo de Contencioso e Ilícitos Criminais são coordenados por funcionários designados para o efeito por deliberação do conselho directivo do IDSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de Março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de Outubro, ou por funcionários com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 12.º — Divisão de Prestações Diferidas
+###### Artigo 12.º
+
+##### Divisão de Prestações Diferidas
 
 1 - À Divisão de Prestações Diferidas compete assegurar a instrução e organização de processos de atribuição de prestações diferidas do regime geral e regime especial e o acompanhamento e controlo desses mesmos processos, designadamente:
 
@@ -514,7 +586,9 @@ b) O Núcleo de Prestações do Subsistema de Solidariedade para o desempenho da
 
 4 - O Núcleo de Prestações do Subsistema de Protecção Familiar e o Núcleo de Prestações do Subsistema de Solidariedade são coordenados por funcionários designados para o efeito através de deliberação do conselho directivo do IDSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de Março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de Outubro, ou por funcionários com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 14.º — Divisão de Prestações Pecuniárias - Regime Previdencial
+###### Artigo 14.º
+
+##### Divisão de Prestações Pecuniárias - Regime Previdencial
 
 1 - À Divisão de Prestações Pecuniárias - Regime Previdencial compete assegurar a instrução e organização de processos de atribuição de prestações pecuniárias do regime previdencial, nomeadamente de prestações por doença ou maternidade e por desemprego, o acompanhamento e controlo desses mesmos processos e a cooperação no âmbito da verificação de incapacidades temporárias ou permanentes, necessárias para o reconhecimento do direito a prestações, designadamente:
 
@@ -642,7 +716,9 @@ q) Desempenhar outras tarefas ou actividades superiormente determinadas.
 
 2 - As Unidades de Atendimento são coordenadas por funcionários designados para o efeito através de deliberação do conselho directivo do IDSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de Março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de Outubro, ou por funcionários com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 17.º — Divisão de Fiscalização da Segurança Social
+###### Artigo 17.º
+
+##### Divisão de Fiscalização da Segurança Social
 
 1 - Compete à Divisão de Fiscalização da Segurança Social, de acordo com o conteúdo funcional das carreiras de inspecção previsto em legislação própria, exercer a acção fiscalizadora quanto ao cumprimento dos direitos e obrigações dos beneficiários e contribuintes do sistema de segurança social da Região, e dos serviços e equipamentos de apoio social, incluindo os com fins lucrativos, e exercer, nos termos legais, os poderes sancionatórios no âmbito dos ilícitos de mera ordenação social, designadamente:
 
@@ -692,7 +768,9 @@ j) O Núcleo de Acção Social das Flores e Corvo.
 
 3 - O Departamento de Acção Social é dirigido por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 19.º — Divisão de Desenvolvimento Social
+###### Artigo 19.º
+
+##### Divisão de Desenvolvimento Social
 
 1 - À Divisão de Desenvolvimento Social compete, sob uma perspectiva de actuação especializada, designadamente:
 
@@ -1016,7 +1094,9 @@ c) A Divisão de Administração Geral.
 
 3 - O Departamento de Gestão de Recursos é dirigido por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 30.º — Divisão de Recursos Humanos, Apoio Jurídico e Qualidade
+###### Artigo 30.º
+
+##### Divisão de Recursos Humanos, Apoio Jurídico e Qualidade
 
 1 - À Divisão de Recursos Humanos, Apoio Jurídico e Qualidade compete assegurar a gestão dos recursos humanos do IDSA, IPRA e o planeamento e o desenvolvimento das actividades de recrutamento e formação, bem como assegurar o apoio ao IDSA, IPRA e ao respectivo conselho directivo em matéria jurídica, designadamente:
 
@@ -1104,7 +1184,9 @@ d) O Núcleo de Organização e Métodos para o desempenho das competências pre
 
 4 - O Núcleo de Administração de Pessoal, o Núcleo de Formação e Desenvolvimento, o Núcleo de Apoio Jurídico e o Núcleo de Organização e Métodos são coordenados por funcionários designados para o efeito através de deliberação do conselho directivo do IDSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de Março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de Outubro, ou por funcionários com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-###### Artigo 31.º — Divisão de Sistemas e Tecnologias de Informação
+###### Artigo 31.º
+
+##### Divisão de Sistemas e Tecnologias de Informação
 
 1 - À Divisão de Sistemas compete a gestão do parque informático e sistemas de informação do IDSA, IPRA, a colaboração na concepção, análise e desenvolvimento de novos sistemas de informação, a promoção de suporte técnico a todas as áreas de actuação do IDSA, IPRA e a interligação e o acompanhamento do alinhamento estratégico de aplicações nacionais, designadamente:
 
@@ -1158,7 +1240,9 @@ b) O Núcleo de Aplicações Informáticas para o desempenho das competências p
 
 4 - O Núcleo de Operação e Suporte Tecnológico e o Núcleo de Aplicações Informáticas são coordenados por funcionários designados para o efeito através de deliberação do conselho directivo do IDSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de Março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de Outubro.
 
-###### Artigo 32.º — Divisão de Administração Geral
+###### Artigo 32.º
+
+##### Divisão de Administração Geral
 
 1 - À Divisão de Administração Geral compete assegurar a gestão documental, bibliográfica e do arquivo, o serviço de expediente, a gestão da disponibilidade dos meios materiais, instalações e infra-estruturas necessários ao funcionamento do IDSA, IPRA, a elaboração do orçamento do IDSA, IPRA e da conta global, bem como a consolidação contabilística do IDSA, IPRA e a normalização e acompanhamento dos movimentos de tesouraria realizados, designadamente:
 
@@ -1372,4 +1456,4 @@ O pessoal dirigente, os cargos de direcção específica e de coordenação e os
 
 ## ANEXO II — Quadro de pessoal dirigente e de chefia do Instituto para o Desenvolvimento Social dos Açores, IPRA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07200/0224002257.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07200/0224002257.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07200/0224002257.pdf)

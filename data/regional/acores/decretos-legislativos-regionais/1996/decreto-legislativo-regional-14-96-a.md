@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/155a00/17571757.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/1996/07/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1996-424495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f35ec2b641cbd2f23dd8c085b7aa4d04286c9d7555ae0578a0584bf7a46d72fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94572bc8b90d32d965e6786c20dd73c52f586ad28fb31c77ee47ec81b2ec890a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Açores
 - Definição de Competências
 - Direcção Regional de Ordenamento do Território e Recursos Hídricos
-- Orla Costeira
-- Protecção do Litoral
+- Domínio Público Hídrico
 - GNR
+- Ordenamento do Território
+- Orla Costeira
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
-- Domínio Público Hídrico
+- Protecção do Litoral
 - Secretário Regional da Habitação Obras Públicas Transportes e Comunicações
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:223413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:166673:por
+  label: "Alterado o art. 2.º pelo DLR.28/96/A.1996.10.14.ALR-RAA DR.IS-A [263] de 13.11.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-1996-166673
+  date: '1996-10-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/218/1994/08/20/p/dre
   label: null
@@ -90,16 +95,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223413:por
+  label: "Revogado pelo DLR.18/98/A.1998.10.23.ALR-RAA, DR.IS-A [259] de 09.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-1998-223413
+  date: '1998-10-23'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:41Z'
   warnings: []
   errors: []
 ---
@@ -134,10 +152,10 @@ O presente diploma entra em vigor no primeiro dia útil seguido ao da sua public
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 22 de Maio de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinada em Angra do Heroísmo, em 17 de Junho de 1996.**
+Assinada em Angra do Heroísmo, em 17 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

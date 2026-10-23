@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11700/23192321.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1990-571471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07756a9b4f12c330b26ea53f1545a6139654ad87d5ddcdff24d178e2e27a2648
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bcb7b8691817bf194e4e1b9e200a4478f64954597e22e7aa8928e368d57055a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimentação
+- Contrato de Seguro
+- Dador de Sangue
+- Direito de Acesso
+- Dispensa de Serviço
+- Estabelecimento Hospitalar
+- Estacionamento
+- Madeira.região Autónoma
+- Regime Jurídico
+- Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:72970528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:339389:por
+  label: "Dada nova redacção nº 1 do art. 8º pelo DLR.20/2000/M.2000.07.11.ALR-RAM, DR.IS-A [183] de 09.08.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2000-339389
+  date: '2000-07-11'
+- type: repealed_by
+  target: pt:dre:72970528:por
+  label: Revogado, a partir de 30.12.2015, o presente Decreto, na redação do DLR 20/2000/M de 09-ago, pelo(a) Decreto Legislativo
+    Regional n.º 16/2015/M - Diário da República n.º 253/2015, Série I de 2015-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2015-72970528
+  date: '2015-12-29'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:26Z'
   warnings: []
   errors: []
 ---
@@ -178,8 +199,8 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado em sessão plenária de 27 de Março de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 16 de Abril de 1990.**
+Assinado em 16 de Abril de 1990.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

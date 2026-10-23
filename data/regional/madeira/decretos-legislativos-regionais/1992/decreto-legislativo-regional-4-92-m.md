@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/1992/03/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1992-168235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe92dd77acb6ecce42fca11e72fdb7de99f54b2f0c05267d15017a3acd812436
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1a6b11f99fee00fabd8982980822696bb5fdcd1aca4bf0b80eddbb1cd979788
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Admissão de Pessoal
-- Carreira Profissional
-- Pessoal Operário
-- Instituto Público
-- Qualificação Profissional
-- Madeira.região Autónoma
 - Administração Local
 - Administração Regional
+- Admissão de Pessoal
+- Carreira Profissional
+- Instituto Público
+- Madeira.região Autónoma
+- Pessoal Operário
+- Qualificação Profissional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:46Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +118,7 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º O disposto no presente diploma aplica-se:
+Artigo 1.º O disposto no presente diploma aplica-se:
 
 a) A todos os serviços e organismos da Administração Regional Autónoma da Madeira;
 
@@ -118,9 +126,9 @@ b) Aos institutos públicos regionais que revistam a natureza de serviços perso
 
 c) A administração local, no âmbito territorial desta Região.
 
-###### Art. 2.º São abrangidas pelo disposto no presente diploma as carreiras do pessoal operário.
+Art. 2.º São abrangidas pelo disposto no presente diploma as carreiras do pessoal operário.
 
-###### Art. 3.º Para efeitos do disposto no artigo 29.º, n.º 3, do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, a comprovação da posse de habilitação profissional adequada, na área funcional em questão, poderá ser feita pelos seguintes meios, para além dos que aí são previstos:
+Art. 3.º Para efeitos do disposto no artigo 29.º, n.º 3, do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, a comprovação da posse de habilitação profissional adequada, na área funcional em questão, poderá ser feita pelos seguintes meios, para além dos que aí são previstos:
 
 a) Declaração passada pelos serviços públicos comprovativa de que o candidato exerceu funções correspondentes àquelas a que se candidata durante quatro, três ou um ano, consoante pretendam ingressar, respectivamente, na carreira de operário qualificado, semiqualificado ou não qualificado;
 
@@ -130,14 +138,14 @@ c) Exibição de caderneta de aprendizagem ou de certificado de aptidão profiss
 
 d) Exame de qualificação profissional perante um júri especialmente nomeado para o efeito pelo secretário regional da tutela, que terá por objectivo avaliar a preparação profissional para o exercício das funções a que se candidatam.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária em 28 de Janeiro de 1992.
 
-**O Presidente da Assembleia Legislativa, em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Legislativa, em exercício, António Gil Inácio da Silva.
 
-**Assinado em 18 de Fevereiro de 1992.**
+Assinado em 18 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

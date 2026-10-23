@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2012/07/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2012-178557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc08cea17e9fa4df35a29ff9a6166aa27527f2f11c00d612c852567a7723f1d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7f01407700cabf9f77ad6b10dcdacc8a47e6eb6041ec9088542501d49098b4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Financiamento
 - Investigação Científica e Tecnológica
-- Tecnologia da Informação
 - Mudança Tecnológica
-- TIC
 - Nova Tecnologia
-- Tecnologia
 - Sistema Científico e Tecnológico
-- Açores
+- Tecnologia
+- Tecnologia da Informação
+- TIC
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10/2012/03/26/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/10/2012/03/26/a/dre
+- type: cites
+  target: pt:dre:553926:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:59Z'
   warnings: []
   errors: []
 ---
@@ -282,7 +286,7 @@ b) Ação n.º 1.2 - Impulsionar as atividades de investigação, desenvolviment
 
 1 - A ação n.º 1.1 visa, genericamente, os seguintes objetivos:
 
-a) Apoiar as instituições de ID&I e as infraestruturas de divulgação científica e tecnológica (DC&T), tendo em vista a consolidação de uma rede de referência, sustentada e de excelência na área da C&T;
+a) Apoiar as instituições de ID&I e as infraestruturas de divulgação científica e tecnológica (DC&T), tendo em vista a consolidação de uma rede de referência, sustentada e de excelência na área da C&T
 
 b) Estimular as atividades de desenvolvimento experimental e os processos de transferência de tecnologia, através do reforço das infraestruturas tecnológicas;
 
@@ -294,7 +298,7 @@ a) Criação, funcionamento e reequipamento de instituições de investigação 
 
 b) Desenvolvimento de infraestruturas tecnológicas;
 
-c) Implementação de projetos de I&DI;
+c) Implementação de projetos de I&DI
 
 d) Criação, funcionamento e reequipamento de infraestruturas de DC&T.
 
@@ -304,7 +308,7 @@ d) Criação, funcionamento e reequipamento de infraestruturas de DC&T.
 
 a) Estimular a incorporação de novos conhecimentos e capacidades que permitam o desenvolvimento de processos, serviços ou sistemas inovadores, ou de novos produtos, ou, ainda, a melhoria dos existentes, através do apoio a projetos que envolvam atividades de investigação aplicada e ou de desenvolvimento experimental;
 
-b) Estimular o desenvolvimento das competências de ID&I, através do apoio a projetos promovidos por empresas, visando a criação de unidades estruturadas dedicadas exclusivamente a atividades de ID&I;
+b) Estimular o desenvolvimento das competências de ID&I, através do apoio a projetos promovidos por empresas, visando a criação de unidades estruturadas dedicadas exclusivamente a atividades de ID&I
 
 c) Facilitar a constituição de novas empresas de base tecnológica com elevado potencial de crescimento, promovendo a transferência de conhecimento para o mercado e apoiando a conversão de ideias em inovação.
 
@@ -442,10 +446,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de maio de 2012.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de junho de 2012.**
+Assinado em Angra do Heroísmo em 13 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

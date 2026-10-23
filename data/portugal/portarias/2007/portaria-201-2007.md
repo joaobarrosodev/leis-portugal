@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/201/2007/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/201-2007-517668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a221dd9158954217c3ab6dcfafc8ba503dcf80258ad1a622f2900ca57d5b83a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61d8bfabd2811597dab6c8837f4b72b6ca0f49ef7330347c502d4ab965f79a1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,34 +67,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Pública
 - Bilhete de Identidade
-- Modernização Administrativa
 - Cartão de Cidadão
 - Cartão de Contribuinte
-- Cidadão Estrangeiro
 - Certificação Electrónica
+- Cidadão Estrangeiro
 - Cidadão Nacional
-- Serviço de Saúde
-- Administração Pública
-- Instalação de Serviços
-- Segurança Social
-- Açores
 - ILHA do Faial
+- Instalação de Serviços
+- Modernização Administrativa
+- Segurança Social
+- Serviço de Saúde
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:51Z'
   warnings: []
   errors: []
 ---
@@ -129,8 +133,8 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 8 de Fevereiro de 2007.
 
-**O Ministro de Estado e da Administração Interna, António Luís Santos Costa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Ministro da Saúde, António Fernando Correia de Campos.**
+O Ministro de Estado e da Administração Interna, António Luís Santos Costa. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Ministro da Saúde, António Fernando Correia de Campos.
 
 ## ANEXO — Disponibilização dos serviços de recepção dos pedidos do cartão de cidadão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03100/11301131.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03100/11301131.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03100/11301131.pdf)

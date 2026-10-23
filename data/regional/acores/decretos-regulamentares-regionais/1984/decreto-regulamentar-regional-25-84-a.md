@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1984-385449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ef850260376d89bf6b2af27c94d219677d83a23a0fcfcbde27c65fc09e85d64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27b28a035ee92ec12fd2cc3ca96f24794f0d0104d0bbb4d891a7d40d13392e39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autarquia Local
+- Secretaria Regional da Administração Pública
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:256016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630643:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:14Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +109,15 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A verba a transferir para as autarquias locais, em cumprimento da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, é inscrita no orçamento da Região Autónoma dos Açores, sendo o processamento dos respectivos pagamentos feito pela Secretaria Regional da Administração Pública, de acordo com o disposto nos artigos seguintes.
+Artigo 1.º A verba a transferir para as autarquias locais, em cumprimento da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, é inscrita no orçamento da Região Autónoma dos Açores, sendo o processamento dos respectivos pagamentos feito pela Secretaria Regional da Administração Pública, de acordo com o disposto nos artigos seguintes.
 
-###### Art. 2.º Os montantes devidos ao ano de 1984 constam do quadro anexo ao presente diploma.
+Art. 2.º Os montantes devidos ao ano de 1984 constam do quadro anexo ao presente diploma.
 
-###### Art. 3.º Aos montantes constantes do quadro anexo serão deduzidos os processamentos efectuados no corrente ano pelo Governo Regional, ao abrigo do regime duodecimal.
+Art. 3.º Aos montantes constantes do quadro anexo serão deduzidos os processamentos efectuados no corrente ano pelo Governo Regional, ao abrigo do regime duodecimal.
 
-###### Art. 4.º A verba global a atribuir a cada município como fundo de equilíbrio financeiro, e que consta da coluna 1 do quadro anexo, será processada em duas partes: uma destinada a despesas correntes e que representa 60% do Fundo de Equilíbrio Financeiro de cada município (coluna 2 do quadro anexo) e outra destinada a despesas de capital, com os restantes 40% do Fundo de Equilíbrio Financeiro (coluna 3 do quadro anexo).
+Art. 4.º A verba global a atribuir a cada município como fundo de equilíbrio financeiro, e que consta da coluna 1 do quadro anexo, será processada em duas partes: uma destinada a despesas correntes e que representa 60% do Fundo de Equilíbrio Financeiro de cada município (coluna 2 do quadro anexo) e outra destinada a despesas de capital, com os restantes 40% do Fundo de Equilíbrio Financeiro (coluna 3 do quadro anexo).
 
-###### Art. 5.º As verbas devidas aos municípios, por força do artigo 49.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, serão transferidas da seguinte forma:
+Art. 5.º As verbas devidas aos municípios, por força do artigo 49.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Dezembro, serão transferidas da seguinte forma:
 
 a) O primeiro processamento a efectuar-se corresponderá a 5/12 dos montantes globais afectos quer a despesas correntes quer a despesas de capital, deduzidas das parcelas já transferidas, nos termos do artigo 3.º;
 
@@ -110,14 +125,14 @@ b) Os restantes duodécimos serão processados mensalmente nos 15 dias subsequen
 
 Aprovado pelo Governo Regional em 2 de Maio de 1984.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 4 de Junho de 1984.**
+Assinado em Angra do Heroísmo em 4 de Junho de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 QUADRO ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/07/15100/19951996.pdf))](https://files.diariodarepublica.pt/1s/1984/07/15100/19951996.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/07/15100/19951996.pdf)

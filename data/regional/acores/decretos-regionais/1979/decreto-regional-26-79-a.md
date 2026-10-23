@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28800/32333234.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/26-1979-366407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9df6ef8d464b6f3856e31cce09a967f854cd0ee8e452cf6183dba8a2c47b33b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbf77c4514a870bae8a0a6aad9fad4a8628bf236dac782e73f5d2983d9c081fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Desenvolvimento Industrial
+- Financiamento
+- Indústria
+- Projeto de Investimento
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:02Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +95,7 @@ A conhecida timidez empresarial justifica o apoio financeiro do Governo, desde q
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Acções e empreendimentos a apoiar)
 
@@ -102,7 +107,7 @@ a) Projectos de instalação, ampliação, reorganização e reconversão de uni
 
 b) Aquisição de equipamento industrial.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Beneficiários e natureza dos apoios)
 
@@ -110,7 +115,7 @@ b) Aquisição de equipamento industrial.
 
 2 - O apoio terá a natureza de empréstimo, sem juro, por tempo determinado e constituído contra a prestação de garantias, pessoais ou reais, consideradas idóneas pelo Governo Regional.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Limitações)
 
@@ -128,7 +133,7 @@ b) Aquisição de equipamento industrial.
 
 4 - O reembolso deverá estar concluído no prazo máximo de sete anos, prorrogável até mais três anos, sob pedido fundamentado do beneficiário que seja julgado aceitável.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Condições gerais para a concessão dos apoios)
 
@@ -140,7 +145,7 @@ b) Produzam bens com valor acrescentado regional superior a 50%;
 
 c) Utilizem equipamento ou serviços nacionais, de preferência a estrangeiros, em iguais condições de competitividade.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Início do processo)
 
@@ -150,7 +155,7 @@ c) Utilizem equipamento ou serviços nacionais, de preferência a estrangeiros, 
 
 3 - Do requerimento e documentos que o instruírem será passado recibo, devendo tudo ser remetido imediatamente, se for caso disso, à Direcção Regional da Indústria.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Instrução do requerimento)
 
@@ -164,7 +169,7 @@ c) Elementos demonstrativos de que o financiamento se destina a actividades de u
 
 d) Garantias oferecidas ao Governo Regional, com os elementos necessários à verificação da respectiva consistência, incluindo, quanto às prestadas por terceiros, declaração de anuência por parte dos eventuais garantes.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Apreciação da pretensão)
 
@@ -172,7 +177,7 @@ d) Garantias oferecidas ao Governo Regional, com os elementos necessários à ve
 
 2 - O Secretário Regional do Comércio e Indústria pode mandar suprir as deficiências eventualmente verificadas na instrução dos requerimentos.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Verificação da conformidade com o Plano)
 
@@ -180,7 +185,7 @@ d) Garantias oferecidas ao Governo Regional, com os elementos necessários à ve
 
 2 - Recebido o parecer, o Secretário Regional do Comércio e Indústria poderá ainda mandar obter do requerente elementos adicionais, posto o que elaborará a sua proposta com vista à decisão do pedido.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Decisão sobre o requerimento)
 
@@ -190,7 +195,7 @@ d) Garantias oferecidas ao Governo Regional, com os elementos necessários à ve
 
 3 - As resoluções do plenário serão comunicadas ao requerente e publicadas no Jornal Oficial da Região até 30 de Setembro de cada ano.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Efectivação do financiamento)
 
@@ -198,7 +203,7 @@ d) Garantias oferecidas ao Governo Regional, com os elementos necessários à ve
 
 2 - O contrato de financiamento será formalizado pelos meios notariais competentes entre um representante do Governo Regional e o requerente ou mandatário seu.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 («Contrôle»)
 
@@ -206,7 +211,7 @@ d) Garantias oferecidas ao Governo Regional, com os elementos necessários à ve
 
 2 - O incumprimento das cláusulas do financiamento, bem como a verificação das demais condições que, nos termos gerais do direito, podem levar à exigência antecipada do cumprimento das obrigações, facultarão ao Governo Regional a rescisão do contrato.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Regulamentação)
 
@@ -214,7 +219,7 @@ d) Garantias oferecidas ao Governo Regional, com os elementos necessários à ve
 
 2 - A regulamentação pode incluir a delegação num membro do Governo para decisão das dúvidas suscitadas no entendimento daquela.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Disposições transitórias)
 
@@ -226,10 +231,10 @@ b) Efectivação dos financiamentos, dentro dos cento e cinquenta dias posterior
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 7 de Novembro de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 3 de Dezembro de 1979.**
+Assinado em Angra do Heroísmo em 3 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

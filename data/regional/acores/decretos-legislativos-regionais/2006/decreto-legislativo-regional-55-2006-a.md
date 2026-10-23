@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/55/2006/12/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/55-2006-552293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d03b593e3f95caa124ae991b3ec2d975e09e68bbba1841d217857ccdb8739b1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d33217af86caeec34dfebba0ab382760c2915eda3f12ea92e52f0a7524245060
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ILHA de são Miguel
 - Ordenamento Florestal
 - Proteção do Ambiente
-- Zona de Proteção
 - Reserva Florestal
-- Açores
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/16/2000/06/21/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/16/2000/06/21/a/dre
+- type: cites
+  target: pt:dre:303583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618291:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:31Z'
   warnings: []
   errors: []
 ---
@@ -128,14 +140,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 25 de Outubro de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 5 de Dezembro de 2006.**
+Assinado em Angra do Heroísmo em 5 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
 ## ANEXO — Planta de localização
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/12/24500/85498550.pdf))](https://files.diariodarepublica.pt/1s/2006/12/24500/85498550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/12/24500/85498550.pdf)

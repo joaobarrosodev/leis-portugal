@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/05/117b00/24132414.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/1992/05/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1992-522988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19f4d1c909017946b09c563ec0c8921b0f5d18ca5743d2ae1eb2c67d4523d159
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b29551c5c991455d315a744bcb9e95af7fb94bff6f269b7cee50a002ac8f6974
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Centro de Apoio Tecnológico à Educação
 - Pessoal de BAD
 - Pessoal de Informática
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:320094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:533069:por
+  label: "Substituído o quadro de pessoal a que se refere o artigo 2.º, pelo DRR.13/96/A.11.03.1996.SREC-RAA, DR.IS-B [60]\
+    \ de 11.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1996-533069
+  date: '1996-03-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -90,16 +96,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/3/1991/02/13/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/3/1991/02/13/a/dre
+- type: cites
+  target: pt:dre:478057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:320094:por
+  label: "Revogado pelo DRR.1/2001/A.2001.01.18.PG-RAA, DR.IS-B [36] de 12/FEV/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2001-320094
+  date: '2001-01-18'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:02Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +135,7 @@ Considerando, ainda, que as carreiras e categorias supracitadas são necessária
 
 Assim, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 16.º e 17.º do [Decreto Regulamentar Regional n.º 3/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1991-478057), de 13 de Fevereiro, passam a dispor da seguinte redacção:
+Artigo 1.º Os artigos 16.º e 17.º do [Decreto Regulamentar Regional n.º 3/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1991-478057), de 13 de Fevereiro, passam a dispor da seguinte redacção:
 
 ###### Artigo 16.º — Pessoal da área funcional de biblioteca e documentação
 
@@ -122,20 +145,20 @@ As condições de recrutamento, ingresso e acesso das carreiras de pessoal espec
 
 As condições de recrutamento, ingresso e acesso do pessoal de informática são as estabelecidas no [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro.
 
-###### Art. 2.º O quadro de pessoal a que se refere o artigo 13.º, n.º 1, do [Decreto Regulamentar Regional n.º 3/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1991-478057), de 13 de Fevereiro, é substituído pelo quadro anexo ao presente diploma, de que faz parte integrante.
+Art. 2.º O quadro de pessoal a que se refere o artigo 13.º, n.º 1, do [Decreto Regulamentar Regional n.º 3/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1991-478057), de 13 de Fevereiro, é substituído pelo quadro anexo ao presente diploma, de que faz parte integrante.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 10 de Março de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 1 de Abril de 1992.**
+Assinado em Angra do Heroísmo em 1 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/117b00/24132414.pdf))](https://files.diariodarepublica.pt/1s/1992/05/117b00/24132414.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/117b00/24132414.pdf)

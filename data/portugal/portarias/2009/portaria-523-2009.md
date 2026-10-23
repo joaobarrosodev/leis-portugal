@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/523/2009/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/523-2009-608692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb60d5aa524e83ade26e30c7c51853554697e93c0d6cb9c58eb6f7ba34716927
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d77996bf9ed016248c1bf6c9b770a35551f5be3080ae3423e86da561be18a82e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
 - Estandarte Nacional
+- Fardamento
 - Heráldica
+- PSP
 - Simbolo de Identificação
 - Unidade Especial de Polícia
-- Fardamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/5/1999/01/27/p/dre
@@ -85,16 +85,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/295/2005/03/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/295/2005/03/22/p/dre
+- type: cites
+  target: pt:dre:180022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547581:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641142:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:46Z'
   warnings: []
   errors: []
 ---
@@ -161,13 +177,13 @@ São revogadas as alíneas e) e f) do n.º 6 do artigo 10.º da [Portaria n.º 8
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 8 de Abril de 2009.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 8 de Abril de 2009.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Brasão de Armas da UEP
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
 
 1 - Descrição heráldica:
 
@@ -197,7 +213,7 @@ Emblemas
 
 1 - Emblema do curso de formação de especialização ministrado pelo Corpo de Intervenção (CI):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
 
 a) Ao pessoal policial da PSP habilitado com o curso de Ordem Pública (COP) ministrado pelo CI é conferido o direito ao uso do distintivo da especialidade, usado no uniforme, na zona do peito, lado esquerdo, centrado acima do bolso;
 
@@ -207,7 +223,7 @@ c) O distintivo é metálico ou em material flexível.
 
 2 - Emblema do curso de formação de especialização ministrado pelo Grupo de Operações Especiais (GOE):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
 
 a) Ao pessoal policial da PSP habilitado com o curso de Operações Especiais (COE) ministrado pelo GOE é conferido o direito ao uso do distintivo da especialidade, usado no uniforme, na zona do peito, lado esquerdo, centrado acima do bolso;
 
@@ -217,7 +233,7 @@ c) O distintivo é metálico ou em material flexível.
 
 3 - Emblema do curso de formação de especialização ministrado pelo Corpo de Segurança Pessoal (CSP):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
 
 a) Ao pessoal policial da PSP habilitado com o curso de Segurança Pessoal (CSP) ministrado pelo CSP é conferido o direito ao uso do distintivo da especialidade, usado no uniforme, na zona do peito, lado esquerdo, centrado acima do bolso;
 
@@ -227,7 +243,7 @@ c) O distintivo é metálico ou em material flexível.
 
 4 - Emblema do curso de formação de especialização ministrado pelo Centro de Inactivação de Explosivos e Segurança em Subsolo (CIEXSS):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
 
 a) Ao pessoal policial da PSP habilitado com o Curso Inactivação de Explosivos e Segurança em Subsolo (CIESS) ministrado pelo CIEXSS é conferido o direito ao uso do distintivo da especialidade, usado no uniforme, na zona do peito, lado esquerdo, centrado acima do bolso;
 
@@ -237,7 +253,7 @@ c) O distintivo é metálico ou em material flexível.
 
 5 - Emblema do curso de formação de especialização ministrado pelo Grupo Operacional Cinotécnico (GOC):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0305403056.pdf)
 
 a) Ao pessoal policial da PSP habilitado com o curso de Formação Cinotécnica (CFC) ministrado pelo GOC é conferido o direito ao uso do distintivo da especialidade, usado no uniforme, na zona do peito, lado esquerdo, centrado acima do bolso;
 

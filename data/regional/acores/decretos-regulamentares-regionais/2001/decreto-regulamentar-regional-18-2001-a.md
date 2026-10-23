@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/12/292b00/83608361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2001/12/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2001-539009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dadbc033eb841a5d02a3b8956a0069bc56cf541f1111966825e80d01e058a77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8aecd38bbc1042a669c38388a3a18e3d8f8c4848301a6432df632075addd6f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Gabinete da ZONA Classificada de Angra do Heroísmo
+- Gestão de Recursos Humanos
 - Presidente
 - Quadro de Pessoal
 - Remuneração
-- Gestão de Recursos Humanos
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:132431980:por
@@ -90,16 +90,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:346709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402111:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:132431980:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-132431980
+  date: '2020-04-24'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:26Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +143,7 @@ Os artigos 1.º, 3.º, 5.º, 7.º e 9.º do [Decreto Regulamentar Regional n.º 
 
 4 - O Gabinete é apoiado no seu funcionamento por um corpo técnico, destinado a elaborar os pareceres necessários ao cumprimento das atribuições que lhe estão cometidas, assim como pelo restante pessoal constante do quadro anexo ao presente diploma.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -134,7 +151,7 @@ Os artigos 1.º, 3.º, 5.º, 7.º e 9.º do [Decreto Regulamentar Regional n.º 
 
 3 - ...
 
-###### Artigo 5.º
+Artigo 5.º
 
 ...
 
@@ -146,7 +163,7 @@ c) ...
 
 d) Exercer todos os poderes que, nos termos da lei, lhe forem delegados pelo secretário regional com competência em matéria de cultura.
 
-###### Artigo 7.º
+Artigo 7.º
 
 O quadro de pessoal do Gabinete é o constante do mapa anexo ao presente diploma, do qual faz parte integrante, e é agrupado de acordo com a seguinte classificação:
 
@@ -160,7 +177,7 @@ d) Pessoal administrativo;
 
 e) Pessoal auxiliar.
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - O presidente exerce as suas funções em regime de exclusividade e é remunerado pelo índice 830 da escala salarial das carreiras do regime geral da função pública.
 
@@ -176,13 +193,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, report
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 5 de Novembro de 2001.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 26 de Novembro de 2001.**
+Assinado em Angra do Heroísmo em 26 de Novembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — Mapa a que se refere o artigo 2.º
 

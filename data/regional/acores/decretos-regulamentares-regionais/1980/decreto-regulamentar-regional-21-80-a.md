@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11100/09620964.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ece01f96c25b0453218ee642d83e030bf419fc526738ab975e9ebc807a72c28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdfab99611a546d45bc54e19902d08845640542ea9a4d8d947c0e9c765cb82db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ensino Preparatório
+- Pessoal Auxiliar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:585039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:585039:por
+  label: "Revogado pelo DRR.3/2002/A.2001.12.11.PG-RAA DR.IS-B [5] de 07/Jan/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2002-585039
+  date: '2001-12-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:06Z'
   warnings: []
   errors: []
 ---
@@ -97,17 +122,17 @@ Ao abrigo do n.º 1 do artigo 7.º do [Decreto-Lei n.º 338/79](https://diarioda
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal operário e auxiliar dos estabelecimentos de ensino preparatório e secundário da Região Autónoma dos Açores constitui um quadro único, que será estabelecido por decreto regulamentar regional, englobando os quadros privativos de cada uma das escolas, sendo a sua gestão realizada pela Secretaria Regional da Educação e Cultura.
+Artigo 1.º - 1 - O pessoal operário e auxiliar dos estabelecimentos de ensino preparatório e secundário da Região Autónoma dos Açores constitui um quadro único, que será estabelecido por decreto regulamentar regional, englobando os quadros privativos de cada uma das escolas, sendo a sua gestão realizada pela Secretaria Regional da Educação e Cultura.
 
 2 - Os quadros privativos das escolas poderão ser alterados por portaria do Secretário Regional da Educação e Cultura, desde que o número de lugares em cada categoria no conjunto do quadro único não seja alterado.
 
-###### Art. 2.º - 1 - Na constituição dos quadros privativos de cada estabelecimento de ensino atender-se-á, nomeadamente, à dimensão e tipologia das instalações, à frequência escolar, à diversidade de cursos ministrados e aos períodos de funcionamento.
+Art. 2.º - 1 - Na constituição dos quadros privativos de cada estabelecimento de ensino atender-se-á, nomeadamente, à dimensão e tipologia das instalações, à frequência escolar, à diversidade de cursos ministrados e aos períodos de funcionamento.
 
 2 - Na constituição dos quadros será também considerada a natureza das tarefas a desempenhar, criando-se, quando a natureza do serviço o justifique, lugares masculinos e femininos.
 
-###### Art. 3.º O pessoal operário e auxiliar referido no artigo 1.º integra-se nas carreiras constantes do mapa I anexo, reguladas pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro, e legislação complementar, bem como pelas normas do presente diploma.
+Art. 3.º O pessoal operário e auxiliar referido no artigo 1.º integra-se nas carreiras constantes do mapa I anexo, reguladas pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro, e legislação complementar, bem como pelas normas do presente diploma.
 
-###### Art. 4.º - 1 - Em cada estabelecimento de ensino preparatório e secundário haverá um encarregado de pessoal auxiliar, nomeado pelo Secretário Regional da Educação e Cultura, sob proposta do conselho directivo.
+Art. 4.º - 1 - Em cada estabelecimento de ensino preparatório e secundário haverá um encarregado de pessoal auxiliar, nomeado pelo Secretário Regional da Educação e Cultura, sob proposta do conselho directivo.
 
 2 - O provimento do lugar de encarregado será feito em comissão de serviço, por dois anos, de entre os contínuos do estabelecimento de ensino e poderá ser renovado por despacho, nos termos deste artigo.
 
@@ -115,17 +140,17 @@ O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da 
 
 4 - As funções do encarregado do pessoal auxiliar serão definidas por despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 5.º - 1 - De acordo com a dimensão e as necessidades concretas da escola e sem prejuízo do desempenho cumulativo de funções de apoio geral, o pessoal auxiliar integrado na carreira de contínuo deverá ser afecto de forma estável a funções específicas, nomeadamente nos serviços de biblioteca, documentação, equipamento áudio-visual, reprografia, laboratórios, oficinas e instalações gimnodesportivas, bem como nos serviços de guarda, portaria e telefone, quando para estes não se justifique a criação de lugares do quadro das carreiras que lhes são próprias.
+Art. 5.º - 1 - De acordo com a dimensão e as necessidades concretas da escola e sem prejuízo do desempenho cumulativo de funções de apoio geral, o pessoal auxiliar integrado na carreira de contínuo deverá ser afecto de forma estável a funções específicas, nomeadamente nos serviços de biblioteca, documentação, equipamento áudio-visual, reprografia, laboratórios, oficinas e instalações gimnodesportivas, bem como nos serviços de guarda, portaria e telefone, quando para estes não se justifique a criação de lugares do quadro das carreiras que lhes são próprias.
 
 2 - A Secretaria Regional da Educação e Cultura promoverá acções de formação, constituindo obrigação do pessoal a frequência destas actividades, que será levado em conta na classificação de serviço e como condição de preferência para efeitos de transferência.
 
-###### Art. 6.º - 1 - Nos estabelecimentos de ensino que possuam refeitórios ou serviço de alimentação com funcionamento regular de cozinha serão criados lugares de cozinheiro escolar e de ajudante de cozinheiro escolar, que se integram nas carreiras constantes do mapa I anexo ao presente diploma.
+Art. 6.º - 1 - Nos estabelecimentos de ensino que possuam refeitórios ou serviço de alimentação com funcionamento regular de cozinha serão criados lugares de cozinheiro escolar e de ajudante de cozinheiro escolar, que se integram nas carreiras constantes do mapa I anexo ao presente diploma.
 
 2 - O ingresso na carreira de cozinheiro escolar será condicionado à posse da escolaridade obrigatória e de experiência profissional adequada, preferencialmente adquirida no exercício das funções de ajudante de cozinheiro escolar, e o acesso à classe superior fica condicionado ao mínimo de cinco anos de efectivo serviço, pelo menos, qualificado como Suficiente.
 
 3 - Poderão também ser criados lugares de operário não qualificado nos estabelecimentos de ensino cuja dimensão o justifique, sendo a respectiva carreira regulada pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro, com as categorias constantes do mapa I anexo ao presente diploma.
 
-###### Art. 7.º - 1 - É criado em cada estabelecimento de ensino preparatório e secundário um lugar de ecónomo de apoio social escolar, cuja carreira é a constante do mapa II anexo a este diploma.
+Art. 7.º - 1 - É criado em cada estabelecimento de ensino preparatório e secundário um lugar de ecónomo de apoio social escolar, cuja carreira é a constante do mapa II anexo a este diploma.
 
 2 - Os lugares de ecónomo de apoio social escolar serão providos, mediante concurso, de entre indivíduos que possuam, no mínimo, o curso geral dos liceus ou equivalente e a classificação de Apto num curso de formação apropriado, a reconhecer como tal por despacho conjunto dos Secretários Regionais da Administração Pública e da Educação e Cultura.
 
@@ -137,7 +162,7 @@ O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da 
 
 6 - O ecónomo de apoio social escolar superintenderá nas actividades e no pessoal dos serviços de apoio social escolar, nomeadamente refeitórios, bufetes e papelaria, sendo as respectivas funções regulamentadas por despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 8.º - 1 - O recrutamento do pessoal operário e auxiliar dos estabelecimentos de ensino preparatório e secundário far-se-á por concurso para cada vaga, em termos a regulamentar por despacho conjunto dos Secretários Regionais da Administração Pública e da Educação e Cultura, de entre indivíduos que reúnam as seguintes condições:
+Art. 8.º - 1 - O recrutamento do pessoal operário e auxiliar dos estabelecimentos de ensino preparatório e secundário far-se-á por concurso para cada vaga, em termos a regulamentar por despacho conjunto dos Secretários Regionais da Administração Pública e da Educação e Cultura, de entre indivíduos que reúnam as seguintes condições:
 
 a) Tenham idade compreendida entre 21 e 35 anos;
 
@@ -151,7 +176,7 @@ c) Tenham robustez física necessária ao exercício das funções e não sofram
 
 4 - Sempre que se verifique uma vaga, desde que não seja provida por transferência, deverá a mesma ser posta a concurso no prazo de trinta dias.
 
-###### Art. 9.º - 1 - O provimento dos lugares, quando não resulte de transferência, far-se-á sempre mediante um contrato inicial de um ano, em regime de estágio, com remuneração correspondente à letra U, findo o qual o contrato se considera automaticamente caducado, deixando o indivíduo de prestar serviço, se não for definitivamente provido por nomeação para o lugar.
+Art. 9.º - 1 - O provimento dos lugares, quando não resulte de transferência, far-se-á sempre mediante um contrato inicial de um ano, em regime de estágio, com remuneração correspondente à letra U, findo o qual o contrato se considera automaticamente caducado, deixando o indivíduo de prestar serviço, se não for definitivamente provido por nomeação para o lugar.
 
 2 - Durante o período de um ano referido no número anterior deverá o candidato frequentar os cursos e acções de formação para que seja convocado.
 
@@ -159,44 +184,44 @@ c) Tenham robustez física necessária ao exercício das funções e não sofram
 
 4 - Os estagiários que nos termos dos números anteriores não sejam nomeados para o lugar não poderão voltar a concorrer a qualquer vaga do quadro único durante um período de dois anos.
 
-###### Art. 10.º Enquanto o lugar se não encontrar provido, bem como nos casos de falta ou impedimento do respectivo titular por um período superior a trinta dias, poderá ser contratado, por força das verbas para o efeito inscritas no orçamento da Secretaria Regional da Educação e Cultura, pessoal em regime eventual, mediante autorização prévia do director Regional da Administração Escolar.
+Art. 10.º Enquanto o lugar se não encontrar provido, bem como nos casos de falta ou impedimento do respectivo titular por um período superior a trinta dias, poderá ser contratado, por força das verbas para o efeito inscritas no orçamento da Secretaria Regional da Educação e Cultura, pessoal em regime eventual, mediante autorização prévia do director Regional da Administração Escolar.
 
-###### Art. 11.º - 1 - Até que seja regulamentada a matéria de informação de serviço prevista no artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, o serviço de pessoal auxiliar, bem como dos ecónomos, dos estabelecimentos de ensino preparatório e secundário será classificado anualmente, por escrito, como Muito bom, Bom, Suficiente ou Deficiente pelo conselho directivo, ou quem suas vezes fizer, tomando em consideração as propostas escritas e justificadas do encarregado do pessoal auxiliar e do ecónomo escolar, em relação ao pessoal sob a respectiva superintendência.
+Art. 11.º - 1 - Até que seja regulamentada a matéria de informação de serviço prevista no artigo 4.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, o serviço de pessoal auxiliar, bem como dos ecónomos, dos estabelecimentos de ensino preparatório e secundário será classificado anualmente, por escrito, como Muito bom, Bom, Suficiente ou Deficiente pelo conselho directivo, ou quem suas vezes fizer, tomando em consideração as propostas escritas e justificadas do encarregado do pessoal auxiliar e do ecónomo escolar, em relação ao pessoal sob a respectiva superintendência.
 
 2 - Da classificação será sempre dado conhecimento ao funcionário, cabendo recurso para o Secretário Regional da Educação e Cultura dentro dos quinze dias imediatos ao da notificação.
 
-###### Art. 12.º - 1 - Os serventes dos estabelecimentos de ensino preparatório e secundário, qualquer que seja o seu vínculo, que em 1 de Janeiro de 1980 se encontravam a prestar serviço há mais de um ano, são providos, com efeitos a partir daquela data, na categoria de contínuo de 2.ª classe, independentemente da existência dos respectivos lugares de quadro.
+Art. 12.º - 1 - Os serventes dos estabelecimentos de ensino preparatório e secundário, qualquer que seja o seu vínculo, que em 1 de Janeiro de 1980 se encontravam a prestar serviço há mais de um ano, são providos, com efeitos a partir daquela data, na categoria de contínuo de 2.ª classe, independentemente da existência dos respectivos lugares de quadro.
 
 2 - Os serventes que completem um ano de serviço a partir daquela data e até 30 de Setembro de 1980 serão providos nos termos do número anterior, à medida que perfizerem aquele prazo, desde que tenham classificação de serviço não inferior a Suficiente.
 
 3 - Os serventes que completem um ano de serviço a partir de 1 de Outubro de 1980 ficam sujeitos ao regime de estágio referido nos n.os 1 e 2 do artigo 9.º
 
-###### Art. 13.º - 1 - Os quadros de pessoal auxiliar dos estabelecimentos de ensino preparatório e secundário serão revistos no prazo de noventa dias sobre a publicação do presente diploma.
+Art. 13.º - 1 - Os quadros de pessoal auxiliar dos estabelecimentos de ensino preparatório e secundário serão revistos no prazo de noventa dias sobre a publicação do presente diploma.
 
 2 - Se o pessoal integrado na categoria de continuo de 2.ª classe nos termos do artigo anterior exceder o número de lugares que venham a ser criados no quadro do respectivo estabelecimento, ficarão os funcionários com menos tempo de serviço e, em igualdade de circunstâncias, os mais novos como supranumerários, até ingressarem em vagas do respectivo quadro ou serem colocados por transferência noutro estabelecimento de ensino.
 
-###### Art. 14.º Os movimentos de pessoal resultantes da aplicação do presente diploma serão realizados por lista nominativa, aprovada pelo Secretário Regional da Educação e Cultura e publicada no Jornal Oficial, na sequência da qual terão lugar os respectivos processos de provimento.
+Art. 14.º Os movimentos de pessoal resultantes da aplicação do presente diploma serão realizados por lista nominativa, aprovada pelo Secretário Regional da Educação e Cultura e publicada no Jornal Oficial, na sequência da qual terão lugar os respectivos processos de provimento.
 
-###### Art. 15.º As disposições do presente diploma são aplicáveis também ao pessoal em serviço nas escolas do Magistério Primário.
+Art. 15.º As disposições do presente diploma são aplicáveis também ao pessoal em serviço nas escolas do Magistério Primário.
 
 Aprovado pelo Governo Regional em 14 de Fevereiro de 1980.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 28 de Abril de 1980.**
+Assinado em Angra do Heroísmo em 28 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 MAPA I
 
 Pessoal operário e auxiliar a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11100/09620964.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11100/09620964.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11100/09620964.pdf)
 
 MAPA II
 
 Pessoal a que se refere o artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11100/09620964.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11100/09620964.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11100/09620964.pdf)

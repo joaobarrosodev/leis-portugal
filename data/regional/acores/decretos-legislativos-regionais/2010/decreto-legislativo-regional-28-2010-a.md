@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/10/20600/0476704771.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28/2010/10/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2010-308079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7380d53a19a159ec52a6f51fdf41cf7d326eb164f13e7b8bb7c70931ebab0e38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5ffbef9afdbd8abe36a7e3443ee08c698680c6960b5324be35472e583dfcd91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
+- Açores
+- Centro de Gestão Financeira da Segurança Social
 - Criação de Serviços
 - Definição de Competências
-- Regime Laboral
-- Instituto para o Desenvolvimento Social dos Açores
-- Instituto de Gestão Financeira da Segurança Social nos Açores
-- Integração de Serviços
-- Orgânica
-- Centro de Gestão Financeira da Segurança Social
+- Gestão Financeira
 - Instituto de Acção Social
 - Instituto de Gestão de Regimes de Segurança Social
+- Instituto de Gestão Financeira da Segurança Social nos Açores
+- Instituto para o Desenvolvimento Social dos Açores
+- Integração de Serviços
+- Orgânica
+- Regime Laboral
 - Segurança Social
-- Açores
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -94,16 +94,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/39/2002/12/18/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/39/2002/12/18/a/dre
+- type: cites
+  target: pt:dre:405695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:500214:por
+  label: "Revogado, a partir de 01.01.2014, pelo DLR.14/2013/A.03.10.2013.AL-RAA, DR.IS [191] de 03.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2013-500214
+  date: '2013-10-03'
 article_structure:
   article_count: 27
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:10Z'
   warnings: []
   errors: []
 ---
@@ -510,10 +527,10 @@ Até à aprovação e entrada em vigor dos orçamentos e planos da segurança so
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 23 de Setembro de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 6 de Outubro de 2010.**
+Assinado em Angra do Heroísmo em 6 de Outubro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

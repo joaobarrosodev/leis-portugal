@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/125b00/47724773.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2002/05/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-153356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5079906791810e9f110906c289bda9dafef0ff200616cc38f5f3766fd9693eae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9b9ecdb92fd9ddd43510e18ddbfd7803e153f70bc60a44431f07f59d612a8b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Educação Especial
-- Dotação Orçamental
-- Gestão Escolar
-- Estabelecimento de Ensino
-- Ensino Básico
 - Açores
+- Dotação Orçamental
+- Educação Especial
 - Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
+- Gestão Escolar
 relationships:
 - type: amended_by
   target: pt:dre:636073:por
@@ -97,16 +97,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/19/2001/12/19/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/19/2001/12/19/a/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539008:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:31Z'
   warnings: []
   errors: []
 ---
@@ -153,19 +182,19 @@ São revogadas as disposições referentes à Escola Preparatória de Arrifes co
 
 Aprovado em Conselho do Governo Regional, na Horta, em 19 de Abril de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 7 de Maio de 2002.**
+Assinado em Angra do Heroísmo em 7 de Maio de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 MAPA I
 
 (a que se refere o artigo 3.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/05/125b00/47724773.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/05/125b00/47724773.pdf)](https://files.diariodarepublica.pt/1s/2002/05/125b00/47724773.pdf)
 
 MAPA II
 
@@ -173,4 +202,4 @@ MAPA II
 
 Escola Básica Integrada de Arrifes
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/05/125b00/47724773.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/05/125b00/47724773.pdf)](https://files.diariodarepublica.pt/1s/2002/05/125b00/47724773.pdf)

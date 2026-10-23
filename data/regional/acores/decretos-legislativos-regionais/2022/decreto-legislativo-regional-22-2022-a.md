@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16500/0000500016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2022/08/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2022-200308689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2acdea11b0b0b0fdf616fda0415ce155fae8402199f4e778a4144462e1f79b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12165e5f58f84461ec13d16590f99e92079e7c9ed4480188544ddc19da3aa9cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agricultor
+- Agricultura
 - Ajuda Comunitária
+- Apoio ao Investimento
+- Comissão Nacional da Agricultura Familiar
 - Direção Geral de Agricultura e Desenvolvimento Rural
-- Financiamento
-- Ordenamento do Território
-- Governo Regional
-- Exploração Agrícola Familiar
 - Estatuto
+- Exploração Agrícola Familiar
+- Financiamento
 - Fiscalização
 - Formulário Eletrónico
-- Apoio ao Investimento
+- Governo Regional
 - Licenciamento
-- Prédio Rústico
-- Agricultor
+- Ordenamento do Território
 - Política Agrícola
-- Agricultura
 - Política Florestal
-- Açores
+- Prédio Rústico
 - Sistema Integrado de Gestão e Controlo
-- Comissão Nacional da Agricultura Familiar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/64/2018/08/07/p/dre
@@ -94,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/18/2020/07/20/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/18/2020/07/20/a/dre
+- type: cites
+  target: pt:dre:115933868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138382327:por
+  label: null
+  source: null
 article_structure:
-  article_count: 36
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 24
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:52Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +180,9 @@ n) Promover a poluição zero e o ambiente livre de substâncias tóxicas;
 
 o) Promover um sistema alimentar justo, saudável e amigo do ambiente.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para efeitos de aplicação do presente diploma, entende-se por:
 
@@ -196,13 +206,17 @@ i) 'Unidade de Trabalho Ano (UTA) ', a unidade de medida da mão de obra corresp
 
 j) 'Rendimento coletável', rendimento anual bruto, efetuadas as respetivas deduções específicas.
 
-###### Artigo 4.º — Título de reconhecimento
+Artigo 4.º
+
+Título de reconhecimento
 
 1 - O Estatuto é apenas atribuído a pessoa singular, titular da exploração agrícola familiar, através da emissão de um título de reconhecimento pelo departamento do Governo Regional com competência em matéria de agricultura.
 
 2 - (Revogado.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 O título de reconhecimento é atribuído a pessoa singular titular da exploração agrícola familiar e que satisfaça cumulativamente os seguintes requisitos:
 
@@ -218,7 +232,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A atribuição do título de reconhecimento do Estatuto permite o acesso:
 
@@ -252,7 +268,9 @@ n) A um regime de segurança social adequado à Agricultura Familiar nos termos 
 
 2 - Os departamentos do Governo Regional com competência em matéria de agricultura e energia podem determinar a existência de incentivos à utilização de energias com base em fontes renováveis, desde que os respetivos rendimentos do titular da exploração agrícola familiar e do seu agregado familiar sejam provenientes exclusivamente do exercício da atividade agrícola.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -264,7 +282,9 @@ c) (Revogada.)
 
 2 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 (Revogado.)»
 
@@ -296,7 +316,9 @@ c) Declaração, pelo requerente, da composição do seu agregado familiar, da i
 
 7 - O pedido de reconhecimento poderá, igualmente, ser requerido junto dos Serviços de Desenvolvimento Agrário de cada ilha, que procederão à sua formalização.
 
-###### Artigo 4.º-B — Análise e decisão
+Artigo 4.º-B
+
+Análise e decisão
 
 1 - A direção regional com competência em matéria de agricultura analisa os pedidos e decide a atribuição do Estatuto, no prazo máximo de 20 dias úteis após a submissão do pedido de reconhecimento ou da receção de toda a documentação instrutória.
 
@@ -304,7 +326,9 @@ c) Declaração, pelo requerente, da composição do seu agregado familiar, da i
 
 3 - A emissão do título é comunicada aos serviços e organismos da administração direta e indireta da Região Autónoma dos Açores das áreas governativas relacionadas, à Comissão Nacional da Agricultura Familiar e à Direção-Geral de Agricultura e Desenvolvimento Rural.
 
-###### Artigo 4.º-C — Validade e renovação do título
+Artigo 4.º-C
+
+Validade e renovação do título
 
 1 - A validade da atribuição do Estatuto é de dois anos, a contar da data da sua emissão, cabendo ao seu titular requerer a sua renovação.
 
@@ -314,7 +338,9 @@ c) Declaração, pelo requerente, da composição do seu agregado familiar, da i
 
 4 - O prazo de renovação do título é contado a partir da data da respetiva emissão.
 
-###### Artigo 4.º-D — Revogação do título
+Artigo 4.º-D
+
+Revogação do título
 
 1 - O título de reconhecimento pode ser revogado, quando se verifique qualquer uma das seguintes condições:
 
@@ -330,15 +356,21 @@ c) Não renovação do título de reconhecimento, no prazo de seis meses a conta
 
 4 - A revogação do título é comunicada aos serviços e organismos da administração direta e indireta da Região Autónoma dos Açores das áreas governativas relacionadas, à Comissão Nacional da Agricultura Familiar e à Direção-Geral de Agricultura e Desenvolvimento Rural.
 
-###### Artigo 4.º-E — Fiscalização
+Artigo 4.º-E
+
+Fiscalização
 
 A direção regional com competência em matéria de agricultura procede à fiscalização, administrativa ou in loco, da manutenção das condições de atribuição previstas no presente diploma.
 
-###### Artigo 9.º-A — Relatório anual
+Artigo 9.º-A
+
+Relatório anual
 
 A direção regional com competência em matéria de agricultura envia, anualmente, à Assembleia Legislativa da Região Autónoma dos Açores um relatório contendo os dados sobre a evolução da agricultura familiar nos Açores.
 
-###### Artigo 10.º-A — Norma revogatória
+Artigo 10.º-A
+
+Norma revogatória
 
 É revogada a Portaria n.º 122/2020, de 24 de agosto.»
 
@@ -356,11 +388,11 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 6 de julho de 2022.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 10 de agosto de 2022.**
+Assinado em Angra do Heroísmo em 10 de agosto de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -434,7 +466,9 @@ i) «Unidade de Trabalho Ano (UTA)», a unidade de medida da mão de obra corres
 
 j) «Rendimento coletável», rendimento anual bruto, efetuadas as respetivas deduções específicas.
 
-###### Artigo 4.º — Título de reconhecimento
+###### Artigo 4.º
+
+## Título de reconhecimento
 
 1 - O Estatuto é apenas atribuído a pessoa singular, titular da exploração agrícola familiar, através da emissão de um título de reconhecimento pelo departamento do Governo Regional com competência em matéria de agricultura.
 
@@ -589,3 +623,5 @@ O regime estabelecido no presente diploma prevalece sobre quaisquer normas que v
 ###### Artigo 11.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte à data da sua publicação.
+
+115604815

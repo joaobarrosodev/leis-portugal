@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05900/16991700.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/320/2007/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/320-2007-518776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 311def57bdb4d8e671a5bfb4016c9b66038f27ff19a8e2abfc9348033d1772c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 410b6bc04411f65b0630308baf030d103bb4339f404f38de47ed642b0e14cb7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gestão de Resíduos
-- Tratamento de Resíduos
 - Regulamento
 - Sirer
 - Taxa
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:150908012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:686792:por
+  label: "Alterado, para 31 de Março de 2009, o prazo de preenchimento dos mapas de registo de resíduos relativos aos dados\
+    \ do ano de 2007, previsto na Port 1408/2006 de 18-Dez, e respectivo regulamento, alterada pelo presente diploma, pela\
+    \ PORT.249-B/2008.31.03.2008.MAOTDR, DR.IS [63-Supl] de 31.03.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/249-b-2008-686792
+  date: '2008-03-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/178/2006/09/05/p/dre
   label: null
@@ -84,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/178/1997/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/178/1997/03/11/p/dre
+- type: cites
+  target: pt:dre:515027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:150908012:por
+  label: Revogada, a partir de 15.12.2020 e com efeitos a 01.07.2021, pelo(a) Decreto-Lei n.º 102-D/2020 - Diário da República
+    n.º 239/2020, 1º Suplemento, Série I de 2020-12-10, nos termos do disposto nos seus arts. 17.º e 19.º, e determinado,
+    nos termos do disposto no seu art. 16.º, que as remissões legais e regulamentares que lhe sejam feitas se considerem feitas
+    para aquele diploma e para a legislação e regulamentação complementar nele prevista.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/102-d-2020-150908012
+  date: '2020-12-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:43Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +147,4 @@ Manda o Governo, pelo Ministro do Ambiente, do Ordenamento do Território e do D
 
 5.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 28 de Fevereiro de 2007.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 28 de Fevereiro de 2007.

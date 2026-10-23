@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 170/1989, 3º Suplemento, Série I de 1989-07-26
   number: '170'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 2934-(12) a 2934-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/07/17003/00120013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-430195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6886f81aeb8570cbda1fe7f38f06e0ff1fffcf754bb5df71bdb192a16eae71e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fefd6bbdec45ca153ef0eb12aa16386b7f00387d793374bfb482b3d7d6670a5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Molusco
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:553893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573286:por
+  label: "Alterado o art. 1º, revogado o art. 4º e prorrogada até 31.07.1991, a vigência do presente diploma, pelo DRR.24/90/A.31.07.1990.GR-RAA,\
+    \ DR.IS [175] de 31.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-1990-573286
+  date: '1990-07-31'
+- type: amended_by
+  target: pt:dre:647330:por
+  label: "Prorrogada até 31.07.1992 a vigência do presente diploma, pelo DRR.22/91/A.01.08.1991.GR-RAA, DR.IS-B [175]Supl\
+    \ de 01.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-1991-647330
+  date: '1991-08-01'
+- type: amended_by
+  target: pt:dre:275983:por
+  label: "Prorrogada, até 31.07.1993, a vigência do presente diploma, alterada no Decreto Regulamentar Regional 24/90/A, de\
+    \ 31 de Julho, pelo DRR.32-A/92/A.31.07.1992.GR-RAA, DR.IS-B [175]2ºSupl de 31.07.1992\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-a-1992-275983
+  date: '1992-07-31'
+- type: cites
+  target: pt:dre:373630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:3661740:por
+  label: Rectificado pela DECL.DD3713.1989.08.24.PCM DR.IS [200]SUPL DE 31/AGO/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-3661740
+  date: '1989-08-24'
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:26Z'
   warnings: []
   errors: []
 ---
@@ -119,10 +166,10 @@ O presente diploma entra em vigor no dia 1 de Agosto de 1989 e caduca a 31 de Ju
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 14 de Julho de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 26 de Julho de 1989.**
+Assinado em Angra do Heroísmo em 26 de Julho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

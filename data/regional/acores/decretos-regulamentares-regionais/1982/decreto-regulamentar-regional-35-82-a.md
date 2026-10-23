@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1982-374236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc3f483812904b04623cfdd4bbfb2955473394db1f803bf039c1c524206784b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dc7a2d63da08b4e9562f0d20e0dc48ce771f58181f81be731a5efad5ae7f49b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Carreira Profissional
+- Estatuto
+- Gestor Público Regional
+relationships:
+- type: cites
+  target: pt:dre:158012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406762:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 31
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:46Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +112,17 @@ Importa agora regulamentá-la convenientemente, já que aquele decreto apenas se
 
 Assim, em execução do disposto no artigo 6.º do citado [Decreto Regional n.º 10/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/10-1979-382017), o Governo Regional, usando dos poderes que lhe confere a alínea b) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo único. É aprovado o Estatuto da Carreira de Gestor Público Regional, em anexo ao presente diploma e que dele fica a fazer parte integrante.
+Artigo único. É aprovado o Estatuto da Carreira de Gestor Público Regional, em anexo ao presente diploma e que dele fica a fazer parte integrante.
 
 Aprovado em Conselho do Governo Regional dos Açores em 5 de Maio de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 13 de Julho de 1982.**
+Assinado em Angra do Heroísmo em 13 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 ESTATUTO DA CARREIRA DE GESTOR PÚBLICO REGIONAL
 
@@ -416,10 +436,10 @@ Enquanto não estiver em pleno funcionamento o Conselho para a Carreira de Gesto
 
 As dúvidas suscitadas na interpretação e aplicação deste diploma são resolvidas por despacho conjunto do Presidente do Governo, do Secretário Regional das Finanças e do secretário regional da tutela.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 13 de Julho de 1982.**
+Assinado em Angra do Heroísmo em 13 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

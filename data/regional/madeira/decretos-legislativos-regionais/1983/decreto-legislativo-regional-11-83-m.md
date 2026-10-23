@@ -47,40 +47,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1983-454064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32dbbce5a6c1bf5f463cdbfae1371344099a39a049e60d31011e3e3501d4b4c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1de29522126bdffe12db418f8b8c83d501965fb31420966282cee51867827c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Seguro
+- Serviço Regional de Protecção Civil da Madeira
 relationships:
 - type: amended_by
   target: pt:dre:70007184:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482388:por
+  label: "Dada nova redacção aos arts. 1º e 3º pelo DLR.34/2009/M.31.12.2009.AL-RAM, DR.IS [252] de 31.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/34-2009-482388
+  date: '2009-12-31'
+- type: amended_by
+  target: pt:dre:189511:por
+  label: "Alterados os arts. 1º e 3º, na redação do DLR 34/2009/M, de 31-dez, pelo DLR.42/2012/M.31.12.2012.AL-RAM, DR.IS\
+    \ [252] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164412:por
+  label: "Alterados os arts 1.º e 3.º do presente diploma, na redação do DLR 34/2009/M, de 31-dez, e do DLR.42/2012/M, de\
+    \ 31-dez, pelo DLR.31-A/2013/M.31.12.2013.AL-RAM, DR.IS [253-2.º supl] de 31.12.2013\0013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/31-a-2013-164412
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:70007184:por
+  label: Alterado o art. 1.º do presente diploma, na redação dos DLR 34/2009/M, de 31-dez, 42/2012/M, de 31-dez e 31-A/2013/M,
+    de 31-dez pelo(a) Decreto Legislativo Regional n.º 6/2015/M - Diário da República n.º 157/2015, Série I de 2015-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2015-70007184
+  date: '2015-08-13'
+- type: cites
+  target: pt:dre:324536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600106:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:47Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +155,7 @@ Nesta conformidade, a natureza, a extensão, responsabilidade e operacionalidade
 
 Assim, a Assembleia Regional decreta, nos termos do artigo 229.º, alínea a), da Constituição e do artigo 22.º, alínea b), do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º Constituem receita da Região Autónoma da Madeira:
+Artigo 1.º Constituem receita da Região Autónoma da Madeira:
 
 1) O produto das seguintes sobretaxas que as seguradoras estão autorizadas a cobrar dos segurados na Região:
 
@@ -113,7 +167,7 @@ c) 1% dos prémios ou contribuições relativos a seguros dos ramos de vida, doe
 
 2) A incidência das taxas mencionadas no n.º 1) deste artigo recai sobre os prémios e encargos e ainda sobre o custo da apólice ou acta adicional, quando existam.
 
-###### Art. 2.º - 1 - As entidades seguradoras - empresas ou grupos - que exerçam a sua actividade na Região Autónoma da Madeira devem cobrar as percentagens previstas nas alíneas a), b) e c) do n.º 1 do artigo anterior conjuntamente com o prémio de seguro ou contribuições, sendo responsáveis pela cobrança perante a Secretaria Regional do Planeamento e Finanças (SRPF).
+Art. 2.º - 1 - As entidades seguradoras - empresas ou grupos - que exerçam a sua actividade na Região Autónoma da Madeira devem cobrar as percentagens previstas nas alíneas a), b) e c) do n.º 1 do artigo anterior conjuntamente com o prémio de seguro ou contribuições, sendo responsáveis pela cobrança perante a Secretaria Regional do Planeamento e Finanças (SRPF).
 
 2 - No decurso do 2.º mês a seguir àquele em que se efectuaram as cobranças, as entidades seguradoras devem depositar, sem qualquer dedução, o total mensal em conta especial, e numa instituição de crédito a indicar para o efeito pelo Governo Regional, e à ordem da Secretaria Regional do Planeamento e Finanças, o quantitativo cobrado no mês anterior.
 
@@ -123,20 +177,20 @@ c) 1% dos prémios ou contribuições relativos a seguros dos ramos de vida, doe
 
 5 - O Governo Regional poderá solicitar que o Instituto de Seguros de Portugal proceda às acções de fiscalização junto das companhias seguradoras, no sentido de ser verificado o correcto cumprimento do presente diploma.
 
-###### Art. 3.º - 1 - Todos os valores obtidos e previstos no presente diploma serão consignados pela Secretaria Regional do Planeamento e Finanças ao Serviço Regional de Protecção Civil da Madeira, para acções inseridas no âmbito de protecção civil, nomeadamente incêndios, ambulâncias e socorrismo.
+Art. 3.º - 1 - Todos os valores obtidos e previstos no presente diploma serão consignados pela Secretaria Regional do Planeamento e Finanças ao Serviço Regional de Protecção Civil da Madeira, para acções inseridas no âmbito de protecção civil, nomeadamente incêndios, ambulâncias e socorrismo.
 
 2 - O Serviço Regional de Protecção Civil da Madeira não poderá afectar tais verbas, seja a que título for, para outra finalidade senão as indicadas no n.º 1 deste artigo, circunscrevendo-se as despesas relacionadas com o serviço de urgência hospitalar às decorrentes com a instalação de equipas móveis de urgência e com a formação em emergência médica e paramédica do respectivo pessoal.
 
-###### Art. 4.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas nos termos legais.
+Art. 4.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas nos termos legais.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 22 de Junho de 1983.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 8 de Julho de 1983.**
+Assinado em 8 de Julho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

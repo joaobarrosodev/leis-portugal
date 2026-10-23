@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/37/2000/12/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-2000-583247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85e0a946cd728922adbd87cbc8b65df78e8bc365f9b89da11185b51071a94c8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8dc59f5f361d0c8ad9519ef30b1b75d12ae648b40925ffbb5cea982a433659ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ordenamento do Território
 - Planeamento Urbano
-- Política de Solos
 - Plano de Pormenor
 - Plano de Urbanização
-- Urbanismo
+- Política de Solos
 - Ponta Delgada
 - Regulamento
-- Açores
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:636958:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545851:por
+  label: "Ratificado o estabelecimento de medidas preventivas pelo prazo de dois anos para a área do Plano de Pormenor do\
+    \ Parque Empresarial de Ponta Delgada, com efeito suspensivo do Plano de Urbanização de Ponta Delgada e áreas envolventes,\
+    \ ratificado pelo presente diploma, na respectiva área de intervenção, pelo DRR.31/2006/A.27.10.2006.PG-RAA, DR.IS [219]\
+    \ de 14.11.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2006-545851
+  date: '2006-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
   label: null
@@ -119,16 +127,335 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:1060410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661715:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636958:por
+  label: "Revogado o Regulamento do Plano de Urbanização de Ponta Delgada e Áreas Envolventes ratificado pelo presente diploma,\
+    \ com excepção da secção i do capítulo i, das alíneas b), c) e d) do n.º 1 do artigo 8.º, do n.º 2 do artigo 8.º, do artigo\
+    \ 11.º, das secções iii, iv, v e vi do capítulo ii, do artigo 47.º, do n.º 2 do artigo 48.º, do artigo 56.º, do artigo\
+    \ 73.º, do n.º 2 do artigo 74.º e do artigo 76.º, devendo a necessária alteração - sujeita a regime simplificado - ao\
+    \ PUPDAE, decorrente da entrada em vigor do PDM (14.08.2007), ser elaborada pela Câmara Municipal de Ponta Delgada no\
+    \ prazo de 90 dias, nos termos do nº 2 do art. 160º do Regulamento, pelo DRR.16/2007/A.13.08.2007.PG-RAA, DR.IS [155]\
+    \ de 13.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2007-636958
+  date: '2007-08-13'
 article_structure:
   article_count: 82
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:21Z'
   warnings: []
   errors: []
 ---
@@ -191,13 +518,13 @@ c) O adjectivo «ratificados» constante do n.º 5 do artigo 45.º e do n.º 1 d
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 25 de Setembro de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 10 de Novembro de 2000.**
+Assinado em Angra do Heroísmo em 10 de Novembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 REGULAMENTO DO PLANO DE URBANIZAÇÃO DE PONTA DELGADA E ÁREAS ENVOLVENTES
 

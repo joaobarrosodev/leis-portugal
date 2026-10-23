@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2004/07/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2004-501797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b8fc95cac9a0d2ce1b9c2d85ddf9f5ad142f00fbbd3e02472ca30bb97134090
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 726b6813efe3b081cd23f69801e19fd84f30af49af12cf86e1066dc2a1d6beaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Definição de Competências
-- Sistema Retributivo
 - Carreira Profissional
-- Recrutamento de Pessoal
-- Integração de Trabalhadores
-- Orgânica
+- Definição de Competências
 - Descrição de Funções
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Registo Internacional de Navios da Madeira
 - Remuneração
 - Serviço de Apoio Funcional ao Registo Internacional de Navios da Madeira
-- Gestão de Recursos Humanos
+- Sistema Retributivo
 - Zona Franca
 relationships:
 - type: amended_by
   target: pt:dre:552531:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a carreira Geral de Técnico Superior, nos termos do art. 2º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:552531:por
+  label: "Determinado, nos termos do nº 3 do art. 24º, a abrangência pelos Serviços de Apoio e de Coordenação, do Serviço\
+    \ de Apoio Funcional ao Registo Internacional de Navios da Madeira – MAR, pelo DRR.4/2012/M.09.04.2012.PG-RAM, DR.IS [70]\
+    \ de 09.04.2012\012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2012-552531
+  date: '2012-04-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/248/2002/11/08/p/dre
   label: null
@@ -125,16 +140,107 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674418:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:618755:por
+  label: "Rectificado pela DECL-RECT.83/2004.25.08.2004.PCM, DR.IS-A [210] de 06.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/83-2004-618755
+  date: '2004-08-25'
+- type: repealed_by
+  target: pt:dre:247978:por
+  label: "Revogados os quadros de pessoal anexos com a aprovação dos quadros de pessoal previstos nos nºs 1 a 3 do art. 26º\
+    \ da lei orgânica aprovada pelo DRR.2/2008/M.15.02.2008.PG-RAM, DR.IS [33] de 15.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2008-247978
+  date: '2008-02-15'
 article_structure:
   article_count: 23
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:23Z'
   warnings: []
   errors: []
 ---
@@ -183,13 +289,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 23 de Junho de 2004.
 
-**O Presidente da Assembleia Legislativa Regional em Exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa Regional em Exercício, José Paulo Baptista Fontes.
 
-**Assinado em 9 de Julho de 2004.**
+Assinado em 9 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica do Serviço de Apoio Funcional ao Registo Internacional de Navios da Madeira - MAR
 
@@ -233,7 +339,9 @@ d) Recepção de documentos.
 
 2 - Por despacho do Secretário Regional do Plano e Finanças será designado um funcionário que prestará apoio directo à comissão técnica.
 
-#### SECÇÃO II — Secção Administrativa
+#### SECÇÃO II
+
+#### Secção Administrativa
 
 ###### Artigo 4.º — Natureza
 
@@ -431,10 +539,10 @@ MAPA I
 
 Serviço de Apoio Funcional ao Registo Internacional de Navios da Madeira - MAR
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/07/176a00/47694775.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/07/176a00/47694775.pdf)](https://files.diariodarepublica.pt/1s/2004/07/176a00/47694775.pdf)
 
 MAPA II
 
 Escalas salariais e desenvolvimento indiciário da carreira de técnico de navios
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/07/176a00/47694775.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/07/176a00/47694775.pdf)](https://files.diariodarepublica.pt/1s/2004/07/176a00/47694775.pdf)

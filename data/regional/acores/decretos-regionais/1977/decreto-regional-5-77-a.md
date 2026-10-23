@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/07100/06180618.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1977-139471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c224c4b1684716632bafdd4bbedc2b29709213be49b4eff2d10ff776f49e4dd4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2c31422b5821d7bf76330a457e22ca14d193cd710c9a6c560eb1ed8f25dd7f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Regional dos Transportes Terrestres
+- Quadro de Pessoal
+- Rectificação de Numero de Diploma
+- Rectificação de TIPO de Diploma
 relationships:
 - type: amended_by
   target: pt:dre:328049:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:252228:por
+  label: Rectificado pela DECL.DD8243.12.05.1977.PCM, DR.IS [110] de 12.05.1977
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-252228
+  date: '1977-05-12'
+- type: repealed_by
+  target: pt:dre:328049:por
+  label: "Revogado pelo DRR.20/78/A.20.10.1978.GR-RAA, DR.IS [242] de 20.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1978-328049
+  date: '1978-10-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:47Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +111,7 @@ Em execução do Decreto Regional n.º 3/77, de 10 de Janeiro:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Direcção Regional de Transportes Terrestres compreende as Direcções de Viação de Angra do Heroísmo, Horta e Ponta Delgada, com sede nestas cidades e superintendência, respectivamente, nas ilhas de:
+Artigo 1.º A Direcção Regional de Transportes Terrestres compreende as Direcções de Viação de Angra do Heroísmo, Horta e Ponta Delgada, com sede nestas cidades e superintendência, respectivamente, nas ilhas de:
 
 a) Terceira, Graciosa e S. Jorge;
 
@@ -104,21 +119,21 @@ b) Faial, Pico, Flores e Corvo;
 
 c) S. Miguel e Santa Maria.
 
-###### Art. 2.º As Direcções de Viação exercem todas as competências que pertenciam, no domínio da viação e dos transportes terrestres, às antigas Direcções dos Serviços Industriais, Eléctricos e de Viação das extintas Juntas Gerais, bem como todas aquelas que lhes sejam cometidas ou delegadas pela Secretaria Regional ou Direcção Regional de Transportes Terrestres.
+Art. 2.º As Direcções de Viação exercem todas as competências que pertenciam, no domínio da viação e dos transportes terrestres, às antigas Direcções dos Serviços Industriais, Eléctricos e de Viação das extintas Juntas Gerais, bem como todas aquelas que lhes sejam cometidas ou delegadas pela Secretaria Regional ou Direcção Regional de Transportes Terrestres.
 
-###### Art. 3.º As Direcções de Viação têm quadros de pessoal que constam do mapa anexo.
+Art. 3.º As Direcções de Viação têm quadros de pessoal que constam do mapa anexo.
 
-###### Art. 4.º O pessoal técnico, administrativo e auxiliar actualmente em exercício de funções no sector de viação e transportes das Direcções de Viação de Angra do Heroísmo e Ponta Delgada fica integrado nas novas Direcções de Viação criadas nas mesmas cidades.
+Art. 4.º O pessoal técnico, administrativo e auxiliar actualmente em exercício de funções no sector de viação e transportes das Direcções de Viação de Angra do Heroísmo e Ponta Delgada fica integrado nas novas Direcções de Viação criadas nas mesmas cidades.
 
 Aprovado em plenário do Governo Regional em 11 de Fevereiro de 1977.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada em 3 de Março, de 1977.**
+Assinado em Ponta Delgada em 3 de Março, de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 ## ANEXO — Mapa a que se refere o artigo 3.º
 
@@ -188,4 +203,4 @@ Pessoal auxiliar:
 
 3 contínuos ... T
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

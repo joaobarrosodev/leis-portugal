@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2013/09/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2013-500420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 215537688a95a132d77919799daac5382bc8a788bf771803313bed66458c9b24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c5b62bb49f39539c61f12afc861817016238d4c23c685a5b49203485667b3ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Água
 - Águas Públicas
-- ILHA de são Miguel
-- Recursos Hídricos
-- Lagoa
-- Proteção do Ambiente
 - Bacia Hidrográfica
-- Zona de Proteção
+- ILHA de são Miguel
+- Lagoa
 - Plano Regional de Ordenamento do Território
+- Proteção do Ambiente
+- Recursos Hídricos
 - Regulamento
-- Açores
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:32000L0060
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 29
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:07Z'
   warnings: []
   errors: []
 ---
@@ -148,11 +148,11 @@ O presente diploma e o Plano de Ordenamento das Bacias Hidrográficas das Lagoas
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 23 de julho de 2013.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 10 de setembro de 2013.**
+Assinado em Angra do Heroísmo em 10 de setembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -162,79 +162,79 @@ Bacia hidrográfica da Lagoa do Fogo
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica das Lagoas do Congro e dos Nenúfares
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa de São Brás
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa do Canário
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa das Empadadas Norte
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa das Empadadas Sul
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa Rasa
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa do Caldeirão Grande
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa do Caldeirão Pequeno Norte
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa do Caldeirão Pequeno Sul
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa das Éguas Norte
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa das Éguas Sul
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 Bacia hidrográfica da Lagoa do Carvão
 
 Zona Terrestre de Proteção e Zona Reservada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 ## ANEXO II — (a que se refere o artigo 2.º)
 
@@ -758,10 +758,10 @@ Aos embargos, demolições ou outras medidas de reposição a que houver lugar n
 
 Plantas de Síntese do Plano de Ordenamento das Bacias Hidrográficas das Lagoas do Fogo, Congro, São Brás e da Serra Devassa, na ilha de São Miguel, Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
 
 ## ANEXO IV — (a que se refere o artigo 2.º)
 
 Plantas de Condicionantes do Plano de Ordenamento das Bacias Hidrográficas das Lagoas do Fogo, Congro, São Brás e da Serra Devassa, na Ilha de São Miguel, Açores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf))](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/09/18800/0596005971.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/00800/0024300243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/17/2009/01/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-2009-397301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4242ae60d0623be97df72935ffc851c0c5282dfa73ec97f964ea8f6e3a719416
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45e33bc74997a7c63b8119e1893d41dfb118e7d96c052d2d8492d66f26c47614
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:604828:por
+  label: "Declarada sem efeito, por corresponder, à publicação em duplicado do texto da Portaria n.º 16/2009, de 13 de Janeiro,\
+    \ pela DECL-RECT.19/2009.11.03.2009.PCM, DR.IS [49] de 11.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-2009-604828
+  date: '2009-03-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:35Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +126,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 5 de Janeiro de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00800/0024300243.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00800/0024300243.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00800/0024300243.pdf)

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/09/17300/0000900052.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2022/09/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2022-200734332
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14add5d4d0d8ac61182b9c8e515616eb8d43c051d5b38209f40ddbd2297b2db7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9850a2c40f815dc3e64297cce60c65634627884f3e105af4c8e9a0077c0af8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Definição de Competências
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Açores
 - Secretaria Regional da Agricultura e do Desenvolvimento Rural
 relationships:
 - type: cites
@@ -119,16 +119,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2022/04/29/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2022/04/29/a/dre
+- type: cites
+  target: pt:dre:140346287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140431107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166429419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166981190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170654201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185325081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693262:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:48Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +227,9 @@ m) ...
 
 5 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -213,7 +251,9 @@ e) Serviço de Manutenção.
 
 5 - O Serviço de Manutenção referido na alínea e) do n.º 1 é chefiado por um encarregado operacional, da carreira de assistente operacional, nos termos da lei em vigor.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -261,41 +301,55 @@ o) [Anterior alínea l).]
 
 8 - Para além do diretor previsto no n.º 5, o Serviço Florestal das Flores e do Corvo é também coordenado, na ilha do Corvo, por um trabalhador equiparado, para todos os efeitos legais, a cargo de direção específica de 2.º grau, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto na alínea b) do n.º 2 do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-## ANEXO II — [...]
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17300/0000900052.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17300/0000900052.pdf)
+[...]
 
-###### Artigo 2.º — Revogação
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17300/0000900052.pdf)
+
+Artigo 2.º
+
+Revogação
 
 São revogados o n.º 4 do artigo 48.º e o n.º 5 do artigo 51.º do [Decreto Regulamentar Regional n.º 13/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2021-166429419), de 5 de julho, retificado pela [Declaração de Retificação n.º 10/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2021-166981190), de 12 de julho, alterado e republicado pelo [Decreto Regulamentar Regional n.º 22/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2021-170654201), de 2 de setembro.
 
-###### Artigo 3.º — Republicação
+Artigo 3.º
+
+Republicação
 
 Os anexos i e ii do [Decreto Regulamentar Regional n.º 13/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2021-166429419), de 5 de julho, retificado pela [Declaração de Retificação n.º 10/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2021-166981190), de 12 de julho, e alterado pelo [Decreto Regulamentar Regional n.º 22/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2021-170654201), de 2 de setembro, são republicados em anexo ao presente diploma, do qual fazem parte integrante, com as alterações ora introduzidas.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Velas, em 21 de julho de 2022.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 26 de agosto de 2022.**
+Assinado em Angra do Heroísmo em 26 de agosto de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO — (a que se refere o artigo 3.º)
+ANEXO
+
+(a que se refere o artigo 3.º)
 
 Republicação dos anexos i e ii do [Decreto Regulamentar Regional n.º 13/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2021-166429419), de 5 de julho, retificado pela [Declaração de Retificação n.º 10/2021/A](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/10-2021-166981190), de 12 de julho, alterado e republicado pelo [Decreto Regulamentar Regional n.º 22/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2021-170654201), de 2 de setembro
 
 Orgânica da Secretaria Regional da Agricultura e do Desenvolvimento Rural
 
-### CAPÍTULO I — Missão, atribuições e competências
+CAPÍTULO I
 
-###### Artigo 1.º — Missão e atribuições
+Missão, atribuições e competências
+
+Artigo 1.º
+
+Missão e atribuições
 
 1 - A Secretaria Regional da Agricultura e do Desenvolvimento Rural, doravante designada por SRADR, é o departamento do Governo Regional que tem por missão definir e executar a política regional nos domínios da agricultura, pecuária e ruralidade, da diversificação e sustentabilidade agrícola, pecuária e rural, do desenvolvimento rural, da valorização e promoção das produções agrorrurais regionais, da formação, investigação e vulgarização agrorrural e da gestão e valorização dos recursos florestais e cinegéticos da Região Autónoma dos Açores.
 
@@ -319,7 +373,9 @@ h) Assegurar a cooperação com entidades públicas e privadas, regionais, nacio
 
 i) Promover a inspeção, auditoria e fiscalização em matéria de agricultura e florestas.
 
-###### Artigo 2.º — Competências
+Artigo 2.º
+
+Competências
 
 1 - Ao Secretário Regional da Agricultura e do Desenvolvimento Rural, doravante designado por secretário regional, compete:
 
@@ -353,9 +409,13 @@ h) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe se
 
 2 - O secretário regional pode delegar as competências que julgar convenientes, com faculdade de subdelegação, no chefe do respetivo gabinete, nos adjuntos e nos responsáveis pelos diversos serviços da SRADR, designadamente a competência para a prática de atos correntes de administração ordinária.
 
-### CAPÍTULO II — Estrutura orgânica
+CAPÍTULO II
 
-###### Artigo 3.º — Estrutura
+Estrutura orgânica
+
+Artigo 3.º
+
+Estrutura
 
 1 - Na dependência do secretário regional funcionam os órgãos e serviços seguintes:
 
@@ -381,29 +441,45 @@ ii) Serviços Florestais das Ilhas de Santa Maria, São Miguel, que integram os 
 
 3 - Sob a tutela do secretário regional funciona o Instituto de Alimentação e Mercados Agrícolas, I. P. R. A., cuja organização e funcionamento constam de diplomas próprios.
 
-###### Artigo 4.º — Cooperação funcional
+Artigo 4.º
+
+Cooperação funcional
 
 1 - Os órgãos e serviços da SRADR funcionam em estreita cooperação e interligação funcional, visando a plena execução das políticas regionais, na prossecução dos respetivos objetivos, atribuições e competências.
 
 2 - Compete ao chefe do gabinete do secretário regional coordenar a interligação funcional entre órgãos e serviços da SRADR, mediante orientações do secretário regional.
 
-### CAPÍTULO III — Órgãos, serviços e suas competências
+CAPÍTULO III
 
-#### SECÇÃO I — Órgãos consultivos
+Órgãos, serviços e suas competências
 
-##### SUBSECÇÃO I — Conselho Regional da Agricultura, Florestas e Desenvolvimento Rural
+SECÇÃO I
 
-###### Artigo 5.º — Natureza e competências
+Órgãos consultivos
+
+SUBSECÇÃO I
+
+Conselho Regional da Agricultura, Florestas e Desenvolvimento Rural
+
+Artigo 5.º
+
+Natureza e competências
 
 1 - O Conselho Regional da Agricultura, Florestas e Desenvolvimento Rural, doravante designado por CRAFDR, é um órgão consultivo da SRADR, ao qual compete apoiar o secretário regional na formulação das linhas gerais de ação da política regional nos domínios da agricultura, pecuária e ruralidade, da diversificação e sustentabilidade agrícola, pecuária e rural, do desenvolvimento rural, da valorização e promoção das produções agrorrurais regionais, da formação, investigação e vulgarização agrorrural e da gestão e valorização dos recursos florestais e cinegéticos da Região Autónoma dos Açores, assegurando o diálogo e a cooperação com entidades e organizações de âmbito regional.
 
 2 - A composição e as normas regulamentares de funcionamento do CRAFDR são definidas em diploma próprio.
 
-#### SECÇÃO II — Serviços executivos centrais
+SECÇÃO II
 
-##### SUBSECÇÃO I — Gabinete de Planeamento
+Serviços executivos centrais
 
-###### Artigo 6.º — Missão e competências
+SUBSECÇÃO I
+
+Gabinete de Planeamento
+
+Artigo 6.º
+
+Missão e competências
 
 1 - O Gabinete de Planeamento, doravante designado por GP, tem por missão apoiar tecnicamente o secretário regional e o respetivo gabinete na definição, coordenação, execução, acompanhamento e avaliação de programas e políticas, no âmbito das atribuições da SRADR.
 
@@ -445,7 +521,9 @@ d) Divisão de Tecnologias de Informação e Comunicação.
 
 4 - O GP é dirigido por um diretor, equiparado, para todos os efeitos legais, a subdiretor regional, cargo de direção superior de 2.º grau.
 
-###### Artigo 7.º — Divisão de Estudos e Planeamento
+Artigo 7.º
+
+Divisão de Estudos e Planeamento
 
 1 - À Divisão de Estudos e Planeamento, doravante designada por DEP, compete:
 
@@ -479,7 +557,9 @@ m) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DEP compreende a Secção de Contabilidade.
 
-###### Artigo 8.º — Secção de Contabilidade
+Artigo 8.º
+
+Secção de Contabilidade
 
 1 - À Secção de Contabilidade, doravante designada por SC, compete:
 
@@ -497,7 +577,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SC é chefiada por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 9.º — Divisão de Recursos Humanos e Patrimoniais
+Artigo 9.º
+
+Divisão de Recursos Humanos e Patrimoniais
 
 1 - À Divisão de Recursos Humanos e Patrimoniais, doravante designada por DRHP, compete:
 
@@ -539,7 +621,9 @@ b) Secção de Gestão Documental;
 
 c) Secção de Aprovisionamento e Património.
 
-###### Artigo 10.º — Secção de Recursos Humanos
+Artigo 10.º
+
+Secção de Recursos Humanos
 
 1 - À Secção de Recursos Humanos, doravante designada por SRH, compete:
 
@@ -557,7 +641,9 @@ d) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SRH é chefiada por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 11.º — Secção de Gestão Documental
+Artigo 11.º
+
+Secção de Gestão Documental
 
 1 - À Secção de Gestão Documental, doravante designada por SGD, compete:
 
@@ -573,7 +659,9 @@ b) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SGD é chefiada por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 12.º — Secção de Aprovisionamento e Património
+Artigo 12.º
+
+Secção de Aprovisionamento e Património
 
 1 - À Secção de Aprovisionamento e Património, doravante designada por SAP, compete:
 
@@ -589,7 +677,9 @@ c) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SAP é chefiada por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 13.º — Divisão de Apoio Jurídico
+Artigo 13.º
+
+Divisão de Apoio Jurídico
 
 1 - À Divisão de Apoio Jurídico, doravante designada por DAJ, compete:
 
@@ -627,7 +717,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAJ é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 14.º — Divisão de Tecnologias de Informação e Comunicação
+Artigo 14.º
+
+Divisão de Tecnologias de Informação e Comunicação
 
 1 - À Divisão de Tecnologias de Informação e Comunicação, doravante designada por DTIC, compete:
 
@@ -669,9 +761,13 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DTIC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-##### SUBSECÇÃO II — Direção Regional da Agricultura
+SUBSECÇÃO II
 
-###### Artigo 15.º — Missão, competências e estrutura
+Direção Regional da Agricultura
+
+Artigo 15.º
+
+Missão, competências e estrutura
 
 1 - A Direção Regional da Agricultura, doravante designada por DRAg, tem por missão contribuir para a definição da política regional nos domínios da agricultura, pecuária, segurança alimentar, proteção e saúde animal, proteção vegetal e fitossanidade, formação, investigação e vulgarização agrorrural, bem como coordenar, orientar e controlar a execução da política, medidas e ações dessas áreas.
 
@@ -717,7 +813,9 @@ c) Divisão Administrativa, Financeira e de Planeamento.
 
 5 - No exercício das suas competências a DRAg é apoiada pelos serviços de desenvolvimento agrário de ilha.
 
-###### Artigo 16.º — Direção de Serviços de Veterinária
+Artigo 16.º
+
+Direção de Serviços de Veterinária
 
 1 - À Direção de Serviços de Veterinária, doravante designada por DSV, compete:
 
@@ -803,7 +901,9 @@ b) Divisão de Bem-Estar Animal e Melhoramento Genético;
 
 c) Laboratório Regional de Veterinária.
 
-###### Artigo 17.º — Divisão de Saúde Animal e Higiene Pública Veterinária
+Artigo 17.º
+
+Divisão de Saúde Animal e Higiene Pública Veterinária
 
 1 - À Divisão de Saúde Animal e Higiene Pública Veterinária, doravante designada por DSAHPV, compete:
 
@@ -859,7 +959,9 @@ y) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DSAHPV é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 18.º — Divisão de Bem-Estar Animal e Melhoramento Genético
+Artigo 18.º
+
+Divisão de Bem-Estar Animal e Melhoramento Genético
 
 1 - À Divisão de Bem-Estar Animal e Melhoramento Genético, doravante designada por DBAMG, compete:
 
@@ -893,7 +995,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DBAMG é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 19.º — Laboratório Regional de Veterinária
+Artigo 19.º
+
+Laboratório Regional de Veterinária
 
 1 - Ao Laboratório Regional de Veterinária, doravante designado por LRV, compete:
 
@@ -947,7 +1051,9 @@ b) Serviço de Segurança e Manutenção;
 
 c) Núcleo de Serviços do LRV na ilha de São Miguel.
 
-###### Artigo 20.º — Serviço de Gestão da Qualidade
+Artigo 20.º
+
+Serviço de Gestão da Qualidade
 
 1 - Ao Serviço de Gestão da Qualidade, doravante designado por SGQ, compete:
 
@@ -989,7 +1095,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O SGQ é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 21.º — Serviço de Segurança e Manutenção
+Artigo 21.º
+
+Serviço de Segurança e Manutenção
 
 1 - Ao Serviço de Segurança e Manutenção, doravante designado por SSM, compete:
 
@@ -1007,7 +1115,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O SSM é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 22.º — Núcleo de Serviços do LRV na ilha de São Miguel
+Artigo 22.º
+
+Núcleo de Serviços do LRV na ilha de São Miguel
 
 1 - Ao Núcleo de Serviços do LRV na ilha de São Miguel compete:
 
@@ -1021,7 +1131,9 @@ d) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O Núcleo de Serviços na ilha de São Miguel funciona na dependência do LRV e é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 23.º — Direção de Serviços de Agricultura
+Artigo 23.º
+
+Direção de Serviços de Agricultura
 
 1 - À Direção de Serviços de Agricultura, doravante designada por DSA, compete:
 
@@ -1089,7 +1201,9 @@ a) Laboratório Regional de Sanidade Vegetal;
 
 b) Laboratório Regional de Enologia.
 
-###### Artigo 24.º — Laboratório Regional de Sanidade Vegetal
+Artigo 24.º
+
+Laboratório Regional de Sanidade Vegetal
 
 1 - Ao Laboratório Regional de Sanidade Vegetal, doravante designado por LRSV, compete:
 
@@ -1109,7 +1223,9 @@ g) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O LRSV é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 25.º — Laboratório Regional de Enologia
+Artigo 25.º
+
+Laboratório Regional de Enologia
 
 1 - Ao Laboratório Regional de Enologia, doravante designado por LRE, compete:
 
@@ -1135,7 +1251,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O LRE é dirigido por um diretor, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 26.º — Divisão Administrativa, Financeira e de Planeamento
+Artigo 26.º
+
+Divisão Administrativa, Financeira e de Planeamento
 
 1 - À Divisão Administrativa, Financeira e de Planeamento, doravante designada por DAFP, compete:
 
@@ -1183,9 +1301,13 @@ u) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAFP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-##### SUBSECÇÃO III — Direção Regional do Desenvolvimento Rural
+SUBSECÇÃO III
 
-###### Artigo 27.º — Missão, competências e estrutura
+Direção Regional do Desenvolvimento Rural
+
+Artigo 27.º
+
+Missão, competências e estrutura
 
 1 - A Direção Regional do Desenvolvimento Rural, doravante designada por DRDR, tem por missão contribuir para a definição da política do Governo Regional no domínio do desenvolvimento rural sustentável, bem como orientar, coordenar e controlar a execução da mesma, e, ainda, proceder à conceção, gestão, acompanhamento e avaliação de programas comunitários, nacionais e regionais.
 
@@ -1229,7 +1351,9 @@ g) Delegação da DRDR na ilha de São Miguel.
 
 5 - No âmbito das suas competências, a DRDR é apoiada pelos serviços de desenvolvimento agrário de ilha.
 
-###### Artigo 28.º — Direção de Serviços de Apoio ao Investimento e à Competitividade
+Artigo 28.º
+
+Direção de Serviços de Apoio ao Investimento e à Competitividade
 
 1 - À Direção de Serviços de Apoio ao Investimento e à Competitividade, doravante designada por DSAIC, compete:
 
@@ -1257,7 +1381,9 @@ a) Divisão de Apoio ao Investimento;
 
 b) Divisão de Apoio à Competitividade.
 
-###### Artigo 29.º — Divisão de Apoio ao Investimento
+Artigo 29.º
+
+Divisão de Apoio ao Investimento
 
 1 - À Divisão de Apoio ao Investimento, doravante designada por DAI, compete:
 
@@ -1273,7 +1399,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAI é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 30.º — Divisão de Apoio à Competitividade
+Artigo 30.º
+
+Divisão de Apoio à Competitividade
 
 1 - À Divisão de Apoio à Competitividade, doravante designada por DAC, compete:
 
@@ -1295,7 +1423,9 @@ h) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 31.º — Direção de Serviços de Apoio ao Rendimento e à Sustentabilidade
+Artigo 31.º
+
+Direção de Serviços de Apoio ao Rendimento e à Sustentabilidade
 
 1 - À Direção de Serviços de Apoio ao Rendimento e à Sustentabilidade, doravante designada por DSARS, compete:
 
@@ -1323,7 +1453,9 @@ a) Divisão de Apoio ao Rendimento;
 
 b) Divisão de Apoio ao Desenvolvimento Sustentável.
 
-###### Artigo 32.º — Divisão de Apoio ao Rendimento
+Artigo 32.º
+
+Divisão de Apoio ao Rendimento
 
 1 - À Divisão de Apoio ao Rendimento, doravante designada por DAR, compete:
 
@@ -1341,7 +1473,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAR é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 33.º — Divisão de Apoio ao Desenvolvimento Sustentável
+Artigo 33.º
+
+Divisão de Apoio ao Desenvolvimento Sustentável
 
 1 - À Divisão de Apoio ao Desenvolvimento Sustentável, doravante designada por DADS, compete:
 
@@ -1365,7 +1499,9 @@ i) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DADS é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 34.º — Divisão de Informação e Acompanhamento de Programas Comunitários
+Artigo 34.º
+
+Divisão de Informação e Acompanhamento de Programas Comunitários
 
 1 - À Divisão de Informação e Acompanhamento de Programas Comunitários, doravante designada por DIAPC, compete:
 
@@ -1395,7 +1531,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DIAPC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 35.º — Divisão de Controlo e Qualidade
+Artigo 35.º
+
+Divisão de Controlo e Qualidade
 
 1 - À Divisão de Controlo e Qualidade, doravante designada por DCQ, compete:
 
@@ -1429,7 +1567,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DCQ é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 36.º — Divisão Administrativa, Financeira e de Planeamento
+Artigo 36.º
+
+Divisão Administrativa, Financeira e de Planeamento
 
 1 - À Divisão Administrativa, Financeira e de Planeamento, doravante designada por DAFP, compete:
 
@@ -1473,7 +1613,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAFP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 37.º — Núcleo de Tecnologias de Informação e Comunicação
+Artigo 37.º
+
+Núcleo de Tecnologias de Informação e Comunicação
 
 1 - Ao Núcleo de Tecnologias de Informação e Comunicação, doravante designado por NTIC, compete:
 
@@ -1497,7 +1639,9 @@ i) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NTIC é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 38.º — Delegação da DRDR na ilha de São Miguel
+Artigo 38.º
+
+Delegação da DRDR na ilha de São Miguel
 
 À Delegação da DRDR na ilha de São Miguel, doravante designada por DISM, compete:
 
@@ -1505,9 +1649,13 @@ a) Prestar apoio em todas as matérias da competência da DRDR;
 
 b) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
 
-##### SUBSECÇÃO IV — Direção Regional dos Recursos Florestais
+SUBSECÇÃO IV
 
-###### Artigo 39.º — Missão, competências e estrutura
+Direção Regional dos Recursos Florestais
+
+Artigo 39.º
+
+Missão, competências e estrutura
 
 1 - A Direção Regional dos Recursos Florestais, doravante designada por DRRF, tem por missão contribuir para a definição da política regional nos domínios do ordenamento, proteção, desenvolvimento e uso dos recursos florestais, dos recursos cinegéticos e dos recursos piscícolas das águas interiores, bem como orientar, coordenar e controlar a sua execução nesses domínios.
 
@@ -1549,7 +1697,9 @@ b) Divisão Administrativa, Financeira e de Planeamento.
 
 5 - No âmbito das suas competências, a DRRF é apoiada pelos serviços florestais de ilha, que funcionam na dependência do diretor regional dos Recursos Florestais.
 
-###### Artigo 40.º — Direção de Serviços Técnicos e Desenvolvimento Florestal
+Artigo 40.º
+
+Direção de Serviços Técnicos e Desenvolvimento Florestal
 
 1 - À Direção de Serviços Técnicos e Desenvolvimento Florestal, doravante designada por DSTDF, compete:
 
@@ -1595,7 +1745,9 @@ b) Divisão de Apoio ao Setor Florestal;
 
 c) Divisão de Ordenamento e Sistemas de Informação.
 
-###### Artigo 41.º — Divisão de Caça, Pesca e Parques
+Artigo 41.º
+
+Divisão de Caça, Pesca e Parques
 
 1 - À Divisão de Caça, Pesca e Parques, doravante designada por DCPP, compete:
 
@@ -1625,7 +1777,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DCPP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 42.º — Divisão de Apoio ao Setor Florestal
+Artigo 42.º
+
+Divisão de Apoio ao Setor Florestal
 
 1 - À Divisão de Apoio ao Setor Florestal, doravante designada por DASF, compete:
 
@@ -1653,7 +1807,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DASF é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 43.º — Divisão de Ordenamento e Sistemas de Informação
+Artigo 43.º
+
+Divisão de Ordenamento e Sistemas de Informação
 
 1 - À Divisão de Ordenamento e Sistemas de Informação, doravante designada por DOSI, compete:
 
@@ -1681,7 +1837,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DOSI integra o Serviço de Parcelário e Inventário Florestal.
 
-###### Artigo 44.º — Serviço de Parcelário e Inventário Florestal
+Artigo 44.º
+
+Serviço de Parcelário e Inventário Florestal
 
 1 - Ao Serviço de Parcelário e Inventário Florestal, doravante designado por SPIF, compete:
 
@@ -1699,7 +1857,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O SPIF é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 45.º — Divisão Administrativa, Financeira e de Planeamento
+Artigo 45.º
+
+Divisão Administrativa, Financeira e de Planeamento
 
 1 - À Divisão Administrativa, Financeira e de Planeamento, doravante designada por DAFeP, compete:
 
@@ -1759,7 +1919,9 @@ z) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DAFeP integra a Secção de Apoio Administrativo.
 
-###### Artigo 46.º — Secção de Apoio Administrativo
+Artigo 46.º
+
+Secção de Apoio Administrativo
 
 1 - À Secção de Apoio Administrativo, doravante designada por SAA, compete:
 
@@ -1795,11 +1957,17 @@ o) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SAA é chefiada por um coordenador técnico, da carreira de assistente técnico.
 
-#### SECÇÃO III — Serviços executivos periféricos
+SECÇÃO III
 
-##### SUBSECÇÃO I — Serviços de Desenvolvimento Agrário de Ilha
+Serviços executivos periféricos
 
-###### Artigo 47.º — Competências e estrutura
+SUBSECÇÃO I
+
+Serviços de Desenvolvimento Agrário de Ilha
+
+Artigo 47.º
+
+Competências e estrutura
 
 1 - Os Serviços de Desenvolvimento Agrário de Ilha, doravante designados por SDA de Ilha, são serviços executivos periféricos da SRADR, com competências funcionais de caráter técnico e operativo.
 
@@ -1843,7 +2011,9 @@ g) Colaborar com outros órgãos e serviços da SRADR;
 
 h) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
 
-###### Artigo 48.º — Serviço de Desenvolvimento Agrário de São Miguel
+Artigo 48.º
+
+Serviço de Desenvolvimento Agrário de São Miguel
 
 1 - O Serviço de Desenvolvimento Agrário de São Miguel, doravante designado por SDASM, integra os serviços seguintes:
 
@@ -1865,7 +2035,9 @@ e) Serviço de Manutenção.
 
 5 - O Serviço de Manutenção referido na alínea e) do n.º 1 é chefiado por um encarregado operacional, da carreira de assistente operacional, nos termos da lei em vigor.
 
-###### Artigo 49.º — Serviço de Desenvolvimento Agrário da Terceira
+Artigo 49.º
+
+Serviço de Desenvolvimento Agrário da Terceira
 
 1 - O Serviço de Desenvolvimento Agrário da Terceira, doravante designado por SDAT, integra os serviços seguintes:
 
@@ -1887,7 +2059,9 @@ e) Serviço de Manutenção.
 
 5 - O Serviço de Manutenção referido na alínea e) do n.º 1 é chefiado por um encarregado operacional, da carreira de assistente operacional, nos termos da lei em vigor.
 
-###### Artigo 50.º — Serviço de Desenvolvimento Agrário do Pico
+Artigo 50.º
+
+Serviço de Desenvolvimento Agrário do Pico
 
 1 - O Serviço de Desenvolvimento Agrário do Pico, doravante designado por SDAP, integra os serviços seguintes:
 
@@ -1905,7 +2079,9 @@ c) Secção de Apoio Administrativo.
 
 5 - A Secção de Apoio Administrativo referida na alínea c) do n.º 1 é chefiada por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 51.º — Serviço de Desenvolvimento Agrário do Faial
+Artigo 51.º
+
+Serviço de Desenvolvimento Agrário do Faial
 
 1 - O Serviço de Desenvolvimento Agrário do Faial, doravante designado por SDAF, integra os serviços seguintes:
 
@@ -1923,7 +2099,9 @@ c) Secção de Apoio Administrativo.
 
 5 - (Revogado.)
 
-###### Artigo 52.º — Serviço de Desenvolvimento Agrário de São Jorge
+Artigo 52.º
+
+Serviço de Desenvolvimento Agrário de São Jorge
 
 1 - O Serviço de Desenvolvimento Agrário de São Jorge, doravante designado por SDASJ, integra os serviços seguintes:
 
@@ -1937,13 +2115,19 @@ b) Divisão de Veterinária.
 
 4 - Sem prejuízo do disposto no número anterior, as Divisões referidas nas alíneas a) e b) do n.º 1 são dirigidas por chefes de divisão, cargos de direção intermédia de 2.º grau.
 
-###### Artigo 53.º — Serviços de Desenvolvimento Agrário de Santa Maria, da Graciosa, das Flores e do Corvo
+Artigo 53.º
+
+Serviços de Desenvolvimento Agrário de Santa Maria, da Graciosa, das Flores e do Corvo
 
 O Serviço de Desenvolvimento Agrário de Santa Maria, doravante designado por SDASTM, o Serviço de Desenvolvimento Agrário da Graciosa, doravante designado por SDAG, o Serviço de Desenvolvimento Agrário das Flores, doravante designado por SDAF, e o Serviço de Desenvolvimento Agrário do Corvo, doravante designado por SDAC, são equiparados, para todos os efeitos legais, a divisões, sendo cada um desses serviços dirigido por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-##### SUBSECÇÃO II — Serviços Florestais de Ilha
+SUBSECÇÃO II
 
-###### Artigo 54.º — Competências e estrutura
+Serviços Florestais de Ilha
+
+Artigo 54.º
+
+Competências e estrutura
 
 1 - Os Serviços Florestais de Ilha, doravante designados por SFI, são serviços executivos periféricos da SRADR, com competências funcionais de caráter técnico e operativo.
 
@@ -2009,18 +2193,28 @@ i) Serviço Florestal das Flores e do Corvo.
 
 8 - Para além do diretor previsto no n.º 5, o Serviço Florestal das Flores e do Corvo é também coordenado, na ilha do Corvo, por um trabalhador equiparado, para todos os efeitos legais, a cargo de direção específica de 2.º grau, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto na alínea b) do n.º 2 do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-### CAPÍTULO IV — Pessoal
+CAPÍTULO IV
 
-###### Artigo 55.º — Pessoal
+Pessoal
+
+Artigo 55.º
+
+Pessoal
 
 O pessoal afeto à SRADR consta dos quadros regionais de ilha, aprovados por portaria dos membros do Governo Regional com competência nas áreas das finanças e Administração Pública, nos termos do n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 49/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/49-2006-545582), de 11 de dezembro, na sua redação atual.
 
-###### Artigo 56.º — Carreira e atividade de guarda florestal
+Artigo 56.º
+
+Carreira e atividade de guarda florestal
 
 O regime jurídico da atividade de polícia florestal da Região Autónoma dos Açores encontra-se previsto no [Decreto Legislativo Regional n.º 23/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2020-140346287), de 14 de agosto, e a carreira de guarda florestal é regulamentada pelo [Decreto Regulamentar Regional n.º 20/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2020-140431107), de 17 de agosto.
 
-## ANEXO II — (a que se refere o artigo 3.º)
+ANEXO II
+
+(a que se refere o artigo 3.º)
 
 Quadro de pessoal dirigente, de direção específica e de chefia da Secretaria Regional da Agricultura e Desenvolvimento Rural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/09/17300/0000900052.pdf))](https://files.diariodarepublica.pt/1s/2022/09/17300/0000900052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/09/17300/0000900052.pdf)
+
+115645097

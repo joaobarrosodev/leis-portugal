@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/20900/0001200018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/26/2021/10/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2021-173452294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 026674fb3596a441a9269185a1c1641e3b57e24feb8db30af2116e42b59d3e5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4debb1db270c8a7cbcb7219d91fd954e7163add6f8d8bc9c5cc8645d7fcacf84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Rural
-- Ordenamento do Território
-- Renovação Urbana
-- Regulamentação de Atos Legislativos
+- Açores
+- Aproveitamento Agrícola
 - Aproveitamento Hidroagrícola
+- Desenvolvimento Rural
+- Direito à Habitação
 - Investimento Público
 - Licenciamento
+- Ordenamento do Território
 - Política Económica
 - Produção Agrícola
+- Regulamentação de Atos Legislativos
+- Renovação Urbana
 - Reserva Agrícola Regional
-- Aproveitamento Agrícola
-- Açores
-- Direito à Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/20/2019/08/07/a/dre
@@ -96,16 +96,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/27/2020/12/02/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/27/2020/12/02/a/dre
+- type: cites
+  target: pt:dre:123770990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149948203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454788:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
+  article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:44Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +150,9 @@ Os artigos 3.º, 5.º, 6.º e 9.º do [Decreto Regulamentar Regional n.º 27/202
 
 3 - Sem prejuízo do disposto nas alíneas d) e e) do número anterior, a área total de implantação de edificações pode exceder aqueles limites, desde que devidamente justificado com base em elementos técnicos e económicos.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]:
 
@@ -148,7 +166,9 @@ d) [...];
 
 e) Tratando-se de ampliação, a área total de implantação não exceda os 300 m2.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...].
 
@@ -158,7 +178,9 @@ e) Tratando-se de ampliação, a área total de implantação não exceda os 300
 
 4 - Sem prejuízo do disposto no número anterior, a área total de implantação das edificações pode exceder aqueles limites, desde que devidamente justificado com base em elementos técnicos e económicos, não podendo nunca exceder 110 % da área de implantação preexistente.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 Para efeitos da exceção prevista na alínea g) do n.º 1 do artigo 5.º do regime jurídico da RAR, pode ser concedido despacho de autorização da pretensão desde que seja apresentado estudo demonstrativo da inexistência de alternativa técnica ou economicamente aceitável para o traçado e localização, bem como um estudo prévio da obra a realizar.»
 
@@ -176,11 +198,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 14 de setembro de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 20 de outubro de 2021.**
+Assinado em Angra do Heroísmo em 20 de outubro de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -351,3 +373,5 @@ b) Economicamente aceitável, quando o promotor comprove através de um estudo e
 ###### Artigo 12.º — Produção de efeitos
 
 O presente diploma produz efeitos no dia seguinte ao da sua publicação.
+
+114665597

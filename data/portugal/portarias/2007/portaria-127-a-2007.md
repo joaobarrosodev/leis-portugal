@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 18/2007, 1º Suplemento, Série I de 2007-01-25
   number: '18'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 692-(2) a 692-(259)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/01801/00020259.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/127-a/2007/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-a-2007-407090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fc1cfd09576bc1bc757aa5be352365c57acadac9942386c24f71f66738a2182
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3bec91b3bb486e78fef5a5288f7b7b332acb05b7dc9d29cd59759d640e4c8c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- REDE Escolar
 - Criação de Serviços
+- Ensino Básico
+- Estabelecimento de Ensino
 - Extinção de Serviços
 - Integração de Serviços
-- Estabelecimento de Ensino
-- Ensino Básico
+- REDE Escolar
+- Reestruturação de Serviços
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
@@ -101,16 +101,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686619:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:17Z'
   warnings: []
   errors: []
 ---
@@ -171,6 +211,6 @@ v) Concelho.
 
 Em 18 de Dezembro de 2006.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01801/00020259.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01801/00020259.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01801/00020259.pdf)

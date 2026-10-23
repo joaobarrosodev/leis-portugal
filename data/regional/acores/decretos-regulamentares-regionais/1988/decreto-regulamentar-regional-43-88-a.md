@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/23400/41264127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-1988-354734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c31cf5c8211fe1ec8907ede1c4d10bc5854ad3e71dec5fb4e3afe3a8864b982a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe9d6574592e044b39a771abc259721e19cb71605e0791cdc10b64103a636b6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Secretaria Regional da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:612400:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:311816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553379:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:612400:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 5/89/A - Diário da República n.º 43/1989, Série I de 1989-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1989-612400
+  date: '1989-02-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:10Z'
   warnings: []
   errors: []
 ---
@@ -90,46 +110,46 @@ A execução prática do [Decreto Regulamentar Regional n.º 30/87/A](https://di
 
 Assim, o Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao artigo 29.º do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, é aditado um número, com a seguinte redacção:
+Artigo 1.º Ao artigo 29.º do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, é aditado um número, com a seguinte redacção:
 
 3 - As secções referidas na alínea b) do n.º 1 serão chefiadas por um coordenador.
 
-###### Art. 2.º Ao [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, são aditados dois artigos, com a seguinte redacção:
+Art. 2.º Ao [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, são aditados dois artigos, com a seguinte redacção:
 
-###### Art. 42.º-A. Os técnicos superiores juristas exercem exclusivamente funções de mera consultadoria jurídica.
+Art. 42.º-A. Os técnicos superiores juristas exercem exclusivamente funções de mera consultadoria jurídica.
 
-###### Art. 42.º-B. Os coordenadores da Direcção Regional dos Recursos Florestais serão recrutados de entre pessoal técnico e técnico superior daquele departamento, em regime de comissão de serviço com a duração de dois anos, renovável por iguais períodos.
+Art. 42.º-B. Os coordenadores da Direcção Regional dos Recursos Florestais serão recrutados de entre pessoal técnico e técnico superior daquele departamento, em regime de comissão de serviço com a duração de dois anos, renovável por iguais períodos.
 
-###### Art. 3.º Ao artigo 44.º do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, na redacção do [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro, é aditado um número, com a seguinte redacção:
+Art. 3.º Ao artigo 44.º do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, na redacção do [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro, é aditado um número, com a seguinte redacção:
 
 3 - O ingresso na carreira de desenhador de construção civil far-se-á de entre indivíduos habilitados com o 11.º ano de escolaridade, áreas B ou E, ou equivalente e estágio.
 
-###### Art. 4.º O artigo 43.º e o n.º 1 do artigo 48.º do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, na redacção do [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro, passam a ter a seguinte redacção:
+Art. 4.º O artigo 43.º e o n.º 1 do artigo 48.º do [Decreto Regulamentar Regional n.º 12/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816), de 21 de Abril, na redacção do [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro, passam a ter a seguinte redacção:
 
-###### Art. 43.º O ingresso na carreira de topógrafo fica condicionado, para além da aprovação no concurso previsto na [Portaria n.º 8/82](https://diariodarepublica.pt/dr/detalhe/portaria/8-1982-553379), de 16 de Março, à posse do 11.º ano de escolaridade ou equivalente.
+Art. 43.º O ingresso na carreira de topógrafo fica condicionado, para além da aprovação no concurso previsto na [Portaria n.º 8/82](https://diariodarepublica.pt/dr/detalhe/portaria/8-1982-553379), de 16 de Março, à posse do 11.º ano de escolaridade ou equivalente.
 
-###### Art. 48.º - 1 - O encarregado de oficinas, viaturas e alfaias será recrutado de entre os tractoristas principais, motoristas principais e condutores de máquinas pesadas de 1.ª classe com cinco anos de serviço na categoria com classificação mínima de Bom e de entre mecânicos principais.
+Art. 48.º - 1 - O encarregado de oficinas, viaturas e alfaias será recrutado de entre os tractoristas principais, motoristas principais e condutores de máquinas pesadas de 1.ª classe com cinco anos de serviço na categoria com classificação mínima de Bom e de entre mecânicos principais.
 
-###### Art. 5.º É aditado ao [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro, o artigo 3.º-A, com a seguinte redacção:
+Art. 5.º É aditado ao [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro, o artigo 3.º-A, com a seguinte redacção:
 
-###### Art. 3.º-A. Os agentes que desempenham funções na Secretaria Regional da Agricultura e Pescas em regime de tempo completo, com sujeição à disciplina, hierarquia e horário do respectivo serviço, contem três ou mais anos de serviço ininterrupto e tenham sido admitidos com observância dos requisitos habilitacionais poderão ser integrados directamente no quadro, em categoria correspondente às funções que actualmente desempenham.
+Art. 3.º-A. Os agentes que desempenham funções na Secretaria Regional da Agricultura e Pescas em regime de tempo completo, com sujeição à disciplina, hierarquia e horário do respectivo serviço, contem três ou mais anos de serviço ininterrupto e tenham sido admitidos com observância dos requisitos habilitacionais poderão ser integrados directamente no quadro, em categoria correspondente às funções que actualmente desempenham.
 
-###### Art. 6.º No quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro, na parte referente ao pessoal auxiliar da Repartição dos Serviços Administrativos, a carreira designada de auxiliar técnico de arquivo e documentação passa a designar-se de auxiliar técnico de BAD.
+Art. 6.º No quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro, na parte referente ao pessoal auxiliar da Repartição dos Serviços Administrativos, a carreira designada de auxiliar técnico de arquivo e documentação passa a designar-se de auxiliar técnico de BAD.
 
-###### Art. 7.º O quadro anexo ao [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro, é alterado de acordo com o mapa anexo ao presente diploma.
+Art. 7.º O quadro anexo ao [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro, é alterado de acordo com o mapa anexo ao presente diploma.
 
-###### Art. 8.º O presente diploma produz efeitos à data da entrada em vigor do [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro.
+Art. 8.º O presente diploma produz efeitos à data da entrada em vigor do [Decreto Regulamentar Regional n.º 30/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1987-497471), de 4 de Novembro.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 28 de Julho de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 31 de Agosto de 1988.**
+Assinado em Angra do Heroísmo em 31 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 Mapa a que se refere o artigo 7.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/23400/41264127.pdf))](https://files.diariodarepublica.pt/1s/1988/10/23400/41264127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/23400/41264127.pdf)

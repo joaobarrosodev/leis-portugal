@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/41/2012/12/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2012-190386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59525da0ad37fe460d248bd0ceb099673800ddcff802e03ef926ef5a1f435fcf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b77ad506be94c6ca288fa27d1608ac6cf4b70c3c7270cf2653461bb6a93bcd0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estrada
-- EDM
-- Proteção do Ambiente
-- Madeira.região Autónoma
 - ÁREA NON Aedificandi
+- EDM
+- Estrada
+- Madeira.região Autónoma
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:258721:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:258721:por
+  label: "Determinado que se consideram reportadas e são diretamente exercidas pela Direção Regional de Estradas (DRE), as\
+    \ competências cometidas à RAMEDM - Estradas da Madeira, S.A. (RAMEDM) no DLR 15/93/M, de 04-set, alterado pelo presente\
+    \ diploma, pelo DRR.4/2013/M.14.02.2013.PG-RAM, DR.IS [32] de 14.02.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2013-258721
+  date: '2013-02-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15/1993/09/04/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/15/1993/09/04/m/dre
 article_structure:
-  article_count: 32
+  article_count: 28
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:37Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +187,9 @@ d) ...
 
 7 - (Revogado.)
 
-###### Artigo 11º — [...]
+Artigo 11º
+
+[...]
 
 1 - Podem ser autorizadas pela RAMEDM - Estradas da Madeira, S. A., obras de ampliação ou modificação de edifícios já existentes na faixa com servidão non aedificandi, para efeito de dotá-las de melhoramentos de condições de implantação urbanística, paisagística ou de salubridade, quando se não preveja a necessidade de os demolir em futuro próximo para melhoria das condições de trânsito, sendo requisito de tais autorizações:
 
@@ -196,7 +205,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 12º — [...]
+Artigo 12º
+
+[...]
 
 1 - ...
 
@@ -208,11 +219,15 @@ b) ...
 
 3 - As construções mencionadas no presente artigo podem ser recusadas quando, por razões estéticas ou de volumetria, haja prejuízo para a paisagem ou para a segurança do trânsito.
 
-###### Artigo 13º — [...]
+Artigo 13º
+
+[...]
 
 Na ausência de específicas medidas preventivas, a constar de portaria do Vice-Presidente do Governo Regional, o regime definido no presente diploma para a zona de proteção à estrada é aplicável desde a publicação no Jornal Oficial da aprovação do estudo prévio de uma estrada regional ou de qualquer documento base equivalente, nomeadamente plantas ou esboços corográficos com base em cartas de escala rigorosa.
 
-###### Artigo 22º — [...]
+Artigo 22º
+
+[...]
 
 1 - ...
 
@@ -252,11 +267,11 @@ O Decreto Legislativo Regional nº 15/93/M, de 4 de setembro com as alterações
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de novembro de 2012.
 
-**O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 11 de dezembro de 2012.**
+Assinado em 11 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

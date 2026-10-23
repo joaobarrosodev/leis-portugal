@@ -46,36 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/3-1981-569115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17950430219fc5906ee940f2a7b565eca59386420e4146fb288cc6a0e21e8c4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd81bbbb1dccf64934004151800b7adcc06f53cdcf356fe1cc082e70c33bff09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+- Plano Económico
+relationships:
+- type: cites
+  target: pt:dre:324943:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516240:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:34Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +113,7 @@ A Comissão para os Assuntos Económicos e Financeiros, reunida em Ponta Delgada
 
 Assembleia Regional dos Açores, 3 de Setembro de 1981. - A Comissão para os Assuntos Económicos e Financeiros: Carlos Manuel Teixeira, presidente - Jorge Castanheira Cruz, relator - Avelino Rodrigues, secretário - José Maria Cabral - Cinelandia Congumbreiro - Carlos César - Fernando António Monteiro da Câmara Pereira.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
 ## ANEXO I — Alteração do Plano da Região Autónoma dos Açores para 1981
 
@@ -112,7 +135,7 @@ Do sector educação é retirado o montante de 2000 contos do programa n.º 5 - 
 
 A nível de projecto, o impacte é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentações:
 
@@ -128,7 +151,7 @@ Esta verba é retirada do programa n.º 7 - Melhoria da rede de serviços.
 
 A nível de projecto, o ajustamento verificado é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentações:
 
@@ -138,7 +161,7 @@ No primeiro caso, dificuldades na escolha do terreno para o Centro de Saúde de 
 
 No sector agora em análise observa-se uma redução de 6700 contos, que se distribuem pelos programas e projectos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentações:
 
@@ -152,7 +175,7 @@ Do sector emprego verifica-se a retirada de 4000 contos do programa n.º 13 - Fo
 
 A nível de projecto, temos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentação:
 
@@ -168,7 +191,7 @@ A redução em causa é justificada pela impossibilidade de concretização de a
 
 O programa n.º 17 - Apoio aos Serviços de Incêndio e de Protecção Civil apresenta uma redução de 2200 contos. O impacte de tal redução a nível de projecto é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentação:
 
@@ -178,25 +201,25 @@ A redução em causa é justificada pelo facto de alguns dos projectos de constr
 
 Do presente sector é retirado o montante de 12000 contos com destino às autarquias, para além de ajustamentos indispensáveis à execução do Plano para 1981:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentação:
 
 A redução em causa é justificada pelo atraso na construção do armazém da lagoa do Congro, na ilha de São Miguel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentação:
 
 A redução em causa é justificada pela não efectivação da encomenda de uma máquina de ordenha destinada à ilha das Flores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentação:
 
 A redução em causa é justificada pelo atraso legislativo para a concessão de subsídios para fomento florestal.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentações:
 
@@ -204,13 +227,13 @@ O reforço de verba é justificado pelo ritmo de execução atingido na constru�
 
 A redução é justificada pelo atraso na elaboração do projecto para a instalação dos serviços veterinários do Pico.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentação:
 
 A redução em causa é justificada pelo atraso legislativo respeitante à metodologia a seguir na concessão de bonificação aos juros em vigor no domínio agro-pecuário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentação:
 
@@ -220,7 +243,7 @@ A redução em causa é justificada pela não execução de parte do programado 
 
 Ao sector das pescas é deduzido o montante de 4000 contos, verba esta que se reflecte no programa n.º 27 - Reconversão da frota pesqueira, mais precisamente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentação:
 
@@ -232,7 +255,7 @@ Do sector em análise é retirado o montante de 500 contos com destino à aplica
 
 A nível de projecto, temos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentações:
 
@@ -246,7 +269,7 @@ Verifica-se uma redução de 18000 contos no montante da verba consignada a este
 
 Ao nível de programa/projecto a redução é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentações:
 
@@ -262,7 +285,7 @@ Do sector do turismo assiste-se à redução da verba de 5000 contos com destino
 
 Assim, teremos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentações:
 
@@ -276,7 +299,7 @@ Do sector dos transportes é retirada a verba de 50000 contos, com destino às a
 
 Os ajustamentos ao nível de programa/projecto são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentações:
 
@@ -290,7 +313,7 @@ Verifica-se um montante de redução nos programas n.os 39 e 40 num total de 120
 
 No sector em análise verifica-se a redução de 5500 contos, cuja distribuição por programas/projectos é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentações:
 
@@ -306,7 +329,7 @@ Do sector em causa verifica-se uma transferência, num total de 7500 contos, com
 
 Ao nível de programa/projecto a redução foi a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Fundamentações:
 
@@ -340,15 +363,15 @@ No entanto, para além das comparticipações do Governo Central, houve que cons
 
 Por este facto, e de acordo com o que preceituam os diplomas atrás referidos, os encargos a suportar pela Região atingem o montante de 169198 contos, pelo que se constitui este novo programa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Mapas por sectores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Mapas por entidades executoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 ## ANEXO II — Alteração ao orçamento da Região Autónoma dos Açores para 1981
 
@@ -358,6 +381,6 @@ Por outro lado, ultrapassado o 1.º semestre de execução do orçamento regiona
 
 Resumo de despesa por secretarias regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf))](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/25400/29082917.pdf)
 
 Assembleia Regional dos Açores, 3 de Setembro de 1981. - O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.

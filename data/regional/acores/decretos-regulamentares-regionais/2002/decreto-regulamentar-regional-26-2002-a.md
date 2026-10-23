@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/26/2002/09/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2002-637469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 509857cfb7f69abd65af3f42066d6b9e0a2cdcc0288d381eede7a173aeb1415f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e31ce2256bc02416c6920abfb08c48efaa2a20bca45c46258253c60c1694777c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
+- Açores
 - ÁREA Escolar
 - Conselho Pedagógico
 - Definição de Competências
-- Gestão Escolar
 - Direcção Regional de Educação
-- Estabelecimento de Ensino
-- Ensino Básico
-- Regulamento Interno
-- Açores
 - Educação Pré-escolar
+- Ensino Artístico
+- Ensino Básico
+- Estabelecimento de Ensino
+- Gestão Escolar
+- Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:539978:por
@@ -106,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/16/1999/11/30/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/16/1999/11/30/a/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639913:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:227009:por
+  label: "Revogado pelo DLR.12/2005/A.20.05.2005.AL-RAA, DR.IS-A [114] de 16.06.2005, sem prejuízo da sua aplicação transitória\
+    \ estabelecida nos termos do art. 141º daquele diploma, e mantidas todavia em vigor, até à publicação do decreto regulamentar\
+    \ regional previsto no art. 139º do citado diploma, as normas referentes a crédito global e condições de exercício de\
+    \ funções constantes dos arts. 16º a 22º deste presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2005-227009
+  date: '2005-05-20'
 article_structure:
   article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:34Z'
   warnings: []
   errors: []
 ---
@@ -620,10 +652,10 @@ d) O Despacho Normativo n.º 212/90, de 23 de Outubro, o Despacho Normativo n.º
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 12 de Julho de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Agosto de 2002.**
+Assinado em Angra do Heroísmo em 13 de Agosto de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/079b00/18411841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/1999/04/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1999-138815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b4f163deec4146b48d4f389976c6e5a70adfeff4632e975489367be43b4772f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a1dd894f49c93a4d5e38c8601f1bdc563e69dff4769cfea3782d040c8ad216a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
+- Açores
 - Conselho Regional de Incentivos
 - Definição de Competências
-- Secretaria Regional das Finanças Planeamento e Administração Pública
+- Governo Regional
 - Orgânica
-- Açores
+- Secretaria Regional das Finanças Planeamento e Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:152710:por
@@ -85,16 +85,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre
+- type: cites
+  target: pt:dre:298837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152710:por
+  label: "Revogado pelo DRR.13/2002/A.2002.04.30.PG-RAA, DR.IS-B [121] de 25/Mai/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2002-152710
+  date: '2002-04-30'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:09Z'
   warnings: []
   errors: []
 ---
@@ -127,10 +140,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 11 de Fevereiro de 1999.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 16 de Março de 1999.**
+Assinado em Angra do Heroísmo em 16 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

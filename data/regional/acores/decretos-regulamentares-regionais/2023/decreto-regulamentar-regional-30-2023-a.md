@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20800/0000500037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/30/2023/10/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2023-223336984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 391fb4336d25802f77f05dc8b13656c759ba61257b5e7d83d128b56b153e5bc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9eb9b2ffe113e70c72e73c2573130b027f49ec1cc5fdf9177f5b3a873008962
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ILHA Terceira
 - Ordenamento do Território
 - Orla Costeira
-- Proteção do Ambiente
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
+- Proteção do Ambiente
 - Regulamento
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/11/2011/04/20/a/dre
@@ -90,16 +90,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/1/2005/02/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/1/2005/02/15/a/dre
+- type: cites
+  target: pt:dre:126669989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604197:por
+  label: null
+  source: null
 article_structure:
   article_count: 55
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:55Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +174,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Madalena, em 28 de setembro de 2023.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 23 de outubro de 2023.**
+Assinado em Angra do Heroísmo em 23 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -170,7 +186,7 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 REGULAMENTO DO PLANO DE ORDENAMENTO DA ORLA COSTEIRA DA ILHA TERCEIRA
 
-## TÍTULO I
+TÍTULO I
 
 Disposições gerais
 
@@ -262,7 +278,7 @@ f) Atualização dos estudos de caracterização da área de intervenção, cont
 
 Para efeitos da aplicação do Regulamento, são consideradas as definições e conceitos constantes na legislação em vigor.
 
-## TÍTULO II
+TÍTULO II
 
 Servidões administrativas e restrições de utilidade pública
 
@@ -366,7 +382,7 @@ d) Cabos submarinos.
 
 11 - A delimitação da reserva ecológica bem como do domínio hídrico na planta de condicionantes deste Plano tem carácter indicativo e está sujeita ao disposto na legislação em vigor sobre a matéria.
 
-## TÍTULO III
+TÍTULO III
 
 Disposições comuns aos regimes de gestão da área de intervenção
 
@@ -424,7 +440,7 @@ b) Áreas agrícolas, florestais e outros usos.
 
 2 - A aprovação da instalação de edifícios sensíveis fica condicionada ao parecer prévio do departamento do Governo Regional competente em matéria de ordenamento do território, de recursos hídricos e de proteção civil.
 
-## TÍTULO IV
+TÍTULO IV
 
 Regimes de gestão da zona A
 
@@ -920,7 +936,7 @@ b) Embarcações motorizadas incluindo barcos e jet skis.
 
 8 - As infraestruturas portuárias classificadas como classe E, designadas como portinhos que venham a ter uso balnear devem ser mantidas como infraestruturas de uso múltiplo, condicionadas pelas utilizações definidas no regime jurídico das zonas balneares e demais legislação específica.
 
-## TÍTULO V
+TÍTULO V
 
 Princípios de ocupação da zona B
 
@@ -978,7 +994,7 @@ l) Promover a ocupação urbana equilibrada evitando a dispersão de edificaçõ
 
 Sem prejuízo das disposições gerais instituídas no presente Regulamento, as áreas agrícolas, florestais e outros usos regem-se pelo disposto nos respetivos planos territoriais.
 
-## TÍTULO VI
+TÍTULO VI
 
 Disposições finais e transitórias
 
@@ -1100,10 +1116,10 @@ São nulos os atos administrativos praticados em violação das normas, dos prin
 
 Tipologias admitidas na classificação da zona balnear
 
-|  |  |  |  |  |
+| Área de aptidão balnear | Zona balnear: tipologias admitidas |  |  |  |
 | --- | --- | --- | --- | --- |
-| Área de aptidão balnear | Zona balnear: tipologias admitidas | Zona balnear: tipologias admitidas | Zona balnear: tipologias admitidas | Zona balnear: tipologias admitidas |
-| Área de aptidão balnear | Tipo 4 | Tipo 3 | Tipo 2 | Tipo 1 |
+| Tipo 4 | Tipo 3 | Tipo 2 | Tipo 1 |  |
+|  |  |  |  |  |
 | Angra do Heroísmo: |  |  |  |  |
 | Altares - Foz da Ribeira da Pamplona... | X | X |  |  |
 | Baía do Refugo... | X | X |  |  |
@@ -1136,33 +1152,43 @@ Tipologias admitidas na classificação da zona balnear
 
 Constituição e dimensionamento dos apoios de zona balnear
 
-|  |  |  |
-| --- | --- | --- |
 | Tipo de apoio balnear | Funções e serviços de utilidade pública obrigatórios | Dimensionamento (valores máximos) |
-| AS - apoio balnear simples | Instalações sanitárias (com acesso exterior independente) Posto de socorro... Comunicações de emergência... Informação... Vigilância e assistência a banhistas... Limpeza da zona balnear e recolha de resíduos... Eventualmente outras funções e serviços, nomeadamente comerciais e de armazenamento de material de apoio ao funcionamento da zona balnear (facultativo). | Área de construção (igual ou menor que) 50 m2. |
-| AC - apoio balnear completo | Vestiários e balneários... Instalações sanitárias (com acesso exterior independente) Posto de socorro... Comunicações de emergência... Informação... Vigilância, assistência e salvamento de banhistas... Limpeza da zona balnear e recolha de resíduos... Eventualmente outras funções e serviços, nomeadamente comerciais e de armazenamento de material de apoio ao funcionamento da zona balnear (facultativo). | Área de construção (igual ou menor que) 100 m2. |
+| --- | --- | --- |
+|  |  |  |
+| AS - apoio balnear simples | Instalações sanitárias (com acesso exterior independente)<br>Posto de socorro...<br>Comunicações de emergência...<br>Informação...<br>Vigilância e assistência a banhistas...<br>Limpeza da zona balnear e recolha de resíduos...<br>Eventualmente outras funções e serviços, nomeadamente comerciais e de armazenamento de material de apoio ao funcionamento da zona balnear (facultativo). | Área de construção (igual ou menor que) 50 m2. |
+| AC - apoio balnear completo | Vestiários e balneários...<br>Instalações sanitárias (com acesso exterior independente)<br>Posto de socorro...<br>Comunicações de emergência...<br>Informação...<br>Vigilância, assistência e salvamento de banhistas...<br>Limpeza da zona balnear e recolha de resíduos...<br>Eventualmente outras funções e serviços, nomeadamente comerciais e de armazenamento de material de apoio ao funcionamento da zona balnear (facultativo). | Área de construção (igual ou menor que) 100 m2. |
 | AB - apoio balnear... | Tem por objetivo complementar os apoios de zona balnear ou os equipamentos com função de apoio de zona balnear correspondendo a uma estrutura amovível para arrecadação de material de apoio à zona balnear. | Área de construção para arrecadação de material (igual ou menor que) 12 m2. |
 
 ## ANEXO II — (a que se refere o artigo 1.º)
 
 Planta de síntese
 
-![](https://files.diariodarepublica.pt/images/223336984/223255234.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223336984/223255234.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223336984/223255235.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223336984/223255235.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223336984/223255236.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223336984/223255236.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223336984/223255237.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223336984/223255237.png) |
+| --- |
 
 ## ANEXO III — (a que se refere o artigo 1.º)
 
 Planta de condicionantes
 
-![](https://files.diariodarepublica.pt/images/223336984/223255238.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223336984/223255238.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223336984/223255239.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223336984/223255239.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223336984/223255240.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223336984/223255240.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223336984/223255241.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223336984/223255241.png) |
+| --- |
+
+116983209

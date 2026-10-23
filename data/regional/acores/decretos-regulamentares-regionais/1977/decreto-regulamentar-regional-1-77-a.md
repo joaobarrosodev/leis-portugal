@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1977-141441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef9b115a2cd5603d9ccf9d6bf3c269049b425ebae51160b3ea249112e9ac6199
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea48ed8249f118e78347b12e69ecdc4d7ccd8f0759211103ac21f61c98343a34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Dotação Orçamental
+- Orçamento Regional
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:34Z'
   warnings: []
   errors: []
 ---
@@ -114,17 +117,17 @@ Em execução da resolução da Assembleia Regional de 26 de Outubro de 1976:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea f), da Constituição, o seguinte:
 
-###### Artigo 1.º O Governo da Região Autónoma dos Açores procederá em 1977 à arrecadação, pelos serviços competentes, das contribuições, impostos, taxas, adicionais e outras receitas atribuídas à Região e à obtenção dos recursos indispensáveis à administração financeira, de harmonia com as normas legais aplicáveis, e utilizará o seu produto no pagamento das despesas inscritas no orçamento da Região respeitantes ao mesmo ano.
+Artigo 1.º O Governo da Região Autónoma dos Açores procederá em 1977 à arrecadação, pelos serviços competentes, das contribuições, impostos, taxas, adicionais e outras receitas atribuídas à Região e à obtenção dos recursos indispensáveis à administração financeira, de harmonia com as normas legais aplicáveis, e utilizará o seu produto no pagamento das despesas inscritas no orçamento da Região respeitantes ao mesmo ano.
 
-###### Art. 2.º Os impostos, directos e indirectos, e os mais rendimentos, recursos e outras receitas da Região ou a ela atribuídas no ano de 1977 são avaliadas em 1665466000$00, sendo 619393000$00 de receitas correntes, 714273000$00 de receitas de capital e 331800000$00 de receitas consignadas para diversas entidades, conforme mapa n.º 1, que faz parte do presente diploma.
+Art. 2.º Os impostos, directos e indirectos, e os mais rendimentos, recursos e outras receitas da Região ou a ela atribuídas no ano de 1977 são avaliadas em 1665466000$00, sendo 619393000$00 de receitas correntes, 714273000$00 de receitas de capital e 331800000$00 de receitas consignadas para diversas entidades, conforme mapa n.º 1, que faz parte do presente diploma.
 
-###### Art. 3.º São fixadas as despesas para o ano de 1977 na quantia de 1665466000$00, sendo as correntes de 502199781$00, as de capital de 831466219$00 e as respeitantes a pagamentos a diversas entidades por consignação de receitas de 331800000$00, conforme mapa n.º 2, que faz parte do presente diploma.
+Art. 3.º São fixadas as despesas para o ano de 1977 na quantia de 1665466000$00, sendo as correntes de 502199781$00, as de capital de 831466219$00 e as respeitantes a pagamentos a diversas entidades por consignação de receitas de 331800000$00, conforme mapa n.º 2, que faz parte do presente diploma.
 
-###### Art. 4.º - 1. Na execução do orçamento da Região para 1977 os serviços regionais, as autarquias locais e as entidades tuteladas ou subsidiadas pelo Governo Regional deverão observar normas de rigorosa economia na administração das verbas atribuídas às respectivas despesas.
+Art. 4.º - 1. Na execução do orçamento da Região para 1977 os serviços regionais, as autarquias locais e as entidades tuteladas ou subsidiadas pelo Governo Regional deverão observar normas de rigorosa economia na administração das verbas atribuídas às respectivas despesas.
 
 2. Os dirigentes dos diferentes departamentos ficarão responsáveis, nos termos das leis em vigor, pela realização das despesas que autorizarem sem inscrição orçamental ou que não se comportem nas correspondentes dotações.
 
-###### Art. 5.º - 1. Em 1977 não ficam sujeitas à regra geral de duodécimos as seguintes dotações:
+Art. 5.º - 1. Em 1977 não ficam sujeitas à regra geral de duodécimos as seguintes dotações:
 
 a) De valor até 50000$00;
 
@@ -136,38 +139,38 @@ c) De despesas sujeitas a duplo cabimento ou a reembolso.
 
 3. Mediante autorização do Secretário Regional das Finanças, obtida por intermédio dos serviços regionais da contabilidade pública, podem ser antecipados, total ou parcialmente, os duodécimos de quaisquer outras dotações orçamentais.
 
-###### Art. 6.º Transitoriamente, a realização de despesas superiores a 50000$00 carece do visto do Secretário Regional das Finanças, com excepção das com encargos fixos mensais ou que se vençam em data certa.
+Art. 6.º Transitoriamente, a realização de despesas superiores a 50000$00 carece do visto do Secretário Regional das Finanças, com excepção das com encargos fixos mensais ou que se vençam em data certa.
 
-###### Art. 7.º A dotação para quadros do funcionalismo regional, departamental e interdepartamental, a criar, atribuídos à Secretaria Regional das Finanças será aplicada de acordo com um plano geral de estruturação desses quadros aprovado pelo Governo Regional.
+Art. 7.º A dotação para quadros do funcionalismo regional, departamental e interdepartamental, a criar, atribuídos à Secretaria Regional das Finanças será aplicada de acordo com um plano geral de estruturação desses quadros aprovado pelo Governo Regional.
 
-###### Art. 8.º - 1. Enquanto não for definida a integração do pessoal das secretarias das extintas juntas gerais nos serviços regionais, mantêm-se inscritas no orçamento corrente da Secretaria Regional da Administração Pública as dotações respectivas.
+Art. 8.º - 1. Enquanto não for definida a integração do pessoal das secretarias das extintas juntas gerais nos serviços regionais, mantêm-se inscritas no orçamento corrente da Secretaria Regional da Administração Pública as dotações respectivas.
 
 2. Quando se tornar efectivo o disposto no número anterior, as dotações serão distribuídas pelas respectivas secretarias regionais, de acordo com o aprovado pelo Governo Regional.
 
-###### Art. 9.º A atribuição de subsídios ou comparticipações às autarquias locais e outras entidades de interesse público para obras, melhoramentos ou outras finalidades constará de programas a aprovar pelo Governo Regional.
+Art. 9.º A atribuição de subsídios ou comparticipações às autarquias locais e outras entidades de interesse público para obras, melhoramentos ou outras finalidades constará de programas a aprovar pelo Governo Regional.
 
-###### Art. 10.º Este diploma entra em vigor no dia 1 de Janeiro de 1977.
+Art. 10.º Este diploma entra em vigor no dia 1 de Janeiro de 1977.
 
 Aprovado em plenário do Governo Regional em 29 de Dezembro de 1976.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada em 20 de Janeiro de 1977.**
+Assinado em Ponta Delgada em 20 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio Carvalho Galvão de Figueiredo.
 
 MAPA N.º 1
 
 Resumo da receita por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03200/02020204.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03200/02020204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03200/02020204.pdf)
 
 MAPA N.º 2
 
 Resumo da despesa por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/02/03200/02020204.pdf))](https://files.diariodarepublica.pt/1s/1977/02/03200/02020204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/02/03200/02020204.pdf)
 
-**O Presidente do Governo Regional, João Rosco Mota Amaral.**
+O Presidente do Governo Regional, João Rosco Mota Amaral.

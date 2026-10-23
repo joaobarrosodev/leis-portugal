@@ -48,36 +48,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/5-1982-397762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 047217103fe36bc1d1488b9a0e3f6fc3a05ca65a7e8d28c5bb9fa1426f2608c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 317cd0bfb45459d79f8ba975d16d2d453d3dbf11b4feea987e4f8845f0bed76c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Assembleia Regional
+- Autonomia Regional
+- Eleição Regional
+- Inconstitucionalidade
+relationships:
+- type: cites
+  target: pt:dre:232941:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472094:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:39Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +109,7 @@ I
 
 O Conselho da Revolução, sob parecer da Comissão Constitucional, declarou com força obrigatória geral a inconstitucionalidade dos seguintes preceitos do [Decreto-Lei n.º 267/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1980-470458), de 8 de Agosto (Lei Eleitoral para a Assembleia Regional dos Açores), feito ao abrigo da [Lei n.º 21/80](https://diariodarepublica.pt/dr/detalhe/lei/21-1980-472094), de 26 de Julho:
 
-###### Artigo 4.º, na medida em que exige, como condição de ilegibilidade, uma residência na Região por mais de 2 anos, por violador do artigo 18.º, n.º 2, da Constituição;
+Artigo 4.º, na medida em que exige, como condição de ilegibilidade, uma residência na Região por mais de 2 anos, por violador do artigo 18.º, n.º 2, da Constituição;
 
 Artigos 3.º, n.º 2, 6.º, n.º 2, 12.º, n.os 3 e 4, 13.º, n.º 2, 17.º, 193.º e 195.º, por violadores do princípio da unidade do Estado, bem como - 5 deles apenas - do princípio da igualdade, este contido no artigo 13.º, n.os 1 e 2, da Constituição.
 
@@ -142,4 +163,4 @@ Desta maneira, a Assembleia Regional dos Açores resolve solicitar ao Conselho d
 
 Aprovado em Assembleia Regional dos Açores em 30 de Junho de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.

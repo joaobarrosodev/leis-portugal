@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 276/1999, 2º Suplemento, Série I-A de 1999-11-26
   number: '276'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 8414-(6) a 8414-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28-b/1999/11/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-b-1999-476280
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97679bcab21f77e9b642d6a1798690c79364294d0794c2362a528afcfdef691b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1100b1403fa89822203506072dbb0cb842a8ab50f69ea48bc0d4ca537eeb7b2b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alteração Orçamental
-- Orçamento Regional
 - Madeira.região Autónoma
+- Orçamento Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/21-a/1999/08/24/m/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
+- type: cites
+  target: pt:dre:151291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:42Z'
   warnings: []
   errors: []
 ---
@@ -124,11 +140,11 @@ Este diploma produz efeitos desde 10 de Novembro de 1999.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 9 de Novembro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 25 de Novembro de 1999.**
+Assinado em 25 de Novembro de 1999.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA I
 
@@ -136,7 +152,7 @@ Receitas da Região
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 9/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1999-151291), de 4 de Março)
 
-[(ver mapa anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)
+[[[[(ver mapa anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)
 
 MAPA II
 
@@ -144,7 +160,7 @@ Despesas por departamentos regionais e capítulos
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 9/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1999-151291), de 4 de Março)
 
-[(ver mapa anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)
+[[[[(ver mapa anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)
 
 MAPA III
 
@@ -152,7 +168,7 @@ Despesas por classificação funcional
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 9/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1999-151291), de 4 de Março)
 
-[(ver mapa anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)
+[[[[(ver mapa anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)
 
 MAPA IV
 
@@ -160,7 +176,7 @@ Despesas por grandes agrupamentos económicos
 
 (substitui na parte alterada o mapa respectivo constante do [Decreto Legislativo Regional n.º 9/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1999-151291), de 4 de Março)
 
-[(ver mapa anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)
+[[[[(ver mapa anexo no documento original)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)](https://files.diariodarepublica.pt/1s/1999/11/276a02/00060011.pdf)
 
 MAPA IX
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2014/07/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2014-25345668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27167ced7280fc73ee662e08756a36dcb088545bcd4cd323a60832f5efe1e64b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae01a33211fbe54cc6d797c2a97580da548fcf136c64927b5f70e4618f45e765
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Animação Sócio-cultural
-- Instituição de Carácter Cultural
-- Financiamento
-- Manifestação Cultural
-- Governo Regional
+- Bolsa de Estudos
 - Contrato
-- Divulgação Cultural
-- Fiscalização
-- Intercâmbio Cultural
-- Página na Internet
 - Cooperação Cultural
 - Cultura
+- Divulgação Cultural
+- Financiamento
+- Fiscalização
+- Governo Regional
+- Instituição de Carácter Cultural
+- Intercâmbio Cultural
+- Manifestação Cultural
+- Página na Internet
 - Projeto
-- Regime Jurídico
-- Bolsa de Estudos
-- Relatório
 - Recinto Cultural
-- Açores
+- Regime Jurídico
+- Relatório
 - Subsídio
 relationships:
 - type: cites
@@ -102,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83/1999/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83/1999/02/03/p/dre
+- type: cites
+  target: pt:dre:184956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675648:por
+  label: null
+  source: null
 article_structure:
-  article_count: 39
+  article_count: 28
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:54Z'
   warnings: []
   errors: []
 ---
@@ -166,13 +182,17 @@ c) Aquisição de instrumentos musicais e respetivo material consumível, conser
 
 d) Custos de edição de obras culturais.
 
-###### Artigo 8.º — Bolsas de estudo, de formação e de criação
+Artigo 8.º
+
+Bolsas de estudo, de formação e de criação
 
 1 - As bolsas de estudo, de formação e de criação destinam-se a indivíduos que desenvolvam ou pretendam desenvolver atividades consideradas de relevante interesse cultural para a Região, para as quais seja determinante a formação especializada e a projetos individuais de criação e de pesquisa de linguagens nas áreas artísticas, criando condições materiais para que artistas e profissionais residentes nos Açores desenvolvam e produzam obras inéditas e de qualidade, ampliando a produção e a difusão das Artes.
 
 2 - [...].
 
-###### Artigo 9.º — Pedido de apoio
+Artigo 9.º
+
+Pedido de apoio
 
 1 - O pedido de apoio é efetuado em formulário próprio, em modelo a aprovar em diploma regulamentar, e é apresentado junto da direção regional com competência em matéria de cultura e respetivos serviços externos, designadamente museus e bibliotecas públicas e arquivos regionais.
 
@@ -204,7 +224,9 @@ k) Declaração comprovativa da situação tributária regularizada perante a Au
 
 4 - A direção regional com competência em matéria de cultura pode solicitar aos requerentes, sempre que considere necessário, informações detalhadas e documentos adicionais.
 
-###### Artigo 11.º — Período de apresentação dos pedidos de apoio
+Artigo 11.º
+
+Período de apresentação dos pedidos de apoio
 
 1 - O prazo de entrega de candidaturas será definido, anualmente, por despacho do membro do Governo Regional com competência em matéria de cultura, até ao dia 31 de janeiro, abrangendo as atividades a desenvolver no ano seguinte, para os apoios previstos no âmbito do artigo 2.º
 
@@ -222,7 +244,9 @@ e) Fatores de majoração;
 
 f) Composição das comissões de apreciação.
 
-###### Artigo 12.º — Exclusão dos pedidos de apoio
+Artigo 12.º
+
+Exclusão dos pedidos de apoio
 
 1 - A direção regional com competência em matéria de cultura deve excluir os pedidos de apoio quando os requerentes:
 
@@ -244,13 +268,17 @@ h) Tenham sido apoiados integralmente por outras entidades oficiais.
 
 2 - São consideradas não elegíveis as entidades de natureza pública, nomeadamente, empresas municipais e intermunicipais, sejam elas sociedades municipais e intermunicipais, sociedades comerciais constituídas nos termos da legislação comercial, ou pessoas coletivas de direito público com natureza empresarial.
 
-###### Artigo 13.º — Comissão de apreciação
+Artigo 13.º
+
+Comissão de apreciação
 
 1 - A apreciação das candidaturas será efetuada por comissões de apreciação a constituir por despacho do membro do Governo Regional com competência em matéria de cultura, de acordo com cada uma das alíneas do artigo 2.º
 
 2 - A composição das comissões de apreciação previstas no número anterior será fixada no diploma que regulamentar a concessão dos apoios em cada uma das alíneas do artigo 2.º
 
-###### Artigo 14.º — Concessão de apoio
+Artigo 14.º
+
+Concessão de apoio
 
 1 - O membro do Governo Regional com competência em matéria de cultura decide, no prazo de quinze dias úteis a contar da data de receção das atas contendo as deliberações finais das comissões de apreciação, sobre a viabilidade do apoio e do montante a atribuir.
 
@@ -274,7 +302,9 @@ d) Decorridos trinta dias após a data prevista para a conclusão da atividade n
 
 7 - [...].
 
-###### Artigo 16.º — Obrigações dos requerentes
+Artigo 16.º
+
+Obrigações dos requerentes
 
 1 - [...]:
 
@@ -298,7 +328,9 @@ c) [...];
 
 d) Entrega de obras produzidas ou publicadas.
 
-###### Artigo 17.º — Acompanhamento e controlo
+Artigo 17.º
+
+Acompanhamento e controlo
 
 1 - [...].
 
@@ -310,7 +342,9 @@ d) Entrega de obras produzidas ou publicadas.
 
 5 - No caso de situações de falência ou fusão de editoras, que ponham em risco a publicação de uma edição, considera-se anulado o contrato celebrado com a editora.
 
-###### Artigo 19.º — Regulamentação
+Artigo 19.º
+
+Regulamentação
 
 Os regulamentos e formulários necessários à concessão dos apoios previstos no presente diploma são aprovados por decreto regulamentar regional, no prazo de sessenta dias contados a partir da data da publicação do presente decreto legislativo regional.»
 
@@ -322,7 +356,9 @@ São aditados ao [Decreto Legislativo Regional n.º 29/2006/A](https://diariodar
 
 Conclusão do processo
 
-###### Artigo 17.º-A — Relatório final
+Artigo 17.º-A
+
+Relatório final
 
 1 - O relatório final, de execução técnica e financeira, deverá ser um documento detalhado e pormenorizado, com informação exaustiva, sintética e fundamentada, respeitando os projetos e as atividades desenvolvidas apresentadas na candidatura e dando cumprimento ao contrato de financiamento.
 
@@ -354,17 +390,19 @@ a) Cópias dos documentos de despesa relativos à totalidade dos projetos e das 
 
 b) Descrição das despesas efetuadas ao abrigo do subsídio atribuído pela direção regional com competência em matéria de cultura, de acordo com o seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf))](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf)
 
 c) Descrição do custo total dos projetos e das atividades desenvolvidas, do valor do financiamento próprio, do valor de outros financiamentos, do valor do subsídio atribuído pela direção regional com competência em matéria de cultura, e se for o caso, do valor a ser devolvido à direção regional com competência em matéria de cultura, de acordo com o seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf))](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf)
 
 d) Justificação de eventuais desvios financeiros.
 
 6 - O relatório final, bem como a análise efetuada pelos serviços da direção regional com competência em matéria de cultura, serão remetidos à Comissão de Apreciação para que esta elabore um relatório que sintetize a avaliação da execução do programa de atividades e a respetiva gestão e execução financeira.
 
-###### Artigo 17.º-B — Relatório de avaliação
+Artigo 17.º-B
+
+Relatório de avaliação
 
 O relatório redigido pela Comissão de Apreciação é entregue ao diretor regional com competência em matéria de cultura que elaborará um relatório de avaliação, do qual conste a apreciação da comissão bem como a apreciação final dos serviços técnicos da direção regional com competência em matéria de cultura, a ser enviado a cada uma das entidades beneficiárias.»
 
@@ -382,11 +420,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de abril de 2014.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 4 de junho de 2014.**
+Assinado em Angra do Heroísmo em 4 de junho de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -666,11 +704,11 @@ a) Cópias dos documentos de despesa relativos à totalidade dos projetos e das 
 
 b) Descrição das despesas efetuadas ao abrigo do subsídio atribuído pela direção regional com competência em matéria de cultura, de acordo com o seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf))](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf)
 
 c) Descrição do custo total dos projetos e das atividades desenvolvidas, do valor do financiamento próprio, do valor de outros financiamentos, do valor do subsídio atribuído pela direção regional com competência em matéria de cultura, e se for o caso, do valor a ser devolvido à direção regional com competência em matéria de cultura, de acordo com o seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf))](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/07/12600/0367203680.pdf)
 
 d) Justificação de eventuais desvios financeiros.
 

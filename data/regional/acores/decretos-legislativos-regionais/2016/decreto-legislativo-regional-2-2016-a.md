@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2016/01/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2016-73115709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81b5246568d4710aa3bb4f38dbf77668aa15f1d9a55fdfb3ddb703eedf1e1a90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 952b01f429af8135720b4bc39b31ade72db16d3c58ba53387a4fa2a35a9a2bb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,96 +66,96 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Imigração
-- Programa de Desenvolvimento Rural
-- Empreendedorismo
-- Proteção Civil
-- Financiamento
-- Património
-- Empresa
-- Modernização Administrativa
-- Turismo
-- Formação Profissional
-- Investigação Científica e Tecnológica
-- Transporte Marítimo
-- Desenvolvimento Rural
-- Juventude
-- Ordenamento do Território
-- Terceira Idade
-- Comunicação Social
-- Governo Regional
-- Política de Cooperação
-- Saúde
-- Desenvolvimento Cultural
-- Desenvolvimento Regional
-- Desenvolvimento Social
-- Mudança Tecnológica
-- Artesanato
-- Competitividade Empresarial
-- Feader
-- Política Energética
-- Entidade sem FINS Lucrativos
-- União Europeia
+- Açores
 - Administração Pública
-- Património Cultural
-- Política de Saúde
-- Política Externa
-- FEDER
-- Formação Complementar
-- Fundo de Coesão
-- Pesca
+- Administração Regional
+- Agricultura
 - Apoio ao Investimento
-- Universidade dos Açores
-- Jovem
+- Aquicultura
+- Artesanato
+- Autarquia Local
 - Base de Dados
-- TIC
+- Centro de Saúde
 - Competitividade da Economia
+- Competitividade Empresarial
+- Comunicação Social
+- Criação de Emprego
+- Desemprego
+- Desenvolvimento Cultural
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Desenvolvimento Social
+- Desporto
+- Emigração
+- Empreendedorismo
+- Empresa
+- Energia
+- Entidade sem FINS Lucrativos
+- Feader
+- FEDER
+- Financiamento
+- Formação Complementar
+- Formação Profissional
+- FSE
+- Fundo de Coesão
+- Governo Regional
+- Imigração
+- Investigação Científica e Tecnológica
 - Investimento Público
 - Jornal Oficial
+- Jovem
 - Jovem Trabalhador
-- Centro de Saúde
-- FSE
-- Criação de Emprego
-- Política de Transportes
+- Juventude
+- Modernização Administrativa
+- Mudança Tecnológica
 - Museu
 - Museu Carlos Machado
 - Museu dos Baleeiros das Lajes do Pico
 - Obras Públicas
-- Aquicultura
+- Ordenamento do Território
+- Património
+- Património Cultural
+- Património Natural
 - PDRU-Açores
+- Pecuária
+- Pesca
 - Planeamento Regional
 - Plano de Investimentos
-- Desenvolvimento Económico
 - Plano Regional
-- Emigração
+- Política Agrícola
 - Política Cultural
+- Política de Cooperação
+- Política de Educação
+- Política de Emprego
 - Política de Investigação e Desenvolvimento
+- Política de Juventude
+- Política de Saúde
+- Política de Transportes
 - Política do Ambiente
 - Política Económica
-- Política de Educação
+- Política Energética
+- Política Externa
 - Política Financeira
 - Política Social
-- Urbanismo
-- Energia
 - Programa Comunitário
-- Desemprego
-- Prorural
-- Qualificação Profissional
+- Programa de Desenvolvimento Rural
 - Programa de Requalificação Urbana
 - Programa Operacional
-- Política de Emprego
-- Política Agrícola
-- Património Natural
+- Prorural
+- Proteção Civil
+- Qualificação Profissional
 - Regiões Ultraperiféricas
-- Política de Juventude
-- Pecuária
-- Agricultura
-- Administração Regional
-- Açores
+- Saúde
 - Sistema Educativo
 - Subsídio
-- Desporto
-- Autarquia Local
+- Terceira Idade
+- TIC
+- Transporte Marítimo
+- Turismo
+- União Europeia
+- Universidade dos Açores
+- Urbanismo
 relationships:
 - type: cites
   target: celex:31992R2080
@@ -213,16 +213,128 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/40/2002/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/40/2002/01/10/p/dre
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:64797341:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66357210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669284:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:13Z'
   warnings: []
   errors: []
 ---
@@ -243,11 +355,11 @@ A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 27 de novembro de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 30 de dezembro de 2015.**
+Assinado em Angra do Heroísmo em 30 de dezembro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -309,7 +421,7 @@ Indicadores para a Economia Mundial
 
 Taxa de variação anual em percentagem (salvo indicação em contrário)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 ECONOMIA PORTUGUESA
 
@@ -343,7 +455,7 @@ Indicadores para a Economia Portuguesa
 
 Taxa de variação anual em percentagem (salvo indicação em contrário)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 II. ANÁLISE DA SITUAÇÃO ECONÓMICA E SOCIAL DA REGIÃO
 
@@ -355,7 +467,7 @@ Este volume de população representa um saldo fisiológico nulo na medida em qu
 
 Evolução das Componentes dos Saldos Fisiológicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 A natalidade na RAA situa-se a um nível superior ao registado no conjunto do país. Todavia, tem vindo a reduzir-se em relação à dimensão que atingiu em anos anteriores e, também, em relação à mortalidade.
 
@@ -367,7 +479,7 @@ No extremo oposto, regista-se um decréscimo da faixa etária até 15 anos. A fa
 
 Estrutura Etária da População
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 . Aspetos macroeconómicos
 
@@ -385,7 +497,7 @@ Por sua vez, a riqueza média, medida pelo índice per capita, tem mantido uma p
 
 Produto Interno Bruto - (Base 2011), a preços de mercado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Mercado de Trabalho
 
@@ -397,7 +509,7 @@ Durante o primeiro semestre de 2015, o acréscimo de emprego e a correspondente 
 
 Condição da População Perante o Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Preços no Consumidor
 
@@ -413,7 +525,7 @@ Evolução intra-anual de Preços no Consumidor
 
 (base 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Evolução recente da conjuntura
 
@@ -421,7 +533,7 @@ Tomando a informação disponível para o período de programação 2013-2016, r
 
 Indicador e Atividade Económica (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Considerando a evolução por alguns setores de atividade, há a registar em termos gerais uma recuperação de produções, com maior expressão no setor dos serviços, onde o turismo se constitui como um dos pilares económicos na Região. Regista-se ainda uma recuperação algo instável no setor da construção civil, onde o número crescente do pedido de licenciamento para construção não encontra resposta nas vendas de cimento. A produção ligada à base económica tradicional tem uma evolução mais "suavizada", em razão da natureza dos produtos e do mercado.
 
@@ -429,7 +541,7 @@ Um dos indicadores mais representativos do consumo duradouro, venda de veículos
 
 Depois de um valor mínimo na taxa de emprego da população ativa, no primeiro trimestre 2014, os trimestres subsequentes até à atualidade apresentam uma forte recuperação, com a diminuição constante e sustentada das taxas de desocupação involuntária da população ativa. O consequente aumento da empregabilidade na Região teve uma maior expressão no corrente ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 III POLÍTICAS SETORIAIS DEFINIDAS PARA O PERÍODO ANUAL
 
@@ -1213,21 +1325,21 @@ Para "Afirmar a Identidade Regional e Promover a Cooperação Externa", está co
 
 Repartição do Investimento Público por Grandes Objetivos de Desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 INVESTIMENTO PÚBLICO 2016 - Desagregação por Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 INVESTIMENTO PÚBLICO 2016 - Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 QUADRO GLOBAL DE FINANCIAMENTO DA ADMINISTRAÇÃO PÚBLICA REGIONAL
 
 O investimento público, para o ano 2016, ascenderá a 782,8 milhões de euros, apresentando-se de seguida o seu quadro de financiamento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Esta política orçamental está enquadrada no âmbito de financiamento global previsto na Lei de Finanças das Regiões Autónomas, baseando-se na prossecução do seu integral cumprimento por parte do Governo da República e no pressuposto de uma correta afetação ao orçamento regional de todas as receitas fiscais efetivamente geradas na Região.
 
@@ -1247,7 +1359,7 @@ Programa 1 - Competitividade, Emprego e Gestão Pública
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -1431,7 +1543,7 @@ Programa 2 - Agricultura, Florestas e Desenvolvimento Rural
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -1597,7 +1709,7 @@ Programa 3 - Pescas e Aquicultura
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -1745,7 +1857,7 @@ Programa 4 - Desenvolvimento do Turismo
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -1815,7 +1927,7 @@ Programa 5 - Educação, Ciência e Cultura
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -2113,7 +2225,7 @@ Programa 6 - Desenvolvimento do Sistema de Saúde
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -2243,7 +2355,7 @@ Programa 7 - Solidariedade Social
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -2495,7 +2607,7 @@ Programa 8 - Habitação e Renovação Urbana
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -2557,7 +2669,7 @@ Programa 9 - Desporto e Juventude
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -2707,7 +2819,7 @@ Programa 10 - Transportes, Energia e Infraestruturas Tecnológicas
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -3071,7 +3183,7 @@ Programa 11 - Prevenção de Riscos e Proteção Civil
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -3181,7 +3293,7 @@ Programa 12 - Ambiente e Ordenamento
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -3401,7 +3513,7 @@ Programa 13 - Informação e Comunicação
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -3427,7 +3539,7 @@ Programa 14 - Comunidades e Cooperação Externa
 
 Programação Financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Programação Material
 
@@ -3513,11 +3625,11 @@ O financiamento comunitário para a Região para o período de 2007-2013 de 1,6 
 
 Programas Operacionais 2007-2013
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 A seguir apresenta-se uma sinopse das intervenções regionais de programação da política europeia de coesão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 O Programa Operacional dos Açores para a Convergência é um programa comparticipado pelo fundo estrutural FEDER, para o período de programação 2007-2013, enquadrado no Objetivo Comunitário Convergência, com execução na Região Autónoma dos Açores, integrado no Quadro de Referência Estratégico Nacional (QREN), com uma dotação de 966,3 milhões de euros de fundo comunitário, a que corresponde uma despesa pública global de 1,2 mil milhões de euros.
 
@@ -3545,7 +3657,7 @@ No âmbito da execução do Quadro de Referência Estratégica Nacional (QREN), 
 
 PROCONVERGENCIA - Ponto de situação a 31-08-2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Este programa operacional assenta numa grande finalidade estratégica que consiste na colocação da intervenção FSE ao serviço de um novo ciclo de desenvolvimento e de políticas públicas para a RAA no qual a qualificação das pessoas, o papel do conhecimento, a inovação na valorização dos recursos endógenos regionais e a disseminação de uma cultura de empreendimento e de iniciativa assumem um estatuto de prioridade máxima. A perceção dos desafios que tal mudança coloca à coesão social e territorial dos Açores conduz coerentemente à valorização da problemática do desenvolvimento social, incluindo neste domínio uma nova importância ao combate à iliteracia.
 
@@ -3557,7 +3669,7 @@ Em estreita relação com a finalidade estratégica acima mencionada, o PO organ
 
 . Modernização do tecido produtivo e apoio ao empreendedorismo;
 
-. Empregabilidade e empreendedorismo com base em I&D;
+. Empregabilidade e empreendedorismo com base em I&D
 
 . Competitividade regional na sociedade da informação e do conhecimento;
 
@@ -3623,7 +3735,7 @@ Naquela data encontravam-se concluídos, e com saldos aprovados, 869 projetos.
 
 Foram ainda efetuados pagamentos aos promotores no montante total de 274,50 milhões de euros, sendo que 231,65 milhões de euros corresponderam à componente Fundo Social Europeu e 21,63 milhões de euros à componente orçamento da Segurança Social. Esses montantes correspondem ao pagamento de adiantamentos, reembolsos e saldos finais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 REDES E EQUIPAMENTOS ESTRUTURANTES NA REGIÃO AUTÓNOMA DOS AÇORES
 
@@ -3653,7 +3765,7 @@ A taxa de execução apurada é de 81,7% e a taxa de realização de 84,7%.
 
 Eixo III POVT - Ponto de situação a 31.08.2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 O Programa de Desenvolvimento Rural da Região Autónoma dos Açores (PRORURAL) enquadra-se na política de desenvolvimento rural definida pela União Europeia para o período de programação 2007-2013, sendo financiado pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) no âmbito do [Regulamento (CE) n.º 1698/2005](https://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), de 20 de setembro.
 
@@ -3663,7 +3775,7 @@ A estratégia definida teve subjacente o conjunto de especificidades de natureza
 
 A estratégia regional para o desenvolvimento rural assenta num grande objetivo global e em 5 objetivos estratégicos, 3 correspondentes a áreas temáticas e que abrangem os 4 eixos prioritários definidos pela política comunitária de desenvolvimento rural e 2 de natureza transversal a toda a estratégia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 No âmbito do PRORURAL, a 31 de agosto de 2015, e em termos acumulados desde o início da vigência do atual período de programação, a execução financeira das operações aprovadas ascendeu ao montante de 329,46 milhões de euros, a que corresponde uma comparticipação do fundo FEADER de cerca de 281,16 milhões de euros, e uma taxa de execução de 95,48%.
 
@@ -3681,7 +3793,7 @@ O programa de desenvolvimento rural para o período 2007-2013, também contribui
 
 Quadro I - Ponto de Situação a 31-08-2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 O Programa PROPESCAS assenta no apoio ao investimento no âmbito dos projetos cofinanciados pelo Fundo Europeu das Pescas visando, numa abordagem sistémica, a criação das condições para a competitividade e sustentabilidade, a longo prazo, do setor pesqueiro regional, tendo em conta a aplicação de regimes de exploração biológica e ecologicamente racionais; a melhor organização do ramo da captura, transformação e comercialização e o reforço da competitividade da atividade produtiva empresarial, com a diversificação, inovação, acréscimo de mais-valias e garantia da qualidade dos produtos da pesca.
 
@@ -3717,7 +3829,7 @@ Até 31 de agosto de 2015 foram aprovadas 156 candidaturas com um montante de de
 
 Em termos de execução o montante de despesa pública atinge 25,8 milhões de euros e financiamento comunitário pago no valor de 21,9 milhões de euros, o que representa uma taxa de execução de 71,1%.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 O Programa de Cooperação Transnacional Açores - Madeira - Canárias, para o período de programação 2007-2013, é um programa operacional cofinanciado pelo fundo estrutural FEDER, enquadrado no Objetivo Comunitário da Cooperação Territorial Europeia, aprovado pela Comissão Europeia através da Decisão C (2007) 4243, de 18 de setembro de 2007.
 
@@ -3731,7 +3843,7 @@ A Região Autónoma dos Açores e da Madeira, neste conjunto, têm disponível, 
 
 A repartição do FEDER por Eixo Prioritário do Programa, para a Região Autónoma dos Açores, estrutura-se da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Em termos de aprovações de projetos, foram lançadas até à data, 3 convocatórias, que deram os seguintes resultados:
 
@@ -3747,7 +3859,7 @@ Assim, até à data, foram aprovadas 61 candidaturas, com um montante de despesa
 
 PCT MAC - Ponto de Situação a 31.08.2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Período de programação 2014-2020
 
@@ -3767,7 +3879,7 @@ O novo programa operacional para os Açores (PO Açores 2020) dispõe de um enve
 
 PO Açores 2020 - Ponto de situação a 31-07-2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 A Região tem ainda acesso ao Fundo de Coesão, através dos PO Temáticos da Competitividade e Internacionalização (PO CI) e da Sustentabilidade e Eficiência no Uso de Recursos (PO SEUR), preconizando-se a disponibilização de cerca de 133 milhões de euros.
 
@@ -3799,7 +3911,7 @@ Em suma, o Programa pretende contribuir com medidas adequadas às especificidade
 
 PDR Açores (ProRural+) - Ponto de situação a 31-07-2015
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 O Fundo Europeu dos Assuntos Marítimos e das Pescas (FEMAP), uma linha orçamental do Orçamento Comunitário associada à política marítima e das pescas, apoiará os projetos dos Açores a partir de um envelope financeiro ainda em definição e que passará a integrar as dotações necessárias ao financiamento da compensação dos custos suplementares suportados pelos operadores dos Açores nas atividades de pesca, cultura, transformação e comercialização de certos produtos da pesca e da aquicultura (POSEI).
 
@@ -3809,20 +3921,20 @@ Investimento Público 2016
 
 Desagregação por Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Investimento Público 2016
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
 
 Investimento Público 2016
 
 Desagregação Espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf))](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/01/00700/0007400150.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/10/21000/76077620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/30/2006/10/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2006-546024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cba106746de08b257c907896ee8e22be40bd3a944572fcdf8ee8abeae989c591
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd0bf0a7768333069cff1ff994b1c89e6e12b4211eb1c9844ad6cd06b6d3ea57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Arquivo
 - Biblioteca
 - Centro de Informação
-- Pessoal Dirigente
 - Concurso
 - Coordenador
 - Definição de Competências
 - Direcção Regional da Cultura
-- Presidência do Governo Regional
 - Direcção Regional das Comunidades
-- Secretário Regional da Presidência
 - Direcção Regional dos Assuntos Europeus e da Cooperação Externa
 - Diretor Regional
 - Documentação
-- Pessoal Operário
-- Secretaria Geral
 - Gabinete Governamental
 - Gabinete Técnico
 - Orgânica
 - Pessoal de Informática
+- Pessoal Dirigente
+- Pessoal Operário
+- Presidência do Governo Regional
 - Presidente
 - Quadro de Pessoal
-- Açores
+- Secretaria Geral
+- Secretário Regional da Presidência
 relationships:
 - type: amended_by
   target: pt:dre:70411882:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as carreiras Gerais de Técnico Superior, bem como para as categorias de assistente\
+    \ técnico, e assistente operacional, nos termos dos arts. 2.º, 4º e 7º, dos trabalhadores integrados nas carreiras ou\
+    \ titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime de Contrato\
+    \ de Trabalho em Funções Públicas (RCTFP) pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Transitada para a dependência do Secretário Regional da Presidência, a Direcção Regional das Comunidades criada\
+    \ pelo DRR 15/98/A de 13-Mai, (já revogado) e integrada na Presidência do Governo Regional dos Açores, cuja orgânica foi\
+    \ aprovada pelo presente diploma, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Determinada a transição para a dependência do Subsecretário Regional da Presidência para as Relações Externa, dos\
+    \ serviços até agora dependentes do Subsecretário Regional dos Assuntos Europeus e Cooperação Externa (criado pelo DRR\
+    \ 25/2008/A de 31-dez), no âmbito da Presidência do Governo Regional dos Açores, e revogado o nº 2 do art. 23º do presente\
+    \ diploma pelo DRR.24/2012/A.27.11.2012.PG-RAA, DR.IS [229] de 27.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-
   label: null
@@ -133,16 +156,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70411882:por
+  label: Revogado (a partir de 01.10.2015) pelo(a) Decreto Regulamentar Regional n.º 18/2015/A - Diário da República n.º 191/2015,
+    Série I de 2015-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2015-70411882
+  date: '2015-09-30'
 article_structure:
-  article_count: 59
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 60
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:16Z'
   warnings: []
   errors: []
 ---
@@ -179,11 +248,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 5 de Setembro de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 3 de Outubro de 2006.**
+Assinado em Angra do Heroísmo em 3 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -411,7 +480,9 @@ e) A Coordenação dos Palácios da Presidência;
 
 f) O Serviço de Manutenção e Conservação de Jardins.
 
-##### SUBSECÇÃO I — Divisão Administrativa, Financeira e Patrimonial
+##### SUBSECÇÃO I
+
+##### Divisão Administrativa, Financeira e Patrimonial
 
 ###### Artigo 16.º — Natureza
 
@@ -463,7 +534,9 @@ c) Secção de Orçamento, Contabilidade e Património.
 
 3 - No âmbito da DAFP funcionará um núcleo de apoio administrativo aos serviços da Presidência do Governo localizados no Palácio de Sant'Ana.
 
-###### Artigo 18.º — Secção de Expediente
+###### Artigo 18.º
+
+#### Secção de Expediente
 
 Compete à Secção de Expediente, em articulação e de acordo com as orientações do Centro de Informação:
 
@@ -487,7 +560,9 @@ i) Proceder à organização, instrução, estudo e informação de processos;
 
 j) Exercer as demais funções que lhe sejam superiormente determinadas.
 
-###### Artigo 19.º — Secção de Pessoal
+###### Artigo 19.º
+
+#### Secção de Pessoal
 
 A Secção de Pessoal é o serviço que, em cooperação com os demais serviços, assegura o apoio, execução e coordenação na área dos recursos humanos, competindo-lhe, designadamente:
 
@@ -511,7 +586,9 @@ i) Proceder à organização, instrução, estudo e informação de processos;
 
 j) Exercer as demais funções que lhe sejam superiormente determinadas.
 
-###### Artigo 20.º — Secção de Orçamento, Contabilidade e Património
+###### Artigo 20.º
+
+#### Secção de Orçamento, Contabilidade e Património
 
 Compete à Secção de Orçamento, Contabilidade e Património:
 
@@ -733,7 +810,9 @@ f) Colaborar em estudos, experiências ou realizações nos domínios da floricu
 
 2 - O Serviço de Manutenção e Conservação de Jardins será dirigido por um coordenador, que articulará as suas actividades com os serviços competentes da administração regional e com a Coordenação dos Palácios da Presidência, nos casos adequados.
 
-##### SUBSECÇÃO VII — Artigo 29.º
+##### SUBSECÇÃO VII
+
+###### Artigo 29.º
 
 Gabinete de Representação do Governo Regional, em Lisboa
 
@@ -761,7 +840,7 @@ e) Executar as directivas, ordens e instruções emitidas pelo Presidente do Gov
 
 ###### Artigo 30.º — Natureza e atribuições
 
-**O Secretário Regional da Presidência, para além das que lhe forem delegadas pelo Presidente do Governo Regional, tem por competências definir e executar as acções necessárias ao cumprimento da política regional relativamente às seguintes matérias:**
+O Secretário Regional da Presidência, para além das que lhe forem delegadas pelo Presidente do Governo Regional, tem por competências definir e executar as acções necessárias ao cumprimento da política regional relativamente às seguintes matérias:
 
 a) Assuntos parlamentares;
 
@@ -905,7 +984,9 @@ b) A Divisão da Cooperação Externa (DCE);
 
 c) O Centro de Informação e Documentação Europeia e Cooperação Externa (CIDECE).
 
-###### Artigo 39.º — Divisão dos Assuntos Europeus
+###### Artigo 39.º
+
+##### Divisão dos Assuntos Europeus
 
 À DAE compete, designadamente:
 
@@ -929,7 +1010,9 @@ i) Cooperar com o CIDECE na organização e actualização da informação sobre
 
 j) Desenvolver os trabalhos e praticar os actos necessários à execução das competências da DSAJE no domínio dos assuntos europeus.
 
-###### Artigo 40.º — Divisão da Cooperação Externa
+###### Artigo 40.º
+
+##### Divisão da Cooperação Externa
 
 À DCE compete, designadamente:
 
@@ -1127,4 +1210,4 @@ Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-s
 
 (a que se refere o n.º 1 do artigo 47.º do anexo I do presente diploma)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/10/21000/76077620.pdf))](https://files.diariodarepublica.pt/1s/2006/10/21000/76077620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/10/21000/76077620.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/08700/0004400048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/9/2025/05/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/9-2025-917107829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d76123122d1ebce64f7424bbba83be00cbe8f0626c134177243db9e9197c72a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e51b2d9dd19c012ea06339d83bd24bae9d00b6d72481ec9f7ae7e1a56bae28ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Assembleia Legislativa Regional
-- Assembleia Legislativa
-- Orçamento
 - Açores
+- Assembleia Legislativa
+- Assembleia Legislativa Regional
+- Orçamento
+- Região Autónoma
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15/2022/06/02/a/dre
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/36/2021/11/30/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/36/2021/11/30/a/dre
+- type: cites
+  target: pt:dre:175129349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184306939:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:56Z'
   warnings: []
   errors: []
 ---
@@ -101,14 +109,15 @@ A Assembleia Legislativa da Região Autónoma dos Açores, nos termos dos artigo
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de abril de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-![](https://files.diariodarepublica.pt/images/917107829/917116870.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/917107829/917116870.png) |
+| --- |
 
-| Código | Designação da receita | Orçamento ordinário1 | Para mais2 | Para menos3 | 1.º Orçamento Suplementar4 | Total retificado5 |
+| Código | Designação da receita | Importância (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Código | Designação da receita | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) |
-| Código | Designação da receita | Orçamento ordinário1 | Transferências de verbas | Transferências de verbas | 1.º Orçamento Suplementar4 | Total retificado5 |
+| Orçamento ordinário1 | Transferências de verbas | 1.º Orçamento Suplementar4 | Total retificado5 |  |  |  |
+| Para mais2 | Para menos3 |  |  |  |  |  |
 |  | Receitas correntes |  |  |  |  |  |
 | 06.00.00 | Transferências correntes: |  |  |  |  |  |
 | 06.04.00 | Administração regional: |  |  |  |  |  |
@@ -123,10 +132,10 @@ Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 | 08.01.99 | Outras | 100,00 |  |  |  | 100,00 |
 |  | Total da receita corrente | 15 134 600,00 | 0,00 | 0,00 | 0,00 | 15 134 600,00 |
 
-| Código | Designação da receita | Orçamento ordinário1 | Para mais2 | Para menos3 | 1.º Orçamento Suplementar4 | Total retificado5 |
+| Código | Designação da receita | Importância (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Código | Designação da receita | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) |
-| Código | Designação da receita | Orçamento ordinário1 | Transferências de verbas | Transferências de verbas | 1.º Orçamento Suplementar4 | Total retificado5 |
+| Orçamento ordinário1 | Transferências de verbas | 1.º Orçamento Suplementar4 | Total retificado5 |  |  |  |
+| Para mais2 | Para menos3 |  |  |  |  |  |
 |  | Receitas de capital |  |  |  |  |  |
 | 09.00.00 | Venda de bens de investimento: |  |  |  |  |  |
 | 09.04.00 | Outros bens de investimento: |  |  |  |  |  |
@@ -145,10 +154,10 @@ Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 | 16.01.01 | Na posse do serviço |  |  |  | 1 569 774,62 | 1 569 774,62 |
 |  | Total das receitas correntes e de capital | 15 411 600,00 | 0,00 | 0,00 | 1 569 774,62 | 16 981 374,62 |
 
-| Código | Alínea | Designação da despesa | Orçamento ordinário1 | Para mais2 | Para menos3 | 1.º Orçamento Suplementar4 | Total retificado5 |
+| Código | Alínea | Designação da despesa | Importância (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Código | Alínea | Designação da despesa | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) |
-| Código | Alínea | Designação da despesa | Orçamento ordinário1 | Transferência de verbas | Transferência de verbas | 1.º Orçamento Suplementar4 | Total retificado5 |
+| Orçamento ordinário1 | Transferência de verbas | 1.º Orçamento Suplementar4 | Total retificado5 |  |  |  |  |
+| Para mais2 | Para menos3 |  |  |  |  |  |  |
 |  |  | Despesas correntes |  |  |  |  |  |
 | 01.00.00 |  | Despesas com pessoal: |  |  |  |  |  |
 | 01.01.00 |  | Remunerações certas e permanentes: |  |  |  |  |  |
@@ -184,10 +193,10 @@ Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 |  |  | Subtotal 2 | 2 377 500,00 | 0,00 | 0,00 | 116 170,13 | 2 493 670,13 |
 |  |  | Total 1 | 10 436 700,00 | 30 000,00 | 30 000,00 | 636 937,54 | 11 073 637,54 |
 
-| Código | Alínea | Designação da despesa | Orçamento ordinário1 | Para mais2 | Para menos3 | 1.º Orçamento Suplementar4 | Total retificado5 |
+| Código | Alínea | Designação da despesa | Importância (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Código | Alínea | Designação da despesa | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) |
-| Código | Alínea | Designação da despesa | Orçamento ordinário1 | Transferência de verbas | Transferência de verbas | 1.º Orçamento Suplementar4 | Total retificado5 |
+| Orçamento ordinário1 | Transferência de verbas | 1.º Orçamento Suplementar4 | Total retificado5 |  |  |  |  |
+| Para mais2 | Para menos3 |  |  |  |  |  |  |
 | 02.00.00 |  | Aquisição de bens e serviços: |  |  |  |  |  |
 | 02.01.00 |  | Aquisição de bens: |  |  |  |  |  |
 | 02.01.02 |  | Combustíveis e lubrificantes | 1 500,00 |  |  |  | 1 500,00 |
@@ -221,10 +230,10 @@ Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 | 02.02.25 |  | Outros serviços | 31 000,00 |  |  |  | 31 000,00 |
 |  |  | Total 2 | 2 001 900,00 | 128 500,00 | 128 500,00 | 138 000,00 | 2 139 900,00 |
 
-| Código | Alínea | Designação da despesa | Orçamento ordinário1 | Para mais2 | Para menos3 | 1.º Orçamento Suplementar4 | Total retificado5 |
+| Código | Alínea | Designação da despesa | Importância (em euros) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Código | Alínea | Designação da despesa | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) | Importância (em euros) |
-| Código | Alínea | Designação da despesa | Orçamento ordinário1 | Transferência de verbas | Transferência de verbas | 1.º Orçamento Suplementar4 | Total retificado5 |
+| Orçamento ordinário1 | Transferência de verbas | 1.º Orçamento Suplementar4 | Total retificado5 |  |  |  |  |
+| Para mais2 | Para menos3 |  |  |  |  |  |  |
 | 03.00.00 |  | Juros e encargos financeiros: |  |  |  |  |  |
 | 03.06.00 |  | Outros encargos financeiros: |  |  |  |  |  |
 | 03.06.01 |  | Outros encargos financeiros | 500,00 |  |  |  | 500,00 |
@@ -254,3 +263,7 @@ Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 | 07.01.15 |  | Outros investimentos | 500,00 |  |  | 0,00 | 500,00 |
 |  |  | Total das despesas de capital | 276 000,00 | 160 000,00 | 160 000,00 | 397 900,00 | 673 900,00 |
 |  |  | Total das despesas correntes e de capital | 15 411 600,00 | 318 500,00 | 318 500,00 | 1 569 774,62 | 16 981 374,62 |
+
+119011667
+
+.Tbl1 { border-collapse:collapse; border-width:1px; } .Tbl2 { height:17px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl8 { height:26px; } .Tbl9 { min-height:25px; } .Tbl10 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl13 { text-align:right; } .Tbl14 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl15 { min-height:10px; } .Tbl16 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl19 { margin-left:11px; } .Tbl20 { margin-left:23px; } .Tbl21 { min-height:12px; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl24 { min-height:18px; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl27 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl28 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl29 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl30 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl31 { border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl32 { border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl33 { border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl34 { min-height:19px; } .Tbl35 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl36 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl37 { min-height:15px; } .Tbl38 { min-height:28px; } .Tbl39 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl40 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl41 { min-height:22px; } .Tbl42 { min-height:13px; } .Tbl43 { margin-left:34px; } .Tbl44 { min-height:29px; }

@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1989-549409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e290ae105943566773c3d6437a649bba375cec0dfcb845086ed4695a897fa19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5be6732fa675e5cce76f3d6c0637a1329d1036801cb56bd59fc3828a79d6605
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Estatuto
+- Governo Regional
+- Instituto de Investimento e Privatizações dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:547020:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:298837:por
+  label: "Eliminados os artigos 8.º, 12.º e 14.º pelo DRR.6/94/A.15.07.1994.GR-RAA, DR.IS-B [162] de 15.07.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1994-298837
+  date: '1994-07-15'
+- type: amended_by
+  target: pt:dre:547020:por
+  label: "Alteradas as alíneas e) e f) do n.º 1 e aditada a alínea h) ao artigo 11.º do estatuto, pelo DRR.11/94/A.26.11.1994.GR-RAA,\
+    \ DR.IS-B [274] de 26.11.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1994-547020
+  date: '1994-11-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTAS OU TRANSFERIDAS PARA OUTROS ÓRGÃOS E SERVIÇOS DA ADMINISTRAÇÃO REGIONAL AUTÓNOMA, TODAS AS ATRIBUIÇÕES\
+    \ E COMPETENCIAS, DE NATUREZA GENÉRICA, COMETIDAS AO IIPA, A QUE SE REPORTA O PRESENTE DIPLOMA, PELO DRR 33/96/A DE 03-JUL\
+    \ DR.IS-B [183] DE 08/AGO/1996\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-08-08'
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659899:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:30Z'
   warnings: []
   errors: []
 ---
@@ -92,33 +126,33 @@ Assim:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto do Instituto de Investimento e Privatizações dos Açores, anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovado o Estatuto do Instituto de Investimento e Privatizações dos Açores, anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º O presente diploma entra em vigor na data da sua publicação.
+Art. 2.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 23 de Agosto de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 25 de Setembro de 1989.**
+Assinado em Angra do Heroísmo em 25 de Setembro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma do Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma do Açores, Vasco Joaquim Rocha Vieira.
 
 Estatuto do Instituto de Investimento e Privatizações dos Açores
 
-###### Artigo 1.º O Instituto de Investimento e Privatizações dos Açores, abreviadamente designado IIPA, é um instituto de direito público, dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio.
+Artigo 1.º O Instituto de Investimento e Privatizações dos Açores, abreviadamente designado IIPA, é um instituto de direito público, dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio.
 
-###### Art. 2.º - 1 - O IIPA rege-se pelo disposto no [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho, pelo presente Estatuto e, subsidiariamente, pelo regime jurídico das empresas públicas.
+Art. 2.º - 1 - O IIPA rege-se pelo disposto no [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho, pelo presente Estatuto e, subsidiariamente, pelo regime jurídico das empresas públicas.
 
 2 - Nas suas relações com terceiros aplicam-se ao IIPA as normas de direito privado.
 
 3 - O IIPA desenvolve a sua actividade na dependência tutelar do Secretário Regional da Economia.
 
-###### Art. 3.º O IIPA tem sede em Ponta Delgada e poderá criar delegações em qualquer local dentro do Território da Região Autónoma dos Açores e, bem assim, manter quaisquer formas locais de representação em território nacional ou no estrangeiro.
+Art. 3.º O IIPA tem sede em Ponta Delgada e poderá criar delegações em qualquer local dentro do Território da Região Autónoma dos Açores e, bem assim, manter quaisquer formas locais de representação em território nacional ou no estrangeiro.
 
-###### Art. 4.º São atribuições do IIPA:
+Art. 4.º São atribuições do IIPA:
 
 a) Colaborar com o Governo Regional na definição de políticas de desenvolvimento na área da economia;
 
@@ -144,7 +178,7 @@ l) Colaborar na orientação do investimento directo estrangeiro e da importaç�
 
 m) Celebrar com entidades regionais, nacionais ou estrangeiras, bem como com organizações internacionais, os acordos ou protocolos que se mostrem úteis ou convenientes para a prossecução dos seus fins.
 
-###### Art. 5.º - 1 - No âmbito das atribuições definidas no artigo anterior, compete ainda ao IIPA:
+Art. 5.º - 1 - No âmbito das atribuições definidas no artigo anterior, compete ainda ao IIPA:
 
 a) Dar parecer às entidades competentes para a sua concessão sobre os pedidos de incentivos financeiros que deva desenvolver e administrar;
 
@@ -158,7 +192,7 @@ e) Dar parecer ao Governo Regional sobre qualquer assunto que caiba nas atribui�
 
 2 - O IIPA tem capacidade para praticar todos os actos materiais ou jurídicos que se mostrem necessários, úteis ou convenientes à realização das suas atribuições, bem como de todos os que lhes sejam acessórios ou com eles conexos.
 
-###### Art. 6.º São órgãos do IIPA:
+Art. 6.º São órgãos do IIPA:
 
 a) O conselho de administração;
 
@@ -166,21 +200,21 @@ b) O administrador-delegado;
 
 c) A comissão de fiscalização.
 
-###### Art. 7.º - 1 - Os membros dos órgãos do IIPA são designados por períodos de três anos, renováveis.
+Art. 7.º - 1 - Os membros dos órgãos do IIPA são designados por períodos de três anos, renováveis.
 
 2 - As funções de qualquer dos membros dos órgãos do IIPA só cessam com a entrada em funções de quem os deva substituir.
 
 3 - Os membros designados em substituição de outros manter-se-ão em funções até ao termo do mandato dos substituídos.
 
-###### Art. 8.º O conselho de administração é composto nos termos do artigo 6.º do [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho, e reunirá, ordinariamente, uma vez em cada trimestre e, extraordinariamente, sempre que o seu presidente o convoque, por sua iniciativa ou a requerimento de qualquer dos seus membros, em qualquer caso por carta registada, com a antecedência mínima de cinco dias.
+Art. 8.º O conselho de administração é composto nos termos do artigo 6.º do [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho, e reunirá, ordinariamente, uma vez em cada trimestre e, extraordinariamente, sempre que o seu presidente o convoque, por sua iniciativa ou a requerimento de qualquer dos seus membros, em qualquer caso por carta registada, com a antecedência mínima de cinco dias.
 
-###### Art. 9.º O conselho de administração não pode constituir-se em reunião sem que estejam presentes a maioria dos seus membros.
+Art. 9.º O conselho de administração não pode constituir-se em reunião sem que estejam presentes a maioria dos seus membros.
 
-###### Art. 10.º - 1 - O conselho de administração delibera por maioria dos votos emitidos.
+Art. 10.º - 1 - O conselho de administração delibera por maioria dos votos emitidos.
 
 2 - O presidente tem voto de qualidade.
 
-###### Art. 11.º - 1 - Compete ao conselho de administração:
+Art. 11.º - 1 - Compete ao conselho de administração:
 
 a) Orientar superiormente a actividade do IIPA, de harmonia com as políticas definidas pelo Governo Regional para os diversos sectores da sua intervenção;
 
@@ -198,7 +232,7 @@ g) Acompanhar a evolução da actividade do IIPA.
 
 2 - Para o desempenho das suas competências o conselho de administração e cada um dos seus membros podem obter do administrador-delegado as informações que acharem úteis ou convenientes.
 
-###### Art. 12.º Compete ao administrador-delegado prosseguir os interesses do IIPA e assegurar a sua gestão e, nomeadamente:
+Art. 12.º Compete ao administrador-delegado prosseguir os interesses do IIPA e assegurar a sua gestão e, nomeadamente:
 
 a) Elaborar e submeter à aprovação do conselho de administração os planos e orçamentos anuais e os planos estratégicos;
 
@@ -218,19 +252,19 @@ h) Constituir mandatários do IIPA, fixando-lhes os respectivos poderes;
 
 i) De uma forma geral, decidir todos os assuntos e praticar todos os actos que, segundo o presente Estatuto, não caibam nas competências de outros órgãos.
 
-###### Art. 13.º O administrador-delegado goza da faculdade conferida aos presidentes das empresas públicas no artigo 9.º-A do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a redacção introduzida pelo [Decreto-Lei n.º 29/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1984-659899), de 20 de Janeiro.
+Art. 13.º O administrador-delegado goza da faculdade conferida aos presidentes das empresas públicas no artigo 9.º-A do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, com a redacção introduzida pelo [Decreto-Lei n.º 29/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1984-659899), de 20 de Janeiro.
 
-###### Art. 14.º - 1 - O IIPA obriga-se pela assinatura do administrador-delegado, pela de dois mandatários em actos que caibam nos respectivos poderes ou de um mandatário em acto para que lhe tenham sido conferidos poderes especiais.
+Art. 14.º - 1 - O IIPA obriga-se pela assinatura do administrador-delegado, pela de dois mandatários em actos que caibam nos respectivos poderes ou de um mandatário em acto para que lhe tenham sido conferidos poderes especiais.
 
 2 - Nos actos que não envolvam para o IIPA a assunção de quaisquer responsabilidades bastará a assinatura de um vogal ou de um mandatário, dentro dos seus poderes.
 
-###### Art. 15.º A comissão de fiscalização será constituída nos termos do artigo 7.º do [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho.
+Art. 15.º A comissão de fiscalização será constituída nos termos do artigo 7.º do [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho.
 
-###### Art. 16.º A comissão de fiscalização reúne, ordinariamente, uma vez em cada trimestre e, extraordinariamente, sempre que o seu presidente a convoque, por sua iniciativa ou a requerimento de qualquer dos seus membros.
+Art. 16.º A comissão de fiscalização reúne, ordinariamente, uma vez em cada trimestre e, extraordinariamente, sempre que o seu presidente a convoque, por sua iniciativa ou a requerimento de qualquer dos seus membros.
 
-###### Art. 17.º A comissão de fiscalização não poderá constituir-se em reunião sem que estejam presentes a maioria dos seus membros, dispondo o presidente de voto de qualidade, em caso de empate nas votações.
+Art. 17.º A comissão de fiscalização não poderá constituir-se em reunião sem que estejam presentes a maioria dos seus membros, dispondo o presidente de voto de qualidade, em caso de empate nas votações.
 
-###### Art. 18.º Compete à comissão de fiscalização:
+Art. 18.º Compete à comissão de fiscalização:
 
 a) Acompanhar e fiscalizar a gestão do IIPA, velando pela aplicação da lei e do presente Estatuto;
 
@@ -240,10 +274,10 @@ c) Examinar a contabilidade do IIPA;
 
 d) Pronunciar-se sobre qualquer assunto do âmbito das actividades do IIPA, sempre que para tal seja solicitada pelo administrador-delegado ou pelo conselho de administração.
 
-###### Art. 19.º O administrador-delegado, sob proposta da comissão de fiscalização, poderá contratar auditores externos a fim de assistirem à referida comissão no exercício das suas funções.
+Art. 19.º O administrador-delegado, sob proposta da comissão de fiscalização, poderá contratar auditores externos a fim de assistirem à referida comissão no exercício das suas funções.
 
-###### Art. 20.º O relatório de gestão e as contas de exercício serão submetidos para homologação, acompanhados dos pareceres da comissão de fiscalização e do revisor oficial de contas, aos Secretários Regionais das Finanças e Planeamento e da Economia até ao fim do 1.º trimestre de cada ano, considerando-se tacitamente homologados se sobre eles não recair qualquer despacho durante os 30 dias consecutivos à sua apresentação.
+Art. 20.º O relatório de gestão e as contas de exercício serão submetidos para homologação, acompanhados dos pareceres da comissão de fiscalização e do revisor oficial de contas, aos Secretários Regionais das Finanças e Planeamento e da Economia até ao fim do 1.º trimestre de cada ano, considerando-se tacitamente homologados se sobre eles não recair qualquer despacho durante os 30 dias consecutivos à sua apresentação.
 
-###### Art. 21.º - 1 - Em caso de extinção do IIPA, o administrador-delegado em exercício exercerá as funções de liquidatário, salvo disposição em contrário.
+Art. 21.º - 1 - Em caso de extinção do IIPA, o administrador-delegado em exercício exercerá as funções de liquidatário, salvo disposição em contrário.
 
 2 - O resultado da liquidação do património do IIPA terá a aplicação que lhe for determinada.

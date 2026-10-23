@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/05/09400/0008900125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2025/05/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2025-918366408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95a7ee081bc092c59cf78028b3732717228746ae1ab4859d5e294b0d8542b392
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 082159d66a6f753e5b6ce0b507c77bcfa6ea35251ebdd98b1556c65d5214ba1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- BENS Classificados
-- Património Cultural
-- Ilha do Corvo
-- Conservação e Restauro
-- Protecção do Património
-- Regulamento
 - Açores
-- Vila do Corvo
+- BENS Classificados
+- Conservação e Restauro
+- Ilha do Corvo
+- Património Cultural
+- Protecção do Património
 - Ratificação
+- Regulamento
+- Vila do Corvo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/e
@@ -115,16 +115,99 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2019/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2019/09/05/p/dre
+- type: cites
+  target: pt:dre:123436960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124457181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:126669989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207881792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208326768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215798228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456206:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66426484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70819833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73986213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74243464:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:20/2015/A
+  label: Revoga, a partir de 17 de maio de 2025, o Regime Específico de Proteção e Valorização do Património Cultural Imóvel
+    do Núcleo Antigo de Vila do Corvo aprovado pelo Decreto Regulamentar Regional n.º 20/2015/A, de 27 de outubro, Diário
+    da República n.º 210/2015, Série I
+  source: null
+  date: '2015-10-27'
 article_structure:
   article_count: 47
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:07Z'
   warnings: []
   errors: []
 ---
@@ -161,11 +244,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 6 de março de 2025.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 14 de maio de 2025.**
+Assinado em Angra do Heroísmo em 14 de maio de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -281,11 +364,11 @@ k) Plano Diretor Municipal do Corvo (PDM), aprovado pelo Aviso n.º 50/2017, de 
 
 1 - No território abrangido pelo PPSNAVC são observadas as disposições legais e regulamentares referentes a servidões administrativas e restrições de utilidade pública em vigor, nomeadamente as decorrentes dos seguintes regimes jurídicos:
 
-a) Património natural, que integra os regimes associados às áreas referidas nos n.<sup>os</sup> 2 e 3 do presente artigo;
+a) Património natural, que integra os regimes associados às áreas referidas nos n.os 2 e 3 do presente artigo;
 
 b) Património edificado, que corresponde ao núcleo antigo de Vila do Corvo, classificado como Conjunto de Interesse Público;
 
-c) Infraestruturas básicas de transportes e comunicações, que integram as áreas referidas nos n.<sup>os</sup> 4 e 5 do presente artigo;
+c) Infraestruturas básicas de transportes e comunicações, que integram as áreas referidas nos n.os 4 e 5 do presente artigo;
 
 d) Equipamentos e atividades, que corresponde ao edifício escolar.
 
@@ -401,7 +484,7 @@ b) As zonas mistas não devem ficar expostas a ruído ambiente exterior superior
 
 2 - Sem prejuízo do disposto em legislação específica aplicável caso a caso, nas construções existentes nas áreas referidas no número anterior, devidamente legalizadas e independentemente do uso preferencial associado, são permitidas obras de conservação, reconstrução e ampliação dos edifícios.
 
-3 - As obras de ampliação referidas no número anterior apenas são permitidas quando se trate de obras conducentes a suprirem insuficiências de instalações sanitárias e ou cozinhas e desde que as mesmas correspondam a um aumento total da área de construção igual ou inferior a 16 m<sup>2</sup>, sem, contudo, implicar um aumento da altura da edificação.
+3 - As obras de ampliação referidas no número anterior apenas são permitidas quando se trate de obras conducentes a suprirem insuficiências de instalações sanitárias e ou cozinhas e desde que as mesmas correspondam a um aumento total da área de construção igual ou inferior a 16 m2, sem, contudo, implicar um aumento da altura da edificação.
 
 4 - Os projetos de reconstrução, ampliação e de construção de novas edificações têm de conter todos os elementos técnicos e projetos de especialidade que permitam verificar a sua conformidade com o POOC quanto às suas características construtivas e das instalações técnicas, bem como quanto à sua implantação no local e relação com os acessos.
 
@@ -847,7 +930,7 @@ b) Quando o muro confinante com o espaço público suportar terras do interior d
 
 3 - Nas parcelas não abrangidas pelo disposto no número anterior admite-se a construção de anexos nas seguintes condições:
 
-a) A superfície máxima a afetar a anexos é de 10 % da área da parcela até um máximo de 25 m<sup>2</sup> de área de construção num único piso;
+a) A superfície máxima a afetar a anexos é de 10 % da área da parcela até um máximo de 25 m2 de área de construção num único piso;
 
 b) O afastamento mínimo dos anexos aos limites da parcela é de 1,5 m, admitindo-se que sejam encostados ao limite de tardoz da parcela, desde que garantam afastamentos mínimos laterais de 1,5 m, sem prejuízo do disposto no Regulamento Geral das Edificações Urbanas;
 
@@ -1406,10 +1489,16 @@ O Plano entra em vigor no dia seguinte à sua publicação no Jornal Oficial, po
 
 Planta de implantação do Plano de Pormenor de Salvaguarda do Núcleo Antigo de Vila do Corvo
 
-![](https://files.diariodarepublica.pt/images/918366408/918367886.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/918366408/918367886.png) |
+| --- |
 
 ## ANEXO III — (a que se refere o artigo 1.º)
 
 Planta de condicionantes do Plano de Pormenor de Salvaguarda do Núcleo Antigo de Vila do Corvo
 
-![](https://files.diariodarepublica.pt/images/918366408/918367887.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/918366408/918367887.png) |
+| --- |
+
+119052726
+
+.Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; }

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/04/07200/0185601871.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2017/04/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2017-106861729
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3fd1b7b238cd315d5ef883575d958da93278366575243d8e62c0be9b81b6f32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5246e859a026f285b47dbef041854f15689db5792937e08952c7e50e0bde2f67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Bolsa de Emprego Público
 - Colocação de Professores
 - Concurso
-- Bolsa de Emprego Público
-- Recrutamento de Pessoal
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Secundário
 - Pessoal Docente
-- Ensino Básico
+- Recrutamento de Pessoal
 - Regulamento
-- Açores
-- Educação Pré-escolar
 - ZONA Pedagógica
 relationships:
 - type: amended_by
   target: pt:dre:161587773:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161587773:por
+  label: Alterados, a partir de 20.04.2021, os arts. 3.º, 4.º, 5.º, 8.º, 9.º, 10.º, 13.º, 15.º, 16.º, 19.º, 21.º, 23.º, 25.º
+    e 26.º, aditados os arts. 4.º-A e 4.º-B e revogados o n.º 3 do art. 4.º e o n.º 3 do art. 21.º do Regulamento de Concurso
+    do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário aprovado pelo DLR 22/2012/A de 30-mai, na versão
+    republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 10/2021/A - Diário da República n.º 75/2021,
+    Série I de 2021-04-19 nos termos do art. 5.º deste último que também procede à republicação do referido Regulamento
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2021-161587773
+  date: '2021-04-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/11/2009/07/21/a/dre
   label: null
@@ -113,16 +122,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/declretif/39/2012/07/24/p/dre
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909748:por
+  label: null
+  source: null
 article_structure:
-  article_count: 58
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 36
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:15Z'
   warnings: []
   errors: []
 ---
@@ -171,7 +220,9 @@ Os artigos 1.º, 4.º a 17.º e 19.º a 26.º do Regulamento de Concurso do Pess
 
 3 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -197,7 +248,9 @@ Os artigos 1.º, 4.º a 17.º e 19.º a 26.º do Regulamento de Concurso do Pess
 
 12 - Os docentes do quadro com vínculo definitivo podem beneficiar, com as devidas adaptações, do regime de deslocação de docentes por um ano a que se refere o artigo 103.º do Estatuto da Carreira Docente, nos termos aí fixados.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O procedimento concursal, como processo de recrutamento normal e obrigatório do pessoal docente, visa o preenchimento das vagas existentes nos quadros de escola, constituindo, ainda, o instrumento de mobilidade dos docentes de um para outro quadro de escola e a forma de satisfazer as necessidades transitórias do sistema educativo da Região Autónoma dos Açores.
 
@@ -215,7 +268,9 @@ Os artigos 1.º, 4.º a 17.º e 19.º a 26.º do Regulamento de Concurso do Pess
 
 8 - Os candidatos aos concursos interno e externo de provimento e à contratação a termo resolutivo podem ser opositores a todos os grupos de recrutamento para os quais possuem habilitação profissional.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os procedimentos concursais interno e externo de provimento são abertos anualmente, no decorrer do mês de fevereiro, pela direção regional competente em matéria de educação, por aviso a publicar na Bolsa de Emprego Público - Açores, adiante designada por BEP-Açores, pelo prazo de dez dias úteis.
 
@@ -239,7 +294,9 @@ f) Endereço para impugnação administrativa.
 
 5 - Do aviso de abertura deve constar a obrigatoriedade de utilização de formulário eletrónico em todas as fases do procedimento, em modelos aprovados e disponibilizados pela direção regional competente em matéria de educação.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A candidatura ao procedimento concursal é formalizada através do preenchimento de formulário eletrónico, aprovado e disponibilizado pela direção regional competente em matéria de educação.
 
@@ -267,7 +324,9 @@ g) Formulação das preferências por unidade orgânica e de outras opções de 
 
 6 - [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Os candidatos indicam as suas preferências, por ordem de prioridade, identificando corretamente a unidade orgânica ou, nos procedimentos concursais interno e externo de provimento, quadro regional da educação moral e religiosa católica, e o critério de prioridade em que concorrem a cada um deles.
 
@@ -275,7 +334,9 @@ g) Formulação das preferências por unidade orgânica e de outras opções de 
 
 3 - Os docentes que se candidatem ao procedimento concursal interno de afetação fazem-no no âmbito do grupo de recrutamento em que se encontrem providos e de acordo com o disposto no artigo 21.º do presente Regulamento.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -323,7 +384,9 @@ f) [...]
 
 8 - [Revogado.]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A graduação profissional do docente, a que se refere o n.º 2 do artigo anterior, corresponde à soma da classificação profissional obtida no curso que o habilita para a docência no grupo de recrutamento a que é opositor e com o qual se candidata, calculada de acordo com a legislação em vigor à data da sua conclusão, com as parcelas N x 1 valor e n x 0,5 valores, em que:
 
@@ -351,7 +414,9 @@ b) n é o quociente, arredondado por excesso à milésima mais próxima, da divi
 
 11 - Aos docentes que se mantiverem em exercício de funções no mesmo quadro de escola por mais de um ano escolar, na primeira candidatura ao concurso interno de provimento para transição de lugar de quadro, acresce, à graduação profissional calculada de acordo com o n.º 1, 0,5 valores por cada ano escolar de serviço docente efetivamente prestado, até ao máximo de três valores, nas unidades orgânicas e nos termos que, para o efeito, vierem a ser fixados por portaria do membro do Governo Regional competente em matéria de educação.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - A graduação académica do docente, a que se refere o n.º 3 do artigo 9.º, corresponde à soma da classificação académica, expressa na escala de 0 a 20 valores, obtida no curso que lhe confere habilitação própria para a docência no grupo de recrutamento a que é opositor e com o qual se candidata, com a parcela N x 1 valor, em que N é o quociente, arredondado por excesso à milésima mais próxima, da divisão por trezentos e sessenta e cinco do número de dias de serviço docente oficial ou equiparado avaliado com a menção qualitativa mínima de Regular, contado nos termos da lei geral, prestado até ao dia 31 de agosto do ano imediatamente anterior à data de abertura do procedimento concursal.
 
@@ -363,7 +428,9 @@ b) n é o quociente, arredondado por excesso à milésima mais próxima, da divi
 
 5 - Para efeitos de contagem do tempo de serviço docente a que se refere o n.º 1, é aplicável o disposto no n.º 10 do artigo anterior.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -373,7 +440,9 @@ b) n é o quociente, arredondado por excesso à milésima mais próxima, da divi
 
 4 - Se for provada intenção dolosa nas irregularidades referidas nos números anteriores, os candidatos não podem ser opositores aos procedimentos concursais realizados nesse ano e no ano seguinte.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os procedimentos concursais internos de provimento e de afetação realizam-se com recuperação automática de vagas, de modo que cada concorrente não seja ultrapassado em qualquer das suas preferências por outro candidato com menor graduação, na mesma prioridade.
 
@@ -385,7 +454,9 @@ b) n é o quociente, arredondado por excesso à milésima mais próxima, da divi
 
 5 - [...]
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Terminada a verificação dos requisitos de admissão ao procedimento concursal são elaborados os projetos de listas ordenadas de graduação de candidatos, que são disponibilizados no Portal da Educação, procedendo-se, de imediato, à audição dos interessados.
 
@@ -405,7 +476,9 @@ b) n é o quociente, arredondado por excesso à milésima mais próxima, da divi
 
 9 - A não apresentação de reclamação ao projeto de lista ordenada de graduação considera-se como aceitação tácita do mesmo.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - [...]
 
@@ -419,7 +492,9 @@ b) n é o quociente, arredondado por excesso à milésima mais próxima, da divi
 
 6 - A não aceitação de colocação determina o impedimento do docente de prestar serviço em qualquer estabelecimento de educação ou de ensino da rede pública dos Açores, nesse ano escolar e nos dois anos escolares subsequentes, assim como a impossibilidade de se candidatar aos procedimentos concursais que, para esses anos escolares, forem abertos, determinando, ainda, a cessação do vínculo contratual com o sistema educativo regional no caso dos docentes titulares de lugar de quadro.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - [...]
 
@@ -445,7 +520,9 @@ c) Impossibilidade de, no respetivo ano escolar e nos dois anos escolares subseq
 
 9 - Consideram-se nulos os contratos que não obedeçam ao estabelecido no presente Regulamento.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os contratos por tempo indeterminado e a termo resolutivo são celebrados em impressos de modelo disponibilizado pela direção regional competente em matéria de educação, sendo assinados, em representação da administração educativa regional, pelo membro do órgão executivo competente e pelo contratado.
 
@@ -469,13 +546,17 @@ e) [...]
 
 6 - Ao contratado que não cumprir total ou parcialmente o prazo de pré-aviso, estabelecido na Lei Geral do Trabalho em Funções Públicas para a extinção do vínculo pelo trabalhador com aviso prévio, é exigido, a título de indemnização, o valor da remuneração base correspondente ao período de antecedência em falta, salvo se o motivo determinante do incumprimento não pudesse ser conhecido em data anterior à comunicação.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - Podem ser opositores ao procedimento concursal interno de provimento docentes com vínculo aos quadros de escola do sistema público de ensino de todo o território nacional, qualquer que seja a sua designação, que pretendam concorrer para transitar de quadro no âmbito do mesmo grupo de recrutamento ou pretendam mudar de grupo de recrutamento.
 
 2 - [...]
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - [...]
 
@@ -491,7 +572,9 @@ e) [...]
 
 7 - [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - [...]
 
@@ -523,7 +606,9 @@ g) Sejam profissionalizados e tenham obtido colocação nos quadros de escola no
 
 8 - [Revogado.]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - [...]
 
@@ -535,7 +620,9 @@ g) Sejam profissionalizados e tenham obtido colocação nos quadros de escola no
 
 5 - [...]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -569,7 +656,9 @@ g) Sejam profissionalizados e tenham obtido colocação nos quadros de escola no
 
 16 - [Revogado.]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - [...]
 
@@ -579,7 +668,9 @@ g) Sejam profissionalizados e tenham obtido colocação nos quadros de escola no
 
 4 - Os candidatos não colocados, constantes da lista a que se refere o n.º 1, podem apresentar desistência da mesma, através de formulário eletrónico aprovado e disponibilizado pela direção regional competente em matéria de educação, desde que registada antes da efetivação da sua colocação.
 
-###### Artigo 25.º — Oferta de escola
+Artigo 25.º
+
+Oferta de escola
 
 1 - [...]
 
@@ -591,7 +682,9 @@ g) Sejam profissionalizados e tenham obtido colocação nos quadros de escola no
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Para que um docente colocado no concurso externo possa beneficiar de mobilidade na forma de requisição tem de cumprir, obrigatoriamente, no quadro onde obteve colocação com vínculo definitivo, esse ano escolar e o subsequente.
 
@@ -629,11 +722,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de março de 2017.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 5 de abril de 2017.**
+Assinado em Angra do Heroísmo em 5 de abril de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -689,7 +782,9 @@ b) Havendo nas unidades orgânicas um número insuficiente de docentes interessa
 
 ### CAPÍTULO II — Procedimento concursal
 
-#### SECÇÃO I — Parte geral
+#### SECÇÃO I
+
+## Parte geral
 
 ###### Artigo 5.º — Procedimento concursal
 
@@ -1003,7 +1098,9 @@ e) Documento comprovativo de ter cumprido as leis do recrutamento militar, se fo
 
 [Revogado.]
 
-#### SECÇÃO II — Parte especial
+#### SECÇÃO II
+
+## Parte especial
 
 ###### Artigo 19.º — Procedimento concursal interno de provimento
 

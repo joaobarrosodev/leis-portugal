@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/036b00/06950699.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/1991/02/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1991-478057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c8e2fcf63123e63865f2a32f9f57c032febe9e8b87399a5d5f059d5922bc629
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78c0246e30cc5f28f4710ee5dcfe48f545ce6cd08e5d787c122a9cc79f456db5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Centro de Apoio Tecnológico à Educação
 - Orgânica
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:320094:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522988:por
+  label: "Alterados os artigos 16.º, 17.º e substituído o quadro de pessoal a que se refere o n.º 1 do artigo 13.º, pelo DRR.22/92/A.21.05.1992.GR-RAA,\
+    \ DR.IS-B [117] de 21.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-1992-522988
+  date: '1992-05-21'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:320094:por
+  label: "Revogado pelo DRR.1/2001/A.2001.01.18.PG-RAA, DR.IS-B [36] de 12/FEV/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2001-320094
+  date: '2001-01-18'
 article_structure:
   article_count: 22
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:51Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +178,9 @@ a) A direcção;
 
 b) O conselho administrativo.
 
-###### Artigo 5.º — Secção administrativa
+###### Artigo 5.º
+
+#### Secção administrativa
 
 É criada no CATE uma secção administrativa, competindo-lhe assegurar todo o serviço de expediente geral, arquivo, administração de pessoal, contabilidade, economato, estatística e património.
 
@@ -311,14 +348,14 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em Conselho do Governo Regional, em São Roque do Pico, em 23 de Novembro de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 10 de Janeiro de 1991.**
+Assinado em Angra do Heroísmo em 10 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/036b00/06950699.pdf))](https://files.diariodarepublica.pt/1s/1991/02/036b00/06950699.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/036b00/06950699.pdf)

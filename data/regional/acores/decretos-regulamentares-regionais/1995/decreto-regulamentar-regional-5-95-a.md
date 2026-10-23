@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/02/050b00/11611161.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/1995/02/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1995-197540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 765d37703abf7f06579a015915aaac2079e0bcf4dddf0d369c0cb82e60b0cb07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71b71350db99c5dd5ef57cae5503c6790c4300259c04595d5bfb5bd3d41ecdbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
+- Açores
 - Angra do Heroísmo
 - Conservatório Regional
+- Ensino Artístico
 - Estatuto do Pessoal
-- Ponta Delgada
 - Pessoal Docente
-- Açores
+- Ponta Delgada
 relationships:
 - type: amended_by
   target: pt:dre:437012:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678213:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:437012:por
+  label: "Revogado pelo DRR.31/2003/A.05.11.2003.PG-RAA, DR.IS-B [273] de 25.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/31-2003-437012
+  date: '2003-11-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:30Z'
   warnings: []
   errors: []
 ---
@@ -104,22 +145,22 @@ Face à Lei de Bases do Sistema Educativo, bem como ao Estatuto da Carreira Doce
 
 Assim, no uso da faculdade que lhe é conferida pelo [Decreto-Lei n.º 338/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1979-378683), de 25 de Agosto, e em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º É alterado o artigo 6.º do [Decreto Regulamentar Regional n.º 11/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-678213), de 13 de Março, que passa a ter a seguinte redacção:
+Artigo 1.º É alterado o artigo 6.º do [Decreto Regulamentar Regional n.º 11/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-678213), de 13 de Março, que passa a ter a seguinte redacção:
 
-###### Art. 6.º - 1 - O estatuto do pessoal docente dos conservatórios regionais, em tudo o que não colidir com a especificidade deste tipo de ensino, é o do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, adaptado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 17/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-566032), de 6 de Novembro, e legislação complementar.
+Art. 6.º - 1 - O estatuto do pessoal docente dos conservatórios regionais, em tudo o que não colidir com a especificidade deste tipo de ensino, é o do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, adaptado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 17/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-566032), de 6 de Novembro, e legislação complementar.
 
 2 - ...
 
 3 - De acordo com o estipulado no n.º 1 do presente artigo, os professores portadores das habilitações definidas na [Portaria n.º 11/80](https://diariodarepublica.pt/dr/detalhe/portaria/11-1980-581982), de 8 de Abril, só poderão ser providos nos quadros de nomeação definitiva dos conservatórios regionais desde que realizem a profissionalização em serviço prevista no [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de Agosto, alterado pelo [Decreto-Lei n.º 345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), de 11 de Outubro.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 14 de Dezembro de 1994.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 24 de Janeiro de 1995.**
+Assinado em Angra do Heroísmo em 24 de Janeiro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

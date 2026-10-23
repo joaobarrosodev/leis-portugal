@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2020/06/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2020-135286756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1977275974221deff182e26f9a2ec7b2ce004f5db796ecf9d97193ac10dfa92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b2d639e7d574a33bc4a80ae5e85a416f7b596083ddb8331041875eb31be46ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Contrato
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Diversificação das Exportações
+- Exportação
 - Financiamento
 - Governo Regional
-- Contrato
-- Desenvolvimento Regional
-- Regulamentação de Atos Legislativos
-- Diversificação das Exportações
-- Projeto de Investimento
-- Desenvolvimento Económico
-- Exportação
 - Pequenas e Médias Empresas
-- Regulamento CE
 - PME
+- Projeto de Investimento
+- Regulamentação de Atos Legislativos
+- Regulamento CE
 - Sistema de Incentivos da Região Autónoma dos Açores
-- Açores
 - Sistema de Incentivos de BASE Regional
-- Sistema de Incentivos Regionais
 - Sistema de Incentivos para a Competitividade Empresarial
+- Sistema de Incentivos Regionais
 - Subsistema de Incentivos para o Desenvolvimento Local
 relationships:
 - type: cites
@@ -129,16 +129,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/7/2016/07/19/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/7/2016/07/19/a/dre
+- type: cites
+  target: pt:dre:114528125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57308389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58273534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66507582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66936947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74967225:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:31Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +209,9 @@ Os artigos 2.º, 3.º, 3.º-A, 4.º, 5.º, 6.º, 7.º, 8.º-C e 8.º-D do [Decre
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -191,7 +225,9 @@ Os artigos 2.º, 3.º, 3.º-A, 4.º, 5.º, 6.º, 7.º, 8.º-C e 8.º-D do [Decre
 
 6 - No caso de promotores que explorem diversos estabelecimentos, podem admitir-se exceções às regras estabelecidas nos n.os 3, 4 e 5 desde que devidamente justificadas, sendo que, relativamente aos projetos a que se refere o n.º 4 do artigo anterior, o valor máximo do investimento elegível a apoiar por empresa é de (euro) 120 000,00 (cento e vinte mil euros).
 
-###### Artigo 3.º-A — [...]
+Artigo 3.º-A
+
+[...]
 
 a) [...]
 
@@ -205,7 +241,9 @@ e) [...]
 
 f) Cumprir os critérios de PME, no caso dos projetos a que se refere o n.º 4 do artigo 2.º
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -215,7 +253,9 @@ f) Cumprir os critérios de PME, no caso dos projetos a que se refere o n.º 4 d
 
 4 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -245,7 +285,9 @@ f) Aquisição de serviços de consultoria especializada com vista à adaptaçã
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -263,7 +305,9 @@ f) Aquisição de serviços de consultoria especializada com vista à adaptaçã
 
 8 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -285,7 +329,9 @@ f) Aquisição de serviços de consultoria especializada com vista à adaptaçã
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 8.º-C — [...]
+Artigo 8.º-C
+
+[...]
 
 1 - [...]
 
@@ -301,7 +347,9 @@ f) Aquisição de serviços de consultoria especializada com vista à adaptaçã
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 8.º-D — Obrigações dos promotores
+Artigo 8.º-D
+
+Obrigações dos promotores
 
 1 - [...]
 
@@ -343,11 +391,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem pr
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 11 de maio de 2020.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 27 de maio de 2020.**
+Assinado em Angra do Heroísmo em 27 de maio de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -851,21 +899,21 @@ A2 - Autonomia financeira da empresa.
 
 a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf)
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/ativo total líquido, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura.
 
 3 - A pontuação do critério C - contributo do projeto para a consolidação financeira da empresa é determinada pelo indicador novos capitais próprios/investimento elegível (excluindo salários), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf)
 
 4 - A pontuação do critério D - contributo do projeto para a competitividade da empresa é determinada pelo indicador investimento em fatores dinâmicos de competitividade/investimento elegível, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf)
 
 5 - A pontuação do critério E - contributo do projeto para a inovação e diversificação da oferta mede o grau de inovação do investimento face ao mercado existente, do seguinte modo:
 
@@ -897,7 +945,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf))](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/06/11000/0000200022.pdf)
 
 6 - O critério F - contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do programa operacional (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -1002,3 +1050,5 @@ Sem coerência - projeto sem nenhuma ou fraca coerência entre o investimento pr
 Coerência média - projeto com correspondência parcial entre o investimento proposto e o problema a solucionar;
 
 Coerência elevada - projeto cujo investimento proposto soluciona integralmente o problema detetado.
+
+113276324

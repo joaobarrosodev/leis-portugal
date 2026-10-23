@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05400/16301631.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/2007/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-2007-518627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbd59f13829fe2bb7d1a0e8c0f952381e0364536340753d11c9bcc5ef2b4eef6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8593f736b5285fcecf939706709714fa041a5d5baf9159d23ee512c7d2d2b802
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abono de Família
+- Comparticipação Familiar
+- Criança
 - Deficiente
 - Educação Especial
-- Criança
-- Comparticipação Familiar
 - Jovem
 - Subsídio de Educação Especial
-- Abono de Família
 relationships:
 - type: amended_by
   target: pt:dre:454002:por
@@ -90,16 +90,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1015/2005/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1015/2005/10/07/p/dre
+- type: cites
+  target: pt:dre:157654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437804:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454002:por
+  label: "Revogada, a partir de 08.09.2008, pela PORT.985/2008.03.09.2008.MFAP, DR.IS [170] de 03.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/985-2008-454002
+  date: '2008-09-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:30Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +153,7 @@ Determinação do valor da comparticipação das famílias
 
 1 - É aprovada a tabela para a determinação do valor da comparticipação das famílias prevista no n.º 1 do artigo 9.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, na redacção dada pelo [Decreto Regulamentar n.º 19/98](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-1998-437804), de 14 de Agosto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05400/16301631.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05400/16301631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05400/16301631.pdf)
 
 2 - Na modalidade de internato, a comparticipação não pode ser inferior ao montante de abono de família concedido a crianças e jovens com idade superior a 12 meses correspondente ao 5.º escalão, deduzido do montante da bonificação por deficiência que lhe acresça, se for caso disso.
 
@@ -144,7 +165,7 @@ Determinação da poupança familiar
 
 É aprovada a tabela das despesas anuais fixas a considerar para o cálculo da poupança familiar e determinação da comparticipação das famílias, de harmonia com o disposto no n.º 2 do artigo 9.º e no artigo 10.º do [Decreto Regulamentar n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1981-389038), de 7 de Abril, na redacção dada pelo Decreto Regulamantar n.º 19/98, de 14 de Agosto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05400/16301631.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05400/16301631.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05400/16301631.pdf)
 
 4.º
 
@@ -164,4 +185,4 @@ A presente portaria produz efeitos a partir de 1 de Setembro de 2006 e revoga a 
 
 Em 14 de Fevereiro de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.

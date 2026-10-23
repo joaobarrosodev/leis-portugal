@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 251/2012, 1º Suplemento, Série I de 2012-12-28
   number: '251'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7294-(2) a 7294-(17)
   pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25101/0000200017.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/41-a/2012/12/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-a-2012-400995
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0f4ae7f9735563149aefe5bc3ba9e8770a5eb7a90804cb38e94b6d6c6ceadac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb67ba8e7759704485757ffda1dffa358e3d18c08ea7c5b12e58d8c15c4de6d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Madeira.região Autónoma
 - Orçamento
 - Orçamento Regional
-- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:73462829:por
@@ -110,16 +110,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:73462829:por
+  label: Revogado, a partir de 09.02.2016 e com efeitos a 01.01.2016, o DLR 14/2011/M de 09-ago, na redação do presente diploma,
+    reestruturada a Escola Profissional Dr. Francisco Fernandes por aquele criada, e transferidas as competências, direitos
+    e obrigações da referida Escola para o Instituto para a Qualificação, IP-RAM, pelo(a) Decreto Legislativo Regional n.º
+    6/2016/M - Diário da República n.º 26/2016, Série I de 2016-02-08, sem prejuízo do disposto no n.º 4 do art. 23.º deste
+    e nos termos dos seus arts. 22.º e 24.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2016-73462829
+  date: '2016-02-08'
 article_structure:
-  article_count: 9
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:37Z'
   warnings: []
   errors: []
 ---
@@ -156,13 +197,17 @@ Os artigos 6º, 9º e 11º do Decreto Legislativo Regional nº 5/2012/M, de 30 d
 
 Para fazer face às necessidades de financiamento, incluindo as decorrentes das iniciativas de apoio e reconstrução na Região Autónoma da Madeira na sequência da intempérie de 20 de fevereiro de 2010, fica o Governo Regional autorizado a aumentar o endividamento líquido regional até ao montante resultante do artigo 10º da Lei Orgânica nº 2/2010, de 16 de junho, e do artigo 107º da Lei nº 64-B/2011, de 30 de dezembro, que aprova o Orçamento do Estado para 2012, na redação dada pela Lei que procede à segunda alteração à Lei nº 64-B/2011, de 30 de dezembro, incluindo o montante destinado ao refinanciamento da dívida comercial.
 
-###### Artigo 9º — (...)
+Artigo 9º
+
+(...)
 
 1 - Fica o Governo Regional autorizado a realizar operações ativas até ao montante de 300 milhões de euros, incluindo a eventual capitalização de juros, não contando para este limite os montantes referentes a reestruturações ou consolidações de créditos.
 
 2 - ...
 
-###### Artigo 11º — (...)
+Artigo 11º
+
+(...)
 
 1 - Fica o Governo Regional, através do Secretário Regional do Plano e Finanças, autorizado a:
 
@@ -188,7 +233,9 @@ b) Assumir e regularizar diretamente junto das instituições de crédito o mont
 
 2 - O diretor é equiparado, para todos os efeitos legais, a cargo de direção intermédia de 1º grau.
 
-###### Artigo 9º — (...)
+Artigo 9º
+
+(...)
 
 1 - ...
 
@@ -212,12 +259,12 @@ Os encargos com o apoio social prestado no âmbito da Rede de Cuidados Continuad
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 4 de dezembro de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 18 de dezembro de 2012.**
+Assinado em 18 de dezembro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/12/25101/0000200017.pdf))](https://files.diariodarepublica.pt/1s/2012/12/25101/0000200017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/12/25101/0000200017.pdf)

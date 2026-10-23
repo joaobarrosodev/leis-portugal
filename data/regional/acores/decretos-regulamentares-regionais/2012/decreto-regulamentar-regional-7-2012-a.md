@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2012/02/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2012-542980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2260de53c1b38d0bfbd1c727fe51d3460450dec97fa57f5cc64dc622c4606e8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a47de7f4d66bf8e8367d15fd10f4baf40efd50e8b5e0e4d7ef944ab524d56513
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
+- Açores
 - Apoio ao Investimento
-- Projeto de Investimento
-- Indústria da Construção
+- Comércio
 - Desenvolvimento Económico
 - Desenvolvimento Local
+- Empresa
+- Financiamento
+- Indústria da Construção
+- Projeto de Investimento
 - Sidel
-- Açores
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:25345896:por
@@ -101,16 +101,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/26/1991/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/26/1991/08/23/p/dre
+- type: cites
+  target: pt:dre:146559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25345896:por
+  label: Revogado, a partir de 01.07.2014, e sem prejuízo do disposto no art. 25º, o DRR 22/2007/A, de 25-out, na redação
+    do presente diploma, pelo(a) Decreto Legislativo Regional n.º 12/2014/A - Diário da República n.º 130/2014, Série I de
+    2014-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2014-25345896
+  date: '2014-07-09'
 article_structure:
-  article_count: 20
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:04Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +170,9 @@ Os artigos 3.º, 4.º, 5.º, 6.º, 7.º e 12.º, os Anexos I, II e III do [Decre
 
 4 - (Revogado.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Para além das condições gerais de acesso previstas no artigo 4.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, os projetos a que se refere o artigo 19.º do mesmo diploma, devem:
 
@@ -167,7 +196,9 @@ d) Apresentar um montante máximo de investimento de (euro) 1 000 000,00, no cas
 
 7 - (Revogado.)
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Constituem despesas elegíveis, no âmbito dos projetos de investimento a que se refere a alínea a) do artigo 19.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, as seguintes:
 
@@ -283,11 +314,15 @@ vii) Realização de concursos.
 
 8 - ...
 
-###### Artigo 6.º — Critérios de seleção
+Artigo 6.º
+
+Critérios de seleção
 
 Aos projetos de investimento a que se referem as alíneas a) e b) do artigo 19.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, é atribuída uma pontuação, calculada de acordo com os critérios estabelecidos no Anexo II ao presente regulamento, do qual faz parte integrante.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -311,7 +346,9 @@ i) 5 % no caso de projetos incluídos nas divisões 56 e 79 da CAE, desde que re
 
 2 - As majorações referidas no número anterior não podem ultrapassar 10 % por projeto de investimento, com exceção dos projetos incluídos em projetos de urbanismo comercial, dos projetos incluídos nas divisões 56 e 79 da CAE, e dos projetos que obtenham as majorações a que se referem as alíneas g) e ou h) do número anterior, em que aquele limite não pode ultrapassar 15 %.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Compete à direção regional com competência em matéria de apoio ao investimento e à competitividade emitir parecer, no prazo de 15 dias úteis, sobre os investimentos na área da qualidade e da segurança e gestão ambiental, a que se refere a subalínea c4) da alínea c) do n.º 1 do artigo 5.º
 
@@ -329,7 +366,9 @@ i) 5 % no caso de projetos incluídos nas divisões 56 e 79 da CAE, desde que re
 
 8 - Compete à direção regional com competência em matéria de turismo emitir parecer, no prazo de 15 dias úteis, sobre a majoração a que se refere a alínea i) do n.º 1 do artigo 7.º
 
-## ANEXO I — Situação financeira, cobertura do projeto por capitais próprios e valor residual
+ANEXO I
+
+Situação financeira, cobertura do projeto por capitais próprios e valor residual
 
 1 - ...
 
@@ -355,7 +394,9 @@ c) Prazo de afetação do projeto de 12 anos:
 
 Cash-flow do projeto ao 12.º ano/Taxa de atualização
 
-## ANEXO II — Metodologia para a determinação da pontuação dos projetos
+ANEXO II
+
+Metodologia para a determinação da pontuação dos projetos
 
 1.º
 
@@ -431,7 +472,9 @@ d) (Revogado.)
 
 9 - ...
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1.º
 
@@ -467,11 +510,11 @@ O presente diploma produz efeitos à data da entrada em vigor do [Decreto Legisl
 
 Aprovado em Conselho do Governo Regional, na Horta, em 26 de novembro de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 6 de janeiro de 2012.**
+Assinado em Angra do Heroísmo em 6 de janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -823,13 +866,13 @@ a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos lí
 
 Percentagem dos meios libertos líquidos sobre vendas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/ativo total líquido, nos seguintes termos:
 
 Percentagem do capital próprio sobre o ativo total líquido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere a alínea d) do n.º 1 do artigo 3.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, o balanço e a demonstração de resultados intercalares reportados a data posterior mas anterior à data de apresentação da candidatura, desde que legalmente certificados por um técnico oficial de contas ou um revisor oficial de contas.
 
@@ -839,7 +882,7 @@ d) No encerramento do exercício a que se reportam as contas intercalares, os in
 
 VAB sobre o número de postos de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
 
 O número de postos de trabalho deve ser aferido no ano cruzeiro do projeto.
 
@@ -849,13 +892,13 @@ O ano cruzeiro não pode ultrapassar três anos completos após a data de conclu
 
 Percentagem novos capitais próprios sobre o investimento elegível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
 
 5 - A pontuação do critério D - contributo do projeto para a competitividade da empresa, é determinada pelo indicador investimento em fatores dinâmicos de competitividade/investimento elegível, nos seguintes termos:
 
 Percentagem do investimento em fatores dinâmicos de competitividade sobre o investimento elegível
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
 
 6 - A pontuação do critério E - contributo do projeto para a inovação e diversificação da oferta, mede o grau de inovação do investimento face ao mercado existente, do seguinte modo:
 
@@ -909,13 +952,13 @@ a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos lí
 
 Percentagem dos meios libertos líquidos sobre vendas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/ativo total líquido, nos seguintes termos:
 
 Percentagem do capital próprio sobre o ativo total líquido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf))](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/02/03600/0081000820.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere a alínea d) do n.º 1 do artigo 3.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, o balanço e a demonstração de resultados intercalares reportados a data posterior mas anterior à data de apresentação da candidatura, desde que legalmente certificados por um técnico oficial de contas ou um revisor oficial de contas.
 

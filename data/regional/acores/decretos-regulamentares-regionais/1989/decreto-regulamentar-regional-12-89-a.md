@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1989-614633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 721a17246f28897ea77e47a9e1c92c2b9217272971b5f090844e330cbb246187
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5af8c1353ad1bd963a20110cff354c5acc437e394d6134152c4af7979d8a480b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Centro de Informática
+- Pessoal de Chefia
+- Reestruturação de Carreiras
+relationships:
+- type: cites
+  target: pt:dre:312398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666548:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:22Z'
   warnings: []
   errors: []
 ---
@@ -94,18 +114,18 @@ Por conseguinte, é de elementar justiça a revalorização, em termos idêntico
 
 Assim, o Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O cargo de chefe de centro de informática passa a ser remunerado pela letra D da tabela de vencimentos da função pública, com efeitos desde 1 de Janeiro de 1988.
+Artigo 1.º O cargo de chefe de centro de informática passa a ser remunerado pela letra D da tabela de vencimentos da função pública, com efeitos desde 1 de Janeiro de 1988.
 
-###### Art. 2.º Consideram-se automaticamente alterados os quadros dos Centros de Prestações Pecuniárias de Segurança Social de Angra do Heroísmo e Ponta Delgada no que diz respeito à letra da tabela de vencimentos atribuída ao cargo de chefe de centro de informática.
+Art. 2.º Consideram-se automaticamente alterados os quadros dos Centros de Prestações Pecuniárias de Segurança Social de Angra do Heroísmo e Ponta Delgada no que diz respeito à letra da tabela de vencimentos atribuída ao cargo de chefe de centro de informática.
 
-###### Art. 3.º As revalorizações resultantes do presente diploma estão sujeitas a anotação pela Secção Regional dos Açores do Tribunal de Contas e publicação no Jornal Oficial.
+Art. 3.º As revalorizações resultantes do presente diploma estão sujeitas a anotação pela Secção Regional dos Açores do Tribunal de Contas e publicação no Jornal Oficial.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 25 de Janeiro de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 27 de Fevereiro de 1989.**
+Assinado em Angra do Heroísmo em 27 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

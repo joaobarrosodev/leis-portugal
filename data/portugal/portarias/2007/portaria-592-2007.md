@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/09100/31313132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/592/2007/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/592-2007-520657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6243041d3bfc638e6bfff8f21c51e39c2011f87e19cc253a42150f0d570b6267
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 936295894f9cee8d70e10485cd0c14d1c3d2b1911b6954417d6fafb3e6ae8d06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Avião
-- Transporte Aéreo
 - ANA
 - Aviação Civil
+- Avião
 - Taxa Aeroportuária
 - Tráfego Aéreo
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:439865:por
@@ -98,16 +98,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/518/2006/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/518/2006/06/05/p/dre
+- type: cites
+  target: pt:dre:333343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673617:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439865:por
+  label: "Revogada a partir de 01.12.2008 pela PORT.1312/2008.12.11.2008.MOPTC, DR.IS [220] de 12.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1312-2008-439865
+  date: '2008-11-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:39Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +157,7 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 1.º As taxas de tráfego a aplicar nos aeroportos do continente sob responsabilidade da empresa ANA - Aeroportos de Portugal, S. A., às quais acrescerá o IVA, são as constantes da seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09100/31313132.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09100/31313132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09100/31313132.pdf)
 
 2.º O valor mínimo por operação aplicável às operações de aterragem e descolagem, no Aeroporto de Lisboa, efectuadas por aeronaves com peso máximo à descolagem (PMD) até 25 t não é aplicável aos serviços aéreos regulares em rotas objecto de imposição de obrigações modificadas de serviço público e aos voos de posição/ferry a eles associados nem às aeronaves constantes do anexo à presente portaria.
 
@@ -136,7 +165,7 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 3 de Maio de 2007.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 3 de Maio de 2007.
 
 ## ANEXO — Lista das aeronaves às quais não se aplica o valor mínimo por operação
 

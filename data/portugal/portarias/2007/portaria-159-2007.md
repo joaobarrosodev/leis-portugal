@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/159/2007/02/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/159-2007-518274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae2e2ca74ceb3b3c3934403717b5922d3eeeb896bd1db285cf14dd15415bea2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b6a09a20dc14565fd8213e5147c88897cddd27244d4b480e64dca318996540d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
 subjects:
 - Associação de Beneficiários
 - Pessoa Colectiva de Direito Público
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:354113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378517:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:16Z'
   warnings: []
   errors: []
 ---
@@ -96,4 +104,4 @@ Assim:
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo dos artigos 1.º e 2.º do [Decreto Regulamentar n.º 84/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517), de 4 de Novembro, que a Associação de Beneficiários da Freguesia da Luz seja reconhecida como pessoa colectiva de direito público.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 17 de Janeiro de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 17 de Janeiro de 2007.

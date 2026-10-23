@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 244/2009, 1º Suplemento, Série I de 2009-12-18
   number: '244'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8714-(3) a 8714-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/24401/0000300004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1426-b/2009/12/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1426-b-2009-324139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8be820bbf3a32c0c769663880e0193af9ae0712c7928d188de0bb44a0524f754
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9829fdff55ba17b5fb8f87b14087d5ed78e0fa65ecdc1f994d70b33dafc8d194
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
-- Sistema de Indemnização aos Investidores
 - Depósito Bancário
 - Direção Geral do Tesouro e Finanças
 - Fundo de Garantia de Depósitos
-- Regulamento
+- Instituição de Crédito
 - Instituição Financeira
+- Regulamento
+- Sistema de Indemnização aos Investidores
 relationships:
 - type: cites
   target: celex:31994L0019
@@ -86,15 +86,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/2009/14/oj
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:13Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +125,7 @@ Ao abrigo do disposto no n.º 1 do artigo 173.º do Regime Geral das Instituiç�
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - ...
 
@@ -137,7 +137,7 @@ Ao abrigo do disposto no n.º 1 do artigo 173.º do Regime Geral das Instituiç�
 
 5 - O Fundo de Garantia de Depósitos cooperará, sempre que se mostre necessário, com outros organismos ou instituições que desempenhem funções análogas às suas no âmbito da garantia de depósitos, nos termos previstos no n.º 6 do artigo 156.º do Regime Geral.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - ...
 
@@ -149,11 +149,11 @@ c) ...
 
 2 - Excluem-se da garantia de reembolso os depósitos relativamente aos quais se verifique alguma das situações previstas no artigo 165.º do Regime Geral.
 
-###### Artigo 6.º
+Artigo 6.º
 
 O Fundo garante o reembolso do valor dos saldos em dinheiro de cada depositante, nos termos do artigo 166.º do Regime Geral.
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - O reembolso deve ter lugar dentro dos prazos e nos termos previstos nos n.os 1 e 2 do artigo 167.º do Regime Geral.
 
@@ -163,7 +163,7 @@ O Fundo garante o reembolso do valor dos saldos em dinheiro de cada depositante,
 
 4 - Considera-se que há indisponibilidade dos depósitos quando se verificar alguma das situações previstas no n.º 5 do artigo 167.º do Regime Geral.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - Para efeitos dos n.os 1 e 2 do artigo 166.º do Regime Geral, devem considerar-se os saldos existentes na data e hora em que ocorrer a indisponibilidade dos depósitos, nos termos do n.º 5 do artigo 167.º do Regime Geral.
 
@@ -187,7 +187,7 @@ h) [Anterior alínea g).]
 
 3 - Para efeitos do disposto no artigo 166.º do Regime Geral, são irrelevantes quaisquer alterações na titularidade dos depósitos que tenham lugar depois de ocorrer a indisponibilidade dos mesmos.
 
-###### Artigo 17.º
+Artigo 17.º
 
 1 - Em caso de indisponibilidade dos depósitos, a instituição depositária é obrigada a fornecer ao Fundo, no prazo de dois dias úteis, uma relação completa dos créditos dos depositantes, devidamente identificados, elaborada de acordo com as regras estabelecidas nos artigos 164.º a 167.º do Regime Geral e reportada à data da verificação daquela indisponibilidade.
 
@@ -209,7 +209,7 @@ h) [Anterior alínea g).]
 
 10 - Caso sejam reembolsadas a depositantes importâncias não devidas nos termos das normas legais e regulamentares aplicáveis, devem tais importâncias ser devolvidas ao Fundo no prazo máximo de cinco dias a contar da data da notificação que o Fundo fizer para esse efeito.
 
-###### Artigo 22.º
+Artigo 22.º
 
 À comissão directiva compete adoptar as acções e medidas que se mostrem adequadas ao bom funcionamento e à realização do objecto do Fundo, designadamente:
 
@@ -253,4 +253,4 @@ p) [Anterior alínea o).]»
 
 3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina, em 27 de Novembro de 2009.**
+O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina, em 27 de Novembro de 2009.

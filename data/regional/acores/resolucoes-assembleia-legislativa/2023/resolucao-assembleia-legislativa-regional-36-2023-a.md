@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/08/15400/0024200252.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/36/2023/08/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/36-2023-216846238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 25126217b71228957da2583c3d037543afdbc0aea46b4bb753bd6db9405a2f0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68643d99abc6a8520b9ec7c48513186d64e746d3e7a04610ebc6f9b82a363186
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Assembleia da República
 - Assembleia Legislativa Regional
 - Parecer
-- Assembleia da República
 - Revisão Constitucional
-- Açores
 relationships: []
 article_structure:
-  article_count: 28
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:39Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +117,9 @@ Estado com Regiões Autónomas
 
 2 - [...]
 
-###### Artigo 11.º — Símbolos nacionais e regionais e língua oficial portuguesa
+Artigo 11.º
+
+Símbolos nacionais e regionais e língua oficial portuguesa
 
 1 - [...]
 
@@ -127,7 +129,9 @@ Estado com Regiões Autónomas
 
 4 - Sem prejuízo da salvaguarda e precedência dos símbolos nacionais, nas regiões autónomas os respetivos símbolos regionais são utilizados conjuntamente com os símbolos nacionais nas instalações e nas cerimónias públicas, exceto em cerimónias internacionais entre Estados e em cerimónias militares.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -147,7 +151,9 @@ Estado com Regiões Autónomas
 
 9 - A execução da declaração do estado de emergência nas regiões autónomas é assegurada pelo Governo Regional.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - [...]
 
@@ -159,7 +165,9 @@ Estado com Regiões Autónomas
 
 5 - Podem ser criados, por ato legislativo, provedores setoriais desde que salvaguardado o acesso direto ao Provedor de Justiça.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - [...]
 
@@ -173,7 +181,9 @@ Estado com Regiões Autónomas
 
 6 - [...]
 
-###### Artigo 84.º — [...]
+Artigo 84.º
+
+[...]
 
 1 - [...]
 
@@ -197,7 +207,9 @@ f) [...]
 
 5 - Para efeitos do disposto no número anterior entende-se por gestão partilhada o mútuo acordo, entre o Estado e a respetiva região autónoma, quanto ao regime jurídico de ordenamento, gestão e exploração do espaço marítimo, nas zonas marítimas, e fundos contíguos, para além das 200 milhas.
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - [...]
 
@@ -215,7 +227,9 @@ f) [...]
 
 8 - [...]
 
-###### Artigo 119.º — [...]
+Artigo 119.º
+
+[...]
 
 1 - [...]
 
@@ -241,7 +255,9 @@ i) [...]
 
 3 - [...]
 
-###### Artigo 133.º — [...]
+Artigo 133.º
+
+[...]
 
 [...]
 
@@ -275,7 +291,9 @@ o) [...]
 
 p) [...]
 
-###### Artigo 163.º — [...]
+Artigo 163.º
+
+[...]
 
 [...]
 
@@ -297,7 +315,9 @@ h) Eleger, por maioria de dois terços dos Deputados presentes, desde que superi
 
 i) [...]
 
-###### Artigo 165.º — [...]
+Artigo 165.º
+
+[...]
 
 1 - [...]
 
@@ -357,7 +377,9 @@ aa) [...]
 
 5 - [...]
 
-###### Artigo 184.º — Composição
+Artigo 184.º
+
+Composição
 
 1 - [...]
 
@@ -367,7 +389,9 @@ aa) [...]
 
 4 - Participam nos Conselhos de Ministros os Presidentes dos Governos das regiões autónomas, quando, em razão da matéria, o solicitarem ou para tal forem convidados.
 
-###### Artigo 222.º — [...]
+Artigo 222.º
+
+[...]
 
 1 - O Tribunal Constitucional é composto por treze juízes, sendo oito designados pela Assembleia da República, um por cada uma das Assembleias Legislativas das regiões autónomas e três cooptados por estes.
 
@@ -381,7 +405,9 @@ aa) [...]
 
 6 - [...]
 
-###### Artigo 226.º — [...]
+Artigo 226.º
+
+[...]
 
 1 - As propostas de estatutos político-administrativos e das leis relativas à eleição dos Deputados às Assembleias Legislativas das regiões autónomas são elaboradas pelas Assembleias Legislativas das regiões autónomas e enviadas para discussão e aprovação à Assembleia da República.
 
@@ -393,7 +419,9 @@ aa) [...]
 
 5 - O regime previsto nos números anteriores é aplicável às alterações dos estatutos político-administrativos e das leis relativas à eleição dos Deputados às Assembleias Legislativas das regiões autónomas.
 
-###### Artigo 227.º — [...]
+Artigo 227.º
+
+[...]
 
 1 - As regiões autónomas são pessoas coletivas territoriais e têm os seguintes poderes, a desenvolver nos respetivos estatutos:
 
@@ -453,17 +481,23 @@ bb) Participar, de modo institucional, nas representações diplomática e consu
 
 4 - [...]
 
-###### Artigo 228.º — [...]
+Artigo 228.º
+
+[...]
 
 1 - A autonomia legislativa das regiões autónomas incide sobre as matérias que não estejam reservadas aos órgãos de soberania, tendo em conta o disposto nas alíneas a), b) e c) do n.º 1 do artigo anterior.
 
 2 - [...]
 
-###### Artigo 230.º — [...]
+Artigo 230.º
+
+[...]
 
 (Revogado.)
 
-###### Artigo 231.º — [...]
+Artigo 231.º
+
+[...]
 
 1 - São órgãos de governo próprio a Assembleia Legislativa e o Governo da região autónoma.
 
@@ -485,7 +519,9 @@ bb) Participar, de modo institucional, nas representações diplomática e consu
 
 10 - O estatuto dos titulares dos órgãos de governo próprio das regiões autónomas é definido nos respetivos estatutos político-administrativos.
 
-###### Artigo 232.º — Assembleia Legislativa da região autónoma
+Artigo 232.º
+
+Assembleia Legislativa da região autónoma
 
 1 - A Assembleia Legislativa é o órgão representativo da Região.
 
@@ -497,11 +533,15 @@ bb) Participar, de modo institucional, nas representações diplomática e consu
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 233.º — Assinatura dos decretos legislativos regionais e dos decretos regulamentares regionais
+Artigo 233.º
+
+Assinatura dos decretos legislativos regionais e dos decretos regulamentares regionais
 
 Os decretos legislativos regionais e os decretos regulamentares regionais devem ser assinados pelo Presidente da Assembleia Legislativa no prazo de oito dias a contar da sua receção e ser referendados pelo Presidente do Governo.
 
-###### Artigo 234.º — [...]
+Artigo 234.º
+
+[...]
 
 1 - As Assembleias Legislativas das regiões autónomas podem ser dissolvidas pelo Presidente da República, ouvidos o Conselho de Estado, o Presidente da Assembleia Legislativa e os respetivos grupos e representações parlamentares.
 
@@ -509,7 +549,9 @@ Os decretos legislativos regionais e os decretos regulamentares regionais devem 
 
 3 - [...]
 
-###### Artigo 237.º — [...]
+Artigo 237.º
+
+[...]
 
 1 - [...]
 
@@ -521,7 +563,9 @@ Os decretos legislativos regionais e os decretos regulamentares regionais devem 
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 278.º — [...]
+Artigo 278.º
+
+[...]
 
 1 - [...]
 
@@ -539,7 +583,9 @@ Os decretos legislativos regionais e os decretos regulamentares regionais devem 
 
 8 - [...]
 
-###### Artigo 279.º — [...]
+Artigo 279.º
+
+[...]
 
 1 - Se o Tribunal Constitucional se pronunciar pela inconstitucionalidade de norma constante de qualquer decreto ou acordo internacional, deverá o diploma ser vetado pelo Presidente da República e devolvido ao órgão que o tiver aprovado.
 
@@ -549,7 +595,9 @@ Os decretos legislativos regionais e os decretos regulamentares regionais devem 
 
 4 - [...]
 
-###### Artigo 281.º — [...]
+Artigo 281.º
+
+[...]
 
 1 - [...]
 
@@ -605,7 +653,9 @@ Princípios autonómicos fundamentais
 
 9 - Em situações de pandemia, de calamidade pública ou de grave crise de saúde, legalmente decretadas, as regiões autónomas podem interditar, de modo transitório e enquanto se verificar a situação que lhe deu origem, o acesso total ou parcial ao território regional, por via marítima ou aérea ou impor restrições à circulação de pessoas e bens no território regional.
 
-###### Artigo 278.º-A — Fiscalização concomitante da publicação de diplomas regionais
+Artigo 278.º-A
+
+Fiscalização concomitante da publicação de diplomas regionais
 
 1 - Podem requerer ao Tribunal Constitucional a fiscalização concomitante da constitucionalidade de qualquer norma constante de decreto legislativo regional ou de decreto regulamentar regional, além do Presidente da República, um quinto dos Deputados à Assembleia da República, o Presidente da respetiva Assembleia Legislativa ou um quinto dos seus Deputados.
 
@@ -619,4 +669,6 @@ São revogados o n.º 4 do artigo 51.º, a alínea l) do artigo 133.º, o artigo
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de julho de 2023.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
+
+116751573

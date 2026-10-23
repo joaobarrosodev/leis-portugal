@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/033b00/04930494.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2000/02/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2000-402097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 289da7039026429cfcf81a197a94ffd4f0d866e92ca25ed58abab565e10b78c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2f5b69a3669ed679868cb6e72c28ab7406a83e59900dcc39c7aee837b68d852
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Administrador
+- Centro de Gestão Financeira da Segurança Social
 - Conselho de Administração
 - Orgânica
-- Centro de Gestão Financeira da Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:276829:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168041:por
+  label: "Alterado o art. 10º do DRR 30/90/A, de 15-Set, na redacção do presente diploma, pelo DRR.2/2006/A.19.12.2005.PG-RAA,\
+    \ DR.IS-B [7] de 10.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2006-168041
+  date: '2005-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24/1997/12/17/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/24/1997/12/17/a/dre
+- type: cites
+  target: pt:dre:417398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557658:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276829:por
+  label: "Revogado, a partir de 01.06.2011, o DRR 30/90/A de 13-Ago, com as alterações constantes do presente diploma, pelo\
+    \ DRR.7/2011/A.08.04.2011.PG-RAA, DR.IS [70] de 08.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2011-276829
+  date: '2011-04-08'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:22Z'
   warnings: []
   errors: []
 ---
@@ -120,10 +144,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 4 de Novembro de 1999.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 24 de Janeiro de 2000.**
+Assinado em Angra do Heroísmo em 24 de Janeiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

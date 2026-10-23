@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2012/03/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2012-553954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a427c8ce21519ccaf842c20682a84769f7f0ce6a5d7b732504f764a70c9698f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b86a35334f4f04b24ce99fa43214ff874708c3eba68699684022d95aaed1fed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Bebida não Alcoólica
+- Comércio
+- Equipamento Eletrónico
 - Espetáculos e Divertimentos Públicos
 - Estabelecimento Comercial
-- Equipamento Eletrónico
 - Estabelecimento Industrial
 - Licenciamento
 - Máquinas de Jogo
 - Regime Jurídico
-- Açores
-- Comércio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre
@@ -109,16 +109,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/41/2006/10/31/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/41/2006/10/31/a/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694251:por
+  label: null
+  source: null
 article_structure:
   article_count: 29
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:29Z'
   warnings: []
   errors: []
 ---
@@ -165,11 +205,11 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de fevereiro de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 12 de março de 2012.**
+Assinado em Angra do Heroísmo em 12 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -233,7 +273,9 @@ b) Fatura ou documento equivalente que contenha os elementos identificativos da 
 
 A importação, fabrico, montagem, substituição de temas de jogos e venda de máquinas de diversão far-se-á nos termos do artigo 22.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de dezembro.
 
-###### Artigo 7.º — Título de registo
+###### Artigo 7.º
+
+## Título de registo
 
 1 - Preenchidos os requisitos exigidos no artigo 5.º, o membro do Governo Regional com competência na área de polícia administrativa mandará emitir o título de registo, que acompanhará obrigatoriamente a máquina a que respeitar.
 
@@ -293,7 +335,9 @@ d) Licença de utilização, a emitir pela câmara municipal.
 
 O membro do Governo Regional com competência na área de polícia administrativa pode recusar, em despacho fundamentado, a concessão ou a renovação de licença de exploração, sempre que tal medida de polícia se justifique para a proteção à infância e juventude, prevenção da criminalidade e manutenção ou reposição da segurança, da ordem ou da tranquilidade públicas.
 
-###### Artigo 16.º — Título de licenciamento
+###### Artigo 16.º
+
+## Título de licenciamento
 
 1 - A licença de exploração mencionará expressamente a entidade exploradora, a localização do recinto e o período de validade, bem como o número de máquinas.
 

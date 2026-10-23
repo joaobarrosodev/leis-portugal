@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/052b00/11391141.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2004/03/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2004-551852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11c4a2015124c91dc923c38cf48815728517d06925ebb353c7630ee274b86787
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d64040b4078cbdd0a1ad6b32818e40a166d97bbdf90f3116ba0d8b03c6c6cbdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Regional
-- Incentivos ao Desenvolvimento
-- Desenvolvimento Local
-- Sidel
-- Sider
 - Açores
 - Autarquia Local
+- Desenvolvimento Local
+- Desenvolvimento Regional
+- Incentivos ao Desenvolvimento
+- Sidel
+- Sider
 relationships:
 - type: amended_by
   target: pt:dre:636761:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:222039:por
+  label: "Alterados o art. 5º e os nºs 3º e 5º do anexo I do DRR 6/2001/A de 06-Jun, com a redacção do presente diploma, pelo\
+    \ DRR.12/2005/A.22.04.2005.PG-RAA, DR.IS-B [100] de 24.05.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2005-222039
+  date: '2005-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/2000/08/10/a/dre
   label: null
@@ -86,16 +92,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2001/06/06/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2001/06/06/a/dre
+- type: cites
+  target: pt:dre:321887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339848:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636761:por
+  label: "Revogado a partir de 24.07.2007 pelo DLR.19/2007/A.23.07.2007.AL-RAA, DR.IS [140] de 23.07.2007, sem prejuízo do\
+    \ disposto no nº 1 do art. 38º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2007-636761
+  date: '2007-07-23'
 article_structure:
-  article_count: 6
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:59Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +146,9 @@ c) ...
 
 d) 'Criação de empresa' quando a empresa não possua actividade no ano anterior ao da apresentação da candidatura, ou possua uma actividade residual, considerando-se como tal a actividade meramente relacionada com a sua constituição.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -152,7 +174,9 @@ j) ...
 
 2 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -178,7 +202,9 @@ d) ...
 
 8 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +226,9 @@ g) ...
 
 3 - (Anterior n.º 4.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +258,9 @@ k) Intervenções relativas à instrução do processo de certificação, qualif
 
 3 - No âmbito de um projecto de investimento de transferência de localização, será considerado investimento elegível apenas a diferença entre o montante do novo investimento a realizar e o valor residual da antiga instalação.
 
-## ANEXO I — 1.º
+ANEXO I
+
+1.º
 
 [...]
 
@@ -246,7 +276,7 @@ k) Intervenções relativas à instrução do processo de certificação, qualif
 
 3 - O subcritério A(índice 2) será calculado tendo por base a noção de autonomia financeira, resultante do rácio capital próprio/activo líquido, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11391141.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11391141.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11391141.pdf)
 
 4 - Para o cálculo dos subcritérios referidos nos n.os 2 e 3 serão utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere o n.º 6 do artigo 5.º do presente diploma, o balanço e a demonstração de resultados intercalares, reportados a data posterior, mas anterior à data de apresentação da candidatura, desde que ratificados por um TOC ou ROC.
 
@@ -262,7 +292,7 @@ k) Intervenções relativas à instrução do processo de certificação, qualif
 
 3 - O subcritério B(índice 2) será determinado pela percentagem de novos capitais próprios (podendo incluir até 40% os suprimentos consolidados pelo período de afectação do projecto) relativamente ao investimento elegível, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11391141.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11391141.pdf)](https://files.diariodarepublica.pt/1s/2004/03/052b00/11391141.pdf)
 
 4.º
 
@@ -312,10 +342,10 @@ O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicaç
 
 Aprovado em Conselho de Governo Regional, em Ponta Delgada, em 6 de Janeiro de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 3 de Fevereiro de 2004.**
+Assinado em Angra do Heroísmo em 3 de Fevereiro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

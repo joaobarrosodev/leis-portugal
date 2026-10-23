@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/06/12200/0000200023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2025/06/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2025-922702036
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe266832337be2fd7ed394cfdc52c2188b2e8306bfaa0207ab329a8e43c3fd9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6633d2f71d242cba68bbefa70cfa3c95b68bcaee7d6c7577aae3ada3cb919aa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Desenvolvimento Regional
-- Regulamentação de Atos Legislativos
-- Apoio ao Investimento
-- Jovem Empresário
-- Sistema de Incentivos da Região Autónoma dos Açores
 - Açores
-- Subsídio não Reembolsável
 - Açores 2030
+- Apoio ao Investimento
+- Desenvolvimento Regional
+- Financiamento
+- Jovem Empresário
+- Regulamentação de Atos Legislativos
+- Sistema de Incentivos da Região Autónoma dos Açores
+- Subsídio não Reembolsável
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:20/2023/A
+  label: Altera, a partir de 28 de junho de 2025, os artigos 2.º, 4.º, 5.º, 6.º, 7.º, 9.º e 10.º e os anexos i e ii e revoga
+    a alínea b) do artigo 5.º, o n.º 3 do artigo 9.º e os pontos 2 e 3 do anexo ii do Decreto Regulamentar Regional n.º 20/2023/A,
+    de 1 de agosto, Diário da República n.º 148/2023, Série I, que é republicado
+  source: null
+  date: '2023-08-01'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -107,16 +114,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/20/2023/08/01/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/20/2023/08/01/a/dre
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213761241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:907097147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:914891327:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:08Z'
   warnings: []
   errors: []
 ---
@@ -183,7 +214,9 @@ v) Serviços, o que inclui as divisões 58, 62, 71, 72, 74, 75, 90, excluindo a 
 
 6 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Podem beneficiar dos incentivos previstos na presente medida os empresários em nome individual e sociedades comerciais independentemente da natureza jurídica, com residência fiscal, sede ou estabelecimento estável na Região Autónoma dos Açores, cujo capital social seja detido maioritariamente por jovens empreendedores, um dos quais com posição maioritária em relação à participação cumulativa dos sócios não jovens.
 
@@ -195,7 +228,9 @@ b) Criem o seu próprio posto de trabalho e se dediquem, sob declaração de com
 
 c) [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]
 
@@ -207,7 +242,9 @@ c) [...]
 
 d) [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -225,7 +262,9 @@ b) Ter uma duração máxima de execução de dois anos, a contar da data de not
 
 6 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -279,7 +318,9 @@ q) Aquisição de serviços relacionados com assistência técnica em matéria d
 
 3 - No âmbito de uma operação que visa a transferência de instalações de unidades empresariais dentro do espaço geográfico da Região Autónoma dos Açores, será considerado elegível a diferença entre o valor do investimento a realizar e o valor residual das antigas instalações.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -289,7 +330,9 @@ q) Aquisição de serviços relacionados com assistência técnica em matéria d
 
 4 - Sempre que se verificar, de forma fundamentada, não estarem reunidas as condições em termos de capacidade técnica e de gestão adequadas à dimensão e complexidade do projeto, a candidatura é considerada não elegível.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -305,7 +348,9 @@ b) 5 % para projetos promovidos por empresas cujo capital social é detido a 100
 
 5 - [...]
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 [...]
 
@@ -423,7 +468,9 @@ D3 - [...]
 
 D3.1 - [...]
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 [...]
 
@@ -459,11 +506,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 4 de junho de 2025.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 25 de junho de 2025.**
+Assinado em Angra do Heroísmo em 25 de junho de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1014,3 +1061,5 @@ d) 5 % no caso de projetos que integrem outras Construções e reabilitação de
 2 - (Revogado.)
 
 3 - (Revogado.)
+
+119224381

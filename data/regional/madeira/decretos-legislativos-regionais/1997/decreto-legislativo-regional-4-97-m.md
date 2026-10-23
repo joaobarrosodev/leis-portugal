@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/1997/04/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1997-469377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9636b3fd9c8061d986e881758d2918868dfe5438ccdcf6add5120004bae4bb92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34cbf11bc4113112b945c04e28303f8dfb07f14732b65eb4fbe58f96b67851fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Colocação de Professores
 - Concurso
 - Ensino Preparatório
-- Pessoal Docente
 - Madeira.região Autónoma
+- Pessoal Docente
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:55021038:por
@@ -85,16 +85,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:374778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669864:por
+  label: "Revogado o DLR 4/88/M de 18-Mai, com excepção do respectivo art. 90º, com a redacção conferida pelo presente diploma,\
+    \ pelo DLR.17/2003/M.2003.06.30.ALR-RAM DR.IS-A [167] de 22/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2003-669864
+  date: '2003-06-30'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:21Z'
   warnings: []
   errors: []
 ---
@@ -143,13 +165,13 @@ Os artigos 15.º, 27.º e 57.º do [Decreto Legislativo Regional n.º 4/88/M](ht
 
 3 - ...
 
-###### Artigo 27.º
+Artigo 27.º
 
 1 - Os professores dos quadros na situação de licença sem vencimento de longa duração podem candidatar-se ao concurso sempre que, havendo requerido o regresso ao quadro de origem, até ao final do mês de Setembro do ano lectivo anterior àquele em que pretendem regressar, sejam informados da inexistência de vaga no grupo de docência a que pertencem.
 
 2 - Os docentes referidos no número anterior podem candidatar-se à primeira e à segunda parte do concurso, inseridos na primeira prioridade referida no n.º 1 do artigo 6.º do presente diploma, mantendo aquela prioridade até à obtenção de um lugar de quadro.
 
-###### Artigo 57.º
+Artigo 57.º
 
 1 - ...
 
@@ -169,10 +191,10 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1997.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 7 de Março de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 25 de Março de 1997.**
+Assinado em 25 de Março de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

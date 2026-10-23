@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/22500/27992810.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1986-221698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 379437ea7e8767313d12186274797261ed54648a13ebd0d11a4f81e5b9ae88a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdf61aed2c029b6c5d35bcf2c292f5885dfa3d62181ab1e06c67148778eeb66d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Secretaria Regional do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:333154:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666488:por
+  label: "Alterados os arts. 15.º, 24.º, 25.º e 32.º e o quadro de pessoal pelo DRR.6/87/A.25.03.1987.GR-RAA, DR.IS [70] de\
+    \ 25.03.1987\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1987-666488
+  date: '1987-03-25'
+- type: amended_by
+  target: pt:dre:283507:por
+  label: "Alterado o quadro de pessoal a que se refere o art. 36.º pelo DRR.5/88/A.20.01.1988.GR-RAA, DR.IS [16] de 20.01.1988\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1988-283507
+  date: '1988-01-20'
+- type: amended_by
+  target: pt:dre:374218:por
+  label: "Alterado o art. 51º e o quadro de pessoal a que se refere o art. 36º, pelo DRR.25/88/A.1988.05.13.GR-RAA, DR.IS\
+    \ [129] de 04/Jun/1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-1988-374218
+  date: '1988-05-13'
+- type: amended_by
+  target: pt:dre:379917:por
+  label: "Alterado o art. 27.º pelo DRR.37/88/A.24.08.1988.GR-RAA, DR.IS [195] de 24.08.1988\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/37-1988-379917
+  date: '1988-08-24'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333154:por
+  label: "Revogado o presente diploma, alterado pelo DRR 6/87/A, de 25-Mar, pelo DRR 5/88/A, de 20-Jan, pelo DRR 25/88/A,\
+    \ de 13-Mai e pelo DRR 37/88/A, de 24-Ago, pelo DRR.14/90/A.1990.03.16.GR-RAA, DR.IS [78] de 03.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1990-333154
+  date: '1990-03-16'
 article_structure:
   article_count: 61
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:41Z'
   warnings: []
   errors: []
 ---
@@ -220,7 +288,9 @@ e) Secção dos Assuntos Gerais e das Contra-Ordenações.
 
 2 - As secções previstas nas alíneas c), d) e e) do número anterior situam-se na dependência funcional da Repartição de Serviços Administrativos, mas dependem hierarquicamente do responsável pelo serviço em que exerçam funções.
 
-##### SUBSECÇÃO I — Secção de Expediente e Pessoal
+##### SUBSECÇÃO I
+
+#### Secção de Expediente e Pessoal
 
 ###### Artigo 11.º — (Competências)
 
@@ -236,7 +306,9 @@ d) Realizar as acções de recrutamento e selecção de pessoal que não estejam
 
 e) Dirigir e superintender o pessoal auxiliar e o serviço de reprografia.
 
-##### SUBSECÇÃO II — Secção de Contabilidade
+##### SUBSECÇÃO II
+
+#### Secção de Contabilidade
 
 ###### Artigo 12.º — (Competências)
 
@@ -246,7 +318,9 @@ a) Elaborar o projecto de orçamento da SRT;
 
 b) Assegurar o serviço de economato e de contabilidade.
 
-##### SUBSECÇÃO III — Secção de Regulamentação de Trabalho
+##### SUBSECÇÃO III
+
+#### Secção de Regulamentação de Trabalho
 
 ###### Artigo 13.º — (Competências)
 
@@ -272,7 +346,9 @@ e) Assegurar a organização, actualização e manutenção de arquivos-ficheiro
 
 5) Conflitos de trabalho.
 
-##### SUBSECÇÃO IV — Secção Administrativa do Centro de Formação Profissional dos Açores
+##### SUBSECÇÃO IV
+
+#### Secção Administrativa do Centro de Formação Profissional dos Açores
 
 ###### Artigo 14.º — (Competências)
 
@@ -290,7 +366,9 @@ e) Proceder ao aprovisionamento de materiais de consumo para as acções de form
 
 f) Dirigir e superintender o pessoal administrativo e auxiliar e o serviço de reprografia.
 
-##### SUBSECÇÃO V — Secção dos Assuntos Gerais e das Contra-Ordenações
+##### SUBSECÇÃO V
+
+#### Secção dos Assuntos Gerais e das Contra-Ordenações
 
 ###### Artigo 15.º — (Competências)
 
@@ -846,14 +924,14 @@ Ficam revogados os Decretos Regulamentares Regionais n.os [19/78/A](https://diar
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 4 de Julho de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 27 de Agosto de 1986.**
+Assinado em Angra do Heroísmo em 27 de Agosto de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco J. Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco J. Rocha Vieira.
 
 Quadro de pessoal a que se refere o artigo 36.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/09/22500/27992810.pdf))](https://files.diariodarepublica.pt/1s/1986/09/22500/27992810.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/09/22500/27992810.pdf)

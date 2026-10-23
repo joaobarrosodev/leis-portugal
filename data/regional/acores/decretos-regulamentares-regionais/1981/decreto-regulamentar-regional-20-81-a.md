@@ -46,40 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1981-388055
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e16597cf239ce2cafd5478df9005d9d6199c9c42c3e9e6b27bdd660691c5a02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf59ca59c1117ef3a64686ba26c4f70525ae48c01bf8497b6041a07a4ae82104
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Regional
+- Autarquia Local
+- Carreira Profissional
 relationships:
 - type: amended_by
   target: pt:dre:497471:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:24Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +100,7 @@ Considerando as necessidades de desenvolvimento da Região e o sismo de 1 de Jan
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Enquanto não forem implementados os cursos de técnico de topografia, o ingresso na carreira de topógrafos na Administração Regional e na Administração Autárquica na Região Autónoma dos Açores fica condicionado aos indivíduos habilitados com o curso geral dos liceus ou habilitação equiparada e à frequência, com aproveitamento, de um curso de topógrafos e de um estágio a realizar nos serviços competentes da Secretaria Regional do Equipamento Social.
+Artigo 1.º - 1 - Enquanto não forem implementados os cursos de técnico de topografia, o ingresso na carreira de topógrafos na Administração Regional e na Administração Autárquica na Região Autónoma dos Açores fica condicionado aos indivíduos habilitados com o curso geral dos liceus ou habilitação equiparada e à frequência, com aproveitamento, de um curso de topógrafos e de um estágio a realizar nos serviços competentes da Secretaria Regional do Equipamento Social.
 
 2 - Findo o curso referido no número anterior os candidatos a topógrafos concorrerão às vagas existentes nos serviços públicos, sendo seleccionados os que tiverem melhores classificações.
 
@@ -104,16 +108,16 @@ O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da 
 
 4 - Aos candidatos a topógrafos referidos no número anterior que não obtenham aproveitamento no final do estágio ser-lhes-á rescindido o respectivo contrato.
 
-###### Art. 2.º Os funcionários da Administração Regional e da Administração Autárquica da Região que, independentemente da sua categoria, mas sem prejuízo das habilitações literárias exigidas, tenham conhecimentos e exerçam funções de topografia há mais de dois anos poderão transitar para aquela carreira na classe que possuem, desde que frequentem, com aproveitamento, um curso de topografia a realizar na Secretaria Regional do Equipamento Social.
+Art. 2.º Os funcionários da Administração Regional e da Administração Autárquica da Região que, independentemente da sua categoria, mas sem prejuízo das habilitações literárias exigidas, tenham conhecimentos e exerçam funções de topografia há mais de dois anos poderão transitar para aquela carreira na classe que possuem, desde que frequentem, com aproveitamento, um curso de topografia a realizar na Secretaria Regional do Equipamento Social.
 
-###### Art. 3.º Os concursos, cursos e estágios referidos neste diploma serão regulamentados por portaria conjunta dos Secretários Regionais da Administração Pública, da Educação e Cultura, do Trabalho e do Equipamento Social.
+Art. 3.º Os concursos, cursos e estágios referidos neste diploma serão regulamentados por portaria conjunta dos Secretários Regionais da Administração Pública, da Educação e Cultura, do Trabalho e do Equipamento Social.
 
 Aprovado pelo Governo Regional em 17 de Fevereiro de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 4 de Março de 1981.**
+Assinado em Angra do Heroísmo em 4 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

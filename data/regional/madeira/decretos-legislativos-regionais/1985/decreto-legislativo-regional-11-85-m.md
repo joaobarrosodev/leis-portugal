@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1985-151546
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1146f031af0e48041ca6ad83ff6e7bef2912333f32f5503b766d23d5a4dd52e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d70762e2cf4903765afd4fbc7a88050f598da61892e93211c841def11fcac95d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Madeira.região Autónoma
+- Medidas Preventivas
+- Parque Natural da Madeira
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:540626:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540626:por
+  label: "Alterado o art. 5.º, pelo DLR.38/2006/M.04.08.2006.AL-RAM, DR.IS [162] de 23.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/38-2006-540626
+  date: '2006-08-04'
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:56Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +111,21 @@ Para a realização desses objectivos, torna-se necessário eliminar na área do
 
 Assim, a Assembleia Regional da Madeira decreta, nos termos da alínea a) do artigo 229.º da Constituição e da alínea a) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º Salvo o disposto no artigo seguinte, é proibido o abandono ou despejo de aterros, lixos, materiais poluentes, detritos ou sucata em toda a área do Parque Natural da Madeira.
+Artigo 1.º Salvo o disposto no artigo seguinte, é proibido o abandono ou despejo de aterros, lixos, materiais poluentes, detritos ou sucata em toda a área do Parque Natural da Madeira.
 
-###### Art. 2.º Em casos devidamente justificados e mediante prévia autorização do Parque Natural poderão ser admitidos vazamentos em zonas arcadas, as quais não poderão, em caso algum, situar-se em áreas de reserva ou de paisagem protegida.
+Art. 2.º Em casos devidamente justificados e mediante prévia autorização do Parque Natural poderão ser admitidos vazamentos em zonas arcadas, as quais não poderão, em caso algum, situar-se em áreas de reserva ou de paisagem protegida.
 
-###### Art. 3.º - 1 - Carece de autorização prévia do Parque Natural da Madeira a realização de quaisquer obras de edificação a efectuar na área deste.
+Art. 3.º - 1 - Carece de autorização prévia do Parque Natural da Madeira a realização de quaisquer obras de edificação a efectuar na área deste.
 
 2 - A autorização não será concedida sempre que as obras a realizar possam causar alteração no meio físico e ambiente.
 
 3 - A autorização referida neste artigo constitui documento necessário ao processo para obtenção de outros condicionamentos ou licenças exigidos por lei.
 
-###### Art. 4.º - 1 - Carece igualmente de autorização prévia do Parque Natural da Madeira a abertura de estradas, caminhos e outras vias de acesso, bem como a extracção de produtos inertes de qualquer natureza, a levar a cabo na área daquele.
+Art. 4.º - 1 - Carece igualmente de autorização prévia do Parque Natural da Madeira a abertura de estradas, caminhos e outras vias de acesso, bem como a extracção de produtos inertes de qualquer natureza, a levar a cabo na área daquele.
 
 2 - Os processos de licenciamento para a extracção de inertes na área do Parque Natural da Madeira já autorizados à data da entrada em vigor do presente diploma serão objecto de revisão quando se verifique que a sua continuação poderá provocar alteração no meio físico e ambiente.
 
-###### Art. 5.º - 1 - A infracção ao disposto no artigo 1.º do presente diploma constitui contra-ordenação, a que corresponde uma coima de 10000$00 a 100000$00.
+Art. 5.º - 1 - A infracção ao disposto no artigo 1.º do presente diploma constitui contra-ordenação, a que corresponde uma coima de 10000$00 a 100000$00.
 
 2 - A infracção ao disposto nos n.os 1 dos artigos 3.º e 4.º constitui contra-ordenação, a que corresponde a coima de 50000$00 a 200000$00.
 
@@ -116,24 +133,24 @@ Assim, a Assembleia Regional da Madeira decreta, nos termos da alínea a) do art
 
 4 - Para além das coimas previstas nos números anteriores, podem ser apreendidos os equipamentos e produtos objecto da prática da infracção.
 
-###### Art. 6.º - 1 - Os infractores às disposições do presente diploma ficam obrigados a repor a situação anterior.
+Art. 6.º - 1 - Os infractores às disposições do presente diploma ficam obrigados a repor a situação anterior.
 
 2 - No caso de os infractores não cumprirem o preceituado no número anterior, o Parque Natural da Madeira providenciará pela reposição, a expensas dos mesmos.
 
-###### Art. 7.º - 1 - O processamento das contra-ordenações e a aplicação das coimas previstas neste diploma são, respectivamente, da competência do Parque Natural da Madeira e do seu director.
+Art. 7.º - 1 - O processamento das contra-ordenações e a aplicação das coimas previstas neste diploma são, respectivamente, da competência do Parque Natural da Madeira e do seu director.
 
 2 - O director do Parque Natural da Madeira poderá confiar a investigação e instrução dos processos por contra-ordenações às autoridades policiais, bem como solicitar o auxílio de outras autoridades e serviços públicos.
 
-###### Art. 8.º O produto resultante do pagamento das coimas previstas neste diploma constitui receita do Parque Natural da Madeira.
+Art. 8.º O produto resultante do pagamento das coimas previstas neste diploma constitui receita do Parque Natural da Madeira.
 
-###### Art. 9.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 28 de Fevereiro de 1985.
 
-**O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz de Mendonça.**
+O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz de Mendonça.
 
-**Assinado em 15 de Março de 1985.**
+Assinado em 15 de Março de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

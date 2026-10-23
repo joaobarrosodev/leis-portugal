@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/00400/00340034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1988-583471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 600bdb832b8dcd0d97e4673ec8dd4648e15704ea3080e32c18f675cd5a27a888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c71a757c4e6e0f7bff067bac15673bab3a3c5d02dd99b711a7ab60eb957a7e45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Quadro de Pessoal
+- Secretaria Regional das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:354756:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384270:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354756:por
+  label: "Revogado pelo DRR.40/88/A.07.10.1988.GR-RAA, DR.IS [232] de 07.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/40-1988-354756
+  date: '1988-10-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:57Z'
   warnings: []
   errors: []
 ---
@@ -98,22 +118,22 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Ao quadro de pessoal da Direcção Regional do Orçamento e Contabilidade, da Secretaria Regional das Finanças, aprovado pelo [Decreto Regulamentar Regional n.º 25/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1986-228220), de 10 de Julho, são aditados os lugares constantes do mapa anexo ao presente diploma.
+Artigo 1.º Ao quadro de pessoal da Direcção Regional do Orçamento e Contabilidade, da Secretaria Regional das Finanças, aprovado pelo [Decreto Regulamentar Regional n.º 25/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1986-228220), de 10 de Julho, são aditados os lugares constantes do mapa anexo ao presente diploma.
 
-###### Art. 2.º - 1 - Os escriturários-dactilógrafos que, por força do disposto no n.º 4 do artigo 6.º do [Decreto Regulamentar Regional n.º 17/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1984-384270), de 29 de Maio, transitaram para a categoria de estagiário de contabilidade serão providos na categoria de técnico profissional de contabilidade de 2.ª classe, desde que obtenham informação positiva, a prestar pelo dirigente dos serviços onde exerçam a sua actividade.
+Art. 2.º - 1 - Os escriturários-dactilógrafos que, por força do disposto no n.º 4 do artigo 6.º do [Decreto Regulamentar Regional n.º 17/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1984-384270), de 29 de Maio, transitaram para a categoria de estagiário de contabilidade serão providos na categoria de técnico profissional de contabilidade de 2.ª classe, desde que obtenham informação positiva, a prestar pelo dirigente dos serviços onde exerçam a sua actividade.
 
 2 - A informação a que se refere o número anterior terá por base as classificações de serviço obtidas nos últimos três anos.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 30 de Outubro de 1987.
 
-**O Presidente do Governo Regional, em exercício, Raul Gomes dos Santos.**
+O Presidente do Governo Regional, em exercício, Raul Gomes dos Santos.
 
-**Assinado em Angra do Heroísmo em 9 de Dezembro de 1987.**
+Assinado em Angra do Heroísmo em 9 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.
 
 Mapa a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/00400/00340034.pdf))](https://files.diariodarepublica.pt/1s/1988/01/00400/00340034.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/00400/00340034.pdf)

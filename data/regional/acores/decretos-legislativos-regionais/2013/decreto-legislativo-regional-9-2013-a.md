@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2013/08/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2013-498561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72591693a712124dbafa05d044249d77bcdb68161328a9912a022fcb4ef549cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 979f8046bb8510ca3dc275bc8488637bde838915b83f6a09c7c6706b9bff0398
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Carteira Profissional
-- Turismo
-- Formação Profissional
 - Contra-ordenação
 - Equivalência de Habilitações Literárias
-- Profissional de Turismo
+- Formação Profissional
 - Guia-intérprete
+- Profissional de Turismo
 - Promoção Profissional
-- Açores
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:160769663:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:160769663:por
+  label: Aditado, a partir de 06.04.2021, o art. 15.º-A (norma transitória) ao DLR 19/2011/A de 16-jun, na versão republicada
+    pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 7/2021/A - Diário da República n.º 65/2021, Série I de
+    2021-04-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2021-160769663
+  date: '2021-04-05'
 - type: cites
   target: celex:32005L0036
   label: null
@@ -89,15 +96,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/19/2011/06/16/a/dre
 article_structure:
-  article_count: 33
+  article_count: 23
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:47Z'
   warnings: []
   errors: []
 ---
@@ -132,15 +139,21 @@ b) (...).
 
 3- (...).
 
-###### Artigo 3.º — Habilitação profissional
+Artigo 3.º
+
+Habilitação profissional
 
 O exercício de atividade dos profissionais de informação turística encontra-se condicionado à titularidade de certificado de aproveitamento em curso de formação reconhecido pelo serviço competente do Governo Regional com atribuições na área do trabalho.
 
-###### Artigo 4.º — Formação em língua estrangeira
+Artigo 4.º
+
+Formação em língua estrangeira
 
 Os profissionais de informação turística podem requerer ao serviço competente do Governo Regional com atribuições na área do turismo, que o certificado de titularidade de formação de nível superior, em língua estrangeira, ou de aproveitamento em exame internacional de língua estrangeira, reconhecido pelo organismo competente do país do idioma apreendido, seja registado.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1- Os planos curriculares e o regime de avaliação de conhecimentos dos cursos de formação profissional das profissões de informação turística são objeto de regulamentação em portaria dos membros do Governo Regional competentes nas áreas de turismo e qualificação profissional, ou, quando envolva habilitação específica para operar em reservas naturais, destes com o membro do Governo Regional competente em matéria de ambiente.
 
@@ -148,7 +161,9 @@ Os profissionais de informação turística podem requerer ao serviço competent
 
 3- (...).
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1- (...).
 
@@ -156,13 +171,17 @@ Os profissionais de informação turística podem requerer ao serviço competent
 
 3- (...).
 
-###### Artigo 7.º — Distintivo
+Artigo 7.º
+
+Distintivo
 
 1- No exercício da respetiva atividade, os profissionais de informação turística devem usar um distintivo de modelo aprovado por despacho dos membros do Governo Regional competentes em matéria de turismo e de trabalho.
 
 2- O distintivo referido no número anterior é emitido pelo serviço competente do departamento do Governo Regional com atribuições na área do trabalho.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1- Apenas o guia-intérprete pode, para além da visita a museus, palácios e monumentos nacionais, acompanhar turistas aos seguintes locais de interesse turístico:
 
@@ -178,7 +197,9 @@ c) (...).
 
 4- (...).
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1- Quando comprovada a indisponibilidade de guia-intérprete, o correio de turismo que acompanhe a viagem turística pode conduzir as visitas aos locais de interesse turístico que naquela tenham sido incluídas.
 
@@ -188,17 +209,23 @@ c) (...).
 
 4- (...).
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1- Sempre que na ilha onde se realizem as visitas a locais de interesse turístico se verifique a indisponibilidade de guia-intérprete que se expresse em idioma pouco difundido internacionalmente, as visitas a locais de interesse turístico podem ser acompanhadas por intérprete, sem prejuízo da obrigatoriedade da condução da visita por guia-intérprete.
 
 2- Considera-se comprovada a indisponibilidade de guia-intérprete quando as empresas turísticas demonstrem que, na ilha onde se realiza a visita, não existe guia-intérprete que se expresse no idioma estrangeiro indispensável à condução da visita.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Aos cidadãos comunitários que prestem serviços de acompanhamento a grupos de turistas provenientes de outros Estados membros, e que no mesmo percurso turístico entrem e saiam da Região Autónoma dos Açores, é permitido conduzir visitas a locais de interesse turístico, independentemente da disponibilidade de guias-intérpretes, desde que possuam as habilitações literárias e profissionais legalmente exigidas no Estado de origem.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1- (...).
 
@@ -234,11 +261,11 @@ O presente diploma entra em vigor no dia seguinte à publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de junho de 2013.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 16 de julho de 2013.**
+Assinado em Angra do Heroísmo em 16 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

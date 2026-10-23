@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/08900/30393049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/584/2007/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/584-2007-520852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07bf7f69708bb6768d88568b7bf9ffd8e55678a402f7b5c88492caee679442f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2da2ab56d6a850c740a8092be054b883bb58fedcbbb80bf5313c7bd52c1b0124
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Localização de Empresas
-- Higiene do Trabalho
 - Estabelecimento Industrial
-- Segurança no Trabalho
+- Higiene do Trabalho
 - Licenciamento
+- Localização de Empresas
 - Projeto
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:439091:por
@@ -99,16 +99,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/473/2003/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/473/2003/06/11/p/dre
+- type: cites
+  target: pt:dre:226227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683241:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439091:por
+  label: "Revogada pelo DEC LEI.209/2008.29.10.2008.PCM, DR.IS [210] de 29.10.2008, a partir da entrada em vigor prevista\
+    \ no art. 84º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2008-439091
+  date: '2008-10-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:34Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +167,7 @@ Projecto de instalação
 
 A) O pedido de instalação dos estabelecimentos industriais enquadrados nos regimes de licenciamento de tipo 1 e 2 será acompanhado do projecto de instalação, o qual deverá conter:
 
-# Parte I - Informação geral:
+Parte I - Informação geral:
 
 Memória descritiva:
 
@@ -161,7 +187,7 @@ Regime de laboração e indicação do número de trabalhadores por turno, se fo
 
 Descrição das instalações de carácter social, dos vestiários, balneários, lavabos e sanitários, bem como dos serviços de segurança, higiene e saúde no trabalho;
 
-# Parte II - Segurança, higiene e saúde no trabalho e segurança industrial:
+Parte II - Segurança, higiene e saúde no trabalho e segurança industrial:
 
 a) Estudo de identificação de perigos e avaliação de riscos para a segurança, higiene e saúde no trabalho, incluindo:
 
@@ -191,7 +217,7 @@ Notificação acompanhada da política de prevenção de acidentes graves;
 
 Notificação e relatório de segurança, incluindo o sistema de gestão de segurança.
 
-# Parte III - Protecção do ambiente:
+Parte III - Protecção do ambiente:
 
 Indicação da origem da água utilizada/consumida, respectivos caudais, sistemas de tratamento associados, evidenciando a sua utilização racional;
 
@@ -207,7 +233,7 @@ Descrição do sistema de gestão ambiental adequado ao tipo de actividade e ris
 
 Identificação das fontes de emissão de ruído, acompanhada da caracterização qualitativa e quantitativa do ruído para o exterior e das respectivas medidas de prevenção e controlo.
 
-# Parte IV - Peças desenhadas:
+Parte IV - Peças desenhadas:
 
 Peças desenhadas, sem prejuízo de outras exigidas no âmbito de legislação específica:
 
@@ -227,13 +253,13 @@ Instalações de carácter social, escritórios e do serviço de medicina do tra
 
 Alçados e cortes do estabelecimento, devidamente referenciados e em escala não inferior a 1:200.
 
-# Parte V - Instalação eléctrica:
+Parte V - Instalação eléctrica:
 
 Projecto de instalação eléctrica, quando exigível nos termos da legislação aplicável, que será entregue em separata.
 
 B) O pedido de instalação dos estabelecimentos industriais enquadrados no regime de licenciamento de tipo 3 será acompanhado do projecto de instalação, o qual deverá conter:
 
-# Parte I - Informação geral:
+Parte I - Informação geral:
 
 Memória descritiva:
 
@@ -253,7 +279,7 @@ Regime de laboração e indicação do número de trabalhadores por turno, se fo
 
 Descrição das instalações de carácter social, vestiários, sanitários, lavabos e balneários e de primeiros socorros;
 
-# Parte II - Segurança, higiene e saúde no trabalho e segurança industrial:
+Parte II - Segurança, higiene e saúde no trabalho e segurança industrial:
 
 Estudo de identificação de perigos e avaliação de riscos para a segurança, higiene e saúde no trabalho, incluindo:
 
@@ -277,7 +303,7 @@ Os meios de intervenção humanos e materiais em caso de acidente;
 
 Os meios de socorro públicos disponíveis e os meios de socorro internos a instalar;
 
-# Parte III - Protecção do ambiente:
+Parte III - Protecção do ambiente:
 
 Indicação dos processos tecnológicos e diagramas de fabrico, especificando as melhores técnicas disponíveis e os princípios de ecoeficiência adoptados;
 
@@ -287,7 +313,7 @@ Identificação das fontes de emissão de efluentes e de geração de resíduos 
 
 Identificação das fontes de emissão de ruído, acompanhada da caracterização qualitativa e quantitativa do ruído para o exterior e das respectivas medidas de prevenção e controlo.
 
-# Parte IV - Peças desenhadas:
+Parte IV - Peças desenhadas:
 
 Planta de localização, em escala não inferior a 1:2000;
 
@@ -309,13 +335,13 @@ Armazenagem ou sistema de tratamento de resíduos;
 
 Alçados e cortes do estabelecimento, devidamente referenciados.
 
-# Parte V - Instalação eléctrica:
+Parte V - Instalação eléctrica:
 
 Projecto de instalação eléctrica, quando exigível nos termos da legislação aplicável, que será entregue em separata.
 
 C) O projecto de instalação dos estabelecimentos industriais dos tipos 2 ou 3, com actividade temporária, deverá conter:
 
-# Parte I - Informação geral:
+Parte I - Informação geral:
 
 a) Informações gerais:
 
@@ -339,7 +365,7 @@ Indicação dos tipos de energia utilizada e respectivo consumo.
 
 b) Listagem das máquinas e equipamentos a instalar, incluindo os de queima, de produção de frio, de força motriz, de vapor e recipientes de gases sob pressão.
 
-# Parte II - Segurança, higiene e saúde no trabalho e segurança industrial:
+Parte II - Segurança, higiene e saúde no trabalho e segurança industrial:
 
 Indicação dos dispositivos de segurança utilizados, nas máquinas e equipamentos em que exista risco para o operador e ou para terceiros;
 
@@ -347,13 +373,13 @@ Descrição das medidas e dos meios adoptados em matéria de segurança, higiene
 
 Descrição dos equipamentos de protecção individual postos à disposição dos trabalhadores.
 
-# Parte III - Protecção do ambiente:
+Parte III - Protecção do ambiente:
 
 Identificação das fontes de emissão de efluentes e de geração de resíduos e sua caracterização, incluindo a descrição dos respectivos sistemas de tratamentos e destino final;
 
 Identificação das fontes de emissão de ruído e respectiva caracterização.
 
-# Parte IV - Peças desenhadas:
+Parte IV - Peças desenhadas:
 
 Planta da instalação industrial, devidamente legendada, em escala não inferior a 1:200, indicando a localização de:
 
@@ -369,7 +395,7 @@ Meios implantados em matéria de segurança, higiene e saúde no trabalho e segu
 
 Meios de tratamento dos efluentes e resíduos.
 
-# Parte V - Instalação eléctrica:
+Parte V - Instalação eléctrica:
 
 Projecto de instalação eléctrica, quando exigível, nos termos da legislação aplicável.
 
@@ -401,6 +427,6 @@ Em 24 de Abril de 2007.
 
 Pelo Ministro de Estado e das Finanças, Carlos Manuel Costa Pina, Secretário de Estado do Tesouro e Finanças. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - Pelo Ministro da Economia e da Inovação, António José de Castro Guerra, Secretário de Estado Adjunto, da Indústria e da Inovação. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Ministro da Saúde, António Fernando Correia de Campos.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/08900/30393049.pdf))](https://files.diariodarepublica.pt/1s/2007/05/08900/30393049.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/08900/30393049.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/08900/30393049.pdf))](https://files.diariodarepublica.pt/1s/2007/05/08900/30393049.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/08900/30393049.pdf)

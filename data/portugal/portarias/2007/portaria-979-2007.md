@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16400/0573605747.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/979/2007/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/979-2007-640934
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83e83f426dd167b576c3cee952efcc1766559ea2c2e336326a84af31ce5e4f13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 108d120d774bb9471f752ba397fa0a5697f2729d41da1e46af68319d63599da9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:554609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640914:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:258746:por
+  label: "Revogada pela PORT.99/2013.06.03.2013.MF, DR.IS [46] de 06.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-2013-258746
+  date: '2013-03-06'
 article_structure:
   article_count: 80
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:06Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +133,7 @@ São aprovados os estatutos do Laboratório Nacional de Engenharia Civil, I. P.,
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Julho de 2007. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 31 de Julho de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Julho de 2007. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 31 de Julho de 2007.
 
 ## ANEXO — ESTATUTOS DO LABORATÓRIO NACIONAL DE ENGENHARIA CIVIL, I. P.
 
@@ -930,7 +947,9 @@ b) O acompanhamento e promoção de oportunidades tecnológicas, no domínio das
 
 c) O apoio no desenvolvimento de sistemas da informação científica e técnica.
 
-###### Artigo 65.º — Divisão de Sistemas da Informação para a Gestão
+###### Artigo 65.º
+
+##### Divisão de Sistemas da Informação para a Gestão
 
 À Divisão de Sistemas da Informação para a Gestão cabe:
 
@@ -940,7 +959,9 @@ b) Promover a integração das soluções aplicacionais adoptadas e a acessibili
 
 c) Dar apoio aplicacional ao utilizador.
 
-###### Artigo 66.º — Divisão de Infra-estruturas Informáticas
+###### Artigo 66.º
+
+##### Divisão de Infra-estruturas Informáticas
 
 À Divisão de Infra-estruturas Informáticas cabe:
 
@@ -970,7 +991,9 @@ b) Divisão de Gestão Patrimonial, que integra a Secção de Aquisições, a Se
 
 c) Divisão de Gestão de Contratos.
 
-###### Artigo 69.º — Divisão de Gestão Financeira
+###### Artigo 69.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira cabe:
 
@@ -1000,7 +1023,9 @@ m) Prestar as informações que lhe forem solicitadas em matéria de planeamento
 
 2 - Compete igualmente à Divisão de Gestão Financeira garantir a integridade do tratamento informático da informação de carácter financeiro.
 
-###### Artigo 70.º — Divisão de Gestão Patrimonial
+###### Artigo 70.º
+
+##### Divisão de Gestão Patrimonial
 
 1 - À Divisão de Gestão Patrimonial cabe:
 
@@ -1012,7 +1037,9 @@ c) Gerir as existências em armazém.
 
 2 - Compete igualmente à Divisão de Gestão Patrimonial executar os processos de abate e alienação de bens patrimoniais.
 
-###### Artigo 71.º — Divisão de Gestão de Contratos
+###### Artigo 71.º
+
+##### Divisão de Gestão de Contratos
 
 1 - À Divisão de Gestão de Contratos cabe:
 
@@ -1046,7 +1073,9 @@ a) Divisão de Divulgação Científica e Técnica;
 
 b) Divisão de Instalações.
 
-###### Artigo 74.º — Divisão de Divulgação Científica e Técnica
+###### Artigo 74.º
+
+##### Divisão de Divulgação Científica e Técnica
 
 1 - À Divisão de Divulgação Científica e Técnica cabe:
 
@@ -1062,7 +1091,9 @@ e) Gerir as infra-estruturas e equipamentos de apoio à realização de reuniõe
 
 2 - Compete igualmente à Divisão de Divulgação Científica e Técnica gerir e garantir o funcionamento da livraria do LNEC, I. P.
 
-###### Artigo 75.º — Divisão de Instalações
+###### Artigo 75.º
+
+##### Divisão de Instalações
 
 1 - À Divisão de Instalações cabe:
 
@@ -1096,7 +1127,9 @@ i) Administrar e distribuir os resguardos, fardamentos e outro equipamento pesso
 
 A Direcção de Serviços de Recursos Humanos compreende a Divisão de Gestão de Pessoal, que integra a Secção de Movimento de Pessoal, a Secção de Processamento e Assiduidade e a Secção de Arquivo.
 
-###### Artigo 78.º — Divisão de Gestão de Pessoal
+###### Artigo 78.º
+
+##### Divisão de Gestão de Pessoal
 
 1 - À Divisão de Gestão de Pessoal cabe:
 

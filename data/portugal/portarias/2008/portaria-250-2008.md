@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/250/2008/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/250-2008-246310
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09aa45830c3908d9daac26f73c113b5360191baaf1fecc233812847b1936462f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f64b8679195c292688606afdd97a41d5b9977251f5ebfa4260b4e820763f2ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Empresa
-- Controlo de Qualidade
-- Internacionalização Empresarial
 - Apoio ao Investimento
-- Projeto de Investimento
+- Controlo de Qualidade
+- Empresa
+- Internacionalização Empresarial
 - Investimento
 - Pequenas e Médias Empresas
+- Projeto de Investimento
+- QREN
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:191523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:418660:por
+  label: "Alterados, nos termos do art. 3.º [as alterações vigorarão até 31.12.2010, pelo que serão repristinadas as condições\
+    \ aplicáveis agora alteradas], os arts. 6.º, 10.º, 11.º, 12.º, 16.º, 19.º, o anexo C e republicado o Regulamento aprovado\
+    \ pela Port 1463/2007, de 15-Nov, na redacção do presente diploma, pela PORT.353-A/2009.03.04.2009.MAOTDR, DR.IS [66-Supl]\
+    \ de 03.04.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-a-2009-418660
+  date: '2009-04-03'
+- type: amended_by
+  target: pt:dre:307648:por
+  label: "Alterados os arts. 11º, 12º, 16º e 19º do Regulamento do Sistema de Incentivos à Qualificação e Internacionalização\
+    \ de PME, aprovado pela Port 1463/2007, de 15-Nov, na redacção do presente diploma, pela PORT.1101/2010.25.10.2010.MEID,\
+    \ DR.IS [207] de 25.10.2010, que procede à sua republicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1101-2010-307648
+  date: '2010-10-25'
+- type: amended_by
+  target: pt:dre:162811:por
+  label: "Dada nova redação aos arts. 6º, 10º, 11º, 12º, 16º e 19º e ao anexo C do Regulamento do Sistema de Incentivos à\
+    \ Qualificação e Internacionalização de PME, aprovado pela Port 1463/2007 de 15-nov, alterado pelo presente diploma, pela\
+    \ PORT.47-A/2012.24.02.2012.MEE, DR.IS [40-Supl] de 24.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-a-2012-162811
+  date: '2012-02-24'
+- type: amended_by
+  target: pt:dre:405362:por
+  label: "Alterados os arts. 12º e 16º do Regulamento do Sistema de Incentivos à Qualificação e Internacionalização de PME,\
+    \ aprovado pela Port 1463/2007 de 15-nov, na redação do presente diploma, pela PORT.233-A/2012.06.08.2012.MEE, DR.IS [151-Supl]\
+    \ de 06.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/233-a-2012-405362
+  date: '2012-08-06'
+- type: amended_by
+  target: pt:dre:191523:por
+  label: "Alterados os art.s 6º, 12º e 16º do Regulamento do Sistema de Incentivos à Qualificação e Internacionalização de\
+    \ PME, anexo à Port 1463/2007, de 15-nov, na redação do presente diploma, pela PORT.369/2012.06.11.2012.MEE, DR.IS [214]\
+    \ de 06.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-2012-191523
+  date: '2012-11-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/287/2007/08/17/p/dre
   label: null
@@ -88,16 +124,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1463/2007/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1463/2007/11/15/p/dre
+- type: cites
+  target: pt:dre:628519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637175:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:08Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +186,9 @@ d) Projecto simplificado de inovação (Vale Inova-ção) - apresentado por uma 
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -162,7 +208,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -182,7 +230,9 @@ d) Identificar pelo menos 50 % das empresas a abranger no projecto conjunto, sen
 
 5 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +298,9 @@ e) ...
 
 8 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -280,7 +332,9 @@ d) Os apoios concedidos a não PME no âmbito dos projectos conjuntos previstos 
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -294,7 +348,9 @@ d) Os apoios concedidos a não PME no âmbito dos projectos conjuntos previstos 
 
 6 - (Anterior n.º 5.)
 
-## ANEXO C — [...]
+ANEXO C
+
+[...]
 
 1 - ...
 
@@ -322,4 +378,4 @@ c) ...
 
 Em 24 de Março de 2008.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.

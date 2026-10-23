@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/666/2009/06/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/666-2009-494776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1623be805b8416af1ee1ef80be9ba436b5a074f39db0fb90678be4da11d724fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 59b8c76ec6203bf7b094b071b81a11a83fafbb7fb270987e73b98d0cbcf428ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Desenvolvimento Rural
-- Definição de Competências
-- Direcção Regional de Agricultura e Pescas
 - Apoio ao Investimento
-- Projeto de Investimento
-- Pagamento
+- Definição de Competências
+- Desenvolvimento Rural
+- Direcção Regional de Agricultura e Pescas
+- Exploração Agrícola
+- Financiamento
 - IFAP
 - Jovem Agricultor
-- Exploração Agrícola
+- Modernização do Sector Agrícola
+- Pagamento
+- Proder
+- Projeto de Investimento
 - Regulamento
 - Regulamento CE
 - Regulamento de Aplicação da Acção 1.1.1-modernização e Capacitação das Empresas
-- Modernização do Sector Agrícola
 - Secretariado Técnico
 - Subsídio não Reembolsável
 relationships:
@@ -89,6 +89,33 @@ relationships:
   target: pt:dre:670056:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 7º e 12º do Regulamento aprovado pela Port 289-A/2008, de 11-Abr, na redacção do presente diploma,\
+    \ pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:287108:por
+  label: "Dada nova redacção aos arts. 10º, 13º e 14º do Regulamento de Aplicação da Acção nº 1.1.3, «Instalação de Jovens\
+    \ Agricultores», aprovado pela Port 357-A/2008 de 09-Mai, alterado pelo presente diploma, pela PORT.184/2011.05.05.2011.MADRP,\
+    \ DR.IS [87] de 05.05.2011 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/184-2011-287108
+  date: '2011-05-05'
+- type: amended_by
+  target: pt:dre:287828:por
+  label: "Dada nova redacção, a partir de 13.05.2011, com efeitos a 28.08.2010, ao art. 7º do Regulamento de Aplicação da\
+    \ Acção n.º 1.1.1, «Modernização e Capacitação das Empresas», aprovado pela Port 289-A/2008 de 11-Abr, alterado pelo presente\
+    \ diploma, pela \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-2011-287828
+  date: '2011-05-12'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterado o art. 7.º do Regulamento de Aplicação da Acção n.º 1.1.1, «Modernização e Capacitação das Empresas», aprovado\
+    \ pela Port. 289-A/2008, de 11-Abr, na redacção do presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112]\
+    \ de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -106,15 +133,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/357-a/2008/05/09/p/dre
 article_structure:
-  article_count: 21
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:35Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +194,9 @@ j) ...
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +204,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -185,7 +216,9 @@ j) ...
 
 4 - Os limites máximos de apoio a conceder aos PIR e às candidaturas de fileira estratégica estão sujeitos a negociação, não podendo ultrapassar, respectivamente, (euro) 25 000 000 ou os valores constantes do anexo v, por pedido de apoio.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os pedidos de apoio que cumpram os critérios de elegibilidade aplicáveis são avaliados de acordo com a aplicação dos seguintes factores:
 
@@ -201,7 +234,9 @@ c) ...
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e indicam, nomeadamente, o seguinte:
 
@@ -225,7 +260,9 @@ i) ...
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -237,7 +274,9 @@ i) ...
 
 5 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 35 dias úteis a contar da data de recepção do parecer previsto no n.º 3.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -251,7 +290,9 @@ b) 24 meses, para a aquisição de máquinas de colheita.
 
 4 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos nos n.os 1, 2 e 3.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
@@ -271,7 +312,9 @@ b) 24 meses, para a aquisição de máquinas de colheita.
 
 9 - ...
 
-###### Artigo 20.º — Análise dos pedidos de pagamento
+Artigo 20.º
+
+Análise dos pedidos de pagamento
 
 1 - ...
 
@@ -283,7 +326,9 @@ b) 24 meses, para a aquisição de máquinas de colheita.
 
 5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
@@ -291,7 +336,9 @@ b) 24 meses, para a aquisição de máquinas de colheita.
 
 3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - As despesas efectuadas após 1 de Janeiro de 2007 são consideradas elegíveis quando as respectivas operações não estejam concluídas antes da data de aprovação do pedido de apoio e desde que:
 
@@ -309,7 +356,7 @@ O anexo v da Portaria n.º 289-A/2008, de 11 de Abril, na redacção que lhe foi
 
 (a que se refere o artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0406304067.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0406304067.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0406304067.pdf)
 
 ###### Artigo 3.º — Aditamento ao Regulamento anexo à Portaria n.º 289-A/2008, de 11 de Abril
 
@@ -327,7 +374,9 @@ São aditados ao Regulamento anexo à Portaria n.º 289-A/2008, de 11 de Abril, 
 
 4 - No caso de pedidos apresentados por produtores associados de organizações de produtores reconhecidas cujas explorações beneficiem de acções nos termos do artigo 7.º da Portaria n.º 1325/20008, de 8 de Novembro, as operações não podem contemplar despesas que correspondam a essas acções.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -339,25 +388,31 @@ São aditados ao Regulamento anexo à Portaria n.º 289-A/2008, de 11 de Abril, 
 
 5 - O sector do leite e lacticínios é equiparado a fileira estratégica para efeitos de aplicação do nível máximo e limites máximos de apoio previstos na presente portaria.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
 2 - As despesas efectuadas após 1 de Janeiro de 2009 são consideradas elegíveis quando os candidatos apresentem os pedidos de apoio a concursos cujos avisos de abertura sejam publicados no ano de 2009 e as respectivas operações não estejam concluídas antes da data de aprovação do pedido de apoio.
 
-## ANEXO IV-A — Níveis máximos de apoio
+ANEXO IV-A
+
+Níveis máximos de apoio
 
 (a que se refere o n.º 3 do artigo 11.º)
 
 Componente 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0406304067.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0406304067.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0406304067.pdf)
 
 Componente 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/11600/0406304067.pdf))](https://files.diariodarepublica.pt/1s/2009/06/11600/0406304067.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/11600/0406304067.pdf)
 
-###### Artigo 4.º — Alteração ao Regulamento anexo à Portaria n.º 357-A/2008, de 9 de Maio
+Artigo 4.º
+
+Alteração ao Regulamento anexo à Portaria n.º 357-A/2008, de 9 de Maio
 
 Os artigos 10.º, 13.º e 14.º do Regulamento anexo à Portaria n.º 357-A/2008, de 9 de Maio, alterado pelas Portarias n.os 1229-A/2008, de 27 de Outubro, e 496-A/2008, de 23 de Junho, passam a ter a seguinte redacção:
 
@@ -381,7 +436,9 @@ Os artigos 10.º, 13.º e 14.º do Regulamento anexo à Portaria n.º 357-A/2008
 
 8 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.
 
@@ -391,22 +448,30 @@ Os artigos 10.º, 13.º e 14.º do Regulamento anexo à Portaria n.º 357-A/2008
 
 4 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O cumprimento das obrigações previstas nas alíneas a) e b) do n.º 1 do artigo 6.º está sujeito a controlo, até cinco anos após a data de celebração do contrato.
 
 2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.»
 
-###### Artigo 5.º — Norma revogatória
+Artigo 5.º
+
+Norma revogatória
 
 São revogados a alínea a) do n.º 1 do artigo 4.º e o n.º 7 do artigo 19.º do Regulamento anexo à Portaria n.º 289-A/2008, de 11 de Abril.
 
-###### Artigo 6.º — Aplicação no tempo
+Artigo 6.º
+
+Aplicação no tempo
 
 O disposto nos n.os 3 e 4 do artigo 11.º e o anexo v do Regulamento aprovado pela Portaria n.º 289-A/2008, de 11 de Abril, na redacção que lhes é conferida pela presente portaria, produzem efeitos a partir da data de entrada em vigor daquela.
 
-###### Artigo 7.º — Entrada em vigor
+Artigo 7.º
+
+Entrada em vigor
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 9 de Junho de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 9 de Junho de 2009.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/2010/08/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2010-342855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 187ce3bf42f65d4e6c3fab03d872ca467cd7f0584a9d68527d7d380de7611e65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e43384cc29d500a23333a88b604cfd75bab4db79771dadf23640360e110d848d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,41 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Análise Económica
-- Turismo
-- ILHA de são Miguel
-- ILHA Terceira
-- Desenvolvimento Rural
-- Ordenamento do Território
+- Autarquia Local
+- Comunicações
 - Definição de Competências
-- Política Industrial
 - Desenvolvimento Regional
-- Planeamento Urbano
-- Orla Costeira
-- ILHA das Flores
-- Ilha de São Jorge
-- Ilha do Corvo
-- ILHA de Santa Maria
-- Ilha do Pico
+- Desenvolvimento Rural
 - Diversidade Biológica
-- Política de Solos
+- Energia
+- Habitação
+- ILHA das Flores
+- ILHA de Santa Maria
+- Ilha de São Jorge
+- ILHA de são Miguel
+- Ilha do Corvo
+- ILHA do Faial
+- Ilha do Pico
+- Ilha Graciosa
+- ILHA Terceira
+- Ordenamento do Território
+- Orla Costeira
+- Planeamento Urbano
 - Plano de Pormenor
 - Plano de Urbanização
+- Plano Regional de Ordenamento do Território
+- Política de Emprego
+- Política de Solos
 - Política do Ambiente
 - Política Económica
+- Política Industrial
 - Política Social
-- Urbanismo
-- Energia
-- Política de Emprego
-- Plano Regional de Ordenamento do Território
 - Prota
-- Comunicações
-- Habitação
-- Ilha Graciosa
-- Açores
 - Transporte
-- Autarquia Local
-- ILHA do Faial
+- Turismo
+- Urbanismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/181/2009/08/07/p/dre
@@ -141,16 +141,72 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:155867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:11Z'
   warnings: []
   errors: []
 ---
@@ -213,11 +269,11 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de Junho de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 22 de Julho de 2010.**
+Assinado em Angra do Heroísmo em 22 de Julho de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -261,7 +317,7 @@ O PROTA aplica-se a todo o território da Região Autónoma dos Açores, constit
 
 Figura 1: Municípios da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Dada a sua localização, a Região Autónoma dos Açores representa um importante activo da afirmação geo-estratégica nacional e um pólo incontornável de disseminação da presença portuguesa no mundo. O carácter ultraperiférico dos Açores relativamente ao território da União Europeia cria, ainda, uma considerável mais valia relativamente à valorização da dimensão marítima deste espaço e ao aprofundamento de relações de cooperação internacional.
 
@@ -339,7 +395,7 @@ A interpretação do cartograma 1 ganha conteúdo quando lida conjuntamente com 
 
 Cartograma 1: Modelo Territorial: enquadramento geo-estratégico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 2. Açores 2016: uma visão para os Açores
 
@@ -453,7 +509,7 @@ QUADRO 1
 
 Articulação do PROTA com os objectivos e programação do FEDER e FSE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Neste contexto, é compreensível que o modelo territorial do PROTA incida, preferencialmente, nos sistemas estruturantes sobre os quais os instrumentos de política territorial têm um maior alcance de intervenção: sistemas produtivos, sistemas de protecção e valorização ambiental, sistemas urbano e rural e sistemas de acessibilidades e equipamentos.
 
@@ -469,7 +525,7 @@ QUADRO 2
 
 Articulação do PROTA com os objectivos e programação do PRORURAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 7. O PROTA e a estratégia de desenvolvimento sustentável para o sector das pescas na Região Autónoma dos Açores
 
@@ -729,39 +785,39 @@ Finalmente, tendo em conta a sua importância para a estrutura produtiva da Regi
 
 Ilha do Corvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha das Flores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha do Faial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha do Pico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de São Jorge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha Graciosa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 2. Sistemas de protecção e valorização ambiental
 
@@ -925,7 +981,7 @@ QUADRO 3
 
 Incidência territorial dos sistemas de protecção e valorização ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Apresenta-se por ilha uma sequência de imagens representativas das diversas áreas que integram os sistemas de protecção e valorização ambiental. As duas primeiras figuras representam os dois principais subsistemas, designadamente as áreas nucleares de conservação da natureza e as áreas ecológicas complementares. A terceira figura corresponde ao sistema de protecção e de valorização ambiental definido, apresentando-se na última figura o uso actual do solo nestas áreas que permite evidenciar o sentido de evolução proposto, a compatibilização de situações de conflito, bem como o contexto de aplicação das normas orientadoras.
 
@@ -951,163 +1007,163 @@ Ilha do Corvo
 
 Áreas nucleares de conservação da natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Áreas ecológicas complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Sistemas de protecção e valorização ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Uso actual do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha das Flores
 
 Áreas nucleares de conservação da natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Áreas ecológicas complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Sistemas de protecção e valorização ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Uso actual do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha do Faial
 
 Áreas nucleares de conservação da natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Áreas ecológicas complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Sistemas de protecção e valorização ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Uso actual do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha do Pico
 
 Áreas nucleares de conservação da natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Áreas ecológicas complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Sistemas de protecção e valorização ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Uso actual do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de São Jorge
 
 Áreas nucleares de conservação da natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Áreas ecológicas complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Sistemas de protecção e valorização ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Uso actual do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha Graciosa
 
 Áreas nucleares de conservação da natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Áreas ecológicas complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Sistemas de protecção e valorização ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Uso actual do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha Terceira
 
 Áreas nucleares de conservação da natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Áreas ecológicas complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Sistemas de protecção e valorização ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Uso actual do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de São Miguel
 
 Áreas nucleares de conservação da natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Áreas ecológicas complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Sistemas de protecção e valorização ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Uso actual do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de Santa Maria
 
 Áreas nucleares de conservação da natureza
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Áreas ecológicas complementares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Sistemas de protecção e valorização ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Uso actual do solo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Dos sistemas de protecção e valorização ambiental e respectivos impactes nos modelos territoriais de cada ilha, realçam-se os seguintes aspectos:
 
@@ -1131,39 +1187,39 @@ Dos sistemas de protecção e valorização ambiental e respectivos impactes nos
 
 Ilha do Corvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha das Flores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha do Faial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha do Pico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de São Jorge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha Graciosa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 3. Sistemas urbano e rural
 
@@ -1229,7 +1285,7 @@ Em altimetria, verifica-se a estrutura organizativa dos aglomerados urbanos cara
 
 Figura 2: Esquema de povoamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 As razões que explicam a tipificação que estrutura o povoamento, isto é, uma ocupação centrada nas faixas litorais oposta a um despovoamento característico das altitudes superiores a 350 metros, são:
 
@@ -1243,7 +1299,7 @@ Em planimetria, a organização territorial típica de uma ilha vulcânica pode 
 
 Figura 3: Organização territorial típica de uma ilha de origem vulcânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Caminhando da linha de costa para o interior, encontramos, em termos de grandes manchas, uma primeira coroa, a castanho, que representa a rica, mas sensível e vulnerável faixa costeira. Seguidamente, apresenta-se uma coroa mais larga, a verde claro, em que coexistem bolsas de áreas agrícolas envolvidas por grandes áreas de pastagem. Sobre esta coroa, e pendendo mais sobre a costa, dispõem-se os aglomerados urbanos principais, interligados por uma via de circunvalação, a partir dos quais partem, também, vias mais ou menos importantes de atravessamento. A linearização do desenvolvimento urbano ao longo da via circular está representada como elemento típico do povoamento insular. No aglomerado urbano principal coexistem as duas grandes portas com o exterior, o porto marítimo e o aeroporto. A cotas superiores encontramos uma coroa representada a verde escuro, simbolizando as áreas florestais e os matos. Dentro desta, num tom de verde intermédio, encontramos, já em descendente concavidade, a coroa envolvente da lagoa de origem vulcânica, com elevado valor para a conservação da natureza e para a biodiversidade.
 
@@ -1261,7 +1317,7 @@ A análise e o diagnóstico relativos ao Estudo de Fundamentação Técnica "Est
 
 Na metodologia de análise ilha a ilha tomou-se em conta a articulação com outras áreas sectoriais, em particular a habitação, e estruturou-se a delimitação das áreas de solo urbano segundo determinados aspectos intrínsecos, tais como: critérios de delimitação face à densidade do edificado; distribuição dessas áreas no território; reforço e/ ou contenção de tendências de urbanização existentes; questões de coerência interna das ilhas na relação entre concelhos; existência de alojamentos vagos para um quadro mais completo da oferta de espaço habitacional; procura de espaço habitacional, através da referência ao crescimento previsível do número de famílias, à existência de problemas habitacionais - alojamentos não clássicos e sobrelotação crítica e à existência/ tendência de procura de segunda habitação; pontualmente, previsão por parte de alguns municípios de solo urbano para funções dominantemente não habitacionais, tendo em conta a sua pertinência de âmbito local ou regional; outras questões mais particulares que justifiquem a revisão dos critérios normais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Opções estratégicas de matriz territorial
 
@@ -1279,7 +1335,7 @@ A figura 4 sintetiza o resultado do estudo destas relações, pondo em evidênci
 
 Figura 4: Análise qualitativa das dinâmicas de procura e oferta do solo urbano
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Em algumas ilhas, como é o caso do Corvo, Pico, São Miguel e Santa Maria, verifica-se existir uma oferta que se sobrepõe à procura. Quando essa oferta não é claramente superior à procura, como nas Velas e Calheta, isso pode até permitir alguma folga no mercado imobiliário que reverterá em favor do consumidor. Quando essa oferta parece exceder claramente a procura, como no Corvo, Santa Cruz das Flores, Angra do Heroísmo, Vila Franca do Campo, Lagoa e Ribeira Grande, poderá correr-se o risco de, existindo oferta de solo para construção de raiz, esta se tornar mais apelativa e acessível do que a recuperação do parque edificado existente, tantas vezes com um considerável valor patrimonial e imagético, interessante para recuperar enquanto património de conjunto. Parece ser este o caso de dois concelhos do Pico, São Roque do Pico e Lajes do Pico, assim como o caso de Santa Maria, ilhas onde se verifica, para mais, uma oferta elevada de alojamentos vagos para a sua dimensão relativa.
 
@@ -1299,7 +1355,7 @@ QUADRO 4
 
 Síntese das opções estratégicas de matriz territorial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 A concretização destes objectivos é assegurada pelos PMOT e pelos estudos sectoriais que venham a ser desenvolvidos, através da avaliação quantitativa nos respectivos estudos de caracterização, sobretudo nos PDM, ou quando tal não seja possível, pela avaliação da possibilidade de diferenciação de taxas de licenciamento, favorecendo sempre a reabilitação e a reconstrução.
 
@@ -1357,39 +1413,39 @@ Algumas questões chave a evidenciar em cada uma das ilhas:
 
 Ilha do Corvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha das Flores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha do Faial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha do Pico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de São Jorge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha Graciosa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 4. Sistemas de acessibilidades e equipamentos
 
@@ -1495,7 +1551,7 @@ Face aos recursos da Região, mas também aos desafios globais da sustentabilida
 
 Nos esquemas referentes aos sistemas de acessibilidades e equipamentos, faz-se referência a estas infra-estruturas (parques eólicos e áreas de produção hídrica ou geotérmica), sejam as existentes (a manter, a ampliar ou a modernizar), sejam os projectos já assumidos para os próximos anos, dentro do horizonte temporal do PROTA.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Para além desta Visão mais "pesada" dos grandes sistemas regionais, o sector das energias renováveis:
 
@@ -1543,39 +1599,39 @@ Esta informação é complementada com a referência às centralidades de servi�
 
 Ilha do Corvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha das Flores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha do Faial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha do Pico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de São Jorge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha Graciosa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Ilha de Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 ### CAPÍTULO IV — Modelo Territorial
 
@@ -1603,7 +1659,7 @@ O cartograma 2, identifica os principais elementos em que assenta este modelo, �
 
 Cartograma 2: Modelo Territorial do Arquipélago
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 i. A integração e a coesão territorial dependem de uma combinatória eficiente de sistemas de transportes aéreos e marítimos com os sistemas de telecomunicações: a par do desenvolvimento de sistemas de transportes internos de maior fiabilidade e frequência e de uma mais harmoniosa distribuição no território de serviços colectivos de proximidade, sentido em que caminham já as políticas públicas de base regional, importa garantir, também, que a Região esteja dotada, de forma robusta, ao nível das telecomunicações e sistemas de informação e comunicação evoluídos, suportando apostas em serviços remotos, seja às pessoas ou às empresas, complementando os sistemas baseados em cabos submarinos com a generalização de serviços de tecnologias sem fios;
 
@@ -1633,7 +1689,7 @@ Do ponto de vista espacial, tal disposição, claramente assumida e reforçada p
 
 Associado ao modelo territorial, apresenta-se um conjunto de apostas dirigidas às maiores debilidades ou conflitos de uso identificados. Estão, no primeiro caso, as políticas de melhoria da dotação de infra-estruturas de saneamento ambiental e gestão de resíduos e de equipamentos colectivos de carácter social, cultural e desportivo. Estão, no segundo caso, os conflitos de uso identificados no modelo territorial, que reclamam a reconversão prioritária para sistemas naturalizados nas áreas nucleares e complementares de conservação da natureza e a integração ambiental e paisagística das actuais áreas de extracção de inertes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 3.2 Ilha das Flores
 
@@ -1645,7 +1701,7 @@ Em complemento, o modelo territorial enfatiza, igualmente, as ligações entre o
 
 Esta ilha, com uma notável vocação para o aprofundamento do turismo científico e de natureza, mas com um nível de equipamentos e infra-estruturas insuficiente ou insatisfatório, nomeadamente ao nível da saúde, requer um acréscimo de investimento neste sector. No domínio económico ressalta, ainda, a proposta de constituição, em Santa Cruz das Flores, de uma área de concentração de serviços avançados à actividade produtiva. Finalmente, o modelo territorial contempla e reforça a actual aposta na produção de energias renováveis, nomeadamente de origem eólica e hídrica, tirando partido das enormes potencialidades das Flores no panorama do Arquipélago.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 3.3.Ilha do Faial
 
@@ -1661,7 +1717,7 @@ O modelo territorial revela, ainda, que as apostas do sistema produtivo se situa
 
 Finalmente, no capítulo das energias renováveis, o Faial pode dar um significativo contributo ao panorama da produção energética nos Açores, pelo reforço das capacidades instaladas nos domínios da eólica e da hídrica, tendo para o efeito sido identificadas localizações com potencial de expansão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 3.4 Ilha do Pico
 
@@ -1675,7 +1731,7 @@ O modelo territorial proposto enfatiza as ligações entre os três principais a
 
 Do ponto de vista económico, o Pico tem revelado uma interessante dinâmica nos sectores agro-industrial e turístico que justifica a proposta de criação de uma área de serviços avançados de apoio à actividade produtiva na Madalena, único núcleo urbano, aliás, em que se justifica a dotação de áreas mais significativas de expansão urbana, privilegiando o sentido de expansão para o interior, e reproduzindo e reforçando a malha ortogonal já existente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 3.5 Ilha de São Jorge
 
@@ -1689,7 +1745,7 @@ No capítulo dos valores conservacionistas, o referido terço central desta ilha
 
 O modelo territorial da ilha de São Jorge evidencia, ainda, um conjunto de áreas muito significativo de aptidão agrícola, sobretudo nas extremas poente e nascente e sobre o lado sul do terço central, sobre o qual assenta um conjunto de actividades agro-industriais de grande relevância. As perspectivas de desenvolvimento turístico são também favoráveis, apontando-se a necessidade de se proceder à integração paisagística e ambiental dos novos empreendimentos, sempre que as suas localizações se aproximem de zonas mais sensíveis e vulneráveis.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 3.6 Ilha Graciosa
 
@@ -1703,7 +1759,7 @@ Em correspondência com o sistema agrícola, o modelo evidencia um extenso perí
 
 Só o reforço destas actividades económicas, acompanhado da melhoria das ligações externas, pode contribuir para se inverterem as tendências mais recentes de declínio demográfico. Face às extensas áreas de expansão urbana previstas em PDM, o modelo territorial inclui uma medida de contenção destas áreas no sentido do fortalecimento e valorização das áreas já existentes e efectivamente ocupadas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 3.7 Ilha Terceira
 
@@ -1715,7 +1771,7 @@ Não admira, assim, que o modelo territorial enfatize as relações e as ligaç�
 
 Na vertente urbana há que destacar Angra do Heroísmo, com o seu inegável valor patrimonial e cultural, bem como de potencial de dinamização do turismo enquanto cidade Património da Humanidade. Ao inverso, há que realçar as extensas formações urbanas secundárias, excessivamente linearizadas que quase estabelecem um contínuo urbano em torno de toda a ilha. Se em alguns casos a sua distância à costa se afigura razoável e suficiente para que se evitem ou minimizem impactes ambientais e paisagísticos, noutros levanta sérias preocupações porque está demasiado em cima da própria linha de costa. Tais desenvolvimentos urbanos deverão ser contrariados, quer pelos custos excessivos de infra-estruturação que acarretam, quer pela dificuldade de poderem oferecer qualidade de vida aos seus residentes, quer ainda porque comportam riscos elevados de natureza geofísica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 3.8 Ilha de São Miguel
 
@@ -1743,7 +1799,7 @@ A ilha de São Miguel possui, também, apreciáveis potencialidades no domínio 
 
 Finalmente, no capítulo dos sistemas produtivos destaca-se a representação de extensos perímetros de ordenamento agrário nos concelhos mais centrais de Ponta Delgada, Lagoa e Ribeira Grande e, também, em Vila Franca do Campo e Povoação, embora em Vila Franca do Campo grande parte do perímetro se encontre em área complementar de conservação da natureza. O modelo evidencia, ainda, a forte aposta nos sectores do turismo e do imobiliário e a desejável diminuição da incidência do emprego público, em particular em Ponta Delgada.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 3.9 Ilha de Santa Maria
 
@@ -1755,7 +1811,7 @@ A ilha constitui um único concelho cuja sede, Vila do Porto, tem evidenciado um
 
 A valorização da actividade económica passa pela aposta no turismo que reclama, por sua vez, um incremento da capacidade instalada de hospedagem e restauração. O modelo evidencia um conjunto de localizações com especial vocação turística, algumas com óbvias necessidades de adequados enquadramentos paisagísticos. No domínio das redes de serviços ambientais, ressaltam as insuficiências detectadas na dotação do saneamento e no sistema de gestão dos resíduos sólidos. A proximidade a São Miguel, e em particular a Ponta Delgada, associada à oferta de uma praia natural na encosta voltada a nascente, bastante popular nos meses de Verão, está certamente na origem da procura de segunda habitação nesta ilha, que de alguma forma tem sido responsável pela dinamização das actividades associadas ao sector imobiliário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 ### CAPÍTULO V — Normas orientadoras do uso, ocupação e transformação do território
 
@@ -2565,7 +2621,7 @@ A avaliação deve, também, fundamentar recomendações que suportem os process
 
 A eficiência e eficácia do PROTA devem ser objecto de acções de avaliação bienais coincidentes com a elaboração do Relatório do Estado do Ordenamento do Território da Região Autónoma dos Açores. Apresenta-se o conjunto de indicadores relevantes para a avaliação da sustentabilidade ambiental da Região Autónoma dos Açores e para a concretização dos objectivos estratégicos da PROTA. Embora a relação possa, por vezes, não ser directa, o que importa é que o conjunto de indicadores monitorizem o estado do ambiente e os efeitos das medidas de politica ambiental e de ordenamento do território da Região Autónoma dos Açores e, mais genericamente, os progressos da Região ao nível da sua sustentabilidade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
 
 Complementarmente, e tendo em consideração a Avaliação Ambiental Estratégica (AAE), a estrutura de acompanhamento dos aspectos ambientais do PROTA deve ainda assegurar:
 
@@ -2617,4 +2673,4 @@ O programa formal de gestão e monitorização ambiental estratégica, a integra
 
 Grupo I: Indicadores-chave para monitorizar os efeitos ambientais e de sustentabilidade decorrentes da implementação do PROTA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf))](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/15600/0342703510.pdf)

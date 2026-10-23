@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28200/31673168.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/21-1979-366608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0eaec4290efad11db2ce1d708ac518e9fe166829145f1980671aab8f530f45b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 486c98b41a5db248bc213c414bb91c5533d67c99162335bf4cddde7dfa00771d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Centro de Gestão Financeira da Segurança Social
+- Comissão Distrital de Assistência
+- Criação de Serviços
+- Direcção Regional de Segurança Social
+- Horta
+- Integração de Serviços
+- Integração de Trabalhadores
+- Orgânica
+- Reestruturação de Serviços
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:419795:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:419795:por
+  label: "Revogado pelo DLR.11/87/A.26.06.1987.ARA, DR.IS [144] de 26.06.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-1987-419795
+  date: '1987-06-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:58Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +111,9 @@ A inexistência de um órgão que, a nível regional, assegure a gestão finance
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, no âmbito da Secretaria Regional dos Assuntos Sociais e da Direcção Regional de Segurança Social, o Centro de Gestão Financeira da Segurança Social, abreviadamente designado por CGFSS, dotado de personalidade jurídica e de autonomia administrativa e financeira.
+Artigo 1.º É criado, no âmbito da Secretaria Regional dos Assuntos Sociais e da Direcção Regional de Segurança Social, o Centro de Gestão Financeira da Segurança Social, abreviadamente designado por CGFSS, dotado de personalidade jurídica e de autonomia administrativa e financeira.
 
-###### Art. 2.º - 1 - São atribuições do CGFSS:
+Art. 2.º - 1 - São atribuições do CGFSS:
 
 a) Colaborar na definição e adequação permanente da política financeira da segurança social na Região;
 
@@ -118,7 +135,7 @@ c) Administração do património;
 
 d) Estatística.
 
-###### Art. 3.º Compete nomeadamente ao CGFSS:
+Art. 3.º Compete nomeadamente ao CGFSS:
 
 a) Propor, de acordo com os objectivos superiormente fixados, os meios e formas de gestão das instituições e estabelecimentos do sector;
 
@@ -130,9 +147,9 @@ d) Elaborar a conta anual do sector;
 
 e) Proceder à recolha, tratamento, elaboração e difusão dos dados estatísticos de interesse específico para a acção do sector.
 
-###### Art. 4.º São órgãos do CGFSS a Comissão Regional do Centro de Gestão Financeira da Segurança Social e o conselho administrativo.
+Art. 4.º São órgãos do CGFSS a Comissão Regional do Centro de Gestão Financeira da Segurança Social e o conselho administrativo.
 
-###### Art. 5.º - 1 - A Comissão Regional de Gestão da Segurança Social é constituída por dezanove membros, sendo:
+Art. 5.º - 1 - A Comissão Regional de Gestão da Segurança Social é constituída por dezanove membros, sendo:
 
 a) Um elemento nomeado por despacho conjunto do Secretário Regional das Finanças e do Secretário Regional dos Assuntos Sociais, que preside;
 
@@ -148,7 +165,7 @@ f) Os membros do conselho administrativo.
 
 2 - Os membros da Comissão Regional terão direito a ajudas de custo e transportes nas suas deslocações por motivo de funcionamento da Comissão e os que não forem funcionários públicos terão direito aos subsídios ou senhas de presença estabelecidos na legislação para órgãos de natureza semelhante.
 
-###### Art. 6.º - 1 - Compete à Comissão Regional de Gestão Financeira da Segurança Social:
+Art. 6.º - 1 - Compete à Comissão Regional de Gestão Financeira da Segurança Social:
 
 a) Apreciar a proposta contendo as linhas fundamentais que presidiram à elaboração do orçamento do sector e emitir parecer sobre o orçamento regional da segurança social, bem como sobre os orçamentos suplementares;
 
@@ -162,7 +179,7 @@ e) Emitir parecer sobre os assuntos que lhe sejam apresentados pelo conselho adm
 
 2 - Poderão ser chamados a participar na Comissão Regional, sem direito a voto, individualidades de reconhecida competência em assuntos respeitantes ao sector.
 
-###### Art. 7.º O conselho administrativo é constituído por três membros, a saber:
+Art. 7.º O conselho administrativo é constituído por três membros, a saber:
 
 a) Director de Serviços de Acção Social e Equipamentos Colectivos;
 
@@ -170,7 +187,7 @@ b) Director de Serviços de Prestações Pecuniárias;
 
 c) Administrador do CGFSS.
 
-###### Art. 8.º O conselho administrativo é o órgão permanente de direcção e administração do Centro, competindo-lhe nomeadamente:
+Art. 8.º O conselho administrativo é o órgão permanente de direcção e administração do Centro, competindo-lhe nomeadamente:
 
 a) Submeter à Comissão Regional todos os assuntos que sejam da sua competência;
 
@@ -184,11 +201,11 @@ e) Assegurar o cumprimento das normas dimanadas do Secretário Regional e da Dir
 
 f) Exercer as competências que, cabendo ao CGFSS, não sejam da competência própria da Comissão Regional de Gestão Financeira da Segurança Social.
 
-###### Art. 9.º - 1 - Compete especialmente ao administrador superintender nos serviços do CGFSS, orientando-os na realização das suas atribuições, e exercer os poderes que lhe forem delegados pelo conselho administrativo.
+Art. 9.º - 1 - Compete especialmente ao administrador superintender nos serviços do CGFSS, orientando-os na realização das suas atribuições, e exercer os poderes que lhe forem delegados pelo conselho administrativo.
 
 2 - O administrador fica sujeito à legislação vigente sobre os cargos de direcção e chefia.
 
-###### Art. 10.º São receitas correntes do CGFSS:
+Art. 10.º São receitas correntes do CGFSS:
 
 a) Comparticipações do Instituto de Gestão Financeira da Segurança Social;
 
@@ -204,7 +221,7 @@ f) Rendimentos de bens próprios de serviços e estabelecimentos oficiais do sec
 
 g) Taxas e outras receitas provenientes de entidades públicas ou privadas.
 
-###### Art. 11.º Constituem despesas correntes do CGFSS:
+Art. 11.º Constituem despesas correntes do CGFSS:
 
 a) Financiamento das instituições e estabelecimentos do sector;
 
@@ -212,22 +229,22 @@ b) Gestão administrativa e patrimonial;
 
 c) Outras despesas.
 
-###### Art. 12.º - 1 - São integradas na orgânica do sistema regional unificado de segurança social as comissões distritais de assistência de Angra do Heroísmo, Horta e Ponta Delgada, passando as respectivas funções a ser asseguradas pelos serviços competentes da SRAS.
+Art. 12.º - 1 - São integradas na orgânica do sistema regional unificado de segurança social as comissões distritais de assistência de Angra do Heroísmo, Horta e Ponta Delgada, passando as respectivas funções a ser asseguradas pelos serviços competentes da SRAS.
 
 2 - Os patrimónios imobiliário, mobiliário e financeiro das comissões distritais de assistência são integrados no património do CGFSS, devendo as transferências a que houver lugar operar-se sem qualquer indemnização.
 
 3 - No âmbito e para efeitos do disposto no número anterior, a transferência de situações locativas efectuar-se-á sem quaisquer formalidades, autorizações e consequências decorrentes da sua falta.
 
-###### Art. 13.º O pessoal das comissões distritais de assistência é integrado nos quadros de pessoal da Secretaria Regional dos Assuntos Sociais.
+Art. 13.º O pessoal das comissões distritais de assistência é integrado nos quadros de pessoal da Secretaria Regional dos Assuntos Sociais.
 
-###### Art. 14.º O presente decreto regional será objecto de diploma regulamentar no prazo de sessenta dias.
+Art. 14.º O presente decreto regional será objecto de diploma regulamentar no prazo de sessenta dias.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 7 de Novembro de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 19 de Novembro de 1979.**
+Assinado em Angra do Heroísmo em 19 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

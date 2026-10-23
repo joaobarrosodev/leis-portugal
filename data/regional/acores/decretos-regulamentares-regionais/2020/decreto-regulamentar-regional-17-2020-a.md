@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2020/08/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2020-139563958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 272d19b11c17f3e6d2e67f35cb9a83ecd2422544b6a46bc28224f9344ecf60fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1ff1ffe92895cea98a0f00acaa753356de3feabba93d332bd64c72d28c51bdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- ILHA de são Miguel
-- Multa
-- Ordenamento do Território
-- Governo Regional
+- Açores
+- Arborização
+- Caldeira Velha
 - Contra-ordenação
 - Definição de Competências
-- Regulamentação de Atos Legislativos
-- Arborização
-- Fiscalização
-- Monumento Natural
-- Caldeira Velha
-- Parque Natural da Ilha de São Miguel
-- Lagoa do Fogo
-- Lagoa das Sete Cidades
-- Página na Internet
-- Rede Regional de Áreas Protegidas
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
+- Fiscalização
 - Gestão do Ambiente
-- Zona de Proteção
+- Governo Regional
+- ILHA de são Miguel
+- Lagoa das Sete Cidades
+- Lagoa do Fogo
+- Monumento Natural
+- Multa
+- Ordenamento do Território
+- Página na Internet
+- Parque Natural da Ilha de São Miguel
+- Património Natural
+- Proteção do Ambiente
 - Protecção do Património
 - Qualidade do Ambiente
 - Recursos Naturais
-- Património Natural
+- Rede Natura 2000
+- Rede Regional de Áreas Protegidas
+- Regulamentação de Atos Legislativos
 - Regulamento
 - Relatório
 - Reserva Natural
 - SETE Cidades
-- Açores
 - Unidade de Gestão
-- Rede Natura 2000
+- Vida Selvagem
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/4/2005/02/14/p/dre
@@ -139,16 +139,124 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19/2014/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19/2014/04/14/p/dre
+- type: cites
+  target: pt:dre:114771734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121987032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122059241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122373686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653285:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70014797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74711478:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:32Z'
   warnings: []
   errors: []
 ---
@@ -219,11 +327,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 23 de junho de 2020.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 23 de julho de 2020.**
+Assinado em Angra do Heroísmo em 23 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -609,15 +717,15 @@ Planta de Zonamento
 
 Cartograma 1A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Cartograma 1B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Cartograma 1C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 ## ANEXO III — [a que se refere a alínea c) do n.º 1 do artigo 1.º]
 
@@ -625,15 +733,15 @@ Planta de Condicionantes
 
 Cartograma 2A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Cartograma 2B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Cartograma 2C
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 ## ANEXO IV — [a que se refere a alínea d) do n.º 1 do artigo 1.º]
 
@@ -851,19 +959,19 @@ ANEXOS
 
 O Arquipélago dos Açores localiza-se no oceano Atlântico norte ocupando uma faixa definida pelas seguintes coordenadas geográficas: 39.º 43' 23'' (Ponta Norte - Ilha do Corvo) e 36.º 55' 43'' (Ponta do Castelo - Ilha de Santa Maria) de latitude norte; 24.º 46' 15'' (Ilhéus das Formigas - Ilha de Santa Maria) e 31.º 16' 24'' (Ilhéu de Monchique - Ilha das Flores) de longitude oeste.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 1 - Arquipélago dos Açores no mundo
 
 As ilhas encontram-se agrupadas atendendo à proximidade geográfica: Grupo Ocidental (Corvo e Flores); Grupo Central (Terceira, Graciosa, São Jorge, Pico e Faial); Grupo Oriental (São Miguel e Santa Maria). O Grupo Oriental distancia-se cerca de 150 km e de 500 km dos Grupos Central e Ocidental, respetivamente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 2 - Arquipélago dos Açores e a ilha de São Miguel.
 
 A partir da Carta de Ocupação do Solo dos Açores (COSA, 2018), pode concluir-se que a ilha de São Miguel tem 58,95 % da sua área ocupada para a agricultura. O uso do solo urbano ocupa 6,02 % da área da ilha, mais elevado do que a média regional, que se situa nos 4,96 %. Os espaços florestais (florestas e meios naturais e seminaturais) ocupam 32,35 % da área da ilha. Refira-se que, nestes espaços florestais se encontram inseridas as matas de produção de criptoméria, pinheiro, eucalipto ou acácia, por exemplo, como também as matas de invasoras como o incenso, assim como as florestas naturais e galerias ripícolas. As zonas húmidas ocupam 1,54 % da área da ilha (zonas apauladas) e 1,15 % de massas de água, sendo que nestas massas de água se encontram inseridos os cursos de água, lagoas e lagoas costeiras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 3 - Usos do solo a partir da COSA (DRA, 2018)
 
@@ -873,13 +981,13 @@ Nos Açores, uma parte substancial dos terrenos públicos estão integrados nos 
 
 Refira-se, no entanto, que as áreas de perímetro florestal que, entretanto, foram classificadas no âmbito da Rede de Áreas Protegidas dos Açores estão sujeitas ao respetivo regime de classificação e ao regime jurídico da conservação da natureza e da biodiversidade, estabelecido pelo [Decreto Legislativo Regional n.º 15/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 4 - Perímetro florestal e áreas protegidas (Perímetro florestal DRRF, 2014).
 
 O regime jurídico da conservação da natureza e da biodiversidade, aprovado pelo [Decreto Legislativo Regional n.º 15/2012/ A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893), de 2 de abril, define a Rede Fundamental de Conservação da Natureza como o conjunto dos territórios orientados para a conservação das componentes mais representativas do património natural e da biodiversidade. O conjunto das áreas integradas no Parque Natural de Ilha e as áreas de Reserva Ecológica e de Reserva Agrícola conformam a Rede Fundamental da Conservação da Natureza (figura 5).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 5 - Rede Fundamental da Conservação da Natureza - Integra as áreas protegidas, as áreas da Rede Natura 2000, a Reserva Ecológica e a Reserva Agrícola (IROA 2013)
 
@@ -931,7 +1039,7 @@ p) Vila Franca do Campo (SM16) - abrange uma área de, aproximadamente, 23 km2 d
 
 q) Ribeira Quente (SM17) - apresenta uma área de, aproximadamente, 16 km2, abrangendo os concelhos de Vila Franca do Campo e Povoação, e integra o aglomerado urbano de Ribeira Quente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 6 - Unidades da Paisagem da Ilha de São Miguel.
 
@@ -951,7 +1059,7 @@ e) Promover ações de sensibilização e educação ambiental orientadas para o
 
 Atualmente, nos Açores são conhecidos mais de três centenas de cavidades vulcânicas, das quais 27 na ilha São Miguel (figura 7). Neste contexto, o Plano de Gestão prevê a implementação de medidas de gestão para as cavidades vulcânicas, dando execução ao disposto no [Decreto Legislativo Regional n.º 10/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2019-122373686), de 22 de maio.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 7 - Cavidades Vulcânicas na Ilha de São Miguel.
 
@@ -959,19 +1067,19 @@ O Parque Natural de Ilha de São Miguel foi criado em 2008, pelo [Decreto Legisl
 
 O PNI de São Miguel integra 23 áreas protegidas, das quais 19 são terrestres com uma área total de 142,37 km2 o que corresponde a 19,1 % da superfície de São Miguel e 5 áreas marinhas com 74,76 km2. Na figura 8 apresentam-se as áreas protegidas do PNI com o respetivo código, atribuído pelo diploma de classificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 8 - Áreas protegidas do PNI de São Miguel.
 
 Na figura 9 apresentam-se as áreas protegidas pertencentes ao PNI de São Miguel descriminadas segundo as categorias definidas pela União Internacional para a Conservação da Natureza (IUCN): à categoria I corresponde a designação de Reserva Natural; à categoria III corresponde a designação de Monumento Natural; à categoria IV corresponde a designação de Área Protegida para a Gestão de Habitats e Espécies; à categoria V corresponde a designação de Área de Paisagem Protegida e à categoria VI a designação de Área Protegida para a Gestão de Recursos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 9 - Áreas protegidas de acordo com as categorias IUCN.
 
 Na figura 10 mostra-se a relação das áreas terrestres do PNI de São Miguel com as áreas da Rede Natura 2000, concretamente as Zonas Especiais de Conservação (ZEC) e as Zonas de Proteção Especial (ZPE).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 10 - Relação das Zonas Especiais de Conservação (ZEC) e das Zonas de Proteção Especial (ZPE) com as áreas terrestres do PNI
 
@@ -979,7 +1087,7 @@ Na Tabela 1 evidencia-se a correspondência entre as áreas protegidas do PNI de
 
 Tabela 1 - Designação toponímica das áreas protegidas e respetivas classificações internacionais. A cor verde encontram-se as áreas protegidas com componente terrestre, que são tratadas neste documento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Este Plano de Gestão ocupa-se unicamente da componente terrestre das áreas protegidas integradas no Parque Natural da Ilha de Miguel.
 
@@ -995,7 +1103,7 @@ Os objetivos gerais do Plano de Gestão são balizados pelos objetivos de desenv
 
 A metodologia seguida na elaboração deste Plano de Gestão encontra-se esquematizada na Figura 11.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Figura 11 - Metodologia usada na elaboração do Plano de Gestão.
 
@@ -1029,7 +1137,7 @@ Os resultados da análise SWOT realizada ao PNI de São Miguel estão resumidos 
 
 Tabela 2 - Resultados da análise SWOT realizada ao Parque Natural de Ilha
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 4 - Listagem das Medidas de Gestão
 
@@ -1037,13 +1145,13 @@ Para que não se perca a visão integradora do Plano de Gestão, optou-se por cl
 
 Tabela 3 - Grandes temas de medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Esta metodologia permitiu identificar tipos de medidas que se podem propor no âmbito do Plano de Gestão, as quais estão dependentes de futuras relações a estabelecer com as entidades responsáveis pela sua implementação, e que estão em consonância com as medidas propostas pelo Plano Setorial da Rede Natura 2000.
 
 Tabela 4 - Tipos de medidas de gestão e entidades responsáveis pela sua implementação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 Optou-se por produzir um sistema de classificação das medidas adaptado ao território açoriano. A cada medida foi atribuído um código, para que mais facilmente se possam relacionar com as unidades operativas de gestão.
 
@@ -1065,13 +1173,13 @@ Na tabela 5 apresentam-se os tipos de medidas de gestão e respetivos códigos.
 
 Tabela 5 - Tipos de medidas de gestão e códigos correspondentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5 - Programa de execução
 
 5.1 - Proposta de Intervenção para a Reserva Natural da Lagoa do Fogo (SMG01)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.1.1 - Objetivos de gestão
 
@@ -1091,15 +1199,15 @@ OB7. Definição de limites e condicionamentos ao livre acesso público.
 
 5.1.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.1.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.2 - Proposta de intervenção para a Reserva Natural do Pico da Vara (SMG02)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.2.1 - Objetivos de gestão
 
@@ -1119,15 +1227,15 @@ OB7. Definição de limites e condicionamentos ao livre acesso público.
 
 5.2.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.2.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.3 - Proposta de Intervenção para o Monumento Natural da Caldeira Velha (SMG03)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.3.1 - Objetivos de gestão
 
@@ -1139,15 +1247,15 @@ OB3. Eliminar ou prevenir tipos de exploração ou ocupação que possam constit
 
 5.3.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.3.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.4 - Proposta de Intervenção para o Monumento Natural da Gruta do Carvão (SMG04)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.4.1 - Objetivos de gestão
 
@@ -1159,15 +1267,15 @@ OB3. Eliminar ou prevenir tipos de exploração ou ocupação que possam constit
 
 5.4.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.4.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.5 - Proposta de Intervenção para o Monumento Natural do Pico das Camarinhas - Ponta da Ferraria (SMG05)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.5.1 - Objetivos de gestão
 
@@ -1179,15 +1287,15 @@ OB3. Eliminar ou prevenir tipos de exploração ou ocupação que possam constit
 
 5.5.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.5.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.6 - Proposta de Intervenção para a Área Protegida para a Gestão de Habitats ou Espécies do Ilhéu de Vila Franca do Campo (SMG06)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.6.1 - Objetivos de gestão
 
@@ -1203,15 +1311,15 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.6.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.6.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.7 - Área Protegida para a Gestão de Habitats ou Espécies da Serra de Água de Pau (SMG07)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.7.1 - Objetivos de gestão
 
@@ -1227,15 +1335,15 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.7.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.7.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.8 - Proposta de Intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Tronqueira e Planalto dos Graminhais (SMG08)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.8.1 - Objetivos de gestão
 
@@ -1251,15 +1359,15 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.8.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.8.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.9 - Proposta de Intervenção para a Área Protegida para a Gestão de Habitats e Espécies da Ponta do Cintrão (SMG09)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.9.1 - Objetivos de gestão
 
@@ -1275,15 +1383,15 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.9.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.9.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.10 - Proposta de Intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Ponta do Arnel (SMG10)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.10.1 - Objetivos de gestão
 
@@ -1299,15 +1407,15 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.10.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.10.3 - Programa de execução para a Área Protegida para a Gestão de Habitats e Espécies da Ponta do Arnel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.11 - Proposta de Intervenção para a Área Protegida para a Gestão de Habitats ou Espécies das Feteiras (SMG11)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.11.1 - Objetivos de gestão
 
@@ -1323,15 +1431,15 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.11.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.11.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.12 - Proposta de Intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Ponta do Escalvado (SMG12)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.12.1 - Objetivos de gestão
 
@@ -1347,15 +1455,15 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.12.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.12.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.13 - Proposta de Intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Ponta da Bretanha (SMG13)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.13.1 - Objetivos de gestão
 
@@ -1371,15 +1479,15 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.13.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.13.2 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.14 - Proposta de Intervenção para a Área Protegida para a Gestão de Habitats ou Espécies do Faial da Terra (SMG14)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.14.1 - Objetivos de gestão
 
@@ -1395,15 +1503,15 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.14.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.14.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.15 - Proposta de Intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Ferraria (SMG15)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.15.1 - Objetivos de gestão
 
@@ -1419,15 +1527,15 @@ OB5. Permitir que a população local usufrua de benefícios que resultem da pr�
 
 5.15.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.15.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.16 - Proposta de Intervenção para a Área Protegida para a Gestão de Habitats ou Espécies da Lagoa do Congro (SMG16)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.16.1 - Objetivos de gestão
 
@@ -1439,15 +1547,15 @@ OB3. Eliminar ou prevenir tipos de exploração ou ocupação que possam constit
 
 5.16.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.16.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.17 - Proposta de Intervenção para a Área de Paisagem Protegida das Sete Cidades (SMG017)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.17.1 - Objetivos de gestão
 
@@ -1467,15 +1575,15 @@ OB7. Contribuir para o desenvolvimento da comunidade local através dos benefíc
 
 5.17.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.17.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.18 - Proposta de Intervenção para a Área de Paisagem Protegida das Furnas (SMG18)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.18.1 - Objetivos de gestão
 
@@ -1495,15 +1603,15 @@ OB7. Contribuir para o desenvolvimento da comunidade local através dos benefíc
 
 5.18.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.18.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.19 - Proposta de Intervenção para a Área Protegida para a Gestão de Recursos da Caloura - Ilhéu de Vila Franca do Campo (SMG19)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.19.1 - Objetivos de gestão
 
@@ -1517,15 +1625,15 @@ OB3. Contribuir para o desenvolvimento sustentável regional.
 
 5.19.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.19.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.20 - Proposta de Intervenção para a Área Protegida para a Gestão de Recursos da Ponta da Ferraria - Ponta da Bretanha (SMG23)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.20.1 - Objetivos de gestão
 
@@ -1539,15 +1647,15 @@ OB3. Contribuir para o desenvolvimento sustentável regional.
 
 5.20.2 - Quadro-resumo das medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.20.3 - Medidas de gestão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.21 - Gestão e monitorização de cavidades vulcânicas protegidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 5.21.1 - Objetivos de gestão
 
@@ -1601,11 +1709,11 @@ O resultado das ações de monitorização do grau de concretização do Plano d
 
 Tendo em conta os macro objetivos, domínios e subdomínios definidos para a Região Autónoma dos Açores, o modelo de gestão territorial definido para os Planos de Gestão dos Parques naturais de Ilha é o seguinte.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 6.2 - Indicadores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 7 - Bibliografia
 
@@ -1889,7 +1997,7 @@ Portaria n.º 66/2018, de 20 de junho, que aprova o Regulamento de acesso ao Ilh
 
 Tabela 6 - Listagem de habitats naturais com estatuto de proteção por área protegida do PNI de São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 SMG01 - Reserva Natural da Lagoa do Fogo.
 
@@ -1943,7 +2051,7 @@ SMG23 - Área Protegida de Gestão de Recursos da Ponta da Ferraria - Ponta da B
 
 Tabela 7 - Listagem de espécies de flora por área protegida do PNI São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 SMG01 - Reserva Natural da Lagoa do Fogo.
 
@@ -1989,7 +2097,7 @@ SMG23 - Área Protegida de Gestão de Recursos da Ponta da Ferraria - Ponta da B
 
 Tabela 8 - Listagem de espécies de aves por área protegida do PNI São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 SMG01 - Reserva Natural da Lagoa do Fogo.
 
@@ -2033,7 +2141,7 @@ SMG23 - Área Protegida de Gestão de Recursos da Ponta da Ferraria - Ponta da B
 
 Tabela 9 - Listagem de espécies de mamíferos por área protegida do PNI São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15100/0002600156.pdf)
 
 SMG01 - Reserva Natural da Lagoa do Fogo.
 
@@ -2074,3 +2182,5 @@ SMG18 - Área de Paisagem Protegida das Furnas.
 SMG19 - Área Protegida de Gestão de Recursos da Caloura - Ilhéu de Vila Franca do Campo.
 
 SMG23 - Área Protegida de Gestão de Recursos da Ponta da Ferraria - Ponta da Bretanha.
+
+113433286

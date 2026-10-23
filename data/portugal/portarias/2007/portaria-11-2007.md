@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/00300/00340035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/11/2007/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/11-2007-262317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6093b6c5ff1909b00bf449e480b1c21238284ec0f326d6719a240459c9704036
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7c53ade89e1f82aad2ea09d3cc230198960e173060a40869f200383bee97162
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,11 +69,11 @@ subjects:
 - Código do IRC
 - Código do IRS
 - Declaração de Rendimentos
-- Impresso
-- IRS
 - Documento Eletrónico
+- Impresso
 - Internet
 - IRC
+- IRS
 relationships:
 - type: amended_by
   target: pt:dre:242875:por
@@ -83,16 +83,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1145/2004/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1145/2004/09/14/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617310:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:242875:por
+  label: "Revogada a partir de 14.01.2008 pela PORT.16-B/2008.09.01.2008.MFAP, DR.IS [6-Supl] de 09.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/16-b-2008-242875
+  date: '2008-01-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:16Z'
   warnings: []
   errors: []
 ---
@@ -137,4 +150,4 @@ c) Efectuar o envio de acordo com os procedimentos indicados na referida página
 
 Pelo Ministro de Estado e das Finanças, Emanuel Augusto dos Santos, Secretário de Estado Adjunto e do Orçamento, em 2 de Janeiro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00300/00340035.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00300/00340035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00300/00340035.pdf)

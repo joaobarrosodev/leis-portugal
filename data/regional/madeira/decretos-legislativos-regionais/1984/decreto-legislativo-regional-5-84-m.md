@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1984-383986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93c99b53275849f75610e712c35c1ab52909e63fd96ae7b4f1e6da5c7f730ca2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78a4f426a8020e152b4f8f9481971384ce3348989997708827218fc3d9f16a99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Agência de Turismo
+- Madeira.região Autónoma
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:370064:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275410:por
+  label: Retificado o segundo parágrafo do preâmbulo pela DECL PCM, de 30-jun, DR IS [150]2ºSupl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1984-275410
+  date: '1984-06-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:54Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +105,14 @@ Urge, pois, até à publicação de legislação regional que venha proceder à 
 
 Nestes termos, a Assembleia Regional da Madeira decreta, ao abrigo da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º As sociedades comerciais com sede na Região Autónoma da Madeira legalmente constituídas à data da publicação e entrada em vigor do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064), de 31 de Agosto, ficam dispensadas, até à publicação de legislação regional sobre matéria de agências de viagens, do cumprimento da obrigação constante das disposições conjugadas dos artigos 1.º e 93.º do citado diploma.
+Artigo 1.º As sociedades comerciais com sede na Região Autónoma da Madeira legalmente constituídas à data da publicação e entrada em vigor do [Decreto-Lei n.º 359/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1979-370064), de 31 de Agosto, ficam dispensadas, até à publicação de legislação regional sobre matéria de agências de viagens, do cumprimento da obrigação constante das disposições conjugadas dos artigos 1.º e 93.º do citado diploma.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 28 de Março de 1984.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 24 de Abril de 1984.**
+Assinado em 24 de Abril de 1984.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

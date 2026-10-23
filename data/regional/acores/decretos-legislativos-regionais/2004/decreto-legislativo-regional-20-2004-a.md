@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2004/06/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2004-281203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a62229d8c07696a5ef026f2227234a723da11166dafda9cfb5cebd1009d34c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9af65c707e3cf631e2cc74bb13db1d3c37c9f9650bb2cc8e226195bd1017f9f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Conselho Regional de Concertação Estratégica
 - Orgânica
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:115645080:por
@@ -78,16 +78,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/9/2003/03/12/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/9/2003/03/12/a/dre
+- type: cites
+  target: pt:dre:214716:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:115645080:por
+  label: Revogado o DLR 9/2003/A de 12-mar, na redação do presente diploma pelo(a) Decreto Legislativo Regional n.º 8/2018/A
+    - Diário da República n.º 128/2018, Série I de 2018-07-05 nos termos do seu art. 19.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2018-115645080
+  date: '2018-07-05'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:01Z'
   warnings: []
   errors: []
 ---
@@ -150,10 +160,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 20 de Abril de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 12 de Maio de 2004.**
+Assinado em Angra do Heroísmo em 12 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

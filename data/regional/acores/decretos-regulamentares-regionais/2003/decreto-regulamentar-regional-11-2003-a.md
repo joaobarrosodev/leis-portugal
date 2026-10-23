@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/041b00/10941105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2003/02/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2003-189091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c2c9531c71c506512687d5d7ec8958e54098e8aa9958461f5dbe47326755845
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1970734232922d711fedd33b93b107924e184baddcff9665d121abfb343981f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Centro de Informática
-- Secretário Regional da Presidência para as Finanças e Planeamento
 - Definição de Competências
-- Direcção Regional dos Assuntos Europeus
 - Direcção Regional de Estudos e Planeamento dos Açores
-- Recrutamento de Pessoal
+- Direcção Regional do Orçamento e Tesouro
+- Direcção Regional dos Assuntos Europeus
+- Gestão de Recursos Humanos
 - Integração de Trabalhadores
 - Orgânica
-- Direcção Regional do Orçamento e Tesouro
 - Quadro de Pessoal
-- Gestão de Recursos Humanos
-- Açores
+- Recrutamento de Pessoal
+- Secretário Regional da Presidência para as Finanças e Planeamento
 relationships:
 - type: amended_by
   target: pt:dre:553625:por
@@ -123,16 +123,81 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553625:por
+  label: "Revogado pelo DRR.9/2006/A.20.01.2006.PG-RAA, DR.IS-B [29] de 09.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2006-553625
+  date: '2006-01-20'
 article_structure:
   article_count: 54
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:40Z'
   warnings: []
   errors: []
 ---
@@ -167,13 +232,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 12 de Dezembro de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Janeiro de 2003.**
+Assinado em Angra do Heroísmo em 25 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 Orgânica dos serviços dependentes do Secretário Regional da Presidência para as Finanças e Planeamento
 
@@ -181,7 +246,7 @@ Orgânica dos serviços dependentes do Secretário Regional da Presidência para
 
 ###### Artigo 1.º — Natureza
 
-**O Secretário Regional da Presidência para as Finanças e Planeamento é o membro do Governo que, através dos respectivos serviços, propõe e executa as políticas do Governo Regional nas seguintes matérias:**
+O Secretário Regional da Presidência para as Finanças e Planeamento é o membro do Governo que, através dos respectivos serviços, propõe e executa as políticas do Governo Regional nas seguintes matérias:
 
 a) Finanças e património;
 
@@ -267,7 +332,9 @@ f) Apoiar tecnicamente os utilizadores do sistema informático referido nas alí
 
 #### SECÇÃO II — Órgãos de apoio instrumental
 
-###### Artigo 5.º — Divisão dos Serviços Administrativos
+###### Artigo 5.º
+
+##### Divisão dos Serviços Administrativos
 
 1 - A DSA funciona na dependência directa do Secretário Regional da Presidência para as Finanças e Planeamento, prestando apoio instrumental de carácter administrativo.
 
@@ -431,7 +498,9 @@ a) A Divisão de Contabilidade Pública Regional (DCPR);
 
 b) A Divisão do Orçamento Regional (DOR).
 
-###### Artigo 14.º — Divisão de Contabilidade Pública Regional
+###### Artigo 14.º
+
+##### Divisão de Contabilidade Pública Regional
 
 1 - A DCPR tem as seguintes competências:
 
@@ -459,7 +528,9 @@ f) Registar as guias de receita e reposições;
 
 g) Organizar os mapas relativos à sua actividade, com vista à elaboração das contas públicas e remetê-los à DSOC.
 
-###### Artigo 16.º — Divisão do Orçamento Regional
+###### Artigo 16.º
+
+##### Divisão do Orçamento Regional
 
 À DOR compete:
 
@@ -493,7 +564,9 @@ f) Assegurar o tratamento dos assuntos referentes à dívida pública e quaisque
 
 2 - A DSF compreende a Divisão de Fiscalidade e de Operações de Tesouraria (DFOT).
 
-###### Artigo 18.º — Divisão de Fiscalidade e de Operações de Tesouraria
+###### Artigo 18.º
+
+##### Divisão de Fiscalidade e de Operações de Tesouraria
 
 1 - Compete à DFOT:
 
@@ -565,7 +638,9 @@ b) O Sector de Imóveis (SI);
 
 c) O Sector de Móveis (SM).
 
-###### Artigo 21.º — Divisão de Inspecção e Gestão Patrimonial
+###### Artigo 21.º
+
+##### Divisão de Inspecção e Gestão Patrimonial
 
 São competências da DIGP:
 
@@ -657,7 +732,7 @@ j) Recolher e conservar todos os estudos, relatórios, projectos e outros docume
 
 a) De apoio instrumental:
 
-#### Secção de Apoio à DREPA (SA);
+Secção de Apoio à DREPA (SA);
 
 Centro de Documentação e Informação (CDI);
 
@@ -669,9 +744,9 @@ Núcleo de Fundos Comunitários (NFC).
 
 2 - A DSP compreende os seguintes serviços:
 
-##### Divisão de Estudos e Prospectiva (DEP);
+Divisão de Estudos e Prospectiva (DEP);
 
-##### Divisão de Programação e Análise de Projectos (DPAP).
+Divisão de Programação e Análise de Projectos (DPAP).
 
 ###### Artigo 28.º — Competências da Secção de Apoio à Direcção Regional de Estudos e Planeamento dos Açores
 
@@ -721,7 +796,9 @@ a) Divisão de Estudos e Prospectiva (DEP);
 
 b) Divisão de Programação e Análise de Projectos (DPAP).
 
-###### Artigo 31.º — Divisão de Estudos e Prospectiva
+###### Artigo 31.º
+
+##### Divisão de Estudos e Prospectiva
 
 Compete à DEP:
 
@@ -733,7 +810,9 @@ c) Elaborar estudos, análises e projecções das principais variáveis sociais 
 
 d) Manter uma análise permanente da realidade social, económica e financeira da Região, elaborando e divulgando estudos de conjuntura.
 
-###### Artigo 32.º — Divisão de Programação e Análise de Projectos
+###### Artigo 32.º
+
+##### Divisão de Programação e Análise de Projectos
 
 Compete à DPAP:
 
@@ -821,7 +900,9 @@ a) Divisão dos Assuntos Jurídicos (DAJ);
 
 b) Divisão dos Assuntos Europeus (DAE).
 
-###### Artigo 38.º — Divisão dos Assuntos Jurídicos
+###### Artigo 38.º
+
+##### Divisão dos Assuntos Jurídicos
 
 À DAJ compete, genericamente, desenvolver e apoiar as actividades da área de competências da DSAJE, nos termos referidos na alínea b) do n.º 1 do artigo 37.º, competindo-lhe ainda especificamente:
 
@@ -835,7 +916,9 @@ d) Acompanhar a evolução dos actos normativos, dos actos executivos com relev�
 
 e) Cooperar com o CIDE na organização e actualização da informação sobre a legislação comunitária nacional e regional atinente ao cumprimento das atribuições da DRAE, bem como desenvolver os trabalhos e praticar os actos necessários à execução das competências da DSAJE, no domínio dos assuntos jurídicos.
 
-###### Artigo 39.º — Divisão dos Assuntos Europeus
+###### Artigo 39.º
+
+##### Divisão dos Assuntos Europeus
 
 À DAE compete, genericamente, desenvolver e apoiar as actividades da área de competências da DSAJE, nos termos referidos na alínea a) do n.º 1 do artigo 37.º, competindo-lhe ainda especificamente:
 

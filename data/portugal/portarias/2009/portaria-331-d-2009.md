@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 62/2009, 1º Suplemento, Série I de 2009-03-30
   number: '62'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1946-(23) a 1946-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/06201/0002300024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/331-d/2009/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/331-d-2009-622374
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08b32768afd7e1a260bdf36f832e3caca717cf41278eb250f7e73709a2bc1121
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64fbe4af258503bf6a373b208d6a2c501fd7dfbbe942c18d189261fc191b5417
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
 - Definição de Competências
+- Desemprego
+- Duração do Trabalho
+- Emprego
 - Fiscalização
 - Habilitações Literárias
 - Incentivo Profissional
-- Desemprego
-- Qualificação Profissional
-- Emprego
+- Instituto do Emprego e Formação Profissional
 - Programa Qualificação-emprego
+- Qualificação Profissional
 - Redução do Período Normal de Trabalho
-- Duração do Trabalho
 - Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:611294:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492249:por
+  label: "Alterado o art. 7º da Port 126/2009 de 30-Jan, com a redacção constante do presente diploma, pela PORT.765/2009.16.07.2009.MTSSO,\
+    \ DR.IS [136] de 16.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/765-2009-492249
+  date: '2009-07-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
@@ -90,16 +96,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/126/2009/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/126/2009/01/30/p/dre
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611294:por
+  label: "Revogada, sem prejuízo do disposto no n.º 2 do art. 24.º, a Port 126/2009, de 30-Jan, com as alterações introduzidas\
+    \ pelo presente diploma, pela PORT.126/2010.01.03.2010.MTSSO, DR.IS [41] de 01.03.2010 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/126-2010-611294
+  date: '2010-03-01'
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:31Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +148,9 @@ Nos termos do n.º 2 do artigo 344.º do Código do Trabalho, aprovado pela [Lei
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Pode candidatar-se ao Programa a empresa que:
 
@@ -150,7 +168,9 @@ f) ...
 
 g) ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -180,4 +200,4 @@ g) Não realizar despedimento colectivo durante o período de vigência do Progr
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 26 de Março de 2009.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 26 de Março de 2009.

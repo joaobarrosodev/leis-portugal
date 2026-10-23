@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 31/2009, 1º Suplemento, Série I de 2009-02-13
   number: '31'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1078-(3) a 1078-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03101/0000300003.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/165-c/2009/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/165-c-2009-181389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c015062bbb0f660546d59f12a8a2fc52ec47e1c034f2259d29370c20784855b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 45142adc544c6fe502aa7a2721a32cb5fea1b940bcb645b8129b58419b640c82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda não Reembolsável
-- Financiamento
 - Direcção Regional de Agricultura e Pescas
 - Energia Renovável
-- Exploração Pecuária
-- Projeto de Investimento
-- IFAP
 - Exploração Agrícola
-- Proteção do Ambiente
+- Exploração Pecuária
+- Financiamento
+- IFAP
 - Modernização do Sector Agrícola
 - Programa AGRO
+- Projeto de Investimento
+- Proteção do Ambiente
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:494235:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:622373:por
+  label: "Alterados os art.s 6º e 7º, pela PORT.331-C/2009.30.03.2009.MADRP, DR.IS [62-Supl] de 30.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-c-2009-622373
+  date: '2009-03-30'
+- type: amended_by
+  target: pt:dre:494235:por
+  label: "Alterado o art. 8.º pela PORT.608/2009.04.06.2009.MADRP, DR.IS [108] de 04.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/608-2009-494235
+  date: '2009-06-04'
 - type: cites
   target: celex:31999R1257
   label: null
@@ -91,13 +101,13 @@ relationships:
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:33Z'
   warnings: []
   errors: []
 ---
@@ -172,4 +182,4 @@ As candidaturas serão apresentadas nas direcções regionais de agricultura e p
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 12 de Fevereiro de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 12 de Fevereiro de 2009.

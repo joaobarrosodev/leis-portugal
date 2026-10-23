@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/05400/0159401596.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/239/2008/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-2008-247038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3c9065e945528f46d0b3bd78dbcc98231b1ca2a326429e1696362e0ed665209
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a6bfc196dd284421f761667c6bb590a0d9abe827b70fcf9d659d196c159ec63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,16 +87,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1098/2005/10/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1098/2005/10/24/p/dre
+- type: cites
+  target: pt:dre:248485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595313:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:613244:por
+  label: "Revogada, a partir de 25.04.2010, pela PORT.222/2010.20.04.2010.MNE, DR.IS [76] de 20.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/222-2010-613244
+  date: '2010-04-20'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:04Z'
   warnings: []
   errors: []
 ---
@@ -237,4 +254,4 @@ d) As funções exercidas em outros departamentos do Estado e em organismos inte
 
 É revogada a [Portaria n.º 1098/2005](https://diariodarepublica.pt/dr/detalhe/portaria/1098-2005-595313), de 24 de Outubro.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 3 de Março de 2008.**
+O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 3 de Março de 2008.

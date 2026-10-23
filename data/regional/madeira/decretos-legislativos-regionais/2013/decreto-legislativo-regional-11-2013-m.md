@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2013/03/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2013-258767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f78424a0a3e39713a1b0723c294a0c17de2d6707b930d058a9ad88808d976bc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94e60ced97dd6a1d807c154f0126475bb217ee838e9acfdf40f430970fb2a573
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aproximação das Legislações
-- Estabelecimento Comercial
+- Comércio
 - Comércio a Retalho
 - Direcção Regional do Comércio Indústria e Energia
+- Direito de Estabelecimento
+- Estabelecimento Comercial
 - Fiscalização
 - Inspecção Regional das Actividades Económicas
 - Instalação de Serviços
-- Direito de Estabelecimento
-- Livre Prestação de Serviços
 - Licenciamento
+- Livre Prestação de Serviços
 - Madeira.região Autónoma
 - Regime Jurídico
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:74967188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:74967188:por
+  label: Alterado o art. 18.º e revogados o n.º 2 do art. 16.º, o art. 17.º e o n.º 2 do art. 18.º pelo(a) Decreto Legislativo
+    Regional n.º 30/2016/M - Diário da República n.º 136/2016, Série I de 2016-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-2016-74967188
+  date: '2016-07-18'
 - type: cites
   target: celex:32006L0123
   label: null
@@ -91,13 +97,13 @@ relationships:
 article_structure:
   article_count: 26
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:39Z'
   warnings: []
   errors: []
 ---
@@ -432,11 +438,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 24 de janeiro de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 15 de fevereiro de 2013.**
+Assinado em 15 de fevereiro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

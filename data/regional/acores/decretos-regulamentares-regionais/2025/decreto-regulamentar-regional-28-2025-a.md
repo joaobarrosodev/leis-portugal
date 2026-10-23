@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/28/2025/12/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2025-983592817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7249df5e9b37665f089c4a482a46fea9ba2a74501f235e630d02880f6ab17520
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62cc8ef4ae355d47aa80b8eb9e8aa29a9d14e2b3bd1226b59a1ba7012372febc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamentação de Atos Legislativos
-- Conselho Consultivo
-- Recursos do Mar
-- Meio Marinho
-- Zona de Proteção
 - Açores
+- Conselho Consultivo
+- Meio Marinho
+- Recursos do Mar
+- Regulamentação de Atos Legislativos
 - Secretaria Regional do Mar e das Pescas
+- Zona de Proteção
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:21/2024/A
+  label: Altera, a partir de 1 de janeiro de 2026, o artigo 4.º e adita o artigo 8.º-A à orgânica da Secretaria Regional do
+    Mar e das Pescas, aprovada pelo Decreto Regulamentar Regional n.º 21/2024/A, de 26 de novembro, Diário da República n.º
+    229/2024, Série I
+  source: null
+  date: '2024-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/2016/07/19/a/dre
   label: null
@@ -99,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/21/2024/11/26/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/21/2024/11/26/a/dre
+- type: cites
+  target: pt:dre:146488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74967224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:897816391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:901147128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:904570278:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:938923407:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:12Z'
   warnings: []
   errors: []
 ---
@@ -121,11 +152,11 @@ A Rede de Áreas Marinhas Protegidas da Região Autónoma dos Açores (RAMPA), q
 
 A RAMPA é composta pelas áreas marinhas protegidas situadas no espaço marítimo adjacente ao arquipélago dos Açores, abrangendo as áreas marinhas protegidas costeiras, oceânicas, integrando, ainda, no seu âmbito, as áreas relevantes da rede fundamental de conservação da natureza.
 
-Nos termos do disposto nos n.<sup>os</sup>3 e 4 do artigo 84.º do [Decreto Legislativo Regional n.º 28/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2011-146488), de 11 de novembro, na sua redação atual, a RAMPA dispõe de um conselho consultivo, com a natureza de órgão consultivo do departamento do Governo Regional com competência em matéria de mar e pescas.
+Nos termos do disposto nos n.os3 e 4 do artigo 84.º do [Decreto Legislativo Regional n.º 28/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2011-146488), de 11 de novembro, na sua redação atual, a RAMPA dispõe de um conselho consultivo, com a natureza de órgão consultivo do departamento do Governo Regional com competência em matéria de mar e pescas.
 
 Neste enquadramento, o presente diploma vem criar o conselho consultivo da RAMPA, procedendo, ainda, à primeira alteração do [Decreto Regulamentar Regional n.º 21/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2024-897816391), de 26 de novembro, retificado pela Declaração de Retificação n.º [1/2025/A/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2025-904570278), de 23 de janeiro, consagrando-o, neste, enquanto órgão consultivo da Secretaria Regional do Mar e das Pescas.
 
-Assim, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa, da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e dos n.<sup>os</sup>3 e 4 do artigo 84.º do [Decreto Legislativo Regional n.º 28/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2011-146488), de 11 de novembro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[13/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), de 19 de julho, e [14/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), de 24 de dezembro, este último alterado pelo [Decreto Legislativo Regional n.º 22/2025/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2025-938923407), de 9 de outubro, o Governo Regional decreta o seguinte:
+Assim, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa, da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e dos n.os3 e 4 do artigo 84.º do [Decreto Legislativo Regional n.º 28/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2011-146488), de 11 de novembro, alterado pelos Decretos Legislativos Regionais n.os[13/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2016-74967224), de 19 de julho, e [14/2024/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2024-901147128), de 24 de dezembro, este último alterado pelo [Decreto Legislativo Regional n.º 22/2025/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2025-938923407), de 9 de outubro, o Governo Regional decreta o seguinte:
 
 ###### Artigo 1.º — Objeto
 
@@ -177,11 +208,11 @@ O presente diploma entra em vigor no dia 1 de janeiro de 2026.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de novembro de 2025.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 10 de dezembro de 2025.**
+Assinado em Angra do Heroísmo em 10 de dezembro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -334,3 +365,5 @@ Para a prossecução das suas atribuições, o conselho consultivo dispõe dos m
 ###### Artigo 12.º — Disposição complementar
 
 O regimento a que se refere o n.º 2 do artigo 7.º é aprovado pelo conselho consultivo na primeira reunião plenária, ordinária ou extraordinária, após a entrada em vigor do presente diploma.
+
+119867725

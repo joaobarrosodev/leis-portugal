@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/081a00/16461649.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/1994/04/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1994-253855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe75a5ba6d93239728f0201fd059e148c6217e3a60bfc36dd1e9dc1983a4fba8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2274ec917b22f50c1033eb274d6763d94585f849e4ee22ba10f3af359c46eb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,20 +76,45 @@ relationships:
   target: pt:dre:927416001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:195801:por
+  label: "Alterado o artigo 2.º pelo DLR.12/97/M.20.08.1997.ALR-RAM, DR.IS-A [191] de 20.08.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-1997-195801
+  date: '1997-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:446924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:440853:por
+  label: "Rectificadas as alíneas e) e f) do n.º 1 do artigo 2.º pela DECL-RECT.51/94.30.04.1994.PCM, DR.IS-A [100]2ºSupl\
+    \ de 30.04.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/51-1994-440853
+  date: '1994-04-30'
+- type: repealed_by
+  target: pt:dre:73168880:por
+  label: Revogado, a partir de 01.02.2016, o presente diploma, na redação do DLR 12/97/M de 20-ago, pelo(a) Decreto Legislativo
+    Regional n.º 2/2016/M - Diário da República n.º 10/2016, Série I de 2016-01-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2016-73168880
+  date: '2016-01-15'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:01Z'
   warnings: []
   errors: []
 ---
@@ -308,10 +333,10 @@ Após a entrada em vigor do presente decreto legislativo regional fica extinto o
 
 Aprovado em sessão plenária em 11 de Fevereiro de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 11 de Março de 1994.**
+Assinado em 11 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/20400/0000700013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/36/2023/10/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2023-223045468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f4d3f52c17b6c541bb73b09ebb8fee72b935db3adff57b5329afb6974441d32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c855797bbbafd8d1ecc7298c50b79eed61d96b6f0d0332c010f8a12c26f33cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Alimentação
 - Animal de Exploração
 - Animal Doméstico
-- Região Autónoma
+- Associação
 - Beneficiário
 - Centro de Recolha de Animais
-- Proteção dos Animais
-- Subvenção Pública
 - Formulário Eletrónico
-- Pagamento
-- Notificação
-- Página na Internet
 - Internet
-- Alimentação
-- Associação
-- Açores
 - Medicamento Veterinário
+- Notificação
+- Pagamento
+- Página na Internet
+- Plataforma Eletrónica
+- Proteção dos Animais
+- Região Autónoma
 - Subsídio
 - Subsídio não Reembolsável
+- Subvenção Pública
 - Veterinário
-- Plataforma Eletrónica
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/433/1999/10/26/p/dre
@@ -114,16 +114,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/78/2021/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/78/2021/06/25/p/dre
+- type: cites
+  target: pt:dre:160422286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165797125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211783461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74889525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170435:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:06Z'
   warnings: []
   errors: []
 ---
@@ -330,10 +362,12 @@ O presente decreto legislativo regional entra em vigor a 1 de janeiro de 2024.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de setembro de 2023.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 16 de outubro de 2023.**
+Assinado em Angra do Heroísmo em 16 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+116962351

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/273/2009/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/273-2009-605344
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43697e042e265b2ec3c137ac138c2844a72595fa193584e01140a36bb8961b90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f17123e0cfb3c9bea553a4c471d1abefe0ae496596d2b3a0ee5dc9f23dc1efa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,57 +65,85 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- ACES
+- Administração Regional de Saúde do Norte
+- Agrupamento de Centros de Saúde de ALTO Trás-os-montes I- Nordeste
 - Agrupamento de Centros de Saúde de ALTO Trás-os-montes II - ALTO Tâmega e Barroso
 - Agrupamento de Centros de Saúde de entre Douro e Vouga I - Feira - Arouca
 - Agrupamento de Centros de Saúde de entre Douro e Vouga II - Aveiro Norte
 - Agrupamento de Centros de Saúde do AVE I - Terras de Basto
 - Agrupamento de Centros de Saúde do AVE II - Guimarães-vizela
 - Agrupamento de Centros de Saúde do AVE III - Famalicão
-- Agrupamento de Centros de Saúde do Grande Porto I - Santo Tirso - Trofa
-- Agrupamento de Centros de Saúde do Grande Porto II - Gondomar
-- Agrupamento de Centros de Saúde do Grande Porto III - Valongo
-- Agrupamento de Centros de Saúde do Grande Porto IX - Espinho - GAIA
-- Agrupamento de Centros de Saúde do Grande Porto VII - Porto Oriental
-- Agrupamento de Centros de Saúde do Grande Porto VIII - GAIA
-- Agrupamento de Centros de Saúde do Tâmega I - Baixo Tâmega
-- Agrupamento de Centros de Saúde do Tâmega II - VALE do Sousa SUL
 - Agrupamento de Centros de Saúde do Cávado I - Braga
 - Agrupamento de Centros de Saúde do Cávado II - Gerês - Cabreira
 - Agrupamento de Centros de Saúde do Cávado III - Barcelos - Esposende
 - Agrupamento de Centros de Saúde do Douro I - Marão e Douro Norte
-- Administração Regional de Saúde do Norte
 - Agrupamento de Centros de Saúde do Douro II - Douro SUL
+- Agrupamento de Centros de Saúde do Grande Porto I - Santo Tirso - Trofa
+- Agrupamento de Centros de Saúde do Grande Porto II - Gondomar
+- Agrupamento de Centros de Saúde do Grande Porto III - Valongo
 - Agrupamento de Centros de Saúde do Grande Porto IV - MAIA
+- Agrupamento de Centros de Saúde do Grande Porto IX - Espinho - GAIA
 - Agrupamento de Centros de Saúde do Grande Porto V - Póvoa do Varzim - VILA do Conde
 - Agrupamento de Centros de Saúde do Grande Porto VI - Porto Ocidental
+- Agrupamento de Centros de Saúde do Grande Porto VII - Porto Oriental
+- Agrupamento de Centros de Saúde do Grande Porto VIII - GAIA
+- Agrupamento de Centros de Saúde do Tâmega I - Baixo Tâmega
+- Agrupamento de Centros de Saúde do Tâmega II - VALE do Sousa SUL
 - Agrupamento de Centros de Saúde do Tâmega III - VALE do Sousa Norte
 - ÁREA Geográfica
-- Serviço Nacional de Saúde
 - Centro de Saúde
 - Quadro de Pessoal
+- Serviço Nacional de Saúde
 - Serviços de Urgência
-- ACES
-- Agrupamento de Centros de Saúde de ALTO Trás-os-montes I- Nordeste
 - Utente
 relationships:
 - type: amended_by
   target: pt:dre:175777:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673399:por
+  label: "Extinto, a partir de 01.07.2011, por integração na Unidade Local de Saúde do Nordeste, E.P.E. (ULS Nordeste, E.P.E.),\
+    \ o Agrupamento de Centros de Saúde do Alto Trás-os-Montes I-Nordeste (ACES Nordeste), e determinada a sua sucessão em\
+    \ todos os direitos e obrigações pela referida Unidade, pelo DEC LEI.67/2011.02.06.2011.MS, DR.IS [107] de 02.06.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-2011-673399
+  date: '2011-06-02'
+- type: amended_by
+  target: pt:dre:175777:por
+  label: "Integrados, por fusão no agrupamento de centros de saúde (ACES) do Alto Ave - Guimarães/Vizela/Terras de Basto,\
+    \ os ACES do Ave I - Terras de Basto e do Ave II - Guimarães/Vizela e no agrupamento de centros de saúde (ACES) do Grande\
+    \ Porto III - Maia/Valongo os ACES do Grande Porto III - Valongo e o Grande Porto IV – Maia, alterada a área geográfica\
+    \ e redenominados o ACES do Grande Porto II – Gondomar e o ACES do Grande Porto IX - Espinho/Gaia e redenominados o ACES\
+    \ de Alto Trás-os-Montes I - Alto Tâmega e Barroso, o ACES do Ave III – Famalicão, o ACES do Grande Porto V - Póvoa de\
+    \ Varzim/Vila do Conde, o ACES do Grande Porto VI - Porto Ocidental, o ACES do Grande Porto VII - Porto Oriental e o ACES\
+    \ do Grande Porto VIII – Gaia pela PORT.310/2012.10.10.2012.PCM, DR.IS [196] de 10.10.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/310-2012-175777
+  date: '2012-10-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/28/2008/02/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/28/2008/02/22/p/dre
+- type: cites
+  target: pt:dre:247675:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:608707:por
+  label: "Rectificada pela DECL-RECT.32/2009.15.05.2009.PCM, DR.IS [94] de 15.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/32-2009-608707
+  date: '2009-05-15'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:11Z'
   warnings: []
   errors: []
 ---
@@ -164,100 +192,100 @@ A presente portaria produz efeitos a 1 de Março de 2009.
 
 Em 19 de Fevereiro de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
 
 ## ANEXO I — Agrupamento de Centros de Alto Trás-os-Montes I - Nordeste
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO II — Agrupamento de Centros de Saúde de Alto Trás-os-Montes II - Alto Tâmega e Barroso
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO III — Agrupamento de Centros de Saúde do Douro I - Marão e Douro Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO IV — Agrupamento de Centros de Saúde do Douro II - Douro Sul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO V — Agrupamento de Centros de Saúde do Ave I - Terras de Basto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO VI — Agrupamento de Centros de Saúde do Ave II - Guimarães/Vizela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO VII — Agrupamento de Centros de Saúde do Ave III - Famalicão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO VIII — Agrupamento de Centros de Saúde do Cávado I - Braga
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO IX — Agrupamento de Centros de Saúde do Cávado II - Gerês/Cabreira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO X — Agrupamento de Centros de Saúde do Cávado III - Barcelos/Esposende
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XI — Agrupamento de Centros de Saúde do Tâmega I - Baixo Tâmega
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XII — Agrupamento de Centros de Saúde do Tâmega II - Vale do Sousa Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XIII — Agrupamento de Centros de Saúde do Tâmega III - Vale do Sousa Sul
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XIV — Agrupamento de Centros de Saúde do Grande Porto I - Santo Tirso/Trofa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XV — Agrupamento de Centros de Saúde do Grande Porto II - Gondomar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XVI — Agrupamento de Centros de Saúde do Grande Porto III - Valongo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XVII — Agrupamento de Centros de Saúde do Grande Porto IV - Maia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XVIII — Agrupamento de Centros de Saúde do Grande Porto V - Póvoa do Varzim/Vila do Conde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XIX — Agrupamento de Centros de Saúde do Grande Porto VI - Porto Ocidental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XX — Agrupamento de Centros de Saúde do Grande Porto VII - Porto Oriental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XXI — Agrupamento de Centros de Saúde do Grande Porto VIII - Gaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XXII — Agrupamento de Centros de Saúde do Grande Porto IX - Espinho/Gaia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XXIII — Agrupamento de Centros de Saúde de Entre Douro e Vouga I - Feira/Arouca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
 
 ## ANEXO XXIV — Agrupamento de Centros de Saúde de Entre Douro e Vouga II - Aveiro Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf))](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/05400/0171201720.pdf)

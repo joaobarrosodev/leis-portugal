@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 233/2008, 1º Suplemento, Série I de 2008-12-02
   number: '233'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8616-(2) a 8616-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/23301/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1384-b/2008/12/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1384-b-2008-341805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffc1d77a0ba71a211187c9a13f05743402b5ebf812b4c79ca6903c5bb5610343
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81929213200bcafb79dce55d040441a72c8932aba772411154bcfcd346573936
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,62 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Publicidade
 - Campanha Vinícola
-- Vinho
+- Comércio
 - Comissão de Gestão
 - Criação de Serviços
 - Definição de Competências
+- Financiamento
 - Instituto da Vinha e do Vinho
 - Países Terceiros
 - Promoção de Produtos
+- Publicidade
 - Regime de Apoio
 - Regulamento
-- Comércio
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:499213:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489218:por
+  label: "Alterados os arts. 2.º, 6.º, 8.º, 9.º, 13.º, 14.º, 17.º, 18.º, 19.º, 22.º, 23.º, 24.º e 25.º , bem como as als.\
+    \ a) e b) do n.º 1 da coluna «Disposições Complementares» do anexo II e aditado um n.º 10 à mesma coluna, todos do Regulamento\
+    \ do Apoio à Promoção de Vinhos em Mercados de Países Terceiros, aprovado em anexo à presente portaria, republicado com\
+    \ a redacção actual, pela PORT.989/2009.07.09.2009.MADRP, DR.IS [173] de 07.09.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/989-2009-489218
+  date: '2009-09-07'
+- type: amended_by
+  target: pt:dre:616820:por
+  label: "Alterado o n.º 2 do art. 10.º, bem como o anexo III do presente diploma, republicado pela Port 989/2009, de 07-Set,\
+    \ pela PORT.47/2010.20.01.2010.MADRP, DR.IS [13] de 20.01.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-2010-616820
+  date: '2010-01-20'
+- type: amended_by
+  target: pt:dre:307668:por
+  label: "Alterado o n.º 1 do art. 18.º do Regulamento do Apoio à Promoção de Vinhos em Mercados de Países Terceiros, aprovado\
+    \ em anexo à presente portaria, na redacção da Port. 989/2009, de 07-Set, pela PORT.1055/2010.14.10.2010.MADRP, DR.IS\
+    \ [200] de 14.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1055-2010-307668
+  date: '2010-10-14'
+- type: amended_by
+  target: pt:dre:543069:por
+  label: "Dada nova redação ao art. 2º (alterado pela Port 989/2009 de 07-set), 5º, 9º (alterado pela Port 989/2007 de 07-set),\
+    \ 10º (alterado pela Port 47/2010 de 21-jan), 12º, 18º (alterado pela Port 1055/2011 de 14-out) e 20º; substituído o anexo\
+    \ III (alterado pela Port 47/2010 de 20-.jan); e revogados o nº 4 do art. 2º e a al. c) do nº 1 do art. 9º, todos do Regulamento\
+    \ do Apoio à Promoção de Vinhos em Mercados de países Terceiros, aprovado pelo presente diploma e republicado pela referida\
+    \ Port 989/2009 de 07-set, pela PORT.43/2012.10.02.2012.MAMAOT, DR.IS [30] de 10.02.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/43-2012-543069
+  date: '2012-02-10'
+- type: amended_by
+  target: pt:dre:191538:por
+  label: "Alargado, para 31.12.2012, o prazo para apresentação dos pedidos de adiantamento previsto no nº 1 do art. 18º do\
+    \ Regulamento do Apoio à Promoção de Vinhos em Mercados de Países Terceiros, na redação da Port 43/2012, de 10-fev, pela\
+    \ PORT.351/2012.30.10.2012.MAMAOT, DR.IS [210] de 30.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/351-2012-191538
+  date: '2012-10-30'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -107,16 +144,24 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: repealed_by
+  target: pt:dre:499213:por
+  label: "Revogada, a partir de 14.08.2013, a presente Portaria, que aprova o Regulamento do Apoio à Promoção de Vinhos em\
+    \ Mercados de Países Terceiros, na redação da Port 989/2009, de 07-set, da Port 47/2010, de 20-jan, da Port 1055/2010,\
+    \ de 14-out, da Port 43/2012, de 10-fev, e da Port 351/2012, de 30-out, pela PORT.257/2013.13.08.2013.MAGM, DR.IS [155]\
+    \ de 13.08.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/257-2013-499213
+  date: '2013-08-13'
 article_structure:
   article_count: 28
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:35Z'
   warnings: []
   errors: []
 ---
@@ -481,14 +526,14 @@ Mercados emergentes (grupo iii) - China (incluindo regiões administrativas espe
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 9.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/23301/0000200008.pdf))](https://files.diariodarepublica.pt/1s/2008/12/23301/0000200008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/23301/0000200008.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/23301/0000200008.pdf))](https://files.diariodarepublica.pt/1s/2008/12/23301/0000200008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/23301/0000200008.pdf)
 
 ## ANEXO IV — (a que se refere o n.º 1 do artigo 12.º)
 
 Determinação do mérito do projecto (MP)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/23301/0000200008.pdf))](https://files.diariodarepublica.pt/1s/2008/12/23301/0000200008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/23301/0000200008.pdf)

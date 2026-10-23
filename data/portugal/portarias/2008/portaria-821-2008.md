@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/821/2008/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/821-2008-455162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d21dd46932e3af556f28ad6a3143ac666ba70416f5cb85c6ecbeabe24a0ad5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c01680c0608abfc1832c7cbd1deaca12c29802f28c3bd617c8b50d43a2ffadd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Albufeiras
+- Apicultura
+- Apoio ao Investimento
+- CAÇA
+- Exploração Florestal
+- Feader
+- Financiamento
+- IFAP
+- Pesca
 - Proder
 - Programa de Desenvolvimento Rural
-- Financiamento
-- CAÇA
-- Albufeiras
-- Feader
-- Pesca
-- Apoio ao Investimento
 - Projeto de Investimento
-- IFAP
-- Exploração Florestal
-- Apicultura
-- Agricultor
 - Regulamento
 - Regulamento de Aplicação da Acção N.º 1.3.2-gestão Multifuncional
 - ZONA de CAÇA
@@ -88,6 +88,33 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144022:por
+  label: "Alteradas as als. b) e j) do art. 4º, a al. c) do art. 7º, a al. e) do art. 9º, a al. g) do art. 11º, o nº4 do art.\
+    \ 13º, o art. 14º, o nº 1 do art. 15º, os arts. 16º e 18º, o nº2 do art. 19º, os nºs. 1, 2, 3, 4 e 6 do art. 20º, a epígrafe\
+    \ e os nºs. 2, 3 e 5 do art. 21º, os nºs. 1 e 2 do art. 23.º e a al. a) do nº1 e o nº2 do art. 25º, aditadas as als. l)\
+    \ e m) do art. 4º e a subal. iii) da al. a) do art. 5 .º, revogado o nº8 do art. 20º e alterados os anexos I, II e III,\
+    \ todos do Regulamento aprovado pelo presente diploma, pela PORT.667-B/2009.18.06.2009.MADRP, DR.IS [116-Supl] de 18.06.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/667-b-2009-144022
+  date: '2009-06-18'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts 9º, 11º, 13º, 14º, 15º (todos na redacção da Port 667-B/2009, de 18-Jun) e 17º e os anexos I e\
+    \ III ( ambos na redacção da Port 667-B/2009, de 18-Jun) e revogados as als. b) e d) do art. 8º, a al. b) do nº1 do art.\
+    \ 9º, o nº8 do art. 20º e o art. 25º do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP,\
+    \ DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 9.º ( na redacção das portarias 667-B/2009, de 18-Jun e 814/2010, de 27-Ago ) , 21.º e 23.º (\
+    \ ambos na redacção da Port. 667-B/2009, de 18-Jun ) e 24.º e os anexos i (na redacção das portarias 667-B/2009, de 18-Jun\
+    \ e 814/2010, de 27-Ago ), ii ( na redacção da Port. 667-B/2009, de 18-Jun ) e iii (na redacção das portarias 667-B/2009,\
+    \ de 18-Jun e 814/2010, de 27-Ago ) todos do Regulamento de Aplicação da Acção n.º 1.3.2, «Gestão Multifuncional», aprovado\
+    \ pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
 - type: cites
   target: celex:31975L0268
   label: null
@@ -96,16 +123,30 @@ relationships:
   target: celex:32006R1975
   label: null
   source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: corrected_by
+  target: pt:dre:297176:por
+  label: "Rectificado o art. 11º da Port 814/2010, de 27-Ago [na redacção que conferiu ao nº2 do ponto ii do anexo I do presente\
+    \ diploma], pela DECL-RECT.32-A/2010.26.10.2010.PCM, DR.IS [208-Supl] de 26.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/32-a-2010-297176
+  date: '2010-10-26'
+- type: repealed_by
+  target: pt:dre:498497:por
+  label: "Revogado, com efeitos a 28.08.2010, o n.º 7 do ponto II - «despesas não elegíveis», do anexo I (alterado pelas Port\
+    \ 667-B/2009 de 18-jun, 814/2010 de 27-ago e 228/2011 de 09-jun) do Regulamento de aplicação da ação n.º 1.3.2, «Gestão\
+    \ multifuncional» pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013, nos termos do disposto no seu art.\
+    \ 20º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 article_structure:
   article_count: 28
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:40Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +187,7 @@ c) Anexo III, relativo aos limites máximos de apoio.
 
 A presente portaria entra em vigor no dia seguinte ao da sua aplicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.
 
 ## ANEXO
 
@@ -576,7 +617,7 @@ c) Regime normal: o IVA não é elegível.
 
 (a que se refere o n.º 2 do artigo 12.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0537705383.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0537705383.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0537705383.pdf)
 
 ## ANEXO III — Limites máximos de apoio
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/1999/03/04/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1999-151291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6845f936119161f68d346eac1fb542c216630bd70799a740c4fe07248c05718b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ea54c5a57530b68a87ea804f478d7ac654db18e67e8bcd34dd5834c2421820a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ação Social Escolar
+- Agricultura
 - Alienação de Participação Social
 - Alteração Orçamental
 - Aquisição de Bens e Serviços
 - Aquisição de Imóveis
-- Região Autónoma
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
-- Financiamento
 - Competência Própria
-- Finanças Locais
 - Constituição de Fundo
 - Cooperação Financeira
 - Cooperação Técnica
 - Dívida Pública
 - Empreitada de Obras Públicas
-- Política de Saúde
 - Execução do Orçamento
-- Fundos Autónomos
+- Finanças Locais
+- Financiamento
 - FSE
+- Fundos Autónomos
+- Madeira.região Autónoma
 - Orçamento Regional
 - Plano de Desenvolvimento
-- Programa Plurianual
-- Madeira.região Autónoma
-- Receita
-- Agricultura
+- Política de Saúde
 - Prédio Urbano
+- Programa Plurianual
+- Receita
+- Região Autónoma
 - Subsídio de Fixação
 - Utilidade Pública
 relationships:
@@ -100,6 +100,12 @@ relationships:
   target: pt:dre:476280:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476280:por
+  label: "Substituídos, nas partes respectivas, os mapas I a IV e IX, pelo DLR.28-B/99/M.1999.11.25.ALR-RAM, DR.IS-A [276]2ºSUPL\
+    \ de 26/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-b-1999-476280
+  date: '1999-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/71/1995/04/15/p/dre
   label: null
@@ -132,16 +138,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
+- type: cites
+  target: pt:dre:152936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:45Z'
   warnings: []
   errors: []
 ---
@@ -408,12 +450,12 @@ O presente diploma entra em vigor na data da sua publicação, integrando o orç
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 2 de Fevereiro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 12 de Fevereiro de 1999.**
+Assinado em 12 de Fevereiro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 [(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/1999/03/053a00/12081273.pdf)

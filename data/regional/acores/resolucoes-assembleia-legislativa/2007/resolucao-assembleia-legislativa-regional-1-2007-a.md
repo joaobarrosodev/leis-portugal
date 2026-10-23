@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/1/2007/01/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/1-2007-262328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7867542bb70bd3676aa6316184ba5f9666b56fd73ee4d6e7068ce4d58bbc92a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dbff192c019377fd699f6f6ffd01b46927abc8863aac552ba1d6b0737abcf33
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- EUA
+- Açores
 - Comissão de Análise
 - Cooperação Técnica
-- Portugal
+- EUA
 - Política de Defesa
+- Portugal
 - Relatório
-- Açores
 relationships: []
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:05Z'
   warnings: []
   errors: []
 ---
@@ -107,4 +107,4 @@ O relatório final da Comissão Eventual para Avaliação do Real Impacto na Reg
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 23 de Novembro de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1991/03/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1991-459432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89d4efa6f2bce9453cc7f5ef3d2cfd42a1b585c50d638b2a081dcf120aa0233f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8f569a8f417214d5b9569c6b7fca134383302ce98d36bb7456e3ecacab4ce44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
+- Limite de Velocidade
+- Madeira.região Autónoma
+- Segurança Rodoviária
 - Transporte Rodoviário
 - Veículo
-- Limite de Velocidade
-- Segurança Rodoviária
-- Madeira.região Autónoma
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550864:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:38Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +111,11 @@ Nestes termos:
 
 Ao abrigo da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Legislativa Regional da Madeira determina, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1 - Sem prejuízo das disposições constantes no Código da Estrada, a circulação na Região Autónoma da Madeira de todo o veículo cujo comprimento total exceda 12 m fica sujeita a autorização temporária, a conceder, em casos devidamente justificados, pelo Secretário Regional da Administração Pública.
+Artigo 1.º - 1 - Sem prejuízo das disposições constantes no Código da Estrada, a circulação na Região Autónoma da Madeira de todo o veículo cujo comprimento total exceda 12 m fica sujeita a autorização temporária, a conceder, em casos devidamente justificados, pelo Secretário Regional da Administração Pública.
 
 2 - O pedido de autorização deverá referir as razões justificativas da circulação solicitada, bem como as dimensões do veículo e o seu peso bruto.
 
-###### Art. 2.º Os veículos a que se refere o artigo 1.º deverão, obrigatoriamente:
+Art. 2.º Os veículos a que se refere o artigo 1.º deverão, obrigatoriamente:
 
 a) Circular com duas luzes rotativas, de cor amarela, colocadas no tejadilho, permanentemente ligadas;
 
@@ -111,20 +123,20 @@ b) Estar apetrechados com os dispostivos regulamentados e caracterizados no [Dec
 
 c) Ser submetidos a uma inspecção prévia para aprovação das características regulamentares.
 
-###### Art. 3.º É de 40 km/hora a velocidade máxima a que podem circular os veículos a que se refere o presente diploma, a qual será indicada por um dispositivo, a colocar na retaguarda do veículo, segundo as características regulamentares definidas na [Portaria n.º 1025/89](https://diariodarepublica.pt/dr/detalhe/portaria/1025-1989-550864), de 24 de Novembro.
+Art. 3.º É de 40 km/hora a velocidade máxima a que podem circular os veículos a que se refere o presente diploma, a qual será indicada por um dispositivo, a colocar na retaguarda do veículo, segundo as características regulamentares definidas na [Portaria n.º 1025/89](https://diariodarepublica.pt/dr/detalhe/portaria/1025-1989-550864), de 24 de Novembro.
 
-###### Art. 4.º A inobservância do disposto nos artigos anteriores será punida nos termos da lei geral.
+Art. 4.º A inobservância do disposto nos artigos anteriores será punida nos termos da lei geral.
 
-###### Art. 5.º É revogado o Decreto Legislativo Regional n.º 3/82/M, de 6 de Março.
+Art. 5.º É revogado o Decreto Legislativo Regional n.º 3/82/M, de 6 de Março.
 
-###### Art. 6.º O presente diploma entra em vigor 90 dias após a sua publicação.
+Art. 6.º O presente diploma entra em vigor 90 dias após a sua publicação.
 
 Aprovado em sessão plenária de 17 de Janeiro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 7 de Fevereiro de 1990.**
+Assinado em 7 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

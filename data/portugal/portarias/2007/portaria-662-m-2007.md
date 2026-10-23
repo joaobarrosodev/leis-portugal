@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 105/2007, 1º Suplemento, Série I de 2007-05-31
   number: '105'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3644-(17) a 3644-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10501/00170020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/662-m/2007/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/662-m-2007-340436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d62b70f0cf0f48540a3834742a39ada0bcaed661303b06090adca51df8fa793
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49a545182809554ded2bf33fb030eedcff366201b82f8c1d622636d7d9c3c470
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,13 @@ relationships:
   target: pt:dre:192394:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2150244:por
+  label: "Determinada a extinção de todas as unidades orgânicas do IHRU que foram criadas ao abrigo do presente diploma, cessando\
+    \ as comissões de serviço dos titulares dos cargos dirigentes intermédios constituídas ao abrigo do nº 5 do seu art. 1º,\
+    \ pela DELIB.81/2013.15.01.2013.IHRU-MAMAOT, DR.IIS [10] de 15.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/81-2013-2150244
+  date: '2013-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/223/2007/05/30/p/dre
   label: null
@@ -81,16 +88,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638731:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:192394:por
+  label: "Revogada pela PORT.324/2012.16.10.2012.MF, DR.IS [200] de 16.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/324-2012-192394
+  date: '2012-10-16'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:09Z'
   warnings: []
   errors: []
 ---

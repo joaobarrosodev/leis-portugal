@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/12800/0413204134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/573/2008/07/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/573-2008-456488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2273dce3b4d2c54b20d75c2d91aa5446d59e817f419f862a9ca219557c31e59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7650e8f5eafec811d6923c8e117c6d146f8e717cde6e01a022ec028a65bc57b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:477150:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306630:por
+  label: "Alterados os arts. 1º, 2º, 4º e 7º dos Estatutos do Instituto do Desporto de Portugal, I. P., aprovados pela Portaria\
+    \ n.º 662-L/2007, de 31-Mai, na redacção da presente portaria, pela PORT.1326/2010.30.12.2010.PCM, DR.IS [252] de 30.12.2010\0\
+    0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1326-2010-306630
+  date: '2010-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/169/2007/05/03/p/dre
   label: null
@@ -94,16 +101,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/662-l/2007/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/662-l/2007/05/31/p/dre
+- type: cites
+  target: pt:dre:340435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:477150:por
+  label: "Revogada a Port. 662-L/2007, de 31-Mai, na redação da presente portaria, pela PORT.11/2012.11.01.2012.PCM, DR.IS\
+    \ [8] de 11.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/11-2012-477150
+  date: '2012-01-11'
 article_structure:
-  article_count: 7
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:08Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +185,9 @@ e) Departamento de Gestão de Infra-Estruturas Desportivas.
 
 6 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - Os departamentos são dirigidos por directores e as divisões por chefes de divisão, respectivamente cargos de direcção intermédia de 1.º e 2.º grau.
 
@@ -162,7 +197,9 @@ e) Departamento de Gestão de Infra-Estruturas Desportivas.
 
 4 - Ao pessoal dirigente do IDP, I. P., é aplicável o regime definido na lei quadro dos institutos públicos e, subsidiariamente, o fixado no Estatuto do Pessoal Dirigente da Administração Pública.
 
-###### Artigo 4.º — Departamento de Recursos Humanos e Financeiros
+Artigo 4.º
+
+Departamento de Recursos Humanos e Financeiros
 
 1 - O Departamento de Recursos Humanos e Financeiros é responsável pela gestão do pessoal e dos recursos financeiros, assegura o apoio administrativo, bem como a gestão do património do IDP, I. P.
 
@@ -190,7 +227,9 @@ j) Gerir o património do IDP, I. P., e o que lhe estiver afecto e manter o resp
 
 l) Assegurar as demais funções que lhe sejam cometidas pelo presidente do IDP, I. P.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +243,9 @@ b) O Centro de Medicina de Coimbra, cuja área de actuação geográfica abrange
 
 4 - Na área de actuação geográfica que abrange as NUT II de Lisboa e Vale do Tejo, Alentejo e Algarve, o apoio médico-desportivo aos praticantes de desporto é assegurado directamente pelo Departamento de Medicina Desportiva.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +275,9 @@ l) Elaborar e manter actualizada a Carta Desportiva Nacional, assegurando que os
 
 m) [Redacção da anterior alínea l).]
 
-###### Artigo 7.º — Departamento de Gestão de Infra-Estruturas Desportivas
+Artigo 7.º
+
+Departamento de Gestão de Infra-Estruturas Desportivas
 
 1 - O Departamento de Gestão de Infra-Estruturas Desportivas assegura a gestão das infra-estruturas desportivas do Centro Desportivo Nacional do Jamor, dos Complexos Desportivos da Lapa e de Lamego, bem como do Pavilhão da Ajuda e acompanha a gestão das demais infra-estruturas desportivas.
 
@@ -268,4 +311,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 25 de Junho de 2008.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira.

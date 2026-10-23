@@ -46,36 +46,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1989-547179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0def8833d32ddee794dd9a0b2c5e9560da9784eaa7c240a077c7370f5ec1a03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85ab347b31f54e089255edb7e0bfbfea7245a9c67b992bdde8998bca6efb6450
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Estrada
+- Plano de Urbanização
+- Ponta Delgada
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:27Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Considerando, finalmente, a necessidade de salvaguardar a qualidade urbanística
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição e da parte final da alínea c) do artigo 56.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo 1.º Durante o prazo de dois anos, fica dependente de autorização da Secretaria Regional da Habitação e Obras Públicas, ouvida a Câmara Municipal de Ponta Delgada, a prática, na área abrangida pelo alargamento e correcção da Canada do Monte, na freguesia da Fajã de Baixo, ou com a mesma confinante, conforme vem definida na planta anexa a este diploma, dos actos ou actividades seguintes:
+Artigo 1.º Durante o prazo de dois anos, fica dependente de autorização da Secretaria Regional da Habitação e Obras Públicas, ouvida a Câmara Municipal de Ponta Delgada, a prática, na área abrangida pelo alargamento e correcção da Canada do Monte, na freguesia da Fajã de Baixo, ou com a mesma confinante, conforme vem definida na planta anexa a este diploma, dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos habitacionais;
 
@@ -102,18 +106,18 @@ d) Passagem de linhas eléctricas e telefónicas;
 
 e) Alterações, por meio de aterros ou escavações, à configuração geral do terreno.
 
-###### Art. 2.º As autorizações a que se refere o artigo anterior não dispensam quaisquer outros condicionalismos exigidos por lei nem prejudicam a competência legalmente atribuída a outras entidades.
+Art. 2.º As autorizações a que se refere o artigo anterior não dispensam quaisquer outros condicionalismos exigidos por lei nem prejudicam a competência legalmente atribuída a outras entidades.
 
-###### Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 17 de Julho de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Agosto de 1989.**
+Assinado em Angra do Heroísmo em 11 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20300/37953796.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20300/37953796.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/09/20300/37953796.pdf)

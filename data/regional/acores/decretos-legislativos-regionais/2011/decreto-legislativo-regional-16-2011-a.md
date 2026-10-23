@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2011/05/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2011-673447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdc6a05a8b413ea7f39bd97c3e197f8d49f296405710642ae19d67ec50acd748
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a799584107e2fa3a788ab541ac3efdfd9656ef3e90fae0b5d7018f225f1707f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Águas Balneares
-- Turismo
 - Conselho Regional do Ambiente e do Desenvolvimento Sustentavel
 - Controlo de Qualidade
-- Mar Territorial
-- Saúde Pública
 - Estatuto
 - Licenciamento
+- Mar Territorial
 - Pessoal de Assistência aos Banhistas nas Praias
+- Pessoal de Vigilância
 - Poluição da água
 - Poluição das Costas
 - Proteção do Consumidor
 - Regime Jurídico
-- Pessoal de Vigilância
+- Saúde Pública
 - Segurança Marítima
-- Açores
+- Turismo
 - Vigilância nas Praias
 - ZONA Balnear
 relationships:
@@ -101,13 +101,13 @@ relationships:
 article_structure:
   article_count: 68
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:17Z'
   warnings: []
   errors: []
 ---
@@ -1326,11 +1326,11 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação e produ
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de Abril de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 16 de Maio de 2011.**
+Assinado em Angra do Heroísmo em 16 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1338,7 +1338,7 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Classificação e tipologia das zonas balneares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf)
 
 ## ANEXO II — (a que se refere o n.º 5 do artigo 25.º)
 
@@ -1346,11 +1346,11 @@ Normas de qualidade
 
 Águas interiores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf)
 
 Águas costeiras e de transição
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf)
 
 ## ANEXO III — (a que se refere o n.º 6 do artigo 25.º)
 
@@ -1498,7 +1498,7 @@ f) A localização do ponto de amostragem.
 
 4 - Na sequência da revisão, se necessário, o perfil será actualizado. A frequência e o âmbito das revisões devem ser determinados com base na natureza e na gravidade da poluição. No entanto, devem respeitar, pelo menos, as disposições especificadas no quadro seguinte e realizar-se, no mínimo, com a frequência nele indicada:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf))](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/10400/0296502989.pdf)
 
 5 - Em caso de obras ou de alterações significativas de infra-estruturas nas águas balneares ou na sua vizinhança, o perfil das águas balneares deverá ser actualizado antes do início da época balnear seguinte.
 

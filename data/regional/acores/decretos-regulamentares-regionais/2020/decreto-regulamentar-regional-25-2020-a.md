@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22900/0001800021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/2020/11/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2020-149220158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a72457cc5973ef93eafbcc1f1e1bb9c7b6b76666091382defd4442cbba42a973
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94ef7bedb482c16420dbe3b461f7e113c57b1d789a6de3e1db964e477c214fed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aeroporto
 - Análises Clínicas
 - Circulação de Pessoas
 - Companhia Aérea
-- Transporte Aéreo
-- Regulamentação de Atos Legislativos
 - Controlo Sanitário
-- Saúde Pública
-- Estado de Emergência
-- Meios Complementares de Diagnóstico
 - Doença Infecciosa
 - Epidemia
-- Açores
+- Estado de Emergência
+- Meios Complementares de Diagnóstico
+- Regulamentação de Atos Legislativos
+- Saúde Pública
+- Transporte Aéreo
 - Transporte de Passageiros
 - Vigilância Epidemiológica
 relationships:
@@ -87,6 +87,13 @@ relationships:
   target: pt:dre:149861979:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:149861979:por
+  label: Alterada, com efeitos a 25.11.2020, a entrada em vigor do art. 2.º-A do DRR 24/2020/A de 19-nov aditado e republicado
+    pelo presente diploma, a qual passa a efetuar-se no prazo de 15 dias a partir da entrada em vigor deste (10.12.2020) pelo(a)
+    Decreto Regulamentar Regional n.º 26/2020/A - Diário da República n.º 232/2020, Série I de 2020-11-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2020-149861979
+  date: '2020-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/8/2020/11/08/p/dre
   label: null
@@ -99,16 +106,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/24/2020/11/19/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/24/2020/11/19/a/dre
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147968348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148963303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:34Z'
   warnings: []
   errors: []
 ---
@@ -143,11 +166,15 @@ a) ...
 
 b) ...
 
-###### Artigo 4.º — Controlo
+Artigo 4.º
+
+Controlo
 
 As companhias que operem ligações para a Região Autónoma dos Açores a partir das zonas referidas no n.º 1 do artigo 2.º e no artigo 2.º-A estão obrigadas a exigir aos passageiros, em momento prévio ao embarque, a definir pelas companhias, a apresentação do documento comprovativo da realização do teste de diagnóstico de SARS-CoV-2, com resultado NEGATIVO, nos termos previstos no presente diploma.
 
-###### Artigo 6.º — Vigência
+Artigo 6.º
+
+Vigência
 
 1 - O presente diploma vigora enquanto vigorar a declaração do estado de emergência nos termos do decreto do Presidente da República, sem prejuízo de eventuais prorrogações.
 
@@ -175,11 +202,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de novembro de 2020.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 20 de novembro de 2020.**
+Assinado em Angra do Heroísmo em 20 de novembro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -228,3 +255,5 @@ O incumprimento do disposto no presente diploma, quer pelas companhias, quer pel
 ###### Artigo 7.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+113755001

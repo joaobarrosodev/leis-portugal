@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10400/35783585.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/646/2007/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/646-2007-638751
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffa30f5e5788c728a708d1aa455961fd10141957f69e69af0f268f32462794cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1bedc636dcd29123307c730408f4cec346d24ce57a4ee7a013c42fc00f1ab0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Central do Sistema de Saúde
 - Estatuto
 - Instituto Público
-- Administração Central do Sistema de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:551995:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601363:por
+  label: "Dada nova redacção ao art. 1º e revogado o art. 19º ambos dos Estatutos da Administração Central do Sistema de Saúde,\
+    \ I.P. pela PORT.155/2009.10.02.2009.MFAP, DR.IS [28] de 10.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/155-2009-601363
+  date: '2009-02-10'
+- type: amended_by
+  target: pt:dre:490406:por
+  label: "Aditado o art. 2º-A e revogado o nº6 do art. 1º dos Estatutos da Administração Central do Sistema de Saúde, I. P.,\
+    \ pela PORT.1087/2009.22.09.2009.MFAP, DR.IS [184] de 22.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1087-2009-490406
+  date: '2009-09-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/218/2007/05/29/p/dre
   label: null
@@ -85,16 +97,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638532:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:551995:por
+  label: "Revogada, a partir de 29.05.2012, pela PORT.155/2012.22.05.2012.MF, DR.IS [99] de 22.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/155-2012-551995
+  date: '2012-05-22'
 article_structure:
   article_count: 23
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:58Z'
   warnings: []
   errors: []
 ---
@@ -121,7 +150,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 24 de Maio de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Saúde, António Fernando Correia de Campos.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Saúde, António Fernando Correia de Campos.
 
 ## ANEXO — ESTATUTOS DA ADMINISTRAÇÃO CENTRAL DO SISTEMA DE SAÚDE, I. P.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2023/01/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2023-206037172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b1b2da2f28c3f074dba1df4161476d30f0f77f2e60972525f1b2b96a27d855a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a32a01448f70ed6fb73851e151cbe75d47f618279adc4a4976c8400c2a3411c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,84 +65,84 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
-- Luta contra a Pobreza
-- Empreendedorismo
-- Proteção Civil
-- Modernização Administrativa
-- Eleição
-- Turismo
-- Formação Profissional
-- Investigação Científica e Tecnológica
-- Transporte Marítimo
-- Desenvolvimento Rural
-- Ordenamento do Território
-- Mar
-- Criança
-- Transporte Aéreo
-- Terceira Idade
-- Comunicação Social
-- Comunicações Eletrónicas
-- Transporte Rodoviário
-- Política de Cooperação
-- Recursos Hídricos
-- Política Industrial
-- Desenvolvimento Social
-- Renovação Urbana
-- Artesanato
-- Competitividade Empresarial
-- Política Energética
-- União Europeia
-- Estabelecimento Hoteleiro
-- Política de Saúde
-- Política Externa
-- Política de Defesa
-- Pesca
-- Jovem
-- Competitividade da Economia
-- Instituição de Investigação
-- Investimento Público
-- Jornal Oficial
-- Política de Transportes
-- Modernização Tecnológica
-- Obras Públicas
-- Aquicultura
-- Planeamento Regional
-- Desenvolvimento Económico
-- Emigração
-- Política Cultural
-- Política de Habitação
-- Política de Investigação e Desenvolvimento
-- Política de Preços
-- Política do Ambiente
-- Política Económica
-- Política de Educação
-- Política Orçamental
-- Política Social
-- Internet
-- Energia
-- Cultura
-- Qualificação Profissional
-- Emprego
-- Programa Orçamental
-- Inserção Social
-- Política de Emprego
-- Proteção do Consumidor
-- Política Agrícola
-- Comunicações
+- Açores
 - Administração Local
-- Política de Juventude
-- Estabelecimento Hospitalar
+- Administração Regional
 - Agricultura
 - Alteração Climática
-- Serviço Regional de Saúde
-- Administração Regional
-- Açores
-- Comércio
-- Desporto
+- Aquicultura
+- Artesanato
 - Autarquia Local
-- Unidade de Saúde Pública
+- Comércio
+- Competitividade da Economia
+- Competitividade Empresarial
+- Comunicação Social
+- Comunicações
+- Comunicações Eletrónicas
+- Criança
+- Cultura
+- Desenvolvimento Económico
+- Desenvolvimento Rural
+- Desenvolvimento Social
+- Desporto
+- Eleição
+- Emigração
+- Empreendedorismo
+- Emprego
+- Energia
+- Estabelecimento Hospitalar
+- Estabelecimento Hoteleiro
+- Formação Profissional
+- Imigração
+- Inserção Social
+- Instituição de Investigação
+- Internet
+- Investigação Científica e Tecnológica
+- Investimento Público
+- Jornal Oficial
+- Jovem
+- Luta contra a Pobreza
+- Mar
+- Modernização Administrativa
+- Modernização Tecnológica
+- Obras Públicas
+- Ordenamento do Território
+- Pesca
+- Planeamento Regional
 - Plano de Recuperação e Resiliência
+- Política Agrícola
+- Política Cultural
+- Política de Cooperação
+- Política de Defesa
+- Política de Educação
+- Política de Emprego
+- Política de Habitação
+- Política de Investigação e Desenvolvimento
+- Política de Juventude
+- Política de Preços
+- Política de Saúde
+- Política de Transportes
+- Política do Ambiente
+- Política Económica
+- Política Energética
+- Política Externa
+- Política Industrial
+- Política Orçamental
+- Política Social
+- Programa Orçamental
+- Proteção Civil
+- Proteção do Consumidor
+- Qualificação Profissional
+- Recursos Hídricos
+- Renovação Urbana
+- Serviço Regional de Saúde
+- Terceira Idade
+- Transporte Aéreo
+- Transporte Marítimo
+- Transporte Rodoviário
+- Turismo
+- União Europeia
+- Unidade de Saúde Pública
 relationships:
 - type: cites
   target: celex:31992R2080
@@ -196,16 +196,120 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2022/1342/oj
   label: null
   source: http://data.europa.eu/eli/reco/2022/1342/oj
+- type: cites
+  target: pt:dre:122393535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136600051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166512677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167281005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170649065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184242535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70835506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70867667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75712975:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:11Z'
   warnings: []
   errors: []
 ---
@@ -226,11 +330,11 @@ A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de novembro de 2022.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 2 de janeiro de 2023.**
+Assinado em Angra do Heroísmo em 2 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -400,7 +504,7 @@ QUADRO 1
 
 Açores no contexto interno: Os grandes números no domínio da demografia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Recenseamento da população e habitação - Censos 2021 (dados provisórios)
 
@@ -410,7 +514,7 @@ QUADRO 2
 
 Estrutura etária da população residente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Recenseamento da população e habitação - Censos 2021 (dados provisórios)
 
@@ -428,7 +532,7 @@ GRÁFICO 1
 
 Decomposição do crescimento populacional - Taxa de crescimento migratório e natural (%) | 2011-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Estimativas da população, nados-vivos, óbitos
 
@@ -444,7 +548,7 @@ QUADRO 3
 
 Açores no contexto das regiões nacionais: Os grandes números no domínio da economia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Sistema de contas integradas das empresas
 
@@ -454,7 +558,7 @@ QUADRO 4
 
 Grandes números da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Estimativas anuais da população residente e sistema de contas integradas das empresas
 
@@ -464,7 +568,7 @@ GRÁFICO 2
 
 Decomposição em fatores do PIB per capita a preços correntes das regiões portuguesas (NUTS II) | 2000, 2010 e 2019
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Contas económicas regionais
 
@@ -480,7 +584,7 @@ GRÁFICO 3
 
 Especialização produtiva da Região Autónoma dos Açores com base no VAB | 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Nota. - O gráfico apresenta indicadores de especialização. Se o indicador tem um valor do QL superior a 100, o território em análise é especializado no setor (o peso do emprego no setor naquele território é mais elevado do que o peso do emprego daquele setor no total do emprego do País).
 
@@ -494,7 +598,7 @@ GRÁFICO 4
 
 Taxa de nascimento de empresas (NUTS II) | 2010-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Nota. - A taxa de nascimento de empresas corresponde ao quociente entre o número de novas empresas num determinado período e o número de empresas existentes no período anterior.
 
@@ -504,7 +608,7 @@ GRÁFICO 5
 
 Taxa de sobrevivência de empresas nascidas dois anos antes (NUTS II) | 2010-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Demografia das empresas
 
@@ -516,7 +620,7 @@ GRÁFICO 6
 
 Intensidade exportadora (NUTS II) | 2011, 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Nota. - A intensidade exportadora corresponde ao quociente entre o valor da exportação de bens e o PIB.
 
@@ -530,7 +634,7 @@ GRÁFICO 7
 
 Importações de bens (2011=100) (NUTS II) | 2011-2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Estatísticas do comércio internacional de bens
 
@@ -538,7 +642,7 @@ GRÁFICO 8
 
 Exportações de bens (2011=100) (NUTS II) | 2011-2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Estatísticas do comércio internacional de bens
 
@@ -550,7 +654,7 @@ GRÁFICO 9
 
 Proporção da população ativa com ensino superior (NUTS II) | 2011, 2021
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Inquérito ao emprego
 
@@ -564,7 +668,7 @@ GRÁFICO 10
 
 Pessoal ao serviço dos estabelecimentos por setor de atividade na Região Autónoma dos Açores | 2011, 2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Sistema de contas integradas das empresas
 
@@ -596,7 +700,7 @@ GRÁFICO 11
 
 Crescimento do PIB a preços constantes na Região Autónoma dos Açores e no conjunto do País | 2019-2023
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: Estimativas EY-Parthenon com base nas previsões para o Orçamento do Estado para 2023 outubro de 2022) e na evolução histórica através de dados do INE, conforme considerações metodológicas
 
@@ -604,7 +708,7 @@ GRÁFICO 12
 
 Indicador da atividade económica e do consumo privado dos Açores | janeiro de 2019-junho de 2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: SREA - Serviço Regional de Estatística dos Açores
 
@@ -620,7 +724,7 @@ GRÁFICO 13
 
 Previsão da taxa de inflação (média dos últimos 12 meses) dos Açores e de Portugal até 2023 medida através do IPC | janeiro de 2019-dezembro de 2023
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: Estimativas EY-Parthenon com base nas previsões para o Orçamento do Estado para 2023 outubro de 2022) e na evolução histórica através de dados do INE, conforme considerações metodológicas
 
@@ -634,7 +738,7 @@ GRÁFICO 14
 
 Previsão da evolução do mercado de trabalho nos Açores | 2021-2023
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: Estimativas EY-Parthenon com base nas previsões para o Orçamento do Estado para 2023 outubro de 2022) e na evolução histórica através de dados do INE, conforme considerações metodológicas
 
@@ -652,7 +756,7 @@ QUADRO 5
 
 Projeções da população residente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, Projeções da população residente e recenseamento da população e habitação - Censos 2021 (dados provisórios)
 
@@ -676,7 +780,7 @@ QUADRO 6
 
 Principais indicadores para a economia portuguesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: Ministério das Finanças, Orçamento do Estado para 2023 (outubro de 2022); Banco Central Europeu, ECB staff macroeconomic projections for the euro area, setembro de 2022; Comissão Europeia - Eurostat
 
@@ -688,7 +792,7 @@ GRÁFICO 15
 
 Peso do turismo no VAB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: INE, SREA
 
@@ -722,7 +826,7 @@ QUADRO 7
 
 Principais indicadores de variação para a economia mundial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: FMI, World Economic Outlook Update - Gloomy and More Uncertain, julho de 2022
 
@@ -744,7 +848,7 @@ Para além destes, e fora do âmbito do Portugal 2030, a Região contará ainda,
 
 Crucial para a Região, em 2023 e nos anos seguintes, é também o PRR (Plano de Recuperação e Resiliência):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Com uma execução que deverá ter lugar até 2026, o Plano de Recuperação e Resiliência (PRR) irá implementar, no País, um conjunto de reformas e de investimentos que visam reforçar o objetivo de convergência com a Europa ao longo da próxima década.
 
@@ -762,7 +866,7 @@ QUADRO 8
 
 Investimentos do PRR nos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 O PRR-Açores teve o seu modelo de governação definido através do Decreto Regulamentar Regional (DRR) n.º [23/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2021-170649065), de 3 de setembro, sendo um modelo que assenta num conjunto organizado de órgãos, com funções de coordenação política (Conselho do Governo Regional), de acompanhamento (Conselho Económico e Social dos Açores), de coordenação técnica e de monitorização e de auditoria e controlo.
 
@@ -776,7 +880,7 @@ Os marcos e metas do grupo C, definidos pela Comissão Europeia, constam do anex
 
 Sendo significativos os recursos financeiros comunitários à disposição da Região nos próximos anos, constituindo um desafio à sua boa utilização, ao serviço das populações dos Açores, importará, em 2023, garantir a melhor transição possível entre os dois quadros financeiros e assegurar a entrada em plena execução dos novos programas, muito em particular do Programa Açores 2030, sucessor do Açores 2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 O PO Açores 2020, comparticipado pelos fundos estruturais comunitários FEDER e FSE, para o período de programação de 2014-2020, com execução na Região Autónoma dos Açores, foi aprovado pela Comissão Europeia através da Decisão C (2014) 10176, de 18 de dezembro.
 
@@ -802,13 +906,13 @@ QUADRO 9
 
 PO Açores 2020, Ponto de situação a 30 de junho de 2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 De muita relevância para a Região será também o novo Programa de Desenvolvimento Rural, agora enquadrado no âmbito do PEPAC - Plano Estratégico da Política Agrícola Comum em Portugal, aprovado a 31 de agosto de 2022, que materializa os instrumentos de apoio da PAC financiados pela UE através do FEAGA (pagamentos diretos e intervenções setoriais) e pelo FEADER (intervenções do desenvolvimento rural).
 
 O novo Programa sucederá o ProRural +, vigente no período de programação 2014-2020:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 O Programa de Desenvolvimento Rural para a Região Autónoma dos Açores 2014-2020 (ProRural+) foi um instrumento financeiro que visou contribuir para o aumento da autossuficiência do setor agroalimentar e para a estruturação de canais comerciais que permitam a exportação de produtos especializados para o mercado externo.
 
@@ -818,11 +922,11 @@ QUADRO 10
 
 ProRural+, Ponto de situação a 30 de junho de 2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Imprescindível para um setor estruturante da economia regional foram os apoios do Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), renomeado, no período de programação 2021-2027, Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura (FEAMPA).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Em 2014-2020, os apoios do Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP) foram operacionalizados na Região Autónoma dos Açores através de um programa operacional de âmbito nacional designado por Mar 2020.
 
@@ -830,11 +934,11 @@ QUADRO 11
 
 Projetos dos Açores no Mar 2020, Ponto de situação a 30 de junho de 2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 No âmbito dos programas de cooperação, a Região irá, no período de programação 2021-2027, ser beneficiária do programa que sucederá o Programa de Cooperação INTERREG V A Espanha-Portugal MAC, no período de programação 2014-2020.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Aprovado, pela Comissão Europeia, a 3 de junho de 2015, com um orçamento de 130 milhões de euros (85 % financiado pelo Fundo Europeu de Desenvolvimento Regional - FEDER), dos quais 11,6 milhões de euros estavam destinados a beneficiários localizados na Região Autónoma dos Açores, o programa MAC viu aprovado, a 17 de outubro de 2017, um aumento do financiamento do Programa, que passou a contar com um orçamento total de cerca de 149 milhões de euros (126,5 milhões de euros FEDER).
 
@@ -846,11 +950,11 @@ QUADRO 12
 
 Projetos dos Açores no MAC 2014-2020, Ponto de situação a 30 de junho de 2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Para além dos Programas Açores 2020, ProRural+, Mar 2020 e MAC 2014-2020, onde a intervenção dos agentes regionais públicos e privados regionais é determinante, verificou-se também, no período de programação 2014-2020, o financiamento comunitário de projetos regionais em vários programas de âmbito nacional, nomeadamente o Compete 2020, o POSEUR e o POISE.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 A Região Autónoma dos Açores beneficiou, no período de programação 2014-2020, de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático Competitividade e Internacionalização (COMPETE 2020), especificamente no Eixo IV - Promoção de transportes sustentáveis e eliminação dos estrangulamentos nas principais redes de infraestruturas, exclusivamente, para as intervenções no sistema portuário da Região Autónoma dos Açores integradas nas prioridades de investimento 7.1 - Apoio ao espaço único europeu de transportes multimodais, mediante o investimento na RTE-T, e 7.3 - Desenvolvimento e melhoria de sistemas de transportes ecológicos (incluindo de baixo ruído) e de baixo teor de carbono, incluindo vias navegáveis e transportes marítimos interiores, portos, ligações multimodais e infraestruturas aeroportuárias, a fim de promover a mobilidade regional e local sustentável.
 
@@ -858,7 +962,7 @@ QUADRO 13
 
 Projetos dos Açores no COMPETE 2020, Ponto de situação a 30 de junho de 2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Para o período de programação 2014-2020, a Região Autónoma dos Açores beneficiou de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático Sustentabilidade e Eficiência no Uso de Recursos (POSEUR), no Eixo Prioritário 3 - Proteger o ambiente e promover a utilização eficiente dos recursos, objetivo específico 1. Valorização dos resíduos, reduzindo a produção e deposição em aterro, aumentando a recolha seletiva e a reciclagem.
 
@@ -866,7 +970,7 @@ QUADRO 14
 
 Projetos dos Açores no POSEUR, Ponto de situação a 30 de junho de 2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Para o período de programação 2014-2020, a Região Autónoma dos Açores foi ainda beneficiária de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático de Inclusão Social e Emprego (POISE), especificamente no Eixo II - Iniciativa de Emprego Jovem.
 
@@ -874,7 +978,7 @@ QUADRO 15
 
 Projetos dos Açores no POISE, Ponto de situação a 30 de junho de 2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Referência ainda, pelo seu impacto no Plano de 2023, ao REACT-EU (Recovery Assistance for Cohesion and the Territories of Europe).
 
@@ -890,7 +994,7 @@ GRÁFICO 16
 
 Fundo Comunitário Aprovado por Programa a 30 de junho de 2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 No 2.º semestre de 2022, a taxa de compromisso dos fundos europeus estruturais e de investimento por parte dos agentes regionais atingiu, em termos médios, os 89,6 %. Dito de outro modo, os cerca de 1,89 mil milhões de euros de financiamento comunitário contratualizado com beneficiários regionais significam aquela percentagem de absorção das dotações disponíveis ao longo de todo o período.
 
@@ -902,7 +1006,7 @@ GRÁFICO 17
 
 Fundo Comunitário Pago, por programa, a 30 de junho de 2022
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 III - Orientações de médio prazo e políticas setoriais do Plano de 2023
 
@@ -1854,7 +1958,7 @@ Os valores de despesa em investimento público previstos para 2023 ascendem a 75
 
 Estes valores são superiores aos valores efetivamente executados em anos anteriores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Fonte: Relatórios de Execução dos Planos Anuais Regionais
 
@@ -1868,19 +1972,19 @@ Para «Afirmar os Açores no Mundo» está consagrada uma dotação de 143,5 mil
 
 Repartição do Investimento Público por Objetivos de Desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Investimento público 2023 - Desagregação por objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Investimento público 2023 - Desagregação por entidade executora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Investimento público 2023 - Desagregação por entidade proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Investimento público 2023 - Quadro global de financiamento da Administração Pública
 
@@ -1892,7 +1996,7 @@ As transferências do Orçamento do Estado, da União Europeia e de outros fundo
 
 O Plano Regional Anual para 2023 prevê uma dotação de 643,9 milhões de euros de investimento direto do Governo Regional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Nota. - Exclui operações de refinanciamento.
 
@@ -1906,7 +2010,7 @@ Programa 1 - Coesão, transição digital e representação
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Programação material
 
@@ -2130,7 +2234,7 @@ Programa 2 - Desenvolvimento social e inovação
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Programação material
 
@@ -2556,7 +2660,7 @@ Programa 3 - Finanças, planeamento e empreendedorismo
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Programação material
 
@@ -2730,7 +2834,7 @@ Programa 4 - Educação e dinâmica cultural
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Programação material
 
@@ -2932,7 +3036,7 @@ Programa 5 - Promoção da saúde e proteção civil
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Programação material
 
@@ -3250,7 +3354,7 @@ Programa 6 - Economia rural
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Programação material
 
@@ -3512,7 +3616,7 @@ Programa 7 - Economia do mar
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Programação material
 
@@ -3694,7 +3798,7 @@ Programa 8 - Ação climática e organização territorial
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Programação material
 
@@ -3966,7 +4070,7 @@ Programa 9 - Desenvolvimento turístico, mobilidade e infraestruturas
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Programação material
 
@@ -4752,7 +4856,7 @@ Programa 10 - Juventude, qualificação e estabilidade laboral
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Programação material
 
@@ -4882,16 +4986,18 @@ Investimento Público 2023
 
 Desagregação por objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Desagregação por entidade executora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Desagregação por entidade proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
 
 Desagregação Espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf))](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/01000/0001200194.pdf)
+
+116025764

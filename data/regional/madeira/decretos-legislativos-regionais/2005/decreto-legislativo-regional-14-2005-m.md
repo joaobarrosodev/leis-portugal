@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2005/08/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9c9c1ecff733169a964364cda6b6a98ef12f00f54af8fdc8f8cbe4d1703fc9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ad74b6239311a8b82d0fd63ee2e43255f8ebe62ae256688d9b8f903ccd9f5f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,55 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Legislativa
+- Madeira.região Autónoma
 - Nomeação
 - Orgânica
-- Madeira.região Autónoma
 - Secretário Geral
 relationships:
 - type: amended_by
   target: pt:dre:66325239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:537448:por
+  label: "Tornado extensivo aos deputados independentes que não integrem nenhum grupo parlamentar o disposto na al. a) do\
+    \ nº 1 do art. 46º do DLR 24/89/M, de 07-Set, na redacção do presente diploma, pela RES.12/2006/M.06.06.2006.AL-RAM, DR.IS\
+    \ [134] de 13.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/12-2006-537448
+  date: '2006-06-06'
+- type: amended_by
+  target: pt:dre:175275:por
+  label: "Alterados os arts. 9º, 26º-A, 26-B, 26º-C, 43º e as subsecções IV e V da secção III do capítulo V do DLR 24/98/M,\
+    \ de 07-set, na redação do presente diploma, pelo DLR.16/2012/M.13.08.2012.AL-RAM, DR.IS [156] de 13.08.2012, \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2012-175275
+  date: '2012-08-13'
+- type: amended_by
+  target: pt:dre:56305786:por
+  label: Alterado o n.º 3 e eliminado o n.º 4 do art. 26.º-C do DLR 24/89/M de 07-set, aditado pelo presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 10/2014/M - Diário da República n.º 159/2014, Série I de 2014-08-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2014-56305786
+  date: '2014-08-20'
+- type: amended_by
+  target: pt:dre:66325239:por
+  label: Alterados os arts. 46.º e 47.º do DLR 24/89/M de 07-set, na redação do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 2/2015/M - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2015-66325239
+  date: '2015-01-26'
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:10-A/2000/M
+  label: "Altera o n.º 1 e 2 do artigo 20.º, os n.ºs 1, 3 e 4 do artigo 43.º (na redacção do Decreto Legislativo Regional\
+    \ n.º 2/93/M, de 20 de Fevereiro), a alínea h) do artigo 21.º e a alínea e) do artigo 22.º-B, os artigos 23.º, 36.º-B\
+    \ e 54.º (na redacção do Decreto Legislativo Regional n.º 10-A/2000/M, de 27 de Abril), o artigo 36.º (na redacção do\
+    \ Decretos Legislativos Regionais n.ºs 2/93/M, de 20 de Fevereiro, e 10-A/2000/M, de 27 de Abril), elimina o artigo 36.º-C,\
+    \ renumera e altera a redacção dos artigos 36.º-D, 36.º-E, 36.º-F e 36.º-G, passando a 36.º-C, 36.º-D, 36.º-E e 36.º-F,\
+    \ o artigo 36.º-J e 36.º-K e o respectivo título (todos na redacção do Decreto Legislativo Regional n.º 10-A/2000/M, de\
+    \ 27 de Abril), o artigo 47.º (na redacção dos Decretos Legislativos Regionais n.ºs 2/93/M, de 20 de Fevereiro, 11/94/M,\
+    \ de 28 de Abril, e 10-A/2000/M, de 27 de Abril, remunera a Subsecção IV que passa a VI e adita as Subsecções IV e V e\
+    \ os artigos 26.º-A, 26.º-B, 26.º-C, 36.º-G e o n.º 5 ao artigo 43.º do Decreto Legislativo Regional n.º 24/89/M, de 7\
+    \ de Setembro, DR.IS [206], e determina que no diploma com todas as alterações, onde se lê «Assembleia Legislativa Regional»\
+    \ passa a vigorar «Assembleia Legislativa» e republica o novo texto \0 \0"
+  source: null
+  date: '1989-09-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -115,16 +155,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/244/199
   label: null
   source: http://data.dre.pt/eli/port/244/199
+- type: cites
+  target: pt:dre:157622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656824:por
+  label: null
+  source: null
 article_structure:
-  article_count: 120
+  article_count: 118
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:31Z'
   warnings: []
   errors: []
 ---
@@ -297,7 +381,9 @@ Arquivo Histórico-Parlamentar»
 
 Arquivo Histórico-Parlamentar
 
-###### Artigo 26.º-A — Atribuições
+Artigo 26.º-A
+
+Atribuições
 
 O Arquivo Histórico-Parlamentar é a unidade orgânica encarregada de assegurar a gestão do arquivo histórico-parlamentar e promover a conservação e prevenção do seu património.»
 
@@ -353,7 +439,9 @@ Gabinete de Apoio Audiovisual»
 
 Gabinete de Apoio Audiovisual
 
-###### Artigo 26.º-C — Atribuições
+Artigo 26.º-C
+
+Atribuições
 
 O Gabinete de Apoio Audiovisual é a unidade orgânica encarregada de apoiar em meios áudio-visuais as actividades parlamentares.»
 
@@ -653,13 +741,13 @@ Requisição de fundos
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de Maio de 2005.
 
-**O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 18 de Julho de 2005.**
+Assinado em 18 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Estrutura orgânica da Assembleia Legislativa da Região Autónoma da Madeira
 
@@ -735,7 +823,7 @@ c) O Conselho de Administração.
 
 ###### Artigo 8.º — Delegação de competências
 
-**O Presidente da Assembleia Legislativa pode delegar nos Vice-Presidentes os poderes que lhe são conferidos no presente decreto legislativo regional.**
+O Presidente da Assembleia Legislativa pode delegar nos Vice-Presidentes os poderes que lhe são conferidos no presente decreto legislativo regional.
 
 ###### Artigo 9.º — Gabinete do Presidente
 
@@ -875,7 +963,7 @@ A organização interna dos serviços e as suas condições de funcionamento sã
 
 ###### Artigo 19.º — Atribuições e competências
 
-**O secretário-geral da Assembleia Legislativa superintende em todos os serviços da Assembleia e coordena-os, submetendo a despacho do Presidente os assuntos cuja decisão não esteja no âmbito da sua competência.**
+O secretário-geral da Assembleia Legislativa superintende em todos os serviços da Assembleia e coordena-os, submetendo a despacho do Presidente os assuntos cuja decisão não esteja no âmbito da sua competência.
 
 ###### Artigo 20.º — Estatuto
 
@@ -1865,7 +1953,7 @@ b) Para categoria de outra carreira correspondente às funções que efectivamen
 
 (modelo de cartão a que aludem o n.º 2 do artigo 9.º, o n.º 1 do artigo 12.º e os n.os 6 e 7 do artigo 20.º)
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)
 
 Observações: O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo. Será autenticado com a assinatura do Presidente da Assembleia e com a aposição do selo branco, de forma que abranja o canto inferior esquerdo da fotografia
 
@@ -1875,7 +1963,7 @@ Dimensões: 105 mm x 70 mm.
 
 (modelo de cartão a que aludem o n.º 3 do artigo 30.º, o n.º 4 do artigo 43.º e o n.º 3 do artigo 45.º)
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)
 
 Observações: - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo. Será autenticado com a assinatura do Secretário-Geral da Assembleia Legislativa e com a aposição do selo branco, de forma que abranja o canto inferior esquerdo da fotografia
 
@@ -1883,7 +1971,7 @@ Dimensões: 105 mm x 70 mm.
 
 (modelo de cartão a que alude o n.º 9 do artigo 46.º)
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)
+[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)
 
 Observações: O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo. Será autenticado com a assinatura do Presidente da Assembleia e com a aposição do selo branco, de forma que abranja o canto inferior esquerdo da fotografia
 
@@ -1891,11 +1979,11 @@ Dimensões: 105 mm x 70 mm.
 
 ## ANEXO IV — (a que se refere o artigo 15.º, n.º 2, do [Decreto Legislativo Regional n.º 10-A/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999), de 27 de Abril)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)
 
 ## ANEXO V — (mapa a que se refere o artigo 15.º, n.º 2, do [Decreto Legislativo Regional n.º 10-A/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999))
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)](https://files.diariodarepublica.pt/1s/2005/08/150a00/45444577.pdf)
 
 Organograma da Assembleia Legislativa da Região Autónoma da Madeira
 

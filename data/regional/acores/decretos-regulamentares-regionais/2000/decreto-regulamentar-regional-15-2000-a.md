@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/122b00/24542455.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2000/05/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2000-291927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c8c3cb788bd0be8bd1b3dd42b30a4948f59fc4b028f5d709522c2707fc8252a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebf245eec05081d05341693e1b93fb21e49bf4f8d91d00d58a617d43d81c5b64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional da Economia
+- Açores
 - Conselho Regional de Incentivos
 - Criação de Serviços
 - Definição de Competências
 - Gabinete de Planeamento e Gestão de Incentivos
 - Orgânica
-- Açores
+- Secretaria Regional da Economia
 relationships:
 - type: amended_by
   target: pt:dre:152710:por
@@ -101,16 +101,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre
+- type: cites
+  target: pt:dre:229921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152710:por
+  label: "Revogado pelo DRR.13/2002/A.2002.04.30.PG-RAA, DR.IS-B [121] de 25/Mai/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2002-152710
+  date: '2002-04-30'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:13Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +176,9 @@ Os artigos 1.º, 4.º, 9.º, 11.º e 12.º do [Decreto Regulamentar Regional n.�
 
 É criado junto da Secretaria Regional da Economia o Conselho Regional de Incentivos, adiante designado, abreviadamente, por CRI.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 A gestão dos incentivos financeiros pelo CRI será apoiada pelo Gabinete de Planeamento e Gestão de Incentivos, salvo quanto aos do turismo, cujo apoio será prestado pela Direcção Regional do Turismo, competindo-lhes, designadamente:
 
@@ -159,15 +194,21 @@ e) ...
 
 f) ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 O CRI funcionará em reuniões ordinárias e extraordinárias, podendo estas últimas ser convocadas, para além do respectivo presidente, pelo Secretário Regional da Economia.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Cabe ao CRI a elaboração do projecto de regulamento interno, o qual, após homologação pelo Secretário Regional da Economia, será publicado no Jornal Oficial da Região.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O Gabinete de Planeamento e Gestão de Incentivos assegurará todo o apoio técnico necessário ao funcionamento do CRI e a Secretaria Regional da Economia a cobertura das despesas de funcionamento.
 
@@ -183,10 +224,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Madalena, Pico, em 8 de Abril de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 8 de Maio de 2000.**
+Assinado em Angra do Heroísmo em 8 de Maio de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

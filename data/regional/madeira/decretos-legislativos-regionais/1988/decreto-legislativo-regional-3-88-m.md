@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11300/20442055.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c305e7a990f0a3bf9d87f4d3bb224b1b788948751588b02b1d43b85f8e321bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dcedb8849d04a68ade06742dda01834e91bfd1cbf5bb7d36735235d7a7a0d3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Madeira.região Autónoma
+- Pessoal não Docente
 relationships:
 - type: amended_by
   target: pt:dre:473895:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:574912:por
+  label: "Alterados os arts. 3.º, 7.º, 20.º e 37.º, os anexos III e IV e revogados os n.ºs 1 e 2 do art. 43.º pelo DLR.15/90/M.29.05.1990.ALR-RAM,\
+    \ DR.IS [123] de 29.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-1990-574912
+  date: '1990-05-29'
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473895:por
+  label: "Revogado pelo DLR.10/98/M.1998.05.21.ALR-RAM, DR.IS-A [138] de 18/Jun/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-1998-473895
+  date: '1998-05-21'
 article_structure:
   article_count: 46
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:15Z'
   warnings: []
   errors: []
 ---
@@ -539,21 +566,21 @@ O disposto no presente diploma produz todos os seus efeitos a partir de 1 de Jun
 
 Aprovado em sessão plenária de 12 de Fevereiro de 1988.
 
-**O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.
 
-**Assinado em 1 de Março de 1988.**
+Assinado em 1 de Março de 1988.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ## ANEXO I — Escola do Magistério Primário
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/11300/20442055.pdf))](https://files.diariodarepublica.pt/1s/1988/05/11300/20442055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/11300/20442055.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/11300/20442055.pdf))](https://files.diariodarepublica.pt/1s/1988/05/11300/20442055.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/11300/20442055.pdf)
 
 ## ANEXO III — A que se refere o n.º 5 do artigo 3.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/11300/20442055.pdf))](https://files.diariodarepublica.pt/1s/1988/05/11300/20442055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/11300/20442055.pdf)
 
 ## ANEXO IV — A que se refere o n.º 1 do artigo 36.º do presente diploma
 

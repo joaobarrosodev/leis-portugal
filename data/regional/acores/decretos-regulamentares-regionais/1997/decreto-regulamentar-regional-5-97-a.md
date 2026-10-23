@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/03/059b00/10651065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/1997/03/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1997-515025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b6b957173037ae4506a0efb5a5b3211882b82e07eab54044789b50ad06664c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 858ad725cdff54ef5a8f0f296b5d80170ba3fa1c8c08c47350cc6ec38634b9fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Conselho Diretivo
-- Pessoal Docente
 - Ensino Básico
 - Gratificação
-- Açores
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:639906:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566032:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:639906:por
+  label: "Revogado pelo DRR.16/99/A.1999.10.27.SREAS-RAA, DR.IS-B [279] de 30/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1999-639906
+  date: '1999-10-27'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:52Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +145,7 @@ O disposto no presente diploma é aplicável aos membros das comissões instalad
 
 ###### Artigo 5.º
 
-**O Secretário Regional da Educação e Cultura determinará, por portaria, para entrar em vigor no ano escolar de 1997-1998, o número de horas equiparadas a serviço lectivo de que beneficiarão os membros docentes dos conselhos directivos.**
+O Secretário Regional da Educação e Cultura determinará, por portaria, para entrar em vigor no ano escolar de 1997-1998, o número de horas equiparadas a serviço lectivo de que beneficiarão os membros docentes dos conselhos directivos.
 
 ###### Artigo 6.º
 
@@ -138,13 +155,13 @@ O presente diploma produz efeitos a partir de 1 de Setembro de 1996.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 28 de Novembro de 1996.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 19 de Fevereiro de 1997.**
+Assinado em Angra do Heroísmo em 19 de Fevereiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 MAPA I
 

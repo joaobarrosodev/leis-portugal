@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/02/037b00/02800281.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/1996/02/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1996-620077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf4f09499b871ed8ea3f79a625b56cd68e1fbca3d9975c337161563d20bb9861
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bd43f5c034891246d3d5d4fa99479948b7aa0b3d812f5f0b5cef44e152ba0a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Apoio Técnico
+- Conservação e Restauro
 - Financiamento
 - Imóvel Classificado
-- Conservação e Restauro
 - Protecção do Património
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:300047:por
@@ -86,16 +86,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/29/1991/09/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/29/1991/09/27/a/dre
+- type: cites
+  target: pt:dre:292925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663281:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:300047:por
+  label: "Revogado pelo DRR.14/2000/A.2000.04.14.SREAS-RAA, DR.IS-B [119] de 23/Mai/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2000-300047
+  date: '2000-04-14'
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:42Z'
   warnings: []
   errors: []
 ---
@@ -124,11 +141,15 @@ c) ...
 
 2 - Os imóveis a que se refere o número anterior, situados na área de protecção, terão um subsídio no montante de 50%.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 A atribuição do subsídio depende de despacho do Secretário Regional da Educação e Cultura, precedido de parecer do Gabinete da Zona Classificada de Angra do Heroísmo e dos serviços competentes da Secretaria Regional da Habitação, Obras Públicas, Transportes e Comunicações, no que respeita ao projecto e orçamento.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -142,11 +163,15 @@ d) ...
 
 2 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O subsídio caducará se, após um ano sobre a sua atribuição, as obras não se tiverem iniciado, ficando o dono da obra obrigado a reembolsar a Secretaria Regional da Educação e Cultura no montante processado, acrescido dos juros legais.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Ficam impossibilitados de cumular os apoios a que se refere este diploma os proprietários já beneficiados por outros subsídios, atribuídos com idêntica finalidade e sobre o mesmo imóvel por outra entidade, ao abrigo de disposição legal diversa.»
 
@@ -160,10 +185,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 7 de Dezembro de 1995.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 9 de Janeiro de 1996.**
+Assinado em Angra do Heroísmo em 9 de Janeiro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

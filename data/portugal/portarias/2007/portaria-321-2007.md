@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05900/17001701.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/321/2007/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/321-2007-518777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2567d334b63ab002f037308f8441477adff7549752cecaa9250c452d89a3b7c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8ef8919fd7e75813b3f4b844c97863c87b9415c19bb92f782488055cb7ca31c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Exploração Florestal
 - Pinheiro
-- Proteção Fitossanitária
 - Produto em Madeira
+- Proteção Fitossanitária
 relationships:
 - type: amended_by
   target: pt:dre:669979:por
@@ -88,16 +88,27 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/815/2006/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/815/2006/08/16/p/dre
+- type: repealed_by
+  target: pt:dre:3000129:por
+  label: "Revogado o anexo I da Port 103/2006 de 06-Fev, com as alterações constantes do presente diploma, pelo DESP.15752/2008.06.06.2008.DGRF-MADRP,\
+    \ DR.IIS [109] de 06.06.2008 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/15752-2008-3000129
+  date: '2008-06-06'
+- type: repealed_by
+  target: pt:dre:669979:por
+  label: "Revogada, a partir de 13.08.2011, pelo DEC LEI.95/2011.08.08.2011.MAMAOT, DR.IS [151] de 08.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-2011-669979
+  date: '2011-08-08'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:46Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +149,9 @@ Os artigos 2.º e 6.º e o anexo I da Portaria n.º 103/2006, de 6 de Fevereiro,
 
 j) 'Faixa de contenção fitossanitária' a zona de corte raso para remoção de todas as árvores das espécies Picea orientalis, Pinus halepensis, Pinus nigra, Pinus nigra austriaca, Pinus nigra laricio, Pinus pinaster, Pinus radiata e Pinus sylvestris, com cerca de 3 km de largura, cuja delimitação se encontra no anexo I da presente portaria e da qual faz parte integrante.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Com o objectivo de criar uma zona livre de coníferas hospedeiras capazes de albergar a descendência de Monochamus galloprovincialis (Oliv.), bem como de Bursaphelenchus xylophilus (Steiner et Bührer), Nickle et al., é estabelecida uma faixa para corte de todas as árvores descritas no número seguinte, cuja delimitação se encontra no anexo I da presente portaria e da qual faz parte integrante, podendo ser alterada por despacho do director-geral dos Recursos Florestais.
 
@@ -156,19 +169,21 @@ j) 'Faixa de contenção fitossanitária' a zona de corte raso para remoção de
 
 8 - As árvores a abater devem ser previamente marcadas na sua totalidade, ou as que delimitem a área, no caso de abate por manchas ou por folhas, utilizando tinta indelével de cor laranja nas árvores sem sintomas e tinta indelével de cor branca nas árvores com sintomas, sem prejuízo de outras formas de validação de árvores a abater, por parte da DGRF.
 
-## ANEXO I — Localização e delimitação geográfica da faixa de contenção fitossanitária
+ANEXO I
+
+Localização e delimitação geográfica da faixa de contenção fitossanitária
 
 MAPA 1
 
 Delimitação geográfica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05900/17001701.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05900/17001701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05900/17001701.pdf)
 
 MAPA 2
 
 Lista das freguesias atravessadas parcial ou totalmente pela faixa de contenção fitossanitária
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05900/17001701.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05900/17001701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/05900/17001701.pdf)
 
 A presente configuração da faixa de contenção fitossanitária mantém os efeitos retroactivos à data de 22 de Setembro de 2006.»
 

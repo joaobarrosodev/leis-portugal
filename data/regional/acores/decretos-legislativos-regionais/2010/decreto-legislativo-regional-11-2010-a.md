@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2010/03/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2010-611937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 133a7ff8c437bbcc95dbbc2b7a5b17b106eb83857646a0b9dbad8ebe82f524e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b21d26276afdfd9a1613f984604bbe4a6b1c7d4dc4cae65f16d93abfb8f9162
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assistência Médica
-- Publicidade
+- Assistência Religiosa
 - Certificação Profissional
 - Comissão Regional de Tauromaquia
 - Contra-ordenação
+- Controlo Sanitário
 - Criação de Serviços
 - Definição de Competências
 - Documento de Transporte
-- Controlo Sanitário
 - Especificação Técnica
 - Licenciamento
 - Pessoal Tauromáquico
 - Praça de Toiros
-- Tauromaquia
+- Publicidade
 - Regime Jurídico
 - Regulamento
-- Assistência Religiosa
 - Remuneração
 - Sanção
-- Açores
+- Tauromaquia
 - Taxa
-- Toureiro
 - Tourada
+- Toureiro
 - Transporte de Animais
 - Vistoria
 relationships:
@@ -107,16 +107,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
+- type: cites
+  target: pt:dre:308334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674436:por
+  label: null
+  source: null
 article_structure:
   article_count: 81
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:05Z'
   warnings: []
   errors: []
 ---
@@ -149,11 +165,11 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos te
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de Fevereiro de 2010.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 4 de Março de 2010.**
+Assinado em Angra do Heroísmo em 4 de Março de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

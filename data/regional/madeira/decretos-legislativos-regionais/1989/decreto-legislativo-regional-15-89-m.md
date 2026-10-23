@@ -47,36 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1989-609668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4481eea40aa96dbd2528a9308d0c4b61fd529d7fcdd29e13a92572f4f5e5c0e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4001d12b4bd8abd102e9873a83ac652e923e0f68734644248083fad1d8e19b5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Faltas
+- Férias
+- Função Pública
+- Licença sem Vencimento
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:361159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:20Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +121,11 @@ Urge, no entanto, definir ao nível da administração regional autónoma da Mad
 
 Assim, a Assembleia Regional da Madeira, nos termos da alínea b) do artigo 229.º da Constituição da República, decreta o seguinte:
 
-###### Artigo 1.º As atribuições e competências conferidas pelo [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, aos órgãos e serviços do Governo cabem, na Região Autónoma da Madeira, aos correspondentes órgãos e serviços do Governo Regional.
+Artigo 1.º As atribuições e competências conferidas pelo [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, aos órgãos e serviços do Governo cabem, na Região Autónoma da Madeira, aos correspondentes órgãos e serviços do Governo Regional.
 
-###### Art. 2.º A indemnização a que se refere o artigo 10.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, a atribuir aos funcionários ou agentes da administração pública regional, será calculada com base nos valores constantes da tabela em vigor para as deslocações na Região.
+Art. 2.º A indemnização a que se refere o artigo 10.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, a atribuir aos funcionários ou agentes da administração pública regional, será calculada com base nos valores constantes da tabela em vigor para as deslocações na Região.
 
-###### Art. 3.º - 1 - A verificação domiciliária da doença do funcionário ou agente a que se refere o artigo 32.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, será efectuada no concelho do Funchal por médicos da Direcção Regional de Saúde Pública ou por ela convencionados ou credenciados.
+Art. 3.º - 1 - A verificação domiciliária da doença do funcionário ou agente a que se refere o artigo 32.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, será efectuada no concelho do Funchal por médicos da Direcção Regional de Saúde Pública ou por ela convencionados ou credenciados.
 
 2 - A verificação domiciliária, prevista no n.º 3 do artigo 32.º do diploma referido no número anterior, será requisitada à Direcção Regional de Saúde Pública.
 
@@ -109,28 +139,28 @@ Assim, a Assembleia Regional da Madeira, nos termos da alínea b) do artigo 229.
 
 7 - As doenças incapacitantes a que se refere o artigo 48.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, serão definidas por decreto regulamentar regional.
 
-###### Art. 4.º São consideradas justificadas as faltas determinadas por facto qualificado como calamidade pública pelo Conselho de Ministros, nos termos do [Decreto-Lei n.º 477/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1988-361159), de 23 de Dezembro.
+Art. 4.º São consideradas justificadas as faltas determinadas por facto qualificado como calamidade pública pelo Conselho de Ministros, nos termos do [Decreto-Lei n.º 477/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1988-361159), de 23 de Dezembro.
 
-###### Art. 5.º - 1 - O despacho que concede a licença sem vencimento de longa duração, a que se refere o artigo 78.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, está sujeito a anotação da Secção Regional do Tribunal de Contas.
+Art. 5.º - 1 - O despacho que concede a licença sem vencimento de longa duração, a que se refere o artigo 78.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, está sujeito a anotação da Secção Regional do Tribunal de Contas.
 
 2 - O despacho que permite o regresso do funcionário da situação de licença referida no número anterior está sujeito a visto pela Secção Regional do Tribunal de Contas e publicado no Jornal Oficial da Região Autónoma da Madeira.
 
-###### Art. 6.º O despacho de concessão de licenças sem vencimento para o exercício de funções em organismos internacionais, previstas nos artigos 89.º a 92.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, é da competência conjunta do Presidente do Governo Regional e do membro do Governo Regional responsável pelo serviço a que pertence o requerente, com conhecimento prévio do Ministro dos Negócios Estrangeiros.
+Art. 6.º O despacho de concessão de licenças sem vencimento para o exercício de funções em organismos internacionais, previstas nos artigos 89.º a 92.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, é da competência conjunta do Presidente do Governo Regional e do membro do Governo Regional responsável pelo serviço a que pertence o requerente, com conhecimento prévio do Ministro dos Negócios Estrangeiros.
 
-###### Art. 7.º O aviso da fixação ou publicação das listas de antiguidade a que se refere o artigo 95.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, deve ser publicado no Jornal Oficial da Região Autónoma da Madeira até ao dia 31 de Março de cada ano.
+Art. 7.º O aviso da fixação ou publicação das listas de antiguidade a que se refere o artigo 95.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, deve ser publicado no Jornal Oficial da Região Autónoma da Madeira até ao dia 31 de Março de cada ano.
 
-###### Art. 8.º Os prazos estabelecidos no n.º 1 do artigo 96.º e no n.º 1 do artigo 97.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, são fixados em 60 dias para os funcionários que prestam serviço fora da Região Autónoma da Madeira.
+Art. 8.º Os prazos estabelecidos no n.º 1 do artigo 96.º e no n.º 1 do artigo 97.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, são fixados em 60 dias para os funcionários que prestam serviço fora da Região Autónoma da Madeira.
 
-###### Art. 9.º As orientações genéricas necessárias à elaboração, por parte de cada departamento do Governo Regional, das relações para efeitos de apuramentos estatísticos, a que se refere o n.º 1 do artigo 99.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, serão definidas pelo Secretário Regional da Administração Pública.
+Art. 9.º As orientações genéricas necessárias à elaboração, por parte de cada departamento do Governo Regional, das relações para efeitos de apuramentos estatísticos, a que se refere o n.º 1 do artigo 99.º do [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro, serão definidas pelo Secretário Regional da Administração Pública.
 
-###### Art. 10.º São revogados pelo presente diploma o [Decreto Regulamentar Regional n.º 4/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1982-606551), de 23 de Abril, o [Despacho Normativo n.º 2/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-1980-581860), de 31 de Janeiro, o [Despacho Normativo n.º 5/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-1984-531800), de 7 de Junho, os §§ 1.º, 3.º, 4.º, 6.º, 7.º, 9.º, 10.º e 11.º da [Resolução n.º 355/80](https://diariodarepublica.pt/dr/detalhe/resolucao/355-1980-461668) de 19 de Junho, e demais legislação complementar que contrarie o disposto no [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro.
+Art. 10.º São revogados pelo presente diploma o [Decreto Regulamentar Regional n.º 4/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1982-606551), de 23 de Abril, o [Despacho Normativo n.º 2/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-1980-581860), de 31 de Janeiro, o [Despacho Normativo n.º 5/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/5-1984-531800), de 7 de Junho, os §§ 1.º, 3.º, 4.º, 6.º, 7.º, 9.º, 10.º e 11.º da [Resolução n.º 355/80](https://diariodarepublica.pt/dr/detalhe/resolucao/355-1980-461668) de 19 de Junho, e demais legislação complementar que contrarie o disposto no [Decreto-Lei n.º 497/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/497-1988-401756), de 30 de Dezembro.
 
-###### Art. 11.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 11.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 10 de Maio de 1989.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 17 de Maio de 1989.**
+Assinado em 17 de Maio de 1989.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

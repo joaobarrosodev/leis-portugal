@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2005/06/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2005-226239
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f738567f1ec4d9313060b2fdf3dda13ce494ed71472bb9742f401a336ad1e3f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e8e2b269dda45fd38a23ae4f1163cff59ecb56e61405a31cccf2843802a145c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Definição de Competências
 - Direcção Regional da Juventude
 - Extinção de Serviços
-- Integração de Trabalhadores
-- Instituto de Juventude da Madeira
-- Orgânica
-- Madeira.região Autónoma
-- Quadro de Pessoal
 - Gestão de Recursos Humanos
+- Instituto de Juventude da Madeira
+- Integração de Trabalhadores
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -118,16 +118,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:218356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658036:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:449949:por
+  label: "Revogado, com efeitos previstos no art. 2º, pelo DLR.24/2008/M.23.06.2008.AL-RAM, DR.IS [119] de 23.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2008-449949
+  date: '2008-06-23'
 article_structure:
   article_count: 24
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:28Z'
   warnings: []
   errors: []
 ---
@@ -182,13 +223,13 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 4 de Maio de 2005.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 2 de Junho de 2005.**
+Assinado em 2 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica da Direcção Regional de Juventude
 
@@ -294,7 +335,9 @@ c) Colaborar na execução das atribuições e competências da DRJ;
 
 d) Coordenar o Departamento de Programas e de Animação.
 
-###### Artigo 7.º — Divisão Administrativa e Financeira
+###### Artigo 7.º
+
+##### Divisão Administrativa e Financeira
 
 1 - A Divisão Administrativa e Financeira, abreviadamente designada por DAF, é dirigida por um chefe de divisão, sendo qualificado como cargo de direcção intermédia de 2.º grau, competindo-lhe em geral assegurar o expediente geral e administrativo do pessoal, a tesouraria, a contabilidade, o aprovisionamento e, em especial, designadamente:
 

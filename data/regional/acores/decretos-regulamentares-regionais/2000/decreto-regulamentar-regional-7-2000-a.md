@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/02/034b00/05050507.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2000/02/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2000-402111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 580de2a35ae1ae8aaf8bb1f83a6081bf2f14b40fe6b873550d2ee0eedf7bb988
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e71c8a0de8ec4d55f42a0e9fadcfd771b130d0039a52da8a6d64ffab21cb72f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Definição de Competências
 - Gabinete da ZONA Classificada de Angra do Heroísmo
 - Orgânica
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:533409:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:31060046:por
+  label: "Rectificada a al. a) do nº 2 do artº 2º do presente DRR, pela DECL.5/2000.20.03.2000.PG-RAA, JOA-IS [12] de 23.03.2000\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/5-2000-31060046
+  date: '2000-03-20'
+- type: amended_by
+  target: pt:dre:539009:por
+  label: "Alterados os arts. 1º, 3º, 7º, e 9º e substituído o quadro de pessoal, pelo DRR.18/2001/A.2001.11.26.PG-RAA, DR.IS-B\
+    \ [292] de 19/Dez/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2001-539009
+  date: '2001-11-26'
+- type: amended_by
+  target: pt:dre:218504:por
+  label: "A orgânica e quadro de pessoal do Gabinete da Zona Classificada de Angra do Heroísmo, aprovados pelo presente diploma,\
+    \ é mantida em vigor até à publicação do decreto regulamentar regional que dê cumprimento ao disposto no artigo 32.º do\
+    \ DLR.15/2004/A.12.03.2004.ALR-RAA, DR.IS-A [82] de 06.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2004-218504
+  date: '2004-03-12'
+- type: amended_by
+  target: pt:dre:533409:por
+  label: "Determinado, nos termos do art. 16º do DRR 38-A/2004/A de 11-Dez, a transição para a dependência da Presidência\
+    \ do Governo Regional, do Gabinete da Zona Classificada de Angra do Heroísmo, cuja orgânica foi aprovada pelo presente\
+    \ diploma, cujos serviços foram extintos pelo DRR 3/2006/A de 10-Jan, mantendo-se contudo em vigor a orgânica e o quadro\
+    \ de pessoal do citado Gabinete, pelo DRR.5/2006/A.19.12.2005.PG-RAA, DR.IS-B [11] de 16.01.2006, nos termos do seu art.\
+    \ 3º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2006-533409
+  date: '2005-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -84,16 +112,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/29/1999/07/31/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/29/1999/07/31/a/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418197:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:168043:por
+  label: "Revogado pelo DRR.3/2006/A.19.12.2005.PG-RAA, DR.IS-B [7] de 10.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2006-168043
+  date: '2005-12-19'
 article_structure:
   article_count: 14
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:22Z'
   warnings: []
   errors: []
 ---
@@ -242,13 +287,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, Ponta Delgada, em 6 de Janeiro de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 24 de Janeiro de 2000.**
+Assinado em Angra do Heroísmo em 24 de Janeiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — Mapa a que se refere o artigo 15.º
 

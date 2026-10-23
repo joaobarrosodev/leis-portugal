@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1984-660151
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2b273401857b7ff59e3aee280369d25d52fec2dc6a1e873369b5abac557e47f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 483ada3edb78b6932d372ffe15e9be5d1036a30cf55a1eeb8f54b0c1e904635a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Carreira Profissional
+- Pessoal de Enfermagem
+relationships:
+- type: cites
+  target: pt:dre:453218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:19Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +102,7 @@ Considerando que para o exercício de certas funções, hoje já indispensáveis
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os enfermeiros do grau 2 e do grau 3 da carreira de enfermagem com pelo menos 3 anos de exercício num desses graus podem, por nomeação interina, assegurar transitoriamente o exercício de funções relativas a categorias correspondentes ao grau imediatamente superior, independentemente da observação dos requisitos habilitacionais, desde que satisfeitas as seguintes condições:
+Artigo 1.º - 1 - Os enfermeiros do grau 2 e do grau 3 da carreira de enfermagem com pelo menos 3 anos de exercício num desses graus podem, por nomeação interina, assegurar transitoriamente o exercício de funções relativas a categorias correspondentes ao grau imediatamente superior, independentemente da observação dos requisitos habilitacionais, desde que satisfeitas as seguintes condições:
 
 a) Estarem previstos e vagos lugares, nos quadros a que pertencem, relativos a categorias a que apenas teriam acesso os enfermeiros de grau 3 e de grau 4;
 
@@ -103,16 +114,16 @@ b) Não haver nenhum profissional nos quadros referidos na alínea anterior que 
 
 4 - Os profissionais sobre os quais recaia a nomeação referida no número anterior assumirão todas as obrigações decorrentes do exercício das funções inerentes à categoria para que forem nomeados e beneficiarão do mesmo estatuto dos providos definitivamente em tais categorias.
 
-###### Art. 2.º - 1 - Os profissionais que exerçam a sua actividade, em regime de destacamento ou de requisição, em estabelecimento diferente do de origem poderão optar pela sua integração no quadro de pessoal do estabelecimento onde, na presente data, exercem as suas funções, desde que exista no quadro vaga para o efeito.
+Art. 2.º - 1 - Os profissionais que exerçam a sua actividade, em regime de destacamento ou de requisição, em estabelecimento diferente do de origem poderão optar pela sua integração no quadro de pessoal do estabelecimento onde, na presente data, exercem as suas funções, desde que exista no quadro vaga para o efeito.
 
 2 - A integração em novo quadro a que se refere o número anterior far-se-á independentemente de qualquer formalidade, salvo o respectivo despacho de nomeação.
 
 Aprovado em Conselho do Governo Regional em 14 de Novembro de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 28 de Dezembro de 1983.**
+Assinado em Angra do Heroísmo em 28 de Dezembro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

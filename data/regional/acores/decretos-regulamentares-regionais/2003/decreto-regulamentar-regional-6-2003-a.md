@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/037b00/09690974.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2003/02/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2003-198345
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fb1ac6b864bc1a786ed38cd61dd1e6ea03001102d0cdcf6e178c389f5f92f0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8c00e82f731cf8acec5eef7ace7f5103c22acc2aa8c55d5dcc9a07cc371c4e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Remuneração Acessória
+- Açores
+- Inspecção Regional das Actividades Culturais
 - Integração de Trabalhadores
 - Orgânica
 - Pessoal de Inspecção
 - Quadro de Pessoal
-- Inspecção Regional das Actividades Culturais
-- Açores
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:553955:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553955:por
+  label: "Dada nova redacção ao art. 6º do DRR 16/2001/A, de 27-nov, alterado pelo presente diploma, pelo DRR.9/2012/A.27.03.2012.PG-RAA,\
+    \ DR.IS [62] de 27.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-2012-553955
+  date: '2012-03-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
   label: null
@@ -102,16 +108,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/16/2001/11/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/16/2001/11/27/a/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 24
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:47Z'
   warnings: []
   errors: []
 ---
@@ -154,13 +192,17 @@ f) ...
 
 2 - O Núcleo de Inspecção possui um coordenador, designado pelo director regional da Cultura de entre os inspectores-adjuntos de actividades culturais, a quem compete, para além da coordenação geral do trabalho do Núcleo de Inspecção e dos delegados municipais, substituir o inspector regional das Actividades Culturais nas suas faltas ou impedimentos e exercer outras funções e competências que lhe forem delegadas, auferindo o vencimento correspondente ao índice do segundo escalão de vencimento superior ao que detém nas respectivas carreira e categoria.
 
-###### Artigo 12.º — Carreira de inspector-adjunto de actividades culturais
+Artigo 12.º
+
+Carreira de inspector-adjunto de actividades culturais
 
 1 - As condições de ingresso e acesso e o desenvolvimento indiciário da carreira de inspector-adjunto de actividades culturais são os definidos no [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, adaptado à Região pelo [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de Novembro.
 
 2 - Compete ao inspector-adjunto de actividades culturais inspeccionar e verificar o cumprimento das disposições legais referentes a videogramas, fonogramas ou outros suportes, procedendo ao seu arrolamento ou apreensão, e a recintos de espectáculos e divertimentos públicos de carácter cultural, praticar os actos processuais em inquéritos e processos de ordenação, depor em tribunal e acompanhar a aplicação dos apoios financeiros concedidos no âmbito das actividades e infra-estruturas culturais.
 
-###### Artigo 16.º — Suplemento de função inspectiva
+Artigo 16.º
+
+Suplemento de função inspectiva
 
 Os inspectores-adjuntos de actividades culturais têm direito a um suplemento mensal de função inspectiva, nos termos do artigo 12.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril, adaptado à Região pelo [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de Novembro.»
 
@@ -188,13 +230,13 @@ O [Decreto Regulamentar Regional n.º 16/2001/A](https://diariodarepublica.pt/dr
 
 Aprovado em Conselho do Governo Regional em Vila do Porto, Santa Maria, em 6 de Dezembro de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 16 de Janeiro de 2003.**
+Assinado em Angra do Heroísmo em 16 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — [Decreto Regulamentar Regional n.º 16/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2001-568553)
 

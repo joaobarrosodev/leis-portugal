@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1982-607331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4c3750a100846143da7de4c34d33c1c1ec06e3f2744c6d8f0b00047f63ece96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 288677f6e474c66504a77561366d7142558aff5565ae4203c9746135b742bcd9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Escola de Enfermagem
 relationships:
 - type: amended_by
   target: pt:dre:420217:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:420217:por
+  label: "Substituído quadro de pessoal pelo DRR.19/87/A.13.07.1987.GR-RAA, DR.IS [158] de 13.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1987-420217
+  date: '1987-07-13'
+- type: cites
+  target: pt:dre:147382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568308:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:39Z'
   warnings: []
   errors: []
 ---
@@ -90,24 +113,24 @@ Em conformidade com o n.º 1 do artigo 2.º do [Decreto Regulamentar Regional n.
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o quadro de pessoal da Escola de Enfermagem de Angra do Heroísmo anexo ao presente diploma.
+Artigo 1.º É aprovado o quadro de pessoal da Escola de Enfermagem de Angra do Heroísmo anexo ao presente diploma.
 
-###### Art. 2.º Exclui-se do referido quadro o sector de enfermeiros docentes, cuja situação será objecto de revisão posterior, em conformidade com o [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
+Art. 2.º Exclui-se do referido quadro o sector de enfermeiros docentes, cuja situação será objecto de revisão posterior, em conformidade com o [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro.
 
-###### Art. 3.º A colocação do pessoal ao serviço nos lugares do presente quadro será feita mediante lista nominativa, aprovada por despacho dos Secretários Regionais dos Assuntos Sociais e da Administração Pública, independentemente de quaisquer formalidades, salvo a respectiva publicação.
+Art. 3.º A colocação do pessoal ao serviço nos lugares do presente quadro será feita mediante lista nominativa, aprovada por despacho dos Secretários Regionais dos Assuntos Sociais e da Administração Pública, independentemente de quaisquer formalidades, salvo a respectiva publicação.
 
 Aprovado em Conselho do Governo Regional em 25 de Fevereiro de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 22 de Março de 1982.**
+Assinado em Angra do Heroísmo em 22 de Março de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Tomás George Conceição Silva.**
+O Ministro da República, Tomás George Conceição Silva.
 
 Quadro de pessoal da Escola de Enfermagem de Angra do Heroísmo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/04/08600/08890889.pdf))](https://files.diariodarepublica.pt/1s/1982/04/08600/08890889.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/04/08600/08890889.pdf)
 
 Nota. - O funcionário administrativo que exercer as funções de tesoureiro será abonado de 500$00 mensais para falhas.

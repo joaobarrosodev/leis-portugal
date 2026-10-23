@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/11/279b00/84648465.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/1999/11/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1999-639906
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b7422e0482a857901339bcf7c1b267241d8786f8bfb0c5dfd657fee9a028a1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2f2d387a5ab034be3a428273383ccd9c6016c5da243384a323824078dc48e9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Diretor
-- Educador de Infância
-- Escola Profissional
-- Pessoal Docente
-- Ensino Básico
-- Gratificação
-- Remuneração
 - Açores
+- Diretor
 - Educação Pré-escolar
+- Educador de Infância
+- Ensino Básico
+- Escola Profissional
+- Gratificação
+- Pessoal Docente
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:539978:por
@@ -119,16 +119,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/1993/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/1993/08/20/p/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231676:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573902:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676050:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:585036:por
+  label: "Revogado o art. 8º pelo DRR.1/2002/A.2001.12.07.PG-RAA DR.IS-B [5] de 07/Jan/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2002-585036
+  date: '2001-12-07'
+- type: repealed_by
+  target: pt:dre:637469:por
+  label: "Revogado o art. 4º, pelo DRR.26/2002/A.2002.08.13.PG-RAA, DR.IS-B [210] de 11/Set/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2002-637469
+  date: '2002-08-13'
+- type: repealed_by
+  target: pt:dre:227009:por
+  label: "Revogado pelo DLR.12/2005/A.20.05.2005.AL-RAA, DR.IS-A [114] de 16.06.2005, sem prejuízo da sua aplicação transitória\
+    \ estabelecida nos termos do art. 141º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2005-227009
+  date: '2005-05-20'
 article_structure:
   article_count: 13
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:07Z'
   warnings: []
   errors: []
 ---
@@ -177,7 +245,7 @@ O director e o subdirector da Escola Profissional das Capelas gozam de dispensa 
 
 ###### Artigo 6.º
 
-**O presidente e os vice-presidentes do conselho executivo ou o director e os adjuntos, bem como o presidente e os vice-presidentes dos conselhos directivos, têm direito a uma gratificação, nos termos do quadro constante do anexo II ao presente diploma, do qual faz parte integrante.**
+O presidente e os vice-presidentes do conselho executivo ou o director e os adjuntos, bem como o presidente e os vice-presidentes dos conselhos directivos, têm direito a uma gratificação, nos termos do quadro constante do anexo II ao presente diploma, do qual faz parte integrante.
 
 ###### Artigo 7.º
 
@@ -215,14 +283,14 @@ São revogados o [Decreto Regulamentar Regional n.º 30/81/A](https://diariodare
 
 Aprovado em Conselho do Governo Regional, na Madalena, Pico, em 15 de Setembro de 1999.
 
-**O Presidente do Governo Regional, Carlos Manuel do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel do Vale César.
 
-**Assinado em Angra do Heroísmo, em 27 de Outubro de 1999.**
+Assinado em Angra do Heroísmo, em 27 de Outubro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
-## ANEXO I — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84648465.pdf)
+## ANEXO I — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84648465.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84648465.pdf)
 
-## ANEXO II — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84648465.pdf)
+## ANEXO II — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84648465.pdf)](https://files.diariodarepublica.pt/1s/1999/11/279b00/84648465.pdf)

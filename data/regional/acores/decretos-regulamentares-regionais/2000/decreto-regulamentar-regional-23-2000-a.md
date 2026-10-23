@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2000/09/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2000-582024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65546f9f2bbb158ed8245afb8a4fb4c67d699407b6e04d62e3aa41c747961ebc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34be2a9ee95ceb997a08e529f1490fe9d3b56a8ef9aebc090d315a25ff6dc54d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal de Saúde
-- Médico
-- Carreira Médica Hospitalar
-- Clínica Geral
-- Saúde
-- Incentivo Profissional
-- Centro de Saúde
-- Quadro de Pessoal
 - Açores
+- Carreira Médica Hospitalar
+- Centro de Saúde
+- Clínica Geral
+- Incentivo Profissional
+- Médico
+- Pessoal de Saúde
+- Quadro de Pessoal
+- Saúde
 relationships:
 - type: amended_by
   target: pt:dre:517637:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:31104602:por
+  label: "DECL.30/2000.18.09.2000.PG-RAA, JOA-IS [39] de 28.09.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/30-2000-31104602
+  date: '2000-09-18'
+- type: amended_by
+  target: pt:dre:517637:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 57/88/A de 19-out, na redacção do presente diploma, pelo DRR.22/2004/A.08.06.2004.SRAS-RAA,\
+    \ DR.IS-B [153] de 01.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2004-517637
+  date: '2004-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/28/1999/07/31/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/28/1999/07/31/a/dre
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:17Z'
   warnings: []
   errors: []
 ---
@@ -120,12 +139,12 @@ Em cada centro de saúde, o número de médicos providos nas categorias de chefe
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 20 de Junho de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 27 de Julho de 2000.**
+Assinado em Angra do Heroísmo em 27 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/09/206b00/47494751.pdf)

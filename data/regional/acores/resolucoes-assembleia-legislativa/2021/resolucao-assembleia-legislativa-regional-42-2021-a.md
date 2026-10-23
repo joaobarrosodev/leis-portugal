@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13800/0000800009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/42/2021/07/19/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/42-2021-167610791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6546b505fd67a14d338010f6a01f9c4c10452be6c3b47391006c6e293aab79a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 429eac604d2edbb0b12b72f42a83a796f971e046a75e9f8c0af4c2aad9019c6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Obras de Conservação e Restauro
-- Domínio Público Marítimo
-- Propriedade do Estado
+- Açores
 - Domínio Público do Estado
-- Interesse Público
+- Domínio Público Marítimo
+- Governo Regional
 - ILHA de Santa Maria
+- Interesse Público
+- Obras de Conservação e Restauro
 - Património Arquitectónico
+- Propriedade do Estado
 - Protecção do Património
 - Recomendação
-- Açores
 - VILA do Porto
 relationships:
 - type: cites
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/8/2020/03/30/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/8/2020/03/30/a/dre
+- type: cites
+  target: pt:dre:130829772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66426484:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:16Z'
   warnings: []
   errors: []
 ---
@@ -143,4 +151,6 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos te
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de junho de 2021.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
+
+114403325

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05800/0006900141.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2025/03/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2025-912066251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86a8d267fea83b6dc3eed6022c6525d39ce1992eb44f4abbde5ee425c3e33f7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1236571766737be9323441bdb24da00ab526402bb055a1ee42e09ecc2cd3563
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Incêndio
-- Prevenção de Incêndios
-- Multa
+- Açores
 - Contra-ordenação
 - Fiscalização
+- Incêndio
 - Inspecção Regional das Actividades Económicas
+- Multa
 - Normas de Segurança
-- Zona de Proteção
+- Prevenção de Incêndios
+- Proteção Civil
 - Segurança das Instalações
 - Segurança dos Edifícios
-- Açores
+- Zona de Proteção
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:6/2015/A
+  label: 'Altera, a partir de 25 de março de 2025, nos termos do artigo 4.º, os artigos 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 10.º,
+    11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 22.º, 23.º, 24.º, 26.º, 27.º, 28.º, 29.º, 30.º, 31.º, 32.º
+    e 33.º, os anexos i, ii e iii, o artigo 1.º do anexo iv e o anexo v, adita o quadro vii ao anexo ii, revoga as alíneas
+    a), b) e c) do n.º 3 do artigo 5.º, o n.º 3 do artigo 16.º, o n.º 4 do artigo 22.º, as alíneas a) e b) do n.º 4 do artigo
+    24.º, as alíneas m), n), w) e dd) do n.º 1 do artigo 26.º e a «Aplicação: Chaminés» no quadro iv do anexo ii, e procede
+    à republicação em anexo do Decreto Legislativo Regional n.º 6/2015/A, de 5 de março, Diário da República n.º 45/2015,
+    Série I'
+  source: null
+  date: '2015-03-05'
 - type: cites
   target: celex:32008R0765
   label: null
@@ -92,15 +103,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/6/2015/03/05/a/dre
 article_structure:
-  article_count: 78
+  article_count: 48
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:15Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +144,9 @@ Os artigos 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º
 
 2 - Ao SRPCBA incumbe a credenciação de entidades para a emissão de pareceres, e para a realização de vistorias e de inspeções das condições de SCIEA, nos termos previstos no presente diploma e na demais legislação complementar.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Para efeitos do disposto no presente diploma e na demais legislação complementar, entende-se por:
 
@@ -185,13 +198,15 @@ s) ‘Uso dominante de uma utilização-tipo’, aquele que, de entre os diverso
 
 t) ‘Utilização-tipo’, a classificação dada pelo uso dominante de qualquer edifício ou recinto, ou de cada uma das suas partes, em conformidade com o disposto no artigo 8.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
 a) [...]
 
-b) Os edifícios de apoio a instalações de armazenamento de produtos de petróleo e a instalações de postos de abastecimento de combustíveis, tais como estabelecimentos de restauração, comerciais e oficinas, regulados pelos Decretos-Leis n.<sup>os</sup>302/2001, de 23 de novembro, e 267/2002, de 26 de novembro, alterado pelos Decretos-Leis n.<sup>os</sup>389/2007, de 30 de novembro, 31/2008, de 25 de fevereiro, 195/2008, de 6 de outubro, e 217/2012, de 9 de outubro, e pela Lei n.º 15/2015, de 16 de fevereiro;
+b) Os edifícios de apoio a instalações de armazenamento de produtos de petróleo e a instalações de postos de abastecimento de combustíveis, tais como estabelecimentos de restauração, comerciais e oficinas, regulados pelos Decretos-Leis n.os302/2001, de 23 de novembro, e 267/2002, de 26 de novembro, alterado pelos Decretos-Leis n.os389/2007, de 30 de novembro, 31/2008, de 25 de fevereiro, 195/2008, de 6 de outubro, e 217/2012, de 9 de outubro, e pela Lei n.º 15/2015, de 16 de fevereiro;
 
 c) Os recintos permanentes;
 
@@ -225,7 +240,9 @@ c) (Revogada.)
 
 6 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -253,7 +270,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -295,7 +314,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -311,9 +332,11 @@ c) [...]
 
 7 - Os elementos de construção não abrangidos pelo Regulamento (UE) n.º 305/2011, do Parlamento Europeu e do Conselho, de 9 de março de 2011, na sua redação atual, para os quais o presente diploma impõe exigências de resistência ao fogo, devem possuir relatórios de classificação emitidos por organismos acreditados para aquele âmbito pelo Instituto Português de Acreditação, I. P., ou por outro organismo nacional de acreditação na aceção do Regulamento (CE) n.º 765/2008, de 9 de julho de 2008, na sua redação atual, que seja signatário do acordo de reconhecimento mútuo da infraestrutura europeia de acreditação.
 
-8 - É também aceitável, para além do previsto nos n.<sup>os</sup>6 e 7, recorrer a verificação de resistência ao fogo por métodos de cálculo constantes de códigos europeus, ou a tabelas constantes dos códigos europeus, ou a tabelas publicadas pelas entidades referidas nesses mesmos números.
+8 - É também aceitável, para além do previsto nos n.os6 e 7, recorrer a verificação de resistência ao fogo por métodos de cálculo constantes de códigos europeus, ou a tabelas constantes dos códigos europeus, ou a tabelas publicadas pelas entidades referidas nesses mesmos números.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Todos os locais dos edifícios e dos recintos, com exceção dos espaços interiores de cada fogo, das vias horizontais e verticais de evacuação e dos espaços ao ar livre, são classificados de acordo com a natureza do risco, do seguinte modo:
 
@@ -361,7 +384,7 @@ e) Lavandarias ou engomadorias em que sejam instalados aparelhos, ou grupos de a
 
 f) Instalações de frio para conservação, cujos aparelhos possuam potência útil total superior a 70 kW;
 
-g) Arquivos, depósitos, armazéns e arrecadações de produtos ou material diverso, com volume de compartimento superior a 100 m<sup>3</sup>;
+g) Arquivos, depósitos, armazéns e arrecadações de produtos ou material diverso, com volume de compartimento superior a 100 m3;
 
 h) [...]
 
@@ -373,7 +396,7 @@ k) Locais de pintura e aplicação de vernizes em que sejam utilizados produtos 
 
 l) [...]
 
-m) Locais cobertos de estacionamento de veículos com área bruta compreendida entre 50 m<sup>2</sup> e 200 m<sup>2</sup>, com exceção dos estacionamentos individuais, em edifícios destinados à utilização-tipo referida na alínea a) do n.º 1 do artigo 8.º;
+m) Locais cobertos de estacionamento de veículos com área bruta compreendida entre 50 m2 e 200 m2, com exceção dos estacionamentos individuais, em edifícios destinados à utilização-tipo referida na alínea a) do n.º 1 do artigo 8.º;
 
 n) Outros locais que possuam uma carga de incêndio modificada superior a 10 000 MJ, associada à presença de materiais facilmente inflamáveis e, ainda, os que comportem riscos de explosão.
 
@@ -415,7 +438,9 @@ f) Postos de segurança, definidos no presente diploma e na demais legislação 
 
 g) Centrais de bombagem para serviço de incêndio.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -429,7 +454,7 @@ a) [...]
 
 b) [...]
 
-3 - A afetação dos espaços interiores de um edifício a locais de risco C, desde que os mesmos possuam volume superior a 600 m<sup>3</sup>, ou carga de incêndio modificada superior a 20 000 MJ, ou potência instalada dos seus equipamentos elétricos e eletromecânicos superior a 250 kW, ou alimentados a gás superior a 70 kW, ou constituam locais de produção, depósito, armazenagem ou manipulação de líquidos inflamáveis em quantidade superior a 100 l, atribui a esses espaços a classificação de locais de risco C agravado, devendo respeitar as seguintes regras:
+3 - A afetação dos espaços interiores de um edifício a locais de risco C, desde que os mesmos possuam volume superior a 600 m3, ou carga de incêndio modificada superior a 20 000 MJ, ou potência instalada dos seus equipamentos elétricos e eletromecânicos superior a 250 kW, ou alimentados a gás superior a 70 kW, ou constituam locais de produção, depósito, armazenagem ou manipulação de líquidos inflamáveis em quantidade superior a 100 l, atribui a esses espaços a classificação de locais de risco C agravado, devendo respeitar as seguintes regras:
 
 a) [...]
 
@@ -437,7 +462,9 @@ b) Não comunicar diretamente com locais de risco D, E ou F, nem com vias vertic
 
 4 - [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -465,7 +492,9 @@ h) [...]
 
 5 - A carga de incêndio modificada a que se referem a alínea n) do n.º 3 do artigo 10.º e o n.º 3 do artigo anterior é determinada com base nos critérios técnicos definidos em despacho do presidente do SRPCBA.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A categoria de risco de cada uma das utilizações-tipo é a mais baixa que satisfaça integralmente os critérios indicados nos quadros constantes do anexo iii.
 
@@ -477,7 +506,9 @@ h) [...]
 
 5 - Aos edifícios e recintos de utilização mista aplicam-se as exigências mais gravosas de entre as diversas utilizações-tipo no que respeita às condições de autoproteção dos espaços comuns, às condições de resistência ao fogo dos elementos estruturais comuns, às condições de resistência ao fogo dos elementos de compartimentação comuns, entre si e das vias de evacuação comuns, e às condições de controlo de fumos em vias de evacuação comuns, podendo partilhar os sistemas e equipamentos de segurança contra risco de incêndio do edifício.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 No caso de edifícios e recintos novos, quando, comprovadamente, as disposições do regulamento técnico referido no artigo seguinte sejam desadequadas face às grandes dimensões em altimetria ou planimetria ou às suas características de funcionamento, ou de exploração ou construtivas, tais edifícios e recintos ou as suas frações são classificados de perigosidade atípica e ficam sujeitos a soluções de SCIEA que, cumulativamente:
 
@@ -487,11 +518,15 @@ b) [...]
 
 c) Sejam aprovadas pelo SRPCBA, ou pelos órgãos executivos dos municípios, quando da 1.ª categoria de risco.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 As condições técnicas gerais e específicas de segurança contra incêndio em edifícios (SCIE) são as constantes do Regulamento Técnico de SCIE, aprovado em anexo à Portaria n.º 1532/2008, de 29 de dezembro, do Ministério da Administração Interna, adaptada à Região Autónoma dos Açores pela Portaria n.º 63/2015, de 20 de maio, da Secretaria Regional da Saúde, ou de outra que lhe venha a suceder com o mesmo objeto.
 
-###### Artigo 16.º — Projetos de SCIEA e medidas de autoproteção
+Artigo 16.º
+
+Projetos de SCIEA e medidas de autoproteção
 
 1 - Em matéria de responsabilidade pela elaboração dos projetos de SCIEA e das medidas de autoproteção referentes a edifícios e recintos classificados nas 2.ª, 3.ª e 4.ª categorias de risco, aplica-se o disposto no artigo 15.º-A do Decreto-Lei n.º 220/2008, de 12 de novembro, na redação dada pela Lei n.º 123/2019, de 18 de outubro, e o disposto no artigo 5.º deste último diploma.
 
@@ -499,7 +534,9 @@ As condições técnicas gerais e específicas de segurança contra incêndio em
 
 3 - (Revogado.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - [...]
 
@@ -509,7 +546,9 @@ As condições técnicas gerais e específicas de segurança contra incêndio em
 
 4 - As operações urbanísticas cujo projeto careça de aprovação pela administração regional e que, nos termos da legislação especial aplicável, tenham exigências mais gravosas de segurança contra incêndio em edifícios, seguem o regime nelas previsto.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Aos edifícios, ou partes de edifícios e recintos construídos ao abrigo da legislação anteriormente vigente, cujas novas operações urbanísticas se encontram sujeitas ao regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, é-lhes aplicável o regime constante do presente diploma.
 
@@ -521,7 +560,9 @@ As condições técnicas gerais e específicas de segurança contra incêndio em
 
 5 - Sem prejuízo do disposto no n.º 2, as situações enquadradas no presente artigo estão sempre sujeitas à elaboração de um projeto de especialidade de segurança contra incêndios em edifícios, a submeter à apreciação do SRPCBA, ou dos órgãos executivos dos municípios, quanto à 1.ª categoria de risco.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O pedido de autorização de utilização de edifícios ou suas frações autónomas e recintos, referido no artigo 63.º do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, deve ser instruído com termo de responsabilidade subscrito pelo diretor de obra ou pelo diretor de fiscalização de obra, no qual deve declarar que se encontram cumpridas as condições de SCIEA.
 
@@ -529,7 +570,9 @@ As condições técnicas gerais e específicas de segurança contra incêndio em
 
 3 - As vistorias referidas no número anterior, referentes às 2.ª, 3.ª e 4.ª categorias de risco, integram um representante do SRPCBA ou de uma entidade por ele credenciada.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Todos os edifícios ou recintos e suas frações estão sujeitos a inspeções a realizar pelo SRPCBA ou por entidade por ele credenciada.
 
@@ -537,7 +580,7 @@ As condições técnicas gerais e específicas de segurança contra incêndio em
 
 3 - As inspeções classificam-se em regulares e extraordinárias.
 
-4 - As inspeções regulares são obrigatórias e devem ser realizadas, a pedido das entidades responsáveis a que se referem os n.<sup>os</sup>3 e 4 do artigo 6.º, nos seguintes prazos máximos:
+4 - As inspeções regulares são obrigatórias e devem ser realizadas, a pedido das entidades responsáveis a que se referem os n.os3 e 4 do artigo 6.º, nos seguintes prazos máximos:
 
 a) Seis anos, no caso da 1.ª categoria de risco;
 
@@ -549,17 +592,19 @@ d) Três anos, no caso da 4.ª categoria de risco.
 
 5 - Excetuam-se do disposto no número anterior os edifícios ou recintos e suas frações das utilizações-tipo i, ii, iii, vi, vii, viii, ix, x, xi e xii da 1.ª categoria de risco e os edifícios de utilização exclusiva da utilização-tipo i da 2.ª categoria de risco.
 
-6 - A primeira inspeção regular deve ser solicitada, pelas entidades responsáveis a que se referem os n.<sup>os</sup>3 e 4 do artigo 6.º, nos seguintes prazos:
+6 - A primeira inspeção regular deve ser solicitada, pelas entidades responsáveis a que se referem os n.os3 e 4 do artigo 6.º, nos seguintes prazos:
 
-a) Até um ano após a entrada em funcionamento do edifício, quando não haja lugar a vistorias nos termos dos n.<sup>os</sup>2 e 3 do artigo 19.º;
+a) Até um ano após a entrada em funcionamento do edifício, quando não haja lugar a vistorias nos termos dos n.os2 e 3 do artigo 19.º;
 
-b) Nos prazos máximos estabelecidos no n.º 4, consoante a categoria de risco, contados da data de entrada em funcionamento do edifício, quando haja lugar a vistorias nos termos dos n.<sup>os</sup>2 e 3 do artigo 19.º
+b) Nos prazos máximos estabelecidos no n.º 4, consoante a categoria de risco, contados da data de entrada em funcionamento do edifício, quando haja lugar a vistorias nos termos dos n.os2 e 3 do artigo 19.º
 
 7 - As inspeções extraordinárias são realizadas por iniciativa do SRPCBA ou de outra entidade com competência fiscalizadora.
 
-8 - Compete às entidades referidas nos n.<sup>os</sup>3 e 4 do artigo 6.º, independentemente da instauração de processo contraordenacional, assegurar a regularização das condições que não estejam em conformidade com a legislação de segurança contra incêndio em edifícios aplicável, dentro dos prazos fixados nos relatórios das inspeções referidas no presente artigo.
+8 - Compete às entidades referidas nos n.os3 e 4 do artigo 6.º, independentemente da instauração de processo contraordenacional, assegurar a regularização das condições que não estejam em conformidade com a legislação de segurança contra incêndio em edifícios aplicável, dentro dos prazos fixados nos relatórios das inspeções referidas no presente artigo.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A autoproteção e a gestão de segurança contra incêndio em edifícios e recintos, durante a exploração ou utilização dos mesmos, para efeitos de aplicação do presente diploma e da demais legislação complementar, baseiam-se nas seguintes medidas:
 
@@ -579,13 +624,17 @@ e) Simulacros para teste das medidas de autoproteção e treino dos ocupantes co
 
 4 - (Revogado.)
 
-###### Artigo 23.º — Comércio, instalação e manutenção de equipamentos e sistemas de SCIEA
+Artigo 23.º
+
+Comércio, instalação e manutenção de equipamentos e sistemas de SCIEA
 
 1 - As entidades que tenham por objeto a atividade de comercialização, instalação e ou manutenção de equipamentos e sistemas de SCIEA encontram-se sujeitas a registo no SRPCBA, sem prejuízo de outras licenças, autorizações ou habilitações previstas na lei para o exercício de determinada atividade.
 
 2 - [...]
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - As medidas de autoproteção aplicam-se a todos os edifícios e recintos, incluindo os existentes à data da entrada em vigor do presente diploma, com exceção dos edifícios e recintos da utilização-tipo i, das 1.ª e 2.ª categorias de risco.
 
@@ -601,7 +650,9 @@ b) (Revogada.)
 
 5 - Os simulacros de incêndio são realizados observando os períodos máximos entre exercícios, definidos no regulamento técnico a que se refere o artigo 15.º
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Sem prejuízo da responsabilidade civil, criminal ou disciplinar, constitui contraordenação económica grave, nos termos do Regime Jurídico das Contraordenações Económicas, aprovado pelo Decreto-Lei n.º 9/2021, de 29 de janeiro:
 
@@ -679,9 +730,9 @@ jj) A inexistência ou a deficiente instalação, funcionamento ou manutenção 
 
 kk) A inexistência de medidas de autoproteção, em infração ao disposto no n.º 1 do artigo 22.º;
 
-ll) A existência de medidas de autoproteção, não entregues no SRPCBA, ou nos municípios, quanto à 1.ª categoria de risco, em infração aos n.<sup>os</sup>2 e 3 do artigo 22.º ou em infração ao artigo 31.º do anexo ii do regulamento técnico a que se refere o artigo 15.º;
+ll) A existência de medidas de autoproteção, não entregues no SRPCBA, ou nos municípios, quanto à 1.ª categoria de risco, em infração aos n.os2 e 3 do artigo 22.º ou em infração ao artigo 31.º do anexo ii do regulamento técnico a que se refere o artigo 15.º;
 
-mm) A inexistência de projeto de segurança contra incêndio ou da ficha de segurança, quando exigível, em infração ao disposto nos n.<sup>os</sup>1 e 2 do artigo 17.º;
+mm) A inexistência de projeto de segurança contra incêndio ou da ficha de segurança, quando exigível, em infração ao disposto nos n.os1 e 2 do artigo 17.º;
 
 nn) O incumprimento das condições de segurança contra incêndio em edifícios, em infração ao disposto no n.º 3 do artigo 17.º;
 
@@ -749,7 +800,9 @@ d) Grande empresa, quando empreguem 250 ou mais trabalhadores.
 
 9 - À tramitação do processo contraordenacional é aplicável o disposto no Regime Jurídico das Contraordenações Económicas, aprovado pelo Decreto-Lei n.º 9/2021, de 29 de janeiro.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -763,11 +816,15 @@ d) Interdição do exercício das atividades para as entidades a que se refere o
 
 2 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 A instrução e a decisão dos processos por contraordenação prevista no presente diploma competem, respetivamente, ao SRPCBA e ao seu presidente, com exceção dos relativos a edifícios ou recintos classificados na 1.ª categoria de risco, cuja competência é do respetivo município.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 O produto das coimas reverte para:
 
@@ -779,7 +836,9 @@ c) 90 % para o respetivo município quanto à 1.ª categoria de risco;
 
 d) 60 % para a Região Autónoma dos Açores quanto às 2.ª, 3.ª e 4.ª categorias de risco.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Os serviços prestados pelo SRPCBA, no âmbito do presente diploma, estão sujeitos ao pagamento de taxas cujo valor é fixado por portaria dos membros do Governo Regional responsáveis pelas áreas das finanças e da proteção civil, a qual estabelece também o regime de isenções aplicável.
 
@@ -811,7 +870,9 @@ d) A emissão de pareceres sobre medidas de autoproteção.
 
 6 - A cobrança coerciva das taxas, proveniente da falta de pagamento das mesmas, faz-se através de processo de execução fiscal, servindo de título executivo a certidão passada pela entidade que prestar os serviços.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - O regime de credenciação de entidades para a emissão de pareceres, realização de vistorias e de inspeções das condições de SCIEA pelo SRPCBA, nos termos previstos no presente diploma e na demais legislação complementar, é definido por portaria do membro do Governo Regional responsável pela área da proteção civil.
 
@@ -823,11 +884,15 @@ b) Realização de vistorias;
 
 c) Realização de inspeções das condições.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 A subscrição de fichas de segurança, projetos ou medidas de autoproteção em SCIEA é incompatível com a prática de atos ao abrigo da credenciação do SRPCBA no exercício das suas competências de emissão de pareceres, de realização de vistorias e de inspeções das condições de SCIEA.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - A tramitação dos procedimentos previstos no presente diploma, da competência do SRPCBA, é realizada com recurso a um sistema informático, o qual, entre outras funcionalidades, permite:
 
@@ -847,7 +912,9 @@ d) [...]
 
 5 - A tramitação dos procedimentos previstos no presente diploma, da competência dos órgãos dos municípios, é realizada informaticamente, através do sistema informático previsto no regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, e regulamentado pela Portaria n.º 216-A/2008, de 3 de março, o qual, entre outras funcionalidades, deve permitir as enumeradas nas alíneas a) a d) do n.º 1.
 
-## ANEXO I — (a que se refere o n.º 4 do artigo 9.º)
+ANEXO I
+
+(a que se refere o n.º 4 do artigo 9.º)
 
 Classes de reação ao fogo para produtos de construção
 
@@ -883,13 +950,13 @@ QUADRO I
 
 | Classe | Fatores de classificação | Classificação complementar |
 | --- | --- | --- |
-| A1 | ΔT, Δm, t<sub>f</sub> e PCS |  |
-| A2 | ΔT, Δm, t<sub>f</sub>, PCS, FIGRA, LFS e THR<sub>600s</sub> | Produção de fumo ‘s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>’ e gotas ou partículas inflamadas ‘d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>’ |
-| B | FIGRA, LFS, THR<sub>600s</sub> e F<sub>s</sub> | Produção de fumo ‘s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>’ e gotas ou partículas inflamadas ‘d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>’ |
-| C | FIGRA, LFS, THR<sub>600s</sub> e F<sub>s</sub> | Produção de fumo ‘s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>’ e gotas ou partículas inflamadas ‘d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>’ |
-| D | FIGRA e F<sub>s</sub> | Produção de fumo ‘s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>’ e gotas ou partículas inflamadas ‘d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>’ |
-| E | F<sub>s</sub> | Gotículas ou partículas inflamadas ‘não classificado ou d<sub>2</sub>’ |
-| F | Desempenho não determinado | Desempenho não determinado |
+| A1 | ΔT, Δm, tf e PCS |  |
+| A2 | ΔT, Δm, tf, PCS, FIGRA, LFS e THR600s | Produção de fumo ‘s1, s2 ou s3’ e gotas ou partículas inflamadas ‘d0, d1 ou d2’ |
+| B | FIGRA, LFS, THR600s e Fs | Produção de fumo ‘s1, s2 ou s3’ e gotas ou partículas inflamadas ‘d0, d1 ou d2’ |
+| C | FIGRA, LFS, THR600s e Fs | Produção de fumo ‘s1, s2 ou s3’ e gotas ou partículas inflamadas ‘d0, d1 ou d2’ |
+| D | FIGRA e Fs | Produção de fumo ‘s1, s2 ou s3’ e gotas ou partículas inflamadas ‘d0, d1 ou d2’ |
+| E | Fs | Gotículas ou partículas inflamadas ‘não classificado ou d2’ |
+| F | Desempenho não determinado |  |
 
 QUADRO II
 
@@ -901,15 +968,17 @@ QUADRO III
 
 | Classe | Fatores de classificação | Classificação complementar |
 | --- | --- | --- |
-| A1<sub>L</sub> | ΔT, Δm, t<sub>f</sub> e PCS |  |
-| A2<sub>L</sub> | ΔT, Δm, t<sub>f</sub>, PCS, FIGRA, LFS e THR<sub>600s</sub> | Produção de fumo ‘s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>’ e gotas ou partículas inflamadas ‘d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>’ |
-| B<sub>L</sub> | FIGRA, LFS, THR<sub>600s</sub> e F<sub>s</sub> | Produção de fumo ‘s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>’ e gotas ou partículas inflamadas ‘d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>’ |
-| C<sub>L</sub> | FIGRA, LFS, THR<sub>600s</sub> e F<sub>s</sub> | Produção de fumo ‘s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>’ e gotas ou partículas inflamadas ‘d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>’ |
-| D<sub>L</sub> | FIGRA, THR<sub>600s</sub> e F<sub>s</sub> | Produção de fumo ‘s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>’ e gotas ou partículas inflamadas ‘d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>’ |
-| E<sub>L</sub> | F<sub>s</sub> | Gotículas ou partículas inflamadas ‘não classificado ou d<sub>2</sub>’ |
-| F<sub>L</sub> | Desempenho não determinado | Desempenho não determinado |
+| A1L | ΔT, Δm, tf e PCS |  |
+| A2L | ΔT, Δm, tf, PCS, FIGRA, LFS e THR600s | Produção de fumo ‘s1, s2 ou s3’ e gotas ou partículas inflamadas ‘d0, d1 ou d2’ |
+| BL | FIGRA, LFS, THR600s e Fs | Produção de fumo ‘s1, s2 ou s3’ e gotas ou partículas inflamadas ‘d0, d1 ou d2’ |
+| CL | FIGRA, LFS, THR600s e Fs | Produção de fumo ‘s1, s2 ou s3’ e gotas ou partículas inflamadas ‘d0, d1 ou d2’ |
+| DL | FIGRA, THR600s e Fs | Produção de fumo ‘s1, s2 ou s3’ e gotas ou partículas inflamadas ‘d0, d1 ou d2’ |
+| EL | Fs | Gotículas ou partículas inflamadas ‘não classificado ou d2’ |
+| FL | Desempenho não determinado |  |
 
-## ANEXO II — (a que se refere o n.º 4 do artigo 9.º)
+ANEXO II
+
+(a que se refere o n.º 4 do artigo 9.º)
 
 Classes de resistência ao fogo padrão para produtos de construção
 
@@ -957,24 +1026,24 @@ Aplicação: paredes
 
 Normas: EN 13501-2; EN 1365-1; EN 1992-1.2; EN 1993-1.2; EN 1994-1.2; EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RE | – | 20 | 30 | – | 60 | 90 | 120 | 180 | 240 | 360 |
 | REI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | 360 |
 | REI-M | – | – | 30 | – | 60 | 90 | 120 | 180 | 240 | 360 |
 | REW | – | 20 | 30 | – | 60 | 90 | 120 | 180 | 240 | 360 |
-| Notas | - | - | - | - | - | - | - | - | - | - |
+| Notas | - |  |  |  |  |  |  |  |  |  |
 
 Aplicação: pavimentos e coberturas
 
 Normas: EN 13501-2; EN 1365-2; EN 1992-1.2; EN 1993-1.2;EN 1994-1.2; EN 1995-1.2; EN 1999-1.2
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | R | – | – | 30 | – | – | – | – | – | – | – |
 | RE | – | 20 | 30 | – | 60 | 90 | 120 | 180 | 240 | 360 |
 | REI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | 360 |
-| Notas | - | - | - | - | - | - | - | - | - | - |
+| Notas | - |  |  |  |  |  |  |  |  |  |
 
 QUADRO III
 
@@ -1002,51 +1071,51 @@ Aplicação: divisórias, ‘incluindo divisórias com porções não isoladas�
 
 Normas: EN 13501-2; EN 1364-1; EN 1992-1.2; EN 1993-1.2; EN 1994-1.2; EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | – | 20 | 30 | – | 60 | 90 | 120 | – | – | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EI-M | – | – | 30 | – | 60 | 90 | 120 | 180 | 240 | – |
 | EW | – | 20 | 30 | – | 60 | 90 | 120 | – | – | – |
-| Notas | - | - | - | - | - | - | - | - | - | - |
+| Notas | - |  |  |  |  |  |  |  |  |  |
 
 Aplicação: tetos com resistência independente ao fogo
 
 Normas: EN 13501-2; EN 1364-2
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EI | 15 | – | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
-| Notas | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. |
+| Notas | A classificação é complementada por ‘a→b, b→a ou a↔b’, indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: fachadas e paredes exteriores, ‘incluindo elementos envidraçados’
 
 Normas: EN 13501-2; EN 1364-3, 4, 5, 6; EN 1992-1.2; EN 1993-1.2;EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | 15 | – | 30 | – | 60 | 90 | 120 |  |  |  |
 | EI | 15 | – | 30 | – | 60 | 90 | 120 |  |  |  |
 | EW | – | 20 | 30 | – | 60 | – | – |  |  |  |
-| Notas | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. |
+| Notas | A classificação é complementada por ‘i→o, o→i ou i↔o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: pisos falsos
 
 Normas: EN 13501-2; EN 1366-6
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | R | 15 | – | 30 | – | – | – | – | – | – | – |
 | RE | – | – | 30 | – | – | – | – | – | – | – |
 | REI | – | – | 30 | – | – | – | – | – | – | – |
 | REW | – | – | 30 | – | – | – | – | – | – | – |
-| Notas | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. |
+| Notas | A classificação é complementada pela adição do sufixo ‘f’, indicando resistência total ao fogo, ou do sufixo ‘r’, indicando exposição apenas à temperatura constante reduzida. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: vedações de aberturas de passagem de cabos e tubagens
 
 Normas: EN 13501-2; EN 1366-3, 4
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | 15 | – | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
@@ -1055,43 +1124,43 @@ Aplicação: portas e portadas corta-fogo e respetivos dispositivos de fecho, �
 
 Normas: EN 13501-2; EN 1634-1
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EW | – | 20 | 30 | - | 60 | – | – | – | – | – |
-| Notas | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. |
+| Notas | A classificação i é complementada pela adição dos sufixos ‘1’ ou ‘2’ consoante a definição do isolamento utilizada. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ (1).(1) A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: portas de controlo do fumo
 
 Normas: EN 13501-2; EN 1634-3
 
-Classificação - S<sub>200</sub> ou S<sub>a</sub> (consoante as condições de ensaio cumpridas).
+Classificação - S200 ou Sa (consoante as condições de ensaio cumpridas).
 
-Nota. - A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.
+Nota. - A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ (1).
 
-<sup>(1)</sup> A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada; os pormenores devem ser incluídos na especificação técnica relevante do produto.
+(1) A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada; os pormenores devem ser incluídos na especificação técnica relevante do produto.
 
 Aplicação: obturadores para sistemas de transporte contínuo por correias e carris
 
 Normas: EN 13501-2; EN 1366-7
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | 15 | – | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EW | – | 20 | 30 | – | 60 | – | – | – | – | – |
-| Notas | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup>A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup>A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup>A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup>A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup>A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup>A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup>A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup>A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup>A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ <sup>(1)</sup>.<sup>(1)</sup>A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. |
+| Notas | A classificação i é completada pela adição dos sufixos ‘1’ ou ‘2’, conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo ‘C’ indica que o produto satisfaz também o critério de fecho automático ‘ensaio pass/fail’ (1).(1)A classificação ‘C’ deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: condutas e ductos
 
 Normas: EN 13501-2; EN 1366-5
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | - |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | - |
-| Notas | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. |
+| Notas | A classificação é complementada por ‘i→o, o→i ou i o’, consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos ‘ve’ e ou ‘ho’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: chaminés
 
@@ -1101,11 +1170,11 @@ Aplicação: revestimentos para paredes e coberturas
 
 Normas: EN 13501-2; EN 14135
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| K<sub>1</sub> | 10 | – | – | – | – | – | – | – | – | – |
-| K<sub>2</sub> | 10 | – | 30 | – | 60 | – | – | – | – | – |
-| Notas | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. |
+| K1 | 10 | – | – | – | – | – | – | – | – | – |
+| K2 | 10 | – | 30 | – | 60 | – | – | – | – | – |
+| Notas | Os sufixos ‘1’ e ‘2’ indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. |  |  |  |  |  |  |  |  |  |
 
 QUADRO V
 
@@ -1115,21 +1184,21 @@ Aplicação: condutas de ventilação
 
 Normas: EN 13501-3; EN 1366-1
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | – | – | 30 | – | 60 | – | – | – | – | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
-| Notas | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. |
+| Notas | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘ve’ e ou ‘ho’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: registos corta-fogo
 
 Normas: EN 13501-3; EN 1366-2
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
-| Notas | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘v<sub>e</sub>’ e ou ‘h<sub>o</sub>’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. |
+| Notas | A classificação é complementada por ‘i→o, o→i ou i o’ consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos ‘ve’ e ou ‘ho’ indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo ‘S’ indica o cumprimento de uma restrição suplementar às fugas. |  |  |  |  |  |  |  |  |  |
 
 QUADRO VI
 
@@ -1139,27 +1208,29 @@ Aplicação: cabos elétricos e de fibra ótica e acessórios; tubos e sistemas 
 
 Norma: EN 13501-3
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | P | 15 | – | 30 | – | 60 | 90 | 120 | – | – | – |
 
-Aplicação: cabos ou sistemas de energia ou sinal com pequeno diâmetro ‘menos de 20 mm e com condutores de menos de 2,50 mm<sup>2</sup>’
+Aplicação: cabos ou sistemas de energia ou sinal com pequeno diâmetro ‘menos de 20 mm e com condutores de menos de 2,50 mm2’
 
 Normas: EN 13501-3; EN 50200
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PH | 15 | – | 30 | – | 60 | 90 | 120 | – | – | – |
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 QUADRO I
 
 [...]
 
-| Categoria | Altura da UT I | Número de pisos ocupados pela UT I abaixo do plano de referência (*) |
+| Categoria | Valores máximos referentes à utilização-tipo i |  |
 | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo i | Valores máximos referentes à utilização-tipo i |
+| Altura da UT I | Número de pisos ocupados pela UT I abaixo do plano de referência (*) |  |
 | 1.ª | ≤ 9 m | ≤ 1 |
 | 2.ª | ≤ 28 m | ≤ 3 |
 | 3.ª | ≤ 50 m | ≤ 5 |
@@ -1171,14 +1242,14 @@ QUADRO II
 
 [...]
 
-| Categoria | Altura da UT II | Área bruta ocupada pela UT II | Número de pisos ocupados pela UT II abaixo do plano de referência (*) | Ao ar livre |
+| Categoria | Valores máximos referentes à utilização-tipo ii, quando integrada em edifício | Ao ar livre |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo ii, quando integrada em edifício | Valores máximos referentes à utilização-tipo ii, quando integrada em edifício | Valores máximos referentes à utilização-tipo ii, quando integrada em edifício | Ao ar livre |
-| 1.ª | – | – | – | Sim |
-| 1.ª | ≤ 9m | ≤ 3 200 m<sup>2</sup> | ≤1 | Não |
-| 2.ª | ≤ 28m | ≤ 9 600 m<sup>2</sup> | ≤3 | Não |
-| 3.ª | ≤ 28m | ≤ 32 000 m<sup>2</sup> | ≤5 | Não |
-| 4.ª | > 28m | > 32 000 m<sup>2</sup> | >5 | Não |
+| Altura da UT II | Área bruta ocupada pela UT II | Número de pisos ocupados pela UT II abaixo do plano de referência (*) |  |  |
+| 1.ª | – | Sim |  |  |
+| ≤ 9m | ≤ 3 200 m2 | ≤1 | Não |  |
+| 2.ª | ≤ 28m | ≤ 9 600 m2 | ≤3 | Não |
+| 3.ª | ≤ 28m | ≤ 32 000 m2 | ≤5 | Não |
+| 4.ª | > 28m | > 32 000 m2 | >5 | Não |
 
 (*) Não são contabilizados os pisos destinados exclusivamente a instalações e equipamentos técnicos que apenas impliquem a presença de pessoas para fins de manutenção e reparação, e/ou que disponham de instalações sanitárias.
 
@@ -1186,9 +1257,9 @@ QUADRO III
 
 [...]
 
-| Categoria | Altura da UT III | Efetivo da UT III |
+| Categoria | Valores máximos referentes à utilização-tipo iii |  |
 | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo iii | Valores máximos referentes à utilização-tipo iii |
+| Altura da UT III | Efetivo da UT III |  |
 | 1.ª | ≤ 9 m | ≤ 100 |
 | 2.ª | ≤ 28 m | ≤ 1 000 |
 | 3.ª | ≤ 50 m | ≤ 5 000 |
@@ -1198,10 +1269,10 @@ QUADRO IV
 
 [...]
 
-| Categoria | Altura da UT IV ou V | Efetivo | Efetivo em locais de risco D ou E | Locais de risco D com saídas independentes diretas ao exterior no plano de referência |
+| Categoria | Valores máximos referentes à utilização-tipo iv e v | Locais de risco D com saídas independentes diretas ao exterior no plano de referência |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo iv e v | Valores máximos referentes à utilização-tipo iv e v | Valores máximos referentes à utilização-tipo iv e v | Locais de risco D com saídas independentes diretas ao exterior no plano de referência |
-| Categoria | Altura da UT IV ou V | Efetivo da UT IV ou V | Efetivo da UT IV ou V | Locais de risco D com saídas independentes diretas ao exterior no plano de referência |
+| Altura da UT IV ou V | Efetivo da UT IV ou V |  |  |  |
+| Efetivo | Efetivo em locais de risco D ou E |  |  |  |
 | 1.ª | ≤ 9 m | ≤ 100 | ≤ 25 | Aplicável a todos |
 | 2.ª | ≤ 9 m | ≤ 500(*) | ≤ 100 | Não aplicável |
 | 3.ª | ≤ 28 m | ≤ 1 500(*) | ≤ 400 | Não aplicável |
@@ -1213,17 +1284,17 @@ QUADRO V
 
 [...]
 
-| Categoria | Altura da UT VI ou IX | Número de pisos ocupados pela UT VI ou IX abaixo do plano de referência (*) | Efetivo da UT VI ou IX | Efetivo da UT VI ou IX |
-| --- | --- | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo vi e ix quando integradas em edifícios | Valores máximos referentes à utilização-tipo vi e ix quando integradas em edifícios | Valores máximos referentes à utilização-tipo vi e ix quando integradas em edifícios | Ao ar livre |
-| 1.ª | – | – | – | ≤ 1 000 |
-| 1.ª | ≤ 9 m | 0 | ≤ 100 | – |
-| 2.ª | – | – | – | ≤ 15 000 |
-| 2.ª | ≤ 28 m | ≤ 1 | ≤ 1 000 | – |
-| 3.ª | – | – | – | ≤ 40 000 |
-| 3.ª | ≤ 28 m | ≤ 2 | ≤ 5 000 | – |
-| 4.ª | – | – | – | > 40 000 |
-| 4.ª | > 28 m | > 2 | > 5 000 | – |
+| Categoria | Valores máximos referentes à utilização-tipo vi e ix quando integradas em edifícios | Ao ar livre |  |
+| --- | --- | --- | --- |
+| Altura da UT VI ou IX | Número de pisos ocupados pela UT VI ou IX abaixo do plano de referência (*) | Efetivo da UT VI ou IX | Efetivo da UT VI ou IX |
+| 1.ª | – | ≤ 1 000 |  |
+| ≤ 9 m | 0 | ≤ 100 | – |
+| 2.ª | – | ≤ 15 000 |  |
+| ≤ 28 m | ≤ 1 | ≤ 1 000 | – |
+| 3.ª | – | ≤ 40 000 |  |
+| ≤ 28 m | ≤ 2 | ≤ 5 000 | – |
+| 4.ª | – | > 40 000 |  |
+| > 28 m | > 2 | > 5 000 | – |
 
 (*) Não são contabilizados os pisos destinados exclusivamente a instalações e equipamentos técnicos que apenas impliquem a presença de pessoas para fins de manutenção e reparação, e/ou que disponham de instalações sanitárias.
 
@@ -1231,10 +1302,10 @@ QUADRO VI
 
 [...]
 
-| Categoria | Valores máximos referentes à utilização-tipo vii | Valores máximos referentes à utilização-tipo vii | Valores máximos referentes à utilização-tipo vii | Locais de risco E com saídas independentes diretas ao exterior no plano de referência |
+| Categoria | Valores máximos referentes à utilização-tipo vii | Locais de risco E com saídas independentes diretas ao exterior no plano de referência |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria | Altura da UT VII | Efetivo da UT VII | Efetivo da UT VII | Locais de risco E com saídas independentes diretas ao exterior no plano de referência |
-| Categoria | Altura da UT VII | Efetivo | Efetivo em locais de risco E | Locais de risco E com saídas independentes diretas ao exterior no plano de referência |
+| Altura da UT VII | Efetivo da UT VII |  |  |  |
+| Efetivo | Efetivo em locais de risco E |  |  |  |
 | 1.ª | ≤ 9 m | ≤ 100 | ≤ 50 | Aplicável a todos |
 | 2.ª | ≤ 28 m | ≤ 500 | ≤ 200 | Não aplicável |
 | 3.ª | ≤ 28 m | ≤ 1 500 | ≤ 800 | Não aplicável |
@@ -1244,9 +1315,9 @@ QUADRO VII
 
 [...]
 
-| Categoria | Valores máximos referentes à utilização-tipo viii | Valores máximos referentes à utilização-tipo viii | Valores máximos referentes à utilização-tipo viii |
+| Categoria | Valores máximos referentes à utilização-tipo viii |  |  |
 | --- | --- | --- | --- |
-| Categoria | Altura da UT VIII | Número de pisos ocupados pela UT VIII abaixo do plano de referência (*) | Efetivo da UT VIII |
+| Altura da UT VIII | Número de pisos ocupados pela UT VIII abaixo do plano de referência (*) | Efetivo da UT VIII |  |
 | 1.ª | ≤ 9 m | 0 | ≤ 100 |
 | 2.ª | ≤ 28 m | ≤ 1 | ≤ 1 000 |
 | 3.ª | ≤ 28 m | ≤ 2 | ≤ 5 000 |
@@ -1258,9 +1329,9 @@ QUADRO VIII
 
 [...]
 
-| Categoria | Altura da UT X | Efetivo da UT X |
+| Categoria | Valores máximos referentes à utilização-tipo x |  |
 | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo x | Valores máximos referentes à utilização-tipo x |
+| Altura da UT X | Efetivo da UT X |  |
 | 1.ª | ≤ 9 m | ≤ 100 |
 | 2.ª | ≤ 28 m | ≤ 500 |
 | 3.ª | ≤ 28 m | ≤ 1 500 |
@@ -1270,13 +1341,13 @@ QUADRO IX
 
 [...]
 
-| Categoria | Altura da UT XI | Número de pisos ocupados pela UT XI abaixo do plano de referência (*) | Efetivo da UT XI | Densidade de carga de incêndio modificada da UT XI (**) |
+| Categoria | Valores máximos referentes à utilização-tipo xi |  |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo xi | Valores máximos referentes à utilização-tipo xi | Valores máximos referentes à utilização-tipo xi | Valores máximos referentes à utilização-tipo xi |
-| 1.ª | ≤ 9 m | 0 | ≤ 100 | ≤ 1 000 MJ/m<sup>2</sup> |
-| 2.ª | ≤ 28 m | ≤ 1 | ≤ 500 | ≤ 10 000 MJ/m<sup>2</sup> |
-| 3.ª | ≤ 28 m | ≤ 2 | ≤ 1 500 | ≤ 30 000 MJ/m<sup>2</sup> |
-| 4.ª | >28m | >2 | >1 500 | > 30 000 MJ/m<sup>2</sup> |
+| Altura da UT XI | Número de pisos ocupados pela UT XI abaixo do plano de referência (*) | Efetivo da UT XI | Densidade de carga de incêndio modificada da UT XI (**) |  |
+| 1.ª | ≤ 9 m | 0 | ≤ 100 | ≤ 1 000 MJ/m2 |
+| 2.ª | ≤ 28 m | ≤ 1 | ≤ 500 | ≤ 10 000 MJ/m2 |
+| 3.ª | ≤ 28 m | ≤ 2 | ≤ 1 500 | ≤ 30 000 MJ/m2 |
+| 4.ª | >28m | >2 | >1 500 | > 30 000 MJ/m2 |
 
 (*) Não são contabilizados os pisos destinados exclusivamente a instalações e equipamentos técnicos que apenas impliquem a presença de pessoas para fins de manutenção e reparação, e/ou que disponham de instalações sanitárias.
 
@@ -1286,24 +1357,28 @@ QUADRO X
 
 [...]
 
-| Categoria | Valores máximos referentes à utilização-tipo xii | Valores máximos referentes à utilização-tipo xii | Valores máximos referentes à utilização-tipo xii |
+| Categoria | Valores máximos referentes à utilização-tipo xii |  |  |
 | --- | --- | --- | --- |
-| Categoria | Integrada em edifício | Integrada em edifício | Ao ar livre |
-| Categoria | Densidade de carga de incêndio modificada da UT XII (**) | Número de pisos ocupados pela UT XII abaixo do plano de referência (*) | Densidade de carga de incêndio modificada da UT XII (**) |
-| 1.ª | ≤ 500 MJ/m<sup>2</sup> | 0 | ≤ 1 000 MJ/m<sup>2</sup> |
-| 2.ª | ≤ 5 000 MJ/m<sup>2</sup> | ≤ 1 | ≤ 10 000 MJ/m<sup>2</sup> |
-| 3.ª | ≤ 15 000 MJ/m<sup>2</sup> | ≤ 1 | ≤ 30 000 MJ/m<sup>2</sup> |
-| 4.ª | > 15 000 MJ/m<sup>2</sup> | > 1 | > 30 000 MJ/m<sup>2</sup> |
+| Integrada em edifício | Ao ar livre |  |  |
+| Densidade de carga de incêndio modificada da UT XII (**) | Número de pisos ocupados pela UT XII abaixo do plano de referência (*) | Densidade de carga de incêndio modificada da UT XII (**) |  |
+| 1.ª | ≤ 500 MJ/m2 | 0 | ≤ 1 000 MJ/m2 |
+| 2.ª | ≤ 5 000 MJ/m2 | ≤ 1 | ≤ 10 000 MJ/m2 |
+| 3.ª | ≤ 15 000 MJ/m2 | ≤ 1 | ≤ 30 000 MJ/m2 |
+| 4.ª | > 15 000 MJ/m2 | > 1 | > 30 000 MJ/m2 |
 
 (*) Não são contabilizados os pisos destinados exclusivamente a instalações e equipamentos técnicos que apenas impliquem a presença de pessoas para fins de manutenção e reparação, e/ou que disponham de instalações sanitárias.
 
 (**) Nas utilizações-tipo xii, destinadas exclusivamente a armazéns, os limites máximos da densidade de carga de incêndio modificada devem ser 10 vezes superiores aos indicados neste quadro.
 
-## ANEXO IV — (a que se refere o n.º 1 do artigo 17.º)
+ANEXO IV
+
+(a que se refere o n.º 1 do artigo 17.º)
 
 Elementos do projeto da especialidade de SCIE, exigido para os edifícios e recintos
 
-###### Artigo 1.º — [...]
+Artigo 1.º
+
+[...]
 
 [...]
 
@@ -1313,11 +1388,15 @@ b) [...]
 
 c) Tratando-se de projetos de alteração, as peças desenhadas mencionadas na alínea anterior devem incluir a representação das alterações de arquitetura com as cores convencionais (amarelos e vermelhos).
 
-## ANEXO V — (a que se refere o n.º 2 do artigo 17.º)
+ANEXO V
+
+(a que se refere o n.º 2 do artigo 17.º)
 
 Fichas de segurança
 
-###### Artigo 1.º — [...]
+Artigo 1.º
+
+[...]
 
 1 - As fichas de segurança referidas no n.º 2 do artigo 17.º do presente diploma, aplicáveis às utilizações-tipo dos edifícios e recintos da 1.ª categoria de risco, devem ser elaboradas com base em modelos a definir exclusivamente pelo SRPCBA.
 
@@ -1325,7 +1404,9 @@ Fichas de segurança
 
 3 - As câmaras municipais devem ser notificadas, oportunamente, quer das versões iniciais quer das futuras atualizações das fichas de segurança.
 
-###### Artigo 2.º — Conteúdo das fichas de segurança
+Artigo 2.º
+
+Conteúdo das fichas de segurança
 
 1 - As fichas de segurança devem conter uma parte escrita com referência aos seguintes aspetos:
 
@@ -1371,74 +1452,74 @@ Aplicação: condutas de controlo de fumos de compartimento único
 
 Normas: EN 13501-4; EN 1363-1, 2, ENV 1363-3; EN 1366-9; EN 12101-7
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| E<sub>300</sub> | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| E<sub>600</sub> | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| Notas | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. |
+| E300 | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
+| E600 | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
+| Notas | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos ‘ve’ e/ou ‘ho’ indicam a compatibilidade com a utilização vertical e/ou horizontal.O ‘S’ indica uma taxa de passagem inferior a 5 m3/hr/m2. (Todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m3/hr/m2.)‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: condutas de controlo de fumos resistentes ao fogo multicompartimentadas
 
 Normas: EN 13501-4; EN 1363-1, 2, ENV 1363-3; EN 1366-8; EN 12101-7
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EI | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| Notas | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘v<sub>e</sub>’ e/ou ‘h<sub>o</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. |
+| Notas | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos ‘ve’ e/ou ‘ho’ indicam a compatibilidade com a utilização vertical e/ou horizontal. O ‘S’ indica uma taxa de passagem inferior a 5 m3/hr/m2 (todas as condutas desprovidas da classificação ‘S’ devem ter uma taxa de passagem inferior a 10 m3/hr/m2).‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: registos de controlo de fumos de compartimento único
 
 Normas: EN 13501-4; EN 1363-1, ENV 1363-3; EN 1366-9, 10; EN 12101-8
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| E<sub>300</sub> | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| E<sub>600</sub> | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| Notas | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. |
+| E300 | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
+| E600 | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
+| Notas | A classificação é completada pelo sufixo ‘único’, indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). ‘ved’, ‘vew’ e ‘vedw’ e/ou ‘hod’, ‘how’ e ‘hodw’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O ‘S’ indica uma taxa de passagem inferior a 200 m3/hr/m2. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m3/hr/m2. Todos os registos inferiores a 200 m3/hr/m2 assumem este valor, todos aqueles entre 200 m3/hr/m2 e 360 m3/hr/m2 assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→ ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C300’, ‘C10000’ e ‘Cmod’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: registos de controlo de fumos resistentes ao fogo multicompartimentados
 
 Normas: EN 13501-4; EN 1363-1, 2, ENV 1363-3; EN 1366-2, 8, 10; EN 12101-8
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EI | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
 | E | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| Notas | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘v<sub>ed</sub>’, ‘v<sub>ew</sub>’ e ‘v<sub>edw</sub>’ e/ou ‘h<sub>od</sub>’, ‘h<sub>ow</sub>’ e ‘h<sub>odw</sub>’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C<sub>300</sub>’, ‘C<sub>10000</sub>’ e ‘C<sub>mod</sub>’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. |
+| Notas | A classificação é completada pelo sufixo ‘multi’, indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400°C (a utilizar apenas com a classificação E600). ‘ved’, ‘vew’ e ‘vedw’ e/ou ‘hod’, ‘how’ e ‘hodw’ indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente.O ‘S’ indica uma taxa de passagem inferior a 200 m3/hr/m2. Todos os registos desprovidos da classificação ‘S’ devem ter uma taxa de passagem inferior a 360 m3/hr/m2. Todos os registos inferiores a 200 m3/hr/m2 assumem este valor, todos aqueles entre 200 m3/hr/m2 e 360 m3/hr/m2 assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.‘500’, ‘1 000’ e ‘1 500’ indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.‘AA’ ou ‘MA’ indicam ativação automática ou intervenção manual.‘i→o, o→i ou i↔o’ indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.‘C300’, ‘C10000’ e ‘Cmod’ indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: barreiras antifumo
 
 Normas: EN 13501-4; EN 1363-1, 2; EN 12101-1
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| D<sub>60</sub> | – | – | 30 | – | 60 | 90 | 120 | – | – | A |
+| D60 | – | – | 30 | – | 60 | 90 | 120 | – | – | A |
 | DH | – | – | 30 | – | 60 | 90 | 120 | – | – | A |
-| Notas | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. |
+| Notas | ‘A’ pode ser qualquer tempo superior a 120 minutos. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: exaustores elétricos de fumo e de calor (ventiladores), juntas de ligação
 
 Normas: EN 13501-4; EN 1363-1; EN 12101-3; ISO 834-1
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| F<sub>200</sub> | – | – | – | – | – | – | 120 | – | – | – |
-| F<sub>300</sub> | – | – | – | – | 60 | – | – | – | – | – |
-| F<sub>400</sub> | – | – | – | – | – | 90 | 120 | – | – | – |
-| F<sub>600</sub> | – | – | – | – | 60 | – | – | – | – | – |
-| F<sub>842</sub> | – | – | 30 | – | – | – | – | – | – | – |
-| Notas | - | - | - | - | - | - | - | - | - | - |
+| F200 | – | – | – | – | – | – | 120 | – | – | – |
+| F300 | – | – | – | – | 60 | – | – | – | – | – |
+| F400 | – | – | – | – | – | 90 | 120 | – | – | – |
+| F600 | – | – | – | – | 60 | – | – | – | – | – |
+| F842 | – | – | 30 | – | – | – | – | – | – | – |
+| Notas | - |  |  |  |  |  |  |  |  |  |
 
 Aplicação: exaustores naturais de fumo e de calor
 
 Normas: EN 13501-4; EN 1363-1; EN 12101-2
 
-| Classificação | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ | Duração ‘em minutos’ |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| B<sub>300</sub> | – | – | 30 | – | – | – | – | – | – | – | – |
-| B<sub>600</sub> | – | – | 30 | – | – | – | – | – | – | – | – |
-| B<sub>ϑ</sub> | – | – | 30 | – | – | – | – | – | – | – | – |
-| Notas | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | » |
+| Classificação | Duração ‘em minutos’ |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| B300 | – | – | 30 | – | – | – | – | – | – | – |
+| B600 | – | – | 30 | – | – | – | – | – | – | – |
+| Bϑ | – | – | 30 | – | – | – | – | – | – | – |
+| Notas | ϑ indica as condições de exposição (temperatura) | » |  |  |  |  |  |  |  |  |
 
 ###### Artigo 4.º — Norma transitória
 
@@ -1460,11 +1541,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de fevereiro de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 18 de março de 2025.**
+Assinado em Angra do Heroísmo em 18 de março de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1558,7 +1639,7 @@ t) «Utilização-tipo», a classificação dada pelo uso dominante de qualquer 
 
 a) Os edifícios, ou suas frações autónomas, qualquer que seja a utilização e respetiva envolvente;
 
-b) Os edifícios de apoio a instalações de armazenamento de produtos de petróleo e a instalações de postos de abastecimento de combustíveis, tais como estabelecimentos de restauração, comerciais e oficinas, regulados pelos Decretos-Leis n.<sup>os</sup>302/2001, de 23 de novembro, e 267/2002, de 26 de novembro, alterado pelos Decretos-Leis n.<sup>os</sup>389/2007, de 30 de novembro, 31/2008, de 25 de fevereiro, 195/2008, de 6 de outubro, e 217/2012, de 9 de outubro, e pela Lei n.º 15/2015, de 16 de fevereiro;
+b) Os edifícios de apoio a instalações de armazenamento de produtos de petróleo e a instalações de postos de abastecimento de combustíveis, tais como estabelecimentos de restauração, comerciais e oficinas, regulados pelos Decretos-Leis n.os302/2001, de 23 de novembro, e 267/2002, de 26 de novembro, alterado pelos Decretos-Leis n.os389/2007, de 30 de novembro, 31/2008, de 25 de fevereiro, 195/2008, de 6 de outubro, e 217/2012, de 9 de outubro, e pela Lei n.º 15/2015, de 16 de fevereiro;
 
 c) Os recintos permanentes;
 
@@ -1622,7 +1703,7 @@ c) Das entidades gestoras no caso de edifícios ou recintos que disponham de esp
 
 ###### Artigo 7.º — Responsabilidade pelas condições exteriores de SCIEA
 
-Sem prejuízo das atribuições próprias das entidades públicas, as entidades referidas nos n.<sup>os</sup>3 e 4 do artigo anterior são responsáveis pela manutenção das condições exteriores de SCIEA, nomeadamente no que se refere às redes de hidrantes exteriores e às vias de acesso ou estacionamento dos veículos de socorro, nas condições previstas no presente diploma e respetiva regulamentação, quando as mesmas se situem em domínio privado.
+Sem prejuízo das atribuições próprias das entidades públicas, as entidades referidas nos n.os3 e 4 do artigo anterior são responsáveis pela manutenção das condições exteriores de SCIEA, nomeadamente no que se refere às redes de hidrantes exteriores e às vias de acesso ou estacionamento dos veículos de socorro, nas condições previstas no presente diploma e respetiva regulamentação, quando as mesmas se situem em domínio privado.
 
 ### CAPÍTULO II — CARACTERIZAÇÃO DOS EDIFÍCIOS E RECINTOS
 
@@ -1666,7 +1747,7 @@ ii) 20 % da área bruta afeta às utilizações-tipo viii, x e xii.
 
 b) Espaços de reunião, culto religioso, conferências e palestras, ou onde se possam ministrar ações de formação, desenvolver atividades desportivas ou de lazer e, ainda, os estabelecimentos de restauração e bebidas, desde que esses espaços sejam geridos sob a responsabilidade das entidades exploradoras de utilizações-tipo iii a xii e o seu efetivo não seja superior a duzentas pessoas, em edifícios, ou a mil pessoas, ao ar livre;
 
-c) Espaços comerciais, oficinas, de bibliotecas e de exposição, bem como os postos médicos, de socorros e de enfermagem, desde que sejam geridos sob a responsabilidade das entidades exploradoras de utilizações-tipo iii a xii e possuam uma área útil não superior a 200 m<sup>2</sup>.
+c) Espaços comerciais, oficinas, de bibliotecas e de exposição, bem como os postos médicos, de socorros e de enfermagem, desde que sejam geridos sob a responsabilidade das entidades exploradoras de utilizações-tipo iii a xii e possuam uma área útil não superior a 200 m2.
 
 ###### Artigo 9.º — Produtos de construção
 
@@ -1684,7 +1765,7 @@ c) Espaços comerciais, oficinas, de bibliotecas e de exposição, bem como os p
 
 7 - Os elementos de construção não abrangidos pelo Regulamento (UE) n.º 305/2011, do Parlamento Europeu e do Conselho, de 9 de março de 2011, na sua redação atual, para os quais o presente diploma impõe exigências de resistência ao fogo, devem possuir relatórios de classificação emitidos por organismos acreditados para aquele âmbito pelo Instituto Português de Acreditação, I. P., ou por outro organismo nacional de acreditação na aceção do Regulamento (CE) n.º 765/2008, de 9 de julho de 2008, na sua redação atual, que seja signatário do acordo de reconhecimento mútuo da infraestrutura europeia de acreditação.
 
-8 - É também aceitável, para além do previsto nos n.<sup>os</sup>6 e 7, recorrer a verificação de resistência ao fogo por métodos de cálculo constantes de códigos europeus, ou a tabelas constantes dos códigos europeus, ou a tabelas publicadas pelas entidades referidas nesses mesmos números.
+8 - É também aceitável, para além do previsto nos n.os6 e 7, recorrer a verificação de resistência ao fogo por métodos de cálculo constantes de códigos europeus, ou a tabelas constantes dos códigos europeus, ou a tabelas publicadas pelas entidades referidas nesses mesmos números.
 
 ###### Artigo 10.º — Classificação dos locais de risco
 
@@ -1734,11 +1815,11 @@ e) Lavandarias ou engomadorias em que sejam instalados aparelhos, ou grupos de a
 
 f) Instalações de frio para conservação, cujos aparelhos possuam potência útil total superior a 70 kW;
 
-g) Arquivos, depósitos, armazéns e arrecadações de produtos ou material diverso, com volume de compartimento superior a 100 m<sup>3</sup>;
+g) Arquivos, depósitos, armazéns e arrecadações de produtos ou material diverso, com volume de compartimento superior a 100 m3;
 
-h) Reprografias com área superior a 50 m<sup>2</sup>;
+h) Reprografias com área superior a 50 m2;
 
-i) Locais de recolha de contentores ou de compactadores de lixo com capacidade total superior a 10 m<sup>3</sup>;
+i) Locais de recolha de contentores ou de compactadores de lixo com capacidade total superior a 10 m3;
 
 j) Locais afetos a serviços técnicos em que sejam instalados equipamentos elétricos, eletromecânicos ou térmicos com potência útil total superior a 70 kW;
 
@@ -1746,7 +1827,7 @@ k) Locais de pintura e aplicação de vernizes em que sejam utilizados produtos 
 
 l) Centrais de incineração;
 
-m) Locais cobertos de estacionamento de veículos com área bruta compreendida entre 50 m<sup>2</sup> e 200 m<sup>2</sup>, com exceção dos estacionamentos individuais, em edifícios destinados à utilização-tipo referida na alínea a) do n.º 1 do artigo 8.º;
+m) Locais cobertos de estacionamento de veículos com área bruta compreendida entre 50 m2 e 200 m2, com exceção dos estacionamentos individuais, em edifícios destinados à utilização-tipo referida na alínea a) do n.º 1 do artigo 8.º;
 
 n) Outros locais que possuam uma carga de incêndio modificada superior a 10 000 MJ, associada à presença de materiais facilmente inflamáveis e, ainda, os que comportem riscos de explosão.
 
@@ -1802,7 +1883,7 @@ a) Espaços em anfiteatro, onde a diferença de cotas pode corresponder à médi
 
 b) Plataformas de embarque afetas à utilização-tipo viii.
 
-3 - A afetação dos espaços interiores de um edifício a locais de risco C, desde que os mesmos possuam volume superior a 600 m<sup>3</sup>, ou carga de incêndio modificada superior a 20 000 MJ, ou potência instalada dos seus equipamentos elétricos e eletromecânicos superior a 250 kW, ou alimentados a gás superior a 70 kW, ou constituam locais de produção, depósito, armazenagem ou manipulação de líquidos inflamáveis em quantidade superior a 100 l, atribui a esses espaços a classificação de locais de risco C agravado, devendo respeitar as seguintes regras:
+3 - A afetação dos espaços interiores de um edifício a locais de risco C, desde que os mesmos possuam volume superior a 600 m3, ou carga de incêndio modificada superior a 20 000 MJ, ou potência instalada dos seus equipamentos elétricos e eletromecânicos superior a 250 kW, ou alimentados a gás superior a 70 kW, ou constituam locais de produção, depósito, armazenagem ou manipulação de líquidos inflamáveis em quantidade superior a 100 l, atribui a esses espaços a classificação de locais de risco C agravado, devendo respeitar as seguintes regras:
 
 a) Situar-se sempre que possível ao nível do plano de referência e na periferia do edifício;
 
@@ -1912,7 +1993,7 @@ As condições técnicas gerais e específicas de segurança contra incêndio em
 
 3 - As inspeções classificam-se em regulares e extraordinárias.
 
-4 - As inspeções regulares são obrigatórias e devem ser realizadas, a pedido das entidades responsáveis a que se referem os n.<sup>os</sup>3 e 4 do artigo 6.º, nos seguintes prazos máximos:
+4 - As inspeções regulares são obrigatórias e devem ser realizadas, a pedido das entidades responsáveis a que se referem os n.os3 e 4 do artigo 6.º, nos seguintes prazos máximos:
 
 a) Seis anos, no caso da 1.ª categoria de risco;
 
@@ -1924,19 +2005,19 @@ d) Três anos, no caso da 4.ª categoria de risco.
 
 5 - Excetuam-se do disposto no número anterior os edifícios ou recintos e suas frações das utilizações-tipo i, ii, iii, vi, vii, viii, ix, x, xi e xii da 1.ª categoria de risco e os edifícios de utilização exclusiva da utilização-tipo i da 2.ª categoria de risco.
 
-6 - A primeira inspeção regular deve ser solicitada, pelas entidades responsáveis a que se referem os n.<sup>os</sup>3 e 4 do artigo 6.º, nos seguintes prazos:
+6 - A primeira inspeção regular deve ser solicitada, pelas entidades responsáveis a que se referem os n.os3 e 4 do artigo 6.º, nos seguintes prazos:
 
-a) Até um ano após a entrada em funcionamento do edifício, quando não haja lugar a vistorias nos termos dos n.<sup>os</sup>2 e 3 do artigo 19.º;
+a) Até um ano após a entrada em funcionamento do edifício, quando não haja lugar a vistorias nos termos dos n.os2 e 3 do artigo 19.º;
 
-b) Nos prazos máximos estabelecidos no n.º 4, consoante a categoria de risco, contados da data de entrada em funcionamento do edifício, quando haja lugar a vistorias nos termos dos n.<sup>os</sup>2 e 3 do artigo 19.º
+b) Nos prazos máximos estabelecidos no n.º 4, consoante a categoria de risco, contados da data de entrada em funcionamento do edifício, quando haja lugar a vistorias nos termos dos n.os2 e 3 do artigo 19.º
 
 7 - As inspeções extraordinárias são realizadas por iniciativa do SRPCBA ou de outra entidade com competência fiscalizadora.
 
-8 - Compete às entidades referidas nos n.<sup>os</sup>3 e 4 do artigo 6.º, independentemente da instauração de processo contraordenacional, assegurar a regularização das condições que não estejam em conformidade com a legislação de segurança contra incêndio em edifícios aplicável, dentro dos prazos fixados nos relatórios das inspeções referidas no presente artigo.
+8 - Compete às entidades referidas nos n.os3 e 4 do artigo 6.º, independentemente da instauração de processo contraordenacional, assegurar a regularização das condições que não estejam em conformidade com a legislação de segurança contra incêndio em edifícios aplicável, dentro dos prazos fixados nos relatórios das inspeções referidas no presente artigo.
 
 ###### Artigo 21.º — Delegado de segurança
 
-1 - A entidade responsável nos termos dos n.<sup>os</sup>3 e 4 do artigo 6.º designa um delegado de segurança para executar as medidas de autoproteção.
+1 - A entidade responsável nos termos dos n.os3 e 4 do artigo 6.º designa um delegado de segurança para executar as medidas de autoproteção.
 
 2 - O delegado de segurança age em representação da entidade responsável, ficando esta integralmente obrigada ao cumprimento das condições de SCIEA, previstas no presente diploma e demais legislação aplicável.
 
@@ -2074,9 +2155,9 @@ jj) A inexistência ou a deficiente instalação, funcionamento ou manutenção 
 
 kk) A inexistência de medidas de autoproteção, em infração ao disposto no n.º 1 do artigo 22.º;
 
-ll) A existência de medidas de autoproteção, não entregues no SRPCBA, ou nos municípios, quanto à 1.ª categoria de risco, em infração aos n.<sup>os</sup>2 e 3 do artigo 22.º ou em infração ao artigo 31.º do anexo ii do regulamento técnico a que se refere o artigo 15.º;
+ll) A existência de medidas de autoproteção, não entregues no SRPCBA, ou nos municípios, quanto à 1.ª categoria de risco, em infração aos n.os2 e 3 do artigo 22.º ou em infração ao artigo 31.º do anexo ii do regulamento técnico a que se refere o artigo 15.º;
 
-mm) A inexistência de projeto de segurança contra incêndio ou da ficha de segurança, quando exigível, em infração ao disposto nos n.<sup>os</sup>1 e 2 do artigo 17.º;
+mm) A inexistência de projeto de segurança contra incêndio ou da ficha de segurança, quando exigível, em infração ao disposto nos n.os1 e 2 do artigo 17.º;
 
 nn) O incumprimento das condições de segurança contra incêndio em edifícios, em infração ao disposto no n.º 3 do artigo 17.º;
 
@@ -2268,21 +2349,21 @@ A classificação de desempenho de reação ao fogo para produtos de construçã
 
 Δm - perda de massa [%];
 
-t<sub>f</sub> - tempo de presença da chama «duração das chamas persistentes» [s];
+tf - tempo de presença da chama «duração das chamas persistentes» [s];
 
-PCS - poder calorífico superior [MJ kg<sup>-1</sup>, MJ kg<sup>-2</sup> ou MJ m<sup>-2</sup>, consoante os casos];
+PCS - poder calorífico superior [MJ kg-1, MJ kg-2 ou MJ m-2, consoante os casos];
 
-FIGRA - taxa de propagação do fogo [W s<sup>-1</sup>];
+FIGRA - taxa de propagação do fogo [W s-1];
 
-THR<sub>600s</sub> - calor total libertado em 600 s [M J];
+THR600s - calor total libertado em 600 s [M J];
 
 LFS - propagação lateral das chamas «comparado com o bordo da amostra» [m];
 
-SMOGRA - taxa de propagação do fumo [m<sup>2</sup>s<sup>-2</sup>];
+SMOGRA - taxa de propagação do fumo [m2s-2];
 
-TSP<sub>600s</sub> - produção total de fumo em 600 s [m<sup>2</sup>];
+TSP600s - produção total de fumo em 600 s [m2];
 
-F<sub>s</sub> - propagação das chamas [mm];
+Fs - propagação das chamas [mm];
 
 Libertação de gotas ou partículas inflamadas;
 
@@ -2294,13 +2375,13 @@ Classes de reação ao fogo para produtos de construção, excluindo pavimentos
 
 | Classe | Fatores de classificação | Classificação complementar |
 | --- | --- | --- |
-| A1 | ΔT, Δm, t<sub>f</sub> e PCS |  |
-| A2 | ΔT, Δm, t<sub>f</sub>, PCS, FIGRA, LFS e THR<sub>600s</sub> | Produção de fumo «s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>» e gotas ou partículas inflamadas «d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>» |
-| B | FIGRA, LFS, THR<sub>600s</sub> e F<sub>s</sub> | Produção de fumo «s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>» e gotas ou partículas inflamadas «d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>» |
-| C | FIGRA, LFS, THR<sub>600s</sub> e F<sub>s</sub> | Produção de fumo «s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>» e gotas ou partículas inflamadas «d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>» |
-| D | FIGRA e F<sub>s</sub> | Produção de fumo «s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>» e gotas ou partículas inflamadas «d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>» |
-| E | F<sub>s</sub> | Gotículas ou partículas inflamadas «não classificado ou d<sub>2</sub>» |
-| F | Desempenho não determinado | Desempenho não determinado |
+| A1 | ΔT, Δm, tf e PCS |  |
+| A2 | ΔT, Δm, tf, PCS, FIGRA, LFS e THR600s | Produção de fumo «s1, s2 ou s3» e gotas ou partículas inflamadas «d0, d1 ou d2» |
+| B | FIGRA, LFS, THR600s e Fs | Produção de fumo «s1, s2 ou s3» e gotas ou partículas inflamadas «d0, d1 ou d2» |
+| C | FIGRA, LFS, THR600s e Fs | Produção de fumo «s1, s2 ou s3» e gotas ou partículas inflamadas «d0, d1 ou d2» |
+| D | FIGRA e Fs | Produção de fumo «s1, s2 ou s3» e gotas ou partículas inflamadas «d0, d1 ou d2» |
+| E | Fs | Gotículas ou partículas inflamadas «não classificado ou d2» |
+| F | Desempenho não determinado |  |
 
 QUADRO II
 
@@ -2308,13 +2389,13 @@ Classes de reação ao fogo para produtos de construção de pavimentos, incluin
 
 | Classe | Fatores de classificação | Classificação complementar |
 | --- | --- | --- |
-| A1<sub>FL</sub> | ΔT, Δm, t<sub>f</sub> e PCS |  |
-| A2<sub>FL</sub> | ΔT, Δm, t<sub>f</sub>, PCS e fluxo crítico | Produção de fumo «s<sub>1</sub> ou s<sub>2</sub>» |
-| B<sub>FL</sub> | Fluxo crítico e F<sub>s</sub> | Produção de fumo «s<sub>1</sub> ou s<sub>2</sub>» |
-| C<sub>FL</sub> | Fluxo crítico e F<sub>s</sub> | Produção de fumo «s<sub>1</sub> ou s<sub>2</sub>» |
-| D<sub>FL</sub> | Fluxo crítico e F<sub>s</sub> | Produção de fumo «s<sub>1</sub> ou s<sub>2</sub>» |
-| E<sub>FL</sub> | F<sub>s</sub> |  |
-| F<sub>FL</sub> | Desempenho não determinado | Desempenho não determinado |
+| A1FL | ΔT, Δm, tf e PCS |  |
+| A2FL | ΔT, Δm, tf, PCS e fluxo crítico | Produção de fumo «s1 ou s2» |
+| BFL | Fluxo crítico e Fs | Produção de fumo «s1 ou s2» |
+| CFL | Fluxo crítico e Fs | Produção de fumo «s1 ou s2» |
+| DFL | Fluxo crítico e Fs | Produção de fumo «s1 ou s2» |
+| EFL | Fs |  |
+| FFL | Desempenho não determinado |  |
 
 QUADRO III
 
@@ -2322,13 +2403,13 @@ Classes de reação ao fogo de produtos lineares para isolamento térmico de con
 
 | Classe | Fatores de classificação | Classificação complementar |
 | --- | --- | --- |
-| A1<sub>L</sub> | ΔT, Δm, t<sub>f</sub> e PCS |  |
-| A2<sub>L</sub> | ΔT, Δm, t<sub>f</sub>, PCS, FIGRA, LFS e THR<sub>600s</sub> | Produção de fumo «s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>» e gotas ou partículas inflamadas «d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>» |
-| B<sub>L</sub> | FIGRA, LFS, THR<sub>600s</sub> e F<sub>s</sub> | Produção de fumo «s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>» e gotas ou partículas inflamadas «d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>» |
-| C<sub>L</sub> | FIGRA, LFS, THR<sub>600s</sub> e F<sub>s</sub> | Produção de fumo «s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>» e gotas ou partículas inflamadas «d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>» |
-| D<sub>L</sub> | FIGRA, THR<sub>600s</sub> e F<sub>s</sub> | Produção de fumo «s<sub>1</sub>, s<sub>2</sub> ou s<sub>3</sub>» e gotas ou partículas inflamadas «d<sub>0</sub>, d<sub>1</sub> ou d<sub>2</sub>» |
-| E<sub>L</sub> | F<sub>s</sub> | Gotículas ou partículas inflamadas «não classificado ou d<sub>2</sub>» |
-| F<sub>L</sub> | Desempenho não determinado | Desempenho não determinado |
+| A1L | ΔT, Δm, tf e PCS |  |
+| A2L | ΔT, Δm, tf, PCS, FIGRA, LFS e THR600s | Produção de fumo «s1, s2 ou s3» e gotas ou partículas inflamadas «d0, d1 ou d2» |
+| BL | FIGRA, LFS, THR600s e Fs | Produção de fumo «s1, s2 ou s3» e gotas ou partículas inflamadas «d0, d1 ou d2» |
+| CL | FIGRA, LFS, THR600s e Fs | Produção de fumo «s1, s2 ou s3» e gotas ou partículas inflamadas «d0, d1 ou d2» |
+| DL | FIGRA, THR600s e Fs | Produção de fumo «s1, s2 ou s3» e gotas ou partículas inflamadas «d0, d1 ou d2» |
+| EL | Fs | Gotículas ou partículas inflamadas «não classificado ou d2» |
+| FL | Desempenho não determinado |  |
 
 ## ANEXO II — (a que se refere o n.º 4 do artigo 9.º)
 
@@ -2372,7 +2453,7 @@ Aplicação: paredes, pavimentos, cobertura, vigas, pilares, varandas, escadas, 
 
 Normas: EN 13501-2; EN 1365-1, 2, 3, 4, 5, 6; EN 1992-1.2; EN 1993-1.2;EN 1994-1.2; EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | R | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | 360 |
 
@@ -2384,24 +2465,24 @@ Aplicação: paredes
 
 Normas: EN 13501-2; EN 1365-1; EN 1992-1.2; EN 1993-1.2; EN 1994-1.2;EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | RE | – | 20 | 30 | – | 60 | 90 | 120 | 180 | 240 | 360 |
 | REI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | 360 |
 | REI-M | – | – | 30 | – | 60 | 90 | 120 | 180 | 240 | 360 |
 | REW | – | 20 | 30 | – | 60 | 90 | 120 | 180 | 240 | 360 |
-| Notas | - | - | - | - | - | - | - | - | - | - |
+| Notas | - |  |  |  |  |  |  |  |  |  |
 
 Aplicação: pavimentos e coberturas
 
 Normas: EN 13501-2; EN 1365-2; EN 1992-1.2; EN 1993-1.2; EN 1994-1.2; EN 1995-1.2; EN 1999-1.2
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | R | – | – | 30 | – | – | – | – | – | – | – |
 | RE | – | 20 | 30 | – | 60 | 90 | 120 | 180 | 240 | 360 |
 | REI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | 360 |
-| Notas | - | - | - | - | - | - | - | - | - | - |
+| Notas | - |  |  |  |  |  |  |  |  |  |
 
 QUADRO III
 
@@ -2429,51 +2510,51 @@ Aplicação: divisórias, «incluindo divisórias com porções não isoladas»
 
 Normas: EN 13501-2; EN 1364-1; EN 1992-1.2; EN 1993-1.2; EN 1994-1.2; EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | – | 20 | 30 | – | 60 | 90 | 120 | – | – | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EI-M | – | – | 30 | – | 60 | 90 | 120 | 180 | 240 | – |
 | EW | – | 20 | 30 | – | 60 | 90 | 120 | – | – | – |
-| Notas | - | - | - | - | - | - | - | - | - | - |
+| Notas | - |  |  |  |  |  |  |  |  |  |
 
 Aplicação: tetos com resistência independente ao fogo
 
 Normas: EN 13501-2; EN 1364-2
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EI | 15 | - | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
-| Notas | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. |
+| Notas | A classificação é complementada por «a→b, b→a ou a b», indicando se o elemento foi ensaiado e cumpre os critérios para o fogo de cima, de baixo ou para ambos. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: fachadas e paredes exteriores, «incluindo elementos envidraçados»
 
 Normas: EN 13501-2; EN 1364-3, 4, 5, 6; EN 1992-1.2; EN 1993-1.2;EN 1995-1.2; EN 1996-1.2; EN 1999-1.2
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | 15 | - | 30 | - | 60 | 90 | 120 |  |  |  |
 | EI | 15 | - | 30 | - | 60 | 90 | 120 |  |  |  |
 | EW | - | 20 | 30 | - | 60 | - | - |  |  |  |
-| Notas | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. |
+| Notas | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Onde aplicável, estabilidade mecânica significa que não há partes em colapso passíveis de causar danos pessoais durante o período da classificação E ou EI. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: pisos falsos
 
 Normas: EN 13501-2; EN 1366-6
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | R | 15 | – | 30 | – | – | – | – | – | – | – |
 | RE | – | – | 30 | – | – | – | – | – | – | – |
 | REI | – | – | 30 | – | – | – | – | – | – | – |
 | REW | – | – | 30 | – | – | – | – | – | – | – |
-| Notas | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. |
+| Notas | A classificação é complementada pela adição do sufixo «f», indicando resistência total ao fogo, ou do sufixo «r», indicando exposição apenas à temperatura constante reduzida. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: vedações de aberturas de passagem de cabos e tubagens
 
 Normas: EN 13501-2; EN 1366-3, 4
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | 15 | – | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
@@ -2482,43 +2563,43 @@ Aplicação: portas e portadas corta-fogo e respetivos dispositivos de fecho, «
 
 Normas: EN 13501-2; EN 1634-1
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EW | – | 20 | 30 | – | 60 | – | – | – | – | – |
-| Notas | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. |
+| Notas | A classificação i é complementada pela adição dos sufixos «1» ou «2» consoante a definição do isolamento utilizada. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» (1).(1) A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: portas de controlo do fumo
 
 Normas: EN 13501-2; EN 1634-3
 
-Classificação - S<sub>200</sub> ou S<sub>a</sub> (consoante as condições de ensaio cumpridas).
+Classificação - S200 ou Sa (consoante as condições de ensaio cumpridas).
 
-Nota. - A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.
+Nota. - A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» (1).
 
-<sup>(1)</sup> A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada; os pormenores devem ser incluídos na especificação técnica relevante do produto.
+(1) A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada; os pormenores devem ser incluídos na especificação técnica relevante do produto.
 
 Aplicação: obturadores para sistemas de transporte contínuo por correias e carris
 
 Normas: EN 13501-2; EN 1366-7
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | 15 | – | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EW | – | 20 | 30 | – | 60 | – | – | – | – | – |
-| Notas | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup>A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup>A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup>A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup>A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup>A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup>A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup>A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup>A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup>A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» <sup>(1)</sup>.<sup>(1)</sup>A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. |
+| Notas | A classificação i é completada pela adição dos sufixos «1» ou «2», conforme a definição de isolamento utilizada. Será gerada uma classificação i nos casos em que a amostra de ensaio seja uma configuração de tubo ou conduta sem avaliação da obturação do sistema de transporte. A adição do símbolo «C» indica que o produto satisfaz também o critério de fecho automático «ensaio pass/fail» (1).(1)A classificação «C» deve ser complementada pelos dígitos 0 a 5, de acordo com a categoria utilizada. Os pormenores devem ser incluídos na especificação técnica relevante do produto. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: condutas e ductos
 
 Normas: EN 13501-2; EN 1366-5
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
-| Notas | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. |
+| Notas | A classificação é complementada por «i→o, o→i ou i o», consoante cumpram os critérios para o fogo interior, exterior ou para ambos. Os símbolos «ve» e ou «ho» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: chaminés
 
@@ -2528,11 +2609,11 @@ Aplicação: revestimentos para paredes e coberturas
 
 Normas: EN 13501-2; EN 14135
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| K<sub>1</sub> | 10 | – | – | – | – | – | – | – | – | – |
-| K<sub>2</sub> | 10 | – | 30 | – | 60 | – | – | – | – | – |
-| Notas | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. |
+| K1 | 10 | – | – | – | – | – | – | – | – | – |
+| K2 | 10 | – | 30 | – | 60 | – | – | – | – | – |
+| Notas | Os sufixos «1» e «2» indicam os substratos, os critérios de comportamento do fogo e as regras de extensão utilizados nesta classificação. |  |  |  |  |  |  |  |  |  |
 
 QUADRO V
 
@@ -2542,21 +2623,21 @@ Aplicação: condutas de ventilação
 
 Normas: EN 13501-3; EN 1366-1
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | – | – | 30 | – | 60 | – | – | – | – | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
-| Notas | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. |
+| Notas | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «ve» e ou «ho» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: registos corta-fogo
 
 Normas: EN 13501-3; EN 1366-2
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | E | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
 | EI | 15 | 20 | 30 | 45 | 60 | 90 | 120 | 180 | 240 | – |
-| Notas | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «v<sub>e</sub>» e ou «h<sub>o</sub>» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. |
+| Notas | A classificação é complementada por «i→o, o→i ou i o» consoante cumpram os critérios para o fogo interior, exterior ou para ambos, respetivamente. Os símbolos «ve» e ou «ho» indicam, além disso, a adequação a uma utilização vertical e ou horizontal. A adição do símbolo «S» indica o cumprimento de uma restrição suplementar às fugas. |  |  |  |  |  |  |  |  |  |
 
 QUADRO VI
 
@@ -2566,15 +2647,15 @@ Aplicação: cabos elétricos e de fibra ótica e acessórios; tubos e sistemas 
 
 Norma: EN 13501-3
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | P | 15 | – | 30 | – | 60 | 90 | 120 | – | – | – |
 
-Aplicação: cabos ou sistemas de energia ou sinal com pequeno diâmetro «menos de 20 mm e com condutores de menos de 2,50 mm<sup>2</sup>»
+Aplicação: cabos ou sistemas de energia ou sinal com pequeno diâmetro «menos de 20 mm e com condutores de menos de 2,50 mm2»
 
 Normas: EN 13501-3; EN 50200
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | PH | 15 | – | 30 | – | 60 | 90 | 120 | – | – | – |
 
@@ -2586,75 +2667,75 @@ Aplicação: condutas de controlo de fumos de compartimento único
 
 Normas: EN 13501-4; EN 1363-1, 2, ENV 1363-3; EN 1366-9; EN 12101-7
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| E<sub>300</sub> | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| E<sub>600</sub> | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| Notas | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup>. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. |
+| E300 | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
+| E600 | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
+| Notas | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.Além disso, os símbolos «ve» e/ou «ho» indicam a compatibilidade com a utilização vertical e/ou horizontal.O «S» indica uma taxa de passagem inferior a 5 m3/hr/m2. (Todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m3/hr/m2.)«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: condutas de controlo de fumos resistentes ao fogo multicompartimentadas
 
 Normas: EN 13501-4; EN 1363-1, 2, ENV 1363-3; EN 1366-8; EN 12101-7
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EI | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| Notas | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «v<sub>e</sub>» e/ou «h<sub>o</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m<sup>3</sup>/hr/m<sup>2</sup> (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m<sup>3</sup>/hr/m<sup>2</sup>).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. |
+| Notas | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos. Além disso, os símbolos «ve» e/ou «ho» indicam a compatibilidade com a utilização vertical e/ou horizontal. O «S» indica uma taxa de passagem inferior a 5 m3/hr/m2 (todas as condutas desprovidas da classificação «S» devem ter uma taxa de passagem inferior a 10 m3/hr/m2).«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: registos de controlo de fumos de compartimento único
 
 Normas: EN 13501-4; EN 1363-1, ENV 1363-3; EN 1366-9, 10; EN 12101-8
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| E<sub>300</sub> | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| E<sub>600</sub> | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| Notas | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. |
+| E300 | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
+| E600 | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
+| Notas | A classificação é completada pelo sufixo «único», indicando a compatibilidade com a utilização exclusiva em compartimento único.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «ved», «vew» e «vedw» e/ou «hod», «how» e «hodw» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. O «S» indica uma taxa de passagem inferior a 200 m3/hr/m2. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m3/hr/m2. Todos os registos inferiores a 200 m3/hr/m2 assumem este valor, todos aqueles entre 200 m3/hr/m2 e 360 m3/hr/m2 assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C300», «C10000» e «Cmod» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: registos de controlo de fumos resistentes ao fogo multicompartimentados
 
 Normas: EN 13501-4; EN 1363-1, 2, ENV 1363-3; EN 1366-2, 8, 10; EN 12101-8
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | EI | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
 | E | – | – | 30 | – | 60 | 90 | 120 | – | – | – |
-| Notas | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «v<sub>ed</sub>», «v<sub>ew</sub>» e «v<sub>edw</sub>» e/ou «h<sub>od</sub>», «h<sub>ow</sub>» e «h<sub>odw</sub>» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. |
-|  | O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. | O «S» indica uma taxa de passagem inferior a 200 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m<sup>3</sup>/hr/m<sup>2</sup>. Todos os registos inferiores a 200 m<sup>3</sup>/hr/m<sup>2</sup> assumem este valor, todos aqueles entre 200 m<sup>3</sup>/hr/m<sup>2</sup> e 360 m<sup>3</sup>/hr/m<sup>2</sup> assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C<sub>300</sub>», «C<sub>10000</sub>» e «C<sub>mod</sub>» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. |
+| Notas | A classificação é completada pelo sufixo «multi», indicando a compatibilidade com a utilização em vários compartimentos.A ‘HOT 400/30’ (high operational temperature) indica que o registo pode ser aberto ou fechado durante um período de 30 minutos em condições de temperatura inferior a 400 °C (a utilizar apenas com a classificação E600). «ved», «vew» e «vedw» e/ou «hod», «how» e «hodw» indicam a compatibilidade com a utilização vertical e/ou horizontal, juntamente com a montagem numa conduta ou numa parede, ou nas duas respetivamente. |  |  |  |  |  |  |  |  |  |
+|  | O «S» indica uma taxa de passagem inferior a 200 m3/hr/m2. Todos os registos desprovidos da classificação «S» devem ter uma taxa de passagem inferior a 360 m3/hr/m2. Todos os registos inferiores a 200 m3/hr/m2 assumem este valor, todos aqueles entre 200 m3/hr/m2 e 360 m3/hr/m2 assumem este último valor. As taxas de passagem referem-se tanto a condições ambientes como a temperaturas elevadas.«500», «1 000» e «1 500» indicam a possibilidade de utilização até estes valores de pressão, medidos em condições ambientes.«AA» ou «MA» indicam ativação automática ou intervenção manual.«i→o, o→i ou i o» indicam que os critérios de desempenho são cumpridos de dentro para fora, de fora para dentro ou ambos, respetivamente.«C300», «C10000» e «Cmod» indicam a compatibilidade dos registos com a utilização em sistemas de controlo exclusivo de fumos combinados com sistemas de controlo de fumos e ambientais ou com registos moldáveis utilizados em sistemas combinados de controlo de fumos e sistemas ambientais, respetivamente. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: barreiras antifumo
 
 Normas: EN 13501-4; EN 1363-1, 2; EN 12101-1
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| D<sub>60</sub> | – | – | 30 | – | 60 | 90 | 120 | – | – | A |
+| D60 | – | – | 30 | – | 60 | 90 | 120 | – | – | A |
 | DH | – | – | 30 | – | 60 | 90 | 120 | – | – | A |
-| Notas | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. | ‘A’ pode ser qualquer tempo superior a 120 minutos. |
+| Notas | ‘A’ pode ser qualquer tempo superior a 120 minutos. |  |  |  |  |  |  |  |  |  |
 
 Aplicação: exaustores elétricos de fumo e de calor (ventiladores), juntas de ligação
 
 Normas: EN 13501-4; EN 1363-1; EN 12101-3; ISO 834-1
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| F<sub>200</sub> | – | – | – | – | – | – | 120 | – | – | – |
-| F<sub>300</sub> | – | – | – | – | 60 | – | – | – | – | – |
-| F<sub>400</sub> | – | – | – | – | – | 90 | 120 | – | – | – |
-| F<sub>600</sub> | – | – | – | – | 60 | – | – | – | – | – |
-| F<sub>842</sub> | – | – | 30 | – | – | – | – | – | – | – |
-| Notas | - | - | - | - | - | - | - | - | - | - |
+| F200 | – | – | – | – | – | – | 120 | – | – | – |
+| F300 | – | – | – | – | 60 | – | – | – | – | – |
+| F400 | – | – | – | – | – | 90 | 120 | – | – | – |
+| F600 | – | – | – | – | 60 | – | – | – | – | – |
+| F842 | – | – | 30 | – | – | – | – | – | – | – |
+| Notas | - |  |  |  |  |  |  |  |  |  |
 
 Aplicação: exaustores naturais de fumo e de calor
 
 Normas: EN 13501-4; EN 1363-1; EN 12101-2
 
-| Classificação | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» | Duração «em minutos» |
+| Classificação | Duração «em minutos» |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| B<sub>300</sub> | – | – | 30 | – | – | – | – | – | – | – |
-| B<sub>600</sub> | – | – | 30 | – | – | – | – | – | – | – |
-| B<sub>ϑ</sub> | – | – | 30 | – | – | – | – | – | – | – |
-| Notas | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) | ϑ indica as condições de exposição (temperatura) |
+| B300 | – | – | 30 | – | – | – | – | – | – | – |
+| B600 | – | – | 30 | – | – | – | – | – | – | – |
+| Bϑ | – | – | 30 | – | – | – | – | – | – | – |
+| Notas | ϑ indica as condições de exposição (temperatura) |  |  |  |  |  |  |  |  |  |
 
 ## ANEXO III — (quadros referidos no n.º 1 do artigo 12.º)
 
@@ -2664,9 +2745,9 @@ Categorias de risco da utilização-tipo i
 
 «Habitacionais»
 
-| Categoria | Valores máximos referentes à utilização-tipo i | Valores máximos referentes à utilização-tipo i |
+| Categoria | Valores máximos referentes à utilização-tipo i |  |
 | --- | --- | --- |
-| Categoria | Altura da UT I | Número de pisos ocupados pela UT I abaixo do plano de referência (*) |
+| Altura da UT I | Número de pisos ocupados pela UT I abaixo do plano de referência (*) |  |
 | 1.ª | ≤ 9 m | ≤1 |
 | 2.ª | ≤ 28 m | ≤3 |
 | 3.ª | ≤ 50 m | ≤5 |
@@ -2680,14 +2761,14 @@ Categorias de risco da utilização-tipo ii
 
 «Estacionamentos»
 
-| Categoria | Valores máximos referentes à utilização-tipo ii, quando integrada em edifício | Valores máximos referentes à utilização-tipo ii, quando integrada em edifício | Valores máximos referentes à utilização-tipo ii, quando integrada em edifício | Ao ar livre |
+| Categoria | Valores máximos referentes à utilização-tipo ii, quando integrada em edifício | Ao ar livre |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria | Altura da UT II | Área bruta ocupada pela UT II | Número de pisos ocupados pela UT II abaixo do plano de referência (*) | Ao ar livre |
-| 1.ª | - | - | - | Sim |
-| 1.ª | ≤ 9 m | ≤ 3 200 m<sup>2</sup> | ≤ 1 | Não |
-| 2.ª | ≤ 28 m | ≤ 9 600 m<sup>2</sup> | ≤ 3 | Não |
-| 3.ª | ≤ 28 m | ≤ 32 000 m<sup>2</sup> | ≤ 5 | Não |
-| 4.ª | > 28 m | > 32 000 m<sup>2</sup> | > 5 | Não |
+| Altura da UT II | Área bruta ocupada pela UT II | Número de pisos ocupados pela UT II abaixo do plano de referência (*) |  |  |
+| 1.ª | - | Sim |  |  |
+| ≤ 9 m | ≤ 3 200 m2 | ≤ 1 | Não |  |
+| 2.ª | ≤ 28 m | ≤ 9 600 m2 | ≤ 3 | Não |
+| 3.ª | ≤ 28 m | ≤ 32 000 m2 | ≤ 5 | Não |
+| 4.ª | > 28 m | > 32 000 m2 | > 5 | Não |
 
 (*) Não são contabilizados os pisos destinados exclusivamente a instalações e equipamentos técnicos que apenas impliquem a presença de pessoas para fins de manutenção e reparação, e/ou que disponham de instalações sanitárias.
 
@@ -2697,9 +2778,9 @@ Categorias de risco da utilização-tipo iii
 
 «Administrativos»
 
-| Categoria | Altura da UT III | Efetivo da UT III |
+| Categoria | Valores máximos referentes à utilização-tipo iii |  |
 | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo iii | Valores máximos referentes à utilização-tipo iii |
+| Altura da UT III | Efetivo da UT III |  |
 | 1.ª | ≤ 9 m | ≤ 100 |
 | 2.ª | ≤ 28 m | ≤ 1 000 |
 | 3.ª | ≤ 50 m | ≤ 5 000 |
@@ -2709,10 +2790,10 @@ QUADRO IV
 
 Categorias de risco das utilizações-tipo iv «Escolares» e v «Hospitalares e lares de idosos»
 
-| Categoria | Altura da UT IV ou V | Efetivo | Efetivo em locais de risco D ou E | Locais de risco D com saídas independentes diretas ao exterior no plano de referência |
+| Categoria | Valores máximos referentes à utilização-tipo iv e v | Locais de risco D com saídas independentes diretas ao exterior no plano de referência |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo iv e v | Valores máximos referentes à utilização-tipo iv e v | Valores máximos referentes à utilização-tipo iv e v | Locais de risco D com saídas independentes diretas ao exterior no plano de referência |
-| Categoria | Altura da UT IV ou V | Efetivo da UT IV ou V | Efetivo da UT IV ou V | Locais de risco D com saídas independentes diretas ao exterior no plano de referência |
+| Altura da UT IV ou V | Efetivo da UT IV ou V |  |  |  |
+| Efetivo | Efetivo em locais de risco D ou E |  |  |  |
 | 1.ª | ≤ 9 m | ≤ 100 | ≤ 25 | Aplicável a todos |
 | 2.ª | ≤ 9 m | ≤ 500(*) | ≤ 100 | Não aplicável |
 | 3.ª | ≤ 28 m | ≤ 1 500(*) | ≤ 400 | Não aplicável |
@@ -2724,17 +2805,17 @@ QUADRO V
 
 Categorias de risco das utilizações-tipo vi «Espetáculos e reuniões públicas» e ix «Desportivos e de lazer»
 
-| Categoria | Altura da UT VI ou IX | Número de pisos ocupados pela UT VI ou IX abaixo do plano de referência (*) | Efetivo da UT VI ou IX | Efetivo da UT VI ou IX |
-| --- | --- | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo vi e ix quando integradas em edifícios | Valores máximos referentes à utilização-tipo vi e ix quando integradas em edifícios | Valores máximos referentes à utilização-tipo vi e ix quando integradas em edifícios | Ao ar livre |
-| 1.ª | – | – | – | ≤ 1 000 |
-| 1.ª | ≤ 9 m | 0 | ≤ 100 | – |
-| 2.ª | – | – | – | ≤ 15 000 |
-| 2.ª | ≤ 28 m | ≤ 1 | ≤ 1 000 | – |
-| 3.ª | – | – | – | ≤ 40 000 |
-| 3.ª | ≤ 28 m | ≤ 2 | ≤ 5 000 | – |
-| 4.ª | – | – | – | > 40 000 |
-| 4.ª | > 28 m | > 2 | > 5 000 | – |
+| Categoria | Valores máximos referentes à utilização-tipo vi e ix quando integradas em edifícios | Ao ar livre |  |
+| --- | --- | --- | --- |
+| Altura da UT VI ou IX | Número de pisos ocupados pela UT VI ou IX abaixo do plano de referência (*) | Efetivo da UT VI ou IX | Efetivo da UT VI ou IX |
+| 1.ª | – | ≤ 1 000 |  |
+| ≤ 9 m | 0 | ≤ 100 | – |
+| 2.ª | – | ≤ 15 000 |  |
+| ≤ 28 m | ≤ 1 | ≤ 1 000 | – |
+| 3.ª | – | ≤ 40 000 |  |
+| ≤ 28 m | ≤ 2 | ≤ 5 000 | – |
+| 4.ª | – | > 40 000 |  |
+| > 28 m | > 2 | > 5 000 | – |
 
 (*) Não são contabilizados os pisos destinados exclusivamente a instalações e equipamentos técnicos que apenas impliquem a presença de pessoas para fins de manutenção e reparação, e/ou que disponham de instalações sanitárias.
 
@@ -2744,10 +2825,10 @@ Categorias de risco da utilização-tipo vii
 
 «Hoteleiros e restauração»
 
-| Categoria | Altura da UT VII | Efetivo | Efetivo em locais de risco E | Locais de risco E com saídas independentes diretas ao exterior no plano de referência |
+| Categoria | Valores máximos referentes à utilização-tipo vii | Locais de risco E com saídas independentes diretas ao exterior no plano de referência |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo vii | Valores máximos referentes à utilização-tipo vii | Valores máximos referentes à utilização-tipo vii | Locais de risco E com saídas independentes diretas ao exterior no plano de referência |
-| Categoria | Altura da UT VII | Efetivo da UT VII | Efetivo da UT VII | Locais de risco E com saídas independentes diretas ao exterior no plano de referência |
+| Altura da UT VII | Efetivo da UT VII |  |  |  |
+| Efetivo | Efetivo em locais de risco E |  |  |  |
 | 1.ª | ≤ 9 m | ≤ 100 | ≤ 50 | Aplicável a todos |
 | 2.ª | ≤ 28 m | ≤ 500 | ≤ 200 | Não aplicável |
 | 3.ª | ≤ 28 m | ≤ 1 500 | ≤ 800 | Não aplicável |
@@ -2759,9 +2840,9 @@ Categorias de risco da utilização-tipo viii
 
 «Comerciais e gares de transportes»
 
-| Categoria | Altura da UT VIII | Número de pisos ocupados pela UT VIII abaixo do plano de referência (*) | Efetivo da UT VIII |
+| Categoria | Valores máximos referentes à utilização-tipo viii |  |  |
 | --- | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo viii | Valores máximos referentes à utilização-tipo viii | Valores máximos referentes à utilização-tipo viii |
+| Altura da UT VIII | Número de pisos ocupados pela UT VIII abaixo do plano de referência (*) | Efetivo da UT VIII |  |
 | 1.ª | ≤ 9 m | 0 | ≤ 100 |
 | 2.ª | ≤ 28 m | ≤ 1 | ≤ 1 000 |
 | 3.ª | ≤ 28 m | ≤ 2 | ≤ 5 000 |
@@ -2775,9 +2856,9 @@ Categorias de risco da utilização-tipo x
 
 «Museus e galerias de arte»
 
-| Categoria | Altura da UT X | Efetivo da UT X |
+| Categoria | Valores máximos referentes à utilização-tipo x |  |
 | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo x | Valores máximos referentes à utilização-tipo x |
+| Altura da UT X | Efetivo da UT X |  |
 | 1.ª | ≤ 9 m | ≤ 100 |
 | 2.ª | ≤ 28 m | ≤ 500 |
 | 3.ª | ≤ 28 m | ≤ 1 500 |
@@ -2789,13 +2870,13 @@ Categorias de risco da utilização-tipo xi
 
 «Bibliotecas e arquivos»
 
-| Categoria | Altura da UT XI | Número de pisos ocupados pela UT XI abaixo do plano de referência (*) | Efetivo da UT XI | Densidade de carga de incêndio modificada da UT XI (**) |
+| Categoria | Valores máximos referentes à utilização-tipo xi |  |  |  |
 | --- | --- | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo xi | Valores máximos referentes à utilização-tipo xi | Valores máximos referentes à utilização-tipo xi | Valores máximos referentes à utilização-tipo xi |
-| 1.ª | ≤ 9 m | 0 | ≤ 100 | ≤ 1 000 MJ/m<sup>2</sup> |
-| 2.ª | ≤ 28 m | ≤ 1 | ≤ 500 | ≤ 10 000 MJ/m<sup>2</sup> |
-| 3.ª | ≤ 28 m | ≤ 2 | ≤ 1 500 | ≤ 30 000 MJ/m<sup>2</sup> |
-| 4.ª | > 28 m | > 2 | > 1 500 | > 30 000 MJ/m<sup>2</sup> |
+| Altura da UT XI | Número de pisos ocupados pela UT XI abaixo do plano de referência (*) | Efetivo da UT XI | Densidade de carga de incêndio modificada da UT XI (**) |  |
+| 1.ª | ≤ 9 m | 0 | ≤ 100 | ≤ 1 000 MJ/m2 |
+| 2.ª | ≤ 28 m | ≤ 1 | ≤ 500 | ≤ 10 000 MJ/m2 |
+| 3.ª | ≤ 28 m | ≤ 2 | ≤ 1 500 | ≤ 30 000 MJ/m2 |
+| 4.ª | > 28 m | > 2 | > 1 500 | > 30 000 MJ/m2 |
 
 (*) Não são contabilizados os pisos destinados exclusivamente a instalações e equipamentos técnicos que apenas impliquem a presença de pessoas para fins de manutenção e reparação, e/ou que disponham de instalações sanitárias.
 
@@ -2807,14 +2888,14 @@ Categorias de risco da utilização-tipo xii
 
 «Industriais, oficinas e armazéns»
 
-| Categoria | Densidade de carga de incêndio modificada da UT XII (**) | Número de pisos ocupados pela UT XII abaixo do plano de referência (*) | Densidade de carga de incêndio modificada da UT XII (**) |
+| Categoria | Valores máximos referentes à utilização-tipo xii |  |  |
 | --- | --- | --- | --- |
-| Categoria | Valores máximos referentes à utilização-tipo xii | Valores máximos referentes à utilização-tipo xii | Valores máximos referentes à utilização-tipo xii |
-| Categoria | Integrada em edifício | Integrada em edifício | Ao ar livre |
-| 1.ª | ≤ 500 MJ/m<sup>2</sup> | 0 | ≤ 1 000 MJ/m<sup>2</sup> |
-| 2.ª | ≤ 5 000 MJ/m<sup>2</sup> | ≤ 1 | ≤ 10 000 MJ/m<sup>2</sup> |
-| 3.ª | ≤ 15 000 MJ/m<sup>2</sup> | ≤ 1 | ≤ 30 000 MJ/m<sup>2</sup> |
-| 4.ª | > 15 000 MJ/m<sup>2</sup> | > 1 | > 30 000 MJ/m<sup>2</sup> |
+| Integrada em edifício | Ao ar livre |  |  |
+| Densidade de carga de incêndio modificada da UT XII (**) | Número de pisos ocupados pela UT XII abaixo do plano de referência (*) | Densidade de carga de incêndio modificada da UT XII (**) |  |
+| 1.ª | ≤ 500 MJ/m2 | 0 | ≤ 1 000 MJ/m2 |
+| 2.ª | ≤ 5 000 MJ/m2 | ≤ 1 | ≤ 10 000 MJ/m2 |
+| 3.ª | ≤ 15 000 MJ/m2 | ≤ 1 | ≤ 30 000 MJ/m2 |
+| 4.ª | > 15 000 MJ/m2 | > 1 | > 30 000 MJ/m2 |
 
 (*) Não são contabilizados os pisos destinados exclusivamente a instalações e equipamentos técnicos que apenas impliquem a presença de pessoas para fins de manutenção e reparação, e/ou que disponham de instalações sanitárias.
 
@@ -3085,3 +3166,7 @@ b) Cortes e alçados, à escala de 1:100 ou de 1:200, evidenciando a envolvente 
 c) Planta de implantação à escala de 1:200 ou de 1:500, evidenciando a acessibilidade para veículos de socorro dos bombeiros, a disponibilidade de hidrantes exteriores e o posicionamento do edifício ou recinto relativamente aos edifícios ou recintos vizinhos;
 
 d) Plantas de todos os pisos, à escala de 1:100 ou de 1:200, representando, para os espaços em apreciação, a classificação dos locais de risco, os efetivos totais e parciais, as características de resistência ao fogo que devem possuir os elementos de construção, as vias de evacuação e as saídas e, finalmente, a posição em planta de todos os dispositivos, equipamentos e sistemas de segurança contra incêndio previstos para esses espaços.
+
+118827499
+
+.Tbl1 { border-collapse:collapse; border-width:1px; margin-left:auto; margin-right:auto; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl13 { border-collapse:collapse; border-width:1px; border-color:rgb(0,0,0); } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl15 { min-height:17px; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-collapse:collapse; border-width:1px; } .Tbl21 { min-height:26px; } .Tbl22 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl23 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl24 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl25 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl26 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl27 { min-height:35px; } .Tbl28 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl29 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl30 { min-height:28px; } .Tbl31 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl32 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-left-style:solid; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); } .Tbl33 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); } .Tbl34 { border-bottom-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-top-color:rgb(0,0,0); border-right-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-left-style:solid; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); } .Tbl35 { min-height:53px; } .Tbl36 { min-height:72px; } .Tbl37 { min-height:37px; } .Tbl38 { text-align:justify; text-align-last:justify; } .Tbl39 { height:17px; } .Tbl40 { height:21px; } .Tbl41 { min-height:21px; } .Tbl42 { min-height:93px; } .Tbl43 { text-indent:3px; } .Tbl44 { min-height:210px; } .Tbl45 { min-height:215px; } .Tbl46 { min-height:15px; } .Tbl47 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl48 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:bottom; } .Tbl49 { text-align:right; } .Tbl50 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-left-style:solid; vertical-align:top; } .Tbl51 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; vertical-align:top; } .Tbl52 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl53 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-right-width:1px; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl54 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-left-style:solid; vertical-align:top; } .Tbl55 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); vertical-align:top; } .Tbl56 { min-height:57px; } .Tbl57 { min-height:67px; } .Tbl58 { min-height:34px; } .Tbl59 { min-height:206px; } .Tbl60 { min-height:63px; } .Tbl61 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl62 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl63 { min-height:143px; } .Tbl64 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl65 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; }

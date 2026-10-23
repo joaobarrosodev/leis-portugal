@@ -47,40 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/54-1981-567883
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52c6aebc4ef3171a0a4887fe260880e1e58a69eb5db796d57e6ed6067da278d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6755336ef1823fed7ece8f812dd210810382638c43922f9b10f03256beba3c26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Integração de Trabalhadores
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Serviços de LUTA Antituberculosa
+- Serviços Médico-sociais
 relationships:
 - type: amended_by
   target: pt:dre:354275:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:35Z'
   warnings: []
   errors: []
 ---
@@ -91,30 +97,30 @@ O pessoal dos dispensários da Região do Serviço de Luta Antituberculosa (SLAT
 
 Assim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O pessoal administrativo e auxiliar dos dispensários da Região do Serviço de Luta Antituberculosa é integrado nos quadros de pessoal dos Serviços Médico-Sociais de Angra do Heroísmo, Horta e Ponta Delgada.
+Artigo 1.º O pessoal administrativo e auxiliar dos dispensários da Região do Serviço de Luta Antituberculosa é integrado nos quadros de pessoal dos Serviços Médico-Sociais de Angra do Heroísmo, Horta e Ponta Delgada.
 
-###### Art. 2.º A tutela administrativa dos dispensários da Região do Serviço de Luta Antituberculosa passa a ser assegurada pelos Serviços Médico-Sociais.
+Art. 2.º A tutela administrativa dos dispensários da Região do Serviço de Luta Antituberculosa passa a ser assegurada pelos Serviços Médico-Sociais.
 
-###### Art. 3.º Os quadros de pessoal dos Serviços Médico-Sociais da Região, anexos ao Decreto Regulamentar Regional n.º 15/81/A, de 24 de Fevereiro, são substituídos pelos anexos ao presente diploma na parte que estes expressamente contemplam, para que neles seja integrado o pessoal administrativo e auxiliar dos dispensários de Angra do Heroísmo, Horta e Ponta Delgada do Serviço de Luta Antituberculosa.
+Art. 3.º Os quadros de pessoal dos Serviços Médico-Sociais da Região, anexos ao Decreto Regulamentar Regional n.º 15/81/A, de 24 de Fevereiro, são substituídos pelos anexos ao presente diploma na parte que estes expressamente contemplam, para que neles seja integrado o pessoal administrativo e auxiliar dos dispensários de Angra do Heroísmo, Horta e Ponta Delgada do Serviço de Luta Antituberculosa.
 
 Aprovado pelo Governo Regional em 14 de Outubro de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Novembro de 1981.**
+Assinado em Angra do Heroísmo em 16 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro de pessoal dos Serviços Médico-Sociais da Horta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/27900/31813182.pdf))](https://files.diariodarepublica.pt/1s/1981/12/27900/31813182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/27900/31813182.pdf)
 
 Quadro de pessoal dos Serviços Médico-Sociais de Angra do Heroísmo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/27900/31813182.pdf))](https://files.diariodarepublica.pt/1s/1981/12/27900/31813182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/27900/31813182.pdf)
 
 Quadro de pessoal dos Serviços Médico-Sociais de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/27900/31813182.pdf))](https://files.diariodarepublica.pt/1s/1981/12/27900/31813182.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/27900/31813182.pdf)

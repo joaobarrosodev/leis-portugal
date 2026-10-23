@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/169b00/54545456.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2002/07/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2002-188481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3917c6e29687cc5e812e96f135a247deab2cec6297efba373874b8a430023c5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: acb707b3f4f07bd7ebf8c8d6ab8074b89171e34195cb8056b79ee530fd83ffa9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Ensino Básico
+- Estabelecimento de Ensino
 - ILHA de são Miguel
 - Integração de Trabalhadores
-- Estabelecimento de Ensino
-- Ensino Básico
 - Ribeira Grande
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:636073:por
@@ -92,16 +92,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/10/1998/05/02/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/10/1998/05/02/a/dre
+- type: cites
+  target: pt:dre:155636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:32Z'
   warnings: []
   errors: []
 ---
@@ -148,19 +169,19 @@ São transferidos para a Escola Básica Integrada de Ribeira Grande os processos
 
 Aprovado em Conselho do Governo Regional, na Horta, em 13 de Maio de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 17 de Junho de 2002.**
+Assinado em Angra do Heroísmo em 17 de Junho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 MAPA I
 
 (a que se refere o artigo 3.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54545456.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54545456.pdf)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54545456.pdf)
 
 MAPA II
 
@@ -168,4 +189,4 @@ MAPA II
 
 Escola Básica Integrada de Ribeira Grande
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54545456.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54545456.pdf)](https://files.diariodarepublica.pt/1s/2002/07/169b00/54545456.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/01/02300/02050208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1982-600705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 792590116e9493377a77a6bbc9c9a3458c4ad41c4fe8d821c1d736502e1091bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a076993bc14d05a5c2d153eed5a1329e8a5b622596ed81e96de3121fd321751a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Arrendamento Rural
 relationships:
 - type: amended_by
   target: pt:dre:454497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:193801:por
+  label: "Alterado o art. 23.º do DRG 11/77/A de 02-Mai, na redacção conferida pelo presente diploma, pelo DLR.7/86/A.1986.01.20.ARA\
+    \ DR.IS [46] DE 25/FEV/1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1986-193801
+  date: '1986-01-20'
+- type: cites
+  target: pt:dre:252016:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454497:por
+  label: "Revogado a partir de 25.07.2008 pelo DLR.29/2008/A.24.07.2008.AL-RAA, DR.IS [142] de 24.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2008-454497
+  date: '2008-07-24'
 article_structure:
-  article_count: 16
+  article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:23Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +113,7 @@ O decurso deste tempo permitiu detectar problemas, definir entendimentos e desen
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 3.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 3.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 3.º — (Equiparações)
 
@@ -108,7 +125,7 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n
 
 4 - O disposto nos números anteriores não se aplica aos proprietários de prédios que, na sua totalidade, tenham área igual ou inferior a 1 ha.
 
-###### Art. 2.º O artigo 5.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 2.º O artigo 5.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 5.º — (Forma)
 
@@ -120,7 +137,7 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n
 
 4 - O contrato de arrendamento rural não está sujeito a registo predial.
 
-###### Art. 3.º São introduzidos os dois artigos seguintes, após o artigo 5.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio:
+Art. 3.º São introduzidos os dois artigos seguintes, após o artigo 5.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio:
 
 ###### Artigo 5.º-A — (Sanção da falta de forma)
 
@@ -138,7 +155,7 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n
 
 3 - A faculdade de requerer suprimento judicial pode exercer-se até à contestação de qualquer acção que tenha por objecto a restituição do prédio arrendado sem título.
 
-###### Art. 4.º O artigo 9.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 4.º O artigo 9.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 9.º — (Limites da renda)
 
@@ -148,7 +165,7 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n
 
 3 - Se o arrendamento abranger equipamentos móveis ou imóveis existentes no prédio arrendado, poderão ser excedidos os valores máximos fixados no n.º 1, na medida da correspondente sobrevalorização, mediante autorização concedida pela Secretaria Regional da Agricultura e Pescas, a requerimento dos contraentes.
 
-###### Art. 5.º O artigo 10.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 5.º O artigo 10.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 10.º — (Alteração de renda)
 
@@ -158,7 +175,7 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n
 
 3 - Sempre que circunstâncias excepcionais e de carácter permanente alterem substancialmente a produtividade dos prédios, poderá qualquer das partes, na falta de acordo, requerer ao tribunal a actualização das rendas.
 
-###### Art. 6.º O artigo 15.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 6.º O artigo 15.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 15.º — (Denúncia)
 
@@ -170,7 +187,7 @@ b) O senhorio deverá avisar o rendeiro, mediante comunicação escrita, com a a
 
 2 - A certidão da notificação, ou o duplicado autenticado da comunicação escrita referida na alínea b) do número anterior, é título executivo bastante para a obtenção do mandato de despejo, salvo o disposto no artigo 16.º
 
-###### Art. 7.º É introduzido o artigo seguinte, após o artigo 15.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio:
+Art. 7.º É introduzido o artigo seguinte, após o artigo 15.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio:
 
 ###### Artigo 15.º-A — (Obrigações decorrentes da denúncia)
 
@@ -178,7 +195,7 @@ b) O senhorio deverá avisar o rendeiro, mediante comunicação escrita, com a a
 
 2 - Em caso de inobservância do disposto no número anterior, o rendeiro despedido tem direito a exigir uma indemnização do senhorio equivalente ao período referido no mesmo número, segundo as rendas estipuladas no contrato denunciado, ou a reocupar o prédio, iniciando novo contrato, nos precisos termos do que anteriormente vigorava, desde que o requeira ao tribunal, no prazo de 30 dias a contar do conhecimento do facto.
 
-###### Art. 8.º O artigo 16.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 8.º O artigo 16.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 16.º — (Oposição à denúncia)
 
@@ -198,7 +215,7 @@ d) Quando a pessoa que se destinar a explorar directamente o prédio não vá ex
 
 4 - A oposição à denúncia prevista no n.º 1 não produzirá efeitos caso ponha em risco a subsistência económica do senhorio ou do seu agregado familiar.
 
-###### Art. 9.º O artigo 17.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 9.º O artigo 17.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 17.º — (Rescisão pelo senhorio)
 
@@ -220,7 +237,7 @@ g) Efectuar a cessão sem obedecer ao disposto nos n.os 2 e 3 do artigo 23.º;
 
 h) Não observar as normas ou instruções dimanadas dos poderes públicos quanto à melhor utilização e produtividade dos prédios arrendados.
 
-###### Art. 10.º O artigo 21.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 10.º O artigo 21.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 21.º — (Direito de preferência)
 
@@ -230,7 +247,7 @@ h) Não observar as normas ou instruções dimanadas dos poderes públicos quant
 
 3 - O disposto no número anterior entende-se sem prejuízo dos direitos de preferência estabelecidos na lei a favor dos co-titulares de herança indivisa e dos comproprietários.
 
-###### Art. 11.º O artigo 23.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 11.º O artigo 23.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 23.º — (Intervenção administrativa)
 
@@ -242,7 +259,7 @@ h) Não observar as normas ou instruções dimanadas dos poderes públicos quant
 
 4 - Em caso de não cumprimento por parte do proprietário, poderá o Governo Regional proceder ao arrendamento compulsivo ou promover a expropriação, nos termos do número anterior.
 
-###### Art. 12.º O artigo 24.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 12.º O artigo 24.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 24.º — (Aplicação no tempo)
 
@@ -250,26 +267,26 @@ h) Não observar as normas ou instruções dimanadas dos poderes públicos quant
 
 2 - Para efeitos de denúncia, os contratos, ainda que celebrados por períodos mais curtos, consideram-se em contínua vigência desde o seu início, nos termos do artigo 7.º
 
-###### Art. 13.º O artigo 26.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 13.º O artigo 26.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 26.º — (Direito subsidiário)
 
 Nos casos omissos, em tudo o que não contrarie os princípios deste diploma, aplicam-se as regras gerais dos contratos e as especiais da locação, em conformidade com as disposições do Código Civil.
 
-###### Art. 14.º O artigo 27.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
+Art. 14.º O artigo 27.º do [Decreto Regional n.º 11/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1977-252016), de 20 de Maio, passa a ter a seguinte redacção:
 
 ###### Artigo 27.º — (Competência territorial)
 
 1 - As questões emergentes da aplicação deste diploma legal, nomeadamente as que dizem respeito ao despejo dos prédios, direitos de preferência, oposição às denúncias, fixação e alteração de rendas e outras, serão julgadas no tribunal da comarca da localização dos prédios.
 
-###### Art. 15.º O presente diploma entra em vigor na data da sua publicação.
+Art. 15.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 30 de Novembro de 1981.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 30 de Dezembro de 1981.**
+Assinado em Angra do Heroísmo em 30 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -47,40 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1982-397905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17ea4fffcabf330f67678970f05368d9018d73f9f0ff7c241edd0f09fbbe1e5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 639edfc86e477c17e4ff6c47a1105daaeb2180ab1c76327b9f1044f1d19ac376
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Segurança Social
+- Trabalhador Independente
 relationships:
 - type: amended_by
   target: pt:dre:462003:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:601290:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:45Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +98,9 @@ Com a publicação do [Decreto-Lei n.º 8/82](https://diariodarepublica.pt/dr/de
 
 Assim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aplicado na Região Autónoma dos Açores o [Decreto-Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1982-601290), de 18 de Janeiro, com as adaptações constantes do artigo seguinte.
+Artigo 1.º É aplicado na Região Autónoma dos Açores o [Decreto-Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1982-601290), de 18 de Janeiro, com as adaptações constantes do artigo seguinte.
 
-###### Art. 2.º Ao texto dos artigos 3.º, n.º 2, 5.º, n.º 2, 6.º, n.os 1 e 2, 8.º, n.os 1 e 2, 13.º, 14.º, 17.º, n.º 2, 19.º, 22.º, 23.º, 25.º, n.º 1, e 28.º do [Decreto-Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1982-601290), de 18 de Janeiro, são introduzidas as seguintes adaptações:
+Art. 2.º Ao texto dos artigos 3.º, n.º 2, 5.º, n.º 2, 6.º, n.os 1 e 2, 8.º, n.os 1 e 2, 13.º, 14.º, 17.º, n.º 2, 19.º, 22.º, 23.º, 25.º, n.º 1, e 28.º do [Decreto-Lei n.º 8/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1982-601290), de 18 de Janeiro, são introduzidas as seguintes adaptações:
 
 ###### ARTIGO 3.º
 
@@ -141,7 +148,7 @@ O pagamento das contribuições dos beneficiários referidos nesta secção far-
 
 ###### ARTIGO 22.º
 
-**O Secretário Regional dos Assuntos Sociais poderá estabelecer, por despacho, para certos grupos de beneficiários taxas de contribuições inferiores às estabelecidas no capítulo III deste diploma, a vigorar por um período determinado, nos casos em que se mostre conveniente à transição do regime estabelecido na legislação referida no artigo 29.º**
+O Secretário Regional dos Assuntos Sociais poderá estabelecer, por despacho, para certos grupos de beneficiários taxas de contribuições inferiores às estabelecidas no capítulo III deste diploma, a vigorar por um período determinado, nos casos em que se mostre conveniente à transição do regime estabelecido na legislação referida no artigo 29.º
 
 ###### ARTIGO 23.º
 
@@ -155,14 +162,14 @@ A gestão do regime de previdência estabelecido neste diploma é assegurada pel
 
 Por despacho do Secretário Regional dos Assuntos Sociais serão resolvidas as dúvidas que se suscitem na aplicação do presente diploma.
 
-###### Art. 3.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 Aprovado em Conselho de Governo de 19 de Maio de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 12 de Julho de 1982.**
+Assinado em Angra do Heroísmo em 12 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

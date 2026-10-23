@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2007/01/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2007-522648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e5e69572857f8df8dc9d1bef37b99e0f64a5b3d9043e6fe00bbbe61a009c215
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69637d15cb28b2cce1e1865d721fe2ab7c97e6b38da4cff6e83162be7803bac9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Centro de Oncologia dos Açores PROF Doutor JOSÉ Conde
-- Gestão Financeira
 - Empresa Pública
-- Gestão Administrativa
+- Estabelecimento Hospitalar
 - Estatuto
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Horta
 - Hospital de Santo Espírito
 - Hospital do Divino Espírito Santo
 - Regime Jurídico
-- Estabelecimento Hospitalar
 - Serviço Regional de Saúde
-- Gestão de Recursos Humanos
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:70325360:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:459947:por
+  label: "Alterados, a partir de 05.01.2010, os arts. 11.º, 46.º, 47.º do DLR 28/99/A, de 31-Jul, na redacção do presente\
+    \ diploma, pelo DLR.1/2010/A.04.01.2010.AL-RAA, DR.IS [1] de 04.01.2010, que o republica na íntegra.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2010-459947
+  date: '2010-01-04'
+- type: amended_by
+  target: pt:dre:70325360:por
+  label: Alteradas as designações do Hospital Divino Espírito Santo de Ponta Delgada, E. P. E., do Hospital de Santo Espírito
+    de Angra do Heroísmo, E. P. E. e do Hospital da Horta, E. P. E., criados através do n.º 1 do art. 1.º do Anexo I, alterados
+    ainda o apêndice I e os arts. 1.º a 19.º e 21.º a 25.º do apêndice II do Anexo I, aditado o art. 4.º-A ao apêndice II
+    do Anexo I e revogado n.º 2 do art. 14.º do apêndice II do Anexo I do presente diploma pelo(a) Decreto Legislativo Regional
+    n.º 22/2015/A - Diário da República n.º 183/2015, Série I de 2015-09-18, que republica como Anexo I, o apêndice I, bem
+    como Anexo II, o apêndice II ambos do Anexo I deste diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2015-70325360
+  date: '2015-09-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/503/1999/11/20/p/dre
   label: null
@@ -100,16 +116,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalr/11/1996/07/23/a/dre
   label: null
   source: http://data.dre.pt/eli/resolalr/11/1996/07/23/a/dre
+- type: cites
+  target: pt:dre:194799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 147
+  article_count: 119
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:39Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +202,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 10.º, 11.º, 16.º, 17.º, 18.º, 19.º, 25.
 
 4 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -158,7 +216,9 @@ Os artigos 4.º, 5.º, 6.º, 8.º, 10.º, 11.º, 16.º, 17.º, 18.º, 19.º, 25.
 
 5 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -194,7 +254,9 @@ i) ...
 
 8 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +270,9 @@ i) ...
 
 6 - Os hospitais podem integrar na sua orgânica unidades dotadas de autonomia técnica, mesmo quando estas não revistam a natureza de unidades prestadoras de cuidados de saúde.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Para a prestação de cuidados de saúde específicos, ou para a prossecução de funções complementares de prestação de cuidados de saúde, podem ser criados serviços especializados dotados de autonomia técnica.
 
@@ -216,7 +280,9 @@ i) ...
 
 3 - Os serviços especializados podem ser integrados nas USI.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +300,9 @@ i) ...
 
 8 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -268,13 +336,17 @@ n) ...
 
 3 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Os planos e programas de acção de âmbito regional são aprovados por despacho do membro do Governo Regional com competência em matéria de saúde, ouvido o Conselho Regional de Saúde.
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Sem prejuízo do disposto em legislação especial, a gestão dos órgãos operativos do SRS deverá obedecer aos seguintes requisitos:
 
@@ -290,7 +362,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -304,7 +378,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O membro do Governo Regional com competência em matéria de saúde pode autorizar, com fundamento em razões de interesse público, que o pessoal com relação jurídica de emprego público na Administração Pública, que confira a qualidade de funcionário ou agente, seja contratado por entidades privadas enquadradas no sistema de saúde, sem perda de vínculo, desde que esse pessoal manifeste por escrito essa concordância.
 
@@ -314,11 +390,15 @@ d) ...
 
 4 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 Sem prejuízo do disposto em legislação especial, as áreas profissionais e o número de profissionais em regime de prevenção em cada órgão operativo do SRS serão definidos em portaria conjunta dos membros do Governo Regional com competência em matérias de finanças e saúde.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 1 - ...
 
@@ -332,7 +412,9 @@ Sem prejuízo do disposto em legislação especial, as áreas profissionais e o 
 
 6 - Por decreto regulamentar regional será fixado o regime de relacionamento entre o sistema de assistência na doença dos funcionários da administração regional e local e a estrutura prevista no n.º 3 do artigo 4.º
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -342,13 +424,17 @@ Sem prejuízo do disposto em legislação especial, as áreas profissionais e o 
 
 4 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - O membro do Governo Regional com competência em matéria de saúde pode autorizar a celebração de contratos-programa com autarquias locais, misericórdias ou outras instituições particulares de solidariedade social, com vista a recuperar, a explorar ou a gerir instituições ou serviços prestadores de cuidados de saúde.
 
 2 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - A articulação do SRS com actividades particulares de saúde deverá fazer-se nos seguintes termos:
 
@@ -368,7 +454,9 @@ b) ...
 
 c) A cumprir as orientações emitidas pelo membro do Governo Regional com competência em matéria de saúde.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -380,7 +468,9 @@ c) A cumprir as orientações emitidas pelo membro do Governo Regional com compe
 
 5 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -388,7 +478,9 @@ c) A cumprir as orientações emitidas pelo membro do Governo Regional com compe
 
 3 - O regulamento de deslocação de técnicos de saúde será aprovado por portaria do membro do Governo Regional com competência em matéria de saúde.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -404,7 +496,9 @@ c) A cumprir as orientações emitidas pelo membro do Governo Regional com compe
 
 7 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - Os delegados de saúde de ilha e concelhios são nomeados por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do director regional de Saúde, pelo período de três anos, renovável, de entre médicos da carreira de saúde pública ou, se tal não for possível, transitoriamente, de entre médicos de outras carreiras.
 
@@ -412,7 +506,9 @@ c) A cumprir as orientações emitidas pelo membro do Governo Regional com compe
 
 3 - ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -422,11 +518,15 @@ c) A cumprir as orientações emitidas pelo membro do Governo Regional com compe
 
 4 - Os programas a incluir no plano regional de saúde são estabelecidos por despacho do membro do Governo Regional com competência em matéria de saúde.
 
-###### Artigo 53.º — Centros de saúde
+Artigo 53.º
+
+Centros de saúde
 
 Enquanto não forem criadas e activadas as USI, os centros de saúde mantêm a posição orgânica e funcional prevista no [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro, e respectiva legislação complementar.
 
-###### Artigo 56.º — [...]
+Artigo 56.º
+
+[...]
 
 Os órgãos colegiais previstos neste diploma dispõem de um regulamento interno de funcionamento aprovado pelos próprios órgãos e homologado pelo membro do Governo Regional com competência em matéria de saúde.»
 
@@ -450,7 +550,9 @@ d) Financiamento das suas actividades em função dos actos e serviços a cargo 
 
 e) Aplicação do Plano Oficial de Contabilidade do Ministério da Saúde, com as adaptações necessárias a estabelecer por despacho conjunto dos membros do Governo Regional com competências nas matérias de finanças e saúde.
 
-###### Artigo 8.º-B — Articulação dos hospitais com outras entidades
+Artigo 8.º-B
+
+Articulação dos hospitais com outras entidades
 
 1 - Os hospitais da Região são complementares uns dos outros e cooperam mutuamente.
 
@@ -460,21 +562,29 @@ e) Aplicação do Plano Oficial de Contabilidade do Ministério da Saúde, com a
 
 4 - Sem prejuízo do disposto em lei especial, mediante autorização do membro do Governo Regional com competência em matéria de saúde, os hospitais podem associar-se e celebrar acordos com entidades públicas ou privadas que visem a prestação de cuidados de saúde, com o objectivo de optimizar os recursos disponíveis.
 
-###### Artigo 8.º-C — Modalidades de prestação de cuidados
+Artigo 8.º-C
+
+Modalidades de prestação de cuidados
 
 1 - A prestação de cuidados de saúde hospitalares pode assumir as modalidades de internamento ou semi-internamento, de consulta externa, de urgência e no local de catástrofe ou de sinistro.
 
 2 - Os hospitais devem incentivar a prestação de cuidados na modalidade de semi-internamento, procurando implementar soluções adequadas e possíveis, requeridas por 'hospitais de dia'.
 
-###### Artigo 8.º-D — Regime de funcionamento dos serviços hospitalares prestadores de cuidados de saúde
+Artigo 8.º-D
+
+Regime de funcionamento dos serviços hospitalares prestadores de cuidados de saúde
 
 Os serviços prestadores de cuidados de saúde devem funcionar, sempre que necessário e possível, em regime de presença médica permanente.
 
-###### Artigo 8.º-E — Exercício da actividade
+Artigo 8.º-E
+
+Exercício da actividade
 
 A capacidade jurídica dos hospitais abrange todos os direitos e obrigações necessários à prossecução dos seus fins.
 
-###### Artigo 8.º-F — Natureza jurídica
+Artigo 8.º-F
+
+Natureza jurídica
 
 1 - Os hospitais integrados no SRS podem revestir a natureza jurídica de entidades públicas empresariais ou outras legalmente previstas.
 
@@ -482,7 +592,9 @@ A capacidade jurídica dos hospitais abrange todos os direitos e obrigações ne
 
 3 - Os hospitais que revistam a natureza jurídica de entidades públicas empresariais regem-se pelo respectivo diploma de criação, pelos seus regulamentos internos, pelas normas em vigor para os hospitais do SRS que não sejam incompatíveis com a sua natureza jurídica e, subsidiariamente, pelo regime jurídico aplicável às entidades públicas empresariais, não estando sujeitos às normas aplicáveis aos institutos públicos que revistam a natureza de serviços personalizados ou de fundos autónomos.
 
-###### Artigo 20.º-A — Articulação entre a USI e o hospital
+Artigo 20.º-A
+
+Articulação entre a USI e o hospital
 
 A articulação entre as USI e os hospitais consta de diploma próprio.»
 
@@ -508,11 +620,11 @@ O presente diploma entra em vigor no dia 1 de Janeiro de 2007.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 23 de Novembro de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 18 de Dezembro de 2006.**
+Assinado em Angra do Heroísmo em 18 de Dezembro de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -768,13 +880,13 @@ Aplica-se aos hospitais E. P. E. o regime de comissão de serviço previsto no a
 
 Os regulamentos internos dos hospitais E. P. E. devem ser elaborados e submetidos a homologação do membro do Governo Regional com competência em matéria de saúde no prazo de 120 dias a contar da data de entrada em vigor do presente regime.
 
-## APÊNDICE I
+APÊNDICE I
 
 Especificidades estatutárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01700/06420665.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01700/06420665.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01700/06420665.pdf)
 
-## APÊNDICE II
+APÊNDICE II
 
 Estatutos
 

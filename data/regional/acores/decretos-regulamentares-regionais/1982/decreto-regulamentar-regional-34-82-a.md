@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1982-374639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa21504437d76b7bb253b8820c591485ed7614954a84f76ccc73d1f1a171f35d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9865ce6c141056c484c68ac0b48a46a02c2f60a2286562419ba3115878df4909
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Estabelecimento Hospitalar
+- Ponta Delgada
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:662335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:442694:por
+  label: "Substituídos, na parte relativa ao pessoal de enfermagem, os quadros de pessoal, aprovados pelo DRR 14/81/A, de\
+    \ 24-Fev, com as alterações introduzidas pelo DRR 32/82/A, de 08-Jun e pelo DRR 34/82/A, de 30-Ago, DRR.45/83/A.1983.04.22.GR-RAADR.IS\
+    \ [221], de 24/Set/1983\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/45-1983-442694
+  date: '1983-09-24'
+- type: amended_by
+  target: pt:dre:181071:por
+  label: "Substituído, na parte relativa ao pessoal médico, o quadro de pessoal do Hospital de Ponta Delgada, aprovado pelo\
+    \ DRR 14/81/A, de 24-Fev, com as alterações introduzidas pelo presente diploma, e pelos DRR 32/81/A, de 08-Jun, 21/82/A,\
+    \ de 05-Mai, 16/83/A, de 23-Abr e 45/83/A, de 24-Set, pelo DRR.17/85/A.1985.08.05.GR-RAA, DR.IS [197] de 28/Ago/1985\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1985-181071
+  date: '1985-08-05'
+- type: amended_by
+  target: pt:dre:662335:por
+  label: "Alterado o quadro de pessoal do Hospital de Ponta Delgada, aprovado pelo DRR 14/81/A, de 24-Fev, com as alterações\
+    \ introduzidas pelo presente diploma, pelo DRR.5/87/A.1987.02.16.GR-RAA, DR.IS [69] de 24/Mar/1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1987-662335
+  date: '1987-02-16'
+- type: cites
+  target: pt:dre:391262:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:46Z'
   warnings: []
   errors: []
 ---
@@ -93,16 +122,16 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º São aditados 5 lugares de enfermeiro-subchefe ao quadro de pessoal do Hospital de Ponta Delgada, aprovado pelo [Decreto Regulamentar Regional n.º 14/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1981-391262), de 24 de Fevereiro.
+Artigo 1.º São aditados 5 lugares de enfermeiro-subchefe ao quadro de pessoal do Hospital de Ponta Delgada, aprovado pelo [Decreto Regulamentar Regional n.º 14/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1981-391262), de 24 de Fevereiro.
 
-###### Art. 2.º São abatidos ao mesmo quadro 5 lugares de enfermeiro de 2.ª classe.
+Art. 2.º São abatidos ao mesmo quadro 5 lugares de enfermeiro de 2.ª classe.
 
 Aprovado pelo Governo Regional em 30 de Junho de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Agosto de 1982.**
+Assinado em Angra do Heroísmo em 3 de Agosto de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

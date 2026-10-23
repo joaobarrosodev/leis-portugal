@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 252/2008, 4º Suplemento, Série I de 2008-12-31
   number: '252'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 9300-(430) a 9300-(431)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/12/25204/0043000431.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1553-c/2008/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1553-c-2008-243732
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2916f4f199363e79280454de8e5386cd99e9e2f9ae65b9709c1ec29f0a83fe4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d50c11ed9422357f8d1339bf88244159ebc1fd15cbd5efc6bf48e16d4b545f4b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abono para Falhas
-- Função Pública
-- Pessoal Dirigente
 - Administração Pública
-- Remuneração Acessória
-- Remuneração
+- Função Pública
 - Funcionário Público
+- Pessoal Dirigente
+- Remuneração
+- Remuneração Acessória
 relationships:
 - type: amended_by
   target: pt:dre:1150611375:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25676932:por
+  label: "Determinada a manutenção em vigor, pela LEI.35/2014.20.06.2014.AR, DR.IS [117] de 20.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2014-25676932
+  date: '2014-06-20'
+- type: amended_by
+  target: pt:dre:155938993:por
+  label: Atualizado, com efeitos a 1.01.2021, o montante pecuniário dos níveis remuneratórios da tabela remuneratória única,
+    nível 5 da TRU (euro 703,13), nível 6 da TRU (euro 750,26) e nível 7 da TRU (euro 801,91) aprovada pela presente portaria,
+    pelo(a) Decreto-Lei n.º 10/2021 - Diário da República n.º 21/2021, Série I de 2021-02-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2021-155938993
+  date: '2021-02-01'
+- type: amended_by
+  target: pt:dre:175595603:por
+  label: Atualizado, com efeitos a 1.01.2022, o valor em 0,9 %. dos montantes pecuniários dos níveis remuneratórios da tabela
+    remuneratória única, aprovada pela presente portaria, pelo(a) Decreto-Lei n.º 109-A/2021 - Diário da República n.º 236/2021,
+    1º Suplemento, Série I de 2021-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-a-2021-175595603
+  date: '2021-12-07'
+- type: amended_by
+  target: pt:dre:204916688:por
+  label: Revisto, com efeitos a 01.01.2023, o valor dos montantes pecuniários dos níveis remuneratórios 5, 6, 7, 8 , 9 a 41
+    e acima do nível 41 da Tabela Remuneratória Única (TRU) aprovada pela presente Portaria, pelo(a) Decreto-Lei n.º 84-F/2022
+    - Diário da República n.º 241/2022, 1º Suplemento, Série I de 2022-12-16, nos termos do seu art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/84-f-2022-204916688
+  date: '2022-12-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/61/1992/04/15/p/dre
   label: null
@@ -90,16 +116,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:200862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:33Z'
   warnings: []
   errors: []
 ---
@@ -160,4 +214,4 @@ Pelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das F
 
 Tabela remuneratória única
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/12/25204/0043000431.pdf))](https://files.diariodarepublica.pt/1s/2008/12/25204/0043000431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/12/25204/0043000431.pdf)

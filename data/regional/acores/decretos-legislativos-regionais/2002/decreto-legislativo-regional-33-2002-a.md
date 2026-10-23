@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/255a00/71047104.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/33/2002/11/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2002-424723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb1426a4895a91c8c23dee300b4c7c6b635486d3318401b7a0672c20d19f0ad0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cb1e19b3528643debbf0a9b0a73f47070520496f3db1344551c68ef9b8732cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento Desportivo
-- Multa
+- Açores
 - Contra-ordenação
 - Controlo Anti-doping
 - Definição de Competências
+- Desporto
 - Direcção Regional da Educação Física e Desporto
-- Fundo Regional de Fomento do Desporto
+- Equipamento Desportivo
 - Exame Médico
+- Fundo Regional de Fomento do Desporto
+- Multa
 - Normas de Segurança
 - Segurança das Instalações
-- Açores
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:186029191:por
@@ -91,16 +91,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
+- type: cites
+  target: pt:dre:448681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667973:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:75715703:por
+  label: Revogado, a partir de 09.02.2017, pelo(a) Decreto Legislativo Regional n.º 24/2016/A - Diário da República n.º 217/2016,
+    Série I de 2016-11-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2016-75715703
+  date: '2016-11-11'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:40Z'
   warnings: []
   errors: []
 ---
@@ -153,10 +167,10 @@ O presente diploma entra em vigor no prazo de 60 dias a contar da sua data de pu
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 25 de Setembro de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 16 de Outubro de 2002.**
+Assinado em Angra do Heroísmo em 16 de Outubro de 2002.
 
 Pubique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

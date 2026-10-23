@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/186/2009/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/186-2009-602057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6716b38c2fa7353d05fe43b3b237f93a4e8d2e36cf69b8840da79d83f9bb8b49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0eb4fef4a976885785db85e8ea395055836aacdaa749a24236b39fb8d59c599e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,13 @@ relationships:
   target: pt:dre:485625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:485625:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa da Herdade dos Tojais e outras concessionada\
+    \ pela Port 667-Q3/93, de 14-Jul e alterada pelo presente diploma, pela PORT.24/2011.07.01.2011.MADRP, DR.IS [5] de 07.01.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24-2011-485625
+  date: '2011-01-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -88,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/168/2001/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/168/2001/03/08/p/dre
+- type: cites
+  target: pt:dre:400656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:41Z'
   warnings: []
   errors: []
 ---
@@ -124,4 +143,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 10 de Fevereiro de 2009. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 11 de Fevereiro de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03600/0121001210.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03600/0121001210.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03600/0121001210.pdf)

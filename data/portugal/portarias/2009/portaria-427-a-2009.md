@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 79/2009, 1º Suplemento, Série I de 2009-04-23
   number: '79'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2422-(2) a 2422-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/427-a/2009/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/427-a-2009-619768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 975b4ba3e19ec0c8f50b34c2d4c135c45a151b4199912cdf9679d16984bbfa01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e91b423673b78fa7cbe56eb7b6186e6467811c3614eb71f94d29094f2136b4c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,23 +68,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
+- Agricultor
+- Agricultura
+- Apoio ao Investimento
 - Desenvolvimento Rural
 - Feader
-- Reconversão da Produção
-- Apoio ao Investimento
-- Projeto de Investimento
+- Financiamento
 - IFAP
-- Agricultor
+- Proder
 - Produção Agrícola
+- Projeto de Investimento
+- Reconversão da Produção
 - Regulamento
-- Agricultura
 relationships:
 - type: amended_by
   target: pt:dre:260105:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 8º, 20º e 22º e os anexos II, V, VII, IX e XI do Regulamento aprovado pela Port 229-B/2008, de\
+    \ 06-Mar, na redacção do presente diploma, pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:260105:por
+  label: "Alterados os arts. 22.º e 26.º do Regulamento de Aplicação da Ação n.º 2.2.1, «Alteração de Modos de Produção Agrícola»,\
+    \ da Ação n.º 2.2.2, «Proteção da Biodiversidade Doméstica», e da Ação n.º 2.2.4 «Conservação do solo», aprovado em anexo\
+    \ à Port 229-B/2008, de 06-mar, na redação do presente diploma, pela PORT.137/2013.01.04.2013.MAMAOT, DR.IS [63] de 01.04.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2013-260105
+  date: '2013-04-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre
   label: null
@@ -101,16 +115,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/229-b/2008/03/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/229-b/2008/03/06/p/dre
+- type: cites
+  target: pt:dre:226244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630414:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:494272:por
+  label: "Rectificada pela DECL-RECT.39/2009.02.06.2009.PCM, DR.IS [106] de 02.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/39-2009-494272
+  date: '2009-06-02'
 article_structure:
-  article_count: 25
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:07Z'
   warnings: []
   errors: []
 ---
@@ -187,7 +222,9 @@ O artigo 1.º, as alíneas b) e c) do n.º 1 e a alínea b) do n.º 2 do artigo 
 
 O presente Regulamento estabelece o regime de aplicação da acção n.º 2.2.1, 'Alteração de modos de produção agrícola', da acção n.º 2.2.2, 'Protecção da biodiversidade doméstica', e da acção n.º 2.2.4, 'Conservação do solo', no âmbito da medida n.º 2.2, 'Valorização de modos de produção', integrada no subprograma n.º 2 do Programa de Desenvolvimento Rural do Continente, designado por PRODER.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -217,7 +254,9 @@ d)...
 
 5 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -239,7 +278,9 @@ iii) Terceira - unidades de produção que apresentaram novo pedido de apoio res
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -271,7 +312,9 @@ d) Epizootia que afecte parte dos efectivos ou razões sanitárias de ordem fito
 
 8 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -297,7 +340,9 @@ g) Epizootia que afecte a totalidade ou parte dos efectivos ou razões sanitári
 
 5 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - Os apoios a conceder no âmbito da acção n.º 2.2.1, 'Alteração dos modos de produção', e da acção n.º 2.2.4, 'Conservação do solo', nos termos do presente Regulamento, são cumuláveis com os apoios a conceder no âmbito do regulamento de aplicação das componentes agro-ambientais e silvo-ambientais das intervenções territoriais integradas (ITI), com excepção do apoio previsto na acção n.º 2.2.4, 'Conservação do solo', quando as áreas candidatas sejam objecto de apoio para utilização dessas mesmas técnicas no âmbito da ITI.
 
@@ -327,7 +372,9 @@ Ao Regulamento anexo à [Portaria n.º 229-B/2008](https://diariodarepublica.pt/
 
 6 - Sem prejuízo do disposto nas alíneas b) e d) do n.º 2, os animais de outrem que pastoreiem parcelas da unidade de produção com áreas forrageiras em sob coberto devem ser de espécie distinta dos animais do próprio existentes na unidade de produção, podendo não estar submetidos ao normativo de PRODI ou MPB desde que não coloquem em causa o cumprimento dos normativos específicos a que está sujeita a unidade de produção.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -341,7 +388,9 @@ Ao Regulamento anexo à [Portaria n.º 229-B/2008](https://diariodarepublica.pt/
 
 6 - A produção obtida durante o período de conversão para modo de produção biológico fica dispensada da certificação referida na subalínea ii) da alínea b) do n.º 1.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -369,7 +418,9 @@ Ao Regulamento anexo à [Portaria n.º 229-B/2008](https://diariodarepublica.pt/
 
 13 - Nas parcelas ocupadas com culturas temporárias sujeitas ao compromisso de não recorrer a monda química em pelo menos 5 % da área por parcela, não é aplicável o disposto no n.º 7, sendo pagas a área elegível semeada ou plantada e a área elegível não semeada ou não plantada até ao limite de 5 % da área total da parcela.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -377,7 +428,9 @@ Ao Regulamento anexo à [Portaria n.º 229-B/2008](https://diariodarepublica.pt/
 
 3 - Manter o número de animais por espécie ou, em caso de substituição de espécie, manter o número de cabeças normais inicialmente comprometidas.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -411,7 +464,9 @@ ii) Segunda - outras unidades de produção.
 
 7 - A decisão mencionada no n.º 3 fica condicionada à apresentação de cópia do contrato referido na alínea c) do n.º 1 do artigo 8.º aquando da assinatura do termo de aceitação.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -441,7 +496,9 @@ e) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da man
 
 9 - Para aumentos de área superiores aos limites referidos no n.º 4, o beneficiário deve apresentar um novo pedido de apoio relativo à totalidade da área da unidade de produção, iniciando-se, caso venha a ser admitido, um novo período de compromisso de cinco anos que determina a extinção automática dos compromissos anteriores.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -469,7 +526,9 @@ h) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da man
 
 5 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -481,9 +540,13 @@ h) Roubo ou outras razões imputáveis a circunstâncias naturais da vida da man
 
 5 - Os montantes dos apoios no âmbito da acção 'Alteração de modos de produção agrícola' são cumuláveis com os apoios da acção 'Conservação do solo' até ao limite máximo de (euro) 600 por hectare.
 
-### CAPÍTULO III-A — Acção n.º 2.2.4, 'Conservação do solo'
+CAPÍTULO III-A
 
-###### Artigo 18.º-A — Beneficiários
+Acção n.º 2.2.4, 'Conservação do solo'
+
+Artigo 18.º-A
+
+Beneficiários
 
 Podem beneficiar dos apoios previstos no presente capítulo:
 
@@ -491,7 +554,9 @@ a) Pessoas singulares ou colectivas, de natureza pública ou privada, detentoras
 
 b) Órgãos de gestão de baldios na acepção da [Lei n.º 68/93](https://diariodarepublica.pt/dr/detalhe/lei/68-1993-630414), de 4 de Setembro.
 
-###### Artigo 18.º-B — Critérios de elegibilidade
+Artigo 18.º-B
+
+Critérios de elegibilidade
 
 Podem beneficiar dos apoios previstos no presente capítulo as entidades referidas no artigo anterior que reúnam as seguintes condições:
 
@@ -505,7 +570,9 @@ b) Candidatem uma área de culturas temporárias em rotação;
 
 c) Semeiem anualmente pelo menos 20 % da área de rotação candidata.
 
-###### Artigo 18.º-C — Compromissos dos beneficiários
+Artigo 18.º-C
+
+Compromissos dos beneficiários
 
 1 - Para além do disposto no artigo 5.º, os beneficiários dos apoios previstos no presente capítulo, durante todo o período do compromisso, são obrigados a:
 
@@ -531,13 +598,17 @@ d) Utilização de outra técnica de mobilização, quando não exista alternati
 
 5 - O disposto no n.º 1 do presente artigo produz efeitos a partir de 1 de Outubro do ano do pedido de apoio.
 
-###### Artigo 18.º-D — Forma do apoio
+Artigo 18.º-D
+
+Forma do apoio
 
 1 - O apoio assume a forma de pagamento, a título compensatório, por hectare semeado na área de rotação candidata, sendo atribuído anualmente, durante o período de compromisso, em função do tipo de cultura.
 
 2 - São consideradas elegíveis para pagamento, nos termos do artigo 18.º-E, as áreas candidatas que reúnam os critérios de elegibilidade aplicáveis referidos no artigo 18.º-B e cumpram os compromissos aplicáveis referidos no artigo 18.º-C.
 
-###### Artigo 18.º-E — Montantes e limites do apoio
+Artigo 18.º-E
+
+Montantes e limites do apoio
 
 1 - Os montantes do apoio por hectare são os estabelecidos no anexo iv a este Regulamento, sendo os montantes totais calculados pela aplicação sucessiva dos escalões.
 
@@ -559,7 +630,7 @@ d) Utilização de outra técnica de mobilização, quando não exista alternati
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 14 de Abril de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 14 de Abril de 2009.
 
 ## ANEXO — (anexos II, III, IV, V, VII, IX, XI e XIII da [Portaria n.º 229-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/229-b-2008-226244))
 
@@ -567,31 +638,31 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 [a que se refere a subalínea iii) da alínea b) do n.º 1 do artigo 9.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
 
 ## ANEXO III — Montantes do apoio estabelecidos por tipo de cultura e modulados em função da respectiva área elegível a que se refere o n.º 1 do artigo 12.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
 
 ## ANEXO IV — Montantes do apoio estabelecidos por tipo de cultura e modulados em função da respectiva área elegível a que se refere o artigo 18.º-E
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
 
 ## ANEXO V — Lista de raças autóctones ameaçadas e respectiva classificação quanto ao grau de risco de extinção a que se refere o artigo 13.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
 
 ## ANEXO VII — Compromissos a que se refere o n.º 3 do artigo 26.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
 
 ## ANEXO IX — Compromissos a que se refere o n.º 5 do artigo 26.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
 
 ## ANEXO XI — Compromissos a que se refere o n.º 8 do artigo 26.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
 
 ## ANEXO XIII
 
@@ -599,4 +670,4 @@ Práticas culturais e de gestão a adoptar no âmbito da acção n.º 2.2.4, «C
 
 [a que se refere a alínea c) do n.º 1 do artigo 18.º-C]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf))](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/07901/0000200013.pdf)

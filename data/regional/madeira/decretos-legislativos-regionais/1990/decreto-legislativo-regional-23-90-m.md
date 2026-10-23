@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/09/22300/39903994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1990-555021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2324a742394be5118f30920020d8cd765cbe12bb20699596fb968a160d1e8dd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8f31d4bff17da1663e5bd3da4380d791957d04a0b71e2808f46bbc674f0839a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Artesanato
+- Instituto do Bordado Tapeçaria e Artesanato da Madeira
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:480297:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662492:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:659282:por
+  label: "Revogado pelo DLR.14/91/M.18.06.1991.ALR-RAM, DR.IS-A [137] de 18.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-1991-659282
+  date: '1991-06-18'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:30Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +154,19 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovada a Lei Orgânica do Instituto do Bordado, Tapeçarias e Artesanato da Madeira (IBTAM), criado pelo [Decreto Regional n.º 2/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/2-1977-140519), de 3 de Março, publicada em anexo ao presente diploma e dele fazendo parte integrante.
+Artigo 1.º É aprovada a Lei Orgânica do Instituto do Bordado, Tapeçarias e Artesanato da Madeira (IBTAM), criado pelo [Decreto Regional n.º 2/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/2-1977-140519), de 3 de Março, publicada em anexo ao presente diploma e dele fazendo parte integrante.
 
-###### Art. 2.º São revogados o [Decreto Regional n.º 7/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/7-1978-446704), de 28 de Fevereiro, e as Portarias n.os [74/79](https://diariodarepublica.pt/dr/detalhe/portaria/74-1979-393227) e [146/87](https://diariodarepublica.pt/dr/detalhe/portaria/146-1987-662492), de 26 de Julho e de 7 de Dezembro, respectivamente.
+Art. 2.º São revogados o [Decreto Regional n.º 7/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/7-1978-446704), de 28 de Fevereiro, e as Portarias n.os [74/79](https://diariodarepublica.pt/dr/detalhe/portaria/74-1979-393227) e [146/87](https://diariodarepublica.pt/dr/detalhe/portaria/146-1987-662492), de 26 de Julho e de 7 de Dezembro, respectivamente.
 
-###### Art. 3.º O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 24 de Julho de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 14 de Agosto de 1990.**
+Assinado em 14 de Agosto de 1990.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 LEI ORGÂNICA DO INSTITUTO DO BORDADO, TAPEÇARIAS E ARTESANATO DA MADEIRA
 
@@ -116,7 +174,7 @@ LEI ORGÂNICA DO INSTITUTO DO BORDADO, TAPEÇARIAS E ARTESANATO DA MADEIRA
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - O Instituto do Bordado, Tapeçarias e Artesanato da Madeira, abreviadamente designado por IBTAM, é um instituto dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio.
+Artigo 1.º - 1 - O Instituto do Bordado, Tapeçarias e Artesanato da Madeira, abreviadamente designado por IBTAM, é um instituto dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio.
 
 2 - O IBTAM funciona sob a tutela do Secretário Regional da Economia.
 
@@ -124,7 +182,7 @@ LEI ORGÂNICA DO INSTITUTO DO BORDADO, TAPEÇARIAS E ARTESANATO DA MADEIRA
 
 4 - O IBTAM poderá abrir delegações, no País e no estrangeiro, sempre que o conselho de administração o julgar necessário, depois de ouvido o conselho consultivo.
 
-###### Art. 2.º São atribuições do IBTAM:
+Art. 2.º São atribuições do IBTAM:
 
 a) Incentivar e disciplinar as actividades relacionadas com o bordado, tapeçarias e artesanato da Madeira nas suas modalidades de produção, distribuição e comercialização;
 
@@ -136,7 +194,7 @@ d) Defender o bom nome e controlar a qualidade do bordado, tapeçarias e artesan
 
 e) Representar oficialmente o sector do bordado, tapeçarias e artesanato da Região em organizações internacionais e promover as relações inter-regiões e internacionais referentes aos mesmos ramos de actividade.
 
-###### Art. 3.º Para o exercício das suas atribuições, compete ao Instituto:
+Art. 3.º Para o exercício das suas atribuições, compete ao Instituto:
 
 a) Definir as regras sobre produção, distribuição e comercialização do bordado, tapeçarias e artesanato, sem prejuízo da competência própria dos órgãos de governo da Região;
 
@@ -174,7 +232,7 @@ r) Propor anualmente ao Governo Regional a fixação dos preços mínimos a paga
 
 ### CAPÍTULO II — Órgãos do IBTAM
 
-###### Art. 4.º São órgãos do IBTAM:
+Art. 4.º São órgãos do IBTAM:
 
 a) O presidente;
 
@@ -186,7 +244,7 @@ d) O conselho consultivo.
 
 #### SECÇÃO I — Presidente
 
-###### Art. 5.º - 1 - O presidente do IBTAM é nomeado por despacho do Secretário Regional da Economia.
+Art. 5.º - 1 - O presidente do IBTAM é nomeado por despacho do Secretário Regional da Economia.
 
 2 - Compete especialmente ao presidente do IBTAM:
 
@@ -204,13 +262,13 @@ c) Representar o Instituto em juízo.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 6.º - 1 - O conselho de administração é constituído pelo presidente do IBTAM e por dois vice-presidentes.
+Art. 6.º - 1 - O conselho de administração é constituído pelo presidente do IBTAM e por dois vice-presidentes.
 
 2 - Os vice-presidentes do conselho de administração são equiparados, para efeitos remuneratórios, a directores de serviços.
 
 3 - Os vice-presidentes do conselho de administração são nomeados por despacho do Secretário Regional da Economia.
 
-###### Art. 7.º - 1 - A gerência do IBTAM compete ao conselho de administração.
+Art. 7.º - 1 - A gerência do IBTAM compete ao conselho de administração.
 
 2 - O conselho de administração reunirá ordinariamente uma vez por semana, considerando-se legalmente constituído com a presença de dois dos seus membros, e das suas decisões será lavrada acta.
 
@@ -218,7 +276,7 @@ c) Representar o Instituto em juízo.
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 8.º - 1 - O conselho fiscal é constituído por três elementos, nomeados por despacho conjunto dos Secretários Regionais da Economia e das Finanças.
+Art. 8.º - 1 - O conselho fiscal é constituído por três elementos, nomeados por despacho conjunto dos Secretários Regionais da Economia e das Finanças.
 
 2 - A composição do conselho fiscal é a seguinte:
 
@@ -230,7 +288,7 @@ c) Um representante da Direcção Regional do Comércio e Indústria.
 
 3 - Os mandatos dos membros do conselho fiscal têm a duração de três anos.
 
-###### Art. 9.º - 1 - Compete ao conselho fiscal:
+Art. 9.º - 1 - Compete ao conselho fiscal:
 
 a) Examinar periodicamente a situação financeira e económica do IBTAM e proceder à verificação dos valores patrimoniais;
 
@@ -246,7 +304,7 @@ d) Emitir parecer sobre qualquer assunto que lhe seja submetido pelos órgãos d
 
 #### SECÇÃO IV — Conselho consultivo
 
-###### Art. 10.º - 1 - O conselho consultivo é constituído pelo presidente do IBTAM e pelos seguintes vogais:
+Art. 10.º - 1 - O conselho consultivo é constituído pelo presidente do IBTAM e pelos seguintes vogais:
 
 a) Seis representantes do Governo Regional da Madeira, em representação das secretarias que tenham a seu cargo os serviços de comércio, indústria, agricultura, turismo, trabalho e Comunidades Europeias, um por cada um dos referidos serviços;
 
@@ -262,7 +320,7 @@ f) Um representante do Sindicato dos Trabalhadores da Indústria de Bordados, Ta
 
 2 - A duração do mandato dos membros do conselho consultivo é de três anos.
 
-###### Art. 11.º - 1 - Ao conselho consultivo incumbe pronunciar-se sobre:
+Art. 11.º - 1 - Ao conselho consultivo incumbe pronunciar-se sobre:
 
 a) O plano de actividades do IBTAM;
 
@@ -284,11 +342,11 @@ e) Quaisquer outros assuntos submetidos à sua apreciação.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 12.º - 1 - Considera-se artesanato a actividade de produção, transformação ou reparação cuja intervenção manual constitua o factor predominante no processo de fabrico.
+Art. 12.º - 1 - Considera-se artesanato a actividade de produção, transformação ou reparação cuja intervenção manual constitua o factor predominante no processo de fabrico.
 
 2 - São também considerados artesanato, para efeitos do presente diploma, os bordados e tapeçarias feitos à mão com pontos autorizados pelo IBTAM.
 
-###### Art. 13.º - 1 - Produtor é a entidade singular ou colectiva que intervém no todo ou em parte do processo de produção.
+Art. 13.º - 1 - Produtor é a entidade singular ou colectiva que intervém no todo ou em parte do processo de produção.
 
 2 - Todos os produtores e exportadores deverão inscrever-se no IBTAM.
 
@@ -296,7 +354,7 @@ e) Quaisquer outros assuntos submetidos à sua apreciação.
 
 #### SECÇÃO II — Dos apoios e da assistência técnica
 
-###### Art. 14.º - 1 - O IBTAM poderá conceder apoios de diversa natureza a empresas produtoras de bordados, tapeçarias, obras de vimes e demais artesanato, nomeadamente para a aquisição de equipamentos, prospecção de mercados, participação em feiras da especialidade e elaboração de catálogos.
+Art. 14.º - 1 - O IBTAM poderá conceder apoios de diversa natureza a empresas produtoras de bordados, tapeçarias, obras de vimes e demais artesanato, nomeadamente para a aquisição de equipamentos, prospecção de mercados, participação em feiras da especialidade e elaboração de catálogos.
 
 2 - O IBTAM poderá também conceder apoios a todo o produtor que se proponha investigar sobre novas actividades artesanais ou sobre novas formas de produção das actividades existentes.
 
@@ -306,7 +364,7 @@ e) Quaisquer outros assuntos submetidos à sua apreciação.
 
 ### CAPÍTULO II — Da comercialização
 
-###### Art. 15.º - 1 - Todo o bem ou produto do bordado e tapeçarias produzido na Região, independentemente do seu modelo, desenho, dimensão, método de composição, fabrico ou forma de apresentação, deverá ser submetido antes da sua comercialização à apreciação técnica do IBTAM.
+Art. 15.º - 1 - Todo o bem ou produto do bordado e tapeçarias produzido na Região, independentemente do seu modelo, desenho, dimensão, método de composição, fabrico ou forma de apresentação, deverá ser submetido antes da sua comercialização à apreciação técnica do IBTAM.
 
 2 - Na promoção do artesanato regional, no País ou no estrangeiro, nomeadamente em exposições, feiras ou certames da especialidade, compete ao IBTAM controlar a qualidade dos produtos expostos.
 
@@ -314,7 +372,7 @@ e) Quaisquer outros assuntos submetidos à sua apreciação.
 
 ### CAPÍTULO III — Receitas
 
-###### Art. 16.º Constituem receitas do IBTAM:
+Art. 16.º Constituem receitas do IBTAM:
 
 a) As dotações atribuídas pelo Governo Regional da Madeira;
 
@@ -326,7 +384,7 @@ d) O produto da alienação de bens próprios e da constituição de direitos so
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 17.º - 1 - O pessoal do quadro do IBTAM abrangido pela presente Lei Orgânica é agrupado em:
+Art. 17.º - 1 - O pessoal do quadro do IBTAM abrangido pela presente Lei Orgânica é agrupado em:
 
 a) Pessoal dirigente;
 
@@ -344,28 +402,28 @@ g) Pessoal auxiliar.
 
 2 - O quadro de pessoal referido no número anterior é o constante do mapa anexo à presente Lei Orgânica.
 
-###### Art. 18.º - 1 - O pessoal do quadro do IBTAM transita para o quadro constante do mapa anexo à presente Lei Orgânica e é integrado em igual categoria e carreira, ou em categoria e carreira equivalentes, com a mesma área funcional e para o escalão a que corresponde o mesmo índice remuneratório, ou, quando não se verifique coincidência de índice, para o escalão de índice imediatamente superior da estrutura da categoria para que se processa a transição.
+Art. 18.º - 1 - O pessoal do quadro do IBTAM transita para o quadro constante do mapa anexo à presente Lei Orgânica e é integrado em igual categoria e carreira, ou em categoria e carreira equivalentes, com a mesma área funcional e para o escalão a que corresponde o mesmo índice remuneratório, ou, quando não se verifique coincidência de índice, para o escalão de índice imediatamente superior da estrutura da categoria para que se processa a transição.
 
 2 - A carreira de auxiliar técnico de artesanato é extinta, transitando o respectivo pessoal para a carreira de auxiliar de artesanato, considerando-se o tempo de serviço prestado naquela carreira como o tendo sido na carreira para que transita.
 
 3 - A transição e integração referidas nos números anteriores far-se-á pela aplicação deste diploma e elaboração e publicação de lista nominativa.
 
-###### Art. 19.º As escalas salariais das categorias de chefe de gabinete de planeamento, investigação e desenvolvimento e de auxiliar de artesanato são as previstas no mapa anexo ao presente diploma.
+Art. 19.º As escalas salariais das categorias de chefe de gabinete de planeamento, investigação e desenvolvimento e de auxiliar de artesanato são as previstas no mapa anexo ao presente diploma.
 
-###### Art. 20.º A progressão na categoria de chefe de gabinete de planeamento, investigação e desenvolvimento faz-se por mudança de escalão e depende da permanência durante três anos no escalão imediatamente anterior.
+Art. 20.º A progressão na categoria de chefe de gabinete de planeamento, investigação e desenvolvimento faz-se por mudança de escalão e depende da permanência durante três anos no escalão imediatamente anterior.
 
-###### Art. 21.º - 1 - O recrutamento para o ingresso na carreira de auxiliar de artesanato far-se-á, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória.
+Art. 21.º - 1 - O recrutamento para o ingresso na carreira de auxiliar de artesanato far-se-á, mediante concurso, de entre indivíduos habilitados com a escolaridade obrigatória.
 
 2 - A progressão na carreira referida no número anterior far-se-á por mudança de escalão e depende da permanência durante quatro anos no escalão imediatamente anterior.
 
-###### Art. 22.º O pessoal de informática é recrutado e provido nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, aplicado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 9/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1982-391838), de 2 de Junho.
+Art. 22.º O pessoal de informática é recrutado e provido nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, aplicado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 9/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1982-391838), de 2 de Junho.
 
-###### Art. 23.º Em tudo o que não esteja regulado no presente diploma, nomeadamente condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal do IBTAM, é aplicável o [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, adaptado à Região Autónoma da Madeira pelo [Decreto Legislativo Regional n.º 4/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1986-196235), de 3 de Abril, o [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, e demais legislação complementar em vigor.
+Art. 23.º Em tudo o que não esteja regulado no presente diploma, nomeadamente condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal do IBTAM, é aplicável o [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, adaptado à Região Autónoma da Madeira pelo [Decreto Legislativo Regional n.º 4/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1986-196235), de 3 de Abril, o [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, e demais legislação complementar em vigor.
 
 ### CAPÍTULO V — Da fiscalização, contra-ordenações e sanções
 
-###### Art. 24.º As atribuições e competências do IBTAM em matéria de fiscalização dos sectores inseridos no seu âmbito de actividade, bem como a aplicação das respectivas sanções, são as definidas no [Decreto Regulamentar Regional n.º 11/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1986-228576), de 28 de Junho, nas Portarias n.os [215/89](https://diariodarepublica.pt/dr/detalhe/portaria/215-1989-613707) e [216/89](https://diariodarepublica.pt/dr/detalhe/portaria/216-1989-613746), ambas de 28 de Dezembro, e demais normas legais aplicáveis.
+Art. 24.º As atribuições e competências do IBTAM em matéria de fiscalização dos sectores inseridos no seu âmbito de actividade, bem como a aplicação das respectivas sanções, são as definidas no [Decreto Regulamentar Regional n.º 11/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1986-228576), de 28 de Junho, nas Portarias n.os [215/89](https://diariodarepublica.pt/dr/detalhe/portaria/215-1989-613707) e [216/89](https://diariodarepublica.pt/dr/detalhe/portaria/216-1989-613746), ambas de 28 de Dezembro, e demais normas legais aplicáveis.
 
 Mapa anexo a que se refere o n.º 2 do artigo 17.º da Lei Orgânica do IBTAM
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/22300/39903994.pdf))](https://files.diariodarepublica.pt/1s/1990/09/22300/39903994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/09/22300/39903994.pdf)

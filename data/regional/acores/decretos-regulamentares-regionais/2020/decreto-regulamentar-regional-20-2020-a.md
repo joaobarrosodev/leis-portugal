@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/08/15900/0005200057.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2020/08/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2020-140431107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d01ed07d9684e1711773b994ba49019ae2c75fbfeead71da74806126513a0b7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c126f93549feb487cd1c404e1c80d4fe5f9c4f07adc25d1c45259d4640d22f0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Regional
 - Ajudas de Custo
+- Carreira Profissional
 - Curso de Formação
 - Definição de Competências
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Mestre Florestal
 - Descrição de Funções
 - Guarda Florestal
+- Mestre Florestal
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Regime Jurídico
 - Remuneração
 - Secretaria Regional dos Recursos Naturais
-- Administração Regional
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2018/01/03/a/dre
@@ -109,15 +109,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
 article_structure:
-  article_count: 18
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:33Z'
   warnings: []
   errors: []
 ---
@@ -148,11 +148,15 @@ O presente diploma aprova o Regime Jurídico da Carreira Específica de Guarda-F
 
 Regime Jurídico da Carreira de Guarda-Florestal da Região Autónoma dos Açores
 
-###### Artigo 1.º — Objeto e âmbito de aplicação
+Artigo 1.º
+
+Objeto e âmbito de aplicação
 
 O presente anexo procede à definição do Regime Jurídico da Carreira de Guarda-Florestal da Região Autónoma dos Açores, adiante apenas designada por carreira de guarda-florestal, a qual é uma carreira especial e pluricategorial, desenvolvendo-se pelas categorias, por ordem decrescente de hierarquia, de mestre-florestal e guarda-florestal, nos termos do mapa i.
 
-###### Artigo 2.º — Recrutamento, integração e acesso na carreira
+Artigo 2.º
+
+Recrutamento, integração e acesso na carreira
 
 1 - O recrutamento para a carreira de guarda-florestal faz-se por procedimento concursal nos termos da lei geral aplicável aos demais trabalhadores que exercem funções públicas, de entre indivíduos com idade igual ou inferior a 30 anos, completados no ano de abertura do procedimento, habilitados com o 12.º ano de escolaridade ou equiparado.
 
@@ -162,7 +166,9 @@ O presente anexo procede à definição do Regime Jurídico da Carreira de Guard
 
 4 - O acesso à categoria de mestre-florestal faz-se por procedimento concursal, que inclui como métodos de seleção um curso de formação específico e a avaliação curricular, de entre guardas-florestais com, pelo menos, 12 anos na categoria e avaliação de desempenho adequado ou superior, contando o período experimental para esse efeito.
 
-###### Artigo 3.º — Cursos de formação específicos
+Artigo 3.º
+
+Cursos de formação específicos
 
 1 - O curso de formação específico a que se refere o n.º 2 do artigo anterior é regulado pelo Despacho Normativo n.º 1/2018, de 5 de janeiro, sendo constituído por duas fases eliminatórias, de seis meses cada, destinando-se a primeira à preparação teórica dos guardas-florestais e a segunda ao fornecimento de conhecimentos práticos, ao treino e à avaliação da preparação e adaptação para as tarefas específicas incluídas no conteúdo funcional da carreira.
 
@@ -174,7 +180,9 @@ O presente anexo procede à definição do Regime Jurídico da Carreira de Guard
 
 5 - O curso de formação específico a que se refere o n.º 4 do artigo anterior é regulado pelo Despacho Normativo n.º 37/2003, de 30 de outubro.
 
-###### Artigo 4.º — Natureza do vínculo
+Artigo 4.º
+
+Natureza do vínculo
 
 1 - As funções inerentes à carreira de guarda-florestal são exercidas em regime de contrato de trabalho em funções públicas por tempo indeterminado, mantendo-se os direitos adquiridos quanto aos regimes de cessação da relação jurídica de emprego público e de reorganização de serviços e colocação de pessoal em situação de mobilidade especial próprios da nomeação definitiva, nos termos consagrados pelo n.º 4 do artigo 88.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/468663/details/normal?l=1), de 27 de fevereiro.
 
@@ -182,7 +190,9 @@ O presente anexo procede à definição do Regime Jurídico da Carreira de Guard
 
 3 - Os guardas-florestais que concluam o período experimental com sucesso ficam colocados nos serviços florestais nos quais realizaram a segunda fase do curso de formação específico.
 
-###### Artigo 5.º — Competências
+Artigo 5.º
+
+Competências
 
 Ao pessoal da carreira de guarda-florestal da Região Autónoma dos Açores cabe assegurar todas as ações de polícia florestal, de caça e pesca em águas interiores, bem como funções de gestão do perímetro e património florestal, caminhos florestais, rurais e demais infraestruturas, competindo-lhe:
 
@@ -210,7 +220,9 @@ k) Acompanhar e orientar os trabalhos de manutenção e fiscalização das reser
 
 l) Desempenhar as demais funções que lhe sejam atribuídas por lei.
 
-###### Artigo 6.º — Duração do trabalho
+Artigo 6.º
+
+Duração do trabalho
 
 1 - A duração semanal de trabalho para o pessoal da carreira de guarda-florestal é a mesma que a fixada para os restantes trabalhadores que exercem funções públicas integrados em carreiras gerais.
 
@@ -224,19 +236,27 @@ l) Desempenhar as demais funções que lhe sejam atribuídas por lei.
 
 6 - A prestação de trabalho suplementar em dia normal de trabalho e em dias de descanso semanal, obrigatório ou complementar, programados nos termos do n.º 3, bem como em dia feriado, é igualmente compensada nos termos da lei geral aplicável aos demais trabalhadores que exercem funções públicas.
 
-###### Artigo 7.º — Regime disciplinar
+Artigo 7.º
+
+Regime disciplinar
 
 Ao pessoal da carreira de guarda-florestal aplica-se o regime disciplinar previsto na lei geral aplicável aos demais trabalhadores que exercem funções públicas.
 
-###### Artigo 8.º — Deveres e direitos
+Artigo 8.º
+
+Deveres e direitos
 
 O pessoal da carreira de guarda-florestal está sujeito a todos os deveres e goza de todos os direitos previstos na lei geral aplicável aos demais trabalhadores que exercem funções públicas, estando ainda sujeito a deveres especiais, nos termos legais.
 
-###### Artigo 9.º — Incompatibilidades, impedimentos e acumulação de funções
+Artigo 9.º
+
+Incompatibilidades, impedimentos e acumulação de funções
 
 O pessoal da carreira de guarda-florestal está sujeito ao regime geral de incompatibilidades, impedimentos e acumulação de funções públicas e privadas, previstos na lei geral para os demais trabalhadores que exercem funções públicas.
 
-###### Artigo 10.º — Remuneração
+Artigo 10.º
+
+Remuneração
 
 1 - A remuneração do pessoal da carreira de guarda-florestal corresponde ao valor atribuído às posições remuneratórias que constam do mapa i do presente anexo, que dele faz parte integrante.
 
@@ -244,21 +264,29 @@ O pessoal da carreira de guarda-florestal está sujeito ao regime geral de incom
 
 3 - As alterações de posicionamento remuneratório fazem-se nos termos da lei geral aplicável aos demais trabalhadores que exercem funções públicas.
 
-###### Artigo 11.º — Ajudas de custo
+Artigo 11.º
+
+Ajudas de custo
 
 1 - O pessoal da carreira de guarda-florestal tem direito à atribuição de ajudas de custo, aplicando-se as normas legais em vigor na Administração Pública, com a especificidade prevista no número seguinte.
 
 2 - Considera-se domicílio necessário, para efeitos de abono de ajudas de custo, a área geográfica de intervenção do serviço florestal onde o trabalhador se encontra a desempenhar funções.
 
-###### Artigo 12.º — Férias
+Artigo 12.º
+
+Férias
 
 O pessoal da carreira de guarda-florestal tem direito a um período de férias remuneradas em cada ano civil, nos termos previstos na lei geral aplicável aos demais trabalhadores que exercem funções públicas.
 
-###### Artigo 13.º — Reposicionamento remuneratório
+Artigo 13.º
+
+Reposicionamento remuneratório
 
 O reposicionamento remuneratório dos atuais titulares da carreira de guarda-florestal é feito nos termos do artigo 104.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/468663/details/normal?l=1), de 27 de fevereiro, na redação atual, sem acréscimos.
 
-###### Artigo 14.º — Transições
+Artigo 14.º
+
+Transições
 
 1 - Transitam para a categoria de guarda-florestal os atuais titulares da categoria de mestre-florestal e mestre-florestal principal que aufiram de uma remuneração inferior à correspondente ao nível 15 da tabela remuneratória única.
 
@@ -274,22 +302,28 @@ MAPA I
 
 Caracterização da carreira de guarda-florestal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/08/15900/0005200057.pdf))](https://files.diariodarepublica.pt/1s/2020/08/15900/0005200057.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/08/15900/0005200057.pdf)
 
-###### Artigo 3.º — Revogação
+Artigo 3.º
+
+Revogação
 
 É revogado o capítulo iv do [Decreto Regulamentar Regional n.º 11/2013/A](https://diariodarepublica.pt/web/guest/pesquisa/-/search/498536/details/normal?l=1), de 2 de agosto.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 29 de julho de 2020.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 10 de agosto de 2020.**
+Assinado em Angra do Heroísmo em 10 de agosto de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+113484349

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/02600/0091900924.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/112/2008/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/112-2008-248238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0d54f1e31e6b7d7fda66d56489b2b4ad04fed73fea7b5eb45cd77b66e4c2e0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80f0f7a8ef7fda69499b37f0a06853b1cad59715494d25ba30e4c5d1203183ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Campanha Eleitoral
-- Eleição
 - Círculo Eleitoral
 - Comunidades Portuguesas
-- Sistema Eleitoral
 - Conselho das Comunidades Portuguesas
+- Eleição
 - Secretário de Estado das Comunidades Portuguesas
+- Sistema Eleitoral
 relationships:
 - type: amended_by
   target: pt:dre:66997032:por
@@ -97,16 +97,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/147-a/2003/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/147-a/2003/02/12/p/dre
+- type: cites
+  target: pt:dre:150899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535223:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66997032:por
+  label: Revoga, a partir de 21.04.2015 a presente Portaria, pelo(a) Lei n.º 29/2015 - Diário da República n.º 74/2015, Série
+    I de 2015-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2015-66997032
+  date: '2015-04-16'
+- type: repealed_by
+  target: pt:dre:67664948:por
+  label: Revogada (a partir de 04.07.2015) a Port 112/2008 de 06-fev DR.IS [26] pelo(a) Portaria n.º 197/2015 - Diário da
+    República n.º 128/2015, Série I de 2015-07-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/197-2015-67664948
+  date: '2015-07-03'
 article_structure:
   article_count: 33
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:01Z'
   warnings: []
   errors: []
 ---
@@ -443,8 +475,8 @@ São revogadas as Portarias n.os [103/2003](https://diariodarepublica.pt/dr/deta
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Comunidades Portuguesas, António Fernandes da Silva Braga, em 18 de Janeiro de 2008.**
+O Secretário de Estado das Comunidades Portuguesas, António Fernandes da Silva Braga, em 18 de Janeiro de 2008.
 
 ## ANEXO — Mapa da distribuição dos mandatos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/02600/0091900924.pdf))](https://files.diariodarepublica.pt/1s/2008/02/02600/0091900924.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/02600/0091900924.pdf)

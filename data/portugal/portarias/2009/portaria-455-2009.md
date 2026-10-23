@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/455/2009/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/455-2009-607771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66d7c47c32278caca590d0519bd96eb1bd6f347667a6583a5b8060d28cb64668
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3da0959f834fd7b5bc68d9f47c8d214786f6a72a6521da2d199eb5b7bd19b0f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contrato Coletivo de Trabalho
-- IPSS
 - Contrato de Trabalho
+- IPSS
 - Regulamento de Extensão
 - Remuneração
 relationships: []
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:22Z'
   warnings: []
   errors: []
 ---
@@ -136,4 +136,4 @@ b) Às relações de trabalho entre instituições particulares de solidariedade
 
 3 - Os encargos resultantes da retroactividade da presente extensão podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da sua entrada em vigor, correspondendo cada prestação a dois meses de retroactividade ou fracção e até ao limite de seis.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 20 de Abril de 2009.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 20 de Abril de 2009.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2022/05/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2022-184108567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f78c5184fae3f2ba10b87c25abc247360d523562167e5a27a50df1c5394955a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 318c1fba373425b7d8065b8ccf34c58376b71a56cd5002b6ef35c6c541b2292e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
-- GADO
-- Carne de Caprino
-- Carne de Suíno
-- Formação Profissional
-- Transporte Marítimo
-- Multa
-- Proteção dos Animais
-- Governo Regional
-- Contra-ordenação
-- Transporte Rodoviário
-- Fiscalização
-- Gado Bovino
-- Carne de Ovino
+- Açores
 - Ave de Capoeira
+- Carne de Caprino
+- Carne de Ovino
+- Carne de Suíno
+- Contra-ordenação
+- Fiscalização
+- Formação Profissional
+- GADO
+- Gado Bovino
+- Gado Equino
+- Governo Regional
+- Multa
 - OVO
 - Portos dos Açores
-- Gado Equino
-- Açores
-- Transporte de Animais
-- Tratador de Animais
+- Produção Animal
+- Proteção dos Animais
 - SERVIÇOS DE DESENVOLVIMENTO AGRÁRIO DE ILHA
+- Transporte de Animais
+- Transporte Marítimo
+- Transporte Rodoviário
+- Tratador de Animais
 relationships:
 - type: cites
   target: celex:32005R0001
@@ -96,16 +96,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/265/2007/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/265/2007/07/24/p/dre
+- type: cites
+  target: pt:dre:636746:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:50Z'
   warnings: []
   errors: []
 ---
@@ -484,11 +488,11 @@ O presente decreto legislativo regional entra em vigor 180 dias após a sua publ
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de abril de 2022.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 20 de maio de 2022.**
+Assinado em Angra do Heroísmo em 20 de maio de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -496,17 +500,17 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Inclinação das rampas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
 
 ## ANEXO II — (a que se refere o n.º 2 do artigo 6.º)
 
 Nome do transportador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
 
 Dados relativos aos contentores/animais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
 
 ## ANEXO III — (a que se refere o n.º 3 do artigo 6.º)
 
@@ -516,7 +520,7 @@ TABELA N.º 1
 
 Densidade animal aplicável ao transporte marítimo de bovinos em contentor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
 
 Mediante decisão da autoridade regional competente os valores acima referenciados podem variar em função:
 
@@ -534,7 +538,7 @@ TABELA N.º 2
 
 Densidade animal aplicável ao transporte marítimo de pequenos ruminantes em contentor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
 
 Mediante decisão da autoridade regional competente os valores acima referenciados podem variar em função:
 
@@ -552,7 +556,7 @@ TABELA N.º 3
 
 Densidade animal aplicável ao transporte marítimo de suínos em contentor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
 
 Mediante decisão da autoridade regional competente os valores acima referenciados podem variar em função:
 
@@ -568,7 +572,7 @@ TABELA N.º 4
 
 Densidade animal aplicável ao transporte marítimo de aves de capoeira em contentor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
 
 Mediante decisão da autoridade regional competente os valores acima referenciados podem variar em função:
 
@@ -584,7 +588,7 @@ TABELA N.º 5
 
 Densidade animal aplicável ao transporte marítimo de equídeos em contentor
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf))](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/05/10400/0002700038.pdf)
 
 Durante as viagens de longo curso, os potros e os cavalos jovens devem poder deitar-se.
 
@@ -595,3 +599,5 @@ a) Do peso dos animais;
 b) Do tamanho dos animais;
 
 c) Do estado físico dos animais.
+
+115350434

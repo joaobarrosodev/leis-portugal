@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/983/2007/08/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/983-2007-640938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8318ccfd0e5d534156bf9806976fff611b5353a309c22ee0574ee0810443621a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0a840b6052552d27dfb06fc48de425300e3d90b5785026b0bdca63598bafd3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Livrete de Veículo Automóvel
-- Transporte Rodoviário
-- Regime Laboral
-- Fiscalização
-- Veículo
 - Documentos do Veículo
+- Fiscalização
 - Horário de Trabalho
+- Livrete de Veículo Automóvel
+- Regime Laboral
 - Transporte
+- Transporte Rodoviário
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:177088817:por
@@ -87,16 +87,23 @@ relationships:
   target: celex:32006R0561
   label: null
   source: http://data.europa.eu/eli/reg/2006/561/oj
+- type: repealed_by
+  target: pt:dre:177088817:por
+  label: Revogado, a partir de 01.01.2022, o presente diploma, pelo(a) Portaria n.º 7/2022 - Diário da República n.º 2/2022,
+    Série I de 2022-01-04, que a manteve, contudo, em vigor até 31.08.2022, com as necessárias adaptações, com exceção do
+    n.º 2 do art. 2.º e do art. 4.º, nos termos do disposto no n.º 2 do art. 10.º daquele diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/7-2022-177088817
+  date: '2022-01-04'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:12Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +204,7 @@ São revogados o Despacho Normativo n.º 22/87, publicado no Diário da Repúbli
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 17 de Agosto de 2007. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 13 de Agosto de 2007.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 17 de Agosto de 2007. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 13 de Agosto de 2007.
 
 ## ANEXO — Modelo de livrete individual de controlo
 
@@ -245,15 +252,15 @@ Instruções gerais
 
 5 - Os símbolos utilizados têm os significados seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo total de descanso diário e de intervalos de descanso ou pausas;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo total de descanso diário e de intervalos de descanso ou pausas;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de condução;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de condução;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de trabalho diverso da condução;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de trabalho diverso da condução;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de disponibilidade;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de disponibilidade;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de trabalho prestado a outro empregador.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de trabalho prestado a outro empregador.
 
 Para o empregador
 
@@ -301,15 +308,15 @@ Símbolos
 
 Os símbolos utilizados têm os seguintes significados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo total de repouso diário e de intervalos de descanso ou pausas;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo total de repouso diário e de intervalos de descanso ou pausas;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de condução;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de condução;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de trabalho diverso da condução;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de trabalho diverso da condução;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de disponibilidade;
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de disponibilidade;
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de trabalho prestado a qualquer outro empregador.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) tempo de trabalho prestado a qualquer outro empregador.
 
 Folha diária
 
@@ -323,7 +330,7 @@ Folha diária
 
 5 - No espaço «Observações», deve ser inscrito, sendo caso disso, o nome do segundo condutor. Este espaço pode também ser utilizado para justificar o eventual incumprimento de alguma prescrição ou rectificar indicação que figure noutro espaço. O empregador e os agentes de controlo podem igualmente utilizar este espaço para as suas observações.
 
-6 - No espaço «5», correspondente a [([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf), deve ser indicado o tempo de repouso diário e de intervalos de descanso ou pausas que não sejam legalmente consideradas tempo de trabalho. Na folha correspondente ao dia de início da viagem, deve ser incluída no total do tempo de repouso a parte do descanso diário consecutivo que tenha ocorrido no final do dia imediatamente anterior.
+6 - No espaço «5», correspondente a [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf), deve ser indicado o tempo de repouso diário e de intervalos de descanso ou pausas que não sejam legalmente consideradas tempo de trabalho. Na folha correspondente ao dia de início da viagem, deve ser incluída no total do tempo de repouso a parte do descanso diário consecutivo que tenha ocorrido no final do dia imediatamente anterior.
 
 7 - Antes da partida, registar no espaço 18 («início do serviço») a quilometragem constante do conta-quilómetros; no fim do serviço, registar no espaço «18» («fim do serviço») a nova quilometragem, anotando o percurso total.
 
@@ -333,7 +340,7 @@ Exemplo de folha diária preenchida
 
 No espaço «12», indicam-se dezoito horas de tempo total de repouso diário e de intervalos de descanso.
 
-Uma vez que no espaço «5», correspondente a [([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf), apenas estão inscritas treze horas, as cinco horas incluídas a mais no espaço «12» resultam de a folha respeitar ao dia de início da viagem e da instrução de preenchimento segundo a qual, neste caso, o total do tempo de repouso deve incluir a parte do descanso diário consecutivo que tenha ocorrido no final do dia imediatamente anterior. Conclui-se, assim, que no dia anterior o trabalhador terminou o trabalho às 19 horas.
+Uma vez que no espaço «5», correspondente a [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf), apenas estão inscritas treze horas, as cinco horas incluídas a mais no espaço «12» resultam de a folha respeitar ao dia de início da viagem e da instrução de preenchimento segundo a qual, neste caso, o total do tempo de repouso deve incluir a parte do descanso diário consecutivo que tenha ocorrido no final do dia imediatamente anterior. Conclui-se, assim, que no dia anterior o trabalhador terminou o trabalho às 19 horas.
 
 Relatório semanal
 
@@ -343,8 +350,8 @@ Relatório semanal
 
 a) Preencher os espaços correspondentes a cada símbolo com os dados constantes das folhas diárias, em relação aos dias em que trabalhou como pessoal viajante;
 
-b) Indicar o tempo de trabalho diverso da condução no espaço correspondente a [([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf), e o tempo total de repouso diário e intervalos de descanso ou pausas no espaço correspondente a [([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) em relação aos dias em que esteve ao serviço mas não trabalhou como pessoal viajante;
+b) Indicar o tempo de trabalho diverso da condução no espaço correspondente a [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf), e o tempo total de repouso diário e intervalos de descanso ou pausas no espaço correspondente a [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf) em relação aos dias em que esteve ao serviço mas não trabalhou como pessoal viajante;
 
 c) Indicar em «Observações» o motivo de ausências ao trabalho, por exemplo «férias», «descanso semanal» ou «falta».
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf))](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/16400/0576605770.pdf)

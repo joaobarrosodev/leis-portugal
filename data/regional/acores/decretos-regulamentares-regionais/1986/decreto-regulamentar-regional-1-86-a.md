@@ -47,36 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1986-192002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c567c7620d1a0df4ce9ead0d15413dd482404c25487175e6676a2496a40f5b99
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b957fc2552785a547f21fa8d4317420a4c816ec9c7d4baea82c9676e40807f34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Achado no MAR
+- Açores
+- Contrato de Concessão
+- Mar Territorial
+- Património Cultural
+relationships:
+- type: amended_by
+  target: pt:dre:662758:por
+  label: "Declarada a inconstitucionalidade com força obrigatória geral de todas as normas do presente diploma, pelo AC.280/90.1990.10.23.TCS\
+    \ DR.IS-A [1] DE 02/JAN/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/280-1991-662758
+  date: '1990-10-23'
+- type: cites
+  target: pt:dre:148814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643102:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:27Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +136,13 @@ Assim:
 
 O Governo Regional decreta, nos termos do artigo 229.º, alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º O Governo Regional poderá celebrar contratos de concessão para a pesquisa de espólios com interesse histórico, arqueológico e artístico existentes nas águas jurisdicionais da Região com entidades públicas ou privadas, nacionais ou estrangeiras.
+Artigo 1.º O Governo Regional poderá celebrar contratos de concessão para a pesquisa de espólios com interesse histórico, arqueológico e artístico existentes nas águas jurisdicionais da Região com entidades públicas ou privadas, nacionais ou estrangeiras.
 
-###### Art. 2.º - 1 - A concessão terá a duração de um ano a partir da data em que for outorgada, podendo ser automaticamente renovada, por igual período, se não houver denúncia de alguma das partes contratantes.
+Art. 2.º - 1 - A concessão terá a duração de um ano a partir da data em que for outorgada, podendo ser automaticamente renovada, por igual período, se não houver denúncia de alguma das partes contratantes.
 
 2 - A denúncia deverá ser apresentada por uma parte à outra com a antecedência mínima de 45 dias.
 
-###### Art. 3.º O concessionário deverá apresentar uma relação do pessoal e respectivo currículo que integrará a equipa de trabalho, da qual constarão, pelo menos, os seguintes elementos:
+Art. 3.º O concessionário deverá apresentar uma relação do pessoal e respectivo currículo que integrará a equipa de trabalho, da qual constarão, pelo menos, os seguintes elementos:
 
 a) Director da expedição;
 
@@ -113,19 +156,19 @@ e) Fotógrafos;
 
 f) Operadores de televisão.
 
-###### Art. 4.º O concessionário apresentará uma relação pormenorizada do material técnico e científico a utilizar, de modo que fique claramente demonstrado que está apto a enfrentar as diversas situações que as operações de busca e recuperação lhe apresentarem e que respeitam às leis internacionais das actividades submarinas, incluindo a segurança do pessoal.
+Art. 4.º O concessionário apresentará uma relação pormenorizada do material técnico e científico a utilizar, de modo que fique claramente demonstrado que está apto a enfrentar as diversas situações que as operações de busca e recuperação lhe apresentarem e que respeitam às leis internacionais das actividades submarinas, incluindo a segurança do pessoal.
 
-###### Art. 5.º As autorizações para pesquisa e recuperação só serão concedidas na base de considerações de ordem científica, pelo que a entidade que pretende a concessão deverá apresentar um currículo pormenorizado, acompanhado pelas referências da bibliografia já publicada ou referências abonatórias em revistas da especialidade.
+Art. 5.º As autorizações para pesquisa e recuperação só serão concedidas na base de considerações de ordem científica, pelo que a entidade que pretende a concessão deverá apresentar um currículo pormenorizado, acompanhado pelas referências da bibliografia já publicada ou referências abonatórias em revistas da especialidade.
 
-###### Art. 6.º Os trabalhos de pesquisa a efectuar em cada ano de vigência do contrato deverão ser objecto de um plano pormenorizado, com programação no tempo e no espaço em que se desenvolverão, o qual será entregue ao Governo Regional até 60 dias antes da data prevista para o início dos trabalhos.
+Art. 6.º Os trabalhos de pesquisa a efectuar em cada ano de vigência do contrato deverão ser objecto de um plano pormenorizado, com programação no tempo e no espaço em que se desenvolverão, o qual será entregue ao Governo Regional até 60 dias antes da data prevista para o início dos trabalhos.
 
-###### Art. 7.º O concessionário prestará uma caução cujo montante, bem como a percentagem retida pelo Governo Regional a título de reforço da garantia, será estabelecido no clausulado do contrato.
+Art. 7.º O concessionário prestará uma caução cujo montante, bem como a percentagem retida pelo Governo Regional a título de reforço da garantia, será estabelecido no clausulado do contrato.
 
-###### Art. 8.º - 1 - O concessionário obriga-se a fornecer mensalmente ao Governo Regional, e antes da sua divulgação, um relatório, do qual constará uma súmula de todos os trabalhos efectuados, dados processados e resultados obtidos.
+Art. 8.º - 1 - O concessionário obriga-se a fornecer mensalmente ao Governo Regional, e antes da sua divulgação, um relatório, do qual constará uma súmula de todos os trabalhos efectuados, dados processados e resultados obtidos.
 
 2 - A divulgação dos achados e a localização dos naufrágios não poderão ser feitas pelo concessionário, sem prévia autorização do Governo Regional.
 
-###### Art. 9.º - 1 - O concessionário obriga-se a elaborar para cada artefacto recuperado uma ficha, de que constarão os seguintes aspectos:
+Art. 9.º - 1 - O concessionário obriga-se a elaborar para cada artefacto recuperado uma ficha, de que constarão os seguintes aspectos:
 
 a) Descrição do artefacto;
 
@@ -155,7 +198,7 @@ n) Fotografia cotada, com etiqueta visível do número do inventário.
 
 2 - No caso de peças da mesma tipologia (moedas, barras, porcelanas, etc.), a mesma ficha poderá ser utilizada, devendo constar uma fotografia do conjunto, uma fotografia da peça mais representativa e a indicação do número de peças do lote fichado.
 
-###### Art. 10.º Do relatório preliminar constarão os seguintes elementos:
+Art. 10.º Do relatório preliminar constarão os seguintes elementos:
 
 a) Relação dos objectos recuperados, divididos em grupos, conforme o material em que são executados (metal, têxtil, pedra, madeira, couro, osso/marfim, porcelana, vidro, etc.);
 
@@ -163,36 +206,36 @@ b) Fotografia submarina do conjunto do naufrágio (fotogrametria);
 
 c) Descrição exacta do local do naufrágio, delimitando-o e indicando a profundidade.
 
-###### Art. 11.º O concessionário obriga-se a fornecer ao Governo Regional uma cópia de todos os filmes, fotografias e desenhos realizados.
+Art. 11.º O concessionário obriga-se a fornecer ao Governo Regional uma cópia de todos os filmes, fotografias e desenhos realizados.
 
-###### Art. 12.º - 1 - Os bens subaquáticos que, por sua própria natureza, não possam ser recuperados devem ser rigorosamente respeitados e identificados, como se se tratasse de um bem a recuperar.
+Art. 12.º - 1 - Os bens subaquáticos que, por sua própria natureza, não possam ser recuperados devem ser rigorosamente respeitados e identificados, como se se tratasse de um bem a recuperar.
 
 2 - Sempre que o concessionário não possa dar prévia garantia de que o bem a recuperar não sofra qualquer dano nessa operação, deverá deixá-lo in situ, depois de devidamente identificado.
 
-###### Art. 13.º O Governo Regional poderá impedir o uso de certas técnicas ou materiais, quando entenda que das mesmas poderão advir danos para os objectos a recuperar ou para o ambiente marinho.
+Art. 13.º O Governo Regional poderá impedir o uso de certas técnicas ou materiais, quando entenda que das mesmas poderão advir danos para os objectos a recuperar ou para o ambiente marinho.
 
-###### Art. 14.º Todos os trabalhos de pesquisa e recuperação são executados sob a supervisão do Governo Regional, que poderá visitar e fiscalizar o local durante o tempo que considerar útil, bem como suspender os trabalhos, se entender que os mesmos não estão a ser bem executados.
+Art. 14.º Todos os trabalhos de pesquisa e recuperação são executados sob a supervisão do Governo Regional, que poderá visitar e fiscalizar o local durante o tempo que considerar útil, bem como suspender os trabalhos, se entender que os mesmos não estão a ser bem executados.
 
-###### Art. 15.º O concessionário obriga-se a instalar um laboratório com vista à análise e tratamento imediato dos objectos recuperados.
+Art. 15.º O concessionário obriga-se a instalar um laboratório com vista à análise e tratamento imediato dos objectos recuperados.
 
-###### Art. 16.º Todos os objectos recuperados, depois de devidamente tratados e identificados, serão depositados em local a designar pelo Governo Regional, ficando à sua guarda e responsabilidade.
+Art. 16.º Todos os objectos recuperados, depois de devidamente tratados e identificados, serão depositados em local a designar pelo Governo Regional, ficando à sua guarda e responsabilidade.
 
-###### Art. 17.º - 1 - Havendo lugar, nos termos do contrato de concessão, a repartição do valor dos achados entre o Governo Regional e o concessionário, a ela se procederá conforme o disposto no número seguinte.
+Art. 17.º - 1 - Havendo lugar, nos termos do contrato de concessão, a repartição do valor dos achados entre o Governo Regional e o concessionário, a ela se procederá conforme o disposto no número seguinte.
 
 2 - A importância a entregar ao concessionário poderá ser em dinheiro ou em objectos, conforme a respectiva avaliação e segundo determinação do Governo Regional, ao abrigo do disposto no artigo 44.º, alínea g), do Estatuto.
 
-###### Art. 18.º Fica proibido ao concessionário o uso de armas de fogo a bordo das embarcações que utilizar nas águas jurisdicionais da Região.
+Art. 18.º Fica proibido ao concessionário o uso de armas de fogo a bordo das embarcações que utilizar nas águas jurisdicionais da Região.
 
-###### Art. 19.º Para todos os efeitos legais, o Governo Regional será representado na elaboração, assinatura e execução dos contratos de concessão pelo Secretário Regional da Educação e Cultura.
+Art. 19.º Para todos os efeitos legais, o Governo Regional será representado na elaboração, assinatura e execução dos contratos de concessão pelo Secretário Regional da Educação e Cultura.
 
-###### Art. 20.º Atendendo às circunstâncias advenientes de cada caso, e naquilo que não contrariar o [Decreto Legislativo Regional n.º 30/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-1983-441763), de 28 de Outubro, e o presente diploma, continua em vigor o disposto no [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941 (Regulamento das Alfândegas), no [Decreto n.º 43492](https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230), de 1 de Fevereiro de 1961 (Regulamento das Actividades dos Mergulhadores Profissionais), no [Decreto n.º 48365](https://diariodarepublica.pt/dr/detalhe/decreto/48365-1968-274846), de 2 de Maio de 1968, alterado pelo [Decreto n.º 321/71](https://diariodarepublica.pt/dr/detalhe/decreto/321-1971-643102), de 26 de Julho (Regulamento das Actividades dos Mergulhadores Amadores), no [Decreto-Lei n.º 416/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1970-148814), de 1 de Setembro, alterado pelo [Decreto-Lei n.º 577/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-1976-430471), de 21 de Julho (propriedade dos objectos sem dono conhecido achados no mar) e no [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho (Regulamento Geral das Capitanias).
+Art. 20.º Atendendo às circunstâncias advenientes de cada caso, e naquilo que não contrariar o [Decreto Legislativo Regional n.º 30/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-1983-441763), de 28 de Outubro, e o presente diploma, continua em vigor o disposto no [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941 (Regulamento das Alfândegas), no [Decreto n.º 43492](https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230), de 1 de Fevereiro de 1961 (Regulamento das Actividades dos Mergulhadores Profissionais), no [Decreto n.º 48365](https://diariodarepublica.pt/dr/detalhe/decreto/48365-1968-274846), de 2 de Maio de 1968, alterado pelo [Decreto n.º 321/71](https://diariodarepublica.pt/dr/detalhe/decreto/321-1971-643102), de 26 de Julho (Regulamento das Actividades dos Mergulhadores Amadores), no [Decreto-Lei n.º 416/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1970-148814), de 1 de Setembro, alterado pelo [Decreto-Lei n.º 577/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/577-1976-430471), de 21 de Julho (propriedade dos objectos sem dono conhecido achados no mar) e no [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho (Regulamento Geral das Capitanias).
 
 Aprovado em Conselho do Governo Regional em 27 de Novembro de 1985.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 23 de Dezembro de 1985.**
+Assinado em Angra do Heroísmo em 23 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/06/10900/0351303517.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2009/06/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2009-494227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40bdea56d6cacd03344970629db25f223f59d61ac6eb235d95eb1f3ebb2e948a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9996f9660a0c75710b228f03f694e0e31a66145158a272e08af5e8dc9c637ae1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Formação Profissional
+- Açores
 - Comissão de Análise
 - Comunicação Social
 - Difusão da Informação
+- Financiamento
 - Fiscalização
+- Formação Profissional
 - Imprensa Regional
 - Iniciativa Privada
 - Meios de Comunicação Privados
 - Modernização Tecnológica
-- Radiodifusão
-- Qualificação Profissional
 - Promedia
-- Açores
+- Qualificação Profissional
+- Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:498558:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146218:por
+  label: "Dada nova redacção aos arts. 2º, 7º e 16º pelo DLR.30/2011/A.16.11.2011.AL-RAA, DR.IS [220] de 16.11.2011, que o\
+    \ republicou na sua redacção actual.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-2011-146218
+  date: '2011-11-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/22/2006/06/09/a/dre
   label: null
@@ -92,16 +98,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/26/2006/09/13/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/26/2006/09/13/a/dre
+- type: cites
+  target: pt:dre:346365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540037:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498558:por
+  label: "Revogado, a partir de 02.08.2013, pelo DLR.8/2013/A.01.08.2013.AL-RAA, DR.IS [147] de 01.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2013-498558
+  date: '2013-08-01'
+- type: repeals
+  target: pt:numero:despacho:1051/2006
+  label: "Revoga o Despacho n.º 1051/2006, de 10 de Outubro \0\0"
+  source: null
+  date: '2006-10-10'
+- type: repeals
+  target: pt:numero:despacho:255/2007
+  label: "Revoga o Despacho n.º 255/2007, de 13 de Março\0\0"
+  source: null
+  date: '2007-03-13'
 article_structure:
   article_count: 32
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:56Z'
   warnings: []
   errors: []
 ---
@@ -420,10 +449,10 @@ O processamento financeiro das candidaturas aprovadas e referentes a despesas ex
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 13 de Maio de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 22 de Maio de 2009.**
+Assinado em Angra do Heroísmo em 22 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

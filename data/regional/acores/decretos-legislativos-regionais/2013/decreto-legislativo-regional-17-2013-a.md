@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2013/10/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2013-494805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62a14307cfa7abb42fe871248093cb3264232f637a9cb3a9d0b9edcb9c6f6aba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0480044ca25f6d1fac4adabb69b7a8417115eb7861a4e66c9fd6bf3ca30ae2a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina Privada
-- Contra-ordenação
-- Saúde
+- Açores
 - Administração Regional de Saúde
+- Contra-ordenação
+- Cuidados Médicos
 - Direcção Regional da Saúde
-- Política de Saúde
-- Informatização
 - Direito à Informação
+- Informatização
 - Licenciamento
-- Sistema de Informação
+- Medicina Privada
+- Política de Saúde
 - Prazo
 - Prestação de Serviços
-- Cuidados Médicos
 - Proteção do Consumidor
 - Registo Obrigatório
-- Açores
+- Saúde
+- Sistema de Informação
 - Vistoria
 relationships:
 - type: cites
@@ -93,16 +93,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/38/2006/01/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/38/2006/01/06/p/dre
+- type: cites
+  target: pt:dre:168221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491395:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:43Z'
   warnings: []
   errors: []
 ---
@@ -419,10 +427,10 @@ A regulamentação prevista no presente diploma é aprovada por portaria do memb
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 5 de setembro de 2013.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 30 de setembro de 2013.**
+Assinado em Angra do Heroísmo em 30 de setembro de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/1992/02/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1992-165827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0784a439762da2da8e0f0142277d17fa4e5696f086ed9cd7124776d5f09e37a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2330b7d7d53df76b5351ad6f9df77fcaa79c65ac63fcfc550a489f67a6b0dc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
+- Administração Regional
+- Câmara Municipal
 - Compensação Financeira
-- Governo Regional
 - Despesas Públicas
 - Empréstimo
 - Estudante
-- Remuneração Acessória
+- Financiamento
+- Governo Regional
 - Orçamento Regional
-- Câmara Municipal
-- Administração Regional
-- Açores
+- Remuneração Acessória
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 37/92, PUBLICADA NO DR.IS-A, 100, SUPL, DE 920430. ALTERADO O ANEXO\
+    \ V, PELO RESOLUÇÃO 1/93/A, PUBLICADA NO DR.IS-B, 13, DE 930116.\06.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:449468:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449468:por
+  label: "Alterados os mapas I, II, III, IV e V e revogado o n.º 6 do art.º 6º e os arts. 9º 10º e 11º (este último alterava\
+    \ a redacção do art.º 4º do DR 30/82/A, de 28-Out na redacção dada pelo DLR 36/88/A, de 28-Nov) pelo DLR.30/92/A.31.12.1992.ALR-RAA,\
+    \ DR.IS-A [301-11ºSupl] de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-1992-449468
+  date: '1992-12-31'
+- type: cites
+  target: pt:dre:372624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498732:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:17Z'
   warnings: []
   errors: []
 ---
@@ -191,7 +215,7 @@ O Governo Regional tomará as medidas necessárias para suportar os encargos fin
 
 É alterado o artigo 4.º do [Decreto Legislativo Regional n.º 30/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-1988-372624), de 28 de Outubro, o qual passa a ter a seguinte redacção:
 
-###### Art. 4.º Os secretários regionais serão apoiados no exercício da suas funções por um gabinete, composto por um chefe de gabinete, um adjunto e um secretário particular.
+Art. 4.º Os secretários regionais serão apoiados no exercício da suas funções por um gabinete, composto por um chefe de gabinete, um adjunto e um secretário particular.
 
 ### CAPÍTULO IV — Disposições finais
 
@@ -205,37 +229,37 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro 
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 12 de Dezembro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 3 de Fevereiro de 1992.**
+Assinado em Angra do Heroísmo em 3 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 MAPA I
 
 Receita da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf))](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf)
 
 MAPA II
 
 Despesas por departamentos e por capítulos da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf))](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf)
 
 MAPA III
 
 Resumos das despesas por grandes agrupamentos económicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf))](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf)
 
 MAPA IV
 
 Classificação funcional das despesas públicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf))](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf)
 
 MAPA V
 
@@ -243,4 +267,4 @@ Plano para 1991
 
 Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf))](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/050a00/11221133.pdf)

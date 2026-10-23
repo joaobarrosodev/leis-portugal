@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23300/0443904440.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/18/2016/12/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/18-2016-105322294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f87c0c3c544d4296e6455d7c5ba7fc9e93dcda1419ab08859ec6c3a3ebfed7ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 455209e6cdd952a507f91cf29454c8612cb7e52fea44f2cf436de57459312557
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
 - Assembleia Legislativa Regional
 - Comissão Especializada Permanente
-- Açores
+- Região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:126574310:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:126574310:por
+  label: Alterado, com efeitos a 17.10.2019, o art. 2.º pelo(a) Resolução da Assembleia Legislativa da Região Autónoma dos
+    Açores n.º 22/2019/A - Diário da República n.º 227/2019, Série I de 2019-11-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-acores/22-2019-126574310
+  date: '2019-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/43/2012/10/09/a/dre
   label: null
@@ -83,16 +89,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/54/2006/12/22/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/54/2006/12/22/a/dre
+- type: cites
+  target: pt:dre:175791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552289:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:24Z'
   warnings: []
   errors: []
 ---
@@ -211,4 +225,4 @@ A presente resolução entra em vigor no dia seguinte à sua publicação e prod
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de novembro de 2016.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.

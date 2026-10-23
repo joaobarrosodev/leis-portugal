@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2010/10/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2010-307798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dd012c5fa210449a4246f212789d4ca72cec2669acbd30fbff1c8a5f434cdc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb67c73c7e036a15b7292c622629784938e4ccdc2f9d6a1ee3fe4195a411640e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
+- Conselho Regional para a Igualdade de Oportunidades
 - Criação de Serviços
 - Definição de Competências
+- Direcção Regional da Igualdade de Oportunidades
+- Fundo Regional do Emprego
 - ILHA das Flores
+- ILHA de Santa Maria
 - Ilha de São Jorge
+- ILHA do Faial
+- Ilha do Pico
+- Ilha Graciosa
 - Inspecção Regional das Actividades Económicas
-- Secretaria Regional do Trabalho e Solidariedade Social
 - Integração de Trabalhadores
 - Observatório do Emprego e Formação Profissional
 - Orgânica
-- ILHA de Santa Maria
-- Ilha do Pico
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Ilha Graciosa
-- Direcção Regional da Igualdade de Oportunidades
-- Fundo Regional do Emprego
-- Conselho Regional para a Igualdade de Oportunidades
+- Secretaria Regional do Trabalho e Solidariedade Social
 - Serviço Regional de Conciliação e Arbitragem do Trabalho
-- Açores
 - Transferência de Competências
 - Transferência de Serviços
-- ILHA do Faial
 relationships:
 - type: amended_by
   target: pt:dre:498533:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Determinada a transição, para a dependência do Vice-Presidente do Governo Regional dos Açores, da Inspeção Regional\
+    \ do Trabalho, do Serviço Regional de Conciliação e Arbitragem do Trabalho, do Fundo Regional do Emprego e da Inspecção\
+    \ Regional das Atividades Económicas, anteriormente no âmbito da Secretaria Regional do Trabalho e da Solidariedade Social,\
+    \ cujas atribuições e competências constam do presente diploma; assim como é determinado que passe a designar-se por Direcção\
+    \ Regional do Emprego e Qualificação Profissional, a Direcção Regional do Trabalho Qualificação Profissional e Defesa\
+    \ do Consumidor, prevista na mesma orgânica. pelo DRR.24/2012/A.27.11.2012.PG-RAA, DR.IS [229] de 27.11.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
 - type: cites
   target: eli:http
   label: null
@@ -133,16 +143,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/4/2008/03/10/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/4/2008/03/10/a/dre
+- type: cites
+  target: pt:dre:144632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498093:por
+  label: "Revogada a Sub. III da Sec. II e a Sec. III do Cap. III, do Anexo I e demais normas do mesmo que respeitam às competências\
+    \ do vice-presidente do Governo Regional, pelo DRR.7/2013/A.11.07.2013.PG-RAA, DR.IS [132] de 11.07.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2013-498093
+  date: '2013-07-11'
+- type: repealed_by
+  target: pt:dre:498533:por
+  label: "Revogado pelo DRR.10/2013/A.02.08.2013.PG-RAA, DR.IS [148] de 02.08.2013, na parte que se refere à orgânica por\
+    \ este aprovada\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2013-498533
+  date: '2013-08-02'
 article_structure:
   article_count: 97
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:44Z'
   warnings: []
   errors: []
 ---
@@ -207,11 +297,11 @@ As referências, em lei ou regulamento, aos serviços objecto do presente diplom
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de Setembro de 2010.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 29 de Setembro de 2010.**
+Assinado em Angra do Heroísmo em 29 de Setembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -425,9 +515,13 @@ r) Três personalidades de reconhecido mérito nas áreas da cidadania, dos dire
 
 #### SECÇÃO II — Órgãos executivos
 
-##### SUBSECÇÃO I — Divisão de Planeamento, Inovação e Apoio Jurídico
+##### SUBSECÇÃO I
 
-###### Artigo 15.º — Divisão de Planeamento, Inovação e Apoio Jurídico (DPIAJ)
+##### Divisão de Planeamento, Inovação e Apoio Jurídico
+
+###### Artigo 15.º
+
+##### Divisão de Planeamento, Inovação e Apoio Jurídico (DPIAJ)
 
 1 - À DPIAJ compete assistir tecnicamente o Secretário Regional, respectivo Gabinete e serviços dele directamente dependentes, a Direcção Regional da Solidariedade e Segurança Social e a Direcção Regional da Igualdade de Oportunidades em matéria de planeamento, inovação, recursos humanos, informação, comunicação e apoio jurídico, designadamente:
 
@@ -487,9 +581,13 @@ z) Desempenhar outras tarefas ou actividades superiormente determinadas.
 
 3 - A DPIAJ é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-##### SUBSECÇÃO II — Divisão de Gestão de Recursos
+##### SUBSECÇÃO II
 
-###### Artigo 16.º — Divisão de Gestão de Recursos (DGR)
+##### Divisão de Gestão de Recursos
+
+###### Artigo 16.º
+
+##### Divisão de Gestão de Recursos (DGR)
 
 1 - À DGR compete apoiar o Secretário Regional, respectivo Gabinete e os serviços dele dependentes, a Direcção Regional da Solidariedade e Segurança Social e a Direcção Regional da Igualdade de Oportunidades em matéria de recursos financeiros, patrimoniais, documentais e operacionais, designadamente:
 
@@ -687,7 +785,9 @@ h) Desempenhar outras tarefas ou actividades superiormente determinadas.
 
 4 - O CID funciona na directa dependência do chefe de divisão do GEAJ.
 
-###### Artigo 22.º — Divisão da Inovação e Projectos (DIP)
+###### Artigo 22.º
+
+##### Divisão da Inovação e Projectos (DIP)
 
 1 - Compete à DIP, designadamente:
 
@@ -843,7 +943,9 @@ b) A Divisão de Análise Financeira do Fundo Social Europeu (DAFFSE).
 
 3 - A DSPFP é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 25.º — Divisão de Acreditação e Certificação
+###### Artigo 25.º
+
+##### Divisão de Acreditação e Certificação
 
 1 - Compete à DAC, sem prejuízo das competências e das tarefas ou actividades, superiormente determinadas, atribuídas à Divisão de Inovação e Projectos, designadamente:
 
@@ -877,7 +979,9 @@ n) Desempenhar outras tarefas ou actividades superiormente determinadas.
 
 2 - A DAC é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 26.º — Divisão de Análise Financeira do Fundo Social Europeu (DAFFSE)
+###### Artigo 26.º
+
+##### Divisão de Análise Financeira do Fundo Social Europeu (DAFFSE)
 
 1 - Compete à DAFFSE, designadamente:
 
@@ -969,7 +1073,9 @@ b) A Agência para a Qualificação e Emprego (AQE).
 
 3 - A DSE é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 28.º — Divisão de Programas para o Emprego (DPE)
+###### Artigo 28.º
+
+##### Divisão de Programas para o Emprego (DPE)
 
 1 - Compete à DPE, designadamente:
 
@@ -1067,7 +1173,9 @@ r) Desempenhar outras tarefas ou actividades superiormente determinadas.
 
 4 - A DST é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 31.º — Divisão das Relações de Trabalho (DRT)
+###### Artigo 31.º
+
+##### Divisão das Relações de Trabalho (DRT)
 
 1 - Compete à DRT, designadamente:
 
@@ -1465,7 +1573,9 @@ f) Apoiar tecnicamente a SRTSS e os serviços da DRH em matéria de metodologia 
 
 2 - O OSHA é dirigido por director equiparado, para todos os efeitos legais, a cargo de direcção específica de 1.º grau, sendo-lhe aplicável o disposto no [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de Março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de Outubro.
 
-###### Artigo 43.º — Divisão Administrativa e Financeira (DAF)
+###### Artigo 43.º
+
+##### Divisão Administrativa e Financeira (DAF)
 
 1 - Compete à DAF apoiar o director regional nos domínios dos recursos humanos, financeiros, patrimoniais e de documentação e ainda assegurar a execução dos serviços de carácter administrativo da DRH, designadamente:
 
@@ -1663,7 +1773,9 @@ u) Desempenhar outras tarefas e actividades superiormente determinadas.
 
 4 - A DAO é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.
 
-###### Artigo 50.º — Divisão de Assuntos Jurídicos e Auditoria (DAJA)
+###### Artigo 50.º
+
+##### Divisão de Assuntos Jurídicos e Auditoria (DAJA)
 
 1 - Compete à DAJA, designadamente:
 
@@ -1787,7 +1899,9 @@ a) A Divisão de Promoção da Igualdade de Oportunidades (DPIO);
 
 b) Os centros para a igualdade de oportunidades (CIOP).
 
-###### Artigo 55.º — Divisão de Promoção da Igualdade de Oportunidades (DPIO)
+###### Artigo 55.º
+
+##### Divisão de Promoção da Igualdade de Oportunidades (DPIO)
 
 1 - Compete à DPIO, designadamente:
 
@@ -1861,7 +1975,7 @@ z) Desempenhar outras tarefas ou actividades superiormente determinadas.
 
 ##### SUBSECÇÃO I — Inspecção Regional das Actividades Económicas (IRAE)
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -1909,7 +2023,7 @@ o) Exercer as demais competências que lhe forem conferidas por lei.
 
 2 - No desempenho das suas competências, e sempre que se mostre necessário, a IRAE pode solicitar a cooperação de outras entidades ou organismos, incluindo as autoridades policiais.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Estrutura
 
@@ -2011,7 +2125,9 @@ z) Desempenhar outras tarefas ou actividades superiormente determinadas.
 
 2 - A DSI é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.
 
-###### Artigo 62.º — Divisão de Instrução e Apoio Jurídico (DIAJ)
+###### Artigo 62.º
+
+##### Divisão de Instrução e Apoio Jurídico (DIAJ)
 
 1 - Compete à DIAJ, designadamente:
 
@@ -2123,7 +2239,7 @@ gg) Desempenhar outras tarefas ou actividades superiormente determinadas.
 
 2 - O NAFA é coordenado por funcionário designado para o efeito através de despacho do inspector regional das Actividades Económicas, sendo-lhe aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelos Decretos Legislativos Regionais n.º 2/2006/A, de 6 de Janeiro, n.º 8/2008/A, de 31 de Março e n.º 17/2009/A, de 14 de Outubro.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Prerrogativas
 
@@ -2189,7 +2305,7 @@ Em tudo o que não se encontrar revogado, mantém-se a estrutura de carreiras do
 
 ##### SUBSECÇÃO II — Inspecção Regional do Trabalho (IRT)
 
-##### DIVISÃO I
+DIVISÃO I
 
 Disposições gerais
 
@@ -2235,7 +2351,7 @@ n) Exercer as demais competências legalmente atribuídas à Autoridade para as 
 
 o) Exercer as demais competências que lhe forem conferidas por lei.
 
-##### DIVISÃO II
+DIVISÃO II
 
 Estrutura
 
@@ -2369,7 +2485,7 @@ t) Desempenhar outras tarefas ou actividades superiormente determinadas.
 
 4 - O SAAF é coordenado por funcionário designado para o efeito através de despacho do inspector regional do Trabalho, sendo-lhe aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de Março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de Outubro.
 
-##### DIVISÃO III
+DIVISÃO III
 
 Prerrogativas
 
@@ -2497,4 +2613,4 @@ k) Desempenhar outras tarefas ou actividades superiormente determinadas.
 
 ## ANEXO II — Mapa de pessoal dirigente e de chefia da Secretaria Regional do Trabalho e Solidariedade Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/10/20200/0455204581.pdf))](https://files.diariodarepublica.pt/1s/2010/10/20200/0455204581.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/10/20200/0455204581.pdf)

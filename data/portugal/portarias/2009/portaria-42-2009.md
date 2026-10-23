@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/01200/0043500438.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/42/2009/01/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/42-2009-602696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ee26553402ebf313ff06216f60cfe8d1ae7da5c9f3cc6c200cf22ba304fc0a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12e0baab7e2f9b7261a808fd3c014ff618bcc97e9e9b8b29d2be3eb974e7f6ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Álcool
 - Campanha Vinícola
-- Vinho
 - Definição de Competências
 - Destilador
-- Álcool
+- Financiamento
 - IFAP
 - Produtor
 - Transporte de Carga
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:276847:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492248:por
+  label: "Alterados o n.º 2 do art. 9.º e o n.º 1 do art. 12.º pela PORT.764/2009.16.07.2009.MADRP, DR.IS [136] de 16.07.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/764-2009-492248
+  date: '2009-07-16'
+- type: amended_by
+  target: pt:dre:334900:por
+  label: "Alterados os arts. 5º, 7º, 8º, 11º, 12º (este último na redacção da Port 764/2009, de 16-Jul), 14º e 19º, todos\
+    \ do presente diploma, pela PORT.402/2010.28.06.2010.MADRP, DR.IS [123] de 28.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/402-2010-334900
+  date: '2010-06-28'
 - type: cites
   target: celex:32001R1282
   label: null
@@ -92,16 +104,23 @@ relationships:
   target: celex:32008R0555
   label: null
   source: http://data.europa.eu/eli/reg/2008/555/oj
+- type: repealed_by
+  target: pt:dre:276847:por
+  label: "Revogada, com efeitos a 21.02.2011 e sem prejuízo do disposto no art. 23.º da Port. 152/2011, de 11-Abri, a presente\
+    \ portaria, na redacção dada pelas Ports. 764/2009, de 16-Jul, 402/2010, de 28-Jun, 465/2010, de 10- Jul e a 649/2010,\
+    \ de 09- Ago, pela PORT.152/2011.11.04.2011.MADRP, DR.IS [71] de 11.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/152-2011-276847
+  date: '2011-04-11'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:04Z'
   warnings: []
   errors: []
 ---
@@ -318,4 +337,4 @@ g) Exercer as demais funções de organismo pagador.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 6 de Janeiro de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 6 de Janeiro de 2009.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/183/2009/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-2009-602052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b42d95f5fc1fa02dc0a2e4463ccc93988e484063a437bde66273809f6c853f7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b0a1023aab8237f40c820b6074421608784f456c2ab60c560d8aa41eb392493
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - MAIA
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 relationships:
+- type: amended_by
+  target: pt:dre:880847:por
+  label: "Tornada pública a alteração das folhas A, B e D da Carta da Reserva Ecológica Nacional do município da Maia e republicada\
+    \ a versão aprovada pelo AV.8596/2013.08.07.2013.CCDRN-MAMAOT, DR.IIS [129] de 08.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/8596-2013-880847
+  date: '2013-07-08'
+- type: amended_by
+  target: pt:dre:129413145:por
+  label: Aprovada a alteração e a alteração simplificada das folhas A e B da carta da Reserva Ecológica Nacional para o município
+    de Maia, na versão republicada pelo Av 8596/2013 de 08-jul, pelo(a) Aviso n.º 2905/2020 - Diário da República n.º 36/2020,
+    Série II de 2020-02-20 que procede à publicação integral da referida carta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2905-2020-129413145
+  date: '2020-02-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
@@ -79,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1104/1993/11/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1104/1993/11/02/p/dre
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666559:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:40Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +140,7 @@ Manda o Governo, pelo Secretário de Estado do Ordenamento do Território e das 
 
 3.º A presente portaria produz efeitos com a entrada em vigor do Plano Director Municipal da Maia.
 
-**O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão, em 11 de Fevereiro de 2009.**
+O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão, em 11 de Fevereiro de 2009.
 
 QUADRO ANEXO
 
@@ -123,4 +148,4 @@ Delimitação da Reserva Ecológica Nacional do concelho da Maia
 
 Proposta de exclusões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03600/0120601208.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03600/0120601208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03600/0120601208.pdf)

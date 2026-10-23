@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/051a00/06950703.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2000/03/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2000-420784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d91992a1b443c638d07f1e20c0d19a0ffb609011585d645fa5efcfbd7ccece07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69f836680044ca3dfb4fb6bd3daefe448054e66ed9e3d74b7ff8f314cd8e2955
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,37 +67,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aeroporto
-- Assistência em Escala
-- Transporte Aéreo
-- Definição de Competências
-- Instituto Nacional de Aviação Civil
-- Domínio Público Aeroportuário
-- Licenciamento
-- Política de Solos
-- Madeira.região Autónoma
 - ANA
+- Assistência em Escala
+- Definição de Competências
+- Domínio Público Aeroportuário
+- Instituto Nacional de Aviação Civil
+- Licenciamento
+- Madeira.região Autónoma
+- Política de Solos
 - Regime Jurídico
 - Taxa Aeroportuária
+- Transporte Aéreo
 - Transporte de Passageiros
 relationships:
 - type: amended_by
   target: pt:dre:292691:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:214714:por
+  label: "Alterados os arts 24º e 28º pelo DLR.3/2003/M.2003.02.19.ALR-RAM DR.IS-A [60] de 12/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2003-214714
+  date: '2003-02-19'
 - type: cites
   target: celex:31996L0067
   label: null
   source: http://data.europa.eu/eli/dir/1996/67/oj
+- type: repealed_by
+  target: pt:dre:292691:por
+  label: "Revogado, a partir de 27.07.2013, o presente diploma, alterado pelo DLR 3/2003/M de 12-mar, pelo DLR.25-A/2013/M.26.07.2013.AL-RAM,\
+    \ DR.IS [143-2ºSupl] de 26.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-a-2013-292691
+  date: '2013-07-26'
 article_structure:
   article_count: 48
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:52Z'
   warnings: []
   errors: []
 ---
@@ -626,10 +637,10 @@ Os quantitativos das taxas actualmente praticadas mantêm-se em vigor até à su
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 20 de Janeiro de 2000.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 14 de Fevereiro de 2000.**
+Assinado em 14 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

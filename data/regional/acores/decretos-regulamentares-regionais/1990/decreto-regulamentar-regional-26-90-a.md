@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1990-573481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84e72ef2ddbe5749b9b7e08a7b8ab546162b560a0c135a3e2be244d5cbac16d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf45d7e39bf150436b2fd1ecfb0dcbd60a46ca8d99827588b1b45a32cd33edc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Regional do Tesouro
+- Gestão do Património
+- Pessoal Técnico
+- Reestruturação de Carreiras
+- Secretaria Regional das Finanças e Planeamento
 relationships:
 - type: amended_by
   target: pt:dre:513986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217712:por
+  label: "Alterado pelo DRR.17/92/A.1992.03.17.GR-RAA, DR.IS-B [94] de 22/Abr/1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1992-217712
+  date: '1992-03-17'
+- type: cites
+  target: pt:dre:354756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:689261:por
+  label: Rectificado pela DECL.DD3096.1990.11.06.PCM, DR.IS [277]3ºSupl de 30/Nov/1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-689261
+  date: '1990-11-06'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:40Z'
   warnings: []
   errors: []
 ---
@@ -210,18 +234,18 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 20 de Junho de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 25 de Julho de 1990.**
+Assinado em Angra do Heroísmo em 25 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18200/32583261.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18200/32583261.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18200/32583261.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/08/18200/32583261.pdf))](https://files.diariodarepublica.pt/1s/1990/08/18200/32583261.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/08/18200/32583261.pdf)

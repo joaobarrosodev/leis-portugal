@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421416
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72526d46abcf9c3a6f689d6bec28563d5ce52ebc5000943c5bdf06f774822632
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fa3cb374f57b72cd3e722440fe83a2ceff6c2247ff0cf465e2fd6c7293f8f45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ILHA de Porto Santo
+- Madeira.região Autónoma
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:666723:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151767:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495082:por
+  label: "Revogado o nº 2 do art. 3º do DLR 12/85/M de 24-Mai, com a redacção do presente diploma, pelo DLR.7/87/M.08.09.1987.ARM,\
+    \ DR.IS [206] de 08.09.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1987-495082
+  date: '1987-09-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:12Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +115,9 @@ Assim:
 
 A Assembleia Regional da Madeira decreta, de harmonia com o disposto na alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º e 6.º do [Decreto Legislativo Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1985-151767), de 24 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º e 6.º do [Decreto Legislativo Regional n.º 12/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1985-151767), de 24 de Maio, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - A concessão da exploração de jogos de fortuna ou azar na zona de jogo permanente de Porto Santo efectuar-se-á em regime de exclusivo, mediante concurso público, à empresa legalmente constituída, sob a forma de sociedade anónima de responsabilidade limitada, cujo capital social não seja inferior a 500000000$00, que se obrigue a constituí-la no prazo de 90 dias, a contar da data da adjudicação da concessão.
+Art. 3.º - 1 - A concessão da exploração de jogos de fortuna ou azar na zona de jogo permanente de Porto Santo efectuar-se-á em regime de exclusivo, mediante concurso público, à empresa legalmente constituída, sob a forma de sociedade anónima de responsabilidade limitada, cujo capital social não seja inferior a 500000000$00, que se obrigue a constituí-la no prazo de 90 dias, a contar da data da adjudicação da concessão.
 
 2 - O capital social da empresa concessionária será representado, no mínimo, em 51% por acções nominativas pertencentes a portugueses de origem ou naturalizados há mais de dez anos, ou a sociedades portuguesas em que igual percentagem de capital pertença a portugueses nas mesmas condições.
 
@@ -120,7 +133,7 @@ A Assembleia Regional da Madeira decreta, de harmonia com o disposto na alínea 
 
 8 - Existirá junto do conselho de administração da sociedade concessionária um delegado por parte do Governo Regional, a quem compete fiscalizar a respectiva actividade.
 
-###### Art. 4.º - 1 - Na adjudicação da concessão de exploração de jogos de fortuna ou azar na zona de jogo permanente de Porto Santo estabelecer-se-ão, além de outros que o Governo Regional entenda fazer observar, os seguintes condicionamentos:
+Art. 4.º - 1 - Na adjudicação da concessão de exploração de jogos de fortuna ou azar na zona de jogo permanente de Porto Santo estabelecer-se-ão, além de outros que o Governo Regional entenda fazer observar, os seguintes condicionamentos:
 
 a) O período de concessão terá o seu termo em 31 de Dezembro do 50.º ano posterior ao da data da assinatura do contrato de concessão;
 
@@ -138,18 +151,18 @@ O conjunto ou hotel terá acesso independente do casino;
 
 3 - Findo o contrato de concessão, quer o casino quer o campo de golfe reverterão para a Região nos termos do artigo seguinte.
 
-###### Art. 6.º - 1 - A empresa concessionária do jogo em Porto Santo ficará obrigada, pela exploração dos jogos de fortuna ou azar e das máquinas automáticas, ao pagamento anual ao Governo Regional do correspondente a 5% da receita bruta obtida nessas actividades.
+Art. 6.º - 1 - A empresa concessionária do jogo em Porto Santo ficará obrigada, pela exploração dos jogos de fortuna ou azar e das máquinas automáticas, ao pagamento anual ao Governo Regional do correspondente a 5% da receita bruta obtida nessas actividades.
 
 2 - O Governo Regional regulará os termos e prazos da liquidação e cobrança do pagamento referido no número precedente.
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor.
+Art. 2.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária de 18 de Março de 1987.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 9 de Abril de 1987.**
+Assinado em 9 de Abril de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

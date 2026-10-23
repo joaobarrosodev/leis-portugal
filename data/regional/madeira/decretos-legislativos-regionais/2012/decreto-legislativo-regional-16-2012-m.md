@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2012/08/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55b49f1e612306eef4d8c1d846cafcc4c5b7fc82cab41460eaa86861dfcfb973
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4314834b3a477d0f78e2b7b5bb36d30fbbbddfe3d6a87eab5d5ed5c31b310de9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Legislativa Regional
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:107061814:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:56305786:por
+  label: Alterado o n.º 3 e eliminado o n.º 4 do art. 26.º-C do DLR 24/89/M de 07-set, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 10/2014/M - Diário da República n.º 159/2014, Série I de 2014-08-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2014-56305786
+  date: '2014-08-20'
+- type: amended_by
+  target: pt:dre:107061814:por
+  label: Alterados os arts. 1.º, 11.º e 21.º (os dois últimos na redação do presente diploma), 30.º, 46.º e 47.º (os dois
+    últimos na redação do DLR 2/2015/M, de 26-jan), 48.º, 49.º, 50.º e 51.º, aditados os arts. 48.º-A e 50.º-A, determinado
+    que o anexo IV passa a constar como anexo II e que os anexos II e III passam a constar como anexo III e anexo IV, respetivamente
+    e aditado o anexo V ao DLR 24/89/M, de 07-set, na versão republicada pelo presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23, que o republica e renumera
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2017-107061814
+  date: '2017-05-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10-a/2000/04/27/m/dre
   label: null
@@ -113,16 +128,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:157622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656824:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:176366:por
+  label: "Retificados os art.s 18º e 21º [na parte que alteram, respetivamente, o nº 3 do art. 36º e o art. 58º do DLR 24/89/M,\
+    \ de 07-set - e na sua republicação], pela DECL-RECT.57/2012.12.10.2012.PCM, DR.IS [198] de 12.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/57-2012-176366
+  date: '2012-10-12'
 article_structure:
-  article_count: 118
+  article_count: 103
   section_count: 30
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:29Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +230,9 @@ Gabinete do Presidente
 
 5 - ...
 
-###### Artigo 11.º — Regime aplicável aos membros do Gabinete
+Artigo 11.º
+
+Regime aplicável aos membros do Gabinete
 
 1 - ...
 
@@ -175,7 +242,9 @@ Gabinete do Presidente
 
 4 - ...
 
-###### Artigo 12.º-B — Atribuições
+Artigo 12.º-B
+
+Atribuições
 
 São atribuições do conselho consultivo pronunciar-se sobre:
 
@@ -189,7 +258,9 @@ d) Atos de administração relativos ao património da Assembleia, incluindo a a
 
 e) ...
 
-###### Artigo 14.º — Atribuições
+Artigo 14.º
+
+Atribuições
 
 São atribuições do Conselho de Administração:
 
@@ -209,7 +280,9 @@ g) [Anterior alínea f).]
 
 h) [Anterior alínea g).]
 
-###### Artigo 20.º — Estatuto
+Artigo 20.º
+
+Estatuto
 
 1 - O secretário-geral é nomeado pelo Presidente da Assembleia Legislativa, em comissão de serviço e por Legislatura, sem prejuízo do previsto no número seguinte, e permanece em funções até à nomeação do novo secretário-geral.
 
@@ -225,7 +298,9 @@ h) [Anterior alínea g).]
 
 7 - ...
 
-###### Artigo 21.º — Competências específicas
+Artigo 21.º
+
+Competências específicas
 
 1 - ...
 
@@ -313,7 +388,9 @@ f) [Anterior alínea e).]
 
 3 - Nas unidades orgânicas para as quais não se encontre especificamente atribuído cargo dirigente, poderão ser desempenhadas funções de coordenação, por funcionário pertencente ao mapa de pessoal, designado para o efeito, ao qual poderá ser atribuído um suplemento remuneratório, mediante despacho do Presidente da Assembleia Legislativa, sob proposta do secretário-geral e ouvido o Conselho de Administração, sem prejuízo dos limites máximos estipulados para a carreira de técnico de apoio parlamentar.
 
-###### Artigo 24.º — Atribuições
+Artigo 24.º
+
+Atribuições
 
 1 - ...
 
@@ -537,7 +614,9 @@ Atribuições
 
 2 - Na dependência direta deste Departamento funciona o Serviço de Aprovisionamento e Gestão do Património, a quem incumbe assegurar a gestão e a manutenção das instalações e dos equipamentos, bem como do parque automóvel, e assegurar também o aprovisionamento de bens e a aquisição de serviços.
 
-###### Artigo 28.º — Competência
+Artigo 28.º
+
+Competência
 
 Compete ao Departamento Financeiro:
 
@@ -555,7 +634,9 @@ f) ...
 
 g) ...
 
-###### Artigo 32.º — Carreiras e constituição de relação jurídica de emprego parlamentar
+Artigo 32.º
+
+Carreiras e constituição de relação jurídica de emprego parlamentar
 
 1 - Os funcionários parlamentares constituem um corpo especial e permanente e exercem as suas funções integrados em carreiras especiais.
 
@@ -673,7 +754,9 @@ Técnico de apoio parlamentar
 
 4 - Podem candidatar-se à categoria de técnico de apoio parlamentar-coordenador os técnicos de apoio parlamentar posicionados, pelo menos, na 6.ª posição remuneratória que tenham, nos 10 anos anteriores, obtido avaliação positiva de desempenho de funções na Assembleia Legislativa da Região Autónoma da Madeira.
 
-###### Artigo 36.º-A — Carreira de assistente operacional parlamentar
+Artigo 36.º-A
+
+Carreira de assistente operacional parlamentar
 
 1 - A carreira de assistente operacional parlamentar desenvolve-se por duas categorias, a de assistente operacional parlamentar e a de encarregado operacional parlamentar.
 
@@ -685,7 +768,9 @@ Técnico de apoio parlamentar
 
 5 - Finda a comissão de serviço, o encarregado operacional parlamentar regressa à categoria de origem, relevando para efeitos do respetivo posicionamento remuneratório o tempo de exercício de funções na categoria de encarregado operacional parlamentar.
 
-###### Artigo 38.º — Deveres e direitos
+Artigo 38.º
+
+Deveres e direitos
 
 1 - Constituem deveres gerais dos funcionários parlamentares, nomeadamente:
 
@@ -739,7 +824,9 @@ f) À proteção na doença, para si e para a sua família, nos termos da legisl
 
 g) À participação, através do seu representante no Conselho Consultivo, em todas as matérias relacionadas com as condições de trabalho, nomeadamente implementação de medidas relativas às condições de higiene, saúde e segurança no trabalho e definição da política de formação e aperfeiçoamento profissional.
 
-###### Artigo 39.º — Garantias de imparcialidade e isenção
+Artigo 39.º
+
+Garantias de imparcialidade e isenção
 
 1 - O exercício de funções na Assembleia Legislativa da Região Autónoma da Madeira, quer em funções dirigentes, quer por funcionário ou agente, é feito em regime de exclusividade, sendo incompatível com qualquer cargo, função ou atividade, públicos ou privados, que possam afetar a isenção e a independência do funcionário parlamentar, bem como o total cumprimento dos deveres estabelecidos no presente diploma.
 
@@ -755,7 +842,9 @@ c) Atividade docente no ensino superior ou de investigação sem prejuízo do cu
 
 d) Realização de conferências, palestras, ações de formação de curta duração e outras atividades de idêntica natureza.
 
-###### Artigo 40.º — Recrutamento
+Artigo 40.º
+
+Recrutamento
 
 1 - Os titulares dos cargos de direção intermédia são recrutados, por procedimento concursal, de entre trabalhadores em funções públicas contratados ou designados por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício de funções de direção, coordenação e controlo que reúnam seis ou quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura, consoante se trate de cargos de direção intermédia de 1.º ou de 2.º grau, respetivamente.
 
@@ -811,11 +900,15 @@ Conta
 
 3 - A conta é publicada no Diário da Assembleia Legislativa, no Diário da República e no Jornal Oficial da Região.
 
-###### Artigo 58.º — Carreiras subsistentes
+Artigo 58.º
+
+Carreiras subsistentes
 
 A carreira técnica de informática parlamentar subsiste, enquanto existirem funcionários parlamentares nela integrados, mantendo-se quanto a estes o regime aplicável à data da entrada em vigor do presente diploma, designadamente para efeitos de procedimentos concursais, e extinguem-se à medida que vagarem os correspondentes postos de trabalho, mantendo os funcionários o posicionamento remuneratório previsto no artigo seguinte.
 
-###### Artigo 59.º — Transição de carreiras
+Artigo 59.º
+
+Transição de carreiras
 
 1 - Transitam para a categoria correspondente da carreira de consultor parlamentar os atuais funcionários parlamentares integrados na carreira de técnico superior parlamentar.
 
@@ -847,7 +940,9 @@ Reposicionamento remuneratório
 
 3 - Nos casos previstos no número anterior, a primeira alteração de posicionamento remuneratório far-se-á para a posição imediatamente a seguir àquela em que o funcionário parlamentar está posicionado, se desta não resultar um impulso salarial inferior ao montante pecuniário que estiver fixado na lei geral, sendo que, nesta situação, a alteração se efetuará para a posição remuneratória imediatamente seguinte.
 
-###### Artigo 61.º — Integração de pessoal
+Artigo 61.º
+
+Integração de pessoal
 
 1 - O pessoal que à data de entrada em vigor do Orçamento da Assembleia Legislativa para o ano de 2012 se encontre a prestar serviço na Assembleia Legislativa, em regime de cedência de interesse público, mobilidade interna, comissão de serviço ou política pública de emprego, pode ser integrado no mapa de pessoal, de acordo com as seguintes regras:
 
@@ -893,25 +988,25 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 26 de julho de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 6 de agosto de 2012.**
+Assinado em 6 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
 ## ANEXO I — Carreira de consultor parlamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 Carreira de técnico de apoio parlamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 Carreira de assistente operacional parlamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 ## ANEXO II — Cartão de identidade
 
@@ -919,11 +1014,11 @@ Modelo de cartão a que alude o n.º 2 do artigo 9.º, o n.º 1 do artigo 12.º 
 
 (Anverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 (Reverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo. Será autenticado com a assinatura do Presidente da Assembleia e com a aposição do selo branco, de forma que abranja o canto inferior esquerdo da fotografia.
 
@@ -935,11 +1030,11 @@ Modelo de cartão que alude o n.º 3 do artigo 30.º, o n.º 4 do artigo 43.º e
 
 (Anverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 (Reverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo. Será autenticado com a assinatura do Secretário-Geral da Assembleia Legislativa e com a aposição do selo branco, de forma que abranja o canto inferior esquerdo da fotografia.
 
@@ -951,17 +1046,17 @@ Modelo de cartão a que alude o n.º 9 do artigo 46.º
 
 (Anverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 (Reverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo. Será autenticado com a assinatura do Presidente da Assembleia e com a aposição do selo branco, de forma que abranja o canto inferior esquerdo da fotografia.
 
 Dimensões: 105 mm x 70 mm.
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 ## ANEXO — Estrutura Orgânica da Assembleia Legislativa da Região Autónoma da Madeira
 
@@ -1037,7 +1132,7 @@ c) O Conselho de Administração.
 
 ###### Artigo 8.º — Delegação de competências
 
-**O Presidente da Assembleia Legislativa pode delegar nos vice-presidentes os poderes que lhe são conferidos no presente decreto legislativo regional.**
+O Presidente da Assembleia Legislativa pode delegar nos vice-presidentes os poderes que lhe são conferidos no presente decreto legislativo regional.
 
 ###### Artigo 9.º — Gabinete do Presidente
 
@@ -1179,7 +1274,7 @@ A organização interna dos serviços e as suas condições de funcionamento sã
 
 ###### Artigo 19.º — Atribuições e competências
 
-**O secretário-geral da Assembleia Legislativa superintende em todos os serviços da Assembleia e coordena-os, submetendo a despacho do Presidente os assuntos cuja decisão não esteja no âmbito da sua competência.**
+O secretário-geral da Assembleia Legislativa superintende em todos os serviços da Assembleia e coordena-os, submetendo a despacho do Presidente os assuntos cuja decisão não esteja no âmbito da sua competência.
 
 ###### Artigo 20.º — Estatuto
 
@@ -1971,15 +2066,15 @@ b) Para categoria de outra carreira correspondente às funções que efetivament
 
 ## ANEXO I — Carreira de consultor parlamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 Carreira de técnico de apoio parlamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 Carreira de assistente operacional parlamentar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 ## ANEXO II — Cartão de identidade
 
@@ -1987,11 +2082,11 @@ Modelo de cartão a que alude o n.º 2 do artigo 9.º, o n.º 1 do artigo 12.º 
 
 (Anverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 (Reverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo. Será autenticado com a assinatura do Presidente da Assembleia e com a aposição do selo branco, de forma que abranja o canto inferior esquerdo da fotografia.
 
@@ -2003,11 +2098,11 @@ Modelo de cartão que alude o n.º 3 do artigo 30.º, o n.º 4 do artigo 43.º e
 
 (Anverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 (Reverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo. Será autenticado com a assinatura do Secretário-Geral da Assembleia Legislativa e com a aposição do selo branco, de forma que abranja o canto inferior esquerdo da fotografia.
 
@@ -2019,14 +2114,14 @@ Modelo de cartão a que alude o n.º 9 do artigo 46.º
 
 (Anverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 (Reverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
 
 Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo. Será autenticado com a assinatura do Presidente da Assembleia e com a aposição do selo branco, de forma que abranja o canto inferior esquerdo da fotografia.
 
 Dimensões: 105 mm x 70 mm.
 
-## ANEXO IV — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)
+## ANEXO IV — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15600/0436704398.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/35/2012/08/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2012-175320
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b037d6e3c9c5872697d5766ff45c638425d61310a5e507e7bd52323404dd8539
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce717b6c58462b46f8f56590d14f654beec62acf2b4fc5726d901f5b6000dd80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Obras Municipais
-- Política de Solos
-- Plano de Pormenor
-- Plano de Urbanização
-- Urbanismo
-- Plano Regional de Ordenamento do Território
-- Prota
 - Açores
 - Autarquia Local
+- Definição de Competências
+- Obras Municipais
+- Plano de Pormenor
+- Plano de Urbanização
+- Plano Regional de Ordenamento do Território
+- Política de Solos
+- Prota
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:939529481:por
@@ -121,16 +121,288 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2007/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2007/09/04/p/dre
+- type: cites
+  target: pt:dre:197492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283350:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421190:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:617082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
 article_structure:
   article_count: 188
   section_count: 36
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:38Z'
   warnings: []
   errors: []
 ---
@@ -939,7 +1211,9 @@ O plano de ordenamento do território de ilha tem um prazo mínimo de vigência 
 
 ##### DIVISÃO II — Áreas temáticas
 
-##### SUBDIVISÃO I — Ordenamento da Orla Costeira
+SUBDIVISÃO I
+
+Ordenamento da Orla Costeira
 
 ###### Artigo 57.º — Noção e âmbito
 
@@ -1029,7 +1303,9 @@ m) A definição dos programas-base necessários à elaboração de planos de zo
 
 2 - Na elaboração dos planos de ordenamento do território de ilha que abranjam a orla costeira devem ser seguidos os princípios a observar na ocupação, uso e transformação da zona terrestre de proteção à orla costeira e as normas técnicas de referência constantes, respetivamente, dos anexos iv e v ao presente diploma, do qual fazem parte integrante.
 
-##### SUBDIVISÃO II — Gestão de bacias hidrográficas de lagoas ou ribeiras
+SUBDIVISÃO II
+
+Gestão de bacias hidrográficas de lagoas ou ribeiras
 
 ###### Artigo 61.º — Noção e âmbito
 
@@ -1109,7 +1385,9 @@ g) O regime de uso, ocupação e transformação do solo, com indicação das co
 
 h) A identificação e delimitação de unidades territoriais que correspondam a áreas que devam ser objeto de projetos e de programas específicos, considerados prioritários, a escala de maior pormenor.
 
-##### SUBDIVISÃO III — Proteção e gestão de águas subterrâneas
+SUBDIVISÃO III
+
+Proteção e gestão de águas subterrâneas
 
 ###### Artigo 65.º — Noção e âmbito
 
@@ -1161,7 +1439,9 @@ c) O diagnóstico prospetivo e a evolução potencial da situação existente qu
 
 d) A definição de usos compatíveis, identificando as zonas mais importantes para a conservação da massa de água numa perspetiva do seu uso para consumo humano.
 
-##### SUBDIVISÃO IV — Gestão de áreas protegidas
+SUBDIVISÃO IV
+
+Gestão de áreas protegidas
 
 ###### Artigo 69.º — Noção e âmbito
 
@@ -1207,7 +1487,9 @@ g) O regime de uso, ocupação e transformação do solo, com indicação das co
 
 h) A identificação e delimitação de unidades territoriais que correspondam a áreas que devam ser objeto de projetos e de programas específicos, considerados prioritários, a escala de maior pormenor.
 
-##### SUBDIVISÃO V — Prevenção e mitigação de riscos naturais
+SUBDIVISÃO V
+
+Prevenção e mitigação de riscos naturais
 
 ###### Artigo 73.º — Noção e âmbito
 
@@ -1963,7 +2245,9 @@ b) Das compensações em numerário devidas nos termos do n.º 4 do artigo 44.º
 
 4 - Cada prédio responde apenas pela parte do montante da garantia que lhe cabe nos termos da parte final do número anterior, sendo lícito ao seu titular requerer a substituição da hipoteca legal por outro meio de caução admissível, valendo a deliberação camarária de aceitação, como título bastante para cancelamento da inscrição da hipoteca legal.
 
-##### SUBDIVISÃO I — Modalidades específicas
+SUBDIVISÃO I
+
+Modalidades específicas
 
 ###### Artigo 119.º — Modalidades específicas
 
@@ -3005,21 +3289,21 @@ O presente diploma entra em vigor 15 dias após a data da sua publicação, sem 
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de maio de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 20 de julho de 2012.**
+Assinado em Angra do Heroísmo em 20 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
 ## ANEXO I — Conceitos técnicos do ordenamento do território e urbanismo a utilizar nos instrumentos de gestão territorial, aos quais se refere o artigo 5.º
 
-# Parte A - Lista dos conceitos técnicos, respetiva abreviatura e unidades de medida normalizadas
+Parte A - Lista dos conceitos técnicos, respetiva abreviatura e unidades de medida normalizadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15800/0449204561.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15800/0449204561.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15800/0449204561.pdf)
 
-# Parte B - Conceitos técnicos, respetiva definição e notas complementares
+Parte B - Conceitos técnicos, respetiva definição e notas complementares
 
 Ficha n.º 1 - Afastamento
 
@@ -3753,7 +4037,7 @@ Notas complementares: os critérios que têm prevalecido na aplicação da técn
 
 Ver também: parâmetros de edificabilidade; regime de uso do solo; uso do solo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/15800/0449204561.pdf))](https://files.diariodarepublica.pt/1s/2012/08/15800/0449204561.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/08/15800/0449204561.pdf)
 
 ## ANEXO II — Linhas de orientação relativas a intervenções no litoral dos Açores, às quais se refere o artigo 57.º
 

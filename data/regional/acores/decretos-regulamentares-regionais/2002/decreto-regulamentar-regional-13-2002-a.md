@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/121b00/47204721.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/2002/05/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2002-152710
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 712846849007aaadfbc215d469667569cc66fae9739e9c781e28f7453718f852
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2194f939518370ca9a90788c7aed8c3c668daab6ca51deb5e4b49b37940f35e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Secretaria Regional da Economia
-- Governo Regional
+- Açores
 - Conselho Regional de Incentivos
 - Criação de Serviços
 - Definição de Competências
+- Governo Regional
 - Orgânica
-- Açores
+- Secretaria Regional da Economia
 relationships:
 - type: amended_by
   target: pt:dre:258529:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519664:por
+  label: "Alterados os arts. 4º e 10º e substituídas as expressões \"Secretaria Regional da Economia\" e \"Secretário Regional\
+    \ da Economia\", constantes, respectivamente, do art. 1º e do nº 1 do art. 5º, pelas expressões \"departamento do Governo\
+    \ Regional com competência em matéria de economia\" e \"membro do Governo Regional com competência em matéria de economia\"\
+    , respectivamente, pelo DRR.10/2007/A.21.03.2007.PG-RAA, DR.IS [72] de 12.04.2007, que republicou o presente diploma com\
+    \ todas as alterações\0ões\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2007-519664
+  date: '2007-03-21'
+- type: amended_by
+  target: pt:dre:258529:por
+  label: "Extinto o Conselho Regional de Incentivos (CRI), criado pelo presente diploma, alterado e republicado pelo DRR 10/2007/A\
+    \ de 12-Abr, pelo DLR.1/2013/A.19.02.2013.AL-RAA, DR.IS [35] de 19.02.2013, que revogou a partir de 20.02.2013 o presente\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2013-258529
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/2000/08/10/a/dre
   label: null
@@ -93,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre
+- type: cites
+  target: pt:dre:138815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291927:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339848:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:31Z'
   warnings: []
   errors: []
 ---
@@ -183,10 +215,10 @@ O presente diploma entra em vigor no primeiro dia útil seguinte ao da sua publi
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 27 de Março de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 30 de Abril de 2002.**
+Assinado em Angra do Heroísmo em 30 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

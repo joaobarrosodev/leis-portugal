@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/1994/09/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1994-592334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5daeb05246b8b99e3db1b9668b2b9421d0dfd53a96f1ffb3e86ca47a469cf7a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae8a2883c45a319f77299f9fcd3f778d97910403cc4814380801bda8ddd2ee44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Desenvolvimento Regional
-- Pesca-ram-modernização das Pescas e Desenvolvimento das Actividades Marinhas
-- Madeira.região Autónoma
+- Financiamento
 - Ifadap
+- Madeira.região Autónoma
+- Pesca-ram-modernização das Pescas e Desenvolvimento das Actividades Marinhas
 relationships:
 - type: cites
   target: celex:31986R4028
@@ -89,15 +89,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/1993/3699/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:58Z'
   warnings: []
   errors: []
 ---
@@ -138,9 +138,9 @@ Assim:
 
 A Assembleia Legislativa Regional decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da Lei n.º 13/91, de 5 de Junho, o seguinte:
 
-###### Artigo 1.º O presente diploma estabelece as condições gerais de aplicação da medida «Modernização das pescas e desenvolvimento das actividades marinhas», incluída no Subprograma 2, «Desenvolvimento de factores de competitividade e potencial endógeno», do Programa Operacional Plurifundos para a Região Autónoma da Madeira, adiante também designada PESCA-RAM, do quadro Comunitário de Apoio para 1994-1999.
+Artigo 1.º O presente diploma estabelece as condições gerais de aplicação da medida «Modernização das pescas e desenvolvimento das actividades marinhas», incluída no Subprograma 2, «Desenvolvimento de factores de competitividade e potencial endógeno», do Programa Operacional Plurifundos para a Região Autónoma da Madeira, adiante também designada PESCA-RAM, do quadro Comunitário de Apoio para 1994-1999.
 
-###### Art. 2.º - 1 - O PESCA-RAM tem por objectivo garantir a sustentabilidade do sector das pescas mediante o restabelecimento do equilíbrio entre os recursos e o esforço de pesca e assegurar uma modernização do sector que aumente a produtividade e melhore a competitividade das empresas.
+Art. 2.º - 1 - O PESCA-RAM tem por objectivo garantir a sustentabilidade do sector das pescas mediante o restabelecimento do equilíbrio entre os recursos e o esforço de pesca e assegurar uma modernização do sector que aumente a produtividade e melhore a competitividade das empresas.
 
 2 - Para prossecução do objectivo enunciado no número anterior, podem ser concedidas ajudas nos seguintes domínios:
 
@@ -162,7 +162,7 @@ g) Equipamentos dos portos de pesca.
 
 4 - Sem prejuízo do disposto no Decreto-Lei n.º 99/94, de 19 de Abril, o regime das ajudas a conceder no âmbito do presente diploma será objecto de portaria do Secretário Regional de Agricultura, Florestas e Pescas.
 
-###### Art. 3.º - 1 - É criada a comissão consultiva do PESCA-RAM, composta pelo director regional de Pescas, por dois dirigentes pertencentes à Secretaria Regional de Agricultura, Florestas e Pescas, duas personalidades de reconhecido mérito ligadas ao sector da pesca, a designar por despacho do Secretário Regional de Agricultura, Florestas e Pescas, e por um representante da Associação de Armadores.
+Art. 3.º - 1 - É criada a comissão consultiva do PESCA-RAM, composta pelo director regional de Pescas, por dois dirigentes pertencentes à Secretaria Regional de Agricultura, Florestas e Pescas, duas personalidades de reconhecido mérito ligadas ao sector da pesca, a designar por despacho do Secretário Regional de Agricultura, Florestas e Pescas, e por um representante da Associação de Armadores.
 
 2 - Para além das funções que lhe sejam atribuídas no despacho referido no número anterior, compete à comissão consultiva do PESCA-RAM:
 
@@ -170,7 +170,7 @@ a) Pronunciar-se sobre o funcionamento e execução do PESCA-RAM;
 
 b) Dar parecer sobre o impacte dos investimentos efectuados, tendo em vista a avaliação do PESCA-RAM.
 
-###### Art. 4.º - 1 - Os apoios financeiros a conceder aos projectos podem assumir, cumulativamente ou não, a forma de:
+Art. 4.º - 1 - Os apoios financeiros a conceder aos projectos podem assumir, cumulativamente ou não, a forma de:
 
 a) Bonificação de juros;
 
@@ -182,9 +182,9 @@ c) Apoios financeiros reembolsáveis (empréstimos sem juros).
 
 3 - As condições de atribuição dos apoios financeiros, nomeadamente os seus montantes específicos, serão igualmente fixadas pela portaria a que se reporta o n.º 4 do artigo 2.º do presente diploma, em regulamentação específica.
 
-###### Art. 5.º O pagamento das ajudas previstas no presente diploma e legislação complementar faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), salvo nos casos em que a portaria referida no n.º 4 do artigo 2.º preveja outra entidade para outorgar em nome da Região Autónoma da Madeira.
+Art. 5.º O pagamento das ajudas previstas no presente diploma e legislação complementar faz-se ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), salvo nos casos em que a portaria referida no n.º 4 do artigo 2.º preveja outra entidade para outorgar em nome da Região Autónoma da Madeira.
 
-###### Art. 6.º - 1 - Em caso de incumprimento culposo, ainda que a título de mera negligência, pelos beneficiários das obrigações decorrentes dos contratos, a entidade pagadora pode modificar ou rescindir unilateralmente os contratos.
+Art. 6.º - 1 - Em caso de incumprimento culposo, ainda que a título de mera negligência, pelos beneficiários das obrigações decorrentes dos contratos, a entidade pagadora pode modificar ou rescindir unilateralmente os contratos.
 
 2 - Em caso de rescisão do contrato nos termos do número anterior, o beneficiário será notificado para, no prazo de 15 dias, proceder à restituição das importâncias recebidas, acrescidas de juros à taxa legal, contados desde a data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.
 
@@ -196,29 +196,29 @@ c) Apoios financeiros reembolsáveis (empréstimos sem juros).
 
 6 - A rescisão do contrato pela entidade pagadora também determina para os beneficiários a suspensão do direito de se candidatarem, individual ou colectivamente, quando participem em posição dominante, aos apoios previstos no presente diploma durante o restante período a que se refere o apoio, mas nunca por prazo inferior a três anos.
 
-###### Art. 7.º O beneficiário poderá, mediante requerimento, desistir do apoio, desde que proceda à restituição das importâncias que haja recebido, acrescidas de juros, calculados à taxa legal, desde a data em que aquelas foram colocadas à sua disposição.
+Art. 7.º O beneficiário poderá, mediante requerimento, desistir do apoio, desde que proceda à restituição das importâncias que haja recebido, acrescidas de juros, calculados à taxa legal, desde a data em que aquelas foram colocadas à sua disposição.
 
-###### Art. 8.º - 1 - Constituem títulos executivos as certidões de dívida emitidas pela entidade pagadora.
+Art. 8.º - 1 - Constituem títulos executivos as certidões de dívida emitidas pela entidade pagadora.
 
 2 - As certidões referidas o número anterior devem indicar a data de emissão, a identificação e domicílio do devedor, a proveniência da dívida, a indicação, por extenso, do montante e a data a partir da qual são devidos juros, respectivas taxas aplicáveis e a importância sobre que incidem.
 
 3 - Para as execuções instauradas ao abrigo do presente diploma é competente o foro da comarca do Funchal.
 
-###### Art. 9.º Os apoios referidos no presente diploma e respectiva legislação complementar não são acumuláveis com quaisquer outros da mesma natureza.
+Art. 9.º Os apoios referidos no presente diploma e respectiva legislação complementar não são acumuláveis com quaisquer outros da mesma natureza.
 
-###### Art. 10.º - 1 - As candidaturas às ajudas referidas neste decreto legislativo regional são formalizadas através da apresentação do respectivo projecto, acompanhado dos elementos que vierem a ser exigidos no âmbito da portaria a que se reporta o n.º 4 do artigo 2.º
+Art. 10.º - 1 - As candidaturas às ajudas referidas neste decreto legislativo regional são formalizadas através da apresentação do respectivo projecto, acompanhado dos elementos que vierem a ser exigidos no âmbito da portaria a que se reporta o n.º 4 do artigo 2.º
 
 2 - Após a recepção dos processos, podem as instituições receptoras solicitar aos candidatos esclarecimentos complementares, os quais devem ser apresentados no prazo máximo de 15 dias úteis, findos os quais a ausência de resposta, excepto quando não imputável ao candidato, importará a desistência das candidaturas.
 
-###### Art. 11.º Sem prejuízo dos requisitos fixados na portaria que consagrará a regulamentação específica do regime das ajudas, os projectos devem apresentar viabilidade técnica, económica e financeira adequada à sua dimensão e complexidade.
+Art. 11.º Sem prejuízo dos requisitos fixados na portaria que consagrará a regulamentação específica do regime das ajudas, os projectos devem apresentar viabilidade técnica, económica e financeira adequada à sua dimensão e complexidade.
 
-###### Art. 12.º Todos os apoios financeiros ficam sujeitos à verificação da sua utilização em conformidade com o projecto apresentado, não podendo ser desviados para outros fins, nem locados, alienados ou por qualquer forma onerados, no todo ou em parte, os bens com eles adquiridos sem autorização prévia da entidade pagadora, até que sejam atingidos os objectivos do investimento.
+Art. 12.º Todos os apoios financeiros ficam sujeitos à verificação da sua utilização em conformidade com o projecto apresentado, não podendo ser desviados para outros fins, nem locados, alienados ou por qualquer forma onerados, no todo ou em parte, os bens com eles adquiridos sem autorização prévia da entidade pagadora, até que sejam atingidos os objectivos do investimento.
 
-###### Art. 13.º A cobertura orçamental do PESCA-RAM é assegurada por verbas comunitárias, do Orçamento do Estado e do Orçamento Regional.
+Art. 13.º A cobertura orçamental do PESCA-RAM é assegurada por verbas comunitárias, do Orçamento do Estado e do Orçamento Regional.
 
-###### Art. 14.º Sem prejuízo do disposto no Decreto-Lei n.º 99/94, de 19 de Abril, a gestão do PESCA-RAM é assegurada pela Direcção Regional de Pescas.
+Art. 14.º Sem prejuízo do disposto no Decreto-Lei n.º 99/94, de 19 de Abril, a gestão do PESCA-RAM é assegurada pela Direcção Regional de Pescas.
 
-###### Art. 15.º São objecto de portaria, a que se refere o n.º 4 do artigo 2.º, as normas necessárias à boa execução do disposto no presente diploma, nomeadamente:
+Art. 15.º São objecto de portaria, a que se refere o n.º 4 do artigo 2.º, as normas necessárias à boa execução do disposto no presente diploma, nomeadamente:
 
 a) A natureza e os objectivos das ajudas;
 
@@ -232,14 +232,14 @@ e) Os circuitos processuais de acesso às ajudas;
 
 f) A área geográfica de aplicação.
 
-###### Art. 16.º O presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.
+Art. 16.º O presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.
 
 Aprovado em sessão plenária de 29 de Julho de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 11 de Agosto de 1994.**
+Assinado em 11 de Agosto de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

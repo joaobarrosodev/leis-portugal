@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2005/03/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2005-579538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20ddc2226e9f1ec4b3b39e555b7ca6906cd6de43fed870a1ef498e27036d0f3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7aeeaa1595a18e7feeccf453591594410567570a120d206a91a3dcc0f336df19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Ilha de São Jorge
 - Ordenamento do Território
 - Plano Director Municipal
-- Ilha de São Jorge
 - Política de Solos
 - Regulamento
-- Açores
 - Velas
 relationships:
 - type: amended_by
   target: pt:dre:156188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:156188:por
+  label: "Alterada a al. f) do nº 3 do preâmbulo do presente diploma e revogada a representação cartográfica relativa a uma\
+    \ área não ratificada que consta do anexo nº 4, substituído pela constante do DRR.22/2005/A.21.09.2005.PG-RAA, DR.IS-B\
+    \ [196] de 12.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2005-156188
+  date: '2005-09-21'
 - type: cites
   target: eli:http://data.dre.pt/
   label: null
@@ -117,16 +124,194 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2003/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2003/06/04/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645096:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:868473964:por
+  label: Revoga o Decreto Regulamentar Regional n.º 7/2005/A, de 23 de março, Diário da República n.º 58/2005, Série I-B,
+    alterado pelo Decreto Regulamentar Regional n.º 22/2005/A, de 12 de outubro, pelo(a) Aviso n.º 28/2024
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/28-2024-868473964
+  date: '2024-06-11'
 article_structure:
   article_count: 38
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:08Z'
   warnings: []
   errors: []
 ---
@@ -243,11 +428,11 @@ Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 30 de Setembro de
 
 Pelo Presidente do Governo Regional, Roberto de Sousa Rocha Amaral, Secretário Regional da Presidência para as Finanças e Planeamento.
 
-**Assinado em Angra do Heroísmo em 23 de Dezembro de 2004.**
+Assinado em Angra do Heroísmo em 23 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO N.º 1 — REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DAS VELAS
 
@@ -287,15 +472,15 @@ b) Domínio físico-económico, que contém:
 
 ### Capítulo 1 - Sistema produtivo;
 
-### Capítulo 2 - Infra-estruturas;
+Capítulo 2 - Infra-estruturas;
 
 c) Domínio físico-social, que contém:
 
 ### Capítulo 1 - População;
 
-### Capítulo 2 - Caracterização urbana;
+Capítulo 2 - Caracterização urbana;
 
-### Capítulo 3 - Equipamentos colectivos.
+Capítulo 3 - Equipamentos colectivos.
 
 ###### Artigo 3.º — Objectivos
 
@@ -1015,14 +1200,14 @@ As intervenções incidentes em edifícios públicos e respectivas zonas de prot
 
 ## ANEXO N.º 2 — Planta de ordenamento
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)
+[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)
 
 ## ANEXO N.º 3 — Planta de condicionantes
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)
+[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)
 
 ## ANEXO N.º 4 — Área não ratificada
 
 (área interior à linha a cheio assinalada pelas setas)
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)
+[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)](https://files.diariodarepublica.pt/1s/2005/03/058b00/25722581.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/00700/0022400226.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/12/2009/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/12-2009-397325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34ec96b091f531cd0a694260fd6eddfa02951fa336d164e2beafbe1a867f37d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9013eb49dba5bf1b51a1914247e861fbd19bab8e9fd0373be0cebb33b9b49b65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Pagamento
 - Instituto do Desporto de Portugal
 - Mergulhador
 - Mergulho
+- Pagamento
 - Taxa
 relationships:
 - type: amended_by
@@ -84,16 +84,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: pt:dre:239857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522631:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:259882:por
+  label: "Revogada, a partir de 18.06.2013, pela LEI.24/2013.20.03.2013.AR, DR.IS [56] de 20.03.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-2013-259882
+  date: '2013-03-20'
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:55Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +129,9 @@ Ao abrigo do artigo 11.º do [Decreto-Lei n.º 16/2007](https://diariodarepublic
 
 A presente portaria aprova as características do título nacional de mergulho, de acordo com o modelo constante do anexo i, e define as regras para a sua emissão, substituição e actualização.
 
-###### Artigo 2.º — Título nacional de mergulho
+###### Artigo 2.º
+
+## Título nacional de mergulho
 
 A obtenção do título nacional de mergulho é obrigatória para todos os mergulhadores e instrutores de mergulho que exerçam a sua actividade em território nacional, salvo as excepções estabelecidas pelo artigo 15.º do [Decreto-Lei n.º 16/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2007-522631), de 22 de Janeiro.
 
@@ -230,14 +249,14 @@ O tratamento e interconexão dos dados pessoais decorrentes do n.º 2 do artigo 
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Juventude e do Desporto, Laurentino José Monteiro Castro Dias, em 15 de Dezembro de 2008.**
+O Secretário de Estado da Juventude e do Desporto, Laurentino José Monteiro Castro Dias, em 15 de Dezembro de 2008.
 
 ## ANEXO I — Modelo de título nacional de mergulho
 
 (anverso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00700/0022400226.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00700/0022400226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00700/0022400226.pdf)
 
 (verso)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/00700/0022400226.pdf))](https://files.diariodarepublica.pt/1s/2009/01/00700/0022400226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/00700/0022400226.pdf)

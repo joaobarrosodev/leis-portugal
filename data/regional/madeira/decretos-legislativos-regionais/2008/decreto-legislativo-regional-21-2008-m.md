@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/2008/06/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2008-449427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b1cdf84d96bf75ad14d7f40a749ecc72aa22cdc13b58c7d3dc89ccade311390
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f6d8bceb963af6db608b6b64837fe2c773d76876dad2f0b86c2d0d3969e66af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,19 @@ subjects:
 - Centro de Emprego
 - Centro de Segurança Social da Madeira
 - Comissão de Acompanhamento
-- Governo Regional
 - Desempregado
-- Faltas
-- Instituto Regional de Emprego
-- Pensão de Velhice
-- Internet
-- Prestações de Desemprego
 - Desemprego
+- Faltas
+- Governo Regional
+- Inspecção Regional do Trabalho
+- Instituto Regional de Emprego
+- Internet
 - Madeira.região Autónoma
+- Pensão de Velhice
+- Prestações de Desemprego
 - Proteção no Desemprego
 - Proteção Social
 - Secretaria Regional
-- Inspecção Regional do Trabalho
 - Segurança Social
 - Serviço Regional de Saúde
 - Subsídio de Desemprego
@@ -109,16 +109,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:274411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:59Z'
   warnings: []
   errors: []
 ---
@@ -207,7 +231,9 @@ d) Considera-se, ainda, empresa em reestruturação aquela que assim for declara
 
 6 - ...
 
-###### Artigo 17.º — Dever de apresentação quinzenal
+Artigo 17.º
+
+Dever de apresentação quinzenal
 
 1 - O dever de apresentação quinzenal consiste na obrigação por parte dos beneficiários de prestações de desemprego em, de forma espontânea ou mediante convocatória, comparecer no Instituto Regional de Emprego, nos serviços de segurança social da área da residência do beneficiário, ou em outras entidades com quem o Instituto Regional de Emprego venha a celebrar protocolos para este efeito ou delegar competências nesta matéria.
 
@@ -219,7 +245,9 @@ d) Considera-se, ainda, empresa em reestruturação aquela que assim for declara
 
 5 - ...
 
-###### Artigo 85.º — Execução do diploma
+Artigo 85.º
+
+Execução do diploma
 
 1 - ...
 
@@ -233,10 +261,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em13 de Maio de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 9 de Junho de 2008.**
+Assinado em 9 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

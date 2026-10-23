@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/637/2009/06/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/637-2009-494515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fe2abdbb4e1c50bea0e1fb325861de796f0df8c81cd1270b8bd30a5a0623e90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95e0c912c9a636a4c3db5c331258e45e7a6fdb0d56c931c14db6dac07da75c05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
+- Ave de Capoeira
 - Avicultura
 - Carne
-- Direção Geral de Veterinária
-- Definição de Competências
+- Comércio
 - Controlo Sanitário
-- Saúde Pública
+- Definição de Competências
+- Direção Geral de Veterinária
 - Exploração Pecuária
 - Fiscalização
-- Ave de Capoeira
 - Instalação de Serviços
 - Licenciamento
 - OVO
-- Política Agrícola Comum
 - Pecuária
-- Comércio
+- Política Agrícola Comum
+- Produção Animal
+- Saúde Pública
 relationships:
 - type: cites
   target: celex:32002R1774
@@ -98,13 +98,13 @@ relationships:
 article_structure:
   article_count: 29
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:25Z'
   warnings: []
   errors: []
 ---

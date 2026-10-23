@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/27/1992/06/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-300468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b31249847e4006f6b58350dbadec805c0edefdf6d562a0cd67ff257776cb3db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 025d052c0d50acd707ed1fee1f061a32ed6d3080d17453d81b849a1b1af28add
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Regional do Tesouro
+- Açores
 - Carreira Profissional
-- Tesouraria
-- Tesoureiro
+- Direcção Regional do Tesouro
 - Quadro de Pessoal
 - Secretaria Regional das Finanças e Planeamento
-- Açores
+- Tesouraria
+- Tesoureiro
 relationships:
 - type: amended_by
   target: pt:dre:625024:por
@@ -82,16 +82,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/32/1991/10/01/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/32/1991/10/01/a/dre
+- type: cites
+  target: pt:dre:294152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464427:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:625024:por
+  label: "Revogado o DRR 41/80/A de 08-Set, com a redacção do presente diploma, pelo DLR.33/2004/A.12.07.2004.ALR-RAA, DR.IS-A\
+    \ [200] de 25.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/33-2004-625024
+  date: '2004-07-12'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:03Z'
   warnings: []
   errors: []
 ---
@@ -138,14 +156,14 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Madalena do Pico, em 10 de Abril de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 29 de Abril de 1992.**
+Assinado em Angra do Heroísmo em 29 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/06/132b00/27582759.pdf))](https://files.diariodarepublica.pt/1s/1992/06/132b00/27582759.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/06/132b00/27582759.pdf)

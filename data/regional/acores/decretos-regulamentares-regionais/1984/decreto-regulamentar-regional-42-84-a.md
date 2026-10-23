@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/11/27200/35613563.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/42-1984-401284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f8526480d83510160179857e4eada8a6e210feead1a56dfe798d110bcbd44a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e7f214bc47ea14f241c902096fe3708487ab7705154c7e412a8b20d6f9a1c94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Criação de Serviços
+- Gabinete de Execução do Programa Agro-pecuário do PICO
+- Orgânica
+- Secretário Regional da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:203459:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:378091:por
+  label: "Alterado o artigo 10.º pelo DRR.33/88/A.03.08.1988.GR-RAA, DR.IS [178] de 03.08.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1988-378091
+  date: '1988-08-03'
+- type: amended_by
+  target: pt:dre:619713:por
+  label: "Alterados os artigos 2.º, 4.º, 5.º e revogadas as alíneas d) e j) do artigo 6.º, pelo DRR.21/89/A.04.07.1989.GR-RAA,\
+    \ DR.IS [151] de 04.07.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-1989-619713
+  date: '1989-07-04'
+- type: cites
+  target: pt:dre:405760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283098:por
+  label: "Revogado o n.º 4 do artigo 1.º pelo DRR.8/88/A.05.02.1988.GR-RAA, DR.IS [30] de 05.02.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1988-283098
+  date: '1988-02-05'
+- type: repealed_by
+  target: pt:dre:203459:por
+  label: "Revogado pelo DRR.17/97/A.1997.07.21.PG-RAA DR.IS-B [184] DE 11/AGO/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1997-203459
+  date: '1997-07-21'
 article_structure:
   article_count: 13
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:20Z'
   warnings: []
   errors: []
 ---
@@ -255,10 +293,10 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de Setembro de 1984.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 9 de Novembro de 1984.**
+Assinado em Angra do Heroísmo em 9 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

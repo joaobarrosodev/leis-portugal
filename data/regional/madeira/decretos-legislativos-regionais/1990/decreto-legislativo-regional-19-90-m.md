@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-1990-572653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2415f5e20db44b1ec176ee4ced0286cdb62709c049a7795686f538cd43b124f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 53a4a5f5768865c8cad994b58fced43ec73e6ac238f764192f034bf863a76301
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Plano de Urbanização
+- Plano Director Municipal
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:27Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +104,9 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A aplicação à Região Autónoma da Madeira do disposto no [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, é feita com as adaptações constantes do presente diploma.
+Artigo 1.º A aplicação à Região Autónoma da Madeira do disposto no [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, é feita com as adaptações constantes do presente diploma.
 
-###### Art. 2.º - 1 - A competência do Governo, pelo Ministro do Planeamento e da Administração do Territóri, conferida pelo n.º 3 do artigo 3.º e pelo n.º 5 do artigo 19.º do citado diploma, cabe ao Conselho do Governo Regional, sob proposta do Vice-Presidente do Governo.
+Art. 2.º - 1 - A competência do Governo, pelo Ministro do Planeamento e da Administração do Territóri, conferida pelo n.º 3 do artigo 3.º e pelo n.º 5 do artigo 19.º do citado diploma, cabe ao Conselho do Governo Regional, sob proposta do Vice-Presidente do Governo.
 
 2 - A proposta referida no número anterior é precedida de parecer dos Secretários Regionais do Equipamento Social, da Economia e do Turismo, Cultura e Emigração, a que se reporta o n.º 4 do artigo 3.º do mencionado diploma.
 
@@ -123,22 +132,22 @@ A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na a
 
 13 - As competências atribuídas aos presidentes das comissões de coordenação regional pelo n.º 8 do artigo 25.º do diploma mencionado cabem ao director regional de Planeamento.
 
-###### Art. 3.º A planta actualizada de condicionantes a que se refere o n.º 6 do artigo 10.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, assinalará todas as áreas submetidas a qualquer regime de condicionamento, bem como servidões administrativas e restrições de utilidade pública.
+Art. 3.º A planta actualizada de condicionantes a que se refere o n.º 6 do artigo 10.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, assinalará todas as áreas submetidas a qualquer regime de condicionamento, bem como servidões administrativas e restrições de utilidade pública.
 
-###### Art. 4.º A publicação do aviso relativo à abertura de inquérito público, nos termos do n.º 3 do artigo 14.º, é feita em dois dos jornais mais lidos no concelho, um dos quais de âmbito regional, e através de editais nos locais de estilo.
+Art. 4.º A publicação do aviso relativo à abertura de inquérito público, nos termos do n.º 3 do artigo 14.º, é feita em dois dos jornais mais lidos no concelho, um dos quais de âmbito regional, e através de editais nos locais de estilo.
 
-###### Art. 5.º A ratificação destina-se a verificar, para além do disposto nas alíneas b) e c) do n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, a conformidade do plano municipal aprovado com as disposições legais e regulamentares vigentes no âmbito da Região, nomeadamente as que definem áreas de protecção e condicionamentos.
+Art. 5.º A ratificação destina-se a verificar, para além do disposto nas alíneas b) e c) do n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, a conformidade do plano municipal aprovado com as disposições legais e regulamentares vigentes no âmbito da Região, nomeadamente as que definem áreas de protecção e condicionamentos.
 
-###### Art. 6.º A suspensão das disposições de um plano municipal na situação prevista na alínea a) do n.º 1 do artigo 21.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, efectuar-se-á mediante decreto regulamentar regional.
+Art. 6.º A suspensão das disposições de um plano municipal na situação prevista na alínea a) do n.º 1 do artigo 21.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, efectuar-se-á mediante decreto regulamentar regional.
 
-###### Art. 7.º O produto das coimas reverte para o município por que tiver corrido o processo de contra-ordenação ou para a Região, no caso de o processo ter corrido pela Direcção Regional de Planeamento.
+Art. 7.º O produto das coimas reverte para o município por que tiver corrido o processo de contra-ordenação ou para a Região, no caso de o processo ter corrido pela Direcção Regional de Planeamento.
 
-###### Art. 8.º O presente diploma entra imediatamente em vigor.
+Art. 8.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária de 15 de Junho de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 5 de Julho de 1990.**
+Assinado em 5 de Julho de 1990.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

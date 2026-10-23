@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/037b00/11461151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2002/02/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2002-285487
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5f8a0643923160ef0b87277c4db1f36e17be57f32a7f1307eb20a0f086d88a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 439b8f7a63c209a5f79a45507a96636bd3f3ce4b92efdc6b50239ee30831786b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Instituto de Gestão de Regimes de Segurança Social
 - Orgânica
 - Quadro de Pessoal
-- Instituto de Gestão de Regimes de Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:276846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 2/98/A de 20-Fev, com a redacção constante do presente diploma, pelo\
+    \ DRR.23/2003/A.2003.06.17.PG-RAA DR.IS-B [157] de 10/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '2003-06-17'
+- type: amended_by
+  target: pt:dre:667688:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 9/91/A de 07-Mar, com as alterações introduzidas pelo presente diploma,\
+    \ pelo DRR.23/2003/A.17.06.2003.PG-RAA, DR.IS-B [157] de 10.07.2003 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2003-667688
+  date: '2003-06-17'
+- type: amended_by
+  target: pt:dre:517233:por
+  label: "Alterados os arts. 25º, al. c) do art. 31º, 33º, nº 3 do art. 36º, 38º, 45º, 46º, al. c) do art. 49º, 51º, nº 3\
+    \ do art. 53º, 55º, 63º, nº 2 do art. 65º, 67º, nº 2 do art. 68º, al. c) do art. 69º, 70º, 71º, nº 3 do art. 74º, 76º,\
+    \ 100º e 102º e substituído o quadro do pessoal aprovado pelo DRR 9/91/A de 07-Mar - com a redacção do presente diploma\
+    \ - pelo DRR.26/2004/A.08.06.2004.SRAS-RAA, DR.IS-B [158] de 07.07.2004, que procede a nova republicação daquele diploma\
+    \ com todas as alterações\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2004-517233
+  date: '2004-06-08'
 - type: cites
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: repealed_by
+  target: pt:dre:276846:por
+  label: "Revogado, a partir de 01.06.2011, o DRR 9/91/A de 07-Mar, alterado pelo presente diploma, pelo DRR.8/2011/A.12.04.2011.PG-RAA,\
+    \ DR.IS [72] de 12.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2011-276846
+  date: '2011-04-12'
 article_structure:
-  article_count: 15
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:38Z'
   warnings: []
   errors: []
 ---
@@ -115,25 +142,35 @@ Ingresso e acesso em geral
 
 As condições de ingresso e acesso dos funcionários do IGRSS são as estabelecidas nos Decretos-Leis n.os 248/85, de 15 de Junho, 265/88, de 28 de Julho, e 404-A/98, de 18 de Dezembro, e as previstas no presente diploma e na legislação regional e geral complementar.
 
-###### Artigo 93.º — Pessoal dirigente
+Artigo 93.º
+
+Pessoal dirigente
 
 1 - O pessoal dirigente é provido de acordo com o disposto no estatuto do pessoal dirigente, na respectiva legislação complementar e no presente diploma.
 
 2 - ...
 
-###### Artigo 94.º — Pessoal de informática
+Artigo 94.º
+
+Pessoal de informática
 
 As condições e regras de ingresso e acesso do pessoal de informática são as definidas no respectivo regime jurídico.
 
-###### Artigo 96.º — Educador de infância
+Artigo 96.º
+
+Educador de infância
 
 Os educadores de infância são recrutados e providos nos termos da lei geral, aplicando-se às respectivas carreiras, com as necessárias adaptações, as regras constantes do regime jurídico do pessoal docente.
 
-###### Artigo 97.º — Técnico profissional de biblioteca e documentação
+Artigo 97.º
+
+Técnico profissional de biblioteca e documentação
 
 As condições e regras de ingresso e acesso na carreira de técnico profissional de biblioteca e documentação são as definidas no respectivo regime jurídico.
 
-###### Artigo 98.º — Assistente de acção educativa
+Artigo 98.º
+
+Assistente de acção educativa
 
 1 - O ingresso e acesso na carreira de assistente de acção educativa faz-se de acordo com o disposto na lei geral.
 
@@ -141,7 +178,9 @@ As condições e regras de ingresso e acesso na carreira de técnico profissiona
 
 3 - Sempre que o número de lugares da carreira de ajudante de creche e jardim-de-infância reduza em uma unidade relativamente ao número de lugares previstos na carreira de assistente de acção educativa, poderá proceder-se ao provimento de igual número nesta carreira.
 
-###### Artigo 100.º — Técnico profissional de segurança social
+Artigo 100.º
+
+Técnico profissional de segurança social
 
 1 - A carreira de técnico profissional de segurança social integra as categorias de 2.ª classe, 1.ª classe, principal, especialista, especialista principal e coordenador, a que corresponde a escala salarial para o grupo de pessoal técnico-profissional.
 
@@ -177,7 +216,9 @@ Coordenadores gerais
 
 5 - Os coordenadores-gerais são remunerados pelo índice 560 da escala indiciária do regime geral.
 
-###### Artigo 100.º-A — Técnico profissional de microfilmagem
+Artigo 100.º-A
+
+Técnico profissional de microfilmagem
 
 1 - O ingresso na carreira é condicionado às habilitações previstas na alínea d) do artigo 6.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, ou à posse do 12.º ano de escolaridade, estando neste caso sujeito à frequência de estágio probatório nos termos de regulamento a aprovar pelos Secretários Regionais Adjunto da Presidência e dos Assuntos Sociais.
 
@@ -225,12 +266,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de Dezembro de 2001.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 21 de Janeiro de 2002.**
+Assinado em Angra do Heroísmo em 21 de Janeiro de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/037b00/11461151.pdf)

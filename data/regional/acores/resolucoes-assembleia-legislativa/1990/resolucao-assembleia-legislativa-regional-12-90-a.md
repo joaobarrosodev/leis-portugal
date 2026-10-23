@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 282/1990, 2º Suplemento, Série I de 1990-12-07
   number: '282'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5020-(23) a 5020-(50)
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf
 entry_into_force_dates: []
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/12-1990-580079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b4a1a35daa1da1a0ed72f2fabc32d874f18ff9baaf09fa467420de40a9c48e41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2869a12b46cf2b277270025bc464bcd5f5593c7bc2f2e11d3fe1c7e0afc3d19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Planeamento Regional
+- Plano Regional
 relationships:
 - type: amended_by
   target: pt:dre:150908:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:150908:por
+  label: Alterados os programas do Plano Regional para 1991 pelo(a) Resolução da Assembleia Legislativa Regional n.º 1/92/A
+    - Diário da República n.º 25/1992, Série I-B de 1992-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regional/1-1992-150908
+  date: '1992-01-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:44Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +129,7 @@ Dar conta à Assembleia Legislativa Regional das diligências feitas quanto a es
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 30 de Novembro de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
 Introdução
 
@@ -162,7 +171,7 @@ Diferencial médio da taxa de inflação face à média europeia, 1987-1991 (eix
 
 Variação acumulada das balanças correntes em percentagem do PIB. 1987-1991 (eixo horizontal)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 Para o ano em curso prevêem-se crescimentos reais do produto de 3%, do investimento de cerca de 5% e das exportações de mais de 6%. Quanto ao emprego deve aumentar 1%, o que corresponde a cerca de 1,5 milhões de postos de trabalho e fará com que a taxa de desemprego se situe abaixo de 9%. Graças às medidas tomadas pelas autoridades monetárias de diversos países e à evolução dos preços das importações a inflação média deverá situar-se em cerca de 4,5% em 1990, contra 4,7% em 1989, mas aquela média resulta de taxas nacionais muito diversificadas. A convergência nesta área é indispensável, sob pena de se acentuar a diferenciação das taxas de juro e de ser afectada a estabilidade cambial, com reflexos negativos no investimento e no crescimento produtivo. As políticas orçamentais de alguns Estados membros têm conduzido à persistência de níveis elevados de inflação e a desequilíbrios da balança de pagamentos, requerendo um reforço de coordenação em ordem à união económica e monetária.
 
@@ -200,7 +209,7 @@ A evolução dos três grandes indicadores de ordem geral antes mencionados teve
 
 Actividade económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 3 - Objectivos de desenvolvimento
 
@@ -256,7 +265,7 @@ A dotação do presente Plano, num total de 32785000 contos, reparte-se pelos se
 
 Esta repartição por grandes grupos de sectores é próxima do previsto no plano de médio prazo para o ano de 1991.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 4.1 - Sectores sociais
 
@@ -276,7 +285,7 @@ Habitação e urbanismo - 2570000 contos;
 
 Ambiente - 170000 contos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 Educação e desporto
 
@@ -300,7 +309,7 @@ Apoiar as variadas componentes da acção social escolar;
 
 Incrementar a actividade desportiva e promover a construção das instalações necessárias à sua prática.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 1
 
@@ -354,7 +363,7 @@ Realce ainda para as alterações introduzidas pelo licenciamento de mais de uma
 
 No âmbito do serviço público de televisão e radiodifusão mantém-se a preocupação de, em termos complementares à responsabilidade que neste domínio é cometida às empresas públicas RDP e RTP, contribuir para a universalização no espaço regional do acesso àqueles meios de comunicação áudio-visual.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 4
 
@@ -404,7 +413,7 @@ Linhas de actuação. - O objectivo genérico de prosseguir a organização grad
 
 No quadro das actividades a empreender inscreve-se também a informatização dos serviços.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 7
 
@@ -456,7 +465,7 @@ Segurança Social
 
 Linhas de actuação. - Conclusão de várias obras em curso para a infância, juventude e idosos, de modo a permitir a satisfação do bem comum, é um dos objectivos deste sector. Por isso é importante continuar a política de construção de infra-estruturas, pois através delas poderão ser minoradas as carências que ainda subsistem ao nível dos vários grupos etários.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 11
 
@@ -484,7 +493,7 @@ A política de juventude consubstanciará como pressupostos básicos a coordena�
 
 Esta política passa necessariamente pelo envolvimento activo dos próprios jovens, pelo que serão mantidos os mecanismos indispensáveis à participação desses mesmos jovens no processo de transformação que continuamente ocorre.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 14
 
@@ -580,7 +589,7 @@ Assim, desenvolver-se-ão estudos que permitirão, numa segunda fase, intervir n
 
 Pretende-se, ainda, agir sobre os efeitos negativos, ao nível do ecossistema, provocados pela eutrofização das lagoas e da poluição das ribeiras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 17
 
@@ -630,7 +639,7 @@ Linhas de actuação. - A política de ambiente é actualmente uma componente es
 
 As acções relativas ao ambiente devem nortear-se pela obrigatoriedade de uma acção preventiva, pela prioridade de correcção na fonte dos danos ambientais e pelo princípio do poluidor pagador.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 21
 
@@ -680,7 +689,7 @@ Transportes e comunicações - 8770000 contos;
 
 Comércio - 400000 contos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 Agricultura, pecuária e silvicultura
 
@@ -690,7 +699,7 @@ Inicia-se a segunda etapa da adesão no sector que se irá prolongar até 1995.
 
 A programação incide sobre o desenvolvimento agrícola, os recursos florestais e a transformação e comercialização dos produtos agrícolas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 22
 
@@ -766,7 +775,7 @@ Linhas de actuação. - O aproveitamento das potencialidades de crescimento dest
 
 O lançamento a concurso da execução dos portos de pesca da Terceira e de São Miguel prevê-se que ocorra na vigência deste Plano, permitindo, assim, dotar a Região de infra-estruturas físicas capazes de responder positivamente a uma área de actividade económica fundamental para o seu desenvolvimento.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 25
 
@@ -800,7 +809,7 @@ Linhas de actuação. - Considera-se que o sector da indústria transformadora, 
 
 A política a prosseguir assentará no princípio de que a iniciativa privada é o motor de desenvolvimento, cabendo aos poderes públicos o papel de incentivador e de enquadramento favorável à sua dinamização, eliminando estrangulamentos e atenuando insuficiências. Procurar-se-á fomentar o investimento industrial e valorizar os recursos humanos e naturais. A modernização e desenvolvimento do tecido industrial, através da melhoria da produtividade e qualidade dos produtos, será outro dos eixos fundamentais da política sectorial. Paralelamente, serão desenvolvidas acções conducentes ao aparecimento de novas actividades e produções, potenciando sinergeticamente a actual estrutura produtiva e visando complementarmente a sua diversificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 26
 
@@ -858,7 +867,7 @@ Em consequência, a programação para 1991 orienta-se no sentido do crescimento
 
 O desenvolvimento esperado obedece a pressupostos de protecção e valorização do património natural e construído, assim como a difusão do produto turístico segundo critérios de avaliação das formas e seus segmentos qualitativamente mais interessantes perante a oferta existente e potencial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 29
 
@@ -902,7 +911,7 @@ A informação, a jusante e a montante da actuação governamental.
 
 Para o efeito, o Governo privilegia a utilização dos seguintes instrumentos: incentivos financeiros; sistema de preços; regulamentação e normalização, e EDA, E. P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 31
 
@@ -950,7 +959,7 @@ Para o transporte aéreo serão desenvolvidas acções de beneficiação na rede
 
 No que concerne às comunicações, continuarão a ser apoiadas acções no domínio dos serviços avançados de telecomunicações, através do sistema de incentivos com comparticipação comunitária.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 32
 
@@ -1020,7 +1029,7 @@ Comércio
 
 Linhas de actuação. - O apoio à actividade comercial tem-se traduzido na construção de infra-estruturas e em apoios financeiros visando a modernização do sector. O apoio a novos projectos no âmbito da modernização no quadro do Sistema de Incentivos de Modernização do Comércio - SIMC, a aprovar brevemente, permitirá o desenvolvimento e modernização do sector.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 38
 
@@ -1042,7 +1051,7 @@ Cooperação com a administração local - 1034000 contos;
 
 Protecção civil - 271000 contos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 Administração regional
 
@@ -1056,7 +1065,7 @@ Tornar a Administração mais transparente, por forma a que os abusos que ocorra
 
 Promover estudos e formação especializada em áreas ligadas à produção estatística, ao planeamento e ao acompanhamento da execução de programas e projectos públicos, com destaque para os apoiados pela Comunidade Económica Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 39
 
@@ -1118,7 +1127,7 @@ Por outro lado, a partir de 1991, prevê-se o alargamento da cooperação financ
 
 No que respeita à cooperação financeira com as freguesias, prosseguir-se-á a política seguida em anos anteriores de apoiar a aquisição de mobiliário e equipamento de modo a reforçar a capacidade operativa destes órgãos do poder local.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 42
 
@@ -1136,7 +1145,7 @@ Linhas de actuação. - Constitui objectivo principal organizar e responsabiliza
 
 Simultaneamente, mantém-se o objectivo de completar a cobertura da Região com uma estrutura de apoio ao Serviço Regional de Protecção Civil, através da criação e instalação de pelo menos uma corporação de bombeiros por ilha, por forma que por cada 20000 habitantes ou num raio de actuação de 15 km exista um quartel de bombeiros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 PROGRAMA N.º 43
 
@@ -1150,7 +1159,7 @@ Dotação - 271000 contos.
 
 5 - Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 6 - Recursos financeiros
 
@@ -1168,7 +1177,7 @@ Tendo em conta o exposto, a execução do Plano e do orçamento corrente para o 
 
 O quadro a seguir reproduzido dá conta da estrutura, a preços correntes, da receita e da despesa para o ano económico de 1991.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 7 - Fundos estruturais comunitários
 
@@ -1328,7 +1337,7 @@ O montante dos investimentos totais desagregados por empresa e por espaço geogr
 
 Investimento desagregado para 1991
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 2 - Serviços e fundos autónomos
 
@@ -1438,16 +1447,16 @@ Assim, estão programados os seguintes investimentos:
 
 1.1 - Actividades a nível de cada ilha (local):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 1.2 - Actividades a nível regional (inter-ilhas):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 1.3 - Actividades a nível insular (jogos do Atlântico):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
 
 1.4 - Actividades a nível nacional:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf))](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/28202/00230050.pdf)

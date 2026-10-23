@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 2/2003, 1º Suplemento, Série I-A de 2003-01-03
   number: '2'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 16-(2) a 16-(80)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/002a01/00020080.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1-a/2003/01/03/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2003-394489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c6fef25dcbf6c3a1844d45a7d6bbf7778eb87b89d53ec6b15e674c8c6d01d40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd4ce711ac79361accbd881315f70dad1c8e49e730c5b5ff8c452e2628e68d6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,90 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orçamento Regional
 - Madeira.região Autónoma
+- Orçamento Regional
 relationships:
 - type: amended_by
   target: pt:dre:74985443:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604588:por
+  label: "Alterado o art. 2.º do DLR 3/2001/M, de 22-Fev, na redacção dada pelo presente diploma, pelo DLR.1/2005/M.31.01.2005.ALR-RAM,\
+    \ DR.IS-A [35] de 18.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2005-604588
+  date: '2005-01-31'
+- type: amended_by
+  target: pt:dre:262120:por
+  label: "Alterado o art. 2º do DLR 3/2001/M de 22-Fev , com a redacção conferida no presente diploma, pelo DLR.3/2007/M.20.12.2006.AL-RAM,\
+    \ DR.IS [6] de 09.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2007-262120
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:398790:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DLR.2-A/2008/M.16.01.2008.AL-RAM,\
+    \ DR.IS [11-Supl] de 16.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-a-2008-398790
+  date: '2008-01-16'
+- type: amended_by
+  target: pt:dre:444240:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DLR.45/2008/M.31.12.2008.AL-RAM,\
+    \ DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/45-2008-444240
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:332705:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DRR.2/2010/M.26.05.2010.PG-RAM,\
+    \ DR.IS [102] de 26.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2010-332705
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:333363:por
+  label: "Alterado o art. 2º do DLR 3/2001/M de 22-Fev, com a redacção constante do presente diploma, pelo DLR 14/2010/M.05.08.2010.AL-RAM,\
+    \ DR.IS [151] de 05.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2010-333363
+  date: '2010-08-05'
+- type: amended_by
+  target: pt:dre:485631:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DLR.2/2011/M.10.01.2011.AL-RAM,\
+    \ DR.IS [6] de 10.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2011-485631
+  date: '2011-01-10'
+- type: amended_by
+  target: pt:dre:145060:por
+  label: "Alterado o art. 2º do DLR 3/2001/M, de 22-Fev, na redacção do presente diploma, pelo DLR.20/2011/M.26.12.2011.AL-RAM,\
+    \ DR.IS [246] de 26.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2011-145060
+  date: '2011-12-26'
+- type: amended_by
+  target: pt:dre:189511:por
+  label: "Alterado os art. 2º do DLR 3/2001/M, de 22-fev, na redação do presente diploma, pelo DLR.42/2012/M.31.12.2012.AL-RAM,\
+    \ DR.IS [252] de 31.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-2012-189511
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164412:por
+  label: "Mantidas em vigor na RAM as taxas de imposto sobre o rendimento das pessoas singulares estabelecidas no art. 2º\
+    \ do DLR 3/2001/M, de 22-fev, na redação do presente diploma, pelo DLR.31-A/2013/M.31.12.2013.AL-RAM, DR.IS [253-2.º supl]\
+    \ de 31.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/31-a-2013-164412
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Alterado o art 2.º (na redação do presente diploma e dos DLR 29-A/2001/M de 14-dez, 30-A/2003/M de 31-dez, 1/2005/M
+    de 18-fev, 21-A/2005/M de 30-dez, 3/2007/M de 09-jan, 2-A/2008/M de 16-jan, 45/2008/M de 31-dez e 34/2009/M de 31-dez,
+    do DRR 2/2010/M de 26-mai, dos DLR 20/2011/M de 26-dez,14/2010/M de 05-ago, 2/2011/M de 10-jan, 42/2012/M de 31-dez e
+    prorrogado pelo art 17.º do DLR 31-A/2013-M de 31-dez e pelo art 17.º do DLR 18/2014/M de 31-dez), do DLR 3/2001/M de
+    22-fev, pelo(a) Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
+- type: amended_by
+  target: pt:dre:74985443:por
+  label: Alterado o art. 2.º do DLR 3/2001/M de 22-fev, na redação do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 33/2016/M - Diário da República n.º 138/2016, Série I de 2016-07-20 que republica a parte dispositiva do primeiro
+    diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/33-2016-74985443
+  date: '2016-07-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/71/1995/04/15/p/dre
   label: null
@@ -112,16 +189,69 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: pt:dre:157622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592760:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:162463:por
+  label: "Rectificado pela DECL-RECT.1-Q/2003.2003.02.28.PCM, DR.IS-A [50]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/1-q-2003-162463
+  date: '2003-02-28'
 article_structure:
   article_count: 42
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:11Z'
   warnings: []
   errors: []
 ---
@@ -462,10 +592,10 @@ O presente diploma entra em vigor em 1 de Janeiro de 2003.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 20 de Dezembro de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 3 de Janeiro de 2003.**
+Assinado em 3 de Janeiro de 2003.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 [(ver mapas no documento original)](https://files.diariodarepublica.pt/1s/2003/01/002a01/00020080.pdf)

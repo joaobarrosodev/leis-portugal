@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2012/01/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2012-544389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8af529786c1881b6af30d37cae755f4ee866448c2d79970e9243cf3d6986504c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1eac985e26e286678bd1a7164240e487343b233b1ab9c5168f3af0905969ee3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
-- Equipamento de Elevação
-- Contrato de Seguro
-- Empresa
+- Autarquia Local
 - Certificado de Conformidade
-- Multa
-- Obras Particulares
-- Obras de Conservação e Restauro
 - Contrato
+- Contrato de Seguro
 - Controlo de Qualidade
-- Sistema de Certificação Energética
+- Elevador
+- Empresa
+- Equipamento de Elevação
 - Equipamento Eléctrico
 - Equipamento Eletrónico
 - Especificação Técnica
 - Fiscalização
-- Licenciamento
-- Normas de Construção
 - Informação do Consumidor
+- Licenciamento
+- Multa
+- Normas de Construção
+- Obras de Conservação e Restauro
+- Obras Particulares
 - Receita Própria
 - Regime Jurídico
 - Responsabilidade Civil
@@ -91,11 +93,9 @@ subjects:
 - Sanção
 - Segurança das Instalações
 - Segurança dos Edifícios
-- Açores
-- Elevador
+- Sistema de Certificação Energética
 - Taxa
 - Transporte de Passageiros
-- Autarquia Local
 - Vistoria
 relationships:
 - type: cites
@@ -113,13 +113,13 @@ relationships:
 article_structure:
   article_count: 38
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:38Z'
   warnings: []
   errors: []
 ---
@@ -660,11 +660,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de dezembro de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 30 de dezembro de 2011.**
+Assinado em Angra do Heroísmo em 30 de dezembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

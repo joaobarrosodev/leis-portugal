@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2013/08/14800/0455704573.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2013/08/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2013-498533
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fae24c979f168ba6180de6f07eca2d7195ca82d850e79160484b64414effe59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ca350f20fdfcce2a6ee808610f44b9fc60e9881ee59d779e1ac79786c1b60b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Definição de Competências
 - Delegado
-- Direcção Regional da Habitação
 - Direção Regional da Solidariedade Social
+- Direcção Regional da Habitação
 - Integração de Trabalhadores
+- Observatório Sócio-Habitacional dos Açores
 - Orgânica
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Secretaria Regional da Solidariedade Social
-- Observatório Sócio-Habitacional dos Açores
 - Secretário Regional
 - Serviços Periféricos
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:128597456:por
@@ -125,16 +125,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/24/2012/11/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/24/2012/11/27/a/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629171:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:128597456:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 4/2020/A - Diário da República n.º 21/2020, Série I de 2020-01-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2020-128597456
+  date: '2020-01-30'
 article_structure:
   article_count: 54
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 35
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:06Z'
   warnings: []
   errors: []
 ---
@@ -195,11 +244,11 @@ O presente diploma entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 21 de maio de 2013.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 16 de julho de 2013.**
+Assinado em Angra do Heroísmo em 16 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -275,9 +324,13 @@ Os órgãos, serviços, organismos e demais entidades da SRSS devem funcionar em
 
 ### CAPÍTULO III — Serviços centrais
 
-#### SECÇÃO I — Divisão de Gestão de Recursos
+#### SECÇÃO I
 
-###### Artigo 9.º — Divisão de Gestão de Recursos
+##### Divisão de Gestão de Recursos
+
+###### Artigo 9.º
+
+##### Divisão de Gestão de Recursos
 
 1 - A Divisão de Gestão de Recursos, designada abreviadamente por DGR, é um serviço que tem por missão apoiar os órgãos e serviços centrais da SRSS nos domínios da gestão dos recursos humanos, financeiros e patrimoniais e ainda assegurar a execução dos serviços de caráter administrativo.
 
@@ -331,7 +384,9 @@ t) Coordenar e dirigir as secções que integram a Divisão.
 
 6 - Para além das funções gerais de coordenação do funcionamento da divisão, compete ao chefe de divisão certificar os atos que integram processos existentes na DGR e exercer as funções notariais previstas na lei.
 
-###### Artigo 10.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 10.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 Compete à Secção de Pessoal, Expediente e Arquivo, designada abreviadamente por SPEA, nomeadamente:
 
@@ -353,7 +408,9 @@ h) Coordenar o trabalho do pessoal que lhe é afeto;
 
 i) Assegurar a abertura e encerramento das instalações.
 
-###### Artigo 11.º — Secção de Contabilidade
+###### Artigo 11.º
+
+#### Secção de Contabilidade
 
 Compete à Secção de Contabilidade, designada abreviadamente por SC, designadamente:
 
@@ -381,7 +438,9 @@ k) Emitir certidões;
 
 l) Coordenar o trabalho do pessoal que lhe é afeto.
 
-###### Artigo 12.º — Secção de Informática e Telecomunicações
+###### Artigo 12.º
+
+#### Secção de Informática e Telecomunicações
 
 Compete à Secção de Informática e Telecomunicações, designada abreviadamente por SIT, designadamente:
 
@@ -609,7 +668,9 @@ o) Executar as ações e tarefas que superiormente lhe forem determinadas.
 
 3 - Para o exercício das suas funções, a DSPGS dispõe da Divisão de Incentivos, Apoios e Regulamentação.
 
-###### Artigo 18.º — Divisão de Incentivos, Apoios e Regulamentação
+###### Artigo 18.º
+
+##### Divisão de Incentivos, Apoios e Regulamentação
 
 1 - Compete à Divisão Incentivos, Apoios e Regulamentação, abreviadamente designada por DIAR:
 
@@ -757,7 +818,9 @@ l) Desempenhar outras tarefas e atividades superiormente determinadas.
 
 3 - Para o exercício das suas funções, a DSPGP dispõe da Divisão de Projetos e Infraestruturas.
 
-###### Artigo 23.º — Divisão de Projetos e Infraestruturas
+###### Artigo 23.º
+
+##### Divisão de Projetos e Infraestruturas
 
 1 - Compete à Divisão de Projetos e Infraestruturas, abreviadamente designada por DPI:
 
@@ -859,9 +922,13 @@ g) Apoiar tecnicamente a SRSS e os serviços da DRH em matéria de metodologia e
 
 3 - O OSHA é coordenado pelo funcionário designado para o efeito através de despacho do diretor regional da Habitação, sendo-lhe aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de março, [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, e [34/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2010-306589), de 29 de dezembro.
 
-##### DIVISÃO IV — Divisão de Gestão Financeira e Recursos Humanos
+##### DIVISÃO IV
 
-###### Artigo 27.º — Divisão de Gestão Financeira e Recursos Humanos
+##### Divisão de Gestão Financeira e Recursos Humanos
+
+###### Artigo 27.º
+
+##### Divisão de Gestão Financeira e Recursos Humanos
 
 1 - Compete à Divisão de Gestão Financeira e Recursos Humanos, abreviadamente designada por DGFRH, apoiar o diretor regional nos domínios dos recursos humanos, financeiros, patrimoniais e de documentação e ainda assegurar a execução dos serviços de caráter administrativo da DRH, designadamente:
 
@@ -921,7 +988,9 @@ e) Proceder ao controlo de assiduidade e pontualidade e zelar pelo cumprimento d
 
 f) Desempenhar outras tarefas e atividades superiormente determinadas.
 
-###### Artigo 29.º — Secção de Expediente e Arquivo
+###### Artigo 29.º
+
+#### Secção de Expediente e Arquivo
 
 Compete à Secção de Expediente e Arquivo, abreviadamente designada por SEA:
 
@@ -1185,7 +1254,9 @@ d) Núcleo de Organização e Documentação.
 
 3 - A DSPGO é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 38.º — Divisão de Assuntos Jurídicos e Auditoria
+###### Artigo 38.º
+
+##### Divisão de Assuntos Jurídicos e Auditoria
 
 1 - Compete à Divisão de Assuntos Jurídicos e Auditoria, abreviadamente designada por DAJA, designadamente:
 
@@ -1225,7 +1296,9 @@ q) Desempenhar outras tarefas e atividades superiormente determinadas.
 
 2 - A DAJA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 39.º — Divisão de Projetos e Equipamentos
+###### Artigo 39.º
+
+##### Divisão de Projetos e Equipamentos
 
 1 - Compete à Divisão de Projetos e Equipamentos, abreviadamente designada por DPE, designadamente:
 
@@ -1323,9 +1396,13 @@ p) Desempenhar outras tarefas e atividades superiormente determinadas.
 
 2 - O NOD é coordenado pelo funcionário designado para o efeito através de despacho do diretor regional da Solidariedade Social, sendo-lhe aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de março, [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de outubro, e [34/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2010-306589), de 29 de dezembro.
 
-##### DIVISÃO II — Divisão de Promoção Social e Igualdade de Oportunidades
+##### DIVISÃO II
 
-###### Artigo 42.º — Divisão de Promoção Social e Igualdade de Oportunidades
+##### Divisão de Promoção Social e Igualdade de Oportunidades
+
+###### Artigo 42.º
+
+##### Divisão de Promoção Social e Igualdade de Oportunidades
 
 1 - Compete à Divisão de Promoção Social e Igualdade de Oportunidades, abreviadamente designada por DPSIO, designadamente:
 
@@ -1509,4 +1586,4 @@ k) Desempenhar outras tarefas ou atividades superiormente determinadas.
 
 ## ANEXO II — Quadro de pessoal dirigente, de direção específica e de chefia da Secretaria Regional da Solidariedade Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/14800/0455704573.pdf))](https://files.diariodarepublica.pt/1s/2013/08/14800/0455704573.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/14800/0455704573.pdf)

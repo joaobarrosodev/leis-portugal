@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/04/07300/0002700090.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/12/2025/04/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2025-914891327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04f9507ad5f1764e95ffce0a525214a4728c83788308b5d99908787cb7eb1a2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89a4c0d988ab902c86b162c9cb49bba4ce090a8371d08db4f5aa2d34dc383b52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- CAE
-- Desenvolvimento Regional
-- Regulamentação de Atos Legislativos
-- Apoio ao Investimento
-- Investimento
-- Desenvolvimento Económico
-- Pequenas e Médias Empresas
-- Sistema de Incentivos da Região Autónoma dos Açores
 - Açores
+- Apoio ao Investimento
+- CAE
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Financiamento
+- Investimento
+- Pequenas e Médias Empresas
+- Regulamentação de Atos Legislativos
+- Sistema de Incentivos da Região Autónoma dos Açores
 - Sistema de Incentivos Regionais
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:19/2023/A
+  label: Altera, a partir de 15 de abril de 2025, nos termos do artigo 8.º do presente diploma, os artigo 1.º, 7.º e 12.º
+    e o anexo i do Decreto Regulamentar Regional n.º 19/2023/A, de 1 de agosto, Diário da República n.º 148/2023, Série I,
+    que é republicado
+  source: null
+  date: '2023-08-01'
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:20/2023/A
+  label: Altera, a partir de 15 de abril de 2025, nos termos do artigo 8.º do presente diploma, os artigos 1.º, 2.º, 5.º,
+    7.º e 12.º e o anexo i do Decreto Regulamentar Regional n.º 20/2023/A, de 1 de agosto, Diário da República n.º 148/2023,
+    Série I, que é republicado
+  source: null
+  date: '2023-08-01'
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:21/2023/A
+  label: Altera, a partir de 15 de abril de 2025, nos termos do artigo 8.º do presente diploma, os artigos 1.º, 8.º e 13.º
+    e o anexo i do Decreto Regulamentar Regional n.º 21/2023/A, de 1 de agosto, Diário da República n.º 148/2023, Série I,
+    que é republicado
+  source: null
+  date: '2023-08-01'
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:22/2023/A
+  label: Altera, a partir de 15 de abril de 2025, nos termos do artigo 8.º do presente diploma, os artigos 1.º, 8.º e 13.º
+    e o anexo i e revoga a subalínea iii) da alínea a) e as subalíneas iii) e iv) da alínea b) do n.º 3 do artigo 1.º do Decreto
+    Regulamentar Regional n.º 22/2023/A, de 1 de agosto, Diário da República n.º 148/2023, Série I, que é republicado
+  source: null
+  date: '2023-08-01'
 - type: cites
   target: celex:32014R0651
   label: null
@@ -126,23 +154,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66/2018/12/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66/2018/12/03/p/dre
+- type: cites
+  target: pt:dre:117202784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155732595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210543862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213761241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216512880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70179162:por
+  label: null
+  source: null
 article_structure:
-  article_count: 90
+  article_count: 80
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:07Z'
   warnings: []
   errors: []
 ---
 
 # Decreto Regulamentar Regional n.º 12/2025/A
 
-Primeira alteração aos Decretos Regulamentares Regionais n.<sup>os</sup>19/2023/A, de 1 de agosto, 20/2023/A, de 1 de agosto, 21/2023/A, de 1 de agosto, e 22/2023/A, de 1 de agosto
+Primeira alteração aos Decretos Regulamentares Regionais n.os19/2023/A, de 1 de agosto, 20/2023/A, de 1 de agosto, 21/2023/A, de 1 de agosto, e 22/2023/A, de 1 de agosto
 
 O [Decreto Legislativo Regional n.º 20/2023/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), de 31 de maio de 2023, que aprova o Sistema de Incentivos para a Dinamização do Investimento Sustentável e Integrado, adiante designado por Construir 2030, visa promover o desenvolvimento sustentável integrado da economia regional, constituindo um instrumento de política económica fundamental para superar fragilidades e constrangimentos estruturais, impulsionando dinâmicas positivas de competitividade e um ambiente estimulante da eficiência empresarial.
 
@@ -178,13 +254,17 @@ ii) ‘Inovação das Empresas’ que contempla a tipologia de operação ‘Cri
 
 iii) ‘Investimento de Base Territorial’ que contempla a tipologia de operação ‘Criação, Expansão ou Modernização de Micro e Pequenas Empresas (SI)’.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Os limites previstos em função do investimento elegível são definidos à data da aprovação da candidatura, mantendo-se o valor absoluto aprovado durante o período de execução do projeto.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -198,7 +278,9 @@ c) Iniciar a execução do projeto no prazo máximo de 90 dias úteis, a contar 
 
 3 - Sem prejuízo do prazo previsto na alínea c) do n.º 1, a pedido do beneficiário, e, em casos devidamente justificados, pode a autoridade de gestão aceitar a prorrogação do mesmo.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - [...]
 
@@ -304,7 +386,9 @@ iii) ‘Investimento de Base Territorial’ que contempla a tipologia de operaç
 
 b) Tipologia de ação denominada de ‘Qualificação e internacionalização das Empresas’, que inclui a tipologia de intervenção ‘Qualificação e Internacionalização das Empresas - Qualificação’ que, por sua vez, contempla a tipologia de operação ‘Qualificação das Empresas (SI)’.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
@@ -318,7 +402,9 @@ b) Tipologia de ação denominada de ‘Qualificação e internacionalização d
 
 6 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 [...]
 
@@ -330,13 +416,17 @@ c) [...]
 
 d) Não serem uma empresa em dificuldade, de acordo com a definição prevista no ponto 18 do artigo 2.º do [Regulamento (EU) n.º 651/2014](http://data.europa.eu/eli/reg/2014/651/oj?locale=pt), da Comissão, de 16 de junho, na sua redação atual.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - (Anterior corpo do artigo.)
 
 2 - Os limites previstos em função do investimento elegível são definidos à data da aprovação da candidatura, mantendo-se o valor absoluto aprovado durante o período de execução do projeto.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -350,7 +440,9 @@ c) Iniciar a execução do projeto no prazo máximo de 90 dias úteis, a contar 
 
 3 - Sem prejuízo do prazo previsto na alínea c) do n.º 1, a pedido do beneficiário, e, em casos devidamente justificados, pode a autoridade de gestão aceitar a prorrogação do mesmo.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 [...]
 
@@ -438,7 +530,9 @@ iii) ‘Investimento de Base Territorial’ que contempla a tipologia de operaç
 
 b) Tipologia de ação denominada de ‘Qualificação e internacionalização das empresas’, que por sua vez contempla a tipologia de intervenção ‘Qualificação e Internacionalização das Empresas - Qualificação’, que por sua vez contempla a tipologia de operação ‘Qualificação das Empresas (SI)’.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -450,7 +544,9 @@ b) Tipologia de ação denominada de ‘Qualificação e internacionalização d
 
 5 - Os limites previstos em função do investimento elegível são definidos à data da aprovação da candidatura, mantendo-se o valor absoluto aprovado durante o período de execução do projeto.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -464,7 +560,9 @@ c) Iniciar a execução do projeto no prazo máximo de 90 dias úteis, a contar 
 
 3 - Sem prejuízo do prazo previsto na alínea c) do n.º 1, a pedido do beneficiário, e, em casos devidamente justificados, pode a autoridade de gestão aceitar a prorrogação do mesmo.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 [...]
 
@@ -572,7 +670,9 @@ iii) (Revogado.)
 
 iv) (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - [...]
 
@@ -588,7 +688,9 @@ iv) (Revogado.)
 
 7 - Os limites previstos em função do investimento elegível são definidos à data da aprovação da candidatura, mantendo-se o valor absoluto aprovado durante o período de execução do projeto.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]
 
@@ -602,7 +704,9 @@ c) Iniciar a execução do projeto no prazo máximo de 90 dias úteis, a contar 
 
 3 - Sem prejuízo do prazo previsto na alínea c) do n.º 1, a pedido do beneficiário, e, em casos devidamente justificados, pode a autoridade de gestão aceitar a prorrogação do mesmo.
 
-## ANEXO I — [...]
+ANEXO I
+
+[...]
 
 1 - [...]
 
@@ -672,7 +776,7 @@ São revogadas a subalínea iii) da alínea a) e as subalíneas iii) e iv) da al
 
 ###### Artigo 7.º — Republicação
 
-São republicados em anexo ao presente diploma, do qual fazem parte integrante, os Decretos Regulamentares Regionais n.<sup>os</sup>19/2023/A, de 1 de agosto, 20/2023/A, de 1 de agosto, 21/2023/A, de 1 de agosto, e 22/2023/A, de 1 de agosto, nas suas redações atuais, como anexo I, anexo II, anexo III e anexo IV ao presente diploma, respetivamente, que dele fazem parte integrante.
+São republicados em anexo ao presente diploma, do qual fazem parte integrante, os Decretos Regulamentares Regionais n.os19/2023/A, de 1 de agosto, 20/2023/A, de 1 de agosto, 21/2023/A, de 1 de agosto, e 22/2023/A, de 1 de agosto, nas suas redações atuais, como anexo I, anexo II, anexo III e anexo IV ao presente diploma, respetivamente, que dele fazem parte integrante.
 
 ###### Artigo 8.º — Disposição complementar
 
@@ -684,11 +788,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 6 de março de 2025.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 9 de abril de 2024.**
+Assinado em Angra do Heroísmo em 9 de abril de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1740,7 +1844,7 @@ b) Sejam localizados em áreas que revelem manifestamente falhas de mercado.
 
 5 - No âmbito da atividade de restauração e similares a que se refere a alínea d) do n.º 1, apenas são suscetíveis de apoio os projetos de instalação, modernização ou ampliação em edifícios já existentes.
 
-6 - São excecionados do âmbito de aplicação dos n.<sup>os</sup>3 a 5 os estabelecimentos comerciais inseridos em centros comerciais ou grandes superfícies.
+6 - São excecionados do âmbito de aplicação dos n.os3 a 5 os estabelecimentos comerciais inseridos em centros comerciais ou grandes superfícies.
 
 7 - A presente medida não abrange os projetos relacionados com a produção primária de produtos agrícolas enumerados no anexo i do Tratado sobre o Funcionamento da União Europeia.
 
@@ -2937,3 +3041,5 @@ b) Variação do VAB = VAB calculado no ano cruzeiro do projeto - VAB no ano ant
 c) Ano pré-projeto corresponde ao ano anterior à candidatura. No caso de projetos promovidos por beneficiários que não tenham contabilidade organizada no ano anterior ao da candidatura, são utilizadas as contas das demonstrações de abertura de contas com contabilidade organizada;
 
 d) Ano cruzeiro = ano normal de laboração referenciado pelo beneficiário, que não pode exceder o segundo ano completo de exploração após a conclusão do investimento, para projetos com investimento elegível até 200 000,00 € (duzentos mil euros) ou o terceiro ano completo de exploração após a conclusão do investimento, para projetos com investimento elegível superior 200 000,00 € (duzentos mil euros).
+
+118929842

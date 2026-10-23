@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/38/2004/11/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/38-2004-546389
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a173ef79cd67ebb4a9687a4633f332ea138a19d1591433c8fd8b9eda023164d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8564b557bdc14a2f92790b04c7db9313df96360bd1c8ec841c89bcd9f593d87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Ordenamento do Território
 - Plano Director Municipal
 - Política de Solos
 - Regulamento
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:67030785:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1344779:por
+  label: "Tornadas públicas as alterações, aprovadas pela Assembleia Municipal de Angra do Heroísmo, à al. h) do art. 5º,\
+    \ e à al. a) do nº 3 do art. 10º do Regulamento, bem como às plantas de ordenamento e de condicionantes do PDM de Angra\
+    \ do Heroísmo pela DECL.1/2006/A.18.09.2006.SRADP-RAA, DR.IIS [180] de 18.09.2006, que republicou as referidas plantas\
+    \ na sua versão actual\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1-2006-1344779
+  date: '2006-09-18'
+- type: amended_by
+  target: pt:dre:545610:por
+  label: "Suspenso o Plano Director Municipal de Angra do Heroísmo pelo DRR.34/2006/A.21.11.2006.PG-RAA, DR.IS [238] de 13.12.2006,\
+    \ na área identificada em planta anexa àquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/34-2006-545610
+  date: '2006-11-21'
+- type: amended_by
+  target: pt:dre:438436:por
+  label: "Suspenso parcialmente o PDM de Angra do Heroísmo ratificado pelo presente diploma, com as alterações constantes\
+    \ da Decl 1/2006/A de 18-Set e dos DRR 34/2006/A de 13-Dez e 19/2007/A de 16-Out, pelo DRR.22/2008/A.22.10.2008.PG-RAA,\
+    \ DR.IS [205] de 22.10.2008, na área identificada em planta anexa àquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2008-438436
+  date: '2008-10-22'
+- type: amended_by
+  target: pt:dre:191114:por
+  label: "Suspenso parcialmente o PDM de Angra do Heroísmo, com as alterações tornadas públicas pela Decl 1/2006/A de 18-set,\
+    \ pelo DRR.23/2012/A.14.11.2012.PG-RAA, DR.IS [220] de 14.11.2012, nas áreas identificadas nas plantas publicadas em anexo.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2012-191114
+  date: '2012-11-14'
+- type: amended_by
+  target: pt:dre:67030785:por
+  label: O Plano de Pormenor de Salvaguarda de Angra do Heroísmo derroga, no que se refere à sua área de intervenção, os arts
+    4.º, 5.º, 10.º a 23.º e 33.º a 39.º do «Regulamento do Plano Diretor Municipal de Angra do Heroísmo», publicado em anexo
+    ao presente diploma, pelo(a) Decreto Regulamentar Regional n.º 7/2015/A - Diário da República n.º 76/2015, Série I de
+    2015-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2015-67030785
+  date: '2015-04-20'
+- type: amended_by
+  target: pt:dre:131137810:por
+  label: Tornada pública a suspensão parcial do Plano Diretor Municipal de Angra do Heroísmo e o estabelecimento de medidas
+    preventivas para as mesmas áreas pelo(a) Aviso n.º 5823/2020 - Diário da República n.º 68/2020, Série II de 2020-04-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/5823-2020-131137810
+  date: '2020-04-06'
+- type: amended_by
+  target: pt:dre:131572475:por
+  label: Suspende o disposto na al. e) do n.º 4 do art. 12.º e dos artigos 18.º e 19.º do regulamento do PDM de Angra do Heroísmo,
+    publicado pelo DRR 38/2004/A, de 11-nov, DR.IS-B [265] pelo(a) Aviso n.º 20/2020
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/20-2020-131572475
+  date: '2020-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
@@ -104,16 +152,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1136/2001/09/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1136/2001/09/25/p/dre
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610032:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:128728523:por
+  label: Retificado e declarada a primeira correção material ao Plano Diretor Municipal de Angra do Heroísmo, conforme plantas
+    de ordenamento em anexo, ratificado pelo presente diploma, pelo(a) Declaração de Retificação n.º 94/2020 - Diário da República
+    n.º 22/2020, Série II de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/94-2020-128728523
+  date: '2020-01-31'
+- type: repealed_by
+  target: pt:dre:642002:por
+  label: "Revogada, na área assinalada na planta anexa, a suspensão parcial do PDM de Angra do Heroísmo, ratificado parcialmente\
+    \ pelo presente diploma e decretada pelo DRR 34/2006/A de 13-Dez, (incorrectamente mencionado no texto como DRR 33/2006/A\
+    \ de 13-Dez), pelo DRR.19/2007/A.16.10.2007.GR-RAA, DR.IS [199] de 16.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2007-642002
+  date: '2007-10-16'
 article_structure:
   article_count: 52
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:58Z'
   warnings: []
   errors: []
 ---
@@ -306,13 +404,13 @@ O Plano Director Municipal de Angra do Heroísmo entra em vigor no dia seguinte 
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 30 de Agosto de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 19 de Outubro de 2004.**
+Assinado em Angra do Heroísmo em 19 de Outubro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO N.º 1 — REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DE ANGRA DO HEROÍSMO
 

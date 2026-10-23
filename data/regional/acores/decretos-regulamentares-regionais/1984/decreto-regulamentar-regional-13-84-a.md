@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07700/10901092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1984-661698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11c8079e9445def8492920040c8c62289257927ace62aa6ba05296f089c95cef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d408e2cef1d06233faf7755d4907965c01ef7dca03f1132394bb16347fc5928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Horta
+- Proteção do Ambiente
+- Regulamento
+- Regulamento Geral da Paisagem Protegida do Monte da GUIA e da ZONA Anexa de Construção Condicionada
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:174834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:692593:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439169:por
+  label: "Revogado pelo DLR.46/2008/A.07.11.2008.AL-RAA, DR.IS [217] de 07.11.2008, sem prejuízo do n.º 3 do art. 36.º, que\
+    \ mantém em vigor o presente diploma até à data de entrada em vigor do plano de ordenamento previsto nos arts. 32.º e\
+    \ 33.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/46-2008-439169
+  date: '2008-11-07'
+- type: repealed_by
+  target: pt:dre:174834:por
+  label: "Revogado pelo DRR.19/2012/A.03.09.2012.PG-RAA, DR.IS [170] de 03.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2012-174834
+  date: '2012-09-03'
 article_structure:
   article_count: 23
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:10Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +122,21 @@ A realidade local e a extensão da paisagem protegida do Monte da Guia e da cons
 
 O Governo Regional, usando dos poderes que lhe confere a alínea b) do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento Geral da Paisagem Protegida do Monte da Guia e da Zona Anexa de Construção Condicionada, em anexo ao presente diploma, que dele fica a fazer parte integrante.
+Artigo 1.º É aprovado o Regulamento Geral da Paisagem Protegida do Monte da Guia e da Zona Anexa de Construção Condicionada, em anexo ao presente diploma, que dele fica a fazer parte integrante.
 
-###### Art. 2.º As despesas resultantes da execução do presente diploma serão suportadas pelas dotações do orçamento da Secretaria Regional do Equipamento Social.
+Art. 2.º As despesas resultantes da execução do presente diploma serão suportadas pelas dotações do orçamento da Secretaria Regional do Equipamento Social.
 
-###### Art. 3.º As dúvidas suscitadas na aplicação do Regulamento serão resolvidas por despacho do Secretário Regional do Equipamento Social.
+Art. 3.º As dúvidas suscitadas na aplicação do Regulamento serão resolvidas por despacho do Secretário Regional do Equipamento Social.
 
 Aprovado em Conselho do Governo Regional em 30 de Janeiro de 1984.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 12 de Março de 1984.**
+Assinado em Angra do Heroísmo em 12 de Março de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 REGULAMENTO GERAL
 
@@ -150,7 +172,9 @@ O exercício da caça é proibido na área de reserva integral e na de reserva n
 
 3 - A caça submarina é interdita em toda a orla marítima da paisagem protegida, sendo, no entanto, permitida a fotografia submarina.
 
-### CAPÍTULO II — Artigo 5.º
+### CAPÍTULO II
+
+###### Artigo 5.º
 
 Da utilização das zonas da paisagem protegida
 

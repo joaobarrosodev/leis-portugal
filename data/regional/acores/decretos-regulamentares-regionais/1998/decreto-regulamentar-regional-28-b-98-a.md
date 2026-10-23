@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 274/1998, 3º Suplemento, Série I-B de 1998-11-26
   number: '274'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 6570-(14) a 6570-(20)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/274b03/00140020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/28-b/1998/11/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-b-1998-601987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f71e6ed2f3dcbfb7bdcf952f47ec3cc82ac990e517a7b8471d229ace6ecdf1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85aa70bda6710885279a1cbea80f5991aa17bb78adb3ed562f707639503cfcd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Higiene do Trabalho
-- Secretaria Regional da Educação e Assuntos Sociais
+- Açores
+- Condições de Higiene e Segurança no Trabalho
 - Contrato Individual de Trabalho
 - Definição de Competências
-- Regime Laboral
-- Segurança no Trabalho
+- Descrição de Funções
+- Emprego
 - Fiscalização
-- Secretário Regional da Educação e Assuntos Sociais
+- Higiene do Trabalho
+- Inspecção Regional do Trabalho
 - Integração de Trabalhadores
 - OIT
 - Orgânica
-- Descrição de Funções
-- Emprego
 - Proteção no Desemprego
 - Quadro de Pessoal
+- Região Autónoma
 - Regime de Pessoal
-- Condições de Higiene e Segurança no Trabalho
-- Inspecção Regional do Trabalho
+- Regime Laboral
+- Secretaria Regional da Educação e Assuntos Sociais
+- Secretário Regional da Educação e Assuntos Sociais
+- Segurança no Trabalho
 - Setor Empresarial
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:518232:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580641:por
+  label: "Alterados os arts 8º, 9º, 10º, 13º, 14º, 15º e 23º e os mapas I e III pelo DRR.21/2000/A.2000.07.27.SREAS-RAA DR.IS-B\
+    \ [204] de 04/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2000-580641
+  date: '2000-07-27'
+- type: amended_by
+  target: pt:dre:439468:por
+  label: "Substituídos os mapas I e III e revogados os nºs I e II do mapa II (referido no art. 24º), com a redacção constante\
+    \ do DRR 21/2000/A de 04-Set, pelo DRR.32/2002/A.2002.11.19.PG-RAA DR.IS-B [276] de 29/Nov/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-2002-439468
+  date: '2002-11-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -107,16 +119,58 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/19/1997/08/29/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/19/1997/08/29/a/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:452009:por
+  label: "Recficado pela DECL-RECT.10-J/99.1999.03.31.PCM,DR.IS-B [76]5ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-j-1999-452009
+  date: '1999-03-31'
+- type: repealed_by
+  target: pt:dre:518232:por
+  label: "Revogado pelo DRR.2/2007/A.29.12.2006.PG-RAA, DR.IS [21] de 30.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2007-518232
+  date: '2006-12-29'
 article_structure:
   article_count: 29
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:02Z'
   warnings: []
   errors: []
 ---
@@ -249,7 +303,9 @@ k) Recolher, tratar e difundir informação documental no âmbito da segurança,
 
 2 - O GHSST é dirigido por um chefe de divisão, que dependerá directamente do inspector do trabalho que dirige o serviço em Ponta Delgada.
 
-###### Artigo 7.º — Secção Técnica de Contra-Ordenações Laborais
+###### Artigo 7.º
+
+#### Secção Técnica de Contra-Ordenações Laborais
 
 São competências da STCOL:
 
@@ -441,17 +497,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 12 de Outubro de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Novembro de 1998.**
+Assinado em Angra do Heroísmo em 25 de Novembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 Mapa I a que se refere o n.º 1 do artigo 8.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/274b03/00140020.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/274b03/00140020.pdf)](https://files.diariodarepublica.pt/1s/1998/11/274b03/00140020.pdf)
 
 Mapa II a que se refere o artigo 24.º
 
@@ -513,4 +569,4 @@ Proceder ao tratamento de informações relevantes na área da segurança no tra
 
 Mapa III a que se refere o artigo 25.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/274b03/00140020.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/274b03/00140020.pdf)](https://files.diariodarepublica.pt/1s/1998/11/274b03/00140020.pdf)

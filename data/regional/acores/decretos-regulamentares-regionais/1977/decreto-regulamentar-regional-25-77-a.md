@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20500/21662167.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1977-286508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f7c884f8a66982e06bf40594392514b80f2ad285a40448ffde542735a33a899
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62707b2ec88a24878a19247888681bc2ac29b6ddf76415f3ff1bb6c5bdd750df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- CASA de Etnografia
+- ILHA das Flores
+- ILHA de Santa Maria
+- Ilha de São Jorge
+- Ilha do Corvo
+- Ilha do Pico
+- Ilha Graciosa
 relationships:
 - type: amended_by
   target: pt:dre:306946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:306946:por
+  label: "Revogado pelo DRR.40/91/A.25.11.1991.GR-RAA, DR.IS-B [271] de 25.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/40-1991-306946
+  date: '1991-11-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:41Z'
   warnings: []
   errors: []
 ---
@@ -103,28 +116,28 @@ Assim:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. São criadas nas ilhas de Santa Maria, Graciosa, Pico, S. Jorge, Flores e Corvo instituições culturais com a denominação de «casa de etnografia», em que serão recolhidos, conservados e expostos objectos de interesse etnográfico.
+Artigo 1.º - 1. São criadas nas ilhas de Santa Maria, Graciosa, Pico, S. Jorge, Flores e Corvo instituições culturais com a denominação de «casa de etnografia», em que serão recolhidos, conservados e expostos objectos de interesse etnográfico.
 
 2. É da competência da Secretaria Regional da Educação e Cultura a definição da localidade onde deverão ser instaladas as casas de etnografia.
 
-###### Art. 2.º As entidades oficiais e particulares poderão depositar nas casas de etnografia os objectos que pelos respectivos encarregados forem considerados dignos de salvaguarda e exposição.
+Art. 2.º As entidades oficiais e particulares poderão depositar nas casas de etnografia os objectos que pelos respectivos encarregados forem considerados dignos de salvaguarda e exposição.
 
-###### Art. 3.º Compete à Secretaria Regional da Educação e Cultura, ouvido o encarregado, aceitar as dotações ou legados de objectos ou imóveis destinados às casas de etnografia.
+Art. 3.º Compete à Secretaria Regional da Educação e Cultura, ouvido o encarregado, aceitar as dotações ou legados de objectos ou imóveis destinados às casas de etnografia.
 
-###### Art. 4.º Os encargos com o pessoal e todas as despesas de instalação e funcionamento serão pagos pelas dotações que a Secretaria Regional da Educação e Cultura inscrever no seu próprio orçamento.
+Art. 4.º Os encargos com o pessoal e todas as despesas de instalação e funcionamento serão pagos pelas dotações que a Secretaria Regional da Educação e Cultura inscrever no seu próprio orçamento.
 
-###### Art. 5.º Os encarregados são nomeados pelo Secretário Regional da Educação e Cultura, em regime de prestação de serviços, sem sujeição a horário e mediante remuneração a estipular.
+Art. 5.º Os encarregados são nomeados pelo Secretário Regional da Educação e Cultura, em regime de prestação de serviços, sem sujeição a horário e mediante remuneração a estipular.
 
-###### Art. 6.º Aos encarregados competirá a guarda, conservação e protecção das peças recolhidas e a dinamização de acções que levem a despertar nas populações da ilha em causa o interesse pelos documentos vivos do seu passado.
+Art. 6.º Aos encarregados competirá a guarda, conservação e protecção das peças recolhidas e a dinamização de acções que levem a despertar nas populações da ilha em causa o interesse pelos documentos vivos do seu passado.
 
-###### Art. 7.º Os encarregados ficarão directamente dependentes do Secretário Regional da Educação e Cultura, podendo este delegar competência de inspecção e orientação, no sentido de uma correcta prática museológica, nos directores dos três museus da Região.
+Art. 7.º Os encarregados ficarão directamente dependentes do Secretário Regional da Educação e Cultura, podendo este delegar competência de inspecção e orientação, no sentido de uma correcta prática museológica, nos directores dos três museus da Região.
 
 Aprovado em plenário do Governo Regional, em 27 de Junho de 1977.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada, em 12 de Julho de 1977.**
+Assinado em Ponta Delgada, em 12 de Julho de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

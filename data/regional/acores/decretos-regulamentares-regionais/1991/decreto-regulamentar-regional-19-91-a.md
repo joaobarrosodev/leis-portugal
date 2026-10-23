@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/155b00/35053507.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/1991/07/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1991-668076
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4f05628297556311e9397d1b65a6539df8806a8f361a5013b71808baacbec3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7531b7467e643938edc10a1644b5b60cfaaedf97ed8a36a8e17f93842e07ac7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Direcção Regional do Orçamento e Contabilidade
 - Pessoal Técnico Profissional de Contabilidade
 - Política Salarial
 - Promoção Profissional
 - Remuneração
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:353088:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571215:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:353088:por
+  label: "Revogado pelo DLR.6/2001/A.2001.03.02.ALR-RAA, DR.IS-A [68] de 21.03.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2001-353088
+  date: '2001-02-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:47Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +129,15 @@ Por outro lado, e ao abrigo das disposições do [Decreto-Lei n.º 45-A/84](http
 
 Assim, tendo em consideração o disposto no artigo 29.º, n.º 1, do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A estrutura remuneratória das carreiras de técnico de contabilidade e de auxiliar de contabilidade da Direcção Regional do Orçamento e Contabilidade são, respectivamente, as constantes dos mapas I e II anexos ao presente diploma, de que fazem parte integrante.
+Artigo 1.º A estrutura remuneratória das carreiras de técnico de contabilidade e de auxiliar de contabilidade da Direcção Regional do Orçamento e Contabilidade são, respectivamente, as constantes dos mapas I e II anexos ao presente diploma, de que fazem parte integrante.
 
-###### Art. 2.º A transição do pessoal técnico de contabilidade operar-se-á de acordo com o mapa III anexo a este diploma, do qual faz parte integrante.
+Art. 2.º A transição do pessoal técnico de contabilidade operar-se-á de acordo com o mapa III anexo a este diploma, do qual faz parte integrante.
 
-###### Art. 3.º - 1 - Os funcionários que tenham mudado de categoria a partir de 1 de Outubro de 1989 transitam para a nova estrutura salarial, de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma.
+Art. 3.º - 1 - Os funcionários que tenham mudado de categoria a partir de 1 de Outubro de 1989 transitam para a nova estrutura salarial, de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma.
 
 2 - Para efeitos de cálculo das remunerações no período compreendido entre 1 de Outubro de 1989 e a data de entrada em vigor do presente diploma, atender-se-á, nos casos previstos no número precedente, ao índice atribuído à situação que o funcionário detinha até à data em que se verificou a mudança de categoria.
 
-###### Art. 4.º - 1 - A promoção nas carreiras abrangidas pelo presente diploma far-se-á da seguinte forma:
+Art. 4.º - 1 - A promoção nas carreiras abrangidas pelo presente diploma far-se-á da seguinte forma:
 
 a) Para o escalão 1 da categoria para a qual se faz a promoção;
 
@@ -120,32 +145,32 @@ b) Para o escalão que, na estrutura remuneratório da categoria para a qual se 
 
 2 - A progressão far-se-á por mudança de escalão, após a permanência de três anos no escalão imediatamente anterior.
 
-###### Art. 5.º - 1 - O pessoal administrativo a exercer funções na Direcção Regional do Orçamento e Contabilidade à data da publicação deste diploma poderá ingressar na carreira de pessoal auxiliar de contabilidade, mediante a frequência de curso de formação adequado e aprovação em provas teórico-práticas sobre a matéria curricular da carreira, com o que ficam extintos os lugares da carreira administrativa da Direcção Regional do Orçamento e Contabilidade, constantes do mapa anexo ao [Decreto Regulamentar Regional n.º 40/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1988-354756), de 7 de Outubro.
+Art. 5.º - 1 - O pessoal administrativo a exercer funções na Direcção Regional do Orçamento e Contabilidade à data da publicação deste diploma poderá ingressar na carreira de pessoal auxiliar de contabilidade, mediante a frequência de curso de formação adequado e aprovação em provas teórico-práticas sobre a matéria curricular da carreira, com o que ficam extintos os lugares da carreira administrativa da Direcção Regional do Orçamento e Contabilidade, constantes do mapa anexo ao [Decreto Regulamentar Regional n.º 40/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1988-354756), de 7 de Outubro.
 
 2 - A regulamentação do curso de formação e das provas previstas no número anterior será feita por despacho conjunto dos Secretários Regionais da Administração Interna e das Finanças e Planeamento.
 
-###### Art. 6.º Em tudo o que não estiver regulamentado no presente diploma, aplicam-se as disposições do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+Art. 6.º Em tudo o que não estiver regulamentado no presente diploma, aplicam-se as disposições do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
-###### Art. 7.º O presente diploma entra em vigor na data da sua publicação, produzindo, porém, efeitos remuneratórios a partir de 1 de Outubro de 1989.
+Art. 7.º O presente diploma entra em vigor na data da sua publicação, produzindo, porém, efeitos remuneratórios a partir de 1 de Outubro de 1989.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 14 de Maio de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 5 de Junho de 1991.**
+Assinado em Angra do Heroísmo em 5 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/155b00/35053507.pdf))](https://files.diariodarepublica.pt/1s/1991/07/155b00/35053507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/155b00/35053507.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/155b00/35053507.pdf))](https://files.diariodarepublica.pt/1s/1991/07/155b00/35053507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/155b00/35053507.pdf)
 
 MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/155b00/35053507.pdf))](https://files.diariodarepublica.pt/1s/1991/07/155b00/35053507.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/155b00/35053507.pdf)

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 147/2008, 1º Suplemento, Série I de 2008-07-31
   number: '147'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5174-(9) a 5174-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14701/0000900013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/719-c/2008/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/719-c-2008-551192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e676bec55c621160965425fd40ca4d1dfb1ff8444b5a7c06c81114e4663891c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae545e15d1890d41c13015b35ff91b459e12919f74910aea4b3a9056d6362ca3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,36 +67,99 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Regulamento do Regime de Apoio às Acções Colectivas
-- Financiamento
-- Pesca
 - Apoio ao Investimento
-- Projeto de Investimento
 - Aquicultura
-- Organização de Produtores
-- Programa Comunitário
+- Financiamento
 - Intervenção Operacional Pescas
+- Organização de Produtores
+- Pesca
+- Programa Comunitário
+- Projeto de Investimento
 - Regulamento
+- Regulamento do Regime de Apoio às Acções Colectivas
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:502865:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602686:por
+  label: "Alterados os parâmetros constantes dos n.os 3, 4 e 8 do anexo ao presente diploma, pela PORT.43/2009.19.01.2009.MADRP,\
+    \ DR.IS [12] de 19.01.2009, que republica o citado anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/43-2009-602686
+  date: '2009-01-19'
+- type: amended_by
+  target: pt:dre:609337:por
+  label: "Alterado o art. 13º do Regulamento, pela PORT.106/2010.19.02.2010.MADRP, DR.IS [35] de 19.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/106-2010-609337
+  date: '2010-02-19'
+- type: amended_by
+  target: pt:dre:613233:por
+  label: "Alterado o n.º 1 do art. 9.º e o n.º 2 do art. 11.º, ambos do Regulamento do Regime de Apoio às Acções Colectivas,\
+    \ aprovado presente diploma, bem como os parâmetros constantes dos n.ºs 4 (na redacção da Port 43/2009 de 19-Jan) e 6,\
+    \ do anexo ao citado regulamento, aditados dois novos parâmetros, com os n.os 9) e 10), ao mesmo anexo, republicado pela\
+    \ Port 43/2009 de 19-Jan, pela PORT.226/2010.21.04.2010.MADRP, DR.IS [77] de 21.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/226-2010-613233
+  date: '2010-04-21'
+- type: amended_by
+  target: pt:dre:309073:por
+  label: "Dada nova redacção aos arts. 4º, 8º, 12º e 14º do Regulamento do Regime de Apoio às Acções Colectivas pela PORT.1151/2010.04.11.2010.MADRP,\
+    \ DR.IS [214] de 04.11.2010, que o republicou em anexo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1151-2010-309073
+  date: '2010-11-04'
+- type: amended_by
+  target: pt:dre:671040:por
+  label: "Alterados os arts. 5º, 6º, 11º (este último na redacção da Port 226/2010, de 21-Abr), 13º (na redacção da Port 106/2010,\
+    \ de 19-Fev) e 14º (na redacção da Port 1151/2010, de 04-Nov) do Regulamento do Regime de Apoio às Acções Colectivas,\
+    \ aprovado pelo presente diploma, pela PORT.271/2011.22.09.2011.MAMAOT, DR.IS [183] de 22.09.2011, republicado pela Port\
+    \ 1151/2010, de 04-Nov\0v\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-2011-671040
+  date: '2011-09-22'
+- type: amended_by
+  target: pt:dre:257662:por
+  label: "Alterados os art.s 5º (na redação da Port 271/2011, de 22-set), 12º (na redação da Port 1151/2010, de 04-nov), 13º\
+    \ (na redação da Port 106/2010, de 19-fev, e Port 271/2011, de 22-set) e 15º do Regulamento, pela PORT.60/2013.11.02.2013.MAMAOT,\
+    \ DR.IS [29] de 11.02.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/60-2013-257662
+  date: '2013-02-11'
+- type: amended_by
+  target: pt:dre:502865:por
+  label: "Alterados os arts. 5º (na redação da Port 271/2011 de 22-set e da Port 60/2013 de 11-fev) 9º (na redação da Port\
+    \ 226/2010 de 21-abr), 12º (na redação da Port 1151/2010 de 04-nov e da Port 60/2013 de 11-fev), 13º (na redação da Port\
+    \ 106/2010 de 19-fev, da Port 271/2011 de 22-set e da Port 60/2013 de 11-fev) e 15º (na redação da Port 60/2013 de 11-fev)\
+    \ do Regulamento do Regime de Apoio às Ações Coletivas, aprovado pelo presente diploma, pela PORT.315/2013.22.10.2013.MAGM,\
+    \ DR.IS [204] de 22.10.2013\02013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/315-2013-502865
+  date: '2013-10-22'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: "Alterado o art. 9.º do Regulamento do Regime de Apoio às Ações Coletivas aprovado peo presente diploma, na redação\
+    \ das Ports n.ºs 226/2010 de 21-abr e 315/2013 de 22-out, pela PORT.109/2014.22.05.2014.MAGM, DR.IS [98] de 22.05.2014\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2014-25345880
+  date: '2014-05-22'
 - type: cites
   target: celex:32000R0104
   label: null
   source: http://data.europa.eu/eli/reg/2000/104/oj
+- type: corrected_by
+  target: pt:dre:483437:por
+  label: "Retificado o art. 1º da Port 315/2013 de 22-out, na parte em que altera o art. 9º do Regulamento do Regime de Apoio\
+    \ às Ações Coletivas, aprovado pelo presente diploma, pela DECL-RECT.52-B/2013.20.12.2013.PCM, DR.IS [247-2ºSupl] de 20.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/52-b-2013-483437
+  date: '2013-12-20'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:04Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +178,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.
 
 REGULAMENTO DO REGIME DE APOIO ÀS ACÇÕES COLECTIVAS
 

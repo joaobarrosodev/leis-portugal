@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 105/2007, 1º Suplemento, Série I de 2007-05-31
   number: '105'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3644-(10) a 3644-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10501/00100011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/662-i/2007/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/662-i-2007-340433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a95c0dadf00e5f65d88b62287e9b8de429286f4081a35c979ffca8375e54bc5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cef65baa87192f38406b6a0aeb2ab7400b466607571803e00b3b7e10be4de231
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,13 @@ relationships:
   target: pt:dre:332453:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332453:por
+  label: "Alterados, a partir de 13.06.2010, os arts. 1º, 2º, 3º, 4º, 6º e 7º dos Estatutos do Alto Comissariado para a Imigração\
+    \ e Diálogo Intercultural (ACIDI, I. P.), publicados em anexo ao presente diploma, pela PORT.302/2010.08.06.2010.PCM,\
+    \ DR.IS [110] de 08.06.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/302-2010-332453
+  date: '2010-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/167/2007/05/03/p/dre
   label: null
@@ -93,16 +100,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/80/2006/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/80/2006/06/26/p/dre
+- type: cites
+  target: pt:dre:239016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69927763:por
+  label: Revogada pelo(a) Portaria n.º 227/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/227-2015-69927763
+  date: '2015-08-03'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:09Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +161,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 30 de Maio de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira.
 
 ## ANEXO — ESTATUTOS DO ACIDI, I. P.
 

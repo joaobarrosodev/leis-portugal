@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/26/2000/09/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-2000-572091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70741096494670bd6ee3750269448d46f5edae4f309a65500b1973fa7b7e698e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 729125dee2adab66402531d15161779e86069957e9880ec5c9c11cae3be6a55c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Energia Elétrica
-- Secretário Regional da Presidência para as Finanças e Planeamento
-- Governo Regional
+- Açores
 - Contrato de Concessão
 - Definição de Competências
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Governo Regional
 - Iniciativa Privada
 - Secretário Regional da Economia
-- Açores
+- Secretário Regional da Presidência para as Finanças e Planeamento
 - Transporte
 - Transporte de Energia
 relationships:
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/15/1996/08/01/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/15/1996/08/01/a/dre
+- type: cites
+  target: pt:dre:218957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407287:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:17Z'
   warnings: []
   errors: []
 ---
@@ -117,23 +125,27 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Julho de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 22 de Agosto de 2000.**
+Assinado em Angra do Heroísmo em 22 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — Bases da concessão do transporte e distribuição de energia eléctrica
 
 ### CAPÍTULO I — Disposições e princípios gerais
 
-###### Base I — Objecto da concessão
+Base I
+
+Objecto da concessão
 
 A concessão tem por objecto a gestão técnica global do sistema eléctrico de cada uma das ilhas e o transportem e distribuição de energia eléctrica, bem como a construção das infra-estruturas que a integram.
 
-###### Base II — Âmbito da concessão
+Base II
+
+Âmbito da concessão
 
 1 - A actividade de concessão compreende:
 
@@ -147,7 +159,9 @@ d) A gestão técnica global do sistema eléctrico de cada uma das ilhas, nos te
 
 2 - A área de concessão abrange todo o território da Região Autónoma dos Açores.
 
-###### Base III — Prazo da concessão
+Base III
+
+Prazo da concessão
 
 1 - A presente concessão é feita pelo prazo de 50 anos contados a partir da data de celebração do respectivo contrato.
 
@@ -155,7 +169,9 @@ d) A gestão técnica global do sistema eléctrico de cada uma das ilhas, nos te
 
 3 - O disposto no número anterior não impede que ambas as partes acordem, até ao termo do respectivo prazo, na renovação da concessão.
 
-###### Base IV — Serviço público
+Base IV
+
+Serviço público
 
 1 - A concessão é exercida em regime de serviço público, sendo as suas actividades consideradas para todos os efeitos de utilidade pública.
 
@@ -167,7 +183,9 @@ d) A gestão técnica global do sistema eléctrico de cada uma das ilhas, nos te
 
 ### CAPÍTULO II — Bens e meios afectos à concessão
 
-###### Base V — Bens da concessão
+Base V
+
+Bens da concessão
 
 1 - A concessão envolve a construção e exploração dos bens afectos ao transporte e distribuição de energia eléctrica, nomeadamente:
 
@@ -187,7 +205,9 @@ b) Outros bens móveis ou imóveis necessários ao desempenho das actividades ob
 
 c) As relações jurídicas directamente relacionadas com a concessão, nomeadamente laborais, de empreitada, de locação, de prestação de serviços de recepção e de entrega de energia eléctrica.
 
-###### Base VI — Inventário do património
+Base VI
+
+Inventário do património
 
 1 - A concessionária obriga-se a fornecer às Secretarias Regionais da Presidência para as Finanças e Planeamento e da Economia, logo que estas o solicitem, o inventário do património afecto à concessão, o qual tem por obrigação manter actualizado.
 
@@ -195,11 +215,15 @@ c) As relações jurídicas directamente relacionadas com a concessão, nomeadam
 
 3 - Antes do fecho anual de contas deverá a concessionária remeter para conhecimento da concedente a relação dos bens e direitos patrimoniais tornados desnecessários às actividades concedidas e por isso a abater ao património, o qual se considera autorizado se esta não se opuser no prazo de 30 dias.
 
-###### Base VII — Manutenção dos bens e meios afectos à concessão
+Base VII
+
+Manutenção dos bens e meios afectos à concessão
 
 A concessionária deve, durante o prazo de vigência da concessão, manter, a expensas suas, em bom estado de funcionamento, conservação e segurança os bens e meios a ela afectos, efectuando para tanto reparações, renovações e adaptações necessárias ao bom desempenho do serviço concedido.
 
-###### Base VIII — Propriedade ou posse dos bens
+Base VIII
+
+Propriedade ou posse dos bens
 
 1 - A concessionária detém a propriedade ou posse dos bens que integram a concessão até à extinção desta.
 
@@ -207,11 +231,15 @@ A concessionária deve, durante o prazo de vigência da concessão, manter, a ex
 
 ### CAPÍTULO III — Obrigações, responsabilidade e fiscalização da concessionária
 
-###### Base IX — Garantia do fornecimento
+Base IX
+
+Garantia do fornecimento
 
 A concessionária deve assegurar o fornecimento de energia eléctrica de forma permanente e contínua, nos termos da legislação vigente, ressalvadas as interrupções impostas por razões de interesse público, de serviço, ou de segurança ou por facto imputável ao cliente ou a terceiros.
 
-###### Base X — Projectos
+Base X
+
+Projectos
 
 1 - Constitui obrigação da concessionária a concepção e a elaboração dos projectos relativos à remodelação e expansão das redes de transporte e distribuição de energia eléctrica.
 
@@ -219,25 +247,35 @@ A concessionária deve assegurar o fornecimento de energia eléctrica de forma p
 
 3 - A aprovação dos projectos é feita através do processo de licenciamento previsto no Regulamento de Licenças para Instalações Eléctricas.
 
-###### Base XI — Normas gerais relativas ao atravessamento de terrenos públicos ou dos particulares
+Base XI
+
+Normas gerais relativas ao atravessamento de terrenos públicos ou dos particulares
 
 No atravessamento de terrenos do domínio público ou dos particulares a concessionária deve adoptar os procedimentos estabelecidos na legislação aplicável e proceder à reparação de todos os prejuízos que resultem dos trabalhos executados.
 
-###### Base XII — Cumprimento dos regulamentos
+Base XII
+
+Cumprimento dos regulamentos
 
 A concessionária, no estabelecimento e exploração da concessão, deve cumprir as normas e regulamentos aplicáveis.
 
-###### Base XIII — Informações
+Base XIII
+
+Informações
 
 A concessionária tem a obrigação de fornecer ao concedente, através da Secretaria Regional da Economia, Direcção Regional do Comércio, Indústria e Energia, todos os elementos relativos à concessão que esta entenda dever solicitar-lhe.
 
-###### Base XIV — Fiscalização
+Base XIV
+
+Fiscalização
 
 1 - Sem prejuízo dos poderes cometidos a outras entidades, cabe à Direcção Regional do Comércio, Indústria e Energia a fiscalização da concessão, nomeadamente do cumprimento das disposições legais e do contrato de concessão.
 
 2 - Para efeitos do número anterior, a concessionária deve prestar todas as informações e facultar todos os documentos que lhe forem solicitados, bem como permitir o livre acesso das entidades fiscalizadoras a quaisquer instalações.
 
-###### Base XV — Responsabilidade civil
+Base XV
+
+Responsabilidade civil
 
 1 - Para efeitos do disposto no artigo 509.º do Código Civil, entende-se que a utilização das instalações integradas na concessão é feita no exclusivo interesse da concessionária.
 
@@ -247,19 +285,25 @@ A concessionária tem a obrigação de fornecer ao concedente, através da Secre
 
 ### CAPÍTULO VI — Direitos e prerrogativas da concessionária
 
-###### Base XVI — Utilização do domínio público
+Base XVI
+
+Utilização do domínio público
 
 1 - No estabelecimento de instalações de rede de transporte e distribuição ou de outras infra-estruturas integrantes da concessão, a concessionária tem o direito de utilizar os bens da Região e das autarquias locais, incluindo os do domínio público, nos termos da lei.
 
 2 - A faculdade de utilização dos bens dominais da Região e das autarquias locais resulta da aprovação dos respectivos projectos ou de despacho conjunto dos Secretários Regionais da Presidência para as Finanças e Planeamento e da Economia, sem prejuízo da formalização da respectiva cedência nos termos da lei.
 
-###### Base XVII — Expropriações e servidões
+Base XVII
+
+Expropriações e servidões
 
 1 - A concessionária só pode solicitar a expropriação ou a constituição de servidões após a aprovação, pelo director regional do Comércio, Indústria e Energia, dos projectos ou anteprojectos das infra-estruturas ou instalações das redes de transporte e distribuição, nos termos da legislação aplicável, cabendo à concessionária o pagamento das indemnizações a que derem lugar.
 
 2 - Dos projectos e anteprojectos referidos no número anterior deverá, obrigatoriamente, ser mencionado o propósito de constituição do direito de servidões ou expropriação de terrenos ou de direitos.
 
-###### Base XVIII — Medidas de protecção
+Base XVIII
+
+Medidas de protecção
 
 1 - Quando se verifique uma situação de emergência que ponha em risco a segurança de pessoas e bens, deve a concessionária promover imediatamente as medidas que entender necessárias em matéria de segurança da zona afectada.
 
@@ -267,7 +311,9 @@ A concessionária tem a obrigação de fornecer ao concedente, através da Secre
 
 ### CAPÍTULO V — Garantias do cumprimento do contrato de concessão
 
-###### Base XIX — Caução
+Base XIX
+
+Caução
 
 1 - Para garantia do cumprimento dos deveres emergentes do contrato de concessão, a concessionária deve, se os Secretários Regionais das Finanças e Planeamento e da Economia assim o determinarem, prestar uma caução no valor de 200000000$00 ((euro) 997595,8).
 
@@ -279,7 +325,9 @@ A concessionária tem a obrigação de fornecer ao concedente, através da Secre
 
 5 - A caução pode ser prestada por depósito, por dinheiro, por garantia bancária autónoma, por consignação de receitas ou por qualquer outra forma prevista na lei, cujo texto deve ser previamente aprovado pelos Secretários Regionais da Presidência para as Finanças e Planeamento e da Economia.
 
-###### Base XX — Responsabilidade da concessionária por incumprimento
+Base XX
+
+Responsabilidade da concessionária por incumprimento
 
 1 - Por violação do contrato de concessão a concessionária incorre em responsabilidade perante o concedente.
 
@@ -289,7 +337,9 @@ A concessionária tem a obrigação de fornecer ao concedente, através da Secre
 
 4 - Na situação prevista no número anterior a concessionária deve tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas.
 
-###### Base XXI — Multas contratuais
+Base XXI
+
+Multas contratuais
 
 1 - Pelo incumprimento das obrigações estabelecidas no contrato de concessão pode ser aplicável à concessionária uma multa de 200000$00 ((euro) 997,59) a 75000000$00 ((euro) 3740984,2), variando o respectivo montante em função do grau de culpa, dos riscos daí derivados para a segurança da rede ou de terceiros, dos prejuízos efectivamente causados e da diligência que tenha posto na superação das consequências.
 
@@ -299,7 +349,9 @@ A concessionária tem a obrigação de fornecer ao concedente, através da Secre
 
 4 - O pagamento das multas não isenta a concessionária da responsabilidade civil, criminal ou contra-ordenacional em que incorrer.
 
-###### Base XXII — Sequestro
+Base XXII
+
+Sequestro
 
 1 - O concedente, mediante despacho conjunto do Secretário Regional da Presidência para as Finanças e Planeamento e do Secretário Regional da Economia, pode tomar conta da concessão quando se verificarem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações e dos equipamentos que sejam susceptíveis de comprometer a regularidade do serviço.
 
@@ -313,7 +365,9 @@ A concessionária tem a obrigação de fornecer ao concedente, através da Secre
 
 ### CAPÍTULO VI — Alteração e extinção do contrato de concessão
 
-###### Base XXIII — Alteração do contrato de concessão
+Base XXIII
+
+Alteração do contrato de concessão
 
 1 - As cláusulas do contrato de concessão podem ser alteradas por mútuo acordo, desde que a alteração não envolva a violação do regime jurídico da concessão nem implique a derrogação das presentes bases.
 
@@ -321,7 +375,9 @@ A concessionária tem a obrigação de fornecer ao concedente, através da Secre
 
 3 - Quando, por efeito do número anterior, se alterem significativamente as condições de exploração, o concedente compromete-se a promover a reposição do equilíbrio contratual desde que a concessionária, neste último caso, não possa legitimamente prover a tal reposição recorrendo aos meios resultantes de uma correcta e prudente gestão financeira.
 
-###### Base XXIV — Extinção da concessão
+Base XXIV
+
+Extinção da concessão
 
 1 - A concessão extingue-se por acordo entre o concedente e a concessionária, por rescisão, por resgate e pelo decurso do prazo.
 
@@ -331,7 +387,9 @@ A concessionária tem a obrigação de fornecer ao concedente, através da Secre
 
 4 - A tomada de posse da concessão pela Região é precedida de vistoria, para uma avaliação actualizada, realizada pela Direcção Regional do Comércio, Indústria e Energia, a que assistem representantes da concessionária.
 
-###### Base XXV — Rescisão do contrato por incumprimento
+Base XXV
+
+Rescisão do contrato por incumprimento
 
 1 - O concedente, pelos Secretários Regionais da Presidência para as Finanças e Planeamento e da Economia, pode rescindir o contrato quando ocorra qualquer dos seguintes factos:
 
@@ -365,7 +423,9 @@ i) Recusa da reconstituição atempada da caução, nos termos do n.º 3 da base
 
 7 - A rescisão por iniciativa da concessionária determina a reversão de todos os bens e meios afectos à concessão, sem prejuízo do direito da concessionária a ser ressarcida dos prejuízos que lhe forem causados.
 
-###### Base XXVI — Resgate da concessão
+Base XXVI
+
+Resgate da concessão
 
 1 - A Região Autónoma dos Açores pode resgatar a concessão sempre que motivos de interesse público o justifiquem, decorridos que sejam pelo menos cinco anos sobre a data de início do respectivo prazo.
 
@@ -381,19 +441,25 @@ i) Recusa da reconstituição atempada da caução, nos termos do n.º 3 da base
 
 7 - A assunção de obrigações por parte da Região é feita sem prejuízo do seu direito de regresso sobre a concessionária, pelas obrigações por esta contraídas que tenham exorbitado da gestão normal da concessão.
 
-###### Base XXVII — Decurso do prazo da concessão
+Base XXVII
+
+Decurso do prazo da concessão
 
 1 - Cessando a concessão pelo decurso do respectivo prazo, o concedente pagará à concessionária uma indemnização pelos investimentos realizados e não amortizados, nos termos definidos no n.º 4 da base anterior, sem prejuízo do disposto nos n.os 5 e 7 da mesma base.
 
 2 - Quando os investimentos realizados envolverem um período de amortização que exceda o prazo da concessão, fica a concessionária obrigada, caso pretenda ser indemnizada nos termos do número anterior, a solicitar parecer dos Secretários Regionais da Presidência para as Finanças e Planeamento e da Economia no sentido da aprovação desse investimento.
 
-###### Base XXVIII — Procedimento para termo da concessão
+Base XXVIII
+
+Procedimento para termo da concessão
 
 1 - O concedente reserva-se o direito de tomar, nos últimos dois anos do prazo da concessão, as providências que julgar convenientes para assegurar a continuação do serviço no termo da concessão ou as medidas necessárias para efectuar, durante o mesmo prazo, a transferência progressiva das actividades exercidas pela concessionária para uma nova entidade encarregada da gestão do serviço.
 
 2 - Se, no termo da concessão, o concedente não tiver ainda renovado o respectivo contrato ou não tiver decidido quanto ao novo modo ou entidade encarregada da gestão do serviço, pode, se assim o desejar, acordar a continuação do contrato de concessão com a concessionária, até ao limite máximo de um ano, mediante arrendamento, prestação de serviços ou qualquer outro título contratual.
 
-###### Base XXIX — Transmissão e oneração de concessão
+Base XXIX
+
+Transmissão e oneração de concessão
 
 1 - A concessionária não pode, sob pena de nulidade dos respectivos actos ou contratos, sem prévia autorização dos Secretários Regionais da Presidência para as Finanças e Planeamento e da Economia transmitir, subconceder ou onerar, por qualquer forma, a concessão.
 
@@ -403,7 +469,9 @@ i) Recusa da reconstituição atempada da caução, nos termos do n.º 3 da base
 
 ### CAPÍTULO VII — Composição de litígios
 
-###### Base XXX — Litígios entre o concedente e a concessionária
+Base XXX
+
+Litígios entre o concedente e a concessionária
 
 1 - Todos os diferendos decorrentes do contrato de concessão serão resolvidos por um tribunal arbitral constituído por três árbitros, sendo um nomeado por cada uma das partes e o terceiro por acordo ou, na sua falta, designado pelo director regional do Comércio, Indústria e Energia.
 
@@ -413,10 +481,14 @@ i) Recusa da reconstituição atempada da caução, nos termos do n.º 3 da base
 
 ### CAPÍTULO VIII — Disposições finais
 
-###### Base XXXI — Casos omissos
+Base XXXI
+
+Casos omissos
 
 Em todas as matérias e aspectos que não estejam especificamente contemplados no presente contrato de concessão manter-se-ão em vigor as regras praticadas à data do início da concessão até ao estabelecimento de regulamentação geral própria.
 
-###### Base XXXII — Situações anteriores à concessão
+Base XXXII
+
+Situações anteriores à concessão
 
 A concessionária assume todos os direitos e obrigações derivados de actos ou contratos praticados ou celebrados antes da presente concessão e que digam respeito à actividade concedida.

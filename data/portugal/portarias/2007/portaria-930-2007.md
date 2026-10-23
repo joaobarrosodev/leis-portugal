@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/930/2007/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/930-2007-636899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a784cc6897c8ec27e715c56fab655b41dc01ddab5e223c2909e063cf0fe37741
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39e8f76d9120936f3ea9d108d36490c251dc4cb26ae5897214853dcae51c680e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA
-- Pinhel
 - Guarda
+- Pinhel
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:449436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449436:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída pela Port 1038/2002, de 12-Ago, alterada pelo presente\
+    \ diploma, pela PORT.446/2008.19.06.2008.MADRP, DR.IS [117] de 19.06.2008\0008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/446-2008-449436
+  date: '2008-06-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -88,16 +94,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1038/2002/08/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1038/2002/08/12/p/dre
+- type: cites
+  target: pt:dre:185716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:50Z'
   warnings: []
   errors: []
 ---
@@ -122,4 +140,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas, em 25 de Julho de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15600/0529905300.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15600/0529905300.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15600/0529905300.pdf)

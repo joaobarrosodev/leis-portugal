@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/07300/0227502290.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2011/04/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2011-276801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 685017ec6b856bf18cfc339829b23a1684014d20e2ed52da65a516861bacf349
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86cdc9d28e2282898ddeb898d78ed851f6da7d7c1fbd38b94e6c3a51f450f509
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
 - Casa Degradada
 - Comparticipação do Estado
-- Renovação Urbana
+- Financiamento
+- Habitação
 - Página na Internet
 - Regime Jurídico
-- Habitação
-- Açores
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:122393535:por
@@ -119,16 +119,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/7/2004/03/26/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/7/2004/03/26/a/dre
+- type: cites
+  target: pt:dre:200031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado o DRR 14/93/A, de 31-jul, na redacção do presente diploma, pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS\
+    \ [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
+- type: repealed_by
+  target: pt:dre:122393535:por
+  label: Revogado o DRR 1/2003/A de 06-fev, com a redação dada pelo presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 11/2019/A - Diário da República n.º 100/2019, Série I de 2019-05-24, com efeitos nos termos do disposto no art. 31.º
+    deste último diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2019-122393535
+  date: '2019-05-24'
 article_structure:
-  article_count: 91
+  article_count: 75
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:48Z'
   warnings: []
   errors: []
 ---
@@ -153,11 +210,15 @@ Os artigos 1.º, 4.º, 5.º, 6.º, 7.º, 9.º, 10.º, 15.º, 18.º, 19.º, 21.º
 
 O presente diploma regulamenta o regime jurídico da concessão dos apoios financeiros a obras de reabilitação, reparação e beneficiação em habitações degradadas, instituído pelo [Decreto Legislativo Regional n.º 6/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2002-250609), de 11 de Março, alterado pelos Decretos Legislativos Regionais n.os [20/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2005-240007), de 22 de Julho, [37/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-546003), de 31 de Outubro, e [22/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), de 16 de Dezembro.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Os apoios previstos serão determinados tendo em conta a classe de apoio em que o candidato se enquadra, a condição do imóvel, o tipo de obras a executar, o respectivo orçamento e o limite máximo de apoio legalmente fixado para a tipologia do imóvel candidatado.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Nos termos e condições constantes do artigo 5.º do diploma ora regulamentado, são elegíveis para efeitos de primeira candidatura:
 
@@ -167,7 +228,9 @@ b) ...
 
 2 - Nos termos e condições constantes do artigo 2.º do [Decreto Legislativo Regional n.º 22/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), de 16 de Dezembro, durante o prazo legalmente fixado são, ainda, elegíveis para efeitos de primeira candidatura todos aqueles que não sendo titulares do direito de propriedade do imóvel candidatado nele residam a título permanente há mais de cinco anos, exceptuando os casos de arrendamentos urbanos, desde que autorizados pelo proprietário da habitação a beneficiar ou legítimo representante com poderes bastantes para o efeito.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - As autorizações referidas na alínea b) do n.º 1 do artigo anterior serão formalizadas em documento, com assinatura reconhecida, e conterão obrigatoriamente as seguintes menções:
 
@@ -185,7 +248,9 @@ b) Declaração expressa de aceitação das obras de reparação ou beneficiaç�
 
 c) Aceitação do regime de ónus, obrigações e sanções constante do diploma ora regulamentado.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -207,7 +272,9 @@ c) Aceitação do regime de ónus, obrigações e sanções constante do diploma
 
 10 - Aos candidatos em regime de coabitação é aplicável o disposto nos números anteriores sobre rendimentos de todos os membros do agregado familiar, com as necessárias adaptações.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Para efeitos do disposto na subalínea i) da alínea b) do n.º 1 do artigo 6.º do diploma ora regulamentado, considera-se prédio exclusivamente afecto à actividade profissional do candidato, do respectivo cônjuge ou da pessoa que com o candidato viva em situação análoga à dos cônjuges apenas aquele que seja absolutamente necessário ao desempenho da actividade principal.
 
@@ -215,7 +282,9 @@ c) Aceitação do regime de ónus, obrigações e sanções constante do diploma
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Para efeitos do disposto na subalínea ii) da alínea b) do n.º 1 do artigo 6.º do diploma ora regulamentado, considera-se prédio em estado de ruína ou degradação aquele que não disponha de condições de habitabilidade, nomeadamente:
 
@@ -225,7 +294,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +348,9 @@ f) ...
 
 6 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O montante dos apoios a conceder será o correspondente ao valor da intervenção a realizar, tendo em consideração a composição do agregado familiar do candidato, a tipologia adequada, a área bruta máxima da habitação e o valor máximo elegível por metro quadrado, nos termos previstos na tabela i do anexo ao presente diploma.
 
@@ -301,7 +374,9 @@ b) Para os restantes casos, as despesas inerentes ao registo do ónus de inalien
 
 6 - (Revogado.)
 
-###### Artigo 19.º — Limites máximos de comparticipação
+Artigo 19.º
+
+Limites máximos de comparticipação
 
 Relativamente às candidaturas previstas nas alíneas a) e b) do n.º 2 do artigo 5.º do diploma ora regulamentado, assim como às previstas no artigo 2.º do [Decreto Legislativo Regional n.º 22/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), de 16 de Dezembro, os apoios a conceder aos agregados aí referidos, sem prejuízo do disposto na alínea a) do n.º 2 do artigo anterior, estão sujeitos aos seguintes limites máximos:
 
@@ -311,17 +386,23 @@ b) No caso dos usufrutuários, usuários e titulares do direito de habitação, 
 
 c) No caso daqueles que não sendo titulares do direito de propriedade do imóvel candidatado nele residam a título permanente há mais de cinco anos, exceptuando os casos de arrendamentos urbanos, 35 % dos valores máximos de apoio por tipologia referidos na tabela i do anexo ao presente diploma.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Nas situações previstas no artigo 12.º do presente diploma, o montante máximo dos apoios a atribuir não poderá exceder 50 % do valor referido na alínea b) do n.º 2 do artigo 18.º do presente diploma.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - O requerimento referido no artigo anterior deverá ser dirigido ao director regional com competência em matéria de habitação, formulado por escrito em modelo próprio, disponibilizado gratuitamente, podendo ser obtido nos serviços periféricos do departamento do Governo Regional competente em matéria de habitação, bem como no portal do Governo Regional, www.azores.gov.pt, e no portal da Rede Integrada de Apoio ao Cidadão (RIAC), http://www.riac.gov.pt/-.
 
 2 - O formulário de candidatura deve ser entregue, em mão própria ou por correio, nos serviços referidos no número anterior ou em qualquer posto de atendimento do departamento do Governo Regional competente em matéria de habitação.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -333,7 +414,9 @@ a) Comprovativo do pagamento das despesas fixas mensais com consumos de electric
 
 b) Comprovativo de residência fiscal do requerente no imóvel candidatado há mais de cinco anos.
 
-###### Artigo 31.º — Instrução da candidatura
+Artigo 31.º
+
+Instrução da candidatura
 
 1 - É competente para a direcção da instrução o director regional com competência em matéria de habitação.
 
@@ -341,7 +424,9 @@ b) Comprovativo de residência fiscal do requerente no imóvel candidatado há m
 
 3 - O director regional com competência em matéria de habitação é a instância de recurso relativamente aos actos instrutórios respeitantes a procedimentos cuja direcção tenha sido delegada nos termos do número anterior.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - A abertura da instrução é determinada por despacho do director regional com competência em matéria de habitação ou da entidade na qual tenha sido delegada competência para o efeito, nos termos do n.º 2 do artigo anterior.
 
@@ -353,13 +438,17 @@ a) ...
 
 b) ...
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
 2 - O indeferimento será notificado ao candidato no prazo de 10 dias contados do término do prazo conferido àquele para efeitos de audiência prévia, contendo todos os elementos necessários para que o interessado fique a conhecer os aspectos relevantes da decisão.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 Depois de reverificada a proposta do serviço competente para a instrução, o director regional competente em matéria de habitação efectuará uma proposta formal de decisão, a submeter à consideração do secretário regional com competência na mesma matéria.»
 
@@ -389,11 +478,11 @@ O presente diploma produz efeitos no dia seguinte ao da sua publicação, aplica
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 14 de Fevereiro de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 30 de Março de 2011.**
+Assinado em Angra do Heroísmo em 30 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -401,7 +490,7 @@ O Representante da República para a Região Autónoma dos Açores, José Antón
 
 Tipologia por agregado familiar e valores máximos de reabilitação e de elegibilidade por metro quadrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07300/0227502290.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07300/0227502290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07300/0227502290.pdf)
 
 ## ANEXO II — Republicação do [Decreto Regulamentar Regional n.º 1/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2003-200031), de 6 de Fevereiro
 
@@ -1159,4 +1248,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Tipologia por agregado familiar e valores máximos de reabilitação e de elegibilidade por metro quadrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07300/0227502290.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07300/0227502290.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07300/0227502290.pdf)

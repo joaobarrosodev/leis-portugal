@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1987-420218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b0f3d91883e97b6a3b7a44e234dc8afd25698d1a34a63ebeac164191f30ecb35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a657b0f56fe977c2edd7790de3caa1a3ab7d284ef3dc495126645b6e6253319b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Escola de Enfermagem
+- Ponta Delgada
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:392578:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:495898:por
+  label: "Alterado o quadro de pessoal pelo DRR.2/91/A.15.01.1991.GR-RAA, DR.IS-B [12] de 15.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1991-495898
+  date: '1991-01-15'
+- type: amended_by
+  target: pt:dre:527632:por
+  label: "Substituído o quadro de pessoal, no que respeita ao grupo de pessoal de enfermagem, na área funcional da docência,\
+    \ pelo DRR.11/95/A.30.05.1995.GR-RAA, DR.IS-B [125] de 30.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1995-527632
+  date: '1995-05-30'
+- type: amended_by
+  target: pt:dre:392578:por
+  label: "Substituído o quadro de pessoal pela PORT.475/99.1999.06.29.PCM DR.IS-B [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/475-1999-392578
+  date: '1999-06-29'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:487487:por
+  label: Rectificado pela DECL.DD4267.20.10.1987.PCM, DR.IS [251]3ºSupl de 31.10.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1987-487487
+  date: '1987-10-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:50Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +135,20 @@ Em conformidade com o disposto no n.º 1 do artigo 6.º do [Decreto Legislativo 
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro de pessoal da Escola de Enfermagem de Ponta Delgada, aprovado pelos Decretos Regulamentares Regionais n.os [17/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1982-607325), de 14 de Abril, e [22/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1983-451607), de 13 de Maio, é substituído pelo quadro anexo ao presente diploma.
+Artigo 1.º O quadro de pessoal da Escola de Enfermagem de Ponta Delgada, aprovado pelos Decretos Regulamentares Regionais n.os [17/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1982-607325), de 14 de Abril, e [22/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1983-451607), de 13 de Maio, é substituído pelo quadro anexo ao presente diploma.
 
-###### Art. 2.º A colocação do pessoal ao serviço nos lugares agora criados é feita nos termos da lei geral.
+Art. 2.º A colocação do pessoal ao serviço nos lugares agora criados é feita nos termos da lei geral.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 8 de Maio de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 19 de Junho de 1987.**
+Assinado em Angra do Heroísmo em 19 de Junho de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO I — Quadro de pessoal da Escola de Enfermagem de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1987/07/15800/27552756.pdf))](https://files.diariodarepublica.pt/1s/1987/07/15800/27552756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/15800/27552756.pdf)

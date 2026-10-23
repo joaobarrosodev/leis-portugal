@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/06/12700/20442044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1983-451638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f89cce6f85961ff38741f1068741b7254e0f78456b2d53ae725d2a9d440997a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8b811acf417a3a8a5a134e3f573eb148a3c347dbc33b1abcd064c10d2ba9848
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Admissão de Pessoal
+- Ensino Artístico
+- Ensino Preparatório
+- Pessoal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:667771:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678213:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667771:por
+  label: "Revogado pelo DLR.11/2006/A.07.03.2006.AL-RAA, DR.IS-A [57] de 21.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2006-667771
+  date: '2006-03-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:56Z'
   warnings: []
   errors: []
 ---
@@ -101,30 +131,30 @@ Deste modo, atendendo o disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 3
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São integrados no quadro único a que se refere o artigo 1.º do Decreto Regulamentar Regional n.º 17/81/A, de 25 de Fevereiro, os escriturários-dactilógrafos admitidos em regime de contrato de prestação eventual de serviço e os terceiros-oficiais além do quadro, desde que tenham obtido aprovação nos concursos de habilitação realizados a nível de estabelecimentos de ensino até à data de 31 de Dezembro de 1982 e que possuam as habilitações literárias para tal exigidas.
+Artigo 1.º - 1 - São integrados no quadro único a que se refere o artigo 1.º do Decreto Regulamentar Regional n.º 17/81/A, de 25 de Fevereiro, os escriturários-dactilógrafos admitidos em regime de contrato de prestação eventual de serviço e os terceiros-oficiais além do quadro, desde que tenham obtido aprovação nos concursos de habilitação realizados a nível de estabelecimentos de ensino até à data de 31 de Dezembro de 1982 e que possuam as habilitações literárias para tal exigidas.
 
 2 - O disposto no número anterior é extensivo aos funcionários do QGA em exercício nos estabelecimentos de ensino, com ressalva de categoria, quando esta não coincida com as previstas no mapa I anexo ao Decreto Regulamentar Regional n.º 17/81/A, de 25 de Fevereiro, caso em que serão integrados na resultante da aplicação da tabela de equivalências prevista no n.º 1 do artigo 6.º da [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março.
 
-###### Art. 2.º Quando não existir vaga no quadro privativo do respectivo estabelecimento de ensino, o funcionário integrado nos termos do artigo anterior considerar-se-á supranumerário e com direito a ocupar automaticamente a primeira vaga que se verifique.
+Art. 2.º Quando não existir vaga no quadro privativo do respectivo estabelecimento de ensino, o funcionário integrado nos termos do artigo anterior considerar-se-á supranumerário e com direito a ocupar automaticamente a primeira vaga que se verifique.
 
-###### Art. 3.º - 1 - Ao pessoal referido nos artigos anteriores é igualmente conferida a possibilidade de optar pelo provimento no quadro privativo de outro estabelecimento de ensino desde que se verifique a existência de lugares vagos nas respectivas categorias.
+Art. 3.º - 1 - Ao pessoal referido nos artigos anteriores é igualmente conferida a possibilidade de optar pelo provimento no quadro privativo de outro estabelecimento de ensino desde que se verifique a existência de lugares vagos nas respectivas categorias.
 
 2 - A opção a que se refere o número anterior só se poderá verificar nos 30 dias subsequentes à publicação do presente diploma.
 
-###### Art. 4.º - 1 - Desde que preenchidos os requisitos enunciados no n.º 1 do artigo 1.º, os escriturários-dactilógrafos contratados em regime de prestação eventual de serviço nas direcções escolares são integrados no quadro a que se refere o artigo 3.º do [Decreto Regulamentar Regional n.º 45/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1980-461787), de 26 de Setembro.
+Art. 4.º - 1 - Desde que preenchidos os requisitos enunciados no n.º 1 do artigo 1.º, os escriturários-dactilógrafos contratados em regime de prestação eventual de serviço nas direcções escolares são integrados no quadro a que se refere o artigo 3.º do [Decreto Regulamentar Regional n.º 45/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1980-461787), de 26 de Setembro.
 
 2 - Se se verificar o condicionalismo do artigo 2.º, os funcionários na situação de supranumerários poderão ser colocados nas delegações escolares substituindo igual número de professores destacados que nas mesmas exercem funções administrativas.
 
-###### Art. 5.º Para os funcionários providos em lugares dos quadros previstos no n.º 1 do artigo 3.º do [Decreto Regulamentar Regional n.º 45/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1980-461787), de 26 de Setembro, e no artigo 9.º do [Decreto Regulamentar Regional n.º 11/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-678213), de 13 de Março, que possuam as categorias de terceiro-oficial, segundo-oficial e primeiro-oficial, os concursos de habilitação poderão ser substituídos pela frequência, com aproveitamento, de cursos de formação profissional, cujas regras de funcionamento são idênticas às fixadas para os funcionários de iguais categorias dos estabelecimentos de ensino preparatório e secundário.
+Art. 5.º Para os funcionários providos em lugares dos quadros previstos no n.º 1 do artigo 3.º do [Decreto Regulamentar Regional n.º 45/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1980-461787), de 26 de Setembro, e no artigo 9.º do [Decreto Regulamentar Regional n.º 11/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1980-678213), de 13 de Março, que possuam as categorias de terceiro-oficial, segundo-oficial e primeiro-oficial, os concursos de habilitação poderão ser substituídos pela frequência, com aproveitamento, de cursos de formação profissional, cujas regras de funcionamento são idênticas às fixadas para os funcionários de iguais categorias dos estabelecimentos de ensino preparatório e secundário.
 
-###### Art. 6.º O presente diploma entra em vigor na data da sua publicação.
+Art. 6.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho em 23 de Março de 1983.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Maio de 1983.**
+Assinado em Angra do Heroísmo em 3 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

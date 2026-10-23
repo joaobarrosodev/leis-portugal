@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1985/05/11500/13591364.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1985-151531
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f67f64599b1d99c5eb5c3c204916757ef672f51946ac44918cee4a82634cf4be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4365b2be86bc199f068ab0b2965b40aa5e988b4875c16a252e99ed18de38aae5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Drepa
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:274463:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666567:por
+  label: "Alterados os arts. 9º, 17º, 18º, 20º e revogados os arts. 13º, 14º, 15º, 16º, 23º, 24º, 25º e 26º e o quadro anexo\
+    \ ao presente diploma, pelo DRR.9/87/A.1987.03.09.GR-RAA, DR.IS [77] de 02/Abr/1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1987-666567
+  date: '1987-03-09'
+- type: amended_by
+  target: pt:dre:287861:por
+  label: "Alterado o quadro de pessoal, na redacção dada pelo DRR 9/87/A, de 02-Abr, pelo DRR.28/92/A.1992.05.20.GR-RAA, DR.IS-B\
+    \ [154] de 07/Jul/1992 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-1992-287861
+  date: '1992-05-20'
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:274463:por
+  label: "Revogado pelo DRR.11/93/A.1993.03.31.GR-RAA, DR.IS-B [107] de 08/Mai/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1993-274463
+  date: '1993-03-31'
 article_structure:
   article_count: 31
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:21Z'
   warnings: []
   errors: []
 ---
@@ -136,17 +180,17 @@ j) Recolher e conservar todos os estudos, relatórios, projectos e outros docume
 
 a) De apoio instrumental:
 
-#### Secção de Serviços Administrativos;
+Secção de Serviços Administrativos;
 
 b) De carácter operativo:
 
-##### Divisão de Apoio Global ao Planeamento;
+Divisão de Apoio Global ao Planeamento;
 
-##### Divisão de Desenvolvimento Social;
+Divisão de Desenvolvimento Social;
 
-##### Divisão de Desenvolvimento Económico;
+Divisão de Desenvolvimento Económico;
 
-##### Divisão de Acompanhamento, Documentação e Informação Técnica.
+Divisão de Acompanhamento, Documentação e Informação Técnica.
 
 2 - A actividade dos núcleos de planeamento a que se refere o artigo 16.º do [Decreto Legislativo Regional n.º 21/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1983-668511), de 28 de Junho, exerce-se em estreita articulação com o DREPA.
 
@@ -342,7 +386,7 @@ O ingresso e o acesso nas carreiras de técnico superior e de técnico far-se-ã
 
 ###### Artigo 14.º — (Chefe de secção)
 
-**O chefe de secção será recrutado por concurso de entre os indivíduos habilitados com curso superior adequado ou de entre os funcionários ou agentes com a categoria de primeiro-oficial ou de categoria equivalente ou superior com, pelo menos, 3 anos de bom e efectivo serviço nas respectivas categorias.**
+O chefe de secção será recrutado por concurso de entre os indivíduos habilitados com curso superior adequado ou de entre os funcionários ou agentes com a categoria de primeiro-oficial ou de categoria equivalente ou superior com, pelo menos, 3 anos de bom e efectivo serviço nas respectivas categorias.
 
 ###### Artigo 15.º — (Carreira de oficiais administrativos)
 
@@ -444,14 +488,14 @@ A carreira de técnico auxiliar passa a designar-se de técnico auxiliar de plan
 
 Aprovado em Conselho do Governo Regional em 13 de Março de 1975.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Maio de 1985.**
+Assinado em Angra do Heroísmo em 3 de Maio de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro a que se refere o n.º 2 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/05/11500/13591364.pdf))](https://files.diariodarepublica.pt/1s/1985/05/11500/13591364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/05/11500/13591364.pdf)

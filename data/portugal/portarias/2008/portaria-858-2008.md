@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/15600/0560705607.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/858/2008/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/858-2008-455581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7795983fc11bb2b236f0e7bc83226ef91887ac99c8f81fd10ca52c2baadb6a5d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe2f34ad9bb7c75b6fee911ca68d9fc3052d9d615a6781082efd0345cf5927fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -91,16 +91,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1588/2007/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1588/2007/12/14/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642505:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:334905:por
+  label: "Revogada, a partir de 03.07.2010, a Port 485/2007, de 20-Abr, alterada pela presente portaria, pela PORT.416/2010.28.06.2010.MADRP,\
+    \ DR.IS [123] de 28.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/416-2010-334905
+  date: '2010-06-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:54Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +141,4 @@ Com fundamento no disposto no n.º 1 do artigo 28.º, em conjugação com o esti
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 29 de Julho de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 1 de Agosto de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15600/0560705607.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15600/0560705607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15600/0560705607.pdf)

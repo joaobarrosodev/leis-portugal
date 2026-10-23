@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2004/07/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2004-517631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0aa6d9293966966bc75781dbd75329d5c6270eaa7774d90f657637598ded5db1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f4a1bb8be4eebbab26f4f99613c640a9b28b1731e9ae65a6e2244c80337e175
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Carreira Técnica Superior de Inspecção
+- Açores
 - Administração Pública
+- Administração Regional
 - Carreira Profissional
+- Carreira Técnica Superior de Inspecção
+- Estágio de Formação
 - Fiscalização
-- Remuneração Acessória
-- Veículo
-- Segurança Rodoviária
-- Secretaria Regional da Habitação e Equipamentos
 - Pessoal de Inspecção
 - Pessoal Técnico de Inspecção
 - Pessoal Técnico Superior de Inspecção
-- Estágio de Formação
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 - Regime de Pessoal
 - Remuneração
-- Administração Regional
-- Açores
+- Remuneração Acessória
+- Secretaria Regional da Habitação e Equipamentos
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:280199:por
@@ -129,16 +129,71 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/115/2002/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/115/2002/02/08/p/dre
+- type: cites
+  target: pt:dre:197553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683040:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280199:por
+  label: "Revogado o DRR 12/98/A, de 06-Maio, na redacção do presente diploma, pelo DRR.4/2011/A.31.01.2011.PG-RAA, DR.IS\
+    \ [21] de 31.01.2011, na parte que se refere à orgânica e ao quadro do pessoal dirigente, de direcção específica e de\
+    \ chefia por ele aprovados e sem prejuízo do disposto no seu artigo 7º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2011-280199
+  date: '2011-01-31'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:53Z'
   warnings: []
   errors: []
 ---
@@ -399,22 +454,22 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 4 de Maio de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 8 de Junho de 2004.**
+Assinado em Angra do Heroísmo em 8 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — MAPA I
 
 (a que se refere o n.º 1 do artigo 10.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/07/153b00/40204026.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/07/153b00/40204026.pdf)](https://files.diariodarepublica.pt/1s/2004/07/153b00/40204026.pdf)
 
 MAPA II
 
 (a que se refere o n.º 2 do artigo 17.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/07/153b00/40204026.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/07/153b00/40204026.pdf)](https://files.diariodarepublica.pt/1s/2004/07/153b00/40204026.pdf)

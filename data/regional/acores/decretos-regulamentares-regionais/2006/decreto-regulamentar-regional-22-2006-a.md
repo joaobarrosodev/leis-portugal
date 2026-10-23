@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/2006/06/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2006-356346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80ecaf1c501485a6654c706ac51e649c9f51dc88648be057281b355bba062e46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e96a248039cfa7301e8f8592e757cc2a40a2a8c43f1a939a115b8ca92c69888e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
-- Pessoal Dirigente
-- Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico
-- Conselho Diretivo
-- Orgânica
-- Direcção Regional do Orçamento e Tesouro
-- Quadro de Pessoal
 - Açores
+- Conselho Diretivo
+- Direcção Regional do Orçamento e Tesouro
+- Fiscal Único
+- Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:191142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Determinada a transição, para a dependência do Secretário Regional do Turismo e Transportes, do Fundo Regional de\
+    \ Apoio à Coesão e ao Desenvolvimento Económico, anteriormente no âmbito da Secretaria Regional da Economia, pelo DRR.24/2012/A.27.11.2012.PG-RAA,\
+    \ DR.IS [229] de 27.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -98,16 +105,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:13Z'
   warnings: []
   errors: []
 ---
@@ -130,17 +157,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 4 de Maio de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 7 de Junho de 2006.**
+Assinado em Angra do Heroísmo em 7 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
 ## ANEXO I — Orgânica do Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico
 
-## TÍTULO I
+TÍTULO I
 
 Órgãos, serviços e suas competências
 
@@ -316,7 +343,9 @@ a) Divisão de Planeamento e Estatística;
 
 b) Secção Administrativa e Financeira.
 
-#### SECÇÃO I — Divisão de Planeamento e Estatística
+#### SECÇÃO I
+
+##### Divisão de Planeamento e Estatística
 
 ###### Artigo 15.º — Competências
 
@@ -350,7 +379,9 @@ m) Apurar mensalmente o montante das taxas de ISP que incidem sobre os combustí
 
 2 - A Divisão de Planeamento e Estatística é dirigida por um chefe de divisão, que depende directamente do conselho directivo.
 
-#### SECÇÃO II — Secção Administrativa e Financeira
+#### SECÇÃO II
+
+#### Secção Administrativa e Financeira
 
 ###### Artigo 16.º — Competências
 
@@ -428,7 +459,7 @@ As condições e regras de ingresso e acesso do pessoal do Fundo Regional de Coe
 
 O pessoal de direcção intermédia é provido de acordo com o disposto na [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com a redacção dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto.
 
-## TÍTULO II
+TÍTULO II
 
 Administração financeira
 
@@ -442,4 +473,4 @@ As disponibilidades do Fundo Regional de Coesão são obrigatoriamente depositad
 
 2 - A movimentação de valores relativos ao fundo de maneio processa-se mediante duas assinaturas, sendo uma da chefe de secção Administrativa e Financeira e a outra de um membro do conselho directivo.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/124b00/46284632.pdf))](https://files.diariodarepublica.pt/1s/2006/06/124b00/46284632.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/124b00/46284632.pdf)

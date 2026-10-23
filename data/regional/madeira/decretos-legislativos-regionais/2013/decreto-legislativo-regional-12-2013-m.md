@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2013/03/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39d463c7058bd9bee2a7a67015bad80924c5d0b223810688f868c403994cdb47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08eb0f4cc9609ed492733a77c7257eaf886e923fbf32eebb68f04a9a4d1751ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
 - Associação de Bombeiros Voluntários
-- Proteção Civil
-- Fiscal Único
+- Bombeiro
+- Conselho Consultivo
+- Conselho Diretivo
 - Definição de Competências
 - Direcção Regional de Florestas e Conservação da Natureza
-- Conselho Diretivo
-- Conselho Consultivo
-- Bombeiro
+- Fiscal Único
 - Iasaúde
-- Orgânica
-- Madeira.região Autónoma
-- Serviço Regional de Protecção Civil
 - Inspecção Regional de Bombeiros
+- Instituto da Segurança Social
+- Madeira.região Autónoma
+- Orgânica
+- Proteção Civil
+- Serviço Regional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:186869052:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186869052:por
+  label: Alterados os arts. 6.º, 10.º, 12.º, 13.º, 14.º e 21.º e aditado o art. 6.º-A à orgânica do Serviço Regional de Proteção
+    Civil, IP-RAM aprovada em anexo ao DLR 17/2009/M, de 30-jun, na versão alterada e republicada pelo presente diploma pelo(a)
+    Decreto Legislativo Regional n.º 17/2022/M - Diário da República n.º 147/2022, Série I de 2022-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2022-186869052
+  date: '2022-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/123/2012/06/20/p/dre
   label: null
@@ -105,16 +112,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:178817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544395:por
+  label: null
+  source: null
 article_structure:
-  article_count: 36
+  article_count: 26
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:39Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +176,9 @@ São alterados os artigos 1º, 3º, 5º, 6º, 7º, 8º, 10º, 11º, 12º e 13º,
 
 3 - O SRPC, IP-RAM rege-se pelo disposto no presente diploma e pelas normas aplicáveis do regime jurídico dos institutos públicos.
 
-###### Artigo 3º — [...]
+Artigo 3º
+
+[...]
 
 1 - ...
 
@@ -233,7 +258,9 @@ f)...
 
 g) Promover e incentivar todas as formas de auxílio ao cabal exercício da missão dos corpos de bombeiros e demais organizações que, na área do socorro e da emergência, integram o Dispositivo de Resposta Operacional da RAM.
 
-###### Artigo 5º — [...]
+Artigo 5º
+
+[...]
 
 São órgãos do SRPC, IP-RAM:
 
@@ -249,7 +276,9 @@ e)...
 
 f)...
 
-###### Artigo 6 º — Conselho diretivo
+Artigo 6 º
+
+Conselho diretivo
 
 1 - O conselho diretivo do Serviço Regional de Proteção Civil, IP-RAM é composto por um presidente, coadjuvado por um vogal, nos termos da Lei nº 3/2004, de 15 de janeiro, alterada e republicada pelo Decreto-Lei nº 5/2012, de 17 de janeiro, equiparados para todos os efeitos legais, a diretor e a subdiretor regionais, cargos de direção superior de 1º grau e 2º grau, respetivamente, a designar por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Assuntos Sociais, na sequência de procedimento concursal.
 
@@ -283,11 +312,15 @@ d) Assegurar as relações com os órgãos da tutela e com os demais organismos 
 
 9 - (Revogado.)
 
-###### Artigo 7º — [...]
+Artigo 7º
+
+[...]
 
 O fiscal único é o único órgão responsável pelo controlo da legalidade, da regularidade e boa gestão financeira e patrimonial do SRPC, IP-RAM, sendo designado por despacho dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, nos termos da Lei nº 3/2004, de 15 de janeiro, alterada e republicada pelo Decreto-Lei nº 5/2012, de 17 de janeiro e alterada pelo Decreto-Lei nº 123/2012, de 20 de junho.
 
-###### Artigo 8º — [...]
+Artigo 8º
+
+[...]
 
 1 - A Inspeção Regional de Bombeiros é o órgão do SRPC, IP-RAM, ao qual compete coordenar, acompanhar e fiscalizar, a nível regional, a atividade dos corpos de bombeiros no domínio da proteção civil e do socorro, nomeadamente:
 
@@ -343,7 +376,9 @@ k) [Anterior alínea l)]
 
 l) [Anterior alínea m)]
 
-###### Artigo 9º — Poderes de autoridade
+Artigo 9º
+
+Poderes de autoridade
 
 1 - ...
 
@@ -359,7 +394,9 @@ e)...
 
 2 - ...
 
-###### Artigo 10º — [...]
+Artigo 10º
+
+[...]
 
 1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do SRPC, IP-RAM e nas tomadas de decisão do conselho diretivo.
 
@@ -399,13 +436,17 @@ o) [Anterior alínea p)];
 
 p) [Anterior alínea q)].
 
-###### Artigo 11º — [...]
+Artigo 11º
+
+[...]
 
 1 - ...
 
 2 - A constituição e as atribuições do CCOR são as que se encontram definidas no Decreto Legislativo Regional nº 16/2009/M, de 30 de junho, que aprova o regime jurídico do sistema regional de proteção civil da Região Autónoma da Madeira.
 
-###### Artigo 12º — [...]
+Artigo 12º
+
+[...]
 
 1 - ...
 
@@ -417,7 +458,9 @@ p) [Anterior alínea q)].
 
 5 - As normas de funcionamento do SEMER serão objeto de um regulamento interno, de natureza estritamente técnica, a aprovar por despacho do presidente do conselho diretivo do SRPC, IP-RAM, sob proposta do coordenador do SEMER e homologado pelo membro do Governo Regional com a tutela da proteção civil.
 
-###### Artigo 13º — [...]
+Artigo 13º
+
+[...]
 
 1 - ...
 
@@ -463,11 +506,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 19 de fevereiro de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 6 de março de 2013.**
+Assinado em 6 de março de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

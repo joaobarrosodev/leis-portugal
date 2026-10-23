@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2007/04/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2007-520052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c977a028f2232305ce794840147eaa9db62dfbc7f3f21355829a038cab7d3d35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96571a30989625b66a82c0208aff251b1c90ca426a8bebc98b764ddbc562a98d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Angra do Heroísmo
-- ILHA Terceira
-- Ordenamento do Território
-- Medidas Preventivas
-- Política de Solos
-- Estabelecimento Hospitalar
 - Açores
+- Angra do Heroísmo
 - ÁREA NON Aedificandi
+- Estabelecimento Hospitalar
+- ILHA Terceira
+- Medidas Preventivas
+- Ordenamento do Território
+- Política de Solos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2006/06/02/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/17/2006/06/02/a/dre
+- type: cites
+  target: pt:dre:353538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:42Z'
   warnings: []
   errors: []
 ---
@@ -153,12 +161,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado, por unanimidade, pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 13 de Fevereiro de 2007.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 21 de Março de 2007.**
+Assinado em Angra do Heroísmo em 21 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/06900/22282229.pdf))](https://files.diariodarepublica.pt/1s/2007/04/06900/22282229.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/06900/22282229.pdf)

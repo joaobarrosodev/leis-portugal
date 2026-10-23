@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/1995/05/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1995-514444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80231b79d6d2f54a64e36f8af43d233536135bee5ab03118bf58af9d1ee70a78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c127eff56b05252b6845fd0bf6aab40a20e0b9270cb4159f0fa327be7950dbe8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ subjects:
 - Acidente de Trabalho
 - Caixa Nacional de Seguros de Doenças Profissionais
 - Centro Regional de Segurança Social
-- Multa
-- Higiene do Trabalho
+- Condições de Higiene e Segurança no Trabalho
 - Contra-ordenação
 - Definição de Competências
 - Direcção Regional do Trabalho
-- Segurança no Trabalho
-- Fiscalização
 - Doença Profissional
-- Madeira.região Autónoma
 - Estatística
-- Condições de Higiene e Segurança no Trabalho
+- Fiscalização
+- Higiene do Trabalho
 - Inspecção Regional do Trabalho
+- Madeira.região Autónoma
+- Multa
+- Segurança no Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/362/1993/10/15/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:170477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668521:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:07Z'
   warnings: []
   errors: []
 ---
@@ -124,32 +144,32 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º É aplicável no âmbito da Região Autónoma da Madeira o [Decreto-Lei n.º 362/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1993-668521), de 15 de Outubro, que estabelece as regras relativas à informação estatística sobre acidentes de trabalho, com as adaptações constantes dos artigos seguintes.
+Artigo 1.º É aplicável no âmbito da Região Autónoma da Madeira o [Decreto-Lei n.º 362/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1993-668521), de 15 de Outubro, que estabelece as regras relativas à informação estatística sobre acidentes de trabalho, com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º - 1 - As entidades seguradoras devem remeter à Divisão de Estatística da Direcção Regional do Trabalho, até ao dia 15 de cada mês, um exemplar de cada uma das participações de acidentes de trabalho que lhes tenham sido dirigidas no decurso do mês anterior, referentes aos acidentes ocorridos nesta Região Autónoma.
+Art. 2.º - 1 - As entidades seguradoras devem remeter à Divisão de Estatística da Direcção Regional do Trabalho, até ao dia 15 de cada mês, um exemplar de cada uma das participações de acidentes de trabalho que lhes tenham sido dirigidas no decurso do mês anterior, referentes aos acidentes ocorridos nesta Região Autónoma.
 
 2 - O disposto no número anterior é igualmente aplicável aos serviços da Administração Pública, regional e local, aos institutos públicos e às demais entidades públicas ou privadas a quem seja reconhecida, nos termos legais, capacidade económica para, por conta própria, cobrir os riscos de acidentes de trabalho, quando envolvam trabalhadores ou funcionários que exerçam actividade nesta Região Autónoma.
 
-###### Art. 3.º - 1 - A Caixa Nacional de Seguros e Doenças Profissionais facultará à Divisão de Estatística da Direcção Regional do Trabalho, no 1.º mês de cada trimestre, cópia do mapa das doenças profissionais que lhe tenham sido participadas ou de que tenha tomado conhecimento directo no decurso do trimestre anterior, referentes a situações ocorridas no âmbito desta Região Autónoma.
+Art. 3.º - 1 - A Caixa Nacional de Seguros e Doenças Profissionais facultará à Divisão de Estatística da Direcção Regional do Trabalho, no 1.º mês de cada trimestre, cópia do mapa das doenças profissionais que lhe tenham sido participadas ou de que tenha tomado conhecimento directo no decurso do trimestre anterior, referentes a situações ocorridas no âmbito desta Região Autónoma.
 
 2 - O disposto no número anterior é igualmente aplicável aos serviços da Administração Pública, regional e local, e aos institutos públicos no que se reporte a trabalhadores em actividade nesta Região Autónoma.
 
-###### Art. 4.º A fiscalização do disposto neste diploma e no [Decreto-Lei n.º 362/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1993-668521), de 15 de Outubro, bem como o processamento das contra-ordenações e a aplicação das respectivas coimas, compete, no âmbito desta Região Autónoma, à Inspecção Regional do Trabalho.
+Art. 4.º A fiscalização do disposto neste diploma e no [Decreto-Lei n.º 362/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1993-668521), de 15 de Outubro, bem como o processamento das contra-ordenações e a aplicação das respectivas coimas, compete, no âmbito desta Região Autónoma, à Inspecção Regional do Trabalho.
 
-###### Art. 5.º Nos termos do artigo 4.º do [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, na redacção dada pelo [Decreto-Lei n.º 255/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1989-619319), de 10 de Agosto, e demais legislação aplicável, o produto das coimas reverte, nesta Região Autónoma, para as seguintes entidades:
+Art. 5.º Nos termos do artigo 4.º do [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, na redacção dada pelo [Decreto-Lei n.º 255/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1989-619319), de 10 de Agosto, e demais legislação aplicável, o produto das coimas reverte, nesta Região Autónoma, para as seguintes entidades:
 
 a) 35% para o Centro Regional de Segurança Social da Madeira;
 
 b) 65% para o orçamento da Região.
 
-###### Art. 6.º O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 10 de Março de 1995.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 3 de Abril de 1995.**
+Assinado em 3 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

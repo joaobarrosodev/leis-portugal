@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2010/09/18400/0415304154.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2010/09/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2010-342079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d91a00c066d5118a32efda6e5cd42160a20619fd4d4995ad290db93077bb57bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fde3d938400015d8cf3666eac76107038616eace45919f3b66d30cd7bb426c0b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão Financeira
-- Governo Regional
+- Açores
 - Criação de Serviços
 - Definição de Competências
 - Direcção Regional de Ordenamento do Território e Recursos Hídricos
 - Direcção Regional do Ambiente
 - Direcção Regional dos Assuntos do MAR
 - Extinção de Serviços
-- Secretaria Regional do Ambiente e do MAR
+- Gestão Financeira
+- Governo Regional
 - Integração de Trabalhadores
 - Orgânica
+- Secretaria Regional do Ambiente e do MAR
 - Secretário Regional do Ambiente e do MAR
-- Açores
 - Transferência de Competências
 - Transferência Patrimonial
 relationships:
@@ -86,6 +86,21 @@ relationships:
   target: pt:dre:191142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673405:por
+  label: "Alterado o art. 17º do DRR 25/2008/A, de 31-Dez, na redacção do presente diploma, procedendo à extinção, no âmbito\
+    \ da Secretaria Regional do Trabalho e Solidariedade Social, da Direcção Regional da Igualdade de Oportunidades, e da\
+    \ transferência das suas competências, efectivos, direitos e obrigações para a Direcção Regional da Solidariedade e Segurança\
+    \ Social, pelo DRR.14/2011/A.06.06.2011.PG-RAA, DR.IS [109] de 06.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2011-673405
+  date: '2011-06-06'
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Substituída, a partir de 02.12.2012, com efeitos a à data da posse do XI Governo Regional dos Açores (06.11.2012),\
+    \ a estrutura orgânica constante do DRR 25/2008/A de 31-dez, alterado pelo presente diploma, pelo DRR.24/2012/A.27.11.2012.PG-RAA,\
+    \ DR.IS [229] de 27.11.2012, nos termos do disposto no seu art. 15º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/2005/05/09/a/dre
   label: null
@@ -110,16 +125,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:44Z'
   warnings: []
   errors: []
 ---
@@ -218,10 +257,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de Setembro de 2010.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 10 de Setembro de 2010.**
+Assinado em Angra do Heroísmo em 10 de Setembro de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13000/43674369.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/767/2007/07/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/767-2007-636183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10e035c0fca6b7717ea874b14183e32009b648c9af7b816bb9c8d2c52e64ffec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8acd14788c1eeefa7d08d64ca4c3c895437a1b40c03322581d1f777d2cef6fb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,28 +73,39 @@ subjects:
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Documento de Transporte
 - Documento Eletrónico
-- Página na Internet
 - Governo Electrónico
 - Internet
+- Página na Internet
 relationships:
 - type: amended_by
   target: pt:dre:258677:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:258677:por
+  label: "Mantida em vigor, pela DEC LEI.21/2013.15.02.2013.MF, DR.IS [33] de 15.02.2013, nos termos do nº 2 do seu art. 6º.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-2013-258677
+  date: '2013-02-15'
 - type: cites
   target: celex:31992R2913
   label: null
   source: http://data.europa.eu/eli/reg/1992/2913/oj
+- type: repealed_by
+  target: pt:dre:55021041:por
+  label: Revogada, a partir de 25.07.2014, pelo(a) Portaria n.º 149/2014 - Diário da República n.º 141/2014, Série I de 2014-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-2014-55021041
+  date: '2014-07-24'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:48Z'
   warnings: []
   errors: []
 ---
@@ -221,4 +232,4 @@ Com a entrada em vigor da presente portaria, ficam revogados os Despachos Normat
 
 A presente portaria entra em vigor no 1.º dia útil seguinte à data da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 20 de Junho de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 20 de Junho de 2007.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/2011/08/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2011-669860
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27a384dbe35bbbb8056cee59a8b52fb1f1c54292ded2701a3c468cd033f9b624
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd66e603929c3929e835f713985f23a27f28c64dbb6ba94b33b2bae746b1f5a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
-- Reestruturação de Serviços
+- Açores
 - Conservatório Regional
 - Dotação Orçamental
+- Ensino Artístico
+- Ensino Básico
+- Estabelecimento de Ensino
 - Extinção de Serviços
 - Gestão Escolar
 - Horta
 - Integração de Trabalhadores
-- Pessoal não Docente
-- Estabelecimento de Ensino
 - Pessoal Docente
-- Ensino Básico
+- Pessoal não Docente
 - Quadro de Pessoal
-- Açores
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:178832:por
@@ -100,16 +100,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/14/2007/07/13/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/14/2007/07/13/a/dre
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636073:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:671585:por
+  label: "Rectificado o sumário [na parte onde se lê «Integra a Escola Básica Integrada da Horta no Conservatório Regional\
+    \ da Horta» deve ler-se «Extingue o Conservatório Regional da Horta, integrando-o na Escola Básica Integrada da Horta»\
+    \ pela DECL-RECT.28/2011.23.08.2011.PCM, DR.IS [161] de 23.08.2011\011\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/28-2011-671585
+  date: '2011-08-23'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:52Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +181,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 11 de Julho de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 1 de Agosto de 2011.**
+Assinado em Angra do Heroísmo em 1 de Agosto de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -170,4 +193,4 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Unidade orgânica - EBI da Horta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/15300/0423004231.pdf))](https://files.diariodarepublica.pt/1s/2011/08/15300/0423004231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/15300/0423004231.pdf)

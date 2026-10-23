@@ -46,36 +46,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/4-1980-678425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2839ec40441f81090db3ccbc583f798c018f2f6e422974c477f2de456b0a809c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d14173a47b55c1fb956bae08649ee6c1c28bb48f9838b63c73730549a070047
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Construção Civil
+- JURO Bonificado
+- Sismo
+relationships:
+- type: cites
+  target: pt:dre:678860:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:13Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +102,9 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, alíneas a) e b), da Constituição, o seguinte:
 
-###### Artigo 1.º Este diploma destina-se a estabelecer princípios e regulamentações sobre financiamentos bonificados para reconstrução e aquisição de habitação nas zonas da região afectadas pelo sismo de 1 de Janeiro de 1980.
+Artigo 1.º Este diploma destina-se a estabelecer princípios e regulamentações sobre financiamentos bonificados para reconstrução e aquisição de habitação nas zonas da região afectadas pelo sismo de 1 de Janeiro de 1980.
 
-###### Art. 2.º - 1 - Podem beneficiar dos financiamentos bonificados referidos no artigo 1.º os proprietários de imóveis ou arrendatários com classificação de desalojados certificada pelo Governo Regional.
+Art. 2.º - 1 - Podem beneficiar dos financiamentos bonificados referidos no artigo 1.º os proprietários de imóveis ou arrendatários com classificação de desalojados certificada pelo Governo Regional.
 
 2 - Para os efeitos do número anterior, consideram-se:
 
@@ -116,13 +124,13 @@ Obras de reconstrução;
 
 Obras de reparação.
 
-###### Art. 3.º - 1 - Em caso de incapacidade ou ausência sem representação do interessado, tem legitimidade para requerer o financiamento qualquer parente sucessível do mesmo ou o Ministério Público.
+Art. 3.º - 1 - Em caso de incapacidade ou ausência sem representação do interessado, tem legitimidade para requerer o financiamento qualquer parente sucessível do mesmo ou o Ministério Público.
 
 2 - O disposto no número anterior entende-se sem prejuízo da legitimidade legal para outorga no contrato.
 
-###### Art. 4.º Consideram-se habitações os locais utilizados ou utilizáveis para moradias e para o exercício de actividades associativas.
+Art. 4.º Consideram-se habitações os locais utilizados ou utilizáveis para moradias e para o exercício de actividades associativas.
 
-###### Art. 5.º - 1 - O conceito de reconstrução entende-se como:
+Art. 5.º - 1 - O conceito de reconstrução entende-se como:
 
 a) Reparação, quando o valor actual do edifício, ou da parte dele que tiver utilização independente, for superior ao das obras que num ou noutra devem efectuar-se;
 
@@ -130,7 +138,7 @@ b) Reedificação, quando o valor actual do edifício, ou da parte dele que tive
 
 2 - No cômputo dos valores referidos no número anterior não se inclui o do terreno.
 
-###### Art. 6.º - 1 - Entendem-se por obras que no edifício sinistrado devem efectuar-se:
+Art. 6.º - 1 - Entendem-se por obras que no edifício sinistrado devem efectuar-se:
 
 a) As que resultem de reconstituição do mesmo edifício, em condições de solidez, higiene e sanidade, conforme projecto aprovado;
 
@@ -138,32 +146,32 @@ b) As que resultem de modificações do edifício para além dos limites referid
 
 2 - Quanto às obras em execução ou executadas à data da entrada em vigor deste diploma, pode, para efeitos de financiamento bonificado, ser dispensado o projecto se, por vistoria, forem verificadas as exigências referidas na alínea a) do número anterior.
 
-###### Art. 7.º Os proprietários não residentes nas zonas sinistradas só poderão beneficiar da bonificação suportada pelo Governo Regional desde que venham ocupar as suas residências reconstruídas, lhes cedam gratuitamente o uso ou as dêem de arrendamento nos termos da legislação nacional e regional, em qualquer caso pelo período mínimo de cinco anos.
+Art. 7.º Os proprietários não residentes nas zonas sinistradas só poderão beneficiar da bonificação suportada pelo Governo Regional desde que venham ocupar as suas residências reconstruídas, lhes cedam gratuitamente o uso ou as dêem de arrendamento nos termos da legislação nacional e regional, em qualquer caso pelo período mínimo de cinco anos.
 
-###### Art. 8.º O cálculo da capitação do rendimento para fins de determinação de taxa de juro bonificado efectua-se dividindo o total dos rendimentos ilíquidos anuais, qualquer que seja a sua origem, pelo número de elementos do agregado familiar, sem prejuízo de poder ser introduzido um factor correctivo para os casos dos isolados ou dos agregados constituídos por duas pessoas.
+Art. 8.º O cálculo da capitação do rendimento para fins de determinação de taxa de juro bonificado efectua-se dividindo o total dos rendimentos ilíquidos anuais, qualquer que seja a sua origem, pelo número de elementos do agregado familiar, sem prejuízo de poder ser introduzido um factor correctivo para os casos dos isolados ou dos agregados constituídos por duas pessoas.
 
-###### Art. 9.º Tratando-se de indivíduos momentaneamente inactivos, ou com rendimentos diminuídos em consequência do sismo, o cálculo far-se-á com base nos rendimentos razoavelmente previsíveis.
+Art. 9.º Tratando-se de indivíduos momentaneamente inactivos, ou com rendimentos diminuídos em consequência do sismo, o cálculo far-se-á com base nos rendimentos razoavelmente previsíveis.
 
-###### Art. 10.º Para os efeitos de determinação da capitação de rendimento, entende-se por agregado familiar:
+Art. 10.º Para os efeitos de determinação da capitação de rendimento, entende-se por agregado familiar:
 
 a) Os parentes ou afins do beneficiário que com ele residam habitualmente, ainda que, por razões de estudo, de doença ou de dever funcional tenham de passar temporadas a viver noutro lugar;
 
 b) Outras pessoas que convivam com o beneficiário com carácter de permanência, sem prestação de serviços, em regime de economia comum.
 
-###### Art. 11.º - 1 - As falsas declarações prestadas em qualquer fase da instrução do processo de obtenção do financiamento acarretam o arquivamento do processo antes da sua remessa à instituição bancária.
+Art. 11.º - 1 - As falsas declarações prestadas em qualquer fase da instrução do processo de obtenção do financiamento acarretam o arquivamento do processo antes da sua remessa à instituição bancária.
 
 2 - Se se provar que não houve culpa grave do interessado, poderá o mesmo voltar a requerer o financiamento.
 
 3 - Se as falsas declarações forem dolosas e se se tiver já verificado a remessa do processo à instituição bancária, cessará a bonificação concedida pelo Governo Regional, o qual poderá ainda obter do infractor o reembolso da importância correspondente à bonificação já efectivamente suportada.
 
-###### Art. 12.º As dúvidas suscitadas na interpretação do presente diploma serão decididas por resolução do Governo Regional.
+Art. 12.º As dúvidas suscitadas na interpretação do presente diploma serão decididas por resolução do Governo Regional.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 11 de Março de 1980.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 13 de Março de 1980.**
+Assinado em Angra do Heroísmo em 13 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para os Açores, Henrique Afonso da Silva Horta.**
+O Ministro da República para os Açores, Henrique Afonso da Silva Horta.

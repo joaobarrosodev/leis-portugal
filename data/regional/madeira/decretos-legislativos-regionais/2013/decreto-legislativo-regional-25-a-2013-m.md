@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 143/2013, 2º Suplemento, Série I de 2013-07-26
   number: '143'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4430-(4) a 4430-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2013/07/14302/0000400008.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/25-a/2013/07/26/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-a-2013-292691
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4dbe01818445ce4e29e054c996d0b1b73b27b1f236138d3c56b35057a3d6ada
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2360d5e2e736d9d91b00afeb6336de6119eec6a5756d4a202f1c7cbb0aa4bf36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Aeroportos
 - Aeroporto
 - ANAM
-- Sociedade Anónima
-- Governo Regional
 - Contrapartida
+- Contratação Pública
 - Contrato Administrativo
 - Contrato de Concessão
 - Definição de Competências
 - Domínio Público Aeroportuário
+- Governo Regional
 - Madeira.região Autónoma
-- Administração de Aeroportos
 - Regime Jurídico
-- Contratação Pública
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/131/2010/12/14/p/
@@ -120,16 +120,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/66-b/2012/12/31/p/dre
+- type: cites
+  target: pt:dre:179776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:43Z'
   warnings: []
   errors: []
 ---
@@ -244,11 +288,11 @@ b) O Decreto Legislativo Regional nº 7/2000/M, de 1 de março, alterado pelo De
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de julho de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 23 de julho de 2013.**
+Assinado em 23 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -260,10 +304,10 @@ A. Aeroporto da Madeira
 
 (Plantas do aeroporto - Anexos A.1, A.2, A.3 e A.4)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14302/0000400008.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14302/0000400008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14302/0000400008.pdf)
 
 B. Aeroporto do Porto Santo
 
 (Planta do aeroporto - Anexo B)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/07/14302/0000400008.pdf))](https://files.diariodarepublica.pt/1s/2013/07/14302/0000400008.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/07/14302/0000400008.pdf)

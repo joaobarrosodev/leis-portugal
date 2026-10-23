@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/1993/03/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1993-635227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cce7b6631002ce2a03294f56ab623dcc4b73638ee945cc9b26c824375b8a48f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3da065660a1e7dfec20a03f33088e5944d53c10d508ba54cfa8dff7a7667a124
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ILHA de são Miguel
-- Regime Florestal
-- Rede de Estradas
 - Açores
-relationships: []
+- ILHA de são Miguel
+- Rede de Estradas
+- Regime Florestal
+relationships:
+- type: cites
+  target: pt:dre:638694:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:25Z'
   warnings: []
   errors: []
 ---
@@ -116,12 +120,12 @@ O corte de arvoredo, se necessário, bem como a eventual venda dos produtos dele
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Janeiro de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 15 de Fevereiro de 1993.**
+Assinado em Angra do Heroísmo em 15 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/062a00/12091209.pdf))](https://files.diariodarepublica.pt/1s/1993/03/062a00/12091209.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/062a00/12091209.pdf)

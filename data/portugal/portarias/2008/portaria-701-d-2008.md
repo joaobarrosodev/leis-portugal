@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 145/2008, 1º Suplemento, Série I de 2008-07-29
   number: '145'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5106-(15) a 5106-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14501/0001500018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/701-d/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/701-d-2008-575337
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8896f8d21b2ded9817ca20771b256bb8834c783094ee6e3e459c259b9720ab44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75dbf8c70a6c74348102181260e8bcc31764c748956ee592dd34ff05edbeefbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects:
 - Agência Nacional de Compras Públicas
 - Aquisição de Bens e Serviços
-- Instituto da Construção e do Imobiliário
-- Contrato
-- Contrato Administrativo
-- Empreitada de Obras Públicas
-- Dados Estatísticos
-- Locação Financeira
-- Obras Públicas
 - Código dos Contratos Públicos
 - Contratação Pública
+- Contrato
+- Contrato Administrativo
+- Dados Estatísticos
+- Empreitada de Obras Públicas
+- Instituto da Construção e do Imobiliário
+- Locação Financeira
+- Obras Públicas
 relationships:
 - type: amended_by
   target: pt:dre:108086621:por
@@ -101,16 +101,22 @@ relationships:
   target: celex:32008R0213
   label: null
   source: http://data.europa.eu/eli/reg/2008/213/oj
+- type: repealed_by
+  target: pt:dre:108086621:por
+  label: Revogada pelo(a) Decreto-Lei n.º 111-B/2017 - Diário da República n.º 168/2017, 2º Suplemento, Série I de 2017-08-31,
+    nos termos do disposto nos seus arts. 12.º e 13.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-b-2017-108086621
+  date: '2017-08-31'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:56Z'
   warnings: []
   errors: []
 ---
@@ -163,10 +169,10 @@ A presente portaria entra em vigor na data da entrada em vigor do Código dos Co
 
 Em 25 de Julho de 2008.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.
 
 ## ANEXO — (a que se refere o n.º 3 do artigo 2.º)
 
 Modelo de dados estatísticos referentes a contratos de aquisição e locação de bens e de aquisição de serviços
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14501/0001500018.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14501/0001500018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14501/0001500018.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/07200/05980600.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/5-1978-447097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ad034d692e4d92324e790d28a4b7a844c969675b8200fca8e66966f8179be87
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e431bb0ebb060877e312e5a899e47416991cd41fbeb9af57f60a84ccca699d84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Conselho Nacional do Plano
+- Orgânica
+- Plano Económico
+- Plano Económico e Social
+- Plano Regional
 relationships:
 - type: amended_by
   target: pt:dre:660166:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:381998:por
+  label: Alterados os arts. 11.º e 12.º pelo DRG.9/79/A.1979.04.09.ARA, DR.IS [95] de 24.04.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/9-1979-381998
+  date: '1979-04-09'
+- type: cites
+  target: pt:dre:251995:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:668511:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 21/83/A - Diário da República n.º 146/1983, 1º Suplemento, Série
+    I de 1983-06-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-1983-668511
+  date: '1983-06-28'
 article_structure:
   article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:53Z'
   warnings: []
   errors: []
 ---
@@ -220,10 +241,10 @@ A Assembleia Regional votará a proposta de plano ou planos que lhe forem aprese
 
 Aprovado pela Assembleia Regional dos Açores em 17 de Fevereiro de 1978.
 
-**O Presidente da Assembleia Regional, Álvaro P. da Silva Leal Monjardino.**
+O Presidente da Assembleia Regional, Álvaro P. da Silva Leal Monjardino.
 
-**Assinado em 13 de Março de 1978.**
+Assinado em 13 de Março de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16500/26632664.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1983-453799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f7435fee2f787a2e8d82bd0242466f839b251466a8c01e46da8c9ae9693552e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2a1d7a8487a4f30d44701a1fe47c2a6c33409f8c231d4495e40e6bf800843b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Regional
+- Concurso
+- Gestão de Recursos Humanos
+- Madeira.região Autónoma
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:609669:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392864:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:609669:por
+  label: "Revogado pelo DLR.14/89/M.1989.05.17.ARM, DR.IS [129] de 06/Jun/1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-1989-609669
+  date: '1989-05-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:50Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +118,9 @@ Considerando, enfim, o disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 17
 
 Nos termos da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional da Madeira decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º Aplica-se, pelo presente diploma, à administração regional autónoma o [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, com as alterações e adaptações constantes do artigo seguinte.
+Artigo 1.º Aplica-se, pelo presente diploma, à administração regional autónoma o [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, com as alterações e adaptações constantes do artigo seguinte.
 
-###### Art. 2.º É eliminado o n.º 7 do artigo 12.º do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, e são alteradas, com as devidas adaptações, as disposições dos artigos 4.º, 7.º, 12.º, 14.º, 15.º, 18.º, 24.º e 27.º do mesmo diploma legal, que passarão a ter a redacção seguinte:
+Art. 2.º É eliminado o n.º 7 do artigo 12.º do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, e são alteradas, com as devidas adaptações, as disposições dos artigos 4.º, 7.º, 12.º, 14.º, 15.º, 18.º, 24.º e 27.º do mesmo diploma legal, que passarão a ter a redacção seguinte:
 
 ###### ARTIGO 4.º — (Plano anual de efectivos)
 
@@ -198,10 +220,10 @@ As dúvidas suscitadas pela aplicação e execução do presente diploma serão 
 
 Aprovado em sessão plenária em 14 de Junho de 1983.
 
-**O Presidente da Assembleia, Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia, Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 29 de Junho de 1983.**
+Assinado em 29 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

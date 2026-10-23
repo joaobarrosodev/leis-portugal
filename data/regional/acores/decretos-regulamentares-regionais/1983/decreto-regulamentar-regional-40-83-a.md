@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/09/20200/30953096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1983-439420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19ab3b8c84ea93473fa099d173f6cda6a903922722e5f5cdb2fec35afa7ea8b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4de60991d823ebd5f1209820b0e21f6e657579a9121f0b86f527babfae364462
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ensino Preparatório
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:636073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508641:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:02Z'
   warnings: []
   errors: []
 ---
@@ -97,40 +153,40 @@ Tendo em atenção as disposições do [Decreto-Lei n.º 47480](https://diarioda
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criada e entra em funcionamento no ano lectivo de 1983-1984 a Escola Preparatória dos Biscoitos, na ilha Terceira, cujos quadros de pessoal docente, administrativo e auxiliar constam dos mapas I, II e III, anexos ao presente diploma.
+Artigo 1.º - 1 - É criada e entra em funcionamento no ano lectivo de 1983-1984 a Escola Preparatória dos Biscoitos, na ilha Terceira, cujos quadros de pessoal docente, administrativo e auxiliar constam dos mapas I, II e III, anexos ao presente diploma.
 
 2 - Nos termos do [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967, funcionará igualmente o curso geral do ensino secundário unificado.
 
-###### Art. 2.º O provimento do pessoal docente far-se-á nos termos do [Decreto-Lei n.º 258/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1980-470376), de 31 de Julho, respeitando as regras de competência das entidades regionais.
+Art. 2.º O provimento do pessoal docente far-se-á nos termos do [Decreto-Lei n.º 258/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1980-470376), de 31 de Julho, respeitando as regras de competência das entidades regionais.
 
-###### Art. 3.º O pessoal administrativo integra-se no quadro único a que se refere o artigo 1.º do Decreto Regulamentar Regional n.º 17/81/A, de 25 de Fevereiro, aplicando-se as disposições do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), de 24 de Julho.
+Art. 3.º O pessoal administrativo integra-se no quadro único a que se refere o artigo 1.º do Decreto Regulamentar Regional n.º 17/81/A, de 25 de Fevereiro, aplicando-se as disposições do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), de 24 de Julho.
 
-###### Art. 4.º O pessoal operário e auxiliar regula-se pelo [Decreto Regulamentar Regional n.º 25/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1981-388990), de 15 de Abril, e legislação complementar, bem como pelas normas dos Decretos Regulamentares Regionais n.os [21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909) e [44/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1980-461857), respectivamente de 14 de Maio e 23 de Setembro, e demais legislação subsequente.
+Art. 4.º O pessoal operário e auxiliar regula-se pelo [Decreto Regulamentar Regional n.º 25/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1981-388990), de 15 de Abril, e legislação complementar, bem como pelas normas dos Decretos Regulamentares Regionais n.os [21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909) e [44/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1980-461857), respectivamente de 14 de Maio e 23 de Setembro, e demais legislação subsequente.
 
-###### Art. 5.º São transferidos para a Escola Preparatória dos Biscoitos os processos dos alunos que, por força do redimensionamento da rede, deixarão de frequentar as outras escolas da ilha Terceira.
+Art. 5.º São transferidos para a Escola Preparatória dos Biscoitos os processos dos alunos que, por força do redimensionamento da rede, deixarão de frequentar as outras escolas da ilha Terceira.
 
-###### Art. 6.º Os encargos resultantes da execução do presente diploma serão suportados no corrente ano económico por verbas consignadas ou a consignar no orçamento da Região Autónoma dos Açores, expressamente destinados ao funcionamento dos CPTV e das escolas preparatórias.
+Art. 6.º Os encargos resultantes da execução do presente diploma serão suportados no corrente ano económico por verbas consignadas ou a consignar no orçamento da Região Autónoma dos Açores, expressamente destinados ao funcionamento dos CPTV e das escolas preparatórias.
 
-###### Art. 7.º O presente diploma entra imediatamente em vigor.
+Art. 7.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 30 de Junho de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em 17 de Agosto de 1983.**
+Assinado em 17 de Agosto de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/20200/30953096.pdf))](https://files.diariodarepublica.pt/1s/1983/09/20200/30953096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/20200/30953096.pdf)
 
 MAPA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/20200/30953096.pdf))](https://files.diariodarepublica.pt/1s/1983/09/20200/30953096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/20200/30953096.pdf)
 
 MAPA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/09/20200/30953096.pdf))](https://files.diariodarepublica.pt/1s/1983/09/20200/30953096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/09/20200/30953096.pdf)

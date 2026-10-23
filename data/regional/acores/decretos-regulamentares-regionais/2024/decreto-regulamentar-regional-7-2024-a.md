@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/07/12500/0001400024.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2024/07/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-870449286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa416f541b3f0e305959188eec1440973a30518d5af6b934f0e747ace685b0f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d818156977254cb5f855548d50cac02c03939ee128c261441bda569d7e1af876
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Regulamentação de Atos Legislativos
-- Política Energética
-- Auxílio de Minimis
+- Açores
 - Apoio ao Investimento
+- Auxílio de Minimis
+- Eficiência Energética
+- Financiamento
 - Mobilidade Elétrica
+- Política de Transportes
+- Política Energética
+- Regulamentação de Atos Legislativos
 - Veículo
 - Veículo Elétrico
-- Política de Transportes
-- Açores
-- Eficiência Energética
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:4/2021/A
+  label: Altera, a partir de 2 de julho de 2024, nos termos do artigo 3.º do presente diploma, os artigos 3.º, 8.º e 13.º
+    do Decreto Regulamentar Regional n.º 4/2021/A, de 26 de abril, Diário da República n.º 80/2021, Série I, que é republicado
+  source: null
+  date: '2021-04-26'
 - type: cites
   target: celex:32013R1408
   label: null
@@ -124,16 +130,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/4/2021/04/26/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/4/2021/04/26/a/dre
+- type: cites
+  target: pt:dre:123815991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128515585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162067645:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224797146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2980574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655300:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:04Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +238,7 @@ d) [...]
 
 ###### Artigo 13.º — [...]
 
-1 - O incentivo, quando atribuído a pessoa coletiva de direito privado, não pode exceder os limites previstos no âmbito dos Regulamentos (UE) n.<sup>os</sup>[1408/2013](https://data.europa.eu/eli/reg/2013/1408/oj?locale=pt) da Comissão, de 18 de dezembro, [717/2014](https://data.europa.eu/eli/reg/2014/717/oj?locale=pt), da Comissão, de 27 de junho, e [2023/2831](https://data.europa.eu/eli/reg/2023/2831/oj?locale=pt) da Comissão, de 13 de dezembro, relativos à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.
+1 - O incentivo, quando atribuído a pessoa coletiva de direito privado, não pode exceder os limites previstos no âmbito dos Regulamentos (UE) n.os[1408/2013](https://data.europa.eu/eli/reg/2013/1408/oj?locale=pt) da Comissão, de 18 de dezembro, [717/2014](https://data.europa.eu/eli/reg/2014/717/oj?locale=pt), da Comissão, de 27 de junho, e [2023/2831](https://data.europa.eu/eli/reg/2023/2831/oj?locale=pt) da Comissão, de 13 de dezembro, relativos à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.
 
 2 - [...]"
 
@@ -216,11 +258,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 12 de junho de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 26 de junho de 2024.**
+Assinado em Angra do Heroísmo em 26 de junho de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -328,7 +370,7 @@ j) Indicação do IBAN da conta bancária do candidato para a qual deve ser efet
 
 k) No caso de pontos de carregamento de veículos elétricos, fatura e recibo de aquisição do ponto de carregamento, em nome do candidato;
 
-l) A prova de deficiência e a atribuição do grau de incapacidade é efetuada através de atestado médico de incapacidade multiúso, previsto no [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23 de outubro, alterado pelos Decretos-Leis n.<sup>os</sup>[174/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1997-147674), de 19 de julho, e [291/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2009-491686), de 12 de outubro, e aplicado na Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 31/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-1999-655300), de 17 de dezembro, podendo, ainda, ser efetuada pela apresentação de declaração de incapacidade, emitida pelas autoridades de saúde, desde que a certificação da deficiência seja anterior à data da entrada em vigor do modelo de atestado médico de incapacidade multiúso, aprovado pelo [Despacho n.º 26432/2009](https://diariodarepublica.pt/dr/detalhe/despacho-extracto/26432-2009-2980574), de 4 de dezembro, para efeitos da majoração prevista na alínea d) do n.º 3 do artigo 3.º, quando aplicável;
+l) A prova de deficiência e a atribuição do grau de incapacidade é efetuada através de atestado médico de incapacidade multiúso, previsto no [Decreto-Lei n.º 202/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1996-226809), de 23 de outubro, alterado pelos Decretos-Leis n.os[174/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1997-147674), de 19 de julho, e [291/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-2009-491686), de 12 de outubro, e aplicado na Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 31/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-1999-655300), de 17 de dezembro, podendo, ainda, ser efetuada pela apresentação de declaração de incapacidade, emitida pelas autoridades de saúde, desde que a certificação da deficiência seja anterior à data da entrada em vigor do modelo de atestado médico de incapacidade multiúso, aprovado pelo [Despacho n.º 26432/2009](https://diariodarepublica.pt/dr/detalhe/despacho-extracto/26432-2009-2980574), de 4 de dezembro, para efeitos da majoração prevista na alínea d) do n.º 3 do artigo 3.º, quando aplicável;
 
 m) Declaração, sob compromisso de honra, do conhecimento e cumprimento das obrigações do beneficiário, nomeadamente as constantes do artigo 17.º
 
@@ -400,7 +442,7 @@ c) (Revogada.)
 
 ###### Artigo 13.º — Limites do incentivo
 
-1 - O incentivo, quando atribuído a pessoa coletiva de direito privado, não pode exceder os limites previstos no âmbito dos Regulamentos (UE) n.<sup>os</sup>[1408/2013](https://data.europa.eu/eli/reg/2013/1408/oj?locale=pt) da Comissão, de 18 de dezembro, [717/2014](https://data.europa.eu/eli/reg/2014/717/oj?locale=pt), da Comissão, de 27 de junho, e [2023/2831](https://data.europa.eu/eli/reg/2023/2831/oj?locale=pt) da Comissão, de 13 de dezembro, relativos à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.
+1 - O incentivo, quando atribuído a pessoa coletiva de direito privado, não pode exceder os limites previstos no âmbito dos Regulamentos (UE) n.os[1408/2013](https://data.europa.eu/eli/reg/2013/1408/oj?locale=pt) da Comissão, de 18 de dezembro, [717/2014](https://data.europa.eu/eli/reg/2014/717/oj?locale=pt), da Comissão, de 27 de junho, e [2023/2831](https://data.europa.eu/eli/reg/2023/2831/oj?locale=pt) da Comissão, de 13 de dezembro, relativos à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.
 
 2 - Sem prejuízo do constante no n.º 2 do artigo 14.º, estipulam-se os seguintes limites à introdução no mercado de veículos elétricos novos e a aquisição de pontos de carregamento por candidato:
 
@@ -475,3 +517,5 @@ b) A Resolução do Conselho do Governo n.º 49/2020, de 5 de março de 2020.
 ###### Artigo 22.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+117840431

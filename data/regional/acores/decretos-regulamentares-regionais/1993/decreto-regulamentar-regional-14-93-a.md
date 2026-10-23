@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/07/178b00/41484151.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/1993/07/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1993-345096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa49e05e49cf643c32fa493f630bff383eea11e343253ba2a2e67fbce7646380
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a51c242ccdf92ca144778ad8f1d791a9261639a83bcab912e9183cf93b0b6494
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,92 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Contra-ordenação
-- Pesca
 - Licenciamento
 - Molusco
 - Período de Defeso
+- Pesca
 - Regulamento
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:553893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:277642:por
+  label: "Determinado que se mantêm em vigor, até que seja definido o regime de protecção das populações, as zonas de reserva\
+    \ integral de captura de lapas, definidas no nº 6 do art. 4º, pelo DLR.10/2011/A.28.03.2011.AL-RAA, DR.IS [61] de 28.03.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2011-277642
+  date: '2011-03-28'
+- type: amended_by
+  target: pt:dre:277368:por
+  label: "Mantidas em vigor, até que seja definido o regime de protecção das populações de lapas, as zonas de reserva integral\
+    \ de captura de lapas definidas no n.º 4 do art. 4.º, pelo DLR.11/2011/A.20.04.2011.AL-RAA, DR.IS [78] de 20.04.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2011-277368
+  date: '2011-04-20'
+- type: cites
+  target: pt:dre:373630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610965:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:451191:por
+  label: "Rectificado o n.º 1 do artigo 7.º e n.º 2 do artigo 10.º pela DECL-RECT.182/93.30.09.1993.PCM, DR.IS-B [230]3ºSupl\
+    \ de 30.09.1993\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/182-1993-451191
+  date: '1993-09-30'
+- type: repealed_by
+  target: pt:dre:519398:por
+  label: "Revogado, com efeitos a partir da data de entrada em vigor da portaria que define o regime jurídico da apanha de\
+    \ espécies marinhas na Região Autónoma dos Açores, pelo DLR.9/2007/A.21.03.2007.AL-RAA, DR.IS [77] de 19.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2007-519398
+  date: '2007-03-21'
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado o presente diploma, na redacção do DLR 9/2007/A, de 19-abr, DLR 10/2011/A, de 28-mar, e DLR 11/2011/A,\
+    \ de 20-abr, pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
 article_structure:
   article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:16Z'
   warnings: []
   errors: []
 ---
@@ -203,7 +267,7 @@ A apanha submarina de lapas só pode ser efectuada em mergulho de apneia.
 
 ###### Artigo 11.º — Número de licenças, suspensão das capturas e condições da apanha sem fins comerciais
 
-**O Secretário Regional da Agricultura e Pescas poderá fixar por portaria:**
+O Secretário Regional da Agricultura e Pescas poderá fixar por portaria:
 
 a) O número máximo de licenças a emitir por ilha;
 
@@ -281,12 +345,12 @@ O presente diploma entra em vigor no dia 1 de Agosto de 1993.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 7 de Julho de 1993.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 15 de Julho de 1993.**
+Assinado em Angra do Heroísmo em 15 de Julho de 1993.
 
-**Publique-se.**
+Publique-se.
 
 Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/178b00/41484151.pdf))](https://files.diariodarepublica.pt/1s/1993/07/178b00/41484151.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/178b00/41484151.pdf)

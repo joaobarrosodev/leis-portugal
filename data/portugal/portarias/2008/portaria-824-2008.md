@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/824/2008/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/824-2008-455140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a562989f2c3f9f68d48cea36a122d2d060e1351bfc1bfadbb98a4a7f35e7f7e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8e4ca1a830c9b042a38722322b7666ab1695d487ca233c309da7b6f4f24dc9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Beja
+- CAÇA
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:491687:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491687:por
+  label: "Excluído o prédio rústico denominado «Matosinha» da zona de caça municipal da Trindade criada pela Port 1134/2002,\
+    \ de 27-Ago, renovada pelo presente diploma, pela PORT.1235/2009.12.10.2009.MADRP, DR.IS [197] de 12.10.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1235-2009-491687
+  date: '2009-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -86,16 +92,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1134/2002/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1134/2002/08/27/p/dre
+- type: cites
+  target: pt:dre:173555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:41Z'
   warnings: []
   errors: []
 ---
@@ -118,4 +136,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 29 de Julho de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15300/0538405384.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15300/0538405384.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15300/0538405384.pdf)

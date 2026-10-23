@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/619/2008/07/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/619-2008-456535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57f489a9b907cc1201950afd4b5d7101647286b9f585f23303d1be86e63b6dfd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04533784fa8be80bff5568cec7a031c84d8db67e52df68fa95bd8abf89009e5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,26 @@ relationships:
   target: pt:dre:192589:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:490468:por
+  label: "Declarada a manutenção como praia de uso suspenso, a praia da Aguda, (classificada como praia equipada com uso condicionado\
+    \ pela Res 86/2003, de 25-Jun, da PCM) declarada como praia de uso suspenso pelo presente diploma, pela PORT.1108/2009.25.09.2009.MDN,\
+    \ DR.IS [187] de 25.09.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1108-2009-490468
+  date: '2009-09-25'
+- type: amended_by
+  target: pt:dre:344225:por
+  label: "Mantida, pelo período de um ano com efeitos a 17.07.2010, a declaração de uso suspenso da Praia da Aguda, no concelho\
+    \ de Sintra, determinada pelo presente diploma, e mantida posteriormente pela Port 1108/2009 de 25-Set, pela PORT.842/2010.06.09.2010.MDN,\
+    \ DR.IS [173] de 06.09.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/842-2010-344225
+  date: '2010-09-06'
+- type: amended_by
+  target: pt:dre:192589:por
+  label: "Mantida pelo prazo de um ano contado desde 17.07.2012 a praia da Aguda, no concelho de Sintra, como praia de uso\
+    \ suspenso pela PORT.346/2012.29.10.2012.MAMAOT, DR.IS [209] de 29.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-2012-192589
+  date: '2012-10-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/218/1994/08/20/p/dre
   label: null
@@ -85,16 +105,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/86/2003/06/25/p/dre
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692252:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:26Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +157,4 @@ Manda o Governo, pelos Ministros da Defesa Nacional e do Ambiente, do Ordenament
 
 Em 1 de Julho de 2008.
 
-**O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.**
+O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia.

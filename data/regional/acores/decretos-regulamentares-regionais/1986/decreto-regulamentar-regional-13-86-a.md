@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1986-227595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2db71f981bb93a01b42b01fcf9df27c5eab42fd4dd15f2699d89d2777266f41e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7424a8dfe0ad70bf6c0b88ab26f163062ce05053e2f261753276ffcfc04caf13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Gabinete de Promoção do Investimento dos Açores
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:181204:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:30Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +95,7 @@ Importa agora facilitar o recrutamento de pessoal para preenchimento dos cargos 
 
 Assim, o Governo Regional decreta, nos termas da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. O n.º 1 do artigo 9.º do [Decreto Regulamentar Regional n.º 18/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1985-181204), de 30 de Agosto, passa a ter a seguinte redacção:
+Artigo único. O n.º 1 do artigo 9.º do [Decreto Regulamentar Regional n.º 18/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1985-181204), de 30 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 9.º — (Pessoal)
 
@@ -96,10 +103,10 @@ Assim, o Governo Regional decreta, nos termas da alínea d) do artigo 229.º da 
 
 Aprovado em Conselho do Governo Regional, na Horta, em 4 de Março de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo, em 14 de Abril de 1986.**
+Assinado em Angra do Heroísmo, em 14 de Abril de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

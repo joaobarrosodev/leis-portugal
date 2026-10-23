@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/02/034b00/05320557.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/2/1993/02/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/2-1993-647283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89170e193eb9122ad5c8ca68550a71c511c99e92453f5c41f6c82ec716b1b885
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc978b505f9c1fae7ff746c13fa640480100c463d8430a088355a58a65d1e114
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Parlamentar
+- Açores
 - Assembleia Legislativa Regional
 - Grupo Parlamentar
-- Regimento
+- Parlamentar
 - Processo Legislativo
-- Açores
+- Regimento
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECLARAÇÃO RECTIFICAÇÃO 49/93, PUBLICADA NO DR.IS-B, 76, 3 SUPL, DE 930331.\0331.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:347278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:347278:por
+  label: "Revogada pela RES.24-A/98/A.1998.09.24.ALR-RAA, DR.IS-B [255]Supl de 04/Nov/1998r\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regional/24-a-1998-347278
+  date: '1998-09-24'
 article_structure:
   article_count: 217
   section_count: 55
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:59Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +135,7 @@ Concluída a chamada, o Presidente anuncia o número de deputados eleitos presen
 
 ###### Artigo 5.º — Ordem do dia
 
-**O Presidente indica seguidamente a ordem do dia da sessão preliminar, que é a seguinte:**
+O Presidente indica seguidamente a ordem do dia da sessão preliminar, que é a seguinte:
 
 a) Verificação dos poderes dos deputados eleitos, sua proclamação e constituição da Assembleia Legislativa Regional dos Açores;
 
@@ -134,11 +143,11 @@ b) Eleição do Presidente e da Mesa.
 
 ###### Artigo 6.º — Uso da palavra
 
-**O Presidente dá então a palavra a quem a pedir para o efeito de apresentação de propostas sobre a verificação de poderes, as quais indicam, para além da constituição da Comissão, o prazo em que esta realizará o seu trabalho.**
+O Presidente dá então a palavra a quem a pedir para o efeito de apresentação de propostas sobre a verificação de poderes, as quais indicam, para além da constituição da Comissão, o prazo em que esta realizará o seu trabalho.
 
 ###### Artigo 7.º — Discussão e votação
 
-**O Presidente põe à discussão e depois à votação as propostas apresentadas nos termos do artigo anterior.**
+O Presidente põe à discussão e depois à votação as propostas apresentadas nos termos do artigo anterior.
 
 ###### Artigo 8.º — Indicação de deputados
 
@@ -150,7 +159,7 @@ Recebidos na Mesa os nomes indicados nos termos do artigo anterior, o Presidente
 
 ###### Artigo 10.º — Suspensão da sessão preliminar
 
-**O Presidente marca então a hora para continuação dos trabalhos do Plenário e suspende a sessão preliminar.**
+O Presidente marca então a hora para continuação dos trabalhos do Plenário e suspende a sessão preliminar.
 
 ###### Artigo 11.º — Continuação da sessão preliminar
 
@@ -180,7 +189,7 @@ Feita a leitura perante o Presidente, este, de pé, proclama os deputados e decl
 
 ###### Artigo 16.º — Intervalo da sessão preliminar
 
-**O Presidente anuncia a passagem ao segundo ponto da ordem do dia da sessão preliminar, interrompendo imediatamente a sessão a fim de serem apresentadas e distribuídas as listas.**
+O Presidente anuncia a passagem ao segundo ponto da ordem do dia da sessão preliminar, interrompendo imediatamente a sessão a fim de serem apresentadas e distribuídas as listas.
 
 ###### Artigo 17.º — Reabertura da sessão preliminar
 
@@ -210,7 +219,7 @@ Concluídos os escrutínios, o resultado é anunciado na Mesa, procedendo então
 
 ###### Artigo 22.º — Encerramento da sessão
 
-**O Presidente anuncia os trabalhos subsequentes da Assembleia e encerra a sessão.**
+O Presidente anuncia os trabalhos subsequentes da Assembleia e encerra a sessão.
 
 ## TÍTULO I — Disposições gerais
 
@@ -2038,4 +2047,4 @@ As alterações ao Regimento entrarão em vigor imediatamente após a sua public
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 11 de Dezembro de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.

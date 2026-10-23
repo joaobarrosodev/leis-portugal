@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/33/2008/08/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2008-455615
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67d51729cf16e576f9ba08f63a56a452dd2637a14bca006190da352fc365c195
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: affe7b9eaf8851fdb56a83c683658a152777322966dd2be63588bf5ebbd04a85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abastecimento de Água
 - Administração dos Portos da Região Autónoma da Madeira
 - Água
 - Aproximação das Legislações
-- Recursos Hídricos
+- Bacia Hidrográfica
+- Conselho do Governo Regional
 - Definição de Competências
 - Direcção Regional do Ambiente
-- Secretaria Regional do Equipamento Social
-- Conselho do Governo Regional
+- Madeira.região Autónoma
 - Página na Internet
 - Parque Natural da Madeira
-- Proteção do Ambiente
-- Bacia Hidrográfica
-- Zona de Proteção
 - Plano Regional da ÁGUA
 - Política de Preços
 - Poluição da água
-- Madeira.região Autónoma
+- Proteção do Ambiente
+- Recursos Hídricos
 - Regime Jurídico
 - Responsabilidade Civil
-- Abastecimento de Água
+- Secretaria Regional do Equipamento Social
 - Taxa
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:452748:por
@@ -99,13 +99,13 @@ relationships:
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:02Z'
   warnings: []
   errors: []
 ---
@@ -560,10 +560,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de Julho de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 6 de Agosto de 2008.**
+Assinado em 6 de Agosto de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

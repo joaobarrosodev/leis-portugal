@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/11-1989-549829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc0f8148f72765d8cc0c204c485ac11bb7e1933d00fcffc9053f5bbcdadb2959
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b7180ebc25c38e33bcec6f725e7598329e90dfeeeed1665b872c6a9a90398dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Assembleia Legislativa Regional
+- Grupo Parlamentar
+- Parlamentar
+- Processo Legislativo
+- Regimento
 relationships: []
 article_structure:
   article_count: 220
-  section_count: 55
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 56
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:42Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +114,7 @@ Concluída a chamada, o Presidente anuncia o número de deputados eleitos presen
 
 ###### Artigo 5.º — Ordem do dia
 
-**O Presidente indica seguidamente a ordem do dia da sessão preliminar, que é a seguinte:**
+O Presidente indica seguidamente a ordem do dia da sessão preliminar, que é a seguinte:
 
 a) Verificação dos poderes dos deputados eleitos, sua proclamação e constituição da Assembleia Legislativa Regional dos Açores;
 
@@ -116,11 +122,11 @@ b) Eleição do Presidente e da Mesa.
 
 ###### Artigo 6.º — Uso da palavra
 
-**O presidente dá então a palavra a quem a pedir para o efeito de apresentação de propostas sobre a verificação de poderes, as quais indicam, para além da constituição da comissão, o prazo em que esta realizará o seu trabalho.**
+O presidente dá então a palavra a quem a pedir para o efeito de apresentação de propostas sobre a verificação de poderes, as quais indicam, para além da constituição da comissão, o prazo em que esta realizará o seu trabalho.
 
 ###### Artigo 7.º — Discussão e votação
 
-**O Presidente põe à discussão e depois à votação as propostas apresentadas nos termos do artigo anterior.**
+O Presidente põe à discussão e depois à votação as propostas apresentadas nos termos do artigo anterior.
 
 ###### Artigo 8.º — Indicação de deputados
 
@@ -132,7 +138,7 @@ Recebidos na Mesa os nomes indicados nos termos do artigo anterior, o Presidente
 
 ###### Artigo 10.º — Suspensão da sessão preliminar
 
-**O Presidente marca então a hora para continuação dos trabalhos do Plenário e suspende a sessão preliminar.**
+O Presidente marca então a hora para continuação dos trabalhos do Plenário e suspende a sessão preliminar.
 
 ###### Artigo 11.º — Continuação da sessão preliminar
 
@@ -162,7 +168,7 @@ Feita a leitura perante o Presidente, este, de pé, proclama os deputados e decl
 
 ###### Artigo 16.º — Intervalo da sessão preliminar
 
-**O Presidente anuncia a passagem ao segundo ponto da ordem do dia da sessão preliminar, interrompendo imediatamente a sessão a fim de serem apresentadas e distribuídas as listas.**
+O Presidente anuncia a passagem ao segundo ponto da ordem do dia da sessão preliminar, interrompendo imediatamente a sessão a fim de serem apresentadas e distribuídas as listas.
 
 ###### Artigo 17.º — Reabertura da sessão preliminar
 
@@ -190,7 +196,7 @@ Concluídos os escrutínios, o resultado é anunciado na Mesa, procedendo então
 
 ###### Artigo 22.º — Encerramento da sessão
 
-**O Presidente anuncia os trabalhos subsequentes da Assembleia e encerra a sessão.**
+O Presidente anuncia os trabalhos subsequentes da Assembleia e encerra a sessão.
 
 ## TÍTULO I — Disposições gerais
 
@@ -1828,7 +1834,9 @@ Recebidas as contas regionais na Assembleia, o Presidente envia-as à Comissão 
 
 Findo o debate, proceder-se-á à votação das contas.
 
-### CAPÍTULO IV — SECÇÃO I
+### CAPÍTULO IV
+
+#### SECÇÃO I
 
 Pedido de declaração de inconstitucionalidade ou ilegalidade
 
@@ -2060,4 +2068,4 @@ As alterações ao Regimento entrarão em vigor imediatamente após a sua public
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Setembro de 1989.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.

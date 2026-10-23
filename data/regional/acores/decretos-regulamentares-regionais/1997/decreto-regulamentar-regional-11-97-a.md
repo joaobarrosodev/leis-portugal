@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1997/05/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1997-351362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79d83440bbb84e70b98f1546038e8d228123e9dd4501ae99427f6eb38c90ed81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de1def6be101efeec0ce6e2fffcff0d844bfb187a397abc48168cd1a11c27fad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Centro de Saúde
 - Extinção de Lugares
 - Horta
-- Centro de Saúde
 - Pessoal Técnico Superior
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/11/1996/02/27/a/dre
@@ -88,16 +88,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/1992/02/05/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/1992/02/05/a/dre
+- type: cites
+  target: pt:dre:151075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626387:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:47Z'
   warnings: []
   errors: []
 ---
@@ -114,16 +142,16 @@ Ao quadro de pessoal do Centro de Saúde da Horta, aprovado pelo [Decreto Regula
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Março de 1997.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 23 de Abril de 1997.**
+Assinado em Angra do Heroísmo em 23 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — (Mapa a que se refere o artigo único)
 
 Centro de Saúde da Horta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/05/123b00/26062607.pdf))](https://files.diariodarepublica.pt/1s/1997/05/123b00/26062607.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/05/123b00/26062607.pdf)

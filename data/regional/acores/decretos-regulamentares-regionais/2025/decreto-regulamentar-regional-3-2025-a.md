@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/01/00600/0004700094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2025/01/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2025-902786115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 319e3fe824ba6df6ba35b1a8db076bb4195caad27d933bb31e74f026a6d5d3b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce92f3cf45e1812ff2107feb4033040b034a5ad587030220fba6ab9a9e17b0a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Orgânica
 - Quadro de Pessoal
 - Secretaria Regional da Saúde e Segurança Social
-- Açores
 relationships:
 - type: cites
   target: celex:32016R0679
@@ -95,16 +95,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/2022/07/20/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/2022/07/20/a/dre
+- type: cites
+  target: pt:dre:166512677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186362062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860106954:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:15/2021/A
+  label: Revoga, a partir de 10 de janeiro de 2025, o Decreto Regulamentar Regional n.º 15/2021/A - Diário da República n.º
+    129/2021, Série I de 2021-07-06
+  source: null
+  date: '2021-07-06'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:9/2022/A
+  label: Revoga, a partir de 10 de janeiro de 2025, nos termos da alínea b) do artigo 6.º, as normas constantes do Decreto
+    Regulamentar Regional n.º 9/2022/A - Diário da República n.º 139/2022, Série I de 2022-07-20 que colidam com as competências
+    do Secretário Regional da Saúde e Segurança Social atribuídas pelo presente diploma
+  source: null
+  date: '2022-07-20'
 article_structure:
   article_count: 70
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:13Z'
   warnings: []
   errors: []
 ---
@@ -157,11 +190,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Madalena, em 4 de dezembro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 26 de dezembro de 2024.**
+Assinado em Angra do Heroísmo em 26 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -325,7 +358,9 @@ b) Núcleo de Organização e Comunicação;
 
 c) Núcleo de Estudos e Planeamento.
 
-###### Artigo 9.º — Divisão de Assuntos Jurídicos, Financeiros e Sistemas de Informação
+###### Artigo 9.º
+
+##### Divisão de Assuntos Jurídicos, Financeiros e Sistemas de Informação
 
 1 - A Divisão de Assuntos Jurídicos, Financeiros e Sistemas de Informação, doravante designada por DAJFSI, é o serviço da SRSSS, cuja missão consiste em apoiar e executar as atividades administrativas respeitantes aos órgãos e serviços da SRSSS em matéria jurídica e de recursos humanos, assuntos financeiros e sistemas de informação.
 
@@ -389,7 +424,9 @@ b) A Secção de Contabilidade;
 
 c) A Unidade de Sistemas de Informação.
 
-###### Artigo 10.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 10.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 1 - À Secção de Pessoal, Expediente e Arquivo, doravante designada por SPEA, compete:
 
@@ -411,7 +448,9 @@ h) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SPEA é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 11.º — Secção de Contabilidade
+###### Artigo 11.º
+
+#### Secção de Contabilidade
 
 1 - À Secção de Contabilidade, doravante designada por SC, compete:
 
@@ -657,7 +696,9 @@ b) Divisão de Apoio à Prestação de Cuidados de Saúde;
 
 c) Divisão de Qualidade em Saúde e Promoção de Hábitos de Vida Saudáveis.
 
-###### Artigo 19.º — Divisão de Planeamento e Contratualização
+###### Artigo 19.º
+
+##### Divisão de Planeamento e Contratualização
 
 1 - À Divisão de Planeamento e Contratualização, doravante designada por DPC, compete:
 
@@ -715,7 +756,9 @@ z) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DPC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 20.º — Divisão de Apoio à Prestação de Cuidados de Saúde
+###### Artigo 20.º
+
+##### Divisão de Apoio à Prestação de Cuidados de Saúde
 
 1 - À Divisão de Apoio à Prestação de Cuidados de Saúde, doravante designada por DAPCS, compete:
 
@@ -763,7 +806,9 @@ u) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAPCS é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 21.º — Divisão de Qualidade em Saúde e Promoção de Hábitos de Vida Saudáveis
+###### Artigo 21.º
+
+##### Divisão de Qualidade em Saúde e Promoção de Hábitos de Vida Saudáveis
 
 1 - À Divisão de Qualidade em Saúde e Promoção de Hábitos de Vida Saudáveis, doravante designada por DQSPHVS, compete:
 
@@ -825,7 +870,9 @@ b) Divisão de Aprovisionamento;
 
 c) Divisão de Instalações, Equipamentos e Licenciamentos da Saúde.
 
-###### Artigo 23.º — Divisão de Gestão Financeira
+###### Artigo 23.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira, doravante designada por DGF, compete:
 
@@ -873,7 +920,9 @@ u) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGF é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 24.º — Divisão de Aprovisionamento
+###### Artigo 24.º
+
+##### Divisão de Aprovisionamento
 
 1 - À Divisão de Aprovisionamento, doravante designada por DA, compete:
 
@@ -893,7 +942,9 @@ g) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 25.º — Divisão de Instalações, Equipamentos e Licenciamentos da Saúde
+###### Artigo 25.º
+
+##### Divisão de Instalações, Equipamentos e Licenciamentos da Saúde
 
 1 - À Divisão de Instalações, Equipamentos e Licenciamentos da Saúde, doravante designada por DIELS, compete:
 
@@ -923,7 +974,7 @@ l) Coordenar as atividades de registo e licenciamento dos profissionais de saúd
 
 m) Executar as atividades referentes ao licenciamento de fabricantes de dispositivos médicos, de estabelecimentos comerciais de produtos farmacêuticos, nomeadamente de armazéns de medicamentos para uso humano e de dispositivos médicos, de farmácias e de estabelecimentos de venda de medicamentos não sujeitos a receita médica, bem como do exercício dos profissionais de farmácia;
 
-n) Realizar vistorias e ações que se inscrevam no âmbito das avaliações de licenciamento, nomeadamente em colaboração com a Inspeção Regional da Saúde, nos termos do disposto na alínea h) do n.º 2 do artigo 54.º e nos n.<sup>os</sup>3 e 4 do artigo 61.º;
+n) Realizar vistorias e ações que se inscrevam no âmbito das avaliações de licenciamento, nomeadamente em colaboração com a Inspeção Regional da Saúde, nos termos do disposto na alínea h) do n.º 2 do artigo 54.º e nos n.os3 e 4 do artigo 61.º;
 
 o) Exercer, com as demais entidades, as atividades de licenciamento e fiscalização das unidades das Redes;
 
@@ -955,7 +1006,7 @@ f) Reclamar o auxílio de autoridades policiais e administrativas, quando o julg
 
 3 - Para efeitos do referido no número anterior, os trabalhadores que exercem funções públicas e que estejam mandatados pela DRS para efetuar uma fiscalização ou vistoria devem ser portadores de cartão de identificação, de acordo com o modelo aprovado por regulamento da DRS.
 
-4 - Os trabalhadores que exercem funções públicas referidos nos n.<sup>os</sup>2 e 3 podem levantar autos de notícia quanto a todas as infrações verificadas no âmbito das suas competências.
+4 - Os trabalhadores que exercem funções públicas referidos nos n.os2 e 3 podem levantar autos de notícia quanto a todas as infrações verificadas no âmbito das suas competências.
 
 5 - A DIELS é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
@@ -995,7 +1046,9 @@ a) Divisão de Recursos Humanos;
 
 b) Divisão de Formação.
 
-###### Artigo 27.º — Divisão de Recursos Humanos
+###### Artigo 27.º
+
+##### Divisão de Recursos Humanos
 
 1 - À Divisão de Recursos Humanos, doravante designada por DRH, compete:
 
@@ -1047,7 +1100,9 @@ w) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DRH é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 28.º — Divisão de Formação
+###### Artigo 28.º
+
+##### Divisão de Formação
 
 1 - À Divisão de Formação, doravante designada por DF, compete:
 
@@ -1257,7 +1312,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 A DRPCD integra a Divisão de Prevenção e Promoção da Saúde, Tratamento e Reinserção.
 
-###### Artigo 36.º — Divisão de Prevenção e Promoção da Saúde, Tratamento e Reinserção
+###### Artigo 36.º
+
+##### Divisão de Prevenção e Promoção da Saúde, Tratamento e Reinserção
 
 1 - À Divisão de Prevenção e Promoção da Saúde, Tratamento e Reinserção, doravante designada por DPPSTR, compete:
 
@@ -1491,7 +1548,9 @@ b) A Divisão de Obras e Equipamentos;
 
 c) A Divisão de Gestão Financeira.
 
-###### Artigo 43.º — Divisão de Assuntos Jurídicos e Auditoria
+###### Artigo 43.º
+
+##### Divisão de Assuntos Jurídicos e Auditoria
 
 1 - À Divisão de Assuntos Jurídicos e Auditoria, doravante designada por DAJA, compete:
 
@@ -1527,7 +1586,9 @@ o) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAJA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 44.º — Divisão de Obras e Equipamentos
+###### Artigo 44.º
+
+##### Divisão de Obras e Equipamentos
 
 1 - À Divisão de Obras e Equipamentos, doravante designada por DOE, compete:
 
@@ -1565,7 +1626,9 @@ p) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DOE é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 45.º — Divisão de Gestão Financeira
+###### Artigo 45.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira, doravante designada por DGF, compete:
 
@@ -1681,7 +1744,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 A DRPIIS integra a Divisão de Enquadramento, para a Igualdade e Inclusão Social.
 
-###### Artigo 49.º — Divisão de Enquadramento, para a Igualdade e Inclusão Social
+###### Artigo 49.º
+
+##### Divisão de Enquadramento, para a Igualdade e Inclusão Social
 
 1 - À Divisão de Enquadramento, para a Igualdade e Inclusão Social, doravante designada por DEIIS, compete:
 
@@ -2037,3 +2102,5 @@ b) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, 
 c) Remuneração de acordo com a alínea a) do n.º 2 do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
 d) Remuneração de acordo com o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
+
+118511638

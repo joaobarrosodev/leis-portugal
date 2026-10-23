@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/03200/01300132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/2-1980-692984
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a31c9eb94c2797241c29f57551a742aced508970ba9e905aab1a11335a21afc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90b1cc880ebe285554bd5573bf533b73027b53538eec7730c56c16f073087089
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Contravenção
+- ILHA de são Miguel
+- Lagoa das Sete Cidades
+- Proteção do Ambiente
+- SETE Cidades
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:456515:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:691044:por
+  label: "Alterado o art. 4º pelo DLR.16/95/A.17.11.1995.ALR-RAA, DR.IS-A [266] de 17.11.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-1995-691044
+  date: '1995-11-17'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456515:por
+  label: "Revogado o presente diploma, alterado pelo DLR 16/95/A, de 17-Nov, e reclassificada e integrada, nos termos do art.\
+    \ 4.º, no Parque Natural da Ilha de São Miguel, a zona de Paisagem Protegida das Sete Cidades, pelo DLR.19/2008/A.08.07.2008.AL-RAA,\
+    \ DR.IS [130] de 08.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2008-456515
+  date: '2008-07-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:08Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +119,9 @@ Junto à lagoa das Sete Cidades encontra-se a freguesia do mesmo nome, cuja arqu
 
 Assim, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, a Assembleia Regional decreta o seguinte:
 
-###### Artigo 1.º Pelo presente diploma é criada e definida a zona de paisagem protegida das Sete Cidades.
+Artigo 1.º Pelo presente diploma é criada e definida a zona de paisagem protegida das Sete Cidades.
 
-###### Art. 2.º - 1 - A zona referida no artigo anterior tem a seguinte delimitação:
+Art. 2.º - 1 - A zona referida no artigo anterior tem a seguinte delimitação:
 
 a) Com início no cruzamento da estrada nacional n.º 8-2.ª com o caminho vicinal próximo da lagoa do Peixe e, nascente para poente, segue pelo referido caminho vicinal até ao marco geodésico de cota 825;
 
@@ -110,7 +133,7 @@ d) Caminho vicinal deste o ponto de cruzamento dos limites das freguesias Sete C
 
 2 - Os limites da paisagem protegida descritos no número anterior vão demarcados no mapa anexo ao presente decreto regional, e que dele faz parte integrante.
 
-###### Art. 3.º - 1 - Fica dependente de autorização da Secretaria Regional do Equipamento Social, dentro do perímetro da paisagem protegida das Sete Cidades, a realização dos seguintes trabalhos:
+Art. 3.º - 1 - Fica dependente de autorização da Secretaria Regional do Equipamento Social, dentro do perímetro da paisagem protegida das Sete Cidades, a realização dos seguintes trabalhos:
 
 a) Construção, reconstrução, ampliação, alteração ou demolição de edifícios e outras instalações, com carácter público ou privado;
 
@@ -136,7 +159,7 @@ h) Caça e pesca, enquanto não existam regulamentos superiormente aprovados que
 
 3 - As autorizações a que se referem os números anteriores deste artigo não dispensam quaisquer outros condicionalismos exigidos por lei.
 
-###### Art. 4.º São consideradas contravenções:
+Art. 4.º São consideradas contravenções:
 
 a) A realização de quaisquer trabalhos, obras ou actividades, em terrenos abrangidos pela zona de paisagem protegida das Sete Cidades, sem autorização da Secretaria Regional do Equipamento Social;
 
@@ -154,7 +177,7 @@ g) O depósito de materiais ou qualquer outra alteração do relevo;
 
 h) A introdução, na zona da paisagem protegida, de animais não domésticos e de espécies vegetais exóticas, quando não superiormente autorizada, bem como a destruição, ou colheita, de plantas e partes de plantas endémicas, ou daquelas cujo habitat nos Açores está confinado, exclusivamente ou quase, ao maciço das Sete Cidades.
 
-###### Art. 5.º - 1 - As contravenções previstas no artigo 4.º, sem prejuízo de outras sanções aplicáveis, são punidas:
+Art. 5.º - 1 - As contravenções previstas no artigo 4.º, sem prejuízo de outras sanções aplicáveis, são punidas:
 
 a) Com multa de 500$00 a 10000$00, as previstas nas alíneas a), b), d), f) e g);
 
@@ -168,34 +191,34 @@ d) Com o máximo das multas previstas nas alíneas anteriores, respectivamente, 
 
 3 - Se o infractor se recusar a demolir as obras ou trabalhos efectuados depois de para tal notificado, mandar-se-á proceder à demolição e aos trabalhos que para o efeito se mostrem necessários, apresentando a relação das despesas para cobrança ao infractor, e recorrendo aos tribunais sempre que for precisa a cobrança coerciva.
 
-###### Art. 6.º - 1 - As funções de policiamento e fiscalização competem aos quadros florestais, à Câmara Municipal e ao corpo de vigilantes privativos da paisagem protegida.
+Art. 6.º - 1 - As funções de policiamento e fiscalização competem aos quadros florestais, à Câmara Municipal e ao corpo de vigilantes privativos da paisagem protegida.
 
 2 - Os autos de notícia por infracção ao disposto no presente decreto regional serão levantados e processados nos termos dos artigos 166.º e 167.º do Código de Processo Penal, sem prejuízo de outras disposições legais aplicáveis.
 
-###### Art. 7.º - 1 - É aplicável às obras e trabalhos efectuados com inobservância do preceituado no artigo 3.º o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+Art. 7.º - 1 - É aplicável às obras e trabalhos efectuados com inobservância do preceituado no artigo 3.º o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
 2 - São nulas as licenças, municipais ou outras, concedidas com violação do regime instituído neste diploma.
 
-###### Art. 8.º As despesas emergentes da execução do presente diploma serão suportadas pelo orçamento da Secretaria Regional do Equipamento Social.
+Art. 8.º As despesas emergentes da execução do presente diploma serão suportadas pelo orçamento da Secretaria Regional do Equipamento Social.
 
-###### Art. 9.º Serão aprovados por decreto regulamentar regional os sinais indicativos de proibições, permissões e condicionamentos previstos neste diploma, para os quais não existam já modelos legalmente estabelecidos.
+Art. 9.º Serão aprovados por decreto regulamentar regional os sinais indicativos de proibições, permissões e condicionamentos previstos neste diploma, para os quais não existam já modelos legalmente estabelecidos.
 
-###### Art. 10.º - 1 - No prazo de seis meses, a contar da publicação do presente decreto regional, deverá ser elaborado o projecto de ordenamento da paisagem protegida das Sete Cidades, por um grupo de trabalho nomeado pelo Secretário Regional do Equipamento Social, do qual farão parte representantes da Secretaria Regional de Educação e Cultura, da Secretaria Regional da Agricultura e Pescas e da Secretaria Regional dos Transportes e Turismo.
+Art. 10.º - 1 - No prazo de seis meses, a contar da publicação do presente decreto regional, deverá ser elaborado o projecto de ordenamento da paisagem protegida das Sete Cidades, por um grupo de trabalho nomeado pelo Secretário Regional do Equipamento Social, do qual farão parte representantes da Secretaria Regional de Educação e Cultura, da Secretaria Regional da Agricultura e Pescas e da Secretaria Regional dos Transportes e Turismo.
 
 2 - Com a aprovação do projecto referido no n.º 1 deste artigo ficam definidas as servidões e as restrições administrativas a que devem sujeitar-se os terrenos e os bens compreendidos na zona de paisagem protegida.
 
 3 - Os projectos de que sejam objecto as áreas que vieram a ser definidas como reservadas para recreio deverão prever a integração na paisagem, a resolução dos problemas de estabilização biofísica por processos integráveis com base na vegetação clímax ou tradicional, a valorização e a protecção dos elementos físicos naturais e a valorização estética ambiental.
 
-###### Art. 11.º Até à entrada em vigor do decreto que regulamentar o presente diploma, a zona de paisagem protegida das Sete Cidades será administrada por uma comissão, presidida por um representante da Secretaria Regional do Equipamento Social, a designar pelo Secretário Regional, e integrada por um representante da Direcção Regional dos Serviços Florestais, um da Direcção Regional dos Serviços Agrícolas, um da Direcção Regional das Obras Públicas e Equipamento, um da Direcção Regional do Turismo, um da Câmara Municipal de Ponta Delgada e um da Junta de Freguesia das Sete Cidades.
+Art. 11.º Até à entrada em vigor do decreto que regulamentar o presente diploma, a zona de paisagem protegida das Sete Cidades será administrada por uma comissão, presidida por um representante da Secretaria Regional do Equipamento Social, a designar pelo Secretário Regional, e integrada por um representante da Direcção Regional dos Serviços Florestais, um da Direcção Regional dos Serviços Agrícolas, um da Direcção Regional das Obras Públicas e Equipamento, um da Direcção Regional do Turismo, um da Câmara Municipal de Ponta Delgada e um da Junta de Freguesia das Sete Cidades.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 8 de Novembro de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 4 de Janeiro de 1980.**
+Assinado em Angra do Heroísmo em 4 de Janeiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/03200/01300132.pdf))](https://files.diariodarepublica.pt/1s/1980/02/03200/01300132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/03200/01300132.pdf)

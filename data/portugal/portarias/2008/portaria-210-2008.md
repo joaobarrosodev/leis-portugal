@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/210/2008/02/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f4ca124eb11099eaf9ecf8386a2291d5fec36a16e51e4b72a0c3d8fa1ed7590
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90b951f023b0ce4206062a03a0d2774579ea22b872cea15a293770bf2479c9a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,30 @@ reuse:
 subjects:
 - Acesso ao Direito
 - Advogado
-- Ordem dos Advogados
 - Arguido
 - Defensor Oficioso
 - Definição de Competências
 - Instituto de Gestão Financeira e de Infra-estruturas da Justiça
 - Nomeação
+- Ordem dos Advogados
 - Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:145010:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343095:por
+  label: "Alterados, a partir de 01.09.2010, os arts. 21º, 28º e 32º da Port 10/2008, de 03-Jan, na redacção do presente diploma,\
+    \ pela PORT.654/2010.11.08.2010.MJ, DR.IS [155] de 11.08.2010, que a republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/654-2010-343095
+  date: '2010-08-11'
+- type: amended_by
+  target: pt:dre:145010:por
+  label: Alterado o art. 28º da Port 10/2008 de 03-Jan, com a redação do pesente diploma, pela PORT.319/2011.30.12.2011.MJ,
+    DR.IS [250] de 30.12.2011
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/319-2011-145010
+  date: '2011-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/34/2004/07/29/p/dre
   label: null
@@ -92,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1386/2004/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1386/2004/11/10/p/dre
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641076:por
+  label: null
+  source: null
 article_structure:
-  article_count: 16
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:53Z'
   warnings: []
   errors: []
 ---
@@ -142,19 +166,25 @@ b) Exista defensor nomeado e este tenha faltado a diligência em que devesse est
 
 7 - Havendo mandatário constituído, a nomeação efectuada nos termos do n.º 1 é feita apenas para a diligência em causa.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Sem prejuízo das competências estatutárias que lhes estão cometidas, os advogados estagiários podem participar no sistema de acesso ao direito, mediante acompanhamento por parte do seu patrono, em todas as diligências e processos a este atribuídos.
 
 2 - A Ordem dos Advogados define os termos da participação dos advogados estagiários, em diligências e processos que não estejam atribuídos ao seu patrono.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
 2 - O juiz e o Ministério Público devem informar a Ordem dos Advogados da inobservância, por parte de um profissional forense, das regras de exercício do patrocínio e da defesa oficiosas.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +194,9 @@ b) Exista defensor nomeado e este tenha faltado a diligência em que devesse est
 
 4 - (Revogado.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -182,7 +214,9 @@ b) Exista defensor nomeado e este tenha faltado a diligência em que devesse est
 
 8 - Sem prejuízo do disposto no n.º 3 do artigo 26.º, a nomeação para as restantes diligências do processo, nos termos do n.º 5 do artigo 3.º, não obsta à contabilização dessa diligência para efeitos de preenchimento do lote de escalas de prevenção.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Caso o profissional forense se encontre inscrito para lotes de processos, a nomeação efectuada nos termos do n.º 5 do artigo 3.º é contabilizada para efeitos de preenchimento do lote, mesmo que isso signifique o aumento temporário do número de processos correspondentes ao seu lote.
 
@@ -190,7 +224,9 @@ b) Exista defensor nomeado e este tenha faltado a diligência em que devesse est
 
 3 - Se o profissional forense não se encontrar inscrito para lote de processos, a nomeação efectuada nos termos do n.º 5 do artigo 3.º é considerada, para todo os efeitos, como nomeação isolada para processo, nos termos da alínea b) do n.º 1 do artigo 18.º
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +236,9 @@ b) Exista defensor nomeado e este tenha faltado a diligência em que devesse est
 
 4 - ...
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - Os valores das compensações devidas aos profissionais forenses pela inscrição em lotes de processos ou pela nomeação isolada para processo são os estabelecidos na [Portaria n.º 1386/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1386-2004-548661), de 10 de Novembro.
 
@@ -228,7 +266,9 @@ c) Aplica-se o disposto na alínea a) sempre que haja a entrada de um novo proce
 
 10 - Sem prejuízo do disposto nos n.os 1, 3 e 6, o disposto no n.º 7 aplica-se aos casos em que o disposto na alínea a) do n.º 5 do artigo 3.º não é aplicável porque o arguido afirmou pretender constituir mandatário para as restantes diligências do processo.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Os valores das compensações devidas aos profissionais forenses pela inscrição em lotes de escalas de prevenção ou pela designação isolada para escalas de prevenção são os estabelecidos na [Portaria n.º 1386/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1386-2004-548661), de 10 de Novembro.
 
@@ -236,7 +276,9 @@ c) Aplica-se o disposto na alínea a) sempre que haja a entrada de um novo proce
 
 3 - Se o profissional forense for nomeado para as restantes diligências do processo, nos termos do n.º 5 do artigo 3.º, apenas é devida compensação pelo processo.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -256,7 +298,9 @@ e) Na consulta jurídica, a sua realização.
 
 4 - O IGFIJ, I. P., pode realizar auditorias ao sistema de acesso ao direito e aos tribunais, bem como solicitar informação aos tribunais e às entidades referidas no n.º 2 do artigo 3.º, para efeitos de confirmação da informação remetida pela Ordem dos Advogados.
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +310,9 @@ e) Na consulta jurídica, a sua realização.
 
 4 - O primeiro relatório de monitorização, acompanhado de propostas de aperfeiçoamento do sistema, deve ser apresentado ao membro do Governo responsável pela área da justiça até ao dia 1 de Setembro de 2009.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - ...
 
@@ -274,7 +320,9 @@ e) Na consulta jurídica, a sua realização.
 
 3 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -296,4 +344,4 @@ A presente portaria produz efeitos desde 1 de Março de 2008.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado da Justiça, João Tiago Valente Almeida da Silveira, em 26 de Fevereiro de 2008.**
+O Secretário de Estado da Justiça, João Tiago Valente Almeida da Silveira, em 26 de Fevereiro de 2008.

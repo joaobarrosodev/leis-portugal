@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/09/221b00/52675268.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/1997/09/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1997-659879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 365a1dd1ec4c2b02597c3315c311686285517996754c8abf3393db133418f108
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0048c22a1a22ffc44c46cf88d3bf7f72ee3cbd93ae0440b6dfa8003135a99448
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Inspecção de Saúde de Ponta Delgada
-- Centro de Saúde
-- Quadro de Pessoal
 - Açores
+- Centro de Saúde
+- Inspecção de Saúde de Ponta Delgada
+- Quadro de Pessoal
 - Termalismo
 - Transferência de Pessoal
 relationships:
@@ -76,16 +76,43 @@ relationships:
   target: pt:dre:132431980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:536225:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 50/88/A de 19-Out e alterado pelo presente diploma, pelo DRR.21/2001/A.2001.12.26.PG-RAA,DR.IS-B\
+    \ [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2001-536225
+  date: '2001-12-26'
+- type: cites
+  target: pt:dre:311818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666494:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:132431980:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-132431980
+  date: '2020-04-24'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:51Z'
   warnings: []
   errors: []
 ---
@@ -126,13 +153,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Povoação, em 4 de Julho de 1997.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 20 de Agosto de 1997.**
+Assinado em Angra do Heroísmo em 20 de Agosto de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 MAPA I
 
@@ -140,7 +167,7 @@ MAPA I
 
 Centro Termal das Furnas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/221b00/52675268.pdf))](https://files.diariodarepublica.pt/1s/1997/09/221b00/52675268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/221b00/52675268.pdf)
 
 MAPA II
 
@@ -148,7 +175,7 @@ MAPA II
 
 Termas do Carapacho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/221b00/52675268.pdf))](https://files.diariodarepublica.pt/1s/1997/09/221b00/52675268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/221b00/52675268.pdf)
 
 MAPA III
 
@@ -156,4 +183,4 @@ MAPA III
 
 Termas do Varadouro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/221b00/52675268.pdf))](https://files.diariodarepublica.pt/1s/1997/09/221b00/52675268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/09/221b00/52675268.pdf)

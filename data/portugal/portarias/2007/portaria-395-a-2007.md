@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 64/2007, 1º Suplemento, Série I de 2007-03-30
   number: '64'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2034-(2) a 2034-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06401/00020005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/395-a/2007/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/395-a-2007-494033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b78b6403d0467bec07d9bdcc7819665de2cbcb13304e02ad6c207610425f07ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d808da3b81a3c18dc3112d0b12626ca27c89abed4943c28a31188bb17239683c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ subjects:
 - Assistência Médica
 - Consulta Médica
 - Internamento Hospitalar
-- Serviço Nacional de Saúde
-- Pagamento
 - Isenção de Taxas e Emolumentos
 - Meios Complementares de Diagnóstico
+- Pagamento
 - Regime Ambulatório
+- Serviço Nacional de Saúde
 - Subsistemas de Saúde
 - TAXA Moderadora
 relationships:
@@ -80,6 +80,18 @@ relationships:
   target: pt:dre:477277:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628013:por
+  label: "Actualizadas as taxas moderadoras constantes da tabela anexa e republicada pela PORT.1637/2007.31.12.2007.MS, DR.IS\
+    \ [251] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1637-2007-628013
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:603181:por
+  label: "Actualizadas as taxas moderadoras constantes da tabela anexa ao presente diploma, com a actualização constante da\
+    \ Port 1637/2007 de 31-Dez, pela PORT.34/2009.15.01.2009.MS, DR.IS [10] de 15.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/34-2009-603181
+  date: '2009-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/173/2003/08/01/p/dre
   label: null
@@ -92,16 +104,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219/2006/03/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219/2006/03/07/p/dre
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693457:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:477277:por
+  label: "Revogada a partir de 01.01.2012 pela PORT.306-A/2011.20.12.2011.MF, DR.IS [242-Supl] de 20.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/306-a-2011-477277
+  date: '2011-12-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:17Z'
   warnings: []
   errors: []
 ---
@@ -150,4 +179,4 @@ c) Intervenção cirúrgica: um ou mais actos operatórios com o mesmo objectivo
 
 Pelo Ministro da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 14 de Março de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06401/00020005.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06401/00020005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06401/00020005.pdf)

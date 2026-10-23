@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/167/2009/02/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/167-2009-602285
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb2c520a09004373034a6c0269315c8e69e31a70c5c9cd111427069ec9b11a95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d1196b4f7a130fb10e12425b1951a4c6896ac4ce710179cc34c48a971fef81c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
 - Cartão de Identificação
+- Investigador
 - Livre Trânsito
 - Polícia Judiciária
 relationships:
@@ -83,16 +83,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1042/2001/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1042/2001/08/28/p/dre
+- type: cites
+  target: pt:dre:455412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517218:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216253488:por
+  label: Revogada, a partir de 26.08.2023, pelo(a) Portaria n.º 230/2023 - Diário da República n.º 145/2023, Série I de 2023-07-27
+    nos termos do art. 11.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-2023-216253488
+  date: '2023-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:34Z'
   warnings: []
   errors: []
 ---
@@ -135,9 +149,9 @@ Ao abrigo do n.º 4 do artigo 15.º da [Lei n.º 37/2008](https://diariodarepubl
 
 11.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Justiça, Alberto Bernardes Costa, em 10 de Fevereiro de 2009.**
+O Ministro da Justiça, Alberto Bernardes Costa, em 10 de Fevereiro de 2009.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
 
 Medidas: 41 mm x 51 mm
 
@@ -147,11 +161,11 @@ Descrição: Crachá de metal tombak dourado, em fundo azul, com a legenda «Pol
 
 Frente:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
 
 Verso:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
 
 Texto do verso:
 
@@ -169,11 +183,11 @@ Assinatura do titular:
 
 Frente (comum):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
 
 Verso (todas as carreiras, excepto seguranças):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
 
 Texto do verso (todas as carreiras, excepto seguranças):
 
@@ -193,7 +207,7 @@ Assinatura do titular:
 
 Verso (carreira de seguranças):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03200/0108101083.pdf)
 
 Texto do verso (carreira de seguranças):
 

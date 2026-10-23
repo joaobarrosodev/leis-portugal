@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/889/2007/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/889-2007-637433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfd481ac0f7e9e6085ed3e0f9b51ca0af5c9aaff9959c78497724bad1cac1ecf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96ca0f9e305925aa55560a2f0d52623ebd6be9ad01aaaee456ab228d7dbb8678
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:334916:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334916:por
+  label: "Anexados, vários prédios rústicos, à zona de caça associativa do Souto da Casa, concessionada pela Port 1432/2002\
+    \ de 04-Nov, alterada pelo presente diploma, pela PORT.414/2010.28.06.2010.MADRP, DR.IS [123] de 28.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/414-2010-334916
+  date: '2010-06-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
@@ -84,16 +90,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1432/2002/11/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1432/2002/11/04/p/dre
+- type: cites
+  target: pt:dre:425957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:35Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +134,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 17 de Julho de 2007. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 11 de Julho de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15400/0518605187.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15400/0518605187.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15400/0518605187.pdf)

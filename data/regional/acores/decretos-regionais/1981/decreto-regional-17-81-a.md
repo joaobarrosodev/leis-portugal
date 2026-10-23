@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/17-1981-562387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fa77d32e7fad2feed64e6129c9bc6fb61a1c5ce5bcd0e7e721fd5f162420570
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94a3eb8249890b7c5f70665247012f2c8198fd585326e7918748c8a0fe495e7c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Gabinete Governamental
+- Governo Regional
+- Remuneração
+- Secretário Pessoal
+relationships:
+- type: cites
+  target: pt:dre:573756:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:19Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +99,18 @@ Considerando ainda o vencimento estipulado pelo [Decreto-Lei n.º 108/81](https:
 
 A Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º O vencimento mensal dos secretários particulares dos membros do Governo Regional é de 23000$00 e será actualizado conforme a percentagem de aumento da letra H da tabela de vencimentos do funcionalismo público.
+Artigo 1.º O vencimento mensal dos secretários particulares dos membros do Governo Regional é de 23000$00 e será actualizado conforme a percentagem de aumento da letra H da tabela de vencimentos do funcionalismo público.
 
-###### Art. 2.º É revogado o n.º 2 do artigo 16.º do Decreto Regional n.º 3/76, de 31 de Dezembro, com a redacção que lhe foi dada pelo artigo 1.º do Decreto Regional 6/80/A, de 26 de Março.
+Art. 2.º É revogado o n.º 2 do artigo 16.º do Decreto Regional n.º 3/76, de 31 de Dezembro, com a redacção que lhe foi dada pelo artigo 1.º do Decreto Regional 6/80/A, de 26 de Março.
 
-###### Art. 3.º Este diploma produz efeitos, quanto a vencimentos, desde 1 de Setembro de 1981.
+Art. 3.º Este diploma produz efeitos, quanto a vencimentos, desde 1 de Setembro de 1981.
 
 Aprovado na Assembleia Regional dos Açores em 15 de Setembro de 1981.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 14 de Outubro de 1981.**
+Assinado em Angra do Heroísmo em 14 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

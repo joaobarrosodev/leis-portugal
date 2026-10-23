@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2016/07/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2016-74925436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 634c84e5716f709e4dc4ee185e79afe4dca9248ae681fd8af21b136b12183385
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b208a407bb66ce9227cdc5e4073f499f0c79d50b95aa4a840f107e812d9061a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empreendedorismo
-- Financiamento
-- Empreende Jovem
-- Competitividade Empresarial
-- Empresa Regional
+- Açores
 - Auxílio de Minimis
-- Projeto de Investimento
+- Competitividade Empresarial
+- Empreende Jovem
+- Empreendedorismo
+- Empresa Regional
+- Financiamento
 - Jovem Empresário
 - Programa Operacional
-- Açores
-- Subsídio não Reembolsável
+- Projeto de Investimento
 - Sistema de Incentivos para a Competitividade Empresarial
+- Subsídio não Reembolsável
 - SUBSISTEMA DE INCENTIVOS PARA A QUALIFICAÇÃO E INOVAÇÃO
 relationships:
 - type: amended_by
   target: pt:dre:114528125:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114528125:por
+  label: Alterado, a partir de 01.01.2018, o art. 4.º, revogada a al. q) do art. 8.º, e republicado o DRR 21/2014/A de 10-out,
+    na versão republicada pelo presente diploma, pelo(a) Decreto Regulamentar Regional n.º 2/2018/A - Diário da República
+    n.º 11/2018, Série I de 2018-01-16 nos termos do art. 5.º e sem prejuízo do disposto no art. 8.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2018-114528125
+  date: '2018-01-16'
 - type: cites
   target: celex:32013R1379
   label: null
@@ -136,16 +143,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2015/04/08/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2015/04/08/a/dre
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58248463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608703:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66507582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66936947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74454667:por
+  label: null
+  source: null
 article_structure:
-  article_count: 50
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:23Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +237,9 @@ Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 
 
 6 - Concluída a análise das candidaturas e antes de ser adotada a decisão final, o promotor é ouvido em sede de audiência prévia, sendo concedido um prazo de dez dias úteis para apresentar eventuais alegações contrárias, contado a partir da data de notificação da proposta de decisão.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -194,7 +251,9 @@ Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 
 
 5 - Os incentivos aos projetos de investimento a que se refere o n.º 1 do artigo 4.º são concedidos ao abrigo do [Regulamento (UE) n.º 1407/2013](https://data.europa.eu/eli/reg/2013/1407/oj?locale=pt), da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -224,7 +283,9 @@ iv) [Anterior subalínea iii)]
 
 3 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -236,7 +297,9 @@ iv) [Anterior subalínea iii)]
 
 5 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]
 
@@ -254,7 +317,9 @@ f) Não deter nem ter detido capital numa percentagem superior a 50 %, por si ou
 
 g) Não ter encerrado a mesma atividade, ou uma atividade semelhante, no Espaço Económico Europeu nos dois anos que antecedem a data de candidatura ou que, à data de candidatura, tenha planos concretos para encerrar essa atividade no prazo máximo de dois anos após a conclusão do projeto, conforme previsto na alínea d) do artigo 13.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), da Comissão, de 16 de junho.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -266,7 +331,9 @@ b) Ter uma duração máxima de execução de dois anos a contar da data da assi
 
 3 - Os projetos candidatados podem ser iniciados independentemente da data da apresentação do formulário de pedido de incentivo a que se refere a alínea a) do n.º 1 do artigo 5.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 [...]
 
@@ -314,7 +381,9 @@ u) [...]
 
 v) Aquisição de marcas, franquias, desenhos ou modelos, patentes e modelos de utilidade.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As candidaturas a que se refere o n.º 1 do artigo 4.º são analisadas e selecionadas de acordo com os critérios de seleção previstos no Anexo I ao presente diploma, que dele faz parte integrante, sendo-lhes atribuídas as pontuações nele definidas.
 
@@ -324,7 +393,9 @@ v) Aquisição de marcas, franquias, desenhos ou modelos, patentes e modelos de 
 
 4 - [Anterior n.º 2]
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -344,7 +415,9 @@ b) Os jovens empreendedores sejam, à data da candidatura, titulares de curso mi
 
 5 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 São suscetíveis de apoio, no âmbito da alínea b) do artigo 1.º, os projetos com investimentos que visem a melhoria das condições gerais de fomento do empreendedorismo nos Açores, em consonância com os objetivos preconizados no Plano Estratégico para o Fomento do Empreendedorismo na Região Autónoma dos Açores 2013-2016, podendo assumir as seguintes tipologias:
 
@@ -356,11 +429,15 @@ c) [...]
 
 d) [...]
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Para efeitos da alínea b) do artigo 1.º, podem beneficiar dos incentivos previstos no presente Subsistema de Incentivos as associações sem fins lucrativos e as associações empresariais.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os projetos podem ser apresentados por uma ou várias entidades promotoras, organizadas em copromoção, devendo uma das entidades assumir obrigatoriamente a condição de liderança.
 
@@ -388,11 +465,15 @@ g) Demonstrar, no caso dos projetos geradores de receitas, o cumprimento das nor
 
 h) Demonstrar o cumprimento dos normativos em matéria de contratação pública, quando aplicável.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 Para além das despesas não elegíveis previstas no artigo 7.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, constituem despesas não elegíveis despesas de funcionamento do promotor, relacionadas com atividades de tipo periódico ou contínuo e a aquisição de embarcações.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - As candidaturas a que se refere o artigo 11.º são analisadas e selecionadas de acordo com os critérios de seleção previstos no Anexo II ao presente diploma, que dele faz parte integrante, sendo-lhes atribuídas as pontuações nele definidas.
 
@@ -400,7 +481,9 @@ Para além das despesas não elegíveis previstas no artigo 7.º do [Decreto Leg
 
 3 - [Revogado]
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 O incentivo a conceder sobre as despesas elegíveis aos projetos selecionados previstos na alínea b) do artigo 1.º reveste a forma de incentivo não reembolsável e é correspondente à aplicação de uma percentagem de 85 %.»
 
@@ -482,13 +565,17 @@ Tenha mais de cinquenta anos.
 
 u) «Transformação de produtos agrícolas», qualquer operação realizada sobre um produto agrícola de que resulte um produto que continua a ser um produto agrícola, com exceção das atividades realizadas em explorações agrícolas necessárias à preparação de um produto animal ou vegetal para a primeira venda.
 
-###### Artigo 1.º-B — Apresentação de candidaturas
+Artigo 1.º-B
+
+Apresentação de candidaturas
 
 1 - A apresentação de candidaturas é feita através de formulário eletrónico no Balcão 2020 (https://www.portugal2020.pt/Balcao2020/).
 
 2 - Para apresentar as candidaturas as entidades promotoras devem previamente efetuar o registo e autenticação no Balcão 2020.
 
-###### Artigo 3.º-A — Condições de alteração do projeto
+Artigo 3.º-A
+
+Condições de alteração do projeto
 
 1 - Estão sujeitas a nova decisão da autoridade que concede o incentivo as alterações aos seguintes elementos do projeto:
 
@@ -504,11 +591,15 @@ e) Montante anualizado do apoio público e a respetiva taxa de cofinanciamento, 
 
 2 - O calendário de realização do projeto pode ser objeto de atualização.
 
-###### Artigo 3.º-B — Reduções, revogações, exclusões e sanções administrativas aplicáveis
+Artigo 3.º-B
+
+Reduções, revogações, exclusões e sanções administrativas aplicáveis
 
 O incumprimento das obrigações da entidade promotora, bem como a inexistência ou a perda de qualquer dos requisitos de concessão do apoio, podem determinar a redução ou revogação do mesmo.
 
-###### Artigo 3.º-C — Obrigações dos promotores
+Artigo 3.º-C
+
+Obrigações dos promotores
 
 Para além das obrigações previstas na legislação europeia, nacional e no [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, os promotores ficam obrigados a:
 
@@ -528,7 +619,9 @@ g) Constituir conta bancária específica para onde são movimentados, em exclus
 
 h) Cumprir os normativos legais em matéria de ambiente, de igualdade de oportunidades e de contratação pública, relativamente à execução do projeto.
 
-###### Artigo 10.º-B — Modalidades e procedimentos para apresentação, análise e decisão dos pedidos de pagamento
+Artigo 10.º-B
+
+Modalidades e procedimentos para apresentação, análise e decisão dos pedidos de pagamento
 
 1 - Os pagamentos do incentivo podem assumir as modalidades de adiantamento, reembolso e pagamento final.
 
@@ -554,11 +647,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem pr
 
 Aprovado em Conselho do Governo Regional, na Vila do Corvo, em 7 de abril de 2016.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 8 de junho de 2016.**
+Assinado em Angra do Heroísmo em 8 de junho de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -582,7 +675,7 @@ C - Contributo do projeto para a sustentabilidade económica, ambiental e social
 
 2 - O critério A - Contributo do projeto para a consolidação financeira da empresa é determinado pelo indicador novos capitais próprios/investimento elegível (excluindo salários), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf))](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
 
 3 - O critério B - Contributo do projeto para a inovação e diversificação da oferta, mede o grau de inovação do investimento face ao mercado existente, do seguinte modo:
 
@@ -614,7 +707,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf))](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
 
 4 - O critério C - Contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do Programa Operacional dos Açores 2020 (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -712,15 +805,21 @@ e) Coerência elevada: projeto dirigido a público específico (jovens e potenci
 
 4 - O critério C - Grau de abrangência do projeto - medido pela abrangência territorial e a capacidade de aglutinar empreendedores, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf))](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
 
-## ANEXO III — (a que se refere o artigo 4.º)
+ANEXO III
+
+(a que se refere o artigo 4.º)
 
 Republicação do [Decreto Regulamentar Regional n.º 21/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2014-58248463), de 10 de outubro
 
-### CAPÍTULO I — Disposições gerais
+CAPÍTULO I
 
-###### Artigo 1.º — Objeto
+Disposições gerais
+
+Artigo 1.º
+
+Objeto
 
 O presente diploma regulamenta o Subsistema de Incentivos para o Empreendedorismo Qualificado e Criativo, previsto na alínea e) do artigo 2.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, que visa estimular o aparecimento de novos empreendedores e fortalecer uma cultura empresarial baseada no risco e na vontade empreendedora, incentivando a realização de projetos de investimento que contribuam para a diversificação e renovação do tecido empresarial e que se desenvolvam numa das seguintes áreas:
 
@@ -728,7 +827,9 @@ a) Empreende Jovem;
 
 b) Ações Coletivas de Empreendedorismo.
 
-###### Artigo 1.º-A — Definições
+Artigo 1.º-A
+
+Definições
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -800,13 +901,17 @@ Tenha mais de cinquenta anos.
 
 u) «Transformação de produtos agrícolas», qualquer operação realizada sobre um produto agrícola de que resulte um produto que continua a ser um produto agrícola, com exceção das atividades realizadas em explorações agrícolas necessárias à preparação de um produto animal ou vegetal para a primeira venda.
 
-###### Artigo 1.º-B — Apresentação de candidaturas
+Artigo 1.º-B
+
+Apresentação de candidaturas
 
 1 - A apresentação de candidaturas é feita através de formulário eletrónico no Balcão 2020 (https://www.portugal2020.pt/Balcao2020/).
 
 2 - Para apresentar as candidaturas as entidades promotoras devem previamente efetuar o registo e autenticação no Balcão 2020.
 
-###### Artigo 2.º — Análise das candidaturas
+Artigo 2.º
+
+Análise das candidaturas
 
 1 - As candidaturas relativas aos projetos de investimento a que se refere o n.º 1 do artigo 4.º são analisadas pela direção regional com competência em matéria de apoio ao investimento, em função de competências delegadas pela Autoridade de Gestão do Programa Operacional dos Açores 2020, no que concerne à apreciação da elegibilidade e do mérito das candidaturas, podendo a direção regional solicitar os pareceres que considerar necessários para uma melhor fundamentação da análise.
 
@@ -820,7 +925,9 @@ u) «Transformação de produtos agrícolas», qualquer operação realizada sob
 
 6 - Concluída a análise das candidaturas e antes de ser adotada a decisão final, o promotor é ouvido em sede de audiência prévia, sendo concedido um prazo de dez dias úteis para apresentar eventuais alegações contrárias, contado a partir da data de notificação da proposta de decisão.
 
-###### Artigo 3.º — Concessão dos incentivos
+Artigo 3.º
+
+Concessão dos incentivos
 
 1 - Os incentivos são concedidos mediante despacho do membro do Governo Regional com competência em matéria de competitividade empresarial ou, quando resultantes de aprovação de projetos aprovados pelo Programa Operacional dos Açores 2020, pela respetiva autoridade de gestão.
 
@@ -832,7 +939,9 @@ u) «Transformação de produtos agrícolas», qualquer operação realizada sob
 
 5 - Os incentivos aos projetos de investimento a que se refere o n.º 1 do artigo 4.º são concedidos ao abrigo do [Regulamento (UE) n.º 1407/2013](https://data.europa.eu/eli/reg/2013/1407/oj?locale=pt), da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.
 
-###### Artigo 3.º-A — Condições de alteração do projeto
+Artigo 3.º-A
+
+Condições de alteração do projeto
 
 1 - Estão sujeitas a nova decisão da autoridade que concede o incentivo as alterações aos seguintes elementos do projeto:
 
@@ -848,11 +957,15 @@ e) Montante anualizado do apoio público e a respetiva taxa de cofinanciamento, 
 
 2 - O calendário de realização do projeto pode ser objeto de atualização.
 
-###### Artigo 3.º-B — Reduções, revogações, exclusões e sanções administrativas aplicáveis
+Artigo 3.º-B
+
+Reduções, revogações, exclusões e sanções administrativas aplicáveis
 
 O incumprimento das obrigações da entidade promotora, bem como a inexistência ou a perda de qualquer dos requisitos de concessão do apoio, podem determinar a redução ou revogação do mesmo.
 
-###### Artigo 3.º-C — Obrigações dos promotores
+Artigo 3.º-C
+
+Obrigações dos promotores
 
 Para além das obrigações previstas na legislação europeia, nacional e no [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, os promotores ficam obrigados a:
 
@@ -872,9 +985,13 @@ g) Constituir conta bancária específica para onde são movimentados, em exclus
 
 h) Cumprir os normativos legais em matéria de ambiente, de igualdade de oportunidades e de contratação pública, relativamente à execução do projeto.
 
-### CAPÍTULO II — Empreende Jovem
+CAPÍTULO II
 
-###### Artigo 4.º — Âmbito
+Empreende Jovem
+
+Artigo 4.º
+
+Âmbito
 
 1 - São suscetíveis de apoio, no âmbito da alínea a) do artigo 1.º, os projetos de investimento que, cumulativamente, preencham as seguintes condições:
 
@@ -904,7 +1021,9 @@ iv) Atividades de animação turística incluídas no [Decreto-Lei n.º 108/2009
 
 3 - O presente Subsistema de Incentivos não abrange os projetos de investimento relacionados com a produção primária de produtos agrícolas enumerados no Anexo I do Tratado sobre o Funcionamento da União Europeia.
 
-###### Artigo 5.º — Promotores
+Artigo 5.º
+
+Promotores
 
 1 - Para efeitos da alínea a) do artigo 1.º, podem beneficiar dos incentivos previstos no presente Subsistema de Incentivos empresários em nome individual, estabelecimentos individuais de responsabilidade limitada, sociedades comerciais e cooperativas, detidas maioritariamente por jovens empreendedores.
 
@@ -916,7 +1035,9 @@ iv) Atividades de animação turística incluídas no [Decreto-Lei n.º 108/2009
 
 5 - Os jovens empreendedores só podem apresentar uma segunda candidatura depois de concluído o projeto de investimento anteriormente aprovado no âmbito do presente Subsistema de Incentivos, do qual façam parte como detentores de capital, salvo situação devidamente justificada.
 
-###### Artigo 6.º — Condições de acesso dos promotores
+Artigo 6.º
+
+Condições de acesso dos promotores
 
 Para além das condições gerais de acesso previstas no artigo 4.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, os promotores devem:
 
@@ -934,7 +1055,9 @@ f) Não deter nem ter detido capital numa percentagem superior a 50 %, por si ou
 
 g) Não ter encerrado a mesma atividade, ou uma atividade semelhante, no Espaço Económico Europeu nos dois anos que antecedem a data de candidatura ou que, à data de candidatura, tenha planos concretos para encerrar essa atividade no prazo máximo de dois anos após a conclusão do projeto, conforme previsto na alínea d) do artigo 13.º do [Regulamento (UE) n.º 651/2014](https://data.europa.eu/eli/reg/2014/651/oj?locale=pt), da Comissão, de 16 de junho.
 
-###### Artigo 7.º — Condições de acesso dos projetos
+Artigo 7.º
+
+Condições de acesso dos projetos
 
 1 - Para além das condições gerais de acesso previstas no artigo 5.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, os projetos devem:
 
@@ -946,7 +1069,9 @@ b) Ter uma duração máxima de execução de dois anos a contar da data da assi
 
 3 - Os projetos candidatados podem ser iniciados independentemente da data da apresentação do formulário de pedido de incentivo a que se refere a alínea a) do n.º 1 do artigo 5.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho.
 
-###### Artigo 8.º — Despesas elegíveis
+Artigo 8.º
+
+Despesas elegíveis
 
 Constituem despesas elegíveis, relativamente aos projetos que se desenvolvam no âmbito da alínea a) do artigo 1.º, as seguintes:
 
@@ -994,7 +1119,9 @@ u) Despesas relacionadas com a intervenção de técnicos oficiais de contas ou 
 
 v) Aquisição de marcas, franquias, desenhos ou modelos, patentes e modelos de utilidade.
 
-###### Artigo 9.º — Critérios de seleção
+Artigo 9.º
+
+Critérios de seleção
 
 1 - As candidaturas a que se refere o n.º 1 do artigo 4.º são analisadas e selecionadas de acordo com os critérios de seleção previstos no Anexo I ao presente diploma, que dele faz parte integrante, sendo-lhes atribuídas as pontuações nele definidas.
 
@@ -1004,7 +1131,9 @@ v) Aquisição de marcas, franquias, desenhos ou modelos, patentes e modelos de 
 
 4 - Para efeitos do número anterior, sempre que se verificar, de forma fundamentada, não estarem reunidas as condições em termos de capacidade técnica e de gestão adequadas à dimensão e complexidade do projeto, o mesmo será considerado não elegível.
 
-###### Artigo 10.º — Natureza e montante do incentivo
+Artigo 10.º
+
+Natureza e montante do incentivo
 
 1 - O incentivo a conceder sobre as despesas elegíveis aos projetos selecionados previstos na alínea a) do artigo 1.º reveste a forma de incentivo não reembolsável e é correspondente à aplicação de uma percentagem de 40 % para as ilhas de São Miguel e Terceira, de 45 % para as ilhas Faial e Pico e de 50 % para as ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo, sem prejuízo do disposto no artigo seguinte.
 
@@ -1038,11 +1167,15 @@ b) Os jovens empreendedores sejam, à data da candidatura, titulares de curso mi
 
 5 - As majorações das taxas de comparticipação de incentivo não reembolsável nos concelhos a que se refere o n.º 3 do artigo 8.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, podem ser objeto de regulamentação em decreto regulamentar próprio.
 
-###### Artigo 10.º-A — Norma Transitória
+Artigo 10.º-A
+
+Norma Transitória
 
 Para efeitos do disposto no n.º 1 do artigo anterior é excecionalmente fixada em 50 % a percentagem relativa a projetos que se realizem na ilha Terceira, que criem postos de trabalho e cuja candidatura dê entrada até 31 de dezembro de 2019.
 
-###### Artigo 10.º-B — Modalidades e procedimentos para apresentação, análise e decisão dos pedidos de pagamento
+Artigo 10.º-B
+
+Modalidades e procedimentos para apresentação, análise e decisão dos pedidos de pagamento
 
 1 - Os pagamentos do incentivo podem assumir as modalidades de adiantamento, reembolso e pagamento final.
 
@@ -1054,9 +1187,13 @@ Para efeitos do disposto no n.º 1 do artigo anterior é excecionalmente fixada 
 
 5 - Os pagamentos dos incentivos são efetuados por transferência bancária para a conta bancária do promotor indicada no termo de aceitação ou no contrato de concessão de incentivos, no prazo de sessenta dias a contar da data de apresentação do pedido de pagamento.
 
-### CAPÍTULO III — Ações coletivas de empreendedorismo
+CAPÍTULO III
 
-###### Artigo 11.º — Âmbito
+Ações coletivas de empreendedorismo
+
+Artigo 11.º
+
+Âmbito
 
 São suscetíveis de apoio, no âmbito da alínea b) do artigo 1.º, os projetos com investimentos que visem a melhoria das condições gerais de fomento do empreendedorismo nos Açores, em consonância com os objetivos preconizados no Plano Estratégico para o Fomento do Empreendedorismo na Região Autónoma dos Açores 2013-2016, podendo assumir as seguintes tipologias:
 
@@ -1068,11 +1205,15 @@ c) Participação em redes internacionais de apoio ao empreendedorismo ou em pro
 
 d) Desenvolvimento de formas de financiamento associadas à atividade empreendedora.
 
-###### Artigo 12.º — Promotores
+Artigo 12.º
+
+Promotores
 
 Para efeitos da alínea b) do artigo 1.º, podem beneficiar dos incentivos previstos no presente Subsistema de Incentivos as associações sem fins lucrativos e as associações empresariais.
 
-###### Artigo 13.º — Condições de acesso dos promotores
+Artigo 13.º
+
+Condições de acesso dos promotores
 
 Para além das condições gerais de acesso previstas nas alíneas a), c) e d) do artigo 4.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, os promotores devem:
 
@@ -1080,7 +1221,9 @@ a) Desenvolver a sua atividade em áreas diretamente relacionadas com os projeto
 
 b) Possuir vocação e experiência adequadas para a prossecução dos objetivos e atividades do projeto, através da demonstração de recursos humanos qualificados para o efeito e estrutura organizacional adequada.
 
-###### Artigo 14.º — Condições de acesso dos projetos
+Artigo 14.º
+
+Condições de acesso dos projetos
 
 1 - Os projetos podem ser apresentados por uma ou várias entidades promotoras, organizadas em copromoção, devendo uma das entidades assumir obrigatoriamente a condição de liderança.
 
@@ -1114,7 +1257,9 @@ g) Demonstrar, no caso dos projetos geradores de receitas, o cumprimento das nor
 
 h) Demonstrar o cumprimento dos normativos em matéria de contratação pública, quando aplicável.
 
-###### Artigo 15.º — Despesas elegíveis
+Artigo 15.º
+
+Despesas elegíveis
 
 1 - Constituem despesas elegíveis, relativamente a projetos que se desenvolvam no âmbito da alínea b) do artigo 1.º, as seguintes:
 
@@ -1136,11 +1281,15 @@ g) Organização de programas e ações de qualificação especificamente direci
 
 3 - Podem ser consideradas elegíveis outras despesas para além das referidas nos números anteriores, até ao limite de 25 % do investimento elegível desde que devidamente justificadas em sede de candidatura e demonstradas como essenciais ao desenvolvimento do projeto.
 
-###### Artigo 16.º — Despesas não elegíveis
+Artigo 16.º
+
+Despesas não elegíveis
 
 Para além das despesas não elegíveis previstas no artigo 7.º do [Decreto Legislativo Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896), de 9 de julho, constituem despesas não elegíveis despesas de funcionamento do promotor relacionadas com atividades de tipo periódico ou contínuo e a aquisição de embarcações.
 
-###### Artigo 17.º — Critérios de seleção
+Artigo 17.º
+
+Critérios de seleção
 
 1 - As candidaturas a que se refere o artigo 11.º são analisadas e selecionadas de acordo com os critérios de seleção previstos no Anexo II ao presente diploma, que dele faz parte integrante, sendo-lhes atribuídas as pontuações nele definidas.
 
@@ -1148,17 +1297,25 @@ Para além das despesas não elegíveis previstas no artigo 7.º do [Decreto Leg
 
 3 - [Revogado].
 
-###### Artigo 18.º — Natureza e montante do incentivo
+Artigo 18.º
+
+Natureza e montante do incentivo
 
 O incentivo a conceder sobre as despesas elegíveis aos projetos selecionados previstos na alínea b) do artigo 1.º reveste a forma de incentivo não reembolsável e é correspondente à aplicação de uma percentagem de 85 %.
 
-### CAPÍTULO IV — Disposições finais
+CAPÍTULO IV
 
-###### Artigo 19.º — Entrada em vigor
+Disposições finais
+
+Artigo 19.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-## ANEXO I — Metodologia para a determinação do mérito dos projetos a que se refere a alínea a) do artigo 1.º
+ANEXO I
+
+Metodologia para a determinação do mérito dos projetos a que se refere a alínea a) do artigo 1.º
 
 1 - O Mérito do Projeto (MP) é calculado através da seguinte fórmula:
 
@@ -1174,7 +1331,7 @@ C - Contributo do projeto para a sustentabilidade económica, ambiental e social
 
 2 - O critério A - Contributo do projeto para a consolidação financeira da empresa é determinado pelo indicador novos capitais próprios/investimento elegível (excluindo salários), nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf))](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
 
 3 - O critério B - Contributo do projeto para a inovação e diversificação da oferta, mede o grau de inovação do investimento face ao mercado existente, do seguinte modo:
 
@@ -1206,7 +1363,7 @@ Não inclui inovação em nenhum dos setores.
 
 A pontuação é obtida com base na seguinte grelha:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf))](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
 
 4 - O critério C - Contributo do projeto para a sustentabilidade económica, ambiental e social mede os efeitos do investimento no desenvolvimento sustentável do mercado onde se insere, designadamente em termos de geração de valor acrescentado, impactos ambientais e medidas de responsabilidade social, dos contributos para os resultados do Programa Operacional dos Açores 2020 (PO) e para a estratégia de especialização inteligente do seguinte modo:
 
@@ -1252,7 +1409,9 @@ Enquadra-se num dos setores definidos na RIS 3 para a Região - 5 pontos;
 
 Não se enquadra - 3 pontos.
 
-## ANEXO II — Metodologia para a determinação do mérito dos projetos a que se refere a alínea b) do artigo 1.º
+ANEXO II
+
+Metodologia para a determinação do mérito dos projetos a que se refere a alínea b) do artigo 1.º
 
 1 - O Mérito do Projeto (MP) é determinado pela soma ponderada das pontuações parcelares, atribuídas numa escala compreendida entre 1 e 5, para cada um dos critérios, de acordo com a seguinte fórmula:
 
@@ -1300,4 +1459,4 @@ e) Coerência elevada: projeto dirigido a público específico (jovens e potenci
 
 4 - O critério C - Grau de abrangência do projeto - medido pela abrangência territorial e a capacidade de aglutinar empreendedores, do seguinte modo:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf))](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/07/13300/0214702163.pdf)

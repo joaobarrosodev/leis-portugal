@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03100/11341135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/203/2007/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-2007-517665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ac5dfae1cb79c898b1a40b2a1963c672df6fa0f529cb789827b7a483e05159d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 430c77e87848958f9e580d676a0b8dd26efd8e2b55891ba9dcdf56381bc5cc9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Cidadão
-- Pagamento
 - Identificação Civil
+- Pagamento
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:108228013:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342638:por
+  label: "Alterados, a partir de 01.10.2010, os arts. 3º, 4º e 5º, pela PORT.992/2010.29.09.2010.MJ, DR.IS [190] de 29.09.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/992-2010-342638
+  date: '2010-09-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2007/02/05/p/dre
+- type: cites
+  target: pt:dre:518073:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:334928:por
+  label: "Revogado, a partir de 01.07.2010, o art. 6º pela PORT.426/2010.29.06.2010.MJ, DR.IS [124] de 29.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/426-2010-334928
+  date: '2010-06-29'
+- type: repealed_by
+  target: pt:dre:108228013:por
+  label: Revogada a partir de 01.10.2017 pelo(a) Portaria n.º 291/2017 - Diário da República n.º 188/2017, Série I de 2017-09-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-2017-108228013
+  date: '2017-09-28'
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:52Z'
   warnings: []
   errors: []
 ---
@@ -152,4 +172,4 @@ Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário 
 
 Prazos máximos de entrega das cartas de activação que permitem o levantamento do cartão de cidadão pelos interessados nos pedidos urgentes referidos nas alíneas b) e c) do n.º 1 do artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/03100/11341135.pdf))](https://files.diariodarepublica.pt/1s/2007/02/03100/11341135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/03100/11341135.pdf)

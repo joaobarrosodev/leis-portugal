@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b36aa3aafa3a12919508cc15b96c69e57f75620d4c521bb6805a1398faebd158
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ead87ac67b45763512658beef4ed4d9ac1fe9474e033da9bf3015c07881607e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Madeira.região Autónoma
+- Pessoal de Chefia
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:480297:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660512:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:22Z'
   warnings: []
   errors: []
 ---
@@ -268,26 +306,26 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação, produzindo e
 
 Aprovado em sessão plenária de 21 de Novembro de 1988.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 20 de Dezembro de 1988.**
+Assinado em 20 de Dezembro de 1988.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 MAPA I
 
 Estrutura da carreira técnica superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/03800/06080611.pdf))](https://files.diariodarepublica.pt/1s/1989/02/03800/06080611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/03800/06080611.pdf)
 
 MAPA II
 
 Estrutura da carreira técnica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/03800/06080611.pdf))](https://files.diariodarepublica.pt/1s/1989/02/03800/06080611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/03800/06080611.pdf)
 
 MAPA III
 
 Tabela a que se refere o n.º 2 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/03800/06080611.pdf))](https://files.diariodarepublica.pt/1s/1989/02/03800/06080611.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/03800/06080611.pdf)

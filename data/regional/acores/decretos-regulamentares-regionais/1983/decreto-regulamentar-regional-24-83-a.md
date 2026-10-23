@@ -48,36 +48,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1983-451673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba81dd2925424648e976f061bd1ed2fbfc3446571eb606222fa13c15817bcf78
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 656270237ad605f009f4030ecf519306206a9470c37e606e399095e9902197d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Função Pública
+- Instituições de Previdência Social
+- Regime Jurídico
+- Segurança Social
+- Trabalhador das Instituições de Previdência
+relationships:
+- type: cites
+  target: pt:dre:376211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394150:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:56Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +104,9 @@ Dado que, por lapso, não foram considerados naquele diploma regional os Serviç
 
 Assim, o Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 2.º do [Decreto Regulamentar Regional n.º 39/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-1982-376211), de 16 de Outubro, na parte abaixo expressamente referida, passa a ter a seguinte redacção:
+Artigo único. O artigo 2.º do [Decreto Regulamentar Regional n.º 39/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-1982-376211), de 16 de Outubro, na parte abaixo expressamente referida, passa a ter a seguinte redacção:
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 ###### Artigo 1.º — (Regime jurídico aplicável)
 
@@ -102,10 +116,10 @@ Assim, o Governo Regional decreta, nos termos da alínea b) do artigo 229.º da 
 
 Aprovado em Conselho do Governo em 6 de Abril de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 2 de Maio de 1983.**
+Assinado em Angra do Heroísmo em 2 de Maio de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/807/2008/08/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/807-2008-455149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 773255b5e834ec8c24b7b75fdd76c741266418996f7f4a96c6f08797ba296f97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c56a7b9c744b8a2b63ad8ecd169a453c706581eae0d8ebc7658121765042856
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
 - Comissão de Apreciação de Projectos
-- Projeto de Investimento
+- Financiamento
 - Instituto do Turismo de Portugal
+- Projeto de Investimento
+- Turismo
 - ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:344942:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art. 5.º pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterado o nº 2 do art. 5º da presente portaria, na redacção da Lei 3-B/2010, de 28-Abr, pela LEI.55-A/2010.31.12.2010.AR,\
+    \ DR.IS [253-Supl] de 31.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574885:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:35Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +216,7 @@ Para efeitos do disposto no artigo 155.º do [Decreto-Lei n.º 422/89](https://d
 
 3 - É revogada a [Portaria n.º 415/90](https://diariodarepublica.pt/dr/detalhe/portaria/415-1990-574885), de 2 de Junho.
 
-**O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade, em 31 de Julho de 2008.**
+O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade, em 31 de Julho de 2008.
 
 ## ANEXO — Elenco das comissões a que se refere o n.º 2 do artigo 9.º
 

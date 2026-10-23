@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10400/35443555.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/637/2007/05/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/637-2007-638726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a64d1bed146008a2f78e2096477f95f8a74d40cc2113363ef016c8ddd88b07e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f2783c11db607e247aeb951dcd59f1606d82f66030058cbfcae8074586ee79b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
-- Pessoal Dirigente
 - Estatuto
+- Instituto do Emprego e Formação Profissional
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:176363:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494176:por
+  label: "Aditados os arts. 7.º-A, 22.º-A, 27.º-A, alterado o anexo I, revogados o n.º 3 do art 7.º, o n.º 2 do art. 22.º,\
+    \ o n.º 4 do art. 26.º e o n.º 3 do art. 27.º, todos dos Estatutos do Instituto do Emprego e Formação Profissional, I.\
+    \ P., aprovados pelo presente diploma, rectificado pela Decl-Rect 70/2007 de 20-Jul, e republicados em anexo, com a redacção\
+    \ actual, pela PORT.570/2009.29.05.2009.MFAP, DR.IS [104] de 29.05.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/570-2009-494176
+  date: '2009-05-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/213/2007/05/29/p/dre
   label: null
@@ -84,16 +92,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638534:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:636054:por
+  label: "Rectificada pela DECL-RECT.70/2007.20.07.2007.PCM, DR.IS [139] de 20.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/70-2007-636054
+  date: '2007-07-20'
+- type: repealed_by
+  target: pt:dre:176363:por
+  label: "Revogado o presente diploma, na redação da Port 570/2009, de 29-maio, pela PORT.319/2012.12.10.2012.MF, DR.IS [198]\
+    \ de 12.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/319-2012-176363
+  date: '2012-10-12'
 article_structure:
   article_count: 35
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:57Z'
   warnings: []
   errors: []
 ---
@@ -120,7 +147,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 24 de Maio de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.
 
 ESTATUTOS DO INSTITUTO DO EMPREGO E DA FORMAÇÃO PROFISSIONAL, I. P.
 
@@ -1120,4 +1147,4 @@ Centro de reabilitação - Centro de Reabilitação Profissional de Alcoitão.
 
 ## ANEXO II — Quadro de dirigentes e chefias do IEFP, I. P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/10400/35443555.pdf))](https://files.diariodarepublica.pt/1s/2007/05/10400/35443555.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10400/35443555.pdf)

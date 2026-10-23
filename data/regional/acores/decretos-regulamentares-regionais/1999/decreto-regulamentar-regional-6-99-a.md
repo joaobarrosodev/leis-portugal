@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/085b00/19651968.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/1999/04/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1999-543367
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dde083ce2bef33b55087b724116027d87903e6fa310738def29559fdf36a0645
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f1859bb115ab989d1c44a66ef9c96f43f09906c5f6ea7d309ae5c48be3c28d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,38 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência de Turismo
 - Ajuda Comunitária
-- Financiamento
-- Turismo
-- Secretaria Regional da Economia
-- Construção Civil
+- Apoio ao Investimento
+- Artesanato
+- Cinema
+- Comércio
 - Conselho Regional de Incentivos
+- Construção Civil
 - Contrato de Concessão
+- Criação de Emprego
 - Criação de Empresas
 - Definição de Competências
-- Desenvolvimento Regional
-- Artesanato
-- Produção Cinematográfica
-- Apoio ao Investimento
-- Projeto de Investimento
-- Indústria
-- Instituto de Investimento e Privatizações dos Açores
-- QCA
-- Criação de Emprego
 - Desenvolvimento Económico
-- Prémio ao Investimento
-- Cinema
+- Desenvolvimento Regional
+- Financiamento
+- Indústria
 - Indústria Cinematográfica
+- Instituto de Investimento e Privatizações dos Açores
+- Prémio ao Investimento
+- Produção Cinematográfica
+- Projeto de Investimento
+- QCA
+- Secretaria Regional da Economia
 - Sistema de Incentivos da Região Autónoma dos Açores
-- Açores
-- Comércio
 - Teatro
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:233746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661752:por
+  label: "Alterados os arts. 10º, 11º e 18º do DRR 13/95/A de 28-Jul, na redacção dada pelo presente diploma pelo DRR.19/99/A.1999.11.19.SRE-RAA,DR.IS-B\
+    \ [295] de 21/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1999-661752
+  date: '1999-11-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/1995/02/20/a/dre
   label: null
@@ -106,16 +112,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/13/1995/07/28/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/13/1995/07/28/a/dre
+- type: cites
+  target: pt:dre:187693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484650:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:339848:por
+  label: "Revogado, sem prejuízo do disposto nos nºs 1 e 4 do art. 22º do mesmo diploma, pelo DLR.26/2000/A.2000.07.10.ALR-RAA,\
+    \ DR.IS-A [184] de 10/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2000-339848
+  date: '2000-07-10'
 article_structure:
-  article_count: 17
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:10Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +172,9 @@ f) ...
 
 g) ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Para além das condições previstas nos artigos 4.º e 5.º do [Decreto Legislativo Regional n.º 2/95/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1995-187693), de 20 de Fevereiro, os projectos candidatos aos apoios previstos no SIRAA devem satisfazer ainda os seguintes requisitos:
 
@@ -166,7 +188,9 @@ d) ...
 
 2 - Para efeitos do disposto na alínea b) do número anterior, considera-se empreendimento global o conjunto de dois ou mais projectos destinados ao exercício de actividades inseridas no mesmo grupo da CAE - 2.ª revisão.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O SIRAPA compreende o apoio à criação de novas empresas, expansão e ou modernização das existentes e recolocação de estabelecimentos nas áreas da indústria, construção e outras actividades (cinemas e teatros), incidindo sobre despesas de investimento em capital fixo superiores a 20000 contos e inferiores a 100000 contos.
 
@@ -176,7 +200,9 @@ d) ...
 
 4 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - O SIRALA compreende o apoio à criação de novas empresas e a modernização e ou expansão das existentes, vocacionadas fundamentalmente para a satisfação do mercado local, nas áreas da indústria, construção, comércio, artesanato, agências de viagens e turismo e outras actividades (cinemas e teatros), incidindo sobre despesas de investimento em capital fixo igual ou inferior a 20000 contos e superior a 3000 contos, salvo o disposto especificamente no SIRALA - Comércio e no SIRALA - Artesanato.
 
@@ -188,23 +214,31 @@ d) ...
 
 5 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - O SIRALA, no caso do artesanato, integra artes e ofícios tradicionais, apoiando a criação de novas empresas e a modernização e ou expansão das existentes, incidindo sobre despesas de investimento em capital fixo superior a 1000 contos e igual ou inferior a 20000 contos.
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
 2 - O prémio a atribuir a cada projecto tem por base a pontuação calculada em função dos critérios e ponderações constantes do quadro anexo ao presente diploma.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O incentivo a conceder pelo SIRAPE assume a forma de subvenção a fundo perdido, sendo o respectivo montante determinado pela aplicação sobre o valor do investimento do projecto de uma percentagem correspondente à pontuação obtida para o prémio, calculado de acordo com o disposto no artigo anterior.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -228,7 +262,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -254,7 +290,9 @@ f) Propor a renegociação, a transmissão da posição contratual e a rescisão
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As candidaturas ao SIRAPE são apresentadas na Secretaria Regional da Economia.
 
@@ -262,11 +300,15 @@ f) Propor a renegociação, a transmissão da posição contratual e a rescisão
 
 3 - Nos contratos relativos ao SIRAPE devem ser estabelecidos os critérios de pagamento do prémio, de acordo com o regime de incentivos, de âmbito nacional, aplicado aos projectos a que se reportam.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 Os incentivos são concedidos mediante resolução do Governo Regional, sob proposta do Secretário Regional da Presidência para as Finanças e Planeamento, no caso do SIRALA, e do Secretário Regional da Economia, nos casos do SIRAPA e do SIRAPE.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A concessão de incentivos é objecto de contrato, a celebrar, por documento particular, entre o promotor e a Secretaria Regional da Economia, nos casos do SIRAPA e do SIRAPE, e entre aquele e a CCIA, no caso do SIRALA.
 
@@ -276,7 +318,9 @@ Os incentivos são concedidos mediante resolução do Governo Regional, sob prop
 
 4 - A posição contratual do beneficiário pode ser objecto de transmissão, após autorização do Secretário Regional da Economia e uma vez verificadas as condições de acesso previstas no presente diploma.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O contrato pode ser rescindido mediante despacho do Secretário Regional da Economia, com os seguintes fundamentos:
 
@@ -290,7 +334,9 @@ d) ...
 
 2 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Os pagamentos, nos casos do SIRAPA e do SIRAPE, são efectuados contra a entrega de documentos originais justificativos da realização do investimento, que, após validação, serão devolvidos aos apresentantes.
 
@@ -318,13 +364,13 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 11 de Fevereiro de 1999.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 16 de Março de 1999.**
+Assinado em Angra do Heroísmo em 16 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — Quadro a que se refere o artigo 10.º
 

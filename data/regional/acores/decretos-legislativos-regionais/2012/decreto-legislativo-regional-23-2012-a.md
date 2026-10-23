@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2012/05/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2012-177788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2393c62aa6c870a75bfa907256416230c95d254ae6ba8622de7453c1bae7173
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cf1bc02f2649c2bb420db53c8691d46ccd8cff1b4b8968815898196a556ab59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
+- Açores
 - Definição de Competências
 - Estabelecimento Hoteleiro
 - Indústria Hoteleira
-- Regime Jurídico
-- Açores
 - Infraestrutura Turística
+- Regime Jurídico
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:73070297:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:73070297:por
+  label: Alterados os arts. 4.º e 53.º do DLR 7/2012/A de 01-mar, com a redação e republicação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2016-73070297
+  date: '2016-01-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/26/2010/03/30/p/dre
   label: null
@@ -106,16 +112,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/28/2010/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/28/2010/09/02/p/dre
+- type: cites
+  target: pt:dre:344261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 75
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:30Z'
   warnings: []
   errors: []
 ---
@@ -162,11 +204,11 @@ O presente diploma produz efeitos à data da entrada em vigor do [Decreto Legisl
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de abril de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 7 de maio de 2012.**
+Assinado em Angra do Heroísmo em 7 de maio de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -566,7 +608,9 @@ d) No caso de a vistoria ter imposto condicionantes, termo de responsabilidade a
 
 5 - Caso se venha a verificar grave ou significativa desconformidade do empreendimento em funcionamento com o projeto aprovado, o presidente da câmara determina a execução das medidas de tutela da legalidade urbanística que sejam adequadas, sem prejuízo das demais sanções aplicáveis, e os subscritores dos termos de responsabilidade a que se referem as alíneas a) a d) do n.º 1 respondem solidariamente com a entidade exploradora do empreendimento, pelos danos causados por força da desconformidade em causa.
 
-###### Artigo 32.º — Título de abertura
+###### Artigo 32.º
+
+## Título de abertura
 
 Constituem título válido de abertura dos empreendimentos qualquer um dos seguintes documentos:
 
@@ -734,7 +778,9 @@ b) A reserva temporária de parte ou da totalidade do empreendimento turístico.
 
 Nas informações de caráter geral relativas aos empreendimentos turísticos e aos serviços que neles são oferecidos devem ser usados os sinais normalizados constantes de tabela a aprovar por portaria do membro do Governo Regional responsável pela área do turismo.
 
-###### Artigo 48.º — Livro de reclamações
+###### Artigo 48.º
+
+## Livro de reclamações
 
 1 - Os empreendimentos turísticos devem dispor de livro de reclamações, nos termos e condições estabelecidos na legislação vigente.
 

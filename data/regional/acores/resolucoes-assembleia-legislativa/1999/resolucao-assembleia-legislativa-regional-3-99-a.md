@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/3/1999/04/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/3-1999-534626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53cc6adf1e3b2a70701e195d0418ca31e4fded4c892f0d28ee73fbe94a5a82b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea61193a73e47b8c5b2fa205785c3b882e1bfcfa640b1dd89315a6680f7fa19e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Regional
 - Comissão Especializada Permanente de Assuntos Parlamentares Ambiente e Trabalho
 - Comissão Especializada Permanente de Assuntos Sociais
 - Comissão Especializada Permanente de Economia
 - Comissão Especializada Permanente de Política Geral
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolalr/1-a/1999/01/30/a/dre
   label: null
   source: http://data.dre.pt/eli/resolalr/1-a/1999/01/30/a/dre
+- type: cites
+  target: pt:dre:244343:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:29Z'
   warnings: []
   errors: []
 ---
@@ -143,4 +147,4 @@ Esta resolução entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 18 de Março de 1999.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/37/2008/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/37-2008-386610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 688740abdf40200e8232971b7db94164e9fff432f997d40f5a292e1d6f5fa448
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d7578ab2fbbcc937839ceeb66796fae8c52102a7dcc8973fcaa3d9f24e1378b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,31 @@ relationships:
   target: pt:dre:483135:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:483135:por
+  label: "Renovada, por um período de seis anos, a zona de caça municipal de Outeiro de Gatos criada pela Port 1371/2003,\
+    \ de 18-Dez, alterada pelo presente diploma, bem como a transferência de gestão pelo mesmo período, pela PORT.1349/2009.26.10.2009.MADRP,\
+    \ DR.IS [207] de 26.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1349-2009-483135
+  date: '2009-10-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1371/2003/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1371/2003/12/18/p/dre
+- type: cites
+  target: pt:dre:432647:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:57Z'
   warnings: []
   errors: []
 ---
@@ -109,4 +120,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 27 de Dezembro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00800/0037100371.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00800/0037100371.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00800/0037100371.pdf)

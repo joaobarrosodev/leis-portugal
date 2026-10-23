@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/08/18000/23262326.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1982-396903
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 860b53eb77ae6ba14e6e3c906c6c56ac8471e80f6034fdb4f21f9c967484e51d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dacc2c8cda22244de1ba2abae7cb263222911f192701465066cf68dbce7c2098
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Delegação Regional
+- Horta
+- Orgânica
+- Pessoal de Chefia
+- Ponta Delgada
+- Secretaria Regional da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:333276:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:561599:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333276:por
+  label: "Revogado pelo DRR.10/90/A.23.02.1990.GR-RAA, DR.IS [65] de 19.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1990-333276
+  date: '1990-02-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:44Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +107,18 @@ Verificando-se deficiência na redacção do artigo 25.º do [Decreto Regulament
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
 
-###### Artigo único. O artigo 25.º do [Decreto Regulamentar Regional n.º 45/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1981-561599), de 7 de Outubro, passa a ter a seguinte redacção:
+Artigo único. O artigo 25.º do [Decreto Regulamentar Regional n.º 45/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1981-561599), de 7 de Outubro, passa a ter a seguinte redacção:
 
-###### Art. 25.º - 1 - A Delegação de Ponta Delgada será chefiada pelo técnico superior do respectivo quadro, o qual, por esse facto, terá direito à remuneração correspondente à letra imediatamente superior à que possuir.
+Art. 25.º - 1 - A Delegação de Ponta Delgada será chefiada pelo técnico superior do respectivo quadro, o qual, por esse facto, terá direito à remuneração correspondente à letra imediatamente superior à que possuir.
 
 2 - A Delegação da Horta será chefiada por um chefe de secção.
 
 Aprovado em Conselho do Governo Regional em 16 de Junho de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Julho de 1982.**
+Assinado em Angra do Heroísmo em 20 de Julho de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

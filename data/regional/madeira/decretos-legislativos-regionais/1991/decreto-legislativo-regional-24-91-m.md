@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/1991/12/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1991-389620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6900ed2c8ec0dfa38b051ef1784e259a7a160a123803f0ef2bd0951ff5477dbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3689bc8d61d0394544e9e138d183e21f258a8beb142ccb09331bbe3238b3d1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional
 - Função Pública
-- Sistema Retributivo
-- Remuneração Acessória
 - Madeira.região Autónoma
 - Remuneração
-- Administração Regional
+- Remuneração Acessória
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:397327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397327:por
+  label: "Mantido o regime de atribuição do complemento regional de remuneração definido no presente diploma pelo DLR.1/2009/M.12.01.2009.AL-RAM,\
+    \ DR.IS [7] de 12.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2009-397327
+  date: '2009-01-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14-b/1991/01/09/p/dre
   label: null
@@ -86,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/10/1991/04/19/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/10/1991/04/19/m/dre
+- type: cites
+  target: pt:dre:402705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592566:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:37Z'
   warnings: []
   errors: []
 ---
@@ -116,22 +130,22 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição da República, decreta o seguinte:
 
-###### Artigo 1.º O presente diploma aplica-se aos funcionários e agentes da administração regional autónoma e ainda aos trabalhadores contratados cuja remuneração seja equiparada à dos funcionários e agentes abrangidos.
+Artigo 1.º O presente diploma aplica-se aos funcionários e agentes da administração regional autónoma e ainda aos trabalhadores contratados cuja remuneração seja equiparada à dos funcionários e agentes abrangidos.
 
-###### Art. 2.º Quando da aplicação do sistema retributivo da função pública resultar para o pessoal referido no artigo anterior vencimento inferior ao valor da remuneração mínima mensal garantida na Região, ser-lhe-á abonado um complemento regional de remuneração que lhe garanta esse valor.
+Art. 2.º Quando da aplicação do sistema retributivo da função pública resultar para o pessoal referido no artigo anterior vencimento inferior ao valor da remuneração mínima mensal garantida na Região, ser-lhe-á abonado um complemento regional de remuneração que lhe garanta esse valor.
 
-###### Art. 3.º - 1 - O disposto no artigo anterior não prejudica a manutenção do pessoal abrangido nos correspondentes índices, sendo que o quantitativo a abonar selo-á a título de complemento regional de remuneração.
+Art. 3.º - 1 - O disposto no artigo anterior não prejudica a manutenção do pessoal abrangido nos correspondentes índices, sendo que o quantitativo a abonar selo-á a título de complemento regional de remuneração.
 
 2 - Também não fica prejudicado o valor que, a nível nacional, for atribuído ao índice 100 para efeitos de cálculo das remunerações.
 
-###### Art. 4.º O disposto no presente decreto legislativo produzirá efeitos a partir da mesma data que os produzir o diploma que, em cada ano, estabelecer o valor da remuneração mínima mensal garantida na Região, sendo que no presente ano os efeitos reportar-se-ão a 1 de Janeiro de 1991.
+Art. 4.º O disposto no presente decreto legislativo produzirá efeitos a partir da mesma data que os produzir o diploma que, em cada ano, estabelecer o valor da remuneração mínima mensal garantida na Região, sendo que no presente ano os efeitos reportar-se-ão a 1 de Janeiro de 1991.
 
-###### Art. 5.º O presente diploma entra imediatamente em vigor.
+Art. 5.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária de 6 de Novembro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.
 
-**Assinado em 22 de Novembro de 1991.**
+Assinado em 22 de Novembro de 1991.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

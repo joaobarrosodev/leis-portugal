@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2012/11/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2012-191989
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82798ecb53817c97a1e63ae83c58bfa72d2e9f1451988a38a9a618249cea9801
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54c1bdcb8040f102c2e3b1270c5d729d2168419e11cfd7de35e67d6d39b585e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aeroporto
 - Ilha de São Jorge
 - Zona de Proteção
-- Açores
 relationships:
 - type: cites
   target: celex:32009R1108
   label: null
   source: http://data.europa.eu/eli/reg/2009/1108/oj
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:02Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +117,7 @@ C - 101,5 m com 2 % de inclinação;
 
 C' - 95,5 m com 2 % de inclinação.
 
-###### Artigo 2.º
+Artigo 2.º
 
 Dentro da zona de proteção parcial é proibida, sem autorização prévia do departamento do Governo Regional com competência em matéria de transportes aéreos:
 
@@ -139,11 +139,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 16 de agosto de 2012.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 15 de outubro de 2012.**
+Assinado em Angra do Heroísmo em 15 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -181,4 +181,4 @@ d) Outros trabalhos ou atividades que possam prejudicar a segurança das instala
 
 A zona de proteção definida no artigo 1.º deste diploma é a que consta da planta anexa e faz parte integrante do mesmo.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2012/11/21700/0651606517.pdf))](https://files.diariodarepublica.pt/1s/2012/11/21700/0651606517.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2012/11/21700/0651606517.pdf)

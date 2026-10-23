@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/07/13400/0006000062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2019/07/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2019-123183042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10f76b75af0909b92059aa5bd94b59643e5731ca87a3cb37496ee45eb51090b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17e6f51f5e30b6ec2af62ee78e31e5edc8aa2f67b19ef72523c469461abba093
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
+- Açores
 - Colocação de Professores
 - Educador de Infância
-- Estatuto
-- Ensino Secundário
-- Pessoal Docente
 - Ensino Básico
+- Ensino Secundário
+- Estatuto
+- Pessoal Docente
 - Progressão na Carreira
-- Açores
+- Tempo de Serviço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/21/2007/08/30/a/dre
@@ -115,16 +115,76 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106874649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114440373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:59118383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73958532:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:24Z'
   warnings: []
   errors: []
 ---
@@ -167,15 +227,15 @@ O presente diploma define os termos e a forma como se processa a contabilizaçã
 
 i) Em 1 de setembro de 2019:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0006000062.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0006000062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0006000062.pdf)
 
 ii) Em 1 de setembro dos anos de 2020 a 2023:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0006000062.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0006000062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0006000062.pdf)
 
 iii) A partir de 1 de setembro de 2024:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/07/13400/0006000062.pdf))](https://files.diariodarepublica.pt/1s/2019/07/13400/0006000062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/07/13400/0006000062.pdf)
 
 2 - A recuperação do tempo de serviço termina em caso de desvinculação dos quadros de unidade orgânica do sistema educativo regional público.
 
@@ -193,10 +253,12 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 4 de junho de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 4 de julho de 2019.**
+Assinado em Angra do Heroísmo em 4 de julho de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+112423475

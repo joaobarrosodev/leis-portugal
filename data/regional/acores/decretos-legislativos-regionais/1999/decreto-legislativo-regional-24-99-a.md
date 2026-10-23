@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/1999/07/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1999-346707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 549c324519bd578a9e2659c38c31058e9ded62feebf60b6f3d0a607f32bab1b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e0d8ec4499a7edd26a70bf782d44650d39076391bbc32c8ca3c312d73a8e27f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
+- Açores
+- Administração Regional
 - Concurso
 - Contrato de Trabalho a Prazo
+- Desemprego
+- Função Pública
 - Integração de Trabalhadores
 - Programa Medidas Especiais de Fomento do Emprego
-- Desemprego
 - Prosa
-- Administração Regional
-- Açores
 - Subsídio de Desemprego
 - Trabalho Temporário
 relationships:
@@ -93,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/3/1999/01/20/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/3/1999/01/20/a/dre
+- type: cites
+  target: pt:dre:142112:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485381:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:09Z'
   warnings: []
   errors: []
 ---
@@ -143,10 +167,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Junho de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 9 de Julho de 1999.**
+Assinado em Angra do Heroísmo em 9 de Julho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

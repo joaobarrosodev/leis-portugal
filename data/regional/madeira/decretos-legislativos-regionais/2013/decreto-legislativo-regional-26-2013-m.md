@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/2013/07/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2013-498721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3483ebf0d4f08d164b0f8572acf419966ceacf0bd97a210fe38c0effc4b516ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 444d99a1d3670529de4d5eab6abf84b490e9383a6d7d1d106fffbc36fb5544b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fiscal Único
 - Contrato Individual de Trabalho
-- Empresa Pública Regional
 - Empresa Pública
+- Empresa Pública Regional
 - Estatuto
 - Estatuto Jurídico
+- Fiscal Único
+- Funcionário Público
 - Homologação
 - IHM
 - Instituto de Habitação da Região Autónoma da Madeira
@@ -80,12 +81,23 @@ subjects:
 - Madeira.região Autónoma
 - Quadro de Pessoal
 - Regulamento Interno
-- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:128771582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Alterado, com efeitos desde 01.01.2017, o art. 2.º do DLR 27/2004/M de 24-ago, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República n.º 250/2016, 1º Suplemento, Série I de 2016-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Alterado, com efeitos desde 01.01.2020, o art. 18.º, na redação do presente diploma, do DLR 27/2004/M de 24-ago pelo(a)
+    Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/2010/08/05/m/dre
   label: null
@@ -118,16 +130,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:43Z'
   warnings: []
   errors: []
 ---
@@ -164,7 +212,9 @@ Os artigos 1.º, 2.º e 18.º do [Decreto Legislativo Regional n.º 27/2004/M](h
 
 O Instituto de Habitação da Região Autónoma da Madeira, criado pelo [Decreto Legislativo Regional n.º 11/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1988-357532), de 12 de novembro, é transformado em entidade pública empresarial, passando a denominar-se IHM - Investimentos Habitacionais da Madeira, EPERAM, abreviadamente designada por IHM, EPERAM.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [Atual corpo do artigo 2.º]
 
@@ -172,7 +222,9 @@ O Instituto de Habitação da Região Autónoma da Madeira, criado pelo [Decreto
 
 3 - O regulamento interno será objeto de homologação pelo Secretário Regional dos Assuntos Sociais e de publicação obrigatória no Jornal Oficial da Região Autónoma da Madeira.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -218,10 +270,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 20 de junho de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 6 de julho de 2013.**
+Assinado em 6 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/03/05000/0000500013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2022/03/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2022-180310525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b5151eff6b07109ef0bc4071465010466af00efcc2825ac3c256fb1a4c74b2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5218539e47e0f9e4ea9dc04386880e0c6fce1660548bc8e11a0ab0d8ec65b818
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
+- Administração Regional
 - Admissão de Pessoal
 - Aquisição de Bens e Serviços
+- Arrendamento Urbano não Habitacional
 - Atribuição de Verba
 - Autorização de Despesas
-- Pessoal Dirigente
-- Gestão Financeira
-- Governo Regional
+- Conselho do Governo Regional
 - Conta de Gerência
-- Sistema de Normalização Contabilística Público
+- Contratação Pública
 - Contrato
 - Contrato Administrativo
-- Arrendamento Urbano não Habitacional
+- Contribuições e Impostos
 - Controlo Orçamental
 - Delegação de Competências
 - Despesas Públicas
@@ -87,40 +88,39 @@ subjects:
 - Empreiteiro de Obras Públicas
 - Execução do Orçamento
 - Extinção de Serviços
-- Subvenção Pública
 - Fundo de Maneio
-- Presidente do Governo Regional
-- Recrutamento de Pessoal
+- Gestão de Recursos Humanos
+- Gestão Financeira
 - Gestão Orçamental
-- Conselho do Governo Regional
-- Pagamento
-- Contribuições e Impostos
+- Governo Regional
+- ILHA de Santa Maria
 - Informação Económica e Financeira
-- Veículo
 - Locação Financeira
 - Membros do Governo
 - Operações de Tesouraria
 - Orçamento Regional
-- Zona Tributária Privilegiada
-- ILHA de Santa Maria
-- Tesouraria
+- Pagamento
+- Pessoal Dirigente
 - Política Salarial
 - Prazo
+- Presidente do Governo Regional
 - Prestação de Contas
 - Programa Orçamental
+- Recrutamento de Pessoal
 - Remuneração
 - Responsabilidade Administrativa
 - Responsabilidade Financeira
 - Secretário Regional
-- Sector Público Administrativo
-- Administração Regional
-- Gestão de Recursos Humanos
-- Açores
-- Serviço Regional de Protecção Civil dos Açores
-- Subsídio
-- Zona Franca
 - Sector Empresarial Regional
-- Contratação Pública
+- Sector Público Administrativo
+- Serviço Regional de Protecção Civil dos Açores
+- Sistema de Normalização Contabilística Público
+- Subsídio
+- Subvenção Pública
+- Tesouraria
+- Veículo
+- Zona Franca
+- Zona Tributária Privilegiada
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/38/2021/12/23/a/dre
@@ -134,16 +134,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:176412614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:601113:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
 article_structure:
   article_count: 28
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:49Z'
   warnings: []
   errors: []
 ---
@@ -408,10 +436,12 @@ O presente diploma produz efeitos a 1 de janeiro de 2022.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 9 de fevereiro de 2022.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 8 de março de 2022.**
+Assinado em Angra do Heroísmo em 8 de março de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+115095139

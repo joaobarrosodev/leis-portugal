@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 251/2007, 2º Suplemento, Série I de 2007-12-31
   number: '251'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 9178-(460) a 9178-(470)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/25102/0046000470.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1637-a/2007/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1637-a-2007-529218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c905e8656c163acdfda72a877c372f06537d314fa87c3c1c950fd38015412ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: caec88d9cb28bb9ff59f57cf56bd581af21ae8ba12e04f101be6a7e6004890d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- CASA PIA de Lisboa
 - Definição de Competências
 - Direção
 - Estatuto
-- CASA PIA de Lisboa
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:256873:por
@@ -83,16 +83,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:529217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:256873:por
+  label: "Revogada, a partir de 01.02.2013, pela PORT.24/2013.24.01.2013.MF, DR.IS [17] de 24.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24-2013-256873
+  date: '2013-01-24'
 article_structure:
   article_count: 43
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:36Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +132,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 26 de Dezembro de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.
 
 ## ANEXO — Estatutos da Casa Pia de Lisboa, I. P.
 
@@ -213,7 +226,7 @@ d) Dois representantes de empresas que tenham colaborado de forma relevante com 
 
 Os centros de educação e desenvolvimento (CED) classificam-se, quanto à natureza das respostas sociais que asseguram, em três tipos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/25102/0046000470.pdf))](https://files.diariodarepublica.pt/1s/2007/12/25102/0046000470.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/25102/0046000470.pdf)
 
 ##### Subsecção II — Órgãos e serviços
 
@@ -221,7 +234,7 @@ Os centros de educação e desenvolvimento (CED) classificam-se, quanto à natur
 
 De acordo com a tipologia definida no artigo anterior, os CED podem dispor dos seguintes órgãos e serviços:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/25102/0046000470.pdf))](https://files.diariodarepublica.pt/1s/2007/12/25102/0046000470.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/25102/0046000470.pdf)
 
 ##### Subsecção III — Dos órgãos dos CED
 
@@ -909,4 +922,4 @@ d) Promover exposições temporárias com manifesto interesse para a formação 
 
 ## ANEXO — Quadro de cargos dirigentes da CPL, I. P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/25102/0046000470.pdf))](https://files.diariodarepublica.pt/1s/2007/12/25102/0046000470.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/25102/0046000470.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2011/03/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2011-278770
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 99e7bbd279b88ef675a364c1af0cfadb71deb3818af00c4ef3eac7d14e40f808
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edf35fc741ffb98d3539c91c55ee154f7ecee9187eae9f67c6590a8033576405
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ÁREA de Paisagem Protegida da ZONA Central e Falesias da Costa Oeste
-- Ordenamento do Território
+- Conselho Consultivo
 - Definição de Competências
 - Diretor
-- Monumento Natural
 - ILHA das Flores
-- Conselho Consultivo
+- Monumento Natural
+- Ordenamento do Território
 - Orgânica
-- Rede Regional de Áreas Protegidas
-- Proteção do Ambiente
-- Zona de Proteção
-- Protecção do Património
-- Património Natural
 - Parque Natural da Ilha das Flores
+- Património Natural
+- Proteção do Ambiente
+- Protecção do Património
+- Rede Regional de Áreas Protegidas
 - Reserva Natural
 - Reserva Natural das Caldeiras Funda e RASA
 - Reserva Natural do ALTO do Morro e PICO da se
 - Reserva Natural do Ilheu de Maria VAZ
-- Açores
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec/4/2005/02/14/p/dre
@@ -125,16 +125,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2009/01/12/p/dre
+- type: cites
+  target: pt:dre:210468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
 article_structure:
   article_count: 35
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:27Z'
   warnings: []
   errors: []
 ---
@@ -881,11 +953,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 22 de Fevereiro de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 7 de Março de 2011.**
+Assinado em Angra do Heroísmo em 7 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -925,7 +997,7 @@ Secções interiores
 
 (a que se refere o n.º 1 do artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/03/05800/0161801634.pdf))](https://files.diariodarepublica.pt/1s/2011/03/05800/0161801634.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/03/05800/0161801634.pdf)
 
 ## ANEXO III — (a que se refere o n.º 2 do artigo 3.º)
 

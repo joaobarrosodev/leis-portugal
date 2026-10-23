@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1989-619747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d6ff1b6017c26409469b4c21fe7dc1cf1c566d69bdf21be579d868313b87eba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 659415d8aced6d9a074ee0d87f1ade222a8486cb4ae406fe050fb727893afa77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Madeira.região Autónoma
+- Pessoal de Inspecção
+- Pessoal Técnico Superior
+relationships:
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:20Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +103,20 @@ Tendo em atenção o disposto no n.º 4 do artigo 2.º do [Decreto Legislativo R
 
 A Assembleia Regional da Madeira decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A carreira técnica superior de inspecção da Inspecção Administrativa passa a ter a estrutura constante do mapa anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º A carreira técnica superior de inspecção da Inspecção Administrativa passa a ter a estrutura constante do mapa anexo ao presente diploma, que dele faz parte integrante.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos, no tocante às revalorizações nele estabelecidas, desde 1 de Janeiro de 1988.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos, no tocante às revalorizações nele estabelecidas, desde 1 de Janeiro de 1988.
 
 Aprovado em sessão plenária de 21 de Junho de 1989.
 
-**O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.
 
-**Assinado em 29 de Junho de 1989.**
+Assinado em 29 de Junho de 1989.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa anexo a que se refere o artigo 1.º
 
 Estrutura da carreira técnica superior de inspecção da Inspecção Administrativa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/07/15900/28022803.pdf))](https://files.diariodarepublica.pt/1s/1989/07/15900/28022803.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/07/15900/28022803.pdf)

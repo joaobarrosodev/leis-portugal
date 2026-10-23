@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/08/18400/20852094.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1981-576352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab93030de1781489c1d7aa02de87ad6a96c6e881e78863fb5d01b1c658970fe2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 814171d07c854c7f5261457c24cabddd885d7e5c5e8b78ae3a1cf39a1dc70203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Orgânica
+- Secretaria Regional do Equipamento Social
 relationships:
 - type: amended_by
   target: pt:dre:145198:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:287616:por
+  label: "Alterados os caps. III 'Pessoal' e IV 'Disposições Gerais e Transitórias' da Secretaria Regional do Equipamento,\
+    \ pelo DRR.11/88/A.1988.03.08.GR-RAA, DR.IS [56]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1988-287616
+  date: '1988-03-08'
+- type: amended_by
+  target: pt:dre:659289:por
+  label: "Integrado na Secretaria Regional da Habitação e Obras Públicas, o Laboratório Regional de Engenharia Civil (LREC),\
+    \ criado pelo presente diploma, pelo DRR.6-A/89/A.02.03.1989.GR-RAA, DR.IS [51-Supl] de 02.03.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-a-1989-659289
+  date: '1989-03-02'
+- type: amended_by
+  target: pt:dre:621954:por
+  label: "Estruturado o Laboratório Regional de Engenharia Civil como serviço personalizado da administração regional autónoma\
+    \ pelo DLR.9/91/M.02.04.1991.ALR-RAM, DR.IS-A [76] de 02.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-1991-621954
+  date: '1991-04-02'
+- type: cites
+  target: pt:dre:295801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474753:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145198:por
+  label: "Revogado pelo DRR.2/92/A.1992.01.27.GR-RAA, DR.IS-B [22]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1992-145198
+  date: '1992-01-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:31Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +154,11 @@ Orgânica da Secretaria Regional do Equipamento Social
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Secretaria Regional do Equipamento Social, adiante designada abreviadamente por SRES, é o departamento do Governo da Região Autónoma dos Açores referido na alínea i) do n.º 1 do artigo 5.º do Decreto Regional n.º 1/76, de 7 de Setembro, sendo as suas atribuições as de orientar, superintender e participar, de acordo com a lei, na Região Autónoma dos Açores, nos aspectos referentes aos sectores de obras públicas, construção, habitação, urbanismo, ambiente, recursos naturais e equipamento urbano e rural, bem como executar, participar ou fiscalizar a política definida pelo Governo Regional para aqueles sectores.
+Artigo 1.º - 1 - A Secretaria Regional do Equipamento Social, adiante designada abreviadamente por SRES, é o departamento do Governo da Região Autónoma dos Açores referido na alínea i) do n.º 1 do artigo 5.º do Decreto Regional n.º 1/76, de 7 de Setembro, sendo as suas atribuições as de orientar, superintender e participar, de acordo com a lei, na Região Autónoma dos Açores, nos aspectos referentes aos sectores de obras públicas, construção, habitação, urbanismo, ambiente, recursos naturais e equipamento urbano e rural, bem como executar, participar ou fiscalizar a política definida pelo Governo Regional para aqueles sectores.
 
 2 - Cabe ainda à SRES apoiar, de acordo com a lei, as autarquias locais, nas áreas e nos sectores referidos no número anterior.
 
-###### Art. 2.º Compete ao Secretário Regional do Equipamento Social:
+Art. 2.º Compete ao Secretário Regional do Equipamento Social:
 
 a) Propor e fazer executar na Região as políticas dos sectores referidos no n.º 1 do artigo 1.º;
 
@@ -110,7 +168,7 @@ c) Superintender e coordenar a acção da Secretaria Regional.
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 3.º A SRES compreende os seguintes órgãos:
+Art. 3.º A SRES compreende os seguintes órgãos:
 
 a) Órgãos de carácter consultivo:
 
@@ -134,11 +192,11 @@ Direcção Regional de Habitação, Urbanismo e Ambiente.
 
 #### SECÇÃO I — Órgãos consultivos
 
-###### Art. 4.º - 1 - O Conselho Regional de Obras públicas é presidido pelo Secretário Regional do Equipamento Social e tem como membros os directores regionais e directores de serviços da SRES, podendo ainda tomar parte nas suas reuniões técnicos de outras categorias e de outros departamentos do Governo Regional, sempre que tal se mostre conveniente.
+Art. 4.º - 1 - O Conselho Regional de Obras públicas é presidido pelo Secretário Regional do Equipamento Social e tem como membros os directores regionais e directores de serviços da SRES, podendo ainda tomar parte nas suas reuniões técnicos de outras categorias e de outros departamentos do Governo Regional, sempre que tal se mostre conveniente.
 
 2 - O Conselho Regional terá funções consultivas e de análise às diversas situações que se prendam com as atribuições da SRES em todos os seus aspectos
 
-###### Art. 5.º - 1 - O Conselho Regional do Ambiente é presidido pelo Secretário Regional no Equipamento Social e constituído por 1 representantes dos vários departamentos do Governo Regional e de entidades públicas ou particulares ligadas e sector e por cidadãos especialmente interessados na matéria.
+Art. 5.º - 1 - O Conselho Regional do Ambiente é presidido pelo Secretário Regional no Equipamento Social e constituído por 1 representantes dos vários departamentos do Governo Regional e de entidades públicas ou particulares ligadas e sector e por cidadãos especialmente interessados na matéria.
 
 2 - O Conselho Regional terá funções consultivas e de análise às diversas situações que se prendam com as atribuições e acções da SRES, relacionadas com a conservação e defesa da natureza e do meio ambiente e, bem assim, com idêntico fim, quando por actuação de outrem o sector possa ser afectado.
 
@@ -146,9 +204,9 @@ Direcção Regional de Habitação, Urbanismo e Ambiente.
 
 ##### SUBSECÇÃO I — Laboratório Regional de Engenharia Civil
 
-###### Art. 6.º O Laboratório Regional de Engenharia Civil é um órgão de apoio técnico às obras de engenharia, de divulgação de novas técnicas, de colaboração na formação do pessoal técnico a vários níveis, de promoção de colóquios, conferências, simpósios e estágios e, finalmente, de informação e divulgação científica e técnica no domínio da engenharia.
+Art. 6.º O Laboratório Regional de Engenharia Civil é um órgão de apoio técnico às obras de engenharia, de divulgação de novas técnicas, de colaboração na formação do pessoal técnico a vários níveis, de promoção de colóquios, conferências, simpósios e estágios e, finalmente, de informação e divulgação científica e técnica no domínio da engenharia.
 
-###### Art. 7.º - 1 - No âmbito das atribuições referidas no artigo anterior, cabe, nomeadamente, ao Laboratório Regional de Engenharia Civil:
+Art. 7.º - 1 - No âmbito das atribuições referidas no artigo anterior, cabe, nomeadamente, ao Laboratório Regional de Engenharia Civil:
 
 a) Realizar investigações, estudos e ensaios de apoio à actividade da Secretaria Regional ou solicitados por outras entidades públicas ou particulares que exerçam actividade na Região;
 
@@ -164,7 +222,7 @@ f) Assegurar o contacto estreito com as empresas de construção civil, propondo
 
 2 - As actividades do Laboratório Regional de Engenharia Civil decorrerão segundo um programa anual a aprovar pelo Secretário Regional, devendo o mesmo ser objecto de revisões trimestrais.
 
-###### Art. 8.º O Laboratório Regional de Engenharia Civil é equiparado a Direcção Regional e compreende os seguintes serviços:
+Art. 8.º O Laboratório Regional de Engenharia Civil é equiparado a Direcção Regional e compreende os seguintes serviços:
 
 a) Divisão de Vias de Comunicação;
 
@@ -174,15 +232,15 @@ c) Divisão de Fundações e Prospecção;
 
 d) Centro de Documentação e Formação Técnica.
 
-###### Art. 9.º Compete à Divisão de Vias de Comunicação as acções de ensaios, estudos, investigações, formação e divulgação nos domínios de infra-estruturas de transpordes, tais como estradas, aeródromos, arruamentos, tráfego e segurança rodoviária.
+Art. 9.º Compete à Divisão de Vias de Comunicação as acções de ensaios, estudos, investigações, formação e divulgação nos domínios de infra-estruturas de transpordes, tais como estradas, aeródromos, arruamentos, tráfego e segurança rodoviária.
 
-###### Art. 10.º Compete à Divisão de Materiais de Construção as acções de ensaios, estudos, investigação, formação e divulgação nos domínios de cimentos e outros aglomerantes, betões, metais e outros.
+Art. 10.º Compete à Divisão de Materiais de Construção as acções de ensaios, estudos, investigação, formação e divulgação nos domínios de cimentos e outros aglomerantes, betões, metais e outros.
 
-###### Art. 11.º Compete à Divisão de Fundações e Prospecção as acções de ensaios, estudos, investigação, formação e divulgação nos domínios de fundações de edifícios, estruturas, construções, geologia de engenharia e prospecção.
+Art. 11.º Compete à Divisão de Fundações e Prospecção as acções de ensaios, estudos, investigação, formação e divulgação nos domínios de fundações de edifícios, estruturas, construções, geologia de engenharia e prospecção.
 
 ##### SUBSECÇÃO II — Gabinete Técnico
 
-###### Art. 12.º O Gabinete Técnico é um órgão de apoio, planeamento, análise, programação e controle da actividade da Secretaria Regional, competindo-lhe designadamente:
+Art. 12.º O Gabinete Técnico é um órgão de apoio, planeamento, análise, programação e controle da actividade da Secretaria Regional, competindo-lhe designadamente:
 
 a) Assistir tecnicamente o Secretário Regional em todas as matérias relacionadas com a programação e controle;
 
@@ -198,13 +256,13 @@ f) Promover a planificação e colaborar na execução das acções de formaçã
 
 g) Assegurar as adequadas ligações com os órgãos regionais de planeamento.
 
-###### Art. 13.º - 1 - O Gabinete Técnico é dirigido por um técnico superior principal do quadro de pessoal da SRES.
+Art. 13.º - 1 - O Gabinete Técnico é dirigido por um técnico superior principal do quadro de pessoal da SRES.
 
 2 - Não estando preenchidos os lugares de técnico superior principal, o Secretário Regional poderá encarregar da chefia do Gabinete um técnico superior de 1.ª classe ou, na falta deste, um técnico superior de 2.ª classe, quando tal se mostre indispensável.
 
 ##### SUBSECÇÃO III — Repartição dos Serviços Administrativos
 
-###### Art. 14.º - 1 - A Repartição dos Serviços Administrativos é o órgão de execução dos serviços de interesse comum a toda a Secretaria Regional, designadamente os de expediente, arquivo, pessoal e contabilidade.
+Art. 14.º - 1 - A Repartição dos Serviços Administrativos é o órgão de execução dos serviços de interesse comum a toda a Secretaria Regional, designadamente os de expediente, arquivo, pessoal e contabilidade.
 
 2 - À Repartição dos Serviços Administrativos incumbe especialmente:
 
@@ -232,9 +290,9 @@ i) Exercer nos termos da lei funções notariais.
 
 ##### SUBSECÇÃO I — Direcção Regional de Obras Públicas e Equipamento
 
-###### Art. 15.º A Direcção Regional de Obras Públicas e Equipamento é o órgão de estudo, coordenação, fiscalização e execução das obras de equipamento social a levar a efeito, de acordo com o plano, com os diversos departamentos do Governo Regional e em íntima colaboração com as autarquias locais e instituições de utilidade pública e particulares.
+Art. 15.º A Direcção Regional de Obras Públicas e Equipamento é o órgão de estudo, coordenação, fiscalização e execução das obras de equipamento social a levar a efeito, de acordo com o plano, com os diversos departamentos do Governo Regional e em íntima colaboração com as autarquias locais e instituições de utilidade pública e particulares.
 
-###### Art. 16.º No âmbito das atribuições referidas no artigo anterior cabe, nomeadamente, à Direcção Regional de Obras Públicas e Equipamento:
+Art. 16.º No âmbito das atribuições referidas no artigo anterior cabe, nomeadamente, à Direcção Regional de Obras Públicas e Equipamento:
 
 a) Coordenar a nível regional e local as operações ligadas à implantação de obras de infra-estruturas e demais equipamento social da sua competência;
 
@@ -250,7 +308,7 @@ f) Fiscalizar e administrar as obras promovidas pelo Governo Regional em regime 
 
 g) Realizar e fiscalizar as obras que lhe sejam atribuídas em regime de administração directa.
 
-###### Art. 17.º A Direcção Regional de Obras Públicas e Equipamento compreende os seguintes serviços centrais, directamente dependentes do director regional:
+Art. 17.º A Direcção Regional de Obras Públicas e Equipamento compreende os seguintes serviços centrais, directamente dependentes do director regional:
 
 a) Direcção de Serviços de Obras Públicas;
 
@@ -258,9 +316,9 @@ b) Direcção de Serviços de Equipamento;
 
 c) Divisão do Parque de Máquinas.
 
-###### Art. 18.º À Direcção de Serviços de Obras Públicas compete, para além do apoio técnico à Direcção Regional, promover as acções necessárias para o planeamento, estudo, financiamento e execução das obras de responsabilidade da Região, designadamente nos sectores de estradas, hidráulica, saneamento básico e conservação do património regional.
+Art. 18.º À Direcção de Serviços de Obras Públicas compete, para além do apoio técnico à Direcção Regional, promover as acções necessárias para o planeamento, estudo, financiamento e execução das obras de responsabilidade da Região, designadamente nos sectores de estradas, hidráulica, saneamento básico e conservação do património regional.
 
-###### Art. 19.º A Direcção de Serviços de Obras Públicas compreende os seguintes serviços:
+Art. 19.º A Direcção de Serviços de Obras Públicas compreende os seguintes serviços:
 
 a) Divisão de Infra-Estruturas;
 
@@ -270,7 +328,7 @@ c) Divisão de Estradas;
 
 d) Divisão de Equipamento Social de Santa Maria.
 
-###### Art. 20.º À Divisão de Infra-Estruturas compete:
+Art. 20.º À Divisão de Infra-Estruturas compete:
 
 a) Colaborar nas operações relativas à política e execução das acções de planeamento de infra-estruturas portuárias e aeroportuárias, bem como na definição das orientações necessárias à satisfação das carências detectadas;
 
@@ -292,7 +350,7 @@ i) Providenciar em tudo o que se relacione com o sector, de modo a permitir uma 
 
 j) Elaborar os relatórios que lhe forem solicitados superiormente, assim como o relatório anual sobre os serviços a seu cargo.
 
-###### Art. 21.º À Divisão de Hidráulica compete:
+Art. 21.º À Divisão de Hidráulica compete:
 
 a) Coordenar, executar e fiscalizar, de um modo geral, as obras do equipamento social a levar a efeito para satisfazer as carências e resolução dos problemas que com a hidráulica em geral se relacionem;
 
@@ -310,7 +368,7 @@ g) Ordenar a instrução de todos os processos sobre matéria relativa aos servi
 
 h) Elaborar os relatórios que lhe forem solicitados superiormente, assim como o relatório anual sobre os serviços a seu cargo.
 
-###### Art. 22.º À Divisão de Estradas compete:
+Art. 22.º À Divisão de Estradas compete:
 
 a) Coordenar todas as operações ligadas à implantação de obras de infra-estruturas da rede rodoviária;
 
@@ -330,11 +388,11 @@ h) Assegurar o cumprimento da legislação em tudo o que tenha implicações com
 
 i) Elaborar os relatórios que lhe forem solicitados superiormente, assim como o relatório anual sobre os serviços a seu cargo.
 
-###### Art. 23.º À Direcção de Serviços de Equipamento compete especialmente promover as acções necessárias para o planeamento, estudo e execução de obras de equipamento social a levar a efeito.
+Art. 23.º À Direcção de Serviços de Equipamento compete especialmente promover as acções necessárias para o planeamento, estudo e execução de obras de equipamento social a levar a efeito.
 
-###### Art. 24.º A Direcção de Serviços de Equipamento compreende a Divisão de Obras.
+Art. 24.º A Direcção de Serviços de Equipamento compreende a Divisão de Obras.
 
-###### Art. 25.º À Divisão de Obras compete:
+Art. 25.º À Divisão de Obras compete:
 
 a) Coordenar todas as operações relativas à política e execução das acções de planeamento de edifícios públicos e monumentos e definir as orientações necessárias à satisfação das carências detectadas;
 
@@ -358,7 +416,7 @@ j) Providenciar em tudo o que se relacione com o sector, de modo a permitir uma 
 
 l) Elaborar os relatórios que lhe forem solicitados superiormente, assim como o relatório anual sobre os serviços a seu cargo.
 
-###### Art. 26.º À Divisão do Parque de Máquinas compete:
+Art. 26.º À Divisão do Parque de Máquinas compete:
 
 a) Programar, coordenar e assegurar a utilização e manutenção de todas as máquinas e viaturas que lhe sejam atribuídas;
 
@@ -376,17 +434,17 @@ g) Coordenar a distribuição de todo o pessoal adstrito à Divisão e superinte
 
 h) Elaborar relatórios ou emitir pareceres que lhe sejam solicitados superiormente, assim como elaborar o relatório anual sobre os serviços a seu cargo.
 
-###### Art. 27.º A Direcção Regional de Obras Públicas e Equipamento dispõe dos seguintes serviços externos, directamente dependentes do director regional:
+Art. 27.º A Direcção Regional de Obras Públicas e Equipamento dispõe dos seguintes serviços externos, directamente dependentes do director regional:
 
 a) Direcção de Serviços de Obras Públicas e Equipamento de Angra do Heroísmo;
 
 b) Direcção de Serviços de Obras Públicas e Equipamento da Horta.
 
-###### Art. 28.º - 1 - Às Direcções de Serviços de Obras Públicas e Equipamento de Angra do Heroísmo e da Horta compete promover as acções necessárias para o planeamento, estudo, financiamento e execução das obras de responsabilidade da Região, designadamente nos sectores de estradas, hidráulica, saneamento básico e conservação do património regional.
+Art. 28.º - 1 - Às Direcções de Serviços de Obras Públicas e Equipamento de Angra do Heroísmo e da Horta compete promover as acções necessárias para o planeamento, estudo, financiamento e execução das obras de responsabilidade da Região, designadamente nos sectores de estradas, hidráulica, saneamento básico e conservação do património regional.
 
 2 - Compete ainda às direcções referidas no número anterior promover as acções necessárias para o planeamento, estudo e execução de obras de equipamento social a levar a efeito para satisfação das necessidades apresentadas pelas autarquias locais e instituições de utilidade pública, bem como prestar apoio e assistência técnica às referidas entidades.
 
-###### Art. 29.º - 1 - A Direcção de Serviços de Obras Públicas e Equipamento de Angra do Heroísmo compreende as seguintes divisões:
+Art. 29.º - 1 - A Direcção de Serviços de Obras Públicas e Equipamento de Angra do Heroísmo compreende as seguintes divisões:
 
 a) Divisão do Equipamento Social de S. Jorge;
 
@@ -398,13 +456,13 @@ a) Divisão do Equipamento Social do Pico;
 
 b) Divisão do Equipamento Social das Flores, que abrange o Corvo.
 
-###### Art. 30.º Compete às Divisões do Equipamento Social de Santa Maria, S. Jorge, Graciosa, Pico e Flores exercer nas respectivas ilhas as competências da SRES que lhe forem atribuídas por despacho do Secretário Regional.
+Art. 30.º Compete às Divisões do Equipamento Social de Santa Maria, S. Jorge, Graciosa, Pico e Flores exercer nas respectivas ilhas as competências da SRES que lhe forem atribuídas por despacho do Secretário Regional.
 
 ##### SUBSECÇÃO II — Direcção Regional de Habitação, Urbanismo e Ambiente
 
-###### Art. 31.º - A Direcção Regional de Habitação, Urbanismo e Ambiente é o órgão de estudo, coordenação, fiscalização e execução das acções de planeamento urbanístico e territorial, de habitação e de defesa e preservação do ambiente, de acordo com o plano, com os diversos departamentos do Governo e em íntima colaboração com as autarquias locais, instituições de utilidade pública e entidades particulares, na perspectiva da criação de condições para uma boa qualidade de vida da população.
+Art. 31.º - A Direcção Regional de Habitação, Urbanismo e Ambiente é o órgão de estudo, coordenação, fiscalização e execução das acções de planeamento urbanístico e territorial, de habitação e de defesa e preservação do ambiente, de acordo com o plano, com os diversos departamentos do Governo e em íntima colaboração com as autarquias locais, instituições de utilidade pública e entidades particulares, na perspectiva da criação de condições para uma boa qualidade de vida da população.
 
-###### Art. 32.º No âmbito das atribuições referidas no artigo anterior, cabe nomeadamente à Direcção Regional de Habitação, Urbanismo e Ambiente:
+Art. 32.º No âmbito das atribuições referidas no artigo anterior, cabe nomeadamente à Direcção Regional de Habitação, Urbanismo e Ambiente:
 
 a) Estudar, propor e executar, em íntima colaboração com as autarquias locais, o plano global de habitação social que permita resolver as carências detectadas na Região;
 
@@ -424,13 +482,13 @@ h) Planificar a política de utilização dos solos classificados como urbanizá
 
 i) Assegurar a coordenação das propostas relativas à ocupação física do solo apresentadas pelos sectores da administração pública regional que concorram para a formulação dos planos urbanísticos.
 
-###### Art. 33.º A Direcção Regional de Habitação, Urbanismo e Ambiente compreende os seguintes serviços centrais, directamente dependentes do director regional:
+Art. 33.º A Direcção Regional de Habitação, Urbanismo e Ambiente compreende os seguintes serviços centrais, directamente dependentes do director regional:
 
 a) Direcção de Serviços de Habitação;
 
 b) Direcção de Serviços de Urbanismo e Ambiente.
 
-###### Art. 34.º Compete à Direcção de Serviços de Habitação:
+Art. 34.º Compete à Direcção de Serviços de Habitação:
 
 a) Propor e coordenar todas as operações relativas à política e execução das acções de planeamento habitacional e definir as orientações necessárias à satisfação das carências detectadas, em íntima colaboração com as autarquias locais, instituições de utilidade pública e entidades particulares;
 
@@ -464,9 +522,9 @@ o) Dar parecer sobre estudos e projectos relativos aos serviços a seu cargo, de
 
 p) Proceder às recepções provisórias e definitivas das diversas obras, conforme delegações que para tal lhe forem conferidas.
 
-###### Art. 35.º A Direcção de Serviços de Habitação compreende a Divisão de Infra-Estruturas.
+Art. 35.º A Direcção de Serviços de Habitação compreende a Divisão de Infra-Estruturas.
 
-###### Art. 36.º Compete à Divisão de Infra-Estruturas:
+Art. 36.º Compete à Divisão de Infra-Estruturas:
 
 a) Coordenar e elaborar os programas, projectos e estudos de infra-estruturas que forem determinados superiormente;
 
@@ -474,7 +532,7 @@ b) Fiscalizar as obras do sector, quer se realizem em regime de empreitada quer 
 
 c) Apoiar as autarquias locais no seu sector específico.
 
-###### Art. 37.º - 1 - Compete à Direcção de Serviços de Urbanismo e Ambiente, na área do urbanismo:
+Art. 37.º - 1 - Compete à Direcção de Serviços de Urbanismo e Ambiente, na área do urbanismo:
 
 a) Promover a recolha e tratamento dos dados necessários à formulação das bases políticas de ordenamento físico da Região, nomeadamente a elaboração de soluções alternativas de ocupação do território pelas actividades humanas através da concretização de planos de ordenamento físico, compatibilizando o uso do solo, população, emprego, habitação, indústria, recreio, energia, vias de comunicação, saneamento básico e transportes;
 
@@ -562,9 +620,9 @@ s) Fiscalizar as obras do sector promovidas pela SRES, quer as de regime de empr
 
 t) Providenciar em tudo o que se relacione com o sector, de modo a propiciar uma acção dinamizante do mesmo e a sua boa imagem no exterior.
 
-###### Art. 38.º A Direcção de Serviços de Urbanismo e Ambiente compreende a Divisão do Ambiente.
+Art. 38.º A Direcção de Serviços de Urbanismo e Ambiente compreende a Divisão do Ambiente.
 
-###### Art. 39.º Compete à Divisão do Ambiente a boa prossecução das acções constantes das alíneas do n.º 2 do artigo 37.º, sendo ainda encarregada de promover o apoio e instalações de quaisquer comissões que tenham por fim a resolução de problemas do ambiente da Região no que se refere a parques, reservas e património paisagístico, às quais competirá:
+Art. 39.º Compete à Divisão do Ambiente a boa prossecução das acções constantes das alíneas do n.º 2 do artigo 37.º, sendo ainda encarregada de promover o apoio e instalações de quaisquer comissões que tenham por fim a resolução de problemas do ambiente da Região no que se refere a parques, reservas e património paisagístico, às quais competirá:
 
 a) A inventariação de paisagens e sítios e respectivos elementos caracterizantes, designadamente construções isoladas, conjuntos histórico-artísticos rurais ou mistos, de carácter erudito ou popular, e elementos naturais individualizados na paisagem, tais como rochedos, penedos, matas e árvores;
 
@@ -582,17 +640,17 @@ g) Garantir a melhor utilização dos parques, reservas e paisagens e sítios pr
 
 h) Zelar pela manutenção dos parques regionais e reservas, em colaboração com as autarquias locais e organismos com funções paralelas.
 
-###### Art. 40.º A Direcção Regional de Habitação, Urbanismo e Ambiente dispõe dos seguintes serviços externos, directamente dependentes do director regional:
+Art. 40.º A Direcção Regional de Habitação, Urbanismo e Ambiente dispõe dos seguintes serviços externos, directamente dependentes do director regional:
 
 a) Direcção de Serviços de Habitação, Urbanismo e Ambiente de Angra do Heroísmo, com jurisdição nas ilhas Terceira, Graciosa e S. Jorge;
 
 b) Direcção de Serviços de Habitação, Urbanismo e Ambiente da Horta, com jurisdição nas ilhas Faial, Pico, Flores e Corvo.
 
-###### Art. 41.º Às Direcções de Serviços de Habitação, Urbanismo e Ambiente de Angra do Heroísmo e Horta compete desenvolver, nas ilhas onde têm jurisdição, as acções idênticas às atribuídas nos artigos 34.º e 37.º às Direcções de Serviços de Habitação e de Urbanismo e Ambiente.
+Art. 41.º Às Direcções de Serviços de Habitação, Urbanismo e Ambiente de Angra do Heroísmo e Horta compete desenvolver, nas ilhas onde têm jurisdição, as acções idênticas às atribuídas nos artigos 34.º e 37.º às Direcções de Serviços de Habitação e de Urbanismo e Ambiente.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 42.º - 1 - O quadro do pessoal da SRES é o constante do mapa anexo a este diploma, e que dele faz parte integrante, sendo agrupado de acordo com a seguinte classificação:
+Art. 42.º - 1 - O quadro do pessoal da SRES é o constante do mapa anexo a este diploma, e que dele faz parte integrante, sendo agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -606,32 +664,32 @@ e) Pessoal operário e/ou auxiliar.
 
 2 - O Secretário Regional poderá autorizar que seja contratado, além do quadro, pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços nas condições que forem fixadas com o acordo dos Secretários Regionais das Finanças e da Administração Pública.
 
-###### Art. 43.º O pessoal da SRES constitui um quadro único, competindo ao Secretário Regional a sua colocação de harmonia com as necessidades, a conveniência dos serviços e as aptidões dos funcionários.
+Art. 43.º O pessoal da SRES constitui um quadro único, competindo ao Secretário Regional a sua colocação de harmonia com as necessidades, a conveniência dos serviços e as aptidões dos funcionários.
 
-###### Art. 44.º As condições e regras de organização de quadros e de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários e agentes da SRES serão, para as respectivas categorias, as estabelecidas no [Decreto Regulamentar Regional n.º 25/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1981-388990), de 15 de Abril, e na legislação regional e geral complementar.
+Art. 44.º As condições e regras de organização de quadros e de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários e agentes da SRES serão, para as respectivas categorias, as estabelecidas no [Decreto Regulamentar Regional n.º 25/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1981-388990), de 15 de Abril, e na legislação regional e geral complementar.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 45.º Nenhum funcionário da SRES pode desempenhar funções alheias à mesma Secretaria Regional, nem exercer, por si ou interposta pessoa, qualquer ramo de comércio ou indústria sem autorização do Secretário Regional, sob parecer favorável do respectivo serviço.
+Art. 45.º Nenhum funcionário da SRES pode desempenhar funções alheias à mesma Secretaria Regional, nem exercer, por si ou interposta pessoa, qualquer ramo de comércio ou indústria sem autorização do Secretário Regional, sob parecer favorável do respectivo serviço.
 
-###### Art. 46.º O exercício de qualquer cargo na Secretaria Regional é incompatível com a ingerência ou participação de natureza particular, directa ou indirecta, nas obras e fornecimentos que se realizem nos seus serviços.
+Art. 46.º O exercício de qualquer cargo na Secretaria Regional é incompatível com a ingerência ou participação de natureza particular, directa ou indirecta, nas obras e fornecimentos que se realizem nos seus serviços.
 
-###### Art. 47.º A categoria de guarda hidráulico, constante do quadro anexo, terá as letras indicadas no mesmo quadro, com efeitos retroactivos a partir da data da entrada em vigor do [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho, que reclassifica os guarda-rios, que, na Região, são denominados por guardas hidráulicos.
+Art. 47.º A categoria de guarda hidráulico, constante do quadro anexo, terá as letras indicadas no mesmo quadro, com efeitos retroactivos a partir da data da entrada em vigor do [Decreto-Lei n.º 183/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1980-474753), de 4 de Junho, que reclassifica os guarda-rios, que, na Região, são denominados por guardas hidráulicos.
 
-###### Art. 48.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto dos Secretários Regionais do Equipamento Social e da Administração Pública.
+Art. 48.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto dos Secretários Regionais do Equipamento Social e da Administração Pública.
 
-###### Art. 49.º Ficam revogados os Decretos Regulamentares Regionais n.os [8/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1978-295801), de 5 de Maio, [6/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1979-383627) e [7/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1979-383631), de 12 de Fevereiro, [23/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1980-473964), de 19 de Maio, [32/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1980-470454), de 8 de Agosto, e [35/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1980-470873), de 21 de Julho.
+Art. 49.º Ficam revogados os Decretos Regulamentares Regionais n.os [8/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1978-295801), de 5 de Maio, [6/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1979-383627) e [7/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1979-383631), de 12 de Fevereiro, [23/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1980-473964), de 19 de Maio, [32/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1980-470454), de 8 de Agosto, e [35/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1980-470873), de 21 de Julho.
 
 Aprovado pelo Governo Regional em 21 de Maio de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 15 de Julho de 1981.**
+Assinado em Angra do Heroísmo em 15 de Julho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/08/18400/20852094.pdf))](https://files.diariodarepublica.pt/1s/1981/08/18400/20852094.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/18400/20852094.pdf)
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

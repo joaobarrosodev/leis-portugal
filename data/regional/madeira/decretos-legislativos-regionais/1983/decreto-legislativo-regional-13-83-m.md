@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1983-454858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2fc7f5db617f413fb542cd53d3103b37ed12807456215275585b280e8bde8c74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dd9df7f7c3b9bfc918c8f5a9f2611f0781d54ac243b312ca8c57672de3b35e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Pública
+- Imprensa Regional da Madeira
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:206658:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:206658:por
+  label: "Extinta a Imprensa Regional da Madeira, E.P., pelo DLR.13/2002/M.2002.06.28.ALR-RAM, DR.IS-A [164] de 18/Jul/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2002-206658
+  date: '2002-06-28'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:47Z'
   warnings: []
   errors: []
 ---
@@ -101,49 +111,49 @@ Nestes termos:
 
 A Assembleia Regional da Madeira decreta, ao abrigo da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a empresa pública Imprensa Regional da Madeira, E. P., abreviadamente designada por IRM, E. P.
+Artigo 1.º É criada a empresa pública Imprensa Regional da Madeira, E. P., abreviadamente designada por IRM, E. P.
 
-###### Art. 2.º A IRM, E. P., é uma pessoa colectiva de direito público com património próprio, dotada de autonomia administrativa e financeira.
+Art. 2.º A IRM, E. P., é uma pessoa colectiva de direito público com património próprio, dotada de autonomia administrativa e financeira.
 
-###### Art. 3.º A IRM, E. P., tem a sua sede na cidade do Funchal.
+Art. 3.º A IRM, E. P., tem a sua sede na cidade do Funchal.
 
-###### Art. 4.º A IRM, E. P., tem por objecto principal o exercício das actividades editora e livreira e o exercício da actividade gráfica em regime de exploração industrial, exclusivamente para execução de trabalhos destinados a serviços dos órgãos de governo próprio da Região Autónoma da Madeira e de outras entidades públicas e culturais.
+Art. 4.º A IRM, E. P., tem por objecto principal o exercício das actividades editora e livreira e o exercício da actividade gráfica em regime de exploração industrial, exclusivamente para execução de trabalhos destinados a serviços dos órgãos de governo próprio da Região Autónoma da Madeira e de outras entidades públicas e culturais.
 
-###### Art. 5.º A tutela da IRM, E. P., fica cometida à Secretaria Regional do Planeamento e Finanças.
+Art. 5.º A tutela da IRM, E. P., fica cometida à Secretaria Regional do Planeamento e Finanças.
 
-###### Art. 6.º - 1 - O património privativo da IRM, E. P., é constituído por todos os bens e direitos recebidos ou adquiridos para ou no exercício da sua actividade.
+Art. 6.º - 1 - O património privativo da IRM, E. P., é constituído por todos os bens e direitos recebidos ou adquiridos para ou no exercício da sua actividade.
 
 2 - A universalidade do estabelecimento até agora afecto à Empresa do Diário da Madeira, incluindo todos os bens, direitos, obrigações e demais elementos constitutivos, transitará mediante inventário, nas mesmas condições em que se encontra e sem necessidade de outras formalidades a partir da entrada em vigor do presente diploma, para a pessoa colectiva de direito público por ele criada.
 
-###### Art. 7.º É aprovado o Estatuto da IRM, E. P., que faz, em anexo, parte integrante do presente diploma.
+Art. 7.º É aprovado o Estatuto da IRM, E. P., que faz, em anexo, parte integrante do presente diploma.
 
-###### Art. 8.º A IRM, E. P., reger-se-á pela legislação aplicável às empresas públicas, pelo Estatuto anexo, em tudo o que não contrariar aquela legislação, e, subsidiariamente, pelas normas de direito privado.
+Art. 8.º A IRM, E. P., reger-se-á pela legislação aplicável às empresas públicas, pelo Estatuto anexo, em tudo o que não contrariar aquela legislação, e, subsidiariamente, pelas normas de direito privado.
 
-###### Art. 9.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 7 de Junho de 1983.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 22 de Junho de 1983.**
+Assinado em 22 de Junho de 1983.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 ESTATUTO DA EMPRESA PÚBLICA IMPRENSA REGIONAL DA MADEIRA, E. P.
 
 ### CAPÍTULO I — Da denominação, natureza, sede e objecto
 
-###### Artigo 1.º - 1 - A empresa pública Imprensa Regional da Madeira, E. P., abreviadamente designada por IRM, E. P., é uma pessoa colectiva de direito público, com património próprio, dotada de autonomia administrativa e financeira.
+Artigo 1.º - 1 - A empresa pública Imprensa Regional da Madeira, E. P., abreviadamente designada por IRM, E. P., é uma pessoa colectiva de direito público, com património próprio, dotada de autonomia administrativa e financeira.
 
 2 - A capacidade jurídica da IRM, E. P., abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objecto, tal como definido no presente Estatuto.
 
-###### Art. 2.º A IRM, E. P., tem sede na cidade do Funchal e poderá estabelecer e encerrar as filiais, delegações ou instalações que considere necessárias à prossecução dos seus fins.
+Art. 2.º A IRM, E. P., tem sede na cidade do Funchal e poderá estabelecer e encerrar as filiais, delegações ou instalações que considere necessárias à prossecução dos seus fins.
 
-###### Art. 3.º A IRM, E. P., rege-se pela legislação aplicável às empresas públicas, pelo presente Estatuto e respectivos regulamentos de execução e, no que por aquela e estes não for especialmente regulado, pelas normas de direito privado.
+Art. 3.º A IRM, E. P., rege-se pela legislação aplicável às empresas públicas, pelo presente Estatuto e respectivos regulamentos de execução e, no que por aquela e estes não for especialmente regulado, pelas normas de direito privado.
 
-###### Art. 4.º A IRM, E. P., tem por objecto principal o exercício das actividades editora e livreira e o exercício da actividade gráfica em regime de exploração industrial, exclusivamente para execução de trabalhos destinados a serviços dos órgãos do governo próprio da Região Autónoma da Madeira e de outras entidades públicas e culturais.
+Art. 4.º A IRM, E. P., tem por objecto principal o exercício das actividades editora e livreira e o exercício da actividade gráfica em regime de exploração industrial, exclusivamente para execução de trabalhos destinados a serviços dos órgãos do governo próprio da Região Autónoma da Madeira e de outras entidades públicas e culturais.
 
-###### Art. 5.º Na prossecução do seu objecto, cabe à IRM, E. P.:
+Art. 5.º Na prossecução do seu objecto, cabe à IRM, E. P.:
 
 a) Editar:
 
@@ -169,11 +179,11 @@ b) Imprimir, embora não lhe pertençam as respectivas edições:
 
 7) Obras que sejam consideradas de interesse cultural, técnico ou científico.
 
-###### Art. 6.º Para a prossecução do seu objecto, a IRM, E. P., poderá criar ou participar em associações, empresas ou sociedades.
+Art. 6.º Para a prossecução do seu objecto, a IRM, E. P., poderá criar ou participar em associações, empresas ou sociedades.
 
-###### Art. 7.º A edição das publicações oficiais que cabem à IRM, E. P., será orientada de harmonia com as superiores determinações das entidades competentes.
+Art. 7.º A edição das publicações oficiais que cabem à IRM, E. P., será orientada de harmonia com as superiores determinações das entidades competentes.
 
-###### Art. 8.º - 1 - A fim de facilitar a aquisição pelos interessados de impressos, de outras publicações e de material tipográfico, a IRM, E. P., promoverá as respectivas vendas:
+Art. 8.º - 1 - A fim de facilitar a aquisição pelos interessados de impressos, de outras publicações e de material tipográfico, a IRM, E. P., promoverá as respectivas vendas:
 
 a) Directamente ao público;
 
@@ -185,15 +195,15 @@ c) Por recurso a estabelecimentos que se dediquem ao comércio de livros, papela
 
 3 - Em caso algum será confiada a entidade particular a venda de impressos e de outras publicações da IRM, E. P., em regime de exclusivo.
 
-###### Art. 9.º - 1 - Os serviços de estabelecimentos públicos da Região Autónoma da Madeira são obrigados a pedir parecer técnico à IRM, E. P., para execução de quaisquer trabalhos gráficos cujo preço seja superior a 5000$00.
+Art. 9.º - 1 - Os serviços de estabelecimentos públicos da Região Autónoma da Madeira são obrigados a pedir parecer técnico à IRM, E. P., para execução de quaisquer trabalhos gráficos cujo preço seja superior a 5000$00.
 
 2 - As autarquias locais desta Região Autónoma deverão pedir parecer técnico à IRM, E. P., para execução de quaisquer trabalhos gráficos cujo preço seja superior a 10000$00.
 
-###### Art. 10.º A impressão ou reimpressão de obras culturais, técnicas ou científicas será executada segundo as cláusulas do contrato respectivo.
+Art. 10.º A impressão ou reimpressão de obras culturais, técnicas ou científicas será executada segundo as cláusulas do contrato respectivo.
 
 ### CAPÍTULO II — Dos órgãos de gestão
 
-###### Art. 11.º A gestão da IRM, E. P., é assegurada pelos seguintes órgãos:
+Art. 11.º A gestão da IRM, E. P., é assegurada pelos seguintes órgãos:
 
 a) Conselho geral;
 
@@ -203,9 +213,9 @@ c) Comissão de fiscalização.
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 12.º O mandato dos membros dos órgãos de gestão da empresa é de 3 anos, renovável por iguais períodos e isento de caução.
+Art. 12.º O mandato dos membros dos órgãos de gestão da empresa é de 3 anos, renovável por iguais períodos e isento de caução.
 
-###### Art. 13.º - 1 - Os órgãos colegiais da empresa só podem deliberar validamente quando esteja presente, pessoal e efectivamente, a maioria dos seus membros.
+Art. 13.º - 1 - Os órgãos colegiais da empresa só podem deliberar validamente quando esteja presente, pessoal e efectivamente, a maioria dos seus membros.
 
 2 - As deliberações serão tomadas por maioria absoluta de votos dos membros presentes, não podendo estes abster-se de votar nem fazê-lo por procuração ou por correspondência.
 
@@ -215,7 +225,7 @@ c) Comissão de fiscalização.
 
 5 - Os membros que discordem das deliberações poderão fazer registar na acta a respectiva declaração de voto.
 
-###### Art. 14.º - 1 - Os membros do conselho geral perceberão por cada reunião em que participem uma senha de presença de quantitativo fixado por despacho do secretário regional da tutela e terão direito ao reembolso das despesas efectuadas quando participem em reuniões ou actos de serviço.
+Art. 14.º - 1 - Os membros do conselho geral perceberão por cada reunião em que participem uma senha de presença de quantitativo fixado por despacho do secretário regional da tutela e terão direito ao reembolso das despesas efectuadas quando participem em reuniões ou actos de serviço.
 
 2 - O presidente e os vogais do conselho de gerência percebem as remunerações estabelecidas de acordo com as normas legais aplicáveis.
 
@@ -223,11 +233,11 @@ c) Comissão de fiscalização.
 
 4 - Os membros do conselho de gerência terão direito ao esquema de segurança social e demais regalias sociais conferidas aos trabalhadores da empresa, em condições idênticas às destes.
 
-###### Art. 15.º As entidades com representação nos órgãos de gestão da empresa deverão indicar os seus representantes, simultaneamente com os respectivos suplentes, no prazo de 30 dias a contar da notificação para tal efeito, cabendo a nomeação ao secretário regional da tutela sempre que os não designem no prazo fixado.
+Art. 15.º As entidades com representação nos órgãos de gestão da empresa deverão indicar os seus representantes, simultaneamente com os respectivos suplentes, no prazo de 30 dias a contar da notificação para tal efeito, cabendo a nomeação ao secretário regional da tutela sempre que os não designem no prazo fixado.
 
 #### SECÇÃO II — Do conselho geral
 
-###### Art. 16.º - 1 - O conselho geral será nomeado por despacho do secretário regional da tutela e será constituído por:
+Art. 16.º - 1 - O conselho geral será nomeado por despacho do secretário regional da tutela e será constituído por:
 
 a) 1 representante da presidência do Governo e de cada uma das secretarias regionais;
 
@@ -237,7 +247,7 @@ b) 2 representantes eleitos pelos trabalhadores da empresa.
 
 3 - Nas reuniões do conselho geral podem participar um ou mais membros do conselho de gerência ou da comissão de fiscalização, sem direito a voto.
 
-###### Art. 17.º - 1 - Compete ao conselho geral:
+Art. 17.º - 1 - Compete ao conselho geral:
 
 a) Apreciar e votar os planos plurianuais de actividade e financeiros;
 
@@ -259,7 +269,7 @@ e) Eleger o vice-presidente e o secretário do conselho geral.
 
 #### SECÇÃO III — Do conselho de gerência
 
-###### Art. 18.º - 1 - O conselho de gerência é composto por um presidente e dois vogais nomeados pelo plenário do Governo da Região Autónoma da Madeira, sob proposta do secretário regional da tutela, ouvida a comissão de trabalhadores da empresa.
+Art. 18.º - 1 - O conselho de gerência é composto por um presidente e dois vogais nomeados pelo plenário do Governo da Região Autónoma da Madeira, sob proposta do secretário regional da tutela, ouvida a comissão de trabalhadores da empresa.
 
 2 - Os membros do conselho de gerência podem ser exonerados a todo o tempo pelo plenário do Governo da Região Autónoma da Madeira.
 
@@ -271,9 +281,9 @@ e) Eleger o vice-presidente e o secretário do conselho geral.
 
 6 - O conselho de gerência poderá fazer-se assistir, sempre que o entenda necessário, por auditores ou assessores contratados em assuntos cuja particular especialização o exija.
 
-###### Art. 19.º Para além da responsabilidade civil em que. nos termos da lei, se constituam perante terceiros ou perante a empresa e da responsabilidade criminal em que incorram, os membros do conselho de gerência respondem pela condução da gestão exclusivamente perante o Governo da Região Autónoma da Madeira.
+Art. 19.º Para além da responsabilidade civil em que. nos termos da lei, se constituam perante terceiros ou perante a empresa e da responsabilidade criminal em que incorram, os membros do conselho de gerência respondem pela condução da gestão exclusivamente perante o Governo da Região Autónoma da Madeira.
 
-###### Art. 20.º - 1 - O conselho de gerência tem todos os poderes necessários para assegurar a gestão e desenvolvimento da empresa, a sua representação em juízo e fora dele e a administração dos bens afectos à sua actividade, incluindo a aquisição, oneração e alienação do seu património, cabendo-lhe exercer os poderes e praticar todos os actos que por disposição expressa da lei, regulamento ou estatuto não hajam sido cometidos a outro órgão da empresa ou ao Governo da Região Autónoma da Madeira.
+Art. 20.º - 1 - O conselho de gerência tem todos os poderes necessários para assegurar a gestão e desenvolvimento da empresa, a sua representação em juízo e fora dele e a administração dos bens afectos à sua actividade, incluindo a aquisição, oneração e alienação do seu património, cabendo-lhe exercer os poderes e praticar todos os actos que por disposição expressa da lei, regulamento ou estatuto não hajam sido cometidos a outro órgão da empresa ou ao Governo da Região Autónoma da Madeira.
 
 2 - Compete, em especial, ao conselho de gerência:
 
@@ -311,9 +321,9 @@ p) Propor à secretaria regional da tutela a fixação de tarifas que devem cons
 
 q) Desistir, transigir e confessar em quaisquer pleitos e comprometer-se em arbitragens.
 
-###### Art. 21.º O conselho de gerência poderá delegar a competência para a realização de quaisquer das suas atribuições em um ou mais dos seus vogais, bem como fazer-se representar por procurador em actos ou contratos em que a IRM, E. P., tenha interesse ou deva intervir.
+Art. 21.º O conselho de gerência poderá delegar a competência para a realização de quaisquer das suas atribuições em um ou mais dos seus vogais, bem como fazer-se representar por procurador em actos ou contratos em que a IRM, E. P., tenha interesse ou deva intervir.
 
-###### Art. 22.º - 1 - Compete ao presidente do conselho de gerência a convocação das reuniões, a coordenação e a orientação geral das actividades do conselho e assegurar o expediente deste.
+Art. 22.º - 1 - Compete ao presidente do conselho de gerência a convocação das reuniões, a coordenação e a orientação geral das actividades do conselho e assegurar o expediente deste.
 
 2 - Compete, em especial, ao presidente do conselho de gerência:
 
@@ -325,15 +335,15 @@ c) Representar a empresa quando outros representantes ou mandatários não hajam
 
 d) Exercer o direito de voto, nos termos da lei.
 
-###### Art. 23.º - 1 - O conselho de gerência reúne ordinariamente uma vez por semana e extraordinariamente sempre que o presidente o convocar por iniciativa própria ou a solicitação de 2 vogais.
+Art. 23.º - 1 - O conselho de gerência reúne ordinariamente uma vez por semana e extraordinariamente sempre que o presidente o convocar por iniciativa própria ou a solicitação de 2 vogais.
 
 2 - Consideram-se sempre convocados os membros do conselho de gerência para as reuniões que se realizam em local, dia e hora preestabelecidos, bem como os que tenham estado presentes em reunião anterior em que se tenha fixado o dia e a hora da reunião, tenham sido avisados por qualquer forma previamente estabelecida ou compareçam à reunião.
 
 3 - Nos restantes casos, as reuniões carecem de convocação, dirigida a todos os membros, para poderem deliberar validamente, sendo, todavia, indispensável a indicação da ordem do dia na convocação.
 
-###### Art. 24.º A empresa fica obrigada pela assinatura de 2 membros do conselho de gerência ou pela assinatura de quem para tanto houver recebido mandato ou delegação expressa do conselho de gerência.
+Art. 24.º A empresa fica obrigada pela assinatura de 2 membros do conselho de gerência ou pela assinatura de quem para tanto houver recebido mandato ou delegação expressa do conselho de gerência.
 
-###### Art. 25.º - 1 - O presidente do conselho de gerência pode, mediante declaração fundamentada, suspender a executoriedade das deliberações relativamente às quais:
+Art. 25.º - 1 - O presidente do conselho de gerência pode, mediante declaração fundamentada, suspender a executoriedade das deliberações relativamente às quais:
 
 a) Entenda necessário conhecer-se a orientação do Governo da Região Autónoma da Madeira;
 
@@ -345,7 +355,7 @@ b) Se verifique terem sido tomadas sem a presença de todos os membros em exerc�
 
 #### SECÇÃO IV — Da comissão de fiscalização
 
-###### Art. 26.º - 1 - A comissão de fiscalização é composta por 3 membros efectivos, que escolhem entre si o presidente, e por 2 suplentes, todos designados por 3 anos, renováveis.
+Art. 26.º - 1 - A comissão de fiscalização é composta por 3 membros efectivos, que escolhem entre si o presidente, e por 2 suplentes, todos designados por 3 anos, renováveis.
 
 2 - Os membros da comissão de fiscalização serão nomeados por despacho do secretário regional da tutela, sendo um efectivo e um suplente indicados pelos trabalhadores da empresa de entre si.
 
@@ -353,9 +363,9 @@ b) Se verifique terem sido tomadas sem a presença de todos os membros em exerc�
 
 4 - Ao mandato dos membros da comissão de fiscalização aplica-se, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 17.º do presente Estatuto.
 
-###### Art. 27.º As remunerações dos membros da comissão de fiscalização, na falta de disposição legal sobre a matéria, serão fixadas pelo secretário regional da tutela.
+Art. 27.º As remunerações dos membros da comissão de fiscalização, na falta de disposição legal sobre a matéria, serão fixadas pelo secretário regional da tutela.
 
-###### Art. 28.º - 1 - Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatutárias e regulamentares aplicáveis à empresa ou às actividades por ela exercidas.
+Art. 28.º - 1 - Compete à comissão de fiscalização velar pelo cumprimento das normas legais, estatutárias e regulamentares aplicáveis à empresa ou às actividades por ela exercidas.
 
 2 - Compete, em especial, à comissão de fiscalização:
 
@@ -377,27 +387,27 @@ h) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de ger
 
 i) Pronunciar-se sobre qualquer assunto de interesse para a empresa que os conselhos geral ou de gerência submetam à sua apreciação.
 
-###### Art. 29.º - 1 - Para o exercício da sua competência podem os membros da comissão de fiscalização, conjunta ou separadamente, solicitar do conselho de gerência ou de quaisquer departamentos da empresa informações, esclarecimentos ou documentos relacionados com o curso das operações ou actividades desta.
+Art. 29.º - 1 - Para o exercício da sua competência podem os membros da comissão de fiscalização, conjunta ou separadamente, solicitar do conselho de gerência ou de quaisquer departamentos da empresa informações, esclarecimentos ou documentos relacionados com o curso das operações ou actividades desta.
 
 2 - A comissão de fiscalização poderá fazer-se assistir, sob sua responsabilidade, por auditores internos da empresa e, quando os não houver, por auditores externos contratados, bem como poderá obter de terceiros que tenham realizado operações por conta da empresa as informações que necessitar para o esclarecimento dessas operações.
 
-###### Art. 30.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente a convocar, por iniciativa própria ou a requerimento da maioria dos seus membros ou dos presidentes dos conselhos geral ou de gerência.
+Art. 30.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente a convocar, por iniciativa própria ou a requerimento da maioria dos seus membros ou dos presidentes dos conselhos geral ou de gerência.
 
 2 - À convocação da comissão de fiscalização aplica-se, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 22.º do presente Estatuto.
 
-###### Art. 31.º - 1 - A comissão de fiscalização assistirá obrigatoriamente às reuniões do conselho de gerência em que se apreciem as contas do exercício.
+Art. 31.º - 1 - A comissão de fiscalização assistirá obrigatoriamente às reuniões do conselho de gerência em que se apreciem as contas do exercício.
 
 2 - Fora do caso previsto no número anterior, os membros da comissão de fiscalização poderão assistir, individual ou conjuntamente, às reuniões do conselho de gerência sempre que o presidente deste o entenda conveniente.
 
 ### CAPÍTULO III — Da intervenção do Governo
 
-###### Art. 32.º - 1 - Sem prejuízo da autonomia legal e estatutária conferida à empresa, cabe ao Governo da Região Autónoma da Madeira, pela Secretaria Regional do Planeamento e Finanças, exercer a tutela da IRM, E. P.
+Art. 32.º - 1 - Sem prejuízo da autonomia legal e estatutária conferida à empresa, cabe ao Governo da Região Autónoma da Madeira, pela Secretaria Regional do Planeamento e Finanças, exercer a tutela da IRM, E. P.
 
 2 - Cabe ao Governo da Região Autónoma da Madeira definir o enquadramento geral em que se desenvolverá a actividade da IRM, E. P., de forma a assegurar a sua harmonização com as políticas globais e sectoriais e com o planeamento económico regional.
 
 3 - Compete ainda ao secretário regional da tutela dirimir quaisquer diferendos suscitados entre os diversos órgãos de gestão da empresa.
 
-###### Art. 33.º - 1 - Carecem de aprovação do secretário regional da tutela:
+Art. 33.º - 1 - Carecem de aprovação do secretário regional da tutela:
 
 a) Os planos plurianuais e anuais de actividades e financeiros;
 
@@ -419,13 +429,13 @@ h) A alteração do capital estatutário da empresa.
 
 3 - Os documentos referidos nas alíneas b) e d) consideram-se tacitamente aprovados se o secretário regional da tutela não se pronunciar no prazo de 30 dias após a sua recepção.
 
-###### Art. 34.º - 1 - Compete aos Secretários Regionais do Trabalho e da tutela aprovar o estatuto do pessoal da empresa, elaborado pelo conselho de gerência, após prévia audiência dos representantes dos trabalhadores.
+Art. 34.º - 1 - Compete aos Secretários Regionais do Trabalho e da tutela aprovar o estatuto do pessoal da empresa, elaborado pelo conselho de gerência, após prévia audiência dos representantes dos trabalhadores.
 
 2 - A aprovação a que se refere o número anterior deverá efectuar-se no prazo de 180 dias, a contar da data da entrada em vigor do presente diploma.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 35.º O regime jurídico do pessoal é definido:
+Art. 35.º O regime jurídico do pessoal é definido:
 
 a) Pelas leis gerais do contrato individual de trabalho;
 
@@ -433,7 +443,7 @@ b) Pelos instrumentos de regulamentação colectiva de trabalho que forem aplic�
 
 c) Pelas demais normas que integram o estatuto do pessoal da empresa.
 
-###### Art. 36.º - 1 - Podem exercer funções de carácter específico na empresa, em comissão de serviço, funcionários dos órgãos de governo próprio da Região Autónoma da Madeira, das autarquias locais e dos institutos públicos, bem como os trabalhadores de outras empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período de comissão como prestado nesse quadro.
+Art. 36.º - 1 - Podem exercer funções de carácter específico na empresa, em comissão de serviço, funcionários dos órgãos de governo próprio da Região Autónoma da Madeira, das autarquias locais e dos institutos públicos, bem como os trabalhadores de outras empresas públicas, os quais manterão todos os direitos inerentes ao seu quadro de origem, incluindo os benefícios de aposentação ou reforma e sobrevivência, considerando-se todo o período de comissão como prestado nesse quadro.
 
 2 - Nas mesmas condições, também os trabalhadores da IRM, E. P., podem exercer funções nos órgãos de governo próprio da Região Autónoma da Madeira, autarquias locais, institutos públicos, outras empresas públicas ou outras empresas subsidiárias ou associadas da IRM, E. P., inclusive nos respectivos órgãos de gestão.
 
@@ -441,25 +451,25 @@ c) Pelas demais normas que integram o estatuto do pessoal da empresa.
 
 4 - O vencimento dos trabalhadores em comissão de serviço constituirá encargo da entidade para o qual o serviço for prestado.
 
-###### Art. 37.º A situação dos trabalhadores da IRM, E. P., que sejam chamados a ocupar cargos nos órgãos da empresa em nada será prejudicada por esse facto, regressando aos seus lugares logo que termine o seu mandato, caso o seu desempenho implique cessação das funções normais.
+Art. 37.º A situação dos trabalhadores da IRM, E. P., que sejam chamados a ocupar cargos nos órgãos da empresa em nada será prejudicada por esse facto, regressando aos seus lugares logo que termine o seu mandato, caso o seu desempenho implique cessação das funções normais.
 
-###### Art. 38.º Ao pessoal da empresa é aplicável o regime geral de previdência.
+Art. 38.º Ao pessoal da empresa é aplicável o regime geral de previdência.
 
-###### Art. 39.º Os rendimentos do trabalho do pessoal da empresa estão sujeitos a tributação nos mesmos termos que os trabalhadores das empresas privadas.
+Art. 39.º Os rendimentos do trabalho do pessoal da empresa estão sujeitos a tributação nos mesmos termos que os trabalhadores das empresas privadas.
 
-###### Art. 40.º O órgão representativo do pessoal da IRM, E. P., é a respectiva comissão de trabalhadores, cuja constituição e actividade obedecerão à legislação em vigor, ao presente estatuto e ao estatuto do pessoal.
+Art. 40.º O órgão representativo do pessoal da IRM, E. P., é a respectiva comissão de trabalhadores, cuja constituição e actividade obedecerão à legislação em vigor, ao presente estatuto e ao estatuto do pessoal.
 
-###### Art. 41.º A posição que dos contratos de trabalho dos trabalhadores da Empresa do Diário da Madeira decorria até agora para o Governo da Região Autónoma da Madeira é transmitida, nos termos do n.º 2 do artigo 6.º do decreto legislativo regional que procede à aprovação do presente Estatuto, para a IRM, E. P.
+Art. 41.º A posição que dos contratos de trabalho dos trabalhadores da Empresa do Diário da Madeira decorria até agora para o Governo da Região Autónoma da Madeira é transmitida, nos termos do n.º 2 do artigo 6.º do decreto legislativo regional que procede à aprovação do presente Estatuto, para a IRM, E. P.
 
 ### CAPÍTULO V — Do património e capital
 
-###### Art. 42.º - 1 - O património da IRM, E. P., é constituído por todos os bens e direitos já pertencentes à empresa e, bem assim, por todos aqueles que venha a adquirir para ou no exercício da sua actividade.
+Art. 42.º - 1 - O património da IRM, E. P., é constituído por todos os bens e direitos já pertencentes à empresa e, bem assim, por todos aqueles que venha a adquirir para ou no exercício da sua actividade.
 
 2 - Designadamente, constituem património da IRM, E. P., a propriedade literária do Diário da Madeira, o direito ao uso da razão social Empresa do Diário da Madeira, nos termos da lei, bem como todos os móveis, mercadorias, utensílios e os demais elementos constitutivos do estabelecimento denominado Empresa do Diário da Madeira.
 
-###### Art. 43.º Pela satisfação de dívidas ou de quaisquer encargos assumidos pela IRM, E. P., responde exclusivamente o seu património.
+Art. 43.º Pela satisfação de dívidas ou de quaisquer encargos assumidos pela IRM, E. P., responde exclusivamente o seu património.
 
-###### Art. 44.º - 1 - O capital estatutário é formado pelo valor do património integrado nos termos do artigo 42.º do presente Estatuto e pelas dotações ou outras entradas patrimoniais do Governo da Região Autónoma da Madeira ou de outras pessoas colectivas de direito público destinadas a satisfazer as necessidades permanentes da empresa.
+Art. 44.º - 1 - O capital estatutário é formado pelo valor do património integrado nos termos do artigo 42.º do presente Estatuto e pelas dotações ou outras entradas patrimoniais do Governo da Região Autónoma da Madeira ou de outras pessoas colectivas de direito público destinadas a satisfazer as necessidades permanentes da empresa.
 
 2 - O capital estatutário será fixado por despacho do secretário regional da tutela, sob proposta do conselho de gerência a apresentar no prazo de 90 dias a contar da data da publicação deste Estatuto.
 
@@ -469,15 +479,15 @@ c) Pelas demais normas que integram o estatuto do pessoal da empresa.
 
 ### CAPÍTULO VI — Da gestão financeira e económica
 
-###### Art. 45.º - 1 - A IRM, E. P., administra e dispõe livremente, nos termos do presente Estatuto, dos bens que constituem o seu património, sem sujeição às normas relativas ao domínio privado do Estado.
+Art. 45.º - 1 - A IRM, E. P., administra e dispõe livremente, nos termos do presente Estatuto, dos bens que constituem o seu património, sem sujeição às normas relativas ao domínio privado do Estado.
 
 2 - Além dos bens e direitos integrados no seu património, a IRM, E. P., administra os bens e direitos do domínio público ou do domínio privado da Região Autónoma da Madeira afectos às actividades a seu cargo, deles devendo manter cadastro actualizado.
 
-###### Art. 46.º - 1 - Compete ao conselho de gerência da IRM, E. P., praticar todos os actos administrativos definitivos e executórios que permitam a esta exercer os poderes que lhe são conferidos pela lei e pelo presente Estatuto, sem prejuízo da competência tutelar.
+Art. 46.º - 1 - Compete ao conselho de gerência da IRM, E. P., praticar todos os actos administrativos definitivos e executórios que permitam a esta exercer os poderes que lhe são conferidos pela lei e pelo presente Estatuto, sem prejuízo da competência tutelar.
 
 2 - A executoriedade dos actos praticados pelo conselho de gerência da IRM, E. P., não depende, salvo nos casos especialmente previstos, de nenhum visto ou aprovação de outras entidades ou órgãos.
 
-###### Art. 47.º - 1 - Compete à IRM, E. P., a cobrança das receitas emergentes da prestação de serviços que leva a efeito ou de quaisquer outras que lhe sejam atribuídas e a realização de despesas que sejam necessárias à sua actividade.
+Art. 47.º - 1 - Compete à IRM, E. P., a cobrança das receitas emergentes da prestação de serviços que leva a efeito ou de quaisquer outras que lhe sejam atribuídas e a realização de despesas que sejam necessárias à sua actividade.
 
 2 - Constituem, designadamente, receitas da IRM, E. P.:
 
@@ -495,17 +505,17 @@ e) Quaisquer outros rendimentos ou valores, fixos ou periódicos, a título grat
 
 4 - A adjudicação e contratação de obras, fornecimentos ou de prestação de serviços poderá ser feita pela empresa, segundo um regime de direito público, sempre que a sua dimensão, preço, prazo ou importância o justifiquem.
 
-###### Art. 48.º A IRM, E. P., poderá socorrer-se de qualquer forma de financiamento, sem prejuízo das competências fixadas neste Estatuto para cada um dos órgãos de gestão da empresa e para a tutela governamental.
+Art. 48.º A IRM, E. P., poderá socorrer-se de qualquer forma de financiamento, sem prejuízo das competências fixadas neste Estatuto para cada um dos órgãos de gestão da empresa e para a tutela governamental.
 
-###### Art. 49.º Na gestão económica e financeira da IRM, E. P., os órgãos competentes da empresa aplicarão as regras legais, o disposto neste Estatuto e os princípios da boa gestão empresarial.
+Art. 49.º Na gestão económica e financeira da IRM, E. P., os órgãos competentes da empresa aplicarão as regras legais, o disposto neste Estatuto e os princípios da boa gestão empresarial.
 
-###### Art. 50.º - 1 - A IRM, E. P., exercerá a sua actividade em obediência a um sistema de planeamento a curto, médio e longo prazos, enquadrado no planeamento económico regional, assentando a sua gestão na definição de necessidades, fixação de objectivos, controle permanente de resultados e revisão oportuna de carências, procurando sempre alcançar o equilíbrio económico e financeiro da exploração e assegurando níveis adequados de autofinanciamento e de remuneração do capital estatutário.
+Art. 50.º - 1 - A IRM, E. P., exercerá a sua actividade em obediência a um sistema de planeamento a curto, médio e longo prazos, enquadrado no planeamento económico regional, assentando a sua gestão na definição de necessidades, fixação de objectivos, controle permanente de resultados e revisão oportuna de carências, procurando sempre alcançar o equilíbrio económico e financeiro da exploração e assegurando níveis adequados de autofinanciamento e de remuneração do capital estatutário.
 
 2 - Competindo à empresa especiais obrigações de serviço público que a tornem responsável por tarefas e actividades estruturalmente deficitárias ou em relação às quais se verifique uma prática de preços sociais, o Governo da Região Autónoma da Madeira compensará a empresa pelo correspondente encargo.
 
-###### Art. 51.º A informação da gestão da empresa a fornecer ao Governo da Região Autónoma da Madeira, para efeitos de tutela económica e financeira, será prestada de acordo com o sistema básico de informação de gestão.
+Art. 51.º A informação da gestão da empresa a fornecer ao Governo da Região Autónoma da Madeira, para efeitos de tutela económica e financeira, será prestada de acordo com o sistema básico de informação de gestão.
 
-###### Art. 52.º - 1 - A gestão económica e financeira da empresa é disciplinada pelos seguintes instrumentos de gestão previsional:
+Art. 52.º - 1 - A gestão económica e financeira da empresa é disciplinada pelos seguintes instrumentos de gestão previsional:
 
 a) Planos de actividades e financeiros anuais e plurianuais;
 
@@ -519,21 +529,21 @@ b) Orçamentos anuais de exploração e de investimentos e suas actualizações.
 
 5 - Os planos financeiros deverão prever a evolução das receitas e das despesas, os investimentos projectados e as fontes de financiamento a recorrer.
 
-###### Art. 53.º - 1 - Os orçamentos serão anuais e deverão seriar as verbas não só destinadas a cobrir a exploração global da empresa, como também a afectar as contas de investimento para cumprimento das actividades programadas e individualizar a sua cobertura financeira.
+Art. 53.º - 1 - Os orçamentos serão anuais e deverão seriar as verbas não só destinadas a cobrir a exploração global da empresa, como também a afectar as contas de investimento para cumprimento das actividades programadas e individualizar a sua cobertura financeira.
 
 2 - O orçamento será actualizado pelo menos uma vez em cada semestre.
 
-###### Art. 54.º - 1 - O activo imobilizado próprio da IRM, E. P., e o do domínio público ou do domínio privado da Região Autónoma da Madeira afecto à sua actividade é amortizado, reintegrado e reavaliado pelo conselho de gerência, de acordo com os critérios aprovados pelo secretário regional da tutela, sem prejuízo da aplicabilidade do disposto na lei fiscal.
+Art. 54.º - 1 - O activo imobilizado próprio da IRM, E. P., e o do domínio público ou do domínio privado da Região Autónoma da Madeira afecto à sua actividade é amortizado, reintegrado e reavaliado pelo conselho de gerência, de acordo com os critérios aprovados pelo secretário regional da tutela, sem prejuízo da aplicabilidade do disposto na lei fiscal.
 
 2 - O valor anual das amortizações constitui encargo de exploração e será escriturado em conta especial.
 
 3 - A periodicidade das reavaliações será determinada por forma a atingir-se uma mais exacta correspondência entre os valores patrimoniais e contabilísticos.
 
-###### Art. 55.º - 1 - O balanço anual deve ser organizado por forma a separar, no activo imobilizado da empresa, os bens do domínio público ou do domínio privado da Região Autónoma da Madeira daqueles que constituem património da empresa.
+Art. 55.º - 1 - O balanço anual deve ser organizado por forma a separar, no activo imobilizado da empresa, os bens do domínio público ou do domínio privado da Região Autónoma da Madeira daqueles que constituem património da empresa.
 
 2 - Na contabilização dos bens dominiais serão escriturados em conta distinta aqueles que hajam sido adquiridos pela IRM, E. P.
 
-###### Art. 56.º - 1 - A empresa constituirá as provisões reservas e fundos que se mostrem necessários designadamente:
+Art. 56.º - 1 - A empresa constituirá as provisões reservas e fundos que se mostrem necessários designadamente:
 
 a) Reserva geral;
 
@@ -547,11 +557,11 @@ c) Fundo para fins sociais.
 
 4 - O fundo para fins sociais, constituído por, pelo menos, 10% dos lucros anuais, será aplicado, com prévia audiência dos trabalhadores, em realizações que lhes proporcionem benefícios de carácter social.
 
-###### Art. 57.º - 1 - Serão constituídas provisões, consideradas como custo de exploração, para eventual cobertura de perda de valor das existências ou de créditos incobráveis.
+Art. 57.º - 1 - Serão constituídas provisões, consideradas como custo de exploração, para eventual cobertura de perda de valor das existências ou de créditos incobráveis.
 
 2 - Constituirão reforço de provisão para crédito e cobrança duvidosa os depósitos de garantia abandonados a favor da empresa.
 
-###### Art. 58.º Com vista à prestação de contas do exercício de cada ano, deverão ser elaborados, com referência a 31 de Dezembro do ano anterior, os seguintes documentos:
+Art. 58.º Com vista à prestação de contas do exercício de cada ano, deverão ser elaborados, com referência a 31 de Dezembro do ano anterior, os seguintes documentos:
 
 a) Balanço analítico;
 
@@ -571,7 +581,7 @@ h) Mapas informativos do grau de execução dos programas em curso;
 
 i) Discriminação das participações no capital de sociedades e dos financiamentos realizados a médio e a longo prazos.
 
-###### Art. 59.º Serão enviados, nos termos legais, ao Serviço Regional de Estatística da Madeira (SREM), logo que aprovados, os seguintes documentos:
+Art. 59.º Serão enviados, nos termos legais, ao Serviço Regional de Estatística da Madeira (SREM), logo que aprovados, os seguintes documentos:
 
 a) Balanço analítico;
 
@@ -581,14 +591,14 @@ c) Anexo ao balanço e à demonstração de resultados;
 
 d) Relatório do conselho de gerência.
 
-###### Art. 60.º Serão publicados no Jornal Oficial da Região Autónoma da Madeira, logo que aprovados, o relatório do conselho de gerência, o balanço analítico, a demonstração de resultados e o parecer da comissão de fiscalização.
+Art. 60.º Serão publicados no Jornal Oficial da Região Autónoma da Madeira, logo que aprovados, o relatório do conselho de gerência, o balanço analítico, a demonstração de resultados e o parecer da comissão de fiscalização.
 
-###### Art. 61.º As contas da empresa não são submetidas à Secção Regional do Tribunal de Contas da Região Autónoma da Madeira.
+Art. 61.º As contas da empresa não são submetidas à Secção Regional do Tribunal de Contas da Região Autónoma da Madeira.
 
 ### CAPÍTULO VII — Das disposições gerais e finais
 
-###### Art. 62.º - 1 - A responsabilidade da empresa é limitada, nos termos do artigo 43.º do presente Estatuto.
+Art. 62.º - 1 - A responsabilidade da empresa é limitada, nos termos do artigo 43.º do presente Estatuto.
 
 2 - O Governo da Região Autónoma da Madeira só responderá perante terceiros pelos actos e factos imputáveis à empresa se e na medida em que tenha assumido de modo expresso tal responsabilidade.
 
-###### Art. 63.º A IRM, E. P., está sujeita ao regime geral da tributação das empresas públicas, podendo, contudo, ser-lhe concedidos, nos termos legais, benefícios e isenções com vista à prossecução das obrigações de serviço público que lhe estão cometidas.
+Art. 63.º A IRM, E. P., está sujeita ao regime geral da tributação das empresas públicas, podendo, contudo, ser-lhe concedidos, nos termos legais, benefícios e isenções com vista à prossecução das obrigações de serviço público que lhe estão cometidas.

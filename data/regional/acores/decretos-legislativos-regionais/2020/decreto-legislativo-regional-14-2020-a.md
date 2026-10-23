@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12200/0001700023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2020/06/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2020-136600051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94aadf6e7645da8225838421b30038587de0b70b966489cc3c090166652a1325
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba03a164bed402e18acbd15d6801d4f063b9054820fab8487f2add263a85ebc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo CE
+- Açores
+- Centro de Gestão Financeira da Segurança Social
+- Exploração Agrícola
 - Exploração Agrícola Familiar
-- União Europeia
-- Pagamento
 - Instituto Regional do Ordenamento Agrário
 - Jovem Agricultor
-- Exploração Agrícola
+- Pagamento
 - Política Agrícola Comum
 - Produção Agrícola
 - Reembolso
-- Centro de Gestão Financeira da Segurança Social
-- Açores
+- União Europeia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/14/2016/07/22/a/dre
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2001/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2001/05/11/p/dre
+- type: cites
+  target: pt:dre:314194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75020428:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:34Z'
   warnings: []
   errors: []
 ---
@@ -362,10 +370,12 @@ O presente diploma entra em vigor trinta dias após a data da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de maio de 2020.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 17 de junho de 2020.**
+Assinado em Angra do Heroísmo em 17 de junho de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+113323239

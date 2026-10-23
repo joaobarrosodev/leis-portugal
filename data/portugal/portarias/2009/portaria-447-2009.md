@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/447/2009/04/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/447-2009-607731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d852c10ed85aa2259413dc9e149b3d8834aa76efb7c73bb1e7a149946cd73718
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b717eff048445a41c023f0b004df7e52e4f5f8ec85722d1d07822a0e151a502
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pesca
 - Licenciamento
+- Pesca
 - Pesca por ARTE de Armadilha
 - Regulamento
 relationships:
@@ -75,6 +75,38 @@ relationships:
   target: pt:dre:179024:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492729:por
+  label: "Alterada a al. a) do nº 1 do art. 9º-A do Regulamento da Pesca por Arte de Armadilha, anexo à Port 1102-D/2000,\
+    \ de 22-Nov, na redacção (com republicação do regulamento) do presente diploma, pela PORT.774/2009.21.07.2009.MADRP, DR.IS\
+    \ [139] de 21.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/774-2009-492729
+  date: '2009-07-21'
+- type: amended_by
+  target: pt:dre:307775:por
+  label: "Alterado o anexo I do Regulamento da Pesca por Arte de Armadilha, aprovado pela Port 1102-D/2000, de 22-Nov, na\
+    \ redacção do presente diploma e que o republica, pela PORT.1054/2010.14.10.2010.MADRP, DR.IS [200] de 14.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1054-2010-307775
+  date: '2010-10-14'
+- type: amended_by
+  target: pt:dre:204453:por
+  label: "Derrogado o disposto nas als. a) e b) do nº 1 e suspensa a aplicação, por 120 dias a contar de 06.04.2012, do nº\
+    \ 3, ambos do art. 8º do Regulamento da Pesca por Arte de Armadilha, aprovado pela Port 1102-D/2000 de 22-nov, alterado\
+    \ e republicado pelo presente diploma, pela PORT.97-A/2012.05.04.2012.MAMAOT, DR.IS [69-2ºSupl] de 05.04.2012 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-a-2012-204453
+  date: '2012-04-05'
+- type: amended_by
+  target: pt:dre:179024:por
+  label: "Alterados os art.s 7º e 8º do Regulamento da Pesca por Arte de Armadilha, aprovado pela Port 1102-D/2000, de 22-nov,\
+    \ na redação do presente diploma, pela PORT.230/2012.03.08.2012.MAMAOT, DR.IS [150] de 03.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-2012-179024
+  date: '2012-08-03'
+- type: amended_by
+  target: pt:dre:74316116:por
+  label: Alterado o art. 9.º-A do Regulamento da Pesca por Arte de Armadilha, aprovado pela Port 1102-D/2000 de 22-nov, aditado
+    pelo presente diploma, pelo(a) Portaria n.º 118-C/2016 - Diário da República n.º 83/2016, 1º Suplemento, Série I de 2016-04-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/118-c-2016-74316116
+  date: '2016-04-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
@@ -99,16 +131,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/419-a/2001/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/419-a/2001/04/18/p/dre
+- type: cites
+  target: pt:dre:223229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468397:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 20
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:15Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +209,9 @@ b) ...
 
 c) Pesca por armadilha do tipo armação.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -159,7 +221,9 @@ c) Pesca por armadilha do tipo armação.
 
 4 - ...
 
-###### Artigo 9.º — Pesca do camarão-branco-legítimo
+Artigo 9.º
+
+Pesca do camarão-branco-legítimo
 
 1 - No exercício da pesca de camarão-branco-legítimo (Palaemon serratus) é permitida a utilização de armadilhas de gaiola, com a malhagem da classe de malhagem 8 mm-29 mm e com as seguintes características:
 
@@ -211,9 +275,13 @@ b) As armadilhas utilizadas tenham a forma de um paralelepípedo ou cilindro, co
 
 5 - Só podem ser licenciadas para o uso das armadilhas referidas no n.º 1 as embarcações de pesca registadas na frota local nas áreas de jurisdição das capitanias de Caminha à Figueira da Foz.
 
-### CAPÍTULO IV — Pesca por armadilha do tipo armação
+CAPÍTULO IV
 
-###### Artigo 12.º — Caracterização
+Pesca por armadilha do tipo armação
+
+Artigo 12.º
+
+Caracterização
 
 1 - Por pesca por armadilha do tipo armação entende-se aquela em que se recorre a uma estrutura fixa, de grande dimensão, em mar aberto, mista, para a captura de espécies marinhas, constituída por um corpo central com redes verticais sustentadas por cabos e bóias, fixadas ao fundo por poitas, âncoras ou sacos de areia, definindo canais, barreiras e câmaras, através dos quais os peixes são conduzidos até chegarem a um copo onde são capturados, podendo aí, ser mantidos para crescimento e engorda.
 
@@ -225,7 +293,9 @@ b) As armadilhas utilizadas tenham a forma de um paralelepípedo ou cilindro, co
 
 5 - A malhagem mínima é de 600 mm nas redes-guia e de 80 mm nas redes do copo.
 
-###### Artigo 13.º — Condicionalismos ao licenciamento
+Artigo 13.º
+
+Condicionalismos ao licenciamento
 
 O licenciamento da armadilha do tipo armação é precedido da apresentação do título de utilização de área do domínio público marítimo.»
 
@@ -393,10 +463,10 @@ O licenciamento da armadilha do tipo armação é precedido da apresentação do
 
 Dimensão do vazio da malha ou retículo e percentagem mínima de espécies alvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/08200/0246902473.pdf))](https://files.diariodarepublica.pt/1s/2009/04/08200/0246902473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/08200/0246902473.pdf)
 
 ## ANEXO II — Número máximo de armadilhas
 
 (a que se refere o artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/08200/0246902473.pdf))](https://files.diariodarepublica.pt/1s/2009/04/08200/0246902473.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/08200/0246902473.pdf)

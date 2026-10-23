@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19700/0012700155.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2025/10/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2025-939474965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58af20490ab94e6bd3cb85aee7c59c1bca7deb3f7f2813d9a6671ccea7d01bbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50df5ef84b0209d117fc302375d7f1ab361e2e94d7d2012bb05d5ab13db2329f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Armazenagem
+- Autoridade Portuária
+- Controlo Aduaneiro
 - Embarcação
 - Pilotagem
-- Controlo Aduaneiro
-- Autoridade Portuária
-- TAXA de Pilotagem
-- Regulamento do Sistema Tarifário dos Portos da Região Autónoma dos Açores
 - Portos
-- Açores
+- Regulamento do Sistema Tarifário dos Portos da Região Autónoma dos Açores
 - Tarifa Portuária
 - Taxa
+- TAXA de Pilotagem
 - TAXA de Prestação de Serviços
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:14/2002/A
+  label: Altera, a partir de 14 de outubro de 2025, os artigos 6.º, 10.º e 11.º e adita o artigo 10.º-A ao Regulamento do
+    Sistema Tarifário dos Portos da Região Autónoma dos Açores, aprovado pelo Decreto Legislativo Regional n.º 14/2002/A,
+    de 12 de abril,Diário da República n.º 86/2002, Série I-A e procede à sua republicação
+  source: null
+  date: '2002-04-12'
 - type: cites
   target: celex:31995L0064
   label: null
@@ -99,16 +106,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/14/2017/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/14/2017/01/10/p/dre
+- type: cites
+  target: pt:dre:105711865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176412614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629451:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:14/2024
+  label: Revoga, com efeitos a 1 de novembro de 2025, o artigo 16.º do Regulamento de Tarifas das Marinas e Núcleos de Recreio
+    Náutico sob Jurisdição da Portos, aprovado pela Portaria n.º 14/2024, de 26 de março, JORNAL OFICIAL DOS AÇORES - 1.ª
+    SÉRIE, Nº 22
+  source: null
+  date: '2024-03-26'
 article_structure:
-  article_count: 59
+  article_count: 57
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:20Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +231,9 @@ Os artigos 6.º, 10.º e 11.º do anexo ao [Decreto Legislativo Regional n.º 14
 
 4 - Os proprietários ou titulares das embarcações que sejam sócios do clube naval sediado na área de exploração da respetiva marina beneficiam de uma redução de, pelo menos, 20 % do valor das tarifas anuais do Regulamento de Tarifas das Marinas e Núcleos de Recreio Náutico sob jurisdição da Portos dos Açores, S. A.
 
-###### Artigo 10.º — […]
+Artigo 10.º
+
+[…]
 
 1 - As taxas unitárias previstas no artigo 6.º devem ser atualizadas tendo em conta a taxa de inflação do ano anterior, excluindo os fornecimentos de bens e serviços efetuados por entidades terceiras.
 
@@ -205,7 +245,9 @@ Os artigos 6.º, 10.º e 11.º do anexo ao [Decreto Legislativo Regional n.º 14
 
 5 - [Anterior n.º 4.]
 
-###### Artigo 11.º — […]
+Artigo 11.º
+
+[…]
 
 1 - As taxas aprovadas, destinadas a vigorar no ano civil subsequente, devem ser divulgadas pelas autoridades portuárias até 30 de setembro do ano anterior.
 
@@ -243,11 +285,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 9 de setembro de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 8 de outubro de 2025.**
+Assinado em Angra do Heroísmo em 8 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -531,7 +573,7 @@ a) A GT e a relação (R) entre a quantidade de carga descarregada e carregada, 
 
 b) A GT e o tempo (T) de permanência da embarcação ou navio no porto, nos termos do artigo 16.º
 
-2 - A componente aplicável às embarcações de tráfego local é calculada por períodos de avença de 30, 90, 180 e 365 dias e consoante os tipos de embarcação referidos nos n.<sup>os</sup>3 e 4.
+2 - A componente aplicável às embarcações de tráfego local é calculada por períodos de avença de 30, 90, 180 e 365 dias e consoante os tipos de embarcação referidos nos n.os3 e 4.
 
 3 - As avenças devidas pelas embarcações referidas no número anterior, de carga, de passageiros, de pesca e rebocadores, serão proporcionais à raiz quadrada da arqueação bruta e ao número de dias de avença.
 
@@ -659,7 +701,7 @@ l) Os navios que operem em condições excecionais de prestação de serviço p�
 
 3 - As autoridades portuárias poderão propor a fixação do valor das taxas unitárias referidas no número anterior, em casos devidamente fundamentados, ao nível de cada um dos 23 tipos de carga referidos no mesmo anexo ii.
 
-4 - A autoridade portuária poderá ainda, para efeitos de fixação das taxas unitárias referidas nos n.<sup>os</sup>2 e 3, diferenciar a situação de embarque ou desembarque.
+4 - A autoridade portuária poderá ainda, para efeitos de fixação das taxas unitárias referidas nos n.os2 e 3, diferenciar a situação de embarque ou desembarque.
 
 5 - São sujeitos passivos desta componente da taxa de uso do porto os donos da carga ou os respetivos representantes legais.
 
@@ -897,7 +939,7 @@ f) Embarcações com mais de 40 000 GT.
 
 4 - Se o pessoal permanecer em serviço para além de duas horas a contar do início efetivo de cada operação, será cobrada uma taxa suplementar equivalente a 25 % da prevista por serviço, para a respetiva classe de GT e por cada hora ou fração de atraso.
 
-5 - As percentagens previstas nos n.<sup>os</sup>3 e 4 têm carácter supletivo, podendo as autoridades portuárias estabelecer outros aumentos, obtida a anuência do secretário regional com competência em matéria do setor portuário.
+5 - As percentagens previstas nos n.os3 e 4 têm carácter supletivo, podendo as autoridades portuárias estabelecer outros aumentos, obtida a anuência do secretário regional com competência em matéria do setor portuário.
 
 ### CAPÍTULO VI — TARIFA DE MOVIMENTAÇÃO DE CARGAS E TRÁFEGO DE PASSAGEIROS
 
@@ -989,7 +1031,7 @@ Para além do período de franquia, os valores das taxas de armazenagem para per
 
 ###### Artigo 43.º — Definição
 
-1 - A tarifa de uso de equipamento define os princípios, rege a aplicação e estabelece os parâmetros de fixação das taxas a pagar pelos clientes do porto como contraprestação dos serviços prestados à carga ou ao navio pelos componentes discriminados no artigo 44.º, dos sistemas indicados nos n.<sup>os</sup>2 e 3, incluindo a sua disponibilidade, quando existentes.
+1 - A tarifa de uso de equipamento define os princípios, rege a aplicação e estabelece os parâmetros de fixação das taxas a pagar pelos clientes do porto como contraprestação dos serviços prestados à carga ou ao navio pelos componentes discriminados no artigo 44.º, dos sistemas indicados nos n.os2 e 3, incluindo a sua disponibilidade, quando existentes.
 
 2 - Integram as taxas de uso de equipamento, para efeitos do seu cálculo e respetiva fixação, componentes dos seguintes sistemas relativos à movimentação e proteção de cargas e tráfego de passageiros:
 
@@ -1125,7 +1167,7 @@ d) Armazenagem em parque durante um período de franquia a estabelecer;
 
 e) Carregamento sobre vagão, camião ou reboque para saída.
 
-7 - Quando ocorram operações de movimentação adicionais às incluídas nos pacotes referidos nos n.<sup>os</sup>5 e 6, ou essas movimentações se efetuarem de forma avulsa, serão aplicadas taxas autónomas por contentor e por operação.
+7 - Quando ocorram operações de movimentação adicionais às incluídas nos pacotes referidos nos n.os5 e 6, ou essas movimentações se efetuarem de forma avulsa, serão aplicadas taxas autónomas por contentor e por operação.
 
 8 - A movimentação de tampas das escotilhas de porão e de cargas não unitizadas nos terminais especializados está sujeita a taxas autónomas das praticadas para o embarque ou desembarque de contentores que são fixadas por movimento.
 
@@ -1234,3 +1276,5 @@ b) Inspeção e desembaraço de cargas recebidas ou expedidas por mar, para efei
 ###### Artigo 48.º — Fixação
 
 Os valores das taxas previstas no artigo anterior são fixados por portaria conjunta dos membros do Governo Regional com competência em matéria de saúde e sanidade animal e vegetal.
+
+119630904

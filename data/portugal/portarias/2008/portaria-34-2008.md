@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00800/0036900369.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/34/2008/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/34-2008-386604
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3ae98b8241eb9b2e27cc01fede7c335263a625feaf13aaccaa9de84b38655c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95944fc90085d4e33e4c0bd640d554a0bdefe6862e155efda660c34c1dabeb38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
-- Pesca
-- Recursos do Mar
-- Proteção do Ambiente
-- Espécie Protegida
-- Regulamento CE
 - Embarcação de Pesca
+- Espécie Protegida
+- Pesca
+- Proteção do Ambiente
+- Proteção dos Animais
+- Recursos do Mar
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:145188:por
@@ -86,16 +86,22 @@ relationships:
   target: celex:32006R2015
   label: null
   source: http://data.europa.eu/eli/reg/2006/2015/oj
+- type: repealed_by
+  target: pt:dre:145188:por
+  label: "Revogada, a partir de 01.01.2012, a Portaria 848/2007 de 07-Ago, na redacção dada pelo presente diploma, pela PORT.315/2011.29.12.2011.MAMAOT,\
+    \ DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/315-2011-145188
+  date: '2011-12-29'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:46Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +134,4 @@ São alterados os n.os 2.º e 3.º da Portaria n.º 848/2007, de 7 de Agosto, qu
 
 As presentes alterações entram em vigor dia 1 de Janeiro de 2008.
 
-**O Secretário de Estado Adjunto, da Agricultura e das Pescas, Luís Medeiros Vieira, em 21 de Dezembro de 2007.**
+O Secretário de Estado Adjunto, da Agricultura e das Pescas, Luís Medeiros Vieira, em 21 de Dezembro de 2007.

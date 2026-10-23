@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2021/06/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2021-165228635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8560cc1870e88292d0e75a61b714b4c23a525caa4994cc03f83b76aad145db55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d32f7068cf3eb0bfea7530ad1ba0a591970cedb7802fa60ff6973b7aa7ce13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Consumidor
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Gabinete Técnico de Apoio ao Desenvolvimento Social
 - Planeamento Regional
-- Desenvolvimento Económico
-- Plano Regional
-- Açores
 - Plano de Recuperação e Resiliência
+- Plano Regional
 relationships:
 - type: cites
   target: celex:31992R2080
@@ -131,16 +131,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/81/2014/12/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/81/2014/12/19/p/dre
+- type: cites
+  target: pt:dre:107114310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:121403443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122253268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122393535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136600051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:65949853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70835506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70867667:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:45Z'
   warnings: []
   errors: []
 ---
@@ -161,11 +261,11 @@ A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 22 de abril de 2021.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 27 de maio de 2021.**
+Assinado em Angra do Heroísmo em 27 de maio de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -285,7 +385,7 @@ Indicadores para a Economia Mundial
 
 Taxa de variação anual em percentagem (salvo indicação em contrário)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Economia Portuguesa
 
@@ -355,7 +455,7 @@ Indicadores para a Economia Portuguesa
 
 Taxa de variação anual em percentagem (salvo indicação em contrário)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 II - Análise da Situação Económica e Social da Região
 
@@ -371,7 +471,7 @@ O grupo etário da população entre os 15 e os 64 anos, grosso modo, o de pesso
 
 Estrutura Etária da População
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Aspetos da Economia Regional
 
@@ -385,7 +485,7 @@ Produto Interno Bruto a Preços de Mercado
 
 (Base 2016)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Os dados mais recentes, de 2020, que já refletem a crise sanitária e económica provocada pela pandemia COVID-19, apontam no sentido de um decrescimento da produção interna.
 
@@ -393,7 +493,7 @@ Para períodos mais recentes, utilizando o IAE - Indicador de Atividade Económi
 
 Indicador de Atividade Económica (IAE)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 O Valor Acrescentado Bruto (VAB), em 2018, dado mais recente conhecido, era de 3 684,6 milhões de euros.
 
@@ -407,7 +507,7 @@ VAB por Ramos de Atividades Económicas
 
 Preços Correntes Unidade: 10(6) euros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Mercado de trabalho
 
@@ -423,7 +523,7 @@ Observa-se que o aumento do volume da população empregada é acompanhado por u
 
 Condição da População Perante o Trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 O acréscimo de emprego ocorreu sobretudo no setor terciário, tendo os setores secundário e primário registado decréscimos relativamente ao ano anterior, traduzindo-se numa redução do seu peso em termos proporcionais.
 
@@ -433,7 +533,7 @@ No setor terciário, destaca-se a sua moderação de crescimento, que voltou a s
 
 População Ativa Empregada por Setores de Atividade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Observando a evolução do emprego, segundo a respetiva distribuição por profissões, evidencia-se o crescimento de Pessoal de Serviços e Vendas, no âmbito do setor terciário, pelo volume e regularidade verificados nos últimos anos.
 
@@ -453,7 +553,7 @@ Evolução intra-anual do IPC, base 2012
 
 (taxas de variação homólogas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Para a inflexão de preços registada contribuíram as classes 2. Bebidas, 7. Transportes e 11. Hotelaria e Restauração, registando os acréscimos de preços mais intensos, seja através de mecanismos económicos internos de crescimento, seja por resposta a mercados com procura externa em expansão.
 
@@ -461,7 +561,7 @@ Como fator de moderação de preços contribuíram as classes 2. Bens Alimentare
 
 Variação e Contribuição por Classes de Despesa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Moeda e Crédito
 
@@ -473,7 +573,7 @@ Este tipo de tendência insere-se na sequência de políticas com vista a reequi
 
 Evolução de Depósitos e Créditos Bancários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Efetivamente, em 2018, a concessão de créditos de 3 679 milhões de euros assentou numa base de poupança de 2 940 milhões de euros, representando um grau de cobertura de 79,9 %, enquanto em 2010 os respetivos valores representavam apenas 63,6 %.
 
@@ -483,7 +583,7 @@ Estes dados decorrem da política de desalavancagem financeira de economia no pe
 
 Depósitos e Créditos Bancários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 O volume de depósitos captados em 2018 registou um crescimento à taxa média anual de 3,2 %, que traduz um ritmo de crescimento comparável ao registado no conjunto da economia do país, mantendo assim a quota que registara no ano anterior, de 1,4 %.
 
@@ -495,7 +595,7 @@ Os depósitos de emigrantes ocupam uma posição complementar e a sua trajetóri
 
 Estrutura dos Depósitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 O volume de créditos concedidos registou um decréscimo à taxa média anual de 2,3 % durante o ano de 2018, comparável ao observado no conjunto do país, mantendo assim a quota idêntica à do ano anterior, de 2,0 %.
 
@@ -507,7 +607,7 @@ Os empréstimos ao consumo representam, de 2009 a 2018, cerca de 11 % a 12 % do 
 
 Estrutura dos Créditos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Finanças Públicas
 
@@ -521,7 +621,7 @@ Se ao conjunto das Despesas Correntes, de Capital e do Plano se adicionar o mont
 
 Despesas - Conta da RAA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 A receita total da conta da Região Autónoma dos Açores, em 2019, totalizou 1 331,3 milhões de euros, mais 11,5 % do que em 2018.
 
@@ -535,7 +635,7 @@ Adicionando os movimentos de contas com operações extraorçamentais obtém-se 
 
 Receitas - Conta da RAA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Em 2019, o saldo corrente de 213,9 milhões de euros decorre da diferença entre as Receitas Correntes de 929,4 milhões de euros e as Despesas Correntes de 715,5 milhões de euros.
 
@@ -545,7 +645,7 @@ Desta forma, deduz-se um Saldo Global de 31,4 milhões de euros, ao qual, agrega
 
 Saldos - Conta da RAA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Dívida Pública Direta
 
@@ -555,7 +655,7 @@ Com esta reestruturação, o montante de dívida direta da Região ultrapassa li
 
 Dívida Pública Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Indicadores de atividade económica
 
@@ -575,7 +675,7 @@ O contexto atual da pandemia está a afetar negativamente a atividade económica
 
 As políticas públicas de manutenção do emprego, implementadas no atual contexto de pandemia COVID-19, já refletidas nos dados mais recentes disponibilizados pelo Serviço Regional de Estatística dos Açores (SREA), relativos a 2020, permitiram atenuar os efeitos negativos esperados ao nível do emprego e do desemprego.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 III - Políticas Setoriais
 
@@ -1469,19 +1569,19 @@ Para «Afirmar os Açores no Mundo», está consagrada uma dotação de 329,3 mi
 
 Repartição do Investimento Público por Objetivos de Desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Investimento Público 2021 - Desagregação por Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Investimento Público 2021 - Desagregação por Entidade Executora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Investimento Público 2021 - Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Quadro Global de Financiamento da Administração Pública Regional
 
@@ -1493,7 +1593,7 @@ As transferências do Orçamento de Estado, da União Europeia e de outros fundo
 
 O Plano Regional para 2021 prevê uma dotação de 732,4 milhões de euros, de investimento direto do Governo Regional, num contexto de investimento público previsional de 953,8 milhões de euros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 V - Desenvolvimento da Programação
 
@@ -1505,7 +1605,7 @@ Programa 1 - Informação, Comunicação e Cooperação Externa
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -1577,7 +1677,7 @@ Programa 2 - Solidariedade, Igualdade, Habitação, Poder Local e Comunidades
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -2011,7 +2111,7 @@ Programa 3 - Competitividade Empresarial e Administração Pública
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -2141,7 +2241,7 @@ Programa 4 - Educação
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -2235,7 +2335,7 @@ Programa 5 - Saúde, Desporto e Proteção Civil
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -2537,7 +2637,7 @@ Programa 6 - Agricultura, Florestas e Desenvolvimento Rural
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -2749,7 +2849,7 @@ Programa 7 - Pescas, Aquicultura e Assuntos do Mar
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -2989,7 +3089,7 @@ Programa 8 - Cultura, Ciência e Transição Digital
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -3223,7 +3323,7 @@ Programa 9 - Ambiente, Alterações Climáticas e Território
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -3471,7 +3571,7 @@ Programa 10 - Transportes, Turismo e Energia
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -3727,7 +3827,7 @@ Programa 11 - Juventude, Emprego, Comércio e Indústria
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -3905,7 +4005,7 @@ Programa 12 - Obras Públicas, Transportes Terrestres e Comunicações
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Programação material
 
@@ -4589,7 +4689,7 @@ Tomando os grandes domínios adotados neste período para a categorização do i
 
 Investimento Elegível Aprovado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Procura de Financiamento Comunitário e o Volume de Compromissos e de Contratualização
 
@@ -4601,7 +4701,7 @@ A restante programação, com gestão externa ou indireta, embora com montantes 
 
 Fundo Comunitário Aprovado por Programa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Situação Atual de Dinâmica Equilibrada na Evolução das Taxas de Compromisso
 
@@ -4611,7 +4711,7 @@ Nem todos os programas e os respetivos fundos comunitários iniciaram a sua exec
 
 Evolução das Taxas de Compromisso dos Fundos Comunitários (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 A Economia e o Emprego a Absorver Parte Significativa dos Fundos Comprometidos
 
@@ -4623,7 +4723,7 @@ Em termos gerais, os financiamentos comunitários orientados para os sistemas de
 
 Repartição dos Fundos aprovados por domínio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 A Execução Financeira dos Açores 2020
 
@@ -4635,7 +4735,7 @@ A média geral da taxa de execução dos fundos é influenciada pelo nível de e
 
 Evolução da Taxa de Execução do AÇORES 2020 (%)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Em termos comparativos, utilizando o mesmo critério de aferição da execução dos fundos, a taxa média apurada nos Açores, 64,95 %, é superior à taxa equivalente apurada no conjunto dos PO Temáticos (60 %), PO Regionais do Continente (41 %) e Portugal 2020 na sua totalidade (57 %).
 
@@ -4647,11 +4747,11 @@ Ao nível dos fundos, é o FEDER, o FSE e o FEADER que têm maior contributo no 
 
 Fundo Comunitário Pago
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Os Principais Programas Operacionais e Iniciativas Comunitárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 O PO Açores 2020 é um programa comparticipado pelos fundos estruturais comunitários FEDER e FSE, para o período de programação 2014-2020, com execução na Região Autónoma dos Açores, tendo sido aprovado pela Comissão Europeia através da Decisão C (2014) 10176, de 18 de dezembro.
 
@@ -4681,7 +4781,7 @@ Fazendo a desagregação por fundo, regista-se uma taxa de compromisso da compon
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 O Programa de Desenvolvimento Rural para a Região Autónoma dos Açores 2014-2020 (PRORURAL+) enquadra-se no [Regulamento (UE) n.º 1305/2013](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32013R1305) do Parlamento Europeu e do Conselho, de 17 de dezembro, que estabelece as regras do apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER).
 
@@ -4711,7 +4811,7 @@ O PRORURAL+ foi aprovado a 13 de fevereiro de 2015, pela Decisão de Execução 
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Para o período de programação 2014-2020, a Região beneficia de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático Competitividade e Internacionalização (POCI), especificamente no Eixo IV - Promoção de transportes sustentáveis e eliminação dos estrangulamentos nas principais redes de infraestruturas, exclusivamente, para as intervenções no sistema portuário da Região Autónoma dos Açores integradas nas prioridades de investimento 7.1 - Apoio ao espaço único europeu de transportes multimodais, mediante o investimento na RTE-T e 7.3 - Desenvolvimento e melhoria de sistemas de transportes ecológicos (incluindo de baixo ruído) e de baixo teor de carbono, incluindo vias navegáveis e transportes marítimos interiores, portos, ligações multimodais e infraestruturas aeroportuárias, a fim de promover a mobilidade regional e local sustentável.
 
@@ -4733,7 +4833,7 @@ As candidaturas aprovadas são:
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Para o período de programação 2014-2020, a Região beneficia também de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático Sustentabilidade e Eficiência no Uso de Recursos (POSEUR), no Eixo Prioritário 3 - Proteger o ambiente e promover a utilização eficiente dos recursos, objetivo específico 1. Valorização dos resíduos, reduzindo a produção e deposição em aterro, aumentando a recolha seletiva e a reciclagem.
 
@@ -4743,7 +4843,7 @@ Atendendo a que o custo total elegível deste projeto é superior a 50 milhões 
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Para o período de programação 2014-2020, a Região beneficia de um financiamento do Fundo de Coesão, integrado no Programa Operacional Temático de Inclusão Social e Emprego (POISE), especificamente no Eixo II - Iniciativa de Emprego Jovem.
 
@@ -4751,7 +4851,7 @@ A Iniciativa Emprego Jovem (IEJ) tem como objetivo apresentar uma oferta de qual
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Os apoios do Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP) são operacionalizados na Região através de um programa operacional de âmbito nacional designado por MAR 2020, que tem por objetivo a implementação das medidas de apoio enquadradas no FEAMP no âmbito das seguintes Prioridades da União Europeia:
 
@@ -4777,7 +4877,7 @@ A operacionalização do MAR 2020 foi consideravelmente atrasada pela aprovaçã
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 O Programa de INTERREG V A - MAC (Madeira - Açores - Canárias) 2014-2020
 
@@ -4795,7 +4895,7 @@ Durante o ano 2018, foi lançada a 2.ª convocatória para apresentação de pro
 
 Ponto de Situação a 31-12-2020
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 O REACT-EU Recovery Assistance for Cohesion and the Territories of Europe, em português designado por Assistência de Recuperação para a Coesão e os Territórios da Europa) é uma iniciativa que dá continuidade e alarga as medidas de resposta a situações de crise constantes da Iniciativa de Investimento de Resposta à Crise do Coronavírus (CRII) e da Iniciativa de Investimento de Resposta à Crise do Coronavírus+ (CRII+). Contribuirá para uma recuperação ecológica, digital e resiliente da economia e foi instituída pelo [Regulamento (UE) n.º 2020/2221](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32020R2221) do Parlamento Europeu e do Conselho, de 23 de dezembro, alterando o [Regulamento (UE) n.º 1303/2013](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX:32013R1303), de 17 de dezembro.
 
@@ -4807,7 +4907,7 @@ Para o FSE, os recursos adicionais devem ser utilizados principalmente para apoi
 
 Através deste novo instrumento financeiro REACT-EU, a RAA dispõe de um reforço de 118 milhões de euros, a preços correntes, encontrando-se em preparação a reprogramação do PO Açores 2020 (programação REACT-EU).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 O Fundo de Solidariedade da União Europeia (FSUE) foi criado na sequência das cheias devastadoras que assolaram a Europa Central no verão de 2002, enquanto meio de expressão da solidariedade europeia para com a população das regiões da UE afetadas por grandes catástrofes naturais através do financiamento de operações de emergência e de recuperação.
 
@@ -4825,7 +4925,7 @@ A conceção do PRR sustentou-se nas estratégias e políticas nacionais e regio
 
 Assim, o PRR estrutura-se em três dimensões - a resiliência, a transição climática e a transição digital -, que por sua vez se desenvolvem em nove roteiros para a retoma do crescimento sustentável e inclusivo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 A dimensão da Resiliência pretende estimular uma retoma consequente, inclusiva e duradoura face a um severo choque exógeno, com bases robustas que preparem o país e as regiões para choques futuros. Engloba investimentos em três prioridades refletidas nos roteiros referentes às Vulnerabilidades Sociais, Potencial Produtivo e Emprego;
 
@@ -4937,16 +5037,18 @@ Investimento Público 2021
 
 Desagregação por Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Desagregação por Entidade Executora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Desagregação por Entidade Executora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
 
 Desagregação Espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf))](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/06/11600/0011000284.pdf)
+
+114286857

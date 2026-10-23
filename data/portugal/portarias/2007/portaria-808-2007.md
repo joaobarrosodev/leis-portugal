@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/808/2007/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/808-2007-636721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fc3184d6952fb5f234c5e118e3efc0a0a266bf579a4f28713fc912be5b969c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc2fc8fce217fe0cf39145b68204540a66301a9849c4bec8a99aa385efc9cd02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/187/2001/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/187/2001/03/09/p/dre
+- type: cites
+  target: pt:dre:401744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:03Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +122,6 @@ Cumpridos os preceitos legais, com fundamento no disposto no artigo 48.º, em co
 
 2.º A presente portaria produz efeitos a partir do dia 15 de Agosto de 2007.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 12 de Julho de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 12 de Julho de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/14200/0473204732.pdf))](https://files.diariodarepublica.pt/1s/2007/07/14200/0473204732.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/14200/0473204732.pdf)

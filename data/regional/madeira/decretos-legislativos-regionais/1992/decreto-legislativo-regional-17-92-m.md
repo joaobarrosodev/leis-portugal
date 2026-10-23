@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/1992/04/30/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1992-498567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec495aeadae15d51493afb6c253e88845df7bbd97ff3ea1e2e7e3ed173f41f59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb39157c991bdbb167a87867e5047c40736ff111d4d9c72276997fd44a272d9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,31 +68,39 @@ reuse:
 subjects:
 - Autonomia Administrativa
 - Autonomia Pedagógica
-- Formação Profissional
-- Gestão Financeira
-- Ensino Oficial
-- Gestão Escolar
-- Política Cultural
 - Ensino Básico
+- Ensino Oficial
+- Formação Profissional
+- Gestão de Recursos Humanos
+- Gestão Escolar
+- Gestão Financeira
 - Madeira.região Autónoma
+- Política Cultural
 - Secretaria Regional da Educação Juventude e Emprego
 - Secretaria Regional das Finanças
-- Gestão de Recursos Humanos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:42Z'
   warnings: []
   errors: []
 ---
@@ -107,22 +115,22 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, nos termos da alínea c) do n.º 1 do artigo 29.º e da alínea o) do artigo 30.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º As atribuições e competências conferidas pelo [Decreto-Lei n.º 43/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1989-610688), de 3 de Fevereiro, aos serviços e órgãos dos Ministérios da Educação e das Finanças reportam-se na Região Autónoma da Madeira, respectivamente, às Secretarias Regionais da Educação, Juventude e Emprego e das Finanças.
+Artigo 1.º As atribuições e competências conferidas pelo [Decreto-Lei n.º 43/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1989-610688), de 3 de Fevereiro, aos serviços e órgãos dos Ministérios da Educação e das Finanças reportam-se na Região Autónoma da Madeira, respectivamente, às Secretarias Regionais da Educação, Juventude e Emprego e das Finanças.
 
-###### Art. 2.º Às atribuições da escola no âmbito da difusão cultural, a que se refere o artigo 6.º do [Decreto-Lei n.º 43/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1989-610688), de 3 de Fevereiro, no tocante aos valores culturais e património locais, há que acrescentar os valores culturais e património regionais.
+Art. 2.º Às atribuições da escola no âmbito da difusão cultural, a que se refere o artigo 6.º do [Decreto-Lei n.º 43/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1989-610688), de 3 de Fevereiro, no tocante aos valores culturais e património locais, há que acrescentar os valores culturais e património regionais.
 
-###### Art. 3.º Às escolas compete a definição de critérios e regras de utilização dos espaços e instalações escolares pela comunidade, preceituada nas alíneas a) e d) do artigo 12.º e na alínea n) do artigo 21.º do diploma mencionado, sem prejuízo dos princípios orientadores definidos pela Secretaria Regional da Educação, Juventude e Emprego em matéria de interesse de âmbito regional e de colaboração e participação na comunidade em que se insere.
+Art. 3.º Às escolas compete a definição de critérios e regras de utilização dos espaços e instalações escolares pela comunidade, preceituada nas alíneas a) e d) do artigo 12.º e na alínea n) do artigo 21.º do diploma mencionado, sem prejuízo dos princípios orientadores definidos pela Secretaria Regional da Educação, Juventude e Emprego em matéria de interesse de âmbito regional e de colaboração e participação na comunidade em que se insere.
 
-###### Art. 4.º Relativamente à gestão e formação de pessoal não docente a que alude a alínea c) do artigo 19.º do referido diploma, compete à escola estabelecer critérios para a selecção de pessoal em casos de substituição temporária.
+Art. 4.º Relativamente à gestão e formação de pessoal não docente a que alude a alínea c) do artigo 19.º do referido diploma, compete à escola estabelecer critérios para a selecção de pessoal em casos de substituição temporária.
 
-###### Art. 5.º As condições de transição das escolas para o regime de autonomia a que se refere o artigo 27.º do diploma em apreço serão definidas pela Secretaria Regional da Educação, Juventude e Emprego.
+Art. 5.º As condições de transição das escolas para o regime de autonomia a que se refere o artigo 27.º do diploma em apreço serão definidas pela Secretaria Regional da Educação, Juventude e Emprego.
 
 Aprovado em sessão plenária em 18 de Março de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 9 de Abril de 1992.**
+Assinado em 9 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

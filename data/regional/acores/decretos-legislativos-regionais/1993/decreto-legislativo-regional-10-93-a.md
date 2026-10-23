@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/1993/07/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1993-346745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c88545d7e1f6f5b0f577a5bf1fd4fc0e9888586f61524a7c7492335a89bbe17
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 539a81ebe15e53779d42225b9c1038b5e792a7507697cdb36c4ba1d3f7f4a6d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Orçamento Regional
 - Plano Económico
 - Plano Regional
-- Açores
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS OS MAPAS I, II, III E V ANEXOS E REVOGADO O ARTIGO 8, PELO DECRETO LEGISLATIVO REGIONAL 20/93/A, DE 25\
+    \ DE NOVEMBRO, PUBLICADO NO DR.IS-A, 294, DE 931218, MANTENDO-SE EM VIGOR TODAS AS RESTANTES DISPOSIÇÕES DO PRESENTE DIPLOMA\
+    \ QUE NAO CONTRARIEM AS NORMAS DO CITADO DECRETO LEGISLATIVO REGIONAL.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:566789:por
   label: Última alteração registada na importação inicial
@@ -78,16 +84,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/1/1993/01/05/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/1/1993/01/05/a/dre
+- type: cites
+  target: pt:dre:229921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498732:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:566789:por
+  label: "Rectificado pela DECL-RECT.152/93.31.08.1993.PCM, DR.IS-A [204-3ºSupl] de 31.08.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/152-1993-566789
+  date: '1993-08-31'
 article_structure:
   article_count: 10
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:19Z'
   warnings: []
   errors: []
 ---
@@ -172,14 +195,14 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro 
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Maio de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 21 de Junho de 1993.**
+Assinado em Angra do Heroísmo em 21 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 Do MAPA I ao MAPA V
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/170a00/39533963.pdf))](https://files.diariodarepublica.pt/1s/1993/07/170a00/39533963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/170a00/39533963.pdf)

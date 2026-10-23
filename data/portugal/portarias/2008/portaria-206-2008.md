@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/206/2008/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/206-2008-247723
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d667b775e249981b1b6e67b17799f82ab940478af8c29e83b74bc88a15c9c52a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54490506f05fdeecb6102f70580596f2bfbd62e556df1b1ef0264799e4d000fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,37 @@ reuse:
 subjects:
 - Amarante
 - Pesca
-- Vila Real
 - Regulamento
 - RIO Tâmega
+- Vila Real
 - ZONA de Pesca
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:52Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +122,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º A zona de pesca reservada ora constituída rege-se pelo Regulamento publicado em anexo a este diploma e que dele faz parte integrante.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 4 de Fevereiro de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 4 de Fevereiro de 2008.
 
 ## ANEXO — Regulamento da Zona de Pesca Reservada do Rio Olo
 

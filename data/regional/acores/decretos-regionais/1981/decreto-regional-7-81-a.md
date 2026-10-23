@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/7-1981-579276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 663f81f8930b7a1bcbecd4c9b5f84480a0b8f2d505a7aad45d8d82a543732473
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f374a41b50ea76282d06d9ead3215771d29547eb7e7d6cf1145df4aeeb13df2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Criação de Cidades
+- Praia da Vitoria
 relationships:
 - type: amended_by
   target: pt:dre:455912:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICACAO PUBLICADA NO DR.IS [173]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1981-07-30'
+- type: amended_by
+  target: pt:dre:455912:por
+  label: "Alterado para o nome de Praia da Vitória, o nome da cidade, criado pelo presente diploma, pelo DLR.29/83/A.26.08.1983.ARA,\
+    \ DR.IS [196] de 26.08.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-1983-455912
+  date: '1983-08-26'
+- type: corrected_by
+  target: pt:dre:577085:por
+  label: Rectificado pela DECL.DD6567.15.07.1981.PCM, DR.IS [173] de 30.07.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-577085
+  date: '1981-07-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:23Z'
   warnings: []
   errors: []
 ---
@@ -98,18 +117,18 @@ A sua elevação a cidade assenta nestas considerações. A sua delimitação tr
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
 
-###### Artigo 1.º É elevada à categoria de cidade a Vila da Praia da Vitória.
+Artigo 1.º É elevada à categoria de cidade a Vila da Praia da Vitória.
 
-###### Art. 2.º Os limites da cidade da Vila da Praia da Vitória são definidos por uma linha poligonal que, partindo do mar do ponto mais a sul da ponta do Facho, segue em recta na direcção noroeste, até à sua intercepção com o caminho do Facho, numa distância de cerca de 170 m; inflectindo para oeste, segue pelo caminho do Facho até à sua intercepção com a estrada das Forças Armadas; desse ponto continua para noroeste, seguindo pela estrada das Forças Armadas até ao ponto em que entronca com a estrada do Juncal, no lugar denominado de Cruz de D. Beatriz; prossegue no mesmo sentido, pela estrada do Juncal, até ao ponto de intercepção com a estrada de S. José, situada no topo sudeste da pista do aeroporto; nesse ponto inflecte para sudoeste, seguindo pela estrada de S. José até ao ponto em que entronca com a estrada de Santa Luzia; daí, inflectindo para sudeste, prossegue pela estrada de Santa Luzia até ao seu ponto de intercepção com a canada de Joaquim Alves; daí, inflectindo novamente para sudoeste, segue pela canada de Joaquim Alves até ao ponto em que se entronca com a estrada municipal das Fontainhas, a partir desse ponto; inflectindo para este-sudeste, percorre a estrada municipal numa distância de cerca de 70 m, até à intercepção com o limite da freguesia de Santa Cruz; desviando-se para sul-sudoeste, prossegue pelo limite da freguesia de Santa Cruz até ao ponto de intercepção com o caminho da Cidade (estrada regional n.º 2/1.ª); daqui inflecte novamente para este-sudeste, seguindo pelo caminho da Cidade, até ao ponto em que, desviando para sul-sudeste, intercepta o caminho de Santo Isidro; desse ponto inflecte para sudoeste, prosseguindo pelo caminho de Santo Isidro até ao ponto em que se entronca com a canada do Barreiro, e Belo Jardim, até ao ponto em que entronca com a estrada regional n.º 1, de 1.ª classe, nas Tronqueiras; desse ponto inflecte para sul e segue a estrada regional n.º 1, de 1.ª classe, até ao ponto em que intercepta a linha de limite da freguesia de Santa Cruz; desse ponto inflecte para este-sudeste, seguindo o limite da freguesia de Santa Cruz até ao ponto de intercepção com a linha de limite da freguesia do Cabo da Praia; desse ponto inflecte para sul e segue o limite da freguesia do Cabo da Praia até ao ponto de intercepção com a estrada municipal; desse ponto segue para este-sudeste, numa recta de cerca de 2160 m, que o liga ao ponto mais este da ponta de S. Vicente, onde termina no lugar que intercepta a linha da costa.
+Art. 2.º Os limites da cidade da Vila da Praia da Vitória são definidos por uma linha poligonal que, partindo do mar do ponto mais a sul da ponta do Facho, segue em recta na direcção noroeste, até à sua intercepção com o caminho do Facho, numa distância de cerca de 170 m; inflectindo para oeste, segue pelo caminho do Facho até à sua intercepção com a estrada das Forças Armadas; desse ponto continua para noroeste, seguindo pela estrada das Forças Armadas até ao ponto em que entronca com a estrada do Juncal, no lugar denominado de Cruz de D. Beatriz; prossegue no mesmo sentido, pela estrada do Juncal, até ao ponto de intercepção com a estrada de S. José, situada no topo sudeste da pista do aeroporto; nesse ponto inflecte para sudoeste, seguindo pela estrada de S. José até ao ponto em que entronca com a estrada de Santa Luzia; daí, inflectindo para sudeste, prossegue pela estrada de Santa Luzia até ao seu ponto de intercepção com a canada de Joaquim Alves; daí, inflectindo novamente para sudoeste, segue pela canada de Joaquim Alves até ao ponto em que se entronca com a estrada municipal das Fontainhas, a partir desse ponto; inflectindo para este-sudeste, percorre a estrada municipal numa distância de cerca de 70 m, até à intercepção com o limite da freguesia de Santa Cruz; desviando-se para sul-sudoeste, prossegue pelo limite da freguesia de Santa Cruz até ao ponto de intercepção com o caminho da Cidade (estrada regional n.º 2/1.ª); daqui inflecte novamente para este-sudeste, seguindo pelo caminho da Cidade, até ao ponto em que, desviando para sul-sudeste, intercepta o caminho de Santo Isidro; desse ponto inflecte para sudoeste, prosseguindo pelo caminho de Santo Isidro até ao ponto em que se entronca com a canada do Barreiro, e Belo Jardim, até ao ponto em que entronca com a estrada regional n.º 1, de 1.ª classe, nas Tronqueiras; desse ponto inflecte para sul e segue a estrada regional n.º 1, de 1.ª classe, até ao ponto em que intercepta a linha de limite da freguesia de Santa Cruz; desse ponto inflecte para este-sudeste, seguindo o limite da freguesia de Santa Cruz até ao ponto de intercepção com a linha de limite da freguesia do Cabo da Praia; desse ponto inflecte para sul e segue o limite da freguesia do Cabo da Praia até ao ponto de intercepção com a estrada municipal; desse ponto segue para este-sudeste, numa recta de cerca de 2160 m, que o liga ao ponto mais este da ponta de S. Vicente, onde termina no lugar que intercepta a linha da costa.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 5 de Junho de 1981.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 20 de Junho de 1981.**
+Assinado em Angra do Heroísmo em 20 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/06/13900/14331434.pdf))](https://files.diariodarepublica.pt/1s/1981/06/13900/14331434.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/06/13900/14331434.pdf)

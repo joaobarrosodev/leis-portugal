@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 44/2008, 1º Suplemento, Série I de 2008-03-03
   number: '44'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1372-(5) a 1372-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04401/0000500006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/216-c/2008/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-c-2008-243888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 27be767f805da1e4aa95f00703d6a434e50a280770efe5e9ee581d087c61d739
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e46d3d69227834254120a9134d15ea756af4206ef644c205bf457d457604fd09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Urbanização
 - Administração Pública
 - Fiscalização
 - Licenciamento
 - Parecer
+- Urbanização
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
@@ -85,16 +85,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1106/2001/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1106/2001/09/18/p/dre
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69927765:por
+  label: Revogada a presente Portaria, pelo(a) Portaria n.º 228/2015 - Diário da República n.º 149/2015, Série I de 2015-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2015-69927765
+  date: '2015-08-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:56Z'
   warnings: []
   errors: []
 ---
@@ -129,9 +146,9 @@ c) O aviso de pedido de parecer prévio ou de autorização de operações urban
 
 3.º A presente portaria produz efeitos com a entrada em vigor da [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro.
 
-**O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão, em 29 de Fevereiro de 2008.**
+O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão, em 29 de Fevereiro de 2008.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0000500006.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0000500006.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0000500006.pdf)
 
 Instruções de preenchimento
 
@@ -141,7 +158,7 @@ Instruções de preenchimento
 
 (c) Tipo de operação urbanística a licenciar prevista no n.º 2 do artigo 4.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, na redacção que lhe foi conferida pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0000500006.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0000500006.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0000500006.pdf)
 
 Instruções de preenchimento
 
@@ -151,7 +168,7 @@ Instruções de preenchimento
 
 (c) Tipo de operação urbanística objecto de comunicação prévia, prevista no n.º 3 do artigo 6.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, na redacção que lhe foi conferida pela [Lei n.º 60/2007](https://diariodarepublica.pt/dr/detalhe/lei/60-2007-640138), de 4 de Setembro.
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/04401/0000500006.pdf))](https://files.diariodarepublica.pt/1s/2008/03/04401/0000500006.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/04401/0000500006.pdf)
 
 Instruções de preenchimento
 

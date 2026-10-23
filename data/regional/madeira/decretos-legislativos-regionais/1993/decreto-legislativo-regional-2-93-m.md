@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/1993/02/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abdf452745856435051b6d38f855edaf7346deec511ed9d814a152faea6c240a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5db25bada1b196704edeb7018aa251fff273aee1c1deaa802ee845679493e9a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,28 +67,83 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Regional
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:66325239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A REDACÇÃO CONFERIDA AO DECRETO LEGISLATIVO REGIONAL 24/89/M, DE 7 DE SETEMBRO, PELO DECRETO LEGISLATIVO\
+    \ REGIONAL 11/94/M, DE 26 DE ABRIL, PUBLICADO NO DR.IS-A, 98, SUPL., DE 940408.\0, DE 940408."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-08'
+- type: amended_by
+  target: pt:dre:241999:por
+  label: "Alterados os arts. 9º, 12º, 12º-B, 14º, 16º, 23º, 24º, 25º, 26º, 27º, 28º, 29º, 30º, 31º, 32º, 33º, 34º, 35º, 36º,\
+    \ 37º, 40º, 41º, 42º, 47º, 49º, 50º, 51ºe 53º do DLR 24/89/M de 07-Set, na redacção dada pelo presente diploma, pelo DLR.10-A/2000/M.2000.04.26.ALR-RAM.DR.IS-A\
+    \ [98]2º Supl de 27/Abr/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-a-2000-241999
+  date: '2000-04-26'
+- type: amended_by
+  target: pt:dre:241858:por
+  label: "Alterados os artigos 36.º, 46.º e 47.º do Decreto Legislativo Regional n.º 24/89/M, de 7 de Setembro, na redacção\
+    \ do presente diploma, e determinado que onde se lê «Assembleia Legislativa Regional» passe a vigorar «Assembleia Legislativa»\
+    \ e republicado o novo texto, pelo DLR.14/2005/M.18.07.2005.AL-RAM, DR.IS-A [150] de 05.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2005-241858
+  date: '2005-07-18'
+- type: amended_by
+  target: pt:dre:537448:por
+  label: "Tornado extensivo aos deputados independentes que não integrem nenhum grupo parlamentar o disposto na al. a) do\
+    \ nº 1 do art. 46º do DLR 824/89/M, de 07-Set, na redacção do presente diploma pela RES.12/2006/M.06.06.2006.AL-RAM, DR.IS\
+    \ [134] de 13.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-madeira/12-2006-537448
+  date: '2006-06-06'
+- type: amended_by
+  target: pt:dre:175275:por
+  label: "Alterados os arts. 14º, 20º, 35º, 36º, 40º e 43º do DLR 24/98/M. de 07-set, na redação do presente diploma, pelo\
+    \ DLR.16/2012/M.13.08.2012.AL-RAM, DR.IS [156] de 13.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2012-175275
+  date: '2012-08-13'
+- type: amended_by
+  target: pt:dre:66325239:por
+  label: Alterados os arts. 46.º e 47.º do DLR 24/89/M de 07-set, na redação do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 2/2015/M - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2015-66325239
+  date: '2015-01-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/1992/01/16/m/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/1/1992/01/16/m/dre
+- type: cites
+  target: pt:dre:183014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
 article_structure:
   article_count: 51
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:51Z'
   warnings: []
   errors: []
 ---
@@ -465,12 +520,12 @@ As disposições constantes do presente diploma entram em vigor no dia imediato 
 
 Aprovado em sessão plenária em 29 de Dezembro de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 20 de Janeiro de 1993.**
+Assinado em 20 de Janeiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1993/02/043a00/07250734.pdf))](https://files.diariodarepublica.pt/1s/1993/02/043a00/07250734.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1993/02/043a00/07250734.pdf)

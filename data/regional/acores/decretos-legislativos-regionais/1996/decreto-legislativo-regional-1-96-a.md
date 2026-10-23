@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/01/003a00/00150018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/1996/01/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1996-621552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d42c5be476efd944d68f8c984b2051cd0b7907abb619ad769b626bf514ebb6b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc5388eebf2d5a374b4bd45378baa503d99629c863d5c16dfb6f4f532959ff47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Açores
 - Comissão Permanente de Concertação Social
 - Conselho Regional de Concertação Social
 - Criação de Serviços
 - Definição de Competências
 - Orgânica
-- Açores
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:214716:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147865:por
+  label: "Alteradas as al f) e i) do num 1 do art 3º pelo DLR.10/97/A.1997.06.23.ALR-RAA, DR.IS-A [164] de 1997.07.18\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-1997-147865
+  date: '1997-06-23'
+- type: amended_by
+  target: pt:dre:549060:por
+  label: "Alterados os arts. 3º, 4º, 7º, 12º, 16º e 17º e aditado o art. 17º-A pelo DLR.11/99/A.1999.03.17.ALR-RAA, DR.IS-A\
+    \ [81] de 07/Abr/1999\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-1999-549060
+  date: '1999-03-17'
+- type: cites
+  target: pt:dre:372623:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:214716:por
+  label: "Revogado pelo DLR.9/2003/A.2003.02.17.ALR-RAA DR.IS-A [60] de 12/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2003-214716
+  date: '2003-02-17'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:40Z'
   warnings: []
   errors: []
 ---
@@ -353,10 +373,10 @@ O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Novembro de 1995.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 7 de Dezembro de 1995.**
+Assinado em Angra do Heroísmo em 7 de Dezembro de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Mário Fernando de Campos Pinto.**
+O Ministro da República, Mário Fernando de Campos Pinto.

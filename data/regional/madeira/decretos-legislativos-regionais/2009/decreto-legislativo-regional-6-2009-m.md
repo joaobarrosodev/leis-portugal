@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2009/03/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2009-605314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 238c62c7dc0fb02d20aa49662318765f433584d23900ad25e485d9939e05063f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 570e71d44897be746277e754ebbcd43686df58bdc88fb90a3169d86dbdc8e4f3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
-- Recursos Hídricos
 - Arm-águas e Resíduos da Madeira
-- Política do Ambiente
-- Madeira.região Autónoma
 - Iga-investimentos e Gestão da ÁGUA
+- Madeira.região Autónoma
+- Política do Ambiente
+- Recursos Hídricos
 - Sistema Regional de Gestão e Abastecimento de ÁGUA
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/28-b/1999/12/23/m/dre
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:249991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:14Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +167,9 @@ c) Sociedade a constituir para o desenvolvimento de actividades no sector da pro
 
 3 - Sem prejuízo do disposto no número anterior, a participação da IGA, S. A., na constituição de outras sociedades e na aquisição ou alienação de partes de capital está sujeita a autorização mediante resolução do Conselho do Governo Regional.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -159,7 +181,9 @@ c) Sociedade a constituir para o desenvolvimento de actividades no sector da pro
 
 5 - (Anterior n.º 6.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -205,7 +229,9 @@ j) Concepção, construção, exploração, manutenção, reparação e renovaç
 
 3 - A sociedade prosseguirá a sua actividade principal como concessionária do Sistema Regional de Gestão e Abastecimento de Água e do Sistema de Gestão de Águas Residuais Urbanas da Região Autónoma da Madeira.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A IGA, S. A., pode participar no capital social das seguintes sociedades:
 
@@ -217,7 +243,9 @@ c) Sociedade a constituir para o desenvolvimento de actividades no sector da pro
 
 2 - A IGA, S. A., poderá ainda adquirir ou por qualquer forma participar no capital de outras sociedades de responsabilidade limitada, ainda que de objecto social diferente do seu, incluindo sociedades reguladas por leis especiais, em agrupamentos complementares de empresas, bem como em agrupamentos europeus de interesse económico, desde que previamente autorizada mediante resolução do Conselho do Governo Regional.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -227,7 +255,9 @@ c) Sociedade a constituir para o desenvolvimento de actividades no sector da pro
 
 4 - Apenas poderão ser titulares de acções da categoria B entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, ou os municípios da Região Autónoma da Madeira.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -243,13 +273,17 @@ c) Sociedade a constituir para o desenvolvimento de actividades no sector da pro
 
 7 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 2 do artigo 20.º, os membros da mesa da assembleia geral, do conselho de administração e o fiscal único são eleitos em assembleia geral por períodos de três anos e podem ser reconduzidos uma ou mais vezes, contando-se como completo o ano civil em que foram eleitos.
 
 2 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -277,7 +311,9 @@ j)...
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - O conselho de administração é composto por um presidente e dois vogais, dos quais um exerce funções executivas, sendo os restantes dois administradores não executivos.
 
@@ -285,7 +321,9 @@ j)...
 
 3 - (Anterior n.º 6.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Ao conselho de administração compete gerir e representar a sociedade, e sem prejuízo das demais competências que lhe forem conferidas por lei, pelos presentes estatutos e pelas deliberações dos accionistas, cabe-lhe:
 
@@ -327,7 +365,9 @@ As bases i, iii, iv, ix, xvi, xxx, xxxiii e xxxiv, constantes do Anexo ii do Dec
 
 A concessão tem por conteúdo a concepção, construção, exploração e gestão do Sistema Regional de Gestão e Abastecimento de Água da Madeira, tal qual definido no artigo 1.º do decreto legislativo regional que aprova e nele integra as presentes bases, como seu anexo ii, com as adaptações técnicas que o seu desenvolvimento aconselhar, e é concedida em regime de serviço público e de exclusividade.
 
-###### Base III — [...]
+Base III
+
+[...]
 
 1 - ...
 
@@ -339,7 +379,9 @@ A concessão tem por conteúdo a concepção, construção, exploração e gest�
 
 5 - ...
 
-###### Base IV — [...]
+Base IV
+
+[...]
 
 1 - A concessão terminará em 31 de Dezembro de 2038.
 
@@ -353,7 +395,9 @@ A concessão tem por conteúdo a concepção, construção, exploração e gest�
 
 6 - No caso de renovação, nos termos dos n.os 4 e 5, não haverá lugar à aplicação das disposições legais e contratuais que regulam as consequências e efeitos previstos para o termo definitivo do contrato de concessão.
 
-###### Base IX — [...]
+Base IX
+
+[...]
 
 1 - As redes de distribuição de água para consumo público pertencentes aos utilizadores poderão, por acordo, ser por estes cedidas, no todo ou em parte, à concessionária, a título gratuito ou oneroso, desde que sejam indispensáveis à exploração e à actividade por esta prosseguida.
 
@@ -363,7 +407,9 @@ A concessão tem por conteúdo a concepção, construção, exploração e gest�
 
 4 - ...
 
-###### Base XVI — [...]
+Base XVI
+
+[...]
 
 1 - Para efeitos da implantação e exploração das infra-estruturas da concessão, a concessionária terá o direito de uso do domínio público da Região e dos municípios abrangidos pelo Sistema, neste último caso mediante a necessária afectação.
 
@@ -371,7 +417,9 @@ A concessão tem por conteúdo a concepção, construção, exploração e gest�
 
 3 - ...
 
-###### Base XXX — [...]
+Base XXX
+
+[...]
 
 1 - Os regulamentos de exploração e serviço serão elaborados pela concessionária e submetidos a parecer dos utilizadores do Sistema, a emitir no prazo de 30 dias.
 
@@ -381,13 +429,17 @@ A concessão tem por conteúdo a concepção, construção, exploração e gest�
 
 4 - ...
 
-###### Base XXXIII — Concessão de sistemas municipais
+Base XXXIII
+
+Concessão de sistemas municipais
 
 1 - A concessionária não poderá opor-se à transmissão da posição contratual de um ou mais municípios utilizadores para a concessionária do respectivo sistema municipal.
 
 2 - ...
 
-###### Base XXXIV — Concessão do sistema municipal do utilizador
+Base XXXIV
+
+Concessão do sistema municipal do utilizador
 
 1 - ...
 
@@ -401,10 +453,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 10 de Fevereiro de 2009.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 6 de Março de 2009.**
+Assinado em 6 de Março de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

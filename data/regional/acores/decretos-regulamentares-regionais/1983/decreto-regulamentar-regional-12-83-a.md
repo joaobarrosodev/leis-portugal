@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/04/09200/14041420.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,123 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1983-311816
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79d6af198863100a088de837688473bf5d96dd1c5e00463f1d6ac40f8df42c5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dca091f1eb8c76e06d36be721bdafd065e279f8fe815c95d1dc2ed9ddd2261e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Conselho Regional das Pescas
+- Conselho Regional de Agricultura
+- Direcção Regional das Pescas
+- Direcção Regional de Agricultura
+- Direcção Regional de Extensão
+- Direcção Regional de Veterinária
+- Direcção Regional dos Recursos Florestais
+- Extinção de Serviços
+- Orgânica
+- Secretaria Regional da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:612400:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:497471:por
+  label: Alterada a Subsec. I da Sec. II do Cap. II, o Cap. III e substituído o quadro anexo ao ao presente diploma, pelo(a)
+    Decreto Regulamentar Regional n.º 30/87/A - Diário da República n.º 254/1987, Série I de 1987-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-1987-497471
+  date: '1987-11-04'
+- type: amended_by
+  target: pt:dre:283509:por
+  label: Alterado o art. 6.º pelo DRR.7/88/A.20.01.1988.GR-RAA, DR.IS [16] de 20.01.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1988-283509
+  date: '1988-01-20'
+- type: amended_by
+  target: pt:dre:354734:por
+  label: Aditado um n.º 3 ao art. 29.º, os arts. 42-A e 42-B ao presente diploma, e um n.º 3 art. 44.º , na redacção do DRR
+    30/87/A,de 04-nov, e alterado o art. 43.º e o n.º 1 do art. 48.º, também na redacção do DRR 30/87/A, de 04-nov, pelo(a)
+    Decreto Regulamentar Regional n.º 43/88/A - Diário da República n.º 234/1988, Série I de 1988-10-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/43-1988-354734
+  date: '1988-10-10'
+- type: amended_by
+  target: pt:dre:612400:por
+  label: Extintas as Direcções Regionais da Agricultura e Veterinária, previstas no presente diploma que é revogado pelo(a)
+    Decreto Regulamentar Regional n.º 5/89/A - Diário da República n.º 43/1989, Série I de 1989-02-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-1989-612400
+  date: '1989-02-21'
+- type: cites
+  target: pt:dre:296240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 13
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:52Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +195,7 @@ ORGÂNICA DA SECRETARIA REGIONAL DA AGRICULTURA E PESCAS
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Secretaria Regional da Agricultura e Pescas, adiante abreviadamente designada por SRAP, é o departamento do Governo da Região Autónoma dos Açores com as seguintes atribuições:
+Artigo 1.º A Secretaria Regional da Agricultura e Pescas, adiante abreviadamente designada por SRAP, é o departamento do Governo da Região Autónoma dos Açores com as seguintes atribuições:
 
 a) Definir a política agrária e das pescas na Região e coordenar as acções necessárias à sua execução;
 
@@ -122,7 +205,7 @@ c) Promover a execução da política estabelecida para os sectores agrário e d
 
 d) Contribuir para a definição e execução da política de abastecimento regional em bens de consumo.
 
-###### Art. 2.º Compete ao Secretário Regional da Agricultura e Pescas, designadamente:
+Art. 2.º Compete ao Secretário Regional da Agricultura e Pescas, designadamente:
 
 a) Definir e fazer executar a política agrária e das pescas;
 
@@ -136,7 +219,7 @@ e) Promover formas de cooperação e de coordenação de acções com a Universi
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 3.º - 1 - A Secretaria Regional da Agricultura e Pescas compreende os seguintes órgãos e serviços:
+Art. 3.º - 1 - A Secretaria Regional da Agricultura e Pescas compreende os seguintes órgãos e serviços:
 
 a) Órgãos de carácter consultivo:
 
@@ -162,17 +245,17 @@ Direcção Regional das Pescas.
 
 2 - Todos estes órgãos dependem directamente do Secretário Regional.
 
-###### Art. 4.º - 1 - Os serviços e organismos da Secretaria Regional da Agricultura e Pescas funcionam em estreita cooperação entre si para a prossecução dos objectivos fixados nas respectivas atribuições e competências e conjuntamente para a elaboração de programas e a realização de projectos comuns à Secretaria, designadamente os que envolvem acções de investigação e desenvolvimento e extensão rural, com vista à plena execução da política agrária e das pescas.
+Art. 4.º - 1 - Os serviços e organismos da Secretaria Regional da Agricultura e Pescas funcionam em estreita cooperação entre si para a prossecução dos objectivos fixados nas respectivas atribuições e competências e conjuntamente para a elaboração de programas e a realização de projectos comuns à Secretaria, designadamente os que envolvem acções de investigação e desenvolvimento e extensão rural, com vista à plena execução da política agrária e das pescas.
 
 2 - Sempre que o entender necessário, poderá o Secretário Regional constituir equipas por projectos integrados e grupos de trabalho quando a natureza dos objectivos o aconselhar, estabelecendo, no respectivo despacho de constituição, as condições e prazos de funcionamento, designadamente quanto ao apoio técnico e administrativo, não podendo aos respectivos integrantes ser concedida, directa ou indirectamente, qualquer remuneração adicional.
 
 #### SECÇÃO I — Órgãos consultivos
 
-###### Art. 5.º - 1 - O Conselho Regional da Agricultura e o Conselho Regional das Pescas são órgãos consultivos do Secretário Regional para a formulação das linhas gerais de acção da Secretaria Regional.
+Art. 5.º - 1 - O Conselho Regional da Agricultura e o Conselho Regional das Pescas são órgãos consultivos do Secretário Regional para a formulação das linhas gerais de acção da Secretaria Regional.
 
 2 - O Conselho Regional da Agricultura e o Conselho Regional das Pescas reunirão em plenário sempre que para tal sejam convocados pelo Secretário Regional.
 
-###### Art. 6.º - 1 - O Conselho Regional da Agricultura é presidido pelo Secretário Regional e dele fazem parte:
+Art. 6.º - 1 - O Conselho Regional da Agricultura é presidido pelo Secretário Regional e dele fazem parte:
 
 a) Os directores regionais da agricultura, veterinária e recursos florestais;
 
@@ -220,7 +303,7 @@ i) Duas individualidades de reconhecida competência, escolhidas pelo Secretári
 
 ##### SUBSECÇÃO I — Gabinete Técnico
 
-###### Art. 7.º - 1 - O Gabinete Técnico é o órgão de estudo, coordenação e apoio nos domínios da formulação da política económica e de planeamento da SRAP, competindo-lhe, em articulação com as direcções regionais, designadamente:
+Art. 7.º - 1 - O Gabinete Técnico é o órgão de estudo, coordenação e apoio nos domínios da formulação da política económica e de planeamento da SRAP, competindo-lhe, em articulação com as direcções regionais, designadamente:
 
 a) Cooperar com os diferentes serviços da SRAP, potencializando meios humanos e materiais e promovendo a progressiva adopção de uma política de gestão por projectos e objectivos;
 
@@ -256,9 +339,9 @@ p) Cooperar com os serviços administrativos nos assuntos referentes à prepara�
 
 ##### SUBSECÇÃO II — Repartição dos Serviços Administrativos
 
-###### Art. 8.º A Repartição dos Serviços Administrativos é o órgão de execução dos serviços de carácter administrativo comum a toda a Secretaria Regional.
+Art. 8.º A Repartição dos Serviços Administrativos é o órgão de execução dos serviços de carácter administrativo comum a toda a Secretaria Regional.
 
-###### Art. 9.º - 1 - Compete ao chefe de repartição dos Serviços Administrativos:
+Art. 9.º - 1 - Compete ao chefe de repartição dos Serviços Administrativos:
 
 a) Dirigir, coordenar e superintender na acção desenvolvida pelos chefes de secção;
 
@@ -272,13 +355,13 @@ e) Executar tudo o mais que as leis e os regulamentos expressamente lhe cometere
 
 2 - No caso de ausência ou vacatura do cargo de chefe de repartição, o mesmo deverá ser exercido pelo chefe de secção que para tal for indicado pelo Secretário Regional.
 
-###### Art. 10.º A Repartição dos Serviços Administrativos compreende as seguintes secções:
+Art. 10.º A Repartição dos Serviços Administrativos compreende as seguintes secções:
 
 a) Secção de Contabilidade e Património;
 
 b) Secção de Expediente, Administração e Gestão de Pessoal.
 
-###### Art. 11.º - 1 - À Secção de Contabilidade e Património compete:
+Art. 11.º - 1 - À Secção de Contabilidade e Património compete:
 
 a) Elaborar a proposta de orçamento anual da Secretaria Regional em colaboração com o Gabinete Técnico;
 
@@ -306,7 +389,7 @@ e) Dar apoio administrativo ao Gabinete Técnico.
 
 ##### SUBSECÇÃO I — Direcção Regional da Agricultura
 
-###### Art. 12.º À Direcção Regional da Agricultura, abreviadamente designada por DRA, compete:
+Art. 12.º À Direcção Regional da Agricultura, abreviadamente designada por DRA, compete:
 
 a) Apoiar o Secretário Regional na formulação da política agrícola para a Região e promover e coordenar a sua execução;
 
@@ -348,7 +431,7 @@ t) Estudar e apoiar a organização das formas de associativismo de produção, 
 
 u) Assegurar a execução dos acordos ou protocolos estabelecidos com outros organismos regionais, nacionais e ou estrangeiros em assuntos e matérias das diferentes áreas de actuação do sector agrícola.
 
-###### Art. 13.º - 1 - A Direcção Regional da Agricultura compreende como órgão de concepção e apoio o Laboratório de Sanidade Vegetal.
+Art. 13.º - 1 - A Direcção Regional da Agricultura compreende como órgão de concepção e apoio o Laboratório de Sanidade Vegetal.
 
 2 - São serviços externos da Direcção Regional da Agricultura:
 
@@ -370,7 +453,7 @@ h) A Divisão de Agricultura das Flores, que abrange o Corvo.
 
 3 - Todos estes órgãos e serviços dependem directamente do director regional.
 
-###### Art. 14.º Ao Laboratório de Sanidade Vegetal, com sede na ilha de São Miguel, abreviadamente designado por LSV e que será dirigido por um director de serviços, compete, designadamente:
+Art. 14.º Ao Laboratório de Sanidade Vegetal, com sede na ilha de São Miguel, abreviadamente designado por LSV e que será dirigido por um director de serviços, compete, designadamente:
 
 a) Promover, de colaboração com os demais departamentos da DRA, os estudos necessários à regulamentação do condicionamento das culturas arvenses, hortícolas, arbustivas e arbóreas nos domínios da fitossanidade e do material de propagação das plantas;
 
@@ -390,17 +473,17 @@ h) Proceder à inspecção fitossanitária de terrenos, culturas, estufas, plant
 
 i) Estudar e promover a montagem de serviços de quarentena e proceder às acções necessárias para o cumprimento dos convénios internacionais no domínio das suas atribuições.
 
-###### Art. 15.º - 1 - À Direcção de Serviços de Agricultura de Ponta Delgada compete exercer na ilha de São Miguel as competências da DRA que lhe forem atribuídas por despacho do Secretário Regional da Agricultura e Pescas.
+Art. 15.º - 1 - À Direcção de Serviços de Agricultura de Ponta Delgada compete exercer na ilha de São Miguel as competências da DRA que lhe forem atribuídas por despacho do Secretário Regional da Agricultura e Pescas.
 
 2 - Compete ainda à Direcção de Serviços de Agricultura de Ponta Delgada apoiar tecnicamente a Direcção Regional e promover o estudo, planeamento e coordenação a nível regional de determinadas áreas técnicas, que lhe poderão ser atribuídas por despacho do Secretário Regional da Agricultura e Pescas.
 
-###### Art. 16.º A Direcção de Serviços de Agricultura de Ponta Delgada compreende as seguintes divisões:
+Art. 16.º A Direcção de Serviços de Agricultura de Ponta Delgada compreende as seguintes divisões:
 
 a) Divisão de Culturas Forrageiras e Arvenses;
 
 b) Divisão de Infra-Estruturas de Apoio à Produção.
 
-###### Art. 17.º À Divisão de Culturas Forrageiras e Arvenses compete:
+Art. 17.º À Divisão de Culturas Forrageiras e Arvenses compete:
 
 a) Promover o estudo e definição de medidas de política e de programas de fomento e colaborar com outros serviços da Secretaria Regional da Agricultura e Pescas na elaboção das leis e regulamentos sobre o condicionamento das culturas que cabem no seu âmbito de acção;
 
@@ -416,7 +499,7 @@ f) Apoiar e acompanhar os demais departamentos da DRA, no estudo e condução de
 
 g) Assegurar a sistematização dos conhecimentos técnico-económicos disponíveis e promover e apoiar a divulgação das normas técnicas e práticas culturais para a implantação e condução das culturas do seu âmbito de acção.
 
-###### Art. 18.º À Divisão de Infra-Estruturas de Apoio à Produção compete:
+Art. 18.º À Divisão de Infra-Estruturas de Apoio à Produção compete:
 
 a) Estudar, elaborar e executar projectos relacionados com o aproveitamento de reservas hídricas naturais para abastecimento de água às explorações agro-pecuárias;
 
@@ -434,15 +517,15 @@ g) Dar parecer sobre a utilização dos solos para fins não agrícolas;
 
 h) Estudar, em colaboração com os demais organismos da SRAP, os modelos de construções rurais mais adaptados às condições das explorações agro-pecuárias.
 
-###### Art. 19.º - 1 - Às Direcções de Serviços de Agricultura de Angra do Heroísmo e da Horta compete exercer, respectivamente nas ilhas da Terceira e Faial, as competências da DRA que lhe forem atribuídas por despacho do Secretário Regional da Agricultura o Pescas.
+Art. 19.º - 1 - Às Direcções de Serviços de Agricultura de Angra do Heroísmo e da Horta compete exercer, respectivamente nas ilhas da Terceira e Faial, as competências da DRA que lhe forem atribuídas por despacho do Secretário Regional da Agricultura o Pescas.
 
 2 - Compete ainda àquelas Direcções de Serviços apoiar tecnicamente o director regional e promover o estudo, planeamento e coordenação a nível regional de determinadas áreas técnicas, que lhes poderão ser atribuídas por despacho do Secretário Regional da Agricultura e Pescas.
 
-###### Art. 20.º Compete às Divisões de Agricultura de Santa Maria, São Jorge, Graciosa, Pico e Flores exercer nas respectivas ilhas as competências da Direcção Regional da Agricultura que lhes forem atribuídas por despacho do Secretário Regional da Agricultura e Pescas.
+Art. 20.º Compete às Divisões de Agricultura de Santa Maria, São Jorge, Graciosa, Pico e Flores exercer nas respectivas ilhas as competências da Direcção Regional da Agricultura que lhes forem atribuídas por despacho do Secretário Regional da Agricultura e Pescas.
 
 ##### SUBSECÇÃO II — Direcção Regional de Veterinária
 
-###### Art. 21.º A Direcção Regional de Veterinária, abreviadamente designada por DRV, é o órgão de orientação, coordenação e controle das acções relacionadas com a sanidade animal, a higiene pública veterinária e o fomento e melhoramento animal, competindo-lhe, nomeadamente:
+Art. 21.º A Direcção Regional de Veterinária, abreviadamente designada por DRV, é o órgão de orientação, coordenação e controle das acções relacionadas com a sanidade animal, a higiene pública veterinária e o fomento e melhoramento animal, competindo-lhe, nomeadamente:
 
 1) No domínio da sanidade animal:
 
@@ -530,7 +613,7 @@ l) Propor superiormente as acções que, no domínio do fomento e melhoramento a
 
 9) Apoiar as acções necessárias ao conhecimento da gestão e da contabilidade das explorações agro-pecuárias, colaborando nos estudos relacionados com a viabilidade dos investimentos no sector.
 
-###### Art. 22.º - 1 - A Direcção Regional de Veterinária comprende como órgão de concepção e apoio o Laboratório de Veterinária.
+Art. 22.º - 1 - A Direcção Regional de Veterinária comprende como órgão de concepção e apoio o Laboratório de Veterinária.
 
 2 - São serviços externos da Direcção Regional de Veterinária:
 
@@ -540,7 +623,7 @@ b) A Direcção de Serviços Veterinários de Angra do Heroísmo;
 
 c) A Direcção de Serviços Veterinários da Horta.
 
-###### Art. 23.º Ao Laboratório de Veterinária, abreviadamente designado por LV que terá a sua sede na ilha Terceira, compete:
+Art. 23.º Ao Laboratório de Veterinária, abreviadamente designado por LV que terá a sua sede na ilha Terceira, compete:
 
 a) Dar apoio às decisões da Secretaria Regional da Agricultura e Pescas em matéria de sanidade e higiene pública veterinária;
 
@@ -568,7 +651,7 @@ l) Colaborar com os serviços da Secretaria Regional dos Assuntos Sociais em tud
 
 m) Propor a especialização dos técnicos, em território nacional ou estrangeiro, bem como a sua participação em congressos ou reuniões científicas nacionais ou estrangeiras, e ainda colaborar com organismos estrangeiros do seu campo de acção, nomeadamente o Office International des Épizooties.
 
-###### Art. 24.º - 1 - O Laboratório de Veterinária é dirigido por um director de serviços, médico veterinário, e compreende os seguintes sectores técnicos:
+Art. 24.º - 1 - O Laboratório de Veterinária é dirigido por um director de serviços, médico veterinário, e compreende os seguintes sectores técnicos:
 
 a) Patologia;
 
@@ -584,13 +667,13 @@ e) Higiene.
 
 3 - As actuais estruturas laboratoriais existentes nos ex-Serviços Veterinários da Ilha Terceira transitam para o Laboratório de Veterinária, que de imediato passa a desempenhar as suas funções.
 
-###### Art. 25.º Às Direcções de Serviços Veterinários de Ponta Delgada, Angra do Heroísmo e Horta compete:
+Art. 25.º Às Direcções de Serviços Veterinários de Ponta Delgada, Angra do Heroísmo e Horta compete:
 
 1) Executar todas as tarefas nos domínios da sanidade animal, fomento e melhoramento animal e higiene pública veterinária decorrentes das atribuições e competências nestes domínios da Direcção Regional, bem como outras, dentro do seu campo de acção, que lhe sejam atribuídas por despacho do Secretário Regional da Agricultura e Pescas;
 
 2) Coordenar e orientar tecnicamente a actuação das divisões de veterinária que lhe estão adstritas.
 
-###### Art. 26.º - 1 - A Direcção de Serviços Veterinários de Ponta Delgada compreende a Divisão de Veterinária de Santa Maria.
+Art. 26.º - 1 - A Direcção de Serviços Veterinários de Ponta Delgada compreende a Divisão de Veterinária de Santa Maria.
 
 2 - A Direcção de Serviços Veterinários de Angra do Heroísmo abrange a Graciosa e compreende a Divisão de Veterinária de São Jorge.
 
@@ -600,11 +683,11 @@ a) Divisão de Veterinária do Pico;
 
 b) Divisão de Veterinária das Flores, que abrange o Corvo.
 
-###### Art. 27.º Compete às Divisões de Veterinária de Santa Maria, São Jorge, Pico e Flores exercer nas respectivas ilhas as competências das direcções de serviços, bem como outras que lhes sejam atribuídas por despacho do Secretário Regional da Agricultura e Pescas.
+Art. 27.º Compete às Divisões de Veterinária de Santa Maria, São Jorge, Pico e Flores exercer nas respectivas ilhas as competências das direcções de serviços, bem como outras que lhes sejam atribuídas por despacho do Secretário Regional da Agricultura e Pescas.
 
 ##### SUBSECÇÃO III — Direcção Regional dos Recursos Florestais
 
-###### Art. 28.º - 1 - A Direcção Regional dos Recursos Florestais, abreviadamente designada por DRRF, é o organismo da Secretaria Regional da Agricultura e Pescas cuja actividade se desenvolve no âmbito do ordenamento, protecção, desenvolvimento e uso dos recursos e terrenos florestais e águas interiores, considerando, nas áreas de paisagem protegida, a conciliação destas actividades com os condicionalismos e objectivos determinados para aquelas áreas.
+Art. 28.º - 1 - A Direcção Regional dos Recursos Florestais, abreviadamente designada por DRRF, é o organismo da Secretaria Regional da Agricultura e Pescas cuja actividade se desenvolve no âmbito do ordenamento, protecção, desenvolvimento e uso dos recursos e terrenos florestais e águas interiores, considerando, nas áreas de paisagem protegida, a conciliação destas actividades com os condicionalismos e objectivos determinados para aquelas áreas.
 
 2 - A Direcção Regional dos Recursos Florestais tem as seguintes atribuições:
 
@@ -648,17 +731,17 @@ s) Assegurar o estabelecimento, a coordenação e a execução de planos de estu
 
 t) Colaborar no estudo e definição do ordenamento agrário e territorial para a Região.
 
-###### Art. 29.º - 1 - A Direcção Regional dos Recursos Florestais compreende os seguintes órgãos e serviços centrais:
+Art. 29.º - 1 - A Direcção Regional dos Recursos Florestais compreende os seguintes órgãos e serviços centrais:
 
 a) De concepção e apoio:
 
-##### Divisão de Planeamento e Apoio ao Desenvolvimento Florestal;
+Divisão de Planeamento e Apoio ao Desenvolvimento Florestal;
 
 b) De carácter operativo:
 
-#### Secção de Produção Florestal do Sector Privado;
+Secção de Produção Florestal do Sector Privado;
 
-#### Secção de Caça, Pesca, Parques e Reservas.
+Secção de Caça, Pesca, Parques e Reservas.
 
 2 - São serviços externos da Direcção Regional dos Recursos Florestais:
 
@@ -668,7 +751,7 @@ b) A Direcção de Serviços Florestais de Angra do Heroísmo;
 
 c) A Direcção de Serviços Florestais da Horta.
 
-###### Art. 30.º Compete à Divisão de Planeamento e Apoio ao Desenvolvimento Florestal:
+Art. 30.º Compete à Divisão de Planeamento e Apoio ao Desenvolvimento Florestal:
 
 a) Assistir tecnicamente o director regional em todas as matérias relativas à programação das actividades da DRRF e ao controle e coordenação da sua execução;
 
@@ -704,7 +787,7 @@ p) Efectuar e assegurar o estudo e a elaboração dos projectos de ordenamento e
 
 q) Planear, em colaboração com os diversos serviços da DRRF, um adequado programa de sinalização e estudar e promover a execução de sinais, tabuletas e outros dispositivos de identificação de propriedades, caminhos, parques, viveiros e outras estruturas.
 
-###### Art. 31.º Compete à Secção de Caça, Pesca, Parques e Reservas:
+Art. 31.º Compete à Secção de Caça, Pesca, Parques e Reservas:
 
 a) Planear, promover e coordenar a execução das actividades e estudos de fomento e ordenamento dos recursos cinegéticos e piscícolas das águas interiores e promover a sua gestão;
 
@@ -740,7 +823,7 @@ p) Manter contacto com organismos regionais, nacionais e estrangeiros ligados à
 
 q) Assegurar a colheita, obtenção e análise de elementos estatísticos relativos às actividades no âmbito da secção.
 
-###### Art. 32.º Compete à Secção de Produção Florestal do Sector Privado:
+Art. 32.º Compete à Secção de Produção Florestal do Sector Privado:
 
 a) Organizar, coordenar e apoiar todas as actividades relacionadas com a aplicação da legislação e regulamentação relativas à protecção dos arvoredos, nomeadamente quanto aos condicionamentos de cortes, de transformações de cultura e rearborização de áreas exploradas;
 
@@ -760,7 +843,7 @@ h) Promover e colaborar em estudos e análise de problemas relativos ao sector d
 
 i) Assegurar a colheita e obtenção de elementos e dados estatísticos relativos às diversas actividades do âmbito da secção.
 
-###### Art. 33.º Compete às Direcções de Serviços Florestais de Ponta Delgada, Angra do Heroísmo e Horta:
+Art. 33.º Compete às Direcções de Serviços Florestais de Ponta Delgada, Angra do Heroísmo e Horta:
 
 a) Executar as acções e actividades que lhe sejam delegadas pelo director regional e emitir pareceres sobre assuntos e problemas que lhe sejam postos;
 
@@ -786,7 +869,7 @@ k) Elaborar os relatórios de execução financeira do orçamento e assegurar a 
 
 l) Estudar, elaborar e propor, em colaboração com as administrações florestais, à DRRF os valores de vendas dos diversos produtos a figurar nas tabelas anuais de vendas.
 
-###### Art. 34.º - 1 - A Direcção de Serviços Florestais de Ponta Delgada compreende as seguintes administrações florestais:
+Art. 34.º - 1 - A Direcção de Serviços Florestais de Ponta Delgada compreende as seguintes administrações florestais:
 
 a) Administração Florestal de S. Miguel;
 
@@ -808,7 +891,7 @@ c) Administração Florestal das Flores, que abrange o Corvo.
 
 4 - As administrações florestais são equiparadas a divisão.
 
-###### Art. 35.º Compete às administrações florestais:
+Art. 35.º Compete às administrações florestais:
 
 a) Colaborar com as direcções de serviços no planeamento das acções e trabalhos constantes dos diversos programas e projectos estabelecidos e assegurar a sua execução;
 
@@ -840,7 +923,7 @@ n) Elaborar os relatórios de execução financeira e material do Plano da área
 
 ##### SUBSECÇÃO IV — Direcção Regional das Pescas
 
-###### Art. 36.º À Direcção Regional das Pescas, abreviadamente designada por DRP, compete, designadamente:
+Art. 36.º À Direcção Regional das Pescas, abreviadamente designada por DRP, compete, designadamente:
 
 a) Propor e executar a política definida para o sector;
 
@@ -864,7 +947,7 @@ j) Assegurar a adequada ligação com todas as instituições similares, naciona
 
 l) Representar a SRAP em todos os grupos de trabalho ou comissões, nacionais ou internacionais, cujo âmbito se prenda com o exercício das suas atribuições.
 
-###### Art. 37.º A Direcção Regional das Pescas compreende a Divisão de Recursos Humanos e Técnicas de Pesca, à qual compete, designadamente:
+Art. 37.º A Direcção Regional das Pescas compreende a Divisão de Recursos Humanos e Técnicas de Pesca, à qual compete, designadamente:
 
 a) Promover a formação, aperfeiçoamento e reciclagem do pessoal das pescas aos vários níveis;
 
@@ -876,13 +959,13 @@ d) Proceder ao estudo sistemático dos métodos e artes de pesca utilizados na R
 
 e) Promover a instalação e divulgar a utilização de processos destinados a assegurar a conservação do pescado a bordo das embarcações nas melhores condições de salubridade e qualidade.
 
-###### Art. 38.º - 1 - Cada ilha, com excepção daquela onde estiver sediada a DRP, poderá ter um delegado, a designar por despacho do Secretário Regional da Agricultura e Pescas, destinado a assegurar uma adequada articulação entre a sua actividade e a do Serviço Açoriano de Lotas, E. P. - LOTAÇOR.
+Art. 38.º - 1 - Cada ilha, com excepção daquela onde estiver sediada a DRP, poderá ter um delegado, a designar por despacho do Secretário Regional da Agricultura e Pescas, destinado a assegurar uma adequada articulação entre a sua actividade e a do Serviço Açoriano de Lotas, E. P. - LOTAÇOR.
 
 2 - Aos delegados da Direcção Regional das Pescas será atribuída uma remuneração mensal a fixar por despacho conjunto dos Secretários Regionais das Finanças, Administração Pública e Agricultura e Pescas.
 
 ### CAPÍTULO III — Pessoal
 
-###### Art. 39.º - 1 - O quadro do pessoal da Secretaria Regional da Agricultura e Pescas é o constante do mapa anexo ao presente diploma, e que dele faz parte integrante, sendo agrupado de acordo com a seguinte classificação:
+Art. 39.º - 1 - O quadro do pessoal da Secretaria Regional da Agricultura e Pescas é o constante do mapa anexo ao presente diploma, e que dele faz parte integrante, sendo agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -896,23 +979,23 @@ e) Pessoal operário e ou auxiliar.
 
 2 - O Secretário Regional poderá autorizar que seja contratado, além do quadro, pessoal destinado a acorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços, devendo o despacho prever a duração, forma e remunerações respectivas.
 
-###### Art. 40.º O pessoal da Secretaria Regional da Agricultura e Pescas constitui um quadro único, competindo ao Secretário Regional a sua colocação de harmonia com as necessidades, a conveniência dos serviços, as aptidões dos funcionários e a anuência dos mesmos.
+Art. 40.º O pessoal da Secretaria Regional da Agricultura e Pescas constitui um quadro único, competindo ao Secretário Regional a sua colocação de harmonia com as necessidades, a conveniência dos serviços, as aptidões dos funcionários e a anuência dos mesmos.
 
-###### Art. 41.º - 1 - Quando nos quadros de pessoal da Secretaria Regional da Agricultura e Pescas existirem vagas em classes superiores e não houver funcionários que reúnam as condições legais de acesso às mesmas, poderão ser admitidas para as categorias de ingresso da respectiva carreira tantas unidades quantas as vagas existentes, em conformidade com o número seguinte.
+Art. 41.º - 1 - Quando nos quadros de pessoal da Secretaria Regional da Agricultura e Pescas existirem vagas em classes superiores e não houver funcionários que reúnam as condições legais de acesso às mesmas, poderão ser admitidas para as categorias de ingresso da respectiva carreira tantas unidades quantas as vagas existentes, em conformidade com o número seguinte.
 
 2 - Os quadros e carreiras em que se mostre conveniente a adopção do número anterior serão definidos por despacho normativo dos Secretários Regionais da Administração Pública e da Agricultura e Pescas.
 
-###### Art. 42.º O pessoal dirigente será provido de acordo com o disposto no [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril.
+Art. 42.º O pessoal dirigente será provido de acordo com o disposto no [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril.
 
-###### Art. 43.º - 1 - Os técnicos superiores são recrutados de entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar, e o seu ingresso será feito pela categoria de início da carreira.
-
-2 - O provimento em lugares de acesso efectuar-se-á nos termos da lei, de entre funcionários de categoria imediatamente inferior com 3 anos de bom e efectivo serviço.
-
-###### Art. 44.º - 1 - O ingresso na carreira de pessoal técnico efectuar-se-á pela categoria de início da carreira, de entre indivíduos habilitados com curso superior, que não confira o grau de licenciatura, adequado à natureza das funções que irão desempenhar.
+Art. 43.º - 1 - Os técnicos superiores são recrutados de entre indivíduos habilitados com licenciatura adequada à natureza específica das funções que irão desempenhar, e o seu ingresso será feito pela categoria de início da carreira.
 
 2 - O provimento em lugares de acesso efectuar-se-á nos termos da lei, de entre funcionários de categoria imediatamente inferior com 3 anos de bom e efectivo serviço.
 
-###### Art. 45.º - 1 - Os agentes técnicos agrícolas são recrutados de entre indivíduos habilitados com curso complementar adequado e o seu ingresso far-se-á pela categoria de início da respectiva carreira.
+Art. 44.º - 1 - O ingresso na carreira de pessoal técnico efectuar-se-á pela categoria de início da carreira, de entre indivíduos habilitados com curso superior, que não confira o grau de licenciatura, adequado à natureza das funções que irão desempenhar.
+
+2 - O provimento em lugares de acesso efectuar-se-á nos termos da lei, de entre funcionários de categoria imediatamente inferior com 3 anos de bom e efectivo serviço.
+
+Art. 45.º - 1 - Os agentes técnicos agrícolas são recrutados de entre indivíduos habilitados com curso complementar adequado e o seu ingresso far-se-á pela categoria de início da respectiva carreira.
 
 2 - Os topógrafos são recrutados de acordo com o disposto no [Decreto Regulamentar Regional n.º 20/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1981-388055), de 17 de Março, e demais legislação complementar.
 
@@ -920,13 +1003,13 @@ e) Pessoal operário e ou auxiliar.
 
 4 - O provimento em lugares de acesso efectuar-se-á nos termos da lei de entre funcionários de categoria imediatamente inferior com, pelo menos, 3 anos de bom e efectivo serviço na categoria.
 
-###### Art. 46.º - 1 - O recrutamento para o lugar de tradutor-correspondente far-se-á de entre indivíduos habilitados com o curso geral dos liceus ou equivalente e com conhecimento escrito e falado de 2 línguas estrangeiras.
+Art. 46.º - 1 - O recrutamento para o lugar de tradutor-correspondente far-se-á de entre indivíduos habilitados com o curso geral dos liceus ou equivalente e com conhecimento escrito e falado de 2 línguas estrangeiras.
 
 2 - O acesso a tradutor-correspondente-intérprete far-se-á de entre tradutores-correspondentes com, pelo menos, 3 anos de bom e efectivo serviço.
 
-###### Art. 47.º O ingresso e promoção do pessoal administrativo será feito de acordo com a legislação regional em vigor.
+Art. 47.º O ingresso e promoção do pessoal administrativo será feito de acordo com a legislação regional em vigor.
 
-###### Art. 48.º - 1 - O recrutamento para categoria de ingresso em carreiras dos grupos de pessoal qualificado e semiqualificado será feito de entre os ajudantes com 1 ano de bom e efectivo serviço ou, ainda, de entre indivíduos habilitados com a respectiva carteira profissional.
+Art. 48.º - 1 - O recrutamento para categoria de ingresso em carreiras dos grupos de pessoal qualificado e semiqualificado será feito de entre os ajudantes com 1 ano de bom e efectivo serviço ou, ainda, de entre indivíduos habilitados com a respectiva carteira profissional.
 
 2 - O recrutamento para a categoria de ingresso em carreiras do grupo de pessoal não qualificado será feito de entre praticantes com 1 ano de bom e efectivo serviço ou de entre indivíduos com experiência profissional equivalente, respeitados, num e noutro caso, o requisito da maioridade e os demais requisitos previstos na lei.
 
@@ -946,7 +1029,7 @@ e) Pessoal operário e ou auxiliar.
 
 10 - O acesso à categoria imediatamente superior das carreiras referidas nos n.os 6, 7 e 8 depende da prestação de 5 anos de bom e efectivo serviço na categoria inferior.
 
-###### Art. 49.º - 1 - A carreira de pessoal operário agrícola desenvolve-se pelas categorias e classes de encarregado, encarregado agrícola, operário agrícola principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras L, M, N, Q e S.
+Art. 49.º - 1 - A carreira de pessoal operário agrícola desenvolve-se pelas categorias e classes de encarregado, encarregado agrícola, operário agrícola principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras L, M, N, Q e S.
 
 2 - O ingresso na carreira far-se-á na categoria de 2.ª classe de entre indivíduos habilitados com a escolaridade obrigatória e formação adequada ao desempenho das respectivas funções.
 
@@ -954,11 +1037,11 @@ e) Pessoal operário e ou auxiliar.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 50.º - 1 - É extinta a Direcção Regional de Extensão, transitando para o quadro agora criado da Direcção Regional da Agricultura o pessoal do quadro daquele organismo.
+Art. 50.º - 1 - É extinta a Direcção Regional de Extensão, transitando para o quadro agora criado da Direcção Regional da Agricultura o pessoal do quadro daquele organismo.
 
 2 - A fim de se efectivar a transferência de serviços da ora Direcção Regional de Extensão manter-se-á em funções o respectivo director regional por um período de 6 meses, contado desde a data da publicação do presente diploma, cessando, findo aquele período, a comissão de serviço.
 
-###### Art. 51.º - 1 - Os funcionários do quadro que exerçam funções diversas das correspondentes ao conteúdo funcional da respectiva categoria ou carreira transitarão para lugares do quadro anexo ao presente diploma que correspondam às funções efectivamente exercidas, sem prejuízo das habilitações legalmente exigidas.
+Art. 51.º - 1 - Os funcionários do quadro que exerçam funções diversas das correspondentes ao conteúdo funcional da respectiva categoria ou carreira transitarão para lugares do quadro anexo ao presente diploma que correspondam às funções efectivamente exercidas, sem prejuízo das habilitações legalmente exigidas.
 
 2 - A transição far-se-á na categoria cuja letra de vencimento seja igual ou imediatamente superior na categoria ou carreira de integração, quando não haja coincidência de remuneração.
 
@@ -966,11 +1049,11 @@ e) Pessoal operário e ou auxiliar.
 
 4 - Nos casos em que o funcionário transita para categoria cuja letra de vencimento seja superior, terá de prestar naquela categoria o tempo de serviço exigido para o acesso à categoria superior.
 
-###### Art. 52.º - 1 - Os técnicos auxiliares de agricultura, pecuária e laboratório que à data da publicação do presente diploma estejam há mais de 1 ano em regime de estágio são integrados na categoria de ingresso das respectivas carreiras.
+Art. 52.º - 1 - Os técnicos auxiliares de agricultura, pecuária e laboratório que à data da publicação do presente diploma estejam há mais de 1 ano em regime de estágio são integrados na categoria de ingresso das respectivas carreiras.
 
 2 - Os técnicos auxiliares referidos no número anterior que à data da publicação do presente diploma ainda não tenham completado o período de estágio serão integrados na respectiva carreira após terem terminado o estágio.
 
-###### Art. 53.º - 1 - Os técnicos auxiliares de pecuária de 2.ª classe providos nos termos do artigo 23.º, n.º 1, do [Decreto Regulamentar Regional n.º 6/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1978-445967), de 3 de Março, com a redacção que lhe foi dada pelo [Decreto Regulamentar Regional n.º 10/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1978-296240), de 17 de Maio, poderão ascender à categoria de principal, independentemente do facto de possuírem habilitações próprias.
+Art. 53.º - 1 - Os técnicos auxiliares de pecuária de 2.ª classe providos nos termos do artigo 23.º, n.º 1, do [Decreto Regulamentar Regional n.º 6/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1978-445967), de 3 de Março, com a redacção que lhe foi dada pelo [Decreto Regulamentar Regional n.º 10/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1978-296240), de 17 de Maio, poderão ascender à categoria de principal, independentemente do facto de possuírem habilitações próprias.
 
 2 - Os ajudantes de pecuária integrados na carreira de técnico auxiliar de laboratório ficam abrangidos pelo disposto no número anterior.
 
@@ -978,26 +1061,26 @@ e) Pessoal operário e ou auxiliar.
 
 4 - Os actuais técnicos auxiliares possuidores do curso da Escola de Formação Social Rural de Leiria transitarão para a categoria de agente de educação familiar rural de 2.ª classe.
 
-###### Art. 54.º Todo o pessoal que ingresse no quadro da Secretaria Regional da Agricultura e Pescas a partir da publicação do presente diploma será provido por despacho de nomeação, à excepção dos funcionários que ocupam cargos a que correspondem vencimentos iguais ou inferiores à letra S, cuja forma de provimento será o contrato.
+Art. 54.º Todo o pessoal que ingresse no quadro da Secretaria Regional da Agricultura e Pescas a partir da publicação do presente diploma será provido por despacho de nomeação, à excepção dos funcionários que ocupam cargos a que correspondem vencimentos iguais ou inferiores à letra S, cuja forma de provimento será o contrato.
 
-###### Art. 55.º - 1 - A transição do pessoal que mantenha no novo quadro a mesma categoria e situação jurídico-funcional do quadro anterior far-se-á mediante lista nominativa, sujeita a anotação da Secção Regional do Tribunal de Contas, com efeitos retroactivos à data da publicação do presente diploma.
+Art. 55.º - 1 - A transição do pessoal que mantenha no novo quadro a mesma categoria e situação jurídico-funcional do quadro anterior far-se-á mediante lista nominativa, sujeita a anotação da Secção Regional do Tribunal de Contas, com efeitos retroactivos à data da publicação do presente diploma.
 
 2 - A transição dos funcionários para a categoria ou carreira diversa da que tinham no quadro anterior far-se-á mediante diploma individual de provimento, com efeitos retroactivos à data da publicação do presente diploma.
 
 3 - Enquanto não se concretizar a transição prevista no número anterior, os funcionários serão abonados pelos vencimentos correspondentes às categorias que tinham no quadro anterior.
 
-###### Art. 56.º Ficam revogados os Decretos Regulamentares Regionais n.os [6/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1978-445967), de 3 de Março, [1/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1979-393074), de 6 de Fevereiro, [14/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1979-383463), de 16 de Junho, [15/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1979-383474), de 18 de Junho, [37/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-1980-471084), de 23 de Agosto, [39/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-1980-471090), de 25 de Agosto, [24/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1981-388988), de 15 de Abril, e [43/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-1981-577900), de 31 de Agosto.
+Art. 56.º Ficam revogados os Decretos Regulamentares Regionais n.os [6/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1978-445967), de 3 de Março, [1/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1979-393074), de 6 de Fevereiro, [14/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1979-383463), de 16 de Junho, [15/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1979-383474), de 18 de Junho, [37/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-1980-471084), de 23 de Agosto, [39/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-1980-471090), de 25 de Agosto, [24/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1981-388988), de 15 de Abril, e [43/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-1981-577900), de 31 de Agosto.
 
 Aprovado em Conselho do Governo Regional em 26 de Janeiro de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 29 de Março de 1983.**
+Assinado em Angra do Heroísmo em 29 de Março de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro a que se refere o n.º 1 do artigo 39.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09200/14041420.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09200/14041420.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09200/14041420.pdf)

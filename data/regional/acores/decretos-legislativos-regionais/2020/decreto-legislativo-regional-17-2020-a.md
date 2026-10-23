@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13600/0001500042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2020/07/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2020-137939970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba0b6f70949cb8e276c5a143cbb980231be39be5d3204c479a0a16f644888326
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d9bfa9789b38cb74cd18e838278402bae7e4d43e14e790961845a278cb5e6e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Investigação Científica e Tecnológica
+- Açores
 - Certificado de Conformidade
-- Multa
 - Contra-ordenação
 - Contrato
-- Fiscalização
-- Publicitação
 - Direito à Informação
+- Fiscalização
+- Investigação Científica e Tecnológica
 - Licenciamento
+- Multa
 - Proteção do Ambiente
+- Publicitação
 - Recursos Naturais
+- Região Autónoma
 - Regime Jurídico
 - Sanção
-- Açores
 relationships:
 - type: cites
   target: celex:32013D1082
@@ -122,16 +122,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
+- type: cites
+  target: pt:dre:106589745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
 article_structure:
-  article_count: 75
+  article_count: 50
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:35Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +210,9 @@ d) Ao acesso aos conhecimentos tradicionais associados aos recursos naturais rec
 
 5 - Exclui-se do âmbito de aplicação do presente diploma o acesso a recursos naturais que resultem de exploração agrícola e ou silvícola, com exceção dos recursos autóctones.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 Para efeitos do presente diploma, para além das definições constantes do [Regulamento (UE) n.º 511/2014](http://data.europa.eu/eli/reg/2014/511/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de abril de 2014, entende-se por:
 
@@ -226,7 +260,9 @@ u) 'Utilização de recursos naturais', realização de trabalhos de investigaç
 
 v) 'Utilizador', pessoa singular ou coletiva que utiliza recursos naturais ou conhecimentos tradicionais associados a recursos naturais.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - O acesso a recursos naturais, para fins científicos e ou tecnológicos, faz-se no exercício da devida diligência, nos termos do definido no presente diploma, em legislação regulamentar, bem como no [Regulamento (UE) n.º 511/2014](http://data.europa.eu/eli/reg/2014/511/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e no [Regulamento de Execução (UE) 2015/1866](http://data.europa.eu/eli/reg/2015/1866/oj?locale=pt), da Comissão, de 13 de outubro de 2015.
 
@@ -244,7 +280,9 @@ b) ...
 
 6 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Sem prejuízo das limitações impostas ao acesso a recursos naturais definidas pelo presente diploma, em legislação regulamentar, bem como pelo [Regulamento (UE) n.º 511/2014](http://data.europa.eu/eli/reg/2014/511/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de abril de 2014, e pelo [Regulamento de Execução (UE) 2015/1866](http://data.europa.eu/eli/reg/2015/1866/oj?locale=pt), da Comissão, de 13 de outubro de 2015, podem ainda ser estabelecidos outros limites especiais de acesso, nomeadamente a interdição de acesso, com respeito pelo princípio da proporcionalidade, nos casos seguintes:
 
@@ -256,7 +294,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 7.º — Certificado de Conformidade Internacionalmente Reconhecido
+Artigo 7.º
+
+Certificado de Conformidade Internacionalmente Reconhecido
 
 1 - O acesso a recursos naturais para fins científicos e ou tecnológicos, bem como a sua manutenção ou transferência, é feito mediante obtenção de Certificado de Conformidade Internacionalmente Reconhecido (CCIR).
 
@@ -276,7 +316,9 @@ c) ...
 
 9 - Sem prejuízo do número anterior, a validade dos CCIR depende da sua conformidade com as normas legais e regulamentares aplicáveis.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Só é permitida a amostragem de recursos naturais, para fins científicos e ou tecnológicos, a quem estiver na posse de um CCIR, devendo aquela ser realizada de acordo com os termos deste constantes.
 
@@ -290,7 +332,9 @@ c) ...
 
 6 - Os termos e condições a que ficam sujeitas as amostras referidas no número anterior constitui matéria a definir por portaria do membro do Governo Regional com competência em matéria de ciência e tecnologia.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - A remessa e transporte de amostras de recursos naturais, ou parte delas, só pode verificar-se para o exterior da RAA desde que sejam acompanhadas de cópia do CCIR.
 
@@ -298,13 +342,17 @@ c) ...
 
 3 - O destino a conferir às amostras, ou parte delas, que sejam apreendidas nos termos do número anterior é determinado pelo departamento do Governo Regional com competência em matéria de ciência e tecnologia, ouvido o departamento do Governo Regional com competência na matéria do recurso a aceder.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
 2 - A comunicação da transferência de amostras de recursos naturais submetidos a amostragem e ou acedidos faz-se nos termos previstos no artigo seguinte.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Desde que cumprida a devida diligência prevista no artigo 5.º-A, os utilizadores podem transferir para utilizadores subsequentes o CCIR, desde que cumpridas todas as normas legais aplicáveis em função da natureza do recurso a aceder.
 
@@ -330,7 +378,9 @@ e) As licenças de acesso, se aplicável;
 
 f) Os termos mutuamente acordados, incluindo disposições de partilha de benefícios, quando aplicáveis.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - A partilha justa e equitativa de benefícios resultantes da utilização de recursos naturais submetidos ou acedidos, para fins científicos e ou tecnológicos, faz-se nos termos previstos nos artigos seguintes.
 
@@ -346,11 +396,15 @@ f) Os termos mutuamente acordados, incluindo disposições de partilha de benef�
 
 7 - (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 Os benefícios resultantes da utilização dos recursos naturais submetidos a amostragem e ou acedidos, para fins científicos e ou tecnológicos, têm uma natureza variada e podem, em alguns casos, não ter expressão pecuniária, o que inclui a partilha de conhecimento científico produzido através de publicações científicas e relatórios dirigidos ao departamento do Governo Regional com competência em matéria de ciência e tecnologia.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - O acesso a recursos naturais para fins científicos e ou tecnológicos está sujeito a fiscalização administrativa.
 
@@ -358,7 +412,9 @@ Os benefícios resultantes da utilização dos recursos naturais submetidos a am
 
 3 - As competências referidas no número anterior podem ser delegadas no departamento do Governo Regional com competência em matéria de ambiente ou noutros que vierem a ser determinados por resolução do Conselho do Governo Regional.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -372,7 +428,9 @@ d) A listagem de recursos naturais submetidos a amostragem e ou acedidos para fi
 
 2 - ...
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 O presente diploma entra em vigor no dia seguinte à data da sua publicação.»
 
@@ -386,7 +444,9 @@ Autoridade regional competente
 
 Para os efeitos previstos no [Regulamento (UE) n.º 511/2014](http://data.europa.eu/eli/reg/2014/511/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de abril de 2014, a autoridade competente na Região Autónoma dos Açores é o departamento do Governo Regional com competência em matéria de ciência e tecnologia.
 
-###### Artigo 5.º-A — Devida diligência
+Artigo 5.º-A
+
+Devida diligência
 
 1 - Sempre que acedam a recursos naturais para fins científicos e ou tecnológicos, bem como a conhecimentos tradicionais associados aos recursos naturais, os utilizadores devem exercer a devida diligência.
 
@@ -400,7 +460,9 @@ Para os efeitos previstos no [Regulamento (UE) n.º 511/2014](http://data.europa
 
 6 - Aos utilizadores que adquiram um recurso genético que seja identificado como agente patogénico causador ou suscetível de estar na origem de uma emergência de saúde pública de envergadura internacional existente ou iminente, na aceção do Regulamento Sanitário Internacional (2005) ou de uma ameaça sanitária transfronteiriça grave, tal como definida na [Decisão n.º 1082/2013/UE](http://data.europa.eu/eli/dec/2013/1082/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de outubro de 2013, para efeitos de preparação para situações de emergência de saúde pública em países ainda não afetados e de resposta em países afetados, aplica-se o disposto no n.º 8 do artigo 4.º do [Regulamento (UE) n.º 511/2014](http://data.europa.eu/eli/reg/2014/511/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de abril de 2014.
 
-###### Artigo 7.º-A — Eficácia e renovação do Certificado de Conformidade Internacionalmente Reconhecido
+Artigo 7.º-A
+
+Eficácia e renovação do Certificado de Conformidade Internacionalmente Reconhecido
 
 1 - O pedido de renovação do CCIR é dirigido ao departamento do Governo Regional com competência em matéria de ciência e tecnologia até 30 dias anteriores à respetiva caducidade.
 
@@ -424,13 +486,17 @@ Para os efeitos previstos no [Regulamento (UE) n.º 511/2014](http://data.europa
 
 11 - Excecionalmente e em casos devidamente justificados e sempre que não se tenha verificado o depósito de amostras, ou parte delas, a entidade emissora do CCIR pode considerar pedidos de renovação do mesmo não apresentados no prazo a que se refere o n.º 2.
 
-###### Artigo 11.º-A — Situações involuntárias ou imprevistas
+Artigo 11.º-A
+
+Situações involuntárias ou imprevistas
 
 1 - Excecionalmente, em casos devidamente justificados, designadamente em situações involuntárias ou imprevistas, o acesso e amostragem dos recursos naturais pode ser realizado independentemente da formulação de pedido de CCIR.
 
 2 - Nos casos previstos no número anterior, o envio da listagem a que se refere o n.º 2 do artigo anterior é obrigatório, devendo os recursos naturais recolhidos e o local de recolha constar da mesma, com menção do caráter involuntário ou imprevisto da recolha em causa.
 
-###### Artigo 14.º-A — Registo de coleções
+Artigo 14.º-A
+
+Registo de coleções
 
 1 - O detentor de uma coleção de recursos genéticos, ou de parte dela, pode submeter à autoridade regional competente prevista no artigo 4.º-A um pedido de inscrição da totalidade ou de parte da coleção no registo de coleções previsto no artigo 5.º do [Regulamento (UE) n.º 511/2014](http://data.europa.eu/eli/reg/2014/511/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de abril de 2014.
 
@@ -456,11 +522,15 @@ e) Utilizar instrumentos de rastreio e monitorização adequados para o âmbito 
 
 7 - Nos casos em que uma coleção, ou parte dela, incluída no registo de coleções, nos termos previstos no n.º 1, não cumprir, ou deixar de cumprir, com os requisitos de aprovação previstos no n.º 2, a autoridade regional competente, em concertação com o detentor da coleção em causa, estabelece as ações ou medidas corretivas a aplicar.
 
-###### Artigo 17.º-A — Colaboração
+Artigo 17.º-A
+
+Colaboração
 
 A RAA e os titulares dos CCIR devem acordar os eventuais mecanismos e meios que facultem o conhecimento dos resultados científicos decorrentes do estudo das amostras de recursos naturais acedidos ou recolhidos, nomeadamente os decorrentes dos contratos referidos no artigo seguinte.
 
-###### Artigo 17.º-B — Contratos de cooperação
+Artigo 17.º-B
+
+Contratos de cooperação
 
 1 - A entidade emissora do CCIR e o respetivo titular podem celebrar contratos de cooperação referentes, entre outros, aos seguintes domínios:
 
@@ -474,7 +544,9 @@ c) Concertação de objetivos múltiplos a serem prosseguidos numa mesma campanh
 
 3 - Os contratos de adesão referidos no número anterior seguem um modelo-tipo aprovado por portaria do membro do Governo Regional com competência em matéria de ciência e tecnologia.
 
-###### Artigo 17.º-C — Contrato de partilha
+Artigo 17.º-C
+
+Contrato de partilha
 
 1 - A partilha de benefícios entre a RAA e o titular de um CCIR opera-se mediante contrato de partilha.
 
@@ -500,7 +572,9 @@ h) O prazo de vigência do contrato;
 
 i) A definição das regras de arbitragem para dirimir os conflitos decorrentes da execução do contrato.
 
-###### Artigo 20.º-A — Monitorização
+Artigo 20.º-A
+
+Monitorização
 
 1 - Os beneficiários de um financiamento de investigação que implique a utilização de recursos naturais e conhecimentos tradicionais associados aos recursos naturais apresentam uma declaração, à autoridade regional competente, que ateste o exercício da devida diligência, nos termos previstos no artigo 5.º-A, em termos a definir nas normas regulamentares que desenvolvem o presente diploma.
 
@@ -516,13 +590,17 @@ b) As informações conexas a que se referem as alíneas a) a e) do n.º 5 do ar
 
 5 - Os utilizadores, a pedido da autoridade regional competente, apresentam prova documental dos elementos constantes das declarações a que se referem os números anteriores.
 
-###### Artigo 20.º-B — Controlo
+Artigo 20.º-B
+
+Controlo
 
 1 - O acesso a recursos naturais para fins científicos e ou tecnológicos está sujeito a controlo administrativo.
 
 2 - O controlo administrativo é exercido pelo departamento do Governo Regional com competência em matéria de ciência e tecnologia.
 
-###### Artigo 20.º-C — Plano de controlo
+Artigo 20.º-C
+
+Plano de controlo
 
 1 - O controlo administrativo referido no artigo anterior é efetuado de acordo com um plano de controlo dos titulares de CCIR, revisto periodicamente, elaborado com recurso a uma abordagem baseada no risco.
 
@@ -534,7 +612,9 @@ b) A realização de ações de controlo quando existam informações relevantes
 
 c) Quaisquer outras ações de controlo, sempre que estas se revelem necessárias ao cumprimento do disposto no presente diploma, bem como do [Regulamento (UE) n.º 511/2014](http://data.europa.eu/eli/reg/2014/511/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de abril de 2014.
 
-###### Artigo 20.º-D — Ações de controlo
+Artigo 20.º-D
+
+Ações de controlo
 
 1 - Os titulares de CCIR objeto das ações de controlo referidas no artigo anterior prestam toda a assistência necessária para facilitar a realização dos mesmos, facultando, para tal, o acesso às respetivas instalações e apresentando os documentos que lhe forem solicitados para o efeito.
 
@@ -544,7 +624,9 @@ c) Quaisquer outras ações de controlo, sempre que estas se revelem necessária
 
 4 - A autoridade competente conserva, pelo período de cinco anos, os registos dos controlos referidos no artigo 20.º-B, indicando, nomeadamente, a sua natureza e resultados obtidos, bem como registos de quaisquer ações e medidas corretivas tomadas nos termos previstos nos n.os 2 e 3 do presente artigo.
 
-###### Artigo 20.º-E — Boas práticas
+Artigo 20.º-E
+
+Boas práticas
 
 Os pedidos de reconhecimento de boas práticas a que se refere o n.º 1 do artigo 8.º do [Regulamento (UE) n.º 511/2014](http://data.europa.eu/eli/reg/2014/511/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de abril de 2014, são apresentados à autoridade regional competente a que se refere o artigo 4.º-A, através da submissão de formulário próprio, correspondente ao Anexo IV do [Regulamento de Execução (UE) 2015/1866](http://data.europa.eu/eli/reg/2015/1866/oj?locale=pt), da Comissão, de 13 de outubro de 2015, a disponibilizar, para o efeito, no sítio da Internet da autoridade regional competente.»
 
@@ -628,11 +710,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 22 de maio de 2020.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo, em 7 de julho de 2020.**
+Assinado em Angra do Heroísmo, em 7 de julho de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1191,3 +1273,5 @@ o) Benefícios relacionados com segurança alimentar e qualidade de vida;
 p) Reconhecimento social;
 
 q) Posse conjunta de direitos de propriedade intelectual relevantes.
+
+113378417

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/522/2009/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/522-2009-608706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4e503b1e9c06b32000e61e0cff8360e301a78f10108053219009dda0fbc178e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1483b6fd85da076a35a117d4b3e22a870121ad412406c8c7695c5c7b4ba9dbc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
 subjects:
 - Água
 - Águas Públicas
+- Albufeiras
+- Domínio Público Hídrico
 - Ordenamento do Território
 - Recursos Hídricos
-- Albufeiras
-- Zona de Proteção
 - Serviço Público
-- Domínio Público Hídrico
+- Zona de Proteção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/107/2009/05/15/p/dre
@@ -106,16 +106,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/9/2005/09/12/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/9/2005/09/12/p/dre
+- type: cites
+  target: pt:dre:143081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692220:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:46Z'
   warnings: []
   errors: []
 ---
@@ -144,8 +184,8 @@ Manda o Governo, pelo Ministro do Ambiente, do Ordenamento do Território e do D
 
 2.º A presente portaria entra em vigor no dia 30 de Maio de 2009.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 8 de Maio de 2009.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia, em 8 de Maio de 2009.
 
 ## ANEXO — Reclassificação das albufeiras de águas públicas de serviço público
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09400/0303203035.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09400/0303203035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09400/0303203035.pdf)

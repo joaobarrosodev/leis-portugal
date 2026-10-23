@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/169/2009/02/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-2009-602281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8c6d0f8635ddd063e462ec80a32693581cc11b494f2e077440fb6c68081f548
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 492330074832147cde8c1e77424e302ca3b2661fd1af990643835a01d9e4cf51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cobrança de Impostos
-- Remuneração Acessória
+- Direcção Geral das Contribuições e Impostos
 - Fundo de Estabilização Tributário
 - Prémio de Produtividade
-- Direcção Geral das Contribuições e Impostos
+- Remuneração Acessória
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/132/1998/03/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/132/1998/03/04/p/dre
+- type: cites
+  target: pt:dre:145824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608072:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:34Z'
   warnings: []
   errors: []
 ---
@@ -140,4 +160,4 @@ A percentagem a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 47/2
 
 2 - A majoração fixada no número anterior contempla todos os funcionários e agentes que reúnam as condições exigíveis para beneficiar do suplemento, relativamente a 2008, podendo o conselho de administração do Fundo de Estabilização Tributário mandar proceder ao seu pagamento em 2009, mediante o estabelecimento de uma prestação suplementar de montante único.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Fevereiro de 2009.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Fevereiro de 2009.

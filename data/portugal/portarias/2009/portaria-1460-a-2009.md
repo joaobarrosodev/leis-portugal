@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 252/2009, 1º Suplemento, Série I de 2009-12-31
   number: '252'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8920-(2) a 8920-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1460-a/2009/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1460-a-2009-233709
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1b0d76a0e93ef75666c09d99ce52f1db19955709a820a838a7becd5a35ff3dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ddd2bb38c62fdbb6874d34935ec9c1486679ba2d7a33539bc4a0f352b4b15b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
 - Centro Nacional de Pensões
 - Centro Nacional de Protecção contra os Riscos Profissionais
-- Pessoal Dirigente
 - Coordenador
 - Diretor
 - Estatuto
+- Instituto da Segurança Social
+- Pessoal Dirigente
 - Posto de Atendimento
 - Quadro de Pessoal
 relationships:
@@ -80,6 +80,19 @@ relationships:
   target: pt:dre:553395:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:617132:por
+  label: "Alterados os arts. 3º-A, 4º-A, 29º-B e 30º-A dos Estatutos do Instituto da Segurança Social, I. P., aprovados pela\
+    \ Port 638/2007, de 30-Maio, aditados e republicados os Estatutos pelo presente diploma, pela PORT.1329-B/2010.30.12.2010.MFAP,\
+    \ DR.IS [252-Supl] de 30.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1329-b-2010-617132
+  date: '2010-12-30'
+- type: amended_by
+  target: pt:dre:280945:por
+  label: "Alterado o anexo nº 1 da Port 638/2007 de 30-Mai, alterado pelo presente diploma, pelo DEC LEI.16/2011.25.01.2011.MTSSO,\
+    \ DR.IS [17] de 25.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2011-280945
+  date: '2011-01-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163/2008/08/08/p/dre
   label: null
@@ -108,16 +121,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/638/2007/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/638/2007/05/30/p/dre
+- type: cites
+  target: pt:dre:243747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455128:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638526:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553395:por
+  label: "Revogada a Port 638/2007, de 30-maio, na redacção da presente portaria, pela PORT.135/2012.08.05.2012.MF, DR.IS\
+    \ [89] de 08.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-2012-553395
+  date: '2012-05-08'
 article_structure:
-  article_count: 60
+  article_count: 49
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:25Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +203,9 @@ Os artigos 3.º, 4.º, 23.º, 28.º e 30.º dos Estatutos do Instituto da Segura
 
 8 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -174,7 +219,9 @@ Os artigos 3.º, 4.º, 23.º, 28.º e 30.º dos Estatutos do Instituto da Segura
 
 6 - O número máximo de directores dos estabelecimentos integrados sob gestão directa, actualmente fixado no anexo n.º 2, pode ser alterado pelo conselho directivo em função da mudança, por qualquer motivo, do tipo de gestão dos estabelecimentos integrados do ISS, I. P., e tem como limite máximo a totalidade destes estabelecimentos.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -184,7 +231,9 @@ Os artigos 3.º, 4.º, 23.º, 28.º e 30.º dos Estatutos do Instituto da Segura
 
 4 - O director de segurança social do CNP é coadjuvado por um director adjunto que o substitui nas suas ausências e impedimentos.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -194,7 +243,9 @@ Os artigos 3.º, 4.º, 23.º, 28.º e 30.º dos Estatutos do Instituto da Segura
 
 4 - Cada um dos directores de segurança social dos centros distritais é coadjuvado por um director adjunto que o substitui nas suas ausências e impedimentos, excepto os directores de segurança social dos Centros Distritais de Lisboa e do Porto, que são coadjuvados, cada um, por dois directores adjuntos de segurança social, devendo neste caso os directores designar quem os substitui nas suas ausências e impedimentos.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - Os serviços do ISS, I. P., podem ainda organizar-se em sectores e equipas, a constituir por deliberação do CD, não podendo o número total de sectores e equipas ser superior, respectivamente, a 125 e 410.
 
@@ -224,17 +275,23 @@ Cargos dirigentes
 
 7 - Os titulares dos cargos de director adjunto e de director de departamento podem ter apoio de secretariado nos termos legalmente previstos para os cargos de direcção superior de 1.º grau, em número não superior a um por cada titular.
 
-###### Artigo 3.º-B — Secretário do conselho directivo
+Artigo 3.º-B
+
+Secretário do conselho directivo
 
 1 - O secretário desempenha funções de apoio técnico ao conselho directivo em conformidade com as orientações definidas, designadamente na preparação das reuniões e na divulgação das respectivas deliberações, competindo-lhe certificar os actos e deliberações e coordenar as actividades de suporte ao conselho directivo.
 
 2 - O secretário do conselho directivo é um cargo de direcção intermédia de 1.º grau, sendo equiparado para efeitos remuneratórios a director de unidade.
 
-###### Artigo 3.º-C — Apoio
+Artigo 3.º-C
+
+Apoio
 
 Aos membros do conselho directivo aplicam-se os regimes e beneficiam do apoio previsto no artigo 33.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, com a redacção que lhe foi dada pelo artigo 29.º da [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro.
 
-###### Artigo 4.º-A — Cargos de director de estabelecimento
+Artigo 4.º-A
+
+Cargos de director de estabelecimento
 
 1 - Os directores de estabelecimento são cargos de direcção intermédia de 2.º grau.
 
@@ -252,7 +309,9 @@ e) Ao nível remuneratório 26 da tabela remuneratória única, quando se trate 
 
 3 - Podem candidatar-se aos procedimentos de recrutamento e selecção para titular dos cargos referidos no número anterior os trabalhadores com relação jurídica de emprego público da carreira de técnico superior dotados de competência nas áreas da infância, das crianças e jovens, dos menores em perigo, da educação especial e reabilitação de deficientes e dos idosos e de aptidão para o exercício de funções de direcção, coordenação e controlo.
 
-###### Artigo 29.º-A — Serviços locais
+Artigo 29.º-A
+
+Serviços locais
 
 1 - Os serviços locais desenvolvem essencialmente funções na área do atendimento ao público no âmbito do relacionamento do cidadão com a segurança social, podendo assegurar a prestação de outros serviços enquadrados na área de missão do ISS, I. P., que venham a ser superiormente definidos.
 
@@ -266,7 +325,9 @@ e) Ao nível remuneratório 26 da tabela remuneratória única, quando se trate 
 
 6 - Os serviços locais de atendimento são criados, classificados e extintos por deliberação do conselho directivo, não podendo o número total ser superior a 315.
 
-###### Artigo 29.º-B — Coordenador dos serviços locais
+Artigo 29.º-B
+
+Coordenador dos serviços locais
 
 1 - Os serviços locais de atendimento são chefiados por um coordenador, competindo-lhe, nomeadamente:
 
@@ -286,7 +347,9 @@ e) Gerir os recursos humanos e materiais que estão afectos ao respectivo servi�
 
 4 - Os coordenadores dos serviços locais de atendimento estão na dependência hierárquica directa do dirigente da subunidade orgânica responsável pela área do atendimento no respectivo centro distrital.
 
-###### Artigo 30.º-A — Chefes de sector e chefes de equipa
+Artigo 30.º-A
+
+Chefes de sector e chefes de equipa
 
 1 - Os cargos de chefe de sector e de chefe de equipa são, respectivamente, cargos de direcção intermédia de 3.º e de 4.º grau, tendo os titulares direito a uma remuneração base mensal de, respectivamente, 60 % e 35 % da remuneração base mensal do cargo de director de segurança social, a que acrescem despesas de representação correspondentes a 10 % e 7 % da remuneração base mensal do cargo de director de segurança social.
 
@@ -296,7 +359,9 @@ e) Gerir os recursos humanos e materiais que estão afectos ao respectivo servi�
 
 4 - Podem candidatar-se aos procedimentos de recrutamento e selecção para titulares de cargos de chefe de equipa os trabalhadores com relação jurídica de emprego público integrados, no mínimo, em carreira de grau de complexidade funcional ii que reúnam competência e experiência adequadas ao exercício das respectivas funções.
 
-###### Artigo 31.º-B — Quadro de pessoal dirigente
+Artigo 31.º-B
+
+Quadro de pessoal dirigente
 
 A estrutura orgânica do ISS, I. P., tem como limite máximo o quadro de pessoal dirigente constante do anexo n.º 2 aos presentes estatutos, sem prejuízo do disposto no n.º 6 do artigo 4.º»
 
@@ -312,13 +377,13 @@ O anexo n.º 1 dos Estatutos do ISS, I. P., aprovados pela Portaria n.º 638/200
 
 Estabelecimentos integrados sob gestão directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
 
 (n.º 4 do artigo 4.º dos Estatutos)
 
 Estabelecimentos integrados sob gestão indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
 
 ###### Artigo 5.º — Alteração ao anexo n.º 2 dos Estatutos do ISS, I. P.
 
@@ -328,7 +393,7 @@ O anexo n.º 2 dos Estatutos do ISS, I. P., aprovados pela Portaria n.º 638/200
 
 Quadro de pessoal dirigente do ISS, I. P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
 
 ###### Artigo 6.º — Revogação
 
@@ -348,7 +413,7 @@ A presente portaria entra em vigor no dia 1 de Janeiro de 2010.
 
 Em 30 de Dezembro de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DA SEGURANÇA SOCIAL, I. P.
 
@@ -1170,16 +1235,16 @@ A estrutura orgânica do ISS, I. P., tem como limite máximo o quadro de pessoal
 
 Estabelecimentos integrados sob gestão directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
 
 (n.º 4 do artigo 4.º dos Estatutos)
 
 Estabelecimentos integrados sob gestão indirecta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
 
 ## ANEXO N.º 2 — (artigo 31.º-B dos Estatutos)
 
 Quadro de pessoal dirigente do ISS, I. P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25201/0000200018.pdf)

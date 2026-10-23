@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/5/2009/02/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/5-2009-602048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a400f0d3b2d17a0256f9df6330626349e4dd63bbb06b895db36b401680fbaf0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 811ec328698aa58528fcee942347e12c8ad01711c2dae6506b38926391c6ab21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa
 - Orçamento
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/54/2006/12/22/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/54/2006/12/22/a/dre
+- type: cites
+  target: pt:dre:552289:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:23Z'
   warnings: []
   errors: []
 ---
@@ -95,36 +99,36 @@ A Assembleia Legislativa da Região Autónoma dos Açores, nos termos do n.º 2 
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 28 de Janeiro de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
 
 Orçamento para o ano de 2009
 
 Departamento 01 - Assembleia Legislativa da Região Autónoma dos Açores
 
-### Capítulo 01 - Divisão 01
+Capítulo 01 - Divisão 01
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
 
 Encargos com remunerações certas ao pessoal
 
 01.01.01 a) - Deputados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
 
 01.01.03 - Pessoal dos quadros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
 
 01.01.06 - Pessoal contratado a termo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
 
 01.01.09 - Pessoal em qualquer outra situação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
 
 01.01.11 - Representação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03600/0121601223.pdf)

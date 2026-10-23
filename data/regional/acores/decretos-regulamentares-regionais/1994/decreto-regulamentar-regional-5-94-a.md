@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/04/097b00/20472047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/1994/04/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1994-265702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26016447300c3623191cef8acdee8245fa73af512d38d622c0afd9ae63513020
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae2927781f4e635d9dc6e133539b49a07d6ce1448cb9d379668f44c7f213a6fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Criação de Lugares
 - Instituto de Alimentação e Mercados Agrícolas
 - Integração de Trabalhadores
@@ -75,26 +76,44 @@ subjects:
 - Pessoal Técnico Auxiliar
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:128355821:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620359:por
+  label: "Alterado o quadro de pessoal do Instituto de Alimentação e Mercados Agrícolas, aprovado pelo DRR 47/92/A de 27-Nov,\
+    \ na redacção do presente diploma, pelo DRR.35/2004/A.23.08.2004.PG-RAA, DR.IS-B [214] de 10.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/35-2004-620359
+  date: '2004-08-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/47/1992/11/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/47/1992/11/27/a/dre
+- type: cites
+  target: pt:dre:599132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618919:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:128355821:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 3/2020/A - Diário da República n.º 15/2020, Série I de 2020-01-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2020-128355821
+  date: '2020-01-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:23Z'
   warnings: []
   errors: []
 ---
@@ -105,24 +124,24 @@ Após a publicação do [Decreto Regulamentar Regional n.º 47/92/A](https://dia
 
 Assim, em execução do disposto no artigo 3.º do [Decreto Legislativo Regional n.º 13/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1989-618919), de 28 de Julho, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º É aditado ao artigo 51.º do [Decreto Regulamentar Regional n.º 47/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/47-1992-599132), de 27 de Novembro, o n.º 9, com a seguinte redacção:
+Artigo 1.º É aditado ao artigo 51.º do [Decreto Regulamentar Regional n.º 47/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/47-1992-599132), de 27 de Novembro, o n.º 9, com a seguinte redacção:
 
 9 - Os auxiliares técnicos do Serviço de Classificação de Leite que venham exercendo funções de técnico auxiliar de laboratório e possuam o 9.º ano de escolaridade, ou equivalente, transitam para a carreira correspondente às funções exercidas, sendo integrados na categoria mais baixa da carreira em cujo desenvolvimento esteja incluído escalão a que corresponda remuneração igual ou, se não houver coincidência, remuneração imediatamente superior à auferida à data da entrada em vigor do presente diploma, ficando obrigados à frequência de um curso de formação adequado, de duração não inferior a 12 meses.
 
-###### Art. 2.º Ao quadro de pessoal do IAMA, anexo ao [Decreto Regulamentar Regional n.º 47/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/47-1992-599132), de 27 de Novembro, são aditados os lugares indicados no mapa anexo ao presente diploma, de que faz parte integrante.
+Art. 2.º Ao quadro de pessoal do IAMA, anexo ao [Decreto Regulamentar Regional n.º 47/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/47-1992-599132), de 27 de Novembro, são aditados os lugares indicados no mapa anexo ao presente diploma, de que faz parte integrante.
 
-###### Art. 3.º O presente diploma produz efeitos desde a data da entrada em vigor do [Decreto Regulamentar Regional n.º 47/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/47-1992-599132), de 27 de Novembro, e às transições nele previstas é aplicável o disposto no n.º 2 do artigo 54.º do mesmo diploma.
+Art. 3.º O presente diploma produz efeitos desde a data da entrada em vigor do [Decreto Regulamentar Regional n.º 47/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/47-1992-599132), de 27 de Novembro, e às transições nele previstas é aplicável o disposto no n.º 2 do artigo 54.º do mesmo diploma.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 9 de Fevereiro de 1994.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Março de 1994.**
+Assinado em Angra do Heroísmo em 11 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/04/097b00/20472047.pdf))](https://files.diariodarepublica.pt/1s/1994/04/097b00/20472047.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/04/097b00/20472047.pdf)

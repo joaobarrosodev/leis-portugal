@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/06/11600/0003400044.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2024/06/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2024-868787352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79de5afa13ca4b3ce8957d9f7f9f30e7fb7d5dc8bf8aa746f3d12327e0ab426d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aed2d70719be3b238fed54ee513e23bfb5b54110d60dfa66430206b1e23eea56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Definição de Competências
-- Regulamentação de Atos Legislativos
-- FEDER
-- Fundos CE
 - Açores
-- Autoridade de Gestão
-- Fundo Social Europeu Mais
 - Açores 2030
+- Autoridade de Gestão
+- Definição de Competências
+- FEDER
+- Fundo Social Europeu Mais
+- Fundos CE
+- Governo Regional
+- Regulamentação de Atos Legislativos
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:9/2023/A
+  label: Altera, a partir de 19 de junho de 2024, os artigos 2.º, 7.º e 13.º e republica o Decreto Regulamentar Regional n.º
+    9/2023/A, de 23 de março, Diário da República n.º 59/2023, Série I
+  source: null
+  date: '2023-03-23'
 - type: cites
   target: celex:32021R1060
   label: null
@@ -96,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/2023/03/23/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/2023/03/23/a/dre
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210875030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216055970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836079151:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:04Z'
   warnings: []
   errors: []
 ---
@@ -186,11 +208,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, nas Velas, em 29 de maio de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 11 de junho de 2024.**
+Assinado em Angra do Heroísmo em 11 de junho de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -477,3 +499,5 @@ e) O relatório final de desempenho, a apresentar à Comissão Europeia, sob pro
 1 - O presente diploma produz efeitos no dia 6 de março de 2023.
 
 2 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+117792561

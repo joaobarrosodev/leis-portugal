@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2011/05/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2011-287445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36238a03cd46e6fad2da83c91fee49d9d4d9538a620e12098bf204a9944437df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f542837dd772806de0123425e42dde51644ac41d0b3f490628c450d982620bdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
+- Apoio ao Investimento
 - Comunicação Social
 - Difusão da Informação
 - Empresa Privada
-- Apoio ao Investimento
-- Projeto de Investimento
-- Pagamento
+- Financiamento
 - Imprensa Regional
-- Radiodifusão
+- Pagamento
+- Projeto de Investimento
 - Promedia
-- Açores
+- Radiodifusão
 relationships:
 - type: amended_by
   target: pt:dre:132431980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177800:por
+  label: "Alterados os arts. 2º, 9º, 11º, 11º-A e revogado e subsituído o anexo do DRR 9/2009/A, de 24-jul, na redação do\
+    \ presente diploma, pelo DRR.15/2012/A.01.06.2012.PG-RAA, DR.IS [107] de 01.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2012-177800
+  date: '2012-06-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/10/2009/06/05/a/dre
   label: null
@@ -95,16 +101,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/2009/07/24/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/2009/07/24/a/dre
+- type: cites
+  target: pt:dre:346365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494227:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:670044:por
+  label: "Rectificado o nº1 do art. 4º do presente diploma, pela DECL-RECT.16/2011.07.06.2011.PCM, DR.IS [110] de 07.06.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-2011-670044
+  date: '2011-06-07'
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado o DRR 14/93/A, de 31-jul, na redacção do presente diploma, pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS\
+    \ [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
+- type: repealed_by
+  target: pt:dre:132431980:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-132431980
+  date: '2020-04-24'
 article_structure:
-  article_count: 25
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:48Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +186,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A candidatura de apoios à difusão informativa é feita com base na declaração da previsível despesa média mensal com:
 
@@ -175,11 +212,15 @@ e) Peso médio dos exemplares expedidos por edição;
 
 f) Plano anual de distribuição.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A candidatura a apoios no regime especial das ilhas de coesão é feita com base na declaração da previsível despesa média mensal relativa aos consumos de energia e comunicações telefónicas.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -233,11 +274,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 4 de Abril de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 10 de Maio de 2011.**
+Assinado em Angra do Heroísmo em 10 de Maio de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -431,27 +472,27 @@ Apoio à difusão
 
 Elementos para instrução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 Elementos do pedido de apoio
 
 Transporte em carga aérea das publicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 Expedição postal das publicações para assinantes
 
 A) Na Região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 B) No território continental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 C) No estrangeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 QUADRO II
 
@@ -459,11 +500,11 @@ Regime especial de apoio às ilhas da coesão
 
 Consumo de energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 Comunicações telefónicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 ## ANEXO II — Republicação do [Decreto Regulamentar Regional n.º 9/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2009-492999), de 24 de Julho
 
@@ -667,11 +708,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 25 de Junho de 2009.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 16 de Julho de 2009.**
+Assinado em Angra do Heroísmo em 16 de Julho de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -865,27 +906,27 @@ Apoio à difusão
 
 Elementos para instrução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 Elementos do pedido de apoio
 
 Transporte em carga aérea das publicações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 Expedição postal das publicações para assinantes
 
 A) Na Região
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 B) No território continental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 C) No estrangeiro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 QUADRO II
 
@@ -893,8 +934,8 @@ Regime especial de apoio às ilhas da coesão
 
 Consumo de energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
 
 Comunicações telefónicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf))](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/05/09900/0289202900.pdf)

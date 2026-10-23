@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/925/2008/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-2008-455455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a7819967b36e868a3f76aec1bbaa26ceaedecf50b46e970eb60eda013ed75b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ddbfbc3941c16a1762f935e457f86f6f6bd59e65457102f35840820b0d65167
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Médico
-- Língua Portuguesa
+- Administração Central do Sistema de Saúde
+- Avaliação de Conhecimentos
+- Bolsa de Estudos
+- Equivalência de Diplomas
 - Equivalência de Habilitações Literárias
+- Estágio de Formação
 - Faculdade de Medicina
 - Fundação Calouste Gulbenkian
 - Imigrante
-- Administração Central do Sistema de Saúde
-- Programa
-- Estágio de Formação
-- Avaliação de Conhecimentos
+- Língua Portuguesa
+- Médico
 - Ministério da Saúde
-- Regulamento
-- Equivalência de Diplomas
-- Bolsa de Estudos
 - Ministério dos Negócios Estrangeiros
+- Programa
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:343111:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:343111:por
+  label: "Prorrogada a duração do Programa «Integração profissional de médicos imigrantes» (PIPMI), prevista na art. 2.º do\
+    \ Regulamento do PIPMI, aprovado pela presente portaria,pela PORT.674/2010.11.08.2010.MS, DR.IS [155] de 11.08.2010\0\
+    10\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/674-2010-343111
+  date: '2010-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/2006/10/27/p/dre
   label: null
@@ -97,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2002/11/08/p/dre
+- type: cites
+  target: pt:dre:425487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635814:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:17Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +156,7 @@ Ao abrigo do disposto no artigo 83.º da [Lei n.º 23/2007](https://diariodarepu
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado Adjunto e da Saúde, Francisco Ventura Ramos, em 7 de Agosto de 2008.**
+O Secretário de Estado Adjunto e da Saúde, Francisco Ventura Ramos, em 7 de Agosto de 2008.
 
 ## ANEXO
 
@@ -453,4 +476,4 @@ O candidato a bolseiro, ... (assinatura).
 
 ... de ... de ... (data).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15800/0569005695.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15800/0569005695.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15800/0569005695.pdf)

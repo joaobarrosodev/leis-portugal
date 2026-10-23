@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/2012/06/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2012-178495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24644c869e88dd5db7b63701c6b5cc204027fd6282da2aa8b82138197b3020e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 502616b7210d07952c3d05c064ab03d270720675e93c5a8e28ed97d1fd15a882
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alvará
-- Farmácia
 - Concurso Público
 - Definição de Competências
-- Política de Saúde
+- Farmácia
 - Fiscalização
-- Medicamento
 - Horário de Funcionamento
 - Licenciamento
 - Licenciamento de Obras
+- Medicamento
 - Página na Internet
+- Política de Saúde
 - Regime Jurídico
-- Açores
 - Taxa
 - Vistoria
 relationships:
@@ -102,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/3/2012/01/26/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/3/2012/01/26/a/dre
+- type: cites
+  target: pt:dre:279445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641148:por
+  label: null
+  source: null
 article_structure:
-  article_count: 170
+  article_count: 116
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:33Z'
   warnings: []
   errors: []
 ---
@@ -150,13 +170,17 @@ c) Distância mínima de 250 m entre a farmácia e uma extensão de saúde, um c
 
 4 - A determinação do número de habitantes é feita em função dos dados mais recentes disponibilizados pelo Serviço Regional de Estatística dos Açores.
 
-###### Artigo 31.º — Horário de funcionamento
+Artigo 31.º
+
+Horário de funcionamento
 
 1 - O horário de funcionamento das farmácias abrange os períodos de funcionamento diário e semanal e os turnos de serviço permanente, de regime de reforço e de regime de disponibilidade, nos termos da legislação em vigor.
 
 2 - O proprietário da farmácia deve assegurar o cumprimento do horário de funcionamento.
 
-###### Artigo 46.º — Transformação de postos farmacêuticos
+Artigo 46.º
+
+Transformação de postos farmacêuticos
 
 1 - ...
 
@@ -186,7 +210,9 @@ d) Memória descritiva e licença de utilização da farmácia que irá funciona
 
 10 - As farmácias resultantes da transformação de postos de medicamentos estão sujeitas ao disposto nos n.os 1, 2 e 3 do artigo 19.º
 
-###### Artigo 56.º — Formulários
+Artigo 56.º
+
+Formulários
 
 O departamento da administração regional autónoma competente em matéria de saúde pode disponibilizar no Portal do Governo Regional dos Açores e no Portal da Saúde os formulários necessários para a execução do presente diploma.»
 
@@ -206,7 +232,9 @@ Concurso
 
 4 - O pedido é devidamente apreciado pelo departamento da administração regional autónoma competente em matéria de saúde, que decide fundamentadamente, comunicando a sua posição à entidade requerente.
 
-###### Artigo 27.º-B — Aviso de abertura
+Artigo 27.º-B
+
+Aviso de abertura
 
 1 - O aviso de abertura de concurso é publicitado no Jornal Oficial e divulgado na área destinada à saúde em Portal do Governo Regional dos Açores.
 
@@ -224,7 +252,9 @@ e) A constituição do júri.
 
 3 - A data fixada para a apresentação das candidaturas não pode ser superior a vinte dias a contar da publicação no Jornal Oficial do aviso de abertura do concurso.
 
-###### Artigo 27.º-C — Júri
+Artigo 27.º-C
+
+Júri
 
 1 - A constituição do júri do concurso consta do aviso de abertura, pelo que é designado anteriormente à publicação deste aviso, por despacho do membro do Governo Regional competente na área da saúde, respeitando a seguinte composição:
 
@@ -238,7 +268,9 @@ b) Dois vogais, um dos quais proposto pela Ordem dos Farmacêuticos.
 
 4 - O júri supervisiona todas as fases do concurso.
 
-###### Artigo 27.º-D — Funcionamento do júri
+Artigo 27.º-D
+
+Funcionamento do júri
 
 1 - O júri só funciona com a presença de todos os seus membros, sendo as respetivas deliberações tomadas por maioria.
 
@@ -246,7 +278,9 @@ b) Dois vogais, um dos quais proposto pela Ordem dos Farmacêuticos.
 
 3 - O acesso às atas faz-se nos termos do disposto na legislação em vigor relativa ao acesso aos documentos administrativos.
 
-###### Artigo 27.º-E — Concorrentes
+Artigo 27.º-E
+
+Concorrentes
 
 1 - Podem ser opositores ao concurso as pessoas singulares ou coletivas que reúnam os requisitos legais para serem proprietárias de farmácias.
 
@@ -256,7 +290,9 @@ b) Dois vogais, um dos quais proposto pela Ordem dos Farmacêuticos.
 
 4 - O concorrente graduado em primeiro lugar e que já tenha prestado caução não pode ser opositor a qualquer outro concurso.
 
-###### Artigo 27.º-F — Apresentação da candidatura
+Artigo 27.º-F
+
+Apresentação da candidatura
 
 Os concorrentes, no momento da apresentação da candidatura, com exceção dos candidatos à instalação por transferência, entregam os seguintes documentos:
 
@@ -278,7 +314,9 @@ h) Fotocópia do cartão de contribuinte de pessoa singular ou coletiva;
 
 i) Declaração emitida pela administração fiscal que ateste o número de anos de permanência no domicílio fiscal, e ou outro meio comprovativo da residência habitual e efetiva.
 
-###### Artigo 27.º-G — Seleção dos concorrentes
+Artigo 27.º-G
+
+Seleção dos concorrentes
 
 1 - O júri, no prazo de 20 dias a contar da data limite para a apresentação das candidaturas, procede à seleção dos concorrentes.
 
@@ -290,7 +328,9 @@ b) Pretendam instalar farmácia em município ou zona de município diferente do
 
 c) Apresentem a candidatura após a data limite referida no aviso de abertura do concurso.
 
-###### Artigo 27.º-H — Graduação dos concorrentes
+Artigo 27.º-H
+
+Graduação dos concorrentes
 
 1 - O júri gradua, por ordem decrescente, os concorrentes admitidos com base nos seguintes critérios:
 
@@ -326,25 +366,33 @@ j) Serviços farmacêuticos que se propõe prestar, nos termos do artigo 37.º-A
 
 7 - O sorteio é realizado com recurso a um sistema eletrónico, mecânico ou eletromecânico que garanta a total aleatoriedade do resultado.
 
-###### Artigo 27.º-I — Homologação
+Artigo 27.º-I
+
+Homologação
 
 1 - A lista dos concorrentes admitidos e graduados é homologada por despacho do membro do Governo Regional competente em matéria de saúde, ou, por delegação sua, pelo diretor do departamento da administração regional autónoma competente em matéria de saúde.
 
 2 - A lista referida no número anterior é publicada no Jornal Oficial e divulgada na área destinada à saúde em Portal do Governo Regional dos Açores.
 
-###### Artigo 27.º-J — Notificação
+Artigo 27.º-J
+
+Notificação
 
 1 - O júri notifica o concorrente graduado em primeiro lugar no prazo de cinco dias a contar da publicação da lista no Jornal Oficial.
 
 2 - Da notificação prevista no número anterior devem constar os prazos para a prestação de caução e para a entrega dos documentos referidos no artigo 27.º-L.
 
-###### Artigo 27.º-K — Caução
+Artigo 27.º-K
+
+Caução
 
 1 - O concorrente graduado em primeiro lugar presta uma caução no valor de (euro) 25 000, no prazo de 15 dias a contar da respetiva notificação.
 
 2 - A caução pode ser prestada por depósito em dinheiro ou mediante garantia bancária autónoma, à primeira solicitação, nos termos definidos no aviso de abertura do concurso.
 
-###### Artigo 27.º-L — Documentos
+Artigo 27.º-L
+
+Documentos
 
 O concorrente graduado em primeiro lugar dispõe do prazo de 150 dias úteis a contar da respetiva notificação para apresentar ao departamento da administração regional autónoma competente em matéria de saúde os seguintes documentos:
 
@@ -358,13 +406,17 @@ d) Memória descritiva da farmácia, incluindo a descrição das instalações, 
 
 e) Pedido de aprovação da designação da farmácia, com indicação sucessiva e preferencial de três designações.
 
-###### Artigo 27.º-M — Não apresentação dos documentos
+Artigo 27.º-M
+
+Não apresentação dos documentos
 
 1 - Se o concorrente graduado em primeiro lugar não proceder à apresentação dos documentos mencionados no artigo anterior no prazo indicado é excluído e substituído pelo concorrente graduado em segundo lugar, e assim sucessivamente até ao último concorrente admitido, tudo se processando como se se tratasse do primeiro, designadamente para efeitos de entrega de documentos.
 
 2 - Se o último concorrente graduado não proceder à apresentação dos documentos mencionados no artigo anterior no prazo indicado é excluído e o departamento da administração regional autónoma competente em matéria de saúde pode proceder à abertura de novo concurso.
 
-###### Artigo 27.º-N — Análise dos documentos
+Artigo 27.º-N
+
+Análise dos documentos
 
 1 - O júri analisa os documentos referidos no artigo 27.º-L no prazo de 15 dias a contar da data limite para a respetiva apresentação e decide sobre a aptidão ou inaptidão do local, do espaço e do quadro farmacêutico para a abertura ao público de uma farmácia.
 
@@ -372,11 +424,15 @@ e) Pedido de aprovação da designação da farmácia, com indicação sucessiva
 
 3 - A decisão final do júri é homologada por despacho do membro do Governo Regional competente em matéria de saúde, no prazo de 15 dias.
 
-###### Artigo 27.º-O — Perda de caução
+Artigo 27.º-O
+
+Perda de caução
 
 O não cumprimento, por factos imputáveis ao interessado, do disposto no artigo 27.º-L, ou a decisão de inaptidão do local, do espaço e do mapa de pessoal para abertura da farmácia em concurso, implica a perda a favor da Região Autónoma dos Açores de metade do valor da caução prestada.
 
-###### Artigo 27.º-P — Concorrente selecionado
+Artigo 27.º-P
+
+Concorrente selecionado
 
 1 - O departamento da administração regional autónoma competente em matéria de saúde, no prazo de cinco dias a contar da homologação da decisão final do júri, prevista no n.º 3 do artigo 27.º-N, notifica o concorrente selecionado do prazo de instalação da farmácia e da decisão sobre a designação da farmácia.
 
@@ -386,7 +442,9 @@ O não cumprimento, por factos imputáveis ao interessado, do disposto no artigo
 
 4 - O departamento da administração regional autónoma competente em matéria de saúde decide no prazo de 10 dias sobre o novo pedido.
 
-###### Artigo 27.º-Q — Instalação
+Artigo 27.º-Q
+
+Instalação
 
 1 - A instalação da farmácia compreende a dotação de pessoal e o cumprimento das normas relativas às divisões e áreas mínimas, conforme o disposto na portaria respetiva.
 
@@ -398,7 +456,9 @@ O não cumprimento, por factos imputáveis ao interessado, do disposto no artigo
 
 5 - Os prazos referidos nos n.os 2 a 4 suspendem-se pela apresentação do primeiro pedido de vistoria à farmácia.
 
-###### Artigo 27.º-R — Vistoria e alvará
+Artigo 27.º-R
+
+Vistoria e alvará
 
 1 - Terminada a instalação da farmácia, o concorrente selecionado requer ao departamento da administração regional autónoma competente em matéria de saúde, dentro dos prazos referidos no artigo 27.º-Q, a realização da vistoria.
 
@@ -414,13 +474,17 @@ O não cumprimento, por factos imputáveis ao interessado, do disposto no artigo
 
 7 - Decorrido o prazo referido no número anterior sem que a farmácia abra ao público, cessa o direito de a abrir e o departamento da administração regional autónoma competente em matéria de saúde pode proceder à abertura de novo concurso.
 
-###### Artigo 27.º-S — Transferência
+Artigo 27.º-S
+
+Transferência
 
 1 - O departamento da administração regional autónoma competente em matéria de saúde pode autorizar o proprietário a transferir a localização da farmácia dentro do mesmo município, desde que observadas as condições de funcionamento e os requisitos legalmente previstos.
 
 2 - O proprietário de farmácia não pode requerer a transferência da sua localização antes de decorrido um período de cinco anos a contar da data da respetiva abertura na sequência de concurso ou de transformação de posto de medicamentos em farmácia.
 
-###### Artigo 27.º-T — Pedido de transferência
+Artigo 27.º-T
+
+Pedido de transferência
 
 O proprietário de farmácia que pretenda transferi-la dentro do mesmo município deve apresentar um pedido ao departamento da administração regional autónoma competente em matéria de saúde, instruído com os seguintes documentos:
 
@@ -436,11 +500,15 @@ e) Identificação do diretor técnico e da restante dotação de pessoal;
 
 f) Memória descritiva do edifício ou fração para onde se pretende a transferência, incluindo a descrição das instalações, das divisões e das respetivas áreas.
 
-###### Artigo 27.º-U — Decisão de aptidão
+Artigo 27.º-U
+
+Decisão de aptidão
 
 O departamento da administração regional autónoma competente em matéria de saúde analisa os documentos referidos no artigo anterior, decide, no prazo de 30 dias a contar da respetiva apresentação, sobre a aptidão ou inaptidão do local, do espaço e da dotação de pessoal para a abertura ao público da nova farmácia e notifica o proprietário da farmácia.
 
-###### Artigo 27.º-V — Inaptidão do local
+Artigo 27.º-V
+
+Inaptidão do local
 
 1 - O departamento da administração regional autónoma competente em matéria de saúde decide pela inaptidão do local para a nova localização da farmácia quando:
 
@@ -452,7 +520,9 @@ c) O pedido de transferência seja apresentado em dia posterior a outro pedido e
 
 2 - A decisão de inaptidão do local com fundamento na alínea c) do número anterior pressupõe uma decisão de aptidão do pedido apresentado em primeiro lugar.
 
-###### Artigo 27.º-W — Pedidos conflituantes
+Artigo 27.º-W
+
+Pedidos conflituantes
 
 1 - Os pedidos são conflituantes quando reúnam, cumulativamente, os seguintes requisitos:
 
@@ -466,7 +536,9 @@ c) As novas localizações das farmácias distem menos de 250 m entre si.
 
 3 - O departamento da administração regional autónoma competente em matéria de saúde notifica os proprietários das farmácias que apresentem pedidos conflituantes da data, da hora e do local da realização do sorteio.
 
-###### Artigo 27.º-X — Vistoria e averbamento
+Artigo 27.º-X
+
+Vistoria e averbamento
 
 1 - O proprietário da farmácia deve requerer ao departamento da administração regional autónoma competente em matéria de saúde a realização de uma vistoria às novas instalações, no prazo de um ano a contar da decisão de aptidão referida no artigo 27.º-U ou da seleção referida no artigo anterior.
 
@@ -478,15 +550,21 @@ c) As novas localizações das farmácias distem menos de 250 m entre si.
 
 5 - A farmácia deve abrir ao público, nas novas instalações, no prazo de 20 dias úteis a contar do averbamento da nova localização no alvará.
 
-###### Artigo 27.º-Y — Encerramento
+Artigo 27.º-Y
+
+Encerramento
 
 O proprietário da farmácia pode encerrar a farmácia a transferir a partir do pedido de vistoria referido no n.º 1 do artigo 27.º-X, pelo período que se considerar necessário, para efeitos de reinstalação no novo local.
 
-###### Artigo 27.º-Z — Impossibilidade de transferência e de instalação
+Artigo 27.º-Z
+
+Impossibilidade de transferência e de instalação
 
 Desde a decisão de aptidão, prevista no artigo 27.º-U, até ao termo do prazo para abrir a farmácia ao público, são indeferidas, por inaptidão do local para a abertura ao público, a transferência e a instalação de novas farmácias que, em relação à nova localização da farmácia que se pretende transferir, conduzam à violação das regras da distância previstas nas alíneas b) e c) do n.º 1 do artigo 27.º
 
-###### Artigo 31.º-A — Período de funcionamento
+Artigo 31.º-A
+
+Período de funcionamento
 
 1 - O período de funcionamento semanal das farmácias de oficina que não façam turnos de regime de disponibilidade tem o limite mínimo de 50 horas.
 
@@ -494,11 +572,15 @@ Desde a decisão de aptidão, prevista no artigo 27.º-U, até ao termo do prazo
 
 3 - As farmácias de oficina podem fixar um período de funcionamento diário que lhes permita estar abertas 24 horas por dia, todos os dias da semana.
 
-###### Artigo 31.º-B — Fixação dos períodos de funcionamento
+Artigo 31.º-B
+
+Fixação dos períodos de funcionamento
 
 O proprietário da farmácia fixa livremente os períodos de funcionamento diário e semanal, sem prejuízo do disposto nos artigos anteriores.
 
-###### Artigo 31.º-C — Comunicação
+Artigo 31.º-C
+
+Comunicação
 
 1 - O proprietário da farmácia comunica os períodos de funcionamento, diário e semanal, da farmácia ao departamento da administração regional autónoma competente em matéria de saúde.
 
@@ -506,25 +588,35 @@ O proprietário da farmácia fixa livremente os períodos de funcionamento diár
 
 3 - Sem prejuízo do disposto no número anterior, o proprietário da farmácia comunica ao departamento da administração regional autónoma competente em matéria de saúde qualquer alteração dos períodos de funcionamento, com a antecedência mínima de 30 dias.
 
-###### Artigo 31.º-D — Divulgação
+Artigo 31.º-D
+
+Divulgação
 
 1 - O horário de funcionamento é afixado na farmácia, de forma visível.
 
 2 - O horário de funcionamento das farmácias de oficina é divulgado pelo departamento da administração regional autónoma competente em matéria de saúde no Portal do Governo Regional dos Açores e no Portal da Saúde e pelas unidades de saúde do Serviço Regional de Saúde, nas suas instalações em local acessível ao público.
 
-###### Artigo 31.º-E — Turno de serviço permanente
+Artigo 31.º-E
+
+Turno de serviço permanente
 
 A farmácia de turno de serviço permanente mantém-se em funcionamento, ininterruptamente, desde a hora de abertura até à hora de encerramento do dia seguinte.
 
-###### Artigo 31.º-F — Turno de regime de reforço
+Artigo 31.º-F
+
+Turno de regime de reforço
 
 A farmácia de turno de regime de reforço mantém-se em funcionamento até às 22 horas, sem prejuízo de encerramento à hora de almoço quando o período de funcionamento definido o preveja.
 
-###### Artigo 31.º-G — Turno de regime de disponibilidade
+Artigo 31.º-G
+
+Turno de regime de disponibilidade
 
 A farmácia de turno de regime de disponibilidade tem de assegurar que um farmacêutico, um técnico ou um técnico auxiliar de farmácia está disponível para atender o público que o solicite, em caso de urgência.
 
-###### Artigo 31.º-H — Farmácias de turno
+Artigo 31.º-H
+
+Farmácias de turno
 
 1 - Nos municípios com menos de 20 000 habitantes tem de existir sempre uma farmácia de turno de regime de disponibilidade entre a hora de encerramento normal e a hora de abertura normal do dia seguinte.
 
@@ -536,17 +628,23 @@ A farmácia de turno de regime de disponibilidade tem de assegurar que um farmac
 
 5 - A determinação do número de habitantes é feita em função dos dados disponibilizados pelo Serviço Regional de Estatística dos Açores.
 
-###### Artigo 31.º-I — Regime de dispensa
+Artigo 31.º-I
+
+Regime de dispensa
 
 1 - O funcionamento da farmácia por turnos é insuscetível de originar qualquer acréscimo de pagamento nos medicamentos sujeitos a receita médica dispensados.
 
 2 - Nas situações não compreendidas no número anterior, o funcionamento da farmácia por turnos pode originar um acréscimo no pagamento cujo valor máximo é fixado por portaria do membro do Governo Regional competente em matéria de saúde.
 
-###### Artigo 31.º-J — Escalas de turnos
+Artigo 31.º-J
+
+Escalas de turnos
 
 As escalas de turnos são aprovadas pelo departamento da administração regional autónoma competente em matéria de saúde, sob proposta das associações representativas das farmácias.
 
-###### Artigo 31.º-K — Aprovação
+Artigo 31.º-K
+
+Aprovação
 
 1 - As associações representativas das farmácias propõem ao departamento da administração regional autónoma competente em matéria de saúde durante o mês de outubro as escalas de turnos de serviço permanente, de regime de reforço e de regime de disponibilidade, adiante designadas por escalas de turnos, para o ano seguinte.
 
@@ -556,7 +654,9 @@ As escalas de turnos são aprovadas pelo departamento da administração regiona
 
 4 - As escalas de turnos são aprovadas anualmente.
 
-###### Artigo 31.º-L — Execução
+Artigo 31.º-L
+
+Execução
 
 1 - As farmácias devem cumprir as escalas de turnos aprovadas pelo departamento da administração regional autónoma competente em matéria de saúde.
 
@@ -564,13 +664,17 @@ As escalas de turnos são aprovadas pelo departamento da administração regiona
 
 3 - As farmácias que cumpram escalas de turnos devem dispor de condições adequadas ao funcionamento por turnos.
 
-###### Artigo 34.º-A — Dispensa e entrega de medicamentos ao domicílio
+Artigo 34.º-A
+
+Dispensa e entrega de medicamentos ao domicílio
 
 1 - O pedido de dispensa de medicamentos para entrega ao domicílio pode ser feito diretamente nas farmácias ou nos locais de venda de medicamentos não sujeitos a receita médica, através do sítio eletrónico da farmácia ou do local de venda de medicamentos não sujeitos a receita médica, ou através de correio eletrónico, de telefone ou de telefax.
 
 2 - A entrega ao domicílio é feita sob a supervisão de um farmacêutico, no caso de farmácia, ou de farmacêutico ou técnico de farmácia, no caso de local de venda de medicamentos não sujeitos a receita médica, que são responsáveis pela prestação das informações necessárias à adequada utilização dos medicamentos dispensados.
 
-###### Artigo 34.º-B — Condições de entrega de medicamentos ao domicílio
+Artigo 34.º-B
+
+Condições de entrega de medicamentos ao domicílio
 
 1 - A entrega ao domicílio de medicamentos sujeitos a receita médica observa as disposições legais aplicáveis em relação à obrigatoriedade de apresentação de receita médica.
 
@@ -578,7 +682,9 @@ As escalas de turnos são aprovadas pelo departamento da administração regiona
 
 3 - Ao transporte de medicamentos até ao domicílio do utente são aplicáveis, com as devidas adaptações, as regras de transporte previstas nas boas práticas de distribuição de medicamentos.
 
-###### Artigo 34.º-C — Sítio na Internet
+Artigo 34.º-C
+
+Sítio na Internet
 
 As farmácias e os locais de venda de medicamentos não sujeitos a receita médica que dispensem medicamentos solicitados através da Internet devem dispor, isoladamente ou em associação, de um sítio eletrónico próprio, onde constem as seguintes informações:
 
@@ -592,17 +698,23 @@ d) Prazo indicativo para a entrega dos medicamentos solicitados;
 
 e) Nome do diretor técnico da farmácia ou do responsável técnico do local de venda de medicamentos não sujeitos a receita médica.
 
-###### Artigo 34.º-D — Comunicação prévia
+Artigo 34.º-D
+
+Comunicação prévia
 
 1 - A dispensa de medicamentos através da Internet nos termos do artigo anterior depende de comunicação prévia ao departamento da administração regional autónoma competente em matéria de saúde do endereço do respetivo sítio.
 
 2 - O departamento da administração regional autónoma competente em matéria de saúde disponibilizará no Portal do Governo Regional dos Açores e no Portal da Saúde a lista dos sítios da Internet comunicados nos termos do número anterior.
 
-###### Artigo 34.º-E — Registo
+Artigo 34.º-E
+
+Registo
 
 As farmácias e os estabelecimentos de venda de medicamentos não sujeitos a receita médica devem registar os pedidos de dispensa de medicamentos efetuados nos termos do n.º 1 do artigo 34.º-A, com referência à identificação do medicamento, à quantidade dispensada e ao município de entrega.
 
-###### Artigo 37.º-A — Carteira de serviços
+Artigo 37.º-A
+
+Carteira de serviços
 
 As farmácias podem prestar os seguintes serviços farmacêuticos de promoção da saúde e do bem-estar dos utentes:
 
@@ -622,35 +734,47 @@ g) Campanhas de informação;
 
 h) Colaboração em programas de educação para a saúde.
 
-###### Artigo 37.º-B — Requisitos para a prestação de serviços
+Artigo 37.º-B
+
+Requisitos para a prestação de serviços
 
 1 - Os serviços referidos no artigo anterior têm de ser prestados nas condições legais e regulamentares e por profissionais legalmente habilitados.
 
 2 - Para a prestação dos serviços previstos nas alíneas b), c), d) e e) do artigo anterior, as farmácias devem dispor de instalações adequadas e autonomizadas.
 
-###### Artigo 37.º-C — Informação
+Artigo 37.º-C
+
+Informação
 
 1 - As farmácias que prestem serviços farmacêuticos devem divulgar o tipo de serviços e o respetivo preço, de forma visível, nas suas instalações.
 
 2 - As farmácias podem ainda divulgar os preços dos serviços farmacêuticos nos seus sítios na Internet.
 
-###### Artigo 37.º-D — Registo
+Artigo 37.º-D
+
+Registo
 
 1 - As farmácias devem registar os serviços farmacêuticos prestados, com referência ao tipo e à quantidade.
 
 2 - A informação referida no número anterior deve ser disponibilizada ao departamento da administração regional autónoma competente em matéria de saúde, sempre que solicitada.
 
-###### Artigo 54.º-A — Nulidade
+Artigo 54.º-A
+
+Nulidade
 
 1 - São nulos os negócios jurídicos celebrados contra o disposto neste diploma ou que produzam, ou possam produzir, um efeito prático idêntico ao que a lei quis proibir.
 
 2 - Incumbe ao Ministério Público, oficiosamente ou na sequência de iniciativa do departamento da administração regional autónoma competente em matéria de saúde ou da Inspeção Regional da Saúde, propor as ações de nulidade e requerer as providências que ao caso couberem, com vista a evitar que os negócios jurídicos celebrados em infração ou fraude à lei produzam efeitos.
 
-###### Artigo 54.º-B — Notários
+Artigo 54.º-B
+
+Notários
 
 Os notários devem comunicar ao departamento da administração regional autónoma competente em matéria de saúde todos os negócios jurídicos que, direta ou indiretamente, envolvam, no todo ou em parte, a alteração da propriedade, da exploração ou da gestão de uma farmácia.
 
-###### Artigo 54.º-C — Taxas
+Artigo 54.º-C
+
+Taxas
 
 1 - Os atos praticados pelo departamento da administração regional autónoma competente em matéria de saúde, ao abrigo do presente diploma, constituem encargos dos concorrentes ou requerentes e o respetivo pagamento é condição de prosseguimento dos procedimentos.
 
@@ -666,11 +790,15 @@ d) (euro) 1000 pela emissão de alvará;
 
 e) (euro) 500 pelo averbamento no alvará.
 
-###### Artigo 57.º-A — Comunicação eletrónica
+Artigo 57.º-A
+
+Comunicação eletrónica
 
 O requerimento para a abertura do procedimento concursal, a apresentação de candidaturas, a apresentação dos documentos, o pedido de aprovação da designação, o pedido de vistoria, o pedido de transferência, o pedido de transformação de posto farmacêutico em farmácia e os pagamentos e depósito no departamento da administração regional autónoma competente em matéria de saúde podem ser feitos no Portal do Governo Regional dos Açores e no Portal da Saúde, logo que exista um campo específico para o efeito.
 
-###### Artigo 57.º-B — Normas transitórias
+Artigo 57.º-B
+
+Normas transitórias
 
 1 - Os requisitos para o funcionamento de novas farmácias constantes do presente diploma, e da regulamentação subsequente, aplicam-se às farmácias existentes a partir do momento em que estas se transfiram para novas instalações.
 
@@ -696,11 +824,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de maio de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 11 de junho de 2012.**
+Assinado em Angra do Heroísmo em 11 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

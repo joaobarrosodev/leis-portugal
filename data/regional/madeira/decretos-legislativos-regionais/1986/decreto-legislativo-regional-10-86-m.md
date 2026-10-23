@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 134/1986, 1º Suplemento, Série I de 1986-06-14
   number: '134'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1406-(13) a 1406-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/06/13401/00130014.pdf
 entry_into_force_dates: []
@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1986-569907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e94e476b680c14931c835728ca2a9382b65a434102fb3dda68dc7161161d19e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e72c566b53e0f28e9a07aa6aab5aa8efdf6c92115dc30c0ab96a1074a78a50d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquitectura Paisagística
+- Construção Civil
+- Madeira.região Autónoma
+- Património Cultural
+- Planeamento Urbano
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:02Z'
   warnings: []
   errors: []
 ---
@@ -98,33 +103,33 @@ A Assembleia Regional da Madeira, ao abrigo das alíneas a) e b) do artigo 229.�
 
 ### CAPÍTULO I
 
-###### Artigo 1.º As construções, em zonas urbanas ou rurais, seja qual for a natureza ou fim a que se destinem, deverão ser delineadas, executadas e mantidas de forma que contribuam para a dignificação e valorização estética do conjunto em que venham a integrar-se, assegurando, de modo duradouro, as condições de estética mais adequadas à integração ambiental, sem comprometerem, pela aparência, o aspecto das povoações ou a beleza da paisagem.
+Artigo 1.º As construções, em zonas urbanas ou rurais, seja qual for a natureza ou fim a que se destinem, deverão ser delineadas, executadas e mantidas de forma que contribuam para a dignificação e valorização estética do conjunto em que venham a integrar-se, assegurando, de modo duradouro, as condições de estética mais adequadas à integração ambiental, sem comprometerem, pela aparência, o aspecto das povoações ou a beleza da paisagem.
 
-###### Art. 2.º - 1 - Os pedidos de licença para execução de obras, a apresentar às respectivas câmaras municipais, serão obrigatoriamente acompanhados de estudo cromático definindo as cores e os materiais a utilizar nos acabamentos exteriores e cobertura.
+Art. 2.º - 1 - Os pedidos de licença para execução de obras, a apresentar às respectivas câmaras municipais, serão obrigatoriamente acompanhados de estudo cromático definindo as cores e os materiais a utilizar nos acabamentos exteriores e cobertura.
 
 2 - O estudo cromático deverá visar a perfeita integração paisagística do edifício e empregar, preferencialmente, as cores tradicionais.
 
 3 - É nula e de nenhum efeito a deliberação camarária que autorize o licenciamento de obras sem observância do disposto no n.º 1.
 
-###### Art. 3.º - 1 - É proibida a utilização de azulejos e mosaicos no revestimento exterior dos edifícios.
+Art. 3.º - 1 - É proibida a utilização de azulejos e mosaicos no revestimento exterior dos edifícios.
 
 2 - Salvo caso de valor cultural reconhecido, nos prédios com revestimento exterior em azulejos, verificando-se se a necessidade de substituição destes em quantidade importante, é obrigatória a passagem para acabamento a pintura na sua totalidade.
 
-###### Art. 4.º É proibida a utilização de alumínio na cor natural e em cores de tonalidades não tradicionais no exterior dos edifícios, nomeadamente em caixilharias, tapa-sóis, portões e gradeamentos.
+Art. 4.º É proibida a utilização de alumínio na cor natural e em cores de tonalidades não tradicionais no exterior dos edifícios, nomeadamente em caixilharias, tapa-sóis, portões e gradeamentos.
 
-###### Art. 5.º - 1 - Os telhados das edificações deverão ser em telha na cor da argila tradicional ou em materiais cujo acabamento garanta tonalidades idênticas.
+Art. 5.º - 1 - Os telhados das edificações deverão ser em telha na cor da argila tradicional ou em materiais cujo acabamento garanta tonalidades idênticas.
 
 2 - Nas pequenas construções de apoio rural que não tenham a cobertura tradicional em restolho, o uso do zinco ou outros materiais é condicionado à obrigatoriedade da sua pintura nos tons definidos no número anterior.
 
-###### Art. 6.º Em casos excepcionais, devidamente fundamentados por razões de opção arquitectónica e sem que se desrespeitem os princípios do artigo 1.º, poderão admitir-se alterações às prescrições dos artigos 3.º, 4.º e 5.º Nesses casos, os projectos serão obrigatoriamente submetidos à apreciação dos serviços competentes do Governo Regional e condicionados ao seu parecer vinculativo.
+Art. 6.º Em casos excepcionais, devidamente fundamentados por razões de opção arquitectónica e sem que se desrespeitem os princípios do artigo 1.º, poderão admitir-se alterações às prescrições dos artigos 3.º, 4.º e 5.º Nesses casos, os projectos serão obrigatoriamente submetidos à apreciação dos serviços competentes do Governo Regional e condicionados ao seu parecer vinculativo.
 
 ### CAPÍTULO II
 
-###### Art. 7.º - 1 - A Direcção Regional de Habitação, Urbanismo e Ambiente (DRHUA), em colaboração com os municípios, procederá a um levantamento, a actualizar periodicamente, de todos os edifícios ainda por pintar e notificará de seguida os respectivos proprietários para que procedam à sua pintura num prazo de 180 dias, prorrogáveis por igual período nos casos devidamente justificados.
+Art. 7.º - 1 - A Direcção Regional de Habitação, Urbanismo e Ambiente (DRHUA), em colaboração com os municípios, procederá a um levantamento, a actualizar periodicamente, de todos os edifícios ainda por pintar e notificará de seguida os respectivos proprietários para que procedam à sua pintura num prazo de 180 dias, prorrogáveis por igual período nos casos devidamente justificados.
 
 2 - O mesmo procedimento será adoptado em relação aos edifícios cujo estado exterior venha constituindo um atentado à qualidade, higiene ou harmonia do ambiente.
 
-###### Art. 8.º - 1 - O incumprimento do conteúdo da notificação referida no artigo anterior constitui contra-ordenação punível com a coima de 10000$00 a 100000$00.
+Art. 8.º - 1 - O incumprimento do conteúdo da notificação referida no artigo anterior constitui contra-ordenação punível com a coima de 10000$00 a 100000$00.
 
 2 - É competente para aplicar as coimas referidas no número anterior o Secretário Regional do Equipamento Social.
 
@@ -132,12 +137,12 @@ A Assembleia Regional da Madeira, ao abrigo das alíneas a) e b) do artigo 229.�
 
 4 - O Governo Regional, através do departamento competente, pode substituir-se ao proprietário e, a expensas deste, executar os trabalhos, ressarcindo-se dos respectivos custos através dos meios legais de cobrança coerciva.
 
-###### Art. 9.º O presente diploma entra em vigor 30 dias após a sua publicação.
+Art. 9.º O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em sessão plenária de 7 de Maio de 1986.
 
-**O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 12 de Maio de 1986.**
+Assinado em 12 de Maio de 1986.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

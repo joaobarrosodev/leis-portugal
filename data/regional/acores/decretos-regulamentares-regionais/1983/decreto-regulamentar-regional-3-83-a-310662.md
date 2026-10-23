@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1983/02/03500/04510452.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1983-310662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9ec00598b10a451b56f9feab6a31977f51f8ee4612e476455f9b08fc30d75363
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 019bf601170adbe030b35e49022c0504ce60ee694b0ef26ceaa92b81ff226806
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ensino Preparatório
+- Estabelecimento de Ensino
 relationships:
 - type: amended_by
   target: pt:dre:603034:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:226595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473909:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241000:por
+  label: "Revogado pelo DRR.1/2004/A.10.12.2003.PG-RAA, DR.IS-B [9] de 12.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-2004-241000
+  date: '2003-12-10'
+- type: repealed_by
+  target: pt:dre:603034:por
+  label: "Revogado na parte em que se refere à Escola Preparatória de Canto da Maia, pelo DRR.2/2004/A.10.12.2003.PG-RAA,\
+    \ DR.IS-B [11] de 14.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2004-603034
+  date: '2003-12-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:59Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +147,9 @@ Tendo em atenção as disposições do [Decreto-Lei n.º 47480](https://diarioda
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinta em 1 de Outubro de 1983 a Escola Preparatória de Ponta Delgada.
+Artigo 1.º É extinta em 1 de Outubro de 1983 a Escola Preparatória de Ponta Delgada.
 
-###### Art. 2.º - 1 - São criadas na cidade de Ponta Delgada, e entram em funcionamento a partir de 1 de Outubro de 1983, as seguintes escolas preparatórias:
+Art. 2.º - 1 - São criadas na cidade de Ponta Delgada, e entram em funcionamento a partir de 1 de Outubro de 1983, as seguintes escolas preparatórias:
 
 a) Escola Preparatória de Roberto Ivens, sita à Rua do Mercado;
 
@@ -107,7 +157,7 @@ b) Escola Preparatória de Canto da Maia, sita à Rua de Antero de Quental.
 
 2 - Os quadros de pessoal docente, administrativo e auxiliar das escolas a que se refere o número anterior são os que constam respectivamente dos mapas 1, 2 e 3 anexos a este diploma.
 
-###### Art. 3.º - 1 - O pessoal docente que se encontre provido no quadro da Escola Preparatória de Ponta Delgada será provido nos quadros das Escolas Preparatórias de Roberto Ivens ou de Canto da Maia, de acordo com os seguintes critérios, por ordem de prioridades:
+Art. 3.º - 1 - O pessoal docente que se encontre provido no quadro da Escola Preparatória de Ponta Delgada será provido nos quadros das Escolas Preparatórias de Roberto Ivens ou de Canto da Maia, de acordo com os seguintes critérios, por ordem de prioridades:
 
 a) Opção apresentada pelos interessados em declaração passada em papel selado e com assinatura reconhecida notarialmente;
 
@@ -129,40 +179,40 @@ c) Em caso de empate resultante da aplicação da alínea anterior, preferirão:
 
 3 - A opção a que se refere a alínea a) do n.º 1 deverá ser feita no prazo máximo de 30 dias, a contar da data da publicação do presente diploma.
 
-###### Art. 4.º Os professores contratados plurianualmente na Escola Preparatória de Ponta Delgada ao abrigo do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), de 31 de Dezembro, consideram-se, para todos os efeitos legais e independentemente de quaisquer formalidades legais, contratados plurianualmente na Escola Preparatória de Canto da Maia.
+Art. 4.º Os professores contratados plurianualmente na Escola Preparatória de Ponta Delgada ao abrigo do [Decreto-Lei n.º 580/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/580-1980-226595), de 31 de Dezembro, consideram-se, para todos os efeitos legais e independentemente de quaisquer formalidades legais, contratados plurianualmente na Escola Preparatória de Canto da Maia.
 
-###### Art. 5.º - 1 - O provimento dos lugares do quadro do pessoal administrativo e do pessoal operário a auxiliar far-se-á, com as necessárias adaptações, conforme o disposto no artigo 3.º
+Art. 5.º - 1 - O provimento dos lugares do quadro do pessoal administrativo e do pessoal operário a auxiliar far-se-á, com as necessárias adaptações, conforme o disposto no artigo 3.º
 
 2 - Aplicam-se ao pessoal administrativo as disposições do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), de 24 de Julho, e com as adaptações constantes do Decreto Regulamentar Regional n.º 17/81/A, de 25 de Fevereiro.
 
 3 - O pessoal operário e auxiliar integra-se nas carreiras constantes do mapa 3 anexo, reguladas pelo [Decreto Regulamentar Regional n.º 25/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1981-388990), de 15 de Abril, e legislação complementar, bem como pelas normas dos Decretos Regulamentares Regionais n.os [21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909) e [44/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1980-461857), respectivamente de 14 de Maio e 23 de Setembro, e demais legislação subsequente.
 
-###### Art. 6.º Ao pessoal referido nos artigos 3.º, 4.º e 5.º é considerado, para todos os efeitos legais, o tempo de serviço prestado na Escola Preparatória de Ponta Delgada como tendo sido prestado no quadro das escolas onde, nos termos do presente diploma, venham a ser providos.
+Art. 6.º Ao pessoal referido nos artigos 3.º, 4.º e 5.º é considerado, para todos os efeitos legais, o tempo de serviço prestado na Escola Preparatória de Ponta Delgada como tendo sido prestado no quadro das escolas onde, nos termos do presente diploma, venham a ser providos.
 
-###### Art. 7.º Os alunos do ensino preparatório que no ano escolar de 1983-1984 deveriam frequentar a Escola Preparatória de Ponta Delgada são distribuídos pelas 2 escolas preparatórias a que se refere o artigo 2.º, em conformidade com as disposições legais sobre a matéria.
+Art. 7.º Os alunos do ensino preparatório que no ano escolar de 1983-1984 deveriam frequentar a Escola Preparatória de Ponta Delgada são distribuídos pelas 2 escolas preparatórias a que se refere o artigo 2.º, em conformidade com as disposições legais sobre a matéria.
 
-###### Art. 8.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura, consoante a sua natureza.
+Art. 8.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto dos Secretários Regionais das Finanças, da Administração Pública e da Educação e Cultura, consoante a sua natureza.
 
-###### Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 9 de Dezembro de 1982.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 25 de Janeiro de 1983.**
+Assinado em Angra do Heroísmo em 25 de Janeiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 MAPA N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03500/04510452.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03500/04510452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03500/04510452.pdf)
 
 MAPA N.º 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03500/04510452.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03500/04510452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03500/04510452.pdf)
 
 MAPA N.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03500/04510452.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03500/04510452.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03500/04510452.pdf)

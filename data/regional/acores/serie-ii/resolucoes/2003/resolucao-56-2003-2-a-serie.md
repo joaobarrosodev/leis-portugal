@@ -4,8 +4,8 @@ id: pt:dre:1410576:por
 title: Resolução n.º 56/2003 (2.ª série)
 short_title: null
 summary: null
-jurisdiction: regional
-territory: acores
+jurisdiction: portugal
+territory: null
 document_type: resolucao
 document_type_label: Resolução
 issuing_authority:
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2003/08/179000000/1184211843.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/56-2003-1410576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef25b26bf919d2fac48e0cd7e18e8901622daea21210bc5a18563dad7029c6c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec7251514b2dcf0dbaa4079de851df3baf5ac3c1f764f4719534fbe9e05ef3aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:212597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567707:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:24Z'
   warnings: []
   errors: []
 ---
@@ -100,8 +136,8 @@ Nos termos do n.º 5 do artigo 15.º da [Lei n.º 108/88](https://diariodarepubl
 
 ## ANEXO I — Lugares a extinguir
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/08/179000000/1184211843.pdf))](https://files.diariodarepublica.pt/2s/2003/08/179000000/1184211843.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/08/179000000/1184211843.pdf)
 
 ## ANEXO II — Lugares a criar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2003/08/179000000/1184211843.pdf))](https://files.diariodarepublica.pt/2s/2003/08/179000000/1184211843.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2003/08/179000000/1184211843.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/05/125b00/25142517.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2000/05/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2000-292945
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 086161de511535d87eef0e9cd82dd58642f2313fd8f415568896634bd7c9c1e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca8542a12f5d4ab7b07710d64e462554ad8c6e956ccf8bfe936d6d1eeebfd0e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,37 +66,82 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Catástrofe
+- Direcção Regional da Cultura
 - Financiamento
+- Fiscalização
 - Imóvel Classificado
 - Obras de Conservação e Restauro
-- Direcção Regional da Cultura
 - Património Cultural
-- Fiscalização
-- Catástrofe
 - Protecção do Património
 - Reembolso
 - Relatório
-- Açores
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:70835506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:479598:por
+  label: "Mantido temporariamente em vigor o regime de incentivos aprovado pelo presente diploma, até à entrada em vigor do\
+    \ diploma previsto no nº 1 do art. 51º do DLR.29/2004/A.16.07.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004, \0, \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2004-479598
+  date: '2004-07-16'
+- type: amended_by
+  target: pt:dre:226459:por
+  label: Alterado o art. 3º e rectificados os nºs. 1 e 4 do art. 14º do presente diploma, pelo DRR.15/2005/A.30.05.2005.PG-RAA,
+    DR.IS-B [118] de 22.06.2005
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2005-226459
+  date: '2005-05-30'
+- type: amended_by
+  target: pt:dre:642006:por
+  label: "Alterado o art. 18º e republicado o presente diploma, com todas as alterações, pelo DRR.20/2007/A.16.10.2007.GR-RAA,\
+    \ DR.IS [199] de 16.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2007-642006
+  date: '2007-10-16'
+- type: amended_by
+  target: pt:dre:455887:por
+  label: "Alterados os arts. 4.º e 5.º e republicado o presente diploma, pelo DRR.16/2008/A.07.07.2008.PG-RAA, DR.IS [129]\
+    \ de 07.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2008-455887
+  date: '2008-07-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/29/1991/09/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/29/1991/09/27/a/dre
+- type: cites
+  target: pt:dre:292925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393038:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678651:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70835506:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 23/2015/A - Diário da República n.º 212/2015, Série I de 2015-10-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2015-70835506
+  date: '2015-10-29'
 article_structure:
   article_count: 23
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:13Z'
   warnings: []
   errors: []
 ---
@@ -315,10 +360,10 @@ Os apoios a que se refere este diploma não podem ser cumulados com outros atrib
 
 Aprovado em Conselho do Governo Regional, na Horta, em 4 de Abril de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 2 de Maio de 2000.**
+Assinado em Angra do Heroísmo em 2 de Maio de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

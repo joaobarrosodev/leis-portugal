@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/01/02600/00920095.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1980-692593
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7704e83ff4c859d44d1b88a52b326601ec22f135fe28948f9fb46b33019cdc61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 946285486862bab46b5155d0074d52cd57a88f5e21a3af7fdbb855c1809ae42b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Espécie Protegida
+- Multa
+- Ordenamento do Território
+- Proteção do Ambiente
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:439169:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439169:por
+  label: "Revogado o presente diploma, reclassificada e integrada no Parque Natural da Ilha do Faial, a Paisagem Protegida\
+    \ do Monte da Guia pelo DLR.46/2008/A.07.11.2008.AL-RAA, DR.IS [217] de 07.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/46-2008-439169
+  date: '2008-11-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:06Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +112,9 @@ Estas características impõem medidas destinadas a preservar todo este conjunto
 
 Assim, nos termos do artigo 229.º da Constituição, a Assembleia Regional dos Açores decreta o seguinte:
 
-###### Artigo 1.º Pelo presente diploma é criada e definida a zona de paisagem protegida do Monte da Guia.
+Artigo 1.º Pelo presente diploma é criada e definida a zona de paisagem protegida do Monte da Guia.
 
-###### Art. 2.º A zona referida no artigo anterior tem os seguintes limites:
+Art. 2.º A zona referida no artigo anterior tem os seguintes limites:
 
 a) Este, sul e oeste, pela linha de costa com o oceano Atlântico, sendo do lado oeste, mais particularmente, pela linha de costa da baía do Porto Pim, percorrendo-a no sentido contrário ao dos ponteiros do relógio até ao forte de S. Sebastião, incluindo o limite exterior das muralhas deste;
 
@@ -116,7 +132,7 @@ g) Desse ponto de intercepção, e no sentido oeste-este, segue pela perpendicul
 
 2 - Os limites da paisagem protegida descritos no número anterior vão demarcados no mapa anexo ao presente decreto, e que dele faz parte integrante.
 
-###### Art. 3.º - 1 - Anexa à zona definida no artigo anterior será considerada mais uma zona, para a qual se estabelecerão medidas preventivas, em face da sua proximidade da paisagem protegida do Monte da Guia.
+Art. 3.º - 1 - Anexa à zona definida no artigo anterior será considerada mais uma zona, para a qual se estabelecerão medidas preventivas, em face da sua proximidade da paisagem protegida do Monte da Guia.
 
 2 - Esta zona considera-se como zona de construção condicionada e tem os limites seguintes:
 
@@ -134,7 +150,7 @@ f) Segue uma linha recta que liga esse segundo vértice com o ponto de intercep�
 
 g) Percorre em sentido contrário a linha definida nas alíneas e), d), c) e b) do artigo anterior até atingir novamente o ponto de intercepção definido na alínea b) deste artigo.
 
-###### Art. 4.º - 1 - Fica dependente da Secretaria Regional do Equipamento Social, dentro do perímetro da paisagem protegida do Monte da Guia, bem como da zona descrita no artigo 3.º deste decreto regional, a autorização para a realização dos seguintes trabalhos:
+Art. 4.º - 1 - Fica dependente da Secretaria Regional do Equipamento Social, dentro do perímetro da paisagem protegida do Monte da Guia, bem como da zona descrita no artigo 3.º deste decreto regional, a autorização para a realização dos seguintes trabalhos:
 
 a) Construção, reconstrução, ampliação, alteração ou demolição de edifícios e outras instalações de carácter público ou privado;
 
@@ -160,7 +176,7 @@ h) Caça e pesca enquanto não existam regulamentos superiormente aprovados que 
 
 3 - As autorizações a que se referem os números anteriores deste artigo não dispensam quaisquer outros condicionalismos exigidos por lei.
 
-###### Art. 5.º São consideradas contravenções:
+Art. 5.º São consideradas contravenções:
 
 a) A realização de quaisquer trabalhos, obras ou actividades, em terrenos abrangidos pela paisagem protegida, bem como da zona descrita no artigo 3.º, sem a autorização da Secretaria Regional do Equipamento Social;
 
@@ -178,7 +194,7 @@ g) O depósito de materiais ou qualquer outra alteração de relevo;
 
 h) A introdução, na zona de paisagem protegida, de animais não domésticos e de espécies vegetais exóticas, quando não superiormente autorizada, bem como a destruição ou colheita de plantas endémicas ou daquelas cujo habitat nos Açores está confinado, exclusivamente ou quase, à zona do Monte da Guia.
 
-###### Art. 6.º - 1 - As contravenções previstas no artigo 5.º, sem prejuízo de outras sanções aplicáveis, são punidas:
+Art. 6.º - 1 - As contravenções previstas no artigo 5.º, sem prejuízo de outras sanções aplicáveis, são punidas:
 
 a) Com multa de 500$00 a 10000$00 as previstas nas alíneas a), b), f) e g);
 
@@ -192,36 +208,36 @@ d) Com o máximo de multas previstas nas alíneas anteriores, respectivamente, e
 
 3 - Se o infractor se recusar a demolir as obras ou trabalhos efectuados, depois de para tal notificado, mandar-se-á proceder à demolição e aos trabalhos que para o efeito se tornem necessários, apresentando a relação das despesas para cobrança ao infractor, e recorrendo aos tribunais sempre que precisa cobrança coerciva.
 
-###### Art. 7.º - 1 - As funções de policiamento e fiscalização, dentro do perímetro da paisagem protegida do Monte da Guia, competem aos guardas florestais, à câmara municipal e ao corpo de vigilantes privativos da paisagem protegida.
+Art. 7.º - 1 - As funções de policiamento e fiscalização, dentro do perímetro da paisagem protegida do Monte da Guia, competem aos guardas florestais, à câmara municipal e ao corpo de vigilantes privativos da paisagem protegida.
 
 2 - Os autos de notícia por infracção ao disposto no presente decreto regional serão levantados e processados, nos termos dos artigos 166.º e 167.º do Código de Processo Penal, sem prejuízo de outras disposições legais aplicáveis.
 
-###### Art. 8.º - 1 - É aplicável às obras e trabalhos efectuados com inobservância do preceituado no artigo 4.º o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+Art. 8.º - 1 - É aplicável às obras e trabalhos efectuados com inobservância do preceituado no artigo 4.º o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
 2 - São nulas as licenças, municipais ou outras, concedidas com violação do regime instituído neste diploma.
 
-###### Art. 9.º As despesas emergentes da execução do presente diploma serão suportadas pelo orçamento da Secretaria Regional do Equipamento Social.
+Art. 9.º As despesas emergentes da execução do presente diploma serão suportadas pelo orçamento da Secretaria Regional do Equipamento Social.
 
-###### Art. 10.º O Governo Regional deverá, pelos canais competentes, estabelecer protocolos de acordo com as autoridades militares que tenham interesse funcional nas zonas a proteger pelo presente diploma, de maneira a assegurar a plena eficácia das medidas nele estabelecidas.
+Art. 10.º O Governo Regional deverá, pelos canais competentes, estabelecer protocolos de acordo com as autoridades militares que tenham interesse funcional nas zonas a proteger pelo presente diploma, de maneira a assegurar a plena eficácia das medidas nele estabelecidas.
 
-###### Art. 11.º Serão aprovados por decreto regulamentar regional os sinais indicativos de proibições, permissões e condicionamentos previstos neste diploma, para os quais existem já modelos legalmente estabelecidos.
+Art. 11.º Serão aprovados por decreto regulamentar regional os sinais indicativos de proibições, permissões e condicionamentos previstos neste diploma, para os quais existem já modelos legalmente estabelecidos.
 
-###### Art. 12.º - 1 - No prazo de seis meses, a contar da data de publicação do presente decreto regional, deverá ser elaborado o projecto de ordenamento da paisagem protegida do Monte da Guia, bem como da zona descrita no artigo 3.º, por um grupo de trabalho nomeado pelo Secretário Regional do Equipamento Social, do qual farão parte representantes da Secretaria Regional de Educação e Cultura, da Secretaria Regional da Agricultura e Pescas e da Secretaria Regional dos Transportes e Turismo.
+Art. 12.º - 1 - No prazo de seis meses, a contar da data de publicação do presente decreto regional, deverá ser elaborado o projecto de ordenamento da paisagem protegida do Monte da Guia, bem como da zona descrita no artigo 3.º, por um grupo de trabalho nomeado pelo Secretário Regional do Equipamento Social, do qual farão parte representantes da Secretaria Regional de Educação e Cultura, da Secretaria Regional da Agricultura e Pescas e da Secretaria Regional dos Transportes e Turismo.
 
 2 - Com a aprovação do projecto referido no n.º 1 deste artigo ficam definidas as servidões e as restrições administrativas a que devem sujeitar-se os terrenos e os bens compreendidos nas áreas ali referidas.
 
 3 - Os projectos de que sejam objecto as áreas que vierem a ser definidos como reserva de recreio, bem como para qualquer fim de natureza diferente, deverão prever a integração na paisagem, a resolução dos problemas de estabilização biofísica por processos integráveis com base na vegetação clímax ou tradicional, a valorização e a protecção dos elementos físicos naturais, a valorização estética e ambiental, assim como a integração na plástica urbana circundante, para o caso específico da área definida no artigo 3.º
 
-###### Art. 13.º Até à entrada em vigor do decreto que regulamentar o presente diploma, a paisagem protegida do Monte da Guia será administrada por uma comissão presidida por um representante da Secretaria Regional do Equipamento Social, a designar pelo Secretário Regional, e integrada por um representante da Direcção Regional dos Serviços Florestais, um da Direcção Regional dos Serviços Agrícolas, um da Direcção Regional de Obras Públicas e Equipamento, um da Direcção Regional do Turismo, um da Câmara Municipal da Horta e um da Junta de Freguesia das Angústias.
+Art. 13.º Até à entrada em vigor do decreto que regulamentar o presente diploma, a paisagem protegida do Monte da Guia será administrada por uma comissão presidida por um representante da Secretaria Regional do Equipamento Social, a designar pelo Secretário Regional, e integrada por um representante da Direcção Regional dos Serviços Florestais, um da Direcção Regional dos Serviços Agrícolas, um da Direcção Regional de Obras Públicas e Equipamento, um da Direcção Regional do Turismo, um da Câmara Municipal da Horta e um da Junta de Freguesia das Angústias.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 8 de Novembro de 1979.
 
-**O Presidente da Assembleia Regional, Álvaro Monjardino.**
+O Presidente da Assembleia Regional, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 4 de Janeiro de 1980.**
+Assinado em Angra do Heroísmo em 4 de Janeiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/02600/00920095.pdf))](https://files.diariodarepublica.pt/1s/1980/01/02600/00920095.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/01/02600/00920095.pdf)

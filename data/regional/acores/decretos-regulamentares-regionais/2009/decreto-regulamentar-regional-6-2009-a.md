@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2009/06/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2009-494223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdb9676faee4d8f4c4e170daf1657009dbe11b08c4e38eb65786438a9d48294a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9529b188c9120db8a0fc14709b27543b1dbb3aac763e226c9cab4040e879b6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
-- Recrutamento de Pessoal
+- Ensino Básico
 - Ensino Secundário
 - Pessoal não Docente
-- Ensino Básico
 - Quadro de Pessoal
-- Açores
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:178832:por
@@ -94,16 +94,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/14/2007/07/13/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/14/2007/07/13/a/dre
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667771:por
+  label: null
+  source: null
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:39Z'
   warnings: []
   errors: []
 ---
@@ -134,26 +150,26 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Madalena, Pico, em 6 de Maio de 2009.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 21 de Maio de 2009.**
+Assinado em Angra do Heroísmo em 21 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
 ## ANEXO I — EBI de Ginetes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf)
 
 ## ANEXO II — EBI da Maia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf)
 
 ## ANEXO III — EBS da Povoação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf)
 
 ## ANEXO IV — EBS Tomás de Borba
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10900/0351703519.pdf)

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 96/1989, 1º Suplemento, Série I de 1989-04-26
   number: '96'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1772-(2) a 1772-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/09601/00020005.pdf
 entry_into_force_dates: []
@@ -46,36 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1989-385654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d207ba7d5c0548db8d9d85d7aa68291633b0baf3972b0ea651ce823e8ac39c1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a5e6481a4d6644a898639d4af83c70be40b8ecec9406168e890b23aa8e13316
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+relationships:
+- type: cites
+  target: pt:dre:194799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
 article_structure:
   article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:22Z'
   warnings: []
   errors: []
 ---
@@ -272,7 +298,7 @@ Só poderão celebrar-se contratos ou, de qualquer outra forma, contrair encargo
 
 ###### Artigo 21.º — Regulamentação
 
-**O Secretário Regional das Finanças e Planeamento emitirá os regulamentos que se mostrem necessários à execução do presente diploma.**
+O Secretário Regional das Finanças e Planeamento emitirá os regulamentos que se mostrem necessários à execução do presente diploma.
 
 ###### Artigo 22.º — Produção de efeitos
 
@@ -280,10 +306,10 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1989.
 
 Aprovado em Conselho em Ponta Delgada em 22 de Março de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 19 de Abril de 1989.**
+Assinado em Angra do Heroísmo em 19 de Abril de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

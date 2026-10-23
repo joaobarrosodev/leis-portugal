@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07400/0227002275.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/418/2009/04/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-2009-603885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f58578616a03fc3eea89308b8385f622aac752d4a85d72594deaa012863b48fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 473ffd0ee063d2a02430906d1f0dcb555ce6c9ee8be6513afe0dc705659bb450
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estabelecimento Comercial
+- Comércio
 - Comércio a Retalho
 - Especificação Técnica
+- Estabelecimento Comercial
 - Instalação de Serviços
 - Projeto
 - Regime Jurídico
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:66229856:por
@@ -83,16 +83,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/21/2009/01/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/21/2009/01/19/p/dre
+- type: cites
+  target: pt:dre:602685:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66229856:por
+  label: Revogada, a partir de 01.03.2015, pelo(a) Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/10-2015-66229856
+  date: '2015-01-16'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:04Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +160,7 @@ D - corresponde à pontuação obtida pela aplicação dos parâmetros definidos
 
 A presente portaria entra em vigor à data da entrada em vigor do [Decreto-Lei n.º 21/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2009-602685), de 19 de Janeiro.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 9 de Abril de 2009.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 9 de Abril de 2009.
 
 ## ANEXO I — Regras técnicas para o cálculo dos parâmetros de apreciação dos processos relativos aos estabelecimentos de comércio alimentar e misto
 

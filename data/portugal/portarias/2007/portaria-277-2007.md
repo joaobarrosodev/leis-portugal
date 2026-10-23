@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/277/2007/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/277-2007-518421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cbb1c6c3f6b121c02594bb57f2f271f2c17249e0491aa4eb9cd41480f533185
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22bd78e67e5d41a8730a0d0f297709629d478c326b1eeb880d82d3b0108a18af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Fundo de Investimento para o Cinema e Audiovisual
-- Gestão Financeira
+- Apoio ao Investimento
 - Concurso
 - Definição de Competências
-- Produção Cinematográfica
-- Apoio ao Investimento
+- Fundo de Investimento para o Cinema e Audiovisual
+- Gestão Financeira
 - ICAM
 - Indústria Cinematográfica
+- Produção Cinematográfica
 - Regulamento de Gestão
 - Sociedade Gestora de Fundos de Investimento
 relationships:
@@ -83,13 +83,13 @@ relationships:
 article_structure:
   article_count: 36
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:26Z'
   warnings: []
   errors: []
 ---

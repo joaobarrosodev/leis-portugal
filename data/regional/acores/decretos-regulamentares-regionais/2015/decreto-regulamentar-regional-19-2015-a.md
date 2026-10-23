@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/21000/0928309285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2015/10/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2015-70819832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 475aabf179f47a5c4b8c63d66b080c049fe3f72cea91afe662a830e0c92988c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cbb56205dc0c0c6336b5f240659a4d50340eb7f7be425ccdcd144ac78bd5ba5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ILHA Terceira
 - Património Arqueológico
 - Património Subaquático
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/27/2004/08/24/a/dre
@@ -83,16 +83,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/20/2005/10/12/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/20/2005/10/12/a/dre
+- type: cites
+  target: pt:dre:156176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:18Z'
   warnings: []
   errors: []
 ---
@@ -125,17 +137,23 @@ Os artigos 3.º, 4.º, 5.º e 6.º do [Decreto Regulamentar Regional n.º 20/200
 
 3. [Revogado]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1. [...]
 
 2. Não é permitida a ancoragem de embarcações, boias ou quaisquer outras estruturas, na área adjacente ao Monte Brasil, até ao afastamento de 1/10 de milha náutica, ou 185 metros, a nascente do mesmo e desde a Ponta do Farol até ao Cais da Figueirinha, e na Baía da Prainha, entre as cotas 0 e -10 metros.
 
-###### Artigo 5.º — Recolha de bens
+Artigo 5.º
+
+Recolha de bens
 
 No interior do Parque Arqueológico Subaquático da Baía de Angra do Heroísmo a recolha de material arqueológico ou de quaisquer bens integrados no património cultural subaquático só é permitida no âmbito de trabalhos arqueológicos subaquáticos devidamente licenciados pelo departamento da administração regional autónoma competente em matéria de cultura, em conformidade com o disposto no [Decreto Legislativo Regional n.º 27/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2004-479595), de 24 de agosto, na redação que lhe foi dada pelo [Decreto Legislativo Regional n.º 8/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2006-666921), de 10 de março.
 
-###### Artigo 6.º — Regime contraordenacional
+Artigo 6.º
+
+Regime contraordenacional
 
 As contravenções ao disposto no presente diploma em matéria de arqueologia e visitação são puníveis nos termos do artigo 36.º-C, do [Decreto Legislativo Regional n.º 27/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2004-479595), de 24 de agosto, na redação que lhe foi dada pelo [Decreto Legislativo Regional n.º 8/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2006-666921), de 10 de março.»
 
@@ -159,11 +177,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 7 de setembro de 2015.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 1 de outubro de 2015.**
+Assinado em Angra do Heroísmo em 1 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -205,4 +223,4 @@ As contravenções ao disposto no presente diploma em matéria de arqueologia e 
 
 A fiscalização do Parque Subaquático da Baía de Angra do Heroísmo rege-se pelo disposto no artigo 36.º-B do [Decreto Legislativo Regional n.º 27/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2004-479595), de 24 de agosto, na redação que lhe foi dada pelo [Decreto Legislativo Regional n.º 8/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2006-666921), de 10 de março.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2015/10/21000/0928309285.pdf))](https://files.diariodarepublica.pt/1s/2015/10/21000/0928309285.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2015/10/21000/0928309285.pdf)

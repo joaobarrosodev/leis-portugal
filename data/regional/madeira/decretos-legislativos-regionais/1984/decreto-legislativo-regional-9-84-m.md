@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1984-385471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a67af6e86c7b05b80a601e37e95b32e49b96151cd27d2ec15dc445fca80883d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbdd39c53f8cdca4ca5c7cf16af409b30b43d1a19429984a0a0a45cf2ca7d3ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Emigrante
+- Importação
+- Madeira.região Autónoma
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:453814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462209:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:55Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +110,9 @@ Nestes termos:
 
 A Assembleia Regional da Madeira decreta, ao abrigo do disposto na alínea a) do artigo 229.º da Constituição da República, o seguinte:
 
-###### Artigo 1.º O artigo 7.º do [Decreto Legislativo Regional n.º 8/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1983-453814), de 22 de Julho, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 7.º do [Decreto Legislativo Regional n.º 8/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1983-453814), de 22 de Julho, passa a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - O regime legal presentemente consignado aplicar-se-á também aos veículos de emigrantes já entrados no País em data anterior à entrada em vigor do presente diploma.
+Art. 7.º - 1 - O regime legal presentemente consignado aplicar-se-á também aos veículos de emigrantes já entrados no País em data anterior à entrada em vigor do presente diploma.
 
 2 - Para os efeitos previstos no número precedente - isto é, para os veículos cuja entrada no País seja anterior ao início de vigência do diploma em referência -, não deverá contudo resultar:
 
@@ -110,12 +122,12 @@ b) A concessão da regalia fiscal prevista no n.º 2 do artigo 1.º do [Decreto-
 
 3 - Para os veículos de emigrantes em situação irregular e que não se contenham dentro dos limites temporais e benefícios fiscais estipulados no presente diploma é fixado o prazo de 6 meses, contado a partir da entrada em vigor da presente alteração legislativa, para que procedam à respectiva regularização.
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor.
+Art. 2.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária em 23 de Maio de 1984.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 16 de Junho de 1984.**
+Assinado em 16 de Junho de 1984.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

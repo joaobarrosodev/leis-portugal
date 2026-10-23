@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/09300/0297202973.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/510/2009/05/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/510-2009-608716
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90dde177dcea72e69272377f47f1993fef677ace293cb9748455944071eaa50f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83c63c1264f25d338a00cc357a9296514e9ecebeec5171f52f4271b2f88d750c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto
-- Orgânica
 - Instituto Português de Apoio ao Desenvolvimento
 - Ministério dos Negócios Estrangeiros
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:178819:por
@@ -95,16 +95,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/510/2007/04/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/510/2007/04/30/p/dre
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178819:por
+  label: "Revogada a Port 510/2007, de 30-abr, na redação da presente portaria, pela PORT.194/2012.20.06.2012.MF, DR.IS [118]\
+    \ de 20.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/194-2012-178819
+  date: '2012-06-20'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:42Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +163,9 @@ e) ...
 
 f) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 À Direcção de Serviços de Cooperação Geográfica II compete identificar, analisar, propor e acompanhar a execução dos programas, projectos e acções de cooperação e ajuda pública ao desenvolvimento na Ásia e noutros continentes, bem como a ajuda de emergência e humanitária e o apoio à sociedade civil, e ainda a actividade dos agentes da cooperação e, em especial:
 
@@ -181,4 +205,4 @@ São revogadas as alíneas p), q) e r) do artigo 6.º dos Estatutos do Instituto
 
 O disposto na presente portaria entra em vigor no dia seguinte à sua publicação.
 
-**O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 17 de Março de 2009. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Abril de 2009.**
+O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado, em 17 de Março de 2009. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 22 de Abril de 2009.

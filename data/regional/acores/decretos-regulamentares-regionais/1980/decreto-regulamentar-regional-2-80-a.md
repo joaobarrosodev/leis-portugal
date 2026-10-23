@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/02/03000/01170118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1980-693006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e571a311ef963c8a191038219702662b6c891eb9563ac0ed25e8399f432f2e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25dc98af0bc5552f1b6acd4217f2e62f41a4922eabd077d3b6e074081e342ff9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Quadro de Pessoal
+- Secretaria Regional da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:522648:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:460810:por
+  label: "Acrescentado um lugar de terceiro-oficial, na delegação da Horta, do quadro do pessoal a que se refere o artigo\
+    \ único do presente diploma, pelo DRR.43/80/A.17.07.1980.GR-RAA, DR.IS [211] de 12.09.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/43-1980-460810
+  date: '1980-07-17'
+- type: cites
+  target: pt:dre:250848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369824:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:678821:por
+  label: Rectificado pela DECL.DD6761.25.02.1980.PCM, DR.IS [56] de 07.03.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-678821
+  date: '1980-02-25'
+- type: repealed_by
+  target: pt:dre:561599:por
+  label: "Revogado pelo DRR.45/81/A.1981.10.07.GR-RAA, DR.IS [230]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/45-1981-561599
+  date: '1981-10-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:05Z'
   warnings: []
   errors: []
 ---
@@ -90,20 +117,20 @@ Verificando-se a necessidade de se proceder à alteração do quadro de pessoal 
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. O quadro de pessoal a que se refere o n.º 2 do artigo 70.º do [Decreto Regulamentar Regional n.º 22/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1977-250848), de 19 de Julho, passa a ter a composição constante do quadro anexo ao presente diploma.
+Artigo único. O quadro de pessoal a que se refere o n.º 2 do artigo 70.º do [Decreto Regulamentar Regional n.º 22/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1977-250848), de 19 de Julho, passa a ter a composição constante do quadro anexo ao presente diploma.
 
 Aprovado pelo Governo Regional em 19 de Dezembro de 1979.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 15 de Janeiro de 1980.**
+Assinado em Angra do Heroísmo em 15 de Janeiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 Secretaria Regional da Administração Pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/03000/01170118.pdf))](https://files.diariodarepublica.pt/1s/1980/02/03000/01170118.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/02/03000/01170118.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

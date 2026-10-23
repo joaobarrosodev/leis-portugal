@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/075b00/12771285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2000/03/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2000-508988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb015ff2037947a9d7a64606345faaaf4531e2e8f38f85bf73fd5c396649baa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38bd66ef3782983d0832442f503c0e44c22e634459efbdb767aabae56a6c6a5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Autonomia Administrativa
-- Definição de Competências
 - Carreira Profissional
+- Definição de Competências
 - Fiscalização
-- Pesca
 - Inspecção Regional das Pescas
-- Recrutamento de Pessoal
 - Orgânica
+- Pesca
 - Pessoal de Inspecção
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Secretaria Regional da Agricultura e Pescas
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:520817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476731:por
+  label: "Alterados os arts. 3&#186;, 4&#186; e 10&#186; pelo DRR.29/2003/A.26.09.2003.PG-RAA, DR.IS-B [245] de 22.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-2003-476731
+  date: '2000-03-29'
+- type: amended_by
+  target: pt:dre:626577:por
+  label: "Alterados os arts. 8º, 13º, 15º, 19º, 20º, 22º, 23º, 25º, 28º e 30º, revogados os arts, 14º, 16º, 17º, 18º e 29º,\
+    \ aditados dois novos artigos, os arts. 18º e 19º e alterado o quadro de pessoal constante do Anexo I, pelo DRR.25/2002/A.2002.06.25.PG-RAA,\
+    \ e republica na integra o presente diploma com as alterações introduzidas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2002-626577
+  date: '2002-06-25'
+- type: amended_by
+  target: pt:dre:517379:por
+  label: "Alterado o quadro de pessoal constante do presente diploma, na redacção do DRR 25/2002/A, de 31-Ago, pelo DRR.25/2004/A.08.06.2004.PG-RAA,\
+    \ DR.IS-B [157] de 06.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2004-517379
+  date: '2004-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/154/1992/07/25/p/dre
   label: null
@@ -114,16 +133,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/13/1998/05/12/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/13/1998/05/12/a/dre
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305260:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667910:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520817:por
+  label: "Revogado a partir de 17.05.2007 pelo DRR.13/2007/A.24.04.2007.PG-RAA, DR.IS [94] de 16.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2007-520817
+  date: '2007-04-24'
 article_structure:
   article_count: 32
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:12Z'
   warnings: []
   errors: []
 ---
@@ -334,7 +398,9 @@ e) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pelo seu pres
 
 5 - O regulamento interno do CC está sujeito a homologação do Secretário Regional da Agricultura e Pescas.
 
-###### Artigo 11.º — Divisão de Fiscalização da Pesca e da Qualidade dos Produtos
+###### Artigo 11.º
+
+##### Divisão de Fiscalização da Pesca e da Qualidade dos Produtos
 
 1 - À DFPQP, no âmbito das acções de fiscalização e controlo da pesca, compete:
 
@@ -372,7 +438,9 @@ f) Levantar autos de notícia pelas infracções verificadas no exercício da su
 
 3 - À DFPQP compete ainda disponibilizar a informação estatística relativa ao controlo da pesca e da qualidade dos produtos, assegurando os adequados sistemas de segurança e confidencialidade dos dados.
 
-###### Artigo 12.º — Divisão de Apoio Jurídico e Administrativo
+###### Artigo 12.º
+
+##### Divisão de Apoio Jurídico e Administrativo
 
 1 - A DAJA é o serviço ao qual compete:
 
@@ -600,12 +668,12 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 25 de Janeiro de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 6 de Março de 2000.**
+Assinado em Angra do Heroísmo em 6 de Março de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2000/03/075b00/12771285.pdf)

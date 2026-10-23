@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/1991/02/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1991-484414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5af84b80f6e9a5bbb6b63c7c31c9432e71d17c0f9363ee08b9061bc80f7f5060
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc74c38e21f4cf9f0e3ff487aa1cdf3d89bfd43b6388db0623dc87b15cc6e962
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Colocação de Professores
 - Concurso
+- Educação Pré-escolar
 - Ensino Primário
 - Pessoal Docente
 - Quadro de Pessoal
-- Açores
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:683641:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285168:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683641:por
+  label: "Revogado pelo DLR.27/2003/A.2003.05.22.ALR-RAA DR.IS-A [133] de 09/Jun/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2003-683641
+  date: '2003-05-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:07Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +114,9 @@ Considerando que, para além da aplicação à Região Autónoma dos Açores do 
 
 A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Na aplicação à Região Autónoma dos Açores, os artigos 7.º, 38.º, 41.º e 53.º do [Decreto-Lei n.º 35/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1988-282714), de 4 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Na aplicação à Região Autónoma dos Açores, os artigos 7.º, 38.º, 41.º e 53.º do [Decreto-Lei n.º 35/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1988-282714), de 4 de Fevereiro, passam a ter a seguinte redacção:
 
-###### Art. 7.º - 1 - ...
+Art. 7.º - 1 - ...
 
 2 - O prazo a que se refere o número anterior beneficiará de uma dilação de cinco dias úteis para os candidatos que se encontrem numa das seguintes situações:
 
@@ -115,7 +128,7 @@ c) ...
 
 d) ...
 
-###### Art. 38.º - 1 - ...
+Art. 38.º - 1 - ...
 
 2 - ...
 
@@ -149,7 +162,7 @@ b) Professores do quadro geral e professores que, de acordo com a lista definiti
 
 2.º A graduação profissional.
 
-###### Art. 41.º - 1 - O prazo para requerer a admissão ao concurso previsto no artigo anterior é de 12 dias úteis, contados a partir do dia seguinte ao da publicação no Jornal Oficial do aviso referido no n.º 1 do artigo 40.º do presente diploma.
+Art. 41.º - 1 - O prazo para requerer a admissão ao concurso previsto no artigo anterior é de 12 dias úteis, contados a partir do dia seguinte ao da publicação no Jornal Oficial do aviso referido no n.º 1 do artigo 40.º do presente diploma.
 
 2 - O prazo a que se refere o número anterior beneficiará de uma dilação de cinco dias úteis para os candidatos que se encontrem numa das seguintes situações:
 
@@ -161,16 +174,16 @@ c) ...
 
 d) ...
 
-###### Art. 53.º Os professores do ensino primário integrados nos quadros de vinculação serão obrigatoriamente opositores ao concurso do quadro geral a nível de uma ilha até obterem colocação neste quadro.
+Art. 53.º Os professores do ensino primário integrados nos quadros de vinculação serão obrigatoriamente opositores ao concurso do quadro geral a nível de uma ilha até obterem colocação neste quadro.
 
-###### Art. 2.º O presente diploma entra em vigor na data da sua publicação.
+Art. 2.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 23 de Janeiro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 11 de Fevereiro de 1991.**
+Assinado em Angra do Heroísmo em 11 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/231/2009/03/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/231-2009-604650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d59d300f636d2d240a8a84500d29b0438760cf03f51ef979eef48aa36452e0dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8be0cdc034cbef98ffe5d7f12c17d9adf90f8389d7f2f5b310901e9fa7abc65f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
 - Ordenamento do Território
-- Proteção do Ambiente
-- Política de Solos
 - Plano de Urbanização
+- Política de Solos
+- Proteção do Ambiente
+- Reserva Ecológica Nacional
 - Sines
 - Zona Industrial
 relationships:
@@ -93,16 +93,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/115/2008/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/115/2008/07/21/p/dre
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539979:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:56Z'
   warnings: []
   errors: []
 ---
@@ -131,9 +155,9 @@ Manda o Governo, pelo Secretário de Estado do Ordenamento do Território e das 
 
 3 - A presente portaria entra em vigor na data da entrada em vigor do Plano de Urbanização da Zona Industrial e Logística de Sines.
 
-**O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão, em 4 de Fevereiro de 2009.**
+O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão, em 4 de Fevereiro de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/04200/0140801410.pdf))](https://files.diariodarepublica.pt/1s/2009/03/04200/0140801410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/04200/0140801410.pdf)
 
 QUADRO ANEXO
 
@@ -141,4 +165,4 @@ Delimitação da Reserva Ecológica Nacional do concelho de Sines
 
 Proposta de exclusões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/03/04200/0140801410.pdf))](https://files.diariodarepublica.pt/1s/2009/03/04200/0140801410.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/03/04200/0140801410.pdf)

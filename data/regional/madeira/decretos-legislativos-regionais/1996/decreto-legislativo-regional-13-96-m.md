@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/07/159a00/18661885.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/1996/07/11/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1996-422987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: caa748d745b389e85f104830b4ebaf0636a0805583bce1701737e69378f10623
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d16237bd712c511a4adfe96ddc7fdfb9980556259e0f10f4b960deab092b197d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,14 +71,20 @@ subjects:
 - Estatuto
 - Extinção de Serviços
 - Integração de Trabalhadores
-- Personalidade Jurídica
 - Madeira.região Autónoma
+- Personalidade Jurídica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:372068:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantida em vigor a al c) do art 48º pelo Dec-Lei.224-A/96. 1996.11.26.MJ - Aprova o Código das Custas Judiciais\
+    \ -, DR.IS-A [274]2ºSupl\0l"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/298/1993/08/28/p/dre
   label: null
@@ -91,16 +97,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:352325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631864:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152549:por
+  label: "Revogados o nº 4 do art. 4º, as als. d) e l) do nº 2 do art. 5º, a al. q) do nº 2 do art. 12º pelo DLR.5/99/M.1999.02.10.ALR-RAM,\
+    \ DR.IS-A [50] de 01/Mar/1999\01999\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/5-1999-152549
+  date: '1999-02-10'
+- type: repealed_by
+  target: pt:dre:372068:por
+  label: "Revogado pelo DLR.19/99/M.1999.06.02.ALR-RAM DR.IS-A [151] DE 01/JUL/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-1999-372068
+  date: '1999-06-02'
 article_structure:
-  article_count: 65
+  article_count: 66
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:10Z'
   warnings: []
   errors: []
 ---
@@ -187,13 +236,13 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 14 de Maio de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 17 de Junho de 1996.**
+Assinado em 17 de Junho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ESTATUTO DA ADMINISTRAÇÃO DOS PORTOS DA REGIÃO AUTÓNOMA DA MADEIRA
 
@@ -455,7 +504,7 @@ c) Obter de terceiros, que tenham realizado operações por conta da APRAM, as i
 
 ###### Artigo 20.º — Assistência às reuniões do conselho de administração
 
-**O presidente da CF, a solicitação do presidente do CA, pode assistir às reuniões do CA.**
+O presidente da CF, a solicitação do presidente do CA, pode assistir às reuniões do CA.
 
 ###### Artigo 21.º — Funcionamento da comissão de fiscalização
 
@@ -803,7 +852,7 @@ Para efeitos das suas relações comerciais com a banca, a APRAM é livre na esc
 
 ###### Artigo 50.º — Autofinanciamento
 
-**O secretário regional da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos, que, como objectivo, deverá ser obtida globalmente pela APRAM, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.**
+O secretário regional da tutela estabelecerá a taxa de rentabilidade mínima do investimento líquido em activos fixos, que, como objectivo, deverá ser obtida globalmente pela APRAM, em ordem a obter-se, a médio prazo, um desejável autofinanciamento.
 
 ###### Artigo 51.º — Tribunais competentes
 
@@ -811,7 +860,9 @@ Para efeitos das suas relações comerciais com a banca, a APRAM é livre na esc
 
 2 - São da competência dos tribunais administrativos os julgamentos dos recursos dos actos definitivos e executórios dos órgãos da APRAM sujeitos a um regime de direito público, bem como o julgamento das acções sobre a validade, interpretação ou execução dos contratos administrativos por ela celebrados.
 
-## ANEXO I — Artigo 1.º
+## ANEXO I
+
+###### Artigo 1.º
 
 As áreas de jurisdição da APRAM a que se refere o n.º 1 do artigo 3.º são as definidas pelos limites estabelecidos nos artigos seguintes.
 
@@ -1165,4 +1216,4 @@ j) Em São Jorge confina-se à ponta da rocha denominada «Ponta de São Jorge»
 
 ## ANEXO II — (a que se refere o artigo 4.º, n.º 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/159a00/18661885.pdf))](https://files.diariodarepublica.pt/1s/1996/07/159a00/18661885.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/07/159a00/18661885.pdf)

@@ -48,40 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1983-311469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1851df9797c5f24309cf787c57cc48d1deda0f90d1799e1b0e5b1917dd4c6195
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12142fe81dc7c25a3f01f71406eed1391c9986dd6e6fda65ac11a375919c7b88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Angra do Heroísmo
+- Horta
+- Ponta Delgada
+- Quadro de Pessoal
+- Serviços de LUTA Antituberculosa
+- Serviços Materno-infantis
+- Serviços Médico-sociais
 relationships:
 - type: amended_by
   target: pt:dre:354275:por
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:54Z'
   warnings: []
   errors: []
 ---
@@ -102,30 +110,30 @@ Aquela solução leva, contudo, a que em diploma desta data se proceda à reform
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal dos Serviços Materno-Infantis e do Serviço de Luta Antituberculosa em actividade na Região e ainda não abrangido por qualquer quadro regional é integrado nos quadros de pessoal dos Serviços Médico-Sociais de Angra do Heroísmo, Horta e Ponta Delgada, de acordo com o local de desempenho das suas funções.
+Artigo 1.º - 1 - O pessoal dos Serviços Materno-Infantis e do Serviço de Luta Antituberculosa em actividade na Região e ainda não abrangido por qualquer quadro regional é integrado nos quadros de pessoal dos Serviços Médico-Sociais de Angra do Heroísmo, Horta e Ponta Delgada, de acordo com o local de desempenho das suas funções.
 
 2 - Para efeito do preceituado no número anterior, os quadros dos Serviços Médico-Sociais aprovados pelo Decreto Regulamentar Regional n.º 15/81/A, de 24 de Fevereiro, são dotados com os lugares necessários, sendo alterados, na parte relativa aos grupos profissionais em causa, pelos quadros anexos ao presente diploma.
 
-###### Art. 2.º A colocação do pessoal ao serviço nos lugares agora criados será feita mediante lista nominativa, assinada pelos Secretários Regionais dos Assuntos Sociais e da Administração Pública, independentemente de quaisquer formalidades, salvo a respectiva publicação.
+Art. 2.º A colocação do pessoal ao serviço nos lugares agora criados será feita mediante lista nominativa, assinada pelos Secretários Regionais dos Assuntos Sociais e da Administração Pública, independentemente de quaisquer formalidades, salvo a respectiva publicação.
 
 Aprovado em Conselho do Governo Regional em 8 de Março de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Abril de 1983.**
+Assinado em Angra do Heroísmo em 11 de Abril de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro de pessoal dos Serviços Médico-Sociais de Angra do Heroísmo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09600/15031504.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09600/15031504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09600/15031504.pdf)
 
 Quadro de pessoal dos Serviços Médico-Sociais da Horta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09600/15031504.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09600/15031504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09600/15031504.pdf)
 
 Quadro de pessoal dos Serviços Médico-Sociais de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/04/09600/15031504.pdf))](https://files.diariodarepublica.pt/1s/1983/04/09600/15031504.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/04/09600/15031504.pdf)

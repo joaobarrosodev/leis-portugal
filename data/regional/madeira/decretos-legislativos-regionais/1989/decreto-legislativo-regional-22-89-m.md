@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1989-546990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b48295c1b00819326edcc33be3aea4b0b4e38f78ac1a0f6e203c2ff71c7c808
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b7b2fff7a2e00446a4a6009c10d5cf77594a164b38b65a600c6142561301b11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho da Juventude da Madeira
+- Madeira.região Autónoma
+- Orgânica
+- Protecção à Juventude
 relationships:
 - type: amended_by
   target: pt:dre:497798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144638:por
+  label: "Alterada a redacção dos art 2º, 3º e 4º pelo DLR.10/97/M.1997.07.08.ALR-RAM, DR.IS-A [171] de 1997.07.26\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-1997-144638
+  date: '1997-07-08'
+- type: amended_by
+  target: pt:dre:497798:por
+  label: "Alterados os arts. 1.º, 2.º, 3.º e 4.º (os três últimos na redação do DLR 10/97/M de 26-jul), aditados os arts.\
+    \ 7.º, 8.º e 9.º, aditadas epígrafes aos arts. 1.º, 2.º, 3.º, 4.º (os três últimos na redação do DLR 10/97/M de 26-jul),\
+    \ 5.º e 6.º e republicado em anexo o presente diploma, pelo DLR.24/2013/M.16.07.2013.AL-RAM, DR.IS [135] de 16.07.2013\0\
+    13\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2013-497798
+  date: '2013-07-16'
+- type: cites
+  target: pt:dre:358749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499488:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:22Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +125,9 @@ Nestes termos:
 
 A Assembleia Regional da Madeira decreta, ao abrigo do disposto na alínea a) do artigo 229.º da Constituição da República, o seguinte:
 
-###### Artigo 1.º É criado, no âmbito da secretaria regional da tutela, presidido pelo respectivo titular, o Conselho da Juventude da Madeira, adiante designado por CJM.
+Artigo 1.º É criado, no âmbito da secretaria regional da tutela, presidido pelo respectivo titular, o Conselho da Juventude da Madeira, adiante designado por CJM.
 
-###### Art. 2.º O CJM é um órgão de consulta do membro do Governo Regional responsável pela área da juventude, competindo-lhe:
+Art. 2.º O CJM é um órgão de consulta do membro do Governo Regional responsável pela área da juventude, competindo-lhe:
 
 a) Analisar e dar parecer sobre questões que digam respeito à política de juventude;
 
@@ -112,7 +137,7 @@ c) Apreciar projectos de diplomas de carácter sectorial, na parte respeitante a
 
 d) Emitir pareceres específicos que lhe sejam solicitados pelo seu presidente.
 
-###### Art. 3.º - 1 - O CJM é constituído por:
+Art. 3.º - 1 - O CJM é constituído por:
 
 a) Um representante do Vice-Presidente do Governo Regional e de cada um dos secretários regionais;
 
@@ -150,22 +175,22 @@ m) Um representante indicado pelas associações desportivas amadoras regionais 
 
 7 - Fará parte do CJM um representante dos jovens empresários, quando legalmente estiverem organizados.
 
-###### Art. 4.º - 1 - O CJM reúne em plenário, ordinariamente, de dois em dois meses e, extraordinariamente, sempre que convocado pelo presidente, sendo lavrada acta das reuniões efectuadas, assinada pelo presidente, que constará em livro próprio, arquivado à ordem do seu gabinete.
+Art. 4.º - 1 - O CJM reúne em plenário, ordinariamente, de dois em dois meses e, extraordinariamente, sempre que convocado pelo presidente, sendo lavrada acta das reuniões efectuadas, assinada pelo presidente, que constará em livro próprio, arquivado à ordem do seu gabinete.
 
 2 - O CJM poderá criar comissões especializadas, destinadas a apreciar questões específicas a submeter à aprovação do plenário.
 
 3 - Das deliberações do CJM será dada a publicidade que for deliberada pelo presidente, nos termos e condições por este fixados.
 
-###### Art. 5.º O CJM aprova o seu regulamento de funcionamento, sob proposta do seu presidente, na primeira reunião ordinária.
+Art. 5.º O CJM aprova o seu regulamento de funcionamento, sob proposta do seu presidente, na primeira reunião ordinária.
 
-###### Art. 6.º O apoio administrativo do CJM será prestado pelo gabinete do seu presidente.
+Art. 6.º O apoio administrativo do CJM será prestado pelo gabinete do seu presidente.
 
 Aprovado em sessão plenária de 25 de Julho de 1989.
 
-**O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.
 
-**Assinado em 17 de Agosto de 1989.**
+Assinado em 17 de Agosto de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

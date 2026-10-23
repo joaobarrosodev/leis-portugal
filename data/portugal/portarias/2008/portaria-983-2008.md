@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/09/16900/0616206166.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/983/2008/09/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/983-2008-453499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0db4c588c89d30e603e9db62e59f00e6e057a133399a327f3aa83ff824bc1fc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 132db106399efac608f0985cb5d65a65ebf526df35002631842f19bd01ff0cfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,49 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
+- Álcool
 - Campanha Vinícola
-- Vinho
 - Definição de Competências
 - Destilador
-- Álcool
-- Pagamento
-- Instituto da Vinha e do Vinho
-- IFAP
-- Regulamento CE
 - Eliminação de Resíduos
+- Financiamento
+- IFAP
+- Instituto da Vinha e do Vinho
+- Pagamento
 - Produto Vitivinícola
+- Regulamento CE
 - Vinha
+- Vinho
 relationships:
 - type: amended_by
   target: pt:dre:107677706:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307872:por
+  label: "Derrogado, para a campanha de 2009-2010 e nos termos do art. 1.º, o disposto na al. c) do n.º 1 do art. 16.º e nos\
+    \ n.ºs 1 dos arts 17.º e 18.º, da presente portaria, e alargado o prazo de comprovação da utilização do álcool bruto obtido\
+    \ exclusivamente para fins industriais ou energéticos, bem como os prazos para apresentação de pedidos de pagamento adiantado\
+    \ pela PORT.1093/2010.22.10.2010.MADRP, DR.IS [206] de 22.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1093-2010-307872
+  date: '2010-10-22'
+- type: amended_by
+  target: pt:dre:670041:por
+  label: "Dada nova redacção aos arts. 4.º, 5.º, 6.º, 15.º, 16.º, 17.º e 18.º (os últimos três com as alterações constantes\
+    \ da Port 1093/2010 de 22-Out) pela PORT.227/2011.08.06.2011.MADRP, DR.IS [111] de 08.06.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/227-2011-670041
+  date: '2011-06-08'
+- type: amended_by
+  target: pt:dre:670069:por
+  label: "Tornado extensivo à campanha vinícola de 2009-2010 o disposto no art. 6º do presente diploma, com a redacção conferida\
+    \ pela Port 227/2011 de 08-Jun, pela PORT.247/2011.22.06.2011.MADRP, DR.IS [119] de 22.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/247-2011-670069
+  date: '2011-06-22'
+- type: amended_by
+  target: pt:dre:70427491:por
+  label: Alterado o art. 7.º pelo(a) Portaria n.º 327/2015 - Diário da República n.º 193/2015, Série I de 2015-10-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-2015-70427491
+  date: '2015-10-02'
 - type: cites
   target: celex:32008R0479
   label: null
@@ -94,16 +119,22 @@ relationships:
   target: celex:32008R0555
   label: null
   source: http://data.europa.eu/eli/reg/2008/555/oj
+- type: repealed_by
+  target: pt:dre:107677706:por
+  label: Revogado o presente diploma, na redação das Ports 227/2011 de 08-jun e 327/2015 de 02-out, pelo(a) Portaria n.º 207-A/2017
+    - Diário da República n.º 132/2017, 2º Suplemento, Série I de 2017-07-11 nos termos do disposto no seu art. 21.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/207-a-2017-107677706
+  date: '2017-07-11'
 article_structure:
   article_count: 25
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:38Z'
   warnings: []
   errors: []
 ---
@@ -358,12 +389,12 @@ A presente portaria retroage os seus efeitos à data do início da campanha viti
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 20 de Agosto de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 20 de Agosto de 2008.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 5.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/16900/0616206166.pdf))](https://files.diariodarepublica.pt/1s/2008/09/16900/0616206166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/16900/0616206166.pdf)
 
 ## ANEXO II — (a que se refere o artigo 10.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/09/16900/0616206166.pdf))](https://files.diariodarepublica.pt/1s/2008/09/16900/0616206166.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/09/16900/0616206166.pdf)

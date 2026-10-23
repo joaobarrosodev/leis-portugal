@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/15100/0508605086.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/848/2007/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/848-2007-637394
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01f54c2cf27d6e7fc0bf4e7ff4e331a0e33233906b01f32a7f2a5fc722c0002c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cdf064fbd1e446e410b71391adcced31ccadcf87b2c5bf5e16351fc4993a41ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção dos Animais
-- Pesca
-- Recursos do Mar
-- Proteção do Ambiente
-- Espécie Protegida
-- Regulamento CE
 - Embarcação de Pesca
+- Espécie Protegida
+- Pesca
+- Proteção do Ambiente
+- Proteção dos Animais
+- Recursos do Mar
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:145188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386604:por
+  label: "Alterados os nºs. 2º e 3º do presente diploma, pela PORT.34/2008.11.01.2008.MADRP, DR.IS [8] de 11.01.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/34-2008-386604
+  date: '2008-01-11'
 - type: cites
   target: celex:32002R2347
   label: null
@@ -85,16 +90,22 @@ relationships:
   target: celex:32006R2015
   label: null
   source: http://data.europa.eu/eli/reg/2006/2015/oj
+- type: repealed_by
+  target: pt:dre:145188:por
+  label: "Revogado, a partir de 01.01.2012, o presente diploma, na redacção dada pela Port 34/2008 de 11-Jan, pela PORT.315/2011.29.12.2011.MAMAOT,\
+    \ DR.IS [249] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/315-2011-145188
+  date: '2011-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:20Z'
   warnings: []
   errors: []
 ---

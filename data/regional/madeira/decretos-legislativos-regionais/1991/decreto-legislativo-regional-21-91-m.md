@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/180a00/39273931.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/1991/08/07/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17b71fc36f71c1bb068eb5e5e344020632eb1b0d6ca229874a46b29817fa8da1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a2c043d594ddbf27fe4f9e5c1aaea0afd7e10317382969a55839a94d92c1163
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto
-- Política de Saúde
 - Madeira.região Autónoma
+- Política de Saúde
 - Proteção Social
 - Serviço Regional de Saúde
 relationships:
@@ -75,16 +75,36 @@ relationships:
   target: pt:dre:224002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626807:por
+  label: "Determinado que Centro Regional de Saúde, criado pelo presente diploma, passe a ser um serviço personalizado, dotado\
+    \ de autonomia administrativa, financeira e patrimonial, pelo DLR.3/93/M.10.02.1993.ALR-RAM, DR.IS-A [50] de 01.03.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1993-626807
+  date: '1993-02-10'
+- type: cites
+  target: pt:dre:461862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574127:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:224002:por
+  label: "Revogado pelo DLR.4/2003/M.2003.03.19.ALR-RAM, DR.IS-A [82] de 07/Abr/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-2003-224002
+  date: '2003-03-19'
 article_structure:
-  article_count: 23
+  article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:36Z'
   warnings: []
   errors: []
 ---
@@ -133,17 +153,17 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na base VIII, n.º 2, da [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 de Agosto, e do artigo 229.º, n.º 1, alínea c), da Constituição da República, decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Estatuto do Sistema de Saúde da Região Autónoma da Madeira, o qual faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Estatuto do Sistema de Saúde da Região Autónoma da Madeira, o qual faz parte integrante do presente diploma.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 24 de Abril de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 14 de Maio de 1991.**
+Assinado em 14 de Maio de 1991.
 
-**O Ministro da República, para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República, para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Estatuto do Sistema de Saúde
 

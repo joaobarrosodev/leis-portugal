@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/101b00/19501960.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/1998/05/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1998-515866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b17517fdb8e8c835989e2f94afb1c7ac1a95e3e1a8b50c5881c439aee7b057e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c3ddd19667c1c94ae939e31614d935df4163d6518cd514567e50d8af2e003e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ÁREA Escolar
 - Educação Especial
+- Educação Pré-escolar
+- Ensino Básico
+- Estabelecimento de Ensino
 - Gestão Escolar
 - Pessoal não Docente
-- Estabelecimento de Ensino
-- Ensino Básico
 - Quadro de Pessoal
-- Açores
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:636073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:627258:por
+  label: "Substituído o anexo X pelo DRR.17/99/A.03.12.1999.PG-RAA, DR.IS-B [281] de 03.12.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1999-627258
+  date: '1999-10-27'
+- type: amended_by
+  target: pt:dre:233519:por
+  label: "Determinado, que a área escolar de São Carlos criada pelo presente diploma, deixe de existir como unidade orgânica\
+    \ do sistema educativo, pelo DRR.16/2005/A.24.05.2005.PG-RAA, DR.IS-B [129] de 07.07.2005, a partir da sua entrada em\
+    \ vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2005-233519
+  date: '2005-05-24'
+- type: amended_by
+  target: pt:dre:540033:por
+  label: "Extinta a área escolar de Ponta Delgada criada no presente diploma e integrados os estabelecimentos de educação\
+    \ e ensino que lhe pertencem nas Escolas Básicas Integradas Canto da Maia e Roberto Ivens, pelo DRR.27/2006/A.28.08.2006.SRECI-RAA,\
+    \ DR.IS [177] de 13.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2006-540033
+  date: '2006-08-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/1998/01/28/a/dre
   label: null
@@ -103,16 +122,118 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/1997/03/11/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/1997/03/11/a/dre
+- type: cites
+  target: pt:dre:223029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599137:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477164:por
+  label: "Rectificado pela DECL-RECT.11-H/98.1998.06.30.PCM DR.IS-B [148]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-h-1998-477164
+  date: '1998-06-30'
+- type: corrected_by
+  target: pt:dre:211847:por
+  label: "Rectificado pela DECL-RECT.16-H/98.1998.09.23.PCM, DR.IS-A [226]4ºSupl de 30/Set/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-h-1998-211847
+  date: '1998-09-23'
+- type: repealed_by
+  target: pt:dre:639906:por
+  label: "Revogado o art. 9º, pelo DRR.16/99/A.1999.10.27.SREAS-RAA, DR.IS-B [279] de 30/Nov/1999o\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1999-639906
+  date: '1999-10-27'
+- type: repealed_by
+  target: pt:dre:585039:por
+  label: "Revogados os nºs 1 e 2 do art. 7º e os quadros anexos pelo DRR.3/2002/A.2001.12.11.PG-RAA DR.IS-B [5] de 07/Jan/2002\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2002-585039
+  date: '2001-12-11'
+- type: repealed_by
+  target: pt:dre:153356:por
+  label: "Revogadas as disposições referentes á Escola Preparatória de Arrifes constantes da al k) do nº 1 do art 1º do presente\
+    \ diploma, pelo DRR.14/2002/A.2002.05.07.PG-RAA, DR.IS-B [125]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2002-153356
+  date: '2002-05-07'
+- type: repealed_by
+  target: pt:dre:188479:por
+  label: "Revogada a al. g) do nº 1 do art. 1º pelo DRR.18/2002/A.2002.06.17.SREC-RAA DR.IS-B [169] de 24/Jul/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2002-188479
+  date: '2002-06-17'
+- type: repealed_by
+  target: pt:dre:188481:por
+  label: "Revogada a al. f) fo nº 1 do art. 1º pelo DRR.20/2002/A.2002.06.17.SREC-RAA DR.IS-B [169] de 24/Jul/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2002-188481
+  date: '2002-06-17'
+- type: repealed_by
+  target: pt:dre:188487:por
+  label: "Revogada a al. h) do nº 1 do art. 1º pelo DRR.19/2002/A.2002.06.17.SREC-RAA DR.IS-B [169] de 24/Jul/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2002-188487
+  date: '2002-06-17'
+- type: repealed_by
+  target: pt:dre:637469:por
+  label: "Revogados os arts. 4º a 12º, pelo DRR.26/2002/A.2002.08.13.PG-RAA, DR.IS-B [210] de 11/Set/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2002-637469
+  date: '2002-08-13'
+- type: repealed_by
+  target: pt:dre:277125:por
+  label: "Revogada a al. m) do n.º 1 do art. 1.º, pelo DRR.18/2004/A.14.05.2004.PG-RAA, DR.IS-B [133] de 07.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2004-277125
+  date: '2004-05-14'
+- type: repealed_by
+  target: pt:dre:278497:por
+  label: "Revogada a al. b) do art. 1.º, pelo DRR.20/2004/A.14.05.2004.PG-RAA, DR.IS-B [135] de 09.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2004-278497
+  date: '2004-05-14'
+- type: repealed_by
+  target: pt:dre:278498:por
+  label: "Revogada a al. c) do n.º 1 do art. 1.º, pelo DRR.19/2004/A.14.05.2004.PG-RAA, DR.IS-B [135] de 09.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2004-278498
+  date: '2004-05-14'
+- type: repealed_by
+  target: pt:dre:233519:por
+  label: "Revogada a al d) do nº 1 do art. 1º do presente diploma, pelo DRR.16/2005/A.24.05.2005.PG-RAA, DR.IS-B [129] de\
+    \ 07.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2005-233519
+  date: '2005-05-24'
+- type: repealed_by
+  target: pt:dre:492198:por
+  label: "Revogada a al. a) do nº 1 do art. 1º pelo DRR.26/2005/A.16.11.2005.PG-RAA, DR.IS-B [236] de 12.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2005-492198
+  date: '2005-11-16'
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:56Z'
   warnings: []
   errors: []
 ---
@@ -359,7 +480,7 @@ Nos 10 dias úteis posteriores à publicação do presente decreto regulamentar 
 
 ###### Artigo 13.º — Resolução de dúvidas
 
-**O Secretário Regional da Educação e Assuntos Sociais emitirá os despachos necessários à boa execução do presente diploma.**
+O Secretário Regional da Educação e Assuntos Sociais emitirá os despachos necessários à boa execução do presente diploma.
 
 ###### Artigo 14.º — Revogação
 
@@ -371,13 +492,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 10 de Março de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Abril de 1998.**
+Assinado em Angra do Heroísmo em 13 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 Do ANEXO I ao ANEXO XXVI
 

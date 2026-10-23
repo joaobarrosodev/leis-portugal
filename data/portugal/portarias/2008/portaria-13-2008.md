@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00300/0014200143.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/13/2008/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/13-2008-386781
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8eec1a32f3e54d3c6035dc8056832f3acb691ac156d4d510f6ecc837486ed73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 699d9f038aebce3706eafa6c0dc2caa6429c927e2e13523c99318bd3338604f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Benefícios Fiscais
 - Cobrança de Impostos
 - Código do IRS
 - Doação
-- Impresso
 - Documento Eletrónico
+- Impresso
 - Internet
 - Mecenato Científico-Tecnológico
 - Regime Fiscal
-- Benefícios Fiscais
 relationships:
 - type: amended_by
   target: pt:dre:443901:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443901:por
+  label: "Revogadas as instruções de preenchimento, pela PORT.1474/2008.18.12.2008.MFAP, DR.IS [244] de 18.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1474-2008-443901
+  date: '2008-12-18'
+- type: repealed_by
+  target: pt:dre:70409972:por
+  label: Revogada a partir de 01.01.2016 pelo(a) Portaria n.º 318/2015 - Diário da República n.º 192/2015, Série I de 2015-10-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/318-2015-70409972
+  date: '2015-10-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:06Z'
   warnings: []
   errors: []
 ---
@@ -115,6 +129,6 @@ c) Efectuar o envio de acordo com os procedimentos indicados na mesma página.
 
 3.º Utilizada a transmissão electrónica de dados, a declaração considera-se apresentada na data em que é submetida, sob condição de correcção de eventuais erros no prazo de 30 dias. Se, findo este prazo, não forem corrigidos os erros detectados, a declaração é considerada sem efeito.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 27 de Dezembro de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 27 de Dezembro de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00300/0014200143.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00300/0014200143.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00300/0014200143.pdf)

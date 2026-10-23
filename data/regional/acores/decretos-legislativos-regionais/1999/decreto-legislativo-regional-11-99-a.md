@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/04/081a00/18621863.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/1999/04/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1999-549060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 011c32bf9e8b3ec7fefe962e448926ca4cc148950c70c3d93e90fd03a4ea2bf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bf55fbbc66b50ce0c88343de12cf4945cba1c0d3e70ecc1af7b55f984795259
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Açores
 - Comissão Permanente de Concertação Social
 - Conselho Regional de Concertação Social
 - Criação de Serviços
 - Definição de Competências
 - Orgânica
-- Açores
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:214716:por
@@ -85,16 +85,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/10/1997/07/18/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/10/1997/07/18/a/dre
+- type: cites
+  target: pt:dre:147865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621552:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:214716:por
+  label: "Revogado pelo DLR.9/2003/A.2003.02.17.ALR-RAA DR.IS-A [60] de 12/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2003-214716
+  date: '2003-02-17'
 article_structure:
-  article_count: 9
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:06Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +168,9 @@ o) Os representantes da Região Autónoma dos Açores no Conselho Económico e S
 
 3 - ...
 
-###### Artigo 4.º — Designação e posse dos membros
+Artigo 4.º
+
+Designação e posse dos membros
 
 1 - No prazo de 30 dias a contar da data de posse do Presidente do Governo Regional, as entidades a que se referem as alíneas c) a n) do n.º 1 do artigo 3.º devem indicar os seus representantes e respectivos suplentes.
 
@@ -165,7 +180,9 @@ o) Os representantes da Região Autónoma dos Açores no Conselho Económico e S
 
 4 - Os representantes a que se referem as alíneas d) a n) do n.º 1 do artigo 3.º devem pertencer à direcção da respectiva associação ou das suas associadas.
 
-###### Artigo 7.º — Presidente
+Artigo 7.º
+
+Presidente
 
 1 - Compete ao presidente:
 
@@ -181,7 +198,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 12.º — Secretários coordenadores
+Artigo 12.º
+
+Secretários coordenadores
 
 1 - ...
 
@@ -199,7 +218,9 @@ d) ...
 
 4 - As funções de secretário coordenador podem ser exercidas em regime de acumulação com quaisquer outros cargos ou funções, sendo remuneradas por gratificação, a fixar por despacho conjunto do Presidente do Governo Regional e dos secretários regionais competentes em matéria de finanças e de trabalho.
 
-###### Artigo 16.º — Serviços de apoio
+Artigo 16.º
+
+Serviços de apoio
 
 1 - O Conselho dispõe de serviços de apoio técnico e administrativo, sediados no departamento governamental com atribuições em matéria de trabalho.
 
@@ -207,7 +228,9 @@ d) ...
 
 3 - ...
 
-###### Artigo 17.º — Financiamento
+Artigo 17.º
+
+Financiamento
 
 1 - Os meios financeiros necessários ao funcionamento do Conselho são inscritos no orçamento regional, em verba afecta ao departamento governamental com atribuições em matéria de trabalho.
 
@@ -239,10 +262,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 25 de Fevereiro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 17 de Março de 1999.**
+Assinado em Angra do Heroísmo em 17 de Março de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

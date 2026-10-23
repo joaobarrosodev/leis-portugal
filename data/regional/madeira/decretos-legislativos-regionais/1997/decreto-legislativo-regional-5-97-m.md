@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1997/04/22/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1997-469176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 364e20bd6b1ab93b0538fd0d318bfc9cb0654dc3842604009ea4f648f6b08770
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa9fd11ef160ce45bdc130d92fdf9769d19c3e0658f3e8a883044572ac1c11b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,22 @@ reuse:
 subjects:
 - Colocação de Professores
 - Concurso
+- Educação Pré-escolar
 - Educador de Infância
-- Pessoal Docente
 - Ensino Básico
 - Madeira.região Autónoma
-- Educação Pré-escolar
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:55021038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632385:por
+  label: "Alterados os arts. 13º e 39º do DLR 5/88/M de 25-Mai, na redacção dada pelo presente diploma pelo DLR.14-A/2001/M.2001.05.24.ALR-RAM,DR.IS-A\
+    \ [123]3º Supl de 28/Mai/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-a-2001-632385
+  date: '2001-05-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/256/1996/12/27/p/dre
   label: null
@@ -86,16 +92,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:145799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669864:por
+  label: "Revogado o DLR 4/88/M de 18-Mai, com excepção do respectivo art. 90º, com a redacção conferida pelo presente diploma,\
+    \ pelo DLR.17/2003/M.2003.06.30.ALR-RAM DR.IS-A [167] de 22/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2003-669864
+  date: '2003-06-30'
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:20Z'
   warnings: []
   errors: []
 ---
@@ -164,10 +200,10 @@ O presente diploma produz efeitos desde 1 de Janeiro de 1997.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 7 de Março de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 1 de Abril de 1997.**
+Assinado em 1 de Abril de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

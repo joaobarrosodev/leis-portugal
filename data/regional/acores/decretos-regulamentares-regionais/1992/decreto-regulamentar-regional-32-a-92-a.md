@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 175/1992, 2º Suplemento, Série I-B de 1992-07-31
   number: '175'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3604-(4) a 3604-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/175b02/00040004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/32-a/1992/07/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-a-1992-275983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfa15ea7746a0e9e8e99d47d46b8bbc8d13916210137742d9dcf886f511b1236
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05f6063f9529955e56a0a74b3535020842b0f221b75dce272267866ee354f670
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,24 +67,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Molusco
 - Proteção do Ambiente
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:553893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:373630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610965:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:06Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +122,16 @@ Os últimos estudos, efectuados pelo Departamento de Oceanografia e Pescas da Un
 
 Assim, ao abrigo do disposto no artigo 85.º-A do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de Julho, alterado pelo [Decreto Regulamentar n.º 3/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1989-610965), de 28 de Janeiro, e em execução dos artigos 3.º e 5.º, n.º 1, do [Decreto Legislativo Regional n.º 27/84/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-1984-373630), de 1 de Setembro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É prorrogada até 31 de Julho de 1993 a vigência do [Decreto Regulamentar Regional n.º 23/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-430195), de 26 de Julho, alterado pelo [Decreto Regulamentar Regional n.º 24/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1990-573286), de 31 de Julho.
+Artigo 1.º É prorrogada até 31 de Julho de 1993 a vigência do [Decreto Regulamentar Regional n.º 23/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1989-430195), de 26 de Julho, alterado pelo [Decreto Regulamentar Regional n.º 24/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1990-573286), de 31 de Julho.
 
-###### Art. 2.º O presente diploma entra em vigor no dia 1 de Agosto de 1992.
+Art. 2.º O presente diploma entra em vigor no dia 1 de Agosto de 1992.
 
 Aprovado em Conselho do Governo Regional, nas Lajes das Flores, em 8 de Julho de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Julho de 1992.**
+Assinado em Angra do Heroísmo em 16 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2003/04/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2003-226407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2546a8b12479768c5c2905d2bcd75cec6e5832c6d961dc82bc63e086aad4744
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab4b5cf1b927d8000b0d2d3b0e9753903e602fc6ee12aca3227d4c96f21465e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Nordeste
 - Ordenamento do Território
 - Plano Director Municipal
-- Nordeste
 - Política de Solos
 - Regulamento
-- Açores
 relationships:
+- type: amended_by
+  target: pt:dre:2415322:por
+  label: "Tornada pública a aprovação da suspensão parcial, bem como o estabelecimento de medidas preventivas, do PDM de Nordeste,\
+    \ na Região Autónoma dos Açores, pelo AV.19941/2010.08.10.2010.MNORDESTE, DR.IIS [196] de 08.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/19941-2010-2415322
+  date: '2010-10-08'
+- type: amended_by
+  target: pt:dre:2332253:por
+  label: "Tornada pública a prorrogação do prazo de vigência da suspensão parcial do Plano Diretor Municipal de Nordeste,\
+    \ na Região Autónoma dos Açores, e respetivas medidas preventivas, pelo AV.14097/2012.23.10.2012.MNORDESTE, DR.IIS [205]\
+    \ de 23.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14097-2012-2332253
+  date: '2012-10-23'
 - type: cites
   target: celex:31979L0409
   label: null
   source: http://data.europa.eu/eli/dir/1979/409/oj
 article_structure:
   article_count: 128
-  section_count: 44
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 51
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:42Z'
   warnings: []
   errors: []
 ---
@@ -242,13 +255,13 @@ O Plano Director Municipal do Nordeste entra em vigor no dia seguinte ao da publ
 
 Aprovado em Conselho do Governo Regional, Ponta Delgada, em 31 de Janeiro de 2003.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 18 de Março de 2003.**
+Assinado em Angra do Heroísmo em 18 de Março de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DO NORDESTE
 
@@ -260,7 +273,7 @@ Passando a vigorar após a sua publicação no Diário da República, o presente
 
 O PDMN não é só constituído pelos documentos publicados no Diário da República. Dele consta igualmente um conjunto de propostas que visam accionar determinados mecanismos de desenvolvimento do município. Este conjunto de propostas, que constam das propostas de desenvolvimento, deve ser acompanhado na sua implementação, avaliado e revisto no prazo máximo de cinco anos. Nessa altura haverá igualmente que avaliar e rever, se julgado necessário, o presente Regulamento, assim como a planta de condicionantes e as plantas de ordenamento.
 
-# PARTE I — Das disposições gerais
+## PARTE I — Das disposições gerais
 
 ### CAPÍTULO ÚNICO
 
@@ -434,7 +447,7 @@ Os planos de pormenor a desenvolver no âmbito do PDMN, designadamente da varian
 
 Do anexo I constam as definições dos conceitos utilizados no presente Regulamento.
 
-# PARTE II — Servidões administrativas e restrições de utilidade pública
+## PARTE II — Servidões administrativas e restrições de utilidade pública
 
 ### CAPÍTULO I — Conservação do património natural
 
@@ -458,7 +471,9 @@ e) Perímetros de protecção de captações, nos termos do artigo 20.º do pres
 
 O regime de propriedade e servidões das áreas indicadas nas alíneas do artigo anterior é regulado pela legislação vigente, nomeadamente o Decreto-Lei n.º 468/71, de 5 de Novembro, o Decreto Regional n.º 12/77/A, de 14 de Junho, o Decreto-Lei n.º 513-P/79, de 26 de Dezembro, e o Decreto-Lei n.º 46/94, de 22 de Fevereiro.
 
-###### Artigo 16.º — Título de utilização
+###### Artigo 16.º
+
+## Título de utilização
 
 Nos termos do Decreto-Lei n.º 46/94, de 22 de Fevereiro, carecem de título de utilização, qualquer que seja a natureza e personalidade jurídica do utilizador, as seguintes utilizações:
 
@@ -1008,7 +1023,7 @@ b) Os proprietários ou usufrutuários de terrenos situados dentro da zona de pr
 
 c) Os projectos de obras ou planos de arborização dentro da zona de protecção dos marcos geodésicos, de triangulação cadastral ou outras referências construídas pelo IPCC não podem ser licenciados sem prévia autorização da Delegação Regional dos Açores do IPCC.
 
-# PARTE III — Das classes de espaços
+## PARTE III — Das classes de espaços
 
 ### CAPÍTULO I — Classes de espaços por uso dominante
 
@@ -1662,7 +1677,7 @@ O funcionamento das operações de carga e descarga.
 
 2.1 - Para as áreas urbanas, intersticiais no tecido consolidado, dever-se-ão aplicar as regras descritas no n.º 1 deste artigo.
 
-# PARTE IV — Das unidades operativas de planeamento e gestão
+## PARTE IV — Das unidades operativas de planeamento e gestão
 
 ###### Artigo 121.º — Composição
 
@@ -1670,7 +1685,7 @@ O funcionamento das operações de carga e descarga.
 
 2 - Em cada freguesia existem duas subunidades operativas de planeamento e de gestão - uma que inclui os perímetros urbanos e a outra que abrange o restante território da freguesia.
 
-# PARTE V — Das regras de negociação, participação e informação
+## PARTE V — Das regras de negociação, participação e informação
 
 ### CAPÍTULO I — Áreas de cedência
 
@@ -1678,7 +1693,7 @@ O funcionamento das operações de carga e descarga.
 
 Nas operações de loteamento a realizar nas áreas urbanas, áreas urbanizáveis e áreas industriais serão aplicados os critérios decorrentes do disposto no artigo 16.º do Decreto-Lei n.º 448/91, de 29 de Novembro.
 
-# PARTE VI — Das disposições finais e transitórias
+## PARTE VI — Das disposições finais e transitórias
 
 ###### Artigo 123.º — Desactivação de instalações proibidas
 
@@ -1696,7 +1711,7 @@ Alinhamento - intercepção dos planos das fachadas dos edifícios com os espaç
 
 Altura total das construções - dimensão vertical de construção a partir do ponto de cota média do terreno no alinhamento de fachada até ao ponto mais alto de construção, excluindo acessórios (chaminés, casas das máquinas de ascensores, depósitos de água, etc.) e elementos decorativos, mas incluindo a cobertura.
 
-## Anexo - construção destinada a uso complementar da construção principal (garagens, arrumos, etc.).
+Anexo - construção destinada a uso complementar da construção principal (garagens, arrumos, etc.).
 
 Áreas de cedência (para o domínio público) - áreas que devem ser cedidas ao domínio público, destinadas a circulações pedonais e de veículos, à instalação de infra-estruturas, espaços verdes ou de lazer, equipamentos, etc.
 

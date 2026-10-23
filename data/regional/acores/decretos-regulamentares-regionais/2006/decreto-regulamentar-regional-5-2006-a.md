@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/011b00/03850396.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2006/01/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2006-533409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ab7662d67ea8e61f40a2ddb11be8608925b7297d0ff5b25b3b627611e410c49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6af346c16b57553a87c70a032f0980d43926e5932e5a02ae703849db3bdada0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Direcção Regional da Ciência e Tecnologia
 - Direcção Regional da Cultura
-- Presidência do Governo Regional
-- Secretário Regional da Presidência
 - Fundo Regional de Acção Cultural
 - Gabinete da ZONA Classificada de Angra do Heroísmo
+- Inspecção Regional das Actividades Culturais
 - Jornal Oficial
 - Orgânica
+- Presidência do Governo Regional
 - Quadro de Pessoal
-- Inspecção Regional das Actividades Culturais
-- Açores
+- Secretário Regional da Presidência
 relationships:
 - type: amended_by
   target: pt:dre:546024:por
@@ -121,16 +121,77 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/38-a/2004/12/11/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/38-a/2004/12/11/a/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:320094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546024:por
+  label: "Revogado pelo DRR.30/2006/A.03.10.2006.PG-RAA, DR.IS [210] de 31.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-2006-546024
+  date: '2006-10-03'
 article_structure:
-  article_count: 53
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 54
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:18Z'
   warnings: []
   errors: []
 ---
@@ -179,13 +240,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 23 de Agosto de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo, em 19 de Dezembro de 2005.**
+Assinado em Angra do Heroísmo, em 19 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — Orgânica da presidência do Governo Regional
 
@@ -413,7 +474,9 @@ e) Coordenação dos Palácios da Presidência;
 
 f) Serviço de Manutenção e Conservação de Jardins.
 
-##### SUBSECÇÃO I — Divisão Administrativa e Financeira (DAFP)
+##### SUBSECÇÃO I
+
+##### Divisão Administrativa e Financeira (DAFP)
 
 ###### Artigo 16.º — Natureza
 
@@ -465,7 +528,9 @@ c) Secção de Orçamento, Contabilidade e Património.
 
 3 - No âmbito da DAF funcionará um núcleo de apoio administrativo aos serviços da Presidência do Governo localizados no Palácio de Santana.
 
-###### Artigo 18.º — Secção de Expediente
+###### Artigo 18.º
+
+#### Secção de Expediente
 
 Compete à Secção de Expediente, em articulação e de acordo com as orientações do Centro de Informação:
 
@@ -489,7 +554,9 @@ i) Proceder à organização, instrução, estudo e informação de processos;
 
 j) Exercer as demais funções que lhe sejam superiormente determinadas.
 
-###### Artigo 19.º — Secção de Pessoal
+###### Artigo 19.º
+
+#### Secção de Pessoal
 
 A Secção de Pessoal é o serviço que, em cooperação com os demais serviços, assegura o apoio, execução e coordenação na área dos recursos humanos, competindo-lhe, designadamente:
 
@@ -513,7 +580,9 @@ i) Proceder à organização, instrução, estudo e informação de processos;
 
 j) Exercer as demais funções que lhe sejam superiormente determinadas.
 
-###### Artigo 20.º — Secção de Orçamento, Contabilidade e Património
+###### Artigo 20.º
+
+#### Secção de Orçamento, Contabilidade e Património
 
 Compete à Secção de Orçamento, Contabilidade e Património:
 
@@ -735,7 +804,9 @@ f) Colaborar em estudos, experiências ou realizações nos domínios da floricu
 
 2 - O Serviço de Manutenção e Conservação de Jardins será dirigido por um coordenador, que articulará as suas actividades com os serviços competentes da administração regional e com a Coordenação dos Palácios da Presidência nos casos adequados.
 
-##### SUBSECÇÃO VII — Artigo 29.º
+##### SUBSECÇÃO VII
+
+###### Artigo 29.º
 
 Gabinete de Representação do Governo Regional em Lisboa
 
@@ -763,7 +834,7 @@ e) Executar as directivas, ordens e instruções emitidas pelo Presidente do Gov
 
 ###### Artigo 30.º — Natureza e atribuições
 
-**O Secretário Regional da Presidência, para além das que lhe forem delegadas pelo Presidente do Governo Regional, tem por competências definir e executar as acções necessárias ao cumprimento da política regional nos sectores dos assuntos parlamentares e da comunicação social, bem como a coordenação de projectos especiais e interdepartamentais.**
+O Secretário Regional da Presidência, para além das que lhe forem delegadas pelo Presidente do Governo Regional, tem por competências definir e executar as acções necessárias ao cumprimento da política regional nos sectores dos assuntos parlamentares e da comunicação social, bem como a coordenação de projectos especiais e interdepartamentais.
 
 ###### Artigo 31.º — Competências
 

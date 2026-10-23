@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05700/0000800038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2023/03/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2023-210518832
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 87af0e718215f4e1f72d6ebc6e9e9f070208c90626992acf8e812514bda6bbb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8e0f00c13fbafb001d05ed41cd4533c5511616852b114930a231a078a319c27
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Governo Regional
-- Definição de Competências
-- Integração de Trabalhadores
-- Quadro de Pessoal
 - Açores
-- Transferência Patrimonial
+- Definição de Competências
+- Governo Regional
+- Integração de Trabalhadores
+- Pessoal Dirigente
+- Quadro de Pessoal
 - Secretaria Regional da Educação e dos Assuntos Culturais
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:896791624:por
@@ -118,16 +118,102 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2022/04/29/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2022/04/29/a/dre
+- type: cites
+  target: pt:dre:128515586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166429420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166569091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170514957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185325081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670009:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:896791624:por
+  label: Revogado, a partir de 16 de novembro de 2024, pelo(a) Decreto Regulamentar Regional n.º 18/2024/A - Diário da República
+    n.º 222/2024, Série I de 2024-11-15 nos termos da alínea a) do artigo 7.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2024-896791624
+  date: '2024-11-15'
 article_structure:
   article_count: 60
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:58Z'
   warnings: []
   errors: []
 ---
@@ -182,11 +268,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 16 de fevereiro de 2023.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 15 de março de 2023.**
+Assinado em Angra do Heroísmo em 15 de março de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -352,7 +438,9 @@ b) Divisão de Aprovisionamento, Infraestruturas e Pessoal.
 
 4 - A DSTF é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau, que funciona na direta dependência do Secretário Regional.
 
-###### Artigo 8.º — Divisão de Contabilidade e Estatística
+###### Artigo 8.º
+
+##### Divisão de Contabilidade e Estatística
 
 1 - A Divisão de Contabilidade e Estatística, doravante designada por DCE, é um serviço de estudo, planeamento, organização e execução, que tem por missão apoiar os órgãos e serviços da SREAC nos domínios da gestão dos recursos contabilísticos e estatísticos e, ainda, nesse âmbito, assegurar a execução dos serviços de caráter administrativo.
 
@@ -404,7 +492,9 @@ t) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 5 - A SAA é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 9.º — Divisão de Aprovisionamento, Infraestruturas e Pessoal
+###### Artigo 9.º
+
+##### Divisão de Aprovisionamento, Infraestruturas e Pessoal
 
 1 - A Divisão de Aprovisionamento, Infraestruturas e Pessoal, doravante designada por DAIP, é um serviço que visa proceder ao estudo, planeamento, organização e execução de medidas e ações, no âmbito do apoio aos órgãos e serviços da SREAC nos domínios do aprovisionamento e da gestão de pessoal, bem como em matéria de procedimentos contratuais, assegurando a execução dos serviços de caráter administrativo.
 
@@ -620,7 +710,9 @@ e) Divisão de Gestão Financeira e Equipamentos.
 
 3 - Na dependência da DREAE funcionam as juntas médicas, a que se refere o artigo 20.º
 
-###### Artigo 15.º — Divisão da Educação Pré-Escolar, Básica e Inclusiva e do Desporto Escolar
+###### Artigo 15.º
+
+##### Divisão da Educação Pré-Escolar, Básica e Inclusiva e do Desporto Escolar
 
 1 - À Divisão da Educação Pré-Escolar, Básica e Inclusiva e do Desporto Escolar, doravante designada por DEPEBIDE, compete:
 
@@ -664,7 +756,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DEPEBIDE é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 16.º — Divisão dos Ensinos Secundário e Artístico
+###### Artigo 16.º
+
+##### Divisão dos Ensinos Secundário e Artístico
 
 1 - À Divisão dos Ensinos Secundário e Artístico, doravante designada por DESA, compete:
 
@@ -706,7 +800,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DESA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 17.º — Divisão de Gestão do Pessoal Docente
+###### Artigo 17.º
+
+##### Divisão de Gestão do Pessoal Docente
 
 1 - À Divisão de Gestão do Pessoal Docente, doravante designada por DGPD, compete:
 
@@ -736,7 +832,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGPD é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 18.º — Divisão de Gestão do Pessoal de Ação Educativa
+###### Artigo 18.º
+
+##### Divisão de Gestão do Pessoal de Ação Educativa
 
 1 - À Divisão de Gestão do Pessoal de Ação Educativa, doravante designada por DGPAE, compete:
 
@@ -764,7 +862,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DGPAE é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 19.º — Divisão de Gestão Financeira e Equipamentos
+###### Artigo 19.º
+
+##### Divisão de Gestão Financeira e Equipamentos
 
 1 - À Divisão de Gestão Financeira e Equipamentos, doravante designada por DGFE, compete:
 
@@ -944,7 +1044,9 @@ b) Secção de Apoio Administrativo;
 
 c) Secção de Apoio Financeiro.
 
-###### Artigo 26.º — Divisão de Serviços do Património
+###### Artigo 26.º
+
+##### Divisão de Serviços do Património
 
 1 - À Divisão de Serviços do Património, doravante designada por DSP, compete:
 
@@ -1018,7 +1120,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O CPMIA é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do diretor regional dos Assuntos Culturais, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 28.º — Secção de Apoio Administrativo
+###### Artigo 28.º
+
+#### Secção de Apoio Administrativo
 
 1 - À Secção de Apoio Administrativo, doravante designada por SAA, compete:
 
@@ -1048,7 +1152,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SAA é coordenada por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 29.º — Secção de Apoio Financeiro
+###### Artigo 29.º
+
+#### Secção de Apoio Financeiro
 
 1 - À Secção de Apoio Financeiro, doravante designada por SAF, compete:
 
@@ -1488,4 +1594,6 @@ Ao pessoal da carreira de monitor de formação profissional é aplicável o dis
 
 Quadro de pessoal dirigente e de chefia da Secretaria Regional da Educação e dos Assuntos Culturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/03/05700/0000800038.pdf))](https://files.diariodarepublica.pt/1s/2023/03/05700/0000800038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/03/05700/0000800038.pdf)
+
+116277423

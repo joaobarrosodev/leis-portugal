@@ -46,36 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-574315
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c02130ecd7714bac5c3c85dd8bdab54850ea9fb6d62857cb19801e4a9ea654a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68dcf325ce573b361e975efc106c14e8acac5eeb80a1e2928470e19c2d250251
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CAÇA
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618524:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:28Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +106,11 @@ Nestes termos:
 
 A Assembleia Legislativa Regional decreta, ao abrigo do disposto no artigo 1.º da [Lei n.º 28/89](https://diariodarepublica.pt/dr/detalhe/lei/28-1989-618524), de 22 de Agosto, e da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Consideram-se reportadas à Região Autónoma da Madeira todas as referências feitas ao Estado, assim como serão por aquela exercidas todas as atribuições a este conferidas pela [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
+Artigo 1.º - 1 - Consideram-se reportadas à Região Autónoma da Madeira todas as referências feitas ao Estado, assim como serão por aquela exercidas todas as atribuições a este conferidas pela [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
 
 2 - As alusões constantes, bem como as competências atribuídas pela [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, ao Governo e aos seus diferentes órgãos e serviços, consideram-se reportadas e serão exercidas na Região Autónoma da Madeira pelo Governo Regional e pelos seus correspondentes órgãos e serviços.
 
-###### Art. 2.º Os artigos 36.º, 37.º, n.º 1, 38.º, n.º 1, 39.º e 45.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, são aplicados na Região Autónoma com as seguintes adaptações:
+Art. 2.º Os artigos 36.º, 37.º, n.º 1, 38.º, n.º 1, 39.º e 45.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, são aplicados na Região Autónoma com as seguintes adaptações:
 
 ###### Artigo 36.º — Conselho Regional da Caça e da Conservação da Fauna
 
@@ -162,16 +176,16 @@ m) Constituição e funcionamento das federações de caçadores;
 
 n) Regime de participação das associações e federações de caçadores nas instâncias dos vários níveis de tutela da actividade venatória.
 
-###### Art. 3.º É revogado o [Decreto Legislativo Regional n.º 26/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1986-221174), de 9 de Dezembro.
+Art. 3.º É revogado o [Decreto Legislativo Regional n.º 26/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1986-221174), de 9 de Dezembro.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 13 de Junho de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 6 de Julho de 1990.**
+Assinado em 6 de Julho de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

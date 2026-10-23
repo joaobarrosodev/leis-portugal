@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/1991/05/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1991-630777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a24c49bbcc5f8ba2309f17087b34cd4346e6172fb9dcead44515c859cfecffef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76615e67081de10dc662f358af9dc01b5931364fbeda1a4426a36da1fe5b8a92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Contravenção
-- Veículo
-- Transporte de Mercadorias
 - Madeira.região Autónoma
+- Transporte de Mercadorias
 - Transporte Público
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:603508:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603508:por
+  label: "Determinada, até à entrada em vigor da portaria referida no n.º 2 do art. 15.º, a manutenção em vigor das normas\
+    \ de identificação dos veículos afectos ao transporte rodoviário de mercadorias por conta de outrem fixadas pelo presente\
+    \ diploma, pelo DLR.10/2009/M.30.03.2009.AL-RAM, DR.IS [62] de 30.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2009-603508
+  date: '2009-03-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:32Z'
   warnings: []
   errors: []
 ---
@@ -103,16 +110,16 @@ Nestes termos:
 
 Ao abrigo da alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Legislativa Regional da Madeira determina, para valer como lei, o seguinte:
 
-###### Artigo 1.º Passam a ser cores cativas dos veículos automóveis de transportes públicos ocasionais de mercadorias, na Região Autónoma da Madeira, o azul-cerúleo, como cor predominante, com uma risca longitudinal amarela-cádmio.
+Artigo 1.º Passam a ser cores cativas dos veículos automóveis de transportes públicos ocasionais de mercadorias, na Região Autónoma da Madeira, o azul-cerúleo, como cor predominante, com uma risca longitudinal amarela-cádmio.
 
-###### Art. 2.º A contravenção do disposto no número anterior será punida com a multa de 25000$00.
+Art. 2.º A contravenção do disposto no número anterior será punida com a multa de 25000$00.
 
-###### Art. 3.º O Secretário Regional da Administração Pública regulamentará os requisitos dos veículos automóveis de transporte público ocasionais de mercadorias da Região e a data de adopção das cores e dísticos.
+Art. 3.º O Secretário Regional da Administração Pública regulamentará os requisitos dos veículos automóveis de transporte público ocasionais de mercadorias da Região e a data de adopção das cores e dísticos.
 
 Aprovado em sessão plenária de 17 de Janeiro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.
 
-**Assinado em 7 de Fevereiro de 1990.**
+Assinado em 7 de Fevereiro de 1990.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

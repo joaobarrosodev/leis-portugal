@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/03/067b00/14141415.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/1993/03/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1993-637905
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a4edd3de7c41baa55851f1df4d4d185a6902ad52db4004c0a556d4dfa694ec8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f6857015d981d4bf933a0908dd1eb3bd416954d5e6bfe84d0c5fee674f0e5c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
-- Governo Regional
+- Açores
 - Direcção Regional da Indústria e Energia
 - Direcção Regional da Juventude
 - Direcção Regional do Comércio
@@ -79,11 +78,12 @@ subjects:
 - Fábrica de Tabaco Micaelense
 - Fundo Regional de Abastecimento
 - Gabinete de Gestão Financeira do Emprego
+- Governo Regional
 - Instituto Regional de Apoio ao Sector Cooperativo
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Secretaria Regional da Juventude Emprego Comércio Indústria e Energia
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:573749:por
@@ -105,16 +105,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/8/1991/03/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/8/1991/03/04/a/dre
+- type: cites
+  target: pt:dre:187315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616671:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:573749:por
+  label: "Revogado pelo DRR.17/95/A.25.09.1995.GR-RAA, DR.IS-B [222] de 25.09.1995, sem prejuízo do disposto nos n.ºs 2 e\
+    \ 3 do seu artigo 93.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1995-573749
+  date: '1995-09-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:18Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +165,7 @@ Neste momento, a reestruturação é feita ao nível das direcções regionais, 
 
 Assim, em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Secretaria Regional da Juventude, Emprego, Comércio, Indústria e Energia compreende as seguintes direcções regionais:
+Artigo 1.º A Secretaria Regional da Juventude, Emprego, Comércio, Indústria e Energia compreende as seguintes direcções regionais:
 
 a) Direcção Regional da Juventude;
 
@@ -135,15 +173,15 @@ b) Direcção Regional do Emprego;
 
 c) Direcção Regional do Comércio, Indústria e Energia.
 
-###### Art. 2.º A Direcção Regional da Juventude tem as atribuições previstas no artigo 14.º do [Decreto Regulamentar Regional n.º 14/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1990-333154), de 3 de Abril, e compreende os serviços previstos no artigo 15.º do mesmo diploma.
+Art. 2.º A Direcção Regional da Juventude tem as atribuições previstas no artigo 14.º do [Decreto Regulamentar Regional n.º 14/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1990-333154), de 3 de Abril, e compreende os serviços previstos no artigo 15.º do mesmo diploma.
 
-###### Art. 3.º A Direcção Regional do Emprego tem as atribuições previstas nos artigos 19.º e 35.º do [Decreto Regulamentar Regional n.º 14/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1990-333154), de 3 de Abril, e compreende os serviços previstos nos artigos 20.º, 23.º, 30.º e 36.º do mesmo diploma.
+Art. 3.º A Direcção Regional do Emprego tem as atribuições previstas nos artigos 19.º e 35.º do [Decreto Regulamentar Regional n.º 14/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1990-333154), de 3 de Abril, e compreende os serviços previstos nos artigos 20.º, 23.º, 30.º e 36.º do mesmo diploma.
 
-###### Art. 4.º A Direcção Regional do Comércio, Indústria e Energia tem as atribuições previstas nos artigos 7.º e 13.º do [Decreto Regulamentar Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726), de 9 de Março, com a redacção dada pelo artigo 1.º do [Decreto Regulamentar Regional n.º 8/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1991-466842), de 4 de Março, e compreende os serviços previstos nos artigos 8.º e 14.º do mesmo diploma.
+Art. 4.º A Direcção Regional do Comércio, Indústria e Energia tem as atribuições previstas nos artigos 7.º e 13.º do [Decreto Regulamentar Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726), de 9 de Março, com a redacção dada pelo artigo 1.º do [Decreto Regulamentar Regional n.º 8/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1991-466842), de 4 de Março, e compreende os serviços previstos nos artigos 8.º e 14.º do mesmo diploma.
 
-###### Art. 5.º O quadro de pessoal referente a directores regionais consta do mapa anexo ao presente diploma, de que faz parte integrante.
+Art. 5.º O quadro de pessoal referente a directores regionais consta do mapa anexo ao presente diploma, de que faz parte integrante.
 
-###### Art. 6.º Sem prejuízo do disposto nos artigos 3.º e 4.º, são extintos os seguintes serviços:
+Art. 6.º Sem prejuízo do disposto nos artigos 3.º e 4.º, são extintos os seguintes serviços:
 
 a) Direcção Regional dos Assuntos Laborais;
 
@@ -153,9 +191,9 @@ c) Direcção Regional do Comércio;
 
 d) Direcção Regional da Indústria e Energia.
 
-###### Art. 7.º As alterações orgânicas introduzidas pelo presente diploma são acompanhadas pelo consequente movimento do pessoal, sem dependência de qualquer formalidade e salvaguardado o seu estatuto profissional, de acordo com o disposto no artigo 17.º do [Decreto Legislativo Regional n.º 36/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-1988-480561), de 28 de Novembro, mantido em vigor pelo artigo 8.º do [Decreto Legislativo Regional n.º 1/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1993-229921), de 5 de Janeiro.
+Art. 7.º As alterações orgânicas introduzidas pelo presente diploma são acompanhadas pelo consequente movimento do pessoal, sem dependência de qualquer formalidade e salvaguardado o seu estatuto profissional, de acordo com o disposto no artigo 17.º do [Decreto Legislativo Regional n.º 36/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-1988-480561), de 28 de Novembro, mantido em vigor pelo artigo 8.º do [Decreto Legislativo Regional n.º 1/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1993-229921), de 5 de Janeiro.
 
-###### Art. 8.º - 1 - Funcionam na dependência directa do Secretário Regional da Juventude, Emprego, Comércio, Indústria e Energia os seguintes organismos e fundos autónomos:
+Art. 8.º - 1 - Funcionam na dependência directa do Secretário Regional da Juventude, Emprego, Comércio, Indústria e Energia os seguintes organismos e fundos autónomos:
 
 a) Gabinete de Gestão Financeira do Emprego;
 
@@ -171,20 +209,20 @@ a) Empresa de Electricidade dos Açores (EDA), E. P.;
 
 b) Fábrica de Tabaco Micaelense (FTM), E. P.
 
-###### Art. 9.º Mantêm-se em vigor, em tudo o que não for contrariado pelo presente diploma, o [Decreto Regulamentar Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726), de 9 de Março, com a redacção dada pelos Decretos Regulamentares Regionais n.os [8/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1991-466842), de 4 de Março, e [49/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/49-1992-616671), de 16 de Dezembro, e o [Decreto Regulamentar Regional n.º 14/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1990-333154), de 3 de Abril, com a redacção dada pelo [Decreto Regulamentar Regional n.º 15/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1992-187315), de 27 de Março.
+Art. 9.º Mantêm-se em vigor, em tudo o que não for contrariado pelo presente diploma, o [Decreto Regulamentar Regional n.º 9/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1990-332726), de 9 de Março, com a redacção dada pelos Decretos Regulamentares Regionais n.os [8/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1991-466842), de 4 de Março, e [49/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/49-1992-616671), de 16 de Dezembro, e o [Decreto Regulamentar Regional n.º 14/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1990-333154), de 3 de Abril, com a redacção dada pelo [Decreto Regulamentar Regional n.º 15/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1992-187315), de 27 de Março.
 
-###### Art. 10.º O presente diploma entra em vigor na data da sua publicação.
+Art. 10.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 27 de Janeiro de 1993.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 24 de Fevereiro de 1993.**
+Assinado em Angra do Heroísmo em 24 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/03/067b00/14141415.pdf))](https://files.diariodarepublica.pt/1s/1993/03/067b00/14141415.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/067b00/14141415.pdf)

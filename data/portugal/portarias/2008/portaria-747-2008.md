@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/747/2008/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-2008-455173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6c39a990c07298cace43f7be26e8d4741684356247898cc3b3003c88602dc58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74710a66875501ad565752cb181de5951ef6bc46835c14d569efd622662bc2bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:613683:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491184:por
+  label: "Substituída a planta anexa, e concessionada, pelo período de 12 anos, ao Clube de Caça e Pesca da Lagoa Sobrosa,\
+    \ a zona de caça associativa da Lagoa Sobrosa, pela PORT.1146/2009.02.10.2009.MAOTDR, DR.IS [192] de 02.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1146-2009-491184
+  date: '2009-10-02'
+- type: amended_by
+  target: pt:dre:613683:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa de Carvalhinho e Rochedo concessionada pelo presente\
+    \ diploma, alterada pela Port 1146/2009, de 02-Out, pela PORT.211/2010.15.04.2010.MADRP, DR.IS [73] de 15.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/211-2010-613683
+  date: '2010-04-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -84,16 +96,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:14Z'
   warnings: []
   errors: []
 ---
@@ -116,4 +136,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 24 de Julho de 2008. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 25 de Julho de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15000/0521705218.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15000/0521705218.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15000/0521705218.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/28772879.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/538/2007/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/538-2007-521213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69113e28345ffecabf799e8dca59cbaf78c3eed10e3866bc862d461186f494cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67b8f9f59e26ba062f3ff5e8b3d54b12a4baf27db9029470052d4a1f8fb60db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Estatuto
+- IAPMEI
 - Ministério da Economia e da Inovação
 - Secretário Geral
-- IAPMEI
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/2007/04/27/p/dre
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:236770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66603014:por
+  label: Revogada, a partir de 27.02.2015, pelo(a) Portaria n.º 51/2015 - Diário da República n.º 40/2015, Série I de 2015-02-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/51-2015-66603014
+  date: '2015-02-26'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:14Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +135,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 24 de Abril de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DE APOIO ÀS PEQUENAS E MÉDIAS EMPRESAS E À INOVAÇÃO, I. P.
 

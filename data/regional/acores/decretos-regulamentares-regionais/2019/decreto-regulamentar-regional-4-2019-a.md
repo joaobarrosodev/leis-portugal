@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/04/06700/0184101855.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2019/04/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2019-121987032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72ee7c18ff08e7ae462092c3a58eddcd36e2402e67146464a428fdd3116017ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c94d6b67de6f72bf8687a9ea29651f33ba6a6b67df4cce25635eb5e0e84c4852
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,19 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Água
 - Águas Públicas
-- ILHA de são Miguel
-- Ordenamento do Território
-- Lagoa das Sete Cidades
-- Proteção do Ambiente
-- Gestão do Ambiente
 - Bacia Hidrográfica
-- Zona de Proteção
-- Política de Solos
 - Domínio Público Hídrico
+- Gestão do Ambiente
+- ILHA de são Miguel
+- Lagoa das Sete Cidades
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
 - Regulamento
-- Açores
+- Zona de Proteção
 relationships:
 - type: cites
   target: celex:31991L0676
@@ -103,6 +103,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/3/2005/02/16/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/3/2005/02/16/a/dre
+- type: cites
+  target: pt:dre:106404757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693262:por
+  label: null
+  source: null
 - type: transposes
   target: celex:31991L0676
   label: null
@@ -110,13 +130,13 @@ relationships:
 article_structure:
   article_count: 51
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:28Z'
   warnings: []
   errors: []
 ---
@@ -201,11 +221,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de novembro de 2018.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 25 de março de 2019.**
+Assinado em Angra do Heroísmo em 25 de março de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1011,14 +1031,16 @@ Aos atos praticados em violação das normas do presente Regulamento aplica-se o
 
 Planta de Síntese
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/06700/0184101855.pdf))](https://files.diariodarepublica.pt/1s/2019/04/06700/0184101855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/06700/0184101855.pdf)
 
 ## ANEXO III — [a que se refere a alínea c) do n.º 2 do artigo 1.º]
 
 Planta de Condicionantes I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/06700/0184101855.pdf))](https://files.diariodarepublica.pt/1s/2019/04/06700/0184101855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/06700/0184101855.pdf)
 
 Planta de Condicionantes II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2019/04/06700/0184101855.pdf))](https://files.diariodarepublica.pt/1s/2019/04/06700/0184101855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2019/04/06700/0184101855.pdf)
+
+112172545

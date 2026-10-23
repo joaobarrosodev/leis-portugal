@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff8da481a8e4aa0883cce10265bd825ae3658db75f94b5a348508776645b0c3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1c75e15b78fad3d5d500684a0b9f020df21c1588e1cae3a8b6a646c90c9e038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Centro de Saúde
+- Orgânica
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:459947:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332945:por
+  label: "Alterados os arts. 18º, 37º e 62º, e revogados os arts. 60º e 67º, pelo DRR.6/90/A.1990.02.02.GR-RAA, DR.IS [47]\
+    \ de 24/Fev/1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1990-332945
+  date: '1990-02-02'
+- type: amended_by
+  target: pt:dre:383448:por
+  label: "Alterado o artº 18º pelo DRR.9/97/A.1997.03.27.SREAS-RAA DR.IS-B [106] de 08/Mai/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1997-383448
+  date: '1997-03-27'
+- type: amended_by
+  target: pt:dre:176359:por
+  label: "Alterado o art. 18º pelo DRR.8/98/A.1998.03.20.SREAS-RAA, DR.IS-B [97] de 27/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-1998-176359
+  date: '1998-03-20'
+- type: cites
+  target: pt:dre:388990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470454:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:301856:por
+  label: Rectificado pela DECL.DD4671.10.03.1986.PCM, DR.IS [74-Supl] de 31.03.1986
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1986-301856
+  date: '1986-03-10'
+- type: repealed_by
+  target: pt:dre:644159:por
+  label: "Revogado o artigo 33.º pelo DRR.11/2001/A.10.09.2001.PG-RAA, DR.IS-B [210] de 10.09.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2001-644159
+  date: '2001-09-10'
 article_structure:
   article_count: 86
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:36Z'
   warnings: []
   errors: []
 ---
@@ -1102,10 +1140,10 @@ O diploma que criar a comissão coordenadora de ilha definirá a forma de remune
 
 Aprovado em Conselho do Governo Regional em 4 de Novembro de 1985.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 30 de Dezembro de 1985.**
+Assinado em Angra do Heroísmo em 30 de Dezembro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

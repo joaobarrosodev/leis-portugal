@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/20700/0001400018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/52/2021/10/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/52-2021-173345923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3be9da842781f971996c4445203a4d5d825b46cb91442c9f3d1c13a931ac950d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba52cb8bb633b5714729e46607ef8607f951ca99f3bb8c62514aea6e707f4283
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa Regional
 - Comissão Especializada Permanente
+- Comissão Especializada Permanente de Assuntos Parlamentares Ambiente e Desenvolvimento Sustentável
 - Comissão Especializada Permanente de Assuntos Sociais
 - Comissão Especializada Permanente de Economia
 - Comissão Especializada Permanente de Política Geral
 - Comissão Permanente
 - Definição de Competências
 - Orgânica
-- Açores
-- Comissão Especializada Permanente de Assuntos Parlamentares Ambiente e Desenvolvimento Sustentável
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/3/2009/03/06/a/dre
@@ -97,16 +97,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalraa/49/2021/08/11/a/dre
   label: null
   source: http://data.dre.pt/eli/resolalraa/49/2021/08/11/a/dre
+- type: cites
+  target: pt:dre:153013707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169418569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604800:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:19Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +159,9 @@ Os n.os 3 e 4 do artigo 6.º e o n.º 1 do artigo 7.º da [Resolução da Assemb
 
 6 - [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A Comissão Permanente é composta pelo Presidente e Vice-Presidentes da Assembleia e por mais vinte e dois deputados, sendo oito do PS, cinco do PSD, dois do CDS-PP, dois do BE, dois do PPM, um do CH, um do IL e um do PAN.
 
@@ -157,7 +179,7 @@ A presente resolução entra em vigor no dia seguinte à sua publicação e prod
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 1 de outubro de 2021.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
 ## ANEXO — (a que se refere o artigo 2.º)
 
@@ -370,3 +392,5 @@ Cada comissão desta Assembleia Legislativa tem direito a usufruir de apoio téc
 ###### Artigo 9.º — Entrada em vigor e produção de efeitos
 
 A presente resolução entra em vigor no dia seguinte à sua publicação e produz efeitos à data da sua aprovação.
+
+114665426

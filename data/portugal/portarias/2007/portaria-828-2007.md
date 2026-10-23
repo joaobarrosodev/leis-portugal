@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/08/14700/0490604906.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/828/2007/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/828-2007-636392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cbf318dfa1fa2054cf8ccb775549b975719e82dd961cb48460cc49f4256239fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 331e4719cb248b9288fbd659d290d96fa8b7e103aca3def18227e00bdcf3a6d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -87,16 +87,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/75/1993/01/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/75/1993/01/20/p/dre
+- type: cites
+  target: pt:dre:521257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608056:por
+  label: "Revogada, a partir de 11.05.2009, pela PORT.468/2009.06.05.2009.PCM, DR.IS [87] de 06.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/468-2009-608056
+  date: '2009-05-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:13Z'
   warnings: []
   errors: []
 ---
@@ -121,8 +138,8 @@ Manda o Governo, pelo Ministro de Estado e das Finanças e pelo Secretário de E
 
 Em 13 de Julho de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado da Presidência do Conselho de Ministros, Jorge Lacão Costa.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado da Presidência do Conselho de Ministros, Jorge Lacão Costa.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/14700/0490604906.pdf))](https://files.diariodarepublica.pt/1s/2007/08/14700/0490604906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/14700/0490604906.pdf)

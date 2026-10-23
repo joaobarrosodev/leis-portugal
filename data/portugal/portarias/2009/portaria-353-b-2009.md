@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 66/2009, 1º Suplemento, Série I de 2009-04-03
   number: '66'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2128-(15) a 2128-(31)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/06601/0001500031.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/353-b/2009/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/353-b-2009-418661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61008c9e24bf21f571a9d33d08bb88f6a6cec13a8c5dd41ae36366360e68c23f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 058718daf499e569aaaab2d36ae0e114da2bcb996080d836a0ea1d01ea0d1904
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
+- Apoio ao Investimento
 - Empresa
 - Investigação Científica e Tecnológica
-- Mudança Tecnológica
-- Apoio ao Investimento
-- Projeto de Investimento
 - Investimento
+- Mudança Tecnológica
+- Projeto de Investimento
+- QREN
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:174870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307649:por
+  label: "Alterados os arts. 9.º, 10.º, 11.º, 13.º, 14.º, 14.º-A, 17.º, 18.º, 20.º, 22.º, 23.º e 26.º, bem como o anexo A,\
+    \ do Regulamento do Sistema de Incentivos à Investigação e Desenvolvimento Tecnológico, aprovado pela Port 1462/2007,\
+    \ de 15-Nov, na redacção e republicação do presente diploma, republicado, na íntegra, em anexo pela PORT.1102/2010.25.10.2010.MEID,\
+    \ DR.IS [207] de 25.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1102-2010-307649
+  date: '2010-10-25'
 - type: cites
   target: celex:32006R1998
   label: null
@@ -95,16 +103,23 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: repealed_by
+  target: pt:dre:174870:por
+  label: "Revogado o carácter transitório das normas abrangidas pelo nº 1 do art. 3º da Port 1102/2010 de 25-out (art. 4º\
+    \ do presente diploma, que alterou a Port 1462/2007 de 15-nov) pela PORT.274/2012.06.09.2012.MEE, DR.IS [173] de 06.09.2012\0\
+    2\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-2012-174870
+  date: '2012-09-06'
 article_structure:
-  article_count: 49
+  article_count: 34
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:40Z'
   warnings: []
   errors: []
 ---
@@ -149,7 +164,9 @@ Os artigos 1.º, 5.º, 7.º, 9.º, 10.º, 11.º, 13.º, 14.º, 14.º-A, 16.º, 1
 
 O presente Regulamento define as regras aplicáveis ao Sistema de Incentivos à Investigação e Desenvolvimento Tecnológico nas empresas, adiante designado por SI I&DT, criado ao abrigo do enquadramento nacional dos sistemas de incentivos ao investimento nas empresas, adiante designado por enquadramento nacional, aprovado pelo Decreto-Lei n.º 287/2007, de 17 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 65/2009, de 20 de Março.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - São susceptíveis de apoio as seguintes tipologias de projectos:
 
@@ -167,7 +184,7 @@ b) I&DT colectiva, projectos de I&DT promovidos por associações empresariais q
 
 c) Capacitação e reforço de competências internas de I&DT:
 
-i) Núcleos de I&DT, promovidos por empresas PME, visando desenvolver na empresa de forma sustentada competências internas de I&DT e de gestão da inovação, através de unidades estruturadas com características de permanência e dedicadas exclusivamente a actividades de I&DT;
+i) Núcleos de I&DT, promovidos por empresas PME, visando desenvolver na empresa de forma sustentada competências internas de I&DT e de gestão da inovação, através de unidades estruturadas com características de permanência e dedicadas exclusivamente a actividades de I&DT
 
 ii) ...
 
@@ -175,7 +192,9 @@ d) Valorização de I&DT, projectos demonstradores promovidos por empresas, que,
 
 2 - Os projectos podem integrar parceiros nacionais ou estrangeiros, os quais não podem beneficiar de qualquer incentivo previsto no presente Regulamento.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - São susceptíveis de apoio no âmbito do SI I&DT os projectos de investimento que incidam nas actividades previstas no n.º 1 do artigo 9.º do enquadramento nacional, sem prejuízo dos avisos de abertura dos concursos para a apresentação de candidaturas poderem restringir as actividades abrangidas em cada concurso.
 
@@ -187,7 +206,9 @@ d) Valorização de I&DT, projectos demonstradores promovidos por empresas, que,
 
 5 - Ao abrigo do n.º 2 do artigo 9.º do enquadramento nacional, são ainda susceptíveis de apoio os projectos que incidam sobre as actividades incluídas no grupo 412 e nas divisões 42 e 43 da CAE, de acordo com a Classificação Portuguesa das Actividades Económicas (CAE), revista pelo Decreto-Lei n.º 381/2007, de 14 de Novembro.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +232,9 @@ b) Para efeitos do disposto na alínea f) do artigo 11.º do enquadramento nacio
 
 6 - Nos casos em que o aviso de abertura de concurso preveja uma fase de pré-qualificação, à data de apresentação da pré-candidatura apenas têm de estar verificadas as condições estabelecidas nas alíneas a) e c) do n.º 1, sem prejuízo da comprovação da manutenção do seu cumprimento, bem como das restantes condições de elegibilidade aplicáveis, na fase subsequente de candidatura, nos termos acima estabelecidos.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -219,7 +242,7 @@ a) ...
 
 b) Com excepção dos núcleos e centros de I&DT, ter carácter inovador e incorporar desenvolvimentos técnicos ou tecnológicos significativos ou, no caso de projectos demonstradores, ter carácter inovador alicerçado em actividades nacionais de I&DT concluídas com sucesso;
 
-c) No caso de projectos de empresas Não PME, justificar o efeito de incentivo, isto é, demonstrar que o incentivo induz um aumento significativo da dimensão do projecto, um aumento significativo do seu âmbito, um aumento significativo do montante total dispendido pelo beneficiário no projecto, um aumento significativo do ritmo de realização do projecto ou um aumento do montante total afecto à I&DT;
+c) No caso de projectos de empresas Não PME, justificar o efeito de incentivo, isto é, demonstrar que o incentivo induz um aumento significativo da dimensão do projecto, um aumento significativo do seu âmbito, um aumento significativo do montante total dispendido pelo beneficiário no projecto, um aumento significativo do ritmo de realização do projecto ou um aumento do montante total afecto à I&DT
 
 d) Com excepção dos núcleos e centros de I&DT, envolver recursos humanos qualificados cujos curricula garantam a sua adequada execução;
 
@@ -295,7 +318,9 @@ c) ...
 
 10 - Nas situações em que esteja prevista uma pré-qualificação, deve nesta fase ser comprovado o cumprimento dos requisitos estabelecidos nas alíneas b), c), g) e h) do n.º 1, e no caso de projectos mobilizadores, verificar ainda o estabelecido na alínea a) do n.º 2, e, no caso de projectos de I&DT colectiva, o disposto nas alíneas a) e c) do n.º 6.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - No caso de projectos de I&DT empresas, com excepção do vale I&DT, e projectos demonstradores, consideram-se elegíveis as seguintes despesas:
 
@@ -353,7 +378,9 @@ d) Modelos computacionais dos protótipos com funções de simulação, quando a
 
 10 - (Anterior n.º 11.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -393,7 +420,9 @@ c) ...
 
 3 - (Revogado.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - No caso de projectos de I&DT empresas individuais, em co-promoção e mobilizadores, e de projectos demonstradores, o incentivo a conceder às empresas é calculado através da aplicação às despesas elegíveis de uma taxa base máxima de 25 %, a qual poderá ser acrescida das seguintes majorações:
 
@@ -449,7 +478,9 @@ c) Nos projectos de centros de I&DT promovidos por não PME, os incentivos relat
 
 11 - (Anterior n.º 9.)
 
-###### Artigo 14.º-A — [...]
+Artigo 14.º-A
+
+[...]
 
 1 - Podem ser considerados como projectos do regime especial, os projectos individuais referidos na subalínea i) da alínea a) do n.º 1 do artigo 5.º que se revelem de especial interesse para a economia nacional pelo seu efeito estruturante para o desenvolvimento, diversificação e internacionalização da economia portuguesa e ou de sectores de actividade, regiões e áreas considerados estratégicos, com destaque para os critérios definidos no n.º 5 do artigo 18.º
 
@@ -457,7 +488,9 @@ c) Nos projectos de centros de I&DT promovidos por não PME, os incentivos relat
 
 3 - Os projectos do regime especial são sujeitos a um processo negocial específico precedido da obtenção de pré-vinculação do órgão de gestão quanto ao incentivo máximo e outras condições a estabelecer, em contrapartida da obtenção de metas e obrigações adicionais a assegurar pelos promotores no âmbito do correspondente contrato de concessão de incentivos.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -467,7 +500,9 @@ c) Nos projectos de centros de I&DT promovidos por não PME, os incentivos relat
 
 4 - No caso de projectos de I&DT Colectiva e de projectos mobilizadores, a apresentação de candidaturas poderá ser precedida de uma fase de pré-qualificação, nos termos a definir no aviso de abertura do concurso.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -479,7 +514,9 @@ c) Nos projectos de centros de I&DT promovidos por não PME, os incentivos relat
 
 5 - Os avisos de abertura são definidos pelos órgãos de gestão competentes, ouvida a comissão de selecção, sendo divulgados através dos seus respectivos sítios na Internet e no Portal Incentivos QREN.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - Os projectos, com excepção do vale I&DT, serão avaliados através do indicador de mérito do projecto (MP), em função de um conjunto de critérios de selecção e com base em metodologia de cálculo definida no aviso de abertura de concurso, ou no caso dos projectos do regime especial, com base em metodologia específica.
 
@@ -499,7 +536,9 @@ c) ...
 
 6 - A selecção dos projectos da tipologia vale I&DT é efectuada por ordem crescente da dimensão da empresa, medida pelo número de trabalhadores, até ao limite orçamental definido no aviso de abertura do concurso, sem prejuízo do referido limite poder ser reforçado por decisão da respectiva autoridade de gestão, e, em caso de igualdade, em função da data de entrada da candidatura, podendo o aviso estabelecer factores ponderadores deste critério.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -527,7 +566,9 @@ h) ...
 
 5 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 (Actual corpo do artigo)
 
@@ -551,7 +592,9 @@ i) Quando aplicável, cumprir os normativos em matéria de contratação públic
 
 j) Publicitar os apoios atribuídos nos termos da regulamentação e regras aplicáveis.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -559,11 +602,15 @@ j) Publicitar os apoios atribuídos nos termos da regulamentação e regras apli
 
 3 - (Revogado.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Com excepção dos projectos de I&DT colectiva, o SI I&DT respeita o Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de Agosto, relativo ao Regulamento Geral de Isenção por Categoria, excepto no caso de despesas enquadradas ao abrigo do Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), de 15 de Dezembro, relativo aos auxílios de minimis, quando assinalado.
 
-## ANEXO A — Situação económica e financeira equilibrada
+ANEXO A
+
+Situação económica e financeira equilibrada
 
 1 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 9.º do presente Regulamento, considera-se que as empresas possuem uma situação económico-financeira equilibrada quando apresentem um rácio de autonomia financeira não inferior a 0,15 e, no caso de entidades privadas do SCT e associações empresariais, quando apresentem situação líquida positiva.
 
@@ -589,7 +636,9 @@ CP(índice e) - capital próprio da empresa, incluindo novas entradas de capital
 
 7 - Para efeitos do disposto nos n.os 5 e 6, pode ser adicionado aos capitais próprios o autofinanciamento gerado durante a realização do projecto.
 
-## ANEXO B — Identificação dos órgãos de gestão
+ANEXO B
+
+Identificação dos órgãos de gestão
 
 1 - Para efeitos do disposto no n.º 2 do artigo 19.º, o órgão de gestão competente, que assegura o co-financiamento dos investimentos localizados nas regiões Convergência NUTS II (Norte, Centro e Alentejo), quando estão em causa fundos estruturais, é o seguinte:
 
@@ -633,7 +682,7 @@ c) [Revogado].
 
 Taxas de apoio máximas em ESB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06601/0001500031.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06601/0001500031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06601/0001500031.pdf)
 
 ###### Artigo 4.º — Regime transitório
 
@@ -655,7 +704,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 20 de Março de 2009.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.
 
 ## ANEXO
 
@@ -709,7 +758,7 @@ b) I&DT colectiva, projectos de I&DT promovidos por associações empresariais q
 
 c) Capacitação e reforço de competências internas de I&DT:
 
-i) Núcleos de I&DT, promovidos por empresas PME, visando desenvolver na empresa de forma sustentada competências internas de I&DT e de gestão da inovação, através de unidades estruturadas com características de permanência e dedicadas exclusivamente a actividades de I&DT;
+i) Núcleos de I&DT, promovidos por empresas PME, visando desenvolver na empresa de forma sustentada competências internas de I&DT e de gestão da inovação, através de unidades estruturadas com características de permanência e dedicadas exclusivamente a actividades de I&DT
 
 ii) Centros de I&DT, promovidos por empresas que já desenvolvem de forma contínua e estruturada actividades de I&DT, visando o aumento do esforço de I&DT para além das linhas de investigação quotidianas normais da empresa;
 
@@ -775,7 +824,7 @@ a) Não incluir despesas anteriores à data da candidatura, à excepção dos ad
 
 b) Com excepção dos núcleos e centros de I&DT, ter carácter inovador e incorporar desenvolvimentos técnicos ou tecnológicos significativos ou, no caso de projectos demonstradores, ter carácter inovador alicerçado em actividades nacionais de I&DT concluídas com sucesso;
 
-c) No caso de projectos de empresas Não PME, justificar o efeito de incentivo, isto é, demonstrar que o incentivo induz um aumento significativo da dimensão do projecto, um aumento significativo do seu âmbito, um aumento significativo do montante total dispendido pelo beneficiário no projecto, um aumento significativo do ritmo de realização do projecto ou um aumento do montante total afecto à I&DT;
+c) No caso de projectos de empresas Não PME, justificar o efeito de incentivo, isto é, demonstrar que o incentivo induz um aumento significativo da dimensão do projecto, um aumento significativo do seu âmbito, um aumento significativo do montante total dispendido pelo beneficiário no projecto, um aumento significativo do ritmo de realização do projecto ou um aumento do montante total afecto à I&DT
 
 d) Com excepção dos núcleos e centros de I&DT, envolver recursos humanos qualificados cujos curricula garantam a sua adequada execução;
 
@@ -807,11 +856,11 @@ b) O núcleo a apoiar deve possuir até à data de conclusão do projecto um sis
 
 a) O centro a apoiar deve estar integrado na política de inovação da empresa e apresentar um programa estratégico reportado a um horizonte temporal mínimo de três anos, com explicitação de objectivos e metas quantificadas finais e intercalares, incluindo nomeadamente:
 
-a1) Contratação de recursos humanos qualificados para I&DT;
+a1) Contratação de recursos humanos qualificados para I&DT
 
-a2) Investimentos em equipamentos e outros meios de I&DT;
+a2) Investimentos em equipamentos e outros meios de I&DT
 
-a3) Projectos a desenvolver no âmbito do 7.º Programa Quadro de I&D;
+a3) Projectos a desenvolver no âmbito do 7.º Programa Quadro de I&D
 
 a4) Aquisição de tecnologia e serviços às entidades do SCT;
 
@@ -821,7 +870,7 @@ a6) Indicadores de resultado: patentes registadas e valorizadas, indicadores de 
 
 b) O centro a apoiar deve possuir até à data de conclusão do projecto:
 
-b1) Pelo menos cinco técnicos em equivalente a tempo integral (ETI), com, pelo menos, um doutorado, dedicados a actividades de I&D;
+b1) Pelo menos cinco técnicos em equivalente a tempo integral (ETI), com, pelo menos, um doutorado, dedicados a actividades de I&D
 
 b2) Um sistema de gestão da investigação, desenvolvimento e inovação certificado segundo a NP 4457:2007.
 
@@ -1273,4 +1322,4 @@ b) Nas restantes tipologias de projecto, corresponde à região NUTS II onde se 
 
 Taxas de apoio máximas em ESB
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/04/06601/0001500031.pdf))](https://files.diariodarepublica.pt/1s/2009/04/06601/0001500031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/04/06601/0001500031.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/5/1996/03/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/5-1996-546253
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17b3e55a2c43d74662ab6d0131c445916491d71089d0979f457a1058f1eee395
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88dc4f82254429240088adb196823929dbbba9d0a3febe8f8ca4bfc478d36ddf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Planeamento Regional
 - Plano Económico
 - Plano Regional
-- Açores
 relationships:
 - type: cites
   target: celex:31977R0355
@@ -113,13 +113,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:13Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +130,7 @@ A Assembleia Legislativa Regional dos Açores resolve, nos termos da alínea o) 
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 9 de Fevereiro de 1996.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
 Introdução
 
@@ -166,7 +166,7 @@ Em termos globais e numa perspectiva macroeconómica, o ano de 1995 poderá marc
 
 Indicadores (ver nota *) - Variações anuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 (nota *) Perspectives económiques de l'OCDE (Junho de 1995.)
 
@@ -208,7 +208,7 @@ Indicadores de actividade económica
 
 Taxas de variação homólogas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 No mercado de trabalho, a partir da informação retirada dos inquéritos ao emprego, constata-se que a taxa de desemprego apurada no 2.º trimestre de 1995 é de 7,7%, enquanto em período homólogo de 1994 era de cerca de 6,5%. Também neste agregado se mantém a tendência observada em outras economias, ou seja, a fase inicial de recuperação não tem no imediato um impacte positivo no mercado de trabalho.
 
@@ -324,7 +324,7 @@ A adição do investimento promovido pelo Governo Regional, através do Plano (o
 
 Haverá ainda a considerar, no domínio da aplicação de recursos financeiros públicos, as intenções de investimento das autarquias locais, que no seu conjunto deverão ultrapassar os 6 milhões de contos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 2 - Plano Regional
 
@@ -332,7 +332,7 @@ O valor global do investimento público inscrito no Plano para 1996 é de 33,4 m
 
 Em termos de estrutura da programação adoptada, o investimento por eixo de desenvolvimento é o seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 VII - Financiamento
 
@@ -350,7 +350,7 @@ A desagregação espacial é apresentada num quadro resumo, a nível de programa
 
 Plano - 1996
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 1 - Eixo: Dinamização da actividade económica
 
@@ -498,7 +498,7 @@ A política dirigida ao sector do comércio e serviços abarcará os apoios à p
 
 3 - Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 Programa n.º 1 - Agricultura
 
@@ -598,7 +598,7 @@ Conteúdo. - Pretende-se incentivar a reestruturação do parque comercial da Re
 
 Dotação. - 245500 contos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 1 - Eixo: Desenvolvimento dos recursos humanos
 
@@ -620,7 +620,7 @@ A Pousada de Juventude da Horta será objecto de especial atenção, para que em
 
 3 - Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 Programa n.º 8 - Construções Escolares
 
@@ -774,7 +774,7 @@ Dotação. - 242800 contos.
 
 Transportes e energia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 1 - Eixo: Transportes e energia
 
@@ -792,11 +792,11 @@ Por outro lado, torna-se igualmente necessário continuar a promover a mobilidad
 
 No que concerne à política energética têm sido implementadas medidas de modernização e reestruturação do sector energético, promovendo o aproveitamento integrado dos recursos energéticos endógenos, bem como incentivando uma utilização racional da energia.
 
-# Parte substancial da intervenção no subsistema eléctrico está cometida à EDA, constando do seu plano de investimentos as principais acções a desenvolver. Ao nível governamental, as principais linhas de intervenção passam pelo financiamento de remodelações a efectuar em centrais hídricas da ilha das Flores, nos termos estabelecidos no protocolo que formalizou a transferência do sistema electroprodutor daquela ilha para a EDA, E. P.; comparticipação em projectos relativos ao Programa Energia, criado pelo Decreto-Lei n.º 195/94, de 18 de Julho, e adaptado à Região pela Resolução n.º 11/95, de 2 de Fevereiro; reformulação do Plano Energético da Região; participação no Programa Islenet, bem como na FEDARENE - Federação Europeia de Energia e Ambiente; apoio financeiro à electrificação de locais públicos, designadamente jardins e instituições de carácter cultural, e apoio a iniciativas de utilização racional de energia, nomeadamente campanhas de sensibilização para a eficiência energética.
+Parte substancial da intervenção no subsistema eléctrico está cometida à EDA, constando do seu plano de investimentos as principais acções a desenvolver. Ao nível governamental, as principais linhas de intervenção passam pelo financiamento de remodelações a efectuar em centrais hídricas da ilha das Flores, nos termos estabelecidos no protocolo que formalizou a transferência do sistema electroprodutor daquela ilha para a EDA, E. P.; comparticipação em projectos relativos ao Programa Energia, criado pelo Decreto-Lei n.º 195/94, de 18 de Julho, e adaptado à Região pela Resolução n.º 11/95, de 2 de Fevereiro; reformulação do Plano Energético da Região; participação no Programa Islenet, bem como na FEDARENE - Federação Europeia de Energia e Ambiente; apoio financeiro à electrificação de locais públicos, designadamente jardins e instituições de carácter cultural, e apoio a iniciativas de utilização racional de energia, nomeadamente campanhas de sensibilização para a eficiência energética.
 
 3 - Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 Programa n.º 13 - Transportes Terrestres
 
@@ -904,7 +904,7 @@ Dotação. - 190300 contos.
 
 Ambiente e qualidade de vida
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 1 - Eixo: Ambiente e qualidade de vida
 
@@ -932,7 +932,7 @@ No âmbito da protecção civil continuará o esforço de construção, ampliaç
 
 3 - Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 Programa n.º 18 - Ambiente
 
@@ -1270,7 +1270,7 @@ Dotação. - 500000 contos.
 
 Apoio global
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 1 - Eixo: Apoio global
 
@@ -1292,7 +1292,7 @@ A política de cooperação externa virada para o quadro da integração dos Aç
 
 3 - Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf))](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/076b00/06360663.pdf)
 
 Programa n.º 28 - Administração Regional e Local
 

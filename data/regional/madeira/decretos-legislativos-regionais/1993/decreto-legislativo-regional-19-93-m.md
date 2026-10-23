@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/1993/09/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-1993-660476
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b48b088a6fa6597179a57b521f0b131836ff37942f7a1997ba2b0a059caa182d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 828cf8f0064a4a80dab6880b0c4138cbcccb76ad2453024b8ab5863d12055e87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,8 +72,8 @@ subjects:
 - Extinção de Serviços
 - Fundo de Investimento para o Futebol Profissional
 - Instituto do Desporto da Região Autónoma da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Transferência Patrimonial
 relationships:
@@ -81,20 +81,44 @@ relationships:
   target: pt:dre:517385:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 1997.03.17\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1997-02-27'
+- type: amended_by
+  target: pt:dre:517385:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 17/Mar/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1997-517385
+  date: '1997-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
+  article_count: 24
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:51Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +171,9 @@ h) Pronunciar-se sobre as normas de segurança desportiva a observar em todos os
 
 ### CAPÍTULO II — Órgãos, serviços e competências específicas
 
-#### SECÇÃO I — Artigo 3.º
+#### SECÇÃO I
+
+###### Artigo 3.º
 
 Dos órgãos
 
@@ -521,12 +547,12 @@ O pessoal em regime de requisição e destacamento mantém-se nessa situação e
 
 Aprovado em sessão plenária de 22 de Julho de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 6 de Agosto de 1993.**
+Assinado em 6 de Agosto de 1993.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-## Anexo I a que se refere o n.º 2 do artigo 17.º do presente diploma
+Anexo I a que se refere o n.º 2 do artigo 17.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/219a00/50665074.pdf))](https://files.diariodarepublica.pt/1s/1993/09/219a00/50665074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/219a00/50665074.pdf)

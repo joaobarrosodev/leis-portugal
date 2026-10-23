@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09700/10411042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/6-1982-606707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3227710e76409204ac4a97032338c5fac539cc99eda5c438c7c6fd219e21e52
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 475f18c048f1cc42a76f63e069597dcb05fab603e7609a6affde8741d6df8463
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Poluição Sonora
 relationships:
 - type: amended_by
   target: pt:dre:334973:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:328049:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:334973:por
+  label: "Revogado pelo DLR.23/2010/A.30.06.2010.AL-RAA, DR.IS [125] de 30.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/23-2010-334973
+  date: '2010-06-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:33Z'
   warnings: []
   errors: []
 ---
@@ -94,24 +105,24 @@ Uma destas fontes é, sem dúvida, o velocípede, quer de 2, quer de 3 rodas, pe
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República, o seguinte:
 
-###### Artigo 1.º - 1 - A matrícula nas câmaras municipais dos velocípedes com motor, nos termos do n.º 1 do artigo 45.º do Código da Estrada, será sempre precedida da verificação do grau de ruídos provocados simultaneamente pelos dispositivos do escape e por outros órgãos do motor.
+Artigo 1.º - 1 - A matrícula nas câmaras municipais dos velocípedes com motor, nos termos do n.º 1 do artigo 45.º do Código da Estrada, será sempre precedida da verificação do grau de ruídos provocados simultaneamente pelos dispositivos do escape e por outros órgãos do motor.
 
 2 - Para o efeito, os proprietários dos referidos velocípedes deverão apresentar nas respectivas câmaras um certificado comprovativo da conformidade do grau de ruídos com os limites estabelecidos na Região.
 
-###### Art. 2.º O certificado será emitido pela Direcção Regional dos Transportes Terrestres, a qual assegurará, mesmo por delegação, a prestação deste serviço em cada uma das ilhas da Região.
+Art. 2.º O certificado será emitido pela Direcção Regional dos Transportes Terrestres, a qual assegurará, mesmo por delegação, a prestação deste serviço em cada uma das ilhas da Região.
 
-###### Art. 3.º Nos termos da alínea d) do artigo 5.º do [Decreto Regulamentar Regional n.º 20/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1978-328049), de 20 de Outubro, compete à Direcção Regional de Transportes Terrestres a aprovação, conforme o disposto no n.º 9 do artigo 38.º do Código da Estrada, dos modelos dos velocípedes com motor que circulam na Região.
+Art. 3.º Nos termos da alínea d) do artigo 5.º do [Decreto Regulamentar Regional n.º 20/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1978-328049), de 20 de Outubro, compete à Direcção Regional de Transportes Terrestres a aprovação, conforme o disposto no n.º 9 do artigo 38.º do Código da Estrada, dos modelos dos velocípedes com motor que circulam na Região.
 
-###### Art. 4.º São anuláveis as transmissões inter vivos de velocípedes com motor que, pelas suas características, não possam obter o certificado a que se refere este diploma.
+Art. 4.º São anuláveis as transmissões inter vivos de velocípedes com motor que, pelas suas características, não possam obter o certificado a que se refere este diploma.
 
-###### Art. 5.º As disposições do presente diploma entram em vigor em 1 de Julho de 1982.
+Art. 5.º As disposições do presente diploma entram em vigor em 1 de Julho de 1982.
 
 Aprovado em Assembleia Regional dos Açores em 22 de Março de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 14 de Abril de 1982.**
+Assinado em Angra do Heroísmo em 14 de Abril de 1982.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

@@ -4,7 +4,7 @@ id: pt:dre:151327:por
 title: Portaria n.º 766-B/2007
 short_title: null
 summary: Aprova o Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição
-  no Ano Lectivo de 2007-2008 4364-(6)
+  no Ano Lectivo de 2007-2008      4364-(6)
 jurisdiction: portugal
 territory: null
 document_type: portaria
@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 129/2007, 2º Suplemento, Série I de 2007-07-06
   number: '129'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4364-(6) a 4364-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/07/12902/00060023.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/766-b/2007/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/766-b-2007-151327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39b90a3d0038f3f9268ded318959f0aaf7129d7dde916edce66ef0cebc9115fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33c50579f4f478f51c3f4159ae19b5a6acb0126fa36788e2f1c0cf57afef93db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Comissão de Análise
 - Comissão Nacional de Acesso ao Ensino Superior
 - Concurso
+- Concurso Nacional de Acesso e Ingresso
 - Definição de Competências
+- Direção Geral do Ensino Superior
+- Direcção Geral de Inovação e Desenvolvimento Curricular
 - Emigrante
 - Ensino Oficial
-- Concurso Nacional de Acesso e Ingresso
+- Ensino Superior
 - Ensino Superior Politécnico
-- Impresso
-- Direção Geral do Ensino Superior
-- Numerus Clausus
-- Direcção Geral de Inovação e Desenvolvimento Curricular
-- Prazo
 - Estabelecimento de Ensino
+- Impresso
 - Madeira.região Autónoma
+- Militar
+- Numerus Clausus
+- Prazo
 - Reclamação
 - Regulamento
-- Ensino Superior
-- Militar
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli
@@ -127,16 +127,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:270806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
 article_structure:
   article_count: 65
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:48Z'
   warnings: []
   errors: []
 ---
@@ -193,7 +273,7 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 5 de Julho de 2007.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 5 de Julho de 2007.
 
 REGULAMENTO DO CONCURSO NACIONAL DE ACESSO E INGRESSO NO ENSINO SUPERIOR PÚBLICO PARA A MATRÍCULA E INSCRIÇÃO NO ANO LECTIVO DE 2007-2008.
 
@@ -1203,7 +1283,7 @@ Com a matrícula e inscrição dos candidatos colocados na 2.ª fase do concurso
 
 ## ANEXO I — Prazos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12902/00060023.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12902/00060023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12902/00060023.pdf)
 
 ## ANEXO II — Modelo de requerimento de permuta
 

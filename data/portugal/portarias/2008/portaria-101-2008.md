@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/101/2008/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/101-2008-248223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fdb12bff420f11b24c900200c1c5e98001ae86004e513db57e93adce8d391e72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62d9c81831086d2a219e3ae17a2c713995e6b1a0f28c5b31dbe5fc3897f3187c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Função Pública
-- Instituto da Segurança Social
-- Aveiro
-- Educação
-- Administração Pública
 - Ação Social
+- Administração Pública
+- Aveiro
+- Castelo Branco
+- Centro Educativo
+- Educação
+- Função Pública
+- Inserção Social
+- Instituto da Segurança Social
 - Integração de Serviços
 - Medida Tutelar Educativa
 - Medidas Preventivas
 - Menoridade
 - Proteção à Infância
-- Castelo Branco
-- Inserção Social
 - Protecção à Juventude
-- Centro Educativo
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência de Serviços
@@ -95,16 +95,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:18Z'
   warnings: []
   errors: []
 ---
@@ -135,4 +143,4 @@ Assim, manda o Governo, pelos Ministros de Estado e das Finanças, da Justiça e
 
 Em 18 de Janeiro de 2008.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Justiça, Alberto Bernardes Costa. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.

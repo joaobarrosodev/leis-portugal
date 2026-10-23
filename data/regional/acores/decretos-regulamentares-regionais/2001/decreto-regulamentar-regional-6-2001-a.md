@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2001/06/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2001-321887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 053968498d85f5069d6cea21624263c9645d47e60684cc9375e1f394f9c7ee22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b159842e3e656151db5a9574dbd5464e495382e6172c55fc64ee29f8da3ae00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Regional
-- Projeto de Investimento
-- Incentivos ao Desenvolvimento
+- Autarquia Local
 - Desenvolvimento Local
+- Desenvolvimento Regional
+- Incentivos ao Desenvolvimento
+- Projeto de Investimento
 - Sidel
 - Sider
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:636761:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551852:por
+  label: "Alterados os arts. 2º, 3º, 5º, 6º e 7º, os nºs 3, 4 e 5 do nº 2º, o nº 3 do nº 3º, os nºs 1 e 5 do nº 4º e o nº\
+    \ 5º do anexo I deste diploma, pelo DRR.4/2004/A.03.02.2004.SRE-RAA, DR.IS-B [52] de 02.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2004-551852
+  date: '2004-02-03'
+- type: amended_by
+  target: pt:dre:222039:por
+  label: "Alterado o presente diploma, com as alterações introduzidas pelo DRR 4/2004/A de 02-Mar, pelo DRR.12/2005/A.22.04.2005.PG-RAA,\
+    \ DR.IS-B [100] de 24.05.2005, que o republica com todas as alterações, conforme seguidamente se indica: Alterados os\
+    \ arts. 5º, 9º, 10º, 11º, 12º e 17º e os nºs 3º e 5º do anexo I; substituídas por \"departamento do Governo Regional com\
+    \ competência na matéria de economia\" a menção de \"Secretaria Regional da Economia\" constante do nº 1 dos arts. 14º\
+    \ e 19º e no nº 4 do art. 20º, bem como por \"membro do Governo Regional com competência em matéria de economia\" a menção\
+    \ de \"Secretário da Economia\" constante do nº 2 do art. 7º, dos nºs 1 e 2 do art. 12º, da al. e) do nº 1 e dos nºs 3\
+    \ e 4 do art. 17º e da al. k) do art. 21º; e revogados a al. d) do nº 1 do art. 3º, o nº 3 do art. 8º e a al. c) do nº\
+    \ 1 do art. 16º .\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2005-222039
+  date: '2005-04-22'
 - type: cites
   target: eli:http://data.europa.eu/eli/reco/1996/280/oj
   label: null
   source: http://data.europa.eu/eli/reco/1996/280/oj
+- type: repealed_by
+  target: pt:dre:636761:por
+  label: "Revogado a partir de 24.07.2007 pelo DLR.19/2007/A.23.07.2007.AL-RAA, DR.IS [140] de 23.07.2007, sem prejuízo do\
+    \ disposto no nº 1 do art. 38º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2007-636761
+  date: '2007-07-23'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:27Z'
   warnings: []
   errors: []
 ---
@@ -435,13 +459,13 @@ O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicaç
 
 Aprovado em Conselho do Governo Regional, na Horta, em 22 de Março de 2001.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 15 de Maio de 2001.**
+Assinado em Angra do Heroísmo em 15 de Maio de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO I — Metodologia para a determinação da pontuação dos projectos
 
@@ -481,11 +505,11 @@ A2 = autonomia financeira.
 
 2 - O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
 
 3 - O subcritério A2 será calculado tendo por base a noção de autonomia financeira, resultante do rácio capital próprio/activo líquido, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
 
 4 - Para o cálculo dos subcritérios referidos nos n.os 2 e 3, serão utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data da candidatura ou um balanço intercalar reportado a data posterior, desde que ratificado por um TOC ou um ROC.
 
@@ -505,11 +529,11 @@ B2 = contributo para a consolidação financeira.
 
 2 - O subcritério B1 será medido pelo indicador VAB/investimento elegível, sendo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
 
 3 - O subcritério B2 será determinado pela percentagem de novos capitais próprios (podendo incluir até 40% os suprimentos consolidados pelo período de afectação do projecto) relativamente ao investimento elegível, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
 
 4.º
 
@@ -539,7 +563,7 @@ d) Inovação tecnológica, incluindo racionalização energética.
 
 A pontuação deste subcritério será em função do peso relativo dos investimentos prioritários sobre o total das despesas elegíveis, nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
 
 3 - O subcritério C2 mede o grau de inovação do investimento face ao mercado existente do seguinte modo:
 
@@ -551,7 +575,7 @@ c) Introdução de novos produtos e serviços - C2 = 100.
 
 4 - A pontuação do subcritério C3 será atribuída nos seguintes termos:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)](https://files.diariodarepublica.pt/1s/2001/06/131b00/34653472.pdf)
 
 5.º
 

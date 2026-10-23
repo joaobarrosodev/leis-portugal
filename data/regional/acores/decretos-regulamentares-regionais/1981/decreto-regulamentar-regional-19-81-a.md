@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1981-388016
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d4e981ce5474060c23f4fe0352ac297dbbae3a5e4e7cb5fe7779b79142194d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11c74ae3f42617db79895256f4de0bedf98343a27e7554ccc9b6e28f25231074
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Núcleo Coordenador de Prestações Diferidas
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional dos Assuntos Sociais
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:312398:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:312398:por
+  label: "Substituído o mapa de pessoal anexo ao presente diploma, pelo DRR.9/83/A.06.04.1983.GR-RAA, DR.IS [79] de 06.04.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1983-312398
+  date: '1983-04-06'
+- type: cites
+  target: pt:dre:474082:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:23Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +110,7 @@ Assim, e tendo em consideração o Decreto Regional n.º 3/76, de 31 de Dezembro
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º Ao Núcleo Coordenador de Prestações Diferidas, funcionando na dependência da Direcção de Serviços de Prestações Pecuniárias de Segurança Social, compete:
+Artigo 1.º Ao Núcleo Coordenador de Prestações Diferidas, funcionando na dependência da Direcção de Serviços de Prestações Pecuniárias de Segurança Social, compete:
 
 a) Proceder à análise e processamento das prestações diferidas na Região;
 
@@ -102,32 +118,32 @@ b) Promover a identificação e registo dos utentes de prestações diferidas;
 
 c) Organizar e manter o registo dos utentes do sistema regional de segurança social.
 
-###### Art. 2.º A execução do estabelecido no artigo anterior é assegurada por uma repartição constituída por:
+Art. 2.º A execução do estabelecido no artigo anterior é assegurada por uma repartição constituída por:
 
 a) Secção de Análise e Processamento;
 
 b) Secção de Identificação e Registo.
 
-###### Art. 3.º O deferimento do processo de atribuição das prestações diferidas compete ao director dos Serviços de Prestações Pecuniárias de Segurança Social.
+Art. 3.º O deferimento do processo de atribuição das prestações diferidas compete ao director dos Serviços de Prestações Pecuniárias de Segurança Social.
 
-###### Art. 4.º O Núcleo Coordenador de Prestações Diferidas dispõe do pessoal constante do quadro anexo ao presente diploma.
+Art. 4.º O Núcleo Coordenador de Prestações Diferidas dispõe do pessoal constante do quadro anexo ao presente diploma.
 
-###### Art. 5.º Sem prejuízo da eventual adopção do estatuto aplicável à função pública, é aplicado ao pessoal do Núcleo Coordenador de Prestações Diferidas o regime de trabalho em vigor nas instituições de previdência.
+Art. 5.º Sem prejuízo da eventual adopção do estatuto aplicável à função pública, é aplicado ao pessoal do Núcleo Coordenador de Prestações Diferidas o regime de trabalho em vigor nas instituições de previdência.
 
-###### Art. 6.º É revogado o artigo 44.º do [Decreto Regulamentar Regional n.º 22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio.
+Art. 6.º É revogado o artigo 44.º do [Decreto Regulamentar Regional n.º 22/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082), de 17 de Maio.
 
 Aprovado pelo Governo Regional em 5 de Fevereiro de 1981.
 
-**O Presidente do Governo Regional, João Bosco de Mota Amaral.**
+O Presidente do Governo Regional, João Bosco de Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 4 de Março de 1981.**
+Assinado em Angra do Heroísmo em 4 de Março de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 Quadro de pessoal a que se refere o artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/06200/07040704.pdf))](https://files.diariodarepublica.pt/1s/1981/03/06200/07040704.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/03/06200/07040704.pdf)
 
-**O Presidente do Governo Regional, João Bosco de Mota Amaral. - O Ministro da República, Henrique Afonso da Silva Horta.**
+O Presidente do Governo Regional, João Bosco de Mota Amaral. - O Ministro da República, Henrique Afonso da Silva Horta.

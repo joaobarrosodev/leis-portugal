@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2006/01/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2006-533410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ecb0f2f659db4272372f96dc5e7bfb1c11b8708eaa96bd2645780ed13014ba6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b26bc0f544eec998a1c58fc0e8aa92643f2fb1355b754119c892ff00088e4d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Localização de Empresas
-- Turismo
-- Desenvolvimento Regional
+- Açores
 - Apoio ao Investimento
+- Comércio
+- Desenvolvimento Regional
+- Infraestrutura Turística
+- Investimento Privado
+- Localização de Empresas
 - Projeto de Investimento
 - Regulamento
-- Investimento Privado
 - Sidep
 - Sider
-- Açores
-- Comércio
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:636761:por
@@ -110,16 +110,54 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/2001/06/06/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/2001/06/06/a/dre
+- type: cites
+  target: pt:dre:222267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636761:por
+  label: "Revogado a partir de 24.07.2007 pelo DLR.19/2007/A.23.07.2007.AL-RAA, DR.IS [140] de 23.07.2007, sem prejuízo do\
+    \ disposto no nº 1 do art. 38º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2007-636761
+  date: '2007-07-23'
 article_structure:
-  article_count: 29
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:18Z'
   warnings: []
   errors: []
 ---
@@ -166,13 +204,17 @@ f) Residências assistidas e lares para idosos;
 
 g) Creches e jardins-de-infância.
 
-###### Artigo 4.º — Promotores
+Artigo 4.º
+
+Promotores
 
 1 - Podem beneficiar dos incentivos previstos neste diploma empresários em nome individual, estabelecimentos individuais de responsabilidade limitada, sociedades comerciais, agrupamentos complementares de empresas, cooperativas e associações de reconhecido interesse público.
 
 2 - Não poderão ser promotores, directa ou indirectamente, as instituições particulares de solidariedade social ou misericórdias.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +254,9 @@ d) Os projectos de investimento a que se referem as alíneas f) e g) do n.º 2 d
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Nos projectos da tipologia A, são consideradas como despesas elegíveis as que resultarem das respectivas candidaturas àqueles programas.
 
@@ -250,13 +294,17 @@ n) ...
 
 4 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Aos projectos da tipologia B será atribuída uma classificação em função da respectiva valia económica (VE), calculada de acordo com o definido no anexo III.
 
 2 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -266,7 +314,9 @@ n) ...
 
 4 - O limite dos incentivos previstos nos números anteriores é de (euro) 3500000 por projecto.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 ...
 
@@ -310,7 +360,9 @@ Albergarias, nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo;
 
 ...
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 2.º
 
@@ -348,7 +400,9 @@ Investimento elegível (menor que) (euro) 5000000 - A3 = 14%;
 
 Investimento elegível (igual ou maior que) (euro) 10000000 - A3 = 18%.
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 2.º
 
@@ -378,13 +432,13 @@ O presente diploma entra em vigor no primeiro dia útil seguinte ao da sua publi
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 26 de Outubro de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 19 de Dezembro de 2005.**
+Assinado em Angra do Heroísmo em 19 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO
 
@@ -974,7 +1028,7 @@ d) Inovação tecnológica, incluindo racionalização energética.
 
 A pontuação deste subcritério será em função do peso relativo dos investimentos prioritários, sobre o total das despesas elegíveis, nos seguintes termos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)
 
 4.º
 
@@ -994,7 +1048,7 @@ Subcritério A3
 
 A pontuação do subcritério A3 será atribuída nos seguintes termos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)
 
 6.º
 
@@ -1026,7 +1080,7 @@ Subcritério B2
 
 1 - O subcritério B2 será medido pelo indicador VAB sobre o número de postos de trabalho, sendo:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)
 
 2 - Para o cálculo deste subcritério serão utilizados os valores do ano cruzeiro indicado no projecto, bem como o número total de postos de trabalho existentes no pós-projecto.
 
@@ -1072,7 +1126,7 @@ Subcritério C2
 
 A pontuação do subcritério C2 será determinada pela percentagem de novos capitais próprios relativamente ao investimento elegível, nos seguintes termos:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)](https://files.diariodarepublica.pt/1s/2006/01/011b00/03960407.pdf)
 
 ## ANEXO IV — Cálculo do incentivo para os projectos da tipologia B
 

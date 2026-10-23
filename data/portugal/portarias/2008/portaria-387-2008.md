@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/387/2008/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-2008-448969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3159e5d684398927b21c44e32b0fe07c3553008c0b6a2c51b3df3a068f3d6b18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 386304ac46a96e592b56b2727a0c7f263d02693b8a9f87cddc029150abd941c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ministério das Obras Públicas Transportes e Comunicações
 - Instituto de Infra-Estruturas Rodoviárias
+- Ministério das Obras Públicas Transportes e Comunicações
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/148/2007/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/148/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:521020:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:02Z'
   warnings: []
   errors: []
 ---
@@ -128,17 +132,17 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 16 de Maio de 2008.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 16 de Maio de 2008.
 
 ## ANEXO — (a que se referem os n.os 1 e 2 do artigo 1.º)
 
 Símbolo/logótipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10300/0302203023.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10300/0302203023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10300/0302203023.pdf)
 
 Conjunto símbolo/logótipo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/10300/0302203023.pdf))](https://files.diariodarepublica.pt/1s/2008/05/10300/0302203023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/10300/0302203023.pdf)
 
 Características do logótipo
 

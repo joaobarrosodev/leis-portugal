@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/2008/03/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2008-246368
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a583962d196e82431aed38ba05ce966dcb6bc985db84e8919509396127bdc88d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34074180185899da2a9c2c6dbea272164fb304b84a29bc4229811a0b05f32f70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão Directiva
-- Apoio ao Investimento
-- Ilha do Pico
-- Proteção do Ambiente
-- Zona de Proteção
-- Produtor
-- Administração Regional
 - Açores
+- Administração Regional
+- Apoio ao Investimento
+- Comissão Directiva
+- Ilha do Pico
+- Produtor
+- Proteção do Ambiente
 - Vinha
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:456524:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456524:por
+  label: "Determinado que até à entrada em vigor do plano de ordenamento referido no n.º 2 do art. 46.º, não ficam prejudicadas\
+    \ a vigência e a regular aplicação das regras constantes do DRR 12/2004/A, de 24-Abr alterado e republicado pelo presente\
+    \ diploma, pelo DLR.20/2008/A.09.07.2008.AL-RAA, DR.IS [131] de 09.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2008-456524
+  date: '2008-07-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/17/1994/01/25/p/dre
   label: null
@@ -117,16 +124,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/853/2004/07/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/853/2004/07/19/p/dre
+- type: cites
+  target: pt:dre:222995:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607171:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 19
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:34Z'
   warnings: []
   errors: []
 ---
@@ -155,13 +198,17 @@ Objecto e âmbito
 
 O presente diploma estabelece o regime de apoios a conceder pela administração regional autónoma para a reabilitação da paisagem da cultura tradicional da vinha em currais na ilha do Pico no interior da área classificada como património mundial e da correspondente zona tampão, delimitadas no anexo ao presente diploma que dele faz parte integrante.
 
-###### Artigo 4.º — Beneficiários
+Artigo 4.º
+
+Beneficiários
 
 1 - Podem beneficiar dos apoios previstos todos os titulares de vinhas cuja localização se encontre no interior da área classificada ou da zona tampão e que possuam uma área mínima de 0,05 ha de vinha contínua.
 
 2 - ...
 
-###### Artigo 5.º — Condições de acesso
+Artigo 5.º
+
+Condições de acesso
 
 Podem aceder aos apoios previstos no presente diploma as candidaturas que obedeçam às seguintes condições:
 
@@ -169,13 +216,17 @@ a) A parcela a reabilitar esteja situada no interior da zona classificada ou da 
 
 b) A parcela a reabilitar esteja situada no interior da zona candidata ou da zona tampão e as castas utilizadas sejam aptas à produção de vinho regional, tal como resulta do disposto no anexo da [Portaria n.º 853/2004](https://diariodarepublica.pt/dr/detalhe/portaria/853-2004-525187), de 19 de Julho.
 
-###### Artigo 8.º — Procedimento
+Artigo 8.º
+
+Procedimento
 
 1 - Para poderem candidatar-se aos apoios previstos, os titulares de vinha devem apresentar, durante os meses de Janeiro a Setembro, no Gabinete Técnico da PPIRCVIP, doravante designado pró Gabinete Técnico, um projecto de reabilitação da respectiva exploração vitícola, em formulário próprio.
 
 2 - ...
 
-###### Artigo 10.º — Apreciação das candidaturas
+Artigo 10.º
+
+Apreciação das candidaturas
 
 1 - ...
 
@@ -183,7 +234,9 @@ b) A parcela a reabilitar esteja situada no interior da zona candidata ou da zon
 
 3 - As propostas de aprovação das candidaturas são remetidas pela comissão directiva ao membro do Governo Regional com competência em matéria de ambiente, o qual procederá à sua homologação no prazo de 30 dias.
 
-###### Artigo 14.º — Extinção dos compromissos
+Artigo 14.º
+
+Extinção dos compromissos
 
 1 - ...
 
@@ -193,13 +246,17 @@ b) ...
 
 2 - Os casos referidos no número anterior, bem como outros de força maior, são comunicados à comissão directiva da Paisagem Protegida, acompanhados dos respectivos meios de prova, por escrito, no prazo de 10 dias a contar da data da ocorrência, salvo impedimento devidamente justificado.
 
-###### Artigo 15.º — Incumprimento temporário dos compromissos
+Artigo 15.º
+
+Incumprimento temporário dos compromissos
 
 1 - ...
 
 2 - A ocorrência mencionada no número anterior é comunicada à comissão directiva da Paisagem Protegida, por escrito, no prazo de 10 dias a contar da data do evento, salvo impedimento devidamente justificado.
 
-###### Artigo 16.º — Competência
+Artigo 16.º
+
+Competência
 
 1 - ...
 
@@ -217,15 +274,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Madalena, Pico, em 12 de Fevereiro de 2008.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Março de 2008.**
+Assinado em Angra do Heroísmo em 13 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0179801801.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0179801801.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0179801801.pdf)
 
 ## ANEXO II — Republicação do [Decreto Regulamentar Regional n.º 12/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2004-222995), de 12 de Abril
 
@@ -387,4 +444,4 @@ b) Catástrofe natural grave que afecte de modo significativo a superfície agr�
 
 2 - Quando tal se mostre necessário, pode a comissão directiva propor a aquisição dos serviços técnicos necessários ao cumprimento do disposto no número anterior.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0179801801.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0179801801.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06100/0179801801.pdf)

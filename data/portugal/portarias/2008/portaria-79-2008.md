@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/01800/0072400729.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/79/2008/01/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/79-2008-248562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c73920eb1b891e41905a28a56b4c7cfc6bee53e370a78486cf61705a5f2c65b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f76b3044a5ff412564dbb12550741a3f40ada630d11c3fb03f23a0424d4a5dce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Beneficiário
-- Inspeção Geral de Finanças
 - Comissão Mista
 - Definição de Competências
 - Documentação
+- Financiamento
 - Fronteiras
 - Inspeção Geral da Administração Interna
+- Inspeção Geral de Finanças
 - Organismo de Controlo
-- Tesouraria
 - Reembolso
 - Regime Jurídico
 - Regulamento
+- Tesouraria
 relationships:
 - type: amended_by
   target: pt:dre:499239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:341850:por
+  label: "Alterados os arts. 5.º, 10.º, 16.º e 18.º, pela PORT.912/2010.16.09.2010.MAI, DR.IS [181] de 16.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/912-2010-341850
+  date: '2010-09-16'
 - type: cites
   target: celex:32007D0574
   label: null
   source: http://data.europa.eu/eli/dec/2007/574/oj
+- type: repealed_by
+  target: pt:dre:499239:por
+  label: "Revogada pela PORT.269/2013.20.08.2013.PCM, DR.IS [159] de 20.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/269-2013-499239
+  date: '2013-08-20'
 article_structure:
   article_count: 34
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:29Z'
   warnings: []
   errors: []
 ---
@@ -119,7 +129,7 @@ Ao abrigo da alínea g) do artigo 199.º da Constituição da República Portugu
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Administração Interna, Rui Carlos Pereira, em 7 de Janeiro de 2008.**
+O Ministro da Administração Interna, Rui Carlos Pereira, em 7 de Janeiro de 2008.
 
 ## ANEXO — REGULAMENTO DO FINANCIAMENTO PELO FUNDO PARA AS FRONTEIRAS EXTERNAS
 

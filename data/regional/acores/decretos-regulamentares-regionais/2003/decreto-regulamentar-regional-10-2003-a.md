@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/10/2003/02/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2003-197553
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c0a9b7eb9798c17fac49292d342379b732777c8864601054d3b0bbb4b18ebaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb46a978b58b5ba0ec57c132a0196db5270ffd4fa297b1d083cea790287a3535
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
 subjects:
 - Conselho Regional de Obras Públicas
 - Definição de Competências
+- Direcção Regional de Habitação
 - Direcção Regional de Obras Públicas e Transportes Terrestres
-- Secretaria Regional da Habitação e Equipamentos
 - Orgânica
 - Quadro de Pessoal
-- Direcção Regional de Habitação
+- Secretaria Regional da Habitação e Equipamentos
 - Secretário Regional da Habitação e Obras Públicas
 - Serviço de Documentação e Controlo Financeiro
 relationships:
@@ -80,6 +80,18 @@ relationships:
   target: pt:dre:280199:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517631:por
+  label: "Alterado o quadro de pessoal da SRHE, afecto à DROPTT e delegações de ilha, aprovado pelo DRR 12/98/A, de 06-Mai,\
+    \ na redacção do presente diploma, pelo DRR.21/2004/A.08.06.2004.SRHE-RAA, DR.IS-B [153] de 01.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2004-517631
+  date: '2004-06-08'
+- type: amended_by
+  target: pt:dre:247225:por
+  label: "Alterados os arts. 8º e 9º da orgânica da SRHE aprovada pelo DRR 12/98/A de 06-Mai, com a redacção conferida no\
+    \ presente diploma, pelo DRR.4/2008/A.10.03.2008.PG-RAA, DR.IS [49] de 10.03.2008 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2008-247225
+  date: '2008-03-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/11/2002/05/02/a/dre
   label: null
@@ -100,16 +112,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:284369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572086:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:280199:por
+  label: "Revogado o DRR 12/98/A, de 06-Maio, na redacção do presente diploma, pelo DRR.4/2011/A.31.01.2011.PG-RAA, DR.IS\
+    \ [21] de 31.01.2011, na parte que se refere à orgânica e ao quadro do pessoal dirigente, de direcção específica e de\
+    \ chefia por ele aprovados e sem prejuízo do disposto no seu artigo 7º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2011-280199
+  date: '2011-01-31'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:39Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +175,7 @@ Os artigos 7.º, 8.º e 9.º da orgânica da Secretaria Regional da Habitação 
 
 O CROP tem funções consultivas e de análise nos domínios da construção civil, obras públicas e áreas conexas relativamente à Região Autónoma dos Açores.
 
-###### Artigo 8.º
+Artigo 8.º
 
 1 - O CROP será presidido pelo Secretário Regional da Habitação e Equipamentos.
 
@@ -168,7 +207,9 @@ k) Um elemento em representação da Associação de Municípios da Região Aut�
 
 4 - Salvo indicação em contrário por parte da entidade representada, o mandato dos membros do CROP tem a duração da legislatura em que tomam posse, renovando-se automaticamente por iguais períodos.
 
-###### Artigo 9.º — Funcionamento
+Artigo 9.º
+
+Funcionamento
 
 1 - O CROP reunirá ordinariamente uma vez por semestre e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de, pelo menos, quatro dos seus membros.
 
@@ -202,12 +243,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 12 de Dezembro de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Janeiro de 2003.**
+Assinado em Angra do Heroísmo em 25 de Janeiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/039b00/10391041.pdf)

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/403/2007/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/403-2007-519978
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5b490356c60acbcb4ec76a91c921afd8fdfa3922354de4884c62166a3a4cf81
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 427f9e041e83f4e61307b42cefafe1efaf4881e2892600a62b6e89fef3e521c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
+- Desenvolvimento Económico
 - Empresa
 - Fundo de Investimento
 - Fundo de Sindicação de Capital de Risco
-- Apoio ao Investimento
-- Desenvolvimento Económico
 - Pequenas e Médias Empresas
-- Regulamento
 - PME
 - Prime
 - Programa Operacional da Economia
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70-b/2000/05/05/p/dre
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/901/2003/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/901/2003/08/28/p/dre
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633169:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:21Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +136,9 @@ A alínea a) do n.º 1 do artigo 2.º, o n.º 2 do artigo 3.º e a alínea a) do
 
 REGULAMENTO DE EXECUÇÃO DA MEDIDA 'INOVAÇÃO FINANCEIRA'
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - ...
 
@@ -134,13 +148,17 @@ b) ...
 
 2 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
 2 - A prossecução deste objectivo faz-se através do Fundo de Sindicação de Capital de Risco (FSCR), que terá por fim a realização de operações combinadas na área do capital de risco, através do investimento em participações no capital de empresas, da concessão de financiamentos a entidades especializadas naquele domínio, da prestação de garantias e de contratos de opções, inerentes a operações de capital de risco, tendo em vista o reforço da capitalização de PME que desenvolvam actividade nos sectores abrangidos pelo Programa Operacional da Economia - POE/PRIME.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Serão apoiadas as seguintes entidades beneficiárias:
 
@@ -154,4 +172,4 @@ d) ...»
 
 Em 16 de Fevereiro de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Economia e da Inovação, António José de Castro Guerra, Secretário de Estado Adjunto, da Indústria e da Inovação.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Economia e da Inovação, António José de Castro Guerra, Secretário de Estado Adjunto, da Indústria e da Inovação.

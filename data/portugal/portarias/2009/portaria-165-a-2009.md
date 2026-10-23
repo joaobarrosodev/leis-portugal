@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 31/2009, 1º Suplemento, Série I de 2009-02-13
   number: '31'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1078-(2) a 1078-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03101/0000200002.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/165-a/2009/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2009-181390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cb02c91cf729bf96090f6a9bd33f09e0a15fa155de6463303a0245b65de4d80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93a887bf0c9612fc13dce1d054da7894a981d3165e3a9f2b19fc44c7108463da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Financiamento
-- Empresa
-- Desenvolvimento Rural
-- Desenvolvimento Regional
 - Apoio ao Investimento
+- Desenvolvimento Regional
+- Desenvolvimento Rural
+- Empresa
+- Financiamento
+- Proder
 - Projeto de Investimento
 - Regulamento de Aplicação da Acção 1.1.1-modernização e Capacitação das Empresas
 relationships:
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/289-a/2008/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/289-a/2008/04/11/p/dre
+- type: cites
+  target: pt:dre:209600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:33Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +138,4 @@ c) ...»
 
 A presente portaria produz efeitos a partir do dia 31 de Janeiro de 2009.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 30 de Janeiro de 2009.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 30 de Janeiro de 2009.

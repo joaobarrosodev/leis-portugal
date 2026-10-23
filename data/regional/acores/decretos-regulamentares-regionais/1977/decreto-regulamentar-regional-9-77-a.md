@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1977-139951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4193179f597ee8b1208a0223c174f717cf4b78211eb0e03a8acda0d310a57d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eb1cbd680c2c5628e45756b82ae532d9696ccd7a41a4b87e45d5365b03d2df4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Regional da Comunicação Social
+- Governo Regional
+- Presidência do Governo Regional
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:286300:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:377537:por
+  label: "Revogado com excepção do art. 8º pelo DRR.18/79/A.1979.07.20.GR-RAA, DR.IS [188] de 16/Ago/1979\079\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-1979-377537
+  date: '1979-07-20'
+- type: repealed_by
+  target: pt:dre:287413:por
+  label: Revogado art. 8.º pelo(a) Decreto Regulamentar Regional n.º 12/88/A - Diário da República n.º 59/1988, Série I de
+    1988-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1988-287413
+  date: '1988-03-11'
+- type: repealed_by
+  target: pt:dre:286300:por
+  label: Revogado o art. 8.º do presente diploma pelo(a) Decreto Legislativo Regional n.º 12/88/A - Diário da República n.º
+    79/1988, Série I de 1988-04-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-1988-286300
+  date: '1988-04-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:43Z'
   warnings: []
   errors: []
 ---
@@ -100,42 +122,42 @@ Em execução do Decreto Regional n.º 3/76, de 15 de Novembro:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada na Presidência do Governo a Direcção Regional da Comunicação Social.
+Artigo 1.º É criada na Presidência do Governo a Direcção Regional da Comunicação Social.
 
-###### Art. 2.º A nomeação do director regional é feita por despacho do Presidente do Governo Regional.
+Art. 2.º A nomeação do director regional é feita por despacho do Presidente do Governo Regional.
 
-###### Art. 3.º A nomeação do director regional efectua-se de acordo com o disposto no artigo 19.º do Decreto Regional n.º 3/76 e incidirá em pessoa de reconhecida competência técnica para o desempenho do cargo.
+Art. 3.º A nomeação do director regional efectua-se de acordo com o disposto no artigo 19.º do Decreto Regional n.º 3/76 e incidirá em pessoa de reconhecida competência técnica para o desempenho do cargo.
 
-###### Art. 4.º Quando o Presidente do Governo tenha delegado a sua competência em matéria de comunicação social no Subsecretário Regional Adjunto da Presidência, o director regional exercerá as funções previstas no artigo 14.º do Decreto Regional n.º 3/76.
+Art. 4.º Quando o Presidente do Governo tenha delegado a sua competência em matéria de comunicação social no Subsecretário Regional Adjunto da Presidência, o director regional exercerá as funções previstas no artigo 14.º do Decreto Regional n.º 3/76.
 
-###### Art. 5.º - 1. A Direcção Regional da Comunicação Social integra o Gabinete de Imprensa dos Açores (GIA).
+Art. 5.º - 1. A Direcção Regional da Comunicação Social integra o Gabinete de Imprensa dos Açores (GIA).
 
 2. O GIA tem sede em Ponta Delgada e delegações em Angra do Heroísmo e Horta, as quais serão chefiadas por um dos seus funcionários, designado pelo director regional da Comunicação Social.
 
-###### Art. 6.º - 1. O GIA será chefiado por um coordenador, contratado ou nomeado em comissão de serviço, por dois anos renováveis.
+Art. 6.º - 1. O GIA será chefiado por um coordenador, contratado ou nomeado em comissão de serviço, por dois anos renováveis.
 
 2. A nomeação do coordenador do GIA será feita por despacho do Presidente do Governo Regional ou do membro do Governo em quem o Presidente tenha delegado essa competência.
 
-###### Art. 7.º - 1. O GIA tem quadro anexo ao presente diploma.
+Art. 7.º - 1. O GIA tem quadro anexo ao presente diploma.
 
 2. os trabalhadores em serviço no GIA à data de entrada em vigor do presente diploma ocuparão os lugares do quadro do pessoal em anexo, mediante concurso documental e informação do coordenador do GIA em funções àquela data.
 
 3. O tempo de serviço em regime de contratação é levado em consideração para todos os efeitos.
 
-###### Art. 8.º O coordenador e os chefes das delegações do GIA perceberão a gratificação mensal de 900$00.
+Art. 8.º O coordenador e os chefes das delegações do GIA perceberão a gratificação mensal de 900$00.
 
 Aprovado em Plenário do Governo Regional em 10 de Janeiro de 1977.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Ponta Delgada em 4 de Fevereiro de 1977.**
+Assinado em Ponta Delgada em 4 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 ## ANEXO — Quadro a que se refere o artigo 7.º, n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/04/08800/08540854.pdf))](https://files.diariodarepublica.pt/1s/1977/04/08800/08540854.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/08800/08540854.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Presidente do Governo Regional, João Bosco Mota Amaral. - O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

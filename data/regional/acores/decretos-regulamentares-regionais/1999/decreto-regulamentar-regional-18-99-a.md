@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/1999/12/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1999-661748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c181c9c1980d54a99f66762b79e6376747cd82252d337e3c18620e7b9f1fddc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 21b55f67bdf338bbb62fdcab42dacab9d207e9c1969c5a39492611aeb502704a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,40 +66,118 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Adjunto de Gabinete
 - Apoio Técnico
 - Assessor de Gabinete
 - Chefe de Gabinete
-- Governo Regional
 - Definição de Competências
 - Gabinete Governamental
-- Subsecretário Regional
+- Governo Regional
 - Membros do Governo
 - Orgânica
 - Pessoal de Gabinete
 - Presidente
 - Secretário Pessoal
 - Secretário Regional
-- Açores
+- Subsecretário Regional
 relationships:
 - type: amended_by
   target: pt:dre:869798290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Mantidas em vigor as disposições do presente diploma, relativamente aos restantes membros do Governo Regional, que\
+    \ não estão previstos nos nºs 1 e 2 do art. 26.º, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Mantidas em vigor as disposições do presente diploma pelo DRR.24/2012/A.27.11.2012.PG-RAA, DR.IS [229] de 27.11.2012,\
+    \ com exceção do que respeite ao Vice-Presidente do Governo Regional e ao Subsecretário Regional da Presidência para as\
+    \ Relações Externas e respectivos gabinetes, cuja composição é fixada naquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
+- type: amended_by
+  target: pt:dre:55021043:por
+  label: Mantidas em vigor as disposições do presente diploma pelo Decreto Regulamentar Regional n.º 12/2014/A - Diário da
+    República n.º 141/2014, Série I de 2014-07-24, com exceção do que respeite ao Vice-Presidente do Governo Regional e ao
+    Subsecretário Regional da Presidência para as Relações Externas e respetivos gabinetes, cuja composição é fixada naquele
+    diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2014-55021043
+  date: '2014-07-24'
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Determinado que os membros dos gabinetes do Governo Regional continuam a reger-se pelas disposições normativas e
+    remuneratórias aplicáveis a 31.12.2011 até à revisão do presente diploma pelo(a) Decreto Legislativo Regional n.º 1/2018/A
+    - Diário da República n.º 2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
+- type: amended_by
+  target: pt:dre:117612825:por
+  label: Determinado, nos termos do art.º 41.º, que os membros dos gabinetes do Governo Regional continuam a reger-se pelas
+    disposições normativas e remuneratórias aplicáveis a 31.12. 2011, até à revisão do presente diploma, pelo(a) Decreto Legislativo
+    Regional n.º 1/2019/A - Diário da República n.º 4/2019, Série I de 2019-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2019-117612825
+  date: '2019-01-07'
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Determinado que os membros dos gabinetes do Governo Regional continuam a reger-se pelas disposições normativas e
+    remuneratórias aplicáveis a 31.12.2011, até à revisão do presente diploma, pelo(a) Decreto Legislativo Regional n.º 1/2020/A
+    - Diário da República n.º 5/2020, Série I de 2020-01-08 nos termos do seu art. 45.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
+- type: amended_by
+  target: pt:dre:164454929:por
+  label: Determinado que os membros dos gabinetes do Governo Regional continuam a reger-se pelas disposições normativas e
+    remuneratórias aplicáveis a 31.12.2011, até à revisão do presente diploma, pelo(a) Decreto Legislativo Regional n.º 15-A/2021/A
+    - Diário da República n.º 105/2021, 1º Suplemento, Série I de 2021-05-31, nos termos do seu art. 20.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2021-164454929
+  date: '2021-05-31'
+- type: amended_by
+  target: pt:dre:176412614:por
+  label: Determinado que os membros dos gabinetes do Governo Regional continuam a reger-se pelas disposições normativas e
+    remuneratórias aplicáveis a 31.12.2011, até à revisão do presente diploma pelo(a) Decreto Legislativo Regional n.º 38/2021/A
+    - Diário da República n.º 247/2021, Série I de 2021-12-23 nos termos do seu art. 13.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/38-2021-176412614
+  date: '2021-12-23'
+- type: amended_by
+  target: pt:dre:205758501:por
+  label: Determinado, com efeitos a partir de 01.01.2023, que, até à revisão do presente diploma, os membros dos gabinetes
+    do Governo Regional continuam a reger-se pelas disposições normativas e remuneratórias aplicáveis a 31.12.2011 pelo(a)
+    Decreto Legislativo Regional n.º 1/2023/A - Diário da República n.º 4/2023, Série I de 2023-01-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2023-205758501
+  date: '2023-01-05'
+- type: amended_by
+  target: pt:dre:869798290:por
+  label: Determinado, com efeitos a 01 de janeiro de 2024, que, até à revisão do presente diploma, os membros dos gabinetes
+    do Governo Regional continuam a reger-se pelas disposições normativas e remuneratórias aplicáveis a 31 de dezembro de
+    2011, pelo(a) Decreto Legislativo Regional n.º 2/2024/A - Diário da República n.º 120/2024, Série I de 2024-06-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2024-869798290
+  date: '2024-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/1997/09/20/p/dre
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653562:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:07Z'
   warnings: []
   errors: []
 ---
@@ -206,10 +284,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 22 de Outubro de 1999.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 23 de Novembro de 1999.**
+Assinado em Angra do Heroísmo em 23 de Novembro de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Presidente da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1978-296251
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5efcc0152e9b74724de497642eae24cb0dec7d490cea1c323b3f64eea5040484
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5269f4a7fbc6ba5df7d1a4c2b96439c56251befe8847551860b58dc34f85dbbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Administração Regional
+- Condutor
+- Integração de Trabalhadores
+- Junta Geral
+- Pessoal Administrativo
+- Pessoal Operário
+- Reestruturação de Carreiras
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:140496:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:51Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +104,14 @@ Nestes termos:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. O pessoal operário, os motoristas e os escriturários-dactilógrafos que, na integração nos quadros regionais, sejam reclassificados de acordo com os critérios estabelecidos no [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, têm direito aos novos vencimentos a partir de 1 de Janeiro de 1978.
+Artigo único. O pessoal operário, os motoristas e os escriturários-dactilógrafos que, na integração nos quadros regionais, sejam reclassificados de acordo com os critérios estabelecidos no [Decreto-Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1977-140496), de 1 de Março, têm direito aos novos vencimentos a partir de 1 de Janeiro de 1978.
 
 Aprovado em Plenário do Governo Regional em 6 de Abril de 1978.
 
 Presidência do Governo Regional, 6 de Abril de 1978. - O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em 28 de Abril de 1978.**
+Assinado em 28 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

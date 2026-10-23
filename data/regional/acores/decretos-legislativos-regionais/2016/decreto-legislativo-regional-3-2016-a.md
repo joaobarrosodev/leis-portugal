@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/02100/0032600329.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/3/2016/02/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2016-73372033
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b3acf1a5ce127ba3c4d1a358f072813f1296046497f17ede5c24b2715e7bc4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cf2e30d2f6500634f6a766f04fbb14c17e6c3fb700541e5bd9b166361036167
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Apoio Domiciliário
 - Assistência Médica
+- Cuidados Médicos
 - Definição de Competências
 - Fiscalização
 - IPSS
 - Licenciamento
-- Santa Casa da Misericórdia
 - Pessoa Coletiva de Utilidade Pública
-- Cuidados Médicos
-- Protecção na Doença
-- Apoio Domiciliário
 - Proteção Social
+- Protecção na Doença
 - Regime Jurídico
+- Santa Casa da Misericórdia
 - Serviço Regional de Saúde
-- Açores
 - Taxa
 - Unidade de Internamento
 - Vistoria
@@ -93,16 +93,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/6/2015/03/05/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/6/2015/03/05/a/dre
+- type: cites
+  target: pt:dre:449696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66674011:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:14Z'
   warnings: []
   errors: []
 ---
@@ -323,10 +331,10 @@ O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua pub
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de dezembro de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 12 de janeiro de 2016.**
+Assinado em Angra do Heroísmo em 12 de janeiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

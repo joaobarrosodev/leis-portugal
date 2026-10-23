@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/1993/08/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1993-357147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4be7a0ad3de61ae2deae3ed2b861e253e33c219c76545f05146a77f06bf4134
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a771d1554033441e5b3d6bd063f2deac1bd03950b22d5ad19d4c034e3290743
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embarcação
-- Multa
+- Açores
 - Contra-ordenação
+- Embarcação
 - Embarcação de ALTA Velocidade
+- Embarcação de Pesca
 - Embarcação de Recreio
 - Embarcação Estrangeira
 - Fiscalização
 - Marina
+- Multa
 - Preço
 - Regulamento
-- Embarcação de Pesca
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:303205:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660279:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:303205:por
+  label: "Revogada com a entrada em vigor dos regulamentos a que se refrem o nº 1 do art. 2º e o nº 1 do art. 3º e no que\
+    \ respeita às marinas sob jurisdição das administrações portuárias pelo DLR.14/2002/A.2002.03.14.ALR-RAA, DR.IS-A [86]\
+    \ de 12/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2002-303205
+  date: '2002-03-14'
 article_structure:
   article_count: 24
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:20Z'
   warnings: []
   errors: []
 ---
@@ -168,13 +183,13 @@ O presente diploma e o Regulamento que lhe está anexo entram em vigor no dia im
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 4 de Junho de 1993.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 1 de Julho de 1933.**
+Assinado em Angra do Heroísmo em 1 de Julho de 1933.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Regulamento de Exploração das Marinas da Região Autónoma dos Açores
 

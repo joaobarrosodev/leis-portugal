@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/10/25100/28852886.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/20-1981-569097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2caa0767435ea6570ca29a0109be61b5f1d74d9c9adbc7abd562670b8f8e0af3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92da9c135aaf6df25349ec8cbd10c792d63039853f650f9a639e98abb1f5544c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Arrendamento Rural
+- Baldio
 relationships:
 - type: amended_by
   target: pt:dre:454479:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:470859:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:454479:por
+  label: "Revogado a partir de 23.08.2008 pelo DLR.28/2008/A.24.07.2008.AL-RAA, DR.IS [142] de 24.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2008-454479
+  date: '2008-07-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:19Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ O [Decreto Regional n.º 18/80/A](https://diariodarepublica.pt/dr/detalhe/decret
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 7.º, 8.º, 16.º, 17.º e 18.º do [Decreto Regional n.º 18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/18-1980-470859), de 21 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 7.º, 8.º, 16.º, 17.º e 18.º do [Decreto Regional n.º 18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/18-1980-470859), de 21 de Agosto, passam a ter a seguinte redacção:
 
 ###### ARTIGO 6.º — (Limites no arrendamento)
 
@@ -130,14 +142,14 @@ As receitas oriundas das rendas serão 40% para os serviços da Secretaria Regio
 
 A renovação das pastagens poderá ser autorizada pelo Secretário Regional da Agricultura e Pescas, mediante proposta do arrendatário, após parecer dos serviços técnicos da respectiva Secretaria Regional.
 
-###### Art. 2.º São revogados os artigos 12.º e 21.º do [Decreto Regional n.º 18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/18-1980-470859), de 21 de Agosto.
+Art. 2.º São revogados os artigos 12.º e 21.º do [Decreto Regional n.º 18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/18-1980-470859), de 21 de Agosto.
 
 Aprovado na Assembleia Regional dos Açores em 15 de Setembro de 1981.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 15 de Outubro de 1981.**
+Assinado em Angra do Heroísmo em 15 de Outubro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

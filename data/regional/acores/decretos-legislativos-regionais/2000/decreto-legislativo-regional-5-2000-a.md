@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/03/052a00/07130720.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2000/03/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2000-408373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7eabd3c524a1e24e5aaa6d4d460dc7030aadfdeface45aeb9dd5982ac2248c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd4d4eb9585edad1488eda787a73a1f9b7f9de0abe1dfdd33af128212ee5b5f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
+- Açores
 - Assembleia Legislativa Regional
-- Gestão Financeira
 - Definição de Competências
 - Gestão Administrativa
+- Gestão Financeira
 - Integração de Trabalhadores
 - Orgânica
 - Quadro de Pessoal
 - Reestruturação de Carreiras
+- Reestruturação de Serviços
 - Regime de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:552289:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:217114:por
+  label: "Extintos um lugar do grupo de pessoal técnico e dois lugares do grupo de pessoal administrativo ao quadro de pessoal\
+    \ aprovado pelo presente diploma, pela RES.3/2003/A.2003.02.20.ALR-RAA DR.IS-B [68] de 21/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regional/3-2003-217114
+  date: '2003-02-20'
+- type: amended_by
+  target: pt:dre:532641:por
+  label: "Alterado o quadro de pessoal pela RES.1/2004/A.21.01.2004.ALR-RAA, DR.IS-B [63] de 15.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regional/1-2004-532641
+  date: '2004-01-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/1993/12/14/a/dre
   label: null
@@ -101,16 +112,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/9/1994/03/30/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/9/1994/03/30/a/dre
+- type: cites
+  target: pt:dre:145797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533274:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:552289:por
+  label: "Revogado a partir de 01.01.2007 pelo DLR.54/2006/A.04.12.2006.AL-RAA, DR.IS [245] de 22.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/54-2006-552289
+  date: '2006-12-04'
 article_structure:
   article_count: 51
-  section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:22Z'
   warnings: []
   errors: []
 ---
@@ -181,7 +233,7 @@ c) O Conselho Administrativo.
 
 ###### Artigo 8.º — Delegação de competências
 
-**O Presidente da Assembleia pode delegar, num dos membros da Mesa ou no secretário-geral, os poderes administrativos e financeiros que lhe são conferidos no presente diploma.**
+O Presidente da Assembleia pode delegar, num dos membros da Mesa ou no secretário-geral, os poderes administrativos e financeiros que lhe são conferidos no presente diploma.
 
 ###### Artigo 9.º — Gabinete do Presidente
 
@@ -283,11 +335,11 @@ Os serviços são estruturados numa secretaria-geral, a qual compreende uma dire
 
 ###### Artigo 17.º — Competência geral
 
-**O secretário-geral dirige e coordena os serviços, submetendo a despacho do Presidente da Assembleia ou da Mesa os assuntos cuja decisão não esteja no âmbito da sua competência.**
+O secretário-geral dirige e coordena os serviços, submetendo a despacho do Presidente da Assembleia ou da Mesa os assuntos cuja decisão não esteja no âmbito da sua competência.
 
 ###### Artigo 18.º — Competências específicas
 
-**O secretário-geral tem as competências nas áreas da gestão geral, gestão dos recursos humanos, gestão orçamental e realização de despesas e de gestão de instalações e equipamentos, designadamente:**
+O secretário-geral tem as competências nas áreas da gestão geral, gestão dos recursos humanos, gestão orçamental e realização de despesas e de gestão de instalações e equipamentos, designadamente:
 
 a) Propor à aprovação da Mesa a abertura de concursos e provimento do pessoal;
 
@@ -311,7 +363,7 @@ j) Exercer outras funções que superiormente lhe sejam atribuídas.
 
 ###### Artigo 19.º — Substituição
 
-**O secretário-geral será substituído nas suas faltas e impedimentos pelo director de serviços.**
+O secretário-geral será substituído nas suas faltas e impedimentos pelo director de serviços.
 
 ##### SUBSECÇÃO II — Estrutura orgânica
 
@@ -323,7 +375,9 @@ a) Divisão Administrativa, Financeira, Apoio Parlamentar e Secretariado;
 
 b) Divisão de Apoio Técnico.
 
-###### Artigo 21.º — Divisão Administrativa, Financeira, Apoio Parlamentar e Secretariado
+###### Artigo 21.º
+
+##### Divisão Administrativa, Financeira, Apoio Parlamentar e Secretariado
 
 A Divisão Administrativa, Financeira, Apoio Parlamentar e Secretariado compreende:
 
@@ -363,7 +417,9 @@ c) Registar e organizar os textos submetidos à apreciação da Assembleia Legis
 
 d) Verificar a conformidade dos diplomas e textos publicados com os que foram emanados da Assembleia Legislativa Regional, promovendo os necessários processos de rectificação.
 
-###### Artigo 22.º — Divisão de Apoio Técnico
+###### Artigo 22.º
+
+##### Divisão de Apoio Técnico
 
 À Divisão de Apoio Técnico compete:
 
@@ -665,13 +721,13 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 20 de Janeiro de 2000.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 15 de Fevereiro de 2000.**
+Assinado em Angra do Heroísmo em 15 de Fevereiro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 44.º
 

@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2000/01/31/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2000-405961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9470dcbe24a456f1fd93703fac775687abf7031b8c67b52d314267f2b90a458a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d14bb253d5be29ee624bd4ef91ce423671407ded552c70f18570a97166536369
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,18 +71,111 @@ subjects:
 - Autonomia Financeira
 - Autonomia Pedagógica
 - Definição de Competências
-- Ensino Oficial
-- Gestão Escolar
-- Estabelecimento de Ensino
+- Educação Pré-escolar
 - Ensino Básico
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Gestão Escolar
 - Madeira.região Autónoma
 - Regime Jurídico
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:993031451:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572608:por
+  label: "Declarada, com força obrigatória geral, a ilegalidade das normas constantes dos nºs 2 e 6 do art. 7º, nºs 3 a 8\
+    \ do art. 11º, nº 4 do art. 13º, nº 3 do art. 14º, nºs 1 e 2 do art. 17º, arts. 18º a 29º, 63º, 67º, nº 1 do art. 70º\
+    \ e art. 76º do regime de autonomia, administração e gestão dos estabelecimentos de educação e de ensino públicos da Região\
+    \ Autónoma da Madeira, aprovado pelo presente diploma pelo AC.161/2003.2003.03.25.TCS DR.IS-A [104] de 06/Mai/2003 (Proc.\
+    \ nº 64/2000)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/161-2003-572608
+  date: '2003-03-25'
+- type: amended_by
+  target: pt:dre:371038:por
+  label: "Alterados os artigos 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 57.º,\
+    \ 59.º e 61.º, renumerados os (antigos) artigos 31º, 35º, 36º, 38º, 39º, 40º, 41º, 48º, 54º, 56º, 58º, 60º, 61º, 72º,\
+    \ 75º e 78º, renumerados, com alteração de redacção os artigos 30º, 32º, 33º, 34º, 37º, 42º, 43º, 44º, 45º, 46º, 47º,\
+    \ 49º, 50º, 51º, 52º, 53º, 55º, 57º, 59º, 62º, 70º, 71º, 73º, 74º e 77º e substituidos os anexos II e III pelas constantes\
+    \ dos anexos I e II, pelo DLR.21/2006/M.07.06.2006.AL-RAM, DR.IS-A [118] de 21.06.2006, republicando-o na íntegra.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2006-371038
+  date: '2006-06-07'
+- type: amended_by
+  target: pt:dre:105657288:por
+  label: Suspenso, durante o ano de 2017, o fundo escolar previsto nos arts. 31.º, 32.º, 33.º e 34.º do presente diploma,
+    na versão republicada pelo DLR 21/2006/M de 21-jun, pelo(a) Decreto Legislativo Regional n.º 42-A/2016/M - Diário da República
+    n.º 250/2016, 1º Suplemento, Série I de 2016-12-30 nas escolas referidas no n.º 2 do seu art. 41.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/42-a-2016-105657288
+  date: '2016-12-30'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Suspenso, durante o ano de 2018, o fundo escolar previsto nos arts. 31.º, 32.º, 33.º e 34.º do presente diploma,
+    na versão republicada pelo DLR 21/2006/M de 21-jun pelo(a) Decreto Legislativo Regional n.º 2/2018/M - Diário da República
+    n.º 6/2018, Série I de 2018-01-09 nas escolas referidas no n.º 2 do seu art. 38.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
+- type: amended_by
+  target: pt:dre:117537584:por
+  label: Suspensos, durante o ano de 2019, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos arts. 31.º a 34.º do presente diploma, na versão republicada pelo
+    DLR 21/2006/M de 21-jun, pelo(a) Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série
+    I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2018-117537584
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Suspenso, durante o ano de 2020, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos arts. 31.º, 32.º, 33.º e 34.º do presente diploma, na versão republicada
+    pelo DLR 21/2006/M de 21-jun, pelo(a) Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º
+    Suplemento, Série I de 2020-01-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
+- type: amended_by
+  target: pt:dre:152639812:por
+  label: Suspensos, durante o ano de 2021, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos arts. 31.º, 32.º, 33.º e 34.º do presente diploma, na versão republicada
+    pelo DLR 21/2006/M de 21-jun, pelo(a) Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série
+    I de 2020-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2020-152639812
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:176800365:por
+  label: Suspendido, durante o ano de 2022, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos arts. 31.º, 32.º, 33.º e 34.º do presente diploma, na versão republicada
+    pelo DLR 21/2006/M de 21-jun, pelo(a) Decreto Legislativo Regional n.º 28-A/2021/M - Diário da República n.º 252/2021,
+    1º Suplemento, Série I de 2021-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-a-2021-176800365
+  date: '2021-12-30'
+- type: amended_by
+  target: pt:dre:205450899:por
+  label: Suspensos, durante o ano de 2023, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos arts. 31.º, 32.º, 33.º e 34.º do presente diploma, na versão republicada
+    pelo DLR 21/2006/M de 21-jun, pelo(a) Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série
+    I de 2022-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2022-205450899
+  date: '2022-12-29'
+- type: amended_by
+  target: pt:dre:873755644:por
+  label: Suspendido, os fundos escolares, durante o ano de 2024, previstos nos artigos 31.º a 34.º dopresente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29, nos termos do seu
+    artigo 49.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2024-873755644
+  date: '2024-07-29'
+- type: amended_by
+  target: pt:dre:923290710:por
+  label: Suspensos, durante o ano de 2025, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário, os fundos
+    escolares previstos nos artigos 31.º, 32.º, 33.º e 34.º, pelo(a) Decreto Legislativo Regional n.º 2/2025/M - Diário da
+    República n.º 125/2025, Série I de 2025-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2025-923290710
+  date: '2025-07-02'
+- type: amended_by
+  target: pt:dre:993031451:por
+  label: Suspensos, durante o ano de 2026, nas escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário da Região
+    Autónoma da Madeira, os fundos escolares previstos nos artigos 31.º a 34.º, pelo(a) Decreto Legislativo Regional n.º 8/2025/M
+    - Diário da República n.º 250/2025, Série I de 2025-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2025-993031451
+  date: '2025-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
@@ -121,16 +212,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:191110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612219:por
+  label: null
+  source: null
 article_structure:
   article_count: 80
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:51Z'
   warnings: []
   errors: []
 ---
@@ -165,11 +308,11 @@ O presente diploma entra em vigor no ano escolar de 2000-2001.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira de 9 de Dezembro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 5 de Janeiro de 2000.**
+Assinado em 5 de Janeiro de 2000.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Regime de autonomia, administração e gestão dos estabelecimentos de educação e de ensino públicos da Região Autónoma da Madeira.
 
@@ -1013,16 +1156,16 @@ Mapa I
 
 (a que faz referência o n.º 4 do artigo 13.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)
 
 Mapa II
 
 (a que faz referência o n.º 1 do artigo 47.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)
 
 Mapa III
 
 (a que faz referência o n.º 1 do artigo 70.º)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)](https://files.diariodarepublica.pt/1s/2000/01/025a00/04150429.pdf)

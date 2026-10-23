@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62/2009/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2009-602724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2aa5d8876436860f83fc666d46970bd65169e723ffdae68f0a4f24ac96a5bc5e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 119a7f851f2f5e8d741aa37ab0cb5c7c8241ca7f9b0baf06163c4447fb805f47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Comissão de Serviço
 - Administração Pública
+- Comissão de Serviço
 - Impresso
 - Nomeação
 - Tomada de Posse
@@ -76,20 +76,35 @@ relationships:
   target: pt:dre:25676932:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:25676932:por
+  label: Determinada a manutenção em vigor, pela LEI.35/2014.20.06.2014.AR, DR.IS [117] de 20.06.2014��
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-2014-25676932
+  date: '2014-06-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:601369:por
+  label: "Rectificada a epígrafe do artigo 2.º [onde se lê «Entrada em vigor» deve ler-se «Produção de efeitos»], pela DECL-RECT.12/2009.10.02.2009.PCM,\
+    \ DR.IS [28] de 10.02.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/12-2009-601369
+  date: '2009-02-10'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:20Z'
   warnings: []
   errors: []
 ---
@@ -112,12 +127,12 @@ São aprovados os modelos de termos de aceitação da nomeação e de termo de p
 
 A presente portaria produz efeitos a 1 de Janeiro de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 15 de Janeiro de 2009.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 15 de Janeiro de 2009.
 
 ## ANEXO I — Termo de aceitação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01500/0047400475.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01500/0047400475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01500/0047400475.pdf)
 
 ## ANEXO II — Termo de posse
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/01/01500/0047400475.pdf))](https://files.diariodarepublica.pt/1s/2009/01/01500/0047400475.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/01500/0047400475.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06400/20182019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/375/2007/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/375-2007-520274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39ac6ca10c9e726da5978f300d7cfc983b6a5812432bb3f15b7a99e24e8405ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 786ae06330bde87a171828d6abfad565abb4ac7befec7b08fc4cf9c354676290
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Cinema e do Audiovisual
 - Estatuto
+- Instituto do Cinema e do Audiovisual
 relationships:
 - type: amended_by
   target: pt:dre:178807:por
@@ -84,16 +84,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/2004/08/18/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:480711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178807:por
+  label: "Revogada pela PORT.189/2012.15.06.2012.PCM, DR.IS [115] de 15.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/189-2012-178807
+  date: '2012-06-15'
 article_structure:
   article_count: 7
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:08Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +175,9 @@ d) Contribuir para a promoção das obras nacionais nos mercados nacional e inte
 
 e) Colaborar com outras entidades interessadas nas actividades cinematográficas e audiovisuais, nomeadamente em matéria de fiscalização e de salvaguarda da concorrência.
 
-###### Artigo 3.º — Divisão de Programas e Projectos
+###### Artigo 3.º
+
+##### Divisão de Programas e Projectos
 
 À Divisão de Programas e Projectos, abreviadamente designada por DPP, compete:
 
@@ -170,7 +189,9 @@ c) Apoiar a celebração de protocolos e acordos com entidades públicas;
 
 d) Acompanhar e avaliar as parcerias estabelecidas com entidades do sector.
 
-###### Artigo 4.º — Divisão de Estudos e Estatística
+###### Artigo 4.º
+
+##### Divisão de Estudos e Estatística
 
 À Divisão de Estudos e Estatística, abreviadamente designada por DEE, compete:
 

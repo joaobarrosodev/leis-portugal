@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07400/0000500022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2023/04/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 318d926117c56b60717e2c6bd07bb00d6367f9fbe97cd8459f4a9d2221d3a14b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f76bb792fcde948c0815aa2c0dc4893053619932932fd1ab036c33bd5e1254a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abate de Animais
+- Açores
 - Adopção
 - Animal Doméstico
 - Animal Vadio
 - Centro de Recolha de Animais
-- Proteção dos Animais
 - Controlo Sanitário
-- Abate de Animais
+- Proteção dos Animais
 - Registo de Animais
-- Açores
 - Vacinação
 relationships:
 - type: cites
@@ -101,16 +101,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2016/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2016/08/23/p/dre
+- type: cites
+  target: pt:dre:122728684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160422286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689623:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74889525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75170435:por
+  label: null
+  source: null
 article_structure:
-  article_count: 38
+  article_count: 25
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:57Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +229,9 @@ p) 'Associação de proteção animal': pessoa coletiva legalmente constituída 
 
 q) 'Centro de recolha oficial aprovado': alojamento oficial de animais, autorizado nos termos do [Decreto-Lei n.º 276/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241), de 17 de outubro, na sua redação atual.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -227,11 +253,15 @@ d) [...]
 
 3 - A eutanásia compulsiva, prevista na alínea b) do n.º 1, e a eutanásia, prevista nas alíneas a) a d) do número anterior, só podem ser realizadas por médico veterinário, sob parecer escrito devidamente fundamentado e acompanhado dos exames de diagnóstico, quando aplicável, devendo ser mantidos por um período de 24 meses após a data da realização do ato.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 Os métodos de abate compulsivo não podem causar dor e sofrimento desnecessários e devem respeitar as boas práticas éticas e deontológicas e a legislação em vigor nesta matéria.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Compete às câmaras municipais da Região Autónoma dos Açores proceder à recolha e à captura de animais de companhia e errantes, quando estejam em causa razões de saúde pública e de segurança pública, de pessoas, bens e outros animais.
 
@@ -253,7 +283,9 @@ Os métodos de abate compulsivo não podem causar dor e sofrimento desnecessári
 
 10 - Para efeitos do disposto no presente artigo, as câmaras municipais e os centros de recolha oficial de animais divulgam ao público, de forma adequada e regular, com atualização quinzenal, os animais disponíveis para adoção.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Nos centros de recolha oficial de animais da responsabilidade das câmaras municipais, todos os animais recolhidos, e no âmbito do Programa CED, são registados e identificados por um número único de identificação.
 
@@ -289,7 +321,9 @@ m) [...]
 
 4 - Com vista à otimização, desburocratização e simplificação de procedimentos, os dados constantes na base de dados do Registo de Animais de Companhia e Errantes são integrados no Sistema de Informação de Animais de Companhia.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - Sem prejuízo do previsto nos artigos 14.º e 15.º, as câmaras municipais, ainda que sem centro de recolha oficial de animais no seu território, em cooperação e colaboração com outras entidades, elaboram e executam um programa municipal anual de esterilização, registo, sensibilização para o bem-estar animal e responsabilização social, adoção e voluntariado animal no respetivo âmbito de competência territorial.
 
@@ -317,7 +351,9 @@ f) Projeto municipal de voluntariado animal.
 
 7 - Até ao fim do ano de 2024, a direção regional com competência na matéria efetua o balanço da Campanha Regional de Esterilização Gratuita de Animais com vista ao apuramento da necessidade da sua prorrogação.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -343,11 +379,15 @@ b) Apresentando no centro de recolha oficial uma declaração de médico veterin
 
 10 - Se o animal em causa for silvestre, deve ser devolvido ao seu local de captura ou de origem no prazo de quatro dias após a sua esterilização.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 A fiscalização do cumprimento das normas constantes no presente diploma compete à direção regional com competência em matéria de veterinária, sem prejuízo das competências atribuídas por lei a outras entidades com atribuições de fiscalização.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - [...]
 
@@ -361,11 +401,15 @@ c) [...]
 
 d) A violação do artigo 6.º-C.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 A instrução e decisão dos processos de contraordenação competem à direção regional com competência em matéria de veterinária.
 
-###### Artigo 14.º — Campanhas para promoção do bem-estar animal
+Artigo 14.º
+
+Campanhas para promoção do bem-estar animal
 
 1 - No âmbito da respetiva área de competência territorial, cada câmara municipal da Região Autónoma dos Açores realiza, pelo menos uma vez por ano, campanhas de sensibilização para o bem-estar animal, identificação, registo, esterilização e castração de animais de companhia.
 
@@ -383,7 +427,9 @@ Procedimento para a adoção de animais
 
 Cumprido o disposto no n.º 3 do artigo anterior e decorrido o prazo previsto no n.º 6 do artigo anterior, os animais recolhidos são reencaminhados para a adoção, sendo as entidades responsáveis pela recolha incumbidas da respetiva divulgação pública, nos sítios online da câmara municipal e centro de recolha oficial de animais, em colaboração com as associações de proteção animal.
 
-###### Artigo 6.º-B — Programas CED
+Artigo 6.º-B
+
+Programas CED
 
 1 - Como forma de gestão da população de gatos errantes e nos casos em que tal se justifique, podem as câmaras municipais, sob parecer do médico veterinário municipal, autorizar a manutenção, em locais especialmente designados para o efeito, de colónias de gatos, no âmbito de programas de captura, esterilização e devolução ao local de origem.
 
@@ -421,11 +467,15 @@ e) Que os animais capturados são esterilizados e marcados com um pequeno corte 
 
 13 - Os gatos silvestres no âmbito do Programa CED que se encontrem sob responsabilidade de associações de proteção animal são registados em nome do município com jurisdição territorial, sem prejuízo de o município ser tomador de seguro.
 
-###### Artigo 6.º-C — Criadores de animais
+Artigo 6.º-C
+
+Criadores de animais
 
 Sem prejuízo do [Decreto-Lei n.º 82/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2019-122728684), de 27 de junho, na sua redação atual, as pessoas singulares ou coletivas que se dediquem à criação comercial de animais de companhia procedem ao seu registo, em plataforma eletrónica, de caráter obrigatório e criada para este efeito pela secretaria regional com competência em matéria de veterinária, no prazo de 90 dias, a contar da data da publicação do presente diploma.
 
-###### Artigo 6.º-D — Animal comunitário
+Artigo 6.º-D
+
+Animal comunitário
 
 1 - As câmaras municipais podem, sob parecer escrito fundamentado do médico veterinário municipal, autorizar a permanência de animais em espaço público, a que o animal esteja habituado e onde esteja integrado.
 
@@ -451,11 +501,11 @@ O presente decreto legislativo regional entra em vigor 30 dias após a sua publi
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de fevereiro de 2023.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 10 de abril de 2023.**
+Assinado em Angra do Heroísmo em 10 de abril de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -768,3 +818,5 @@ O cumprimento das obrigações estabelecidas no presente diploma para as câmara
 1 - O presente diploma entra em vigor 90 dias após a sua publicação.
 
 2 - O disposto nos artigos 3.º e 4.º e no n.º 1 do artigo 11.º do [Decreto Legislativo Regional n.º 12/2016/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2016-74889525), de 8 de julho, aplica-se dois meses após a publicação do presente decreto legislativo regional.
+
+116355515

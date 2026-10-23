@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1978-329437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa82f70942401505f5d74da1e3c01a14a1650c53664d689b419fd9898b2084c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4869e2f259518e4b00b4dd10679df03f02c36ce7f8414cbbed31a51e0e29c5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Regional da Energia
+- Direcção Regional da Indústria
+- Governo Regional
+- Laboratório de Geociências e Tecnologia
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- Secretaria Regional do Comércio e Indústria
 relationships:
 - type: amended_by
   target: pt:dre:471093:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:140359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448925:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:325970:por
+  label: Rectificado pela DECL.DD7415.15.11.1978.PCM, DR.IS [263] de 15.11.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-325970
+  date: '1978-11-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:46Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +116,7 @@ ORGÂNICA DA SECRETARIA REGIONAL DO COMÉRCIO E INDÚSTRIA
 
 ### CAPÍTULO I — Atribuições e estruturas da Secretaria Regional do Comércio e Indústria
 
-###### Artigo 1.º A Secretaria Regional do Comércio e Indústria é superiormente dirigida pelo Secretário Regional do Comércio e Indústria, tendo as seguintes atribuições:
+Artigo 1.º A Secretaria Regional do Comércio e Indústria é superiormente dirigida pelo Secretário Regional do Comércio e Indústria, tendo as seguintes atribuições:
 
 a) Orientar, dirigir e superintender, na Região Autónoma dos Açores, em todas as acções necessárias ao cumprimento da política definida pelo Governo Regional nos sectores do abastecimento, fiscalização económica, comércio externo, indústria e energia;
 
@@ -110,7 +132,7 @@ f) Disciplinar o exercício da actividade dos sectores comercial, industrial e e
 
 g) Exercer poderes de tutela sobre os institutos que estejam na sua dependência.
 
-###### Art. 2.º A Secretaria Regional do Comércio e Indústria compreende as seguintes Direcções Regionais:
+Art. 2.º A Secretaria Regional do Comércio e Indústria compreende as seguintes Direcções Regionais:
 
 a) Direcção Regional do Comércio e Abastecimentos;
 
@@ -118,7 +140,7 @@ b) Direcção Regional da Indústria;
 
 c) Direcção Regional da Energia.
 
-###### Art. 3.º Na dependência directa do Secretário Regional funcionam os seguintes serviços de concepção, investigação e apoio de toda a Secretaria Regional do Comércio e Indústria:
+Art. 3.º Na dependência directa do Secretário Regional funcionam os seguintes serviços de concepção, investigação e apoio de toda a Secretaria Regional do Comércio e Indústria:
 
 a) Gabinete do Secretário Regional;
 
@@ -128,11 +150,11 @@ c) Gabinete Técnico;
 
 d) Laboratório de Geociências e Tecnologia.
 
-###### Art. 4.º O Secretário Regional do Comércio e Indústria poderá delegar nos directores regionais as suas competências no que respeita à tutela administrativa sobre as empresas públicas ou nacionalizadas dos sectores comercial, industrial e energético.
+Art. 4.º O Secretário Regional do Comércio e Indústria poderá delegar nos directores regionais as suas competências no que respeita à tutela administrativa sobre as empresas públicas ou nacionalizadas dos sectores comercial, industrial e energético.
 
 ### CAPÍTULO II — Competência do Secretário Regional e dos directores regionais
 
-###### Art. 5.º Compete ao Secretário Regional do Comércio e Indústria, designadamente:
+Art. 5.º Compete ao Secretário Regional do Comércio e Indústria, designadamente:
 
 a) Propor e fazer executar na Região as políticas de abastecimento e fiscalização, comércio externo, indústria e energia;
 
@@ -142,7 +164,7 @@ c) Superintender e coordenar toda a acção da Secretaria Regional;
 
 d) Assegurar a orientação e coordenação dos órgãos e serviços que estejam na sua directa dependência.
 
-###### Art. 6.º Compete aos directores regionais, designadamente:
+Art. 6.º Compete aos directores regionais, designadamente:
 
 a) Coadjuvar o Secretário Regional, praticando todos os actos da sua competência própria ou delegada;
 
@@ -154,13 +176,13 @@ Competência dos Serviços de Concepção, Investigação Aplicada e Apoio depen
 
 #### SECÇÃO I — Gabinete do Secretário Regional
 
-###### Art. 7.º O Gabinete do Secretário Regional tem a composição e as atribuições previstas na legislação regional em vigor.
+Art. 7.º O Gabinete do Secretário Regional tem a composição e as atribuições previstas na legislação regional em vigor.
 
-###### Art. 8.º O Secretário Regional poderá destacar da Repartição dos Serviços Administrativos até dois funcionários de categoria não superior a segundo-oficial, para prestarem apoio administrativo no Gabinete.
+Art. 8.º O Secretário Regional poderá destacar da Repartição dos Serviços Administrativos até dois funcionários de categoria não superior a segundo-oficial, para prestarem apoio administrativo no Gabinete.
 
 #### SECÇÃO II — Repartição dos Serviços Administrativos
 
-###### Art. 9.º - 1 - A Repartição dos Serviços Administrativos é o órgão de execução dos serviços de interesse comum a toda a Secretaria Regional, designadamente os de expediente, arquivo, pessoal, contabilidade e património.
+Art. 9.º - 1 - A Repartição dos Serviços Administrativos é o órgão de execução dos serviços de interesse comum a toda a Secretaria Regional, designadamente os de expediente, arquivo, pessoal, contabilidade e património.
 
 2 - À Repartição dos Serviços Administrativos incumbe especialmente:
 
@@ -184,7 +206,7 @@ h) Organizar os processos de liquidação de despesas resultantes da execução 
 
 #### SECÇÃO III — Gabinete Técnico
 
-###### Art. 10.º O Gabinete Técnico é um órgão de apoio, estudo, planeamento e programação da Secretaria Regional do Comércio e Indústria, competindo-lhe, designadamente:
+Art. 10.º O Gabinete Técnico é um órgão de apoio, estudo, planeamento e programação da Secretaria Regional do Comércio e Indústria, competindo-lhe, designadamente:
 
 a) Estudar e dar parecer sobre todas as questões de natureza técnica, económica, financeira e jurídica que lhe sejam submetidas;
 
@@ -202,13 +224,13 @@ g) Colaborar na preparação e redacção dos projectos de diplomas legais emana
 
 h) Propor iniciativas adequadas ao aperfeiçoamento técnico-profissional do pessoal da Secretaria Regional.
 
-###### Art. 11.º - 1 - O Gabinete Técnico será dirigido por um técnico principal do quadro do pessoal da Secretaria Regional do Comércio e Indústria.
+Art. 11.º - 1 - O Gabinete Técnico será dirigido por um técnico principal do quadro do pessoal da Secretaria Regional do Comércio e Indústria.
 
 2 - Não estando preenchidos os lugares de técnico principal, o Secretário Regional poderá encarregar da chefia do Gabinete um técnico de 1.ª classe ou, na falta deste, um técnico de 2.ª classe, quando tal se mostre indispensável.
 
 #### SECÇÃO IV — Laboratório de Geociências e Tecnologia
 
-###### Art. 12.º - 1 - O Laboratório de Geociências e Tecnologia é um serviço de investigação aplicada e desenvolvimento tecnológico no campo das geociências e para apoio laboratorial aos sectores energético e industrial.
+Art. 12.º - 1 - O Laboratório de Geociências e Tecnologia é um serviço de investigação aplicada e desenvolvimento tecnológico no campo das geociências e para apoio laboratorial aos sectores energético e industrial.
 
 2 - O Laboratório de Geociências e Tecnologia será dirigido por um director de serviços.
 
@@ -246,7 +268,7 @@ b) Tecnologia Aplicada.
 
 ### CAPÍTULO IV — Direcção Regional do Comércio e Abastecimentos
 
-###### Art. 13.º Compete à Direcção Regional do Comércio e Abastecimentos:
+Art. 13.º Compete à Direcção Regional do Comércio e Abastecimentos:
 
 a) Apoiar o Secretário Regional na promoção e execução da política definida em matéria de coordenação económica, designadamente sobre abastecimento, preços e comércio externo;
 
@@ -270,7 +292,7 @@ j) Organizar, promover e superintender os organismos de defesa do consumidor;
 
 l) Propor normas de defesa do consumidor.
 
-###### Art. 14.º Na Direcção Regional do Comércio e Abastecimentos funcionam os seguintes serviços:
+Art. 14.º Na Direcção Regional do Comércio e Abastecimentos funcionam os seguintes serviços:
 
 a) Direcção dos Serviços de Intervenção de Mercado;
 
@@ -278,7 +300,7 @@ b) Divisão de Fiscalização Económica e Qualidade Alimentar;
 
 c) Divisão de Mercados e Comércio Externo.
 
-###### Art. 15.º Compete genericamente à Direcção dos Serviços de Intervenção de Mercado:
+Art. 15.º Compete genericamente à Direcção dos Serviços de Intervenção de Mercado:
 
 a) Coordenar os programas de abastecimento da Região, tendo em conta as necessidades dos consumidores em quantidade, qualidade e preços;
 
@@ -304,7 +326,7 @@ l) Promover o escoamento dos excedentes da produção regional;
 
 m) Realizar todas as demais tarefas, no campo específico das suas funções, de que seja superiormente incumbida.
 
-###### Art. 16.º Compete genericamente à Divisão de Fiscalização Económica e Qualidade Alimentar:
+Art. 16.º Compete genericamente à Divisão de Fiscalização Económica e Qualidade Alimentar:
 
 a) Fiscalizar e disciplinar o comércio interno da Região, intervindo de forma a assegurar o cumprimento da lei em matéria de preços e abastecimento público;
 
@@ -312,7 +334,7 @@ b) Condicionar e fiscalizar o exercício das actividades comerciais ou de distri
 
 c) Realizar todas as demais tarefas no campo específico das suas atribuições, de que seja superiormente incumbida.
 
-###### Art. 17.º Compete genericamente à Divisão de Mercados e Comércio Externo:
+Art. 17.º Compete genericamente à Divisão de Mercados e Comércio Externo:
 
 a) Estudar e propor as operações de importação e exportação de produtos, em conjugação com a Direcção dos Serviços de Intervenção de Mercado;
 
@@ -326,7 +348,7 @@ e) Realizar todas as demais tarefas, no campo específico das suas funções, de
 
 ### CAPÍTULO V — Direcção Regional da Indústria
 
-###### Art. 18.º Compete à Direcção Regional da Indústria:
+Art. 18.º Compete à Direcção Regional da Indústria:
 
 a) Apoiar o Secretário Regional na definição e contrôle da execução regional da política industrial;
 
@@ -340,13 +362,13 @@ e) Estudar e propor medidas de fomento das actividades industriais na Região;
 
 f) Organizar o inventário, valorização, aproveitamento e fiscalização dos recursos naturais regionais.
 
-###### Art. 19.º - 1 - Na Direcção Regional da Indústria funcionarão os seguintes serviços:
+Art. 19.º - 1 - Na Direcção Regional da Indústria funcionarão os seguintes serviços:
 
 a) Direcção dos Serviços Industriais;
 
 b) Divisão de Fomento Industrial e Recursos Naturais.
 
-###### Art. 20.º Compete genericamente à Direcção dos Serviços Industriais:
+Art. 20.º Compete genericamente à Direcção dos Serviços Industriais:
 
 a) Propor e executar as acções que se enquadram na política industrial do Governo Regional e que lhe forem determinadas superiormente, orientando a actividade e estimulando o progresso do sector;
 
@@ -360,7 +382,7 @@ e) Assegurar a observância das disposições legais respeitantes à instalaçã
 
 f) Realizar todas as demais tarefas no campo específico das suas funções, de que seja superiormente incumbida.
 
-###### Art. 21.º Compete genericamente à Divisão de Fomento Industrial e Recursos Naturais:
+Art. 21.º Compete genericamente à Divisão de Fomento Industrial e Recursos Naturais:
 
 a) Estudar e apresentar propostas legislativas tendentes a incentivar as actividades industriais na Região;
 
@@ -376,7 +398,7 @@ f) Realizar todas as demais tarefas no campo específico das suas funções, de 
 
 ### CAPÍTULO VI — Direcção Regional de Energia
 
-###### Art. 22.º Compete à Direcção Regional de Energia:
+Art. 22.º Compete à Direcção Regional de Energia:
 
 a) Apoiar o Secretário Regional na definição e contrôle da execução regional da política energética;
 
@@ -386,13 +408,13 @@ c) Coordenar, licenciar e fiscalizar em matéria referente ao sector eléctrico;
 
 d) Coordenar, licenciar e fiscalizar em matéria referente aos combustíveis.
 
-###### Art. 23.º Na Direcção Regional de Energia funcionarão os seguintes serviços:
+Art. 23.º Na Direcção Regional de Energia funcionarão os seguintes serviços:
 
 a) Direcção dos Serviços de Electricidade;
 
 b) Divisão de Produção Energética.
 
-###### Art. 24.º Compete genericamente à Direcção dos Serviços de Electricidade:
+Art. 24.º Compete genericamente à Direcção dos Serviços de Electricidade:
 
 a) Propor e executar as acções que se enquadram na política definida superiormente no sector da electricidade;
 
@@ -404,7 +426,7 @@ d) Assegurar a observância e as disposições legais respeitantes aos processos
 
 e) Realizar todas as demais tarefas no campo específico das suas funções, de que seja superiormente incumbida.
 
-###### Art. 25.º Compete genericamente à Divisão de Produção Energética:
+Art. 25.º Compete genericamente à Divisão de Produção Energética:
 
 a) Planificar, com base na previsão de evolução do consumo de energia eléctrica, as acções necessárias a prover o abastecimento público;
 
@@ -424,11 +446,11 @@ h) Realizar todas as demais tarefas no campo específico das suas funções, de 
 
 ### CAPÍTULO VII — Delegações da Secretaria Regional do Comércio e Indústria
 
-###### Art. 26.º São criadas na dependência directa do Secretário Regional do Comércio e Indústria as delegações de Santa Maria, Terceira, Graciosa, S. Jorge, Pico, Faial e Flores e Corvo, reunindo todos os seus serviços de ilha.
+Art. 26.º São criadas na dependência directa do Secretário Regional do Comércio e Indústria as delegações de Santa Maria, Terceira, Graciosa, S. Jorge, Pico, Faial e Flores e Corvo, reunindo todos os seus serviços de ilha.
 
 ### CAPÍTULO VIII — Pessoal
 
-###### Art. 27.º O quadro do pessoal da Secretaria Regional do Comércio e Indústria é o constante do mapa anexo ao presente diploma e será agrupado de acordo com a seguinte classificação:
+Art. 27.º O quadro do pessoal da Secretaria Regional do Comércio e Indústria é o constante do mapa anexo ao presente diploma e será agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -440,9 +462,9 @@ d) Pessoal auxiliar.
 
 2 - O Secretário Regional poderá autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços, nas condições que forem fixadas com acordo do Secretário Regional da Administração Pública.
 
-###### Art. 28.º O pessoal da Secretaria Regional do Comércio e Indústria constitui um quadro único, competindo ao Secretário Regional a sua colocação de harmonia com as necessidades, a conveniência dos serviços e as aptidões dos funcionários.
+Art. 28.º O pessoal da Secretaria Regional do Comércio e Indústria constitui um quadro único, competindo ao Secretário Regional a sua colocação de harmonia com as necessidades, a conveniência dos serviços e as aptidões dos funcionários.
 
-###### Art. 29.º - 1 - As condições de ingresso e acesso à carreira profissional do pessoal do quadro da Secretaria Regional do Comércio e Indústria serão, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação regional e geral em vigor, aplicando-se às categorias a seguir mencionadas as seguintes regras:
+Art. 29.º - 1 - As condições de ingresso e acesso à carreira profissional do pessoal do quadro da Secretaria Regional do Comércio e Indústria serão, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação regional e geral em vigor, aplicando-se às categorias a seguir mencionadas as seguintes regras:
 
 a) Os lugares de assessor técnico ou investigador serão providos de entre os técnicos principais ou assistentes principais com, pelo menos, seis anos de bom e efectivo serviço nas categorias, mediante concurso de prestação de provas ou de avaliação curricular a regulamentar por despacho conjunto das Secretarias Regionais do Comércio e Indústria e da Administração Pública;
 
@@ -468,24 +490,24 @@ c) Agentes fiscais de 2.ª classe - por concurso documental, de entre os indiví
 
 ### CAPÍTULO IX — Disposições finais e transitórias
 
-###### Art. 30.º O Secretário Regional do Comércio e Indústria definirá por despacho a estrutura, as atribuições, a competência e o funcionamento dos serviços de categoria inferior a divisão.
+Art. 30.º O Secretário Regional do Comércio e Indústria definirá por despacho a estrutura, as atribuições, a competência e o funcionamento dos serviços de categoria inferior a divisão.
 
-###### Art. 31.º Ficam integrados no departamento de Tecnologia Aplicada do Laboratório de Geociências e Tecnologia os laboratórios distritais de Angra do Heroísmo e Ponta Delgada.
+Art. 31.º Ficam integrados no departamento de Tecnologia Aplicada do Laboratório de Geociências e Tecnologia os laboratórios distritais de Angra do Heroísmo e Ponta Delgada.
 
-###### Art. 32.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários Regionais do Comércio e Indústria e da Administração Pública.
+Art. 32.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Secretários Regionais do Comércio e Indústria e da Administração Pública.
 
-###### Art. 33.º Ficam revogados os Decretos Regulamentares Regionais n.os [3/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1977-140359), de 8 de Março, e [3/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-448925), de 25 de Janeiro.
+Art. 33.º Ficam revogados os Decretos Regulamentares Regionais n.os [3/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1977-140359), de 8 de Março, e [3/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1978-448925), de 25 de Janeiro.
 
 Aprovado em Plenário do Governo Regional em 13 de Julho de 1978.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em 16 de Agosto de 1978.**
+Assinado em 16 de Agosto de 1978.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 Quadros e vencimentos do pessoal a que se refere o artigo 27.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21800/19992005.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21800/19992005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21800/19992005.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

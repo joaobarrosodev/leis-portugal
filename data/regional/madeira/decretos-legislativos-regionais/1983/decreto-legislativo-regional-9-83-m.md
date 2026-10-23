@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1983-454039
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 323cf20ce5b5bd23e16e5cc65b6b9e2f7d8144a819950dbd46a0f7e68ea3eae7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e761254e475325340e5adb1f996e742aefdb1eab399e0b2501c7c25f3bbfd94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Espetáculos e Divertimentos Públicos
+- Inspecção Regional de Espectáculos
+- Madeira.região Autónoma
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:618114:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:379910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682068:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:618139:por
+  label: Rectificado pela DECL.DD5679.07.09.1983.PCM, DR.IS [226]Supl de 30.09.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-618139
+  date: '1983-09-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:51Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +141,11 @@ I
 
 Da Inspecção Regional de Espectáculos
 
-###### Artigo 1.º É criada, na Presidência do Governo Regional da Madeira, a Inspecção Regional de Espectáculos, que exercerá a competência conferida pelo [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, e seus regulamentos.
+Artigo 1.º É criada, na Presidência do Governo Regional da Madeira, a Inspecção Regional de Espectáculos, que exercerá a competência conferida pelo [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, e seus regulamentos.
 
-###### Art. 2.º A Inspecção Regional de Espectáculos compreende os serviços de espectáculos e divertimentos públicos em toda a Região Autónoma da Madeira.
+Art. 2.º A Inspecção Regional de Espectáculos compreende os serviços de espectáculos e divertimentos públicos em toda a Região Autónoma da Madeira.
 
-###### Art. 3.º - 1 - A Inspecção é dirigida pelo inspector regional de Espectáculos, cujas funções são inerentes às de director regional dos Assuntos Culturais.
+Art. 3.º - 1 - A Inspecção é dirigida pelo inspector regional de Espectáculos, cujas funções são inerentes às de director regional dos Assuntos Culturais.
 
 2 - O inspector regional será especialmente coadjuvado pelo chefe de secção da Inspecção, no qual poderá delegar a resolução de assuntos correntes.
 
@@ -112,21 +153,21 @@ II
 
 Dos serviços regionais
 
-###### Art. 4.º Os serviços regionais compreendem a secretaria, a cargo do chefe da secção directamente dependente do inspector regional, e o conselho técnico.
+Art. 4.º Os serviços regionais compreendem a secretaria, a cargo do chefe da secção directamente dependente do inspector regional, e o conselho técnico.
 
-###### Art. 5.º - 1 - O conselho técnico é presidido pelo inspector regional e tem por vogais um engenheiro civil, delegado da Direcção Regional de Habitação, Urbanismo e Ambiente, um médico ou engenheiro sanitário da Direcção Regional de Saúde Pública, um arquitecto da Direcção Regional dos Assuntos Culturais e o comandante do Corpo de Bombeiros Municipais do Funchal.
+Art. 5.º - 1 - O conselho técnico é presidido pelo inspector regional e tem por vogais um engenheiro civil, delegado da Direcção Regional de Habitação, Urbanismo e Ambiente, um médico ou engenheiro sanitário da Direcção Regional de Saúde Pública, um arquitecto da Direcção Regional dos Assuntos Culturais e o comandante do Corpo de Bombeiros Municipais do Funchal.
 
 2 - Sempre que o conselho técnico tiver de pronunciar-se sobre projectos relativos a recintos destinados a actividades desportivas, fará também parte dele o representante da Direcção Regional dos Desportos.
 
 3 - O conselho técnico será secretariado por um funcionário da Inspecção Regional de Espectáculos.
 
-###### Art. 6.º Compete ao conselho técnico:
+Art. 6.º Compete ao conselho técnico:
 
 a) Dar parecer sobre projectos de construção, adaptação ou alteração dos recintos de espectáculos ou divertimentos públicos e nos demais casos que lhe devem ser submetidos;
 
 b) Realizar as vistorias determinadas pelo inspector regional.
 
-###### Art. 7.º A secretaria da Inspecção Regional de Espectáculos abrange:
+Art. 7.º A secretaria da Inspecção Regional de Espectáculos abrange:
 
 a) Serviço de expediente e registos;
 
@@ -138,15 +179,15 @@ d) Serviço de contencioso e fiscalização.
 
 § único. A secção administrativa exerce, na Região, as funções que estão cometidas aos serviços centrais da Inspecção de Espectáculos pelo [Decreto n.º 42664](https://diariodarepublica.pt/dr/detalhe/decreto/42664-1959-439642), de 20 de Novembro de 1959.
 
-###### Art. 8.º O inspector regional e os membros do conselho técnico, dado o exercício de funções por inerência, não auferem vencimento decorrente destes cargos.
+Art. 8.º O inspector regional e os membros do conselho técnico, dado o exercício de funções por inerência, não auferem vencimento decorrente destes cargos.
 
 III
 
 Das delegações
 
-###### Art. 9.º As delegações concelhias da Inspecção Regional de Espectáculos serão exercidas pela entidade designada pelo Presidente do Governo, com as competências estipuladas no artigo 11.º do [Decreto n.º 42664](https://diariodarepublica.pt/dr/detalhe/decreto/42664-1959-439642), de 20 de Novembro de 1959, e seus aditamentos.
+Art. 9.º As delegações concelhias da Inspecção Regional de Espectáculos serão exercidas pela entidade designada pelo Presidente do Governo, com as competências estipuladas no artigo 11.º do [Decreto n.º 42664](https://diariodarepublica.pt/dr/detalhe/decreto/42664-1959-439642), de 20 de Novembro de 1959, e seus aditamentos.
 
-###### Art. 10.º - 1 - Os delegados podem ser coadjuvados por um adjunto de sua escolha e sob sua inteira responsabilidade, sem qualquer remuneração.
+Art. 10.º - 1 - Os delegados podem ser coadjuvados por um adjunto de sua escolha e sob sua inteira responsabilidade, sem qualquer remuneração.
 
 2 - A designação dos adjuntos será comunicada ao inspector regional para confirmação.
 
@@ -156,29 +197,29 @@ IV
 
 Da reserva de lugares
 
-###### Art. 11.º A faculdade de reserva do lugar, prevista no artigo 45.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, compete, na Região, ao Presidente do Governo Regional, ao inspector regional de Espectáculos, ao chefe de secção da Inspecção Regional e aos delegados concelhios.
+Art. 11.º A faculdade de reserva do lugar, prevista no artigo 45.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, compete, na Região, ao Presidente do Governo Regional, ao inspector regional de Espectáculos, ao chefe de secção da Inspecção Regional e aos delegados concelhios.
 
-###### Art. 12.º O inspector regional de Espectáculos, o chefe de secção da Inspecção Regional de Espectáculos e os delegados concelhios são equiparados, para efeitos do preceituado no § 1.º do artigo 47.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, às entidades individualmente referidas nesta disposição legal.
+Art. 12.º O inspector regional de Espectáculos, o chefe de secção da Inspecção Regional de Espectáculos e os delegados concelhios são equiparados, para efeitos do preceituado no § 1.º do artigo 47.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, às entidades individualmente referidas nesta disposição legal.
 
 V
 
 Da fiscalização e inspecção
 
-###### Art. 13.º Do pessoal da Inspecção Regional de Espectáculos apenas exercem funções de inspecção o inspector regional e o chefe de secção, por delegação de poderes.
+Art. 13.º Do pessoal da Inspecção Regional de Espectáculos apenas exercem funções de inspecção o inspector regional e o chefe de secção, por delegação de poderes.
 
-###### Art. 14.º - 1 - Exercem funções de fiscalização os agentes de inspecção, que têm, depois de identificados, livre acesso a todos os recintos de espectáculos e divertimentos públicos, instalações de associações recreativas, desportivas e culturais, devendo ser-lhes concedidas, pelas respectivas empresas, direcções ou organizadores as facilidades necessárias para o perfeito exercício das suas funções.
+Art. 14.º - 1 - Exercem funções de fiscalização os agentes de inspecção, que têm, depois de identificados, livre acesso a todos os recintos de espectáculos e divertimentos públicos, instalações de associações recreativas, desportivas e culturais, devendo ser-lhes concedidas, pelas respectivas empresas, direcções ou organizadores as facilidades necessárias para o perfeito exercício das suas funções.
 
 2 - A entrada nos recintos a que se refere o corpo deste artigo poderá realizar-se, sem prévio aviso, a qualquer hora do dia ou da noite, desde que neles se encontre alguém.
 
-###### Art. 15.º As entidades a que se refere o artigo anterior podem solicitar esclarecimentos e informações a quaisquer pessoas com a obrigação legal para estas da respectiva prestação, dentro do objecto e fins da sua função fiscalizadora, bem como apreender cartazes, anúncios e reclamos e ainda filmes ou máquinas de projecção, nos casos em que a lei o permite.
+Art. 15.º As entidades a que se refere o artigo anterior podem solicitar esclarecimentos e informações a quaisquer pessoas com a obrigação legal para estas da respectiva prestação, dentro do objecto e fins da sua função fiscalizadora, bem como apreender cartazes, anúncios e reclamos e ainda filmes ou máquinas de projecção, nos casos em que a lei o permite.
 
-###### Art. 16.º As entidades da inspecção e fiscalização podem solicitar às autoridades administrativas e policiais o auxílio que necessitarem para o bom desempenho daquelas funções, gozando dos mesmos direitos dos seus congéneres nacionais.
+Art. 16.º As entidades da inspecção e fiscalização podem solicitar às autoridades administrativas e policiais o auxílio que necessitarem para o bom desempenho daquelas funções, gozando dos mesmos direitos dos seus congéneres nacionais.
 
 VI
 
 Do pessoal
 
-###### Art. 17.º - 1 - O pessoal da Inspecção Regional é o constante do quadro anexo ao presente diploma.
+Art. 17.º - 1 - O pessoal da Inspecção Regional é o constante do quadro anexo ao presente diploma.
 
 2 - As alterações do quadro do pessoal serão efectuadas por decreto regulamentar regional.
 
@@ -188,19 +229,19 @@ Do pessoal
 
 5 - A título transitório, e até se verificarem as condições legais para preenchimento do cargo de chefe de secção, poderá aquele ser desempenhado por pessoa de escolha do Presidente do Governo Regional.
 
-###### Art. 18.º O exercício de qualquer cargo na Inspecção Regional, nas suas delegações e no conselho técnico é incompatível com a participação, ainda que indirecta ou por qualquer natureza, nas empresas sujeitas à respectiva superintendência.
+Art. 18.º O exercício de qualquer cargo na Inspecção Regional, nas suas delegações e no conselho técnico é incompatível com a participação, ainda que indirecta ou por qualquer natureza, nas empresas sujeitas à respectiva superintendência.
 
 VII
 
 Os cartões de identidade
 
-###### Art. 19.º Ao pessoal com funções de inspecção e fiscalização serão distribuídos cartões de identidade de livre trânsito do modelo que for aprovado pela presidência do Governo Regional, sob proposta da Direcção Regional dos Assuntos Culturais.
+Art. 19.º Ao pessoal com funções de inspecção e fiscalização serão distribuídos cartões de identidade de livre trânsito do modelo que for aprovado pela presidência do Governo Regional, sob proposta da Direcção Regional dos Assuntos Culturais.
 
-###### Art. 20.º - 1 - Os cartões de identidade serão assinados pelo Presidente do Governo Regional.
+Art. 20.º - 1 - Os cartões de identidade serão assinados pelo Presidente do Governo Regional.
 
 2 - Dos cartões de identidade dos delegados concelhios constará o nome dos respectivos concelhos, bem como a indicação de validade apenas para a área da sua jurisdição.
 
-###### Art. 21.º - 1 - Todos os cartões serão numerados e registados em livro especial, donde constará a sua devolução, quando devida.
+Art. 21.º - 1 - Todos os cartões serão numerados e registados em livro especial, donde constará a sua devolução, quando devida.
 
 2 - Sempre que um funcionário cesse as suas funções, deverá entregar o respectivo cartão de identificação, competindo à Inspecção providenciar pelo exacto cumprimento desta obrigação.
 
@@ -208,46 +249,46 @@ VIII
 
 Das taxas e multas
 
-###### Art. 22.º As taxas a aplicar são as constantes da tabela anexa ao [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, com as devidas actualizações do [Decreto n.º 131/82](https://diariodarepublica.pt/dr/detalhe/decreto/131-1982-379910), de 23 de Abril.
+Art. 22.º As taxas a aplicar são as constantes da tabela anexa ao [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, com as devidas actualizações do [Decreto n.º 131/82](https://diariodarepublica.pt/dr/detalhe/decreto/131-1982-379910), de 23 de Abril.
 
-###### Art. 23.º O produto das taxas previstas constitui receita da Região Autónoma.
+Art. 23.º O produto das taxas previstas constitui receita da Região Autónoma.
 
-###### Art. 24.º Sem prejuízo do disposto no § único do artigo 93.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), de 20 de Novembro de 1959, as taxas, as multas e o adicional serão pagos na tesouraria do Governo Regional, mediante guia passada pela Inspecção Regional de Espectáculos ou suas delegações.
+Art. 24.º Sem prejuízo do disposto no § único do artigo 93.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), de 20 de Novembro de 1959, as taxas, as multas e o adicional serão pagos na tesouraria do Governo Regional, mediante guia passada pela Inspecção Regional de Espectáculos ou suas delegações.
 
 IX
 
 Do regime fiscal e parafiscal
 
-###### Art. 25.º O artigo 7.º do [Decreto Regional n.º 10/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/10-1978-446098), de 1 de Fevereiro, publicado no Diário da República, de 2 de Março de 1978, passa a ter a seguinte redacção:
+Art. 25.º O artigo 7.º do [Decreto Regional n.º 10/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/10-1978-446098), de 1 de Fevereiro, publicado no Diário da República, de 2 de Março de 1978, passa a ter a seguinte redacção:
 
-###### Art. 7.º As receitas provenientes do adicional sobre o preço de bilhetes de espectáculos dos artigos 30.º e 31.º do [Decreto-Lei n.º 184/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1973-673990), de 25 de Abril, bem como o seu agravamento, constante do artigo 2.º do [Decreto n.º 654/76](https://diariodarepublica.pt/dr/detalhe/decreto/654-1976-431001), de 31 de Julho, são receitas da Região Autónoma da Madeira.
+Art. 7.º As receitas provenientes do adicional sobre o preço de bilhetes de espectáculos dos artigos 30.º e 31.º do [Decreto-Lei n.º 184/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1973-673990), de 25 de Abril, bem como o seu agravamento, constante do artigo 2.º do [Decreto n.º 654/76](https://diariodarepublica.pt/dr/detalhe/decreto/654-1976-431001), de 31 de Julho, são receitas da Região Autónoma da Madeira.
 
 X
 
 Disposições diversas
 
-###### Art. 26.º São aplicáveis aos órgãos e serviços da Inspecção Regional de Espectáculos, com as devidas adaptações, os artigos 2.º, 6.º, 7.º, 9.º a 13.º e 19.º a 28.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959.
+Art. 26.º São aplicáveis aos órgãos e serviços da Inspecção Regional de Espectáculos, com as devidas adaptações, os artigos 2.º, 6.º, 7.º, 9.º a 13.º e 19.º a 28.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959.
 
-###### Art. 27.º O requerimento a que se refere o artigo 35.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), de 20 de Novembro de 1958, deverá ser apresentado na Inspecção Regional de Espectáculos com a antecedência mínima de 5 dias.
+Art. 27.º O requerimento a que se refere o artigo 35.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), de 20 de Novembro de 1958, deverá ser apresentado na Inspecção Regional de Espectáculos com a antecedência mínima de 5 dias.
 
-###### Art. 28.º A comissão de revisão mencionada no artigo 9.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, é composta por um engenheiro civil assessor da Secretaria Regional do Equipamento Social, que presidirá, um técnico superior da Direcção Regional de Saúde Pública e um engenheiro da Direcção dos Serviços de Urbanismo e Ambiente, a designar pelos respectivos secretários regionais.
+Art. 28.º A comissão de revisão mencionada no artigo 9.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, é composta por um engenheiro civil assessor da Secretaria Regional do Equipamento Social, que presidirá, um técnico superior da Direcção Regional de Saúde Pública e um engenheiro da Direcção dos Serviços de Urbanismo e Ambiente, a designar pelos respectivos secretários regionais.
 
-###### Art. 29.º Até à inscrição orçamental de dotações destinadas à Inspecção Regional de Espectáculos, as despesas a realizar serão pagas por conta das respectivas verbas inscritas no orçamento em vigor para a Direcção Regional dos Assuntos Culturais.
+Art. 29.º Até à inscrição orçamental de dotações destinadas à Inspecção Regional de Espectáculos, as despesas a realizar serão pagas por conta das respectivas verbas inscritas no orçamento em vigor para a Direcção Regional dos Assuntos Culturais.
 
-###### Art. 30.º As alterações da estrutura orgânica da Inspecção Regional de Espectáculos que venham a revelar-se necessárias serão efectivadas por decreto regulamentar regional.
+Art. 30.º As alterações da estrutura orgânica da Inspecção Regional de Espectáculos que venham a revelar-se necessárias serão efectivadas por decreto regulamentar regional.
 
-###### Art. 31.º Às matérias omitidas no presente diploma aplicar-se-á a legislação vigente no território nacional.
+Art. 31.º Às matérias omitidas no presente diploma aplicar-se-á a legislação vigente no território nacional.
 
-###### Art. 32.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 32.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 28 de Junho de 1983.
 
-**O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 29 de Junho de 1983.**
+Assinado em 29 de Junho de 1983.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-## Anexo a que se refere o n.º 1 do artigo 17.º do presente diploma
+Anexo a que se refere o n.º 1 do artigo 17.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/17000/27732775.pdf))](https://files.diariodarepublica.pt/1s/1983/07/17000/27732775.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/17000/27732775.pdf)

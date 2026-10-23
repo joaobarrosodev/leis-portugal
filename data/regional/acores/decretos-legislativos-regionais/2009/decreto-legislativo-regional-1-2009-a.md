@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/03/04200/0143301438.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2009/03/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2009-604648
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9459530a1fad47762eafba3ba865d396bc0db2e6080be71586a29281b0506a72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aa7eed81d9cc33e61a110fc7b47e46d6a4cf9908666b6314e30bef330ea53c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência para a Promoção do Investimento dos Açores
+- APIA
+- Apoio ao Investimento
 - Capital Social
 - Criação de Empresas
 - Empresa Pública Regional
 - Estatuto
-- Apoio ao Investimento
 - Investimento
-- APIA
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:258529:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:258529:por
+  label: "Extinta a Agência para a Promoção do Investimento dos Açores, E.P.E. (APIA, E.P.E.), criada pelo DLR 24/2006/A de\
+    \ 28-jul, com as alterações constantes do presente diploma, pelo DLR.1/2013/A.19.02.2013.AL-RAA, DR.IS [35] de 19.02.2013,\
+    \ que o revogou a partir de 20.02.2013.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2013-258529
+  date: '2013-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/24/2006/07/28/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/24/2006/07/28/a/dre
+- type: cites
+  target: pt:dre:539404:por
+  label: null
+  source: null
 article_structure:
   article_count: 36
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:55Z'
   warnings: []
   errors: []
 ---
@@ -182,11 +193,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 28 de Janeiro de 2009.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 18 de Fevereiro de 2009.**
+Assinado em Angra do Heroísmo em 18 de Fevereiro de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

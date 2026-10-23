@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11300/22542257.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1990-571447
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52121e0d1462643c400b33273250b62e5e75296c2d282d2f2189ef4d1d3602dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0236d8c1aa2aed606282e9d84e51a34c250528e20c087675443852a297eb9240
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:545186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286328:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:545186:por
+  label: "Revogado pelo DLR.26/2003/A.2003.05.06.ALR-RAA DR.IS-A [122] de 27/Mai/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2003-545186
+  date: '2003-05-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:04Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +104,20 @@ Considerando que os elementos cartográficos do [Decreto Legislativo Regional n.
 
 A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º O artigo 2.º do [Decreto Legislativo Regional n.º 11/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1988-286328), de 4 de Abril, passa a ter a redacção seguinte:
+Artigo 1.º O artigo 2.º do [Decreto Legislativo Regional n.º 11/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1988-286328), de 4 de Abril, passa a ter a redacção seguinte:
 
 Os limites da Reserva Natural são definidos, conforme mapas em anexo, por duas circunferências que se intersectam, de raio igual a 5 milhas náuticas, e centradas no farol dos ilhéus (latitude: 37º 16' 12'' N.; longitude: 24º 46' 48'' W.) e no ponto mais elevado do banco de Dollabarat (latitude: 37º 14' 00'' N.; longitude: 24º 43' 50'' W.).
 
-###### Art. 2.º A carta anexa ao diploma mencionado é substituída pelas cartas anexas ao presente diploma.
+Art. 2.º A carta anexa ao diploma mencionado é substituída pelas cartas anexas ao presente diploma.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 21 de Março de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 24 de Abril de 1990.**
+Assinado em Angra do Heroísmo em 24 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/11300/22542257.pdf))](https://files.diariodarepublica.pt/1s/1990/05/11300/22542257.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/11300/22542257.pdf)

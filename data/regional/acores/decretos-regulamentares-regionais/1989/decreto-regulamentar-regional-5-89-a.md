@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04300/07190737.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,135 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1989-612400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a694eeda19b4d25f3a46f8df0a1d1433fab16adc203da8d98419c4dcf50bb5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f58d943778ee0db66dd1bc0fcab2e65986cc5dc8df70114415b451bc78028c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Governo Regional
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional da Agricultura e Pescas
 relationships:
 - type: amended_by
   target: pt:dre:516758:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332226:por
+  label: "Alterado o quadro de pessoal, aprovado no artigo 42.º, pelo DRR.15/90/A.30.04.1990.GR-RAA, DR.IS [99] de 30.04.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-1990-332226
+  date: '1990-04-30'
+- type: amended_by
+  target: pt:dre:598315:por
+  label: "Alterados os artigos 46.º, 55.º, 56.º, 57.º, 58.º, 59.º e aditado o artigo 62.º-A, pelo DRR.14/91/A.24.04.1991.GR-RAA,\
+    \ DR.IS-B [95] de 24.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1991-598315
+  date: '1991-04-24'
+- type: amended_by
+  target: pt:dre:523183:por
+  label: "Alterados os artigos 47.º, 53.º, aditado um artigo 42.º-A, e alterado ainda o quadro de pessoal constante do mapa\
+    \ anexo ao presente diploma, pelo DRR.21/92/A.20.05.1992.GR-RAA, DR.IS-B [116] de 20.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-1992-523183
+  date: '1992-05-20'
+- type: amended_by
+  target: pt:dre:600935:por
+  label: "Alterados os artigos 52.º, 54.º, aditados os artigos 52.º-A, 52.º-B, e altera ainda o quadro de pessoal constante\
+    \ do mapa anexo ao presente diploma, pelo DRR.45/92/A.21.11.1992.GR-RAA, DR.IS-B [270] de 21.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/45-1992-600935
+  date: '1992-11-21'
+- type: amended_by
+  target: pt:dre:626388:por
+  label: "Alterado quadro de pessoal, pelo DRR.12/96/A.27.02.1996.SRAPA-RAA, DR.IS-B [49] de 27.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1996-626388
+  date: '1996-02-27'
+- type: amended_by
+  target: pt:dre:213618:por
+  label: "Alterado o cap. III [abrange os arts. 42.º a 58.º] e substituído o quadro de pessoal anexo ao presente diploma,\
+    \ na redacção dada pelo DRR 15/90/A, de 30-Abr, pelo DRR 14/91/A, de 24-Abr, pelo DRR 21/92/A, de 20-Mai, pelo DRR 45/92/A,\
+    \ de 21-Nov e pelo DRR 12/96/A, de 24-abr, pelo DRR.39/96/A.28.09.1996.SRAGP-RAA, DR.IS-B [226] de 28.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/39-1996-213618
+  date: '1996-09-28'
+- type: amended_by
+  target: pt:dre:203459:por
+  label: "Alterado o num 2 do artº 29º pelo DRR.17/97/A.1997.07.21.PG-RAA DR.IS-B [184] DE 11/AGO/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1997-203459
+  date: '1997-07-21'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516758:por
+  label: "Revogado pelo DRR.13/98/A.1998.04.13.SRAPA-RAA, DR.IS-B [109] de 12/Mai/19983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1998-516758
+  date: '1998-04-13'
 article_structure:
   article_count: 64
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 25
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:31Z'
   warnings: []
   errors: []
 ---
@@ -274,7 +369,9 @@ b) A Divisão de Estruturas e Mercados Agrícolas e das Pescas (DEMAP);
 
 c) A Divisão de Assuntos Jurídicos (DAJ).
 
-###### Artigo 10.º — Divisão de Planeamento, Organização e Documentado (DPOD)
+###### Artigo 10.º
+
+##### Divisão de Planeamento, Organização e Documentado (DPOD)
 
 À DPOD compete:
 
@@ -296,7 +393,9 @@ h) Assegurar uma correcta gestão dos meios informáticos da SRAP;
 
 i) Efectuar, em colaboração com os outros órgãos e serviços da SRAP, o diagnóstico das necessidades da formação do pessoal, os estudos técnicos nos domínios da análise, descrição e classificação de funções, plano de carreiras, sistema de avaliação, reclassificação e reconversão.
 
-###### Artigo 11.º — Divisão de Estruturas e Mercados Agrícolas e das Pescas (DEMAP)
+###### Artigo 11.º
+
+##### Divisão de Estruturas e Mercados Agrícolas e das Pescas (DEMAP)
 
 À DEMAP compete:
 
@@ -312,7 +411,9 @@ e) Proceder à realização de estudos que orientem a adopção de medidas no do
 
 f) Proceder à análise e avaliação técnico-económica de projectos de investimento e acções de natureza sócio-estrutural nos domínios da agricultura e das pescas.
 
-###### Artigo 12.º — Divisão de Assuntos Jurídicos (DAJ)
+###### Artigo 12.º
+
+##### Divisão de Assuntos Jurídicos (DAJ)
 
 À DAJ compete:
 
@@ -346,7 +447,9 @@ c) A Secção de Contabilidade e Património (SCP).
 
 3 - No caso de ausência ou vacatura do cargo de chefe de repartição, as funções correspondentes serão asseguradas pelo chefe de secção que para tal for indicado pelo Secretário Regional.
 
-###### Artigo 15.º — Secção de Pessoal (SP)
+###### Artigo 15.º
+
+#### Secção de Pessoal (SP)
 
 À SP compete:
 
@@ -356,7 +459,9 @@ b) Executar as acções necessárias à organização e instrução dos processo
 
 c) Emitir certidões, cartões de identificação e outros documentos constantes do cadastro individual.
 
-###### Artigo 16.º — Secção de Expediente e Arquivo (SEA)
+###### Artigo 16.º
+
+#### Secção de Expediente e Arquivo (SEA)
 
 À SEA compete:
 
@@ -366,7 +471,9 @@ b) Dar apoio administrativo à RSA e ao GP, designadamente em matéria de dactil
 
 c) Coordenar as tarefas do pessoal auxiliar afecto à RSA.
 
-###### Artigo 17.º — Secção de Contabilidade e Património (SCP)
+###### Artigo 17.º
+
+#### Secção de Contabilidade e Património (SCP)
 
 À SCP compete:
 
@@ -384,7 +491,9 @@ f) Organizar os processos referentes àquisição, compra e arrendamento de inst
 
 g) Assegurar o apetrechamento dos órgãos e serviços, organizando os processos de concursos públicos ou limitados e de ajuste directo para aquisição de maquinaria e equipamento.
 
-#### SECÇÃO IV — SUBSECÇÃO I
+#### SECÇÃO IV
+
+##### SUBSECÇÃO I
 
 Direcção Regional do Desenvolvimento Agrário (DRDA)
 
@@ -406,7 +515,9 @@ d) Direcção de Serviços de Protecção da Produção Agrícola (DSPPA).
 
 4 - Para a prossecução das suas actividades de formação profissional e de experimentação a DRDA disporá também de centros de formação técnico-profissional e de unidades experimentais.
 
-###### Artigo 19.º — Divisão Administrativa e Financeira (DAF)
+###### Artigo 19.º
+
+##### Divisão Administrativa e Financeira (DAF)
 
 À DAF compete:
 
@@ -452,7 +563,9 @@ a) A Divisão de Gestão, Estatística e Política Sócio-Estrutural (DGEPSE);
 
 b) A Divisão de Experimentação, Vulgarização e Apoio ao Associativismo (DEVAA).
 
-###### Artigo 21.º — Divisão de Gestão, Estatística e Política Sócio-Estrutural (DGEPSE)
+###### Artigo 21.º
+
+##### Divisão de Gestão, Estatística e Política Sócio-Estrutural (DGEPSE)
 
 À DGEPSE compete:
 
@@ -468,7 +581,9 @@ e) Apoiar os serviços na elaboração de projectos de investimento e na aplica�
 
 f) Apoiar a divulgação dos normativos referentes à política sócio-estrutural e de outros mecanismos de apoio ao investimento.
 
-###### Artigo 22.º — Divisão de Experimentação, Vulgarização e Apoio ao Associativismo (DEVAA)
+###### Artigo 22.º
+
+##### Divisão de Experimentação, Vulgarização e Apoio ao Associativismo (DEVAA)
 
 À DEVAA compete:
 
@@ -676,7 +791,9 @@ A Administração Florestal das Flores (AFF), que estende a sua acção ao Corvo
 
 3 - As secções referidas nas alíneas b) e c) do n.º 1 serão chefiadas por um coordenador.
 
-###### Artigo 34.º — Divisão de Planeamento e Apoio ao Desenvolvimento Florestal (DPADF)
+###### Artigo 34.º
+
+##### Divisão de Planeamento e Apoio ao Desenvolvimento Florestal (DPADF)
 
 À DPADF compete:
 
@@ -714,7 +831,9 @@ p) Efectuar e assegurar o estudo e a elaboração dos projectos de ordenamento e
 
 q) Planear, em colaboração com os diversos serviços da DRRF, um adequado programa de sinalização e estudar e promover a execução de sinais, tabuletas e outros dispositivos de identificação de propriedades, caminhos, parques, viveiros e outras estruturas.
 
-###### Artigo 35.º — Secção de Produção Florestal do Sector Privado (SPFSP)
+###### Artigo 35.º
+
+#### Secção de Produção Florestal do Sector Privado (SPFSP)
 
 À SPFSP compete:
 
@@ -736,7 +855,9 @@ h) Promover e colaborar em estudos e análise de problemas relativos ao sector d
 
 i) Assegurar a colheita e obtenção de elementos e dados estatísticos relativos às diversas actividades do âmbito da Secção.
 
-###### Artigo 36.º — Secção de Caça, Pesca, Parques e Reservas (SCPPR)
+###### Artigo 36.º
+
+#### Secção de Caça, Pesca, Parques e Reservas (SCPPR)
 
 À SCPPR compete:
 
@@ -1012,14 +1133,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 11 de Janeiro de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Fevereiro de 1989.**
+Assinado em Angra do Heroísmo em 3 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 MAPA A QUE SE REFERE O ARTIGO 42º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/02/04300/07190737.pdf))](https://files.diariodarepublica.pt/1s/1989/02/04300/07190737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/04300/07190737.pdf)

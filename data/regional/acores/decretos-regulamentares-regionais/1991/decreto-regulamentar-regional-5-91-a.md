@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/047b00/09600961.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/5/1991/02/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1991-484412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c43fa7f37179078001f8e4318f4d8f89eb1c7f0329997eead0c9ccc290579a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee1dd08579afd7ff5e3cc0e4a02b03e4c32f1141f674d68baa951eca92af9e50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Política Florestal
 - Açores
+- Política Florestal
 relationships:
 - type: amended_by
   target: pt:dre:553893:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:494037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614645:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:553893:por
+  label: "Revogado pelo DLR.15/2012/A.02.04.2012.AL-RAA, DR.IS [66] de 02.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2012-553893
+  date: '2012-04-02'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:56Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +115,7 @@ Por último, em casos excepcionais, poderá ser autorizada a arborização em te
 
 Assim, em execução do artigo 6.º do [Decreto Legislativo Regional n.º 1/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1989-614645), de 31 de Março, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 1.º, n.º 2 do artigo 2.º e a alínea a) do n.º 2 do artigo 3.º do [Decreto Regulamentar Regional n.º 21-A/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-a-1989-494037), de 18 de Julho, passam ter a seguinte redacção:
+Artigo 1.º O artigo 1.º, n.º 2 do artigo 2.º e a alínea a) do n.º 2 do artigo 3.º do [Decreto Regulamentar Regional n.º 21-A/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-a-1989-494037), de 18 de Julho, passam ter a seguinte redacção:
 
 ###### Artigo 1.º — Autorização prévia
 
@@ -124,7 +137,7 @@ a) Projecto sucinto de arborização e rearborização, elaborado nos termos do 
 
 ...
 
-###### Art. 2.º Ao artigo 2.º do [Decreto Regulamentar Regional n.º 21-A/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-a-1989-494037), de 18 de Julho, são aditados os n.os 3, 4 e 5, com a seguinte redacção:
+Art. 2.º Ao artigo 2.º do [Decreto Regulamentar Regional n.º 21-A/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-a-1989-494037), de 18 de Julho, são aditados os n.os 3, 4 e 5, com a seguinte redacção:
 
 ###### Artigo 2.º — Locais de plantação proibida
 
@@ -138,7 +151,7 @@ a) Projecto sucinto de arborização e rearborização, elaborado nos termos do 
 
 5 - Nos casos previstos no n.º 3 não se aplica o disposto no artigo 4.º do presente diploma.
 
-###### Art. 3.º É aditado ao [Decreto Regulamentar Regional n.º 21-A/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-a-1989-494037), de 18 de Julho, um artigo 2.º-A, com a seguinte redacção:
+Art. 3.º É aditado ao [Decreto Regulamentar Regional n.º 21-A/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-a-1989-494037), de 18 de Julho, um artigo 2.º-A, com a seguinte redacção:
 
 ###### Artigo 2.º-A — Condicionamentos à plantação
 
@@ -150,14 +163,14 @@ b) É proibida a mobilização do solo a menos de 100 m das linhas de água prin
 
 c) Poderá ser proibida a arborização com as espécies referidas no artigo 1.º em faixas de 30 m ao longo das linhas de água permanentes, com obrigação de se manter a vegetação natural já existente ou de efectuar a arborização com outras espécies, segundo o parecer da Direcção Regional dos Recursos Florestais.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 22 de Janeiro de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 13 de Fevereiro de 1991.**
+Assinado em Angra do Heroísmo em 13 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

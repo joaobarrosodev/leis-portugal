@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/17-1977-280068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fb77bc37e0abf238073f532b359d38249bdc50c2a6761fdbd4c76152da2c352
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86f7ea79a6ff0b9b6cd324aeee0ad7f5a6c7b2ad24829ec507615054efc68412
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contrato de Trabalho
+- Entidade Patronal
+- Madeira.região Autónoma
+- Rectificação de Numero de Diploma
+- Secretaria Regional do Trabalho
+- Trabalhador Estrangeiro
+relationships:
+- type: cites
+  target: pt:dre:138293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141049:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:448514:por
+  label: Rectificado, pelo(a) Declaração - Diário da República n.º 35/1978, Série I de 1978-02-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-448514
+  date: '1978-02-11'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:46Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +115,20 @@ Nesta conformidade, é necessário e útil regulamentar o decreto-lei, em ordem 
 
 Assim, a Assembleia Regional da Madeira, ao abrigo da alínea b) do n.º 1 do artigo 229.º da Constituição da República, decreta o seguinte:
 
-###### Artigo 1.º - 1 - As entidades patronais a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 97/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1977-141049), de 17 de Março, desde que exerçam actividade no território da Região Autónoma da Madeira, deverão requerer o registo do contrato a que faz referência a alínea a) do n.º 1 do artigo 2.º à Secretaria Regional do Trabalho do Governo Regional da Madeira.
+Artigo 1.º - 1 - As entidades patronais a que se refere o n.º 1 do artigo 2.º do [Decreto-Lei n.º 97/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1977-141049), de 17 de Março, desde que exerçam actividade no território da Região Autónoma da Madeira, deverão requerer o registo do contrato a que faz referência a alínea a) do n.º 1 do artigo 2.º à Secretaria Regional do Trabalho do Governo Regional da Madeira.
 
 2 - A mesma obrigação impenderá sobre as mencionadas entidades nos casos previstos no n.º 2 do artigo 2.º e no n.º 1 do artigo 9.º
 
-###### Art. 2.º De igual modo, o destinatário do duplicado a que se faz referência no n.º 2 do artigo 7.º do decreto-lei será a Secretaria Regional do Trabalho.
+Art. 2.º De igual modo, o destinatário do duplicado a que se faz referência no n.º 2 do artigo 7.º do decreto-lei será a Secretaria Regional do Trabalho.
 
-###### Artigo 3.º As taxas devidas por cada registo de contrato previstas no n.º 3 do artigo 5.º serão cobradas nos serviços competentes da Secretaria Regional do Trabalho e constituirão receitas da Região, conforme dispõe o artigo 1.º do [Decreto-Lei n.º 22/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1977-138293), de 18 de Janeiro.
+Artigo 3.º As taxas devidas por cada registo de contrato previstas no n.º 3 do artigo 5.º serão cobradas nos serviços competentes da Secretaria Regional do Trabalho e constituirão receitas da Região, conforme dispõe o artigo 1.º do [Decreto-Lei n.º 22/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1977-138293), de 18 de Janeiro.
 
-###### Art. 4.º À Secretaria Regional do Trabalho compete dar cumprimento e fazer cumprir o conteúdo prescritivo do diploma que se regulamenta, designadamente aos quesitos enumerados no artigo 2.º e ao cominado nos artigos 5.º e 8.º e n.º 3 do artigo 9.º
+Art. 4.º À Secretaria Regional do Trabalho compete dar cumprimento e fazer cumprir o conteúdo prescritivo do diploma que se regulamenta, designadamente aos quesitos enumerados no artigo 2.º e ao cominado nos artigos 5.º e 8.º e n.º 3 do artigo 9.º
 
-###### Art. 5.º Este decreto regional entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º Este decreto regional entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 29 de Novembro de 1977. - O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 10 de Dezembro de 1977.**
+Assinado em 10 de Dezembro de 1977.
 
-**O Ministro da República, Lino Dias Miguel.**
+O Ministro da República, Lino Dias Miguel.

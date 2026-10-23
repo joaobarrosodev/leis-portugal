@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2000/08/183a00/38563858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/2000/08/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2000-339384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef9dd22ff43c91ad74fe7bee016489fb0615aec1828840611a2c0b97bf609712
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc3cfd3afe3af70c142a6e3c34279c3f93ce3a95c503778358aa1e3414061e4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aposentação
-- Ensino não Superior
-- Formação Profissional
+- Avaliação do Pessoal
+- Carreira Profissional
+- Descrição de Funções
 - Direcção Regional de Educação do Norte
+- Direito à Informação
+- Educação Pré-escolar
+- Ensino não Superior
 - Ensino Oficial
 - Ensino Preparatório
-- Carreira Profissional
-- Formas de Provimento
-- Gestão Escolar
 - Ensino Primário
-- Direito à Informação
-- Descrição de Funções
+- Estabelecimento de Ensino
+- Formação Profissional
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Gestão Escolar
+- Mobilidade de Pessoal
 - Pessoal Administrativo
 - Pessoal Auxiliar
-- Estabelecimento de Ensino
 - Regime Jurídico
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
-- Gestão de Recursos Humanos
-- Açores
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:667771:por
@@ -108,16 +108,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/20/1994/07/21/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/20/1994/07/21/a/dre
+- type: cites
+  target: pt:dre:221082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643091:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667771:por
+  label: "Revogado pelo DLR.11/2006/A.07.03.2006.AL-RAA, DR.IS-A [57] de 21.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2006-667771
+  date: '2006-03-07'
 article_structure:
-  article_count: 11
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:17Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +177,9 @@ a) Quadros de escola;
 
 b) Quadros de agrupamento de escolas.
 
-###### Artigo 13.º — Quadros de escola ou de agrupamento de escolas
+Artigo 13.º
+
+Quadros de escola ou de agrupamento de escolas
 
 1 - ...
 
@@ -176,15 +203,21 @@ d) As densidades que sejam estabelecidas por despacho do secretário regional co
 
 7 - Do diploma referido no número anterior devem constar os critérios da dotação dos lugares das respectivas carreiras.
 
-###### Artigo 15.º — Recrutamento e selecção
+Artigo 15.º
+
+Recrutamento e selecção
 
 O recrutamento e selecção de pessoal para ingresso e acesso nos quadros de escola e de agrupamento de escolas são feitos por concurso interno e externo, nos termos da lei geral.
 
-###### Artigo 16.º — Carreiras e categorias
+Artigo 16.º
+
+Carreiras e categorias
 
 As carreiras e categorias que integram os quadros de escola e de agrupamento de escolas pertencem aos grupos de pessoal técnico superior, técnico-profissional, administrativo, operário e auxiliar, constantes do mapa I anexo ao presente diploma, e obedecem ao disposto nos artigos seguintes.
 
-###### Artigo 64.º — Norma geral de transição
+Artigo 64.º
+
+Norma geral de transição
 
 1 - Os funcionários e agentes dos estabelecimentos de educação e de ensino abrangidos por este diploma transitam para os lugares dos quadros de escola ou de agrupamento de escolas, respeitando as seguintes regras:
 
@@ -198,7 +231,9 @@ c) ...
 
 3 - Até à aprovação dos quadros a que se refere o n.º 6 do artigo 13.º, os funcionários mantêm-se nos estabelecimentos em que prestam funções.
 
-###### Artigo 70.º — Formalidades
+Artigo 70.º
+
+Formalidades
 
 O pessoal abrangido por este diploma transita dos quadros de vinculação para os quadros de escola e de agrupamento de escolas por lista nominativa, homologada por despacho do director regional de Educação e publicada no Jornal Oficial.»
 
@@ -254,10 +289,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 7 de Junho de 2000.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 6 de Julho de 2000.**
+Assinado em Angra do Heroísmo em 6 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

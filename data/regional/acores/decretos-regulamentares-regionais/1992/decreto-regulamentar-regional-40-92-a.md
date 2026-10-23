@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/40/1992/10/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1992-228436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1dc33c0e88b90d5864144ab971667dbfc149997dbc3e623211ee395ba1e27760
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 239437862ce0de1ce0c204cb359de77dd58ed69cf5c79dfbca0768c7eb31848a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Atividade Industrial
 - Direcção Regional da Indústria e Energia
 - Estabelecimento Industrial
 - Licenciamento
 - Regulamento
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:551994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:228597:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:551994:por
+  label: "Revogado, pelo DRR.14/2012/A.22.05.2012.PG-RAA, DR.IS [99], sem prejuízo do disposto no seu artigo 25.º\0º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2012-551994
+  date: '2012-05-22'
 article_structure:
   article_count: 47
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:08Z'
   warnings: []
   errors: []
 ---
@@ -616,16 +633,16 @@ O presente diploma aplica-se aos actos dos processos pendentes subsequentes à s
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 23 de Julho de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 21 de Agosto de 1992.**
+Assinado em Angra do Heroísmo em 21 de Agosto de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
-## Anexo a que se refere o artigo 4.º do Regulamento da Autorização de Instalação e Laboração dos Estabelecimentos Industriais
+Anexo a que se refere o artigo 4.º do Regulamento da Autorização de Instalação e Laboração dos Estabelecimentos Industriais
 
 Relação das actividades industriais de acordo com a nomenclatura da CAE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/10/231b00/46804689.pdf))](https://files.diariodarepublica.pt/1s/1992/10/231b00/46804689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/231b00/46804689.pdf)

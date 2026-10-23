@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2012/09/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2012-174834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6da61a15566895fde1dff3780afb4bb0608e43cb0df999c058797a3cab891018
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c04e6674469196e660de940ba78344c506e375222e8db4341520c27f281f0e87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Horta
+- ILHA do Faial
 - Ordenamento do Território
 - Orla Costeira
-- Horta
-- Açores
-- ILHA do Faial
 relationships:
+- type: amended_by
+  target: pt:dre:74892302:por
+  label: Corrige a Planta de Síntese do Plano de Ordenamento da Orla Costeira da Ilha do Faial do DRR 19/2012/A, de 3-set,
+    DR.IS [170] pelo(a) Declaração n.º 5/2016
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/5-2016-74892302
+  date: '2016-09-14'
 - type: cites
   target: celex:32001L0042
   label: null
@@ -78,13 +84,13 @@ relationships:
 article_structure:
   article_count: 56
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:03Z'
   warnings: []
   errors: []
 ---
@@ -165,11 +171,11 @@ O POOC Faial entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 21 de junho de 2012.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 9 de agosto de 2012.**
+Assinado em Angra do Heroísmo em 9 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1009,4 +1015,4 @@ Aos embargos e demolições a que houver lugar no âmbito de aplicação do POOC
 
 ## ANEXO II — Referências máximas para dimensionamento e constituição de áreas dos apoios balneares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/17000/0504805063.pdf))](https://files.diariodarepublica.pt/1s/2012/09/17000/0504805063.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/09/17000/0504805063.pdf)

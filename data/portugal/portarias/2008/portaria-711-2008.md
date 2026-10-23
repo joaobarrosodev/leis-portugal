@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/711/2008/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-2008-454513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9621eded9eec5249d69f87238870d9be75fbb063809588c2ef85dfdd099d21b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 483657b469fbe329f946000d03879e0462422f959ced03835b7018b9a164f8b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
 - Aicep
+- Apoio ao Investimento
 - Empresa
 - Investigação Científica e Tecnológica
-- Mudança Tecnológica
-- Apoio ao Investimento
-- Projeto de Investimento
 - Investimento
+- Mudança Tecnológica
+- Projeto de Investimento
+- QREN
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:307649:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:418661:por
+  label: "Alterados, nos termos do art. 4.º (as alterações vigorarão até 31.12.2010., pelo que a partir dessa data serão repristinadas\
+    \ as condições aplicáveis agora alteradas), os arts. 14.º, 14.º-A, 16.º, 26.º e republicado o Regulamento aprovado pela\
+    \ Port 1462/2007, de 15-Nov, na redacção do presente diploma, pela PORT.353-B/2009.03.04.2009.MAOTDR, DR.IS [66-Supl]\
+    \ de 03.04.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-b-2009-418661
+  date: '2009-04-03'
+- type: amended_by
+  target: pt:dre:307649:por
+  label: "Alterados os arts. 14.º e 14.º-A (aditado pelo presente diploma) do Regulamento do Sistema de Incentivos à Investigação\
+    \ e Desenvolvimento Tecnológico, aprovado pela Port 1462/2007, de 15-Nov, na redacção e republicação do presente diploma,\
+    \ republicado, na íntegra, em anexo pela PORT.1102/2010.25.10.2010.MEID, DR.IS [207] de 25.10.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1102-2010-307649
+  date: '2010-10-25'
 - type: cites
   target: celex:32001R0070
   label: null
@@ -101,15 +116,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
 article_structure:
-  article_count: 31
+  article_count: 28
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:00Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +215,9 @@ c) Apoio à criação de núcleos para projectos localizados na região de Lisbo
 
 9 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -210,7 +227,9 @@ c) Apoio à criação de núcleos para projectos localizados na região de Lisbo
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +253,9 @@ c) [Anterior alínea b).]
 
 4 - ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 O SI I&DT respeita o Enquadramento Comunitário dos Auxílios Estatais à Investigação e Desenvolvimento e à Inovação (2006/C 323/01), excepto:
 
@@ -248,7 +269,7 @@ b) Para as situações assinaladas no presente diploma como de minimis, as quais
 
 Em 25 de Julho de 2008.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.
 
 ## ANEXO — Republicação do Regulamento do Sistema de Incentivos à Investigação e Desenvolvimento Tecnológico, anexo à Portaria n.º 1462/2007, de 15 de Novembro
 
@@ -300,7 +321,7 @@ b) I&DT colectiva projectos de I&DT promovidos por associações empresariais qu
 
 c) Criação e reforço de competências internas de I&DT:
 
-i) Núcleos de I&DT, promovidos por empresas PME, visando desenvolver na empresa de forma sustentada competências internas de I&DT e de gestão da inovação, através da criação de unidades estruturadas com características de permanência e dedicadas exclusivamente a actividades de I&DT;
+i) Núcleos de I&DT, promovidos por empresas PME, visando desenvolver na empresa de forma sustentada competências internas de I&DT e de gestão da inovação, através da criação de unidades estruturadas com características de permanência e dedicadas exclusivamente a actividades de I&DT
 
 ii) Centros de I&DT, promovidos por empresas que já desenvolvem de forma contínua e estruturada actividades de I&DT, visando o aumento do esforço de I&DT para além das linhas de investigação quotidianas normais da empresa;
 
@@ -394,11 +415,11 @@ b) O núcleo a apoiar deve possuir até à data de conclusão do projecto um sis
 
 a) O centro a apoiar deve estar integrado na política de inovação da empresa e apresentar um programa estratégico reportado a um horizonte temporal mínimo de três anos, com explicitação de objectivos e metas quantificadas finais e intercalares, incluindo, nomeadamente:
 
-a1) Contratação de recursos humanos qualificados para I&DT;
+a1) Contratação de recursos humanos qualificados para I&DT
 
-a2) Investimentos em equipamentos e outros meios de I&DT;
+a2) Investimentos em equipamentos e outros meios de I&DT
 
-a3) Projectos a desenvolver no âmbito do 7.º Programa Quadro de I&D;
+a3) Projectos a desenvolver no âmbito do 7.º Programa Quadro de I&D
 
 a4) Aquisição de tecnologia e serviços às entidades do SCT;
 
@@ -408,7 +429,7 @@ a6) Indicadores de resultado: patentes registadas e valorizadas, indicadores de 
 
 b) O centro a apoiar deve possuir até à data de conclusão do projecto:
 
-b1) Pelo menos cinco técnicos em equivalente a tempo integral (ETI), com, pelo menos, um doutorado, dedicados a actividades de I&D;
+b1) Pelo menos cinco técnicos em equivalente a tempo integral (ETI), com, pelo menos, um doutorado, dedicados a actividades de I&D
 
 b2) Atingir uma intensidade de I&D nas vendas superior à média da UE na respectiva classe de actividade económica;
 
@@ -548,9 +569,9 @@ c) As amortizações são efectuadas em prestações semestrais, iguais e sucess
 
 3 - O incentivo reembolsável referido na alínea b) do n.º 1 pode ser convertido em incentivo não reembolsável, até ao limite de 80 % do incentivo atribuído, na medida em que sejam efectuados novos investimentos em I&D, inseridos nos seguintes domínios:
 
-a) Custos associados aos primeiros 24 meses de contratação de recursos humanos altamente qualificados para actividades de I&D;
+a) Custos associados aos primeiros 24 meses de contratação de recursos humanos altamente qualificados para actividades de I&D
 
-b) Financiamento próprio de projectos desenvolvidos ao abrigo de programas internacionais de I&DT;
+b) Financiamento próprio de projectos desenvolvidos ao abrigo de programas internacionais de I&DT
 
 c) Registo internacional de patentes.
 

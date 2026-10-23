@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/07/13200/0353303533.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decrepraa/1/2017/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-representante-republica-para-regiao-autonoma-acores/1-2017-107669154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5f4f62e4b71b81f61b5d87f1a2f0c9acd1eab9b44712de4eaf97dd16c79f721
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3b281db8ed22d9bf647c37ffadf6939035f88f729ffd60600201bf1fe2fdca7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Exoneração
 - Governo Regional
-- Açores
 - Secretário Regional dos Transportes e Obras Públicas
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/30/2008/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2008/07/10/p/dre
+- type: corrected_by
+  target: pt:dre:107693724:por
+  label: Retificado pelo(a) Declaração de Retificação n.º 18/2017 - Diário da República n.º 136/2017, Série I de 2017-07-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/18-2017-107693724
+  date: '2017-07-17'
+- type: corrected_by
+  target: pt:dre:107682179:por
+  label: Retifica o Dec 1/2017, de 11-jul, DR.IS [132] pelo(a) Declaração de Rectificação n.º 18/2017/A
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/18-2017-107682179
+  date: '2017-07-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:18Z'
   warnings: []
   errors: []
 ---
@@ -96,8 +106,8 @@ Ao abrigo do n.º 4 do artigo 231.º da Constituição da República Portuguesa,
 
 Secretário Regional dos Transportes e Obras Públicas - Eng.º Vítor Manuel Ângelo de Freitas.
 
-**Assinado em Angra do Heroísmo em 8 de julho de 2017.**
+Assinado em Angra do Heroísmo em 8 de julho de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

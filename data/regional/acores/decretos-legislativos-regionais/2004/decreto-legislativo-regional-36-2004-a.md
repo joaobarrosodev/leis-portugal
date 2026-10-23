@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/36/2004/10/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-2004-577134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6795e7facdd3bb8b26383bc5a27e1a0c2fcd88d76f4d95f44a78563b6e79f969
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 149226468a9350d9d7f567d359ff8a63c5766b033a23c2eb1a11bf5556214855
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Actividade Artística
 - Alvará
-- Espetáculos e Divertimentos Públicos
+- Câmara Municipal
 - Contra-ordenação
 - Definição de Competências
 - Direcção Regional dos Açores
 - Diretor Regional
-- Local de Divertimento
 - Divulgação Cultural
+- Espetáculos e Divertimentos Públicos
 - Fiscalização
+- Licença Municipal
 - Licenciamento
 - Licenciamento de Obras
-- Licença Municipal
-- Câmara Municipal
-- Actividade Artística
+- Local de Divertimento
 - Recinto Cultural
 - Sanção
-- Açores
 - Vistoria
 relationships:
 - type: cites
@@ -109,16 +109,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/27/2003/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/27/2003/01/11/p/dre
+- type: cites
+  target: pt:dre:223250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634904:por
+  label: null
+  source: null
 article_structure:
   article_count: 38
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:06Z'
   warnings: []
   errors: []
 ---
@@ -687,10 +735,10 @@ f) [Despacho Normativo n.º 55/82](https://diariodarepublica.pt/dr/detalhe/despa
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 7 de Setembro de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 29 de Setembro de 2004.**
+Assinado em Angra do Heroísmo em 29 de Setembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

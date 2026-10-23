@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/949/2007/08/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/949-2007-637180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d23aaa58dc4256e99fddca08c2337c8110fb93c1bf7dc45017db22a8dbb5c79c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36ebf5977f58a57d0518d6346521ba382701db840215ffa5cae8ed654365f257
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- Lisboa
-- Oficial de Justiça
-- Tribunal do Trabalho
 - Integração de Trabalhadores
+- Lisboa
+- Ministério Público
+- Oficial de Justiça
+- Porto
+- Quadro de Pessoal
+- Secretaria Geral do Serviço Externo
+- Secretaria Judicial
+- Tempo de Serviço
 - Tribunal Cível
 - Tribunal Criminal
 - Tribunal de Comarca
-- Secretaria Geral do Serviço Externo
-- Quadro de Pessoal
-- Ministério Público
-- Secretaria Judicial
 - Tribunal de Família e de Menores
-- Porto
+- Tribunal do Trabalho
 - VARA Civel
 - VARA Criminal
 relationships:
@@ -86,6 +86,13 @@ relationships:
   target: pt:dre:602278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:602278:por
+  label: "Alterado os quadros de pessoal dos Serviços do Ministério Público do Tribunal da Relação de Coimbra e da Secretaria\
+    \ dos Serviços do Ministério Público do Tribunal da Comarca de Loures, constantes da Port 721-A/2000, de 05-Set, na redacção\
+    \ do presente diploma, pela PORT.170/2009.17.02.2009.MFAP, DR.IS [33] de 17.02.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/170-2009-602278
+  date: '2009-02-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/250/2007/06/29/p/dre
   label: null
@@ -106,16 +113,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/821/2005/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/821/2005/09/14/p/dre
+- type: cites
+  target: pt:dre:143337:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635828:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:642264:por
+  label: "Rectificada pela DECL-RECT.83/2007.21.09.2007.PCM, DR.IS [183] de 21.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/83-2007-642264
+  date: '2007-09-21'
 article_structure:
   article_count: 4
-  section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:56Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +210,7 @@ b) A respectiva antiguidade na categoria.
 
 A presente portaria entra em vigor no dia 1 de Setembro de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 8 de Agosto de 2007. - Pelo Ministro da Justiça, José Manuel Vieira Conde Rodrigues, Secretário de Estado Adjunto e da Justiça, em 6 de Agosto de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 8 de Agosto de 2007. - Pelo Ministro da Justiça, José Manuel Vieira Conde Rodrigues, Secretário de Estado Adjunto e da Justiça, em 6 de Agosto de 2007.
 
 ## ANEXO — «MAPA ANEXO
 
@@ -198,7 +230,7 @@ Secretaria-Geral do Tribunal da Comarca e do Tribunal de Família e Menores
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e nove secções de processos, sendo quatro afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e duas afectas ao Tribunal de Família e Menores:
+Secção central e de serviço externo e nove secções de processos, sendo quatro afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e duas afectas ao Tribunal de Família e Menores:
 
 Pessoal:
 
@@ -212,7 +244,7 @@ Escrivão auxiliar......46
 
 Secretaria dos serviços do Ministério Público
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -238,7 +270,7 @@ Secretaria-Geral do Tribunal da Comarca
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e 11 secções de processos, sendo 1 afecta à vara de competência mista cível e criminal, 5 afectas aos juízos cíveis, 4 afectas aos juízos criminais e 1 afecta ao juízo de execução:
+Secção central e de serviço externo e 11 secções de processos, sendo 1 afecta à vara de competência mista cível e criminal, 5 afectas aos juízos cíveis, 4 afectas aos juízos criminais e 1 afecta ao juízo de execução:
 
 Pessoal:
 
@@ -260,7 +292,7 @@ Cascais
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e 11 secções de processos, sendo 4 afectas aos juízos de competência especializada cível, 4 afectas aos juízos de competência especializada criminal e 3 afectas ao Tribunal de Família e Menores:
+Secção central e de serviço externo e 11 secções de processos, sendo 4 afectas aos juízos de competência especializada cível, 4 afectas aos juízos de competência especializada criminal e 3 afectas ao Tribunal de Família e Menores:
 
 Pessoal:
 
@@ -274,7 +306,7 @@ Escrivão auxiliar......39
 
 Secretaria dos serviços do Ministério Público
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -302,7 +334,7 @@ Secretaria-Geral dos Juízos Cíveis e do Juízo de Execução
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e seis secções de processos, sendo cinco afectas aos juízos cíveis e uma afecta ao juízo de execução:
+Secção central e de serviço externo e seis secções de processos, sendo cinco afectas aos juízos cíveis e uma afecta ao juízo de execução:
 
 Pessoal:
 
@@ -324,7 +356,7 @@ Secretaria-Geral do Tribunal de Comarca
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e nove secções de processos, sendo cinco afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e uma afecta ao juízo de execução:
+Secção central e de serviço externo e nove secções de processos, sendo cinco afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e uma afecta ao juízo de execução:
 
 Pessoal:
 
@@ -602,7 +634,7 @@ Escrivão auxiliar......18
 
 Serviços do Ministério Público das varas e dos juízos cíveis
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -624,7 +656,7 @@ Secretário de justiça......1
 
 Serviços judiciais
 
-#### Secção central e sete secções de processos:
+Secção central e sete secções de processos:
 
 Pessoal:
 
@@ -786,7 +818,7 @@ Operador de reprografia......1
 
 Secretaria das 1.ª, 2.ª e 3.ª Varas Criminais
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -802,7 +834,7 @@ Escrivão auxiliar......18
 
 Secretaria das 4.ª, 5.ª e 6.ª Varas Criminais
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 
@@ -818,7 +850,7 @@ Escrivão auxiliar......16
 
 Secretaria das 7.ª e 8.ª Varas Criminais
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -898,7 +930,7 @@ Escrivão auxiliar......20
 
 Secretaria dos serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -980,7 +1012,7 @@ Telefonista......1
 
 Serviços judiciais
 
-#### Secção central e quatro secções de processos:
+Secção central e quatro secções de processos:
 
 Pessoal:
 
@@ -1004,7 +1036,7 @@ Loures
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e 12 secções de processos, sendo 2 afectas às varas de competência mista cível e criminal, 6 afectas aos juízos cíveis, 1 afecta ao juízo de execução e 3 afectas ao Tribunal de Família e Menores:
+Secção central e de serviço externo e 12 secções de processos, sendo 2 afectas às varas de competência mista cível e criminal, 6 afectas aos juízos cíveis, 1 afecta ao juízo de execução e 3 afectas ao Tribunal de Família e Menores:
 
 Pessoal:
 
@@ -1020,7 +1052,7 @@ Escrivão auxiliar......42
 
 Secretaria dos serviços do Ministério Público
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1046,7 +1078,7 @@ Maia
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e sete secções de processos, sendo quatro afectas aos juízos de competência especializada cível, duas afectas aos juízos de competência especializada criminal e uma afecta ao juízo de execução:
+Secção central e de serviço externo e sete secções de processos, sendo quatro afectas aos juízos de competência especializada cível, duas afectas aos juízos de competência especializada criminal e uma afecta ao juízo de execução:
 
 Pessoal:
 
@@ -1070,7 +1102,7 @@ de Família e Menores
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e 12 secções de processos, sendo 6 afectas aos juízos de competência especializada cível, 4 afectas aos juízos de competência especializada criminal, 1 afecta ao juízo de execução e 1 afecta ao Tribunal de Família e Menores:
+Secção central e de serviço externo e 12 secções de processos, sendo 6 afectas aos juízos de competência especializada cível, 4 afectas aos juízos de competência especializada criminal, 1 afecta ao juízo de execução e 1 afecta ao Tribunal de Família e Menores:
 
 Pessoal:
 
@@ -1092,7 +1124,7 @@ Oeiras
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e 10 secções de processos, sendo 5 afectas aos juízos de competência especializada cível, 4 afectas aos juízos de competência especializada criminal e 1 afecta ao juízo de execução:
+Secção central e de serviço externo e 10 secções de processos, sendo 5 afectas aos juízos de competência especializada cível, 4 afectas aos juízos de competência especializada criminal e 1 afecta ao juízo de execução:
 
 Pessoal:
 
@@ -1246,7 +1278,7 @@ Escrivão auxiliar......18
 
 Serviços do Ministério Público das varas cíveis, dos juízos cíveis e dos juízos de pequena instância cível
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1260,7 +1292,7 @@ Técnico de justiça auxiliar......3
 
 Juízos de Pequena Instância Cível
 
-#### Secção central e quatro secções de processos:
+Secção central e quatro secções de processos:
 
 Pessoal:
 
@@ -1316,7 +1348,7 @@ Auxiliar administrativo......2
 
 Secretaria das varas criminais
 
-#### Secção central e quatro secções de processos:
+Secção central e quatro secções de processos:
 
 Pessoal:
 
@@ -1336,7 +1368,7 @@ Serviços do Ministério Público
 
 Secretaria dos juízos criminais
 
-#### Secção central e nove secções de processos:
+Secção central e nove secções de processos:
 
 Pessoal:
 
@@ -1420,7 +1452,7 @@ Secretário de justiça......1
 
 Serviços judiciais
 
-#### Secção central e quatro secções de processos:
+Secção central e quatro secções de processos:
 
 Pessoal:
 
@@ -1446,7 +1478,7 @@ Póvoa de Varzim
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e quatro secções de processos, sendo três afectas aos juízos de competência especializada cível e uma afecta ao juízo de competência especializada criminal:
+Secção central e de serviço externo e quatro secções de processos, sendo três afectas aos juízos de competência especializada cível e uma afecta ao juízo de competência especializada criminal:
 
 Pessoal:
 
@@ -1470,7 +1502,7 @@ Seixal
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e oito secções de processos, sendo três afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e duas afectas ao Tribunal de Família e Menores:
+Secção central e de serviço externo e oito secções de processos, sendo três afectas aos juízos de competência especializada cível, três afectas aos juízos de competência especializada criminal e duas afectas ao Tribunal de Família e Menores:
 
 Pessoal:
 
@@ -1494,7 +1526,7 @@ Setúbal
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e nove secções de processos, sendo uma afecta à vara de competência mista cível e criminal, quatro afectas aos juízos cíveis e quatro afectas aos juízos criminais:
+Secção central e de serviço externo e nove secções de processos, sendo uma afecta à vara de competência mista cível e criminal, quatro afectas aos juízos cíveis e quatro afectas aos juízos criminais:
 
 Pessoal:
 
@@ -1524,7 +1556,7 @@ de Família e Menores
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e 14 secções de processos, sendo 6 afectas aos juízos cíveis, 4 afectas aos juízos criminais, 1 afecta ao juízo de execução e 3 afectas ao Tribunal de Família e Menores (a):
+Secção central e de serviço externo e 14 secções de processos, sendo 6 afectas aos juízos cíveis, 4 afectas aos juízos criminais, 1 afecta ao juízo de execução e 3 afectas ao Tribunal de Família e Menores (a):
 
 Pessoal:
 
@@ -1548,7 +1580,7 @@ Vila Franca de Xira
 
 Serviços judiciais
 
-#### Secção central e de serviço externo e sete secções de processos, sendo três afectas aos juízos de competência especializada cível, duas afectas aos juízos de competência especializada criminal e duas afectas ao Tribunal de Família e Menores:
+Secção central e de serviço externo e sete secções de processos, sendo três afectas aos juízos de competência especializada cível, duas afectas aos juízos de competência especializada criminal e duas afectas ao Tribunal de Família e Menores:
 
 Pessoal:
 
@@ -1562,7 +1594,7 @@ Escrivão auxiliar......29
 
 Serviços do Ministério Público
 
-#### Secção central e uma secção de processos:
+Secção central e uma secção de processos:
 
 Pessoal:
 
@@ -1586,7 +1618,7 @@ Secretário de justiça......1
 
 Serviços judiciais
 
-#### Secção central e duas secções de processos:
+Secção central e duas secções de processos:
 
 Pessoal:
 
@@ -1612,7 +1644,7 @@ Vila Nova de Gaia
 
 Serviços judiciais
 
-#### Secção central, secção de serviço externo e 15 secções de processos, sendo 2 afectas às varas de competência mista cível e criminal, 6 afectas aos juízos cíveis, 5 afectas aos juízos criminais, 1 afecta ao juízo de execução e 1 afecta ao Tribunal de Família e Menores:
+Secção central, secção de serviço externo e 15 secções de processos, sendo 2 afectas às varas de competência mista cível e criminal, 6 afectas aos juízos cíveis, 5 afectas aos juízos criminais, 1 afecta ao juízo de execução e 1 afecta ao Tribunal de Família e Menores:
 
 Pessoal:
 
@@ -1636,7 +1668,7 @@ Secretário de justiça......1
 
 Serviços judiciais
 
-#### Secção central e três secções de processos:
+Secção central e três secções de processos:
 
 Pessoal:
 

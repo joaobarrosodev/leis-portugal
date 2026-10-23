@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28/2013/08/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ea67d09a811a33aed4ab3ff15aad819ee0294eff3c4a78c0217c984cebf345e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16cabb03e67599b225b2c70e30bb1bfb5608f390416f87c77d9a22d278751e09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional
+- Código dos Contratos Públicos
+- Contratação Pública
 - Despesas Públicas
 - Dotação Orçamental
 - Finanças Regionais
-- Orçamento Regional
-- Código dos Contratos Públicos
 - Madeira.região Autónoma
+- Orçamento Regional
 - Receita Pública
-- Administração Regional
-- Contratação Pública
 relationships:
 - type: amended_by
   target: pt:dre:114866946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114866946:por
+  label: Alterado, com efeitos a 01.01.2018, o art. 7.º do DLR 34/2008/M, de 14-ago, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2018-114866946
+  date: '2018-03-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/actconst/187/2013/04/22/p/dre
   label: null
@@ -120,16 +126,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/28/1992/09/01/p/dre
+- type: cites
+  target: pt:dre:189511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553889:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670489:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:44Z'
   warnings: []
   errors: []
 ---
@@ -178,7 +248,9 @@ b) Assumir e regularizar diretamente junto das instituições de crédito o mont
 
 5 - A concretização do contido na alínea b) do n.º 1 deste artigo fica dependente da assinatura de documento por todas as partes intervenientes e interessadas na matéria, direta ou indiretamente, nos termos e condições nele contido.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +264,9 @@ b) Assumir e regularizar diretamente junto das instituições de crédito o mont
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - ...
 
@@ -200,7 +274,9 @@ b) Assumir e regularizar diretamente junto das instituições de crédito o mont
 
 3 - Sem prejuízo do disposto no artigo 37.º do presente diploma, excecionam-se do número anterior os apoios financeiros concedidos ao abrigo de legislação específica na qual se fixe a respetiva quantificação ou que não estejam sujeitos à celebração de contrato programa, designadamente no que respeita aos apoios concedidos no âmbito da habitação, emprego e apoios comunitários.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Sem prejuízo das competências atribuídas a outras entidades, o controlo do cumprimento do disposto nos artigos 32.º a 36.º compete à Inspeção Regional de Finanças.
 
@@ -210,11 +286,15 @@ b) Assumir e regularizar diretamente junto das instituições de crédito o mont
 
 4 - ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 Para além das normas relativas a contenção de despesa contidas na Lei que aprova o Orçamento do Estado para 2013, aplicadas diretamente à Região Autónoma da Madeira, nomeadamente os artigos 27.º, 28.º, 29.º, 34.º, 35.º, 37.º, 39.º, 40.º, 45.º, 59.º, 77.º e 78.º, mantêm-se ainda em vigor os n.os 1, 2, 4 e 5 do artigo 49.º, o artigo 50.º-A, e o n.º 5 do artigo 54.º do [Decreto Legislativo Regional n.º 2/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), de 10 de janeiro, alterado pelos Decretos Legislativos Regionais n.os [4/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2011-278177), de 11 de março, [11/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2011-670489), de 6 de julho, [13/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-669867), de 5 de agosto, e pelo presente diploma.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - ...
 
@@ -282,11 +362,11 @@ Para além das normas relativas a contenção de despesa contidas na Lei que apr
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 17 de julho de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 25 de julho de 2013.**
+Assinado em 25 de julho de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 
@@ -296,7 +376,7 @@ Receitas da Região
 
 (Substitui na parte alterada o mapa respetivo constante do [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), de 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
 
 MAPA II
 
@@ -304,7 +384,7 @@ Despesas por departamentos regionais e capítulos
 
 (Substitui na parte alterada o mapa respetivo constante do [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), de 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
 
 MAPA III
 
@@ -312,7 +392,7 @@ Despesas por classificação funcional
 
 (Substitui na parte alterada o mapa respetivo constante do [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), de 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
 
 MAPA IV
 
@@ -320,7 +400,7 @@ Despesas por agrupamentos económicos
 
 (Substitui na parte alterada o mapa respetivo constante do [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), de 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
 
 MAPA V
 
@@ -330,7 +410,7 @@ Receita global dos serviços, institutos e fundos autónomos
 
 (Substitui na parte alterada o mapa respetivo constante do [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), de 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
 
 MAPA VI
 
@@ -340,7 +420,7 @@ Despesa global dos serviços, institutos e fundos autónomos
 
 (Substitui na parte alterada o mapa respetivo constante do [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), de 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
 
 MAPA VII
 
@@ -348,7 +428,7 @@ Despesas dos serviços, institutos e fundos autónomos por classificação funci
 
 (Substitui na parte alterada o mapa respetivo constante do [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), de 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
 
 MAPA VIII
 
@@ -356,7 +436,7 @@ Despesas dos serviços, institutos e fundos autónomos por grandes agrupamentos 
 
 (Substitui na parte alterada o mapa respetivo constante do [Decreto Legislativo Regional n.º 42/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), de 31 de dezembro)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
 
 MAPA IX
 
@@ -364,10 +444,10 @@ Programação plurianual do investimento por programas e medidas
 
 Unidade: euros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
 
 MAPA X
 
 Despesas correspondentes a programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf))](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/08/15000/0465204690.pdf)

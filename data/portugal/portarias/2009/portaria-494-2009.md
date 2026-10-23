@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/494/2009/05/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/494-2009-608224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebf5d30fe4ef095de73fd158017559496169bb6ab6aa9d50022336a18d2d7db8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2383185351b9498d03bf210847c068228f8fb42f0451f0dc49ea2ebc4bc5f727
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,32 +67,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajudas de Custo
+- Deslocação ao Estrangeiro
 - Exército
 - Força Aérea
-- Deslocação ao Estrangeiro
-- Marinha
-- Missão Oficial
 - Forças Armadas
+- Marinha
 - Militar
+- Missão Oficial
 relationships:
 - type: amended_by
   target: pt:dre:306615:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306615:por
+  label: "Reduzidas as prestações pecuniárias pagas ao pessoal, independentemente da sua designação formal, que sejam legalmente\
+    \ equiparadas a ajudas de custo, designadamente para efeitos fiscais, bem como os valores das ajudas de custo fixados\
+    \ pelo nº1 do presente diploma, pelo DEC LEI.137/2010.28.12.2010.MFAP, DR.IS [250] de 28.12.2010, Reduz nos termos dos\
+    \ nºs. 7 e 9 do art. 4º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-2010-306615
+  date: '2010-12-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1553-d/2008/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1553-d/2008/12/31/p/dre
+- type: cites
+  target: pt:dre:243733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381570:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:35Z'
   warnings: []
   errors: []
 ---
@@ -129,4 +145,4 @@ Praças - (euro) 111,88.
 
 3.º A presente portaria produz efeitos desde 1 de Janeiro de 2009.
 
-**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa, em 23 de Abril de 2009. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 16 de Abril de 2009. - O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira, em 6 de Abril de 2009.**
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa, em 23 de Abril de 2009. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 16 de Abril de 2009. - O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira, em 6 de Abril de 2009.

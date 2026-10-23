@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 13/1992, 1º Suplemento, Série I-A de 1992-01-16
   number: '13'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 298-(2) a 298-(45)
   pdf_url: https://files.diariodarepublica.pt/1s/1992/01/013a01/00020045.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/1992/01/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1992-249485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 899041995d02bd80d10cb731083dda03a033b332fd1580a59976b78283140eac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc4100d51ebb51ea0e3c7442e1cb4d9ace0c94a58c978908392e5b10e63ad709
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,44 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Adjudicação por Concurso Público
+- Autarquia Local
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
 - Comparticipação do Estado
 - Concurso Público
 - Despesas Públicas
 - Empréstimo
+- Financiamento
 - Fundo de Equilibrio Financeiro
-- Orçamento Regional
 - Madeira.região Autónoma
-- Autarquia Local
+- Orçamento Regional
 relationships:
 - type: amended_by
   target: pt:dre:231958:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:666711:por
+  label: "Mantido em vigor, nos termos dos arts. 25º e 26º, o disposto nos arts. 18.º e 19º do presente diploma, pelo DLR.4/93/M.26.04.1993.ALR-RAM,\
+    \ DR.IS-A [97-Supl] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-1993-666711
+  date: '1993-04-26'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "MANTIDO EM VIGOR O DISPOSTO NO ART 18 PELO DLR 1/95/M DE 13-FEV DR.IS-A [38]SUPL DE 14/FEV/1995\05"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-02-14'
+- type: amended_by
+  target: pt:dre:152936:por
+  label: "Determinada a manutenção em vigor do art. 18º, pelo DLR.3-A/96/M.29.02.1996.ALR-RAM, DR.IS-A [51-1ºSupl] de 29.02.1996\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-a-1996-152936
+  date: '1996-02-29'
+- type: amended_by
+  target: pt:dre:231958:por
+  label: "Mantido em vigor o disposto no art 18º pelo DLR.4-A/97/M.1997.04.21.ALR-RAM, DR.IS-A [93]-Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-a-1997-231958
+  date: '1997-04-21'
 - type: cites
   target: celex:31971L0305
   label: null
@@ -90,16 +112,21 @@ relationships:
   target: celex:31977L0062
   label: null
   source: http://data.europa.eu/eli/dir/1977/62/oj
+- type: corrected_by
+  target: pt:dre:229498:por
+  label: RECTIFICADO PELA DECL-RECT 39/92 DR.IS-A [100]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/39-1992-229498
+  date: '1992-04-30'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:40Z'
   warnings: []
   errors: []
 ---
@@ -344,12 +371,12 @@ O presente diploma entra em vigor à data da publicação, integrando o orçamen
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 19 de Dezembro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça
 
-**Assinado em 15 de Janeiro de 1992.**
+Assinado em 15 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/01/013a01/00020045.pdf))](https://files.diariodarepublica.pt/1s/1992/01/013a01/00020045.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/01/013a01/00020045.pdf)

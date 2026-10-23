@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28/2000/08/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2000-339835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b4aa8abbfd14fdc5921d4c5af8ec2caf50c5e45b4883c98939bff0f0ba4e581
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b192a266e4e8fdded1546a640c5bf3b8cdfe2f0e050c00ddec2005982af69d8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
-- Espetáculos e Divertimentos Públicos
-- Multa
+- Açores
 - Contra-ordenação
+- Espetáculos e Divertimentos Públicos
 - Inspecção Geral de Jogos
 - Licenciamento
 - Máquinas de Jogo
-- Açores
+- Multa
+- PSP
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:553954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:522871:por
+  label: "Alterados os arts. 2.º, 20.º e 24.º, pelo DLR.12/2001/A.2001.07.16.ALR-RAA DR.IS-A [180] DE 04/AGO/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2001-522871
+  date: '2001-07-16'
+- type: amended_by
+  target: pt:dre:694251:por
+  label: "Alterado o art. 17.º pelo DLR.32/2003/A.2003.07.01.ALR-RAA DR.IS-A [149] DE 01/JUL/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/32-2003-694251
+  date: '2003-07-01'
+- type: amended_by
+  target: pt:dre:546019:por
+  label: "Alterado o nº 1 do art. 4º, o art. 6º, o nº 1 do art. 7º, o nº 1 do art. 8º, os arts. 11º, 12º, 14º, 15º, 16º, 19º,\
+    \ 20º (este último na redacção do DLR 12/2001/A de 04-Ago), art. 22º, o nº 1 do art. 23º e o art. 25º, revogado o nº 3\
+    \ do art. 20º, todos do presente diploma, pelo DLR.41/2006/A.16.10.2006.AL-RAA, DR.IS [210] de 31.10.2006, que o republica\
+    \ na íntegra\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/41-2006-546019
+  date: '2006-10-16'
+- type: amended_by
+  target: pt:dre:553954:por
+  label: "Dada nova redação ao nº 4 do art. 17º (alterado pelo DLR 32/2003/A de 01-jul), e republicado o presente diploma,\
+    \ com todas as alterações, pelo DLR.12/2012/A.27.03.2012.AL-RAA, DR.IS [62] de 27.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2012-553954
+  date: '2012-03-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre
   label: null
@@ -95,16 +119,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/18/1996/08/06/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/18/1996/08/06/a/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626589:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:20Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +253,9 @@ b) Factura ou documento equivalente que contenha os elementos identificativos da
 
 A importação, fabrico, montagem, substituição de temas de jogos e venda de máquinas de diversão far-se-á nos termos do artigo 19.º do [Decreto-Lei n.º 316/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), de 28 de Novembro.
 
-###### Artigo 7.º — Título de registo
+###### Artigo 7.º
+
+## Título de registo
 
 1 - Preenchidos os requisitos exigidos no artigo 5.º, o Secretário Regional Adjunto da Presidência mandará emitir o título de registo, que acompanhará obrigatoriamente a máquina a que respeitar.
 
@@ -253,9 +311,11 @@ d) Licença de utilização, a emitir pela câmara municipal.
 
 ###### Artigo 15.º — Recusa
 
-**O Secretário Regional Adjunto da Presidência pode recusar, em despacho fundamentado, a concessão ou a renovação de licença de exploração, sempre que tal medida de polícia se justifique para a protecção à infância e juventude, prevenção da criminalidade e manutenção ou reposição da segurança, da ordem ou da tranquilidade públicas.**
+O Secretário Regional Adjunto da Presidência pode recusar, em despacho fundamentado, a concessão ou a renovação de licença de exploração, sempre que tal medida de polícia se justifique para a protecção à infância e juventude, prevenção da criminalidade e manutenção ou reposição da segurança, da ordem ou da tranquilidade públicas.
 
-###### Artigo 16.º — Título de licenciamento
+###### Artigo 16.º
+
+## Título de licenciamento
 
 A licença de exploração mencionará expressamente a entidade exploradora, a localização do recinto e período de validade, bem como o número de máquinas.
 
@@ -367,10 +427,10 @@ Os impressos próprios referidos no presente diploma serão aprovados por portar
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 7 de Junho de 2000.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 10 de Julho de 2000.**
+Assinado em Angra do Heroísmo em 10 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

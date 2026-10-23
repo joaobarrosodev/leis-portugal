@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/03800/0059100595.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/2016/02/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2016-73688944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9bbbbd5c310a5e2ace46801d7465f8cbfbc541e610ff176bf37c869c24da5dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f5e3ab9b2f31d400ea4e205753d8466cb2f9017f74df5ea570e72618f9d421c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Armador
+- Fundo de Compensação Salarial dos Profissionais da Pesca
+- Fundopesca
+- Governo Regional
+- Inspecção Regional das Pescas
+- Pesca
 - Pescador
 - Pessoal do MAR
-- Governo Regional
-- Fundo de Compensação Salarial dos Profissionais da Pesca
-- Pesca
-- Fundopesca
-- Inspecção Regional das Pescas
-- Armador
-- Açores
 - Subsídio de Compensação
 relationships:
 - type: amended_by
   target: pt:dre:127816253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Determinado que o limite máximo de pagamento da compensação salarial a que se refere o n.º 2 do art. 6.º do DLR 19/2013/A
+    de 17-out, na versão republicada pelo presente diploma, é estendido, para as entidades beneficiárias afetadas pela passagem
+    do furacão Lorenzo, até ao limite máximo de cento e vinte dias no ano de 2020, em cada ilha, e condicionado às disponibilidades
+    orçamentais do FUNDOPESCA, pelo(a) Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I
+    de 2020-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/311/1999/08/10/p/dre
   label: null
@@ -93,16 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/19/2013/10/17/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/19/2013/10/17/a/dre
+- type: cites
+  target: pt:dre:368662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503015:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 22
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:16Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +154,9 @@ Os artigos 3.º a 7.º do [Decreto Legislativo Regional n.º 19/2013/A](https://
 
 Constitui atribuição do FUNDOPESCA prestar apoio financeiro aos profissionais da pesca quando estejam temporariamente impedidos de exercer a respetiva atividade e registem uma redução do rendimento, nos termos previstos no presente diploma.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -141,7 +164,9 @@ Constitui atribuição do FUNDOPESCA prestar apoio financeiro aos profissionais 
 
 3 - As entidades referidas no n.º 1, que pretendam beneficiar do apoio referido no artigo anterior, devem efetuar descontos para o FUNDOPESCA, de acordo com o disposto na alínea g) do artigo 13.º
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - A imobilização das embarcações de que decorra redução do rendimento do inscrito marítimo constitui fundamento da atribuição de uma compensação salarial, desde que aquela se deva a:
 
@@ -153,7 +178,9 @@ c) ...
 
 2 - (Revogado.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -161,7 +188,9 @@ c) ...
 
 3 - O pagamento da compensação salarial só é devido decorridos os prazos mencionados nas alíneas a) e b) do n.º 1 do artigo 5.º
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -209,11 +238,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 13 de janeiro de 2016.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 12 de fevereiro de 2016.**
+Assinado em Angra do Heroísmo em 12 de fevereiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

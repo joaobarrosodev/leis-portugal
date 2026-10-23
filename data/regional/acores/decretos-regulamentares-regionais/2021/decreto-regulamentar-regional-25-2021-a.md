@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/10/19200/0000400026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/2021/10/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2021-172266414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9b24636270172afe43887089ef79ffe6de2feff0a96b9cb2e61811d5a9f9465
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd26fb282ac2d647723be9ac3bcb5e5319cae8f65b3c06a2c7050bd7e6ee8600
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Arquivo
+- Centro de Ciências da Informação e Documentação do Governo Regional
+- Centro de Consulta e Estudos Jurídicos do Governo Regional
 - Centro de Informação
-- Pessoal Dirigente
 - Comissão Coordenadora
-- Governo Regional
 - Definição de Competências
-- Presidência do Governo Regional
 - Direcção Regional dos Assuntos Europeus e da Cooperação Externa
-- Secretaria Geral
-- Presidente do Governo Regional
+- Governo Regional
 - Jornal Oficial
+- JurisAPP
 - Orgânica
 - Período Experimental
 - Pessoal de Chefia
+- Pessoal Dirigente
+- Presidência do Governo Regional
+- Presidente do Governo Regional
 - Quadro de Pessoal
-- Açores
+- Secretaria Geral
+- Subsecretário Regional da Presidência
 - Transferência de Competências
 - Transferência de Pessoal
 - Transferência de Serviços
 - Transferência Patrimonial
-- JurisAPP
-- Subsecretário Regional da Presidência
-- Centro de Consulta e Estudos Jurídicos do Governo Regional
-- Centro de Ciências da Informação e Documentação do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:207417313:por
@@ -122,16 +122,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/7/2008/04/30/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/7/2008/04/30/a/dre
+- type: cites
+  target: pt:dre:150757510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55020994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70411882:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:207417313:por
+  label: Revogada a partir de 15.02.2023, o presente diploma, pelo(a) Decreto Regulamentar Regional n.º 4/2023/A - Diário
+    da República n.º 32/2023, Série I de 2023-02-14, nos termos do seu art. 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2023-207417313
+  date: '2023-02-14'
 article_structure:
   article_count: 37
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:44Z'
   warnings: []
   errors: []
 ---
@@ -182,11 +216,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de abril de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 28 de setembro de 2021.**
+Assinado em Angra do Heroísmo em 28 de setembro de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -326,7 +360,9 @@ c) Centro Multimeios do Governo Regional;
 
 d) Centro do Protocolo e Relações Públicas do Governo Regional.
 
-##### SUBSECÇÃO I — Divisão de Recursos Humanos, Financeiros e do Património
+##### SUBSECÇÃO I
+
+##### Divisão de Recursos Humanos, Financeiros e do Património
 
 ###### Artigo 9.º — Natureza, competências e estrutura
 
@@ -368,7 +404,9 @@ d) Serviço de Manutenção e Conservação dos Jardins da PGR.
 
 4 - A DRHFP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 10.º — Secção de Recursos Humanos
+###### Artigo 10.º
+
+#### Secção de Recursos Humanos
 
 1 - À Secção de Recursos Humanos, doravante designada por SRH, compete:
 
@@ -396,7 +434,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SRH é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 11.º — Secção de Contabilidade e Património
+###### Artigo 11.º
+
+#### Secção de Contabilidade e Património
 
 1 - À Secção de Contabilidade e Património, doravante designada por SCP, compete:
 
@@ -534,7 +574,9 @@ v) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - O CID - PGR integra a Secção de Expediente.
 
-###### Artigo 15.º — Secção de Expediente
+###### Artigo 15.º
+
+#### Secção de Expediente
 
 1 - À Secção de Expediente, doravante designada por SE, compete:
 
@@ -1048,4 +1090,6 @@ d) Consultor, a recrutar de entre licenciados ou mestre nas áreas do direito, d
 
 Quadro de pessoal dirigente e de chefia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/10/19200/0000400026.pdf))](https://files.diariodarepublica.pt/1s/2021/10/19200/0000400026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/10/19200/0000400026.pdf)
+
+114613189

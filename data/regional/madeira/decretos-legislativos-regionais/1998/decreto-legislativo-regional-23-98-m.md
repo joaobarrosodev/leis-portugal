@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/216a00/48594860.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/1998/09/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1998-241444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ce3e6c6feb2296fd95852a2447d2798234b5fc04bdf1d95ccf58ab6c51438c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5b7069a70265050fc9a3c9e3ee9dce7fd352f354e7ba4cbac9ee7def527020e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Formação Profissional
 - Definição de Competências
 - Ensino Profissional
 - Escola de Hotelaria e Turismo
 - Escola Profissional
-- Secretaria Regional da Educação
-- Política de Educação
 - Estabelecimento de Ensino
+- Financiamento
+- Formação Profissional
 - Madeira.região Autónoma
+- Política de Educação
 - Regime Jurídico
+- Secretaria Regional da Educação
+- Turismo
 - Tutela
 relationships:
 - type: amended_by
   target: pt:dre:215874469:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:645077:por
+  label: "Alterado o nº 4 do art. 7º pelo DLR.26-A/98/M.1998.12.21.ALR-RAM DR.IS-A [294]2º Supl de 22/Dez/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-a-1998-645077
+  date: '1998-12-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/4/1998/01/08/p/dre
   label: null
@@ -99,16 +104,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:154620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:215874469:por
+  label: Revogado, a partir de 21.07.2023, com efeitos a 01.09.2023, o presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 27/2023/M - Diário da República n.º 140/2023, Série I de 2023-07-20, sendo incorporado o património da EHTM todo o
+    património móvel ou imóvel atribuído à Escola Profissional de Hotelaria e Turismo da Madeira, nos termos do n.º 1 do art.
+    8.º e art. 10.º deste.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2023-215874469
+  date: '2023-07-20'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:27Z'
   warnings: []
   errors: []
 ---
@@ -207,8 +240,8 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira de 14 de Julho de 1998.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 28 de Agosto de 1998.**
+Assinado em 28 de Agosto de 1998.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

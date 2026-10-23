@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/81/2007/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/81-2007-262369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a74e7d10d4694583cec48aaab5faac2d56b94db6b565ba2a9b8f914cc8ad0ee0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dae82fe7fa28328f06056205ec0852e9e968b63812ef2689734d731736235466
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:343638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636901:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 1053/2003, de 24-Set, alterada pelo presente\
+    \ diploma, pela PORT.911/2007.14.08.2007.MAOTDR, DR.IS [156] de 14.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/911-2007-636901
+  date: '2007-08-14'
+- type: amended_by
+  target: pt:dre:343638:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pela Port 1053/2003, de 24-Set, na redacção da presente portaria,\
+    \ pela PORT.758/2010.19.08.2010.MADRP, DR.IS [161] de 19.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/758-2010-343638
+  date: '2010-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
   label: null
@@ -87,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1053/2003/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1053/2003/09/24/p/dre
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494069:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:05Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +147,4 @@ Manda o Governo, pelos Ministros do Ambiente, do Ordenamento do Território e do
 
 Pelo Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Humberto Delgado Ubach Chaves Rosa, Secretário de Estado do Ambiente, em 14 de Dezembro de 2006. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 7 de Novembro de 2006.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/00900/02910292.pdf))](https://files.diariodarepublica.pt/1s/2007/01/00900/02910292.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/00900/02910292.pdf)

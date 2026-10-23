@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2007/02/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2007-518375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e378cb0a05296d692d9e60822789f78a514b0ae2368479e880de66424c3adfcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b91109dce99f64e18599f73d8bdb350ed6f37e19552f8a0f586fbe96f816f68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano Director Municipal
-- Lajes das Flores
-- Regulamento
 - Açores
+- Lajes das Flores
+- Plano Director Municipal
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/de
@@ -110,16 +110,108 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1/1992/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1/1992/01/02/p/dre
+- type: cites
+  target: pt:dre:158583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:242893:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618174:por
+  label: null
+  source: null
 article_structure:
   article_count: 49
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:27Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +230,7 @@ Já na vigência do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/de
 
 Foram cumpridas as formalidades relativas à realização da discussão pública e foi emitido pela Direcção Regional de Organização e Administração Pública o parecer previsto no n.º 3 do artigo 6.º do [Decreto Legislativo Regional n.º 14/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2000-300039), de 23 de Maio, na sua redacção actual.
 
-# Parte da área de intervenção do Plano encontra-se abrangida pelo Plano Sectorial da Rede Natura 2000 da Região Autónoma dos Açores, aprovado pelo [Decreto Legislativo Regional n.º 20/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2006-353938), de 6 de Junho, rectificado pela [Declaração de Rectificação n.º 48-A/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/48-a-2006-242893), de 7 de Agosto.
+Parte da área de intervenção do Plano encontra-se abrangida pelo Plano Sectorial da Rede Natura 2000 da Região Autónoma dos Açores, aprovado pelo [Decreto Legislativo Regional n.º 20/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2006-353938), de 6 de Junho, rectificado pela [Declaração de Rectificação n.º 48-A/2006](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/48-a-2006-242893), de 7 de Agosto.
 
 Ao procedimento de ratificação cabe verificar a conformidade com as disposições legais e regulamentares vigentes, o que no caso do presente Plano se constata que sucede em geral, mas com ressalva de algumas exclusões de ratificação e de algumas situações, merecedoras de esclarecimentos ou observações, a seguir descritas.
 
@@ -250,15 +342,17 @@ O Plano Director Municipal das Lajes das Flores entra em vigor no dia seguinte a
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 30 de Novembro de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 12 de Janeiro de 2007.**
+Assinado em Angra do Heroísmo em 12 de Janeiro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-## ANEXO 1 — CAPÍTULO I
+## ANEXO 1
+
+### CAPÍTULO I
 
 Do Plano, sua intervenção e vigência
 
@@ -1016,4 +1110,4 @@ O PDM é o instrumento orientador dos planos municipais de ordenamento do territ
 
 Do ANEXO 2 ao ANEXO 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/02/02400/09240936.pdf))](https://files.diariodarepublica.pt/1s/2007/02/02400/09240936.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/02/02400/09240936.pdf)

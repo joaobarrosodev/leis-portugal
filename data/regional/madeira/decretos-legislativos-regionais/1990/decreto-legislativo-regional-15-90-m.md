@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/05/12300/23872389.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-1990-574912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20d73bb548cda1cc7f69a1f1381191bec7a763001de95be4a2406b3d328581c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d9f1f8c41c51edc9a557a43707a8e952ef621285bcbf9906e2698e5eb4ab538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Básico
+- Ensino Preparatório
+- Gestão de Recursos Humanos
+- Madeira.região Autónoma
+- Pessoal não Docente
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:473895:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620320:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473895:por
+  label: "Revogado pelo DLR.10/98/M.1998.05.21.ALR-RAM, DR.IS-A [138] de 18/Jun/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-1998-473895
+  date: '1998-05-21'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:26Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +124,7 @@ Considerando o disposto no artigo 6.º do [Decreto-Lei n.º 191/89](https://diar
 
 Nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, a Assembleia Legislativa Regional decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 7.º, 20.º e 37.º do [Decreto Legislativo Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808), de 16 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 7.º, 20.º e 37.º do [Decreto Legislativo Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808), de 16 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Quadros
 
@@ -167,33 +194,33 @@ Auxiliar de manutenção.
 
 4 - ...
 
-###### Art. 2.º - 1 - A carreira de técnico auxiliar de acção social escolar desenvolve-se pelas categorias de técnico auxiliar especialista, técnico auxiliar principal, técnico auxiliar de 1.ª classe e técnico auxiliar de 2.ª classe, a que correspondem os índices e escalões do novo sistema retributivo constante do anexo ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+Art. 2.º - 1 - A carreira de técnico auxiliar de acção social escolar desenvolve-se pelas categorias de técnico auxiliar especialista, técnico auxiliar principal, técnico auxiliar de 1.ª classe e técnico auxiliar de 2.ª classe, a que correspondem os índices e escalões do novo sistema retributivo constante do anexo ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
 
 2 - A carreira de técnico auxiliar de acção social escolar desenvolve-se de acordo com a lei geral em vigor para a carreira técnico-profissional, nível 3.
 
-###### Art. 3.º - 1 - Os funcionários oriundos do quadro técnico de acção social escolar, criado pelo Decreto Regulamentar Regional n.º 8/83/M, de 21 de Abril, podem optar, em alternativa, pela sua integração na carreira de técnico auxiliar de acção social escolar, a que se refere o artigo anterior, ou na carreira de oficial administrativo, ou na carreira de ecónomo, devendo declará-lo, por escrito, directamente à Direcção Regional de Finanças, Administração e Pessoal no prazo de 15 dias a partir da data de entrada em vigor do presente diploma.
+Art. 3.º - 1 - Os funcionários oriundos do quadro técnico de acção social escolar, criado pelo Decreto Regulamentar Regional n.º 8/83/M, de 21 de Abril, podem optar, em alternativa, pela sua integração na carreira de técnico auxiliar de acção social escolar, a que se refere o artigo anterior, ou na carreira de oficial administrativo, ou na carreira de ecónomo, devendo declará-lo, por escrito, directamente à Direcção Regional de Finanças, Administração e Pessoal no prazo de 15 dias a partir da data de entrada em vigor do presente diploma.
 
 2 - A integração prevista no número anterior efectua-se por transição automática para as categorias a que corresponda remuneração igual ou, se não houver coincidência, a imediatamente superior, mediante lista nominal aprovada por despacho do Secretário Regional da Educação, Juventude e Emprego e publicada no Jornal Oficial da Região Autónoma da Madeira.
 
 3 - Aos funcionários referidos no n.º 1 será contado o tempo de serviço prestado no quadro técnico de acção social escolar como se o tivesse sido na nova carreira.
 
-###### Art. 4.º A alteração do quadro de vinculação constante do anexo II ao [Decreto Legislativo Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808), de 16 de Maio, decorrente da aplicação do referente diploma é realizada por portaria conjunta dos Secretários Regionais titulares das pastas das Finanças, da Administração Pública e da Educação, Juventude e Emprego, não podendo dela resultar o acréscimo no número total de lugares.
+Art. 4.º A alteração do quadro de vinculação constante do anexo II ao [Decreto Legislativo Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808), de 16 de Maio, decorrente da aplicação do referente diploma é realizada por portaria conjunta dos Secretários Regionais titulares das pastas das Finanças, da Administração Pública e da Educação, Juventude e Emprego, não podendo dela resultar o acréscimo no número total de lugares.
 
-###### Art. 5.º São revogados os n.os 1 e 2 do artigo 43.º do [Decreto Legislativo Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808), de 16 de Maio.
+Art. 5.º São revogados os n.os 1 e 2 do artigo 43.º do [Decreto Legislativo Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808), de 16 de Maio.
 
-###### Art. 6.º O presente diploma produz efeitos desde a data da entrada em vigor do [Decreto Legislativo Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808), de 16 de Maio.
+Art. 6.º O presente diploma produz efeitos desde a data da entrada em vigor do [Decreto Legislativo Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808), de 16 de Maio.
 
 Aprovado em sessão plenária de 28 de Março de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 16 de Abril de 1990.**
+Assinado em 16 de Abril de 1990.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Alteração ao anexo III a que se refere o n.º 5 do artigo 3.º do [Decreto Legislativo Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808), de 16 de Maio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/05/12300/23872389.pdf))](https://files.diariodarepublica.pt/1s/1990/05/12300/23872389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/05/12300/23872389.pdf)
 
 Aditamento ao anexo IV a que se refere o n.º 1 do artigo 36.º do [Decreto Legislativo Regional n.º 3/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1988-374808), de 16 de Maio
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/10200/10491056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1981-573347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30d0a20e80fb605728ba933bb20579ce3336657516ef5dfbb5e88aadb22a985f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddf06f6f5b3102b7bd933c4ff4aa00a2f015fb75f91860e6577d7251a409dab5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Empresa Pública Regional
+- Fábrica de Tabaco Micaelense
+- Tabaco
 relationships:
 - type: amended_by
   target: pt:dre:357676:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:383072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471144:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:357676:por
+  label: Revogado o Estatuto aprovado pelo presente diploma pelo(a) Decreto Regulamentar Regional n.º 68/88/A - Diário da
+    República n.º 264/1988, Série I de 1988-11-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/68-1988-357676
+  date: '1988-11-15'
 article_structure:
-  article_count: 46
+  article_count: 45
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:26Z'
   warnings: []
   errors: []
 ---
@@ -90,35 +108,35 @@ Tornando-se necessário instituir como empresa pública regional a Fábrica de T
 
 O Governo Regional dos Açores, usando dos poderes que lhe são conferidos pela alínea d) do n.º 1 do artigo 229.º da Constituição, pelas alíneas c) e e) do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, e pelo artigo 2.º do [Decreto-Lei n.º 315/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1980-471144), de 20 de Agosto, decreta o seguinte:
 
-###### Artigo 1.º - 1 - A Fábrica de Tabaco Micaelense, Lda., nacionalizada pelo Decreto-Lei n.º 227-A/75, de 13 de Maio, passa a constituir uma empresa pública regional, ficando a denominar-se Fábrica de Tabaco Micaelense, Empresa Pública Regional, abreviadamente designada por FTM - E. P.
+Artigo 1.º - 1 - A Fábrica de Tabaco Micaelense, Lda., nacionalizada pelo Decreto-Lei n.º 227-A/75, de 13 de Maio, passa a constituir uma empresa pública regional, ficando a denominar-se Fábrica de Tabaco Micaelense, Empresa Pública Regional, abreviadamente designada por FTM - E. P.
 
 2 - A FTM - E. P, é uma pessoa colectiva de direito público que se rege pela lei aplicável às empresas públicas, pelo estatuto anexo a este diploma, que dele faz parte integrante, e, subsidiariamente, pelas normas de direito privado.
 
-###### Art. 2.º - 1 - É transferida para a FTM - E. P. a universalidade dos bens, direitos e obrigações da empresa que, nos termos do Decreto-Lei n.º 227-A/75, de 13 de Maio, assumiu a posição jurídica da sociedade por quotas Fábrica de Tabaco Micaelense, Lda., nacionalizada pelo mesmo diploma.
+Art. 2.º - 1 - É transferida para a FTM - E. P. a universalidade dos bens, direitos e obrigações da empresa que, nos termos do Decreto-Lei n.º 227-A/75, de 13 de Maio, assumiu a posição jurídica da sociedade por quotas Fábrica de Tabaco Micaelense, Lda., nacionalizada pelo mesmo diploma.
 
 2 - As transmissões previstas no número anterior operam-se por virtude do presente diploma, que servirá de título suficiente para todos os efeitos legais, incluindo os de registo.
 
 3 - As transmissões referidas no número anterior serão registadas nos termos do [Decreto-Lei n.º 77/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1979-383072), de 7 de Abril.
 
-###### Art. 3.º - 1 - Transitam para a FTM - E. P., independentemente de quaisquer formalidades, os trabalhadores que, de harmonia com o Decreto-Lei n.º 227-A/75, de 13 de Maio, hajam transitado para a empresa nacionalizada ou tenham sido admitidos por ela posteriormente a essa data e estejam efectivamente ao serviço da empresa à data da publicação do presente diploma.
+Art. 3.º - 1 - Transitam para a FTM - E. P., independentemente de quaisquer formalidades, os trabalhadores que, de harmonia com o Decreto-Lei n.º 227-A/75, de 13 de Maio, hajam transitado para a empresa nacionalizada ou tenham sido admitidos por ela posteriormente a essa data e estejam efectivamente ao serviço da empresa à data da publicação do presente diploma.
 
 2 - Os trabalhadores de que trata este artigo transitam para a FTM - E. P. - integrados nos quadros de origem e com os direitos e obrigações emergentes da respectiva situação nesses quadros.
 
-###### Art. 4.º Os poderes de tutela do Governo Regional sobre a FTM - E. P. são exercidos pelo Secretário Regional do Comércio e Indústria, salvo disposição expressa em contrário.
+Art. 4.º Os poderes de tutela do Governo Regional sobre a FTM - E. P. são exercidos pelo Secretário Regional do Comércio e Indústria, salvo disposição expressa em contrário.
 
-###### Art. 5.º As dúvidas que suscitarem a interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Secretário Regional do Comércio e Indústria ou por despacho conjunto deste e dos Secretários Regionais competentes, em razão da matéria, quando a dúvida a resolver respeite a mais de uma Secretaria Regional.
+Art. 5.º As dúvidas que suscitarem a interpretação e aplicação do presente diploma e do estatuto a ele anexo serão resolvidas por despacho do Secretário Regional do Comércio e Indústria ou por despacho conjunto deste e dos Secretários Regionais competentes, em razão da matéria, quando a dúvida a resolver respeite a mais de uma Secretaria Regional.
 
-###### Art. 6.º Este diploma entra em vigor na data da sua publicação.
+Art. 6.º Este diploma entra em vigor na data da sua publicação.
 
 Aprovado pelo conselho do Governo Regional em 6 de Fevereiro de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral**
+O Presidente do Governo Regional, João Bosco Mota Amaral
 
-**Assinado em Angra do Heroísmo em 16 de Abril de 1981.**
+Assinado em Angra do Heroísmo em 16 de Abril de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 ESTATUTO DA FÁBRICA DE TABACO MICAELENSE, EMPRESA PÚBLICA REGIONAL
 
@@ -590,8 +608,8 @@ O pessoal da FTM - E. P. sujeita-se, quanto às respectivas remunerações, à t
 
 2 - Os membros dos órgãos da empresa que, de harmonia com o número anterior, forem nomeados em substituição de outros cujo mandato haja cessado antes do seu termo normal manter-se-ão em funções até à data em que terminaria o mandato do substituto.
 
-**O Presidente do Governo Regional, João Rosco Mota Amaral.**
+O Presidente do Governo Regional, João Rosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Abril de 1981.**
+Assinado em Angra do Heroísmo em 20 de Abril de 1981.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

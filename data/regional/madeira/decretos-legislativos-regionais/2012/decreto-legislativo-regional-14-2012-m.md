@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2012/07/09/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2012-179569
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 417a9328e95b469dcac5106b9a7e66e50a87958950d0742aa4800750250f2b30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 532c1a1a0f7867de93667cdeed01dbb1c567bc5508f9dd8be492b6803e648a6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,28 @@ reuse:
 subjects:
 - Criação de Serviços
 - Direcção Regional de Gestão e Desenvolvimento dos Recursos
+- Direcção Regional de Planeamento e Saúde Pública
 - Extinção de Serviços
 - Iasaúde
-- Orgânica
+- Instituto de Administração da Saúde e Assuntos Sociais
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
-- Direcção Regional de Planeamento e Saúde Pública
 - Serviço Regional de Prevenção da Toxicodependência
 - Serviço Regional de Saúde
-- Instituto de Administração da Saúde e Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:257858:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:257858:por
+  label: "Extinta a Comissão Regional de Aplicação de Coimas em Matéria Económica, criada pelo DLR 16/90/M de 06-jun, e integradas\
+    \ as suas atribuições no domínio da publicidade no Serviço de Defesa do Consumidor, no âmbito do Instituto de Administração\
+    \ da Saúde e Assuntos Sociais - IASaúde, IP-RAM - cuja orgânica consta do DLR 22/2008/M de 23-jun, alterado e republicado\
+    \ pelo presente diploma, pelo DLR.6/2013/M.05.02.2013.AL-RAM, DR.IS [25] de 05.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2013-257858
+  date: '2013-02-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/5/2012/01/17/p/dre
   label: null
@@ -118,16 +126,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:287142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:28Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +220,9 @@ Natureza
 
 3 - ...
 
-###### Artigo 3.º — Missão e atribuições
+Artigo 3.º
+
+Missão e atribuições
 
 1 - O IASAÚDE, IP-RAM, tem por missão apoiar a definição das políticas, prioridades e objetivos para o setor da saúde e consumo, na procura de ganhos em saúde e de um elevado nível de proteção dos direitos e interesses dos consumidores, assegurando a melhor articulação entre os diversos serviços e organismos.
 
@@ -232,7 +278,9 @@ x) Promover a resolução extrajudicial de conflitos de consumo, de natureza civ
 
 y) Exercer as funções de autoridade de saúde na Região, nos termos da lei.
 
-###### Artigo 4.º — Órgãos
+Artigo 4.º
+
+Órgãos
 
 São órgãos do IASAÚDE, IP-RAM:
 
@@ -242,7 +290,9 @@ b) (Revogada.)
 
 c) ...
 
-###### Artigo 5.º — O conselho diretivo
+Artigo 5.º
+
+O conselho diretivo
 
 1 - O conselho diretivo do IASAÚDE, IP-RAM, é composto por um presidente, coadjuvado por um vice-presidente e um vogal, nos termos do artigo 19.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, na redação que lhe foi conferida pelo [Decreto-Lei n.º 5/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2012-544395), de 17 de janeiro, equiparados, para todos os efeitos legais, a diretor regional e a subdiretores regionais, cargos de direção superior de 1.º e 2.º graus, respetivamente, a designar por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Assuntos Sociais, na sequência de procedimento concursal.
 
@@ -262,7 +312,9 @@ d) Emitir parecer sobre os orçamentos das instituições e serviços públicos 
 
 5 - O vice-presidente e o vogal exercem as competências que neles forem delegadas ou subdelegadas pelo presidente, com a faculdade de subdelegação.
 
-###### Artigo 6.º — Fiscal único
+Artigo 6.º
+
+Fiscal único
 
 O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e boa gestão financeira e patrimonial do Instituto, sendo designado por despacho dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, nos termos da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, republicada pelo [Decreto-Lei n.º 5/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2012-544395), de 17 de janeiro.»
 
@@ -280,11 +332,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de maio de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 15 de junho de 2012.**
+Assinado em 15 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

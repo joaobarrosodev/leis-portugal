@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1980-678410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a75d39c9091784d755eb5230d6abd6591db624573622055f92d3e04733c639ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e84776a4b4626fbc22b927aa2bc1831266c4907b03a0dfcedec186af46f8b9e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Desalojado
+- FAR
+- GAR
+- Orgânica
+- Sismo
+relationships:
+- type: cites
+  target: pt:dre:692387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692391:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:02Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +105,11 @@ Assim:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São organizados e integrados na Presidência do Governo Regional o Gabinete de Apoio e Reconstrução dos Estragos Derivados da Crise Sísmica de 1980, abreviadamente designado por GAR, e o Fundo de Apoio e Reconstrução dos Estragos Derivados da Crise Sísmica de 1980, abreviadamente designado por FAR.
+Artigo 1.º - 1 - São organizados e integrados na Presidência do Governo Regional o Gabinete de Apoio e Reconstrução dos Estragos Derivados da Crise Sísmica de 1980, abreviadamente designado por GAR, e o Fundo de Apoio e Reconstrução dos Estragos Derivados da Crise Sísmica de 1980, abreviadamente designado por FAR.
 
 2 - O GAR tem sede em Angra do Heroísmo.
 
-###### Art. 2.º São atribuições do GAR:
+Art. 2.º São atribuições do GAR:
 
 a) Representar o Governo Regional perante todas as entidades oficiais e particulares no que se relacione com o auxílio aos sinistrados e com a reconstrução;
 
@@ -113,7 +127,7 @@ g) Manter o Governo informado sobre o evoluir da actividade de apoio e reconstru
 
 h) Manter a população informada, quer através dos meios de comunicação social, quer por outras vias, sobre as medidas tomadas e aquelas que estão em estudo.
 
-###### Art. 3.º - 1 - São atribuições do FAR:
+Art. 3.º - 1 - São atribuições do FAR:
 
 a) Recolher todas as receitas destinadas ao apoio e reconstrução;
 
@@ -123,11 +137,11 @@ c) Manter o GAR e o Governo informados sobre o montante e a discriminação das 
 
 2 - Todas as importâncias em dinheiro provenientes de doação de pessoas singulares ou colectivas, públicas ou privadas, nacionais ou estrangeiras, obtidas espontaneamente ou mediante colectas, peditórios, subscrição e outras quaisquer iniciativas, devem ser entregues ao FAR com a maior brevidade.
 
-###### Art. 4.º O GAR depende directamente do Presidente do Governo Regional, que designará um responsável - o coordenador.
+Art. 4.º O GAR depende directamente do Presidente do Governo Regional, que designará um responsável - o coordenador.
 
-###### Art. 5.º O FAR depende directamente do Presidente do Governo Regional, que designará um responsável pela sua direcção.
+Art. 5.º O FAR depende directamente do Presidente do Governo Regional, que designará um responsável pela sua direcção.
 
-###### Art. 6.º O GAR compreende:
+Art. 6.º O GAR compreende:
 
 a) Gabinete do Coordenador;
 
@@ -141,13 +155,13 @@ e) Serviço de Acção Social (SAS);
 
 f) Serviços de apoio.
 
-###### Art. 7.º O Gabinete do Coordenador é o órgão de apoio directo ao coordenador do GAR e é composto por:
+Art. 7.º O Gabinete do Coordenador é o órgão de apoio directo ao coordenador do GAR e é composto por:
 
 Três adjuntos;
 
 Um secretário particular.
 
-###### Art. 8.º - 1 - São atribuições do Conselho Consultivo:
+Art. 8.º - 1 - São atribuições do Conselho Consultivo:
 
 a) Apoio consultivo permanente na formulação das linhas gerais de acção do GAR;
 
@@ -167,7 +181,7 @@ c) Um Deputado à Assembleia Regional por cada um dos partidos políticos com re
 
 5 - O Conselho Consultivo terá, em princípio, reuniões ordinárias semanais, não podendo o período de tempo que medeia entre as reuniões exceder quinze dias.
 
-###### Art. 9.º São atribuições do SO, designadamente:
+Art. 9.º São atribuições do SO, designadamente:
 
 a) Estudar o problema da habitação temporária e apresentar propostas para a sua solução, assim como informar as propostas que sejam apresentadas por outras entidades;
 
@@ -187,13 +201,13 @@ h) Estudar e propor contratos-programa ou contratos de desenvolvimento com firma
 
 i) Coordenar, de um modo geral, todas as iniciativas e acções, resultantes da crise sísmica, das autarquias locais, bem como de outras entidades relacionadas com os sectores do urbanismo e da habitação nas ilhas sinistradas.
 
-###### Art. 10.º - 1 - O SO é dirigido por um técnico de reconhecida competência, nomeado pelo Presidente do Governo Regional, sob proposta do coordenador do GAR.
+Art. 10.º - 1 - O SO é dirigido por um técnico de reconhecida competência, nomeado pelo Presidente do Governo Regional, sob proposta do coordenador do GAR.
 
 2 - O director do SO será contratado com o vencimento a fixar por despacho do Presidente do Governo Regional, sob proposta do coordenador do GAR.
 
-###### Art. 11.º O SO contará com o apoio técnico e material dos serviços dos diversos departamentos governamentais, designadamente a Secretaria Regional da Educação e Cultura, a Secretaria Regional do Trabalho, a Secretaria Regional dos Assuntos Sociais e a Secretaria Regional do Equipamento Social, o qual será solicitado pelo coordenador do GAR aos respectivos responsáveis.
+Art. 11.º O SO contará com o apoio técnico e material dos serviços dos diversos departamentos governamentais, designadamente a Secretaria Regional da Educação e Cultura, a Secretaria Regional do Trabalho, a Secretaria Regional dos Assuntos Sociais e a Secretaria Regional do Equipamento Social, o qual será solicitado pelo coordenador do GAR aos respectivos responsáveis.
 
-###### Art. 12.º São atribuições do Serviço de Estudos Económicos e Financeiros (SEF), designadamente:
+Art. 12.º São atribuições do Serviço de Estudos Económicos e Financeiros (SEF), designadamente:
 
 a) Elaborar propostas que visem a normalização das actividades económicas das zonas afectadas pelo sismo;
 
@@ -201,9 +215,9 @@ b) Pronunciar-se sobre propostas de finalidade idêntica à da alínea anterior 
 
 c) Pronunciar-se sobre a aplicação das linhas de crédito especiais para o apoio à reconstrução.
 
-###### Art. 13.º O SEF funcionará no Departamento Regional de Estudos e Planeamento dos Açores e será integrado por técnicos das Secretarias Regionais competentes e daquele Departamento.
+Art. 13.º O SEF funcionará no Departamento Regional de Estudos e Planeamento dos Açores e será integrado por técnicos das Secretarias Regionais competentes e daquele Departamento.
 
-###### Art. 14.º São atribuições do Serviço de Acção Social (SAS), designadamente:
+Art. 14.º São atribuições do Serviço de Acção Social (SAS), designadamente:
 
 a) Providenciar pelas condições dos alojamentos de emergência e sua recuperação;
 
@@ -215,9 +229,9 @@ d) Estabelecer os esquemas de distribuição de donativos em espécie às referi
 
 e) Promover a realização dos inquéritos sociais considerados necessários.
 
-###### Art. 15.º O SAS funcionará na Secretaria Regional dos Assuntos Sociais e será integrado por funcionários daquela Secretaria e por pessoal recrutado nos termos deste diploma.
+Art. 15.º O SAS funcionará na Secretaria Regional dos Assuntos Sociais e será integrado por funcionários daquela Secretaria e por pessoal recrutado nos termos deste diploma.
 
-###### Art. 16.º - 1 - Os serviços de apoio são os seguintes:
+Art. 16.º - 1 - Os serviços de apoio são os seguintes:
 
 a) Serviços Administrativos;
 
@@ -227,38 +241,38 @@ c) Serviços de Relações Públicas.
 
 2 - Os serviços de apoio serão organizados por portaria conjunta do Presidente do Governo Regional e dos Secretários Regionais das Finanças e da Administração Pública, sob proposta do coordenador do GAR.
 
-###### Art. 17.º Para os efeitos de coordenação das acções de apoio e reconstrução que, nos termos deste diploma, competem ao GAR, os Secretários Regionais designarão um funcionário devidamente qualificado que os represente permanentemente junto daquele organismo.
+Art. 17.º Para os efeitos de coordenação das acções de apoio e reconstrução que, nos termos deste diploma, competem ao GAR, os Secretários Regionais designarão um funcionário devidamente qualificado que os represente permanentemente junto daquele organismo.
 
-###### Art. 18.º - 1 - As necessidades de reconstrução e de construção de habitação nova provocadas pelo sismo são da responsabilidade do Governo Regional, através do GAR, em íntima cooperação com as autarquias locais, que serão ouvidas sobre as grandes linhas a aprovar e com as quais poderão ser celebrados protocolos sobre assuntos ou casos específicos.
+Art. 18.º - 1 - As necessidades de reconstrução e de construção de habitação nova provocadas pelo sismo são da responsabilidade do Governo Regional, através do GAR, em íntima cooperação com as autarquias locais, que serão ouvidas sobre as grandes linhas a aprovar e com as quais poderão ser celebrados protocolos sobre assuntos ou casos específicos.
 
 2 - O disposto no número anterior não prejudica a competência das autarquias no que se refere à aprovação de planos de urbanização e de projectos de obras.
 
-###### Art. 19.º - As despesas de funcionamento do GAR, as despesas com o apoio aos sinistrados e à reconstrução e as de funcionamento do Gabinete Técnico de Habitação e Urbanização serão suportadas pelo FAR.
+Art. 19.º - As despesas de funcionamento do GAR, as despesas com o apoio aos sinistrados e à reconstrução e as de funcionamento do Gabinete Técnico de Habitação e Urbanização serão suportadas pelo FAR.
 
 2 - Os auxílios financeiros, com a finalidade do número anterior, a conceder eventualmente às autarquias locais, nos termos deste diploma, serão suportados pelo FAR.
 
 3 - O Orçamento Regional concederá ao FAR os subsídios julgados necessários.
 
-###### Art. 20.º - 1 - O pagamento das despesas do GAR será feito sem sujeição ao regime duodecimal, por ordens de pagamento visadas pelo coordenador, nos termos definidos em resolução, e posteriormente remetidas à Delegação da Direcção Regional da Contabilidade Pública em Angra do Heroísmo.
+Art. 20.º - 1 - O pagamento das despesas do GAR será feito sem sujeição ao regime duodecimal, por ordens de pagamento visadas pelo coordenador, nos termos definidos em resolução, e posteriormente remetidas à Delegação da Direcção Regional da Contabilidade Pública em Angra do Heroísmo.
 
 2 - O GAR disporá de um fundo de maneio.
 
-###### Art. 21.º - 1 - Os efectivos de pessoal do GAR variarão conforme as circunstâncias e serão fixados por despacho do Presidente do Governo Regional, sob proposta do coordenador do GAR.
+Art. 21.º - 1 - Os efectivos de pessoal do GAR variarão conforme as circunstâncias e serão fixados por despacho do Presidente do Governo Regional, sob proposta do coordenador do GAR.
 
 2 - As remunerações que não venham fixadas na Lei serão fixadas por despacho do Presidente do Governo Regional, ouvida a Secretaria Regional da Administração Pública e por proposta do coordenador do GAR.
 
-###### Art. 22.º O pessoal do GAR será contratado a prazo, ou destacado ou requisitado aos departamentos centrais e regionais, ou às autarquias locais, ou, ainda, a empresas públicas, nacionalizadas ou privadas.
+Art. 22.º O pessoal do GAR será contratado a prazo, ou destacado ou requisitado aos departamentos centrais e regionais, ou às autarquias locais, ou, ainda, a empresas públicas, nacionalizadas ou privadas.
 
-###### Art. 23.º As dúvidas que surjam na aplicação deste diploma serão resolvidas por despacho conjunto do Presidente do Governo Regional, dos Secretários Regionais das Finanças e da Administração Pública e, se for caso disso, dos Secretários Regionais interessados, ouvido o coordenador do GAR.
+Art. 23.º As dúvidas que surjam na aplicação deste diploma serão resolvidas por despacho conjunto do Presidente do Governo Regional, dos Secretários Regionais das Finanças e da Administração Pública e, se for caso disso, dos Secretários Regionais interessados, ouvido o coordenador do GAR.
 
-###### Art. 24.º Este diploma produz efeitos a partir da data da sua aprovação.
+Art. 24.º Este diploma produz efeitos a partir da data da sua aprovação.
 
 Aprovado pelo Governo Regional em 13 de Fevereiro de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 6 de Março de 1980.**
+Assinado em Angra do Heroísmo em 6 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

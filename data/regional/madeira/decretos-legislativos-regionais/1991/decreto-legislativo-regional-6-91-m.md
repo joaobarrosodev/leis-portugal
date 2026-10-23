@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/1991/03/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1991-475535
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 752b3640c821e4dc42853c83645f73cb9f32880440e493064e0020fbbed80000
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75690dfba28449d33df1e1ce44d6e5f48d675b5c968cba203d708cb9742f4038
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Madeira.região Autónoma
 - Agro-turismo
+- Madeira.região Autónoma
 - Turismo de Habitação
 - Turismo Rural
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:219132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:38Z'
   warnings: []
   errors: []
 ---
@@ -100,17 +108,17 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, da alínea c) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e do artigo 28.º do [Decreto-Lei n.º 256/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1986-219132), de 27 de Agosto, aprova, para valer como lei, o seguinte:
 
-###### Artigo 1.º A actividade, com natureza familiar, que consiste na prestação de hospedagem em casas que sirvam simultaneamente de residência aos seus donos e preencham as condições requeridas no presente diploma pode revestir a forma de turismo de habitação e de turismo rural, com interesse para o turismo.
+Artigo 1.º A actividade, com natureza familiar, que consiste na prestação de hospedagem em casas que sirvam simultaneamente de residência aos seus donos e preencham as condições requeridas no presente diploma pode revestir a forma de turismo de habitação e de turismo rural, com interesse para o turismo.
 
-###### Art. 2.º O turismo de habitação define-se pelo aproveitamento de casas antigas, solares ou residências de reconhecido valor arquitectónico, com dimensões adequadas, mobiliário e decoração de qualidade, que satisfaçam os requisitos exigidos ao abrigo deste diploma.
+Art. 2.º O turismo de habitação define-se pelo aproveitamento de casas antigas, solares ou residências de reconhecido valor arquitectónico, com dimensões adequadas, mobiliário e decoração de qualidade, que satisfaçam os requisitos exigidos ao abrigo deste diploma.
 
-###### Art. 3.º Reveste a forma de turismo rural o exercício da actividade a que se refere o artigo 1.º em casa rústica com características próprias do meio rural em que se insere, situando-se em aglomerado populacional ou não longe dele e satisfazendo os demais condicionalismos aplicáveis.
+Art. 3.º Reveste a forma de turismo rural o exercício da actividade a que se refere o artigo 1.º em casa rústica com características próprias do meio rural em que se insere, situando-se em aglomerado populacional ou não longe dele e satisfazendo os demais condicionalismos aplicáveis.
 
-###### Art. 4.º A Direcção Regional de Turismo manterá um registo regional actualizado das propriedades privadas afectadas à prática de turismo de habitação e de turismo rural.
+Art. 4.º A Direcção Regional de Turismo manterá um registo regional actualizado das propriedades privadas afectadas à prática de turismo de habitação e de turismo rural.
 
-###### Art. 5.º A prévia inscrição no registo na Direcção Regional de Turismo condiciona o uso das designações «turismo de habitação» e «turismo rural».
+Art. 5.º A prévia inscrição no registo na Direcção Regional de Turismo condiciona o uso das designações «turismo de habitação» e «turismo rural».
 
-###### Art. 6.º - 1 - A inscrição de uma propriedade privada nos registos de turismo de habitação e turismo rural deverá ser requerida pelo seu proprietário ou representante à Direcção Regional de Turismo.
+Art. 6.º - 1 - A inscrição de uma propriedade privada nos registos de turismo de habitação e turismo rural deverá ser requerida pelo seu proprietário ou representante à Direcção Regional de Turismo.
 
 2 - A inscrição é gratuita e o seu pedido feito em impresso próprio, fornecido pela Direcção Regional de Turismo.
 
@@ -118,19 +126,19 @@ A Assembleia Legislativa Regional da Madeira, nos termos da alínea b) do n.º 1
 
 4 - A inscrição na categoria correspondente atenderá à natureza da construção do edifício, à integração no meio ambiente, à localização, aos acessos e aos demais requisitos exigíveis.
 
-###### Art. 7.º - 1 - O requerimento, com a documentação que o instrua, será apreciado pelo secretário regional da tutela, podendo ser liminarmente indeferido no prazo de 30 dias se o processo não tiver condições para vir a ser apreciado favoravelmente.
+Art. 7.º - 1 - O requerimento, com a documentação que o instrua, será apreciado pelo secretário regional da tutela, podendo ser liminarmente indeferido no prazo de 30 dias se o processo não tiver condições para vir a ser apreciado favoravelmente.
 
 2 - Nos demais casos, a apreciação do processo prosseguirá com as necessárias vistorias e inspecções ao local, devendo o secretário regional da tutela, no prazo de 60 dias, determinar a inscrição, a rejeição ou, quando for o caso, a comunicação ao requerente das obras e melhoramentos a que a inscrição fica condicionada.
 
-###### Art. 8.º Serão indeferidos os requerimentos em relação aos quais se verifique que a unidade não apresenta interesse turístico ou não satisfaz os requisitos enunciados no presente diploma ou definidos em sua execução.
+Art. 8.º Serão indeferidos os requerimentos em relação aos quais se verifique que a unidade não apresenta interesse turístico ou não satisfaz os requisitos enunciados no presente diploma ou definidos em sua execução.
 
-###### Art. 9.º Do indeferimento cabe sempre recurso para o membro do Governo com tutela sobre o turismo, a interpor no prazo de 30 dias contados da data da comunicação ao requerente.
+Art. 9.º Do indeferimento cabe sempre recurso para o membro do Governo com tutela sobre o turismo, a interpor no prazo de 30 dias contados da data da comunicação ao requerente.
 
-###### Art. 10.º Aos interessados a quem for autorizada a inscrição no registo de turismo de habitação ou turismo rural será entregue certificado que legitima a utilização da designação correspondente e das insígnias que a identifiquem e comunicada a qualificação atribuída.
+Art. 10.º Aos interessados a quem for autorizada a inscrição no registo de turismo de habitação ou turismo rural será entregue certificado que legitima a utilização da designação correspondente e das insígnias que a identifiquem e comunicada a qualificação atribuída.
 
-###### Art. 11.º Os investimentos necessários às obras e melhoramentos de propriedades consideradas pela Direcção Regional de Turismo aptas para inscrição em turismo de habitação ou turismo rural, bem como os relativos à conservação das casas inscritas, poderão ser financiados pelo Fundo de Turismo, de harmonia com as disposições legais que regulam o seu funcionamento.
+Art. 11.º Os investimentos necessários às obras e melhoramentos de propriedades consideradas pela Direcção Regional de Turismo aptas para inscrição em turismo de habitação ou turismo rural, bem como os relativos à conservação das casas inscritas, poderão ser financiados pelo Fundo de Turismo, de harmonia com as disposições legais que regulam o seu funcionamento.
 
-###### Art. 12.º - 1 - A inscrição nos registos de turismo de habitação e turismo rural pode ser cancelada, a pedido do proprietário da unidade ou seu representante, mediante solicitação escrita dirigida à Direcção Regional de Turismo com a antecedência mínima de 90 dias em relação à data em que pretende desistir do exercício da actividade.
+Art. 12.º - 1 - A inscrição nos registos de turismo de habitação e turismo rural pode ser cancelada, a pedido do proprietário da unidade ou seu representante, mediante solicitação escrita dirigida à Direcção Regional de Turismo com a antecedência mínima de 90 dias em relação à data em que pretende desistir do exercício da actividade.
 
 2 - A inscrição pode ser cancelada pelo director regional de turismo quando se verifique alguma das seguintes situações:
 
@@ -144,25 +152,25 @@ c) Falta reiterada de cumprimento das disposições vigentes quanto ao exercíci
 
 4 - Do cancelamento da inscrição, determinado pelo director regional de turismo, cabe recurso para o membro do Governo com tutela sobre o turismo.
 
-###### Art. 13.º Os responsáveis pelas unidades devem prestar à Direcção Regional de Turismo todas as informações atinentes ao exercício da sua actividade turística, nomeadamente as de natureza estatística, que não poderão ser divulgadas de forma individualizada.
+Art. 13.º Os responsáveis pelas unidades devem prestar à Direcção Regional de Turismo todas as informações atinentes ao exercício da sua actividade turística, nomeadamente as de natureza estatística, que não poderão ser divulgadas de forma individualizada.
 
-###### Art. 14.º - 1 - Considera-se dono da casa para os fins previstos no presente diploma o seu proprietário ou representante adequado para manter na vida da unidade nível social e de serviço correspondente.
+Art. 14.º - 1 - Considera-se dono da casa para os fins previstos no presente diploma o seu proprietário ou representante adequado para manter na vida da unidade nível social e de serviço correspondente.
 
 2 - A residência do dono da casa pode ocorrer, em casos aceites pela Direcção Regional de Turismo, em edificação contígua ou muito próxima, desde que permita assegurar a hospitalidade devida.
 
-###### Art. 15.º O dono da casa é responsável pelo rigoroso exercício, por si e pelos familiares e demais pessoal, das normas de acolhimento, conforto e bem-estar que caracterizam a tradicional hospitalidade portuguesa.
+Art. 15.º O dono da casa é responsável pelo rigoroso exercício, por si e pelos familiares e demais pessoal, das normas de acolhimento, conforto e bem-estar que caracterizam a tradicional hospitalidade portuguesa.
 
-###### Art. 16.º A Direcção Regional de Turismo, em colaboração com os proprietários, promoverá um sistema expedito de reservas e informações sobre o alojamento em turismo de habitação e turismo rural.
+Art. 16.º A Direcção Regional de Turismo, em colaboração com os proprietários, promoverá um sistema expedito de reservas e informações sobre o alojamento em turismo de habitação e turismo rural.
 
-###### Art. 17.º - 1 - O dono da casa é responsável pelos objectos de valor que lhe sejam entregues para depósito pelos clientes, podendo transferir essa responsabilidade mediante contrato de seguro.
+Art. 17.º - 1 - O dono da casa é responsável pelos objectos de valor que lhe sejam entregues para depósito pelos clientes, podendo transferir essa responsabilidade mediante contrato de seguro.
 
 2 - O cliente é civilmente responsável pelos prejuízos ou danos que cause à propriedade, seu equipamento, mobiliário e decoração ou à pessoa do dono da casa e seus colaboradores.
 
-###### Art. 18.º - 1 - Para o bom exercício da exploração da unidade, o dono da casa tem o direito de recusar a admissão ou a prestação de serviços quando o julgar conveniente, designadamente nos casos previstos na legislação sobre alojamento turístico.
+Art. 18.º - 1 - Para o bom exercício da exploração da unidade, o dono da casa tem o direito de recusar a admissão ou a prestação de serviços quando o julgar conveniente, designadamente nos casos previstos na legislação sobre alojamento turístico.
 
 2 - Se, pelo seu comportamento, o cliente se torna indesejável, pode o dono da casa compeli-lo a abandonar os quartos, sem efectuar o reembolso dos dias pagos antecipadamente, e ainda recorrer, se necessário, à autoridade policial competente.
 
-###### Art. 19.º - 1 - Em cada quarto deverá existir tabela de preços de todos os serviços prestados.
+Art. 19.º - 1 - Em cada quarto deverá existir tabela de preços de todos os serviços prestados.
 
 2 - Poderá ser exigido pelo dono da casa o pagamento antecipado dos serviços ajustados.
 
@@ -170,7 +178,7 @@ c) Falta reiterada de cumprimento das disposições vigentes quanto ao exercíci
 
 4 - Quando o cliente não pagar a factura dos serviços prestados e para garantir o respectivo pagamento, pode o dono da casa usar o direito de retenção dos bens que o cliente tiver transportado para a propriedade.
 
-###### Art. 20.º - 1 - Os clientes devem pautar o seu comportamento pelas regras gerais de cortesia, urbanidade e decoro, bem como pagar pontualmente as facturas que lhes forem apresentadas pelos serviços prestados.
+Art. 20.º - 1 - Os clientes devem pautar o seu comportamento pelas regras gerais de cortesia, urbanidade e decoro, bem como pagar pontualmente as facturas que lhes forem apresentadas pelos serviços prestados.
 
 2 - Os clientes têm ainda os seguintes deveres:
 
@@ -184,11 +192,11 @@ d) Não fazerem lume ou cozinharem nos quartos;
 
 e) Não excederem a lotação dos quartos, nem alojaram terceiros sem autorização do dono da casa.
 
-###### Art. 21.º - 1 - O dono da casa deve manter um livro de registo de hóspedes actualizado e facultar o livro de reclamações aos clientes que o exigirem, bem como exibi-lo sempre que solicitado pelos serviços de inspecção turística.
+Art. 21.º - 1 - O dono da casa deve manter um livro de registo de hóspedes actualizado e facultar o livro de reclamações aos clientes que o exigirem, bem como exibi-lo sempre que solicitado pelos serviços de inspecção turística.
 
 2 - As reclamações deverão ser tidas em conta pelo dono da casa e, sempre que se justifique ou quando lhe for solicitado, deve o seu conteúdo ser transmitido no prazo de 48 horas à Direcção Regional de Turismo.
 
-###### Art. 22.º - 1 - O licenciamento e fiscalização das unidades afectas ao exercício das actividades turísticas que se contemplam no presente diploma cabe exclusivamente à Direcção Regional de Turismo.
+Art. 22.º - 1 - O licenciamento e fiscalização das unidades afectas ao exercício das actividades turísticas que se contemplam no presente diploma cabe exclusivamente à Direcção Regional de Turismo.
 
 2 - Ao licenciamento das mesmas unidades e, uma vez inscritas no registo correspondente da Direcção Regional de Turismo, à sua fiscalização não se aplica a competência que a lei confere às autoridades administrativas e policiais relativamente ao licenciamento e fiscalização de casas de hóspedes e outras actividades afins.
 
@@ -196,18 +204,18 @@ e) Não excederem a lotação dos quartos, nem alojaram terceiros sem autorizaç
 
 4 - A Direcção Regional de Turismo dará conhecimento à câmara municipal das unidades autorizadas.
 
-###### Art. 23.º Não cabem no âmbito da qualificação e disciplina previstas no presente diploma a mera actividade de exploração de alojamento de hóspedes em casa particular, bem como a locação ou sublocação de quartos.
+Art. 23.º Não cabem no âmbito da qualificação e disciplina previstas no presente diploma a mera actividade de exploração de alojamento de hóspedes em casa particular, bem como a locação ou sublocação de quartos.
 
-###### Art. 24.º Em decreto regulamentar serão fixados os termos de execução do presente diploma, nomeadamente quanto aos meios complementares de acolhimento a contemplar dentro dos conceitos definidos, quanto às características dos empreendimentos, aos elementos a especificar no pedido de inscrição, critérios de apreciação dos pedidos e regras para qualificação das unidades.
+Art. 24.º Em decreto regulamentar serão fixados os termos de execução do presente diploma, nomeadamente quanto aos meios complementares de acolhimento a contemplar dentro dos conceitos definidos, quanto às características dos empreendimentos, aos elementos a especificar no pedido de inscrição, critérios de apreciação dos pedidos e regras para qualificação das unidades.
 
-###### Art. 25.º Em tudo o que for omisso aplicar-se-á, com as necessárias adaptações, a legislação vigente.
+Art. 25.º Em tudo o que for omisso aplicar-se-á, com as necessárias adaptações, a legislação vigente.
 
 Aprovado em sessão plenária em 7 de Fevereiro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 27 de Fevereiro de 1991.**
+Assinado em 27 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

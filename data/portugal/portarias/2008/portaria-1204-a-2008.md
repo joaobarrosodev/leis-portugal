@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 202/2008, 1º Suplemento, Série I de 2008-10-17
   number: '202'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7458-(3) a 7458-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/20201/0000300013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1204-a/2008/10/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1204-a-2008-658629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed7b5c89187ad35dad43bb154c7a5a0e4436695fd6d003de0c1a6df0a0ea980b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8e2393bf0f8628df2259e9f0f526f8fd8d28912a26fe6a0fd26683c2fb27a6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Actividade Artística
 - Arquitectura
-- Financiamento
+- Artes do Espectáculo
+- Autarquia Local
+- Belas-artes
 - Comissão de Acompanhamento
 - Comissão de Análise
-- Ministério da Cultura
 - Direcção Geral das Artes
-- Artes do Espectáculo
-- Belas-artes
+- Financiamento
+- Ministério da Cultura
 - Regulamento
 - Regulamento de Apoio às Artes
-- Actividade Artística
 - Remuneração
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:108301506:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:173721:por
+  label: "Alterados os arts 1.º a 7.º, 10.º, 11.º, 13.º, 15.º a 19.º, 21.º a 23.º do anexo i, os arts. 3.º a 6.º, 8.º, 13.º\
+    \ e 16.º do anexo ii, revogada a al. d) do n.º 4 do art. 7.º do anexo i da presente portaria e republicados os anexos\
+    \ i e ii pela PORT.1189-A/2010.17.11.2010.MC, DR.IS [223-Supl] de 17.11.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1189-a-2010-173721
+  date: '2010-11-17'
+- type: amended_by
+  target: pt:dre:179791:por
+  label: "Alterado o art. 14º do Regulamento aprovado como anexo i, pela PORT.217/2012.19.07.2012.PCM, DR.IS [139] de 19.07.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/217-2012-179791
+  date: '2012-07-19'
+- type: amended_by
+  target: pt:dre:67289911:por
+  label: Alterados o art. 24.º do anexo i e o art. 19.º do anexo ii pelo(a) Portaria n.º 145/2015 - Diário da República n.º
+    100/2015, Série I de 2015-05-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/145-2015-67289911
+  date: '2015-05-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/196/2008/10/06/p/dre
   label: null
@@ -96,16 +115,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/105-a/2007/01/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/105-a/2007/01/22/p/dre
+- type: cites
+  target: pt:dre:449961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546070:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:108301506:por
+  label: Revogado o presente diploma, na redação das Ports 1189-A/2010 de 17-nov, 217/2012 de 19-jul e 145/2015 de 25-mai,
+    pelo(a) Portaria n.º 301/2017 - Diário da República n.º 199/2017, Série I de 2017-10-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/301-2017-108301506
+  date: '2017-10-16'
 article_structure:
   article_count: 46
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:32Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +171,7 @@ Ao abrigo do disposto no n.º 3 do artigo 4.º do [Decreto-Lei n.º 196/2008](ht
 
 4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Cultura, José António de Melo Pinto Ribeiro, em 15 de Outubro de 2008.**
+O Ministro da Cultura, José António de Melo Pinto Ribeiro, em 15 de Outubro de 2008.
 
 ## ANEXO I — REGULAMENTO DAS MODALIDADES DE APOIO DIRECTO ÀS ARTES
 

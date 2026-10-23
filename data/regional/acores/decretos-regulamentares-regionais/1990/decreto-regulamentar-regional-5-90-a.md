@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1990-332936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c01275a512db18c31b8353105c879b1def6510d72206ab69e7e14caa6aa9b320
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd04d6d78347c0812fee5990dabb330f66014d914115d8382c76c2ddfa9645fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Centro de Saúde
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:433413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:194799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547074:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:42Z'
   warnings: []
   errors: []
 ---
@@ -102,46 +125,46 @@ Finalmente, é regulamentada a situação dos funcionários que pertenciam ao qu
 
 Assim, em execução do artigo 31.º do Decreto Regional n.º 32/80/A, de 11 de Dezembro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal dos quadros dos centros de saúde da Região, à excepção do de Ponta Delgada, das categorias de servente, auxiliar de limpeza e empregado diferenciado transita para a categoria de ingresso da carreira de auxiliar de apoio e vigilância.
+Artigo 1.º - 1 - O pessoal dos quadros dos centros de saúde da Região, à excepção do de Ponta Delgada, das categorias de servente, auxiliar de limpeza e empregado diferenciado transita para a categoria de ingresso da carreira de auxiliar de apoio e vigilância.
 
 2 - O pessoal dos quadros referidos no número anterior das categorias de auxiliar de dispensário e empregado auxiliar transita para a categoria de ingresso da carreira de auxiliar de acção médica.
 
-###### Art. 2.º No Centro de Saúde de Ponta Delgada o pessoal do quadro das categorias de servente, auxiliar de dispensário e empregado diferenciado transita para a categoria de ingresso da carreira de auxiliar de apoio e vigilância, permitindo-se, contudo, que, nos casos em que esse pessoal desempenhe funções de operador de lavandaria, ou costureira, transite para a categoria de ingresso destas carreiras.
+Art. 2.º No Centro de Saúde de Ponta Delgada o pessoal do quadro das categorias de servente, auxiliar de dispensário e empregado diferenciado transita para a categoria de ingresso da carreira de auxiliar de apoio e vigilância, permitindo-se, contudo, que, nos casos em que esse pessoal desempenhe funções de operador de lavandaria, ou costureira, transite para a categoria de ingresso destas carreiras.
 
-###### Art. 3.º Os funcionários da categoria de auxiliar de dispensário oriundos do quadro dos extintos Serviços Médico-Sociais de Ponta Delgada e demais serviços enunciados no artigo 13.º do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro, exercendo funções nos concelhos de Vila do Porto, Nordeste, Vila Franca do Campo, Ribeira Grande e Povoação, e para os quais não foram previstos lugares nos respectivos quadros para a integração a que se refere o artigo 79.º do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799) transitam, nos termos do artigo 1.º, n.º 2, deste diploma, para os lugares dos respectivos quadros, na categoria de ingresso da carreira auxiliar de acção médica.
+Art. 3.º Os funcionários da categoria de auxiliar de dispensário oriundos do quadro dos extintos Serviços Médico-Sociais de Ponta Delgada e demais serviços enunciados no artigo 13.º do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro, exercendo funções nos concelhos de Vila do Porto, Nordeste, Vila Franca do Campo, Ribeira Grande e Povoação, e para os quais não foram previstos lugares nos respectivos quadros para a integração a que se refere o artigo 79.º do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799) transitam, nos termos do artigo 1.º, n.º 2, deste diploma, para os lugares dos respectivos quadros, na categoria de ingresso da carreira auxiliar de acção médica.
 
-###### Art. 4.º Com a transição do pessoal operada ao abrigo dos artigos anteriores extinguem-se, correspondentemente, nos respectivos quadros os lugares de servente, auxiliar de limpeza, empregado auxiliar, empregado diferenciado e auxiliar de dispensário.
+Art. 4.º Com a transição do pessoal operada ao abrigo dos artigos anteriores extinguem-se, correspondentemente, nos respectivos quadros os lugares de servente, auxiliar de limpeza, empregado auxiliar, empregado diferenciado e auxiliar de dispensário.
 
-###### Art. 5.º - 1 - Mantém-se em vigor o quadro de pessoal referente à extinta Inspecção de Saúde de Ponta Delgada, na parte referente ao pessoal que desenvolve a sua actividade nas Termas das Furnas, enquanto não for definida a orgânica deste organismo.
+Art. 5.º - 1 - Mantém-se em vigor o quadro de pessoal referente à extinta Inspecção de Saúde de Ponta Delgada, na parte referente ao pessoal que desenvolve a sua actividade nas Termas das Furnas, enquanto não for definida a orgânica deste organismo.
 
 2 - Os encargos com o pessoal a que alude o número anterior mantêm-se na responsabilidade do Centro de Saúde de Ponta Delgada.
 
-###### Art. 6.º Por ter sido incorrectamente publicada a letra M no [Decreto Regulamentar Regional n.º 45/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1988-354151), de 18 de Outubro, referente à parteira do Centro de Saúde de Santa Cruz das Flores, rectifica-se a mesma para a letra L, com efeitos desde a data da publicação daquele diploma.
+Art. 6.º Por ter sido incorrectamente publicada a letra M no [Decreto Regulamentar Regional n.º 45/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/45-1988-354151), de 18 de Outubro, referente à parteira do Centro de Saúde de Santa Cruz das Flores, rectifica-se a mesma para a letra L, com efeitos desde a data da publicação daquele diploma.
 
-###### Art. 7.º São alterados os quadros de pessoal dos Centros de Saúde de Ponta Delgada, Ribeira Grande, Vila Franca do Campo, Angra do Heroísmo, Praia da Vitória, Horta e Santa Cruz das Flores, de acordo, respectivamente, com os mapas n.os 1 e 7 anexos ao presente diploma, do qual fazem parte integrante.
+Art. 7.º São alterados os quadros de pessoal dos Centros de Saúde de Ponta Delgada, Ribeira Grande, Vila Franca do Campo, Angra do Heroísmo, Praia da Vitória, Horta e Santa Cruz das Flores, de acordo, respectivamente, com os mapas n.os 1 e 7 anexos ao presente diploma, do qual fazem parte integrante.
 
-###### Art. 8.º - 1 - É criado um gabinete técnico em cada um dos Centros de Saúde de Ponta Delgada e de Angra do Heroísmo, de apoio aos respectivos conselhos de administração, com competências nas áreas de planeamento, organização, estatística, documentação, formação e assessoria jurídica.
+Art. 8.º - 1 - É criado um gabinete técnico em cada um dos Centros de Saúde de Ponta Delgada e de Angra do Heroísmo, de apoio aos respectivos conselhos de administração, com competências nas áreas de planeamento, organização, estatística, documentação, formação e assessoria jurídica.
 
 2 - Por despacho do conselho de administração será afectado ao gabinete técnico o pessoal necessário ao seu funcionamento.
 
 3 - O gabinete técnico será chefiado por um chefe de divisão.
 
-###### Art. 9.º É criada a Secção de Contabilidade e Tesouraria no Centro de Saúde de Ponta Delgada, directamente dependente do conselho de administração.
+Art. 9.º É criada a Secção de Contabilidade e Tesouraria no Centro de Saúde de Ponta Delgada, directamente dependente do conselho de administração.
 
-###### Art. 10.º - 1 - O director do Centro de Saúde de Ponta Delgada é remunerado com um acréscimo de 30% sobre o seu vencimento base, devendo exercer as suas funções em regime de temo completo prolongado.
+Art. 10.º - 1 - O director do Centro de Saúde de Ponta Delgada é remunerado com um acréscimo de 30% sobre o seu vencimento base, devendo exercer as suas funções em regime de temo completo prolongado.
 
 2 - O disposto no número anterior produz efeitos desde 1 de Outubro de 1989.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de Dezembro de 1989.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 5 de Fevereiro de 1990.**
+Assinado em Angra do Heroísmo em 5 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ANEXOS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/02/04600/07660768.pdf))](https://files.diariodarepublica.pt/1s/1990/02/04600/07660768.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/02/04600/07660768.pdf)

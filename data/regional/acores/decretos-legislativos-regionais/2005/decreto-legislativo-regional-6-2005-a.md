@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2005/05/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2005-693262
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22d87fb720530d721feb6cb40b3a7303839dc0873323ea3dfd3e4ac39cbb8213
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4a1e11cae8c50a9bea6de3b5f87b616c4cd314a24549dd8e3dba3bf989808b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Água
 - ÁGUA Potável
 - Águas Públicas
+- Águas Subterrâneas
 - Aproximação das Legislações
 - Código de BOAS Práticas Agrícolas
-- Multa
 - Comissão de Acompanhamento
-- Governo Regional
-- Recursos Hídricos
 - Definição de Competências
 - Direcção Regional dos Açores
-- Proteção do Ambiente
+- Governo Regional
+- Multa
 - Poluição da água
-- Águas Subterrâneas
-- Açores
+- Proteção do Ambiente
+- Recursos Hídricos
 - ZONA Sensivel
 relationships:
 - type: amended_by
@@ -122,13 +122,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:15Z'
   warnings: []
   errors: []
 ---
@@ -279,13 +279,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, com ex
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de Março de 2005.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 20 de Abril de 2005.**
+Assinado em Angra do Heroísmo em 20 de Abril de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — Critérios de identificação das águas poluídas por nitratos
 

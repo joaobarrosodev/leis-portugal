@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/1998/03/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1998-186556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1c908adf09816c078446d1ae5b4d1ed58d47751ff26138504f57262bcab56e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8077f2627873e7bec0946e1063f514300b6a12daf95a50838380020a305230c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Educação Especial e Reabilitação
-- Secretaria Regional da Educação
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
+- Secretaria Regional da Educação
 relationships:
 - type: amended_by
   target: pt:dre:515267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515267:por
+  label: "Aditados os arts. 2º-A, 20º-A e 31º,alterados os arts. 3º, 27º, 29º e 30º, bem como o quadro de pessoal constante\
+    \ do mapa anexo do DRR 13-A/97/M de 15-Jul DR.IS-B [161]2º Supl, com a redacção do presente diploma, pelo DRR.10/2000/M.2000.02.15.PG-RAM\
+    \ DR.IS-B [68] de 21/Mar/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2000-515267
+  date: '2000-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/13-a/1997/07/15/m/dre
   label: null
@@ -87,16 +94,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:230681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139457:por
+  label: "Rectificado pela DECL-RECT.7-N/98.1998.03.31.PCM, DR.IS-B [76]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-n-1998-139457
+  date: '1998-03-31'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:26Z'
   warnings: []
   errors: []
 ---
@@ -249,11 +273,11 @@ Aprovado em Conselho de Governo Regional em 29 de Janeiro de 1998.
 
 Pelo Presidente do Governo Regional, José Paulo Baptista Fontes, Secretário Regional do Plano e da Coordenação.
 
-**Assinado em 25 de Fevereiro de 1998.**
+Assinado em 25 de Fevereiro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Dinis.
 
 ## ANEXO I — (a que se refere o artigo 2.º)
 

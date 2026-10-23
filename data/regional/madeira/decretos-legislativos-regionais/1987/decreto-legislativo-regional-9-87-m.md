@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1987/11/25400/39313933.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1987-497472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a60fbe4772aff53ad589ffa48b0ed49a9c77680bf9eb23b5b53101832bca105f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30f01d1c7045b963f689251944511aa1d11e1cf8d545da7aa701134c6e68dcfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desporto
+- Equipamento Desportivo
+- Madeira.região Autónoma
+- Violência
 relationships:
 - type: amended_by
   target: pt:dre:241805:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:326309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241805:por
+  label: "Revogado pelo DLR.16/2005/M.20.07.2005.AL-RAM, DR.IS-A [154] de 11.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2005-241805
+  date: '2005-07-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:13Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +119,9 @@ Na sua adaptação tomou-se em consideração que algumas das medidas preconizad
 
 Assim, nos termos da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional da Madeira determina, para valer como lei, o seguinte:
 
-###### Artigo 1.º Com o objectivo de permitir que as manifestações ou realizações desportivas decorram em conformidade com a ética inerente à prática do desporto estabelecem-se, pelo presente diploma, normas de disciplina e ordenamento dentro dos complexos, recintos e áreas de competição.
+Artigo 1.º Com o objectivo de permitir que as manifestações ou realizações desportivas decorram em conformidade com a ética inerente à prática do desporto estabelecem-se, pelo presente diploma, normas de disciplina e ordenamento dentro dos complexos, recintos e áreas de competição.
 
-###### Art. 2.º - 1 - Por complexo desportivo entende-se o conjunto de terrenos, construções e instalações destinado à prática desportiva de uma ou mais modalidades, pertencente ou explorado por uma só entidade, compreendendo os espaços reservados ao público e ao parqueamento de viaturas e os arruamentos, bem como os serviços de dependências anexas necessários ao bom funcionamento do conjunto.
+Art. 2.º - 1 - Por complexo desportivo entende-se o conjunto de terrenos, construções e instalações destinado à prática desportiva de uma ou mais modalidades, pertencente ou explorado por uma só entidade, compreendendo os espaços reservados ao público e ao parqueamento de viaturas e os arruamentos, bem como os serviços de dependências anexas necessários ao bom funcionamento do conjunto.
 
 2 - Consideram-se limite externo do complexo desportivo as vias públicas onde vão dar os seus acessos de serventia exclusiva, sempre que aquele não estiver definido por qualquer vedação.
 
@@ -108,7 +129,7 @@ Assim, nos termos da alínea a) do artigo 229.º da Constituição e da alínea 
 
 4 - Por área de competição entende-se a superfície onde se desenrola a competição, incluindo as zonas de protecção definidas de acordo com os regulamentos internacionais da respectiva modalidade.
 
-###### Art. 3.º - 1 - Por interdição dos recintos desportivos entende-se a proibição de a agremiação desportiva a que sejam imputadas as faltas referidas no número seguinte realizar jogos oficiais na modalidade, escalão etário, categoria e recintos em que as faltas tenham ocorrido.
+Art. 3.º - 1 - Por interdição dos recintos desportivos entende-se a proibição de a agremiação desportiva a que sejam imputadas as faltas referidas no número seguinte realizar jogos oficiais na modalidade, escalão etário, categoria e recintos em que as faltas tenham ocorrido.
 
 2 - A medida de interdição será aplicada nas seguintes circunstâncias:
 
@@ -126,13 +147,13 @@ b) Quando os actos referidos na alínea anterior criem dificuldades ao início o
 
 7 - Instaurado o processo disciplinar referido no número anterior serão os recintos desportivos interditos preventivamente, sendo esta medida sempre levada em conta na sanção que for aplicada à agremiação desportiva.
 
-###### Art. 4.º Decorridos 30 dias após os incidentes sem que haja a conclusão do processo disciplinar e respectivo despacho final fica automaticamente suspensa a pena preventiva de interdição.
+Art. 4.º Decorridos 30 dias após os incidentes sem que haja a conclusão do processo disciplinar e respectivo despacho final fica automaticamente suspensa a pena preventiva de interdição.
 
-###### Art. 5.º - 1 - Em caso de reincidência, à agremiação desportiva será aplicada, além das sanções disciplinares da competência da respectiva associação regional, uma sanção pecuniária de carácter disciplinar, cujo montante variará entre 20000$00 e 500000$00, conforme as circunstâncias, a qual constituirá receita da associação e será inscrita na rubrica «Instalações e apetrechamento».
+Art. 5.º - 1 - Em caso de reincidência, à agremiação desportiva será aplicada, além das sanções disciplinares da competência da respectiva associação regional, uma sanção pecuniária de carácter disciplinar, cujo montante variará entre 20000$00 e 500000$00, conforme as circunstâncias, a qual constituirá receita da associação e será inscrita na rubrica «Instalações e apetrechamento».
 
 2 - Dá-se a reincidência quando na mesma época a agremiação desportiva cometa um facto idêntico àquele que determinou a aplicação da sanção prevista no artigo 3.º do presente diploma, após decisão definitiva sobre a mesma.
 
-###### Art. 6.º - 1 - Em relação a encontros de futebol a agremiação desportiva a que, pela gravidade dos incidentes, vier a ser aplicada a pena de interdição superior a seis jogos terá de disputá-los a uma distância não inferior a 15 km do local da sua sede oficial, nos casos em que lhe competiria realizá-los como visitada.
+Art. 6.º - 1 - Em relação a encontros de futebol a agremiação desportiva a que, pela gravidade dos incidentes, vier a ser aplicada a pena de interdição superior a seis jogos terá de disputá-los a uma distância não inferior a 15 km do local da sua sede oficial, nos casos em que lhe competiria realizá-los como visitada.
 
 2 - Em relação a encontros de outras modalidades e de outros escalões etários, incluindo o futebol, a distância referida no número anterior será reduzida para 5 km.
 
@@ -140,15 +161,15 @@ b) Quando os actos referidos na alínea anterior criem dificuldades ao início o
 
 4 - O excesso de despesas resultantes para a agremiação desportiva adversária deverá ser suportado pela agremiação desportiva sancionada de acordo com a tabela a estabelecer pela respectiva associação regional.
 
-###### Art. 7.º Quando se verifiquem as circunstâncias referidas nos artigos 3.º e 5.º, e tal se torne necessário aos fins de segurança e disciplina visados pelo presente diploma, pode o secretário da tutela do desporto aplicar, a título excepcional, através de despacho, as sanções previstas naqueles artigos.
+Art. 7.º Quando se verifiquem as circunstâncias referidas nos artigos 3.º e 5.º, e tal se torne necessário aos fins de segurança e disciplina visados pelo presente diploma, pode o secretário da tutela do desporto aplicar, a título excepcional, através de despacho, as sanções previstas naqueles artigos.
 
-###### Art. 8.º - 1 - As características a que deverão obedecer as medidas de protecção dos recintos desportivos serão definidas por portaria do secretário regional da tutela do desporto, na qual se levarão em linha de conta as dimensões e distâncias definidas pelos regulamentos internacionais para cada modalidade.
+Art. 8.º - 1 - As características a que deverão obedecer as medidas de protecção dos recintos desportivos serão definidas por portaria do secretário regional da tutela do desporto, na qual se levarão em linha de conta as dimensões e distâncias definidas pelos regulamentos internacionais para cada modalidade.
 
 2 - Na edificação de novos recintos desportivos as respectivas áreas de competição terão obrigatoriamente de possuir as características constantes da portaria referida no número anterior.
 
 3 - As obras de protecção e o acesso aos balneários devem ser construídos, tendo em vista a segurança física dos responsáveis e intervenientes directos no jogo, com materiais que a assegurem eficazmente, isolando-os do contacto com o público.
 
-###### Art. 9.º - 1 - Compete à Direcção Regional dos Desportos:
+Art. 9.º - 1 - Compete à Direcção Regional dos Desportos:
 
 a) Fiscalizar a instalação dos dispositivos de segurança dos recintos desportivos, bem como as alterações a que houver lugar, em consequência da aplicação da pena de interdição;
 
@@ -162,11 +183,11 @@ e) Tomar conhecimento da verificação das ocorrências mencionadas nas alíneas
 
 2 - Para o exercício das competências referidas no n.º 1 a Direcção Regional dos Desportos poderá solicitar a colaboração da Inspecção Regional de Espectáculos, das associações desportivas respectivas ou da Polícia de Segurança Pública.
 
-###### Art. 10.º No prazo de dez dias após a conclusão das obras de instalação dos dispositivos de protecção previstos neste diploma ficam as respectivas associações desportivas obrigadas a solicitar vistoria à Direcção Regional dos Desportos, devendo esta efectuá-la no prazo máximo de oito dias a contar da data de recepção do pedido.
+Art. 10.º No prazo de dez dias após a conclusão das obras de instalação dos dispositivos de protecção previstos neste diploma ficam as respectivas associações desportivas obrigadas a solicitar vistoria à Direcção Regional dos Desportos, devendo esta efectuá-la no prazo máximo de oito dias a contar da data de recepção do pedido.
 
-###### Art. 11.º As associações regionais das modalidades referidas no artigo 15.º devem, no prazo de 60 dias, adequar os respectivos regulamentos disciplinares ao disposto no presente decreto legislativo regional.
+Art. 11.º As associações regionais das modalidades referidas no artigo 15.º devem, no prazo de 60 dias, adequar os respectivos regulamentos disciplinares ao disposto no presente decreto legislativo regional.
 
-###### Art. 12.º Constitui contra-ordenações para efeitos do disposto no presente diploma:
+Art. 12.º Constitui contra-ordenações para efeitos do disposto no presente diploma:
 
 a) A introdução, venda e consumo de bebidas alcoólicas nos recintos desportivos, à excepção daquelas geralmente usadas como refrescos, nomeadamente a cerveja, desde que fornecidas em recipiente plástico;
 
@@ -180,26 +201,26 @@ e) A simples entrada de qualquer pessoa na área de competição durante o decur
 
 f) A utilização nos recintos desportivos de buzinas alimentadas por baterias ou corrente eléctrica de outras origens e de quaisquer instrumentos produtores de ruídos, desde que instalados de forma fixa, com excepção da instalação sonora da agremiação desportiva.
 
-###### Art. 13.º Às contra-ordenações previstas nas alíneas a), b) e c) do artigo anterior corresponderão as coimas de 1000$00, quanto aos espectadores infractores, e de 10000$00, quanto aos proprietários ou concessionários responsáveis pela infracção, e às das alíneas d), e) e f) as coimas de 3000$00, 5000$00 e 1000$00, respectivamente.
+Art. 13.º Às contra-ordenações previstas nas alíneas a), b) e c) do artigo anterior corresponderão as coimas de 1000$00, quanto aos espectadores infractores, e de 10000$00, quanto aos proprietários ou concessionários responsáveis pela infracção, e às das alíneas d), e) e f) as coimas de 3000$00, 5000$00 e 1000$00, respectivamente.
 
-###### Art. 14.º - 1 - O produto das coimas previstas no artigo 13.º reverte para a Região.
+Art. 14.º - 1 - O produto das coimas previstas no artigo 13.º reverte para a Região.
 
 2 - As contra-ordenações e respectivas penalidades previstas neste diploma estão sujeitas ao regime geral do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
 3 - A competência para a organização e instrução dos processos por contra-ordenações cabe à Direcção Regional dos Desportos, competindo ao membro do Governo Regional que tutelar a área do desporto a aplicação das coimas previstas neste diploma.
 
-###### Art. 15.º - 1 - O disposto no presente diploma aplica-se às seguintes modalidades desportivas federadas: andebol, basquetebol, futebol, voleibol e hóquei em patins.
+Art. 15.º - 1 - O disposto no presente diploma aplica-se às seguintes modalidades desportivas federadas: andebol, basquetebol, futebol, voleibol e hóquei em patins.
 
 2 - O disposto no presente decreto legislativo regional poderá ser tornado extensivo a outras modalidades por decreto regulamentar regional.
 
-###### Art. 16.º O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua publicação.
+Art. 16.º O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 29 de Julho de 1987.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 18 de Agosto de 1987.**
+Assinado em 18 de Agosto de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

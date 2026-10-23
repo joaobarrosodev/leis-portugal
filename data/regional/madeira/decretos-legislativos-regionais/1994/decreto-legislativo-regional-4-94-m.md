@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/1994/03/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1994-283323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae22404b7ba19d1de51d80b528e98897e32db3dd2e27cde777566f8f10c4853c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1f3b4b757ff35250f997020954993b6c932042d717519203f59966918e86c84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Multa
 - Contra-ordenação
 - Definição de Competências
 - Direcção Geral do Turismo
 - Direcção Regional de Turismo
 - Direito de Habitação Periódica
 - Férias
-- Madeira.região Autónoma
-- Regime Jurídico
 - Habitação
+- Madeira.região Autónoma
+- Multa
+- Regime Jurídico
 - Secretário Regional do Turismo e Cultura
+- Turismo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/275/1993/08/05/p/dre
@@ -91,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/18/1993/06/14/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/18/1993/06/14/p/dre
+- type: cites
+  target: pt:dre:259058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:00Z'
   warnings: []
   errors: []
 ---
@@ -117,20 +129,20 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição da República e da alínea l) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-###### Artigo 1.º As atribuições e competências conferidas pelo [Decreto-Lei n.º 275/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1993-357148), de 5 de Agosto, ao «membro do Governo com tutela sobre o turismo», à Direcção-Geral do Turismo e ao director-geral do Turismo cabem, na Região Autónoma da Madeira, ao Secretário Regional do Turismo e Cultura, à Direcção Regional do Turismo e ao director regional do Turismo, respectivamente.
+Artigo 1.º As atribuições e competências conferidas pelo [Decreto-Lei n.º 275/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1993-357148), de 5 de Agosto, ao «membro do Governo com tutela sobre o turismo», à Direcção-Geral do Turismo e ao director-geral do Turismo cabem, na Região Autónoma da Madeira, ao Secretário Regional do Turismo e Cultura, à Direcção Regional do Turismo e ao director regional do Turismo, respectivamente.
 
-###### Art. 2.º As importâncias das coimas previstas no diploma referido no artigo anterior reverterão, na totalidade, para os cofres da Região Autónoma da Madeira.
+Art. 2.º As importâncias das coimas previstas no diploma referido no artigo anterior reverterão, na totalidade, para os cofres da Região Autónoma da Madeira.
 
-###### Art. 3.º É revogada a Portaria do Governo Regional n.º 87/92, de 23 de Abril.
+Art. 3.º É revogada a Portaria do Governo Regional n.º 87/92, de 23 de Abril.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 8 de Fevereiro de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 11 de Março de 1994.**
+Assinado em 11 de Março de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

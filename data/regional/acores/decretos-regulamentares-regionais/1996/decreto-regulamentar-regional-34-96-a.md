@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/08/187b00/25082510.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/34/1996/08/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1996-405365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c3558fe79cc25b3ac5c6931ffd7f688c21017634be7c3c50c86d9c37a27cec7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54f54c9a796937dcbe7d3a895d7f40c6f24d06723c129d1a10a8c465600d3239
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ilha do Corvo
-- Estabelecimento de Ensino
-- Ensino Básico
 - Açores
+- Ensino Básico
+- Estabelecimento de Ensino
+- Ilha do Corvo
 relationships:
 - type: amended_by
   target: pt:dre:178832:por
@@ -79,16 +79,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/18/1996/04/12/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/18/1996/04/12/a/dre
+- type: cites
+  target: pt:dre:233694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566242:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636073:por
+  label: "Revogado a partir de 14.07.2007 pelo DRR.14/2007/A.13.07.2007.PG-RAA, DR.IS [134] de 13.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2007-636073
+  date: '2007-07-13'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:41Z'
   warnings: []
   errors: []
 ---
@@ -167,14 +184,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz, Flores, em 20 de Junho de 1996.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 17 de Julho de 1996.**
+Assinado em Angra do Heroísmo em 17 de Julho de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/187b00/25082510.pdf))](https://files.diariodarepublica.pt/1s/1996/08/187b00/25082510.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/187b00/25082510.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/08/187b00/25082510.pdf))](https://files.diariodarepublica.pt/1s/1996/08/187b00/25082510.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/187b00/25082510.pdf)

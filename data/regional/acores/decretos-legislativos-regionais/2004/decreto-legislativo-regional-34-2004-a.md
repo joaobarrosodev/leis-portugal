@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/34/2004/08/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2004-625990
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0310ab1838241962fb5dcc2953dd12eea1baee584c847e174fc14d4a1f8c703c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2002bc91e48cfe70ea113ae5cb15d4833f1052ae8febd1d340386ed637e0cb37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CASA da Natureza
-- Turismo
-- Classificação dos Empreendimentos Turísticos
-- Turismo de Natureza
-- Zona de Proteção
 - Açores
-- Turismo Rural
+- CASA da Natureza
+- Classificação dos Empreendimentos Turísticos
 - Infraestrutura Turística
+- Turismo
+- Turismo de Natureza
+- Turismo Rural
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:542440:por
@@ -87,16 +87,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/56/2002/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/56/2002/03/11/p/dre
+- type: cites
+  target: pt:dre:172103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:589951:por
+  label: "Rectificado pela DECL-RECT.86/2004.28.09.2004.PCM, DR.IS-A [237] de 08.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/86-2004-589951
+  date: '2004-09-28'
+- type: repealed_by
+  target: pt:dre:542440:por
+  label: "Revogado, nos termos do art. 72º, pelo DLR.7/2012/A.01.03.2012.AL-RAA, DR.IS [44] de 01.03.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2012-542440
+  date: '2012-03-01'
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:05Z'
   warnings: []
   errors: []
 ---
@@ -189,7 +211,9 @@ b) Representantes dos órgãos e associações mencionados no n.º 1.
 
 2 - Caso sejam insuficientes os elementos obtidos na vistoria realizada para efeito de emissão da licença de utilização, a direcção regional competente em matéria de turismo deve convocar a comissão a que se reporta a alínea c) do artigo anterior, para realização de nova vistoria.
 
-###### Artigo 9.º — Livro de reclamações
+###### Artigo 9.º
+
+## Livro de reclamações
 
 O modelo do livro de reclamações das casas de natureza é o que se encontre oficialmente aprovado para os empreendimentos de turismo rural, sendo-lhes igualmente aplicáveis as restantes normas regulamentares sobre o livro de reclamações destes empreendimentos.
 
@@ -233,10 +257,10 @@ O Governo Regional, através dos seus departamentos com atribuições em matéri
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 15 de Junho de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 9 de Julho de 2004.**
+Assinado em Angra do Heroísmo em 9 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

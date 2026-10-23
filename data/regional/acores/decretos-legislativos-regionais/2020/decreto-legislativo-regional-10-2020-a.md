@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2020/04/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2020-131246168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ce0e20ad4a3e22a7449e1715e088f0d8da6c40b44efb9a4d16a43671d00c279
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0df5afbd65c9bdf4b7bb563040bfc1216d3ba2eaae966c9a1ddbbe51e1c5ff6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
 - Planeamento Regional
-- Desenvolvimento Económico
 - Plano Regional
-- Açores
 relationships:
 - type: cites
   target: celex:31992R2080
@@ -117,16 +117,136 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/22/2011/10/18/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/22/2011/10/18/a/dre
+- type: cites
+  target: pt:dre:122393535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128355820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66970765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70835506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70867667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70961399:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:32Z'
   warnings: []
   errors: []
 ---
@@ -153,11 +273,11 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de fevereiro de 2020.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 13 de março de 2020.**
+Assinado em Angra do Heroísmo em 13 de março de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -193,15 +313,15 @@ A revisão do Plano 2020, derivada de inclusão de dotação para a recuperaçã
 
 Repartição do Investimento Público por Grandes Objetivos de Desenvolvimento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Investimento Público 2020 - Desagregação por Objetivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Investimento Público 2020 - Desagregação por Entidade Executora
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Quadro Global de Financiamento da Administração Pública Regional
 
@@ -213,7 +333,7 @@ As transferências do Orçamento de Estado, da União Europeia e de outros fundo
 
 O Plano Regional para 2020 prevê uma dotação de 619 milhões de euros, de investimento direto do Governo Regional, num contexto de investimento público previsional de 876,7 milhões de euros.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 IV - Desenvolvimento da Programação
 
@@ -227,7 +347,7 @@ Programa 1 - Empresas, Emprego e Eficiência Administrativa
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -457,7 +577,7 @@ Programa 2 - Agricultura, Florestas e Desenvolvimento Rural
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -633,7 +753,7 @@ Programa 3 - Pescas e Aquicultura
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -767,7 +887,7 @@ Programa 4 - Desenvolvimento do Turismo
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -835,7 +955,7 @@ Programa 5 - Investigação, Desenvolvimento e Inovação
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -909,7 +1029,7 @@ Programa 6 - Educação, Cultura e Desporto
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -1333,7 +1453,7 @@ Programa 7 - Juventude
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -1403,7 +1523,7 @@ Programa 8 - Desenvolvimento do Sistema de Saúde
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -1529,7 +1649,7 @@ Programa 9 - Solidariedade Social
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -1769,7 +1889,7 @@ Programa 10 - Habitação
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -1835,7 +1955,7 @@ Programa 11 - Ambiente e Energia
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -2093,7 +2213,7 @@ Programa 12 - Prevenção de Riscos e Proteção Civil
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -2183,7 +2303,7 @@ Programa 13 - Assuntos do Mar
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -2329,7 +2449,7 @@ Programa 14 - Transportes, Obras Públicas e Infraestruturas Tecnológicas
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -2681,7 +2801,7 @@ Programa 15 - Informação e Comunicação
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -2711,7 +2831,7 @@ Programa 16 - Relações Externas e Comunidades
 
 Programação financeira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Programação material
 
@@ -2817,22 +2937,24 @@ Investimento Público 2020
 
 Desagregação por Objetivo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Investimento Público 2020
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Investimento Público 2020
 
 Desagregação por Entidade Proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
 
 Investimento Público 2020
 
 Desagregação Espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07000/0000500087.pdf)
+
+113123599

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/10/20900/0923709238.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2015/10/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2015-70804096
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0139820e34437f0660383ef4ce0794e5770d2fd7e37d2a4b69bb9f2444db497e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 529d250cb0c61b74173c09abb6dcd92fc929c16e3f9fb5189fce423f57b8b766
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Biotecnologia
-- Investigação Científica e Tecnológica
-- Mar
-- Governo Regional
-- Despesas Públicas
-- Créditos do Estado
-- Contribuições e Impostos
-- Investimento
-- Finanças Regionais
+- Açores
+- Administração Regional
 - Aquicultura
+- Benefícios Fiscais
+- Biotecnologia
+- Contabilidade Pública
+- Contribuições e Impostos
+- Créditos do Estado
+- Despesas Públicas
+- Finanças Regionais
+- Financiamento
+- Governo Regional
+- Investigação Científica e Tecnológica
+- Investimento
+- Investimento Privado
+- Mar
 - Orçamento
 - Orçamento Regional
-- Benefícios Fiscais
-- Investimento Privado
-- Administração Regional
-- Açores
-- Contabilidade Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/1/2015/01/07/a/dre
@@ -101,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/7/2015/03/26/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/7/2015/03/26/a/dre
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66849067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67377973:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:02Z'
   warnings: []
   errors: []
 ---
@@ -155,10 +171,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de setembro de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Pereira Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Pereira Luís.
 
-**Assinado em Angra do Heroísmo em 5 de outubro de 2015.**
+Assinado em Angra do Heroísmo em 5 de outubro de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

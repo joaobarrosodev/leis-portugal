@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 287/1993, 1º Suplemento, Série I-A de 1993-12-10
   number: '287'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6888-(2) a 6888-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1993/12/287a01/00020016.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/1993/12/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1993-305814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 248a65283f8317d4f8a93ae6b2f018304de2e981c42772c68c0cd282ac33cc4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3639d29f2dd2d6aa61671c206e08410a0b1def0bb1989863c79203656d164fa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,8 +65,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orçamento Regional
 - Madeira.região Autónoma
+- Orçamento Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/4/1993/04/26/m/dre
@@ -84,16 +84,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30-c/1992/12/28/p/dre
+- type: cites
+  target: pt:dre:240660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666711:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:51Z'
   warnings: []
   errors: []
 ---
@@ -148,10 +168,10 @@ Este diploma produz efeitos desde 1 de Novembro de 1993.
 
 Aprovado em sessão plenária de 2 de Dezembro de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 9 de Dezembro de 1993.**
+Assinado em 9 de Dezembro de 1993.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/12/287a01/00020016.pdf))](https://files.diariodarepublica.pt/1s/1993/12/287a01/00020016.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/12/287a01/00020016.pdf)

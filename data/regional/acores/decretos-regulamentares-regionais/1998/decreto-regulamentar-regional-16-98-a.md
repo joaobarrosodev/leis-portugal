@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/112b00/22982314.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/1998/05/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1998-522376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 321e596a21616b82c3ce6632ac53f995717b7decf2bdfff92a1e16f55ac11908
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e5b9784f32efbbf947a54e47878946f446e8042431453efef39ef3898c7af9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
+- Direcção Regional do Orçamento e Tesouro
 - Drepa
 - Orgânica
-- Direcção Regional do Orçamento e Tesouro
+- Pessoal Dirigente
 - Pessoal Técnico
 - Quadro de Pessoal
 - Secretaria Regional das Finanças e Planeamento
 - Serviço Regional de Estatística dos Açores
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:625024:por
@@ -119,16 +119,126 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/38/1996/09/25/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/38/1996/09/25/a/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:464427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:495677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620926:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:189091:por
+  label: "Revogado pelo DRR.11/2003/A.2003.01.25.PG-RAA DR.IS-B [41] de 18/Fev/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2003-189091
+  date: '2003-01-25'
+- type: repealed_by
+  target: pt:dre:625024:por
+  label: "Revogado o art. 56º pelo DLR.33/2004/A.12.07.2004.ALR-RAA, DR.IS-A [200] de 25.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/33-2004-625024
+  date: '2004-07-12'
 article_structure:
   article_count: 68
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:57Z'
   warnings: []
   errors: []
 ---
@@ -165,13 +275,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 16 de Janeiro de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Abril de 1998.**
+Assinado em Angra do Heroísmo em 13 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ORGÂNICA DOS SERVIÇOS DEPENDENTES DO SECRETÁRIO REGIONAL DA PRESIDÊNCIA PARA AS FINANÇAS E PLANEAMENTO
 
@@ -179,7 +289,7 @@ ORGÂNICA DOS SERVIÇOS DEPENDENTES DO SECRETÁRIO REGIONAL DA PRESIDÊNCIA PARA
 
 ###### Artigo 1.º — Natureza
 
-**O Secretário Regional da Presidência para as Finanças e Planeamento é o membro do Governo que, através dos respectivos serviços, propõe e executa as políticas do Governo Regional nas seguintes matérias:**
+O Secretário Regional da Presidência para as Finanças e Planeamento é o membro do Governo que, através dos respectivos serviços, propõe e executa as políticas do Governo Regional nas seguintes matérias:
 
 a) Finanças e património;
 
@@ -425,7 +535,9 @@ a) Divisão de Contabilidade Pública Regional (DCPR);
 
 b) Divisão do Orçamento Regional (DOR).
 
-###### Artigo 13.º — Divisão de Contabilidade Pública Regional
+###### Artigo 13.º
+
+##### Divisão de Contabilidade Pública Regional
 
 1 - A DCPR tem as seguintes competências:
 
@@ -455,7 +567,9 @@ g) Organizar os mapas relativos à sua actividade, com vista à elaboração das
 
 h) Fornecer ao CI os elementos necessários à informatização relativa à sua actividade.
 
-###### Artigo 15.º — Divisão do Orçamento Regional
+###### Artigo 15.º
+
+##### Divisão do Orçamento Regional
 
 À DOR compete:
 
@@ -499,7 +613,9 @@ c) Sector de Inventário e Gestão Patrimonial de Imóveis (SIGPI);
 
 d) Sector de Móveis e Semoventes (SMS).
 
-###### Artigo 17.º — Divisão de Inspecção e Gestão Patrimonial
+###### Artigo 17.º
+
+##### Divisão de Inspecção e Gestão Patrimonial
 
 São competências da DIGP:
 
@@ -591,7 +707,7 @@ j) Recolher e conservar todos os estudos, relatórios, projectos e outros docume
 
 a) De apoio instrumental:
 
-#### Secção de Apoio à DREPA, (SA);
+Secção de Apoio à DREPA, (SA);
 
 b) De carácter operativo:
 
@@ -601,9 +717,9 @@ Núcleo de Fundos Comunitários (NFC).
 
 2 - A DSP compreende os seguintes serviços:
 
-##### Divisão de Estudos e Prospectiva (DEP);
+Divisão de Estudos e Prospectiva (DEP);
 
-##### Divisão de Programação e Análise de Projectos (DEPAP);
+Divisão de Programação e Análise de Projectos (DEPAP);
 
 Centro de Documentação e Informação (CDI).
 
@@ -643,7 +759,9 @@ b) Divisão de Programação e Análise de Projectos (DPAP);
 
 c) Centro de Documentação e Informação (CDI).
 
-###### Artigo 26.º — Divisão de Estudos e Prospectiva
+###### Artigo 26.º
+
+##### Divisão de Estudos e Prospectiva
 
 Compete à DEP:
 
@@ -655,7 +773,9 @@ c) Elaborar estudos, análises e projecções das principais variáveis sociais 
 
 d) Manter uma análise permanente da realidade social, económica e financeira da Região, elaborando e divulgando estudos de conjuntura.
 
-###### Artigo 27.º — Divisão de Programação e Análise de Projectos
+###### Artigo 27.º
+
+##### Divisão de Programação e Análise de Projectos
 
 Compete à DPAP:
 
@@ -975,7 +1095,9 @@ a) Divisão de Estatísticas Demográfico-Sociais e Censos (DEDSOC);
 
 b) Divisão de Estatísticas Económicas e Financeiras (DEEF).
 
-###### Artigo 46.º — Divisão de Estatísticas Demográfico-Sociais e Censos
+###### Artigo 46.º
+
+##### Divisão de Estatísticas Demográfico-Sociais e Censos
 
 À DEDSOC compete:
 
@@ -987,7 +1109,9 @@ c) Assegurar o registo de dados em suporte informático e proceder às respectiv
 
 d) Colaborar com o INE na concepção das operações estatísticas de âmbito nacional e apoiar a sua execução, nomeadamente através da distribuição, recolha e crítica dos instrumentos de notação, e participar no tratamento da informação que diga respeito ao sector demográfico-social.
 
-###### Artigo 47.º — Divisão de Estatísticas Económicas e Financeiras
+###### Artigo 47.º
+
+##### Divisão de Estatísticas Económicas e Financeiras
 
 À DEEF compete:
 

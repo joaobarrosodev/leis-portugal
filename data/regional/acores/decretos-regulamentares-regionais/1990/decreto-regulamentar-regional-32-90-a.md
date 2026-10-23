@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/10/23400/42014202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1990-556062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7314d9bf9ef8ae70e75dc47496a45378d7fe4e13c69dff5610ca6206a771884c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c18e556f25aa82dd8ebb9b6081456e024a71323e2a19d3a5f9aec6dc0fc836af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Gabinete de Imprensa
+- Gabinete Técnico
+- Integração de Trabalhadores
+- Orgânica
+- Presidência do Governo Regional
+- Proteção Civil
+- Quadro de Pessoal
+- Secretaria Geral
+- Serviço Regional de Protecção Civil dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:645762:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:177674:por
+  label: "Alterado, no referente ao pessoal de informática, o quadro de pessoal anexo pelo DRR.13/92/A.23.03.1992.GR-RAA,\
+    \ DR.IS-B [69] de 23.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1992-177674
+  date: '1992-03-23'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499004:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:645762:por
+  label: "Revogado pelo DRR.24/2003/A.2003.07.14.SRHE-RAA, DR.IS-B [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2003-645762
+  date: '2003-07-14'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:41Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +124,7 @@ Considerando, por último, que importa adequar a orgânica do SRPCA, aprovada pe
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 22.º, 23.º, 24.º e 25.º do [Decreto Regulamentar Regional n.º 33/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1987-499004), de 24 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 22.º, 23.º, 24.º e 25.º do [Decreto Regulamentar Regional n.º 33/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1987-499004), de 24 de Novembro, passam a ter a seguinte redacção:
 
 ###### Artigo 22.º — Delegado de protecção civil
 
@@ -131,32 +160,32 @@ O recrutamento e provimento do pessoal dirigente faz-se de acordo com a legisla�
 
 3 - O recrutamento para o provimento dos lugares far-se-á de entre os indivíduos com experiência comprovada no campo da protecção civil.
 
-###### Art. 2.º - 1 - O recrutamento para a carreira de operador de emergência far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade aprovados nos cursos de socorrismo elementar, básico, reanimação, monitor e curso de adaptação a ambulâncias, com o mínimo de duas reciclagens como monitor e três anos de experiência nestas áreas.
+Art. 2.º - 1 - O recrutamento para a carreira de operador de emergência far-se-á de entre indivíduos habilitados com o 9.º ano de escolaridade aprovados nos cursos de socorrismo elementar, básico, reanimação, monitor e curso de adaptação a ambulâncias, com o mínimo de duas reciclagens como monitor e três anos de experiência nestas áreas.
 
 2 - Compete ao operador de emergência o estudo e execução de tarefas relacionadas com a área de emergência, inventariação de meios de saúde e logística, acção de estruturação e formação das unidades de socorro e apoio à Divisão de Formação, Estudos e Investigação do SRPCA.
 
-###### Art. 3.º Para efeitos de ingresso na carreira de técnico auxiliar de relações públicas, considera-se equiparado ao curso de formação profissional previsto na alínea b) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, o 11.º ano de escolaridade, área D, Administração Pública.
+Art. 3.º Para efeitos de ingresso na carreira de técnico auxiliar de relações públicas, considera-se equiparado ao curso de formação profissional previsto na alínea b) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, o 11.º ano de escolaridade, área D, Administração Pública.
 
-###### Art. 4.º - 1 - O operador de telecomunicações principal do quadro de pessoal da Secretaria-Geral e do Gabinete Técnico da Presidência do Governo Regional dos Açores, Delegação do Gabinete de Imprensa em Angra do Heroísmo, transita para o quadro de pessoal do SRPCA.
+Art. 4.º - 1 - O operador de telecomunicações principal do quadro de pessoal da Secretaria-Geral e do Gabinete Técnico da Presidência do Governo Regional dos Açores, Delegação do Gabinete de Imprensa em Angra do Heroísmo, transita para o quadro de pessoal do SRPCA.
 
 2 - A transição mencionada no número anterior faz-se integrando o operador de telecomunicações principal em lugar da categoria correspondente às funções que exerce, ou seja, operador de emergência de 2.ª classe.
 
 3 - O tempo prestado na categoria actual releva para efeitos de progressão na carreira de operador de emergência.
 
-###### Art. 5.º O quadro de pessoal a que se refere o artigo 23.º do [Decreto Regulamentar Regional n.º 33/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1987-499004), de 24 de Novembro, é substituído nos termos do quadro anexo ao presente diploma, do qual faz parte integrante.
+Art. 5.º O quadro de pessoal a que se refere o artigo 23.º do [Decreto Regulamentar Regional n.º 33/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1987-499004), de 24 de Novembro, é substituído nos termos do quadro anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 6.º O presente diploma entra em vigor na data da sua publicação.
+Art. 6.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional em Ponta Delgada em 1 de Agosto de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 18 de Setembro de 1990.**
+Assinado em Angra do Heroísmo em 18 de Setembro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## Anexo — Quadro de pessoal a que se refere o artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/23400/42014202.pdf))](https://files.diariodarepublica.pt/1s/1990/10/23400/42014202.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/10/23400/42014202.pdf)

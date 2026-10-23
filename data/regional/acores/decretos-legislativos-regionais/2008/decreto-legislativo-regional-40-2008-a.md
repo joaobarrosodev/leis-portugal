@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/16300/0589805905.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/40/2008/08/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2008-453565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3fe70b3d10609f066113b4813b450e88fcfbd9831a432911fb4be8c2d2825de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96a4e63d15d01a6077a96c442cc2113b85d7599b933f3afbdea6cf7bea617628
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,33 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gestão de Resíduos
+- Açores
 - Cerveja
-- Ecocerv
-- Multa
+- Comissão para a Implementação do Mercado Regional de Resíduos
 - Contra-ordenação
 - Criação de Serviços
 - Definição de Competências
+- Ecocerv
+- Embalagem
+- Entidade Reguladora dos Serviços de Resíduos da Região Autónoma dos Açores
 - Fiscalização
 - Fundo Regional para o Ambiente dos Açores
-- Comissão para a Implementação do Mercado Regional de Resíduos
-- Sistema Regional de Informação sobre Resíduos
+- Gestão de Resíduos
 - IABA
 - Imposto sobre o Álcool Etílico e as Bebidas Alcoólicas
-- Embalagem
-- Resíduo
-- Proteção do Ambiente
-- Tratamento de Resíduos
+- Multa
 - Política do Ambiente
+- Proteção do Ambiente
 - Regime Jurídico
-- Entidade Reguladora dos Serviços de Resíduos da Região Autónoma dos Açores
-- Açores
+- Resíduo
+- Sistema Regional de Informação sobre Resíduos
 - Taxa
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:146215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306589:por
+  label: "Alterados os arts. 6º, 7º e 8º (este último na redacção da Decl Rect 65/2008, de 24-Out) do presente diploma, pelo\
+    \ DLR.34/2010/A.29.12.2010.AL-RAA, DR.IS [251] de 29.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/34-2010-306589
+  date: '2010-12-29'
+- type: amended_by
+  target: pt:dre:146215:por
+  label: "Extinto o Fundo Regional para o Ambiente (transitando os seus activos e passivos para a ERSARA) e revogado, a partir\
+    \ de 30.12.2011, o presente diploma, na redacção do DLR 25/2009/A, de 30-Dez, DLR 19/2010/A, de 25-Maio, e DLR 34/2010,\
+    \ de 29-Dez, pelo DLR.29/2011/A.16.11.2011.AL-RAA, DR.IS [220] de 16.11.2011, mantendo-se em aplicação os seus art.s 6º\
+    \ a 9º (na redacção dada pelo art. 25º do DLR 34/2020/A, de 29-Dez) até à entrada em vigor da portaria a que se refere\
+    \ o nº 1 do art. 196º do diploma modificante.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2011-146215
+  date: '2011-11-16'
 - type: cites
   target: celex:31991L0689
   label: null
@@ -101,16 +116,34 @@ relationships:
   target: celex:32006L0012
   label: null
   source: http://data.europa.eu/eli/dir/2006/12/oj
+- type: corrected_by
+  target: pt:dre:438716:por
+  label: "Rectificado pela DECL-RECT.65/2008.24.10.2008.PCM, DR.IS [207] de 24.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/65-2008-438716
+  date: '2008-10-24'
+- type: repealed_by
+  target: pt:dre:482136:por
+  label: "Revogada, com efeitos a 01.01.2010, e na parte em que consigna ao Fundo Regional para o Ambiente dos Açores o produto\
+    \ da taxa ECOCERV, que passa assim a constituir na sua totalidade receita da Região Autónoma dos Açores, a al. b) do nº1\
+    \ do art. 16º do presente diploma, pelo DLR.25/2009/A.30.12.2009.AL-RAA, DR.IS [251] de 30.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-2009-482136
+  date: '2009-12-30'
+- type: repealed_by
+  target: pt:dre:332688:por
+  label: "Revogados, a partir de 01.06.2010, os arts. 22º e 23º pelo DLR.19/2010/A.25.05.2010.AL-RAA, DR.IS [101] de 25.05.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2010-332688
+  date: '2010-05-25'
 article_structure:
   article_count: 33
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:54Z'
   warnings: []
   errors: []
 ---
@@ -545,8 +578,8 @@ Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 
 O Vice-Presidente da Assembleia Legislativa, em exercício, Jorge Alberto da Costa Pereira.
 
-**Assinado em Angra do Heroísmo em 31 de Julho de 2008.**
+Assinado em Angra do Heroísmo em 31 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

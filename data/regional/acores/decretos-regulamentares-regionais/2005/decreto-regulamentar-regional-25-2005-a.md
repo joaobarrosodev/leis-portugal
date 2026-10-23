@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/2005/12/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2005-489539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7084d4e2a09c88106c60a03aef9e75861c2fd30202eac5388a85327115e690f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0591c63b957807611b87922207b59f7e57caf61358359c4be0028dc289b8065
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Secretaria Regional da Economia
+- Açores
+- Apoio ao Investimento
 - Desenvolvimento Regional
 - Direcção Regional de Apoio à Coesão Económica
 - Direcção Regional de Turismo
-- Apoio ao Investimento
-- Projeto de Investimento
 - Incentivos ao Desenvolvimento
-- Regulamento
-- Sider
-- Açores
-- Sidet
 - Infraestrutura Turística
+- Projeto de Investimento
+- Regulamento
+- Secretaria Regional da Economia
+- Sider
+- Sidet
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:636761:por
@@ -124,16 +124,70 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/4/2001/06/06/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/4/2001/06/06/a/dre
+- type: cites
+  target: pt:dre:138794:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634147:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636761:por
+  label: "Revogado a partir de 24.07.2007 pelo DLR.19/2007/A.23.07.2007.AL-RAA, DR.IS [140] de 23.07.2007, sem prejuízo do\
+    \ disposto no nº 1 do art. 38º daquele diploma \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2007-636761
+  date: '2007-07-23'
 article_structure:
-  article_count: 34
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:06Z'
   warnings: []
   errors: []
 ---
@@ -206,7 +260,9 @@ m) Estabelecimentos de restauração e de bebidas, desde que previamente reconhe
 
 5 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 ...
 
@@ -214,7 +270,9 @@ a) Nos casos de programas e acções de promoção turística e acções de anim
 
 b) [Anterior alínea d).]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +292,9 @@ b) [Anterior alínea d).]
 
 9 - (Anterior n.º 10.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Os projectos considerados elegíveis, com excepção dos referidos no n.º 4, serão hierarquizados com base na pontuação final obtida e, em caso de igualdade, em função da antiguidade da candidatura, sendo seleccionados, para efeitos de concessão de apoio financeiro, até aos limites orçamentais que vierem a ser definidos anualmente por resolução do Conselho do Governo.
 
@@ -244,7 +304,9 @@ b) [Anterior alínea d).]
 
 4 - Aos projectos de investimento localizados nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo não se aplica o disposto nos números anteriores.
 
-###### Artigo 11.º — Natureza e montante do incentivo
+Artigo 11.º
+
+Natureza e montante do incentivo
 
 1 - ...
 
@@ -260,11 +322,15 @@ b) Superior a (euro) 250000, subsídios não reembolsável, até ao montante de 
 
 5 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 As entidades responsáveis pela gestão do SIDET são a Direcção Regional do Turismo e a Direcção Regional de Apoio à Coesão Económica, doravante referidas como organismo gestor, a comissão de selecção e o conselho regional de incentivos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -272,7 +338,9 @@ As entidades responsáveis pela gestão do SIDET são a Direcção Regional do T
 
 3 - Aos projectos de investimento localizados nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo não se aplica o disposto no número anterior.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -292,7 +360,9 @@ e) ...
 
 4 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -306,7 +376,9 @@ e) ...
 
 6 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -386,7 +458,9 @@ Não - 0.
 
 ...
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1.º
 
@@ -442,9 +516,13 @@ Hotel de 4 estrelas, hotel-apartamento de 4 estrelas, nas ilhas de São Miguel, 
 
 Outros - 0%.
 
-## ANEXO IV — [...]
+ANEXO IV
 
-###### Artigo 5.º — [...]
+[...]
+
+Artigo 5.º
+
+[...]
 
 A pontuação do critério D será atribuída do seguinte modo:
 
@@ -462,37 +540,47 @@ c) Na alínea b) do n.º 4 e no n.º 5 do artigo 3.º, no n.º 3 do artigo 6.º 
 
 d) Na alínea a) do n.º 1 do artigo 8.º, «Direcção Regional da Cultura» passa a ler-se «departamento do Governo Regional com competência em matéria de cultura».
 
-###### Artigo 2.º — Norma revogatória
+Artigo 2.º
+
+Norma revogatória
 
 São revogados a alínea c) do artigo 4.º, o n.º 9 do artigo 5.º, o n.º 2 do artigo 6.º e o n.º 5 do artigo 9.º do [Decreto Regulamentar Regional n.º 4/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2001-321891), de 6 de Junho, na redacção conferida pelo [Decreto Regulamentar Regional n.º 27/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2004-527199), de 15 de Julho.
 
-###### Artigo 3.º — Republicação
+Artigo 3.º
+
+Republicação
 
 O [Decreto Regulamentar Regional n.º 4/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2001-321891), de 6 de Junho, na redacção conferida pelo [Decreto Regulamentar Regional n.º 27/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2004-527199), de 15 de Julho, e com as alterações que lhe foram ora introduzidas, é renumerado e republicado em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia útil seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 26 de Outubro de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 16 de Novembro de 2005.**
+Assinado em Angra do Heroísmo em 16 de Novembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
-## ANEXO
+ANEXO
 
 REGULAMENTO DO SUBSISTEMA PARA O DESENVOLVIMENTO DO TURISMO (SIDET) DO SISTEMA DE INCENTIVOS PARA O DESENVOLVIMENTO REGIONAL DOS AÇORES (SIDER).
 
-###### Artigo 1.º — Objecto
+Artigo 1.º
+
+Objecto
 
 O presente diploma regulamenta o Subsistema para o Desenvolvimento do Turismo (SIDET), previsto na alínea a) do n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 26/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2000-339848), de 10 de Agosto.
 
-###### Artigo 2.º — Definições
+Artigo 2.º
+
+Definições
 
 Para efeitos do presente diploma, entende-se por:
 
@@ -510,7 +598,9 @@ f) «Período de afectação do projecto» o que medeia entre o encerramento do 
 
 g) «Habilitação adequada» a condição atribuída aos titulares de grau académico de ensino superior, de carteiras profissionais emitidas ao abrigo do [Decreto-Lei n.º 358/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/358-1984-400813), de 13 de Novembro, de certificados de aptidão profissional obtidos por qualquer das vias estabelecidas no [Decreto-Lei n.º 95/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-1992-523412), de 23 de Maio, de certificados de cursos de aprendizagem emitidos nos termos do [Decreto-Lei n.º 205/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1996-226416), de 25 de Outubro, de certificados dos cursos técnico-profissionais no âmbito de ensino não superior, designadamente os ministrados pelas escolas profissionais nos termos do [Decreto-Lei n.º 4/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1998-224851), de 8 de Janeiro, diploma adaptado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 30/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2000-340616), de 11 de Agosto, ou os detentores da necessária credenciação para o exercício da actividade, desde que tais activos exerçam efectivamente funções nos empreendimentos candidatados ao SIDET.
 
-###### Artigo 3.º — Âmbito
+Artigo 3.º
+
+Âmbito
 
 1 - São susceptíveis de apoio no âmbito do SIDET os projectos de investimento que se enquadrem, de acordo com a sua natureza, nas seguintes modalidades:
 
@@ -560,7 +650,9 @@ b) Os projectos de instalação e ampliação dos empreendimentos não contempla
 
 5 - Os projectos de investimento em instalações e equipamentos de animação turística incluídos nas áreas de actividade referidas na alínea a) do n.º 1 podem ser objecto de apoio desde que sejam reconhecidos de interesse para o desenvolvimento e consolidação da oferta turística regional pelo departamento do Governo Regional com competência em matéria de turismo.
 
-###### Artigo 4.º — Promotores
+Artigo 4.º
+
+Promotores
 
 Podem beneficiar dos incentivos previstos neste diploma:
 
@@ -570,7 +662,9 @@ b) Nos casos de programas e acções de promoção turística e acções de anim
 
 c) No caso dos projectos a que se refere a alínea d) do n.º 1 do artigo 3.º, empresários em nome individual, sociedades comerciais, cooperativas e estabelecimentos individuais de responsabilidade limitada, desde que apenas promovidos por pequenas e médias empresas ou entidades juridicamente constituídas por pequenas e médias empresas.
 
-###### Artigo 5.º — Condições de acesso dos promotores
+Artigo 5.º
+
+Condições de acesso dos promotores
 
 1 - Para além das condições de acesso previstas no artigo 7.º do [Decreto Legislativo Regional n.º 26/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2000-339848), de 10 de Agosto, os promotores devem:
 
@@ -604,7 +698,9 @@ iii) Não se tiver verificado, durante os últimos 12 meses, a perda de mais de 
 
 iv) Não se tiver verificado a perda de mais de metade do respectivo capital.
 
-###### Artigo 6.º — Condições de acesso dos projectos
+Artigo 6.º
+
+Condições de acesso dos projectos
 
 1 - Os projectos candidatos ao SIDET, para além das condições previstas no artigo 8.º do [Decreto Legislativo Regional n.º 26/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2000-339848), de 10 de Agosto, devem:
 
@@ -630,11 +726,15 @@ h) Os projectos a que se refere a alínea d) do n.º 1 do artigo 3.º devem aind
 
 4 - No encerramento dos projectos deverá exigir-se que a unidade se encontre licenciada, incluindo a verificação de que foram obtidas as licenças ambientais legalmente exigidas.
 
-###### Artigo 7.º — Limites de investimento
+Artigo 7.º
+
+Limites de investimento
 
 O limite superior dos investimentos a que se refere o n.º 2 do artigo 4.º do [Decreto Legislativo Regional n.º 26/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2000-339848), de 10 de Agosto, é de (euro) 1000000, sendo de (euro) 50000 no caso dos investimentos a que se refere a alínea d) do n.º 1 do artigo 3.º
 
-###### Artigo 8.º — Despesas elegíveis
+Artigo 8.º
+
+Despesas elegíveis
 
 1 - Constituem despesas elegíveis no âmbito de projectos integrados na alínea a) do n.º 1 do artigo 3.º:
 
@@ -704,7 +804,9 @@ c) Embarcações ou outros meios de transporte usados, salvo em casos devidament
 
 d) Bens que se destinem unicamente a substituição ou reposição.
 
-###### Artigo 9.º — Critérios de elegibilidade dos projectos
+Artigo 9.º
+
+Critérios de elegibilidade dos projectos
 
 1 - Aos projectos abrangidos pela alínea a) do n.º 1 do artigo 3.º do presente diploma será atribuída uma classificação em função da respectiva valia económica (VE), calculada de acordo com os critérios estabelecidos no anexo I.
 
@@ -714,7 +816,9 @@ d) Bens que se destinem unicamente a substituição ou reposição.
 
 4 - Os projectos serão considerados elegíveis se obtiverem uma pontuação final igual ou superior a 50 pontos.
 
-###### Artigo 10.º — Selecção de projectos elegíveis
+Artigo 10.º
+
+Selecção de projectos elegíveis
 
 1 - Os projectos considerados elegíveis, com excepção dos referidos no n.º 4, serão hierarquizados com base na pontuação final obtida e, em caso de igualdade, em função da antiguidade da candidatura, sendo seleccionados, para efeitos de concessão de apoio financeiro, até aos limites orçamentais que vierem a ser definidos anualmente por resolução do Conselho do Governo.
 
@@ -724,7 +828,9 @@ d) Bens que se destinem unicamente a substituição ou reposição.
 
 4 - Aos projectos de investimento localizados nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo não se aplica o disposto nos números anteriores.
 
-###### Artigo 11.º — Natureza e montante do incentivo
+Artigo 11.º
+
+Natureza e montante do incentivo
 
 1 - O incentivo a conceder aos projectos da alínea a) do n.º 1 do artigo 3.º reveste a forma de subsídio não reembolsável ou parcialmente reembolsável à taxa de juro zero, sendo determinado de acordo com os seguintes intervalos de variação do valor do investimento:
 
@@ -740,11 +846,15 @@ b) Superior a (euro) 250000, subsídios não reembolsável, até ao montante de 
 
 5 - As acções previstas nos n.os 2 e 3 apenas serão apoiadas no caso de envolverem actividade do tipo não periódico ou contínuo.
 
-###### Artigo 12.º — Entidades gestoras
+Artigo 12.º
+
+Entidades gestoras
 
 As entidades responsáveis pela gestão do SIDET são a Direcção Regional do Turismo e a Direcção Regional de Apoio à Coesão Económica, doravante referidas como organismo gestor, a comissão de selecção e o conselho regional de incentivos.
 
-###### Artigo 13.º — Apresentação das candidaturas
+Artigo 13.º
+
+Apresentação das candidaturas
 
 1 - As candidaturas devem ser entregues no organismo gestor, devidamente instruídas de acordo com um formulário homologado pelo membro do Governo Regional com competência em matéria de turismo.
 
@@ -752,7 +862,9 @@ As entidades responsáveis pela gestão do SIDET são a Direcção Regional do T
 
 3 - Aos projectos de investimento localizados nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo não se aplica o disposto no número anterior.
 
-###### Artigo 14.º — Competências do organismo gestor
+Artigo 14.º
+
+Competências do organismo gestor
 
 1 - Ao organismo gestor compete, relativamente aos projectos a que se refere a alínea a) do n.º 1 do artigo 3.º:
 
@@ -794,7 +906,9 @@ c) Apresentar ao membro do Governo Regional com competência em matéria de turi
 
 4 - O prazo previsto na alínea g) do n.º 1 e na alínea c) do n.º 2 suspende-se sempre que, nos termos do número anterior, sejam solicitados esclarecimentos complementares ao promotor ou a outras entidades da administração pública regional.
 
-###### Artigo 15.º — Comissão de selecção
+Artigo 15.º
+
+Comissão de selecção
 
 1 - À comissão de selecção compete:
 
@@ -824,13 +938,17 @@ e) Outros representantes de departamentos da administração pública regional, 
 
 4 - Cabe ao membro do Governo Regional com competência em matéria de turismo definir, por despacho normativo, as condições de funcionamento da comissão de selecção.
 
-###### Artigo 16.º — Formalização da concessão de incentivos
+Artigo 16.º
+
+Formalização da concessão de incentivos
 
 1 - A concessão de incentivos será formalizada mediante contrato celebrado entre o departamento do Governo Regional com competência em matéria de turismo e o promotor, nos termos do artigo 16.º do [Decreto Legislativo Regional n.º 26/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2000-339848), de 10 de Agosto, no prazo máximo de 30 dias úteis contados da data da notificação da decisão.
 
 2 - A não celebração do contrato por razões imputáveis às entidades beneficiárias no prazo de 40 dias úteis contado da data de notificação da decisão de aprovação determina a caducidade da decisão de concessão de incentivo.
 
-###### Artigo 17.º — Pagamento de incentivos
+Artigo 17.º
+
+Pagamento de incentivos
 
 1 - Os promotores de candidaturas aprovados pelo SIDET, após a assinatura do contrato de concessão de incentivos, devem enviar pedidos de pagamento ao organismo gestor, no máximo de quatro, apresentando para o efeito os originais das facturas e dos recibos justificativos dos pagamentos, devidamente classificados em função do projecto, e os comprovativos do seu registo contabilístico, acompanhados de um relatório de execução do projecto, elaborado por um técnico oficial de contas, que ateste que o investimento correspondente se encontra realizado e que os objectivos foram atingidos pelo promotor, nos termos constantes da candidatura.
 
@@ -844,13 +962,17 @@ e) Outros representantes de departamentos da administração pública regional, 
 
 6 - O valor do investimento correspondente ao último pedido de pagamento não poderá ser inferior a 20% do investimento elegível do projecto.
 
-###### Artigo 18.º — Reembolsos
+Artigo 18.º
+
+Reembolsos
 
 1 - O prazo de reembolso dos empréstimos é de 12 anos, dos quais os 4 primeiros são de carência de capital.
 
 2 - Em casos excepcionais e devidamente fundamentados, o membro do Governo Regional com competência em matéria de turismo pode prorrogar até dois anos o prazo estabelecido no número anterior, com excepção do período de carência.
 
-###### Artigo 19.º — Obrigações dos promotores
+Artigo 19.º
+
+Obrigações dos promotores
 
 1 - Os promotores ficam sujeitos, para além das obrigações decorrentes do [Decreto Legislativo Regional n.º 26/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2000-339848), de 10 de Agosto, às seguintes:
 
@@ -880,11 +1002,15 @@ l) Cumprir pontualmente o plano de reembolso contratado;
 
 m) Publicitar os apoios recebidos nos termos regulamentares.
 
-###### Artigo 20.º — Disposições transitórias
+Artigo 20.º
+
+Disposições transitórias
 
 As candidaturas apresentadas no âmbito do SITRAA - Sistema de Incentivos ao Turismo na Região Autónoma dos Açores, criado pelo [Decreto Legislativo Regional n.º 8/96/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1996-435051), de 14 de Junho, que se encontram abrangidas pelo disposto no n.º 3 do artigo 22.º do [Decreto Legislativo Regional n.º 26/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2000-339848), de 10 de Agosto, transitam para o SIDET, para efeitos de cobertura orçamental.
 
-## ANEXO I — Metodologia para a determinação da pontuação dos projectos a que se refere a alínea a) do n.º 1 do artigo 3.º
+ANEXO I
+
+Metodologia para a determinação da pontuação dos projectos a que se refere a alínea a) do n.º 1 do artigo 3.º
 
 1.º
 
@@ -924,13 +1050,13 @@ A2 - autonomia financeira.
 
 Percentagem dos meios libertos líquidos sobre as vendas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
 
 3 - O subcritério A2 será calculado tendo por base a noção de autonomia financeira, resultante do rácio capital próprio/activo líquido, nos seguintes termos:
 
 Percentagem do capital próprio sobre o activo líquido
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
 
 4 - Para o cálculo dos subcritérios referidos nos n.os 2 e 3 serão utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere o n.º 6 do artigo 5.º do presente diploma, o balanço e demonstração de resultados intercalares, reportados a data posterior mas anterior à data da candidatura, desde que ratificados por um TOC ou por um ROC.
 
@@ -1012,7 +1138,9 @@ Sim - 100;
 
 Não - 0.
 
-## ANEXO II — Metodologia para a determinação da pontuação dos projectos a que se referem as alíneas b) e c) do n.º 1 do artigo 3.º
+ANEXO II
+
+Metodologia para a determinação da pontuação dos projectos a que se referem as alíneas b) e c) do n.º 1 do artigo 3.º
 
 1.º
 
@@ -1074,7 +1202,9 @@ Realização integral nos meses de Outubro a Abril - 20;
 
 5) Notoriedade da acção de animação (0-10).
 
-## ANEXO III — Metodologia para a determinação das taxas de comparticipação dos projectos a que se refere a alínea a) do n.º 1 do artigo 3.º
+ANEXO III
+
+Metodologia para a determinação das taxas de comparticipação dos projectos a que se refere a alínea a) do n.º 1 do artigo 3.º
 
 1.º
 
@@ -1152,7 +1282,9 @@ Hotel de 4 estrelas, hotel-apartamento de 4 estrelas, nas ilhas de São Miguel, 
 
 Outros - 0%.
 
-## ANEXO IV — Metodologia para a determinação da pontuação dos projectos a que se refere a alínea d) do n.º 1 do artigo 3.º
+ANEXO IV
+
+Metodologia para a determinação da pontuação dos projectos a que se refere a alínea d) do n.º 1 do artigo 3.º
 
 1.º
 
@@ -1190,13 +1322,13 @@ A2 - rentabilidade económica.
 
 Percentagem de capitais próprios sobre o investimento elegível
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
 
 3 - O subcritério A2 resulta do valor assumido pelo indicador «meios libertos líquidos/vendas», calculado com base na demonstração de resultados referentes ao final do exercício anterior ao da data da candidatura, nos seguintes termos:
 
 Percentagem dos meios libertos líquidos sobre vendas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
 
 3.º
 
@@ -1220,7 +1352,7 @@ Aquisição de equipamentos de protecção ambiental.
 
 Grau de reconversão estrutural
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
 
 3 - Considerar-se-á como projecto de forte reconversão estrutural aquele cujo valor dos investimentos elegíveis directamente relacionados com as áreas de segurança e qualidade alimentar acima descritas represente, pelo menos, 60% do investimento total elegível. Será considerado projecto de média reconversão estrutural aquele cujo valor dos investimentos referidos anteriormente representar, pelo menos, 40% do investimento total elegível. Os projectos serão considerados de fraca reconversão estrutural nos restantes casos.
 
@@ -1240,7 +1372,7 @@ c) Implementação de sistemas de autocontrolo e gestão da qualidade.
 
 Grau de reconversão funcional
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)](https://files.diariodarepublica.pt/1s/2005/12/233b00/69566969.pdf)
 
 3 - Considerar-se-á projecto de forte reconversão funcional aquele cujo valor dos investimentos elegíveis directamente relacionados com as alíneas descritas no n.º 1 representem, pelo menos, 60% do investimento total elegível. Será considerado projecto de média reconversão funcional aquele cujo valor dos investimentos referidos anteriormente representar, pelo menos, 40% do investimento total elegível. Os projectos serão considerados de fraca reconversão funcional nos restantes casos.
 

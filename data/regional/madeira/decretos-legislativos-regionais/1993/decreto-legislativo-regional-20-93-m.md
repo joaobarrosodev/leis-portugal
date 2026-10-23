@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/1993/09/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1993-660372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09adc1970c2780c48aff672b0128fa2662dc622170aa3b9da1478b85abb764ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3a684fac372660a0b576d965ca471b535edf3b075c2221da76665f5b3ca738c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:517385:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 1997.03.17\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1997-02-27'
+- type: amended_by
+  target: pt:dre:517385:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 17/Mar/1997N\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1997-517385
+  date: '1997-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/2/1993/01/20/m/dre
   label: null
@@ -82,16 +94,67 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:168598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584979:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:428844:por
+  label: "Rectificado o artigo 3.º, alínea b) do n.º 2 do artigo 5.º, os n.ºs 1 do artigo 24.º, 6, 19 do artigo 24.º, 3, 4\
+    \ do artigo 25.º e publicados de novo os mapas constantes do anexo ao presente diploma, pela DECL-RECT.234/93.30.11.1993.PCM,\
+    \ DR.IS-A [280]3ºSupl de 30.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/234-1993-428844
+  date: '1993-11-30'
 article_structure:
-  article_count: 5
+  article_count: 26
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:51Z'
   warnings: []
   errors: []
 ---
@@ -188,7 +251,9 @@ i) Repartição de Serviços Administrativos (RSA);
 
 j) Serviços Gerais (SG).
 
-#### SECÇÃO I — Artigo 4.º
+#### SECÇÃO I
+
+###### Artigo 4.º
 
 Conselho administrativo
 
@@ -204,7 +269,9 @@ c) Apreciar as contas de gerência;
 
 d) Pronunciar-se sobre os demais aspectos administrativos que interessam ao bom funcionamento da DREE.
 
-#### SECÇÃO II — Artigo 5.º
+#### SECÇÃO II
+
+###### Artigo 5.º
 
 Conselho técnico
 
@@ -224,7 +291,9 @@ e) Fomentar iniciativas que visem a informação e sensibilização da comunidad
 
 f) Pronunciar-se sobre as matérias que respeitem a coordenação e articulação dos serviços que prosseguem actividades afins, tendo em vista uma política de acção integrada.
 
-#### SECÇÃO III — Artigo 6.º
+#### SECÇÃO III
+
+###### Artigo 6.º
 
 Direcção de Serviços de Educação e Integração Social
 
@@ -250,19 +319,25 @@ h) Serviços Técnicos de Lares (STL).
 
 3 - Em cada estabelecimento dependente da DREE haverá um conselho técnico interno, ao qual incubirá coadjuvar o director técnico no estudo e divulgação de estratégias de interesse global para as actividades do estabelecimento e da problemática dos educandos.
 
-##### SUBSECÇÃO I — Artigo 7.º
+##### SUBSECÇÃO I
+
+###### Artigo 7.º
 
 Serviços técnicos de educação
 
 Aos serviços técnicos de educação compete garantir a educação e integração social e familiar das crianças e jovens com deficiências sensoriais, intelectuais, motoras e outras que exijam métodos especiais de acção técnico-pedagógica.
 
-##### SUBSECÇÃO II — Artigo 8.º
+##### SUBSECÇÃO II
+
+###### Artigo 8.º
 
 Serviços Técnicos de Apoio Psicopedagógico
 
 Aos STAP compete assegurar o apoio psicopedagógico às crianças e jovens com necessidades educativas especiais que frequentam os estabelecimentos regulares de ensino.
 
-##### SUBSECÇÃO III — Artigo 9.º
+##### SUBSECÇÃO III
+
+###### Artigo 9.º
 
 Serviços Técnicos de Formação e Integração
 
@@ -270,19 +345,25 @@ Profissional de Deficientes
 
 Aos STFIPD compete assegurar a formação e a integração sócio-profissional de jovens e adultos deficientes no mercado normal de trabalho ou em regime de instalação por conta própria e emprego protegido e apoiar os serviços técnicos e estabelecimentos na orientação e despiste vocacional dos educandos.
 
-##### SUBSECÇÃO IV — Artigo 10.º
+##### SUBSECÇÃO IV
+
+###### Artigo 10.º
 
 Serviços Técnicos Sócio-Educativos de Deficientes Profundos
 
 Aos STSEDP compete assegurar a estimulação e o desenvolvimento das capacidades remanescentes de crianças e jovens com deficiências profundas, tendo em vista a sua integração familiar, bem como o encaminhamento, sempre que possível, para programas específicos de actividades ocupacionais ou trabalho protegido.
 
-##### SUBSECÇÃO V — Artigo 11.º
+##### SUBSECÇÃO V
+
+###### Artigo 11.º
 
 Serviços Técnicos de Lares
 
 Os STL têm como função apoiar os serviços técnicos de educação e os serviços de formação e integração sócio-profissional nos tempos livres e de repouso dos educandos, sem prejuízo do princípio de total integração das crianças e jovens, designadamente em colocações familiares.
 
-##### SUBSECÇÃO VI — Artigo 12.º
+##### SUBSECÇÃO VI
+
+###### Artigo 12.º
 
 Conselho técnico interno
 
@@ -292,7 +373,9 @@ Conselho técnico interno
 
 3 - Sempre que as circunstâncias o aconselhem, poderão participar nas reuniões outros técnicos, educandos e pessoas especialmente convidadas para o efeito, designadamente pais e encarregados de educação.
 
-#### SECÇÃO IV — Artigo 13.º
+#### SECÇÃO IV
+
+###### Artigo 13.º
 
 Direcção de Serviços de Diagnóstico e Terapêutica
 
@@ -308,37 +391,49 @@ d) Serviço de Terapêutica (ST);
 
 e) Valências Médicas (VM).
 
-##### SUBSECÇÃO I — Artigo 14.º
+##### SUBSECÇÃO I
+
+###### Artigo 14.º
 
 Serviço de Motricidade Humana
 
 O SMH tem por função apoiar os serviços técnicos de educação e integração social no despiste, diagnóstico e desenvolvimento das capacidades psicossomáticas, no âmbito da motricidade humana, visando a integração na vida activa dos indivíduos portadores de deficiência ou dificuldades, através de processos de estimulação da maturação individual, das aprendizagens escolares, da integração ou reconversão sócio-profissional, da prática desportiva e da ocupação dos tempos livres.
 
-##### SUBSECÇÃO II — Artigo 15.º
+##### SUBSECÇÃO II
+
+###### Artigo 15.º
 
 Serviço de Psicologia
 
 O SP tem por função apoiar os serviços técnicos de educação e integração social, incumbindo-lhe a observação, diagnóstico e orientação psicopedagógica dos educandos e futuros utentes, com vista à adaptação ou reeducação escolar, profissional e social, consoante as características pessoais, disfunções ou perturbações e ao apoio psicoterapêutico nos casos em que apresentem perturbações emocionais e comportamentais, em colaboração com outras valências e serviços.
 
-##### SUBSECÇÃO III — Artigo 16.º
+##### SUBSECÇÃO III
+
+###### Artigo 16.º
 
 Serviço Social
 
 O SS tem por função apoiar os serviços técnicos de educação e integração social, contribuindo para a identificação das causas e consequências sociais inerentes à problemática dos educandos e futuros utentes, e motivar a responsabilização da comunidade pela integração social dos deficientes em colaboração com outras valências e serviços.
 
-##### SUBSECÇÃO IV — Artigo 17.º
+##### SUBSECÇÃO IV
+
+###### Artigo 17.º
 
 Serviço de Terapêutica
 
 O ST tem por função apoiar os serviços técnicos de educação e integração social, especialmente no que se refere à estimulação e reeducação psicomotora, sensorial e da fala dos educandos.
 
-##### SUBSECÇÃO V — Artigo 18.º
+##### SUBSECÇÃO V
+
+###### Artigo 18.º
 
 Valências Médicas
 
 As VM têm por função o exame e o diagnóstico dos educandos e futuros utentes, de forma a permitir um melhor e mais eficaz acompanhamento, quer no processo de admissão e encaminhamento para o serviço técnico mais adequado, quer no próprio processo educativo, para o que, de acordo com o âmbito de acção da DREE, abrangerão, designadamente, medicina física e de reabilitação, neurologia, oftalmologia, otorrinolaringologia, pediatria e psiquiatria.
 
-#### SECÇÃO V — Artigo 19.º
+#### SECÇÃO V
+
+###### Artigo 19.º
 
 Centro de Documentação, Estudo e Divulgação
 
@@ -352,7 +447,9 @@ c) Colaborar na organização e realização de acções de formação do pessoa
 
 2 - O CDED funciona na directa dependência do director regional.
 
-#### SECÇÃO VI — Artigo 20.º
+#### SECÇÃO VI
+
+###### Artigo 20.º
 
 Secretariado
 
@@ -360,7 +457,9 @@ Secretariado
 
 2 - O Secretariado funciona na directa dependência do director regional.
 
-#### SECÇÃO VII — Artigo 21.º
+#### SECÇÃO VII
+
+###### Artigo 21.º
 
 Serviço de Arte e Criatividade
 
@@ -368,7 +467,9 @@ Serviço de Arte e Criatividade
 
 2 - O SAC funciona na directa dependência do director regional.
 
-#### SECÇÃO VIII — Artigo 22.º
+#### SECÇÃO VIII
+
+###### Artigo 22.º
 
 Repartição de Serviços Administrativos
 
@@ -388,7 +489,9 @@ e) Secção de Organização e Planeamento;
 
 f) Tesouraria.
 
-#### SECÇÃO IX — Artigo 23.º
+#### SECÇÃO IX
+
+###### Artigo 23.º
 
 Serviços Gerais
 
@@ -408,7 +511,9 @@ b) Sector de lavandaria;
 
 c) Sector de equipamento e manutenção.
 
-### CAPÍTULO III — Artigo 24.º
+### CAPÍTULO III
+
+###### Artigo 24.º
 
 Do pessoal
 
@@ -530,14 +635,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 23 de Julho de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 20 de Agosto de 1993.**
+Assinado em 20 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ## ANEXO — Direcção Regional de Educação Especial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/219a00/50755084.pdf))](https://files.diariodarepublica.pt/1s/1993/09/219a00/50755084.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/219a00/50755084.pdf)

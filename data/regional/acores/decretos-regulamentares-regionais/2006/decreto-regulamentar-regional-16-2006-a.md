@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/04/069b00/26662671.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2006/04/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2006-673041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93dde57060736e8337aa0a8afc4095f1ac695aa40b6fef83e3eadbff27a7adac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba9e7b48573d84fefa2f7e416e40e5d132784fb710f174e54f333736162530d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Coordenador
 - Direcção Regional das Comunidades
 - Integração de Trabalhadores
 - Orgânica
 - Pessoal de Informática
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:671470:por
@@ -103,16 +103,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:671470:por
+  label: "Revogado pelo DRR.21/2011/A.12.08.2011.PG-RAA, DR.IS [155] de 12.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2011-671470
+  date: '2011-08-12'
 article_structure:
   article_count: 22
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:11Z'
   warnings: []
   errors: []
 ---
@@ -143,13 +172,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 31 de Janeiro de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 20 de Março de 2006.**
+Assinado em Angra do Heroísmo em 20 de Março de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — Orgânica da Direcção Regional das Comunidades
 
@@ -389,7 +418,9 @@ j) Apoiar localmente as acções cometidas ao GER, ao GII e ao GICC;
 
 k) Coordenar e apoiar outras acções que lhe sejam cometidas superiormente.
 
-###### Artigo 10.º — Secção de Pessoal e Expediente
+###### Artigo 10.º
+
+#### Secção de Pessoal e Expediente
 
 Constituem competências da SPE:
 
@@ -411,7 +442,9 @@ h) Coordenar as actividades do pessoal auxiliar afecto aos serviços sediados na
 
 i) Executar outras funções que lhe sejam superiormente cometidas.
 
-###### Artigo 11.º — Secção de Contabilidade e Património
+###### Artigo 11.º
+
+#### Secção de Contabilidade e Património
 
 Constituem competências da SCP:
 
@@ -531,4 +564,4 @@ O pessoal constante do quadro anexo ao [Decreto Regulamentar Regional n.º 14/98
 
 ## ANEXO II — Mapa de pessoal a que se refere o artigo 13.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/04/069b00/26662671.pdf))](https://files.diariodarepublica.pt/1s/2006/04/069b00/26662671.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/04/069b00/26662671.pdf)

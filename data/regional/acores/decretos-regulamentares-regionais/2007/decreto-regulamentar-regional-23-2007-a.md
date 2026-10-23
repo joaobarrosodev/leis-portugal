@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2007/10/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2007-628852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf442cf6265d0aada602c3b430eeadd4042448bc97c83710cbc46b5522a08233
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56b2ef1ae8bb9fe76c139d7162f0247b86225a241164e650f44a98c6ea278f82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,46 +65,75 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alvará
+- Apoio ao Investimento
 - Aquisição de Bens e Serviços
 - Aquisição de Imóveis
-- Equipamento Desportivo
-- Gestão de Resíduos
-- Financiamento
 - Campo de Golfe
-- Turismo
-- Obras Particulares
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
+- Equipamento Desportivo
 - Equipamento Social
-- Apoio ao Investimento
-- Projeto de Investimento
-- Patente
-- Licenciamento
-- Veículo
-- Desenvolvimento Económico
-- Sider
-- Açores
+- Financiamento
+- Gestão de Resíduos
 - Infraestrutura Turística
+- Licenciamento
+- Obras Particulares
+- Patente
+- Projeto de Investimento
+- Sider
+- Turismo
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:25345896:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:335438:por
+  label: "Dada nova redacção aos arts. 3.º, 4.º, 8.º e 9.º e aos anexos i e ii, e revogada a al. c) do nº 3 do art. 8º, assim\
+    \ como são alteradas as referências feitas aos arts. do DLR 19/2007/A de 23-Jul (em conformidade com a renumeração introduzida\
+    \ naquele diploma pelos DLR 2/2009/A de 02-Mar e 10/2010/A de 16-Mar), pelo DRR.11/2010/A.15.06.2010.PG-RAA, DR.IS [114]\
+    \ de 15.06.2010, que procedeu à renumeração e republicação do presente diploma na actual redacção.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2010-335438
+  date: '2010-06-15'
+- type: amended_by
+  target: pt:dre:543911:por
+  label: "Dada nova redação aos arts. 2º, 3º, 4º (os dois últimos alterados pelo DRR 11/2010/A de 15-jun), 6º e 9º (este alterado\
+    \ pelo DRR 11/2010/A de 15-jun), aos anexos I e II (os dois também alterados pelo DRR 11/2010/A de 15-jun), e ao nº 2\
+    \ do anexo III do presente diploma; assim como são alteradas as referências feitas aos arts. do DLR 19/2007/A de 23-jul\
+    \ (em conformidade com a renumeração introduzida naquele diploma pelos DLR 2/2009/A de 02-mar, 10/2010/A de 16-mar e 26/2011/A\
+    \ de 04-nov), pelo DRR.4/2012/A.31.01.2012.PG-RAA, DR.IS [22] de 31.01.2012, e procedeu à sua renumeração e republicação\
+    \ com a redacção atual e de acordo com a grafia do Acordo Ortográfico da Língua.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2012-543911
+  date: '2012-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/19/2007/07/23/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/19/2007/07/23/a/dre
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25345896:por
+  label: Revogado, a partir de 01.07.2014, e sem prejuízo do disposto no art. 25º,o presente diploma, na redação dos DRRs
+    11/2010/A, de 15-jun e 4/2012, de 31-jan, pelo(a) Decreto Legislativo Regional n.º 12/2014/A - Diário da República n.º
+    130/2014, Série I de 2014-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2014-25345896
+  date: '2014-07-09'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:24Z'
   warnings: []
   errors: []
 ---
@@ -327,11 +356,11 @@ O presente diploma entra em vigor no 1.º dia útil seguinte ao da sua publicaç
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 26 de Setembro de 2007.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 15 de Outubro de 2007.**
+Assinado em Angra do Heroísmo em 15 de Outubro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -405,7 +434,7 @@ a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos lí
 
 Percentagem dos meios libertos líquidos sobre vendas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf)
 
 em que:
 
@@ -417,7 +446,7 @@ b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo ind
 
 Percentagem do capital próprio sobre o activo total líquido
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere a alínea d) do n.º 1 do artigo 3.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de Julho, o balanço e a demonstração de resultados intercalares reportados a data posterior mas anterior à data de apresentação da candidatura, desde que legalmente certificado por um técnico oficial de contas ou um revisor oficial de contas;
 
@@ -427,7 +456,7 @@ d) No encerramento do exercício a que se reportam as contas intercalares, os in
 
 VAB sobre o número de postos de trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf)
 
 em que:
 
@@ -503,11 +532,11 @@ Critérios para atribuição do prémio
 
 1 - Para efeitos da avaliação do desempenho mencionado no n.º 5 do artigo 30.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de Julho, é calculado o indicador de desempenho do projecto (Idp) com base nos valores previstos na candidatura, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf)
 
 2 - A produtividade económica do projecto P é determinada através da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf))](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/10/20800/0793607942.pdf)
 
 3 - No caso de se tratar de criação de empresas, a fórmula de cálculo de P reduz-se, sem aplicação de ponderações, ao indicador A2, que relaciona o VAB previsto para o projecto no ano cruzeiro e o investimento elegível.
 

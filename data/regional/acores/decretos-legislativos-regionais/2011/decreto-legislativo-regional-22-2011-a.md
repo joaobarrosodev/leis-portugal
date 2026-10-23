@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2011/07/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2011-670517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9e2ef0c52a8bc46ca6261950086e912bdd86304b37ddb6a2b13922b9ff5d575
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9db7a538118f7ff7b71d5098cf0e2b78c2337f1da5497f77ccf7f4e0fa262f97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
+- Açores
+- Aquicultura
+- Comércio
 - Comissão de Aquicultura
-- Governo Regional
 - Contra-ordenação
 - Controlo de Qualidade
 - Definição de Competências
 - Especificação Técnica
 - Estabelecimento Industrial
 - Fiscalização
-- Inspecção Regional das Pescas
 - Gestão dos Recursos
+- Governo Regional
+- Inspecção Regional das Pescas
 - Licenciamento
-- Recursos do Mar
-- Aquicultura
+- Multa
 - Produto de Aquicultura
+- Recursos do Mar
 - Regime Jurídico
 - Regulamento CE
-- Açores
-- Comércio
 relationships:
 - type: cites
   target: celex:32004R0852
@@ -100,13 +100,13 @@ relationships:
 article_structure:
   article_count: 75
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:20Z'
   warnings: []
   errors: []
 ---
@@ -1135,10 +1135,10 @@ O presente diploma entra em vigor no prazo de 30 dias a contar da data da sua pu
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 18 de Maio de 2011.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 8 de Junho de 2011.**
+Assinado em Angra do Heroísmo em 8 de Junho de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

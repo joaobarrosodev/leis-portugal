@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/543/2007/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/543-2007-521070
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16340feef5f35e06357327ba0fb88c433b03df89b1de600b95c0ec6d9c7fce3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d245d91758c6f0216ddf4e2434826b8450d0391a78b09a5f65df8c3fcca0547
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Definição de Competências
-- Instituto Nacional de Aviação Civil
 - Estatuto
+- Instituto Nacional de Aviação Civil
 - Instituto Público
 relationships:
 - type: amended_by
   target: pt:dre:66761450:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571030:por
+  label: "Adaptados, nos termos do art. 3 .º da Lei 67/2013, de 28-ago, os estatutos do Instituto Nacional de Aviação Civil,\
+    \ I.P., aprovados pela presente Portaria e passa a redenominar-se Autoridade Nacional da Aviação Civil, pelo DEC LEI.11/2014.22.01.2014.MECO,\
+    \ DR.IS [15] de 22.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2014-571030
+  date: '2014-01-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/145/2007/04/27/p/dre
   label: null
@@ -86,16 +93,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:481732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66761450:por
+  label: Revogada a partir de 01.04.2015 pelo(a) Decreto-Lei n.º 40/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16,
+    sem prejuízo do disposto no n.º 6 do art. 4.º dos Estatutos por este aprovados
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-2015-66761450
+  date: '2015-03-16'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:17Z'
   warnings: []
   errors: []
 ---

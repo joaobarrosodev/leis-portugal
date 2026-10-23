@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/10/21000/0559105599.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2014/10/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2014-58661944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-10-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e6367f5b06001e953e71ff3ef560e5592e6293e04ed61f174c59df0530db5d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d3a7fbe9f2bad586bb21244a1c1d5eae094fc4854e5740e0af158114df8e36d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
+- Açores
 - Estatuto
-- Setor Empresarial do Estado
 - Gestor Público
 - Gestor Público Regional
+- Região Autónoma
+- Setor Empresarial do Estado
 - Setor Público
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/12/2008/05/19/a/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
+- type: cites
+  target: pt:dre:191574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632407:por
+  label: null
+  source: null
 article_structure:
-  article_count: 46
+  article_count: 44
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:50Z'
   warnings: []
   errors: []
 ---
@@ -158,13 +174,17 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos te
 
 6 - [Anterior n.º 5].
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...].
 
 2 - O mandato pode ser sucessivamente renovado, nos termos do n.º 3 do artigo 12.º
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - [...].
 
@@ -210,11 +230,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de setembro de 2014.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 13 de outubro de 2014.**
+Assinado em Angra do Heroísmo em 13 de outubro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

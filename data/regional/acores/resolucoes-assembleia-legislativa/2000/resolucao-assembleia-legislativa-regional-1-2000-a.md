@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/1/2000/01/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/1-2000-435381
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 093fbc507b27c3040a5802c186a50bb258207514b375b5a58b749b29d105e4e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4ba3d8c22fd167cc7ca01cedb5aafe277ea47a91808152101ca05aa7df71272
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Planeamento Regional
 - Plano Regional
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/79/1997/04/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/79/1997/04/08/p/dre
+- type: cites
+  target: pt:dre:356730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457030:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:30Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ A Assembleia Legislativa Regional dos Açores resolve, nos termos da alínea p) 
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Novembro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
 1 - Apresentação
 
@@ -125,7 +133,7 @@ Resumo das previsões
 
 (principais indicadores económicos)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 2.2 - Enquadramento nacional
 
@@ -161,7 +169,7 @@ Resumo das previsões
 
 (principais indicadores económicos)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 3 - Situação regional
 
@@ -193,7 +201,7 @@ Na Região, durante a década de 80, à excepção dos biénios de 1982-1983 e 1
 
 Taxa de inflação
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 Produto interno bruto
 
@@ -289,7 +297,7 @@ Paralelamente ao esforço financeiro realizado nos últimos anos neste sector no
 
 Evolução do preço médio de venda de electricidade (escudos por kilowatt-hora)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 Os sectores sociais
 
@@ -1151,7 +1159,7 @@ O investimento público, da responsabilidade directa do Governo Regional, a prom
 
 Este montante de investimento resulta da adição da despesa pública de investimento constante nesta proposta de Plano para 2000, cerca de 49,7 milhões de contos (a qual compreende comparticipações comunitárias concedidas pelo Fundo Europeu de Desenvolvimento Regional), com investimento público oriundo de outras entidades, que complementam verbas inscritas para algumas acções do Plano promovidas pelo Governo Regional. Neste particular, salientam-se os fundos comunitários, cujo valor de investimento ascende a 12 milhões de contos. Outras entidades regionais e nacionais contribuirão com cerca de 0,6 milhões de contos, que constituem também complementos de investimento de acções inscritas no Plano.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 5.2 - Dotação do Plano
 
@@ -1167,15 +1175,15 @@ As acções relativas à gestão pública e institucional, donde se destaca a co
 
 Finalmente, a programação relativa à recuperação dos efeitos das intempéries e do sismo de Julho de 1998 compreende uma afectação de recursos financeiros de cerca de 8,4 milhões de contos.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 Plano para 2000 - Desenvolvimento da programação
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 Desagregação por entidade proponente
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 5.3 - Financiamento
 
@@ -1183,11 +1191,11 @@ O Plano Regional para 2000, cuja dotação é de 49,7 milhões de contos, será 
 
 Os restantes 12,7 milhões de contos de investimento previstos para o próximo ano serão financiados essencialmente por fundos estruturais, destacando-se o Fundo Europeu de Orientação e Garantia Agrícola, com 8,8 milhões de contos, o Fundo Social Europeu, com 1,3 milhões, e o Instrumento Financeiro de Orientação das Pescas, com 1,9 milhões.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 Investimento público para 2000 - Financiamento
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 5.4 - Investimento das autarquias locais, fundos autónomos e empresas públicas
 
@@ -1203,7 +1211,7 @@ Pelas razões apresentadas, o quadro de intenções de investimento que a seguir
 
 Investimento municipal previsto para 2000
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 Fundos e organismos autónomos
 
@@ -1211,7 +1219,7 @@ O investimento público na Região não se esgota nas dotações previstas para 
 
 Considerando um grupo representativo destas entidades, apuram-se intenções de investimento que totalizam, para o ano de 2000, um montante superior a 13,6 milhões de contos, distribuídos por todas as parcelas do território regional.
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 Junta Autónoma dos Portos de Ponta Delgada:
 
@@ -1439,7 +1447,7 @@ Em termos globais, isto é, no período de 1994-1999, o subprograma atingiu os v
 
 PEDRAA II - Mapa resumo consolidado por períodos, subprogramas e medidas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 5.6 - REGIS II
 
@@ -1499,7 +1507,7 @@ Aguarda decisão por parte da Comissão Europeia a reprogramação do Programa, 
 
 Despesa pública prevista, aprovada e realizada e respectiva contribuição comunitária associada (considerando os valores da reprogramação em curso)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
+[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)](https://files.diariodarepublica.pt/1s/2000/01/019b00/02460304.pdf)
 
 5.7 - KONVER
 

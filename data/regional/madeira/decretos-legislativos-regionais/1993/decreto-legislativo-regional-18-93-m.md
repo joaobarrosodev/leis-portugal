@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/1993/09/13/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1993-661567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef27517e3aff3d782f49b71b0641c85f81ce874ea2bf00867e73b58880406607
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50a68cdb08cf7e6ee972000664360d95e840c04df797bb76bd27352d0c2aa6b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,25 @@ reuse:
 subjects:
 - Definição de Competências
 - Direcção Regional de Estatística
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:324974:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:324974:por
+  label: "Alterado e republicado na integra pelo DRR.40/2000/M.2000.07.20.PG-RAM DR.IS-B [190] de 18/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/40-2000-324974
+  date: '2000-07-20'
+- type: amended_by
+  target: pt:dre:261289:por
+  label: "Declarada, com força obrigatória geral, a ilegalidade das normas do presente diploma, e do respectivo anexo, pelo\
+    \ AC.295/2004.27.04.2004.TCS, DR.IS-A [124] de 27.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/295-2004-261289
+  date: '2004-04-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/1992/11/11/m/dre
   label: null
@@ -87,16 +98,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:283279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 25
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:50Z'
   warnings: []
   errors: []
 ---
@@ -119,25 +146,25 @@ Assim:
 
 Ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição, na alínea c) do n.º 1 do artigo 29.º e na alínea ii) do artigo 30.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, a Assembleia Legislativa Regional da Madeira decreta o seguinte:
 
-###### Artigo 1.º É aprovada a orgânica da Direcção Regional de Estatística, adiante designada abreviadamente por DRE, publicada em anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovada a orgânica da Direcção Regional de Estatística, adiante designada abreviadamente por DRE, publicada em anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º - 1 - As referências feitas ao Serviço Regional de Estatística passam a entender-se como reportadas à DRE.
+Art. 2.º - 1 - As referências feitas ao Serviço Regional de Estatística passam a entender-se como reportadas à DRE.
 
 2 - As referências feitas ao director do Serviço Regional de Estatística passam a entender-se como reportadas ao director regional de Estatística.
 
-###### Art. 3.º Fica revogado o [Decreto Regulamentar Regional n.º 6/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1988-283279), de 12 de Fevereiro, e demais legislação complementar.
+Art. 3.º Fica revogado o [Decreto Regulamentar Regional n.º 6/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1988-283279), de 12 de Fevereiro, e demais legislação complementar.
 
-###### Art. 4.º O presente diploma entra imediatamente em vigor.
+Art. 4.º O presente diploma entra imediatamente em vigor.
 
 Aprovado em sessão plenária de 23 de Julho de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz de Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz de Mendonça.
 
-**Assinado em 20 de Agosto de 1993.**
+Assinado em 20 de Agosto de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ## ANEXO — Orgânica da Direcção Regional de Estatística
 
@@ -265,7 +292,9 @@ a) Secção de Coordenação e Difusão Estatística;
 
 b) Secção de Contabilidade e Pessoal.
 
-##### SUBSECÇÃO I — Secção de Coordenação e Difusão Estatística
+##### SUBSECÇÃO I
+
+#### Secção de Coordenação e Difusão Estatística
 
 ###### Artigo 8.º — Natureza e atribuições
 
@@ -283,7 +312,9 @@ e) Participar nos trabalhos de manutenção de ficheiros gerais;
 
 f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO II — Secção de Contabilidade e Pessoal
+##### SUBSECÇÃO II
+
+#### Secção de Contabilidade e Pessoal
 
 ###### Artigo 9.º — Natureza e atribuições
 
@@ -325,7 +356,9 @@ c) Registar dados em suporte informático e proceder às respectivas verificaç�
 
 d) Executar os programas e processamentos determinados pelos calendários estabelecidos.
 
-#### SECÇÃO VI — Divisão de Estudos e Contas Económicas Regionais
+#### SECÇÃO VI
+
+##### Divisão de Estudos e Contas Económicas Regionais
 
 ###### Artigo 11.º — Natureza e atribuições
 
@@ -359,7 +392,9 @@ b) Divisão de Estatísticas Demográficas, Sociais e dos Serviços;
 
 c) Divisão de Estatísticas Agrícolas e Censos.
 
-##### SUBSECÇÃO I — Divisão de Estatísticas Económicas e Financeiras
+##### SUBSECÇÃO I
+
+##### Divisão de Estatísticas Económicas e Financeiras
 
 ###### Artigo 14.º — Natureza e atribuições
 
@@ -375,7 +410,9 @@ d) Colaborar no planeamento e orientação técnica dos recenseamentos e inquér
 
 e) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO II — Divisão de Estatísticas Demográficas, Sociais e dos Serviços
+##### SUBSECÇÃO II
+
+##### Divisão de Estatísticas Demográficas, Sociais e dos Serviços
 
 ###### Artigo 15.º — Natureza e atribuições
 
@@ -393,7 +430,9 @@ e) Colaborar no planeamento e orientação técnica dos recenseamentos e inquér
 
 f) Executar tudo o mais que lhe for superiormente determinado ou que decorra do normal desempenho das suas funções.
 
-##### SUBSECÇÃO III — Divisão de Estatísticas Agrícolas e Censos
+##### SUBSECÇÃO III
+
+##### Divisão de Estatísticas Agrícolas e Censos
 
 ###### Artigo 16.º — Natureza e atribuições
 
@@ -493,4 +532,4 @@ O regime aplicável ao pessoal da DRE é o genericamente estabelecido para os fu
 
 Mapa anexo a que se refere o n.º 2 do artigo 22.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/215a00/49084913.pdf))](https://files.diariodarepublica.pt/1s/1993/09/215a00/49084913.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/215a00/49084913.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/164b00/33683369.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/30/1992/07/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1992-292127
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97e1d19a5fcf5d0e3cf0abe758637600ed4bc6a0acd4f8ba43f5a400a77b5737
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a028a5553802a9f9b6c1b71c95c0f8034938e83129fc31a29ebfb178fa402521
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Carreira Profissional
 - Instituto Regional de Produtos Agro-Alimentares
 - Orgânica
 - Reestruturação de Carreiras
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:599132:por
@@ -80,16 +80,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/53/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/53/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:288246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:599132:por
+  label: "Revogado pelo DRR.47/92/A.1992.10.21.GR-RAA, DR.IS-B [275] de 27/Nov/1992, mantidas no entanto em vigor as disposições\
+    \ do art. 3º até estar completo o processo de transição do pessoal por elas abrangido \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/47-1992-599132
+  date: '1992-10-21'
 article_structure:
-  article_count: 9
+  article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:06Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +124,13 @@ Estão reunidas, neste momento, as condições para estabelecer as regras defini
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 25.º do [Decreto Regulamentar Regional n.º 2/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1987-599738), de 8 de Janeiro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 25.º do [Decreto Regulamentar Regional n.º 2/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1987-599738), de 8 de Janeiro, passa a ter a seguinte redacção:
 
 ###### Artigo 25.º — Remunerações base do pessoal de matadouros
 
 As carreiras e categorias do grupo de pessoal de matadouros, previstas no presente diploma, são remuneradas segundo os índices estabelecidos para as carreiras e categorias de igual designação, na escala salarial constante do mapa I anexo ao [Decreto Regulamentar n.º 53/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1991-288246), de 9 de Outubro.
 
-###### Art. 2.º Ao [Decreto Regulamentar Regional n.º 2/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1987-599738), de 8 de Janeiro, são aditados os artigos 25.º-A, 25.º-B, 25.º-C, 25.º-D, 25.º-E, 25.º-F e 25.º-G, com a seguinte redacção:
+Art. 2.º Ao [Decreto Regulamentar Regional n.º 2/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1987-599738), de 8 de Janeiro, são aditados os artigos 25.º-A, 25.º-B, 25.º-C, 25.º-D, 25.º-E, 25.º-F e 25.º-G, com a seguinte redacção:
 
 ###### Artigo 25.º-A — Encarregado de matadouro
 
@@ -174,7 +192,7 @@ Nos matadouros das ilhas de São Jorge, Graciosa, Pico e Flores, um dos funcion�
 
 Nos matadouros das ilhas de Santa Maria, Graciosa e Flores, o motorista distribuidor colabora com os oficiais de matança no exercício das funções próprias da categoria destes.
 
-###### Art. 3.º - 1 - Os funcionários e agentes do grupo de pessoal de matadouros do Instituto de Alimentação e Mercados Agrícolas transitam para as novas carreiras e categorias, de acordo com o mapa anexo ao presente diploma, de que faz parte integrante, salvos os casos seguintes:
+Art. 3.º - 1 - Os funcionários e agentes do grupo de pessoal de matadouros do Instituto de Alimentação e Mercados Agrícolas transitam para as novas carreiras e categorias, de acordo com o mapa anexo ao presente diploma, de que faz parte integrante, salvos os casos seguintes:
 
 a) O operário qualificado principal com nove anos de antiguidade na categoria, que exerce funções de encarregado de matadouro, transita para esta carreira com a categoria de 2.ª classe;
 
@@ -190,14 +208,14 @@ b) O tratador de animais principal do quadro do Serviço de Desenvolvimento Agr�
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 11 de Junho de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 6 de Julho de 1992.**
+Assinado em Angra do Heroísmo em 6 de Julho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/164b00/33683369.pdf))](https://files.diariodarepublica.pt/1s/1992/07/164b00/33683369.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/164b00/33683369.pdf)

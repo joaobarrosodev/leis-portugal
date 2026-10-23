@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/536/2009/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-2009-608695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 872c98da6e1b9d33af650b8b4019bd31bcde61b48a6dcd0f413dd48d460b9e7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 048d1201b5cf964ad2e1dc04dfb753097a6187943f9a0435b30d390505916a05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Arquivística
 - Conservação de Documentos
+- Direcção Geral dos Arquivos
 - Direcção Regional da Educação
 - Fiscalização
-- Direcção Geral dos Arquivos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
@@ -79,16 +79,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1993/01/23/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584777:por
+  label: null
+  source: null
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:50Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +125,7 @@ Manda o Governo, pelos Ministros da Educação e da Cultura, o seguinte:
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 6 de Março de 2009. - O Ministro da Cultura, José António de Melo Pinto Ribeiro, em 4 de Maio de 2009.**
+A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 6 de Março de 2009. - O Ministro da Cultura, José António de Melo Pinto Ribeiro, em 4 de Maio de 2009.
 
 REGULAMENTO DE CONSERVAÇÃO ARQUIVÍSTICA DAS DIRECÇÕES REGIONAIS DE EDUCAÇÃO
 
@@ -235,7 +247,7 @@ O acesso e comunicabilidade dos arquivos das direcções regionais de educação
 
 ## Anexo I — Tabela de selecção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09500/0315303172.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09500/0315303172.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0315303172.pdf)
 
 C - conservação permanente.
 
@@ -257,4 +269,4 @@ TEIP - territórios educativos de integração prioritária.
 
 TIC - tecnologias de informação e comunicação.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/09500/0315303172.pdf))](https://files.diariodarepublica.pt/1s/2009/05/09500/0315303172.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/09500/0315303172.pdf)

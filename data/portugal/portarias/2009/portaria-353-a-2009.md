@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 66/2009, 1º Suplemento, Série I de 2009-04-03
   number: '66'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2128-(2) a 2128-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/06601/0000200014.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/353-a/2009/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/353-a-2009-418660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d0865a074cc843d28110685c8cfc75acec18154c00c6ef8694e85d4d7145619
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57a33b6d45a31afc40fbe681cbc0724559bfed5e148a830150b50b477922b6ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- QREN
-- Empresa
-- Controlo de Qualidade
-- Internacionalização Empresarial
 - Apoio ao Investimento
-- Projeto de Investimento
+- Controlo de Qualidade
+- Empresa
+- Internacionalização Empresarial
 - Investimento
+- Projeto de Investimento
+- QREN
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:191523:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:307648:por
+  label: "Alterados os arts. 11º, 12º, 16º, 19º, 20º, 24º, 25º e o anexo B do Regulamento do Sistema de Incentivos à Qualificação\
+    \ e Internacionalização de PME, aprovado pela Port 1463/2007, de 15-Nov, na redacção e republicado pelo presente diploma,\
+    \ pela PORT.1101/2010.25.10.2010.MEID, DR.IS [207] de 25.10.2010, que procede à sua republicação\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1101-2010-307648
+  date: '2010-10-25'
+- type: amended_by
+  target: pt:dre:162811:por
+  label: "Dada nova redação aos arts. 6º, 8º, 10º, 11º, 12º, 14º, 15º, 16º e 19º e aos anexos A, B e C do Regulamento do Sistema\
+    \ de Incentivos à Qualificação e Internacionalização de PME, aprovado pela Port 1463/2007 de 15-nov, alterado pelo presente\
+    \ diploma, pela PORT.47-A/2012.24.02.2012.MEE, DR.IS [40-Supl] de 24.02.2012 PORT.47-A/2012.24.02.2012.MEE, DR.IS [40-Supl]\
+    \ de 24.02.2012\0012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/47-a-2012-162811
+  date: '2012-02-24'
+- type: amended_by
+  target: pt:dre:405362:por
+  label: "Alterados os arts. 12º e 16º do Regulamento do Sistema de Incentivos à Qualificação e Internacionalização de PME,\
+    \ aprovado pela Port 1463/2007 de 15-nov, na redação do presente diploma, pela PORT.233-A/2012.06.08.2012.MEE, DR.IS [151-Supl]\
+    \ de 06.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/233-a-2012-405362
+  date: '2012-08-06'
+- type: amended_by
+  target: pt:dre:191523:por
+  label: "Alterados os art.s 6º, 12º e 16º do Regulamento do Sistema de Incentivos à Qualificação e Internacionalização de\
+    \ PME, anexo à Port 1463/2007, de 15-nov, na redação do presente diploma, pela PORT.369/2012.06.11.2012.MEE, DR.IS [214]\
+    \ de 06.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/369-2012-191523
+  date: '2012-11-06'
 - type: cites
   target: celex:32006R1998
   label: null
@@ -96,15 +125,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
 article_structure:
-  article_count: 48
+  article_count: 34
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:40Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +172,9 @@ Os artigos 1.º, 6.º, 8.º, 10.º, 11.º, 12.º, 14.º, 15.º, 16.º, 19.º, 20
 
 O presente Regulamento define as regras aplicáveis ao Sistema de Incentivos à Qualificação e Internacionalização de PME, adiante designado por SI Qualificação PME, criado ao abrigo do enquadramento nacional dos sistemas de incentivos ao investimento nas empresas, adiante designado por enquadramento nacional, aprovado pelo Decreto-Lei n.º 287/2007, de 17 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 65/2009, de 20 de Março.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -157,7 +188,9 @@ d) Projecto simplificado de inovação (Vale Inovação) - apresentado por uma P
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - São susceptíveis de apoio no âmbito do SI Qualificação PME os projectos de investimento que incidam nas actividades previstas no n.º 1 do artigo 9.º do enquadramento nacional, sem prejuízo dos avisos de abertura dos concursos para a apresentação de candidaturas poderem restringir as actividades abrangidas em cada concurso.
 
@@ -169,7 +202,9 @@ d) Projecto simplificado de inovação (Vale Inovação) - apresentado por uma P
 
 5 - Ao abrigo do n.º 2 do artigo 9.º do enquadramento nacional, são ainda susceptíveis de apoio os projectos que incidam sobre as actividades incluídas no grupo 412 e nas divisões 42 e 43 da CAE, de acordo com a Classificação Portuguesa das Actividades Económicas (CAE), revista pelo Decreto-Lei n.º 381/2007, de 14 de Novembro.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -189,7 +224,9 @@ d) Cumprir, quando existam investimentos em formação profissional, todas as re
 
 5 - Após a comunicação da decisão de aprovação, o promotor tem um prazo de 20 dias úteis para apresentação dos comprovantes das condições previstas no artigo 11.º do enquadramento nacional e nos n.os 1 a 3 do presente artigo, o qual poderá ser prorrogado por igual período desde que o promotor apresente, dentro do prazo previsto, justificação fundamentada ao organismo técnico.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +258,9 @@ d) Identificar pelo menos 50 % das empresas a abranger no projecto conjunto.
 
 5 - Além das condições de elegibilidade do projecto previstas no artigo 12.º do enquadramento nacional, os serviços de consultoria de apoio à inovação, objecto de apoio através do projecto simplificado de inovação, devem apenas incluir despesas posteriores à data da candidatura, realizadas por um período máximo de um ano e corresponder a uma despesa mínima elegível de (euro) 5000.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -285,7 +324,9 @@ xiv) Investimentos em formação de recursos humanos no âmbito do projecto de a
 
 8 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O incentivo a conceder assumirá a forma de incentivo não reembolsável até aos limites fixados no n.º 1 do artigo 16.º do presente regulamento.
 
@@ -297,7 +338,9 @@ xiv) Investimentos em formação de recursos humanos no âmbito do projecto de a
 
 5 - (Revogado.)
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Com excepção do projecto simplificado de inovação, previsto na alínea d) do n.º 1 do artigo 6.º e das despesas previstas na subalínea xiv) da alínea c) do artigo 12.º, o incentivo a conceder é calculado através da aplicação às despesas elegíveis de uma taxa base máxima de 40 %, a qual poderá ser acrescida, das seguintes majorações:
 
@@ -315,7 +358,9 @@ c) Majoração 'Tipo de estratégia' de 5 p.p., a atribuir quando os projectos s
 
 3 - A taxa de incentivo a conceder às despesas elegíveis referidas na subalínea xiv) da alínea c) do n.º 1 do artigo 12.º é a que consta do regulamento específico dos apoios à formação profissional.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - Os limites máximos do incentivo a conceder são:
 
@@ -337,7 +382,9 @@ d)...
 
 3 - O incentivo global atribuído às empresas, com excepção do vale inovação e dos apoios aos investimentos previstos na subalínea xiv) da alínea c) do n.º 1 do artigo 12.º, não poderão exceder os limites comunitários e as taxas máximas, expressas em equivalente subvenção bruta (ESB), definidas no n.º 1 do artigo 16.º do enquadramento nacional.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -367,7 +414,9 @@ h) (Revogado.)
 
 6 - Os avisos de abertura são definidos pelos órgãos de gestão competentes, ouvida a comissão de selecção, sendo divulgados através dos seus respectivos sítios na Internet e no Portal 'Incentivos QREN'.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -379,7 +428,9 @@ h) (Revogado.)
 
 5 - A selecção dos projectos simplificados de inovação é efectuada por ordem crescente da dimensão da empresa, medida pelo número de trabalhadores, até ao limite orçamental definido no aviso de abertura de concurso, sem prejuízo do referido limite poder ser reforçado, por decisão da autoridade de gestão, e, em caso de igualdade, em função da data de entrada da candidatura, podendo o aviso estabelecer factores ponderadores deste critério.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -395,7 +446,9 @@ c) O Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I. P. (
 
 4 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 (Actual corpo do artigo)
 
@@ -419,7 +472,9 @@ i) Quando aplicável, cumprir os normativos em matéria de contratação públic
 
 j) Publicitar os apoios atribuídos nos termos da regulamentação e regras aplicáveis.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -427,11 +482,15 @@ j) Publicitar os apoios atribuídos nos termos da regulamentação e regras apli
 
 3 - (Revogado.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 O SI Qualificação PME respeita o Regulamento (CE) n.º [800/2008](http://data.europa.eu/eli/reg/2008/800/oj?locale=pt), de 6 de Agosto, relativo ao Regulamento Geral de Isenção por Categoria, excepto no caso de despesas enquadradas ao abrigo do Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), de 15 de Dezembro, relativo aos auxílios de minimis, quando assinalado.
 
-## ANEXO A — Projecto Conjunto
+ANEXO A
+
+Projecto Conjunto
 
 1 - ...
 
@@ -469,7 +528,9 @@ f) Condições de pagamento dos custos pelas empresas participantes;
 
 g) Obrigações solidárias e individuais em que as empresas incorrerão no desenvolvimento de projectos.
 
-## ANEXO B — Situação económica e financeira equilibrada
+ANEXO B
+
+Situação económica e financeira equilibrada
 
 1 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 10.º do presente Regulamento, considera-se que as entidades participantes nos projectos, à excepção dos organismos públicos e dos promotores dos projectos previstos na alínea d) do n.º 1 do artigo 6.º, possuem uma situação económico-financeira equilibrada quando apresentem uma situação líquida positiva, no caso de entidades privadas do SCT e associações empresariais, e um rácio de autonomia financeira não inferior a 0,15 nas restantes situações.
 
@@ -495,7 +556,9 @@ CP(índice e) - capital próprio da empresa, incluindo novas entradas de capital
 
 7 - Considera-se que as entidades beneficiárias dos projectos previstos na alínea d) do n.º 1 do artigo 6.º, possuem uma situação económico-financeira equilibrada quando apresentem uma situação líquida positiva, comprovada nos termos acima definidos.
 
-## ANEXO C — Identificação dos órgãos de gestão
+ANEXO C
+
+Identificação dos órgãos de gestão
 
 1 - ...
 
@@ -549,7 +612,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 20 de Março de 2009.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.
 
 ## ANEXO — Republicação do Regulamento do Sistema de Incentivo à Qualificação e Internacionalização de PME anexo à Portaria n.º 1463/2007, de 15 de Novembro
 

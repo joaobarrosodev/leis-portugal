@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/1992/07/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1992-288660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e73d2051203cf2c0fc1f7192a5f5593446fc3aa2b9e29248231250d52a53606
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f0f535abfdff24c5a365714c5fb7873ff81d53e6062bf462ff48c960af66581
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Construção Civil
-- Obras Particulares
-- Licenciamento de Obras
 - Licença Municipal
+- Licenciamento de Obras
 - Madeira.região Autónoma
+- Obras Particulares
 - Regime Jurídico
 relationships:
 - type: cites
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:43Z'
   warnings: []
   errors: []
 ---
@@ -105,32 +113,32 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea l) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-###### Artigo 1.º Na aplicação à Região Autónoma da Madeira do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, serão observadas as disposições constantes dos artigos seguintes.
+Artigo 1.º Na aplicação à Região Autónoma da Madeira do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), de 20 de Novembro, serão observadas as disposições constantes dos artigos seguintes.
 
-###### Art. 2.º As obras promovidas pela administração regional autónoma ficam sujeitas ao regime previsto para as da iniciativa do Estado.
+Art. 2.º As obras promovidas pela administração regional autónoma ficam sujeitas ao regime previsto para as da iniciativa do Estado.
 
-###### Art. 3.º O usufrutuário, locatário, titular do direito de uso e habitação, ou superficiário, referidos nos artigos 10.º, n.º 2, e 14.º, n.º 1, do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) apenas têm legitimidade para requerer informação prévia ou licenciamento relativamente a obras que estejam autorizados a realizar nos termos da lei civil.
+Art. 3.º O usufrutuário, locatário, titular do direito de uso e habitação, ou superficiário, referidos nos artigos 10.º, n.º 2, e 14.º, n.º 1, do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) apenas têm legitimidade para requerer informação prévia ou licenciamento relativamente a obras que estejam autorizados a realizar nos termos da lei civil.
 
-###### Art. 4.º As consultas, autorizações, licenças ou aprovações a formular ou solicitar obrigatoriamente a órgãos ou serviços estranhos ao município devem ser apresentadas ou requeridas às correspondentes entidades regionais.
+Art. 4.º As consultas, autorizações, licenças ou aprovações a formular ou solicitar obrigatoriamente a órgãos ou serviços estranhos ao município devem ser apresentadas ou requeridas às correspondentes entidades regionais.
 
-###### Art. 5.º Incumbe especialmente à Inspecção Regional Administrativa a participação ao Ministério Público dos factos previstos na alínea b) do n.º 1 do artigo 52.º
+Art. 5.º Incumbe especialmente à Inspecção Regional Administrativa a participação ao Ministério Público dos factos previstos na alínea b) do n.º 1 do artigo 52.º
 
-###### Art. 6.º A faculdade conferida pelo n.º 2 do artigo 58.º pertence, na Região, ao Vice-Presidente do Governo Regional.
+Art. 6.º A faculdade conferida pelo n.º 2 do artigo 58.º pertence, na Região, ao Vice-Presidente do Governo Regional.
 
-###### Art. 7.º As referências feitas no [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) ao Instituto Nacional de Estatística consideram-se reportadas, na Região, ao Serviço Regional de Estatística.
+Art. 7.º As referências feitas no [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) ao Instituto Nacional de Estatística consideram-se reportadas, na Região, ao Serviço Regional de Estatística.
 
-###### Art. 8.º Dos actos administrativos preferidos por organismos da administração regional autónoma nos termos do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) cabe sempre recurso hierárquico, que se considera tacitamente indeferido se, no prazo de 60 dias, não houver decisão.
+Art. 8.º Dos actos administrativos preferidos por organismos da administração regional autónoma nos termos do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) cabe sempre recurso hierárquico, que se considera tacitamente indeferido se, no prazo de 60 dias, não houver decisão.
 
-###### Art. 9.º A competência atribuída no artigo 66.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) ao Ministério das Obras Públicas, Transportes e Comunicações incumbe, na Região, à Secretaria Regional do Equipamento Social.
+Art. 9.º A competência atribuída no artigo 66.º do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) ao Ministério das Obras Públicas, Transportes e Comunicações incumbe, na Região, à Secretaria Regional do Equipamento Social.
 
-###### Art. 10.º O presente diploma entra em vigor na data de início da vigência do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486).
+Art. 10.º O presente diploma entra em vigor na data de início da vigência do [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486).
 
 Aprovado em sessão plenária de 27 de Maio de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 20 de Junho de 1992.**
+Assinado em 20 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/12600/0008300127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2021/07/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2021-166153637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a41e3600c711c5de0e439af30967ba2c625ee8a6e8ac09f1e9aa4a68161f14c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 579644d19a2b4dc2ac75e3d9a861201100c9f9efb823cbbc1bf4f47b807de0ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Comissão de Serviço
-- Governo Regional
 - Definição de Competências
+- Governo Regional
 - Orgânica
 - Período Experimental
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Açores
-- Transferência de Pessoal
 - Secretaria Regional da Juventude Qualificação Profissional e Emprego
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:201616330:por
@@ -129,16 +129,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122529725:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123436957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150757510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162834699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498093:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55235838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70411882:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:200595720:por
+  label: Revogadas, as normas que colidam com as competências da Secretaria Regional das Finanças, Planeamento e Administração
+    Pública, ora atribuídas, constantes do presente diploma, pelo(a) Decreto Regulamentar Regional n.º 14/2022/A - Diário
+    da República n.º 170/2022, Série I de 2022-09-02, nos termos da sua al. b) do art, 7.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-2022-200595720
+  date: '2022-09-02'
+- type: repealed_by
+  target: pt:dre:201616330:por
+  label: Revogado, a partir de 30.09.2022, o presente diploma pelo(a) Decreto Regulamentar Regional n.º 18/2022/A - Diário
+    da República n.º 189/2022, Série I de 2022-09-29, nos termos do seu art. 7.º, e determinada a transferência dos direitos
+    e obrigações dos serviços objeto deste último diploma para os serviços que ora passam a integrar, em razão da matéria,
+    as respetivas competências, bem como a transmissão para estes serviços dos arquivos, acervos documentais, programas informáticos,
+    bases de dados, e outros suportes digitais que lhes digam respeito
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2022-201616330
+  date: '2022-09-29'
 article_structure:
   article_count: 83
-  section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:41Z'
   warnings: []
   errors: []
 ---
@@ -201,11 +301,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 1 de abril de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 25 de junho de 2021.**
+Assinado em Angra do Heroísmo em 25 de junho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -919,7 +1019,9 @@ b) A Divisão do Associativismo, Cidadania, Mobilidade e Ocupação dos Jovens.
 
 3 - A DSJ é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 23.º — Divisão do Empreendedorismo e Criatividade, Digitalização e Formação dos Jovens
+###### Artigo 23.º
+
+##### Divisão do Empreendedorismo e Criatividade, Digitalização e Formação dos Jovens
 
 1 - À Divisão do Empreendedorismo e Criatividade, Digitalização e Formação dos Jovens, doravante designada por DECDFJ, compete:
 
@@ -961,7 +1063,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DECDFJ é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 24.º — Divisão do Associativismo, Cidadania, Mobilidade e Ocupação dos Jovens
+###### Artigo 24.º
+
+##### Divisão do Associativismo, Cidadania, Mobilidade e Ocupação dos Jovens
 
 1 - À Divisão do Associativismo, Cidadania, Mobilidade e Ocupação dos Jovens, doravante designada por DACMOJ, compete:
 
@@ -1241,7 +1345,9 @@ b) A Divisão do Fundo Social Europeu.
 
 3 - A DSFSEF é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 33.º — Divisão da Formação Profissional e Certificação
+###### Artigo 33.º
+
+##### Divisão da Formação Profissional e Certificação
 
 1 - À Divisão da Formação Profissional e Certificação, doravante designada por DFPC, compete:
 
@@ -1275,7 +1381,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DFPC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 34.º — Divisão do Fundo Social Europeu
+###### Artigo 34.º
+
+##### Divisão do Fundo Social Europeu
 
 1 - À Divisão do Fundo Social Europeu, doravante designada por DFSE, compete:
 
@@ -1393,7 +1501,9 @@ p) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - A DST é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 38.º — Divisão das Relações do Trabalho
+###### Artigo 38.º
+
+##### Divisão das Relações do Trabalho
 
 1 - À Divisão das Relações do Trabalho, doravante designada por DRT, compete:
 
@@ -1529,7 +1639,9 @@ b) A Divisão da Indústria e dos Recursos Geológicos.
 
 3 - A DSCI é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 44.º — Divisão do Comércio
+###### Artigo 44.º
+
+##### Divisão do Comércio
 
 1 - À Divisão do Comércio, doravante designada por DC, compete:
 
@@ -1557,7 +1669,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 45.º — Divisão da Indústria e dos Recursos Geológicos
+###### Artigo 45.º
+
+##### Divisão da Indústria e dos Recursos Geológicos
 
 1 - À Divisão da Indústria e dos Recursos Geológicos, doravante designada por DIRG, compete:
 
@@ -2107,4 +2221,6 @@ A carreira de técnico de emprego é uma carreira subsistente, sendo-lhe aplicá
 
 Quadro de pessoal dirigente, de direção específica e de chefia da Secretaria Regional da Juventude, Qualificação Profissional e Emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/12600/0008300127.pdf))](https://files.diariodarepublica.pt/1s/2021/07/12600/0008300127.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/12600/0008300127.pdf)
+
+114354304

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/01500/01160118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/3-1978-447894
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-11-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1760b5535f055ab20ff341f0a7777375f5933eaa84051d36ee45863ad4aa9010
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 414f50bbf91179a42cd662dd141015ced3dfb7bd49512c1cb7b306ca0d0f792a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Alteração Orçamental
+- Assembleia Legislativa Regional
+- Contabilidade Pública
+- Despesas Públicas
+- Execução do Orçamento
+- Fiscalização
+- Governo Regional
+- Orçamento Regional
+- Relatório e Contas
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:216516:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:660166:por
+  label: "Alterados os arts. 9º e 11º, pelo DLR.4/84/A.1984.01.16.ARA, DR.IS [13]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/4-1984-660166
+  date: '1984-01-16'
+- type: amended_by
+  target: pt:dre:496889:por
+  label: "Alterados os arts. 10º, n.ºs 1 e 3, 12º, nºs 3 e 4, 13º, 14º e 19º, n.ºs 1 e 2, pelo DLR.17/87/A.1987.11.13.ARA,\
+    \ DR.IS [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-1987-496889
+  date: '1987-11-13'
+- type: repealed_by
+  target: pt:dre:216516:por
+  label: "Revogado pela LEI.79/98.1998.11.24.AR DR.IS-A [272]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/79-1998-216516
+  date: '1998-11-24'
 article_structure:
   article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:53Z'
   warnings: []
   errors: []
 ---
@@ -242,10 +269,10 @@ O Governo Regional procederá, por decreto regulamentar, ao desenvolvimento dos 
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 24 de Novembro de 1977.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.
 
-**Assinado em Angra do Heroísmo em 2 de Janeiro de 1978.**
+Assinado em Angra do Heroísmo em 2 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.

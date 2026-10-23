@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2013/06/17/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2013-496765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4deab1620774145ecbfc28bd812ad7776ae532ad75ed80eb5c2131c9dd6fd71f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99dffd5d333bf0a9650753c2f55a01ff164370de80ed4badbdb32172b5902f21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código do Procedimento Administrativo
-- Multa
 - Contra-ordenação
+- Contratação Eletrónica
+- Contratação Pública
 - Controlo de Qualidade
 - Definição de Competências
 - Direcção Regional dos Transportes Terrestres
 - Diretor Regional
+- Documento Eletrónico
 - Fiscalização
 - Inspecção de Veículos
 - Instituto da Mobilidade e dos Transportes
 - Licenciamento
-- Veículo
-- Documento Eletrónico
-- Segurança Rodoviária
+- Madeira.região Autónoma
+- Multa
 - Normas de Segurança
 - Pessoal de Inspecção
 - Preço
-- Madeira.região Autónoma
-- Contratação Eletrónica
-- Contratação Pública
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/26/2013/02/19/p/dre
@@ -120,16 +120,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/66/1996/03/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/66/1996/03/01/p/dre
+- type: cites
+  target: pt:dre:258531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683199:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:42Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +208,9 @@ São alterados os artigos 2.º, 6.º e 7.º do [Decreto Legislativo Regional n.�
 
 6 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -190,7 +224,9 @@ c) 15% no ano de 2015 e subsequentes.
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - Até à implementação na Região Autónoma da Madeira da tramitação eletrónica dos procedimentos prévios à celebração dos contratos de gestão e da plataforma eletrónica de informação nos termos previstos nos artigos 6.º, 32.º e 33.º da [Lei n.º 11/2011](https://diariodarepublica.pt/dr/detalhe/lei/11-2011-287123), de 26 de abril, na sua atual redação, todos os procedimentos, pedidos, comunicações e notificações são efetuados nos termos gerais previstos no Código do Procedimento Administrativo.
 
@@ -206,11 +242,11 @@ c) 15% no ano de 2015 e subsequentes.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de maio de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 31 de maio de 2013.**
+Assinado em 31 de maio de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

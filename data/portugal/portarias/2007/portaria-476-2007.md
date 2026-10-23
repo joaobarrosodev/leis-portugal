@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/476/2007/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/476-2007-519418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ca8090516fd4dccb6d79ea930b5ad135e6230227408adbc5c1ed0c3e1c6388a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0f63360cfc11942be85ce5881d54a5ce2ee54a8101e5f7a7598aab10aada531
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Língua Portuguesa
 - Cultura Portuguesa
-- Plano de Estudos
 - Definição de Competências
-- Pedagogia Moderna
-- Manual Escolar
 - Direcção Geral de Inovação e Desenvolvimento Curricular
 - Ensino Básico
+- Língua Portuguesa
+- Manual Escolar
+- Pedagogia Moderna
+- Plano de Estudos
 - Sistema Educativo
 relationships:
 - type: amended_by
@@ -92,16 +92,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1488/2004/12/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1488/2004/12/24/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583209:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:609585:por
+  label: "Revogados, a partir de 26.02.2010, os nºs 6º e 7º pela PORT.114/2010.25.02.2010.ME, DR.IS [39] de 25.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/114-2010-609585
+  date: '2010-02-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:50Z'
   warnings: []
   errors: []
 ---
@@ -144,4 +173,4 @@ b) Outro, de carácter didáctico-pedagógico, com os termos a trabalhar, por ci
 
 7.º Ficam suspensos, até 2010, os processos de adopção de novos manuais das disciplinas de Língua Portuguesa dos 5.º, 6.º, 7.º, 8.º e 9.º anos de escolaridade.
 
-**A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 7 de Março de 2007.**
+A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 7 de Março de 2007.

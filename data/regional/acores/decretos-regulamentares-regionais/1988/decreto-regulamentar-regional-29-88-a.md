@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15900/28502851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1988-373241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f1d86a2e5a3880f45ee5bedacc40f2f51fef7bf6d29d1bc7eb80c96519b37fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cff7dff5c99e4cc925ae1cc2ac1e6268d4d402607411f7036a3db72b7dc6f511
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ilha do Pico
+- Medidas Preventivas
 relationships:
 - type: amended_by
   target: pt:dre:479598:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:358561:por
+  label: "Alterados o n.º 1 do art. 1.º e o art. 4.º pelo DRR.65/88/A.28.10.1988.GR-RAA, DR.IS [250] de 28.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/65-1988-358561
+  date: '1988-10-28'
+- type: cites
+  target: pt:dre:407537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479598:por
+  label: "Revogado pelo DLR.29/2004/A.16.07.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2004-479598
+  date: '2004-07-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:05Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +118,7 @@ Acresce ainda que é intenção primordial do presente diploma a não adulteraç
 
 Assim, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição e da alínea c) do artigo 56.º do Estatuto da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º - 1 - Durante o prazo de dois anos fica dependente de autorização da Secretaria Regional do Equipamento Social (SRES), ouvidas os serviços competentes da Secretaria Regional dos Transportes e Turismo (SRTT), da Secretaria Regional da Agricultura e Pescas (SRAP) e da respectiva câmara municipal, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
+Artigo 1.º - 1 - Durante o prazo de dois anos fica dependente de autorização da Secretaria Regional do Equipamento Social (SRES), ouvidas os serviços competentes da Secretaria Regional dos Transportes e Turismo (SRTT), da Secretaria Regional da Agricultura e Pescas (SRAP) e da respectiva câmara municipal, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos habitacionais;
 
@@ -123,26 +144,26 @@ l) Quaisquer outras actividades ou trabalhos que afectem a integridade e caracte
 
 2 - As autorizações a que se refere o número anterior não dispensam quaisquer outros condicionalismos exigidos por lei, nem prejudicam a competência legalmente atribuída a outras entidades.
 
-###### Art. 2.º - 1 - É aplicável o disposto nos artigos 11.º a 13.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+Art. 2.º - 1 - É aplicável o disposto nos artigos 11.º a 13.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
 2 - São competentes para promover o cumprimento das medidas estabelecidas neste diploma e de proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a SRES e as Câmaras Municipais de Madalena e de São Roque do Pico.
 
-###### Art. 3.º - 1 - É concedido às Câmaras Municipais referidas no artigo anterior o direito de preferência nas transmissões, por título oneroso entre particulares, de terrenos ou edifícios situados na área definida na planta anexa a este diploma.
+Art. 3.º - 1 - É concedido às Câmaras Municipais referidas no artigo anterior o direito de preferência nas transmissões, por título oneroso entre particulares, de terrenos ou edifícios situados na área definida na planta anexa a este diploma.
 
 2 - Deverá ser dirigida aos respectivos presidentes das Câmaras a comunicação a que se refere o artigo 3.º do [Decreto n.º 862/76](https://diariodarepublica.pt/dr/detalhe/decreto/862-1976-407537), de 22 de Dezembro.
 
-###### Art. 4.º No prazo de um ano a contar da publicação do presente diploma deverá ser elaborado o estudo da definição da área delimitada na planta anexa, bem como o respectivo projecto de ordenamento, por um grupo de trabalho constituído por um representante da SRES, que presidirá, da Secretaria Regional da Educação e Cultura, da SRTT da SRAP e das Câmaras Municipais de Madalena e de São Roque do Pico.
+Art. 4.º No prazo de um ano a contar da publicação do presente diploma deverá ser elaborado o estudo da definição da área delimitada na planta anexa, bem como o respectivo projecto de ordenamento, por um grupo de trabalho constituído por um representante da SRES, que presidirá, da Secretaria Regional da Educação e Cultura, da SRTT da SRAP e das Câmaras Municipais de Madalena e de São Roque do Pico.
 
-###### Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 27 de Abril de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 8 de Junho de 1988.**
+Assinado em Angra do Heroísmo em 8 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/15900/28502851.pdf))](https://files.diariodarepublica.pt/1s/1988/07/15900/28502851.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/15900/28502851.pdf)

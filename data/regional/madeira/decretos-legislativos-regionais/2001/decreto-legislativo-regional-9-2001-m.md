@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2001/05/10/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2001-313836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9bec3bcf7001e62a5de69fca4a31ce3843d31443aaa9091cd70a3f6a8591f8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da7bed1aae89b01dfaa65c2ad62f13afc70c1bfe71912c741c0df98fdb8ccb3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Criação de Empresas
 - Desenvolvimento Cultural
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
 - Estatuto
-- Sociedade de Desenvolvimento do Norte
-- Desenvolvimento Económico
 - Madeira.região Autónoma
+- Sociedade Anónima
+- Sociedade de Desenvolvimento do Norte
 relationships:
 - type: amended_by
   target: pt:dre:114484244:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:207852:por
+  label: "Alterados os arts. 1º, 2º, 3º, 4º, 5º, 7º, e 8º do presente diploma, assim como os arts. 1º, 3º e 4º dos Estatutos\
+    \ publicados em anexo, pelo DLR.11/2002/M.2002.06.26.ALR-RAM DR.IS-A [162] de 16/Jul/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2002-207852
+  date: '2002-06-26'
+- type: amended_by
+  target: pt:dre:114484244:por
+  label: Aditado, com efeitos desde 01.01.2018, o art. 6.º-A ao anexo (Estatutos da Sociedade de Desenvolvimento do Norte,
+    S. A.) do presente diploma pelo(a) Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I
+    de 2018-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2018-114484244
+  date: '2018-01-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1996/01/04/p/dre
   label: null
@@ -107,16 +120,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693845:por
+  label: null
+  source: null
 article_structure:
   article_count: 26
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:02Z'
   warnings: []
   errors: []
 ---
@@ -213,11 +254,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira, em 29 de Março de 2001.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 13 de Abril de 2001.**
+Assinado em 13 de Abril de 2001.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Estatutos da Sociedade de Desenvolvimento do Norte, S. A.
 

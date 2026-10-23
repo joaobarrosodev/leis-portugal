@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/02/02200/0034900355.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2016/02/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2016-73399498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6655981413493df1bf46296f333f6a291d1709567c054e465afa74c3c54b2809
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 828b3b0b30af4c3d4927dc139d3a6672a5b3e6966c2ddc294b68860913158058
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,69 +69,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
+- Administração Regional
 - Agência para a Energia
+- Agência Portuguesa do Ambiente
 - Aproximação das Legislações
 - ÁREA de Reabilitação Urbana
-- Certificado de Aptidão Profissional
-- Património
-- Formação Profissional
 - Certificação Electrónica
-- Qualidade do AR
+- Certificação Energética dos Edifícios
 - Certificação Profissional
-- Imóvel Classificado
-- Energia Elétrica
-- Multa
+- Certificado de Aptidão Profissional
+- Certificado de Qualidade
+- Climatização
+- Comércio
 - Construção Civil
-- Direção Geral da Saúde
-- Obras Particulares
-- Governo Regional
-- Obras de Conservação e Restauro
 - Contra-ordenação
 - Definição de Competências
-- Renovação Urbana
-- Climatização
-- Regulamento dos Sistemas Energéticos de Climatização em Edifícios
-- Sistema de Certificação Energética
-- Política Energética
+- Direção Geral da Saúde
+- Direção Geral de Energia e Geologia
+- Eficiência Energética
+- Energia
+- Energia Elétrica
 - Equipamento Eléctrico
 - Equipamento Térmico
-- União Europeia
 - Especificação Técnica
-- Instalação de GÁS
 - Fiscalização
-- Direção Geral de Energia e Geologia
-- Inspecção Regional do Ambiente
-- Certificação Energética dos Edifícios
+- Formação Profissional
+- Governo Regional
+- Habitação
+- Imóvel Classificado
 - Indústria da Construção
 - Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Inspecção Regional do Ambiente
+- Instalação de GÁS
 - Licenciamento
-- Certificado de Qualidade
+- Multa
 - Normas de Construção
+- Obras de Conservação e Restauro
 - Obras Municipais
+- Obras Particulares
 - Obras Públicas
-- Urbanismo
-- Energia
+- Património
+- Património Arquitectónico
+- Política Energética
 - Poupança de Energia
+- Prédio Urbano
 - Prestação de Serviços
 - Profissão Independente
+- Qualidade do AR
 - Qualificação Profissional
-- Património Arquitectónico
 - Regime Jurídico
 - Regulamento
-- Habitação
+- Regulamento dos Sistemas Energéticos de Climatização em Edifícios
 - Regulamento Geral das Edificações Urbanas
-- Administração Regional
-- Açores
+- Renovação Urbana
+- Sistema de Certificação Energética
 - Sistema Nacional de Certificação Energética e da Qualidade do AR Interior nos Edifícios
-- Prédio Urbano
 - Sistema Nacional de Certificação Profissional
-- Eficiência Energética
 - Taxa
 - TAXA de Prestação de Serviços
-- Comércio
+- União Europeia
+- Urbanismo
 - Vistoria
-- Agência Portuguesa do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:907097151:por
@@ -189,6 +189,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2013/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2013/08/20/p/dre
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499237:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66426484:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67123272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70280719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:71100900:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:907097151:por
+  label: Revogado, a partir de 14 de março de 2025, pelo(a) Decreto Legislativo Regional n.º 9/2025/A - Diário da República
+    n.º 30/2025, Série I de 2025-02-12, nos termos do artigo 11.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2025-907097151
+  date: '2025-02-12'
 - type: transposes
   target: celex:32010L0031
   label: null
@@ -196,13 +250,13 @@ relationships:
 article_structure:
   article_count: 22
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:13Z'
   warnings: []
   errors: []
 ---
@@ -531,10 +585,10 @@ O presente diploma entra em vigor oito dias após a sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de dezembro de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 12 de janeiro de 2016.**
+Assinado em Angra do Heroísmo em 12 de janeiro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/06/10800/0000200009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2020/06/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-135056056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac492731a8b6aa18a8cccaf1dc47604dd1114cd6191cd380f00ac3348d06e24b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12c5a1613ae13f8ffc38ead535c6c24aee52e1fc051e75e9d24a0e800b20156f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Complemento Regional de Pensão
-- Remuneração Complementar Regional
-- Remuneração Acessória
-- Pensionista
-- Administração Regional
 - Açores
+- Administração Regional
+- Complemento Regional de Pensão
+- Pensionista
+- Remuneração Acessória
+- Remuneração Complementar Regional
 - Trabalhador
 relationships:
+- type: amended_by
+  target: pt:dre:176412614:por
+  label: Determinado, com efeitos a 01.01.2022, que o montante da remuneração complementar regional a que se refere o n.º
+    1 do art. 11.º do DLR 8/2002/A de 10-abr, na versão republicada pelo presente diploma, é atualizado em 2,5 %, bem como
+    é garantido aos beneficiários do complemento regional de pensão, previsto no diploma supra, um aumento de 5 % real, superior
+    à inflação do valor conjunto das suas pensões, pelo(a) Decreto Legislativo Regional n.º 38/2021/A - Diário da República
+    n.º 247/2021, Série I de 2021-12-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/38-2021-176412614
+  date: '2021-12-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -113,16 +122,200 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:106874649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114440373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114528125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117821874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119188972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:119397721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122253267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127816253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129208009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130008908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:130473160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55042849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57205880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:57308389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:58273534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:59077887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66507582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66880175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66936947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67332419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74454667:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74895681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74967225:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 21
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:35Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +362,9 @@ Os artigos 10.º e 11.º do [Decreto Legislativo Regional n.º 8/2002/A](https:/
 
 2 - [...].
 
-###### Artigo 11.º — Montante
+Artigo 11.º
+
+Montante
 
 1 - [...]:
 
@@ -235,11 +430,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de maio de 2020.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 29 de maio de 2020.**
+Assinado em Angra do Heroísmo em 29 de maio de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -392,3 +587,5 @@ São revogados os Decretos Legislativos Regionais n.os [1/2000/A](https://diario
 ###### Artigo 15.º — Produção de efeitos
 
 O presente diploma produz efeitos a partir de 1 de janeiro de 2002.
+
+113282278

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2006/06/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2006-353938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26f78ace70c505ce612db9ff5afa8006f1c382cbcbab277abc9fa48c49d26b4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a84a9641ecf5b99cf0603a02708a92c4d69522f7726dde66d9cff549dbcbbdef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Proteção dos Animais
-- Proteção do Ambiente
+- Açores
 - Diversidade Biológica
 - Espécie Protegida
-- Zona de Proteção
+- Proteção do Ambiente
+- Proteção dos Animais
 - Proteção Fitossanitária
 - Recursos Naturais
-- Açores
 - Rede Natura 2000
+- Vida Selvagem
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: amended_by
   target: pt:dre:439151:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519983:por
+  label: "Alterados os mapas de representação territorial das áreas da Rede Natura 2000, constantes das fichas correspondentes\
+    \ a cada ilha e os metadados descritivos relativos à representação territorial do sítio de interesse comunitário Costa\
+    \ e Caldeirão do Corvo, constantes do cap. II do anexo do presente diploma, pelo DLR.7/2007/A.21.03.2007.AL-RAA, DR.IS\
+    \ [70] de 10.04.2007, de acordo com os mapas anexos àquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2007-519983
+  date: '2007-03-21'
+- type: amended_by
+  target: pt:dre:439151:por
+  label: "Integradas no Parque Natural da Ilha do Corvo e reclassificadas, como áreas protegidas para a gestão de habitats\
+    \ ou espécies e de gestão de recursos, o Sítio de Importância Comunitária da Costa do Caldeirão do Corvo e a Zona de Protecção\
+    \ Especial Costa e Caldeirão do Corvo, constantes do Plano Sectorial para a Rede Natura 2000 da Região no presente diploma,\
+    \ com as alterações constantes do DLR 7/2007/A de 10-Abr, pelo DLR.44/2008/A.05.11.2008.AL-RAA, DR.IS [215] de 05.11.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/44-2008-439151
+  date: '2008-11-05'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -89,16 +106,21 @@ relationships:
   target: celex:31992L0043
   label: null
   source: http://data.europa.eu/eli/dir/1992/43/oj
+- type: corrected_by
+  target: pt:dre:242893:por
+  label: "Rectificado pela Decl-Rect.48-A/2006.03.08.2006.PCM, DR.IS [151-Supl] de 07.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/48-a-2006-242893
+  date: '2006-08-03'
 article_structure:
   article_count: 5
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:21Z'
   warnings: []
   errors: []
 ---
@@ -157,17 +179,17 @@ O Plano Sectorial da Rede Natura 2000 vigora pelo prazo de 10 anos a contar da d
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de Março de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 19 de Maio de 2006.**
+Assinado em Angra do Heroísmo em 19 de Maio de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
 ## ANEXO — PLANO SECTORIAL DA REDE NATURA 2000 DA REGIÃO AUTÓNOMA DOS AÇORES
 
-### CAPITULO I
+CAPITULO I
 
 Enquadramento legal e regulamentar do Plano Sectorial
 
@@ -395,7 +417,7 @@ A listagem a propor, de medidas, inibidoras de impactes negativos e preventivas 
 
 . As medidas regulamentares devem proporcionar uma leitura simples e compreensiva das propostas, bem como das acções que lhes venham a estar associadas.
 
-### CAPITULO II
+CAPITULO II
 
 O desenvolvimento do Plano Sectorial da Rede Natura 2000 na Região Autónoma dos Açores
 
@@ -477,7 +499,7 @@ As fichas de identificação e caracterização de todos os SIC e ZPE da Região
 
 Ficha de identificação e caracterização - SIC ou ZPE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 As medidas de gestão propostas nestas fichas de identificação e caracterização dos SIC e ZPE resultam da identificação das ameaças e impactes, reais e potenciais, traduzindo um âmbito territorial específico, devendo ser analisadas, sistematizadas e padronizadas de forma a abrangerem mais do que uma área classificada, devendo ser aplicáveis a situações similares, de forma a materializarem um padrão de abordagem para o Plano Sectorial que cumpra os seguintes objectivos:
 
@@ -527,7 +549,7 @@ Apresentam-se de seguida, as fichas correspondentes a cada ilha, com a listagem 
 
 Ilha: Corvo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Costa e Caldeirão
 
@@ -543,11 +565,11 @@ SIC: Costa e Caldeirão.
 
 ZPE: Costa e Caldeirão.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 Ilha: Flores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Costa Nordeste
 
@@ -573,11 +595,11 @@ SIC: Costa Nordeste e Zona Central - Morro Alto.
 
 ZPE: Costa Nordeste e Costa Sul e Sudoeste.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 Ilha: Faial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Caldeira e Capelinhos
 
@@ -615,11 +637,11 @@ SIC: Caldeira e Capelinhos, Monte da Guia, Ponta do Varadouro, Morro de Castelo 
 
 ZPE: Caldeira e Capelinhos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 Ilha: Pico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Montanha do Pico, Praínha e Caveiro
 
@@ -679,11 +701,11 @@ SIC: Montanha do Pico, Praínha e Caveiro, Ponta da Ilha, Lajes do Pico, Ilhéus
 
 ZPE: Ponta da Ilha, zona Central do Pico, Lajes do Pico, Furnas de Santo António.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 Ilha: S. Jorge
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Ponta dos Rosais
 
@@ -715,11 +737,11 @@ SIC: Ponta dos Rosais e Costa NE e Ponta do Topo.
 
 ZPE: Ilhéu do Topo e Costa Adjacente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 Ilha: Graciosa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Ilhéu de Baixo - Restinga
 
@@ -745,11 +767,11 @@ SIC: Ilhéu de Baixo - Restinga e Ponta Branca.
 
 ZPE: Ilhéu debaixo e Ilhéu da Praia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 Ilha: Terceira
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Costa das Quatro Ribeiras
 
@@ -781,11 +803,11 @@ SIC: Costa das Quatro Ribeiras e Serra de Santa Bárbara e Pico Alto.
 
 ZPE: Ponta das Contendas e Ilhéu das Cabras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 Ilha: São Miguel
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Lagoa do Fogo
 
@@ -805,7 +827,7 @@ SIC: Caloura-Ponta da Galera e Lagoa do Fogo.
 
 ZPE: Pico da Vara/Ribeira do Guilherme.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Ponta do Castelo
 
@@ -821,21 +843,21 @@ SIC: Ponta do Castelo.
 
 ZPE: Ilhéu da Vila e costa adjacente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Ilhéu das Formigas e Recife Dollabarat
 
 O Sítio de Importância Comunitária do Ilhéu das Formigas e Recife Dollabarat é delimitado a Norte, por uma tangente à linha perpendicular da linha de costa de 0,5 nm, seguindo pela linha batimétrica dos 200 m, até ao ponto inicial.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 Ilha: Santa Maria.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Ilhéu das Formigas e Recife Dollabarat
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 SIC: Banco D. João de Castro
 
@@ -843,7 +865,7 @@ O Sítio de Importância Comunitária do Banco de D. João de Castro é delimita
 
 SIC: Banco D. João de Castro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 3 - Integração das Medidas Reguladoras
 
@@ -861,7 +883,7 @@ A listagem das medidas minimizadoras e preventivas, agrupadas por sector de acti
 
 Ficha final - Medidas reguladoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf))](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/06/109a00/38663915.pdf)
 
 4 - Recomendações Sectoriais e Medidas Reguladoras
 

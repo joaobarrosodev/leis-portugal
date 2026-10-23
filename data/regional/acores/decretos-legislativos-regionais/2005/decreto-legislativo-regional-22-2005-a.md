@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/08/150a00/45274544.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2005/08/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2005-241856
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0f2a7359f2ed42c38e008eb5d5e2b5f3b68bc38e1c5a5f54b0924bc62470241
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a17810d6b4940b0a13e35cc2800f634feaa58696083d169fd9299ea4e69b2939
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Encarregado de Educação
-- Escolaridade Obrigatória
-- Estatuto
-- Infracção Disciplinar
-- Estudante
-- Gestão Escolar
-- Faltas
-- Estabelecimento de Ensino
-- Ensino Básico
-- Regulamento Interno
 - Açores
+- Encarregado de Educação
+- Ensino Básico
+- Escolaridade Obrigatória
+- Estabelecimento de Ensino
+- Estatuto
+- Estudante
+- Faltas
+- Gestão Escolar
+- Infracção Disciplinar
 - Matrícula
+- Regulamento Interno
 relationships:
 - type: amended_by
   target: pt:dre:636050:por
@@ -103,16 +103,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/41/2005/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/41/2005/01/17/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636050:por
+  label: "Revogado pelo DLR.18/2007/A.19.07.2007.AL-RAA, DR.IS [138] de 19.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2007-636050
+  date: '2007-07-19'
 article_structure:
   article_count: 82
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:12Z'
   warnings: []
   errors: []
 ---
@@ -167,13 +196,13 @@ b) Os artigos 12.º a 15.º, 17.º a 26.º, 44,º, 45.º e 52.º a 57.º do Regu
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de Junho de 2005.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 18 de Julho de 2005.**
+Assinado em Angra do Heroísmo em 18 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — ESTATUTO DO ALUNO DOS ENSINOS BÁSICO E SECUNDÁRIO
 
@@ -999,7 +1028,7 @@ Fora da sala de aula, o pessoal não docente da escola deve advertir o aluno, de
 
 ###### Artigo 60.º — Competência do presidente do conselho executivo
 
-**O presidente do conselho executivo é competente, sem prejuízo da sua intervenção para advertir e repreender, para a aplicação das medidas disciplinares de suspensão da escola até cinco dias, aplicando-se o disposto no n.º 2 do artigo anterior.**
+O presidente do conselho executivo é competente, sem prejuízo da sua intervenção para advertir e repreender, para a aplicação das medidas disciplinares de suspensão da escola até cinco dias, aplicando-se o disposto no n.º 2 do artigo anterior.
 
 ###### Artigo 61.º — Competência do conselho de turma disciplinar
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2015/05/10100/0314503146.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2015/05/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2015-67289948
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6e6a3381e1f461707dd6c2a7ab5ebc1b41c70b995bc5a356381a8296944e50c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 842df2742698de81706311a8e9bbee686597c025082912957c845a741e706231
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Casa Degradada
-- Obras Particulares
-- Desinfestação
-- Controlo Sanitário
-- Insecto
-- Regime Jurídico
-- Execução por Dívidas
-- Processo de Execução
 - Açores
+- Casa Degradada
+- Controlo Sanitário
+- Desinfestação
+- Execução por Dívidas
+- Financiamento
+- Insecto
+- Obras Particulares
 - Prédio Urbano
+- Processo de Execução
+- Regime Jurídico
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/20/2005/07/22/a/dre
@@ -86,16 +86,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/22/2010/06/30/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/22/2010/06/30/a/dre
+- type: cites
+  target: pt:dre:240007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334960:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:58Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +158,9 @@ c) [...].
 
 6 - [...].
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 No caso de pessoas singulares, a transmissibilidade do direito aos apoios concedidos ao abrigo do presente diploma, por força da morte do seu titular, depende de reapreciação da candidatura, a efetuar nos termos do artigo 37.º e seguintes, com as necessárias adaptações.»
 
@@ -160,10 +170,10 @@ O presente diploma produz efeitos no dia seguinte ao da sua publicação e aplic
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de abril de 2015.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 5 de maio de 2015.**
+Assinado em Angra do Heroísmo em 5 de maio de 2015.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

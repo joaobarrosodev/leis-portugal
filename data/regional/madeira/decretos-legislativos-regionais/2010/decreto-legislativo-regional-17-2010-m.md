@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2010/08/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-343611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 283b6fe4a8303d6a37a949965ed2d7aa1c0b352b1c4102a95df82e75070b58c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d24bd98965e0f0cb6cc8ab4b0134be6bfc038a9e4b1f41e52d33fa850c056570
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
-- Estatuto da Carreira Docente
-- Sistema Retributivo
 - Carreira Profissional
+- Estatuto da Carreira Docente
+- Madeira.região Autónoma
 - Pessoal Docente
 - Qualificação Profissional
-- Madeira.região Autónoma
+- Sistema Retributivo
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:55021038:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:174791:por
+  label: "Alterados o art. 40º e o anexo I do Estatuto da Carreira Docente da Região Autónoma da Madeira, aprovado pelo DLR\
+    \ 6/2008/M, de 25-fev, na redação do presente diploma, pelo DLR.20/2012/M.29.08.2012.AL-RAM, DR.IS [167] de 29.08.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/20-2012-174791
+  date: '2012-08-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/270/2009/09/30/p/dre
   label: null
@@ -118,16 +125,112 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403296:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
 article_structure:
-  article_count: 119
+  article_count: 117
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:17Z'
   warnings: []
   errors: []
 ---
@@ -196,7 +299,9 @@ b) ...
 
 8 - (Anterior n.º 7.)
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - ...
 
@@ -212,7 +317,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - A atribuição da menção qualitativa de Excelente durante dois períodos consecutivos da avaliação do desempenho determina a redução de quatro anos no tempo de serviço docente exigido para efeitos de transição para o 6.º escalão da carreira.
 
@@ -238,7 +345,7 @@ O anexo i do Estatuto passa a ter a seguinte redacção:
 
 Índices remuneratórios a que se refere o n.º 2 do artigo 37.º e o n.º 1 do artigo 56.º do Estatuto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/16000/0356203587.pdf))](https://files.diariodarepublica.pt/1s/2010/08/16000/0356203587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/16000/0356203587.pdf)
 
 ###### Artigo 4.º — Disposições transitórias
 
@@ -306,11 +413,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 27 de Julho de 2010.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 4 de Agosto de 2010.**
+Assinado em 4 de Agosto de 2010.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
@@ -1858,4 +1965,4 @@ Em tudo o que não esteja especialmente regulado e não contrarie o disposto no 
 
 Índices remuneratórios a que se refere o n.º 2 do artigo 37.º e o n.º 1 do artigo 56.º do Estatuto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/16000/0356203587.pdf))](https://files.diariodarepublica.pt/1s/2010/08/16000/0356203587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/08/16000/0356203587.pdf)

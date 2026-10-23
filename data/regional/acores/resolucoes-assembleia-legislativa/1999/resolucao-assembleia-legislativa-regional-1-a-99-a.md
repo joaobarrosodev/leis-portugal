@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 25/1999, 1º Suplemento, Série I-B de 1999-01-30
   number: '25'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 596-(2) a 596-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1999/01/025b01/00020003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/1-a/1999/01/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/1-a-1999-244343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f13cd11fccb5e3208b778193f78993dd27cb622906835f7413f4619725272d72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ab7e6796b43883b8813f8633b4fb228c08c7d4c2786b3912844b528ba8ae0a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,27 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Regional
 - Comissão Especializada Permanente de Assuntos Parlamentares Ambiente e Trabalho
 - Comissão Especializada Permanente de Assuntos Sociais
 - Comissão Especializada Permanente de Economia
 - Comissão Especializada Permanente de Política Geral
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:534626:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:534626:por
+  label: "Alterado o nº 2 pela RES.3/99/A.1999.03.18.ALR-RAA, DR.IS-B [94] de 22/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regional/3-1999-534626
+  date: '1999-03-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:25Z'
   warnings: []
   errors: []
 ---
@@ -192,4 +197,4 @@ PS - 5; PSD - 5; PP - 1.
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 28 de Janeiro de 1999.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Humberto Trindade Borges de Melo.

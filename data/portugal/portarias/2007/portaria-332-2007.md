@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/332/2007/03/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/332-2007-520255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aed8761f62121a03b21ec8ff2807f932b07556e7dc0c0843cd543146bafde7d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 028ad853504758fb9f7752af631f6bee188fd38a94a0151f5d32176d1712e82a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
 - Arrendamento de Campanha
-- Associação de Agricultores
 - Arrendamento Rural
-- Indemnização
+- Associação de Agricultores
 - Exploração Agrícola
+- Indemnização
+- Política Agrícola
 - Política de Solos
 - Prédio Rústico
-- Agricultor
-- Política Agrícola
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:354121:por
+  label: null
+  source: null
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:50Z'
   warnings: []
   errors: []
 ---
@@ -133,8 +137,8 @@ Os valores da renda máxima por hectare são os constantes da tabela anexa à pr
 
 Findo o período contratual, o seareiro/campanheiro é obrigado a restituir os prédios ou parcelas objecto do contrato no estado em que as recebeu, ressalvadas as deteriorações inerentes a uma prudente utilização, sob pena de pagamento de indemnização, nos termos da lei geral.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 13 de Março de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 13 de Março de 2007.
 
 ## ANEXO — (tabela a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/06200/18291830.pdf))](https://files.diariodarepublica.pt/1s/2007/03/06200/18291830.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06200/18291830.pdf)

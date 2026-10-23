@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/1991/08/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1991-674071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 06eecca8362e5364516b6206fe6f2a00149b35fe482c6a4bcf4975570f9abc19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5de61dd8094e0b261d1a3a7c19378eed52e3cc8324e6628e51d2490e981ef351
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - BENS Classificados
-- Património Cultural
-- Madeira.região Autónoma
-- Protecção do Património
 - Inventário
+- Madeira.região Autónoma
+- Património Cultural
+- Protecção do Património
 - Secretaria Regional do Turismo Cultura e Emigração
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182874:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:37Z'
   warnings: []
   errors: []
 ---
@@ -98,36 +106,36 @@ Assim:
 
 A Assembleia Legislativa da Madeira, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º Compete à Secretaria Regional do Turismo, Cultura e Emigração organizar e periodicamente actualizar um inventário dos bens culturais móveis existentes, de molde a evitar que da sua eventual exportação possa resultar um empobrecimento cultural da Região Autónoma da Madeira.
+Artigo 1.º Compete à Secretaria Regional do Turismo, Cultura e Emigração organizar e periodicamente actualizar um inventário dos bens culturais móveis existentes, de molde a evitar que da sua eventual exportação possa resultar um empobrecimento cultural da Região Autónoma da Madeira.
 
-###### Art. 2.º Entende-se por bens culturais móveis os espécimes definidos no n.º 2 do artigo 8.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho.
+Art. 2.º Entende-se por bens culturais móveis os espécimes definidos no n.º 2 do artigo 8.º da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho.
 
-###### Art. 3.º Poderão os bens culturais móveis vir a ser classificados como de valor local ou valor regional pelo Governo Regional ou pelas autarquias locais, sempre que, pelo seu valor cultural, mereçam especial protecção.
+Art. 3.º Poderão os bens culturais móveis vir a ser classificados como de valor local ou valor regional pelo Governo Regional ou pelas autarquias locais, sempre que, pelo seu valor cultural, mereçam especial protecção.
 
-###### Art. 4.º Os bens móveis classificados gozam de regime específico definido no capítulo III da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho.
+Art. 4.º Os bens móveis classificados gozam de regime específico definido no capítulo III da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho.
 
-###### Art. 5.º Qualquer restauro, arranjo ou outra obra a efectuar em bens móveis classificados ou em vias de classificação só podem ser executados após o prévio parecer da Direcção Regional dos Assuntos Culturais, entidade que deverá proceder ao acompanhamento técnico dos trabalhos em curso e que poderá propor a sua suspensão ao membro do Governo responsável pela cultura, sempre que os mesmos estejam a ser efectuados incorrecta ou deficientemente.
+Art. 5.º Qualquer restauro, arranjo ou outra obra a efectuar em bens móveis classificados ou em vias de classificação só podem ser executados após o prévio parecer da Direcção Regional dos Assuntos Culturais, entidade que deverá proceder ao acompanhamento técnico dos trabalhos em curso e que poderá propor a sua suspensão ao membro do Governo responsável pela cultura, sempre que os mesmos estejam a ser efectuados incorrecta ou deficientemente.
 
-###### Art. 6.º O Governo Regional poderá determinar as providências cautelares ou as medidas técnicas de conservação relativas a determinados bens culturais móveis, sempre que estes corram perigo de manifesto extravio, perda, deterioração ou exportação.
+Art. 6.º O Governo Regional poderá determinar as providências cautelares ou as medidas técnicas de conservação relativas a determinados bens culturais móveis, sempre que estes corram perigo de manifesto extravio, perda, deterioração ou exportação.
 
-###### Art. 7.º Em operações de venda de bens culturais móveis, o Governo Regional e as autarquias locais poderão usar do direito de preferência.
+Art. 7.º Em operações de venda de bens culturais móveis, o Governo Regional e as autarquias locais poderão usar do direito de preferência.
 
-###### Art. 8.º O Governo Regional, sempre que adquirir bens culturais móveis, deverá certificar-se da sua procedência, exigindo, sempre que se suscitarem dúvidas, documentos comprovativos da mesma.
+Art. 8.º O Governo Regional, sempre que adquirir bens culturais móveis, deverá certificar-se da sua procedência, exigindo, sempre que se suscitarem dúvidas, documentos comprovativos da mesma.
 
-###### Art. 9.º Na Região Autónoma da Madeira compete à Secretaria Regional do Turismo, Cultura e Emigração autorizar escavações arqueológicas, devendo sempre a Direcção Regional dos Assuntos Culturais acompanhar os trabalhos nas respectivas estações, procedendo também ao inventário dos bens móveis de interesse arqueológico.
+Art. 9.º Na Região Autónoma da Madeira compete à Secretaria Regional do Turismo, Cultura e Emigração autorizar escavações arqueológicas, devendo sempre a Direcção Regional dos Assuntos Culturais acompanhar os trabalhos nas respectivas estações, procedendo também ao inventário dos bens móveis de interesse arqueológico.
 
-###### Art. 10.º A protecção dos bens arqueológicos móveis rege-se pelo capítulo IV da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho.
+Art. 10.º A protecção dos bens arqueológicos móveis rege-se pelo capítulo IV da [Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874), de 6 de Julho.
 
-###### Art. 11.º A transferência para o exterior da Região, dentro do espaço nacional, de bens móveis classificados ou inventariados terá de ser sempre precedida de comunicação à Secretaria Regional do Turismo, Cultura e Emigração.
+Art. 11.º A transferência para o exterior da Região, dentro do espaço nacional, de bens móveis classificados ou inventariados terá de ser sempre precedida de comunicação à Secretaria Regional do Turismo, Cultura e Emigração.
 
-###### Art. 12.º A falta de comunicação referida no artigo anterior é considerada contra-ordenação punível com coima de 10000$00 a 500000$00 ou 3000000$00, consoante seja aplicável a pessoa singular ou colectiva, respectivamente, constituindo o seu produto receita da Região.
+Art. 12.º A falta de comunicação referida no artigo anterior é considerada contra-ordenação punível com coima de 10000$00 a 500000$00 ou 3000000$00, consoante seja aplicável a pessoa singular ou colectiva, respectivamente, constituindo o seu produto receita da Região.
 
 Aprovado em sessão plenária de 17 de Abril de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio P. Ferraz Mendonça.
 
-**Assinado em 8 de Maio de 1991.**
+Assinado em 8 de Maio de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

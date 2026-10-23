@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/08/184b00/40874087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/25/1991/08/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1991-675243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b28df301344b3c1d6d8fe005ec85d2fde0826d7163a5c6d5c1cf0b3e0042b77c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83410bc49c1ab572a2c7b77ff3ce03be8f7fc42aba8b6471af210cd356942280
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Indústria Electrotécnica
+- Açores
 - Consumo de Energia
 - Etiquetagem
+- Indústria Electrotécnica
 - Proteção do Consumidor
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:308097:por
@@ -80,16 +80,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/46/1991/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/46/1991/01/24/p/dre
+- type: cites
+  target: pt:dre:286525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507810:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:308097:por
+  label: "Revogado, a partir de 26.10.2010, pelo DLR.27/2010/A.21.10.2010.AL-RAA, DR.IS [205] de 21.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2010-308097
+  date: '2010-10-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:50Z'
   warnings: []
   errors: []
 ---
@@ -100,18 +113,18 @@ O [Decreto-Lei n.º 46/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4
 
 Assim, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A fiscalização do cumprimento do disposto no [Decreto-Lei n.º 46/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1991-507810), de 24 de Janeiro, cabe, na Região Autónoma dos Açores, à Direcção Regional da Indústria e Energia e à Direcção Regional do Comércio, através do Serviço de Inspecção Económica.
+Artigo 1.º A fiscalização do cumprimento do disposto no [Decreto-Lei n.º 46/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1991-507810), de 24 de Janeiro, cabe, na Região Autónoma dos Açores, à Direcção Regional da Indústria e Energia e à Direcção Regional do Comércio, através do Serviço de Inspecção Económica.
 
-###### Art. 2.º Na Região Autónoma dos Açores, a aplicação das coimas previstas no [Decreto-Lei n.º 46/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1991-507810), de 24 de Janeiro, é da competência da comissão referida no n.º 1 do artigo 12.º do [Decreto Legislativo Regional n.º 14/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1988-286525), de 6 de Abril, à qual devem ser enviados, após instrução, os processos contra-ordenacionais.
+Art. 2.º Na Região Autónoma dos Açores, a aplicação das coimas previstas no [Decreto-Lei n.º 46/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1991-507810), de 24 de Janeiro, é da competência da comissão referida no n.º 1 do artigo 12.º do [Decreto Legislativo Regional n.º 14/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1988-286525), de 6 de Abril, à qual devem ser enviados, após instrução, os processos contra-ordenacionais.
 
-###### Art. 3.º O produto resultante da aplicação das coimas pela comissão indicada no artigo anterior constitui receita da Região Autónoma dos Açores.
+Art. 3.º O produto resultante da aplicação das coimas pela comissão indicada no artigo anterior constitui receita da Região Autónoma dos Açores.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 19 de Junho de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Julho de 1991.**
+Assinado em Angra do Heroísmo em 16 de Julho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

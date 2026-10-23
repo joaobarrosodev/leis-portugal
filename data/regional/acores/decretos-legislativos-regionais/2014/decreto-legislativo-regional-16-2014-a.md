@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2014/09/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2014-56384936
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 835e5c7bab38e226969c80a75b3a601c59be87a9a58848a5ad6c89ad3985b9ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e2b72e7c0140cd67945272b23b366e2b6b7455bec89532f8c7e6ac9d62d7e65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pobreza
-- Protecção à Família
-- Grupo Desfavorecido
+- Açores
+- Arrendamento Urbano para Habitação
 - Financiamento
-- Terceira Idade
+- Grupo Desfavorecido
+- Habitação
 - IAS
+- Pobreza
+- Prédio Urbano
+- Programa Famílias com Futuro
 - Proteção ao Deficiente
 - Proteção na Velhice
-- Habitação
+- Protecção à Família
 - Renda Apoiada
 - Renda de CASA
-- Açores
-- Prédio Urbano
-- Arrendamento Urbano para Habitação
-- Programa Famílias com Futuro
+- Terceira Idade
 relationships:
 - type: amended_by
   target: pt:dre:127816253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Alterado, com efeitos a partir de 01.012020, o art. 27.º do DLR 23/2009/A de 16-dez, na versão republicada pelo presente
+    diploma, pelo(a) Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/1993/05/07/p/dre
   label: null
@@ -126,16 +132,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/83-c/2013/12/31/p/dre
+- type: cites
+  target: pt:dre:164404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 62
+  article_count: 53
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:50Z'
   warnings: []
   errors: []
 ---
@@ -214,7 +272,9 @@ f) [Revogado];
 
 g) [Revogado].
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1. As habitações a tomar de arrendamento pela Região Autónoma dos Açores são disponibilizadas, mediante celebração de contrato de subarrendamento, aos agregados familiares que reúnam as condições de acesso previstas no presente diploma.
 
@@ -224,7 +284,9 @@ g) [Revogado].
 
 4. Os valores máximos de renda por metro quadrado são fixados por decreto regulamentar regional.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1. O acesso ao apoio previsto no presente capítulo depende:
 
@@ -248,7 +310,9 @@ e) [Anterior alínea d)].
 
 6. [Anterior n.º 5].
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1. São prioritariamente instruídos os processos cujas candidaturas obtenham maior pontuação em função, nomeadamente, do tipo de alojamento à data do pedido e da fundamentação deste, bem como do tipo de família e escalão de rendimento per capita em função do IAS.
 
@@ -262,7 +326,9 @@ b) [...].
 
 4. [...].
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1. [...].
 
@@ -274,7 +340,9 @@ b) [...].
 
 5. Para as situações previstas no n.º 2, a subvenção é atribuída de forma decrescente, em cada ano, nos termos a fixar em decreto regulamentar regional.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1. [...]:
 
@@ -304,7 +372,9 @@ i) Ser a habitação de tipologia adequada à composição do agregado familiar,
 
 5. [Anterior n.º 4].
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1. As candidaturas são aprovadas de acordo com os critérios legalmente definidos até ao limite das verbas fixado para cada período de candidatura.
 
@@ -312,7 +382,9 @@ i) Ser a habitação de tipologia adequada à composição do agregado familiar,
 
 3. Os critérios de hierarquização e a respetiva pontuação, bem como os critérios de desempate em caso de igualdade de pontuação, são fixados em decreto regulamentar regional.
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 [...]:
 
@@ -326,7 +398,9 @@ d) [...];
 
 e) Cujos imóveis tenham sido objeto de apoios públicos, incorrendo os seus beneficiários na obrigação de afetação da habitação a residência própria e permanente do seu agregado familiar.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1. [...].
 
@@ -338,7 +412,9 @@ b) [...].
 
 3. [...].
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1. Os titulares do apoio financeiro previsto no presente capítulo estão sujeitos à verificação pela direção regional competente em matéria de habitação ou pelos serviços executivos periféricos do departamento do Governo Regional com competência na mesma matéria, do cumprimento das condições e dos deveres a que se vinculam para efeito de atribuição do apoio financeiro, designadamente quanto à entrega de elementos ou documentos e ao respeito pelas condições de acesso e de permanência no Programa, nomeadamente o pagamento da renda e a permanência na habitação objeto da candidatura durante o período de concessão do apoio.
 
@@ -354,19 +430,19 @@ Tabela I
 
 [a que se refere a alínea f) do n.º 1 do artigo 6.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf))](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
 
 Tabela II
 
 [a que se refere a alínea a) do n.º 1 do artigo 18.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf))](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
 
 Tabela III
 
 [a que se refere a alínea e) do n.º 1 do artigo 28.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf))](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
 
 ###### Artigo 3.º — Regulamentação
 
@@ -384,11 +460,11 @@ O presente diploma produz efeitos com a publicação do diploma regulamentar ref
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de julho de 2014.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 12 de agosto de 2014.**
+Assinado em Angra do Heroísmo em 12 de agosto de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -910,16 +986,16 @@ O presente diploma entra em vigor no dia seguinte ao da publicação das portari
 
 [a que se refere a alínea f) do n.º 1 do artigo 6.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf))](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
 
 Tabela II
 
 [a que se refere a alínea a) do n.º 1 do artigo 18.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf))](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
 
 Tabela III
 
 [a que se refere a alínea e) do n.º 1 do artigo 28.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf))](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/09/16700/0462804640.pdf)

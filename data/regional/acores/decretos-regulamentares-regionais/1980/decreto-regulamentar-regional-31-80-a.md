@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1980-470457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57edb923aa2176002f4d6775539bb686d92de9ebda01bd2a12f7353563680b32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 570ebe60deb9e332706e8c2e66bb16de3d189a275afd03780d3a1bd33af697ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Estatística
+- Serviço Regional de Estatística dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:285878:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:157016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474090:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:495677:por
+  label: "Revogado, pelo DRR.29/87/A.17.09.1987.GR-RAA, DR.IS [214] de 17.09.1987, na parte em que o contraria o mesmo diploma\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-1987-495677
+  date: '1987-09-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:09Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +131,11 @@ Ouvido o Conselho Nacional de Estatística:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado na Presidência do Governo Regional o Serviço Regional de Estatística dos Açores, designado abreviadamente por SREA, o qual constitui uma direcção regional e tem a sua sede em Angra do Heroísmo.
+Artigo 1.º - 1 - É criado na Presidência do Governo Regional o Serviço Regional de Estatística dos Açores, designado abreviadamente por SREA, o qual constitui uma direcção regional e tem a sua sede em Angra do Heroísmo.
 
 2 - O SREA funciona na Região como órgão central de estatística e como delegação do Instituto Nacional de Estatística.
 
-###### Art. 2.º - 1 - O exercício das funções de notação, apuramento, coordenação e publicação de dados estatísticos das matérias com interesse especial para a Região pertence ao SREA, como órgão central de estatística no âmbito da Região e com o apoio técnico do INE.
+Art. 2.º - 1 - O exercício das funções de notação, apuramento, coordenação e publicação de dados estatísticos das matérias com interesse especial para a Região pertence ao SREA, como órgão central de estatística no âmbito da Região e com o apoio técnico do INE.
 
 2 - Para o desempenho das atribuições referidas no número anterior, compete especificamente ao SREA:
 
@@ -126,15 +163,15 @@ l) Desempenhar quaisquer outras funções que lhe sejam cometidas pelo membro do
 
 3 - O SREA, como delegação do INE, tem as atribuições fixadas no artigo 4.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), de 17 de Maio.
 
-###### Art. 3.º Todas as informações estatísticas de ordem individual colhidas pelo SREA são de natureza estritamente confidencial, pelo que a sua utilização terá de obedecer às normas definidas no artigo 15.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto.
+Art. 3.º Todas as informações estatísticas de ordem individual colhidas pelo SREA são de natureza estritamente confidencial, pelo que a sua utilização terá de obedecer às normas definidas no artigo 15.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto.
 
-###### Art. 4.º Sempre que a mais de um serviço, organismo ou entidade públicas da Região sejam necessárias informações estatísticas de âmbito regional, iguais ou semelhantes, relativas ao mesmo sector de actividade, o SREA poderá propor as providências convenientes para que a respectiva recolha seja confiada a um dos serviços ou entidades interessadas, definindo-se as condições de utilização comum das mesmas informações.
+Art. 4.º Sempre que a mais de um serviço, organismo ou entidade públicas da Região sejam necessárias informações estatísticas de âmbito regional, iguais ou semelhantes, relativas ao mesmo sector de actividade, o SREA poderá propor as providências convenientes para que a respectiva recolha seja confiada a um dos serviços ou entidades interessadas, definindo-se as condições de utilização comum das mesmas informações.
 
-###### Art. 5.º - 1 - A realização de quaisquer inquéritos estatísticos de âmbito regional que interessem a serviços públicos da Administração Regional ou Local, ou a outras entidades públicas ou com funções de interesse público da Região, deverá ser sempre solicitada ao SREA, que os poderá autorizar ou efectuar pelos seus próprios meios.
+Art. 5.º - 1 - A realização de quaisquer inquéritos estatísticos de âmbito regional que interessem a serviços públicos da Administração Regional ou Local, ou a outras entidades públicas ou com funções de interesse público da Região, deverá ser sempre solicitada ao SREA, que os poderá autorizar ou efectuar pelos seus próprios meios.
 
 2 - Da decisão do director do SREA cabe recurso para o conselho orientador e da resolução deste para o membro do Governo Regional que superintenda no SREA.
 
-###### Art. 6.º - 1 - Nenhum serviço público da Administração Regional ou Local ou outra entidade pública ou com funções de interesse público da Região poderá emitir quaisquer instrumentos de notação, susceptíveis de aproveitamento estatístico, a serem preenchidos por entidades que se encontrem na Região ou que nela exerçam actividades, sem prévia autorização do SREA, mediante o respectivo registo.
+Art. 6.º - 1 - Nenhum serviço público da Administração Regional ou Local ou outra entidade pública ou com funções de interesse público da Região poderá emitir quaisquer instrumentos de notação, susceptíveis de aproveitamento estatístico, a serem preenchidos por entidades que se encontrem na Região ou que nela exerçam actividades, sem prévia autorização do SREA, mediante o respectivo registo.
 
 2 - Quando os instrumentos de notação submetidos a registo não se harmonizem com os requisitos técnicos adequados ou com as exigências de fácil preenchimento, o SREA fará depender o registo da introdução das alterações convenientes.
 
@@ -150,17 +187,17 @@ l) Desempenhar quaisquer outras funções que lhe sejam cometidas pelo membro do
 
 8 - Dos registos efectuados pelo SREA será sempre dado conhecimento ao INE.
 
-###### Art. 7.º Nenhuma das entidades a que se refere o n.º 1 do artigo anterior poderá publicar quaisquer dados estatísticos de âmbito regional sem os sujeitar à prévia aprovação do SREA, salvo se se tratar de órgãos que, para aquele efeito, tenham recebido delegação.
+Art. 7.º Nenhuma das entidades a que se refere o n.º 1 do artigo anterior poderá publicar quaisquer dados estatísticos de âmbito regional sem os sujeitar à prévia aprovação do SREA, salvo se se tratar de órgãos que, para aquele efeito, tenham recebido delegação.
 
-###### Art. 8.º Os pedidos de realização de inquéritos estatísticos, feitos ao abrigo do artigo 5.º, e de registo de instrumentos de notação, exigidos pelo artigo 6.º, deverão seguir, com as necessárias adaptações, a tramitação definida nos artigos 83.º e 89.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), de 25 de Agosto.
+Art. 8.º Os pedidos de realização de inquéritos estatísticos, feitos ao abrigo do artigo 5.º, e de registo de instrumentos de notação, exigidos pelo artigo 6.º, deverão seguir, com as necessárias adaptações, a tramitação definida nos artigos 83.º e 89.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), de 25 de Agosto.
 
-###### Art. 9.º - 1 - O SREA poderá proceder à recolha directa das informações estatísticas de exclusivo interesse regional quando elas não forem prestadas nos prazos fixados ou for julgado necessário verificar a exactidão das mesmas.
+Art. 9.º - 1 - O SREA poderá proceder à recolha directa das informações estatísticas de exclusivo interesse regional quando elas não forem prestadas nos prazos fixados ou for julgado necessário verificar a exactidão das mesmas.
 
 2 - Nas recolhas directas adoptar-se-á, com as necessárias adaptações, a tramitação prevista nos artigos 42.º a 45.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802) e nos artigos 77.º a 82.º do [Decreto n.º 428/73](https://diariodarepublica.pt/dr/detalhe/decreto/428-1973-419803), ambos de 25 de Agosto.
 
-###### Art. 10.º São órgãos do SREA o conselho orientador e o director.
+Art. 10.º São órgãos do SREA o conselho orientador e o director.
 
-###### Art. 11.º - 1 - O conselho orientador tem a composição e as competências definidas pelos artigos 6.º e 7.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), de 17 de Maio.
+Art. 11.º - 1 - O conselho orientador tem a composição e as competências definidas pelos artigos 6.º e 7.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), de 17 de Maio.
 
 2 - O conselho orientador decide por maioria de votos, estando presentes pelo menos três dos seus membros e tendo o presidente voto de qualidade.
 
@@ -168,7 +205,7 @@ l) Desempenhar quaisquer outras funções que lhe sejam cometidas pelo membro do
 
 4 - O director submeterá a despacho do membro do Governo Regional que superintenda no SREA todos os assuntos cuja resolução não seja da sua competência, com excepção do previsto na alínea d) do n.º 3 do artigo 9.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090).
 
-###### Art. 12.º O SREA compreende:
+Art. 12.º O SREA compreende:
 
 a) Sectores técnicos de estatísticas demográficas e sociais, estatísticas económicas e financeiras, recenseamentos e inquéritos, coordenação e difusão e informática;
 
@@ -176,31 +213,31 @@ b) Secção administrativa;
 
 c) Núcleos de ilha.
 
-###### Art. 13.º - 1 - Os sectores previstos na alínea a) do artigo 12.º serão localizados na sede, podendo, contudo, algumas das suas atribuições ser confiadas a um ou mais núcleos de ilha, conforme a conveniência de serviço definida por despacho do membro do Governo Regional que superintenda no SREA e mediante proposta do director.
+Art. 13.º - 1 - Os sectores previstos na alínea a) do artigo 12.º serão localizados na sede, podendo, contudo, algumas das suas atribuições ser confiadas a um ou mais núcleos de ilha, conforme a conveniência de serviço definida por despacho do membro do Governo Regional que superintenda no SREA e mediante proposta do director.
 
 2 - As extintas delegações do INE existentes em S. Miguel e Faial passam a núcleos de Ilha.
 
 3 - São também criados núcleos nas ilhas de Santa Maria, Graciosa, S. Jorge, Pico e Flores.
 
-###### Art. 14.º Compete ao sector de estatísticas demográficas e sociais:
+Art. 14.º Compete ao sector de estatísticas demográficas e sociais:
 
 a) Colaborar com o INE na concepção das operações estatísticas de âmbito nacional e apoiar a sua execução, nomeadamente através da distribuição, recolha e crítica dos instrumentos de notação, e participar no tratamento da informação nos domínios da demografia, saúde e acidentes, actividades judiciárias, ensino, ciência, actividades culturais, desportivas e recreativas, tempos livres, condições de vida da família e dos agrupamentos sociais, da população activa em geral de segurança social;
 
 b) Elaborar as estatísticas, nos domínios referidos na alínea anterior, de exclusivo interesse para a Região.
 
-###### Art. 15.º Compete ao sector de estatísticas económicas e financeiras:
+Art. 15.º Compete ao sector de estatísticas económicas e financeiras:
 
 a) Colaborar com o INE na concepção das operações estatísticas correntes de âmbito nacional e apoiar a sua execução através da distribuição, recolha e crítica dos instrumentos de notação e participar no trabalho da informação nos domínios da agricultura, pescas, indústrias extractivas, indústrias transformadoras, construção, electricidade, gás, água, distribuição, prestação de serviços, obras públicas, habitação, finanças públicas e privadas e contabilidade social da Região;
 
 b) Elaborar as estatísticas, nos domínios referidos na alínea anterior, de exclusivo interesse para a Região.
 
-###### Art. 16.º Compete ao sector de recenseamentos e inquéritos:
+Art. 16.º Compete ao sector de recenseamentos e inquéritos:
 
 a) Colaborar com o INE na concepção das estatísticas básicas e inquéritos especiais de âmbito nacional e apoiar a sua execução, nomeadamente através da distribuição, recolha e crítica dos instrumentos de notação, e participar no tratamento da informação;
 
 b) Preparar e executar os inquéritos especiais de exclusivo interesse para a Região.
 
-###### Art. 17.º Compete ao sector de coordenação e difusão:
+Art. 17.º Compete ao sector de coordenação e difusão:
 
 a) Apoiar as reuniões do conselho orientador;
 
@@ -212,7 +249,7 @@ d) Assegurar as relações com organismos exteriores e público em geral e forne
 
 e) Preparar as publicações estatísticas regionais.
 
-###### Art. 18.º Compete ao sector de informática:
+Art. 18.º Compete ao sector de informática:
 
 a) Colaborar na preparação e execução de operações destinadas a tratamento electrónico, nomeadamente na concepção de instrumentos de notação, mapas de apuramento e rotinas de trabalho;
 
@@ -222,7 +259,7 @@ c) Registar dados em suporte informático e proceder às respectivas verificaç�
 
 d) Executar os programas e processamentos determinados pelos calendários estabelecidos.
 
-###### Art. 19.º Compete à secção administrativa:
+Art. 19.º Compete à secção administrativa:
 
 a) Elaborar todo o expediente relativo à admissão e movimentação de pessoal;
 
@@ -234,7 +271,7 @@ d) Prestar o apoio dactilográfico aos restantes sectores do SREA e reproduzir d
 
 e) Colaborar na organização dos processos de transgressão estatística, incluindo todas as diligências necessárias ao seu andamento e finalização.
 
-###### Art. 20.º Compete aos núcleos de ilha:
+Art. 20.º Compete aos núcleos de ilha:
 
 a) Dinamizar a recolha da informação a obter, quer por entrevista quer por via postal;
 
@@ -242,36 +279,36 @@ b) Proceder a recolhas directas de informação quando tal for julgado necessár
 
 c) Exercer as demais funções que lhes forem cometidas por despacho do director do SREA.
 
-###### Art. 21.º - 1 - O SREA terá o pessoal permanente que consta do quadro anexo a este diploma e dele faz parte integrante.
+Art. 21.º - 1 - O SREA terá o pessoal permanente que consta do quadro anexo a este diploma e dele faz parte integrante.
 
 2 - Para a execução dos recenseamentos, inquéritos ou outros trabalhos extraordinários, o membro do Governo Regional de quem dependa o SREA poderá autorizar a admissão, a título eventual, do pessoal necessário.
 
 3 - O recrutamento e a dispensa do pessoal referido no número anterior serão efectuados sem a observância de quaisquer formalidades legais, incluindo o visto da secção do Tribunal de Contas.
 
-###### Art. 22.º - 1 - O regime das carreiras do pessoal do SREA será idêntico ao estabelecido para o pessoal do Instituto Nacional de Estatística, com excepção dos técnicos de estatística e sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, no que se refere ao pessoal de informática.
+Art. 22.º - 1 - O regime das carreiras do pessoal do SREA será idêntico ao estabelecido para o pessoal do Instituto Nacional de Estatística, com excepção dos técnicos de estatística e sem prejuízo do disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, no que se refere ao pessoal de informática.
 
 2 - Quando em qualquer das carreiras do pessoal do SREA existirem vagas em categorias superiores e não houver funcionários que reúnam as condições legais de acesso às mesmas, poderão ser admitidas para as categorias de ingresso tantas unidades quantas as vagas existentes na respectiva carreira.
 
-###### Art. 23.º - 1 - Nos termos do artigo 11.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), o pessoal ao serviço nas extintas delegações do INE na Região transita automaticamente para o SREA, mediante lista nominativa a publicar no Jornal Oficial, sem perda de direitos e regalias, nomeadamente o de opção pelo quadro dos serviços centrais do INE, o qual deverá efectivar-se até trinta dias após a aplicação do disposto no Decreto Regulamentar n.º 71- C/79, de 29 de Dezembro.
+Art. 23.º - 1 - Nos termos do artigo 11.º do [Decreto-Lei n.º 124/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1980-474090), o pessoal ao serviço nas extintas delegações do INE na Região transita automaticamente para o SREA, mediante lista nominativa a publicar no Jornal Oficial, sem perda de direitos e regalias, nomeadamente o de opção pelo quadro dos serviços centrais do INE, o qual deverá efectivar-se até trinta dias após a aplicação do disposto no Decreto Regulamentar n.º 71- C/79, de 29 de Dezembro.
 
 2 - Os chefes de delegação das extintas delegações do Instituto Nacional de Estatística de Angra do Heroísmo, Horta e Ponta Delgada transitam para a carreira de técnico superior de estatística do quadro do SREA, para a classe correspondente ao vencimento a que tiverem direito à data da transição, sem prejuízo do disposto na parte final do artigo 25.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, aplicado à Região pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro.
 
 3 - O demais pessoal das extintas delegações do INE na Região transita para o quadro do SREA para a carreira e categoria que possui à data de transição, resultante da aplicação do disposto no [Decreto Regulamentar n.º 71-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/71-c-1979-157016), de 29 de Dezembro.
 
-###### Art. 24.º Todas as dúvidas e omissões que a aplicação deste diploma possa suscitar serão resolvidas por despacho conjunto do Presidente do Governo Regional e do Secretário Regional da Administração Pública, no que se refira a assuntos da área da sua competência.
+Art. 24.º Todas as dúvidas e omissões que a aplicação deste diploma possa suscitar serão resolvidas por despacho conjunto do Presidente do Governo Regional e do Secretário Regional da Administração Pública, no que se refira a assuntos da área da sua competência.
 
 Aprovado pelo Governo Regional em 19 de Junho de 1980.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 14 de Julho de 1980.**
+Assinado em Angra do Heroísmo em 14 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 Quadro a que se refere o artigo 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/08/18200/21132116.pdf))](https://files.diariodarepublica.pt/1s/1980/08/18200/21132116.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18200/21132116.pdf)
 
-**O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Mota Amaral.

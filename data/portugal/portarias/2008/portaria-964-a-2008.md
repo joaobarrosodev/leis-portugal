@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 166/2008, 1º Suplemento, Série I de 2008-08-28
   number: '166'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6132-(2) a 6132-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/08/16601/0000200011.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/964-a/2008/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/964-a-2008-483611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a4f645dc66bc8d37a78943a6f89c8fff314ae1766c5e1e67f92708870f05f8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0c192e9aa32679a139e3c85fd04ec42cb9cc3e5ff3fe932851e774c067e6a1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Produção Animal
-- ÁREA Geográfica
-- Prevenção de Incêndios
-- Financiamento
-- Desenvolvimento Rural
-- Proteção dos Animais
-- Proteção da Floresta
-- Reconversão da Produção
+- Agricultor
+- Agricultura
 - Apoio ao Investimento
+- ÁREA Geográfica
+- Desenvolvimento Rural
+- Espécie Protegida
+- Financiamento
 - IFAP
-- Serra da Estrela
 - Parque Nacional da Peneda-Gerês
 - Parque Natural da Serra da Estrela
 - Parque Natural das Serras de Aire e Candeeiros
@@ -86,21 +82,41 @@ subjects:
 - Parque Natural do Douro Internacional
 - Parque Natural do Sudoeste Alentejano e Costa Vicentina
 - Parque Natural do Tejo Internacional
-- Espécie Protegida
-- Proteção Fitossanitária
-- Agricultor
 - Política Agrícola
+- Prevenção de Incêndios
+- Proder
 - Produção Agrícola
+- Produção Animal
+- Proteção da Floresta
+- Proteção dos Animais
+- Proteção Fitossanitária
+- Reconversão da Produção
 - Região Demarcada do Douro
 - Regulamento
 - Regulamento de Aplicação das Componentes Agro-ambientais e Silvo-ambientais da Medida Nº 2.4. Intervenções Territoriais
   Integradas
-- Agricultura
+- Serra da Estrela
 relationships:
 - type: amended_by
   target: pt:dre:258077:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306889:por
+  label: "Alterados os arts. 3.º, 14º, 17º, 19º, 20º, 21º, 22º, 27º e 28º, 30º, 32º, 37º, 38º, 40º, 44º, 47º, 49º, 50º, 51º,\
+    \ 52º, 57º, 60º, 63º, 64º, 65º, 67º, 71º, 73º, 74º, 78º, 81º e 94º e os anexos i, ii e iii do Regulamento de Aplicação\
+    \ das Componentes Agro-Ambientais e Silvo-Ambientais da Medida n.º 2.4 «Intervenções Territoriais Integradas», aprovado\
+    \ pela Port. nº 232-A/2008, de11-Mar, na redacção do presente diploma, pela PORT. 1234/2010.10.12.2010.MADRP, DR.IS [238]\
+    \ de 10.12.2010, que o republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1234-2010-306889
+  date: '2010-12-10'
+- type: amended_by
+  target: pt:dre:258077:por
+  label: "Alterados os art.s 3º, 63º e 67º do Regulamento de Aplicação das Componentes Agroambientais e Silvo-Ambientais da\
+    \ Medida nº 2.4 «Intervenções Territoriais Integradas», aprovado pela Port 232-A/2008, de 11-mar, na redação do presente\
+    \ diploma, pela PORT.49/2013.04.02.2013.MAMAOT, DR.IS [24] de 04.02.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/49-2013-258077
+  date: '2013-02-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/37-a/2008/03/05/p/dre
   label: null
@@ -109,16 +125,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/232-a/2008/03/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/232-a/2008/03/11/p/dre
+- type: cites
+  target: pt:dre:241045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:349146:por
+  label: null
+  source: null
 article_structure:
-  article_count: 37
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:31Z'
   warnings: []
   errors: []
 ---
@@ -199,7 +223,9 @@ ac) ...
 
 ad) ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -225,7 +251,9 @@ g) ...
 
 5 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - Para além do disposto no artigo 5.º, os beneficiários dos apoios previstos na presente subsecção comprometem-se, durante todo o período do compromisso e para toda a superfície agrícola, agro-florestal e florestal da unidade de produção, a:
 
@@ -261,7 +289,9 @@ b) ...
 
 8 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +305,9 @@ c) Apresentem, no acto do pedido de apoio, um plano de gestão plurianual para a
 
 3 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -299,7 +331,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -307,7 +341,9 @@ h) ...
 
 3 - A majoração referida no número anterior é calculada com base nas CN em pastoreio de percurso na relação 0,3 CN - 1 ha, sendo paga até ao limite da área candidata ao apoio 'Gestão do pastoreio em áreas de baldio'.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - ...
 
@@ -321,7 +357,9 @@ c) Apresentem, no acto do pedido de apoio, um plano de gestão plurianual para a
 
 3 - ...
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -361,7 +399,9 @@ i) ...
 
 10 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - ...
 
@@ -381,7 +421,9 @@ c) ...
 
 6 - Nos casos em que existe modulação, o cálculo do valor total de cada apoio faz-se pela aplicação sucessiva dos respectivos escalões previstos nos n.os 1 e 3 à área elegível.
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - ...
 
@@ -423,7 +465,9 @@ b) ...
 
 9 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 1 - ...
 
@@ -437,7 +481,9 @@ c) Apresentem, no acto do pedido de apoio, um plano de gestão plurianual para a
 
 3 - ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -473,7 +519,9 @@ i) ...
 
 8 - ...
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -497,7 +545,9 @@ iii) (euro) 50 - superior a 5 ha.
 
 4 - ...
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -533,7 +583,9 @@ b) ...
 
 6 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - ...
 
@@ -579,7 +631,9 @@ e) ...
 
 8 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -619,7 +673,9 @@ b) ...
 
 8 - ...
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - ...
 
@@ -633,7 +689,9 @@ c) Apresentem, no acto do pedido de apoio, um plano de gestão plurianual para a
 
 3 - ...
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -661,7 +719,9 @@ c) (Revogado.)
 
 3 - ...
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -669,7 +729,9 @@ c) (Revogado.)
 
 3 - A majoração referida no número anterior é calculada com base nas CN em pastoreio de percurso na relação 0,3 CN - 1 ha, sendo paga até ao limite da área candidata ao apoio 'Gestão do pastoreio em áreas de baldio'.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -685,7 +747,9 @@ c) Apresentem, no acto do pedido de apoio, um plano de gestão plurianual para a
 
 4 - ...
 
-###### Artigo 57.º — [...]
+Artigo 57.º
+
+[...]
 
 1 - ...
 
@@ -719,7 +783,9 @@ i) ...
 
 7 - ...
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 1 - ...
 
@@ -757,7 +823,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - ...
 
@@ -779,7 +847,9 @@ b) ...
 
 10 - ...
 
-###### Artigo 64.º — [...]
+Artigo 64.º
+
+[...]
 
 1 - ...
 
@@ -819,7 +889,9 @@ iii) ...
 
 4 - ...
 
-###### Artigo 65.º — [...]
+Artigo 65.º
+
+[...]
 
 1 - ...
 
@@ -827,7 +899,9 @@ iii) ...
 
 3 - ...
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -867,7 +941,9 @@ b) ...
 
 8 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - ...
 
@@ -895,7 +971,9 @@ g) ...
 
 6 - ...
 
-###### Artigo 73.º — [...]
+Artigo 73.º
+
+[...]
 
 1 - ...
 
@@ -911,7 +989,9 @@ b) ...
 
 5 - ...
 
-###### Artigo 74.º — [...]
+Artigo 74.º
+
+[...]
 
 1 - ...
 
@@ -945,7 +1025,9 @@ b) ...
 
 7 - ...
 
-###### Artigo 78.º — [...]
+Artigo 78.º
+
+[...]
 
 1 - ...
 
@@ -1001,7 +1083,9 @@ e) ...
 
 7 - ...
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -1045,7 +1129,9 @@ c) ...
 
 7 - ...
 
-###### Artigo 94.º — [...]
+Artigo 94.º
+
+[...]
 
 1 - O disposto no presente Regulamento aplica-se, com as necessárias adaptações, aos pedidos de apoio apresentados no ano de 2007 e no ano de 2008, nomeadamente as seguintes:
 
@@ -1081,7 +1167,9 @@ Ao artigo 21.º e ao artigo 51.º são aditados os n.os 4 e 5 com a seguinte red
 
 5 - Os apoios são calculados pela aplicação sucessiva dos escalões identificados no n.º 1 à área elegível ao apoio.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1 - ...
 
@@ -1101,22 +1189,22 @@ São revogadas a alínea c) do n.º 2 do artigo 50.º e a alínea d) do n.º 1 d
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 25 de Agosto de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 25 de Agosto de 2008.
 
 ## ANEXO I
 
 Tabela de conversão em cabeças normais (CN) a que se refere o artigo 6.º do Regulamento de Aplicação das Componentes Agro-Ambientais e Silvo-Ambientais da Medida n.º 2.4, «Intervenções Territoriais Integradas», do Subprograma n.º 2 do Programa de Desenvolvimento Rural do Continente, designado por PRODER.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/16601/0000200011.pdf))](https://files.diariodarepublica.pt/1s/2008/08/16601/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/16601/0000200011.pdf)
 
 ## ANEXO II
 
 Critérios de selecção - Prioridades a que se refere o n.º 1 do artigo 84.º do Regulamento de Aplicação das Componentes Agro-Ambientais e Silvo-Ambientais da Medida n.º 2.4, «Intervenções Territoriais Integradas», do Subprograma n.º 2 do Programa de Desenvolvimento Rural do Continente, designado por PRODER.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/16601/0000200011.pdf))](https://files.diariodarepublica.pt/1s/2008/08/16601/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/16601/0000200011.pdf)
 
 ## ANEXO III
 
 Incumprimentos que determinam a perda do apoio no próprio ano a que se referem os n.os 3 e 7 do artigo 90.º do Regulamento de Aplicação das Componentes Agro-Ambientais e Silvo-Ambientais da Medida n.º 2.4, «Intervenções Territoriais Integradas», do Subprograma n.º 2 do Programa de Desenvolvimento Rural do Continente, designado por PRODER.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/16601/0000200011.pdf))](https://files.diariodarepublica.pt/1s/2008/08/16601/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/16601/0000200011.pdf)

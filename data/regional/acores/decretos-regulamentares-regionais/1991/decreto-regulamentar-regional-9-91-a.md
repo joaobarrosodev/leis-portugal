@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1991-458870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af379a4a31eae4e0ac491be094c9a32bc12c62aa69fbfda6d5e0768fff6f1345
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5eab760cbc9e133a971cb7369b6f2327b1d535cd0e782a27fea9dc27a533065f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,161 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Instituto de Gestão de Regimes de Segurança Social
 - Orgânica
 - Quadro de Pessoal
-- Instituto de Gestão de Regimes de Segurança Social
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:276846:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676793:por
+  label: "Alterado o n.º 3 do artigo 10.º e o quadro de pessoal anexo ao presente diploma, pelo DRR.26/91/A.19.08.1991.GR-RAA,\
+    \ DR.IS-B [189] de 19.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-1991-676793
+  date: '1991-07-15'
+- type: amended_by
+  target: pt:dre:523400:por
+  label: "Aditado o artigo 98.º-A e alterado o quadro de pessoal, anexo ao presente diploma, pelo DRR.23/92/A.23.05.1992.GR-RAA,\
+    \ DR.IS-B [119] de 23.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-1992-523400
+  date: '1992-04-03'
+- type: amended_by
+  target: pt:dre:232973:por
+  label: "Alterado o quadro de pessoal pelo DRR.41/96/A.08.10.1996.SRSSS-RAA, DR.IS-B [233] de 08.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/41-1996-232973
+  date: '1996-10-08'
+- type: amended_by
+  target: pt:dre:285487:por
+  label: "Alterada a redacção dos arts. 92º, nº 1 do art. 93, 94º, 96º, 97º, 98º e 100º e o quadro do pessoal constante deste\
+    \ diploma (alterado e republicado pelo DRR 2/98/A de 20-Fev) e aditados os arts. 93º-A e 100º-A, pelo DRR.6/2002/A.21.01.2002.PG-RAA,\
+    \ DR.IS-B [37] de 13.02.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2002-285487
+  date: '2002-01-21'
+- type: amended_by
+  target: pt:dre:232355:por
+  label: "Alterado o nº 1 do art. 86º, republicado pelo DRR 2/98/A de 20-Fev, pelo DRR.15/2003/A.2003.03.06.SRAS-RAA DR.IS-B\
+    \ [77]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2003-232355
+  date: '2003-03-06'
+- type: amended_by
+  target: pt:dre:667688:por
+  label: "Alterado o quadro de pessoal, com as alterações introduzidas pelos DRR 2/98/A de 20-Fev e 6/2002/A de 13-Fev, pelo\
+    \ DRR.23/2003/A.17.06.2003.PG-RAA, DR.IS-B [157] de 10.07.2003\003\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2003-667688
+  date: '2003-06-17'
+- type: amended_by
+  target: pt:dre:517233:por
+  label: "Alterados os arts. 25º, al. c) do art. 31º, 33º, nº 3 do art. 36º, 38º, 45º, 46º, al. c) do art. 49º, 51º, nº 3\
+    \ do art. 53º, 55º, 63º, nº 2 do art. 65º, 67º, nº 2 do art. 68º, al. c) do art. 69º, 70º, 71º, nº 3 do art. 74º, 76º,\
+    \ 100º e 102º e substituído o quadro do pessoal - com a redacção conferida pelos DRR 2/98/A de 26-Jan (que republicou\
+    \ o presente diploma), 6/2002/A de 13-Fev e 23/2003/A de 10-Jul - pelo DRR.26/2004/A.08.06.2004.SRAS-RAA, DR.IS-B [158]\
+    \ de 07.07.2004, que procede novamente à sua republicação com todas as alterações.\0s.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2004-517233
+  date: '2004-06-08'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as categorias de coordenador técnico, assistente técnico, e assistente operacional,\
+    \ nos termos dos arts. 3º, 4º e 7º, dos trabalhadores integrados nas carreiras ou titulares das categorias previstas no\
+    \ presente diploma, extintas a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP),\
+    \ pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Transitada para a dependência do Secretário Regional do Trabalho e Solidariedade Social, o Instituto de Gestão de\
+    \ Regimes de Segurança Social, cuja orgânica foi aprovada pelopresente diploma, pelo DRR.25/2008/A.31.12.2008.PG-RAA,\
+    \ DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276846:por
+  label: "Revogado, a partir de 01.06.2011, com as alterações que lhe foram introduzidas pelos DRR 2/98/A de 20-Fev, 6/2002/A\
+    \ de 13-Fev, 23/2003/A de 10-Jul e 26/2004/A de 07-Jul (que também procedeu à sua última republicação), pelo DRR.8/2011/A.12.04.2011.PG-RAA,\
+    \ DR.IS [72] de 12.04.2011, sem prejuízo do disposto nos nºs 2 e 3 do seu art. 4º, e remetidas para o IDSA, IPRA as referências\
+    \ feitas, em lei ou regulamento, ao Instituto de Gestão de Regimes da Segurança Social.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2011-276846
+  date: '2011-04-12'
+- type: republished_by
+  target: pt:dre:209865:por
+  label: "Republicado com as alterações introduzidas por legislação posterior e as decorrentes do DRR.2/98/A.1998.01.26.SREAS-RAA\
+    \ DR.IS-B [43] de 20/Fev/1998, que são as seguintes: - alterada a redacção do art. 3º, nº 2 do art. 4º, art. 5º, nº 1\
+    \ dos arts. 6º e 7º, arts. 9º a 13º, 15º, 18º, 19º, 21º a 23º, 26º a 28º, 32º, 35º, nº 2 do art. 40º, arts. 41º, 42º,\
+    \ nº 2 do art. 43º, nº 3 do art. 44º, arts. 47º a 49º, nº 2 do art. 58º, arts. 59º, 60º, nº 2 do art. 61º, nº 3 do art.\
+    \ 62º, arts. 65º a 67º, 71º, 74º, nº 2 do art. 79º, arts, 80º, 81º, nº 2 dos arts. 82º, 85º e 92º, arts. 95º a 97º, nº\
+    \ 2 do art. 101º, art. 103º, nº 1 do art. 104º e art. 113º; - aditado um art. 10º-A; - alterada a numeração dos arts.\
+    \ 31º, 53º e 70º para 43º-A, 61º-A e 82º-A, respectivamente; - revogados os arts. 16º, 24º e 46º; e - substituídos os\
+    \ quadros de pessoal publicados em anexo.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1998-209865
+  date: '1998-01-26'
 article_structure:
   article_count: 113
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 28
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:57Z'
   warnings: []
   errors: []
 ---
@@ -204,7 +340,9 @@ d) Dirigir os serviços colocados na sua dependência directa.
 
 2 - Consideram-se isentos de responsabilidade os membros que não tiverem intervindo na deliberação ou a desaprovaram com declaração na acta da respectiva reunião.
 
-#### SECÇÃO II — Divisão de Orçamento e Contabilidade
+#### SECÇÃO II
+
+##### Divisão de Orçamento e Contabilidade
 
 ###### Artigo 9.º — Competências da Divisão de Orçamento e Contabilidade
 
@@ -260,9 +398,13 @@ i) Apoiar tecnicamente o Centro Coordenador de Prestações Diferidas e os centr
 
 3 - O coordenador de informática é remunerado pelo índice 535 da tabela de remunerações das carreiras gerais da função pública.
 
-#### SECÇÃO IV — Secção de Apoio Administrativo
+#### SECÇÃO IV
 
-###### Artigo 11.º — Secção de Apoio Administrativo
+#### Secção de Apoio Administrativo
+
+###### Artigo 11.º
+
+#### Secção de Apoio Administrativo
 
 Compete à Secção de Apoio Administrativo prestar apoio administrativo geral aos órgãos e serviços centrais do IGRSS, designadamente no que diz respeito ao expediente, pessoal, dactilografia e secretariado.
 
@@ -370,7 +512,9 @@ A Coordenação Geral de Prestações Diferidas de Regimes Especiais e Administr
 
 A Coordenação de Regimes Especiais tem as competências atribuídas às coordenações previstas no artigo 20.º, no que diz respeito aos processos relativos às prestações dos regimes especiais.
 
-###### Artigo 23.º — Secção de Administração
+###### Artigo 23.º
+
+#### Secção de Administração
 
 Compete à Secção de Administração:
 
@@ -454,7 +598,9 @@ e) Centro de Informática;
 
 f) Serviço de Apoio Técnico.
 
-###### Artigo 27.º — Divisão de Prestações Pecuniárias
+###### Artigo 27.º
+
+##### Divisão de Prestações Pecuniárias
 
 A Divisão de Prestações organiza os processos necessários ao reconhecimento do direito às prestações de segurança social e integra uma Coordenação Geral de Beneficiários e Contribuintes e uma Coordenação Geral de Organização de Processos.
 
@@ -532,7 +678,9 @@ c) Verificar e controlar a exactidão das informações recebidas dos serviços 
 
 d) Colaborar com os serviços de emprego e formação profissional na organização dos processos e no controlo de atribuição de prestações no desemprego.
 
-###### Artigo 35.º — Divisão de Serviços Desconcentrados e Fiscalização
+###### Artigo 35.º
+
+##### Divisão de Serviços Desconcentrados e Fiscalização
 
 A Divisão de Serviços Desconcentrados e Fiscalização controla o cumprimento das obrigações para com o sistema de segurança social e integra uma Coordenação Geral de Serviços Desconcentrados e um Serviço de Fiscalização.
 
@@ -586,7 +734,9 @@ d) Fazer o levantamento e proceder à identificação dos bens penhoráveis e hi
 
 A Repartição de Administração tem como finalidades desenvolver todas as operações administrativas relacionadas com o pessoal, expediente, arquivo e aprovisionamento, para o que dispõe de uma Secção de Administração, incumbindo-lhe ainda coordenar os Serviços de Apoio Social Interno.
 
-###### Artigo 42.º — Secção de Administração
+###### Artigo 42.º
+
+#### Secção de Administração
 
 Compete à Secção de Administração:
 
@@ -720,7 +870,9 @@ d) Centro de Informática;
 
 e) Serviço de Apoio Técnico.
 
-###### Artigo 48.º — Divisão de Prestações Pecuniárias e Fiscalização
+###### Artigo 48.º
+
+##### Divisão de Prestações Pecuniárias e Fiscalização
 
 A Divisão de Prestações Pecuniárias e Fiscalização organiza os processos necessários ao reconhecimento do direito às prestações de segurança social e controla o cumprimento das obrigações para com o sistema, integrando uma Coordenação Geral de Prestações Pecuniárias e uma Coordenação Geral de Serviços Desconcentrados e Fiscalização.
 
@@ -840,7 +992,9 @@ d) Fazer o levantamento e proceder à identificação dos bens penhoráveis e hi
 
 A Repartição de Administração tem como finalidades desenvolver todas as operações administrativas relacionadas com o pessoal, expediente, arquivo e aprovisionamento, para o que dispõe de uma Secção de Administração, incumbindo-lhe ainda coordenar os Serviços de Apoio Social Interno.
 
-###### Artigo 60.º — Secção de Administração
+###### Artigo 60.º
+
+#### Secção de Administração
 
 Compete à Secção de Administração:
 
@@ -976,7 +1130,9 @@ e) Centro de Informática;
 
 f) Serviço de Apoio Técnico.
 
-###### Artigo 66.º — Divisão de Prestações Pecuniárias
+###### Artigo 66.º
+
+##### Divisão de Prestações Pecuniárias
 
 A Divisão de Prestações Pecuniárias organiza os processos necessários ao reconhecimento do direito às prestações de segurança social e integra uma Coordenação Geral de Beneficiários e Contribuintes e uma Coordenação Geral de Organização de Processos.
 
@@ -1054,7 +1210,9 @@ c) Verificar e controlar a exactidão das informações recebidas dos serviços 
 
 d) Colaborar com os serviços de emprego e formação profissional na organização dos processos e no controlo de atribuição de prestações no desemprego.
 
-###### Artigo 74.º — Divisão de Serviços Desconcentrados e Fiscalização
+###### Artigo 74.º
+
+##### Divisão de Serviços Desconcentrados e Fiscalização
 
 A Divisão de Serviços Desconcentrados e Fiscalização controla o cumprimento das obrigações para com o sistema de segurança social e integra uma Coordenação Geral de Serviços Desconcentrados e um Serviço de Fiscalização.
 
@@ -1112,7 +1270,9 @@ d) Fazer o levantamento e proceder à identificação dos bens penhoráveis e hi
 
 A Repartição de Administração tem como finalidades desenvolver todas as operações administrativas relacionadas com o pessoal, expediente, arquivo e aprovisionamento, para o que dispõe de uma Secção de Administração, incumbindo-lhe ainda coordenar os Serviços de Apoio Social Interno.
 
-###### Artigo 81.º — Secção de Administração
+###### Artigo 81.º
+
+#### Secção de Administração
 
 Compete à Secção de Administração:
 
@@ -1438,20 +1598,20 @@ A fiscalização e a auditoria serão objecto de um regulamento a aprovar por po
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 19 de Dezembro de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Janeiro de 1991.**
+Assinado em Angra do Heroísmo em 16 de Janeiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 93.º
 
 Instituto de Gestão de Regimes de Segurança Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/055b00/11711193.pdf))](https://files.diariodarepublica.pt/1s/1991/03/055b00/11711193.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/055b00/11711193.pdf)
 
 Lugares a extinguir quando vagarem por transição dos titulares para a carreira de técnico auxiliar de segurança social ou por exoneração dos mesmos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/055b00/11711193.pdf))](https://files.diariodarepublica.pt/1s/1991/03/055b00/11711193.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/055b00/11711193.pdf)

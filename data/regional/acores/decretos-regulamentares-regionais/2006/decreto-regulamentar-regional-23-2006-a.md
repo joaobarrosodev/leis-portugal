@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2006/07/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2006-538062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e82c3ef530b5c90f261bae7c027c985a05d86434a9eb91c6b1f6b4d0de9a56f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70f15de698a210958e2b5d73d569c85c54bc3587dc75c9dcb5b0ee68c9ae17ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Calheta (Açores)
 - Plano Director Municipal
 - Regulamento
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:612267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612267:por
+  label: "Suspensos, nos termos do artigo 4.º, o art. 11º e o nº 8 do art. 14º do Regulamento do Plano Director Municipal\
+    \ da Calheta, ratificado e publicado pelo presente diploma, bem como a área da planta de ordenamento do respectivo PDM\
+    \ identificada em anexo pelo DRR.8/2010/A.07.04.2010.PG-RAA, DR.IS [67] de 07.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2010-612267
+  date: '2010-04-07'
+- type: amended_by
+  target: pt:dre:31971779:por
+  label: DRR 23/2006/A de 6-Jul, DR.IS [129] pelo(a) Aviso n.º 61/2013
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/61-2013-31971779
+  date: '2013-08-30'
+- type: amended_by
+  target: pt:dre:2443012:por
+  label: "Alterados os arts 7.º, 8.º, 12.º, 19.º, 27.º, as plantas de ordenamento e de condicionantes, aprovado o modelo do\
+    \ polígono de implantação das novas construções nas Fajãs Humanizadas de Tipo 1 (FH1) e aditado o artigo 12.º-A. do regulamento\
+    \ do Plano Director Municipal da Calheta, ratificado e publicado pelo presente diploma, pelo AV.12551/2013.10.10.2013.MCALHETA,\
+    \ DR.IIS [196] de 10.10.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/12551-2013-2443012
+  date: '2013-10-10'
 - type: cites
   target: eli:http://data.dre.pt/eli
   label: null
@@ -114,16 +134,200 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/54/2005/11/15/p/dre
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661488:por
+  label: null
+  source: null
 article_structure:
   article_count: 42
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:13Z'
   warnings: []
   errors: []
 ---
@@ -296,11 +500,11 @@ O Plano Director Municipal da Calheta entra em vigor no dia seguinte ao da publi
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 24 de Maio de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 20 de Junho de 2006.**
+Assinado em Angra do Heroísmo em 20 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -1228,8 +1432,8 @@ Nas áreas envolventes aos edifícios escolares deve ser observado o disposto no
 
 ## ANEXO N.º 2 — Planta de ordenamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/12900/47774789.pdf))](https://files.diariodarepublica.pt/1s/2006/07/12900/47774789.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/12900/47774789.pdf)
 
 ## ANEXO N.º 3 — Planta de condicionantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/12900/47774789.pdf))](https://files.diariodarepublica.pt/1s/2006/07/12900/47774789.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/12900/47774789.pdf)

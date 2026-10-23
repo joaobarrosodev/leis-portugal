@@ -47,36 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-1982-608499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dff55a647fb3e284f0d156b40acb28f9d068bcd06beb296ec0b215e7d56828d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 036d42a63461a6561efd3761d95a32d936686275526a5ce9ab2439ad3c6cb66e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Desalojado
+- Financiamento
+- Gabinete de Apoio e Reconstrução dos Estragos Derivados da Crise Sísmica de 1980
+- Sismo
+relationships:
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692833:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394898:por
+  label: Rectificado pela DECL.DD6445.20.05.1982.PCM, DR.IS [158] de 12.07.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394898
+  date: '1982-05-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:38Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +125,7 @@ Porque são sobejamente conhecidos de todos os perniciosos e catastróficos aspe
 
 Assim, no que reporta aos prejuízos no parque habitacional das 3 ilhas sinistradas (Terceira, São Jorge e Graciosa), temos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Baseados nos elementos que se iam recolhendo, e adoptadas as soluções julgadas mais pertinentes e eficientes face à grandiosidade e dificuldade dos múltiplos problemas existentes, incrementadas as correlativas acções, foi-se minimizando a vastidão dos estragos resultantes do sismo e estabelecendo as bases de funcionais circuitos de apoio e de assistência técnica.
 
@@ -109,11 +139,11 @@ Assim, dos vastos problemas equacionados e impulsionados, a situação referida 
 
 Reconstrução
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Considerando a distribuição por ilhas, temos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 No que se refere aos dados relacionados com as linhas de crédito especiais, verifica-se:
 
@@ -121,17 +151,17 @@ Movimento das linhas especiais de crédito
 
 Situação em 31 de Dezembro de 1981
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 A aplicação dos empréstimos relacionados com os 3646 certificados já passados e o respectivo valor médio é:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Dos certificados emitidos 89% correspondem a pedidos formulados na Terceira, 8% em São Jorge e 3% na Graciosa.
 
 Na ilha Terceira, no que se refere ao pagamento ou isenção dos materiais de construção adquiridos directamente pelo GAR (cimento e ferro) e posteriormente cedidos aos sinistrados, os valores encontrados na análise de 5847 fichas de obra são:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Da análise ponderada do que já foi feito relativamente ao programado, das acções de realização previsível e possível até ao fim do corrente ano (e isto tomando em consideração a persistência de alguns dos estrangulamentos vividos), verifica-se que, de uma maneira geral, o querer e força de vontade das populações sinistradas, em franca conjugação de esforços com o Governo, autarquias e serviços regionais, aliados aos atempados e diversificados apoios materiais, financeiros e técnicos que através do GAR lhes foram proporcionados, possibilitaram arrancar, impulsionar e incrementar, em moldes inusitados, um ritmo de construção e autoconstrução francamente positivos e promissores, que, a manterem-se sem grandes alterações, assegurarão o êxito da batalha da reconstrução, em normas de acentuada melhoria no que respeita à inserção de técnicas anti-sísmicas e condições de habitabilidade, segurança e conforto.
 
@@ -589,7 +619,7 @@ Prevê-se também no projecto a comparticipação na aquisição e beneficiaçã
 
 Das avaliações sucessivas das necessidades existentes, e isto tendo em linha de conta as preferências localizadas de muitos dos cerca de 650 desalojados, a resolução de alguns dos seus problemas habitacionais e a proximidade dos respectivos postos de trabalho, estabeleceram-se acções que, neste momento, levam à seguinte construção de fogos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 O projecto é da responsabilidade do GAR.
 
@@ -611,7 +641,7 @@ Projecto n.º 1.5 - Habitações na Graciosa
 
 Trata-se igualmente de um projecto plurianual com execução de infra-estruturas e construção, em moldes tradicionais de 24 fogos, assim distribuídos em locais previamente seleccionados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Os problemas de execução a enfrentar em São Jorge assumem aqui aspectos mais delicados, pensando-se recorrer a solução alternativa idêntica, com ou sem colaboração do destacamento da Força Aérea que aí actua.
 
@@ -693,7 +723,7 @@ O GAR fornece os materiais indispensáveis à boa decorrência dos trabalhos e s
 
 A situação das obras referidas a 31 de Dezembro é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Admitindo que, em moldes idênticos aos actuais, em 1982, 1983 e 1984 os destacamentos das forças armadas continuem a sua actividade nas 3 ilhas e contando com a comparticipação do GAR na alimentação da brigada da Força Aérea destacada na Graciosa, prevêem-se os seguintes dispêndios de verbas:
 
@@ -731,15 +761,15 @@ Dessas medidas salientam-se as inseridas nas Resoluções n.os [42/80](https://d
 
 Baseada no seu articulado, na avaliação (possível e ponderada) dos factores relacionados com a natureza e dimensão daqueles estragos, actuação de firmas empreiteiras especializadas e previsão de disponibilidades financeiras, a Secretaria Regional de Educação e Cultura apresentou e quantificou 4 subprojectos assim distribuídos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 No que concerne à reconstrução de instituições privadas de solidariedade social danificadas pelo sismo de 1 de Janeiro de 1980, instituições tuteladas pelo Governo Regional, a Secretaria Regional dos Assuntos Sociais (a quem compete essa tutela), face aos elevados prejuízos nelas registados e à necessidade imperiosa de normalizar o seu funcionamento, incluiu, para execução plurianual, o seguinte plano de actividades (e respectivos custos estimados):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Em resumo, temos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 A execução das obras relacionadas com este projecto não são da responsabilidade do GAR.
 
@@ -1117,7 +1147,7 @@ Ilha Terceira
 
 Dezembro de 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 QUADRO II
 
@@ -1129,23 +1159,23 @@ Ilha Terceira
 
 Agosto de 1981
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Dezembro de 1981
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 QUADRO III
 
 Relação dos donativos entregues nos cofres das Delegações da Contabilidade Pública Regional de Angra do Heroísmo, Horta e Ponta Delgada, destinados exclusivamente ao Fundo de Apoio e Reconstrução, até ao dia 31 de Dezembro de 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 QUADRO IV
 
 Relação das despesas até ao dia 31 de Dezembro de 1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Resumo:
 
@@ -1159,19 +1189,19 @@ QUADRO V
 
 Balancete do movimento das receitas e despesas (31 de Dezembro de 1980)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 QUADRO VI
 
 Relação dos donativos entregues nos cofres das Delegações da Contabilidade Pública Regional de Angra do Heroísmo, Horta e Ponta Delgada, destinados exclusivamente ao Fundo de Apoio e Reconstrução, até ao dia 31 de Agosto de 1981
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 QUADRO VII
 
 Relação das despesas até ao dia 31 de Agosto de 1981
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Resumo:
 
@@ -1183,13 +1213,13 @@ QUADRO VIII
 
 Balancete do movimento das receitas e despesas (31 de Agosto de 1981)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 QUADRO IX
 
 Relação dos donativos entregues nos cofres das Delegações da Contabilidade Pública Regional de Angra do Heroísmo, Horta e Ponta Delgada, destinados exclusivamente ao Fundo de Apoio e Reconstrução, até ao dia 31 de Dezembro de 1981
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 QUADRO X
 
@@ -1197,7 +1227,7 @@ Relação das despesas até ao dia 31 de Dezembro de 1981
 
 (Provisório)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
 
 Resumo:
 
@@ -1211,4 +1241,4 @@ QUADRO XII
 
 Financiamento do GAR
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf))](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/03/07500/07180738.pdf)

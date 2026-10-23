@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/10/19600/0017800193.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/28/2023/10/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2023-222583139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed41ebbd3ef4e2ab35f5fd984f4c2d280ce6aafc1b2e39da2f4ddd1cc9bf796c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ee0dc1b1be8e5d19c50f3ce92df4940f3a2a22ef74125dc5cfec3252f796c1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ILHA de são Miguel
-- Pessoal Dirigente
+- Açores
 - Definição de Competências
+- ILHA de são Miguel
 - Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 - Serviço Regional de Saúde
-- Açores
 - Unidade de Saúde da Ilha de São Miguel
 relationships:
 - type: cites
@@ -115,16 +115,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/898/2000/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/898/2000/09/28/p/dre
+- type: cites
+  target: pt:dre:128355822:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203457551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459947:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644159:por
+  label: null
+  source: null
 article_structure:
-  article_count: 50
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 47
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:54Z'
   warnings: []
   errors: []
 ---
@@ -173,7 +217,9 @@ Os artigos 1.º, n.os 2 e 4, 12.º, 39.º e 40.º do anexo i e o anexo ii do [De
 
 4 - A coordenação, orientação e avaliação do funcionamento da USI São Miguel compete à direção regional competente em matéria de saúde e à Inspeção Regional de Saúde.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - [...]
 
@@ -209,21 +255,27 @@ n) [...]
 
 3 - [...]
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - A gestão orçamental da USI São Miguel está sujeita às regras definidas em termos de execução orçamental pelo Plano Oficial de Contas dos Serviços de Saúde e pelos princípios orientadores da direção regional competente em matéria da saúde, à qual compete, igualmente, acompanhar a respetiva execução.
 
 2 - Os orçamentos e alterações orçamentais são submetidos a apreciação da direção regional competente em matéria da saúde e aprovados nos termos da legislação em vigor.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 O pessoal do quadro de ilha de São Miguel, afeto aos Centros de Saúde de Ponta Delgada, da Ribeira Grande, de Vila Franca do Campo, da Povoação, do Nordeste e da Lagoa é afeto à USI São Miguel, mediante lista nominativa que será homologada pelo membro do Governo Regional com competência em matéria de saúde e publicada na BEP-Açores.
 
-## ANEXO II — [...]
+ANEXO II
 
-|  |  |  |
-| --- | --- | --- |
+[...]
+
 | Número de lugares | Designação dos cargos | Remunerações |
+| --- | --- | --- |
+|  |  |  |
 |  | Pessoal dirigente |  |
 | [...] | [...] | [...] |
 | 6 | Diretor clínico... | [...] |
@@ -244,11 +296,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, nas Velas, em 20 de setembro de 2023.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 6 de outubro de 2023.**
+Assinado em Angra do Heroísmo em 6 de outubro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -634,7 +686,9 @@ a) Secção de pessoal, expediente e arquivo;
 
 b) Secção de contabilidade, património e aprovisionamento.
 
-###### Artigo 32.º — Secção de pessoal, expediente e arquivo
+###### Artigo 32.º
+
+#### Secção de pessoal, expediente e arquivo
 
 Compete à secção de pessoal, expediente e arquivo:
 
@@ -656,7 +710,9 @@ h) Organizar o trabalho dos motoristas e do pessoal auxiliar;
 
 i) Efetuar as operações de controlo da assiduidade e pontualidade do pessoal.
 
-###### Artigo 33.º — Secção de contabilidade, património e aprovisionamento
+###### Artigo 33.º
+
+#### Secção de contabilidade, património e aprovisionamento
 
 Compete à secção de contabilidade, património e aprovisionamento:
 
@@ -770,9 +826,9 @@ Quadro de pessoal dirigente e de chefia
 
 Unidade de Saúde da Ilha de São Miguel
 
-|  |  |  |
-| --- | --- | --- |
 | Número de lugares | Designação dos cargos | Remunerações |
+| --- | --- | --- |
+|  |  |  |
 |  | Pessoal dirigente |  |
 | 1 | Presidente do conselho de administração... | (a) |
 | 2 | Vogais executivos... | (b) |
@@ -792,3 +848,5 @@ Unidade de Saúde da Ilha de São Miguel
 (d) De acordo com o [Decreto Regulamentar Regional n.º 11/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2001-644159), de 10 de setembro, alterado pelo [Decreto Regulamentar Regional n.º 6/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), de 6 de abril.
 
 (e) Remuneração de acordo com a [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro.
+
+116928745

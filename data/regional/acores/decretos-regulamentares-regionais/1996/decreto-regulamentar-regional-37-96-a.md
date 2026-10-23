@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/09/215b00/32153219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/37/1996/09/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-1996-219733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 509b9a6672e886b58e9f7b3b5082cb656d832d7e2a3d454f32ba1af71319e944
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38c5fb1d8468a3c0572b9e1e510c37ee4e7c2e34af305a51b44a1489cf41fdc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,39 +65,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Promoção Turística
+- Açores
+- Aldeamento Turístico
+- Apoio ao Investimento
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Estabelecimento Hoteleiro
-- Apoio ao Investimento
+- Infraestrutura Turística
 - Projeto de Investimento
-- Aldeamento Turístico
-- Desenvolvimento Económico
+- Promoção Turística
 - Secretaria Regional do Turismo e Ambiente
 - Secretário Regional do Turismo e Ambiente
 - Sistema de Incentivos Financeiros ao Investimento no Turismo
-- Açores
 - Sitraa
-- Infraestrutura Turística
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:321946:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186887:por
+  label: "Alterados os art. 7º, 9º e 12º e substituidos os quadro anexos ao presente diploma, pela DRR.4/98/A.1998.01.26.PG-RAA\
+    \ DR.IS-B [60] de 12/Mar/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1998-186887
+  date: '1998-01-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/8/1996/06/14/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/8/1996/06/14/a/dre
+- type: cites
+  target: pt:dre:435051:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321946:por
+  label: "Revogado pelo DRR.7/99/A.1999.04.27.SRE-RAA DR.IS-B [110] DE 12/MAI/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1999-321946
+  date: '1999-04-27'
 article_structure:
   article_count: 17
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:41Z'
   warnings: []
   errors: []
 ---
@@ -370,12 +385,12 @@ Este diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Lages do Pico, em 13 de Julho de 1996.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 14 de Agosto de 1996.**
+Assinado em Angra do Heroísmo em 14 de Agosto de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/09/215b00/32153219.pdf))](https://files.diariodarepublica.pt/1s/1996/09/215b00/32153219.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/09/215b00/32153219.pdf)

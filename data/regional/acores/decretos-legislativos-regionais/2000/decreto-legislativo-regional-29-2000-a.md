@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/2000/08/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2000-340610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a55954204494aeb4833b59546422ee7543010e95cab8b3d9f41ad648f54ec0fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f86ed6970ce03ea7ddbeacbb6c69c8ae8312835e6cfe94992e2cc25c85f318e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,46 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Administração Central
-- Função Pública
-- Tempo de Serviço
+- Administração Local
+- Administração Pública
+- Administração Regional
+- Carreira Profissional
 - Concurso
 - Concurso de Habilitação
 - Criação de Lugares
-- Administração Pública
-- Sistema Retributivo
-- Carreira Profissional
 - Extinção de Lugares
-- INA
-- Pessoal Operário
-- Recrutamento de Pessoal
+- Função Pública
+- Funcionário Público
+- Gestão de Recursos Humanos
 - Habilitações Literárias
+- INA
 - Instituto Público
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Chefia
+- Pessoal Operário
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
 - Política Salarial
-- Qualificação Profissional
 - Progressão na Carreira
 - Promoção Profissional
 - Quadro de Pessoal
+- Qualificação Profissional
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
-- Administração Local
 - Regime de Pessoal
 - Remuneração
-- Funcionário Público
-- Administração Regional
-- Gestão de Recursos Humanos
-- Açores
+- Sistema Retributivo
 - Tabela Salarial
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:456561:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:438179:por
+  label: "Introduzida a carreira de banheiro e corrigido o desenvolvimento salarial da carreira de guarda de estação termal\
+    \ no mapa anexo ao presente diploma, pelo DLR.43/2003/A.05.11.2003.ALR-RAA, DR.IS-A [271] de 22.11.2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/43-2003-438179
+  date: '2003-11-05'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente operacional, nos termos do art. 7º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    2008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1994/07/21/p/dre
   label: null
@@ -118,16 +132,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/53/1991/10/09/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/53/1991/10/09/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297227:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:235762:por
+  label: "Rectificado pela DECL-RECT.11-B/2000.2000.09.29.PCM DR.IS-A [227]Supl. de 30/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-b-2000-235762
+  date: '2000-09-29'
+- type: repealed_by
+  target: pt:dre:207850:por
+  label: "Revogado, relativamente ao grupo de pessoal técnico e à carreira técnico-profissional de conservação e restauro\
+    \ daquele grupo de pessoal, o disposto no quadro anexo, pelo DLR.30/2002/A.2002.06.25.ALR-RAA DR.IS-A [162] de 16/Jul/2002\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-2002-207850
+  date: '2002-06-25'
+- type: repealed_by
+  target: pt:dre:577136:por
+  label: "Revogado o mapa anexo ao presente diploma na parte referente aos técnicos de emprego e monitores de formação profissional,\
+    \ pelo DLR.37/2004/A.29.09.2004.ALR-RAA, DR.IS-A [247] de 20.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/37-2004-577136
+  date: '2004-09-29'
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:21Z'
   warnings: []
   errors: []
 ---
@@ -200,13 +244,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 7 de Junho de 2000.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 10 de Julho de 2000.**
+Assinado em Angra do Heroísmo em 10 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 MAPA ANEXO
 

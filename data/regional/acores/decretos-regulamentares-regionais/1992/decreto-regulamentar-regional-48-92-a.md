@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/11/275b00/54855489.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/48/1992/11/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1992-599137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 601667689b8996c33f4d372cafe0ec1019ca328785f5dd78a163f4d58dc684e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3c6a691471db5f0e14b061f4683a9b483d04c3b15097cd31ecd27a431187e40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Definição de Competências
-- Direcção Regional da Educação Física e Desporto
 - Delegação de Educação Física e Desporto
+- Desporto
+- Direcção Regional da Educação Física e Desporto
 - Educação Física
 - Integração de Trabalhadores
 - Quadro de Pessoal
-- Açores
-- Desporto
 relationships:
 - type: amended_by
   target: pt:dre:301023:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472126:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515866:por
+  label: "Revogada a al. c) do nº 1 e os nºs 3, 4 e 5 do art. 4º pelo DRR.10/98/A.1998.04.13.SREAS-RAA, DR.IS-B [101] de 02/Mai/1998\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1998-515866
+  date: '1998-04-13'
+- type: repealed_by
+  target: pt:dre:301023:por
+  label: "Revogado pelo DRR.18/2000/A.2000.06.07.SREAS-RAA DR.IS-B [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2000-301023
+  date: '2000-06-07'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:11Z'
   warnings: []
   errors: []
 ---
@@ -256,14 +283,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 8 de Setembro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 11 de Outubro de 1992.**
+Assinado em Angra do Heroísmo em 11 de Outubro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 8.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/11/275b00/54855489.pdf))](https://files.diariodarepublica.pt/1s/1992/11/275b00/54855489.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/275b00/54855489.pdf)

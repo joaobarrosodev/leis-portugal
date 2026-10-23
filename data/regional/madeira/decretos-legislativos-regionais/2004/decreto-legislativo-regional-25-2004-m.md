@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/196a00/55425558.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/25/2004/08/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2004-480297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d923a5d33d8d1c46f35a17ee5799d4765e9e0eef874eb6077df58a827ca32c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72c41b6dbb8fcea5e3b30a6171bcfa85261696bdbc963e142101fe538c8d0a28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,21 @@ reuse:
 subjects:
 - Artesanato
 - Instituto do Bordado Tapeçaria e Artesanato da Madeira
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:286081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693196:por
+  label: "Mantido em vigor o diploma orgânico e o quadro de pessoal aprovados pelo DLR 14/91/M de 18-Jun, alterado e republicado\
+    \ pelo presente diploma, pelo DRR.23/2005/M.22.04.2005.PG-RAM, DR.IS-B [94] de 16.05.2005, até à entrada em vigor do novo\
+    \ diploma orgânico \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-2005-693196
+  date: '2005-04-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/110/2002/04/16/p/dre
   label: null
@@ -117,16 +124,97 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631830:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659282:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671044:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286081:por
+  label: "Revoga pelo DLR.18/2006/M.15.05.2006.AL-RAM, DR.IS-A [103] de 29.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2006-286081
+  date: '2006-05-15'
 article_structure:
-  article_count: 67
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 47
+  section_count: 19
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:26Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +253,9 @@ Natureza e tutela
 
 4 - O IBTAM rege-se pelas normas constantes da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, com as adaptações que porventura venham a ser estabelecidas por diploma regional nos termos do n.º 2 do artigo 2.º, e demais legislação aplicável às pessoas colectivas públicas, em geral, e aos institutos públicos, em especial, bem como pelo [Decreto Legislativo Regional n.º 14/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1991-659282), de 18 de Junho, e pelo [Decreto Regulamentar Regional n.º 20/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2001-631830), de 30 de Agosto.
 
-###### Artigo 4.º — Atribuições
+Artigo 4.º
+
+Atribuições
 
 Para a realização do seu objecto são atribuições do IBTAM:
 
@@ -183,7 +273,9 @@ f) Possuir uma gestão por objectivos, nos termos da alínea c) do n.º 1 do art
 
 g) Observar os princípios gerais da actividade administrativa, de acordo com a alínea d) do n.º 1 e o n.º 2 do artigo 5.º do diploma referido na alínea anterior.
 
-###### Artigo 5.º — Competências
+Artigo 5.º
+
+Competências
 
 1 - Para o exercício das suas atribuições, compete ao IBTAM:
 
@@ -235,7 +327,9 @@ e) ...
 
 4 - Com o objectivo de fomentar a exportação do artesanato regional, o IBTAM poderá participar no capital social de empresas de forma a assegurar uma mais eficaz colocação do mesmo no mercado externo, com a autorização prévia dos secretários regionais da tutela nas áreas do bordado, tapeçarias e artesanato e da tutela na área das finanças, anualmente renovada.
 
-###### Artigo 6.º — Órgãos e serviços
+Artigo 6.º
+
+Órgãos e serviços
 
 1 - São órgãos e serviços do IBTAM:
 
@@ -247,9 +341,13 @@ c) O conselho consultivo.
 
 2 - Na dependência do conselho directivo é criado o Departamento Administrativo e a Divisão Técnica e dos Recursos Culturais, que compreende o Núcleo de Promoção, Divulgação e Inovação, o Departamento do Vime e o Departamento do Bordado e da Tapeçaria.
 
-#### SECÇÃO I — Conselho directivo
+SECÇÃO I
 
-###### Artigo 7.º — Conselho e regime
+Conselho directivo
+
+Artigo 7.º
+
+Conselho e regime
 
 1 - O conselho directivo é constituído por um presidente e dois vogais, aplicando-se o disposto no artigo 19.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro.
 
@@ -263,7 +361,9 @@ c) O conselho consultivo.
 
 6 - Aos membros do conselho directivo do IBTAM é aplicável o disposto no artigo 25.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, e na [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, adaptada à Região pelo [Decreto Legislativo Regional n.º 5/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2004-223253), de 22 de Abril.
 
-###### Artigo 8.º — Competência
+Artigo 8.º
+
+Competência
 
 Compete ao conselho directivo:
 
@@ -289,7 +389,9 @@ j) ...
 
 l) ...
 
-###### Artigo 9.º — Competências do presidente
+Artigo 9.º
+
+Competências do presidente
 
 1 - Compete especialmente ao presidente do conselho directivo do IBTAM:
 
@@ -305,9 +407,13 @@ c) ...
 
 4 - O presidente é substituído, nas suas faltas ou impedimentos, pelo vogal de conselho directivo que, para o efeito, for designado.
 
-#### SECÇÃO II — Fiscal único
+SECÇÃO II
 
-###### Artigo 10.º — Composição
+Fiscal único
+
+Artigo 10.º
+
+Composição
 
 1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do IBTAM.
 
@@ -315,7 +421,9 @@ c) ...
 
 3 - Ao mandato e remuneração do fiscal único é aplicável o disposto no artigo 27.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro.
 
-###### Artigo 11.º — Competência
+Artigo 11.º
+
+Competência
 
 Compete ao fiscal único:
 
@@ -329,9 +437,13 @@ d) Emitir parecer sobre qualquer assunto que lhe seja submetido pelos órgãos d
 
 e) Exercer as demais competências previstas no artigo 28.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro.
 
-#### SECÇÃO III — Conselho consultivo
+SECÇÃO III
 
-###### Artigo 12.º — Constituição
+Conselho consultivo
+
+Artigo 12.º
+
+Constituição
 
 1 - ...
 
@@ -349,7 +461,9 @@ f) ...
 
 2 - O presidente do conselho consultivo é nomeado pelo secretário regional da tutela.
 
-###### Artigo 13.º — Competência e funcionamento
+Artigo 13.º
+
+Competência e funcionamento
 
 1 - Ao conselho consultivo compete dar parecer sobre:
 
@@ -369,9 +483,13 @@ f) ...
 
 3 - Ao conselho consultivo aplica-se o disposto nos artigos 29.º a 32.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro.
 
-#### SECÇÃO IV — Disposições comuns a todos os órgãos
+SECÇÃO IV
 
-###### Artigo 14.º — Mandatos
+Disposições comuns a todos os órgãos
+
+Artigo 14.º
+
+Mandatos
 
 Sem prejuízo do disposto no n.º 5 do artigo 7.º, à duração e cessação do mandato do conselho directivo e seus membros e respectiva responsabilidade aplica-se o disposto nos artigos 20.º e 24.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, sendo as competências exercidas pelo secretário regional da tutela nas áreas do bordado, tapeçarias e artesanato.»
 
@@ -385,7 +503,9 @@ Os artigos 16.º-A e 16.º-B constantes das secções V e VI do capítulo III, o
 
 Departamento administrativo
 
-###### Artigo 16.º — Competência e composição
+Artigo 16.º
+
+Competência e composição
 
 1 - O Departamento Administrativo, que substitui e redefine o Departamento de Pessoal e Expediente, é o serviço que se destina a coordenar a gestão funcional administrativa, abrangendo as áreas de recursos humanos, procedimentos administrativos referentes a expediente e arquivo, gestão patrimonial e conexa, bem como a coordenação da gestão orçamental, velando pela boa execução do respectivo procedimento, cabendo-lhe promover as medidas tendentes ao aperfeiçoamento organizacional de modernização administrativa.
 
@@ -401,7 +521,9 @@ c) A Secção de Orçamento, Contabilidade, Informática e Estatística.
 
 4 - O recrutamento para a categoria de coordenador e coordenador especialista far-se-á, respectivamente, de entre os chefes de secção com comprovada experiência administrativa e de entre os coordenadores com três anos na respectiva categoria, sendo a remuneração de acordo com o estabelecido no [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto, aplicando-se à mobilidade, mediante concurso, o disposto nos n.os 2 a 4 do artigo 18.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
 
-###### Artigo 17.º — Secção de Pessoal, Expediente e Arquivo
+Artigo 17.º
+
+Secção de Pessoal, Expediente e Arquivo
 
 1 - A Secção de Pessoal, Expediente e Arquivo é dirigida por um chefe de secção, competindo-lhe, além de outras competências que lhe sejam superiormente determinadas, o seguinte:
 
@@ -433,7 +555,9 @@ ii) Assegurar a efectiva recolha e tratamento da documentação histórica e té
 
 iii) Promover a uniformização de critérios de organização dos centros de documentação e informação dos diversos serviços do IBTAM.
 
-###### Artigo 18.º — Secção de Logística, Armazenagem e Património
+Artigo 18.º
+
+Secção de Logística, Armazenagem e Património
 
 A Secção de Logística, Armazenagem e Património é dirigida por um chefe de secção, competindo-lhe, além de outras competências que lhe sejam superiormente determinadas, nomeadamente:
 
@@ -445,7 +569,9 @@ c) Organizar, actualizar e gerir o inventário de depósito e armazenagem do IBT
 
 d) Gerir as necessidades logísticas e de manutenção patrimonial do IBTAM.
 
-###### Artigo 19.º — Secção de Orçamento, Contabilidade, Informática e Estatística
+Artigo 19.º
+
+Secção de Orçamento, Contabilidade, Informática e Estatística
 
 A Secção de Orçamento, Contabilidade, Informática e Estatística é dirigida por um chefe de secção, competindo-lhe, além de outras competências que lhe sejam superiormente determinadas, nomeadamente:
 
@@ -475,9 +601,13 @@ iii) Elaborar tabelas estatísticas de acordo com os dados fornecidos por cada d
 
 iv) Coordenar a elaboração de uma página electrónica.
 
-#### SECÇÃO VI — Divisão Técnica e dos Recursos Culturais
+SECÇÃO VI
 
-###### Artigo 20.º — Competência
+Divisão Técnica e dos Recursos Culturais
+
+Artigo 20.º
+
+Competência
 
 1 - À Divisão Técnica e dos Recursos Culturais, chefiada por um titular qualificado como cargo de direcção intermédia, de 2.º grau, designado por chefe de divisão, compete:
 
@@ -511,9 +641,13 @@ d) Prestar apoio técnico nas áreas do marketing e inovação de produtos artes
 
 e) Exercer todas as restantes competências que, dentro da sua área funcional, lhe sejam superiormente cometidas.
 
-#### SECÇÃO VII — Departamento do Vime
+SECÇÃO VII
 
-###### Artigo 21.º — Competência
+Departamento do Vime
+
+Artigo 21.º
+
+Competência
 
 1 - Compete ao Departamento do Vime, dirigido por um coordenador, proceder à coordenação do exercício da actividade artesanal da obra de vimes de acordo com as regras legalmente estabelecidas, além de outras competências que lhe sejam superiormente determinadas:
 
@@ -539,9 +673,13 @@ j) Promover e organizar para o sector do vime um cadastro, donde conste a inscri
 
 2 - As regras de provimento do coordenador são as previstas pelo [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, com as alterações introduzidas pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
-#### SECÇÃO VIII — Departamento do Bordado e da Tapeçaria
+SECÇÃO VIII
 
-###### Artigo 22.º — Competência
+Departamento do Bordado e da Tapeçaria
+
+Artigo 22.º
+
+Competência
 
 1 - O Departamento do Bordado e da Tapeçaria é dirigido por um coordenador, competindo-lhe, além de outras competências que lhe sejam superiormente determinadas:
 
@@ -561,7 +699,9 @@ g) Prestar apoio técnico, fazer estudos, criar e elaborar protótipos de produt
 
 2 - As regras de provimento do coordenador são as previstas pelo [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, com as alterações introduzidas pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
-###### Artigo 23.º — Vinculação
+Artigo 23.º
+
+Vinculação
 
 1 - ...
 
@@ -573,7 +713,9 @@ c) ...
 
 2 - Para actos de mero expediente é suficiente a assinatura de qualquer dos membros do conselho directivo ou de funcionários a quem tal poder tenha sido conferido.
 
-###### Artigo 35.º — Legislação aplicável
+Artigo 35.º
+
+Legislação aplicável
 
 Em tudo o que não esteja regulado no presente diploma, nomeadamente condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal do IBTAM, responsabilidade civil, criminal, disciplinar e financeira, é aplicável o [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, o [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, a [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, e demais legislação complementar em vigor.»
 
@@ -599,13 +741,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 27 de Julho de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 2 de Agosto de 2004.**
+Assinado em 2 de Agosto de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica do Instituto do Bordado, Tapeçarias e Artesanato da Madeira
 
@@ -869,7 +1011,9 @@ c) A Secção de Orçamento, Contabilidade, Informática e Estatística.
 
 4 - O recrutamento para a categoria de coordenador e coordenador especialista far-se-á, respectivamente, de entre os chefes de secção com comprovada experiência administrativa e de entre os coordenadores com três anos na respectiva categoria, sendo a remuneração de acordo com o estabelecido no [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto, aplicando-se à mobilidade, mediante concurso, o disposto nos n.os 2 a 4 do artigo 18.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.
 
-###### Artigo 17.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 17.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 1 - A Secção de Pessoal, Expediente e Arquivo é dirigida por um chefe de secção, competindo-lhe, além de outras competências que lhe sejam superiormente determinadas, o seguinte:
 
@@ -901,7 +1045,9 @@ ii) Assegurar a efectiva recolha e tratamento da documentação histórica e té
 
 iii) Promover a uniformização de critérios de organização dos centros de documentação e informação dos diversos serviços do IBTAM.
 
-###### Artigo 18.º — Secção de Logística, Armazenagem e Património
+###### Artigo 18.º
+
+#### Secção de Logística, Armazenagem e Património
 
 A Secção de Logística, Armazenagem e Património é dirigida por um chefe de secção, competindo-lhe, além de outras competências que lhe sejam superiormente determinadas, nomeadamente:
 
@@ -913,7 +1059,9 @@ c) Organizar, actualizar e gerir o inventário de depósito e armazenagem do IBT
 
 d) Gerir as necessidades logísticas e de manutenção patrimonial do IBTAM.
 
-###### Artigo 19.º — Secção de Orçamento, Contabilidade, Informática e Estatística
+###### Artigo 19.º
+
+#### Secção de Orçamento, Contabilidade, Informática e Estatística
 
 A Secção de Orçamento, Contabilidade, Informática e Estatística é dirigida por um chefe de secção, competindo-lhe, além de outras competências que lhe sejam superiormente determinadas, nomeadamente:
 
@@ -943,7 +1091,9 @@ iii) Elaborar tabelas estatísticas de acordo com os dados fornecidos por cada d
 
 iv) Coordenar a elaboração de uma página electrónica.
 
-#### SECÇÃO VI — Divisão Técnica e dos Recursos Culturais
+#### SECÇÃO VI
+
+##### Divisão Técnica e dos Recursos Culturais
 
 ###### Artigo 20.º — Competência
 

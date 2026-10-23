@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/04/07400/0002300034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2023/04/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2023-211783462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7935a177c2bda1db1565425550017f1d4e123d73a3437cef4e81b5233961f1c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfd36240c333f48ff219985782976e8e35d9b4293a911a66c3bd14ac00c879ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,6 +65,7 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Carreira Geral de Assistente Operacional
 - Carreira Geral de Assistente Técnico
 - Carreira Técnica Superior
@@ -72,7 +73,6 @@ subjects:
 - Lei Geral do Trabalho em Funções Públicas
 - Pessoal de Apoio Educativo
 - Pessoal não Docente
-- Açores
 - Sistema Educativo
 relationships:
 - type: cites
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667771:por
+  label: null
+  source: null
 article_structure:
   article_count: 37
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:57Z'
   warnings: []
   errors: []
 ---
@@ -147,11 +167,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 7 de março de 2023.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 10 de abril de 2023.**
+Assinado em Angra do Heroísmo em 10 de abril de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -493,7 +513,7 @@ A prestação de trabalho suplementar, noturno e em dias de descanso semanal, de
 
 ###### Artigo 23.º — Isenção de horário de trabalho
 
-**O chefe de serviços de administração escolar ou coordenador técnico, se for o caso, goza de isenção de horário de trabalho, sem prejuízo da observância do dever geral de assiduidade e do cumprimento da duração semanal de trabalho legalmente estabelecida, não lhe sendo devida, por isso, qualquer remuneração por trabalho prestado fora do horário de trabalho normal.**
+O chefe de serviços de administração escolar ou coordenador técnico, se for o caso, goza de isenção de horário de trabalho, sem prejuízo da observância do dever geral de assiduidade e do cumprimento da duração semanal de trabalho legalmente estabelecida, não lhe sendo devida, por isso, qualquer remuneração por trabalho prestado fora do horário de trabalho normal.
 
 ###### Artigo 24.º — Férias, faltas e licenças
 
@@ -560,3 +580,5 @@ A suspensão preventiva é proposta pelo presidente do órgão executivo, ou pel
 2 - A aplicação das sanções de multa e suspensão é da competência do diretor regional competente em matéria de educação e administração educativa.
 
 3 - A aplicação das sanções de despedimento disciplinar e demissão é da competência do membro do Governo Regional competente em matéria de educação.
+
+116355604

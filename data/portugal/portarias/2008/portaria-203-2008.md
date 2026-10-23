@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/203/2008/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/203-2008-247677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba963e2299a4f07ce200d388c0fad9cec3617b804deff071e20af7b7b4677b9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af7cd09071da395ecc1d6cd1454fbafd84ed5187fa5d78c0219714f69c55e5ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/288/2001/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/288/2001/03/29/p/dre
+- type: cites
+  target: pt:dre:345143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582231:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:51Z'
   warnings: []
   errors: []
 ---
@@ -112,4 +128,4 @@ Considerando que após a desanexação do prédio em causa a zona de caça não 
 
 Com fundamento no disposto na alínea c) do n.º 1 do artigo 50.º, em conjugação com a alínea b) do n.º 1 do artigo 51.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção alterada pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja revogada concessão atribuída pela [Portaria n.º 288/2001](https://diariodarepublica.pt/dr/detalhe/portaria/288-2001-345143), de 29 de Março, alterada pela [Portaria n.º 123/2004](https://diariodarepublica.pt/dr/detalhe/portaria/123-2004-582231), de 6 de Fevereiro, à Sociedade Agrícola Silva Maia - Agricultura e Turismo Cinegético, Lda., processo n.º 2485-DGRF.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 6 de Fevereiro de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 6 de Fevereiro de 2008.

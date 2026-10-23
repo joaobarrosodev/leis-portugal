@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2011/03/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd5c8fe9bacda0c68bd180a7648943e86ccd1b41747257ac86a5c2433582c6c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9eb2a0e4b29bceb0d542d865aae807aa40a74af4eb7804fb908ef8621ae3f12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
 - Construção Civil
-- Obras Particulares
-- Urbanização
-- Governo Regional
 - Definição de Competências
+- Governo Regional
 - Indústria da Construção
-- Licenciamento
 - Licença de Construção
 - Licença de Loteamento
-- Obras Municipais
-- Obras Públicas
+- Licenciamento
 - Madeira.região Autónoma
+- Obras Municipais
+- Obras Particulares
+- Obras Públicas
+- Ordenamento do Território
 - Regime Jurídico
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:671467:por
@@ -125,16 +125,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/leiconst/1/2004/07/24/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 27
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:27Z'
   warnings: []
   errors: []
 ---
@@ -171,21 +223,29 @@ Os artigos 1.º, 5.º-A, 6.º, 7.º, 10.º e 10.º-A do [Decreto Legislativo Reg
 
 O [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, que estabelece o regime jurídico da urbanização e da edificação, na redacção que lhe foi conferida pelo [Decreto-Lei n.º 26/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2010-612626), de 30 de Março, alterado pela [Lei n.º 28/2010](https://diariodarepublica.pt/dr/detalhe/lei/28-2010-344261), de 2 de Setembro, aplica-se à Região Autónoma da Madeira com as adaptações constantes dos artigos seguintes.
 
-###### Artigo 5.º-A — Competências conjuntas dos membros do Governo Regional das tutelas nas áreas da administração pública e do ordenamento do território
+Artigo 5.º-A
+
+Competências conjuntas dos membros do Governo Regional das tutelas nas áreas da administração pública e do ordenamento do território
 
 1 - As referências feitas e as atribuições cometidas aos membros do Governo pelos artigos 13.º-A e 126.º consideram-se reportadas, conjuntamente, aos membros do Governo Regional responsáveis pelas áreas da administração pública e do ordenamento do território.
 
 2 - O disposto no n.º 2 do artigo 8.º-A e no n.º 1 do artigo 126.º é regulamentado através de portaria conjunta dos membros do Governo Regional responsáveis pelas áreas da administração pública e do ordenamento do território.
 
-###### Artigo 6.º — Competências do membro do Governo Regional da tutela na área do ordenamento do território
+Artigo 6.º
+
+Competências do membro do Governo Regional da tutela na área do ordenamento do território
 
 As referências feitas e as atribuições cometidas aos membros do Governo pelos artigos 7.º, 9.º, 12.º, 76.º, 78.º, 97.º e 123.º consideram-se reportadas e são exercidas pelo membro do Governo Regional com a tutela do ordenamento do território.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 As referências feitas e as atribuições cometidas à administração central pelos artigos 40.º e 114.º consideram-se reportadas e são exercidas pela administração regional autónoma.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -197,7 +257,9 @@ As referências feitas e as atribuições cometidas à administração central p
 
 5 - ...
 
-###### Artigo 10.º-A — [...]
+Artigo 10.º-A
+
+[...]
 
 A possibilidade de o órgão que emitiu o acto ou a deliberação declarar as nulidades previstas nas alíneas a) e c) do artigo 68.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, caduca no prazo de três anos, caducando também o direito de propor acção prevista no respectivo n.º 1 do artigo 69.º, se os factos que determinaram a nulidade não forem participados ao Ministério Público nesse prazo, excepto relativamente a monumentos nacionais e respectiva zona de protecção.»
 
@@ -211,7 +273,9 @@ Enquadramento no sistema regional de gestão territorial
 
 As referências feitas na alínea c) do n.º 2 e na alínea c) do n.º 4 do artigo 4.º, no n.º 5 do artigo 7.º e no artigo 12.º-A ao [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, consideram-se reportadas ao [Decreto Legislativo Regional n.º 43/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/43-2008-443952), de 23 de Dezembro, que define o sistema regional de gestão territorial da Região Autónoma da Madeira.
 
-###### Artigo 9.º-A — Parecer, aprovação ou autorização de localização
+Artigo 9.º-A
+
+Parecer, aprovação ou autorização de localização
 
 1 - No âmbito dos n.os 6, 7, 8 e 10 do artigo 13.º-A, caso existam posições divergentes entre as entidades identificadas e consultadas pela Direcção Regional de Informação Geográfica e Ordenamento do Território, compete ao Conselho de Governo emitir decisão final favorável, favorável condicionada ou desfavorável.
 
@@ -231,11 +295,11 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de Fevereiro de 2011.
 
-**O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 4 de Março de 2011.**
+Assinado em 4 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 

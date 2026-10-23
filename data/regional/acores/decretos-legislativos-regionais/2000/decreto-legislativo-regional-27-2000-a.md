@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/27/2000/08/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2000-339839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 167cee664f2c465c085732af47c5ccd73eb12ab246c1d193d8bd75e31cf77093
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99c1bfa5c7cdb11228b42ce6d3963b01a3c0575df22738cbf171f83dad826514
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Alteração Orçamental
 - Gestão Orçamental
 - Orçamento Regional
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:344457:por
@@ -78,16 +78,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/4/2000/01/18/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/4/2000/01/18/a/dre
+- type: cites
+  target: pt:dre:436985:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:20Z'
   warnings: []
   errors: []
 ---
@@ -114,37 +118,37 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 6 de Junho de 2000.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 10 de Julho de 2000.**
+Assinado em Angra do Heroísmo em 10 de Julho de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 MAPA I
 
 Receita da RAA
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)
 
 MAPA II
 
 Despesas por departamentos e por capítulos da RAA
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)
 
 MAPA III
 
 Despesas da Região especificadas segundo a classificação funcional
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)
 
 MAPA IV
 
 Despesas da Região especificadas segundo a classificação económica
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)
+[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)](https://files.diariodarepublica.pt/1s/2000/08/184a00/39013920.pdf)
 
 MAPA IX
 

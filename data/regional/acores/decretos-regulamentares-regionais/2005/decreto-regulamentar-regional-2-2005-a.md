@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2005/02/15/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2005-604202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5614ca57ef3c281e51fb745fbf98ad945c7398a002b522b0d3f84f1b56c66181
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74eb42c7ec4696f50fca88ea6dd25308fb7c264ad950a4abb0ace9b5a07a0dc7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Recursos Hídricos
-- Monumento Natural
-- Lagoa das Furnas
-- Proteção do Ambiente
-- Plano de Bacia Hidrográfica
+- Açores
 - Bacia Hidrográfica
-- Zona de Proteção
+- Lagoa das Furnas
+- Monumento Natural
+- Ordenamento do Território
+- Plano de Bacia Hidrográfica
+- Proteção do Ambiente
+- Recursos Hídricos
 - Regulamento
 - Reserva Agrícola
 - Reserva Ecológica Regional
-- Açores
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:122059241:por
@@ -110,16 +110,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/29/2004/08/24/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/29/2004/08/24/a/dre
+- type: cites
+  target: pt:dre:283514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631657:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122059241:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 5/2019/A - Diário da República n.º 71/2019, Série I de 2019-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2019-122059241
+  date: '2019-04-10'
 article_structure:
   article_count: 59
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:04Z'
   warnings: []
   errors: []
 ---
@@ -172,19 +213,19 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 30 de Setembro de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 24 de Janeiro de 2005.**
+Assinado em Angra do Heroísmo em 24 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO I — (a que se refere o n.º 2 do artigo 1.º)
 
 Classificação da lagoa das Furnas - Zona de protecção
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)
+[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)
 
 ## ANEXO II — (a que se refere o n.º 3 do artigo 1.º)
 
@@ -1138,10 +1179,10 @@ Aos embargos e demolições a que houver lugar são aplicáveis as regras do [De
 
 Planta de síntese
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)
+[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)
 
 ## ANEXO V — (a que se refere o n.º 1 do artigo 2.º)
 
 Planta de condicionantes
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)
+[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)](https://files.diariodarepublica.pt/1s/2005/02/032b00/11441155.pdf)

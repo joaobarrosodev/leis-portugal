@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/1995/07/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1995-475079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9342b50b44c3bed282a5023fa9fbd8bda681ad5883ecb70d3a891b3fc546b23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37914eab4b5836dffb4ce2189bba74263d1f20f40f75f078f6ec45529c11f052
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estabelecimento de Jogos
-- Multa
 - Contra-ordenação
 - Direitos e Liberdades
+- Estabelecimento de Jogos
 - Estabelecimento Hoteleiro
+- Fogueira
 - Liberdade de Reunião
 - Licenciamento
 - Madeira.região Autónoma
-- Fogueira
+- Multa
 - Regulamento
 relationships:
 - type: amended_by
@@ -84,16 +84,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:392061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:03Z'
   warnings: []
   errors: []
 ---
@@ -112,11 +120,11 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, nos termos das alíneas a) e p) do n.º 1 do artigo 229.º da Constituição e das alíneas c) e g) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º - 1 - Compete ao Governo Regional, através do membro do Governo responsável pela área da Administração Pública, no exercício de funções de polícia, elaborar regulamentos obrigatórios sobre matéria da sua competência policial, nos termos do presente diploma.
+Artigo 1.º - 1 - Compete ao Governo Regional, através do membro do Governo responsável pela área da Administração Pública, no exercício de funções de polícia, elaborar regulamentos obrigatórios sobre matéria da sua competência policial, nos termos do presente diploma.
 
 2 - Os regulamentos a que alude o n.º 1 revestirão a forma de portaria, a publicar no Diário da República e no Jornal Oficial da Região.
 
-###### Art. 2.º No âmbito das competências de polícia administrativa do Governo Regional, carecem de participação prévia, autorização ou licença, designadamente, as seguintes actividades:
+Art. 2.º No âmbito das competências de polícia administrativa do Governo Regional, carecem de participação prévia, autorização ou licença, designadamente, as seguintes actividades:
 
 a) De participação prévia: as reuniões, comícios, manifestações, cortejos ou desfiles em lugares públicos;
 
@@ -124,49 +132,49 @@ b) De autorização: as operações oferecidas ao público em que a esperança d
 
 c) De licença: a abertura e o funcionamento de estabelecimentos hoteleiros e similares, de apartamentos turísticos, de casas de jogos que não sejam de fortuna ou azar, o comércio de armas de defesa, de caça ou de recreio e suas munições, as festas, arraiais, cegadas e bailes na via pública, os folguedos carnavalescos, o lançamento de foguetes e fogos de artifício e a venda ambulante de lotaria.
 
-###### Art. 3.º A participação prévia a que alude a alínea a) do artigo 2.º é apresentada ao membro do Governo Regional que tenha a seu cargo o sector da Administração Pública ou ao presidente da câmara municipal, conforme a aglomeração tenha ou não lugar na capital da Região.
+Art. 3.º A participação prévia a que alude a alínea a) do artigo 2.º é apresentada ao membro do Governo Regional que tenha a seu cargo o sector da Administração Pública ou ao presidente da câmara municipal, conforme a aglomeração tenha ou não lugar na capital da Região.
 
-###### Art. 4.º Poderá ser previsto em regulamento que seja ordenado, até à remoção das causas, o encerramento do estabelecimento que funcione sem as licenças ou as condições exigidas por lei ou regulamento.
+Art. 4.º Poderá ser previsto em regulamento que seja ordenado, até à remoção das causas, o encerramento do estabelecimento que funcione sem as licenças ou as condições exigidas por lei ou regulamento.
 
-###### Art. 5.º - 1 - A abertura e o funcionamento de estabelecimentos hoteleiros e similares, de apartamentos turísticos, bem como de casas de jogos que não sejam de fortuna ou azar, dependem de licenças de abertura e de funcionamento em termos a regulamentar.
+Art. 5.º - 1 - A abertura e o funcionamento de estabelecimentos hoteleiros e similares, de apartamentos turísticos, bem como de casas de jogos que não sejam de fortuna ou azar, dependem de licenças de abertura e de funcionamento em termos a regulamentar.
 
 2 - O regulamento definirá os casos em que a licença pode ser atribuída no regime de funcionamento permanente.
 
-###### Art. 6.º Nos estabelecimentos referidos no número anterior é proibido o fornecimento de bebidas alcoólicas a menores de 16 anos.
+Art. 6.º Nos estabelecimentos referidos no número anterior é proibido o fornecimento de bebidas alcoólicas a menores de 16 anos.
 
-###### Art. 7.º - 1 - Salvo disposição legal em contrário, a violação de normas contidas nos regulamentos a que se refere o artigo 1.º constitui contra-ordenação punível com coima, nos termos da lei geral.
+Art. 7.º - 1 - Salvo disposição legal em contrário, a violação de normas contidas nos regulamentos a que se refere o artigo 1.º constitui contra-ordenação punível com coima, nos termos da lei geral.
 
 2 - O pagamento da coima não dispensa o das licenças ou autorizações, quando devido.
 
-###### Art. 8.º - 1 - A aplicação das coimas é da competência do membro do Governo Regional que tiver a seu cargo a Administração Pública.
+Art. 8.º - 1 - A aplicação das coimas é da competência do membro do Governo Regional que tiver a seu cargo a Administração Pública.
 
 2 - A competência prevista no número anterior é delegável nos presidentes das câmaras municipais, com possibilidade de subdelegação num vereador.
 
-###### Art. 9.º A investigação e a instrução do processo cabem à autoridade administrativa que aplicar a coima, nos termos da lei geral.
+Art. 9.º A investigação e a instrução do processo cabem à autoridade administrativa que aplicar a coima, nos termos da lei geral.
 
-###### Art. 10.º O produto das coimas terá o seguinte destino: 75% para a entidade responsável pela instrução do processo e 25% para a entidade fiscalizadora.
+Art. 10.º O produto das coimas terá o seguinte destino: 75% para a entidade responsável pela instrução do processo e 25% para a entidade fiscalizadora.
 
-###### Art. 11.º - 1 - A negligência e a tentativa são punidas sempre que às correspondentes contra-ordenações seja aplicável coima cujo valor mínimo seja igual ou superior a 20000$00;
+Art. 11.º - 1 - A negligência e a tentativa são punidas sempre que às correspondentes contra-ordenações seja aplicável coima cujo valor mínimo seja igual ou superior a 20000$00;
 
 2 - Nos casos previstos no número anterior, os limites mínimo e máximo das coimas são reduzidos a um quinto.
 
-###### Art. 12.º A responsabilidade pela contra-ordenação será imputada a quem viole, por acção ou omissão, só ou em comparticipação, as obrigações e deveres legais, designadamente:
+Art. 12.º A responsabilidade pela contra-ordenação será imputada a quem viole, por acção ou omissão, só ou em comparticipação, as obrigações e deveres legais, designadamente:
 
 a) Às pessoas em nome de quem estiverem passadas as licenças;
 
 b) Àqueles sob cuja responsabilidade estiver funcionando o estabelecimento, caso não existam licenças.
 
-###### Art. 13.º A abertura e o funcionamento sem licença de estabelecimentos hoteleiros ou similares, de apartamentos turísticos e de casas de jogos que não sejam de fortuna ou azar será punida com coima de 40000$00 a 300000$00.
+Art. 13.º A abertura e o funcionamento sem licença de estabelecimentos hoteleiros ou similares, de apartamentos turísticos e de casas de jogos que não sejam de fortuna ou azar será punida com coima de 40000$00 a 300000$00.
 
-###### Art. 14.º O exercício de actividade diferente daquela para que o estabelecimento está licenciado será punido com coima de 30000$00 a 100000$00.
+Art. 14.º O exercício de actividade diferente daquela para que o estabelecimento está licenciado será punido com coima de 30000$00 a 100000$00.
 
-###### Art. 15.º A falta de licença de funcionamento para estabelecimentos de bebidas e restaurantes situados nomeadamente em casas de espectáculos, associações e clubes será punida com coima de 30000$00 a 100000$00.
+Art. 15.º A falta de licença de funcionamento para estabelecimentos de bebidas e restaurantes situados nomeadamente em casas de espectáculos, associações e clubes será punida com coima de 30000$00 a 100000$00.
 
-###### Art. 16.º - 1 - A realização, nos estabelecimentos referidos no artigo 13.º, de actividades que não obedeçam ao disposto na lei, de actos de prostituição, ou sua tentativa, ou de outros actos que perturbem a ordem, o sossego e a tranquilidade dos cidadãos será punida com coima de 20000$00 a 100000$00.
+Art. 16.º - 1 - A realização, nos estabelecimentos referidos no artigo 13.º, de actividades que não obedeçam ao disposto na lei, de actos de prostituição, ou sua tentativa, ou de outros actos que perturbem a ordem, o sossego e a tranquilidade dos cidadãos será punida com coima de 20000$00 a 100000$00.
 
 2 - A existência de gabinetes reservados em salas de jogos que não sejam de fortuna ou azar e em quaisquer estabelecimentos similares aos hoteleiros será punida com coima de 20000$00 a 100000$00.
 
-###### Art. 17.º - 1 - Nos estabelecimentos referidos no artigo 13.º, são punidos com coima de 20000$00 a 100000$00:
+Art. 17.º - 1 - Nos estabelecimentos referidos no artigo 13.º, são punidos com coima de 20000$00 a 100000$00:
 
 a) O fornecimento de bebidas alcoólicas a menores de 16 anos, a deficientes mentais notórios e a indivíduos em estado de embriaguez;
 
@@ -182,17 +190,17 @@ e) A produção de toques de música, o canto ou dança e ainda o funcionamento 
 
 3 - Os clientes que permaneçam no estabelecimento ou recinto para além do horário de funcionamento autorizado, depois de avisados pelo responsável do mesmo, serão punidos com coima de 5000$00 a 20000$00.
 
-###### Art. 18.º A inexistência nas associações de registo de sócios nos termos previstos em regulamento ou a sua não exibição pronta às autoridades policiais ou aos seus agentes, bem como a prática fora das condições regulamentares, nas mesmas associações, de divertimentos ou distracções, serão punidas com coima de 15000$00 a 50000$00.
+Art. 18.º A inexistência nas associações de registo de sócios nos termos previstos em regulamento ou a sua não exibição pronta às autoridades policiais ou aos seus agentes, bem como a prática fora das condições regulamentares, nas mesmas associações, de divertimentos ou distracções, serão punidas com coima de 15000$00 a 50000$00.
 
-###### Art. 19.º - 1 - A exploração ou consentimento da prática de jogos sem licença ou que não constem, expressamente, da licença serão punidos com coima de 30000$00 a 100000$00.
+Art. 19.º - 1 - A exploração ou consentimento da prática de jogos sem licença ou que não constem, expressamente, da licença serão punidos com coima de 30000$00 a 100000$00.
 
 2 - A prática de jogos por menores de 16 anos será punida com coima de 15000$00 a 50000$00.
 
 3 - A presença injustificada de menores de 16 anos nos locais de jogo é punida com a coima prevista no número anterior.
 
-###### Art. 20.º O funcionamento dos estabelecimentos mencionados no artigo 13.º fora do horário para o qual estão licenciados será punido com coima de 25000$00.
+Art. 20.º O funcionamento dos estabelecimentos mencionados no artigo 13.º fora do horário para o qual estão licenciados será punido com coima de 25000$00.
 
-###### Art. 21.º - 1 - O toque de instrumentos e o canto em lugares públicos, desde as 22 às 8 horas e, a qualquer hora, a gritaria, os alaridos ou outros ruídos que, de algum modo, perturbem o sossego e a tranquilidade dos habitantes serão punidos com coima de 5000$00 a 20000$00, salvo quando verificados nos dias e sob a condição referidos no n.º 3.
+Art. 21.º - 1 - O toque de instrumentos e o canto em lugares públicos, desde as 22 às 8 horas e, a qualquer hora, a gritaria, os alaridos ou outros ruídos que, de algum modo, perturbem o sossego e a tranquilidade dos habitantes serão punidos com coima de 5000$00 a 20000$00, salvo quando verificados nos dias e sob a condição referidos no n.º 3.
 
 2 - Serão punidos com coima de 10000$00 a 50000$00:
 
@@ -204,28 +212,28 @@ c) O exercício, antes das 8 ou depois das 22 horas, de profissões ou de quaisq
 
 3 - Exceptuam-se do disposto no número anterior os factos referidos na alínea a) ocorridos nas vésperas e nos dias de Natal, Ano Novo e Carnaval e nas noites dos santos populares, desde que a ordem não seja alterada e as manifestações ruidosas se não prolonguem para além das 2 horas.
 
-###### Art. 22.º Quem nas vias e demais lugares públicos incomodar ou importunar quaisquer pessoas através de gestos ou palavras susceptíveis de ferir a dignidade, nomeadamente por convite à prostituição, ou efectuar ajuntamentos ou aglomerações que possam prejudicar o trânsito ou a tranquilidade dos cidadãos, excepto as concentrações, desfiles, cortejos ou manifestações prévia e tempestivamente comunicadas à autoridade competente sem que esta tenha levantado objecções, será punido com coima de 10000$00 a 50000$00, se não for estabelecida por lei sanção diferente.
+Art. 22.º Quem nas vias e demais lugares públicos incomodar ou importunar quaisquer pessoas através de gestos ou palavras susceptíveis de ferir a dignidade, nomeadamente por convite à prostituição, ou efectuar ajuntamentos ou aglomerações que possam prejudicar o trânsito ou a tranquilidade dos cidadãos, excepto as concentrações, desfiles, cortejos ou manifestações prévia e tempestivamente comunicadas à autoridade competente sem que esta tenha levantado objecções, será punido com coima de 10000$00 a 50000$00, se não for estabelecida por lei sanção diferente.
 
-###### Art. 23.º A realização de festividades, bailes e outros divertimentos na via pública, bem como de bailes, jogos ou folguedos carnavalescos nas casas de espectáculos, associações ou outros recintos e de corsos ou batalhas de flores, sem licença ou em infracção aos limites nesta fixados é punida com coima de 10000$00 a 50000$00.
+Art. 23.º A realização de festividades, bailes e outros divertimentos na via pública, bem como de bailes, jogos ou folguedos carnavalescos nas casas de espectáculos, associações ou outros recintos e de corsos ou batalhas de flores, sem licença ou em infracção aos limites nesta fixados é punida com coima de 10000$00 a 50000$00.
 
-###### Art. 24.º Quem acender fogueiras e fizer queimadas sem observância das restrições estabelecidas em regulamento será punido com coima de 10000$00 a 50000$00.
+Art. 24.º Quem acender fogueiras e fizer queimadas sem observância das restrições estabelecidas em regulamento será punido com coima de 10000$00 a 50000$00.
 
-###### Art. 25.º As infracções ao disposto nos regulamentos referidos no artigo 1.º que não se encontrem expressamente previstas no presente diploma, nem sejam sancionadas por lei, serão punidas com coima de 10000$00 a 20000$00.
+Art. 25.º As infracções ao disposto nos regulamentos referidos no artigo 1.º que não se encontrem expressamente previstas no presente diploma, nem sejam sancionadas por lei, serão punidas com coima de 10000$00 a 20000$00.
 
-###### Art. 26.º - 1 - As coimas fixadas nos artigos 13.º a 17.º e 19.º a 25.º aplicam-se quando o responsável pela infracção for pessoa singular.
+Art. 26.º - 1 - As coimas fixadas nos artigos 13.º a 17.º e 19.º a 25.º aplicam-se quando o responsável pela infracção for pessoa singular.
 
 2 - Se a contra-ordenação for imputável a pessoa colectiva ou a associação sem personalidade jurídica, os limites máximo e mínimo das coimas a que se refere o número anterior são elevados ao dobro, até ao limite máximo estipulado por lei.
 
-###### Art. 27.º As contravenções e transgressões previstas no vigente Regulamento Policial da Região, aprovado pela [Portaria n.º 22/79](https://diariodarepublica.pt/dr/detalhe/portaria/22-1979-392061), de 29 de Março, sancionadas com penas pecuniárias passam a ser consideradas e processadas como contra-ordenações.
+Art. 27.º As contravenções e transgressões previstas no vigente Regulamento Policial da Região, aprovado pela [Portaria n.º 22/79](https://diariodarepublica.pt/dr/detalhe/portaria/22-1979-392061), de 29 de Março, sancionadas com penas pecuniárias passam a ser consideradas e processadas como contra-ordenações.
 
-###### Art. 28.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 28.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 11 de Maio de 1995.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 5 de Junho de 1995.**
+Assinado em 5 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/05/09100/0252902613.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/2008/05/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2008-249228
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18839c1caed902655353418273a83a0da3b6280b5dd757ad11b85699c7c59b4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 273ac723074f76e0d39bd0cb810be4ccbca158fbd5e0f9badee72c63a3c02ed4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Gestão de Resíduos
 - Ordenamento do Território
-- Saúde Pública
-- Sistema Regional de Informação sobre Resíduos
-- Resíduo
-- Proteção do Ambiente
-- Tratamento de Resíduos
 - Plano de Gestão de Resíduos
 - Política do Ambiente
-- Açores
+- Proteção do Ambiente
+- Resíduo
+- Saúde Pública
+- Sistema Regional de Informação sobre Resíduos
+- Tratamento de Resíduos
 relationships:
 - type: amended_by
   target: pt:dre:73986213:por
@@ -96,16 +96,39 @@ relationships:
   target: celex:32006L0012
   label: null
   source: http://data.europa.eu/eli/dir/2006/12/oj
+- type: corrected_by
+  target: pt:dre:456554:por
+  label: "Rectificado pela DECL-RECT.36/2008.11.07.2008.PCM, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/36-2008-456554
+  date: '2008-07-11'
+- type: repealed_by
+  target: pt:dre:610404:por
+  label: "Revogado, a partir de 01.04.2010, o art. 10º do DLR 20/2007/A de 23-Ago, alterado e republicado neste diploma, pelo\
+    \ DLR.8/2010/A.05.03.2010.AL-RAA, DR.IS [45] de 05.03.2010, que determinou que as referências feitas na legislação e regulamentos\
+    \ à ERSERA (criada no DLR 20/2007/A) se consideram reportadas e exercidas pela ERSARA, criada neste último diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2010-610404
+  date: '2010-03-05'
+- type: repealed_by
+  target: pt:dre:146215:por
+  label: "Revogado, a partir de 30.12.2011, o DLR 20/2007/A, de 23-Ago, na redacção do presente diploma, pelo DLR.29/2011/A.16.11.2011.AL-RAA,\
+    \ DR.IS [220] de 16.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2011-146215
+  date: '2011-11-16'
+- type: repealed_by
+  target: pt:dre:73986213:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 6/2016/A - Diário da República n.º 61/2016, Série I de 2016-03-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2016-73986213
+  date: '2016-03-29'
 article_structure:
-  article_count: 43
+  article_count: 40
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:44Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +215,9 @@ iii) Injecção em profundidade, por exemplo, injecção de resíduos por bombag
 
 ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -204,11 +229,15 @@ iii) Injecção em profundidade, por exemplo, injecção de resíduos por bombag
 
 5 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O regime jurídico que regula o licenciamento e concessão das operações de gestão de resíduos é aprovado por decreto regulamentar regional.
 
-###### Artigo 26.º — Disposições finais e transitórias
+Artigo 26.º
+
+Disposições finais e transitórias
 
 1 - Até à data de entrada em vigor do:
 
@@ -256,11 +285,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e as al
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de Fevereiro de 2008.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 24 de Abril de 2008.**
+Assinado em Angra do Heroísmo em 24 de Abril de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -738,4 +767,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 (a que se refere o artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/05/09100/0252902613.pdf))](https://files.diariodarepublica.pt/1s/2008/05/09100/0252902613.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/05/09100/0252902613.pdf)

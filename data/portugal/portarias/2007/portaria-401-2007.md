@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/06800/22142217.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/401/2007/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/401-2007-520215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ddf60dbd3394437dc9f48fad6f5c6533db09c00b48cde225063e9731a1fd2a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c655967f839702985932d71663683b60a45fcbee0b62c290287066bc8019096
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamento dos Regimes de Mudança de Curso Transferência e Reingresso no Ensino Superior
-- Estudante
-- Observatório da Ciência e do Ensino Superior
 - Direção Geral do Ensino Superior
+- Ensino Superior
+- Estabelecimento de Ensino
+- Estudante
+- Matrícula
 - Mudança de Curso
 - Numerus Clausus
-- Estabelecimento de Ensino
+- Observatório da Ciência e do Ensino Superior
 - Regulamento
-- Ensino Superior
+- Regulamento dos Regimes de Mudança de Curso Transferência e Reingresso no Ensino Superior
 - Transferência de Alunos
-- Matrícula
 relationships:
 - type: amended_by
   target: pt:dre:67552512:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:339025:por
+  label: "Dada nova redação ao art. 5º, aditados os arts. 5º-A e 12º, e revogado o nº 7 do art. 5º do Regulamento dos Regimes\
+    \ de Mudança de Curso, Transferência e Reingresso no Ensino Superior pela PORT.232-A/2013.22.07.2013.MECI, DR.IS [139-Supl]\
+    \ de 22.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/232-a-2013-339025
+  date: '2013-07-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/196/2006/10/10/p/dre
   label: null
@@ -121,16 +128,79 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/953/2001/08/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/953/2001/08/09/p/dre
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541251:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671387:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:55021010:por
+  label: Revogado, a partir de 17.07.2014, sem prejuizo do disposto no n.º 2 do art. 28.º, os n.ºs 4.ª e 6 do art. 5.º do
+    Regulamento dos Regimes de Mudança de Curso, Transferência e Reingresso no Ensino Superior, aprovado presente portaria,
+    na redação da Port 232-A/2013, de 22-jul, pelo(a) Decreto-Lei n.º 113/2014 - Diário da República n.º 135/2014, Série I
+    de 2014-07-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2014-55021010
+  date: '2014-07-16'
+- type: repealed_by
+  target: pt:dre:67552512:por
+  label: Revogada, a partir de 20.06.2015 e com efeitos a partir do fim da candidatura à matrícula e inscrição no ano letivo
+    de 2015-2016, a presente Portaria, na redação da Port 232-A/2013 de 22-jul e do Dec Lei 113/2014 de 16-jul, pelo(a) Portaria
+    n.º 181-D/2015 - Diário da República n.º 118/2015, 2º Suplemento, Série I de 2015-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/181-d-2015-67552512
+  date: '2015-06-19'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:20Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +265,7 @@ O disposto no Regulamento dos Regimes de Mudança de Curso, Transferência e Rei
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 26 de Março de 2007.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 26 de Março de 2007.
 
 REGULAMENTO DOS REGIMES DE MUDANÇA DE CURSO, TRANSFERÊNCIA E REINGRESSO NO ENSINO SUPERIOR
 

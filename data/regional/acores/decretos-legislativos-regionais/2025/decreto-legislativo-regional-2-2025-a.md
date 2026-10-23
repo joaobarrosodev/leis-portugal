@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2025/01/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-902264456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a013310f44efdb3248c669d0ff6dfe63eb6d2906f799eadbd137c7900435b6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ea5021cef06ad911e166ffd3f16ed19a63601f196a9e58c8530784404ab4494
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Proteção Civil
-- Bombeiro
-- Orgânica
 - Açores
+- Bombeiro
 - Conselho Regional de Bombeiros
+- Orgânica
+- Proteção Civil
+- Reestruturação de Serviços
 - Serviço Regional de Protecção Civil dos Açores
 relationships:
 - type: cites
@@ -114,16 +114,86 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolalraa/51/2021/10/25/a/dre
   label: null
   source: http://data.dre.pt/eli/resolalraa/51/2021/10/25/a/dre
+- type: cites
+  target: pt:dre:121748967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:145612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173345922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:24/2003/A
+  label: Revoga, a partir de 9 de janeiro de 2025, os artigos 13.º, 14.º e 15.º do anexo i do Decreto Regulamentar Regional
+    n.º 24/2003/A, de 7 de agosto, Diário da República n.º 181/2003, Série I-B
+  source: null
+  date: '2003-08-07'
 article_structure:
   article_count: 29
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:18Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +238,7 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos te
 
 ###### Artigo 1.º — Objeto
 
-O presente decreto legislativo regional procede à quarta alteração ao [Decreto Legislativo Regional n.º 7/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1999-145612), de 19 de março, que estabelece a orgânica do Serviço Regional de Proteção Civil e de Bombeiros dos Açores, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[25/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2000-339398), de 9 de agosto, [15/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2002-364331), 30 de abril, e [39/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2006-546002), de 31 de outubro.
+O presente decreto legislativo regional procede à quarta alteração ao [Decreto Legislativo Regional n.º 7/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1999-145612), de 19 de março, que estabelece a orgânica do Serviço Regional de Proteção Civil e de Bombeiros dos Açores, alterado pelos Decretos Legislativos Regionais n.os[25/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2000-339398), de 9 de agosto, [15/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2002-364331), 30 de abril, e [39/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2006-546002), de 31 de outubro.
 
 ###### Artigo 2.º — Alteração ao [Decreto Legislativo Regional n.º 7/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1999-145612), de 19 de março
 
@@ -242,11 +312,11 @@ O presente decreto legislativo regional entra em vigor no dia imediato ao da sua
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de dezembro de 2024.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 6 de janeiro de 2025.**
+Assinado em Angra do Heroísmo em 6 de janeiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -378,7 +448,7 @@ f) Convocar e presidir ao conselho regional de bombeiros;
 
 g) Exercer o comando geral dos corpos de bombeiros;
 
-h) Homologar a nomeação dos comandantes, 2.<sup>os</sup> comandantes e adjuntos de comando dos corpos de bombeiros associativos e privativos;
+h) Homologar a nomeação dos comandantes, 2.os comandantes e adjuntos de comando dos corpos de bombeiros associativos e privativos;
 
 i) Exercer o poder disciplinar sobre os comandantes dos corpos de bombeiros privativos e associativos, designadamente determinando a instauração dos respetivos processos e aplicando as respetivas penas;
 
@@ -613,3 +683,5 @@ O Governo Regional, ouvida a Federação dos Bombeiros da Região Autónoma dos 
 ###### Artigo 24.º — Entrada em vigor
 
 O presente decreto legislativo regional entrará em vigor no dia imediato ao da sua publicação.
+
+118534789

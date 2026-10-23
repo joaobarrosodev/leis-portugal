@@ -46,40 +46,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1990-333154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea90deafd567cdff327df9faba76f256b510d1875f5954bdf9f9641ae1096ec0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb080c55cac9d916f1d7262451ba8fbd71800cc79520b6e3352b49217393b2b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Governo Regional
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional da Juventude e Recursos Humanos
+- Secretaria Regional do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:573749:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187315:por
+  label: "Alterados os artigos 23.º, 54.º, 56.º, 61.º, 62.º, 63.º, 64.º, 71.º, revogado o artigo 60.º, e alterado ainda o\
+    \ o quadro pessoal aprovado, pelo DRR.15/92/A.27.03.1992.GR-RAA, DR.IS-B [73] de 27.03.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-1992-187315
+  date: '1992-03-27'
+- type: amended_by
+  target: pt:dre:637905:por
+  label: "Extinta a Direcção Regional dos Assuntos Laborais e a Direcção Regional do Emprego e Formação Profissional, constante\
+    \ da orgânica aprovada no presente diploma, pelo DRR.6/93/A.20.03.1993.GR-RAA, DR.IS-B [67] de 20.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1993-637905
+  date: '1993-03-20'
+- type: cites
+  target: pt:dre:151547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666488:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:293333:por
+  label: Rectificado pela DECL.DD3240.1990.05.03.PCM, DR.IS [125] de 31.05.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-293333
+  date: '1990-05-03'
+- type: repealed_by
+  target: pt:dre:573749:por
+  label: "Revogado pelo DRR.17/95/A.25.09.1995.GR-RAA, DR.IS-B [222] de 25.09.1995, sem prejuízo do disposto nos n.ºs 2 e\
+    \ 3 do seu artigo 93.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1995-573749
+  date: '1995-09-25'
 article_structure:
   article_count: 75
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 29
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:35Z'
   warnings: []
   errors: []
 ---
@@ -198,7 +292,9 @@ d) Executar tudo o mais que as leis e os regulamentos expressamente lhe cometere
 
 A Repartição de Serviços Administrativos compreende a Secção de Expediente e Pessoal e a Secção de Contabilidade.
 
-##### SUBSECÇÃO I — Secção de Expediente e Pessoal
+##### SUBSECÇÃO I
+
+#### Secção de Expediente e Pessoal
 
 ###### Artigo 11.º — Competências
 
@@ -212,7 +308,9 @@ c) Realizar as acções administrativas necessárias ao recrutamento e selecçã
 
 d) Dirigir e superintender o pessoal auxiliar e o serviço de reprografia.
 
-##### SUBSECÇÃO II — Secção de Contabilidade
+##### SUBSECÇÃO II
+
+#### Secção de Contabilidade
 
 ###### Artigo 12.º — Competências
 
@@ -254,7 +352,9 @@ b) Divisão de Assuntos Sociais, Económicos e de Divulgação, designada abrevi
 
 2 - A DRJ tem delegados nas ilhas Terceira e do Faial, equiparados, para todos os efeitos legais, a chefes de divisão.
 
-###### Artigo 16.º — Divisão de Tempos Livres e Associativismo Juvenil
+###### Artigo 16.º
+
+##### Divisão de Tempos Livres e Associativismo Juvenil
 
 1 - Compete à DTLAJ:
 
@@ -274,7 +374,9 @@ g) Assegurar e coordenar o apoio técnico, material e financeiro às associaçõ
 
 h) Organizar e manter actualizado um registo regional das associações juvenis.
 
-###### Artigo 17.º — Divisão dos Assuntos Sociais, Económicos e de Divulgação
+###### Artigo 17.º
+
+##### Divisão dos Assuntos Sociais, Económicos e de Divulgação
 
 Compete à DASED:
 
@@ -384,7 +486,9 @@ c) Secção de Regulamentação do Trabalho (SERT).
 
 4 - Cada delegação é chefiada por um inspector-delegado, equiparado, para todos os efeitos legais, a chefe de divisão.
 
-###### Artigo 24.º — Divisão de Contra-Ordenações Laborais
+###### Artigo 24.º
+
+##### Divisão de Contra-Ordenações Laborais
 
 São competências da DCOL:
 
@@ -402,7 +506,9 @@ f) Estudar, elaborar e propor a criação, alteração ou extinção de suportes
 
 g) Promover a organização, actualização e manutenção de um arquivo-ficheiro de legislação, doutrina e jurisprudência do trabalho.
 
-###### Artigo 25.º — Secção de Instrução de Processos
+###### Artigo 25.º
+
+#### Secção de Instrução de Processos
 
 À SIP cabe:
 
@@ -416,7 +522,9 @@ d) Tratar com o GGFE da transferência trimestral, nos termos da lei, do produto
 
 e) Proceder à recolha dos dados estatísticos relativos ao movimento processual, segundo as normas estabelecidas.
 
-###### Artigo 26.º — Divisão de Higiene, Segurança e Medicina do Trabalho
+###### Artigo 26.º
+
+##### Divisão de Higiene, Segurança e Medicina do Trabalho
 
 1 - São competências da DHSMT:
 
@@ -434,7 +542,9 @@ f) Prestar informações e conselhos técnicos às entidades interessadas, com v
 
 2 - A DHSMT pode solicitar ao Gabinete de Prevenção de Riscos Profissionais (GPRP) a colaboração que se mostre necessária.
 
-###### Artigo 27.º — Secção de Regulamentação do Trabalho
+###### Artigo 27.º
+
+#### Secção de Regulamentação do Trabalho
 
 À SERT cabe:
 
@@ -496,7 +606,9 @@ b) Secção das Condições Especiais de Trabalho (SCET).
 
 3 - A DRT compreende a Secção das Relações Colectivas de Trabalho (SRCT).
 
-###### Artigo 31.º — Divisão das Relações de Trabalho
+###### Artigo 31.º
+
+##### Divisão das Relações de Trabalho
 
 São competências da DRT:
 
@@ -514,7 +626,9 @@ f) Elaborar pareceres e estudos referentes à legislação laboral;
 
 g) Assegurar a organização e manutenção de um arquivo-ficheiro de legislação, doutrina e jurisprudência do trabalho e de organizações do trabalho.
 
-###### Artigo 32.º — Secção das Relações Colectivas de Trabalho
+###### Artigo 32.º
+
+#### Secção das Relações Colectivas de Trabalho
 
 À SRCT cabe:
 
@@ -528,7 +642,9 @@ d) Assegurar a organização, actualização e manutenção de um arquivo-fichei
 
 e) Organizar a 4.ª série do Jornal Oficial.
 
-###### Artigo 33.º — Secção das Condições Especiais de Trabalho
+###### Artigo 33.º
+
+#### Secção das Condições Especiais de Trabalho
 
 À SCET cabe:
 
@@ -670,7 +786,9 @@ c) Coordenar a realização de acções de formação profissional fora do âmbi
 
 d) Elaborar programas ocupacionais, de formação ou de outra natureza.
 
-###### Artigo 41.º — Divisão de Estudos e Formação
+###### Artigo 41.º
+
+##### Divisão de Estudos e Formação
 
 São competências da DEF:
 
@@ -694,7 +812,9 @@ i) Dar apoio ao Sector do Artesanato, no âmbito das competências da DREFP, em 
 
 j) Colaborar em acções promovidas pela educação permanente no âmbito da formação profissional.
 
-###### Artigo 42.º — Divisão de Fomento do Emprego
+###### Artigo 42.º
+
+##### Divisão de Fomento do Emprego
 
 São competências da DFE:
 
@@ -730,7 +850,9 @@ e) Desenvolver iniciativas culturais, desportivas e recreativas em ordem à form
 
 4 - O CFPA compreende a Secção Administrativa (SA).
 
-###### Artigo 44.º — Secção Administrativa
+###### Artigo 44.º
+
+#### Secção Administrativa
 
 À SA cabe:
 
@@ -748,7 +870,9 @@ f) Controlar a assiduidade dos funcionários do Centro;
 
 g) Dirigir e superintender o pessoal auxiliar.
 
-###### Artigo 45.º — Divisão para os Assuntos do Fundo Social Europeu
+###### Artigo 45.º
+
+##### Divisão para os Assuntos do Fundo Social Europeu
 
 São competências da DAFSE:
 
@@ -990,14 +1114,14 @@ Ficam revogados os Decretos Regulamentares Regionais n.os [35/86/A](https://diar
 
 Aprovado em Conselho do Governo Regional, na Horta, em 23 de Janeiro de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Março de 1990.**
+Assinado em Angra do Heroísmo em 16 de Março de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## Anexo — Quadro de pessoal a que se refere o artigo 49.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/04/07800/15831597.pdf))](https://files.diariodarepublica.pt/1s/1990/04/07800/15831597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/04/07800/15831597.pdf)

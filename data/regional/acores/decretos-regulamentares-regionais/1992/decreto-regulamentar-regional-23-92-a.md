@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/1992/05/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1992-523400
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 921524573f03a3bc50b335753e2148282114f080434372d95ec6443a7e636333
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a0a41dbef6ac4e363df7ca8b8f188b1814ea5df987c2f11d5cbd02f2595fcf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Regional de Segurança Social
+- Instituto de Gestão de Regimes de Segurança Social
 - Pessoal de BAD
 - Quadro de Pessoal
 - Reestruturação de Carreiras
-- Instituto de Gestão de Regimes de Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:517233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517233:por
+  label: "Alterado o DRR 9/91/A de 03-Jul e republicado com todas as alterações pelo DRR.26/2004/A.08.06.2004.SRAS-RAA, DR.IS-B\
+    \ [158] de 07.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/26-2004-517233
+  date: '2004-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
@@ -90,16 +96,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/9/1991/03/07/a/dre
+- type: cites
+  target: pt:dre:402767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516879:por
+  label: "Revogado o DRR 27/91/A, de 20-Ago com a alteração constante do presente diploma, pelo DRR.11/98/A.1998.04.13.SREAS-RAA,\
+    \ DR.IS-B [103] de 05/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1998-516879
+  date: '1998-04-13'
 article_structure:
-  article_count: 3
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:02Z'
   warnings: []
   errors: []
 ---
@@ -112,15 +136,15 @@ Por outro lado, o mesmo diploma impõe a introdução, nos quadros de pessoal da
 
 Assim, em conformidade com o disposto no artigo 14.º do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Nos quadros de pessoal da Direcção Regional de Segurança Social e do Instituto de Gestão de Regimes de Segurança Social, anexos, respectivamente, ao [Decreto Regulamentar Regional n.º 27/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1991-402767), de 20 de Agosto, e ao [Decreto Regulamentar Regional n.º 9/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1991-458870), de 7 de Março, são introduzidas as alterações constantes dos mapas I e II em anexo, que fazem parte integrante do presente diploma.
+Artigo 1.º Nos quadros de pessoal da Direcção Regional de Segurança Social e do Instituto de Gestão de Regimes de Segurança Social, anexos, respectivamente, ao [Decreto Regulamentar Regional n.º 27/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1991-402767), de 20 de Agosto, e ao [Decreto Regulamentar Regional n.º 9/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1991-458870), de 7 de Março, são introduzidas as alterações constantes dos mapas I e II em anexo, que fazem parte integrante do presente diploma.
 
-###### Art. 2.º O artigo 17.º do [Decreto Regulamentar Regional n.º 27/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1991-402767), de 20 de Agosto, passa a ter a seguinte redacção:
+Art. 2.º O artigo 17.º do [Decreto Regulamentar Regional n.º 27/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1991-402767), de 20 de Agosto, passa a ter a seguinte redacção:
 
 ###### Artigo 17.º — Técnico-adjunto de biblioteca e documentação
 
 Os requisitos para o ingresso e acesso na carreira de técnico-adjunto de biblioteca e documentação são os constantes do [Decreto-Lei n.º 247/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1991-668103), de 10 de Julho.
 
-###### Art. 3.º É aditado ao [Decreto Regulamentar Regional n.º 9/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1991-458870), de 7 de Março, o artigo 98.º-A, com a seguinte redacção:
+Art. 3.º É aditado ao [Decreto Regulamentar Regional n.º 9/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1991-458870), de 7 de Março, o artigo 98.º-A, com a seguinte redacção:
 
 ###### Artigo 98.º-A — Técnico-adjunto de biblioteca e documentação
 
@@ -128,14 +152,14 @@ As condições e regras de ingresso e acesso na carreira de técnico-adjunto de 
 
 Aprovado em Conselho do Governo Regional, na Horta, em 26 de Março de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Abril de 1992.**
+Assinado em Angra do Heroísmo em 3 de Abril de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/119b00/24922493.pdf))](https://files.diariodarepublica.pt/1s/1992/05/119b00/24922493.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/119b00/24922493.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/119b00/24922493.pdf))](https://files.diariodarepublica.pt/1s/1992/05/119b00/24922493.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/119b00/24922493.pdf)

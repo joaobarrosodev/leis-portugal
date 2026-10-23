@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/110b00/22502256.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/1998/05/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1998-522847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 496cdee2cd2b9d07a8b1e43549454c3af5a5cec7f414a9b73b5dd13f9fa8981f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1357855a80e2a9d24b1cc212463a75355938ac26735e0103081447001f74e8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Presidência do Governo Regional
-- Direcção Regional das Comunidades
-- Secretaria Geral
-- Gabinete Técnico
-- Orgânica
-- Quadro de Pessoal
 - Açores
+- Direcção Regional das Comunidades
+- Gabinete Técnico
+- Governo Regional
+- Orgânica
+- Presidência do Governo Regional
+- Quadro de Pessoal
+- Secretaria Geral
 - Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:444253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Transitada para a dependência do Secretário Regional da Presidência, a Direcção Regional das Comunidades criada\
+    \ pelo presente diploma,(já revogado) e integradada na Presidência do Governo Regional dos Açores, cuja orgânica foi aprovada\
+    \ pelo DRR 30/2006/A de 31-Out, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/2/1993/01/08/p/dre
   label: null
@@ -107,16 +114,73 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:572084:por
+  label: "Revogado pelo DRR.25/2000/A.2000.08.22.PG-RAA, DR.IS-B [211] de 12/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2000-572084
+  date: '2000-08-22'
 article_structure:
-  article_count: 34
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 35
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:57Z'
   warnings: []
   errors: []
 ---
@@ -151,17 +215,19 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 16 de Janeiro de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Abril de 1998.**
+Assinado em Angra do Heroísmo em 13 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ORGÂNICA DA PRESIDÊNCIA DO GOVERNO REGIONAL
 
-### CAPÍTULO I — Artigo 1.º
+### CAPÍTULO I
+
+###### Artigo 1.º
 
 Estrutura
 
@@ -301,7 +367,9 @@ d) Executar tudo o mais que a lei e os regulamentos expressamente lhe cometerem 
 
 2 - Nas faltas ou impedimento do chefe da Repartição, o cargo será exercido por um chefe de secção a indicar pelo secretário-geral.
 
-###### Artigo 11.º — Secção de Expediente, Arquivo e Documentação
+###### Artigo 11.º
+
+#### Secção de Expediente, Arquivo e Documentação
 
 Compete à Secção de Expediente, Arquivo e Documentação:
 
@@ -325,7 +393,9 @@ i) Emitir certidões dos documentos existentes no arquivo da Secretaria-Geral;
 
 j) Proceder à organização, instrução, estudo e informação de processos.
 
-###### Artigo 12.º — Secção de Pessoal
+###### Artigo 12.º
+
+#### Secção de Pessoal
 
 Compete à Secção de Pessoal:
 
@@ -345,7 +415,9 @@ g) Orientar o serviço de limpeza, quer o assegurado internamente, quer o que es
 
 h) Proceder à organização, instrução, estudo e informação de processos.
 
-###### Artigo 13.º — Secção de Orçamento, Contabilidade e Património
+###### Artigo 13.º
+
+#### Secção de Orçamento, Contabilidade e Património
 
 Compete à Secção de Orçamento, Contabilidade e Património:
 

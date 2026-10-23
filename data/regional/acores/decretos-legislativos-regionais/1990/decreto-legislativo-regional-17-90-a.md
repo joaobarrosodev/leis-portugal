@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/11/25600/45594561.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1990-566032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bc27ff99589f1716f9ce1ab5a96fbba4fb59878e8c5b9c4fad76c5e40c5ed0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f2a71e5b42debc899e87fcefd264b6c7f7082ea9aee3a3b59cac263ea4084c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Educador de Infância
+- Ensino Básico
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:223192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223192:por
+  label: "Revogado pelo DLR.16/98/A.1998.10.23.ALR-RAA, DR.IS-A [257] de 06/Nov/1998 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-1998-223192
+  date: '1998-10-23'
 article_structure:
-  article_count: 18
+  article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:00Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +112,9 @@ Assim:
 
 A Assembleia Legislativa Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea i) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma, o seguinte:
 
-###### Artigo 1.º Na aplicação do [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, à Região Autónoma dos Açores ter-se-á em conta o disposto no artigo seguinte.
+Artigo 1.º Na aplicação do [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, à Região Autónoma dos Açores ter-se-á em conta o disposto no artigo seguinte.
 
-###### Art. 2.º Os artigos 1.º, 19.º, 23.º, 24.º, 39.º, 44.º, 48.º, 60.º, 63.º, 67.º, 83.º, 97.º, 98.º, 100.º, 113.º, 115.º e 116.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, entendem-se com a seguinte redacção:
+Art. 2.º Os artigos 1.º, 19.º, 23.º, 24.º, 39.º, 44.º, 48.º, 60.º, 63.º, 67.º, 83.º, 97.º, 98.º, 100.º, 113.º, 115.º e 116.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, entendem-se com a seguinte redacção:
 
 ###### Artigo 1.º — Âmbito de aplicação
 
@@ -255,16 +268,16 @@ Para verificação das condições de saúde e de trabalho do pessoal docente re
 
 3 - A aplicação das penas expulsivas é da competência do Secretário Regional da Educação e Cultura.
 
-###### Art. 3.º As competências atribuídas no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário ao Ministério da Educação e aos Ministros da Educação, da Saúde e das Finanças são exercidas na Região Autónoma dos Açores, respectivamente, pela Secretaria Regional da Educação e Cultura e pelos Secretários Regionais da Educação e Cultura, da Saúde e Segurnaça Social, da Administração Interna e das Finanças e Planeamento.
+Art. 3.º As competências atribuídas no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário ao Ministério da Educação e aos Ministros da Educação, da Saúde e das Finanças são exercidas na Região Autónoma dos Açores, respectivamente, pela Secretaria Regional da Educação e Cultura e pelos Secretários Regionais da Educação e Cultura, da Saúde e Segurnaça Social, da Administração Interna e das Finanças e Planeamento.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores em 14 de Setembro de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 4 de Outubro de 1990.**
+Assinado em Angra do Heroísmo em 4 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

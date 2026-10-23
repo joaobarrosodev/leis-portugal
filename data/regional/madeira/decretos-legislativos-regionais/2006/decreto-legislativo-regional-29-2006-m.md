@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/07/13800/50665132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/2006/07/19/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2006-537576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7e09b69623d0ea3356ff9c9d470d09a9c40065c2a486d26f158e8f58491d43a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43192c9ff83a983384a6b7e7857f5444850dc02c6e40929b2ea49b39ef59cdd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,40 +70,60 @@ subjects:
 - Carreira de Assistente de Acção Educativa
 - Carreira de Auxiliar de Acção Educativa
 - Conservatório-escola Profissional das Artes da Madeira
+- Educação Pré-escolar
+- Ensino Básico
 - Ensino Oficial
-- Pessoal Operário
+- Estabelecimento de Ensino
 - Integração de Trabalhadores
+- Madeira.região Autónoma
 - Pessoal Auxiliar
 - Pessoal de Enfermagem
-- Pessoal não Docente
-- Pessoal Técnico Profissional
-- Estabelecimento de Ensino
 - Pessoal Docente
-- Ensino Básico
-- Madeira.região Autónoma
+- Pessoal não Docente
+- Pessoal Operário
+- Pessoal Técnico Profissional
 - Reconversão Profissional
 - Regime Jurídico
 - Remuneração
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:216188326:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para as carreiras Gerais de Técnico Superior, bem como para as categorias de assistente\
+    \ técnico, e assistente operacional, nos termos dos arts. 2º, 4º e 7º, dos trabalhadores integrados nas carreiras ou titulares\
+    \ das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime de Contrato de Trabalho\
+    \ em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 - type: cites
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: repealed_by
+  target: pt:dre:164870239:por
+  label: Revogado, a partir de 10.06.2021, pelo(a) Decreto Legislativo Regional n.º 13/2021/M - Diário da República n.º 111/2021,
+    Série I de 2021-06-09, nos termos do disposto no seu art. 36.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/13-2021-164870239
+  date: '2021-06-09'
+- type: repealed_by
+  target: pt:dre:165036164:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 14/2021/M - Diário da República n.º 113/2021, Série I de 2021-06-14
+    nos termos do seu art. 36.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2021-165036164
+  date: '2021-06-14'
 article_structure:
   article_count: 66
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:41Z'
   warnings: []
   errors: []
 ---
@@ -528,7 +548,7 @@ Compete ao órgão de administração e gestão da escola fixar os horários de 
 
 ###### Artigo 37.º — Isenção de horário de trabalho
 
-**O chefe de departamento, o chefe de serviços de administração escolar e o chefe de secção gozam de isenção de horário de trabalho, sem prejuízo da observância do dever geral de assiduidade e do cumprimento da duração semanal de trabalho legalmente estabelecida, não lhe sendo devida, por isso, qualquer remuneração por trabalho prestado fora do horário normal.**
+O chefe de departamento, o chefe de serviços de administração escolar e o chefe de secção gozam de isenção de horário de trabalho, sem prejuízo da observância do dever geral de assiduidade e do cumprimento da duração semanal de trabalho legalmente estabelecida, não lhe sendo devida, por isso, qualquer remuneração por trabalho prestado fora do horário normal.
 
 ###### Artigo 38.º — Férias
 
@@ -840,17 +860,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 31 de Maio de 2006.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 30 de Junho de 2006.**
+Assinado em 30 de Junho de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 Do ANEXO I ao ANEXO IV
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2006/07/13800/50665132.pdf))](https://files.diariodarepublica.pt/1s/2006/07/13800/50665132.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2006/07/13800/50665132.pdf)
 
 ## ANEXO V — Conteúdos funcionais
 

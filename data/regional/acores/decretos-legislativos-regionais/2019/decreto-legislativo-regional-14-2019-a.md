@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/06/11200/0296202968.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2019/06/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2019-122549969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7634ff61641f7769d77cc6ef71d998538289bf1ea8cd7b776c901eb8e40860e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c01eaff15b493049d115f396f2eab2a8505f6558960860ef8aca90b688172acc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
-- Energia Elétrica
-- Unesco
-- Política Energética
-- Apoio ao Investimento
-- Projeto de Investimento
-- Energia
-- Produção de Energia Elétrica
 - Açores
+- Apoio ao Investimento
+- Energia
+- Energia Elétrica
+- Energia não Poluente
+- Política Energética
+- Produção de Energia Elétrica
+- Projeto de Investimento
 - Subsídio não Reembolsável
+- Unesco
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/2006/07/31/a/dre
@@ -97,16 +97,32 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:178506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609618:por
+  label: null
+  source: null
 article_structure:
-  article_count: 32
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:25Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +155,9 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 8.º, 9.º, 10.º, 12.º e 13.º do [Decreto 
 
 O presente diploma estabelece o sistema de incentivos à produção e armazenamento de energia a partir de fontes renováveis da Região Autónoma dos Açores, designado por PROENERGIA.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]:
 
@@ -165,7 +183,9 @@ a) Micro, pequenas e médias empresas, incluindo empresários em nome individual
 
 b) Pessoas singulares.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]:
 
@@ -197,7 +217,9 @@ c) Ter concluído, há pelo menos um ano, o investimento relativo a projeto ante
 
 6 - No caso de edifícios coletivos habitados, deve haver aprovação da assembleia de condóminos quando a instalação do(s) equipamento(s) seja efetuada em zonas comuns.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]:
 
@@ -215,7 +237,9 @@ f) [...];
 
 g) [...].
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O incentivo a conceder aos investimentos enquadráveis na alínea a) do n.º 1 do artigo 2.º reveste a forma de subsídio não reembolsável, correspondendo a 25 % das despesas elegíveis, até um máximo de (euro) 4.000,00 (quatro mil euros) por fogo ou estabelecimento.
 
@@ -235,7 +259,9 @@ g) [...].
 
 9 - Nos casos em que os investimentos se realizem em zonas sem acesso direto à rede pública de transporte e distribuição de energia elétrica ou em que o custo de interligação seja igual ou superior a (euro) 12.000,00 (doze mil euros), a percentagem mencionada nos n.os 1 a 3 é de 50 %, mantendo-se o limite máximo do incentivo ali fixado.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -245,7 +271,9 @@ g) [...].
 
 4 - [...].
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 [...]:
 
@@ -271,7 +299,9 @@ j) [...];
 
 k) Promover a realização de auditorias e a inspeção de equipamentos e das instalações, sempre que se verifique necessário ou útil.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -281,7 +311,9 @@ k) Promover a realização de auditorias e a inspeção de equipamentos e das in
 
 4 - O não pagamento por razões imputáveis à entidade beneficiária, no prazo de vinte dias úteis contados da data da notificação, determina a caducidade da decisão de concessão do incentivo.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - [...]:
 
@@ -307,7 +339,9 @@ Documentos comprovativos
 
 Os documentos comprovativos para acesso ao presente sistema de incentivos serão fixados por portaria do membro do Governo Regional com competência em matéria da energia.
 
-###### Artigo 13.º-A — Incumprimento das obrigações por parte dos promotores
+Artigo 13.º-A
+
+Incumprimento das obrigações por parte dos promotores
 
 1 - Em caso de incumprimento das obrigações previstas no presente diploma ou caso tenham sido prestadas informações falsas ou viciados dados constantes da candidatura, há lugar à restituição do incentivo concedido e o promotor fica impedido de apresentar novas candidaturas pelo período de três anos após a conclusão do projeto.
 
@@ -327,11 +361,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 8 de maio de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 3 de junho de 2019.**
+Assinado em Angra do Heroísmo em 3 de junho de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -578,3 +612,5 @@ d) Publicitar os apoios recebidos nos termos regulamentares.
 ###### Artigo 16.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+112352802

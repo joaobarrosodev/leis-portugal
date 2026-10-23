@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2011/04/07000/0213002135.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/7/2011/04/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2011-276829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ed2c9bf2d10147092f6546fbf25ead484ffa31cfc99638cb7bdafe323efa72de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7266afd0baad00abd1a8c38ba441644a80e9814780d34a1acb73919640e24b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
+- Centro de Gestão Financeira da Segurança Social
 - Estatuto
 - Instituto de Gestão Financeira da Segurança Social nos Açores
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Quadro de Pessoal
-- Centro de Gestão Financeira da Segurança Social
 - Segurança Social
-- Açores
 - Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:571043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Determinada a transição, para a dependência do Secretário Regional da Solidariedade Social, do Instituto de Gestão\
+    \ Financeira da Segurança Social dos Açores, anteriormente sob tutela do Secretario Regional do Trabalho e Solidariedade\
+    \ Social pelo DRR.24/2012/A.27.11.2012.PG-RAA, DR.IS [229] de 27.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/17/2009/10/14/a/dre
   label: null
@@ -112,16 +119,62 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2000/02/09/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2000/02/09/a/dre
+- type: cites
+  target: pt:dre:168041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557658:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571043:por
+  label: "Revogado pelo DRR.2/2014/A.24.01.2014.PG-RAA, DR.IS [17] de 24.01.2014, nos termos do disposto no n.º 1 do seu art.\
+    \ 4.º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2014-571043
+  date: '2014-01-24'
 article_structure:
   article_count: 21
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:57Z'
   warnings: []
   errors: []
 ---
@@ -156,11 +209,11 @@ As referências, em lei ou regulamento, ao Centro de Gestão Financeira da Segur
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 14 de Fevereiro de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Março de 2011.**
+Assinado em Angra do Heroísmo em 25 de Março de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -284,9 +337,13 @@ j) Exercer as demais competências previstas na lei, designadamente no regime ju
 
 #### SECÇÃO II — Serviços
 
-##### SUBSECÇÃO I — Divisão de Gestão Financeira, Orçamento e Conta
+##### SUBSECÇÃO I
 
-###### Artigo 9.º — Divisão de Gestão Financeira, Orçamento e Conta
+##### Divisão de Gestão Financeira, Orçamento e Conta
+
+###### Artigo 9.º
+
+##### Divisão de Gestão Financeira, Orçamento e Conta
 
 1 - À Divisão de Gestão Financeira, Orçamento e Conta compete, em geral, a administração financeira e orçamental dos recursos financeiros do sistema de segurança social, de forma unificada e optimizada, assegurando a arrecadação das contribuições e dos demais recursos financeiros e o abastecimento financeiro das instituições e serviços do sistema, designadamente:
 
@@ -398,9 +455,13 @@ b) O Núcleo de Orçamento e Conta para o desempenho das competências previstas
 
 6 - O Núcleo de Controlo Financeiro e Acordos e o Núcleo de Orçamento e Conta são coordenados por funcionários designados para o efeito através de deliberação do conselho directivo do IGFSSA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, alterado pelos Decretos Legislativos Regionais n.os [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), de 6 de Janeiro, [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), de 31 de Março, e [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435), de 14 de Outubro, ou por funcionários com a categoria de coordenador técnico da carreira geral de assistente técnico.
 
-##### SUBSECÇÃO II — Divisão de Património, Serviços de Suporte e Processo Executivo
+##### SUBSECÇÃO II
 
-###### Artigo 10.º — Divisão de Património, Serviços de Suporte e Processo Executivo
+##### Divisão de Património, Serviços de Suporte e Processo Executivo
+
+###### Artigo 10.º
+
+##### Divisão de Património, Serviços de Suporte e Processo Executivo
 
 1 - À Divisão de Património, Serviços de Suporte e Processo Executivo compete, em geral, zelar pela administração e conservação do património do IGFSSA, IPRA, tendo em vista a sua rentabilização e operacionalidade das infra-estruturas, assegurar os respectivos serviços de suporte e assegurar a regularização das dívidas à segurança social, designadamente:
 
@@ -628,4 +689,4 @@ O pessoal dirigente, os cargos de direcção específica e de coordenação e os
 
 ## ANEXO II — Quadro de pessoal dirigente e de chefia do Instituto de Gestão Financeira da Segurança Social nos Açores, IPRA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/04/07000/0213002135.pdf))](https://files.diariodarepublica.pt/1s/2011/04/07000/0213002135.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/04/07000/0213002135.pdf)

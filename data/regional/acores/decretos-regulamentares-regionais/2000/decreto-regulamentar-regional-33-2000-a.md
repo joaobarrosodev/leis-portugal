@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/33/2000/11/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2000-613426
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 160f850fecbc28a181004befc74d2a52fa729f50838ae1c2ef24eb6b5c92fc3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa5a6baa581a62beeaf3935d718d9af36c177fd6fbdef9bda613531803b0e1bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Secretário Regional da Presidência para as Finanças e Planeamento
+- Açores
 - Competência Própria
-- Governo Regional
 - Definição de Competências
-- Presidente do Governo Regional
+- Governo Regional
 - Orgânica
+- Presidente do Governo Regional
+- Região Autónoma
 - Secretário Regional Adjunto da Presidência
 - Secretário Regional da Agricultura e Pescas
 - Secretário Regional da Economia
 - Secretário Regional da Educação e Cultura
 - Secretário Regional da Habitação e Equipamentos
+- Secretário Regional da Presidência para as Finanças e Planeamento
 - Secretário Regional do Ambiente
 - Secretário Regional dos Assuntos Sociais
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:233763:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:604213:por
+  label: "Alterado o art. 15º pelo DRR.15/2001/A.2001.10.22.PG-RAA, DR.IS-B, DR.IS-B [264] de 14/Nov/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-2001-604213
+  date: '2001-10-22'
+- type: amended_by
+  target: pt:dre:437619:por
+  label: "Alterado o art. 15º, com a redacção do DR 15/2001/A de 14-Nov, pelo DRR.33/2002/A.2002.11.12.PG-RAA DR.IS-B [281]\
+    \ de 05/Dez/2002\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-2002-437619
+  date: '2002-11-12'
+- type: amended_by
+  target: pt:dre:233763:por
+  label: "Substituída a estrutura orgânica constante do presente diploma, bem como as respectivas alterações, pelo DRR.38-A/2004/A.06.12.2004.PG-RAA,\
+    \ DR.IS-B [289-Supl] de 11.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/38-a-2004-233763
+  date: '2004-12-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/29-a/1996/12/03/a/dre
   label: null
@@ -93,16 +110,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/2-a/2000/01/25/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/2-a/2000/01/25/a/dre
+- type: cites
+  target: pt:dre:219718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524634:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:19Z'
   warnings: []
   errors: []
 ---
@@ -215,7 +240,7 @@ h) Comunicação social.
 
 ###### Artigo 6.º — Substituição do Presidente do Governo Regional
 
-**O Presidente do Governo Regional, salvo sua indicação em contrário, será substituído, nas suas ausências e impedimentos, pelo Secretário Regional da Presidência para as Finanças e Planeamento ou pelo secretário regional que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º do presente diploma.**
+O Presidente do Governo Regional, salvo sua indicação em contrário, será substituído, nas suas ausências e impedimentos, pelo Secretário Regional da Presidência para as Finanças e Planeamento ou pelo secretário regional que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º do presente diploma.
 
 ###### Artigo 7.º — Competência dos secretários regionais
 
@@ -237,7 +262,7 @@ d) Privatizações.
 
 ###### Artigo 9.º — Competência do Secretário Regional da Educação e Cultura
 
-**O Secretário Regional da Educação e Cultura exerce a sua competência nas seguintes matérias:**
+O Secretário Regional da Educação e Cultura exerce a sua competência nas seguintes matérias:
 
 a) Educação;
 
@@ -255,7 +280,7 @@ g) Formação profissional.
 
 ###### Artigo 10.º — Competência do Secretário Regional da Habitação e Equipamentos
 
-**O Secretário Regional da Habitação e Equipamentos exerce a sua competência nas seguintes matérias:**
+O Secretário Regional da Habitação e Equipamentos exerce a sua competência nas seguintes matérias:
 
 a) Habitação;
 
@@ -269,7 +294,7 @@ e) Inspecção Regional de Bombeiros.
 
 ###### Artigo 11.º — Competência do Secretário Regional dos Assuntos Sociais
 
-**O Secretário Regional dos Assuntos Sociais exerce a sua competência nas seguintes matérias:**
+O Secretário Regional dos Assuntos Sociais exerce a sua competência nas seguintes matérias:
 
 a) Saúde;
 
@@ -281,7 +306,7 @@ d) Luta contra as dependências.
 
 ###### Artigo 12.º — Competência do Secretário Regional da Economia
 
-**O Secretário Regional da Economia exerce a sua competência nas seguintes matérias:**
+O Secretário Regional da Economia exerce a sua competência nas seguintes matérias:
 
 a) Comércio;
 
@@ -299,7 +324,7 @@ g) Defesa do consumidor.
 
 ###### Artigo 13.º — Competência do Secretário Regional da Agricultura e Pescas
 
-**O Secretário Regional da Agricultura e Pescas exerce a sua competência nas seguintes matérias:**
+O Secretário Regional da Agricultura e Pescas exerce a sua competência nas seguintes matérias:
 
 a) Agricultura, silvicultura, pecuária e pescas, incluindo os respectivos sectores de transformação e comercialização;
 
@@ -309,7 +334,7 @@ c) Desenvolvimento rural.
 
 ###### Artigo 14.º — Competência do Secretário Regional do Ambiente
 
-**O Secretário Regional do Ambiente exerce a sua competência nas seguintes matérias:**
+O Secretário Regional do Ambiente exerce a sua competência nas seguintes matérias:
 
 a) Gestão dos recursos hídricos, faunísticos e reservas naturais;
 
@@ -397,10 +422,10 @@ O presente diploma entra em vigor na data da posse do VIII Governo Regional dos 
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 20 de Outubro de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Outubro de 2000.**
+Assinado em Angra do Heroísmo em 25 de Outubro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/15/2003/11/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/15-2003-437213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e026c3378c7b8b4f7a476f5a29299cf823bdce3f4f99c2a56afecfbbbe10c34f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d74da14032bfaefd2213a3ad9242a73e51ce60a90f7fb4b867d76721ff321f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,28 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa Regional
 - Regimento
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:397361:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397361:por
+  label: "Alterados os arts. 35º e 45º do Regimento pela RES.3/2009/A.14.01.2009.AL-RAA, DR.IS [9] de 14.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regiao-autonoma-acores/3-2009-397361
+  date: '2009-01-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/resolalr/24-a/1998/11/04/a/dre
   label: null
   source: http://data.dre.pt/eli/resolalr/24-a/1998/11/04/a/dre
+- type: cites
+  target: pt:dre:347278:por
+  label: null
+  source: null
 article_structure:
   article_count: 206
   section_count: 62
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:50Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +116,7 @@ A Assembleia Legislativa Regional resolve, nos termos do n.º 3 do artigo 232.º
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Outubro de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
 ## ANEXO — Regimento da Assembleia Legislativa Regional dos Açores
 
@@ -341,7 +350,7 @@ l) Ser informado, regular e directamente, pelo Governo Regional, sobre o andamen
 
 ###### Artigo 21.º — Representação
 
-**O presidente, nas funções de representação da Assembleia, poderá fazer-se representar por um dos vice-presidentes, devendo, sempre que possível, respeitar o princípio da rotatividade.**
+O presidente, nas funções de representação da Assembleia, poderá fazer-se representar por um dos vice-presidentes, devendo, sempre que possível, respeitar o princípio da rotatividade.
 
 ##### DIVISÃO II — Competência
 
@@ -2011,7 +2020,7 @@ b) Do relatório da comissão conste parecer favorável à sua apreciação em P
 
 ###### Artigo 193.º — Comunicação aos signatários
 
-**O Presidente da Assembleia envia ao autor ou ao primeiro signatário da petição o relatório da comissão, dando-lhe conhecimento das diligências subsequentes que eventualmente tenham sido adoptadas.**
+O Presidente da Assembleia envia ao autor ou ao primeiro signatário da petição o relatório da comissão, dando-lhe conhecimento das diligências subsequentes que eventualmente tenham sido adoptadas.
 
 ### CAPÍTULO VIII — Parecer sobre consulta dos órgãos de soberania
 

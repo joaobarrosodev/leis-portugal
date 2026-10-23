@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03600/0006500104.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2025/02/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2025-908074088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a31247f5256eab00abed1d477eb7d420cbbb1efcaef962c546af858737661840
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05bb73b8e65ccd4ba863b52b981fb6a283df7e7769998e28beceb7529c671453
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - ILHA de são Miguel
 - Ordenamento do Território
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
 - Regulamento
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/30/2019/11/28/a/dre
@@ -88,16 +88,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/6/2005/02/17/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/6/2005/02/17/a/dre
+- type: cites
+  target: pt:dre:126669989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628548:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:6/2005/A
+  label: Revoga, a partir de 21 de fevereiro de 2025, o Decreto Regulamentar Regional n.º 6/2005/A, de 17 de fevereiro, Diário
+    da República n.º 34/2005, Série I-B
+  source: null
+  date: '2005-02-17'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:29/2007/A
+  label: Revoga, a partir de 21 de fevereiro de 2025, o Decreto Regulamentar Regional n.º 29/2007/A, de 5 de dezembro, Diário
+    da República n.º 234/2007, Série I
+  source: null
+  date: '2007-12-05'
 article_structure:
   article_count: 55
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:14Z'
   warnings: []
   errors: []
 ---
@@ -156,11 +184,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 23 de janeiro de 2025.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 14 de fevereiro de 2025.**
+Assinado em Angra do Heroísmo em 14 de fevereiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -168,7 +196,7 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 Regulamento do Plano de Ordenamento da Orla Costeira da Ilha de São Miguel
 
-## TÍTULO I
+TÍTULO I
 
 DISPOSIÇÕES GERAIS
 
@@ -260,7 +288,7 @@ f) Atualização dos estudos de caracterização da área de intervenção, cont
 
 Para efeitos da aplicação do presente Regulamento, são consideradas as definições e conceitos já constantes na legislação em vigor.
 
-## TÍTULO II
+TÍTULO II
 
 SERVIDÕES ADMINISTRATIVAS E RESTRIÇÕES DE UTILIDADE PÚBLICA
 
@@ -268,7 +296,7 @@ SERVIDÕES ADMINISTRATIVAS E RESTRIÇÕES DE UTILIDADE PÚBLICA
 
 1 - Na área de intervenção do POOC aplicam-se as servidões administrativas e restrições de utilidade pública constantes da legislação em vigor, nomeadamente as enquadradas nas seguintes categorias:
 
-a) Património natural, nomeadamente recursos hídricos, recursos geológicos e áreas de reserva de proteção dos solos e da biodiversidade, que integram, respetivamente, as áreas referidas nos n.<sup>os</sup>2, 3, e 4;
+a) Património natural, nomeadamente recursos hídricos, recursos geológicos e áreas de reserva de proteção dos solos e da biodiversidade, que integram, respetivamente, as áreas referidas nos n.os2, 3, e 4;
 
 b) Património edificado e arqueológico, que integram os imóveis e elementos referidos no n.º 5;
 
@@ -366,7 +394,7 @@ f) Cabos submarinos e respetiva área de proteção.
 
 11 - A delimitação da reserva ecológica, bem como do domínio hídrico, constante da planta de condicionantes do presente plano tem caráter indicativo e está sujeita ao disposto na legislação em vigor sobre a matéria.
 
-## TÍTULO III
+TÍTULO III
 
 REGIMES DE GESTÃO DA ÁREA DE INTERVENÇÃO
 
@@ -584,7 +612,7 @@ a) Acessos pedonais não consolidados, trilhos pedonais interpretativos e zonas 
 
 b) Instalação de equipamentos de apoio à utilização das zonas balneares classificadas, nos termos e condições definidas no presente Regulamento, e demais legislação aplicável em vigor, não se admitindo novas construções nas áreas de aptidão balnear enquanto estas não forem classificadas como zonas balneares, exceto nas situações definidas no n.º 8 do artigo 38.º do presente Regulamento;
 
-c) Novas edificações de suporte a atividades agrícolas com uma área de construção máxima de 30 m<sup>2</sup> e um piso máximo e desde que a parcela esteja totalmente integrada em zona A, sendo esta possibilidade limitada a uma construção por prédio rústico, comprovadamente associado a atividade agrícola, e destinada a agricultores instalados há pelo menos três anos;
+c) Novas edificações de suporte a atividades agrícolas com uma área de construção máxima de 30 m2 e um piso máximo e desde que a parcela esteja totalmente integrada em zona A, sendo esta possibilidade limitada a uma construção por prédio rústico, comprovadamente associado a atividade agrícola, e destinada a agricultores instalados há pelo menos três anos;
 
 d) Não são admitidas ampliações nem alteração de uso das edificações licenciadas ao abrigo da alínea anterior;
 
@@ -592,9 +620,9 @@ e) Nas construções existentes, devidamente legalizadas, e independentemente do
 
 f) As obras de reconstrução e de alteração só são admitidas em preexistências, comprovadamente anteriores à entrada em vigor dos respetivos planos de ordenamento da orla costeira com incidência na ilha de São Miguel, nomeadamente o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Fenais da Luz/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 6/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2005-605339), de 17 de fevereiro, e o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 29/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2007-628548), de 5 de dezembro, ou que tenham sido devidamente licenciadas em datas posteriores à publicação dos referidos planos;
 
-g) As obras de ampliação são permitidas, não podendo corresponder, por prédio, a um aumento de área total de construção superior a 16 m<sup>2</sup> e ao aumento do número de pisos, desde que não tenham sido objeto de ampliação durante o período de vigência dos anteriores Planos de Ordenamento da Orla Costeira, nomeadamente o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Fenais da Luz/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 6/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2005-605339), de 17 de fevereiro, e o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 29/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2007-628548), de 5 de dezembro;
+g) As obras de ampliação são permitidas, não podendo corresponder, por prédio, a um aumento de área total de construção superior a 16 m2 e ao aumento do número de pisos, desde que não tenham sido objeto de ampliação durante o período de vigência dos anteriores Planos de Ordenamento da Orla Costeira, nomeadamente o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Fenais da Luz/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 6/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2005-605339), de 17 de fevereiro, e o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 29/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2007-628548), de 5 de dezembro;
 
-h) Excetuam-se da alínea anterior, por prédio, as edificações com áreas inferiores a 36 m<sup>2</sup>, as quais se admitem que possam ser ampliadas até ao limite máximo de 52 m<sup>2</sup>, não podendo corresponder ao aumento do número de pisos;
+h) Excetuam-se da alínea anterior, por prédio, as edificações com áreas inferiores a 36 m2, as quais se admitem que possam ser ampliadas até ao limite máximo de 52 m2, não podendo corresponder ao aumento do número de pisos;
 
 i) Nas edificações já sujeitas a obras de ampliação nos termos das alíneas f) e g) do presente número, não podem ocorrer novas obras de ampliação;
 
@@ -650,7 +678,7 @@ b) A preservação das características das construções existentes, nomeadamen
 
 a) Acessos pedonais não consolidados, trilhos pedonais interpretativos e zonas de estadia não consolidadas, os quais devem ser devidamente sinalizados e complementados com painéis informativos;
 
-b) Novas edificações de suporte a atividades agrícolas com uma área de construção máxima de 30 m<sup>2</sup> e um piso máximo e desde que a área total de cultivo esteja totalmente integrada em zona A, sendo esta possibilidade limitada a uma construção por prédio rústico, comprovadamente associado a atividade agrícola, e destinada a agricultores instalados há pelo menos três anos;
+b) Novas edificações de suporte a atividades agrícolas com uma área de construção máxima de 30 m2 e um piso máximo e desde que a área total de cultivo esteja totalmente integrada em zona A, sendo esta possibilidade limitada a uma construção por prédio rústico, comprovadamente associado a atividade agrícola, e destinada a agricultores instalados há pelo menos três anos;
 
 c) Não são admitidas ampliações nem alteração de uso das edificações licenciadas ao abrigo da alínea anterior;
 
@@ -658,17 +686,17 @@ d) Instalação de equipamentos de apoio à utilização das zonas balneares cla
 
 e) Instalação de equipamentos de apoio à utilização destas áreas, que centralizem e sirvam de suporte a todas as atividades relacionadas, nomeadamente de divulgação e sensibilização aos visitantes, de apoio ao material necessário para a preservação da área e de suporte a outras atividades previstas nos termos do presente Regulamento, que possam coexistir com os objetivos de proteção, dotando a área de infraestruturas mínimas de utilização, nomeadamente instalações sanitárias;
 
-f) Os equipamentos referidos na alínea anterior devem, preferencialmente, resultar da reabilitação de edificado existente, admitindo-se a sua reconstrução, alteração e, ou, ampliação até uma área de construção máxima de 200 m<sup>2</sup> e sem aumento do número de pisos;
+f) Os equipamentos referidos na alínea anterior devem, preferencialmente, resultar da reabilitação de edificado existente, admitindo-se a sua reconstrução, alteração e, ou, ampliação até uma área de construção máxima de 200 m2 e sem aumento do número de pisos;
 
-g) Caso não seja possível a reabilitação ou reconstrução referida na alínea anterior, admite-se a construção de novos equipamentos com uma área de construção máxima de 200 m<sup>2</sup> e um piso;
+g) Caso não seja possível a reabilitação ou reconstrução referida na alínea anterior, admite-se a construção de novos equipamentos com uma área de construção máxima de 200 m2 e um piso;
 
 h) Nas construções existentes devidamente legalizadas, e independentemente do uso associado, são permitidas obras de reconstrução, alteração e ampliação nos termos das alíneas seguintes;
 
 i) As obras de reconstrução e de alteração só são admitidas em preexistências, comprovadamente anteriores à entrada em vigor dos respetivos planos de ordenamento da orla costeira com incidência na ilha de São Miguel, nomeadamente o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Fenais da Luz/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 6/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2005-605339), de 17 de fevereiro, e o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 29/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2007-628548), de 5 de dezembro, ou que tenham sido devidamente licenciadas em datas posteriores à publicação dos referidos planos;
 
-j) As obras de ampliação são permitidas, não podendo corresponder, por prédio, a um aumento de área total de construção superior a 16 m<sup>2</sup> e ao aumento do número de pisos, desde que não tenham sido objeto de ampliação durante o período de vigência dos anteriores Planos de Ordenamento da Orla Costeira, nomeadamente o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Fenais da Luz/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 6/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2005-605339), de 17 de fevereiro, e o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 29/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2007-628548), de 5 de dezembro;
+j) As obras de ampliação são permitidas, não podendo corresponder, por prédio, a um aumento de área total de construção superior a 16 m2 e ao aumento do número de pisos, desde que não tenham sido objeto de ampliação durante o período de vigência dos anteriores Planos de Ordenamento da Orla Costeira, nomeadamente o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Fenais da Luz/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 6/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2005-605339), de 17 de fevereiro, e o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 29/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2007-628548), de 5 de dezembro;
 
-k) Excetuam-se da alínea anterior, por prédio, as edificações com áreas inferiores a 36 m<sup>2</sup>, as quais se admitem que possam ser ampliadas até ao limite máximo de 52 m<sup>2</sup>, não podendo corresponder ao aumento do número de pisos;
+k) Excetuam-se da alínea anterior, por prédio, as edificações com áreas inferiores a 36 m2, as quais se admitem que possam ser ampliadas até ao limite máximo de 52 m2, não podendo corresponder ao aumento do número de pisos;
 
 l) Nas edificações já sujeitas a obras de ampliação nos termos das alíneas j) e k) do presente número não podem ocorrer novas obras de ampliação;
 
@@ -708,9 +736,9 @@ d) Equacionar a relocalização das edificações existentes, bem como definir o
 
 a) São interditas novas obras de construção e de urbanização, exceto nos casos regulamentados no presente artigo, sendo permitidas nas construções existentes devidamente legalizadas e independentemente do uso associado, apenas obras de reconstrução, alteração e ampliação nos termos das alíneas seguintes;
 
-b) As obras de ampliação são permitidas, não podendo corresponder, por prédio, a um aumento de área total de construção superior a 16 m<sup>2</sup> e ao aumento do número de pisos, desde que não tenham sido objeto de ampliação durante o período de vigência dos anteriores Planos de Ordenamento da Orla Costeira, nomeadamente o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Fenais da Luz/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 6/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2005-605339), de 17 de fevereiro, e o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 29/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2007-628548), de 5 de dezembro;
+b) As obras de ampliação são permitidas, não podendo corresponder, por prédio, a um aumento de área total de construção superior a 16 m2 e ao aumento do número de pisos, desde que não tenham sido objeto de ampliação durante o período de vigência dos anteriores Planos de Ordenamento da Orla Costeira, nomeadamente o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Fenais da Luz/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 6/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2005-605339), de 17 de fevereiro, e o Plano de Ordenamento da Orla Costeira, Troço Feteiras/Lomba de São Pedro, publicado pelo [Decreto Regulamentar Regional n.º 29/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2007-628548), de 5 de dezembro;
 
-c) Excetuam-se da alínea anterior, por prédio, as edificações com áreas inferiores a 36 m<sup>2</sup>, as quais se admitem que possam ser ampliadas até ao limite máximo de 52 m<sup>2</sup>, bem como as situações que resultem da aplicação de regulamentação específica associada a atividades económicas, desde que devidamente justificado, não podendo corresponder ao aumento do número de pisos;
+c) Excetuam-se da alínea anterior, por prédio, as edificações com áreas inferiores a 36 m2, as quais se admitem que possam ser ampliadas até ao limite máximo de 52 m2, bem como as situações que resultem da aplicação de regulamentação específica associada a atividades económicas, desde que devidamente justificado, não podendo corresponder ao aumento do número de pisos;
 
 d) Nas edificações já sujeitas a obras de ampliação nos termos das alíneas b) e c) do presente número não poderão ocorrer novas obras de ampliação;
 
@@ -726,9 +754,9 @@ f) As obras de reconstrução e alteração só são admitidas em preexistência
 
 5 - Excecionalmente, e enquanto não existir a cartografia de pormenor de riscos naturais e o plano territorial referidos nos números anteriores, admitem-se novas construções e novas obras de urbanização, bem como ampliações superiores às definidas nas alíneas b) e c) do n.º 1, desde que as mesmas cumpram o disposto no n.º 4 do artigo 40.º e demonstrem que a exposição ao risco ou vulnerabilidade ou suscetibilidade não é elevada.
 
-6 - São exceção aos n.<sup>os</sup>1, 2, 3 e 4 as áreas delimitadas na planta de síntese com suscetibilidade elevada a desgaseificação difusa para as quais as novas construções, reconstruções, alterações e obras de ampliação só são admitidas nos seguintes termos:
+6 - São exceção aos n.os1, 2, 3 e 4 as áreas delimitadas na planta de síntese com suscetibilidade elevada a desgaseificação difusa para as quais as novas construções, reconstruções, alterações e obras de ampliação só são admitidas nos seguintes termos:
 
-a) A construção de novos edifícios, a reconstrução, a alteração ou a ampliação só é permitida desde que sejam adotados sistemas construtivos que mitiguem a probabilidade de ocorrência de valores de CO<sub>2</sub> no interior das edificações prejudiciais para a saúde humana, tais como caixa de ar, arejamento ou telas impermeabilizantes entre outras técnicas devidamente justificadas;
+a) A construção de novos edifícios, a reconstrução, a alteração ou a ampliação só é permitida desde que sejam adotados sistemas construtivos que mitiguem a probabilidade de ocorrência de valores de CO2 no interior das edificações prejudiciais para a saúde humana, tais como caixa de ar, arejamento ou telas impermeabilizantes entre outras técnicas devidamente justificadas;
 
 b) É interdita a construção de novas caves independente do uso associado;
 
@@ -880,9 +908,9 @@ b) Cércea máxima: 4,5 m;
 
 c) Pé-direito livre máximo: 3,5 m;
 
-d) Área de construção máxima para comércio não alimentar e venda de alimentos, bebidas e pré-confecionados: 20 m<sup>2</sup>;
+d) Área de construção máxima para comércio não alimentar e venda de alimentos, bebidas e pré-confecionados: 20 m2;
 
-e) Área de construção máxima para estabelecimentos de restauração e de bebidas: 200 m<sup>2</sup>.
+e) Área de construção máxima para estabelecimentos de restauração e de bebidas: 200 m2.
 
 5 - Excetuam-se dos números anteriores as instalações existentes à data de aprovação da alteração do POOC, suscetíveis de renovação de licença, nos termos do regulamento e da legislação em vigor sobre a matéria, admitindo-se a ampliação da área de construção para cumprimento dos serviços de utilidade pública, de acordo com os critérios de dimensionamento previstos no número anterior.
 
@@ -966,7 +994,7 @@ m) Promover a existência de vegetação de porte médio junto à crista de talu
 
 Sem prejuízo das disposições gerais instituídas no presente Regulamento, as áreas agrícolas, florestais e outros usos regem-se pelo disposto nos respetivos planos territoriais.
 
-## TÍTULO IV
+TÍTULO IV
 
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
@@ -1004,7 +1032,7 @@ DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 2 - Face a novas condições e contextos que possam surgir relativamente à exposição ao risco, admite-se a atualização e substituição da cartografia de pormenor de risco, desde que aprovada pelas entidades com competências em matéria de ordenamento do território, de recursos hídricos e de riscos naturais.
 
-3 - Com a publicação da cartografia de pormenor de riscos naturais, referida nos n.<sup>os</sup>1 e 2, será republicada, através dos procedimentos previstos na legislação em vigor, a planta de síntese do POOC, à qual se aplicarão os regimes de gestão definidos no presente Regulamento.
+3 - Com a publicação da cartografia de pormenor de riscos naturais, referida nos n.os1 e 2, será republicada, através dos procedimentos previstos na legislação em vigor, a planta de síntese do POOC, à qual se aplicarão os regimes de gestão definidos no presente Regulamento.
 
 4 - Até ao desenvolvimento da cartografia definida nos números anteriores, para os riscos de movimentos de vertente e de desgaseificação difusa, e até à realização do plano territorial definido no n.º 3 do artigo 19.º, deve ser exigido, no âmbito das novas obras de construção e urbanização e de ampliação, no caso desta se enquadrar nos termos do n.º 5 do artigo 19.º, um estudo que identifique e avalie a exposição do projeto ao risco conforme determinado nas alíneas seguintes:
 
@@ -1084,10 +1112,10 @@ São nulos os atos administrativos praticados em violação das normas, dos prin
 
 Tipologias propostas para a classificação da zona balnear de acordo com o RJGZB
 
-| Área de aptidão balnear | Tipo 4 | Tipo 3 | Tipo 2 | Tipo 1 |
+| Área de aptidão balnear | Zona balnear: tipologias propostas |  |  |  |
 | --- | --- | --- | --- | --- |
-| Área de aptidão balnear | Zona balnear: tipologias propostas | Zona balnear: tipologias propostas | Zona balnear: tipologias propostas | Zona balnear: tipologias propostas |
-| Lagoa: | Lagoa: | Lagoa: | Lagoa: | Lagoa: |
+| Tipo 4 | Tipo 3 | Tipo 2 | Tipo 1 |  |
+| Lagoa: |  |  |  |  |
 | Poças da Ribeira Chã | x | x |  |  |
 | Porto da Caloura | x | x |  |  |
 | Poças da Caloura | x | x |  |  |
@@ -1098,7 +1126,7 @@ Tipologias propostas para a classificação da zona balnear de acordo com o RJGZ
 | Portinho de São Pedro | x | x |  |  |
 | Calhau da Soares | x | x |  |  |
 | Zona Balnear do Cruzeiro/Talhada | x | x |  |  |
-| Nordeste: | Nordeste: | Nordeste: | Nordeste: | Nordeste: |
+| Nordeste: |  |  |  |  |
 | Foz da Ribeira das Coelhas | x | x |  |  |
 | Moinhos das Relvas | x | x |  |  |
 | Lenho da Achada/Achadinha | x | x |  |  |
@@ -1106,7 +1134,7 @@ Tipologias propostas para a classificação da zona balnear de acordo com o RJGZ
 | Piscinas da Foz da Ribeira do Guilherme | x | x |  |  |
 | Praia do Lombo Gordo | x | x |  |  |
 | Porto do Nordeste | x | x |  |  |
-| Ponta Delgada: | Ponta Delgada: | Ponta Delgada: | Ponta Delgada: | Ponta Delgada: |
+| Ponta Delgada: |  |  |  |  |
 | Praia do Pópulo | x | x | x | x |
 | Praia das Milícias | x | x | x | x |
 | Praia de São Roque | x | x |  |  |
@@ -1124,7 +1152,7 @@ Tipologias propostas para a classificação da zona balnear de acordo com o RJGZ
 | Poças de S. Vicente Ferreira | x | x | x | x |
 | Fenais da Luz/Caminho de S. Pedro | x | x |  |  |
 | Canada da Terça | x | x |  |  |
-| Povoação: | Povoação: | Povoação: | Povoação: | Povoação: |
+| Povoação: |  |  |  |  |
 | Fajã do Calhau | x | x |  |  |
 | Portinho do Faial da Terra | x | x |  |  |
 | Costa da Povoação | x | x |  |  |
@@ -1132,7 +1160,7 @@ Tipologias propostas para a classificação da zona balnear de acordo com o RJGZ
 | Praia da Ribeira dos Pelames | x | x |  |  |
 | Praia da Ribeira | x | x |  |  |
 | Praia do Fogo | x | x | x |  |
-| Ribeira Grande: | Ribeira Grande: | Ribeira Grande: | Ribeira Grande: | Ribeira Grande: |
+| Ribeira Grande: |  |  |  |  |
 | Calhetas | x | x |  |  |
 | Portinho das Calhetas | x | x |  |  |
 | Praia de Santana | x | x |  |  |
@@ -1152,7 +1180,7 @@ Tipologias propostas para a classificação da zona balnear de acordo com o RJGZ
 | Calhetas dos Fenais da Ajuda | x | x |  |  |
 | Fenais da Ajuda | x | x |  |  |
 | Calhau da Lomba de São Pedro | x | x |  |  |
-| Vila Franca do Campo: | Vila Franca do Campo: | Vila Franca do Campo: | Vila Franca do Campo: | Vila Franca do Campo: |
+| Vila Franca do Campo: |  |  |  |  |
 | Praia da Ribeira das Amoras e das Areias | x | x |  |  |
 | Praia da Amora | x | x |  |  |
 | Praia do Calhau da Areia | x | x |  |  |
@@ -1172,46 +1200,64 @@ Constituição e dimensionamento dos apoios de zona balnear
 
 | Tipo de apoio balnear | Funções e serviços de utilidade pública obrigatórios | Dimensionamento(valores máximos) |
 | --- | --- | --- |
-| AS - apoio balnear simples | Instalações sanitárias (com acesso exterior independente)Posto de socorroComunicações de emergênciaInformaçãoVigilância e assistência a banhistasLimpeza da zona balnear e recolha de resíduosEventualmente outras funções e serviços, tais como de armazenamento de material de apoio ao funcionamento da zona balnear (facultativo), entre outros. | Área de construção ≤ 50 m<sup>2</sup> |
-| AC - apoio balnear completo | Vestiários e balneáriosInstalações sanitárias (com acesso exterior independente)Posto de socorroComunicações de emergênciaInformaçãoVigilância, assistência e salvamento de banhistasLimpeza da zona balnear e recolha de resíduosEventualmente outras funções e serviços, tais como de armazenamento de material de apoio ao funcionamento da zona balnear (facultativo), entre outros | Área de construção ≤ 100 m<sup>2</sup> |
-| AB - apoio balnear | Tem por objetivo complementar os apoios de zona balnear ou os equipamentos com função de apoio de zona balnear correspondendo a uma estrutura amovível para arrecadação de material de apoio à zona balnear | Área de construção para arrecadação de material ≤ 12 m<sup>2</sup> |
+| AS - apoio balnear simples | Instalações sanitárias (com acesso exterior independente)Posto de socorroComunicações de emergênciaInformaçãoVigilância e assistência a banhistasLimpeza da zona balnear e recolha de resíduosEventualmente outras funções e serviços, tais como de armazenamento de material de apoio ao funcionamento da zona balnear (facultativo), entre outros. | Área de construção ≤ 50 m2 |
+| AC - apoio balnear completo | Vestiários e balneáriosInstalações sanitárias (com acesso exterior independente)Posto de socorroComunicações de emergênciaInformaçãoVigilância, assistência e salvamento de banhistasLimpeza da zona balnear e recolha de resíduosEventualmente outras funções e serviços, tais como de armazenamento de material de apoio ao funcionamento da zona balnear (facultativo), entre outros | Área de construção ≤ 100 m2 |
+| AB - apoio balnear | Tem por objetivo complementar os apoios de zona balnear ou os equipamentos com função de apoio de zona balnear correspondendo a uma estrutura amovível para arrecadação de material de apoio à zona balnear | Área de construção para arrecadação de material ≤ 12 m2 |
 
 ## ANEXO II — (a que se refere o artigo 1.º)
 
 Plantas de síntese
 
-![](https://files.diariodarepublica.pt/images/908074088/908074190.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074190.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074191.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074191.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074192.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074192.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074193.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074193.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074194.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074194.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074195.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074195.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074196.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074196.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074197.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074197.png) |
+| --- |
 
 ## ANEXO III — (a que se refere o artigo 1.º)
 
 Plantas de condicionantes
 
-![](https://files.diariodarepublica.pt/images/908074088/908074198.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074198.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074199.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074199.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074200.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074200.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074201.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074201.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074202.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074202.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074203.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074203.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074204.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074204.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/908074088/908074205.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/908074088/908074205.png) |
+| --- |
+
+118697161

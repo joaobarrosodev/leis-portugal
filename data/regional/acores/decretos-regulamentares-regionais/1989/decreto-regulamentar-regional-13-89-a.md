@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/04/08500/15611567.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1989-615581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a346218bb4fde85db754ccee6ed00abf5c8f7659874d3e871c57202854ceb722
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f837f6851b1dfb04a3e8691bc637fdd2b6e3e0c3f7bc48156f678d80d8ccdc4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Arquitectura
+- Conselho Geral
+- Crime
+- Definição de Competências
+- Fiscalização
+- ILHA de são Miguel
+- Ordenamento do Território
+- Proteção do Ambiente
+- Publicidade
+- Regulamento
+- Regulamento Geral da Paisagem Protegida das SETE Cidades
+- SETE Cidades
+- Urbanismo
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:603269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:692984:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:603269:por
+  label: "Revogado pelo DRR.3/2005/A.24.01.2005.PG-RAA, DR.IS-B [33] de 16.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2005-603269
+  date: '2005-01-24'
 article_structure:
-  article_count: 34
+  article_count: 33
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:22Z'
   warnings: []
   errors: []
 ---
@@ -95,23 +119,23 @@ Para servir de orientação nesta matéria foi elaborado o Plano de Ordenamento 
 
 Assim, em execução do disposto no artigo 10.º do [Decreto Regional n.º 2/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/2-1980-692984), de 7 de Fevereiro, o Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento Geral da Paisagem Protegida das Sete Cidades, anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º É aprovado o Regulamento Geral da Paisagem Protegida das Sete Cidades, anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 2.º É igualmente aprovado o Plano de Ordenamento da Paisagem Protegida das Sete Cidades - 1.ª fase, que constitui o instrumento de orientação das actividades a desenvolver nas áreas por ela abrangidas, até serem elaborados e aprovados o plano de ordenamento final e o regulamento geral respectivo, e que, para efeitos de consulta, fica arquivado na Divisão do Ambiente da Secretaria Regional do Equipamento Social.
+Art. 2.º É igualmente aprovado o Plano de Ordenamento da Paisagem Protegida das Sete Cidades - 1.ª fase, que constitui o instrumento de orientação das actividades a desenvolver nas áreas por ela abrangidas, até serem elaborados e aprovados o plano de ordenamento final e o regulamento geral respectivo, e que, para efeitos de consulta, fica arquivado na Divisão do Ambiente da Secretaria Regional do Equipamento Social.
 
-###### Art. 3.º As dúvidas que surgirem na interpretação e aplicação do Regulamento Geral ora aprovado serão resolvidas por despacho do Secretário Regional do Equipamento Social.
+Art. 3.º As dúvidas que surgirem na interpretação e aplicação do Regulamento Geral ora aprovado serão resolvidas por despacho do Secretário Regional do Equipamento Social.
 
-###### Art. 4.º O Regulamento Geral e o Plano de Ordenamento aprovados pelo presente diploma entram em vigor na data da sua publicação.
+Art. 4.º O Regulamento Geral e o Plano de Ordenamento aprovados pelo presente diploma entram em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Velas, São Jorge, em 21 de Setembro de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 27 de Fevereiro de 1989.**
+Assinado em Angra do Heroísmo em 27 de Fevereiro de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 PAISAGEM PROTEGIDA DAS SETE CIDADES
 
@@ -621,4 +645,4 @@ Para a execução das actividades da competência da administração da Paisagem
 
 CARTA MILITAR DE PORTUGAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/04/08500/15611567.pdf))](https://files.diariodarepublica.pt/1s/1989/04/08500/15611567.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/04/08500/15611567.pdf)

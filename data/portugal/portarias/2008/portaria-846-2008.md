@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/846/2008/08/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/846-2008-455670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ddf5f39b0535090959857fb2034c529e519084c7f6a247273555d8de161e4cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4045b26199b02fc4263c4aac50166e230f8010e7f29d35a83dee8848783d38aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Programa de Desenvolvimento Rural
-- Financiamento
-- Empresa
-- Regime Florestal
-- Direcção Regional de Agricultura e Pescas
 - Apoio ao Investimento
-- Projeto de Investimento
-- IFAP
+- Direcção Regional de Agricultura e Pescas
+- Empresa
 - Exploração Florestal
-- Recursos Naturais
+- Financiamento
+- IFAP
 - Microempresa
 - Pequenas e Médias Empresas
+- Proder
+- Programa de Desenvolvimento Rural
+- Projeto de Investimento
+- Recursos Naturais
+- Regime Florestal
 - Regulamento
 - Sector Florestal
 relationships:
@@ -87,6 +87,29 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:144021:por
+  label: "Alterados o art. 6º, nº 4 do art. 7º, nº 1 do art. 12º, nº 1 do art. 14º, nºs 2, 4 e 5 do art. 15º, nºs 1, 3 e 4\
+    \ do art. 19º, nºs 2, 3 e 5 do art. 20º, art. 22º e al. a) do nº 1 e nº 2 do art. 27º do regulamento bem como o nº 23\
+    \ do anexo II e revogado o nº 7 do art. 19º do referido regulamento, pela PORT.667-A/2009.18.06.2009.MADRP, DR.IS [116-Supl]\
+    \ de 18.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/667-a-2009-144021
+  date: '2009-06-18'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 7º (na redaccão da Port 667-A/2009, de 18-Jun), 8º, 10º, 12º (este último na redacção da Port\
+    \ 667-A/2009, de 18-Jun), 13º, 14º (este último na redacção da Port 667-A/2009, de 18-Jun) e 16º e revogadas as als. c)\
+    \ e e) do nº1 do art. 7º, al. b) do nº1 do art. 8º e o art. 27º do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP,\
+    \ DR.IS [167] de 27.08.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 8.º ( na redacção da Port. 814/2010, de 27-Ago), 20.º e 22.º ( ambos na redacção da Port. 667-A/2009,\
+    \ de 18-Jun) e 23.º, todos do Regulamento de Aplicação da Acção n.º 1.3.3, «Modernização e Capacitação das Empresas Florestais»,\
+    \ aprovado pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
 - type: cites
   target: celex:32005R1698
   label: null
@@ -103,16 +126,29 @@ relationships:
   target: eli:http://data.europa.eu/eli/reco/2003/361/oj
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: corrected_by
+  target: pt:dre:452746:por
+  label: "Rectificada pela DECL-RECT.59/2008.10.10.2008.PCM, DR.IS [197] de 10.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/59-2008-452746
+  date: '2008-10-10'
+- type: repealed_by
+  target: pt:dre:498497:por
+  label: "Revogado, com efeitos a 28.08.2010, o n.º 37 do ponto «componentes um, dois, três e quatro - outros investimentos\
+    \ materiais e imateriais» do capítulo «despesas não elegíveis», do anexo II (retificado pela Decl-Rect 59/2008 de 10-out\
+    \ e alterado pela Port 667-A/2009 de 18-jun) do Regulamento de Aplicação da Ação n.º 1.3.3 «Modernização e Capacitação\
+    \ das Empresas Florestais» pela PORT.253/2013.07.08.2013.MAMAOT, DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 article_structure:
   article_count: 30
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:49Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +195,7 @@ d) Anexo IV, relativo aos limites máximos dos apoios.
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008.
 
 ## ANEXO
 
@@ -475,7 +511,7 @@ b) As respectivas operações não estejam concluídas antes da data da aprovaç
 
 [a que se refere a alínea h) do artigo 4.º]
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15500/0549005497.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15500/0549005497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15500/0549005497.pdf)
 
 ## ANEXO II — Despesas elegíveis e não elegíveis
 
@@ -641,10 +677,10 @@ Outros investimentos materiais e imateriais
 
 (a que se refere o artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15500/0549005497.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15500/0549005497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15500/0549005497.pdf)
 
 ## ANEXO IV — Limites máximos dos apoios por beneficiário
 
 (a que se refere o artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15500/0549005497.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15500/0549005497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15500/0549005497.pdf)

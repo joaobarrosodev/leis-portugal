@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/792/2007/07/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/792-2007-636769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef400e3461f7458ee7c55bc406629a325fb0b947de65d55ea9923039916137b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42ddf5b71bcdbde28544883517c2337db6def463c4b647e71e040f5b12952559
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,14 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direção Geral das Atividades Económicas
-- Material de Ensino
+- Direcção Geral de Inovação e Desenvolvimento Curricular
+- Ensino Básico
 - Manual Escolar
 - Margens de Comercialização
+- Material de Ensino
 - Mercado Interno
-- Direcção Geral de Inovação e Desenvolvimento Curricular
 - Preço
 - Preço Convencional
-- Ensino Básico
 - Venda
 - Venda de Públicações
 relationships:
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/724/1991/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/724/1991/07/24/p/dre
+- type: cites
+  target: pt:dre:466845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662519:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:57Z'
   warnings: []
   errors: []
 ---
@@ -166,4 +186,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 27 de Junho de 2007.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - Pela Ministra da Educação, Jorge Miguel de Melo Viana Pedreira, Secretário de Estado Adjunto e da Educação.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - Pela Ministra da Educação, Jorge Miguel de Melo Viana Pedreira, Secretário de Estado Adjunto e da Educação.

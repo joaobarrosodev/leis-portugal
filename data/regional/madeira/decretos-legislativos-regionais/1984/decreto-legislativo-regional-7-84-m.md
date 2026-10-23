@@ -46,36 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1984-387356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bca2aa9fd3753fd91f623058b1cc4a080b38708f28ae73f97065dff1382f0b98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99ae64a0c8b2df148f833cf9a54e8e97bbb108bb367cfd846c50bfd80f5422fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Classificação de Espectáculos
+- Comissão de Classificação de Espectáculos e Divertimentos Públicos
+- Espetáculos e Divertimentos Públicos
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454039:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:55Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +113,9 @@ Considerando a necessidade de se proceder à criação de uma comissão regional
 
 Nestes termos, a Assembleia Regional decreta, nos termos da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º É criada a Comissão de Classificação de Espectáculos e Divertimentos Públicos, adiante designada por Comissão, na Região Autónoma da Madeira.
+Artigo 1.º É criada a Comissão de Classificação de Espectáculos e Divertimentos Públicos, adiante designada por Comissão, na Região Autónoma da Madeira.
 
-###### Art. 2.º - 1 - A Comissão terá a composição seguinte:
+Art. 2.º - 1 - A Comissão terá a composição seguinte:
 
 a) Presidente - representante da Direcção Regional de Assuntos Culturais;
 
@@ -106,32 +127,32 @@ Representante da Secretaria Regional da Educação.
 
 2 - Os elementos que integrem a Comissão, a cuja composição se refere o n.º 1, terão obrigatoriamente formação numa das seguintes áreas: Pedagogia, Sociologia, Psicologia, Cinema e Teatro.
 
-###### Art. 3.º A Comissão terá apoio administrativo, a fornecer por um funcionário da Inspecção Regional de Espectáculos.
+Art. 3.º A Comissão terá apoio administrativo, a fornecer por um funcionário da Inspecção Regional de Espectáculos.
 
-###### Art. 4.º Compete à Comissão proceder à classificação dos espectáculos, nos termos da legislação em vigor, nomeadamente em matéria de escalões etários, de pornografia e de classificação qualitativa.
+Art. 4.º Compete à Comissão proceder à classificação dos espectáculos, nos termos da legislação em vigor, nomeadamente em matéria de escalões etários, de pornografia e de classificação qualitativa.
 
-###### Art. 5.º O mandato dos membros da Comissão será pelo período de 3 anos, renovável por igual período de tempo ou revogável em qualquer momento, segundo critérios de assiduidade e eficiência, a definir em regulamento interno.
+Art. 5.º O mandato dos membros da Comissão será pelo período de 3 anos, renovável por igual período de tempo ou revogável em qualquer momento, segundo critérios de assiduidade e eficiência, a definir em regulamento interno.
 
-###### Art. 6.º Para o eficaz exercício das suas competências, a Comissão poderá ser dotada de subsídios ou de outras abonações.
+Art. 6.º Para o eficaz exercício das suas competências, a Comissão poderá ser dotada de subsídios ou de outras abonações.
 
-###### Art. 7.º Os membros da Comissão, quando recrutados da função pública, poderão ser dispensados do exercício das funções de origem.
+Art. 7.º Os membros da Comissão, quando recrutados da função pública, poderão ser dispensados do exercício das funções de origem.
 
-###### Art. 8.º Os empresários ou outros responsáveis pela realização de espectáculos de cinema e teatro na Região comunicarão à Comissão os respectivos programas com antecedência útil, constando desta comunicação os conteúdos e fichas de apreciação crítica dos espectáculos.
+Art. 8.º Os empresários ou outros responsáveis pela realização de espectáculos de cinema e teatro na Região comunicarão à Comissão os respectivos programas com antecedência útil, constando desta comunicação os conteúdos e fichas de apreciação crítica dos espectáculos.
 
 § único. As entidades referidas no corpo deste artigo deverão assegurar aos membros da Comissão a assistência a antestreias dos espectáculos.
 
-###### Art. 9.º Os espectáculos já classificados à data da entrada em vigor do presente diploma mantêm a sua classificação, excepto se os interessados pedirem a sua reclassificação.
+Art. 9.º Os espectáculos já classificados à data da entrada em vigor do presente diploma mantêm a sua classificação, excepto se os interessados pedirem a sua reclassificação.
 
-###### Art. 10.º É revogado o [Decreto Regional n.º 1/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1978-447908), de 17 de Janeiro.
+Art. 10.º É revogado o [Decreto Regional n.º 1/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1978-447908), de 17 de Janeiro.
 
-###### Art. 11.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 11.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em sessão plenária em 15 de Maio de 1984.
 
-**O Presidente da Assembleia Regional da Madeira, Emanuel do Nascimento dos Santos Rodrigues.**
+O Presidente da Assembleia Regional da Madeira, Emanuel do Nascimento dos Santos Rodrigues.
 
-**Assinado em 31 de Maio de 1984.**
+Assinado em 31 de Maio de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

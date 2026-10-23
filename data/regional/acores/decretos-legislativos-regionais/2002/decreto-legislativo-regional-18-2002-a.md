@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/18/2002/05/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2002-159690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7386baca15b69d0e6ed89a0c1c1f54debbcf52922931491d53c02d720c2bc80e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c34c7cb9d7200bd58c8484df5dd071815aec5f030712b97b981c4b81beb48e06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Multa
-- Proteção dos Animais
-- Governo Regional
+- Açores
+- Comércio
 - Contra-ordenação
+- Direcção Regional de Desenvolvimento Agrário
 - Direcção Regional do Ambiente
 - Direcção Regional do Ordenamento do Território e dos Recursos Hídricos
 - Direcção Regional dos Recursos Humanos
-- Direcção Regional de Desenvolvimento Agrário
-- Proteção do Ambiente
 - Diversidade Biológica
 - Espécie Protegida
-- Zona de Proteção
+- Governo Regional
+- Multa
+- Proteção do Ambiente
+- Proteção dos Animais
 - Recursos Naturais
-- Açores
-- Comércio
 - Rede Natura 2000
+- Vida Selvagem
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: amended_by
@@ -117,13 +117,13 @@ relationships:
 article_structure:
   article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:35Z'
   warnings: []
   errors: []
 ---
@@ -182,10 +182,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional, na Horta, em 21 de Março de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 11 de Abril de 2002.**
+Assinado em Angra do Heroísmo em 11 de Abril de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da Repúbica para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da Repúbica para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

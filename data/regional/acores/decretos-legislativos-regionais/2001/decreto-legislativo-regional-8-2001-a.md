@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2001/05/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2001-341802
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cdcd74dfdf3a506ebdf021a9d471a1bd5ff360d5fe803363e0045b14356e1a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d75ea9082859517c11ddda8a69d9330b80f7fca9e86e0c34184ca8688fd90712
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,42 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Actualização de Pensões
 - Acumulação de Pensões
+- Administração Pública
+- Administração Regional
 - Alteração Orçamental
+- Apoio ao Investimento
 - Autorização de Despesas
-- Financiamento
 - AVAL do Estado
-- Garantia
-- Política Fiscal
-- Gestão Financeira
+- Benefícios Fiscais
 - Complemento Social de Pensão
 - Dívida Pública
-- Administração Pública
-- Sistema Retributivo
-- Rede de Estradas
 - Execução do Orçamento
-- Apoio ao Investimento
-- Remuneração Acessória
+- Financiamento
+- Funcionário Público
+- Garantia
+- Gestão Financeira
+- Habitação
 - Orçamento Regional
 - Pensionista
+- Pensões
 - Planeamento Regional
+- Política Fiscal
 - Política Salarial
 - Política Social
-- Pensões
 - Prestações da Segurança Social
 - Proteção Social
-- Habitação
-- Benefícios Fiscais
+- Rede de Estradas
+- Remuneração Acessória
 - Segurança Social
-- Funcionário Público
-- Administração Regional
-- Açores
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:629104:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:239238:por
+  label: "Aditado o art. 7.º-A pelo DLR.16-A/2001/A.2001.10.30.ALR-RAA DR.IS-A [253]SUPL DE 31/OUT/2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-a-2001-239238
+  date: '2001-10-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
   label: null
@@ -129,16 +134,53 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/32/1995/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/32/1995/01/13/p/dre
+- type: cites
+  target: pt:dre:146939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660506:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:303252:por
+  label: "Revogado o art. 16º do presente diploma, pelo DLR.8/2002/A.2002.03.12.ALR-RAA, DR.IS-A 84] de 10/04/2002\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2002-303252
+  date: '2002-03-12'
 article_structure:
-  article_count: 28
+  article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:32Z'
   warnings: []
   errors: []
 ---
@@ -287,11 +329,15 @@ Objecto e âmbito
 
 4 - Para efeitos do presente diploma, consideram-se pensionistas os beneficiários que aufiram pensões, isolada ou conjuntamente, dos regimes de segurança social, incluindo os da pensão social e de invalidez, as doenças profissionais, os aposentados da função pública, os pensionistas de sobrevivência e os beneficiários de pensões de outros sistemas de protecção social, incluindo as pensões por acidentes de trabalho.
 
-###### Artigo 2.º — Atribuição
+Artigo 2.º
+
+Atribuição
 
 O complemento de pensão é atribuído mediante requerimento apresentado pelo interessado, sendo pago pelos serviços regionais da segurança social em 14 mensalidades, das quais 2 no mês de Julho e 2 no mês de Dezembro.
 
-###### Artigo 3.º — Montante
+Artigo 3.º
+
+Montante
 
 1 - O complemento mensal de pensão é de 6400$00.
 
@@ -299,11 +345,15 @@ O complemento de pensão é atribuído mediante requerimento apresentado pelo in
 
 3 - Sempre que da atribuição do complemento de pensão resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), devidamente comprovada pelo beneficiário, será garantido sobre o montante ilíquido apurado nos termos do número anterior um acréscimo de complemento de pensão correspondente a 25% do quantitativo referido no n.º 2.
 
-###### Artigo 5.º — Beneficiários
+Artigo 5.º
+
+Beneficiários
 
 São beneficiários do complemento de pensão todos aqueles que se encontrem abrangidos pelo artigo 1.º, cujos montantes globais auferidos se integrem no disposto no n.º 2 do artigo 3.º do presente diploma.
 
-###### Artigo 7.º — Prova de pensão auferida e prova de residência
+Artigo 7.º
+
+Prova de pensão auferida e prova de residência
 
 1 - De Janeiro a Março de cada ano, os beneficiários apresentarão, nos serviços da segurança social, documento que comprove o quantitativo que auferem, referente à pensão ou pensões, que lhes dá o direito ao complemento de pensão, excluindo aquelas que sejam de conhecimento oficioso daquela entidade.
 
@@ -323,11 +373,15 @@ Remuneração complementar
 
 2 - À remuneração complementar é aplicável o regime da remuneração base quanto a férias, faltas e processo de pagamento, sobre ela incidindo os descontos obrigatórios previstos na lei.
 
-###### Artigo 2.º — Beneficiários
+Artigo 2.º
+
+Beneficiários
 
 Beneficiam da remuneração complementar os funcionários, os agentes e os contratados a termo certo da administração pública regional e local que exerçam funções na Região Autónoma dos Açores, cuja remuneração seja igual ou inferior à do índice 380.
 
-###### Artigo 3.º — Montante
+Artigo 3.º
+
+Montante
 
 1 - O montante mensal da remuneração complementar é de 9100$00.
 
@@ -357,7 +411,9 @@ k) 25% para aqueles cuja remuneração esteja compreendida entre os índices 355
 
 3 - Sempre que da aplicação do disposto no número anterior resultar uma mudança da taxa de incidência do imposto sobre o rendimento das pessoas singulares (IRS), será garantido mediante requerimento do interessado e sobre o montante apurado um acréscimo de remuneração complementar correspondente a 25% do quantitativo referido no n.º 2. Os índices referidos no número anterior reportam-se à escala das carreiras do regime geral da função pública.
 
-###### Artigo 4.º — Índices
+Artigo 4.º
+
+Índices
 
 1 - Os índices referidos no número anterior reportam-se à escala das carreiras do regime geral da função pública.
 
@@ -387,59 +443,59 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro 
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 6 de Abril de 2001.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado de Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado de Menezes.
 
-**Assinado em Angra do Heroísmo em 2 de Maio de 2001.**
+Assinado em Angra do Heroísmo em 2 de Maio de 2001.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 MAPA I
 
 Receita da Região Autónoma dos Açores
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
+[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
 
 MAPA II
 
 Despesas por departamentos e por capítulos da Região Autónoma dos Açores
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
+[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
 
 MAPA III
 
 Despesas da Região especificadas segundo a classificação funcional
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
+[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
 
 MAPA IV
 
 Despesas da Região especificadas segundo a classificação económica
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
+[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
 
 MAPA V
 
 Receitas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
+[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
 
 MAPA VI
 
 Despesas globais dos fundos e serviços autónomos segundo a classificação orgânica
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
+[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
 
 MAPA VII
 
 Despesas globais dos fundos e serviços autónomos especificados segundo a classificação funcional
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
+[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
 
 MAPA VIII
 
 Despesas globais dos fundos e serviços autónomos especificados segundo a classificação económica
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
+[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
 
 MAPA IX
 
@@ -447,4 +503,4 @@ Despesas de investimento da administração pública regional
 
 Resumo por departamentos
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)
+[[[[[[[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)](https://files.diariodarepublica.pt/1s/2001/05/117a00/29462973.pdf)

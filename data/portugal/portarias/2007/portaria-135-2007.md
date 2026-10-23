@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/135/2007/01/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/135-2007-522836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9036d41630f118061d1393bbfdf7603e91adfb0bea0b915b11b7a6fb1cd4df13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91adca5dd7675aa3e91c3482297852b5ddf693fbdec723959c69283a3d94c139
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Associação Mutualista
 - Direcção Geral da Segurança Social
-- Fundação
 - Estatuto
+- Fundação
 - Pessoa Coletiva
 - Regulamento
 - Segurança Social
@@ -77,16 +77,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/63/1996/02/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/63/1996/02/28/p/dre
+- type: cites
+  target: pt:dre:332432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621768:por
+  label: null
+  source: null
 article_structure:
   article_count: 42
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:45Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +119,7 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 3.º A presente portaria entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação.
 
-**O Secretário de Estado da Segurança Social, Pedro Manuel Dias de Jesus Marques, em 29 de Dezembro de 2006.**
+O Secretário de Estado da Segurança Social, Pedro Manuel Dias de Jesus Marques, em 29 de Dezembro de 2006.
 
 ## ANEXO — Regulamento de Registo das Associações Mutualistas e das Fundações de Segurança Social Complementar
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/07/166a00/43344343.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2004/07/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2004-527595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d9326c28115db97f6410f26654644915c2a5ff462f87af99aa5837fb8d7dba4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a81fc242957ab158d92c06f869a2c5fcf001a2e6135d278b89e35f2f6258263
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ subjects:
 - Definição de Competências
 - Direcção Regional de Estatística
 - Gestão Administrativa
+- Gestão de Recursos Humanos
 - Integração de Trabalhadores
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
 - Quadro de Pessoal
 - Regime de Pessoal
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:70025060:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:70025060:por
+  label: Cessada, a partir de 18.08.2015, a vigência pelo(a) Decreto Regulamentar Regional n.º 13/2015/M - Diário da República
+    n.º 159/2015, Série I de 2015-08-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2015-70025060
+  date: '2015-08-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/declrectif/15-i/1999/09/30/p/dre
   label: null
@@ -111,16 +117,66 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612591:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247978:por
+  label: "Revogados os quadros de pessoal anexos com a aprovação dos quadros de pessoal previstos nos nºs 1 a 3 do art. 26º\
+    \ da lei orgânica aprovada pelo DRR.2/2008/M.15.02.2008.PG-RAM, DR.IS [33] de 15.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-2008-247978
+  date: '2008-02-15'
 article_structure:
   article_count: 45
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 36
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:22Z'
   warnings: []
   errors: []
 ---
@@ -157,13 +213,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 15 de Junho de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 30 de Junho de 2004.**
+Assinado em 30 de Junho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — Orgânica da Direcção Regional de Estatística
 
@@ -311,7 +367,9 @@ d) Gerir o corpo de agentes de recolha directa de dados através de entrevista.
 
 A DSEDSF compreende a Divisão de Estatísticas Demográficas, Sociais e das Famílias.
 
-##### SUBSECÇÃO I — Divisão de Estatísticas Demográficas, Sociais e das Famílias
+##### SUBSECÇÃO I
+
+##### Divisão de Estatísticas Demográficas, Sociais e das Famílias
 
 ###### Artigo 12.º — Natureza e competências
 
@@ -359,7 +417,9 @@ a) A Divisão de Estatísticas das Empresas, da Indústria e da Construção;
 
 b) A Divisão de Estatísticas Agrícolas, Ambiente e Serviços.
 
-##### SUBSECÇÃO I — Divisão de Estatísticas das Empresas, da Indústria e da Construção
+##### SUBSECÇÃO I
+
+##### Divisão de Estatísticas das Empresas, da Indústria e da Construção
 
 ###### Artigo 16.º — Natureza e competências
 
@@ -369,7 +429,9 @@ a) Realizar as operações estatísticas correntes respeitantes à indústria ex
 
 b) Assegurar a coordenação e gestão das operações estatísticas destinadas ao apuramento dos dados relativos à caracterização da situação económico-financeira.
 
-##### SUBSECÇÃO II — Divisão de Estatísticas Agrícolas, Ambiente e Serviços
+##### SUBSECÇÃO II
+
+##### Divisão de Estatísticas Agrícolas, Ambiente e Serviços
 
 ###### Artigo 17.º — Natureza e competências
 
@@ -411,7 +473,9 @@ b) A Divisão de Geoinformação;
 
 c) A Divisão de Sistemas de Informação e Informática.
 
-##### SUBSECÇÃO I — Divisão de Estudos e Difusão
+##### SUBSECÇÃO I
+
+##### Divisão de Estudos e Difusão
 
 ###### Artigo 21.º — Natureza e competências
 
@@ -435,7 +499,9 @@ g) Organizar e gerir a biblioteca da DRE, bem como assegurar o atendimento dos s
 
 A DED compreende a Secção de Documentação.
 
-##### SUBSECÇÃO I.1 — Secção de Documentação
+##### SUBSECÇÃO I.1
+
+#### Secção de Documentação
 
 ###### Artigo 23.º — Natureza e competências
 
@@ -447,7 +513,9 @@ b) Elaborar e manter actualizado, utilizando meios informáticos, o inventário 
 
 c) Organizar a legislação e mantê-la permanentemente actualizada, viabilizando a sua consulta a todos os serviços da DRE.
 
-##### SUBSECÇÃO II — Divisão de Geoinformação
+##### SUBSECÇÃO II
+
+##### Divisão de Geoinformação
 
 ###### Artigo 24.º — Natureza e competências
 
@@ -461,7 +529,9 @@ c) Conceber sistemas de informação estatística e indicadores com base em unid
 
 d) Apoiar a produção estatística, complementando a sua actividade através do acesso à informação geográfica.
 
-##### SUBSECÇÃO III — Divisão de Sistemas de Informação e Informática
+##### SUBSECÇÃO III
+
+##### Divisão de Sistemas de Informação e Informática
 
 ###### Artigo 25.º — Natureza e competências
 
@@ -487,7 +557,9 @@ i) Manter actualizado o inventário de todos os dispositivos e versões de softw
 
 j) Gerir e manter actualizada a página da DRE na Internet.
 
-#### SECÇÃO VII — Divisão Administrativa e Financeira
+#### SECÇÃO VII
+
+##### Divisão Administrativa e Financeira
 
 ###### Artigo 26.º — Natureza e competências
 
@@ -519,7 +591,9 @@ c) A Secção de Recursos Humanos;
 
 d) A Secção de Expediente e Arquivo.
 
-##### SUBSECÇÃO I — Secção de Contabilidade
+##### SUBSECÇÃO I
+
+#### Secção de Contabilidade
 
 ###### Artigo 28.º — Natureza e competências
 
@@ -537,7 +611,9 @@ e) Assegurar o expediente do contencioso estatístico relativamente às formalid
 
 f) Elaborar e disponibilizar mensalmente indicadores de gestão sobre a área administrativa e financeira.
 
-##### SUBSECÇÃO II — Secção de Vencimentos
+##### SUBSECÇÃO II
+
+#### Secção de Vencimentos
 
 ###### Artigo 29.º — Natureza e competências
 
@@ -553,7 +629,9 @@ d) Preparar a emissão de certidões que sejam solicitadas no âmbito de matéri
 
 e) Prestar informações de cabimento orçamental no âmbito de despesas a efectuar com pessoal.
 
-##### SUBSECÇÃO III — Secção de Recursos Humanos
+##### SUBSECÇÃO III
+
+#### Secção de Recursos Humanos
 
 ###### Artigo 30.º — Natureza e competências
 
@@ -569,7 +647,9 @@ d) Organizar e manter actualizado o ficheiro e o registo biográfico do pessoal;
 
 e) Elaborar mensalmente indicadores de gestão sobre a área dos recursos humanos afectos à DRE.
 
-##### SUBSECÇÃO IV — Secção de Expediente e Arquivo
+##### SUBSECÇÃO IV
+
+#### Secção de Expediente e Arquivo
 
 ###### Artigo 31.º — Natureza e competências
 

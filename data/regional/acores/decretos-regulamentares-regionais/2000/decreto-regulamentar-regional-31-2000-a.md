@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/31/2000/10/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-2000-544821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ed37dbdfd2a8efeb23728f129d90c06a84bb967b5de71e0cd076ba99a2fe28b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73ea17b2d5474a5e4abf6b5f081e24f81f2daff07ba22494668e3c377964270f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
+- Açores
+- Autarquia Local
 - Desenvolvimento Regional
-- Proteção do Ambiente
-- Política de Solos
+- Ordenamento do Território
 - Plano de Urbanização
-- Urbanismo
+- Plano Director Municipal
+- Política de Solos
+- Proteção do Ambiente
 - Protecção do Património
 - Regulamento
 - são Roque do PICO
-- Açores
-- Autarquia Local
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:188549:por
@@ -122,16 +122,169 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1/1992/01/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1/1992/01/02/p/dre
+- type: cites
+  target: pt:dre:160374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:188549:por
+  label: "Rectificado pela DECL-RECT.16-AB/2000.2000.12.29.PCM,DR.IS-B [300]6º Supl de 30/Dez/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/16-ab-2000-188549
+  date: '2000-12-29'
 article_structure:
   article_count: 35
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:18Z'
   warnings: []
   errors: []
 ---
@@ -194,13 +347,13 @@ São excluídos da ratificação o n.º 12 do artigo 11.º, a alínea b) do n.º
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Julho de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale césar.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale césar.
 
-**Assinado em Angra do Heroísmo em 29 de Agosto de 2000.**
+Assinado em Angra do Heroísmo em 29 de Agosto de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DE SÃO ROQUE
 
@@ -240,15 +393,15 @@ b) Domínio físico-económico, que contém:
 
 ### Capítulo 1 - sistema produtivo;
 
-### Capítulo 2 - infra-estruturas;
+Capítulo 2 - infra-estruturas;
 
 c) Domínio físico-social, que contém:
 
 ### Capítulo 1 - população;
 
-### Capítulo 2 - caracterização urbana;
+Capítulo 2 - caracterização urbana;
 
-### Capítulo 3 - equipamentos colectivos.
+Capítulo 3 - equipamentos colectivos.
 
 ###### Artigo 3.º — Objectivos
 

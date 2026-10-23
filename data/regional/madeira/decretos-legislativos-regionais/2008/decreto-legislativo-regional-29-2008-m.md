@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/29/2008/08/12/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2008-455661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fbb1fde02933d8a0611925399053a7cf46366e43402fdfe00f8736b7307bcd0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26734842a90741dfd9ac129cdfb8612fb68911001ed7d63ac51cd516b135ead2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,14 +68,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Comparticipação do Estado
-- Lei de Bases
-- Organização Desportiva
-- Madeira.região Autónoma
-- Regime Jurídico
 - Desporto
+- Financiamento
+- Lei de Bases
+- Madeira.região Autónoma
+- Organização Desportiva
+- Regime Jurídico
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:4/2007/M
+  label: "Altera o artigo 63.º do Decreto Legislativo Regional n.º 4/2007/M, de 11 de Janeiro, DR.IS [8] que dá nova redacção\
+    \ ao artigo 3.º do DLR 12/2005/M de 26 de Julho\0\0"
+  source: null
+  date: '2007-01-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/12/2005/07/26/m/dre
   label: null
@@ -104,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640909:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:02Z'
   warnings: []
   errors: []
 ---
@@ -172,10 +206,10 @@ O presente diploma produz efeitos à data da entrada em vigor do [Decreto Legisl
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 22 de Julho de 2008.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 30 de Julho de 2008.**
+Assinado em 30 de Julho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

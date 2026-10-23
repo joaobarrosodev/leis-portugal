@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/08/16900/0007500091.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2021/08/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2021-170514957
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43fb1766c1395b5f92bea7dc1eeb76a2f2582e8ba8a5357b76c058e33ae69853
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 665f3fd227f9c5f754e4ac5abe1202adae34069704bce3c87f024bbaaae9c754
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- ILHA de são Miguel
-- ILHA Terceira
+- Açores
 - Direcção Regional da Cultura
-- Quadro Regional de ILHA
+- Ecomuseu
 - ILHA das Flores
+- ILHA de Santa Maria
 - Ilha de São Jorge
+- ILHA de são Miguel
 - Ilha do Corvo
+- ILHA do Faial
+- Ilha do Pico
+- ILHA Terceira
 - Museu
 - Museu Carlos Machado
 - Museu de Angra do Heroísmo
 - Orgânica
-- ILHA de Santa Maria
-- Ilha do Pico
 - Quadro de Pessoal
-- Açores
-- ILHA do Faial
-- Ecomuseu
+- Quadro Regional de ILHA
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/16/2021/07/07/a/dre
@@ -96,16 +96,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/3/2020/01/27/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/3/2020/01/27/a/dre
+- type: cites
+  target: pt:dre:128515586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150757510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166569091:por
+  label: null
+  source: null
 article_structure:
-  article_count: 42
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:43Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +156,9 @@ c) [...]
 
 d) O Centro Histórico e Documental da Autonomia.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -158,7 +172,9 @@ d) O Museu do Pico, que compreende o Museu dos Baleeiros, antigo Barracão dos B
 
 2 - [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...]
 
@@ -172,11 +188,15 @@ d) O Museu das Flores, que compreende o núcleo sede, no edifício do Convento, 
 
 2 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 O Ecomuseu do Corvo, compreende a Casa do Tempo, o Pavilhão Multiúsos, o Gabinete Técnico e a Casa da Partida, localizados na Vila do Corvo.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 [...]
 
@@ -186,7 +206,9 @@ b) A Biblioteca Pública e Arquivo Regional Luís da Silva Ribeiro, que abrange 
 
 c) A Biblioteca Pública e Arquivo Regional João José da Graça, que abrange as ilhas do Faial, Pico, Flores e Corvo, localizada no edifício da antiga Casa Bensaúde, na Horta.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - O Arquipélago - Centro de Artes Contemporâneas, integra os espaços seguintes:
 
@@ -232,11 +254,15 @@ j) Estabelecer parcerias com entidades vocacionadas para a arte contemporânea, 
 
 k) Estabelecer parcerias com instituições culturais, de ensino e de solidariedade social, visando a formação, promoção e divulgação da arte contemporânea.
 
-## ANEXO II — [...]
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/16900/0007500091.pdf))](https://files.diariodarepublica.pt/1s/2021/08/16900/0007500091.pdf)
+[...]
 
-###### Artigo 2.º — Aditamento ao [Decreto Regulamentar Regional n.º 3/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2020-128515586), de 27 de janeiro
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/16900/0007500091.pdf)
+
+Artigo 2.º
+
+Aditamento ao [Decreto Regulamentar Regional n.º 3/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2020-128515586), de 27 de janeiro
 
 É aditada ao anexo i do [Decreto Regulamentar Regional n.º 3/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2020-128515586), de 27 de janeiro, a secção iii-A, que integra os artigos 21.º-A, 21.º-B e 21.º-C, com a seguinte redação:
 
@@ -244,11 +270,15 @@ k) Estabelecer parcerias com instituições culturais, de ensino e de solidaried
 
 Centro Histórico e Documental da Autonomia
 
-###### Artigo 21.º-A — Centro Histórico e Documental da Autonomia
+Artigo 21.º-A
+
+Centro Histórico e Documental da Autonomia
 
 O Centro Histórico e Documental da Autonomia tem como objeto o estudo e a divulgação do adquirido autonómico, privilegiando a promoção da história dos Açores e da açorianidade.
 
-###### Artigo 21.º-B — Competências do Centro Histórico e Documental da Autonomia
+Artigo 21.º-B
+
+Competências do Centro Histórico e Documental da Autonomia
 
 1 - Ao Centro Histórico e Documental da Autonomia compete:
 
@@ -290,7 +320,9 @@ q) Lançar as bases de cooperação e intercâmbio com entidade análoga da Regi
 
 3 - O Centro Histórico e Documental da Autonomia integra a Rede do Conhecimento dos Açores.
 
-###### Artigo 21.º-C — Rede do Conhecimento dos Açores
+Artigo 21.º-C
+
+Rede do Conhecimento dos Açores
 
 1 - À Rede do Conhecimento dos Açores, compete:
 
@@ -306,35 +338,47 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A Rede do Conhecimento dos Açores é dirigida por um diretor, cargo de direção específica de 1.º grau.»
 
-###### Artigo 3.º — Republicação
+Artigo 3.º
+
+Republicação
 
 Os anexos i e ii do [Decreto Regulamentar Regional n.º 3/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2020-128515586), de 27 de janeiro, são republicados em anexo ao presente diploma, do qual fazem parte integrante, com as alterações ora introduzidas.
 
-###### Artigo 4.º — Entrada em vigor
+Artigo 4.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 5 de agosto de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 25 de agosto de 2021.**
+Assinado em Angra do Heroísmo em 25 de agosto de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO — (a que se refere o artigo 3.º)
+ANEXO
 
-## ANEXO I — (a que se refere o artigo 3.º)
+(a que se refere o artigo 3.º)
+
+ANEXO I
+
+(a que se refere o artigo 3.º)
 
 Republicação dos anexos I e II do [Decreto Regulamentar Regional n.º 3/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2020-128515586), de 27 de janeiro
 
 Orgânica dos serviços externos da Direção Regional da Cultura
 
-### CAPÍTULO I — Objeto e natureza
+CAPÍTULO I
 
-###### Artigo 1.º — Objeto
+Objeto e natureza
+
+Artigo 1.º
+
+Objeto
 
 São serviços externos da Direção Regional da Cultura, adiante designada por DRC:
 
@@ -346,15 +390,23 @@ c) O Arquipélago - Centro de Artes Contemporâneas;
 
 d) O Centro Histórico e Documental da Autonomia.
 
-###### Artigo 2.º — Natureza
+Artigo 2.º
+
+Natureza
 
 Os serviços externos da DRC são serviços dotados de autonomia administrativa, nos termos da lei, e funcionam na dependência direta do diretor regional com competência em matéria de cultura.
 
-### CAPÍTULO II — Competências, órgãos e serviços
+CAPÍTULO II
 
-#### SECÇÃO I — Museus regionais, de ilha e Ecomuseu
+Competências, órgãos e serviços
 
-###### Artigo 3.º — Classificação
+SECÇÃO I
+
+Museus regionais, de ilha e Ecomuseu
+
+Artigo 3.º
+
+Classificação
 
 Para efeitos do disposto no presente diploma os museus são:
 
@@ -364,7 +416,9 @@ b) «De ilha» quando aglutinem aspetos representativos das atividades culturais
 
 c) «Ecomuseu» quando a sua atividade inclua recursos culturais e naturais, privilegiadamente in situ, bem como uma estratégia de desenvolvimento sustentável, atenta aos interesses e à participação da comunidade.
 
-###### Artigo 4.º — Museus regionais
+Artigo 4.º
+
+Museus regionais
 
 1 - São museus regionais:
 
@@ -378,7 +432,9 @@ d) O Museu do Pico, que compreende o Museu dos Baleeiros, antigo Barracão dos B
 
 2 - Sempre que se justifique os museus regionais podem ter extensões com denominações próprias, a criar por despacho do membro do Governo Regional competente em matéria de cultura.
 
-###### Artigo 5.º — Museus de ilha
+Artigo 5.º
+
+Museus de ilha
 
 1 - São museus de ilha:
 
@@ -392,11 +448,15 @@ d) O Museu das Flores, que compreende o núcleo sede, no edifício do Convento, 
 
 2 - Sempre que se justifique os museus de ilha podem ter extensões com denominações próprias, a criar por despacho do membro do Governo Regional competente em matéria de cultura.
 
-###### Artigo 6.º — Ecomuseu
+Artigo 6.º
+
+Ecomuseu
 
 O Ecomuseu do Corvo, compreende a Casa do Tempo, o Pavilhão Multiúsos, o Gabinete Técnico e a Casa da Partida, localizados na Vila do Corvo.
 
-###### Artigo 7.º — Competências
+Artigo 7.º
+
+Competências
 
 1 - Os museus regionais, os museus de ilha e o Ecomuseu têm competências no âmbito da recolha, conservação e exposição dos testemunhos materiais e intangíveis do homem e do seu meio ambiente, para fins de estudo, preservação, educação e recreio.
 
@@ -430,7 +490,9 @@ m) Cooperar com as autarquias e outras instituições no desenvolvimento de plan
 
 n) Promover e apoiar as atividades de reconhecido interesse cultural.
 
-###### Artigo 8.º — Competências específicas dos museus regionais
+Artigo 8.º
+
+Competências específicas dos museus regionais
 
 Compete, em especial, aos museus regionais:
 
@@ -444,7 +506,9 @@ d) Apoiar a execução do plano de atividades da DRC;
 
 e) Apoiar, quando necessário, outras entidades públicas ou privadas na definição de critérios museológicos de recolha, conservação ou exposição de bens de interesse cultural.
 
-###### Artigo 9.º — Competências específicas dos museus de ilha
+Artigo 9.º
+
+Competências específicas dos museus de ilha
 
 Compete, em especial, aos museus de ilha:
 
@@ -456,7 +520,9 @@ c) Promover uma estreita ligação entre o museu de ilha e a comunidade resident
 
 d) Apoiar, quando necessário, outras entidades públicas no processo de recolha, conservação ou exposição de bens de interesse cultural da ilha.
 
-###### Artigo 10.º — Competências específicas do Ecomuseu
+Artigo 10.º
+
+Competências específicas do Ecomuseu
 
 Compete, em especial, ao Ecomuseu:
 
@@ -468,7 +534,9 @@ c) Promover ações de interdisciplinaridade com outras entidades regionais e co
 
 d) Elaborar estratégias e propostas de ação para a reabilitação e divulgação do património móvel e imaterial.
 
-###### Artigo 11.º — Diretores dos museus regionais, de ilha e do Ecomuseu
+Artigo 11.º
+
+Diretores dos museus regionais, de ilha e do Ecomuseu
 
 1 - Os museus regionais, de ilha e o Ecomuseu são dirigidos por um diretor.
 
@@ -478,7 +546,9 @@ d) Elaborar estratégias e propostas de ação para a reabilitação e divulgaç
 
 4 - O cargo de diretor do Ecomuseu é equiparado para todos os efeitos legais a chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 12.º — Competências dos diretores dos museus regionais, de ilha e do Ecomuseu
+Artigo 12.º
+
+Competências dos diretores dos museus regionais, de ilha e do Ecomuseu
 
 Compete aos diretores dos museus regionais, de ilha e do Ecomuseu:
 
@@ -492,9 +562,13 @@ d) Promover a aquisição, o depósito e a permuta de espécies museológicas;
 
 e) Promover e incentivar, em colaboração com os estabelecimentos de ensino, as visitas de estudo e as sessões de trabalho individuais ou coletivas com pessoal docente e alunos de qualquer nível de ensino.
 
-#### SECÇÃO II — Bibliotecas públicas e arquivos regionais
+SECÇÃO II
 
-###### Artigo 13.º — Âmbito territorial das bibliotecas públicas e arquivos regionais
+Bibliotecas públicas e arquivos regionais
+
+Artigo 13.º
+
+Âmbito territorial das bibliotecas públicas e arquivos regionais
 
 São bibliotecas públicas e arquivos regionais, com o seguinte âmbito territorial, nomeadamente para efeitos de incorporação de documentos:
 
@@ -504,7 +578,9 @@ b) A Biblioteca Pública e Arquivo Regional Luís da Silva Ribeiro, que abrange 
 
 c) A Biblioteca Pública e Arquivo Regional João José da Graça, que abrange as ilhas do Faial, Pico, Flores e Corvo, localizada no edifício da antiga Casa Bensaúde, na Horta.
 
-###### Artigo 14.º — Competências
+Artigo 14.º
+
+Competências
 
 Compete às bibliotecas públicas e arquivos regionais:
 
@@ -528,13 +604,17 @@ i) Promover diligências junto das câmaras municipais e de outras entidades pú
 
 j) Organizar e fomentar ações de formação, com vista a melhorar o nível científico, técnico e profissional dos seus trabalhadores.
 
-###### Artigo 15.º — Diretores e serviços das bibliotecas públicas e arquivos regionais
+Artigo 15.º
+
+Diretores e serviços das bibliotecas públicas e arquivos regionais
 
 1 - As bibliotecas públicas e arquivos regionais são dirigidas por um diretor, equiparado para todos os efeitos legais a diretor de serviços, cargo de direção intermédia de 1.º grau.
 
 2 - As bibliotecas públicas e arquivos regionais compreendem uma divisão de bibliotecas públicas e documentação e uma divisão de arquivos, dirigidas por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 16.º — Competências do diretor
+Artigo 16.º
+
+Competências do diretor
 
 Compete ao diretor das bibliotecas públicas e arquivos regionais:
 
@@ -552,7 +632,9 @@ f) Emitir os pareceres de natureza biblioteconómica, arquivística, cultural e 
 
 g) Promover e incentivar, em colaboração com os estabelecimentos de ensino, as visitas de estudo e as sessões de trabalho individuais ou coletivas com pessoal docente e alunos de qualquer nível de ensino.
 
-###### Artigo 17.º — Competências da Divisão de Bibliotecas Públicas e Documentação
+Artigo 17.º
+
+Competências da Divisão de Bibliotecas Públicas e Documentação
 
 1 - Compete à Divisão de Bibliotecas Públicas e Documentação:
 
@@ -586,7 +668,9 @@ n) Promover o acesso dos cidadãos a todos os tipos de informação de interesse
 
 2 - À Divisão de Bibliotecas Públicas e Documentação da Biblioteca Pública e Arquivo Regional Luís da Silva Ribeiro compete ainda conferir, tratar, acondicionar, conservar e difundir a documentação recebida por depósito legal.
 
-###### Artigo 18.º — Competências da Divisão de Arquivos
+Artigo 18.º
+
+Competências da Divisão de Arquivos
 
 Compete à Divisão de Arquivos:
 
@@ -614,9 +698,13 @@ k) Promover o conhecimento público dos acervos documentais;
 
 l) Promover o acesso dos cidadãos a todos os tipos de informação de interesse local.
 
-#### SECÇÃO III — Arquipélago - Centro de Artes Contemporâneas
+SECÇÃO III
 
-###### Artigo 19.º — Competências do Arquipélago - Centro de Artes Contemporâneas
+Arquipélago - Centro de Artes Contemporâneas
+
+Artigo 19.º
+
+Competências do Arquipélago - Centro de Artes Contemporâneas
 
 1 - O Arquipélago - Centro de Artes Contemporâneas, integra os espaços seguintes:
 
@@ -662,11 +750,15 @@ j) Estabelecer parcerias com entidades vocacionadas para a arte contemporânea, 
 
 k) Estabelecer parcerias com instituições culturais, de ensino e de solidariedade social, visando a formação, promoção e divulgação da arte contemporânea.
 
-###### Artigo 20.º — Diretor do Arquipélago - Centro de Artes Contemporâneas
+Artigo 20.º
+
+Diretor do Arquipélago - Centro de Artes Contemporâneas
 
 O Arquipélago - Centro de Artes Contemporâneas é dirigido por um diretor, equiparado para todos os efeitos legais a diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 21.º — Competências do diretor
+Artigo 21.º
+
+Competências do diretor
 
 Compete ao diretor do Arquipélago - Centro de Artes Contemporâneas:
 
@@ -688,13 +780,19 @@ h) Incentivar a comunidade para a participação nas diferentes atividades do pr
 
 i) Fomentar o estreitamento das relações do Arquipélago - Centro de Artes Contemporâneas com o tecido académico regional, nacional e internacional e a rede escolar dos Açores, ativando o intercâmbio de valências no sentido de potenciar a criação de públicos e a produção e valores culturais e científicos.
 
-#### SECÇÃO III-A — Centro Histórico e Documental da Autonomia
+SECÇÃO III-A
 
-###### Artigo 21.º-A — Centro Histórico e Documental da Autonomia
+Centro Histórico e Documental da Autonomia
+
+Artigo 21.º-A
+
+Centro Histórico e Documental da Autonomia
 
 O Centro Histórico e Documental da Autonomia tem como objeto o estudo e a divulgação do adquirido autonómico, privilegiando a promoção da história dos Açores e da açorianidade.
 
-###### Artigo 21.º-B — Competências do Centro Histórico e Documental da Autonomia
+Artigo 21.º-B
+
+Competências do Centro Histórico e Documental da Autonomia
 
 1 - Ao Centro Histórico e Documental da Autonomia compete:
 
@@ -736,7 +834,9 @@ q) Lançar as bases de cooperação e intercâmbio com entidade análoga da Regi
 
 3 - O Centro Histórico e Documental da Autonomia integra a Rede do Conhecimento dos Açores.
 
-###### Artigo 21.º-C — Rede do Conhecimento dos Açores
+Artigo 21.º-C
+
+Rede do Conhecimento dos Açores
 
 1 - À Rede do Conhecimento dos Açores, compete:
 
@@ -752,9 +852,13 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A Rede do Conhecimento dos Açores é dirigida por um diretor, cargo de direção específica de 1.º grau.
 
-#### SECÇÃO IV — Organização interna e funcionamento
+SECÇÃO IV
 
-###### Artigo 22.º — Regulamentos
+Organização interna e funcionamento
+
+Artigo 22.º
+
+Regulamentos
 
 1 - A organização interna e funcionamento geral de cada um dos serviços externos consta de regulamento aprovado por portaria do membro do Governo Regional competente em matéria de cultura, tendo em conta o seu âmbito, dimensão e localização.
 
@@ -762,38 +866,56 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - Sem prejuízo do disposto nos números anteriores, os serviços externos devem dispor de regulamento interno, no qual constam as regras de funcionamento específico.
 
-### CAPÍTULO III — Administração financeira
+CAPÍTULO III
 
-###### Artigo 23.º — Orçamentos e despesas
+Administração financeira
+
+Artigo 23.º
+
+Orçamentos e despesas
 
 1 - Os orçamentos dos serviços externos são integrados no orçamento da DRC.
 
 2 - As despesas dos serviços externos são satisfeitas por conta de divisões próprias inseridas no orçamento da DRC.
 
-###### Artigo 24.º — Destino das receitas
+Artigo 24.º
+
+Destino das receitas
 
 As receitas cobradas pelos serviços externos da DRC constituem receita do Fundo Regional de Ação Cultural, sendo depositadas à sua ordem nos termos legalmente estabelecidos.
 
-###### Artigo 25.º — Doações ou legados
+Artigo 25.º
+
+Doações ou legados
 
 A aceitação de doações ou legados onerados com quaisquer encargos, ou suscetíveis de os causar, carece sempre de autorização do diretor regional com competência em matéria de cultura, do membro do Governo Regional com competência em matéria de cultura ou do Conselho do Governo Regional, conforme a competência legalmente fixada para a autorização de despesas.
 
-###### Artigo 26.º — Plano e relatório de atividades
+Artigo 26.º
+
+Plano e relatório de atividades
 
 1 - Os serviços externos estão obrigados à elaboração de um plano anual de atividades e de um relatório anual da gestão efetuada.
 
 2 - Os serviços externos devem fornecer os elementos que lhes digam respeito para integração no plano e relatório anual da DRC.
 
-### CAPÍTULO IV — Pessoal
+CAPÍTULO IV
 
-###### Artigo 27.º — Pessoal
+Pessoal
+
+Artigo 27.º
+
+Pessoal
 
 1 - O pessoal afeto aos serviços externos consta dos quadros regionais de ilha em vigor.
 
 2 - O pessoal dirigente dos serviços externos é o constante do Anexo II do presente diploma, do qual faz parte integrante.
 
-## ANEXO II — (a que se refere o artigo 3.º)
+ANEXO II
+
+(a que se refere o artigo 3.º)
 
 Quadro de pessoal dirigente dos serviços externos da DRC
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/08/16900/0007500091.pdf))](https://files.diariodarepublica.pt/1s/2021/08/16900/0007500091.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/16900/0007500091.pdf)
+
+114522696

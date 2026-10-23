@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1986-196183
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f572169311a38ab353912370eb1446fa236bda4ff69b4a4e635a4c6a5f1bcc6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7ea397951546a38bc273b3e43769fa706d4e119e34161c5693365c0dbab86827
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa Pública
+- Empresa Pública de Saneamento Básico da Região da Madeira
+- Estatuto
+- Madeira.região Autónoma
+- Saneamento Básico
+relationships:
+- type: cites
+  target: pt:dre:299006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:06Z'
   warnings: []
   errors: []
 ---
@@ -96,20 +109,20 @@ Considerando a necessidade de legislação adequada que, no domínio do saneamen
 
 A Assembleia Regional da Madeira decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É revogado o [Decreto Regional n.º 27/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1978-299006), de 22 de Agosto, que criou a empresa pública de Saneamento Básico da Região da Madeira, E. P.
+Artigo 1.º - 1 - É revogado o [Decreto Regional n.º 27/78/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1978-299006), de 22 de Agosto, que criou a empresa pública de Saneamento Básico da Região da Madeira, E. P.
 
 2 - É igualmente revogado o [Decreto Regional n.º 14/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1980-462781), de 22 de Outubro, que aprovou o seu estatuto.
 
-###### Art. 2.º No prazo de 30 dias, contados a partir da data da publicação do presente decreto legislativo regional, o Governo Regional providenciará a criação da Direcção Regional de Saneamento Básico, no âmbito da Secretaria Regional do Equipamento Social.
+Art. 2.º No prazo de 30 dias, contados a partir da data da publicação do presente decreto legislativo regional, o Governo Regional providenciará a criação da Direcção Regional de Saneamento Básico, no âmbito da Secretaria Regional do Equipamento Social.
 
-###### Art. 3.º Este diploma entra em vigor no dia em que se iniciar a vigência do decreto regulamentar regional que estabelecer a orgânica da Direcção Regional de Saneamento Básico.
+Art. 3.º Este diploma entra em vigor no dia em que se iniciar a vigência do decreto regulamentar regional que estabelecer a orgânica da Direcção Regional de Saneamento Básico.
 
 Aprovado em sessão plenária em 5 de Fevereiro de 1986.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 27 de Fevereiro de 1986.**
+Assinado em 27 de Fevereiro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

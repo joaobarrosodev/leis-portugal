@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28/2012/06/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2012-178494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de4061ff88ebf539b90810a3fa02bc24c0fc5bcde4912578ecdaecdaeaf9972b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3da03e957e4d6b0693a54c359c1a976f329352cbe9f7d4a5b261caa59e8b817
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,29 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Alimentar
+- Açores
+- Alimento para Animais
 - Aproximação das Legislações
+- Avaliação de Impacte Ambiental
 - Biotecnologia
-- Multa
-- Organismo Geneticamente Modificado
-- Genética
+- Comércio
 - Contra-ordenação
-- Saúde
-- Saúde Pública
 - Etiquetagem
 - Fiscalização
-- Avaliação de Impacte Ambiental
+- Genética
 - Instruções de Utilização
+- Multa
 - Normas de Segurança
-- Proteção do Ambiente
+- Organismo Geneticamente Modificado
 - Produto Agro-alimentar
-- Alimento para Animais
+- Produto Alimentar
+- Proteção do Ambiente
 - Regulamento CE
 - Sanção
-- Açores
-- Taxa
-- Comércio
+- Saúde
 - Saúde Animal
+- Saúde Pública
+- Taxa
 relationships:
 - type: cites
   target: celex:31990L0219
@@ -124,13 +124,13 @@ relationships:
 article_structure:
   article_count: 42
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:33Z'
   warnings: []
   errors: []
 ---
@@ -679,17 +679,17 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de maio de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 11 de junho de 2012.**
+Assinado em Angra do Heroísmo em 11 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
 ## ANEXO I-A — Técnicas de modificação genética que resultam na criação de OGM
 
-# Parte 1
+Parte 1
 
 As técnicas cujos resultados são considerados modificações genéticas são, nomeadamente:
 
@@ -699,7 +699,7 @@ As técnicas cujos resultados são considerados modificações genéticas são, 
 
 3) Técnicas de fusão celular (incluindo a fusão protoplástica) ou de hibridação em que células viáveis com combinações novas de material geneticamente transmissível sejam formadas através da fusão de duas ou mais células através de meios ou métodos que não ocorrem naturalmente.
 
-# Parte 2
+Parte 2
 
 As técnicas referidas cujos resultados não são considerados modificações genéticas desde que não envolvam a utilização de moléculas recombinantes de ácidos nucleicos ou de OGM, obtidos por técnicas/métodos diferentes dos excluídos pelo anexo i-B do presente diploma, são, nomeadamente:
 

@@ -48,36 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1987-421401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff9c47beeb393d5b591c588db04c158f9915b04f456258b7f39749ff464ec6f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f69177229dfc7b9e17109f28707f5b12fead5e32ec70106f5bdcd7e2c58b3f21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Colocação de Professores
+- Ensino Preparatório
+- Ensino Secundário
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:325556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579887:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:50Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +115,7 @@ Considerando que os critérios para a colocação dos professores profissionaliz
 
 O Governo Regional decreta, nos termos da alínea d), do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 1.º, o artigo 3.º, o artigo 6.º, o artigo 11.º, o n.º 2 do artigo 12.º, o artigo 14.º, o artigo 15.º, o artigo 17.º, o artigo 23.º, o artigo 25.º, o artigo 26.º, o artigo 27.º, o artigo 28.º, o n.º 1 do artigo 30.º, o artigo 33.º e o n.º 2 do artigo 35.º do [Decreto Regulamentar Regional n.º 7/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1985-325556), de 16 de Abril, passam a ter a seguinte redacção:
+Artigo único. O artigo 1.º, o artigo 3.º, o artigo 6.º, o artigo 11.º, o n.º 2 do artigo 12.º, o artigo 14.º, o artigo 15.º, o artigo 17.º, o artigo 23.º, o artigo 25.º, o artigo 26.º, o artigo 27.º, o artigo 28.º, o n.º 1 do artigo 30.º, o artigo 33.º e o n.º 2 do artigo 35.º do [Decreto Regulamentar Regional n.º 7/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1985-325556), de 16 de Abril, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -110,7 +135,7 @@ g) ...
 
 h) Por professores efectivos e professores em contratação plurianual que, segundo regras fixadas por despacho do Secretário Regional da Educação e Cultura, foram deslocados do estabelecimento de ensino de origem por não terem serviço lectivo.
 
-###### Art. 3.º - 1 - ...
+Art. 3.º - 1 - ...
 
 a) ...
 
@@ -134,7 +159,7 @@ i) Candidatos portadores de habilitação considerada mínima, como tal definida
 
 3 - Os candidatos incluídos nas alíneas h) e i) do n.º 1 deste artigo enquanto não adquirirem, respectivamente, habilitação própria ou suficiente não poderão em futuros concursos ser enquadrados nas restantes alíneas.
 
-###### Art. 6.º - 1 - ...
+Art. 6.º - 1 - ...
 
 a) ...
 
@@ -166,13 +191,13 @@ n) Colocação dos candidatos incluídos na alínea i) do n.º 1 do artigo 3.º
 
 3 - ...
 
-###### Art. 11.º - 1 - ...
+Art. 11.º - 1 - ...
 
 2 - ...
 
 3 - Os conselhos directivos afixarão nos locais de estilo, e logo após o seu envio para os serviços competentes, o número de vagas referidas no n.º 1 deste artigo.
 
-###### Art. 12.º - 1 - ...
+Art. 12.º - 1 - ...
 
 a) ...
 
@@ -180,11 +205,11 @@ b) ...
 
 2 - Os docentes colocados nos horários referidos na alínea b) do número anterior serão remunerados como se tivessem sido colocados em horários de 22 horas semanais, sendo o respectivo serviço completado com tarefas paradocentes enquanto não houver horas lectivas nos respectivos grupos, subgrupos, disciplinas ou especialidades para lhes atribuir.
 
-###### Art. 14.º Os candidatos referidos na alínea c) do n.º 1 do artigo 3.º são graduados de acordo com o disposto no artigo 3.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro.
+Art. 14.º Os candidatos referidos na alínea c) do n.º 1 do artigo 3.º são graduados de acordo com o disposto no artigo 3.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro.
 
-###### Art. 15.º Os docentes profissionalizados não efectivos são graduados de acordo com o disposto nos n.os 1, 2, 5 e 6 do artigo 3.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro.
+Art. 15.º Os docentes profissionalizados não efectivos são graduados de acordo com o disposto nos n.os 1, 2, 5 e 6 do artigo 3.º do [Decreto-Lei n.º 17-C/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-c-1986-405368), de 6 de Fevereiro.
 
-###### Art. 17.º - 1 - ...
+Art. 17.º - 1 - ...
 
 2 - ...
 
@@ -198,9 +223,9 @@ b) ...
 
 7 - Em caso de igualdade, será aplicável o disposto no n.º 6 do artigo anterior.
 
-###### Art. 23.º A documentação referida no artigo 20.º para os candidatos à 2.ª fase do concurso mencionado no artigo 9.º será apresentada nas condições expressas no [Decreto-Lei n.º 381-C/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-c-1985-476745), de 28 de Setembro.
+Art. 23.º A documentação referida no artigo 20.º para os candidatos à 2.ª fase do concurso mencionado no artigo 9.º será apresentada nas condições expressas no [Decreto-Lei n.º 381-C/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-c-1985-476745), de 28 de Setembro.
 
-###### Art. 25.º - 1 - Os docentes profissionalizados não efectivos e os docentes provisórios colocados ao abrigo do presente diploma são providos mediante contrato, nos termos do [Decreto-Lei n.º 381-C/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-c-1985-476745), de 28 de Setembro.
+Art. 25.º - 1 - Os docentes profissionalizados não efectivos e os docentes provisórios colocados ao abrigo do presente diploma são providos mediante contrato, nos termos do [Decreto-Lei n.º 381-C/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-c-1985-476745), de 28 de Setembro.
 
 2 - Os docentes colocados na 1.ª fase do concurso que não se encontrem em exercício de funções no final do ano escolar imediatamente anterior àquele a que o concurso respeita celebrarão os respectivos contratos na data em que, por despacho, forem mandados apresentar nas escolas em que forem colocados.
 
@@ -208,15 +233,15 @@ b) ...
 
 4 - Os docentes colocados na 2.ª fase do concurso ao abrigo da portaria a que se refere o n.º 2 do artigo 9.º elaborarão os respectivos contratos na data de entrada em exercício de funções, se esta se verificar no prazo legalmente estabelecido.
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 a) ...
 
 b) Se o contrato não vier a ser homologado nos termos legalmente estabelecidos, a partir da data em que a não homologação for comunicada ao interessado.
 
-###### Art. 27.º Os contratos a estabelecer por força do artigo 25.º vigorarão até ao final do ano escolar a que a colocação respeita, exceptuando-se, porém, o disposto no artigo 28.º deste diploma.
+Art. 27.º Os contratos a estabelecer por força do artigo 25.º vigorarão até ao final do ano escolar a que a colocação respeita, exceptuando-se, porém, o disposto no artigo 28.º deste diploma.
 
-###### Art. 28.º - 1 - ...
+Art. 28.º - 1 - ...
 
 2 - ...
 
@@ -226,7 +251,7 @@ b) Se o contrato não vier a ser homologado nos termos legalmente estabelecidos,
 
 5 - Consideram-se, contudo, prorrogados até ao final do respectivo ano escolar os contratos celebrados com docentes que, cumulativamente, tenham prestado um mínimo de 180 dias de serviço no ano escolar a que a colocação respeita e se encontrem em exercício de funções em 31 de Maio.
 
-###### Art. 30.º - 1 - O candidato que, não se encontrando a prestar serviço docente à data da incorporação no serviço militar obrigatório, adquira durante a prestação daquele serviço direito a celebrar contrato como docente apresentar-se-á no respectivo estabelecimento de ensino nos quinze dias subsequentes ao termo do serviço militar, se este se verificar durante a vigência do contrato que deva celebrar como docente, devendo, para o efeito, comunicar tal situação por escrito ao estabelecimento de ensino até ao início do ano escolar a que a colocação respeita.
+Art. 30.º - 1 - O candidato que, não se encontrando a prestar serviço docente à data da incorporação no serviço militar obrigatório, adquira durante a prestação daquele serviço direito a celebrar contrato como docente apresentar-se-á no respectivo estabelecimento de ensino nos quinze dias subsequentes ao termo do serviço militar, se este se verificar durante a vigência do contrato que deva celebrar como docente, devendo, para o efeito, comunicar tal situação por escrito ao estabelecimento de ensino até ao início do ano escolar a que a colocação respeita.
 
 2 - ...
 
@@ -234,7 +259,7 @@ b) Se o contrato não vier a ser homologado nos termos legalmente estabelecidos,
 
 4 - ...
 
-###### Art. 33.º - 1 - ...
+Art. 33.º - 1 - ...
 
 2 - ...
 
@@ -244,16 +269,16 @@ b) Se o contrato não vier a ser homologado nos termos legalmente estabelecidos,
 
 5 - A não aceitação do lugar em que o candidato venha a ser colocado na 1.ª fase implicará a impossibilidade de o mesmo vir a ser colocado no ano a que o concurso respeita.
 
-###### Art. 35.º - 1 - ...
+Art. 35.º - 1 - ...
 
 2 - No decurso do último ano das respectivas funções os docentes mencionados no número anterior deverão ser opositores ao concurso previsto neste diploma, devendo, para o efeito, ser considerados como colocados na 1.ª fase do concurso anterior.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 18 de Fevereiro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 4 de Maio de 1987.**
+Assinado em Angra do Heroísmo em 4 de Maio de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03700/0124101243.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/206/2009/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/206-2009-602032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9ebcad9edfbbdc8f2af755831c0e3d8a89eb3dbc3e7e501962b072a4c7bc5c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db8ecbd8d91004aeca16c3689d813efde9b5d3b79c35a86d506f820a7078ae1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato Coletivo de Trabalho
-- Indústria Têxtil
-- Contrato de Trabalho
 - Condições de Higiene e Segurança no Trabalho
+- Contrato Coletivo de Trabalho
+- Contrato de Trabalho
+- Indústria Têxtil
 - Regulamento de Extensão
 - Relações de Trabalho
 - Remuneração
@@ -85,16 +85,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:208064850:por
+  label: Revogada a partir de 07.03.2023 pelo(a) Portaria n.º 61/2023 - Diário da República n.º 44/2023, Série I de 2023-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/61-2023-208064850
+  date: '2023-03-02'
+- type: repealed_by
+  target: pt:dre:208064851:por
+  label: Revogada a partir de 07.03.2023 pelo(a) Portaria n.º 62/2023 - Diário da República n.º 44/2023, Série I de 2023-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-2023-208064851
+  date: '2023-03-02'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:47Z'
   warnings: []
   errors: []
 ---

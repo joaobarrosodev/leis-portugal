@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/11/270b00/60976097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/38/1991/11/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/38-1991-307439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 103ddc2718eff28a384fb15f7e60266435edbb5c6860b33e4e9ee92039888212
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ad9a215e8f3cd5d38ded9a83c18b90d505d61ada137213b182cb0d2c4431acb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Equiparação de Cargos
 - Instituto Regional de Apoio ao Sector Cooperativo
 - Nomeação
 - Presidente
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:435048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:382983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555392:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:435048:por
+  label: Revogado o DRR 11/79/A de 02-Mai, com a redacção dada pelo presente diploma, pelo DLR.7/96/A.14.06.1996.ALR-RAA,
+    DR.IS-A [136] de 14.06.1996
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1996-435048
+  date: '1996-06-14'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:55Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +113,7 @@ Considerando a oportunidade de introduzir alterações ao diploma que regulament
 
 Assim, em execução do artigo 7.º do [Decreto Regional n.º 8/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1978-425297), de 17 de Abril, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo único. O artigo 14.º do [Decreto Regulamentar Regional n.º 11/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1979-382983), de 2 de Maio, com a redacção que lhe foi dada pelo [Decreto Regulamentar Regional n.º 33/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1990-555392), de 16 de Outubro, passa a ter a seguinte redacção:
+Artigo único. O artigo 14.º do [Decreto Regulamentar Regional n.º 11/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1979-382983), de 2 de Maio, com a redacção que lhe foi dada pelo [Decreto Regulamentar Regional n.º 33/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1990-555392), de 16 de Outubro, passa a ter a seguinte redacção:
 
 ###### Artigo 14.º — Nomeação do pessoal de direcção
 
@@ -109,10 +127,10 @@ Assim, em execução do artigo 7.º do [Decreto Regional n.º 8/78/A](https://di
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 30 de Julho de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 24 de Outubro de 1991.**
+Assinado em Angra do Heroísmo em 24 de Outubro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

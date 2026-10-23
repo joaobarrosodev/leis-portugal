@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1986, 8º Suplemento, Série I de 1986-12-31
   number: '300'
   series: I
-  supplement: 8º Suplemento
+  supplement: null
   pages: 3874-(463) a 3874-(481)
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1986-627025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab1af307b25b5b35f687d673de9ad067f352dd590d44de79bb9d59ee8e50b0b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97f1c6c16774fa2d3ec053d7d4ea06a2f1c5375db76c2366240451f7f5becf87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+relationships:
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:44Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +112,7 @@ QUADRO I
 
 Síntese da conta da RAA (sem incluir as contas de ordem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 Como se depreende da leitura do quadro I, constitui objectivo prioritário da administração regional manter equilibradas as finanças da RAA, ajustando a progressão anual das despesas públicas à evolução previsional das receitas próprias e procurando assegurar o financiamento das despesas correntes com receitas provenientes da cobrança de impostos e com o produto das transferências do Estado efectuadas para o mesmo fim.
 
@@ -208,7 +218,7 @@ QUADRO II
 
 Síntese do orçamento da RAA (sem incluir as contas de ordem)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 3.2 - O quadro III, sobre origem e aplicação de recursos, mostra que, relativamente às actividades da RAA, as dotações que evidenciam maiores proporções do total orçamentado são destinadas a:
 
@@ -242,7 +252,7 @@ Orçamento da RAA
 
 Mapa de origens e aplicações de recursos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 II - Execução orçamental do período de Janeiro a Junho
 
@@ -270,7 +280,7 @@ As contas de ordem atingiram o valor global de 2549 milhares de contos, represen
 
 Execução orçamental (até 30 de Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 As despesas orçamentais autorizadas no 1.º semestre elevaram-se a 11575 milhares de contos, mais 5% do que em igual período do ano anterior.
 
@@ -290,13 +300,13 @@ Na óptica da classificação orgânica, os valores mais expressivos pertencem �
 
 Execução orçamental (de Janeiro a Junho de 1986)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 QUADRO IV
 
 Receitas cobradas (de Janeiro a Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 QUADRO V
 
@@ -304,7 +314,7 @@ Execução orçamental (de Janeiro a Junho)
 
 Despesas correntes (classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 QUADRO VI
 
@@ -312,7 +322,7 @@ Execução orçamental (de Janeiro a Junho)
 
 Despesas de capital (classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 QUADRO VII
 
@@ -320,7 +330,7 @@ Execução orçamental (de Janeiro a Junho)
 
 Despesas do plano (classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 QUADRO VIII
 
@@ -328,7 +338,7 @@ Execução orçamental (de Janeiro a Junho)
 
 Despesa total (classificação orgânica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 III - Previsão das receitas
 
@@ -400,7 +410,7 @@ QUADRO IX
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 IV - Previsão das despesas
 
@@ -438,7 +448,7 @@ Modernizar/racionalizar a administração regional constitui, de facto, a garant
 
 A estrutura das despesas orçamentais para o ano de 1987 é basicamente idêntica à dos dois últimos anos. Com efeito, desde 1985 passam a corresponder às despesas de investimento a maioria das despesas efectuadas, 56,5%, sem contas de ordem, confirmando o orçamento revisto de 1986 essa mesma orientação, 56,2%. Para 1987, muito embora a taxa de crescimento das despesas correntes, 16,5%, seja superior à taxa de crescimento das despesas de investimento, 11,3%, continua a manter-se uma estrutura semelhante à dos dois anos referidos. Caberão às despesas correntes 44,8% e às despesas de investimento 55% das dotações inscritas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 Da análise das despesas correntes, por classificação orgânica, verifica-se que os valores mais significativos continuam a pertencer à SREC, 5300 milhares de contos, dos quais 4237 milhares de contos para a Direcção Regional da Administração Escolar, e à SRAS, 4900 milhares de contos, destacando-se neste departamento, pelo seu valor, as verbas atribuídas ao SRS, 4566 milhares de contos.
 
@@ -508,7 +518,7 @@ QUADRO X
 
 Classificação económica das despesas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 V - Necessidades de financiamento
 
@@ -792,7 +802,7 @@ Só poderão celebrar-se contratos ou, de qualquer outra forma, contrair encargo
 
 ###### Artigo 26.º — Regulamentação
 
-**O Secretário Regional das Finanças emitirá os regulamentos que se mostrem necessários à execução do presente diploma.**
+O Secretário Regional das Finanças emitirá os regulamentos que se mostrem necessários à execução do presente diploma.
 
 ###### Artigo 27.º — Entrada em vigor
 
@@ -800,22 +810,22 @@ O presente diploma entra em vigor em 1 de Janeiro de 1987.
 
 Aprovado em Conselho do Governo Regional, em Vila do Porto, em 16 de Dezembro de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 31 de Dezembro de 1986.**
+Assinado em Angra do Heroísmo em 31 de Dezembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO I — Resumo da receita por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 ## ANEXO II — Resumo das despesas por secretarias regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
 
 ## ANEXO III — Despesas por divisões administrativas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf))](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/12/30008/04630481.pdf)

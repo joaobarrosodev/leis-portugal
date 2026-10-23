@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1989/06/14700/25402543.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-620898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:17:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1184df60222ef9c4378d3be9537bc688a3003c3acacc00e6ce7684e05efb9de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e21fd621360ebf93de1ec61f113ad018afccbdf9ecafd963af0aecda863f6dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:17:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Estabelecimento de Ensino
+- Pessoal não Docente
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:339384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:497189:por
+  label: "Alterados os arts. 2º e 4º e revogado o nº 4 do art. 8º, pelo DLR.2/91/A.1991.01.03.ALR-RAA, DR.IS-A [17] de 21.01.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-1991-497189
+  date: '1991-01-03'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:291458:por
+  label: Rectificado pela DECL.DD3730.1989.08.18.PCM DR.IS [200]SUPL DE 31/AGO/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-291458
+  date: '1989-08-18'
+- type: repealed_by
+  target: pt:dre:339384:por
+  label: "Revogado pelo DLR.21/2000/A.2000.07.06.ALR-RAA DR.IS-A [183] DE 09/AGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2000-339384
+  date: '2000-07-06'
 article_structure:
-  article_count: 10
+  article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:17:57Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +130,9 @@ Considerando que os quadros anexos ao decreto legislativo regional supracitado n
 
 A Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, alínea b), da Constituição e da alínea i) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo 1.º O regime do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, aplica-se aos estabelecimentos de educação pré-escolar e dos ensinos primário, preparatório e secundário, conservatórios regionais e, bem assim, às escolas do magistério primário.
+Artigo 1.º O regime do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, aplica-se aos estabelecimentos de educação pré-escolar e dos ensinos primário, preparatório e secundário, conservatórios regionais e, bem assim, às escolas do magistério primário.
 
-###### Art. 2.º Os artigos 2.º, 4.º, 5.º, 7.º, 20.º, n.º 3, 21.º, n.os 2 e 3, 42.º n.os 1 e 2, 47.º, n.os 4, 5, 7 e 8, e 48.º, n.º 5, do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, aplicam-se à Região, com as seguintes adaptações:
+Art. 2.º Os artigos 2.º, 4.º, 5.º, 7.º, 20.º, n.º 3, 21.º, n.os 2 e 3, 42.º n.os 1 e 2, 47.º, n.os 4, 5, 7 e 8, e 48.º, n.º 5, do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, aplicam-se à Região, com as seguintes adaptações:
 
 ###### Artigo 2.º — Carreiras e categorias
 
@@ -218,7 +254,7 @@ n) Costureira.
 
 5 - Os actuais telefonista e porteiro transitam, respectivamente, para as carreiras de auxiliar técnico e auxiliar de acção educativa.
 
-###### Art. 3.º - 1 - Os lugares da carreira e categoria de auxiliar de acção educativa dos ensinos pré-primário e primário obedecem às seguintes regras:
+Art. 3.º - 1 - Os lugares da carreira e categoria de auxiliar de acção educativa dos ensinos pré-primário e primário obedecem às seguintes regras:
 
 a) Por cada três salas e três lugares docentes que ofereçam garantia de estabilidade será criado, nas escolas, um lugar do quadro de auxiliar de acção educativa;
 
@@ -230,7 +266,7 @@ c) Por cada três lugares docentes em funcionamento, para além dos previstos na
 
 3 - Nas escolas que possuam duas classes de educação pré-escolar em funcionamento com garantia de estabilidade será criado um lugar do quadro de auxiliar de acção educativa, que acrescerá aos previstos nos números anteriores.
 
-###### Art. 4.º - 1 - Para as escolas que não disponham de lugares do quadro nos termos definidos no artigo anterior poderá ser contratado pessoal, exercendo funções em tempo parcial, por conta das verbas inscritas para esse fim no orçamento da Secretaria Regional da Educação e Cultura.
+Art. 4.º - 1 - Para as escolas que não disponham de lugares do quadro nos termos definidos no artigo anterior poderá ser contratado pessoal, exercendo funções em tempo parcial, por conta das verbas inscritas para esse fim no orçamento da Secretaria Regional da Educação e Cultura.
 
 2 - O contrato a que se refere o número anterior será celebrado com indivíduos aprovados nos concursos de habilitação para preenchimento de lugares do quadro de auxiliar de acção educativa.
 
@@ -242,7 +278,7 @@ c) Por cada três lugares docentes em funcionamento, para além dos previstos na
 
 6 - A remuneração de serviço em tempo parcial será feita tendo em conta o horário semanal constante do respectivo contrato e com base na letra R.
 
-###### Art. 5.º - 1 - A duração de serviço em tempo parcial será aferida de acordo com os seguintes critérios, quanto ao número de salas e professores:
+Art. 5.º - 1 - A duração de serviço em tempo parcial será aferida de acordo com os seguintes critérios, quanto ao número de salas e professores:
 
 a) Uma sala, um professor - quatro horas;
 
@@ -252,11 +288,11 @@ c) Uma sala, dois professores - seis horas.
 
 2 - Quando as escolas tenham a funcionar lugares docentes que não ofereçam garantia de estabilidade, mas constituam sobrecarga de trabalho que o justifique, poderá também ser contratado pessoal a tempo parcial.
 
-###### Art. 6.º Para efeitos dos artigos 3.º e 5.º deste diploma, os lugares docentes da Telescola consideram-se integrados na rede escolar do ensino primário.
+Art. 6.º Para efeitos dos artigos 3.º e 5.º deste diploma, os lugares docentes da Telescola consideram-se integrados na rede escolar do ensino primário.
 
-###### Art. 7.º Os lugares criados nas escolas, nos termos do artigo 3.º deste diploma, serão providos, independentemente de concursos, pelo pessoal auxiliar contratado em tempo parcial há mais de três anos contados à data da entrada em vigor deste decreto legislativo regional.
+Art. 7.º Os lugares criados nas escolas, nos termos do artigo 3.º deste diploma, serão providos, independentemente de concursos, pelo pessoal auxiliar contratado em tempo parcial há mais de três anos contados à data da entrada em vigor deste decreto legislativo regional.
 
-###### Art. 8.º - 1 - A Secretaria Regional da Educação e Cultura, através da Direcção Regional de Administração Escolar, publicará no Jornal Oficial a lista dos lugares do quadro já criados ou a criar de acordo com os critérios constantes do artigo 3.º, bem como dos actualmente providos que não se encontrem naquelas condições, mencionando, quando a estes, que se extinguirão quando vagarem.
+Art. 8.º - 1 - A Secretaria Regional da Educação e Cultura, através da Direcção Regional de Administração Escolar, publicará no Jornal Oficial a lista dos lugares do quadro já criados ou a criar de acordo com os critérios constantes do artigo 3.º, bem como dos actualmente providos que não se encontrem naquelas condições, mencionando, quando a estes, que se extinguirão quando vagarem.
 
 2 - A lista a que se refere o número anterior terá a forma de despacho conjunto dos Secretários Regionais da Administração Interna, das Finanças e da Educação e Cultura ou de despacho do Secretário Regional da Educação e Cultura, sempre que do reajustamento resulte, ou não, aumento do número de lugares do quadro.
 
@@ -264,30 +300,30 @@ c) Uma sala, dois professores - seis horas.
 
 4 - Para a realização dos contratos a que se refere o artigo 4.º deste diploma, as direcções escolares enviarão anualmente, até finais de Agosto, à Direcção Regional de Administração Escolar as propostas de admissão que serão sujeitas a descongelamento.
 
-###### Art. 9.º As referências a «serviços regionais do Ministério da Educação e Cultura» e «responsável dos serviços regionais» devem entender-se como reportadas, respectivamente, a Direcção Regional de Administração Escolar e a director regional de Administração Escolar.
+Art. 9.º As referências a «serviços regionais do Ministério da Educação e Cultura» e «responsável dos serviços regionais» devem entender-se como reportadas, respectivamente, a Direcção Regional de Administração Escolar e a director regional de Administração Escolar.
 
-###### Art. 10.º O disposto no presente diploma, no que respeita a princípios gerais, produz todos os seus efeitos a partir da entrada em vigor do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio.
+Art. 10.º O disposto no presente diploma, no que respeita a princípios gerais, produz todos os seus efeitos a partir da entrada em vigor do [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio.
 
-###### Art. 11.º O presente diploma revoga o [Decreto Legislativo Regional n.º 12/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1988-286300), de 5 de Abril.
+Art. 11.º O presente diploma revoga o [Decreto Legislativo Regional n.º 12/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1988-286300), de 5 de Abril.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 10 de Maio de 1989.
 
-**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+O Presidente da Assembleia Regional, José Guilherme Reis Leite.
 
-**Assinado em Angra do Heroísmo em 12 de Junho de 1989.**
+Assinado em Angra do Heroísmo em 12 de Junho de 1989.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO I — Escolas do magistério
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/14700/25402543.pdf))](https://files.diariodarepublica.pt/1s/1989/06/14700/25402543.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/14700/25402543.pdf)
 
 ## ANEXO II — Conservatórios regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/14700/25402543.pdf))](https://files.diariodarepublica.pt/1s/1989/06/14700/25402543.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/14700/25402543.pdf)
 
 ## ANEXO III — Escolas preparatórias e secundárias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1989/06/14700/25402543.pdf))](https://files.diariodarepublica.pt/1s/1989/06/14700/25402543.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/06/14700/25402543.pdf)

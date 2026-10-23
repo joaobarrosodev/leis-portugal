@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1983-454866
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8856f465e1afc03c53ee2ffb5e5c0360e854c0912dc380a0a5a5fd76557f7156
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72be8fdf51518043310d16f666b5a30c93bb33449fea223b261071abd277c8d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Educador de Infância
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:00Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +120,15 @@ Tendo em conta as disposições das alíneas b) e c) do artigo 8.º do [Decreto 
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É criado o quadro único de educadores de infância das classes de educação pré-escolar da Região Autónoma dos Açores, no qual se integram os respectivos quadros privativos.
+Artigo 1.º - 1 - É criado o quadro único de educadores de infância das classes de educação pré-escolar da Região Autónoma dos Açores, no qual se integram os respectivos quadros privativos.
 
 2 - Para efeitos do disposto no número anterior considera-se quadro privativo a dotação atribuída em termos de lugares do quadro a cada um dos estabelecimentos.
 
-###### Art. 2.º Os lugares do quadro de educadores de infância de cada classe de educação pré-escolar serão estabelecidos por portaria.
+Art. 2.º Os lugares do quadro de educadores de infância de cada classe de educação pré-escolar serão estabelecidos por portaria.
 
-###### Art. 3.º O concurso para preenchimento dos lugares de quadro único será feito por concurso anual, a abrir mediante aviso a publicar pelo Secretário Regional da Educação e Cultura no Diário da República até 31 de Janeiro de cada ano.
+Art. 3.º O concurso para preenchimento dos lugares de quadro único será feito por concurso anual, a abrir mediante aviso a publicar pelo Secretário Regional da Educação e Cultura no Diário da República até 31 de Janeiro de cada ano.
 
-###### Art. 4.º - 1 - A Direcção Regional de Administração Escolar inventariará até ao dia 31 de Dezembro as vagas existentes e mandará afixar a relação das mesmas em todas as direcções escolares, independentemente da sua publicação no Diário da República.
+Art. 4.º - 1 - A Direcção Regional de Administração Escolar inventariará até ao dia 31 de Dezembro as vagas existentes e mandará afixar a relação das mesmas em todas as direcções escolares, independentemente da sua publicação no Diário da República.
 
 2 - Da relação referida no número anterior não constarão os lugares criados mas não providos que, por despacho do Secretário Regional da Educação e Cultura, sejam destinados ou se encontrem numa das seguintes situações:
 
@@ -113,7 +136,7 @@ a) Lugares a não recuperar por razões de rectificação da rede escolar;
 
 b) Lugares que possam vir a funcionar ao abrigo do regime de experiências pedagógicas.
 
-###### Art. 5.º - 1 - O prazo para requerer a admissão ao concurso é de 10 dias úteis, contado a partir do dia seguinte ao da publicação no Diário da República do aviso referido no artigo 3.º do presente diploma.
+Art. 5.º - 1 - O prazo para requerer a admissão ao concurso é de 10 dias úteis, contado a partir do dia seguinte ao da publicação no Diário da República do aviso referido no artigo 3.º do presente diploma.
 
 2 - O prazo a que se refere o número anterior beneficiará de uma dilatação de 5 dias para os candidatos que se encontrem numa das seguintes situações:
 
@@ -123,23 +146,23 @@ b) Estejam como cooperantes em países de expressão portuguesa;
 
 c) Se encontrem ao serviço no âmbito do ensino português no estrangeiro.
 
-###### Art. 6.º - 1 - A admissão ao concurso será feita através do preenchimento de impresso próprio, acompanhado de uma ficha profissional e de uma ficha-resumo destacável a editar pela Secretaria Regional da Educação e Cultura.
+Art. 6.º - 1 - A admissão ao concurso será feita através do preenchimento de impresso próprio, acompanhado de uma ficha profissional e de uma ficha-resumo destacável a editar pela Secretaria Regional da Educação e Cultura.
 
 2 - Os candidatos manifestarão as suas preferências de colocação de acordo com os quadros inscritos no impresso a que se refere o número anterior.
 
 3 - Esgotadas as preferências nas escolas ou localidades expressamente manifestadas, os candidatos serão colocados em consequência das preferências globais identificadas por concelho ou ilha, tendo-se em consideração a ordenação constante na relação anexa ao aviso de concurso.
 
-###### Art. 7.º O concurso realiza-se com recuperação automática de vagas, de forma que qualquer concorrente não seja ultrapassado em qualquer das suas preferências por outro candidato com inferior prioridade.
+Art. 7.º O concurso realiza-se com recuperação automática de vagas, de forma que qualquer concorrente não seja ultrapassado em qualquer das suas preferências por outro candidato com inferior prioridade.
 
-###### Art. 8.º O provimento dos lugares considerados vagos por efeito do disposto no artigo anterior far-se-á independentemente da publicação no jornal Oficial da data da vacatura do lugar, coincidindo esta com a data do despacho que autoriza a transferência do antigo titular.
+Art. 8.º O provimento dos lugares considerados vagos por efeito do disposto no artigo anterior far-se-á independentemente da publicação no jornal Oficial da data da vacatura do lugar, coincidindo esta com a data do despacho que autoriza a transferência do antigo titular.
 
-###### Art. 9.º Podem ser opositores ao concurso referido no artigo 3.º os candidatos que se encontrem em alguma das situações a seguir indicadas, por ordem de prioridade:
+Art. 9.º Podem ser opositores ao concurso referido no artigo 3.º os candidatos que se encontrem em alguma das situações a seguir indicadas, por ordem de prioridade:
 
 a) Educadores de infância já providos no quadro, ainda que na situação de licença ilimitada há mais de 1 ano;
 
 b) Candidatos habilitados com o curso das escolas normais de educadores de infância e ainda os que forem portadores de um curso de educadores de infância considerado, nos termos da lei em vigor, como equivalente ao curso primeiramente mencionado.
 
-###### Art. 10.º - 1 - Dentro de cada uma das situações referidas no número anterior, os candidatos serão ordenados de acordo com a sua graduação profissional, determinada em função dos seguintes elementos:
+Art. 10.º - 1 - Dentro de cada uma das situações referidas no número anterior, os candidatos serão ordenados de acordo com a sua graduação profissional, determinada em função dos seguintes elementos:
 
 a) Classificação profissional;
 
@@ -149,13 +172,13 @@ c) Tempo de serviço prestado em jardim-de-infância particular após a conclus�
 
 2 - A classificação profissional corresponde, para todos os efeitos legais, à classificação final obtida no curso das escolas normais de educadores de infância ou equivalente, determinada nos termos da legislação vigente.
 
-###### Art. 11.º - 1 - A graduação profissional de cada candidato é a classificação profissional acrescida de um valor por cada ano de serviço prestado, bem qualificado, nos termos das alíneas b) e c) do artigo anterior e até ao limite de 20 valores.
+Art. 11.º - 1 - A graduação profissional de cada candidato é a classificação profissional acrescida de um valor por cada ano de serviço prestado, bem qualificado, nos termos das alíneas b) e c) do artigo anterior e até ao limite de 20 valores.
 
 2 - O número de anos de serviço mencionado no número anterior é o quociente inteiro da divisão por 365 do número de dias de serviço prestado desde o dia 1 de Setembro do ano em que o educador concluiu o curso das escolas normais de educadores de infância ou equivalente até 30 de Setembro imediatamente anterior à data de abertura do concurso.
 
 3 - É ainda considerado para efeitos de graduação profissional o tempo de serviço militar obrigatório, desde que prestado após a conclusão do curso das escolas normais de educadores de infância ou equivalente.
 
-###### Art. 12.º - 1 - Dentro de cada uma das situações referidas no artigo 9.º, os candidatos serão ordenados por ordem decrescente da sua graduação profissional.
+Art. 12.º - 1 - Dentro de cada uma das situações referidas no artigo 9.º, os candidatos serão ordenados por ordem decrescente da sua graduação profissional.
 
 2 - Em caso de empate, prefere sucessivamente:
 
@@ -167,7 +190,7 @@ c) O candidato com mais tempo de serviço, expresso em dias, prestado em estabel
 
 d) O candidato mais idoso.
 
-###### Art. 13.º - 1 - Dos impressos referidos no artigo 6.º do presente diploma constarão, obrigatoriamente:
+Art. 13.º - 1 - Dos impressos referidos no artigo 6.º do presente diploma constarão, obrigatoriamente:
 
 a) Elementos legais de identificação do candidato;
 
@@ -181,7 +204,7 @@ e) Demais elementos necessários à ordenação do candidato;
 
 f) Designação das classes de educação pré-escolar dos concelhos e ilhas de acordo com a identificação estabelecida no aviso de abertura do concurso.
 
-###### Art. 14.º Os candidatos ao concurso indicarão as suas preferências num, e só num, boletim, de acordo com o referido numa ou mais das alíneas seguintes:
+Art. 14.º Os candidatos ao concurso indicarão as suas preferências num, e só num, boletim, de acordo com o referido numa ou mais das alíneas seguintes:
 
 a) Designação das classes de educação pré-escolar até ao limite de 20;
 
@@ -191,7 +214,7 @@ c) Identificação das ilhas, no máximo de 4;
 
 d) Toda a Região.
 
-###### Art. 15.º - 1 - A lista provisória de ordenação dos candidatos admitidos será afixada nas direcções e delegações escolares e na Casa dos Açores de Lisboa e Porto, para efeitos de reclamação da sua ordenação ou da admissão, no prazo de 10 dias a contar do dia imediato ao da data de afixação;
+Art. 15.º - 1 - A lista provisória de ordenação dos candidatos admitidos será afixada nas direcções e delegações escolares e na Casa dos Açores de Lisboa e Porto, para efeitos de reclamação da sua ordenação ou da admissão, no prazo de 10 dias a contar do dia imediato ao da data de afixação;
 
 2 - É da competência do director regional da Administração Escolar a decisão sobre as reclamações referidas no número anterior, que só serão consideradas quando, devidamente fundamentadas, lhe forem dirigidas nos termos legais.
 
@@ -199,15 +222,15 @@ d) Toda a Região.
 
 4 - As desistências do concurso só serão admitidas dentro do prazo de reclamações previsto no n.º 1 deste artigo, devendo ser apresentadas em papel selado, com a assinatura devidamente reconhecida.
 
-###### Art. 16.º O provimento dos educadores de infância nos quadros das classes de educação pré-escolar entende-se sempre feito por conveniência urgente de serviço, sendo-lhes devidos os respectivos abonos a partir da data da sua entrada em exercício de funções.
+Art. 16.º O provimento dos educadores de infância nos quadros das classes de educação pré-escolar entende-se sempre feito por conveniência urgente de serviço, sendo-lhes devidos os respectivos abonos a partir da data da sua entrada em exercício de funções.
 
-###### Art. 17.º - 1 - Até ao dia 15 de Setembro do ano escolar a que o concurso respeita, mas com efeitos desde o dia 1 de Setembro, os educadores de infância nomeados para os quadros das classes de educação pré-escolar, nos termos do respectivo concurso previsto neste diploma, tomarão posse provisória, seguida de exercício, dos lugares que, nos termos da lista definitiva, lhes hajam sido atribuídos, lavrando-se para o efeito o competente termo.
+Art. 17.º - 1 - Até ao dia 15 de Setembro do ano escolar a que o concurso respeita, mas com efeitos desde o dia 1 de Setembro, os educadores de infância nomeados para os quadros das classes de educação pré-escolar, nos termos do respectivo concurso previsto neste diploma, tomarão posse provisória, seguida de exercício, dos lugares que, nos termos da lista definitiva, lhes hajam sido atribuídos, lavrando-se para o efeito o competente termo.
 
 2 - A posse provisória referida no número anterior transformar-se-á em definitiva após a publicação do provimento no Jornal Oficial, procedendo-se para o efeito à respectiva anotação no termo de posse provisória.
 
 3 - Para efeitos do disposto no número anterior, a lista definitiva prevista no n.º 3 do artigo 15.º será homologada por despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 18.º - 1 - A não comparência dos educadores de infância para efeitos do disposto no n.º 1 do artigo anterior, bem como a declaração expressa antecipada de não tomar posse do respectivo lugar, determina:
+Art. 18.º - 1 - A não comparência dos educadores de infância para efeitos do disposto no n.º 1 do artigo anterior, bem como a declaração expressa antecipada de não tomar posse do respectivo lugar, determina:
 
 a) A anulação da nomeação;
 
@@ -217,15 +240,15 @@ b) A impossibilidade de, no respectivo ano escolar e no seguinte, serem colocado
 
 3 - O disposto na alínea b) do n.º 1 poderá não ser aplicado em virtude de motivos devidamente justificados e fundamentados, reconhecidos como tal por despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 19.º - 1 - No caso de ao provimento dos lugares dos quadros de educadores de infância das classes de educação pré-escolar ser recusado o visto do Tribunal de Contas, considera-se nula a posse provisória mencionada no artigo 17.º, a qual não originará, porém, para o interessado perda da qualidade de educador de infância, salvo se for a falta daquela qualidade o fundamento da recusa.
+Art. 19.º - 1 - No caso de ao provimento dos lugares dos quadros de educadores de infância das classes de educação pré-escolar ser recusado o visto do Tribunal de Contas, considera-se nula a posse provisória mencionada no artigo 17.º, a qual não originará, porém, para o interessado perda da qualidade de educador de infância, salvo se for a falta daquela qualidade o fundamento da recusa.
 
 2 - Os educadores de infância referidos no número anterior deste artigo manter-se-ão, porém, ao serviço até ao termo do respectivo ano escolar, sendo-lhes devidos abonos na qualidade de educadores de infância não pertencentes aos quadros.
 
 3 - O disposto no número anterior não é aplicável nos casos em que a recusa do visto se fundamentar na falta de posse da respectiva habilitação profissional ou em inibição para o exercício da função pública, casos em que o interessado cessará imediatamente o exercício de funções.
 
-###### Art. 20.º A posse provisória mencionada no artigo 17.º do presente diploma confere ao respectivo educador de infância todos os direitos e deveres inerentes à qualidade de educador de infância do quadro.
+Art. 20.º A posse provisória mencionada no artigo 17.º do presente diploma confere ao respectivo educador de infância todos os direitos e deveres inerentes à qualidade de educador de infância do quadro.
 
-###### Art. 21.º - 1 - O provimento dos educadores de infância no quadro das classes de educação pré-escolar determina para os mesmos o direito à atribuição das 2.ª, 3.ª ou 4.ª fases previstas no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, consoante o tempo de serviço anteriormente prestado.
+Art. 21.º - 1 - O provimento dos educadores de infância no quadro das classes de educação pré-escolar determina para os mesmos o direito à atribuição das 2.ª, 3.ª ou 4.ª fases previstas no [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, consoante o tempo de serviço anteriormente prestado.
 
 2 - Para efeitos do disposto no número anterior, é contado o tempo de serviço docente anteriormente prestado nas seguintes condições
 
@@ -237,34 +260,34 @@ b) A partir de 7 de Maio de 1976, inclusive, todo o tempo de serviço prestado, 
 
 4 - À concessão de fases aos educadores de infância, bem como à contagem de tempo de serviço para efeito de concurso para lugares do quadro, aposentação e diuturnidades, aplica-se a legislação em vigor para os professores do ensino primário.
 
-###### Art. 22.º Para efeitos do presente diploma, o ano escolar inicia-se em 1 de Setembro e termina em 31 de Agosto.
+Art. 22.º Para efeitos do presente diploma, o ano escolar inicia-se em 1 de Setembro e termina em 31 de Agosto.
 
-###### Art. 23.º Para todos os efeitos, nomeadamente para admissão na função pública, os educadores de infância são considerados como docentes.
+Art. 23.º Para todos os efeitos, nomeadamente para admissão na função pública, os educadores de infância são considerados como docentes.
 
-###### Art. 24.º - 1 - É competente para conferir posse aos educadores de infância nomeados para o quadro o delegado escolar da respectiva zona escolar.
+Art. 24.º - 1 - É competente para conferir posse aos educadores de infância nomeados para o quadro o delegado escolar da respectiva zona escolar.
 
 2 - Após a tomada de posse, o original do respectivo termo será remetido à respectiva direcção escolar e serão feitas as competentes comunicações de posse, nos termos legais em vigor, pela respectiva delegação escolar.
 
-###### Art. 25.º - 1 - No primeiro concurso para o preenchimento dos lugares do quadro de educadores de infância que vier a realizar-se nos termos do artigo 3.º do presente diploma não é aplicável o disposto no artigo 17.º
+Art. 25.º - 1 - No primeiro concurso para o preenchimento dos lugares do quadro de educadores de infância que vier a realizar-se nos termos do artigo 3.º do presente diploma não é aplicável o disposto no artigo 17.º
 
 2 - Após a publicação no jornal oficial do provimento dos educadores de infância referidos no número anterior, estes tomarão posse definitiva nos 15 dias subsequentes àquela publicação, salvo se o mencionado provimento se não efectuar até 15 de Setembro de 1983, caso em que aos respectivos educadores de infância se aplica o estabelecido nos artigos 17.º e seguintes deste diploma.
 
-###### Art. 26.º - 1 - Os educadores de infância que venham a tomar posse nos termos da primeira parte do n.º 2 do artigo anterior manter-se-ão em exercício de funções nas classes de educação pré-escolar em que se encontram colocados na situação de não pertencentes aos quadros, apresentando-se nas classes de educação pré-escolar em cujo quadro foram providos até ao dia 16 de Setembro de 1983.
+Art. 26.º - 1 - Os educadores de infância que venham a tomar posse nos termos da primeira parte do n.º 2 do artigo anterior manter-se-ão em exercício de funções nas classes de educação pré-escolar em que se encontram colocados na situação de não pertencentes aos quadros, apresentando-se nas classes de educação pré-escolar em cujo quadro foram providos até ao dia 16 de Setembro de 1983.
 
 2 - Enquanto se verificar a situação prevista no número anterior, os respectivos educadores de infância mantêm-se na situação de requisitados nos termos do [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507) ou legislação subsequente.
 
 3 - O disposto no número anterior não é aplicável aos educadores de infância que forem providos no quadro das classes de educação pré-escolar em que já se encontrem em exercício de funções na qualidade de não pertencentes ao quadro.
 
-###### Art. 27.º Os encargos resultantes da execução do presente diploma serão suportados pelas verbas inscritas nas competentes rubricas do orçamento da Secretaria Regional da Educação e Cultura a favor das direcções escolares.
+Art. 27.º Os encargos resultantes da execução do presente diploma serão suportados pelas verbas inscritas nas competentes rubricas do orçamento da Secretaria Regional da Educação e Cultura a favor das direcções escolares.
 
-###### Art. 28.º O presente diploma entra em vigor na data da sua publicação.
+Art. 28.º O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 1 de Julho de 1983.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 14 de Julho de 1983.**
+Assinado em Angra do Heroísmo em 14 de Julho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

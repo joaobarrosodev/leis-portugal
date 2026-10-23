@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/04/07200/0000300085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2020/04/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2020-131338911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c3365f4c29a45bd69c680d95aeb2d9b34fee73fbb6bceac7532baf68c44ae0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7a8ceb5536a774da313dc9667bb6e0bc877a37b2b8868eaecf85392b43ff64a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,69 +67,69 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acordo
-- Jurisdição
-- Embarcação
+- Açores
+- Administração de Portos
+- Apoio ao Investimento
+- Aquicultura
+- Artes de Pesca
 - Atribuição de Verba
-- Certificado de Aptidão Profissional
+- Autoridade Portuária
 - CAÇA Submarina
-- Pescador
-- Formação Profissional
-- Investigação Científica e Tecnológica
 - Certificação Profissional
-- Pessoal do MAR
-- Multa
-- Zona Económica Exclusiva
-- Radiocomunicações
-- Governo Regional
+- Certificado de Aptidão Profissional
 - Contra-ordenação
 - Contrato
 - Definição de Competências
-- Regime Laboral
 - Diploma
 - Direito do Trabalho
-- Mar Territorial
+- Domínio Público Hídrico
 - Domínio Público Marítimo
-- Monicap
-- Segurança das Embarcações
+- Embarcação
+- Embarcação de Pesca
 - Equivalência de Habilitações Literárias
-- Administração de Portos
 - Fiscalização
+- Formação Profissional
 - Frota de Pesca
-- Pesca
-- Apoio ao Investimento
 - Fundopesca
-- Inspecção Regional das Pescas
 - Gestão dos Recursos
-- Recrutamento de Pessoal
-- Pagamento
+- Governo
+- Governo Regional
+- Indústria Transformadora
 - Inscrição Marítima
+- Inspecção Regional das Pescas
 - Inspector Regional
-- Autoridade Portuária
-- Licenciamento
+- Investigação Científica e Tecnológica
+- Jurisdição
 - Licença de Pesca
+- Licenciamento
 - Lotação
-- Recursos do Mar
+- Mar Territorial
 - Mergulho
-- Aquicultura
-- Proteção do Ambiente
+- Monicap
+- Multa
+- Pagamento
 - Período de Defeso
-- Porto de Pesca
+- Pesca
 - Pesca Desportiva
 - Pesca Fluvial
-- Artes de Pesca
 - Pesca Profissional
-- Qualificação Profissional
+- Pescador
+- Pessoal do MAR
+- Porto de Pesca
 - Promoção Profissional
-- Domínio Público Hídrico
+- Proteção do Ambiente
+- Qualificação Profissional
+- Radiocomunicações
+- Recrutamento de Pessoal
+- Recursos do Mar
 - Regime Jurídico
-- Indústria Transformadora
-- Embarcação de Pesca
+- Regime Laboral
 - Segurança da Navegação
-- Governo
-- Açores
+- Segurança das Embarcações
 - Taxa
 - Tripulação
 - ZONA de Pesca
+- Zona Económica Exclusiva
 relationships:
 - type: cites
   target: celex:32008R0517
@@ -187,16 +187,88 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/1/2017/03/15/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/1/2017/03/15/a/dre
+- type: cites
+  target: pt:dre:105711870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:106607300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309040:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618344:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671590:por
+  label: null
+  source: null
 article_structure:
-  article_count: 273
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:34Z'
   warnings: []
   errors: []
 ---
@@ -231,13 +303,17 @@ Os artigos 21.º, 22.º, 34.º, 36.º, 37.º, 40.º, 42.º, 66.º, 97.º, 112.º
 
 2 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - A captura de espécies destinadas aos estabelecimentos de aquicultura obedece ao disposto no regime jurídico da aquicultura na Região Autónoma dos Açores, previsto no [Decreto Legislativo Regional n.º 22/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2011-670517), de 4 de julho.
 
 2 - [...]
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - Nos termos e para os efeitos previstos no [Regulamento (UE) 2019/1241](https://data.europa.eu/eli/reg/2019/1241/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de junho, os peixes, crustáceos e moluscos com tamanho mínimo inferior ao previsto naquele regulamento não sujeitos a obrigação de descarga devem ser imediatamente devolvidos ao mar, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos, colocados à venda ou vendidos.
 
@@ -247,17 +323,23 @@ Os artigos 21.º, 22.º, 34.º, 36.º, 37.º, 40.º, 42.º, 66.º, 97.º, 112.º
 
 4 - Os peixes, crustáceos e moluscos são medidos nos termos previstos no [Regulamento (UE) 2019/1241](https://data.europa.eu/eli/reg/2019/1241/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de junho.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 A malhagem das redes, bem como as respetivas regras de utilização e medição são determinadas nos termos do disposto no [Regulamento (CE) n.º 517/2008](https://data.europa.eu/eli/reg/2008/517/oj?locale=pt), da Comissão, de 10 de junho.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - Nos termos e para os efeitos previstos no [Regulamento (UE) 2019/1241](https://data.europa.eu/eli/reg/2019/1241/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de junho, é proibido realizar a bordo de navios de pesca qualquer transformação física ou química dos peixes para a produção de farinha, óleo ou produtos similares, ou transbordar as capturas para esses efeitos.
 
 2 - [...]
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - [...]
 
@@ -279,7 +361,9 @@ A malhagem das redes, bem como as respetivas regras de utilização e medição 
 
 10 - Sem prejuízo do disposto no número anterior, a autorização referida no n.º 1 pode ser renovada automaticamente, caso se mantenham as condições que levaram à atribuição da autorização inicial, bem como outras que à data da renovação sejam exigidas, desde que a possibilidade de renovação conste expressamente do despacho a que se refere o número anterior.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - [...]
 
@@ -297,7 +381,9 @@ A malhagem das redes, bem como as respetivas regras de utilização e medição 
 
 8 - [...]
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 [...]
 
@@ -309,7 +395,9 @@ c) Enviar cópia autenticada do certificado de lotação de segurança à Direç
 
 d) [...]
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 1 - O escalão da mestrança compreende as seguintes categorias:
 
@@ -349,7 +437,9 @@ e) Técnico especializado.
 
 5 - Os escalões de mestrança e marinhagem referidos nos n.os 1 e 2 são considerados da área marinha regional de pesca.
 
-###### Artigo 112.º — [...]
+Artigo 112.º
+
+[...]
 
 1 - O embarque de indivíduos não marítimos, necessários à exploração comercial ou à operacionalidade de uma embarcação regional de pesca, está dependente de parecer prévio favorável da Direção Regional das Pescas, estando condicionado pelo número máximo de pessoas que podem embarcar e que constem da lista de indivíduos não marítimos, nos termos do n.º 2 do artigo 116.º
 
@@ -359,7 +449,9 @@ e) Técnico especializado.
 
 4 - [...]
 
-###### Artigo 128.º — [...]
+Artigo 128.º
+
+[...]
 
 1 - [...]
 
@@ -371,13 +463,17 @@ b) [...]
 
 c) [...]
 
-###### Artigo 160.º — [...]
+Artigo 160.º
+
+[...]
 
 1 - Compete ao departamento do Governo Regional responsável pelas pescas criar e homologar os cursos a ministrar para o exercício da atividade de marítimo.
 
 2 - O conteúdo dos cursos referidos no número anterior é definido por portaria conjunta dos membros do Governo Regional com competência em matéria de educação, formação profissional e pescas.
 
-###### Artigo 161.º — [...]
+Artigo 161.º
+
+[...]
 
 1 - Os cursos a ministrar para o exercício da atividade de marítimo são os seguintes:
 
@@ -393,7 +489,9 @@ e) De reciclagem e de atualização.
 
 2 - (Revogado.)
 
-###### Artigo 179.º — [...]
+Artigo 179.º
+
+[...]
 
 1 - [...]
 
@@ -401,7 +499,9 @@ e) De reciclagem e de atualização.
 
 3 - O membro do Governo Regional responsável pelas pescas poderá estabelecer, através de portaria, a obrigatoriedade de instalação do sistema MONICAP, ou outros sistemas de identificação, localização ou monitorização, em qualquer embarcação regional de pesca licenciada para determinadas artes ou para operar em locais específicos, para fins de controlo e fiscalização da atividade no Mar dos Açores.
 
-###### Artigo 188.º — [...]
+Artigo 188.º
+
+[...]
 
 1 - A determinação da medida da coima faz-se em função dos critérios seguintes:
 
@@ -425,17 +525,23 @@ e) Reincidência.
 
 6 - No caso de repetição da prática de infrações qualificadas como graves nos termos do presente diploma, por pessoas singulares ou por pessoas coletivas, num período de cinco anos, a coima corresponde, no máximo, a oito vezes o valor do benefício obtido pela prática da infração, tendo como limite o triplo da moldura máxima abstratamente aplicável.
 
-###### Artigo 189.º — [...]
+Artigo 189.º
+
+[...]
 
 1 - Quando a contraordenação praticada não seja suscetível de ser qualificada como infração grave, e caso se trate de infrator sem qualquer antecedente no respetivo registo individual, pode este proceder ao pagamento voluntário da respetiva coima pelo mínimo legal previsto para a respetiva infração, até ao limite do prazo que lhe vier a ser fixado para exercício do direito de defesa.
 
 2 - O pagamento da coima, nos termos do presente artigo, não exclui a possibilidade de aplicação de sanções acessórias.
 
-###### Artigo 191.º — [...]
+Artigo 191.º
+
+[...]
 
 Compete ao inspetor regional das pescas a aplicação das coimas e das sanções acessórias previstas no presente diploma, independentemente do local de prática das infrações que as determinam, bem como, sempre que estejam em causa contraordenações passíveis de qualificação como infrações graves, a aplicação do respetivo sistema de pontos previsto no presente diploma, assegurando ainda o correspondente registo no SIFICAP.
 
-###### Artigo 192.º — Auto de notícia ou de denúncia
+Artigo 192.º
+
+Auto de notícia ou de denúncia
 
 1 - Quando, no exercício das suas funções, um inspetor de pescas ou agente competente, presenciar a prática de contraordenação prevista no presente diploma, levanta auto de notícia, o qual é assinado pelo autuante e, quando aplicável, pelas testemunhas.
 
@@ -451,7 +557,9 @@ Compete ao inspetor regional das pescas a aplicação das coimas e das sanções
 
 7 - (Revogado.)
 
-###### Artigo 195.º — [...]
+Artigo 195.º
+
+[...]
 
 1 - A prática das contraordenações previstas no presente diploma pode determinar a aplicação das medidas cautelares seguintes:
 
@@ -485,7 +593,9 @@ f) Interdição do uso de equipamentos.
 
 7 - São ineficazes os negócios jurídicos que tenham por objeto os bens apreendidos.
 
-###### Artigo 196.º — [...]
+Artigo 196.º
+
+[...]
 
 1 - [...]
 
@@ -501,11 +611,15 @@ f) Interdição do uso de equipamentos.
 
 7 - (Anterior n.º 5.)
 
-###### Artigo 197.º — [...]
+Artigo 197.º
+
+[...]
 
 Constituem garantias de pagamento da coima, custas e demais encargos legais, os bens apreendidos aos agentes infratores ou o valor correspondente, nos termos previstos no artigo 195.º, bem como os depósitos a que se refere o artigo 195.º-A.
 
-###### Artigo 202.º — [...]
+Artigo 202.º
+
+[...]
 
 1 - O departamento do Governo Regional responsável pelas pescas exerce a jurisdição e as funções de autoridade portuária nas áreas dos portos de classe D, conforme disposto no [Decreto Legislativo Regional n.º 24/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2011-671590), de 22 de agosto, que aprova o Sistema Portuário dos Açores.
 
@@ -525,7 +639,9 @@ Constituem garantias de pagamento da coima, custas e demais encargos legais, os 
 
 9 - [...]
 
-###### Artigo 208.º — [...]
+Artigo 208.º
+
+[...]
 
 Em tudo o que não se encontrar previsto no presente diploma, aplica-se subsidiariamente o regime geral do ilícito de mera ordenação social, bem como as correspondentes disposições da política comum de pescas, das medidas de gestão e controlo das organizações regionais de gestão da pesca e dos acordos com países terceiros.»
 
@@ -579,7 +695,9 @@ s) Definir e efetuar procedimentos de cruzamento de dados e de análise de risco
 
 2 - O procedimento para a colheita de amostras a que se refere a alínea p) do número anterior é fixado por despacho do membro do Governo Regional com competência em matéria de pescas.
 
-###### Artigo 183.º-A — Responsabilidade pelas contraordenações
+Artigo 183.º-A
+
+Responsabilidade pelas contraordenações
 
 1 - É responsável pela prática de contraordenação a pessoa singular ou coletiva que pratique o facto constitutivo da mesma ou, no caso de omissão, que não tenha praticado a ação adequada a evitá-lo, independentemente do momento em que o resultado típico se tenha produzido.
 
@@ -589,7 +707,9 @@ s) Definir e efetuar procedimentos de cruzamento de dados e de análise de risco
 
 4 - É ainda responsável pela prática de contraordenação prevista no presente diploma, por ação ou por omissão, o capitão ou mestre do navio ou embarcação de pesca.
 
-###### Artigo 185.º-A — Contraordenações
+Artigo 185.º-A
+
+Contraordenações
 
 1 - Constitui contraordenação punível com coima de (euro) 750,00 (setecentos e cinquenta euros) a (euro) 50 000,00 (cinquenta mil euros):
 
@@ -717,7 +837,9 @@ n) Não retirar a embarcação do porto ou núcleo de pesca após ter sido notif
 
 7 - Se o mesmo facto constituir simultaneamente crime e contraordenação, o agente é punido a título de crime, sem prejuízo da aplicação das sanções acessórias previstas para a contraordenação ou dos pontos, caso aplicável.
 
-###### Artigo 190.º-A — Aplicação de sanções acessórias
+Artigo 190.º-A
+
+Aplicação de sanções acessórias
 
 1 - Em função da gravidade da infração, da culpa e da reincidência, simultaneamente com a coima, bem como nos casos de admoestação, podem ser aplicadas ao infrator uma ou mais das sanções acessórias seguintes:
 
@@ -749,7 +871,9 @@ l) Perda de benefícios fiscais, de benefícios de crédito e de linhas de finan
 
 3 - Para efeitos do disposto nas alíneas k) e l) do n.º 1, a Inspeção Regional das Pescas comunica, de imediato, a prática da contraordenação à entidade que atribui o benefício ou subsídio com vista à suspensão dos pagamentos ou à devolução da totalidade ou parte do benefício ou subsídio em causa.
 
-###### Artigo 190.º-B — Pressupostos de aplicação de sanções acessórias
+Artigo 190.º-B
+
+Pressupostos de aplicação de sanções acessórias
 
 1 - As sanções previstas nas alíneas a) e b) do n.º 1 do artigo anterior só podem ser decretadas quando as artes de pesca, instrumentos, objetos ou produtos serviram ou estavam destinados a servir a prática de uma contraordenação ou por esta foram produzidos.
 
@@ -759,7 +883,9 @@ l) Perda de benefícios fiscais, de benefícios de crédito e de linhas de finan
 
 4 - As sanções previstas nas alíneas k) e l) do n.º 1 do artigo anterior só podem ser decretadas quando a contraordenação tiver sido praticada no exercício ou em virtude da atividade a favor da qual é atribuído o subsídio, o benefício ou financiamento.
 
-###### Artigo 190.º-C — Efeitos da perda
+Artigo 190.º-C
+
+Efeitos da perda
 
 1 - O carácter definitivo ou o trânsito em julgado da decisão de aplicação da sanção acessória de perda dos bens descritos nas alíneas a) a c) do n.º 1 do artigo 190.º-A determina a transferência da respetiva propriedade para a Região.
 
@@ -769,7 +895,9 @@ l) Perda de benefícios fiscais, de benefícios de crédito e de linhas de finan
 
 4 - Sem prejuízo do disposto nos números anteriores, são destruídos os bens declarados perdidos que não estiverem em conformidade com os requisitos ou características legalmente estabelecidas.
 
-###### Artigo 190.º-D — Infrações graves e aplicação do sistema de pontos
+Artigo 190.º-D
+
+Infrações graves e aplicação do sistema de pontos
 
 1 - Podem ser qualificadas como infrações graves, nos termos e para os efeitos previstos no artigo 92.º do [Regulamento (CE) n.º 1224/2009](https://data.europa.eu/eli/reg/2009/1224/oj?locale=pt), do Conselho, de 20 de novembro, as contraordenações previstas no n.º 1 e nas alíneas a) a g) do n.º 2 do artigo 185.º-A, constantes do anexo ao presente diploma, que dele faz parte integrante.
 
@@ -787,7 +915,9 @@ d) A coação, a falsificação, as falsas declarações, a simulação ou outro
 
 4 - O número de pontos aplicados consta da decisão condenatória.
 
-###### Artigo 190.º-E — Imputação dos pontos
+Artigo 190.º-E
+
+Imputação dos pontos
 
 1 - Os pontos aplicados nos termos previstos no n.º 3 do artigo anterior são imputados à licença de pesca do navio utilizado na prática da contraordenação.
 
@@ -797,7 +927,9 @@ d) A coação, a falsificação, as falsas declarações, a simulação ou outro
 
 4 - O certificado referido no número anterior é requerido pelo interessado na venda ou no afretamento do navio de pesca e junto ao respetivo pedido de autorização.
 
-###### Artigo 190.º-F — Regime de aplicação e anulação de pontos
+Artigo 190.º-F
+
+Regime de aplicação e anulação de pontos
 
 1 - A condenação por duas ou mais contraordenações qualificadas como infrações graves nos termos previstos no artigo 190.º-D, detetadas na mesma ação de inspeção, determina o registo dos pontos correspondentes a cada uma, até ao limite máximo de 12 pontos.
 
@@ -817,11 +949,15 @@ d) Participação em pescaria abrangida por um regime de rótulo ecológico conc
 
 5 - São, ainda, anulados os pontos aplicados à licença de pesca do navio que não cometa outra contraordenação qualificada como infração grave, no prazo de três anos, contados a partir da data da prática da última contraordenação qualificada como tal.
 
-###### Artigo 190.º-G — Efeitos da aplicação de pontos
+Artigo 190.º-G
+
+Efeitos da aplicação de pontos
 
 Os efeitos da aplicação de pontos regem-se pelo disposto nos artigos 129.º e seguintes do [Regulamento de Execução (UE) n.º 404/2011](https://data.europa.eu/eli/reg/2011/404/oj?locale=pt), da Comissão, de 8 de abril, na sua atual redação.
 
-###### Artigo 190.º-H — Imputação de pontos aos capitães de navio de pesca
+Artigo 190.º-H
+
+Imputação de pontos aos capitães de navio de pesca
 
 1 - Aos capitães de navios de pesca condenados pela prática de uma contraordenação qualificada como infração grave são aplicados os pontos nos termos do disposto no artigo 190.º-E.
 
@@ -845,7 +981,9 @@ d) A partir de 130 pontos - doze meses.
 
 7 - As medidas previstas no presente artigo constam da decisão condenatória.
 
-###### Artigo 192.º-A — Elementos do auto de notícia e de denúncia
+Artigo 192.º-A
+
+Elementos do auto de notícia e de denúncia
 
 1 - O auto de notícia e o auto de denúncia, referidos no artigo anterior, incluem, com as devidas adaptações, os seguintes elementos:
 
@@ -869,7 +1007,9 @@ i) Nome, categoria e assinatura do autuante ou denunciante.
 
 2 - Sempre que possível, no momento do seu levantamento, o autuante fornece ao infrator cópia do auto de notícia.
 
-###### Artigo 192.º-B — Notificações
+Artigo 192.º-B
+
+Notificações
 
 1 - A notificação do auto de notícia e demais notificações subsequentes efetuam-se:
 
@@ -903,7 +1043,9 @@ b) O que conste dos autos de contraordenação, nos casos em que o arguido não 
 
 11 - Quando a notificação seja efetuada por correio eletrónico, presume-se que foi feita na data da emissão, servindo de prova a cópia do aviso onde conste a menção de que a mensagem foi enviada com sucesso.
 
-###### Artigo 192.º-C — Testemunhas
+Artigo 192.º-C
+
+Testemunhas
 
 1 - A indicação de testemunhas, peritos ou consultores técnicos por parte do arguido, na sua defesa, é feita na data, hora e local indicados pela entidade instrutora do processo com, pelo menos, cinco dias úteis de antecedência.
 
@@ -915,7 +1057,9 @@ b) O que conste dos autos de contraordenação, nos casos em que o arguido não 
 
 5 - Os depoimentos ou esclarecimentos prestados presencialmente podem ser documentados em meios técnicos audiovisuais.
 
-###### Artigo 192.º-D — Adiamento de diligência de inquirição de testemunhas
+Artigo 192.º-D
+
+Adiamento de diligência de inquirição de testemunhas
 
 1 - No caso de falta à primeira marcação da diligência de inquirição de testemunhas, de peritos ou de consultores técnicos, aquela apenas pode ser adiada uma única vez, e apenas se a falta à primeira marcação tiver sido considerada justificada nos termos previstos no número seguinte.
 
@@ -927,7 +1071,9 @@ b) O que conste dos autos de contraordenação, nos casos em que o arguido não 
 
 5 - As disposições anteriores aplicam-se à situação de falta de comparência do arguido, com as devidas adaptações.
 
-###### Artigo 195.º-A — Medida substitutiva da medida cautelar
+Artigo 195.º-A
+
+Medida substitutiva da medida cautelar
 
 1 - Nos casos dos bens apreendidos previstos nas alíneas a) e b) do n.º 1 e na alínea a) do n.º 3 do artigo anterior, desde que não sejam necessários para efeitos de prova, o responsável pela infração pode requerer a substituição das medidas cautelares ali previstas pela prestação de um depósito, a título de caução, de valor igual a um terço do montante máximo da coima aplicável à contraordenação que lhe é imputada ou, sendo, mais do que uma, à de montante mais elevado.
 
@@ -937,7 +1083,9 @@ b) O que conste dos autos de contraordenação, nos casos em que o arguido não 
 
 4 - O depósito mantém-se até ao pagamento da coima ou à decisão de absolvição, sem prejuízo da possibilidade de ser determinada a sua perda a favor da Região.
 
-###### Artigo 195.º-B — Prazo das medidas cautelares
+Artigo 195.º-B
+
+Prazo das medidas cautelares
 
 As medidas cautelares previstas no artigo 195.º vigoram, consoante os casos:
 
@@ -947,7 +1095,9 @@ b) Até ao início do cumprimento de sanção acessória de efeito equivalente �
 
 c) Até à superveniência de decisão administrativa ou judicial que não condene o arguido às sanções acessórias previstas no presente diploma, quando tenha sido decretada medida cautelar de efeito equivalente.
 
-###### Artigo 197.º-A — Efeitos da impugnação judicial
+Artigo 197.º-A
+
+Efeitos da impugnação judicial
 
 1 - A impugnação da decisão administrativa condenatória tem efeito meramente devolutivo, salvo o disposto no número seguinte.
 
@@ -961,39 +1111,53 @@ c) Até à superveniência de decisão administrativa ou judicial que não conde
 
 (a que se refere o artigo 190.º-D)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07200/0000300085.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07200/0000300085.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07200/0000300085.pdf)
 
-###### Artigo 3.º — Revogação
+Artigo 3.º
+
+Revogação
 
 São revogados a alínea i) do n.º 1 do artigo 97.º, os artigos 98.º, 99.º, 100.º, 101.º 102.º, 103.º, 104.º, 105.º, 106.º, 107.º, 108.º, 109.º, o n.º 2 do artigo 161.º, os artigos 162.º, 163.º 164.º, 165.º, 166.º, 167.º, 182.º, 183.º, 185.º, 190.º, os n.os 4 a 7 do artigo 192.º e o artigo 201.º do [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro, alterado e republicado pelo [Decreto Legislativo Regional n.º 31/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2012-178482), de 6 de julho.
 
-###### Artigo 3.º-A — Norma transitória
+Artigo 3.º-A
+
+Norma transitória
 
 O regime de transição para as categorias previstas no artigo 97.º do [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro, alterado e republicado pelo [Decreto Legislativo Regional n.º 31/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-2012-178482), de 6 de julho, com as alterações introduzidas pelo presente diploma, consta de portaria do membro do Governo Regional com competência em matéria de pescas, a aprovar no prazo de 60 dias a contar da data da publicação do presente diploma.
 
-###### Artigo 4.º — Republicação
+Artigo 4.º
+
+Republicação
 
 O [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro, com a redação atual, é devidamente republicado em anexo ao presente diploma, que dele é parte integrante, com as alterações ora introduzidas.
 
-###### Artigo 5.º — Entrada em vigor
+Artigo 5.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de fevereiro de 2020.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 22 de março de 2020.**
+Assinado em Angra do Heroísmo em 22 de março de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO — Republicação do [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro
+ANEXO
 
-### CAPÍTULO I — Disposições gerais
+Republicação do [Decreto Legislativo Regional n.º 29/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2010-309040), de 9 de novembro
 
-###### Artigo 1.º — Objeto
+CAPÍTULO I
+
+Disposições gerais
+
+Artigo 1.º
+
+Objeto
 
 O presente diploma tem por objeto a regulamentação do exercício da pesca e da atividade marítima na pesca, através da definição de medidas adequadas às especificidades do território marítimo dos Açores, abrangendo:
 
@@ -1013,19 +1177,27 @@ g) A formação profissional na pesca, a obtenção e homologação de títulos 
 
 h) Os portos e núcleos de pesca da Região.
 
-###### Artigo 2.º — Território marítimo dos Açores
+Artigo 2.º
+
+Território marítimo dos Açores
 
 Para efeitos do presente diploma, bem como de toda regulamentação relacionada com matérias de pescas, mar e recursos marinhos, o território regional constituído pelas águas interiores, o mar territorial e a plataforma continental contíguos ao arquipélago tomam a designação de território marítimo dos Açores.
 
-###### Artigo 3.º — Território de pesca dos Açores
+Artigo 3.º
+
+Território de pesca dos Açores
 
 Para efeitos do presente diploma, bem como de toda regulamentação relacionada com matérias de pescas, as águas interiores e o mar territorial contíguos ao arquipélago tomam a designação de território de pesca dos Açores.
 
-###### Artigo 4.º — Mar dos Açores
+Artigo 4.º
+
+Mar dos Açores
 
 Para efeitos do presente diploma, bem como de toda regulamentação relacionada com matérias de pescas, mar e recursos marinhos, as águas da subárea dos Açores da zona económica exclusiva (ZEE) portuguesa tomam a designação de Mar dos Açores.
 
-###### Artigo 5.º — Âmbito
+Artigo 5.º
+
+Âmbito
 
 1 - O presente diploma aplica-se a todas as pessoas singulares ou coletivas, nacionais ou estrangeiras, que exerçam a atividade da pesca, no território de pesca dos Açores ou com auxílio de embarcações regionais.
 
@@ -1033,7 +1205,9 @@ Para efeitos do presente diploma, bem como de toda regulamentação relacionada 
 
 3 - O presente diploma define também as normas reguladoras da atividade profissional dos marítimos da área da marinha regional de pesca, incluindo as relativas: à sua inscrição marítima e à emissão de cédulas marítimas; à sua classificação, categorias e requisitos de acesso e funções a desempenhar; à sua formação e certificação, reconhecimento de certificados, recrutamento e regimes de embarque e de desembarque.
 
-###### Artigo 6.º — Definições
+Artigo 6.º
+
+Definições
 
 1 - Para efeitos do presente diploma, bem como de toda regulamentação sobre matérias relacionadas com o setor das pescas, entende-se por:
 
@@ -1089,7 +1263,9 @@ y) «Caldeirada» o pescado distribuído ao pessoal da companha de uma embarcaç
 
 2 - Sempre que tal se justifique, poderá o membro do Governo Regional responsável pelas pescas, após audição das associações representativas do setor da pesca, estabelecer, por despacho ou portaria, outras definições relacionadas com o presente diploma e sua regulamentação.
 
-###### Artigo 7.º — Medidas de conservação, gestão e exploração
+Artigo 7.º
+
+Medidas de conservação, gestão e exploração
 
 1 - As medidas de conservação, gestão e exploração dos recursos vivos marinhos no Mar dos Açores a aplicar às embarcações regionais, aos apanhadores, pescadores submarinos e aos pescadores de costa, bem como a aplicar no território de pesca dos Açores, são definidas por portaria do membro do Governo Regional responsável pelas pescas, e devem assentar na melhor informação científica disponível sobre as espécies ou unidades populacionais e ter em consideração quer os aspetos de natureza biológica e ambiental quer os respeitantes aos fatores sociais e económicos, entre os quais se salientam:
 
@@ -1105,15 +1281,21 @@ e) Ter como objetivo a sustentabilidade a médio e longo prazo da pesca.
 
 2 - No âmbito de um quadro de gestão partilhada, fica o órgão do Governo Regional responsável pelas pescas habilitado a estabelecer, com o órgão próprio do Governo da República, um acordo de cooperação para que as medidas referidas no número anterior possam ser aplicáveis às embarcações nacionais não registadas nos portos da Região, na zona marítima entre o limite exterior do território de pesca dos Açores e o limite exterior do Mar dos Açores.
 
-### CAPÍTULO II — Da pesca
+CAPÍTULO II
 
-###### Artigo 8.º — Limites legais ao exercício da pesca por embarcações regionais
+Da pesca
+
+Artigo 8.º
+
+Limites legais ao exercício da pesca por embarcações regionais
 
 1 - O exercício da pesca por embarcações regionais, seja no Mar dos Açores ou fora deste, está sujeito aos regulamentos aplicáveis da União Europeia e às disposições do presente diploma e seus regulamentos, bem como aos instrumentos internacionais a que Portugal esteja vinculado.
 
 2 - Em qualquer caso, é sempre proibido manter a bordo, transportar, transbordar, desembarcar, armazenar, expor ou vender espécies marinhas cuja pesca não esteja autorizada ou cujos tamanhos ou pesos mínimos não se conformem com o legalmente estabelecido.
 
-###### Artigo 9.º — Condicionamentos ao exercício da pesca
+Artigo 9.º
+
+Condicionamentos ao exercício da pesca
 
 1 - Compete ao membro do Governo Regional responsável pelas pescas estabelecer, por portaria, condicionamentos ao exercício da pesca no Mar dos Açores e prever os critérios e condições para a sua aplicação, com vista a adequar a pesca ao estado de exploração ou à condição dos recursos disponíveis e sua relativa abundância, assegurando, de modo responsável, a conservação dos recursos marinhos e a gestão do setor.
 
@@ -1149,15 +1331,21 @@ n) Fixação das condições de elo socioeconómico regional para as embarcaçõ
 
 3 - As autorizações referidas no número anterior são da competência do membro do Governo Regional responsável pelas pescas.
 
-###### Artigo 10.º — Restrições ao exercício da pesca por outros motivos
+Artigo 10.º
+
+Restrições ao exercício da pesca por outros motivos
 
 O membro do Governo Regional responsável pelas pescas pode estabelecer, por portaria, no Mar dos Açores, a título permanente ou temporário, restrições ao exercício da pesca por motivos de saúde pública, de defesa do ambiente, de investigação marinha, de exploração de recursos não piscatórios, de segurança e normal circulação da navegação ou por outros motivos de interesse público.
 
-###### Artigo 11.º — Regime da pesca com fins lúdicos e turísticos
+Artigo 11.º
+
+Regime da pesca com fins lúdicos e turísticos
 
 O exercício da pesca com fins lúdicos, turísticos ou pesca-turismo é regulado em diploma próprio.
 
-###### Artigo 12.º — Repartição de quotas, licenças de pesca e máximos de captura autorizados
+Artigo 12.º
+
+Repartição de quotas, licenças de pesca e máximos de captura autorizados
 
 1 - Sempre que as atividades das embarcações de pesca regionais estejam sujeitas a limitações de volumes de captura resultantes da fixação de quotas, ou de máximos de captura autorizados, ou de número limitado de licenças disponíveis, o membro do Governo Regional responsável pelas pescas poderá repartir pelo conjunto das embarcações regionais, tendo em conta, nomeadamente, a localização dos pesqueiros e recursos exploráveis, bem como o número de embarcações, suas características, o seu histórico de descargas e zonas de atuação habitual:
 
@@ -1169,7 +1357,9 @@ c) Os máximos de captura de unidades populacionais de certas espécies ou conju
 
 2 - A repartição de partes das quotas, ou de máximos de captura autorizados, por ilha, por embarcações, ou grupos de embarcações regionais, bem como a atribuição das respetivas licenças, é da competência do membro do Governo Regional que tiver a seu cargo o setor das pescas.
 
-###### Artigo 13.º — Métodos de pesca
+Artigo 13.º
+
+Métodos de pesca
 
 1 - No Mar dos Açores, a pesca, sem auxílio de embarcações ou com auxílio de embarcações regionais, só pode ser exercida por meio dos seguintes métodos de pesca:
 
@@ -1189,31 +1379,45 @@ f) Pesca por rede de emalhar.
 
 3 - As disposições reguladoras das características das artes e condições do exercício da pesca por qualquer dos métodos referidos no n.º 1 são aprovadas por portaria do membro do Governo Regional responsável pelo setor das pescas, após audição das associações representativas do setor.
 
-###### Artigo 14.º — Apanha
+Artigo 14.º
+
+Apanha
 
 Por apanha entende-se qualquer método de pesca que se caracteriza por ser uma atividade individual em que, de um modo geral, as mãos desempenham um papel fundamental na captura e recolha das espécies marinhas, podendo ser utilizados pequenos utensílios que facilitem a apanha.
 
-###### Artigo 15.º — Pesca à linha
+Artigo 15.º
+
+Pesca à linha
 
 Por pesca à linha entende-se qualquer método de pesca que se caracteriza pela existência de linhas e um ou mais anzóis.
 
-###### Artigo 16.º — Pesca por armadilha
+Artigo 16.º
+
+Pesca por armadilha
 
 Por pesca por armadilha entende-se qualquer método de pesca passivo que utiliza estruturas destinadas a capturar peixes, crustáceos e cefalópodes e cuja abertura é modelada para que as presas entrem com relativa facilidade, mas que dificulte ou impeça a sua saída.
 
-###### Artigo 17.º — Pesca por arte de levantar
+Artigo 17.º
+
+Pesca por arte de levantar
 
 Por pesca por arte de levantar entende-se qualquer método de pesca que utiliza estruturas de redes que são utilizadas para capturar o peixe com movimentos verticais.
 
-###### Artigo 18.º — Pesca por arte de cerco
+Artigo 18.º
+
+Pesca por arte de cerco
 
 Por pesca por arte de cerco entende-se qualquer método de pesca que utiliza parede de rede sempre longa e alta, que é largada de modo a cercar completamente as presas e a reduzir a sua capacidade de fuga.
 
-###### Artigo 19.º — Pesca por rede de emalhar
+Artigo 19.º
+
+Pesca por rede de emalhar
 
 Por pesca por rede de emalhar entende-se qualquer método de pesca que utiliza estrutura de rede com forma retangular, mantido em posição vertical devido a cabo de flutuação e cabo de lastros, que pode atuar isolada ou em conjunto de várias peças, designadas por caçadas, ficando os espécimes presos na própria rede.
 
-###### Artigo 20.º — Métodos e práticas de pesca proibidos
+Artigo 20.º
+
+Métodos e práticas de pesca proibidos
 
 1 - É proibida a pesca no Mar dos Açores com utilização dos seguintes métodos de pesca:
 
@@ -1235,25 +1439,33 @@ c) Lançar ao mar quaisquer objetos ou substâncias suscetíveis de prejudicar o
 
 3 - Por portaria do membro do Governo Regional responsável pelas pescas, poderá ser proibida a utilização de outros métodos ou práticas de pesca, após audição das associações representativas do setor da pesca.
 
-###### Artigo 21.º — Captura de espécies para fins científicos
+Artigo 21.º
+
+Captura de espécies para fins científicos
 
 1 - A captura de espécies para fins científicos obedece ao disposto no regime jurídico do acesso e utilização de recursos naturais da Região Autónoma dos Açores para fins científicos, previsto no [Decreto Legislativo Regional n.º 9/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2012-553632), de 20 de março, e respetiva legislação regulamentar.
 
 2 - À captura das espécies referidas no número anterior podem não ser aplicáveis os normativos respeitantes a tamanhos mínimos ou as condicionantes previstas no artigo anterior, com exceção da alínea c) do seu n.º 2, desde que previamente autorizado pelo membro do Governo Regional responsável pelas pescas.
 
-###### Artigo 22.º — Captura de espécies destinadas aos estabelecimentos de aquicultura
+Artigo 22.º
+
+Captura de espécies destinadas aos estabelecimentos de aquicultura
 
 1 - A captura de espécies destinadas aos estabelecimentos de aquicultura obedece ao disposto no regime jurídico da aquicultura na Região Autónoma dos Açores, previsto no [Decreto Legislativo Regional n.º 22/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2011-670517), de 4 de julho.
 
 2 - À captura das espécies referidas no número anterior podem não ser aplicáveis os normativos respeitantes a tamanhos mínimos ou as condicionantes previstas no artigo 20.º, com exceção das alíneas b) e c) do seu n.º 2, desde que previamente autorizado pelo membro do Governo Regional responsável pelas pescas.
 
-###### Artigo 23.º — Captura de espécies destinadas a aquários
+Artigo 23.º
+
+Captura de espécies destinadas a aquários
 
 1 - A captura de espécies destinadas a aquários está sujeita a autorização e licenciamento a requerer aos serviços competentes do departamento do Governo Regional responsável pelas pescas.
 
 2 - À captura das espécies referidas no número anterior podem não ser aplicáveis os normativos respeitantes a tamanhos mínimos ou as condicionantes previstas no artigo 20.º, com exceção das alíneas b) e c) do seu n.º 2, desde que previamente autorizado pelo membro do Governo Regional responsável pelas pescas.
 
-###### Artigo 24.º — Locais de pesca proibidos
+Artigo 24.º
+
+Locais de pesca proibidos
 
 O exercício da pesca é proibido:
 
@@ -1261,7 +1473,9 @@ a) Em locais que causem prejuízos à navegação;
 
 b) Nas proximidades de certos locais, nomeadamente esgotos, portos, portinhos, zonas balneares, acessos a estabelecimentos de aquicultura e as zonas de produção natural de recursos vivos, em condições e a distâncias mínimas a definir nos regulamentos de incidência local previstos no artigo 26.º deste diploma.
 
-###### Artigo 25.º — Proibição da pesca em zonas insalubres
+Artigo 25.º
+
+Proibição da pesca em zonas insalubres
 
 1 - Por motivo de ordem sanitária, a pesca pode ser proibida em zonas consideradas insalubres, ou durante períodos bem definidos, por despacho do membro do Governo Regional responsável pelas pescas, após audição da autoridade sanitária.
 
@@ -1269,17 +1483,23 @@ b) Nas proximidades de certos locais, nomeadamente esgotos, portos, portinhos, z
 
 3 - A medida prevista no número anterior tem carácter temporário e carece de confirmação por despacho do membro do Governo Regional responsável pelas pescas nos 30 dias imediatos.
 
-###### Artigo 26.º — Regulamentos de pesca de incidência local
+Artigo 26.º
+
+Regulamentos de pesca de incidência local
 
 O membro do Governo Regional responsável pelas pescas pode estabelecer, mediante portaria, as normas reguladoras do exercício da pesca em determinadas zonas portuárias, costeiras ou marítimas e com marcada especificidade local.
 
-###### Artigo 27.º — Sinalização das artes de pesca de deriva
+Artigo 27.º
+
+Sinalização das artes de pesca de deriva
 
 1 - Os aparelhos de linhas e anzóis de deriva são sinalizados em cada extremidade e a intervalos não superiores a 2 milhas por boias, cada uma com um mastro, guarnecido, de dia, com uma bandeira ou refletor de radar e, de noite, com um farolim.
 
 2 - A extremidade de uma arte que esteja amarrada a uma embarcação não necessita de ser sinalizada.
 
-###### Artigo 28.º — Sinalização das artes de pesca fundeadas horizontalmente
+Artigo 28.º
+
+Sinalização das artes de pesca fundeadas horizontalmente
 
 1 - As redes, aparelhos de linhas e anzóis e outras artes de pesca fundeados e dispostos horizontalmente na água são sinalizados em cada extremidade e a intervalos não superiores a 1 milha por boias, cada uma com um mastro, guarnecido da forma seguinte:
 
@@ -1297,11 +1517,15 @@ b) Boias intermédias - cada uma, de dia, com uma bandeira ou um refletor e, de 
 
 4 - Uma boia suplementar, com um mastro guarnecido, de dia, com uma bandeira ou um refletor de radar e, de noite, com um farolim, pode ser colocada de 70 m a 100 m de distância de cada uma das boias das extremidades, a fim de indicarem a direção em que a arte ou instrumento de pesca está lançado.
 
-###### Artigo 29.º — Sinalização das artes de pesca fundeadas verticalmente
+Artigo 29.º
+
+Sinalização das artes de pesca fundeadas verticalmente
 
 As artes e outros instrumentos de pesca fundeados que se disponham verticalmente na água são sinalizados por uma boia com um mastro, guarnecido, de dia, com uma bandeira ou um refletor de radar e, de noite, com um farolim.
 
-###### Artigo 30.º — Caracterização da sinalização das artes de pesca
+Artigo 30.º
+
+Caracterização da sinalização das artes de pesca
 
 A sinalização das artes e instrumentos de pesca, que tem por fim a segurança da navegação de superfície, obedece às seguintes disposições:
 
@@ -1323,17 +1547,23 @@ iv) Brancas, as das boias intermédias;
 
 e) Os farolins devem ser de luz branca, visíveis a uma distância não inferior a 2 milhas em condições de boa visibilidade.
 
-###### Artigo 31.º — Identificação das artes e apetrechos de pesca
+Artigo 31.º
+
+Identificação das artes e apetrechos de pesca
 
 1 - Para efeitos de identificação e controlo das artes e apetrechos de pesca, pode o membro do Governo Regional responsável pelas pescas estabelecer, por portaria, sistemas de identificação para os mesmos.
 
 2 - Os apetrechos e as artes de pesca encontrados em abandono e sem identificação serão considerados arrojos de mar e destruídos, quando as autoridades de controlo verificarem a impossibilidade de identificação do proprietário.
 
-###### Artigo 32.º — Assinalamento das fases da faina da pesca
+Artigo 32.º
+
+Assinalamento das fases da faina da pesca
 
 No exercício da pesca, as embarcações regionais devem mostrar os faróis, bandeiras e balões prescritos no Regulamento Internacional para Evitar Abalroamentos no Mar (RIEAM).
 
-###### Artigo 33.º — Normas para o exercício da pesca por embarcações
+Artigo 33.º
+
+Normas para o exercício da pesca por embarcações
 
 1 - Sem prejuízo do cumprimento do RIEAM, todas as embarcações regionais devem conduzir a faina e manobras de pesca em obediência às seguintes normas:
 
@@ -1373,7 +1603,9 @@ d) Envidar todos os esforços para recuperar artes de pesca que tenham perdido e
 
 e) Tentar recuperar as artes que tenham feito perder por colisão ou qualquer outra forma de interferência, ficando responsáveis pelo pagamento de todos os prejuízos, exceto se as artes não estavam identificadas conforme se dispõe no presente regulamento.
 
-###### Artigo 34.º — Tamanhos mínimos dos peixes, crustáceos e moluscos
+Artigo 34.º
+
+Tamanhos mínimos dos peixes, crustáceos e moluscos
 
 1 - Nos termos e para os efeitos previstos no [Regulamento (UE) 2019/1241](https://data.europa.eu/eli/reg/2019/1241/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de junho, os peixes, crustáceos e moluscos com tamanho mínimo inferior ao previsto naquele regulamento não sujeitos a obrigação de descarga devem ser imediatamente devolvidos ao mar, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos, colocados à venda ou vendidos.
 
@@ -1383,23 +1615,33 @@ e) Tentar recuperar as artes que tenham feito perder por colisão ou qualquer ou
 
 4 - Os peixes, crustáceos e moluscos são medidos nos termos previstos no [Regulamento (UE) 2019/1241](https://data.europa.eu/eli/reg/2019/1241/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de junho.
 
-###### Artigo 35.º — Áreas ou períodos de interdição ou restrição da pesca
+Artigo 35.º
+
+Áreas ou períodos de interdição ou restrição da pesca
 
 Tendo em conta as informações científicas disponíveis sobre o estado e a evolução dos recursos biológicos e ponderando as implicações económicas e sociais no setor da pesca, poderão ser constituídas, modificadas ou extintas, por portaria do membro do Governo Regional responsável pelas pescas, áreas ou períodos de interdição ou restrições da pesca no Mar dos Açores para os apanhadores, pescadores submarinos, pescadores de costa ou embarcações regionais.
 
-###### Artigo 36.º — Determinação do vazio da malha
+Artigo 36.º
+
+Determinação do vazio da malha
 
 A malhagem das redes, bem como as respetivas regras de utilização e medição são determinadas nos termos do disposto no [Regulamento (CE) n.º 517/2008](https://data.europa.eu/eli/reg/2008/517/oj?locale=pt), da Comissão, de 10 de junho.
 
-###### Artigo 37.º — Operações de transformação para a produção de farinha, óleo ou produtos similares
+Artigo 37.º
+
+Operações de transformação para a produção de farinha, óleo ou produtos similares
 
 1 - Nos termos e para os efeitos previstos no [Regulamento (UE) 2019/1241](https://data.europa.eu/eli/reg/2019/1241/oj?locale=pt), do Parlamento Europeu e do Conselho, de 20 de junho, é proibido realizar a bordo de navios de pesca qualquer transformação física ou química dos peixes para a produção de farinha, óleo ou produtos similares, ou transbordar as capturas para esses efeitos.
 
 2 - O disposto no número anterior não se aplica à transformação de restos de peixe.
 
-### CAPÍTULO III — Do regime de autorização e licenciamento
+CAPÍTULO III
 
-###### Artigo 38.º — Autorização para aquisição, construção e modificação de embarcações de pesca
+Do regime de autorização e licenciamento
+
+Artigo 38.º
+
+Autorização para aquisição, construção e modificação de embarcações de pesca
 
 1 - A aquisição, construção e modificação de embarcações de pesca a registar ou registadas em portos da Região estão sujeitas a autorização prévia do membro do Governo Regional responsável pelas pescas.
 
@@ -1409,7 +1651,9 @@ A malhagem das redes, bem como as respetivas regras de utilização e medição 
 
 4 - Compete ao departamento do Governo Regional responsável pelas pescas aprovar o nome das embarcações a registar na frota regional de pesca, bem como aprovar a alteração do nome de qualquer embarcação regional de pesca.
 
-###### Artigo 39.º — Elementos do pedido
+Artigo 39.º
+
+Elementos do pedido
 
 1 - Os pedidos de autorização referidos no n.º 1 do artigo anterior deverão ser acompanhados dos seguintes elementos:
 
@@ -1423,7 +1667,9 @@ d) Discriminação dos custos do projeto e prova da capacidade financeira do req
 
 2 - Os pedidos de aprovação referidos no n.º 4 do artigo anterior deverão apresentar três nomes por ordem descendente de prioridade.
 
-###### Artigo 40.º — Autorização para o afretamento de embarcações
+Artigo 40.º
+
+Autorização para o afretamento de embarcações
 
 1 - O afretamento de embarcações de pesca, estrangeiras ou nacionais, por pessoas singulares ou coletivas com domicílio ou sede na Região, para o exercício da pesca, está sujeito a autorização do membro do Governo Regional responsável pelo setor das pescas.
 
@@ -1463,7 +1709,9 @@ e) Minuta do contrato de afretamento acordada entre as partes.
 
 10 - Sem prejuízo do disposto no número anterior, a autorização referida no n.º 1 pode ser renovada automaticamente, caso se mantenham as condições que levaram à atribuição da autorização inicial, bem como outras que à data da renovação sejam exigidas, desde que a possibilidade de renovação conste expressamente do despacho a que se refere o número anterior.
 
-###### Artigo 41.º — Autorização para o exercício da atividade e para o uso de artes
+Artigo 41.º
+
+Autorização para o exercício da atividade e para o uso de artes
 
 1 - A concessão das autorizações referidas nos artigos 38.º e 40.º abrangerá automaticamente a autorização para o exercício da pesca pelas embarcações ali mencionadas, bem como para a utilização das artes e para a exploração de espécies expressamente consignadas no ato de autorização.
 
@@ -1481,7 +1729,9 @@ c) Áreas de operação e espécies a explorar, bem como os períodos de utiliza
 
 5 - O membro do Governo Regional responsável pelas pescas poderá fixar, por despacho, números máximos de autorizações para o exercício da pesca, para a atividade das embarcações regionais e para a utilização das artes de pesca.
 
-###### Artigo 42.º — Licenciamento
+Artigo 42.º
+
+Licenciamento
 
 1 - O exercício da pesca e a utilização de artes ou utensílios no território de pesca dos Açores estão sujeitos a licenciamento a requerer anualmente ao membro do Governo Regional responsável pelas pescas.
 
@@ -1499,7 +1749,9 @@ c) Áreas de operação e espécies a explorar, bem como os períodos de utiliza
 
 8 - Poderão ser concedidas licenças excecionais, com qualquer vigência e a todo o tempo revogáveis, quando esteja em causa, nomeadamente, a recolha de espécies para fins científicos, incluindo a experimentação ou para repovoamento, bem como a recolha destinada a estabelecimentos de aquicultura e aquários, desde que controlada pelo departamento do Governo Regional responsável pelas pescas e supervisionada por entidade científica de reconhecido mérito.
 
-###### Artigo 43.º — Critérios e condições
+Artigo 43.º
+
+Critérios e condições
 
 Os critérios e condições relativos ao licenciamento para o exercício da atividade da pesca são fixados por despacho do membro do Governo Regional responsável pelas pescas, tendo em consideração:
 
@@ -1521,7 +1773,9 @@ h) O elo socioeconómico à Região;
 
 i) O histórico da atividade da pesca no Mar dos Açores.
 
-###### Artigo 44.º — Trâmites do licenciamento
+Artigo 44.º
+
+Trâmites do licenciamento
 
 1 - Compete ao departamento do Governo Regional responsável pelas pescas a concessão do licenciamento para o exercício da atividade das embarcações, bem como para as artes por elas utilizadas nos termos definidos no artigo 42.º
 
@@ -1543,13 +1797,17 @@ i) O histórico da atividade da pesca no Mar dos Açores.
 
 10 - As falsas declarações sobre os elementos referidos no n.º 4 serão punidas nos termos da lei.
 
-###### Artigo 45.º — Concessão das licenças
+Artigo 45.º
+
+Concessão das licenças
 
 1 - A renovação das licenças de pesca será sempre concedida aos que a tiverem requerido nos termos do artigo anterior, salvo recusa expressa do departamento do Governo Regional responsável pelas pescas, a comunicar ao requerente, até 30 de novembro de cada ano, com fundamento nos critérios e condições fixados no despacho previsto no artigo 43.º
 
 2 - No caso previsto nos n.os 4 e 7 do artigo anterior, o prazo que o departamento do Governo Regional responsável pelas pescas dispõe para notificar os requerentes é de noventa dias.
 
-###### Artigo 46.º — Emissão e formalização das licenças
+Artigo 46.º
+
+Emissão e formalização das licenças
 
 1 - As licenças de pesca serão tituladas por documento de modelo a aprovar e a emitir pelo membro do Governo Regional responsável pelas pescas.
 
@@ -1565,33 +1823,47 @@ b) Até 30 de novembro de cada ano, as licenças que forem renovadas nesse ano, 
 
 5 - O departamento do Governo Regional responsável pelas pescas poderá proceder à anulação das licenças não levantadas até ao dia 31 de janeiro do ano a que respeitam.
 
-###### Artigo 47.º — Taxas
+Artigo 47.º
+
+Taxas
 
 1 - A concessão de licenças de pesca poderá estar sujeita ao pagamento de taxas pelos respetivos beneficiários, cujos montantes e formas de cobrança serão estabelecidos por despacho do membro do Governo Regional responsável pelas pescas.
 
 2 - Por despacho do membro do Governo Regional responsável pelas pescas, após audição das associações representativas do setor da pesca e do Departamento de Oceanografia e Pescas da Universidade dos Açores, poderão estar isentos de pagamento de taxas beneficiários que utilizem métodos de pesca consonantes com a sustentabilidade do ecossistema marinho.
 
-###### Artigo 48.º — Vistoria das artes e das condições de conservação
+Artigo 48.º
+
+Vistoria das artes e das condições de conservação
 
 As características das artes e de outros instrumentos de pesca, bem como as condições para conservação do pescado a bordo das embarcações regionais, devem ser aprovadas na altura da concessão da licença inicial e verificadas pela Inspeção Regional das Pescas, na medida do possível, com a periodicidade de, pelo menos, uma vez em cada dois anos.
 
-###### Artigo 49.º — Regulamentação complementar
+Artigo 49.º
+
+Regulamentação complementar
 
 O membro do Governo Regional responsável pelas pescas poderá fixar, por portaria, os procedimentos administrativos específicos para a concessão das autorizações e das licenças de pesca referidas no presente capítulo.
 
-###### Artigo 50.º — Registos de atividade
+Artigo 50.º
+
+Registos de atividade
 
 1 - Para além dos registos da atividade da pesca previstos nos regulamentos da União Europeia, o membro do Governo Regional responsável pelas pescas poderá estabelecer, através de portaria, outros registos obrigatórios das atividades da pesca, para fins de informação e controlo.
 
 2 - Os registos obrigatórios mencionados no número anterior integrarão o banco regional de dados para as pescas, gerido pela Inspeção Regional das Pescas.
 
-###### Artigo 51.º — Regime de informação entre o Governo Regional e o Governo da República
+Artigo 51.º
+
+Regime de informação entre o Governo Regional e o Governo da República
 
 Tendo em vista o cumprimento das regras definidas na política comum de pescas, o departamento do Governo Regional responsável pelas pescas dará conhecimento ao órgão competente do Governo da República dos atos relativos às matérias reguladas no presente diploma, bem como das descargas de pescado efetuadas em portos da Região, nomeadamente da composição por espécies e do respetivo peso e valor.
 
-### CAPÍTULO IV — Das embarcações regionais de pesca
+CAPÍTULO IV
 
-###### Artigo 52.º — Classificação das embarcações regionais de pesca
+Das embarcações regionais de pesca
+
+Artigo 52.º
+
+Classificação das embarcações regionais de pesca
 
 As embarcações regionais de pesca, considerando a área em que podem operar, classificam-se em:
 
@@ -1601,7 +1873,9 @@ b) Embarcações regionais de pesca costeira;
 
 c) Embarcações regionais de pesca do largo.
 
-###### Artigo 53.º — Embarcações regionais de pesca local
+Artigo 53.º
+
+Embarcações regionais de pesca local
 
 1 - As embarcações regionais de pesca local são as que podem operar nas seguintes áreas:
 
@@ -1619,7 +1893,9 @@ c) Quando de convés fechado - dentro da zona até às 30 milhas da costa da ilh
 
 5 - Para o efeito do referido no n.º 2, o departamento do Governo Regional responsável pelas pescas pode recorrer a serviços técnicos externos especializados ou a outras entidades com competência na certificação de segurança das embarcações.
 
-###### Artigo 54.º — Embarcações regionais de pesca costeira
+Artigo 54.º
+
+Embarcações regionais de pesca costeira
 
 1 - Sem prejuízo do disposto nos números seguintes, as embarcações regionais de pesca costeira são as que podem operar nas seguintes áreas:
 
@@ -1649,7 +1925,9 @@ f) Nos bancos Josephine e Ampere.
 
 8 - Para o efeito do referido nos n.os 4, 5 e 6, o departamento do Governo Regional responsável pelas pescas pode recorrer a serviços técnicos externos especializados ou a outras entidades com competência na certificação de segurança das embarcações.
 
-###### Artigo 55.º — Embarcações regionais de pesca do largo
+Artigo 55.º
+
+Embarcações regionais de pesca do largo
 
 1 - Sem prejuízo do disposto no número seguinte, as embarcações regionais de pesca do largo são as que podem operar em qualquer área, com exceção do Mar dos Açores.
 
@@ -1657,7 +1935,9 @@ f) Nos bancos Josephine e Ampere.
 
 3 - No caso referido no número anterior, o membro do Governo Regional responsável pelas pescas poderá fixar, para as embarcações de pesca do largo, qualquer distância mínima de operação à costa das ilhas da Região com determinadas artes de pesca, atendendo à necessidade de ordenamento das atividades pesqueiras ou ao interesse de desenvolver determinadas pescarias.
 
-###### Artigo 56.º — Características e requisitos técnicos das embarcações regionais de pesca
+Artigo 56.º
+
+Características e requisitos técnicos das embarcações regionais de pesca
 
 1 - As embarcações regionais de pesca devem possuir as características e os requisitos técnicos que lhes permitam exercer a atividade para que estão autorizadas em condições de segurança com mar grosso e vento fresco, tendo em conta a natureza e extensão das viagens e a distância e localização dos pesqueiros mais afastados em que estão autorizados a operar.
 
@@ -1673,7 +1953,9 @@ d) Certificação técnica e demais documentação de bordo exigível nos termos
 
 e) Condições e outros fatores de higiene e segurança, nomeadamente os constantes da legislação em vigor.
 
-###### Artigo 57.º — Requisitos das embarcações regionais de pesca local
+Artigo 57.º
+
+Requisitos das embarcações regionais de pesca local
 
 Os requisitos específicos a que as embarcações regionais de pesca local devem obedecer, sem prejuízo do disposto nos n.os 2, 3 e 4 do artigo seguinte, são:
 
@@ -1681,7 +1963,9 @@ a) Comprimento de fora-a-fora - até 9 m;
 
 b) Potência do motor - não superior a 100 cv ou 75 kW, quando de convés fechado ou parcialmente fechado, e não superior a 60 cv ou 45 kW, quando de convés aberto.
 
-###### Artigo 58.º — Requisitos das embarcações regionais de pesca costeira
+Artigo 58.º
+
+Requisitos das embarcações regionais de pesca costeira
 
 1 - Os requisitos específicos das embarcações regionais de pesca costeira são:
 
@@ -1697,7 +1981,9 @@ c) Autonomia - estabelecida de acordo com a área de operação fixada para a em
 
 4 - Para o efeito do referido nos n.os 2 e 3, o departamento do Governo Regional responsável pelas pescas pode recorrer a serviços técnicos externos especializados ou a outras entidades com competência na certificação de segurança das embarcações.
 
-###### Artigo 59.º — Requisitos das embarcações regionais de pesca do largo
+Artigo 59.º
+
+Requisitos das embarcações regionais de pesca do largo
 
 Os requisitos específicos das embarcações regionais de pesca do largo são:
 
@@ -1705,9 +1991,13 @@ a) Arqueação - com GT superior a 100;
 
 b) Autonomia - mínimo de quinze dias.
 
-### CAPÍTULO V — Das lotações das embarcações regionais de pesca
+CAPÍTULO V
 
-###### Artigo 60.º — Lotação de segurança das embarcações regionais de pesca
+Das lotações das embarcações regionais de pesca
+
+Artigo 60.º
+
+Lotação de segurança das embarcações regionais de pesca
 
 1 - Por lotação de segurança entende-se o número mínimo de tripulantes fixado para cada embarcação regional, com o objetivo de garantir a segurança da navegação, da embarcação, das pessoas embarcadas, das cargas e capturas e a proteção do meio marinho.
 
@@ -1715,7 +2005,9 @@ b) Autonomia - mínimo de quinze dias.
 
 3 - As embarcações regionais de pesca estão sujeitas ao processo de fixação da lotação de segurança previsto neste diploma.
 
-###### Artigo 61.º — Elementos a ter em conta na fixação da lotação
+Artigo 61.º
+
+Elementos a ter em conta na fixação da lotação
 
 A lotação é fixada tendo em conta, designadamente, os seguintes elementos:
 
@@ -1731,7 +2023,9 @@ e) Artes de pesca licenciadas;
 
 f) A qualificação profissional dos tripulantes.
 
-###### Artigo 62.º — Competência para a fixação da lotação e emissão do respetivo certificado
+Artigo 62.º
+
+Competência para a fixação da lotação e emissão do respetivo certificado
 
 1 - Compete ao departamento do Governo Regional responsável pelas pescas efetuar:
 
@@ -1743,7 +2037,9 @@ c) A fixação da lotação das embarcações autorizadas a registar nos portos 
 
 2 - Para o efeito do referido no número anterior, o departamento do Governo Regional responsável pelas pescas pode recorrer a serviços técnicos externos especializados ou a outras entidades com competência na certificação de segurança das embarcações.
 
-###### Artigo 63.º — Certificado de lotação de segurança
+Artigo 63.º
+
+Certificado de lotação de segurança
 
 1 - O certificado de lotação de segurança é o documento comprovativo da lotação fixada para determinada embarcação regional de pesca.
 
@@ -1751,13 +2047,17 @@ c) A fixação da lotação das embarcações autorizadas a registar nos portos 
 
 3 - O modelo dos certificados de lotação de segurança das embarcações regionais de pesca é aprovado por portaria do membro do Governo Regional responsável pelas pescas.
 
-###### Artigo 64.º — Emissão de certificado provisório de lotação de segurança
+Artigo 64.º
+
+Emissão de certificado provisório de lotação de segurança
 
 1 - No caso de embarcação registada em país comunitário ou em país terceiro, destinada a registar na frota regional de pesca, pode ser emitido um certificado provisório de lotação de segurança válido por período idêntico ao do registo provisório da embarcação.
 
 2 - O modelo de certificado provisório de lotação de segurança de embarcação regional de pesca é aprovado por portaria do membro do Governo Regional responsável pelas pescas.
 
-###### Artigo 65.º — Pedido para a fixação da lotação
+Artigo 65.º
+
+Pedido para a fixação da lotação
 
 1 - O processo de fixação da lotação inicia-se com o requerimento do proprietário dirigido ao departamento do Governo Regional responsável pelas pescas, dele devendo constar a identificação da embarcação, a sua atividade, a área de navegação e o tipo de serviço a que a embarcação se destina.
 
@@ -1777,7 +2077,9 @@ d) Proposta de lotação fundamentada na legislação aplicável.
 
 5 - Caso o departamento do Governo Regional responsável pelas pescas não concorde com a proposta de lotação, deve notificar o requerente para apresentar, no prazo de 30 dias, contados a partir do recebimento da notificação, uma nova proposta de lotação, que tenha em conta as orientações indicadas para o efeito.
 
-###### Artigo 66.º — Remessa do certificado de lotação de segurança ao requerente
+Artigo 66.º
+
+Remessa do certificado de lotação de segurança ao requerente
 
 Emitido o certificado de lotação de segurança, o departamento do Governo Regional responsável pelas pescas deve:
 
@@ -1789,7 +2091,9 @@ c) Enviar cópia autenticada do certificado de lotação de segurança à Direç
 
 d) Facultar cópia do certificado de lotação de segurança às entidades diretamente interessadas que a solicitem.
 
-###### Artigo 67.º — Viagem com lotação diferente da fixada
+Artigo 67.º
+
+Viagem com lotação diferente da fixada
 
 1 - Sem prejuízo do disposto nos números seguintes, as embarcações regionais não podem navegar em desrespeito das normas relativas ao rol da tripulação e ao limite máximo permitido pelos meios de salvação existentes a bordo.
 
@@ -1799,47 +2103,65 @@ d) Facultar cópia do certificado de lotação de segurança às entidades diret
 
 4 - Da autorização deve constar, obrigatoriamente, o número de viagens que a embarcação pode realizar ou o período de tempo que a embarcação pode operar nas condições referidas no número anterior.
 
-###### Artigo 68.º — Embarque de indivíduos para além da lotação
+Artigo 68.º
+
+Embarque de indivíduos para além da lotação
 
 Sem prejuízo do disposto nos n.os 1, 2 e 3 do artigo anterior, o embarque de tripulantes que não constem da lotação de embarcação ou de indivíduos não tripulantes não pode ultrapassar o número máximo de pessoas a embarcar definido no respetivo certificado de lotação de segurança.
 
-###### Artigo 69.º — Revisão das lotações
+Artigo 69.º
+
+Revisão das lotações
 
 1 - As lotações devem ser revistas, a requerimento dos proprietários ou armadores, sempre que se alterem as condições que fundamentaram a sua fixação.
 
 2 - A revisão das lotações implica a emissão de novos certificados, tendo em conta o disposto no artigo 65.º deste diploma.
 
-###### Artigo 70.º — Parecer prévio sobre a lotação
+Artigo 70.º
+
+Parecer prévio sobre a lotação
 
 1 - A requerimento do proprietário ou do armador, o departamento do Governo Regional responsável pelas pescas deve emitir o parecer prévio vinculativo sobre a lotação a atribuir a uma embarcação em construção ou em processo de aquisição.
 
 2 - O parecer prévio deve ser emitido no prazo de 30 dias, contados a partir da receção do requerimento, o qual deve ser acompanhado dos elementos previstos no artigo 65.º deste diploma.
 
-###### Artigo 71.º — Afixação de documentos
+Artigo 71.º
+
+Afixação de documentos
 
 Nas embarcações regionais de pesca com mais de 20 m de comprimento fora-a-fora é obrigatória a afixação do certificado de lotação em local da embarcação facilmente acessível aos tripulantes.
 
-###### Artigo 72.º — Recursos
+Artigo 72.º
+
+Recursos
 
 1 - Da decisão que fixe a lotação de segurança cabe recurso nos termos da lei geral.
 
 2 - A decisão que houver de ser proferida em sede de recurso é precedida, obrigatoriamente, da audição das associações representativas da frota de pesca da ilha em que a embarcação está registada.
 
-### CAPÍTULO VI — Da inscrição marítima
+CAPÍTULO VI
 
-###### Artigo 73.º — Inscrição marítima
+Da inscrição marítima
+
+Artigo 73.º
+
+Inscrição marítima
 
 1 - A inscrição marítima é o ato exigível aos indivíduos que pretendam exercer, como tripulantes de embarcações regionais, as funções correspondentes às categorias dos marítimos ou outras funções legalmente previstas.
 
 2 - Por função entende-se o conjunto autónomo de tarefas, competências, deveres e responsabilidades profissionais dos marítimos que podem corresponder à respetiva categoria ou a categoria diferente ou constar de dispositivos legais em vigor.
 
-###### Artigo 74.º — Inscritos marítimos
+Artigo 74.º
+
+Inscritos marítimos
 
 1 - Os indivíduos que efetuem a inscrição marítima tomam a designação de inscritos marítimos ou, abreviadamente, de marítimos.
 
 2 - Só podem exercer a atividade profissional de marítimos os inscritos marítimos habilitados com as respetivas qualificações profissionais e detentores dos respetivos certificados.
 
-###### Artigo 75.º — Pedido de inscrição marítima
+Artigo 75.º
+
+Pedido de inscrição marítima
 
 1 - A inscrição marítima é requerida em qualquer órgão local da autoridade marítima sediada na Região, devendo o requerente indicar os elementos a integrar no registo, devidamente comprovados por documento.
 
@@ -1859,7 +2181,9 @@ e) Certificado comprovativo de aptidão física e psíquica para o exercício da
 
 f) Fotocópia do boletim individual de saúde, do qual constem as vacinas exigidas pelas disposições legais em vigor.
 
-###### Artigo 76.º — Registo da inscrição marítima
+Artigo 76.º
+
+Registo da inscrição marítima
 
 1 - A inscrição marítima é registada pelo órgão local da autoridade marítima que a efetuar, em livro próprio denominado Livro de Registo da Inscrição Marítima.
 
@@ -1867,25 +2191,33 @@ f) Fotocópia do boletim individual de saúde, do qual constem as vacinas exigid
 
 3 - Os registos e as comunicações referidos no número anterior podem também ser efetuados por via eletrónica.
 
-###### Artigo 77.º — Unicidade e transferência da inscrição
+Artigo 77.º
+
+Unicidade e transferência da inscrição
 
 1 - A cada marítimo só pode corresponder uma inscrição.
 
 2 - É permitido ao inscrito marítimo requerer a transferência da sua inscrição para área diferente daquela em que se encontre inscrito.
 
-###### Artigo 78.º — Nulidade da inscrição
+Artigo 78.º
+
+Nulidade da inscrição
 
 1 - A inscrição marítima é considerada nula quando efetuada com base em falsas declarações ou em documentos falsificados.
 
 2 - São igualmente nulas as inscrições que se seguirem à primeira inscrição, mantendo-se esta válida, desde que efetuadas pelo mesmo marítimo.
 
-###### Artigo 79.º — Movimento de inscrições marítimas
+Artigo 79.º
+
+Movimento de inscrições marítimas
 
 1 - Para efeitos de elaboração e de atualização do registo regional de inscritos marítimos os órgãos locais da autoridade marítima sediados na Região devem comunicar, mensalmente, ao departamento do Governo Regional responsável pelas pescas o movimento de inscrições marítimas.
 
 2 - O movimento de inscrições marítimas compreende a inscrição, o número de cédula atribuído, as mudanças de categoria, a transferência, a suspensão, o cancelamento da inscrição e a renovação da cédula de inscrição marítima.
 
-###### Artigo 80.º — Suspensão da inscrição marítima
+Artigo 80.º
+
+Suspensão da inscrição marítima
 
 1 - A inscrição marítima é suspensa sempre que o marítimo não exerça a atividade profissional de marítimo, pelo menos um ano, durante os últimos cinco anos.
 
@@ -1901,7 +2233,9 @@ c) Desempenho de função correspondente a categoria inferior ou embarque extral
 
 4 - A suspensão da inscrição do marítimo ou o seu levantamento são decretados pelos órgãos locais da autoridade marítima, devendo ser dado conhecimento ao órgão local a que corresponder a inscrição do marítimo.
 
-###### Artigo 81.º — Cancelamento da inscrição marítima na pesca
+Artigo 81.º
+
+Cancelamento da inscrição marítima na pesca
 
 1 - O cancelamento da inscrição marítima tem lugar:
 
@@ -1911,11 +2245,15 @@ b) Por impossibilidade física e definitiva do marítimo para o desempenho de fu
 
 2 - É competente para o cancelamento da inscrição marítima o órgão local da autoridade marítima do porto que corresponder à inscrição do marítimo.
 
-###### Artigo 82.º — Suspensão e cancelamento automático dos certificados dos marítimos
+Artigo 82.º
+
+Suspensão e cancelamento automático dos certificados dos marítimos
 
 A suspensão ou o cancelamento da inscrição marítima implicam a suspensão automática, por igual período, ou o cancelamento automático dos certificados profissionais dos marítimos.
 
-###### Artigo 83.º — Cédula de inscrição marítima
+Artigo 83.º
+
+Cédula de inscrição marítima
 
 1 - A cédula de inscrição marítima, abreviadamente designada cédula, é o documento que habilita o marítimo a exercer as funções correspondentes à categoria ou categorias nela averbadas.
 
@@ -1923,7 +2261,9 @@ A suspensão ou o cancelamento da inscrição marítima implicam a suspensão au
 
 3 - A cédula não dispensa os certificados profissionais exigidos aos marítimos para o exercício de funções específicas a bordo.
 
-###### Artigo 84.º — Emissão das cédulas
+Artigo 84.º
+
+Emissão das cédulas
 
 1 - Efetuadas as inscrições marítimas, devem ser emitidas a favor dos marítimos inscritos as respetivas cédulas.
 
@@ -1935,11 +2275,15 @@ A suspensão ou o cancelamento da inscrição marítima implicam a suspensão au
 
 5 - Os averbamentos, as alterações e as retificações das cédulas são nulos quando efetuados com base em documentos falsos ou por quem não tenha competência para o efeito.
 
-###### Artigo 85.º — Titulares das cédulas
+Artigo 85.º
+
+Titulares das cédulas
 
 As cédulas devem acompanhar, sempre, os respetivos titulares no exercício da sua atividade.
 
-###### Artigo 86.º — Retenção das cédulas
+Artigo 86.º
+
+Retenção das cédulas
 
 1 - As cédulas podem ser retidas pelo órgão local da autoridade marítima do porto que corresponder à inscrição do marítimo quando:
 
@@ -1949,15 +2293,21 @@ b) Tiver expirado o seu prazo de validade.
 
 2 - No caso previsto na alínea a) do número anterior, deve ser fornecida ao marítimo uma guia, válida pelo prazo e nas condições nela indicada, que substituirá a cédula retida.
 
-###### Artigo 87.º — Renovação das cédulas
+Artigo 87.º
+
+Renovação das cédulas
 
 A renovação das cédulas é efetuada pelos órgãos locais da autoridade marítima competentes para a sua emissão.
 
-###### Artigo 88.º — Prazo de validade das cédulas
+Artigo 88.º
+
+Prazo de validade das cédulas
 
 As cédulas são válidas por dez anos.
 
-###### Artigo 89.º — Comprovação da aptidão física e psíquica
+Artigo 89.º
+
+Comprovação da aptidão física e psíquica
 
 1 - A inscrição marítima e o trabalho a bordo dependem da comprovada aptidão física e psíquica dos marítimos.
 
@@ -1969,13 +2319,17 @@ As cédulas são válidas por dez anos.
 
 5 - Os membros do Governo Regional responsáveis pela saúde e pescas podem estabelecer, por portaria, normas relativas à aptidão física e psíquica dos marítimos regionais.
 
-###### Artigo 90.º — Marítimos dispensados de certificados de aptidão física e psíquica
+Artigo 90.º
+
+Marítimos dispensados de certificados de aptidão física e psíquica
 
 1 - Aos marítimos que pretendam prestar serviço a bordo de embarcações de pesca local e costeira do Mar dos Açores, nos termos da legislação em vigor, não é exigível a apresentação de certificados de aptidão física e psíquica, sem prejuízo do seu estado de saúde dever ser assegurado pelo proprietário ou armador das referidas embarcações.
 
 2 - Em situação de comprovada necessidade, o órgão local da autoridade marítima do porto de embarque pode autorizar o embarque de um marítimo que não disponha de certificado de aptidão física e psíquica com vista à realização de uma viagem determinada.
 
-###### Artigo 91.º — Validade dos certificados de aptidão física
+Artigo 91.º
+
+Validade dos certificados de aptidão física
 
 1 - Os certificados de aptidão física e psíquica dos marítimos são válidos por dois anos.
 
@@ -1983,13 +2337,19 @@ As cédulas são válidas por dez anos.
 
 3 - Se o termo da validade de um certificado ocorrer durante uma viagem marítima, o certificado permanece válido até ao fim dessa viagem.
 
-###### Artigo 92.º — Recurso
+Artigo 92.º
+
+Recurso
 
 Da decisão do médico que recusar a emissão de um certificado de aptidão física e psíquica cabe recurso para uma junta médica.
 
-### CAPÍTULO VII — Da classificação, categorias e requisitos de acesso e funções dos marítimos
+CAPÍTULO VII
 
-###### Artigo 93.º — Classificação dos marítimos da pesca
+Da classificação, categorias e requisitos de acesso e funções dos marítimos
+
+Artigo 93.º
+
+Classificação dos marítimos da pesca
 
 1 - Os marítimos são classificados tendo em conta os escalões e as categorias que lhes forem atribuídas nos termos deste diploma e demais legislação complementar.
 
@@ -1997,13 +2357,17 @@ Da decisão do médico que recusar a emissão de um certificado de aptidão fís
 
 3 - As categorias de marítimos que integram cada escalão referido no número anterior constam do artigo 97.º
 
-###### Artigo 94.º — Categorias e requisitos de acesso
+Artigo 94.º
+
+Categorias e requisitos de acesso
 
 1 - Todos os marítimos são titulares de uma categoria a que corresponde um determinado conteúdo funcional.
 
 2 - O acesso do marítimo a uma categoria depende da satisfação dos requisitos relativos à aptidão física e psíquica, à formação e à certificação e ao tempo de embarque ou serviços de mar.
 
-###### Artigo 95.º — Funções dos marítimos
+Artigo 95.º
+
+Funções dos marítimos
 
 Aos marítimos compete exercer as funções correspondentes à sua categoria, podendo ainda exercer funções respeitantes a categoria diferente que já tenham possuído, ainda que inseridas em diferentes setores, áreas de operação ou tipos de embarcações, desde que satisfaçam, cumulativamente, as seguintes condições:
 
@@ -2011,7 +2375,9 @@ a) Estar essa categoria averbada na respetiva cédula e o marítimo não se enco
 
 b) Terem exercido as funções respeitantes a essa categoria pelo menos um ano durante os últimos cinco anos ou satisfazerem um dos pressupostos previstos no n.º 2 do artigo 80.º deste diploma.
 
-###### Artigo 96.º — Exercício de funções correspondentes a categoria diferente
+Artigo 96.º
+
+Exercício de funções correspondentes a categoria diferente
 
 1 - Em situações devidamente justificadas, os marítimos podem ser autorizados a exercer funções correspondentes a categoria diferente, envolvendo áreas de operação ou atividades diferenciadas, devendo ser, previamente, informados sobre essas mesmas funções.
 
@@ -2021,7 +2387,9 @@ b) Terem exercido as funções respeitantes a essa categoria pelo menos um ano d
 
 4 - Do despacho autorizador deve constar, expressamente, o período de validade das autorizações concedidas.
 
-###### Artigo 97.º — Categorias dos escalões da mestrança e marinhagem
+Artigo 97.º
+
+Categorias dos escalões da mestrança e marinhagem
 
 1 - O escalão da mestrança compreende as seguintes categorias:
 
@@ -2061,57 +2429,85 @@ e) Técnico especializado.
 
 5 - Os escalões de mestrança e marinhagem referidos nos n.os 1 e 2 são considerados da área marinha regional de pesca.
 
-###### Artigo 98.º — Mestre do largo pescador
+Artigo 98.º
+
+Mestre do largo pescador
 
 (Revogado.)
 
-###### Artigo 99.º — Mestre costeiro pescador
+Artigo 99.º
+
+Mestre costeiro pescador
 
 (Revogado.)
 
-###### Artigo 100.º — Contramestre-pescador
+Artigo 100.º
+
+Contramestre-pescador
 
 (Revogado.)
 
-###### Artigo 101.º — Arrais de pesca
+Artigo 101.º
+
+Arrais de pesca
 
 (Revogado.)
 
-###### Artigo 102.º — Arrais de pesca local
+Artigo 102.º
+
+Arrais de pesca local
 
 (Revogado.)
 
-###### Artigo 103.º — Marinheiro-pescador e pescador
+Artigo 103.º
+
+Marinheiro-pescador e pescador
 
 (Revogado.)
 
-###### Artigo 104.º — Maquinista prático de 1.ª classe
+Artigo 104.º
+
+Maquinista prático de 1.ª classe
 
 (Revogado.)
 
-###### Artigo 105.º — Maquinista prático de 2.ª classe
+Artigo 105.º
+
+Maquinista prático de 2.ª classe
 
 (Revogado.)
 
-###### Artigo 106.º — Maquinista prático de 3.ª classe
+Artigo 106.º
+
+Maquinista prático de 3.ª classe
 
 (Revogado.)
 
-###### Artigo 107.º — Marinheiro-maquinista e ajudante de maquinista
+Artigo 107.º
+
+Marinheiro-maquinista e ajudante de maquinista
 
 (Revogado.)
 
-###### Artigo 108.º — Cozinheiro
+Artigo 108.º
+
+Cozinheiro
 
 (Revogado.)
 
-###### Artigo 109.º — Ajudante de cozinheiro
+Artigo 109.º
+
+Ajudante de cozinheiro
 
 (Revogado.)
 
-### CAPÍTULO VIII — Do recrutamento e regimes de embarque e desembarque dos marítimos
+CAPÍTULO VIII
 
-###### Artigo 110.º — Recrutamento de marítimos
+Do recrutamento e regimes de embarque e desembarque dos marítimos
+
+Artigo 110.º
+
+Recrutamento de marítimos
 
 1 - Entende-se por recrutamento o processo através do qual um armador ou o seu representante legal seleciona e contrata um marítimo com vista à prestação de serviços a bordo de uma embarcação regional.
 
@@ -2133,7 +2529,9 @@ b) Marítimos nacionais de Estados-Membros da União Europeia ou de países terc
 
 8 - O embarque de marítimos de países terceiros está condicionado à posse de conhecimentos da língua portuguesa.
 
-###### Artigo 111.º — Embarque e desembarque de marítimos
+Artigo 111.º
+
+Embarque e desembarque de marítimos
 
 1 - Por embarque entende-se o processo destinado à inscrição dos marítimos no rol de tripulação de uma embarcação regional.
 
@@ -2141,7 +2539,9 @@ b) Marítimos nacionais de Estados-Membros da União Europeia ou de países terc
 
 3 - Por desembarque entende-se a desvinculação temporária ou definitiva de um tripulante do rol de tripulação e do consequente serviço a bordo de uma embarcação regional.
 
-###### Artigo 112.º — Embarque de indivíduos não marítimos
+Artigo 112.º
+
+Embarque de indivíduos não marítimos
 
 1 - O embarque de indivíduos não marítimos, necessários à exploração comercial ou à operacionalidade de uma embarcação regional de pesca, está dependente de parecer prévio favorável da Direção Regional das Pescas, estando condicionado pelo número máximo de pessoas que podem embarcar e que constem da lista de indivíduos não marítimos, nos termos do n.º 2 do artigo 116.º
 
@@ -2151,7 +2551,9 @@ b) Marítimos nacionais de Estados-Membros da União Europeia ou de países terc
 
 4 - Compete ao departamento do Governo Regional responsável pelas pescas ou ao órgão local da autoridade marítima autorizar o embarque de indivíduos não marítimos a bordo de embarcações regionais de pesca, que não estejam abrangidas no n.º 1 do presente artigo.
 
-###### Artigo 113.º — Documentos para embarque
+Artigo 113.º
+
+Documentos para embarque
 
 1 - Os marítimos só podem embarcar desde que sejam titulares dos seguintes documentos:
 
@@ -2165,7 +2567,9 @@ c) Certificados profissionais ou outros documentos oficiais exigidos para o exer
 
 3 - Em situações de embarque, só é obrigatória a apresentação dos documentos para embarque, quando solicitados pela entidade fiscalizadora competente.
 
-###### Artigo 114.º — Rol de tripulação
+Artigo 114.º
+
+Rol de tripulação
 
 1 - O rol de tripulação é a relação nominal dos marítimos que constituem a tripulação de uma embarcação regional de pesca.
 
@@ -2181,7 +2585,9 @@ c) Certificados profissionais ou outros documentos oficiais exigidos para o exer
 
 7 - A utilização de embarcação regional de pesca em que exista, a bordo, rol de tripulação com prazo de validade caducado ou com falta de registo de tripulante que esteja a bordo, salvo nos casos previstos neste diploma, é considerada como falta de rol de tripulação a bordo.
 
-###### Artigo 115.º — Elaboração do rol de tripulação
+Artigo 115.º
+
+Elaboração do rol de tripulação
 
 1 - O rol de tripulação é elaborado e assinado pelo armador ou, em sua representação, pelo mestre ou arrais da embarcação regional de pesca.
 
@@ -2195,7 +2601,9 @@ c) Certificados profissionais ou outros documentos oficiais exigidos para o exer
 
 6 - O membro do Governo Regional responsável pelas pescas pode estabelecer protocolos com a LOTAÇOR, a RIAC, ou as associações representativas da frota, com vista ao estabelecimento de regras para uma eficaz integração destas entidades nos processos de elaboração e de comunicação do rol de tripulação e da lista de indivíduos não marítimos.
 
-###### Artigo 116.º — Conteúdo do rol de tripulação
+Artigo 116.º
+
+Conteúdo do rol de tripulação
 
 1 - O rol de tripulação deve conter os seguintes elementos:
 
@@ -2211,13 +2619,17 @@ d) Data e prazo de validade do rol.
 
 3 - Se for aplicável um instrumento de regulamentação coletiva de trabalho, o contrato individual pode fazer remissão expressa, total ou parcial, para esse instrumento, que deve ser também apenso ao rol da tripulação.
 
-###### Artigo 117.º — Alterações ao rol de tripulação
+Artigo 117.º
+
+Alterações ao rol de tripulação
 
 1 - O aumento, a redução ou a substituição de tripulantes são obrigatoriamente averbados no rol de tripulação pelo mestre ou arrais e comunicadas de acordo com os procedimentos previstos no artigo 115.º deste regulamento.
 
 2 - As alterações relativas a indivíduos não marítimos embarcados são, igualmente, comunicadas pelo mestre ou arrais, de acordo com os procedimentos previstos no artigo 115.º deste regulamento.
 
-###### Artigo 118.º — Rol de tripulação coletivo
+Artigo 118.º
+
+Rol de tripulação coletivo
 
 1 - Sempre que duas ou mais embarcações de pesca regionais sejam propriedade do mesmo armador, pode ser emitido um rol de tripulação coletivo, conforme modelo aprovado por portaria do membro do Governo Regional responsável pelas pescas.
 
@@ -2233,7 +2645,9 @@ d) Data e prazo de validade do rol.
 
 7 - Ao rol de tripulação coletivo aplicam-se as disposições dos artigos 114.º, 115.º, 116.º e 117.º deste diploma, com as devidas adaptações.
 
-###### Artigo 119.º — Responsabilidade em matéria de recrutamento, de embarque e de desembarque
+Artigo 119.º
+
+Responsabilidade em matéria de recrutamento, de embarque e de desembarque
 
 1 - O armador, o mestre ou arrais da embarcação regional de pesca e os restantes marítimos são responsáveis pelo não cumprimento das disposições aplicáveis ao recrutamento, ao embarque e ao desembarque dos marítimos, nomeadamente quanto às exigências relativas à idade, à aptidão física, às qualificações e à titularidade dos certificados profissionais dos marítimos previstas para o desempenho de funções a bordo.
 
@@ -2241,15 +2655,21 @@ d) Data e prazo de validade do rol.
 
 3 - O mestre ou arrais da embarcação são considerados representantes legais do armador, em relação a atos de gestão ordinária ou extraordinária que devam assumir relativamente à tripulação da embarcação regional de pesca.
 
-### CAPÍTULO IX — Da certificação dos marítimos na área da marinha de pesca açoriana
+CAPÍTULO IX
 
-###### Artigo 120.º — Entidade Certificadora
+Da certificação dos marítimos na área da marinha de pesca açoriana
+
+Artigo 120.º
+
+Entidade Certificadora
 
 1 - Na Região, o departamento do Governo Regional responsável pelas pescas é competente para certificar a aptidão profissional dos marítimos, dos escalões da mestrança e marinhagem, na área da marinha regional de pesca.
 
 2 - O departamento do Governo Regional responsável pelas pescas deve elaborar, desenvolver e divulgar um manual de certificação que descreva os procedimentos relativos à apresentação e à avaliação de candidaturas, à emissão dos respetivos certificados profissionais e às condições de homologação dos cursos de promoção, preparação e formação efetuados na Região relativos aos escalões da mestrança e marinhagem na área da marinha regional de pesca.
 
-###### Artigo 121.º — Certificação dos marítimos
+Artigo 121.º
+
+Certificação dos marítimos
 
 A certificação dos marítimos pode ser efetuada:
 
@@ -2257,7 +2677,9 @@ a) Através de certificados de formação comprovativos de que foram atingidos o
 
 b) Através de certificados profissionais comprovativos da capacidade dos marítimos para o exercício de determinadas funções.
 
-###### Artigo 122.º — Competência para a emissão de diplomas, de certificados de formação e de certificados profissionais
+Artigo 122.º
+
+Competência para a emissão de diplomas, de certificados de formação e de certificados profissionais
 
 1 - O diploma de formação é o documento emitido pela entidade que ministrou o curso de formação, preparação, promoção, qualificação ou reciclagem.
 
@@ -2269,11 +2691,15 @@ b) Através de certificados profissionais comprovativos da capacidade dos marít
 
 5 - Compete ao departamento do Governo Regional responsável pelas pescas efetuar a revalidação de certificados de formação e de certificados profissionais na área da marinha regional de pesca.
 
-###### Artigo 123.º — Registo de certificados
+Artigo 123.º
+
+Registo de certificados
 
 Compete ao departamento do Governo Regional responsável pelas pescas organizar e manter atualizado, na Região, um registo histórico dos certificados profissionais na área da marinha regional de pesca.
 
-###### Artigo 124.º — Certificados a reconhecer pelas autoridades regionais
+Artigo 124.º
+
+Certificados a reconhecer pelas autoridades regionais
 
 1 - O reconhecimento específico ou reconhecimento é o processo destinado a confirmar que o titular do certificado apresentado está apto a exercer atividade, no escalão da mestrança ou da marinhagem, a bordo de embarcação regional de pesca, podendo proceder-se à emissão dos certificados correspondentes ou à autenticação dos certificados apresentados.
 
@@ -2289,19 +2715,25 @@ d) Os certificados de competência emitidos pelas entidades competentes de país
 
 e) Os certificados de formação ou profissionais emitidos pelas entidades competentes de países terceiros, ao abrigo de acordos celebrados em matéria de formação e de certificação.
 
-###### Artigo 125.º — Certificados de competência de um Estado-Membro da União Europeia
+Artigo 125.º
+
+Certificados de competência de um Estado-Membro da União Europeia
 
 1 - O reconhecimento destina-se a reconhecer o certificado de competência emitido ou reconhecido por um Estado-Membro e de que seja titular um nacional de um Estado-Membro ou de um país terceiro.
 
 2 - Os certificados de competência referidos no n.º 1 também abrangem os certificados para o exercício das funções de operador de rádio no Sistema Mundial de Socorro e Segurança Marítima (GMDSS).
 
-###### Artigo 126.º — Entidade competente para o reconhecimento
+Artigo 126.º
+
+Entidade competente para o reconhecimento
 
 1 - A entidade competente para o reconhecimento de certificados, na área da marinha regional de pesca, no âmbito do presente diploma, é o departamento do Governo Regional responsável pelas pescas.
 
 2 - No reconhecimento de certificados deve ter-se em conta a legislação aplicável em matéria de reciprocidade de tratamento, sem prejuízo do disposto na legislação comunitária ou do direito internacional convencional.
 
-###### Artigo 127.º — Requerimento e processo do pedido de reconhecimento de certificados emitidos por um Estado-Membro da União Europeia
+Artigo 127.º
+
+Requerimento e processo do pedido de reconhecimento de certificados emitidos por um Estado-Membro da União Europeia
 
 1 - O pedido de reconhecimento é formulado ao departamento do Governo Regional responsável pelas pescas, através de requerimento redigido em língua portuguesa, contendo os seguintes elementos:
 
@@ -2323,7 +2755,9 @@ d) Cópia autenticada do certificado de aptidão física e psíquica.
 
 3 - Os documentos referidos no número anterior devem, em caso de justificada necessidade, ser acompanhados de tradução devidamente legalizada, designadamente pelos serviços notariais ou consulares.
 
-###### Artigo 128.º — Análise do pedido de reconhecimento de um certificado emitido por um Estado-Membro da União Europeia
+Artigo 128.º
+
+Análise do pedido de reconhecimento de um certificado emitido por um Estado-Membro da União Europeia
 
 1 - O departamento do Governo Regional responsável pelas pescas procederá à análise do pedido, tendo em conta, nomeadamente:
 
@@ -2341,7 +2775,9 @@ b) Estabelecer as regras de funcionamento e de execução das medidas de compens
 
 c) Esclarecer o requerente e prestar-lhe as informações relevantes de natureza técnica, laboral ou social relativas ao exercício da atividade marítima.
 
-###### Artigo 129.º — Decisão
+Artigo 129.º
+
+Decisão
 
 A decisão dos pedidos de reconhecimento formulados pode revestir a forma de:
 
@@ -2351,7 +2787,9 @@ b) Deferimento condicionado;
 
 c) Indeferimento.
 
-###### Artigo 130.º — Deferimento do pedido
+Artigo 130.º
+
+Deferimento do pedido
 
 O deferimento do processo pelo departamento do Governo Regional responsável pelas pescas confere ao requerente para efeitos de exercício da atividade profissional a bordo das embarcações regionais de pesca a possibilidade de:
 
@@ -2359,17 +2797,23 @@ a) Obter a autentificação do certificado reconhecido;
 
 b) Obter a inscrição marítima e a cédula marítima nacional na categoria atribuída no âmbito da marinhagem e mestrança da marinha regional de pesca.
 
-###### Artigo 131.º — Autenticação dos certificados de competência
+Artigo 131.º
+
+Autenticação dos certificados de competência
 
 1 - Os certificados de competência reconhecidos são autenticados por documento cujo modelo é definido por portaria do membro do Governo Regional responsável pelas pescas.
 
 2 - O documento de autenticação produz efeitos nos exatos termos previstos no certificado de competência reconhecido e, em qualquer caso, caduca após um período de cinco anos, a contar da data da sua emissão.
 
-###### Artigo 132.º — Deferimento condicionado do pedido
+Artigo 132.º
+
+Deferimento condicionado do pedido
 
 Nos casos de deferimento condicionado do pedido, o departamento do Governo Regional responsável pelas pescas pode exigir ao requerente a comprovação ou a satisfação de uma das medidas de compensação previstas no artigo seguinte, se forem constatadas diferenças significativas na formação profissional, quer em termos de duração, quer de conteúdo programático.
 
-###### Artigo 133.º — Medidas de compensação
+Artigo 133.º
+
+Medidas de compensação
 
 1 - No caso de deferimento condicionado, o departamento do Governo Regional responsável pelas pescas pode exigir ao requerente uma das seguintes medidas de compensação:
 
@@ -2381,11 +2825,15 @@ b) Prestação de uma prova de aptidão.
 
 3 - Para o efeito de realização de provas de aptidão, o departamento do Governo Regional responsável pelas pescas pode recorrer também a serviços técnicos externos especializados ou a outras entidades com experiência ou competência na formação de marítimos.
 
-###### Artigo 134.º — Indeferimento do pedido
+Artigo 134.º
+
+Indeferimento do pedido
 
 O indeferimento do pedido só é admissível em caso de manifesta inviabilidade do mesmo, devido à não satisfação, nomeadamente, das qualificações profissionais exigidas para o exercício das funções das categorias em causa.
 
-###### Artigo 135.º — Prazos para a decisão
+Artigo 135.º
+
+Prazos para a decisão
 
 1 - O prazo para proferir a decisão é de cento e vinte dias contados a partir da data da receção do pedido.
 
@@ -2393,7 +2841,9 @@ O indeferimento do pedido só é admissível em caso de manifesta inviabilidade 
 
 3 - Decorrido o prazo fixado no n.º 1 sem que tenha sido comunicada qualquer decisão, cabe recurso nos termos gerais.
 
-###### Artigo 136.º — Exercício provisório de funções
+Artigo 136.º
+
+Exercício provisório de funções
 
 1 - O marítimo titular de um certificado de competência, em processo de reconhecimento, pode ser autorizado pelo departamento do Governo Regional responsável pelas pescas e, em circunstâncias especiais, a desempenhar funções, em embarcações regionais de pesca, correspondentes às especificadas no certificado apresentado durante um período não superior a um ano.
 
@@ -2401,7 +2851,9 @@ O indeferimento do pedido só é admissível em caso de manifesta inviabilidade 
 
 3 - O original do certificado submetido a reconhecimento, bem como a declaração a que se refere o número anterior, devem estar disponíveis a bordo da embarcação em que o titular preste serviço.
 
-###### Artigo 137.º — Requerimento e processo de reconhecimento de certificados de competência emitidos por países terceiros
+Artigo 137.º
+
+Requerimento e processo de reconhecimento de certificados de competência emitidos por países terceiros
 
 1 - O pedido de reconhecimento de um certificado de competência emitido por um país terceiro é formulado através de requerimento, dirigido ao departamento do Governo Regional responsável pelas pescas, deve ser redigido em língua portuguesa e conter os seguintes elementos:
 
@@ -2419,7 +2871,9 @@ c) Cópia autenticada do certificado de aptidão física e psíquica.
 
 3 - Os documentos referidos no número anterior devem, em caso de justificada necessidade, ser acompanhados de tradução devidamente legalizada, designadamente, pelos serviços notariais ou consulares.
 
-###### Artigo 138.º — Análise do pedido de reconhecimento de certificados de competência emitidos por países terceiros
+Artigo 138.º
+
+Análise do pedido de reconhecimento de certificados de competência emitidos por países terceiros
 
 Ao analisar o pedido de reconhecimento o departamento do Governo Regional responsável pelas pescas deve:
 
@@ -2429,7 +2883,9 @@ b) Verificar se os requerentes possuem conhecimentos da legislação marítima n
 
 c) Esclarecer o requerente e prestar as informações pertinentes, de natureza técnica, laboral ou social relativas ao exercício da atividade marítima em embarcações regionais de pesca.
 
-###### Artigo 139.º — Decisão do pedido de reconhecimento de certificados de competência emitidos por países terceiros
+Artigo 139.º
+
+Decisão do pedido de reconhecimento de certificados de competência emitidos por países terceiros
 
 1 - A decisão dos pedidos de reconhecimento pode revestir a forma de:
 
@@ -2447,13 +2903,19 @@ b) Quando não haja confirmação, por parte da entidade competente do país ter
 
 4 - À decisão aplicam-se os prazos previstos no artigo 135.º do presente diploma.
 
-###### Artigo 140.º — Embarque provisório de marítimo de país terceiro
+Artigo 140.º
+
+Embarque provisório de marítimo de país terceiro
 
 Na pendência de um processo de reconhecimento de certificados pode ser autorizado, pelo departamento do Governo Regional responsável pelas pescas, o embarque provisório de um marítimo numa embarcação de pesca regional, de acordo com o estabelecido no artigo 136.º do presente diploma.
 
-### CAPÍTULO X — Dos certificados profissionais dos marítimos na área da marinha de pesca açoriana
+CAPÍTULO X
 
-###### Artigo 141.º — Tipos de certificados profissionais dos marítimos
+Dos certificados profissionais dos marítimos na área da marinha de pesca açoriana
+
+Artigo 141.º
+
+Tipos de certificados profissionais dos marítimos
 
 1 - Os certificados profissionais dos marítimos abrangidos pelo presente diploma são emitidos, sob as seguintes formas:
 
@@ -2465,7 +2927,9 @@ b) Certificados diversos.
 
 3 - Os modelos dos certificados profissionais dos marítimos, na área da marinha regional de pesca, são aprovados por portaria do membro do Governo Regional responsável pelas pescas.
 
-###### Artigo 142.º — Tipos de certificados nos termos do RR/UIT
+Artigo 142.º
+
+Tipos de certificados nos termos do RR/UIT
 
 1 - Os certificados emitidos nos termos do RR/UIT, referidos na alínea a) do n.º 1 do artigo anterior, compreendem:
 
@@ -2477,7 +2941,9 @@ b) Os certificados para o serviço de radiocomunicações em embarcações regio
 
 3 - Os marítimos dos escalões da mestrança e marinhagem podem requerer a emissão dos certificados referidos no n.º 1, com dispensa do citado exame, sem prejuízo de outros requisitos específicos estabelecidos para efeitos da obtenção de cada certificado, sempre que a frequência de cursos ministrados na área da marinha regional de pesca inclua os conhecimentos respeitantes ao programa dos exames.
 
-###### Artigo 143.º — Certificados para o serviço de radiocomunicações em embarcações regionais equipadas com o GMDSS
+Artigo 143.º
+
+Certificados para o serviço de radiocomunicações em embarcações regionais equipadas com o GMDSS
 
 1 - Os certificados para o serviço de radiocomunicações em embarcações regionais equipadas com o GMDSS referidos na alínea a) do n.º 1 do artigo anterior compreendem:
 
@@ -2497,23 +2963,33 @@ d) Certificado de operador de rádio no GMDSS na área Marítima A1 nacional.
 
 5 - Os certificados referidos no n.º 1 podem ser conferidos, sem prejuízo do disposto no n.º 2 do artigo anterior, aos marítimos de qualquer categoria que reúnam condições para a dispensa de exame, nos termos do n.º 3 do mesmo artigo.
 
-###### Artigo 144.º — Certificado geral de operador no GMDSS
+Artigo 144.º
+
+Certificado geral de operador no GMDSS
 
 O certificado geral de operador no GMDSS confere ao marítimo a competência para operar o equipamento de rádio das embarcações regionais equipadas com o GMDSS e que naveguem em qualquer área marítima.
 
-###### Artigo 145.º — Certificado restrito de operador no GMDSS
+Artigo 145.º
+
+Certificado restrito de operador no GMDSS
 
 O certificado restrito de operador no GMDSS confere ao marítimo a competência para operar o equipamento de rádio das embarcações regionais equipadas com o GMDSS e que naveguem exclusivamente nas áreas marítimas A1.
 
-###### Artigo 146.º — Certificado de operador de rádio no GMDSS nas áreas marítimas A1 e A2 nacionais
+Artigo 146.º
+
+Certificado de operador de rádio no GMDSS nas áreas marítimas A1 e A2 nacionais
 
 O certificado de operador de rádio nas áreas marítimas A1 e A2 nacionais confere ao marítimo a competência para operar o equipamento de rádio das embarcações regionais equipadas com o GMDSS, que naveguem nas áreas marítimas A1 a A2 nacionais e apenas estabeleçam comunicação com estações costeiras nacionais.
 
-###### Artigo 147.º — Certificado de operador de rádio no GMDSS na área marítima A1 nacional
+Artigo 147.º
+
+Certificado de operador de rádio no GMDSS na área marítima A1 nacional
 
 O certificado de operador de rádio na área marítima A1 nacional confere ao marítimo a competência para operar o equipamento de rádio das embarcações regionais equipadas com o GMDSS, que naveguem exclusivamente na área A1 nacional e apenas estabeleçam comunicação com estações costeiras nacionais.
 
-###### Artigo 148.º — Certificados para o serviço de radiocomunicações em embarcações regionais não equipadas com o GMDSS
+Artigo 148.º
+
+Certificados para o serviço de radiocomunicações em embarcações regionais não equipadas com o GMDSS
 
 1 - Os certificados para o serviço de radiocomunicações em embarcações regionais não equipadas com o GMDSS referidos na alínea b) do n.º 1 do artigo 142.º compreendem:
 
@@ -2533,23 +3009,33 @@ d) Certificado de operador radiotelefonista da classe B.
 
 5 - Os certificados referidos no n.º 1 podem ser conferidos, sem prejuízo do disposto no n.º 2 do artigo 142.º, aos marítimos de qualquer categoria que reúnam condições para a dispensa de exame, nos termos do n.º 3 do mesmo artigo.
 
-###### Artigo 149.º — Certificado geral de operador radiotelefonista
+Artigo 149.º
+
+Certificado geral de operador radiotelefonista
 
 O certificado geral de operador radiotelefonista confere ao marítimo competência para operar o equipamento radiotelefónico em embarcações regionais não equipadas com o GMDSS.
 
-###### Artigo 150.º — Certificado restrito de operador radiotelefonista
+Artigo 150.º
+
+Certificado restrito de operador radiotelefonista
 
 O certificado restrito de operador radiotelefonista confere ao marítimo a competência para operar o equipamento radiotelefónico em embarcações regionais não equipadas com o GMDSS, só na banda de ondas métricas (VHF) ou nas bandas de ondas hectométricas (MF) e métricas (VHF), devendo esta limitação constar do rosto do certificado.
 
-###### Artigo 151.º — Certificado de operador radiotelefonista da classe A
+Artigo 151.º
+
+Certificado de operador radiotelefonista da classe A
 
 O certificado de operador radiotelefonista da classe A confere ao marítimo a competência para operar o equipamento radiotelefónico em embarcações regionais, locais e costeiras, não equipadas com o GMDSS, só nas bandas de ondas hectométricas (MF), só nas bandas de ondas métricas (VHF) ou nas bandas de ondas hectométricas (MF) e métricas (VHF) que apenas estabeleçam comunicação com estações costeiras nacionais, devendo esta limitação constar do rosto do certificado.
 
-###### Artigo 152.º — Certificado de operador radiotelefonista da classe B
+Artigo 152.º
+
+Certificado de operador radiotelefonista da classe B
 
 O certificado de operador radiotelefonista da classe B confere ao marítimo competência para operar o equipamento radiotelefónico em embarcações regionais, locais e costeiras, não equipadas com o GMDSS, nas bandas de ondas métricas (VHF), que apenas estabeleçam comunicação com estações costeiras nacionais, devendo esta limitação constar do rosto do certificado.
 
-###### Artigo 153.º — Certificados diversos
+Artigo 153.º
+
+Certificados diversos
 
 1 - Os certificados diversos referidos na alínea b) do n.º 1 do artigo 141.º deste regulamento compreendem:
 
@@ -2567,27 +3053,39 @@ d) Certificado de segurança e sobrevivência no mar.
 
 4 - Os marítimos podem requerer a emissão dos certificados previstos neste artigo, com dispensa do referido exame, sempre que a frequência de cursos ministrados no âmbito da formação na área da marinha regional de pesca inclua os conhecimentos respeitantes ao programa dos exames para a obtenção destes mesmos certificados.
 
-###### Artigo 154.º — Certificado para a condução de motores de potência igual ou inferior a 150 kW
+Artigo 154.º
+
+Certificado para a condução de motores de potência igual ou inferior a 150 kW
 
 O certificado para a condução de motores de potência igual ou inferior a 150 kW confere ao marítimo competência para exercer as funções correspondentes à categoria de maquinista prático de 3.ª classe em embarcações regionais com máquinas propulsoras de combustão interna de potência igual ou inferior a 150 kW, sem prejuízo de poder acumular as funções referidas com as que correspondem à sua categoria.
 
-###### Artigo 155.º — Certificado para a condução de motores de potência igual ou inferior a 250 kW
+Artigo 155.º
+
+Certificado para a condução de motores de potência igual ou inferior a 250 kW
 
 O certificado para a condução de motores de potência igual ou inferior a 250 kW confere ao marítimo competência para exercer as funções correspondentes à categoria de maquinista prático de 3.ª classe em embarcações regionais com máquinas propulsoras de combustão interna de potência igual ou inferior a 250 kW, sem prejuízo de poder acumular as funções referidas com as que correspondem à sua categoria.
 
-###### Artigo 156.º — Certificado para a condução de motores de potência igual ou inferior a 350 kW
+Artigo 156.º
+
+Certificado para a condução de motores de potência igual ou inferior a 350 kW
 
 O certificado para a condução de motores de potência igual ou inferior a 350 kW confere ao marítimo competência para exercer as funções correspondentes à categoria de maquinista prático de 3.ª classe em embarcações regionais com máquinas propulsoras de combustão interna de potência igual ou inferior a 350 kW, sem prejuízo de poder acumular as funções referidas com as que correspondem à sua categoria.
 
-###### Artigo 157.º — Certificado de segurança e sobrevivência no mar
+Artigo 157.º
+
+Certificado de segurança e sobrevivência no mar
 
 1 - O certificado de segurança e sobrevivência no mar é conferido ao indivíduo que, pretendendo efetuar a sua inscrição marítima, obtenha aprovação em exame a realizar para o efeito.
 
 2 - Os marítimos podem requerer a emissão do certificado previsto no número anterior, com dispensa do referido exame, sempre que a frequência de cursos ministrados no âmbito da formação na área da marinha regional de pesca inclua os conhecimentos respeitantes ao programa dos exames para a obtenção destes mesmos certificados.
 
-### CAPÍTULO XI — Da formação dos marítimos na área da marinha de pesca açoriana
+CAPÍTULO XI
 
-###### Artigo 158.º — Objeto da formação e certificação de marítimos na área da marinha de pesca açoriana
+Da formação dos marítimos na área da marinha de pesca açoriana
+
+Artigo 158.º
+
+Objeto da formação e certificação de marítimos na área da marinha de pesca açoriana
 
 A formação e a certificação dos marítimos na Região, na área da marinha regional de pesca, deve ser estabelecida por cursos, exames e certificados adequados que lhes permitam:
 
@@ -2597,17 +3095,23 @@ b) Obter o certificado profissional de marítimo indispensável ao exercício de
 
 c) Efetuar a reciclagem ou a atualização dos seus conhecimentos.
 
-###### Artigo 159.º — Acreditação das entidades formadoras
+Artigo 159.º
+
+Acreditação das entidades formadoras
 
 Compete ao departamento do Governo Regional responsável pelas pescas efetuar a acreditação das entidades formadoras, localizadas na Região, na área da marinha regional de pesca.
 
-###### Artigo 160.º — Criação e homologação de cursos
+Artigo 160.º
+
+Criação e homologação de cursos
 
 1 - Compete ao departamento do Governo Regional responsável pelas pescas criar e homologar os cursos a ministrar para o exercício da atividade de marítimo.
 
 2 - O conteúdo dos cursos referidos no número anterior é definido por portaria conjunta dos membros do Governo Regional com competência em matéria de educação, formação profissional e pescas.
 
-###### Artigo 161.º — Cursos ministrados ou a ministrar aos marítimos na área da marinha de pesca açoriana
+Artigo 161.º
+
+Cursos ministrados ou a ministrar aos marítimos na área da marinha de pesca açoriana
 
 1 - Os cursos a ministrar para o exercício da atividade de marítimo são os seguintes:
 
@@ -2623,37 +3127,53 @@ e) De reciclagem e de atualização.
 
 2 - (Revogado.)
 
-###### Artigo 162.º — Tipos de cursos na área da marinha de pesca açoriana
+Artigo 162.º
+
+Tipos de cursos na área da marinha de pesca açoriana
 
 (Revogado.)
 
-###### Artigo 163.º — Cursos de promoção para a mestrança na área da marinha de pesca açoriana
+Artigo 163.º
+
+Cursos de promoção para a mestrança na área da marinha de pesca açoriana
 
 (Revogado.)
 
-###### Artigo 164.º — Cursos de formação e preparação para a marinhagem na área da marinha de pesca açoriana
+Artigo 164.º
+
+Cursos de formação e preparação para a marinhagem na área da marinha de pesca açoriana
 
 (Revogado.)
 
-###### Artigo 165.º — Cursos de qualificação
+Artigo 165.º
+
+Cursos de qualificação
 
 (Revogado.)
 
-###### Artigo 166.º — Dispensa do curso de qualificação
+Artigo 166.º
+
+Dispensa do curso de qualificação
 
 (Revogado.)
 
-###### Artigo 167.º — Cursos de reciclagem
+Artigo 167.º
+
+Cursos de reciclagem
 
 (Revogado.)
 
-###### Artigo 168.º — Entidades que ministram os cursos
+Artigo 168.º
+
+Entidades que ministram os cursos
 
 1 - Os cursos destinados a marítimos dos escalões da mestrança e da marinhagem, na área da marinha regional de pesca, são ministrados pelo departamento do Governo Regional responsável pelas pescas ou por estabelecimentos de formação que tenham sido objeto de acreditação junto daquele departamento, de acordo com as regras aplicáveis.
 
 2 - Para efeito de ministrar cursos, o departamento do Governo Regional responsável pelas pescas pode recorrer também a serviços técnicos externos especializados ou a outras entidades com experiência ou competência na formação de marítimos.
 
-###### Artigo 169.º — Exames dos marítimos da área da marinha de pesca açoriana
+Artigo 169.º
+
+Exames dos marítimos da área da marinha de pesca açoriana
 
 1 - Os exames destinam-se à avaliação dos conhecimentos e da aptidão dos marítimos para o exercício das funções correspondentes a determinada categoria de ingresso ou de acesso ou das que resultarem do certificado exigido para o efeito.
 
@@ -2667,7 +3187,9 @@ c) O levantamento da suspensão da inscrição marítima ou da suspensão do exe
 
 3 - Para efeito da realização de exames, o departamento do Governo Regional responsável pelas pescas pode recorrer também a serviços técnicos externos especializados ou a outras entidades com experiência ou competência na formação de marítimos.
 
-###### Artigo 170.º — Requisitos gerais e específicos para admissão a exame
+Artigo 170.º
+
+Requisitos gerais e específicos para admissão a exame
 
 1 - Os candidatos que pretendam ser admitidos a exame devem comprovar:
 
@@ -2679,7 +3201,9 @@ b) A sua aptidão física e psíquica comprovada por certificado.
 
 3 - Os requisitos específicos são os exigidos para efeitos de acesso a determinada categoria, condicionada a exame, ou para a obtenção de um certificado profissional de marítimo.
 
-###### Artigo 171.º — Pedido, épocas e locais de exame
+Artigo 171.º
+
+Pedido, épocas e locais de exame
 
 1 - Os exames previstos neste diploma são requeridos ao membro do Governo Regional responsável pelas pescas.
 
@@ -2687,11 +3211,15 @@ b) A sua aptidão física e psíquica comprovada por certificado.
 
 3 - Os exames são realizados em qualquer época do ano, nos locais que forem indicados aos requerentes, pelo departamento do Governo Regional responsável pelas pescas.
 
-###### Artigo 172.º — Programas de exames
+Artigo 172.º
+
+Programas de exames
 
 Os programas de exames, a serem aprovados pelo membro do Governo Regional responsável pelas pescas, são elaborados e propostos pelos serviços competentes do departamento do Governo Regional responsável pelas pescas ou propostos em conjunto com as entidades acreditadas.
 
-###### Artigo 173.º — Provas de exame
+Artigo 173.º
+
+Provas de exame
 
 1 - Os exames constam de prova escrita, oral e, caso aplicável, prova prática.
 
@@ -2701,7 +3229,9 @@ Os programas de exames, a serem aprovados pelo membro do Governo Regional respon
 
 4 - A prova prática deve ser efetuada em embarcações, de preferência do mesmo tipo daquelas em que o marítimo vai exercer a sua atividade.
 
-###### Artigo 174.º — Júris dos exames
+Artigo 174.º
+
+Júris dos exames
 
 1 - Os júris dos exames são constituídos por um presidente e dois vogais.
 
@@ -2713,7 +3243,9 @@ Os programas de exames, a serem aprovados pelo membro do Governo Regional respon
 
 5 - Desde que regularmente constituído e convocado, o júri pode funcionar com dois membros, se um deles for o presidente e o outro o elemento qualificado de acordo com o número anterior, tendo, neste caso, o presidente voto de qualidade.
 
-###### Artigo 175.º — Recurso hierárquico
+Artigo 175.º
+
+Recurso hierárquico
 
 1 - As deliberações dos júris são suscetíveis de recurso para o membro do Governo Regional responsável pelas pescas.
 
@@ -2721,25 +3253,35 @@ Os programas de exames, a serem aprovados pelo membro do Governo Regional respon
 
 3 - Do novo júri não pode fazer parte qualquer membro do júri anterior.
 
-###### Artigo 176.º — Livro de termos de exame
+Artigo 176.º
+
+Livro de termos de exame
 
 1 - Os resultados dos exames são registados em livros de termos de exame.
 
 2 - Cada termo de exame só pode referir-se a um único exame de um só candidato e é sempre assinado por todos os membros do júri.
 
-###### Artigo 177.º — Diploma de exame
+Artigo 177.º
+
+Diploma de exame
 
 Ao marítimo que obtenha aprovação em exame é passado o correspondente diploma pelo departamento do Governo Regional responsável pelas pescas, com base no termo de exame.
 
-### CAPÍTULO XII — Da fiscalização e da responsabilidade contraordenacional
+CAPÍTULO XII
 
-###### Artigo 178.º — Fiscalização de atividades
+Da fiscalização e da responsabilidade contraordenacional
+
+Artigo 178.º
+
+Fiscalização de atividades
 
 1 - A vigilância, fiscalização e controlo das atividades previstas no presente diploma e na regulamentação complementar compete às unidades navais da Armada e aos órgãos locais da Autoridade Marítima, à Guarda Nacional Republicana, à Inspeção Regional das Pescas e demais entidades, órgãos ou serviços regionais, no âmbito das competências que lhes estejam legalmente conferidas relativamente a estas matérias.
 
 2 - As entidades, órgãos e serviços referidos no número anterior levantam o respetivo auto de notícia, tomando, de acordo com a lei, as necessárias medidas cautelares quando, no exercício das suas funções, verificarem ou comprovarem pessoal e diretamente, ainda que por forma não imediata, a prática de qualquer contraordenação prevista neste diploma, remetendo-o às entidades competentes para investigação e instrução dos processos, no caso de tal competência não lhes estar atribuída.
 
-###### Artigo 178.º-A — Controlo, inspeção e vigilância
+Artigo 178.º-A
+
+Controlo, inspeção e vigilância
 
 1 - Sem prejuízo do disposto em legislação específica, no exercício das suas funções, os inspetores das pescas gozam dos seguintes poderes e prerrogativas:
 
@@ -2783,7 +3325,9 @@ s) Definir e efetuar procedimentos de cruzamento de dados e de análise de risco
 
 2 - O procedimento para a colheita de amostras a que se refere a alínea p) do número anterior é fixado por despacho do membro do Governo Regional com competência em matéria de pescas.
 
-###### Artigo 179.º — Sistema de monitorização contínua da atividade da pesca
+Artigo 179.º
+
+Sistema de monitorização contínua da atividade da pesca
 
 1 - Cabe à Inspeção Regional das Pescas o controlo e monitorização do MONICAP de todas as embarcações regionais, nacionais ou estrangeiras, em atividade no Mar dos Açores.
 
@@ -2791,25 +3335,35 @@ s) Definir e efetuar procedimentos de cruzamento de dados e de análise de risco
 
 3 - O membro do Governo Regional responsável pelas pescas poderá estabelecer, através de portaria, a obrigatoriedade de instalação do sistema MONICAP, ou outros sistemas de identificação, localização ou monitorização, em qualquer embarcação regional de pesca licenciada para determinadas artes ou para operar em locais específicos, para fins de controlo e fiscalização da atividade no Mar dos Açores.
 
-###### Artigo 180.º — Autoridade regional de pesca
+Artigo 180.º
+
+Autoridade regional de pesca
 
 No âmbito da defesa, conservação e gestão dos recursos, compete à Inspeção Regional das Pescas, na qualidade de autoridade regional de pesca, programar, coordenar e executar, em colaboração com outros organismos e instituições dotados de poderes de vigilância, fiscalização e controlo da pesca, da aquicultura e das atividades conexas, as ações de controlo da pesca no Mar dos Açores, prevenindo e sancionando o incumprimento das normas regionais, nacionais, comunitárias e internacionais.
 
-###### Artigo 181.º — Punibilidade da negligência e da tentativa
+Artigo 181.º
+
+Punibilidade da negligência e da tentativa
 
 1 - A negligência é sempre punível.
 
 2 - A tentativa é punível nas contraordenações previstas nos artigos 185.º e 187.º, sendo os limites mínimos e máximos previstos no correspondente tipo legal reduzidos a metade.
 
-###### Artigo 182.º — Responsabilidade por atuação em nome de outrem
+Artigo 182.º
+
+Responsabilidade por atuação em nome de outrem
 
 (Revogado.)
 
-###### Artigo 183.º — Responsabilidade das pessoas coletivas equiparadas
+Artigo 183.º
+
+Responsabilidade das pessoas coletivas equiparadas
 
 (Revogado.)
 
-###### Artigo 183.º-A — Responsabilidade pelas contraordenações
+Artigo 183.º-A
+
+Responsabilidade pelas contraordenações
 
 1 - É responsável pela prática de contraordenação a pessoa singular ou coletiva que pratique o facto constitutivo da mesma ou, no caso de omissão, que não tenha praticado a ação adequada a evitá-lo, independentemente do momento em que o resultado típico se tenha produzido.
 
@@ -2819,7 +3373,9 @@ No âmbito da defesa, conservação e gestão dos recursos, compete à Inspeçã
 
 4 - É ainda responsável pela prática de contraordenação prevista no presente diploma, por ação ou por omissão, o capitão ou mestre do navio ou embarcação de pesca.
 
-###### Artigo 184.º — Destino das receitas das coimas
+Artigo 184.º
+
+Destino das receitas das coimas
 
 1 - O produto das coimas aplicadas pelas contraordenações previstas neste diploma e na respetiva regulamentação complementar reverte:
 
@@ -2831,11 +3387,15 @@ c) 60 % para o Fundo de Compensação Salarial dos Profissionais da Pesca dos A�
 
 2 - Quando a entidade que levantar o auto de notícia ou instruir o processo for órgão ou serviço da administração regional autónoma, o montante previsto nas alíneas a) e b) do número anterior constitui receita da Região.
 
-###### Artigo 185.º — Das contraordenações
+Artigo 185.º
+
+Das contraordenações
 
 (Revogado.)
 
-###### Artigo 185.º-A — Contraordenações
+Artigo 185.º-A
+
+Contraordenações
 
 1 - Constitui contraordenação punível com coima de (euro) 750,00 (setecentos e cinquenta euros) a (euro) 50 000,00 (cinquenta mil euros):
 
@@ -2963,7 +3523,9 @@ n) Não retirar a embarcação do porto ou núcleo de pesca após ter sido notif
 
 7 - Se o mesmo facto constituir simultaneamente crime e contraordenação, o agente é punido a título de crime, sem prejuízo da aplicação das sanções acessórias previstas para a contraordenação ou dos pontos, caso aplicável.
 
-###### Artigo 186.º — Contraordenações laborais
+Artigo 186.º
+
+Contraordenações laborais
 
 1 - Constitui contraordenação laboral muito grave a ocupação de menores com idade inferior a dezasseis anos no exercício de funções próprias da profissão de marítimo.
 
@@ -2985,7 +3547,9 @@ b) O exercício de atividade por inscrito marítimo sem estar munido dos certifi
 
 6 - A negligência é sempre punível.
 
-###### Artigo 187.º — Contraordenações em matéria de lotação das embarcações
+Artigo 187.º
+
+Contraordenações em matéria de lotação das embarcações
 
 1 - O não cumprimento da lotação fixada, salvo nos casos previstos nos n.os 2, 3 e 4 do artigo 67.º, em violação do disposto no n.º 2 do artigo 60.º, ambos deste diploma, faz incorrer o armador e o responsável pelo governo da embarcação em infração contraordenacional, punível com coima no montante mínimo de (euro) 250,00 (duzentos e cinquenta euros) e máximo de (euro) 3 750,00 (três mil, setecentos e cinquenta euros).
 
@@ -2997,7 +3561,9 @@ b) O exercício de atividade por inscrito marítimo sem estar munido dos certifi
 
 5 - Os montantes máximos das coimas, quando aplicáveis a pessoas coletivas, são elevados para o triplo, nos casos dos n.os 1 e 2, e para o dobro, no caso do n.º 3.
 
-###### Artigo 188.º — Determinação da medida da coima
+Artigo 188.º
+
+Determinação da medida da coima
 
 1 - A determinação da medida da coima faz-se em função dos critérios seguintes:
 
@@ -3021,17 +3587,23 @@ e) Reincidência.
 
 6 - No caso de repetição da prática de infrações qualificadas como graves nos termos do presente diploma, por pessoas singulares ou por pessoas coletivas, num período de cinco anos, a coima corresponde, no máximo, a oito vezes o valor do benefício obtido pela prática da infração, tendo como limite o triplo da moldura máxima abstratamente aplicável.
 
-###### Artigo 189.º — Pagamento voluntário
+Artigo 189.º
+
+Pagamento voluntário
 
 1 - Quando a contraordenação praticada não seja suscetível de ser qualificada como infração grave, e caso se trate de infrator sem qualquer antecedente no respetivo registo individual, pode este proceder ao pagamento voluntário da respetiva coima pelo mínimo legal previsto para a respetiva infração, até ao limite do prazo que lhe vier a ser fixado para exercício do direito de defesa.
 
 2 - O pagamento da coima, nos termos do presente artigo, não exclui a possibilidade de aplicação de sanções acessórias.
 
-###### Artigo 190.º — Sanções acessórias
+Artigo 190.º
+
+Sanções acessórias
 
 (Revogado.)
 
-###### Artigo 190.º-A — Aplicação de sanções acessórias
+Artigo 190.º-A
+
+Aplicação de sanções acessórias
 
 1 - Em função da gravidade da infração, da culpa e da reincidência, simultaneamente com a coima, bem como nos casos de admoestação, podem ser aplicadas ao infrator uma ou mais das sanções acessórias seguintes:
 
@@ -3063,7 +3635,9 @@ l) Perda de benefícios fiscais, de benefícios de crédito e de linhas de finan
 
 3 - Para efeitos do disposto nas alíneas k) e l) do n.º 1, a Inspeção Regional das Pescas comunica, de imediato, a prática da contraordenação à entidade que atribui o benefício ou subsídio com vista à suspensão dos pagamentos ou à devolução da totalidade ou parte do benefício ou subsídio em causa.
 
-###### Artigo 190.º-B — Pressupostos de aplicação de sanções acessórias
+Artigo 190.º-B
+
+Pressupostos de aplicação de sanções acessórias
 
 1 - As sanções previstas nas alíneas a) e b) do n.º 1 do artigo anterior só podem ser decretadas quando as artes de pesca, instrumentos, objetos ou produtos serviram ou estavam destinados a servir a prática de uma contraordenação ou por esta foram produzidos.
 
@@ -3073,7 +3647,9 @@ l) Perda de benefícios fiscais, de benefícios de crédito e de linhas de finan
 
 4 - As sanções previstas nas alíneas k) e l) do n.º 1 do artigo anterior só podem ser decretadas quando a contraordenação tiver sido praticada no exercício ou em virtude da atividade a favor da qual é atribuído o subsídio, o benefício ou financiamento.
 
-###### Artigo 190.º-C — Efeitos da perda
+Artigo 190.º-C
+
+Efeitos da perda
 
 1 - O carácter definitivo ou o trânsito em julgado da decisão de aplicação da sanção acessória de perda dos bens descritos nas alíneas a) a c) do n.º 1 do artigo 190.º-A determina a transferência da respetiva propriedade para a Região.
 
@@ -3083,7 +3659,9 @@ l) Perda de benefícios fiscais, de benefícios de crédito e de linhas de finan
 
 4 - Sem prejuízo do disposto nos números anteriores, são destruídos os bens declarados perdidos que não estiverem em conformidade com os requisitos ou características legalmente estabelecidas.
 
-###### Artigo 190.º-D — Infrações graves e aplicação do sistema de pontos
+Artigo 190.º-D
+
+Infrações graves e aplicação do sistema de pontos
 
 1 - Podem ser qualificadas como infrações graves, nos termos e para os efeitos previstos no artigo 92.º do [Regulamento (CE) n.º 1224/2009](https://data.europa.eu/eli/reg/2009/1224/oj?locale=pt), do Conselho, de 20 de novembro, as contraordenações previstas no n.º 1 e nas alíneas a) a g) do n.º 2 do artigo 185.º-A, constantes do anexo ao presente diploma, que dele faz parte integrante.
 
@@ -3101,7 +3679,9 @@ d) A coação, a falsificação, as falsas declarações, a simulação ou outro
 
 4 - O número de pontos aplicados consta da decisão condenatória.
 
-###### Artigo 190.º-E — Imputação dos pontos
+Artigo 190.º-E
+
+Imputação dos pontos
 
 1 - Os pontos aplicados nos termos previstos no n.º 3 do artigo anterior são imputados à licença de pesca do navio utilizado na prática da contraordenação.
 
@@ -3111,7 +3691,9 @@ d) A coação, a falsificação, as falsas declarações, a simulação ou outro
 
 4 - O certificado referido no número anterior é requerido pelo interessado na venda ou no afretamento do navio de pesca e junto ao respetivo pedido de autorização.
 
-###### Artigo 190.º-F — Regime de aplicação e anulação de pontos
+Artigo 190.º-F
+
+Regime de aplicação e anulação de pontos
 
 1 - A condenação por duas ou mais contraordenações qualificadas como infrações graves nos termos previstos no artigo 190.º-D, detetadas na mesma ação de inspeção, determina o registo dos pontos correspondentes a cada uma, até ao limite máximo de 12 pontos.
 
@@ -3131,11 +3713,15 @@ d) Participação em pescaria abrangida por um regime de rótulo ecológico conc
 
 5 - São, ainda, anulados os pontos aplicados à licença de pesca do navio que não cometa outra contraordenação qualificada como infração grave, no prazo de três anos, contados a partir da data da prática da última contraordenação qualificada como tal.
 
-###### Artigo 190.º-G — Efeitos da aplicação de pontos
+Artigo 190.º-G
+
+Efeitos da aplicação de pontos
 
 Os efeitos da aplicação de pontos regem-se pelo disposto nos artigos 129.º e seguintes do [Regulamento de Execução (UE) n.º 404/2011](https://data.europa.eu/eli/reg/2011/404/oj?locale=pt), da Comissão, de 8 de abril, na sua atual redação.
 
-###### Artigo 190.º-H — Imputação de pontos aos capitães de navio de pesca
+Artigo 190.º-H
+
+Imputação de pontos aos capitães de navio de pesca
 
 1 - Aos capitães de navios de pesca condenados pela prática de uma contraordenação qualificada como infração grave são aplicados os pontos nos termos do disposto no artigo 190.º-E.
 
@@ -3159,11 +3745,15 @@ d) A partir de 130 pontos - doze meses.
 
 7 - As medidas previstas no presente artigo constam da decisão condenatória.
 
-###### Artigo 191.º — Entidade competente para aplicação das coimas e sanções acessórias
+Artigo 191.º
+
+Entidade competente para aplicação das coimas e sanções acessórias
 
 Compete ao inspetor regional das pescas a aplicação das coimas e das sanções acessórias previstas no presente diploma, independentemente do local de prática das infrações que as determinam, bem como, sempre que estejam em causa contraordenações passíveis de qualificação como infrações graves, a aplicação do respetivo sistema de pontos previsto no presente diploma, assegurando ainda o correspondente registo no SIFICAP.
 
-###### Artigo 192.º — Auto de notícia ou de denúncia
+Artigo 192.º
+
+Auto de notícia ou de denúncia
 
 1 - Quando, no exercício das suas funções, um inspetor de pescas ou agente competente, presenciar a prática de contraordenação prevista no presente diploma, levanta auto de notícia, o qual é assinado pelo autuante e, quando aplicável, pelas testemunhas.
 
@@ -3179,7 +3769,9 @@ Compete ao inspetor regional das pescas a aplicação das coimas e das sanções
 
 7 - (Revogado.)
 
-###### Artigo 192.º-A — Elementos do auto de notícia e de denúncia
+Artigo 192.º-A
+
+Elementos do auto de notícia e de denúncia
 
 1 - O auto de notícia e o auto de denúncia, referidos no artigo anterior, incluem, com as devidas adaptações, os seguintes elementos:
 
@@ -3203,7 +3795,9 @@ i) Nome, categoria e assinatura do autuante ou denunciante.
 
 2 - Sempre que possível, no momento do seu levantamento, o autuante fornece ao infrator cópia do auto de notícia.
 
-###### Artigo 192.º-B — Notificações
+Artigo 192.º-B
+
+Notificações
 
 1 - A notificação do auto de notícia e demais notificações subsequentes efetuam-se:
 
@@ -3237,7 +3831,9 @@ b) O que conste dos autos de contraordenação, nos casos em que o arguido não 
 
 11 - Quando a notificação seja efetuada por correio eletrónico, presume-se que foi feita na data da emissão, servindo de prova a cópia do aviso onde conste a menção de que a mensagem foi enviada com sucesso.
 
-###### Artigo 192.º-C — Testemunhas
+Artigo 192.º-C
+
+Testemunhas
 
 1 - A indicação de testemunhas, peritos ou consultores técnicos por parte do arguido, na sua defesa, é feita na data, hora e local indicados pela entidade instrutora do processo com, pelo menos, cinco dias úteis de antecedência.
 
@@ -3249,7 +3845,9 @@ b) O que conste dos autos de contraordenação, nos casos em que o arguido não 
 
 5 - Os depoimentos ou esclarecimentos prestados presencialmente podem ser documentados em meios técnicos audiovisuais.
 
-###### Artigo 192.º-D — Adiamento de diligência de inquirição de testemunhas
+Artigo 192.º-D
+
+Adiamento de diligência de inquirição de testemunhas
 
 1 - No caso de falta à primeira marcação da diligência de inquirição de testemunhas, de peritos ou de consultores técnicos, aquela apenas pode ser adiada uma única vez, e apenas se a falta à primeira marcação tiver sido considerada justificada nos termos previstos no número seguinte.
 
@@ -3261,17 +3859,23 @@ b) O que conste dos autos de contraordenação, nos casos em que o arguido não 
 
 5 - As disposições anteriores aplicam-se à situação de falta de comparência do arguido, com as devidas adaptações.
 
-###### Artigo 193.º — Denúncia
+Artigo 193.º
+
+Denúncia
 
 1 - A autoridade ou agente da autoridade que tiver conhecimento, por denúncia, da prática de contraordenação prevista neste diploma lavra ou manda lavrar auto de notícia.
 
 2 - É correspondentemente aplicável, com as necessárias adaptações, o disposto no artigo anterior.
 
-###### Artigo 194.º — Entidades competentes para a investigação e instrução
+Artigo 194.º
+
+Entidades competentes para a investigação e instrução
 
 A investigação e instrução dos processos por contraordenações previstas neste diploma são da competência das entidades mencionadas no n.º 1 do artigo 178.º que levantarem o auto de notícia, no âmbito das atribuições que lhes estejam legalmente cometidas relativamente a inspeção, vigilância e polícia, sem prejuízo do disposto no n.º 2 do mesmo artigo.
 
-###### Artigo 195.º — Medidas cautelares
+Artigo 195.º
+
+Medidas cautelares
 
 1 - A prática das contraordenações previstas no presente diploma pode determinar a aplicação das medidas cautelares seguintes:
 
@@ -3305,7 +3909,9 @@ f) Interdição do uso de equipamentos.
 
 7 - São ineficazes os negócios jurídicos que tenham por objeto os bens apreendidos.
 
-###### Artigo 195.º-A — Medida substitutiva da medida cautelar
+Artigo 195.º-A
+
+Medida substitutiva da medida cautelar
 
 1 - Nos casos dos bens apreendidos previstos nas alíneas a) e b) do n.º 1 e na alínea a) do n.º 3 do artigo anterior, desde que não sejam necessários para efeitos de prova, o responsável pela infração pode requerer a substituição das medidas cautelares ali previstas pela prestação de um depósito, a título de caução, de valor igual a um terço do montante máximo da coima aplicável à contraordenação que lhe é imputada ou, sendo, mais do que uma, à de montante mais elevado.
 
@@ -3315,7 +3921,9 @@ f) Interdição do uso de equipamentos.
 
 4 - O depósito mantém-se até ao pagamento da coima ou à decisão de absolvição, sem prejuízo da possibilidade de ser determinada a sua perda a favor da Região.
 
-###### Artigo 195.º-B — Prazo das medidas cautelares
+Artigo 195.º-B
+
+Prazo das medidas cautelares
 
 As medidas cautelares previstas no artigo 195.º vigoram, consoante os casos:
 
@@ -3325,7 +3933,9 @@ b) Até ao início do cumprimento de sanção acessória de efeito equivalente �
 
 c) Até à superveniência de decisão administrativa ou judicial que não condene o arguido às sanções acessórias previstas no presente diploma, quando tenha sido decretada medida cautelar de efeito equivalente.
 
-###### Artigo 196.º — Venda antecipada dos bens apreendidos
+Artigo 196.º
+
+Venda antecipada dos bens apreendidos
 
 1 - Os objetos apreendidos nos termos do artigo anterior, logo que se tornem desnecessários para a investigação ou instrução, poderão ser vendidos por ordem da entidade competente para a mesma, observando-se o disposto nos artigos 902.º e seguintes do Código de Processo Civil, desde que haja, relativamente a eles:
 
@@ -3347,11 +3957,15 @@ c) Requerimento do respetivo dono ou detentor para que estes sejam alienados.
 
 7 - Serão inutilizados os bens apreendidos, sempre que não seja possível aproveitá-los sem violação do disposto neste diploma.
 
-###### Artigo 197.º — Garantia de pagamento
+Artigo 197.º
+
+Garantia de pagamento
 
 Constituem garantias de pagamento da coima, custas e demais encargos legais, os bens apreendidos aos agentes infratores ou o valor correspondente, nos termos previstos no artigo 195.º, bem como os depósitos a que se refere o artigo 195.º-A.
 
-###### Artigo 197.º-A — Efeitos da impugnação judicial
+Artigo 197.º-A
+
+Efeitos da impugnação judicial
 
 1 - A impugnação da decisão administrativa condenatória tem efeito meramente devolutivo, salvo o disposto no número seguinte.
 
@@ -3359,7 +3973,9 @@ Constituem garantias de pagamento da coima, custas e demais encargos legais, os 
 
 3 - O depósito referido no número anterior pode ser substituído por garantia bancária, na modalidade «à primeira solicitação».
 
-###### Artigo 198.º — Agentes não domiciliados na Região
+Artigo 198.º
+
+Agentes não domiciliados na Região
 
 1 - Se o responsável pela infração não for domiciliado na Região, e caso não pretenda efetuar o pagamento voluntário da coima, quando admissível, deve prestar caução de valor igual a um terço do montante máximo da coima prevista para a contraordenação que lhe é imputada.
 
@@ -3371,13 +3987,17 @@ Constituem garantias de pagamento da coima, custas e demais encargos legais, os 
 
 5 - A infração será levada ao conhecimento do Estado de bandeira do responsável pela mesma, caso a embarcação seja estrangeira.
 
-###### Artigo 199.º — Abandono
+Artigo 199.º
+
+Abandono
 
 1 - São declaradas perdidas a favor da Região as mercadorias e quaisquer quantias apreendidas no processo, se não reclamadas no prazo de dois meses a contar da notificação do despacho ou decisão que ordenar a sua entrega.
 
 2 - A notificação a que se refere o n.º 1 conterá advertência de que, em caso de não haver reclamação, os bens serão declarados perdidos a favor da Região.
 
-###### Artigo 200.º — Comunicação das decisões e registo individual dos arguidos
+Artigo 200.º
+
+Comunicação das decisões e registo individual dos arguidos
 
 1 - A autoridade administrativa que aplicar a decisão definitiva e os tribunais que julguem os recursos das decisões que apliquem coimas devem remeter à Inspeção Regional das Pescas cópia das decisões finais proferidas nos processos respetivos.
 
@@ -3385,13 +4005,19 @@ Constituem garantias de pagamento da coima, custas e demais encargos legais, os 
 
 3 - Nos processos em que deva ser apreciada a responsabilidade de qualquer arguido é sempre junta uma cópia dos registos que lhe digam respeito, podendo o interessado ter acesso ao seu registo sempre que o solicite.
 
-###### Artigo 201.º — Direito de visita
+Artigo 201.º
+
+Direito de visita
 
 (Revogado.)
 
-### CAPÍTULO XIII — Disposições finais
+CAPÍTULO XIII
 
-###### Artigo 202.º — Portos de pesca e núcleos de pesca
+Disposições finais
+
+Artigo 202.º
+
+Portos de pesca e núcleos de pesca
 
 1 - O departamento do Governo Regional responsável pelas pescas exerce a jurisdição e as funções de autoridade portuária nas áreas dos portos de classe D, conforme disposto no [Decreto Legislativo Regional n.º 24/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2011-671590), de 22 de agosto, que aprova o Sistema Portuário dos Açores.
 
@@ -3411,31 +4037,45 @@ Constituem garantias de pagamento da coima, custas e demais encargos legais, os 
 
 9 - Os custos decorrentes da operação mencionada no número anterior devem ser imputados ao proprietário ou ao armador da embarcação abandonada.
 
-###### Artigo 203.º — Incentivos
+Artigo 203.º
+
+Incentivos
 
 Compete ao Conselho do Governo Regional ou ao membro do Governo Regional responsável pelas pescas definir, respetivamente, por resolução ou por portaria, os apoios públicos individuais ou regimes de incentivos no setor das pescas e aquicultura, no âmbito de programas, fundos ou regimes comunitários ou no âmbito do plano de investimentos da Região.
 
-###### Artigo 204.º — Prevalência
+Artigo 204.º
+
+Prevalência
 
 As disposições do presente diploma prevalecem sobre quaisquer outras existentes relativas ao exercício da pesca no território de pesca dos Açores ou exercidas por apanhadores, pescadores submarinos, pescadores de costa e embarcações regionais.
 
-###### Artigo 205.º — Validade de documentos emitidos ao abrigo de legislação anterior
+Artigo 205.º
+
+Validade de documentos emitidos ao abrigo de legislação anterior
 
 Os documentos emitidos ao abrigo de legislação anterior mantêm a sua validade, nos termos em que foram emitidos.
 
-###### Artigo 206.º — Normas transitórias
+Artigo 206.º
+
+Normas transitórias
 
 Até à entrada em vigor das portarias referidas no presente diploma aplicam-se as disposições pertinentes dos regimes jurídicos ao abrigo da legislação anterior.
 
-###### Artigo 207.º — Remissões para legislação revogada
+Artigo 207.º
+
+Remissões para legislação revogada
 
 Todas as remissões do presente diploma para disposições legais e para atos legislativos supervenientemente revogados consideram-se feitas para as correspondentes disposições em vigor.
 
-###### Artigo 208.º — Regime subsidiário
+Artigo 208.º
+
+Regime subsidiário
 
 Em tudo o que não se encontrar previsto no presente diploma, aplica-se subsidiariamente o regime geral do ilícito de mera ordenação social, bem como as correspondentes disposições da política comum de pescas, das medidas de gestão e controlo das organizações regionais de gestão da pesca e dos acordos com países terceiros
 
-###### Artigo 209.º — Norma revogatória
+Artigo 209.º
+
+Norma revogatória
 
 São revogados os seguintes diplomas:
 
@@ -3457,10 +4097,16 @@ h) [Decreto Regulamentar Regional n.º 10/86/A](https://diariodarepublica.pt/dr/
 
 i) Resolução do Conselho do Governo Regional n.º 12/2000, de 3 de fevereiro.
 
-###### Artigo 210.º — Entrada em vigor
+Artigo 210.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no prazo de 30 dias a contar da data da sua publicação.
 
-## ANEXO — (a que se refere o artigo 190.º-D)
+ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2020/04/07200/0000300085.pdf))](https://files.diariodarepublica.pt/1s/2020/04/07200/0000300085.pdf)
+(a que se refere o artigo 190.º-D)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2020/04/07200/0000300085.pdf)
+
+113139053

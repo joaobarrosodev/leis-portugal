@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1978-447907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbac71a5aaf07efaa1bc1ca9833106c128294be15aaac462996cf685692f3489
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3931de75c0b8f30b2d450f190cc61d2a8d6368bd92bb101245edb0e614c45ef3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Segurança Rodoviária
+- Veículo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:50Z'
   warnings: []
   errors: []
 ---
@@ -89,22 +92,22 @@ Há, consequentemente, que incrementar as condições de visibilidade e reconhec
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os capacetes usados pelos condutores e passageiros de motociclos com ou sem carro, de ciclomotores e de velocípedes com motor que circulam nas estradas da Região dos Açores deverão ser completados com material reflectorizante.
+Artigo 1.º - 1 - Os capacetes usados pelos condutores e passageiros de motociclos com ou sem carro, de ciclomotores e de velocípedes com motor que circulam nas estradas da Região dos Açores deverão ser completados com material reflectorizante.
 
 2 - Sem prejuízo do disposto no n.º 3 do artigo 20.º do Código da Estrada, este material deve ser empregado sob a forma de faixa, com as dimensões de 20 cm x 2 cm, colocada de modo a abranger as zonas posterior e lateral do capacete.
 
 3 - O material reflectorizante deve permitir o seu fácil reconhecimento à distância mínima de 100 m.
 
-###### Art. 2.º As infracções ao disposto no artigo anterior serão punidas com a multa de 300$00.
+Art. 2.º As infracções ao disposto no artigo anterior serão punidas com a multa de 300$00.
 
-###### Art. 3.º O presente diploma entra em vigor noventa dias após a sua publicação.
+Art. 3.º O presente diploma entra em vigor noventa dias após a sua publicação.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 4 de Novembro de 1977.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro P. da Silva Leal Monjardino.
 
-**Assinado em Angra do Heroísmo em 2 de Janeiro de 1978.**
+Assinado em Angra do Heroísmo em 2 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general.

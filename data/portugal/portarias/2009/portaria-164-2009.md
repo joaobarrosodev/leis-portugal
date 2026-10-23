@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/164/2009/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/164-2009-602064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ce859200581075ba7edd0d76d075739b53304d972453f8f74cc77f8634e0e4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcf9689ee0293f1e368ef380ac8fada1c0b0fc1eccbd4553f106db19f1e46c76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,58 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reserva Ecológica Nacional
-- Ordenamento do Território
 - Comissão de Coordenação e Desenvolvimento Regional do Algarve
+- Ordenamento do Território
+- Reserva Ecológica Nacional
 - Silves
 relationships:
+- type: amended_by
+  target: pt:dre:91967402:por
+  label: Tornada pública a alteração da delimitação da Reserva Ecológica Nacional em Vales de Algoz, concelho de Silves pelo(a)
+    Aviso (extrato) n.º 14808/2016 - Diário da República n.º 227/2016, Série II de 2016-11-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso-extrato/14808-2016-91967402
+  date: '2016-11-25'
+- type: amended_by
+  target: pt:dre:108209262:por
+  label: Tornado público que foi aprovada a alteração da delimitação da Reserva Ecológica Nacional do Município de Silves
+    aprovada pelo presente diploma, na redação do Av-ext 14808/2016 de 25-nov, pelo(a) Aviso n.º 11182/2017 - Diário da República
+    n.º 186/2017, Série II de 2017-09-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/11182-2017-108209262
+  date: '2017-09-26'
+- type: amended_by
+  target: pt:dre:143189090:por
+  label: Tornada pública a aprovação da alteração da delimitação de reserva ecológica nacional do município de Silves pelo(a)
+    Aviso n.º 14214/2020 - Diário da República n.º 183/2020, Série II de 2020-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/14214-2020-143189090
+  date: '2020-09-18'
+- type: amended_by
+  target: pt:dre:176063636:por
+  label: Tornada pública a aprovação da alteração da reserva ecológica nacional do município de Silves, pelo(a) Aviso n.º
+    23344/2021 - Diário da República n.º 243/2021, Série II de 2021-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/23344-2021-176063636
+  date: '2021-12-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:32Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +139,9 @@ Manda o Governo, pelo Secretário de Estado do Ordenamento do Território e das 
 
 2.º A referida planta, o quadro anexo e a memória descritiva podem ser consultados na Comissão de Coordenação e Desenvolvimento Regional do Algarve e na Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano.
 
-**O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão, em 9 de Janeiro de 2009.**
+O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão, em 9 de Janeiro de 2009.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03100/0104601048.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03100/0104601048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03100/0104601048.pdf)
 
 QUADRO ANEXO
 
@@ -116,4 +149,4 @@ Delimitação da Reserva Ecológica Nacional do concelho de Silves
 
 Proposta de exclusões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/02/03100/0104601048.pdf))](https://files.diariodarepublica.pt/1s/2009/02/03100/0104601048.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/02/03100/0104601048.pdf)

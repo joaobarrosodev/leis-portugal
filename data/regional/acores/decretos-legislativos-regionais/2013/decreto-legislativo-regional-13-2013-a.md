@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2013/08/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2013-499551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52be5f0cb7c544753b85f13fc8fbebe78c596e3b30164cc4f0af749a21faf672
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 944e9c8c6511cc7cae0fca7fc8a9f8d39a11d428b21c811d1a426ffd4ae5bc4e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,38 +67,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Geral
 - Autonomia Financeira
 - Autonomia Pedagógica
-- Eleição
-- Gestão Financeira
+- Avaliação de Conhecimentos
 - Conselho Executivo
 - Conselho Pedagógico
 - Criação de Serviços
 - Definição de Competências
+- Educação Pré-escolar
+- Eleição
+- Ensino Básico
 - Ensino Oficial
 - Ensino Profissional
-- Gestão Administrativa
 - Escola Profissional
+- Estabelecimento de Ensino
 - Estudante
 - Fundo Escolar
+- Gestão Administrativa
 - Gestão Escolar
+- Gestão Financeira
+- Gratificação
 - Jardim de Infância
 - Mandato
-- Pessoal não Docente
-- Estabelecimento de Ensino
 - Pessoal Docente
+- Pessoal não Docente
 - Presidente
-- Ensino Básico
-- Avaliação de Conhecimentos
 - Quadro de Pessoal
 - Receita Própria
 - Regime Jurídico
 - Regulamento Interno
-- Gratificação
-- Açores
 - Sistema Educativo
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:72909748:por
@@ -144,16 +144,128 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/1993/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/1993/08/20/p/dre
+- type: cites
+  target: pt:dre:144996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640908:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676050:por
+  label: null
+  source: null
 article_structure:
-  article_count: 208
+  article_count: 151
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:43Z'
   warnings: []
   errors: []
 ---
@@ -192,7 +304,9 @@ b) [...]
 
 c) O regime jurídico do desporto escolar, do Conselho Local de Educação e do Conselho Coordenador do Sistema Educativo.
 
-###### Artigo 3.º — Conceitos
+Artigo 3.º
+
+Conceitos
 
 Para os efeitos do presente diploma entende-se por:
 
@@ -236,7 +350,9 @@ t) «Atividades culturais escolares» o conjunto de atividades culturais e de fo
 
 u) «Projeto curricular de turma» o documento que estabelece a estratégia de concretização e desenvolvimento do currículo e do projeto curricular de escola, adaptados às características de cada sala de atividades ou turma, através de programas próprios, a desenvolver pelos educadores de infância, professores titulares de turma ou pelos conselhos de turma, consoante os ciclos, os níveis ou as modalidades de ensino.
 
-###### Artigo 4.º — Criação de unidades orgânicas
+Artigo 4.º
+
+Criação de unidades orgânicas
 
 1 - [...]
 
@@ -254,7 +370,9 @@ c) O número de pessoal não docente a afetar.
 
 5 - Os quadros de pessoal docente e o número de trabalhadores não docentes afetos às unidades orgânicas, mesmo quando estas sejam agrupamentos de estabelecimentos de educação e de ensino, são globais, abrangendo a totalidade do pessoal docente e não docente que preste serviço na unidade orgânica.
 
-###### Artigo 23.º — Animação sociocultural
+Artigo 23.º
+
+Animação sociocultural
 
 [...]
 
@@ -280,7 +398,9 @@ j) [...]
 
 l) Promover o reconhecimento e a validação de competências, realizando ações visando o preenchimento dos requisitos de formação que sejam estabelecidos.
 
-###### Artigo 27.º — Avaliação dos alunos
+Artigo 27.º
+
+Avaliação dos alunos
 
 [...]
 
@@ -296,7 +416,9 @@ e) Organizar, coordenar e proceder à aplicação das provas de avaliação fina
 
 f) Organizar, coordenar e proceder à aplicação das provas que lhe sejam solicitadas pela administração educativa.
 
-###### Artigo 30.º — Gestão dos tempos escolares
+Artigo 30.º
+
+Gestão dos tempos escolares
 
 [...]
 
@@ -312,7 +434,9 @@ e) [...]
 
 f) [...]
 
-###### Artigo 31.º — Formação e gestão do pessoal docente e não docente
+Artigo 31.º
+
+Formação e gestão do pessoal docente e não docente
 
 [...]
 
@@ -346,7 +470,9 @@ o) [...]
 
 p) Estabelecer o período de férias do pessoal docente e não docente e aprovar os respetivos mapas de férias, sem prejuízo do legalmente fixado.
 
-###### Artigo 36.º — Gestão do pessoal não docente
+Artigo 36.º
+
+Gestão do pessoal não docente
 
 [...]
 
@@ -370,7 +496,9 @@ i) Dar parecer sobre os pedidos de colocação do pessoal não docente;
 
 j) [Revogada.]
 
-###### Artigo 38.º — Gestão das instalações e equipamentos
+Artigo 38.º
+
+Gestão das instalações e equipamentos
 
 [...]
 
@@ -402,7 +530,9 @@ n) [...]
 
 o) Contratar serviços de limpeza e de manutenção de instalações e equipamentos, incluindo os de assistência técnica que se mostrem necessários à segurança e operação das instalações elétricas, de telecomunicações e de informática, nos termos da legislação aplicável.
 
-###### Artigo 42.º — Receitas do fundo escolar
+Artigo 42.º
+
+Receitas do fundo escolar
 
 1 - [...]
 
@@ -426,7 +556,9 @@ i) [Anterior alínea h).]
 
 2 - [...]
 
-###### Artigo 43.º — Gestão do fundo escolar
+Artigo 43.º
+
+Gestão do fundo escolar
 
 1 - [...]
 
@@ -440,7 +572,9 @@ i) [Anterior alínea h).]
 
 6 - [...]
 
-###### Artigo 47.º — Processo de candidatura
+Artigo 47.º
+
+Processo de candidatura
 
 1 - As unidades orgânicas que se candidatem ao desenvolvimento da sua autonomia, através dos seus conselhos executivos, apresentam à direção regional competente em matéria de educação uma proposta de contrato, aprovada pelo conselho pedagógico e pela assembleia e acompanhada dos seguintes elementos:
 
@@ -456,7 +590,9 @@ e) [...]
 
 2 - [...]
 
-###### Artigo 51.º — Órgãos
+Artigo 51.º
+
+Órgãos
 
 1 - [...]
 
@@ -470,7 +606,9 @@ c) Conselho executivo;
 
 d) [...]
 
-###### Artigo 54.º — Composição
+Artigo 54.º
+
+Composição
 
 1 - Sem prejuízo do disposto nos números seguintes, a definição do número de elementos que compõe a assembleia é da responsabilidade de cada unidade orgânica, nos termos do respetivo regulamento interno, não podendo ser superior a 24 o número total dos seus membros.
 
@@ -494,7 +632,9 @@ d) [...]
 
 11 - [Anterior n.º 10.]
 
-###### Artigo 55.º — Competências
+Artigo 55.º
+
+Competências
 
 1 - [...]
 
@@ -540,7 +680,9 @@ q) [...]
 
 6 - [...]
 
-###### Artigo 56.º — Funcionamento
+Artigo 56.º
+
+Funcionamento
 
 1 - A assembleia reúne ordinariamente uma vez por trimestre e extraordinariamente sempre que seja convocada pelo respetivo presidente, por sua iniciativa, a requerimento de um terço dos seus membros em efetividade de funções ou por solicitação dos presidentes dos conselhos pedagógico e executivo.
 
@@ -550,7 +692,9 @@ q) [...]
 
 4 - As propostas ou deliberações das comissões são sempre aprovadas pelo plenário da assembleia.
 
-###### Artigo 57.º — Designação de representantes
+Artigo 57.º
+
+Designação de representantes
 
 1 - [...]
 
@@ -560,11 +704,15 @@ q) [...]
 
 4 - [...]
 
-###### Artigo 61.º — Definição
+Artigo 61.º
+
+Definição
 
 [Anterior artigo 73.º.]
 
-###### Artigo 62.º — Composição
+Artigo 62.º
+
+Composição
 
 [Anterior artigo 74.º.]
 
@@ -596,7 +744,9 @@ h) [Anterior alínea g).]
 
 6 - [...]
 
-###### Artigo 63.º — Competências
+Artigo 63.º
+
+Competências
 
 [Anterior artigo 75.º.]
 
@@ -642,23 +792,33 @@ s) [...]
 
 3 - [...]
 
-###### Artigo 64.º — Funcionamento
+Artigo 64.º
+
+Funcionamento
 
 [Anterior artigo 76.º.]
 
-###### Artigo 65.º — Gratificação do presidente
+Artigo 65.º
+
+Gratificação do presidente
 
 [Anterior artigo 77.º.]
 
-###### Artigo 66.º — Definição
+Artigo 66.º
+
+Definição
 
 [Anterior artigo 61.º.]
 
-###### Artigo 67.º — Composição
+Artigo 67.º
+
+Composição
 
 [Anterior artigo 62.º.]
 
-###### Artigo 68.º — Competências
+Artigo 68.º
+
+Competências
 
 [Anterior artigo 63.º.]
 
@@ -702,15 +862,21 @@ q) [Anterior alínea o).]
 
 4 - [...]
 
-###### Artigo 69.º — Presidente do conselho executivo
+Artigo 69.º
+
+Presidente do conselho executivo
 
 [Anterior artigo 64.º.]
 
-###### Artigo 70.º — Assembleia eleitoral e recrutamento
+Artigo 70.º
+
+Assembleia eleitoral e recrutamento
 
 [Anterior artigo 65.º.]
 
-###### Artigo 71.º — Eleição
+Artigo 71.º
+
+Eleição
 
 [Anterior artigo 66.º.]
 
@@ -728,11 +894,15 @@ q) [Anterior alínea o).]
 
 7 - [...]
 
-###### Artigo 72.º — Provimento
+Artigo 72.º
+
+Provimento
 
 [Anterior artigo 67.º.]
 
-###### Artigo 73.º — Mandato
+Artigo 73.º
+
+Mandato
 
 [Anterior artigo 68.º.]
 
@@ -752,11 +922,15 @@ c) [...]
 
 5 - A cessação do mandato do presidente ou dos dois vice-presidentes eleitos do conselho executivo determina a abertura de um novo processo eleitoral para este órgão, no prazo máximo de trinta dias.
 
-###### Artigo 74.º — Comissão executiva provisória
+Artigo 74.º
+
+Comissão executiva provisória
 
 [Anterior artigo 69.º.]
 
-###### Artigo 75.º — Assessoria do conselho executivo
+Artigo 75.º
+
+Assessoria do conselho executivo
 
 [Anterior artigo 70.º.]
 
@@ -766,7 +940,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 76.º — Regime de exercício de funções
+Artigo 76.º
+
+Regime de exercício de funções
 
 [Anterior artigo 71.º.]
 
@@ -784,11 +960,15 @@ c) [...]
 
 7 - [...].
 
-###### Artigo 77.º — Gratificações
+Artigo 77.º
+
+Gratificações
 
 [Anterior artigo 72.º.]
 
-###### Artigo 80.º — Competências
+Artigo 80.º
+
+Competências
 
 1 - [...]
 
@@ -806,7 +986,9 @@ e) [...]
 
 3 - [...]
 
-###### Artigo 83.º — Conselho e coordenador de núcleo
+Artigo 83.º
+
+Conselho e coordenador de núcleo
 
 1 - [...]
 
@@ -816,7 +998,9 @@ e) [...]
 
 4 - Sem prejuízo do disposto na alínea b) do n.º 1 do presente artigo e de acordo com o estipulado no regulamento interno, cada núcleo escolar poderá reunir separadamente, por ano de escolaridade, quando se trate de reuniões de avaliação de alunos.
 
-###### Artigo 88.º — Departamentos curriculares
+Artigo 88.º
+
+Departamentos curriculares
 
 1 - Os departamentos curriculares promovem a articulação, gestão curricular e cooperação entre os docentes da unidade orgânica, procurando adequar o currículo às necessidades específicas dos alunos.
 
@@ -828,7 +1012,9 @@ e) [...]
 
 5 - [...]
 
-###### Artigo 89.º — Projeto curricular de turma
+Artigo 89.º
+
+Projeto curricular de turma
 
 Em cada unidade orgânica, a organização, o acompanhamento e a avaliação das atividades a desenvolver com os alunos pressupõem a elaboração de um projeto curricular de turma, o qual deve integrar estratégias de diferenciação pedagógica e de adequação curricular para o contexto da sala de atividades ou da turma, destinadas a promover a melhoria das condições de aprendizagem e a articulação entre a escola e a família, sendo da responsabilidade:
 
@@ -838,7 +1024,9 @@ b) [...]
 
 c) [...]
 
-###### Artigo 90.º — Conselho de turma
+Artigo 90.º
+
+Conselho de turma
 
 1 - [...]
 
@@ -854,7 +1042,9 @@ c) [...]
 
 7 - [...]
 
-###### Artigo 102.º — Processo eleitoral
+Artigo 102.º
+
+Processo eleitoral
 
 1 - [...]
 
@@ -864,65 +1054,95 @@ c) [...]
 
 4 - Os resultados dos processos eleitorais para a assembleia, para o conselho executivo e para o coordenador de estabelecimento produzem efeitos no dia seguinte ao da tomada de posse dos mesmos.
 
-###### Artigo 103.º — Mandatos de substituição
+Artigo 103.º
+
+Mandatos de substituição
 
 Os titulares dos órgãos e estruturas previstos no presente regime jurídico, em substituição de anteriores titulares, terminam os seus mandatos na data prevista para a conclusão do mandato dos membros substituídos.
 
-###### Artigo 104.º — Impedimentos
+Artigo 104.º
+
+Impedimentos
 
 1 - [...]
 
 2 - [...]
 
-###### Artigo 117.º — Constituição e extinção
+Artigo 117.º
+
+Constituição e extinção
 
 [Revogado.]
 
-###### Artigo 118.º — Adesão e abandono
+Artigo 118.º
+
+Adesão e abandono
 
 [Revogado.]
 
-###### Artigo 119.º — Centros de formação das associações de escolas
+Artigo 119.º
+
+Centros de formação das associações de escolas
 
 [Revogado.]
 
-###### Artigo 120.º — Objetivos dos centros de formação
+Artigo 120.º
+
+Objetivos dos centros de formação
 
 [Revogado.]
 
-###### Artigo 121.º — Competências dos centros de formação
+Artigo 121.º
+
+Competências dos centros de formação
 
 [Revogado.]
 
-###### Artigo 122.º — Gestão financeira
+Artigo 122.º
+
+Gestão financeira
 
 [Revogado.]
 
-###### Artigo 123.º — Estruturas de direção e gestão
+Artigo 123.º
+
+Estruturas de direção e gestão
 
 [Revogado.]
 
-###### Artigo 124.º — Assembleia geral
+Artigo 124.º
+
+Assembleia geral
 
 [Revogado.]
 
-###### Artigo 125.º — Comissão pedagógica
+Artigo 125.º
+
+Comissão pedagógica
 
 [Revogado.]
 
-###### Artigo 126.º — Diretor do centro de formação
+Artigo 126.º
+
+Diretor do centro de formação
 
 [Revogado.]
 
-###### Artigo 127.º — Exercício de funções pelo diretor do centro de formação
+Artigo 127.º
+
+Exercício de funções pelo diretor do centro de formação
 
 [Revogado.]
 
-###### Artigo 128.º — Apoio técnico
+Artigo 128.º
+
+Apoio técnico
 
 [Revogado.]
 
-###### Artigo 130.º — Composição
+Artigo 130.º
+
+Composição
 
 1 - [...]
 
@@ -954,7 +1174,9 @@ n) [Anterior alínea m).]
 
 2 - Podem ainda participar no Conselho, sem direito a voto, representantes das direções regionais com competências em matéria da juventude, do desporto e do emprego, bem como os técnicos e pessoal não docente que o presidente considere necessários em função das matérias a debater e o coordenador da pastoral escolar de qualquer confissão religiosa da qual exista em funcionamento a disciplina de Educação Moral e Religiosa nas escolas públicas.
 
-###### Artigo 131.º — Funcionamento
+Artigo 131.º
+
+Funcionamento
 
 1 - [...]
 
@@ -962,7 +1184,9 @@ n) [Anterior alínea m).]
 
 3 - [Revogado.]
 
-###### Artigo 139.º — Condições de exercício de funções
+Artigo 139.º
+
+Condições de exercício de funções
 
 1 - [...]
 
@@ -982,7 +1206,9 @@ n) [Anterior alínea m).]
 
 9 - A substituição cessará na data em que o titular retorne funções, tendo o substituto direito à gratificação atribuída ao cargo que desempenha.
 
-###### Artigo 142.º — Revisão do regulamento interno
+Artigo 142.º
+
+Revisão do regulamento interno
 
 Na inexistência de alterações legislativas que imponham a sua revisão antecipada, o regulamento interno pode ser revisto quatro anos após a sua aprovação e extraordinariamente, a todo o tempo, por deliberação da assembleia, aprovada por maioria absoluta dos membros em efetividade de funções.»
 
@@ -1012,11 +1238,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 12 de julho de 2013.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 7 de agosto de 2013.**
+Assinado em Angra do Heroísmo em 7 de agosto de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

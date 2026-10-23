@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1988-372074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb365e07add35120c3b5236d17b6f791c6b9a6d0a5bb129920f2fa5490d27e70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79627719d1fa21f254364fe8c02c2c1c1edae8cfb73fa6c7dbb4b470814bbfbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Florestal
+- GADO
+- Madeira.região Autónoma
+- Pastagens
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:455622:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455622:por
+  label: "Revogado pelo DLR.35/2008/M.14.08.2008.AL-RAM, DR.IS [157] de 14.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/35-2008-455622
+  date: '2008-08-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:16Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +124,9 @@ A Assembleia Regional da Madeira decreta, nos termos da alínea a) do artigo 229
 
 Regime silvo-pastoril
 
-###### Artigo 1.º Zona de pastoreio é toda a área onde é possível a apascentação de gado caprino, bovino e ovino.
+Artigo 1.º Zona de pastoreio é toda a área onde é possível a apascentação de gado caprino, bovino e ovino.
 
-###### Art. 2.º - 1 - Na RAM são havidas como zonas de pastoreio:
+Art. 2.º - 1 - Na RAM são havidas como zonas de pastoreio:
 
 a) Baldios das serras do Poiso;
 
@@ -144,19 +162,19 @@ e) Onde se verifiquem indícios de erosão.
 
 3 - A delimitação das zonas previstas no n.º 1 será efectuada mediante portaria do Secretário Regional da Economia.
 
-###### Art. 3.º A apascentação ou simples entrada de gado fora das zonas previstas no n.º 1 do artigo anterior é proibida; nas propriedades particulares, a apascentação ou simples entrada de gado só é permitida em boas condições de encabeçamento e quando haja completa e perfeita vedação.
+Art. 3.º A apascentação ou simples entrada de gado fora das zonas previstas no n.º 1 do artigo anterior é proibida; nas propriedades particulares, a apascentação ou simples entrada de gado só é permitida em boas condições de encabeçamento e quando haja completa e perfeita vedação.
 
-###### Art. 4.º É proibida a apascentação ou simples entrada de gado suíno nas zonas de pastoreio.
+Art. 4.º É proibida a apascentação ou simples entrada de gado suíno nas zonas de pastoreio.
 
-###### Art. 5.º O gado cuja apascentação é permitida nos termos do artigo 1.º deverá ser arrebanhado e devidamente encabeçado, só se admitindo a livre apascentação a título excepcional e por período a determinar pelo serviço competente da Secretaria Regional da Economia (SRE).
+Art. 5.º O gado cuja apascentação é permitida nos termos do artigo 1.º deverá ser arrebanhado e devidamente encabeçado, só se admitindo a livre apascentação a título excepcional e por período a determinar pelo serviço competente da Secretaria Regional da Economia (SRE).
 
-###### Art. 6.º - 1 - A apascentação só é permitida às associações de pastores ou proprietários de gado, legalmente constituídas, mediante prévia autorização da SRE através dos serviços florestais.
+Art. 6.º - 1 - A apascentação só é permitida às associações de pastores ou proprietários de gado, legalmente constituídas, mediante prévia autorização da SRE através dos serviços florestais.
 
 2 - Quando se trate de baldios e logradouros comuns, aquela autorização só deverá ser concedida depois de ouvidas as comissões de utentes e compartes, caso existam.
 
 3 - A autorização prevista nos números anteriores é válida pelo período de um ano, findo o qual poderá ser renovada a pedido da associação interessada.
 
-###### Art. 7.º - 1 - As infracções ao presente diploma constituem contra-ordenação punível com coima de 200$00 a 200000$00.
+Art. 7.º - 1 - As infracções ao presente diploma constituem contra-ordenação punível com coima de 200$00 a 200000$00.
 
 2 - A negligência é punida até metade do montante máximo da coima prevista no número anterior.
 
@@ -168,42 +186,42 @@ b) 1500000$00 em caso de negligência.
 
 4 - Poderá, a título de sanção acessória, ser apreendido o gado encontrado em flagrante contra-ordenação.
 
-###### Art. 8.º - 1 - A determinação da medida da coima far-se-á em função da gravidade da contra-ordenação, da culpa e da situação económica do agente.
+Art. 8.º - 1 - A determinação da medida da coima far-se-á em função da gravidade da contra-ordenação, da culpa e da situação económica do agente.
 
 2 - Sem prejuízo dos limites máximos fixados no artigo anterior, a coima deverá, sempre que possível, exceder o benefício económico que o agente retirou da prática da contra-ordenação.
 
-###### Art. 9.º Compete à Secretaria Regional da tutela, através dos serviços florestais, o processamento das contra-ordenações e a aplicação das coimas previstas no presente diploma.
+Art. 9.º Compete à Secretaria Regional da tutela, através dos serviços florestais, o processamento das contra-ordenações e a aplicação das coimas previstas no presente diploma.
 
-###### Art. 10.º Compete à Direcção dos Serviços Florestais exercer a fiscalização do cumprimento das normas do presente diploma.
+Art. 10.º Compete à Direcção dos Serviços Florestais exercer a fiscalização do cumprimento das normas do presente diploma.
 
-###### Art. 11.º - 1 - Caberá aos serviços florestais a apreensão do gado encontrado em flagrante contra-ordenação das disposições do presente diploma e de toda a legislação a publicar sobre o mesmo assunto, o qual só será entregue aos seus legítimos proprietários quando seja efectuado o pagamento da importância da coima, do valor dos danos causados e das despesas que resultem de tal apreensão ou prestem caução idónea.
+Art. 11.º - 1 - Caberá aos serviços florestais a apreensão do gado encontrado em flagrante contra-ordenação das disposições do presente diploma e de toda a legislação a publicar sobre o mesmo assunto, o qual só será entregue aos seus legítimos proprietários quando seja efectuado o pagamento da importância da coima, do valor dos danos causados e das despesas que resultem de tal apreensão ou prestem caução idónea.
 
 2 - O gado referido no número anterior será abatido se se tornar difícil ou perigosa a sua captura, incorrendo ainda o proprietário no pagamento da respectiva coima.
 
 3 - O gado que se introduza em terrenos privados com culturas susceptíveis de serem danificadas poderá ser abatido pelos proprietários desses terrenos, caso a sua captura seja impossível ou perigosa.
 
-###### Art. 12.º - 1 - Se não for conhecido o dono do gado, o funcionário florestal competente mandará afixar avisos nos lugares circunvizinhos mais próximos ou enviá-los-á para este fim ao presidente da junta de freguesia, anunciando a apreensão do gado, sua espécie e número de cabeças, o local onde está guardado e o prazo dentro do qual deve ser reclamado, sob pena de se proceder à sua venda.
+Art. 12.º - 1 - Se não for conhecido o dono do gado, o funcionário florestal competente mandará afixar avisos nos lugares circunvizinhos mais próximos ou enviá-los-á para este fim ao presidente da junta de freguesia, anunciando a apreensão do gado, sua espécie e número de cabeças, o local onde está guardado e o prazo dentro do qual deve ser reclamado, sob pena de se proceder à sua venda.
 
 2 - Se o dono do gado se apresentar a reclamá-lo, este ser-lhe-á entregue nos termos do n.º 1 do artigo anterior.
 
 3 - Se o dono do gado apreendido não se apresentar a prestar caução ou a satisfazer a coima e mais despesas dentro de 48 horas, proceder-se-á à venda dos animais, com prévia autorização superior.
 
-###### Art. 13.º O montante das coimas aplicadas pelas contra-ordenações previstas neste diploma constitui receita própria da RAM.
+Art. 13.º O montante das coimas aplicadas pelas contra-ordenações previstas neste diploma constitui receita própria da RAM.
 
-###### Art. 14.º Na apreciação e julgamento das contra-ordenações constantes deste diploma observar-se-á o disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e demais legislação aplicável.
+Art. 14.º Na apreciação e julgamento das contra-ordenações constantes deste diploma observar-se-á o disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e demais legislação aplicável.
 
-###### Art. 15.º O Governo Regional publicará os regulamentos necessários à execução do disposto no presente diploma.
+Art. 15.º O Governo Regional publicará os regulamentos necessários à execução do disposto no presente diploma.
 
-###### Art. 16.º É revogado o [Decreto Regional n.º 21/79](https://diariodarepublica.pt/dr/detalhe/decreto-regional/21-1979-365279), de 27 de Setembro.
+Art. 16.º É revogado o [Decreto Regional n.º 21/79](https://diariodarepublica.pt/dr/detalhe/decreto-regional/21-1979-365279), de 27 de Setembro.
 
-###### Art. 17.º O presente diploma entra em vigor 30 dias após a sua publicação.
+Art. 17.º O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em sessão plenária em 23 de Março de 1988.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 19 de Abril de 1988.**
+Assinado em 19 de Abril de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

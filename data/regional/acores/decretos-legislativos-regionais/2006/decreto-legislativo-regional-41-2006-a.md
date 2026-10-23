@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/41/2006/10/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/41-2006-546019
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a1e81d9b9d50d3175854ed592c804aa7904beb6963812c3fcebbf7434c3c9ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8606e61acd5d250b80e71a22267497e8aae9a8717f52e3bf4cfdbcf71ffa935
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Espetáculos e Divertimentos Públicos
-- Multa
+- Açores
 - Contra-ordenação
+- Espetáculos e Divertimentos Públicos
 - Licenciamento
 - Máquinas de Jogo
-- Açores
+- Multa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/10/1995/01/19/p/dre
@@ -101,16 +101,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/32/2003/07/01/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/32/2003/07/01/a/dre
+- type: cites
+  target: pt:dre:145222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694251:por
+  label: null
+  source: null
 article_structure:
-  article_count: 44
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 31
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:28Z'
   warnings: []
   errors: []
 ---
@@ -143,27 +179,37 @@ Requerimentos
 
 2 - ...
 
-###### Artigo 6.º — Temas dos jogos
+Artigo 6.º
+
+Temas dos jogos
 
 A importação, fabrico, montagem, substituição de temas de jogos e venda de máquinas de diversão far-se-á nos termos do artigo 22.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de Dezembro.
 
-###### Artigo 7.º — Título de registo
+Artigo 7.º
+
+Título de registo
 
 1 - Preenchidos os requisitos exigidos no artigo 5.º, o membro do Governo Regional com competência na área de polícia administrativa mandará emitir o título de registo, que acompanhará obrigatoriamente a máquina a que respeitar.
 
 2 - ...
 
-###### Artigo 8.º — Averbamento
+Artigo 8.º
+
+Averbamento
 
 1 - Em caso de transmissão de propriedade da máquina, deverá o adquirente requerer, no prazo de oito dias ao membro do Governo Regional com competência na área de polícia administrativa, o averbamento da transmissão no registo.
 
 2 - ...
 
-###### Artigo 11.º — Período de validade
+Artigo 11.º
+
+Período de validade
 
 A licença de exploração tem a duração de dois anos, contados a partir da data do despacho da concessão da licença de exploração.
 
-###### Artigo 12.º — Requerimento
+Artigo 12.º
+
+Requerimento
 
 1 - A licença de exploração é requerida pelo interessado ao membro do Governo Regional com competência na área de polícia administrativa.
 
@@ -173,7 +219,9 @@ A licença de exploração tem a duração de dois anos, contados a partir da da
 
 4 - ...
 
-###### Artigo 14.º — Consulta
+Artigo 14.º
+
+Consulta
 
 1 - O membro do Governo Regional com competência na área de polícia administrativa solicitará à câmara municipal da área da situação do recinto a emissão de parecer quanto à conveniência da concessão da licença de exploração, tendo em conta, designadamente, a adequada distância relativamente a estabelecimentos de ensino, nos termos a que se reporta o [Decreto Legislativo Regional n.º 27/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2005-584639), de 10 de Novembro.
 
@@ -181,21 +229,29 @@ A licença de exploração tem a duração de dois anos, contados a partir da da
 
 3 - O despacho do membro do Governo Regional com competência na área de polícia administrativa será fundamentado quando não for concordante com o parecer referido no n.º 1 do presente artigo.
 
-###### Artigo 15.º — Recusa
+Artigo 15.º
+
+Recusa
 
 O membro do Governo Regional com competência na área de polícia administrativa pode recusar, em despacho fundamentado, a concessão ou a renovação de licença de exploração, sempre que tal medida de polícia se justifique para a protecção à infância e juventude, prevenção da criminalidade e manutenção ou reposição da segurança, da ordem ou da tranquilidade públicas.
 
-###### Artigo 16.º — Título de licenciamento
+Artigo 16.º
+
+Título de licenciamento
 
 1 - A licença de exploração mencionará expressamente a entidade exploradora, a localização do recinto e o período de validade, bem como o número de máquinas.
 
 2 - As máquinas a que se refere o número anterior podem ser transferidas para outro recinto, na sua totalidade ou em parte, desde que se efectue dentro da mesma ilha, mediante requerimento do interessado, após a consulta a que se refere o artigo 14.º, e obtido o despacho favorável do membro do Governo Regional com competência na área de polícia administrativa, que será averbado ao respectivo alvará sem necessidade de novo licenciamento.
 
-###### Artigo 19.º — Taxas
+Artigo 19.º
+
+Taxas
 
 O deferimento dos actos requeridos nos termos deste diploma obriga ao pagamento das taxas fixadas por portaria conjunta dos membros do Governo Regional com competência nas áreas das finanças e de polícia administrativa, as quais constituem receita da Região.
 
-###### Artigo 20.º — Contra-ordenações
+Artigo 20.º
+
+Contra-ordenações
 
 1 - As infracções ao presente diploma constituem contra-ordenação punida nos termos seguintes:
 
@@ -225,11 +281,15 @@ k) Falta ou afixação indevida da inscrição ou dístico referido no n.º 5 do
 
 3 - (Anterior n.º 4.)
 
-###### Artigo 22.º — Competência para aplicação das coimas
+Artigo 22.º
+
+Competência para aplicação das coimas
 
 A aplicação das coimas compete ao membro do Governo Regional com competência na área de polícia administrativa, e o produto das mesmas constitui receita para a Região.
 
-###### Artigo 23.º — Medidas de polícia
+Artigo 23.º
+
+Medidas de polícia
 
 1 - O membro do Governo Regional com competência na área de polícia administrativa pode aplicar a medida de polícia de encerramento do recinto, bem como a de redução do seu horário de funcionamento, quando esse funcionamento se revele susceptível de violar a ordem, a segurança ou a tranquilidade públicas.
 
@@ -237,7 +297,9 @@ A aplicação das coimas compete ao membro do Governo Regional com competência 
 
 3 - ...
 
-###### Artigo 25.º — Modelos
+Artigo 25.º
+
+Modelos
 
 Os impressos próprios referidos no presente diploma serão aprovados por portaria do membro do Governo Regional com competência na área de polícia administrativa.»
 
@@ -259,11 +321,11 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 27 de Setembro de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 16 de Outubro de 2006.**
+Assinado em Angra do Heroísmo em 16 de Outubro de 2006.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -327,7 +389,9 @@ b) Factura ou documento equivalente que contenha os elementos identificativos da
 
 A importação, fabrico, montagem, substituição de temas de jogos e venda de máquinas de diversão far-se-á nos termos do artigo 22.º do [Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de Dezembro.
 
-###### Artigo 7.º — Título de registo
+###### Artigo 7.º
+
+## Título de registo
 
 1 - Preenchidos os requisitos exigidos no artigo 5.º, o membro do Governo Regional com competência na área de polícia administrativa mandará emitir o título de registo, que acompanhará obrigatoriamente a máquina a que respeitar.
 
@@ -387,7 +451,9 @@ d) Licença de utilização, a emitir pela câmara municipal.
 
 O membro do Governo Regional com competência na área de polícia administrativa pode recusar, em despacho fundamentado, a concessão ou a renovação de licença de exploração, sempre que tal medida de polícia se justifique para a protecção à infância e juventude, prevenção da criminalidade e manutenção ou reposição da segurança, da ordem ou da tranquilidade públicas.
 
-###### Artigo 16.º — Título de licenciamento
+###### Artigo 16.º
+
+## Título de licenciamento
 
 1 - A licença de exploração mencionará expressamente a entidade exploradora, a localização do recinto e o período de validade, bem como o número de máquinas.
 

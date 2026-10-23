@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2001/04/081a00/20282031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/2001/04/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2001-361911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 671315d451570edea6cea0e7b2770f2b2533f2e1707c148c55acad684636eb1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e43de72203c04f579516d2bad860a69d3bcad7d00a5f4a4b7fb6d980b63a5b89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,27 +68,35 @@ subjects:
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autonomia Patrimonial
-- Pessoal Dirigente
-- Juventude
-- Gestão Financeira
 - Conselho da Juventude da Madeira
+- Conselho Diretivo
 - Criação de Serviços
 - Definição de Competências
+- Gestão de Recursos Humanos
 - Gestão do Património
-- Conselho Diretivo
+- Gestão Financeira
 - Instituto de Juventude da Madeira
+- Juventude
+- Madeira.região Autónoma
 - Orgânica
 - Pessoa Colectiva de Direito Público
-- Madeira.região Autónoma
-- Quadro de Pessoal
+- Pessoal Dirigente
 - Política de Juventude
+- Quadro de Pessoal
 - Secretaria Regional dos Recursos Humanos
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:226239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226239:por
+  label: "Extinto a partir de 01.07.2005 o Instituto de Juventude da Madeira pelo DLR.10/2005/M.02.06.2005.AL-RAM, DR.IS-A\
+    \ [117] de 21.06.2005, e determinada a transferência das responsabilidades que detenha perante terceiros, assim como do\
+    \ seu património, para a Direcção Regional de Juventude, cuja orgânica foi aprovada pelo referido DLR 10/2005/M, que procede\
+    \ à revogação do presente diploma. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2005-226239
+  date: '2005-06-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/15/2000/07/08/m/dre
   label: null
@@ -109,16 +117,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:300664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:02Z'
   warnings: []
   errors: []
 ---
@@ -381,11 +409,11 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 16 de Fevereiro de 2001.
 
-**O Presidente da Assembleia Legislativa Regional da Madeira, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional da Madeira, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 19 de Março de 2001.**
+Assinado em 19 de Março de 2001.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 MAPA ANEXO
 

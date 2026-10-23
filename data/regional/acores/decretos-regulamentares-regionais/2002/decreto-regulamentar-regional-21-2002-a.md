@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/171b00/55095515.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2002/07/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2002-197504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96bd34692f993eab269c35220d54888739397ec31774d71fad95796abed83fe4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06a9bdeed53934374c6b1292d274548b8ce8719f093881523c08d0b7edd02148
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Inspecção Regional de Educação
 - Orgânica
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:640643:por
@@ -86,16 +86,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/29/1998/12/24/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/29/1998/12/24/a/dre
+- type: cites
+  target: pt:dre:188735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:640643:por
+  label: "Revogado pelo DRR.17/2007/A.21.08.2007.GMR-RAA, DR.IS [160] de 21.08.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2007-640643
+  date: '2007-08-21'
 article_structure:
   article_count: 34
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:33Z'
   warnings: []
   errors: []
 ---
@@ -270,7 +295,9 @@ c) O chefe de secção.
 
 2 - O Núcleo de Inspecção compreende o corpo de inspectores e depende directamente do inspector regional de Educação.
 
-###### Artigo 14.º — Secção Administrativa
+###### Artigo 14.º
+
+#### Secção Administrativa
 
 A Secção Administrativa é o serviço de gestão e apoio administrativo para a execução dos serviços de expediente geral, contabilidade, economato e administração de pessoal, à qual compete, designadamente:
 
@@ -492,18 +519,18 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, produz
 
 Aprovado em Conselho do Governo Regional, na Horta, em 13 de Maio de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Junho de 2002.**
+Assinado em Angra do Heroísmo em 25 de Junho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO I — Quadro de pessoal a que se refere o n.º 1 do artigo 15.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/171b00/55095515.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/171b00/55095515.pdf)](https://files.diariodarepublica.pt/1s/2002/07/171b00/55095515.pdf)
 
 ## ANEXO II — Estrutura indiciária a que se refere o n.º 2 do artigo 17.º
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/171b00/55095515.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/171b00/55095515.pdf)](https://files.diariodarepublica.pt/1s/2002/07/171b00/55095515.pdf)

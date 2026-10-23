@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/7/1993/06/25/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1993-266621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b1acb7e415909125764761ee10fb256fe05be89ab4e193d8b07cd677e284c09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c29185695d006b38ab0acb84f64ebed760bde9a480725dd64470cd33ed08bf18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Escola Superior de Educação
 - Carreira Profissional
+- Escola Superior de Educação
 - Instituto Superior de Artes Plásticas da Madeira
 - Integração de Trabalhadores
-- Pessoal não Docente
 - Madeira.região Autónoma
+- Pessoal não Docente
 - Quadro de Pessoal
 - Universidade da Madeira
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 149/93, DE 25 DE AGOSTO, PUBLICADA NO DR.IS-A, 204, 3 SUPL, DE 930831.\0\
+    30831.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -103,16 +108,96 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/8/1991/05/06/m/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/8/1991/05/06/m/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:343890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:53Z'
   warnings: []
   errors: []
 ---
@@ -235,13 +320,13 @@ O presente diploma entre em vigor na data da sua publicação.
 
 Aprovado em sessão plenária em 20 de Abril de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 1 de Junho de 1993.**
+Assinado em 1 de Junho de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 MAPA I
 
@@ -249,7 +334,7 @@ Universidade da Madeira
 
 Mapa de pessoal da carreira não docente (a que se refere o artigo 2.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/147a00/34763485.pdf))](https://files.diariodarepublica.pt/1s/1993/06/147a00/34763485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/147a00/34763485.pdf)
 
 MAPA II
 
@@ -257,4 +342,4 @@ Instituto Superior de Arte e Design, da Universidade da Madeira
 
 Mapa de pessoal da carreira não docente (a que se refere o artigo 3.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/147a00/34763485.pdf))](https://files.diariodarepublica.pt/1s/1993/06/147a00/34763485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/06/147a00/34763485.pdf)

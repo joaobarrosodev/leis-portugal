@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/28/2007/12/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2007-628775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb40483471ee47e9464376735cc5a028e3f6d6adb96a7aed51036bf344908bff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42b4af4fe39d3e1c725b9d34aa6ca3d542da52fbe486425e403a83cedf642693
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Regional
 - Aerogare Civil das Lajes
 - Aeroporto
 - Assistente de Operações Aeroportuárias
-- ILHA Terceira
-- Formação Profissional
-- Concurso
-- Sistema Retributivo
 - Carreira Profissional
-- Formas de Provimento
-- Recrutamento de Pessoal
-- Remuneração Acessória
+- Concurso
 - Descrição de Funções
+- Formação Profissional
+- Formas de Provimento
+- ILHA Terceira
 - Quadro de Pessoal
+- Recrutamento de Pessoal
 - Reestruturação de Carreiras
 - Remuneração
-- Administração Regional
-- Açores
+- Remuneração Acessória
+- Sistema Retributivo
 - Subsídio de Prevenção
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:21/2004/A
+  label: "Altera os arts. 3.º, 5.º, 6.º, 8.º e 9.º do Decreto Legislativo Regional n.º 21/2004/A, de 3 de Junho, DR.IS-A [130],\
+    \ e republica-o.\0\0"
+  source: null
+  date: '2004-06-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/21/2004/06/03/a/dre
   label: null
@@ -93,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/29/2002/10/02/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/29/2002/10/02/a/dre
+- type: cites
+  target: pt:dre:281202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644711:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
+  article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:41Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +143,9 @@ Quadro de pessoal
 
 O quadro de pessoal afecto ao serviço de operações aeroportuárias da Aerogare Civil das Lajes é o constante do mapa anexo ao diploma que regula a orgânica da Secretaria Regional da Economia.
 
-###### Artigo 5.º — Provimento nas categorias
+Artigo 5.º
+
+Provimento nas categorias
 
 1 - O provimento na categoria de assistente-chefe de operações aeroportuárias será feito de entre os assistentes principais de operações aeroportuárias com pelo menos seis anos de bom e efectivo serviço na categoria e que tenham durante esse período frequentado com aproveitamento duas acções de formação.
 
@@ -139,7 +155,9 @@ O quadro de pessoal afecto ao serviço de operações aeroportuárias da Aerogar
 
 4 -...
 
-###### Artigo 6.º — Métodos de selecção para categorias de ingresso
+Artigo 6.º
+
+Métodos de selecção para categorias de ingresso
 
 1 - A selecção dos candidatos que pretendam ingressar na carreira de assistente de operações aeroportuárias far-se-á mediante concurso de entre os indivíduos habilitados com o 12.º ano de escolaridade, titulares de carta de condução de automóveis ligeiros e que possuam conhecimentos de língua inglesa e de informática na óptica do utilizador.
 
@@ -153,7 +171,9 @@ c) Entrevista;
 
 d) Curso de formação geral, cuja frequência só será permitida aos candidatos que obtenham maior nota no conjunto das provas referidas nas alíneas anteriores, tendo as referidas nas alíneas a) e b) carácter eliminatório.
 
-###### Artigo 8.º — Programa da prova de conhecimentos do concurso de ingresso para assistente de operações aeroportuárias
+Artigo 8.º
+
+Programa da prova de conhecimentos do concurso de ingresso para assistente de operações aeroportuárias
 
 1 - Nos concursos de ingresso para lugares de assistente de operações aeroportuárias a prova de conhecimentos prevista no presente diploma reveste a dupla natureza de prova escrita e oral, tendo a primeira a duração de duas horas e a segunda, trinta minutos, sendo ambas classificadas na escala de 0 a 20 valores.
 
@@ -165,7 +185,9 @@ b) Prova oral - conversação em língua inglesa;
 
 c) Direitos e deveres da função pública e deontologia profissional.
 
-###### Artigo 9.º — Formação profissional
+Artigo 9.º
+
+Formação profissional
 
 1 - Os assistentes de operações aeroportuárias têm direito a frequentar acções de formação profissional.
 
@@ -177,11 +199,11 @@ O [Decreto Legislativo Regional n.º 21/2004/A](https://diariodarepublica.pt/dr/
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 31 de Outubro de 2007.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 28 de Novembro de 2007.**
+Assinado em Angra do Heroísmo em 28 de Novembro de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -391,4 +413,4 @@ São revogadas as alíneas l) e m), na parte respeitante à carreira de assisten
 
 O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23700/0883308837.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23700/0883308837.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23700/0883308837.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/07/167a00/40124013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/1994/07/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1994-297222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83e8f271155bda05e42510013ea312137ef79c4dbe9826869c4831d15e6d086d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f1384ebc7218f45cfa5936405ef03a314812906794ebd62ce1fc041dce2484c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/190/1991/05/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/190/1991/05/17/p/dre
+- type: cites
+  target: pt:dre:639489:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:339384:por
+  label: "Revogado pelo DLR.21/2000/A.2000.07.06.ALR-RAA DR.IS-A [183] DE 09/AGO/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/21-2000-339384
+  date: '2000-07-06'
 article_structure:
-  article_count: 11
+  article_count: 10
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:29Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +112,9 @@ Interessa, portanto, na sequência do [Decreto-Lei n.º 190/91](https://diarioda
 
 Assim, a Assembleia Legislativa Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Na aplicação do [Decreto-Lei n.º 190/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1991-639489), de 17 de Maio, à Região Autónoma dos Açores, ter-se-á em conta o disposto no artigo seguinte.
+Artigo 1.º Na aplicação do [Decreto-Lei n.º 190/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1991-639489), de 17 de Maio, à Região Autónoma dos Açores, ter-se-á em conta o disposto no artigo seguinte.
 
-###### Art. 2.º Os artigos 1.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º e 14.º entendem-se com a seguinte redacção:
+Art. 2.º Os artigos 1.º, 5.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º e 14.º entendem-se com a seguinte redacção:
 
 ### CAPÍTULO I — Criação, natureza e atribuições dos serviços de psicologia e orientação
 
@@ -197,16 +206,16 @@ O director regional da Educação apresentará o plano anual de início de funci
 
 5 - ...
 
-###### Art. 3.º Enquanto não forem criadas as condições de provimento no quadro de pessoal da Direcção Regional da Educação, a prestação de serviço nos serviços de psicologia e orientação deverá ser assegurada por pessoal em regime de requisição ou contratação.
+Art. 3.º Enquanto não forem criadas as condições de provimento no quadro de pessoal da Direcção Regional da Educação, a prestação de serviço nos serviços de psicologia e orientação deverá ser assegurada por pessoal em regime de requisição ou contratação.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 19 de Maio de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 16 de Junho de 1994.**
+Assinado em Angra do Heroísmo em 16 de Junho de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

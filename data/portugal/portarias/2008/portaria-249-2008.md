@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/249/2008/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/249-2008-246477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00b59c45366e2fba55451f73f71221177b9a1ce1fcd22660f1f0c5c52f952e8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8486ed993f2b0be339e6bf2e340ed6ed8a19bd0c3dd8ce2f2191ba5710ffdcfe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,19 @@ relationships:
   target: pt:dre:179024:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:204453:por
+  label: "Derrogado o disposto na al. b) do nº 1 do art. 8º do Regulamento da Pesca por Arte de Armadilha, aprovado pela Port\
+    \ 1102-D/2000 de 22-nov, alterado pelo presente diploma, pela PORT.97-A/2012.05.04.2012.MAMAOT, DR.IS [69-2ºSupl] de 05.04.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-a-2012-204453
+  date: '2012-04-05'
+- type: amended_by
+  target: pt:dre:179024:por
+  label: "Alterado o art. 8º do Regulamento da Pesca por Arte de Armadilha, aprovado pela Port 1102-D/2000, de 22-nov, na\
+    \ redação do presente diploma, pela PORT.230/2012.03.08.2012.MAMAOT, DR.IS [150] de 03.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-2012-179024
+  date: '2012-08-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
@@ -84,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1102-d/2000/11/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1102-d/2000/11/22/p/dre
+- type: cites
+  target: pt:dre:284921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:07Z'
   warnings: []
   errors: []
 ---

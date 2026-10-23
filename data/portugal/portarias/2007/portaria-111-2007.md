@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/111/2007/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-2007-522646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34907def803f3b9ddfc1a11535f4b9c359e89abdfb790839eb6f32a45d08cd89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 189dc59a828a23112eb513828add4203d2782a49e867a62e248f9c18508a2178
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,31 @@ reuse:
 subjects:
 - ALTO Comissariado para a Imigração e Minorias Étnicas
 - Associação Juvenil
-- Financiamento
-- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
-- Instituto Português da Juventude
-- Jovem
-- Intercâmbio Cultural
-- Registo Nacional do Associativismo Jovem
 - Comissão para a Igualdade e para os Direitos das Mulheres
+- Financiamento
+- Instituto Português da Juventude
+- Intercâmbio Cultural
+- Jovem
 - Programa todos Diferentes todos Iguais
+- Registo Nacional do Associativismo Jovem
 - Regulamento
+- Secretariado Nacional para a Reabilitação e Integração das Pessoas com Deficiência
 relationships:
 - type: amended_by
   target: pt:dre:628530:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2535061:por
+  label: "Determinado o cancelamento da 2ª fase, prevista no n.º 2 do artigo 4.º do Regulamento aprovado pelo presente acto,\
+    \ pela PORT.612/2007.23.07.2007.SEJDESP-PCM, DR.IIS [140] de 23.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/612-2007-2535061
+  date: '2007-07-23'
+- type: amended_by
+  target: pt:dre:628530:por
+  label: "Alterado o art. 9º pela PORT.1516/2007.03.12.2007.PCM, DR.IS [232] de 03.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1516-2007-628530
+  date: '2007-12-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/198/1996/10/17/p/dre
   label: null
@@ -93,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/745-m/1996/12/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/745-m/1996/12/18/p/dre
+- type: cites
+  target: pt:dre:226063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584816:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:20Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +160,7 @@ A gestão do Programa TDTI é atribuída ao Instituto Português da Juventude.
 
 A presente portaria produz efeitos a partir de 1 de Janeiro de 2007.
 
-**O Secretário de Estado da Juventude e do Desporto, Laurentino José Monteiro Castro Dias, em 4 de Janeiro de 2007.**
+O Secretário de Estado da Juventude e do Desporto, Laurentino José Monteiro Castro Dias, em 4 de Janeiro de 2007.
 
 REGULAMENTO DO PROGRAMA TODOS DIFERENTES, TODOS IGUAIS
 

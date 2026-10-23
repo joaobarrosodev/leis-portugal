@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/02/029a00/07140715.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/1992/02/04/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1992-150510
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 543a6c0cb74151ff2dfff179f102f5734564341894e649420ead6e56aae0ecac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb83b8c17d4e118628a383fae4afa606fe2952ca6d7058471488e8d0f1c334f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Colocação de Professores
 - Concurso
+- Educação Pré-escolar
 - Educador de Infância
-- Secretaria Regional da Educação e Cultura
+- Ensino Básico
 - Ensino Primário
 - Pessoal Docente
-- Ensino Básico
 - Quadro de Pessoal
-- Açores
-- Educação Pré-escolar
+- Secretaria Regional da Educação e Cultura
 relationships:
 - type: amended_by
   target: pt:dre:683641:por
@@ -84,16 +84,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/4/1991/02/26/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/4/1991/02/26/a/dre
+- type: cites
+  target: pt:dre:282714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484414:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:683641:por
+  label: "Revogado pelo DLR.27/2003/A.2003.05.22.ALR-RAA DR.IS-A [133] de 09/Jun/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2003-683641
+  date: '2003-05-22'
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:13Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +125,7 @@ Considerando, em consequência, que importa clarificar a redacção dada aos n.o
 
 Nestes termos, a Assembleia Legislativa Regional dos Açores decreta, ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea i) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo, o seguinte:
 
-###### Artigo 1.º Na aplicação à Região Autónoma dos Açores, o artigo 70.º do [Decreto-Lei n.º 35/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1988-282714), de 4 de Fevereiro, passa a ter a seguinte redacção:
+Artigo 1.º Na aplicação à Região Autónoma dos Açores, o artigo 70.º do [Decreto-Lei n.º 35/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1988-282714), de 4 de Fevereiro, passa a ter a seguinte redacção:
 
 ###### Artigo 70.º - 1 - ...
 
@@ -128,14 +145,14 @@ b) Impossibilidade de fornecimento de refeições aos alunos deslocados.
 
 7 - A Secretaria Regional da Educação e Cultura assegurará, dentro dos recursos humanos disponíveis, o apoio que se revelar necessário ao normal funcionamento da escola para a qual foram deslocados alunos.
 
-###### Art. 2.º O disposto neste diploma é aplicável a partir do ano lectivo de 1991-1992.
+Art. 2.º O disposto neste diploma é aplicável a partir do ano lectivo de 1991-1992.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Dezembro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 26 de Dezembro de 1991.**
+Assinado em Angra do Heroísmo em 26 de Dezembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

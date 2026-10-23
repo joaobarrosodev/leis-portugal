@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/11/257a00/59525955.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/1998/11/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1998-223192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c0c05d4f9320ef31bcb6502be242c1e36cc6d439279be950c1787e95558a835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4946b5b3d12700a122cecaab54061c8d528543768b849bed5ab61a46525b7a46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Educador de Infância
-- Pessoal Docente
-- Ensino Básico
 - Açores
+- Educador de Infância
+- Ensino Básico
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:538620:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:232558:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral da norma contante do art. 2.º na parte relativa ao\
+    \ art. 24.º do Estatuto da carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário aprovado\
+    \ pelo Dec Lei 139-A/90, de 20-Abr, pelo AC.81/2003.2003.02.12.TCS DR.IS-A [78] DE 02/ABR/2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/81-2003-232558
+  date: '2003-02-12'
+- type: amended_by
+  target: pt:dre:572604:por
+  label: "Alterado o art. 24º pelo DLR.22/2003/A.2003.04.08.ALR-RAA DR.IS-A [104] de 06/Mai/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/22-2003-572604
+  date: '2003-04-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
   label: null
@@ -95,16 +107,65 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/1-a/1998/01/28/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/1-a/1998/01/28/a/dre
+- type: cites
+  target: pt:dre:210848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580289:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:538620:por
+  label: "Revogado pelo DLR.28/2006/A.21.07.2006.AL-RAA, DR.IS [152] de 08.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2006-538620
+  date: '2006-07-21'
 article_structure:
-  article_count: 25
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:00Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +202,9 @@ Os artigos 1.º, 19.º, 23.º, 24.º, 39.º, 47.º, 50.º, 53.º, 58.º, 60.º, 
 
 4 - ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -153,7 +216,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - A verificação dos requisitos físicos e psíquicos necessários ao exercício da função docente e da inexistência de toxicodependências de qualquer natureza é realizada por médicos credenciados pela Secretaria Regional da Educação e Assuntos Sociais.
 
@@ -161,11 +226,15 @@ b) ...
 
 3 - A decisão proferida ao abrigo do disposto no número anterior é susceptível de recurso, sem efeito suspensivo, para a junta médica da Direcção Regional da Educação no prazo de 10 dias úteis, suportando o recorrente os correspondentes encargos, nos termos gerais de direito.
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 A regulamentação dos concursos previstos no presente Estatuto será objecto de decreto regulamentar regional, com a participação das organizações sindicais do pessoal docente.
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - ...
 
@@ -191,7 +260,9 @@ e) ...
 
 7 - ...
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - ...
 
@@ -201,7 +272,9 @@ e) ...
 
 4 - Da decisão da comissão de avaliação referida no número anterior cabe recurso para o Secretário Regional da Educação e Assuntos Sociais, a interpor no prazo de 30 dias.
 
-###### Artigo 50.º — [...]
+Artigo 50.º
+
+[...]
 
 1 - ...
 
@@ -213,29 +286,39 @@ e) ...
 
 5 - Das decisões sobre a avaliação extraordinária cabe recurso para o Secretário Regional da Educação e Assuntos Sociais, a interpor no prazo de 30 dias.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
 2 - Da decisão prevista no número anterior cabe recurso para o Secretário Regional da Educação e Assuntos Sociais, a interpor no prazo de 30 dias.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 1 - ...
 
 2 - Para efeitos do disposto no número anterior, podem ser criadas no quadro da Direcção Regional da Educação as carreiras técnica e técnica superior de educação.
 
-###### Artigo 60.º — [...]
+Artigo 60.º
+
+[...]
 
 O exercício de outras funções educativas para as quais o docente se encontre qualificado determina o abono de remuneração superior à que pelo docente é auferida no escalão da carreira onde se encontra, nos termos a definir em decreto regulamentar regional, com a participação das organizações sindicais do pessoal docente.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - Por decreto regulamentar regional serão definidos os subsídios e outros benefícios de carácter não remuneratório destinados a criar condições de fixação dos docentes em ilhas ou concelhos onde se detectem carências acentuadas de pessoal docente.
 
 2 - Os subsídios e benefícios previstos no número anterior terão em conta os diferentes níveis de ensino e grupos de docência, sendo atribuídos por períodos não superiores a cinco anos.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - A requisição de docentes visa assegurar o exercício transitório de funções nas Direcções Regionais da Educação e da Educação Física e Desporto, bem como em serviços delas dependentes.
 
@@ -259,7 +342,9 @@ g) ...
 
 4 - ...
 
-###### Artigo 71.º — [...]
+Artigo 71.º
+
+[...]
 
 1 - A autorização do destacamento, da requisição e da comissão de serviço de docentes é concedida por despacho do director regional da Educação, após parecer fundamentado dos órgãos de administração e gestão dos estabelecimentos de educação ou de ensino a cujo quadro pertencem.
 
@@ -271,7 +356,9 @@ g) ...
 
 5 - ...
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -297,7 +384,9 @@ d) ...
 
 8 - O docente dispensado da componente lectiva cumpre, na parte correspondente à dispensa, o horário normal da função pública, não podendo recusar o desempenho de tarefas não docentes, no âmbito do estabelecimento de ensino.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - ...
 
@@ -311,29 +400,39 @@ d) ...
 
 6 - ...
 
-###### Artigo 97.º — [...]
+Artigo 97.º
+
+[...]
 
 Para verificação das condições de saúde e de trabalho do pessoal docente realizar-se-ão acções periódicas de rastreio, da competência de médicos credenciados para o efeito pela Secretaria Regional da Educação e Assuntos Sociais.
 
-###### Artigo 98.º — [...]
+Artigo 98.º
+
+[...]
 
 1 - O atestado médico para efeitos de comprovação da doença, nos termos previstos na lei geral, é passado por médicos credenciados para o efeito pela Secretaria Regional da Educação e Assuntos Sociais ou, na impossibilidade justificada de a eles recorrer, nos termos do regime geral.
 
 2 - ...
 
-###### Artigo 100.º — [...]
+Artigo 100.º
+
+[...]
 
 1 - Sem prejuízo das competências reconhecidas por lei à junta médica da Caixa Geral de Aposentações, a referência à junta médica prevista na lei geral e no presente diploma considera-se feita à junta médica da Direcção Regional da Educação.
 
 2 - A junta médica da Direcção Regional da Educação é a única entidade competente para avaliar da verificação da situação de risco para o nascituro, que para a docente grávida constitui fundamento para dispensa dos seus deveres funcionais no respectivo estabelecimento de educação ou de ensino.
 
-###### Artigo 113.º — [...]
+Artigo 113.º
+
+[...]
 
 1 - ...
 
 2 - Os membros docentes do órgão de administração e gestão dos estabelecimentos de educação ou de ensino são disciplinarmente responsáveis perante o director regional da Educação.
 
-###### Artigo 115.º — [...]
+Artigo 115.º
+
+[...]
 
 1 - ...
 
@@ -345,7 +444,9 @@ Para verificação das condições de saúde e de trabalho do pessoal docente re
 
 5 - ...
 
-###### Artigo 116.º — [...]
+Artigo 116.º
+
+[...]
 
 1 - ...
 
@@ -371,10 +472,10 @@ As competências atribuídas no Estatuto da Carreira dos Educadores de Infância
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 23 de Setembro de 1998.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
 
-**Assinada em 23 de Outubro de 1998.**
+Assinada em 23 de Outubro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

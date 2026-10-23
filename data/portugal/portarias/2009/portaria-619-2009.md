@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/619/2009/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/619-2009-494497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03e019059aa544e463d225f886d784b1b4b98073b67a1a468ae7905321b00b34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adcecb75222c2eb048e4c4fd968e97dd92717b8e2abb32f012995c5b9ee4c928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,56 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Pesca
 - Apoio ao Investimento
-- Investimento
 - Aquicultura
+- Comércio
+- Financiamento
+- Investimento
+- Pesca
 - Produtos de Pesca
 - Regime de Apoio
 - Regulamento
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:146210:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:613213:por
+  label: "Alterado o art. 4.º do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação e da Comercialização\
+    \ dos Produtos da Pesca e da Aquicultura, aprovado pela Port 424-C/2008, de 13-Jun, na redacção do presente diploma, pela\
+    \ PORT.227/2010.22.04.2010.MADRP, DR.IS [78] de 22.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/227-2010-613213
+  date: '2010-04-22'
+- type: amended_by
+  target: pt:dre:308725:por
+  label: "Alterado o art. 16º do Regulamento, aprovado pela Port 424-C/2008, de 13-Jun, na redacção do presente diploma, pela\
+    \ PORT.1174/2010.16.11.2010.MADRP, DR.IS [222] de 16.11.2010, que procede à republicação do Regulamento\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1174-2010-308725
+  date: '2010-11-16'
+- type: amended_by
+  target: pt:dre:146210:por
+  label: "Alterados os arts. 7.º e 16º do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação e\
+    \ da Comercialização dos Produtos da Pesca e da Aquicultura, aprovado pela Portaria n.º 424-C/2008, de 13 de Junho, na\
+    \ redacção do presente diploma, pela PORT.298/2011.18.11.2011.MAMAOT, DR.IS [222] de 18.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-2011-146210
+  date: '2011-11-18'
+- type: amended_by
+  target: pt:dre:1272217:por
+  label: "Determinada a interrupção, na região não abrangida pelo objetivo de convergência no Continente, do período para\
+    \ apresentação de candidaturas ao abrigo do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação\
+    \ e da Comercialização dos Produtos da Pesca e da Aquicultura, aprovado pela Portaria n.º 424-C/2008, de 13-Jun, na redação\
+    \ da presente portaria, pelo DESP.641/2012.17.01.2012.AGP-MAMAOT, DR.IIS [12] de 17.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/641-2012-1272217
+  date: '2012-01-17'
+- type: amended_by
+  target: pt:dre:2433736:por
+  label: "Determinada a cessação da interrupção, na região abrangida pelo objetivo de convergência no Continente, do período\
+    \ para apresentação das candidaturas ao abrigo do Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação\
+    \ e da Comercialização dos Produtos da Pesca e da Aquicultura, aprovado pela Port 424-C/2008, de 13-Jun, com as alterações\
+    \ introduzidas pelo presente diploma, pelo DESP.9713/2013.24.07.2013.AGP-MAMAOT, DR.IIS [141] de 24.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/9713-2013-2433736
+  date: '2013-07-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/209/2008/10/29/p/dre
   label: null
@@ -93,16 +129,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/424-c/2008/06/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/424-c/2008/06/13/p/dre
+- type: cites
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551628:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:19Z'
   warnings: []
   errors: []
 ---
@@ -143,7 +191,9 @@ b) ...
 
 c) ...
 
-###### Artigo 7.º — Despesas não elegíveis
+Artigo 7.º
+
+Despesas não elegíveis
 
 Sem prejuízo do disposto no artigo 6.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de Maio, não são consideradas para efeitos de concessão de apoios as seguintes despesas:
 
@@ -173,7 +223,9 @@ j) ...
 
 l) ...
 
-###### Artigo 16.º — Obrigações dos beneficiários
+Artigo 16.º
+
+Obrigações dos beneficiários
 
 Sem prejuízo das obrigações previstas no artigo 11.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de Maio, constituem obrigações dos beneficiários:
 
@@ -189,7 +241,9 @@ e) ...
 
 f) ...
 
-## ANEXO III — Metodologia para o cálculo da pontuação final (PF)
+ANEXO III
+
+Metodologia para o cálculo da pontuação final (PF)
 
 (a que se refere o artigo 12.º)
 

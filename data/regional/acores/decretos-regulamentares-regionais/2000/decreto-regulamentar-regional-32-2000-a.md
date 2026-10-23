@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/32/2000/10/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-2000-540858
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8129310e49e79330ce5f6b0c2a364e94ab328ed5c6fc50165fb1833b7f489007
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5182d0f5ea6b2ab349983ff1e76e682f41a04b8d829a322fabc7ffec309cc6de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Plano Director Municipal
-- Lagoa.Açores
-- Política de Solos
-- Plano de Urbanização
 - Açores
+- Lagoa.Açores
+- Ordenamento do Território
+- Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
 relationships:
 - type: amended_by
   target: pt:dre:241782:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241782:por
+  label: "Ratificada a suspensão parcial pelo prazo de dois anos e ratificado o estabelecimento de medidas preventivas por\
+    \ igual prazo nas áreas delimitadas nas plantas que constituem os anexos I e II ao DRR.18/2005/A.12.07.2005.PG-RAA, DR.IS-B\
+    \ [153] de 10.08.2005, ao Plano de urbanização da Vila da Lagoa constante do presente diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2005-241782
+  date: '2005-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-l
   label: null
@@ -116,16 +123,200 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/48/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:155001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283574:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430871:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673852:por
+  label: null
+  source: null
 article_structure:
   article_count: 59
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:18Z'
   warnings: []
   errors: []
 ---
@@ -194,13 +385,13 @@ São ainda ratificadas as alterações agora introduzidas no Plano Director Muni
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Julho de 2000.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 15 de Setembro de 2000.**
+Assinado em Angra do Heroísmo em 15 de Setembro de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — Plano de Urbanização da Vila de Lagoa
 
@@ -306,9 +497,9 @@ Regulamento
 
 O presente Regulamento está dividido em cinco capítulos e seis subcapítulos, que correspondem respectivamente a:
 
-### Capítulo 1, «Disposições gerais»;
+Capítulo 1, «Disposições gerais»;
 
-### Capítulo 2, «Zonas urbanas e urbanizáveis»:
+Capítulo 2, «Zonas urbanas e urbanizáveis»:
 
 Subcapítulo 2.1, «Zona de construção tipo I (ou de colmatação)»;
 
@@ -320,13 +511,13 @@ Subcapítulo 2.4, «Zona de indústria e de armazenagem»;
 
 Subcapítulo 2.5, «Zona de equipamentos»;
 
-### Capítulo 3, «Zonas agrícolas ou florestais»:
+Capítulo 3, «Zonas agrícolas ou florestais»:
 
 Subcapítulo 3.1, «Subzona de protecção ambiental»;
 
-### Capítulo 4, «Zonas de salvaguarda»;
+Capítulo 4, «Zonas de salvaguarda»;
 
-### Capítulo 5, «Disposições complementares».
+Capítulo 5, «Disposições complementares».
 
 Estes capítulos estruturam intenções de ordenamento de território, expressas na carta de zonamento e que se reflectem no Regulamento do Plano de Urbanização da Vila de Lagoa.
 

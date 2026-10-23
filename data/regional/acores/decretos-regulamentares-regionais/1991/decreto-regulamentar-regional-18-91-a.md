@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/07/155b00/35033505.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/18/1991/07/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1991-668075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d99f5dfc9ab1e5c794de092d4e0470871d46148246ca4519c54e938d56ae6c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5709c9c73d543b12b9d6693ef51a013125c2402e3a7bfa10bb747757e819835
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,76 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - CASA de Cultura
 - Direcção Regional dos Assuntos Culturais
 - Horta
 - Orgânica
 - Ponta Delgada
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:168043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:168043:por
+  label: "Extintas As Casas de Cultura de São Miguel, da Terceira, do Faial e do Pico reestruturadas pelo presente diploma\
+    \ e determinado que o seu património seja integrado na Direcção Regional da Cultura pelo pelo DRR.3/2006/A.19.12.2005.PG-RAA,\
+    \ DR.IS-B [7] de 10.01.2006 nos termos dos seus nºs 2 e 3 do art. 2.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2006-168043
+  date: '2005-12-19'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472126:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678201:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584457:por
+  label: "Revogado pelo DRR.36/2000/A.2000.11.10.SREAS-RAA DR.IS-B [282] DE 07/DEZ/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2000-584457
+  date: '2000-11-10'
 article_structure:
   article_count: 11
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:47Z'
   warnings: []
   errors: []
 ---
@@ -196,14 +244,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 2 de Maio de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Junho de 1991.**
+Assinado em Angra do Heroísmo em 3 de Junho de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 5.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/07/155b00/35033505.pdf))](https://files.diariodarepublica.pt/1s/1991/07/155b00/35033505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/155b00/35033505.pdf)

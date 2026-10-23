@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2005/07/138a00/43114313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/16/2005/07/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2005-237391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9870b1ada67dae21f8211c9bfafc580343362874fe4a83d8ceb0d90aeea96e9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5af1a7b32621cdd46aa1cbdc14bafbcb965c95f11283d477175e9472d5c70928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Agricultura
 - Aproximação das Legislações
-- Multa
 - Contra-ordenação
-- Saúde Pública
+- Fertilizante
 - Fiscalização
 - Licenciamento
-- Proteção do Ambiente
-- Fertilizante
+- Multa
 - Política Agrícola
+- Proteção do Ambiente
 - Regulamento CE
-- Agricultura
-- Açores
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:482859:por
@@ -95,16 +95,26 @@ relationships:
   target: celex:32003R0807
   label: null
   source: http://data.europa.eu/eli/reg/2003/807/oj
+- type: corrected_by
+  target: pt:dre:243098:por
+  label: "Rectificado pela DECL-RECT.62/2005.05.08.2005.PCM, DR.IS-A [159] de 19.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/62-2005-243098
+  date: '2005-08-05'
+- type: repealed_by
+  target: pt:dre:482859:por
+  label: "Revogado, a partir de 24.10.2009, pelo DLR.18/2009/A.19.10.2009.AL-RAA, DR.IS [202] de 19.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2009-482859
+  date: '2009-10-19'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:10Z'
   warnings: []
   errors: []
 ---
@@ -277,10 +287,10 @@ O presente diploma entra em vigor no dia imediato ao da publicação da portaria
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de Junho de 2005.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 29 de Junho de 2005.**
+Assinado em Angra do Heroísmo em 29 de Junho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

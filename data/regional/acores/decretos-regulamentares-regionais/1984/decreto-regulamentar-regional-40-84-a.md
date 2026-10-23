@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/11/26600/34903491.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1984-400779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b1e6dff68b1eaecd043cccfcdd93ec47cd339c823c4ec8fa62cf3383b1f1236
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3e71a852f869089cc81819eb09cccd356489cd9607fb1ccc3fc881ff0d4484b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Medidas Preventivas
+- Obras Públicas
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:174834:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174834:por
+  label: "Revogado pelo DRR.19/2012/A.03.09.2012.PG-RAA, DR.IS [170] de 03.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2012-174834
+  date: '2012-09-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:19Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +108,7 @@ Considerando que se pretende que as instalações daquele órgão de soberania s
 
 Manda o Governo Regional dos Açores, ao abrigo da alínea d) do artigo 229.º da Constituição e da alínea b) do artigo 44.º do Estatuto da Região Autónoma dos Açores e nos termos dos artigos 7.º e 27.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o seguinte:
 
-###### Artigo 1.º - 1 - Durante o prazo de 2 anos fica dependente de autorização da Câmara Municipal da Horta, depois de emitido parecer favorável da Direcção Regional de Habitação, Urbanismo e Ambiente e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
+Artigo 1.º - 1 - Durante o prazo de 2 anos fica dependente de autorização da Câmara Municipal da Horta, depois de emitido parecer favorável da Direcção Regional de Habitação, Urbanismo e Ambiente e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, a prática, na área definida na planta anexa a este diploma, dos actos ou actividades seguintes:
 
 a) Criação de novos núcleos habitacionais;
 
@@ -113,20 +126,20 @@ f) Destruição do solo vivo e do coberto vegetal.
 
 3 - São competentes para promover o cumprimento das medidas estabelecidas neste diploma e de proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, a Câmara Municipal da Horta e a Direcção Regional de Habitação, Urbanismo e Ambiente.
 
-###### Art. 2.º - 1 - É concedido à Câmara Municipal da Horta o direito de preferência nas transmissões, por título oneroso, entre particulares de terrenos ou edifícios situados na área definida no n.º 1 do artigo 1.º
+Art. 2.º - 1 - É concedido à Câmara Municipal da Horta o direito de preferência nas transmissões, por título oneroso, entre particulares de terrenos ou edifícios situados na área definida no n.º 1 do artigo 1.º
 
 2 - Deverá ser dirigida ao presidente da Câmara Municipal da Horta a comunicação a que se refere o artigo 3.º do Decreto-Lei n.º 862/76, de 22 de Dezembro.
 
-###### Art. 3.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º Este decreto entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional em 27 de Setembro de 1984.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 2 de Novembro de 1984.**
+Assinado em Angra do Heroísmo em 2 de Novembro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/11/26600/34903491.pdf))](https://files.diariodarepublica.pt/1s/1984/11/26600/34903491.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/26600/34903491.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/10400/0334903364.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/570/2009/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-2009-494176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dce3e2e4d589bb465f2331572c8aab94c7d67f9772eb262a847d9b67bfb5c3c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 647fd15890d49a636c84305c6ab480452b2dfd81b312a0720ea9772084d555d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
 - Centro de Formação Profissional
 - Centro de Reabilitação Profissional
-- Formação Profissional
 - Coordenador
 - Coordenador Regional
 - Definição de Competências
-- Estatuto
-- Recrutamento de Pessoal
-- Pessoal de Chefia
 - Emprego
+- Estatuto
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Pessoal de Chefia
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:176363:por
@@ -111,16 +111,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/637/2007/05/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/637/2007/05/30/p/dre
+- type: cites
+  target: pt:dre:305451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638534:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:494794:por
+  label: "Rectificada pela DECL-RECT.42/2009.23.06.2009.PCM, DR.IS [119] de 23.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/42-2009-494794
+  date: '2009-06-23'
+- type: repealed_by
+  target: pt:dre:176363:por
+  label: "Revogada a Port 637/2007, de 30-maio, na redação do presente diploma, pela PORT.319/2012.12.10.2012.MF, DR.IS [198]\
+    \ de 12.10.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/319-2012-176363
+  date: '2012-10-12'
 article_structure:
-  article_count: 43
+  article_count: 41
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:02Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +196,9 @@ Dos cargos de chefia e de direcção dos serviços centrais
 
 4 - Sem prejuízo do disposto do n.º 4 do artigo 20.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, o recrutamento para os titulares de cargos de coordenador de núcleo dos serviços centrais é feito de entre trabalhadores com relação jurídica de emprego público que reúnam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respectivas funções e que possuam conhecimento e experiência nos domínios do emprego e da formação profissional.
 
-###### Artigo 22.º-A — Dos cargos de chefia e de direcção dos serviços de coordenação regionais
+Artigo 22.º-A
+
+Dos cargos de chefia e de direcção dos serviços de coordenação regionais
 
 1 - Os cargos de subdelegado regional, bem como os equiparados, correspondem a cargos de direcção superior de 1.º grau.
 
@@ -169,7 +210,9 @@ Dos cargos de chefia e de direcção dos serviços centrais
 
 5 - Sem prejuízo do disposto no n.º 4 do artigo 20.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, o recrutamento para os titulares de cargos de núcleo dos serviços de coordenação regional é feito de entre trabalhadores com relação jurídica de emprego público que reúnam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respectivas funções e que possuam conhecimento e experiência nos domínios do emprego e da formação profissional.
 
-###### Artigo 27.º-A — Dos cargos de chefia e de direcção das unidades orgânicas locais
+Artigo 27.º-A
+
+Dos cargos de chefia e de direcção das unidades orgânicas locais
 
 1 - Os cargos de director de centro constituem cargos dirigentes específicos do IEFP, I. P., em virtude da sua organização desconcentrada em unidades orgânicas locais, conforme disposto no artigo 26.º, sendo equiparados a cargos de direcção intermédia de 1.º grau.
 
@@ -457,7 +500,7 @@ A presente portaria produz efeitos a 1 de Janeiro de 2009.
 
 Em 19 de Maio de 2009.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia.
 
 ## ANEXO I — REPUBLICAÇÃO DOS ESTATUTOS DO INSTITUTO DO EMPREGO E FORMAÇÃO PROFISSIONAL, I. P.
 
@@ -1525,4 +1568,4 @@ Centro de reabilitação - Centro de Reabilitação Profissional de Alcoitão.
 
 ## ANEXO II — Quadro de dirigentes e chefias do IEFP, I. P.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/05/10400/0334903364.pdf))](https://files.diariodarepublica.pt/1s/2009/05/10400/0334903364.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/05/10400/0334903364.pdf)

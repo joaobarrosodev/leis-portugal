@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2008/03/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2008-246539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cf600f08abb435f5206a36973b678024877f59b187abd775449d984fe5f9bc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93a7e8710a470f396522ce26d249d85f5c52691fd56c7a2402727fdca462bafb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Documentação
-- Pagamento
-- Ilha do Pico
-- Património Mundial
-- Zona de Proteção
-- Regime de Apoio
 - Açores
-- Vitivinicultor
+- Documentação
+- Financiamento
+- Ilha do Pico
+- Pagamento
+- Património Mundial
+- Regime de Apoio
 - Vinha
+- Vitivinicultor
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:64797341:por
@@ -85,16 +85,22 @@ relationships:
   target: celex:32001R1282
   label: null
   source: http://data.europa.eu/eli/reg/2001/1282/oj
+- type: repealed_by
+  target: pt:dre:64797341:por
+  label: Revogado, nos termos do art. 2.º e art. 4.º, o DRR 7/2006/A, de 09-fev, na redação do presente diploma, pelo(a) Decreto
+    Regulamentar Regional n.º 24/2014/A - Diário da República n.º 241/2014, Série I de 2014-12-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2014-64797341
+  date: '2014-12-15'
 article_structure:
-  article_count: 23
+  article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:34Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +129,9 @@ Objecto e âmbito
 
 O presente diploma estabelece o regime de apoios a conceder pela administração regional autónoma para a manutenção da paisagem da cultura tradicional da vinha em currais na ilha do Pico no interior da área classificada como património mundial e da zona tampão, delimitadas no anexo ao presente diploma, que dele faz parte integrante.
 
-###### Artigo 2.º — Regime de apoios
+Artigo 2.º
+
+Regime de apoios
 
 1 - O regime de apoios estabelecido no presente diploma será concedido às parcelas de vinhas que se encontrem em produção no interior da zona classificada e da zona tampão e nas seguintes situações:
 
@@ -133,11 +141,15 @@ b) Outras áreas que, embora não tenham sido objecto do apoio referido na alín
 
 2 - ...
 
-###### Artigo 3.º — Beneficiários
+Artigo 3.º
+
+Beneficiários
 
 Podem beneficiar dos apoios à manutenção da paisagem protegida da cultura da vinha do Pico todos os proprietários, possuidores ou detentores a qualquer título de vinhas em currais localizadas no interior da zona classificada como património mundial e da zona tampão.
 
-###### Artigo 4.º — Instrução da candidatura
+Artigo 4.º
+
+Instrução da candidatura
 
 1 - ...
 
@@ -151,7 +163,9 @@ b) Documento comprovativo da propriedade, posse ou detenção a qualquer título
 
 4 - ...
 
-###### Artigo 5.º — Apoios
+Artigo 5.º
+
+Apoios
 
 1 - O apoio previsto no presente diploma compreende os seguintes níveis:
 
@@ -177,15 +191,15 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Madalena, Pico, em 11 de Fevereiro de 2008.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Março de 2008.**
+Assinado em Angra do Heroísmo em 13 de Março de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06200/0182501828.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06200/0182501828.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06200/0182501828.pdf)
 
 ## ANEXO II — Republicação do Decreto Regulamentar Regional n.º 7/2006/A, de 9 de Fevereiro
 
@@ -303,4 +317,4 @@ b) Catástrofe natural grave que afecte de modo significativo a superfície agr�
 
 2 - O regime previsto no Decreto Regulamentar Regional n.º 23/2004/A, de 1 de Julho, mantém-se em vigor para as situações constituídas ao seu abrigo.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06200/0182501828.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06200/0182501828.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/03/06200/0182501828.pdf)

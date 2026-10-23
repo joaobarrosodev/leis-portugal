@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/2025/10/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2025-940290135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5d1fd02076ed5879ce91c0653200608d4d8bc81403d6ba0f02594ccdf092f3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cabd028b48bb27567981f1d6ee128967509b05de37c79255b76e271ef8783dfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Ação Social
+- Açores
 - Contrato de Cooperação Técnico Financeira
 - Contrato de Financiamento
-- Regulamentação de Atos Legislativos
-- Ação Social
+- Financiamento
 - Regime de Apoio
+- Regulamentação de Atos Legislativos
 - Segurança Social
-- Açores
 - Subsídio
 relationships:
 - type: cites
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/8/2025/02/12/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/8/2025/02/12/a/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:907097150:por
+  label: null
+  source: null
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:09Z'
   warnings: []
   errors: []
 ---
@@ -185,7 +197,7 @@ O apoio pontual visa a atribuição ao beneficiário de um apoio financeiro para
 
 ###### Artigo 9.º — Candidaturas
 
-1 - As candidaturas às tipologias de apoios previstos no n.º 1 do artigo 4.º são abertas por despacho do membro do Governo Regional competente em matéria de solidariedade e segurança social, de acordo com a avaliação das necessidades, conforme previsto nos n.<sup>os</sup>4 e 5 do artigo 3.º e no artigo 12.º do [Decreto Legislativo Regional n.º 8/2025/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-907097150), de 12 de fevereiro.
+1 - As candidaturas às tipologias de apoios previstos no n.º 1 do artigo 4.º são abertas por despacho do membro do Governo Regional competente em matéria de solidariedade e segurança social, de acordo com a avaliação das necessidades, conforme previsto nos n.os4 e 5 do artigo 3.º e no artigo 12.º do [Decreto Legislativo Regional n.º 8/2025/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-907097150), de 12 de fevereiro.
 
 2 - O despacho referido no número anterior deve conter os elementos seguintes:
 
@@ -219,7 +231,7 @@ e) Ter capacidade técnica e financeira para a boa execução da ação subjacen
 
 f) Ter certificado de Resposta Social.
 
-2 - As pessoas singulares encontram-se ainda sujeitas, sempre que aplicável, ao disposto nos n.<sup>os</sup>2 e 3 do artigo 13.º do [Decreto Legislativo Regional n.º 8/2025/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-907097150), de 12 de fevereiro.
+2 - As pessoas singulares encontram-se ainda sujeitas, sempre que aplicável, ao disposto nos n.os2 e 3 do artigo 13.º do [Decreto Legislativo Regional n.º 8/2025/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-907097150), de 12 de fevereiro.
 
 3 - O não preenchimento de qualquer uma das condições a que se referem os números anteriores conduz ao indeferimento liminar da candidatura.
 
@@ -237,7 +249,7 @@ f) Ter certificado de Resposta Social.
 
 1 - É da competência do membro do Governo Regional competente em matéria de solidariedade e segurança social a decisão, mediante despacho, sobre as candidaturas a todas as tipologias de apoio previstas no n.º 1 do artigo 4.º
 
-2 - A decisão sobre as candidaturas às tipologias de apoios referidas nas alíneas a) e b) do n.º 1 do artigo 4.º pode ser delegada no dirigente máximo do serviço competente para a instrução nos termos previstos nos n.<sup>os</sup>2 e 3 do artigo anterior.
+2 - A decisão sobre as candidaturas às tipologias de apoios referidas nas alíneas a) e b) do n.º 1 do artigo 4.º pode ser delegada no dirigente máximo do serviço competente para a instrução nos termos previstos nos n.os2 e 3 do artigo anterior.
 
 3 - O despacho de decisão sobre as candidaturas às tipologias de apoio previstas nas alíneas c) e d) do n.º 1 do artigo 4.º produz efeitos após a publicação no Jornal Oficial da Região Autónoma dos Açores.
 
@@ -313,7 +325,7 @@ i) Executar as recomendações, nomeadamente de caráter técnico ou financeiro,
 
 4 - Para efeitos do referido nos números anteriores o membro do Governo Regional competente em matéria de solidariedade social notifica os beneficiários do incumprimento, do montante em dívida e da respetiva fundamentação, nos termos do disposto no Código do Procedimento Administrativo, para efeitos de audiência dos interessados.
 
-5 - O prazo de reposição das dívidas é de 30 dias úteis a contar da data da receção da notificação do incumprimento previsto nos n.<sup>os</sup>1 a 3, aplicando-se o regime previsto no regime jurídico e financeiro dos serviços e organismos da Administração Pública, aprovado pelo [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, na sua redação atual.
+5 - O prazo de reposição das dívidas é de 30 dias úteis a contar da data da receção da notificação do incumprimento previsto nos n.os1 a 3, aplicando-se o regime previsto no regime jurídico e financeiro dos serviços e organismos da Administração Pública, aprovado pelo [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de julho, na sua redação atual.
 
 ###### Artigo 18.º — Entrada em vigor
 
@@ -321,10 +333,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 17 de setembro de 2025.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 14 de outubro de 2025.**
+Assinado em Angra do Heroísmo em 14 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+119655878

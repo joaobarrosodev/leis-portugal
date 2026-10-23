@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2012/04/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2012-553893
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5dffbda845af3de3f68a4d5c1d6470ecff442cd639b5694d040e38ff26fc799
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e02050e7d45d8916e19171c61a1c82ca218271e7397ddc79f3a4a2c5c319880
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,50 +65,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Abate de Animais
+- Açores
 - Aproximação das Legislações
-- Vida Selvagem
+- Arborização
+- Avaliação de Impacte Ambiental
 - Cartografia
-- Multa
-- Ordenamento do Território
-- Proteção dos Animais
+- Comércio
 - Contra-ordenação
 - Definição de Competências
 - Desinfestação
 - Direito de Preferência
-- Arborização
-- Fiscalização
-- Pesca
-- Avaliação de Impacte Ambiental
-- Abate de Animais
-- Isolamento Profiláctico
-- Licenciamento
-- Licença de Importação
-- Rede Regional de Áreas Protegidas
-- Proteção do Ambiente
-- Período de Defeso
 - Diversidade Biológica
 - Espécie Protegida
-- Zona de Proteção
-- Proteção Fitossanitária
+- Fiscalização
+- Isolamento Profiláctico
+- Licença de Importação
+- Licenciamento
+- Multa
+- Ordenamento do Território
+- Parque Marinho do Arquipélago dos Açores
+- Património Natural
+- Período de Defeso
+- Pesca
 - Programa o Homem e a Biosfera
+- Proteção do Ambiente
+- Proteção dos Animais
+- Proteção Fitossanitária
 - Quarentena
 - Ramsar
 - Recursos Naturais
-- Património Natural
-- Parque Marinho do Arquipélago dos Açores
-- Regime Jurídico
-- Reserva Natural
-- Açores
-- TAXA de Prestação de Serviços
-- Comércio
-- Registo Nacional Cites
 - Rede Natura 2000
+- Rede Regional de Áreas Protegidas
+- Regime Jurídico
+- Registo Nacional Cites
+- Reserva Natural
+- TAXA de Prestação de Serviços
+- Vida Selvagem
+- Zona de Proteção
 - Zona Especial de Conservação
 relationships:
 - type: amended_by
   target: pt:dre:901147128:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:31979521:por
+  label: "A entrada em vigor da desta portaria substitui o regime de apanha constante no presente diploma pela PORT.1/2014.10.01.2014.SRRN-RAA,\
+    \ JOA-IS [1/2014] de 10.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1-2014-31979521
+  date: '2014-01-10'
+- type: amended_by
+  target: pt:dre:901147128:por
+  label: Derrogado a partir de 30 de setembro de 2025 o regime constante do presente diploma diploma, exceto nas situações
+    em que estabeleça um regime de proteção mais restritivo pelo(a) Decreto Legislativo Regional n.º 14/2024/A - Diário da
+    República n.º 249/2024, Série I de 2024-12-24, sempre que este disponha de modo diverso
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2024-901147128
+  date: '2024-12-24'
 - type: cites
   target: celex:31979L0409
   label: null
@@ -160,13 +173,13 @@ relationships:
 article_structure:
   article_count: 169
   section_count: 35
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:31Z'
   warnings: []
   errors: []
 ---
@@ -3229,11 +3242,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 25 de janeiro de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 7 de março de 2012.**
+Assinado em Angra do Heroísmo em 7 de março de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -3377,47 +3390,47 @@ l) A indicação (x) indica uma nova espécie desagregada a partir da populaçã
 
 A - Mamíferos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 B - Aves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 C - Anfíbios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 D - Répteis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 E - Peixes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 F - Artrópodes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 G - Moluscos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 H - Briófitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 I - Pteridófitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 J - Gimnospérmicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 L - Angiospérmicas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 ## ANEXO III — Habitats relevantes para a proteção da biodiversidade cuja conservação exige a designação de áreas protegidas (aos quais se refere o n.º 1 do artigo 11.º)
 
@@ -3587,7 +3600,7 @@ R3130 Comunidades dos solos sujeitos a forte desgasificação das formações vu
 
 C - Critérios para a designação das categorias de áreas protegidas (aos quais se refere o artigo 33.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 ## ANEXO IV
 
@@ -3597,19 +3610,19 @@ A - Zonas especiais de conservação (ZEC)
 
 (Decisão n.º [2009/1001/UE](http://data.europa.eu/eli/dec/2009/1001/oj?locale=pt), da Comissão, de 22 de dezembro de 2009, que adota, em aplicação da Diretiva n.º [92/43/CEE](http://data.europa.eu/eli/dir/1992/43/oj?locale=pt), do Conselho, a segunda lista atualizada dos sítios de importância comunitária da região biogeográfica macaronésica)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 B - Zonas de proteção especial (ZPE) destinadas a aves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 C - Identificação cartográfica genérica das áreas protegidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 ## ANEXO V — Zonas húmidas protegidas que são sítios Ramsar, às quais se refere o n.º 5 do artigo 17.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 ## ANEXO VI — Áreas marinhas protegidas OSPAR sob responsabilidade da Região Autónoma dos Açores, às quais se refere o n.º 6 do artigo 18.º
 
@@ -3627,17 +3640,17 @@ c) C - Proteger e conservar as áreas que melhor representam a diversidade de es
 
 2 - A «localização» é indicada pelas coordenadas geográficas no elipsoide WGS-84 do centro da área protegida.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 ## ANEXO VII — Categorias e critérios de avaliação do estado de conservação de um taxon (a que se refere o n.º 1 do artigo 56.º)
 
 A - Categorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 B - Critérios para determinação das categorias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 ## ANEXO VIII — Espécies de aves prejudiciais (a que se refere o n.º 1 do artigo 63.º)
 
@@ -3661,35 +3674,35 @@ Interpretação
 
 A - Mamíferos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 B - Aves
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 C - Ascídias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 D - Ectoprocta (Briozoários)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 E - Artrópodes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 F - Moluscos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 G - Algas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 H - Plantas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
 
 ## ANEXO X — Espécies exóticas com interesse para a arborização (a que se refere o n.º 4 do artigo 84.º)
 
@@ -3967,4 +3980,4 @@ As infrações a estas proibições e condições constituem contraordenações 
 
 As áreas de costa são limitadas nos seus extremos pelos pontos com coordenadas indicadas, nelas se incluindo os ilhéus, rochedos emersos e baixas existentes ao longo dos troços de costa referidos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf))](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/04/06600/0162501713.pdf)

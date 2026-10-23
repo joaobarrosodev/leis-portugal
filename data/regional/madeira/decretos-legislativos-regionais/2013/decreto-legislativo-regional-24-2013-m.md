@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2013/07/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2013-497798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fce14c5a926e2194e00e0a2009e41745f9845bda266bae79b99f962de37f77b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18bf10f5cdc71b38789434f74b0001140301fb5db30ca10c747ef687ac24a72b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Juventude
 - Conselho da Juventude da Madeira
 - Definição de Competências
-- Secretaria Regional da Educação e Recursos Humanos
-- Orgânica
-- Presidente
+- Juventude
 - Madeira.região Autónoma
-- Protecção à Juventude
+- Orgânica
 - Política de Juventude
+- Presidente
+- Protecção à Juventude
+- Secretaria Regional da Educação e Recursos Humanos
 - Vogal
 relationships:
 - type: cites
@@ -105,16 +105,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:144638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:190271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546990:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 24
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:43Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +177,7 @@ Os artigos 1.º, 2.º, 3.º e 4.º do [Decreto Legislativo Regional n.º 22/89/M
 
 2 - O presente diploma estabelece ainda a composição, forma de designação dos membros, estrutura e regime de funcionamento do CJM.
 
-###### Artigo 2.º
+Artigo 2.º
 
 1 - O CJM é o órgão consultivo do membro do Governo Regional responsável pela área da juventude.
 
@@ -165,7 +197,7 @@ f) Emitir pareceres específicos que lhe sejam solicitados pelo seu Presidente;
 
 g) Exercer as demais competências que lhe sejam legalmente atribuídas.
 
-###### Artigo 3.º
+Artigo 3.º
 
 1 - O CJM é composto por um presidente e respetivos vogais, compreendendo os seguintes membros:
 
@@ -211,7 +243,7 @@ p) Um representante de cada um dos Conselhos Municipais de Juventude, quando exi
 
 6 - As entidades que compõem o CJM podem substituir a todo o tempo os seus representantes, mediante nova comunicação escrita dirigida ao seu Presidente.
 
-###### Artigo 4.º
+Artigo 4.º
 
 1 - O CJM reúne em plenário, ordinariamente de quatro em quatro meses e extraordinariamente sempre que convocado pelo seu Presidente ou por vontade expressa de pelo menos um terço dos seus membros, desde que solicitado por escrito, indicando o assunto que desejam ver tratado.
 
@@ -233,7 +265,9 @@ b) Participar nas votações de todas as matérias submetidas a apreciação do 
 
 c) A dispensa de funções, públicas ou privadas ou dispensa de frequência de aulas, para participar nas reuniões do CJM.
 
-###### Artigo 8.º — Deveres dos membros do CJM
+Artigo 8.º
+
+Deveres dos membros do CJM
 
 Os membros do CJM têm o dever de:
 
@@ -243,7 +277,9 @@ b) Contribuir para a dignificação dos trabalhos do CJM;
 
 c) Assegurar a articulação entre as entidades que representam e o CJM.
 
-###### Artigo 9.º — Observadores
+Artigo 9.º
+
+Observadores
 
 1 - O Presidente do CJM pode atribuir o estatuto de observador a outras entidades públicas ou privadas que prossigam atribuições relativas à juventude, bem como a organizações de juventude não inscritas no Registo Regional de Associativismo Jovem.
 
@@ -259,15 +295,23 @@ São aditadas epígrafes aos artigos 1.º, 2.º, 3.º, 4.º, 5.º e 6.º do [Dec
 
 Objeto
 
-###### Artigo 2.º — Natureza e competências
+Artigo 2.º
 
-###### Artigo 3.º — Composição
+Natureza e competências
 
-###### Artigo 4.º — Reuniões
+Artigo 3.º
 
-###### Artigo 5.º — Regulamento interno
+Composição
 
-###### Artigo 6.º
+Artigo 4.º
+
+Reuniões
+
+Artigo 5.º
+
+Regulamento interno
+
+Artigo 6.º
 
 Apoio administrativo»
 
@@ -281,11 +325,11 @@ O presente diploma entra em vigor, no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de junho de 2013.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 24 de junho de 2013.**
+Assinado em 24 de junho de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

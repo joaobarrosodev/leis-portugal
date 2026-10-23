@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/25500/26422646.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1977-277861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1ed13ca83af8546815afd098681f983ffa35be186bd73aef2556ceeef6209f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f45e4eb329b6319375f75ff6ff06e8d767f22cb07103cd47e94b8c8ccd472680
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direção Geral do Orçamento
+- Direcção Geral do Tesouro
+- Direcção Regional do Orçamento e Contabilidade
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- Secretaria Regional das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:354756:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:393661:por
+  label: "Alterado o art. 22º pelo DRR.4/79/A.1979.02.12.GR-RAA, DR.IS [47] de 24/Fev/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1979-393661
+  date: '1979-02-12'
+- type: amended_by
+  target: pt:dre:678255:por
+  label: "Alterado o quadro de pessoal, pelo DRR.14/80/A.1980.03.06.GR-RAA, DR.IS [255] de 04/Nov/1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1980-678255
+  date: '1980-03-06'
+- type: cites
+  target: pt:dre:139948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354756:por
+  label: "Revogado pelo DRR.40/88/A.07.10.1988.GR-RAA, DR.IS [232] de 07.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/40-1988-354756
+  date: '1988-10-07'
 article_structure:
   article_count: 27
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:41Z'
   warnings: []
   errors: []
 ---
@@ -182,7 +213,7 @@ c) A execução das tarefas que por despacho do Secretário Regional lhe forem c
 
 ###### Artigo 11.º
 
-**O Secretário Regional poderá destacar da Secretaria o máximo de dois funcionários, de categoria não superior a segundo-oficial, para prestarem apoio administrativo ao Gabinete.**
+O Secretário Regional poderá destacar da Secretaria o máximo de dois funcionários, de categoria não superior a segundo-oficial, para prestarem apoio administrativo ao Gabinete.
 
 Secretaria
 
@@ -380,14 +411,14 @@ Aprovado em Plenário do Governo Regional em 8 de Setembro de 1977.
 
 Presidência do Governo Regional, 9 de Setembro de 1977. - O Presidente do Governo Regional em Exercício, Raul Gomes dos Santos.
 
-**Assinado em Angra do Heroísmo em 1 de Outubro de 1977.**
+Assinado em Angra do Heroísmo em 1 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 Quadro e vencimentos do pessoal a que se refere o artigo 20.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/11/25500/26422646.pdf))](https://files.diariodarepublica.pt/1s/1977/11/25500/26422646.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/25500/26422646.pdf)
 
-**O Presidente do Governo Regional em Exercício, Raul Gomes dos Santos.**
+O Presidente do Governo Regional em Exercício, Raul Gomes dos Santos.

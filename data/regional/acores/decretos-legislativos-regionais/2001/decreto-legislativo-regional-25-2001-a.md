@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/25/2001/12/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2001-399175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 687708e82c51f859f0cf85e30b0d9122d7cc2b0bc0d399f392f0eb09bec1c353
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a9d7e9c773587bdadbbd3374654471c845767a54369629ecb8b0a055fa79771
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- SCUT
+- Açores
 - Concurso Público Internacional
 - Contrato de Concessão
 - Obras Públicas
-- Açores
+- SCUT
 relationships:
 - type: amended_by
   target: pt:dre:455655:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333167:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:31Z'
   warnings: []
   errors: []
 ---
@@ -216,24 +220,24 @@ A Região reserva-se o direito de, a qualquer momento da fase de negociações a
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 14 de Novembro de 2001.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 7 de Dezembro de 2001.**
+Assinado em Angra do Heroísmo em 7 de Dezembro de 2001.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — (a que se refere o n.º 1 do artigo 1.º)
 
-# Parte I — Troços e lanços a construir pela concessionária - obra nova
+## Parte I — Troços e lanços a construir pela concessionária - obra nova
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)
 
-# Parte II — Troços e lanços já construídos e lanço a concluir pelo Governo Regional dos Açores
+## Parte II — Troços e lanços já construídos e lanço a concluir pelo Governo Regional dos Açores
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)
 
-# Parte III — Troços e lanços em construção cuja conclusão compete à concessionária
+## Parte III — Troços e lanços em construção cuja conclusão compete à concessionária
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)](https://files.diariodarepublica.pt/1s/2001/12/301a00/85228524.pdf)

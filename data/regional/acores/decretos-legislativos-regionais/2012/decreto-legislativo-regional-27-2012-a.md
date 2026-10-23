@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/27/2012/06/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2012-178506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 90b409c89519c57f4bce0611644b3bd71f07768903e891685d543e74f22f277f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52506a09af2d50dc1091f84406c9947c4530ab524af9bb5d1f03dbc96696a25d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
-- Energia Elétrica
-- Política Energética
-- Apoio ao Investimento
-- Projeto de Investimento
-- Energia
-- Produção de Energia Elétrica
 - Açores
+- Apoio ao Investimento
+- Energia
+- Energia Elétrica
+- Energia não Poluente
+- Política Energética
+- Produção de Energia Elétrica
+- Projeto de Investimento
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:122549969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:122549969:por
+  label: Alterados os arts, 2.º, 4.º, 8.º, 9.º,10.º,12.º e 13.º, todos na redacção do presente diploma, revogada a al. b)
+    do n.º 4 do art. 3.º, al. g) do art. 10.º e n.º 1 do art. 12.º e aditados os arts 3.º-A e 13.º-A ao DLR 5/2010/A, de 23-fev,
+    procedendo à respetiva republicação, pelo(a) Decreto Legislativo Regional n.º 14/2019/A - Diário da República n.º 112/2019,
+    Série I de 2019-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2019-122549969
+  date: '2019-06-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/5/2010/02/23/a/dre
   label: null
@@ -89,15 +97,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/2003/361/oj
 article_structure:
-  article_count: 30
+  article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:31Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +148,9 @@ b) ...
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Os projetos candidatos ao PROENERGIA devem:
 
@@ -158,11 +168,15 @@ f) (Revogada.)
 
 g) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 É vedada a acumulação dos benefícios conferidos pelo presente diploma com outros de natureza similar, previstos em diplomas regionais ou nacionais, exceto aqueles que revistam natureza puramente fiscal.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -176,7 +190,9 @@ g) ...
 
 6 - A fração solar a que se refere o n.º 2 do presente artigo é determinada por metodologia fixada em nota técnica emitida pela entidade gestora do Sistema de Certificação Energética (SCE) dos Açores com base nas características técnicas dos equipamentos e da sua instalação, não podendo depender da existência de contratos de manutenção ou de outras formas de acompanhamento pela entidade instaladora.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As candidaturas são entregues no departamento do Governo Regional com competência em matéria de energia, doravante designado como organismo gestor, instruídas de acordo com um formulário eletrónico aprovado pelo competente membro do Governo Regional.
 
@@ -192,7 +208,9 @@ b) O valor global da aquisição e montagem do equipamento não tenha qualquer a
 
 c) A parte correspondente ao custo a suportar pelo adquirente esteja integralmente paga.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 Compete ao organismo gestor:
 
@@ -216,13 +234,17 @@ i) (Revogada.)
 
 j) Manter um registo público, no Portal do Governo Regional na Internet, dos processos aprovados e dos incentivos concedidos.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O incentivo formaliza-se através da concessão por reembolso das despesas elegíveis comprovadas, devendo o promotor apresentar para o efeito cópia das faturas e dos recibos relativos aos pagamentos efetuados.
 
 2 - Por despacho do diretor regional que tutela a entidade gestora, é publicada mensalmente no Jornal Oficial a listagem nominal dos incentivos atribuídos.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O organismo gestor deverá conferir os documentos apresentados, podendo promover a realização de auditoria adequada, a qual pode incluir a inspeção dos equipamentos e da instalação.
 
@@ -232,7 +254,9 @@ j) Manter um registo público, no Portal do Governo Regional na Internet, dos pr
 
 4 - O não pagamento por razões imputáveis à entidade beneficiária, no prazo de 20 dias úteis contados da data da notificação da decisão de aprovação, determina a caducidade da decisão de concessão do incentivo.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - Os promotores ficam sujeitos às seguintes obrigações:
 
@@ -256,7 +280,9 @@ c) Manter devidamente organizados, durante seis anos, todos os documentos suscet
 
 d) ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - (Revogado.)
 
@@ -276,11 +302,11 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de maio de 2012.
 
-**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
 
-**Assinado em Angra do Heroísmo em 11 de junho de 2012.**
+Assinado em Angra do Heroísmo em 11 de junho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

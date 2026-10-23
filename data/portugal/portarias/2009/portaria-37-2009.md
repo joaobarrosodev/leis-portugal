@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/37/2009/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/37-2009-603071
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb60c273f12777717ef379551d7c0f92ebd79467fd96b2fa0fa5e7c83dc7eba4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fb3c76b49ec697c68e14a6601c74d028c0ef395af334ef2b51f07187e6543a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Equipamento Social
+- Programa de Alargamento da Rede de Equipamentos Sociais
 - Proteção à Infância
 - Proteção ao Deficiente
 - Proteção na Velhice
-- Programa de Alargamento da Rede de Equipamentos Sociais
 - Protecção à Juventude
 - Regulamento
 relationships:
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:124457188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amends
+  target: pt:numero:portaria:426/2006
+  label: "Altera o Regulamento do Programa de Alargamento da Rede de Equipamentos Sociais, anexo à Portaria n.º 426/2006,\
+    \ de 2 de Maio, DR.IS-B [84]\0\0"
+  source: null
+  date: '2006-05-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
   label: null
@@ -90,16 +96,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/426/2006/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/426/2006/05/02/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659940:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124457188:por
+  label: Revogada a Port 37/2009 de 16-jan DR.IS [11] pelo(a) Portaria n.º 290/2019 - Diário da República n.º 170/2019, Série
+    I de 2019-09-05 sem prejuízo do disposto no seu art. 7.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-2019-124457188
+  date: '2019-09-05'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:46Z'
   warnings: []
   errors: []
 ---

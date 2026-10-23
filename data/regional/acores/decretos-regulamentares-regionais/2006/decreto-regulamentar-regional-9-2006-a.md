@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/02/029b00/10541081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/2006/02/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2006-553625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85a5515c520b00408aea5dd513fa23a56a2817640c809aed1b1721a528337af0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f9b191bb3b55faf5e61f295266d45efbbcf0f1683ea595d00a6e60d22208f1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,68 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Definição de Competências
-- Direcção Regional de Organização e Administração Pública
-- Vice-presidência do Governo Regional
-- Direcção Regional dos Assuntos Europeus
-- Direcção Regional de Estudos e Planeamento dos Açores
+- Açores
 - Carreira Profissional
+- Definição de Competências
+- Direcção Regional de Estudos e Planeamento dos Açores
+- Direcção Regional de Organização e Administração Pública
+- Direcção Regional do Orçamento e Tesouro
+- Direcção Regional dos Assuntos Europeus
 - Inspecção Administrativa Regional
 - Integração de Trabalhadores
 - Orgânica
-- Direcção Regional do Orçamento e Tesouro
 - Quadro de Pessoal
 - Serviço Regional de Estatística dos Açores
-- Açores
+- Vice-presidência do Governo Regional
 - Vice-presidente do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:498093:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353951:por
+  label: "Extinta a Direcção Regional dos Assuntos Europeus, constante do presente diploma, transitando os meios, efectivos,\
+    \ competências, direitos e obrigações para a Direcção regional dos Assuntos Europeus e Cooperação Externa, pelo DRR.19/2006/A.23.05.2006.PG-RAA,\
+    \ DR.IS-B [108] de 05.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2006-353951
+  date: '2006-05-23'
+- type: amended_by
+  target: pt:dre:642196:por
+  label: "Alterada a al. c) do n.º 1 do art. 2.º, o n.º 1 do art. 3.º, a al. a) do n.º 1 e o n.º 2 do art. 4.º, o art. 10.º,\
+    \ o art. 22.º, a al. b) do n.º 1 do art. 34.º, os artºs. 36.º e 51.º, o n.º 1 do art. 53.º, a al. c) do n.º 1 do art.\
+    \ 63.º e o art. 68.º, bem como o quadro de pessoal anexo, aditado um artigo 47.º-A na subsecção v, referente à Direcção\
+    \ Regional de Organização e Administração Pública e revogada a subsecção iv do presente diploma, alterado pelo DRR. 19/2006/A,\
+    \ de 5 de Junho, pelo DRR.18/2007/A.18.09.2007.PG-RAA, DR.IS [180] de 18.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2007-642196
+  date: '2007-09-18'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a categoria de assistente técnico, nos termos do art. 4º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\
+    08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Transitada para a dependência do Secretário Regional do Trabalho e Solidariedade Social, o Centro de Formação da\
+    \ Administração Pública dos Açores, previsto na orgânica da Vice-Presidência do Governo Regional, aprovada pelo presente\
+    \ diploma, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:191142:por
+  label: "Determinada a transição, para a dependência do Vice-Presidente do Governo Regional dos Açores, da Inspeção Administrativa\
+    \ Regional e do Centro de Formação da Administração Pública dos Açores, anteriormente do âmbito da Vice-Presidência do\
+    \ Governo Regional dos Açores pelo DRR.24/2012/A.27.11.2012.PG-RAA, DR.IS [229] de 27.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-2012-191142
+  date: '2012-11-27'
+- type: amended_by
+  target: pt:dre:498093:por
+  label: "DRR.7/2013/A.11.07.2013.PG-RAA, DR.IS [132] de 11.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2013-498093
+  date: '2013-07-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
   label: null
@@ -125,16 +168,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:138292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197555:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233763:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:280557:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353088:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668293:por
+  label: null
+  source: null
 article_structure:
-  article_count: 115
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 116
+  section_count: 36
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:19Z'
   warnings: []
   errors: []
 ---
@@ -249,11 +380,11 @@ u) Dirigir e coordenar os serviços que estejam na sua dependência directa.
 
 a) Executivos:
 
-##### Divisão dos Serviços Administrativos (DSA);
+Divisão dos Serviços Administrativos (DSA);
 
 Centro de Informação e Documentação (CID);
 
-##### Divisão de Administração, ADSE, Passaportes e Licenças (DAPL);
+Divisão de Administração, ADSE, Passaportes e Licenças (DAPL);
 
 Centros de Informática para as Áreas das Finanças e da Administração Pública Regional e Local;
 
@@ -275,9 +406,11 @@ b) Inspectivos - Inspecção Administrativa Regional (IAR).
 
 #### SECÇÃO I — Serviços executivos
 
-##### SUBSECÇÃO I — Artigo 5.º
+##### SUBSECÇÃO I
 
-##### Divisão dos Serviços Administrativos
+###### Artigo 5.º
+
+Divisão dos Serviços Administrativos
 
 1 - A DSA funciona na dependência directa do Vice-Presidente do Governo Regional, ficando sediada em Ponta Delgada, e presta apoio instrumental de carácter administrativo.
 
@@ -381,7 +514,9 @@ i) Promover contactos com outros serviços e organismos similares da administra�
 
 2 - O CID é dirigido por um chefe de divisão.
 
-###### Artigo 11.º — Divisão de Administração, ADSE, Passaportes e Licenças
+###### Artigo 11.º
+
+##### Divisão de Administração, ADSE, Passaportes e Licenças
 
 1 - A DAPL assegura a actividade de apoio administrativo ao Gabinete do Vice-Presidente do Governo Regional, à DROAP e à IAR, bem como todo o expediente respeitante à ADSE, emissão de passaportes e licenças e a execução das normas de polícia administrativa para a Região Autónoma dos Açores.
 
@@ -403,7 +538,9 @@ b) Delegação da DAPL na ilha do Faial.
 
 5 - Ao chefe de divisão compete dirigir e coordenar os subcoordenadores das delegações.
 
-###### Artigo 12.º — Secção de Apoio Administrativo
+###### Artigo 12.º
+
+#### Secção de Apoio Administrativo
 
 À SAA compete:
 
@@ -423,7 +560,9 @@ g) Zelar pela segurança e conservação do património;
 
 h) Executar todos os serviços de carácter administrativo, designadamente assegurar o expediente, o arquivo e a documentação.
 
-###### Artigo 13.º — Secção da ADSE
+###### Artigo 13.º
+
+#### Secção da ADSE
 
 À SADSE compete:
 
@@ -431,7 +570,9 @@ a) Assegurar todo o expediente respeitante à ADSE na Região;
 
 b) Estudar e propor medidas de modernização e melhoria do serviço prestado.
 
-###### Artigo 14.º — Secção de Passaportes e Licenças
+###### Artigo 14.º
+
+#### Secção de Passaportes e Licenças
 
 À SPL compete:
 
@@ -595,7 +736,9 @@ b) A Divisão do Orçamento Regional (DOR);
 
 c) As divisões das delegações de contabilidade pública regional.
 
-###### Artigo 21.º — Divisão da Contabilidade Pública Regional
+###### Artigo 21.º
+
+##### Divisão da Contabilidade Pública Regional
 
 A DCPR tem as seguintes competências:
 
@@ -617,7 +760,9 @@ d) Organizar os mapas relativos à sua actividade, com vista à elaboração das
 
 2 - O recrutamento para a chefia das divisões acima referidas faz-se nos termos do regime geral, podendo também ser feito de acordo com o disposto no n.º 3 do artigo 20.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, adaptado à Região pelo [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de Maio, de entre pessoal integrado na carreira específica de técnico contabilista.
 
-###### Artigo 23.º — Divisão do Orçamento Regional
+###### Artigo 23.º
+
+##### Divisão do Orçamento Regional
 
 À DOR compete:
 
@@ -651,7 +796,9 @@ f) Assegurar o tratamento dos assuntos referentes à dívida pública e quaisque
 
 2 - A DSF compreende a Divisão de Fiscalidade e de Operações de Tesouraria (DFOT).
 
-###### Artigo 25.º — Divisão de Fiscalidade e Operações de Tesouraria
+###### Artigo 25.º
+
+##### Divisão de Fiscalidade e Operações de Tesouraria
 
 1 - Compete à DFOT:
 
@@ -721,7 +868,9 @@ b) O Sector de Imóveis (SI);
 
 c) O Sector de Móveis (SM).
 
-###### Artigo 28.º — Divisão de Inspecção e Gestão Patrimonial
+###### Artigo 28.º
+
+##### Divisão de Inspecção e Gestão Patrimonial
 
 São competências da DIGP:
 
@@ -877,7 +1026,9 @@ a) Divisão de Estudos e Prospectiva (DEP);
 
 b) Divisão de Programação e Análise de Projectos (DPAP).
 
-###### Artigo 38.º — Divisão de Estudos e Prospectiva
+###### Artigo 38.º
+
+##### Divisão de Estudos e Prospectiva
 
 Compete à DEP:
 
@@ -889,7 +1040,9 @@ c) Elaborar estudos, análises e projecções das principais variáveis sociais 
 
 d) Manter uma análise permanente da realidade social, económica e financeira da Região, elaborando e divulgando estudos de conjuntura.
 
-###### Artigo 39.º — Divisão de Programação e Análise de Projectos
+###### Artigo 39.º
+
+##### Divisão de Programação e Análise de Projectos
 
 Compete à DPAP:
 
@@ -969,7 +1122,9 @@ a) Divisão dos Assuntos Jurídicos (DAJ);
 
 b) Divisão dos Assuntos Europeus (DAE).
 
-###### Artigo 45.º — Divisão dos Assuntos Jurídicos
+###### Artigo 45.º
+
+##### Divisão dos Assuntos Jurídicos
 
 À DAJ compete, genericamente, desenvolver e apoiar as actividades da área de competências da DSAJE, nos termos referidos na alínea b) do n.º 1 do artigo anterior, competindo-lhe ainda especificamente:
 
@@ -981,7 +1136,9 @@ c) Acompanhar a evolução dos actos normativos, dos actos executivos com relev�
 
 d) Cooperar com o CIDE na organização e actualização da informação sobre a legislação comunitária nacional e regional atinente ao cumprimento das atribuições da DRAE, bem como desenvolver os trabalhos e praticar os actos necessários à execução das competências da DSAJE, no domínio dos assuntos jurídicos.
 
-###### Artigo 46.º — Divisão dos Assuntos Europeus
+###### Artigo 46.º
+
+##### Divisão dos Assuntos Europeus
 
 À DAE compete, genericamente, desenvolver e apoiar as actividades da área de competências da DSAJE, nos termos referidos na alínea a) do n.º 1 do artigo 44.º, competindo-lhe ainda especificamente:
 
@@ -1067,7 +1224,9 @@ b) Centro de Formação da Administração Pública dos Açores (CEFAPA);
 
 c) Divisão de Estudos e Análise Financeira (DEAF).
 
-###### Artigo 51.º — Divisão de Estruturas e Modernização
+###### Artigo 51.º
+
+##### Divisão de Estruturas e Modernização
 
 Compete à DEM:
 
@@ -1107,7 +1266,9 @@ e) Gerir as instalações e equipamento destinados à formação, assim como o l
 
 3 - O CEFAPA é dirigido por um chefe de divisão.
 
-###### Artigo 53.º — Divisão de Estudos e Análise Financeira
+###### Artigo 53.º
+
+##### Divisão de Estudos e Análise Financeira
 
 1 - Compete à DEAF:
 
@@ -1169,7 +1330,9 @@ b) Divisão dos Assuntos Jurídicos e Eleitorais (DAJE);
 
 c) Divisão de Acompanhamento ao Ordenamento do Território (DAOT).
 
-###### Artigo 55.º — Divisão da Função Pública
+###### Artigo 55.º
+
+##### Divisão da Função Pública
 
 Compete à DFP:
 
@@ -1189,7 +1352,9 @@ g) Promover, em colaboração com o CID, a compilação e divulgação de inform
 
 h) Instruir os processos do ponto de vista da legalidade tendo em vista a tomada de posição do Vice-Presidente do Governo Regional sobre todas as admissões de pessoal na administração pública regional, nesta se incluindo as contratações a termo resolutivo ou em regime de prestação de serviços, designadamente tarefa e avença.
 
-###### Artigo 56.º — Divisão dos Assuntos Jurídicos e Eleitorais
+###### Artigo 56.º
+
+##### Divisão dos Assuntos Jurídicos e Eleitorais
 
 Compete à DAJE:
 
@@ -1213,7 +1378,9 @@ i) Executar, em matéria de eleições, as funções atribuídas por lei ao Gove
 
 j) Promover acções de divulgação e esclarecimento junto dos eleitores, comissões recenseadoras e órgãos autárquicos.
 
-###### Artigo 57.º — Divisão de Acompanhamento e Ordenamento do Território
+###### Artigo 57.º
+
+##### Divisão de Acompanhamento e Ordenamento do Território
 
 Compete à DAOT:
 
@@ -1319,7 +1486,7 @@ c) Serviços de apoio instrumental:
 
 Centro de Informação e Documentação (CID);
 
-#### Secção de Apoio ao SREA (SA);
+Secção de Apoio ao SREA (SA);
 
 d) Serviços operativos - Direcção de Serviços de Produção (DSP).
 
@@ -1473,7 +1640,9 @@ l) Permutar publicações estatísticas e similares.
 
 2 - O CID é dirigido por um chefe de divisão.
 
-###### Artigo 69.º — Secção de Apoio ao SREA
+###### Artigo 69.º
+
+#### Secção de Apoio ao SREA
 
 À SA compete:
 
@@ -1503,7 +1672,9 @@ a) Divisão de Estatísticas Demográfico-Sociais e de Censos (DEDSOC);
 
 b) Divisão de Estatísticas Económicas e Financeiras (FEF).
 
-###### Artigo 71.º — Divisão de Estatísticas Demográfico-Sociais e de Censos
+###### Artigo 71.º
+
+##### Divisão de Estatísticas Demográfico-Sociais e de Censos
 
 1 - À DEDSOC compete:
 
@@ -1519,7 +1690,9 @@ e) Participar no tratamento da informação que diga respeito ao sector demográ
 
 2 - A DEDSOC é dirigida por um chefe de divisão.
 
-###### Artigo 72.º — Divisão de Estatísticas Económicas e Financeiras
+###### Artigo 72.º
+
+##### Divisão de Estatísticas Económicas e Financeiras
 
 1 - À DEF compete:
 
@@ -1953,13 +2126,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 15 de Dezembro de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 20 de Janeiro de 2006.**
+Assinado em Angra do Heroísmo em 20 de Janeiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — Quadro de pessoal dos serviços dependentes da Vice-Presidência do Governo Regional
 

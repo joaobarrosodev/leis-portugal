@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2024/12/24000/0000400034.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/23/2024/12/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2024-899721505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89fc730227b23bee82f338b6c157e570eed3dc982b0ee32b18d427d998449d68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04cc1827c6846a3475b9715c28cd8fb2712deee01aabe83b1a56a30a89918036
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Estatuto
 - Instituto de Alimentação e Mercados Agrícolas
 - Orgânica
 - Pessoal de Chefia
 - Serviço de Classificação de Leite
-- Açores
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:27/2021/A
+  label: Altera, a partir de 12 de dezembro de 2024, os artigos 12.º, 19.º, 27.º, 29.º, 32.º e 33.º do anexo I e o anexo II,
+    adita os artigos 22.º-A, 26.º-A, 29.º-A, 30.º-A e 32.º-A ao anexo I, revoga o artigo 34.º do anexo i e republica os anexos
+    i e ii do Decreto Regulamentar Regional n.º 27/2021/A, de 2 de novembro, Diário da República n.º 212/2021, Série I
+  source: null
+  date: '2021-11-02'
 - type: cites
   target: celex:32008R1249
   label: null
@@ -85,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/27/2021/11/02/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/27/2021/11/02/a/dre
+- type: cites
+  target: pt:dre:128355821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173707579:por
+  label: null
+  source: null
 article_structure:
-  article_count: 67
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 58
+  section_count: 17
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:03Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +156,9 @@ f) Coordenação de Higiene e Segurança no Trabalho.
 
 3 - [...]
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - [...]
 
@@ -157,7 +174,9 @@ c) Coordenação de Stocks e Património.
 
 4 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -179,7 +198,9 @@ f) [Anterior alínea d).]
 
 4 - [...]
 
-###### Artigo 29.º — Coordenação de Ambiente
+Artigo 29.º
+
+Coordenação de Ambiente
 
 1 - À Coordenação de Ambiente de São Miguel, doravante designada por CASM, compete:
 
@@ -195,7 +216,9 @@ d) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A CASM é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 32.º — Direção de Serviços de Classificação de Leite
+Artigo 32.º
+
+Direção de Serviços de Classificação de Leite
 
 1 - A Direção de Serviços de Classificação de Leite, doravante designada por DSCL, é um serviço central, executivo, com competência nas áreas da classificação de leite.
 
@@ -207,7 +230,9 @@ b) Serviço de Classificação de Leite da Terceira.
 
 3 - A DSCL é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 33.º — Coordenações de Laboratório
+Artigo 33.º
+
+Coordenações de Laboratório
 
 1 - Às Coordenações de Laboratório, doravante designadas por CL, compete a orientação técnica dos laboratórios do SERCLASM e do SERCLAT, nomeadamente:
 
@@ -223,7 +248,9 @@ d) [...]
 
 3 - As CL são coordenadas por trabalhadores designados para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhes aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 | Número de lugares | Designação dos serviços e dos cargos | Remuneração |
 | --- | --- | --- |
@@ -313,7 +340,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A CSP é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 26.º-A — Coordenação de Higiene e Segurança no Trabalho
+Artigo 26.º-A
+
+Coordenação de Higiene e Segurança no Trabalho
 
 1 - A Coordenação de Higiene e Segurança no Trabalho, doravante designada por CHST, é um serviço central, executivo, que, no IAMA, IPRA, coordena toda a gestão no âmbito da proteção da segurança e saúde dos trabalhadores, ao qual compete:
 
@@ -349,7 +378,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A CHST é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 29.º-A — Coordenação de Qualidade e Segurança
+Artigo 29.º-A
+
+Coordenação de Qualidade e Segurança
 
 1 - À Coordenação de Qualidade e Segurança de São Miguel, doravante designada por CQSSM, compete:
 
@@ -369,7 +400,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A CQSSM é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 30.º-A — Secção Administrativa e Financeira
+Artigo 30.º-A
+
+Secção Administrativa e Financeira
 
 1 - À Secção Administrativa e Financeira do MSM, doravante designada por SAFMSM, compete:
 
@@ -397,7 +430,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A SAFMSM é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 32.º-A — Serviços de Classificação de Leite de São Miguel e da Terceira
+Artigo 32.º-A
+
+Serviços de Classificação de Leite de São Miguel e da Terceira
 
 1 - Os Serviços de Classificação de Leite de São Miguel e da Terceira são serviços executivos e periféricos aos quais compete exercer todas as atividades relacionadas com a classificação de leite ao produtor, com base na sua qualidade higiénica e composição, designadamente:
 
@@ -435,11 +470,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Povoação, em 13 de novembro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 6 de dezembro de 2024.**
+Assinado em Angra do Heroísmo em 6 de dezembro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -487,7 +522,7 @@ a) Dirigir a atuação do IAMA, IPRA, orientando-o na sua atividade, de acordo c
 
 b) Elaborar os planos de atividades, orçamentos, relatórios de atividades e contas, anuais e plurianuais, a aprovar pela tutela, bem como assegurar a respetiva execução;
 
-c) Exercer, na Região Autónoma dos Açores, as competências previstas nos Regulamentos (UE) n.<sup>os</sup>1151/2012, de 21 de novembro, 1308/2013, de 17 de dezembro, 2017/625, de 15 de março, e 2018/848, de 30 de maio, do Parlamento Europeu e do Conselho, no que se refere aos produtos regionais qualificados, Denominação de Origem Protegida (DOP), Indicação Geográfica Protegida (IGP), Especialidade Tradicional Garantida (ETG), Modo de Produção Biológico (MPB) e reconhecimento de organização de produtores;
+c) Exercer, na Região Autónoma dos Açores, as competências previstas nos Regulamentos (UE) n.os1151/2012, de 21 de novembro, 1308/2013, de 17 de dezembro, 2017/625, de 15 de março, e 2018/848, de 30 de maio, do Parlamento Europeu e do Conselho, no que se refere aos produtos regionais qualificados, Denominação de Origem Protegida (DOP), Indicação Geográfica Protegida (IGP), Especialidade Tradicional Garantida (ETG), Modo de Produção Biológico (MPB) e reconhecimento de organização de produtores;
 
 d) Representar a Região Autónoma dos Açores em organizações nacionais e internacionais, relacionadas com as áreas das suas atribuições, quando para tal seja indigitado;
 
@@ -599,7 +634,9 @@ c) Coordenação do Arquivo e Documentação.
 
 4 - O diretor da DSAJRH pode delegar ou subdelegar nos chefes de divisão as respetivas competências, próprias ou delegadas, com faculdade de subdelegação.
 
-###### Artigo 15.º — Divisão de Apoio Técnico e Jurídico
+###### Artigo 15.º
+
+##### Divisão de Apoio Técnico e Jurídico
 
 1 - À Divisão de Apoio Técnico e Jurídico, doravante designada por DATJ, compete:
 
@@ -625,7 +662,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DATJ é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 16.º — Divisão Administrativa e de Recursos Humanos
+###### Artigo 16.º
+
+##### Divisão Administrativa e de Recursos Humanos
 
 1 - À Divisão Administrativa e de Recursos Humanos, doravante designada por DARH, compete:
 
@@ -649,7 +688,9 @@ h) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DARH é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 17.º — Secção Administrativa e de Recursos Humanos
+###### Artigo 17.º
+
+#### Secção Administrativa e de Recursos Humanos
 
 1 - À Secção Administrativa e de Recursos Humanos, doravante designada por SARH, compete a supervisão e coordenação técnica da gestão administrativa dos recursos humanos afetos ao IAMA, IPRA, nomeadamente:
 
@@ -693,7 +734,9 @@ c) Coordenação de Stocks e Património.
 
 4 - O diretor da DSAF pode delegar ou subdelegar nos chefes de divisão as respetivas competências, próprias ou delegadas, com faculdade de subdelegação.
 
-###### Artigo 20.º — Divisão de Gestão Financeira
+###### Artigo 20.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira, doravante designada por DGF, compete:
 
@@ -723,7 +766,9 @@ k) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DGF é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 21.º — Secção de Tesouraria
+###### Artigo 21.º
+
+#### Secção de Tesouraria
 
 1 - À Secção de Tesouraria, doravante designada por ST, compete:
 
@@ -737,7 +782,9 @@ d) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A ST é dirigida por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 22.º — Divisão de Informática e Tecnologia
+###### Artigo 22.º
+
+##### Divisão de Informática e Tecnologia
 
 1 - A Divisão de Informática e Tecnologia, doravante designada por DIT, é um serviço de apoio, no âmbito da informática e tecnologia, ao qual compete:
 
@@ -817,7 +864,9 @@ b) Divisão de Controlos.
 
 4 - O diretor da DSQMC pode delegar ou subdelegar nos chefes de divisão as respetivas competências, próprias ou delegadas, com faculdade de subdelegação.
 
-###### Artigo 24.º — Divisão de Produtos Qualificados e Mercados Agrícolas
+###### Artigo 24.º
+
+##### Divisão de Produtos Qualificados e Mercados Agrícolas
 
 1 - À Divisão de Produtos Qualificados e Mercados Agrícolas, doravante designada por DPQMA, compete:
 
@@ -849,7 +898,9 @@ m) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DPQMA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 25.º — Divisão de Controlos
+###### Artigo 25.º
+
+##### Divisão de Controlos
 
 1 - À Divisão de Controlos, doravante designada por DC, compete:
 
@@ -1027,7 +1078,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A CMSM é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 30.º-A — Secção Administrativa e Financeira
+###### Artigo 30.º-A
+
+#### Secção Administrativa e Financeira
 
 1 - À Secção Administrativa e Financeira do MSM, doravante designada por SAFMSM, compete:
 
@@ -1231,7 +1284,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A CMT é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 40.º — Secção Administrativa e Financeira
+###### Artigo 40.º
+
+#### Secção Administrativa e Financeira
 
 1 - À Secção Administrativa e Financeira da DT, doravante designada por SAFDT, compete:
 
@@ -1333,7 +1388,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A CMF é coordenada por trabalhador designado para o efeito, por deliberação do Conselho Diretivo do IAMA, IPRA, sendo-lhe aplicável o disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 46.º — Secção Administrativa e Financeira
+###### Artigo 46.º
+
+#### Secção Administrativa e Financeira
 
 1 - As competências da Secção Administrativa e Financeira do Faial, doravante designada por SAFF, são as constantes do n.º 1 do artigo 40.º
 
@@ -1421,3 +1478,5 @@ Quadro de pessoal dirigente e de chefia de unidades orgânicas do Instituto de A
 (b) Remuneração de acordo com o artigo 7.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio, do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
 (c) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.
+
+118442026

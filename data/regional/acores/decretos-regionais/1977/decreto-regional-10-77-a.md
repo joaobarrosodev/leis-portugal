@@ -47,36 +47,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/10-1977-252047
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c52b25ee3cbfa3018952ac2523138eb79dc8c94a7ba79ebc8430abfa752dcc60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3e6c3c986251c0bef4da36952a5cbe8964119a9d46a73cca8c817d935f6047b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- ILHA das Flores
+- Transporte Público
+relationships:
+- type: cites
+  target: pt:dre:509647:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:42Z'
   warnings: []
   errors: []
 ---
@@ -91,22 +98,22 @@ Considerando que só uma entidade como a Federação dos Municípios da Ilha das
 
 A Assembleia Regional dos Açores, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º - 1. À Federação dos Municípios da Ilha das Flores, criada pelo [Decreto-Lei n.º 47633](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47633-1967-509647), de 12 de Abril de 1967, é cometida a exploração das carreiras de transportes colectivos de passageiros da referida ilha.
+Artigo 1.º - 1. À Federação dos Municípios da Ilha das Flores, criada pelo [Decreto-Lei n.º 47633](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47633-1967-509647), de 12 de Abril de 1967, é cometida a exploração das carreiras de transportes colectivos de passageiros da referida ilha.
 
 2. O Governo Regional, ouvida a referida Federação, elaborará a regulamentação necessária para aquela exploração.
 
-###### Art. 2.º Sem prejuízo de uma actividade supletiva por parte da Federação, a actual concessão do serviço público de transporte colectivo de passageiros entre as vilas das Lajes e Santa Cruz das Flores mantém-se vigente até ao seu termo.
+Art. 2.º Sem prejuízo de uma actividade supletiva por parte da Federação, a actual concessão do serviço público de transporte colectivo de passageiros entre as vilas das Lajes e Santa Cruz das Flores mantém-se vigente até ao seu termo.
 
-###### Art. 3.º Para assegurar a exploração do serviço público referido no artigo 1.º, bem como para o efeito de pagamento de eventual indemnização ao titular da concessão, mencionada no artigo anterior, serão postos à disposição da Federação, através do Fundo Regional de Transportes Terrestres, os meios financeiros considerados necessários.
+Art. 3.º Para assegurar a exploração do serviço público referido no artigo 1.º, bem como para o efeito de pagamento de eventual indemnização ao titular da concessão, mencionada no artigo anterior, serão postos à disposição da Federação, através do Fundo Regional de Transportes Terrestres, os meios financeiros considerados necessários.
 
-###### Art. 4.º Por decreto regulamentar elaborado pelo Governo Regional, serão fixadas as condições segundo as quais se poderá realizar a transferência para a Federação das relações jurídicas e utilidades ligadas à concessão referida no artigo 2.º
+Art. 4.º Por decreto regulamentar elaborado pelo Governo Regional, serão fixadas as condições segundo as quais se poderá realizar a transferência para a Federação das relações jurídicas e utilidades ligadas à concessão referida no artigo 2.º
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 29 de Março de 1977.
 
-**O Presidente da Assembleia Regional, Álvaro P. da Silva Leal Monjardino.**
+O Presidente da Assembleia Regional, Álvaro P. da Silva Leal Monjardino.
 
-**Assinado em Ponta Delgada em 2 de Maio de 1977.**
+Assinado em Ponta Delgada em 2 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.

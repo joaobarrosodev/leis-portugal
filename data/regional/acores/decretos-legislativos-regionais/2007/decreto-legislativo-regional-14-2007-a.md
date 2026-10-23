@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/14/2007/06/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2007-635872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47404001836519813a94d3b2dae460cd6b9c3299a9420147dee7643c19d5e254
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ddbde6639ce653d36bb7e83f544a4f74be20526eb4dd699c4dedfee4f23ff8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
+- Açores
 - Angra do Heroísmo
 - Arquivo Nacional da Torre do Tombo
-- Governo Regional
-- Diário da República
-- Formulário dos Diplomas
-- Horta
-- Biblioteca Pública e Arquivo
 - Base de Dados
 - Biblioteca Nacional
-- Jornal Oficial
-- Publicitação
-- Ponta Delgada
-- Sistema de Informação
-- Publicação Electrónica
+- Biblioteca Pública e Arquivo
+- Diário da República
 - Diploma Legal
-- Açores
+- Formulário dos Diplomas
+- Governo Regional
+- Horta
+- Jornal Oficial
+- Ponta Delgada
+- Publicação Electrónica
+- Publicitação
+- Sistema de Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/25/2003/05/27/a/dre
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/74/1998/11/11/p/dre
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678872:por
+  label: null
+  source: null
 article_structure:
-  article_count: 47
+  article_count: 34
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:37Z'
   warnings: []
   errors: []
 ---
@@ -134,7 +154,9 @@ Os artigos 3.º, 5.º, 6.º, 8.º, 15.º e 16.º do [Decreto Legislativo Regiona
 
 3 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Só são admitidas rectificações para correcção de lapsos gramaticais, ortográficos, de cálculo ou de natureza análoga ou para correcção de erros materiais provenientes de divergências entre o texto original e o texto editado de qualquer diploma publicado na 1.ª série do Jornal Oficial.
 
@@ -144,7 +166,9 @@ Os artigos 3.º, 5.º, 6.º, 8.º, 15.º e 16.º do [Decreto Legislativo Regiona
 
 4 - ...
 
-###### Artigo 6.º — Identificação
+Artigo 6.º
+
+Identificação
 
 1 - Todos os actos são identificados por um número e pela data da respectiva publicação no Diário da República ou no Jornal Oficial, conforme a sua natureza, seguidos da respectiva '/' e da maiúscula 'A'.
 
@@ -152,7 +176,9 @@ Os artigos 3.º, 5.º, 6.º, 8.º, 15.º e 16.º do [Decreto Legislativo Regiona
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -166,13 +192,17 @@ Os artigos 3.º, 5.º, 6.º, 8.º, 15.º e 16.º do [Decreto Legislativo Regiona
 
 6 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - O Jornal Oficial da Região é editado em suporte electrónico em sítio adequado, de acesso livre e gratuito, disponibilizado pelo Governo Regional.
 
 2 - A responsabilidade pela edição do Jornal Oficial é do Governo Regional.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A edição electrónica do Jornal Oficial inclui um registo das datas da sua efectiva distribuição no sítio electrónico referido no artigo anterior.
 
@@ -198,19 +228,27 @@ Alterações e republicação
 
 2 - Independentemente da natureza ou a extensão da alteração deve proceder-se à republicação integral do diploma, em anexo.
 
-###### Artigo 16.º-A — Acessibilidade
+Artigo 16.º-A
+
+Acessibilidade
 
 A edição electrónica do Jornal Oficial deve garantir o acesso aos seus conteúdos a todos os cidadãos portadores de deficiência.
 
-###### Artigo 16.º-B — Arquivo público
+Artigo 16.º-B
+
+Arquivo público
 
 A Região assegura o depósito na Biblioteca Nacional, na Torre do Tombo e nos Arquivos Regionais de Angra do Heroísmo, Horta e Ponta Delgada, de três exemplares de uma versão impressa devidamente autenticada das duas séries do Jornal Oficial, preparadas para efeitos de arquivo público.
 
-###### Artigo 16.º-C — Periodicidade
+Artigo 16.º-C
+
+Periodicidade
 
 O Jornal Oficial edita-se aos dias úteis de segunda-feira a sexta-feira, inclusive.
 
-###### Artigo 16.º-D — Séries
+Artigo 16.º-D
+
+Séries
 
 1 - O Jornal Oficial tem duas séries.
 
@@ -246,13 +284,17 @@ d) Os instrumentos de natureza laboral, que por lei, regulamento ou convenção 
 
 e) Outros actos a que a lei imponha a publicação.
 
-###### Artigo 16.º-E — Publicações obrigatórias
+Artigo 16.º-E
+
+Publicações obrigatórias
 
 1 - As publicações obrigatórias, ao abrigo do Código das Sociedades Comerciais, e do n.º 2 do artigo 70.º do Código do Registo Comercial, relativas a sociedades com sede na Região, são feitas através do sítio electrónico do Jornal Oficial, de modo que a informação objecto de publicidade possa ser acedida, designadamente, por ordem cronológica.
 
 2 - As publicações legais a que se refere o número anterior são promovidas pelas conservatórias, no prazo de vinte e quatro horas, após a conclusão dos respectivos procedimentos.
 
-###### Artigo 16.ª-F — Transmissão de actos para publicação
+Artigo 16.ª-F
+
+Transmissão de actos para publicação
 
 Os actos sujeitos a publicação no Jornal Oficial devem ser transmitidos por via electrónica e obedecer:
 
@@ -260,7 +302,9 @@ a) Às exigências de fiabilidade e segurança da assinatura electrónica qualif
 
 b) Aos requisitos técnicos de preenchimento de formulários electrónicos expressamente concebidos para disciplinar o envio de actos.
 
-###### Artigo 16.º-G — Cabeçalho
+Artigo 16.º-G
+
+Cabeçalho
 
 O Jornal Oficial deverá ter aposto no cabeçalho, em linhas sucessivas o seguinte:
 
@@ -268,7 +312,9 @@ a) Selo da Região Autónoma dos Açores e Jornal Oficial;
 
 b) Designação da série, número do Jornal, dia da semana, dia, mês e ano.
 
-###### Artigo 16.º-H — Taxas
+Artigo 16.º-H
+
+Taxas
 
 As publicações são feitas mediante pagamento de taxas conforme as tabelas a aprovar por portaria do membro do Governo Regional que tutela o Jornal Oficial.»
 
@@ -306,11 +352,11 @@ O presente diploma entra em vigor a 1 de Agosto de 2007.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de Abril de 2007.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 6 de Junho de 2007.**
+Assinado em Angra do Heroísmo em 6 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

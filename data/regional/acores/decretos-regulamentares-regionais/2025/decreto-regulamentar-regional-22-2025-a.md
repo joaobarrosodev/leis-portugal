@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/08/16300/0000200008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/2025/08/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2025-933236895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-08-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7f55eb8acc04df01ba14f31e903080e3d8ff5307a9ce87c13491e4f62d7d2d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 438690f9d343d3f6ca4eef7ed24b14d340db2e8b6a0e0b5257a3a7ca7b8b2987
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajuda Comunitária
-- Região Autónoma
+- Comissão CE
+- Comissão de Auditoria e Controlo do PRR
+- Conselho do Governo Regional
 - Conselho Económico e Social Regional
 - Definição de Competências
-- Comissão CE
-- Conselho do Governo Regional
 - Direcção Regional do Orçamento e Tesouro
-- Açores
-- Plano de Recuperação e Resiliência
 - Estrutura de Missão Recuperar Portugal
 - Mecanismo de Informação e Transparência do PRR
-- Comissão de Auditoria e Controlo do PRR
+- Plano de Recuperação e Resiliência
+- Região Autónoma
 relationships:
+- type: amends
+  target: pt:numero:decreto-regulamentar-regional:23/2021/A
+  label: Altera, a partir de 27 de agosto de 2025, os artigos 1.º, 3.º, 4.º, 5.º, 6.º e 7.º e adita o artigo 6.º-A ao Decreto
+    Regulamentar Regional n.º 23/2021/A, de 3 de setembro, Diário da República n.º 172/2021, Série I, que republica
+  source: null
+  date: '2021-09-03'
 - type: cites
   target: celex:32021R0241
   label: null
@@ -96,16 +102,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/32/2023/11/23/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/32/2023/11/23/a/dre
+- type: cites
+  target: pt:dre:162756795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:170649065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224661318:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
+  article_count: 15
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:09Z'
   warnings: []
   errors: []
 ---
@@ -138,7 +156,9 @@ Os artigos 1.º, 3.º, 4.º, 5.º, 6.º e 7.º do [Decreto Regulamentar Regional
 
 O presente diploma estabelece o modelo de governação das reformas e dos investimentos identificados no Plano de Recuperação e Resiliência de Portugal, aprovado pelo Conselho Europeu, em 13 de julho de 2021, revisto pelo Conselho Europeu, em 17 de outubro de 2023 e em 6 de maio de 2025, destinados à Região Autónoma dos Açores, doravante designado por PRR-Açores.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 O modelo de governação do PRR-Açores assenta num conjunto organizado de órgãos, com funções de coordenação política, de acompanhamento, de coordenação técnica, de gestão e contratualização e, ainda, de auditoria e controlo, nos termos seguintes:
 
@@ -152,7 +172,9 @@ d) O órgão de gestão e contratualização é assegurado pela Direção Region
 
 e) [Anterior alínea d).]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 [...]
 
@@ -164,7 +186,9 @@ c) Apreciar e aprovar, após parecer do órgão de acompanhamento, os relatório
 
 d) Remeter à Assembleia Legislativa da Região Autónoma dos Açores, após parecer do órgão de acompanhamento, os relatórios anuais de progresso do PRR-Açores.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Nos termos do disposto na alínea b) do artigo 3.º, o acompanhamento do PRR-Açores é cometido ao órgão de acompanhamento, ao qual compete:
 
@@ -178,7 +202,9 @@ d) Pronunciar-se sobre questões que sejam submetidas ao respetivo parecer pelos
 
 2 - [...]
 
-###### Artigo 6.º — Órgão de coordenação técnica
+Artigo 6.º
+
+Órgão de coordenação técnica
 
 1 - Nos termos do disposto na alínea c) do artigo 3.º, à coordenação técnica do PRR-Açores compete:
 
@@ -196,7 +222,9 @@ e) Responder, em articulação com a DRPFE, às necessidades de informação dos
 
 3 - Não são devidas quaisquer remunerações adicionais pelo exercício da função de gestor de investimento prevista no número anterior.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -236,11 +264,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 7 de agosto de 2025.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 25 de agosto de 2025.**
+Assinado em Angra do Heroísmo em 25 de agosto de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -357,3 +385,5 @@ Em tudo o que não esteja previsto no presente diploma, é aplicado, subsidiaria
 ###### Artigo 9.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+119465495

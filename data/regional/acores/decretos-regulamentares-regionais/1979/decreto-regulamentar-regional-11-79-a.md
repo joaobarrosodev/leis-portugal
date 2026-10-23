@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10000/07860789.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1979-382983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-06-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fce3a1856a4130e042746f64f1a42ce355596799c125a8cfe51710802fde9354
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b079a92ab8e7d787d106bd95276ba2546b35f4da7ca5dd921c365217d0336974
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Cooperativa
+- Instituto Regional de Apoio ao Sector Cooperativo
+- Orgânica
+- Regulamento
+- Secretaria Regional do Comércio e Indústria
 relationships:
 - type: amended_by
   target: pt:dre:435048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:393011:por
+  label: "Alterados os arts. 4.º, 6.º, 7.º, 8.º, 10.º, 11.º, 13.º, 14.º, 15.º e 16.º e revogado o artigo 17.º do presente\
+    \ diploma pelo DRR.20/82/A.03.05.1982.GR-RAA, DR.IS [101] de 03.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1982-393011
+  date: '1982-05-03'
+- type: amended_by
+  target: pt:dre:555392:por
+  label: "Dada nova redacção aos arts. 4.º, 6.º, 8.º, 13.º, 14.º, 15.º e 16.º (todos alterados pelo DRR 20/82/A de 03-mai)\
+    \ e aditado um art. 14º-A pelo DRR.33/90/A.16.10.1990.GR-RAA, DR.IS [239] de 16.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1990-555392
+  date: '1990-10-16'
+- type: amended_by
+  target: pt:dre:307439:por
+  label: "Dada nova redacção ao art. 14º (alterado pelos DRR 20/82/A de 03-Mai e 33/90/A de 16-Out) pelo DRR.38/91/A.23.11.1991.GR-RAA,\
+    \ DR.IS-B [270] de 23.11.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/38-1991-307439
+  date: '1991-11-23'
+- type: cites
+  target: pt:dre:425297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446971:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:435048:por
+  label: Revogado o presente diploma, com a redacção dada pelos DRR 20/82/A de 03-Mai, 33/90/A de 16-Out e 38/91/A de 23-Nov,
+    pelo DLR.7/96/A.14.06.1996.ALR-RAA, DR.IS-A [136] de 14.06.1996�
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1996-435048
+  date: '1996-06-14'
 article_structure:
   article_count: 17
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:52Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +180,7 @@ f) Submeter a despacho conjunto dos Secretários Regionais do Comércio e Indús
 
 ###### Artigo 5.º — (Substituição do presidente)
 
-**O presidente será substituído nas suas faltas, ausências e impedimentos pelo vogal por ele designado.**
+O presidente será substituído nas suas faltas, ausências e impedimentos pelo vogal por ele designado.
 
 #### SECÇÃO II — Conselho coordenador
 
@@ -254,14 +292,14 @@ As dúvidas que se suscitarem na aplicação do presente decreto serão resolvid
 
 Aprovado pelo Governo Regional em 14 de Março de 1979.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Abril de 1979.**
+Assinado em Angra do Heroísmo em 16 de Abril de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10000/07860789.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10000/07860789.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/05/10000/07860789.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

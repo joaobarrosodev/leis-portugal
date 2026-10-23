@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/04400/06200629.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1988-286921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a3906d9e8fd849b4f369114580f4d73dc67e3c2a5c9ac6fb6cfc5445e5ae4666
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01a039f3748302824f202c57adcf99e29b16fce925cc57b78e2030fe9b5db1a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Incentivos Fiscais
+- Investimento
+- Zona Tributária Privilegiada
 relationships:
 - type: amended_by
   target: pt:dre:180310525:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662899:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:180310525:por
+  label: Revogado, a partir de 16.03.2022 e com efeitos a 01.01.2022, pelo(a) Decreto Regulamentar Regional n.º 5/2022/A -
+    Diário da República n.º 50/2022, Série I de 2022-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2022-180310525
+  date: '2022-03-11'
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:21Z'
   warnings: []
   errors: []
 ---
@@ -287,13 +309,13 @@ Estes incentivos não são acumuláveis com outros de natureza semelhante, quer 
 
 Aprovado em Conselho do Governo Regional, na Vila do Porto, em 17 de Dezembro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 18 de Janeiro de 1988.**
+Assinado em Angra do Heroísmo em 18 de Janeiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO I — Norma do requerimento
 
@@ -311,7 +333,7 @@ Pede deferimento.
 
 ## ANEXO II — Formulário de candidatura aos incentivos financeiros da zona franca de Santa Maria
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/04400/06200629.pdf))](https://files.diariodarepublica.pt/1s/1988/02/04400/06200629.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/04400/06200629.pdf)
 
 ## ANEXO III — Índice do estudo técnico-económico
 
@@ -563,7 +585,7 @@ C5 = 0 < Caso contrário
 
 Quadro de ponderação de critérios
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/02/04400/06200629.pdf))](https://files.diariodarepublica.pt/1s/1988/02/04400/06200629.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/02/04400/06200629.pdf)
 
 4 - A percentagem de comparticipação será calculada multiplicando a percentagem máxima possível (70%) pela pontuação obtida a dividir por vinte.
 

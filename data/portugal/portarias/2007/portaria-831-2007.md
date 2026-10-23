@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/831/2007/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/831-2007-636387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fdc10411cf689252a05e0c32ae21bd323eab79885d20133ccd6066ddc18cf45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20b9d3b72099b0988353d24269780b5e28846b860f029befca3618512a3c99f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,31 @@ reuse:
 subjects:
 - Aeronave com Motor
 - Aeroporto de Francisco SÁ Carneiro
-- Instituto Nacional de Aviação Civil
+- Aviação Civil
 - Fiscalização
 - Inspecção Geral do Ambiente e do Ordenamento do Território
-- Aviação Civil
+- Instituto Nacional de Aviação Civil
 - Poluição Sonora
 - Tráfego Aéreo
 relationships:
+- type: amended_by
+  target: pt:dre:25343686:por
+  label: "Derrogadas nos termos da al. b) do n.º 1 do art. 2.º, as restrições de operação previstas no n.º 1 do art. 2.º,\
+    \ do presente diploma, pela PORT.101/2014.12.05.2014.MAOTE, DR.IS [90] de 12.05.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/101-2014-25343686
+  date: '2014-05-12'
+- type: amended_by
+  target: pt:dre:122349224:por
+  label: Derrogadas nos termos da al. b) do n.º 1 do art. 2.º, as restrições de operação previstas no n.º 1 do art. 2.º, do
+    presente diploma, pelo(a) Portaria n.º 156/2019 - Diário da República n.º 97/2019, Série I de 2019-05-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/156-2019-122349224
+  date: '2019-05-21'
+- type: amended_by
+  target: pt:dre:163866221:por
+  label: Derrogadas as restrições de operação previstas na al. b) do n.º 1 do art. 2.º pelo(a) Portaria n.º 103-A/2021 - Diário
+    da República n.º 99/2021, 2º Suplemento, Série I de 2021-05-21, nos termos do art. 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/103-a-2021-163866221
+  date: '2021-05-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/9/2006/01/06/p/dre
   label: null
@@ -83,16 +101,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/9/2007/01/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/9/2007/01/17/p/dre
+- type: cites
+  target: pt:dre:168231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:15Z'
   warnings: []
   errors: []
 ---
@@ -233,4 +259,4 @@ A presente portaria produz efeitos desde 16 de Julho de 2007.
 
 Em 17 de Julho de 2007.
 
-**O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.**
+O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.

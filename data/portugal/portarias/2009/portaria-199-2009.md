@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/199/2009/02/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/199-2009-602021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b144be510fdeca05ec5fb3f7a2580d7e8e09aa19cc48d330a9f9d4c63ab1731a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51aca70319a75b95c23d43e94e05a44c21719e87f68b75a65c5969f5758434d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,34 +68,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produto Químico
 - Armazenista
-- Indústria Farmacêutica
+- Comércio
+- Condições de Higiene e Segurança no Trabalho
+- Contrato de Trabalho
 - Indústria da Cerâmica
+- Indústria Farmacêutica
 - Indústria Mineira
 - Indústria Vidreira
 - Produto Farmacêutico
-- Contrato de Trabalho
-- Condições de Higiene e Segurança no Trabalho
+- Produto Químico
 - Regulamento de Extensão
 - Remuneração
-- Comércio
 - Trabalhador por Conta de Outrem
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:44Z'
   warnings: []
   errors: []
 ---

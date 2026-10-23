@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/28322833.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/521/2007/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/521-2007-521061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f7b2670ce2fb707d0bc45c789aa4fe60ce238bfbf347625081d78c0afd0e150
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 454ba92f2c11b89831e8b31de5961b11780f3a5fbebbf8cf4ab94c79ae52497c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,28 @@ reuse:
 subjects:
 - Definição de Competências
 - Estatuto
-- Instituto Público
 - Instituto das Tecnologias de Informação na Justiça
+- Instituto Público
 relationships:
 - type: amended_by
   target: pt:dre:190613:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489256:por
+  label: "Alterados os arts. 2º e 7º e aditado o art. 8º aos Estatutos do Instituto das Tecnologias de Informação na Justiça,\
+    \ I. P., aprovados em anexo ao presente diploma, pela PORT.990/2009.08.09.2009.MFAP, DR.IS [174] de 08.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/990-2009-489256
+  date: '2009-09-08'
+- type: amended_by
+  target: pt:dre:966045:por
+  label: "Prorrogada, por deliberação do Conselho Directivo do Instituto das Tecnologias de Informação na Justiça, I. P.,\
+    \ a duração da equipa do projecto \"Sistemas da Área da Identificação Civil, prevista no art. 7.º dos estatutos aprovados\
+    \ pelo presente diploma e publicitada a sua criação pelo Av 16252/2009 de 18-Set, bem como é prorrogada a duração da nomeação\
+    \ de Anabela Morais Varziela Soares Ferreira como chefe de equipa do mesmo projecto, pela DELIB-EXT.630/2010.07.04.2010.ITIJ-MJ,\
+    \ DR.IIS [67] de 07.04.2010\0010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao-extracto/630-2010-966045
+  date: '2010-04-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/103/2001/03/29/p/dre
   label: null
@@ -90,16 +105,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:272037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521027:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:190613:por
+  label: "Revogada, a partir de 30.11.2012, pela PORT.391/2012.29.11.2012.MF, DR.IS [231] de 29.11.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-2012-190613
+  date: '2012-11-29'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:07Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +160,7 @@ São aprovados, em anexo à presente portaria e da qual fazem parte integrante, 
 
 A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 24 de Abril de 2007. - O Ministro da Justiça, Alberto Bernardes Costa, em 26 de Abril de 2007.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 24 de Abril de 2007. - O Ministro da Justiça, Alberto Bernardes Costa, em 26 de Abril de 2007.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO DAS TECNOLOGIAS DE INFORMAÇÃO NA JUSTIÇA, I. P.
 

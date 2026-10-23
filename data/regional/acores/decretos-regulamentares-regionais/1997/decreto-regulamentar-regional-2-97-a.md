@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1997/02/048b00/08690871.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/1997/02/26/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1997-505412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de191effa0cb3cbb86f38aeed9e239545782b2061e5b6fe513c3933dc97203bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc724ce9ac1d07261cd11e3de43016edde397fdb5e3c8a70eb590b3cd62c3446
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
-- Reestruturação de Serviços
 - Centro de Estudo Conservação e Restauro dos Açores
+- Conservação e Restauro
 - Direcção Regional dos Assuntos Culturais
 - Museu
-- Conservação e Restauro
 - Quadro de Pessoal
-- Açores
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:584457:por
@@ -99,16 +99,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/despnorm/168/1992/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/despnorm/168/1992/09/07/p/dre
+- type: cites
+  target: pt:dre:235102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584787:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584457:por
+  label: "Revogado pelo DRR.36/2000/A.2000.11.10.SREAS-RAA DR.IS-B [282] DE 07/DEZ/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2000-584457
+  date: '2000-11-10'
 article_structure:
-  article_count: 5
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:50Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +184,9 @@ i) ...
 
 j) Outro pessoal.
 
-###### Artigo 14.º — Pessoal de chefia
+Artigo 14.º
+
+Pessoal de chefia
 
 1 - ...
 
@@ -165,7 +196,9 @@ j) Outro pessoal.
 
 4 - O pessoal de chefia aufere o vencimento correspondente ao índice de dois escalões acima do que detém nas respectivas carreira e categoria.
 
-###### Artigo 16.º — Carreiras de conservação e restauro
+Artigo 16.º
+
+Carreiras de conservação e restauro
 
 1 - ...
 
@@ -183,16 +216,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 27 de Novembro de 1996.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 27 de Janeiro de 1997.**
+Assinado em Angra do Heroísmo em 27 de Janeiro de 1997.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Presidente da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 2.º
 
 Centro de Estudo, Conservação e Restauro dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/02/048b00/08690871.pdf))](https://files.diariodarepublica.pt/1s/1997/02/048b00/08690871.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/02/048b00/08690871.pdf)

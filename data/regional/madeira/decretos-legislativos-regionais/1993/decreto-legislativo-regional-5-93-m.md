@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1993/05/06/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1993-274411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 924b22abe7fa8274f1182efb4ddff1669d8ce26fbda9ea97792c7b89ac790119
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bb4338cfba392b1c5f57e3f328fc28d263eba3974b45f96334a71211dee984c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Industrial
 - Apoio ao Investimento
-- Reestruturação Industrial
+- Desenvolvimento Industrial
 - Madeira.região Autónoma
+- Reestruturação Industrial
 - Regime de Apoio
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:219119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:52Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +112,15 @@ Considerando que tais apoios constituirão um forte estímulo à recuperação d
 
 A Assembleia Legislativa Regional da Madeira, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º Pelo presente diploma é aplicado na Região Autónoma da Madeira o [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, com as adaptações constantes dos artigos seguintes.
+Artigo 1.º Pelo presente diploma é aplicado na Região Autónoma da Madeira o [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, com as adaptações constantes dos artigos seguintes.
 
-###### Art. 2.º O artigo 1.º do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, vigora na Região Autónoma da Madeira com a seguinte redacção:
+Art. 2.º O artigo 1.º do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, vigora na Região Autónoma da Madeira com a seguinte redacção:
 
-###### Artigo 1.º - 1 - Podem ser declarados em reestruturação sectores ou subsectores com relevância económica e social, incluídos nas divisões 2 e 3 da Classificação das Actividades Económicas, que revelem dificuldades especiais de adaptação estrutural, tecnológica e comercial associadas a estruturas empresariais inadequadas ou procuras finais em regressão, estagnação ou crescimento lento.
+Artigo 1.º - 1 - Podem ser declarados em reestruturação sectores ou subsectores com relevância económica e social, incluídos nas divisões 2 e 3 da Classificação das Actividades Económicas, que revelem dificuldades especiais de adaptação estrutural, tecnológica e comercial associadas a estruturas empresariais inadequadas ou procuras finais em regressão, estagnação ou crescimento lento.
 
 2 - A reestruturação terá por objecto o incremento da competitividade através da redução de custos, da melhoria da qualidade, capacidade tecnológica, formas de comercialização e gestão de empresas e da diversificação e poupança energéticas, no quadro de um processo de adaptação estrutural adequado para o sector.
 
-###### Art. 3.º - 1 - As atribuições e competências atribuídas pelo [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, a departamentos e membros do Governo da República serão exercidas na Região Autónoma da Madeira pelos correspondentes departamentos e membros do Governo Regional, de acordo com o seguinte quadro:
+Art. 3.º - 1 - As atribuições e competências atribuídas pelo [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, a departamentos e membros do Governo da República serão exercidas na Região Autónoma da Madeira pelos correspondentes departamentos e membros do Governo Regional, de acordo com o seguinte quadro:
 
 Ministério da Indústria e Comércio - Secretaria Regional de Economia e Cooperação Externa;
 
@@ -132,12 +140,12 @@ Direcção-Geral de Geologia e Minas - Direcção Regional do Comércio e Indús
 
 2 - As referências feitas no articulado do [Decreto-Lei n.º 251/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1986-219119), de 25 de Agosto, ao Estado e à economia nacional entendem-se como reportadas, respectivamente, à Região Autónoma da Madeira e à economia regional.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 30 de Março de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 16 de Abril de 1993.**
+Assinado em 16 de Abril de 1993.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/09/214b00/64496451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/27/2002/09/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2002-634147
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30961c0d5bf65cb1b3090a6c9ebda5d7fdaa460515056732b9a88ac01fe130e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 558de3c8128ce33d247d940582b99bd77c756c6fbdc3e30aa4070586ea6b50a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Turismo
-- Apoio ao Investimento
 - Açores
+- Apoio ao Investimento
+- Financiamento
 - Sidet
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:636761:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527199:por
+  label: "Alterados os arts.3&#186;, 4&#186;, 5.&#186;, 8.&#186; e 11.&#186; do DRR 4/2001/A, de 06-Jun, na redac&#231;&#227;o\
+    \ do presente diploma, pelo DRR.27/2004/A.16.06.2004.PG-RAA, DR.IS-B [165] de 15.07.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2004-527199
+  date: '2004-06-16'
+- type: amended_by
+  target: pt:dre:489539:por
+  label: Alterados os arts. 3º, 4º, 5º, 11º e 12º, rectificados os arts. 3º, 8º e 11º e revogado o nº 9 do art. 5º, todos
+    do DRR 4/2001/A de 06-Jun, na redacção do presente diploma, pelo DRR.25/2005/A.16.11.2005.PG-RAA, DR.IS-B [233] de 06.12.2005
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2005-489539
+  date: '2005-11-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/26/2000/08/10/a/dre
   label: null
@@ -84,16 +96,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/4/2001/06/06/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/4/2001/06/06/a/dre
+- type: cites
+  target: pt:dre:321891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339848:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636761:por
+  label: "Revogado a partir de 24.07.2007 pelo DLR.19/2007/A.23.07.2007.AL-RAA, DR.IS [140] de 23.07.2007, sem prejuízo do\
+    \ disposto no nº 1 do art. 38º daquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2007-636761
+  date: '2007-07-23'
 article_structure:
-  article_count: 8
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:35Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +166,9 @@ b) Os projectos de instalação e ampliação dos empreendimentos não contempla
 
 5 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 Podem beneficiar dos incentivos previstos neste diploma:
 
@@ -150,7 +178,9 @@ b) No caso de programas e acções de promoção turística a que se refere a al
 
 c) No caso de acções de animação turística a que se refere a alínea c) do n.º 1 do artigo 3.º, empresários em nome individual, sociedades comerciais, cooperativas, agrupamentos complementares de empresas, estabelecimentos individuais de responsabilidade limitada, desde que apenas promovidos por pequenas e médias empresas, ou entidades juridicamente constituídas exclusivamente por pequenas e médias empresas, bem como associações de qualquer natureza ou outras entidades análogas.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -180,7 +210,9 @@ iii) Não se tiver verificado, durante os últimos 12 meses, a perda de mais de 
 
 iv) Não se tiver verificado a perda de mais de metade do respectivo capital.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -224,7 +256,9 @@ c) Embarcações ou outros meios de transporte usados, salvo em casos devidament
 
 d) Bens que se destinem unicamente a substituição ou reposição.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -234,7 +268,9 @@ d) Bens que se destinem unicamente a substituição ou reposição.
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 As entidades responsáveis pela gestão do SIDET são a Direcção Regional do Turismo e o Gabinete de Planeamento e Gestão de Incentivos, doravante referidos como organismo gestor, a comissão de selecção e o conselho regional de incentivos.»
 
@@ -248,10 +284,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Velas, São Jorge, em 11 de Julho de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Agosto de 2002.**
+Assinado em Angra do Heroísmo em 13 de Agosto de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

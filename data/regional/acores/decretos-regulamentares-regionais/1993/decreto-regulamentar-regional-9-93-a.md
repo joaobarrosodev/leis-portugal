@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1993/04/081b00/17481750.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/9/1993/04/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1993-683012
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ccea2af54923adc1b9989d065f2c23ad1304aead8aa4156567d9868142cfa888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e209496e53aa75f5b251f80cadb54b524dfa65ce2a4b9d91f20c7446ef25450
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Doença do Machado
-- Política de Saúde
 - Ação Social
-- Pensão de Invalidez
-- Incapacidade Física
-- Proteção Social
-- Doença
-- Segurança Social
 - Açores
+- Doença
+- Doença do Machado
+- Incapacidade Física
+- Pensão de Invalidez
+- Política de Saúde
+- Proteção Social
+- Segurança Social
 - Subsídio de Acompanhante
 relationships:
 - type: amended_by
   target: pt:dre:70748601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:669538:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da al. d) do art. 13º do DLR 21/92/A, de 21-Out,\
+    \ que revoga o presente diploma, pelo AC.304/2011.28.07.2011.TCS, DR.IS [144] de 28.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/304-2011-669538
+  date: '2011-07-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/21/1992/10/21/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/21/1992/10/21/a/dre
+- type: cites
+  target: pt:dre:221355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:488491:por
+  label: "Revogado, a partir de 01.01.2010, pela LEI.90/2009.31.08.2009.AR, DR.IS [168] de 31.08.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/90-2009-488491
+  date: '2009-08-31'
+- type: repealed_by
+  target: pt:dre:70748601:por
+  label: Revogado, a partir de 01.01.2016, pelo(a) Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de
+    2015-10-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/246-2015-70748601
+  date: '2015-10-20'
 article_structure:
   article_count: 16
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:21Z'
   warnings: []
   errors: []
 ---
@@ -227,10 +252,10 @@ Em tudo o que não estiver especialmente previsto neste diploma é aplicável o 
 
 Aprovado em Conselho do Governo Regional, na Horta, em 27 de Janeiro de 1993.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 22 de Fevereiro de 1993.**
+Assinado em Angra do Heroísmo em 22 de Fevereiro de 1993.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

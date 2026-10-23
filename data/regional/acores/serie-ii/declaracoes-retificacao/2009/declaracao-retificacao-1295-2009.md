@@ -4,8 +4,8 @@ id: pt:dre:2389296:por
 title: Declaração de Rectificação n.º 1295/2009
 short_title: null
 summary: Declaração de rectificação de um despacho do reitor da Universidade dos Açores
-jurisdiction: regional
-territory: acores
+jurisdiction: portugal
+territory: null
 document_type: declaracao-retificacao
 document_type_label: Declaração de Retificação
 issuing_authority:
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2009/05/096000000/1995919959.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1295-2009-2389296
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eba83610c435e01d1c47e31aa619d174dc6388219f50be3ee5d60e5f0130d251
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91f8db1f87e5dd5cb7655082f80b65640e488bb58880652a3df9983ef8295dbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:57Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +97,5 @@ Deverá ler-se:
 Isento de Fiscalização Prévia da Secção Regional dos Açores do Tribunal de Contas.
 
 13 de Maio de 2009. - A Administradora, Ana Paula Carvalho Homem de Gouveia.
+
+201788695

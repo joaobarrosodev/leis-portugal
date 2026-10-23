@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-1980-677443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-03-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7337491bb55ecddc4c6420e40ee4e9831f8d240a1bfcb22df4120319f262a81d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 778e7c7c111d7179191c8d94f04d8e082bc1dafa8f201fd2d90a949872490a39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Secretaria Regional do Comércio e Indústria
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:353734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354085:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387087:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:04Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +110,7 @@ Ora, o Decreto Regulamento Regional n.º 17/78, de 21 de Setembro, criou, pelo s
 
 Nestes termos, e usando dos poderes que lhe confere a alínea d) do n.º 1 do artigo 229.º da Constituição, o Governo Regional dos Açores decreta o seguinte:
 
-###### Artigo 1.º Todas as atribuições e competências transferidas para a Região pelo [Decreto-Lei n.º 522/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1979-353734), de 31 de Dezembro, serão exercidas pela Secretaria Regional do Comércio e Indústria através:
+Artigo 1.º Todas as atribuições e competências transferidas para a Região pelo [Decreto-Lei n.º 522/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/522-1979-353734), de 31 de Dezembro, serão exercidas pela Secretaria Regional do Comércio e Indústria através:
 
 1.º Da Direcção Regional do Comércio e Abastecimentos, pela Divisão de Fiscalização Económica e Qualidade Alimentar:
 
@@ -107,16 +126,16 @@ b) Fiscalização e inspecção dos produtos industriais não alimentares;
 
 c) Inspecção de pesos e medidas.
 
-###### Art. 2.º Todo o pessoal afecto às funções de inspecção e fiscalização aludidas no referido decreto-lei poderá levantar autos de transgressão e solicitar o auxílio das autoridades administrativas ou policiais, tendo direito ao uso e porte de armas, nos termos do [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949, e livre entrada em todos os locais onde se exerça qualquer actividade industrial ou comercial ou por onde transitem os respectivos produtos.
+Art. 2.º Todo o pessoal afecto às funções de inspecção e fiscalização aludidas no referido decreto-lei poderá levantar autos de transgressão e solicitar o auxílio das autoridades administrativas ou policiais, tendo direito ao uso e porte de armas, nos termos do [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949, e livre entrada em todos os locais onde se exerça qualquer actividade industrial ou comercial ou por onde transitem os respectivos produtos.
 
-###### Art. 3.º A identidade dos funcionários a que alude o artigo anterior será comprovada com bilhete passado pela Direcção Regional do Comércio e Abastecimentos, da Secretaria Regional do Comércio e Indústria, cujo modelo será aprovado por portaria da mesma Secretaria.
+Art. 3.º A identidade dos funcionários a que alude o artigo anterior será comprovada com bilhete passado pela Direcção Regional do Comércio e Abastecimentos, da Secretaria Regional do Comércio e Indústria, cujo modelo será aprovado por portaria da mesma Secretaria.
 
 Aprovado pelo Governo Regional em 13 de Fevereiro de 1980.
 
-**O Presidente do Governo Regional, em exercício, Raul Gomes dos Santos.**
+O Presidente do Governo Regional, em exercício, Raul Gomes dos Santos.
 
-**Assinado em Angra do Heroísmo em 11 de Março de 1980.**
+Assinado em Angra do Heroísmo em 11 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

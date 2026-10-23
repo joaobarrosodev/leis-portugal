@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2016/10/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2016-75491410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34d8b55ac83a07a62a72c933168cb91ea30d3520c18b663859b1453f69081a65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1d6f6a7ce141243b4973d7b0e504774e887e640f07342b0ee623500b5d437f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,14 +65,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Gestão dos Riscos de Inundações
-- Ordenamento do Território
-- Informática
-- Base de Dados
-- Gestão do Ambiente
-- Bacia Hidrográfica
 - Açores
+- Bacia Hidrográfica
+- Base de Dados
 - Cheias
+- Gestão do Ambiente
+- Informática
+- Ordenamento do Território
+- Plano de Gestão dos Riscos de Inundações
 - Sistema de Ocorrências de Cheias e Inundações de Origem Fluvial
 relationships:
 - type: cites
@@ -123,16 +123,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:175320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:55021043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636175:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:10Z'
   warnings: []
   errors: []
 ---
@@ -385,11 +461,11 @@ O PGRIA entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de julho de 2016.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 22 de setembro de 2016.**
+Assinado em Angra do Heroísmo em 22 de setembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -425,7 +501,7 @@ TABELA 1
 
 Faseamento de implementação da [Diretiva n.º 2007/60/CE](https://data.europa.eu/eli/dir/2007/60/oj?locale=pt)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 A DAGRI constitui uma oportunidade de aprofundamento das metodologias de gestão do risco de inundações a vários níveis. A obrigatoriedade de elaboração de cartas de zonas inundáveis e de risco de inundações proporciona uma oportunidade para desenvolver e uniformizar métodos de avaliação da perigosidade hidrogeomorfológica, hidrológica, hidráulica e histórica. No campo da vulnerabilidade, a diretiva exige apenas a quantificação dos principais elementos expostos, excluindo uma análise mais aprofundada da vulnerabilidade sociológica.
 
@@ -445,7 +521,7 @@ TABELA 2
 
 Instrumentos de gestão territorial em vigor na Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 A gestão dos riscos de inundações é uma das componentes da gestão integrada das bacias hidrográficas, pelo que a adoção de uma adequada política de planeamento deverá assentar na coordenação entre a Diretiva Inundações e a Diretiva Quadro da Água. Com efeito, quer o Plano de Gestão de Riscos de Inundações da Região Autónoma dos Açores (PGRIA), quer o Plano de Gestão da Região Hidrográfica dos Açores 2016-2021 (PGRH-Açores 2016-2021) são planos de recursos hídricos que promovem o planeamento das águas considerando a bacia hidrográfica como unidade principal de planeamento e gestão. A elaboração do PGRIA deverá ser efetuada em estreita articulação com o PGRH-Açores 2016-2021, por forma a compatibilizar as medidas propostas em ambos os Planos sem comprometer os objetivos que presidem a cada um deles.
 
@@ -461,7 +537,7 @@ A elaboração do PGRIA foi determinada pela publicação da Resolução do Cons
 
 O arquipélago dos Açores situa-se no Oceano Atlântico Norte, entre as latitudes 36º-43ºN e as longitudes 25º-31ºW, a uma distância de cerca 1600 quilómetros do continente português e é constituído por nove ilhas, e alguns ilhéus de origem vulcânica, distribuídas por três grupos (figura 2): grupo ocidental (Flores e Corvo), grupo central (Graciosa, Pico, Faial, São Jorge e Terceira) e grupo oriental (Santa Maria e São Miguel).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 2 Localização do arquipélago dos Açores e respetiva divisão por grupos geográficos. (dados CAOP 2014).
 
@@ -519,7 +595,7 @@ A rede de monitorização hidrológica existente na Região até 2009 apresentav
 
 A operacionalização de uma rede hidrometeorológica automática desde 2010, que permite a disponibilização online dos dados hidrometeorológicos, bem como a manutenção das condições de escoamento dos caudais nas estações hidrométricas, tem permitido congregar toda a informação necessária nomeadamente ao nível meteorológico e hidrométrico. Este sistema tem sido alvo de atualizações periódicas, prevendo-se a cobertura de toda a Região, com um total de 99 estações, até ao final de 2016 (figura 3).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 3 Configuração da rede hidrometeorológica dos Açores a atingir em 2016.
 
@@ -549,45 +625,45 @@ Todas as bacias hidrográficas foram classificadas tendo por base a combinação
 
 Com base na combinação cumulativa dos três critérios, procedeu-se à hierarquização do risco de cheias/inundações em 3 níveis: Baixo, Moderado e Elevado (figura 4).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 4 Hierarquização do risco de inundações nas bacias hidrográficas do arquipélago dos Açores.
 
 Nas figuras 5 a 13 apresenta-se a classificação do risco de cheias em cada uma das nove ilhas do arquipélago dos Açores. As bacias hidrográficas com risco de cheias Elevado estão presentes em cinco ilhas: Santa Maria, São Miguel, Terceira, São Jorge e Flores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 5 Classificação das bacias hidrográficas da ilha de Santa Maria em termos de risco de inundações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 6 Classificação das bacias hidrográficas da ilha de São Miguel em termos de risco de inundações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 7 Classificação das bacias hidrográficas da ilha Terceira em termos de risco de inundações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 8 Classificação das bacias hidrográficas da ilha de São Jorge em termos de risco de inundações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 9 Classificação das bacias hidrográficas da ilha do Pico em termos de risco de inundações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 10 Classificação das bacias hidrográficas da ilha do Faial em termos de risco de inundações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 11 Classificação das bacias hidrográficas da ilha da Graciosa em termos de risco de inundações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 12 Classificação das bacias hidrográficas da ilha das Flores em termos de risco de inundações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 13 Classificação das bacias hidrográficas da ilha do Corvo em termos de risco de inundações.
 
@@ -597,7 +673,7 @@ TABELA 3
 
 Descrição dos eventos de inundações com vítimas humanas e/ou danos mais significativos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 As bacias hidrográficas selecionadas são todas atingidas por cheias fluviais e a sua ocorrência condiciona grandemente a atividade normal das populações. Na tabela 4 sistematiza-se a informação relativa à aplicação dos critérios de seleção, da qual resulta a seleção de cinco zonas críticas onde ocorreram, pelo menos, um dos três fatores determinantes referidos na determinação de perigo para a população na Região.
 
@@ -605,11 +681,11 @@ TABELA 4
 
 Critérios de seleção das zonas críticas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Assim, na Região, as zonas críticas correspondem às bacias hidrográficas identificadas na tabela 4. No caso da ilha Terceira, apesar da bacia hidrográfica da Ribeira do Testo ser distinta da bacia da Grota do Tapete, considerando que as ocorrências se registaram em resultado dos mesmos eventos hidrológicos extremos, foram consideradas como uma única zona crítica. Na figura 14 destaca-se a localização das cinco zonas críticas no arquipélago dos Açores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 14 Localização das bacias hidrográficas selecionadas como zonas críticas na RAA.
 
@@ -621,13 +697,13 @@ A bacia hidrográfica da Ribeira Grande situa-se nas freguesias da Fajãzinha e 
 
 A bacia em estudo é a maior da ilha das Flores, com uma área de cerca de 17 km2. Em geral, as bacias hidrográficas da ilha das Flores apresentam formas estreitas e alongadas (PGRH, 2012). Em termos hidromorfológicos, identificam-se três setores distintos: setor recuado (cabeceira), que se implanta no Planalto Central, com declive suave a moderado; setor intermédio com declive acentuado, situado na periferia do Planalto Central; setor avançado, que evidencia importantes encaixes no troço terminal, que desaguam na Orla Costeira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 15 Enquadramento da bacia hidrográfica da Ribeira Grande (ilha das Flores).
 
 No que se reporta aos usos do solo, a figura 16 apresenta a proporção relativa dos mesmos nesta bacia. Assim, a ocupação do solo na bacia hidrográfica da Ribeira Grande é contrastante, sendo dominada por vegetação natural, que ocupa cerca de 10,3 km2 (65 %), seguida de pastagem que ocupa 3,5 km2 (22 %) a montante, nas áreas de maior altitude, enquanto que a floresta apresenta uma área de 1,8 km2 (12 %) presente, predominantemente, no sector intermédio. Ressalva-se que na bacia hidrográfica da Ribeira Grande o uso urbano é residual.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 16 Ocupação do solo na bacia hidrográfica da Ribeira Grande (%).
 
@@ -639,7 +715,7 @@ TABELA 5
 
 Valores anuais do balanço hídrico para a bacia da Ribeira Grande (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Na tabela 6 são apresentados os valores de densidade de drenagem e de escoamento anual para a bacia da Ribeira Grande, ilha das Flores.
 
@@ -647,7 +723,7 @@ Tabela 6
 
 Valores de densidade de drenagem (Dd) e escoamento anual (Esc) para a Bacia da Ribeira Grande (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Na tabela 7 são apresentados os valores de escoamento de ponta (Qp) para os diferentes períodos de retorno para a bacia da Ribeira Grande.
 
@@ -655,7 +731,7 @@ TABELA 7
 
 Valores de escoamento de ponta para os diferentes períodos de retorno para a bacia da Ribeira Grande (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 3.2 - Ribeira da Agualva - Terceira
 
@@ -665,13 +741,13 @@ O vulcão do Pico Alto insere-se no Maciço do Pico Alto e corresponde a um vulc
 
 Nesta região, e ao longo das vertentes da serra do Morião, a rede de drenagem é densa e radial, determinada pelos acentuados declives e pela morfologia do conjunto de domos que a constituem. A ribeira da Agualva, que se desenvolve nesta região, é o único curso de água da ilha Terceira com caudal permanente de alguma importância (PGRH, 2012).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 17 Enquadramento da bacia hidrográfica da Ribeira de Agualva (ilha Terceira).
 
 Os usos do solo presentes na bacia hidrográfica da Ribeira da Agualva encontram-se patentes na figura 18. As classes Pastagem e Vegetação Natural são os usos do solo dominantes, com uma área de cerca de 2,23 km2 e 1,8 km2, respetivamente, representando 30 % e 24 %, pela mesma ordem. As zonas de montante são ocupadas, preponderantemente, por Vegetação Natural e Floresta, a qual representa cerca de 23 % dos usos do solo presentes nesta bacia. Por outro lado, as áreas urbanas distribuem-se ao longo da margem direita da linha de água principal, numa extensão de cerca de 3,5 km, desde a cota de 200 m de altitude até à zona de foz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 18 Ocupação do solo na bacia hidrográfica da Ribeira da Agualva (%).
 
@@ -681,7 +757,7 @@ TABELA 8
 
 Valores anuais do balanço hídrico para a bacia da Ribeira da Agualva (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Na tabela 9 são apresentados os valores de densidade de drenagem (Dd) e escoamento anual (Esc) para a bacia da Ribeira da Agualva.
 
@@ -689,7 +765,7 @@ TABELA 9
 
 Valores de densidade de drenagem e escoamento anual para a bacia hidrográfica da Ribeira da Agualva (PGRH, 2012).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Os valores de escoamento de ponta (Qp) para diferentes períodos de retorno para a bacia hidrográfica da ribeira da Agualva são apresentados na tabela 10.
 
@@ -697,13 +773,13 @@ TABELA 10
 
 Valores de escoamento de ponta para diferentes períodos de retorno para a bacia hidrográfica da ribeira da Agualva (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 3.3 - Ribeiras do Porto Judeu (Ribeira do Testo/Grota do Tapete) - Terceira
 
 As bacias hidrográficas de Porto Judeu (Ribeira do Testo/Grota do Tapete) situam-se na freguesia do Porto Judeu, concelho de Angra do Heroísmo, na ilha Terceira (figura 19). Inserem-se nas regiões geomorfológicas do Vulcão Guilherme Moniz e da Zona Fissural (Zbyszewski, 1958; Zbyszewski et al., 1971; Self, 1974, 1976 in LREC, 2013).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 19 Enquadramento das bacias hidrográficas das Ribeiras de Porto Judeu (Ribeira do Testo/Grota do Tapete) (ilha Terceira).
 
@@ -719,7 +795,7 @@ A Ribeira do Testo, no troço mais a jusante, com cerca de um quilómetro e meio
 
 A pastagem é o uso dominante do solo na bacia hidrográfica da Ribeira do Testo, correspondente a 87 % (12,13 km2), seguida pelo uso agrícola com 10 % (1,44 km2). Face à sua representatividade, estes usos distribuem-se praticamente por toda a bacia hidrográfica. No caso da bacia hidrográfica da Grota do Tapete, à semelhança da bacia hidrográfica da Ribeira do Testo, as pastagens são o uso dominante representando 66 % (7,87 km2), seguidas das áreas agrícolas que equivalem a 28 % (3,35 km2). Destaca-se que esta bacia é a que apresenta maior representatividade percentual do uso urbano na ordem dos 5 % (0,57 km2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 20 Ocupação do solo nas bacias hidrográficas das ribeiras de Porto Judeu (Ribeira do Testo/Grota do Tapete) (%).
 
@@ -731,7 +807,7 @@ TABELA 11
 
 Valores anuais do balanço hídrico para a bacia hidrográfica da Ribeira do Testo/Grota do Tapete (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Na tabela 12 são apresentados os valores de densidade de drenagem (Dd) e escoamento anual (Esc) para a bacia da Ribeira do Testo.
 
@@ -739,7 +815,7 @@ TABELA 12
 
 Valores de densidade de drenagem e escoamento anual para a bacia hidrográfica da Ribeira do Testo/Grota do Tapete (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Na tabela 13 são apresentados os valores de escoamento de ponta (Qp) para diferentes períodos de retorno para a bacia hidrográfica da Ribeira do Testo.
 
@@ -747,13 +823,13 @@ TABELA 13
 
 Valores de escoamento de ponta para os diferentes períodos de retorno para a bacia hidrográfica da Ribeira do Testo/Grota do Tapete (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 3.4 - Ribeira Grande - São Miguel
 
 A bacia hidrográfica da Ribeira Grande situa-se nas freguesias da Conceição, Matriz, Ribeirinha e Porto Formoso que pertencem ao concelho da Ribeira Grande e na freguesia de São Miguel do concelho de Vila Franca do Campo. É uma bacia que se localiza na parte central da ilha (figura 21), correspondente à unidade geomorfológica do Vulcão do Fogo (Zbyszewsky, 1961). É constituída pela Ribeira Grande, que recebe o escoamento proveniente dos importantes afluentes das Ribeiras das Lombadas, Rosário, Pernada/Teixeira, Roças/Salto do Cabrito. O considerável caudal das duas primeiras justifica a existência da central hidroelétrica do Salto do Cabrito, em funcionamento desde o início do século xx.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 21 Enquadramento da bacia hidrográfica da Ribeira Grande (ilha de São Miguel).
 
@@ -761,7 +837,7 @@ A bacia hidrográfica apresenta declives mais acentuados nos sectores a montante
 
 De acordo com a figura 22, na bacia hidrográfica da Ribeira Grande, as classes Vegetação Natural e Florestal apresentam maior expressão territorial representando 32 % (5,93 km2) e 27 % (26,72 km2), respetivamente. Estas classes predominam na área de montante da bacia hidrográfica, onde os declives são mais acentuados. A superfície agrícola e as pastagens apresentam áreas equiparadas, nomeadamente 3,25 km2 (17 %) e 3,28 km2 (18 %), e encontram-se representadas nas zonas mais aplanadas da bacia hidrográfica, a montante das áreas urbanas. Estas, por seu turno, concentram-se, sobretudo, na zona de foz e representam 0,5 km2 (3 %). As áreas industriais assumem nesta bacia maior importância relativa do que nas restantes bacias hidrográficas do presente plano (0,12 km2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 22 Ocupação do solo na bacia hidrográfica da Ribeira Grande (%).
 
@@ -771,7 +847,7 @@ TABELA 14
 
 Valores anuais do balanço hídrico para a bacia hidrográfica da Ribeira Grande (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Na tabela 15 são apresentados os valores de densidade de drenagem (Dd) e de escoamento anual (Esc) para a bacia da Ribeira da Ribeira Grande.
 
@@ -779,7 +855,7 @@ TABELA 15
 
 Valores de densidade de drenagem (Dd) e escoamento anual (Esc) para a bacia hidrográfica da Ribeira Grande (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Na tabela 16 são apresentados os valores de escoamento de ponta (Qp) para diferentes períodos de retorno para a bacia hidrográfica da ribeira da Povoação.
 
@@ -787,13 +863,13 @@ TABELA 16
 
 Valores de escoamento de ponta para os diferentes períodos de retorno para a bacia hidrográfica da Ribeira Grande (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 3.5 - Ribeira da Povoação - São Miguel
 
 A bacia da Ribeira da Povoação situa-se nas freguesias de Povoação e Nossa Senhora dos Remédios, no concelho da Povoação, no sector SSW da ilha de São Miguel (figura 23). É na sua foz que está localizada a vila da Povoação, localidade palco de inundações que já causaram a perda de vidas humanas e a destruição de habitações e infraestruturas. Constituída por diversos cursos de água, a Ribeira do Purgar é a que origina maior número de eventos de cheias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 23 Enquadramento da bacia hidrográfica da Ribeira da Povoação (ilha de São Miguel).
 
@@ -803,7 +879,7 @@ A bacia domina o extremo SE da ilha de São Miguel. Os seus parâmetros morfomé
 
 A figura 24 apresenta a proporção dos usos do solo na bacia hidrográfica da Ribeira da Povoação. A classe florestal é a que apresenta maior expressão territorial num total de 9,64 km2, seguida pela classe de pastagem, com 9,11 km2, correspondendo, respetivamente, a 33 % e 32 % do total da bacia hidrográfica. Enquanto que a superfície florestal se concentra nas áreas a montante, de maior declive, as áreas de pastagem ocupam as áreas de menor declive a jusante do uso florestal. Salienta-se que, das bacias que integram o presente plano, a bacia hidrográfica da Povoação é a que apresenta maior área afeta ao uso urbano (0,7 km2). Contudo, no contexto da bacia, o uso urbano representa 2 %.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 24 Ocupação do solo na bacia hidrográfica da Povoação (%).
 
@@ -813,7 +889,7 @@ TABELA 17
 
 Valores anuais do balanço hídrico para a bacia hidrográfica da ribeira da Povoação (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Na tabela 18 são apresentados os valores de densidade de drenagem e escoamento anual para a Bacia da Ribeira da Povoação
 
@@ -821,7 +897,7 @@ TABELA 18
 
 Valores de densidade de drenagem (Dd) e escoamento anual (Esc) para a bacia hidrográfica da ribeira da Povoação (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Na tabela 19 são apresentados os valores de escoamento de ponta (Qp) para diferentes períodos de retorno para a bacia hidrográfica da ribeira da Povoação.
 
@@ -829,7 +905,7 @@ TABELA 19
 
 Valores de escoamento de ponta (m3/s) para os diferentes períodos de retorno para a bacia hidrográfica da ribeira da Povoação (PGRH, 2012)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 4 - Delimitação das zonas inundáveis e avaliação da suscetibilidade
 
@@ -869,7 +945,7 @@ TABELA 20
 
 Parâmetros utilizados para o modelo VORIS para as bacias hidrográficas (MNE - Modelo numérico de elevação; hc - altura crítica; lmax = percurso da água na superfície)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 A estimação do valor de altura crítica adequado para cada cenário foi um processo iterativo, em que a variação de hc determinava a extensão da zona inundável.
 
@@ -879,13 +955,13 @@ A validação dos mapas de suscetibilidade gerados pelo modelo VORIS foi efetuad
 
 Na aplicação das curvas de predição foram projetados os valores de suscetibilidade de cada célula de 5 metros com os edifícios e infraestruturas afetadas em eventos ocorridos, de forma a quantificar o número de edifícios inundados em cada classe de suscetibilidade. Os valores de suscetibilidade são ordenados por ordem decrescente e são calculadas as respetivas frequências relativas acumuladas em termos de número de edifícios inundados e infraestruturas afetadas (figura 25).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 25 Curva de predição determinada para as cinco zonas inundáveis.
 
 Foi ainda determinada a curva de probabilidade, a partir da qual se obtiveram os valores de quebra para a classificação dos mapas de suscetibilidade. A curva de probabilidade foi calculada com base na probabilidade de cheias, a partir do edificado e infraestruturas afetadas (figura 26).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 26 Curva de probabilidade determinada para as cinco zonas inundáveis.
 
@@ -895,7 +971,7 @@ Considerando a heterogeneidade das cinco zonas inundáveis foi recalculada a pro
 
 As classes de suscetibilidade definem as áreas com maior probabilidade de ocorrência de cheias. Assim, as áreas com suscetibilidade alta serão aquelas atingidas mais frequentemente. A classe Baixa corresponde às áreas nas quais a probabilidade de ocorrência será menor, no entanto estão associadas às situações mais graves, por atingirem uma maior área inundada (figura 27).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 27 Relação das classes de suscetibilidade com a frequência de ocorrência (probabilidade), a sua potencial gravidade e a área atingida pelas cheias.
 
@@ -909,7 +985,7 @@ TABELA 21
 
 IGT abrangidos pelas zonas inundáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 4.4.1 - Ribeira Grande, Ilha das Flores
 
@@ -917,7 +993,7 @@ TABELA 22
 
 Área das classes de espaço dos IGT's por classes de suscetibilidade das zonas inundáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 4.4.2 - Agualva
 
@@ -925,7 +1001,7 @@ TABELA 23
 
 Área das classes de espaço dos IGT's por classes de suscetibilidade das zonas inundáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 4.4.3 - Porto Judeu
 
@@ -933,7 +1009,7 @@ TABELA 24
 
 Área das classes de espaço dos IGT's por classes de suscetibilidade das zonas inundáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 4.4.4 - Ribeira Grande, Ilha de São Miguel
 
@@ -941,7 +1017,7 @@ TABELA 25
 
 Área das classes de espaço dos IGT's por classes de suscetibilidade das zonas inundáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 4.4.5 - Povoação
 
@@ -949,7 +1025,7 @@ TABELA 26
 
 Área das classes de espaço dos IGT's por classes de suscetibilidade das zonas inundáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 5 - Elaboração das cartas de risco de inundações
 
@@ -995,7 +1071,7 @@ TABELA 27
 
 Temas geográficos utilizados para determinar os elementos expostos à suscetibilidade de eventos de cheia, e cumprimento da alínea a que se refere o artigo 8.º do [DL 115/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2010-307873), de 22 de outubro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 O cruzamento dos temas geográficos em ambiente SIG-ArcGIS permitiu apurar a percentagem a que cada elemento está exposto a cada uma das três classes de suscetibilidade.
 
@@ -1013,7 +1089,7 @@ Nas figuras 28 a 32 apresenta-se, para cada uma das cinco bacias hidrográficas,
 
 No caso desta bacia hidrográfica, os elementos mais vulneráveis ao risco de inundações são as populações, com cerca de 14 pessoas que poderão ser afetadas, seguidas das infraestruturas viárias (18 %). As zonas protegidas são o terceiro elemento que apresenta uma maior exposição ao risco elevado de cheia (figura 28). Ressalva-se que as áreas afetas às captações de água não se inserem na bacia hidrográfica, pelo que não é apresentada a respetiva percentagem de exposição a cada classe de suscetibilidade na bacia hidrográfica da Ribeira Grande.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 28 Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Ribeira Grande FLO.
 
@@ -1023,17 +1099,17 @@ Elementos vulneráveis da bacia hidrográfica da Ribeira Grande FLO
 
 População por classe de suscetibilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Perímetros de proteção às captações de Abastecimento Público de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 5.2.2 - Bacia hidrográfica da Agualva, Terceira
 
 No caso desta bacia hidrográfica, os elementos mais vulneráveis ao risco de inundações são as populações, com cerca de 1350 pessoas que poderão ser afetadas, seguidas das captações de água (67 %). As infraestruturas viárias são o terceiro elemento que apresenta uma maior exposição ao risco elevado de cheia (figura 29).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 29 Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da ribeira da Agualva.
 
@@ -1043,29 +1119,29 @@ Elementos vulneráveis da bacia hidrográfica da ribeira da Agualva
 
 População por classe de suscetibilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Património Classificado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Edifícios Sensíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Captações de Abastecimento Público de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Perímetros de proteção às captações de Abastecimento Público de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 5.2.3 - Bacia hidrográfica das ribeiras de Porto Judeu (Ribeira do Testo/Grota do Tapete), Terceira
 
 À semelhança da bacia hidrográfica da Agualva, os elementos mais vulneráveis ao risco de cheia elevado são as populações, com cerca de 1000 pessoas, seguidas das infraestruturas viárias (13 %).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 30 Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica das ribeiras de Porto Judeu (Ribeira do Testo/Grota do Tapete)
 
@@ -1075,25 +1151,25 @@ Elementos vulneráveis da bacia hidrográfica das ribeiras de Porto Judeu (Ribei
 
 População por classe de suscetibilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Edifícios Sensíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Captações de Abastecimento Público de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Perímetros de proteção às captações de Abastecimento Público de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 5.2.4 - Bacia hidrográfica da Ribeira Grande, São Miguel
 
 Na bacia hidrográfica da Ribeira Grande, os elementos mais vulneráveis ao risco de cheia elevado são as populações, em que se estima que cerca de 890 residentes possam ser afetados, seguidas das captações de água (20 %). As infraestruturas viárias são o terceiro elemento que apresenta uma maior exposição ao risco elevado de cheia (figura 31).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 31 Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Ribeira Grande SMG.
 
@@ -1103,29 +1179,29 @@ Elementos vulneráveis da bacia hidrográfica da Ribeira Grande SMG
 
 População por classe de suscetibilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Património Classificado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Edifícios Sensíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Captações de Abastecimento Público de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Perímetros de proteção às captações de Abastecimento Público de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 5.2.5 - Bacia hidrográfica da Povoação, São Miguel
 
 Na bacia hidrográfica da Povoação, os elementos mais vulneráveis ao risco de cheia elevado são as populações, em que se estima que cerca de 1700 residentes possam ser afetados, seguidos de edifícios sensíveis (22 %). As infraestruturas viárias são o terceiro elemento que apresenta uma maior exposição ao risco elevado de cheia (figura 32).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 32 Percentagem de elementos expostos a cada classe de suscetibilidade na bacia hidrográfica da Povoação.
 
@@ -1135,21 +1211,21 @@ Elementos vulneráveis da bacia hidrográfica da Povoação
 
 População por classe de suscetibilidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Património Classificado
 
 Edifícios Sensíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Captações de Abastecimento Público de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Perímetros de proteção às captações de Abastecimento Público de Água
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Verifica-se que a população é um dos elementos mais vulneráveis ao risco de cheia, com os resultados mais preocupantes nas bacias hidrográficas da Ribeira da Povoação, Ribeira da Agualva, ribeiras do Porto Judeu (Ribeira do Testo/Grota do Tapete) e Ribeira Grande (São Miguel). As infraestruturas viárias são o segundo elemento que apresenta uma maior exposição ao risco elevado de cheia. É nas bacias hidrográficas da ilha Terceira que a rede viária apresenta percentagens mais elevadas na classe de suscetibilidade elevada ao risco de cheia. Os eventos mais recentes ocorridos nessas bacias causaram, efetivamente, danos severos na rede viária dessas localidades. Importa ainda ressalvar que, no caso da Agualva, as captações de água são o segundo elemento que apresenta uma maior exposição ao risco elevado de cheia, assumindo igual importância relativa os edifícios sensíveis da Povoação.
 
@@ -1189,7 +1265,7 @@ TABELA 33
 
 Relação dos Objetivos Estratégicos com as Linhas de Orientação do PGRIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 A par de um possível agravamento das condições naturais que desencadeiam processos de inundação que os organismos internacionais preveem num quadro de mudança climática (a amplitude e a frequência das cheias aumentarão provavelmente no futuro em resultado de alterações climáticas), as ocorrências registadas no passado estão, contudo, fortemente relacionadas com a elevada exposição e vulnerabilidade das populações e atividades económicas. A tendência para incremento do risco de inundações como consequência de fatores humanos pode e deve inverter-se mediante a inclusão de políticas ativas de planeamento e gestão territorial orientadas para garantir um uso sustentável das zonas inundáveis e a mitigação dos riscos (COM(2004)472 final).
 
@@ -1197,7 +1273,7 @@ Nesta perspetiva, foram considerados os referenciais estratégicos mais relevant
 
 Na figura 33 esquematiza-se a articulação do PGRIA com os IGT e outra legislação relevante conforme definido no [Decreto-Lei n.º 115/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2010-307873), de 22 de outubro, e descrito na tabela 34.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 33 Articulação do PGRIA com os IGT e outra legislação relevante conforme definido no [Decreto-Lei n.º 115/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2010-307873), de 22 de outubro.
 
@@ -1205,7 +1281,7 @@ TABELA 34
 
 Articulação do PGRIA com os IGT e outra legislação relevante
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 7 - Medidas
 
@@ -1217,7 +1293,7 @@ TABELA 35
 
 Tipos de medidas aplicáveis no âmbito do PGRI, objetivos e âmbito de aplicação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 As medidas a aplicar na Região têm em conta as características cheias rápidas, ou repentinas, que resultam geralmente de chuvas muito intensas e concentradas num determinado local, e que são capazes de provocar uma destruição generalizada, agravada por outros fenómenos simultâneos, como deslizamentos de terras/lamas.
 
@@ -1235,7 +1311,7 @@ TABELA 36
 
 Medidas propostas no PGRIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 As medidas propostas representam um investimento total superior a 4,2 milhões de euros, de acordo com o cronograma financeiro da tabela 37, dos quais cerca de metade corresponde a intervenções já executadas em consequência das intempéries mais recentes.
 
@@ -1243,7 +1319,7 @@ TABELA 37
 
 Cronograma financeiro da implementação das medidas do PGRIA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 8 - Promoção, acompanhamento e avaliação
 
@@ -1261,7 +1337,7 @@ TABELA 38
 
 Autoridades competentes e respetivos contactos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Um dos pressupostos fundamentais que concorrem para a implementação plena das medidas propostas no capítulo 7 é a dinamização da informação e participação das populações e dos agentes para as diversas vertentes associadas à minimização dos riscos de inundações. No caso do PGRIA compete, em particular, às autoridades competentes a promoção da participação das pessoas singulares e coletivas no processo de elaboração, reavaliação e atualização do PGRIA, contribuindo para um maior entendimento e responsabilidade partilhada, por forma a minimizar as consequências associadas à ocorrência das inundações aos níveis da saúde humana, do ambiente, do património cultural e das atividades económicas.
 
@@ -1307,7 +1383,7 @@ A implementação do PGRIA deverá ser alvo de um processo de reavaliação e ac
 
 Em conformidade com o previsto na DAGRI, o PGRIA, assim como as etapas que o precedem, a Avaliação Preliminar dos Riscos de Inundações e as Cartas de Zonas Inundáveis deverão ser reavaliados e, se necessário, atualizados de seis em seis anos (figura 34).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 Figura 34 Ciclo de reavaliação do PGRIA.
 
@@ -1317,12 +1393,12 @@ Figura 34 Ciclo de reavaliação do PGRIA.
 
 ## ANEXO II — Fichas de medidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 ## ANEXO III — Cartas de zonas inundáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
 
 ## ANEXO IV — Cartas de riscos de inundações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf))](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2016/10/19400/0352803587.pdf)

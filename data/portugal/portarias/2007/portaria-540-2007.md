@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/28822884.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/540/2007/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/540-2007-521222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b5004e1af3c4b70403d4d7f18e35e6db87d3aa6f9f51a3d22620bca1c34a602
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1e9316c879e85397f177424d128419e08387165e7fdd90b0ae6a4369f73a751
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
 subjects:
 - Definição de Competências
 - Estatuto
-- Ministério da Economia e da Inovação
 - Instituto Português da Qualidade
+- Ministério da Economia e da Inovação
 relationships:
 - type: amended_by
   target: pt:dre:256870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:341449:por
+  label: "Alterado o art. 7º dos Estatutos do Instituto Português da Qualidade, I. P., aprovados pelo presente diploma, pela\
+    \ PORT.888/2010.13.09.2010.MFAP, DR.IS [178] de 13.09.2010, que os republica\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/888-2010-341449
+  date: '2010-09-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/142/2007/04/27/p/dre
   label: null
@@ -86,16 +92,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/261/2005/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/261/2005/03/17/p/dre
+- type: cites
+  target: pt:dre:521006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:256870:por
+  label: "Revogada a presente portaria, na redação da Port 888/2010, de 13-set., pelo PORT.23/2013.24.01.2013.MF, DR.IS [17]\
+    \ de 24.01.2013\013\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23-2013-256870
+  date: '2013-01-24'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:15Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +150,7 @@ A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua public
 
 Em 24 de Abril de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho.
 
 ## ANEXO — ESTATUTOS DO INSTITUTO PORTUGUÊS DA QUALIDADE, I. P.
 

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 222/1998, 2º Suplemento, Série I-A de 1998-09-25
   number: '222'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4966-(10) a 4966-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15-a/1998/09/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-a-1998-173493
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 658c997d8f41b421661a9723092a8e5391d66fc90622e1bf0ddc566007712033
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e32895c45defe36a50e479226f32cd972f78bcaaa6c8574739680c08b5861ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Crédito Bonificado
-- Catástrofe
-- Ilha de São Jorge
-- Crédito
-- Ilha do Pico
-- Habitação
-- Sismo
 - Açores
-- Prédio Urbano
-- Taxa
+- Catástrofe
+- Crédito
+- Crédito Bonificado
+- Financiamento
+- Habitação
+- Ilha de São Jorge
 - ILHA do Faial
+- Ilha do Pico
+- Prédio Urbano
+- Sismo
+- Taxa
 - ZONA Sinistrada
 relationships:
 - type: amended_by
   target: pt:dre:517445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:214713:por
+  label: "Alterados os arts. 16º, 17º e 18º pelo DLR.8/2003/A.2003.02.12.ALR-RAA DR.IS-A [60] de 12/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2003-214713
+  date: '2003-02-12'
+- type: amended_by
+  target: pt:dre:517445:por
+  label: "Alterados os arts. 2º, 7º, 10º, 16º e 17º do presente diploma, com a redacção dada pelo DLR 8/2003/A de 12-Mar;\
+    \ inseridas as epígrafes: Capítulo I - Princípios gerais; Artigo 1.º - Objecto; [...] Capítulo II - Tipologia dos apoios;\
+    \ Artigo 3.º - Apoios; Artigo 4.º - Determinação da classe de apoio; Artigo 5.º - Bonificação de juros; Artigo 6.º - Aquisição\
+    \ ou construção excepcional de habitação; Artigo 8.º - Área e tipologia das habitações; Artigo 9.º - Deduções aos montantes\
+    \ comparticipados; [...] Capítulo III - Processo de candidatura; Secção I - Regime geral; Artigo 11.º - Avaliação; Artigo\
+    \ 12.º - Projecto; Artigo 13.º - Candidatura; Artigo 14.º - Comunicação da decisão; Secção II - Arrendatários e comodatários;\
+    \ [...] Capítulo IV - Obrigações dos beneficiários; Artigo 15.º - Afectação da habitação; Artigo 18.º - Reembolso da comparticipação\
+    \ e da bonificação; Artigo 19.º - Registo do ónus; Capítulo V - Disposições finais; Artigo 20.º - Apoio técnico; Artigo\
+    \ 21.º - Falsas declarações; Artigo 22.º - Regulamentação; e, aditados os arts. 7º-A, 7º-B, 14º-A, 14º-B, 14º-C, 14º-D,\
+    \ 14º-E, 14º-F, 19º-A e 21º-A, pelo DLR.23/2004/A.08.06.2004.ALR-RAA, DR.IS-A [151] de 29.06.2004, que procede à republicação\
+    \ deste diploma com todas as alterações\0ões\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/23-2004-517445
+  date: '2004-06-08'
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:00Z'
   warnings: []
   errors: []
 ---
@@ -156,7 +176,7 @@ o) «Reparação»: os trabalhos necessários à eliminação dos danos emergent
 
 Para efeitos do presente diploma, a aquisição, construção, reconstrução, reabilitação e reparação de habitações beneficia de apoios especiais, consubstanciados em comparticipações a fundo perdido e ou financiamentos sob a forma de créditos reembolsáveis às taxas de juro bonificadas, nos termos seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)
 
 ###### Artigo 4.º
 
@@ -166,7 +186,7 @@ Classe de apoio
 
 Rendimento per capita
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)
 
 2 - No cálculo do rendimento anual bruto do agregado familiar do beneficiário que tinha contraído empréstimo na banca, para habitação sinistrada, será deduzido o encargo anual decorrente do mesmo empréstimo.
 
@@ -194,7 +214,7 @@ No caso de habitações dadas de arrendamento ou comodatadas, têm acesso aos ap
 
 2 - No caso de o beneficiário adquirir ou construir uma habitação, esta deve subordinar-se ao limite máximo de área previsto no quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)](https://files.diariodarepublica.pt/1s/1998/09/222a02/00100013.pdf)
 
 3 - Se o imóvel a adquirir ou construir exceder o limite de área fixado no quadro anterior, até ao máximo de 25%, o beneficiário que recorra ao crédito terá direito a uma bonificação de juros, nos termos seguintes:
 
@@ -322,10 +342,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 9 de Setembro de 1998.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Dionísio Mendes de Sousa.
 
-**Assinado em 24 de Setembro de 1998.**
+Assinado em 24 de Setembro de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

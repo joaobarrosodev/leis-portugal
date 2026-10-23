@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/41/2008/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/41-2008-386602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b58c5567ec39a66d8f7090b2823676584c386d16b1ec5d5f34102384df90de6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb49ce707863f90baba9efce2f85e803a1c4273c14d233f99e635c89b0eb43a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Equivalência de Diplomas
 - Legitimidade
 - Nacional das Comunidades
 - Ordem dos Farmacêuticos
 - Qualificação Profissional
-- Equivalência de Diplomas
 - Trabalhador Comunitário
 relationships:
+- type: amends
+  target: pt:numero:portaria:325/2000
+  label: "Altera e adita o mapa anexo à Portaria n.º 325/2000, de 8 de Junho, DR.IS-B [133], rectificada pela Decl Rect 7-L/2000,\
+    \ de 30-Jun\0\0"
+  source: null
+  date: '2000-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/288/2001/11/10/p/dre
   label: null
@@ -98,16 +104,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/325/2000/06/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/325/2000/06/08/p/dre
+- type: cites
+  target: pt:dre:145031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607724:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680630:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:10Z'
   warnings: []
   errors: []
 ---
@@ -140,8 +170,8 @@ A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
 Em 25 de Outubro de 2007.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00800/0037300373.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00800/0037300373.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00800/0037300373.pdf)

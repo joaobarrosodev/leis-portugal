@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/1993/07/14/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1993-390065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7cd93218c2066570de1cafcf21657487a3f89abb6bb7da1f125a802ef2aaecc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e537855b2918db3d8d79c7e9260fc05da07ce31e0ad51e137183d2fcdc7487e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,34 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Empresa
-- Trabalho
-- Patronato
-- Madeira.região Autónoma
 - Inventário
+- Madeira.região Autónoma
+- Patronato
 - Trabalhador
+- Trabalho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:620954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:53Z'
   warnings: []
   errors: []
 ---
@@ -106,17 +114,17 @@ Atenta esta realidade, caracterizadora do tecido empresarial madeirense, justifi
 
 Assim, a Assembleia Legislativa Regional da Madeira, ao abrigo da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º - 1 - Todas as entidades empregadoras que, a qualquer título, tenham nos seus estabelecimentos pessoal pertencente ao quadro de outras entidades empregadoras deverão possuir um registo donde conste, de forma individualizada, a denominação de tais entidades, bem como dos trabalhadores em serviço.
+Artigo 1.º - 1 - Todas as entidades empregadoras que, a qualquer título, tenham nos seus estabelecimentos pessoal pertencente ao quadro de outras entidades empregadoras deverão possuir um registo donde conste, de forma individualizada, a denominação de tais entidades, bem como dos trabalhadores em serviço.
 
 2 - Deverão igualmente ser objecto de registo todas as demais situações de trabalho, incluindo as exercidas por conta própria ou em regime de mera prestação de serviço.
 
 3 - Excepciona-se das obrigações referidas nos números anteriores a realização de tarefas concretas e ocasionais por terceiros, designadamente no domínio da assistência técnica e reparação de equipamentos.
 
-###### Art. 2.º - 1 - O registo erá efectuado em livro adequado, do qual constarão obrigatoriamente os elementos a que se refere o artigo 3.º
+Art. 2.º - 1 - O registo erá efectuado em livro adequado, do qual constarão obrigatoriamente os elementos a que se refere o artigo 3.º
 
 2 - O registo poderá, todavia, ser substituído por suporte informatizado.
 
-###### Art. 3.º - 1 - O registo deverá conter os seguintes elementos:
+Art. 3.º - 1 - O registo deverá conter os seguintes elementos:
 
 a) Denominação, sede, nome do representante legal e número fiscal de contribuinte de cada entidade empregadora;
 
@@ -128,32 +136,32 @@ d) Número da apólice de seguro contra acidentes de trabalho e respectiva entid
 
 2 - No caso de se tratar de trabalho independente exercido por conta própria ou em prestação de serviço, deverão ser registados os elementos comprovativos dessa situação e os demais referidos no número anterior.
 
-###### Art. 4.º - 1 - Compete às entidades empregadoras que hajam contratado os serviços de outras entidades empregadoras a elaboração e actualização do registo a que se refere o artigo 1.º
+Art. 4.º - 1 - Compete às entidades empregadoras que hajam contratado os serviços de outras entidades empregadoras a elaboração e actualização do registo a que se refere o artigo 1.º
 
 2 - O registo deverá permanecer no estabelecimento enquanto houver trabalhadores na situação prevista no artigo 1.º e será exibido às entidades competentes sempre que estas o solicitem.
 
 3 - O registo deverá ser mantido e conservado pelo prazo de dois anos contado a partir da cessação da relação que originou o registo.
 
-###### Art. 5.º - 1 - O preenchimento do registo com incorrecções, omissões ou rasuras não ressalvadas é punível nos termos da lei penal vigente, sem prejuízo da sua rectificação, determinada pelas entidades competentes.
+Art. 5.º - 1 - O preenchimento do registo com incorrecções, omissões ou rasuras não ressalvadas é punível nos termos da lei penal vigente, sem prejuízo da sua rectificação, determinada pelas entidades competentes.
 
 2 - A rectificação é feita por averbamento e não prejudica os direitos entretanto adquiridos.
 
-###### Art. 6.º Compete à Inspecção Regional do Trabalho a fiscalização do cumprimento do presente diploma e, bem assim, a aplicação das respectivas coimas.
+Art. 6.º Compete à Inspecção Regional do Trabalho a fiscalização do cumprimento do presente diploma e, bem assim, a aplicação das respectivas coimas.
 
-###### Art. 7.º - 1 - A inexistência de registo ou o seu preenchimento com incorrecções, omissões ou rasuras não ressalvadas constituem contra-ordenações puníveis com coimas de 2 a 10 unidades de conta (UC) por cada trabalhador em relação ao qual se verifique a infracção.
+Art. 7.º - 1 - A inexistência de registo ou o seu preenchimento com incorrecções, omissões ou rasuras não ressalvadas constituem contra-ordenações puníveis com coimas de 2 a 10 unidades de conta (UC) por cada trabalhador em relação ao qual se verifique a infracção.
 
 2 - O valor de cada UC é o estabelecido no [Decreto-Lei n.º 212/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1989-620954), de 30 de Junho.
 
-###### Art. 8.º A reincidência, bem como a não rectificação do registo quando ordenada pelas entidades competentes, é punível com a coima elevada ao dobro dos limites estabelecidos no artigo anterior.
+Art. 8.º A reincidência, bem como a não rectificação do registo quando ordenada pelas entidades competentes, é punível com a coima elevada ao dobro dos limites estabelecidos no artigo anterior.
 
-###### Art. 9.º Para efeitos do presente diploma, considera-se estabelecimento o local de trabalho, ainda que a título precário, onde o trabalhador se encontre a exercer a sua actividade.
+Art. 9.º Para efeitos do presente diploma, considera-se estabelecimento o local de trabalho, ainda que a título precário, onde o trabalhador se encontre a exercer a sua actividade.
 
-###### Art. 10.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 13 de Maio de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 7 de Junho de 1993.**
+Assinado em 7 de Junho de 1993.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

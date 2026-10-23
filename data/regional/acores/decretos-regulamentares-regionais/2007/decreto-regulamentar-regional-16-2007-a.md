@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/2007/08/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2007-636958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df58f8c689eb43479f372b9bd785e80dec8e5e3aa7c6a1372298978fdd2ecb59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9308d0000d0d5c78b67fcd1b38b0533c567a46faf5562ef5f95c480a75ec0d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Plano Director Municipal
 - Ponta Delgada
 - Regulamento
 - Reserva Ecológica Regional
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:114771734:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673398:por
+  label: "Suspende, nos termos do art. 4º, os arts. 37º, 38º, 90º, 91º, 99º e 100º do Regulamento do Plano Director Municipal\
+    \ de Ponta Delgada, ratificado e publicado pelo presente diploma, alterado pelo Av 8125/2010, de 22-Abr, bem como a planta\
+    \ de ordenamento e a área de «Reserva ecológica» do respectivo PDM identificadas em anexo, pelo DRR.12/2011/A.02.06.2011.PG-RAA,\
+    \ DR.IS [107] de 02.06.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2011-673398
+  date: '2011-06-02'
+- type: amended_by
+  target: pt:dre:542981:por
+  label: "Suspenso parcialmente o Plano Director Municipal de Ponta Delgada, pelo DRR.8/2012/A.20.02.2012.PG-RAA, DR.IS [36]\
+    \ de 20.02.2012, nos termos do art. 4º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2012-542981
+  date: '2012-02-20'
+- type: amended_by
+  target: pt:dre:2523393:por
+  label: "Suspenso parcialmente, nos termos do artigo 2º, o Plano Diretor Municipal de Ponta Delgada, pelo AV.7617/2012.31.05.2012.MPONTA\
+    \ DELGADA, DR.IIS [106] de 31.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/7617-2012-2523393
+  date: '2012-05-31'
+- type: amended_by
+  target: pt:dre:25676927:por
+  label: "Alterada a área da suspensão do Plano Diretor Municipal de Ponta Delgada, conforme os limites representados nas\
+    \ plantas identificadas como anexos I, II e III, ratificado pelo presente diploma, na redação do DRR 8/2012/A, de 20-fev,\
+    \ pelo DRR.8/2014/A.23.06.2014.PG-RAA, DR.IS [118] de 23.06.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/8-2014-25676927
+  date: '2014-06-23'
+- type: amended_by
+  target: pt:dre:114771734:por
+  label: Suspenso, no referente à àrea assinalada nas plantas pertencentes aos Anexos I e II, o Plano Diretor Municipal de
+    Ponta Delgada, ratificado pelo presente diploma, com as alterações introduzidas pelos DRR 12/2011/A de 02-ju, 8/2012/A
+    de 20-fev e 8/2014/A de 23-jun, pelo(a) Decreto Regulamentar Regional n.º 4/2018/A - Diário da República n.º 41/2018,
+    Série I de 2018-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-2018-114771734
+  date: '2018-02-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -115,16 +150,149 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:168043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331257:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429407:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694056:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694057:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:31421366:por
+  label: "Rectificado o Indice do Jornal Oficial, IS n.º 41 e a respectiva identificação do presente DRR, pela DECL-RECT.5/2007.17.08.2007.SRP-RAA,\
+    \ JOA-IS [42] de 17.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/5-2007-31421366
+  date: '2007-08-17'
+- type: repeals
+  target: pt:numero:decreto-regulamentar-regional:37/2000/A
+  label: "Revoga o Regulamento do Plano de Urbanização de Ponta Delgada e Áreas Envolventes ratificado pelo Decreto Regulamentar\
+    \ Regional n.º 37/2000/A, de 14 de Dezembro, DR.IS-A [287], com excepção da secção i do capítulo i, das alíneas b), c)\
+    \ e d) do n.º 1 do artigo 8.º, do n.º 2 do artigo 8.º, do artigo 11.º, das secções iii, iv, v e vi do capítulo ii, do\
+    \ artigo 47.º, do n.º 2 do artigo 48.º, do artigo 56.º, do artigo 73.º, do n.º 2 do artigo 74.º e do artigo 76.º, devendo\
+    \ a necessária alteração - sujeita a regime simplificado - ao PUPDAE, decorrente da entrada em vigor do PDM (14.08.2007),\
+    \ ser elaborada pela Câmara Municipal de Ponta Delgada no prazo de 90 dias, nos termos do nº 2 do art. 160º do Regulamento.\0\
+    \0"
+  source: null
+  date: '2000-04-19'
 article_structure:
   article_count: 165
   section_count: 43
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:22Z'
   warnings: []
   errors: []
 ---
@@ -199,11 +367,11 @@ O Plano Director Municipal de Ponta Delgada revisto entra em vigor no dia seguin
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 3 de Abril de 2007.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 18 de Junho de 2007.**
+Assinado em Angra do Heroísmo em 18 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -1959,7 +2127,7 @@ abc - área bruta de construção destinada a habitação.
 
 1 - Os parâmetros de dimensionamento do estacionamento para usos comerciais são os que constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf)
 
 2 - Em zonas consolidadas, a impossibilidade objectiva de cumprimento destes parâmetros por incapacidade do lote ou do espaço público para localização de estacionamento é avaliada pela Câmara Municipal.
 
@@ -2849,16 +3017,16 @@ O Plano pode ser alterado, revisto ou suspenso, nos termos do [Decreto-Lei n.º 
 
 ## ANEXO I — Imóveis classificados ou em vias de classificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf)
 
 ## ANEXO N.º 2 — Planta de ordenamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf)
 
 ## ANEXO N.º 3 — Planta de condicionantes - Síntese
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf)
 
 ## ANEXO N.º 4 — Planta de condicionantes - Reserva Ecológica Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf))](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/08/15500/0522605264.pdf)

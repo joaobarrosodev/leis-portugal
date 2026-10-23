@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/7/1997/07/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/7-1997-144839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 321dae796d9e334e7f26988d18d3ca0d68d081131b9163ccec3fac55798055d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcedd859d9a1723dc7f1a0d39ad24b18bb189390764d27371fb70bf1dd22a0fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Planeamento Regional
 - Plano Regional
-- Açores
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:15Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +89,7 @@ A Assembleia Legislativa Regional dos Açores resolve, nos termos da alínea o) 
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Maio de 1997.
 
-**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.
 
 PLANO REGIONAL PARA 1997
 
@@ -145,11 +145,11 @@ Finalmente, o vector de calamidades contemplará intervenções excepcionais nos
 
 Desagregação sectorial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Desagregação por entidade proponente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Desenvolvimento da programação
 
@@ -163,31 +163,31 @@ No âmbito do sector agrícola será conduzida uma política integrada, desde o 
 
 No âmbito das pescas, a política a desenvolver contém elementos de integração e de fomento de sinergias, com intervenções quer ao nível da gestão e controlo dos recurso quer no âmbito das estruturas portuárias, frota e equipamentos de apoio. A formação e informação de pescadores e empresários do sector serão também promovidas.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 1 - Fomento Agrícola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 2 - Apoio à Transformação e Comercialização dos Produtos Agro-Pecuários
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 3 - Diversificação da Base Económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 4 - Desenvolvimento Florestal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 5 - Estruturas de Apoio à Actividade da Pesca
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 6 - Modernização das Pescas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Vector sectores complementares
 
@@ -211,51 +211,51 @@ A política regional para o sector da energia visará a sua utilização raciona
 
 No âmbito do programa Investigação e Desenvolvimento será iniciada a criação de um organismo autónomo (IRICTA) com a missão de enquadrar institucionalmente a política científica e tecnológica da Região.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 7 - Modernização das Pescas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 8 - Sistemas de Incentivos ao Turismo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 9 - Desenvolvimento Industrial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 10 - Desenvolvimento do Comércio e Exportação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 11 - Sistemas Complementares de Incentivos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 12 - Sistema Rodoviário Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 13 - Equipamentos Públicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 14 - Consolidação e Modernização dos Transportes Marítimos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 15 - Desenvolvimento dos Transportes Aéreos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 16 - Consolidação e Modernização do Sector Energético
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 17 - Desenvolvimento da Actividade Científica e Tecnológica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Vector bens e serviços públicos
 
@@ -271,31 +271,31 @@ No âmbito do programa que engloba as acções de protecção civil está compre
 
 Programa n.º 18 - Desenvolvimenton das Infra-Estruturas Educacionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 19 - Desenvolvimento do Sistema Educativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 20 - Juventude e Emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 21 - Desenvolvimento de Infra-Estruturas de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 22 - Desenvolvimento do Sistema de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 23 - Desenvolvimento do Sistema de Solidariedade Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 24 - Protecção Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Vector sistema ambiental e qualidade de vida
 
@@ -311,23 +311,23 @@ A intervenção na área da comunicação social assenta em duas grandes linhas:
 
 Programa n.º 25 - Qualidade Ambiental
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 26 - Património e Actividades Culturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 27 - Património e Actividades Culturais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 28 - Habitação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 29 - Comunicação Social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Vector gestão pública e institucional
 
@@ -339,30 +339,30 @@ Finalmente, serão desenvolvidos estudos e acompanhados e avaliados os instrumen
 
 Programa n.º 30 - Cooperação Externa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 31 - Administração Regional e Local
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 32 - Planeamento, Finanças e Estatística
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Vector calamidades
 
 Para efeito de organização dos trabalhos de recuperação dos estragos causados pelos temporais do Inverno de 1996, neste vector estão incluídos cinco grupos de intervenção nos domínios da agricultura, pescas, transportes marítimos e terrestres e ambiente.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Programa n.º 33 - Calamidades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 ## ANEXO — Desagregação sectorial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
 
 Desagregação espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf))](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/07/173b00/39013927.pdf)

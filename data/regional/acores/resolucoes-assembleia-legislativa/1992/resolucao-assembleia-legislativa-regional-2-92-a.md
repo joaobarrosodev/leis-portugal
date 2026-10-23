@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/2/1992/02/06/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/2-1992-152501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c4df272e6897b7e711c14d1b575b54548111fc2eceda76d2e44c068b4a09c98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 424999c014ea79f3e9b28476f4857c11c6415210f5e35651add7ce3f3944b51d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- RTP
+- Açores
+- Centro Regional
 - Meios de Comunicação Privados
 - Operador de Televisão
+- RTP
 - Serviço Público
-- Centro Regional
-- Açores
 - Televisão
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:394113:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:54Z'
   warnings: []
   errors: []
 ---
@@ -106,4 +110,4 @@ Nos termos da alínea q) do n.º 1 do artigo 32.º do Estatuto Político-Adminis
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Dezembro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional dos Açores, Alberto Romão Madruga da Costa.

@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/52-1981-567882
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-12-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e816b5867bd668543cd8a6a70abe8717114907b019080bd6c6dfc57590f83be9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61109d4d214fa761232def1988b3c4ff92fd4378d140e89dabf6ce8e7dd10f81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Serviços Médico-sociais
+relationships:
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471076:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:34Z'
   warnings: []
   errors: []
 ---
@@ -87,20 +97,20 @@ O artigo 2.º do [Decreto Regulamentar Regional n.º 36/80/A](https://diariodare
 
 Assim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 2.º do [Decreto Regulamentar Regional n.º 36/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-1980-471076), de 22 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 2.º do [Decreto Regulamentar Regional n.º 36/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/36-1980-471076), de 22 de Agosto, passam a ter a seguinte redacção:
 
-###### Artigo 1.º A tutela administrativa dos serviços materno-infantis implantados na Região passa a ser assegurada pelos Serviços Médico-Sociais de Ponta Delgada e Angra do Heroísmo.
+Artigo 1.º A tutela administrativa dos serviços materno-infantis implantados na Região passa a ser assegurada pelos Serviços Médico-Sociais de Ponta Delgada e Angra do Heroísmo.
 
-###### Art. 2.º O pessoal da Comissão Distrital de Assistência de Ponta Delgada integrado no quadro de pessoal dos Serviços Médico-Sociais de Ponta Delgada e Angra do Heroísmo, de acordo com o local do desempenho de funções.
+Art. 2.º O pessoal da Comissão Distrital de Assistência de Ponta Delgada integrado no quadro de pessoal dos Serviços Médico-Sociais de Ponta Delgada e Angra do Heroísmo, de acordo com o local do desempenho de funções.
 
-###### Art. 2.º Os Serviços Médico-Sociais de Ponta Delgada e Angra do Heroísmo assegurarão o cumprimento das disposições aplicáveis do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, ao pessoal da extinta Comissão Distrital de Assistência de Ponta Delgada.
+Art. 2.º Os Serviços Médico-Sociais de Ponta Delgada e Angra do Heroísmo assegurarão o cumprimento das disposições aplicáveis do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, ao pessoal da extinta Comissão Distrital de Assistência de Ponta Delgada.
 
 Aprovado pelo Governo Regional em 14 de Outubro de 1981.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 16 de Novembro de 1981.**
+Assinado em Angra do Heroísmo em 16 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

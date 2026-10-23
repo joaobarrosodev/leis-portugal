@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/02/03000/0119401196.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2019/02/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2019-119397722
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71399fa4b81daab49381afdfd7fa0c74ab74e540aa1fa36fa3e47f558ac6d71b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca9d55c1c10d29450a9caec24a948d537bc296df4873ce2a2f7b5dfe680da6ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
-- Adopção
-- Definição de Competências
-- Empresa Privada
-- Empresa Pública
+- Açores
 - Administração Pública
+- Adopção
 - Cooperativa
-- Fiscalização
-- Programa Berço de Emprego
-- Licença Parental
-- Prestações de Desemprego
+- Definição de Competências
 - Desemprego
 - Emprego
-- Parentalidade
-- Reembolso
+- Empresa Privada
+- Empresa Pública
+- Fiscalização
 - Fundo Regional do Emprego
 - Inspecção Regional do Trabalho
-- Açores
+- Licença Parental
+- Parentalidade
+- Prestações de Desemprego
+- Programa Berço de Emprego
+- Reembolso
 - Subsídio
 - Trabalhador
 relationships:
@@ -105,13 +105,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:28Z'
   warnings: []
   errors: []
 ---
@@ -316,10 +316,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 7 de janeiro de 2019.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 6 de fevereiro de 2019.**
+Assinado em Angra do Heroísmo em 6 de fevereiro de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+112045326

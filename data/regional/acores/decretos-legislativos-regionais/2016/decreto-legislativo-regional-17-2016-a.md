@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/09/18700/0334803352.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2016/09/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2016-75430927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71b11bb8742a4126aed248e4936a9fc6437c0bc3ec71b1723ea126c12c4af780
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63c1afafaabc9dc1f20d418cf16e7081aaff92eb9a7a0cf8b20210dead2c4130
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Conselho Regional
-- Criança
-- Criação de Serviços
-- Direitos da Criança
-- Definição de Competências
-- Orgânica
-- Proteção à Infância
-- Presidente
-- Confidencialidade
 - Açores
 - Comissariado dos Açores para a Infância
+- Confidencialidade
+- Conselho Regional
+- Criação de Serviços
+- Criança
+- Definição de Competências
+- Direitos da Criança
+- Orgânica
+- Presidente
+- Proteção à Infância
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/159/2015/08/10/p/dre
@@ -113,16 +113,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69977689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72963281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:09Z'
   warnings: []
   errors: []
 ---
@@ -245,7 +281,7 @@ j) Assegurar o encaminhamento e a execução das deliberações do Conselho.
 
 ###### Artigo 10.º — Incompatibilidades
 
-**O presidente está sujeito ao regime de incompatibilidades dos titulares dos altos cargos públicos e não pode exercer funções, ainda que a título não remunerado, em comissões de proteção de crianças e jovens ou em entidades com competência em matéria de infância e juventude.**
+O presidente está sujeito ao regime de incompatibilidades dos titulares dos altos cargos públicos e não pode exercer funções, ainda que a título não remunerado, em comissões de proteção de crianças e jovens ou em entidades com competência em matéria de infância e juventude.
 
 ###### Artigo 11.º — Dever de sigilo
 
@@ -451,10 +487,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 13 de julho de 2016.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo, em 20 de setembro de 2016.**
+Assinado em Angra do Heroísmo, em 20 de setembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

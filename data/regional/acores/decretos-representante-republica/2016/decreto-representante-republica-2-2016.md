@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/11/21200/0389603896.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decrepraa/2/2016/11/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-representante-republica-para-regiao-autonoma-acores/2-2016-75662179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38a68d7373dc1bde851a2a5fcb470265c6f358dff0a1c61d7c8fba55cfd38b8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 590098c0884637680ec50214eaf45bbaef0669c64d99b0c6a3d5974de172616f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Governo Regional
-- Secretário Regional da Solidariedade Social
 - Nomeação
 - Secretário Regional
+- Secretário Regional Adjunto da Presidência para as Relações Externas
+- SECRETÁRIO REGIONAL ADJUNTO DA PRESIDÊNCIA PARA OS ASSUNTOS PARLAMENTARES
 - Secretário Regional da Agricultura e Florestas
 - Secretário Regional da Educação e Cultura
+- Secretário Regional da Energia Ambiente e Turismo
 - Secretário Regional da Saúde
-- Açores
-- Vice-presidente do Governo Regional
-- SECRETÁRIO REGIONAL ADJUNTO DA PRESIDÊNCIA PARA OS ASSUNTOS PARLAMENTARES
+- Secretário Regional da Solidariedade Social
 - SECRETÁRIO REGIONAL DO MAR CIÊNCIA E TECNOLOGIA
 - Secretário Regional dos Transportes e Obras Públicas
-- Secretário Regional da Energia Ambiente e Turismo
-- Secretário Regional Adjunto da Presidência para as Relações Externas
+- Vice-presidente do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:122857877:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:107669154:por
+  label: Exonerado o Secretário Regional dos Transportes e Obras Públicas, Vítor Manuel Ângelo de Freitas pelo(a) Decreto
+    do Representante da República para a Região Autónoma dos Açores n.º 1/2017 - Diário da República n.º 132/2017, Série I
+    de 2017-07-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-representante-republica-para-regiao-autonoma-acores/1-2017-107669154
+  date: '2017-07-11'
+- type: amended_by
+  target: pt:dre:122857877:por
+  label: Exonerado Rui Duarte Gonçalves Luís do cargo de Secretário Regional da Saúde da Região Autónoma dos Açore pelo(a)
+    Decreto do Representante da República para a Região Autónoma dos Açores n.º 1/2019 - Diário da República n.º 124/2019,
+    Série I de 2019-07-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-representante-republica-para-regiao-autonoma-acores/1-2019-122857877
+  date: '2019-07-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/30/2008/07/10/p/dre
   label: null
@@ -91,13 +105,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:18Z'
   warnings: []
   errors: []
 ---
@@ -128,8 +142,8 @@ Secretário Regional Adjunto da Presidência para os Assuntos Parlamentares - Se
 
 Secretário Regional Adjunto da Presidência para as Relações Externas - Mestre Rui Jorge da Silva Leite de Bettencourt.
 
-**Assinado em Angra do Heroísmo em 2 de novembro de 2016.**
+Assinado em Angra do Heroísmo em 2 de novembro de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

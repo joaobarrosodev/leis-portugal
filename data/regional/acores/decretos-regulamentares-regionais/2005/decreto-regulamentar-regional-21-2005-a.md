@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2005/10/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2005-156186
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adbe35009715fa1d654c5d780be2523e9e417b2752e567174ed17818e70d2578
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ab78c4c787a71fbd36cacfadb41bb330c5387bc9ebb20ee52d9bb026bd849d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Lajes do Pico
 - Ordenamento do Território
 - Plano Director Municipal
-- Lajes do Pico
 - Regulamento
-- Açores
 relationships:
+- type: amended_by
+  target: pt:dre:2087708:por
+  label: "Tornada pública a suspensão parcial do Plano Diretor Municipal das Lajes do Pico, ratificado pelo presente diplomsa,\
+    \ pelo AV.6792/2013.23.05.2013.MLAJES DO PICO, DR.IIS [99] de 23.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/6792-2013-2087708
+  date: '2013-05-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/de
   label: null
@@ -111,16 +117,208 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2003/06/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2003/06/04/p/dre
+- type: cites
+  target: pt:dre:138291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158575:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300235:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329662:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:396518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:607171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610444:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692871:por
+  label: null
+  source: null
 article_structure:
   article_count: 39
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:04Z'
   warnings: []
   errors: []
 ---
@@ -201,13 +399,13 @@ O Plano Director Municipal das Lajes do Pico entra em vigor no dia seguinte ao d
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 23 de Agosto de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 21 de Setembro de 2005.**
+Assinado em Angra do Heroísmo em 21 de Setembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO N.º 1 — REGULAMENTO DO PLANO DIRECTOR MUNICIPAL DAS LAJES DO PICO
 
@@ -1109,8 +1307,8 @@ Nas áreas envolventes aos edifícios escolares será observado o disposto no [D
 
 ## ANEXO N.º 2 — Planta de ordenamento
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/10/196b00/59976006.pdf)
+[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/10/196b00/59976006.pdf)](https://files.diariodarepublica.pt/1s/2005/10/196b00/59976006.pdf)
 
 ## ANEXO N.º 3 — Planta de condicionantes
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/10/196b00/59976006.pdf)
+[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2005/10/196b00/59976006.pdf)](https://files.diariodarepublica.pt/1s/2005/10/196b00/59976006.pdf)

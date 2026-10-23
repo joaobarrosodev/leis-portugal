@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24500/35583560.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/50-1980-462783
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 655627c2e35963397d8b604b206b04a39198bc458ffabee1d5c8bc4094a61b18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c92f24c198ec883db2dc4421168138bf797073dfb38518519ee72d2be914e6f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Reestruturação de Serviços
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:571233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443550:por
+  label: Alterado o quadro de pessoal da Direcção Regional de Turismo, pelo(a) Decreto Regulamentar Regional n.º 49/83/A -
+    Diário da República n.º 258/1983, Série I de 1983-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/49-1983-443550
+  date: '1983-11-09'
+- type: cites
+  target: pt:dre:325310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425275:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:571233:por
+  label: "Revogado, a partir de 08.05.1990, pelo DRR.17/90/A.08.05.1990.GR-RAA, DR.IS [105] de 08.05.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-1990-571233
+  date: '1990-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:16Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +117,11 @@ Assim, em execução do Decreto Regional n.º 3/76, de 31 de Dezembro, com a red
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 5.º, 8.º, e 14.º do [Decreto Regulamentar Regional n.º 25/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1978-325310), de 27 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 5.º, 8.º, e 14.º do [Decreto Regulamentar Regional n.º 25/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1978-325310), de 27 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 3.º A Direcção Regional de Turismo é chefiada pelo director regional e compreenderá a Divisão de Inspecção e Licenciamento das Actividades Turísticas e a Divisão de Promoção e Animação Turística.
+Art. 3.º A Direcção Regional de Turismo é chefiada pelo director regional e compreenderá a Divisão de Inspecção e Licenciamento das Actividades Turísticas e a Divisão de Promoção e Animação Turística.
 
-###### Art. 4.º À Divisão de Inspecção e Licenciamento das Actividades Turísticas compete, designadamente:
+Art. 4.º À Divisão de Inspecção e Licenciamento das Actividades Turísticas compete, designadamente:
 
 a) Propor em estreita ligação com o Departamento Regional de Estudos e Planeamento dos Açores, os planos de desenvolvimento turístico regional, assegurando a sua perfeita integração no plano de desenvolvimento global da Região;
 
@@ -131,7 +153,7 @@ o) Propor a política de preços nas actividades turísticas e garantir a sua ex
 
 p) Criar e manter actualizado o registo de casas e partes de casas para alugar ou subalugar nas zonas de maior atracção turística e que possam servir de meios complementares de alojamento nas condições a definir.
 
-###### Art. 5.º À Divisão de Promoção e Animação Turística compete, designadamente:
+Art. 5.º À Divisão de Promoção e Animação Turística compete, designadamente:
 
 a) Estudar e analisar em estreita cooperação com a Divisão de Inspecção e Licenciamento das Actividades Turísticas e os organismos centrais do turismo a oferta e a procura turística no mercado regional, nacional e internacional;
 
@@ -151,7 +173,7 @@ h) Orientar e coordenar a actividade dos postos de informação turística e ass
 
 i) Organizar e colaborar nas acções de acolhimento e ocupação de tempo do turista e, de um modo geral, fomentar a animação turística.
 
-###### Art. 8.º - 1 - As delegações de turismo serão dirigidas por um delegado, nomeado pelo Secretário Regional dos Transportes e Turismo, sob proposta do director regional de Turismo.
+Art. 8.º - 1 - As delegações de turismo serão dirigidas por um delegado, nomeado pelo Secretário Regional dos Transportes e Turismo, sob proposta do director regional de Turismo.
 
 2 - As delegações de turismo são órgãos de execução da política de turismo superiormente definida, competindo-lhes, nomeadamente:
 
@@ -181,7 +203,7 @@ a) Assegura a representação da Região em certames e outras iniciativas de int
 
 b) Assegura a recepção e acolhimento de individualidades ou grupos com interesse promocional para a Região.
 
-###### Art. 14.º - 1 - O Conselho Regional de Turismo terá a seguinte composição:
+Art. 14.º - 1 - O Conselho Regional de Turismo terá a seguinte composição:
 
 a) Secretário Regional dos Transportes e Turismo, que presidirá;
 
@@ -209,22 +231,22 @@ l) Um representante de cada uma das associações patronais da Região, que incl
 
 3 - Poderão participar nas reuniões do Conselho Regional de Turismo, sem direito a voto, os técnicos cuja presença seja considerada importante para o bom andamento dos trabalhos.
 
-###### Art. 2.º Os postos de turismo que dependem directamente da Direcção Regional de Turismo, nos termos do artigo 1.º do [Decreto Regulamentar Regional n.º 25/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1978-325310), de 27 de Dezembro, exercem as competências nas alíneas b), c) e j) do n.º 2 do artigo 8.º daquele diploma.
+Art. 2.º Os postos de turismo que dependem directamente da Direcção Regional de Turismo, nos termos do artigo 1.º do [Decreto Regulamentar Regional n.º 25/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-1978-325310), de 27 de Dezembro, exercem as competências nas alíneas b), c) e j) do n.º 2 do artigo 8.º daquele diploma.
 
-###### Art. 3.º O quadro de pessoal da Direcção Regional de Turismo é aumentado com unidades constantes do mapa anexo a este diploma.
+Art. 3.º O quadro de pessoal da Direcção Regional de Turismo é aumentado com unidades constantes do mapa anexo a este diploma.
 
-###### Art. 4.º A gratificação mensal a atribuir aos delegados de turismo será fixada por despacho dos Secretários Regionais das Finanças, da Administração Pública e dos Transportes e Turismo.
+Art. 4.º A gratificação mensal a atribuir aos delegados de turismo será fixada por despacho dos Secretários Regionais das Finanças, da Administração Pública e dos Transportes e Turismo.
 
 Aprovado em Conselho do Governo Regional em 28 de Agosto de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 26 de Setembro de 1980.**
+Assinado em Angra do Heroísmo em 26 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 Mapa a que se refere o artigo 3.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24500/35583560.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24500/35583560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24500/35583560.pdf)

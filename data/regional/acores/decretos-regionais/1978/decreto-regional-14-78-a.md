@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 293/1978, 1º Suplemento, Série I de 1978-12-22
   number: '293'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2734-(1) a 2734-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/29301/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1978-693462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c384fef96b9ec7595d8e006a6dfaa8babb53a134524a3b874dac66c82f5ca11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eefbb0fe9de241827d8b41257b1d1450d97a273edd7284f12c17df012300f5c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Assembleia Regional
+- Cargos Políticos
+- Estatuto do Deputado
+- Parlamentar
 relationships:
 - type: amended_by
   target: pt:dre:412790:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:286337:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:412790:por
+  label: "Revogado pelo DRG.1/81/A.1981.03.18.ARA, DR.IS [68]Supl de 23/Mar/1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regional/1-1981-412790
+  date: '1981-03-18'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:52Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +107,7 @@ As alterações ora introduzidas ao Estatuto dos Deputados visam uma maior efic�
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição o seguinte:
 
-###### Artigo único. Os artigos 10.º, 12.º-A e 19.º do Estatuto dos Deputados, aprovado pelo Decreto Regional n.º 2/76, de 8 de Outubro, com alterações introduzidas pelo [Decreto Regional n.º 14/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1977-286337), de 8 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 10.º, 12.º-A e 19.º do Estatuto dos Deputados, aprovado pelo Decreto Regional n.º 2/76, de 8 de Outubro, com alterações introduzidas pelo [Decreto Regional n.º 14/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1977-286337), de 8 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 10.º — (Ajudas de custo)
 
@@ -125,10 +139,10 @@ Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, 13 de Dezembro de 1978.
 
-**O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Regional dos Açores, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 22 de Dezembro de 1978.**
+Assinado em Angra do Heroísmo em 22 de Dezembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta, almirante.**
+O Ministro da República, Henrique Afonso da Silva Horta, almirante.

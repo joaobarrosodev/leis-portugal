@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14500/0509505096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/700/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/700-2008-454803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e8d30b8a5371c09d730a48b02b6a750f79d2fcbb869679d180e198a20a36625
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 932e566080494037357ce5158f812494a6e2046539d84d56964043164cae11dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Demarcada
 - Exploração Agrícola
 - Página na Internet
 - Produção Agrícola
+- Região Demarcada
 - Região Demarcada do Douro
 - Regulamento CE
-- Vitivinicultor
 - Vinha
+- Vitivinicultor
 - ZONA Vitivinícola
 relationships:
 - type: amended_by
   target: pt:dre:70509976:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552058:por
+  label: "Alterado o nº 8º, pela PORT.142/2012.15.05.2012.MAMAOT, DR.IS [94] de 15.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-2012-552058
+  date: '2012-05-15'
 - type: cites
   target: celex:32008R0479
   label: null
@@ -89,16 +94,22 @@ relationships:
   target: celex:32008R0497
   label: null
   source: http://data.europa.eu/eli/reg/2008/497/oj
+- type: repealed_by
+  target: pt:dre:70509976:por
+  label: Revogada, com efeitos a 15.09.2015, pelo(a) Portaria n.º 348/2015 - Diário da República n.º 199/2015, Série I de
+    2015-10-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/348-2015-70509976
+  date: '2015-10-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:54Z'
   warnings: []
   errors: []
 ---
@@ -171,4 +182,4 @@ b) Tenham beneficiado de um prémio ao arranque, mantendo-se a proibição até 
 
 14.º A presente portaria produz efeitos a partir de 1 de Agosto de 2008.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 23 de Julho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 23 de Julho de 2008.

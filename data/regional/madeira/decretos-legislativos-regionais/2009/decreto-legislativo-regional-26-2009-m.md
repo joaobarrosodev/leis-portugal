@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/26/2009/08/18/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2009-493765
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2cbea480bf6192112971382112902c16b06ab2062a578822bf4243d83e1694dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7092d301c21eb2dc9d88dcb94029a84c57dcb26643a036fea1c881faa3dc02e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código da Estrada
-- Multa
 - Contra-ordenação
 - Dispositivo Electrónico de Matrícula
+- Equipamento de Veículo
 - Equipamento Eletrónico
 - Fiscalização
-- Veículo
-- Equipamento de Veículo
-- Portagem
 - Madeira.região Autónoma
 - Matrícula
+- Multa
+- Portagem
 - Regulamento de Matrícula dos Automóveis seus Reboques Motociclos Ciclomotores Triciclos Quadriciclos Máquinas Industriais
   e Máquinas Industriais Rebocáveis
 - SIEV
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/2006/06/08/p/dre
@@ -121,16 +121,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/2008/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/2008/09/16/p/dre
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:529450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589934:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:608697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:12Z'
   warnings: []
   errors: []
 ---
@@ -197,10 +245,10 @@ O presente diploma entra em vigor na data da sua publicação e reporta os seus 
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 21 de Julho de 2009.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Publique-se.**
+Publique-se.
 
-**Assinado em 5 de Agosto de 2009.**
+Assinado em 5 de Agosto de 2009.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/10700/0317903180.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/392/2008/06/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/392-2008-449399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2b2386b9e44bf752e218951b0b897395676b6937416472a05e2d597ca092177
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 292a9562ee1ef97224f8e7509bfe6a8df9447f8eed7103ab4d530d69b835bc2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/422/1997/06/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/422/1997/06/25/p/dre
+- type: cites
+  target: pt:dre:150899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163470:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:66997032:por
+  label: Revogada, a partir de 21.04.2015, a presente Portaria, pelo(a) Lei n.º 29/2015 - Diário da República n.º 74/2015,
+    Série I de 2015-04-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-2015-66997032
+  date: '2015-04-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:04Z'
   warnings: []
   errors: []
 ---
@@ -113,7 +127,7 @@ Manda o Governo, pelo Secretário de Estado das Comunidades Portuguesas, o segui
 
 5.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado das Comunidades Portuguesas, António Fernandes da Silva Braga, em 21 de Maio de 2008.**
+O Secretário de Estado das Comunidades Portuguesas, António Fernandes da Silva Braga, em 21 de Maio de 2008.
 
 ## ANEXO I — Modelo do termo de posse e aceitação de membro do Conselho das Comunidades Portuguesas
 
@@ -133,7 +147,7 @@ Toma posse como membro do Conselho das Comunidades Portuguesas, para o que foi e
 
 O Membro do Conselho das Comunidades Portuguesas, ...
 
-**O Secretário de Estado das Comunidades Portuguesas, ...**
+O Secretário de Estado das Comunidades Portuguesas, ...
 
 ## ANEXO II
 
@@ -155,7 +169,7 @@ Toma posse como membro do Conselho das Comunidades Portuguesas, pelo Círculo El
 
 O Membro do Conselho das Comunidades Portuguesas, ...
 
-**O Secretário de Estado das Comunidades Portuguesas, ...**
+O Secretário de Estado das Comunidades Portuguesas, ...
 
 ## ANEXO III — Termo de aceitação de substituto de membro do Conselho das Comunidades Portuguesas
 
@@ -173,4 +187,4 @@ Aceita substituir o membro do Conselho das Comunidades Portuguesas ... (identifi
 
 O Substituto do Membro do Conselho das Comunidades Portuguesas, ...
 
-**O Secretário de Estado das Comunidades Portuguesas, ...**
+O Secretário de Estado das Comunidades Portuguesas, ...

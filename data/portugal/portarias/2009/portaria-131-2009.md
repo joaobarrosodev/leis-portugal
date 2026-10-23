@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/02100/0065600660.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/131/2009/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/131-2009-601748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58ec7574a38febe0a4eb1de57eddb21cd64fcc1566aff07311befd1c93a618bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a258f752e8403b1553dd20265c6e2d2ab839913f4a953e56231061a16af5b3f5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,38 +65,63 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Bolsa de Estágio
 - Centro de Emprego
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
 - Contrato de Formação
 - Desempregado
-- Iniciativa Novas Oportunidades
 - Desemprego
-- Qualificação Profissional
 - Estágio de Formação
-- Política de Emprego
+- Financiamento
+- Formação Profissional
+- Iniciativa Novas Oportunidades
+- Instituto do Emprego e Formação Profissional
 - Mercado do Trabalho
+- Política de Emprego
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:278899:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:605313:por
+  label: "Alterado o art. 15º, pela PORT.262/2009.12.03.2009.MTSSO, DR.IS [50] de 12.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-2009-605313
+  date: '2009-03-12'
+- type: amended_by
+  target: pt:dre:611299:por
+  label: "Alterados os arts. 4.º, 6.º, nº 2 do art. 7.º, art. 12.º, nº 1 do art. 13.º, art. 14.º e nºs 1, 2 e 3 do art. 15.º\
+    \ (este último na redacção da Port 262/2009 de 12-Mar), revogada a al. d) do n.º 1 do artigo 3.º, a al e) do n.º 1 e o\
+    \ n.º 4, ambos do art 15.º, e o n.º 3 do art 19.º, todos da presente portaria, pela PORT.128/2010.01.03.2010.MTSSO, DR.IS\
+    \ [41] de 01.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/128-2010-611299
+  date: '2010-03-01'
+- type: amended_by
+  target: pt:dre:342858:por
+  label: "Alterados os arts. 1º e 12º (este último na redacção da Port 128/2010, de 01-Mar) e revogado o nº2 do art. 15º pela\
+    \ PORT.681/2010.12.08.2010.MTSSO, DR.IS [156] de 12.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/681-2010-342858
+  date: '2010-08-12'
 - type: cites
   target: celex:31985D0368
   label: null
   source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: repealed_by
+  target: pt:dre:278899:por
+  label: "Revogada, em 01.03.2011, na redacção das Ports. 262/2009, de 12-Mar, 128/2010, de 01-Mar e 681/2010, de 12-Ago,\
+    \ pela PORT.92/2011.28.02.2011.MTSSO, DR.IS [41] de 28.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/92-2011-278899
+  date: '2011-02-28'
 article_structure:
   article_count: 24
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:33Z'
   warnings: []
   errors: []
 ---
@@ -345,4 +370,4 @@ Até Julho de 2009, a candidatura referida no artigo 7.º não está sujeita a p
 
 A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 28 de Janeiro de 2009.**
+O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 28 de Janeiro de 2009.

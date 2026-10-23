@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/04/07600/0232202324.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/421/2009/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/421-2009-603769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40fe6c486ec1d64a0bde8a96462a876f33c2d2e094fad36af113d1ef37be3fdd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 151a4916f04c20cd8dbb4e60251ce73526a753d2ba623e32aa02312d83729022
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -85,16 +85,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/172/2007/11/06/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/172/2007/11/06/p/dre
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629448:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107114308:por
+  label: Revogada a partir de 06.06.2017 pelo(a) Portaria n.º 187/2017 - Diário da República n.º 106/2017, Série I de 2017-06-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/187-2017-107114308
+  date: '2017-06-01'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:05Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +148,7 @@ Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 3 do a
 
 A presente portaria entra em vigor no dia 21 de Abril de 2009.
 
-**O Ministro da Justiça, Alberto Bernardes Costa, em 16 de Abril de 2009.**
+O Ministro da Justiça, Alberto Bernardes Costa, em 16 de Abril de 2009.
 
 ## ANEXO — REGULAMENTO INTERNO DO JULGADO DE PAZ DO AGRUPAMENTO DOS CONCELHOS DE ALCOBAÇA, CALDAS DA RAINHA, NAZARÉ E ÓBIDOS
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/24/2011/11/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2011-146206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ec9f94cf3a6ccc871ad51858f92ad1df4e8bfc6a4fbd209979976bb454e8895c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd5979065851172fa05b6ebe4ba7961681c8a011a218c94aead705f808df5cfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
+- Açores
+- Ilha do Pico
 - Lajes do Pico
 - Madalena.Açores
-- Ilha do Pico
+- Ordenamento do Território
 - Plano de Ordenamento da Orla Costeira
 - Política de Solos
 - Regulamento
 - são Roque do PICO
-- Açores
 relationships:
 - type: cites
   target: celex:31991L0676
@@ -90,13 +90,13 @@ relationships:
 article_structure:
   article_count: 54
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:56Z'
   warnings: []
   errors: []
 ---
@@ -171,11 +171,11 @@ O POOC Pico entra em vigor no dia seguinte à data da sua publicação.
 
 Aprovado em Conselho do Governo Regional, nas Lajes do Pico, em 4 de Outubro de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 4 de Novembro de 2011.**
+Assinado em Angra do Heroísmo em 4 de Novembro de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1103,16 +1103,16 @@ Aos embargos e demolições a que houver lugar no âmbito de aplicação do POOC
 
 ## ANEXO I — Tabela da constituição e áreas dos apoios balneares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/22500/0502005038.pdf))](https://files.diariodarepublica.pt/1s/2011/11/22500/0502005038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/22500/0502005038.pdf)
 
 ## ANEXO II — (a que se refere o artigo 1.º)
 
 Planta de síntese
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/22500/0502005038.pdf))](https://files.diariodarepublica.pt/1s/2011/11/22500/0502005038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/22500/0502005038.pdf)
 
 ## ANEXO III — (a que se refere o artigo 1.º)
 
 Planta de condicionantes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/11/22500/0502005038.pdf))](https://files.diariodarepublica.pt/1s/2011/11/22500/0502005038.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/11/22500/0502005038.pdf)

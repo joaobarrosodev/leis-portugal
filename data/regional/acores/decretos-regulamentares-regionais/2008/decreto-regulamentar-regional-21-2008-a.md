@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/20400/0748407485.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/21/2008/10/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2008-438448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 539d26648591fa345a2d2315d62928abec5eef299f7c91854153a0ecb3d1ee94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18bad32b08d947eb29418b1727fcbb5c067f3c93731892e67d751f5fb29649cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Campo de Golfe
-- Plano Director Municipal
-- Horta
 - Açores
-- Infraestrutura Turística
+- Campo de Golfe
+- Horta
 - ILHA do Faial
+- Infraestrutura Turística
+- Plano Director Municipal
 relationships:
 - type: amended_by
   target: pt:dre:174834:por
@@ -100,16 +100,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/30/2000/09/22/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/30/2000/09/22/a/dre
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412045:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642219:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:174834:por
+  label: "Revogado pelo DRR.19/2012/A.03.09.2012.PG-RAA, DR.IS [170] de 03.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2012-174834
+  date: '2012-09-03'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:33Z'
   warnings: []
   errors: []
 ---
@@ -158,11 +187,11 @@ A suspensão parcial do PDM da Horta tem como única e exclusiva finalidade a co
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 12 de Setembro de 2008.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 1 de Outubro de 2008.**
+Assinado em Angra do Heroísmo em 1 de Outubro de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -170,4 +199,4 @@ O Representante da República para a Região Autónoma dos Açores, José Antón
 
 Extracto da planta de ordenamento do PDM da Horta com a delimitação da área a suspender
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/20400/0748407485.pdf))](https://files.diariodarepublica.pt/1s/2008/10/20400/0748407485.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/20400/0748407485.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/2023/01/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2023-205758501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a14e3ed975954611658a9127d27afa1a7656a3118f522f0de521dfb55f0556b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d884b40ab78567d7e2a36b68907ababde7571d88a05bc0db8a2dbc66a724e0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,103 +65,103 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Complemento Regional de Pensão
-- Remuneração Complementar Regional
+- Abono de Família
+- Açores
+- Actividade Marítimo-Turística
+- Administração Regional
 - Admissão de Pessoal
 - Alienação de Participação Social
 - Alteração Orçamental
 - AMA
-- Região Autónoma
+- Apoio ao Investimento
+- Autarquia Local
 - Autoridade Tributária e Aduaneira
 - Autorização de Despesas
-- Pessoal de Saúde
-- Financiamento
 - AVAL do Estado
-- Garantia
-- Médico
+- Benefícios Fiscais
+- Bolsa de Estudos
 - Código de Conduta
 - Coeficiente de Actualização
-- Governo Regional
+- Compamid
+- Comparticipação Familiar
+- COMPLEMENTO ESPECIAL PARA O DOENTE ONCOLÓGICO
+- Complemento Regional de Pensão
 - Contrato Programa
 - Controlo Orçamental
 - Corrupção
+- Créditos do Estado
+- Cuidados Médicos
 - Definição de Competências
 - Despesas Públicas
-- Regulamentação de Atos Legislativos
-- Secretaria Regional das Finanças Planeamento e Administração Pública
+- Direção Regional da Educação e Administração Educativa
+- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
 - Dívida Pública
+- DOENÇA ONCOLÓGICA
+- Doente Oncológico
 - Dotação Orçamental
-- Comparticipação Familiar
-- Empresa Pública Regional
+- Emprego
 - Empresa Pública
-- União Europeia
-- Medicamento
-- Apoio ao Investimento
-- Projeto de Investimento
+- Empresa Pública Regional
+- Estágio de Formação
+- Finanças Regionais
+- Financiamento
+- Fundo Regional do Emprego
 - Fundos Autónomos
 - Gabinete Governamental
+- Garantia
 - Gasóleo
-- Créditos do Estado
 - Gestão do Património
 - Gestão Orçamental
 - Gestor Público
+- Governo Regional
 - Incentivos Fiscais
 - Investimento Público
+- IRC
 - Jardim de Infância
 - Jornal Oficial
-- Publicitação
-- Finanças Regionais
-- Veículo
 - Manual Escolar
+- Medicamento
+- Médico
 - Membros do Governo
-- Veículo Elétrico
+- Mobilidade de Pessoal
 - Operações de Tesouraria
 - Orçamento
+- Orçamento Participativo da Administração Pública
+- Orçamento Participativo da Região Autónoma dos Açores
 - Orçamento Regional
-- Actividade Marítimo-Turística
 - Pessoal de Enfermagem
-- Tesouraria
-- Política Orçamental
-- IRC
+- Pessoal de Saúde
 - Pessoal Docente
+- Plano de Recuperação e Resiliência
+- Política Orçamental
+- Poluição Luminosa
 - Prestação de Serviços
 - Prestações Familiares
 - Programa
-- Qualificação Profissional
-- Emprego
-- Estágio de Formação
-- Cuidados Médicos
+- Projeto de Investimento
+- Publicitação
 - Quadro de Pessoal
+- Qualificação Profissional
 - Receita Pública
 - Receita Regional
-- Bolsa de Estudos
+- Região Autónoma
+- Regulamentação de Atos Legislativos
 - Remuneração
-- Mobilidade de Pessoal
-- Benefícios Fiscais
+- Remuneração Complementar Regional
 - Retribuição Mínima Garantida
-- Fundo Regional do Emprego
-- Setor Público
+- Secretaria Regional das Finanças Planeamento e Administração Pública
 - Segurança Social
 - Serviço Regional
 - Serviço Regional de Saúde
-- Compamid
-- Administração Regional
-- Açores
+- Setor Público
 - Subsídio
-- Abono de Família
+- Tesouraria
 - Transferência de Verbas
 - Transporte
-- Autarquia Local
+- União Europeia
+- Veículo
+- Veículo Elétrico
 - Veículo Hibrido
-- DOENÇA ONCOLÓGICA
-- COMPLEMENTO ESPECIAL PARA O DOENTE ONCOLÓGICO
-- DIREÇÃO REGIONAL DO ORÇAMENTO E TESOURO
-- Orçamento Participativo da Região Autónoma dos Açores
-- Doente Oncológico
-- Poluição Luminosa
-- Plano de Recuperação e Resiliência
-- Orçamento Participativo da Administração Pública
-- Direção Regional da Educação e Administração Educativa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
@@ -203,16 +203,196 @@ relationships:
   target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
   label: null
   source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+- type: cites
+  target: pt:dre:117612825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125865390:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:127816253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:129643712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164454929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169491468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173035672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173452292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176412614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197151:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:230110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491435:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498732:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:56305785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67123267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67507928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72970526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75430971:por
+  label: null
+  source: null
 article_structure:
-  article_count: 83
+  article_count: 75
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:57Z'
   warnings: []
   errors: []
 ---
@@ -913,7 +1093,9 @@ Retribuição
 
 5 - (Revogado.)
 
-###### Artigo 32.º — Redução da retribuição
+Artigo 32.º
+
+Redução da retribuição
 
 1 - Sempre que não se efetive o acolhimento de crianças por razões imputáveis à ama é-lhe deduzido um quantitativo correspondente a 25 % da retribuição mensal prevista no n.º 1 do artigo 31.º, por cada criança não acolhida.
 
@@ -921,7 +1103,9 @@ Retribuição
 
 3 - (Revogado.)
 
-###### Artigo 33.º — Subsídio para suplemento alimentar e despesas correntes
+Artigo 33.º
+
+Subsídio para suplemento alimentar e despesas correntes
 
 1 - Para reforço da alimentação da criança e compensação do acréscimo de despesas correntes em função do exercício da atividade de ama, é atribuído um subsídio mensal por criança, de valor a fixar por despacho do membro do Governo Regional competente em matéria de solidariedade social.
 
@@ -935,7 +1119,7 @@ Quadro Plurianual de Programação Orçamental
 
 Despesa financiada por receita global
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 ###### Artigo 67.º — Terceira alteração ao [Decreto Legislativo Regional n.º 23/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2007-629114), de 23 de outubro
 
@@ -955,17 +1139,23 @@ c) [...]
 
 d) [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 O exercício da atividade marítimo-turística depende de licença a conceder pela direção regional com competência na área de políticas marítimas, à exceção da modalidade da pesca-turismo, cuja licença é concedida pela direção regional com competência na área das pescas.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - A direção regional com competências na área de políticas marítimas deve criar e manter atualizado um registo dos operadores marítimo-turísticos, contendo os elementos decorrentes do seu licenciamento ou relacionados com o exercício da sua atividade.
 
 2 - Para efeitos do número anterior, as entidades licenciadoras devem informar a direção regional com competências na área de políticas marítimas dos licenciamentos que efetuarem no exercício das suas competências.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 Os operadores marítimo-turísticos licenciados devem fazer as seguintes comunicações:
 
@@ -981,7 +1171,9 @@ b) [...]
 
 c) Às direções regionais com competências nas áreas de políticas marítimas, no prazo que for especialmente estabelecido: prestação de informação estatística.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 Os operadores marítimo-turísticos, no exercício da atividade, são obrigados ao cumprimento das seguintes regras:
 
@@ -1005,7 +1197,9 @@ i) [...]
 
 j) [...]
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - A aplicação das coimas e da sanção acessória compete ao membro do Governo Regional com competência na área da atividade marítimo-turística.
 
@@ -1037,7 +1231,9 @@ Regulamentação
 
 2 - As direções regionais competentes em matéria de educação e emprego elaboram as orientações internas que se tornem necessárias à execução do presente diploma.
 
-###### Artigo 8.º-A — Financiamento
+Artigo 8.º-A
+
+Financiamento
 
 Os encargos decorrentes da medida prevista no presente diploma são suportados pelo orçamento do Fundo Regional do Emprego, podendo ser cofinanciados por verbas comunitárias.»
 
@@ -1133,11 +1329,11 @@ O presente decreto legislativo regional produz efeitos a partir de 1 de janeiro 
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de novembro de 2022.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 2 de janeiro de 2023.**
+Assinado em Angra do Heroísmo em 2 de janeiro de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1145,55 +1341,55 @@ MAPA I
 
 Receitas dos Serviços Integrados, por Classificação Económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA II
 
 Despesas dos Serviços Integrados, por Classificação Orgânica, Especificadas por Capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA III
 
 Despesas dos Serviços Integrados por Classificação Funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA IV
 
 Despesas dos Serviços Integrados, por Classificação Económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA V
 
 Receitas dos Serviços e Fundos Autónomos, por Classificação Orgânica, com Especificação das Receitas Globais de Cada Serviço e Fundo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA VI
 
 Receitas dos Serviços e Fundos Autónomos, por Classificação Económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA VII
 
 Despesas dos Serviços e Fundos Autónomos, por Classificação Orgânica, com Especificação das Despesas Globais de Cada Serviço e Fundo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA VIII
 
 Despesas dos Serviços e Fundos Autónomos por Classificação Funcional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA IX
 
 Despesas dos Serviços e Fundos Autónomos, por Classificação Económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA X
 
@@ -1201,16 +1397,18 @@ Despesas de Investimento da Administração Pública Regional
 
 Resumo por Departamentos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA XI
 
 Despesas Correspondentes a Programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
 
 MAPA XII
 
 Responsabilidades Contratuais Plurianuais Agrupadas por Departamento Regional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf))](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/01/00400/0002700088.pdf)
+
+116025642

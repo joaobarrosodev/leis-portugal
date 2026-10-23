@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2012/01/31/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2012-543911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 126966ab4ea49f7cb6bceb262d9b1a98982c9ad5c77f61fc8fb124dfcd013c49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85b936393d256849a42b2914c5e51cff0ead9c46d0c804c1b96e4b0f4e016eca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Equipamento Desportivo
-- Gestão de Resíduos
-- Financiamento
-- Turismo
-- Obras Particulares
+- Açores
+- Apoio ao Investimento
+- Desenvolvimento Económico
 - Desenvolvimento Regional
 - Desenvolvimento Social
+- Equipamento Desportivo
 - Equipamento Social
-- Apoio ao Investimento
-- Projeto de Investimento
-- Patente
+- Financiamento
+- Gestão de Resíduos
 - Licenciamento
-- Veículo
-- Desenvolvimento Económico
+- Obras Particulares
+- Patente
+- Projeto de Investimento
 - Sider
-- Açores
+- Turismo
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:25345896:por
@@ -115,16 +115,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/26/1991/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/26/1991/08/23/p/dre
+- type: cites
+  target: pt:dre:146559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25345896:por
+  label: Revogado, a partir de 01.07.2014, e sem prejuízo do disposto no art. 25º, o DRR 23/2007//A, de 29-out, na redação
+    do presente diploma, pelo(a) Decreto Legislativo Regional n.º 12/2014/A - Diário da República n.º 130/2014, Série I de
+    2014-07-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2014-25345896
+  date: '2014-07-09'
 article_structure:
-  article_count: 17
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:04Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +190,9 @@ Os artigos 2.º, 3.º, 4.º, 6.º e 9.º, e os anexos i e ii e o n.º 2.º do an
 
 3 - ...
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -185,7 +222,9 @@ v) (euro) 250 000 para os projetos a que se referem as alíneas f), g) e j) do n
 
 5 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - Constituem despesas elegíveis no âmbito do Desenvolvimento Estratégico as seguintes:
 
@@ -259,7 +298,9 @@ a) Aquisição de ativos que tenham sido objeto de comparticipação através de
 
 b) Embarcações ou outros meios de transporte usados, salvo em casos devidamente fundamentados e cujo interesse seja reconhecido por despacho do membro do Governo Regional com competência em matéria de economia.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -281,7 +322,9 @@ g) [Anterior alínea f).]
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - Compete à direção regional com competência em matéria de energia emitir, no prazo de 15 dias úteis, o parecer a que se refere a alínea c) do n.º 1 do artigo 3.º e indicar a pontuação a atribuir aos critérios C e D a que se refere o anexo ii do presente regulamento, relativamente aos projetos mencionados na alínea m) do n.º 1 do artigo 29.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, e sobre os investimentos na área de eficiência energética, a que se refere a subalínea c4) da alínea c) do n.º 1 do artigo 4.º
 
@@ -301,7 +344,9 @@ g) [Anterior alínea f).]
 
 9 - ...
 
-## ANEXO I — Situação financeira, cobertura do projeto por capitais próprios e valor residual
+ANEXO I
+
+Situação financeira, cobertura do projeto por capitais próprios e valor residual
 
 1 - ...
 
@@ -323,7 +368,9 @@ b) Prazo de afetação do projeto de 12 anos:
 
 Cash-flow do projeto ao 12.º ano/Taxa de atualização
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 1 - A pontuação dos projetos (P) é determinada pelas seguintes fórmulas:
 
@@ -361,7 +408,9 @@ c) Médio - 50 pontos;
 
 d) Fraco - 0 pontos.
 
-## ANEXO III — [...]
+ANEXO III
+
+[...]
 
 1.º
 
@@ -403,11 +452,11 @@ O presente diploma produz efeitos à data da entrada em vigor do [Decreto Legisl
 
 Aprovado em conselho do Governo Regional, na Horta, em 26 de novembro de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 18 de janeiro de 2012.**
+Assinado em Angra do Heroísmo em 18 de janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -717,11 +766,11 @@ A2 - autonomia financeira da empresa.
 
 a) O subcritério A1 resulta do valor assumido pelo indicador meios libertos líquidos/vendas, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf))](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf)
 
 b) O subcritério A2 resulta do valor da autonomia financeira, assumida pelo indicador capital próprio/ativo total líquido, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf))](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf)
 
 c) Para o cálculo dos subcritérios referidos nas alíneas a) e b) são utilizados o balanço e a demonstração de resultados referentes ao final do exercício anterior ao da data de apresentação da candidatura ou, no caso de não se encontrar cumprida a condição a que se refere a alínea d) do n.º 1 do artigo 3.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, o balanço e a demonstração de resultados intercalares reportados a data posterior mas anterior à data de apresentação da candidatura, desde que legalmente certificado por um técnico oficial de contas ou um revisor oficial de contas;
 
@@ -729,7 +778,7 @@ d) No encerramento do exercício a que se reportam as contas intercalares, os in
 
 3 - A pontuação do critério B - produtividade do projeto é determinada pelo indicador VAB/número de postos de trabalho, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf))](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf)
 
 O número de postos de trabalho deve ser aferido no ano cruzeiro do projeto.
 
@@ -811,7 +860,7 @@ Critérios para atribuição do prémio
 
 1 - Para efeitos da avaliação do desempenho mencionado no n.º 5 do artigo 32.º do [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, é calculado o indicador de desempenho do projeto (Idp) com base nos valores previstos na candidatura, de acordo com a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf))](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2012/01/02200/0054800557.pdf)
 
 2 - A produtividade económica do projeto P é determinada através da seguinte fórmula:
 

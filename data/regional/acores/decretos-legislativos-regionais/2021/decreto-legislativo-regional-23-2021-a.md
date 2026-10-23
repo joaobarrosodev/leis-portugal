@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/14100/0005000056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2021/07/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2021-168043800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4f1bcbe66acf376f531dae89588e7ac9604bfcb940a234bcdd3c8c017c0a9d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b30f5586d981ee7e1d6f28abc2f93d402e107c024e498fdd19d3db3960949820
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Assembleia Legislativa Regional
 - Código do Trabalho
 - Política de Emprego
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/26/1994/02/01/p/dre
@@ -110,16 +110,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+- type: cites
+  target: pt:dre:171917:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:366610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496680:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653129:por
+  label: null
+  source: null
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:46Z'
   warnings: []
   errors: []
 ---
@@ -192,11 +260,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de junho de 2021.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 14 de julho de 2021.**
+Assinado em Angra do Heroísmo em 14 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -391,3 +459,5 @@ g) [Decreto Legislativo Regional n.º 39/2003/A](https://diariodarepublica.pt/dr
 h) Portaria n.º 89/2003, de 20 de novembro (relatório de segurança, higiene e saúde no trabalho);
 
 i) Despacho Normativo n.º 189/84, de 23 de outubro (equiparação à situação de desemprego involuntário de determinadas suspensões do contrato de trabalho, sem garantia salarial).
+
+114410104

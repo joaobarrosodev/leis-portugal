@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/757/2007/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/757-2007-635824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fea8f853f603c919e275ad5c80206c778e549031078fede264bec8ceefdda44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b962129d3a5e26046ee85c10af67ea06cdb065b960855c88fdf4a4879fb43fe0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ensino Superior Particular e Cooperativo
+- Estabelecimento de Ensino
 - Licenciatura
 - Numerus Clausus
-- Estabelecimento de Ensino
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/353/1999/09/03/p/dre
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1046/2006/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1046/2006/09/20/p/dre
+- type: cites
+  target: pt:dre:541672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:45Z'
   warnings: []
   errors: []
 ---
@@ -124,10 +132,10 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 24 de Maio de 2007.**
+O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 24 de Maio de 2007.
 
 ## ANEXO VI — Curso de pós-licenciatura de especialização em Enfermagem de Saúde Mental e Psiquiatria
 
 Vagas para o ano lectivo de 2006-2007
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/12500/41794180.pdf))](https://files.diariodarepublica.pt/1s/2007/07/12500/41794180.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/12500/41794180.pdf)

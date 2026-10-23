@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/1999/07/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1999-375456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a620ae9ce350b1b4d55c0f36552e16f8f2ea88df8fc2fd86dd86aa05abdcdc7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77afb9c5cc689ce4daf9e025c576402f7586ac6414c18bbbb573f3b3b7b3c1d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Apoio Administrativo
+- Autarquia Local
 - Conselho de ILHA
 - Definição de Competências
-- Açores
 - Subsídio de Transporte
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:66970765:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66970765:por
+  label: Alterados os art.s 2.º, 3.º, 5.º, 6.º, 7.º, 9.º, 16.º, 19.º e 24.º e aditados os art.s 7.º-A e 7.º-B pelo(a) Decreto
+    Legislativo Regional n.º 11/2015/A - Diário da República n.º 72/2015, Série I de 2015-04-14 que o republica em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2015-66970765
+  date: '2015-04-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/61/1998/08/27/p/dre
+- type: cites
+  target: pt:dre:448681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498726:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:09Z'
   warnings: []
   errors: []
 ---
@@ -378,10 +392,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 19 de Maio de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.**
+O Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.
 
-**Assinado em Angra do Heroísmo em 16 de Junho de 1999.**
+Assinado em Angra do Heroísmo em 16 de Junho de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

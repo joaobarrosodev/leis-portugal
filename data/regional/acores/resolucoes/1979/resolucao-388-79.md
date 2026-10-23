@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 300/1979, 2º Suplemento, Série I de 1979-12-31
   number: '300'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3478-(9) a 3478-(52)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf
 entry_into_force_dates: []
@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/388-1979-231169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5331c999dc5d876035942d36707d83f8ac552beed72898750f24ed9b23c7fc40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e15994cd803b570913e8b46af1b1e852d2a654f71b9955d684cc614eb2bb9b53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+- Rectificação de Numero de Diploma
+relationships:
+- type: cites
+  target: pt:dre:138293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:472129:por
+  label: Rectificada pela DECL.DD6987.25.07.1980.PCM, DR.IS [170] de 25.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-472129
+  date: '1980-07-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:29Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +110,13 @@ Presidência do Governo Regional, 20 de Setembro de 1979. - O Presidente do Gove
 
 ## ANEXO I — Resumo da receita por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 ## ANEXO II — Resumo da despesa por Secretarias Regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
 PROPOSTA DE ORÇAMENTO PARA 1980
 
@@ -150,7 +170,7 @@ As necessidades de financiamento para 1980 elevar-se-ão a 3124000 contos, o que
 
 Síntese do Orçamento da Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 II
 
@@ -188,13 +208,13 @@ Receitas cobradas
 
 (De Janeiro a Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 Execução orçamental
 
 (De Janeiro a Junho)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 III
 
@@ -232,7 +252,7 @@ Uma referência ainda para a diminuição previsível do produto da cobrança da
 
 Receitas orçamentais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 IV
 
@@ -270,15 +290,15 @@ Por fim, uma referência às contas de ordem, que incluem 120000 contos destinad
 
 Despesas correntes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 Despesa de capital
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 Despesa total
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 V
 
@@ -298,11 +318,11 @@ Secretaria Regional das Finanças, 15 de Setembro de 1979. - O Secretário Regio
 
 Aprovada em Plenário do Governo Regional de 20 de Setembro de 1979.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
 Aprovada pela Assembleia Regional dos Açores, na Horta, em 6 de Novembro de 1979.
 
-**O Presidente da Assembleia Regional, Álvaro Monjardino.**
+O Presidente da Assembleia Regional, Álvaro Monjardino.
 
 PLANO PARA 1980
 
@@ -740,7 +760,7 @@ Cobrir a Região com uma rede de edifícios escolares dotados de um mínimo de c
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 2
 
@@ -754,7 +774,7 @@ Eliminar as carências existentes na Região em instalações para os ensinos pr
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 3
 
@@ -780,7 +800,7 @@ Evolução no quadro do PMP para 1977-1980
 
 Este programa resulta da combinação de dois anteriormente inscritos no Plano de 1979.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 5
 
@@ -796,7 +816,7 @@ Apoiar o sistema escolar (primário, preparatório e secundário).
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 2 - Cultura
 
@@ -832,7 +852,7 @@ Reintegração e beneficiação de imóveis públicos ou particulares considerad
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 Saúde, segurança social e emigração
 
@@ -904,7 +924,7 @@ Aumento da capacidade para a formação de pessoal de enfermagem na Região.
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 8
 
@@ -978,7 +998,7 @@ Atender à situação dos agregados familiares, designadamente daqueles em que a
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 11
 
@@ -992,7 +1012,7 @@ Garantir o apoio a jovens, como forma de facilitar a sua aprendizagem, melhor oc
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 12
 
@@ -1008,7 +1028,7 @@ Facultar a possibilidade de ocupação dos tempos livres, oferecendo ao idoso um
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 13
 
@@ -1032,7 +1052,7 @@ Cobertura de maiores áreas com um mesmo equipamento colectivo.
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 15
 
@@ -1058,7 +1078,7 @@ Alargar a qualidade e quantidade dos serviços prestados com a conclusão e cons
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 5 - Emprego
 
@@ -1120,7 +1140,7 @@ Tratando-se de um programa de médio prazo, a verba de 32000 contos proposta par
 
 Evolução no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 6 - Habitação, urbanismo e ambiente
 
@@ -1220,7 +1240,7 @@ Em 1979 estão orçamentados 250000 contos, dos quais 190000 se destinam a trans
 
 Quanto a 1980, a proposta da Secretaria do Equipamento Social atinge os 320000 contos A evolução no PMP para 1977-1980 do programa é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 19
 
@@ -1236,7 +1256,7 @@ Defesa da saúde pública.
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 20
 
@@ -1254,7 +1274,7 @@ O programa foi iniciado em 1977 e vem sendo executado até 1979 com a denominaç
 
 Para 1980, e atendendo à aplicação da Lei das Finanças Locais, chamar-se-á de «Equipamento Urbano», com a verba de 25000 contos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 21
 
@@ -1266,7 +1286,7 @@ Apetrechamento dos serviços com equipamento próprio para a execução das tare
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 22
 
@@ -1280,7 +1300,7 @@ Melhoria e ampliação das instalações.
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 7 - Agricultura, silvicultura e pecuária
 
@@ -1336,7 +1356,7 @@ Incremento das culturas cerealíferas como medida tendente a reduzir as importa�
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 24
 
@@ -1352,7 +1372,7 @@ Incrementar a produção de primores quer hortícolas quer florícolas.
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 25
 
@@ -1366,7 +1386,7 @@ Aumento da produção agrícola.
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 26
 
@@ -1380,7 +1400,7 @@ Dotar as explorações agro-pecuárias de água necessária à exploração.
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 27
 
@@ -1394,7 +1414,7 @@ Criação de infra-estruturas para oficinas de reparação e manutenção de via
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 28
 
@@ -1408,7 +1428,7 @@ Melhoria da qualidade dos produtos visando a conquista de mercados externos.
 
 Evolução do programa no quadro da PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 29
 
@@ -1422,7 +1442,7 @@ Dotar as explorações com água necessária ao desenvolvimento agro-pecuário.
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 30
 
@@ -1434,7 +1454,7 @@ Promover e fomentar o ordenamento, protecção e uso dos recursos florestais, ci
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 31
 
@@ -1450,7 +1470,7 @@ Pugnar para que as populações rurais evoluam, no que diz respeito ao seu grau 
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 32
 
@@ -1510,7 +1530,7 @@ Desenvolvimento de um programa que facilite aos pescadores estágios de actualiz
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 35
 
@@ -1524,7 +1544,7 @@ Melhoria de funcionamento dos serviços.
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 36
 
@@ -1552,7 +1572,7 @@ Formação de técnicos, possibilitando a actualização dos mesmos e permitindo
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 38
 
@@ -1636,7 +1656,7 @@ Disciplinar e incentivar a instalação dos estabelecimentos industriais segundo
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 10 - Energia
 
@@ -1694,7 +1714,7 @@ Este programa permite a continuação de acções de anos anteriores e inscreve 
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 42
 
@@ -1714,7 +1734,7 @@ Este programa permite a continuação de acções dos anos anteriores e inscreve
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 43
 
@@ -1734,7 +1754,7 @@ Este programa permite a continuação de acções dos anos anteriores e inscreve
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 44
 
@@ -1750,7 +1770,7 @@ Este programa permite a continuação da atribuição de subsídios e inscreve p
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 45
 
@@ -1768,7 +1788,7 @@ Este programa permite o prosseguimento das várias acções tomadas em anos ante
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 11 - Turismo
 
@@ -1822,7 +1842,7 @@ Assim, os programas propostos pela Secretaria Regional dos Transportes e Turismo
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 47
 
@@ -1838,7 +1858,7 @@ Este programa insere-se num conjunto de acções que a Secretaria Regional dos T
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 48
 
@@ -1946,7 +1966,7 @@ Este programa permite o prosseguimento de diversas acções tomadas em anos ante
 
 Evolução do programa no quadro do FMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 50
 
@@ -1960,7 +1980,7 @@ O programa tem existido em todos os planos do Governo Regional por se mostrar ne
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 51
 
@@ -1974,7 +1994,7 @@ Este programa integra-se na sequência de várias acções levadas a cabo neste 
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 52
 
@@ -1990,7 +2010,7 @@ Encontra-se proposta para o Plano para 1980 a verba de 492000 contos, dos quais 
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 53
 
@@ -2004,7 +2024,7 @@ Este programa representa o evoluir de várias acções levadas a cabo neste sect
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 54
 
@@ -2018,7 +2038,7 @@ Este programa integra-se no esforço que a Região tem vindo a desenvolver e que
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 55
 
@@ -2032,7 +2052,7 @@ Este programa enquadra-se no esforço que a Região vem desenvolvendo no sentido
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 56
 
@@ -2118,7 +2138,7 @@ Este programa teve início em 1979 prevendo-se a continuação das acções já 
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 59
 
@@ -2136,7 +2156,7 @@ As acções deste programa foram iniciadas em 1978 com o investimento de cerca d
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 60
 
@@ -2156,7 +2176,7 @@ O programa da rede de abate já vem sendo executado desde 1978 com o início dos
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 61
 
@@ -2176,7 +2196,7 @@ Para 1980 estão propostos 78200 contos, dos quais 68% são provenientes de um e
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 14 - Investigação científica e tecnológica
 
@@ -2216,7 +2236,7 @@ Aproveitamento de pedra e areia no fabrico de vidros, tendo em vista a eliminaç
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 63
 
@@ -2230,7 +2250,7 @@ Produção de electricidade aproveitando a energia solar.
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 64
 
@@ -2248,7 +2268,7 @@ Obter estimativas das principais variáveis macroeconómicas indispensáveis par
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 15 - Informação científica e técnica
 
@@ -2304,7 +2324,7 @@ Dotar os serviços da Administração Regional com instalações minimamente ape
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 67
 
@@ -2320,7 +2340,7 @@ Actividades de divulgação.
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 PROGRAMA N.º 68
 
@@ -2334,7 +2354,7 @@ Dotar as direcções e repartições de Finanças, assim como a Secção Regiona
 
 Evolução do programa no quadro do PMP para 1977-1980
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 Quantificação dos investimentos
 
@@ -2358,16 +2378,16 @@ Plano para 1980
 
 Programas por sectores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 Programas por entidades executoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 Quadro-resumo (sectores)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf))](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/30002/00090052.pdf)
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 6 de Novembro de 1979.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.

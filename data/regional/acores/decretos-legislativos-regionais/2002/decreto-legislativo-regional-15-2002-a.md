@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/15/2002/04/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2002-364331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ac7ab652af49cea0f3745217e18eac07914368553e826139da787be7a2a7087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 600eed3eb615119375a65cca0edd1c825355dfeb1102f833e4af85776f03a4d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Proteção Civil
-- Srpcba
-- Integração de Trabalhadores
-- Bombeiro
-- Orgânica
-- Quadro de Pessoal
 - Açores
+- Bombeiro
+- Integração de Trabalhadores
+- Orgânica
+- Proteção Civil
+- Quadro de Pessoal
+- Reestruturação de Serviços
+- Srpcba
 relationships:
 - type: amended_by
   target: pt:dre:519267:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546002:por
+  label: "Alterados os arts. 3º, 6º, 7º e 15º do DLR 7/99/A de 19-Mar, na redacção do presente diploma, pelo DLR.39/2006/A.12.10.2006.AL-RAA,\
+    \ DR.IS [210] de 31.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/39-2006-546002
+  date: '2006-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/236/1999/06/25/p/dre
   label: null
@@ -99,16 +105,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
+- type: cites
+  target: pt:dre:145612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419443:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:241605:por
+  label: "Rectificado pela DECL-RECT.19-F/2002.2002.04.29.PCM, DR.IS-A [100]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-f-2002-241605
+  date: '2002-04-30'
 article_structure:
-  article_count: 34
+  article_count: 27
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:34Z'
   warnings: []
   errors: []
 ---
@@ -137,11 +188,15 @@ Os artigos 1.º, 2.º, 3.º, 4.º, 6.º, 7.º, 15.º e 17.º do [Decreto Legisla
 
 2 - O SRPCBA depende do membro do Governo Regional com competência em matéria de protecção civil e bombeiros.
 
-###### Artigo 2.º — Atribuições
+Artigo 2.º
+
+Atribuições
 
 São atribuições do SRPCBA orientar, coordenar e fiscalizar, a nível da Região Autónoma dos Açores, as actividades de protecção civil e dos corpos de bombeiros, bem como assegurar o funcionamento de um sistema de transporte terrestre de emergência médica, de forma a garantir, aos sinistrados ou vítimas de doença súbita, a pronta e correcta prestação de cuidados de saúde.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Na área da protecção civil, são atribuições do SRPCBA:
 
@@ -211,13 +266,17 @@ e) Dar parecer vinculativo nos processos de autorização para o exercício da a
 
 f) ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - O SRPCBA poderá desconcentrar-se através de delegados de ilha, nos termos a regulamentar pelo diploma que aprovar a respectiva orgânica.
 
 2 - Quaisquer funções de coordenação na área operacional dos bombeiros podem ser desempenhadas pelos delegados, desde que estes exerçam ou tenham exercido funções de comando ou coordenação dos corpos de bombeiros.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -253,7 +312,9 @@ n) Superintender na gestão do pessoal dos corpos de bombeiros e aprovar os resp
 
 3 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -275,7 +336,9 @@ d) Dois vogais, a nomear pelo secretário regional competente, sob proposta do p
 
 6 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -287,7 +350,9 @@ b) ...
 
 c) ...
 
-###### Artigo 17.º — Colaboração de militares e elementos das forças de segurança
+Artigo 17.º
+
+Colaboração de militares e elementos das forças de segurança
 
 O SRPCBA pode obter a colaboração de oficiais das Forças Armadas e de segurança, na reserva e reforma, com vista ao desempenho de funções específicas adequadas à respectiva formação, nos termos das leis em vigor, nomeadamente o disposto no artigo 79.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 215/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1987-421775), de 29 de Maio, no artigo 121.º do Estatuto dos Militares das Forças Armadas aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000), de 25 de Junho, com as alterações que lhe foram dadas pela [Lei n.º 25/2000](https://diariodarepublica.pt/dr/detalhe/lei/25-2000-324143), de 23 de Agosto, e no artigo 16.º do [Decreto-Lei n.º 328/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1999-434415), de 18 de Agosto.»
 
@@ -301,13 +366,13 @@ O [Decreto Legislativo Regional n.º 7/99/A](https://diariodarepublica.pt/dr/det
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 21 de Fevereiro de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 18 de Março de 2002.**
+Assinado em Angra do Heroísmo em 18 de Março de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — ([Decreto Legislativo Regional n.º 7/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-1999-145612), de 19 de Março)
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/02/02900/0000500010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/6/2020/02/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-02-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9f07682a633e6b3bd2ac59d4b2b283ec07e709dea7d6797ab9f87c212e3a7b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3075188a2cf6a2a604d16253e303ada30717698f600071d30192421e9f9993bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autonomia Patrimonial
-- Financiamento
-- Fiscal Único
-- Investigação Científica e Tecnológica
-- Gestão Financeira
-- Governo Regional
+- Cobrança de Dívidas
+- Conselho Diretivo
 - Criação de Serviços
 - Definição de Competências
-- Mudança Tecnológica
+- Financiamento
+- Fiscal Único
 - Fundo Regional da Ciência e Tecnologia
 - Gestão do Património
-- Conselho Diretivo
+- Gestão Financeira
+- Governo Regional
+- Investigação Científica e Tecnológica
+- Mudança Tecnológica
 - Orgânica
-- Tecnologia
 - Ponta Delgada
-- Cobrança de Dívidas
-- Açores
+- Tecnologia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/2007/06/05/a/dre
@@ -98,16 +98,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/5/2001/03/21/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/5/2001/03/21/a/dre
+- type: cites
+  target: pt:dre:287823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353087:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
+  article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:40Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +148,9 @@ Objeto
 
 É criado, na dependência do departamento do Governo Regional com competência em matéria de ciência e tecnologia, o Fundo Regional da Ciência e Tecnologia, abreviadamente designado por FRCT.
 
-###### Artigo 3.º — Atribuições
+Artigo 3.º
+
+Atribuições
 
 1 - São atribuições do FRCT:
 
@@ -154,7 +168,9 @@ f) [...].
 
 2 - As atribuições do FRCT são prosseguidas em articulação e colaboração com os demais departamentos do Governo Regional nas respetivas áreas de atuação, bem como com outras entidades nacionais e internacionais, públicas ou privadas, Organizações Não Governamentais, com interesses comuns ou complementares aos do FRCT.
 
-###### Artigo 4.º — Órgãos
+Artigo 4.º
+
+Órgãos
 
 Para a prossecução dos seus objetivos o FRCT dispõe dos seguintes órgãos:
 
@@ -164,11 +180,15 @@ b) Fiscal único.
 
 c) (Revogada.)
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 No âmbito da gestão financeira e patrimonial, o FRCT rege-se pelo disposto no presente diploma e pelas regras gerais estabelecidas na legislação regional e nacional aplicável aos organismos dotados de autonomia administrativa e financeira, designadamente o [Decreto Legislativo Regional n.º 13/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2007-638174), de 5 de junho, alterado e republicado pelo [Decreto Legislativo Regional n.º 13/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), de 11 de maio.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...].
 
@@ -176,11 +196,15 @@ No âmbito da gestão financeira e patrimonial, o FRCT rege-se pelo disposto no 
 
 3 - A cobrança coerciva de dívidas ao FRCT, seja qual for a sua origem, natureza ou título, far-se-á pelo processo das execuções fiscais, constituindo título executivo a certidão de dívida passada pelo conselho diretivo e autenticada com o selo branco em uso nesses serviços.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Os valores depositados à ordem do FRCT são movimentados mediante a assinatura do presidente e de um dos vogais do conselho diretivo.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 As competências e modo de funcionamento interno dos órgãos que compõem o FRCT, bem como os serviços e o quadro de pessoal de direção e dirigente que o integram, constam de decreto regulamentar regional.»
 
@@ -210,11 +234,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de janeiro de 2020.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 4 de fevereiro de 2020.**
+Assinado em Angra do Heroísmo em 4 de fevereiro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -335,3 +359,5 @@ As competências e modo de funcionamento interno dos órgãos que compõem o FRC
 ###### Artigo 14.º — Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+112985568

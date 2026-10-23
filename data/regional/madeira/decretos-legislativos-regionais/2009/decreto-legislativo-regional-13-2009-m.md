@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/05/10300/0333903340.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/13/2009/05/28/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2009-494219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 484d70bb76ec26cd5b2826e8edfad8b81a1080180c4f0018c899b67a4b03de84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b938cb7277d74aed11ae105717107dc1820cd365deef958674426bb308a4d6bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Livro de Reclamações
+- Arrendamento Urbano não Habitacional
 - Autoridade Sanitária
+- Certificado de Qualidade
+- Comércio
 - Comissão Regional de Aplicação de Coimas em Matéria Económica
 - Contra-ordenação
-- Arrendamento Urbano não Habitacional
 - Direcção Regional do Comércio Indústria e Energia
 - Estabelecimento de Bebidas
 - Estabelecimento de Restauração
 - Fiscalização
 - Inspecção Regional das Actividades Económicas
-- Certificado de Qualidade
+- Livro de Reclamações
 - Madeira.região Autónoma
 - Regime de Instalação
 - Regime Jurídico
 - Segurança das Instalações
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:498725:por
@@ -104,16 +104,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639279:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498725:por
+  label: "Revogado pelo DLR.27/2013/M.29.07.2013.AL-RAM, DR.IS [144] de 29.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2013-498725
+  date: '2013-07-29'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:08Z'
   warnings: []
   errors: []
 ---
@@ -154,10 +175,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de Abril de 2009.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 18 de Maio de 2009.**
+Assinado em 18 de Maio de 2009.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

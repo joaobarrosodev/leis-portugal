@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1986-218548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 88cfa80d6af9b5c512fc5136c2881edf979c5fa19aaa2b88c981ad2ded16609b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01c3f690cbf894e28e3a848d6654763f68a8fe91507a412fb9b781c558a5d4e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Desporto
+- Madeira.região Autónoma
+- Requisição de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:03Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +99,7 @@ Assim:
 
 A Assembleia Regional da Madeira decreta, nos termos da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1 - Os trabalhadores a qualquer título vinculados à Região Autónoma da Madeira, às autarquias locais ou outras pessoas colectivas de direito público podem ser requisitados pelo Secretário Regional da Educação:
+Artigo 1.º - 1 - Os trabalhadores a qualquer título vinculados à Região Autónoma da Madeira, às autarquias locais ou outras pessoas colectivas de direito público podem ser requisitados pelo Secretário Regional da Educação:
 
 a) Por períodos não superiores a quinze dias por ano, seguidos ou interpolados, a fim de participarem como alunos ou prelectores em acções de formação, campeonatos nacionais ou outros de interesse regional, como atletas, dirigentes, quadros técnicos ou árbitros;
 
@@ -100,18 +107,18 @@ b) Em casos de manifesto interesse e prestígio da Região, assim declarados pel
 
 2 - Os trabalhadores na situação prevista no número anterior consideram-se, para todos os efeitos, como exercendo efectivamente as funções que desempenham.
 
-###### Art. 2.º - 1 - Os trabalhadores por conta de outrem, das empresas públicas ou do sector privado poderão ser requisitados nos termos do n.º 1 do artigo 1.º, competindo o pagamento das remunerações a que tenham direito à Direcção Regional dos Desportos.
+Art. 2.º - 1 - Os trabalhadores por conta de outrem, das empresas públicas ou do sector privado poderão ser requisitados nos termos do n.º 1 do artigo 1.º, competindo o pagamento das remunerações a que tenham direito à Direcção Regional dos Desportos.
 
 2 - Da requisição a que se refere este artigo não poderá resultar qualquer prejuízo para o trabalhador requisitado.
 
-###### Art. 3.º A requisição depende da anuência da entidade empregadora e do trabalhador, podendo cessar a todo o tempo, designadamente em resultado do incumprimento por parte do trabalhador do regime a que esteja sujeita a participação nas acções de formação ou em quaisquer provas desportivas.
+Art. 3.º A requisição depende da anuência da entidade empregadora e do trabalhador, podendo cessar a todo o tempo, designadamente em resultado do incumprimento por parte do trabalhador do regime a que esteja sujeita a participação nas acções de formação ou em quaisquer provas desportivas.
 
 Aprovado em sessão plenária de 6 de Junho de 1986.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 30 de Junho de 1986.**
+Assinado em 30 de Junho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

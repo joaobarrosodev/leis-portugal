@@ -47,40 +47,128 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1990-575156
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e35911e3ff8274890a970e67be78a435953c47c5f888fd4023ffb0fbd33c2375
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: adaae3e1742cc410de6007a45a48ffbba9428f108ff529ecc5aaaaca1cdbaf05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Concurso
+- Contratação de Docentes
+- Criação de Lugares
+- Disciplina de Educação Moral e Religiosa Católica
+- Ensino Básico
+- Habilitações Literárias
+- Igreja Católica
+- Madeira.região Autónoma
+- Pessoal Docente
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:74953321:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:158035:por
+  label: "Alterado o art. 4º pelo DLR.11/99/M.1999.02.26.ALR-RAM, DR.IS-A [59] de 11/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-1999-158035
+  date: '1999-02-26'
+- type: amended_by
+  target: pt:dre:669864:por
+  label: "Mantido em vigor com a redacção dada pelo DLR 11/99/M de 11-Mai pelo DLR.17/2003/M.2003.06.30.ALR-RAM DR.IS-A [167],\
+    \ devendo entender-se que todas as remissões feitas no presente diploma para o DLR 4/88/M de 18-Mai, o passam a ser para\
+    \ as disposições correspondentes do referido DLR 17/2003/M de 22-Jul\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2003-669864
+  date: '2003-06-30'
+- type: amended_by
+  target: pt:dre:468639:por
+  label: "Mantido em vigor, com a redacção constante do DLR 11/99/M de 11-Mar, pelo DLR.15-A/2006/M.10.04.2006.AL-RAM, DR.IS-A\
+    \ [80-Supl] de 24.04.2006, devendo entender-se que as remissões feitas no presente diploma para o DLR 4/88/M de 18-Mai,\
+    \ passam a sê-lo para as disposições correspondentes do referido DLR 15-A/2006/M\0M\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2006-468639
+  date: '2006-04-10'
+- type: amended_by
+  target: pt:dre:497841:por
+  label: "Mantido em vigor o presente diploma, com as alterações constantes do DLR 11/99/M de 11-mar, pelo DLR.25/2013/M.17.07.2013.AL-RAM,\
+    \ DR.IS [136] de 17.07.2013, devendo entender-se que todas as remissões feitas no presente diploma para o DLR 4/88/M,\
+    \ de 18-mai, passam a sê-lo para as disposições correspondentes do DLR 25/2013/M.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-2013-497841
+  date: '2013-07-17'
+- type: cites
+  target: pt:dre:150168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358360:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660172:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74953321:por
+  label: Revogado, a partir de 16.07.2016, o presente diploma, alterado pelo DLR 11/99/M de 11-mar, pelo(a) Decreto Legislativo
+    Regional n.º 28/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15, sem prejuízo do disposto no art. 55.º
+    deste último diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2016-74953321
+  date: '2016-07-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:27Z'
   warnings: []
   errors: []
 ---
@@ -101,19 +189,19 @@ Considerando a necessidade de se proceder à adaptação do [Decreto-Lei n.º 40
 
 A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea d) do n.º 1 do artigo 229.º da Constituição e na alínea c) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-###### Artigo 1.º - 1 - Nas escolas dos 2.º e 3.º ciclos do ensino básico e nas escolas do ensino secundário da Região Autónoma da Madeira são criados os lugares do quadro para professores da disciplina de Educação Moral e Religiosa Católica constantes do mapa anexo ao presente diploma, do qual faz parte integrante.
+Artigo 1.º - 1 - Nas escolas dos 2.º e 3.º ciclos do ensino básico e nas escolas do ensino secundário da Região Autónoma da Madeira são criados os lugares do quadro para professores da disciplina de Educação Moral e Religiosa Católica constantes do mapa anexo ao presente diploma, do qual faz parte integrante.
 
 2 - Os lugares do quadro previstos no número anterior são anualmente determinados, de acordo com as regras estabelecidas no artigo 2.º do [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio.
 
 3 - Os lugares referidos no n.º 1 serão preenchidos através de concurso a que se refere o presente diploma.
 
-###### Art. 2.º As habilitações próprias e suficientes para a leccionação da disciplina de Educação Moral e Religiosa Católica são as constantes do [Despacho Normativo n.º 6-A/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-a-1990-150168), de 31 de Janeiro, ou das alterações que lhe forem subsequentes.
+Art. 2.º As habilitações próprias e suficientes para a leccionação da disciplina de Educação Moral e Religiosa Católica são as constantes do [Despacho Normativo n.º 6-A/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/6-a-1990-150168), de 31 de Janeiro, ou das alterações que lhe forem subsequentes.
 
-###### Art. 3.º - 1 - O concurso para preenchimento dos lugares previstos neste diploma é o concurso para a primeira parte a que se refere o n.º 5 do artigo 2.º do Decreto legislativo Regional n.º 4/88/M, de 18 de Maio.
+Art. 3.º - 1 - O concurso para preenchimento dos lugares previstos neste diploma é o concurso para a primeira parte a que se refere o n.º 5 do artigo 2.º do Decreto legislativo Regional n.º 4/88/M, de 18 de Maio.
 
 2 - Sem prejuízo do disposto no número anterior, o concurso para os lugares do quadro de Educação Moral e Religiosa Católica possuirá no respectivo aviso de abertura indicações específicas determinadas pelo disposto no presente diploma.
 
-###### Art. 4.º - 1 - Podem ser opositores ao concurso referido no número anterior os candidatos que, cumulativamente, reunirem as seguintes condições:
+Art. 4.º - 1 - Podem ser opositores ao concurso referido no número anterior os candidatos que, cumulativamente, reunirem as seguintes condições:
 
 a) Serem portadores de habilitação própria para a disciplina de Educação Moral e Religiosa Católica à data da abertura do concurso;
 
@@ -135,13 +223,13 @@ d) Serem portadores de uma habilitação pedagógica complementar para o exercí
 
 7 - A formação inicial dos professores da disciplina de Educação Moral e Religiosa Católica que não reúnem o requisito previsto na alínea b) do n.º 1 será a que for definida a nível nacional, salvaguardando-se, no entanto, as especificidades próprias da Região, mediante diploma regional.
 
-###### Art. 5.º Os candidatos referidos no artigo anterior serão ordenados pela seguinte forma:
+Art. 5.º Os candidatos referidos no artigo anterior serão ordenados pela seguinte forma:
 
 a) Primeira prioridade - os candidatos que já sejam docentes do quadro para a disciplina de Educação Moral e Religiosa Católica;
 
 b) Segunda prioridade - os candidatos que, reunindo as demais condições legais, ainda não sejam docentes do quadro, nos termos do presente diploma.
 
-###### Art. 6.º - 1 - Dentro de cada uma das prioridades definidas no artigo anterior, os opositores ao concurso são ordenados de acordo com os escalões das habilitações próprias fixadas nos termos estabelecidos no artigo 2.º do presente diploma.
+Art. 6.º - 1 - Dentro de cada uma das prioridades definidas no artigo anterior, os opositores ao concurso são ordenados de acordo com os escalões das habilitações próprias fixadas nos termos estabelecidos no artigo 2.º do presente diploma.
 
 2 - Dentro de cada um dos escalões referidos no número anterior, os candidatos são seriados por ordem decrescente da sua graduação profissional ou graduação na docência, conforme se trate, respectivamente, de candidatos incluídos na alínea a) ou na alínea b) do artigo anterior.
 
@@ -151,7 +239,7 @@ b) Segunda prioridade - os candidatos que, reunindo as demais condições legais
 
 5 - Em caso de igualdade na graduação profissional ou na graduação na docência, o desempate far-se-á aplicando-se, respectivamente, as regras contidas sobre a matéria nos artigos 7.º e 8.º do [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio.
 
-###### Art. 7.º - 1 - A apresentação ao concurso far-se-á mediante o preenchimento de um boletim normalizado, do qual constarão obrigatoriamente:
+Art. 7.º - 1 - A apresentação ao concurso far-se-á mediante o preenchimento de um boletim normalizado, do qual constarão obrigatoriamente:
 
 a) Elementos legais de identificação;
 
@@ -167,33 +255,33 @@ d) Código dos estabelecimentos de ensino e das zonas a que o candidato concorre
 
 4 - O boletim de concurso referido neste artigo será entregue no conselho directivo da escola onde o docente presta serviço e será remetido à Direcção Regional de Finanças, Administração e Pessoal, depois de confirmado pelo mencionado conselho directivo.
 
-###### Art. 8.º Os candidatos a que se refere o presente diploma indicarão as suas preferências, por ordem de prioridade, de acordo com o previsto numa ou mais das seguintes alíneas:
+Art. 8.º Os candidatos a que se refere o presente diploma indicarão as suas preferências, por ordem de prioridade, de acordo com o previsto numa ou mais das seguintes alíneas:
 
 a) Código dos estabelecimentos de ensino da Região Autónoma da Madeira;
 
 b) Código das zonas.
 
-###### Art. 9.º - 1 - Cada candidato anexará ao boletim de concurso proposta do bispo da diocese.
+Art. 9.º - 1 - Cada candidato anexará ao boletim de concurso proposta do bispo da diocese.
 
 2 - A proposta referida no número anterior corresponde, para os devidos efeitos, à declaração do bispo da diocese de que está de acordo com a nomeação do candidato, bem como manifestará o entendimento de que o opositor ao concurso possui os requisitos exigidos pela Igreja Católica para o exercício das respectivas funções docentes.
 
 3 - A proposta referida no número anterior deverá ter aposto o selo branco ou o carimbo a óleo em uso na respectiva diocese.
 
-###### Art. 10.º São excluídos os candidatos que preencherem irregularmente o respectivo boletim de concurso ou não dêem cumprimento exacto ao disposto nos artigos 8.º e 9.º deste diploma.
+Art. 10.º São excluídos os candidatos que preencherem irregularmente o respectivo boletim de concurso ou não dêem cumprimento exacto ao disposto nos artigos 8.º e 9.º deste diploma.
 
-###### Art. 11.º - 1 - O concurso referido neste diploma realiza-se com recuperação automática de vagas, sem prejuízo de, por excesso de lugares relativamente às necessidades reais existentes, algumas delas não serem recuperadas.
+Art. 11.º - 1 - O concurso referido neste diploma realiza-se com recuperação automática de vagas, sem prejuízo de, por excesso de lugares relativamente às necessidades reais existentes, algumas delas não serem recuperadas.
 
 2 - As vagas a não recuperar constarão do aviso de abertura do concurso.
 
-###### Art. 12.º É da competência da Direcção Regional de Finanças, Administração e Pessoal, da Secretaria Regional da Educação, Juventude e Emprego, a realização do concurso a que se refere o presente diploma.
+Art. 12.º É da competência da Direcção Regional de Finanças, Administração e Pessoal, da Secretaria Regional da Educação, Juventude e Emprego, a realização do concurso a que se refere o presente diploma.
 
-###### Art. 13.º - 1 - Sempre que uma secção de um estabelecimento dos 2.º e 3.º ciclos do ensino básico ou de um estabelecimento de ensino secundário der origem à criação de uma nova escola, os professores da escola de origem pertencentes ao quadro de Educação Moral e Religiosa Católica poderão requerer a sua integração no quadro da nova escola.
+Art. 13.º - 1 - Sempre que uma secção de um estabelecimento dos 2.º e 3.º ciclos do ensino básico ou de um estabelecimento de ensino secundário der origem à criação de uma nova escola, os professores da escola de origem pertencentes ao quadro de Educação Moral e Religiosa Católica poderão requerer a sua integração no quadro da nova escola.
 
 2 - A integração referida no número anterior far-se-á independentemente de concurso e será requerida até 30 de Novembro imediatamente anterior à data de abertura do primeiro concurso previsto neste diploma em que os lugares da nova escola sejam postos a concurso.
 
 3 - Caso o número de docentes interessados na integração seja superior ao número de vagas existentes, estes serão graduados de acordo com as regras estabelecidas neste diploma, preferindo sempre os professores do quadro melhor posicionados.
 
-###### Art. 14.º - 1 - Sempre que numa escola surjam situações de excesso de professores do quadro, poderá a Administração, com a anuência expressa do bispo da diocese, transferi-los para o quadro de outra escola do mesmo nível de ensino da mesma freguesia ou vila.
+Art. 14.º - 1 - Sempre que numa escola surjam situações de excesso de professores do quadro, poderá a Administração, com a anuência expressa do bispo da diocese, transferi-los para o quadro de outra escola do mesmo nível de ensino da mesma freguesia ou vila.
 
 2 - Caso o número de docentes interessados na transferência seja superior ao número de lugares providos em excesso, aplica-se o disposto no n.º 3 do artigo anterior.
 
@@ -203,17 +291,17 @@ b) Código das zonas.
 
 5 - As vagas resultantes da concretização dos reingressos a que se refere o número anterior só serão consideradas no concurso seguinte.
 
-###### Art. 15.º A aplicação do disposto nos artigos 13.º e 14.º deste diploma determina a transferência, para todos os efeitos legais, dos docentes do quadro para o novo estabelecimento de ensino, procedendo-se, como consequência, ao respectivo provimento, independentemente de quaisquer formalidades legais.
+Art. 15.º A aplicação do disposto nos artigos 13.º e 14.º deste diploma determina a transferência, para todos os efeitos legais, dos docentes do quadro para o novo estabelecimento de ensino, procedendo-se, como consequência, ao respectivo provimento, independentemente de quaisquer formalidades legais.
 
-###### Art. 16.º - 1 - Poderá o bispo da diocese, em proposta fundamentada, acompanhada da anuência do professor, solicitar à Secretaria Regional da Educação, Juventude e Emprego o destacamento para outra escola da Região de qualquer professor de Educação Moral e Religiosa Católica, desde que se encontre provido no quadro.
+Art. 16.º - 1 - Poderá o bispo da diocese, em proposta fundamentada, acompanhada da anuência do professor, solicitar à Secretaria Regional da Educação, Juventude e Emprego o destacamento para outra escola da Região de qualquer professor de Educação Moral e Religiosa Católica, desde que se encontre provido no quadro.
 
 2 - Ao destacamento referido no número anterior aplica-se o que nesta matéria se encontra estabelecido na lei geral.
 
-###### Art. 17.º - 1 - Os professores do quadro para a disciplina de Educação Moral e Religiosa Católica integram-se, para todos os efeitos, na carreira definida no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, e o seu estatuto remuneratório é o estabelecido no [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro.
+Art. 17.º - 1 - Os professores do quadro para a disciplina de Educação Moral e Religiosa Católica integram-se, para todos os efeitos, na carreira definida no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, e o seu estatuto remuneratório é o estabelecido no [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro.
 
 2 - Os professores referidos neste artigo integram-se no regime geral de atribuição de escalões, aposentação, subsídio por doença, prestações complementares, subsídio por morte e demais subsídios.
 
-###### Art. 18.º - 1 - O professor do quadro deixará de exercer funções docentes na disciplina de Educação Moral e Religiosa Católica em resultado de proposta apresentada pelo bispo da diocese, devidamente fundamentada, na qual se manifeste que o docente deixou de possuir as condições específicas para a leccionação da referida disciplina.
+Art. 18.º - 1 - O professor do quadro deixará de exercer funções docentes na disciplina de Educação Moral e Religiosa Católica em resultado de proposta apresentada pelo bispo da diocese, devidamente fundamentada, na qual se manifeste que o docente deixou de possuir as condições específicas para a leccionação da referida disciplina.
 
 2 - Os professores referidos no número anterior que se encontrem providos no quadro, nos termos do n.º 1 do artigo 4.º, serão integrados no quadro da Secretaria Regional da Educação, Juventude e Emprego.
 
@@ -225,7 +313,7 @@ b) Código das zonas.
 
 6 - Os professores previstos no n.º 7 do artigo 4.º, quando abrangidos pelo disposto no n.º 1 do presente artigo, transitarão para o exercício de outras funções docentes para que se encontrem devida e legalmente habilitados.
 
-###### Art. 19.º - 1 - O preenchimento de necessidades transitórias de pessoal docente para leccionação na disciplina de Educação Moral e Religiosa Católica é feito por contrato, sujeito às regras estabelecidas nos números seguintes.
+Art. 19.º - 1 - O preenchimento de necessidades transitórias de pessoal docente para leccionação na disciplina de Educação Moral e Religiosa Católica é feito por contrato, sujeito às regras estabelecidas nos números seguintes.
 
 2 - O docente a contratar é proposto pelo bispo da diocese, caducando o mesmo contrato no termo do ano escolar, salvo se o bispo da diocese propuser a sua renovação.
 
@@ -235,24 +323,24 @@ b) Código das zonas.
 
 5 - Ao pessoal referido neste artigo são aplicáveis as correspondentes disposições do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, e do [Decreto-Lei n.º 409/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1989-673392), de 18 de Novembro.
 
-###### Art. 20.º Em tudo o que não se encontre previsto no presente diploma aplica-se, com as devidas adaptações, o disposto no [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio, nomeadamente no que respeita à publicação de listas provisórias e definitivas dos candidatos, prazos de reclamação das mesmas, desistências do concurso e tomadas de posse e regime de provimento dos lugares.
+Art. 20.º Em tudo o que não se encontre previsto no presente diploma aplica-se, com as devidas adaptações, o disposto no [Decreto Legislativo Regional n.º 4/88/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1988-374778), de 18 de Maio, nomeadamente no que respeita à publicação de listas provisórias e definitivas dos candidatos, prazos de reclamação das mesmas, desistências do concurso e tomadas de posse e regime de provimento dos lugares.
 
-###### Art. 21.º Os docentes referidos no presente diploma ficam sujeitos ao Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro.
+Art. 21.º Os docentes referidos no presente diploma ficam sujeitos ao Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro.
 
-###### Art. 22.º Os encargos resultantes da execução do presente diploma serão suportados por verbas inscritas nas competentes rubricas do orçamento da Secretaria Regional da Educação, Juventude e Emprego para vencimentos e demais abonos de pessoal docente do ensino não superior.
+Art. 22.º Os encargos resultantes da execução do presente diploma serão suportados por verbas inscritas nas competentes rubricas do orçamento da Secretaria Regional da Educação, Juventude e Emprego para vencimentos e demais abonos de pessoal docente do ensino não superior.
 
-###### Art. 23.º O primeiro concurso para provimento no quadro previsto neste diploma reportar-se-á ao ano escolar de 1990-1991.
+Art. 23.º O primeiro concurso para provimento no quadro previsto neste diploma reportar-se-á ao ano escolar de 1990-1991.
 
 Aprovado em sessão plenária de 26 de Abril de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 21 de Maio de 1990.**
+Assinado em 21 de Maio de 1990.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
 Mapa anexo a que alude o n.º 1 do artigo 1.º da Decreto Legislativo Regional n.º 18/90/M
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/06/14100/26122615.pdf))](https://files.diariodarepublica.pt/1s/1990/06/14100/26122615.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/06/14100/26122615.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/1991/06/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1991-649366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-06-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7864e4256b099201730c48d87703dbc0fcad621ac3b9af4aa76badbb23d0a4da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cf6b4f24ed1675d07b3dbffe64170c7439eaee3ebcdfa0e870e5c9aa2cd7295
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional
+- Contrato de Trabalho
+- Estágio de Formação
 - Função Pública
-- Tempo de Serviço
+- Madeira.região Autónoma
 - Pessoal Operário
-- Recrutamento de Pessoal
 - Pessoal Técnico
 - Pessoal Técnico Superior
-- Estágio de Formação
-- Madeira.região Autónoma
-- Contrato de Trabalho
-- Administração Regional
-relationships: []
+- Recrutamento de Pessoal
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:332408:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:35Z'
   warnings: []
   errors: []
 ---
@@ -125,28 +141,28 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O disposto no presente diploma aplica-se:
+Artigo 1.º O disposto no presente diploma aplica-se:
 
 a) A todos os serviços ou organismos da administração regional autónoma da Madeira;
 
 b) Aos institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos.
 
-###### Art. 2.º São abrangidos pelo disposto no presente diploma a carreira técnica superior e a carreira técnica e as carreiras de pessoal operário.
+Art. 2.º São abrangidos pelo disposto no presente diploma a carreira técnica superior e a carreira técnica e as carreiras de pessoal operário.
 
-###### Art. 3.º Para efeitos de ingresso nas carreiras referidas no artigo 2.º, e desde que haja correspondência de funções, será relevado na categoria de estagiário, aprendiz, ajudante e praticante o tempo de serviço efectivamente prestado ao abrigo de contrato, relativamente ao pessoal contratado durante o período compreendido entre a entrada em vigor do [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, e a entrada em vigor do [Decreto Regulamentar Regional n.º 2/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1990-332408), de 2 de Março.
+Art. 3.º Para efeitos de ingresso nas carreiras referidas no artigo 2.º, e desde que haja correspondência de funções, será relevado na categoria de estagiário, aprendiz, ajudante e praticante o tempo de serviço efectivamente prestado ao abrigo de contrato, relativamente ao pessoal contratado durante o período compreendido entre a entrada em vigor do [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, e a entrada em vigor do [Decreto Regulamentar Regional n.º 2/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1990-332408), de 2 de Março.
 
-###### Art. 4.º O disposto no artigo anterior abrange apenas a contagem do período de tempo legalmente exigido para a permanência nas categorias referidas, mantendo-se e observando-se em tudo o resto o legalmente disposto.
+Art. 4.º O disposto no artigo anterior abrange apenas a contagem do período de tempo legalmente exigido para a permanência nas categorias referidas, mantendo-se e observando-se em tudo o resto o legalmente disposto.
 
-###### Art. 5.º O disposto no presente diploma não se aplica aos indivíduos que, à data de entrada em vigor do mesmo, já tenham sido nomeados nas categorias de ingresso das carreiras referidas no artigo 2.º
+Art. 5.º O disposto no presente diploma não se aplica aos indivíduos que, à data de entrada em vigor do mesmo, já tenham sido nomeados nas categorias de ingresso das carreiras referidas no artigo 2.º
 
-###### Art. 6.º O ingresso nos quadros reportar-se-á à data em que se considere cumprido, nos termos do artigo 3.º, o período de permanência na categoria de estagiário, aprendiz, ajudante e praticante.
+Art. 6.º O ingresso nos quadros reportar-se-á à data em que se considere cumprido, nos termos do artigo 3.º, o período de permanência na categoria de estagiário, aprendiz, ajudante e praticante.
 
-###### Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 30 de Abril de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, António Gil Inácio da Silva.**
+O Presidente da Assembleia Legislativa Regional, em exercício, António Gil Inácio da Silva.
 
-**Assinado em 24 de Maio de 1991.**
+Assinado em 24 de Maio de 1991.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/571/2009/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/571-2009-494177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb1d553f0fc2ef759221f59346fdd68cf5ecf74815f7d1ce696d55138da42ed6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10a8024e72b663896a5cf46c666b009a45e948edce9c0a390e3414164a5a9f73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,6 +78,13 @@ relationships:
   target: pt:dre:332445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332445:por
+  label: "Alterados os art.s 1º e 2º e republica o Regulamento Interno do Julgado de Paz do Agrupamento dos Concelhos de Oleiros,\
+    \ Mação, Proença-a-Nova, Sertã e Vila de Rei, aprovado pela Port 334/2009, de 02-Abr, na redacção da presente portaria,\
+    \ pela PORT.304/2010.08.06.2010.MJ, DR.IS [110] de 08.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/304-2010-332445
+  date: '2010-06-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/60/2009/03/04/p/dre
   label: null
@@ -90,16 +97,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/334/2009/04/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/334/2009/04/02/p/dre
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 15
+  article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:02Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +147,9 @@ b) No concelho da Sertã, no Largo de António Ferreira Alberto - Escola do Adro
 
 3 - ...
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O Julgado de Paz do Agrupamento dos Concelhos de Oleiros, Mação, Proença-a-Nova, Sertã e Vila de Rei tem o seguinte horário de funcionamento:
 

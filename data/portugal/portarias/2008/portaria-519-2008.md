@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/06/12100/0381803820.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/519/2008/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/519-2008-456215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08c9422b39bcb7a1527e3085c4116f75227d0ffd6bb27f16509e634a56a26a44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91955d0e36876a30833aa914a7dd5d636bf757549c0ea5d21db6c899135f58b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Acreditação
 - Consumo de Energia
-- Política Energética
-- Impresso
 - Direção Geral de Energia e Geologia
-- Proteção do Ambiente
 - Energia
+- Impresso
+- Política Energética
 - Poupança de Energia
+- Proteção do Ambiente
 - Qualificação Profissional
 relationships:
 - type: amended_by
@@ -84,16 +84,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/71/2008/04/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/71/2008/04/15/p/dre
+- type: cites
+  target: pt:dre:249821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:600295:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:257073:por
+  label: "Revogada pela LEI.7/2013.22.01.2013.AR, DR.IS [15] de 22.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-2013-257073
+  date: '2013-01-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:48Z'
   warnings: []
   errors: []
 ---
@@ -162,13 +175,13 @@ h) Outros elementos e referências consideradas úteis pelo requerente para o re
 
 6.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 17 de Junho de 2008.**
+O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 17 de Junho de 2008.
 
 ## ANEXO I
 
 Modelo de requerimento para reconhecimento de técnicos como auditor energético e autor de planos de racionalização e de relatórios de execução e progresso, nos termos do n.º 3 do artigo 10.º do sistema de gestão dos consumos intensivos de energia (SGCIE), publicado com o [Decreto-Lei n.º 71/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2008-249821), de 15 de Abril.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12100/0381803820.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12100/0381803820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12100/0381803820.pdf)
 
 Os dados pessoais recolhidos destinam-se a tratamento informático e podem ser alterados, rectificados ou eliminados junto da DGEG.
 
@@ -176,7 +189,7 @@ Os dados pessoais recolhidos destinam-se a tratamento informático e podem ser a
 
 Modelo de requerimento para reconhecimento de entidades como auditor energético e autor de planos de racionalização e de relatórios de execução e progresso, nos termos do n.º 4 do artigo 10.º do sistema de gestão dos consumos intensivos de energia (SGCIE), publicado com o [Decreto-Lei n.º 71/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2008-249821), de 15 de Abril.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/12100/0381803820.pdf))](https://files.diariodarepublica.pt/1s/2008/06/12100/0381803820.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/12100/0381803820.pdf)
 
 Os dados pessoais recolhidos destinam-se a tratamento informático e podem ser alterados, rectificados ou eliminados junto da DGEG.
 

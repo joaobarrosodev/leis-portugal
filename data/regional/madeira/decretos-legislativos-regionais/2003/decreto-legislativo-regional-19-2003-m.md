@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/169a00/43314337.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2003/07/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2003-673637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cfcf90de837d3b2bd4645abac943113365f6caefafb7b657fb16b2ee01a9299
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86e0ec02962be77385c0ce7ca8ae3ae9cdf4bc5b110ae218630de51dd250e834
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,9 +75,9 @@ subjects:
 - Conselho de Orientação
 - Governo Regional
 - Laboratório Regional de Engenharia Civil
-- Secretaria Regional do Equipamento Social e Transportes
-- Pessoa Colectiva de Direito Público
 - Madeira.região Autónoma
+- Pessoa Colectiva de Direito Público
+- Secretaria Regional do Equipamento Social e Transportes
 - Secretário Regional do Equipamento Social e Transportes
 relationships:
 - type: amended_by
@@ -104,16 +104,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:493200:por
+  label: "Revogado o DLR 9/91/M de 02-Abr, com as alterações introduzidas pelo presente diploma, pelo DLR.18/2009/M.30.07.2009.AL-RAM,\
+    \ DR.IS [146] de 30.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/18-2009-493200
+  date: '2009-07-30'
 article_structure:
-  article_count: 33
+  article_count: 25
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:14Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +174,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 13.º, 15.º e 16.º do [Decreto Legisl
 
 2 - O LREC exerce a sua acção com subordinação aos princípios da investigação científica e desenvolvimento tecnológico e aos princípios aplicáveis às instituições públicas de investigação, definidos no [Decreto-Lei n.º 125/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1999-534998), de 20 de Abril.
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - O LREC tem por fim promover e coordenar a investigação científica e o desenvolvimento tecnológico, bem como outras actividades científicas e técnicas necessárias ao progresso da Região Autónoma da Madeira e à boa prática da engenharia civil.
 
@@ -160,7 +188,9 @@ Os artigos 1.º, 2.º, 3.º, 5.º, 6.º, 13.º, 15.º e 16.º do [Decreto Legisl
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 Para o exercício das suas atribuições, o LREC dispõe dos seguintes órgãos:
 
@@ -174,7 +204,9 @@ d) Conselho científico;
 
 e) Comissão de acompanhamento.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -192,7 +224,9 @@ c) Chefe de divisão responsável pelo orçamento e contabilidade.
 
 5 - ...
 
-###### Artigo 6.º — Conselho de orientação
+Artigo 6.º
+
+Conselho de orientação
 
 1 - O conselho de orientação é um órgão de consulta sobre as grandes linhas que devem orientar a acção do LREC nos diversos domínios da sua actividade, assegurando uma eficaz articulação de vários departamentos da administração regional autónoma na actividade do LREC.
 
@@ -222,13 +256,17 @@ g) Um representante da ASSICOM - Associação da Indústria, Associação da Con
 
 7 - As demais normas de funcionamento do conselho de orientação constarão de regimento interno a elaborar pelo próprio conselho de orientação.
 
-###### Artigo 13.º — Flexibilidade da gestão financeira e patrimonial
+Artigo 13.º
+
+Flexibilidade da gestão financeira e patrimonial
 
 1 - O LREC rege-se, em matéria de aquisição de bens e serviços, pelo regime geral aplicável, com as especialidades consignadas no n.º 1 do artigo 15.º do [Decreto-Lei n.º 125/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1999-534998), de 20 de Abril.
 
 2 - As regras especiais a que se reporta o número anterior aplicam-se aos procedimentos iniciados após a entrada em vigor do presente diploma.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -240,7 +278,9 @@ b) ...
 
 3 - O LREC remeterá ao Gabinete de Estudos e Planeamento da Secretaria Regional do Equipamento Social e Transportes uma cópia dos documentos elaborados nos termos deste artigo.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 O património do LREC é constituído pela universalidade dos bens, direitos e obrigações afectos ou decorrentes das suas actividades e pelos que venham a ser-lhe atribuídos ou que adquira ou contraia no âmbito das funções que lhe estão cometidas.»
 
@@ -274,7 +314,9 @@ e) Aprovar o seu regulamento interno.
 
 6 - As demais normas de funcionamento do conselho científico constarão do seu regulamento interno.
 
-###### Artigo 6.º-B — Comissão de acompanhamento
+Artigo 6.º-B
+
+Comissão de acompanhamento
 
 1 - A comissão de acompanhamento é o órgão de avaliação interna da actividade do LREC e de aconselhamento do seu director.
 
@@ -304,13 +346,13 @@ O [Decreto Legislativo Regional n.º 9/91/M](https://diariodarepublica.pt/dr/det
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 11 de Junho de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, José Paulo Baptista Fontes.**
+O Presidente da Assembleia Legislativa Regional, em exercício, José Paulo Baptista Fontes.
 
-**Assinado em 2 de Julho de 2003.**
+Assinado em 2 de Julho de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — [Decreto Legislativo Regional n.º 9/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1991-621954)
 

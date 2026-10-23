@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/2007/04/23/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2007-519267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5112cab8b9e1383fc7aed0eac1c37f86ad2ab4933f41f9e17ad4758b3876dc6c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fb68f56f14b9435c35cde23d3deb307161fccae293ab3ad00c19938a6e149f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Srpcba
+- Açores
 - Orgânica
 - Quadro de Pessoal
-- Açores
+- Srpcba
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/e
@@ -110,16 +110,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+- type: cites
+  target: pt:dre:145612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645762:por
+  label: null
+  source: null
 article_structure:
-  article_count: 76
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 58
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:21Z'
   warnings: []
   errors: []
 ---
@@ -146,13 +194,17 @@ Os artigos 4.º, 6.º, 8.º, 9.º, 10.º, 21.º, 22.º, 26.º, 27.º, 28.º, 29.
 
 2 - ...
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - Os municípios dispõem de serviços municipais de protecção civil, aos quais incumbe, ao nível da respectiva circunscrição territorial, a prossecução dos objectivos e o desenvolvimento das acções de informação, formação, planeamento, coordenação e controlo nos domínios previstos no artigo 4.º da [Lei n.º 27/2006](https://diariodarepublica.pt/dr/detalhe/lei/27-2006-537862), de 3 de Julho.
 
 2 - Compete ainda aos serviços municipais de protecção civil constituírem e assegurarem a funcionalidade dos respectivos centros municipais de operações de emergência, nos termos do n.º 1 do artigo 9.º do [Decreto Legislativo Regional n.º 13/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-1999-544674), de 15 de Abril, enquanto este se mantiver em vigor.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O SRPCBA é dirigido por um presidente, equiparado, para todos os efeitos, a director regional, coadjuvado por um vice-presidente, equiparado a subdirector regional.
 
@@ -192,7 +244,9 @@ o) Emitir parecer obrigatório sobre os pedidos de isenção de impostos ou taxa
 
 4 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -214,7 +268,9 @@ d) ...
 
 6 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -242,7 +298,9 @@ k) [Anterior alínea m).]
 
 2 - ...
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -254,7 +312,9 @@ c) O funcionamento do Sistema de Coordenação Operacional dos Bombeiros da Regi
 
 2 - ...
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 ...
 
@@ -282,7 +342,9 @@ k) ...
 
 l) ...
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Os delegados são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha, de entre indivíduos com conhecimentos comprovados nesta área de intervenção, sendo providos em comissão de serviço, pelo período de três anos, renovável por iguais períodos de tempo.
 
@@ -308,7 +370,9 @@ d) Restantes municípios - 25%.
 
 8 - (Anterior n.º 6.)
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - ...
 
@@ -336,7 +400,9 @@ a) Nas situações previstas no artigo 8.º da [Lei n.º 27/2006](https://diario
 
 b) ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - Os coordenadores de bombeiros são nomeados por despacho do membro do Governo Regional que tutele o SRPCBA, sob proposta do presidente deste, por escolha de entre indivíduos que exerçam ou tenham exercido funções de comando nos corpos de bombeiros, sendo providos em comissão de serviço, pelo período de três anos, renovável por iguais períodos de tempo.
 
@@ -350,7 +416,9 @@ b) ...
 
 6 - A remuneração de base do cargo de coordenador de bombeiros será a correspondente a 55% do vencimento de base de um director regional, acrescendo-lhe o subsídio de refeição e as demais regalias gerais em vigor para o funcionalismo público.
 
-###### Artigo 29.º — [...]
+Artigo 29.º
+
+[...]
 
 1 - ...
 
@@ -372,11 +440,15 @@ g) ...
 
 3 - (Eliminado.)
 
-###### Artigo 31.º — [...]
+Artigo 31.º
+
+[...]
 
 O CF articula-se funcionalmente com os demais serviços do SRPCBA, em geral, e com a DPFS, em especial.
 
-###### Artigo 33.º — Quadro de pessoal
+Artigo 33.º
+
+Quadro de pessoal
 
 1 - ...
 
@@ -404,7 +476,9 @@ j) ...
 
 3 - O técnico profissional especialista principal, escalão 5, índice 360, que exerce funções no SRPCBA desde o início da sua constituição, transita para a carreira de operador de telecomunicações, categoria de especialista principal, escalão 5, índice 360.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O pessoal dirigente do SRPCBA, bem como os demais serviços integrados na estrutura regional de protecção civil e bombeiros, é recrutado, mediante escolha ou concurso, de entre:
 
@@ -422,7 +496,9 @@ c) Indivíduos com experiência no exercício de funções de comando ou de coor
 
 5 - O presente artigo não se aplica aos cargos previstos nos artigos 26.º, 28.º e 36.º do presente diploma.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -454,13 +530,17 @@ h) ...
 
 7 - A remuneração de base do cargo de inspector-coordenador será a correspondente a 65% do vencimento de base de um director regional, acrescendo-lhe o subsídio de refeição e as demais regalias gerais em vigor para o funcionalismo público.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - O recrutamento para a carreira de operador de telecomunicações far-se-á de entre indivíduos habilitados com o 12.º ano de escolaridade ou equivalente.
 
 2 - O provimento na carreira de operador de telecomunicações de 2.ª classe fica dependente da frequência com aproveitamento de um estágio de 12 meses, o qual será regulamentado por despacho conjunto dos membros do Governo Regional da tutela e da Administração Pública.
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - Em caso de iminência ou de ocorrência de acidente grave, catástrofe ou calamidade o serviço prestado no SRPCBA é de carácter permanente e de total disponibilidade, pelo que todo o pessoal em exercício no SRPCBA não pode, salvo motivo excepcional devidamente justificado, deixar de comparecer ou permanecer no serviço.
 
@@ -470,7 +550,9 @@ h) ...
 
 4 - O suplemento a que se refere o número anterior só é devido relativamente aos dias em que se verifique prestação efectiva de trabalho ou nas situações legalmente equiparadas, não sendo considerado para efeitos de cálculo dos subsídios de férias e de natal.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -478,7 +560,9 @@ h) ...
 
 3 - ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 1 - Os modelos dos distintivos e do vestuário do pessoal do SRPCBA, bem como as condições do respectivo uso, serão aprovados por portaria do membro do Governo Regional que tutele o Serviço.
 
@@ -524,11 +608,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 12 de Março de 2007.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 30 de Março de 2007.**
+Assinado em Angra do Heroísmo em 30 de Março de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
@@ -832,7 +916,9 @@ u) Desenvolver e gerir os meios informáticos, em articulação com os demais se
 
 4 - O SAG compreende a Secção Administrativa e Financeira (SAF).
 
-###### Artigo 18.º — Secção Administrativa e Financeira
+###### Artigo 18.º
+
+#### Secção Administrativa e Financeira
 
 À SAF compete o apoio administrativo e financeiro ao funcionamento geral do SRPCBA, nomeadamente:
 
@@ -892,7 +978,9 @@ a) A Divisão de Planeamento, Operações e Avaliação de Riscos (DPOAR);
 
 b) A Divisão de Prevenção, Formação e Sensibilização (DPFS).
 
-###### Artigo 20.º — Divisão de Planeamento, Operações e Avaliação de Riscos
+###### Artigo 20.º
+
+##### Divisão de Planeamento, Operações e Avaliação de Riscos
 
 1 - A DPOAR assegura o planeamento e a direcção das operações do Serviço, a coordenação dos meios a empenhar e a adequação das medidas de carácter excepcional a adoptar na iminência ou na ocorrência de acidente grave, catástrofe ou calamidade.
 
@@ -944,7 +1032,9 @@ c) O funcionamento do Sistema de Coordenação Operacional dos Bombeiros da Regi
 
 2 - A Estação Açor funciona em regime de permanência.
 
-###### Artigo 22.º — Divisão de Prevenção, Formação e Sensibilização
+###### Artigo 22.º
+
+##### Divisão de Prevenção, Formação e Sensibilização
 
 À DPFS compete, designadamente:
 
@@ -1024,7 +1114,9 @@ a) A Divisão de Socorro e Equipamento (DSE);
 
 b) A Divisão de Segurança contra Incêndios (DSCI).
 
-###### Artigo 24.º — Divisão de Socorro e Equipamento
+###### Artigo 24.º
+
+##### Divisão de Socorro e Equipamento
 
 1 - Compete à DSE, designadamente:
 
@@ -1066,7 +1158,9 @@ q) Colaborar na execução das competências dos outros serviços do SRPCBA.
 
 3 - De acordo com a estrutura referida no número anterior, poderão ser nomeados coordenadores.
 
-###### Artigo 25.º — Divisão de Segurança contra Incêndios
+###### Artigo 25.º
+
+##### Divisão de Segurança contra Incêndios
 
 Compete à DSCI, nomeadamente:
 
@@ -1412,4 +1506,4 @@ Na prossecução das suas atribuições, o SRPCBA poderá recorrer, se necessár
 
 ## ANEXO II — Quadro de pessoal do Serviço Regional de Protecção Civil e Bombeiros dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/04/07900/25182533.pdf))](https://files.diariodarepublica.pt/1s/2007/04/07900/25182533.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/07900/25182533.pdf)

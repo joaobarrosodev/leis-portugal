@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/1992/02/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1992-151075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bc9dfce837df13298f369875bbc04239e1a8ac1ab352b6688cb260401d908ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc0688b6f6f95c58400d7602d6562e6f5ea4d716f85bac301ec3e574e3324ad7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
 - Calheta (Açores)
 - Centro de Oncologia dos Açores
+- Centro de Saúde
 - Horta
 - ILHA das Flores
-- Centro de Saúde
 - Lajes do Pico
 - Madalena.Açores
 - Nordeste
@@ -83,7 +84,6 @@ subjects:
 - Santa CRUZ da Graciosa
 - Santa CRUZ das Flores
 - são Roque do PICO
-- Açores
 - Velas
 - VILA do Porto
 - VILA Franca do Campo
@@ -92,20 +92,44 @@ relationships:
   target: pt:dre:430419:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:536225:por
+  label: "Alterado o quadro de pessoal aprovado pelo DRR 50/88/A de 19-Out e alterado pelo presente diploma, pelo DRR.21/2001/A.2001.12.26.PG-RAA,DR.IS-B\
+    \ [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-2001-536225
+  date: '2001-12-26'
+- type: amended_by
+  target: pt:dre:430419:por
+  label: "Alterado o quadro de pessoal do Centro de Saúde da Praia da Vitória, pelo DRR.32/2003/A.21.11.2003.PG-RAA, DR.IS-B\
+    \ [288] de 15.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/32-2003-430419
+  date: '2003-11-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:564421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:12Z'
   warnings: []
   errors: []
 ---
@@ -128,14 +152,14 @@ O presente decreto regulamentar regional entra em vigor na data da sua publicaç
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 20 de Novembro de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 2 de Janeiro de 1992.**
+Assinado em Angra do Heroísmo em 2 de Janeiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 DO QUADRO N.º 1 AO QUADRO N.º 17
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/030b00/07370740.pdf))](https://files.diariodarepublica.pt/1s/1992/02/030b00/07370740.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/02/030b00/07370740.pdf)

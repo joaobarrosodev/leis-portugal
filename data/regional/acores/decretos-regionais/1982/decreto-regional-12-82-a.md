@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/07/14900/19681970.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1982-395485
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6710860c5ce04884fb43d8a93217fe42e91c0e09b2ffbaa25086cbfa344e2341
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2efaae442b65c324a4d4b3db6b18b002850a0775fd5c7e448bce152e5130e06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Proteção do Ambiente
+- Reserva Natural
 relationships:
 - type: amended_by
   target: pt:dre:303582:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:303582:por
+  label: "Revogado pelo DLR.15/2000/A.2000.05.29.ALR-RAA, DR.IS-A [142] de 21/Jun/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2000-303582
+  date: '2000-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:24Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +110,11 @@ Assim, em função da sua localização e característica, merece ser classifica
 
 Deste modo, e nos termos do artigo 229.º, n.º 1, alínea a), da Constituição da República Portuguesa, a Assembleia Regional dos Açores decreta o seguinte:
 
-###### Artigo 1.º É criada e definida a Reserva de Recreio do Pinhal da Paz, na freguesia de Fajã de Cima, concelho de Ponta Delgada.
+Artigo 1.º É criada e definida a Reserva de Recreio do Pinhal da Paz, na freguesia de Fajã de Cima, concelho de Ponta Delgada.
 
-###### Art. 2.º Os limites da área classificada são os demarcados nas cartas anexas ao presente diploma e que dele fazem parte integrante
+Art. 2.º Os limites da área classificada são os demarcados nas cartas anexas ao presente diploma e que dele fazem parte integrante
 
-###### Art. 3.º Com a presente classificação pretende-se:
+Art. 3.º Com a presente classificação pretende-se:
 
 a) Manter a fisionomia da propriedade;
 
@@ -114,7 +126,7 @@ d) Promover a beneficiação do enquadramento paisagístico da propriedade, assi
 
 e) A animação sócio-cultural da população com vista ao relançamento dos níveis da cultura local.
 
-###### Art. 4.º - 1 - Fica dependente de autorização da Secretaria Regional do Equipamento Social a realização dos seguintes trabalhos:
+Art. 4.º - 1 - Fica dependente de autorização da Secretaria Regional do Equipamento Social a realização dos seguintes trabalhos:
 
 a) Construção, reconstrução, ampliação, alteração ou demolição de edifícios e outras instalações existentes ou a construir;
 
@@ -128,7 +140,7 @@ b) Quaisquer outras actividades ou trabalhos que afectem a integridade e caracte
 
 3 - As autorizações a que se referem os números anteriores não dispensam quaisquer outros condicionalismos exigidos por lei.
 
-###### Art. 5.º São consideradas contravenções:
+Art. 5.º São consideradas contravenções:
 
 a) A realização de quaisquer trabalhos, obras ou actividades económicas nos terrenos abrangidos pela Reserva, sem autorização da Secretaria Regional do Equipamento Social;
 
@@ -142,36 +154,36 @@ e) O depósito de materiais ou qualquer alteração do relevo;
 
 f) A introdução na zona de Reserva de animais não domésticos e de espécies exóticas, bem como a destruição de plantas ou partes de plantas quando não superiormente autorizada.
 
-###### Art. 6.º - 1 - As contravenções previstas no artigo 5.º, sem prejuízo de outras sanções aplicáveis, são punidas com multas que variam entre 1000$00 e 10000$00.
+Art. 6.º - 1 - As contravenções previstas no artigo 5.º, sem prejuízo de outras sanções aplicáveis, são punidas com multas que variam entre 1000$00 e 10000$00.
 
 2 - Em caso de reincidência serão os infractores sujeitos a prisão até 1 mês.
 
 3 - Se o infractor recusar o pagamento das multas depois de para tal notificado, proceder-se-á à recuperação da integridade da propriedade, decorrendo a cobrança das despesas por conta do mesmo e recorrendo-se aos tribunais para cobrança coerciva, sempre que se torne necessário.
 
-###### Art. 7.º As funções de policiamento e fiscalização competem, com maior incidência, aos serviços do ambiente da Direcção Regional de Habitação, Urbanismo e Ambiente, serviços de conservação de estradas da Direcção Regional de Obras Públicas e Equipamento, guardas florestais, câmara municipal e ao futuro corpo de vigilantes da Secretaria Regional do Equipamento Social.
+Art. 7.º As funções de policiamento e fiscalização competem, com maior incidência, aos serviços do ambiente da Direcção Regional de Habitação, Urbanismo e Ambiente, serviços de conservação de estradas da Direcção Regional de Obras Públicas e Equipamento, guardas florestais, câmara municipal e ao futuro corpo de vigilantes da Secretaria Regional do Equipamento Social.
 
 Os autos de notícia por infracção ao disposto no presente decreto regional serão levantados e processados nos termos dos artigos 166.º e 167.º do Código de Processo Penal, sem prejuízo de outras disposições legais aplicáveis.
 
-###### Art. 8.º - 1 - É aplicável às obras e trabalhos efectuados com inobservância do preceituado no artigo 4.º o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+Art. 8.º - 1 - É aplicável às obras e trabalhos efectuados com inobservância do preceituado no artigo 4.º o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
 2 - São nulas as licenças municipais ou outras concedidas com violação do regime instituído neste diploma.
 
-###### Art. 9.º Serão aprovados por decreto regulamentar regional os sinais indicativos de protecção, permissões e condicionamentos previstos neste diploma, para os quais não existam já modelos previamente estabelecidos.
+Art. 9.º Serão aprovados por decreto regulamentar regional os sinais indicativos de protecção, permissões e condicionamentos previstos neste diploma, para os quais não existam já modelos previamente estabelecidos.
 
-###### Art. 10.º A Reserva de Recreio do Pinhal da Paz será administrada por uma comissão presidida por um representante da Direcção Regional de Habitação, Urbanismo e Ambiente, a designar pelo Secretário Regional do Equipamento Social, e integrada por representantes da Direcção Regional dos Serviços Florestais, Direcção Regional dos Serviços Agrícolas, Direcção Regional de Obras Públicas e Equipamento, Direcção Regional do Turismo, Câmara Municipal de Ponta Delgada e Junta de Freguesia da Fajã de Cima.
+Art. 10.º A Reserva de Recreio do Pinhal da Paz será administrada por uma comissão presidida por um representante da Direcção Regional de Habitação, Urbanismo e Ambiente, a designar pelo Secretário Regional do Equipamento Social, e integrada por representantes da Direcção Regional dos Serviços Florestais, Direcção Regional dos Serviços Agrícolas, Direcção Regional de Obras Públicas e Equipamento, Direcção Regional do Turismo, Câmara Municipal de Ponta Delgada e Junta de Freguesia da Fajã de Cima.
 
-###### Art. 11.º No prazo de 12 meses a partir da data de publicação do presente diploma, deverá ser elaborado o projecto de ordenamento da Reserva de Recreio do Pinhal da Paz por um grupo de trabalho nomeado pelo Secretário Regional do Equipamento Social, do qual farão parte 1 representante da Secretaria Regional do Equipamento Social, 1 da Secretaria Regional da Agricultura e Pescas, 1 da Secretaria Regional dos Transportes e Turismo e 1 representante da Câmara Municipal de Ponta Delgada.
+Art. 11.º No prazo de 12 meses a partir da data de publicação do presente diploma, deverá ser elaborado o projecto de ordenamento da Reserva de Recreio do Pinhal da Paz por um grupo de trabalho nomeado pelo Secretário Regional do Equipamento Social, do qual farão parte 1 representante da Secretaria Regional do Equipamento Social, 1 da Secretaria Regional da Agricultura e Pescas, 1 da Secretaria Regional dos Transportes e Turismo e 1 representante da Câmara Municipal de Ponta Delgada.
 
-###### Art. 12.º As despesas emergentes da execução do presente diploma serão suportadas pelas verbas adequadas da Secretaria Regional do Equipamento Social.
+Art. 12.º As despesas emergentes da execução do presente diploma serão suportadas pelas verbas adequadas da Secretaria Regional do Equipamento Social.
 
 Aprovado pela Assembleia Regional dos Açores em 27 de Janeiro de 1982.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 12 de Maio de 1982.**
+Assinado em Angra do Heroísmo em 12 de Maio de 1982.
 
-**Publique-se.**
+Publique-se.
 
 Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/14900/19681970.pdf))](https://files.diariodarepublica.pt/1s/1982/07/14900/19681970.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/14900/19681970.pdf)

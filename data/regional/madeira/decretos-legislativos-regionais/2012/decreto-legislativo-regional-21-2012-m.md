@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/2012/08/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2012-174788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 361ec02508c547425b2848a3b214d71aaa7073966f21a447e91d8638639587a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f0a5c64ed7729ace757771ceedcbd196ae03549e41f8a129d0b24014a99aba4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,11 +70,11 @@ subjects:
 - Contra-ordenação
 - Definição de Competências
 - Direcção Regional do Comércio Indústria e Energia
-- Produto Petrolífero
 - Fiscalização
 - Licenciamento
 - Madeira.região Autónoma
 - Posto de Abastecimento de Combustíveis
+- Produto Petrolífero
 - Segurança das Instalações
 - TAXA de Prestação de Serviços
 - Vistoria
@@ -119,16 +119,80 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/460/2001/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/460/2001/05/08/p/dre
+- type: cites
+  target: pt:dre:185521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683852:por
+  label: null
+  source: null
 article_structure:
   article_count: 32
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:31Z'
   warnings: []
   errors: []
 ---
@@ -521,11 +585,11 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 31 de julho de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 6 de agosto de 2012.**
+Assinado em 6 de agosto de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/20/2011/08/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2011-671468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d527ee8903e8e69a09b420f7960f234659424d83441a64ca785d24a753201eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b7c9b4199b0608900901d52536f6ca5a7f7ad4932a9b57f80e3b8322bb06ae8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estabelecimento de Ensino
-- Ensino Básico
 - Açores
+- Ensino Básico
+- Estabelecimento de Ensino
 - VILA Franca do Campo
 relationships:
 - type: cites
@@ -87,16 +87,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/16/2010/08/12/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/16/2010/08/12/a/dre
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613402:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:54Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +139,7 @@ O artigo 1.º e o anexo ao [Decreto Regulamentar Regional n.º 16/2010/A](https:
 
 Unidade orgânica - EBI de Ponta Garça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/15400/0425404256.pdf))](https://files.diariodarepublica.pt/1s/2011/08/15400/0425404256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/15400/0425404256.pdf)
 
 ###### Artigo 2.º — Entrada em vigor
 
@@ -131,11 +147,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 11 de Julho de 2011.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 1 de Agosto de 2011.**
+Assinado em Angra do Heroísmo em 1 de Agosto de 2011.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -187,4 +203,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Unidade orgânica - EBI de Ponta Garça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2011/08/15400/0425404256.pdf))](https://files.diariodarepublica.pt/1s/2011/08/15400/0425404256.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2011/08/15400/0425404256.pdf)

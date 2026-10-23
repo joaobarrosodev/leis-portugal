@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 196/2008, 1º Suplemento, Série I de 2008-10-09
   number: '196'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7214-(17) a 7214-(24)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19601/0001700024.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1137-c/2008/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1137-c-2008-220951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7396e740fc8442b5e054589b2875cac9b881b287fab73a01226a82eae40a014d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5be04d01ce3e2538b5fa97fa3aa14e421d4db001b00e32bff7ecf6586e6329c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
-- Incêndio
-- Financiamento
-- Desenvolvimento Rural
-- Contrato de Financiamento
-- Proteção da Floresta
 - Apoio ao Investimento
-- Ordenamento Florestal
+- Contrato de Financiamento
+- Desenvolvimento Rural
 - Exploração Florestal
+- Financiamento
+- Incêndio
+- Ordenamento Florestal
+- Proder
+- Proteção da Floresta
 - Regulamento
 - Regulamento de Aplicação da Acção N.º 2.3.1-mimimização de Riscos
 relationships:
@@ -83,20 +83,64 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249855:por
+  label: "Alteradas as al.s c), f), j), l) e t) do art. 4º, art. 6º, al. e) do art. 11º, nº 1 do art. 15º, nºs 1, 2, 5 e 6\
+    \ do art. 16º, nº 2 do art. 19º, nºs 1, 3, 4 e 6 do art. 20º, epígrafe e nºs 2, 3 e 5 do art. 21º, art. 23º e al. a) do\
+    \ nº 1 e nº 2 do art. 25º do Regulamento bem como o nº 1.7, al. a) do nº 1.8 e al. a) do nº 2.1 do anexo i do Regulamento\
+    \ e revogado o nº 8 do art. 20º do Regulamento PORT.739-B/2009.09.07.2009.MADRP, DR.IS [131-Supl] de 09.07.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/739-b-2009-249855
+  date: '2009-07-09'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 4º (na redacção da Port 739-B/2009, de 09-Jul), 5º, 7º, 9º, 13º, 14º, 15º (este último na redacção\
+    \ da Port 739-B/2009, de 09-Jul) e 17º e os anexos I (este na redacção da Port 739-B/2009, de 09-Jul), II, III e IV, e\
+    \ revogados a al. b) do art. 8º, a al. b) do nº1 do art. 9º e o art. 25º do Regulamento, aprovado pelo presente diploma,\
+    \ pela PORT.814/2010.27.08.2010.MADRP, DR.IS [167] de 27.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 9.º ( na redacção da Port. 814/2010, de 27-Ago ), 21.º e 23.º ( ambos na redacção da Port. 739-B/2009,\
+    \ de 09-Jul ) e 24.º e os anexos i ( na redacção das portarias 739-B/2009, de 09-Jul e 814/2010, de 27-Ago ) e iii e revogados\
+    \ os n.os 2 e 3 do art. 7.º do Regulamento de Aplicação da Acção n.º 2.3.1, «Minimização de Riscos», aprovado pelo presente\
+    \ diploma, pela PORT.228/2011.09.06.2011.MADRP, DR.IS [112] de 09.06.2011\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo I (retificado pela Decl-Rect 73/2008 de 05-dez, e alterado pelas Port 739-B/2009 de 09-jul,\
+    \ 814/2010 de 27-ago e 228/2011 de 09-jun); e revogado, com efeitos a 28.08.2010, o n.º 2.4 da Subação n.º 2.3.1.2 do\
+    \ mesmo anexo I do Regulamento de Aplicação da Ação n.º 2.3.1, «Minimização de Riscos» pela PORT.253/2013.07.08.2013.MAMAOT,\
+    \ DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32006R1975
   label: null
   source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: corrected_by
+  target: pt:dre:440502:por
+  label: "Rectificado o Regulamento aprovado pelo presente diploma pela DECL-RECT.73/2008.05.12.2008.PCM, DR.IS [236] de 05.12.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/73-2008-440502
+  date: '2008-12-05'
+- type: corrected_by
+  target: pt:dre:297176:por
+  label: "Rectificado o art. 19º da Port 814/2010, de 27-Ago [na redacção que conferiu ao anexo IV do presente diploma], pela\
+    \ DECL-RECT.32-A/2010.26.10.2010.PCM, DR.IS [208-Supl] de 26.10.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/32-a-2010-297176
+  date: '2010-10-26'
 article_structure:
   article_count: 28
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:08Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +191,7 @@ d) Anexo IV, relativo aos níveis dos critérios a considerar para hierarquizaç
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 7 de Outubro de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 7 de Outubro de 2008.
 
 ## ANEXO
 
@@ -569,11 +613,11 @@ c) Regime normal, o IVA não é elegível;
 
 Subacção n.º 2.3.1.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0001700024.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0001700024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0001700024.pdf)
 
 Subacção n.º 2.3.1.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0001700024.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0001700024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0001700024.pdf)
 
 ## ANEXO III — Limites máximos de apoio
 
@@ -589,4 +633,4 @@ b) Por ZIF, por fundo de investimento imobiliário florestal e organismo da admi
 
 (a que se refere o n.º 2 do artigo 13.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0001700024.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0001700024.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0001700024.pdf)

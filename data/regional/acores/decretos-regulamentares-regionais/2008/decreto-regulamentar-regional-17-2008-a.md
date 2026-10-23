@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13100/0429804310.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2008/07/09/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2008-456520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12fdac3229e78afde21bf043ceb1fbdc6489e373024d492f961e0bfa66f93608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2099ff92b7150ae397bbf0666bbe761d9edbe81a459a729c8128b726b6fe6596
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
 - Casa Degradada
 - Comparticipação do Estado
-- Renovação Urbana
+- Financiamento
+- Habitação
 - JURO Bonificado
 - Regime Jurídico
-- Habitação
-- Açores
+- Renovação Urbana
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:122393535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:276801:por
+  label: "Alterados os arts. 1º, 7º e 15º do DRR 1/2003/A, de 06-Fev, na redacção e republicado pelo presente diploma, pelo\
+    \ DRR.10/2011/A.13.04.2011.PG-RAA, DR.IS [73] de 13.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2011-276801
+  date: '2011-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/20/2005/07/22/a/dre
   label: null
@@ -105,16 +111,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/7/2004/03/26/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/7/2004/03/26/a/dre
+- type: cites
+  target: pt:dre:200031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122393535:por
+  label: Revogado o DRR 1/2003/A de 06-fev, com a redação dada pelo presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 11/2019/A - Diário da República n.º 100/2019, Série I de 2019-05-24, com efeitos nos termos do disposto no art. 31.º
+    deste último diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2019-122393535
+  date: '2019-05-24'
 article_structure:
-  article_count: 82
+  article_count: 73
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:32Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +184,9 @@ Os artigos 1.º, 7.º, 8.º, 13.º, 14.º, 15.º, 16.º, 18.º, 22.º e 23.º do
 
 O presente diploma regulamenta o regime jurídico da concessão dos apoios financeiros a obras de reabilitação, reparação e beneficiação em habitações degradadas, instituído pelo [Decreto Legislativo Regional n.º 6/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2002-250609), de 11 de Março, alterado pelos Decretos Legislativos Regionais n.os [20/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2005-240007), de 22 de Julho, e [37/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-546003), de 31 de Outubro.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -161,7 +200,9 @@ b) Da aplicação do coeficiente de 0,70 aos restantes rendimentos desta categor
 
 4 - (Revogado.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -175,7 +216,9 @@ b) Para as situações do n.º 2 do artigo 6.º, inferior a 30 000 m2 ou a 45 00
 
 4 - (Anterior n.º 3.)
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -205,7 +248,9 @@ i) ...
 
 5 - (Revogado.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 ...
 
@@ -213,7 +258,9 @@ a) Reposição dos patamares mínimos de habitabilidade;
 
 b) ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -265,7 +312,9 @@ f) (Revogada.)
 
 6 - (Revogado.)
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -283,7 +332,9 @@ e) Fiquem a dispor das condições mínimas de habitabilidade.
 
 3 - (Revogado.)
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -301,7 +352,9 @@ b) Não poderá ultrapassar os (euro) 25 000, sem prejuízo do disposto nos núm
 
 6 - O valor referido na alínea b) do n.º 2, ou aquele que for fixado na portaria a que alude o n.º 4 do presente artigo, é majorado em 15 % quando a habitação a recuperar se situe nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Nas situações previstas no artigo 13.º do presente diploma, o montante dos valores e o respectivo modo de atribuição serão fixados nos termos dos números seguintes.
 
@@ -329,7 +382,9 @@ b) Agregados incluídos nas classes ii e iii - 60 %.
 
 6 - (Revogado.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As situações previstas no artigo 14.º do presente diploma serão apreciadas como se de primeiras candidaturas se tratassem.
 
@@ -349,11 +404,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, aplica
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 14 de Maio de 2008.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Junho de 2008.**
+Assinado em Angra do Heroísmo em 25 de Junho de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

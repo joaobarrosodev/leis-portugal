@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13100/13591360.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-1980-473115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 024414e2abc2e8047f8aca25d542fcca1a67db979d56a3b316d5849a6cb59a13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54c088bedf2fbb186b2ce50961b9a9e59b880fc174d5714ae9cb2c0a0486a0cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Quadro de Pessoal
+- Rectificação de Numero de Diploma
+- Secretaria Regional do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:221698:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391264:por
+  label: "Alterado o mapa a que se refere o art. único, pelo DRR.16/81/A.1981.02.24.GR-RAA, DR.IS [46]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-1981-391264
+  date: '1981-02-24'
+- type: cites
+  target: pt:dre:682177:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439441:por
+  label: Revogado, pelo(a) Decreto Regulamentar Regional n.º 42/83/A - Diário da República n.º 206/1983, Série I de 1983-09-07,
+    na parte em que contrarie o disposto neste diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/42-1983-439441
+  date: '1983-09-07'
+- type: repealed_by
+  target: pt:dre:401498:por
+  label: "Revogado na parte relativa ao quadro de pessoal da DREFP anexo ao presente diploma, pelo DRR.44/84/A.1984.12.06.GR-RAA,\
+    \ DR.IS [282]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/44-1984-401498
+  date: '1984-12-06'
+- type: repealed_by
+  target: pt:dre:221698:por
+  label: "Revogado pelo DRR.35/86/A.1986.09.30.GR-RAA, DR.IS [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/35-1986-221698
+  date: '1986-09-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:12Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +124,20 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. O quadro do pessoal a que se refere o artigo 2.º do [Decreto Regulamentar Regional n.º 17/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1980-682177), de 7 de Abril, é substituído pelo mapa anexo ao presente diploma.
+Artigo único. O quadro do pessoal a que se refere o artigo 2.º do [Decreto Regulamentar Regional n.º 17/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1980-682177), de 7 de Abril, é substituído pelo mapa anexo ao presente diploma.
 
 Aprovado pelo Governo Regional em 10 de Abril de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 20 de Maio de 1980.**
+Assinado em Angra do Heroísmo em 20 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 Mapa a que se refere o artigo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13100/13591360.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13100/13591360.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13100/13591360.pdf)
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

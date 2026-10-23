@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/4/2005/02/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2005-603270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ad5246826d6994441a0143870d3d08aaad2a74645ef25f33e8b6f07cfbfc02fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f43b573d1d691c77acacdbae2740c0ecc875006d4fc73b04160c09e28aee868e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,12 +65,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Criação de Lugares
 - Hospital do Divino Espírito Santo
 - Pessoal Técnico de Diagnóstico e Terapêutica
 - Ponta Delgada
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:667163:por
@@ -108,16 +108,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/2000/02/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/2000/02/04/a/dre
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626047:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:07Z'
   warnings: []
   errors: []
 ---
@@ -138,13 +170,13 @@ O quadro de pessoal do Hospital do Divino Espírito Santo de Ponta Delgada, prev
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de Dezembro de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 24 de Janeiro de 2005.**
+Assinado em Angra do Heroísmo em 24 de Janeiro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — Quadro de pessoal do Hospital do Divino Espírito Santo de Ponta Delgada
 

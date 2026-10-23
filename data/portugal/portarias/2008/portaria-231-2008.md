@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04900/0147301478.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/231/2008/03/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/231-2008-247221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff041b696085872d774ebf98074ee47ff2e570e971008095c5aa2341314e76e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a59456500de4d932524296e6448d08698982827faaf312b5b9d9d36cfb356627
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,49 +65,59 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Admissão de Estrangeiros
 - Ajuda Comunitária
-- Financiamento
 - Beneficiário
-- Inspeção Geral de Finanças
 - Cidadão Estrangeiro
-- Contabilidade
 - Comissão Mista
 - Conta Bancária
+- Contabilidade
 - Definição de Competências
 - Documentação
 - Entrada de Estrangeiros
+- Financiamento
 - Fiscalização
 - Formulário Eletrónico
-- Pagamento
-- Instituto de Gestão da Tesouraria e do Crédito Público
 - Fundo Europeu para a Integração de Nacionais de Países Terceiros
-- Serviço de Estrangeiros e Fronteiras
+- Inspeção Geral de Finanças
+- Instituto de Gestão da Tesouraria e do Crédito Público
 - Organismo de Controlo
+- Pagamento
 - Países Terceiros
-- Tesouraria
 - Prazo
 - Reembolso
 - Regulamento
-- Admissão de Estrangeiros
+- Serviço de Estrangeiros e Fronteiras
+- Tesouraria
 relationships:
 - type: amended_by
   target: pt:dre:499242:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342823:por
+  label: "Alterados os art.s 5º, 10º, 16º e 18º, pela PORT.1042/2010.08.10.2010.PCM, DR.IS [196] de 08.10.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1042-2010-342823
+  date: '2010-10-08'
 - type: cites
   target: celex:32007D0435
   label: null
   source: http://data.europa.eu/eli/dec/2007/435/oj
+- type: repealed_by
+  target: pt:dre:499242:por
+  label: "Revogada pela PORT.270/2013.20.08.2013.PCM, DR.IS [159] de 20.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/270-2013-499242
+  date: '2013-08-20'
 article_structure:
   article_count: 34
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:02Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +140,7 @@ Ao abrigo da alínea g) do artigo 199.º da Constituição da República Portugu
 
 Em 7 de Janeiro de 2008.
 
-**O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira. - O Ministro da Administração Interna, Rui Carlos Pereira.**
+O Ministro da Presidência, Manuel Pedro Cunha da Silva Pereira. - O Ministro da Administração Interna, Rui Carlos Pereira.
 
 ## ANEXO — REGULAMENTO DO FINANCIAMENTO PELO FUNDO INTEGRAÇÃO DE NACIONAIS DE PAÍSES TERCEIROS
 

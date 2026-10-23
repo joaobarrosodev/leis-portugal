@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/9/1993/07/27/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/9-1993-345297
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5449adb7ac4a525c577571d5a77d3f81f37002ea55fa5a4c8cec44e54505882
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f00394d14baadf5a7e860a9a28ad7bb4da3009345f99d22191cb84272a0013c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Planeamento Regional
 - Plano Regional
 - Responsabilidade Financeira
-- Açores
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O PLANO REGIONAL, PELA RESOLUÇÃO 11/93/A, DE 22 DE OUTUBRO, PUBLICADA NO DR.IS-B, 283, DE 931204.\031204.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: cites
   target: celex:31991R2328
   label: null
@@ -77,13 +81,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:00Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +100,7 @@ A Assembleia Legislativa Regional dos Açores resolve, nos termos da alínea o) 
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Maio de 1993.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
 PLANO REGIONAL PARA O ANO DE 1993
 
@@ -148,7 +152,7 @@ Existe um acréscimo de 1000 milhões de escudos em relação ao previsto na ant
 
 Por eixos de desenvolvimento, a repartição do investimento para 1993 é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf))](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
 
 IV - Recursos financeiros
 
@@ -162,7 +166,7 @@ V - Desenvolvimento da programação
 
 O Plano para 1993 está contido em 29 programas, que englobam cerca de 250 acções. Mantém-se a estrutura adoptada para o PMP, em que no essencial se pode analisar o corpo da política de investimentos em quatro grandes eixos de intervenção. É nesta perspectiva que a seguir se apresenta a programação sectorial, devendo-se encontrar a justificação das linhas programáticas no Plano a Médio Prazo 1993-1996.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf))](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
 
 Eixo I - Dinamização da actividade económica
 
@@ -178,7 +182,7 @@ Ter-se-á de reter que, em termos de incentivos financeiros que recebem apoio do
 
 Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf))](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
 
 Programa n.º 1 - Agricultura
 
@@ -260,7 +264,7 @@ São cinco os programas afectos a este eixo, cobrindo sectores como a educação
 
 Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf))](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
 
 Programa n.º 8 - Construções escolares
 
@@ -306,7 +310,7 @@ Beneficiação do Edifício do Departamento de Geociências;
 
 Reconstrução do edifício da Reitoria;
 
-## Anexo do Departamento de Geociências;
+Anexo do Departamento de Geociências;
 
 Beneficiação das instalações do pólo da Terra Chã;
 
@@ -398,7 +402,7 @@ São cinco os programas afectos a este eixo, cobrindo aqueles vectores estratég
 
 Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf))](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
 
 Programa n.º 13 - Transportes terrestres
 
@@ -450,7 +454,7 @@ São vários os subeixos de actuação, desde a defesa e preservação do ambien
 
 Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf))](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
 
 Programa n.º 18 - Ambiente
 
@@ -640,7 +644,7 @@ Em termos de impacte financeiro em 1993, as acções mais relevantes são natura
 
 Sectores/programas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf))](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/174b00/40424052.pdf)
 
 Programa n.º 28 - Administração regional e local
 

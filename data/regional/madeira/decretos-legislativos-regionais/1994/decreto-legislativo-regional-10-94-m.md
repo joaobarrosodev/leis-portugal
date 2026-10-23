@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10/1994/04/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1994-265559
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c8ca710634aae105ab79d6747c1244c2ae56b503310496c30ebed803378852e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57c4186f00d151a31fbfce527be7201dd532629382925b1047e09a6cff9bf80e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Docente
+- Ensino Superior
 - Estágio de Formação
 - Madeira.região Autónoma
-- Ensino Superior
+- Pessoal Docente
 - Remuneração
 relationships:
 - type: cites
@@ -81,16 +81,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:273826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309694:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377538:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673392:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:55Z'
   warnings: []
   errors: []
 ---
@@ -107,14 +131,14 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º Enquanto não for aplicado à Região Autónoma da Madeira, por decreto regulamentar regional, o [Decreto Regulamentar n.º 14/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1993-273826), de 5 de Maio, os alunos do estágio pedagógico do ramo de formação educacional das licenciaturas das Faculdades de Ciências e do estágio pedagógico das licenciaturas em ensino têm, para efeitos de remuneração, estatuto equiparado ao estatuto remuneratório dos docentes com habilitação própria de grau superior.
+Artigo 1.º Enquanto não for aplicado à Região Autónoma da Madeira, por decreto regulamentar regional, o [Decreto Regulamentar n.º 14/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1993-273826), de 5 de Maio, os alunos do estágio pedagógico do ramo de formação educacional das licenciaturas das Faculdades de Ciências e do estágio pedagógico das licenciaturas em ensino têm, para efeitos de remuneração, estatuto equiparado ao estatuto remuneratório dos docentes com habilitação própria de grau superior.
 
-###### Art. 2.º Este diploma reporta os seus efeitos a 1 de Setembro de 1992.
+Art. 2.º Este diploma reporta os seus efeitos a 1 de Setembro de 1992.
 
 Aprovado em sessão plenária de 1 de Março de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 29 de Março de 1994.**
+Assinado em 29 de Março de 1994.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

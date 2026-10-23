@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/2005/08/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2005-243362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f40b8cfb15d0a5353080330b0603b4bcb4a63b2259d66c2ed59deb84519e47da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b005327762433b515682880c76359a33e3639266de1bef5f25d0bebd02c168f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
-- Conselho Consultivo Regional para os Assuntos da Imigração
-- Presidência do Governo Regional
-- Diretor Regional
 - Açores
+- Conselho Consultivo Regional para os Assuntos da Imigração
+- Diretor Regional
+- Imigração
+- Presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:572575:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:448959:por
+  label: "Alterados os arts. 3.º e 5.º do DRR 30/2002/A, de 22-Nov, alterado e republicado pelo presente diploma, e republicado\
+    \ em anexo com as alterações ora introduzidas, pelo DRR.11/2008/A.02.06.2008.PG-RAA, DR.IS [105] de 02.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2008-448959
+  date: '2008-06-02'
+- type: amended_by
+  target: pt:dre:492759:por
+  label: "Alterados os arts. 1º e 3º do DRR 30/2002/A de 22-Nov, com a redacção constante do presente diploma, pelo DRR.10/2009/A.28.07.2009.PG-RAA,\
+    \ DR.IS [144] de 28.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2009-492759
+  date: '2009-07-28'
+- type: amended_by
+  target: pt:dre:572575:por
+  label: "Alterados os arts 1.º, 3.º a 5.º do DRR 30/2002/A, de 22-nov, na redação do presente diploma, republicado pelo DRR.3/2014/A.13.02.2014.PG-RAA,\
+    \ DR.IS [31] de 13.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2014-572575
+  date: '2014-02-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/30/2002/11/22/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/30/2002/11/22/a/dre
+- type: cites
+  target: pt:dre:448725:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
+  article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:04Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +140,9 @@ Objectivos
 
 É criado, no âmbito da Presidência do Governo Regional, o Conselho Consultivo Regional para os Assuntos da Imigração, com vista a assegurar a participação e a colaboração das associações representativas dos imigrantes, dos parceiros sociais, das instituições de solidariedade social e outras organizações que prestem apoio social e cultural aos imigrantes na definição e coordenação das políticas de integração social e de combate à exclusão.
 
-###### Artigo 3.º — Composição
+Artigo 3.º
+
+Composição
 
 1 - O Conselho Consultivo é presidido pelo director regional com competência em matéria de imigração e tem a seguinte composição:
 
@@ -158,11 +182,15 @@ p) Representantes de outras organizações que prestem apoio social e cultural a
 
 3 - ...
 
-###### Artigo 4.º — Reuniões
+Artigo 4.º
+
+Reuniões
 
 O Conselho Consultivo reúne ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente ou quando, pelo menos, um terço dos seus membros o solicite, devendo, neste último caso, indicar a matéria a ser incluída na ordem de trabalhos.
 
-###### Artigo 5.º — Apoio ao funcionamento do Conselho Consultivo
+Artigo 5.º
+
+Apoio ao funcionamento do Conselho Consultivo
 
 1 - Compete aos serviços dependentes da Direcção Regional das Comunidades prestar o apoio técnico e administrativo ao funcionamento do Conselho Consultivo.
 
@@ -178,13 +206,13 @@ O [Decreto Regulamentar Regional n.º 30/2002/A](https://diariodarepublica.pt/dr
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 11 de Julho de 2005.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 25 de Julho de 2005.**
+Assinado em Angra do Heroísmo em 25 de Julho de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — Republicação do [Decreto Regulamentar Regional n.º 30/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2002-448725), de 22 de Novembro
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/07/15500/16461646.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/12-1981-580289
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 888daa7a4f8d2bb2c587b0ebf32be2dec02ff0f437098e8e3b17bffb7c30f472
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a4b8f7e79c962401ca731fcccef43005324c34b8fa55a1b8eff6204d84acfbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ajudas de Custo
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:223192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:233690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647321:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223192:por
+  label: "Revogado pelo DLR.16/98/A.1998.10.23.ALR-RAA, DR.IS-A [257] de 06/Nov/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-1998-223192
+  date: '1998-10-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:18Z'
   warnings: []
   errors: []
 ---
@@ -103,18 +119,18 @@ Por outro lado, considerando a necessidade de fixação de docentes com habilita
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Governo Regional poderá conceder aos funcionários docentes que, em virtude de nomeação ou contrato, tenham de se deslocar na Região Autónoma dos Açores ajudas de custo, assim como suportar os encargos com passagens e bagagens para os docentes e seus familiares.
+Artigo 1.º O Governo Regional poderá conceder aos funcionários docentes que, em virtude de nomeação ou contrato, tenham de se deslocar na Região Autónoma dos Açores ajudas de custo, assim como suportar os encargos com passagens e bagagens para os docentes e seus familiares.
 
-###### Art. 2.º O previsto no artigo anterior será estabelecido por decreto regulamentar regional, onde se fixarão os montantes, as condições de atribuição e as ilhas ou zonas para onde se deslocam os docentes.
+Art. 2.º O previsto no artigo anterior será estabelecido por decreto regulamentar regional, onde se fixarão os montantes, as condições de atribuição e as ilhas ou zonas para onde se deslocam os docentes.
 
-###### Art. 3.º O estipulado no presente diploma não é extensivo aos docentes que, em virtude de nomeação ou contrato, tenham de se deslocar para a Região ou desta para o exterior, exceptuando-se as situações em que, por necessidade de serviço, seja necessário requisitar pessoal docente fora da Região.
+Art. 3.º O estipulado no presente diploma não é extensivo aos docentes que, em virtude de nomeação ou contrato, tenham de se deslocar para a Região ou desta para o exterior, exceptuando-se as situações em que, por necessidade de serviço, seja necessário requisitar pessoal docente fora da Região.
 
 Aprovado pela Assembleia Regional dos Açores em 3 de Junho de 1981.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
-**Assinado em Angra do Heroísmo em 22 de Junho de 1981.**
+Assinado em Angra do Heroísmo em 22 de Junho de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.

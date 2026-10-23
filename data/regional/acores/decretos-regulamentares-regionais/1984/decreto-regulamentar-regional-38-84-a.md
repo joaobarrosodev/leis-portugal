@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1984/11/26400/34553455.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/38-1984-400815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22f87a0b3c1af5806ee4dfc72707a4963442160430b63eaa9657b5cf582f1c6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5d738553920422b6870cfb67057acc9195f215392ceea38dae0f71ede86e26c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Governo Regional
+- Presidência do Governo Regional
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:287413:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:578479:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DRR 12/88/A DE 11-MAR DR.IS [59]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1988-03-11'
+- type: repealed_by
+  target: pt:dre:287413:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 12/88/A - Diário da República n.º 59/1988, Série I de 1988-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1988-287413
+  date: '1988-03-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:17Z'
   warnings: []
   errors: []
 ---
@@ -90,18 +109,18 @@ Havendo necessidade de se proceder à alteração do quadro de pessoal da Secret
 
 O Governo Regional decreta, nos termos do artigo 229.º, alínea d), da Constituição, o seguinte:
 
-###### Artigo único. O quadro de pessoal a que se refere o artigo único do [Decreto Regulamentar Regional n.º 33/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1981-578479), de 26 de Junho, passa a ter a composição constante do quadro anexo ao presente diploma.
+Artigo único. O quadro de pessoal a que se refere o artigo único do [Decreto Regulamentar Regional n.º 33/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-1981-578479), de 26 de Junho, passa a ter a composição constante do quadro anexo ao presente diploma.
 
 Aprovado em Conselho do Governo Regional em 27 de Setembro de 1984.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 29 de Outubro de 1984.**
+Assinado em Angra do Heroísmo em 29 de Outubro de 1984.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo único
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1984/11/26400/34553455.pdf))](https://files.diariodarepublica.pt/1s/1984/11/26400/34553455.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/11/26400/34553455.pdf)

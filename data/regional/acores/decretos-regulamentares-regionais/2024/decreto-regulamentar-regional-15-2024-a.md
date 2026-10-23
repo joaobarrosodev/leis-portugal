@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2024/10/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2024-893516876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a13c200af456a19f2b438f899e1aa5f4cbd82c33a3e1e78aaaaad019d80f153
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc94eede4ccb5af032a957bc3df011fe09b9aa33fae25b76ee10e449b5ffb1cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Imigração
+- Açores
 - Comunicação Social
-- Governo Regional
-- Língua Portuguesa
 - Cultura Portuguesa
 - Definição de Competências
-- Integração de Trabalhadores
-- Orgânica
 - Emigração
+- Governo Regional
+- Imigração
+- Integração de Trabalhadores
+- Língua Portuguesa
+- Orgânica
 - Secretaria Regional
-- Açores
 - Secretário Regional dos Assuntos Parlamentares e Comunidades
 relationships:
 - type: cites
@@ -103,16 +103,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/3/2024/04/11/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/3/2024/04/11/a/dre
+- type: cites
+  target: pt:dre:227673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:860106954:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:01Z'
   warnings: []
   errors: []
 ---
@@ -163,11 +175,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 18 de setembro de 2024.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 24 de outubro de 2024.**
+Assinado em Angra do Heroísmo em 24 de outubro de 2024.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -305,7 +317,9 @@ d) O Gabinete Jurídico;
 
 e) O Serviço de Informática.
 
-###### Artigo 8.º — Secção de Expediente e Arquivo
+###### Artigo 8.º
+
+#### Secção de Expediente e Arquivo
 
 1 - À Secção de Expediente e Arquivo, doravante designada por SEA, compete:
 
@@ -325,7 +339,9 @@ g) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SEA é coordenada por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 9.º — Secção de Recursos Humanos
+###### Artigo 9.º
+
+#### Secção de Recursos Humanos
 
 1 - À Secção de Recursos Humanos, doravante designada por SRH, compete:
 
@@ -355,7 +371,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A SRH é coordenada por um coordenador técnico, da carreira de assistente técnico.
 
-###### Artigo 10.º — Secção de Contabilidade e Património
+###### Artigo 10.º
+
+#### Secção de Contabilidade e Património
 
 1 - À Secção de Contabilidade e Património, doravante designada por SCP, compete:
 
@@ -511,7 +529,9 @@ a) A Divisão de Apoio às Comunidades;
 
 b) A Divisão de Apoio às Migrações.
 
-###### Artigo 15.º — Divisão de Apoio às Comunidades
+###### Artigo 15.º
+
+##### Divisão de Apoio às Comunidades
 
 1 - À Divisão de Apoio às Comunidades, doravante designada por DAC, compete:
 
@@ -561,7 +581,9 @@ v) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAC é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 16.º — Divisão de Apoio às Migrações
+###### Artigo 16.º
+
+##### Divisão de Apoio às Migrações
 
 1 - À Divisão de Apoio às Migrações, doravante designada por DAM, compete:
 
@@ -701,27 +723,82 @@ O pessoal afeto aos serviços que integram a SRAPC consta dos respetivos quadros
 
 Quadro do pessoal dirigente, de direção específica e de chefia da Secretaria Regional dos Assuntos Parlamentares e Comunidades
 
-| Número de lugares | Designação do cargo | Remuneração |
+| Número<br>de lugares | Designação do cargo | Remuneração |
 | --- | --- | --- |
-|  | Serviços Executivos Centrais |  |
-|  | Serviços diretamente dependentes do secretário regional |  |
-|  | Pessoal dirigente |  |
-| 1 | Diretor de Serviços da Direção de Serviços Técnico-Administrativos, cargo de direção intermédia de 1.º grau | (a) |
-|  | Pessoal de chefia |  |
-| 1 | Coordenador técnico da Secção de Expediente e Arquivo | (c) |
-| 1 | Coordenador técnico da Secção de Recursos Humanos | (c) |
-| 1 | Coordenador técnico da Secção de Contabilidade e Património | (c) |
-|  | Direção Regional das Comunidades |  |
-|  | Pessoal dirigente |  |
-| 1 | Diretor regional das Comunidades, cargo de direção superior de 1.º grau | (a) |
-| 1 | Chefe de divisão de Apoio às Comunidades | (a) |
-| 1 | Chefe de divisão de Apoio às Migrações | (a) |
-|  | Gabinete dos Assuntos Parlamentares |  |
-|  | Pessoal de direção específica |  |
-| 1 | Coordenador, cargo de direção específica de 1.º grau | (d) |
-|  | Departamento de Comunicação e Media |  |
-|  | Outro pessoal de chefia |  |
-| 1 | Coordenador do Departamento de Comunicação e Media | (b) |
+
+Serviços Executivos Centrais
+
+Serviços diretamente dependentes do secretário regional
+
+Pessoal dirigente
+
+1
+
+Diretor de Serviços da Direção de Serviços Técnico-Administrativos, cargo de direção intermédia de 1.º grau
+
+(a)
+
+Pessoal de chefia
+
+1
+
+Coordenador técnico da Secção de Expediente e Arquivo
+
+(c)
+
+1
+
+Coordenador técnico da Secção de Recursos Humanos
+
+(c)
+
+1
+
+Coordenador técnico da Secção de Contabilidade e Património
+
+(c)
+
+Direção Regional das Comunidades
+
+Pessoal dirigente
+
+1
+
+Diretor regional das Comunidades, cargo de direção superior de 1.º grau
+
+(a)
+
+1
+
+Chefe de divisão de Apoio às Comunidades
+
+(a)
+
+1
+
+Chefe de divisão de Apoio às Migrações
+
+(a)
+
+Gabinete dos Assuntos Parlamentares
+
+Pessoal de direção específica
+
+1
+
+Coordenador, cargo de direção específica de 1.º grau
+
+(d)
+
+Departamento de Comunicação e Media
+
+Outro pessoal de chefia
+
+1
+
+Coordenador do Departamento de Comunicação e Media
+
+(b)
 
 (a) Remuneração de acordo com o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
@@ -730,3 +807,5 @@ Quadro do pessoal dirigente, de direção específica e de chefia da Secretaria 
 (c) Remuneração de acordo com o Decreto-Lei n.º 84-F/2022, de 16 de dezembro, alterado pelo Decreto-Lei n.º 26-B/2023, de 18 de abril, pelo Decreto-Lei n.º 108/2023, de 22 de novembro, e pelo Decreto-Lei n.º 13/2024, de 10 de janeiro.
 
 (d) Remuneração de acordo com o artigo 6.º Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
+
+118274202

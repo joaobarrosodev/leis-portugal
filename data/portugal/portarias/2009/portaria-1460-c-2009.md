@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 252/2009, 2º Suplemento, Série I de 2009-12-31
   number: '252'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 8920-(22) a 8920-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/2009/12/25202/0002200022.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1460-c/2009/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1460-c-2009-233711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33cf3a76f8b9515d07ff4b8509504a2052da288ca9f546d53a63985ee5aaf4db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38e2b9a2ae2d2322bb97359ff939df7a2fbf5b22a73070026824165d60535343
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Despedimento
-- Processo Laboral
 - Impresso
 - Impugnação
+- Processo Laboral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/295/2009/10/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/295/2009/10/13/p/dre
+- type: cites
+  target: pt:dre:491731:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:26Z'
   warnings: []
   errors: []
 ---
@@ -104,6 +108,6 @@ Ao abrigo do disposto no n.º 2 do artigo 98.º-D do Código de Processo do Trab
 
 Em 30 de Dezembro de 2009.
 
-**O Ministro da Justiça, Alberto de Sousa Martins. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André.**
+O Ministro da Justiça, Alberto de Sousa Martins. - A Ministra do Trabalho e da Solidariedade Social, Maria Helena dos Santos André.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/12/25202/0002200022.pdf))](https://files.diariodarepublica.pt/1s/2009/12/25202/0002200022.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/12/25202/0002200022.pdf)

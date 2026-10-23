@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2012/08/15800/0456104566.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2012/08/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2012-175319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-07-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 577b935f0de2b4e4418fdfe54f17e1e5e1bceac724622319cd718881d999ced6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cf9f54762c4b597c42a1ce1b2a1c9e74c32b64656985670a0820c1bc1c8c50b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,16 +117,81 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30/2006/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30/2006/07/11/p/dre
+- type: cites
+  target: pt:dre:152531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:74967188:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 30/2016/M - Diário da República n.º 136/2016, Série I de 2016-07-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-2016-74967188
+  date: '2016-07-18'
 article_structure:
   article_count: 22
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:29Z'
   warnings: []
   errors: []
 ---
@@ -423,11 +488,11 @@ O presente diploma entra em vigor 60 dias após a sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 3 de julho de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 24 de julho de 2012.**
+Assinado em 24 de julho de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
 

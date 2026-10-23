@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/03/06600/13861387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1990-333282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61a8d13bef8a47fc17663dae752929d89ef770278426b1c3ea696ce82cbc7d66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d62b3c8f656a98ef4c0b547ca5ce5ed4efdbf83615bde0513954dfe5fdce5f0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- ÁREA de Jurisdição
+- Junta Autónoma dos Portos
+- Portos
+- Portos dos Açores
 relationships:
 - type: amended_by
   target: pt:dre:671590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:671590:por
+  label: "Revogado pelo DLR.24/2011/A.22.08.2011.AL-RAA, DR.IS [160] de 22.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/24-2011-671590
+  date: '2011-08-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:34Z'
   warnings: []
   errors: []
 ---
@@ -98,34 +108,34 @@ Assim:
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea g), da Constituição e do artigo 56.º, alíneas c) e h), do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
 
-###### Artigo 1.º O presente diploma aplica-se à utilização dos terrenos do domínio privado da Região Autónoma dos Açores contíguos à área de jurisdição pertencente à Junta Autónoma dos Portos de Angra do Heroísmo e relativa ao porto da Praia da Vitória.
+Artigo 1.º O presente diploma aplica-se à utilização dos terrenos do domínio privado da Região Autónoma dos Açores contíguos à área de jurisdição pertencente à Junta Autónoma dos Portos de Angra do Heroísmo e relativa ao porto da Praia da Vitória.
 
-###### Art. 2.º Os terrenos definidos no artigo anterior destinam-se à implantação de instalações com vista ao exercício de actividades de natureza industrial e comercial.
+Art. 2.º Os terrenos definidos no artigo anterior destinam-se à implantação de instalações com vista ao exercício de actividades de natureza industrial e comercial.
 
-###### Art. 3.º O regime de utilização de cada parcela de terreno será o de concessão, por prazo a determinar nos termos do artigo seguinte e mediante o pagamento de uma taxa anual a fixar, caso a caso, pelos Secretários Regionais das Finanças e Planeamento e da Economia.
+Art. 3.º O regime de utilização de cada parcela de terreno será o de concessão, por prazo a determinar nos termos do artigo seguinte e mediante o pagamento de uma taxa anual a fixar, caso a caso, pelos Secretários Regionais das Finanças e Planeamento e da Economia.
 
-###### Art. 4.º O prazo de vigência de cada concessão será estabelecido em função dos investimentos a realizar pelo interessado e dos respectivos períodos de amortização.
+Art. 4.º O prazo de vigência de cada concessão será estabelecido em função dos investimentos a realizar pelo interessado e dos respectivos períodos de amortização.
 
-###### Art. 5.º - 1 - As obras e edificações realizadas pelo concessionário reverterão, pelo seu valor residual, para a Região Autónoma dos Açores, findo o prazo da concessão, cabendo, porém, àquele toda a responsabilidade pela sua adequada conservação e manutenção e, bem assim, dos necessários seguros.
+Art. 5.º - 1 - As obras e edificações realizadas pelo concessionário reverterão, pelo seu valor residual, para a Região Autónoma dos Açores, findo o prazo da concessão, cabendo, porém, àquele toda a responsabilidade pela sua adequada conservação e manutenção e, bem assim, dos necessários seguros.
 
 2 - Na falta de acordo, o valor residual será fixado por uma comissão arbitral.
 
-###### Art. 6.º Os interessados em cada concessão deverão dirigir as suas pretensões ao Secretário Regional da Economia, as quais serão acompanhadas dos elementos respeitantes à actividade que pretendem exercer e às obras que se propõem levar a efeito, incluindo o prazo para a sua execução.
+Art. 6.º Os interessados em cada concessão deverão dirigir as suas pretensões ao Secretário Regional da Economia, as quais serão acompanhadas dos elementos respeitantes à actividade que pretendem exercer e às obras que se propõem levar a efeito, incluindo o prazo para a sua execução.
 
-###### Art. 7.º O Secretário Regional da Economia poderá solicitar do interessado as informações complementares que julgue convenientes, posto o que decidirá sobre a pretensão, em despacho fundamentado, que incluirá as condições concretas da concessão.
+Art. 7.º O Secretário Regional da Economia poderá solicitar do interessado as informações complementares que julgue convenientes, posto o que decidirá sobre a pretensão, em despacho fundamentado, que incluirá as condições concretas da concessão.
 
-###### Art. 8.º A concessão será formalizada por contrato escrito, cuja posição é intransmissível pelo concessionário, salvo autorização, caso a caso, pelo concedente.
+Art. 8.º A concessão será formalizada por contrato escrito, cuja posição é intransmissível pelo concessionário, salvo autorização, caso a caso, pelo concedente.
 
-###### Art. 9.º O contrato de concessão poderá ser rescindido por acto administrativo, nos termos gerais de direito, e ainda naqueles que especificamente nele forem previstos.
+Art. 9.º O contrato de concessão poderá ser rescindido por acto administrativo, nos termos gerais de direito, e ainda naqueles que especificamente nele forem previstos.
 
-###### Art. 10.º O disposto no presente diploma entende-se sem prejuízo das competências legalmente estabelecidas quanto a urbanismo e licenciamento de obras.
+Art. 10.º O disposto no presente diploma entende-se sem prejuízo das competências legalmente estabelecidas quanto a urbanismo e licenciamento de obras.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 23 de Janeiro de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 28 de Fevereiro de 1990.**
+Assinado em Angra do Heroísmo em 28 de Fevereiro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/578/2009/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/578-2009-494196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81c09e2cd5281f61a514cbe53593e7621cf831cdf84a635af353f81eb52b6f8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f8a188c96d8fab869d5d55a6266ee097507306fb42b516a3d07b844602f750a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Rede
-- Financiamento
 - Equipamento Hospitalar
-- Projeto de Investimento
-- Pessoa Colectiva de Direito Privado sem FINS Lucrativos
-- Regulamento
 - Estabelecimento Hospitalar
+- Financiamento
+- Pessoa Colectiva de Direito Privado sem FINS Lucrativos
+- Projeto de Investimento
+- Rede
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/186/2006/09/12/p/dre
@@ -81,16 +81,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/376/2008/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/376/2008/05/23/p/dre
+- type: cites
+  target: pt:dre:540026:por
+  label: null
+  source: null
 article_structure:
-  article_count: 31
+  article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:05Z'
   warnings: []
   errors: []
 ---
@@ -127,7 +131,9 @@ a) Aquisição de equipamento relativo a unidades de internamento que já integr
 
 b) Aquisição de equipamento relativo a unidades de internamento que constem do plano de implementação.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -143,11 +149,15 @@ b) Aquisição de equipamento relativo a unidades de internamento que constem do
 
 7 - (Anterior n.º 6.)
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Os avisos de abertura das candidaturas ao apoio financeiro previsto neste Regulamento são fixados por despacho da Ministra da Saúde e são publicitados no sítio da Internet de cada ARS e em dois jornais de âmbito nacional.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -187,7 +197,7 @@ iii) ...
 
 10 - (Anterior n.º 7.)
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - As candidaturas são apreciadas por uma comissão composta por elementos da ARS, a designar pelo conselho directivo, que pode integrar também dois elementos da Unidade de Missão para os Cuidados Continuados Integrados.
 
@@ -211,7 +221,7 @@ São republicados no anexo ii da presente portaria, da qual fazem parte integran
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 25 de Maio de 2009.**
+A Ministra da Saúde, Ana Maria Teodoro Jorge, em 25 de Maio de 2009.
 
 ## ANEXO I — Programas funcionais anexos ao Regulamento do Programa Modelar
 
@@ -249,7 +259,7 @@ Caso a unidade se situe a um nível diferente do piso de entrada, deve existir m
 
 Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
 
 2 - Programa funcional tipo - Convalescença
 
@@ -289,7 +299,7 @@ Caso a unidade se situe a um nível diferente do piso de entrada, deve existir m
 
 Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
 
 3 - Programa funcional tipo - Reabilitação ou média duração
 
@@ -329,7 +339,7 @@ Caso a unidade se situe a um nível diferente do piso de entrada, deve existir m
 
 Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
 
 4 - Programa funcional tipo - Manutenção ou longa duração
 
@@ -369,7 +379,7 @@ Caso a unidade se situe a um nível diferente do piso de entrada, deve existir m
 
 Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
 
 ## ANEXO II — Regulamento do programa modelar
 
@@ -681,7 +691,7 @@ Caso a unidade se situe a um nível diferente do piso de entrada, deve existir m
 
 Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
 
 2 - Programa funcional tipo - Convalescença
 
@@ -721,7 +731,7 @@ Caso a unidade se situe a um nível diferente do piso de entrada, deve existir m
 
 Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
 
 3 - Programa funcional tipo - Reabilitação ou média duração
 
@@ -761,7 +771,7 @@ Caso a unidade se situe a um nível diferente do piso de entrada, deve existir m
 
 Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
 
 4 - Programa funcional tipo - Manutenção ou longa duração
 
@@ -801,4 +811,4 @@ Caso a unidade se situe a um nível diferente do piso de entrada, deve existir m
 
 Em caso de impossibilidade, admite-se a instalação de monta-macas, com as dimensões mínimas de 2,1 m x 1,3 m x 2,2 m (comprimento x largura x altura), com porta automática de 1,2 m de abertura útil e altura livre de passagem de 2 m.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf))](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/06/10500/0340203422.pdf)

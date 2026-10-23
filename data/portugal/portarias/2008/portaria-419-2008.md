@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/419/2008/06/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/419-2008-449689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da107e4b2afe2d910dfc216780467f83c8356c959abc96e197b48b2a813c0f3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5bb3737a6f0c2074de45cc1f5a24c0de66eb31115c74b85f28ddff085973a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ subjects:
 - CTT
 - Postal Comemorativo
 - SELO Postal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:179355:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:13Z'
   warnings: []
   errors: []
 ---
@@ -99,4 +103,4 @@ Taxa: taxa paga (válido para o 1.º escalão do serviço normal nacional);
 
 A presente portaria produz efeitos à data de 22 de Maio de 2008.
 
-**O Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos, em 3 de Junho de 2008.**
+O Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos, em 3 de Junho de 2008.

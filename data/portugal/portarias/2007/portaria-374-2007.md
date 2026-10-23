@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/374/2007/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/374-2007-520412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-07-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c5fcde9256c1fd3c2aeb9d27a4995a5ed9192a52ff7e2be8604b6e2f639c763
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af9af536c3e53cfbbb0f72e067ad2304312454b488e2e33a10eeb48bde5350c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,19 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto
 - Cinemateca Portuguesa-Museu do Cinema
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:334101:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:334101:por
+  label: "Alterado o art. 1º, aditado um art. 3º-A e republicados os Estatutos PORT.560/2010.23.07.2010.MFAP, DR.IS [142]\
+    \ de 23.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/560-2010-334101
+  date: '2010-07-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/94/2007/03/29/p/dre
   label: null
@@ -80,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:520438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:638531:por
+  label: "Rectificada pela DECL-RECT.50/2007.25.05.2007.PCM, DR.IS [103] de 29.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/50-2007-638531
+  date: '2007-05-25'
 article_structure:
   article_count: 6
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:10Z'
   warnings: []
   errors: []
 ---
@@ -248,7 +267,9 @@ h) Recolher, tratar e divulgar a informação cinematográfica nacional e estran
 
 i) Disponibilizar o serviço de leitura presencial bem como formas adequadas de difusão da informação de todo o material bibliográfico existente, impresso ou não impresso.
 
-###### Artigo 4.º — Divisão de Gestão
+###### Artigo 4.º
+
+##### Divisão de Gestão
 
 À Divisão de Gestão, abreviadamente designada por DG, compete:
 

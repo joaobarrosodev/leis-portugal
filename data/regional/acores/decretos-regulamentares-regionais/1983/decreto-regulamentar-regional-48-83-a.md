@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1983-443676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e72ad8e4ba90232bec8fdd02fac876c162088058609b38561fceb01da7087dc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c78fd8d1ae07eb16f82e4d9d7ece6db521de725d4e811bce2d7a734935576f76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Fundo de Desemprego
+- Gabinete Regional de Gestão do Fundo de Desemprego
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:421647:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:05Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Considerando a importância daquele organismo no domínio da política de empreg
 
 O Governo Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º São alterados pela forma abaixo indicada os artigos 3.º, 4.º, 7.º, 8.º e 14.º do [Decreto Regulamentar Regional n.º 41/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1982-378075), de 9 de Novembro, ao qual é também aditado um artigo, o 17.º-A:
+Artigo 1.º São alterados pela forma abaixo indicada os artigos 3.º, 4.º, 7.º, 8.º e 14.º do [Decreto Regulamentar Regional n.º 41/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1982-378075), de 9 de Novembro, ao qual é também aditado um artigo, o 17.º-A:
 
 ###### ARTIGO 3.º — (Atribuições)
 
@@ -185,20 +197,20 @@ h) ...
 
 O pessoal dirigente e técnico de inspecção do GRGFD utilizará, no exercício das suas funções, um cartão de identidade, a emitir nas condições a regulamentar por portaria do Secretário Regional do Trabalho.
 
-###### Art. 2.º É revogado o n.º 2 do artigo 5.º do [Decreto Regulamentar Regional n.º 41/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1982-378075), de 9 de Novembro.
+Art. 2.º É revogado o n.º 2 do artigo 5.º do [Decreto Regulamentar Regional n.º 41/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1982-378075), de 9 de Novembro.
 
-###### Art. 3.º O quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 41/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1982-378075), de 9 de Novembro, é substituído pelo que se encontra anexo ao presente diploma.
+Art. 3.º O quadro de pessoal anexo ao [Decreto Regulamentar Regional n.º 41/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1982-378075), de 9 de Novembro, é substituído pelo que se encontra anexo ao presente diploma.
 
 Aprovado em Conselho do Governo Regional em 3 de Agosto de 1983.
 
-**O Presidente do Governo Regional, João Bosco da Mota Amaral.**
+O Presidente do Governo Regional, João Bosco da Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 12 de Outubro de 1983.**
+Assinado em Angra do Heroísmo em 12 de Outubro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**
+O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.
 
 Quadro de pessoal do GRGFD
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/11/25400/37553756.pdf))](https://files.diariodarepublica.pt/1s/1983/11/25400/37553756.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/11/25400/37553756.pdf)

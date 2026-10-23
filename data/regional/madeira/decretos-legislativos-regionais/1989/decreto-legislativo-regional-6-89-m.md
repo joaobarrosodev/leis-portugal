@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1989-612467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b78c2bd617f7ed19063809bd5c6d8192e9259bfaf9b8559ac97fc6f5d424149f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92c2ecccfbe1f9bff187fc3b51ee4f74924665128df3774c22f2e2e126d25287
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:571259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:571259:por
+  label: "Aprovada nova estrutura orgânica, pelo DRR.6-A/93/M.24.03.1993.GR-RAM, DR.IS-B [71]Supl de 25.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-a-1993-571259
+  date: '1993-03-24'
+- type: cites
+  target: pt:dre:179992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569901:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626807:por
+  label: "Revogado, com a entrada em vigor do diploma a que se refere o art. 13.º do DLR 26/92/M, de 11-Nov, relativo à Secretaria\
+    \ Regional dos Assuntos Sociais, com excepção dos seus arts 5.º, n.º 2, e 7.º, n.º 2, pelo DLR.3/93/M.10.02.1993.ALR-RAM,\
+    \ DR.IS-A [50] de 01.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1993-626807
+  date: '1993-02-10'
 article_structure:
   article_count: 16
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:23Z'
   warnings: []
   errors: []
 ---
@@ -217,8 +245,8 @@ O primeiro provimento em lugares dos quadros de pessoal do Gabinete do Secretár
 
 Aprovado em sessão plenária em 13 de Dezembro de 1988.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 30 de Dezembro de 1988.**
+Assinado em 30 de Dezembro de 1988.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

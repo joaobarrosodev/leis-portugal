@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/32/2012/11/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2012-191094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13871a04bdaf51ada899b90e47af5e90d06866f53a818108880abe662cf4e880
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9209ec0e90b0eac606b8ea1e346f8fdb4172fd5d83d7f3bdf77abdec25156755
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,6 +67,7 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Actualização de Renda
+- Arrendamento Urbano para Habitação
 - Fiscalização
 - Habitação Social
 - Insuficiência Económica
@@ -74,7 +75,6 @@ subjects:
 - Prova
 - Renda de CASA
 - Rendimento
-- Arrendamento Urbano para Habitação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
@@ -100,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/61/1991/01/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/61/1991/01/23/p/dre
+- type: cites
+  target: pt:dre:175511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610377:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:33Z'
   warnings: []
   errors: []
 ---
@@ -242,10 +270,10 @@ Com a entrada em vigor deste diploma ficam revogadas as Portarias n.os [67/89](h
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 16 de outubro de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 31 de outubro de 2012.**
+Assinado em 31 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

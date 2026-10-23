@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/03/055b00/20252025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/15/2006/03/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2006-667163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3816ddc740fe546eb6acde2f81bc3c6c523b10c3ef7f34a743546a41ca7ccf3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06ebc060591985bf84781bd5307b9155e46918dca40aeca14e7cee15a6951e71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Pessoal Administrativo
 - Ponta Delgada
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:132431980:por
@@ -110,16 +110,57 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/2000/02/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/2000/02/04/a/dre
+- type: cites
+  target: pt:dre:346705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:580988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:132431980:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 10/2020/A - Diário da República n.º 81/2020, Série I de 2020-04-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-132431980
+  date: '2020-04-24'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:11Z'
   warnings: []
   errors: []
 ---
@@ -136,13 +177,13 @@ O quadro de pessoal do Hospital do Divino Espírito Santo, de Ponta Delgada, pre
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 31 de Janeiro de 2006.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 21 de Fevereiro de 2006.**
+Assinado em Angra do Heroísmo em 21 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — Quadro de pessoal do Hospital do Divino Espírito Santo, de Ponta Delgada
 

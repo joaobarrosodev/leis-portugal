@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13500/0002000023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/22/2021/07/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2021-167281005
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b7d26dad297f7d9b079334f8e57db41c4357d5d5e0c19277eb0f2f438c45544
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f9bfe936d6ed4808dd556b9d8af0302b55c700f1f98d50084a578f4e674936a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Estudante
 - Ação Social
-- Jornal Oficial
-- Publicitação
-- Linha de Crédito
-- Doença Infecciosa
-- Epidemia
-- Política Social
-- Ensino Superior
-- Rendimento
 - Açores
+- Doença Infecciosa
+- Ensino Superior
+- Epidemia
+- Estudante
+- Financiamento
+- Jornal Oficial
+- Linha de Crédito
+- Política Social
+- Publicitação
+- Rendimento
 - Subsídio não Reembolsável
 - Trabalhador Estudante
 relationships:
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:470204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489737:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:45Z'
   warnings: []
   errors: []
 ---
@@ -186,7 +198,7 @@ h) Bolsas de formação.
 
 1 - O apoio social é atribuído aos beneficiários referidos no artigo 2.º que comprovadamente tenham auferido uma redução no seu rendimento semestral per capita igual ou superior a 25 % face ao período homólogo do ano anterior à declaração de pandemia desde que o rendimento mensal per capita do último ano económico liquidado seja inferior ou igual ao definido nos seguintes escalões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/13500/0002000023.pdf))](https://files.diariodarepublica.pt/1s/2021/07/13500/0002000023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/13500/0002000023.pdf)
 
 2 - Aplica-se este apoio igualmente aos beneficiários referidos no artigo 2.º que, não verificando a condição do número anterior por quebra de rendimentos ocorrida em momento posterior ao semestre, atestem uma redução do rendimento mensal per capita igual ou superior a 25 % face ao período homólogo em pelo menos três meses consecutivos do ano anterior à declaração de pandemia.
 
@@ -196,7 +208,7 @@ h) Bolsas de formação.
 
 1 - O apoio social é atribuído através de um subsídio não reembolsável numa única prestação, tendo em conta as seguintes modalidades:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2021/07/13500/0002000023.pdf))](https://files.diariodarepublica.pt/1s/2021/07/13500/0002000023.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/07/13500/0002000023.pdf)
 
 2 - Aos agregados familiares com mais do que um elemento a frequentar o ensino superior a atribuição do apoio financeiro é majorada em 5 %.
 
@@ -236,10 +248,12 @@ O presente diploma vigora até 31 de dezembro de 2022, sem prejuízo da possibil
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de junho de 2021.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 5 de julho de 2021.**
+Assinado em Angra do Heroísmo em 5 de julho de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+114377828

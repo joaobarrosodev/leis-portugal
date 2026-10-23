@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/2002/08/29/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2002-173966
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 11344df9582bdfde1a83e3da23c94f6726f2ad108bcc013ad83c47dc9774eb16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60c126b897a1536b62a925d32ae688c319754d309eb50292aa6c62c28cae0719
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
-- Ordenamento do Território
-- Madeira.região Autónoma
 - Infraestrutura Turística
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:107477153:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519606:por
+  label: "Suspensos a referência à cidade do Funchal contida no art. 5º e o art. 6º das normas de execução do Plano de Ordenamento\
+    \ Turístico da Região Autónoma da Madeira, constantes do anexo I deste diploma, pelo DLR.12/2007/M.26.03.2007.AL-RAM,\
+    \ DR.IS [74] de 16.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-2007-519606
+  date: '2007-03-26'
+- type: amended_by
+  target: pt:dre:175170:por
+  label: "Decidido pronuncia-se pela inconstitucionalidade das normas contidas nos artigos 1.º e 2.º do «decreto que determina\
+    \ a suspensão parcial do artigo 1.º e a suspensão dos artigos 2.º, 8.º, 9.º, 11.º e 14.º das normas de execução do Plano\
+    \ de Ordenamento Turístico da Região Autónoma da Madeira», aprovado pela Assembleia Legislativa da Região Autónoma da\
+    \ Madeira em sessão plenária de 20 de junho, do Plano de Ordenamento Turístico da Região Autónoma da Madeira, aprovado\
+    \ pelo presente diploma, pelo AC.387/2012.10.08.2012.TCS, DR.IS [155] de 10.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/387-2012-175170
+  date: '2012-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
   label: null
@@ -102,16 +118,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/9/1995/01/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/9/1995/01/05/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692199:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107477153:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 15/2017/M - Diário da República n.º 109/2017, Série I de 2017-06-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2017-107477153
+  date: '2017-06-06'
 article_structure:
-  article_count: 24
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:06Z'
   warnings: []
   errors: []
 ---
@@ -154,11 +203,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 24 de Julho de 2002.
 
-**O Presidente da Assembleia Legislativa Regional, em exercício, Miguel José Luís de Sousa.**
+O Presidente da Assembleia Legislativa Regional, em exercício, Miguel José Luís de Sousa.
 
-**Assinado em 9 de Agosto de 2002.**
+Assinado em 9 de Agosto de 2002.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — Normas de execução
 
@@ -190,7 +239,7 @@ Para efeitos do presente Plano, consideram-se as tipologias dos empreendimentos 
 
 A tipologia «quinta madeirense« será caracterizada através de decreto regulamentar regional.
 
-###### Artigo 5.º
+Artigo 5.º
 
 Consideram-se, para efeitos de aplicação do POT, duas áreas de intervenção diferenciada, a cidade do Funchal e a frente de praia de Porto Santo, e três tipos de espaços:
 
@@ -200,7 +249,7 @@ b) Os espaços agro-florestais - integram as áreas onde predominam os usos agr�
 
 c) Os espaços naturais e áreas protegidas - integram as áreas mais sensíveis do ponto de vista ecológico, abrangendo, nomeadamente, as áreas integradas na Rede Natura 2000 e o Parque Natural da Madeira, com excepção das áreas classificadas como zona de transição, as quais se incluem nos espaços agro-florestais.
 
-###### Artigo 6.º
+Artigo 6.º
 
 Na cidade do Funchal, dados os condicionamentos estabelecidos ao crescimento do alojamento turístico e a prioridade dada à qualificação urbano-turística da cidade e da sua frente marítima, são considerados os seguintes critérios para os projectos de empreendimentos turísticos:
 
@@ -210,17 +259,17 @@ b) Recuperação de edifícios com interesse patrimonial e quintas, a integrar e
 
 c) Valorização da área urbano-turística do Lido-Praia Formosa, desde que sustentada em plano de pormenor que estruture urbanisticamente o conjunto e requalifique a frente-mar.
 
-###### Artigo 7.º
+Artigo 7.º
 
 1 - Na frente de praia de Porto Santo, até à aprovação de planos de urbanização ou de pormenor, não são permitidos loteamentos urbanos para fins residenciais permanentes ou secundários.
 
 2 - Para efeitos do número anterior e com o objectivo de vocacionar prioritariamente esta zona para o uso turístico e o lazer, considera-se a frente de praia a faixa situada a sul da estrada regional, entre o porto comercial e a ponta da Calheta.
 
-###### Artigo 8.º
+Artigo 8.º
 
 Nos espaços urbanos são admitidos estabelecimentos hoteleiros e aldeamentos turísticos com uma capacidade máxima, por unidade de exploração, de 80 camas e apartamentos/moradias turísticas com uma capacidade máxima de 60 camas.
 
-###### Artigo 9.º
+Artigo 9.º
 
 Nos espaços agro-florestais são admitidas as seguintes tipologias, com capacidade máxima, por unidade de exploração, de 80 camas:
 
@@ -234,11 +283,11 @@ d) Quintas madeirenses;
 
 e) Moradias turísticas.
 
-###### Artigo 10.º
+Artigo 10.º
 
 Nos espaços naturais e áreas protegidas, são permitidas as actividades, serviços e apoios de alojamento, de acordo com a legislação específica em vigor.
 
-###### Artigo 11.º
+Artigo 11.º
 
 Podem ser admitidos empreendimentos turísticos com capacidade superior às estabelecidas no presente Plano, nas seguintes condições:
 
@@ -246,7 +295,7 @@ a) Quando associados a equipamentos ou infra-estruturas de interesse regional e 
 
 b) Quando se trate de empreendimentos turísticos de tipo resort que, pelas suas características funcionais, oferta complementar de equipamentos, disponibilização de espaços verdes envolventes e integração no local, constituam empreendimentos que qualifiquem e diversifiquem a oferta turística nas zonas onde se implantem.
 
-###### Artigo 12.º
+Artigo 12.º
 
 Os empreendimentos turísticos nos espaços urbanos devem atender aos seguintes aspectos urbanísticos:
 
@@ -256,7 +305,7 @@ b) As edificações devem manter os alinhamentos preexistentes, salvo se outro a
 
 c) Quando se trate de parcelas ocupadas com edifício, jardins ou antigas quintas, devem ser indicados os elementos a preservar e a integrar na nova ocupação.
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - Os empreendimentos turísticos nos espaços agro-florestais devem atender, nomeadamente, aos seguintes aspectos paisagísticos e arquitectónicos:
 
@@ -280,7 +329,7 @@ c) Projecto de arranjo paisagístico de toda a área do empreendimento;
 
 d) Elementos gráficos sobre a integração paisagística da solução na zona.
 
-###### Artigo 14.º
+Artigo 14.º
 
 1 - Para efeitos do previsto no artigo 11.º, consideram-se estabelecimentos hoteleiros de tipo resort os constituídos por diversos edifícios que disponham entre eles espaços livres e espaços verdes para utilização dos utentes, bem como de equipamentos e serviços de recreio e lazer de uso comum, sujeitos a uma mesma exploração hoteleira.
 
@@ -298,7 +347,7 @@ e) Disponibilização de equipamentos de recreio e lazer especialmente adaptados
 
 f) Solução arquitectónica e paisagística adaptada à zona em que se localiza, baseada, preferencialmente, em edificações de baixa altura (dois/três pisos no alçado de maior dimensão e com altura média de 3 m por piso).
 
-###### Artigo 15.º
+Artigo 15.º
 
 1 - Sem prejuízo dos parâmetros definidos pela [Portaria n.º 9/95](https://diariodarepublica.pt/dr/detalhe/portaria/9-1995-367810), de 3 de Fevereiro, publicada no Jornal Oficial da Região Autónoma da Madeira, devem ser considerados como mínimos:
 
@@ -312,7 +361,7 @@ d) Um lugar de estacionamento de autocarro por cada 80 camas, em espaços agro-f
 
 2 - Os valores definidos no número anterior podem ser inferiores quando se trate de reabilitação de edifícios existentes que não disponham de área para construção de estacionamento nas dimensões exigidas ou de requalificação de unidades hoteleiras ou, ainda, nos centros históricos e em Porto Santo.
 
-###### Artigo 16.º
+Artigo 16.º
 
 1 - Os procedimentos para o licenciamento dos empreendimentos turísticos são os da legislação em vigor.
 
@@ -338,15 +387,15 @@ b) O não cumprimento do prazo referido no número anterior;
 
 c) A interrupção injustificada das obras.
 
-###### Artigo 17.º
+Artigo 17.º
 
 Para efeitos da estratégia do desenvolvimento turístico da Região Autónoma da Madeira, os parques de campismo são excluídos das tipologias referidas no artigo 3.º, salvo os já existentes em Porto Santo e Porto Moniz, ou que resultem da sua transferência de local.
 
-###### Artigo 18.º
+Artigo 18.º
 
 De dois em dois anos, um grupo de trabalho integrado por representantes da vice-presidência do Governo Regional, da Secretaria Regional do Turismo e Cultura e da Secretaria Regional do Equipamento Social e Transportes elaborará um relatório de acompanhamento sobre a aplicação e desenvolvimento das medidas constantes do presente diploma, a ser apreciado em Conselho do Governo Regional, após parecer do Conselho Regional de Turismo.
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - O POT vincula as entidades públicas competentes para a elaboração e aprovação dos planos municipais de ordenamento do território.
 
@@ -354,17 +403,21 @@ De dois em dois anos, um grupo de trabalho integrado por representantes da vice-
 
 3 - Até à inclusão nos demais instrumentos de gestão territorial das normas de execução do presente Plano, estes aplicam-se directamente na área sectorial a que se reportam.
 
-###### Artigo 20.º
+Artigo 20.º
 
 São nulos os actos de licenciamento ou autorização de projectos ou actividades que venham em desconformidade com o disposto no presente diploma.
 
-###### Artigo 21.º
+Artigo 21.º
 
 O POT vigorará por um período máximo de 10 anos a partir da sua publicação, podendo ser reavaliado por iniciativa do Governo Regional e consequentemente revisto pela Assembleia Legislativa Regional.
 
-## ANEXO II — Relatório - Estratégia de desenvolvimento
+ANEXO II
 
-### CAPÍTULO I — Disposições gerais
+Relatório - Estratégia de desenvolvimento
+
+CAPÍTULO I
+
+Disposições gerais
 
 1 - Âmbito territorial. - O Plano de Ordenamento Turístico da Região Autónoma da Madeira, adiante designado por POT, aplica-se à totalidade do território regional, composto pelas ilhas da Madeira, Porto Santo, Desertas e Selvagens.
 
@@ -378,7 +431,9 @@ Relatório - estratégia de desenvolvimento, identificando as opções sectoriai
 
 O POT é fundamentado no relatório de diagnóstico da situação territorial e nos relatórios «cenários de desenvolvimento» e «modelos turístico e territorial» complementado com o relatório de enquadramento, que contém «normas complementares» e as «acções de concretização dos objectivos do POT».
 
-### CAPÍTULO II — Estratégia de desenvolvimento
+CAPÍTULO II
+
+Estratégia de desenvolvimento
 
 1 - Opções sectoriais e objectivos a alcançar (modelo turístico da Madeira e eixos estratégicos de desenvolvimento). - O modelo turístico para a ilha da Madeira, explicitado no quadro seguinte, assenta nos seguintes três eixos estratégicos de desenvolvimento:
 
@@ -872,28 +927,28 @@ Com base nestes valores estima-se que a capacidade de acolhimento, considerando 
 
 [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)
+[[[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)
 
 (nota 1) A situação de pouca maturação destes produtos reflecte-se na ausência de dados sistematizados que permitam desde já uma abordagem mais incisiva, nomeadamente na relação produto-segmento de mercado e na caracterização quantitativa e qualitativa desta relação.
 
 (nota 2) Relembramos que mais de 50% dos utentes dos dois campos de golfe existentes são residentes.
 
-### CAPITULO III
+CAPITULO III
 
 Peças gráficas
 
 Planta síntese da ilha da Madeira
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)
+[[[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)
 
 Planta síntese do Funchal
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)
+[[[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)
 
 Planta síntese da ilha do Porto Santo
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)
+[[[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)
 
 Planta síntese das ilhas Desertas e das ilhas Selvagens
 
-[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)
+[[[[[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)](https://files.diariodarepublica.pt/1s/2002/08/199a00/61586172.pdf)

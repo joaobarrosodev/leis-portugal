@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/09/20000/22892290.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1986-220110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c728a6e879dc396185f88ecb18f21ec156c842eba38fccada62cedb46b359c35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9782b6a176d4210a480a60dd8412b96b45a7a677906d7aa2a9116e38e0e4defc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Administrativo
+- Criação de Cidades
+- Criação de Freguesias
+- Criação de Municípios
+- Criação de Vilas
+- Madeira.região Autónoma
 relationships:
 - type: amended_by
   target: pt:dre:276017:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:391832:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276017:por
+  label: "Revogado pelo DLR.3/94/M.08.02.1994.ALR-RAM, DR.IS-A [52] de 03.03.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-1994-276017
+  date: '1994-02-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:05Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +115,9 @@ Nestes termos:
 
 A Assembleia Regional da Madeira, ao abrigo das alíneas a), g) e i) do artigo 229.º da Constituição da República e do n.º 2 do artigo 16.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º Na Região Autónoma da Madeira, compete à Assembleia Regional a criação ou extinção das autarquias, a designação das suas categorias, assim como a determinação dos seus limites territoriais.
+Artigo 1.º Na Região Autónoma da Madeira, compete à Assembleia Regional a criação ou extinção das autarquias, a designação das suas categorias, assim como a determinação dos seus limites territoriais.
 
-###### Art. 2.º A Assembleia Regional, na análise das iniciativas, deve ter em conta:
+Art. 2.º A Assembleia Regional, na análise das iniciativas, deve ter em conta:
 
 a) Os interesses de ordem local e geral, bem como as inerentes alterações financeiras e administrativas;
 
@@ -114,7 +129,7 @@ d) A situação geográfica e os meios de comunicação;
 
 e) As razões de ordem histórica.
 
-###### Art. 3.º A criação de uma freguesia depende:
+Art. 3.º A criação de uma freguesia depende:
 
 a) Dos requisitos indispensáveis, mencionados no artigo 4.º;
 
@@ -122,7 +137,7 @@ b) Dos indicadores apresentados, mencionados no artigo 5.º;
 
 c) Dos fundamentos da iniciativa.
 
-###### Art. 4.º São requisitos indispensáveis para a criação de uma nova freguesia:
+Art. 4.º São requisitos indispensáveis para a criação de uma nova freguesia:
 
 a) Número de eleitores superior a 1500, a não ser que razões de ordem topogeográfica justifiquem outro número;
 
@@ -132,7 +147,7 @@ c) Que 75% do território da nova freguesia faça parte do município onde ficar
 
 d) Que a freguesia seja servida por vias rodoviárias, ligando-a à sede do concelho.
 
-###### Art. 5.º São considerados necessários para a iniciativa, assim como para fundamentar a decisão da Assembleia Regional, os seguintes indicadores.
+Art. 5.º São considerados necessários para a iniciativa, assim como para fundamentar a decisão da Assembleia Regional, os seguintes indicadores.
 
 a) Número de eleitores da área proposta para a nova freguesia;
 
@@ -146,11 +161,11 @@ e) Um abaixo-assinado que abranja um mínimo de 10% dos eleitores;
 
 f) Descrição minuciosa dos limites da nova freguesia, acompanhada de uma representação cartográfica à escala de 1:25000.
 
-###### Art. 6.º - 1 - Não é permitida a criação de novas freguesias durante o período de seis meses que imediatamente antecede a data marcada para a realização de quaisquer eleições de órgãos de soberania, da Assembleia Regional ou de órgãos de poder local.
+Art. 6.º - 1 - Não é permitida a criação de novas freguesias durante o período de seis meses que imediatamente antecede a data marcada para a realização de quaisquer eleições de órgãos de soberania, da Assembleia Regional ou de órgãos de poder local.
 
 2 - No caso de eleições antecipadas, quer a nível da Região Autónoma quer a nível municipal ou de freguesia, o prazo de proibição conta-se a partir da data de dissolução.
 
-###### Art. 7.º - 1 - Enquanto a nova freguesia não tiver órgãos autárquicos próprios, a administração local será exercida por uma comissão instaladora.
+Art. 7.º - 1 - Enquanto a nova freguesia não tiver órgãos autárquicos próprios, a administração local será exercida por uma comissão instaladora.
 
 2 - A comissão instaladora será constituída por quinze elementos indicados pela assembleia municipal ou assembleias municipais de origem, tendo em atenção os últimos resultados eleitorais para as autarquias.
 
@@ -164,9 +179,9 @@ f) Descrição minuciosa dos limites da nova freguesia, acompanhada de uma repre
 
 7 - Para os fins consignados no número anterior será fornecido apoio técnico e financeiro pelo Governo Regional.
 
-###### Art. 8.º Uma povoação só pode ser elevada a vila quando tenha um número de eleitores em aglomerado contínuo superior a 3000, ou 6000 em aglomerados descontínuos que não distem mais de 1000 m do aglornerado principal.
+Art. 8.º Uma povoação só pode ser elevada a vila quando tenha um número de eleitores em aglomerado contínuo superior a 3000, ou 6000 em aglomerados descontínuos que não distem mais de 1000 m do aglornerado principal.
 
-###### Art. 9.º - 1 - São considerados requisitos necessários para elevação de uma povoação a vila:
+Art. 9.º - 1 - São considerados requisitos necessários para elevação de uma povoação a vila:
 
 a) Posto de assistência médica;
 
@@ -186,9 +201,9 @@ h) Agência bancária.
 
 2 - São indispensáveis os requisitos mencionados nas alíneas a), b), d), f) e g).
 
-###### Art. 10.º Uma vila só pode ser elevada a cidade se tiver mais de 6000 eleitores em aglomerado contínuo, ou 12000 em aglomerados descontínuos que não distem em linha recta mais de 1500 m dos paços do concelho ou do centro do aglomerado principal.
+Art. 10.º Uma vila só pode ser elevada a cidade se tiver mais de 6000 eleitores em aglomerado contínuo, ou 12000 em aglomerados descontínuos que não distem em linha recta mais de 1500 m dos paços do concelho ou do centro do aglomerado principal.
 
-###### Art. 11.º - 1 - São considerados requisitos necessários para a elevação de uma vila a cidade:
+Art. 11.º - 1 - São considerados requisitos necessários para a elevação de uma vila a cidade:
 
 a) Instalações hospitalares com serviço de permanência;
 
@@ -212,14 +227,14 @@ j) Parques ou jardim públicos.
 
 2 - São indispensáveis os requisitos mencionados nas alíneas a), b), c), g), h) e i).
 
-###### Art. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 5 de Junho de 1986.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 21 de Julho de 1986.**
+Assinado em 21 de Julho de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/17/1999/06/15/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1999-309006
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a61d096022c2fc6c930302f18c8971b069418e87ea12d4d0dfc81f14b11e8ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92fdf915a6a15647a824bd869aba8c65ffbde454db7f5dc8f5b0bb492844f8ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Finanças Locais
+- Autarquia Local
 - Crédito Bonificado
 - Definição de Competências
 - Desenvolvimento Regional
-- Projeto de Investimento
+- Finanças Locais
+- Financiamento
 - Investimento Municipal
 - JURO Bonificado
-- Secretaria Regional do Plano e da Coordenação
 - Madeira.região Autónoma
-- Autarquia Local
+- Projeto de Investimento
+- Secretaria Regional do Plano e da Coordenação
 relationships:
 - type: amended_by
   target: pt:dre:220114:por
@@ -89,16 +89,31 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/42/1998/08/06/p/dre
+- type: cites
+  target: pt:dre:435422:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:220114:por
+  label: "Revogado, continuando no entanto a reger-se pelo regime dele constante, os empréstimos contraídos no âmbito das\
+    \ linhas de crédito criadas pelo presente diploma, pelo DLR.6/2005/M.05.05.2005.AL-RAM, DR.IS-A [105] de 01.06.2005, a\
+    \ partir da sua entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2005-220114
+  date: '2005-05-05'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:37Z'
   warnings: []
   errors: []
 ---
@@ -201,8 +216,8 @@ As bonificações previstas neste diploma são suportadas pelo orçamento da Reg
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 5 de Maio de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 24 de Maio de 1999.**
+Assinado em 24 de Maio de 1999.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/05/109b00/21962219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/1998/05/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1998-516758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5208563c5d1c01b67087c855abd46ff56799ee5425d53e142b0995ff5871731
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 834d24a0e7d37ecaf05642ee3fff66facdf809ca26e926540f014a85f6220b66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,59 +65,65 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
-- Região Autónoma
-- ILHA de são Miguel
-- ILHA Terceira
-- Ordenamento do Território
-- Governo Regional
-- Direcção Regional das Pescas
+- Açores
+- Agricultura
+- Comissão Consultiva da Agricultura Pescas e Ambiente
+- Conselho Regional da Agricultura e Desenvolvimento Rural
 - Conselho Regional das Pescas
-- Secretaria Regional da Agricultura Pescas e Ambiente
+- Conselho Regional do Ambiente e Ordenamento do Território
 - Criação de Serviços
-- Recursos Hídricos
 - Definição de Competências
+- Direcção Regional das Pescas
+- Direcção Regional de Desenvolvimento Agrário
 - Direcção Regional de Ordenamento do Território e Recursos Hídricos
 - Direcção Regional do Ambiente
 - Direcção Regional dos Recursos Florestais
 - Extinção de Serviços
 - Gabinete de Execução do Programa Agro-pecuário do PICO
-- Direcção Regional de Desenvolvimento Agrário
-- Mestre Florestal
-- ILHA das Flores
-- Ilha de São Jorge
-- Ilha do Corvo
-- Integração de Trabalhadores
-- Trabalhador Rural
-- Orgânica
-- ILHA de Santa Maria
-- Ilha do Pico
+- Governo Regional
 - Guarda Florestal
-- Política do Ambiente
-- Urbanismo
-- Quadro de Pessoal
-- Política Agrícola
-- Pecuária
-- Agricultura
-- Política Florestal
-- Remuneração
+- ILHA das Flores
+- ILHA de Santa Maria
+- Ilha de São Jorge
+- ILHA de são Miguel
+- Ilha do Corvo
+- ILHA do Faial
+- Ilha do Pico
 - Ilha Graciosa
+- ILHA Terceira
+- Integração de Trabalhadores
+- Mestre Florestal
+- Ordenamento do Território
+- Orgânica
+- Pecuária
+- Política Agrícola
+- Política do Ambiente
+- Política Florestal
+- Quadro de Pessoal
+- Recursos Hídricos
+- Reestruturação de Serviços
+- Região Autónoma
+- Remuneração
 - Secretaria Regional da Agricultura e Pescas
-- Comissão Consultiva da Agricultura Pescas e Ambiente
-- Conselho Regional da Agricultura e Desenvolvimento Rural
-- Conselho Regional do Ambiente e Ordenamento do Território
+- Secretaria Regional da Agricultura Pescas e Ambiente
 - Secretaria Regional da Habitação e Obras Públicas
 - Secretaria Regional do Turismo e Ambiente
 - Serviços de ILHA
-- Açores
+- Trabalhador Rural
 - Transferência de Competências
-- ILHA do Faial
+- Urbanismo
 - Vigilante da Natureza
 relationships:
 - type: amended_by
   target: pt:dre:276022:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:431206:por
+  label: "Alterado o art. 75º e aditados os arts. 75º-A, 75º-B, 75º-C, 75º-D, 75º-E, 75º-F e 75º-G, pelo DRR.24/98/A.1998.07.17.PG-RAA\
+    \ DR.IS-B [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/24-1998-431206
+  date: '1998-07-17'
 - type: cites
   target: eli:http://data.dre.pt/el
   label: null
@@ -158,16 +164,113 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1997/05/23/p/dre
+- type: cites
+  target: pt:dre:145198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:276022:por
+  label: "Revogado pelo DRR.13/2000/A.2000.04.06.PG-RAA DR.IS-B [106] DE 08/MAI/2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2000-276022
+  date: '2000-04-06'
 article_structure:
   article_count: 87
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:56Z'
   warnings: []
   errors: []
 ---
@@ -230,13 +333,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 10 de Março de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 13 de Abril de 1998.**
+Assinado em Angra do Heroísmo em 13 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO I — ORGÂNICA DA SECRETARIA REGIONAL DA AGRICULTURA, PESCAS E AMBIENTE
 
@@ -346,7 +449,9 @@ c) Divisão de Informática (DI).
 
 2 - O GP é dirigido por um director, equiparado, para todos os efeitos, a subdirector-geral.
 
-###### Artigo 10.º — Divisão de Estudos e Planeamento
+###### Artigo 10.º
+
+##### Divisão de Estudos e Planeamento
 
 Compete à DEP, designadamente:
 
@@ -368,7 +473,9 @@ h) Coordenar as acções relacionadas com a União Europeia, nomeadamente assegu
 
 i) Assegurar as adequadas ligações com os órgãos regionais e nacionais com responsabilidades em matéria comunitária, assim como em outras áreas de relevância para o correcto desempenho das suas competências.
 
-###### Artigo 11.º — Divisão de Assuntos Jurídicos
+###### Artigo 11.º
+
+##### Divisão de Assuntos Jurídicos
 
 À DAJ compete, designadamente:
 
@@ -380,7 +487,9 @@ c) Elaborar pareceres sobre projectos e propostas de diplomas legais referentes 
 
 d) Organizar e manter actualizados, em colaboração com a DI, os ficheiros de legislação e bibliografia jurídica.
 
-###### Artigo 12.º — Divisão de Informática
+###### Artigo 12.º
+
+##### Divisão de Informática
 
 A DI é um serviço de apoio a toda a SRAPA no âmbito da informatização dos serviços, competindo-lhe, designadamente:
 
@@ -424,7 +533,9 @@ c) Secção de Contabilidade e Património (SCP).
 
 3 - A RSA compreenderá ainda secções administrativas afectas aos diferentes serviços operativos, nos termos definidos na presente orgânica, às quais competem todos os trabalhos de carácter administrativo delegados pelo chefe de repartição.
 
-###### Artigo 14.º — Secção de Pessoal
+###### Artigo 14.º
+
+#### Secção de Pessoal
 
 À SP compete, designadamente:
 
@@ -436,7 +547,9 @@ c) Emitir certidões, cartões de identificação e outros documentos;
 
 d) Assegurar os procedimentos necessários a garantir a efectividade, segurança e benefícios sociais do pessoal, bem como proceder ao processamento dos respectivos vencimentos e demais remunerações.
 
-###### Artigo 15.º — Secção de Expediente e Arquivo
+###### Artigo 15.º
+
+#### Secção de Expediente e Arquivo
 
 À SEA compete, designadamente:
 
@@ -446,7 +559,9 @@ b) Apoiar administrativamente, nomeadamente executando trabalhos de dactilografi
 
 c) Coordenar as tarefas do pessoal auxiliar afecto ao GP.
 
-###### Artigo 16.º — Secção de Contabilidade e Património
+###### Artigo 16.º
+
+#### Secção de Contabilidade e Património
 
 À SCP compete, designadamente:
 
@@ -506,7 +621,9 @@ a) Divisão de Apoio Sócio-Estrutural (DASE);
 
 b) Divisão de Apoio ao Desenvolvimento Rural (DADR).
 
-###### Artigo 19.º — Divisão de Apoio Sócio-Estrutural
+###### Artigo 19.º
+
+##### Divisão de Apoio Sócio-Estrutural
 
 À DASE compete, designadamente:
 
@@ -522,7 +639,9 @@ e) Apoiar os serviços na elaboração de projectos de investimento e na aplica�
 
 f) Apoiar a divulgação dos normativos referentes à política sócio-estrutural e de outros mecanismos de apoio ao investimento.
 
-###### Artigo 20.º — Divisão de Apoio ao Desenvolvimento Rural
+###### Artigo 20.º
+
+##### Divisão de Apoio ao Desenvolvimento Rural
 
 À DADR compete, designadamente:
 
@@ -590,7 +709,9 @@ f) Estudar e promover a montagem de unidades de quarentena e as acções necess�
 
 3 - O LRSV é dirigido por um director, equiparado, para todos os efeitos, a chefe de divisão.
 
-###### Artigo 23.º — Divisão Administrativa, Financeira e de Planeamento
+###### Artigo 23.º
+
+##### Divisão Administrativa, Financeira e de Planeamento
 
 1 - À DAFP compete, designadamente:
 
@@ -650,7 +771,9 @@ a) Divisão de Caça, Pesca e Parques (DCPP);
 
 b) Divisão de Apoio ao Sector Florestal (DASF).
 
-###### Artigo 26.º — Divisão de Caça, Pesca e Parques
+###### Artigo 26.º
+
+##### Divisão de Caça, Pesca e Parques
 
 À DCPP compete a orientação, coordenação e apoio aos sectores da caça, pesca, parques e reservas naturais, designadamente:
 
@@ -670,7 +793,9 @@ g) Colaborar com outros órgãos e serviços da administração regional na conc
 
 h) Recolha, tratamento e análise de elementos estatísticos relativos às actividades no âmbito da direcção de serviços.
 
-###### Artigo 27.º — Divisão de Apoio ao Sector Florestal
+###### Artigo 27.º
+
+##### Divisão de Apoio ao Sector Florestal
 
 À DASF compete, designadamente:
 
@@ -688,7 +813,9 @@ f) Coordenar os serviços relacionados com a produção e distribuição de plan
 
 g) Promover, coordenar e apoiar o fomento florestal nas áreas do sector privado, nomeadamente através da aplicação de medidas de apoio financeiro, linhas de crédito e assistência técnica.
 
-###### Artigo 28.º — Divisão Administrativa, Financeira e de Planeamento
+###### Artigo 28.º
+
+##### Divisão Administrativa, Financeira e de Planeamento
 
 1 - À DAFP compete, designadamente:
 
@@ -754,7 +881,9 @@ b) Divisão de Gestão dos Recursos Naturais (DGRN);
 
 c) Divisão de Formação Profissional (DFP).
 
-###### Artigo 31.º — Divisão de Desenvolvimento da Frota e Infra-Estruturas Portuárias
+###### Artigo 31.º
+
+##### Divisão de Desenvolvimento da Frota e Infra-Estruturas Portuárias
 
 À DDFIP compete, designadamente:
 
@@ -770,7 +899,9 @@ e) Elaborar estudos, propor planos de desenvolvimento e acompanhar projectos de 
 
 f) Proceder ao estudo sistemático dos métodos e artes de pesca utilizados na Região e promover a melhoria da qualidade e da eficácia dos mesmos.
 
-###### Artigo 32.º — Divisão de Gestão dos Recursos Naturais
+###### Artigo 32.º
+
+##### Divisão de Gestão dos Recursos Naturais
 
 À DGRN compete, designadamente:
 
@@ -778,7 +909,9 @@ a) Promover a interligação entre a DRP e instituições de investigação do s
 
 b) Promover a elaboração dos regulamentos e medidas que assegurem a protecção, conservação e gestão racional dos recursos vivos e colaborar com as entidades competentes na área de fiscalização das pescas.
 
-###### Artigo 33.º — Divisão de Formação Profissional
+###### Artigo 33.º
+
+##### Divisão de Formação Profissional
 
 À DFP compete, designadamente:
 
@@ -790,7 +923,9 @@ c) Promover ou assegurar a realização de programas de formação profissional 
 
 d) Organizar e assegurar a recolha, tratamento e análise de elementos estatísticos relativamente à formação profissional na sua área.
 
-###### Artigo 34.º — Divisão de Planeamento dos Meios
+###### Artigo 34.º
+
+##### Divisão de Planeamento dos Meios
 
 À DPM compete, designadamente:
 
@@ -862,7 +997,9 @@ a) Divisão de Ordenamento do Território (DOT);
 
 b) Divisão dos Recursos Hídricos e da Orla Costeira (DRHOC).
 
-###### Artigo 38.º — Divisão de Ordenamento do Território
+###### Artigo 38.º
+
+##### Divisão de Ordenamento do Território
 
 À DOT compete, designadamente:
 
@@ -890,7 +1027,9 @@ l) Promover a elaboração e actualização dos levantamentos topográficos e fo
 
 m) Executar a fotogrametria arquitectural com vista à salvaguarda do património histórico e artístico da Região.
 
-###### Artigo 39.º — Divisão dos Recursos Hídricos e da Orla Costeira
+###### Artigo 39.º
+
+##### Divisão dos Recursos Hídricos e da Orla Costeira
 
 À DRHOC compete, designadamente:
 
@@ -920,7 +1059,9 @@ b) Divisão de Controlo de Resíduos, Qualidade do Ar e Ruídos (DCRQAR).
 
 2 - O director de serviços acumulará a chefia de uma das respectivas divisões.
 
-###### Artigo 41.º — Divisão de Controlo da Qualidade do Ambiente
+###### Artigo 41.º
+
+##### Divisão de Controlo da Qualidade do Ambiente
 
 À DCQA compete, designadamente:
 
@@ -938,7 +1079,9 @@ f) Coordenar a instrução dos processos de avaliação de impacte ambiental, de
 
 g) Exercer na Região as competências legalmente cometidas à Direcção-Geral do Ambiente.
 
-###### Artigo 42.º — Divisão de Controlo de Resíduos, Qualidade do Ar e Ruídos
+###### Artigo 42.º
+
+##### Divisão de Controlo de Resíduos, Qualidade do Ar e Ruídos
 
 À DCRQAR compete, designadamente:
 

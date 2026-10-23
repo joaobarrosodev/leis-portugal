@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/05/117a00/31243125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/1995/05/20/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1995-503647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5eb404aedf08fef4e39fc72e77acbbab26ae948f85679418d6902284a4911423
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: babd159db50c2556f258f510f5eff30dde9845e97148702c75686edd14d2494b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,34 +66,55 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Vida Selvagem
-- Multa
 - Contra-ordenação
 - Ilhas Desertas
+- Madeira.região Autónoma
+- Multa
 - Parque Natural da Madeira
 - Proteção do Ambiente
-- Zona de Proteção
-- Madeira.região Autónoma
 - Reserva Natural
+- Vida Selvagem
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:540626:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540626:por
+  label: "Alterado o art. 7.º do DLR 14/90/M, de 23-Mai, na redacção do presente diploma, pelo DLR.38/2006/M.04.08.2006.AL-RAM,\
+    \ DR.IS [162] de 23.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/38-2006-540626
+  date: '2006-08-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:571460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175923966:por
+  label: Revogado, a partir de 14.01.2022, o DLR 14/90/M de 23-mai, com a redação dada pelo presente diploma, pelo(a) Decreto
+    Legislativo Regional n.º 27/2021/M - Diário da República n.º 241/2021, Série I de 2021-12-15, nos termos do disposto no
+    seu art. 18.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2021-175923966
+  date: '2021-12-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:08Z'
   warnings: []
   errors: []
 ---
@@ -114,11 +135,11 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
 
-###### Artigo 1.º A Área de Protecção Especial das Ilhas Desertas, criada pelo [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, é para todos os efeitos legais classificada como «reserva natural», orgânica e administrativamente integrada no Parque Natural da Madeira.
+Artigo 1.º A Área de Protecção Especial das Ilhas Desertas, criada pelo [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, é para todos os efeitos legais classificada como «reserva natural», orgânica e administrativamente integrada no Parque Natural da Madeira.
 
-###### Art. 2.º O artigo 3.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, passa a ter a seguinte redacção:
+Art. 2.º O artigo 3.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 3.º Na parte marinha da Reserva Natural que se situa para norte, respectivamente, do marco geodésico da doca e da Ponta da Fajã Grande, nela se incluindo o ilhéu Chão, e que se encontra devidamente assinalado no mapa anexo, são permitidas, nos termos da legislação aplicável:
+Art. 3.º Na parte marinha da Reserva Natural que se situa para norte, respectivamente, do marco geodésico da doca e da Ponta da Fajã Grande, nela se incluindo o ilhéu Chão, e que se encontra devidamente assinalado no mapa anexo, são permitidas, nos termos da legislação aplicável:
 
 a) Actividades de pesca comercial e de pesca sem fins comerciais, designadamente a desportiva;
 
@@ -126,7 +147,7 @@ b) O mergulho amador;
 
 c) Actividades náuticas com carácter desportivo, não motorizadas e previamente autorizadas pelo Parque Natural da Madeira.
 
-###### Art. 3.º - 1 - A alínea c) do n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, passa a ter a seguinte redacção:
+Art. 3.º - 1 - A alínea c) do n.º 1 do artigo 4.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, passa a ter a seguinte redacção:
 
 ...
 
@@ -144,9 +165,9 @@ a) O uso de artes de redes de emalhar, cercar e arrastar, com excepção das que
 
 e) A prática de caça submarina.
 
-###### Art. 4.º O artigo 7.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, passa a ter seguinte redacção:
+Art. 4.º O artigo 7.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, passa a ter seguinte redacção:
 
-###### Art. 7.º - 1 - As infracções ao disposto no presente diploma constituem contra-ordenação punível com as seguintes coimas:
+Art. 7.º - 1 - As infracções ao disposto no presente diploma constituem contra-ordenação punível com as seguintes coimas:
 
 a) De 50000$00 a 400000$00, no que se refere às infracções previstas nas alíneas a) e b) do n.º 1 do artigo 4.º e do artigo 6.º, sem prejuízo do disposto no número seguinte;
 
@@ -164,28 +185,28 @@ a) 6000000$00, em caso de dolo;
 
 b) 3000000$00, em caso de negligência.
 
-###### Art. 5.º O artigo 8.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, passa a ter a seguinte redacção:
+Art. 5.º O artigo 8.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 8.º Acessoriamente à aplicação da respectiva coima, poderá ser determinada a apreensão, a favor do Parque Natural da Madeira, do produto da infracção, das redes e outros equipamentos utilizados na infracção ao disposto no presente diploma.
+Art. 8.º Acessoriamente à aplicação da respectiva coima, poderá ser determinada a apreensão, a favor do Parque Natural da Madeira, do produto da infracção, das redes e outros equipamentos utilizados na infracção ao disposto no presente diploma.
 
-###### Art. 6.º Ao artigo 11.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, é aditado um n.º 2, com a seguinte redacção:
+Art. 6.º Ao artigo 11.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, é aditado um n.º 2, com a seguinte redacção:
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 2 - O Parque Natural da Madeira poderá ordenar a imobilização das embarcações encontradas em infracção ao presente diploma até à chegada da respectiva autoridade marítima.
 
-###### Art. 7.º É revogado o artigo 14.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio.
+Art. 7.º É revogado o artigo 14.º do [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio.
 
-###### Art. 8.º Fica o Governo Regional autorizado a regulamentar o [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, com as alterações introduzidas pelo presente diploma, sob a forma de decreto regulamentar regional, definindo regras que permitam a sua execução.
+Art. 8.º Fica o Governo Regional autorizado a regulamentar o [Decreto Legislativo Regional n.º 14/90/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1990-571460), de 23 de Maio, com as alterações introduzidas pelo presente diploma, sob a forma de decreto regulamentar regional, definindo regras que permitam a sua execução.
 
-###### Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 9.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira de 20 de Abril de 1995.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 28 de Abril de 1995.**
+Assinado em 28 de Abril de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

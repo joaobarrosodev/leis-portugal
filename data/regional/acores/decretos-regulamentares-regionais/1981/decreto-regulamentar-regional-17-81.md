@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/02/04700/05130516.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1981-390643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f14892c4d99625a65147cab955f504660a5580e207bb6ffc2c2405d8c4b2b03c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae04cae3d6ccf72aeb191dd8036aa81cba2159b9687c86ed529583882052876d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Ensino Artístico
+- Ensino Preparatório
+- Ensino Secundário
+- Pessoal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:585039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609105:por
+  label: "Alterado o mapa II a que se refere o art. 18.º do presente diploma, pelo DRR.13/82/A.1982.03.08.GR-RAA DR.IS [69]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-1982-609105
+  date: '1982-03-08'
+- type: cites
+  target: pt:dre:139890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677442:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:585039:por
+  label: "Revogado pelo DRR.3/2002/A.2001.12.11.PG-RAA DR.IS-B [5] de 07/Jan/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2002-585039
+  date: '2001-12-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:22Z'
   warnings: []
   errors: []
 ---
@@ -106,21 +162,21 @@ Deste modo, considerando o disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.�
 
 O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal administrativo dos estabelecimentos de ensino preparatório, secundário e artístico da Região Autónoma dos Açores constitui um quadro único, englobando os quadros privativos de cada uma das escolas, constantes do mapa anexo ao presente diploma, cuja gestão cabe à Secretaria Regional da Educação e Cultura.
+Artigo 1.º - 1 - O pessoal administrativo dos estabelecimentos de ensino preparatório, secundário e artístico da Região Autónoma dos Açores constitui um quadro único, englobando os quadros privativos de cada uma das escolas, constantes do mapa anexo ao presente diploma, cuja gestão cabe à Secretaria Regional da Educação e Cultura.
 
 2 - Os quadros privativos das escolas poderão ser alterados por portaria do Secretário Regional da Educação e Cultura, desde que o número de lugares em cada categoria no conjunto do quadro único não seja alterado.
 
-###### Art. 2.º O pessoal administrativo dos quadros dos serviços externos e dependentes da Secretaria Regional da Educação e Cultura, desde que habilitado por concurso ou curso de formação profissional, nos termos do presente diploma, poderá requerer o ingresso, transferência e promoção para lugares do quadro único referido no n.º 1 do artigo 1.º em igualdade com os funcionários daquele quadro, podendo também estes transitar para os quadros daqueles serviços nas condições exigidas pelas respectivas leis orgânicas depois de efectuados os movimentos de pessoal previsto na alínea a) do n.º 1 do artigo 6.º do presente diploma.
+Art. 2.º O pessoal administrativo dos quadros dos serviços externos e dependentes da Secretaria Regional da Educação e Cultura, desde que habilitado por concurso ou curso de formação profissional, nos termos do presente diploma, poderá requerer o ingresso, transferência e promoção para lugares do quadro único referido no n.º 1 do artigo 1.º em igualdade com os funcionários daquele quadro, podendo também estes transitar para os quadros daqueles serviços nas condições exigidas pelas respectivas leis orgânicas depois de efectuados os movimentos de pessoal previsto na alínea a) do n.º 1 do artigo 6.º do presente diploma.
 
-###### Art. 3.º - 1 - Aplicam-se ao pessoal administrativo do quadro único referido no n.º 1 do artigo 1.º as disposições do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), de 24 de Julho, e com as adaptações constantes do presente diploma.
+Art. 3.º - 1 - Aplicam-se ao pessoal administrativo do quadro único referido no n.º 1 do artigo 1.º as disposições do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), de 24 de Julho, e com as adaptações constantes do presente diploma.
 
 2 - Nos preceitos dos diplomas citados no número anterior que não sofram alteração deverão entender-se as referências ao director-geral ou à Direcção-Geral de Pessoal como aplicadas à Direcção Regional da Administração Escolar e as feitas ao Ministério da Educação e Ciência ou membros do Governo da República como relativas à Secretaria Regional da Educação e Cultura e aos Secretários Regionais competentes nas respectivas matérias.
 
-###### Art. 4.º - 1 - A Secretaria Regional da Educação e Cultura promoverá, em colaboração com a Direcção-Geral de Pessoal, a abertura de concursos de habilitação e de cursos de formação profissional a que se refere o n.º 2 do artigo 8.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), com a redacção dada pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), sempre que as necessidades do serviço o recomendem e o número de candidatos o justifique.
+Art. 4.º - 1 - A Secretaria Regional da Educação e Cultura promoverá, em colaboração com a Direcção-Geral de Pessoal, a abertura de concursos de habilitação e de cursos de formação profissional a que se refere o n.º 2 do artigo 8.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), com a redacção dada pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), sempre que as necessidades do serviço o recomendem e o número de candidatos o justifique.
 
 2 - O pessoal administrativo a que se refere o n.º 1 do artigo 1.º poderá candidatar-se aos concursos de habilitação e aos cursos de formação profissional abertos pela Direcção-Geral de Pessoal, tendo direito ao pagamento das deslocações necessárias à frequência de cursos ou à realização de provas os candidatos que reúnam as condições do n.º 1 do artigo 7.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374) quando não se encontrem abertos concursos de habilitação ou cursos de formação na Região ou programada a sua realização no prazo máximo de um ano.
 
-###### Art. 5.º - 1 - Os concursos de provimento para lugares dos quadros de pessoal administrativo serão abertos perante a Secretaria Regional da Educação e Cultura, para cada vaga, por aviso a publicar no Jornal Oficial, no prazo máximo de sessenta dias sobre a verificação da mesma vaga.
+Art. 5.º - 1 - Os concursos de provimento para lugares dos quadros de pessoal administrativo serão abertos perante a Secretaria Regional da Educação e Cultura, para cada vaga, por aviso a publicar no Jornal Oficial, no prazo máximo de sessenta dias sobre a verificação da mesma vaga.
 
 2 - Quando houver mais de uma vaga no quadro privativo de uma escola, será aberto concurso para a vaga de categoria mais elevada e depois, sucessivamente, para as restantes.
 
@@ -132,7 +188,7 @@ O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º 
 
 6 - Quando for provido um lugar nos termos do n.º 4, não pode a vaga inicial ser posta de novo a concurso no prazo de um ano sobre a abertura do primeiro concurso, nem enquanto o número total de funcionários for igual ao previsto no respectivo quadro.
 
-###### Art. 6.º - 1 - O primeiro provimento dos lugares dos quadros privativos constantes do mapa anexo ao presente diploma far-se-á nos seguintes termos:
+Art. 6.º - 1 - O primeiro provimento dos lugares dos quadros privativos constantes do mapa anexo ao presente diploma far-se-á nos seguintes termos:
 
 a) Pela efectivação dos movimentos de pessoal, nos termos do artigo 16.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), com a redacção que lhe foi dada pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), dentro de cada quadro privativo até ao limite das vagas deste;
 
@@ -142,9 +198,9 @@ b) Pela abertura de concursos de provimento, a realizar nos termos gerais previs
 
 3 - O pessoal que nos termos da alínea a) não consiga obter provimento em lugar do quadro privativo da respectiva escola na categoria a que tem direito, nos termos do artigo 16.º do Decreto-Lei n.º o 273/79, ficará na situação de supranumerário naquela categoria na mesma escola, aplicando-se o disposto nos n.os 5 e 6 do artigo 5.º do presente diploma.
 
-###### Art. 7.º O movimento de pessoal decorrente da alínea a) dos n.os 1 e 3 do artigo 6.º será realizado por listas nominativas, assinadas pelo Secretário Regional da Educação e Cultura e publicadas no Jornal Oficial, na sequência do qual terão lugar os respectivos processos de provimento.
+Art. 7.º O movimento de pessoal decorrente da alínea a) dos n.os 1 e 3 do artigo 6.º será realizado por listas nominativas, assinadas pelo Secretário Regional da Educação e Cultura e publicadas no Jornal Oficial, na sequência do qual terão lugar os respectivos processos de provimento.
 
-###### Art. 8.º - 1 - Quando não esteja provido o lugar de chefe dos serviços administrativos ou no impedimento deste, serão as respectivas funções exercidas, nos termos do artigo 4.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), com a redacção que lhe foi dada pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514).
+Art. 8.º - 1 - Quando não esteja provido o lugar de chefe dos serviços administrativos ou no impedimento deste, serão as respectivas funções exercidas, nos termos do artigo 4.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), com a redacção que lhe foi dada pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514).
 
 2 - A chefia dos serviços administrativos e a inerente reversão de vencimento de exercício referida no n.º 3 daquele preceito serão propostas pelo órgão de gestão da escola e autorizadas para o respectivo ano económico pelo Secretário Regional da Educação e Cultura, sob parecer da Direcção Regional da Administração Escolar.
 
@@ -158,15 +214,15 @@ b) A classificação anual do serviço do funcionário que se encontra a exercer
 
 5 - Não sendo dada a autorização prevista no n.º 2 ou verificando-se o condicionalismo da alínea b) do número anterior, poder-se-á aplicar o regime de apoio administrativo previsto nos artigos 12.º e 13.º do presente diploma.
 
-###### Art. 9.º As funções de tesoureiro serão exercidas por funcionário administrativo proposto pelo órgão de gestão da escola de acordo com as disposições do artigo 12.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374) e autorizado pelo Secretário Regional da Educação e Cultura, sob parecer do director regional da Administração Escolar, aplicando-se o regime dos n.os 3 a 5 do artigo anterior e devendo o órgão de gestão da escola propor outro funcionário sempre que cesse a autorização daquele que anteriormente exercia as funções.
+Art. 9.º As funções de tesoureiro serão exercidas por funcionário administrativo proposto pelo órgão de gestão da escola de acordo com as disposições do artigo 12.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374) e autorizado pelo Secretário Regional da Educação e Cultura, sob parecer do director regional da Administração Escolar, aplicando-se o regime dos n.os 3 a 5 do artigo anterior e devendo o órgão de gestão da escola propor outro funcionário sempre que cesse a autorização daquele que anteriormente exercia as funções.
 
-###### Art. 10.º - 1 - O serviço do pessoal administrativo será classificado nos termos do n.º 1 do artigo 13.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374).
+Art. 10.º - 1 - O serviço do pessoal administrativo será classificado nos termos do n.º 1 do artigo 13.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374).
 
 2 - O serviço do chefe de serviços administrativos ou do funcionário que exerça essas funções será classificado pelo director regional da Administração Escolar, sob proposta fundamentada do órgão de gestão do estabelecimento de ensino.
 
 3 - Da classificação será sempre dado conhecimento ao funcionário, cabendo recurso para o Secretário Regional da Educação e Cultura dentro dos quinze dias imediatos à notificação.
 
-###### Art. 11.º - 1 - O regime de apoio administrativo consiste na nomeação de um funcionário administrativo de outro estabelecimento de ensino ou de outro organismo ou serviço público para, em regime de acumulação, assumir as responsabilidades inerentes às funções de chefe de serviços administrativos do estabelecimento de ensino apoiado.
+Art. 11.º - 1 - O regime de apoio administrativo consiste na nomeação de um funcionário administrativo de outro estabelecimento de ensino ou de outro organismo ou serviço público para, em regime de acumulação, assumir as responsabilidades inerentes às funções de chefe de serviços administrativos do estabelecimento de ensino apoiado.
 
 2 - As condições de trabalho do funcionário apoiante serão reguladas por despacho do Secretário Regional da Educação e Cultura, podendo variar para cada caso conforme as circunstâncias e as necessidades do serviço.
 
@@ -174,23 +230,23 @@ b) A classificação anual do serviço do funcionário que se encontra a exercer
 
 4 - O regime de apoio administrativo pode ser aplicado a outros organismos ou serviços dependentes da Secretaria Regional da Educação e Cultura, sob proposta do director regional da Administração Escolar, quando o respectivo pessoal administrativo não tenha capacidade para assegurar o seu normal funcionamento.
 
-###### Art. 12.º - 1 - O recrutamento dos funcionários apoiantes será feito para cada caso por livre escolha do Secretário Regional da Educação e Cultura, sob proposta do director regional da Administração Escolar, de entre funcionários administrativos de categoria igual ou superior a segundo-oficial.
+Art. 12.º - 1 - O recrutamento dos funcionários apoiantes será feito para cada caso por livre escolha do Secretário Regional da Educação e Cultura, sob proposta do director regional da Administração Escolar, de entre funcionários administrativos de categoria igual ou superior a segundo-oficial.
 
 2 - A nomeação do funcionário apoiante será feita por despacho do Secretário Regional da Educação e Cultura, dando lugar às formalidades normais de provimento, mas podendo iniciar de imediato o exercício de funções, por conveniência urgente de serviço, se esta for declarada no respectivo despacho.
 
 3 - A nomeação será feita para vigorar até ao final de cada ano económico, caducando automaticamente em 31 de Dezembro, se não for expressamente renovada, sem prejuízo das obrigações do funcionário relativamente ao processamento de despesas autorizadas até àquela data e da prestação de contas.
 
-###### Art. 13.º - 1 - As actividades de apoio social escolar são actividades próprias e permanentes do estabelecimento de ensino, de plena responsabilidade dos seus órgãos de gestão, devendo ser asseguradas pelos respectivos serviços, cujos quadros serão, para este efeito, devidamente dimensionados.
+Art. 13.º - 1 - As actividades de apoio social escolar são actividades próprias e permanentes do estabelecimento de ensino, de plena responsabilidade dos seus órgãos de gestão, devendo ser asseguradas pelos respectivos serviços, cujos quadros serão, para este efeito, devidamente dimensionados.
 
 2 - Cabe ao conselho directivo ou órgão que o substitua garantir a programação, execução e avaliação das actividades de apoio social escolar da forma mais conveniente ao bom funcionamento da escola, assegurando nomeadamente a distribuição de tarefas e responsabilidades, a estabilidade e continuidade da gestão e a adequação das actividades às necessidades de saúde e equilibrado desenvolvimento dos alunos, ao melhor rendimento do ensino e à compensação de disparidades sociais, de ordem geográfica, económica e cultural.
 
 3 - Cabe ao conselho administrativo a responsabilidade pela arrecadação das receitas e pela execução das despesas relativas às actividades de apoio social escolar, pela legalidade e cabimento destas, pela sua rigorosa contabilização e pela apresentação das contas do respectivo exercício, nos termos da lei.
 
-###### Art. 14.º - 1 - O quadro único de ecónomos de apoio social escolar criado pelo [Decreto Regulamentar Regional n.º 21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909) é o constante do mapa de pessoal técnico-profissional e administrativo anexo ao presente diploma.
+Art. 14.º - 1 - O quadro único de ecónomos de apoio social escolar criado pelo [Decreto Regulamentar Regional n.º 21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909) é o constante do mapa de pessoal técnico-profissional e administrativo anexo ao presente diploma.
 
 2 - Os funcionários vinculados nos termos da [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril, ou do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), de 30 de Agosto, que sejam admitidos como ecónomo de apoio social escolar conservam o direito ao vencimento que lhes é atribuído pelo [Decreto-Lei n.º 172/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1980-474687), de 29 de Maio, sem prejuízo da aplicação das restantes disposições dos n.os 3 e 4 do artigo 7.º do [Decreto Regulamentar Regional n.º 21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909).
 
-###### Art. 15.º - 1 - Cabe ao ecónomo, sob a superintendência dos órgãos de gestão da escola e em estreita colaboração com os serviços administrativos, a direcção e administração correntes dos serviços de refeitório, bufete e papelaria, nomeadamente:
+Art. 15.º - 1 - Cabe ao ecónomo, sob a superintendência dos órgãos de gestão da escola e em estreita colaboração com os serviços administrativos, a direcção e administração correntes dos serviços de refeitório, bufete e papelaria, nomeadamente:
 
 a) A direcção do pessoal auxiliar afecto àqueles serviços;
 
@@ -212,44 +268,44 @@ h) O preenchimento diário dos mapas de consumo e outros elementos de estatísti
 
 3 - Quando não se encontre preenchido o lugar de ecónomo, e nos estabelecimentos de ensino que dele não disponham, as respectivas funções serão desempenhadas por funcionário ou funcionários designados pelo conselho directivo ou órgão que o substitua, sob a directa responsabilidade deste.
 
-###### Art. 16.º Ao pessoal administrativo, cujo quadro consta do mapa anexo ao presente diploma, sob a responsabilidade e direcção do chefe de serviços administrativos cabe assegurar todas as tarefas de expediente, contabilidade e tesouraria inerentes às actividades de apoio social escolar.
+Art. 16.º Ao pessoal administrativo, cujo quadro consta do mapa anexo ao presente diploma, sob a responsabilidade e direcção do chefe de serviços administrativos cabe assegurar todas as tarefas de expediente, contabilidade e tesouraria inerentes às actividades de apoio social escolar.
 
-###### Art. 17.º Aos funcionários colocados nos estabelecimentos de ensino da Região nos termos da [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril, e do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), de 30 de Agosto, deixa de caber exclusivamente a realização de actividades de apoio social escolar, podendo ser-lhes distribuídas pelo conselho directivo tarefas naquele domínio, bem como outras funções de apoio pedagógico, de actividades paraescolares e de ocupação dos tempos livres dos alunos, em termos a regular por despacho do Secretário Regional da Educação e Cultura.
+Art. 17.º Aos funcionários colocados nos estabelecimentos de ensino da Região nos termos da [Portaria n.º 207/77](https://diariodarepublica.pt/dr/detalhe/portaria/207-1977-139890), de 18 de Abril, e do [Decreto-Lei n.º 354/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1979-370051), de 30 de Agosto, deixa de caber exclusivamente a realização de actividades de apoio social escolar, podendo ser-lhes distribuídas pelo conselho directivo tarefas naquele domínio, bem como outras funções de apoio pedagógico, de actividades paraescolares e de ocupação dos tempos livres dos alunos, em termos a regular por despacho do Secretário Regional da Educação e Cultura.
 
-###### Art. 18.º - 1 - Os funcionários ou agentes que em 1 de Janeiro de 1979 exerciam funções de ecónomo ou de encarregado de refeitório, desde que possuam a escolaridade obrigatória, transitam para os lugares de encarregado de refeitório constantes do mapa II anexo ao presente diploma, os quais serão extintos quando vagarem, aplicando-se-lhes o disposto no n.º 2 do artigo 34.º do [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março.
+Art. 18.º - 1 - Os funcionários ou agentes que em 1 de Janeiro de 1979 exerciam funções de ecónomo ou de encarregado de refeitório, desde que possuam a escolaridade obrigatória, transitam para os lugares de encarregado de refeitório constantes do mapa II anexo ao presente diploma, os quais serão extintos quando vagarem, aplicando-se-lhes o disposto no n.º 2 do artigo 34.º do [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março.
 
 2 - O encarregado de refeitório colaborará com o ecónomo na gestão do respectivo serviço, exercendo as funções que lhe sejam delegadas por aquele de entre as indicadas no n.º 1 do artigo 16.º do presente diploma.
 
-###### Art. 19.º Nos dois primeiros concursos a realizar para a categoria de escriturário-dactilógrafo terá prioridade absoluta na colocação o pessoal auxiliar dos estabelecimentos de ensino, desde que possuam cumulativamente:
+Art. 19.º Nos dois primeiros concursos a realizar para a categoria de escriturário-dactilógrafo terá prioridade absoluta na colocação o pessoal auxiliar dos estabelecimentos de ensino, desde que possuam cumulativamente:
 
 a) Mais de cinco anos de serviço na função pública, ainda que prestado com interrupções;
 
 b) Habilitação literária legalmente exigida.
 
-###### Art. 20.º As disposições do presente diploma são aplicáveis ao pessoal administrativo das escolas do magistério primário, cujo quadro consta do mapa anexo ao presente diploma.
+Art. 20.º As disposições do presente diploma são aplicáveis ao pessoal administrativo das escolas do magistério primário, cujo quadro consta do mapa anexo ao presente diploma.
 
-###### Art. 21.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto ao pagamento de remunerações e contagem de tempo de serviço resultantes das mudanças de situação efectuadas nos termos da alínea a) do n.º 1 do artigo 6.º do presente diploma, por força do disposto no artigo 16.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), de 24 de Julho.
+Art. 21.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto ao pagamento de remunerações e contagem de tempo de serviço resultantes das mudanças de situação efectuadas nos termos da alínea a) do n.º 1 do artigo 6.º do presente diploma, por força do disposto no artigo 16.º do [Decreto-Lei n.º 273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 250/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1980-472514), de 24 de Julho.
 
-###### Art. 22.º As dúvidas que se levantarem na execução do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou deste e dos Secretários Regionais das Finanças e da Administração Pública, consoante as matérias em causa.
+Art. 22.º As dúvidas que se levantarem na execução do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou deste e dos Secretários Regionais das Finanças e da Administração Pública, consoante as matérias em causa.
 
 Aprovado em Conselho de Governo em 11 de Dezembro de 1980.
 
-**O Presidente do Governo Regional dos Açores, João Bosco Moto Amaral.**
+O Presidente do Governo Regional dos Açores, João Bosco Moto Amaral.
 
-**Assinado em Angra do Heroísmo em 4 de Fevereiro de 1981.**
+Assinado em Angra do Heroísmo em 4 de Fevereiro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 MAPA I
 
 Pessoal técnico-profissional e administrativo a que se referem os artigos 1.º, 17.º e 21.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04700/05130516.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04700/05130516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04700/05130516.pdf)
 
 MAPA II
 
 A que se refere o artigo 19.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/02/04700/05130516.pdf))](https://files.diariodarepublica.pt/1s/1981/02/04700/05130516.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/02/04700/05130516.pdf)

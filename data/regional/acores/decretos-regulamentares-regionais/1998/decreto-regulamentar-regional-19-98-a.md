@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1998/07/150b00/29602960.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/19/1998/07/02/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1998-489064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b565b63ded539cb8f2a8e6d93f52f3277e90afcebed7f2f5183065e46ed424c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71cfdd0b2e42a0bb1d2c09380459d8a8055e1b53a2d1207cd750342b5bc81343
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Ajudas de Custo
 - Comissão Consultiva Regional para a Defesa dos Direitos das Mulheres
-- Mulher
-- Secretário Regional da Presidência para as Finanças e Planeamento
 - Deslocação em Serviço
 - Igualdade de Oportunidades
+- Mulher
 - Secretário Regional da Educação e Assuntos Sociais
+- Secretário Regional da Presidência para as Finanças e Planeamento
 - Senha de Presença
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:279433:por
@@ -84,16 +84,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/18/1997/11/04/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/18/1997/11/04/a/dre
+- type: cites
+  target: pt:dre:675647:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:279433:por
+  label: "Revogado, a partir de 01.06.2011, pelo DLR.3/2011/A.03.03.2011.AL-RAA, DR.IS [44] de 03.03.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-2011-279433
+  date: '2011-03-03'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:58Z'
   warnings: []
   errors: []
 ---
@@ -118,10 +127,10 @@ As despesas referidas no artigo anterior são suportadas pelo Gabinete do Secret
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 17 de Abril de 1998.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 19 de Maio de 1998.**
+Assinado em Angra do Heroísmo em 19 de Maio de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

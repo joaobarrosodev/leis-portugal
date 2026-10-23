@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/8/2006/03/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2006-666921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09ea0490398607b7bace7da55714840003104afd1a77a930581bac476f4c0c5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61fbf8d776319b45903ab6246107c37f2a6f491b22150b2a703c3733dc18758d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Multa
-- Património Cultural
+- Açores
 - Fiscalização
 - Fundo Regional de Acção Cultural
-- Proteção do Ambiente
+- Multa
 - Parque Arqueológico
-- Açores
+- Património Cultural
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:115304969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115304969:por
+  label: Alterados os arts. 36.º-A, 36.º-B, 36.º-C e 36.º-D do DLR 27/2004/A de 24-ago, na redação do presente diploma, pelo(a)
+    Decreto Legislativo Regional n.º 6/2018/A - Diário da República n.º 94/2018, Série I de 2018-05-16 nos termos do n.º 2
+    do seu art. 4.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/6-2018-115304969
+  date: '2018-05-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/27/2004/08/24/a/dre
   label: null
@@ -85,16 +92,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/19/2000/08/10/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/19/2000/08/10/p/dre
+- type: cites
+  target: pt:dre:339843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479595:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:34Z'
   warnings: []
   errors: []
 ---
@@ -149,13 +164,17 @@ j) Trânsito de embarcações em redor das bóias de sinalização dos parques v
 
 2 - A recolha de bens do património cultural subaquático só é permitida no âmbito de trabalhos arqueológicos subaquáticos devidamente licenciados pela direcção regional competente em matéria de cultura.
 
-###### Artigo 36.º-B — Fiscalização
+Artigo 36.º-B
+
+Fiscalização
 
 1 - O cumprimento das disposições do presente diploma cabe ao departamento do Governo Regional competente em matéria de cultura e às entidades com atribuições policiais e de vigilância e fiscalização marítima.
 
 2 - No exercício da competência referida no número anterior o departamento do Governo Regional competente em matéria de cultura pode solicitar a colaboração de outras entidades, cujas competências de fiscalização estejam enquadradas no âmbito da aplicação do presente diploma.
 
-###### Artigo 36.º-C — Coimas
+Artigo 36.º-C
+
+Coimas
 
 1 - Sem prejuízo de outras sanções que se mostrem aplicáveis, constituem contra-ordenações, puníveis com a aplicação das seguintes coimas:
 
@@ -171,7 +190,9 @@ e) De (euro) 3000 a (euro) 30000, a violação do disposto nas alíneas e) e f) 
 
 2 - Em caso de reincidência as coimas terão os seus limites elevados para o dobro.
 
-###### Artigo 36.º-D — Instrução do processo
+Artigo 36.º-D
+
+Instrução do processo
 
 São competentes para mandar instruir processo de contra-ordenação e aplicar as sanções a que haja lugar:
 
@@ -179,7 +200,9 @@ a) O membro do Governo Regional competente em matéria de cultura, no que diz re
 
 b) A autoridade marítima competente, no que diz respeito à violação do disposto nas alíneas g), h), i) e j) do n.º 1 do artigo 36.º-A.
 
-###### Artigo 36.º-E — Produto das coimas
+Artigo 36.º-E
+
+Produto das coimas
 
 O produto das coimas reverte para:
 
@@ -197,10 +220,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de Janeiro de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 21 de Fevereiro de 2006.**
+Assinado em Angra do Heroísmo em 21 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

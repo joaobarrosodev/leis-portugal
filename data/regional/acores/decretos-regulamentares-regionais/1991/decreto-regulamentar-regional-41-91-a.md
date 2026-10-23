@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/12/291b00/66856689.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/41/1991/12/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1991-371378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f1a393f44974e19dcbe0773807756d1c5ad108c30225fd979e464d071dcb438
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f58254a7d6a3ca241e997fd9c91b8cbd7e0c63ddf6e4eee312e78fbdbc8e7e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Angra do Heroísmo
-- Reestruturação de Serviços
 - Centro de Estudo Conservação e Restauro de Obras de ARTE
+- Conservação e Restauro
 - Direcção Regional dos Assuntos Culturais
 - Museu
-- Conservação e Restauro
 - Quadro de Pessoal
-- Açores
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:584457:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:584787:por
+  label: "Alterado o artigo 19.º e o quadro de pessoal, aprovado no presente diploma, pelo DRR.43/92/A.19.11.1992.GR-RAA,\
+    \ DR.IS-B [268] de 19.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/43-1992-584787
+  date: '1992-11-19'
+- type: amended_by
+  target: pt:dre:462003:por
+  label: "Alterado o artigo 19.º e o quadro de pessoal, aprovado no presente diploma, na redacção do Decreto Regulamentar\
+    \ Regional n.º 43/92/A, de 19 de Novembro, pelo DRR.12/95/A.18.07.1995.GR-RAA, DR.IS-B [164] de 18.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1995-462003
+  date: '1995-07-18'
+- type: amended_by
+  target: pt:dre:427644:por
+  label: "Alterado o artigo 19.º e o quadro de pessoal pelo presente diploma, na redacção do Decreto Regulamentar Regional\
+    \ n.º 43/92/A, de 19 de Novembro e n.º 12/95/A, de 18 de Julho, pelo DRR.28/96/A.25.06.1996.SREC-RAA, DR.IS-B [145] de\
+    \ 25.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/28-1996-427644
+  date: '1996-06-25'
+- type: amended_by
+  target: pt:dre:505412:por
+  label: "Alterados os arts 11º, 14º e 16º pelo DRR.2/97/A.1997.01.27.SREC-RAA DR.IS-B [48] DE 1997.02.26\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/2-1997-505412
+  date: '1997-01-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
@@ -87,16 +111,61 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/26/1991/05/07/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/26/1991/05/07/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333550:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472529:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584457:por
+  label: "Revogado pelo DRR.36/2000/A.2000.11.10.SREAS-RAA DR.IS-B [282] DE 07/DEZ/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-2000-584457
+  date: '2000-11-10'
 article_structure:
   article_count: 21
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:56Z'
   warnings: []
   errors: []
 ---
@@ -275,16 +344,16 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 30 de Julho de 1991.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo, em 12 de Novembro de 1991.**
+Assinado em Angra do Heroísmo, em 12 de Novembro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Mapa a que se refere o artigo 11.º
 
 Centro de Estudo, Conservação e Restauro dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/12/291b00/66856689.pdf))](https://files.diariodarepublica.pt/1s/1991/12/291b00/66856689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/12/291b00/66856689.pdf)

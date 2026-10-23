@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14300/0002000066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2023/07/25/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2023-216154393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 432b79022cf36f8cc0a9571af876c7ae9b40d4f025ade473e56122da4042e48d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef6fe78e1867bc73d27fbe38971ec907da6941fbdbdc9852644759908bb03b88
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso ao Emprego
+- Açores
 - Arquivo
-- Formação Profissional
-- Pessoal Dirigente
-- Governo Regional
-- Definição de Competências
 - Convenção Coletiva de Trabalho
-- Integração de Trabalhadores
+- Definição de Competências
+- Direção Regional de Qualificação Profissional e Emprego
+- Formação Profissional
 - FSE
+- Fundo Regional do Emprego
+- Governo Regional
+- Integração de Trabalhadores
 - Orgânica
 - Pessoal de Chefia
+- Pessoal Dirigente
 - Proteção ao Deficiente
 - Qualificação Profissional
-- Fundo Regional do Emprego
-- Açores
 - Secretaria Regional da Juventude Qualificação Profissional e Emprego
-- Direção Regional de Qualificação Profissional e Emprego
 relationships:
 - type: amended_by
   target: pt:dre:896834906:por
@@ -137,16 +137,87 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/50/2019/07/24/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/50/2019/07/24/p/dre
+- type: cites
+  target: pt:dre:114425586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:123436957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175553:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175659840:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182727778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201616330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205994958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210488520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:896834906:por
+  label: Revogado, a partir de 19 de novembro de 2024, o Decreto Regulamentar Regional n.º 18/2022/A de 29 de setembro, na
+    redação do presente diploma, pelo(a) Decreto Regulamentar Regional n.º 20/2024/A - Diário da República n.º 223/2024, Série
+    I de 2024-11-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-2024-896834906
+  date: '2024-11-18'
 article_structure:
-  article_count: 83
-  section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:53Z'
   warnings: []
   errors: []
 ---
@@ -195,7 +266,9 @@ g) [...]
 
 h) [...]
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...]
 
@@ -229,7 +302,9 @@ m) Avaliar, propor e executar instrumentos de recolha e tratamento de informaç�
 
 3 - [...]
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - [...]
 
@@ -237,7 +312,9 @@ m) Avaliar, propor e executar instrumentos de recolha e tratamento de informaç�
 
 3 - Sob a tutela do secretário regional funciona ainda o Centro de Qualificação dos Açores, IPRA, cuja organização e funcionamento constam de diploma próprio.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 [...]
 
@@ -289,7 +366,9 @@ w) [Anterior alínea v).]
 
 x) Coordenar a participação da Região Autónoma dos Açores nos campeonatos das profissões.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -315,7 +394,9 @@ f) (Revogada.)
 
 6 - [...]
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -359,7 +440,9 @@ r) [...]
 
 3 - [...]
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - [...]
 
@@ -393,7 +476,9 @@ m) [...]
 
 3 - [...]
 
-###### Artigo 32.º — Direção de Serviços do Fundo Social Europeu
+Artigo 32.º
+
+Direção de Serviços do Fundo Social Europeu
 
 1 - À Direção de Serviços do Fundo Social Europeu, doravante designada por DSFSE, compete:
 
@@ -427,7 +512,9 @@ b) [...]
 
 3 - A DSFSE é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - [...]
 
@@ -451,7 +538,9 @@ i) [...]
 
 2 - [...]
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - [...]
 
@@ -495,7 +584,9 @@ b) O Núcleo de Acompanhamento e Controlo.
 
 3 - [...]
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - [...]
 
@@ -537,7 +628,9 @@ p) [...]
 
 4 - [...]
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -573,17 +666,21 @@ o) [Anterior alínea l).]
 
 2 - [...]
 
-## ANEXO II — [...]
+ANEXO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14300/0002000066.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14300/0002000066.pdf)
+[...]
 
-###### Artigo 3.º — Aditamento
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14300/0002000066.pdf)
+
+Artigo 3.º
+
+Aditamento
 
 É aditado ao anexo i do [Decreto Regulamentar Regional n.º 18/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2022-201616330), de 29 de setembro, o artigo 35.º-A, com a redação seguinte:
 
 «Artigo 35.º-A
 
-##### Divisão de Programas para o Emprego
+Divisão de Programas para o Emprego
 
 1 - À Divisão de Programas para o Emprego, doravante designada por DPE, compete:
 
@@ -605,41 +702,57 @@ h) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DPE é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.»
 
-###### Artigo 4.º — Revogação
+Artigo 4.º
+
+Revogação
 
 São revogadas a alínea f) do n.º 1 do artigo 26.º, a alínea h) do n.º 1 do artigo 33.º, as alíneas g), i) a m) do n.º 1 do artigo 35.º, a alínea k) do n.º 1 do artigo 37.º e o artigo 40.º do anexo i do [Decreto Regulamentar Regional n.º 18/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2022-201616330), de 29 de setembro.
 
-###### Artigo 5.º — Republicação
+Artigo 5.º
+
+Republicação
 
 Os anexos i e ii do [Decreto Regulamentar Regional n.º 18/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2022-201616330), de 29 de setembro, são republicados em anexo ao presente diploma, do qual fazem parte integrante, com as alterações ora introduzidas.
 
-###### Artigo 6.º — Entrada em vigor
+Artigo 6.º
+
+Entrada em vigor
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 23 de junho de 2023.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo em 17 de julho de 2023.**
+Assinado em Angra do Heroísmo em 17 de julho de 2023.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
-## ANEXO I — (a que se refere o artigo 5.º)
+ANEXO I
+
+(a que se refere o artigo 5.º)
 
 Republicação dos anexos i e ii do [Decreto Regulamentar Regional n.º 18/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2022-201616330), de 29 de setembro
 
-## ANEXO I — Orgânica da Secretaria Regional da Juventude, Qualificação Profissional e Emprego
+ANEXO I
 
-### CAPÍTULO I — Atribuições e competências
+Orgânica da Secretaria Regional da Juventude, Qualificação Profissional e Emprego
 
-###### Artigo 1.º — Objeto
+CAPÍTULO I
+
+Atribuições e competências
+
+Artigo 1.º
+
+Objeto
 
 O presente diploma estabelece a orgânica da Secretaria Regional da Juventude, Qualificação Profissional e Emprego, doravante designada por SRJQPE, dos seus serviços dependentes, bem como o respetivo quadro do pessoal dirigente, de direção específica e de chefia que correspondam a unidades orgânicas.
 
-###### Artigo 2.º — Atribuições
+Artigo 2.º
+
+Atribuições
 
 A SRJQPE é o departamento do Governo Regional que propõe e executa as políticas do Governo Regional nas matérias seguintes:
 
@@ -659,7 +772,9 @@ g) Inspeção das atividades económicas;
 
 h) Inspeção do trabalho.
 
-###### Artigo 3.º — Competências
+Artigo 3.º
+
+Competências
 
 1 - Ao Secretário Regional da Juventude, Qualificação Profissional e Emprego, doravante designado por secretário regional, compete:
 
@@ -693,9 +808,13 @@ m) Avaliar, propor e executar instrumentos de recolha e tratamento de informaç�
 
 3 - Para efeitos do referido no número anterior, e sem prejuízo do disposto na lei, consideram-se atos de gestão corrente os que respeitem à gestão do pessoal, do equipamento, dos recursos orçamentais e de outros que constituam simples condição de exercício de competências.
 
-### CAPÍTULO II — Estrutura orgânica
+CAPÍTULO II
 
-###### Artigo 4.º — Estrutura geral
+Estrutura orgânica
+
+Artigo 4.º
+
+Estrutura geral
 
 1 - Na dependência do secretário regional funcionam os serviços seguintes:
 
@@ -729,23 +848,37 @@ ii) Inspeção Regional do Trabalho.
 
 3 - Sob a tutela do secretário regional funciona ainda o Centro de Qualificação dos Açores, IPRA, cuja organização e funcionamento constam de diploma próprio.
 
-### CAPÍTULO III — Órgãos e serviços
+CAPÍTULO III
 
-#### SECÇÃO I — Serviços Consultivos
+Órgãos e serviços
 
-##### SUBSECÇÃO I — Conselho de Juventude dos Açores
+SECÇÃO I
 
-###### Artigo 5.º — Natureza, missão e competências
+Serviços Consultivos
+
+SUBSECÇÃO I
+
+Conselho de Juventude dos Açores
+
+Artigo 5.º
+
+Natureza, missão e competências
 
 1 - O Conselho de Juventude dos Açores, doravante designado por CJA, é o órgão de consulta do Governo Regional dos Açores em matérias relacionadas com a política de e para a juventude.
 
 2 - A organização e funcionamento do CJA é objeto de diploma regulamentar próprio.
 
-#### SECÇÃO II — Serviços Executivos
+SECÇÃO II
 
-##### SUBSECÇÃO I — Direção de Serviços Administrativos e Financeiros
+Serviços Executivos
 
-###### Artigo 6.º — Competências
+SUBSECÇÃO I
+
+Direção de Serviços Administrativos e Financeiros
+
+Artigo 6.º
+
+Competências
 
 1 - A Direção de Serviços Administrativos e Financeiros, doravante designada por DSAF, funciona na direta dependência hierárquica do secretário regional e assegura, de forma partilhada, os serviços administrativos e financeiros, em todas as suas vertentes, ao secretário regional e ao respetivo gabinete, às direções regionais e aos demais órgãos e serviços da SRJQPE.
 
@@ -785,7 +918,9 @@ o) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - A DSAF é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 7.º — Gabinete de Recursos Humanos
+Artigo 7.º
+
+Gabinete de Recursos Humanos
 
 1 - Ao Gabinete de Recursos Humanos, doravante designado por GRH, compete:
 
@@ -803,9 +938,13 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O GRH é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-##### SUBSECÇÃO II — Gabinete de Assuntos Jurídicos
+SUBSECÇÃO II
 
-###### Artigo 8.º — Competências
+Gabinete de Assuntos Jurídicos
+
+Artigo 8.º
+
+Competências
 
 1 - Ao Gabinete de Assuntos Jurídicos, doravante designado por GAJ, compete:
 
@@ -829,9 +968,13 @@ i) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O GAJ é dirigido por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-##### SUBSECÇÃO III — Gabinete de Recursos Digitais e da Comunicação
+SUBSECÇÃO III
 
-###### Artigo 9.º — Missão e competências
+Gabinete de Recursos Digitais e da Comunicação
+
+Artigo 9.º
+
+Missão e competências
 
 1 - O Gabinete de Recursos Digitais e da Comunicação, doravante designado por GRDC, funciona na direta dependência hierárquica do secretário regional e assegura, de forma partilhada, os serviços informáticos, recursos digitais e a comunicação, ao secretário regional e respetivo gabinete, às direções regionais e aos demais órgãos e serviços da SRJQPE.
 
@@ -869,7 +1012,9 @@ b) A Unidade da Comunicação.
 
 4 - O GRDC é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado para o efeito através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 10.º — Unidade de Recursos Digitais
+Artigo 10.º
+
+Unidade de Recursos Digitais
 
 1 - À Unidade de Recursos Digitais, doravante designada por URD, compete:
 
@@ -911,7 +1056,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A URD depende do coordenador do GRDC.
 
-###### Artigo 11.º — Unidade da Comunicação
+Artigo 11.º
+
+Unidade da Comunicação
 
 1 - À Unidade da Comunicação, doravante designada por UC, compete:
 
@@ -937,9 +1084,13 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A UC depende do coordenador do GRDC.
 
-##### SUBSECÇÃO IV — Centro de Artesanato e Design dos Açores
+SUBSECÇÃO IV
 
-###### Artigo 12.º — Missão e competências
+Centro de Artesanato e Design dos Açores
+
+Artigo 12.º
+
+Missão e competências
 
 1 - O Centro de Artesanato e Design dos Açores, doravante designado por CADA, é o órgão executivo da SRJQPE ao qual está cometida a execução da política regional nas áreas do desenvolvimento, da valorização dos produtos tradicionais, designadamente do artesanato regional e unidades produtivas artesanais, da formação profissional e da coordenação de iniciativas multifuncionais com desenvolvimento no meio local.
 
@@ -985,9 +1136,13 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - O CADA é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-##### SUBSECÇÃO V — Observatório do Emprego e Qualificação Profissional
+SUBSECÇÃO V
 
-###### Artigo 13.º — Missão e competências
+Observatório do Emprego e Qualificação Profissional
+
+Artigo 13.º
+
+Missão e competências
 
 1 - O Observatório do Emprego e Qualificação Profissional, doravante designado por OEQP, é o serviço da SRJQPE que tem por missão produzir e efetuar o tratamento de estatísticas de obrigatoriedade social, bem como realizar estudos no âmbito do trabalho, emprego e formação profissional, com o objetivo de apoiar o Governo Regional no desenvolvimento das suas estratégias para os setores do trabalho, emprego, formação e qualificação profissional.
 
@@ -1043,9 +1198,13 @@ x) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - O OEQP é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado para o efeito através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-##### SUBSECÇÃO VI — Gabinete de Defesa do Consumidor
+SUBSECÇÃO VI
 
-###### Artigo 14.º — Missão e competências
+Gabinete de Defesa do Consumidor
+
+Artigo 14.º
+
+Missão e competências
 
 1 - O Gabinete de Defesa do Consumidor, doravante designado por GDC, tem por missão desenvolver a política da defesa dos consumidores da Região Autónoma dos Açores, definindo e adotando as medidas necessárias para assegurar o seu mais elevado nível de proteção e visando garantir a existência de consumidores informados, esclarecidos e conscientes que conduzam a uma economia inovadora e equilibrada.
 
@@ -1065,9 +1224,13 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - O GDC é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado para o efeito através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-##### SUBSECÇÃO VII — Fundo Regional do Emprego
+SUBSECÇÃO VII
 
-###### Artigo 15.º — Natureza e estatuto
+Fundo Regional do Emprego
+
+Artigo 15.º
+
+Natureza e estatuto
 
 1 - O Fundo Regional do Emprego, doravante designado por FRE, é um organismo dotado de autonomia administrativa, financeira e patrimonial, que funciona na dependência direta do secretário regional e é dirigido por um conselho diretivo, composto por um presidente e dois vogais, a nomear nos termos legais.
 
@@ -1081,7 +1244,9 @@ f) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 6 - O apoio logístico e administrativo de funcionamento do FRE compete aos respetivos serviços técnicos e de apoio.
 
-###### Artigo 16.º — Conselho diretivo
+Artigo 16.º
+
+Conselho diretivo
 
 1 - Ao conselho diretivo do FRE, compete:
 
@@ -1127,7 +1292,9 @@ d) Autorizar as despesas, dentro dos limites legais.
 
 5 - São isentos de responsabilidade os membros do conselho diretivo que, tendo estado presentes na reunião em que foi tomada a deliberação, tiverem manifestado o seu desacordo, em declaração registada na respetiva ata, bem como os membros ausentes que tenham declarado por escrito o seu desacordo, que igualmente será registado na ata.
 
-###### Artigo 17.º — Serviços técnicos e de apoio
+Artigo 17.º
+
+Serviços técnicos e de apoio
 
 1 - O FRE integra serviços técnicos e de apoio, doravante designados por STA.
 
@@ -1167,13 +1334,19 @@ p) Tramitar todas as matérias relacionadas com as candidaturas e pedidos de ree
 
 3 - Os STA funcionam na direta dependência do presidente do conselho diretivo do FRE.
 
-##### SUBSECÇÃO VIII — Direção Regional da Juventude
+SUBSECÇÃO VIII
 
-###### Artigo 18.º — Natureza e missão
+Direção Regional da Juventude
+
+Artigo 18.º
+
+Natureza e missão
 
 A Direção Regional da Juventude, doravante designada por DRJ, é o serviço executivo da SRJQPE que tem por missão a conceção, execução e avaliação da política do Governo Regional de e para a juventude.
 
-###### Artigo 19.º — Competências
+Artigo 19.º
+
+Competências
 
 À DRJ compete:
 
@@ -1209,7 +1382,9 @@ o) Analisar estatisticamente os dados referentes à implementação das polític
 
 p) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
 
-###### Artigo 20.º — Estrutura
+Artigo 20.º
+
+Estrutura
 
 1 - A estrutura da DRJ integra a Direção de Serviços da Juventude, doravante designada por DSJ.
 
@@ -1217,7 +1392,9 @@ p) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DRJ é dirigida por um diretor regional, cargo de direção superior de 1.º grau.
 
-###### Artigo 21.º — Direção de Serviços da Juventude
+Artigo 21.º
+
+Direção de Serviços da Juventude
 
 1 - Compete à DSJ:
 
@@ -1261,7 +1438,9 @@ b) A Divisão da Participação e Ocupação dos Jovens.
 
 3 - A DSJ é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 22.º — Divisão da Promoção e Informação Juvenil
+Artigo 22.º
+
+Divisão da Promoção e Informação Juvenil
 
 1 - À Divisão da Promoção e Informação Juvenil, doravante designada por DPIJ, compete:
 
@@ -1303,7 +1482,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DPIJ é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 23.º — Divisão da Participação e Ocupação dos Jovens
+Artigo 23.º
+
+Divisão da Participação e Ocupação dos Jovens
 
 1 - À Divisão da Participação e Ocupação dos Jovens, doravante designada por DPOJ, compete:
 
@@ -1351,13 +1532,19 @@ u) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DPOJ é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-##### SUBSECÇÃO IX — Direção Regional de Qualificação Profissional e Emprego
+SUBSECÇÃO IX
 
-###### Artigo 24.º — Natureza e missão
+Direção Regional de Qualificação Profissional e Emprego
+
+Artigo 24.º
+
+Natureza e missão
 
 A Direção Regional de Qualificação Profissional e Emprego, doravante designada por DRQPE, é o serviço executivo da SRJQPE que tem por missão propor, executar e avaliar as políticas em matéria de empregabilidade, formação, qualificação profissional e trabalho.
 
-###### Artigo 25.º — Competências
+Artigo 25.º
+
+Competências
 
 À DRQPE compete:
 
@@ -1409,7 +1596,9 @@ w) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 x) Coordenar a participação da Região Autónoma dos Açores nos campeonatos das profissões.
 
-###### Artigo 26.º — Estrutura
+Artigo 26.º
+
+Estrutura
 
 1 - A DRQPE integra:
 
@@ -1435,7 +1624,9 @@ f) (Revogada.)
 
 6 - A DRQPE é dirigida por um diretor regional, cargo de direção superior de 1.º grau.
 
-###### Artigo 27.º — Direção de Serviços do Emprego
+Artigo 27.º
+
+Direção de Serviços do Emprego
 
 1 - À Direção de Serviços do Emprego, doravante designada por DSE, compete:
 
@@ -1479,7 +1670,9 @@ r) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - A DSE é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 28.º — Centro de Qualificação e Emprego
+Artigo 28.º
+
+Centro de Qualificação e Emprego
 
 1 - Ao Centro de Qualificação e Emprego, doravante designado por CQE, compete:
 
@@ -1519,7 +1712,9 @@ c) O Núcleo Operacional do Faial.
 
 3 - O CQE é dirigido por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 29.º — Núcleo Operacional da Terceira
+Artigo 29.º
+
+Núcleo Operacional da Terceira
 
 1 - Ao Núcleo Operacional da Terceira, doravante designado por NOT, compete:
 
@@ -1529,7 +1724,9 @@ b) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NOT é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 30.º — Núcleo Operacional do Pico
+Artigo 30.º
+
+Núcleo Operacional do Pico
 
 1 - Ao Núcleo Operacional do Pico, doravante designado por NOP compete:
 
@@ -1539,7 +1736,9 @@ b) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NOP é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 31.º — Núcleo Operacional do Faial
+Artigo 31.º
+
+Núcleo Operacional do Faial
 
 1 - Ao Núcleo Operacional do Faial, doravante designado por NOF compete:
 
@@ -1549,7 +1748,9 @@ b) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NOF é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 32.º — Direção de Serviços do Fundo Social Europeu
+Artigo 32.º
+
+Direção de Serviços do Fundo Social Europeu
 
 1 - À Direção de Serviços do Fundo Social Europeu, doravante designado por DSFSE, compete:
 
@@ -1583,7 +1784,9 @@ b) O Núcleo de Auditoria e Monitorização do Fundo Social Europeu.
 
 3 - A DSFSE é dirigida por um diretor de serviços, cargos de direção intermédia de 1.º grau.
 
-###### Artigo 33.º — Divisão de Análise e Acompanhamento do Fundo Social Europeu
+Artigo 33.º
+
+Divisão de Análise e Acompanhamento do Fundo Social Europeu
 
 1 - À Divisão de Análise e Acompanhamento do Fundo Social Europeu, doravante designada por DAAFSE, compete:
 
@@ -1607,7 +1810,9 @@ i) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DAAFSE é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 34.º — Núcleo de Auditoria e Monitorização do Fundo Social Europeu
+Artigo 34.º
+
+Núcleo de Auditoria e Monitorização do Fundo Social Europeu
 
 1 - Ao Núcleo de Auditoria e Monitorização do Fundo Social Europeu, doravante designado por NAMFSE, compete:
 
@@ -1623,7 +1828,9 @@ e) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NAMFSE é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 35.º — Direção de Serviços da Promoção do Emprego
+Artigo 35.º
+
+Direção de Serviços da Promoção do Emprego
 
 1 - À Direção de Serviços da Promoção do Emprego, doravante designada por DSPE, compete:
 
@@ -1667,7 +1874,9 @@ b) O Núcleo de Acompanhamento e Controlo.
 
 3 - A DSPE é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 35.º-A — Divisão de Programas para o Emprego
+Artigo 35.º-A
+
+Divisão de Programas para o Emprego
 
 1 - À Divisão de Programas para o Emprego, doravante designada por DPE, compete:
 
@@ -1689,7 +1898,9 @@ h) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DPE é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 36.º — Núcleo de Acompanhamento e Controlo
+Artigo 36.º
+
+Núcleo de Acompanhamento e Controlo
 
 1 - Ao Núcleo de Acompanhamento e Controlo, doravante designado por NAC, compete:
 
@@ -1701,7 +1912,9 @@ c) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O NAC é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do secretário regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional.
 
-###### Artigo 37.º — Direção de Serviços do Trabalho
+Artigo 37.º
+
+Direção de Serviços do Trabalho
 
 1 - À Direção de Serviços do Trabalho, doravante designada por DST, compete:
 
@@ -1743,7 +1956,9 @@ p) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - A DST é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.
 
-###### Artigo 38.º — Divisão das Relações do Trabalho
+Artigo 38.º
+
+Divisão das Relações do Trabalho
 
 1 - À Divisão das Relações do Trabalho, doravante designada por DRT, compete:
 
@@ -1769,7 +1984,9 @@ j) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DRT é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 39.º — Divisão de Certificação e Qualificação Profissional
+Artigo 39.º
+
+Divisão de Certificação e Qualificação Profissional
 
 1 - À Divisão de Certificação e Qualificação Profissional, doravante designada por DCQP, compete:
 
@@ -1805,15 +2022,23 @@ o) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - A DCQP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 40.º — Núcleo de Qualificação e Certificação de Competências
+Artigo 40.º
+
+Núcleo de Qualificação e Certificação de Competências
 
 (Revogado.)
 
-#### SECÇÃO III — Serviços Inspetivos
+SECÇÃO III
 
-##### SUBSECÇÃO I — Inspeção Regional das Atividades Económicas
+Serviços Inspetivos
 
-###### Artigo 41.º — Natureza e missão
+SUBSECÇÃO I
+
+Inspeção Regional das Atividades Económicas
+
+Artigo 41.º
+
+Natureza e missão
 
 1 - A Inspeção Regional das Atividades Económicas, doravante designada por IRAE, é o serviço da SRJQPE, que tem por missão garantir o cumprimento das normas que disciplinam as atividades económicas, sendo responsável, na Região Autónoma dos Açores, pela fiscalização do cumprimento das leis, regulamentos, instruções, despachos e demais normas que regulam as atividades económicas.
 
@@ -1823,7 +2048,9 @@ o) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 4 - A IRAE funciona na dependência direta do secretário regional e goza de independência e autonomia técnica no exercício das suas competências.
 
-###### Artigo 42.º — Competências
+Artigo 42.º
+
+Competências
 
 1 - À IRAE compete:
 
@@ -1859,7 +2086,9 @@ o) Elaborar estudos de natureza jurídica que visem a coerência e a racionalida
 
 2 - No desempenho das suas competências, e sempre que se mostre necessário, a IRAE pode solicitar a cooperação de outras entidades ou organismos, nomeadamente das forças de segurança pública.
 
-###### Artigo 43.º — Estrutura
+Artigo 43.º
+
+Estrutura
 
 1 - A IRAE integra:
 
@@ -1869,7 +2098,9 @@ b) A Divisão de Inspeção e das Contraordenações.
 
 2 - A IRAE é dirigida por um inspetor regional, cargo equiparado, para todos os efeitos legais, a subdiretor regional, cargo de direção superior de 2.º grau.
 
-###### Artigo 44.º — Inspetor regional das Atividades Económicas
+Artigo 44.º
+
+Inspetor regional das Atividades Económicas
 
 1 - Ao inspetor regional das Atividades Económicas compete:
 
@@ -1907,7 +2138,9 @@ p) Promover a divulgação dos resultados da atividade operacional de inspeção
 
 2 - O inspetor regional é substituído nas suas faltas e impedimentos por quem ele designar para esse efeito.
 
-###### Artigo 45.º — Divisão da Organização e Planeamento Inspetivo
+Artigo 45.º
+
+Divisão da Organização e Planeamento Inspetivo
 
 1 - À Divisão da Organização e Planeamento Inspetivo, doravante designado por DOPI, cumpre zelar pelo cumprimento das normas que regem as atividades económicas dos setores alimentar e não alimentar, promover a proteção da saúde pública, assegurar a inspeção dos operadores, garantir a segurança geral dos produtos e serviços e a lealdade das práticas comerciais e promover a leal concorrência e a proteção dos consumidores.
 
@@ -1957,7 +2190,9 @@ s) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 5 - Os inspetores indicados na alínea anterior exercem, ainda, as competências que nos termos da lei lhe sejam delegadas ou subdelegadas.
 
-###### Artigo 46.º — Divisão de Inspeção e das Contraordenações
+Artigo 46.º
+
+Divisão de Inspeção e das Contraordenações
 
 1 - À Divisão de Inspeção e das Contraordenações, doravante designada por DIC, compete:
 
@@ -1997,7 +2232,9 @@ p) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - Na dependência da DIC funciona a Unidade de Apoio à Atividade Inspetiva e Contraordenacional.
 
-###### Artigo 47.º — Unidade de Apoio à Atividade Inspetiva e Contraordenacional
+Artigo 47.º
+
+Unidade de Apoio à Atividade Inspetiva e Contraordenacional
 
 A Unidade de Apoio à Atividade Inspetiva e Contraordenacional, doravante designada por UAAIC, cumpre apoiar os órgãos e serviços da IRAE nos domínios dos recursos humanos, financeiros, patrimoniais, comunicacionais e documentais, bem como assegurar os serviços de caráter administrativo da IRAE, sendo da sua competência:
 
@@ -2029,7 +2266,9 @@ m) Definir, organizar e orientar tecnicamente o sistema de documentação;
 
 n) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
 
-###### Artigo 48.º — Medidas preventivas
+Artigo 48.º
+
+Medidas preventivas
 
 1 - Quando seja detetada uma situação de perigo grave para a saúde e a segurança das pessoas e bens, o inspetor regional pode determinar as providências que em cada caso se justifiquem para prevenir ou eliminar essa situação.
 
@@ -2037,7 +2276,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - Sempre que se verifique obstrução à execução das providências previstas no presente artigo, pode, igualmente, ser solicitada às entidades competentes a notificação dos distribuidores de energia elétrica para interromperem o fornecimento deste serviço.
 
-###### Artigo 49.º — Medidas inspetivas
+Artigo 49.º
+
+Medidas inspetivas
 
 1 - No âmbito da ação inspetiva, o pessoal com funções inspetivas pode recolher informação sobre as atividades inspecionadas, proceder a exames a quaisquer vestígios de infrações, bem como a colheitas de amostras para exame laboratorial.
 
@@ -2045,7 +2286,9 @@ n) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 3 - O pessoal com funções inspetivas pode, ainda, requisitar, para exame, consulta e junção aos autos, processos e documentos ou as respetivas certidões, bem como quaisquer outros elementos existentes nos livros, registos e arquivos dos serviços onde ocorram os atos inspetivos ou com eles diretamente relacionados.
 
-###### Artigo 50.º — Locais de inspeção
+Artigo 50.º
+
+Locais de inspeção
 
 1 - No exercício das suas competências, compete à IRAE a fiscalização de todos os locais onde se proceda a qualquer atividade industrial, comercial, agrícola, piscatória ou de prestação de serviços, nomeadamente unidades produtoras de produtos acabados e intermédios, armazéns, escritórios, estabelecimentos comerciais, estabelecimentos hoteleiros e similares ou de outra natureza, cantinas e refeitórios, recintos de diversão ou de espetáculos, gares e aerogares e meios de transporte terrestre de pessoas onde se sirvam alimentos ou se vendam bens ao público.
 
@@ -2055,7 +2298,9 @@ a) A entrada nos locais referidos no número anterior, bem como a sua permanênc
 
 b) A documentação, livros de contabilidade, registos e quaisquer outros elementos que lhes forem exigidos e, bem assim, prestar as informações e declarações que lhes forem solicitadas.
 
-###### Artigo 51.º — Livre-trânsito e uso de porte de arma
+Artigo 51.º
+
+Livre-trânsito e uso de porte de arma
 
 1 - O pessoal dirigente e das carreiras de inspeção da IRAE goza, para além dos direitos gerais atribuídos aos trabalhadores em funções públicas, dos direitos específicos seguintes:
 
@@ -2067,25 +2312,35 @@ c) Receber auxílio de quaisquer autoridades ou agentes de autoridade para o des
 
 2 - O pessoal referido no número anterior é investido em poderes de autoridade pública, não lhe podendo ser impedida a entrada nos lugares, sujeitos à competência de intervenção inspetiva, desde que identificado pela exibição do cartão de livre-trânsito.
 
-###### Artigo 52.º — Recomendações
+Artigo 52.º
+
+Recomendações
 
 No âmbito das ações inspetivas, a IRAE pode emitir recomendações que tenham por objeto a melhoria da adequação das atividades económicas aos parâmetros legais.
 
-###### Artigo 53.º — Regime de duração do trabalho
+Artigo 53.º
+
+Regime de duração do trabalho
 
 1 - Ao pessoal das carreiras de inspeção da IRAE é aplicado o regime de duração e horário de trabalho fixado para os trabalhadores com contrato de trabalho em funções públicas, salvo o disposto no número seguinte.
 
 2 - O serviço prestado pelo pessoal das carreiras de inspeção é de caráter permanente, o que implica a obrigatoriedade da sua prestação a qualquer hora do dia ou da noite, incluindo os dias de descanso ou feriados, consoante as necessidades do serviço.
 
-###### Artigo 54.º — Regimes jurídicos da atividade inspetiva e do pessoal
+Artigo 54.º
+
+Regimes jurídicos da atividade inspetiva e do pessoal
 
 1 - A IRAE está sujeita às regras relativas ao regime jurídico da atividade inspetiva, auditoria e fiscalização.
 
 2 - Mantém-se em vigor o disposto no [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de abril, com a adaptação à Região Autónoma dos Açores, operada pelo [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de novembro, sem prejuízo da matéria que tiver sido revogada.
 
-##### SUBSECÇÃO II — Inspeção Regional do Trabalho
+SUBSECÇÃO II
 
-###### Artigo 55.º — Natureza, missão e âmbito
+Inspeção Regional do Trabalho
+
+Artigo 55.º
+
+Natureza, missão e âmbito
 
 1 - A Inspeção Regional do Trabalho, doravante designada por IRT, é um serviço da SRJQPE que funciona da direta dependência do secretário regional e tem, no exercício das suas competências, autonomia técnica e independência, nos termos do respetivo Estatuto.
 
@@ -2095,7 +2350,9 @@ No âmbito das ações inspetivas, a IRAE pode emitir recomendações que tenham
 
 4 - A IRT exerce a sua ação, na Região Autónoma dos Açores, em empresas, qualquer que seja a sua forma ou natureza jurídica, de todos os setores de atividade, seja qual for o regime aplicável aos respetivos trabalhadores, bem como em quaisquer locais onde se verifique a prestação do trabalho ou em relação aos quais haja indícios fundamentados dessa prestação.
 
-###### Artigo 56.º — Competências
+Artigo 56.º
+
+Competências
 
 À IRT compete:
 
@@ -2127,7 +2384,9 @@ m) Exercer as atribuições em matéria de licenciamento que lhe sejam cometidas
 
 n) Exercer as demais atribuições legalmente cometidas ao serviço com competência inspetiva do ministério responsável pela área laboral.
 
-###### Artigo 57.º — Estrutura
+Artigo 57.º
+
+Estrutura
 
 1 - A IRT integra as seguintes unidades orgânicas desconcentradas:
 
@@ -2141,7 +2400,9 @@ c) O Serviço Inspetivo da Horta, que abrange, na sua área de atuação, as ilh
 
 3 - A IRT é dirigida por um inspetor regional, equiparado, para todos os efeitos legais, a subdiretor regional, cargo de direção superior de 2.º grau.
 
-###### Artigo 58.º — Inspetor regional do Trabalho
+Artigo 58.º
+
+Inspetor regional do Trabalho
 
 Ao inspetor regional do Trabalho compete:
 
@@ -2171,7 +2432,9 @@ l) Promover a celebração de protocolos de colaboração com outras instituiç�
 
 m) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.
 
-###### Artigo 59.º — Competências dos Serviços Inspetivos
+Artigo 59.º
+
+Competências dos Serviços Inspetivos
 
 1 - Aos Serviços Inspetivos de Ponta Delgada, Angra do Heroísmo e Horta, no âmbito da respetiva área geográfica de atuação, compete:
 
@@ -2201,7 +2464,9 @@ l) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - Os Serviços Inspetivos de Ponta Delgada, Angra do Heroísmo e Horta são dirigidos, respetivamente, por um inspetor delegado, equiparado, para todos os efeitos legais, a chefe de divisão, cargo de direção intermédia de 2.º grau.
 
-###### Artigo 60.º — Gabinete de Segurança e Saúde no Trabalho
+Artigo 60.º
+
+Gabinete de Segurança e Saúde no Trabalho
 
 1 - Ao GSST compete:
 
@@ -2221,7 +2486,9 @@ g) Assegurar a realização de outras tarefas que, no âmbito da sua área de co
 
 2 - O GSST depende diretamente do inspetor regional do Trabalho.
 
-###### Artigo 61.º — Receitas
+Artigo 61.º
+
+Receitas
 
 1 - A IRT dispõe das seguintes receitas próprias:
 
@@ -2233,11 +2500,15 @@ c) Quaisquer outras receitas que lhe sejam atribuídas pela lei.
 
 2 - As receitas referidas na alínea b) do número anterior são consignadas aos custos de funcionamento e despesas processuais da IRT, transitando os saldos não utilizáveis para o ano seguinte.
 
-###### Artigo 62.º — Recomendações
+Artigo 62.º
+
+Recomendações
 
 No âmbito das ações inspetivas, a IRT pode emitir recomendações que tenham por objeto a melhoria da adequação das atividades inspecionadas aos parâmetros legais.
 
-###### Artigo 63.º — Livre-trânsito e uso de porte de arma
+Artigo 63.º
+
+Livre-trânsito e uso de porte de arma
 
 1 - O pessoal dirigente e das carreiras de inspeção da IRT goza, para além dos direitos gerais atribuídos aos trabalhadores em funções públicas, dos direitos específicos seguintes:
 
@@ -2249,24 +2520,34 @@ c) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o 
 
 2 - O pessoal referido no número anterior é investido em poderes de autoridade pública, não lhe podendo ser impedida a entrada nos lugares, sujeitos à competência de intervenção inspetiva, desde que identificado pela exibição do cartão de livre-trânsito.
 
-###### Artigo 64.º — Regimes jurídicos da atividade inspetiva e do pessoal
+Artigo 64.º
+
+Regimes jurídicos da atividade inspetiva e do pessoal
 
 1 - A IRT está sujeita às regras relativas ao regime jurídico da atividade inspetiva, auditoria e fiscalização contidas no [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, alterado pelo [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), de 13 de fevereiro, e pela [Lei n.º 114/2017](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), de 29 de dezembro, e pelo [Decreto-Lei n.º 109-E/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-e-2021-175659840), de 9 de dezembro, adaptado à Região Autónoma dos Açores pelo [Decreto Legislativo Regional n.º 40/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-175553), de 8 de outubro.
 
 2 - As carreiras inspetivas da IRT regem-se pelo disposto no [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de abril, com a adaptação à Região Autónoma dos Açores introduzida pelo [Decreto Legislativo Regional n.º 22/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2001-603510), de 13 de novembro, enquanto o respetivo regime não for revisto.
 
-### CAPÍTULO IV — Artigo 65.º
+CAPÍTULO IV
+
+Artigo 65.º
 
 Quadros de pessoal
 
 O pessoal afeto à SRJQPE consta dos quadros regionais de ilha em vigor.
 
-###### Artigo 66.º — Carreira de técnico de emprego
+Artigo 66.º
+
+Carreira de técnico de emprego
 
 A carreira de técnico de emprego é uma carreira subsistente, sendo-lhe aplicável, com as necessárias adaptações, o disposto no [Decreto Legislativo Regional n.º 37/2004/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2004-577136), de 20 de outubro.
 
-## ANEXO II — (a que se refere o artigo 1.º)
+ANEXO II
+
+(a que se refere o artigo 1.º)
 
 Quadro de pessoal dirigente e de chefia da Secretaria Regional da Juventude, Qualificação Profissional e Emprego
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14300/0002000066.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14300/0002000066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2023/07/14300/0002000066.pdf)
+
+116683014

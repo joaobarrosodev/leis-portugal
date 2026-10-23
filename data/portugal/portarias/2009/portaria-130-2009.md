@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2009/01/02100/0065200656.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/130/2009/01/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/130-2009-601734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:37:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bd4b6808d7c8fc8f3a8cda37514eceab4da8f754d096ce541462912b1cf2fbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3a13d671b2c00e7979a3eff12b0ce3b7e059f033262d5a544a78802d56c37eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:37:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto da Segurança Social
-- Financiamento
-- Instituto do Emprego e Formação Profissional
+- Contrato de Trabalho
 - Desempregado
+- Desemprego
 - Empresa Privada
 - Entidade Patronal
+- Financiamento
+- Instituto da Segurança Social
+- Instituto do Emprego e Formação Profissional
 - Jovem
-- Desemprego
 - Política de Emprego
-- Contrato de Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:335680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:610203:por
+  label: "Prorrogada até 31.12.2010 a vigência do apoio previsto no art. 4º, pela PORT.99/2010.15.02.2010.MTSSO, DR.IS [31]\
+    \ de 15.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-2010-610203
+  date: '2010-02-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
   label: null
@@ -96,16 +102,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre
+- type: cites
+  target: pt:dre:311258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514445:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:601476:por
+  label: "Rectificada pela DECL-RECT.13/2009.10.02.2009.PCM, DR.IS [28] de 10.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/13-2009-601476
+  date: '2009-02-10'
+- type: repealed_by
+  target: pt:dre:611298:por
+  label: "Revogado, a partir de 06.03.2010, o presente diploma, rectificado pela Decl Rect 13/2009, de 10-Fev, com excepção\
+    \ do art. 4.º cuja vigência do apoio foi prorrogada até 31.12.2010 pela Port 99/2010, de 15-Fev, e sem prejuízo do disposto\
+    \ no art. 14.º e no n.º 2 do art. 15.º, pela PORT.125/2010.01.03.2010.MTSSO, DR.IS [41] de 01.03.2010 (Ver Notas)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-2010-611298
+  date: '2010-03-01'
+- type: repealed_by
+  target: pt:dre:335680:por
+  label: "Revogado, a partir de 22.06.2010, o art. 4.º do presente diploma, aplicando-se, sem prejuízo do disposto na al c)\
+    \ do art. 2.º, às contribuições devidas até 31 de Maio de 2010, ainda que o respectivo prazo legal de pagamento seja posterior,\
+    \ a redução da taxa contributiva prevista nas disposições legais aí referidas, pela PORT.353/2010.21.06.2010.MTSSO, DR.IS\
+    \ [118] de 21.06.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/353-2010-335680
+  date: '2010-06-21'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:37:29Z'
   warnings: []
   errors: []
 ---
@@ -350,4 +392,4 @@ Em tudo o que não se encontrar especialmente regulado na presente portaria, e d
 
 A presente portaria produz efeitos no dia seguinte à sua publicação, com excepção do artigo 4.º, cujos efeitos se iniciam em 1 de Janeiro e caducam em 31 de Dezembro de 2009.
 
-**O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 28 de Janeiro de 2009.**
+O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 28 de Janeiro de 2009.

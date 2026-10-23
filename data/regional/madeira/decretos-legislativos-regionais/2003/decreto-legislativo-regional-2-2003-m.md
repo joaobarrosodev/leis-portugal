@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/2003/02/24/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2003-188939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91f95ebc78e1e643b8457e787001c165955b48a45b682720985f804e66da423a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac56def4b769fb9ae8ddf19c23b81e59cc544314805abb1c2a24204343810fa8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ subjects:
 - Acolhimento Familiar
 - Assistência Médica
 - Assistência Medicamentosa
-- Internamento Hospitalar
-- Dívidas ao Estado
-- Comparticipação Familiar
-- Madeira.região Autónoma
 - Cobrança de Dívidas
-- Execução por Dívidas
+- Comparticipação Familiar
+- Dívidas ao Estado
 - Estabelecimento Hospitalar
+- Execução por Dívidas
+- Internamento Hospitalar
+- Madeira.região Autónoma
 - Serviço Regional de Saúde
 - Utente
 relationships:
@@ -82,6 +82,12 @@ relationships:
   target: pt:dre:275183:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226240:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade das normas contidas nos arts. 4.º a 8.º do presente\
+    \ diploma, pelo AC.246/2005.10.05.2005.TCS, DR.IS-A [117] de 21.06.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/246-2005-226240
+  date: '2005-05-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/190/1992/09/03/p/dre
   label: null
@@ -102,16 +108,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:240826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:288067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:275183:por
+  label: "Rectificado pela DECL-RECT.2-A/2003.2003.03.19.PCM DR.IS-A [76]2º Supl de 31/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-a-2003-275183
+  date: '2003-03-19'
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:14Z'
   warnings: []
   errors: []
 ---
@@ -200,10 +231,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Sessão Plenária da Assembleia Legislativa Regional da Madeira, em 22 de Janeiro de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 7 de Fevereiro de 2003.**
+Assinado em 7 de Fevereiro de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

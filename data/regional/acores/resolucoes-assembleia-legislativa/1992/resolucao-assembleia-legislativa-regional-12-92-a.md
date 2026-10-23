@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalr/12/1992/05/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/12-1992-496702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-05-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10dfeac1c25b5d06bbf85774ce0560074d353fc6f436e5837d1f8b984fb789d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 993caa8f8292565cb35b38979b714ac7896e445d16224c0b91542e42f53260ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Planeamento Regional
 - Plano Regional
-- Açores
 relationships:
 - type: cites
   target: celex:31977R0355
@@ -100,13 +100,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:50Z'
   warnings: []
   errors: []
 ---
@@ -117,7 +117,7 @@ A Assembleia Legislativa Regional dos Açores resolve, nos termos da alínea o) 
 
 Aprovada pela Assembleia Legislativa Regional dos Açores, na Horta, em 12 de Dezembro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
 INTRODUÇÃO
 
@@ -165,17 +165,17 @@ As perspectivas para a Comunidade em 1992 são mais favoráveis quanto à evolu�
 
 A evolução dos principais indicadores económicos relativos à Comunidade Europeia e a Portugal desde 1990 até 1992 é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 O reforço da convergência económica entre os doze estados membros é uma tarefa difícil cujos resultados estão ainda longe de serem satisfatórios, impondo-se a adopção de medidas e esforços adicionais.
 
 ESFORÇOS NECESSÁRIOS PARA CONVERGÊNCIA NOMINAL
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PRINCIPAIS INDICADORES ECONÓMICOS PARA 1991
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 No plano nacional, e tendo por pano de fundo as grandes metas da Comunidade, visa-se o desenvolvimento económico sustentado e em bom ritmo, através do robustecimento e modernização do sector produtivo privado, da continuação da reforma do sistema educativo e da implantação das infra-estruturas básicas ligadas à acessibilidade e às comunicações, tudo num quadro de concertação social e sem prejuízo do equilíbrio macroeconómico, sendo certo que a prossecução simultânea destes objectivos suscita alguns problemas delicados.
 
@@ -189,27 +189,27 @@ Ainda que o parque habitacional seja mais antigo que a média nacional, três da
 
 ANO DE CONSTRUÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 CONDIÇÕES DE ALOJAMENTO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 No que respeita a bens de equipamento doméstico a situação regional pouco difere da nacional.
 
 BENS DE EQUIPAMENTO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 BENS DE EQUIPAMENTO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 No que respeita a viaturas (ligeira/mista) 34% dos alojamentos têm automóvel (média nacional: 40%), sendo o parque automóvel o mais moderno do país.
 
 AUTOMÓVEIS - ANTIGUIDADE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 Na falta de estimativas das contas económicas regionais para o período subsequente a 1985, que se prevê seja ultrapassada muito brevemente, as indicações disponíveis relativas à situação interna sugerem uma evolução geral positiva em 1990.
 
@@ -227,7 +227,7 @@ A evolução dos três grandes indicadores da ordem geral antes mencionados teve
 
 Actividade Económica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 3 - OBJECTIVOS DE DESENVOLVIMENTO
 
@@ -265,7 +265,7 @@ A par da intervenção directa do poder público, revela-se ainda como fundament
 
 A dotação do presente Plano, num total de 37080 mil contos, reparte-se pelos sectores Sociais - 31,32% (11615 mil contos) e pelos sectores Económicos 63,54% (23560 mil contos), cabendo os restantes 5,14% (1905 mil contos) ao sector Administração Regional e Local.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 4.1 - SECTORES SOCIAIS
 
@@ -285,7 +285,7 @@ Os Sectores Sociais com uma dotação de 11615 mil contos, compreendem programas
 
 - Ambiente - 180 mil contos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 EDUCAÇÃO E DESPORTO
 
@@ -305,7 +305,7 @@ A realidade tem demonstrado ser correcta a opção feita neste domínio, pelo qu
 
 A recomendação de ser considerada a problemática da sobrelotação de escolas secundárias, constantes da Resolução da Assembleia Legislativa Regional n.º 12/90/A, deu lugar a uma intervenção de emergência na Escola Secundária Padre Jerónimo Emiliano de Andrade em Angra do Heroísmo a concluir até ao final de 1991.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 1
 
@@ -389,7 +389,7 @@ Tendo em conta estes objectivos e o impacto das medidas já criadas para a sua p
 
 Complementarmente, serão empreendidas acções conducentes à expansão e valorização da actividade de radiodifusão sonora e televisiva desenvolvidas pelas empresas concessionárias dos respectivos serviços públicos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº4
 
@@ -457,7 +457,7 @@ Em termos de equipamentos irá proceder-se à substituição do que estiver obso
 
 No que respeita à informatização dos serviços de saúde, passo fundamental para a modernização da sua gestão e melhoria do seu funcionamento, far-se-á um esforço acrescido para que se dê por concluída até finais de 1992 esta fase do processo de informatização dos três hospitais e principais centros de saúde da Região.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 7
 
@@ -529,7 +529,7 @@ Além da política de construção de infra-estruturas, dar-se-á ênfase especi
 
 A modernização das instalações e a melhoria dos serviços prestados são também objectivos da Segurança Social para o próximo ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 11
 
@@ -573,7 +573,7 @@ No âmbito das estruturas físicas de apoio ao emprego e formação profissional
 
 No que respeita à formação profissional procurar-se-á alargar, com o apoio do Fundo Social Europeu, as acções de formação profissional visando o aperfeiçoamento, reconversão e requalificação dos recursos humanos existentes.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 14
 
@@ -651,7 +651,7 @@ Foram desenvolvidos diversos estudos que permitirão à Comissão Técnica de ge
 
 Pretende-se ainda continuar a acção já iniciada sobre os efeitos negativos ao nível do ecossistema provocados pela eutrofização de lagoas e da poluição das ribeiras.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 17
 
@@ -707,7 +707,7 @@ Para a satisfação desse objectivo, necessário se torna continuar a informar e
 
 A responsabilidade, porque pluridisciplinar e envolvente, tende necessariamente para a uma estreita colaboração dos vários níveis do poder - no responsabilizar cada um pelo Ambiente que é de todos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 21
 
@@ -761,7 +761,7 @@ Os Sectores Económicos com uma dotação de 23560 mil contos, compreendem progr
 
 - Comércio - 350 mil contos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 AGRICULTURA, PECUÁRIA E SILVICULTURA
 
@@ -777,7 +777,7 @@ As medidas previstas no Poseima pretendem, por um lado, atenuar o impacto dos cu
 
 Por outro lado, durante o período entram em plena execução alguns programas estruturais que visam reforçar as acções de modernização em curso na agricultura açoriana, assim como se reforçam as acções de outros programas já em fase de execução.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 22
 
@@ -869,7 +869,7 @@ Linhas de Actuação:
 
 O aproveitamento das potencialidades de crescimento e desenvolvimento do sector das pescas, uma cuidada investigação e gestão dos recursos marinhos e a evolução favorável do peso do sector no contexto da economia regional, bem como dos rendimentos dos produtores, são as linhas mestras da política prosseguida no sector das pescas, durante o Plano de Médio Prazo 1989-1992 e que se manterão no próximo ano.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 25
 
@@ -929,7 +929,7 @@ A indústria dos Açores é, por isso mesmo, presentemente confrontada com cená
 
 Os incentivos ao investimento produtivo serão, pois, um instrumento de grande relevância para atender às exigências de modernização e desenvolvimento do tecido industrial, através da melhoria da produtividade e da qualidade dos produtos, promovendo simultaneamente o aparecimento de novas actividades e produções, visando a complementaridade e a diversificação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 26
 
@@ -979,7 +979,7 @@ A evolução constatada do sector evidencia nítidos sinais positivos, com ritmo
 
 O desenvolvimento esperado e as acções consequentes são enquadradas por uma filosofia no sentido da preservação e valorização do património natural e construído, base da oferta turística açoriana, no sentido de uma actividade promocional segundo critérios de selectividade de mercados e segmentos de mercado potencialmente mais interessantes e adequados à oferta actual e previsível da Região.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 29
 
@@ -1013,7 +1013,7 @@ Para se abordar estas questões de um modo global e articulá-las num único doc
 
 O PERAA permitirá ainda, através da sua permanente actualização, simular a evolução do sector energético, funcionando como importante instrumento de planeamento, ao serviço das entidades públicas ou privadas que actuem nesta área.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 31
 
@@ -1069,7 +1069,7 @@ Será mantido o apoio à transportadora aérea regional.
 
 No que concerne às comunicações continuarão a ser apoiadas acções no domínio dos serviços avançados de telecomunicações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 32
 
@@ -1163,7 +1163,7 @@ A actividade comercial, que desempenha uma função essencial no abastecimento d
 
 O apoio previsto a projectos de modernização no quadro do S.I.M.C. - Sistema dos Incentivos à Modernização do Comércio, a par da construção de infra-estruturas e da concessão de apoios financeiros diversos, conduzirão ao desenvolvimento deste sector de actividade.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 38
 
@@ -1187,7 +1187,7 @@ Os Sectores Administração Regional e Local, com uma dotação de 1905 mil cont
 
 - Protecção Civil - 300 mil contos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 ADMINISTRAÇÃO REGIONAL
 
@@ -1203,7 +1203,7 @@ O investimento programado visa:
 
 - Promover estudos e formação especializada em áreas ligadas a produção estatística, ao planeamento e ao acompanhamento da execução de programas e projectos públicos, nomeadamente os apoiados pela Comunidade Europeia.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 39
 
@@ -1275,7 +1275,7 @@ O relacionamento entre os dois níveis da Administração Pública na Região Au
 
 A par daquela reforma legislativa, surge a reforma dos Fundos Estruturais da Comunidade Económica Europeia e com ela os designados "Programas Operacionais", em particular o Programa Específico para o Desenvolvimento da Região Autónoma dos Açores (PEDRAA), que criou importantes expectativas às autarquias. De facto, a harmonização dos regimes de cooperação, colaboração e coordenação financeira com o Programa Operacional PEDRAA abriu oportunidades de obtenção de apoios financeiros antes inexistentes, criando assim uma importante frente actuante dirigida ao desenvolvimento sócio-económico da Região. Por outro lado, surgiram novas e igualmente importantes oportunidades de recurso ao crédito bancário, em condições favoráveis, complemento essencial para um maior aproveitamento dos regimes de apoio governamental de co-financiamento comunitário.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 42
 
@@ -1307,7 +1307,7 @@ O objectivo a prosseguir nesta área é o aperfeiçoamento permanente do Sistema
 
 Para o efeito continuará a ser apoiada a construção de infra-estruturas básicas e a aquisição de equipamento, será proporcionada formação profissional específica e será dada continuidade a diversos estudos e acções de natureza preventiva e científica.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 PROGRAMA Nº 43
 
@@ -1321,7 +1321,7 @@ Dotação ... 300 mil contos
 
 5 - PROGRAMAÇÃO FINANCEIRA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 6 - RECURSOS FINANCEIROS
 
@@ -1343,7 +1343,7 @@ Face ao exposto, a execução do Plano e Orçamento Corrente para o próximo ano
 
 O quadro seguinte dá conta da estrutura da Receita e da Despesa para o ano económico de 1992.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 7 - FUNDOS ESTRUTURAIS COMUNITÁRIOS
 
@@ -1491,7 +1491,7 @@ O quadro seguinte mostra o número de pessoas abrangidas por acções cofinancia
 
 Fundo Social Europeu
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 3 - FEOGA
 
@@ -1505,13 +1505,13 @@ No que respeita aos investimentos realizados, foram aprovados até final do prim
 
 Região Autónoma dos Açores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 No que respeita a apoios aos rendimentos (indemnizações compensatórias) foram atribuídos até 1990 os seguintes subsídios:
 
 Distribuição dos Montantes por Ilhas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 - Regulamento (CEE) n.º [355/77](http://data.europa.eu/eli/reg/1977/355/oj?locale=pt)
 
@@ -1597,7 +1597,7 @@ Tendo em vista a obtenção dos apoios a seguir mencionados, foram apresentados 
 
 Estes projectos aguardam decisão da Comissão das Comunidades Europeias.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 ## ANEXO
 
@@ -1623,7 +1623,7 @@ O investimento total, desagregado por empresa e por espaço geográfico, consta 
 
 INVESTIMENTOS PARA 1992
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 2 - SERVIÇOS E FUNDOS AUTÓNOMOS
 
@@ -1635,7 +1635,7 @@ FUNDO REGIONAL DA ACÇÃO CULTURAL
 
 O projecto de orçamento do Fundo Regional de Acção Cultural para 1992, num total de 140299 contos, permitirá os seguintes investimentos nas acções abaixo indicadas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 Para além destas despesas efectuar-se-ão também outras com aquisição de material de informática (2809 contos), bem como maquinaria e equipamento (1050 contos).
 
@@ -1717,16 +1717,16 @@ Assim estão previstos os seguintes investimentos:
 
 1.1. Actividades a nível da cada ilha (local)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 1.2. Actividades a nível regional.(inter-ilhas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 1.3. Actividades a nível insular (Jogos do Atlântico)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
 
 1.4. Actividades a nível nacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf))](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/05/103b00/20502079.pdf)

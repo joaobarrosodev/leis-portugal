@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-1987-499554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 618d2521cd526b9c700a9b7a81bd0f0915c76f300f2707cdf8ecb85ef5121015
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f3762e12b9d8cfb67d425172ad11f669af1b6e289dc015e601daed22ef428c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Centro de Oncologia dos Açores
+- Estabelecimento Hospitalar
+- Pessoal de Enfermagem
+- Quadro de Pessoal
+- Serviços Médico-sociais
+relationships:
+- type: cites
+  target: pt:dre:662139:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:55Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +105,14 @@ Assim:
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. Os quadros ou mapas de pessoal dos Serviços Médico-Sociais, hospitais concelhios, inspecções de saúde e Centro de Oncologia dos Açores, onde é aplicável a carreira de enfermagem, consideram-se automaticamente actualizados para efeito de aplicação do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 134/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1987-662139), de 17 de Março.
+Artigo único. Os quadros ou mapas de pessoal dos Serviços Médico-Sociais, hospitais concelhios, inspecções de saúde e Centro de Oncologia dos Açores, onde é aplicável a carreira de enfermagem, consideram-se automaticamente actualizados para efeito de aplicação do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 134/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1987-662139), de 17 de Março.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 15 de Outubro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Dezembro de 1987.**
+Assinado em Angra do Heroísmo em 3 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.

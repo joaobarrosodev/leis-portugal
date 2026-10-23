@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/1/1991/03/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1991-466189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57bb4aca0e532b0f2838fb3b92025d1bdf2912c80d309223d31f753849d006d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f89ee17a789e6a0921a2fff447547f949d8e6ae75ae6ac64a1e7210349c9f23f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Estatuto Social do Bombeiro
 - Bombeiro
+- Estatuto Social do Bombeiro
 - Madeira.região Autónoma
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:419274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618772:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618903:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:32Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +113,9 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea d) do n.º 1 do artigo 229.º da Constituição da República, decreta o seguinte.
 
-###### Artigo 1.º As disposições da [Lei n.º 21/87](https://diariodarepublica.pt/dr/detalhe/lei/21-1987-419274), de 20 de Junho, do [Decreto-Lei n.º 241/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1989-618903), de 3 de Agosto, e da [Portaria n.º 621/89](https://diariodarepublica.pt/dr/detalhe/portaria/621-1989-618772), de 5 de Agosto, aplicam-se, com as adaptações constantes dos artigos seguintes, aos bombeiros inseridos em quadros de pessoal homologados pelo Serviço Regional de Protecção Civil da Madeira, bem como aos titulares dos corpos gerentes das associações de bombeiros da Região Autónoma da Madeira.
+Artigo 1.º As disposições da [Lei n.º 21/87](https://diariodarepublica.pt/dr/detalhe/lei/21-1987-419274), de 20 de Junho, do [Decreto-Lei n.º 241/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1989-618903), de 3 de Agosto, e da [Portaria n.º 621/89](https://diariodarepublica.pt/dr/detalhe/portaria/621-1989-618772), de 5 de Agosto, aplicam-se, com as adaptações constantes dos artigos seguintes, aos bombeiros inseridos em quadros de pessoal homologados pelo Serviço Regional de Protecção Civil da Madeira, bem como aos titulares dos corpos gerentes das associações de bombeiros da Região Autónoma da Madeira.
 
-###### Art. 2.º As competências e atribuições constantes dos diplomas referidos no artigo 1.º reportam-se, na Região Autónoma da Madeira:
+Art. 2.º As competências e atribuições constantes dos diplomas referidos no artigo 1.º reportam-se, na Região Autónoma da Madeira:
 
 a) As do Serviço Nacional de Bombeiros ao Serviço Regional de Protecção Civil;
 
@@ -109,18 +125,18 @@ c) As das inspecções regionais de bombeiros à Inspecção Regional de Bombeir
 
 d) As da Direcção-Geral dos Cuidados de Saúde Primários à Direcção Regional de Saúde Pública.
 
-###### Art. 3.º Os modelos dos cartões a que se refere o artigo 3.º da [Lei n.º 21/87](https://diariodarepublica.pt/dr/detalhe/lei/21-1987-419274), de 20 de Junho, são aprovados por portaria do Secretário Regional da Administração Pública.
+Art. 3.º Os modelos dos cartões a que se refere o artigo 3.º da [Lei n.º 21/87](https://diariodarepublica.pt/dr/detalhe/lei/21-1987-419274), de 20 de Junho, são aprovados por portaria do Secretário Regional da Administração Pública.
 
-###### Art. 4.º Enquanto não estiver formalizada a integração dos corpos de bombeiros da Região na Liga dos Bombeiros Portugueses, as respectivas atribuições e encargos pertencem ao Serviço Regional de Protecção Civil.
+Art. 4.º Enquanto não estiver formalizada a integração dos corpos de bombeiros da Região na Liga dos Bombeiros Portugueses, as respectivas atribuições e encargos pertencem ao Serviço Regional de Protecção Civil.
 
-###### Art. 5.º Os encargos financeiros a que se refere o artigo 31.º do [Decreto-Lei n.º 241/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1989-618903), de 3 de Agosto, serão suportados pelo Serviço Regional de Protecção Civil através de uma dotação especial a inscrever anualmente no orçamento regional, no âmbito da Secretaria Regional da Administração Pública, e destinada aquele Serviço.
+Art. 5.º Os encargos financeiros a que se refere o artigo 31.º do [Decreto-Lei n.º 241/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1989-618903), de 3 de Agosto, serão suportados pelo Serviço Regional de Protecção Civil através de uma dotação especial a inscrever anualmente no orçamento regional, no âmbito da Secretaria Regional da Administração Pública, e destinada aquele Serviço.
 
-###### Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 17 de Janeiro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 7 de Fevereiro de 1991.**
+Assinado em 7 de Fevereiro de 1991.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

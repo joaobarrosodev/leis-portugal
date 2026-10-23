@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2018/03/05600/0138401385.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/13/2018/03/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/13-2018-114891062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b9ebfea9e6ac89e42764b95d6051a0ed3c311cd9b2869dd4d70af847dc4a812
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f83d941294be7c4759ec048cc9eff418ec6999952e6ecb7819498dc37de641d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Programa Berço de Emprego
-- Licença por Maternidade
-- Prestações de Desemprego
-- Desemprego
-- Programa Integrado de Incentivos ao Emprego
-- Parentalidade
-- Recomendação
-- Fundo Regional do Emprego
 - Açores
+- Desemprego
+- Fundo Regional do Emprego
+- Governo Regional
+- Licença por Maternidade
+- Parentalidade
+- Prestações de Desemprego
+- Programa Berço de Emprego
+- Programa Integrado de Incentivos ao Emprego
+- Recomendação
 - Trabalhador
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/8/2008/05/07/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/8/2008/05/07/a/dre
+- type: cites
+  target: pt:dre:249782:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:35Z'
   warnings: []
   errors: []
 ---
@@ -127,4 +131,6 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos te
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de fevereiro de 2018.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+111202204

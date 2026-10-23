@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/11400/10001011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,125 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1980-474082
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cc1645f02ac4dc5fdb8756e54270be4a8687d5e96bf98fccfa1714465b5d389
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b702f2b73f5f7a2896c24b71a595a74f0c86ac102b592749c4b81847d04189f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Direcção Regional de Saúde
+- Direcção Regional de Segurança Social
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:517233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470823:por
+  label: "Integrados novos lugares no quadro de pessoal da Direcção Regional de Segurança Social, anexo ao presente diploma,\
+    \ pelo DRR.33/80/A.14.08.1980.GR-RAA, DR.IS [187] de 14.08.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/33-1980-470823
+  date: '1980-08-14'
+- type: amended_by
+  target: pt:dre:387980:por
+  label: "Substituído o mapa de pessoal da Direcção Regional de Segurança Social, anexo ao presente diploma, pelo DRR.21/81/A.19.03.1981.GR-RAA,\
+    \ DR.IS [65] de 19.03.1981, na parte expressamente contemplada no referido diploma \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/21-1981-387980
+  date: '1981-03-19'
+- type: amended_by
+  target: pt:dre:577079:por
+  label: "Alterados os n.os 1 e 2 do art. 33.º, o art. 35.º, o art. 38.º e os n.os 1 e 2 do art. 43.º, aditado o art. 38.º-A,\
+    \ e substituídos nos termos do art. 3.º, os mapas de pessoal anexos ao presente diploma pelo DRR.36/81/A.30.07.1981.GR-RAA,\
+    \ DR.IS [173] de 30.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/36-1981-577079
+  date: '1981-07-30'
+- type: amended_by
+  target: pt:dre:577924:por
+  label: "Substituído, nos termos do art. único, o mapa de pessoal da Secção de Serviços Administrativos, anexo ao presente\
+    \ diploma pelo DRR.42/81/A.28.08.1981.GR-RAA, DR.IS [197] de 28.08.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/42-1981-577924
+  date: '1981-08-28'
+- type: amended_by
+  target: pt:dre:392979:por
+  label: "Substituídos os mapas de pessoal da Direcção Regional de Segurança Social, anexos ao presente diploma, pelo DRR.22/82/A.11.05.1982.GR-RAA,\
+    \ DR.IS [108] de 11.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-1982-392979
+  date: '1982-05-11'
+- type: amended_by
+  target: pt:dre:312398:por
+  label: "Substituído o mapa de pessoal anexo ao presente diploma, pelo DRR.9/83/A.06.04.1983.GR-RAA, DR.IS [79] de 06.04.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1983-312398
+  date: '1983-04-06'
+- type: cites
+  target: pt:dre:329860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:473174:por
+  label: Rectificado pela DECL.DD6957.03.07.1980.PCM, DR.IS [151] de 03.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-473174
+  date: '1980-07-03'
+- type: repealed_by
+  target: pt:dre:388016:por
+  label: "Revogado o artigo 44.º pelo DRR.19/81/A.16.03.1981.GR-RAA, DR.IS [62] de 16.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1981-388016
+  date: '1981-03-16'
+- type: repealed_by
+  target: pt:dre:354757:por
+  label: "Revogados os artigos 8.º a 10.º, 49.º e 50.º pelo DRR.39/88/A.07.10.1988.GR-RAA, DR.IS [232] de 07.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/39-1988-354757
+  date: '1988-10-07'
+- type: repealed_by
+  target: pt:dre:573284:por
+  label: "Revogada a secção IV do capítulo IV pelo DRR.23/90/A.31.07.1990.GR-RAA, DR.IS [175] de 31.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/23-1990-573284
+  date: '1990-07-31'
+- type: repealed_by
+  target: pt:dre:557658:por
+  label: "Revogada a secção II do capítulo IV pelo DRR.30/90/A.15.09.1990.GR-RAA, DR.IS [214] de 15.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/30-1990-557658
+  date: '1990-09-15'
+- type: repealed_by
+  target: pt:dre:458870:por
+  label: "Revogada a secção III do capítulo IV pelo DRR.9/91/A.07.03.1991.GR-RAA, DR.IS-B [55] de 07.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1991-458870
+  date: '1991-03-07'
 article_structure:
-  article_count: 1
-  section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:06Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +191,15 @@ O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da 
 
 ### CAPÍTULO I — Objectivos e estruturas da Secretaria Regional
 
-###### Artigo 1.º São objectivos da Secretaria Regional dos Assuntos Sociais (SRAS) orientar, dirigir e executar a política do Governo Regional nos sectores da saúde, segurança social e emigração.
+Artigo 1.º São objectivos da Secretaria Regional dos Assuntos Sociais (SRAS) orientar, dirigir e executar a política do Governo Regional nos sectores da saúde, segurança social e emigração.
 
-###### Art. 2.º A Secretaria Regional dos Assuntos Sociais compreende as seguintes direcções regionais:
+Art. 2.º A Secretaria Regional dos Assuntos Sociais compreende as seguintes direcções regionais:
 
 a) Direcção Regional de Saúde;
 
 b) Direcção Regional de Segurança Social.
 
-###### Art. 3.º Na dependência directa do Secretário Regional funciona, além do respectivo gabinete, os seguintes órgãos e serviços:
+Art. 3.º Na dependência directa do Secretário Regional funciona, além do respectivo gabinete, os seguintes órgãos e serviços:
 
 a) Direcção de Serviços de Emigração;
 
@@ -124,7 +209,7 @@ c) Secção de Serviços Administrativos.
 
 ### CAPÍTULO II — Competência do Secretário Regional e dos directores regionais
 
-###### Art. 4.º Compete ao Secretário Regional dos Assuntos Sociais, designadamente:
+Art. 4.º Compete ao Secretário Regional dos Assuntos Sociais, designadamente:
 
 a) Propor e fazer executar na Região as políticas de saúde, segurança social e emigração;
 
@@ -136,7 +221,7 @@ d) Superintender na gestão das dotações orçamentais para os sectores de saú
 
 e) Traçar as grandes linhas de orientação de acção da Secretaria Regional e acompanhar superiormente a sua execução.
 
-###### Art. 5.º Compete aos directores regionais, designadamente:
+Art. 5.º Compete aos directores regionais, designadamente:
 
 a) Coadjuvar o Secretário Regional na formulação e execução da política do respectivo sector;
 
@@ -150,7 +235,7 @@ d) Superintender na administração das dotações orçamentais dos respectivos 
 
 #### SECÇÃO I — Gabinete Técnico
 
-###### Art. 6.º O Gabinete Técnico é um órgão de apoio, estudo e planeamento da Secretaria Regional dos Assuntos Sociais, incumbindo-lhe, em colaboração com os órgãos competentes das direcções regionais, designadamente:
+Art. 6.º O Gabinete Técnico é um órgão de apoio, estudo e planeamento da Secretaria Regional dos Assuntos Sociais, incumbindo-lhe, em colaboração com os órgãos competentes das direcções regionais, designadamente:
 
 a) Promover estudos com interesse para o fomento das actividades da Secretaria Regional, bem como elaborar os pareceres de natureza técnica que lhe forem solicitados;
 
@@ -166,9 +251,11 @@ f) Assegurar a articulação com outros órgãos regionais de natureza técnica,
 
 g) Propor medidas adequadas ao aperfeiçoamento técnico-profissional do pessoal da SRAS, definindo-as em colaboração com a Secretaria Regional da Administração Pública.
 
-#### SECÇÃO II — Secção de Serviços Administrativos
+#### SECÇÃO II
 
-###### Art. 7.º - 1 - À Secção de Serviços Administrativos cabe assegurar a execução das competências de interesse comum a toda a Secretaria Regional nas seguintes áreas:
+#### Secção de Serviços Administrativos
+
+Art. 7.º - 1 - À Secção de Serviços Administrativos cabe assegurar a execução das competências de interesse comum a toda a Secretaria Regional nas seguintes áreas:
 
 a) Administração de pessoal;
 
@@ -188,7 +275,7 @@ g) Manutenção, beneficiação e conservação de instalações e bens duradour
 
 ### CAPÍTULO IV — Direcção Regional de Segurança Social
 
-###### Art. 8.º A Direcção Regional de Segurança Social é um órgão de execução, coordenação, inspecção, estudo e apoio técnico relativamente ao sector de segurança social, à qual incumbe, designadamente:
+Art. 8.º A Direcção Regional de Segurança Social é um órgão de execução, coordenação, inspecção, estudo e apoio técnico relativamente ao sector de segurança social, à qual incumbe, designadamente:
 
 a) Contribuir para a definição das medidas de política, objectivos e prioridades de acção do sector;
 
@@ -218,7 +305,7 @@ n) Exercer, relativamente às instituições privadas de solidariedade social, a
 
 o) Coordenar e acompanhar o funcionamento das Casas do Povo e promover a sua fiscalização, adoptando as medidas adequadas ao saneamento de irregularidades detectadas.
 
-###### Art. 9.º A Direcção Regional de Segurança Social compreende os seguintes órgãos e serviços:
+Art. 9.º A Direcção Regional de Segurança Social compreende os seguintes órgãos e serviços:
 
 a) Núcleo de Apoio Técnico;
 
@@ -232,7 +319,7 @@ e) Serviços de Apoio e Orientação das Casas do Povo.
 
 #### SECÇÃO I — Núcleo de Apoio Técnico
 
-###### Art. 10.º O Núcleo de Apoio Técnico, funcionando na dependência directa e sob a chefia do director regional e em articulação com o Gabinete Técnico, exerce as suas atribuições nas áreas de planeamento, documentação, informação técnica e organização e métodos, incumbindo-lhe, designadamente:
+Art. 10.º O Núcleo de Apoio Técnico, funcionando na dependência directa e sob a chefia do director regional e em articulação com o Gabinete Técnico, exerce as suas atribuições nas áreas de planeamento, documentação, informação técnica e organização e métodos, incumbindo-lhe, designadamente:
 
 a) Elaborar, de acordo com os objectivos e prioridades superiormente definidos, planos e programas de acção para o sector, assegurando a coordenação, compatibilização e integração dos programas de acção dos serviços, estabelecimentos e instituições dos diferentes níveis de actuação;
 
@@ -250,7 +337,7 @@ g) Proceder à recolha, tratamento, elaboração e difusão de elementos de docu
 
 #### SECÇÃO II — Centro de Gestão Financeira da Segurança Social
 
-###### Art. 11.º O Centro de Gestão Financeira da Segurança Social, abreviadamente designado por CGFSS, é um órgão dotado de personalidade jurídica e de autonomia administrativa e financeira que, funcionando na dependência directa do director Regional de Segurança Social, desenvolve actuações específicas no domínio da gestão financeira, orçamento, conta, administração do património e estatística do sector, incumbindo-lhe, designadamente:
+Art. 11.º O Centro de Gestão Financeira da Segurança Social, abreviadamente designado por CGFSS, é um órgão dotado de personalidade jurídica e de autonomia administrativa e financeira que, funcionando na dependência directa do director Regional de Segurança Social, desenvolve actuações específicas no domínio da gestão financeira, orçamento, conta, administração do património e estatística do sector, incumbindo-lhe, designadamente:
 
 a) Colaborar na definição e adequação permanente da política financeira da segurança social na Região;
 
@@ -272,13 +359,13 @@ i) Elaborar a conta anual do sector;
 
 j) Proceder à recolha, tratamento, elaboração e difusão dos dados estatísticos de interesse específico para a acção do sector.
 
-###### Art. 12.º - 1 - São órgãos do CGFSS a Comissão Regional de Gestão Financeira da Segurança Social e o conselho administrativo.
+Art. 12.º - 1 - São órgãos do CGFSS a Comissão Regional de Gestão Financeira da Segurança Social e o conselho administrativo.
 
 2 - O CGFSS dispõe de um administrador, ao qual compete essencialmente superintender nos serviços do CGFSS, orientando-os na realização das suas atribuições, e exercer as competências que lhe forem delegadas pelo conselho administrativo.
 
 3 - O administrador é nomeado em comissão de serviço por despacho do Secretário Regional dos Assuntos Sociais.
 
-###### Art. 13.º - 1 - A Comissão Regional de Gestão Financeira da Segurança Social é constituída por dezanove membros, sendo:
+Art. 13.º - 1 - A Comissão Regional de Gestão Financeira da Segurança Social é constituída por dezanove membros, sendo:
 
 a) Um elemento nomeado por despacho conjunto dos Secretários Regionais de Finanças e dos Assuntos Sociais, que preside;
 
@@ -294,7 +381,7 @@ f) Os membros do conselho administrativo.
 
 2 - Os membros previstos nas alíneas b), c), d) e e) do número anterior serão indicados pelas entidades que representam e nomeados, por despacho do Secretário Regional dos Assuntos Sociais, por um período de dois anos, renovável.
 
-###### Art. 14.º - 1 - Compete à Comissão Regional de Gestão Financeira da Segurança Social:
+Art. 14.º - 1 - Compete à Comissão Regional de Gestão Financeira da Segurança Social:
 
 a) Apreciar a proposta contendo as linhas fundamentais que presidiram à elaboração do orçamento do sector e emitir parecer sobre o orçamento regional da segurança social, bem como sobre os orçamentos suplementares, dentro dos prazos estabelecidos superiormente;
 
@@ -308,7 +395,7 @@ e) Emitir parecer sobre os assuntos que lhe sejam apresentados pelo conselho adm
 
 2 - Poderão ser chamadas a participar na Comissão Regional, sem direito a voto, individualidades de reconhecida competência em assuntos respeitantes ao sector.
 
-###### Art. 15.º - 1 - O conselho administrativo é constituído pelos seguintes membros:
+Art. 15.º - 1 - O conselho administrativo é constituído pelos seguintes membros:
 
 a) Director de Serviços de Acção Social e Equipamentos Colectivos;
 
@@ -320,7 +407,7 @@ c) Administrador do CGFSS.
 
 3 - O conselho administrativo é presidido rotativamente por um dos directores de serviço, nomeado pelo Secretário Regional pelo período de um ano.
 
-###### Art. 16.º O conselho administrativo é o órgão permanente de direcção e administração do CGFSS, competindo-lhe, nomeadamente:
+Art. 16.º O conselho administrativo é o órgão permanente de direcção e administração do CGFSS, competindo-lhe, nomeadamente:
 
 a) Submeter à Comissão Regional todos os assuntos que sejam da sua competência;
 
@@ -334,7 +421,7 @@ e) Assegurar o cumprimento das normas dimanadas do Secretário Regional e da Dir
 
 f) Exercer as competências que, cabendo ao CGFSS, não sejam da competência própria da Comissão Regional de Gestão Financeira da Segurança Social.
 
-###### Art. 17.º As receitas correntes do CGFSS são as seguintes:
+Art. 17.º As receitas correntes do CGFSS são as seguintes:
 
 a) Comparticipações do Instituto de Gestão Financeira da Segurança Social;
 
@@ -350,7 +437,7 @@ f) Rendimentos de bens próprios de serviços e estabelecimentos oficiais do sec
 
 g) Taxas e outras receitas provenientes de entidades públicas ou privadas.
 
-###### Art. 18.º As despesas correntes do CGFSS são as seguintes:
+Art. 18.º As despesas correntes do CGFSS são as seguintes:
 
 a) Financiamento das instituições e estabelecimentos do sector;
 
@@ -360,9 +447,9 @@ c) Despesas de administração do património;
 
 d) Outras despesas.
 
-###### Art. 19.º Os membros da Comissão Regional de Gestão Financeira da Segurança Social e do conselho administrativo são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, com excepção daquelas em que não tiverem intervido na resolução ou as desaprovarem com declaração na acta da respectiva reunião.
+Art. 19.º Os membros da Comissão Regional de Gestão Financeira da Segurança Social e do conselho administrativo são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, com excepção daquelas em que não tiverem intervido na resolução ou as desaprovarem com declaração na acta da respectiva reunião.
 
-###### Art. 20.º Os serviços do Centro de Gestão Financeira da Segurança Social são organizado de forma a actuarem no domínio das seguintes áreas:
+Art. 20.º Os serviços do Centro de Gestão Financeira da Segurança Social são organizado de forma a actuarem no domínio das seguintes áreas:
 
 a) Gestão financeira, considerando o planeamento e o abastecimento financeiro;
 
@@ -372,7 +459,7 @@ c) Estatística.
 
 #### SECÇÃO III — Direcção de Serviços de Prestações Pecuniárias
 
-###### Art. 21.º À Direcção de Serviços de Prestações Pecuniárias incumbe, designadamente:
+Art. 21.º À Direcção de Serviços de Prestações Pecuniárias incumbe, designadamente:
 
 a) Coordenar a acção de resposta integrada, em termos de prestações pecuniárias, às situações de falta ou diminuição de meios de subsistência ou de capacidade para o trabalho, nos termos definidos por lei;
 
@@ -390,7 +477,7 @@ g) Assegurar a administração do pessoal dos serviços referidos nas alíneas a
 
 h) Colaborar com os outros departamentos e serviços no processo de articulação permanente das respostas de base pecuniária com as que se traduzem em acção social ou equipamentos.
 
-###### Art. 22.º A Direcção dos Serviços de Prestações Pecuniárias compreende os seguintes serviços:
+Art. 22.º A Direcção dos Serviços de Prestações Pecuniárias compreende os seguintes serviços:
 
 a) Centros de prestações pecuniárias de segurança social;
 
@@ -398,7 +485,7 @@ b) Núcleo Coordenador de Prestações Diferidas.
 
 ##### SUBSECÇÃO I — Centros de prestações pecuniárias de segurança social
 
-###### Art. 23.º - 1 - Os centros de prestações pecuniárias de segurança social, abreviadamente designados por CPPSS, são órgãos dotados de personalidade jurídica e de autonomia administrativa e financeira, que, funcionando na dependência directa do director de Serviços de Prestações Pecuniárias, têm como atribuições executar as acções determinadas pelo funcionamento do sistema unificado de segurança social, assegurando respostas integradas, em termos de prestações pecuniárias, conforme definido por lei, incumbindo-lhe, nomeadamente:
+Art. 23.º - 1 - Os centros de prestações pecuniárias de segurança social, abreviadamente designados por CPPSS, são órgãos dotados de personalidade jurídica e de autonomia administrativa e financeira, que, funcionando na dependência directa do director de Serviços de Prestações Pecuniárias, têm como atribuições executar as acções determinadas pelo funcionamento do sistema unificado de segurança social, assegurando respostas integradas, em termos de prestações pecuniárias, conforme definido por lei, incumbindo-lhe, nomeadamente:
 
 a) Assegurar a inscrição dos utentes do sistema unificado de segurança social, em termos de prestações pecuniárias;
 
@@ -408,19 +495,19 @@ c) Assegurar a inscrição dos contribuintes do sistema, estabelecendo os regist
 
 2 - Os CPPSS executam por si e através de delegações em cada ilha a acção decorrente das suas atribuições.
 
-###### Art. 24.º Os CPPSS têm implantação geográfica em Angra do Heroísmo, Horta e Ponta Delgada, exercendo as suas atribuições e competências, respectivamente, nas ilhas Graciosa, S. Jorge e Terceira; Corvo, Faial, Flores e Pico, e Santa Maria e S. Miguel.
+Art. 24.º Os CPPSS têm implantação geográfica em Angra do Heroísmo, Horta e Ponta Delgada, exercendo as suas atribuições e competências, respectivamente, nas ilhas Graciosa, S. Jorge e Terceira; Corvo, Faial, Flores e Pico, e Santa Maria e S. Miguel.
 
-###### Art. 25.º - 1 - A direcção e administração de cada um dos CPPSS é cometida a um conselho administrativo, composto por um presidente e dois vogais.
+Art. 25.º - 1 - A direcção e administração de cada um dos CPPSS é cometida a um conselho administrativo, composto por um presidente e dois vogais.
 
 2 - O presidente é nomeado, em comissão de serviço, pelo Secretário Regional dos Assuntos Sociais, um dos vogais é o chefe de serviços do Centro e o outro vogal um dos trabalhadores do Centro eleito pelos mesmos por escrutínio secreto.
 
 3 - Dos vogais, um desempenha as funções de secretário e o outro as de tesoureiro.
 
-###### Art. 26.º - 1 - O presidente do conselho administrativo tem a categoria de director de serviços.
+Art. 26.º - 1 - O presidente do conselho administrativo tem a categoria de director de serviços.
 
 2 - As retribuições dos vogais do conselho administrativo são as que resultam da adição de 1000$00 à retribuição do lugar melhor remunerado, excluídas as diuturnidades, do quadro do Centro onde exercem funções.
 
-###### Art. 27.º Ao conselho administrativo compete, nomeadamente:
+Art. 27.º Ao conselho administrativo compete, nomeadamente:
 
 a) Garantir o exercício das atribuições do Centro, assegurando o cumprimento das disposições legais em vigor e das normas e determinações emanadas do Secretário Regional e da Direcção Regional;
 
@@ -438,9 +525,9 @@ g) Proceder à administração do pessoal do Centro e exercer, de acordo com a l
 
 h) Elaborar e manter permanentemente actualizado o regulamento interno do Centro, a aprovar pela Direcção Regional de Segurança Social.
 
-###### Art. 28.º O abastecimento financeiro dos centros de prestações pecuniárias de segurança social é assegurado pelo Centro de Gestão Financeira da Segurança Social, de acordo com os orçamentos aprovados superiormente.
+Art. 28.º O abastecimento financeiro dos centros de prestações pecuniárias de segurança social é assegurado pelo Centro de Gestão Financeira da Segurança Social, de acordo com os orçamentos aprovados superiormente.
 
-###### Art. 29.º - 1 - Compete aos CPPSS arrecadar, nos termos definidos por lei, as seguintes receitas:
+Art. 29.º - 1 - Compete aos CPPSS arrecadar, nos termos definidos por lei, as seguintes receitas:
 
 a) Contribuições de entidades patronais;
 
@@ -458,7 +545,7 @@ g) Outras receitas.
 
 2 - As receitas referidas no número anterior serão remetidas, dentro de prazos a fixar, ao Instituto de Gestão Financeira da Segurança Social, através do Centro de Gestão Financeira da Segurança Social.
 
-###### Art. 30.º As despesas do CPPSS são as seguintes:
+Art. 30.º As despesas do CPPSS são as seguintes:
 
 a) Pagamento das prestações pecuniárias de segurança social;
 
@@ -470,13 +557,13 @@ d) Despesas de administração do património;
 
 e) Outras despesas.
 
-###### Art. 31.º Para o exercício das suas atribuições, o Centro de Prestações Pecuniárias de Segurança Social de Angra do Heroísmo é dotado dos seguintes serviços:
+Art. 31.º Para o exercício das suas atribuições, o Centro de Prestações Pecuniárias de Segurança Social de Angra do Heroísmo é dotado dos seguintes serviços:
 
 a) Divisão de Administração, Contabilidade e Prestações Pecuniárias, que compreende a Repartição de Administração e Contabilidade e a Repartição de Prestações Pecuniárias;
 
 b) Gabinete Técnico.
 
-###### Art. 32.º - 1 - A Repartição de Administração e Contabilidade actua nas seguintes áreas:
+Art. 32.º - 1 - A Repartição de Administração e Contabilidade actua nas seguintes áreas:
 
 a) Administração de pessoal;
 
@@ -502,7 +589,7 @@ b) Serviço de Contabilidade e Tesouraria;
 
 c) Serviços Internos de Apoio Social.
 
-###### Art. 33.º - 1 - A Repartição de Prestações Pecuniárias actua nas seguintes áreas:
+Art. 33.º - 1 - A Repartição de Prestações Pecuniárias actua nas seguintes áreas:
 
 a) Acolhimento e orientação;
 
@@ -524,19 +611,19 @@ c) Secção de Processamento, tendo anexo o sistema de informática;
 
 d) Serviço Externo.
 
-###### Art. 34.º O Gabinete Técnico funciona na dependência directa do conselho administrativo, actuando nas seguintes áreas:
+Art. 34.º O Gabinete Técnico funciona na dependência directa do conselho administrativo, actuando nas seguintes áreas:
 
 a) Contencioso e apoio jurídico;
 
 b) Estatística, organização, planeamento e documentação.
 
-###### Art. 35.º Para o exercício das suas atribuições, o Centro de Prestações Pecuniárias de Segurança Social da Horta é dotado dos seguintes serviços:
+Art. 35.º Para o exercício das suas atribuições, o Centro de Prestações Pecuniárias de Segurança Social da Horta é dotado dos seguintes serviços:
 
 a) Repartição de Administração, Contabilidade e Prestações Pecuniárias, que compreende a Secção de Administração, a Secção de Análise, a Secção de Processamento e os Serviços de Contabilidade e Tesouraria;
 
 b) Gabinete Técnico.
 
-###### Art. 36.º A Secção de Administração actua nas seguintes áreas:
+Art. 36.º A Secção de Administração actua nas seguintes áreas:
 
 a) Administração de pessoal;
 
@@ -552,7 +639,7 @@ f) Manutenção, beneficiação e conservação de instalações e bens duradour
 
 g) Serviço interno de apoio social.
 
-###### Art. 37.º A Secção de Análise actua nas seguintes áreas:
+Art. 37.º A Secção de Análise actua nas seguintes áreas:
 
 a) Acolhimento e orientação;
 
@@ -560,7 +647,7 @@ b) Inscrição de utentes e contribuintes;
 
 c) Organização de processos.
 
-###### Art. 38.º A Secção de Processamento actua nas seguintes áreas:
+Art. 38.º A Secção de Processamento actua nas seguintes áreas:
 
 a) Processamento e pagamento de prestações pecuniárias de segurança social, tendo anexo o sistema de informática;
 
@@ -568,25 +655,25 @@ b) Informação externa e fiscalização;
 
 c) Mecanografia de elementos fixos.
 
-###### Art. 39.º Os Serviços de Contabilidade e Tesouraria actuam nas seguintes áreas:
+Art. 39.º Os Serviços de Contabilidade e Tesouraria actuam nas seguintes áreas:
 
 a) Contabilidade central e auxiliar;
 
 b) Tesouraria.
 
-###### Art. 40.º O Gabinete Técnico funciona na dependência directa do conselho administrativo, actuando nas seguintes áreas:
+Art. 40.º O Gabinete Técnico funciona na dependência directa do conselho administrativo, actuando nas seguintes áreas:
 
 a) Contencioso e apoio jurídico;
 
 b) Estatística, organização, planeamento e documentação.
 
-###### Art. 41.º Para o exercício das suas atribuições, o Centro de Prestações Pecuniárias de Segurança Social de Ponta Delgada é dotado dos seguintes serviços:
+Art. 41.º Para o exercício das suas atribuições, o Centro de Prestações Pecuniárias de Segurança Social de Ponta Delgada é dotado dos seguintes serviços:
 
 a) Divisão de Administração, Contabilidade e Prestações Pecuniárias, que compreende a Repartição de Administração e Contabilidade e a Repartição de Prestações Pecuniárias;
 
 b) Gabinete Técnico.
 
-###### Art. 42.º - 1 - A Repartição de Administração e Contabilidade actua nas seguintes áreas:
+Art. 42.º - 1 - A Repartição de Administração e Contabilidade actua nas seguintes áreas:
 
 a) Administração de pessoal;
 
@@ -612,7 +699,7 @@ b) Serviço de Contabilidade e Tesouraria;
 
 c) Serviço Interno de Apoio Social.
 
-###### Art. 43.º - 1 - A Repartição de Prestações Pecuniárias actua nas seguintes áreas:
+Art. 43.º - 1 - A Repartição de Prestações Pecuniárias actua nas seguintes áreas:
 
 a) Acolhimento e orientação;
 
@@ -638,13 +725,13 @@ e) Serviço Externo.
 
 ##### SUBSECÇÃO II — Núcleo Coordenador de Prestações Diferidas
 
-###### Art. 44.º - 1 - Ao Núcleo Coordenador de Prestações Diferidas, funcionando na directa dependência e sob a chefia do director de serviços, incumbe, designadamente, coordenar, a nível regional, as acções ligadas à definição do direito dos titulares de prestações diferidas, bem como os mecanismos conducentes ao seu processamento atempado.
+Art. 44.º - 1 - Ao Núcleo Coordenador de Prestações Diferidas, funcionando na directa dependência e sob a chefia do director de serviços, incumbe, designadamente, coordenar, a nível regional, as acções ligadas à definição do direito dos titulares de prestações diferidas, bem como os mecanismos conducentes ao seu processamento atempado.
 
 2 - O pessoal necessário à execução das atribuições do Núcleo pertencerá aos quadros próprios dos centros de prestações pecuniárias de segurança social, sendo destacado para o efeito.
 
 #### SECÇÃO IV — Direcção de Serviços de Acção Social e Equipamentos Colectivos
 
-###### Art. 45.º À Direcção de Serviços de Acção Social e Equipamentos Colectivos incumbe, designadamente:
+Art. 45.º À Direcção de Serviços de Acção Social e Equipamentos Colectivos incumbe, designadamente:
 
 a) Coordenar a acção social e a actividade dos equipamentos colectivos do sector, na prossecução de respostas adequadas às necessidades e carências individuais familiares e comunitárias;
 
@@ -662,21 +749,21 @@ g) Promover a prestação de socorros urgentes em caso de calamidade ou de sinis
 
 h) Colaborar com outros departamentos e serviços no processo de articulação permanente das respostas traduzidas em acção social ou equipamentos com as que se expressam em prestação de tipo pecuniário.
 
-###### Art. 46.º - 1 - A Direcção de Serviços de Acção Social compreende os Serviços de Acção Social Directa.
+Art. 46.º - 1 - A Direcção de Serviços de Acção Social compreende os Serviços de Acção Social Directa.
 
 2 - Os Serviços de Acção Social Directa referidos no número anterior terão implantação geográfica em Angra do Heroísmo, Horta e Ponta Delgada, exercendo a sua acção, respectivamente, nas ilhas Graciosa, S. Jorge e Terceira; Corvo, Faial, Flores e Pico, e Santa Maria e S. Miguel.
 
-###### Art. 47.º - 1 - Aos Serviços de Acção Social Directa compete preparar e executar, através de meios mutidisciplinares, as acções decorrentes das atribuições cometidas à Direcção de Serviços.
+Art. 47.º - 1 - Aos Serviços de Acção Social Directa compete preparar e executar, através de meios mutidisciplinares, as acções decorrentes das atribuições cometidas à Direcção de Serviços.
 
 2 - A coordenação dos Serviços de Acção Social Directa é assegurada por um elemento do pessoal técnico do respectivo quadro - coordenador -, nomeado em comissão de serviço, pelo período de dois anos renovável, pelo Secretário Regional dos Assuntos Sociais.
 
-###### Art. 48.º - 1 - Os Serviços de Acção Social Directa executam a acção decorrente da sua competência por si e através de delegações em cada ilha.
+Art. 48.º - 1 - Os Serviços de Acção Social Directa executam a acção decorrente da sua competência por si e através de delegações em cada ilha.
 
 2 - Onde for julgado conveniente, serão criadas secções concelhias dos Serviços de Acção Social Directa.
 
 #### SECÇÃO V — Serviços de Apoio e Orientação das Casas do Povo
 
-###### Art. 49.º - 1 - Aos Serviços de Apoio e Orientação das Casas do Povo incumbe, designadamente:
+Art. 49.º - 1 - Aos Serviços de Apoio e Orientação das Casas do Povo incumbe, designadamente:
 
 a) Coordenar, apoiar e orientar a actividade das Casas do Povo no domínio das actividades de dinamização sócio-cultural e assegurar o exercício das acções que lhes forem cometidas como terminais locais dos serviços e departamentos interessados;
 
@@ -686,11 +773,11 @@ b) Exercer, sempre que conveniente e em termos a definir, actividades do âmbito
 
 3 - Junto aos Serviços de Apoio e Orientação das Casas do Povo poderão ser criadas comissões de consulta e dinamização de actividades, constituídas por elementos do pessoal e das direcções das Casas do Povo da respectiva área de actuação.
 
-###### Art. 50.º A coordenação dos Serviços de Apoio e Orientação das Casas do Povo é assegurada por um elemento do pessoal técnico do respectivo quadro, nomeado, em comissão de serviço, pelo Secretário Regional dos Assuntos Sociais.
+Art. 50.º A coordenação dos Serviços de Apoio e Orientação das Casas do Povo é assegurada por um elemento do pessoal técnico do respectivo quadro, nomeado, em comissão de serviço, pelo Secretário Regional dos Assuntos Sociais.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 51.º O pessoal que integra os quadros da presente estrutura orgânica é o constante do mapa anexo a este diploma e será agrupado de acordo com a seguinte classificação:
+Art. 51.º O pessoal que integra os quadros da presente estrutura orgânica é o constante do mapa anexo a este diploma e será agrupado de acordo com a seguinte classificação:
 
 a) Pessoal dirigente;
 
@@ -702,17 +789,17 @@ d) Pessoal técnico profissional e administrativo;
 
 e) Pessoal auxiliar.
 
-###### Art. 52.º As condições e regras de organização dos quadros e de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários e agentes da SRAS são, para as respectivas categorias, as estabelecidas no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, aplicável à Região pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro, e na legislação regional e geral complementar.
+Art. 52.º As condições e regras de organização dos quadros e de ingresso, acesso, selecção, classificação, formação e carreira profissional dos funcionários e agentes da SRAS são, para as respectivas categorias, as estabelecidas no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, aplicável à Região pelo [Decreto Regulamentar Regional n.º 19/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1979-369824), de 19 de Setembro, e na legislação regional e geral complementar.
 
-###### Art. 53.º - 1 - A carreira de técnico auxiliar nos Serviços de Acção Social Directa desenvolve-se pelas categorias de 2.ª classe, 1.ª classe e de principal, a que correspondem, respectivamente, as letras M, L e J.
+Art. 53.º - 1 - A carreira de técnico auxiliar nos Serviços de Acção Social Directa desenvolve-se pelas categorias de 2.ª classe, 1.ª classe e de principal, a que correspondem, respectivamente, as letras M, L e J.
 
 2 - O ingresso é condicionado à habilitação mínima do curso geral do ensino secundário ou equiparado e à sujeição a concurso público de prestação de provas, a regulamentar por portaria conjunta dos Secretários Regionais dos Assuntos Sociais e da Administração Pública.
 
-###### Art. 54.º - 1 - Os quadros de pessoal dos centros de prestações pecuniárias de segurança social são os anexos ao presente diploma, sendo neles integrado o pessoal afecto às instituições e serviços referidos no artigo 59.º, à excepção do pessoal em serviço nas delegações da Junta Central das Casas do Povo.
+Art. 54.º - 1 - Os quadros de pessoal dos centros de prestações pecuniárias de segurança social são os anexos ao presente diploma, sendo neles integrado o pessoal afecto às instituições e serviços referidos no artigo 59.º, à excepção do pessoal em serviço nas delegações da Junta Central das Casas do Povo.
 
 2 - Sem prejuízo da eventual adopção do estatuto aplicável à função pública, é aplicado ao pessoal dos centros de prestações pecuniárias de segurança social e dos Serviços de Apoio e Orientação das Casas do Povo o regime de trabalho em vigor nas instituições de previdência.
 
-###### Art. 55.º Quando as necessidades do serviço o exijam, poderá a Secretaria Regional dos Assuntos Sociais, por despacho do Secretário Regional, recorrer às seguintes situações especiais:
+Art. 55.º Quando as necessidades do serviço o exijam, poderá a Secretaria Regional dos Assuntos Sociais, por despacho do Secretário Regional, recorrer às seguintes situações especiais:
 
 a) Destacamento: não ocupando o funcionário lugar do quadro, sendo pago pelo organismo ou serviço de origem e não podendo o lugar de que é titular ser preenchido por qualquer forma;
 
@@ -720,40 +807,40 @@ b) Requisição: não ocupando o funcionário lugar do quadro, sendo pago pela S
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 56.º - 1 - São integradas na orgânica do sistema regional unificado de segurança social as Comissões Distritais de Assistência de Angra do Heroísmo, Horta e Ponta Delgada, passando as respectivas funções a ser asseguradas pelos serviços competentes da SRAS.
+Art. 56.º - 1 - São integradas na orgânica do sistema regional unificado de segurança social as Comissões Distritais de Assistência de Angra do Heroísmo, Horta e Ponta Delgada, passando as respectivas funções a ser asseguradas pelos serviços competentes da SRAS.
 
 2 - Os patrimónios imobiliário, mobiliário e financeiro das comissões distritais de assistência são integrados no património do CGFSS, devendo as transferências a que houver lugar operar-se sem qualquer indemnização.
 
 3 - No âmbito e para efeitos do disposto no número anterior, a transferência de contratos de arrendamento efectuar-se-á sem dependência de quaisquer formalidades.
 
-###### Art. 57.º O pessoal das comissões distritais de assistência é integrado nos quadros de pessoal da Secretaria Regional dos Assuntos Sociais.
+Art. 57.º O pessoal das comissões distritais de assistência é integrado nos quadros de pessoal da Secretaria Regional dos Assuntos Sociais.
 
-###### Art. 58.º Os funcionários dos quadros dos serviços da Administração Central, no âmbito da segurança social, regionalizados nos termos do [Decreto-Lei n.º 276/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1978-329860), de 6 de Setembro, são integrados no quadro anexo ao presente diploma.
+Art. 58.º Os funcionários dos quadros dos serviços da Administração Central, no âmbito da segurança social, regionalizados nos termos do [Decreto-Lei n.º 276/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1978-329860), de 6 de Setembro, são integrados no quadro anexo ao presente diploma.
 
-###### Art. 59.º - 1 - São integrados nos centros de prestações pecuniárias de segurança social os serviços das Caixas de Previdência e Abono de Família de Angra do Heroísmo, Horta e Ponta Delgada, os serviços de previdência rural coordenados pelas delegações da Junta Central das Casas do Povo e os serviços das delegações da Caixa de Previdência dos Profissionais de Pesca.
+Art. 59.º - 1 - São integrados nos centros de prestações pecuniárias de segurança social os serviços das Caixas de Previdência e Abono de Família de Angra do Heroísmo, Horta e Ponta Delgada, os serviços de previdência rural coordenados pelas delegações da Junta Central das Casas do Povo e os serviços das delegações da Caixa de Previdência dos Profissionais de Pesca.
 
 2 - As funções de previdência social até agora exercidas na Região pela Caixa de Previdência dos Empregados da Assistência, bem como pelas caixas de empresa e actividade, tal como o respectivo pessoal, serão integrados nos centros de prestações pecuniárias de segurança social à medida que os respectivos serviços reúnam condições para o efeito.
 
-###### Art. 60.º - São transferidos para os centros de prestações pecuniárias de segurança social os patrimónios mobiliário e imobiliário, bem como os direitos e obrigações das instituições e serviços a integrar, designadamente os relativos aos arrendamentos de que sejam titulares.
+Art. 60.º - São transferidos para os centros de prestações pecuniárias de segurança social os patrimónios mobiliário e imobiliário, bem como os direitos e obrigações das instituições e serviços a integrar, designadamente os relativos aos arrendamentos de que sejam titulares.
 
-###### Art. 61.º Nos casos não expressamente previstos neste diploma aplicar-se-ão transitoriamente aos centros de prestações pecuniárias de segurança social as leis e regulamentos aplicáveis às caixas de previdência e abono de família.
+Art. 61.º Nos casos não expressamente previstos neste diploma aplicar-se-ão transitoriamente aos centros de prestações pecuniárias de segurança social as leis e regulamentos aplicáveis às caixas de previdência e abono de família.
 
-###### Art. 62.º - 1 - As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho conjunto do Presidente do Governo Regional e dos Secretários Regionais das Finanças, da Administração Pública e dos Assuntos Sociais.
+Art. 62.º - 1 - As dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho conjunto do Presidente do Governo Regional e dos Secretários Regionais das Finanças, da Administração Pública e dos Assuntos Sociais.
 
 2 - Para a execução deste diploma poderão ser aprovados pelo Secretário Regional regulamentos internos, sob proposta do respectivo director regional.
 
-###### Art. 63.º O presente diploma revoga os artigos 1.º, 2.º, 3.º, 8.º, 9.º, 10.º, 11.º, 12.º, 17.º, 18.º, 19.º e 20.º do Decreto Regulamentar n.º 5/78/A, bem como os quadros de pessoal respeitantes aos serviços extintos ou agora regulamentados.
+Art. 63.º O presente diploma revoga os artigos 1.º, 2.º, 3.º, 8.º, 9.º, 10.º, 11.º, 12.º, 17.º, 18.º, 19.º e 20.º do Decreto Regulamentar n.º 5/78/A, bem como os quadros de pessoal respeitantes aos serviços extintos ou agora regulamentados.
 
 Aprovado pelo Governo Regional em 12 de Março de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 28 de Abril de 1980.**
+Assinado em Angra do Heroísmo em 28 de Abril de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/11400/10001011.pdf))](https://files.diariodarepublica.pt/1s/1980/05/11400/10001011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/11400/10001011.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

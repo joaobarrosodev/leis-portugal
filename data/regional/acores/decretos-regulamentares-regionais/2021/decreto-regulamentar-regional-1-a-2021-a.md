@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 4/2021, 1º Suplemento, Série I de 2021-01-07
   number: '4'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 207-(4) a 207-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00401/0000400014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/1-a/2021/01/07/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-a-2021-153341292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 97fa22920075c6be1b066fbca5eced7f911c126b293e8775187e0714c6ecb983
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9dac518a0215e0bc0d31c28d83b0d8749a70a7c2635ffb4dcb52b5ec61c644f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Açores
 - Análises Clínicas
-- Proteção Civil
-- Lares
 - Atestado Médico
+- Autarquia Local
 - Circulação de Pessoas
-- Estabelecimento Comercial
-- Manifestação Cultural
-- Transporte Aéreo
-- Definição de Competências
 - Controlo Sanitário
-- Estado de Emergência
-- Segurança Pública
-- Fiscalização
-- Isolamento Profiláctico
-- Pessoal Navegante
+- Definição de Competências
+- Desporto
 - Doença Infecciosa
 - Epidemia
-- Polícia Municipal
-- Serviço Regional de Protecção Civil
-- Açores
-- Transporte de Passageiros
-- Desporto
-- Autarquia Local
 - Equipamento de Proteção
+- Estabelecimento Comercial
+- Estado de Emergência
+- Fiscalização
+- Isolamento Profiláctico
+- Lares
+- Manifestação Cultural
+- Pessoal Navegante
+- Polícia Municipal
+- Proteção Civil
+- PSP
+- Segurança Pública
+- Serviço Regional de Protecção Civil
 - Situação de Calamidade
+- Transporte Aéreo
+- Transporte de Passageiros
 relationships:
 - type: cites
   target: eli:http:/
@@ -133,16 +133,68 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/75-d/2020/12/31/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/75-d/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:126467884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:146435561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148599586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:149106929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150509281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:151557411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152165519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152165520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152165521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152637736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153138220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:39Z'
   warnings: []
   errors: []
 ---
@@ -487,11 +539,11 @@ O presente diploma entra em vigor às 00h00 do dia 8 de janeiro de 2021 e vigora
 
 Aprovado em Conselho do Governo, em Ponta Delgada, em 6 de janeiro de 2021.
 
-**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
 
-**Assinado em Angra do Heroísmo, em 7 de janeiro de 2021.**
+Assinado em Angra do Heroísmo, em 7 de janeiro de 2021.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -508,3 +560,5 @@ Concelhos de Alto Risco
 4 - Lagoa.
 
 Nos termos do n.º 4 do artigo 11.º, uma vez que a situação de alto risco abrange 50 % ou mais dos concelhos de São Miguel, as restrições são aplicadas a toda a ilha.
+
+113869601

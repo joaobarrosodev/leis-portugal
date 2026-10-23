@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/05/12100/22412249.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1988-374590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7dd237a4e8b2be755b7f8a3e58baffb5c204acc27f183ca9e4ea98fdaeb825f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e7ded8739ef972241380ea2c3705a75378a460533dd60a0e4009ece8a5963a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orgânica
+- Quadro de Pessoal
+- Serviços Sociais Universitários
+- Universidade dos Açores
+relationships:
+- type: amended_by
+  target: pt:dre:346083:por
+  label: Declarada, com força obrigatória geral, a inconstitucionalidade de todas as normas do presente diploma, pelo(a) Acórdão
+    n.º 395/93 - Diário da República n.º 172/1993, Série I-A de 1993-07-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/395-1993-346083
+  date: '1993-07-24'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:348485:por
+  label: Rectificado pela DECL.DD1255.1989.03.09.PCM, DR.IS [75]Supl de 31/Mar/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-348485
+  date: '1989-03-09'
 article_structure:
   article_count: 44
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:02Z'
   warnings: []
   errors: []
 ---
@@ -496,9 +536,13 @@ d) Organizar os autos de abate e inutilização dos bens deteriorados e sem valo
 
 e) Promover a entrega à entidade competente dos móveis considerados inúteis.
 
-##### SUBSECÇÃO III — Secção de Apoio do Pólo da Terra Chã
+##### SUBSECÇÃO III
 
-###### Artigo 27.º — Secção de apoio
+#### Secção de Apoio do Pólo da Terra Chã
+
+###### Artigo 27.º
+
+#### Secção de apoio
 
 1 - A Secção de Apoio do Pólo da Terra Chã exerce as suas atribuições nos seguintes domínios:
 
@@ -678,18 +722,18 @@ Os encargos resultantes da aplicação do presente diploma serão suportados pel
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 10 de Fevereiro de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 3 de Maio de 1988.**
+Assinado em Angra do Heroísmo em 3 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO I — Quadro a que refere o artigo 36.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12100/22412249.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12100/22412249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12100/22412249.pdf)
 
 ## ANEXO II — Tabela de equivalências a que se refere a alínea c) do n.º 1 do artigo 43.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/12100/22412249.pdf))](https://files.diariodarepublica.pt/1s/1988/05/12100/22412249.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/05/12100/22412249.pdf)

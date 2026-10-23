@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/01/00800/0038400384.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/42/2008/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/42-2008-386611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0143fb850ab2c33517a9be1dbd5f7dd7b2588f31ea0d14b75e57485f1306c5a6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c809bc4cd18c63743b8bfd946a37c6c7a27971476d5d0ba3bc99e90db4965313
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Manual Escolar
-- Estabelecimento de Ensino
 - Ensino Básico
+- Estabelecimento de Ensino
+- Manual Escolar
 - Sistema de Ensino
 relationships:
 - type: cites
@@ -79,16 +79,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/47/2006/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/47/2006/08/28/p/dre
+- type: cites
+  target: pt:dre:540784:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636177:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:25343984:por
+  label: "Revogada, a partir de 10.04.2014, pela PORT.81/2014.09.04.2014.MECI, DR.IS [70] de 09.04.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-2014-25343984
+  date: '2014-04-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:13Z'
   warnings: []
   errors: []
 ---

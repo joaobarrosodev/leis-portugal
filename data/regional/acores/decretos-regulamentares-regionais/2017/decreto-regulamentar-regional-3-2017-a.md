@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2017/06/10600/0272602731.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/3/2017/06/01/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6b145a249189948e089a0aa8ec3cdf27eb7056f354bd99114e56a2c82c0547a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e822e32bc9c05b26b2e4b7d0b030f4a3252c5d646c43adbd4a58d359e117f55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,35 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
+- Administração Regional
+- Central de Serviços Partilhados da Ilha Graciosa
 - Coordenador
 - Criação de Serviços
 - Definição de Competências
-- Quadro Regional de ILHA
-- Gestão Orçamental
-- Integração de Trabalhadores
-- Quadro de Pessoal
-- Ilha Graciosa
-- Administração Regional
 - Gestão de Recursos Humanos
-- Açores
+- Gestão Orçamental
+- Ilha Graciosa
+- Integração de Trabalhadores
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Quadro Regional de ILHA
 - Transferência de Competências
-- Central de Serviços Partilhados da Ilha Graciosa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/22/2015/10/28/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/22/2015/10/28/a/dre
+- type: cites
+  target: pt:dre:70832994:por
+  label: null
+  source: null
 article_structure:
-  article_count: 29
+  article_count: 22
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:24Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +139,9 @@ a) Os recursos humanos do Quadro Regional da Ilha Graciosa e ainda todos os trab
 
 b) [...].
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - [...].
 
@@ -147,13 +153,17 @@ b) [...].
 
 5 - Os restantes trabalhadores a desempenhar funções nos diversos serviços abrangidos pelo presente diploma são considerados na Unidade de Medida a Contabilizar dos respetivos serviços ou tutelas.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - A Central de Serviços Partilhados da Ilha Graciosa é dirigida por um coordenador equiparado, para todos os efeitos legais, a diretor de serviços, cargo de direção intermédia de 1.º grau.
 
 2 - [Revogado].
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - [...].
 
@@ -163,7 +173,9 @@ a) Assegurar a articulação entre a Central de Serviços Partilhados da Ilha Gr
 
 b) Promover a articulação com a direção regional com competências em matéria de organização e administração pública, para que seja garantido o exercício das competências a que se refere o artigo 3.º
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 [...]:
 
@@ -213,7 +225,9 @@ v) [Revogada];
 
 w) [...].
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 [...]:
 
@@ -259,11 +273,15 @@ t) [...]
 
 u) [...].
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A gestão orçamental da Central de Serviços Partilhados da Ilha Graciosa está sujeita a regras definidas nos termos da legislação em vigor.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 Transitam para a Central de Serviços Partilhados da Ilha Graciosa, mediante despacho do membro do Governo Regional com competências em matéria de finanças e administração pública:
 
@@ -299,11 +317,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 6 de abril de 2017.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 23 de maio de 2017.**
+Assinado em Angra do Heroísmo em 23 de maio de 2017.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -535,4 +553,4 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 ## ANEXO — Quadro de pessoal a que se refere o n.º 2 do artigo 11.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2017/06/10600/0272602731.pdf))](https://files.diariodarepublica.pt/1s/2017/06/10600/0272602731.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2017/06/10600/0272602731.pdf)

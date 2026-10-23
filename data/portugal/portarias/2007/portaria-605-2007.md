@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/605/2007/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/605-2007-520782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-04-28T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af43f6abe3e53a10df1cae5815d0881e5bf13dd9538c5941a3de17338cd16042
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f08eee021eb44b4fc67efeb5a90741bce5f4c10aa96a13b11d5410d4107577c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,30 @@ relationships:
   target: pt:dre:614166:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248200:por
+  label: "Renovada a zona de caça municipal criada pela Port 1191/2001, de 15-Out, alterada pelo presente diploma, pela PORT.110/2008.05.02.2008.MADRP,\
+    \ DR.IS [25] de 05.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/110-2008-248200
+  date: '2008-02-05'
+- type: amended_by
+  target: pt:dre:438713:por
+  label: "Excluídos vários prédios rústicos da zona de caça criada pela Port 1191/2001 de 15-Out, com as alterações constantes\
+    \ do presente diploma, pela PORT.1219/2008.23.10.2008.MADRP, DR.IS [206] de 23.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1219-2008-438713
+  date: '2008-10-23'
+- type: amended_by
+  target: pt:dre:607562:por
+  label: "Excluído um prédio rústico da zona de caça atribuída Port 1191/2001 de 15-Out, com as alterações constantes do presente\
+    \ diploma, pela PORT.492/2009.08.05.2009.MADRP, DR.IS [89] de 08.05.2009 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/492-2009-607562
+  date: '2009-05-08'
+- type: amended_by
+  target: pt:dre:614166:por
+  label: "Excluídos diversos terrenos cinegéticos da zona de caça atribuída pela Port 1191/2001 de 15-Out, com as alterações\
+    \ constantes do presente diploma, pela PORT.236/2010.28.04.2010.MADRP, DR.IS [82] de 28.04.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/236-2010-614166
+  date: '2010-04-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1191/2001/10/15/p/dre
   label: null
@@ -82,16 +106,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1408/2004/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1408/2004/11/17/p/dre
+- type: cites
+  target: pt:dre:531434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621525:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:42Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +144,6 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º A planta anexa à [Portaria n.º 1408/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1408-2004-531434), de 17 de Novembro, é substituída pela apensa à presente portaria.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Abril de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Abril de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09700/33783378.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09700/33783378.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09700/33783378.pdf)

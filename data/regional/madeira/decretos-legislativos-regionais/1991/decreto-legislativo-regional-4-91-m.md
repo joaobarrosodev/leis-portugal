@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/1991/03/08/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1991-459441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d0d91446b7109d55842f5a396c93f4f4fd5d8f50f24a1d9a3f87092a2a62adfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf60de71688acf77cf1dbc63274aab9cdb50746b1640dd75957dceaa27da5902
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,15 +74,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/dir/1971/305/oj
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:37Z'
   warnings: []
   errors: []
 ---
@@ -103,18 +103,18 @@ Nestes termos:
 
 A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O Decreto-Lei n.º 235/86, de 18 de Agosto, com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 320/90, de 15 de Outubro, é aplicável às empreitadas a que se refere o artigo 1.º do Decreto Legislativo Regional n.º 8/87/M, de 9 de Setembro.
+Artigo 1.º O Decreto-Lei n.º 235/86, de 18 de Agosto, com a nova redacção que lhe foi dada pelo Decreto-Lei n.º 320/90, de 15 de Outubro, é aplicável às empreitadas a que se refere o artigo 1.º do Decreto Legislativo Regional n.º 8/87/M, de 9 de Setembro.
 
-###### Art. 2.º As referências aos governos civis e governadores civis contidas no artigo 213.º do Decreto-Lei n.º 235/86, de 18 de Agosto, com a redacção dada pelo Decreto-Lei n.º 320/90, de 15 de Outubro, consideram-se reportadas, no âmbito territorial da Região Autónoma da Madeira, à Direcção Regional de Administração Pública e Local e ao director regional de Administração Pública e Local.
+Art. 2.º As referências aos governos civis e governadores civis contidas no artigo 213.º do Decreto-Lei n.º 235/86, de 18 de Agosto, com a redacção dada pelo Decreto-Lei n.º 320/90, de 15 de Outubro, consideram-se reportadas, no âmbito territorial da Região Autónoma da Madeira, à Direcção Regional de Administração Pública e Local e ao director regional de Administração Pública e Local.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 17 de Janeiro de 1991.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 21 de Fevereiro de 1991.**
+Assinado em 21 de Fevereiro de 1991.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

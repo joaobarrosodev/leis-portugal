@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/1999/07/01/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-1999-372068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2377a7ab48b463e1434b7441fcf9618db175dd1184b1b9594e99cbf52f43d639
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9af1c4949ade37abdb073b3a60c986f6e4f8927b5ba1a47b97ea740154291b8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Administração dos Portos da Região Autónoma da Madeira
-- Sociedade Anónima
-- Propriedade do Estado
-- Estatuto
 - Administração de Portos
+- Administração dos Portos da Região Autónoma da Madeira
+- Estatuto
 - Integração de Trabalhadores
-- Porto do Porto Santo
 - Madeira.região Autónoma
+- Porto do Porto Santo
 - Portos
+- Propriedade do Estado
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:610209:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:655964:por
+  label: "Alterados os artigos 2.º, 3.º e 12.º e o anexo II do presente diploma, e os artigos 3.º e 10.º dos Estatutos publicados\
+    \ em anexo, pelo DLR.25/2003/M.2003.08.05.ALR-RAM, DR.IS-A [194] de 23/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-2003-655964
+  date: '2003-08-05'
+- type: amended_by
+  target: pt:dre:610209:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma contida no nº 7, in fine, do art. 2º deste\
+    \ diploma, com a redacção que lhe foi conferida pelo DLR 25/2003/M de 23-Ago, pelo AC.654/2009.12.02.2010.TCS, DR.IS [30]\
+    \ de 12.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/654-2009-610209
+  date: '2010-02-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/13/1996/07/11/m/dre
   label: null
@@ -92,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:422987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523185:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 50
+  article_count: 51
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:38Z'
   warnings: []
   errors: []
 ---
@@ -294,11 +331,11 @@ O presente diploma entra em vigor 30 dias após a data da sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira de 11 de Maio de 1999.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 2 de Junho de 1999.**
+Assinado em 2 de Junho de 1999.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO I — Estatutos da APRAM - Administração dos Portos da Região Autónoma da Madeira, S. A.
 
@@ -532,7 +569,9 @@ d) Para outros fins que a assembleia geral delibere de interesse para a sociedad
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.
 
-## ANEXO II — Artigo 1.º
+## ANEXO II
+
+###### Artigo 1.º
 
 Áreas de jurisdição
 

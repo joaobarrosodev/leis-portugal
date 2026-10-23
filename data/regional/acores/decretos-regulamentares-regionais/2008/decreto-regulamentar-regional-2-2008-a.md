@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/03200/0100801019.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/2/2008/02/14/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2008-248025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f11585d66cc26d66e0ddf5a5ce41842b149a32fec3d1172a56e24ae644d9718c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 980da0778d1ff65187674db2cc96b25a427894999e1a4055a8947405c231d217
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
 - Casa Degradada
 - Comparticipação do Estado
-- Renovação Urbana
+- Financiamento
+- Habitação
 - JURO Bonificado
 - Regime Jurídico
-- Habitação
-- Açores
+- Renovação Urbana
 - Subsídio não Reembolsável
 relationships:
 - type: amended_by
   target: pt:dre:122393535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456520:por
+  label: "Alterados os arts. 1.º e 18.º do DRR 1/2003/A, de 06-Fev, alterados pelo presente diploma, pelo DRR.17/2008/A.09.07.2008.PG-RAA,\
+    \ DR.IS [131] de 09.07.2008, que o republica na íntegra\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/17-2008-456520
+  date: '2008-07-09'
+- type: amended_by
+  target: pt:dre:276801:por
+  label: "Alterados os arts. 1º e 7º do DRR 1/2003/A, de 06-Fev, na redacção e republicado pelo presente diploma, pelo DRR.10/2011/A.13.04.2011.PG-RAA,\
+    \ DR.IS [73] de 13.04.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2011-276801
+  date: '2011-04-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/37/2006/10/31/a/dre
   label: null
@@ -97,16 +109,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/7/2004/03/26/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/7/2004/03/26/a/dre
+- type: cites
+  target: pt:dre:200031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210650:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546003:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122393535:por
+  label: Revogado o DRR 1/2003/A de 06-fev, com a redação dada pelo presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 11/2019/A - Diário da República n.º 100/2019, Série I de 2019-05-24, com efeitos nos termos do disposto no art. 31.º
+    deste último diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2019-122393535
+  date: '2019-05-24'
 article_structure:
-  article_count: 75
+  article_count: 72
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:32Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +168,9 @@ Os artigos 1.º, 12.º, 18.º e 61.º do [Decreto Regulamentar Regional n.º 1/2
 
 O presente diploma regulamenta o regime jurídico da concessão dos apoios financeiros a obras de reabilitação, reparação e beneficiação em habitações degradadas, instituído pelo [Decreto Legislativo Regional n.º 6/2002/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2002-250609), de 11 de Março, alterado pelo [Decreto Legislativo Regional n.º 37/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-546003), de 31 Outubro.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -141,7 +178,9 @@ O presente diploma regulamenta o regime jurídico da concessão dos apoios finan
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -157,7 +196,9 @@ b) ...
 
 5 - O valor referido na alínea b) do n.º 2, ou aquele que for fixado na portaria a que alude o número anterior, é majorado em 15 % quando a habitação a recuperar se situe nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -173,11 +214,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 3 de Janeiro de 2008.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 22 de Janeiro de 2008.**
+Assinado em Angra do Heroísmo em 22 de Janeiro de 2008.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 

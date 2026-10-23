@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/701/2008/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/701-2008-454804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T15:33:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aafbab0a98ddb0e2dd93c442d14c1b66a2144be72f85dec86686d69246ecb0c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d5f30ec25cfea3175f31ba8b3a3f18be6ca363b9062bb6d6a90b8b8e72fbdd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:33:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Campanha Vinícola
-- Vinho
 - Definição de Competências
 - Direcção Regional de Agricultura e Pescas
-- Pagamento
-- Instituto da Vinha e do Vinho
-- IFAP
 - Exploração Agrícola
+- IFAP
+- Instituto da Vinha e do Vinho
+- Pagamento
 - Prémio
 - Regulamento CE
-- Vitivinicultor
 - Vinha
+- Vinho
+- Vitivinicultor
 relationships:
+- type: amended_by
+  target: pt:dre:776203:por
+  label: "Prorrogado o prazo previsto no nº1 do art. 5º do presente diploma, pelo DESP.23130-A/2008.10.09.2008.SEAAGP-MADRP,\
+    \ DR.IIS [175-Supl] de 10.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/23130-a-2008-776203
+  date: '2008-09-10'
 - type: cites
   target: celex:31999R1493
   label: null
@@ -103,13 +109,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:33:54Z'
   warnings: []
   errors: []
 ---
@@ -336,8 +342,8 @@ Sempre que os beneficiários estejam obrigados à devolução de qualquer quanti
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 23 de Julho de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 23 de Julho de 2008.
 
 ## ANEXO — (tabela a que se refere o n.º 1 do artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0509605100.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0509605100.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/07/14500/0509605100.pdf)

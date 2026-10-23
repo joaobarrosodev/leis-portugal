@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 196/2008, 1º Suplemento, Série I de 2008-10-09
   number: '196'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7214-(24) a 7214-(33)
   pdf_url: https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1137-d/2008/10/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1137-d-2008-220952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a28bfed3ee79a689a5682490e42b27ff8616b5439faf1650338aaa510464f280
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f561afc0bb536144fb7b4be737f029b340d8815743c85392e3729ba33c63173e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proder
 - Arborização
-- Proteção da Floresta
 - Ordenamento Florestal
+- Proder
+- Proteção da Floresta
 - Regulamento
 - Regulamento de Aplicação da Acção Nº 2.3.3-valorização Ambiental dos Espaços Florestais
 relationships:
@@ -78,20 +78,73 @@ relationships:
   target: pt:dre:498497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601535:por
+  label: "Aditados os n.ºs. 4, 5 e 6 ao art. 10º do Regulamento aprovado pelo presente diploma, pela PORT.147/2009.06.02.2009.MADRP,\
+    \ DR.IS [26] de 06.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/147-2009-601535
+  date: '2009-02-06'
+- type: amended_by
+  target: pt:dre:249855:por
+  label: "Alteradas as al.s d), f), h), n), o) e t) do art. 4º, art. 6º, subal. i) e ii) da al. e) do art. 9º, al. e) do art.\
+    \ 12º, nº 1 do art. 16º, nºs 1, 2, 4 e 5 do art. 17º, n.º 3 do art. 20º, nºs 1, 3, 4 e 6 do art. 21º, epígrafe e nºs 2,\
+    \ 3 e 5 do art. 22º, art. 24º e al. a) do nº 1 e nº 2 do art. 26º do Regulamento bem como a al. e) do nº 1.2, nº 1.9,\
+    \ al. a) do nº 1.10 e al. a) do nº 2.3 do anexo i do Regulamento e revogados o nº 8 do art. 21º e al. f) e i) do nº 1.6\
+    \ do anexo i do Regulamento, pela PORT.739-B/2009.09.07.2009.MADRP, DR.IS [131-Supl] de 09.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/739-b-2009-249855
+  date: '2009-07-09'
+- type: amended_by
+  target: pt:dre:343948:por
+  label: "Alterados os arts. 4º (na redacção da Port 739-B/2009, de 09-Jul), 7º, 9º, 12º (os dois últimos na redacção da Port\
+    \ 739-B/2009, de 09-Jul), 14º, 15º, 16º (este último na redacção da Port 739-B/2009, de 09-Jul) e 18º e os anexos I (este\
+    \ na redacção da Port 739-B/2009, de 09-Jul), III, IV e V e e revogados a al. b) do art. 8º, a al. b) do nº1 do art 9º,\
+    \ o art. 26º e o nº3 do anexo IV do Regulamento, aprovado pelo presente diploma, pela PORT.814/2010.27.08.2010.MADRP,\
+    \ DR.IS [167] de 27.08.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/814-2010-343948
+  date: '2010-08-27'
+- type: amended_by
+  target: pt:dre:670056:por
+  label: "Alterados os arts. 9.º (na redacção das portarias 739-B/2009, de 09-Jul. e 814/2010, de 27-Ago.), 22.º e 24.º (ambos\
+    \ na redacção da Port. 739-B/2009, de 09-Jul) e 25.º e os anexos i (na redacção das portarias 739-B/2009, de 09-Jul. e\
+    \ 814/2010, de 27-Ago) e iv (na redacção da Port. 814/2010, de 27-Ago.) todos do Regulamento de Aplicação da Acção n.º\
+    \ 2.3.3, «Valorização Ambiental dos Espaços Florestais», aprovado pelo presente diploma, pela PORT.228/2011.09.06.2011.MADRP,\
+    \ DR.IS [112] de 09.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2011-670056
+  date: '2011-06-09'
+- type: amended_by
+  target: pt:dre:498497:por
+  label: "Dada nova redação ao anexo I (retificado pela Decl-Rect 74/2008 de 05-dez e alterado pelas Port 739-B/2009 de 09-jul,\
+    \ 814/2010 de 27-ago e 228/2011 de 09-jun); e revogado, com efeitos a 28.08.2010, o nº 2.6 da Subação n.º 2.3.3.3 do mesmo\
+    \ anexo I do Regulamento de Aplicação da Ação n.º 2.3.3, «Valorização Ambiental dos Espaços Florestais» pela PORT.253/2013.07.08.2013.MAMAOT,\
+    \ DR.IS [151] de 07.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2013-498497
+  date: '2013-08-07'
 - type: cites
   target: celex:32006R1975
   label: null
   source: http://data.europa.eu/eli/reg/2006/1975/oj
+- type: corrected_by
+  target: pt:dre:440503:por
+  label: "Rectificada pela DECL-RECT.74/2008.05.12.2008.PCM, DR.IS [236] de 05.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/74-2008-440503
+  date: '2008-12-05'
+- type: corrected_by
+  target: pt:dre:493998:por
+  label: "Rectificado o artigo 3.º da Portaria n.º 739-B/2009, de 9 de Julho, relativo à alteração ao Regulamento aprovado\
+    \ pelo presente, no que respeita à alíena e) do artigo 9.º, pela DECL-RECT.58/2009.07.08.2009.PCM, DR.IS [152] de 07.08.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/58-2009-493998
+  date: '2009-08-07'
 article_structure:
   article_count: 29
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:08Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +195,7 @@ e) Anexo V, relativo aos níveis dos critérios a considerar para a hierarquiza�
 
 A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 7 de Outubro de 2008.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 7 de Outubro de 2008.
 
 ## ANEXO
 
@@ -680,15 +733,15 @@ b) Manter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobili
 
 Subacção n.º 2.3.3.1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf)
 
 Subacção n.º 2.3.3.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf)
 
 Subacção n.º 2.3.3.3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf)
 
 ## ANEXO IV — Limites máximos de apoio
 
@@ -716,4 +769,4 @@ b) Por ZIF, fundo de investimento imobiliário florestal e organismo da administ
 
 (a que se refere o n.º 2 do artigo 14.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf))](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/10/19601/0002400033.pdf)

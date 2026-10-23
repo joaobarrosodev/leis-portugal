@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/850/2007/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/850-2007-637396
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fca8f1c76e16d5b50b32963f8746ffb84741f46a4566fd1491267b3cae7a89b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bcc545949cd0fda7e844a1025a897c8ccf4146911edab65484b35e3b90407070
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
+- Administração de Portos
 - Administração do Porto de Aveiro
 - Administração do Porto de Lisboa
 - Administração do Porto de Sines
 - Administração dos Portos de Setúbal e Sesimbra
 - Administração dos Portos do Douro e Leixões
-- Porto de Lisboa
-- Instituto Portuário e dos Transportes Marítimos
 - Diuturnidades
-- Administração de Portos
+- Instituto Portuário e dos Transportes Marítimos
 - Pessoal Técnico de Pilotagem
 - Porto de Aveiro
 - Porto de Leixões
+- Porto de Lisboa
 - Porto de Setúbal
 - Porto de Sines
 - Porto do Douro
-- Remuneração
 - Portos
+- Remuneração
+- Subsídio de Alimentação
 - Trabalhador Portuário
 relationships:
 - type: amended_by
   target: pt:dre:249849:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:249849:por
+  label: "Actualizado o subsídio de alimentação previsto no n.º 2.º, pela PORT.271/2008.09.04.2008.MOPTC, DR.IS [70] de 09.04.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/271-2008-249849
+  date: '2008-04-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/257/2002/11/22/p/dre
   label: null
@@ -130,16 +136,56 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/7
   label: null
   source: http://data.dre.pt/eli/port/7
+- type: cites
+  target: pt:dre:223011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667362:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:20Z'
   warnings: []
   errors: []
 ---
@@ -156,4 +202,4 @@ Nos termos do disposto nos n.os 2 dos artigos 21.º dos Decretos-Leis n.os [335/
 
 3.º O disposto no n.º 1.º da presente portaria produz efeitos a 1 de Janeiro de 2007.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 26 de Julho de 2007.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 26 de Julho de 2007.

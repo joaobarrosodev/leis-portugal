@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2020/02/03300/0002900045.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2020/02/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2020-129208062
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f2b462f8b8dcf11a02427ceeb14d78cb15099ee5d0954b03ec8aff1a51240b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46dde2b60be5f976f100b6336ab24d8cb7eeea42a0b4ab0fe5bb35cf4a24df1c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Acreditação
-- Região Autónoma
+- Agência Espacial Portuguesa
+- Autoridade Nacional de Comunicações
 - Definição de Competências
-- Regulamentação de Atos Legislativos
+- Documento Eletrónico
+- Equipamento Informático
+- Exploração do Espaço
 - Formulário Eletrónico
 - Impresso
 - Licenciamento
-- Documento Eletrónico
-- Equipamento Informático
 - Página na Internet
-- Registo Obrigatório
-- Regulamento
-- Açores
-- Utilização do Espaço
-- Exploração do Espaço
-- Transporte Espacial
 - Plataforma Eletrónica
-- Autoridade Nacional de Comunicações
-- Agência Espacial Portuguesa
+- Região Autónoma
+- Registo Obrigatório
+- Regulamentação de Atos Legislativos
+- Regulamento
+- Transporte Espacial
+- Utilização do Espaço
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/2019/01/22/p/dre
@@ -93,16 +93,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/9/2019/05/09/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/9/2019/05/09/a/dre
+- type: cites
+  target: pt:dre:118275382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122253268:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:38Z'
   warnings: []
   errors: []
 ---
@@ -129,11 +137,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, nas Velas, em 23 de janeiro de 2020.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 11 de fevereiro de 2020.**
+Assinado em Angra do Heroísmo em 11 de fevereiro de 2020.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -770,3 +778,5 @@ e) Lista de licenças transmitidas.
 ###### Artigo 41.º — Norma transitória
 
 Até à implementação do «Portal do Espaço da Região Autónoma dos Açores», as comunicações, envio ou acesso a documentos, nomeadamente requerimentos e minutas, certificados e notificações, bem como os pareceres previstos no presente regulamento, processam-se pelos meios alternativos disponibilizados pela EER.
+
+113008692

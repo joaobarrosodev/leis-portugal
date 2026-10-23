@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/11/2008/01/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/11-2008-386796
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b580c062ca2066c3ad18224706341cf5a6e67a3b81940e3b37db0d4013a00faf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 766c9b611801b18061e8536b2320308b050e3a91f24301ca3353d031e6de8397
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -96,16 +96,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/288/2005/03/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/288/2005/03/21/p/dre
+- type: cites
+  target: pt:dre:216759:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578540:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641076:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:1085-B/2004
+  label: "Revoga a Portaria n.º 1085-B/2004, de 31 de Agosto, DR.IS-B [205]-Supl\0\0"
+  source: null
+  date: '2004-08-31'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:54Z'
   warnings: []
   errors: []
 ---
@@ -150,6 +179,6 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação
 
 Em 21 de Dezembro de 2007.
 
-**O Ministro da Justiça, Alberto Bernardes Costa. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.**
+O Ministro da Justiça, Alberto Bernardes Costa. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/01/00200/0009300095.pdf))](https://files.diariodarepublica.pt/1s/2008/01/00200/0009300095.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/01/00200/0009300095.pdf)

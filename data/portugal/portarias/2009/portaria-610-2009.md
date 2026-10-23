@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/610/2009/06/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/610-2009-494489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fed873b95b9b7f94bef826b4f4c52ef01d70f1ba127071410c0e372cc45cc2c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e054ad7ea4756d07c548965ba8dcfec687e7df55fd64e26957941d27e134769a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Incêndio
-- Prevenção de Incêndios
-- Definição de Competências
-- Sistema de Informação
-- Regime Jurídico
 - Autoridade Nacional de Protecção Civil
+- Definição de Competências
+- Incêndio
 - Prédio Urbano
+- Prevenção de Incêndios
+- Regime Jurídico
+- Sistema de Informação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/220/2008/11/12/p/dre
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/60/2007/09/04/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/60/2007/09/04/p/dre
+- type: cites
+  target: pt:dre:439866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:17Z'
   warnings: []
   errors: []
 ---
@@ -197,4 +209,4 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação no Di�
 
 Em 26 de Maio de 2009.
 
-**O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Protecção Civil, José Miguel Abreu de Figueiredo Medeiros.**
+O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado da Protecção Civil, José Miguel Abreu de Figueiredo Medeiros.

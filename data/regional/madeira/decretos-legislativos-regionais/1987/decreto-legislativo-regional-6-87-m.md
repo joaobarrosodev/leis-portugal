@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1987-419375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5738a316a35e8e7e6b48472555978fb548fbe32dcf8e0a6fdad8fb5da866cb5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d50fd5d13b706263d1457eba78fc12456103122903cb2776a113d7924697419e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Funchal
+- Fundo de Turismo
+- Imposto Especial sobre o Jogo
+- Madeira.região Autónoma
+- ZONA de JOGO
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:12Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +105,16 @@ Nestes termos:
 
 A Assembleia Regional da Madeira decreta, de harmonia com o disposto na alínea a) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º A Região afectará anualmente ao Fundo de Turismo o montante equivalente a 85% da receita do imposto especial sobre o jogo cobrado na Zona de Jogo Permanente do Funchal.
+Artigo 1.º A Região afectará anualmente ao Fundo de Turismo o montante equivalente a 85% da receita do imposto especial sobre o jogo cobrado na Zona de Jogo Permanente do Funchal.
 
-###### Art. 2.º O disposto no artigo anterior é exequível a partir da consagração legal do acesso aos mecanismos de apoio directo e indirecto do Fundo de Turismo por parte de iniciativas e empreendimentos a realizar na Região Autónoma da Madeira.
+Art. 2.º O disposto no artigo anterior é exequível a partir da consagração legal do acesso aos mecanismos de apoio directo e indirecto do Fundo de Turismo por parte de iniciativas e empreendimentos a realizar na Região Autónoma da Madeira.
 
-###### Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 19 de Março de 1987.
 
-**O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 9 de Abril de 1987.**
+Assinado em 9 de Abril de 1987.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.

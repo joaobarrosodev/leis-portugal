@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/2004/06/03/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2004-281202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bdf86f819677c70084f25c767a9112a3f939cd8813c8b16237c34809fe98184
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8def92d674dca58c6296650f30f679a642607db952093865270a759174b5d6fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aerogare Civil das Lajes
 - Aeroporto
 - Assistente de Operações Aeroportuárias
-- ILHA Terceira
-- Formação Profissional
-- Sistema Retributivo
 - Carreira Profissional
-- Remuneração Acessória
 - Descrição de Funções
+- Formação Profissional
+- ILHA Terceira
 - Quadro de Pessoal
 - Reestruturação de Carreiras
 - Remuneração
-- Açores
+- Remuneração Acessória
+- Sistema Retributivo
 - Subsídio de Prevenção
 relationships:
 - type: amended_by
   target: pt:dre:129341449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628775:por
+  label: "Alterados os arts. 3.º, 5.º, 6.º, 8.º e 9.º do presente diploma, com republicação, pelo DLR.28/2007/A.10.12.2007.AL-RAA,\
+    \ DR.IS [237] de 10.12.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/28-2007-628775
+  date: '2007-12-10'
+- type: amended_by
+  target: pt:dre:129341449:por
+  label: Extinta a carreira de assistente de operações aeroportuárias criada pelo presente diploma pelo(a) Decreto Regulamentar
+    Regional n.º 7/2020/A - Diário da República n.º 35/2020, Série I de 2020-02-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-2020-129341449
+  date: '2020-02-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -101,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/29/2002/10/02/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/29/2002/10/02/a/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644711:por
+  label: null
+  source: null
 article_structure:
   article_count: 16
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:02Z'
   warnings: []
   errors: []
 ---
@@ -349,12 +385,12 @@ O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publica
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 20 de Abril de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 12 de Maio de 2004.**
+Assinado em Angra do Heroísmo em 12 de Maio de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — [(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/06/130a00/35023506.pdf)

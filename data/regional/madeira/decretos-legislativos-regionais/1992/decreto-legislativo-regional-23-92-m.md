@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/1992/07/21/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1992-292302
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d428cd2aefb2b84f6c063a89d69f20133d95514970d9ad0951b82750e385912
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0148787f47857f93923f9bbb132c5ab48d5c04b23284bf39a73e4cde8f624604
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Regional
 - Concurso
 - Concurso de Ingresso
-- Recrutamento de Pessoal
 - Integração de Trabalhadores
-- Pessoal Auxiliar
 - Madeira.região Autónoma
+- Pessoal Auxiliar
+- Recrutamento de Pessoal
 - Segurança Social
-- Administração Regional
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:311004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455936:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:45Z'
   warnings: []
   errors: []
 ---
@@ -104,14 +116,14 @@ Considerando que importa tutelar a situação desse pessoal mediante a sua integ
 
 A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição da República, conjugado com a alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo único. Excepcionalmente e pelo período de dois anos, podem ser recrutados, mediante concurso externo para a categoria de encarregado de serviços gerais nos serviços abrangidos pelo [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro, adaptado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 19/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1983-455936), de 29 de Agosto, indivíduos com a escolaridade obrigatória e experiência profissional comprovada na categoria de encarregado de serviços gerais.
+Artigo único. Excepcionalmente e pelo período de dois anos, podem ser recrutados, mediante concurso externo para a categoria de encarregado de serviços gerais nos serviços abrangidos pelo [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro, adaptado à Região Autónoma da Madeira pelo [Decreto Regulamentar Regional n.º 19/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1983-455936), de 29 de Agosto, indivíduos com a escolaridade obrigatória e experiência profissional comprovada na categoria de encarregado de serviços gerais.
 
 Aprovado em sessão plenária de 27 de Maio de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 22 de Junho de 1992.**
+Assinado em 22 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

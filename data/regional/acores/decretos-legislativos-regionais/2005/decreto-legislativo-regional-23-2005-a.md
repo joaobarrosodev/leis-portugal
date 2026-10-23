@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/23/2005/10/20/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2005-594755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3169675fa13c1858096079f0e682db7cdd005f9a62589d08ddab9828614d19c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04a5cb7616957e52954355124ab78d353a24367fd9af64ab367a5ab1164fe485
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,44 +68,68 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção Financeira
-- Sociedade Anónima
+- Açores
 - Capital Social
+- Comércio
+- Direito Comercial
 - Eleição
-- Turismo
-- Transporte Aéreo
-- Governo Regional
 - Empresa Participada
 - Estatuto
 - Fiscalização
-- Direito Comercial
-- Pensionista
+- Governo Regional
 - Mobilidade de Pessoal
+- Pensionista
 - SATA
 - SATA AIR Açores-serviço Açoreano de Transportes Aéreos
 - SATA Internacional-serviços e Transportes Aéreos
 - SGPS
-- Açores
-- Comércio
+- Sociedade Anónima
 - Trabalhador
+- Transporte Aéreo
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:117447719:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:117447719:por
+  label: Determinada a partir de 21.12.2019, a extinção da SATA - Sociedade de Transportes Aéreos, SGPS, S. A., e revogado
+    o DLR 23/2005/A, de 20-out DR.IS-A [202], com exceção dos Estatutos aprovados em anexos àqueles diplomas, que se mantêm
+    em vigor até à data de conclusão do respetivo processo de extinção, pelo(a) Decreto Legislativo Regional n.º 15/2018/A
+    - Diário da República n.º 245/2018, Série I de 2018-12-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2018-117447719
+  date: '2018-12-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/276/2000/11/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/276/2000/11/10/p/dre
+- type: cites
+  target: pt:dre:283099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614349:por
+  label: null
+  source: null
 article_structure:
   article_count: 33
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:12Z'
   warnings: []
   errors: []
 ---
@@ -244,13 +268,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de Setembro de 2005.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 3 de Outubro de 2005.**
+Assinado em Angra do Heroísmo em 3 de Outubro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — ESTATUTO DA SATA - SOCIEDADE DE TRANSPORTES AÉREOS, SGPS, S. A.
 

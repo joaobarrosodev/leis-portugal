@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/562/2007/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/562-2007-521224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-09-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38c672cbe5e7e8bea4b770559c5819bd1b4fceb3950363c478201ffcac5f8993
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82c6f82f0032304d8fd06e1f91a8b01682f76fea76ce026b9e26a8467ed9cc38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Modernização Administrativa
+- BASE de Dados das Contas Anuais
 - Certidão
 - Certificação Electrónica
 - Código do Registo Comercial
 - Documento Eletrónico
-- Regulamento
-- BASE de Dados das Contas Anuais
 - IES
+- Modernização Administrativa
 - Registo Comercial
+- Regulamento
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:176062:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:491444:por
+  label: "Alterado, a partir de 29.10.2009, o art. 5º da Port 1416-A/2006, de 19-Dez, na redacção do presente diploma, pela\
+    \ PORT.1256/2009.14.10.2009.MJ, DR.IS [199] de 14.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1256-2009-491444
+  date: '2009-10-14'
+- type: amended_by
+  target: pt:dre:176062:por
+  label: "Alterados, a partir de 01.01.2013, nos termos do nº2 do art. 14º e sem prejuízo do disposto no art. 13º, o art.\
+    \ 13º-E e a partir de 01.10.2012, os arts. 13º-I e 13º-J, da Port 1416-A/2006, de 19-dez , aditados pelo presente diploma,\
+    \ pela PORT.286/2012.20.09.2012.MJ, DR.IS [183] de 20.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-2012-176062
+  date: '2012-09-20'
+- type: amended_by
+  target: pt:dre:70686128:por
+  label: Alterados, a partir de 01.11.2015, os arts. 13.º-E e 13.º-J da Port 1416-A/2006 de 19-dez, aditados pelo presente
+    diploma, pelo(a) Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/358-2015-70686128
+  date: '2015-10-14'
+- type: amends
+  target: pt:numero:portaria:657-A/2006
+  label: "Altera o artigo 15.º do Regulamento do Registo Comercial, aprovado pela Portaria n.º 657-A/2006, de 29 de Junho,\
+    \ DR.IS [124], na redacção da Portaria n.º 1416-A/2006, de 19 de Dezembro \0\0"
+  source: null
+  date: '2006-06-29'
+- type: amends
+  target: pt:numero:portaria:1416-A/2006
+  label: "Altera os artigos 1.º, 5.º, 12.º e 14.º, adita os artigos 13.º-A, 13.º-B, 13.º-C, 13.º-D, 13.º-E, 13.º-F, 13.º-G,\
+    \ 13.º-H, 13.º-I e 13.º-J, e cria uma nova secção III e um novo capítulo III na Portaria n.º 1416-A/2006, de 19 de Dezembro,\
+    \ DR.IS [242] \0\0"
+  source: null
+  date: '2006-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/8/2007/01/17/p/dre
   label: null
@@ -94,16 +126,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/657-a/2006/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/657-a/2006/06/29/p/dre
+- type: cites
+  target: pt:dre:235919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522813:por
+  label: null
+  source: null
 article_structure:
-  article_count: 17
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:24Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +184,9 @@ b) ...
 
 c) O cumprimento da obrigação de registo da prestação de contas através do envio, por transmissão electrónica de dados, da informação empresarial simplificada (IES).
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Os pedidos de actos de registo comercial efectuados através do sítio referido no artigo 2.º são anotados pela ordem da hora da respectiva recepção.
 
@@ -148,7 +194,9 @@ c) O cumprimento da obrigação de registo da prestação de contas através do 
 
 3 - Para efeitos do disposto nos números anteriores, a hora de recepção dos pedidos de registo apresentados online tem por referência a hora do meridiano de Greenwich, assinalada nas certidões de registo pela aposição do acrónimo UTC (universal time, coordinated).
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Após o tratamento dos dados indicados e dos documentos entregues pelos interessados e a apreciação do pedido de registo, o serviço competente deve ainda proceder aos seguintes actos:
 
@@ -170,7 +218,9 @@ g) Envio dos documentos à conservatória do registo comercial detentora da past
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 Designa-se por 'certidão permanente' a disponibilização, em suporte electrónico e permanentemente actualizada, da reprodução dos registos em vigor respeitantes a entidade sediada em conservatória informatizada, bem como da menção das apresentações e dos pedidos de registo pendentes, nos termos do n.º 5 do artigo 75.º do Código do Registo Comercial.»
 
@@ -184,7 +234,9 @@ Pedido de registo da prestação de contas
 
 O pedido de registo da prestação de contas é feito por via electrónica, através do envio da IES, nos termos previstos no n.º 1 do artigo 4.º do [Decreto-Lei n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2007-522813), de 17 de Janeiro.
 
-###### Artigo 13.º-B — Pagamento
+Artigo 13.º-B
+
+Pagamento
 
 1 - Após a submissão electrónica da IES, nos termos referidos no artigo anterior, é gerada automaticamente uma referência para pagamento da taxa devida pelo registo da prestação de contas.
 
@@ -194,11 +246,15 @@ O pedido de registo da prestação de contas é feito por via electrónica, atra
 
 4 - O disposto neste artigo não prejudica a disponibilização de outros meios de pagamento.
 
-###### Artigo 13.º-C — Validação do pedido
+Artigo 13.º-C
+
+Validação do pedido
 
 O pedido de registo da prestação de contas só é considerado validamente submetido após a confirmação do pagamento da taxa devida.
 
-###### Artigo 13.º-D — Diligências subsequentes
+Artigo 13.º-D
+
+Diligências subsequentes
 
 1 - Após recepção da informação respeitante ao cumprimento da obrigação de registo da prestação de contas, nos termos do disposto no n.º 1 do artigo 9.º do [Decreto-Lei n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2007-522813), de 17 de Janeiro, são realizados os seguintes actos:
 
@@ -214,13 +270,17 @@ e) Promoção das restantes diligências que venham a ser fixadas por via regula
 
 2 - A informação constante da IES, bem como a relativa às diligências previstas neste artigo, é arquivada electronicamente, não havendo lugar a impressão para efeitos de integração na pasta física da sociedade.
 
-###### Artigo 13.º-E — Taxa
+Artigo 13.º-E
+
+Taxa
 
 1 - Pelo cumprimento da obrigação de registo da prestação de contas é devido o pagamento da taxa única de (euro) 85, que constitui receita da Direcção-Geral dos Registos e do Notariado.
 
 2 - Para fazer face ao encargo com a gestão dos sistemas informáticos necessários à sua disponibilização é deduzido o montante de (euro) 5 à taxa referida no número anterior em cada acto de registo da prestação de contas, que constitui receita do Instituto das Tecnologias de Informação na Justiça.
 
-###### Artigo 13.º-F — Acesso à base de dados das contas anuais
+Artigo 13.º-F
+
+Acesso à base de dados das contas anuais
 
 O acesso à informação constante da base de dados das contas anuais (BDCA) prevista no artigo 10.º do [Decreto-Lei n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2007-522813), de 17 de Janeiro, é feito pelas seguintes vias:
 
@@ -228,7 +288,9 @@ a) Emissão de certidão de contas anuais relativa a entidades individualizadas;
 
 b) Acesso através de formatos especiais.
 
-###### Artigo 13.º-G — Pedido de certidão de contas anuais
+Artigo 13.º-G
+
+Pedido de certidão de contas anuais
 
 1 - O pedido de certidão de contas anuais pode ser feito electronicamente, através do sítio na Internet com o endereço www.empresaonline.pt, mantido pela Direcção-Geral dos Registos e do Notariado, ou outro, bem como em qualquer conservatória com competência para a prática de actos de registo comercial.
 
@@ -242,11 +304,15 @@ a) Disponibilização do código de acesso que permite a visualização da certi
 
 b) Disponibilização da certidão das contas anuais em suporte de papel.
 
-###### Artigo 13.º-H — Identificação do requerente da certidão de contas anuais
+Artigo 13.º-H
+
+Identificação do requerente da certidão de contas anuais
 
 A identificação do requerente da certidão de contas anuais faz-se nos termos previstos no artigo 16.º, excepto nos casos da alínea b) do n.º 4 do artigo anterior.
 
-###### Artigo 13.º-I — Taxa da certidão de contas anuais
+Artigo 13.º-I
+
+Taxa da certidão de contas anuais
 
 1 - Pela assinatura, através dos sítios na Internet referidos no n.º 1 do artigo 13.º-G, do serviço de certidão electrónica de contas anuais, é devido o pagamento das seguintes taxas únicas:
 
@@ -264,7 +330,9 @@ d) (euro) 8 pela assinatura por quatro anos.
 
 4 - As taxas previstas no presente artigo constituem receita da Direcção-Geral dos Registos e do Notariado.
 
-###### Artigo 13.º-J — Pedido de acesso em formatos especiais
+Artigo 13.º-J
+
+Pedido de acesso em formatos especiais
 
 O acesso à informação constante da BDCA noutros formatos distintos dos previstos nos artigos 13.º-G e 13.º-H é efectuado nos termos e condições a definir em protocolo a celebrar entre a Direcção-Geral dos Registos e do Notariado e as entidades que o solicitem.»
 

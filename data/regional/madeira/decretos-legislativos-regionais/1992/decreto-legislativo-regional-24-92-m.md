@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1992/07/168a00/34513454.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/1992/07/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1992-292690
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb1904c77ef6d58dda6402ddbba933af41f36487e2c5456feb6ba0c0457727d2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b473c4b9f5fa16521f10deeb8c477840606520aebf832b861e5d64af4e997c49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Profissional
-- Pessoal Operário
-- Instituto Superior de Artes Plásticas da Madeira
 - Descrição de Funções
+- Instituto Superior de Artes Plásticas da Madeira
+- Madeira.região Autónoma
 - Pessoal Auxiliar
 - Pessoal não Docente
-- Madeira.região Autónoma
+- Pessoal Operário
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -83,16 +83,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:266621:por
+  label: "Revogado o presente diploma e determinada a integração do pessoal não docente e não dirigente do quadro do Instituto\
+    \ Superior de Arte e Design, da Universidade da Madeira, aprovado pelo presente diploma ora revogado no quadro de pessoal\
+    \ do Instituto Superior de Arte e Design, da Universidade da Madeira, aprovado pelo DLR.7/93/M.25.06.1993.ALR-RAM, DR.IS-A\
+    \ [147] de 25.06.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-1993-266621
+  date: '1993-06-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:45Z'
   warnings: []
   errors: []
 ---
@@ -109,23 +125,23 @@ Assim:
 
 A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto no artigo 229.º da Constituição da República e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
 
-###### Artigo 1.º O quadro do pessoal não docente e não dirigente do Instituto Superior de Artes Plásticas da Madeira passa a ser o constante do anexo I a este diploma.
+Artigo 1.º O quadro do pessoal não docente e não dirigente do Instituto Superior de Artes Plásticas da Madeira passa a ser o constante do anexo I a este diploma.
 
-###### Art. 2.º - 1 - Os serviços administrativos deste Instituto serão dirigidos por um chefe de serviços de administração escolar.
+Art. 2.º - 1 - Os serviços administrativos deste Instituto serão dirigidos por um chefe de serviços de administração escolar.
 
 2 - O provimento na categoria referida no número anterior será feito por concurso documental de entre oficiais administrativos principais com cinco ou mais anos de serviço na categoria e após frequência com aproveitamento de um curso de formação.
 
 3 - Enquanto não for possível aplicar o disposto no número anterior, poderão candidatar-se ao concurso para chefe de serviços de administração escolar oficiais administrativos principais com mais de cinco anos de serviço contados a partir da data de provimento como primeiro-oficial.
 
-###### Art. 3.º - 1 - É criada a carreira de técnico auxiliar de laboratório que se desenvolve pelas categorias de especialista, principal, 1.ª classe e 2.ª classe.
+Art. 3.º - 1 - É criada a carreira de técnico auxiliar de laboratório que se desenvolve pelas categorias de especialista, principal, 1.ª classe e 2.ª classe.
 
 2 - O lugar de técnico auxiliar de laboratório será provido de acordo com as regras de ingresso e progressão na carreira técnico-profissional, nível 3.
 
 3 - Nos termos do n.º 5 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, a área de recrutamento de técnico auxiliar de 2.ª classe poderá ser alargada a operários qualificados com a categoria de principal.
 
-###### Art. 4.º As carreiras de oficial administrativo, marceneiro, fotocopista, auxiliar técnico (BAD), auxiliar de manutenção e auxiliar de acção educativa desenvolvem-se de acordo com a lei geral em vigor para a respectiva carreira.
+Art. 4.º As carreiras de oficial administrativo, marceneiro, fotocopista, auxiliar técnico (BAD), auxiliar de manutenção e auxiliar de acção educativa desenvolvem-se de acordo com a lei geral em vigor para a respectiva carreira.
 
-###### Art. 5.º - 1 - A descrição dos conteúdos funcionais das carreiras de chefe de serviços de administração escolar, oficial administrativo, técnico auxiliar de laboratório, marceneiro, fotocopista, auxiliar técnico (BAD) e auxiliar de acção educativa constam do anexo II a este diploma.
+Art. 5.º - 1 - A descrição dos conteúdos funcionais das carreiras de chefe de serviços de administração escolar, oficial administrativo, técnico auxiliar de laboratório, marceneiro, fotocopista, auxiliar técnico (BAD) e auxiliar de acção educativa constam do anexo II a este diploma.
 
 2 - A descrição do conteúdo funcional das carreiras e categorias destina-se a caracterizar as respectivas funções, não prejudicando que sejam atribuídas aos funcionários tarefas de idêntica complexidade e responsabilidade não expressamente mencionadas.
 
@@ -133,17 +149,17 @@ A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto no artigo 22
 
 Aprovado em sessão plenária de 27 de Maio de 1992.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 23 de Junho de 1992.**
+Assinado em 23 de Junho de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
 
 ## ANEXO I — (a que se refere o artigo 1.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/07/168a00/34513454.pdf))](https://files.diariodarepublica.pt/1s/1992/07/168a00/34513454.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/168a00/34513454.pdf)
 
 ## ANEXO II — (a que se refere n.º 1 do artigo 5.º do presente diploma)
 

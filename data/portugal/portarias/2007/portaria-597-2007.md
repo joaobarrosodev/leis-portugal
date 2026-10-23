@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/597/2007/05/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/597-2007-520791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94dfcecf180fa4e27c415cd6af1bc75be0a8be7945fac39ee9b0bfcde7a84359
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e64fe642784aa0385a09874b3c5977cac1b095b62215e81082767ff11f1e269e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:343129:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:449944:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça concessionada pela Port 1255/97 de 19-Dez, alterada\
+    \ pelo presente diploma, pela PORT.493/2008.23.06.2008.MADRP, DR.IS [119] de 23.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/493-2008-449944
+  date: '2008-06-23'
+- type: amended_by
+  target: pt:dre:343129:por
+  label: "Desanexados vários prédios rústicos da zona de caça associativa concessionada pela Port. 1255/97, de 19-Dez, na\
+    \ redacção da presente portaria, pela PORT.664/2010.11.08.2010.MADRP, DR.IS [155] de 11.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-2010-343129
+  date: '2010-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1107/2002/08/24/p/dre
   label: null
@@ -82,16 +94,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/94/2006/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/94/2006/08/04/p/dre
+- type: cites
+  target: pt:dre:173081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538657:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:40Z'
   warnings: []
   errors: []
 ---
@@ -110,6 +130,6 @@ Com fundamento na alínea h) do artigo 13.º do Regulamento do Plano de Ordename
 
 Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que sejam excluídos da presente zona vários prédios rústicos, com a área de 15 ha, sitos na freguesia de Corval, município de Reguengos de Monsaraz, ficando a mesma com a área total de 1198 ha, conforme planta em anexo ao presente diploma e que dele faz parte integrante.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Abril de 2007.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 27 de Abril de 2007.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/05/09600/33683369.pdf))](https://files.diariodarepublica.pt/1s/2007/05/09600/33683369.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/09600/33683369.pdf)

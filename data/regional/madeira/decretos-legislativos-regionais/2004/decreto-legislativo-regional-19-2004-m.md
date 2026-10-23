@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/19/2004/08/02/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2004-514672
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcb5f1ec4dc4dda02034529bbbd6c932c983f16de9a5990610689e6afa8998a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed86152c4d0f0697f2c039470f40ca839e5bd6757d2b009a83e34f97ecd78a10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Localização de Empresas
-- Multa
 - Contra-ordenação
 - Definição de Competências
 - Direcção Regional do Comércio Indústria e Energia
 - Licenciamento
-- Parque Industrial
+- Localização de Empresas
 - Madeira Parques Empresariais
-- Serviço Público
 - Madeira.região Autónoma
+- Multa
+- Parque Industrial
 - Regulamento
+- Serviço Público
 - Taxa
 relationships:
 - type: amended_by
   target: pt:dre:671467:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:671467:por
+  label: "Alterado o art. 26º do Regulamento de Licenciamento de Parques Empresariais na Região Autónoma da Madeira, aprovado\
+    \ pelo presente diploma, pelo DLR.17/2011/M.11.08.2011.AL-RAM, DR.IS [154] de 11.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2011-671467
+  date: '2011-08-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/12/2002/07/17/m/dre
   label: null
@@ -99,16 +105,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:205670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517192:por
+  label: null
+  source: null
 article_structure:
   article_count: 76
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:23Z'
   warnings: []
   errors: []
 ---
@@ -143,13 +165,13 @@ O presente diploma entra em vigor 30 dias após a sua publicação.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 22 de Junho de 2004.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 12 de Julho de 2004.**
+Assinado em 12 de Julho de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
 ## ANEXO — REGULAMENTO DE LICENCIAMENTO DE PARQUES EMPRESARIAIS NA REGIÃO AUTÓNOMA DA MADEIRA
 

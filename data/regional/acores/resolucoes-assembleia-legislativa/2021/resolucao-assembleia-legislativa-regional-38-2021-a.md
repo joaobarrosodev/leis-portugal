@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2021/07/13300/0005700058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resolalraa/38/2021/07/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/38-2021-166981188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T15:36:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16a193778f2d94cdf5fc4a72a772823143cb16e34d7f316d10fe2dddf8dff558
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bace11743dbd574822f63b5788d861dfe92e017a306fdcdfbed13c877288007d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:36:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aquisição de Bens e Serviços
 - Autorização de Despesas
-- Governo Regional
 - Despesas Públicas
-- Veículo
+- Governo Regional
 - Recomendação
-- Açores
+- Veículo
 - Vigilante da Natureza
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:36:15Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +110,7 @@ Estes profissionais personificam as autênticas sentinelas do equilíbrio natura
 
 A sua função, no entanto, estende-se para lá da fiscalização do cumprimento das regras e limites dos planos de ordenamento. Os vigilantes da natureza desempenham funções de sensibilização e literacia junto da população, vigilância das atividades humanas com impacto na preservação da natureza, fiscalização do cumprimento da legislação vigente e monitorização sobre o estado do património natural e evolução de espécies protegidas. Têm a nobre função de promover uma relação mais próxima e sinergética entre as populações e a própria natureza, trazendo-a para o palco principal na tarefa, que compete ao ser humano, da sua conservação.
 
-# Parte das funções dos vigilantes são desempenhadas em ambientes hostis e isolados, com graves problemas de acessibilidade, em virtude das características e relevo acidentado típico das ilhas do arquipélago, não se podendo, dessa forma, ignorar que as condições climatéricas arquipelágicas, predominantemente adversas, exponenciam os fatores de risco e de perigo inerentes à execução do exercício de funções em ambientes adversos.
+Parte das funções dos vigilantes são desempenhadas em ambientes hostis e isolados, com graves problemas de acessibilidade, em virtude das características e relevo acidentado típico das ilhas do arquipélago, não se podendo, dessa forma, ignorar que as condições climatéricas arquipelágicas, predominantemente adversas, exponenciam os fatores de risco e de perigo inerentes à execução do exercício de funções em ambientes adversos.
 
 Ora, em virtude do descrito, considera-se determinante capacitar os vigilantes da natureza de recursos adequados que garantam não só a valorização da profissão mas também e essencialmente o seu correto e adequado desempenho, em condições que lhes possam asseverar confiança na execução das funções da respetiva profissão na sua plenitude.
 
@@ -122,4 +122,6 @@ Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos te
 
 Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de junho de 2021.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
+
+114379594

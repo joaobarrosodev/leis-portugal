@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1996/03/062b00/05050505.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/16/1996/03/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1996-532175
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c30a7e7b563d0cc7c74bc67c1d6ae86e2182aa7c0942e3e7d8d7435aec2e642
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95061c21871102d860182ba81eb4f06ab1fc274ab9a0a1477f4ae3101dc6a151
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Escola de Educação Especial
 - Ponta Delgada
 - Quadro de Pessoal
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:639913:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405363:por
+  label: "Substituídos os quadros de pessoal das Escolas de Educação Especial de Ponta Delgada e de Angra do Heroísmo, aprovados\
+    \ pelo Decreto Regulamentar Regional n.º 5/93/A, de 4 de Março, DR.IS-B [53], na redacção do presente diploma, pelo DRR.35/96/A.13.08.1996.SREC-RAA,\
+    \ DR.IS-B [187] de 13.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/35-1996-405363
+  date: '1996-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/3/1995/02/13/a/dre
   label: null
@@ -82,16 +89,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/5/1993/03/04/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/5/1993/03/04/a/dre
+- type: cites
+  target: pt:dre:197914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626433:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:639913:por
+  label: "Revogado pelo DRR.15/99/A.1999.10.27.PG-RAA, DR.IS-B [279] de 30/Nov/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-1999-639913
+  date: '1999-10-27'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:33Z'
   warnings: []
   errors: []
 ---
@@ -110,14 +134,14 @@ O quadro de pessoal da Escola de Educação Especial de Ponta Delgada, a que se 
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 19 de Janeiro de 1996.
 
-**O Presidente do Governo Regional, Alberto Romão Madruga da Costa.**
+O Presidente do Governo Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 15 de Fevereiro de 1996.**
+Assinado em Angra do Heroísmo em 15 de Fevereiro de 1996.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Escola de Educação Especial de Ponta Delgada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1996/03/062b00/05050505.pdf))](https://files.diariodarepublica.pt/1s/1996/03/062b00/05050505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1996/03/062b00/05050505.pdf)

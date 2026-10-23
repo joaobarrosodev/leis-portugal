@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27
   number: '98'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1746-(6) a 1746-(25)
   pdf_url: https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/10-a/2000/04/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ce4f222bad2e8d1adb15c4fdf7d6505ee570b72792bc826c3ec094e62544225
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48404c197c43ff372bd8ff7603c2579b655bfb93c10c9833ce80053ae938aeb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Assembleia Legislativa Regional
-- Pessoal Dirigente
 - Definição de Competências
 - Execução do Orçamento
-- Orgânica
 - Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
 - Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:66325239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:654702:por
+  label: "Alterado o quadro de pessoal, aprovado pelo art. 31º, pela RES.15/2003/M.2003.07.23.ALR-RAM, DR.IS-B [191] de 20/Ago/2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-legislativa-regional/15-2003-654702
+  date: '2003-07-23'
+- type: amended_by
+  target: pt:dre:241858:por
+  label: "Alterada a alínea h) do artigo 21.º, a alínea e) do artigo 22.º-B, os artigos 23.º, 36.º-B e 54.º, eliminado o artigo\
+    \ 36.º-C, renumerada e alterada a redacção dos artigos 36.º-D, 36.º-E, 36.º-F e 36.º-G, passando a 36.º-C, 36.º-D, 36.º-E\
+    \ e 36.º-F, o artigo 36.º-J e 36.º-K e respectivo título, o artigo 47.º do Decreto Legislativo Regional n.º 24/89/M, de\
+    \ 7 de Setembro, na redacção do presente diploma, e determinado que onde se lê «Assembleia Legislativa Regional» passe\
+    \ a vigorar «Assembleia Legislativa» e republicado o novo texto, pelo DLR.14/2005/M.18.07.2005.AL-RAM, DR.IS-A [150] de\
+    \ 05.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/14-2005-241858
+  date: '2005-07-18'
+- type: amended_by
+  target: pt:dre:175275:por
+  label: "Alterados os arts. 9º, 12º-B, 14º, 20º, 21º, 22º, 23º, 24º, 27º, 28º, 32º, 34º, 36º, 36º-A, 40º, 57º, 58º, 59º,\
+    \ a subsecção II da secção II e as subsecções IV e V da secção III do capítulo V do DLR 27/89/M, de 07-set, na redação\
+    \ do presente diploma, pelo DLR.16/2012/M.13.08.2012.AL-RAM, DR.IS [156] de 13.08.2012\0.2012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2012-175275
+  date: '2012-08-13'
+- type: amended_by
+  target: pt:dre:66325239:por
+  label: Alterado o art. 47.º do DLR 24/89/M de 07-set, na redação do presente diploma, pelo(a) Decreto Legislativo Regional
+    n.º 2/2015/M - Diário da República n.º 17/2015, Série I de 2015-01-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2015-66325239
+  date: '2015-01-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
   label: null
@@ -109,16 +138,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/244/1997/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/244/1997/04/11/p/dre
+- type: cites
+  target: pt:dre:157622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547059:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656824:por
+  label: null
+  source: null
 article_structure:
-  article_count: 60
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 18
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:46Z'
   warnings: []
   errors: []
 ---
@@ -177,13 +242,17 @@ Gabinete do Presidente
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 12.º — Apoio aos Vice-Presidentes da Assembleia Legislativa Regional
+Artigo 12.º
+
+Apoio aos Vice-Presidentes da Assembleia Legislativa Regional
 
 1 - Os Vice-Presidentes da Assembleia Legislativa Regional podem ser apoiados por um adjunto ou secretário pessoal e um motorista de sua livre escolha, nomeação e exoneração, que serão portadores de um cartão de identidade, conforme anexo II do presente diploma.
 
 2 - ...
 
-###### Artigo 12.º-B — Atribuições
+Artigo 12.º-B
+
+Atribuições
 
 São atribuições do Conselho Consultivo pronunciar-se sobre:
 
@@ -197,7 +266,9 @@ d) Actos de administração relativos ao património da Assembleia, incluindo a 
 
 e) [Anterior alínea f).]
 
-###### Artigo 14.º — Atribuições
+Artigo 14.º
+
+Atribuições
 
 São atribuições do Conselho de Administração:
 
@@ -215,7 +286,9 @@ f) [Anterior alínea d).]
 
 g) Pronunciar-se sobre os regulamentos necessários à organização interna e ao funcionamento dos serviços.
 
-###### Artigo 16.º — Cessação de funções
+Artigo 16.º
+
+Cessação de funções
 
 No termo da legislatura ou em caso de dissolução da Assembleia Legislativa Regional os membros do Conselho de Administração mantêm-se em funções até à nomeação do novo Conselho de Administração.»
 
@@ -275,7 +348,9 @@ k) [Anterior alínea h).]
 
 Gabinete Técnico de Assessoria e Estudos
 
-###### Artigo 22.º — Âmbito funcional
+Artigo 22.º
+
+Âmbito funcional
 
 1 - O Gabinete Técnico de Assessoria e Estudos é um departamento de apoio técnico e de assessoria na dependência do Gabinete do Presidente da Assembleia Legislativa Regional.
 
@@ -387,9 +462,13 @@ j) Proceder ao levantamento das necessidades de formação do pessoal afecto ao 
 
 Organização dos serviços
 
-##### SUBSECÇÃO I — Estrutura orgânica
+SUBSECÇÃO I
 
-###### Artigo 23.º — Unidades orgânicas
+Estrutura orgânica
+
+Artigo 23.º
+
+Unidades orgânicas
 
 Os serviços da Assembleia Legislativa Regional compreendem:
 
@@ -399,9 +478,13 @@ b) Gabinete de Informática;
 
 c) Departamento Financeiro.
 
-##### SUBSECÇÃO II — Direcção de Serviços
+SUBSECÇÃO II
 
-###### Artigo 24.º — Atribuições
+Direcção de Serviços
+
+Artigo 24.º
+
+Atribuições
 
 1 - A Direcção de Serviços é a unidade orgânica especialmente encarregada de superintender, orientar e coordenar os serviços da respectiva Direcção, bem como velar pela assiduidade e disciplina do pessoal que lhe está afecto.
 
@@ -477,13 +560,19 @@ f) Coordenar a gestão do parque automóvel.
 
 9 - Os Serviços Gerais serão coordenados por um chefe de serviços gerais, sendo-lhe atribuída a remuneração correspondente ao índice 270.
 
-##### SUBSECÇÃO III — Gabinete de Informática
+SUBSECÇÃO III
 
-###### Artigo 25.º — Atribuições
+Gabinete de Informática
+
+Artigo 25.º
+
+Atribuições
 
 O Gabinete de Informática tem como atribuições os domínios dos sistemas e tecnologias de informação.
 
-###### Artigo 26.º — Competências
+Artigo 26.º
+
+Competências
 
 1 - Compete ao Gabinete de Informática:
 
@@ -499,13 +588,19 @@ e) Estudar e promover a implementação de uma arquitectura de informação glob
 
 2 - O Gabinete de Informática é dirigido por um director equiparado a director de serviços.
 
-##### SUBSECÇÃO IV — Departamento Financeiro
+SUBSECÇÃO IV
 
-###### Artigo 27.º — Atribuições
+Departamento Financeiro
+
+Artigo 27.º
+
+Atribuições
 
 O Departamento Financeiro é a unidade orgânica encarregada de executar as orientações que lhe forem determinadas pelo Secretário-Geral em matéria de gestão orçamental e patrimonial.
 
-###### Artigo 28.º — Competência
+Artigo 28.º
+
+Competência
 
 Compete ao Departamento Financeiro:
 
@@ -523,15 +618,23 @@ f) Elaborar o inventário geral dos bens, mantendo-o actualizado;
 
 g) Velar pelo cumprimento de serviços relativos à conservação do património.
 
-###### Artigo 29.º — Depósito legal
+Artigo 29.º
+
+Depósito legal
 
 Todos os serviços e organismos da administração regional e local, os institutos públicos, empresas públicas e organizações cooperativas ficam obrigados a enviar à Divisão de Documentação da Assembleia Legislativa Regional, sob o regime de depósito legal, um exemplar de todas as publicações oficiais e oficiosas que não sejam de mera circulação interna dos serviços.
 
-### CAPÍTULO VI — Pessoal dos serviços da Assembleia Legislativa Regional
+CAPÍTULO VI
 
-#### SECÇÃO I — Disposições gerais
+Pessoal dos serviços da Assembleia Legislativa Regional
 
-###### Artigo 30.º — Estatuto do pessoal parlamentar
+SECÇÃO I
+
+Disposições gerais
+
+Artigo 30.º
+
+Estatuto do pessoal parlamentar
 
 1 - O pessoal da Assembleia Legislativa Regional rege-se por estatuto próprio, nos termos do presente decreto legislativo regional e das resoluções e dos regulamentos da Assembleia Legislativa Regional.
 
@@ -539,13 +642,17 @@ Todos os serviços e organismos da administração regional e local, os institut
 
 3 - O pessoal referido no n.º 1 é portador de um cartão de identidade, conforme o anexo III do presente diploma.
 
-###### Artigo 31.º — Quadro de pessoal
+Artigo 31.º
+
+Quadro de pessoal
 
 1 - A Assembleia Legislativa Regional dispõe do pessoal constante do quadro anexo I do presente diploma, do qual faz parte integrante.
 
 2 - O quadro do pessoal da Assembleia Legislativa Regional pode ser alterado por resolução da Assembleia mediante proposta no Conselho de Administração.
 
-###### Artigo 32.º — Carreiras
+Artigo 32.º
+
+Carreiras
 
 1 - As carreiras do pessoal da Assembleia Legislativa Regional são carreiras de regime especial.
 
@@ -569,7 +676,9 @@ f) Possuir a robustez física e o perfil psíquico indispensáveis ao exercício
 
 5 - São requisitos de ingresso nas carreiras dos grupos de pessoal técnico superior e técnico, bem como nas do grupo de pessoal de informática, a aprovação em estágio com classificação não inferior a Bom (14 valores).
 
-###### Artigo 33.º — Recrutamento, selecção e provimento de lugares
+Artigo 33.º
+
+Recrutamento, selecção e provimento de lugares
 
 1 - O recrutamento e selecção de pessoal não dirigente da Assembleia Legislativa Regional é feito mediante concurso público.
 
@@ -577,7 +686,9 @@ f) Possuir a robustez física e o perfil psíquico indispensáveis ao exercício
 
 3 - O provimento de lugares de pessoal não dirigente é feito por despacho do Secretário-Geral, obtido o parecer favorável do Conselho de Administração.
 
-###### Artigo 34.º — Regime dos estágios
+Artigo 34.º
+
+Regime dos estágios
 
 1 - O estágio para ingresso nas carreiras previstas no n.º 5 do artigo 32.º obedece às seguintes regras:
 
@@ -609,7 +720,9 @@ d) Em matéria de constituição, composição, funcionamento e competência do 
 
 4 - Os contratos e as comissões de serviço dos estagiários aprovados no estágio para as quais existam vagas consideram-se automaticamente prorrogados até à data da posse na categoria de ingresso, não podendo, contudo, a prorrogação ultrapassar seis meses.
 
-###### Artigo 35.º — Carreira técnica superior parlamentar
+Artigo 35.º
+
+Carreira técnica superior parlamentar
 
 1 - A carreira técnica superior parlamentar integra as seguintes áreas de especialização:
 
@@ -661,7 +774,9 @@ g) Relações internacionais - licenciatura em Relações Internacionais.
 
 8 - A apresentação, pelos candidatos aos concursos, de outras licenciaturas reconhecidas pelo Estado Português cujos currículos integrem a área funcional objecto do processo de selecção pode ser admitida pelos júris dos concursos, que, para o efeito, lavrarão em acta os fundamentos de facto e de direito da sua deliberação.
 
-###### Artigo 36.º — Carreira técnica superior de informática parlamentar
+Artigo 36.º
+
+Carreira técnica superior de informática parlamentar
 
 1 - O ingresso na carreira técnica superior de informática parlamentar faz-se na categoria de técnico superior de informática parlamentar de 2.ª classe, de entre indivíduos habilitados com o grau de licenciatura em Engenharia Informática e de Computadores ou Engenharia Electrónica e de Computação ou Matemáticas Aplicadas e Computadores.
 
@@ -709,7 +824,9 @@ b) Técnico parlamentar principal e técnico parlamentar de 1.ª classe de entre
 
 6 - Enquanto se mantiver a carreira de redactor, constante do anexo I do presente diploma, o acesso à categoria de redactor especialista principal faz-se de entre redactores especialistas com, pelo menos, três anos na respectiva categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
-###### Artigo 36.º-B — Carreira de programador parlamentar
+Artigo 36.º-B
+
+Carreira de programador parlamentar
 
 1 - O ingresso na carreira de programador parlamentar faz-se de entre indivíduos habilitados com curso superior nos domínios específicos de informática, ciências de computação e afins, aprovados em estágio, nos termos do artigo 34.º deste diploma.
 
@@ -723,7 +840,9 @@ b) Programador parlamentar principal, de entre programadores parlamentares com c
 
 4 - A área de recrutamento da categoria de programador parlamentar é alargada aos operadores parlamentares de sistema-chefe ou operadores parlamentares de sistema principais com, pelo menos, dois anos nesta categoria classificados de Muito bom ou três anos classificados de Bom e formação complementar em informática, nos termos da legislação em vigor, ambos aprovados em estágio com classificação não inferior a Bom (14 valores).
 
-###### Artigo 36.º-C — Carreira de operador parlamentar de sistema
+Artigo 36.º-C
+
+Carreira de operador parlamentar de sistema
 
 1 - O ingresso na carreira de operador parlamentar de sistema faz-se na categoria de operador parlamentar de sistema de 2.ª classe, de entre indivíduos habilitados com o 12.º ano, via profissionalizante, da área de Informática, ou com nove anos de escolaridade e curso de formação técnico-profissional na área de Informática, de duração não inferior a três anos, aprovados em estágio, nos termos do artigo 34.º deste diploma.
 
@@ -739,7 +858,9 @@ c) Operadores parlamentares de sistema de 1.ª classe de entre operadores parlam
 
 4 - O número de lugares de operador parlamentar de sistema-chefe não pode exceder um quarto do número total de lugares da carreira de operador parlamentar de sistema.
 
-###### Artigo 36.º-D — Carreira de adjunto parlamentar
+Artigo 36.º-D
+
+Carreira de adjunto parlamentar
 
 1 - A carreira de adjunto parlamentar integra as seguintes áreas de especialidade:
 
@@ -769,7 +890,9 @@ b) Adjunto parlamentar principal e adjunto parlamentar de 1.ª classe, de entre,
 
 4 - São ainda requisitos especiais de ingresso na carreira de adjunto parlamentar o domínio do sistema operativo de utilizador e bons conhecimentos em programas de processamento de textos e outros, designadamente folhas de cálculo e base de dados, dependendo da área de especialidade e a detenção de bons conhecimentos da língua inglesa.
 
-###### Artigo 36.º-E — Pessoal de chefia
+Artigo 36.º-E
+
+Pessoal de chefia
 
 1 - O recrutamento para o cargo, de coordenador parlamentar é feito por concurso, de entre adjuntos parlamentares especialistas principais das áreas de especialidade dos lugares a prover com classificação de Muito bom ou de entre candidatos habilitados, no mínimo, com o 12.º ano de escolaridade e curso de formação profissional adequado ou equivalente ou cinco anos de experiência profissional nas áreas de actividade dos cargos a prover.
 
@@ -781,7 +904,9 @@ b) Adjunto parlamentar principal e adjunto parlamentar de 1.ª classe, de entre,
 
 5 - A progressão nas categorias de coordenador parlamentar e de chefe de secção faz-se segundo módulos de três anos.
 
-###### Artigo 36.º-F — Carreira de administrativo parlamentar
+Artigo 36.º-F
+
+Carreira de administrativo parlamentar
 
 1 - O ingresso na carreira de administrativo parlamentar faz-se na categoria de administrativo parlamentar, de entre indivíduos habilitados com o 11.º ano de escolaridade ou equivalente.
 
@@ -793,19 +918,25 @@ a) Administrativo parlamentar especialista, de entre administrativos parlamentar
 
 b) Administrativo parlamentar principal, de entre administrativos parlamentares com, pelo menos, três anos na categoria e classificação de serviço não inferior a Bom.
 
-###### Artigo 36.º-G — Carreira de tesoureiro
+Artigo 36.º-G
+
+Carreira de tesoureiro
 
 1 - O recrutamento para a carreira de tesoureiro faz-se de entre administrativos parlamentares especialistas com classificação de serviço não inferior a Bom, bem como de entre administrativos parlamentares principais com, pelo menos, três anos de serviço na categoria e com classificação de serviço não inferior a Bom.
 
 2 - A progressão faz-se segundo módulos de três anos.
 
-###### Artigo 36.º-H — Encarregado de pessoal auxiliar parlamentar
+Artigo 36.º-H
+
+Encarregado de pessoal auxiliar parlamentar
 
 1 - O recrutamento para a categoria de encarregado de pessoal auxiliar parlamentar faz-se de entre auxiliares parlamentares posicionados no escalão 4 ou superior, precedido de concurso de avaliação curricular.
 
 2 - A progressão faz-se segundo módulos de três anos.
 
-###### Artigo 36.º-I — Carreira de auxiliar parlamentar
+Artigo 36.º-I
+
+Carreira de auxiliar parlamentar
 
 1 - O ingresso na carreira de auxiliar parlamentar faz-se de acordo com as seguintes regras:
 
@@ -817,7 +948,9 @@ c) Auxiliar de manutenção, de entre indivíduos habilitados com a escolaridade
 
 2 - A progressão faz-se segundo módulos de quatro anos.
 
-###### Artigo 36.º-J — Encarregado de bar
+Artigo 36.º-J
+
+Encarregado de bar
 
 1 - O recrutamento para a categoria de encarregado de bar faz-se de entre auxiliares de bar principais com, pelo menos, três anos de serviço na categoria e classificação de serviço não inferior a Bom, precedido de concurso.
 
@@ -825,13 +958,17 @@ c) Auxiliar de manutenção, de entre indivíduos habilitados com a escolaridade
 
 3 - A progressão faz-se segundo módulo de três anos.
 
-###### Artigo 36.º-K — Auxiliar de bar
+Artigo 36.º-K
+
+Auxiliar de bar
 
 1 - O ingresso na carreira de auxiliar de bar faz-se de entre indivíduos habilitados, no mínimo, com o 9.º ano de escolaridade e comprovada formação ou experiência profissional para o exercício do cargo, de duração não inferior a um ano, precedido de concurso de prestação de provas públicas e de entrevista profissional de selecção.
 
 2 - O acesso à categoria de auxiliar de bar principal faz-se de entre auxiliares de bar com, pelo menos, seis anos na categoria e classificação de serviço não inferior a Bom, precedido de concurso de avaliação curricular.
 
-###### Artigo 36.º-L — Carreira de jardineiro
+Artigo 36.º-L
+
+Carreira de jardineiro
 
 1 - O ingresso na carreira de jardineiro faz-se de entre indivíduos habilitados com a escolaridade obrigatória e de comprovada formação ou experiência profissional de duração não inferior a um ano, precedido de concurso de prestação de provas públicas e de entrevista profissional de selecção.
 
@@ -861,9 +998,13 @@ sendo Rb a remuneração base, paga mensalmente.
 
 6 - (Anterior n.º 3.)
 
-#### SECÇÃO II — Pessoal dirigente
+SECÇÃO II
 
-###### Artigo 40.º — Recrutamento
+Pessoal dirigente
+
+Artigo 40.º
+
+Recrutamento
 
 1 - O recrutamento para o cargo de director de serviços ou equiparado e de chefe de divisão é feito, por concurso, de entre funcionários que reúnam cumulativamente os seguintes requisitos:
 
@@ -887,7 +1028,9 @@ c) Seis ou quatro anos de experiência profissional em cargos inseridos em carre
 
 8 - Aplicam-se aos concursos dos cargos a que se refere este artigo as disposições constantes do Estatuto do Pessoal Dirigente, nomeadamente no que concerne à validade do concurso, publicitação, candidaturas, sistemas de classificação, lista de classificação final e nomeação.
 
-###### Artigo 41.º — Provimento
+Artigo 41.º
+
+Provimento
 
 1 - O pessoal dirigente é provido em comissão de serviço por um período de três anos, que poderá ser renovado por iguais períodos.
 
@@ -903,7 +1046,9 @@ c) Seis ou quatro anos de experiência profissional em cargos inseridos em carre
 
 7 - O provimento do pessoal dirigente entende-se sempre feito por urgente conveniência de serviço, salvo se o contrário for expressamente declarado no despacho de nomeação.
 
-###### Artigo 42.º — Remunerações
+Artigo 42.º
+
+Remunerações
 
 1 - As remunerações do director de serviços ou equiparado e do chefe de divisão são as estabelecidas na lei.
 
@@ -945,9 +1090,13 @@ f) ...
 
 Regime financeiro
 
-#### SECÇÃO I — Orçamento
+SECÇÃO I
 
-###### Artigo 49.º — Elaboração do orçamento
+Orçamento
+
+Artigo 49.º
+
+Elaboração do orçamento
 
 1 - O projecto do orçamento é elaborado pelo Departamento Financeiro até ao dia 31 de Outubro do ano anterior àquele a que respeita, sob a coordenação do Secretário-Geral da Assembleia Legislativa Regional, de acordo com as orientações e objectivos previamente fixados pelo Conselho de Administração.
 
@@ -957,7 +1106,9 @@ Regime financeiro
 
 4 - O orçamento é publicado no Diário da Assembleia Legislativa Regional, no Diário da República e no Jornal Oficial da Região Autónoma da Madeira.
 
-###### Artigo 50.º — Alterações orçamentais
+Artigo 50.º
+
+Alterações orçamentais
 
 1 - As alterações do orçamento da Assembleia Legislativa Regional desde que envolvam aumento da despesa são realizadas através de resolução da Assembleia Legislativa Regional, as quais serão elaboradas nos termos e com as devidas adaptações no artigo anterior.
 
@@ -967,7 +1118,9 @@ Regime financeiro
 
 4 - As alterações orçamentais produzem efeitos desde que autorizadas pelas entidades competentes, sendo publicadas no Jornal Oficial da Região.
 
-###### Artigo 51.º — Receitas
+Artigo 51.º
+
+Receitas
 
 1 - Constituem receitas da Assembleia:
 
@@ -983,7 +1136,9 @@ e) ...
 
 2 - Os saldos positivos apurados no fim de cada ano económico são transferidos para a gerência do ano seguinte e distribuídos pelo Conselho de Administração pelas rubricas cujo reforço se mostre necessário nos termos do n.º 2 do artigo anterior.
 
-###### Artigo 53.º — Autorização de despesas
+Artigo 53.º
+
+Autorização de despesas
 
 1 - São competentes para autorizar a realização de despesas:
 
@@ -1011,7 +1166,9 @@ b) Até ao limite fixado para os Secretários Regionais do Governo da Região Au
 
 Execução orçamental
 
-###### Artigo 53.º-A — Execução
+Artigo 53.º-A
+
+Execução
 
 A execução do orçamento da Assembleia Legislativa Regional é feita através dos serviços, nos termos previstos neste diploma.»
 
@@ -1023,17 +1180,23 @@ Os artigos 54.º, 55.º, 56.º e 57.º do [Decreto Legislativo Regional n.º 24/
 
 Requisição de fundos
 
-**O Secretário-Geral da Assembleia Legislativa Regional pode requisitar mensalmente, ao departamento competente do Governo Regional, as importâncias que forem necessárias por conta da dotação global que lhe é consignada no Orçamento da Região.**
+O Secretário-Geral da Assembleia Legislativa Regional pode requisitar mensalmente, ao departamento competente do Governo Regional, as importâncias que forem necessárias por conta da dotação global que lhe é consignada no Orçamento da Região.
 
-###### Artigo 55.º — Regime duodecimal
+Artigo 55.º
+
+Regime duodecimal
 
 Compete ao Presidente da Assembleia Legislativa Regional, mediante proposta do Conselho de Administração, autorizar a dispensa do regime duodecimal de qualquer das dotações orçamentais da Assembleia, bem como a antecipação, total ou parcial, dos respectivos duodécimos.
 
-###### Artigo 56.º — Fundo de maneio
+Artigo 56.º
+
+Fundo de maneio
 
 O Conselho de Administração pode autorizar a constituição de fundos de maneio, a cargo dos responsáveis pelos serviços ou actividades, destinados ao pagamento directo de pequenas despesas, devendo fixar as regras a que obedece o seu controlo.
 
-###### Artigo 57.º — Conta
+Artigo 57.º
+
+Conta
 
 1 - O relatório e a conta são organizados pelos serviços competentes, sob a directa coordenação do Secretário-Geral da Assembleia Legislativa Regional, que os submeterá até ao dia 31 de Março do ano seguinte àquele a que disserem respeito ao Conselho de Administração.
 
@@ -1095,7 +1258,9 @@ q) O jardineiro principal para idêntica categoria e escalão da carreira de ope
 
 2 - Ao pessoal referido nas alíneas a), d), g), j), l), m), p) e q) do número anterior é relevado, para efeitos de progressão, o tempo já prestado no escalão que detêm e, para efeitos de promoção, o tempo prestado na categoria com a anterior classificação desde que, por motivo da transição, não resulte um impulso salarial igual ou superior a 10 pontos.
 
-###### Artigo 59.º — Integração de pessoal
+Artigo 59.º
+
+Integração de pessoal
 
 1 - O pessoal que à data de entrada em vigor do presente diploma se encontre a prestar serviço na Assembleia Legislativa Regional em regime de requisição, comissão de serviço ou destacamento pode ser integrado no quadro anexo a este diploma, de acordo com as seguintes regras:
 
@@ -1119,25 +1284,29 @@ O presente decreto legislativo regional entra em vigor no dia seguinte ao da sua
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 29 de Março de 2000.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 26 de Abril de 2000.**
+Assinado em 26 de Abril de 2000.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
 
-## ANEXO I — Anexo a que se refere o artigo 15.º, n.º 2
+## ANEXO I
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)
+## Anexo a que se refere o artigo 15.º, n.º 2
 
-## ANEXO IV — Anexo a que se refere o artigo 15.º, n.º 2
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)
+## ANEXO IV
+
+## Anexo a que se refere o artigo 15.º, n.º 2
+
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)
 
 ## ANEXO V — Mapa a que se refere o artigo 15.º, n.º 2
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)](https://files.diariodarepublica.pt/1s/2000/04/098a02/00060025.pdf)
 
 Organograma da Assembleia Legislativa Regional
 

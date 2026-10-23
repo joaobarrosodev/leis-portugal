@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/2/1991/03/05/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1991-466188
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:38:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1ea96bbdc550b14c94371757d957958d6374a241d4ed8ddf61e2af93635d804
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6810da4d31bc0f762b16764121d0adf473b246752538ffb584d0a83c8d7ca2ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:38:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alteração Orçamental
+- Autarquia Local
 - Autorização de Despesas
 - Autorização Legislativa
 - AVAL do Estado
 - Concurso Público
 - Empréstimo
-- Orçamento Regional
 - Madeira.região Autónoma
+- Orçamento Regional
 - Subsídio
-- Autarquia Local
 relationships:
 - type: amended_by
   target: pt:dre:243121:por
@@ -88,16 +88,22 @@ relationships:
   target: celex:31977L0062
   label: null
   source: http://data.europa.eu/eli/dir/1977/62/oj
+- type: corrected_by
+  target: pt:dre:243121:por
+  label: Rectificados os mapas II a IV, V-I a V-IV e VII anexos pelo DLR.25/91/M.30.12.1991.ALR-RAM, DR.IS-A [300-4ºSupl]
+    de 30.12.1991
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/25-1991-243121
+  date: '1991-12-30'
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:38:36Z'
   warnings: []
   errors: []
 ---
@@ -280,10 +286,10 @@ O presente diploma entra em vigor à data da publicação, integrando o Orçamen
 
 Aprovado em sessão plenária de 10 de Dezembro de 1990.
 
-**O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.**
+O Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.
 
-**Assinado em 31 de Janeiro de 1991.**
+Assinado em 31 de Janeiro de 1991.
 
-**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/053a00/11071149.pdf))](https://files.diariodarepublica.pt/1s/1991/03/053a00/11071149.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/053a00/11071149.pdf)

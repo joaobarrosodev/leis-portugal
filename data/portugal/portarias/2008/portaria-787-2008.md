@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/787/2008/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/787-2008-455090
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:34:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa825eb087d6ac33e60d775096c61573441982c8f296a46963cc0b73d3ec5420
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03212399012b0fcd2cf10986b79de906d6b0efe9b42af5b799ef890197983d65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:34:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - CAÇA
+- Évora
 - Redondo
 - Reguengos de Monsaraz
-- Évora
 - ZONA de CAÇA
 relationships:
 - type: cites
@@ -86,16 +86,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1024/2005/10/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1024/2005/10/07/p/dre
+- type: cites
+  target: pt:dre:157653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481498:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:34:28Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +132,4 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Ascenso Luís Seixas Simões, Secretário de Estado do Desenvolvimento Rural e das Florestas, em 9 de Julho de 2008.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/08/15200/0533205332.pdf))](https://files.diariodarepublica.pt/1s/2008/08/15200/0533205332.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/08/15200/0533205332.pdf)

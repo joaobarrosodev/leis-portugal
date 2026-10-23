@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/6/2012/02/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2012-543013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-02-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0a53fa5159b2f0e524f4cdf91a818c86c56c025b2d85ed297cec29bc75ec6f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a6c9b0cc9c0e232085a4bbeba59bf252233f0d6086e05b6a33e4b070fee54c76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,46 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
+- Administração Regional
 - Aquisição de Bens e Serviços
+- Arrendamento Urbano não Habitacional
 - Atribuição de Verba
 - Autonomia Administrativa
 - Autonomia Financeira
 - Autorização de Despesas
+- Cobrança de Dívidas
 - Cobrança de Impostos
-- Gestão Financeira
-- Governo Regional
+- Conselho do Governo Regional
+- Contabilidade Pública
 - Contrato
-- Arrendamento Urbano não Habitacional
 - Contrato de Locação Financeira
 - Controlo Financeiro
 - Definição de Competências
 - Delegação de Competências
 - Despesas Públicas
+- Direcção Regional do Orçamento e Tesouro
 - Dívida Pública
 - Dívidas ao Estado
 - Dotação Orçamental
 - Duodécimo
 - Empreitada de Obras Públicas
 - Empresa Pública Regional
-- Setor Empresarial do Estado
 - Fundo de Maneio
-- Presidente do Governo Regional
-- Conselho do Governo Regional
-- Subsecretário Regional
-- Veículo
+- Gestão Financeira
+- Governo Regional
 - Obras Públicas
 - Orçamento Regional
 - Organismo do Estado
-- Direcção Regional do Orçamento e Tesouro
 - Prazo
+- Presidente do Governo Regional
 - Prestação de Contas
-- Cobrança de Dívidas
 - Reposição de Verbas
 - Secretário Regional
-- Administração Regional
-- Açores
-- Contabilidade Pública
+- Setor Empresarial do Estado
+- Subsecretário Regional
 - Subsídio
+- Veículo
 - Vice-presidente do Governo Regional
 relationships:
 - type: cites
@@ -127,16 +127,55 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321930:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660174:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:552540:por
+  label: "Retificado, relativamente à data de assinatura, pela DECL-RECT.19/2012.10.04.2012.PCM, DR.IS [71] de 10.04.2012\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/19-2012-552540
+  date: '2012-04-10'
+- type: corrected_by
+  target: pt:dre:31845480:por
+  label: "Retificado pela DECL-RECT.19/2012.12.04.2012.PCM, republicada no JOA-IS [59] de 12.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-2012-31845480
+  date: '2012-04-12'
 article_structure:
   article_count: 21
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:04Z'
   warnings: []
   errors: []
 ---
@@ -347,10 +386,10 @@ O presente diploma produz efeitos desde 1 de janeiro de 2012.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 13 de janeiro de 2012.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 7 de janeiro de 2012.**
+Assinado em Angra do Heroísmo em 7 de janeiro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

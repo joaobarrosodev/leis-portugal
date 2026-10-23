@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1999/06/149b00/39913993.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1999/06/29/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1999-392579
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ceaebdb748c0f8972bbbca4ce3643fe198b92c325defc90f5eff59d474504f95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a06508f65e794d6ab7d01139e6253cf628031c335fd50421fadc73c4156a068
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,42 +66,62 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Ordenamento do Território
-- Conselho Regional das Pescas
-- Recursos Hídricos
-- Definição de Competências
-- Pesca
-- Gestão dos Recursos
-- Desenvolvimento Urbano
-- Política do Ambiente
-- Urbanismo
-- Política Agrícola
-- Política Florestal
+- Açores
 - Comissão Consultiva da Agricultura Pescas e Ambiente
 - Conselho Regional da Agricultura e Desenvolvimento Rural
+- Conselho Regional das Pescas
 - Conselho Regional do Ambiente e Ordenamento do Território
+- Definição de Competências
+- Desenvolvimento Urbano
+- Gestão dos Recursos
+- Ordenamento do Território
+- Pesca
+- Política Agrícola
+- Política do Ambiente
+- Política Florestal
+- Recursos Hídricos
+- Região Autónoma
 - Secretário Regional da Agricultura Pescas e Ambiente
-- Açores
+- Urbanismo
 relationships:
 - type: amended_by
   target: pt:dre:332688:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661747:por
+  label: "Alterados os arts. 10º e 13º pelo DRR.20/99/A.1999.11.23.SRAPA-RAA,DR.IS-B [295] de 21/DEz/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/20-1999-661747
+  date: '1999-11-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/13/1998/05/12/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/13/1998/05/12/a/dre
+- type: cites
+  target: pt:dre:516758:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:628332:por
+  label: "Revogado a partir de 21.11.2007 em tudo aquilo que respeita a matéria da responsabilidade da Secretaria Regional\
+    \ da Agricultura e Florestas pelo DRR.27/2007/A.20.11.2007.PG-RAA, DR.IS [223] de 20.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2007-628332
+  date: '2007-11-20'
+- type: repealed_by
+  target: pt:dre:332688:por
+  label: "Revogado, a partir de 01.06.2010, pelo DLR.19/2010/A.25.05.2010.AL-RAA, DR.IS [101] de 25.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/19-2010-332688
+  date: '2010-05-25'
 article_structure:
   article_count: 16
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:06Z'
   warnings: []
   errors: []
 ---
@@ -314,10 +334,10 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 20 de Abril de 1999.
 
-**O Presidente do Governo Regional em Exercício, Roberto de Sousa Rocha Amaral, Secretário Regional da Presidência para as Finanças e Planeamento.**
+O Presidente do Governo Regional em Exercício, Roberto de Sousa Rocha Amaral, Secretário Regional da Presidência para as Finanças e Planeamento.
 
-**Assinado em Angra do Heroísmo em 27 de Maio de 1999.**
+Assinado em Angra do Heroísmo em 27 de Maio de 1999.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

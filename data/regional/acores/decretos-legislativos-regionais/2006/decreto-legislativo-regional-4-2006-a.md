@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2006/01/011a00/03680375.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/4/2006/01/16/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2006-533645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75b9224e44eb3419c2d738f5eeeab535b337a16c2800997ff582ff117fa0a502
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 104716737db4f1cbd60373411632ce5f0a89cddde43adc844bc61acb8358c984
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,34 +65,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
+- Açores
 - Capital Social
-- Ordenamento do Território
 - Criação de Empresas
 - Definição de Competências
 - Empresa Pública Regional
-- Natureza Viva
 - Estatuto
-- Açores
+- Natureza Viva
+- Ordenamento do Território
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:146487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:633287:por
+  label: "Alterada para SPRAçores - Sociedade de Promoção e Gestão Ambiental, S.A. a denominação da sociedade anónima Natureza\
+    \ Viva, S.A. criada pelo art. 1º do presente diploma pelo DLR.16/2006/A.05.05.2006.AL-RAA, DR.IS-A [99] de 23.05.2006,\
+    \ que o republica em anexo com todas as alterações. , \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-2006-633287
+  date: '2006-05-05'
+- type: amended_by
+  target: pt:dre:546027:por
+  label: "Alterado o art. 4º do anexo ao ao presente diploma, alterado pelo DLR 16/2006/A de 23-Mai e republicado em anexo\
+    \ pelo DLR.43/2006/A.16.10.2006.AL-RAA, DR.IS [210] de 31.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/43-2006-546027
+  date: '2006-10-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+- type: cites
+  target: pt:dre:655312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146487:por
+  label: "Revogado pelo DLR.27/2011/A.11.11.2011.AL-RAA, DR.IS [217] de 11.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/27-2011-146487
+  date: '2011-11-11'
 article_structure:
   article_count: 38
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:28Z'
   warnings: []
   errors: []
 ---
@@ -205,13 +227,13 @@ O presente diploma entra em vigor no 30.º dia após a sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de Outubro de 2005.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 19 de Dezembro de 2005.**
+Assinado em Angra do Heroísmo em 19 de Dezembro de 2005.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 Estatutos da Natureza Viva - Sociedade de Planeamento, Gestão e Requalificação Ambiental, S. A.
 

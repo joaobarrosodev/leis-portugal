@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/33/2012/11/16/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2012-191098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:41:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75d4e5b2b81a1ff7ded2f0e85160869fbad80f0dfed5b08980c4ba370c45cfc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 944f51c7e16f81b24e0df35862ec488b045ed402f53426c3c50b80065cb1e309
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:41:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda não Reembolsável
-- Instituto da Segurança Social
 - Aquisição de Imóveis
-- Financiamento
+- Arrendamento Urbano para Habitação
 - Definição de Competências
 - Desempregado
-- Instituto de Emprego da Madeira
-- Secretaria Regional dos Assuntos Sociais
-- Orçamento
 - Desemprego
-- Madeira.região Autónoma
+- Financiamento
 - Habitação
-- Arrendamento Urbano para Habitação
+- Instituto da Segurança Social
+- Instituto de Emprego da Madeira
+- Madeira.região Autónoma
+- Orçamento
+- Secretaria Regional dos Assuntos Sociais
 - Subsídio não Reembolsável
 relationships:
 - type: cites
@@ -110,16 +110,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:449427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641166:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:41:34Z'
   warnings: []
   errors: []
 ---
@@ -274,10 +302,10 @@ Este diploma entra em vigor no dia seguinte ao da publicação da portaria previ
 
 Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 17 de outubro de 2012.
 
-**O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.**
+O Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.
 
-**Assinado em 31 de outubro de 2012.**
+Assinado em 31 de outubro de 2012.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

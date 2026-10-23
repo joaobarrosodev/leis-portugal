@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2006/03/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2006-667152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-17T00:00:00Z'
+  retrieved_at: '2026-10-23T15:20:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37c999a26a2ffda3c7c56da36b4326c0078e5ccdbdb4ba03c37d9051e48f6cdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 245b82877cf202c594ee4909ea87f14b18676c634bb19361bbe86dec0d0ff077
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,32 +65,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Governo Regional
+- Açores
 - Administração Pública
-- FEDER
-- Fundo de Coesão
 - Apoio ao Investimento
+- FEDER
+- Financiamento
+- Fundo de Coesão
+- Governo Regional
 - Plano de Investimentos
 - Política Económica
 - Programa Comunitário
-- Açores
 - Sistema Regional de Planeamento dos Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/7/2005/05/20/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/7/2005/05/20/a/dre
+- type: cites
+  target: pt:dre:692225:por
+  label: null
+  source: null
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:20:35Z'
   warnings: []
   errors: []
 ---
@@ -117,13 +121,13 @@ Os efeitos do presente diploma reportam-se à data da entrada em vigor do [Decre
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 25 de Janeiro de 2006.
 
-**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 17 de Fevereiro de 2006.**
+Assinado em Angra do Heroísmo em 17 de Fevereiro de 2006.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -135,7 +139,7 @@ O valor do investimento público a realizar pela administração regional no qua
 
 Financiamento global da Administração Pública
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/055a00/19851987.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/055a00/19851987.pdf)](https://files.diariodarepublica.pt/1s/2006/03/055a00/19851987.pdf)
 
 Estes elevados níveis de investimento público, que se projectam para o período em referência, serão efectuados num quadro de consolidação orçamental em que não se prevê qualquer recurso a endividamento directo da Região, portanto, num cenário de equilíbrio das finanças públicas regionais.
 
@@ -151,4 +155,4 @@ O investimento global previsto para o quadriénio em análise é apresentado no 
 
 5.2 - Projecção do investimento por objectivo e programa - 2005-2008
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/055a00/19851987.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2006/03/055a00/19851987.pdf)](https://files.diariodarepublica.pt/1s/2006/03/055a00/19851987.pdf)

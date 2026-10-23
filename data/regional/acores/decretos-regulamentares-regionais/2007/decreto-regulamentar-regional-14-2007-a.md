@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/14/2007/07/13/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2007-636073
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1997bac7a628f93446664e76fe0835d074b3ddf4fcee8a18b514d86fa4a703e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b573e80afd20ce7a02621aee8f97e45e579271c3df2427eab3f980155caa538
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
+- Açores
 - Conservatório Regional
 - Definição de Competências
+- Educação Pré-escolar
+- Ensino Artístico
+- Ensino Básico
 - Ensino Profissional
+- Estabelecimento de Ensino
 - Integração de Trabalhadores
 - Orgânica
-- Pessoal não Docente
-- Estabelecimento de Ensino
 - Pessoal Docente
-- Ensino Básico
+- Pessoal não Docente
 - Quadro de Pessoal
-- Açores
 - Sistema Educativo
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:186663186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494223:por
+  label: "Alterados os quadros de pessoal não docente da Escola Básica Integrada de Ginetes, da Escola Básica Integrada da\
+    \ Maia, da Escola Básica e Secundária da Povoação e da Escola Básica e Secundária Tomás de Borba contantes dos anexos\
+    \ VI, X, XIX e XXI do presente diploma, pelo DRR.6/2009/A.05.06.2009.PG-RAA, DR.IS [109] de 05.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-2009-494223
+  date: '2009-06-05'
+- type: amended_by
+  target: pt:dre:669860:por
+  label: "Extinto o Conservatório Regional da Horta e revogada a al. a) do nº 2 do art. 42º pelo DRR.18/2011/A.10.08.2011.PG-RAA,\
+    \ DR.IS [152] de 10.08.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2011-669860
+  date: '2011-08-10'
 - type: cites
   target: eli:http://da
   label: null
@@ -124,16 +137,171 @@ relationships:
   target: eli:http://data.dre.pt/eli/decregulreg/32/1992/07/25/a/dre
   label: null
   source: http://data.dre.pt/eli/decregulreg/32/1992/07/25/a/dre
+- type: cites
+  target: pt:dre:153356:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278497:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278498:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405365:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:178832:por
+  label: "Revogado o art. 19º, pelo DRR.16/2012/A.19.06.2012.PG-RAA, DR.IS [117] de 19.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/16-2012-178832
+  date: '2012-06-19'
+- type: repealed_by
+  target: pt:dre:186663186:por
+  label: Revogado o art. 40.º pelo(a) Decreto Regulamentar Regional n.º 11/2022/A - Diário da República n.º 143/2022, Série
+    I de 2022-07-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-2022-186663186
+  date: '2022-07-26'
 article_structure:
   article_count: 44
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:22Z'
   warnings: []
   errors: []
 ---
@@ -736,14 +904,14 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de Maio de 2007.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 18 de Junho de 2007.**
+Assinado em Angra do Heroísmo em 18 de Junho de 2007.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, José António Mesquita.
 
 Do ANEXO I ao ANEXO XXXIX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/13400/44414474.pdf))](https://files.diariodarepublica.pt/1s/2007/07/13400/44414474.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/07/13400/44414474.pdf)

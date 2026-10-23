@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16300/0000800096.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/20/2022/08/24/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-200200942
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85827b2c9aa67c6572b60581bf6fdb7778138b6119f0fec03ba00c318a029300
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f118f6497df75d243b35eea2f618a6a84c3f3f29f5b469244f98e2a9ab9982a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
+- Açores
+- Avaliação do Pessoal
+- Carreira Profissional
 - Colocação de Professores
 - Concurso
 - Contratação de Docentes
-- Regime Laboral
-- Estatuto
-- Sistema Retributivo
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Ensino Secundário
-- Pessoal Docente
-- Ensino Básico
-- Quadro de Pessoal
 - Contrato de Trabalho
-- Mobilidade de Pessoal
-- Avaliação do Pessoal
-- Açores
 - Educação Pré-escolar
+- Ensino Básico
+- Ensino Secundário
+- Estatuto
 - Estatuto Remuneratório
+- Formação Profissional
+- Mobilidade de Pessoal
+- Pessoal Docente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regime Laboral
+- Sistema Retributivo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/
@@ -126,16 +126,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:106874649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114440373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161587773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227009:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539978:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:59118383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909748:por
+  label: null
+  source: null
 article_structure:
   article_count: 259
   section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:52Z'
   warnings: []
   errors: []
 ---
@@ -190,11 +278,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e produ
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 5 de julho de 2022.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 10 de agosto de 2022.**
+Assinado em Angra do Heroísmo em 10 de agosto de 2022.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -3420,8 +3508,10 @@ As competências atribuídas pela lei aos Ministros das Finanças, da Educação
 
 (a que se refere o artigo 85.º do Estatuto)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/16300/0000800096.pdf))](https://files.diariodarepublica.pt/1s/2022/08/16300/0000800096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16300/0000800096.pdf)
 
 ## ANEXO II — (lista a que se refere o n.º 3 do artigo 128.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2022/08/16300/0000800096.pdf))](https://files.diariodarepublica.pt/1s/2022/08/16300/0000800096.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16300/0000800096.pdf)
+
+115604791

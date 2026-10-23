@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/10/19400/0001900107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/21/2025/10/08/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2025-938630864
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-10-08T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7954c63b68c70d4842fc6fb86370e5504cca0c2f3ef9300c91f495b01f62834d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26629d12a5d95b95ad1e2e083ed9476b4b30c296d6be7f4461f7a299196d8293
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
+- Açores
+- Avaliação do Pessoal
+- Carreira Profissional
+- Educação Pré-escolar
+- Ensino Básico
+- Ensino Secundário
 - Estatuto
 - Estatuto da Carreira Docente
-- Carreira Profissional
-- Recrutamento de Pessoal
-- Ensino Secundário
+- Estatuto Remuneratório
 - Pessoal Docente
-- Ensino Básico
 - Progressão na Carreira
 - Quadro de Pessoal
-- Avaliação do Pessoal
-- Açores
-- Educação Pré-escolar
-- Estatuto Remuneratório
+- Recrutamento de Pessoal
+- Tempo de Serviço
 relationships:
+- type: amends
+  target: pt:numero:decreto-legislativo-regional:23/2023/A
+  label: Altera, a partir de 1 de janeiro de 2026, com efeitos a partir de 1 de setembro de 2023, o artigo 219.º do Estatuto
+    da Carreira Docente da Região Autónoma dos Açores, aprovado pelo Decreto Legislativo Regional n.º 23/2023/A, de 26 de
+    junho, Diário da República n.º 122/2023, Série I, que republica
+  source: null
+  date: '2023-06-26'
 - type: cites
   target: eli:http://data.dre.pt/eli
   label: null
@@ -121,16 +128,116 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:106874649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:114440373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117514522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:161587773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200200942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214781730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380135:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492723:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:59118383:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:72909748:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:890674843:por
+  label: null
+  source: null
 article_structure:
   article_count: 236
   section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:20Z'
   warnings: []
   errors: []
 ---
@@ -181,11 +288,11 @@ O presente diploma entra em vigor com o orçamento da Região Autónoma dos Aço
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de setembro de 2025.
 
-**O Presidente da Assembleia Legislativa da Região Autónoma dos Açores, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa da Região Autónoma dos Açores, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 3 de outubro de 2025.**
+Assinado em Angra do Heroísmo em 3 de outubro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -257,7 +364,7 @@ c) Pela concessão de dispensa da componente letiva semanal por um período máx
 
 ###### Artigo 5.º — Norma revogatória
 
-É revogado o [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de agosto, alterado e republicado pelos Decretos Legislativos Regionais n.<sup>os</sup>[4/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2009-603770), de 20 de abril, [11/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2009-492723), de 21 de julho, e [25/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2015-72909748), de 17 de dezembro, e alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[22/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2012-177813), de 30 de maio, [23/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2014-59118383), de 28 de novembro, [3/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), de 13 de abril, [1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), de 3 de janeiro, [10/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-161587773), de 19 de abril, e [20/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-200200942), de 24 de agosto.
+É revogado o [Decreto Legislativo Regional n.º 21/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2007-641102), de 30 de agosto, alterado e republicado pelos Decretos Legislativos Regionais n.os[4/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2009-603770), de 20 de abril, [11/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2009-492723), de 21 de julho, e [25/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2015-72909748), de 17 de dezembro, e alterado pelos Decretos Legislativos Regionais n.os[22/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2012-177813), de 30 de maio, [23/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2014-59118383), de 28 de novembro, [3/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2017-106874649), de 13 de abril, [1/2018/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), de 3 de janeiro, [10/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-161587773), de 19 de abril, e [20/2022/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2022-200200942), de 24 de agosto.
 
 ###### Artigo 6.º — Entrada em vigor e produção de efeitos
 
@@ -1385,7 +1492,7 @@ f) Gestão dos recursos financeiros, das instalações e dos equipamentos escola
 
 3 - O disposto nos números anteriores é aplicável aos docentes que, nos termos legais, foram dispensados da profissionalização.
 
-4 - Caso o docente tenha beneficiado, especificamente para a aquisição da formação a que se referem os n.<sup>os</sup>2 e 3, de licença sabática ou de regime de equiparação a bolseiro, não beneficia da bonificação ali prevista.
+4 - Caso o docente tenha beneficiado, especificamente para a aquisição da formação a que se referem os n.os2 e 3, de licença sabática ou de regime de equiparação a bolseiro, não beneficia da bonificação ali prevista.
 
 5 - Para além dos cursos que, para efeitos do presente artigo, tenham sido reconhecidos como relevantes pelo Ministério da Educação ou pela administração educativa da Região Autónoma da Madeira, os mestrados e doutoramentos que determinem bonificação de tempo de serviço para efeitos de progressão na carreira devem obrigatoriamente obedecer, cumulativamente, às seguintes condições:
 
@@ -2445,7 +2552,7 @@ c) Exequibilidade do projeto dentro do período de licença.
 
 1 - Aos docentes da educação pré-escolar e dos ensinos básico e secundário, incluindo as suas modalidades de ensino artístico e educação especial, providos definitivamente num lugar dos quadros, pode ser concedida a equiparação a bolseiro no País ou no estrangeiro, nos termos do disposto nos artigos seguintes.
 
-2 - A concessão da equiparação do pessoal docente a bolseiro rege-se pelo disposto nos Decretos-Leis n.<sup>os</sup>[272/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1988-378095), de 3 de agosto, e [282/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1989-618509), de 23 de agosto, nos termos e condições constantes dos artigos seguintes.
+2 - A concessão da equiparação do pessoal docente a bolseiro rege-se pelo disposto nos Decretos-Leis n.os[272/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1988-378095), de 3 de agosto, e [282/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1989-618509), de 23 de agosto, nos termos e condições constantes dos artigos seguintes.
 
 3 - A concessão de equiparação a bolseiro não pode anteceder ou suceder à licença sabática sem que decorra um período mínimo de dois anos escolares de intervalo.
 
@@ -2677,7 +2784,7 @@ b) Com dispensa total ou parcial da componente letiva para o exercício de outra
 
 c) No gozo de licença sabática ou em situação de equiparação a bolseiro;
 
-d) Nas situações a que se referem os n.<sup>os</sup>5 e 6 do artigo 69.º e o n.º 2 do artigo 75.º;
+d) Nas situações a que se referem os n.os5 e 6 do artigo 69.º e o n.º 2 do artigo 75.º;
 
 e) Em regime de destacamento por condições específicas, de acordo com a legislação aplicável;
 
@@ -2715,7 +2822,7 @@ a) Fotocópia autenticada do horário distribuído no estabelecimento de ensino 
 
 b) Declaração, sob compromisso de honra, da cessação imediata da atividade em acumulação no caso de ocorrência superveniente de conflito de interesses.
 
-3 - Compete aos serviços centrais da direção regional de administração educativa ou à unidade orgânica do sistema educativo, consoante o disposto, respetivamente, nos n.<sup>os</sup>1 e 2 do artigo 169.º, verificar, no prazo de 15 dias a contar da data de apresentação do requerimento a que se refere o n.º 1, da compatibilidade do requerido com as condições estabelecidas no presente Estatuto e remeter o pedido de acumulação à entidade competente para a sua decisão.
+3 - Compete aos serviços centrais da direção regional de administração educativa ou à unidade orgânica do sistema educativo, consoante o disposto, respetivamente, nos n.os1 e 2 do artigo 169.º, verificar, no prazo de 15 dias a contar da data de apresentação do requerimento a que se refere o n.º 1, da compatibilidade do requerido com as condições estabelecidas no presente Estatuto e remeter o pedido de acumulação à entidade competente para a sua decisão.
 
 4 - A recusa de autorização carece de fundamentação nos termos legais.
 
@@ -2893,7 +3000,7 @@ e) O professor estagiário participa em todas as reuniões, formais ou informais
 
 ###### Artigo 194.º — Profissionalização em exercício
 
-1 - Compete ao diretor regional competente em matéria de administração educativa a homologação dos processos de profissionalização em exercício dos docentes que, reunindo os requisitos fixados pelo [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de agosto, com as alterações introduzidas pelos Decretos-Leis n.<sup>os</sup>[345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), [15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900) e [127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), de 11 de outubro, 19 de janeiro e 6 de julho, respetivamente, se encontrem em exercício de funções na Região Autónoma dos Açores.
+1 - Compete ao diretor regional competente em matéria de administração educativa a homologação dos processos de profissionalização em exercício dos docentes que, reunindo os requisitos fixados pelo [Decreto-Lei n.º 287/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135), de 19 de agosto, com as alterações introduzidas pelos Decretos-Leis n.os[345/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1989-548825), [15-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-1999-352900) e [127/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2000-301017), de 11 de outubro, 19 de janeiro e 6 de julho, respetivamente, se encontrem em exercício de funções na Região Autónoma dos Açores.
 
 2 - A classificação profissional é publicada no Jornal Oficial e produz efeitos no dia 1 do mês seguinte ao da respetiva publicação.
 
@@ -3281,36 +3388,36 @@ As competências atribuídas pela lei aos Ministros das Finanças, da Educação
 
 (a que se refere o artigo 77.º do Estatuto)
 
-| Categoria | Categoria | Escalão | Índice |
+| Categoria | Escalão | Índice |  |
 | --- | --- | --- | --- |
 | Contratado a termo resolutivo | Licenciado profissionalizado | – | 167 |
-| Contratado a termo resolutivo | Licenciado não profissionalizado | – | 151 |
-| Contratado a termo resolutivo | Bacharel profissionalizado | – | 126 |
-| Contratado a termo resolutivo | Bacharel não profissionalizado | – | 112 |
-| Contratado a termo resolutivo | Contratados sem habilitação legal cuja habilitação académica seja inferior a curso superior | – | 89 |
+| Licenciado não profissionalizado | – | 151 |  |
+| Bacharel profissionalizado | – | 126 |  |
+| Bacharel não profissionalizado | – | 112 |  |
+| Contratados sem habilitação legal cuja habilitação académica seja inferior a curso superior | – | 89 |  |
 | Em acompanhamento | Licenciado (a) | – | 151 |
-| Em acompanhamento | Bacharel (a) | – | 112 |
+| Bacharel (a) | – | 112 |  |
 | Pré-carreira | Licenciado | – | 151 |
-| Pré-carreira | Bacharel | – | 126 |
-| Docentes do nível 2 | Docentes do nível 2 | – | 167 |
-| Carreira docente | Carreira docente | 1 | 167 |
-| Carreira docente | Carreira docente | 2 | 188 |
-| Carreira docente | Carreira docente | 3 | 205 |
-| Carreira docente | Carreira docente | 4 | 218 |
-| Carreira docente | Carreira docente | 5 | 235 |
-| Carreira docente | Carreira docente | 6 | 245 |
-| Carreira docente | Carreira docente | 7 | 272 |
-| Carreira docente | Carreira docente | 8 | 299 |
-| Carreira docente | Carreira docente | 9 | 340 |
-| Carreira docente | Carreira docente | 10 | 370 |
+| Bacharel | – | 126 |  |
+| Docentes do nível 2 | – | 167 |  |
+| Carreira docente | 1 | 167 |  |
+| 2 | 188 |  |  |
+| 3 | 205 |  |  |
+| 4 | 218 |  |  |
+| 5 | 235 |  |  |
+| 6 | 245 |  |  |
+| 7 | 272 |  |  |
+| 8 | 299 |  |  |
+| 9 | 340 |  |  |
+| 10 | 370 |  |  |
 
 (a) Com exceção dos casos em que o docente tenha celebrado anteriormente contrato pelo período de um ano pelo índice 126 ou 89, em que se aplica, respetivamente, o índice 167 ou 126.
 
 ## ANEXO II — (lista a que se refere o n.º 4 do artigo 120.º)
 
-| Listagem de funções que o docente pode ou não realizar | Sim | Não | Sim | Não |
+| Listagem de funções que o docente pode ou não realizar | Proposta de órgão de gestão | Confirmação da junta médica |  |  |
 | --- | --- | --- | --- | --- |
-| Listagem de funções que o docente pode ou não realizar | Proposta de órgão de gestão | Proposta de órgão de gestão | Confirmação da junta médica | Confirmação da junta médica |
+| Sim | Não | Sim | Não |  |
 | Lecionar a disciplina para a qual foi recrutado em turmas reduzidas - com menos de 20 alunos |  |  |  |  |
 | Lecionar a disciplina para a qual foi recrutado em turmas reduzidas - com menos de 10 alunos |  |  |  |  |
 | Lecionar as áreas curriculares não disciplinares |  |  |  |  |
@@ -3341,3 +3448,7 @@ As competências atribuídas pela lei aos Ministros das Finanças, da Educação
 | Colaborar na orientação educacional e profissional dos alunos |  |  |  |  |
 | Executar o levantamento das necessidades de formação dos docentes |  |  |  |  |
 | Atender pais e encarregados de educação |  |  |  |  |
+
+119609204
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { min-height:28px; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl13 { height:34px; }

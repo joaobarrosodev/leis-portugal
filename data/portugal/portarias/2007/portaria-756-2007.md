@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/756/2007/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/756-2007-635823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8ae156a2eb0475e6aa33ca132ed85d24ee6b36430e862dce0933e6fe90c5261
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3a347a015dfca7fa7486c64c1b54ae806d43d402bae0bfcfc79f7a5b699b3c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/18/1991/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/18/1991/01/09/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693428:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:44Z'
   warnings: []
   errors: []
 ---

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/17/2002/07/10/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2002-198771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-18T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fd09ac6974fddb7eaddfc7878760850d667073306ce3bdc3ddbf9eeda148f61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 88f12dd4176aa769dd42024a2b4d70902080f2de05ec4f3ebad256cc7fab888e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Governo Regional
-- Conselho Regional de Saúde
-- Direcção Regional da Solidariedade e Segurança Social
-- Direcção Regional de Saúde
-- Secretaria Regional dos Assuntos Sociais
-- Orgânica
-- Quadro de Pessoal
+- Açores
 - Conselho Regional da Solidariedade e Segurança Social
+- Conselho Regional de Saúde
 - Conselho Regional para a Igualdade de Oportunidades
 - Conselho Regional para a LUTA contra as Dependências
-- Açores
+- Direcção Regional da Solidariedade e Segurança Social
+- Direcção Regional de Saúde
+- Governo Regional
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional dos Assuntos Sociais
 relationships:
 - type: amended_by
   target: pt:dre:307798:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:199425:por
+  label: "Determinada a integração na Divisão de Administração do Núcleo de Informática da Secretaria Regional dos Assuntos\
+    \ Sociais previsto na al. b) do art. 4.º e no art. 7.º do anexo ao presente diploma, pelo DRR.3/2003/A.2003.01.15.PG-RAA\
+    \ DR.IS-B [33] DE 08/FEV/2003 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2003-199425
+  date: '2003-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/247/1991/07/10/p/dre
   label: null
@@ -113,16 +120,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+- type: cites
+  target: pt:dre:197076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516879:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668293:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:334343:por
+  label: "Revogado, a partir de 17.07.2010, pelo DRR.13/2010/A.12.07.2010.PG-RAA, DR.IS [133] de 12.07.2010, na parte que\
+    \ se refere à orgânica por ele aprovada. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/13-2010-334343
+  date: '2010-07-12'
+- type: repealed_by
+  target: pt:dre:307798:por
+  label: "Revogado pelo DRR.18/2010/A.18.10.2010.PG-RAA, DR.IS [202] de 18.10.2010, na parte que se refere à orgânica por\
+    \ ele aprovada\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2010-307798
+  date: '2010-10-18'
 article_structure:
   article_count: 39
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 21
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:31Z'
   warnings: []
   errors: []
 ---
@@ -147,13 +198,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 19 de Abril de 2002.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 11 de Junho de 2002.**
+Assinado em Angra do Heroísmo em 11 de Junho de 2002.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.
 
 ## ANEXO — Orgânica da Secretaria Regional dos Assuntos Sociais
 
@@ -215,7 +266,7 @@ Núcleo de Informática;
 
 c) De apoio instrumental:
 
-##### Divisão de Administração;
+Divisão de Administração;
 
 d) Operativos:
 
@@ -257,7 +308,9 @@ c) Elaborar um plano de informatização e mantê-lo actualizado de acordo com a
 
 d) Emitir os pareceres e informações que lhe forem solicitados.
 
-###### Artigo 8.º — Divisão de Administração
+###### Artigo 8.º
+
+##### Divisão de Administração
 
 1 - A Divisão de Administração é um serviço de apoio e execução das actividades administrativas respeitantes aos órgãos e serviços centrais da SRAS, à qual compete, designadamente:
 
@@ -283,7 +336,9 @@ j) Exercer as funções de oficial público, nos termos da lei.
 
 2 - A Divisão de Administração integra uma Secção de Pessoal, Expediente e Arquivo e uma Secção de Contabilidade.
 
-###### Artigo 9.º — Secção de Pessoal, Expediente e Arquivo
+###### Artigo 9.º
+
+#### Secção de Pessoal, Expediente e Arquivo
 
 Compete à Secção de Pessoal, Expediente e Arquivo:
 
@@ -301,7 +356,9 @@ f) Organizar o trabalho dos motoristas e do pessoal auxiliar;
 
 g) Efectuar as operações de controlo da assiduidade e pontualidade do pessoal.
 
-###### Artigo 10.º — Secção de Contabilidade
+###### Artigo 10.º
+
+#### Secção de Contabilidade
 
 Compete à Secção de Contabilidade:
 
@@ -389,7 +446,9 @@ d) Direcção de Serviços de Recursos Humanos (DSRH).
 
 A DRS coordena as instituições que integram o Serviço Regional de Saúde.
 
-###### Artigo 15.º — Divisão de Apoio Jurídico
+###### Artigo 15.º
+
+##### Divisão de Apoio Jurídico
 
 A DAJ é um serviço de apoio técnico ao qual compete, designadamente:
 
@@ -403,7 +462,9 @@ d) Preparar e pronunciar-se sobre projectos de diplomas;
 
 e) Dar parecer sobre assuntos de natureza jurídica que, para o efeito, lhe sejam submetidos pelo director regional da Saúde.
 
-###### Artigo 16.º — Divisão de Planeamento, Estudos e Documentação
+###### Artigo 16.º
+
+##### Divisão de Planeamento, Estudos e Documentação
 
 A DPED é um serviço de apoio técnico ao qual compete, designadamente:
 
@@ -435,7 +496,9 @@ a) Divisão de Promoção da Saúde (DPS);
 
 b) Divisão de Acompanhamento da Qualidade (DAQ).
 
-###### Artigo 18.º — Divisão de Promoção da Saúde
+###### Artigo 18.º
+
+##### Divisão de Promoção da Saúde
 
 À DPS compete, em especial:
 
@@ -451,7 +514,9 @@ e) Dar parecer sobre o acesso a cuidados de saúde no estrangeiro, quando estes 
 
 f) Colaborar com a DPED na elaboração do Plano Regional de Saúde.
 
-###### Artigo 19.º — Divisão de Acompanhamento da Qualidade
+###### Artigo 19.º
+
+##### Divisão de Acompanhamento da Qualidade
 
 À DAQ compete, em especial:
 
@@ -475,7 +540,9 @@ a) Divisão de Gestão e Administração de Pessoal (DGAP);
 
 b) Divisão de Formação Profissional (DFP).
 
-###### Artigo 21.º — Divisão de Gestão e Administração de Pessoal
+###### Artigo 21.º
+
+##### Divisão de Gestão e Administração de Pessoal
 
 À DGAP compete, em especial:
 
@@ -493,7 +560,9 @@ f) Dar parecer sobre questões de pessoal que lhe sejam submetidas;
 
 g) Criar e manter permanentemente actualizado um registo do pessoal do sector.
 
-###### Artigo 22.º — Divisão de Formação Profissional
+###### Artigo 22.º
+
+##### Divisão de Formação Profissional
 
 À DFP compete, em especial:
 
@@ -581,7 +650,9 @@ b) Instituto de Gestão de Regimes de Segurança Social (IGRSS);
 
 c) Instituto de Acção Social (IAS).
 
-###### Artigo 27.º — Divisão de Organização e Documentação
+###### Artigo 27.º
+
+##### Divisão de Organização e Documentação
 
 Compete à DOD, nomeadamente:
 
@@ -601,7 +672,9 @@ g) Proceder à difusão de legislação, ordens de serviço, documentação e de
 
 h) Coordenar a organização do arquivo da DRSSS e assegurar o seu bom funcionamento.
 
-###### Artigo 28.º — Divisão de Pessoal e Apoio Jurídico
+###### Artigo 28.º
+
+##### Divisão de Pessoal e Apoio Jurídico
 
 Compete à DPAJ, nomeadamente:
 
@@ -627,7 +700,9 @@ j) Colaborar na preparação e elaboração de diplomas legais;
 
 k) Intervir em quaisquer sindicâncias, inquéritos ou averiguações, sempre que para tal for solicitada.
 
-###### Artigo 29.º — Divisão de Estudos, Planeamento e Apoio às Instituições
+###### Artigo 29.º
+
+##### Divisão de Estudos, Planeamento e Apoio às Instituições
 
 Compete à DEPAI, designadamente:
 
@@ -743,7 +818,7 @@ As condições e regras de recrutamento e provimento do pessoal técnico-profiss
 
 ###### Artigo 37.º — Reclassificação
 
-**A chefe de repartição da Repartição dos Serviços Administrativos do quadro de pessoal constante do anexo II da orgânica aprovada pelo [Decreto Regulamentar Regional n.º 11/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1998-516879), de 5 de Maio, é reclassificada na categoria de técnico superior de 1.ª classe, passando a integrar o quadro de pessoal da Divisão de Administração, da SRAS, nos termos do n.º 1 do artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção introduzida pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.**
+A chefe de repartição da Repartição dos Serviços Administrativos do quadro de pessoal constante do anexo II da orgânica aprovada pelo [Decreto Regulamentar Regional n.º 11/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1998-516879), de 5 de Maio, é reclassificada na categoria de técnico superior de 1.ª classe, passando a integrar o quadro de pessoal da Divisão de Administração, da SRAS, nos termos do n.º 1 do artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção introduzida pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
 
 Quadro de pessoal
 

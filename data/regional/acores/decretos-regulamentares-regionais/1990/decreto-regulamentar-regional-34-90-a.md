@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1990/12/27800/49584962.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1990-564988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ef6e306614cf718435e4cc5509773b7e95757a13f33cf597286463ddcca8797
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01138878851799b75134dc2ce8026726ee35f4e7efa4bc2b097bfb831b7b1896
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Administração Regional
+- Autarquia Local
+- Contrato
+- Contrato Programa
+- Cooperação Financeira
+- Cooperação Técnica
+- Desenvolvimento Regional
 relationships:
 - type: amended_by
   target: pt:dre:610404:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333541:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:610404:por
+  label: "Revogado, a partir de 01.04.2010, pelo DLR.8/2010/A.05.03.2010.AL-RAA, DR.IS [45] de 05.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/8-2010-610404
+  date: '2010-03-05'
 article_structure:
   article_count: 30
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:42Z'
   warnings: []
   errors: []
 ---
@@ -243,7 +260,7 @@ c) 80% para um custo inferior a 1 x FEF de capital.
 
 1 - O pagamento da comparticipação financeira do Governo Regional às câmaras municipais no âmbito do saneamento básico poderá efectuar-se por adiantamento, quando solicitado, nos seguintes termos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1990/12/27800/49584962.pdf))](https://files.diariodarepublica.pt/1s/1990/12/27800/49584962.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1990/12/27800/49584962.pdf)
 
 2 - Tratando-se de empreendimentos objecto de comparticipação financeira proveniente de programas operacionais comunitários ou de outras entidades além da SRAI, devem os adiantamentos ser efectuados de forma articulada com as restantes entidades financiadoras de modo a evitar-se a sobreposição de pagamentos, tendo em conta o disposto no n.º 5 do artigo 9.º
 
@@ -329,10 +346,10 @@ O disposto no n.º 3 do artigo 3.º não prejudica a possibilidade de compartici
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 7 de Setembro de 1990.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 30 de Outubro de 1990.**
+Assinado em Angra do Heroísmo em 30 de Outubro de 1990.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 236/2007, 1º Suplemento, Série I de 2007-12-07
   number: '236'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 8820-(2) a 8820-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/12/23601/0000200007.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1554-a/2007/12/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1554-a-2007-627662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2515f229f506fe8b86723f542165c61df872f7224920165bd66679413098656
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dc31ad56ffe3c6268d479ac3ca6fc77fb52d10c73dbf2fb726352d9768b75f06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Energia não Poluente
+- Agência Portuguesa do Ambiente
 - Código dos Impostos Especiais de Consumo
-- Imposto sobre Produtos Petrolíferos
+- Combustível
 - Combustível de Substituição
 - Definição de Competências
-- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
-- Combustível
-- Fiscalização
 - Direção Geral de Energia e Geologia
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Energia não Poluente
+- Fiscalização
 - Gabinete de Planeamento e Políticas
+- Imposto sobre Produtos Petrolíferos
+- Inspecção Geral do Ambiente e do Ordenamento do Território
 - Instituto da Mobilidade e dos Transportes Terrestres
 - Isenção Fiscal
-- Inspecção Geral do Ambiente e do Ordenamento do Território
-- Agência Portuguesa do Ambiente
 relationships:
 - type: cites
   target: celex:32003L0030
@@ -101,13 +101,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:02Z'
   warnings: []
   errors: []
 ---
@@ -144,7 +144,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças, do Ambiente, do Orde
 
 1 - As quantidades máximas anuais de biocombustíveis passíveis de isenção de ISP, nos termos do artigo 71.º-A do CIEC, são fixadas para os anos de 2008, 2009 e 2010 nos seguintes valores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/12/23601/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2007/12/23601/0000200007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/12/23601/0000200007.pdf)
 
 2 - A atribuição das quantidades passíveis de isenção de ISP previstas no número anterior para os biocombustíveis substitutos da gasolina é condicionada a um limite máximo de 100 milhões de litros caso não sejam alteradas as especificações da gasolina para permitir uma incorporação de etanol superior a 5 % em volume.
 
@@ -314,7 +314,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 29 de Outubro de 2007.
 
-**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.**
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia.
 
 ## ANEXO I — Documentos que acompanham a proposta
 

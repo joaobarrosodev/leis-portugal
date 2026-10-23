@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2014/12/24000/0606906074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/22/2014/12/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2014-64297588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2020-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:31:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffd68384032a5b98e7bed31fc4944d7b283e2bb95a9d533ca08e69b17001eb0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9036d270ade3883c98852a303c594a9c5d19b3762dc1911c321694fbd91d8453
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Aquisição de Equipamento
-- Associação Recreativa
-- Financiamento
-- Banda de Música
-- Governo Regional
 - Associação Cultural
+- Associação Recreativa
+- Banda de Música
+- Financiamento
+- Governo Regional
 - Instrumento Musical
 - Música
 - Programa
 - Regulamento
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:130954977:por
@@ -86,16 +86,26 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/3/2014/02/14/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/3/2014/02/14/a/dre
+- type: cites
+  target: pt:dre:572454:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:130954977:por
+  label: Revogado, a partir de 02.04.2020, pelo(a) Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020,
+    Série I de 2020-04-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/9-2020-130954977
+  date: '2020-04-01'
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:31:13Z'
   warnings: []
   errors: []
 ---
@@ -224,11 +234,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 7 de novembro de 2014.
 
-**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.
 
-**Assinado em Angra do Heroísmo em 2 de dezembro de 2014.**
+Assinado em Angra do Heroísmo em 2 de dezembro de 2014.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -236,10 +246,10 @@ O Representante da República para a Região Autónoma dos Açores, Pedro Manuel
 
 (a que se refere o n.º 1 do artigo 6.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/12/24000/0606906074.pdf))](https://files.diariodarepublica.pt/1s/2014/12/24000/0606906074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/12/24000/0606906074.pdf)
 
 ## ANEXO II — Critérios e subcritérios de apreciação das candidaturas
 
 (a que se refere o n.º 5 do artigo 8.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2014/12/24000/0606906074.pdf))](https://files.diariodarepublica.pt/1s/2014/12/24000/0606906074.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/12/24000/0606906074.pdf)

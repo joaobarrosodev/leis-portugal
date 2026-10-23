@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21200/19241926.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1978-329806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T15:24:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef1abd3f4b3cc85b6fbb2b2f23874ab49f08fbbc07afe20a2019e59e3d597378
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8435457884cc13ebb7cbfc18baf9cbebc908135a60dd6ddae8b46a1de3cbb317
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Governo Regional
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:286300:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:492689:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:287413:por
+  label: Revogado pelo(a) Decreto Regulamentar Regional n.º 12/88/A - Diário da República n.º 59/1988, Série I de 1988-03-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-1988-287413
+  date: '1988-03-11'
+- type: repealed_by
+  target: pt:dre:286300:por
+  label: Revogado pelo(a) Decreto Legislativo Regional n.º 12/88/A - Diário da República n.º 79/1988, Série I de 1988-04-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/12-1988-286300
+  date: '1988-04-05'
 article_structure:
-  article_count: 8
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 7
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:24:45Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +113,7 @@ Assim, em execução do Decreto Regional n.º 3/76, de 31 de Dezembro:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º O capítulo II e o artigo 14.º do Decreto Regulamentar Regional n.º 20/77/A, de 21 de Junho, passam a ter a seguinte redacção:
+Artigo 1.º O capítulo II e o artigo 14.º do Decreto Regulamentar Regional n.º 20/77/A, de 21 de Junho, passam a ter a seguinte redacção:
 
 ### CAPÍTULO II — Dos órgãos e serviços
 
@@ -128,7 +147,9 @@ a) Secção de Expediente e Arquivo;
 
 b) Secção de Contabilidade e Pessoal.
 
-#### SECÇÃO II — Secção de Expediente e Arquivo
+#### SECÇÃO II
+
+#### Secção de Expediente e Arquivo
 
 ###### Artigo 6.º — (Competência)
 
@@ -158,7 +179,9 @@ l) Colaborar na organização dos arquivos dos Gabinetes dos membros do Governo 
 
 m) Assegurar o serviço de arquivo da Secretaria-Geral.
 
-#### SECÇÃO III — Secção de Contabilidade e Pessoal
+#### SECÇÃO III
+
+#### Secção de Contabilidade e Pessoal
 
 ###### Artigo 7.º — (Competência)
 
@@ -254,22 +277,22 @@ b) Os lugares de chefe de secção serão providos de entre diplomados com curso
 
 4 - Os lugares de escriturário-dactilógrafo serão providos por concurso de prestação de provas de entre indivíduos que possuam, como habilitação mínima, a escolaridade obrigatória de harmonia com a idade do candidato.
 
-###### Art. 2.º Ao quadro de pessoal a que se refere o artigo 10.º do Decreto Regulamentar Regional n.º 20/77/A, de 21 de Junho, são acrescidos os lugares constantes do quadro anexo ao presente diploma.
+Art. 2.º Ao quadro de pessoal a que se refere o artigo 10.º do Decreto Regulamentar Regional n.º 20/77/A, de 21 de Junho, são acrescidos os lugares constantes do quadro anexo ao presente diploma.
 
-###### Art. 3.º As regras relativas ao provimento são aplicáveis aos lugares agora criados.
+Art. 3.º As regras relativas ao provimento são aplicáveis aos lugares agora criados.
 
 Aprovado em Plenário do Governo Regional em 13 de Julho de 1978.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 8 de Agosto de 1978.**
+Assinado em Angra do Heroísmo em 8 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
 
 Quadro e vencimento do pessoal a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/09/21200/19241926.pdf))](https://files.diariodarepublica.pt/1s/1978/09/21200/19241926.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/21200/19241926.pdf)
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.

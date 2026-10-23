@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/11/1992/03/17/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1992-178841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a976b055d3ec8cf1f38536ae7364f184e7422f808fdbe24f326eba519f400f0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2331ba4784cf71afe8ad6b2611a23402b5b07ab7f0e3c1d0a9ae84b6d3a17afa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Açores
 - Direcção Regional de Saúde
-- Sistema Retributivo
 - Orgânica
+- Pessoal Dirigente
 - Pessoal Técnico Superior
 - Reestruturação de Carreiras
-- Açores
+- Sistema Retributivo
 relationships:
 - type: amended_by
   target: pt:dre:516879:por
@@ -81,16 +81,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:227198:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:516879:por
+  label: "Revogado o DRR 14/86/A de 14-Mai com a alteração introduzida pelo presente diploma, pelo DRR.11/98/A.1998.04.13.SREAS-RAA,\
+    \ DR.IS-B [103] de 05/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/11-1998-516879
+  date: '1998-04-13'
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:58Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +133,7 @@ O quadro de pessoal da Direcção Regional de Saúde na parte relativa ao Servi�
 
 O artigo 24.º do [Decreto Regulamentar Regional n.º 14/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-1986-227198), de 14 de Maio, passa a ter a seguinte redacção:
 
-###### Art. 24.º - 1 - O coordenador do Serviço de Acolhimento de Doentes, em Lisboa, é nomeado em comissão de serviço por um período de três anos, renovável, pelo Secretário Regional da Saúde e Segurança Social, mediante proposta do director regional de Saúde, de entre indivíduos de reconhecido mérito e com experiência relevante para o cargo.
+Art. 24.º - 1 - O coordenador do Serviço de Acolhimento de Doentes, em Lisboa, é nomeado em comissão de serviço por um período de três anos, renovável, pelo Secretário Regional da Saúde e Segurança Social, mediante proposta do director regional de Saúde, de entre indivíduos de reconhecido mérito e com experiência relevante para o cargo.
 
 2 - A comissão de serviço pode, a todo o tempo, ser dada por finda durante a sua vigência:
 
@@ -141,14 +159,14 @@ O cargo de coordenador do Serviço de Acolhimento de Doentes poderá ser provido
 
 Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 22 de Janeiro de 1992.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 19 de Fevereiro de 1992.**
+Assinado em Angra do Heroísmo em 19 de Fevereiro de 1992.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/03/064b00/13521353.pdf))](https://files.diariodarepublica.pt/1s/1992/03/064b00/13521353.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/03/064b00/13521353.pdf)

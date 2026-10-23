@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1986/12/29900/38583858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/40-1986-210848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-10-23T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e1572d831cb5985a6dbf4a396eb951192329fd23b0d6704a079e179d23d08a5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3df935bf44f61e988019f7d99597cc5394bdbc455de87d3a5d09f93e84582ebb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Pessoal Docente
+- Subsídio de Deslocação
 relationships:
 - type: amended_by
   target: pt:dre:223192:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:177037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405368:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:223192:por
+  label: "Revogado pelo DLR.16/98/A.1998.10.23.ALR-RAA, DR.IS-A [257] de 06/Nov/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/16-1998-223192
+  date: '1998-10-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:44Z'
   warnings: []
   errors: []
 ---
@@ -101,22 +129,22 @@ Considerando que a alínea b) do n.º 5 do artigo 3.º do diploma legal anterior
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os docentes efectivos de nomeação provisória que, após terem respeitado o disposto no artigo 3.º do [Decreto Legislativo Regional n.º 8/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1985-182661), de 9 de Julho, tendo mencionado obrigatoriamente os estabelecimentos de ensino com formação em serviço, foram colocados em escola que não tenha sido definida, nos termos do n.º 9.º da [Portaria n.º 750/85](https://diariodarepublica.pt/dr/detalhe/portaria/750-1985-177037), de 2 de Outubro, como escola de formação em serviço, tendo sido destacados para estabelecimentos de ensino onde se realiza a respectiva formação, terão direito a:
+Artigo 1.º Os docentes efectivos de nomeação provisória que, após terem respeitado o disposto no artigo 3.º do [Decreto Legislativo Regional n.º 8/85/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-1985-182661), de 9 de Julho, tendo mencionado obrigatoriamente os estabelecimentos de ensino com formação em serviço, foram colocados em escola que não tenha sido definida, nos termos do n.º 9.º da [Portaria n.º 750/85](https://diariodarepublica.pt/dr/detalhe/portaria/750-1985-177037), de 2 de Outubro, como escola de formação em serviço, tendo sido destacados para estabelecimentos de ensino onde se realiza a respectiva formação, terão direito a:
 
 a) Passagem de ida e volta;
 
 b) Subsídio mensal de instalação, no valor de 10000$00.
 
-###### Art. 2.º Terão direito apenas a passagem de ida e volta os docentes que se desloquem para a respectiva tomada de posse, no estabelecimento de ensino onde foram colocados, e que tenham domicílio voluntário na ilha onde se situa o estabelecimento de ensino onde se realiza a respectiva formação.
+Art. 2.º Terão direito apenas a passagem de ida e volta os docentes que se desloquem para a respectiva tomada de posse, no estabelecimento de ensino onde foram colocados, e que tenham domicílio voluntário na ilha onde se situa o estabelecimento de ensino onde se realiza a respectiva formação.
 
-###### Art. 3.º Terão direito, cumulativamente, à passagem de ida e volta e ao subsídio mensal de instalação todos os docentes que se tenham de deslocar, na Região Autónoma dos Açores, para o estabelecimento de ensino onde se realiza a respectiva formação, que se situe em ilha diversa do seu domicílio voluntário.
+Art. 3.º Terão direito, cumulativamente, à passagem de ida e volta e ao subsídio mensal de instalação todos os docentes que se tenham de deslocar, na Região Autónoma dos Açores, para o estabelecimento de ensino onde se realiza a respectiva formação, que se situe em ilha diversa do seu domicílio voluntário.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 24 de Outubro de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 28 de Novembro de 1986.**
+Assinado em Angra do Heroísmo em 28 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.

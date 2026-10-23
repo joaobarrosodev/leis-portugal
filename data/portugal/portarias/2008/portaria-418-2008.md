@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/418/2008/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-2008-449463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91f04326346dc8d988f3ecafdbfe5a7bc4ecfaa9f91a1875f4796ad5d3556378
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69f5b92853f8310f136037f29b0ffe7982e42feac5d439418561ed7be4cdac45
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
 subjects:
 - Arquivo
 - Conservação de Documentos
+- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
+- Direcção Geral dos Arquivos
 - Fiscalização
 - Microfilmagem
-- Direcção Geral dos Arquivos
-- Direcção Geral do Ordenamento do Território e Desenvolvimento Urbano
 - Prazo de Conservação
 - Regulamento Arquivistico
 relationships:
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361159:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:13Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +114,7 @@ Nestes termos, ao abrigo do disposto na alínea a) do n.º 1 do artigo 1.º do [
 
 Em 21 de Maio de 2008.
 
-**O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão. - A Secretária de Estado da Cultura, Maria Paula Fernandes dos Santos.**
+O Secretário de Estado do Ordenamento do Território e das Cidades, João Manuel Machado Ferrão. - A Secretária de Estado da Cultura, Maria Paula Fernandes dos Santos.
 
 ## ANEXO — REGULAMENTO ARQUIVÍSTICO DA DIRECÇÃO-GERAL DO ORDENAMENTO DO TERRITÓRIO E DESENVOLVIMENTO URBANO
 
@@ -224,8 +232,8 @@ Fiscalização
 
 Compete à DGARQ a inspecção sobre a execução do disposto no presente Regulamento.
 
-## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11100/0340503419.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11100/0340503419.pdf)
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11100/0340503419.pdf)
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11100/0340503419.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11100/0340503419.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11100/0340503419.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2008/06/11100/0340503419.pdf))](https://files.diariodarepublica.pt/1s/2008/06/11100/0340503419.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2008/06/11100/0340503419.pdf)

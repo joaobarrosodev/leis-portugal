@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-1986-210634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3103ba3374b3a73f16e1a0aea89afd86682dc9a18fe9478565c13f4bb034074
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d053aceeef6ceff66d88448239eb3e49acfb6b073114de0e4db4e5779b2710d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Ensino Primário
+- Estabelecimento de Ensino
+- Gestão Escolar
+relationships:
+- type: cites
+  target: pt:dre:221992:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:42Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +94,9 @@ validation:
 
 O Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
 
-###### Artigo único. Os n.os 1 e 3 do artigo 11.º do [Decreto Regulamentar Regional n.º 32/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1986-221992), de 12 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os n.os 1 e 3 do artigo 11.º do [Decreto Regulamentar Regional n.º 32/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1986-221992), de 12 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 11.º - 1 - Constituem órgãos de gestão em cada escola do ensino primário:
+Art. 11.º - 1 - Constituem órgãos de gestão em cada escola do ensino primário:
 
 a) O director da escola;
 
@@ -102,10 +110,10 @@ c) O encarregado de direcção.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 24 de Outubro de 1986.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 26 de Novembro de 1986.**
+Assinado em Angra do Heroísmo em 26 de Novembro de 1986.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.

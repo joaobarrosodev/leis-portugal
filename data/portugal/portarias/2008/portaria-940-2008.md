@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/940/2008/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/940-2008-453526
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f23d1eef0165a53c84147e463b9b686ec7c8723fe25967b3a7d25fce733d9b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24174484b5dba0371fe04a13cc5cae46ec3cc6e63555b7f7a192e18ac04a1f97
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração de Portos
 - Administração do Porto de Lisboa
-- POLO de Desenvolvimento Turístico
+- ANA
 - Assembleia Geral
-- Fiscal Único
+- Autarquia Local
+- Cgtp-in
 - Contabilidade
-- UGT
 - Definição de Competências
 - Direção
-- Região de Turismo
 - Estatuto
-- Administração de Portos
-- Cgtp-in
+- Fiscal Único
 - Lisboa e Vale do Tejo
+- POLO de Desenvolvimento Turístico
 - Presidente
 - Quadro de Pessoal
-- ANA
+- Região de Turismo
 - Turismo de Lisboa e VALE do TEJO
-- Autarquia Local
+- UGT
 relationships:
+- type: amended_by
+  target: pt:dre:1125645:por
+  label: "Tornada pública a alteração dos arts. 13º, 21º e 24º dos Estatutos da Turismo de Lisboa e Vale do Tejo pela DELIB.295/2011.31.01.2011.TULVT,\
+    \ DR.IIS [21] de 31.01.2011, que os republicou em anexo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/295-2011-1125645
+  date: '2011-01-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/317/1999/08/11/p/dre
   label: null
@@ -93,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/67/2008/04/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/67/2008/04/10/p/dre
+- type: cites
+  target: pt:dre:249827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423062:por
+  label: null
+  source: null
 article_structure:
   article_count: 43
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:22Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +147,7 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
 Em 23 de Julho de 2008.
 
-**O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina. - O Secretário de Estado da Administração Pública, Gonçalo André Castilho dos Santos. - O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade.**
+O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita. - O Secretário de Estado do Tesouro e Finanças, Carlos Manuel Costa Pina. - O Secretário de Estado da Administração Pública, Gonçalo André Castilho dos Santos. - O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade.
 
 ## ANEXO — Estatutos da entidade regional de turismo de Lisboa e Vale do Tejo
 

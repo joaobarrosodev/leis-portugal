@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/25/2003/08/23/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2003-655964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:40:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d8343363886774f9190cf8c709ab35643bb34049cbcd096538509197f62ece8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11ddb72f8916de48a1ef32e05780524edc964ce5fe74e424a2ffc95d0d7ceba8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração dos Portos da Região Autónoma da Madeira
-- Sociedade Anónima
+- ÁREA de Jurisdição
 - BEM Móvel
 - Definição de Competências
 - Direcção Regional de Portos
 - Estatuto
-- ÁREA de Jurisdição
 - Licenciamento
-- Sociedade de Desenvolvimento da Ponta do Oeste
+- Madeira.região Autónoma
 - Porto do Funchal
 - Porto do Porto Santo
-- Madeira.região Autónoma
 - Portos
+- Sociedade Anónima
+- Sociedade de Desenvolvimento da Ponta do Oeste
 relationships:
 - type: amended_by
   target: pt:dre:901536098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:610209:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma contida no nº 7, in fine, do art. 2º do\
+    \ DLR 19/99/M de 01-Jul, com a redacção que lhe foi conferida neste diploma, pelo AC.654/2009.12.02.2010.TCS, DR.IS [30]\
+    \ de 12.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/654-2009-610209
+  date: '2010-02-12'
+- type: amended_by
+  target: pt:dre:901536098:por
+  label: Alterado, a partir de 31 de dezembro de 2024, com efeitos a 1 de janeiro de 2025, o artigo 5.º pelo(a) Decreto Legislativo
+    Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-2024-901536098
+  date: '2024-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/280/1993/08/13/p/dre
   label: null
@@ -112,16 +125,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:251873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 25
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:40:17Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +201,9 @@ Os artigos 2.º, 3.º e 12.º do [Decreto Legislativo Regional n.º 19/99/M](htt
 
 7 - O Governo Regional delimitará, por resolução, as áreas do domínio público da RAM afecto à APRAM, S. A., sobre as quais a Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Ponta do Oeste, S. A., exercerá, como sociedade de capitais exclusivamente públicos, o direito de utilização e administração dominial consignado no artigo 4.º do [Decreto Legislativo Regional n.º 18/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2000-314616), de 2 de Agosto, podendo autorizar igualmente as operações de desafectação dominial e de integração no património dessa sociedade necessárias ao cumprimento dos programas de desenvolvimento aprovados.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - ...
 
@@ -194,7 +237,9 @@ k) Licenciamento de empresas de trabalho portuário, assegurando a verificação
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 A APRAM, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o fiscal único, com as competências fixadas na lei e nos estatutos.»
 
@@ -208,7 +253,9 @@ Os artigos 3.º e 10.º dos Estatutos da APRAM - Administração dos Portos da R
 
 A APRAM, S. A., tem por objecto a administração dos portos, terminais, cais e marinas da Região Autónoma da Madeira sob a jurisdição portuária, visando a sua exploração económica, planeamento, construção, conservação e desenvolvimento e abrangendo o exercício das competências e prerrogativas de autoridade portuária que lhe estejam ou venham a estar cometidas.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 O conselho de administração gere os negócios sociais e pratica todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos sociais, competindo-lhe:
 
@@ -266,11 +313,15 @@ O anexo II do [Decreto Legislativo Regional n.º 19/99/M](https://diariodarepubl
 
 «ANEXO II
 
-###### Artigo 1.º — Áreas de jurisdição
+Artigo 1.º
+
+Áreas de jurisdição
 
 As áreas de jurisdição da APRAM, S. A., a que se refere o n.º 1 do artigo 7.º, são as definidas pelos limites estabelecidos nos artigos seguintes e as que futuramente venham a ser afectas à APRAM, S. A., ou integradas no seu património a qualquer título.
 
-###### Artigo 2.º — Porto do Funchal
+Artigo 2.º
+
+Porto do Funchal
 
 O porto do Funchal é delimitado, a norte, desde o final da Rua de Carvalho Araújo, abrangendo o prédio delimitado pelos pontos n.os 8 a 22, seguindo a margem sul da Avenida do Dr. Francisco de Sá Carneiro e da Avenida do Mar e das Comunidades Madeirenses até ao Forte de São Tiago, delimitado pelos pontos n.os 1 a 7 e 23 a 44, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -360,7 +411,9 @@ O porto do Funchal é delimitado, a norte, desde o final da Rua de Carvalho Ara�
 
 44 - x = 322272,74; y = 3613352,90.
 
-###### Artigo 3.º — Porto do Porto Santo
+Artigo 3.º
+
+Porto do Porto Santo
 
 O porto do Porto Santo compreende a faixa do domínio público marítimo cujo limite, a norte, se estende da praia do Calhau ao Penedo do Sono, delimitada pela ligação dos pontos n.os 1 a 21, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -406,7 +459,9 @@ O porto do Porto Santo compreende a faixa do domínio público marítimo cujo li
 
 21 - x = 3658777,3; y = 378834,45.
 
-###### Artigo 4.º — Porto do Caniçal
+Artigo 4.º
+
+Porto do Caniçal
 
 O porto do Caniçal compreende a faixa do domínio público marítimo delimitada pela ligação dos pontos n.os 1 a 73, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -554,7 +609,9 @@ O porto do Caniçal compreende a faixa do domínio público marítimo delimitada
 
 73 - x = 337575,99; y = 3623133,59.
 
-###### Artigo 5.º — Terminal marítimo do Porto Novo
+Artigo 5.º
+
+Terminal marítimo do Porto Novo
 
 O terminal marítimo do Porto Novo compreende os terrenos da zona de apoio logístico e a faixa de terreno do domínio público marítimo delimitados pela linha que une os pontos n.os 1 a 37, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -632,7 +689,9 @@ O terminal marítimo do Porto Novo compreende os terrenos da zona de apoio logí
 
 37 - x = 335098,71; y = 3615305,72.
 
-###### Artigo 6.º — Cais de Machico
+Artigo 6.º
+
+Cais de Machico
 
 O cais de Machico compreende a faixa do domínio público marítimo delimitada pela linha que une os pontos n.os 1 a 22, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -680,7 +739,9 @@ O cais de Machico compreende a faixa do domínio público marítimo delimitada p
 
 22 - x = 336002,526; y = 3619879,112.
 
-###### Artigo 7.º — Cais de Câmara de Lobos
+Artigo 7.º
+
+Cais de Câmara de Lobos
 
 O cais de Câmara de Lobos compreende a faixa do domínio público marítimo delimitada pela linha de ligação entre os pontos n.os 1 a 23, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -730,7 +791,9 @@ O cais de Câmara de Lobos compreende a faixa do domínio público marítimo del
 
 23 - x = 314825,9; y = 3612459,9.
 
-###### Artigo 8.º — Cais da Ribeira Brava
+Artigo 8.º
+
+Cais da Ribeira Brava
 
 O cais da Ribeira Brava compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 11, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -756,7 +819,9 @@ O cais da Ribeira Brava compreende a faixa do domínio público marítimo delimi
 
 11 - x = 306526,35; y = 3615196,05.
 
-###### Artigo 9.º — Cais da Calheta
+Artigo 9.º
+
+Cais da Calheta
 
 O cais da Calheta compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 8, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -776,7 +841,9 @@ O cais da Calheta compreende a faixa do domínio público marítimo delimitada p
 
 8 - x = 296659,57; y = 3621827,27.
 
-###### Artigo 10.º — Porto do Porto Moniz
+Artigo 10.º
+
+Porto do Porto Moniz
 
 O porto do Porto Moniz compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 43, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -866,7 +933,9 @@ O porto do Porto Moniz compreende a faixa do domínio público marítimo delimit
 
 43 - x = 298101,18; y = 3637681,45.
 
-###### Artigo 11.º — Terminal da praia Formosa
+Artigo 11.º
+
+Terminal da praia Formosa
 
 O terminal da praia Formosa compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 16, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -902,7 +971,9 @@ O terminal da praia Formosa compreende a faixa do domínio público marítimo de
 
 16 - x = 317177,42; y = 3612755,38.
 
-###### Artigo 12.º — Terminal dos Socorridos
+Artigo 12.º
+
+Terminal dos Socorridos
 
 O terminal dos Socorridos compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 19, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -944,7 +1015,9 @@ O terminal dos Socorridos compreende a faixa do domínio público marítimo deli
 
 19 - x = 316088,84; y = 3613093,79.
 
-###### Artigo 13.º — Cais da Ponta do Sol e lugar de Baixo
+Artigo 13.º
+
+Cais da Ponta do Sol e lugar de Baixo
 
 O cais da Ponta do Sol e lugar de Baixo compreende a faixa do domínio público marítimo delimitada pela linha que une os pontos n.os 1 a 28, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -1004,7 +1077,9 @@ O cais da Ponta do Sol e lugar de Baixo compreende a faixa do domínio público 
 
 28 - x = 302888,32; y = 3616413,15.
 
-###### Artigo 14.º — Cais de Santa Cruz
+Artigo 14.º
+
+Cais de Santa Cruz
 
 O cais de Santa Cruz compreende a faixa do domínio público delimitada pelos pontos n.os 1 a 25, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -1058,7 +1133,9 @@ O cais de Santa Cruz compreende a faixa do domínio público delimitada pelos po
 
 25 - x = 332843,401; y = 3616673,124.
 
-###### Artigo 15.º — Cais da Madalena do Mar
+Artigo 15.º
+
+Cais da Madalena do Mar
 
 O cais da Madalena do Mar compreende a faixa do domínio público marítimo delimitada pelos pontos n.os 1 a 16, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -1094,7 +1171,9 @@ O cais da Madalena do Mar compreende a faixa do domínio público marítimo deli
 
 16 - x = 301476,83; y = 3618782,51.
 
-###### Artigo 16.º — Cais do Seixal
+Artigo 16.º
+
+Cais do Seixal
 
 O cais do Seixal compreende a faixa do domínio público marítimo delimitada pela linha que liga os pontos n.os 1 a 51, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -1200,7 +1279,9 @@ O cais do Seixal compreende a faixa do domínio público marítimo delimitada pe
 
 51 - x = 304394,44; y = 3632420,65.
 
-###### Artigo 17.º — Cais do Porto da Cruz
+Artigo 17.º
+
+Cais do Porto da Cruz
 
 O cais do Porto da Cruz compreende a faixa do domínio público marítimo delimitada pela linha que liga os pontos n.os 1 a 13, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -1230,7 +1311,9 @@ O cais do Porto da Cruz compreende a faixa do domínio público marítimo delimi
 
 13 - x = 329413,38; y = 3627628,59.
 
-###### Artigo 18.º — Cais do Paul do Mar
+Artigo 18.º
+
+Cais do Paul do Mar
 
 O cais do Paul do Mar compreende a faixa do domínio público delimitada pelos pontos n.os 1 a 14, cujas coordenadas rectangulares UTM são as seguintes:
 
@@ -1270,10 +1353,10 @@ O cais do Paul do Mar compreende a faixa do domínio público delimitada pelos p
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 16 de Julho de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 5 de Agosto de 2003.**
+Assinado em 5 de Agosto de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/5/1998/04/27/m/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1998-176347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:39:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e7481b70f6217f27ee1e40694433995ff9ebcbd261bbb9ab72c926b3bd53543
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8af293790aa570780fede40da51d270eae022fbe7242649277735e693a88a5cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:39:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Coordenador Regional
-- Ensino Oficial
+- Educação Pré-escolar
+- Ensino Artístico
 - Ensino Básico
+- Ensino Oficial
 - Madeira.região Autónoma
 - Regime Jurídico
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:72991305:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:549037:por
+  label: "Mantido em vigor o DRR 27/2004/M, de 20-Out, conjugado com o presente diploma, para o funcionamento do Gabinete\
+    \ Coordenador de Educação Artística (GCEA) até à aprovação do diploma previsto no n.º 4 do art. 19.º do DRR.22/2005/M.30.03.2005.PG-RAM,\
+    \ DR.IS-B [79] de 22.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/22-2005-549037
+  date: '2005-03-30'
+- type: amended_by
+  target: pt:dre:72991305:por
+  label: Alterados os arts 2.º, 7.º e 8.º do presente diploma, pelo(a) Decreto Legislativo Regional n.º 17/2015/M - Diário
+    da República n.º 254/2015, Série I de 2015-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/17-2015-72991305
+  date: '2015-12-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/3/1992/02/18/m/dre
   label: null
@@ -86,16 +99,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:158576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:39:31Z'
   warnings: []
   errors: []
 ---
@@ -206,10 +227,10 @@ O presente diploma produz efeitos desde 1 de Setembro de 1997.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 4 de Março de 1998.
 
-**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
 
-**Assinado em 2 de Abril de 1998.**
+Assinado em 2 de Abril de 1998.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22000/28872888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/44-1980-461857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-11T00:00:00Z'
+  retrieved_at: '2026-10-23T15:25:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f922fee398281ae6c1d9864186faab4fda958b94b875367d4e32c08d7649e63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed4ecd6e31bf981a5c62b8d880716230d3ae57fa3741c69f7ff41d574f4c15f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:25:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Estabelecimento de Ensino
+- Pessoal Auxiliar
 relationships:
 - type: amended_by
   target: pt:dre:585039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:298052:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681601:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:585039:por
+  label: "Revogado pelo DRR.3/2002/A.2001.12.11.PG-RAA DR.IS-B [5] de 07/Jan/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2002-585039
+  date: '2001-12-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:25:14Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +122,13 @@ Assim, ao obrigo do n.º 1 do artigo 7.º do [Decreto-Lei n.º 338/79](https://d
 
 O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Constituem direitos e deveres do pessoal auxiliar e operário, além dos previstos na legislação em vigor, os constantes nos artigos 26.º a 28.º do [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março.
+Artigo 1.º - 1 - Constituem direitos e deveres do pessoal auxiliar e operário, além dos previstos na legislação em vigor, os constantes nos artigos 26.º a 28.º do [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março.
 
 2 - As funções do pessoal auxiliar e operário serão definidas por portaria do Secretário Regional da Educação e Cultura.
 
 3 - Compete ao director regional da Administração Escolar o despacho que autorize um intervalo entre os dois períodos diários superior a duas horas.
 
-###### Art. 2.º - 1 - Quando as necessidades de serviço o justifiquem, e mediante acordo do interessado, poderá o pessoal auxiliar e operário ser destacado para outras escolas ou para um quadro de um serviço do âmbito da Secretaria Regional da Educação e Cultura.
+Art. 2.º - 1 - Quando as necessidades de serviço o justifiquem, e mediante acordo do interessado, poderá o pessoal auxiliar e operário ser destacado para outras escolas ou para um quadro de um serviço do âmbito da Secretaria Regional da Educação e Cultura.
 
 2 - O destacamento não poderá prolongar-se para além de um ano, prorrogável, em idênticas condições, por igual período, excepto no caso previsto no n.º 5, não ocupando o funcionário vaga no quadro.
 
@@ -110,7 +138,7 @@ O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da 
 
 5 - O destacamento dentro da mesma localidade não carece de concordância do interessado e recairá sobre o funcionário da respectiva carreira com menos tempo de serviço prestado à função pública.
 
-###### Art. 3.º - 1 - Por despacho do director regional da Administração Escolar pode ser autorizada a permuta de lugares entre o pessoal da mesma carreira, a requerimento dos interessados e mediante concordância do conselho directivo ou do director escolar.
+Art. 3.º - 1 - Por despacho do director regional da Administração Escolar pode ser autorizada a permuta de lugares entre o pessoal da mesma carreira, a requerimento dos interessados e mediante concordância do conselho directivo ou do director escolar.
 
 2 - Não serão autorizadas permutas durante a vigência de qualquer concurso para a categoria e lugares em causa.
 
@@ -118,30 +146,30 @@ O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da 
 
 4 - O funcionário que haja permutado não poderá ser transferido por concurso durante um período de três anos.
 
-###### Art. 4.º As designações e categorias dos cozinheiros e ajudantes de cozinheiro previstas no mapa I anexo ao Decreto Regulamentar Regional n.º 21/80, de 14 de Maio, passam a ser as constantes do mapa I anexo ao presente diploma, regulando-se a respectiva carreira pelas disposições constantes do artigo 20.º do [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 25 de Março.
+Art. 4.º As designações e categorias dos cozinheiros e ajudantes de cozinheiro previstas no mapa I anexo ao Decreto Regulamentar Regional n.º 21/80, de 14 de Maio, passam a ser as constantes do mapa I anexo ao presente diploma, regulando-se a respectiva carreira pelas disposições constantes do artigo 20.º do [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 25 de Março.
 
 Art 5.º O pessoal eventual ou assalariado que a qualquer título preste, à data da publicação dos Decretos Regulamentares Regionais n.os [18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1980-681601), de 17 de Abril, e [21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909), de 14 de Maio, serviço em estabelecimentos de ensino oficiais dos ensinos primário, preparatório, secundário e médio e que não possua as habilitações legais exigidas passa à situação de servente contratado, sendo, porém, provido como contínuo logo que adquira as referidas habilitações.
 
-###### Art. 6.º - 1 - Poderá ser contratado, mediante autorização do director regional da Administração Escolar, pessoal em regime de prestação eventual de serviços, nos casos previstos no n.º 2 do artigo 12.º do [Decreto Regulamentar Regional n.º 18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1980-681601) e no artigo 10.º do [Decreto Regulamentar Regional n.º 21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909) e sempre que as necessidades de serviço o justifiquem.
+Art. 6.º - 1 - Poderá ser contratado, mediante autorização do director regional da Administração Escolar, pessoal em regime de prestação eventual de serviços, nos casos previstos no n.º 2 do artigo 12.º do [Decreto Regulamentar Regional n.º 18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1980-681601) e no artigo 10.º do [Decreto Regulamentar Regional n.º 21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909) e sempre que as necessidades de serviço o justifiquem.
 
 2 - O contrato referido no número anterior será obrigatoriamente reduzido a escrito, dele constando a tarefa ou função a desempenhar, a remuneração e o termo do contrato, sujeito a prazo ou a verificação de facto certo, bem como a menção de que não confere, em caso algum, a qualidade de agente administrativo, devendo ser feitos os descontos para a respectiva instituição de previdência.
 
-###### Art. 7.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto deste e do Secretário Regional das Finanças ou do Secretário Regional da Administração Pública, consoante a sua natureza.
+Art. 7.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Secretário Regional da Educação e Cultura ou por despacho conjunto deste e do Secretário Regional das Finanças ou do Secretário Regional da Administração Pública, consoante a sua natureza.
 
-###### Art. 8.º As disposições constantes do presente diploma, assim como as dos Decretos Regulamentares Regionais n.os [18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1980-681601), de 17 de Abril, e [21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909), de 14 de Maio, produzem todos os seus efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto à contagem do tempo de serviço e a vencimentos.
+Art. 8.º As disposições constantes do presente diploma, assim como as dos Decretos Regulamentares Regionais n.os [18/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1980-681601), de 17 de Abril, e [21/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-1980-473909), de 14 de Maio, produzem todos os seus efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto à contagem do tempo de serviço e a vencimentos.
 
 Aprovado pelo Governo Regional em 12 de Agosto de 1980.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em 9 de Setembro de 1980.**
+Assinado em 9 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.
 
 Mapa I a que se refere o artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/09/22000/28872888.pdf))](https://files.diariodarepublica.pt/1s/1980/09/22000/28872888.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/09/22000/28872888.pdf)
 
-**O Ministro da República, Henrique Afonso da Silva Horta.**
+O Ministro da República, Henrique Afonso da Silva Horta.

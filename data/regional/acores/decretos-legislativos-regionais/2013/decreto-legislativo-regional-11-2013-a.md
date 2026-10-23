@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/11/2013/08/22/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2013-499065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T15:21:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f151e989f879b6ba50bc01fb0c8fdd6992b04437be358aa670231ce96cc580c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25b36aa12fbc851400858b20990ee3d304c94cdad54ba7b0985d78e3841e99e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Família
-- Financiamento
+- Açores
 - Comparticipação
 - Concurso
+- Conselho do Governo Regional
 - Definição de Competências
 - Diretor Regional
 - Ensino Cooperativo
 - Ensino Doméstico
+- Ensino Individual
 - Ensino Particular
 - Ensino Solidário
 - Escola Profissional
 - Estatuto
 - Estudante
-- Conselho do Governo Regional
+- Família
+- Financiamento
 - Habilitações Literárias
 - Pessoal Docente
-- Açores
-- Ensino Individual
 relationships:
 - type: cites
   target: celex:31985D0368
@@ -94,15 +94,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/declegreg/26/2005/11/04/a/dre
 article_structure:
-  article_count: 139
+  article_count: 128
   section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:21:42Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +139,9 @@ Os artigos 10.º, 16.º, 18.º, 51.º, 63.º, 67.º, 83.º, 86.º, 90.º, 91.º,
 
 4- [Anterior n.º 3]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1- [...]
 
@@ -147,13 +149,17 @@ Os artigos 10.º, 16.º, 18.º, 51.º, 63.º, 67.º, 83.º, 86.º, 90.º, 91.º,
 
 3- O requerimento deve ser dirigido ao diretor regional competente até 15 de fevereiro de cada ano, com vista ao ano escolar seguinte.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1- [...]
 
 2- O período de suspensão, nos termos do número anterior, é comunicado ao diretor regional competente, que, se entender autorizá-lo, fixa início e termo.
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 1- [...]
 
@@ -165,7 +171,9 @@ Os artigos 10.º, 16.º, 18.º, 51.º, 63.º, 67.º, 83.º, 86.º, 90.º, 91.º,
 
 5- Sem prejuízo do disposto nos números anteriores, a atribuição dos benefícios e regalias anteriormente referidos só tem lugar nas valências educativas com contrato de associação.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1- Aos docentes das valências educativas privadas que transitem para o ensino público é contado o tempo de serviço prestado no ensino particular, designadamente para progressão na carreira, e enquadramento na alínea a) do n.º 6 do artigo 9.º do Regulamento de Concurso do Pessoal Docente da Educação Pré-Escolar e Ensinos Básico e Secundário, aprovado pelo Decreto Legislativo Regional n.º 22/2012/A, de 30 de maio, retificado pela Declaração de Retificação n.º 39/2012, de 24 de julho, em igualdade de condições com o serviço prestado nas escolas públicas, desde que se verifiquem as seguintes condições:
 
@@ -191,7 +199,9 @@ d) [...]
 
 4- [...]
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1- A comparticipação a conceder é determinada por aluno em frequência efetiva da escola e é fixada, para cada modalidade, ciclo e nível de ensino e modalidade de contrato.
 
@@ -203,7 +213,9 @@ d) [...]
 
 5- A comparticipação referida no presente artigo é fixada em portaria conjunta dos membros do Governo Regional competentes em matéria de finanças e educação.
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1- [...]
 
@@ -217,7 +229,9 @@ d) [...]
 
 6- [...]
 
-###### Artigo 86.º — [...]
+Artigo 86.º
+
+[...]
 
 1- [...]
 
@@ -237,7 +251,9 @@ g) Cursos de ensino recorrente básico ou secundário, conducentes a certificaç
 
 2- [...].
 
-###### Artigo 90.º — [...]
+Artigo 90.º
+
+[...]
 
 1- [...]
 
@@ -249,7 +265,9 @@ g) Cursos de ensino recorrente básico ou secundário, conducentes a certificaç
 
 5- Só é permitido fracionamento de horário ou o recurso à prestação de serviços quando se demonstre não ter sido possível contratar nos termos do número anterior.
 
-###### Artigo 91.º — [...]
+Artigo 91.º
+
+[...]
 
 1- [...]
 
@@ -267,7 +285,9 @@ e) [...]
 
 3- Sempre que as escolas profissionais privadas tiverem uma comparticipação pública nas despesas inerentes às atividades formativas e educativas superior a 50% do respetivo orçamento para o efeito, ficam obrigadas a cumprir as regras relativas ao procedimento concursal para efeitos de recrutamento.
 
-###### Artigo 103.º — [...]
+Artigo 103.º
+
+[...]
 
 1- [...]
 
@@ -279,7 +299,9 @@ b) [...]
 
 3- Por resolução, devidamente fundamentada, do Conselho do Governo Regional, na zona prevista na alínea a) do n.º 2 do artigo 102.º, o valor do financiamento, a fundo perdido, referido na alínea a) do n.º 1 e no número anterior pode ser fixado até 100 % do custo total da obra, nos casos de construção, ampliação, remodelação ou beneficiação de infraestruturas de educação pré-escolar.
 
-###### Artigo 111.º — Ensino individual e doméstico
+Artigo 111.º
+
+Ensino individual e doméstico
 
 1- [...]
 
@@ -335,9 +357,9 @@ Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta,
 
 O Vice-Presidente da Assembleia Legislativa, em exercício, Ricardo Manuel Viveiros Cabral.
 
-**Assinado em Angra do Heroísmo em 7 de agosto de 2013.**
+Assinado em Angra do Heroísmo em 7 de agosto de 2013.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/03/05900/10151020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1988-287413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T15:26:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 713636d3921a2d1de10d05f4daf42dfeb5ec6c69cdc3f256304d8bbb95545456
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dde41393f29ead0985b3e931dacf59d3e2ff79b8cc8d31a133067c2c92c7af34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:26:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Gabinete Técnico
+- Governo Regional
+- Orgânica
+- Presidência do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:522847:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:547013:por
+  label: "Alterados os artigos 4.º, 20.º, 21.º e o quadro de pessoal a que se refere o artigo 16.º, pelo DRR.27/89/A.31.08.1989.GR-RAA,\
+    \ DR.IS [200] de 31.08.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-1989-547013
+  date: '1989-08-31'
+- type: amended_by
+  target: pt:dre:261330:por
+  label: "Alterados os artigos 17.º, 19.º, 20.º, 21.º, 22.º, aditado um n.º 3 ao artigo 4.º e os artigos 20.º-A, 23.º-A ,\
+    \ 23.º-B, e revogados os artigos 26.º, 27.º e 29.º, pelo DRR.37/92/A.19.08.1992.GR-RAA, DR.IS-B [190] de 19.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/37-1992-261330
+  date: '1992-08-19'
+- type: cites
+  target: pt:dre:139951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576554:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682232:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522847:por
+  label: "Revogado pelo DRR.15/98/A.1998.04.13.PG-RAA, DR.IS-B [110] de 13/Mai/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/15-1998-522847
+  date: '1998-04-13'
 article_structure:
   article_count: 31
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 12
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:26:59Z'
   warnings: []
   errors: []
 ---
@@ -218,7 +272,9 @@ a) Secção de Expediente, Arquivo, Documentação, Contabilidade e Pessoal;
 
 b) Secção de Apoio ao Jornal Oficial.
 
-###### Artigo 10.º — Secção de Expediente, Arquivo, Documentação, Contabilidade e Pessoal
+###### Artigo 10.º
+
+#### Secção de Expediente, Arquivo, Documentação, Contabilidade e Pessoal
 
 À Secção de Expediente, Arquivo, Documentação, Contabilidade e Pessoal compete, em especial:
 
@@ -248,7 +304,9 @@ m) A guarda, conservação e administração dos edifícios, com seu recheio e r
 
 n) Prestar apoio ao Gabinete Técnico.
 
-###### Artigo 11.º — Secção de Apoio ao Jornal Oficial
+###### Artigo 11.º
+
+#### Secção de Apoio ao Jornal Oficial
 
 Compete à Secção de Apoio ao Jornal Oficial:
 
@@ -434,14 +492,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Vila do Porto, em 17 de Dezembro de 1987.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo, em 9 de Fevereiro de 1988.**
+Assinado em Angra do Heroísmo, em 9 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 16.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/03/05900/10151020.pdf))](https://files.diariodarepublica.pt/1s/1988/03/05900/10151020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/03/05900/10151020.pdf)

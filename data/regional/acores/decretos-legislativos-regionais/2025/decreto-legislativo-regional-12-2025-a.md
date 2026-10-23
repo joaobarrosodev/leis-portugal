@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2025/02/03700/0002700039.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2025/02/21/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2025-908290398
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T15:23:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d838eaae86452cebc0da8d0d228b452ff6deb64be393853f3ac320d60a8fa02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89ac66c62b94c3a1917ec3bf24002aa4104430aaf4cb2f6bdfe5d75dde66c442
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:23:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
 - Comissão de Análise
 - Comunicação Social
 - Difusão da Informação
+- Financiamento
 - Imprensa Regional
 - Incentivos à Comunicação Social
 - Meios de Comunicação Privados
-- Radiodifusão
 - Promedia
 - Publicação
+- Radiodifusão
 - Regime de Apoio
-- Açores
 - Televisão
 relationships:
 - type: cites
@@ -103,16 +103,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/1999/01/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/1999/01/13/p/dre
+- type: cites
+  target: pt:dre:108280431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137261495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:158698042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520203:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:decreto-legislativo-regional:7/2017/A
+  label: Revoga, a partir de 26 de fevereiro de 2025, com efeitos a 1 de janeiro de 2025, o Decreto Legislativo Regional n.º
+    7/2017/A, de 10 de outubro, Diário da República n.º 195/2017, Série I
+  source: null
+  date: '2017-10-10'
 article_structure:
   article_count: 40
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:23:15Z'
   warnings: []
   errors: []
 ---
@@ -529,7 +559,7 @@ e) Parecer prévio da comissão de análise e acompanhamento referente a cada ca
 
 1 - Na determinação das formas de efetivação da responsabilidade civil ou criminal emergente de factos cometidos no âmbito da execução dos apoios previstos no presente diploma, observam-se os princípios gerais estabelecidos na lei, nomeadamente:
 
-a) Sem prejuízo do previsto nos n.<sup>os</sup>3 e 4 do artigo 35.º, o incumprimento por parte dos beneficiários das obrigações estabelecidas no presente diploma, e ainda a prestação de falsas declarações ou falsificação de documentos, sem prejuízo da eventual responsabilidade civil ou criminal a que haja lugar, determinam a revogação do despacho que concedeu o apoio e a devolução dos montantes percebidos, acrescidos de 25 %, sob pena de execução fiscal;
+a) Sem prejuízo do previsto nos n.os3 e 4 do artigo 35.º, o incumprimento por parte dos beneficiários das obrigações estabelecidas no presente diploma, e ainda a prestação de falsas declarações ou falsificação de documentos, sem prejuízo da eventual responsabilidade civil ou criminal a que haja lugar, determinam a revogação do despacho que concedeu o apoio e a devolução dos montantes percebidos, acrescidos de 25 %, sob pena de execução fiscal;
 
 b) A devolução dos montantes, de acordo com o previsto na alínea anterior, é acrescida dos juros de mora aplicáveis às dívidas ao Estado, a contar da data da notificação ao beneficiário até à sua restituição integral;
 
@@ -545,7 +575,7 @@ d) Os beneficiários ficam obrigados a manter o quadro efetivo de trabalhadores 
 
 ###### Artigo 38.º — Revogação
 
-É revogado o [Decreto Legislativo Regional n.º 7/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2017-108280431), de 10 de outubro, alterado e republicado pelos Decretos Legislativos Regionais n.<sup>os</sup>[16/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2020-137261495), de 6 de julho, e [4/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2021-158698042), de 3 de março.
+É revogado o [Decreto Legislativo Regional n.º 7/2017/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2017-108280431), de 10 de outubro, alterado e republicado pelos Decretos Legislativos Regionais n.os[16/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2020-137261495), de 6 de julho, e [4/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2021-158698042), de 3 de março.
 
 ###### Artigo 39.º — Legislação supletiva
 
@@ -557,10 +587,12 @@ O presente diploma entra em vigor cinco dias após a sua publicação e produz e
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de janeiro de 2025.
 
-**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**
+O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.
 
-**Assinado em Angra do Heroísmo em 18 de fevereiro de 2025.**
+Assinado em Angra do Heroísmo em 18 de fevereiro de 2025.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+118711084

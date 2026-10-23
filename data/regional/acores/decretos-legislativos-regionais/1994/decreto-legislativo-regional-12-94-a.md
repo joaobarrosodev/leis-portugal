@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/05/104a00/23032303.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/1994/05/05/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-1994-250377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96044ebebab8045fa225bc102ab3f7a69b982bd3ae51db3411f2a28d0099e4fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33944c7110f6c9a32b900fa9e394a944f1b9d555cd221398b6f9bc3106f3ab1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,31 +66,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Publicidade
-- Veículo
-- Tabaco
-- Equipamento de Veículo
 - Açores
 - Desporto
+- Equipamento de Veículo
+- Publicidade
+- Tabaco
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:520609:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517588:por
+  label: "Prorrogado até 31 de Março de 2001 o prazo estabelecido no art único pelo DLR.3/97/A.1997.02.19.ALR-RAA, DR.IS-A\
+    \ [65] de 1997.03.18\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/3-1997-517588
+  date: '1997-02-19'
+- type: amended_by
+  target: pt:dre:303388:por
+  label: "Prorrogado até 31 de Dezembro de 2005 o prazo estabelecido no art. único pelo DLR.10/2002/A.2002.03.14.ALR-RAA DR.IS-A\
+    \ [85] de 11/Abr/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/10-2002-303388
+  date: '2002-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/242/1991/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/242/1991/07/05/p/dre
+- type: cites
+  target: pt:dre:565417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667900:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520609:por
+  label: "Revogado a partir de 23.05.2007 pelo DLR.11/2007/A.09.05.2007.AL-RAA, DR.IS [98] de 22.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/11-2007-520609
+  date: '2007-05-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:25Z'
   warnings: []
   errors: []
 ---
@@ -115,14 +144,14 @@ Considerando por isso o interesse de se alargar excepcionalmente essa faculdade 
 
 A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
 
-###### Artigo único. É excepcionalmente permitido, até 31 de Dezembro de 1996, o patrocínio publicitário de produtos à base do tabaco em provas desportivas de automobilismo a realizar na Região Autónoma dos Açores, no período de duração das provas, através da colocação do nome, marca ou emblema do produto em peças do equipamento dos intervenientes nessas provas desportivas e em cartazes ou placards situados ou no interior dos recintos, quando as provas se realizem em recintos fechados, ou fora destes, em locais do percurso em que as mesmas decorram.
+Artigo único. É excepcionalmente permitido, até 31 de Dezembro de 1996, o patrocínio publicitário de produtos à base do tabaco em provas desportivas de automobilismo a realizar na Região Autónoma dos Açores, no período de duração das provas, através da colocação do nome, marca ou emblema do produto em peças do equipamento dos intervenientes nessas provas desportivas e em cartazes ou placards situados ou no interior dos recintos, quando as provas se realizem em recintos fechados, ou fora destes, em locais do percurso em que as mesmas decorram.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 16 de Março de 1994.
 
-**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
 
-**Assinado em Angra do Heroísmo em 12 de Abril de 1994.**
+Assinado em Angra do Heroísmo em 12 de Abril de 1994.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

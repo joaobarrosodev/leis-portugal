@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/7-1982-376261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-10-26T00:00:00Z'
+  retrieved_at: '2026-10-23T15:32:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4ed3609bbaad7a89f7e5014868e313dae1f0b6374a00ef0b41782a6a5178d1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faeda1d3b01583973cab9498e7b7baf290cf2ae2112bd4e380d89af4cfd90363
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:32:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Orçamento Regional
+- Plano Económico
+relationships:
+- type: cites
+  target: pt:dre:447894:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609097:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:32:39Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +105,7 @@ A Comissão Permanente para os Assuntos Económicos e Financeiros da Assembleia 
 
 Assembleia Regional dos Açores, 17 de Agosto de 1982. - A Comissão para os Assuntos Económicos e Financeiros: Carlos Teixeira, presidente. - José Adriano Borges de Carvalho, relator. - José Rodrigues Ribeiro, secretário. - Fernando Faria Ribeiro - Carlos César - Carlos Mendonça - Fernando Monteiro.
 
-**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
 
 ## ANEXO I
 
@@ -102,7 +117,7 @@ Na presente revisão foram também considerados alguns ajustamentos orçamentais
 
 Resumo das despesas por secretarias regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Aprovada em Conselho, 27 de Julho de 1982. - O Presidente do Governo Regional, João Bosco Mota Amaral.
 
@@ -122,7 +137,7 @@ Esta revisão é apresentada sem alteração do valor global do Plano. Não excl
 
 Neste sector propõe-se um reforço de 15000 contos, com incidência nos seguintes projectos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - Os reforços ora propostos verificam-se por força do encarecimento dos materiais e mão-de-obra.
 
@@ -130,7 +145,7 @@ Fundamentação. - Os reforços ora propostos verificam-se por força do encarec
 
 Neste sector prevê-se um reforço de 40000 contos, destinado ao programa n.º 7 - Melhoria da rede de serviços:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - O reforço destina-se a financiar a acção denominada «Construção do Hospital da Horta» e justifica-se quer pelo agravamento dos preços dos materiais e mão-de-obra, quer pelo facto de as obras estarem o decorrer a um ritmo superior ao previsto.
 
@@ -138,7 +153,7 @@ Fundamentação. - O reforço destina-se a financiar a acção denominada «Cons
 
 No sector da segurança social há um aumento de dotação de 2500 contos afectando o seguinte programa e projecto:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - O reforço da dotação do projecto n.º 12.1 destina-se a fazer face a dificuldades e realizações relativas à OSTRAP.
 
@@ -146,7 +161,7 @@ Fundamentação. - O reforço da dotação do projecto n.º 12.1 destina-se a fa
 
 Neste sector verifica-se uma redução de 5000 contos no programa n.º 13 - Formação profissional:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - Sendo previsível que o fornecimento de algum equipamento destinado ao Centro de Formação Profissional das Capelas só possa ocorrer no próximo ano, liberta-se a verba de 5000 contos.
 
@@ -154,7 +169,7 @@ Fundamentação. - Sendo previsível que o fornecimento de algum equipamento des
 
 Neste sector prevê-se um reforço de 12000 contos com incidência nos programas n.os 15 - Defesa dos recursos hídricos e 16 - Equipamento urbano:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - A dotação inicial do programa n.º 15 não foi suficiente para satisfazer as necessidades financeiras de todas as acções, sendo necessário um reforço de 2000 contos.
 
@@ -164,7 +179,7 @@ No que respeita ao programa n.º 16, o reforço proposto torna-se urgente para s
 
 No sector da agricultura, silvicultura e pecuária verifica-se uma redução de 58974 contos, com incidência nos seguintes programas e projectos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - A anulação verificada no programa n.º 22 deve-se ao facto de se terem verificado alguns atrasos no decorrer do processo de negociação tendentes ao empréstimo que irá financiar parte deste programa.
 
@@ -182,7 +197,7 @@ A redução de 23000 contos no programa n.º 26 resulta do facto de a maior part
 
 O sector das pescas vê aumentada a sua dotação inicial em 19000 contos, verba que se reflecte nos seguintes programas e projectos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - O projecto n.º 28.1 sofre uma redução de 16000 contos em virtude de se encontrar atrasada a construção das unidades previstas.
 
@@ -200,7 +215,7 @@ O projecto n.º 29.2 - Apoio, instalação e funcionamento do serviço de primei
 
 No sector da indústria verificou-se uma redução de 58000 contos, com incidência nos programas e projectos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - A anulação referente ao projecto n.º 30.1 e ao programa n.º 32 justifica-se pelo facto de a sua execução depender de legislação que não foi publicada no início do ano.
 
@@ -212,7 +227,7 @@ A criação do programa n.º 30-A resulta da aprovação de legislação pela As
 
 A dotação do sector da energia é reforçada em 1300 contos, distribuídos pelos programas e projectos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - A redução proposta no programa n.º 36 justifica-se pelo facto de as experiências de racionalização do consumo energético não terem sido postas totalmente em prática.
 
@@ -222,7 +237,7 @@ A criação do programa n.º 34-A e respectivos projectos visa satisfazer divers
 
 No sector do comércio há uma redução de 23000 contos, que se reflecte nos projectos e programas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - A redução proposta no projecto n.º 37.1 é justificada pelo facto de a legislação que lhe diz respeito não ter sido publicada no início do ano.
 
@@ -236,7 +251,7 @@ A anulação proposta no projecto n.º 38.2 deve-se à não concessão do apoio 
 
 Neste sector prevê-se um reforço de 50000 contos, que incidirá exclusivamente no programa n.º 42 - Estradas regionais, para além de outras transferências interprogramas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - O reforço proposto para o programa n.º 42 destina-se a fazer face aos encargos adicionais decorrentes das revisões de preços efectuadas e que ultrapassaram as previsões.
 
@@ -248,7 +263,7 @@ O reforço do programa n.º 46 destina-se a financiar a exploração da SATA, qu
 
 A dotação inicial deste sector (97000 contos) é reforçada com 31000 contos, como reflexo no programa n.º 47 - Rede de armazenagem, abate e distribuição, da forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - Contrariamente ao programado, não foi possível iniciar os trabalhos em 1981, tornando-se necessário reforçar a dotação para o ano em curso. O reforço é também devido ao agravamento dos custos de construção - mão-de-obra e materiais.
 
@@ -256,7 +271,7 @@ Fundamentação. - Contrariamente ao programado, não foi possível iniciar os t
 
 A dotação inicial do sector de investigação científica e tecnológica é reduzida em 2000 contos no projecto n.º 48.1 - Pesquisa energética, segundo se discrimina no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - A redução resulta de um ajustamento no custo do projecto.
 
@@ -264,7 +279,7 @@ Fundamentação. - A redução resulta de um ajustamento no custo do projecto.
 
 Neste sector propõe-se uma redução de 22000 contos, assim distribuída:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - No projecto n.º 49.1 a anulação verifica-se em consequência de atrasos em algumas acções.
 
@@ -274,7 +289,7 @@ Na proposta n.º 49.2 os processos inerentes à cedência de equipamento diverso
 
 À dotação inicial deste sector foram deduzidos 23500 contos, assim distribuídos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - No referente ao projecto n.º 50.1, a anulação é proposta em virtude de o actual ritmo de execução não prever a total utilização da verba.
 
@@ -288,7 +303,7 @@ Quanto à redução do projecto n.º 50.3, tal facto deve-se a atrasos no fornec
 
 Neste sector verifica-se uma anulação de 14000 contos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - A redução de 14000 contos neste programa é compatível com a carteira de projectos existente na Secretaria Regional da Administração Pública e destina-se a compensar as verbas destinadas a aplicar a Lei das Finanças Locais.
 
@@ -296,16 +311,16 @@ Aplicação da Lei das Finanças Locais
 
 É criado um novo programa, «Aplicação da Lei das Finanças Locais», com a dotação de 35674 contos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Fundamentação. - Com a aprovação pelo Governo Regional do decreto regulamentar que aplica à Região durante o corrente ano o disposto na [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), ficou também aprovado o Plano de Compromissos do Governo Regional, do qual uma parcela terá de ser suportada directamente pelo Governo Regional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Mapas por sectores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
 
 Mapas por entidades executoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf))](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/10/24800/35413550.pdf)

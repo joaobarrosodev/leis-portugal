@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 16/2007, 1º Suplemento, Série I de 2007-01-23
   number: '16'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 636-(2) a 636-(124)
   pdf_url: https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/110-a/2007/01/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-a-2007-154190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cb55312faa98e1080594d1cdd3d9669910a39da47174dc3ff85b17cb633c0a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 923cc23d6a84ab7cacf2f65896b90f1bb4a3bd3ae54c90ce20330957e0076ed7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,29 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Acompanhamento Familiar
+- Apoio Domiciliário
 - Assistência Médica
 - Assistência Medicamentosa
-- Lares
-- Instituto da Droga e da Toxicodependência
+- Centro de Saúde
 - Consulta Médica
-- Internamento Hospitalar
 - Cuidados de Enfermagem
-- Acompanhamento Familiar
-- Serviço Nacional de Saúde
+- Cuidados Médicos
+- Estabelecimento Hospitalar
 - Hospital Central
 - Hospital Distrital
+- Instituto da Droga e da Toxicodependência
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Instituto Português de Oncologia de Francisco Gentil
 - Instituto Português de Sangue
-- Centro de Saúde
+- Internamento Hospitalar
+- Lares
 - Meios Complementares de Diagnóstico
 - Preço
 - Prestação de Serviços
-- Instituto Nacional de Saúde Dr Ricardo Jorge
-- Cuidados Médicos
-- Apoio Domiciliário
 - Regime Ambulatório
-- Instituto Português de Oncologia de Francisco Gentil
 - Regulamento
-- Estabelecimento Hospitalar
+- Serviço Nacional de Saúde
 - Subsistemas de Saúde
 - Tabela de Cuidados de Saúde
 relationships:
@@ -97,6 +97,18 @@ relationships:
   target: pt:dre:242066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:395285:por
+  label: "Alterados os anexos ii e iii da Port 567/2006, de 12-Jun, na redacção (com republicação) do presente diploma, pela\
+    \ PORT.781-A/2007.16.07.2007.MS, DR.IS [135]Supl de 16.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/781-a-2007-395285
+  date: '2007-07-16'
+- type: amended_by
+  target: pt:dre:242066:por
+  label: "Dada nova redacção ao nº 2º da Port 132/2009 de 30-Jan [introduzindo a revogação da Port 567/2006 de 12-Jun, com\
+    \ a redacção do presente diploma] pela PORT.839-A/2009.31.07.2009.MS, DR.IS [147-Supl] de 31.07.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-a-2009-242066
+  date: '2009-07-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -105,16 +117,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/567/2006/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/567/2006/06/12/p/dre
+- type: cites
+  target: pt:dre:346716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:601735:por
+  label: "Revogado, a partir de 01.02.2009, pela PORT.132/2009.30.01.2009.MS, DR.IS [21] de 30.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/132-2009-601735
+  date: '2009-01-30'
 article_structure:
-  article_count: 24
+  article_count: 18
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:18:15Z'
   warnings: []
   errors: []
 ---
@@ -145,7 +170,9 @@ Manda o Governo, pelo Ministro da Saúde, o seguinte:
 
 2 - Encontram-se ainda abrangidos pela presente portaria, no âmbito das respectivas valências, o Instituto Nacional de Saúde Dr. Ricardo Jorge, o Instituto Português do Sangue e o Instituto da Droga e da Toxicodependência, salvo quando o valor das prestações de saúde esteja fixado em tabelas próprias.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 ...
 
@@ -187,7 +214,9 @@ r) ...
 
 s) 'Tempo de internamento' o total de dias utilizados por todos os doentes internados nos diversos serviços de um estabelecimento de saúde com internamento num período, exceptuando os dias das altas dos mesmos doentes nesse estabelecimento de saúde. Não são incluídos os dias de estada em berçário ou em serviço de observação de serviço de urgência. Contudo, para efeitos de classificação dos doentes em grupos de diagnósticos homogéneos e de facturação incluem-se na contagem do tempo de internamento os dias desde a admissão no serviço de urgência (nos casos em que o doente tenha sido admitido através do serviço de urgência), bem como os dias de estada em berçário.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -205,7 +234,9 @@ s) 'Tempo de internamento' o total de dias utilizados por todos os doentes inter
 
 8 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -215,7 +246,9 @@ s) 'Tempo de internamento' o total de dias utilizados por todos os doentes inter
 
 4 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -229,13 +262,17 @@ s) 'Tempo de internamento' o total de dias utilizados por todos os doentes inter
 
 6 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Os cuidados de saúde prestados em hospital de dia são facturados de acordo com os valores constantes das tabelas do anexo III, excepto para os procedimentos que integrem o anexo II, que dão lugar a facturação por GDH nos termos dos n.os 1 e 2 do artigo anterior.
 
 2 - Aos valores do número anterior acresce o valor do transporte nos termos previstos no anexo III.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -257,9 +294,9 @@ c) ...
 
 ## ANEXO II — Tabela Nacional Grupos de Diagnóstico Homogéneo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf)
 
 3.º São republicados, em anexo, os anexos I, II e III da [Portaria n.º 567/2006](https://diariodarepublica.pt/dr/detalhe/portaria/567-2006-346716), de 12 de Junho, com as alterações e rectificações introduzidas pela presente Portaria.
 
@@ -571,7 +608,7 @@ c) Hospitais Nível 1 - 50 (euro).
 
 3 - A facturação das prestações de saúde realizadas a doentes em regime ambulatório deve ser efectuada após a realização dos cuidados.
 
-## Apêndice
+Apêndice
 
 Grupos de hospitais para efeitos de facturação dos episódios da urgência:
 
@@ -717,7 +754,7 @@ Hospital do Montijo
 
 Hospital de Santa Luzia de Elvas
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf)
 
 ## ANEXO III — Tabelas de Meios Complementares de Diagnóstico e Terapêutica
 
@@ -729,4 +766,4 @@ Hospital de Santa Luzia de Elvas
 
 4 - Os medicamentos de fornecimento obrigatório, pelas farmácias dos hospitais, aos doentes em regime ambulatório, são facturados ao preço de custo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf))](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/01/01601/00020124.pdf)

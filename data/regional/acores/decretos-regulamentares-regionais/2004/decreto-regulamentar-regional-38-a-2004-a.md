@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 289/2004, 1º Suplemento, Série I-B de 2004-12-11
   number: '289'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 7078-(2) a 7078-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/12/289b01/00020006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/38-a/2004/12/11/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/38-a-2004-233763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T15:29:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3606109e55a6adb14a06478257f15c257eb748246d2dcdc108ce46d3348467ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac85c34173b6dbc5ea5a9c2ab49766de98271bc99c21ac5d443537b1c66ec2e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:29:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,63 +65,75 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
-- Secretaria Regional da Economia
-- Governo Regional
-- Direcção Regional das Pescas
-- Secretaria Regional da Agricultura e Florestas
+- Açores
 - Definição de Competências
 - Direcção Regional da Ciência e Tecnologia
-- Secretaria Regional da Educação e Ciência
 - Direcção Regional da Cultura
-- Presidência do Governo Regional
 - Direcção Regional da Educação
+- Direcção Regional da Educação Física e Desportos
 - Direcção Regional da Habitação
+- Direcção Regional da Juventude Emprego e Formação Profissional
 - Direcção Regional da Saúde
 - Direcção Regional da Solidariedade e Segurança Social
 - Direcção Regional das Comunidades
-- Secretário Regional da Presidência
+- Direcção Regional das Pescas
 - Direcção Regional de Apoio à Coesão Económica
+- Direcção Regional de Estudos e Planeamento dos Açores
 - Direcção Regional de Obras Públicas e Transportes Terrestres
 - Direcção Regional de Organização e Administração Pública
 - Direcção Regional de Turismo
 - Direcção Regional do Ambiente
 - Direcção Regional do Comércio Indústria e Energia
 - Direcção Regional do Desenvolvimento Agrário
-- Vice-presidência do Governo Regional
+- Direcção Regional do Orçamento e Tesouro
 - Direcção Regional do Ordenamento do Território e dos Recursos Hídricos
 - Direcção Regional dos Assuntos Comunitários da Agricultura
 - Direcção Regional dos Assuntos Europeus
 - Direcção Regional dos Recursos Florestais
 - Direcção Regional dos Transportes Aéreos e Marítimos
-- Direcção Regional de Estudos e Planeamento dos Açores
-- Secretaria Regional do Ambiente e do MAR
-- Presidente do Governo Regional
-- Subsecretário Regional
+- Governo Regional
 - Inspecção Administrativa Regional
 - Laboratório Regional de Engenharia Civil
-- Secretaria Regional da Habitação e Equipamentos
-- Secretaria Regional dos Assuntos Sociais
 - Orgânica
-- Direcção Regional do Orçamento e Tesouro
-- Direcção Regional da Juventude Emprego e Formação Profissional
-- Direcção Regional da Educação Física e Desportos
+- Presidência do Governo Regional
+- Presidente do Governo Regional
+- Região Autónoma
+- Secretaria Regional da Agricultura e Florestas
+- Secretaria Regional da Economia
+- Secretaria Regional da Educação e Ciência
+- Secretaria Regional da Habitação e Equipamentos
+- Secretaria Regional do Ambiente e do MAR
+- Secretaria Regional dos Assuntos Sociais
 - Secretário Regional Adjunto do Vice-presidente
 - Secretário Regional da Agricultura e Florestas
 - Secretário Regional da Economia
 - Secretário Regional da Educação e Ciência
 - Secretário Regional da Habitação e Equipamentos
+- Secretário Regional da Presidência
 - Secretário Regional do Ambiente e do MAR
 - Secretário Regional dos Assuntos Sociais
 - Serviço Regional de Estatística dos Açores
-- Açores
+- Subsecretário Regional
 - Subsecretário Regional das Pescas
+- Vice-presidência do Governo Regional
 - Vice-presidente do Governo Regional
 relationships:
 - type: amended_by
   target: pt:dre:444253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353951:por
+  label: "Dada nova redacção aos arts. 5.º, 8.º, 9.º e 16.º do presente diploma, pelo DRR.19/2006/A.23.05.2006.PG-RAA, DR.IS-B\
+    \ [108] de 05.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-2006-353951
+  date: '2006-05-23'
+- type: amended_by
+  target: pt:dre:444253:por
+  label: "Substituída, nos termos do art. 27.º, a partir de 18.11.2008 (decretos 1-A/2008 e 1- B/2008 de 18-Nov) a estrutura\
+    \ orgânica constante do presente diploma, pelo DRR.25/2008/A.31.12.2008.PG-RAA, DR.IS [252] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/25-2008-444253
+  date: '2008-12-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregulreg/18/1999/12/21/a/dre
   label: null
@@ -134,16 +146,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661748:por
+  label: null
+  source: null
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:29:58Z'
   warnings: []
   errors: []
 ---
@@ -256,7 +280,7 @@ h) Cultura.
 
 ###### Artigo 6.º — Substituição do Presidente do Governo Regional
 
-**O Presidente do Governo Regional, salvo sua indicação em contrário, será substituído, nas suas ausências e impedimentos, pelo Vice-Presidente do Governo Regional ou pelo Secretário Regional que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º do presente diploma.**
+O Presidente do Governo Regional, salvo sua indicação em contrário, será substituído, nas suas ausências e impedimentos, pelo Vice-Presidente do Governo Regional ou pelo Secretário Regional que não esteja ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º do presente diploma.
 
 ###### Artigo 7.º — Competências do Vice-Presidente do Governo Regional e dos secretários regionais
 
@@ -300,7 +324,7 @@ c) Coordenação de projectos especiais interdepartamentais.
 
 ###### Artigo 10.º — Competências do Secretário Regional da Educação e Ciência
 
-**O Secretário Regional da Educação e Ciência exerce as suas competências nas seguintes matérias:**
+O Secretário Regional da Educação e Ciência exerce as suas competências nas seguintes matérias:
 
 a) Educação;
 
@@ -322,7 +346,7 @@ i) Sociedade da informação.
 
 ###### Artigo 11.º — Competências do Secretário Regional da Habitação e Equipamentos
 
-**O Secretário Regional da Habitação e Equipamentos exerce as suas competências nas seguintes matérias:**
+O Secretário Regional da Habitação e Equipamentos exerce as suas competências nas seguintes matérias:
 
 a) Habitação;
 
@@ -338,7 +362,7 @@ f) Inspecção regional de bombeiros.
 
 ###### Artigo 12.º — Competências do Secretário Regional da Economia
 
-**O Secretário Regional da Economia exerce as suas competências nas seguintes matérias:**
+O Secretário Regional da Economia exerce as suas competências nas seguintes matérias:
 
 a) Comércio;
 
@@ -354,7 +378,7 @@ f) Defesa do consumidor.
 
 ###### Artigo 13.º — Competências do Secretário Regional dos Assuntos Sociais
 
-**O Secretário Regional dos Assuntos Sociais exerce as suas competências nas seguintes matérias:**
+O Secretário Regional dos Assuntos Sociais exerce as suas competências nas seguintes matérias:
 
 a) Saúde;
 
@@ -366,7 +390,7 @@ d) Luta contra as dependências.
 
 ###### Artigo 14.º — Competências do Secretário Regional da Agricultura e Florestas
 
-**O Secretário Regional da Agricultura e Florestas exerce as suas competências nas seguintes matérias:**
+O Secretário Regional da Agricultura e Florestas exerce as suas competências nas seguintes matérias:
 
 a) Agricultura, silvicultura e pecuária, incluindo os respectivos sectores de transformação e comercialização;
 
@@ -536,10 +560,10 @@ O presente diploma produz efeitos à data da posse do IX Governo Regional dos A�
 
 Aprovado em Conselho do Governo Regional, na Horta, em 16 de Novembro de 2004.
 
-**O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.**
+O Presidente do Governo Regional, Carlos Manuel Martins do Vale César.
 
-**Assinado em Angra do Heroísmo em 6 de Dezembro de 2004.**
+Assinado em Angra do Heroísmo em 6 de Dezembro de 2004.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.

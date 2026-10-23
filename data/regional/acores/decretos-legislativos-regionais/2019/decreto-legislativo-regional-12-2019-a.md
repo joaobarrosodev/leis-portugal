@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2019/05/10400/0275402769.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/12/2019/05/30/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab3aa8fa70d6439b3c5bb89efead5aa952f64d72b25e5904a183be73603f3846
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 436f9d271d3de44c4def1f1ba1aa50157ff6d4073088d6720e8c2e586df4186a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acesso à Informação
-- Gestão de Resíduos
-- Financiamento
-- Pessoal Dirigente
-- Ordenamento do Território
+- Açores
+- Administração Regional
+- Alteração Climática
 - Conselho Regional do Ambiente e do Desenvolvimento Sustentavel
 - Definição de Competências
+- Direito à Informação
 - Direito de Participação
+- Diversidade Biológica
+- Financiamento
+- Gestão de Resíduos
 - Gestão dos Recursos
 - Grupo de Trabalho
-- Direito à Informação
+- Ordenamento do Território
 - Orgânica
-- Diversidade Biológica
+- Organização não Governamental do Ambiente
+- Pessoal Dirigente
 - Política do Ambiente
 - Recursos Naturais
-- Organização não Governamental do Ambiente
-- Alteração Climática
-- Administração Regional
-- Açores
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/11/2005/06/14/a/dre
@@ -127,16 +127,92 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolassrep/11/2003/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolassrep/11/2003/02/25/p/dre
+- type: cites
+  target: pt:dre:174541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:188561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
 article_structure:
-  article_count: 76
+  article_count: 62
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:25Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +245,9 @@ São alterados os artigos 34.º, 35.º, 39.º, 41.º a 51.º e 54.º do [Decreto
 
 O Conselho Regional do Ambiente e do Desenvolvimento Sustentável, abreviadamente designado por CRADS, é um órgão consultivo do departamento da administração regional autónoma competente em matéria de ambiente, constituído com o objetivo de contribuir para a garantia do direito de participação pública em matérias relativas às políticas públicas de ambiente e sustentabilidade, e de assegurar o diálogo e cooperação com entidades e organizações da sociedade civil com interesse nos domínios ambiental e do desenvolvimento sustentável, na procura de consensos relativos a essas políticas.
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - Ao CRADS compete a emissão de pareceres e recomendações relativas à formulação das linhas gerais de ação da administração regional autónoma nos domínios ambiental e do desenvolvimento sustentável, nomeadamente em matéria de conservação da natureza e da biodiversidade, do ordenamento do território, da gestão dos recursos hídricos, de política de resíduos, das estratégias de mitigação e adaptação às alterações climáticas, e das políticas energética e de mobilidade sustentável.
 
@@ -199,7 +277,9 @@ d) Aprovar o seu plano anual de atividades e o correspondente relatório anual;
 
 e) ...
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 ...
 
@@ -209,7 +289,9 @@ b) Emitir parecer sobre um relatório de progresso trienal, de divulgação púb
 
 c) ...
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - O CRADS é composto pelo membro do Governo Regional com competência em matéria de ambiente, que preside, e pelos seguintes membros:
 
@@ -255,7 +337,9 @@ r) Até três representantes de outras entidades, designadas por despacho do mem
 
 4 - Os convidados a que se refere o número anterior participam nas reuniões do CRADS, sem direito a voto, e em número que, em cada reunião, não pode ser superior a cinco.
 
-###### Artigo 42.º — [...]
+Artigo 42.º
+
+[...]
 
 1 - Os membros do CRADS são designados por um período de dois anos, renovável.
 
@@ -277,7 +361,9 @@ r) Até três representantes de outras entidades, designadas por despacho do mem
 
 10 - O recurso é dirigido ao presidente e apreciado pelo plenário na primeira reunião subsequente à data da sua receção.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - ...
 
@@ -313,7 +399,9 @@ o) ...
 
 2 - Nas suas ausências e impedimentos, o presidente é substituído pelo dirigente máximo do serviço da administração regional autónoma competente em matéria de ambiente.
 
-###### Artigo 44.º — Membros e convidados
+Artigo 44.º
+
+Membros e convidados
 
 1 - Compete aos membros do CRADS:
 
@@ -335,7 +423,9 @@ f) Requerer a inclusão de assuntos na agenda das reuniões ou a convocação de
 
 4 - As personalidades convidadas, quando não exerçam funções públicas na administração regional autónoma dos Açores, têm direito ao pagamento de despesas de transporte e alojamento, nos termos fixados para os trabalhadores que exercem funções públicas e que aufiram remunerações superiores ao nível 18.
 
-###### Artigo 45.º — Participação dos cidadãos
+Artigo 45.º
+
+Participação dos cidadãos
 
 1 - Os cidadãos podem participar na atividade do CRADS mediante a apresentação de comunicações ao Plenário ou através do respetivo sítio na Internet.
 
@@ -347,7 +437,9 @@ f) Requerer a inclusão de assuntos na agenda das reuniões ou a convocação de
 
 5 - Os cidadãos podem, ainda, indicar os assuntos que pretendem ver abordados nas reuniões do CRADS ou efetuar comentários e propostas relativamente aos pontos da agenda da reunião, através de formulários disponibilizados no respetivo sítio na Internet.
 
-###### Artigo 46.º — [...]
+Artigo 46.º
+
+[...]
 
 1 - O secretário-geral é nomeado pelo presidente, ouvido o plenário do CRADS.
 
@@ -373,7 +465,9 @@ i) Acompanhar o desenvolvimento e a atualização do sítio na Internet do CRADS
 
 3 - As funções de secretário-geral são exercidas, em regime de acumulação, por um trabalhador que exerça funções públicas no departamento do Governo Regional com competência em matéria de ambiente.
 
-###### Artigo 47.º — [...]
+Artigo 47.º
+
+[...]
 
 1 - O CRADS reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou por solicitação de, pelo menos, um terço dos seus membros.
 
@@ -389,7 +483,9 @@ i) Acompanhar o desenvolvimento e a atualização do sítio na Internet do CRADS
 
 7 - (Revogado.)
 
-###### Artigo 48.º — Quórum e deliberações
+Artigo 48.º
+
+Quórum e deliberações
 
 1 - (Atual n.º 3.)
 
@@ -401,7 +497,9 @@ i) Acompanhar o desenvolvimento e a atualização do sítio na Internet do CRADS
 
 5 - Os membros do CRADS podem efetuar declaração de voto, imediatamente após a votação que a origine, ou declarem que a farão por escrito, entregando-a até ao final da respetiva reunião.
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - De cada reunião do CRADS é lavrada uma ata, contendo um resumo do que nela tiver ocorrido, indicando, designadamente, a data e o local da reunião, os membros presentes e as justificações dos ausentes, os assuntos apreciados, as conclusões e as deliberações tomadas, incluindo o resultado das respetivas votações e, caso existam, as declarações de voto.
 
@@ -411,7 +509,9 @@ i) Acompanhar o desenvolvimento e a atualização do sítio na Internet do CRADS
 
 4 - Sempre que se mostre necessário, pode ser aprovada, na reunião a que disser respeito, uma minuta da ata, contendo a menção das deliberações tomadas e a forma e o resultado das respetivas votações.
 
-###### Artigo 50.º — Grupos de trabalho
+Artigo 50.º
+
+Grupos de trabalho
 
 1 - O plenário pode, por proposta do presidente, criar grupos de trabalho, tendo por objeto a elaboração de pareceres, relatórios, estudos ou informações destinados a apoiar a ação e objetivos do CRADS, definindo as respetivas atribuições, duração e modo de funcionamento.
 
@@ -431,11 +531,15 @@ d) ...
 
 5 - (Revogado.)
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 O apoio logístico e administrativo para o funcionamento do CRADS é assegurado pelos serviços do departamento do Governo Regional com competência em matéria de ambiente.
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -473,11 +577,11 @@ O presente diploma entra em vigor no dia seguinte à sua publicação.
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de abril de 2019.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 22 de maio de 2019.**
+Assinado em Angra do Heroísmo em 22 de maio de 2019.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 
@@ -1340,3 +1444,5 @@ k) Os artigos 22.º e 23.º do [Decreto Legislativo Regional n.º 40/2008/A](htt
 ###### Artigo 56.º — Entrada em vigor
 
 O presente decreto legislativo regional entra em vigor no 1.º dia do mês imediato ao da sua publicação.
+
+112321196

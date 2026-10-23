@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/10/2009/01/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/10-2009-396879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T15:35:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acee4daefda043b4e6b736cd43a5fb77dad56d042bd8a5624204e67ed74551f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d22b6af45faaee5ff7242623cec4569c18114a5c7c4eacc578cb092179a13c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:35:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,20 +69,20 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acreditação
-- Vinho
 - Comissão de Viticultura da Região dos Vinhos Verdes
 - Comissão Vitivinícola da Região de Lisboa
-- Indicação Geográfica
 - Comissão Vitivinícola Regional Alentejana
-- Comissão Vitivinícola Regional de Trás-os-montes
 - Comissão Vitivinícola Regional da Península de Setúbal
-- Denominação de Origem
-- Entidade Certificadora
+- Comissão Vitivinícola Regional de Trás-os-montes
 - Comissão Vitivinícola Regional do Ribatejo
 - Controlo de Qualidade
 - Controlo Técnico
-- Prorrogação de Prazo
+- Denominação de Origem
+- Entidade Certificadora
+- Indicação Geográfica
 - Produto Vitivinícola
+- Prorrogação de Prazo
+- Vinho
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/212/2004/08/23/p/dre
@@ -116,16 +116,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/739/2008/08/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/739/2008/08/04/p/dre
+- type: cites
+  target: pt:dre:439092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551668:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:35:43Z'
   warnings: []
   errors: []
 ---

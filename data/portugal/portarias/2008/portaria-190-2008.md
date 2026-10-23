@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2008/02/03500/0111601126.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/190/2008/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/190-2008-248009
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T15:30:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2c13dec303d2dce42cca5700302115ae4f706f99296ec97c8f36db9724dd584
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6ac6dfa10dc09dbd027a664be435e165125a42622d64f74c76647b71489ea62
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:30:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Embarcação
 - Instituto Portuário e dos Transportes Marítimos
-- Serviço Público
 - Segurança Marítima
+- Serviço Público
 - TAXA de Prestação de Serviços
 - Vistoria
 relationships:
@@ -77,6 +77,12 @@ relationships:
   target: pt:dre:443930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:439126:por
+  label: "Alterados os cap. I - B e C, VII - C, XII - A, B, C, E e G e XIII - A, B e E do anexo do presente diploma pela PORT.1258/2008.04.11.2008.MOPTC,\
+    \ DR.IS [214] de 04.11.2008, que o republicou em anexo.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1258-2008-439126
+  date: '2008-11-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/98/2001/03/28/p/dre
   label: null
@@ -89,16 +95,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/130/2006/02/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/130/2006/02/14/p/dre
+- type: cites
+  target: pt:dre:344965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684057:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443930:por
+  label: "Revogado a partir de 03.01.2009 o presente diploma, assim como a tabela anexa pela PORT.1496/2008.19.12.2008.MOPTC,\
+    \ DR.IS [245] de 19.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1496-2008-443930
+  date: '2008-12-19'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:30:46Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +155,7 @@ As taxas a cobrar pelo Instituto Portuário e dos Transportes Marítimos, I. P.,
 
 A presente portaria entra em vigor 15 dias após a sua publicação.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 7 de Fevereiro de 2008.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia, em 7 de Fevereiro de 2008.
 
 ## ANEXO — (a que se refere o artigo 1.º)
 
@@ -141,7 +165,7 @@ Segurança marítima
 
 Inspecção de navios, pessoal do mar, náutica de recreio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03500/0111601126.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03500/0111601126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03500/0111601126.pdf)
 
 QUADRO N.º 2
 
@@ -149,10 +173,10 @@ Actividades sectoriais
 
 Marinha do comércio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03500/0111601126.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03500/0111601126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03500/0111601126.pdf)
 
 QUADRO N.º 3
 
 Infra-estruturas e ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/2008/02/03500/0111601126.pdf))](https://files.diariodarepublica.pt/1s/2008/02/03500/0111601126.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/02/03500/0111601126.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1995/07/173b00/48584865.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/decregulreg/13/1995/07/28/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1995-484650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T15:28:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29961856b1434690c082d14eefa5119ff6db892dff412dd1d097f4450f7cce18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e77b95a354aba6cdf92c514f9955fddb9bdb095935bbe3188459f69204ca46f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,37 +65,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Açores
 - Agência de Turismo
 - Ajuda Comunitária
-- Financiamento
-- Câmara do Comércio e Indústria
-- Turismo
-- Construção Civil
-- Conselho Regional de Incentivos
-- Contrato de Concessão
-- Criação de Empresas
-- Desenvolvimento Regional
-- Artesanato
-- Produção Cinematográfica
 - Apoio ao Investimento
-- Projeto de Investimento
-- Indústria
-- Instituto de Investimento e Privatizações dos Açores
-- QCA
-- Criação de Emprego
-- Desenvolvimento Económico
-- Prémio ao Investimento
+- Artesanato
+- Câmara do Comércio e Indústria
 - Cinema
-- Indústria Cinematográfica
-- Sistema de Incentivos da Região Autónoma dos Açores
-- Açores
 - Comércio
+- Conselho Regional de Incentivos
+- Construção Civil
+- Contrato de Concessão
+- Criação de Emprego
+- Criação de Empresas
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Financiamento
+- Indústria
+- Indústria Cinematográfica
+- Instituto de Investimento e Privatizações dos Açores
+- Prémio ao Investimento
+- Produção Cinematográfica
+- Projeto de Investimento
+- QCA
+- Sistema de Incentivos da Região Autónoma dos Açores
 - Teatro
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:233746:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:543367:por
+  label: "Alterados os arts.1º,3º,4º,6º e 9º a 18º, aditado um art. 18º-A e revogados os nºs 2 e 3 do art. 11º e o nº 3 do\
+    \ art. 18º pelo DRR.6/99/A.1999.03.16.SRE-RAA, DR.IS-B [85] de 12/Abr/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1999-543367
+  date: '1999-03-16'
+- type: amended_by
+  target: pt:dre:661752:por
+  label: "Alterados os arts. 10º, 11º e 18º pelo DRR.19/99/A.1999.11.19.SRE-RAA,DR.IS-B [295] de 21/Dez/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/19-1999-661752
+  date: '1999-11-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/declegreg/2/1995/02/20/a/dre
   label: null
@@ -104,16 +115,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/24/1994/11/30/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/24/1994/11/30/a/dre
+- type: cites
+  target: pt:dre:187693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548626:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:339848:por
+  label: "Revogado, sem prejuízo do disposto nos nºs 1 e 4 do art. 22º do mesmo diploma, pelo DLR.26/2000/A.2000.07.10.ALR-RAA,\
+    \ DR.IS-A [184] de 10/Ago/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/26-2000-339848
+  date: '2000-07-10'
 article_structure:
   article_count: 22
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:28:26Z'
   warnings: []
   errors: []
 ---
@@ -366,13 +391,13 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 10 de Maio de 1995.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 22 de Junho de 1995.**
+Assinado em Angra do Heroísmo em 22 de Junho de 1995.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
 
 Quadro I a que se refere o n.º 4 do artigo 4.º
 

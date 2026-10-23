@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2016/05/09600/0160501614.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/9/2016/05/18/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:22:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d817edee97d1c2b4d972935b9223fbd10f4920940502a5fa565f78d973c4e861
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d66073fe8138682214aa50691c4bd07611cec934b43c3ff9a138345a9d592194
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:22:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ajuda Comunitária
-- Financiamento
-- Governo Regional
-- Desenvolvimento Regional
-- Competitividade Empresarial
-- Fiscalização
-- Página na Internet
-- Desenvolvimento Económico
-- Sistema de Incentivos da Região Autónoma dos Açores
 - Açores
-- Sistema de Incentivos de BASE Regional
-- Sistema de Incentivos Regionais
-- Sistema de Incentivos para a Competitividade Empresarial
+- Ajuda Comunitária
+- Competitividade Empresarial
+- Desenvolvimento Económico
+- Desenvolvimento Regional
+- Financiamento
+- Fiscalização
+- Governo Regional
+- Página na Internet
 - PORTUGAL 2020
+- Sistema de Incentivos da Região Autónoma dos Açores
+- Sistema de Incentivos de BASE Regional
+- Sistema de Incentivos para a Competitividade Empresarial
+- Sistema de Incentivos Regionais
 relationships:
 - type: amended_by
   target: pt:dre:117821874:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Alterado o art. 4.º e revogadas as als. c) do n.º 1 e c) do n.º 2 do art. 2.º do DLR 12/2014/A, de 09-jul, na versão
+    revista e republicada pelo presente diploma pelo(a) Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º
+    2/2018, Série I de 2018-01-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
+- type: amended_by
+  target: pt:dre:117821874:por
+  label: Alterados, a partir de 15.02.2019, os arts. 17.º e 18.º do DLR 12/2014/A, de 09-jul na redação e na versão revista
+    e republicada pelo presente diploma, pelo(a) Decreto Legislativo Regional n.º 2/2019/A - Diário da República n.º 11/2019,
+    Série I de 2019-01-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2019-117821874
+  date: '2019-01-16'
 - type: cites
   target: celex:32013R1301
   label: null
@@ -141,16 +155,104 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/26/2011/11/04/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/26/2011/11/04/a/dre
+- type: cites
+  target: pt:dre:146559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:334115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335417:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335434:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:543911:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611938:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628852:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636761:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73070297:por
+  label: null
+  source: null
 article_structure:
-  article_count: 41
+  article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:22:16Z'
   warnings: []
   errors: []
 ---
@@ -201,7 +303,9 @@ e) [...]
 
 4 - [...]
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - [...]
 
@@ -221,7 +325,9 @@ c) [...]
 
 6 - [...]
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - [...]
 
@@ -251,11 +357,15 @@ l) [...]
 
 2 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 As candidaturas aos diversos Subsistemas de Incentivos do Competir+ são apresentadas, regra geral, no âmbito de um procedimento concursal e são submetidas através de formulário eletrónico, disponível no Balcão 2020 ou no Portal do Governo Regional.
 
-###### Artigo 12.º — Aceitação da decisão e contrato de concessão dos incentivos
+Artigo 12.º
+
+Aceitação da decisão e contrato de concessão dos incentivos
 
 1 - A concessão do incentivo é formalizada mediante contrato a celebrar, por documento particular, entre a Região Autónoma dos Açores, através do membro do Governo Regional responsável pela concessão do incentivo e o promotor, no prazo máximo trinta dias úteis contados da data da notificação da decisão da concessão ou mediante assinatura do termo de aceitação.
 
@@ -269,7 +379,9 @@ As candidaturas aos diversos Subsistemas de Incentivos do Competir+ são apresen
 
 6 - O termo de aceitação devidamente assinado pelo beneficiário tem a natureza jurídica de um contrato escrito.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O contrato de concessão de incentivos pode ser rescindido, por despacho do membro do Governo Regional responsável pela concessão do incentivo, em representação da Região, ou revogada a concessão do apoio, com os seguintes fundamentos:
 
@@ -283,7 +395,9 @@ c) [...]
 
 3 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Os pagamentos dos incentivos são efetuados por transferência bancária para a conta bancária do promotor indicada no contrato de concessão de incentivos ou no termo de aceitação.
 
@@ -295,7 +409,9 @@ c) [...]
 
 5 - [...]
 
-###### Artigo 16.º — Adiantamento do pagamento
+Artigo 16.º
+
+Adiantamento do pagamento
 
 1 - Para além da situação prevista no artigo anterior, os promotores podem, igualmente, após a assinatura do contrato de concessão ou do termo de aceitação, recorrer ao mecanismo de adiantamento do pagamento do incentivo.
 
@@ -309,7 +425,9 @@ c) [...]
 
 6 - [...]
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Os promotores ficam sujeitos às seguintes obrigações:
 
@@ -343,7 +461,9 @@ n) [...]
 
 o) [...]
 
-###### Artigo 18.º — Competências da entidade avaliadora
+Artigo 18.º
+
+Competências da entidade avaliadora
 
 1 - À entidade avaliadora, compete:
 
@@ -385,13 +505,17 @@ q) [...].
 
 3 - [...]
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Os incentivos previstos no presente diploma não são cumuláveis com quaisquer outros da mesma natureza, para as mesmas despesas elegíveis.
 
 2 - No caso de um projeto beneficiar de incentivos de outra natureza, nomeadamente benefícios fiscais e instrumentos financeiros, o incentivo total acumulado deve respeitar os limites comunitários aplicáveis em matéria de regras de auxílios de Estado.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - O [Decreto Legislativo Regional n.º 19/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2007-636761), de 23 de julho, alterado e republicado pelo [Decreto Legislativo Regional n.º 26/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2011-146559), de 4 de novembro, bem como a respetiva regulamentação, e o [Decreto Legislativo Regional n.º 25/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2010-334115), de 22 de julho, continuam a aplicar-se aos projetos de investimento aprovados no âmbito do SIDER - Sistema de Incentivos para o Desenvolvimento Regional dos Açores e Empreende Jovem - Sistema de Incentivos ao Empreendedorismo, bem como aos projetos que, cumprindo com as condições previstas no Programa Operacional para os Açores 2020 (PO Açores 2020) venham a ser integrados neste, através da publicação de Avisos para apresentação de candidaturas.
 
@@ -407,11 +531,11 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem pr
 
 Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de abril de 2016.
 
-**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
 
-**Assinado em Angra do Heroísmo em 5 de maio de 2016.**
+Assinado em Angra do Heroísmo em 5 de maio de 2016.
 
-**Publique-se.**
+Publique-se.
 
 O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
 

@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/109a00/30343042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/declegreg/24/2003/05/12/a/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2003-581671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T15:19:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6371b29a68fd5be61f3cea54a57483d2674ed2c7cd00c313d30fe8e8ab44622
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a38ce96a89c8a4e11e6b02ecdb72052ddc891dd93e215f3713032a9b53f7c7ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:19:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,21 +68,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ordenamento do Território
-- Governo Regional
+- Açores
 - Definição de Competências
-- Publicitação
+- Diploma Legal
+- Governo Regional
+- Ordenamento do Território
 - Plano de Bacia Hidrográfica
 - Política de Solos
 - Prota
-- Diploma Legal
+- Publicitação
 - Regime Jurídico
-- Açores
 relationships:
 - type: amended_by
   target: pt:dre:175320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452917:por
+  label: "Alterado o art. 16º e republicado o DLR 14/2000/A de 23-Mai, na redacção e republicação do presente diploma, pelo\
+    \ DLR.43/2008/A.08.10.2008.AL-RAA, DR.IS [195] de 08.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/43-2008-452917
+  date: '2008-10-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/115/2001/04/07/p/dre
   label: null
@@ -107,16 +113,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/declegreg/5/1991/03/08/a/dre
   label: null
   source: http://data.dre.pt/eli/declegreg/5/1991/03/08/a/dre
+- type: cites
+  target: pt:dre:300039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362688:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:175320:por
+  label: "Revogado, a partir de 31.08.2012, pelo DLR.35/2012/A.16.08.2012.AL-RAA, DR.IS [158] de 16.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/35-2012-175320
+  date: '2012-08-16'
 article_structure:
-  article_count: 39
+  article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:19:47Z'
   warnings: []
   errors: []
 ---
@@ -153,7 +192,9 @@ Sistema de gestão territorial
 
 5 - (Anterior n.º 3.)
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -161,7 +202,9 @@ Sistema de gestão territorial
 
 3 - Consideram-se de âmbito regional os planos sectoriais e os planos especiais de ordenamento do território cuja elaboração tenha sido determinada de acordo com o número anterior, sem prejuízo do disposto no n.º 2 do artigo 2.º do diploma referido no n.º 1.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +254,9 @@ o) Outras entidades que venham a ser consideradas relevantes.
 
 9 - O acompanhamento da elaboração dos planos de urbanização e dos planos de pormenor é assegurado pelo membro do Governo Regional com competência na área do ambiente, nas condições e com as entidades a determinar por despacho, mediante informação da câmara municipal.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -221,7 +266,9 @@ o) Outras entidades que venham a ser consideradas relevantes.
 
 4 - ...
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - A publicitação dos actos a que se referem os artigos 40.º, 48.º, 58.º, 74.º, 77.º, 148.º e 149.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, atende ao disposto nos números seguintes.
 
@@ -233,7 +280,9 @@ o) Outras entidades que venham a ser consideradas relevantes.
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A ratificação a que se referem os artigos 68.º e 80.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, atende ao disposto nos números seguintes.
 
@@ -273,11 +322,15 @@ d) Todas as outras formas de alteração ou suspensão de planos de urbanizaçã
 
 10 - As referências feitas à comissão de coordenação regional no n.º 3 do artigo 80.º do diploma referido no n.º 1 reportam-se à direcção regional com competência na área da administração local no caso das alíneas c) e d), e ainda no caso da alínea e) quando se trate de incompatibilidade com plano intermunicipal de ordenamento do território ou de desconformidade com plano director municipal.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 A suspensão das disposições dos instrumentos de gestão territorial, nas situações previstas no artigo 99.º e no n.º 1 e na alínea a) do n.º 2 do artigo 100.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, efectua-se mediante decreto regulamentar regional.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 
@@ -285,7 +338,9 @@ A suspensão das disposições dos instrumentos de gestão territorial, nas situ
 
 3 - Nos planos municipais de ordenamento do território, é competente para o processo de contra-ordenação e aplicação de coimas o presidente da câmara municipal, no caso de plano director municipal, o director regional com competência na área da administração local e, no caso de plano de urbanização ou de pormenor, o membro do Governo Regional com competência na área do ambiente.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -299,7 +354,9 @@ A suspensão das disposições dos instrumentos de gestão territorial, nas situ
 
 6 - As ordens de embargo e de demolição são objecto de registo na conservatória do registo predial competente mediante comunicação do presidente da câmara municipal ou das direcções regionais com competência nas áreas da administração local ou do ordenamento do território, consoante o caso.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -309,7 +366,9 @@ A suspensão das disposições dos instrumentos de gestão territorial, nas situ
 
 4 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -329,13 +388,17 @@ A suspensão das disposições dos instrumentos de gestão territorial, nas situ
 
 9 - A referência feita ao presidente da comissão de coordenação regional ou ao órgão competente do Ministério do Ambiente no n.º 2 do artigo 114.º do diploma referido no n.º 1 reporta-se ao membro do Governo Regional com competência na área do ambiente.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - O plano regional e os planos sectoriais de ordenamento do território são aprovados por decreto legislativo regional.
 
 2 - Os planos especiais de ordenamento do território são aprovados por decreto regulamentar regional.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -361,7 +424,9 @@ b) Os decretos regulamentares regionais a que se referem os n.os 2 e 5 do artigo
 
 c) As portarias referidas nos n.os 3 e 6 do artigo 8.º
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -377,7 +442,9 @@ c) ...
 
 4 - Relativamente aos municípios que não disponham de plano director municipal eficaz, só é possível a celebração de contratos de desenvolvimento entre a administração regional autónoma e a administração local, na forma de cooperação financeira directa, até 31 de Dezembro de 2003.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Na selecção de candidaturas de projecto às acções financiadas pelas intervenções operacionais incluídas no quadro comunitário de apoio a executar exclusivamente na Região apresentadas por autarquias locais não serão aceites:
 
@@ -385,7 +452,9 @@ a) A partir de 1 de Julho de 2004, as que digam respeito a áreas territoriais q
 
 b) A partir de 1 de Janeiro de 2005, as que digam respeito a áreas territoriais que não disponham de plano director municipal eficaz.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -395,7 +464,9 @@ b) A partir de 1 de Janeiro de 2005, as que digam respeito a áreas territoriais
 
 4 - ...
 
-###### Artigo 19.º — Planos de ordenamento das bacias hidrográficas de lagoas
+Artigo 19.º
+
+Planos de ordenamento das bacias hidrográficas de lagoas
 
 1 - As referências feitas no [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, aos planos de ordenamento de albufeiras de águas públicas reportam-se também a planos de ordenamento das bacias hidrográficas de lagoas, enquanto planos especiais de ordenamento do território.
 
@@ -425,13 +496,13 @@ O presente diploma reporta os seus efeitos a 1 de Janeiro de 2003.
 
 Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 20 de Março de 2003.
 
-**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
 
-**Assinado em Angra do Heroísmo em 17 de Abril de 2003.**
+Assinado em Angra do Heroísmo em 17 de Abril de 2003.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
 
 ## ANEXO — (a que se refere o artigo 3.º)
 

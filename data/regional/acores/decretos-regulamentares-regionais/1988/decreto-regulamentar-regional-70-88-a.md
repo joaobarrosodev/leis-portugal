@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26600/46094612.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/70-1988-357705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T15:27:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b02b3e83f999b5ef472acd39150a5394cd9c891c8a3e72ff1f547ea8ac75af71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e52b613e97503944062ae2612662d07cf49e3111823a61705cbb98c3a31dd93
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Gabinete de Gestão Financeira do Emprego
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:517233:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:556598:por
+  label: "Alterados o art. 3º, secção II - constituída pelos art.s 6º a 10º - e art. 18º, revogado o art. 20º e substituí\
+    \ o quadro de pessoal publicado em anexo, pelo DRR.27/90/A.06.09.1990.GR-RAA, DR.IS [206] de 06.09.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-1990-556598
+  date: '1990-09-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 18, NA REDACÇÃO DADA PELO DRR 70/88/A DR.IS [206] DE 17/NOV/1988, E O ART 21 PELO DRR 41/92/A DR.IS-B
+    [265] DE 16/NOV/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-11-16'
+- type: amended_by
+  target: pt:dre:611316:por
+  label: "Alterados os art.s 6º, 7º e 8º (todos na redação do DRR 27/90/A, de 06-set) e revogados os art.s 6º-A, 6º-B e 9º,\
+    \ pelo DRR.7/96/A.20.02.1996.RAA, DR.IS-B [43] de 20.02.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/7-1996-611316
+  date: '1996-02-20'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: REVOGADO O NUM 2 DO ART 6, NA REDACÇÃO DADA PELO DRR 27/90/A, DR.IS [206] DE 17/NOV/1988, E OS ART 10 E 25 PELO DRR
+    41/92/A DR.IS-B [265] DE 16/NOV/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-11-16'
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADOS OS ART 6-A, 6-B E 9 NAREDACCAO CONSTANTE DO ART 2 DO DRR 27/90/A DE 09-AGO PELO DRR 7/96/A DE 22-JAN DR.IS-B\
+    \ [43] DE 20/FEV/1996. ALTERADOS OS ART 6, 7 E 8 NA REDACÇÃO CONSTANTE DO ART 2 DO DRR 27/90/A DE 09-AGO E DO DRR 41/92/A\
+    \ DE 13-OUT PELO DRR 7/96/A DE 22-JAN DR.IS-B [43] DE 20/FEV/1996\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-02-20'
+- type: repealed_by
+  target: pt:dre:633174:por
+  label: "Revogado pelo DRR.27/2003/A.2003.07.28.PG-RAA DR.IS-B [198] de 28/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/27-2003-633174
+  date: '2003-07-28'
 article_structure:
   article_count: 26
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T15:27:19Z'
   warnings: []
   errors: []
 ---
@@ -337,14 +392,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Conselho do Governo Regional, na Horta, em 6 de Setembro de 1988.
 
-**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+O Presidente do Governo Regional, João Bosco Mota Amaral.
 
-**Assinado em Angra do Heroísmo em 21 de Outubro de 1988.**
+Assinado em Angra do Heroísmo em 21 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.
 
 ## ANEXO — Quadro de pessoal a que se refere o artigo 18.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/26600/46094612.pdf))](https://files.diariodarepublica.pt/1s/1988/11/26600/46094612.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/26600/46094612.pdf)
